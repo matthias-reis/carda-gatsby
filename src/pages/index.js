@@ -2,17 +2,32 @@ import React from 'react';
 import { graphql, Link } from 'gatsby';
 
 const IndexPage = ({ data }) => {
+  const articles = data.allMarkdownRemark.nodes.filter(
+    (node) => node.fields.type === 'article'
+  );
+  const pages = data.allMarkdownRemark.nodes.filter(
+    (node) => node.fields.type === 'page'
+  );
   return (
     <div>
       <h1>Homepage</h1>
+      <h2>Articles</h2>
       <ul>
-        {data.allSitePage.edges.map(({ node }) => {
+        {articles.map(({ fields, frontmatter }) => {
           return (
-            node.path && (
-              <li key={node.path}>
-                <Link to={node.path}>{node.context.title}</Link>
-              </li>
-            )
+            <li key={fields.path}>
+              <Link to={fields.path}>{frontmatter.title}</Link>
+            </li>
+          );
+        })}
+      </ul>
+      <h2>Pages</h2>
+      <ul>
+        {pages.map(({ fields, frontmatter }) => {
+          return (
+            <li key={fields.path}>
+              <Link to={fields.path}>{frontmatter.title}</Link>
+            </li>
           );
         })}
       </ul>
@@ -24,13 +39,15 @@ export default IndexPage;
 
 export const query = graphql`
   query HomePageQuery {
-    allSitePage {
-      edges {
-        node {
+    allMarkdownRemark {
+      nodes {
+        fields {
           path
-          context {
-            title
-          }
+          type
+        }
+        frontmatter {
+          title
+          subtitle
         }
       }
     }

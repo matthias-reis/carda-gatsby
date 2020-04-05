@@ -3,7 +3,6 @@ import styled from '@emotion/styled';
 
 import { space, width } from '../style';
 
-console.log(width);
 const PageContainer = styled.div`
   margin: ${space[3]} auto;
   max-width: ${width[4]};

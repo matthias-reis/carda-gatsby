@@ -10,17 +10,10 @@ const ALL_PAGE_QUERY = `
           node {
             id
             fields {
-              slug
-            }
-            parent {
-              ... on File {
-                sourceInstanceName
-              }
+              path
+              type
             }
             frontmatter {
-              date(formatString: "YYYY-MM")
-              title
-              slug
               labels
             }
           }
@@ -43,23 +36,20 @@ exports.createPages = async ({ actions, graphql }) => {
 
   for (const edge of edges) {
     const { id, fields, parent, frontmatter } = edge.node;
-    let slug = '';
-    if (parent.sourceInstanceName === 'articles') {
-      const [year, month] = frontmatter.date.split('-');
-      slug = `/${year}/${month}/${fields.slug.split('---')[1]}`;
-    } else if (parent.sourceInstanceName === 'pages') {
-      slug = `/pages${fields.slug}`;
-    }
+    const component = path.resolve(
+      `src/components/${fields.type}-container.js`
+    );
     createPage({
-      path: slug,
+      path: fields.path,
       labels: frontmatter.labels,
-      component: path.resolve(`src/components/page-article.js`),
+      component,
       context: {
         id,
-        ...frontmatter,
       },
     });
+
     labels = [...labels, ...(frontmatter.labels || [])];
+
     // // Tag pages:
     // // Iterate through each post, putting all found tags into `tags`
     // posts.forEach((edge) => {
@@ -88,13 +78,45 @@ exports.createPages = async ({ actions, graphql }) => {
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
   fmImagesToRelative(node); // convert image paths for gatsby images
-
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode });
+    const parent = getNode(node.parent);
+    const type = parent.sourceInstanceName;
+    const value = createFilePath({ node, getNode }).replace(/\//g, '');
+    const slug = value.split('---')[1] || value;
+
+    let path = '';
+    if (type === 'article') {
+      const date = value.split('---')[0];
+      const [year, month] = date.split('-');
+      path = `/${year}/${month}/${slug}`;
+      createNodeField({
+        node,
+        name: `year`,
+        value: year,
+      });
+      createNodeField({
+        node,
+        name: `month`,
+        value: month,
+      });
+    } else if (type === 'page') {
+      path = `/pages/${slug}`;
+    }
+
     createNodeField({
-      name: `slug`,
       node,
-      value,
+      name: `type`,
+      value: type,
+    });
+    createNodeField({
+      node,
+      name: `slug`,
+      value: slug,
+    });
+    createNodeField({
+      node,
+      name: `path`,
+      value: path,
     });
   }
 };
