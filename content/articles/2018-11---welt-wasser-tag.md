@@ -13,7 +13,7 @@ labels:
   - bar
 ---
 
-![Welt Wasser Tag](./welt-wasser-tag.jpg)
+![Welt Wasser Tag](./img/welt-wasser-tag.jpg)
 
 <Meme>
   Der Welt Wasser Tag is super cool!
@@ -62,7 +62,7 @@ Wasserspeichern zählen unter anderem Wälder, Wiesen und Feuchtgebiete.
 
 <Youtube src="ndfnsndf"/>
 
-<h1 style='background: red'>test</h1>
+<h1 style='background: red'>Hier</h1>
 
 <Gallery type='dreispaltig' folder='./bilder' />
 

@@ -28,6 +28,8 @@ export const query = graphql`
         relativeDate: date(fromNow: true)
         absolueDate: date
         description
+        title
+        subtitle
       }
     }
   }

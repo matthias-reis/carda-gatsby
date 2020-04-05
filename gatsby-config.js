@@ -79,10 +79,11 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    `gatsby-plugin-emotion`,
     {
-      resolve: `gatsby-plugin-emotion`,
+      resolve: `gatsby-plugin-typography`,
       options: {
-        // Accepts all options defined by `babel-plugin-emotion` plugin.
+        pathToConfigModule: `src/typography.js`,
       },
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
