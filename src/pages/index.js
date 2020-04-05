@@ -6,14 +6,15 @@ const IndexPage = ({ data }) => {
     <div>
       <h1>Homepage</h1>
       <ul>
-        {data.allSitePage.edges.map(
-          ({ node }) =>
+        {data.allSitePage.edges.map(({ node }) => {
+          return (
             node.path && (
-              <li>
+              <li key={node.path}>
                 <Link to={node.path}>{node.context.title}</Link>
               </li>
             )
-        )}
+          );
+        })}
       </ul>
     </div>
   );
