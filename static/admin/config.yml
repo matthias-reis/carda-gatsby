@@ -38,7 +38,7 @@ collections:
       - { label: 'Labels', name: 'labels', widget: 'list' }
       - {
           label: 'Type',
-          name: 'categories',
+          name: 'type',
           widget: 'select',
           default: 'Standard',
           options: ['Standard', 'Galerie', 'Galerie mit Bild'],
