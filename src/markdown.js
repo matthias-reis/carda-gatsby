@@ -9,11 +9,11 @@ const rehype2react = require('rehype-react');
 
 export const processor = (components) =>
   unified()
-    .use(markdown, { commonmark: true })
+    .use(markdown, { commonmark: false })
     // .use(slug)
-    .use(remark2rehype, { commonmark: true, allowDangerousHTML: true })
+    .use(remark2rehype, { commonmark: false, allowDangerousHTML: true })
     // .use(autolink)
-    // .use(raw)
+    .use(raw)
     .use(rehype2react, {
       createElement,
       components,

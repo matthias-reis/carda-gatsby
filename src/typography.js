@@ -4,11 +4,11 @@ import { fontStack } from './style';
 const cardaTheme = {
   baseFontSize: '18px',
   baseLineHeight: 1.5,
-  scaleRatio: 2.1,
+  scaleRatio: 2,
   googleFonts: [
     {
       name: 'Josefin Sans',
-      styles: ['400'],
+      styles: ['300'],
     },
     {
       name: 'Raleway',

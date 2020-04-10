@@ -2,12 +2,10 @@ import React from 'react';
 import { graphql, Link } from 'gatsby';
 
 const IndexPage = ({ data }) => {
-  const articles = data.allMarkdownRemark.nodes.filter(
+  const articles = data.allMdx.nodes.filter(
     (node) => node.fields.type === 'article'
   );
-  const pages = data.allMarkdownRemark.nodes.filter(
-    (node) => node.fields.type === 'page'
-  );
+  const pages = data.allMdx.nodes.filter((node) => node.fields.type === 'page');
   return (
     <div>
       <h1>Homepage</h1>
@@ -39,7 +37,7 @@ export default IndexPage;
 
 export const query = graphql`
   query HomePageQuery {
-    allMarkdownRemark {
+    allMdx {
       nodes {
         fields {
           path

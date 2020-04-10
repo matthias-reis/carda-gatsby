@@ -15,9 +15,10 @@ labels:
 
 ![Welt Wasser Tag](./img/welt-wasser-tag.jpg)
 
-<Meme>
-  Der Welt Wasser Tag is super cool!
-</Meme>
+<strong>BOLD</strong>
+
+- [ ] a task
+- [x] a checked task
 
 **Vorgeschlagen** wurde der Tag im Rahmen der _Agenda 21_ der UN-Konferenz für
 **Umwelt und Entwicklung** (UNCED). Die

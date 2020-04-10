@@ -7,7 +7,7 @@ description: >-
   tasters, has been revised for the first time this year.
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-labbels:
+labels:
   - flavor
   - tasting
 ---
