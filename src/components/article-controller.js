@@ -6,6 +6,7 @@ import { graphql } from 'gatsby';
 import { Article } from './article';
 import { Meme } from './meme';
 import { Link } from './link';
+import { Frame } from './frame';
 
 const shortcodes = { Meme };
 const defaults = { a: Link };
@@ -13,9 +14,11 @@ const defaults = { a: Link };
 export default function ArticleController({ data }) {
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
-      <Article meta={data.mdx}>
-        <MDXRenderer>{data.mdx.body}</MDXRenderer>
-      </Article>
+      <Frame>
+        <Article meta={data.mdx.frontmatter}>
+          <MDXRenderer>{data.mdx.body}</MDXRenderer>
+        </Article>
+      </Frame>
     </MDXProvider>
   );
 }

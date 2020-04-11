@@ -2,14 +2,17 @@ backend:
   name: git-gateway
   branch: master
   commit_messages:
-    create: 'Create “{{slug}}”'
-    update: 'Update “{{slug}}”'
-    delete: 'Delete “{{slug}}”'
-    uploadMedia: '[skip ci] Upload “{{path}}”'
-    deleteMedia: '[skip ci] Delete “{{path}}”'
+    create: 'cms: Create “{{slug}}”'
+    update: 'cms: Update “{{slug}}”'
+    delete: 'cms: Delete “{{slug}}”'
+    uploadMedia: 'cms media: [skip ci] Upload “{{path}}”'
+    deleteMedia: 'cms media: [skip ci] Delete “{{path}}”'
 
 media_folder: static/img
 public_folder: /img
+publish_mode: editorial_workflow
+editor:
+  preview: false
 
 slug:
   encoding: ascii
