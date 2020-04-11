@@ -26,7 +26,7 @@ module.exports = async ({ actions, graphql }) => {
 
   const { errors, data } = await graphql(ALL_PAGE_QUERY);
   if (errors) {
-    errors.forEach((e) => console.error(e.toString()));
+    errors.forEach(e => console.error(e.toString()));
     throw new Error(`All page query ended with errors: ${errors.join(', ')}`);
   }
 
@@ -38,15 +38,15 @@ module.exports = async ({ actions, graphql }) => {
     const component = resolve(
       __dirname,
       '../components',
-      `article-container.js`
+      `article-controller.js`
     );
     createPage({
       path: fields.path,
       labels: frontmatter.labels,
       component,
       context: {
-        id,
-      },
+        id
+      }
     });
 
     // labels = [...labels, ...(frontmatter.labels || [])];

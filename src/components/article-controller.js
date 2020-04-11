@@ -10,7 +10,7 @@ import { Link } from './link';
 const shortcodes = { Meme };
 const defaults = { a: Link };
 
-export default function ArticleTemplate({ data }) {
+export default function ArticleController({ data }) {
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
       <Article meta={data.mdx}>
@@ -20,7 +20,7 @@ export default function ArticleTemplate({ data }) {
   );
 }
 
-export const articleQuery = graphql`
+export const query = graphql`
   query ArticleQuery($id: String!) {
     mdx(id: { eq: $id }) {
       body
