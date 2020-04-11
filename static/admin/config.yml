@@ -34,7 +34,7 @@ collections:
       - { label: 'Exzerpt', name: 'description', widget: 'text' }
       - { label: 'GoLive', name: 'date', widget: 'datetime' }
       - { label: 'Bild', name: 'image', widget: image }
-      - { label: 'Text', name: 'text', widget: 'markdown' }
+      - { label: 'Text', name: 'body', widget: 'markdown' }
       - { label: 'Labels', name: 'labels', widget: 'list' }
       - {
           label: 'Type',
