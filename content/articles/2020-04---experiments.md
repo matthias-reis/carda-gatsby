@@ -1,16 +1,17 @@
 ---
 slug: experimente-individual-slug
 title: Experimentierseite
-subtitle:
-  Mit einem Untertitel. Wo soll der angezeigt werden? Über dem Bild, oder?
-description:
+subtitle: 'Mit einem Untertitel. Wo soll der angezeigt werden? Über dem Bild, oder?'
+description: >-
   Dies ist eine laengere Beschreinbung. Sie muss am Ende als meta description im
   Blog erscheinen.
-date: 2020-04-06
+date: 2020-03-04T02:00:00.000Z
+image: /img/img_1378.jpg
 labels:
   - Das ist ein längeres Label.
   - demo
   - experimente
+type: Standard
 ---
 
 ## Headline 2 - es sollte keine H1 geben.
