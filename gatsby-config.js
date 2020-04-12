@@ -39,8 +39,8 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/src/img`,
-        name: 'images'
+        path: `${__dirname}/static/img`,
+        name: 'uploads'
       }
     },
     {
@@ -48,6 +48,12 @@ module.exports = {
       options: {
         extensions: ['.mdx', '.md'],
         gatsbyRemarkPlugins: [
+          {
+            resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'uploads'
+            }
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {

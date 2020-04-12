@@ -29,8 +29,6 @@ Thema „Abwasser“, 2016 „Wasser und Arbeitsplätze“. In diesem Jahr dreht
 sdfjhsdkjfh jshdkfjhskdf skdjfhksjdfhkj alles um das Thema „Naturbasierte
 Lösungen für das Wasser“.
 
-.left[![Welt-Wasser-Tag](./welt-wasser-tag-1.jpg)]
-
 ## Natürliche **Wasserspeicher** nutzen
 
 Weltwassertag2018 soll für ein stärkeres Bewusstsein für die Berücksichtigung

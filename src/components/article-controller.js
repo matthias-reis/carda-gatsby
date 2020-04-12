@@ -5,11 +5,13 @@ import { graphql } from 'gatsby';
 
 import { Article } from './article';
 import { Meme } from './meme';
-import { Image } from './image';
+import { Youtube } from './youtube';
+import { Playlist } from './playlist';
+import Image from './image';
 import { Link } from './link';
 import { Frame } from './frame';
 
-const shortcodes = { Meme };
+const shortcodes = { Meme, Youtube, Playlist };
 const defaults = { a: Link, img: Image };
 
 export default function ArticleController({ data }) {

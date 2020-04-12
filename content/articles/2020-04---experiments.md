@@ -26,6 +26,32 @@ veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
 quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
+## Images
+
+![Demonstration](/img/demo.jpg)
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
+quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
+veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+![Demonstration | large](/img/demo.jpg)
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
+quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+
+![Demonstration](/img/demo.jpg 'with caption')
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
+veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
+veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
 ## HTML
 
 <div style='border: 4px dotted tomato'>
@@ -44,3 +70,11 @@ quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
 - [external Link](https://www.xing.com) und der Text danach
 - [internal Link](/2018/11/welt-wasser-tag) und der Text danach
+
+## YouTube
+
+<Youtube id="1234" />
+
+## Playlists
+
+<Playlist spotify="spotify ..." itunes="itunes ..." />
