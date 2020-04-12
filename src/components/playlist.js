@@ -3,18 +3,61 @@ import styled from '@emotion/styled';
 
 import { space, width } from '../style';
 
+import itunesImage from '../assets/itunes.png';
+import spotifyImage from '../assets/spotify.png';
+
 const PlaylistContainer = styled.div`
   height: ${width[4]};
-  background: #ddd;
-  margin: 0 0 ${space[1]} 0;
+  margin: 0 -${space[4]} ${space[1]} -${space[4]};
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+`;
+const TypeContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1 1 auto;
+  iframe {
+    flex: 1 1 auto;
+    margin: 0 ${space[2]};
+  }
+`;
+
+const IconContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 auto;
+  height: 80px;
+  & img {
+    width: 120px;
+    margin: 0;
+  }
 `;
 
 export const Playlist = ({ spotify, itunes }) => {
   return (
     <PlaylistContainer>
-      <h3>PLAYLIST</h3>
-      <p>{spotify}</p>
-      <p>{itunes}</p>
+      <TypeContainer>
+        <IconContainer>
+          <img src={spotifyImage} alt="spotify" />
+        </IconContainer>
+        <iframe
+          src={`https://open.spotify.com/embed/playlist/${spotify}`}
+          frameBorder="0"
+        />
+      </TypeContainer>
+      <TypeContainer>
+        <IconContainer>
+          <img src={itunesImage} alt="itunes" />
+        </IconContainer>
+        <iframe
+          src={`https://embed.music.apple.com/de/playlist/${itunes}`}
+          frameborder="0"
+          sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+        />
+      </TypeContainer>
     </PlaylistContainer>
   );
 };
