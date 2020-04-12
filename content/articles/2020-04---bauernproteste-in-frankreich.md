@@ -31,7 +31,7 @@ Zudem machen die französischen Landwirte auch die in Deutschland immer zahlreic
 
 Die Bauern wünschen sich eine Lösung für die Zukunft und wollen so lange weiter auf die Straße gehen, bis diese gefunden ist. Inzwischen hat sich die Regierung zu Gesprächen bereiterklärt, um zu diskutieren, wie sich weiteres Preisdumping vermeiden lässt.
 
-###Rückgang des Fleischkonsums
+### Rückgang des Fleischkonsums
 
 Dass die Nachfrage nach Fleisch- und Milchprodukten immer weiter nachlässt, ist kein Geheimnis. Es wird dennoch immer mehr und immer billiger produziert und für den Export zur Verfügung gestellt (wir berichteten). Der Sog aus Subventionen und Billiglohn ist stark und scheint nicht aufzuhalten. Nach und nach denken viele Bürger um, steigen um auf vegan, kaufen bewusster ein und beschäftigen sich mehr und mehr mit dem, was auf dem Teller landet.
 
