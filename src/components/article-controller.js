@@ -5,11 +5,12 @@ import { graphql } from 'gatsby';
 
 import { Article } from './article';
 import { Meme } from './meme';
+import { Image } from './image';
 import { Link } from './link';
 import { Frame } from './frame';
 
 const shortcodes = { Meme };
-const defaults = { a: Link };
+const defaults = { a: Link, img: Image };
 
 export default function ArticleController({ data }) {
   return (
@@ -31,7 +32,13 @@ export const query = graphql`
         title
         subtitle
         description
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 900, quality: 70) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
       id
     }

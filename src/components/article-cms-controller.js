@@ -1,13 +1,8 @@
 import React from 'react';
-import { Link } from '@reach/router';
 
 import { Article } from './article';
-import { Meme } from './meme';
 import { ErrorBoundary } from './error-boundary';
 import { processor } from '../markdown';
-
-const shortcodes = { Meme };
-const defaults = { a: Link };
 
 const ArticleCmsControlle = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS();

@@ -1,7 +1,8 @@
 ---
 slug: experimente-individual-slug
 title: Experimentierseite
-subtitle: 'Mit einem Untertitel. Wo soll der angezeigt werden? Über dem Bild, oder?'
+subtitle:
+  'Mit einem Untertitel. Wo soll der angezeigt werden? Über dem Bild, oder?'
 description: >-
   Dies ist eine laengere Beschreinbung. Sie muss am Ende als meta description im
   Blog erscheinen.

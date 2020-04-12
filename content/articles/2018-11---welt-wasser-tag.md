@@ -7,7 +7,6 @@ description:
   statt. Er soll daran erinnern, dass Wasser die Grundlage für das Leben auf der
   Erde ist.'
 date: 2018-11-20
-image: welt-wasser-tag.jpg
 labels:
   - foo
   - bar
