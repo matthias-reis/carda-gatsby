@@ -1,15 +1,17 @@
 ---
 slug: welt-wasser-tag
-title: Weltwassertag 2018
+title: NUR ZUM EXPERIMENTIEREN Weltwassertag 2018
 subtitle: Naturbasierte Lösungen für das Wasser
-description:
-  'Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag
+description: >-
+  Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag
   statt. Er soll daran erinnern, dass Wasser die Grundlage für das Leben auf der
-  Erde ist.'
-date: 2018-11-20
+  Erde ist.
+date: 2018-11-20T00:00:00.000Z
+image: /img/demo.jpg
 labels:
   - foo
   - bar
+type: Standard
 ---
 
 ![Welt Wasser Tag](./img/welt-wasser-tag.jpg)
