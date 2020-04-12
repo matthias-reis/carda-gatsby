@@ -4,7 +4,7 @@ import { Article } from './article';
 import { ErrorBoundary } from './error-boundary';
 import { processor } from '../markdown';
 
-const ArticleCmsControlle = ({ entry, getAsset }) => {
+const ArticleCmsController = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS();
   if (data) {
     const { body, ...meta } = data;
@@ -27,4 +27,4 @@ const ArticleCmsControlle = ({ entry, getAsset }) => {
   }
 };
 
-export default ArticleCmsControlle;
+export default ArticleCmsController;

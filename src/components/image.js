@@ -1,8 +1,10 @@
 import React from 'react';
 import styled from '@emotion/styled';
-import { StaticQuery, graphql } from 'gatsby';
+import { useStaticQuery, graphql } from 'gatsby';
 
 import { space, width } from '../style';
+
+// const IMAGE_QUERY = graphql``;
 
 const FloatingImageContainer = styled.div`
   width: ${width[3]};
@@ -22,6 +24,8 @@ export default ({ alt, src, title }) => {
   const [altText, type] = alt.split(' | ');
   const Container =
     type === 'large' ? FixedImageContainer : FloatingImageContainer;
+
+  // const data = useStaticQuery(IMAGE_QUERY);
 
   return <Container>I M A G E</Container>;
 };
