@@ -31,7 +31,7 @@ so Lis Key, Pressesprecherin von International Animal Rescue’s.
 
 ### Höchste Zeit, etwas zu tun
 
-Ist ein niedrigerer Preis es wirklich wert, dass eine Spezies komplett ausgerottet wird? Es ist höchste Zeit, sich diese Frage zu stellen, sonst könnte es bald zu spät sein und die wundervollen Lebewesen könnten für immer verschwunden sein. Einem Krieg zum Opfer gefallen, den Menschen über ihren Köpfen ausgetragen haben.
+Ist ein niedrigerer Palmöl-Preis es wirklich wert, dass eine Spezies komplett ausgerottet wird? Es ist höchste Zeit, sich diese Frage zu stellen, sonst könnte es bald zu spät sein und die wundervollen Lebewesen könnten für immer verschwunden sein. Einem Krieg zum Opfer gefallen, den Menschen über ihren Köpfen ausgetragen haben.
 
 Nur ein flächendeckender Boykott von Palmölprodukten und Aufklärung können helfen, die Maschinerie zu stoppen und den Genozid der Orang-Utans aufzuhalten.
 
