@@ -1,21 +1,35 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { useStaticQuery, graphql } from 'gatsby';
+import Image from 'gatsby-image';
 
 import { space, width } from '../style';
 
-// const IMAGE_QUERY = graphql``;
+const ALL_IMAGE_QUERY = graphql`
+  query AllImageQuery {
+    allFile {
+      edges {
+        node {
+          absolutePath
+          childImageSharp {
+            fluid(maxWidth: 1024) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    }
+  }
+`;
 
 const FloatingImageContainer = styled.div`
   width: ${width[3]};
-  height: ${width[2]};
   background: #ddd;
   float: right;
   margin: 0 -${space[5]} ${space[1]} ${space[1]};
 `;
 
 const FixedImageContainer = styled.div`
-  height: ${width[3]};
   background: #ddd;
   margin: 0 0 ${space[1]} 0;
 `;
@@ -25,7 +39,14 @@ export default ({ alt, src, title }) => {
   const Container =
     type === 'large' ? FixedImageContainer : FloatingImageContainer;
 
-  // const data = useStaticQuery(IMAGE_QUERY);
+  const data = useStaticQuery(ALL_IMAGE_QUERY);
+  const fluid = data.allFile.edges.find(
+    item => item.node.absolutePath.indexOf(src) > -1
+  ).node.childImageSharp.fluid;
 
-  return <Container>I M A G E</Container>;
+  return (
+    <Container>
+      <Image fluid={fluid} />
+    </Container>
+  );
 };

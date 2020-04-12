@@ -26,9 +26,9 @@ export const Youtube = ({ id, caption }) => {
         <iframe
           title={`Youtube Video ${id}`}
           src={`https://www.youtube.com/embed/${id}`}
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
+          allowFullScreen
         />
       </YoutubeContainer>
       {caption && <Caption>{caption}</Caption>}
