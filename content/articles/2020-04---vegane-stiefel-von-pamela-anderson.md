@@ -30,6 +30,6 @@ Immer mehr Stars setzen sich für die Tiere ein und versuchen sich auch an vegan
 
 <Youtube id="0Mt-wpG1EYw" caption="Pammies Boots" />
 
-[Pammies Homepage](http://www.pammieslife.com/)\
-\
+[Pammies Homepage](http://www.pammieslife.com/)
+
 Bild: Mercy for Animals, Flickr
