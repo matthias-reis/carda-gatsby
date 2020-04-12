@@ -24,7 +24,14 @@ const ExternalLink = styled.a`
 
 export const Link = ({ href, children }) => {
   if (href.startsWith('http')) {
-    return <ExternalLink href={href}>{children}</ExternalLink>;
+    return (
+      <ExternalLink
+        href={href}
+        target="_blank"
+        rel="noreferrer, noopener, nofollow">
+        {children}
+      </ExternalLink>
+    );
   } else {
     return <InternalLink to={href}>{children}</InternalLink>;
   }
