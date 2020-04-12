@@ -6,7 +6,7 @@ description: >-
   Deutsche Betriebe verzerren den Wettbewerb mit ihren exorbitant niedrigen
   Preisen. Das hat in Frankreich zu Protesten geführt.
 date: 2015-08-04T14:48:19.929Z
-image: /img/franzoesische-bauern-protestieren.jpg
+image: /img/bauernproteste-in-frankreich.jpg
 labels:
   - Bauernproteste
   - Frankreich
