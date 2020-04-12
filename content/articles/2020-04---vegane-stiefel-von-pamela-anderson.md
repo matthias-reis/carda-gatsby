@@ -28,7 +28,7 @@ Preise und weitere Infos sind bisher noch nicht bekanntgegeben worden. Ich bleib
 
 Immer mehr Stars setzen sich für die Tiere ein und versuchen sich auch an veganer Schuhmode. Erst vor Kurzem hatten wir an dieser Stelle über Gwen Stefanis vegane Highheel-Kollektion berichtet.
 
-<Youtube id="0Mt-wpG1EYw" caption"Pammies Boots" />
+<Youtube id="0Mt-wpG1EYw" caption="Pammies Boots" />
 
 [Pammies Homepage](http://www.pammieslife.com/)\
 \
