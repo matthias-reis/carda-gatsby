@@ -48,6 +48,7 @@ module.exports = {
       options: {
         extensions: ['.mdx', '.md'],
         gatsbyRemarkPlugins: [
+          { resolve: 'gatsby-remark-numbered-footnotes' },
           {
             resolve: 'gatsby-remark-relative-images',
             options: {

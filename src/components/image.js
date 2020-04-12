@@ -3,6 +3,7 @@ import styled from '@emotion/styled';
 import { useStaticQuery, graphql } from 'gatsby';
 import Image from 'gatsby-image';
 
+import { Caption } from './caption';
 import { space, width } from '../style';
 
 const ALL_IMAGE_QUERY = graphql`
@@ -22,16 +23,23 @@ const ALL_IMAGE_QUERY = graphql`
   }
 `;
 
-const FloatingImageContainer = styled.div`
+const FloatingImageContainer = styled.span`
+  display: block;
   width: ${width[3]};
-  background: #ddd;
   float: right;
   margin: 0 -${space[5]} ${space[1]} ${space[1]};
+  & span {
+    display: block;
+  }
 `;
 
-const FixedImageContainer = styled.div`
+const FixedImageContainer = styled.span`
+  display: block;
   background: #ddd;
   margin: 0 0 ${space[1]} 0;
+  & span {
+    display: block;
+  }
 `;
 
 export default ({ alt, src, title }) => {
@@ -40,13 +48,19 @@ export default ({ alt, src, title }) => {
     type === 'large' ? FixedImageContainer : FloatingImageContainer;
 
   const data = useStaticQuery(ALL_IMAGE_QUERY);
-  const node = data.allFile.edges.find(
+  const image = data.allFile.edges.find(
     item => item.node.absolutePath.indexOf(src) > -1
   );
-  if (!!node) {
+
+  if (!!image) {
     return (
       <Container>
-        <Image fluid={node.childImageSharp.fluid} />
+        <Image
+          Tag="span"
+          alt={altText}
+          fluid={image.node.childImageSharp.fluid}
+        />
+        {title && <Caption>{title.replace(/\\/g, '')}</Caption>}
       </Container>
     );
   } else {
