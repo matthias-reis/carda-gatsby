@@ -26,7 +26,7 @@ Derzeit sind die kuscheligen Boots in drei Ausführungen zu haben, sie können a
 
 Preise und weitere Infos sind bisher noch nicht bekanntgegeben worden. Ich bleibe auf jeden Fall dran.
 
-Immer mehr Stars setzen sich für die Tiere ein und versuchen sich auch an veganer Schuhmode. Erst vor Kurzem hatten wir an dieser Stelle über Gwen Stefanis vegane Highheel-Kollektion berichtet.
+Immer mehr Stars setzen sich für die Tiere ein und versuchen sich auch an veganer Schuhmode. Erst vor Kurzem hatten wir an dieser Stelle über [Gwen Stefanis vegane Highheel-Kollektion](/2020/04/gwen-stefani-und-die-mode) berichtet.
 
 <Youtube id="0Mt-wpG1EYw" caption="Pammies Boots" />
 
