@@ -40,13 +40,16 @@ export default ({ alt, src, title }) => {
     type === 'large' ? FixedImageContainer : FloatingImageContainer;
 
   const data = useStaticQuery(ALL_IMAGE_QUERY);
-  const fluid = data.allFile.edges.find(
+  const node = data.allFile.edges.find(
     item => item.node.absolutePath.indexOf(src) > -1
-  ).node.childImageSharp.fluid;
-
-  return (
-    <Container>
-      <Image fluid={fluid} />
-    </Container>
   );
+  if (!!node) {
+    return (
+      <Container>
+        <Image fluid={node.childImageSharp.fluid} />
+      </Container>
+    );
+  } else {
+    return null;
+  }
 };
