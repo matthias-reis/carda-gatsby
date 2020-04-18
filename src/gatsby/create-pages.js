@@ -1,4 +1,5 @@
 const { resolve } = require('path');
+const { getPage } = require('./slugify');
 
 const ALL_PAGE_QUERY = `
 query MyQuery {
@@ -26,7 +27,7 @@ module.exports = async ({ actions, graphql }) => {
 
   const { errors, data } = await graphql(ALL_PAGE_QUERY);
   if (errors) {
-    errors.forEach(e => console.error(e.toString()));
+    errors.forEach((e) => console.error(e.toString()));
     throw new Error(`All page query ended with errors: ${errors.join(', ')}`);
   }
 
@@ -45,33 +46,25 @@ module.exports = async ({ actions, graphql }) => {
       labels: frontmatter.labels,
       component,
       context: {
-        id
-      }
+        id,
+      },
     });
 
-    // labels = [...labels, ...(frontmatter.labels || [])];
+    labels = [...labels, ...(frontmatter.labels || [])];
+    if (fields.year) {
+      labels = [...labels, fields.year, `${fields.year}/${fields.month}`];
+    }
+  }
 
-    // // Tag pages:
-    // // Iterate through each post, putting all found tags into `tags`
-    // posts.forEach((edge) => {
-    //   if (_.get(edge, `node.frontmatter.tags`)) {
-    //     tags = tags.concat(edge.node.frontmatter.tags);
-    //   }
-    // });
-    // // Eliminate duplicate tags
-    // tags = _.uniq(tags);
-
-    // // Make tag pages
-    // tags.forEach((tag) => {
-    //   const tagPath = `/tags/${_.kebabCase(tag)}/`;
-
-    //   createPage({
-    //     path: tagPath,
-    //     component: path.resolve(`src/templates/tags.js`),
-    //     context: {
-    //       tag,
-    //     },
-    //   });
-    // });
+  // create label pages
+  labels = Array.from(new Set(labels));
+  for (const label of labels) {
+    const path = getPath(label);
+    const component = resolve(
+      __dirname,
+      '../components',
+      `label-controller.js`
+    );
+    createPage({ path, component, label, context: { label } });
   }
 };

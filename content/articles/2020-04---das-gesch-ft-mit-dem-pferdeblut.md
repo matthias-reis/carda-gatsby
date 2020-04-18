@@ -10,6 +10,7 @@ image: /img/listeria_monocytogenes_-_columbia_horse_blood_agar_-detail.jpg
 labels:
   - Blutfarmen
   - Pferde
+  - vegan
 type: Standard
 ---
 

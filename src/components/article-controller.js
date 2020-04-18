@@ -34,6 +34,7 @@ export const query = graphql`
         title
         subtitle
         description
+        labels
         image {
           childImageSharp {
             fluid(maxWidth: 900, quality: 70) {

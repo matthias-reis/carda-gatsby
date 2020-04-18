@@ -10,6 +10,7 @@ image: /img/16269359582_40875764a0_z-380x250.jpg
 labels:
   - Jackfruit
   - Fleisch-Alternative
+  - vegan
 type: Standard
 ---
 **Der neueste Schrei aus den USA ist Jackfruit als Fleischersatz. Genau wie Lupinen, Sojabohnen und Weizengluten lassen sich die großen Früchte zu Steaks, Würsten und vielem mehr verarbeiten.**

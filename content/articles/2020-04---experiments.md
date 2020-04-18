@@ -11,7 +11,7 @@ image: /img/img_1378.jpg
 labels:
   - Das ist ein längeres Label.
   - demo
-  - experimente
+  - experiment
 type: Standard
 ---
 
