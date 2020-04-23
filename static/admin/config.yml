@@ -33,7 +33,7 @@ collections:
           default: 'article',
         }
       - { label: 'Titel', name: 'title', widget: 'string' }
-      - { label: 'Untertitel', name: 'subtitle', widget: 'string' }
+      - { label: 'Untertitel', name: 'subTitle', widget: 'string' }
       - { label: 'Exzerpt', name: 'description', widget: 'text' }
       - { label: 'GoLive', name: 'date', widget: 'datetime' }
       - { label: 'Bild', name: 'image', widget: image }

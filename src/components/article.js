@@ -23,11 +23,12 @@ const Label = styled(Link)`
 `;
 
 export const Article = ({ children, meta }) => {
+  console.log(meta);
   return (
     <>
       <Link to="/">〈 Homepage</Link>
       <Title>{meta.title}</Title>
-      {meta.subtitle && <Subtitle>{meta.subtitle}</Subtitle>}
+      {meta.subTitle && <Subtitle>{meta.subTitle}</Subtitle>}
       <ImageContainer>
         {meta.image && <Image fluid={meta.image.childImageSharp.fluid} />}
       </ImageContainer>

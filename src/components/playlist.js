@@ -44,6 +44,7 @@ export const Playlist = ({ spotify, itunes }) => {
           <img src={spotifyImage} alt="spotify" />
         </IconContainer>
         <iframe
+          title="Spotify Playlist"
           src={`https://open.spotify.com/embed/playlist/${spotify}`}
           frameBorder="0"
         />
@@ -53,6 +54,7 @@ export const Playlist = ({ spotify, itunes }) => {
           <img src={itunesImage} alt="itunes" />
         </IconContainer>
         <iframe
+          title="iTunes Playlist"
           src={`https://embed.music.apple.com/de/playlist/${itunes}`}
           frameborder="0"
           sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"

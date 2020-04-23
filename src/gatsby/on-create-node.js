@@ -1,5 +1,6 @@
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 const { createFilePath } = require('gatsby-source-filesystem');
+const { slugify } = require('./slugify');
 
 module.exports = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
@@ -8,13 +9,23 @@ module.exports = ({ node, actions, getNode }) => {
     const parent = getNode(node.parent);
     const type = parent.sourceInstanceName;
     const value = createFilePath({ node, getNode }).replace(/\//g, '');
-    const slug = value.split('---')[1] || value;
+    const slug = slugify(node.frontmatter.title);
 
     let path = '';
-    if (type === 'article') {
+    if (type === 'article' || type === 'wordpress') {
       const date = value.split('---')[0];
       const [year, month] = date.split('-');
       path = `/${year}/${month}/${slug}`;
+      const labels = [
+        ...node.frontmatter.labels,
+        `${year}`,
+        `${year}/${month}`,
+      ];
+      createNodeField({
+        node,
+        name: `labels`,
+        value: labels,
+      });
       createNodeField({
         node,
         name: `year`,

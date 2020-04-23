@@ -18,7 +18,7 @@ export default function ArticleController({ data }) {
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
       <Frame>
-        <Article meta={data.mdx.frontmatter}>
+        <Article meta={{ ...data.mdx.frontmatter, ...data.mdx.fields }}>
           <MDXRenderer>{data.mdx.body}</MDXRenderer>
         </Article>
       </Frame>
@@ -30,11 +30,14 @@ export const query = graphql`
   query ArticleQuery($id: String!) {
     mdx(id: { eq: $id }) {
       body
+      fields {
+        labels
+      }
       frontmatter {
         title
         subtitle
+        subTitle
         description
-        labels
         image {
           childImageSharp {
             fluid(maxWidth: 900, quality: 70) {

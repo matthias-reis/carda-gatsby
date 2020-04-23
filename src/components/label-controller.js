@@ -1,6 +1,4 @@
 import React from 'react';
-import { MDXProvider } from '@mdx-js/react';
-import { MDXRenderer } from 'gatsby-plugin-mdx';
 import { graphql, Link } from 'gatsby';
 import Image from 'gatsby-image';
 import styled from '@emotion/styled';
@@ -25,6 +23,7 @@ const EmptyItem = styled.div`
 
 export default function labelController({ data }) {
   const articles = data.allMdx.edges;
+  console.log(data);
   return (
     <>
       <Link to="/">〈 Homepage</Link>
@@ -32,12 +31,14 @@ export default function labelController({ data }) {
         {articles.map(({ node }) => (
           <Item key={node.fields.path}>
             <Link to={node.fields.path}>
-              <div>
-                <Image fluid={node.frontmatter.image.childImageSharp.fluid} />
-              </div>
+              {node.frontmatter.image && (
+                <div>
+                  <Image fluid={node.frontmatter.image.childImageSharp.fluid} />
+                </div>
+              )}
               <h2>{node.frontmatter.title}</h2>
               <p>
-                <strong>{node.frontmatter.subtitle}</strong>
+                <strong>{node.frontmatter.subTitle}</strong>
               </p>
             </Link>
           </Item>
@@ -54,16 +55,16 @@ export default function labelController({ data }) {
 
 export const query = graphql`
   query LabelQuery($label: String!) {
-    allMdx(filter: { frontmatter: { labels: { eq: $label } } }) {
+    allMdx(filter: { fields: { labels: { eq: $label } } }) {
       edges {
         node {
           fields {
             path
           }
           frontmatter {
-            labels
             title
             subtitle
+            subTitle
             description
             image {
               childImageSharp {

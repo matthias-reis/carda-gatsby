@@ -1,6 +1,6 @@
 ---
 title: test
-subtitle: test
+subTitle: test
 description: test
 ---
 

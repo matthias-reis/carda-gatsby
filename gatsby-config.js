@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby + Netlify CMS Starter',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.'
+      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -12,36 +12,43 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static/img`,
-        name: 'uploads'
-      }
+        name: 'uploads',
+      },
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/pages`,
-        name: 'page'
-      }
+        name: 'page',
+      },
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/articles`,
-        name: 'article'
-      }
+        name: 'article',
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/content/wordpress/articles`,
+        name: 'wordpress',
+      },
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/config`,
-        name: 'config'
-      }
+        name: 'config',
+      },
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static/img`,
-        name: 'uploads'
-      }
+        name: 'uploads',
+      },
     },
     {
       resolve: `gatsby-plugin-mdx`,
@@ -52,18 +59,18 @@ module.exports = {
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
-              name: 'uploads'
-            }
+              name: 'uploads',
+            },
           },
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 1024,
-              sizeByPixelDensity: true
-            }
-          }
-        ]
-      }
+              sizeByPixelDensity: true,
+            },
+          },
+        ],
+      },
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
@@ -98,16 +105,16 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
-        modulePath: `${__dirname}/src/cms.js`
-      }
+        modulePath: `${__dirname}/src/cms.js`,
+      },
     },
     `gatsby-plugin-emotion`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/typography.js`
-      }
+        pathToConfigModule: `src/typography.js`,
+      },
     },
-    'gatsby-plugin-netlify' // make sure to keep it last in the array
-  ]
+    'gatsby-plugin-netlify', // make sure to keep it last in the array
+  ],
 };

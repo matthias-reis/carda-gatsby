@@ -1,34 +1,66 @@
 import React from 'react';
+import styled from '@emotion/styled';
 import { graphql, Link } from 'gatsby';
+
+const List = styled.ul`
+  display: flex;
+  list-style: none;
+  margin: 0;
+`;
+
+const Item = styled.li`
+  flex: 1 1 auto;
+  width: 300px;
+  border: 1px solid red;
+  padding: 20px;
+  margin: 4px;
+`;
 
 const IndexPage = ({ data }) => {
   const articles = data.allMdx.nodes.filter(
     (node) => node.fields.type === 'article'
   );
   const pages = data.allMdx.nodes.filter((node) => node.fields.type === 'page');
+  const wordpress = data.allMdx.nodes.filter(
+    (node) => node.fields.type === 'wordpress'
+  );
   return (
     <div>
       <h1>Homepage</h1>
       <h2>Articles</h2>
-      <ul>
+      <List>
         {articles.map(({ fields, frontmatter }) => {
           return (
-            <li key={fields.path}>
+            <Item key={fields.path}>
               <Link to={fields.path}>{frontmatter.title}</Link>
-            </li>
+            </Item>
           );
         })}
-      </ul>
+      </List>
       <h2>Pages</h2>
-      <ul>
+      <List>
         {pages.map(({ fields, frontmatter }) => {
           return (
-            <li key={fields.path}>
+            <Item key={fields.path}>
               <Link to={fields.path}>{frontmatter.title}</Link>
-            </li>
+            </Item>
           );
         })}
-      </ul>
+      </List>
+      <h2>Wordpress</h2>
+      <List>
+        {wordpress.map(({ fields, frontmatter }) => {
+          return (
+            <Item key={fields.path}>
+              <Link to={fields.path}>
+                <p>{frontmatter.goLive}</p>
+                <p>{frontmatter.title}</p>
+                <p>{frontmatter.subTitle}</p>
+              </Link>
+            </Item>
+          );
+        })}
+      </List>
     </div>
   );
 };
@@ -44,6 +76,7 @@ export const query = graphql`
           type
         }
         frontmatter {
+          goLive(formatString: "YYYY-MM-DD")
           title
           subtitle
         }

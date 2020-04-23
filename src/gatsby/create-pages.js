@@ -1,5 +1,5 @@
 const { resolve } = require('path');
-const { getPage } = require('./slugify');
+const { getPath } = require('./slugify');
 
 const ALL_PAGE_QUERY = `
 query MyQuery {
@@ -12,6 +12,7 @@ query MyQuery {
           month
           year
           type
+          labels
         }
         frontmatter {
           labels
@@ -43,28 +44,27 @@ module.exports = async ({ actions, graphql }) => {
     );
     createPage({
       path: fields.path,
-      labels: frontmatter.labels,
+      labels: fields.labels,
       component,
       context: {
         id,
       },
     });
 
-    labels = [...labels, ...(frontmatter.labels || [])];
-    if (fields.year) {
-      labels = [...labels, fields.year, `${fields.year}/${fields.month}`];
-    }
+    labels = [...labels, ...(fields.labels || [])];
   }
 
   // create label pages
   labels = Array.from(new Set(labels));
   for (const label of labels) {
     const path = getPath(label);
-    const component = resolve(
-      __dirname,
-      '../components',
-      `label-controller.js`
-    );
-    createPage({ path, component, label, context: { label } });
+    if (path) {
+      const component = resolve(
+        __dirname,
+        '../components',
+        `label-controller.js`
+      );
+      createPage({ path, component, label, context: { label } });
+    }
   }
 };
