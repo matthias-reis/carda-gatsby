@@ -9,6 +9,7 @@ const pickArticles = require('./pickArticles');
 const extractMeta = require('./extractMeta');
 const subTitle = require('./subTitle');
 const headlines = require('./headlines');
+const images = require('./images');
 const write = require('./write');
 
 const BASE_FOLDER = resolve(__dirname, '../..', 'content/wordpress');
@@ -25,10 +26,11 @@ activity('wordpress', async (l) => {
   });
   const articles = (await Promise.all(filePromises)).flat();
   l(`found ${yellow(articles.length)} articles`);
-  const articlePromises = articles.map(async (article) => {
+  const articlePromises = articles.slice(-10).map(async (article) => {
     let metadata = await activity('extractMeta', extractMeta, false)(article);
     metadata = await activity('subTitle', subTitle, false)(metadata);
     metadata = await activity('headlines', headlines, false)(metadata);
+    metadata = await activity('images', images, false)(metadata);
     await activity('write', write)(metadata, OUTPUT_FOLDER);
   });
 
