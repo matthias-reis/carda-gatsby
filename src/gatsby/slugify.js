@@ -2,6 +2,10 @@ exports.slugify = (s) =>
   s
     .toString()
     .toLowerCase()
+    .replace(/&/g, ' und ')
+    .replace(/è/g, 'e')
+    .replace(/'/g, '')
+    .replace(/é/g, 'e')
     .replace(/ä/g, 'ae')
     .replace(/ö/g, 'oe')
     .replace(/ø/g, 'oe')
