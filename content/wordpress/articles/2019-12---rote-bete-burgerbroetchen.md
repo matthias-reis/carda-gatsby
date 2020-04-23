@@ -1,0 +1,104 @@
+---
+title: Rote Bete Burgerbrötchen
+seoTitle: Rote Bete Burgerbrötchen - vegan, leicht und lecker
+slug: rote-bete-burgerbroetchen
+link: /2019/12/rote-bete-burgerbroetchen/
+fileName: 2019-12---rote-bete-burgerbroetchen.md
+description:
+  Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch teilen.
+  Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
+excerpt:
+  Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch teilen.
+  Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
+focusKeyword: Burgerbrötchen
+labels:
+  - Brötchen
+  - Brötchen backen
+  - Brötchen Rezept
+  - Hamburg
+  - Hamburger
+  - Kurkuma Kochschule
+  - Rundstücke
+  - vegane Brötchen
+  - vegane Burger
+  - vegane Burgerbrötchen
+  - vegane Kochschule
+  - Vegane Rezepte
+  - veganes Brötchenrezept
+type: Artikel
+typeName: Rezept
+date: 2019-12-16T18:50:07.000Z
+status: publish
+isWerbung: false
+isAffiliate: false
+thumbnailId: "27191"
+subTitle: Nach einem Rezept aus der Kurkuma Kochschule
+---
+
+<strong>Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch
+teilen. Die pinken Rundstücke sind nicht nur besonders lecker, sie kommen auch
+mit einem speziellen Twist - sie werden mit Rote Bete Saft verfeinert.</strong>
+
+Das erste Mal probiert habe ich die Brötchen bei der Verkostung der
+<a href="http://cardamonchai.com/2019/12/vegane-fischbroetchen-for-future/" target="_blank" rel="noopener">veganen
+Alternative für Fischbrötchen</a> in der Hamburger Kurkuma Kochschule.
+Inzwischen haben wir sie schon ein paar Mal selbst gebacken - das Rezept ist
+ganz einfach und gelingt sehr gut!
+
+## Zutaten für 4 - 6 Burgerbrötchen
+
+<ul>
+    <li>250 Gramm Dinkelmehl Typ 630</li>
+    <li>1/2 Packung Trockenhefe</li>
+    <li>100 ml Rote Bete Saft</li>
+    <li>1/2 TL Salz</li>
+    <li>60 ml lauwarmes Wasser</li>
+    <li>Sesam oder andere Samen zum Bestreuen</li>
+    <li>Etwas Gram (Kichererbsenmehl) für die Arbeitsfläche</li>
+</ul>
+
+## Zubereitung
+
+![burgerbroetchen](http://cardamonchai.com/wp-content/uploads/2019/12/2019-12-07-rote-bete-broetchen-1-400x300.jpg)
+
+Insgesamt halten wir uns beim Backen komplett an das Rezept aus der Kurkuma
+Kochschule. Wir haben lediglich etwas Gram hinzugefügt - damit lässt sich der
+Teig leichter handeln und die Brötchen bekommen unten eine schöne knusprige
+Kruste. Ihr könnt zu diesem Zweck natürlich auch Dinkelmehl verwenden. Das
+bleibt Euch überlassen.
+
+Vermischt als erstes das Dinkelmehl, die Hefe und das Salz. Gebt das Wasser und
+den Rote Bete Saft dazu und knetet den Teig mit den Knethaken des Rührgerätes
+gut durch. Ihr seid damit fertig, wenn er sich leicht vom Schüsselrand löst.
+Deckt die Schüssel dann ab und lasst ihn am besten zugedeckt an einem warmen Ort
+für rund 30 Minuten gehen.
+
+Nach dem Gehvorgang könnt Ihr schon mal den Ofen auf 180 Grad vorheizen. Legt
+ein Backblech mit Backpapier aus und formt vier bis sechs schöne Brötchen. Legt
+sie auf dem Blech ab, deckt sie mit einem Küchenhandtuch ab und lasst sie für
+weitere 10 Minuten gehen. Im Anschluss streut Ihr die Samen auf. Passt auf, dass
+nicht zu viele davon auf dem Blech landen - sie könnten im Ofen verbrennen.
+Drückt sie am besten etwas an.
+
+## Burgerbrötchen backen
+
+Stellt eine feuerfeste Schüssel mit Wasser in den Ofen und schiebt auch das
+Backblech mit euren Rundstücken mit rein. Der aufsteigende Wasserdampf sorgt
+dafür, dass sie schön gleichmäßig ausbacken. Nach 12 - 14 Minuten sind sie
+fertig und ihr könnt sie auf einem Rost auskühlen lassen, bevor Ihr sie
+durchschneidet.
+
+Belegen könnt Ihr Eure Rote Bete Burgerbrötchen ganz nach Gusto. Wir verwenden
+am liebsten unseren
+<a href="http://cardamonchai.com/2016/01/seitan-a-la-herzmann/" target="_blank" rel="noopener">selbst
+hergestellten Seitan</a>. Sie eignen sich aber auch hervorragend als
+Sandwich-Basis und lassen sich perfekt mit Gurken, Salat, diversen Aufstrichen
+und Saucen kombinieren.
+
+Hat Euch dieser Beitrag gefallen? Wie schön! Wenn Ihr in Zukunfts nichts mehr
+auf meiner Seite verpassen wollt, <a href="#newsletter">abonniert gerne meinen
+Newsletter</a>. Ich freue mich auf Euch!
+
+Rezept:
+<a href="https://www.kurkuma-hamburg.de/" target="_blank" rel="noopener nofollow">Kurkuma
+Kochschule Hamburg</a>

@@ -1,0 +1,126 @@
+---
+title: Dunk!festival 2017
+seoTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
+slug: dunkfestival-2017-es-geht-los
+link: /2017/05/dunkfestival-2017-es-geht-los/
+fileName: 2017-05---dunk-festival-2017.md
+description:
+  Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns zum
+  Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
+excerpt:
+  Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns zum
+  Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
+focusKeyword: festival 2017
+labels:
+  - ALL WE EXPECTED
+  - AND SO I WATCH YOU FROM AFAR
+  - Ardents Pears
+  - ARMS AND SLEEPERS
+  - ASHTORETH
+  - BARST
+  - Belgien
+  - Belgium
+  - Briqueville
+  - CHVE
+  - dnk17
+  - DUMBSAINT
+  - Dunk
+  - Dunk Festival
+  - Dunkfestival
+  - EARTH
+  - EMMA RUTH RUNDLE
+  - Error Design
+  - Festivals
+  - FLASH THE READIES
+  - God Is An Astronaut
+  - HALMA
+  - Hamburg
+  - ILYDAEN
+  - Karen Willems And Aidan Baker
+  - KOZMOTRON
+  - LA CIENCIA SIMPLE
+  - LOST IN KIEV
+  - M[[O]]ON
+  - MALÄMMAR
+  - MENISCUS
+  - MOONCAKE
+  - Munity On The Bounty
+  - PG.LOST
+  - Post Rock
+  - Postrock
+  - PRAY FOR SOUND
+  - RUN GOLDEN BOYS
+  - Searica Alma
+  - SET AND SETTING
+  - SPURV
+  - Swans
+  - SYNDROME
+  - TERRAFORMER
+  - THE BEST PESSIMIST
+  - THE BLACK HEART REBELLION
+  - The Chapel Of Exquises
+  - THE CHASING MONSTER
+  - THE MOTH GATHERER
+  - THE VOID OF EXPANSION
+  - TIME TO BURN
+  - TRUE CHAMPIONS RIDE ON SPEED
+  - WE LOST THE SEA
+  - Worried About Satan
+  - XENON FIELD
+  - Zottegem
+type: Artikel
+typeName: Artikel
+date: 2017-05-23T14:15:52.000Z
+status: publish
+isWerbung: false
+isAffiliate: false
+thumbnailId: "16752"
+subTitle: Der Rucksack ist gepackt!
+---
+
+<strong>Die Spannung steigt! Bald brechen wir auf! Der Rucksack ist schon
+gepackt und wartet darauf, mit uns zum <em>Dunk!Festival</em> 2017 zur
+reisen!</strong>
+
+Wir freuen uns schon seit Monaten auf das musikalische Highlight des Jahres. Vor
+Kurzem hatte ich ja hier schon mal
+<a href="http://cardamonchai.com/2017/02/dunkfestival-2016-wir-sind-auch-dabei/">einen
+kurzen Artikel</a> über das <em>Dunk!festival</em> veröffentlicht.
+
+Inzwischen steht natürlich auch das komplett Lineup fest, beeindruckend, oder?
+
+![Dunk!Festival | full](http://cardamonchai.com/wp-content/uploads/2017/05/17966573_10154140072511887_6065221029203399504_o.jpg)
+
+Drei Tage Post-Rock pur stehen uns bevor und ich bin gespannt wie zwei
+Regenschirme.
+
+## Ich fahre zum Dunk!festival 2017 - Und Ihr?
+
+Wie sieht es bei Euch aus? Welche Festivals habt Ihr für 2017 geplant? Wann geht
+es los? Ich will alles wissen! Wie Ihr perfekt ausgestattet durch die
+Festivalsaison kommt erfahrt Ihr hier im Blog. Einfach auf
+<a href="http://cardamonchai.com/2013/03/die-ultimative-festivalliste/">DIE
+ULTIMATIVE FESTIVALLISTE</a> klicken und losplanen!
+
+Viel Spaß, rock on und bis bald! &lt;3
+
+![Dunk!festival | full](http://cardamonchai.com/wp-content/uploads/2017/05/18556485_10154236337136887_6452039886214141882_o.jpg)
+
+Das DUNK!festival findet Ihr
+<a href="https://www.dunkfestival.be/" target="_blank" rel="noopener">hier</a>.
+
+## Wegweiser Dunk!Festival
+
+<ol>
+    <li><a href="http://cardamonchai.com/2017/02/dunkfestival-2016-wir-sind-auch-dabei/">DUNK!festival 2017 - Post-Rock in Begien</a></li>
+    <li>DUNK!festival 2017 - Wir kommen!</li>
+    <li><a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">DUNK!festival 2017 - Liebe auf den ersten Blick</a></li>
+    <li><a href="http://cardamonchai.com/2018/04/dunkfest-2018-wir-kommen/">DUNK!festival 2018 - Das Line-up</a></li>
+    <li><a href="http://cardamonchai.com/2018/05/wir-laeuten-die-festivalsaison-ein/">Wir läuten die Festivalsaison ein - Kurze Auszeit</a></li>
+    <li><a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">DUNK!festival 2018 - Liebe für immer</a></li>
+    <li>DUNK!festival 2019 - Das Line-up</li>
+</ol>
+
+Bilder &amp; Artwork: Dunk!Festival (Error Design)
+
+&nbsp;

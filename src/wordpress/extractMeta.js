@@ -32,12 +32,12 @@ module.exports = async (l, e, article) => {
   const linkPaths = link.replace(/\//g, ' ').trim().split(' ');
   const slug = linkPaths.length === 3 ? linkPaths[2] : slugFromTitle;
 
-  const date = new Date(article.pubDate[0]);
+  const date = new Date(article['wp:post_date']);
   const month = `00${date.getMonth() + 1}`.slice(-2);
   const fileName = `${date.getFullYear()}-${month}---${slugFromTitle}.md`;
 
   if (link.startsWith('/?p=')) {
-    link = `/${meta.date.getFullYear()}/${month}/${slugFromTitle}`;
+    link = `/${date.getFullYear()}/${month}/${slugFromTitle}`;
   }
 
   const wpPostMeta = article['wp:postmeta'].reduce((res, i) => {
@@ -89,6 +89,18 @@ module.exports = async (l, e, article) => {
       `${bold('has description')}
 ${redBright(article.description[0])}
 ${greenBright(pickedWpPostMeta['_yoast_wpseo_metadesc'])}
+
+`
+    );
+  }
+
+  if (isNaN(date.getFullYear())) {
+    e(
+      meta.fileName,
+      `${bold('has no pub date')}
+${redBright(article['wp:post_date'])}
+${greenBright(article.pubDate)}
+${greenBright(article['wp:post_date_gmt'])}
 
 `
     );

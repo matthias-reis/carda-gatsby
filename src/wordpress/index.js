@@ -26,12 +26,12 @@ activity('wordpress', async (l) => {
   });
   const articles = (await Promise.all(filePromises)).flat();
   l(`found ${yellow(articles.length)} articles`);
-  const articlePromises = articles.slice(-10).map(async (article) => {
+  const articlePromises = articles.map(async (article) => {
     let metadata = await activity('extractMeta', extractMeta, false)(article);
     metadata = await activity('subTitle', subTitle, false)(metadata);
     metadata = await activity('headlines', headlines, false)(metadata);
     metadata = await activity('images', images, false)(metadata);
-    await activity('write', write)(metadata, OUTPUT_FOLDER);
+    await activity('write', write, false)(metadata, OUTPUT_FOLDER);
   });
 
   await Promise.all(articlePromises);

@@ -28,8 +28,6 @@ module.exports = async (l, e, data) => {
         }](${src}${title ? " '" : ''}${title}${title ? "'" : ''})`;
 
         const md = p.replace(/\[caption.*\[\/caption\]/g, '').trim();
-        console.log('IN:', p);
-        console.log('OUT:', md);
         return md ? [imgMd, md] : imgMd;
       } else if (imgMatch) {
         const altMatch = /alt="([^"]*)"/g.exec(imgMatch[1]);
@@ -44,8 +42,6 @@ module.exports = async (l, e, data) => {
         }](${src})`;
 
         const md = p.replace(/\<img.*>/g, '').trim();
-        console.log('IN:', p);
-        console.log('OUT:', md);
         return md ? [imgMd, md] : imgMd;
       } else {
         return p;
