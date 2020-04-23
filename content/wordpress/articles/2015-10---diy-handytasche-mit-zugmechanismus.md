@@ -1,0 +1,75 @@
+---
+title: DIY Handytasche mit Zugmechanismus
+seoTitle: Handytasche mit Zugmechanismus selber nähen
+slug: diy-handytasche-mit-zugmechanismus
+link: /2015/10/diy-handytasche-mit-zugmechanismus/
+fileName: 2015-10---diy-handytasche-mit-zugmechanismus.md
+description:
+  Wie versprochen zeige ich Euch heute, wie meine neue Handytasche entstanden
+  ist. Ihr könnt Euch auch ganz leicht selbst eine nähen.
+excerpt:
+  Ich hatte ja schon angekündigt, dass es ich Euch meine neue Handytasche
+  präsentieren würde. Sie ist nun fertig und bereit ins Rampenlicht zu treten.
+focusKeyword: Handytasche
+labels:
+  - diy
+  - DIY
+  - Handytasche
+  - Handytasche mit Aufzug
+  - Handytasche mit Zug
+  - Handytasche mit Zugmechanismus
+  - Handytasche selber machen
+  - iPhone-Tasche
+  - nähen
+  - Schneidern
+  - Tasche Handy
+type: Artikel
+typeName: Artikel
+date: 2015-10-01T13:53:26.000Z
+status: publish
+isWerbung: false
+isAffiliate: false
+thumbnailId: "12924"
+subTitle: Zum Schutz vor Kratzern und aus Stylegründen
+---
+
+![Meine selbstgemachte Handytasche](http://cardamonchai.com/wp-content/uploads/2015/10/DIY-Handytasche-3-640x427.jpg "Meine selbstgemachte Handytasche")
+
+<strong>Ich hatte ja schon angekündigt, dass es ich Euch meine neue Handytasche
+präsentieren würde. Sie ist nun fertig und bereit ins Rampenlicht zu treten.
+</strong>
+
+Nicht nur zum Schutz vor Kratzern ist so ein Teil prima, auch aus Stylegründen
+kann ich Euch nur dazu raten. Ihr werdet ständig darauf angesprochen werden, wo
+Ihr die sensationell schöne Handytasche herhabt.
+
+Besonders klasse finde ich ja den eingebauten Zugmechanismus, damit hat man das
+Handy wirklich in Sekundenschnelle in der Hand, wenn es klingelt. Aus dem
+wundervollen Fuchsstoff habe ich ja bereits
+<a href="/2015/09/diy-koernerkissen-naehanleitung/">ein Körnerkissen</a> und
+eine <a href="/2015/09/kleine-handtasche-zum-selbermachen/">kleine
+Umhängetasche</a> geschneidert, die sich hier nach wie vor reger Beliebtheit
+erfreuen. Schon bald wird es auch noch eine Kosmetiktasche geben, sie steht
+schon in den Startlöchern.
+
+Doch nun zu meiner genialen Handytasche mit Zugmechanismus. Gefunden habe ich
+sie auf der Seite von Mary's Kitchen, sie stellt ein kostenloses Schnittmuster
+inklusive Schritt-für-Schritt-Nähanleitung zur Verfügung. Vielen Dank an dieser
+Stelle!
+
+## So entsteht Eure neue Handytasche
+
+Richtet Euch einfach nach der Nähanleitung von Mary's Kitchen. Dem ist nicht
+viel hinzuzufügen. Außer vielleicht: Achtet auf jeden Fall präzise genau auf die
+Maße Eures Handys und schreibt Euch alles genau auf, das erspart Euch den
+Einsatz des Trennhäkchens zwischen den einzelnen Schritten.
+
+Viel Spaß beim Nähen! Wie Ihr aus einem langweiligen Jutebeutel einen
+praktischen Rucksack schneidert,
+<a href="http://2015/09/diy-upcycling-turnbeutel/">erfahrt Ihr hier</a>.
+
+[myflickr tag="annehandytasche2015"]
+
+[1]
+<a href="http://marys.kitchen/anleitung-handyschlafsack/" target="_blank" rel="noopener">Die
+Nähanleitung von Mary's Kitchen findet Ihr hier</a>
