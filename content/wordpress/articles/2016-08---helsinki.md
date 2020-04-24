@@ -35,9 +35,9 @@ subTitle: Schönheit an der Ostsee
 
 <strong>Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe
 weiter. Nach unserer
-<a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Überfahrt</a>
-von Travemünde in Finnlands Hauptstadt haben wir zwei traumhafte Tage in der
-Finnischen Hauptstadt verbracht.</strong>
+[Überfahrt](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) von Travemünde
+in Finnlands Hauptstadt haben wir zwei traumhafte Tage in der Finnischen
+Hauptstadt verbracht.</strong>
 
 Auf unserer Erkundungstour wurde uns kulturell so einiges geboten. Da zum
 Zeitpunkt unseres Besuchs gerade die Pride stattfand, waren jede Menge
@@ -66,9 +66,9 @@ dürft gespannt sein!
 ## Wegweiser Finnland 2016
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Sommer auf der Ostsee - Überfahrt nach Finnland</a></li>
+    <li> [Sommer auf der Ostsee - Überfahrt nach Finnland](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) </li>
     <li>Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt</li>
-    <li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel - Auf jeder Statue eine Möwe</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/gaense-helsinki/">Gänse - Weißwangengänse - Gefiederte Finnland-Einwanderer</a></li>
-    <li><a href="http://cardamonchai.com/2016/10/kuopion-korttelimuseo/">Kuopion Korttelimuseo</a></li>
+    <li> [Seevögel - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/) </li>
+    <li> [Gänse - Weißwangengänse - Gefiederte Finnland-Einwanderer](/2016/08/gaense-helsinki/) </li>
+    <li> [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/) </li>
 </ol>

@@ -65,5 +65,4 @@ Wasserratten.
 
 Übrigens ist vor kurzem meine bisher größte Reisereportage hier im Blog
 erschienen. Sie beschäftigt sich ausgiebig mit Irland.
-<a href="https://cardamonchai.com/tag/irland2017/">Neugierige dürfen hier
-klicken</a>.
+[Neugierige dürfen hier klicken](/tag/irland2017/).

@@ -223,5 +223,4 @@ gute Reise! Vielen Dank für das überaus interessante Interview!
 
 Bilder: Conni privat
 
-<a href="https://www.planetbackpack.de/conni-kohle-2014/" target="_blank" rel="noopener nofollow">Conni
-bei Planet Backpack</a>
+[Conni bei Planet Backpack](https://www.planetbackpack.de/conni-kohle-2014/)

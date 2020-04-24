@@ -35,9 +35,9 @@ Wolfgang von Goethe</i>
 ![Wunderschönes Lübeck](http://cardamonchai.com/wp-content/uploads/2015/11/22717821986_0bfb81b7e0_z-640x427.jpg "Wunderschönes Lübeck")
 
 <strong>Nachdem wir nach
-<a href="http://cardamonchai.com/2015/11/birdwatching-am-timmendorfer-strand/">unserem
-Ausflug</a> an den Timmendorfer Strand am Sonntag noch etwas Zeit hatten,
-machten wir uns auf den Weg nach Lübeck.</strong>
+[unserem Ausflug](/2015/11/birdwatching-am-timmendorfer-strand/) an den
+Timmendorfer Strand am Sonntag noch etwas Zeit hatten, machten wir uns auf den
+Weg nach Lübeck.</strong>
 
 Die schöne Hafenstadt zeigte sich im gleißenden Sonnenlicht, das wir bis in die
 Abendstunden hinein genossen. Als Erstes besichtigten wir den Dom, im Anschluss
@@ -90,16 +90,10 @@ Großsegler und Kreuzfahrtschiffe beobachten.
 [myflickr tag="anneluebeck2015"]
 
 Meine letzte Fotostrecke aus Travemünde
-<a href="http://cardamonchai.com/2015/05/ein-sonntag-in-travemuende/">findet Ihr
-hier</a>.
+[findet Ihr hier](/2015/05/ein-sonntag-in-travemuende/).
 
 Wer gerne mehr über Lübeck erfahren möchte:
-<a href="https://de.wikipedia.org/wiki/Lübeck" target="_blank" rel="noopener">Wikipedia</a>
-gibt hier wirklich eine ganze Menge her, auch was Religion, Politik und
-Sehenswürdigkeiten betrifft. Außerdem kann ich Euch die wirklich liebevoll
-angelegte
-<a href="http://www.luebeck.de/tourismus/sightseeing/geschichte/" target="_blank" rel="noopener">Homepage
-der Stadt</a> wärmstens empfehlen.
+[Homepage der Stadt](https://de.wikipedia.org/wiki/Lübeck) wärmstens empfehlen.
 
 <em>Weitere Bilder wie immer in meinem
-<a href="https://www.flickr.com/photos/99929697@N07/albums">Flickr</a>.</em>
+[Flickr](https://www.flickr.com/photos/99929697@N07/albums). </em>

@@ -89,13 +89,10 @@ Projekt ist eines von vielen zum Schutz der faszinierenden Tiere.
 ## Bilder:
 
 Junger Kiebitz:
-<a href="https://commons.wikimedia.org/wiki/File:Young_Vanellus_vanellus.jpg" target="_blank" rel="noopener">Wikipedia,
-CC</a>, Young Vanellus vanellus
+[Wikipedia, CC](https://commons.wikimedia.org/wiki/File:Young_Vanellus_vanellus.jpg),
+Young Vanellus vanellus
 
 Ausgewachsener Kiebitz:
-<a href="https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg" target="_blank" rel="noopener">Wikipedia,
-CC</a>, Northern-Lapwing-Vanellus-vanellus, Fotograf: Andreas
-Trepte, <a href="https://www.photo-natur.net/" target="_blank" rel="noopener">photo-natur.net</a>
+[photo-natur.net](https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg)
 
-<a href="http://cardamonchai.com/2016/05/hamburger-stadttauben-e-v/">Hamburger
-Stadttauben e. V. - Ein Verein mit Herz für Tauben</a>
+[Hamburger Stadttauben e. V. - Ein Verein mit Herz für Tauben](/2016/05/hamburger-stadttauben-e-v/)

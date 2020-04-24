@@ -103,9 +103,7 @@ Klickse für Euch vorbereitet. Ich hoffe, sie gefällt Euch!
 [myflickr tag="anneplantenunblomen52015"]
 
 Weitere Bilder findet Ihr wie immer in meinem
-<a href="https://www.flickr.com/photos/99929697@N07/" target="_blank" rel="noopener">Flickr</a>##
-Weite
-Infos<a href="http://plantenunblomen.hamburg.de/anfahrt-parken/" target="_blank" rel="noopener">Anfahrt
-und Parken</a> Planten un Blomen
+[Anfahrt und Parken](https://www.flickr.com/photos/99929697@N07/) Planten un
+Blomen
 
-## Wegweiser Planten un Blomen<ol><li>Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)<a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/"></a></li><li><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">Ein Rundgang durch die Klimazonen (Januar 2016)</a></li><li><a href="/2016/01/bluetenpracht-im-winter/">Blütenmeer im Winter (Januar 2016)</a></li><li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der Brücke (Januar 2016)</a></li><li><a href="/2016/05/1-mai-bei-planten-un-blomen/">1. Mai bei Planten un Blomen (Mai 2016)</a></li><li><a href="http://cardamonchai.com/2017/12/weihnachten-bei-planten-un-blomen/">Weihnachten bei Planten un Blomen (Dezember 2017)</a></li></ol><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+## Wegweiser Planten un Blomen<ol><li>Planten un Blomen - Hamburgs grüner Fluss (Juni 2015) [](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)

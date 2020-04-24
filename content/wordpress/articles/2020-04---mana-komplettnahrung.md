@@ -47,7 +47,7 @@ schnell zubereitete Mahlzeit aus dem Mixer zu mir zu nehmen, klingt da sehr
 verlockend.
 
 Aus diesem Grund habe ich mich auch entschieden,
-<a href="https://www.awin1.com/cread.php?awinmid=18231&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fdrink-mana.de%2F" target="_blank" rel="noopener nofollow">Mana</a>
+[Mana](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2F)
 zu testen. Die Zutaten der Komplettnahrung decken den gesamten Nährstoffbedarf,
 das Pulver ist lange haltbar und kann ganz einfach mit Wasser angemischt werden.
 Mana Gründer Jakub Krejcik hatte die Vision, ein All-in-One Produkt für den
@@ -93,18 +93,17 @@ ist möglich.
 ## Starter Kit mit Löffel und Flasche
 
 In meinem
-<a href="https://www.awin1.com/cread.php?awinmid=18231&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fzubehoer" target="_blank" rel="noopener nofollow">Starter
-Kit</a> war ein praktischer Messlöffel sowie eine BPA-freie Literflasche dabei.
-Der Löffel ist bei der Zubereitung eine gute Hilfe. Zwei Löffel entsprechen
-genau 86 Gramm. In Kombination mit 300 Millilitern Wasser ergibt das genau eine
-Portion.
+[Starter Kit](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fzubehoer)
+war ein praktischer Messlöffel sowie eine BPA-freie Literflasche dabei. Der
+Löffel ist bei der Zubereitung eine gute Hilfe. Zwei Löffel entsprechen genau 86
+Gramm. In Kombination mit 300 Millilitern Wasser ergibt das genau eine Portion.
 
 Und nun zu meinem Test. Der vanillige Geschmack von
-<a href="https://www.awin1.com/cread.php?awinmid=18231&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fdrink-mana.de%2Fproducts%2Fmana-pulver-mark6-origin" target="_blank" rel="noopener nofollow">Mana
-Mark 6</a> gefällt mir gut. Ich habe auch schon Smoothies in Kombination mit
-gefrorenen Beeren gemacht und Bananenshake damit zubereitet - beides
-funktioniert hervorragend. Zur angegebenen Menge Pulver habe ich etwas mehr
-Wasser hinzugefügt, damit es etwas flüssiger wird. Für mich sind 500 Milliliter
+[Mana Mark 6](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fproducts%2Fmana-pulver-mark6-origin)
+gefällt mir gut. Ich habe auch schon Smoothies in Kombination mit gefrorenen
+Beeren gemacht und Bananenshake damit zubereitet - beides funktioniert
+hervorragend. Zur angegebenen Menge Pulver habe ich etwas mehr Wasser
+hinzugefügt, damit es etwas flüssiger wird. Für mich sind 500 Milliliter
 perfekt, doch das ist reine Geschmackssache.
 
 ## Hochwertige Zutaten
@@ -122,20 +121,14 @@ wirklich nachhaltig sättigt. Ich brauche bis zum Abend keine weiteren Portionen
 mehr und esse zwischendurch maximal noch ein bisschen Obst.
 
 Neben dem von mir getesteten
-<a href="https://www.awin1.com/cread.php?awinmid=18231&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmana-pulver" target="_blank" rel="noopener nofollow">Pulver
-zum Anrühren</a>
-und <a href="https://www.awin1.com/cread.php?awinmid=18231&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmana-drink" target="_blank" rel="noopener nofollow">fertigen
-Drinks</a> in verschiedenen Geschmacksrichtungen gibt es von Mana auch
-noch <a href="https://www.awin1.com/cread.php?awinmid=18231&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmanaburger" target="_blank" rel="noopener nofollow">vegane,
-Gluten-freie Burgerpatties</a>. Ich glaube fast, die muss ich auch noch
-probieren.
+[vegane, Gluten-freie Burgerpatties](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmana-pulver).
+Ich glaube fast, die muss ich auch noch probieren.
 
 [glry name="mana2"]
 
-<a href="https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2F" rel="noopener nofollow" target="_blank">Homepage
-Mana</a>
+[Homepage Mana](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2F)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

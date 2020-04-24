@@ -33,9 +33,8 @@ gleich merken werdet! </strong>
 
 Dass wir unser Festivalwochenende wegen "iss nich" nach einem Tag vor Ort
 abgeblasen haben, hatte ich in meinem
-<a href="http://cardamonchai.com/2016/07/hamburg-harley-days-2016/">Harley Days
-Artikel</a> ja schon kurz angemerkt. Wegschwimmende Zelte kann man nicht
-abbrechen, da hilft nur flüchten.
+[Harley Days Artikel](/2016/07/hamburg-harley-days-2016/) ja schon kurz
+angemerkt. Wegschwimmende Zelte kann man nicht abbrechen, da hilft nur flüchten.
 
 Wir haben also die Chance genutzt, unseren Freunden mal Hamburg ein Bisschen zu
 zeigen. Als ganz besondere Attraktion gilt ja das Miniaturwunderland. Weil das

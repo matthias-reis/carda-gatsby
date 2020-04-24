@@ -36,10 +36,10 @@ subTitle: Von A wie "Architektur" bis W wie "Webdesign"
 
 <strong>Eigentlich bin ich ja schon ziemlich stolz auf meine Seite. Besonders
 seit dem letzten Relaunch gefällt sie mir richtig gut. Screenshots gab es im
-<a href="http://cardamonchai.com/2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/">Artikel
-zum neuen Design</a> allerdings nur von der "alten Seite". Doch Schluss mit der
-Vergangenheit. Heute habe ich eine Komplettübersicht des neuen Blogs für Euch -
-Von A wie "Ausflug" bis W wie "Webdesign". </strong>
+[Artikel zum neuen Design](/2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/)
+allerdings nur von der "alten Seite". Doch Schluss mit der Vergangenheit. Heute
+habe ich eine Komplettübersicht des neuen Blogs für Euch - Von A wie "Ausflug"
+bis W wie "Webdesign". </strong>
 
 Ihr seht schon an der Zwischenüberschrift: Mein Blog ist thematisch nicht
 besonders geradlinig. Und das macht ihn besonders. Zwar dreht sich oft alles um
@@ -98,8 +98,8 @@ und lebendiges. Ein Blog zeigt ständig neue Seiten von sich.
 ## Portrait und Infos
 
 Ein sehr wichtiger Punkt. Unter dem Bild finden Neugierige nicht nur den Link zu
-meinem <a href="/mediakit/">Mediakit</a>, sondern auch einen zu meinen
-Publikationen auf anderen Seiten und einen zum Portrait zu meiner Person.
+meinem [Mediakit](/mediakit/), sondern auch einen zu meinen Publikationen auf
+anderen Seiten und einen zum Portrait zu meiner Person.
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Portrait-und-Zitat.png)
 
@@ -233,12 +233,9 @@ mit Screenshots erleichtern.
 Bei netzsieger.de hat man sich die Mühe gemacht, die besten Tools zu finden, zu
 testen und zu vergleichen. Dabei ist man zu einem erstaunlichen Ergebnis
 gekommen. Ihr seid neugierig geworden? Den kompletten Test inklusive Auswertung
-<a href="https://www.netzsieger.de/k/screenshot-software" target="_blank" rel="noopener">findet
-Ihr hier</a>.
+[findet Ihr hier](https://www.netzsieger.de/k/screenshot-software).
 
 Natürlich freue ich mich auch unter diesem Beitrag über Eure Beiträge im
-<a href="https://www.bloggerabc.de/mehr-kommentare-auf-dem-blog/." target="_blank" rel="noopener">Kommentarfeld</a>!
+[Kommentarfeld](https://www.bloggerabc.de/mehr-kommentare-auf-dem-blog/.) !
 
-Titelbild:
-<a href="https://pixabay.com/de/users/candoyi-606355/" target="_blank" rel="noopener">Condoyi</a>,
-Picabay
+Titelbild: [Condoyi](https://pixabay.com/de/users/candoyi-606355/), Picabay

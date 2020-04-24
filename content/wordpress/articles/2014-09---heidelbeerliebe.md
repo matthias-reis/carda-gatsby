@@ -37,9 +37,9 @@ subTitle: Sommerlicher Smoothie
 ---
 
 <strong>Gestern habe ich von meinem Vorhaben, wieder laufen zu gehen
-<a title="Sonnenaufgang im Paradies" href="//2014/08/31/sonnenaufgang-im-paradies/">berichtet</a>.
-Nachdem gestern alles gut funktioniert hat und ich die drei Kilometer gut
-überstanden habe, habe ich es heute gleich noch mal versucht.</strong>
+[berichtet](//2014/08/31/sonnenaufgang-im-paradies/). Nachdem gestern alles gut
+funktioniert hat und ich die drei Kilometer gut überstanden habe, habe ich es
+heute gleich noch mal versucht.</strong>
 
 Nach fast vier Kilometern durch den Park und durch die Gassen der Altstadt
 musste ich mich im Anschluss mit etwas ganz Besonderem belohnen.
@@ -58,4 +58,4 @@ Strohhalm dazu und genießen. &lt;3
 
 [gallery size="medium" type="rectangular" ids="8697,8696,8698"]
 
-## Wegweiser Smoothies<ol><li>Heidelbeerliebe</li><li><a href="http://cardamonchai.com/2014/08/sonnenaufgang-im-paradies/">Sonnenaufgang im Paradies</a></li><li><a href="http://cardamonchai.com/2017/04/hanf-banane-himbeer-smoothie/">Hanf Banane Himbeer Reigen</a></li></ol>
+## Wegweiser Smoothies<ol><li>Heidelbeerliebe</li><li> [Hanf Banane Himbeer Reigen](/2014/08/sonnenaufgang-im-paradies/) </li></ol>

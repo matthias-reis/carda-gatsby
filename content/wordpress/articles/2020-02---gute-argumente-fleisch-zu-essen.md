@@ -238,11 +238,11 @@ bezeichnen.
 <strong>Anne:</strong> Eine Frage, die ich Tierrechtlern sehr gerne stelle und
 die im Hinblick auf Euren Film über die "Stuttgart Pelzfrei"-Demo an dieser
 Stelle auch ganz passend ist: Wie erklärt ihr Euch die Tatsache, dass viele
-Menschen <a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">Echtpelz
-schlimm finden</a>, Leder aber ganz selbstverständlich tragen? Mir ist das
-persönlich ganz besonders wieder auf der letzten Pelzfrei-Demo aufgefallen, die
-ich besucht habe, die Leute hielten "Stoppt die Tierquälerei"- Schilder hoch und
-an den Füßen trugen viele von ihnen Lederschuhe.
+Menschen  [Echtpelz schlimm finden](/2014/11/fakepelz-echtpelz/), Leder aber
+ganz selbstverständlich tragen? Mir ist das persönlich ganz besonders wieder auf
+der letzten Pelzfrei-Demo aufgefallen, die ich besucht habe, die Leute hielten
+"Stoppt die Tierquälerei"- Schilder hoch und an den Füßen trugen viele von ihnen
+Lederschuhe.
 
 ## "Den Menschen ist der Zusammenhang zwischen Pelz und Leder nicht bewusst"
 
@@ -358,11 +358,10 @@ Hier ist der aktuelle Film der Unstumm Crew:
 <iframe src="https://www.youtube.com/embed/p3FMK47tzCA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Wer mehr über Unstumm Film erfahren möchte, kann dies
-<a href="https://www.facebook.com/unstummfilm" target="_blank" rel="noopener nofollow">auf
-Hendriks und Alices Facebook-Seite tun</a>.
+[auf Hendriks und Alices Facebook-Seite tun](https://www.facebook.com/unstummfilm).
 
-Wenn Euch das Interview gefallen hat, <a href="#newsletter">abonniert gerne
-meinen Newsletter</a>. Ich halte Euch über zukünftige Beiträge auf meinem Blog
-auf dem Laufenden.
+Wenn Euch das Interview gefallen hat,
+[abonniert gerne meinen Newsletter](#newsletter). Ich halte Euch über zukünftige
+Beiträge auf meinem Blog auf dem Laufenden.
 
 <strong>Bilder &amp; Videos:</strong> Unstumm Film

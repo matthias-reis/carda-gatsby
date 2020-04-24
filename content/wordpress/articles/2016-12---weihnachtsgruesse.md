@@ -48,8 +48,7 @@ Friedberg, Fulda, Cork, Leipzig und so weiter und so weiter! Ich freue mich
 unendlich über die lieben Weihnachtsgrüße und kleinen Wichtel! Für Euch habe ich
 vor ein paar Tagen einen kleinen Text zum Thema Weihnachten geschrieben. Einige
 haben ihn vielleicht schon gelesen. Wer ihn noch nicht kennt,
-<a href="http://cardamonchai.com/2016/12/froehliche-weihnachten-froehliche-weihnachten/">findet
-ihn hier</a>.
+[findet ihn hier](/2016/12/froehliche-weihnachten-froehliche-weihnachten/).
 
 Ich stoße mit Euch ein auf ein gelungenes Jahr und gemütliche Festtage! Cheers!
 

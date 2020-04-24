@@ -97,6 +97,4 @@ Koffein und kann bei zu hoher Dosierung zu Schlaflosigkeit führen.
 
 ## Quellen<ul><li>"Grüner Kaffee" von Dr. Lydia Polwin-Plass, Infobroschüre</li><li>"Kaffee – Der gesunde Muntermacher" von Anita Heßmann-Kosaris, Mosaik Verlag</li><li>Wikipedia</li></ul>
 
-Bild:
-<a href="https://pixabay.com/users/pexels-2286921/" target="_blank" rel="noopener nofollow">Pexels</a>,
-Pixabay
+Bild: [Pexels](https://pixabay.com/users/pexels-2286921/), Pixabay

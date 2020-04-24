@@ -35,7 +35,7 @@ von jetzt.de gelandet!</strong>
 
 Ich bin natürlich stolz, wie Bolle. So wird sie angekündigt:
 
-## "Vorstellungsgespräch mit Hindernissen - jetzt-Userin cardamon82 über einen wichtigen Tag mit Schrecken"</strong><a title="Vorstellungsgepräch mit Hindernissen" href="http://cardamonchai.com/2011/04/vorstellungsgesprach-mit-hindernissen/">Hier</a> könnt Ihr "Vorstellungsgespräch mit Hindernissen lesen.
+## "Vorstellungsgespräch mit Hindernissen - jetzt-Userin cardamon82 über einen wichtigen Tag mit Schrecken"</strong> [Hier](/2011/04/vorstellungsgesprach-mit-hindernissen/) könnt Ihr "Vorstellungsgespräch mit Hindernissen lesen.
 
 ![ | full](http://cardamonchai.files.wordpress.com/2011/04/anne_screenshot.jpg)
 

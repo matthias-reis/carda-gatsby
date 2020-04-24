@@ -34,10 +34,9 @@ subTitle: Das Los hat entschieden...
 Werbung &amp; Affiliate Link\*
 
 <strong>...ein hochwertiges Kosmetikset aus dem Hause
-<a href="http://cardamonchai.com/2018/01/ashera-yin-yang-balance/">Ashéra</a>
-hat gewonnen <em>Trommelwirbel</em> Lara Krüger! Lara ist die Glückliche, die
-unter allen Kommentaren und Likes auf Facebook, Intstagram und im Blog ausgelöst
-wurde.</strong>
+[Ashéra](/2018/01/ashera-yin-yang-balance/) hat gewonnen <em>Trommelwirbel</em>
+Lara Krüger! Lara ist die Glückliche, die unter allen Kommentaren und Likes auf
+Facebook, Intstagram und im Blog ausgelöst wurde.</strong>
 
 Herzlichen Glückwunsch Lara! Du wirst per E-Mail informiert und erhältst Deinen
 Gewinn dann in Kürze per Post! Mein herzliches Dankeschön geht an alle anderen
@@ -53,8 +52,7 @@ mit TCM-Wirkstoffen.
 ![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
 
 Zum Onlineshop von Ashera geht es
-<a href="https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F).
 
 ![Ashéra Naturkosmetik](https://www.adcell.de/promotion/image/promoId/172494/slotId/80259)
 
@@ -65,4 +63,4 @@ entlang</a>.
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>

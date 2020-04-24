@@ -94,9 +94,7 @@ grundsätzlich Tierleid bedeuten. Doch auch hier gilt es denke ich, sich über
 jeden Schritt in Richtung vegan zu freuen und zu hoffen, dass bald nicht mehr
 nur einzelne Praktiken der Vergangenheit angehören werden.
 
-<a href="http://cardamonchai.com/2016/04/die-neue-kollektion-von-hm/" rel="noopener" target="_blank">Leder
-und Seide unter dem Label "Conscious" bei H&amp;M</a>
+[Leder und Seide unter dem Label "Conscious" bei H&amp;M](/2016/04/die-neue-kollektion-von-hm/)
 
-Bild:
-<a href="https://pixabay.com/users/cocoparisienne-127419/" target="_blank" rel="noopener nofollow">16cocoparisienne</a>;
+Bild: [16cocoparisienne](https://pixabay.com/users/cocoparisienne-127419/);
 Pixabay

@@ -63,13 +63,7 @@ Bestellung eigentlich schon absenden wollte, noch in den Warenkorb gehüpft. Sie
 passt auch hervorragend zu meinen Bandshirts. Ich habe es schon ausprobiert.
 
 Auf secondlifefashion.de findet Ihr
-<a href="https://www.awin1.com/cread.php?awinmid=19076&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fbekleidung" target="_blank" rel="noopener nofollow">Oberbekleidung</a>,
-<a href="https://www.awin1.com/cread.php?awinmid=19076&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fschuhe-accessoires" target="_blank" rel="noopener nofollow">Schuhe
-&amp; Accessoires</a> und sogar komplette
-<a href="https://www.awin1.com/cread.php?awinmid=19076&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fbekleidunghttps%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Foutfits" target="_blank" rel="noopener nofollow">Outfits</a>.
-Wenn Ihr nach bestimmten Marken auf der Suche seid, könnt Ihr
-<a href="https://www.awin1.com/cread.php?awinmid=19076&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fartikel-beliebter-marken" target="_blank" rel="noopener nofollow">danach
-filtern</a>.
+[danach filtern](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fbekleidung).
 
 [glry name="secondlifefashion1"]
 
@@ -92,10 +86,10 @@ Marketing.
 ## Ungeliebte Kleidungsstücke werden zu Lieblingsteilen
 
 Insgesamt bin ich mit meiner Bestellung bei
-<a href="https://www.awin1.com/cread.php?awinmid=19076&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fsecondlifefashion.de%2F" target="_blank" rel="noopener nofollow">Second
-Life Fashion</a> sehr zufrieden. Ich finde den Gedanken sehr schön, dass ein
-ungeliebtes Kleidungsstück auf diesem Weg doch noch zu einem Lieblingsteil
-werden kann - die Umwelt freut sich.
+[Second Life Fashion](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2F)
+sehr zufrieden. Ich finde den Gedanken sehr schön, dass ein ungeliebtes
+Kleidungsstück auf diesem Weg doch noch zu einem Lieblingsteil werden kann - die
+Umwelt freut sich.
 
 Wer ungetragene Kleidung in seinem Schrank hängen hat, kann sie natürlich auch
 an Second Life Fashion verschicken. Lisa und ihr Team freuen sich immer über
@@ -121,10 +115,9 @@ schwarzen Pulli ist: Warum nicht erstmal Second-Hand schauen? Wer unsere
 Ressourcen schonen möchte, sollte auf jeden Fall darüber nachdenken. [glry
 name="secondlifefashion2"]
 
-<a href="https://www.awin1.com/cread.php?awinmid=19076&amp;awinaffid=632580&amp;clickref=&amp;ued=https%3A%2F%2Fsecondlifefashion.de%2F" target="_blank" rel="noopener nofollow">Hier
-gehts zum Second Life Fashion Onlineshop</a>.
+[Hier gehts zum Second Life Fashion Onlineshop](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2F).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

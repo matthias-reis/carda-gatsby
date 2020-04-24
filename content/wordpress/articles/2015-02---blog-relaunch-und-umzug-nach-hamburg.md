@@ -35,11 +35,10 @@ subTitle: "Teil III: Die Vorfreude"
 
 ## cardamonchai schon bald in neuem Gewand<blockquote><strong>"Wir können den Wind nicht ändern, aber wir können die Segel richtig setzen!"</strong></blockquote>
 
-![Oskar fragt sich, was los ist](https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Oskar fragt sich, was los ist')
+![Oskar fragt sich, was los ist](https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Oskar fragt sich, was los ist")
 
-<strong>So formulierte es einst Aristoteles.
-(<a href="/2014/08/21/wie-picasso-nur-mit-strom/"><span style="text-decoration: underline;"><em>Hier
-gehts zum zweiten Teil des Artikels</em></span></a>) Derzeit herrscht hier
+<strong>So formulierte es einst Aristoteles. (
+[](/2014/08/21/wie-picasso-nur-mit-strom/) ) Derzeit herrscht hier
 Aufbruchstimmung. Wenn ich nicht am Computer sitze und schreibe, sortiere ich
 unser Hab und Gut aus und packe alles, was nicht abgegeben, weggeschmissen oder
 gespendet wird, in Kartons.</strong>
@@ -67,7 +66,7 @@ mir nicht ganz sicher, dass das unser letzter Besuch dort war.
 
 ### Auch die Stubentiger kommen mit
 
-![Chili schläft gerne im Auto](https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Chili schläft gerne im Auto')
+![Chili schläft gerne im Auto](https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Chili schläft gerne im Auto")
 
 Natürlich kommen auch unsere beiden Stubentiger mit, die gewöhnen sich gerade
 schon an einen großen, bequemen Hundekorb, der bei uns im Wohnzimmer zum festen
@@ -83,14 +82,13 @@ andere Fotostrecke von unseren Entdeckungstouren durch die
 für den Umzug meines Blogs liegen auch in den letzten Zügen, noch ein paar Tage,
 dann erstrahlt cardamonchai in neuem Glanz.
 
-### Die Tätowierung ist endlich fertig<a title="Teil 1: Die Idee" href="/2014/05/20/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/">Einen kleinen Vorgeschmack</a> hatte ich Euch ja letztes Jahr schon gegeben, der Herzmann hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter <a href="http://www.cardamonchai.com">cardamonchai.com</a> zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
+### Die Tätowierung ist endlich fertig [cardamonchai.com](/2014/05/20/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
 
-![Das Tattoo ist endlich vollständig](https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Das Tattoo ist endlich vollständig')
+![Das Tattoo ist endlich vollständig](https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225 " [](https://www.flickr.com/photos/99929697@N07/)  Das Tattoo ist endlich vollständig")
 
 Inzwischen ist die ursprünglich geplante Designvorlage, mein
-<strong>Tattoo</strong> auch fertig,
-<a title="Mat Reeseman" href="http://instagram.com/matstache" target="_blank" rel="noopener">Mat</a>
-hat es letzte Woche noch mit einem Hintergrund versehen und es ist jetzt
+<strong>Tattoo</strong> auch fertig, [Mat](http://instagram.com/matstache) hat
+es letzte Woche noch mit einem Hintergrund versehen und es ist jetzt
 vollständig. Schön auch der Gedanke, dass die Herzmann-Zeichnung als Vorlage für
 das Tattoo fungierte. Mat hat davon beim Tätowieren seine persönliche
 Interpretation geschaffen und dabei auch ganze Arbeit geleistet.
@@ -102,8 +100,7 @@ erscheinen.
 Bis bald Anne &lt;3
 
 <em>PS: Ein kleines Fototagebuch zum Umzug findet Ihr in meinem
-<a title="Anne Instagram" href="http://instagram.com/anne_reko/" target="_blank" rel="noopener">Instagram</a>.</em><span style="text-decoration: underline;"><a title="Teil 3" href="http://cardamonchai.com/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/"><em><strong>Hier
-gehts zum vierten Teil des Artikels</strong></em></a></span>
+[](http://instagram.com/anne_reko/) </span>
 
 [gallery link="none" size="large" type="rectangular"
 ids="9471,9463,9462,9460,9459,9464"]

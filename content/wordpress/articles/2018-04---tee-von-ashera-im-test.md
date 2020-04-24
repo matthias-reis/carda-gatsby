@@ -80,8 +80,7 @@ Augenkraft"! Das gilt, wenn der Kommentar vor dem 31.12.2018 hier gepostet wird.
 ![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
 
 Zum Onlineshop von Ashéra geht es
-<a href="https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F).
 
 [gallery type="rectangular" size="medium" link="none"
 ids="20562,20561,20560,20559,20557,20554,20553"]
@@ -91,4 +90,4 @@ ids="20562,20561,20560,20559,20557,20554,20553"]
 <a href="https://www.adcell.de/promotion/click/promoId/172492/slotId/80259" target="_blank" rel="noopener">
 
 </a>
-*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

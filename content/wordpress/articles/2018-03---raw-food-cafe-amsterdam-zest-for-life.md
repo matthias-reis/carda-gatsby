@@ -78,10 +78,10 @@ ids="19538,19537,19544,19542,19541,19540,19539,19536"]
 ## Wegweiser Amsterdam
 
 <ol>
-    <li><a href="http://cardamonchai.com/2018/01/banksy-im-moco-amsterdam/">Banksy im Moco Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/stedelijk-museum-amsterdam/">Stedelijk Museum Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/vegan-junk-food-bar-amsterdam/">Vegan Junk Food Bar Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/rijksmuseum-amsterdam/">Rijksmusem Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/amsterdam/">Amsterdam - Grachten und Gassen</a></li>
+    <li> [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/) </li>
+    <li> [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/) </li>
+    <li> [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/) </li>
+    <li> [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/) </li>
+    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
     <li>Raw Food Café Amsterdam</li>
 </ol>

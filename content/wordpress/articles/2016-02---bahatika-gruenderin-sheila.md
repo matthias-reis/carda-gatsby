@@ -184,7 +184,7 @@ unsere Produkte vorzustellen, und Menschen die ebenfalls bestrebt sind ein
 bewussteres und lebenswerteres Leben zu führen, unsere Ideologie näher zu
 bringen.
 
-Wer jetzt neugierig geworden ist: <a href="https://www.bahatika.com">Hier geht
-es zur Homepage von Bahatika</a>.
+Wer jetzt neugierig geworden ist:
+[Hier geht es zur Homepage von Bahatika](https://www.bahatika.com).
 
 Bilder: Bahatika Header: Modell Asilia Mary Jane

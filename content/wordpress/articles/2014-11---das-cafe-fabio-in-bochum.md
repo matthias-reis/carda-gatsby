@@ -63,6 +63,4 @@ das vegane Leben geben.
 Mit den Biospeisen aus eigener Produktion hebt sich das Fabio ganz klar ab vom
 einheitlichen Innenstadtbild aus Mode- und Restaurantketten. Das Team des Fabio
 hat es sich zum Ziel gemacht, den veganen Gedanken in Bochum zu verbreiten.
-Infos findet Ihr
-<a href="https://www.cafefabio.com" target="_blank" rel="noopener nofollow">auf
-der Homepages des Cafés</a>.
+Infos findet Ihr [auf der Homepages des Cafés](https://www.cafefabio.com).

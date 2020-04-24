@@ -94,7 +94,7 @@ subTitle: Werden wir überwacht?
 Facebook und Google+ haben eine Klarnamenpflicht in Ihre AGB aufgenommen. Die
 TAZ berichtete heute über das "Vermummungsverbot im Internet":
 
-<a href="http://taz.de/Streit-der-Woche/!75939/">http://taz.de/Streit-der-Woche/!75939/</a>
+[http://taz.de/Streit-der-Woche/!75939/](http://taz.de/Streit-der-Woche/!75939/)
 
 Bereits einige Minuten nach Erscheinen des Artikels war eine heftige
 Kommentar-Debatte entbrannt, nachzulesen unter dem Artikel. Natürlich wird nicht
@@ -136,8 +136,8 @@ Kommentar-Seite unter dem TAZ-Beitrag.</em>
 
 To be continued...
 
-<strong>Link des
-Tages:</strong><a href="http://de.wiktionary.org/wiki/Klarname">http://de.wiktionary.org/wiki/Klarname</a>
+<strong>Link des Tages:</strong>
+[http://de.wiktionary.org/wiki/Klarname](http://de.wiktionary.org/wiki/Klarname)
 
 ![Foto: Gerd Altmann pixelio.de | full](http://cardamonchai.files.wordpress.com/2011/08/508873_r_k_b_by_gerd-altmann_pixelio-de.jpg "Foto: Gerd Altmann pixelio.de")
 

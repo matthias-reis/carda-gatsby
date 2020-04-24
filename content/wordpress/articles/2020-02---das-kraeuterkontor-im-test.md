@@ -84,22 +84,21 @@ Pflanze gehört zu den Gliedkräutern. Sie ist robust und wächst ab einer Höhe
 werden bis zu 50 Zentimeter groß.
 
 Um den
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fbergtee-griechisch-bio" target="_blank" rel="noopener nofollow">Griechischen
-Bergtee</a> aufzubrühen, nimmt man zwischen fünf und zehn Gramm Blüten auf einen
-Liter kochendes Wasser. Die Ziehzeit beträgt zwischen sieben und zehn Minuten.
-Der Tee ist nicht nur für seine positiven Auswirkungen auf den Stoffwechsel
-bekannt. Neusten Forschungen zur Folge soll er sogar eine nervenstärkende
-Wirkung besitzen
+[Griechischen Bergtee](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fbergtee-griechisch-bio)
+aufzubrühen, nimmt man zwischen fünf und zehn Gramm Blüten auf einen Liter
+kochendes Wasser. Die Ziehzeit beträgt zwischen sieben und zehn Minuten. Der Tee
+ist nicht nur für seine positiven Auswirkungen auf den Stoffwechsel bekannt.
+Neusten Forschungen zur Folge soll er sogar eine nervenstärkende Wirkung
+besitzen
 
 ## Pfefferminztee
 
 Die meisten kennen Pfefferminztee aus ihrer Kindheit. Sobald man eine Erkältung
 hatte, wurde er aufgetischt - leider oft ziemlich stark gesüßt. Mit dem
 damaligen Beuteltee hat
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fpfefferminze-bio-demeter" target="_blank" rel="noopener nofollow">der
-Kräuterkontor Pfefferminztee</a> nur sehr wenig gemein. Er besitzt eine leicht
-pfeffrige Note und ein klares Minzaroma. Dafür sorgt die enthaltene
-Pfefferminze.
+[der Kräuterkontor Pfefferminztee](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fpfefferminze-bio-demeter)
+nur sehr wenig gemein. Er besitzt eine leicht pfeffrige Note und ein klares
+Minzaroma. Dafür sorgt die enthaltene Pfefferminze.
 
 Dabei handelt es sich um eine für Europa typische Mischung aus Krauseminze und
 Wasserminze. Sie wird auch gerne bei der Herstellung von Kaugummis verwendet. Um
@@ -119,10 +118,10 @@ Aussehen erinnern sie an sehr kleine Rosinen. Sie sind allerdings weniger
 klebrig und enthalten wesentlich weniger Fruchtzucker.
 
 Im Iran wird
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fberberitzenbeeren" target="_blank" rel="noopener nofollow">die
-Berberitzenbeere</a> auch zum Kochen verwendet. Dort veredelt man die
-verschiedensten Gerichte mit den kleinen Vitaminbömbchen. Traditionell werden
-sie bei Menstruationsbeschwerden, Verdauungsproblemen und Gallenleiden gereicht.
+[die Berberitzenbeere](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fberberitzenbeeren)
+auch zum Kochen verwendet. Dort veredelt man die verschiedensten Gerichte mit
+den kleinen Vitaminbömbchen. Traditionell werden sie bei
+Menstruationsbeschwerden, Verdauungsproblemen und Gallenleiden gereicht.
 
 Die roten Beeren werden auch Essigbeeren oder Sauerdorn genannt. Leider werden
 sie in Deutschland sehr oft mit den für den Menschen giftigen Vogelbeeren
@@ -132,12 +131,9 @@ Oktober reifen dann die Beeren.
 
 ## Chiasamen
 
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fchia-samen-schwarz-weiss-bio" target="_blank" rel="noopener nofollow">Chiasamen</a>
-geben Matze und ich gerne in unserer Müsli oder in Smoothies. Man kann sie aber
-auch in den Salat tun oder leckeren
-<a href="http://cardamonchai.com/2015/02/chiapudding/">Chiapudding</a> damit
-zubereiten. Sie enthalten wertvolle Omega3-Fettsäuren, sind also unter anderem
-gut fürs Herz, die Haut und den Muskelaufbau.
+[Chiapudding](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fchia-samen-schwarz-weiss-bio)
+damit zubereiten. Sie enthalten wertvolle Omega3-Fettsäuren, sind also unter
+anderem gut fürs Herz, die Haut und den Muskelaufbau.
 
 Weil sie das neunfache ihres Eigengewichts an Feuchtigkeit speichern können,
 sind auch gut für ein langanhaltendes Sättigungsgefühl. In Mittelamerika werden
@@ -146,11 +142,11 @@ Nährstoffdichte sehr geschätzt.
 
 ## Paprika Edelsüß
 
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fpaprika-edelsuess-gemahlen-bio" target="_blank" rel="noopener nofollow">Paprika
-Edelsüß</a> ist für mich eines der am meisten unterschätzten Gewürze. Eine ganze
-Zeitlang habe ich selbst ihm auch keinerlei Beachtung geschenkt. Es war
-Bestandteil jedes verklebten Gewürzregals in jeder Gelsenkirchener Barock
-Standardküche und für mich genauso spießig wie Saucenbinder und Kittelschürzen.
+[Paprika Edelsüß](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fpaprika-edelsuess-gemahlen-bio)
+ist für mich eines der am meisten unterschätzten Gewürze. Eine ganze Zeitlang
+habe ich selbst ihm auch keinerlei Beachtung geschenkt. Es war Bestandteil jedes
+verklebten Gewürzregals in jeder Gelsenkirchener Barock Standardküche und für
+mich genauso spießig wie Saucenbinder und Kittelschürzen.
 
 ![Kräuterkontor](https://www.adcell.de/promotion/image/promoId/209308/slotId/80259)
 
@@ -158,13 +154,10 @@ Dass ich mich da ziemlich verschätzt hatte, bewies mir Matze, der damit in der
 Küche die tollsten Dinge anstellt. Er fügt es so gut wie jedem Gericht hinzu und
 kann sich Kochen ohne Paprikapulver nicht so wirklich vorstellen. Sein
 süßlich-herber Geschmack macht seine Currywurst, Pizza, Pastagerichte und
-<a href="http://cardamonchai.com/2016/01/seitan-a-la-herzmann/">Seitansbraten</a>
-erst zu dem, was sie sind. Inzwischen stehe ich dem Pülverchen auch wesentlich
-aufgeschlossener gegenüber. Es kommt in meinen selbst gemachten
-<a href="http://cardamonchai.com/2014/11/suechtig-nach-kaese-casomorphine/">veganen
-Käse</a>, in die Suppe und sogar in den Pfannkuchenteig. Vielleicht bin ich auch
-einfach eine Spießerin geworden - im Standardsortiment unserer Küche darf es
-seit einiger Zeit auf jeden Fall auch für mich nicht mehr fehlen.
+[veganen Käse](/2016/01/seitan-a-la-herzmann/), in die Suppe und sogar in den
+Pfannkuchenteig. Vielleicht bin ich auch einfach eine Spießerin geworden - im
+Standardsortiment unserer Küche darf es seit einiger Zeit auf jeden Fall auch
+für mich nicht mehr fehlen.
 <a href="https://www.adcell.de/promotion/click/promoId/209308/slotId/80259" target="_blank" rel="noopener nofollow">
 
 </a>
@@ -175,11 +168,10 @@ In meiner Handtasche muss immer eine gute Handcreme liegen. In der letzten Zeit
 bin ich auf diesem Gebiet häufiger enttäuscht worden und habe Euch Testberichte
 aus diesem Grund erspart. Nach einer längeren Durststrecke war die Haut an
 meinen Händen schon etwas mehr als nur trocken. Sie hatte intensive Pflege
-nötig.
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fduft-pflege%2Flenz-kosmetik%2F%3Fp%3D1" target="_blank" rel="noopener nofollow">Die
-Handcreme mit Klettensamen und Ringelblume</a> kam da genau im richtigen Moment.
-Schon nach ein paar Anwendungen brennt, spannt und juckt gar nichts mehr und das
-sogar nach dem Waschen.
+nötig. [Die Handcreme mit Klettensamen und
+Ringelblume](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2Fduft-pflege%2Flenz-kosmetik%2F%3Fp%3D1)
+kam da genau im richtigen Moment. Schon nach ein paar Anwendungen brennt, spannt
+und juckt gar nichts mehr und das sogar nach dem Waschen.
 
 Die Creme fettet nicht, zieht schnell ein und hat einen zarten, natürlichen
 Duft, der nicht mit meinem Parfum konkurriert. Sie ist natürlich und vegan und
@@ -189,7 +181,7 @@ stammt von Lenz Naturkosmetik.
 
 Insgesamt gefallen mir die Produkte aus dem Kräuterkontor alle sehr gut. Die
 Qualität ist wirklich hervorragend und auf nerviges Plastik wird verzichtet. Im
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F" target="_blank" rel="noopener nofollow">Onlineshop</a>
+[Onlineshop](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F)
 haben erklärungsintensive Produkte, wie der Griechische Bergtee umfangreiche
 Beschreibungen, die mir alle nötigen Informationen bieten, ohne, dass ich viel
 googeln muss.
@@ -201,7 +193,7 @@ ausprobieren.
 ## Das Kräuterkontor
 
 Das junge Berliner Unternehmen
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F" target="_blank" rel="noopener nofollow">Kräuterkontor</a>
+[Kräuterkontor](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F)
 widmet sich dem Handel mit Heilkräutern in Bio-Qualität. Den Gründern ist es
 wichtig, traditionelles Kräuterwissen weiterzugeben, wieder zu entdecken und
 weiterzuentwickeln. Das Kontor ist ein reiner Versandhandel. Auf der Homepage
@@ -216,14 +208,11 @@ Versand erfolgt über "Go-Green". Das DHL-Projekt arbeitet mittels
 Ausgleichszahlungen am Ausgleich von Klimaschäden.
 
 Hat Euch mein Testbericht gefallen? Falls Ihr neugierig geworden seid, könnt Ihr
-gerne auch mal auf der
-<a href="https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F" target="_blank" rel="noopener nofollow">Homepage
-des Kräuterkontors</a> vorbeischauen. Wenn Ihr in Zukunft nichts mehr auf meiner
-Seite verpassen möchtet, <a href="#newsletter">abonniert am besten meinen
-Newsletter</a>. Ich informiere Euch dann einmal pro Woche über meine aktuellsten
-Beiträge.
+gerne auch mal auf der [abonniert am besten meinen
+Newsletter](https://www.adcell.de/promotion/click/promoId/207647/slotId/80259?param0=https%3A%2F%2Fkraeuterkontor.de%2F).
+Ich informiere Euch dann einmal pro Woche über meine aktuellsten Beiträge.
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>

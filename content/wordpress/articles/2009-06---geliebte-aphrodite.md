@@ -72,8 +72,7 @@ Historische Gebäude mit moderner Architektur (Siehe z. B. Berliner
 Gedächniskirche)? Oder habt ihr das Gefühl, diese Skulptur hat mit Kunst nichts
 zu tun?
 
-<strong>Quellen:</strong><a href="http://de.wikipedia.org/wiki/Augsburg" rel="nofollow">http://de.wikipedia.org/wiki/Augsburg</a><a href="http://www2.augsburg.de/" rel="nofollow">http://www2.augsburg.de/</a><a href="http://www.augsburgwiki.de/index.php/AugsburgWiki/Aphrodite-Kunstskandal" rel="nofollow">http://www.augsburgwiki.de/index.php/AugsburgWiki/...</a><strong>Wer
-ist
-Aphrodite?</strong><a href="http://de.wikipedia.org/wiki/Aphrodite" rel="nofollow">http://de.wikipedia.org/wiki/Aphrodite</a>
+<strong>Quellen:</strong>
+[http://de.wikipedia.org/wiki/Aphrodite](http://de.wikipedia.org/wiki/Augsburg)
 
 &nbsp;

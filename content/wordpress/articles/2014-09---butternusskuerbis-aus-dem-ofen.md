@@ -63,7 +63,7 @@ Euch mein
 
 ## Butternusskürbis aus dem Ofen<small>(Rezept für 2 Portionen)</small><strong>Zutaten</strong><ul><li>1 mittelgroßer, reifer Butternusskürbis
 
-![Butternusskürbis](http://cardamonchai.com/wp-content/uploads/2014/09/ofenkc3bcrbis-14-640x853.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Herbstlich bunt und saftig')
+![Butternusskürbis](http://cardamonchai.com/wp-content/uploads/2014/09/ofenkc3bcrbis-14-640x853.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Herbstlich bunt und saftig")
 
 <small>(wir hatten einen mittleren und einen kleinen Kübis zu zweit, das war
 eindeutig zu
@@ -87,8 +87,8 @@ Das Backblech in den Ofen schieben und den Kürbis ca. 35 - 40 Minuten backen.
 Die Backzeit kann prima nutzen, um eine Beilage zuzubereiten, ich habe ein paar
 Dinkelnudeln mit einer einfachen Tomatensauce mit etwas Chili, Knoblauch und
 Sojaschnetzeln dazu gereicht, gut vorstellen könnte ich mir z. B. auch
-<a title="Tabulé" href="//2014/08/31/dahl-linsen-mit-kokos-und-spinat-an-tabule/">Tabulé</a>
-oder z. B. Wildreis. Der Phantasie sind hier keine Grenzen gesetzt.
+[Tabulé](//2014/08/31/dahl-linsen-mit-kokos-und-spinat-an-tabule/) oder z. B.
+Wildreis. Der Phantasie sind hier keine Grenzen gesetzt.
 
 [gallery columns="2" link="none" size="medium" type="rectangular"
 ids="8927,8926"]

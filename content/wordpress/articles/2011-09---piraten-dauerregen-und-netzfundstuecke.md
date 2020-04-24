@@ -55,10 +55,7 @@ subTitle: Tagebucheintrag
 ---
 
 <strong>Heute ist
-<a href="http://de.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day">"International
-Talk Like A Pirate Day"</a>, was nach dem Erfolg der
-<a href="http://www.sueddeutsche.de/politik/ueberraschungserfolg-in-berlin-was-die-piraten-wollen-1.1145851">Piratenpartei</a>
-bei den <a href="http://www.taz.de/Wahl-in-Berlin/!78344/">Wahlen in Berlin</a>
+[Wahlen in Berlin](http://de.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day)
 ziemlich passend ist. Quasi aus dem Nichts tauchten die Piraten auf und enterten
 mit 8,9 Prozent der Wählerstimmen das Berliner Abgeordnetenhaus.</strong>
 
@@ -101,9 +98,9 @@ Inzwischen hat der Herbst Einzug gehalten, auf den Straßen liegt Laub, das
 Thermometer stieg heute bei Dauerregen gerade mal auf 8°C. Es ist auf jeden Fall
 Zeit, die Garderobe langsam aber sicher auf die kältere Jahreszeit umzustellen.
 Auf einen schönen
-<a href="http://de.wikipedia.org/wiki/Altweibersommer">Altweibersommer</a> im
-Oktober darf man trotzdem hoffen, und eventuell noch nicht alle Sommersachen in
-die hinterste Ecke des Kleiderschranks verbannen.
+[Altweibersommer](http://de.wikipedia.org/wiki/Altweibersommer) im Oktober darf
+man trotzdem hoffen, und eventuell noch nicht alle Sommersachen in die hinterste
+Ecke des Kleiderschranks verbannen.
 
 Viel zu schnell geht so ein Wochenende vorbei, meistens schafft man nicht mal
 die Hälfte der Dinge, die man eigentlich erledigen wollte. Am besten wirkt man

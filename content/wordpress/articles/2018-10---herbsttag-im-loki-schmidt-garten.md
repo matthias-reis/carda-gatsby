@@ -79,9 +79,9 @@ Generationen.</blockquote>
 ## Wegweiser Loki Schmidt Garten
 
 <ol>
-    <li><a href="http://cardamonchai.com/2015/09/indian-summer-im-loki-schmidt-garten/">Indian Summer im Loki Schmidt Garten</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/spaetsommer-loki-schmidt-garten/">Spätsommer im Loki Schmidt Garten</a></li>
-    <li><a href="http://cardamonchai.com/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/">Frühlingsboten im Loki Schmidt Garten</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai - Gegensätze</a></li>
+    <li> [Indian Summer im Loki Schmidt Garten](/2015/09/indian-summer-im-loki-schmidt-garten/) </li>
+    <li> [Spätsommer im Loki Schmidt Garten](/2016/08/spaetsommer-loki-schmidt-garten/) </li>
+    <li> [Frühlingsboten im Loki Schmidt Garten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/) </li>
+    <li> [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/) </li>
     <li>Herbsttag im Loki Schmidt Garten</li>
 </ol>

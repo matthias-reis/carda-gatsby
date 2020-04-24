@@ -99,11 +99,11 @@ man sein Festivalticket nicht an der Abendkasse und kann es somit im Bus bereits
 vorlegen, ist der Fahrtpreis inbegriffen.
 
 Für ausbaufähig halten wir nach unserem Besuch das Angebot an
-<a href="https://cardamonchai.com/category/vegan-2/rezepte/">veganem Essen</a>
-(einzig gefüllte Kartoffeln wurden auf Anfrage hin auch vegan zubereitet) und
-Skandinavischer Kultur. Aber was nicht ist, kann ja noch werden und das NORDEN
-Festival steckt ja auch noch in den Kinderschuhen. Wir sind auf jeden Fall
-gespannt auf nächstes Jahr und werden bestimmt auch wieder hinfahren.
+[veganem Essen](/category/vegan-2/rezepte/) (einzig gefüllte Kartoffeln wurden
+auf Anfrage hin auch vegan zubereitet) und Skandinavischer Kultur. Aber was
+nicht ist, kann ja noch werden und das NORDEN Festival steckt ja auch noch in
+den Kinderschuhen. Wir sind auf jeden Fall gespannt auf nächstes Jahr und werden
+bestimmt auch wieder hinfahren.
 
 ## Nächstes Jahr wird gepaddelt!
 
@@ -121,8 +121,7 @@ Schleswiger Königswiesen statt. Tagestickets sind für rund 11 Euro,
 Festivalpässe für den kompletten Zeitraum für rund 38 Euro und Wochenendtickets
 für rund 21 Euro zu haben.
 
-<a href="http://cardamonchai.com/2018/07/norden-festival/">Wer mehr über das
-NORDEN Festival erfahren möchte, kann gerne mal hier klicken.</a>
+[Wer mehr über das NORDEN Festival erfahren möchte, kann gerne mal hier klicken.](/2018/07/norden-festival/)
 
 [myflickr tag="annenordenfestival2018schleswigbilder"]
 

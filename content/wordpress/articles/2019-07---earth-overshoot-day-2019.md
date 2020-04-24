@@ -37,13 +37,11 @@ subTitle: "#MoveTheDate - Wir müssen jetzt handeln!"
 Jedes Jahr erscheint der Artikel noch ein paar Tage früher - das sollte uns
 Sorgen bereiten.</strong>
 
-<a href="http://cardamonchai.com/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/" target="_blank" rel="noopener">2017
-fiel der Earth Overshoot Day auf den 2. August</a>. Letztes Jahr
-<a href="http://cardamonchai.com/2018/07/earth-overshoot-day-2018/" target="_blank" rel="noopener">war
-es schon am 31 Juli soweit</a> und dieses Jahr sogar noch früher. Bereits
-morgen, am 29. Juli 2019 ist der Tag, an dem die Menschheit die Ressourcen der
-Natur für dieses Jahr verbraucht hat. Berechnet wird der Stichtag seit 1987 vom
-<strong>Global Footprint Network</strong>.
+[war es schon am 31 Juli soweit](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/)
+und dieses Jahr sogar noch früher. Bereits morgen, am 29. Juli 2019 ist der Tag,
+an dem die Menschheit die Ressourcen der Natur für dieses Jahr verbraucht hat.
+Berechnet wird der Stichtag seit 1987 vom <strong>Global Footprint
+Network</strong>.
 
 Die Rechnung funktioniert ganz einfach: Aktueller globaler ökologischer
 Fußabdruck (sprich: Ressourcen, welche die Menschheit Stand heute benötigt) im
@@ -63,8 +61,7 @@ wird einem das Ausmaß der Dringlichkeit bewusst.
 Jedes Jahr nehmen wir der Erde mehr weg. Das Global Footprint Network rechnet
 übrigens auch aus, wie viele Erden wir benötigen würden, wenn alle Menschen so
 leben würden, wie es dem Standard bestimmter Länder entspricht. Bei den USA
-wären es 5, bei Deutschland 3, bei
-<a href="https://cardamonchai.com/category/unterwegs/england/">England</a> 2,7
+wären es 5, bei Deutschland 3, bei [England](/category/unterwegs/england/) 2,7
 und bei Spanien 2,5.
 
 ![earth-overshoot-day-2019](http://cardamonchai.com/wp-content/uploads/2019/07/How_many_Earths_2019_German_update-medium-768x1261.jpg)
@@ -106,19 +103,18 @@ alle Stellschrauben, die jedem als Individuum zur Verfügung stehen. Hier zwei
 Beispiele:
 
 <ul>
-    <li><a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">Das Ersetzen von 50 Prozent des Fleischkonsums durch pflanzliche Ernährung könnte die Überschreitung um ganze 15 Tage hinausschieben. Allein 10 Tage davon fallen dabei auf die Reduzierung der Methanemissionen</a>.</li>
+    <li> [Das Ersetzen von 50 Prozent des Fleischkonsums durch pflanzliche Ernährung könnte die Überschreitung um ganze 15 Tage hinausschieben. Allein 10 Tage davon fallen dabei auf die Reduzierung der Methanemissionen](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/). </li>
     <li>Das Zurückschrauben der CO<sub>2</sub>-Emissionen durch Fossilenergie würde für eine Verschiebung von 93 Tagen sorgen.</li>
 </ul>
 
 Teil der Kampagne ist unter anderem auch ein
-<a href="http://www.footprintcalculator.org/" target="_blank" rel="noopener">Footprint-Rechner</a>,
-mit dem man sich seinen persönlichen ökologischen Fußabdruck ausrechnen kann.
-Ich kann ihn wirklich jedem\*r ans Herz legen. Es hilft sehr dabei, sich in
-Richtung nachhaltigerer Lebenswandel zu orientieren und das eigene Verhalten zu
+[Footprint-Rechner](http://www.footprintcalculator.org/), mit dem man sich
+seinen persönlichen ökologischen Fußabdruck ausrechnen kann. Ich kann ihn
+wirklich jedem\*r ans Herz legen. Es hilft sehr dabei, sich in Richtung
+nachhaltigerer Lebenswandel zu orientieren und das eigene Verhalten zu
 hinterfragen.
 
 ![earth-overshoot-day-2019 | full](http://cardamonchai.com/wp-content/uploads/2019/07/photo_2019-07-28_17-36-23.jpg)
 
 Schaubilder im Artikel / pictures in this article:
-<a href="https://www.overshootday.org/newsroom/press-release-june-2019-german/" target="_blank" rel="noopener">Global
-Footprint Network, overshootday.org</a>
+[Global Footprint Network, overshootday.org](https://www.overshootday.org/newsroom/press-release-june-2019-german/)

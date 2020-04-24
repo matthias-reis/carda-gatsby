@@ -69,7 +69,7 @@ von Dorf zu Dorf, ohne dabei auch nur eine Atempause einzulegen.
 
 ## Das Rätsel um den aktiven Herrn Sommer
 
-![die-geschichte-von-herrn-sommer](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-400x533.jpg '<a href="https://amzn.to/2HvCs4m" target="_blank" rel="noopener nofollow"> </a> "Die Geschichte von Herrn Sommer" - eine Novelle von Patrick Süskind')
+![die-geschichte-von-herrn-sommer](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-400x533.jpg ' [](https://amzn.to/2HvCs4m)  "Die Geschichte von Herrn Sommer" - eine Novelle von Patrick Süskind')
 
 Der Junge kommt dem Rästel um den aktiven Herrn nach und nach auf die Spur,
 erkennt dessen Einsamkeit und ist gebannt von der Tragik seines Daseins. Ganz
@@ -89,8 +89,7 @@ behandelt schwierige Themen wie das Heranwachsen und Älterwerden aber auch
 Depression und Suizid auf einfühlsame Weise. Sempé hat es sehr liebevoll
 bebildert. Dabei hat er die einzelnen Szenen gekonnt erfasst und mit viel Gefühl
 ausgestaltet. Das Buch ist 1991 im Diogenes Verlag erschienen und trägt die
-<a href="https://amzn.to/2HvCs4m" target="_blank" rel="noopener nofollow">ISBN
-3-257-01895-9</a>.
+[ISBN 3-257-01895-9](https://amzn.to/2HvCs4m).
 
 ## Meine Leseempfehlung
 
@@ -106,27 +105,24 @@ Jean-Jaques Sempé kam 1932 in Bordeaux zur Welt. Der Zeichner und Karikaturist
 ist unter seinem Nachnamen bekannt. Schon während seiner Schulzeit erkannte er
 sein Zeichentalent. Für Diogenes hat er zahlreiche Bücher bebildert.
 
-Ich möchte Euch
-"<a href="https://amzn.to/2HvCs4m" target="_blank" rel="noopener nofollow">Die
-Geschichte von Herrn Sommer</a>" hiermit ans Herz legen. Mir hat das Buch
-während einer Bahnfahrt ein paar wirklich schöne Stunden beschert. Ich finde, es
-regt zum Denken an und transportiert eine wertvolle Botschaft. Beim Lesen
-beginnt man insgeheim sein eigenes Handeln zu hinterfragen und lernt obendrein
-einige hochinteressante Charaktere kennen. Der Vater des Jungen sowie seine
-ebenso einsame wie strenge Klavierlehrerin sind nur zwei von ihnen.
+Ich möchte Euch "[Die Geschichte von Herrn Sommer](https://amzn.to/2HvCs4m)"
+hiermit ans Herz legen. Mir hat das Buch während einer Bahnfahrt ein paar
+wirklich schöne Stunden beschert. Ich finde, es regt zum Denken an und
+transportiert eine wertvolle Botschaft. Beim Lesen beginnt man insgeheim sein
+eigenes Handeln zu hinterfragen und lernt obendrein einige hochinteressante
+Charaktere kennen. Der Vater des Jungen sowie seine ebenso einsame wie strenge
+Klavierlehrerin sind nur zwei von ihnen.
 
 ## Weiterlesen
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>, sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst
-lese, desto mehr möchte ich darüber berichten.
+[seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/),
+sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
+mehr möchte ich darüber berichten.
 
-![die-geschichte-von-herrn-sommer | full](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-1-960x720.jpg '<a href="https://amzn.to/2HvCs4m" target="_blank" rel="noopener nofollow"> </a> "Die Geschichte von Herrn Sommer" - meine Empfehlung')
+![die-geschichte-von-herrn-sommer | full](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-1-960x720.jpg ' [](https://amzn.to/2HvCs4m)  "Die Geschichte von Herrn Sommer" - meine Empfehlung')
 
 <em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

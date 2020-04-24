@@ -77,11 +77,10 @@ ohne dabei von einer Hitzequelle abhängig zu sein.
 
 ## Cold Brew Kaffee ist gesund
 
-Was die Händler aus
-<a href="https://cardamonchai.com/2018/03/amsterdam/">Holland</a> da entdeckt
-haben, ist nicht nur sehr lange haltbar (bis zu 14 Tage!), es schmeckt auch noch
-toll und ist gesund. Die Bitterstoffe und Säuren werden bei dieser Art der
-Kaffeebereitung herausgefiltert - das freut den Magen sehr.
+Was die Händler aus [Holland](/2018/03/amsterdam/) da entdeckt haben, ist nicht
+nur sehr lange haltbar (bis zu 14 Tage!), es schmeckt auch noch toll und ist
+gesund. Die Bitterstoffe und Säuren werden bei dieser Art der Kaffeebereitung
+herausgefiltert - das freut den Magen sehr.
 
 ## Cold Brew Kaffee ist lecker
 
@@ -122,8 +121,7 @@ Deutschland hergestellt. Der Koffeingehalt kann leicht schwanken, da es sich um
 ein Naturprodukt handelt. Der enthaltene Kaffee stammt aus Papua Neuguinea.
 
 Willst Du die einzige Kaffeeplantage kennenlernen?
-<a href="https://cardamonchai.com/2017/09/die-einzige-kaffeeplantage-europas/">Dann
-geht es hier entlang</a>.
+[Dann geht es hier entlang](/2017/09/die-einzige-kaffeeplantage-europas/).
 
 [glry name="20190131mounthagencoldbrewkaffee"]
 

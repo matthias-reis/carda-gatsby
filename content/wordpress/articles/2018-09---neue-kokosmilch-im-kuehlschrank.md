@@ -46,10 +46,11 @@ Jetzt wurde das Sortiment erweitert. Ich habe die neuen Kokosmilch-Sorten 
 
 Alle, die keine Kuhmilch trinken, finden ab Oktober eine neue Alternative im
 Bio-Regal. Die neuen Kokosmilchvarianten von Dr. Antonio Martins. Die bisherige
-„<a href="https://www.adcell.de/promotion/click/promoId/118963/slotId/80259?param0=https%3A%2F%2Fvekoop.de%2FCoco-Cocosmilch-pur-zum-Trinken-Bio-330ml-Kokosdrink-vegan" target="_blank" rel="noopener nofollow">Coco
-Milk For Drinking</a>“ , die es bereits in den Bioläden gibt, wird von der neuen
-klassischen Sorte abgelöst. Diese hat mit 63 Prozent einen deutlich höheren
-Kokosanteil, als die Vorgängervariante. Diese hatte lediglich 33 Prozent.
+„
+[Coco Milk For Drinking](https://www.adcell.de/promotion/click/promoId/118963/slotId/80259?param0=https%3A%2F%2Fvekoop.de%2FCoco-Cocosmilch-pur-zum-Trinken-Bio-330ml-Kokosdrink-vegan)
+“ , die es bereits in den Bioläden gibt, wird von der neuen klassischen Sorte
+abgelöst. Diese hat mit 63 Prozent einen deutlich höheren Kokosanteil, als die
+Vorgängervariante. Diese hatte lediglich 33 Prozent.
 
 ## Vegan, bio und ohne Gentechnik
 
@@ -71,11 +72,11 @@ einfach mit der "Coco Milk Matcha" von Dr. Martins tun.
 
 ![Kokosmilch](http://cardamonchai.com/wp-content/uploads/2018/09/P9261591-400x300.jpg)
 
-Über <a href="http://cardamonchai.com/2017/03/tigovit-interview/">grünen Tee</a>
-habe ich hier schon einige Male berichtet. Doch was genau ist eigentlich Matcha?
-Der Name stammt aus dem Japanischen. Er bedeutet nichts anderes als "gemalener
-Tee". Was unterscheidet den Matcha-Tee denn jetzt genau von herkömmlichem
-Grüntee, der nicht gemalen wurde?
+Über [grünen Tee](/2017/03/tigovit-interview/) habe ich hier schon einige Male
+berichtet. Doch was genau ist eigentlich Matcha? Der Name stammt aus dem
+Japanischen. Er bedeutet nichts anderes als "gemalener Tee". Was unterscheidet
+den Matcha-Tee denn jetzt genau von herkömmlichem Grüntee, der nicht gemalen
+wurde?
 
 Vor der Ernte werden die Blätter mit Netzen abgedeckt, die kein Licht
 durchlassen. Durch den so verlängerten Reifeprozess soll die Qualität des
@@ -91,9 +92,9 @@ hergestellt und getrunken. Ich durfte einmal an einer dieser Zeremonien
 teilnehmen und war begeistert von der Harmonie und Ruhe, die damit verbreitet
 wurden. Jedem\*r, der\*die die Möglichkeit bekommt, das mal zu erleben, lege ich
 es definitiv ans Herz, mal mitzumachen. Sie kann definitiv zur
-<a href="http://cardamonchai.com/2014/11/auf-dem-weg-zur-tiefenentspannung/">Entschleunigung</a>
-beitragen. Und die kann in der heutigen Zeit wirklich niemandem schaden. Das
-behaupte ich jetzt einfach mal so.
+[Entschleunigung](/2014/11/auf-dem-weg-zur-tiefenentspannung/) beitragen. Und
+die kann in der heutigen Zeit wirklich niemandem schaden. Das behaupte ich jetzt
+einfach mal so.
 
 ## Kokosmilch vom Sportmediziner
 
@@ -150,8 +151,7 @@ Vielleicht probiert Ihr den ja auch mal.
 ![](https://www.adcell.de/promotion/view/promoId/118963/slotId/80259)
 
 Übrigens habe ich im Sortiment von Dr. Martins auch
-<a href="https://www.adcell.de/promotion/click/promoId/118963/slotId/80259?param0=https%3A%2F%2Fvekoop.de%2FCoco-Kokosmilch-zum-Kochen-Bio-500ml-Kokosnussmilch-vegan" target="_blank" rel="noopener nofollow">Kokosmilch
-zum Kochen</a>.
+[Kokosmilch zum Kochen](https://www.adcell.de/promotion/click/promoId/118963/slotId/80259?param0=https%3A%2F%2Fvekoop.de%2FCoco-Kokosmilch-zum-Kochen-Bio-500ml-Kokosnussmilch-vegan).
 
 ![vekoop](https://www.adcell.de/promotion/image/promoId/118938/slotId/80259)
 
@@ -159,5 +159,5 @@ zum Kochen</a>.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

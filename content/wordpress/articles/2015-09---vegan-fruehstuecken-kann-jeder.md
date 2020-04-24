@@ -34,7 +34,7 @@ subTitle: Der neue vegane Bestseller
 sich nach dem Hit "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und
 Jörg Mayer. Ich habe es mir genau angeschaut.</strong>
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-4-400x267.jpg '<a href="https://amzn.to/2MLMzp8" target="_blank" rel="noopener nofollow"> </a> Blaubeer-Blondies')
+![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-4-400x267.jpg " [](https://amzn.to/2MLMzp8)  Blaubeer-Blondies")
 
 "Das Frühstück ist die wichtigste Mahlzeit des Tages!" – das haben uns unsere
 Erziehungsberechtigten immer wieder eingebläut. Mal mehr, mal weniger haben wir
@@ -49,7 +49,7 @@ bin immer offen für neue Ideen und Rezepte.
 
 ## Die Bestsellerautoren von "Vegan kann jeder" sind wieder da!
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-2-400x600.jpg '<a href="https://amzn.to/2MLMzp8" target="_blank" rel="noopener nofollow"> </a> Amaranth-Cracker')
+![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-2-400x600.jpg " [](https://amzn.to/2MLMzp8)  Amaranth-Cracker")
 
 "Vegan frühstücken kann jeder" von Nadine Horn und Jörg Mayer, den
 Bestsellerautoren von "Vegan kann jeder" ist da genau das Richtige für mich.
@@ -74,7 +74,7 @@ zahlreiche tolle Variationsmöglichkeiten bietet.
 
 ## Und am Wochenende?
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-3-400x267.jpg '<a href="https://amzn.to/2MLMzp8" target="_blank" rel="noopener nofollow"> </a> Green Smoothie Bowl')
+![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-3-400x267.jpg " [](https://amzn.to/2MLMzp8)  Green Smoothie Bowl")
 
 Wer sich am Wochenende gerne mehr Zeit fürs Frühstück nimmt, einen tollen
 Sonntagsbrunch mit Freunden plant oder die Familie mit einem ausgedehnten
@@ -90,29 +90,27 @@ die ständig auf der Suche nach ihnen ist. Die "Vollkorn-Mischbrötchen" und die
 
 ## "Vegan frühstücken kann jeder" zeigt sich zeitgemäß
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-1-400x267.jpg '<a href="https://amzn.to/2MLMzp8" target="_blank" rel="noopener nofollow"> </a> Rohe Käsekuchentörtchen')
+![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-1-400x267.jpg " [](https://amzn.to/2MLMzp8)  Rohe Käsekuchentörtchen")
 
 Eine Komponente, die mir bei Kochbüchern auch immer ziemlich wichtig ist, ist
 das Design. Das Layout von
-"<a href="https://amzn.to/2MLMzp8" target="_blank" rel="noopener nofollow">Vegan
-frühstücken kann jeder</a>" wirkt sehr professionell, nicht überladen sorgt für
-Freude beim Schmökern. Die Fotos sind geschmackvoll und fügen sich perfekt in
-die schnörkellose, moderne Optik ein. Zusätzlich zu den Rezepten bieten die
-Autoren noch Tipps für den perfekten Start in den Tag und peppen das Buch mit
-Wissenwertem über "Beeren &amp; Nüsse", "Getreide &amp; Körner" sowie "Kaffee
-&amp; Tee" auf. Auf Kalorienangaben wurde bei "Vegan frühstücken kann jeder"
-bewusst verzichtet, die Rezepte wurden stattdessen mit Siegeln in den Sparten
-"leicht", "ausgewogen" und "Comfort Food" versehen, was ich persönlich sehr
-sympathisch finde.
+"[Vegan frühstücken kann jeder](https://amzn.to/2MLMzp8)" wirkt sehr
+professionell, nicht überladen sorgt für Freude beim Schmökern. Die Fotos sind
+geschmackvoll und fügen sich perfekt in die schnörkellose, moderne Optik ein.
+Zusätzlich zu den Rezepten bieten die Autoren noch Tipps für den perfekten Start
+in den Tag und peppen das Buch mit Wissenwertem über "Beeren &amp; Nüsse",
+"Getreide &amp; Körner" sowie "Kaffee &amp; Tee" auf. Auf Kalorienangaben wurde
+bei "Vegan frühstücken kann jeder" bewusst verzichtet, die Rezepte wurden
+stattdessen mit Siegeln in den Sparten "leicht", "ausgewogen" und "Comfort Food"
+versehen, was ich persönlich sehr sympathisch finde.
 
 ## Fazit zu "Vegan frühstücken kann jeder"
 
-Alles in allem ist
-"<a href="https://amzn.to/2MLMzp8" target="_blank" rel="noopener nofollow">Vegan
-frühstücken kann jeder</a>" eine gelungene Sammlung schmackhafter
-Frühstücksideen, die nicht nur Vegan-Einsteiger glücklich machen wird. Bei mir
-gibt es heute übrigens noch das "Full English Breakfast" – zum Abendbrot.
+Alles in allem ist "[Vegan frühstücken kann jeder](https://amzn.to/2MLMzp8)"
+eine gelungene Sammlung schmackhafter Frühstücksideen, die nicht nur
+Vegan-Einsteiger glücklich machen wird. Bei mir gibt es heute übrigens noch das
+"Full English Breakfast" – zum Abendbrot.
 
 "Vegan kochen kann jeder" ist beim Neun Zehn Verlag erschienen.
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=394249163X&amp;asins=394249163X&amp;linkId=31c0307441004125afc03f9dd800609e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=394249163X&amp;asins=394249163X&amp;linkId=31c0307441004125afc03f9dd800609e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

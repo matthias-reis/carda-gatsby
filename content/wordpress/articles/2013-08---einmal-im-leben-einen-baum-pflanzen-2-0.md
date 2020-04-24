@@ -47,13 +47,7 @@ dass die Möglichkeit besteht, eine Baumpatenschaft abzuschließen und damit auc
 noch Gutes zu tun! Und dabei muss man noch nicht mal selber gießen. Denn meinem
 grünen Daumen sollte man besser keine Lebewesen anvertrauen.
 
-Kurz und gut. Ich besuchte also die Seite von
-<a title="Greenpeace" href="http://www.greenpeace.de/" target="_blank" rel="noopener">Greenpeace</a>
-und stieß dabei auch sehr schnell auf die Baumpatenschaft. Es stellte sich
-heraus: Es ist ganz leicht, eine solche abzuschließen! Man muss lediglich ein
-PDF mit Namen und Adresse bestücken und per Mail an Greenpeace schicken. Das PDF
-und die E-Mail-Adresse findet Ihr
-<a title="Baumpatenschaft" href="http://www.greenpeace.de/themen/waelder/urwaldschutzgebiete/artikel/baumpatenschaften/" target="_blank" rel="noopener">hier</a>.
+Kurz und gut. Ich besuchte also die Seite von [hier](http://www.greenpeace.de/).
 
 Ich halte das für eine sehr sinnvolle und zugleich schöne Sache. Ihr solltet das
 wirklich auch tun! Denn nicht nur, wenn man gerade frisch vermählt ist, macht

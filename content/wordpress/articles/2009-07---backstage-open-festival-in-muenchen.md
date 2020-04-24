@@ -41,11 +41,7 @@ Band ENNO BUNGER aus Leer in Niedersachsen. Diesen Namen sollte man sich
 unbedingt merken! Mal melancholisch, mal rockig und tanzbar, ENNO BUNGER sind
 für mich mit ihrem Sound die Neuentdeckung des Sommers 2009. Ihr erstes Album
 haben sie für Oktober angekündigt. Wer schonmal reinhören möchte, kann dies auf
-der
-<a title="Ennobunger myspace" href="http://www.myspace.com/ennobunger" target="_blank" rel="noopener">myspace-Seite</a>
-der Band, oder auf der offiziellen
-<a title="Enno Bunger" href="http://www.ennobunger.de/" target="_blank" rel="noopener">Bandseite</a>
-tun.
+der [Bandseite](http://www.myspace.com/ennobunger) tun.
 
 ![Enno Bunger](http://cardamonchai.com/wp-content/uploads/2009/07/9825441026_d0361ee00d_z-640x480.jpg)
 
@@ -63,11 +59,6 @@ Den Abschluß machten zu später Stunde dann SLUT, die vor allem mit Ihrer
 Bühnenshow beeindruckten. Es wurden dazu Bilder auf drei eigens dafür
 installierte Leinwände projeziert.
 
-<em><a title="Anajo" href="http://www.anajo.de/poporchester/inhalt.html" target="_blank" rel="noopener">Homepage</a>
-Anajo</em><em><a title="Slut" href="http://www.slut-music.de/" target="_blank" rel="noopener">Homepage</a>
-Slut</em><em><a title="Tito and Tarantula" href="http://www.titoandtarantula.com/" target="_blank" rel="noopener">Homepage</a>
-Tito &amp;
-Tarantula</em><em><a title="Festivalguide" href="http://www.festivalguide.de/" target="_blank" rel="noopener">Homepage</a>
-Festivalguide</em>
+<em> [Homepage](http://www.anajo.de/poporchester/inhalt.html) Festivalguide</em>
 
 [myflickr tag="annebackstageopen2009"]

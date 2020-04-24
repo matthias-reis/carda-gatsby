@@ -41,9 +41,8 @@ Impressionen aus dem Hafen in Calais - Sonne, Möwen und Kräne
 
 [myflickr tag="calais2012"]
 
-Hier geht's zu
-<a title="Der Kater und der Leuchtturm" href="http://cardamonchai.com/2012/08/der-kater-und-der-leuchtturm/">Teil
-2/9</a> der Galerie "England 2012"
+Hier geht's zu [Teil 2/9](/2012/08/der-kater-und-der-leuchtturm/) der Galerie
+"England 2012"
 
 ## Song zu den Bildern: Gisbert zu Knyphausen - Kräne
 

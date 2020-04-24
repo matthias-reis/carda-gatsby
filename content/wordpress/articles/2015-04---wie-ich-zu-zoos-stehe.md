@@ -120,12 +120,9 @@ lieber gleich die Tore schließen.
 
 Das Ara-Projekt "First Hand Costa Rica" bietet übrigens auch Helferstellen für
 Freiwillige an, falls sich jemand gerne informieren möchte, hier ist der
-<a href="http://www.firsthand-costarica.com/Papageien.114.0.html" name="First Hand Costa Rica">Link</a>.
+[Link](http://www.firsthand-costarica.com/Papageien.114.0.html).
 
 Einen Artikel über die 10 größten Irrtümer, <b>Zoos</b> betreffend findet Ihr
-auf der Seite der
-<a href="http://www.peta.de/Zooirrtuemer#.VSU8LZSsUjk">PETA</a>.
+auf der Seite der [PETA](http://www.peta.de/Zooirrtuemer#.VSU8LZSsUjk).
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

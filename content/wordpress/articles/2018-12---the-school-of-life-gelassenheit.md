@@ -154,16 +154,14 @@ Reihe bis jetzt auch noch die Bücher "Kleine Freuden - Großes Glück",
 Glücks", "Freundlichkeit - Eine vergessene Tugend" und "Sex - Sehnsucht und
 Erfüllung" erschienen.
 
-<strong>"<a href="https://amzn.to/2VbMYR4" target="_blank" rel="noopener nofollow">Gelassenheit -
-Zeit für ein gutes Leben</a>" - Süddeutsche Zeitung Verlag 2018,ISBN
-978-3-86497-444-1</strong>
+<strong> "[Gelassenheit - Zeit für ein gutes Leben](https://amzn.to/2VbMYR4)" -
+Süddeutsche Zeitung Verlag 2018,ISBN 978-3-86497-444-1</strong>
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>, sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst
-lese, desto mehr möchte ich darüber berichten.
+[seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/),
+sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
+mehr möchte ich darüber berichten.
 
 ![gelassenheit | full](http://cardamonchai.com/wp-content/uploads/2018/12/vincent-van-gogh-89422_1280.jpg)
 
@@ -171,5 +169,4 @@ lese, desto mehr möchte ich darüber berichten.
 
 <em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

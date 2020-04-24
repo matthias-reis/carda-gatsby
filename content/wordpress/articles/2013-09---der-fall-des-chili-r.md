@@ -36,9 +36,8 @@ subTitle: Ein aufschlussreiches Gespräch mit einem Tierchirurgen
 
 ![Chili](http://cardamonchai.files.wordpress.com/2013/09/img_2106.jpg?w=300 "Chili")
 
-<a title="Die Rehabilitation eines tapferen Katers" href="/2013/09/26/die-rehabilitation-eines-tapferen-katers/"><em><span style="text-decoration:underline;">Hier
-geht es zu Teil 2 des Artikels</span></em></a><strong>Donnerstag, 26.September
-2013 </strong></p>
+[](/2013/09/26/die-rehabilitation-eines-tapferen-katers/) <strong>Donnerstag,
+26.September 2013 </strong></p>
 
 <strong>20:18 Uhr </strong>Ich habe mal wieder Neuigkeiten für Euch. Als
 allererstes: Wir haben wieder einen kleinen Fortschritt zu verzeichnen. Oskar
@@ -104,5 +103,5 @@ nach einer anderen Stelle umgesehen.
 <em>Nun hoffen wir weiterhin das Beste. Ich halte Euch auf dem Laufenden, meine
 Lieben. Vielen Dank für die seelische Unterstützung! Eure Kommentare, Tweets,
 E-Mails, Postkarten, Anrufe und liebe Worte helfen uns im Moment wirklich sehr!
-<a href="/2013/09/27/morgendlicher-anruf-eines-chirurgen/">Hier geht es zu Teil
-4 des Artikels</a></em>
+[Hier geht es zu Teil 4 des Artikels](/2013/09/27/morgendlicher-anruf-eines-chirurgen/)
+</em>

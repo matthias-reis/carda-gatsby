@@ -39,7 +39,6 @@ ein paar Tagen einige interessante Gesellen begegnet.</strong>
 
 [myflickr tag="annevoegelaufdemeis"]
 
-Fotos von einer ganz besonderen Möwe
-<a href="http://cardamonchai.com/2015/11/die-moewe/">findet Ihr hier</a>.
+Fotos von einer ganz besonderen Möwe [findet Ihr hier](/2015/11/die-moewe/).
 
 &nbsp;

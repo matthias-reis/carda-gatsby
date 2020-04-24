@@ -69,18 +69,17 @@ subTitle: Poet des Widerstands im Alter von 95 Jahren gestorben
 
 <strong>In der Nacht von Dienstag auf Mittwoch ist der Résistance-Kämpfer und
 KZ-Überlebende
-<a title="Stéphan Hessel Wikipedia" href="http://de.wikipedia.org/wiki/St%C3%A9phane_Hessel" target="_blank" rel="noopener">Stéphane
-Frédéric Hessel</a> im Alter von 95 Jahren gestorben. Hessel setzte sich Zeit
-seines Lebens für die Menschenrechte ein. Er ist vor allem als Stimme gegen den
+[Stéphane Frédéric Hessel](http://de.wikipedia.org/wiki/St%C3%A9phane_Hessel) im
+Alter von 95 Jahren gestorben. Hessel setzte sich Zeit seines Lebens für die
+Menschenrechte ein. Er ist vor allem als Stimme gegen den
 Finanzmarkt-Kapitalismus bekannt geworden.</strong>
 
 Weltberühmt wurde der Antifaschist durch sein 2010 veröffentlichtes, zorniges
-und zugleich charmantes Essay
-<a title="Empört Euch!" href="http://de.wikipedia.org/wiki/Emp%C3%B6rt_Euch!" target="_blank" rel="noopener">"<span style="text-decoration: underline;">Empört
-Euch!"</span></a> (französischer Originaltitel Indignez-vous!), das schnell zum
-Bestseller wurde. In seinem Werk geht er gekonnt auf die negative Entwicklung
-der politischen Gegenwartsentwicklung ein und ruft damit zum politischen
-Widerstand, gewaltloser Revolte und zivilem Ungehorsam auf.
+und zugleich charmantes Essay [](http://de.wikipedia.org/wiki/Emp%C3%B6rt_Euch!)
+(französischer Originaltitel Indignez-vous!), das schnell zum Bestseller wurde.
+In seinem Werk geht er gekonnt auf die negative Entwicklung der politischen
+Gegenwartsentwicklung ein und ruft damit zum politischen Widerstand, gewaltloser
+Revolte und zivilem Ungehorsam auf.
 
 Er kritisiert darin im Besonderen die Finanzkrise und die damit einhergehenden
 verheerenden Auswirkungen auf die Menschheit. Das <strong>Essay</strong> hatte
@@ -109,9 +108,9 @@ Zug.
 
 In seinem Leben begegnete Stéphane Frédéric Hessel immer wieder interessanten
 und einflussreichen Menschen. Unter anderen durfte er Picasso, Max Ernst, Walter
-Benjamin und
-<span style="text-decoration: underline;"><a title="Charles de Gaulle Wikipedia" href="http://de.wikipedia.org/wiki/Charles_de_Gaulle" target="_blank" rel="noopener">Charles
-de Gaulle</a></span> zu seinen Bekannten zählen.
+Benjamin und <span style="text-decoration: underline;">
+[Charles de Gaulle](http://de.wikipedia.org/wiki/Charles_de_Gaulle) </span> zu
+seinen Bekannten zählen.
 
 Letzteren lernte er durch sein Engagement in der Résistance kennen. Gemeinsam
 spielten sie eine nicht unerhebliche Rolle in der deutsch-französischen
@@ -121,9 +120,9 @@ Ausarbeitung der UN-Menschenrechtscharta beteiligt. Stets mit einem Lächeln
 "bewaffnet" kämpfte er unermüdlich gegen die Ungleichverteilung des Reichtums.
 Bis kurz vor seinem Tod war er politisch immer sehr engagiert. Noch 2012
 unterstützte er
-<a title="Francois Hollande Wikipedia" href="http://de.wikipedia.org/wiki/Fran%C3%A7ois_Hollande" target="_blank" rel="noopener">François
-Hollande</a> bei seinem Wahlkampf. Dieser würdigte ihn gestern als Humanisten,
-engagierten Europäer und brillanten Diplomaten.
+[François Hollande](http://de.wikipedia.org/wiki/Fran%C3%A7ois_Hollande) bei
+seinem Wahlkampf. Dieser würdigte ihn gestern als Humanisten, engagierten
+Europäer und brillanten Diplomaten.
 
 Stéphane Hessel zeigte den Menschen, dass keine Ungerechtigkeit einfach
 hingenommen werden darf. Ein wichtiger Wegweiser in diesen Zeiten.

@@ -37,13 +37,12 @@ thumbnailId: "3000"
 subTitle: Die Festivalsaison rückt wieder näher
 ---
 
-<a class="banner banner-green" href="http://cardamonchai.com/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf" target="_blank" rel="noopener"><span class="head">Die
-ultimative Festivalliste</span><span class="text">Jetzt runterladen und
-ausdrucken</span></a><strong>Auf vielfache Anfrage hin, habe ich mich
-entschlossen, auch in diesem Jahr wieder meine allseits beliebte Festivalliste
-zu veröffentlichen. Sie wurde natürlich wieder durch Dinge, die sich als
-praktisch erweisen konnten ergänzt, dafür wurde Unnötiges gestrichen, um das
-Rucksackgewicht so gering wie möglich zu halten. </strong>
+[](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf) <strong>Auf
+vielfache Anfrage hin, habe ich mich entschlossen, auch in diesem Jahr wieder
+meine allseits beliebte Festivalliste zu veröffentlichen. Sie wurde natürlich
+wieder durch Dinge, die sich als praktisch erweisen konnten ergänzt, dafür wurde
+Unnötiges gestrichen, um das Rucksackgewicht so gering wie möglich zu halten.
+</strong>
 
 Natürlich wurden Gegenstände, wie Bierfässer und Tische auch bei dieser neuen,
 überarbeiteten Version der Liste wieder weggelassen, wer jedoch mit dem Bully,
@@ -137,12 +136,11 @@ dem Schlaf gerissen wurden.
 Natürlich würde mich jetzt noch interessieren, auf welchen Festivals Ihr dieses
 Jahr so unterwegs sein werdet!<em><strong></strong></em>
 
-![Foto: cardamonchai Southside-Festival 2008 | full](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg '<a href="http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg"> </a> Foto: cardamonchai Southside-Festival 2008')
+![Foto: cardamonchai Southside-Festival 2008 | full](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg " [](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg)  Foto: cardamonchai Southside-Festival 2008")
 
 Hier noch ein interessanter Link, es geht um verschiedene "Festivaltypen":
 
-<a href="http://www.funnyordie.com/lists/164f45b13b/7-types-of-people-at-coachella">7
-types of people at coachella</a>
+[7 types of people at coachella](http://www.funnyordie.com/lists/164f45b13b/7-types-of-people-at-coachella)
 
 Und nun wünsche ich Euch viel Spaß mit
 

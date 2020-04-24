@@ -37,7 +37,7 @@ thumbnailId: "8725"
 subTitle: Das neue DIE STERNE Album ist endlich da</strong>
 ---
 
-!["Flucht in die Flucht" - die neue DIE STERNE LP ist da](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-5.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> "Flucht in die Flucht" - die neue DIE STERNE LP')
+!["Flucht in die Flucht" - die neue DIE STERNE LP ist da](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-5.jpg?w=300 ' [](https://www.flickr.com/photos/99929697@N07/)  "Flucht in die Flucht" - die neue DIE STERNE LP')
 
 <blockquote><small>"...wovon du erzählt hast, wollten sie die Wahrheit rauben und dich einsperren, in ihren Kaktusgarten, konnten sie damit nicht warten..."
 <em>DIE STERNE ("Was hat dich bloss so ruiniert", Lied 8 auf der LP "Posen" von 1996)</em></small></blockquote><strong>Als ich das erste Mal die Sterne hörte, war ich 14 Jahre alt. Das ist jetzt 18 Jahre her. Ich habe die Platte damals für 18 Mark beim Plattenhändler meines Vertrauens erstanden. </strong>
@@ -48,7 +48,7 @@ und las die Texte mit, während mein Cousin sich im Fernsehen Western ansah. Am
 Ende des Abends konnte ich alle Texte auswendig und aus mir war ein glühender
 Fan der Band geworden.
 
-!["Posen" - Meine erste Begegnung mit den STERNEN](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-41.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> "Posen" - Meine erste Begegnung mit den STERNEN')
+!["Posen" - Meine erste Begegnung mit den STERNEN](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-41.jpg?w=300 ' [](https://www.flickr.com/photos/99929697@N07/)  "Posen" - Meine erste Begegnung mit den STERNEN')
 
 Seit diesem denkwürdigen Abend im Jahr 1996 kamen und gingen die Bands und die
 Musikrichtungen. DIE STERNE sind mir immer treu geblieben. Ich habe seitdem alle
@@ -59,7 +59,7 @@ STERNE, an der Facebook-Pinnwand der Band bekannt, dass das neue Album "Flucht
 in die Flucht" ab sofort vorbestellbar sei. Ich stürmte selbstverständlich
 sofort den Onlineshop,um mir mein Exemplar zu sichern.
 
-!["Flucht in die Flucht" - Die CD](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-11.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> "Flucht in die Flucht" - Die CD')
+!["Flucht in die Flucht" - Die CD](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-11.jpg?w=300 ' [](https://www.flickr.com/photos/99929697@N07/)  "Flucht in die Flucht" - Die CD')
 
 Zum 18-jährigen Fanjubiläum musste es natürlich etwas ganz Besonderes sein. Die
 Deluxe-Edition mit CD, LP, 7", Poster und KASSETTE! Ja, ihr habt richtig
@@ -76,7 +76,7 @@ anderes, als Kassetten.
 noch die interessanten" (1997), "Wo ist hier" (1999), "Irres Licht" (2002), "Das
 Weltall ist zu weit" (2004), "Räuber und Gedärm" (2006) und "24/7" (2010).
 
-!["Flucht in die Flucht" - Die LP](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-6.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> "Flucht in die Flucht" - Die LP')
+!["Flucht in die Flucht" - Die LP](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-6.jpg?w=300 ' [](https://www.flickr.com/photos/99929697@N07/)  "Flucht in die Flucht" - Die LP')
 
 DIE STERNE haben außerdem noch 4 EPs ("Fickt das System", "Nur Flug", "Der Riss"
 und "Der Riss" in der Dubversion), jede Menge Singles, vier 7"-Singles, drei
@@ -88,7 +88,7 @@ anders, die Handschrift der STERNE jedoch auf jedem immer klar erkennbar.
 Gleichzeitig leicht, ungezwungen und wunderbar kantig, die Texte inspirierend
 und vom ersten Hören an vertraut.
 
-!["Hat auch nicht geholfen"](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-7.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> "Hat auch nicht geholfen"')
+!["Hat auch nicht geholfen"](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-7.jpg?w=300 ' [](https://www.flickr.com/photos/99929697@N07/)  "Hat auch nicht geholfen"')
 
 "Vertraut" - Genau so fühlt sich auch das neue Album an. Und das liegt nicht
 daran, dass DIE STERNE, wie auch schon auf früheren Veröffentlichungen, immer
@@ -100,7 +100,7 @@ Die gewohnten Orgelklänge sind etwas weniger schwurbelig als z. B. auf "Irres
 Licht", jedoch auch auf "Flucht in die Flucht" ein klares Markenzeichen der Band
 und nicht wegzudenken.
 
-![Das Demo-Tape](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-21.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Das Demo-Tape')
+![Das Demo-Tape](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-21.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Das Demo-Tape")
 
 Alles in allem kommt die neue Platte wieder etwas punkiger daher, was den immer
 jünger werdenden (ich muss das jetzt schreiben, ich werde es schließlich auch
@@ -114,7 +114,7 @@ einer Platte zu beginnen, inzwischen bin ich beim zweiten Durchgang angekommen
 und ich muss zugeben, dass es mir ähnlich geht, wie damals, als ich auf dem
 Flokati den Klängen von "Posen" lauschte.
 
-![Das Demo-Tape](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-31.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Das Demo-Tape')
+![Das Demo-Tape](http://cardamonchai.files.wordpress.com/2014/09/heidelbeerliebe-31.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Das Demo-Tape")
 
 Die Musik zieht mich in ihren Bann, ich lausche Franks Sprechgesang, erkenne
 mich in seinen Texten wieder und lasse alles auf mich wirken. Musik wird zu
@@ -126,7 +126,7 @@ Ich möchte es nicht als Nostalgie bezeichnen, denn das ist es nicht. Nostalgie,
 das klingt nach Staub. Und wenn es eines gibt, was die neue DIE STERNE Platte
 auf keinen Fall ist, dann ist es staubig.
 
-![Auf meinem Plattenteller - "Flucht in die Flucht"](http://cardamonchai.files.wordpress.com/2014/09/auf-meinem-plattenteller-1.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Auf meinem Plattenteller - "Flucht in die Flucht"')
+![Auf meinem Plattenteller - "Flucht in die Flucht"](http://cardamonchai.files.wordpress.com/2014/09/auf-meinem-plattenteller-1.jpg?w=300 ' [](https://www.flickr.com/photos/99929697@N07/)  Auf meinem Plattenteller - "Flucht in die Flucht"')
 
 Sie kommt verspielt daher, mal laut, mal leise, bunt blinkend und manchmal etwas
 nachdenklich. Höhepunkte sind für mich ganz klar "Ihr wollt mich töten", das
@@ -140,7 +140,7 @@ Booklet in der Hand. Wieder am Schreibtisch angelangt, wird der Gedanke, Euch
 zu lassen und weiter in der Musik zu schwelgen, immer lauter. Und genau das
 werde ich jetzt tun:
 
-![Auf meinem Plattenteller - "Hat auch nicht geholfen"](http://cardamonchai.files.wordpress.com/2014/09/auf-meinem-plattenteller-2.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Auf meinem Plattenteller - "Hat auch nicht geholfen"')
+![Auf meinem Plattenteller - "Hat auch nicht geholfen"](http://cardamonchai.files.wordpress.com/2014/09/auf-meinem-plattenteller-2.jpg?w=300 ' [](https://www.flickr.com/photos/99929697@N07/)  Auf meinem Plattenteller - "Hat auch nicht geholfen"')
 
 Hört Euch dieses Album an. Hört es Euch richtig an. Nehmt Euch ein Bisschen
 Zeit. Setzt Euch mit Kopfhörern auf den Teppich, lest die Texte mit und freut
@@ -160,20 +160,18 @@ von 1996)</em></small>## Nachtrag um 22:30
 Was für eine Ehre! Seht mal, wer meinen Artikel soeben geteilt hat, ich freue
 mich gerade wie verrückt!
 
-<a href="https://www.facebook.com/permalink.php?story_fbid=10152818035854384&amp;id=232784169383">Beitrag</a>
-von <a href="https://www.facebook.com/pages/Die-Sterne/232784169383">Die
-Sterne</a>.
+[Die Sterne](https://www.facebook.com/permalink.php?story_fbid=10152818035854384&id=232784169383).
 
 <div id="fb-root">
 
-![Posting auf der Seite der STERNE | full](https://cardamonchai.files.wordpress.com/2014/09/bildschirmfoto-2014-09-02-um-22-27-36.png '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Posting auf der Seite der STERNE')
+![Posting auf der Seite der STERNE | full](https://cardamonchai.files.wordpress.com/2014/09/bildschirmfoto-2014-09-02-um-22-27-36.png " [](https://www.flickr.com/photos/99929697@N07/)  Posting auf der Seite der STERNE")
 
 </div><div class="fb-post"><div class="fb-xfbml-parse-ignore"></div><div class="fb-xfbml-parse-ignore">
 
 Und auf
-<a title="Rezension Anne Reis Flucht in die Flucht" href="http://www.fastweltweit.de/post/96476659763/flucht-in-die-flucht" target="_blank" rel="noopener">fastweltweit.de</a>
+[fastweltweit.de](http://www.fastweltweit.de/post/96476659763/flucht-in-die-flucht)
 wurde er auch verlinkt!
 
-![Verlinkt auf fastweltweit | large](https://cardamonchai.files.wordpress.com/2014/09/bildschirmfoto-2014-09-02-um-22-54-51.png?w=646 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Verlinkt auf fastweltweit')
+![Verlinkt auf fastweltweit | large](https://cardamonchai.files.wordpress.com/2014/09/bildschirmfoto-2014-09-02-um-22-54-51.png?w=646 " [](https://www.flickr.com/photos/99929697@N07/)  Verlinkt auf fastweltweit")
 
 </div></div>

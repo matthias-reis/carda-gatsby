@@ -50,13 +50,9 @@ schließlich könnte es Euch ja genauso interessieren.
 
 ## An meine Haut lasse ich nur vegane Kosmetik
 
-<a href="https://cardamonchai.com/category/vegan-2/vegan-beauty/">Vegane
-Kosmetik</a> wird immer beliebter. Längst kann man sich nicht mehr nur über das
-Internet (z. B.
-<a href="https://www.shop-apotheke.com/vegane-kosmetik/" target="_blank" rel="noopener">hier</a> bei
-der Shop Apotheke) damit eindecken. Man findet sie im Drogeriemarkt, in der
-Apotheke nebenan und sogar im Supermarkt. Überall sind plötzlich Veganlogos und
-Veganblumen zu sehen.
+[hier](/category/vegan-2/vegan-beauty/)  bei der Shop Apotheke) damit eindecken.
+Man findet sie im Drogeriemarkt, in der Apotheke nebenan und sogar im
+Supermarkt. Überall sind plötzlich Veganlogos und Veganblumen zu sehen.
 
 ![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14598683580_0f1b452d5a_z-400x300.jpg)
 
@@ -67,16 +63,10 @@ oder Wollwachs zum Einsatz.
 
 Bei "Cera Flava" (Bienenwachs) handelt es sich um die Ausscheidung der
 Honigbienen. Von den
-<a href="http://cardamonchai.com/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/" target="_blank" rel="noopener">Bienen</a>
-wird es zur Produktion der Waben genutzt. Kosmetikhersteller geben es zum
-Beispiel gerne in Coldcreams oder andere reichhaltige Pflegeprodukte. Echtes
-"Karmin" wird aus weiblichen Schildläusen gewonnen, es gibt eine starke rote
-Farbe ab und wird daher gerne zu Färben (Rheumabäder, Mundspülung) verwendet.
-"Keratin" wird aus Horn, Hufen,
-<a href="http://cardamonchai.com/2016/05/pangolin-ein-vergessenes-schuppentier/" target="_blank" rel="noopener">Schuppen</a>,
-Federn und Hörnern gewonnen. Es wird für Haarpflegeprodukte verwendet.
-"Lanolin", auch Wollwachs genannt, stammt aus den Talgdrüsen von Schafen und
-wird für Salben, Cremes und Lotionen verwendet.
+[Schuppen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/), Federn
+und Hörnern gewonnen. Es wird für Haarpflegeprodukte verwendet. "Lanolin", auch
+Wollwachs genannt, stammt aus den Talgdrüsen von Schafen und wird für Salben,
+Cremes und Lotionen verwendet.
 
 Neben der Naturkosmetik gibt es auch noch Biokosmetik. Ferner vegane
 Naturkosmetik, vegane Biokosmetik, vegane herkömmliche Kosmetik und naturnahe
@@ -197,9 +187,8 @@ auseinandergesetzt hat. Das ist einer der Gründe, warum ich ehrlichen, veganen
 Beautyprodukten in meinem Blog ein Forum biete.
 
 Wer ein paar davon kennenlernen möchte, ist herzlich dazu eingeladen,
-<a href="https://cardamonchai.com/category/vegan-2/vegan-beauty/">in meiner
-Rubrik Vegan Beauty weiterzulesen</a>.
+[in meiner Rubrik Vegan Beauty weiterzulesen](/category/vegan-2/vegan-beauty/).
 
 Foto "Blumen in Reagenzgläsern":
-<a href="https://pixabay.com/de/users/rawpixel-4283981/" target="_blank" rel="noopener">Rawpixel</a>,
-Pixabay, Foto Reagenzgläser: CC, Pixabay, alle anderen Fotos: ich!
+[Rawpixel](https://pixabay.com/de/users/rawpixel-4283981/), Pixabay, Foto
+Reagenzgläser: CC, Pixabay, alle anderen Fotos: ich!

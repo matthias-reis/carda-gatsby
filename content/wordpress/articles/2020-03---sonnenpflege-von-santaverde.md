@@ -52,19 +52,18 @@ Lichtschutzfaktor auf.
 ## Endlich Sonnenpflege von Santaverde
 
 Bis jetzt war ich immer ein bisschen traurig, dass es so etwas von
-<a href="https://cardamonchai.com/?s=santaverde">meiner Lieblingsmarke
-Santaverde</a> noch nicht gibt. Doch vor ein paar Wochen war tatsächlich so
-weit: Santaverde verkündete den Launch der neuen Sonnenpflegelinie. Bislang
-konnte ich sie nur zu Hause testen und war noch nicht wirklich damit in der
-Sonne, aber wo Sonnenschutzfaktor drauf steht, ist auch Sonnenschutzfaktor drin.
-Die wunderbar sonnigen Fotos habe ich auf unserem Balkon gemacht.
+[meiner Lieblingsmarke Santaverde](/?s=santaverde) noch nicht gibt. Doch vor ein
+paar Wochen war tatsächlich so weit: Santaverde verkündete den Launch der neuen
+Sonnenpflegelinie. Bislang konnte ich sie nur zu Hause testen und war noch nicht
+wirklich damit in der Sonne, aber wo Sonnenschutzfaktor drauf steht, ist auch
+Sonnenschutzfaktor drin. Die wunderbar sonnigen Fotos habe ich auf unserem
+Balkon gemacht.
 
 Eins kann ich auf jeden Fall sagen: Ich mag die Produkte und werde sie auf jeden
-Fall fest in meine
-<a href="http://cardamonchai.com/2018/07/make-up-fasten/">sommerliche
-Pflegeroutine</a> aufnehmen. Getestet habe ich alle drei Produkte: Die Sun
-Protect Cream für das Gesicht mit Lichtschutzfaktor 20, Die Sun Protect Lotion
-mit Lichtschutzfaktor 15 und Die After Sun Recovery Lotion.
+Fall fest in meine [sommerliche Pflegeroutine](/2018/07/make-up-fasten/)
+aufnehmen. Getestet habe ich alle drei Produkte: Die Sun Protect Cream für das
+Gesicht mit Lichtschutzfaktor 20, Die Sun Protect Lotion mit Lichtschutzfaktor
+15 und Die After Sun Recovery Lotion.
 
 Die Sun Protect Lotion und die Sun Protect Cream enthalten reinen Aloe Vera
 Saft, Ectoin und Karottenextrakt. Die Creme wurde außerdem zusätzlich mit
@@ -131,18 +130,17 @@ Natriumlevulinat. ⋆Aus kontrolliert biologischem Anbau</small>
 Genau wie alle Produkte von Santaverde ist auch die Sonnenschutzlinie
 NATRUE-zertifiziert, trägt das Tierschutzsiegel gegen Tierversuche Leaping
 Bunny. Außerdem ist es nach den Richtlinien der Vegan Society zertifziert.
-Kaufen könnt Ihr die Produkte
-im <a href="https://www.santaverde.de/produkte/produktlinien/sun-protect/" target="_blank" rel="noopener nofollow">Santaverde
-Onlineshop</a> oder in verschiedenen Bioläden, Apotheken und Reformhäusern.
+Kaufen könnt Ihr die Produkte im 
+[Santaverde Onlineshop](https://www.santaverde.de/produkte/produktlinien/sun-protect/)
+oder in verschiedenen Bioläden, Apotheken und Reformhäusern.
 
 Die Pflanzen für die Naturkosmetik von Santaverde wachsen auf der Finca Verde.
 Wenn Ihr mehr darüber erfahren möchtet,
-<a href="http://cardamonchai.com/2019/07/santaverde-finca-aloe-vera/">lest gerne
-meinen Bericht</a>, ich habe sie letzten Sommer besucht.
+[lest gerne meinen Bericht](/2019/07/santaverde-finca-aloe-vera/), ich habe sie
+letzten Sommer besucht.
 
 [glry name="santaverdesunglry2"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

@@ -77,6 +77,7 @@ Bayern und angrenzenden Gebieten. Er bezeichnet den abgegrenzten Bezirk einer
 Grundherrschaft, Rechtsgrundlage hierfür war die "Ottonische Handfeste" vom 5.
 Juni 1311, in der die niederbayerischen Stände dem Herzog Otto III. eine
 einmalige Steuer bewilligten, dafür aber die niedere Gerechtigkeit für ihre
-Besitzungen erhielten.</em><strong>
-Quellen:</strong><a href="http://www.wikipedia.de/" rel="nofollow">http://www.wikipedia.de</a><a href="http://www.sandizell-com.de/" rel="nofollow">http://www.sandizell-com.de/</a><span style="text-decoration: underline;">[glry
-name="annesandizell2009"] </span>
+Besitzungen erhielten.</em><strong> Quellen:</strong>
+[http://www.sandizell-com.de/](http://www.wikipedia.de/)
+<span style="text-decoration: underline;">[glry name="annesandizell2009"]
+</span>

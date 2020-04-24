@@ -95,9 +95,9 @@ Dein Tag war furchtbar. Dein Chef hatte schlechte Laune, Dein Freund geht nicht
 ans Telefon, der Wasserhahn tropft und zu allem Überfluss hast Du auch noch
 Bauchweh. Tu mir einen Gefallen: Verzweifel jetzt nicht. Atme tief durch,
 schnapp Dir Deine Kollegin, ruf Deine Cousine an oder lade Deine Nachbarin
-<a href="http://cardamonchai.com/2017/02/latte-macchiato-muttis/">auf eine Tasse
-Tee</a> ein und schütte Dein Herz aus. Sobald alles raus ist, was Dich bedrückt,
-wird es Dir zumindest ein kleines bisschen besser gehen. Versprochen!</li> <li>
+[auf eine Tasse Tee](/2017/02/latte-macchiato-muttis/) ein und schütte Dein Herz
+aus. Sobald alles raus ist, was Dich bedrückt, wird es Dir zumindest ein kleines
+bisschen besser gehen. Versprochen!</li> <li>
 
 ## Wenn Dich alles ankotzt: Hör Musik!
 
@@ -110,8 +110,7 @@ Klassik, Post-Rock, Trip Hop, Grunge, Black Metal, Prog, Techno oder Soul - ganz
 egal. Sing mit, wenn es Dir gut tut. Falls nötig, bis der Hund heult und die
 Nachbarn klopfen. Es geht schließlich um etwas ganz besonders Wichtiges: Dein
 Wohlbefinden! Falls es bei Dir gerade mal wieder soweit sein sollte:
-<a href="http://cardamonchai.com/2019/03/10-songs-fuer-den-april/">Hier ist eine
-Playlist</a>.</li> <li>
+[Hier ist eine Playlist](/2019/03/10-songs-fuer-den-april/). </li> <li>
 
 ## Betrachte die Situation mal aus einer anderen Perspektive
 

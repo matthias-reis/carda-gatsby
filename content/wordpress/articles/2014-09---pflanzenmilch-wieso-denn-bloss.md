@@ -43,7 +43,7 @@ thumbnailId: "8836"
 subTitle: 10 Fakten über Veganismus - Teil V
 ---
 
-## Von besamten Kühen und einsamen Kälbchen<strong><span style="text-decoration: underline;"><em><a title="Teil 4" href="http://cardamonchai.com/2014/08/vitamin-b12-mythos-und-wahrheit/">Hier gehts zu Teil 4 des Artikels</a></em></span>
+## Von besamten Kühen und einsamen Kälbchen<strong><span style="text-decoration: underline;"><em> [Hier gehts zu Teil 4 des Artikels](/2014/08/vitamin-b12-mythos-und-wahrheit/) </em></span>
 
 Veganer\*innen essen nicht nur kein Fleisch und keine Eier, verzichten auf
 Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Aber
@@ -167,10 +167,10 @@ spätestens nach 4 - 6 Jahren, zur <strong>Schlachtbank</strong> geführt.
 
 Rund 10 Prozent dieser "ausgemusterten" Kühe sind trächtig, einen detaillierten
 Artikel zu diesem Thema aus meiner Feder findet Ihr hier:
-<a title="Das Leid der Kühe und ihrer Kälbchen Anne Vegan News" href="http://cardamonchai.com/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/" target="_blank" rel="noopener">"Das
-Leid der Kühe und ihrer Kälbchen"</a>. Nach dem leidvollen Transport zum
-Schlachthof werden die Kühe dort vor der Schlachtung mit dem Bolzenschussgerät
-betäubt, im Anschluss werden sie getötet, indem man ihnen die Kehle durchtrennt.
+["Das Leid der Kühe und ihrer Kälbchen"](/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/).
+Nach dem leidvollen Transport zum Schlachthof werden die Kühe dort vor der
+Schlachtung mit dem Bolzenschussgerät betäubt, im Anschluss werden sie getötet,
+indem man ihnen die Kehle durchtrennt.
 
 Das Kälbchen erstickt währenddessen in einem langandauernden, quälenden Prozess
 voller schmerzhafter Abwehrreaktionen im Mutterleib, denn die Betäubung mit dem
@@ -181,9 +181,9 @@ Bolzenschussgerät hat nur auf die Mutter eine Wirkung.
 Darüber, dass die Betäubung bei rund vier bis neun Prozent der Rinder mangelhaft
 ist (dies bestätigte eine Umfrage der Grünen), oder sogar gänzlich fehlt,
 berichtete ich vor kurzem in meinem Artikel
-<a title="Blutige Zahlen" href="//2014/08/22/blutige-zahlen/">"Blutige
-Zahlen"</a> hier im Blog. Welche grausamen Auswirkungen dies wiederum auf die
-Mutter und ihr ungeborenes Kind hat, kann sich wohl kein Mensch ausmalen.
+["Blutige Zahlen"](//2014/08/22/blutige-zahlen/) hier im Blog. Welche grausamen
+Auswirkungen dies wiederum auf die Mutter und ihr ungeborenes Kind hat, kann
+sich wohl kein Mensch ausmalen.
 
 Nein, es ist nicht natürlich, dass Menschen die Muttermilch anderer Lebewesen
 trinken. Wir haben uns weiterentwickelt. Die <strong>Evolution</strong> hat
@@ -296,9 +296,8 @@ Produkte, die aus Soja hergestellt werden sind zum Beispiel
 werden für Lebensmittel verwendet. Hierzulande verkaufte Sojaprodukte (somit
 auch Tofu und Milch), stammen aus Deutschland und Österreich. Mehr zum Thema
 findet Ihr in meinem Artikel
-"<a title="Soja Klimaschutz Fussabdruck" href="//2014/07/30/10-fakten-uber-vegane-ernahrung/">Soja,
-Klimaschutz und ökologischer Fussabdruck</a>". Für die "Produktion" eines
-Rindersteaks werden 4.000 Liter Wasser benötigt.
+"[Soja, Klimaschutz und ökologischer Fussabdruck](//2014/07/30/10-fakten-uber-vegane-ernahrung/)"
+. Für die "Produktion" eines Rindersteaks werden 4.000 Liter Wasser benötigt.
 
 ## Was schmeckt besser im Kaffee?
 
@@ -336,11 +335,11 @@ siehe unten unter dem Punkt "Links").
 
 Die Länder mit dem höchsten Milchkonsum weisen die höchsten Osteoporose-Raten
 auf, eine
-<a title="Harvard Studies Milch Calzium" href="http://www.hsph.harvard.edu/nutritionsource/calcium-full-story/" target="_blank" rel="noopener">Studie
-der Harvard University</a> meldet Zweifel an der Wirkung des Milchkalziums an.
-Getestet wurden 75.000 Frauen über einen Zeitraum von zwölf Jahren hinsichtlich
-des Effektes der Milch auf die Knochen. Die Knochen wurden nicht
-widerstandsfähiger, sondern wiesen sogar ein erhöhtes Bruchrisiko auf.
+[Studie der Harvard University](http://www.hsph.harvard.edu/nutritionsource/calcium-full-story/)
+meldet Zweifel an der Wirkung des Milchkalziums an. Getestet wurden 75.000
+Frauen über einen Zeitraum von zwölf Jahren hinsichtlich des Effektes der Milch
+auf die Knochen. Die Knochen wurden nicht widerstandsfähiger, sondern wiesen
+sogar ein erhöhtes Bruchrisiko auf.
 
 Dies erklärt sich durch die Übersäuerung des Körpers, der durch häufigen
 Milchkonsum ausgelöst wird. Der Körper entzieht zur Neutralisierung den Knochen
@@ -392,27 +391,5 @@ sie zwei (!) Wochen alt sind, dürfen sie nicht transportiert werden.
 [gallery size="tall" link="none" type="rectangular"
 ids="8811,8812,8813,8814,8815,8816,8817,8818,8819"]
 
-<a title="Teil 6" href="/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/"><em><strong>Hier
-gehts zu Teil 6 des Artikels</strong></em></a>## Links und
-Quellen<ol><li><a href="http://cardamonchai.com/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/">"Das
-Leid der Kühe und ihrer
-Kälbchen"</a></li><li><a title="Blutige Zahlen" href="//2014/08/22/blutige-zahlen/">
-"Blutige
-Zahlen"</a></li><li><a title="Weltwassertag" href="http://www.peta.de/weltwassertag#.VA6nT0vY9v0" target="_blank" rel="noopener">"Weltwassertag"</a>
-Peta</li><li><a title="One Green Planet" href="http://www.onegreenplanet.org" target="_blank" rel="noopener">One
-Green
-Planet</a></li><li><a title="MS Studies" href="http://www.ncbi.nlm.nih.gov/pubmed/1291895" target="_blank" rel="noopener">Milchkonsum
-und Multiple Sklerose
-Studie</a></li><li><a title="Autism Schizophrenia Studies" href="http://www.ncbi.nlm.nih.gov/pubmed/17666771" target="_blank" rel="noopener">Autismus
-und Schizophrenie
-Studie</a></li><li><a title="milk diabetes" href="http://ajcn.nutrition.org/content/71/6/1525.full" target="_blank" rel="noopener">Milchkonsum
-und Diabetes
-Studie</a><a title="milk diabetes studies" href="http://ajcn.nutrition.org/content/71/6/1525.full" target="_blank" rel="noopener"></a></li><li><a title="milk osteoporose" href="http://jn.nutrition.org/content/116/11/2316.full.pdf" target="_blank" rel="noopener">Harvard-Studie
-zum Zusammenhang von Milchkonsum und
-Osteoporose</a></li><li><a title="Lactose intolerance" href="http://en.wikipedia.org/wiki/Lactose_intolerance" target="_blank" rel="noopener">Lactose
-intolerance</a></li><li><a title="Biowahrheit" href="http://www.biowahrheit.de" target="_blank" rel="noopener">Die
-Biowahrheit</a></li><li>\*<a title="Ökologische Haltungssysteme" href="http://www.boelw.de/fileadmin/alf/biofrage_11.pdf" target="_blank" rel="noopener">Ökologische
-Haltungssysteme</a></li></ol><strong>Bilder:</strong> Monika München, Denise
-Hof-Slapansky von Augsburg is(s)t vegan,
-<a title="Die Biowahrheit" href="http://www.biowahrheit.de" target="_blank" rel="noopener">biowahrheit.de</a>
-und anonym - Danke an alle Fotografen/innen!
+[biowahrheit.de](/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) und
+anonym - Danke an alle Fotografen/innen!

@@ -54,6 +54,6 @@ sogar vor die Linse gelaufen.
 [myflickr tag="annetimmendorferstrand2015"]
 
 Ihr interessiert Euch auch für Fotos von der Nordsee?
-<a href="/2015/08/st-peter-ording/">Hier geht's nach St. Peter-Ording</a>.
+[Hier geht's nach St. Peter-Ording](/2015/08/st-peter-ording/).
 
-## Wegweiser Möwen<ol><li><a href="/2010/01/moewen-am-bosporus/">Möwen am Bosporus (Januar 2010)</a></li><li><a href="/2015/07/zurueck-nach-st-peter-ording/">Zurück nach St. Peter-Ording (Juli 2015)</a></li><li><a href="/2015/08/st-peter-ording/">St. Peter-Ording - Perle an der Nordsee (August 2015)</a></li><li>Birdwatching am Timmendorfer Strand (November 2015)</li><li><a href="http://cardamonchai.com/2015/11/die-moewe/">Die Möwe, Kiel (November 2015)</a></li><li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der Brücke (Januar 2016)</a></li><li><a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)</a></li><li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)</a></li><li><a href="http://cardamonchai.com/2017/10/moewen-in-dublin/">Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)</a></li><li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li><li><a href="http://cardamonchai.com/2018/05/birds-of-westport/">Birds of Westport</a></li></ol>
+## Wegweiser Möwen<ol><li> [Birds of Westport](/2010/01/moewen-am-bosporus/) </li></ol>

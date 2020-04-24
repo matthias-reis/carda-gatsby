@@ -40,9 +40,9 @@ eine gute Handcreme. Ich habe jetzt die von Santaverde ausprobiert.</strong>
 Die intensive Aufbaupflege kommt mit Aloe Vera Saft und reichhaltigen Ölen
 daher. Beim ersten Auftragen habe ich gleich festgestellt, wie wunderbar schnell
 sie einzieht. Es ist also kein Problem im Anschluss an die Handpflege
-<a href="http://cardamonchai.com/2020/04/homeoffice-beauty-lieblinge/">die
-Computertastatur wieder anzufassen</a>. Außerdem lässt sich die Handcreme von
-Santaverde sehr gut verteilen. Auch das ist für mich ein großer Pluspunkt.
+[die Computertastatur wieder anzufassen](/2020/04/homeoffice-beauty-lieblinge/).
+Außerdem lässt sich die Handcreme von Santaverde sehr gut verteilen. Auch das
+ist für mich ein großer Pluspunkt.
 
 ![handcreme-von-santaverde](http://cardamonchai.com/wp-content/uploads/2020/04/santaverde-handcreme222-400x533.jpg)
 
@@ -69,8 +69,7 @@ Die Produkte von Santaverde werden nach dem Prinzip "Aloe statt Aqua"
 hergestellt. Das bedeutet, dass bei allen Produkten die Wasserphase durch reinen
 Aloe Vera Saft (Aloe Barbadensis Miller) ersetzt wird. Der Aloe Vera
 Pflanzensaft stammt vom hauseigenen, kontrolliert biologischen Anbau auf der
-<a href="http://cardamonchai.com/2019/07/santaverde-finca-aloe-vera/">Santaverde
-Finca in Andalusien</a>.
+[Santaverde Finca in Andalusien](/2019/07/santaverde-finca-aloe-vera/).
 
 ## Mehr über Santaverde
 
@@ -80,11 +79,8 @@ tragen sie das Tierschutzsiegel Leaping Bunny. Dieses schließt Tierversuche an
 einzelnen Rohstoffen und an Fertigprodukten auch in Nicht-EU-Ländern wirksam
 aus.
 
-<a href="https://cardamonchai.com/tag/santaverde/">Mehr über Santaverde erfahrt
-Ihr hier</a>. Die Handcreme könnt Ihr, wie alles von Santaverde, direkt
-<a href="https://www.santaverde.de/?gclid=EAIaIQobChMI8aK3w6n36AIVWeDtCh1LSQZJEAAYASAAEgL_xvD_BwE" target="_blank" rel="noopener nofollow">beim
-Hersteller online</a> oder in ausgesuchten Biosupermärkten, Reformhäusern und
-Apotheken erwerben. <small></small>
+[beim Hersteller online](/tag/santaverde/) oder in ausgesuchten Biosupermärkten,
+Reformhäusern und Apotheken erwerben. <small></small>
 
 ### Santaverde Handcreme Inhaltsstoffe (Volldeklaration)
 
@@ -97,5 +93,4 @@ kontrolliert biologischem Anbau</small>
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

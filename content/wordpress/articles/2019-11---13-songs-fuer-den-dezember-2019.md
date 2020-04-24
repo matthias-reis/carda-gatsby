@@ -74,13 +74,13 @@ Song 'Waiting For You' rausgepickt."
 <iframe src="https://www.youtube.com/embed/GwlU_wsT20Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Caspian - "Flowers of Light" (Vorauskopplung vom für 2020 angekündigten Album "On Circles")
-Wir alle haben vermutlich vor Freude einen kleinen Hüpfer hingelegt, als wir vom geplanten neuen Album von <a href="http://cardamonchai.com/2015/11/caspian-live-hafenklang-hamburg/">Caspian</a> erfuhren. Die erste Single ist schon da, Matze hat sie auf unsere Liste gesetzt.
+Wir alle haben vermutlich vor Freude einen kleinen Hüpfer hingelegt, als wir vom geplanten neuen Album von  [Caspian](/2015/11/caspian-live-hafenklang-hamburg/)  erfuhren. Die erste Single ist schon da, Matze hat sie auf unsere Liste gesetzt.
 
 "Darauf habe ich mich fast noch ein bisschen mehr gefreut, als auf
-<a href="http://cardamonchai.com/2019/08/das-neue-tool-album-ist-da/">das neue
-Tool Album</a>: Ein erstes Lebenszeichen der neuen Caspian Platte! Die erste
-Vorauskopplung von "On Circles", das im Januar erscheinen soll, übertrifft schon
-mal meine Erwartungen. Ein wirklich großartiges Stück Post-Rock!"
+[das neue Tool Album](/2019/08/das-neue-tool-album-ist-da/) : Ein erstes
+Lebenszeichen der neuen Caspian Platte! Die erste Vorauskopplung von "On
+Circles", das im Januar erscheinen soll, übertrifft schon mal meine Erwartungen.
+Ein wirklich großartiges Stück Post-Rock!"
 
 <iframe src="https://www.youtube.com/embed/HN5iFskr0iM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -90,9 +90,9 @@ Valentin schwärmt für Torche
 "Torche gibt es schon länger. Ich habe die Sludge Band aus Miami jetzt erst für
 mich entdeckt. In ihrer Musik steckt viel Stoner-Einfluss. Ich freue mich schon,
 sie im kommenden Jahr als Vorband von
-<a href="http://cardamonchai.com/2017/02/russian-circles-knust-hamburg-2017/">Russian
-Circles</a> sehen zu dürfen. Hier der Titeltrack aus dem im Juli erschienen
-Album 'Admission', der (in diesem Fall) etwas (angenehm) poppiger geraten ist."
+[Russian Circles](/2017/02/russian-circles-knust-hamburg-2017/) sehen zu dürfen.
+Hier der Titeltrack aus dem im Juli erschienen Album 'Admission', der (in diesem
+Fall) etwas (angenehm) poppiger geraten ist."
 
 <iframe src="https://www.youtube.com/embed/9dc0n5UkMOI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -101,7 +101,7 @@ Die Shoegazer Band Shana Falana, die derzeit von Kingston, New York aus agiert, 
 <iframe src="https://www.youtube.com/embed/X7vnlEXs-Xs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## And you will Know us by the Trail of Dead - "Don’t Look Down" vom Album "X: The Godless Void And Other Stories"
-Matze hat mich total überrascht, als er mit der Nachricht von der neuen <a href="http://cardamonchai.com/2013/04/trail-of-dead-live-strom-munchen-12-april-2013/">Trail Of Dead</a> Platte um die Ecke kam. Was eine Freude! Er hat "Don't Look Down" gelistet und findet folgende (lobenden) Worte dazu.
+Matze hat mich total überrascht, als er mit der Nachricht von der neuen  [Trail Of Dead](/2013/04/trail-of-dead-live-strom-munchen-12-april-2013/)  Platte um die Ecke kam. Was eine Freude! Er hat "Don't Look Down" gelistet und findet folgende (lobenden) Worte dazu.
 
 "Im Gegensatz zur neuen Caspian Single, habe ich mit dieser Veröffentlichung gar
 nicht gerechnet. Umso größer ist die Freude über den ersten neuen Song seit mehr
@@ -122,8 +122,7 @@ Rey Pila ist eine von Valentins Ausgrabungen des Monats.
 "Strokes Frontmann Julian Casablancas entdeckte die mexikanische Band Rey Pila.
 Mit ihrem Sound hätte die Truppe auch in den 1980er Jahren Erfolg gehabt. Die
 aktuelle Single erinnert finde ich sehr an Depeche Mode oder frühe Sachen von
-<a href="http://cardamonchai.com/2014/05/nine-inch-nails-live-zitadelle-berlin/">Nine
-Inch Nails</a>."
+[Nine Inch Nails](/2014/05/nine-inch-nails-live-zitadelle-berlin/). "
 
 <iframe src="https://www.youtube.com/embed/pVqLI7IRCik" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>

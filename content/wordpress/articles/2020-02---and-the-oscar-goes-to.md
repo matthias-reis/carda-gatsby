@@ -62,7 +62,7 @@ Queerphobie und Rassismus aus.
 
 Joaquin Phoenix selbst nutzt diese Stimme bereits seit Jahren. So ist er unter
 anderem der Sprecher im wohl berühmtesten Tierrechtsfilm der Welt
-<a href="https://www.earthlings.de/">Earthlings</a>.
+[Earthlings](https://www.earthlings.de/).
 
 <iframe src="https://www.youtube.com/embed/1uxo2PtOWpA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -71,8 +71,8 @@ anderem der Sprecher im wohl berühmtesten Tierrechtsfilm der Welt
 <a href="https://www.earthlings.de/">
 
 Hat Euch mein Beitrag gefallen? Um in Zukunft nichts mehr auf meinem Blog zu
-verpassen, <a href="#newsletter">abonniert am besten meinen Newsletter</a>. Ich
-freue mich auf Euch!
+verpassen, [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich
+auf Euch!
 
 Bild im Header:
-<a href="https://www.plantbasednews.org/opinion/5-amazing-times-joaquin-phoenix-was-extra-vegan">plantbasednews.org</a>
+[plantbasednews.org](https://www.plantbasednews.org/opinion/5-amazing-times-joaquin-phoenix-was-extra-vegan)

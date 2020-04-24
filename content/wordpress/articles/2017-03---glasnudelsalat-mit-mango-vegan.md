@@ -87,9 +87,6 @@ Glasnudelsalat macht glücklich!
 Guten Appetit!
 
 Das Rezept für die wunderbarste vegane Torte der Welt
-<a href="http://cardamonchai.com/2014/09/die-wunderbarste-vegane-torte-der-welt/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2014/09/die-wunderbarste-vegane-torte-der-welt/).
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

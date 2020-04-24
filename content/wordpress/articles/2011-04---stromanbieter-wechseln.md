@@ -114,24 +114,19 @@ EWS, Lichtblick, naturstrom und <strong>Greenpeace Energy</strong>
 
 Infos dazu sind zu finden unter:
 
-<a title="atomausstiegselbermachen" href="http://www.atomausstieg-selber-machen.de" target="_blank">atomausstiegselbermachen</a>,
-dort gibt es auch eine kostenlose Ökostromhotline: 0800/7626825. Außerdem gibt
-es im Internet zahlreiche Vergleichstabellen und Ökostromrechner, z. B. auf
-<a title="oekostromvergleich" href="http://www.oekostrom-vergleich.com" target="_blank">oekostromvergleich</a>.
+[oekostromvergleich](http://www.atomausstieg-selber-machen.de).
 
 Für einen Singlehaushalt kostet der saubere Strom pro Monat je nach Anbieter
 ungefähr zwischen 25 und 35 Euro, also ist "zu teuer" mit Sicherheit auch kein
 Argument dagegen. Wenn man zusätzlich noch einige Energiespartricks beachtet,
 kann man mit Sicherheit noch günstiger wegkommen:
 
-<ul><li>Trockner aus! Wäsche auf der Leine trocknen! (Spart nicht nur Strom, sondern schont auch die Wäsche)</li><li>Licht aus! In Räumen, die gerade nicht genutzt werden, selbiges gilt natürlich auch für die Heizung</li><li>Geräte aus! Nicht Tag und Nacht auf "standby" laufen lassen!</li><li>Boiler aus! Wenn gerade kein heißes Wasser gebraucht wird.</li><li>Spülmaschine verwenden! Damit hat man einen geringeren Wasserverbrauch, als wenn man von Hand spült! (Achtung, die Spülmaschine nicht neben dem Kühlschrank einbauen, sonst benötigt der auf Grund der Wärme mehr Energie!)</li><li>ECO-Geräte kaufen! Die Mehrausgabe bei der Anschaffung hat man schon sehr schnell wieder reingeholt, wenn man dafür Strom und Wasser spart! (Auch hierzu gibt es diverse Tabellen im Internet)</li><li>Lüften: Besser 2-3 x am Tag Fenster ganz öffnen, als den ganzen Tag das Fenster gekippt zu lassen</li></ul>## Hier geht´s zu den Ökostrom-Anbietern:<a title="Greenpeace Energy" href="http://www.greenpeace-energy.de/" target="_blank">Greenpeace Energy</a><a title="Naturstrom" href="https://www.naturstrom.de/" target="_blank">Naturstrom</a><a title="EWS Schönau" href="http://www.ews-schoenau.de/" target="_blank">EWS Schönau</a><a title="Lichtblick" href="http://www.lichtblick.de/h/index.php" target="_blank">Lichtblick</a>
+<ul><li>Trockner aus! Wäsche auf der Leine trocknen! (Spart nicht nur Strom, sondern schont auch die Wäsche)</li><li>Licht aus! In Räumen, die gerade nicht genutzt werden, selbiges gilt natürlich auch für die Heizung</li><li>Geräte aus! Nicht Tag und Nacht auf "standby" laufen lassen!</li><li>Boiler aus! Wenn gerade kein heißes Wasser gebraucht wird.</li><li>Spülmaschine verwenden! Damit hat man einen geringeren Wasserverbrauch, als wenn man von Hand spült! (Achtung, die Spülmaschine nicht neben dem Kühlschrank einbauen, sonst benötigt der auf Grund der Wärme mehr Energie!)</li><li>ECO-Geräte kaufen! Die Mehrausgabe bei der Anschaffung hat man schon sehr schnell wieder reingeholt, wenn man dafür Strom und Wasser spart! (Auch hierzu gibt es diverse Tabellen im Internet)</li><li>Lüften: Besser 2-3 x am Tag Fenster ganz öffnen, als den ganzen Tag das Fenster gekippt zu lassen</li></ul>## Hier geht´s zu den Ökostrom-Anbietern: [Lichtblick](http://www.greenpeace-energy.de/)
 
 Natürlich gibt es je nach Region auch noch weitere Anbieter, am besten einfach
 mal recherchieren oder bei
-<a title="atomausstiegselbermachen" href="http://www.atomausstieg-selber-machen.de" target="_blank">atomausstiegselbermachen</a>
-oder
-<a title="Greenpeace" href="http://www.greenpeace.de/" target="_blank">Greenpeace</a>
-beraten lassen! Auch der Strommix ist bei jedem Anbieter unterschiedlich.
+[Greenpeace](http://www.atomausstieg-selber-machen.de) beraten lassen! Auch der
+Strommix ist bei jedem Anbieter unterschiedlich.
 
 Recht herzlichen Dank für die Aufmerksamkeit! Auf eine sonnige Zukunft!
 

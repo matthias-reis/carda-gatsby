@@ -33,15 +33,13 @@ subTitle: Meine erste Elch-Begegnung
 ---
 
 <strong>Zwar häufen sich die Zusammenstöße mit Elchen laut Statistik in
-<a href="https://cardamonchai.com/category/unterwegs/skandinavien/">Skandinavien</a>,
-einem von ihnen wirklich vis-a-vis zu begegnen ist dennoch gar nicht so
-einfach.</strong>
+[Skandinavien](/category/unterwegs/skandinavien/), einem von ihnen wirklich
+vis-a-vis zu begegnen ist dennoch gar nicht so einfach.</strong>
 
-<a href="https://cardamonchai.com/2018/10/kurzgeschichte-die-vierte-welle/">Matze
-und ich</a> haben jahrelang die finnischen und schwedischen Wälder nach den
-gutmütig aussehenden Geweihträgern mit den Knutschlippen abgesucht, bis es
-diesen Sommer dann endlich soweit war. An diesem ganz besonderen Moment möchte
-ich Euch heute gerne teilhaben lassen.
+[Matze und ich](/2018/10/kurzgeschichte-die-vierte-welle/)  haben jahrelang die
+finnischen und schwedischen Wälder nach den gutmütig aussehenden Geweihträgern
+mit den Knutschlippen abgesucht, bis es diesen Sommer dann endlich soweit war.
+An diesem ganz besonderen Moment möchte ich Euch heute gerne teilhaben lassen.
 
 Wir hatten an diesem sonnigen Junitag in Schweden gleich mehrfach Glück, da uns
 eine komplette Familie inklusive Nachwuchs über den Weg lief. Wo genau es zu
@@ -67,11 +65,10 @@ Bernsteins. Auch er ist Karikaturist, Grafiker und Lyriker.
 Besteht da ein Zusammenhang? Wohl kaum. Elche machen dennoch glücklich. Die
 sanften Riesen sind die wunderbarsten Tiere, denen ich bisher in meinem Leben
 begegnet bin und ich hege den festen Plan, ihnen weiter durch den Forst zu
-folgen. Sobald es uns das nächste Mal in Richtung
-<a href="https://cardamonchai.com/tag/finnland/">Finnland</a>,
-<a href="https://cardamonchai.com/?s=schweden">Schweden</a>, Norwegen oder Polen
-zieht, werde ich mich wieder mit meiner Kamera auf die Lauer legen. Weich
-gebettet auf Moosen und Heidelbeersträuchern lässt es sich entspannt warten.
+folgen. Sobald es uns das nächste Mal in Richtung [Schweden](/tag/finnland/),
+Norwegen oder Polen zieht, werde ich mich wieder mit meiner Kamera auf die Lauer
+legen. Weich gebettet auf Moosen und Heidelbeersträuchern lässt es sich
+entspannt warten.
 
 [gallery type="rectangular" size="large" link="none"
 ids="22411,22410,22409,22408,22407,22406,22405,22404,22403,22400,22401,22402,22399,22398,22397,22394,22395,22396"]

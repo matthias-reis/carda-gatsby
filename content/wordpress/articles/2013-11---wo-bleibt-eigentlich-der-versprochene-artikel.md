@@ -44,10 +44,10 @@ versprochen habe, aber dieses Mal ist es wirklich in der Hektik des Alltags
 untergegangen, wie die Jungs aus der Mahnabteilung das immer so schön
 formulieren.
 
-Nun ja, <a title="Umzug" href="//2013/09/24/von-guten-freunden-und-fotos/">wir
-sind umgezogen</a> und hatten dabei eine ganze Menge Stress. Viel mehr, als wir
-erwartet hatten. Ich weiß, so ist das immer. War auch bisher so, bei jedem
-meiner dreizehn Umzüge. Aber so schlimm, wie dieses Mal noch nie.
+Nun ja, [wir sind umgezogen](//2013/09/24/von-guten-freunden-und-fotos/) und
+hatten dabei eine ganze Menge Stress. Viel mehr, als wir erwartet hatten. Ich
+weiß, so ist das immer. War auch bisher so, bei jedem meiner dreizehn Umzüge.
+Aber so schlimm, wie dieses Mal noch nie.
 
 ![Wenn Du der Freundin das schickst...](http://cardamonchai.files.wordpress.com/2013/09/img_7712.jpg "Umzüge und andere Katastrophen")
 
@@ -68,10 +68,9 @@ Einfach machen ist sowieso immer am besten. Ach ja, da kam noch eine ganze Menge
 anderes Zeug dazwischen, aber das brauche ich Euch ja nicht zu erzählen.
 
 Nun endlich zu der Sache mit den Bäumen.
-<a title="Einmal im Leben einen Baum pflanzen 2.0" href="//2013/08/14/einmal-im-leben-einen-baum-pflanzen-2-0/">Ich
-habe Euch ja neulich schon mal erzählt,</a> dass ich vorhätte, dem Herzmann zur
-Hochzeit eine Baumpatenschaft zu schenken. Denn ich habe mir gedacht: Sterne,
-Bücher, Socken: Kann ja jeder.
+[Ich habe Euch ja neulich schon mal erzählt,](//2013/08/14/einmal-im-leben-einen-baum-pflanzen-2-0/)
+dass ich vorhätte, dem Herzmann zur Hochzeit eine Baumpatenschaft zu schenken.
+Denn ich habe mir gedacht: Sterne, Bücher, Socken: Kann ja jeder.
 
 Also habe ich mich an Greenpeace gewendet, es dauerte ein paar Wochen und nun
 sind wir tatsächlich Baumpaten! Wir haben sogar persönliche Urkunden bekommen,

@@ -236,9 +236,8 @@ fast zum Inventar und insgeheim sagen mein Mann und ich immer, dass Charly der
 wahre Inhaber von sanshair ist.
 
 <strong>Anne:</strong> Charly wird ja jetzt berühmt! Vor ein paar Tagen habe ich
-sein
-<a href="https://www.instagram.com/charlychihuahua_/" target="_blank" rel="noopener">Instagram-Profil</a>
-entdeckt, auf dem Du sein Leben dokumentierst. Er bedeutet Dir sehr viel, oder?
+sein [Instagram-Profil](https://www.instagram.com/charlychihuahua_/) entdeckt,
+auf dem Du sein Leben dokumentierst. Er bedeutet Dir sehr viel, oder?
 
 <strong>Tahmina: </strong>Wir haben Charly vor knapp 2 Jahren zu uns geholt und
 ich muss sagen, dass er unser Leben seitdem mehr als bereichert hat. Es war
@@ -277,8 +276,8 @@ könnte das gehen?
 <strong>Tahmina: </strong>Es gibt Überlegungen in viele Richtungen. Konkretes
 noch nicht, da hier die Auswahl sehr wohl durchdacht getroffen werden muss. Am
 Wahrscheinlichsten ist eine Erweiterung meines Angebotes mit
-<a href="http://cardamonchai.com/2016/07/lovely-day-botanicals-kosmetiktest/">Hyaluron</a>-Behandlungen
-und Micro-Blading. Dann bräuchte ich definitiv Unterstützung.
+[Hyaluron](/2016/07/lovely-day-botanicals-kosmetiktest/) -Behandlungen und
+Micro-Blading. Dann bräuchte ich definitiv Unterstützung.
 
 <strong>Anne:</strong> Kannst Du Dir vorstellen, den Namen Deines Studios zu
 ändern?
@@ -350,12 +349,12 @@ großen Spaß gemacht! Ich wünsche Dir alles Gute für die Zukunft!
 Spass gemacht! Bis bald!
 
 Wer jetzt auch neugierig geworden ist, kann sich gerne mal auf
-<a href="http://sanshair-hamburg.de/" target="_blank" rel="noopener">Tahminas
-Homepage</a> informieren. Sie freut sich über jede Nachricht.
+[Tahminas Homepage](http://sanshair-hamburg.de/) informieren. Sie freut sich
+über jede Nachricht.
 
 Hier entlang geht es übrigens zu Hund
-<a href="https://www.instagram.com/charlychihuahua_/" target="_blank" rel="noopener">Charlys
-Instagram-Account</a>. Auch er freut sich über liebe Kontakte.
+[Charlys Instagram-Account](https://www.instagram.com/charlychihuahua_/). Auch
+er freut sich über liebe Kontakte.
 
 Die Fotos in diesem Artikel hat Tahmina mir aus ihrer privaten Sammlung zur
 Verfügung gestellt.

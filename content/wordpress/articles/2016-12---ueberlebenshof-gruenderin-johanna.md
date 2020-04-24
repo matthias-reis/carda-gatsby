@@ -44,10 +44,9 @@ subTitle: Was macht eigentlich AMOA?
 
 <strong>Vor etwas mehr als zwei Jahren habe ich Euch hier im Blog die
 Tierschützerin Johanna Schlitzkus
-<a href="http://cardamonchai.com/2014/08/amoa-lebenshof-und-zuhause/">vorgestellt</a>.
-Damals sprach ich mit ihr über ihr Leben, den Buddhismus und ihren Überlebenshof
-AMOA, den sie zusammen mit ihrer Lebensgefährtin Britta in Südhessen
-führte.</strong>
+[vorgestellt](/2014/08/amoa-lebenshof-und-zuhause/). Damals sprach ich mit ihr
+über ihr Leben, den Buddhismus und ihren Überlebenshof AMOA, den sie zusammen
+mit ihrer Lebensgefährtin Britta in Südhessen führte.</strong>
 
 Inzwischen sind einige Tage ins Land gezogen und zusammen mit Britta und ihrer
 gemeinsamen Tochter Shaya ist Johanna kurz nach unserem Umzug nach Hamburg
@@ -155,9 +154,9 @@ besuche Dich, wenn wir mal einen Kaffee trinken gehen wollen.
 Schicksalsschläge einzustecken. Unsere Schafe haben wir an ein kleines
 Mittelalter-Museum vermittelt. Leider sind zwei von ihnen dort gestorben. Unser
 letztes Huhn, sowie die Kaninchen sind im
-<a href="http://www.gnadenhof-liebenswert.de/" target="_blank" rel="noopener">Gnadenhof
-Liebenswert</a> untergekommen. Lediglich unsere Hunde und Katzen konnten wir
-mitnehmen. Es war eine sehr harte Zeit.
+[Gnadenhof Liebenswert](http://www.gnadenhof-liebenswert.de/) untergekommen.
+Lediglich unsere Hunde und Katzen konnten wir mitnehmen. Es war eine sehr harte
+Zeit.
 
 <strong>Anne:</strong> Wie viele Tiere leben mit Euch unter einem Dach?
 
@@ -187,9 +186,9 @@ immer welche bei mir gelebt.
 
 ## möchte, kann Johanna über Facebook kontaktieren
 
-<strong>Johanna:</strong> Gerne mit
-einer <a href="https://www.facebook.com/Katzenhofamoa/?hc_ref=PAGES_TIMELINE" target="_blank" rel="noopener">Futterspende</a>. Im
-Moment sind wir mehr den je darauf angewiesen.
+<strong>Johanna:</strong> Gerne mit einer 
+[Futterspende](https://www.facebook.com/Katzenhofamoa/?hc_ref=PAGES_TIMELINE).
+ Im Moment sind wir mehr den je darauf angewiesen.
 
 <strong>Anne:</strong> Schreibst Du noch? Und was macht die Kunst?
 
@@ -198,11 +197,8 @@ werde ich anfangen, mein Atelier einzurichten. Dann hab ich hoffentlich auch
 wieder mehr Zeit für meine Kunst.
 
 <strong>Anne:</strong> Was hat es denn mit Eurer Facebook-Kampagne
-<a href="https://www.facebook.com/events/187037541754421/" target="_blank" rel="noopener">„Futter
-statt Böller“</a> auf sich? Erzählst Du meinen Lesern davon? Ach ja, vom
-Flashmob
-<a href="https://www.facebook.com/events/1493371477638392/" target="_blank" rel="noopener">„Wir
-verzichten auf ein Feuerwerk“</a> musst Du auch berichten.
+[„Wir verzichten auf ein Feuerwerk“](https://www.facebook.com/events/187037541754421/)
+musst Du auch berichten.
 
 <strong>Johanna:</strong> Im Grunde genommen hat mich vor drei Jahren meine
 Hündin auf die Idee gebracht. Bella ist ein extremer Angsthund. Beim kleinsten
@@ -299,7 +295,7 @@ für Dein Interview. Alles Liebe!
 
 <strong>Wer den Katzenhof AMOA mit einer Futterspende unterstützen möchte, kann
 dies über die
-<a href="https://www.facebook.com/Katzenhofamoa/?hc_ref=PAGES_TIMELINE" target="_blank" rel="noopener">Facebook-Gruppe</a>
+[Facebook-Gruppe](https://www.facebook.com/Katzenhofamoa/?hc_ref=PAGES_TIMELINE)
 tun. Dort ist Johanna täglich aktiv.</strong>
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

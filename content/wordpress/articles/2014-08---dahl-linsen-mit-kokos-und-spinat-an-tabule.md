@@ -44,16 +44,14 @@ subTitle: Scharf und lecker
 
 <strong>Schon vor einiger Zeit hatte ich versprochen, ab und zu mal das ein oder
 andere Rezept in meinem Blog zu veröffentlichen. Ich teile meine Rezepte schon
-seit einiger Zeit in meinem
-<a title="Anne Instagram" href="http://instagram.com/anne_reko" target="_blank" rel="noopener">Instagram-Account</a>
+seit einiger Zeit in meinem [Instagram-Account](http://instagram.com/anne_reko)
 und bekomme darüber immer wieder Anfragen, wann es denn endlich so weit sein
 wird.</strong>
 
 Am Donnerstag Abend habe ich dann wie immer unser Abendessen in Instagram
-gepostet und die liebe
-<a title="jessicalux" href="http://instagram.com/jessicalux?modal=true" target="_blank" rel="noopener">Jessie</a>
-bat mich darum, ihr das Rezept zukommen zu lassen, was ich natürlich auf der
-Stelle tat.
+gepostet und die liebe [Jessie](http://instagram.com/jessicalux?modal=true) bat
+mich darum, ihr das Rezept zukommen zu lassen, was ich natürlich auf der Stelle
+tat.
 
 Nachdem ich es Ihr geschickt hatte, was der Grundstein für meine vegane
 Rezeptrubrik gelegt, denn einmal aufgeschrieben, kann ich es nun natürlich auch
@@ -98,8 +96,8 @@ Tabulé auf den Teller drapieren.
 Dazu passt sehr gut Seitan oder Tofu, man kann aber beispielsweise auch gut eine
 Sauce aus Sojajoghurt, Knoblauch und Kräutern dazu servieren. Erlaubt ist, was
 schmeckt. Wir haben dieses Mal
-<a href="//2014/08/27/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/">die
-gewonnenen √ürstchen</a> von den VEGGY FRIENDS und Pide dazu gegessen.
+[die gewonnenen √ürstchen](//2014/08/27/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/)
+von den VEGGY FRIENDS und Pide dazu gegessen.
 
 Guten Appetit!
 

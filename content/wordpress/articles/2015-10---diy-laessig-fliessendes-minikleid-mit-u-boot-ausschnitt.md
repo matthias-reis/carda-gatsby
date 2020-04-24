@@ -55,9 +55,9 @@ Kleidungsstücke müssen nicht zu 100 % perfekt sein, ganz im Gegenteil: Kleine
 Planabweichungen machen sie zu echten Einzelstücken. Fühlt Euch also frei,
 Veränderungen vorzunehmen.</li><li>Ich habe den Schnitt frei Hand gezeichnet, es
 gibt keinen "richtigen" Schnittbogen. Meine Zeichnung habe ich für Euch
-abfotografiert, das Bild<a href="#1"><sup>1</sup></a> findet Ihr ganz unten
-unter dem Text. Ihr könnt es durch Anklicken vergrößern und Euch gerne mit Eurer
-Zeichnung danach richten.</li></ol>
+abfotografiert, das Bild [](#1) findet Ihr ganz unten unter dem Text. Ihr könnt
+es durch Anklicken vergrößern und Euch gerne mit Eurer Zeichnung danach
+richten.</li></ol>
 
 ![Stecknadeln und Schneiderkreide](http://cardamonchai.com/wp-content/uploads/2015/10/22170621608_7ef814e580_z-640x427.jpg "Stecknadeln und Schneiderkreide")
 
@@ -81,7 +81,7 @@ Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschi
 auf den Saumstich. Umsäumt alle Ränder feinsäuberlich und verriegelt dabei Eure
 Nähte (An den Anfängen und Enden jeweils ein paar Stiche vor und zurück nähen).
 
-![Hier kommen die Säume hin](http://cardamonchai.com/wp-content/uploads/2015/10/21735559864_4129d12356_z-640x640.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2015/10/21735559864_4129d12356_z.jpg"> </a> Hier kommen die Säume hin')
+![Hier kommen die Säume hin](http://cardamonchai.com/wp-content/uploads/2015/10/21735559864_4129d12356_z-640x640.jpg " [](/wp-content/uploads/2015/10/21735559864_4129d12356_z.jpg)  Hier kommen die Säume hin")
 
 Im nächsten Schritt werden die Säume umgenäht. Dazu faltet Ihr den
 Halsausschnitt und die Armlöcher sowie den unteren Saum (siehe Markierungen in
@@ -126,10 +126,9 @@ Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt! &lt;3
 
 ### Fußnoten<ul><li id="1">[1] Der "Schnittbogen"</li></ul>
 
-![Mein "Schnittbogen" - zum Vergrößern bitte anklicken! | large](http://cardamonchai.com/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17-800x800.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17.jpg"> </a> Mein "Schnittbogen" - zum Vergrößern bitte anklicken!')
+![Mein "Schnittbogen" - zum Vergrößern bitte anklicken! | large](http://cardamonchai.com/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17-800x800.jpg ' [](/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17.jpg)  Mein "Schnittbogen" - zum Vergrößern bitte anklicken!')
 
-<ul><li id="2">[2] Die <a href="https://basteln-de.buttinette.com/shop/start" target="_blank" rel="noopener">Buttinette</a></li></ul>
+<ul><li id="2">[2] Die  [Buttinette](https://basteln-de.buttinette.com/shop/start) </li></ul>
 
 Meine Schritt-für-Schritt-Anleitung für ein wärmendes Körnerkissen
-<a href="http://cardamonchai.com/2015/09/diy-koernerkissen-naehanleitung/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2015/09/diy-koernerkissen-naehanleitung/).

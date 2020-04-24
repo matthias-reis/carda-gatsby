@@ -60,8 +60,7 @@ zugänglich, lediglich einzelne Bereiche sind vorübergehend gesperrt. Unter
 anderem werden das Foyer und das Treppenhaus des Gründungsbaus modernisiert und
 neu gestaltet.
 
-<blockquote>Es ist schwer, kreativ zu sein, und es ist auch schwer, nicht zu glauben, daß das, was du machst, kreativ ist, oder nicht als kreativ bezeichnet zu werden, weil alle Leute immer davon und von Individualität reden. Jeder ist ständig kreativ. - Andy Warhol</blockquote><a href="/2012/02/perspektiven-pinakothek-der-moderne/">Hier findet Ihr eine kleine Fotogalerie von mir</a> aus der Pinakothek der Moderne in München.
+<blockquote>Es ist schwer, kreativ zu sein, und es ist auch schwer, nicht zu glauben, daß das, was du machst, kreativ ist, oder nicht als kreativ bezeichnet zu werden, weil alle Leute immer davon und von Individualität reden. Jeder ist ständig kreativ. - Andy Warhol</blockquote> [Hier findet Ihr eine kleine Fotogalerie von mir](/2012/02/perspektiven-pinakothek-der-moderne/)  aus der Pinakothek der Moderne in München.
 
 Zur Homepage der Hamburger Kunsthalle geht es
-<a href="http://www.hamburger-kunsthalle.de/" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](http://www.hamburger-kunsthalle.de/).

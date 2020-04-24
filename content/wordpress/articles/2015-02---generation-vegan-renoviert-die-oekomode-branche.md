@@ -54,21 +54,16 @@ Materialien kennen. Bambus- und Kokosfasern (Bei Kokos und Bambus handelt es
 sich um zwei der am schnellsten nachwachsenden Rohstoffe überhaupt) zum
 Beispiel. Auch Upcycling ist ein großes Thema, so werden zum Beispiel alte
 PET-Flaschen zu
-<a href="http://cardamonchai.com/2017/06/ethnotek-viva-con-agua/">Rucksäcken</a>
-und
-<a href="http://cardamonchai.com/2016/12/meine-neue-vegane-handtasche-von-mattnat/">Taschen</a>
-verarbeitet,
-<a href="http://cardamonchai.com/2018/03/gumbies-vegane-strandsandalen/">aus
-Reifen entstehen Schuhsohlen</a> und aus alten Vorhangstoffen werden Kleider
-genäht.
+[aus Reifen entstehen Schuhsohlen](/2017/06/ethnotek-viva-con-agua/) und aus
+alten Vorhangstoffen werden Kleider genäht.
 
 "So nachhaltig wie möglich!" - das ist die Devise der zahlreichen veganen
 Mode-Startups. Einige Shops sind durchaus schon etabliert und wachsen stetig.
 Hans Vurst, Avocado Store und Zündstoff Clothing sind nur einige davon.
-<a href="http://cardamonchai.com/2018/02/faire-klamotten/">Eine schöne Liste
-findet Ihr auch hier im Blog</a>. Am besten behält man das Internet mit seinen
-Unternehmensgründer-Portalen im Auge, denn täglich gibt es neue,
-vielversprechende Neugründungen im Bereich vegane Mode.
+[Eine schöne Liste findet Ihr auch hier im Blog](/2018/02/faire-klamotten/). Am
+besten behält man das Internet mit seinen Unternehmensgründer-Portalen im Auge,
+denn täglich gibt es neue, vielversprechende Neugründungen im Bereich vegane
+Mode.
 
 ## Auf schädliche Substanzen wird verzichtet
 
@@ -76,9 +71,8 @@ vielversprechende Neugründungen im Bereich vegane Mode.
 
 Ganz selbstverständlich scheint es zu sein, Bekleidung nicht einfach statt aus
 Wolle aus Akryl herzustellen, sondern neue, umweltschonende Wege zu finden. Auf
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Mikroplastik</a>,
-das unsere Gewässer verseucht und schädliche Substanzen wird von Anfang an
-verzichtet.
+[Mikroplastik](/2017/08/kenia-sagt-plastiktueten-nein-danke/), das unsere
+Gewässer verseucht und schädliche Substanzen wird von Anfang an verzichtet.
 
 Vegane Schuhe aus fairer Herstellung zu finden, das war vor ein paar Jahren noch
 eine schwierige Aufgabe. Inzwischen kann man sich kaum noch für einen
@@ -86,16 +80,15 @@ Online-Shop entscheiden und auch im Schuhgeschäft an der Ecke kann man bereits
 kompostierbare Jogging-Schuhe kaufen.
 
 Bedenkt man die auf der einen Seite wieder aufkeimende,
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">rückschrittliche
-Pelzmode</a>, die hoffentlich, so schnell sie erschienen ist, auch wieder in der
-Versenkung verschwinden wird, ist das derzeit wachsende Angebot an nachhaltiger
-Eco-Fashion ein sehr erfreulicher Lichtblick.
+[rückschrittliche Pelzmode](/2014/11/fakepelz-echtpelz/), die hoffentlich, so
+schnell sie erschienen ist, auch wieder in der Versenkung verschwinden wird, ist
+das derzeit wachsende Angebot an nachhaltiger Eco-Fashion ein sehr erfreulicher
+Lichtblick.
 
 Zumal es sich dabei um ein wirklich zukunftsträchtiges Geschäft handelt, bei dem
 es nicht um den schnellen Gewinn geht, sondern darum, Kunden langfristig zu
 binden, einen neuen Markt zu erobern und dabei nachhaltig zur Erhaltung der
 Natur beizutragen.
 
-<strong>Foto im
-Header:</strong><a href="https://pixabay.com/de/users/ohurtsov-1610766/" target="_blank" rel="noopener nofollow">ohurtsov</a>,
-pixabay
+<strong>Foto im Header:</strong>
+[ohurtsov](https://pixabay.com/de/users/ohurtsov-1610766/), pixabay

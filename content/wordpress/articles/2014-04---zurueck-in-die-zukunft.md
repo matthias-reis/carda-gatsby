@@ -37,7 +37,7 @@ thumbnailId: "7841"
 subTitle: Fotos digitalisieren mit Photoshop und Lightroom
 ---
 
-![Die Kiste | full](http://cardamonchai.files.wordpress.com/2014/04/photo1-e1396626690878.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/"> </a> Die Kiste')
+![Die Kiste | full](http://cardamonchai.files.wordpress.com/2014/04/photo1-e1396626690878.jpg " [](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/)  Die Kiste")
 
 <strong>Schon seit Jahren habe ich eine Kiste mit alten Fotos in meinem
 Kleiderschrank stehen, die ich bei meinen Eltern auf dem Dachboden aufgestöbert
@@ -46,7 +46,7 @@ mal ein Album draus zu machen. Zuerst dachte ich daran, die Bilder "ganz normal"
 in ein Album einzukleben und dieses meinen Eltern eines Tages zu
 überreichen.</strong>
 
-![Damals - Leute auf Fotosafari](http://cardamonchai.files.wordpress.com/2014/04/13623132573_d24a3d271c_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/"> </a> Damals - Leute auf Fotosafari')
+![Damals - Leute auf Fotosafari](http://cardamonchai.files.wordpress.com/2014/04/13623132573_d24a3d271c_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/)  Damals - Leute auf Fotosafari")
 
 Zum Glück, wie ich heute finde, gingen noch einige Jahre ins Land und es kamen
 diverse Umzüge und andere Dinge dazwischen, das Projekt "Rita", wie ich es
@@ -58,7 +58,7 @@ Ritasdóttir), rückte immer wieder in den Hintergrund.
 Das digitale Zeitalter brach an. Der Gedanke, die Bilder lieber doch nicht
 aufzukleben und sie damit noch morscher und welliger werden zu lassen, sondern
 sie feinsäuberlich eins nach dem anderen zu digitalisieren und daraus ein
-<a title="Familienalbum Anne Reko Flickr" href="https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/">Flickr-Familienalbum</a>
+[Flickr-Familienalbum](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/)
 zu machen formte sich und vor ein paar Wochen war es dann soweit: Ich setzte
 mich an meinen Rechner und startete Projekt "Rita".
 
@@ -97,12 +97,12 @@ zuschneiden</em></li><li><em>Natürlich könnt Ihr die Bilder nun wie gewohnt in
 Lightroom und Photoshop bearbeiten, bis sie "wie neu" aussehen. Ich selbst habe
 auf diesen Punkt bisher verzichtet, da mir die Optik von alten Fotos sehr gut
 gefällt.</em></li><li><em>Bilder in
-<a title="Anne Reko Flickr" href="https://www.flickr.com/photos/99929697@N07/">Flickr</a>
+[Flickr](https://www.flickr.com/photos/99929697@N07/)
 hochladen</em></li><li><em>Die Punkte 1-14 auf die nächste Charge anwenden usw.
 usw... :-)</em></li></ol></div> Ich wünsche Euch viel Spaß beim Nachbasteln! Im
 Anschluss habe ich noch ein paar Eindrücke aus meinem Projekt "Rita"für Euch,
 mehr Fotos findet Ihr wie immer in meinem
-<a title="Anne Reko Flickr" href="https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/">Flickr</a>.
+[Flickr](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/).
 Bitte habt Verständnis, dass ich nicht alle Fotos auf "öffentlich" gesetzt habe.
 Privatsphäre und schnick schnack. ;-)
 

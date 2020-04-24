@@ -39,10 +39,10 @@ subTitle: Gefiederte Besucher im Vergnügungspark
 Menschen mit strahlenden Augen begegnet, die dabei waren, den Park zu genießen,
 sondern auch ein paar gefiederte Persönlichkeiten.</strong>
 
-Nachdem <a href="http://cardamonchai.com/2018/07/tivoli-in-kopenhagen/">mein
-Beitrag zum Tivoli </a>von gestern sehr gut ankommt und Vogelbilder schon immer
-mein Ding sind, wie viele von Euch wissen, habe ich mich spontan entschieden,
-den Birds Of Tivoli einen eigenen Beitrag zu widmen.
+Nachdem [mein Beitrag zum Tivoli](/2018/07/tivoli-in-kopenhagen/) von gestern
+sehr gut ankommt und Vogelbilder schon immer mein Ding sind, wie viele von Euch
+wissen, habe ich mich spontan entschieden, den Birds Of Tivoli einen eigenen
+Beitrag zu widmen.
 
 Sicherlich liegt es nicht nur am im Tivoli bereitstehenden Futterautomaten, dass
 sich die verschiedensten Vögel dort heimisch fühlen. Der Ort ist einfach wie für
@@ -53,10 +53,7 @@ Sträucher.
 
 Übrigens möchte ich hier nochmal die Gelegenheit nutzen, einen Hinweis
 loszuwerden. Vögel füttern: Ja! Besonders hungrige
-<a href="http://cardamonchai.com/2016/05/hamburger-stadttauben-e-v/">Stadttauben</a>
-freuen sich über jede Mahlzeit. Aber bitte: Kein Brot oder gar Kuchen und andere
-"Treats". Weder an Enten, noch an Tauben,
-<a href="https://cardamonchai.com/tag/mowen/">Möwen</a> oder sonstige Vögel.
+[Möwen](/2016/05/hamburger-stadttauben-e-v/) oder sonstige Vögel.
 
 Brot ist für die Tiere wie eine Süßigkeit, daher nehmen sie sie dankbar an und
 futtern schon mal eine stattliche Menge davon, bietet man es ihnen an.

@@ -155,4 +155,4 @@ Eure Anne
 ungeordneter erscheinen zu lassen, als Ihr es sonst von mir gewohnt seid. Und es
 tut mir nicht leid. Skøl!</em>
 
-![Trail Of Dead | large](http://cardamonchai.com/wp-content/uploads/2013/04/playlist-800x921.jpg '<a href="http://cardamonchai.files.wordpress.com/2013/04/playlist.jpg"> </a> Die ursprünglich geplante Playlist')
+![Trail Of Dead | large](http://cardamonchai.com/wp-content/uploads/2013/04/playlist-800x921.jpg " [](http://cardamonchai.files.wordpress.com/2013/04/playlist.jpg)  Die ursprünglich geplante Playlist")

@@ -45,10 +45,9 @@ Butenland gebracht: Das Ferkel rettete sich durch einen Sprung vom
 Tiertransporter - bei 90 km/h auf der Autobahn.</strong>
 
 Könnt Ihr Euch noch an
-<a href="http://cardamonchai.com/2017/11/das-gluecksschwein-aus-dem-elbtunnel/">Victoria,
-das Glücksschwein aus dem Elbtunnel</a> erinnern? Jetzt ist es einem weiteren
-Schweinchen gelungen, sich auf dramatische Art und Weise vor dem Schlachthof in
-Sicherheit zu bringen.
+[Victoria, das Glücksschwein aus dem Elbtunnel](/2017/11/das-gluecksschwein-aus-dem-elbtunnel/)
+erinnern? Jetzt ist es einem weiteren Schweinchen gelungen, sich auf dramatische
+Art und Weise vor dem Schlachthof in Sicherheit zu bringen.
 
 Der kleine Kerl befand sich in einem Schweinetransporter auf dem Weg nach
 Holland, wo ihm ein Schicksal als Spanferkel drohte. Er schaffte es, sich zu
@@ -82,12 +81,7 @@ konnte inzwischen erfolgreich operiert werden und ist bereits abgeheilt. Der
 Kleine ist wohlauf und erfreut sich seines Lebens.
 
 Weil mich das Schicksal von Frederik und seinen Artgenossen so bewegt, habe ich
-mich vor Jahren dazu entschieden,
-<a href="https://cardamonchai.com/category/vegan-2/go-vegan/">vegan zu
-leben</a>. Für mich hat jedes Lebewesen das Recht auf ein schmerzfreies Leben
-ohne Angst. Es macht keinen Unterschied, ob es sich um eine Katze, einen Hund,
-ein Kaninchen, ein Schwein, eine Kuh oder
-<a href="https://cardamonchai.com/2014/11/fakepelz-echtpelz/">einen Nerz</a>
+mich vor Jahren dazu entschieden, [einen Nerz](/category/vegan-2/go-vegan/)
 handelt.
 
 Aus diesem Grund habe ich heute auch eine Tierpatenschaft für Frederik
@@ -107,13 +101,10 @@ sie ihr Leben sorgenfrei genießen.
 
 ## Pressematerial / Quelle:
 
-<a href="https://www.stiftung-fuer-tierschutz.de/" target="_blank" rel="noopener">Hof
-Butenland</a>
+[Hof Butenland](https://www.stiftung-fuer-tierschutz.de/)
 
 ## Weiterführende Links
 
-<a href="https://www.stiftung-fuer-tierschutz.de/?s=frederik" target="_blank" rel="noopener">Frederiks
-Tagebuch</a>
+[Frederiks Tagebuch](https://www.stiftung-fuer-tierschutz.de/?s=frederik)
 
-<a href="https://datenschutz-generator.de/eugh-urteil-like-button-cookie-opt-in-abmahnbarkeit/" target="_blank" rel="noopener">"Der
-Schmerz der Ferkel - unnötige Quälerei in der Schweinezucht" - Das Erste</a>
+["Der Schmerz der Ferkel - unnötige Quälerei in der Schweinezucht" - Das Erste](https://datenschutz-generator.de/eugh-urteil-like-button-cookie-opt-in-abmahnbarkeit/)

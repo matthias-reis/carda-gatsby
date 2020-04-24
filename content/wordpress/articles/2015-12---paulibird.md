@@ -78,12 +78,11 @@ Käuflich erwerben kann man die Paulibird Schmuckstücke im Paulibird Shop oder
 online. Für persönliche Anfragen geht man am besten über das Online-Formular auf
 paulibird.com. Der Versand ist in Deutschland ab 80 Euro kostenfrei. Täglich
 aktuelle Fotos und Geschichten aus der Schmuckmanufaktur bietet die Paulibird
-<a href="https://www.paulibird.com/" target="_blank" rel="noopener nofollow">Webseite</a>.
+[Webseite](https://www.paulibird.com/).
 
 Diesen Beitrag habe ich bereits am 10. Januar 2016 veröffentlicht. Da er jedoch
 nach wie vor aktuell ist, teile ich ihn heute erneut mit Euch.
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

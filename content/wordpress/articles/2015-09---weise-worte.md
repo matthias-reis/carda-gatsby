@@ -42,16 +42,13 @@ In der Rubrik "Weise Worte" erscheinen nicht nur die Zitate von Stars und
 Sternchen, ich möchte auch die Gedanken weniger bekannter Menschen mit Euch
 teilen. Wer ein schönes Zitat hat, von dem er meint, dass es genau in diese
 Kategorie passt: Immer her damit, ich freue mich auf
-<a href="mailto:anne.reis@cardamonchai.com">Eure Zuschriften</a>! Meine
-Facebook-Seite, auf der die Memes erscheinen, findet Ihr
-<a href="http://www.facebook.com/cardamonchai" target="_blank" rel="noopener">hier</a>.
+[hier](mailto:anne.reis@cardamonchai.com).
 
 Doch jetzt erst mal viel Spaß beim Lesen.
 
 [myflickr tag="cardameme"]
 
 Wollt Ihr mal einen interessanten Text zum Thema YOLO lesen?
-<a href="http://cardamonchai.com/2015/04/yolo-you-only-live-once/">Ihr findet
-Ihn hier</a>. <strong>Foto im
-Header:</strong><a href="https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;search=anf%C3%BChrungszeichen&amp;fulltext=Search&amp;uselang=de" target="_blank" rel="noopener">Wikimedia
-Commons</a>
+[Ihr findet Ihn hier](/2015/04/yolo-you-only-live-once/). <strong>Foto im
+Header:</strong>
+[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&profile=default&search=anf%C3%BChrungszeichen&fulltext=Search&uselang=de)

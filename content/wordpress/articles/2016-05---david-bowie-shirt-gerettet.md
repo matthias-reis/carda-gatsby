@@ -40,11 +40,8 @@ meint Ihr?
 Ich bin ja der festen Meinung, David hätte es genau so gemacht. Ich freue mich
 darüber, denn jetzt ist es ein echtes Einzelstück, das nur ich besitze. Eine
 schöne Erinnerung an
-<a href="http://cardamonchai.com/2016/01/rip-david-bowie-abschied-von-einer-ikone/">David
-Bowie</a>.
+[David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/).
 
 ![David | full](http://cardamonchai.com/wp-content/uploads/2016/05/25817765024_43bf4e933e_b-2.jpg)
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

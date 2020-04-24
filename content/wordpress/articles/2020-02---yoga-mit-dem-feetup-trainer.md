@@ -179,20 +179,18 @@ Yogatool vollkommen fair ist.
 ## Weitere Infos
 
 Wenn Ihr neugierig geworden seid und gerne mehr erfahren möchtet, schaut Ihr am
-besten auf der
-<a href="https://de.feetup.eu/" target="_blank" rel="noopener nofollow">Feetup
-Homepage</a> vorbei. Dort findet Ihr jede Menge weitere interessante Tipps und
-Infos.
+besten auf der [Feetup Homepage](https://de.feetup.eu/) vorbei. Dort findet Ihr
+jede Menge weitere interessante Tipps und Infos.
 
 <strong>Leser⋆innen meines Blogs erhalten bis Ende März 2020 beim Kauf eines
 Feetup Trainers 10 Euro Rabatt. Gebt dazu einfach den folgenden Rabattcode
 an: feetup8393.</strong>
 
 Hat Euch mein Testbericht gefallen? Das freut mich sehr! Wenn Ihr gerne weiter
-mitfiebern wollt, <a href="#newsletter">abonniert am besten meinen
-Newsletter</a>. Ich halte Euch über neue Beiträge auf dem Laufenden!
+mitfiebern wollt, [abonniert am besten meinen Newsletter](#newsletter). Ich
+halte Euch über neue Beiträge auf dem Laufenden!
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenfrei
 zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meiner  [Transparenz-Seite](/werbung/). </em>

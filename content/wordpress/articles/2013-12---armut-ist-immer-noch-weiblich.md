@@ -150,7 +150,7 @@ ihm machen, das bleibt allerdings in meinem privaten Archiv. :-)
 
 Im Anschluss findet Ihr eine kleine Galerie des Abends. Weitere Bilder von den
 Betriebsratstagen sind in meinem
-<a title="Münchner Betriebsratstage cardamonchai" href="http://www.flickr.com/photos/99929697@N07/sets/72157638324029183/" target="_blank" rel="noopener">Flickr</a>.
+[Flickr](http://www.flickr.com/photos/99929697@N07/sets/72157638324029183/).
 
 [gallery type="rectangular" size="medium" link="none"
 ids="7728,7727,7726,7725,7724,7723,7720,7719,7718,7717"]

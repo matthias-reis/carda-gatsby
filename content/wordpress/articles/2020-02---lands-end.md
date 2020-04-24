@@ -28,9 +28,8 @@ thumbnailId: "27345"
 subTitle: Am westlichsten Punkt Englands
 ---
 
-<strong>Nach unserem
-<a href="http://cardamonchai.com/2019/09/arctangent-festival-2019-2/">Festivalbesuch</a>
-in England im letzten Spätsommer hatten wir noch etwas Zeit, die wir für eine
+<strong>Nach unserem [Festivalbesuch](/2019/09/arctangent-festival-2019-2/) in
+England im letzten Spätsommer hatten wir noch etwas Zeit, die wir für eine
 kleine Tour durch Cornwall nutzten. Sie führte uns am 20. August auch an der
 Landzunge von Land's End vorbei.</strong>
 
@@ -65,5 +64,5 @@ Zwischen den Felsen von Land's End und den Scilly Islands soll sich das
 versunkene Land Lyonesse befunden haben - das sagt die Legende.
 
 Hat Euch meine Bildergalerie gefallen? Demnächst gibt es mehr davon! Ihr
-verpasst garantiert nichts, wenn Ihr <a href="#newsletter">meinen Newsletter
-abonniert</a>. Wir lesen uns!
+verpasst garantiert nichts, wenn Ihr [meinen Newsletter abonniert](#newsletter).
+Wir lesen uns!

@@ -100,5 +100,4 @@ ids="17594,17599,17595,17597,17596,17598,17593"]
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall sogar
 selbst gekauft. Infos zum Thema Werbekennzeichnung in meinem Blogn findet Ihr
-auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+auf meiner [Transparenz-Seite](/werbung/). </em>

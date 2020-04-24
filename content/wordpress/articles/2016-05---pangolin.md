@@ -72,10 +72,8 @@ Am 20. Februar wird seit kurzem jedes Jahr zum Schutz des Pangolins aufgerufen.
 Er wurde zum Welttag des Pangolins erklärt.
 
 Wer sich für Pangoline einsetzen möchte, kann online eine
-<a href="https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen" target="_blank" rel="noopener">Petition
-mitzeichen</a> oder direkt einen Brief an die
-<a href="http://www.china-botschaft.de/det/" target="_blank" rel="noopener">Chinesische
-Botschaft</a> in Berlin richten.
+[Chinesische Botschaft](https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen)
+in Berlin richten.
 
 ## Hier klicken, um die Petition zu unterschreiben
 
@@ -86,12 +84,13 @@ Botschaft</a> in Berlin richten.
 ### Bildquellen:
 
 <em>Bild Pangolin auf Hand: By
-<a href="http://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">Valerius
-Tygart</a> (Own work) [CC BY-SA 3.0], via Wikimedia Commons</em>
+[Valerius Tygart](http://creativecommons.org/licenses/by-sa/3.0) (Own work) [CC
+BY-SA 3.0], via Wikimedia Commons</em>
 
 <em>Bild Pangolin verteidigt sich vor Löwen: By
-<a href="http://creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener">Sandip
-kumar</a> (Own work) [CC BY-SA 3.0], via Wikimedia Commons</em>
+[Sandip kumar](http://creativecommons.org/licenses/by-sa/3.0) (Own work) [CC
+BY-SA 3.0], via Wikimedia Commons</em>
 
 <em>Bild unten: Screenshot der Petition auf
-<a href="https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen" target="_blank" rel="noopener">regenwald.org</a></em>
+[regenwald.org](https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen)
+</em>

@@ -49,10 +49,10 @@ Heute stelle ich Euch zwei besondere Urlaubsbegleiter aus der Beauty-Ecke,
 morgen zwei aus der Food-Ecke vor.
 
 Die Produkte von Santaverde habe ich hier im Blog
-<a href="http://cardamonchai.com/2018/01/santaverde/">bereits gezeigt</a>. Für
-mich sind sie besonders wertvoll, da sie reizarm sind. Meine Haut ist ein
-kleines Sensibelchen und neigt zu Rötungen, da muss ich ein bisschen vorsichtig
-sein und kann mir nicht alles ins Gesicht schmieren.
+[bereits gezeigt](/2018/01/santaverde/). Für mich sind sie besonders wertvoll,
+da sie reizarm sind. Meine Haut ist ein kleines Sensibelchen und neigt zu
+Rötungen, da muss ich ein bisschen vorsichtig sein und kann mir nicht alles ins
+Gesicht schmieren.
 
 ## Santaverde gegen Rötungen
 
@@ -103,9 +103,8 @@ kann mir das Pudern zwischendurch auch mal sparen.
 
 Was ich an Santaverde besonders schätze, ist die Transparenz. Das konntet Ihr
 auch schon in meinem letzten Artikel zum Thema
-<a href="http://cardamonchai.com/2018/01/santaverde/">nachlesen</a>. Dazu
-gehört, dass es auf allen Verpackungen eine verständliche Volldeklaration aller
-Inhaltsstoffe gibt.
+[nachlesen](/2018/01/santaverde/). Dazu gehört, dass es auf allen Verpackungen
+eine verständliche Volldeklaration aller Inhaltsstoffe gibt.
 
 ## Vegane Naturkosmetik
 
@@ -117,14 +116,11 @@ Die beiden Tübchen wandern jetzt in mein Reisegepäck. Ihr habt hiermit meine
 Empfehlung, sie auch auf Eure nächste Reise mitzunehmen. Vor der Urlaubspause
 wird es hier im Blog noch ein zwei weitere spannende Artikel für Euch geben. Und
 im Anschluss hoffentlich wieder eine bildreiche
-<a href="https://cardamonchai.com/tag/irland2017/">Reisereportage</a>. Bleibt
-also dran! Es bleibt spannend!
+[Reisereportage](/tag/irland2017/). Bleibt also dran! Es bleibt spannend!
 
 Wer gerne auch mal im Santaverde Shop stöbern möchte,
-<a href="https://santaverde.shop/" target="_blank" rel="noopener">kann das hier
-tun</a>.
+[kann das hier tun](https://santaverde.shop/).
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

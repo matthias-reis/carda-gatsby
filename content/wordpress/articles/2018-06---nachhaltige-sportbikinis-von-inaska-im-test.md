@@ -54,8 +54,8 @@ subTitle: Bademode aus Fischernetzen
 
 <strong>Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis aus
 Fischernetzen und anderem
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Meeresmüll</a>.
-Ich hatte jetzt Gelegenheit, mein Lieblingsmodell zu testen.</strong>
+[Meeresmüll](/2017/08/kenia-sagt-plastiktueten-nein-danke/). Ich hatte jetzt
+Gelegenheit, mein Lieblingsmodell zu testen.</strong>
 
 Das Besondere: Oberteil und Höschen werden getrennt von einander ausgesucht.
 Dadurch kann man ganz nach Figurtyp und persönlichen Vorzügen kombinieren.
@@ -163,12 +163,11 @@ vollkommen aus.
 Demnächst wird mich mein neuer Bikini an die Ostsee begleiten, darauf freue ich
 mich ganz besonders. Wer jetzt neugierig ist und sich die anderen Modelle auch
 mal anschauen möchte, findet Inaska
-<a href="https://www.inaska-swimwear.com/shop/" target="_blank" rel="noopener">hier</a>.
+[hier](https://www.inaska-swimwear.com/shop/).
 
 [gallery type="rectangular" link="none" size="large"
 ids="21175,21172,21171,21169,21164"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

@@ -93,9 +93,4 @@ leisten. Und das nicht nur, weil inzwischen bereits an weit mehr als nur einem
 Strand im Müll gebadet wird.
 
 <strong>Bilder:</strong> Wiederverschließbare Glasflaschen (Titel):
-<a href="https://pixabay.com/de/users/pixel2013-2364555/" target="_blank" rel="noopener">pixel2013</a>,
-pixabay; verschiedene Bierflaschen:
-<a href="https://pixabay.com/de/users/alles-2597842/" target="_blank" rel="noopener">alles</a>,
-pixabay; pixabay; Frau mit Wasserglas:
-<a href="https://pixabay.com/de/users/silviarita-3142410/" target="_blank" rel="noopener">silviarita</a>,
-pixabay
+[silviarita](https://pixabay.com/de/users/pixel2013-2364555/), pixabay

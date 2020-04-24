@@ -156,6 +156,6 @@ Klingt doch alles ganz durchdacht, oder? Ich bin auf jeden Fall schon ziemlich
 gespannt und gehe nun erstmal raus auf den Balkon. Den vollen Aschenbecher samt
 Inhalt wegwerfen.
 
-<p style="text-align: left;"><em><strong> Bis bald, ich werde weiter <a title="Teil 2" href="http://cardamonchai.com/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/">berichten</a>!</strong></em></p>
+<p style="text-align: left;"><em><strong> Bis bald, ich werde weiter  [berichten](/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/) !</strong></em></p>
 
 [youtube=http://www.youtube.com/watch?v=hB-WHw6uMWg]

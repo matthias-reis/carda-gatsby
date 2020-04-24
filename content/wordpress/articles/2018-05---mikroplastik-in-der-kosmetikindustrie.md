@@ -159,11 +159,10 @@ Zeitung</td>
 </table>
 
 Sollte sich nicht schnell etwas grundlegend ändern, werden unsere
-<a href="http://cardamonchai.com/2018/03/world-ocean-summit-2018/">Meere</a>
-bald über und über bedeckt sein von unserem Plastik. Was noch erschwerend
-hinzukommt: Die Partikel ziehen durch ihre chemische Beschaffenheit andere
-Schadstoffe an und auch diese landen früher oder später in den Mägen von
-Meeresbewohnern.
+[Meere](/2018/03/world-ocean-summit-2018/) bald über und über bedeckt sein von
+unserem Plastik. Was noch erschwerend hinzukommt: Die Partikel ziehen durch ihre
+chemische Beschaffenheit andere Schadstoffe an und auch diese landen früher oder
+später in den Mägen von Meeresbewohnern.
 
 ## Wie erkenne ich, ob Mikroplastik in meinen Lieblingsprodukten steckt?
 
@@ -185,13 +184,7 @@ besten mithilfe von Apps wie Codecheck. Auch verschiedene
 Umweltschutz-Organisationen wie Greenpeace haben auf ihren Webseiten inzwischen
 Listen veröffentlicht, die regelmäßig aktualisiert werden.
 
-Einige Hersteller, wie zum Beispiel
-<a href="https://www.boerlind.com/">Börlind</a>, positionieren sich inzwischen
-in
-<a href="https://www.boerlind.com/ab/wp-content/uploads/2015/07/Stellungnahme_Mikroplastik_0215.pdf">offiziellen
-Stellungnahmen</a> klar gegen die Verwendung von Mikroplastik. Hat man nicht
-immer die Möglichkeit, auf geprüfte
-<a href="http://cardamonchai.com/2018/03/vegane-kosmetik-und-naturkosmetik/">Naturkosmetik</a>
+Einige Hersteller, wie zum Beispiel [Naturkosmetik](https://www.boerlind.com/)
 zurückzugreifen, weil man beispielsweise ein Produkt zur Behandlung eines
 bestimmten Hautproblems sucht, sollte man auf jeden Fall vor dem Kauf immer das
 Internet zur Rate ziehen und die Liste der Inhaltsstoffe so genau wie möglich
@@ -207,26 +200,21 @@ auch sie sehr wohl in die Umwelt und damit auch die Organismen von Lebewesen.
 
 Über die langfristige Wirkung, die das auf unser Ökosystem hat, kann man nur
 spekulieren. Zwar arbeiten Forscher mit Hochdruck an
-<a href="http://cardamonchai.com/2018/04/forscher-hoffen-auf-plastikfressendes-enzym/">Lösungen
-zur Reinigung der Meere</a>, auf Dauer wird uns jedoch ausschließlich der
-<a href="http://cardamonchai.com/2017/04/interview-mit-zero-waste-aktivistin-vio/">Verzicht
-auf Plastik</a> weiterbringen.
+[Verzicht auf Plastik](/2018/04/forscher-hoffen-auf-plastikfressendes-enzym/)
+weiterbringen.
 
 Dazu ein Zitat von der Homepage der Initiative Mikroplastik:
 
 <blockquote>"Es ist davon auszugehen, dass kurz- bis mittelfristig keine Technologien zur Verfügung stehen, mit denen Mikroplastik aus aquatischen Umweltsystemen zurückgeholt werden können."</blockquote>
 
 Staaten wie Kenia
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">gehen
-mit gutem Beispiel voran</a>, indem sie Plastiktüten verbieten. Wir können nur
-hoffen, dass das schnell Schule macht.
+[gehen mit gutem Beispiel voran](/2017/08/kenia-sagt-plastiktueten-nein-danke/),
+indem sie Plastiktüten verbieten. Wir können nur hoffen, dass das schnell Schule
+macht.
 
 <strong>Bildquellen</strong> Titelbild &amp; Seifenspender:
-<a href="https://pixabay.com/de/users/congerdesign-509903/" target="_blank" rel="noopener">congerdesign</a>,
-pixabay Seifenschlieren:
-<a href="https://pixabay.com/de/users/webkinzluva1598-6544824/" target="_blank" rel="noopener">webkinzluva</a>,
-pixabay Fangnetz:
-<a href="https://pixabay.com/de/users/the3cats-2135817/" target="_blank" rel="noopener">the3cats</a>,
-pixabay Hand mit Flasche:
-<a href="https://pixabay.com/de/users/422737-422737/" target="_blank" rel="noopener">422737</a>,
-pixabay
+[congerdesign](https://pixabay.com/de/users/congerdesign-509903/), pixabay
+Seifenschlieren:
+[webkinzluva](https://pixabay.com/de/users/webkinzluva1598-6544824/), pixabay
+Fangnetz: [the3cats](https://pixabay.com/de/users/the3cats-2135817/), pixabay
+Hand mit Flasche: [422737](https://pixabay.com/de/users/422737-422737/), pixabay

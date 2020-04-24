@@ -151,22 +151,16 @@ missbrauchen und ausbeuten.
 Dabei gibt es immer Luft nach oben und es gibt einiges, das meine Meinung von
 der des Autors unterscheidet. Für mich zählt eben auch dazu, dass man Haustiere
 adoptiert, statt sie zu kaufen, Müll vom Strand aufsammelt, sich um den
-<a href="http://cardamonchai.com/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/">Schutz
-der Wildbienen</a> kümmert, statt sich mal eben einen Bienenstamm zu kaufen und
-aufs Reiten, Leder, Pelze und
-<a href="http://cardamonchai.com/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/">Wolle</a>
+[Wolle](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 verzichtet. Ein kleiner Anfang wäre auf jeden Fall schon mal, das Fleischessen
 einzustellen. Nur mal so als Idee. Aber: Wer sich schon mal mit dem Seelenleben
 der Tiere beschäftigt, hat auf jeden Fall schon einen guten Anfang gemacht.
 Einen Schritt in Richtung weniger Tierleid.
 
 Schweine lieben ihre Kinder, Meisen handeln selbstlos, Biber suchen sich einen
-Partner fürs Leben,
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">Kühe
-vermissen ihre Kälber</a>, Krähen amüsieren sich gerne und
-<a href="http://cardamonchai.com/2016/05/hamburger-stadttauben-e-v/">Tauben</a>
-können zählen. Das ist nur die Spitze des Eisberges. Noch längst haben die
-Forscher nicht alles zu Tage gefördert. Es gibt noch so einiges zu entdecken und
+Partner fürs Leben, [Tauben](/2014/09/pflanzenmilch-wieso-denn-blos/) können
+zählen. Das ist nur die Spitze des Eisberges. Noch längst haben die Forscher
+nicht alles zu Tage gefördert. Es gibt noch so einiges zu entdecken und
 herauszufinden und während wir das tun, sollten wir Respekt haben. Respekt vor
 allem Leben, ob gefiedert, mit Schuppen, Flossen, Flügen, Fell, Schnabel oder
 Schnauze.
@@ -207,9 +201,7 @@ nun leider etwas.
 Im Hinblick auf Tierethik ist es leider nicht vertretbar. Wenn wir nur "ein
 wenig mehr Respekt" gegenüber Tieren haben, werden wir weder etwas gegen
 Legebatterien und das Schreddern von Küken noch gegen
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/">Tierversuche</a>,
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">Pelzfarmen</a> und
-<a href="http://cardamonchai.com/2017/11/das-gluecksschwein-aus-dem-elbtunnel/">Tiertransporte</a>
+[Tiertransporte](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
 tun. Wenn wir weiter Haustiere zu unserem Vergnügen züchten, hilft das den
 Millionen von Straßenhunden auch nicht weiter. Die Tierheime werden immer voller
 und jedes Jahr kommt wieder eine neue "Moderasse" dazu.
@@ -231,22 +223,19 @@ anders zu sehen. Mal sehen, ich werde in Kürze ein Buch mit einem ganz ähnlich
 Titel lesen, es liegt hier schon vor mir. Ich bin schon gespannt, ob es mich
 etwas mehr abholt (Nachtrag: Das Buch hat mich mehr abgeholt. Es trägt den Titel
 "Das Gefühlsleben der Tiere" und ist von Marc Bekoff.
-<a href="http://cardamonchai.com/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/">Meine
-Rezension findet Ihr hier</a>).
+[Meine Rezension findet Ihr hier](/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/)
+).
 
-"<strong><a href="https://amzn.to/2GJAhtG" target="_blank" rel="noopener nofollow">Das
-Seelenleben der Tiere</a></strong>" ist im Ludwig Buchverlag erschienen. Die
-gebundene Ausgabe kostet 19,99 Euro und trägt die <strong>ISBN-Nummer
-978-3453280823</strong>.
+"<strong> [Das Seelenleben der Tiere](https://amzn.to/2GJAhtG) </strong>" ist im
+Ludwig Buchverlag erschienen. Die gebundene Ausgabe kostet 19,99 Euro und trägt
+die <strong>ISBN-Nummer 978-3453280823</strong>.
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>, sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst
-lese, desto mehr möchte ich darüber berichten.
+[seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/),
+sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
+mehr möchte ich darüber berichten.
 
 <em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

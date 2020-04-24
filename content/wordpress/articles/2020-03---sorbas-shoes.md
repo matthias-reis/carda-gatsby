@@ -43,10 +43,10 @@ geben sie seit Generationen weiter.
 
 Ich habe mich für minimalistische Sneaker aus der 60's Series von Sorbas
 entschieden. Sie heißen
-<a href="https://sorbasshoes.com/schuh/66-pine-green/?affiliates=8" target="_blank" rel="noopener nofollow">'66
-Pine Green</a> und bestehen aus hochwertiger, langstapeliger, wasserfester
-Bio-Baumwolle. Die Laufsohle wurde aus Kautschuk gefertigt. Auf der Rückseite
-befindet sich ein kleines eingesetztes Detail aus Kork mit einer Logoprägung.
+['66 Pine Green](https://sorbasshoes.com/schuh/66-pine-green/?affiliates=8) und
+bestehen aus hochwertiger, langstapeliger, wasserfester Bio-Baumwolle. Die
+Laufsohle wurde aus Kautschuk gefertigt. Auf der Rückseite befindet sich ein
+kleines eingesetztes Detail aus Kork mit einer Logoprägung.
 
 ## Meine Sorbas Schuhe sitzen perfekt
 
@@ -77,8 +77,7 @@ Petrolgrün bin ich ganz verliebt und bin überrascht, wie gut es zu meinen
 Klamotten passt. Schuhe in meiner Lieblingsfarbe - warum ist da eigentlich
 vorher noch nie jemand drauf gekommen?
 
-Bei der Materialauswahl achtet
-<a href="https://sorbasshoes.com/?affiliates=8" target="_blank" rel="noopener nofollow">Sorbas</a>
+Bei der Materialauswahl achtet [Sorbas](https://sorbasshoes.com/?affiliates=8)
 immer darauf, neue Wege und nachhaltige Alternativen zu erkunden. Die Herkunft
 spielt dabei eine besondere Rolle. Teilweise wird das Material lokal in der Nähe
 der Hersteller eingekauft. Das Sorbas Team versichert sich dann vor Ort über die
@@ -90,13 +89,12 @@ müssen stimmen.
 Verarbeitet werden Ananasfasern, Kork und Bio-Baumwolle. Das Kunstleder besteht
 zu 80 Prozent aus natürlichen und pflanzlichen Rohstoffen. Etwa 75 Prozent der
 Sorbas Schuhe sind wie meine '66  Pine Green vegan. Sie sind
-<a href="https://sorbasshoes.com/schuhe/vegane-schuhe/?affiliates=8" target="_blank" rel="noopener nofollow">über
-einen Menüpunkt im Onlineshop</a> ganz leicht zu finden. Das Startup arbeitet
-mit internationalen Partner zusammen, um für faire Arbeitsbedingungen zu
-kämpfen. In Serbien wurde gemeinsam mit der Entwicklungsagentur USAID ein
-Projekt entwickelt. Darin wird kontinuierlich an der Verbesserung der
-Arbeitsverhältnisse gearbeitet. Die ausgezahlten Löhne liegen über Mindestlohn
-und Living-Wage.
+[über einen Menüpunkt im Onlineshop](https://sorbasshoes.com/schuhe/vegane-schuhe/?affiliates=8)
+ganz leicht zu finden. Das Startup arbeitet mit internationalen Partner
+zusammen, um für faire Arbeitsbedingungen zu kämpfen. In Serbien wurde gemeinsam
+mit der Entwicklungsagentur USAID ein Projekt entwickelt. Darin wird
+kontinuierlich an der Verbesserung der Arbeitsverhältnisse gearbeitet. Die
+ausgezahlten Löhne liegen über Mindestlohn und Living-Wage.
 
 ## Faire Herstellung im Familienbetrieb
 
@@ -117,10 +115,10 @@ Ich freue mich schon sehr auf viele spannende Wege mit meinen neuen Sorbas
 Schuhen. Eins ist jetzt schon sicher: Ich möchte sie nie wieder hergeben.
 
 Wer neugierig ist und gerne mal bei Sorbas Shoes stöbern möchte,
-<a href="https://sorbasshoes.com/?affiliates=8" target="_blank" rel="noopener nofollow">kann
-das jederzeit im Onlineshop tun</a>.[glry name="sorbas2"]
+[kann das jederzeit im Onlineshop tun](https://sorbasshoes.com/?affiliates=8).
+[glry name="sorbas2"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

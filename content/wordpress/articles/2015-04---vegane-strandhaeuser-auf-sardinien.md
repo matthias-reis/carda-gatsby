@@ -97,12 +97,11 @@ am besten aufgehoben fühlte, antwortete Matteo:
 "Tunesien, England, Irland, Holland, Tschechien und Spanien. Mit Abstand am
 besten lässt es sich als Veganer in Barcelona leben. Also Spanien. Und jetzt
 natürlich auch Sardinien. Könnt Ihr das bestätigen? Was sind Eure liebsten
-<a href="https://cardamonchai.com/category/unterwegs/reisen/">Reiseziele</a>?
-Soll ich über eine bestimmte Location berichten? Dann schreibt mir!
+[Reiseziele](/category/unterwegs/reisen/) ? Soll ich über eine bestimmte
+Location berichten? Dann schreibt mir!
 
 Wer gerne mehr über Matteo und seine Ferienhäuser erfahren möchte, kann ihn
-jederzeit auf seiner
-<a href="https://www.facebook.com/vegansardinia" target="_blank" rel="noopener nofollow">Facebook-Seite</a>
+jederzeit auf seiner [Facebook-Seite](https://www.facebook.com/vegansardinia)
 besuchen. Dort findet sich auch der Kontakt für die Buchung.
 
 Lieben Dank an Matteo für die interessante, nette Unterhaltung! Thank you Matteo

@@ -47,9 +47,6 @@ FLO!
 Flo ist außerdem Leadsänger der Band TONAIR aus Aichach, die auch immer wieder
 im bayerischen Raum auf Tour ist.
 
-<em><a title="Tom &amp; Flo" href="http://www.tom-und-flo.de/" target="_blank" rel="noopener">Homepage</a>
-Tom &amp;
-Flo</em><em><a title="Tonair" href="http://www.tonair.de/frontend/front_content.php" target="_blank" rel="noopener">Homepage</a>
-Tonair</em>
+<em> [Homepage](http://www.tom-und-flo.de/) Tonair</em>
 
 [myflickr tag="annetomundflo"]

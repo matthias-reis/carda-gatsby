@@ -38,11 +38,9 @@ trois auf dem noch kühlen Alsterwasser hingelegt.
 ## Alsterschwäne - ein Wahrzeichen der Stadt Hamburg
 
 Die Alsterschwäne gehören zu Hamburg einfach dazu. Genau wie die Reeperbahn und
-der <a href="/2016/05/millerntor-stadion-hamburg/">FC St. Pauli</a>. Sie sind
-ein lebendiges Wahrzeichen, das aus der Hansestadt nicht wegzudenken ist.
+der [FC St. Pauli](/2016/05/millerntor-stadion-hamburg/). Sie sind ein
+lebendiges Wahrzeichen, das aus der Hansestadt nicht wegzudenken ist.
 
 [gallery type="square" size="medium" link="none" ids="14671,14644"]
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

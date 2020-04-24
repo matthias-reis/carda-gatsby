@@ -69,9 +69,9 @@ Mit dem Spatel rührt Ihr alles gut durch, bis sich eine homogene Masse ergeben
 hat. Ihr könnt mit der Pipette noch einen Tropfen Rosenöl hinzugeben, das sorgt
 für zusätzliche Pflege und duftet einfach toll. Ich habe dieses Mal Baliblumenöl
 verwendet, das ich bei unseren
-<a href="/category/unterwegs/hochzeitsreise/">Flitterwochen</a> dort erworben
-habe. Auf zusätzlichen Duft kann jedoch auch einfach verzichtet werden, auch das
-Kokosöl riecht sehr angenehm und erinnert schön an den Sommer am Strand.
+[Flitterwochen](/category/unterwegs/hochzeitsreise/) dort erworben habe. Auf
+zusätzlichen Duft kann jedoch auch einfach verzichtet werden, auch das Kokosöl
+riecht sehr angenehm und erinnert schön an den Sommer am Strand.
 
 Packt Eure fertige DIY Lippenpflege zum Festwerden für ca. eine Stunde in den
 Kühlschrank. Dort könnt Ihr sie auch später aufbewahren.
@@ -87,8 +87,7 @@ Küssen nicht vergessen! :-)
 [myflickr tag="annelippenpflege"]
 
 Warum vegan richtig großen Spaß macht,
-<a href="http://cardamonchai.com/2015/09/ich-bleib-dabei-vegan-macht-spass/">erfahrt
-Ihr hier</a>.
+[erfahrt Ihr hier](/2015/09/ich-bleib-dabei-vegan-macht-spass/).
 
 &nbsp;
 

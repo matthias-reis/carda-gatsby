@@ -84,8 +84,8 @@ reisen!</strong>
 
 Wir freuen uns schon seit Monaten auf das musikalische Highlight des Jahres. Vor
 Kurzem hatte ich ja hier schon mal
-<a href="http://cardamonchai.com/2017/02/dunkfestival-2016-wir-sind-auch-dabei/">einen
-kurzen Artikel</a> über das <em>Dunk!festival</em> veröffentlicht.
+[einen kurzen Artikel](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) über das
+<em>Dunk!festival</em> veröffentlicht.
 
 Inzwischen steht natürlich auch das komplett Lineup fest, beeindruckend, oder?
 
@@ -99,25 +99,24 @@ Regenschirme.
 Wie sieht es bei Euch aus? Welche Festivals habt Ihr für 2017 geplant? Wann geht
 es los? Ich will alles wissen! Wie Ihr perfekt ausgestattet durch die
 Festivalsaison kommt erfahrt Ihr hier im Blog. Einfach auf
-<a href="http://cardamonchai.com/2013/03/die-ultimative-festivalliste/">DIE
-ULTIMATIVE FESTIVALLISTE</a> klicken und losplanen!
+[DIE ULTIMATIVE FESTIVALLISTE](/2013/03/die-ultimative-festivalliste/) klicken
+und losplanen!
 
 Viel Spaß, rock on und bis bald! &lt;3
 
 ![Dunk!festival | full](http://cardamonchai.com/wp-content/uploads/2017/05/18556485_10154236337136887_6452039886214141882_o.jpg)
 
-Das DUNK!festival findet Ihr
-<a href="https://www.dunkfestival.be/" target="_blank" rel="noopener">hier</a>.
+Das DUNK!festival findet Ihr [hier](https://www.dunkfestival.be/).
 
 ## Wegweiser Dunk!Festival
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/02/dunkfestival-2016-wir-sind-auch-dabei/">DUNK!festival 2017 - Post-Rock in Begien</a></li>
+    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
     <li>DUNK!festival 2017 - Wir kommen!</li>
-    <li><a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">DUNK!festival 2017 - Liebe auf den ersten Blick</a></li>
-    <li><a href="http://cardamonchai.com/2018/04/dunkfest-2018-wir-kommen/">DUNK!festival 2018 - Das Line-up</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/wir-laeuten-die-festivalsaison-ein/">Wir läuten die Festivalsaison ein - Kurze Auszeit</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">DUNK!festival 2018 - Liebe für immer</a></li>
+    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
+    <li> [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/) </li>
+    <li> [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/) </li>
+    <li> [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) </li>
     <li>DUNK!festival 2019 - Das Line-up</li>
 </ol>
 

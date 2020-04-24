@@ -47,7 +47,7 @@ thumbnailId: "9028"
 subTitle: 10 Fakten über Veganismus - Teil VI
 ---
 
-## von gebrochenen Knochen und Lebendrupf<span style="text-decoration: underline;"><em><strong><a title="Teil 5" href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">Hier gehts zu Teil 5 des Artikels</a></strong></em></span><strong><a title="Teil 5" href="//2014/09/09/pflanzenmilch-wieso-denn-blos/"></a>Einige Tage sind vergangen, seit der letzte Teil meiner Serie "10 Fakten über Veganismus" erschienen ist. Hier ist nun Teil 6 für Euch.</strong>
+## von gebrochenen Knochen und Lebendrupf<span style="text-decoration: underline;"><em><strong> [](/2014/09/pflanzenmilch-wieso-denn-blos/) Einige Tage sind vergangen, seit der letzte Teil meiner Serie "10 Fakten über Veganismus" erschienen ist. Hier ist nun Teil 6 für Euch.</strong>
 
 Vegan ist ein Prozess. Zu Beginn meiner Serie "Zehn Fakten über Veganismus" trug
 diese noch den Titel "10 Fakten über vegane Ernährung". Natürlich ist das Thema
@@ -55,7 +55,7 @@ aber viel weitgreifender und betrifft nicht nur die Ernährung.
 
 ### Jeden Tag neue Erkenntnisse
 
-![Glückliche Schafe?](http://cardamonchai.com/wp-content/uploads/2014/10/11501753853_8ce53b76af_b-640x480.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Glückliche Schafe?')
+![Glückliche Schafe?](http://cardamonchai.com/wp-content/uploads/2014/10/11501753853_8ce53b76af_b-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Glückliche Schafe?")
 
 Doch auch das gehört sicherlich zu dem Prozess dazu, in dem man sich als
 "Neu-Veganer\*innen" befindet. Jeden Tag kommt man zu neuen Erkenntnissen und
@@ -79,7 +79,7 @@ Kosmetik.
 
 ### Romantisierte Beiträge im Fernsehen
 
-![Schafe](http://cardamonchai.com/wp-content/uploads/2014/10/11354273536_d4beb822f5_z-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Schafe.')
+![Schafe](http://cardamonchai.com/wp-content/uploads/2014/10/11354273536_d4beb822f5_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schafe.")
 
 Seit meiner Ausbildung in einem klassischen Modegeschäft habe ich mich nicht
 mehr wirklich eingehend mit der Herkunft von Wolle beschäftigt, einfach auch,
@@ -96,8 +96,8 @@ Wollgewinnungsmaschinerie passiert, kam erst vor kurzem.
 ### Gebrochene Gliedmaßen und Qualhaltung
 
 Auf der Seite von PETA stieß ich auf einen wirklich gut recherchierten Artikel
-<sup><a href="#1">1</a></sup>, der viele Fakten offen darlegte. Darin war unter
-anderem die Rede von "Kadavertonnen" für tote Lämmer, gebrochenen Gliedmaßen und
+<sup> [1](#1) </sup>, der viele Fakten offen darlegte. Darin war unter anderem
+die Rede von "Kadavertonnen" für tote Lämmer, gebrochenen Gliedmaßen und
 Qualhaltung.
 
 Ich begann zu recherchieren und plötzlich tat sich eine ganz neue, dunkle Tür
@@ -116,16 +116,16 @@ Tieren und wie wird diese Wolle gewonnen?
 
 ### Schurwolle
 
-![Schafe am Wegesrand](http://cardamonchai.com/wp-content/uploads/2014/10/14259833145_d42874d205_z-640x479.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Schafe am Wegesrand.')
+![Schafe am Wegesrand](http://cardamonchai.com/wp-content/uploads/2014/10/14259833145_d42874d205_z-640x479.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schafe am Wegesrand.")
 
 "Schurwolle", das klingt zunächst nicht mal nach Tierquälerei, denn schließlich
 werden die <strong>Schafe</strong>, von denen diese Wolle stammt, ja "nur"
 geschoren. Oder? Viele der Menschen, mit denen ich mich bisher zu dem Thema
 ausgetauscht habe, waren der Meinung, die Schafe müssten sogar geschoren werden,
 um nicht leiden zu müssen. Ein bisschen erinnerte mich das schon wieder an
-<a title="Teil 5" href="//2014/09/09/pflanzenmilch-wieso-denn-blos/">die
-Geschichte mit der Milchindustrie</a> und die landläufige Meinung der Menschen,
-Kühe würden leiden, würden sie nicht gemolken. Also rein ins Internet.
+[die Geschichte mit der Milchindustrie](//2014/09/09/pflanzenmilch-wieso-denn-blos/)
+und die landläufige Meinung der Menschen, Kühe würden leiden, würden sie nicht
+gemolken. Also rein ins Internet.
 
 Fakt ist, dass Schafen, hätten sich nicht mal wieder die Menschen eingemischt,
 nur so viel Wolle wachsen würde, wie eben nötig ist, um sie vor extremem Wetter
@@ -153,7 +153,7 @@ Pflanzenfasern, ab diesem Zeitpunkt nahm die Entwicklung ihren Lauf.
 
 ### Moderne Wollproduktion in Deutschland
 
-![Schaf | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/10/13873616033_2496f567af_z-150x150.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Schaf.')
+![Schaf | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/10/13873616033_2496f567af_z-150x150.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schaf.")
 
 "Blutige Massenzucht von Wollschafen? Das gibts doch nur in Australien. Bei uns
 gehts den Tieren doch gut!" Natürlich kann man diesen Eindruck bekommen, wenn
@@ -176,7 +176,7 @@ Transportkosten zur Sammelstelle.
 
 ### Schwerpunkt auf der Fleischproduktion
 
-![Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen](http://cardamonchai.com/wp-content/uploads/2014/10/11501550486_c0fb2d0090_z-640x480.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen.')
+![Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen](http://cardamonchai.com/wp-content/uploads/2014/10/11501550486_c0fb2d0090_z-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen.")
 
 Rund 1,6 Millionen Schafe werden derzeit in Deutschland gehalten, 10.700 davon
 sind Milchschafe (Zahlen: Statistisches Bundesamt 2013). Der Schwerpunkt liegt
@@ -199,7 +199,7 @@ Pellets verarbeitet. Der größte Abnehmer ist hier China.
 
 ### Wolle für die Bekleidungsindustrie stammt aus Australien, China und Neuseeland
 
-![Merinoschaf](http://cardamonchai.com/wp-content/uploads/2014/10/11501556376_ce12a81f12_z-640x480.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Merinoschaf.')
+![Merinoschaf](http://cardamonchai.com/wp-content/uploads/2014/10/11501556376_ce12a81f12_z-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Merinoschaf.")
 
 Selbst die Wolle der in Deutschland gezüchteten Merinoschafe kommt von ihrer
 Feinheit nicht an die ihrer australischen Verwandten ran, daher wird auch sie
@@ -226,9 +226,9 @@ Zudem herrschen auf den Schiffen häufig hohe Temperaturen über 40 Grad Celsius
 die unter den grausamen Umständen nicht selten zum Hitzeschlag führen.
 
 Beim Verladen herrscht ein brutales Klima, in den Schlachthöfen im nahen Osten
-wird den Tieren ohne Betäubung die Kehle durchtrennt (PETA deckte auf
-<sup><a href="#1">1</a></sup>). In Australien und Deutschland würde diese
-Vorgehensweise gegen die OIE (Weltorganisation für Tiergesundheit) verstoßen.
+wird den Tieren ohne Betäubung die Kehle durchtrennt (PETA deckte auf <sup>
+[1](#1) </sup>). In Australien und Deutschland würde diese Vorgehensweise gegen
+die OIE (Weltorganisation für Tiergesundheit) verstoßen.
 
 In Deutschland leben die meisten Schafe in Bayern, Baden-Württhemberg und
 Schleswig-Holstein. 884.000 Lämmchen wurden 2013 bei uns ihres Fleisches wegen
@@ -237,11 +237,11 @@ Zuchtleistung nachgelassen hat.
 
 ### Tierkinder sterben, um Tierarztkosten zu sparen
 
-![Schafe am Glastonbury Tor](http://cardamonchai.com/wp-content/uploads/2014/10/11354464146_bb430f9a5c_z-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Schafe am Glastonbury Tor.')
+![Schafe am Glastonbury Tor](http://cardamonchai.com/wp-content/uploads/2014/10/11354464146_bb430f9a5c_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schafe am Glastonbury Tor.")
 
 Deutsche Schäfer haben sehr hohe Verlustraten bei Lämmern (sechs bis 13 Prozent)
 zu verzeichnen, diese sterben bei Geburtskomplikationen oder kurz nach der
-Geburt an Unterernährung (PETA deckte auf <sup><a href="#2">2</a></sup>). Für
+Geburt an Unterernährung (PETA deckte auf <sup> [2](#2) </sup>). Für
 Großbetriebe lohnt sich die Behandlung nicht, die Tierarztkosten sprengen das
 Budget, die Tierkinder verenden und landen auf dem Müll.
 
@@ -276,10 +276,7 @@ In den Körperfalten sammelt sich jede Feuchtigkeit, mit der sie in Berührung
 kommen, Regen und Urin. Fliegen legen darin ihre Larven ab, die Larven ernähren
 sich von den Schafen, sie werden regelrecht aufgefressen.
 
-Die Fliegenmadenkrankheit wird als Myasis <sup><a href="#3">3</a></sup>
-bezeichnet. Die australischen Wollfarmer (Merinoschafe sind dort die am
-häufigsten vorkommende Schafrasse) wenden aus diesem Grund das sogenannte
-Mulesing <sup><a href="#4">4</a></sup> an.
+Die Fliegenmadenkrankheit wird als Myasis <sup> [4](#3) </sup> an.
 
 Bei diesem extrem schmerzhaften Prozess wird den Lämmern ohne Betäubung die Haut
 rund um den Schwanz entfernt. Das Schaf wird fixiert und die After-Schwanz-Falte
@@ -296,7 +293,7 @@ Verbot auferlegt, an das sich leider nicht alle halten.
 
 Doch Wolle stammt nicht nur von Schafen. Als Wolle bezeichnet man nach dem
 Textilkennzeichnungsgesetz grundsätzlich die weichen Haare des Fells von
-Säugetieren. <sup><a href="#5">5</a></sup>### Angorakaninchen
+Säugetieren. <sup> [5](#5) </sup>### Angorakaninchen
 
 ![Angora Kaninchen Bild: Peta | full](http://cardamonchai.com/wp-content/uploads/2014/10/angora-kaninchen-bild-peta.jpg "Angora Kaninchen. Bild: Peta")
 
@@ -322,7 +319,7 @@ aufgehängt und ihnen wird mit dem Messer die Kehle durchtrennt.
 
 ### Weitere Wollsorten
 
-![Schafe auf der Weide in Cornwall](http://cardamonchai.com/wp-content/uploads/2014/10/11501524574_3c0c341e5c_z-640x480.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Schafe auf der Weide in Cornwall.')
+![Schafe auf der Weide in Cornwall](http://cardamonchai.com/wp-content/uploads/2014/10/11501524574_3c0c341e5c_z-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schafe auf der Weide in Cornwall.")
 
 Außer Schafwolle (Hierzu zählen Schurwolle und Merinowolle) und Angorawolle gibt
 es unter anderem Mohair, welches von der Angoraziege stammt, die von der
@@ -363,7 +360,5 @@ Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und
 -Mützenbommel sieht, die leider in den seltensten Fällen auch aus Kunststoff
 bestehen, doch dazu mehr im achten Teil meiner Serie...
 
-<a title="Teil 7" href="/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/"><span style="text-decoration: underline;"><em><strong>Hier
-gehts zu Teil 7 des Artikels</strong></em></span></a>##
-Quellen<ul><li><a title="Statistisches Bundesamt" href="https://www.destatis.de/DE/Startseite.html" target="_blank" rel="noopener">Statistisches
-Bundesamt</a></li><li><a title="Allgäuer Schafhalter" href="http://www.allgaeuer-schafhalter.de" target="_blank" rel="noopener">allgaeuer-schafhalter.de</a></li><li><a title="aid" href="http://www.aid.de/landwirtschaft/schafe_rassen.php" target="_blank" rel="noopener">aid.de</a></li><li><a title="Focus Gewalt gegen australische Schafe" href="http://www.focus.de/panorama/videos/australische-scherer-blutige-wolle-schock-ueber-brutalen-umgang-mit-schafen_id_3988941.html" target="_blank" rel="noopener">focus.de</a></li><li><a title="Schafhaltung VEBU" href="https://www.vebu.de/themen/tiere-a-ethik/tiere-und-tierhaltung/schafe" target="_blank" rel="noopener">VEBU</a></li></ul>
+[VEBU](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+</li></ul>

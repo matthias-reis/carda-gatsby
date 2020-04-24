@@ -35,12 +35,11 @@ Anbau von Lebensmitteln einsetzen. Aus diesem Grund arbeitet sie jetzt mit
 CrowdFarming zusammen.</strong>
 
 Wie CrowdFarming genau funktioniert,
-<a href="http://cardamonchai.com/2018/11/crowdfarming/">habe ich Euch ja hier
-bereits erzählt</a>. Kurz gesagt bedeutet es, dass Endverbraucher Lebensmittel
-ohne Umwege direkt vom Hersteller (Farmer) beziehen können. Ihr könnt zum
-Beispiel Crowdfarmer werden, indem Ihr einen Baum oder ein Feld „adoptiert“ Da
-direkt auf Bestellung produziert wird, wird außerdem Lebenmittelabfall vermieden
-– that's it.
+[habe ich Euch ja hier bereits erzählt](/2018/11/crowdfarming/). Kurz gesagt
+bedeutet es, dass Endverbraucher Lebensmittel ohne Umwege direkt vom Hersteller
+(Farmer) beziehen können. Ihr könnt zum Beispiel Crowdfarmer werden, indem Ihr
+einen Baum oder ein Feld „adoptiert“ Da direkt auf Bestellung produziert wird,
+wird außerdem Lebenmittelabfall vermieden – that's it.
 
 ## Orangen aus Castellón
 
@@ -82,7 +81,6 @@ kann sie sich nun voll und ganz dem Anbau ihrer geliebten Orangen widmen.
 
 Wem jetzt das Wasser schon im Mund zusammengelaufen Interessent\*innen für eine
 Orangenbaum-Patenschaft,
-<a href="https://www.crowdfarming.com/de/farmer/la-carrasca/up/orangenbaum-patenschaft-llum" target="_blank" rel="noopener">finden
-Llums CrowdFarming Profil hier</a>.
+[finden Llums CrowdFarming Profil hier](https://www.crowdfarming.com/de/farmer/la-carrasca/up/orangenbaum-patenschaft-llum).
 
 <strong>Fotos: </strong>CrowdFarming

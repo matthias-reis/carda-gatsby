@@ -142,8 +142,7 @@ Hauch von Vanille konnte man wahrnehmen.
 
 Unser zweites Experiment, der Quince-Gin, der Gin-Likör mit Quitten-Ansatz wird
 ebenfalls in den nächsten Tagen fertig. Wir freuen uns schon auf einen
-fruchtig-herben
-Weihnachts-<a href="http://cardamonchai.com/2018/06/tom-yum-mule/">Cocktail</a>.
+fruchtig-herben Weihnachts- [Cocktail](/2018/06/tom-yum-mule/).
 
 ## Schnelldurchlauf
 
@@ -160,5 +159,4 @@ Hier nochmal im Überblick, was man alles benötigt:
 
 [glry name="2018-matze-likoerchen"]
 
-<a href="http://cardamonchai.com/2018/05/minty-fizz/">Unser exotisches "Minty
-Fizz" Cocktail Rezept findet Ihr hier</a>.
+[Unser exotisches "Minty Fizz" Cocktail Rezept findet Ihr hier](/2018/05/minty-fizz/).

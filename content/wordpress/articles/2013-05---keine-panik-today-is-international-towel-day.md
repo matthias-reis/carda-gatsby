@@ -32,16 +32,15 @@ subTitle: Das Handtuch ist gehisst!
 ---
 
 <strong>Gestern erzählte ich Euch
-<a title="Towel Day" href="/2013/05/towel-day/" target="_blank" rel="noopener">meine
-ganz persönliche Geschichte über den Towel Day</a> und die damit einhergehende
-Qual der Wahl, für welches Handtuch ich mich wohl dieses Jahr entscheiden
-werde.</strong>
+[meine ganz persönliche Geschichte über den Towel Day](/2013/05/towel-day/) und
+die damit einhergehende Qual der Wahl, für welches Handtuch ich mich wohl dieses
+Jahr entscheiden werde.</strong>
 
 Nun ist es soweit! die Würfel sind gefallen! Das Handtuch ist gehisst! Für
 welches habt Ihr Euch entschieden? Ihr habt ja wohl auch schon Euer Handtuch
 aufgehängt und hoffentlich gestern nicht zu viel am
-<a title="Towel Day" href="/2013/05/24/die-sache-mit-den-handtuchern/" target="_blank" rel="noopener">pangalaktischen
-Donnergurgler</a> genippt. oder? Das wäre unverzeihlich!
+[pangalaktischen Donnergurgler](/2013/05/24/die-sache-mit-den-handtuchern/)
+genippt. oder? Das wäre unverzeihlich!
 
 ## Keine Panik! Genießt das Wochenende!
 
@@ -50,9 +49,8 @@ Donnergurgler</a> genippt. oder? Das wäre unverzeihlich!
 Ich wünsche Euch einen tollen Tag! Die Sonne ist auch schon da. Anscheinend hat
 sich das Wetter pünktlich zu diesem hohen Feiertag doch noch dazu entschieden,
 endlich die Kurve zu kriegen,
-<a title="Towel Day" href="/2013/05/24/die-sache-mit-den-handtuchern/" target="_blank" rel="noopener">die
-Hyperraum-Expressroute</a> zu verlassen und endlich den Frühling über das
-Universum zu verstreuen!
+[die Hyperraum-Expressroute](/2013/05/24/die-sache-mit-den-handtuchern/) zu
+verlassen und endlich den Frühling über das Universum zu verstreuen!
 
 Mit intergalaktischen Grüßen
 

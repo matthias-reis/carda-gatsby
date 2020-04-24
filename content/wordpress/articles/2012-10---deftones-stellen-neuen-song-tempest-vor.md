@@ -42,7 +42,7 @@ subTitle: Album "Koi No Yokan" am 9. November
 ---
 
 <strong>Wie bereits
-<a title="Deftones stellen zwei neue Songs vor" href="http://cardamonchai.com/2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/">angekündigt</a>,
+[angekündigt](/2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/),
 wird am 9. November die neue Platte der DEFTONES "Koi No Yokan" auf den Markt
 kommen. Die Herren lassen sich nicht lumpen und koppeln mit 'Tempest' bereits
 die dritte Single aus.</strong>
@@ -59,9 +59,9 @@ Veröffentlichung kann man nun kaum noch abwarten.
 ersten Blick'.
 
 Die beiden weiteren Singleauskopplungen findet Ihr
-<a title="Deftones" href="//2012/09/04/deftones-stellen-zwei-neue-songs-vor-album-im-november/">hier</a><strong>Natürlich
-möchte ich Euch den Song nicht vorenthalten. Hier sind für Euch die DEFTONES mit
-"Tempest"</strong>
+[hier](//2012/09/04/deftones-stellen-zwei-neue-songs-vor-album-im-november/)
+<strong>Natürlich möchte ich Euch den Song nicht vorenthalten. Hier sind für
+Euch die DEFTONES mit "Tempest"</strong>
 
 [youtube=http://www.youtube.com/watch?v=GIgNBxNvAJg]
 

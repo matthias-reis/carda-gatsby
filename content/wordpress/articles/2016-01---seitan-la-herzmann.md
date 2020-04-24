@@ -118,8 +118,7 @@ gesetzt.
 Ihr könnt das Seitan direkt nach dem Kochen weiterverarbeiten, am besten lasst
 Ihr es auf einem Küchenkrepp vor dem Braten erstmal gut abtropfen. Ich habe ein
 paar Serviervorschläge hier mit eingefügt, noch mehr Rezepte findet Ihr täglich
-frisch in meinem
-<a href="https://www.instagram.com/anne_reko/" target="_blank" rel="noopener">Instagram-Feed</a>.
+frisch in meinem [Instagram-Feed](https://www.instagram.com/anne_reko/).
 
 Ich wünsche Euch viel Spaß beim Kochen und guten Appetit!
 

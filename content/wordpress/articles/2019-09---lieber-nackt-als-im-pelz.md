@@ -109,9 +109,8 @@ Vom Pelz einmal abgesehen: Natürlich handelt es sich auch bei Leder um die Haut
 von Tieren. Dabei handelt es sich übrigens nicht, wie häufig behauptet wird, um
 ein Abfallprodukt aus der Fleischproduktion (Allen, die es genauer wissen
 möchte, lege ich hierzu gerne den Film Earthlings ans Herz.
-<a href="http://www.earthlings.de/" target="_blank" rel="noopener">Er ist frei
-verfügbar und kann jederzeit kostenlos online angeschaut werden</a>.)
-Hinzukommt, dass es durch den Einsatz hochgiftiger Chemikalien bei der
+[Er ist frei verfügbar und kann jederzeit kostenlos online angeschaut werden](http://www.earthlings.de/).
+) Hinzukommt, dass es durch den Einsatz hochgiftiger Chemikalien bei der
 Herstellung eine große Umweltbelastung darstellt.
 
 Auch Wolle ist nicht tierfreundlich: Bei der industriellen Gewinnung werden
@@ -119,8 +118,7 @@ Schafe nicht nur grob geschoren und geschlagen. Beim sogenannten "Mulesing"
 werden Lämmern große Fleischstücke aus dem Hinterteil geschnitten, um die Wolle
 sie später einfacher scheren zu können. Anschließend werden die Wunden ohne
 Betäubung wieder zusammengenäht.
-<a href="http://cardamonchai.com/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/">Mehr
-über das Thema erfahrt Ihr hier</a>.
+[Mehr über das Thema erfahrt Ihr hier](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/).
 
 Mode ohne Tierleid, das sollte doch eigentlich nicht so schwer sein, oder? Ich
 bin jedenfalls dieser Meinung und werde weiter für Euch in diese Richtung
@@ -128,19 +126,17 @@ recherchieren. Dass sich Organisationen wie PETA für die Rechte der Tiere
 einsetzen und denen eine Stimme geben, die sich nicht wehren können, finde ich
 mehr als wichtig.
 
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">Wer mehr über das
-Thema "Fakepelz ist Echtpelz" erfahren möchte, kann hier im Blog
-weiterlesen</a>.
+[Wer mehr über das Thema "Fakepelz ist Echtpelz" erfahren möchte, kann hier im Blog weiterlesen](/2014/11/fakepelz-echtpelz/).
 
 Übrigens war 1994 ein äußerst spannendes Jahr. Zu diesem Thema entsteht derzeit
 ein Artikel, den ich bald mit Euch teilen werde. Also bleibt am besten dran.
 <strong>Quelle</strong>
 
-<a href="https://www.peta.de/lieber-nackt-als-im-pelz-neuauflage-kultmotiv-1994" target="_blank" rel="noopener">PETA</a>
+[PETA](https://www.peta.de/lieber-nackt-als-im-pelz-neuauflage-kultmotiv-1994)
 
 <strong>Fotos</strong>
 
 <ul>
-    <li>Aktuelle Kampagne: Emily Lucia Harnack, Svenja Holtmann, Lara Koch, Roxi Heltriegel und Kathie Lam / © Nela König für <a href="https://www.peta.de/lieber-nackt-als-im-pelz-neuauflage-kultmotiv-1994" target="_blank" rel="noopener">PETA</a></li>
+    <li>Aktuelle Kampagne: Emily Lucia Harnack, Svenja Holtmann, Lara Koch, Roxi Heltriegel und Kathie Lam / © Nela König für  [PETA](https://www.peta.de/lieber-nackt-als-im-pelz-neuauflage-kultmotiv-1994) </li>
     <li>Kampagne 2019: Emma Sjöberg, Tatjana Patitz, Heather Stewart-Whyte, Fabienne Terwinghe und Naomi Campbell / © Patrick Demarchelier für PETA</li>
 </ul>

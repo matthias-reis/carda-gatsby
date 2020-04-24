@@ -35,10 +35,9 @@ kommt mein Nachbericht - in Form einer verliebten Lobhudelei.</strong>
 
 ![arctangent](http://cardamonchai.com/wp-content/uploads/2019/08/2019-08-28-arctangent-10-400x267.jpg "Silent Disco")
 
-Das
-<a href="http://cardamonchai.com/2019/05/arctangent-festival-2019/">ArcTanGent
-Festival</a> fand vom 15. bis 17. August in der Nähe von Bristol in England
-statt. Wir waren auch dabei und sind jetzt schwer verliebt in das Event.
+Das [ArcTanGent Festival](/2019/05/arctangent-festival-2019/) fand vom 15.
+bis 17. August in der Nähe von Bristol in England statt. Wir waren auch dabei
+und sind jetzt schwer verliebt in das Event.
 
 Angereist sind Matze und ich bereits am 14. August. Am Abend gab es eine kleine
 Aufwärmfete in Form einer Silent Disco. Diese gehört für die ArcTanGent Besucher
@@ -85,8 +84,7 @@ ausschließlich nette Leute begegnet, keiner ist komplett eskaliert und es wurde
 Rücksicht aufeinander genommen. Zwischendurch wurden wir immer wieder in
 interessante Gespräche und musikalische Fachsimpeleien verwickelt.
 
-Genau wie auf dem
-<a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">DUNK!</a>
+Genau wie auf dem [DUNK!](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
 traten auf dem ArcTanGent fast ausschließlich Post-Rock und Post-Metal Bands
 auf - also genau das Richtige für uns. Wir sind schon mehr als gespannt auf das
 Line-up im nächsten Jahr. Mal sehen, ob es uns wieder hin verschlägt. Von uns

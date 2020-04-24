@@ -45,8 +45,7 @@ Band Long Distance Calling. Das besondere Highlight des Abends war ihr Auftritt,
 mit dem sie die Release ihres "Stummfilms" feierten, den sie im Frühling beim
 Konzert in der Altonaer Kulturkirche aufgenommen hatten (das habe ich mir
 natürlich auch nicht entgehen lassen.
-<a href="http://cardamonchai.com/2019/04/long-distance-calling-kulturkirche-altona/">Hier
-gehts zum Bericht</a>).
+[Hier gehts zum Bericht](/2019/04/long-distance-calling-kulturkirche-altona/) ).
 
 ## Auftakt mit Curls &amp; Nods
 
@@ -54,15 +53,7 @@ Die Türen des Skater's Palace öffneten um 16:00 Uhr. Als wir gegen 16:45
 eintrafen, war es noch relativ ruhig und wir konnten bequem auf den Sitzen im
 oberen Stockwerk Platz nehmen. Von dort aus konnten wir auch die Show des ersten
 Acts genießen.
-<a href="http://cardamonchai.com/2019/11/curls-nods-im-interview/">Curls &amp;
-Nods</a> lockerten auf der kleinen Nebenbühne die Stimmung mit ihren jazzigen
-und groovigen Vibes auf. Was für Abwechslung sorgte: Sie taten das auch in den
-Umbaupausen zwischen den weiteren Bands des Abends. Obwohl zur späteren Stunde
-der ein oder andere Song erneut gespielt wurde, machten sie das Warten damit um
-einiges kurzweiliger. (Mit Curls &amp; Nods habe ich mich im Anschluss an das
-Musikevent unterhalten.
-<a href="http://cardamonchai.com/2019/11/curls-nods-im-interview/">Das Interview
-findet Ihr hier</a>.)
+[Das Interview findet Ihr hier](/2019/11/curls-nods-im-interview/). )
 
 Auf ganzer Linie überzeugt haben mich Kuf mit ihren elektronischen Live-Sounds.
 Die Berliner lieferten auf den Punkt ab und konnten mich von der ersten Minute
@@ -81,12 +72,11 @@ vor Energie. Zwei Dinge fand ich anschließend richtig schade: dass ich mit der
 2004 gegründeten Band aus Esch-sur-Alzette bis jetzt nur so wenig beschäftigt
 habe und dass ihr Konzert nur 45 Minuten dauerte. Ich hoffe wirklich sehr, dass
 ich sie bald wieder live sehen kann (Vielleicht ja auf dem
-<a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">Dunk
-Festival</a> 2020? Dort sind sie mir 2017 das erste Mal begegnet) und
-beschäftige mich gerade mit ihrem Gesamtwerk. Es umfasst bis jetzt vier Alben.
-Auf verschiedenen Seiten im Internet werden Mutiny On The Bounty unter anderem
-mit And So I Watch You From Afar und Battles verglichen - das würde ich
-definitiv so stehen lassen.
+[Dunk Festival](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) 2020?
+Dort sind sie mir 2017 das erste Mal begegnet) und beschäftige mich gerade mit
+ihrem Gesamtwerk. Es umfasst bis jetzt vier Alben. Auf verschiedenen Seiten im
+Internet werden Mutiny On The Bounty unter anderem mit And So I Watch You From
+Afar und Battles verglichen - das würde ich definitiv so stehen lassen.
 
 [glry name="2019-11-02-motb"]
 

@@ -42,16 +42,8 @@ uns gibt es immer wieder andere Sachen zum Frühstück. Uns fällt einfach stän
 was Neues ein. </strong>
 
 Von selbst gemachtem Müsli mit Amaranth, Haferkleie, Dinkelpops, Bananen und
-Beeren, über Pancakes,
-<a href="http://cardamonchai.com/2015/03/bananenwaffeln/">Waffeln</a>, Brei und
-Porridge selbst gebackenes
-<a href="http://cardamonchai.com/2017/04/sesambrot-kichererbsenmehl/">Brot</a>
-mit
-<a href="http://cardamonchai.com/2016/10/butternut-kuerbis-mandarine-aufstrich-roh-vegan/">Aufstrichen</a>
-und Cookies bis zu leckeren
-<a href="http://cardamonchai.com/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/">Smoothies</a>
-aus frischem Obst und Gemüse ist fast alles dabei. Der Phantasie keine Grenzen
-gesetzt.
+Beeren, über Pancakes, [Smoothies](/2015/03/bananenwaffeln/) aus frischem Obst
+und Gemüse ist fast alles dabei. Der Phantasie keine Grenzen gesetzt.
 
 Heute gibt es bei uns mal wieder Rührtofu - Das ist nicht nur lecker, sondern
 auch noch leicht zuzubereiten. Ich habe ein paar Fotos gemacht und mein Rezept

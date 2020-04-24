@@ -50,7 +50,7 @@ Komponenten: der geschmorten Aubergine und den Bohnen-Bratkartoffeln.
     <li>500 g Kartoffeln</li>
     <li>180 g getrocknete Ackerbohnen (auch "Saubohnen" genannt)</li>
     <li>etwas Mehl</li>
-    <li><a href="http://cardamonchai.com/2020/02/das-kraeuterkontor-im-test/">Paprika Edelsüß</a></li>
+    <li> [Paprika Edelsüß](/2020/02/das-kraeuterkontor-im-test/) </li>
     <li>Cayennepfeffer oder Chiliflocken (je nach gewünschtem Schärfegrad)</li>
     <li>ein Schuss Essig</li>
     <li>Salz</li>

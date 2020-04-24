@@ -37,10 +37,10 @@ subTitle: Produkttest und Lifehack
 <em>Werbung &amp; Affiliate Link\*</em>
 
 <strong>Vor einiger Zeit habe ich hier im Blog die
-<a href="http://cardamonchai.com/2017/08/happybrush-der-ultimative-produkttest/">Schallzahnbürste
-von Happybrush vorgestellt</a>. Seitdem hat sich einiges getan. Inzwischen gibt
-es nicht nur verschiedene Modelle der Happybrush. Das Startup hat auch
-verschiedene vegane Zahnpasten im Angebot.</strong>
+[Schallzahnbürste von Happybrush vorgestellt](/2017/08/happybrush-der-ultimative-produkttest/).
+Seitdem hat sich einiges getan. Inzwischen gibt es nicht nur verschiedene
+Modelle der Happybrush. Das Startup hat auch verschiedene vegane Zahnpasten im
+Angebot.</strong>
 
 ![Vegane Zahnpasta von Happybrush](http://cardamonchai.com/wp-content/uploads/2018/02/39525964385_622dc2e8dc_z-300x200.jpg)
 
@@ -106,8 +106,8 @@ sind die Tuben aus Laminat schon heute zu 100 Prozent recycling-fähig.
 
 Alle Zahnpasten werden in Deutschland hergestellt, sind vegan und, was
 Allergiker interessieren dürfte, glutenfrei. Auf
-<a href="http://cardamonchai.com/2018/03/world-ocean-summit-2018/">Mikroplastik</a>
-und andere schädliche Inhaltsstoffe wird aus Überzeugung verzichtet.
+[Mikroplastik](/2018/03/world-ocean-summit-2018/) und andere schädliche
+Inhaltsstoffe wird aus Überzeugung verzichtet.
 
 ## Kooperation mit Viva Con Agua St. Pauli
 
@@ -122,16 +122,14 @@ Zahnpastatube an. Wenn die Zahnpasta zur Neige geht, kann ich sie einrollen und
 auf diese Art bis auf das letzte Bisschen Zahnpasta leer machen. Nicht schlecht,
 oder?
 
-<a href="http://cardamonchai.com/2017/08/happybrush-der-ultimative-produkttest/">Hier
-findet Ihr meinen Testbericht zur Schallzahnbürste von Happybrush</a>.
+[Hier findet Ihr meinen Testbericht zur Schallzahnbürste von Happybrush](/2017/08/happybrush-der-ultimative-produkttest/).
 
 ![](https://www.adcell.de/promotion/view/promoId/169537/slotId/80259)
 
 Zur Homepage von Happybrush geht es
-<a href="https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F" target="_blank" rel="noopener">hier
-entlang</a>
+[hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>

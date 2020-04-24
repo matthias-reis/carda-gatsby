@@ -83,23 +83,19 @@ Finde ich. Oder, was meint Ihr?
 ![veraenderungen](http://cardamonchai.com/wp-content/uploads/2019/06/veraenderungen-1-400x266.jpg "Neues ist nicht gleich schlecht.")
 
 Es gibt durchaus ein paar Dinge, bei denen wir uns dringend beeilen sollten, von
-unserem hohen Ross runterzukommen. Klimaschutz zum Beispiel. Youtuber
-Rezo<a href="#1"><sup>1</sup></a> hat recht. Es stimmt, dass eine
-<strong>Erderwärmung</strong> von einem Grad verdammt viel ist. Wenn wir so
-weitermachen, war es das bald mit uns. Mit samt unseren Legebatterien,
-Plastik-Wegwerfwindeln, Spraydosen, SUVs, Atomkraftwerken, Kohlemeilern und
-Tagebauen. Dann hilft es auch nicht mehr, wenn wir auf der Bewertungsseite des
-Nagelstudios schreiben, dass die Frau die früher unsere Gelnägel aufgeklebt hat,
-sorgfältiger vorgegangen ist.
+unserem hohen Ross runterzukommen. Klimaschutz zum Beispiel. Youtuber Rezo
+[](#1) hat recht. Es stimmt, dass eine <strong>Erderwärmung</strong> von einem
+Grad verdammt viel ist. Wenn wir so weitermachen, war es das bald mit uns. Mit
+samt unseren Legebatterien, Plastik-Wegwerfwindeln, Spraydosen, SUVs,
+Atomkraftwerken, Kohlemeilern und Tagebauen. Dann hilft es auch nicht mehr, wenn
+wir auf der Bewertungsseite des Nagelstudios schreiben, dass die Frau die früher
+unsere Gelnägel aufgeklebt hat, sorgfältiger vorgegangen ist.
 
 Dabei wird klar, dass es durchaus positive und negative Veränderungen gibt. Der
 Klimawandel ist definitiv eine der ganz negativen. Und sie wird durch die durch
 unseren Starrsinn verursachten Veränderungen ausgelöst - immer mehr Klimagase
-durch immer mehr
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">Massentierhaltung</a>,
-Flugverkehr, große Dieselautos, Kohlekraftwerke und so weiter und so weiter. Mai
-von MaiLab<a href="#2"><sup>2</sup></a> formuliert das in ihrer
-wissenschaftlichen Betrachtung des Reza Videos so:
+durch immer mehr [](/2014/09/pflanzenmilch-wieso-denn-blos/) formuliert das in
+ihrer wissenschaftlichen Betrachtung des Reza Videos so:
 
 <blockquote>"Die Evolution kommt nicht mehr mit bei den vielen drastischen Veränderungen auf dem Planeten. Wir befinden uns jetzt schon im kritischen Bereich und nur mit einer krassen Umstellung ist die Schadensbegrenzung noch machbar."</blockquote>
 
@@ -150,8 +146,7 @@ wieder. Von den verschiedensten Menschen. Vorgetragen im Brustton der
 sicher früher oder später zu einem\*r Überzeugungstäter\*in. Das ist so sicher
 wie das Amen in der Kirche.
 
-Selbstfahrende Autos,
-<a href="http://cardamonchai.com/2019/05/neue-mitte-altona/">Neubausiedlungen</a>,
+Selbstfahrende Autos, [Neubausiedlungen](/2019/05/neue-mitte-altona/),
 Elektromotoren - das alles jagt vielen erstmal einen Schrecken ein. Aber
 Neuerungen bedeuten nicht nur Gentrifizierungswahnsinn, bösartige Roboter, die
 uns unsere Menschlichkeit rauben wollen und Stromschläge. Sie bedeuten auch,
@@ -207,17 +202,17 @@ paar Jahren hat es eine Menge Geschrei deswegen gegeben. Innovation - man muss
 sich nur damit beschäftigen. Plötzlich ist es das Normalste auf der Welt.
 
 Neue Formen der Gemeinschaft und des Zusammenlebens wie integrative Wohngruppen,
-Mehrgenerationenhaushalte und moderne Apps wie
-nebenan.de<a href="#3"><sup>3</sup></a> bringen Menschen aller Generationen,
-Formen und Farben zusammen und das macht mich sehr glücklich. Vernetzung bringt
-uns weiter und bewahrt uns vor Stillstand und Vereinsamung.
+Mehrgenerationenhaushalte und moderne Apps wie nebenan.de [](#3)  bringen
+Menschen aller Generationen, Formen und Farben zusammen und das macht mich sehr
+glücklich. Vernetzung bringt uns weiter und bewahrt uns vor Stillstand und
+Vereinsamung.
 
 "Veränderung ist geil",
 
-so steht es auch im Editorial der neuesten Missy
-Magazine<a href="#4"><sup>4</sup></a> Ausgabe. Da geht es zwar um den Trend zum
-Make-over mit Serien wie "Queer Eye" der Japanischen Aufräumkünstlerin Marie
-Kondo - das gilt aber auch für alle anderen Lebensbereiche, finde ich.
+so steht es auch im Editorial der neuesten Missy Magazine [](#4) Ausgabe. Da
+geht es zwar um den Trend zum Make-over mit Serien wie "Queer Eye" der
+Japanischen Aufräumkünstlerin Marie Kondo - das gilt aber auch für alle anderen
+Lebensbereiche, finde ich.
 
 Mit neuen Einwanderern kommen neue Kulturen, die wiederum ihre Erfahrungen,
 Traditionen, Küche, Musik und Ideen mitbringen. Für uns alle ist das ein
@@ -230,8 +225,8 @@ intelligenter, kreativer, sicherer, gesünder, sozialer und nicht zuletzt
 glücklicher werden.
 
 <ul>
-    <li id="1">[1] <a href="https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM" target="_blank" rel="noopener">Rezo - "Die Zerstörung der CDU"</a></li>
-    <li id="2">[2] <a href="https://www.youtube.com/watch?v=4Y1lZQsyuSQ&amp;t=1089s" target="_blank" rel="noopener">Mai von MaiLab - "Rezo wissenschaftlich geprüft"</a></li>
-    <li id="3">[3] <a href="https://nebenan.de/" target="_blank" rel="noopener">Die Nachbarschaftsapp "nebenan.de"</a></li>
-    <li id="4">[4] <a href="https://missy-magazine.de/" target="_blank" rel="noopener">Missy Magazine</a></li>
+    <li id="1">[1]  [Rezo - "Die Zerstörung der CDU"](https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM) </li>
+    <li id="2">[2]  [Mai von MaiLab - "Rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&amp;t=1089s) </li>
+    <li id="3">[3]  [Die Nachbarschaftsapp "nebenan.de"](https://nebenan.de/) </li>
+    <li id="4">[4]  [Missy Magazine](https://missy-magazine.de/) </li>
 </ul>

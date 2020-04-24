@@ -101,20 +101,19 @@ Thema sein und in den Köpfen bleiben.
 
 <strong>Thomas:</strong> Viele Menschen denken einfach gar nicht daran. Sie
 sehen den Besatz und ihnen kommt dabei einfach nicht in den Sinn,
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">dass es sich dabei
-vielleicht um Echtpelz handeln könnte</a>. Solange das der Fall ist, können sie
-auch nicht aktiv darauf achten. Daher sehe ich uns und auch alle anderen
-Tierschützer in der Pflicht, das Bewusstsein dafür zu steigern.
+[dass es sich dabei vielleicht um Echtpelz handeln könnte](/2014/11/fakepelz-echtpelz/).
+Solange das der Fall ist, können sie auch nicht aktiv darauf achten. Daher sehe
+ich uns und auch alle anderen Tierschützer in der Pflicht, das Bewusstsein dafür
+zu steigern.
 
 <strong>Anne:</strong> Tierisches versteckt sich ja nicht nur in Kleidung,
 sondern auch in Lebensmitteln,
-<a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">Essig,
-Säfte und Weine werden mit Gelatine oder Fischblase geklärt, in Chips ist
-Wild</a> enthalten, obwohl auf der Packung kein Hinweis in die Richtung zu
-finden ist und in Schokolade befindet sich Schellack. Die Menschen essen das
-einfach mit und wissen zum Großteil gar nicht, dass sie beim Verzehren dieser
-Lebensmittel Tierisches zu sich nehmen. Was kann man tun, um hier in Zukunft für
-mehr Aufklärung zu sorgen und die Menschen besser zu sensibilisieren?
+[Essig, Säfte und Weine werden mit Gelatine oder Fischblase geklärt, in Chips ist Wild](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+enthalten, obwohl auf der Packung kein Hinweis in die Richtung zu finden ist und
+in Schokolade befindet sich Schellack. Die Menschen essen das einfach mit und
+wissen zum Großteil gar nicht, dass sie beim Verzehren dieser Lebensmittel
+Tierisches zu sich nehmen. Was kann man tun, um hier in Zukunft für mehr
+Aufklärung zu sorgen und die Menschen besser zu sensibilisieren?
 
 ![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-4-400x600.jpg)
 
@@ -147,7 +146,7 @@ kognitiver Dissonanz eben.
 gegen Käfig- und Bodenhaltung bei Hühnern gemacht und damit darauf aufmerksam
 gemacht, wie viel Leid im Frühstücksei steckt. Grundsätzlich sind wir gegen jede
 Form der Tierquälerei, auch gegen Tiere im Zirkus und gegen
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/" target="_blank" rel="noopener">Tierversuche</a>.
+[Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/).
 Außerdem unterstützen wir auch andere Organisationen bei ihren Demonstrationen.
 Wenn irgendwo Bedarf herrscht, handeln wir. Hauptaugenmerk liegt unter anderem
 auf der Hühnerhaltung und auf der Fischerei, weil hier statistisch gesehen die
@@ -262,12 +261,12 @@ Leid, dem die Speisen entstammen.
 ## Tierleidfreie Alternativen
 
 Wenn es also tierleidfreie Alternativen gibt, spricht doch nichts dagegen. Was
-erwarten die Menschen denn
-(<a href="https://graslutscher.de/guten-tag-ich-hatte-gerne-2-kilo-sojahack-in-oktaeder-form-bitte/" target="_blank" rel="noopener">zitiert
-den Graslutscher</a>)? "Dass vegane Wurst in Zukunft nur noch in Oktaederform
-gepresst verkauft wird, damit sie nicht an Wurst aus Fleisch erinnert? Dann
-sollten aber Abstinenzler ihr alkoholfreies Bier auch nicht mehr aus
-Bierflaschen trinken, sondern aus Bratpfannen mit Strohhalmen drin.” (lacht).
+erwarten die Menschen denn (
+[zitiert den Graslutscher](https://graslutscher.de/guten-tag-ich-hatte-gerne-2-kilo-sojahack-in-oktaeder-form-bitte/)
+)? "Dass vegane Wurst in Zukunft nur noch in Oktaederform gepresst verkauft
+wird, damit sie nicht an Wurst aus Fleisch erinnert? Dann sollten aber
+Abstinenzler ihr alkoholfreies Bier auch nicht mehr aus Bierflaschen trinken,
+sondern aus Bratpfannen mit Strohhalmen drin.” (lacht).
 
 <strong>Anne:</strong> Eine Sache, die jeder Mensch für den Tierschutz tun
 sollte? Thomas: Wer Tiere schützen will, sollte sie nicht essen. Alles andere
@@ -312,7 +311,7 @@ schwarzer Kleidung zu kommen. Es kam also eins zum anderen, kann man sagen.
 möglichst vielen Teilnehmern und Presserummel. Welches Projekt steht für dich
 persönlich und für die TiA als nächstes an?
 
-## Als Nächstes steht das Thema "Milch" auf der Agenda<strong>Thomas:</strong> Die TiA wird sich als nächstes mit <a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/" target="_blank" rel="noopener">dem Thema Milch</a> befassen. Auch ist ab Ende Oktober wieder ein Zirkus mit Tieren in der Stadt, dort hat eine Aktivistin täglich eine Protestkundgebung angemeldet, natürlich sind wir da auch mit dabei.
+## Als Nächstes steht das Thema "Milch" auf der Agenda<strong>Thomas:</strong> Die TiA wird sich als nächstes mit [dem Thema Milch](/2014/09/pflanzenmilch-wieso-denn-blos/) befassen. Auch ist ab Ende Oktober wieder ein Zirkus mit Tieren in der Stadt, dort hat eine Aktivistin täglich eine Protestkundgebung angemeldet, natürlich sind wir da auch mit dabei.
 
 <strong>Anne:</strong> Vielen Dank noch mal für das tolle Interview! Es war mir
 eine Freude, deine Bekanntschaft zu machen!
@@ -325,8 +324,6 @@ An der Demonstration "Augsburg Pelzfrei" der Tierrechtsinitiative Augsburg haben
 scheinbar spontan immer wieder Personen dem Zug an und marschierten mit, weshalb
 es am Ende noch einige mehr waren. Wer sich für die Arbeit der TiA interessiert
 und sich gerne darüber informieren möchte,
-<a href="https://www.ag-tierrechte.de/" target="_blank" rel="noopener">kann dies
-unter diesem Link tun</a>.
+[kann dies unter diesem Link tun](https://www.ag-tierrechte.de/).
 
-<a href="https://www.volksverpetzer.de/" target="_blank" rel="noopener">Den
-Volksverpetzer kennt Ihr ja ganz bestimmt schon</a>.
+[Den Volksverpetzer kennt Ihr ja ganz bestimmt schon](https://www.volksverpetzer.de/).

@@ -71,7 +71,7 @@ Rund 3.000 Unterschriften sind noch nötig, damit das Ziel erreicht wird. Jede
 Stimme zählt. Darum würde ich mich sehr freuen, wenn Ihr die Petition
 mitzeichnet. Ihr könnt das ganz leicht unter dem folgenden Link tun:
 
-<blockquote><a href="http://www.change.org/stopptrueckwuerfe/?&amp;wc=FA" target="_blank" rel="noopener">PETITION JETZT MITZEICHNEN</a></blockquote>
+<blockquote> [PETITION JETZT MITZEICHNEN](http://www.change.org/stopptrueckwuerfe/?&amp;wc=FA) </blockquote>
 
 ![Deutsche Umwelthilfe](http://cardamonchai.com/wp-content/uploads/2018/09/29821427417_6cc79d3df4_z-400x300.jpg)
 
@@ -80,9 +80,9 @@ zum Thema Meeresschutz auf dem Laufenden.
 
 Wie wir mithilfe einer simplen Handy-App alle gemeinsam etwas gegen die drohende
 Plastikflut im Meer tun können, könnt Ihr
-<a href="http://cardamonchai.com/2018/08/replace-plastic-app-kueste-gegen-plastik/">hier
-nachlesen</a>.
+[hier nachlesen](/2018/08/replace-plastic-app-kueste-gegen-plastik/).
 
 <em>\*Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
-dadurch nicht beeinflusst. Weitere
-Infos: <a href="https://www.trusted-blogs.com/werbekennzeichnung" target="_blank" rel="noopener">www.trusted-blogs.com/werbekennzeichnung</a></em>
+dadurch nicht beeinflusst. Weitere Infos: 
+[www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)
+</em>

@@ -53,10 +53,11 @@ subTitle: Tagebucheintrag
 heutigen Zeit verloren? Ist er denn überhaupt noch auf dem neuesten
 Stand?</strong><p style="text-align: left;">Vom Tod des Märchenprinzen schrieb
 hier erinnye auf Störstoff – Das
-Schreib-Kombinat:</p><p style="text-align: left;"><a href="http://wp.me/p1FJnD-jU">Wir
-wollen keine Märchen</a>.</p><p style="text-align: left;">Ein wundervolles,
-wahres Gedicht. Ist es wirklich so, dass immer weniger Menschen an Märchen
-glauben? Wäre das nicht schön? Einer nach dem anderen wacht aus seinem
-Dornröschenschlaf auf, sperrt den Prinzen in den Glassarg, bekleidet sich mit
-Sicherheitsschuhen, krempelt die Ärmel hoch und beginnt endlich was zu
+Schreib-Kombinat:</p><p style="text-align: left;">
+[Wir wollen keine Märchen](http://wp.me/p1FJnD-jU).
+</p><p style="text-align: left;">Ein wundervolles, wahres Gedicht. Ist es
+wirklich so, dass immer weniger Menschen an Märchen glauben? Wäre das nicht
+schön? Einer nach dem anderen wacht aus seinem Dornröschenschlaf auf, sperrt den
+Prinzen in den Glassarg, bekleidet sich mit Sicherheitsschuhen, krempelt die
+Ärmel hoch und beginnt endlich was zu
 tun.</p><a href="http://cardamonchai.files.wordpress.com/2012/07/591336_web_r_k_b_by_alexander-dreher_pixelio-de.jpg">

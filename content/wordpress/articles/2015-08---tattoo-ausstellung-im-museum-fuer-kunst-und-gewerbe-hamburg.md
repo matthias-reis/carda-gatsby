@@ -46,17 +46,16 @@ Handwerkszeug von Tattooartists verschiedener Epochen weltweit.
 
 ## Das Tattoo im Wandel der Zeit
 
-Von meiner
-<a href="http://cardamonchai.com/2014/08/wie-picasso-nur-mit-strom/" target="_blank" rel="noopener">Vorliebe
-für Tätowierungen</a> habe ich Euch ja schon ausführlich berichtet. Für den
-Herzmann und mich war es natürlich eine Ehre und auch ein kleines Highlight, als
-wir von den Ausstellern gefragt wurden, ob wir uns spontan fotografieren lassen
-würden. In trauter Zweisamkeit posierten wir vor den Exponaten und wurden
-abgelichtet. Die Bilder werden zwar nicht veröffentlicht, sondern landen in der
-Sammlung des Kurators, aber eine schöne Erinnerung bleibt für uns, auch wenn wir
-sie nicht sehen können.
+Von meiner [Vorliebe für Tätowierungen](/2014/08/wie-picasso-nur-mit-strom/)
+habe ich Euch ja schon ausführlich berichtet. Für den Herzmann und mich war es
+natürlich eine Ehre und auch ein kleines Highlight, als wir von den Ausstellern
+gefragt wurden, ob wir uns spontan fotografieren lassen würden. In trauter
+Zweisamkeit posierten wir vor den Exponaten und wurden abgelichtet. Die Bilder
+werden zwar nicht veröffentlicht, sondern landen in der Sammlung des Kurators,
+aber eine schöne Erinnerung bleibt für uns, auch wenn wir sie nicht sehen
+können.
 
 [myflickr tag="tattoomkg"]
 
-<a href="http://www.mkg-hamburg.de/de/home.html" target="_blank" rel="noopener">Homepage</a>
-Museum für Kunst und Gewerbe Hamburg
+[Homepage](http://www.mkg-hamburg.de/de/home.html) Museum für Kunst und Gewerbe
+Hamburg

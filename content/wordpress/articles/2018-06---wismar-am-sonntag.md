@@ -72,9 +72,9 @@ die Autos.
 ## Zurück zu unserem Ausflug
 
 Nach einem tollen Sorbeteis geht es weiter. Schiefe Häuser habe ich schon in
-<a href="http://cardamonchai.com/2009/08/ulm/">Ulm</a> lieben gelernt. Am Hafen
-ist ein Stadtfest und lädt uns mit einer Mini-Regatta zum Verweilen ein. So
-lange, bis wir uns dann wieder auf den Weg nach Hause machen.
+[Ulm](/2009/08/ulm/) lieben gelernt. Am Hafen ist ein Stadtfest und lädt uns mit
+einer Mini-Regatta zum Verweilen ein. So lange, bis wir uns dann wieder auf den
+Weg nach Hause machen.
 
 Die Fotos zu diesem Artikel sind letzten Sonntag in der schönen Hansestadt
 Wismar entstanden.

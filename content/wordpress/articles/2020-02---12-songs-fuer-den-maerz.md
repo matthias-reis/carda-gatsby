@@ -72,11 +72,11 @@ Neuveröffentlichung auf mich.</strong>
 Meine persönliche Playlist des Monats umfasst daher ganze 24 Stücke. Und das ist
 nur die Crème de la Crème der Platten, die ich insgesamt gehört habe. Neben
 Pearl Jam und Trail Of Dead (Beide waren in der
-<a href="http://cardamonchai.com/2020/01/12-songs-fuer-den-februar/">Musikliste
-für den Februar</a> dabei) haben inzwischen auch "alte Bekannte" wie Green Day
-Platten in die Verkaufsregale geworfen. Und hatten wir letzten Monat noch aus
-Nostalgiegründen ein Incubus dazugepackt? Gibt es das? Kaum ein paar Tage später
-haben die Typen wirklich eine neue Platte veröffentlicht.
+[Musikliste für den Februar](/2020/01/12-songs-fuer-den-februar/) dabei) haben
+inzwischen auch "alte Bekannte" wie Green Day Platten in die Verkaufsregale
+geworfen. Und hatten wir letzten Monat noch aus Nostalgiegründen ein Incubus
+dazugepackt? Gibt es das? Kaum ein paar Tage später haben die Typen wirklich
+eine neue Platte veröffentlicht.
 
 Für unsere Monatsliste habe ich natürlich, genau wie Matze und Valentin, noch
 mal gefiltert. Unterm Strich sind dann vier wirklich ganz besondere Stücke
@@ -90,13 +90,13 @@ immer unsere Playlists für iTunes und Spotify!
 
 ### Die Sterne - "Der Palast ist leer" vom neuen Album "Die Sterne"
 
-<a href="http://cardamonchai.com/2014/09/flucht-in-die-flucht/">Die Sterne</a>
-haben ganz ohne mich vorher zu fragen ein neues Album aufgenommen und ich bin
-sprachlos! Dieses Musikpaket wird aller Voraussicht nach wieder wunderbar! Ich
-muss mich ganz unbedingt noch viele Stunden damit beschäftigen und kann nicht
-garantieren, dass die Liste für den April nicht ein weiteres Stück Sternenhimmel
-enthält. Bis jetzt gibt es drei Vorauskopplungen von "die Sterne". Ich habe "Der
-Palast ist leer" für Euch ausgesucht.  Hört mal rein! Was meint Ihr?
+[Die Sterne](/2014/09/flucht-in-die-flucht/) haben ganz ohne mich vorher zu
+fragen ein neues Album aufgenommen und ich bin sprachlos! Dieses Musikpaket wird
+aller Voraussicht nach wieder wunderbar! Ich muss mich ganz unbedingt noch viele
+Stunden damit beschäftigen und kann nicht garantieren, dass die Liste für den
+April nicht ein weiteres Stück Sternenhimmel enthält. Bis jetzt gibt es drei
+Vorauskopplungen von "die Sterne". Ich habe "Der Palast ist leer" für Euch
+ausgesucht.  Hört mal rein! Was meint Ihr?
 
 <iframe src="https://www.youtube.com/embed/xwzpX6FgzYE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -192,7 +192,7 @@ iTunes Hörer⋆innen klicken hier
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-02-25-die-drei-von-der-bande/pl.u-gEeGS8RXNXl" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></h3>
 
 Hat Euch unsere Liste gefallen? Ihr findet jeden Monat eine neue hier im Blog.
-Infos über frische Beiträge gibt es einmal pro Woche <a href="#newsletter">in
-meinem Newsletter</a>.
+Infos über frische Beiträge gibt es einmal pro Woche
+[in meinem Newsletter](#newsletter).
 
 ![12-songs-fuer-den-maerz | large](http://cardamonchai.com/wp-content/uploads/2020/02/12-songs-pin-520x780.jpg)

@@ -82,5 +82,7 @@ diente es dann als Residenz des Münchner Kapital-Offizials. 1803 wurden dann di
 Güter im Zuge der Säkularisierung (Verweltlichung kirchlicher Güter im
 Kurfürstentum Bayern von 1802 bis 1803) verkauft.
 
-<strong>Quellen:</strong><a href="http://wikipedia.de/" rel="nofollow">http://wikipedia.de/</a><a href="http://ilmmuenster.pfaffenhofen.de/" rel="nofollow">http://ilmmuenster.pfaffenhofen.de/</a><span style="text-decoration: underline;">[myflickr
-tag="anneilmmuenster2009"] </span>
+<strong>Quellen:</strong>
+[http://ilmmuenster.pfaffenhofen.de/](http://wikipedia.de/)
+<span style="text-decoration: underline;">[myflickr tag="anneilmmuenster2009"]
+</span>

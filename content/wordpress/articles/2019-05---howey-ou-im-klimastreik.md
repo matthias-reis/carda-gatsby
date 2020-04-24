@@ -41,7 +41,7 @@ Maßnahmen ergreifen.
 
 <blockquote class="twitter-tweet">
 <p dir="ltr" lang="en">I will keep doing Climate Strike everyday before I got next plan that maybe build international connections with some organizations then strengthen power outsides to insides .Hope all is well.Globally.</p>
-— Howey Ou (@howey_ou) <a href="https://twitter.com/howey_ou/status/1132004463311409153?ref_src=twsrc%5Etfw">May 24, 2019</a></blockquote>
+— Howey Ou (@howey_ou)  [May 24, 2019](https://twitter.com/howey_ou/status/1132004463311409153?ref_src=twsrc%5Etfw) </blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -50,8 +50,8 @@ an, dass China sich in der Debatte um den Klimaschutz bisher sehr bedeckt
 gehalten hat.
 
 <blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">This is the Day 2 of School Striking for Climate. <a href="https://t.co/5lEesOgX29">pic.twitter.com/5lEesOgX29</a></p>
-— Howey Ou (@howey_ou) <a href="https://twitter.com/howey_ou/status/1133082582004903939?ref_src=twsrc%5Etfw">May 27, 2019</a></blockquote>
+<p dir="ltr" lang="en">This is the Day 2 of School Striking for Climate.  [pic.twitter.com/5lEesOgX29](https://t.co/5lEesOgX29) </p>
+— Howey Ou (@howey_ou)  [May 27, 2019](https://twitter.com/howey_ou/status/1133082582004903939?ref_src=twsrc%5Etfw) </blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -74,8 +74,8 @@ China Mainland" twitterte sie am 24. Mai. "Das ist der erste Klimastreik auf dem
 Chinesischen Festland."
 
 <blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Actually,I haven’t been to the Guilin People’s Government before,it is big than I thought.And it has about 21 kilometers from my home.And I didn’t stay there long ,feel guilty to say. But I will keep on doing it everyday,till get next plan.Hope to have next development.I can wait <a href="https://t.co/DAiEmlFkvo">pic.twitter.com/DAiEmlFkvo</a></p>
-— Howey Ou (@howey_ou) <a href="https://twitter.com/howey_ou/status/1131951492913541121?ref_src=twsrc%5Etfw">May 24, 2019</a></blockquote>
+<p dir="ltr" lang="en">Actually,I haven’t been to the Guilin People’s Government before,it is big than I thought.And it has about 21 kilometers from my home.And I didn’t stay there long ,feel guilty to say. But I will keep on doing it everyday,till get next plan.Hope to have next development.I can wait  [pic.twitter.com/DAiEmlFkvo](https://t.co/DAiEmlFkvo) </p>
+— Howey Ou (@howey_ou)  [May 24, 2019](https://twitter.com/howey_ou/status/1131951492913541121?ref_src=twsrc%5Etfw) </blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -98,24 +98,22 @@ entfernt ist, zeigt mehr als nur Mut.
 <p dir="ltr" lang="en">The Day 3 of School Strike for Climate.If you don’t trust me ,look at the Chinese flag.</p>
 Thank you for all your support and the strikers who are panic.I have seen all your reviews carefully,though some of them I didn’t reply.
 
-Sorry! <a href="https://t.co/L0VU8uO6WY">pic.twitter.com/L0VU8uO6WY</a>
+Sorry! [pic.twitter.com/L0VU8uO6WY](https://t.co/L0VU8uO6WY)
 
 — Howey Ou (@howey_ou)
-<a href="https://twitter.com/howey_ou/status/1133366733505421313?ref_src=twsrc%5Etfw">May
-28, 2019</a></blockquote>
+[May 28, 2019](https://twitter.com/howey_ou/status/1133366733505421313?ref_src=twsrc%5Etfw)
+</blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quellen:
 
-<a href="https://twitter.com/howey_ou" target="_blank" rel="noopener">Howey Ou
-Twitter</a>
+[Howey Ou Twitter](https://twitter.com/howey_ou)
 
-<a href="https://www.t-online.de/nachrichten/ausland/krisen/id_85829546/vorbild-greta-thunberg-howey-ou-16-in-china-ganz-allein-im-klimastreik.html">t-online.de</a>
+[t-online.de](https://www.t-online.de/nachrichten/ausland/krisen/id_85829546/vorbild-greta-thunberg-howey-ou-16-in-china-ganz-allein-im-klimastreik.html)
 
 ### Bilder:
 
-Howey Ou privat
-(<a href="https://twitter.com/howey_ou" target="_blank" rel="noopener">Twitter</a>)
+Howey Ou privat ( [Twitter](https://twitter.com/howey_ou) )
 
 &nbsp;

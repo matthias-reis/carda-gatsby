@@ -40,13 +40,12 @@ Wo genau es hingehen wird, verrate ich Euch später, was ich mitnehme, erfahrt
 Ihr schon heute.</strong>
 
 Gestern habe ich Euch zwei besondere
-<a href="http://cardamonchai.com/2018/06/mit-santaverde-auf-reisen/">Urlaubsbegleiter
-aus der Beauty-Ecke</a> vorgestellt, heute lernt Ihr einen aus der Food-Ecke
-kennen.
+[Urlaubsbegleiter aus der Beauty-Ecke](/2018/06/mit-santaverde-auf-reisen/)
+vorgestellt, heute lernt Ihr einen aus der Food-Ecke kennen.
 
 Die Konjak-Nudeln von Vitanu habe ich erst vor Kurzem kennen und lieben gelernt.
 Sie sind nämlich nicht nur im Urlaub praktische Begleiter, sondern auch auf
-<a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">Festivals</a>.
+[Festivals](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/).
 
 ## Jetzt schnell etwas essen!
 
@@ -112,8 +111,8 @@ Wenn man möchte, kann man sie auch als Einlage in eine Suppe packen oder als
 Salat anrichten. Besonders gut stelle ich mir das in der Asiatischen Variante
 zum Beispiel mit frischem Koriander, Chili, Limettensaft, Nüssen und zum
 Beispiel Mango vor.
-<a href="http://cardamonchai.com/2017/03/glasnudelsalat-mit-mango-vegan/">Hier
-findet Ihr ein Rezept</a>, das in diese Richtung geht.
+[Hier findet Ihr ein Rezept](/2017/03/glasnudelsalat-mit-mango-vegan/), das in
+diese Richtung geht.
 
 Ich muss gestehen, dass ich die Vitanu Noodels bis jetzt nur unterwegs genossen
 habe und dann einfach eine fertige Tomatensause aus dem Glas darüber gegeben
@@ -141,15 +140,12 @@ mediterran über asiatisch bis hin zu klassisch herzhafter Hausmannskost.
 Die Nudeln wandern jetzt in mein Reisegepäck. Ihr habt hiermit meine Empfehlung,
 sie auf Eure nächste Reise auch mitzunehmen. Vor der Urlaubspause gibt es hier
 noch ein paar weitere spannende Artikel. Und im Anschluss hoffentlich wieder
-eine bildreiche
-<a href="https://cardamonchai.com/tag/irland2017/">Reisereportage</a>. Bleibt
-also dran! Es bleibt spannend!
+eine bildreiche [Reisereportage](/tag/irland2017/). Bleibt also dran! Es bleibt
+spannend!
 
 Wer die Nudeln von Vitanu auch mal testen möchte, kann sie
-<a href="https://www.vitanu.de/webshop?product=bio-konjak-nudeln" target="_blank" rel="noopener">hier
-bestellen</a>.
+[hier bestellen](https://www.vitanu.de/webshop?product=bio-konjak-nudeln).
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

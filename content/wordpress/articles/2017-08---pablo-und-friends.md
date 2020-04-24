@@ -95,9 +95,8 @@ den Koriander und die Chili- und Tomatenstückchen unterheben und vor dem
 servieren noch etwas kühlen. Passt perfekt also Dip, Sauce, Brotaufstrich oder
 einfach so pur. Dazu gibt es ein kühles Cerveza. Guten Appetit!
 
-\*Hier geht es zur
-<a href="https://www.pabloandfriends.com/" target="_blank" rel="noopener">Homepage</a>
-von Pablo &amp; Friends
+\*Hier geht es zur [Homepage](https://www.pabloandfriends.com/) von Pablo &amp;
+Friends
 
 [myflickr tag="annepablo"]
 
@@ -106,6 +105,6 @@ Text spiegelt meine persönlichen Erfahrungswerte wider und erhebt somit keinen
 Anspruch auf Allgemeingültigkeit
 
 <em>\*Hinweis: Dieser Artikel enthält Werbung und entstand im Zusammenhang mit
-Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht
-beeinflusst.<a href="https://www.trusted-blogs.com/tipps/werbekennzeichnung" target="_blank" rel="noopener">
-Für Infos dazu bitte hier klicken</a>.</em>
+Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.
+[Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
+</em>

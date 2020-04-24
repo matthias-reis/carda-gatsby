@@ -45,11 +45,11 @@ ihre ganz eigenen, für sie charakteristischen Hagebutten hervorbringt?</strong>
 Die wenigstens sind übrigens orange und auch in der Form unterscheiden sie sich
 stark. Im Botanischen Garten gibt es im Herbst natürlich noch vieles mehr zu
 sehen. Es tummeln sich dort z. B. auch jede Menge
-<a href="/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/">Bienen</a>
-und Hummeln.
+[Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) und
+Hummeln.
 
 Hier sind meine Eindrücke aus dem Loki Schmidt Garten
 
 [myflickr tag="annelokischmidtgarten2015"]
 
-## Wegweiser Loki Schmidt Garten<ol><li>Indian Summer</li><li><a href="http://cardamonchai.com/2016/08/spaetsommer-loki-schmidt-garten/">Spätsommer</a></li><li><a href="http://cardamonchai.com/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/">Frühlingsboten</a></li><li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai</a></li><li><a href="http://cardamonchai.com/2019/09/september-im-loki-schmidt-garten/">September</a></li></ol>
+## Wegweiser Loki Schmidt Garten<ol><li>Indian Summer</li><li> [September](/2016/08/spaetsommer-loki-schmidt-garten/) </li></ol>

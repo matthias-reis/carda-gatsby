@@ -95,9 +95,8 @@ Vorschriften sei dank, nur in begrenzten Mengen nutzen. Mag sein, dass sich das
 
 Habt Ihr auch Lust auf ein gemeinsames Bauprojekt mit Euren Lieben bekommen?
 Mehr über Earthships findet Ihr
-<a href="http://www.earthship-tempelhof.de/" target="_blank" rel="noopener">auf
-der offiziellen Homepage des Earthship-Projekts Berlin Tempelhof</a>. Die
-Bewohner freuen sich auch über Spenden. Auf dem Tempelhofer Earthship-Gelände
-finden regelmäßig Führungen für Neugierige statt.
+[auf der offiziellen Homepage des Earthship-Projekts Berlin Tempelhof](http://www.earthship-tempelhof.de/).
+Die Bewohner freuen sich auch über Spenden. Auf dem Tempelhofer
+Earthship-Gelände finden regelmäßig Führungen für Neugierige statt.
 
 Fotos: Earthship Berlin Tempelhof

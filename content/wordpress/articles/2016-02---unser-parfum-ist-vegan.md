@@ -64,10 +64,8 @@ Wer jetzt neugierig geworden ist: Weitere Informationen sind direkt auf der
 Homepage von XAXX zu finden. Dort können unter anderem auch Proben der
 verschiedenen Duftvariationen geordert werden.
 
-<a href="http://cardamonchai.com/2017/07/von-xaxx-gibt-es-jetzt-auch-duschgele/">Vegan
-duschen mit XAXX</a>
+[Vegan duschen mit XAXX](/2017/07/von-xaxx-gibt-es-jetzt-auch-duschgele/)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

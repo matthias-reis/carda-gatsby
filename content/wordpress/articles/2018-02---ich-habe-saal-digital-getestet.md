@@ -46,18 +46,16 @@ professionell ausdrucken lassen und aufhängen.</strong>
 ![Saal Digital](http://cardamonchai.com/wp-content/uploads/2018/02/16261603421_1b513bf868_z-300x300.jpg "Das Originalbild")
 
 Das Bild war schnell gefunden: Ein Beo, den ich bei unserer
-<a href="http://cardamonchai.com/2015/09/unterwegs-in-sri-lanka/">Sri Lanka
-Reise</a> fotografiert hatte. Es erinnert uns an einen ganz besonderen Tag, den
-wir nie vergessen werden und die Vorstellung, es jeden Tag beim Aufwachen zu
-sehen, gefiel uns.
+[Sri Lanka Reise](/2015/09/unterwegs-in-sri-lanka/) fotografiert hatte. Es
+erinnert uns an einen ganz besonderen Tag, den wir nie vergessen werden und die
+Vorstellung, es jeden Tag beim Aufwachen zu sehen, gefiel uns.
 
 ## Saal Digital aus Röttenbach
 
 Gesagt getan, ich entschloss mich, mal den Service von Saal Digital zu testen.
 Die Fotodruckerei ist im Fränkischen Röttenbach ansässig und hat neben
 Wandbildern auch noch diverse andere Fotoprodukte wie Bücher, Karten,
-<a href="http://cardamonchai.com/2017/11/kartenmacherei/">Kalender</a> und
-Poster im Angebot.
+[Kalender](/2017/11/kartenmacherei/) und Poster im Angebot.
 
 Die Webseite ist sehr übersichtlich aufgebaut und wirkte gleich auf den ersten
 Blick seriös. Für die Erstellung des gewünschten Produkts muss man sich eine
@@ -116,9 +114,8 @@ Bild.
 Nun zum Ergebnis: Dass das Bild auf der Platte so gut rauskommt, hätte ich nicht
 gedacht. Die Farben strahlen von Perlmutt bis Goldgelb und auch die Tiefen
 kommen richtig schön raus. Ich freue mich sehr, dass mein Shot von unserer
-<a href="http://cardamonchai.com/2015/09/unterwegs-in-sri-lanka/">Sri Lanka
-Reise</a> nun so schön zur Geltung kommt und muss jedes Mal lächeln, wenn ich an
-dem Bild vorbeikomme.
+[Sri Lanka Reise](/2015/09/unterwegs-in-sri-lanka/) nun so schön zur Geltung
+kommt und muss jedes Mal lächeln, wenn ich an dem Bild vorbeikomme.
 
 ![Saal Digital](http://cardamonchai.com/wp-content/uploads/2018/02/40377890952_21955bf9cf_z-1-300x200.jpg "Das Bild auf unserer Staffelei")
 
@@ -136,10 +133,8 @@ Digital ganz klar jedem/r Fotografen/in empfehlen, der/die Wert auf perfekt
 umgesetzten Druck legt. Der schnelle Versand setzt noch eins obendrauf.
 
 Zur Homepage von Saal Digital geht es übrigens
-<a href="https://www.saal-digital.de" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](https://www.saal-digital.de).
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

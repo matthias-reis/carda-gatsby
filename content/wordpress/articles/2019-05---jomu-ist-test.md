@@ -105,13 +105,12 @@ Johannes bis zu dreimal täglich einen Teelöffel auf der Packung angegeben. Fü
 meinen Test habe ich zusätzlich zum Pulver auch noch eine To-Go-Variante
 erhalten. Um sich unterwegs einen Vitaminschub abzuholen, nimmt man einfach 3-4
 Presslinge mit ausreichend Flüssigkeit zu sich. Ich finde das sehr praktisch
-werde den kleinen Beutel
-<a href="https://cardamonchai.com/category/musik/festivals/">auf das nächste
-Festival</a> mitnehmen. Er ist schon eingepackt.
+werde den kleinen Beutel [auf das nächste Festival](/category/musik/festivals/)
+mitnehmen. Er ist schon eingepackt.
 
 Bestellt man bei Johannes, bekommt man mit dem Paket einen kleinen "Diamanten"
 zusammen mit einer
-<a href="http://cardamonchai.com/2019/05/10-ideen-fuer-mehr-glueckliche-momente/">Achtsamkeitsübung</a>
+[Achtsamkeitsübung](/2019/05/10-ideen-fuer-mehr-glueckliche-momente/)
 zugesendet, was ich eine schöne Idee finde.
 
 <blockquote>"Was war Dein heutiger Diamant? Was hast Du heute Schönes erlebt?"</blockquote>
@@ -575,14 +574,10 @@ Liste.
 </table>
 </div>
 
-<a href="https://www.gerstengras-natur.de/" target="_blank" rel="noopener">Online
-findet Ihr Jomu hier</a>.
+[Online findet Ihr Jomu hier](https://www.gerstengras-natur.de/).
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum Ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

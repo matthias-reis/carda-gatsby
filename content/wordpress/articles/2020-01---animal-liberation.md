@@ -72,11 +72,11 @@ seiner Meinung nach weiter weg von der Tatsache, was wir da eigentlich essen.
 Singer sieht hier ein großes Problem darin, dass Tierliebhaber für Tierschützer
 gehalten werden. Die ganz großen Brocken, wie die Massentierhaltung, werden
 dadurch nicht effektiv angegangen. Man bewegt sich an den Rändern (z. B.
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">Pelztierhaltung</a>,
-Robbenfang) und lenkt so von der eigentlichen Sache  in ihrer Gesamtheit ab.
-Auch hier kommt der Autor wieder auf das Thema Speziesismus zu sprechen (Tier
-aus dem Tierheim aufnehmen und sich für Streuner stark machen, aber Fleisch
-essen). Über sein Buch schreibt Peter Singer selbst:
+[Pelztierhaltung](/2014/11/fakepelz-echtpelz/), Robbenfang) und lenkt so von der
+eigentlichen Sache  in ihrer Gesamtheit ab. Auch hier kommt der Autor wieder auf
+das Thema Speziesismus zu sprechen (Tier aus dem Tierheim aufnehmen und sich für
+Streuner stark machen, aber Fleisch essen). Über sein Buch schreibt Peter Singer
+selbst:
 
 <blockquote>"Das Buch ist kein sentimentaler Aufruf zur Sympathie gegenüber 'niedlichen Tieren'. Es handelt von der Gewaltherrschaft des Menschen über die Tiere. Es ist ein Versuch, gründlich, sorgfältig und konsequent darüber nachzudenken, wie wir mit Tieren umgehen."</blockquote>
 
@@ -91,11 +91,10 @@ der Nachfrage:
 
 <blockquote>"Solange die Menschen bereit sind, die Erzeugnisse der intensiven Tierzucht und -Haltung zu kaufen, werden die üblichen Formen des Protests und des politischen Handelns niemals eine wesentliche Reform bewirken." (Seite 193)</blockquote>
 
-Am Beispiel
-<a href="http://cardamonchai.com/2019/10/tierversuche-in-deutschland/">Tierversuche</a>
-beweist der Autor klar die Widersprüchlichkeit, mit der Menschen agieren.
-Zeitgleich wird davon ausgegangen, dass zum Beispiel bestimmte Medikamente bei
-Tieren die gleiche Wirkung haben, wie bei Menschen, erkennt ihnen jedoch das
+Am Beispiel [Tierversuche](/2019/10/tierversuche-in-deutschland/) beweist der
+Autor klar die Widersprüchlichkeit, mit der Menschen agieren. Zeitgleich wird
+davon ausgegangen, dass zum Beispiel bestimmte Medikamente bei Tieren die
+gleiche Wirkung haben, wie bei Menschen, erkennt ihnen jedoch das
 Schmerzempfinden ab. Abgesehen davon, dass die Ergebnisse aus Tierversuchen
 nicht auf den Menschen übertragbar sind, ist dies äußerst fragwürdig. Dafür
 liefert auch Singer zahlreiche belegte Beweise. Zudem entkräftet er die
@@ -107,9 +106,8 @@ Zwecke durchgeführt, indem er einige davon im Detail beschreibt.
 Neben der Analyse der aktuellen Lage bringt Peter Singer in seinem Buch auch
 einen Überblick über die Geschichte und die Entwicklung, die dazu führte, dass
 wir heute
-<a href="http://cardamonchai.com/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/">die
-einen essen und die anderen streicheln</a>. Dabei zitiert er unter anderem
-Darwin, Voltaire, Hume und Bentham.
+[die einen essen und die anderen streicheln](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/).
+Dabei zitiert er unter anderem Darwin, Voltaire, Hume und Bentham.
 
 "Animal Liberation" ist ein Buch, dass mich persönlich schon sehr lange
 begleitet. Es dient mir als Nachschlagewerk und ich habe es auch schon diverse
@@ -128,5 +126,5 @@ emotional unterlegten Rückblick über die Entwicklung seit dieser Zeit - in Bez
 auf die Tierethik und auch auf unseren Umgang mit Tieren in der Realität.
 
 Hat Euch meine Rezension gefallen? Das freut mich sehr! Wenn Ihr in Zukunft
-nichts mehr auf meiner Seite verpassen wollt, <a href="#newsletter">abonniert
-gerne meinen Newsletter</a>.
+nichts mehr auf meiner Seite verpassen wollt,
+[abonniert gerne meinen Newsletter](#newsletter).

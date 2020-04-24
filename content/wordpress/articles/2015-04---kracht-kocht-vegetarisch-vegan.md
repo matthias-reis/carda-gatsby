@@ -34,14 +34,12 @@ subTitle: Internationale Küche statt "Traumschiff"
 Bekannt wurde sie u. a. mit "Wer zuletzt lacht, lacht am besten", "Aktenzeichen
 XY ungelöst" und "Traumschiff".</strong>## Friends? Not food, OK?
 
-Jetzt hat die Münchnerin
-<a href="https://amzn.to/2MLIK3k" target="_blank" rel="noopener nofollow">ein
-Kochbuch veröffentlicht</a>. "Kracht kocht vegetarisch vegan". Nimmt man das
-Buch zur Hand, sticht einem sofort das ausgefallene Titelbild ins Auge: Marion
-Kracht hält ein großes Fleischermesser in der Hand. Darauf aufgespießt: Eine
-rote Paprikaschote. Die andere Hand hat die Mimin in die Hüfte gestemmt. Sie
-wirkt wild entschlossen. Ihr T-Shirt ziert ein Schaf, versehen mit den Worten
-"Friends? Not food, OK?"
+Jetzt hat die Münchnerin [ein Kochbuch veröffentlicht](https://amzn.to/2MLIK3k).
+"Kracht kocht vegetarisch vegan". Nimmt man das Buch zur Hand, sticht einem
+sofort das ausgefallene Titelbild ins Auge: Marion Kracht hält ein großes
+Fleischermesser in der Hand. Darauf aufgespießt: Eine rote Paprikaschote. Die
+andere Hand hat die Mimin in die Hüfte gestemmt. Sie wirkt wild entschlossen.
+Ihr T-Shirt ziert ein Schaf, versehen mit den Worten "Friends? Not food, OK?"
 
 ![kracht-kocht | full](http://cardamonchai.com/wp-content/uploads/2019/06/kracht-kocht1-219x250.jpg)
 
@@ -109,21 +107,16 @@ Den QR-Code konnte ich auch nach mehrfacher, intensiver Begutachtung des Buches
 nicht entdecken. Sollte er sich dennoch irgendwo versteckt haben, so wäre eine
 Seitenangabe sicher sinnvoll gewesen.
 
-## Fazit<a href="https://amzn.to/2MLIK3k" target="_blank" rel="noopener nofollow">Das Buch</a> ist gut gemacht, dennoch hätte ich mir mehr erwartet. Für "Fleischis", die neugierig auf die vegane bzw. vegetarische Küche sind, sicher eine Anschaffung wert, für überzeugte Ethik-Veganer gibt es jedoch andere Kochbücher.
+## Fazit [Das Buch](https://amzn.to/2MLIK3k) ist gut gemacht, dennoch hätte ich mir mehr erwartet. Für "Fleischis", die neugierig auf die vegane bzw. vegetarische Küche sind, sicher eine Anschaffung wert, für überzeugte Ethik-Veganer gibt es jedoch andere Kochbücher.
 
 Alles in Allem gebe ich 5,5 von 10 Sternen auf meiner persönlichen
 Kochbuch-Skala. Wer gerne mehr über Marion Kracht und ihr Buch erfahren möchte,
 kann sie auf ihrer Homepage besuchen.
 
 Wer gerne mehr über Marion Kracht und ihr Buch erfahren möchte, kann sie auf
-ihrer
-<a href="http://www.marionkracht.de/" target="_blank" rel="noopener nofollow">Homepage</a>
-besuchen.
+ihrer [Homepage](http://www.marionkracht.de/) besuchen.
 
-<strong>Bild
-Buch:</strong><a href="https://www.cadmos.de/cadmos-der-verlag.html" target="_blank" rel="noopener nofollow">Cadmos
-Verlag</a><strong>Bild im
-Header:</strong><a href="https://pixabay.com/de/users/silviarita-3142410/" target="_blank" rel="noopener nofollow">silviarita</a>,
-pixabay
+<strong>Bild Buch:</strong>
+[silviarita](https://www.cadmos.de/cadmos-der-verlag.html), pixabay
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3840470331&amp;asins=3840470331&amp;linkId=dc331a21b0374b444234a982f4dde30e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3840470331&amp;asins=3840470331&amp;linkId=dc331a21b0374b444234a982f4dde30e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

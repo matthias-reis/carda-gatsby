@@ -41,25 +41,21 @@ ab 12:00 ein Livestream mit vielen Redner⋆innen und Künstler⋆innen statt.
 
 Die Veranstalter⋆innen rufen die Teilnehmer⋆innen dazu auf, ein Demoschild
 vorzubereiten und es am Balkon oder am Fenster anzubringen, damit möglichst
-viele dabei sind, wenn es heißt:
-<a href="http://cardamonchai.com/2019/09/allefuersklima-hamburg/">Fridays For
-Future</a> goes Livestream. Auf einer Klimastreikkarte kann man sich vorab zur
-Demo anmelden und seine Solidarität zeigen.<a href="#1"><sup>1</sup></a>
+viele dabei sind, wenn es heißt: [](/2019/09/allefuersklima-hamburg/)
 
 Politiker⋆innen können ab sofort nicht mehr in ihren Reden erzählen, die
 Corona-Krise sei doch eine willkommene Ausrede für die Bewegung. Auch in
 schwierigen Zeiten wird weiter mobil gemacht und für den Klimaschutz gekämpft.
 
-Es ist
-<a href="http://cardamonchai.com/2020/04/inger-andersen-un-covid-19/">Zeit, dass
-sich was ändert</a>! Seid auch Ihr dabei! Der Livestream geht am 24. April um
-Punkt 12:00 los. Wir sehen uns! Zum Livestream geht es hier entlang:
+Es ist [Zeit, dass sich was ändert](/2020/04/inger-andersen-un-covid-19/) ! Seid
+auch Ihr dabei! Der Livestream geht am 24. April um Punkt 12:00 los. Wir sehen
+uns! Zum Livestream geht es hier entlang:
 
 <iframe src="https://www.youtube-nocookie.com/embed/9EUVRPSWJsk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 <div class="footnotes">
 ## Fußnote
 <ol>
-    <li id="fn1-9217"><a href="https://www.klima-streik.org/" target="_blank" rel="noopener nofollow">Klimastreikkarte</a></li>
+    <li id="fn1-9217"> [Klimastreikkarte](https://www.klima-streik.org/) </li>
 </ol>
 </div>

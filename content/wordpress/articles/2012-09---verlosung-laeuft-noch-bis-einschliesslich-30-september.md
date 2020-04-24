@@ -48,9 +48,9 @@ thumbnailId: "11800"
 subTitle: Tolle Goodies zu gewinnen!
 ---
 
-<hr /><strong>Hinweis: </strong>Die Aktion ist beendet. <a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet irgendwann wieder eine tolle Verlosung statt</a>.
+<hr /><strong>Hinweis: </strong>Die Aktion ist beendet.  [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
-<hr /><strong>Hiermit möchte ich nochmal offiziell auf <a title="Verlosung" href="//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/">mein Gewinnspiel</a> hinweisen. Die Verlosung läuft noch bis einschließlich 30. September. Hier nochmal eine kurze Anleitung für alle, die noch nichts vom Gewinnspiel mitbekommen haben:</strong>
+<hr /><strong>Hiermit möchte ich nochmal offiziell auf  [mein Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)  hinweisen. Die Verlosung läuft noch bis einschließlich 30. September. Hier nochmal eine kurze Anleitung für alle, die noch nichts vom Gewinnspiel mitbekommen haben:</strong>
 
 Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30.
 September ein Foto von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer
@@ -70,12 +70,10 @@ T-Shirt vom diesjährigen Herzberg-Festival zu gewinnen.
 Vor Kurzem ist zu den Gewinnen noch das Herzberg Festival T-Shirt und die CD von
 HASENSCHEISSE dazugekommen. Daher wird es nicht, wie zuerst angekündigt, drei,
 sondern fünf Gewinner geben. Die Gewinne stellen meine Freunde von
-"<a title="Marleen Schallplatten Fulda" href="https://www.facebook.com/marleen.schallplatten">Marleen
-Schallplatten</a>", dem Plattenladen meines Vertrauens in Fulda und Gunter vom
-<a title="Herzberg Festival" href="http://www.burgherzberg-festival.de/">Herzberg
-Festival Veranstaltungsteam</a> zur Verfügung. Vielen Dank an dieser Stelle für
-die freundliche Unterstützung! Natürlich freue ich mich, wenn möglichst viele
-mitmachen, damit am Ende auch eine schöne T-Shirt-Galerie entsteht.
+"[Herzberg Festival Veranstaltungsteam](https://www.facebook.com/marleen.schallplatten)
+zur Verfügung. Vielen Dank an dieser Stelle für die freundliche Unterstützung!
+Natürlich freue ich mich, wenn möglichst viele mitmachen, damit am Ende auch
+eine schöne T-Shirt-Galerie entsteht.
 
 Bitte sendet Eure Fotos und Texte bis zum 30. September 2012 unter dem Betreff
 "<span style="color: #993366;">T-Shirt-Idee"</span> an

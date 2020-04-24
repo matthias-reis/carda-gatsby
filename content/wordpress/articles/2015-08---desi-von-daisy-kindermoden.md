@@ -177,12 +177,10 @@ Gute!
 
 <em>Wer gerne mehr über Desis Kindermoden erfahren möchte, kann sich jederzeit
 auf ihrer
-<a href="https://www.facebook.com/pages/Daisy/844072645684642?fref=ts" target="_blank" rel="noopener">Facebook-Seite</a>
+[Facebook-Seite](https://www.facebook.com/pages/Daisy/844072645684642?fref=ts)
 informieren, sie freut sich auf Euch! :-)</em>
 
 [gallery type="rectangular" link="none" columns="2" size="medium"
 ids="12201,12198,12196,12195,12209,12210"]
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

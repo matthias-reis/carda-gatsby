@@ -91,8 +91,7 @@ Hier sind für Euch Kalle Kuul mit "Die Prinzessin von Osnabrück".
 
 Hat Euch der Beitrag neugierig gemacht? Dann bleibt am besten dran. In Kürze
 wird hier im Blog ein Interview mit Kalle Kuul erscheinen. Wenn Ihr in Zukunft
-nichts mehr verpassen wollt, <a href="#newsletter">abonniert gerne meinen
-Newsletter</a>. Dann halte ich Euch auf dem Laufenden.
+nichts mehr verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter).
+Dann halte ich Euch auf dem Laufenden.
 
-<strong>Quelle und Fotos:</strong>
-<a href="https://kallekuul.com/" target="_blank" rel="noopener">Kalle Kuul</a>
+<strong>Quelle und Fotos:</strong> [Kalle Kuul](https://kallekuul.com/)

@@ -38,8 +38,8 @@ thumbnailId: "14001"
 ![Repeat Pattern](http://cardamonchai.com/wp-content/uploads/2016/02/24541647974_6227d718cc_z-640x640.jpg "Mandala klassisch schwarz weiß")
 
 <strong>Vor Kurzem habe ich Euch von meinem Hobby, dem
-<a href="http://cardamonchai.com/2016/02/zentangle-malen-als-kreative-prokrastination/">Tangeln</a>
-erzählt und auch schon ein paar Bilder gezeigt. </strong>
+[Tangeln](/2016/02/zentangle-malen-als-kreative-prokrastination/) erzählt und
+auch schon ein paar Bilder gezeigt. </strong>
 
 In der Zwischenzeit sind wieder ein paar entstanden, die ich heute zeigen
 möchte.
@@ -74,6 +74,5 @@ Tag noch mehr Spaß. Ich bin mal gespannt, was mir als nächstes einfällt.
 
 Übrigens: Wenn Du ein tolles My Little Pony aus meiner Sammlung gewinnen
 möchtest:
-<a href="http://cardamonchai.com/2016/02/my-little-pony-zu-gewinnen-verlosung/">Klick
-doch einfach mal hier</a>! Bis zum 4. März 2016 hast Du Zeit! Ich wünsche Dir
-viel Glück!
+[Klick doch einfach mal hier](/2016/02/my-little-pony-zu-gewinnen-verlosung/) !
+Bis zum 4. März 2016 hast Du Zeit! Ich wünsche Dir viel Glück!

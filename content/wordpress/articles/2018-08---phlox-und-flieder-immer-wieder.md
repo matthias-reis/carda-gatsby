@@ -79,10 +79,10 @@ Und nun zu meinen Tipps für die heiße Jahreszeit auf dem Balkon.
 Duftende, stark blühende Pflanzen, wie Lavendel, Phlox und Flieder, erfreuen
 nicht nur Herz und Nase. Sie bieten auch Schmetterlingen, Wildbienen und anderen
 Insekten eine Anflugmöglichkeit. Ihr könnt ihnen dann auch gleich noch
-<a href="http://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/">ein
-Bienenhotel</a> und eine Insektentränke zur Verfügung stellen. Letztere könnt
-ihr aus einem alten Untertopf und einem Kiesel oder einer Wurzel bauen. Achtet
-darauf, dass sie stets mit Wasser gefüllt ist.
+[ein Bienenhotel](/2019/05/insektenhotel-bienen-auf-dem-balkon/) und eine
+Insektentränke zur Verfügung stellen. Letztere könnt ihr aus einem alten
+Untertopf und einem Kiesel oder einer Wurzel bauen. Achtet darauf, dass sie
+stets mit Wasser gefüllt ist.
 
 Die Insekten werden es Euch danken. In dieser heißen Zeit sind sie froh um jeden
 schattigen Landeplatz, an dem sie auch gleich noch eine geöffnete Bar vorfinden.
@@ -187,8 +187,6 @@ Schnapsglas auf den Tisch. Sie hübsch aus, oder?
 
 Ich wünsche Euch viel Spaß beim Gärtnern!
 
-<a href="http://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/">Ihr
-möchtet gerne genau wissen, wie ein Insektenhotel funktioniert? Ich habe alle
-Infos für Euch zusammengetragen.</a>
+[Ihr möchtet gerne genau wissen, wie ein Insektenhotel funktioniert? Ich habe alle Infos für Euch zusammengetragen.](/2019/05/insektenhotel-bienen-auf-dem-balkon/)
 
 [myflickr tag="annebalkon20180808liebesonnephlox"]

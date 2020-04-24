@@ -62,12 +62,10 @@ gespendeten Betrags ein Dankeschön:
 
 Wer mehr erfahren möchte oder sich soeben spontan entschieden hat, Landpate für
 den Erdlingshof zu werden:
-<a href="https://www.erdlingshof.de/landpate-werden/" target="_blank" rel="noopener">BITTE
-HIER ENTLANG!</a>
+[BITTE HIER ENTLANG!](https://www.erdlingshof.de/landpate-werden/)
 
 <iframe src="https://www.youtube.com/embed/epZRhRNis7c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Das Video sowie die Grafiken stammen vom Erdlingshof. Das Titelbild habe ich in
-der Nähe der
-<a href="http://cardamonchai.com/2016/05/naturschutzgebiet-boberger-niederung/">Boberger
-Düne</a> aufgenommen.
+der Nähe der [Boberger Düne](/2016/05/naturschutzgebiet-boberger-niederung/)
+aufgenommen.

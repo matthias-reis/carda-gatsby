@@ -38,8 +38,8 @@ deutschen Schlachtbetrieben ausgewertet werden.
 
 Die Bundestagsabgeordneten der von Bündnis 90/DIE GRÜNEN Bärbel Höhn, Friedrich
 Ostendorff, Nicole Maisch, Harald Ebner und Steffi Lemke stellten dazu am 8.
-Juli dieses Jahres eine Anfrage. Hier die Drucksache dazu
-<a href="#1"><sup>1</sup></a>. Lösungsansätze gab es daher bis dato noch keine.
+Juli dieses Jahres eine Anfrage. Hier die Drucksache dazu [](#1). Lösungsansätze
+gab es daher bis dato noch keine.
 
 Die Tierschutzbedingungen für den Transport sind auf nicht tragende Tiere
 ausgelegt, daher wird hier von vornherein schon mal gegen geltende Gesetze
@@ -56,11 +56,10 @@ letzten Drittel der Trächtigkeit zutrifft.
 
 Die Kälbchen sterben unter Zuckungen, ersticken unter heftigsten
 Abwehrreaktionen in ihrer Fruchtblase. Tierarzt Rupert Hildner spricht in der
-Panorama 3 Sendung des NDR vom 25. März <a href="#2"><sup>2</sup></a>von einem
-untragbaren Zustand: „Jeder von uns Fachleuten weiß, dass die Kuh mit einem
-Bolzenschussgerät betäubt wird, auf das Kälbchen hat dies jedoch keine Wirkung.
-Der Fötus stirbt, erstickt, verreckt elendiglich in einem lange andauernden
-Prozess.“
+Panorama 3 Sendung des NDR vom 25. März [](#2) von einem untragbaren Zustand:
+„Jeder von uns Fachleuten weiß, dass die Kuh mit einem Bolzenschussgerät betäubt
+wird, auf das Kälbchen hat dies jedoch keine Wirkung. Der Fötus stirbt,
+erstickt, verreckt elendiglich in einem lange andauernden Prozess.“
 
 Bedenkt man dabei, dass die Betäubung laut einer Umfrage von Bündnis 90/DIE
 GRÜNEN bei rund 4-9 Prozent der Rinder mangelhaft ist, oder sogar gänzlich
@@ -95,13 +94,12 @@ glücklichen Kühen auf saftigen Weiden.
 
 In der Stellungnahme des Amtstierarztes heißt es weiter: „Die
 tierschutzrechtlichen Vorschriften schützen die Föten praktisch nicht. Nach dem
-Tod des Muttertieres sterben sie durch Hypoxie<a href="#3"><sup>3</sup></a>. Im
-normalen Schlachtprozess sind sie bei der Eviszeration bereits verendet. Das
-dürfte einer der Gründe sein, warum diese Problematik erst jetzt thematisiert
-wird. Ein tierschutzgerechtes Töten der Föten ist im herkömmlichen
-Schlachtprozess also nicht möglich, da sie einer Betäubung nicht zugänglich sind
-oder sich diese z. B. bei Narkotika aus lebensmittelrechtlichen Gründen
-verbietet.“
+Tod des Muttertieres sterben sie durch Hypoxie [](#3). Im normalen
+Schlachtprozess sind sie bei der Eviszeration bereits verendet. Das dürfte einer
+der Gründe sein, warum diese Problematik erst jetzt thematisiert wird. Ein
+tierschutzgerechtes Töten der Föten ist im herkömmlichen Schlachtprozess also
+nicht möglich, da sie einer Betäubung nicht zugänglich sind oder sich diese z.
+B. bei Narkotika aus lebensmittelrechtlichen Gründen verbietet.“
 
 Beim Lesen dieser Zeilen läuft es einem eiskalt den Rücken runter. Und da gibt
 es Menschen, die mit ruhigem Gewissen ihren Burger essen. Und es kommt noch
@@ -145,4 +143,4 @@ momentan, ob ein nationales Schlachtungsverbot für trächtige Rinder
 ausgesprochen werden darf. Eine Änderung der EU-Verordnung steht wohl auch
 weiterhin in den Sternen.
 
-### Quellen:</div><ul><li id="1">[1] <a href="http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf" target="_blank" rel="noopener">Drucksache von Bündnis 90/DIE GRÜNEN vom 08.05.2014</a></li><li id="2">[2] <a href="https://nebenan.de/" target="_blank" rel="noopener">Panorama 3, </a><a href="https://www.ardmediathek.de/ard/player/Y3JpZDovL25kci5kZS9mMzRlZDNlNS1iMWYxLTQ0OGItYTAwMC1mNzQzMjlmNWNkOGE/" target="_blank" rel="noopener">NDR Sendung vom 25.03.2014</a></li><li id="3">[3] <a href="https://de.wikipedia.org/wiki/Hypoxie_(Medizin)" target="_blank" rel="noopener">Begriffserklärung "Hipoxie" </a></li><li id="1">[4] <a href="https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM" target="_blank" rel="noopener">Erkenntnis zur Schlachtung gravider Tiere, </a><a href="https://www.amtstierarzt.de/" target="_blank" rel="noopener">Stellungnahme des Amtstierarztes Dr. Wolfgang Kulow</a></li></ul></div></div></div>
+### Quellen:</div><ul><li id="1">[1][stellungnahme des amtstierarztes dr. wolfgang kulow](http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf) </li></ul></div></div></div>

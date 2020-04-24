@@ -74,12 +74,10 @@ Homepage des Films herunterladen. Mit rund 300 Minuten Spielzeit ist es 30
 Minuten länger, als der Film.
 
 Ich bin schon sehr gespannt auf den Film und freue mich auf Eure Kommentare
-dazu.
-<a href="http://www.nationearth.com/films" target="_blank" rel="noopener nofollow">Ihr
-findet "Earthlings Unity" hier</a>.
+dazu. [Ihr findet "Earthlings Unity" hier](http://www.nationearth.com/films).
 
 Wer lieber erstmal den Vorgänger schauen möchte, klickt einfach auf den folgen
 Link
 
-<a href="http://www.nationearth.com/films" target="_blank" rel="noopener nofollow">Watch
-Earthlings</a><strong>Filmplakat:</strong> Nation Earth Film
+[Watch Earthlings](http://www.nationearth.com/films)
+<strong>Filmplakat:</strong> Nation Earth Film

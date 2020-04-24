@@ -68,11 +68,10 @@ Schreie der Zweifler.
 sagt sie - "ethisch korrekter Pelz" ist und bleibt ein Widerspruch in sich.
 Jede<em>r muss für sich selbst entscheiden, ob er</em>sie Teil der derzeit immer
 weiter um sich greifenden, blutigen Modeerscheinung sein möchte. Selbst
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">Fakepelz kann
-Echtpelz sein</a>, sogar hierzulande wird unter Fantasienahmen unter anderem
-Hunde- und Katzenfell verkauft. Solange diese fragwürdige Industrie besteht und
-Tiere sinnlos für die Verzierung unserer Bekleidung sterben, kann nicht die Rede
-von ethisch korrekter Mode sein.
+[Fakepelz kann Echtpelz sein](/2014/11/fakepelz-echtpelz/), sogar hierzulande
+wird unter Fantasienahmen unter anderem Hunde- und Katzenfell verkauft. Solange
+diese fragwürdige Industrie besteht und Tiere sinnlos für die Verzierung unserer
+Bekleidung sterben, kann nicht die Rede von ethisch korrekter Mode sein.
 
 Selbst mit einem Pelzkragen, der zu 100 Prozent aus Synthetik besteht, spreche
 ich mich meiner Meinung nach für diese mittelalterliche Art der Bekleidung aus,
@@ -80,7 +79,6 @@ weshalb ich für meinen Teil meine Finger von allem lasse, was auch nur im
 entferntesten nach Pelz aussieht. Was haltet Ihr von Pamela Paquins Idee? Könnt
 Ihr Euch vorstellen, einen Waschbär-Schal aus "Roadkill" zu tragen?
 
-<strong>Quellen:</strong><ul><li><a href="https://www.treehugger.com/sustainable-fashion/petite-mort-ethical-fur-roadkill-pamela-paquin.html" target="_blank" rel="noopener nofollow">treehugger.com</a></li><li><a href="https://modernfarmer.com/2014/12/one-woman-revolutionizing-fur-industry-using-roadkill/" target="_blank" rel="noopener nofollow">modernfarmer.com</a></li></ul><strong>Foto
-im
-Header:</strong><a href="https://pixabay.com/de/users/gaertringen-168960/" target="_blank" rel="noopener nofollow">Gaertringen</a>,
+<strong>Quellen:</strong><ul><li>
+[Gaertringen](https://www.treehugger.com/sustainable-fashion/petite-mort-ethical-fur-roadkill-pamela-paquin.html),
 pixabay

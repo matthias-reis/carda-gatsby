@@ -45,17 +45,16 @@ thumbnailId: null
 wurde</strong>
 
 Sicher könnt Ihr Euch noch an Chili erinnern.
-<a title="Ode an den Kater" href="/2012/08/30/ode-an-den-kater/" target="_blank">Chili,
-den Kater</a>. Mein kleiner Schatten, der mich auf dem Weg durch die Wohnung auf
-Schritt und Tritt verfolgte. Niemals aus den Augen lies. Jeden Morgen so lange
-maunzte, bis er aus dem Wasserhahn trinken durfte. Bruder von Oskar dem Kater.
-Die beiden: Mein Ein und Alles. Die zwei haben viel mit mir durchgemacht, sind
-drei Mal mit mir umgezogen, haben mir immer zugehört, waren immer für mich da,
-ob ich krank war, gesund, traurig oder glücklich. Und ich habe versucht, ihnen
-eine gute Dosenöffnerin zu sein. Zusammen mit dem Herzmann sind wir eine
-glückliche Familie geworden. Die beiden blühten in der letzten Zeit regelrecht
-auf und wurden immer zutraulicher. Man konnte genau sehen, dass sie das Zuhause
-ihrer Herzen gefunden haben.
+[Chili, den Kater](/2012/08/30/ode-an-den-kater/). Mein kleiner Schatten, der
+mich auf dem Weg durch die Wohnung auf Schritt und Tritt verfolgte. Niemals aus
+den Augen lies. Jeden Morgen so lange maunzte, bis er aus dem Wasserhahn trinken
+durfte. Bruder von Oskar dem Kater. Die beiden: Mein Ein und Alles. Die zwei
+haben viel mit mir durchgemacht, sind drei Mal mit mir umgezogen, haben mir
+immer zugehört, waren immer für mich da, ob ich krank war, gesund, traurig oder
+glücklich. Und ich habe versucht, ihnen eine gute Dosenöffnerin zu sein.
+Zusammen mit dem Herzmann sind wir eine glückliche Familie geworden. Die beiden
+blühten in der letzten Zeit regelrecht auf und wurden immer zutraulicher. Man
+konnte genau sehen, dass sie das Zuhause ihrer Herzen gefunden haben.
 
 ![Chili und Oskar](http://cardamonchai.files.wordpress.com/2013/09/9461961351_4c595b35d9_o.jpg?w=300 "Chili und Oskar")
 
@@ -483,7 +482,7 @@ Fall weiter auf dem Laufenden halten.
 
 <blockquote>Hallo Herr Dr. Erben,
 <div>wir möchten Ihnen gerne dafür danken, dass Sie Chili gestern Abend so gut aufgenommen haben und sich so viel Zeit für uns genommen haben. Wir haben jetzt endlich das Gefühl, dass er in guten Händen ist und hoffen das Beste für ihn. Er ist ein sehr wichtiger Bestandteil unserer Familie und für uns nicht mehr wegzudenken. Ich habe vor einiger Zeit einen kleinen Text über ihn verfasst, den ich Ihnen gerne zum Lesen schicken möchte:
-<a href="/2012/08/30/ode-an-den-kater/" target="_blank">//2012/08/30/ode-an-den-kater/</a>
+ [//2012/08/30/ode-an-den-kater/](/2012/08/30/ode-an-den-kater/) 
 Wir werden Chili auf jeden Fall so bald wie möglich besuchen kommen, vielleicht können wir dann auch ja auch noch weitere Details besprechen. Ich habe seit dem Tag, an dem er wegen seiner Patella-OP in die Klinik gekommen ist, alles ganz genau aufgeschrieben und mir ist hier immer noch nicht ganz klar, was da in der Klinik in A. schief gelaufen ist. Vielleicht lässt sich hier noch ein Wenig Licht ins Dunkel bringen.</div><div></div><div>Aber das Wichtigste ist nun mal, dass es unserem Chili bald wieder besser geht. Wir denken in jeder Minute des Tages an ihn.</div><div></div><div>Wir telefonieren/sehen uns dann.</div><div></div><div>Vielen Dank und herzliche Grüße</div><div></div><div>Anne &amp; Matthias R.</div></blockquote>
 
 ![Zwei Brüder <3](http://cardamonchai.files.wordpress.com/2013/09/img_0078-kopie.jpg?w=300 "Zwei Brüder <3")
@@ -508,4 +507,4 @@ etwas passiert.
 
 EINE ZWEITE MEINUNG KANN LEBEN RETTEN!
 
-<div><em>Vielen Dank an Caro, Silva, Sandra, Uschi, Eva, Rita und alle anderen, die in dieser schweren Zeit für uns da sind, uns mit Rat und Tat zur Seite stehen und uns zuhören, wenn wir mal wieder unser Herz ausschütten müssen. Besonderen Dank auch an Herrn Dr. Erben, der unseren kleinen Chili gestern so gut aufgenommen hat und sich extra Zeit für uns genommen hat. Wir wissen unser liebes Katerchen jetzt in fachmännischen Händen. Wir hoffen, dass er wieder gesund wird. <a title="Die Rehabilitation eines tapferen Katers" href="/2013/09/26/die-rehabilitation-eines-tapferen-katers/"><strong><span style="text-decoration:underline;">Hier geht es zu Teil 2 des Artikels...</span></strong></a></em></div>
+<div><em>Vielen Dank an Caro, Silva, Sandra, Uschi, Eva, Rita und alle anderen, die in dieser schweren Zeit für uns da sind, uns mit Rat und Tat zur Seite stehen und uns zuhören, wenn wir mal wieder unser Herz ausschütten müssen. Besonderen Dank auch an Herrn Dr. Erben, der unseren kleinen Chili gestern so gut aufgenommen hat und sich extra Zeit für uns genommen hat. Wir wissen unser liebes Katerchen jetzt in fachmännischen Händen. Wir hoffen, dass er wieder gesund wird.  [](/2013/09/26/die-rehabilitation-eines-tapferen-katers/) </em></div>

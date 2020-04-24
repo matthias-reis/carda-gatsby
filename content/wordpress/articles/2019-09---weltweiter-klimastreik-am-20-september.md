@@ -52,20 +52,15 @@ fortschreitenden Klimawandels immer noch weitermacht, wie bisher.
 ## Klimastreik - wir sind laut für die Zukunft!
 
 Es wird Zeit, dem Treiben ein Ende zu setzen. Wir dürfen nicht länger dabei
-zusehen, wie
-<a href="http://cardamonchai.com/2019/08/feuer-im-regenwald-amazonas/">der
-Regenwald brennt</a> und das ewige Eis taut. Nur, wenn wir den Politiker\*innen
-laut mitteilen, wie wichtig uns die Erde und die Zukunft unserer Nachfahren ist,
-wird sich etwas ändern!
+zusehen, wie [der Regenwald brennt](/2019/08/feuer-im-regenwald-amazonas/) und
+das ewige Eis taut. Nur, wenn wir den Politiker\*innen laut mitteilen, wie
+wichtig uns die Erde und die Zukunft unserer Nachfahren ist, wird sich etwas
+ändern!
 
 Neben Fridaysforfuture Hamburg sind in Hamburg auch das
-<a href="http://cardamonchai.com/2019/08/animal-rights-march-2019/">Tierrechtsaktivistenbündnis</a>
-und das PETA Street Team sowie zahlreiche NGOs dabei. Auch die Gewerkschaft
-Verdi hat inzwischen zur Teilnahme aufgerufen. Infos findet Ihr auf Facebook,
-unter
-<a href="http://www.klima-streik.org/" target="_blank" rel="noopener">klima-streik.org</a>
-und in den Nachrichten. Die Flyer und Plakate, die in den letzten Tagen verteilt
-wurden, dürften außerdem auch nicht übersehbar sein.
+[klima-streik.org](/2019/08/animal-rights-march-2019/) und in den Nachrichten.
+Die Flyer und Plakate, die in den letzten Tagen verteilt wurden, dürften
+außerdem auch nicht übersehbar sein.
 
 In diesem Sinne: Bis morgen!
 

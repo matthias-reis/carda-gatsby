@@ -156,10 +156,10 @@ wieder metamorph in andere Verwinkelungen der Musikstile entwickelt. Glamourös.
 Schwer zu beschreiben, die Musikkritiker an der Nase herumführend und dabei
 triumphierend.
 
-"Unsustainable" klingt, <a title="Muse" href="//?s=muse">wie schon
-beschrieben</a> dramatisch. Eine roboterhafte Stimme mischt sich immer wieder in
-eine Mischung aus Chören und Geigen. Durchaus tanzbar und gleichzeitig das wohl
-progressivste Stück auf der ganzen Platte.
+"Unsustainable" klingt, [wie schon beschrieben](//?s=muse) dramatisch. Eine
+roboterhafte Stimme mischt sich immer wieder in eine Mischung aus Chören und
+Geigen. Durchaus tanzbar und gleichzeitig das wohl progressivste Stück auf der
+ganzen Platte.
 
 Abgerundet wird dieses perfekt ausgefeilte Konzeptalbum von "Isolated Systems",
 getragen von Synthesizer-Klängen und elektronischen Bässen.
@@ -193,8 +193,6 @@ finally realized </em><em>I need your Love </em><em>I need your Love
 </em><em>Come to me, just in a dream </em><em>Come on and rescue me </em><em>Yes
 I know, I can't be wrong </em><em>And maybe all too have strong </em><em>Our
 love is… </em><em>M-m-m-m-m-mad-mad-mad </em><em>M-m-m-m-m-mad-mad-mad
-</em><em>Madness</em>## Muse
-Wegweiser<ol><li><a href="http://cardamonchai.com/2012/08/muse-stellen-neue-single-madness-vor/">Muse
-stellen neue Single "Madness"
-vor</a></li><li><a href="http://cardamonchai.com/2015/06/muse-drones-ist-endlich-da/">Muse -
-"Drones" ist endlich da!</a></li></ol>
+</em><em>Madness</em>## Muse Wegweiser<ol><li>
+[Muse - "Drones" ist endlich da!](/2012/08/muse-stellen-neue-single-madness-vor/)
+</li></ol>

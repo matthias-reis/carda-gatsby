@@ -82,4 +82,4 @@ gespannt, was der Wald bei unserem nächsten Besuch für Überraschungen für un
 bereithält.
 
 <strong>Quelle:</strong>
-<a href="https://www.naturpark-teutoburgerwald.de" target="_blank" rel="noopener nofollow">naturpark-teutoburgerwald.de</a>
+[naturpark-teutoburgerwald.de](https://www.naturpark-teutoburgerwald.de)

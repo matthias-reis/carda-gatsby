@@ -118,16 +118,16 @@ begonnen, sich in der Britischen Hauptstadt auszubreiten.
 
 [myflickr tag ="annebanksymoco2018"]
 
-\*<a href="https://en.wikipedia.org/wiki/Exit_Through_the_Gift_Shop" target="_blank" rel="noopener">Infos
-zum Film</a> Exit Through The Gift Shop
+- [Infos zum Film](https://en.wikipedia.org/wiki/Exit_Through_the_Gift_Shop)
+  Exit Through The Gift Shop
 
 ## Wegweiser Amsterdam
 
 <ol>
     <li>Banksy im Moco Amsterdam</li>
-    <li><a href="http://cardamonchai.com/2018/02/stedelijk-museum-amsterdam/">Stedelijk Museum Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/vegan-junk-food-bar-amsterdam/">Vegan Junk Food Bar Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/rijksmuseum-amsterdam/">Rijksmusem Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/amsterdam/">Amsterdam - Grachten und Gassen</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/raw-food-cafe-amsterdam-zest-for-life/">Raw Food Café Amsterdam</a></li>
+    <li> [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/) </li>
+    <li> [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/) </li>
+    <li> [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/) </li>
+    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
+    <li> [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/) </li>
 </ol>

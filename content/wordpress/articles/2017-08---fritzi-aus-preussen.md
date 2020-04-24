@@ -230,8 +230,7 @@ Einblicke!
 <strong>Daniela:</strong> Ich danke Dir für das charmante Gespräch.
 
 [gallery type="rectangular" link="none" size="medium"
-ids="17798,17795,17797,17796,17804,17802,17800"]
-<a href="https://www.fritziauspreussen.de/" target="_blank" rel="noopener">Hier
-entlang</a> geht es zu Fritzi aus Preußen!
+ids="17798,17795,17797,17796,17804,17802,17800"][hier entlang](https://www.fritziauspreussen.de/)
+geht es zu Fritzi aus Preußen!
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 215px; left: 1351px;">Merken</span>

@@ -41,15 +41,14 @@ fehlen.</strong>
 
 <hr />
 
-<strong>Hinweis:</strong> Die
-<strong>Verlosung<a href="#1"><sup>1</sup></a></strong> findet Ihr im Anschluss
-an meinen Produkttest. Es lohnt sich natürlich dennoch, ihn zu lesen. Im Artikel
-könnt Ihr einiges über die von mir getesteten Produkte erfahren.
+<strong>Hinweis:</strong> Die <strong>Verlosung [](#1) </strong> findet Ihr im
+Anschluss an meinen Produkttest. Es lohnt sich natürlich dennoch, ihn zu lesen.
+Im Artikel könnt Ihr einiges über die von mir getesteten Produkte erfahren.
 
 <hr />
 
 Damit sich die Haut am Abend schön entspannen konnte, hatte ich ein paar Sachen
-von <a href="https://cardamonchai.com/tag/santaverde/">Santaverde</a> im Gepäck
+von [Santaverde](/tag/santaverde/) im Gepäck
 
 <ul>
     <li>Bodylotion Sensitive</li>
@@ -153,8 +152,7 @@ werden in der Sonne!), was wunderbar klappte. Ganz zum Schluss gab es auf ein
 paar Campingplätzen fiese Mücken und wir haben unsere Stiche damit behandelt.
 Auch als ich mich irgendwann mal an einem Kochtopf verbrannt habe, leistete es
 gute Dienste. Ein toller
-<a href="http://cardamonchai.com/2018/06/mit-santaverde-auf-reisen/">Beauty-Urlaubsbegleiter</a>
-also.
+[Beauty-Urlaubsbegleiter](/2018/06/mit-santaverde-auf-reisen/) also.
 
 Das Pur Gel soll man nach der Reinigung auftragen und die Anwendung kann
 beliebig oft wiederholt werde. Es soll die Haut intensiv mit Feuchtigkeit
@@ -198,18 +196,16 @@ eigentlich in der Spülwanne mit mir herumtrage. ;-)
 Für alle, die das Aloe Vera Gel Pur auch mal testen möchten, habe ich eine
 kleine Verlosung vorbereitet. Zu gewinnen gibt es ein Aloe Vera Gel Pur. Sendet
 einfach bis zum 30. August eine E-Mail mit dem Betreff "Aloe" an
-<a href="mailto:anne.reis@cardamonchai.com">info@cardamonchai.com</a>. Wer
-gewinnt, entscheidet das Los. Teilnehmen kann jede\*r mit einem Wohnsitz
-innerhalb Deutschlands. Ich drücke Euch die Daumen!
+[info@cardamonchai.com](mailto:anne.reis@cardamonchai.com). Wer gewinnt,
+entscheidet das Los. Teilnehmen kann jede\*r mit einem Wohnsitz innerhalb
+Deutschlands. Ich drücke Euch die Daumen!
 
-<a href="https://cardamonchai.com/datenschutz/teilnahmebedingungen/" target="_blank" rel="noopener">Hier
-gehts zu den Teilnahmebedingungen</a>
+[Hier gehts zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
 <hr />
 
 <strong>Hinweis:</strong> Die Aktion ist beendet.
-<a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet irgendwann
-wieder eine tolle Verlosung statt</a>.
+[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
 
@@ -222,16 +218,12 @@ einige Fotos gemacht. Bleibt also dran. Es bleibt auf alle Fälle spannend.
 
 Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen
-interessant ist.
-<a href="http://www.santaverde.de/inhaltsstoffe" target="_blank" rel="noopener">Ihr
-findet es hier</a>.
+interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
 möchte,
-<a href="http://www.santaverde.de/bezugsquellen" target="_blank" rel="noopener">findet
-hier eine Liste der Bezugsquellen</a>.
+[findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

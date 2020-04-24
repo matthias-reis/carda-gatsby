@@ -50,9 +50,9 @@ subTitle: '"Druggy music by sober people"'
 <em>English version below</em>
 
 <strong>Shana Falana habe ich erst vor Kurzem für mich entdeckt. In der
-<a href="http://cardamonchai.com/2019/11/13-songs-fuer-den-dezember/">Musikliste
-für den Dezember</a> habe ich Euch ihr Shoegazer Projekt vorgestellt. Jetzt
-haben wir uns zum Interview verabredet.</strong>
+[Musikliste für den Dezember](/2019/11/13-songs-fuer-den-dezember/) habe ich
+Euch ihr Shoegazer Projekt vorgestellt. Jetzt haben wir uns zum Interview
+verabredet.</strong>
 
 Shana stammt ursprünglich aus Brooklyn. Inzwischen hat sie sich im New Yorker
 Stadtteil Kingston niedergelassen. Am 25. Oktober hat sie ihr drittes
@@ -128,8 +128,7 @@ ihren kantigen und so wunderbar verstimmten Gesangsstil voll herausgearbeitet.
 Ja! Ich habe "Bull In The Heather" gerippt und mir gar keine Mühe gegeben, es zu
 verschleiern. Ich habe einfach bei den letzten Lyrics im Song dazu mit dem Kopf
 genickt. Übrigens ist ihr neues Album
-<a href="http://cardamonchai.com/2019/10/12-songs-fuer-den-november/">"No
-Home"</a> auch gerade erschienen.
+["No Home"](/2019/10/12-songs-fuer-den-november/) auch gerade erschienen.
 
 ## "Ich liebe Hörbücher"
 
@@ -267,13 +266,10 @@ reflektieren und meine Gedanken zu teilen. Es ist mir eine große Ehre!
 <iframe src="https://www.youtube.com/embed/ZVUpZQqN-bI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Hat Euch das Interview gefallen? Das freut mich sehr!
-<a href="mailto:info@cardamonchai.com">Meldet Euch gerne</a>, wenn Ihr auch ein
-Musikprojekt habt, über das ich mit Euch reden soll! Um in Zukunft nichts mehr
-zu verpassen, <a href="#newsletter">abonniert gerne meinen Newsletter</a>. Dann
-halte ich Euch auf dem Laufenden.
+[abonniert gerne meinen Newsletter](mailto:info@cardamonchai.com). Dann halte
+ich Euch auf dem Laufenden.
 
-<a href="http://www.shanafalana.com/" target="_blank" rel="noopener">Shana
-Falana Homepage</a> Bilder: Monik Giesel
+[Shana Falana Homepage](http://www.shanafalana.com/) Bilder: Monik Giesel
 
 <hr />
 
@@ -349,9 +345,7 @@ and if you haven't, check out her band <strong>Free Kitten</strong> - they're
 incredible, too. Really showcasing her singing style, which is perfectly out of
 tune and angular. So yea, I ripped off "Bull in the Heather", but I didn't
 disguise it at all, even nodded to it on the last lyric in the song. By the way
-her new album
-<a href="http://cardamonchai.com/2019/10/12-songs-fuer-den-november/">"No
-Home"</a> is also out.
+her new album ["No Home"](/2019/10/12-songs-fuer-den-november/) is also out.
 
 ## "I love audio books"
 
@@ -468,5 +462,4 @@ album and all the best for the future!
 <strong>Shana:</strong> I can't tell how you how honored I am, to be asked these
 questions. I get to reflect and share, it's my greatest honor!
 
-<a href="http://www.shanafalana.com/" target="_blank" rel="noopener">Shana
-Falana Homepage</a> Pictures: Monik Giesel
+[Shana Falana Homepage](http://www.shanafalana.com/) Pictures: Monik Giesel

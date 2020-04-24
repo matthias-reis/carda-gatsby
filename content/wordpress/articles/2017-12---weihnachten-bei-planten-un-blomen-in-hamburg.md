@@ -40,9 +40,8 @@ Heiligen Abend zu einer lieben Tradition geworden. Diese haben wir auch in
 diesem Jahr wieder gepflegt.</strong>
 
 Schon letztes Jahr habe ich Euch hier von unserem
-<a href="http://cardamonchai.com/2016/01/bluetenpracht-im-winter/">weihnachtlichen
-Rundgang</a> durch den Park und den angeschlossenen alten Botanischen Garten
-berichtet.
+[weihnachtlichen Rundgang](/2016/01/bluetenpracht-im-winter/) durch den Park und
+den angeschlossenen alten Botanischen Garten berichtet.
 
 ## Neue Fotos von Planten un Blomen
 
@@ -57,19 +56,18 @@ die Linse gelaufen.
 
 Viel Spaß mit den Bildern. Ich wünsche Euch allen schöne Feiertage! Geht es
 entspannt an und denkt auch
-<a href="http://cardamonchai.com/2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/">in
-vollen Zügen an die Achtsamkeit</a>.
+[in vollen Zügen an die Achtsamkeit](/2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/).
 
 [myflickr tag ="anneplantenunblomen20171224"]
 
 ## Wegweiser Planten un Blomen
 
 <ol>
-    <li><a href="/2015/06/planten-un-blomen/">Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)</a><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
+    <li> [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/) <a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
 </a></li>
-    <li><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">Ein Rundgang durch die Klimazonen (Januar 2016)</a></li>
-    <li><a href="http://cardamonchai.com/2016/01/bluetenpracht-im-winter/">Blütenpracht im Winter (Januar 2016)</a></li>
-    <li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der Brücke (Januar 2016)</a></li>
-    <li><a href="/2016/05/1-mai-bei-planten-un-blomen/">1. Mai bei Planten und Blomen (Mai 2016)</a></li>
+    <li> [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/) </li>
+    <li> [Blütenpracht im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/) </li>
+    <li> [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/) </li>
+    <li> [1. Mai bei Planten und Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/) </li>
     <li>Weihnachten bei Planten un Blomen (Dezember 2017)</li>
 </ol>

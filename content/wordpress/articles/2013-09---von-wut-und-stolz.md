@@ -36,11 +36,10 @@ bedeutet, dass ich seit sieben Tagen nicht mehr geraucht habe. Zeit für die
 erste Belohnung und für einen kleinen Rückblick. </strong>
 
 Was ich seit
-<a title="Mein Pakt mit dem Schweinehund" href="//2013/09/09/mein-pakt-mit-dem-schweinehund/" target="_blank" rel="noopener">letztem
-Montag um 13:30 Uhr</a> erlebt habe? So einiges. Und die halbe Schachtel, die
-ich um diese Uhrzeit in meine Schreibtischschublade gelegt habe, liegt dort
-immer noch. Ich habe sie kein einziges Mal angerührt. Ihr dürft also stolz auf
-mich sein.
+[letztem Montag um 13:30 Uhr](//2013/09/09/mein-pakt-mit-dem-schweinehund/)
+erlebt habe? So einiges. Und die halbe Schachtel, die ich um diese Uhrzeit in
+meine Schreibtischschublade gelegt habe, liegt dort immer noch. Ich habe sie
+kein einziges Mal angerührt. Ihr dürft also stolz auf mich sein.
 
 Den Rest des Montags verbrachte ich voller Euphorie, weil ich ja gerade
 aufgehört hatte und vor allem auch, weil ich mich mit meinem Aufhör-Artikel ja
@@ -57,13 +56,8 @@ Nachhinein betrachtet, schon ein Bisschen Auftrieb gegeben.
 ![Früchtetee statt Nikotinpflaster | full](http://cardamonchai.files.wordpress.com/2013/09/tc3bcren.jpg "Früchtetee statt Nikotinpflaster")
 
 Was mir bis heute geblieben ist:
-<a title="Der Trick ist, dich zu freuen" href="//2013/09/10/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/" target="_blank" rel="noopener">Die
-Worte der Twitterer und RL-Freunde</a>, die mich am Dienstag erreichten
-("<a title="Patoempf" href="https://twitter.com/Patoempf" target="_blank" rel="noopener">Der
-Trick ist, dich zu freuen, dass du nicht mehr rauchen musst!</a>",
-"<a title="Twittschicat" href="https://twitter.com/twittschicat" target="_blank" rel="noopener">Zwei
-Tage waren hart, danach hat es seltsamerweise nie wieder gekribbelt.</a>")
-laufen seitdem Mantra-artig auf meiner Kopf-Festplatte in Dauerschleife.
+[Zwei Tage waren hart, danach hat es seltsamerweise nie wieder gekribbelt.](//2013/09/10/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/)"
+) laufen seitdem Mantra-artig auf meiner Kopf-Festplatte in Dauerschleife.
 
 Als es am Abend dann an die Organisation unseres anstehenden Umzuges ging, bei
 der einige Fragen noch nicht geklärt waren, wurde ich schon nervöser. Kurzzeitig
@@ -74,14 +68,14 @@ die Stinkedinger wieder vergessen.
 
 Nachdem ich am Mittwoch die Arbeit ganz gut mit Früchtetee statt Kippen
 verbracht hatte, wurde es am Abend richtig haarig. Ich hatte mich mit einer
-<a title="Istanbul mit anderen Augen" href="//2013/06/05/istanbul-mit-anderen-augen/" target="_blank" rel="noopener">guten
-Freundin von früher</a> verabredet, die seit längerer Zeit in Istanbul lebt und
-nur noch sehr selten in Deutschland zu Besuch ist. Natürlich war ich aufgedreht,
-das kann man sich ja vorstellen. Als sie dann auch noch eine zweite Freundin aus
-dieser Zeit mitbrachte, die vor einiger Zeit nach Malaysia übergesiedelt war und
-von der ich schon in der Zeit davor aus den Augen verloren hatte, war es ganz um
-mich geschehen. Ich freute mich wie verrückt. Natürlich machten sich die beiden
-bei der Begrüßung gleich erst mal eine Zigarette an.
+[guten Freundin von früher](//2013/06/05/istanbul-mit-anderen-augen/)
+verabredet, die seit längerer Zeit in Istanbul lebt und nur noch sehr selten in
+Deutschland zu Besuch ist. Natürlich war ich aufgedreht, das kann man sich ja
+vorstellen. Als sie dann auch noch eine zweite Freundin aus dieser Zeit
+mitbrachte, die vor einiger Zeit nach Malaysia übergesiedelt war und von der ich
+schon in der Zeit davor aus den Augen verloren hatte, war es ganz um mich
+geschehen. Ich freute mich wie verrückt. Natürlich machten sich die beiden bei
+der Begrüßung gleich erst mal eine Zigarette an.
 
 ![Eulen helfen immer | full](http://cardamonchai.files.wordpress.com/2013/09/eulen.jpg "Eulen helfen immer")
 
@@ -148,17 +142,16 @@ Evelyn beim Sport angemeldet. Was ganz Neues.
 
 Ob ich es für immer schaffe, kann ich nicht sagen. Im Moment fühlt es sich gut
 an. Manche Situationen kann ich mir auch jetzt noch nicht ohne Zigaretten
-vorstellen
-(<a title="Southside 2013" href="//2013/07/01/southside-festival-2013/" target="_blank" rel="noopener">Festival</a>:
-Campingplatz, warten auf die Bands), aber die Bilder im Kopf verlieren auch nach
-und nach an Glanz.
+vorstellen ( [Festival](//2013/07/01/southside-festival-2013/) : Campingplatz,
+warten auf die Bands), aber die Bilder im Kopf verlieren auch nach und nach an
+Glanz.
 
 Der Schweinehund hat heute (siehe Bild oben) das erste Geschenk von mir
 bekommen.
-<a title="Mein Pakt mit dem Schweinehund" href="//2013/09/09/mein-pakt-mit-dem-schweinehund/" target="_blank" rel="noopener">Für
-eine Woche Abstinenz</a> kann er sich jetzt "Six Feed Under" mit mir ankucken.
-Wehe, die Serie ist nicht so gut, wie der Schweinehund behauptet hat. Dann kann
-das wollige Ungetüm sich auf was gefasst machen.
+[Für eine Woche Abstinenz](//2013/09/09/mein-pakt-mit-dem-schweinehund/) kann er
+sich jetzt "Six Feed Under" mit mir ankucken. Wehe, die Serie ist nicht so gut,
+wie der Schweinehund behauptet hat. Dann kann das wollige Ungetüm sich auf was
+gefasst machen.
 
 <em>Drückt mir die Daumen. Ich werde weiter berichten.</em>
 

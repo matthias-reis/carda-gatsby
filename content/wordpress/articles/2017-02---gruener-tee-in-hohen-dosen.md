@@ -138,9 +138,7 @@ ungefähr so viel, wie 1/10 Tasse Kaffee.
 ## Wo kommt es her?
 
 Die Firma hat ihren Sitz in München Grünwald. Weitere Infos sind außerdem auf
-der
-<a href="https://tigofit.com" target="_blank" rel="noopener">Homepage</a> von
-<em>tigovit </em>zu finden.
+der [Homepage](https://tigofit.com)  von <em>tigovit </em>zu finden.
 
 ## Mein Fazit
 
@@ -157,19 +155,15 @@ Ich kann mir durchaus vorstellen, tigovit auch mal über einen längeren Zeitrau
 zu testen. Es würde mir auch nichts ausmachen, 2 –3 Kapseln am Tag zu schlucken.
 Das ist das Einzige, was man sich meiner Meinung nach überlegen muss, wenn man
 überlegt, es mal zu probieren.
-<a href="http://cardamonchai.com/2017/03/tigovit-interview/">Hier gehts zum
-Interview mit Tanja Hohenester, der Gründerin von tigovit</a>.
+[Hier gehts zum Interview mit Tanja Hohenester, der Gründerin von tigovit](/2017/03/tigovit-interview/).
 
 ![tigovit | full](http://cardamonchai.com/wp-content/uploads/2017/02/tigofit2.png)
 
 <strong>Bilder und Grafiken:</strong> Mit
-<a href="https://tigovit.com" target="_blank" rel="noopener">freundlicher
-Genehmigung</a> von tigovit.
+[freundlicher Genehmigung](https://tigovit.com) von tigovit.
 
-Mehr Infos auf der tigovit
-<a href="https://tigovit.com" target="_blank" rel="noopener">Hompage</a>.
+Mehr Infos auf der tigovit [Hompage](https://tigovit.com).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Infos zum Thema Werbung in
-meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

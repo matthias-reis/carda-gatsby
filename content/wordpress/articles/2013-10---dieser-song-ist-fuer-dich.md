@@ -70,11 +70,11 @@ Montag waren wir kurz zur Untersuchung dort und von der Emfangsdame bis zum
 Lehrmädchen haben sich alle gefreut, ihn wiederzusehen.
 
 Übrigens habe ich
-<a title="Mein Pakt mit dem Schweinehund" href="//2013/09/09/mein-pakt-mit-dem-schweinehund/">meinen
-Pakt mit dem Schweinehund</a> bis jetzt nicht gebrochen. Letzten Mittwoch habe
-ich meine Stiefel bestellt, die ich von ihm zu Belohnung bekomme, dass ich jetzt
-seit einem Monat nicht mehr rauche. Leider sind sie noch nicht da, aber ich
-poste gerne eine Foto, sobald sie bei mir eintreffen.
+[meinen Pakt mit dem Schweinehund](//2013/09/09/mein-pakt-mit-dem-schweinehund/)
+bis jetzt nicht gebrochen. Letzten Mittwoch habe ich meine Stiefel bestellt, die
+ich von ihm zu Belohnung bekomme, dass ich jetzt seit einem Monat nicht mehr
+rauche. Leider sind sie noch nicht da, aber ich poste gerne eine Foto, sobald
+sie bei mir eintreffen.
 
 Jetzt, da es wieder ein Bisschen ruhiger wird und ich hoffentlich auch häufiger
 wieder die Zeit dazu finden werde, gelobe ich Besserung. Ich will auf jeden Fall
@@ -86,9 +86,9 @@ auch für Euch eine kleine Galerie erstellen. Ich werde Euch auf jeden Fall auf
 dem Laufenden halten.
 
 Übrigens habe ich vor Kurzem mit dem
-<a title="Marleen " href="http://marleenrecords.wordpress.com/" target="_blank" rel="noopener">Schallplattenhändler
-meines Vertrauens</a> geschrieben. Große Veröffentlichungen werfen die
-glänzenden Schatten ihres funkelnden Lichts voraus:
+[Schallplattenhändler meines Vertrauens](http://marleenrecords.wordpress.com/)
+geschrieben. Große Veröffentlichungen werfen die glänzenden Schatten ihres
+funkelnden Lichts voraus:
 
 <blockquote><span style="color: #993366;"><em>"Hallo Martin, wie sieht es denn mit Dodos, Russian Circles, Pearl Jam, Mark Lanegan, Pelican und Arcade Fire aus?"</em></span><span style="color: #808080;"><em>"Hallo Anne, Dodos ist da, Pearl Jam CD ist raus, Vinyl ist aber verschoben worden, Lanegan LP ist da, Russian/Pelican/Arcade kommen erst Ende Oktober raus. Gruß Martin"</em></span></blockquote>
 
@@ -96,9 +96,7 @@ glänzenden Schatten ihres funkelnden Lichts voraus:
 
 Ich bin schon unglaublich gespannt, Ihr auch? Einen kleinen Teaser hat mir
 Martin ja schon geschickt, Ihr findet Ihn
-<a title="Arcade Fire Teaser" href="http://www.nme.com/news/arcade-fire/73181#2" target="_blank" rel="noopener">hier</a>.
-Ist wirklich sehenswert. Ihr sollt auf jeden Fall
-<a title="Arcade Fire Teaser" href="http://www.nme.com/news/arcade-fire/73181#2" target="_blank" rel="noopener">draufklicken</a>.
+[draufklicken](http://www.nme.com/news/arcade-fire/73181#2).
 
 Wie gefällt Euch das neue Pearl Jam Album? Ich finde, es ist eine Wucht, ich
 werde mich heute Abend auch auf jeden Fall noch etwas eingehender damit
@@ -106,7 +104,6 @@ beschäftigen. Vorab hier schon mal ein wundervoller Auszug daraus. Der Song
 heißt Sirens.
 
 Mathis, dieser Song ist für Dich. &lt;3
-<a title="Isle Of Wight Festival 2012" href="//2012/07/29/isle-of-wight-festival-2012/">Weißt
-Du noch</a>? :-)
+[Weißt Du noch](//2012/07/29/isle-of-wight-festival-2012/) ? :-)
 
 [youtube=http://www.youtube.com/watch?v=qQXP6TDtW0w&amp;w=560&amp;h=315]

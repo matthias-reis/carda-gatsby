@@ -57,7 +57,7 @@ Weitere Berichte zum Festival von mir folgen...
 
 [myflickr tag="annegetwellsoonasummerstale2015"]
 
-## A Summer's Tale 2015 Wegweiser<ol><li><a href="http://cardamonchai.com/2015/08/get-well-soon-live-a-summers-tale-festival-2015/">Get Well soon live @ A Summer's Tale Festival 2015</a></li><li><a href="http://cardamonchai.com/2015/08/hundreds-live-a-summers-tale-festival-2015/">Hundreds live @ A Summer's Tale Festival 2015</a></li><li><a href="http://cardamonchai.com/2015/08/calexico-live-a-summers-tale-festival-2015/">Calexico live @ A Summer's Tale Festival 2015</a></li><li><a href="http://cardamonchai.com/2015/08/a-summers-tale-festival-2015/">Bildergalerie und Fazit A Summer's Tale Festival 2015</a></li></ol><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+## A Summer's Tale 2015 Wegweiser<ol><li> [](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
 
 &nbsp;
 

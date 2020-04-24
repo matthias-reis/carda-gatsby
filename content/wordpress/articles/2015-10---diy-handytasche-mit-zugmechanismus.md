@@ -46,11 +46,9 @@ Ihr die sensationell schöne Handytasche herhabt.
 Besonders klasse finde ich ja den eingebauten Zugmechanismus, damit hat man das
 Handy wirklich in Sekundenschnelle in der Hand, wenn es klingelt. Aus dem
 wundervollen Fuchsstoff habe ich ja bereits
-<a href="/2015/09/diy-koernerkissen-naehanleitung/">ein Körnerkissen</a> und
-eine <a href="/2015/09/kleine-handtasche-zum-selbermachen/">kleine
-Umhängetasche</a> geschneidert, die sich hier nach wie vor reger Beliebtheit
-erfreuen. Schon bald wird es auch noch eine Kosmetiktasche geben, sie steht
-schon in den Startlöchern.
+[kleine Umhängetasche](/2015/09/diy-koernerkissen-naehanleitung/) geschneidert,
+die sich hier nach wie vor reger Beliebtheit erfreuen. Schon bald wird es auch
+noch eine Kosmetiktasche geben, sie steht schon in den Startlöchern.
 
 Doch nun zu meiner genialen Handytasche mit Zugmechanismus. Gefunden habe ich
 sie auf der Seite von Mary's Kitchen, sie stellt ein kostenloses Schnittmuster
@@ -66,10 +64,8 @@ Einsatz des Trennhäkchens zwischen den einzelnen Schritten.
 
 Viel Spaß beim Nähen! Wie Ihr aus einem langweiligen Jutebeutel einen
 praktischen Rucksack schneidert,
-<a href="http://2015/09/diy-upcycling-turnbeutel/">erfahrt Ihr hier</a>.
+[erfahrt Ihr hier](http://2015/09/diy-upcycling-turnbeutel/).
 
 [myflickr tag="annehandytasche2015"]
 
-[1]
-<a href="http://marys.kitchen/anleitung-handyschlafsack/" target="_blank" rel="noopener">Die
-Nähanleitung von Mary's Kitchen findet Ihr hier</a>
+[1][die nähanleitung von mary's kitchen findet ihr hier](http://marys.kitchen/anleitung-handyschlafsack/)

@@ -42,12 +42,8 @@ wurde. Und: Dass ich auch dieses Mal wieder dabei sein darf.</strong>
 Eels macht für mich schon immer Musik für die Seele. Besonders "I like birds"
 berührt diese eine unsichtbare Stelle sehr stark. Das ist zumindest meine
 Meinung. Ich werde wie bei meinem ersten Blind Date mit einem Song (Es ging um
-Nancy Sinatras
-"<a href="http://cardamonchai.com/2017/07/blind-date-summerwine/">Summerwine</a>")
-keine klassische Rezension schreiben,
-<a href="http://cardamonchai.com/2014/09/flucht-in-die-flucht/">wie Ihr sie von
-mir kennt</a>. Ich höre den Song an und erzähle Euch, was mir dabei durch den
-Kopf geht.
+Nancy Sinatras "[wie Ihr sie von mir kennt](/2017/07/blind-date-summerwine/).
+Ich höre den Song an und erzähle Euch, was mir dabei durch den Kopf geht.
 
 ## Für alle, die die Bloggeraktion "Blind Date mit einem Song" noch nicht kennen, hier noch eine kurze Erklärung:
 
@@ -175,19 +171,16 @@ you to perch on I've got a feeder for you to perch on
 
 ## Teilnehmer beim Blind Date mit "I like birds"
 
-<a href="https://gartenbaukunst.wordpress.com/" target="_blank" rel="noopener">\*Gartenbaukunst</a>
-<a href="https://www.hauptstadtgarten.de/" target="_blank" rel="noopener">Hauptstadtgarten</a>
-<a href="https://www.beetkultur.de/" target="_blank" rel="noopener">Beetkultur</a>
-<a href="https://rienmakaefer.com/" target="_blank" rel="noopener">Rienmakaefer</a>
-<a href="http://der-kleine-horror-garten.de/" target="_blank" rel="noopener">Der
-kleine Horrorgarten</a>
-<a href="http://yeoldekitchen.com/" target="_blank" rel="noopener">Ye olde
-Kitchen</a>
-<a href="https://laubenhausmaedchen.wordpress.com/" target="_blank" rel="noopener">Laubenhausmädchen</a>
-<a href="https://karotinasblog.wordpress.com/" target="_blank" rel="noopener">Karo-Tina
-Aldente</a> Anne bloggt cardamonchai (aka ich :-) )
-<a href="https://sindimgarten.wordpress.com/" target="_blank" rel="noopener">Sind
-im Garten</a>
-<a href="http://millibloom.com/" target="_blank" rel="noopener">Milli Bloom</a>
+[\*Gartenbaukunst](https://gartenbaukunst.wordpress.com/)
+[Hauptstadtgarten](https://www.hauptstadtgarten.de/)
+[Beetkultur](https://www.beetkultur.de/)
+[Rienmakaefer](https://rienmakaefer.com/)
+[Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)
+[Ye olde Kitchen](http://yeoldekitchen.com/)
+[Laubenhausmädchen](https://laubenhausmaedchen.wordpress.com/)
+[Karo-Tina Aldente](https://karotinasblog.wordpress.com/) Anne bloggt
+cardamonchai (aka ich :-) )
+[Sind im Garten](https://sindimgarten.wordpress.com/)
+[Milli Bloom](http://millibloom.com/)
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

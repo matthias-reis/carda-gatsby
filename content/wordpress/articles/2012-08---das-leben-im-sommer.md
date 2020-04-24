@@ -79,10 +79,10 @@ glitzernd. Immer in Bewegung. Genau wie ein Strand. Geformt vom Ozean.
 
 <em>Ich wünsche allen einen schönen Montag. Hiermit möchte ich nochmal
 freundlich auf mein
-<a title="Gewinnspiel" href="//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/">spektakuläres
-Gewinnspiel</a> hinweisen, für das ich weder Kosten noch Mühen gescheut habe. Es
-gibt tolle Musik zu Gewinnen. Ich würde mich sehr freuen, wenn Ihr mitmacht und
-das womöglich auch noch weitererzählt. </em><em>Liebe Grüße aus der
+[spektakuläres Gewinnspiel](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)
+hinweisen, für das ich weder Kosten noch Mühen gescheut habe. Es gibt tolle
+Musik zu Gewinnen. Ich würde mich sehr freuen, wenn Ihr mitmacht und das
+womöglich auch noch weitererzählt. </em><em>Liebe Grüße aus der
 Mittagspausensonne hinter dem Bürofenster. </em>
 
 ![ | full](http://cardamonchai.files.wordpress.com/2012/08/255337_448938665128268_1765079901_n-foto-auf-sandstein1.jpg "Bild: Foto auf Sandstein Anne Reko Rockham Beach/Mortehoe/Woolacombe/North Devon/England 6/2012 Modell: Anne Reko")

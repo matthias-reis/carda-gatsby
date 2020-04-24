@@ -72,4 +72,4 @@ Die inzwischen zwei Vorauskopplungen vom für den 6. März angekündigten Album
 
 Hat Euch mein Beitrag gefallen? Dann bleibt am besten dran! In Kürze gibt es
 hier noch mehr von Sphaèros! Um nichts zu verpassen, könnt Ihr gerne
-<a href="#newsletter">meinen Newsletter abonnieren</a>.
+[meinen Newsletter abonnieren](#newsletter).

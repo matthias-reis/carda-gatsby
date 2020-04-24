@@ -74,12 +74,12 @@ Sarkasmus ist keine obsthaltige Nachspeise und passiert auch nicht beim Sex. Das
 haben Wissenschaftler herausgefunden.
 
 Mett jetzt auch für Vegetarier. Käsekuchen vom
-<a title="Zopf" href="http://arschhaarzopf.wordpress.com/">Zopf</a>. Kollektive
-Schlaflosigkeit. Am besten mit gefülltem Akku. Leicht lyrisch, generell eher
-trocken und nüchtern, aber immer mit Herz.
+[Zopf](http://arschhaarzopf.wordpress.com/). Kollektive Schlaflosigkeit. Am
+besten mit gefülltem Akku. Leicht lyrisch, generell eher trocken und nüchtern,
+aber immer mit Herz.
 
 Wer wissen möchte, wie es weitergeht, kann dies gerne auf
-<a title="Twitter" href="https://twitter.com/Anne_Reko">Twitter</a> nachlesen.
+[Twitter](https://twitter.com/Anne_Reko) nachlesen.
 
 ![ | small](http://cardamonchai.com/wp-content/uploads/2012/10/519079845-320x239.jpg)
 

@@ -97,11 +97,10 @@ Die Creme zieht gut ein und hinterlässt keinen Fettfilm.
 an. Rund um die Augen ist mit Sicherheit noch viel Pflege nötig, aber Stirn und
 Wangen sind schon viel entspannter, als vor dem Test. Besonders den Toner liebe
 ich und verwende ihn täglich. Ich habe ihn inzwischen schon mit
-<a href="http://cardamonchai.com/2018/01/ashera-yin-yang-balance/">anderen
-Produkten</a> kombiniert. Auch mit ihnen hat er sich sehr gut verbunden und ich
-habe das Gefühl, dass er meiner Haut zusätzliche Feuchtigkeit spendet. Der Duft
-ist sehr angenehm und er kühlt sehr schön. Gut finde ich auch, dass er in einer
-Glasflasche geliefert wird.
+[anderen Produkten](/2018/01/ashera-yin-yang-balance/) kombiniert. Auch mit
+ihnen hat er sich sehr gut verbunden und ich habe das Gefühl, dass er meiner
+Haut zusätzliche Feuchtigkeit spendet. Der Duft ist sehr angenehm und er kühlt
+sehr schön. Gut finde ich auch, dass er in einer Glasflasche geliefert wird.
 
 Die Creme, das Gel und die Reinigungsemulsion sind auch für emfindliche
 Rosacea-Haut geeignet. Personen mit weniger trockener Haut empfehle ich, eher,
@@ -125,16 +124,15 @@ bedeutet, dass alle Rezepturen aus reinen Pflanzensäften, -ölen, zarten
 Hydrolaten sowie gehaltvollen Pflanzenextrakten zusammengesetzt sind.
 Chemisch-synthetische Duft-, Farb- und Konservierungsstoffe, Mineralöle und
 Parabene kommen in den Produkten nicht vor. Sie sind mit dem international
-anerkannten NATRUE-Gütesiegel<a href="#1"><sup>1</sup></a> für zertifizierte
-Naturkosmetik ausgezeichnet.
+anerkannten NATRUE-Gütesiegel [](#1) für zertifizierte Naturkosmetik
+ausgezeichnet.
 
 ## Tierleidfrei
 
-Zwei weitere Siegel sind das Leaping Bunny Siegel<a href="#2"><sup>2</sup></a>
-sowie das Label der Vegan Society<a href="#3"><sup>3</sup></a>. Das Leaping
-Bunny Siegel ist weltweit anerkannt. Es steht für garantiert Tierleid-freie
-Kosmetik. Mit dem Logo sind auch Tierversuche mit einzelnen Rohstoffen und
-Fertigprodukten weltweit wirksam ausgeschlossen.
+Zwei weitere Siegel sind das Leaping Bunny Siegel [](#2). Das Leaping Bunny
+Siegel ist weltweit anerkannt. Es steht für garantiert Tierleid-freie Kosmetik.
+Mit dem Logo sind auch Tierversuche mit einzelnen Rohstoffen und Fertigprodukten
+weltweit wirksam ausgeschlossen.
 
 <blockquote><em>Kleine Erklärung am Rande:</em> Produkte und Rohstoffe sowie deren Vertrieb, die an Tieren getestet wurden, sind seit Kurzem innerhalb der EU verboten. Das Gesetz greift allerdings nicht außerhalb der EU. Weshalb viele Produkte zwar sogar als "vegan" gekennzeichnet sind, jedoch zum Beispiel in China verkauft werden. Dort sind Tierversuche noch heute vorgeschrieben, bevor ein Produkt verkauft werden darf. Dieses Dilemma ist daher auch unter dem Namen "China-Problematik" bekannt.</blockquote>
 
@@ -160,8 +158,7 @@ gewählte Sensitivpflegereihe bietet neben "meinen Produkten" unter anderem auch
 noch eine "rich cream", die ich vielleicht mal für meine ewig trockene
 Augenpartie testen werde, sowie ein Reinigungsgel. Vielleicht kommt ja für Euch
 auch eher die Age Perfect Serie oder die Pur Serie in Frage. Am besten
-informiert Ihr Euch selbst, was am besten zu Euch
-passt<a href="#4"><sup>4</sup></a>.
+informiert Ihr Euch selbst, was am besten zu Euch passt [](#4).
 
 ## Wertvoller Aloe Vera Saft
 
@@ -203,9 +200,7 @@ tropischen Anbaugebieten der Fall ist.
 
 Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen
-interessant ist.
-<a href="http://www.santaverde.de/inhaltsstoffe" target="_blank" rel="noopener">Ihr
-findet es hier</a>.
+interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
 ![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/01/2018-01-13-Santaverde-13-300x200.jpg)
 
@@ -214,13 +209,12 @@ findet es hier</a>.
 ### Fußnoten:
 
 <ul>
-    <li id="1">[1] <a href="http://www.natrue.org" target="_blank" rel="noopener">Infos über NATRUE-Gütesiegel</a></li>
-    <li id="2">[2] <a href="http://www.leapingbunny.org" target="_blank" rel="noopener">Alles über das Leaping Bunny Siegel </a></li>
-    <li id="3">[3] <a href="http://www.vegansociety.com" target="_blank" rel="noopener">Infos über das Label der Vegan Society</a></li>
-    <li id="4">[4] <a href="http://www.santaverde.de" target="_blank" rel="noopener">Homepage Santaverde</a></li>
+    <li id="1">[1]  [Infos über NATRUE-Gütesiegel](http://www.natrue.org) </li>
+    <li id="2">[2]  [Alles über das Leaping Bunny Siegel](http://www.leapingbunny.org) </li>
+    <li id="3">[3]  [Infos über das Label der Vegan Society](http://www.vegansociety.com) </li>
+    <li id="4">[4]  [Homepage Santaverde](http://www.santaverde.de) </li>
 </ul>
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

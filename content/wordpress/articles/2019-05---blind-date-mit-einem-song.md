@@ -96,11 +96,10 @@ unternommen habe. Ich hatte das große Glück in einer sehr musikinteressierten
 Familie großzuwerden. Mein Vater hat damals Jimi Hendrixs live auf Fehmarn und
 Jethro Tull, Small Faces und Joe Cocker im legendären Marquee Club erlebt. Er
 verbrachte einen großen Teil seiner Jugend in
-<a href="https://cardamonchai.com/category/unterwegs/england/">Großbritannien</a>
-und war damit sozusagen live dabei bei der Entstehung des Rock 'n' Roll. Ich
-sage das ohne zu übertreiben oder anzugeben. Mich als seine Tochter hat das von
-Anfang an geprägt - mein Interesse für Musik wurde mir sozusagen in die Wiege
-gelegt.
+[Großbritannien](/category/unterwegs/england/) und war damit sozusagen live
+dabei bei der Entstehung des Rock 'n' Roll. Ich sage das ohne zu übertreiben
+oder anzugeben. Mich als seine Tochter hat das von Anfang an geprägt - mein
+Interesse für Musik wurde mir sozusagen in die Wiege gelegt.
 
 <iframe src="https://www.youtube.com/embed/rL7cJYSvvi8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -111,9 +110,9 @@ schränkeweise Schallplatten, Tonbänder und Kassetten mit Aufnahmen der
 verschiedensten Künstler von Greatfull Dead und Ten Years After über John Lee
 Hooker und Joni Mitchel, Canned Heat, Led Zeppelin, Woody Guthrie, Crosbie,
 Stills, Nash &amp; Young, BB King und natürlich
-<a href="http://cardamonchai.com/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/">Bob
-Dylan</a>. Neben dieser Vielfalt gab es noch ein stattliche Sammlung aus der
-Jazz-Ecke sowie einige klassische Sahnestücke.
+[Bob Dylan](/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/). Neben
+dieser Vielfalt gab es noch ein stattliche Sammlung aus der Jazz-Ecke sowie
+einige klassische Sahnestücke.
 
 Mein Vater kümmerte sich nicht alleine um die musikalische Früherziehung: Meine
 Oma, die mit ihren 90 Jahren heute noch im Chor singt, hat ihre Kinder und Enkel
@@ -174,12 +173,12 @@ Wisst Ihr, was ich mir manchmal wünsche? Eine Galerie aus den Bildern, die die
 Menschen, die mir so begegnen, von mir im Kopf haben. Die Wäscheverkäuferin, die
 mich äußerst zuvorkommend und fast untertänig betreute, als ich geschminkt und
 im Sakko die Boutique betrat und mich todignorierte, als ich ungeschminkt im
-<a href="http://cardamonchai.com/2012/10/deftones-neuer-song/">Deftones</a>-T-Shirt
-vorbeikam. Die ältere Frau am Nebentisch, die nicht aufhören konnte, mich dabei
-zu beobachten, wie ich genüsslich meinen veganen Burger und mein alkoholfreies
-Weißbier verspeiste und sich dabei permanent lautstark bei ihrer Freundin über
-meine Tätowierungen (den wilden Alkoholkonsum tätowierter Menschen ließ sie
-dabei selbstverständlich nicht aus) mokierte.
+[Deftones](/2012/10/deftones-neuer-song/) -T-Shirt vorbeikam. Die ältere Frau am
+Nebentisch, die nicht aufhören konnte, mich dabei zu beobachten, wie ich
+genüsslich meinen veganen Burger und mein alkoholfreies Weißbier verspeiste und
+sich dabei permanent lautstark bei ihrer Freundin über meine Tätowierungen (den
+wilden Alkoholkonsum tätowierter Menschen ließ sie dabei selbstverständlich
+nicht aus) mokierte.
 
 Der Nachbar, der mir den Stinkefinger zeigte, als ich im Mietwagen aus der
 Parklücke vor unserem Wohnblock ausscherte. Die Frau, die während meiner
@@ -189,9 +188,9 @@ ließe sich unendlich verlängern und ich glaube, es käme eine wirklich
 interessante und irre bunte Collage dabei heraus, oder?
 
 Etwas daran freut mich wirklich ganz besonders. Es ist eines der besten
-<a href="http://cardamonchai.com/2019/05/10-ideen-fuer-mehr-glueckliche-momente/">Dinge,
-die einem bewusst werden können</a>: Es spielt überhaupt keine Rolle, wie die
-Bilder aussehen, die die Menschen in ihren Köpfen von uns zeichnen!
+[Dinge, die einem bewusst werden können](/2019/05/10-ideen-fuer-mehr-glueckliche-momente/)
+: Es spielt überhaupt keine Rolle, wie die Bilder aussehen, die die Menschen in
+ihren Köpfen von uns zeichnen!
 
 Dennoch würde es mich freuen, wenn sich die Menschenheit mehr Toleranz zulegen
 würde. Das Wort bedeutet übrigens, Menschen so sein zu lassen, wie sie sind:
@@ -208,8 +207,7 @@ auf Fehmarn so
 
 Heute kann man das nicht mehr oft erleben. Zum Glück gibt es ein paar Ausnahmen,
 wie das
-<a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">Dunk
-Festival in Belgien</a>.
+[Dunk Festival in Belgien](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/).
 
 ## The Temptations - "Papa Was A Rolling Stone"
 
@@ -228,20 +226,4 @@ Rolling Stone".
 <h4><iframe src="https://www.youtube.com/embed/nXiQtD5gcHU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 Beim Blogger Blind Date mit einem Song sind dieses Mal dabei:</h4>
 
-<a href="https://www.gartenbaukunst.net" target="_blank" rel="noopener">Gartenbaukunst</a>,
-<a href="https://www.beetkultur.de/" target="_blank" rel="noopener">Beetkultur</a>, <a href="https://der-kleine-horror-garten.de/" target="_blank" rel="noopener">Der
-kleine Horrorgarten</a>,
-<a href="http://www.stadtfarm.com/bloga" target="_blank" rel="noopener">Stadtfarm</a>,
-<a href="https://rienmakaefer.com/" target="_blank" rel="noopener">Rienmakäfer</a>, <a href="https://www.garteneuphorie.de/" target="_blank" rel="noopener">Garteneuphorie</a>,
-<a href="https://www.garteninspektor.com/" target="_blank" rel="noopener">Garteninspektor,</a>
-<a href="https://faunundfarn.de/" target="_blank" rel="noopener">Faun &amp;
-Farn</a>,
-<a href="https://laubenhausmaedchen.de/" target="_blank" rel="noopener">Laubenhausmädchen</a>,
-<a href="https://www.naturgartenideen.de/" target="_blank" rel="noopener">Naturgartenideen</a>,
-<a href="https://einstueckarbeit.de" target="_blank" rel="noopener">Ein Stück
-Arbeit</a>,
-<a href="https://www.insgram.com/herwoodenheart/?hl=de" target="_blank" rel="noopener">Herwoodenheart</a>,
-<a href="https://www.kistengruen.de/wp/" target="_blank" rel="noopener">Kistengrün</a>,
-<a href="https://wirgartenkinder.de" target="_blank" rel="noopener">WirGartenkinder</a>,
-<a href="https://www.wohnungsgarten.de" target="_blank" rel="noopener">Wohnungsgarten</a>
-und meine Wenigkeit.
+[Wohnungsgarten](https://www.gartenbaukunst.net) und meine Wenigkeit.

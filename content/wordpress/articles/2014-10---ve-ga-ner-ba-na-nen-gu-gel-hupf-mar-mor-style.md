@@ -64,7 +64,7 @@ Tage lang essen können, natürlich je nach Hunger und Magengröße. Falls ihr e
 größeren Gugelhupf backen wollt, verdoppelt einfach die Menge, er passt trotzdem
 noch in die Form, ich habe nur einen kleinen Teil davon genutzt.
 
-## Bananengugelhupf Marmorstyle - Zutaten<ul><li>1,5 Tassen Dinkelmehl</li><li>3 Bananen (am besten welche, die schön weich sind)</li><li>3/4 Tasse Rohrohrzucker</li><li>2 Esslöffel Distelöl</li><li>1/2 Tasse Haferdrink</li><li>1 Vanilleschote (Wir hatten noch welche von unserem <a title="Bali-Trip" href="//tag/bali-trip/">Bali-Trip</a> übrig, ihr könnt die auch hierzulande auf dem Markt oder im Bioladen kaufen)</li><li>1 Päckchen Backpulver oder 1 Teelöffel Natron</li><li>1 Messerspitze Salz</li><li>3-4 Esslöffel Kakaopulver</li><li>1/4 Tasse heißes Wasser</li><li>Kokosöl</li></ul>
+## Bananengugelhupf Marmorstyle - Zutaten<ul><li>1,5 Tassen Dinkelmehl</li><li>3 Bananen (am besten welche, die schön weich sind)</li><li>3/4 Tasse Rohrohrzucker</li><li>2 Esslöffel Distelöl</li><li>1/2 Tasse Haferdrink</li><li>1 Vanilleschote (Wir hatten noch welche von unserem [Bali-Trip](//tag/bali-trip/) übrig, ihr könnt die auch hierzulande auf dem Markt oder im Bioladen kaufen)</li><li>1 Päckchen Backpulver oder 1 Teelöffel Natron</li><li>1 Messerspitze Salz</li><li>3-4 Esslöffel Kakaopulver</li><li>1/4 Tasse heißes Wasser</li><li>Kokosöl</li></ul>
 
 [gallery link="none" size="medium" columns="2" type="rectangular"
 ids="9091,9096,9095,9094,9092,9099,9097,9093,9090,9098"]

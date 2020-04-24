@@ -47,6 +47,6 @@ also stay tuned! &lt;3
 
 "Wind ist erst, wenn die Schafe keine Locken mehr haben" - Unbekannt
 
-## Unser Kiel-Besuch - Wegweiser<ol><li><a href="/2015/11/ein-besuch-in-kiel/">Ein Besuch in Kiel</a></li><li><a href="/2015/11/die-moewe/">Die Möwe</a></li><li><a href="/2015/11/noch-mehr-kiel/">Noch mehr Kiel</a></li></ol>
+## Unser Kiel-Besuch - Wegweiser<ol><li> [Noch mehr Kiel](/2015/11/ein-besuch-in-kiel/) </li></ol>
 
 &nbsp;

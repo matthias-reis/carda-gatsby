@@ -39,8 +39,7 @@ thumbnailId: "4800"
 subTitle: Pfoten und Fell
 ---
 
-<strong>Ich habe heute auf
-<a title="Facebook " href="https://www.facebook.com/cardamonchai" target="_blank" rel="noopener">Facebook</a>
+<strong>Ich habe heute auf [Facebook](https://www.facebook.com/cardamonchai)
 zwei tolle Bilder entdeckt, die ich Euch nicht vorenthalten möchte. </strong>
 
 ![Oskar | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/01/img_0004-150x150.jpeg "Oskar")
@@ -53,9 +52,7 @@ Pfoten/Krallen gelten, wenn nicht der komplette Hund/Ara auf den
 Scanner/Kopierer passt.
 
 Das erste Foto habe ich auf der Facebook-Seite von
-<a title="Frans de Waal" href="https://www.facebook.com/pages/Frans-de-Waal-Public-Page/99206759699" target="_blank" rel="noopener">Frans
-de Waal</a> entdeckt, das zweite auf der
-<a title="Katzen" href="https://www.facebook.com/Katzenfreunde?fref=ts" target="_blank" rel="noopener">Katzenseite</a>.
+[Katzenseite](https://www.facebook.com/pages/Frans-de-Waal-Public-Page/99206759699).
 Die Fotografen sind unbekannt. Sollten Ihr zufällig auf mein Blog stoßen, werde
 ich Euch natürlich nachträglich gerne als Künstler angeben. Niedlich die beiden,
 oder? Außerdem lasse ich mir den Namen 'Pets On Glass' für mein nächstes
@@ -70,21 +67,14 @@ Artikel.
 
 Nicht mal 5 Minuten hat´s gedauert schon kam der erste Beitrag von einer
 liebgewonnenen Twitterin, der
-<a title="StrassenKatze" href="https://twitter.com/StrassenKatze" target="_blank" rel="noopener">@StrassenKatze</a>.
-Hier ist ihr Foto:
+[@StrassenKatze](https://twitter.com/StrassenKatze). Hier ist ihr Foto:
 
 ![@StrassenKatze](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130105_135852-800x1067.jpg "@StrassenKatze")
 
 Weitere drei Minuten zogen ins Land und schon bekam ich den nächsten Beitrag
-zugeschickt. Diesmal von
-<a title="@laschnalle" href="https://twitter.com/laschnalle">@laschnalle</a>. Es
-handelt sich um eine komplette
-<a title="The Cat Scan" href="http://thecatscan.tumblr.com/">Tumblr-Seite</a>
-mit gescannten Katzen. Zu finden unter diesem
-<a title="The Cat Scan" href="http://thecatscan.tumblr.com/">&gt;Link&lt;</a>
+zugeschickt. Diesmal von [&gt;Link&lt;](https://twitter.com/laschnalle)
 
-Und noch ein Beitrag von
-<a title="StrassenKatze" href="https://twitter.com/StrassenKatze">@StrassenKatze</a>.
+Und noch ein Beitrag von [@StrassenKatze](https://twitter.com/StrassenKatze).
 Hier ein Foto von Fürst, Ihrer Bartagame:
 
 ![Der Fürst](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130108_152214-800x1067.jpg "Der Fürst")
@@ -93,16 +83,15 @@ Und noch ein Beitrag, dieses Mal von Sarah:
 
 ![Sarahs nächtlicher Besucher](http://cardamonchai.com/wp-content/uploads/2013/01/image_1357661187707817.jpg "Sarahs nächtlicher Besucher")
 
-Hier ist Jessies
-<a title="Sir Smokie" href="https://twitter.com/Sir_Smokie">@Sir_Smokie</a>
+Hier ist Jessies [@Sir_Smokie](https://twitter.com/Sir_Smokie)
 
-![@Sir_Smokie ](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130108_162457-800x800.jpg '<a href="https://twitter.com/Sir_Smokie" target="_blank" rel="noopener">@Sir_Smokie</a>')
+![@Sir_Smokie ](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130108_162457-800x800.jpg " [@Sir_Smokie](https://twitter.com/Sir_Smokie) ")
 
 ## Nachtrag vom 10.Januar 2013
 
 Nachdem ich die letzen beiden Tage leider krank im Bett verbracht habe, führe
 ich den Beitrag heute endlich weiter. Den Anfang macht heute
-<a title="Aithir" href="http://aithir.de">Aithirs</a> Hund Daddy
+[Aithirs](http://aithir.de) Hund Daddy
 
 ![Daddy](http://cardamonchai.com/wp-content/uploads/2013/01/img_0008.jpeg "Daddy")
 
@@ -125,12 +114,10 @@ ein kleines Kunstwerk geworden, wie ich finde. Der Kleine wollte nicht still
 sitzen bleiben, daher kann man auf dem Bild genau seinen Weg über den Scanner
 zurückverfolgen:
 
-![Scan](http://cardamonchai.com/wp-content/uploads/2013/01/scan-800x1100.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2013/01/scan.jpg"> </a> Koki')
+![Scan](http://cardamonchai.com/wp-content/uploads/2013/01/scan-800x1100.jpg " [](/wp-content/uploads/2013/01/scan.jpg)  Koki")
 
 <em> Natürlich soll das noch lange nicht das Ende des Beitrags sein. Wer mir
 noch ein Bild seiner Katze, Ratte, seines Hundes oder Elefanten schicken möchte,
 kann dies nach wie vor gerne unter der oben angegebenen E-Mail-Adresse oder auch
-als persönliche Nachricht über
-<a title="Twitter" href="https://twitter.com/Anne_Reko">&gt;Twitter&lt;</a> oder
-<a title="Facebook" href="https://www.facebook.com/cardamonchai">&gt;Facebook&lt;
-</a> tun</em>.
+als persönliche Nachricht über [&gt;Facebook&lt;](https://twitter.com/Anne_Reko)
+tun</em>.

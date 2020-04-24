@@ -57,7 +57,5 @@ Ihr sie mit mir teilt! Ich bin schon sehr gespannt, wo Ihr überall Gesichter
 seht! :-P
 
 Einen interessanten Artikel zum Thema #YOLO
-<a href="http://cardamonchai.com/2015/04/yolo-you-only-live-once/">findet Ihr
-hier</a>. Zu meinem Flickr geht es
-<a href="https://www.flickr.com/photos/99929697@N07/albums" target="_blank" rel="noopener">hier
-entlang</a>.
+[findet Ihr hier](/2015/04/yolo-you-only-live-once/). Zu meinem Flickr geht es
+[hier entlang](https://www.flickr.com/photos/99929697@N07/albums).

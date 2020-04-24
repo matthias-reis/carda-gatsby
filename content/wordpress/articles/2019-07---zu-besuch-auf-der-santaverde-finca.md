@@ -127,24 +127,20 @@ Bei allen Produkten von Santaverde handelt es sich um reine Naturkosmetik. Sie
 sind komplett vegan und mit dem <strong>Leaping Bunny</strong> Siegel, dem Label
 der Vegan Society und dem Biosiegel ausgezeichnet.
 
-<a href="http://cardamonchai.com/2018/03/vegane-kosmetik-und-naturkosmetik/">Wenn
-Ihr gerne mehr über die Unterschiede zwischen veganer Kosmetik, Biokosmetik und
-Naturkosmetik erfahren wollt, habe ich hier einen Beitrag für Euch</a>.
+[Wenn Ihr gerne mehr über die Unterschiede zwischen veganer Kosmetik,
+Biokosmetik und Naturkosmetik erfahren wollt, habe ich hier einen Beitrag für
+Euch](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
 [glry name="santaverdefincaanne2019"]
 
 Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen
-interessant ist.
-<a href="http://www.santaverde.de/inhaltsstoffe" target="_blank" rel="noopener">Ihr
-findet es hier</a>.
+interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
-möchte,
-<a href="http://www.santaverde.de/bezugsquellen" target="_blank" rel="noopener">findet
-hier eine Liste der Bezugsquellen</a>.
+möchte, [findet hier eine Liste der
+Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

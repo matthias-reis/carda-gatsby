@@ -36,11 +36,10 @@ subTitle: Deutschlands ältestes Wachsfigurenkabinett
 Panoptikum stellt Künstler, Politiker, Wissenschaftler und andere interessante
 Persönlichkeiten als Wachspuppen aus.</strong>
 
-Ganz ähnlich wie bei
-<a href="http://cardamonchai.com/2014/04/st-patricks-day-in-london/">Madame
-Tussauds</a> in London sind die Figuren nach Themen sortiert. Beim Rundgang
-durch das älteste Wachsfigurenmuseum Deutschlands hat man die Möglichkeit tolle
-Bilder von den Stars zu machen.
+Ganz ähnlich wie bei [Madame Tussauds](/2014/04/st-patricks-day-in-london/) in
+London sind die Figuren nach Themen sortiert. Beim Rundgang durch das
+älteste Wachsfigurenmuseum Deutschlands hat man die Möglichkeit tolle Bilder von
+den Stars zu machen.
 
 ## Die Beatles und Madonna stehen im Panoptikum
 

@@ -80,7 +80,6 @@ Milchbestandteile weglassen würde. Aber jetzt bin ich erst mal gespannt auf die
 Gummitierchen aus dem 3D-Drucker.
 
 Mehr Infos über die veganen Süßigkeiten zum Ausdrucken findet Ihr auf der
-<a href="https://www.katjes.de/news-presse/pressemitteilungen/detail/beginn-einer-suessen-revolution-der-erste-3d-drucker-fuer-fruchtgummis-von-katjes.html" target="_blank" rel="noopener nofollow">Seite
-des Herstellers</a>.
+[Seite des Herstellers](https://www.katjes.de/news-presse/pressemitteilungen/detail/beginn-einer-suessen-revolution-der-erste-3d-drucker-fuer-fruchtgummis-von-katjes.html).
 
 Bilder: Katjes

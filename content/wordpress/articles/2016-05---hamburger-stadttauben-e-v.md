@@ -152,11 +152,7 @@ IBAN DE44200505501244131619 BIC HASPDEHHXXX</blockquote>
 ## Weitere Infos für den Hamburger Stadttauben e. V.
 
 Wer sich gerne informieren möchte, findet alle Infos über den Hamburger
-Stadttauben e. V. unter
-<a href="http://www.hamburgerstadttauben.de/" target="_blank" rel="noopener">hamburgerstadttauben.de</a>.
-Dort gibt es außerdem auch jede Menge Wissenswertes über Tauben zu lesen. Auf
-der
-<a href="https://www.facebook.com/hamburgerstadttauben" target="_blank" rel="noopener">Facebook-Seite</a>
+Stadttauben e. V. unter [Facebook-Seite](http://www.hamburgerstadttauben.de/)
 wird regelmäßig über Aktionen und natürlich auch über die geretteten Tauben
 berichtet. Auch in anderen Städten gibt es ähnliche Vereine, Infos findet Ihr
 bei Eurer Stadtverwaltung oder im Internet.

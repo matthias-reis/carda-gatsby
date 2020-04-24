@@ -151,11 +151,9 @@ ein Zitat:
 <blockquote>"Wir glauben, dass Du Dir immer treu bleiben solltest. Daran, der Erde und allen Menschen, die auf ihr leben, mit Respekt zu begegnen. Und an mehr Herz in Kosmetik."</blockquote>
 
 Wer jetzt neugierig ist und selbst mal testen möchte, findet die Produkte sowie
-natürlich noch einige andere
-<a href="https://www.hejorganic.com/" target="_blank" rel="noopener">auf der
-Webseite</a> von Hej Organic.
+natürlich noch einige andere [auf der Webseite](https://www.hejorganic.com/) von
+Hej Organic.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

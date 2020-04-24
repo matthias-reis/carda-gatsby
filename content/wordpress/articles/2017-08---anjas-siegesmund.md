@@ -40,10 +40,8 @@ subTitle: Das Klimaretter-Sparbuch
 
 <strong>Anja Siegesmund von Bündnis 90/Die Grünen Thüringen stellte am 21.
 August in Anlehnung an den
-<a href="http://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/">ökologischen
-Fußabdruck</a> und dem
-<a href="http://cardamonchai.com/2017/08/oekologischer-handabdruck/">ökologischen
-Handabdruck</a> etwas ganz Neues vor: Das Klimaretter-Sparbuch.</strong>
+[ökologischen Handabdruck](/2017/02/klimaschutz-und-vegane-ernaehrung/) etwas
+ganz Neues vor: Das Klimaretter-Sparbuch.</strong>
 
 ![Klimaretter-Sparbuch](http://cardamonchai.com/wp-content/uploads/2017/08/Bildschirmfoto-2017-08-24-um-13.12.11-300x426.png)
 
@@ -57,14 +55,14 @@ darin jede Menge Tipps für ein möglichst Klima-neutrales Leben.
 Mit dabei sind unter anderem verschiedene Biokisten, Gartenprojekte und Re-Sales
 Kaufhäuser. Große Themenbereiche sind zum Beispiel das Kapitel "Saubere
 Mobilität" und das Kapitel "Neue Esskultur". Darin wird zwar nicht eindeutig zu
-<a href="http://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/">veganer
-Ernährung</a>, aber immerhin zum Kauf regionaler Bio-Produkte geraten.
+[veganer Ernährung](/2017/02/klimaschutz-und-vegane-ernaehrung/), aber immerhin
+zum Kauf regionaler Bio-Produkte geraten.
 
 Es gibt 25 Euro Startguthaben für den Wechsel zu
-<a href="http://cardamonchai.com/2011/04/stromanbieter-wechseln/" target="_blank" rel="noopener">Ökostrom</a>
-und man kann beim Einkauf im Bioladen sparen oder einen Saft probieren.
-Herausgegeben wurde das Klimaretter-Sparbuch vom Thüringer Ministerium für
-Umwelt, Energie und Naturschutz (TMUEN).
+[Ökostrom](/2011/04/stromanbieter-wechseln/) und man kann beim Einkauf im
+Bioladen sparen oder einen Saft probieren. Herausgegeben wurde das
+Klimaretter-Sparbuch vom Thüringer Ministerium für Umwelt, Energie und
+Naturschutz (TMUEN).
 
 Anja möchte mit dem Heft einen Anreiz für die Menschen schaffen, auch mal über
 den Tellerrand zu schauen und einfach mal in einen Laden zu gehen, den man sonst
@@ -89,9 +87,7 @@ die Ministerin findet: "Klimaschutz fängt im Kleinen an". Warum also nicht mit
 einem Ratgeber im Hosentaschenformat.
 
 Neugierige können sich das Klimaretter-Sparbuch
-<a href="http://apps.thueringen.de/de/publikationen/pic/pubdownload1726.pdf" target="_blank" rel="noopener">hier
-anschauen</a>.
+[hier anschauen](http://apps.thueringen.de/de/publikationen/pic/pubdownload1726.pdf).
 
 Übrigens könnt Ihr Anja Siegesmund auch auf Ihrem Blog besuchen.
-<a href="http://www.anja-siegesmund.de/" target="_blank" rel="noopener">Sie sagt
-dort regelmäßig ihre Meinung</a>.
+[Sie sagt dort regelmäßig ihre Meinung](http://www.anja-siegesmund.de/).

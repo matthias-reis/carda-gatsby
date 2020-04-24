@@ -204,17 +204,13 @@ Lucius Annaeus Seneca</blockquote>
 
 \*Bei der Streetart-Session im Schrebergarten sind noch jede Menge andere tolle
 Bilder entstanden. Bewundern kann man sie
-<a href="https://gartenbaukunst.wordpress.com/2017/09/09/exit-through-the-schrebergarten/" target="_blank" rel="noopener">direkt
-auf Björns Blog</a>.
+[direkt auf Björns Blog](https://gartenbaukunst.wordpress.com/2017/09/09/exit-through-the-schrebergarten/).
 
-\*\*<a href="https://www.instagram.com/art.leni/" target="_blank" rel="noopener">art.leni
-findet Ihr hier</a>
+\*\* [art.leni findet Ihr hier](https://www.instagram.com/art.leni/)
 
-\*\*\*<a href="https://www.instagram.com/de_ork/" target="_blank" rel="noopener">und
-de_ork hier</a>.
+\*\*\* [und de_ork hier](https://www.instagram.com/de_ork/).
 
-\*\*\*\*Auch die
-<a href="https://www.instagram.com/zonenkinder/" target="_blank" rel="noopener">Zonenkinder</a>
-sind auf Instagram vertreten.
+\*\*\*\*Auch die [Zonenkinder](https://www.instagram.com/zonenkinder/) sind auf
+Instagram vertreten.
 
 ![Streetart | full](http://cardamonchai.com/wp-content/uploads/2017/10/werkzeuge-960x515.jpg)

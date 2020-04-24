@@ -38,17 +38,16 @@ subTitle: 10 Fakten über Veganismus – Teil VIII
 
 ## Die finsteren Machenschaften der Modeindustrie
 
-![Bitte trage keinen Pelz!](https://cardamonchai.files.wordpress.com/2014/11/15582329425_4ea402f130_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Bitte trage keinen Pelz!')
+![Bitte trage keinen Pelz!](https://cardamonchai.files.wordpress.com/2014/11/15582329425_4ea402f130_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Bitte trage keinen Pelz!")
 
-<strong><a title="Honig" href="/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/"><span style="text-decoration: underline;"><em>Hier
-gehts zu Teil 7 des Artikels</em></span></a></strong><strong>Vegan leben
-bedeutet natürlich auch, auf das Tragen von Pelz und Leder, sprich das Fell und
-die Haut von Tieren zu verzichten. Pelzmäntel sieht man heute kaum noch, die
-Grausamkeit um ihre Herstellung ist von diversen Tierrechtsaktionen in den
-Köpfen der Menschen eingebrannt.</strong>
+<strong> [](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+</strong><strong>Vegan leben bedeutet natürlich auch, auf das Tragen von Pelz
+und Leder, sprich das Fell und die Haut von Tieren zu verzichten. Pelzmäntel
+sieht man heute kaum noch, die Grausamkeit um ihre Herstellung ist von diversen
+Tierrechtsaktionen in den Köpfen der Menschen eingebrannt.</strong>
 
 Pelz gilt nach wie vor als Luxusware, ganz anders als zum Beispiel Leder und
-<a title="Wolle" href="/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/">Wolle</a>,
+[Wolle](/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/),
 Materialien, die die Menschen als alltäglich ansehen, aus dem Alltag sind sie
 für die meisten von uns nur schwer wegzudenken.
 
@@ -59,7 +58,7 @@ Nahezu in jedem Modegeschäft hängen Kleidungsstücke, die mit Pelz besetzt sin
 
 ### Es fehlt eine Auszeichnungspflicht für Echtpelz</strong>
 
-![Pelztier](https://cardamonchai.files.wordpress.com/2014/11/9587809207_e7cd67eede_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Pelztier')
+![Pelztier](https://cardamonchai.files.wordpress.com/2014/11/9587809207_e7cd67eede_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Pelztier")
 
 Das Problem: Die meisten Pelze sind nicht als solche ausgezeichnet. Erst gestern
 führte ich wieder ein Gespräch mit einer jungen Mutter, die ihrem 1-jährigen
@@ -81,7 +80,7 @@ Polyacryl ist.
 
 ### Hunde und Katzenfell wird unter Phantasienamen verkauft</strong>
 
-![Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen? ](https://cardamonchai.files.wordpress.com/2014/11/11511411436_36697d37d0_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen?')
+![Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen? ](https://cardamonchai.files.wordpress.com/2014/11/11511411436_36697d37d0_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen?")
 
 Hinzu kommen Phantasiebezeichnungen, die sich die Pelzindustrie ausgedacht hat,
 um die Verbraucher bewusst zu täuschen. Loup d'Asie, Bio-Wolf, Corsac Fox und
@@ -105,7 +104,7 @@ Läden und werden dort als Kunstpelze verkauft.
 
 ### Grausame Bedingungen auf Pelzfarmen</strong>
 
-![In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten](https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo.jpg?w=199 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten')
+![In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten](https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo.jpg?w=199 " [](https://www.flickr.com/photos/99929697@N07/sets)  In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten")
 
 Die Pelztiere werden unter unvorstellbaren Bedingungen auf engstem Raum in
 Käfigen gehalten, sie haben keinen Platz sich umzudrehen. Sie werden erschlagen,
@@ -134,7 +133,7 @@ nicht nach Kunststoff, kann man sich sicher sein.
 
 ### Beim Einkaufen ist Vorsicht geboten </strong>
 
-![Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?](https://cardamonchai.files.wordpress.com/2014/11/9645840511_7953ee07d6_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?')
+![Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?](https://cardamonchai.files.wordpress.com/2014/11/9645840511_7953ee07d6_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?")
 
 Eine weitere Methode ist es, den Fall der Haare zu beobachten. Bewegen sie sich
 beim Dagegenpusten oder im Wind leicht, haben einen „Strich“, wie wenn ein
@@ -149,7 +148,7 @@ liegt es, dass ein Großteil der Menschen gegen das Tragen von Pelzen ist, Leder
 aber für selbstverständlich hält? An dieser Stelle möchte ich gerne zwei O-Töne
 aus Interviews wiedergeben, die ich mit Tierrechtlern geführt habe:
 
-<blockquote>#### Thomas Laschyk, Tierrechtsinitiative Augsburg, Volksverpetzer:</strong><em>„Ich denke, dass die Menschen, wie so oft, wenn es um tierische Produkte geht, einfach nicht darüber nachdenken. Zum einen liegt es hier daran, dass Pelz inzwischen ziemlich in Verruf geraten ist, da bereits seit zig Jahren in Kampagnen dagegen vorgegangen wird. Pelz ist ja das Vorzeigethema, wenn man von Tierschutz spricht. Zum andern ist Leder in unserer Gesellschaft noch viel verwurzelter. Viele wichtige Alltagsgegenstände sind aus Leder – Gürtel, Geldbeutel, Möbel. Den Menschen fällt es schwerer, diese wegzudenken. Es gilt als viel normaler, natürlicher als Pelz, der eher als Luxusgut wahrgenommen wird. Letztlich ist es so, dass Kühe für die Menschen „Nutztiere“ sind, die „dazu da sind“, dass man irgendwelche Produkte aus ihnen herstellt. Im Gegensatz zu Pelztieren, die ja Hunde, Katzen oder Wildtiere sind, die oft mit einem romantisch verklären Blick und als in Freiheit lebend betrachtet werden. In dieses Bild passt die Ausbeutung weniger hinein. Ein klassisches Beispiel von kognitiver Dissonanz eben“</em><em><strong>Paul, FreiVon vegane Schuhe:</strong> „In den Medien werden weniger Bilder und Filme gezeigt, die zeigen, wie mies die Lederproduktion abläuft und was dahinter steckt. Lebendig gehäutete Pelztiere sieht man dagegen häufiger.“ (<a href="http://cardamonchai.com/2014/10/thomas-laschyk-volksverpetzer/">Das komplette Interview mit Thomas Laschyk findet Ihr hier</a>)
+<blockquote>#### Thomas Laschyk, Tierrechtsinitiative Augsburg, Volksverpetzer:</strong><em>„Ich denke, dass die Menschen, wie so oft, wenn es um tierische Produkte geht, einfach nicht darüber nachdenken. Zum einen liegt es hier daran, dass Pelz inzwischen ziemlich in Verruf geraten ist, da bereits seit zig Jahren in Kampagnen dagegen vorgegangen wird. Pelz ist ja das Vorzeigethema, wenn man von Tierschutz spricht. Zum andern ist Leder in unserer Gesellschaft noch viel verwurzelter. Viele wichtige Alltagsgegenstände sind aus Leder – Gürtel, Geldbeutel, Möbel. Den Menschen fällt es schwerer, diese wegzudenken. Es gilt als viel normaler, natürlicher als Pelz, der eher als Luxusgut wahrgenommen wird. Letztlich ist es so, dass Kühe für die Menschen „Nutztiere“ sind, die „dazu da sind“, dass man irgendwelche Produkte aus ihnen herstellt. Im Gegensatz zu Pelztieren, die ja Hunde, Katzen oder Wildtiere sind, die oft mit einem romantisch verklären Blick und als in Freiheit lebend betrachtet werden. In dieses Bild passt die Ausbeutung weniger hinein. Ein klassisches Beispiel von kognitiver Dissonanz eben“</em><em><strong>Paul, FreiVon vegane Schuhe:</strong> „In den Medien werden weniger Bilder und Filme gezeigt, die zeigen, wie mies die Lederproduktion abläuft und was dahinter steckt. Lebendig gehäutete Pelztiere sieht man dagegen häufiger.“ ( [Das komplette Interview mit Thomas Laschyk findet Ihr hier](/2014/10/thomas-laschyk-volksverpetzer/) )
 </em></blockquote>
 
 Natürlich handelt es sich auch bei Schaffell um die Haut von Tieren, auch mit
@@ -157,9 +156,9 @@ Schaffell versehene Kleidung wird in der kalten Jahreszeit gerne verkauft.
 Besonders auch auf Weihnachtsmärkten findet man immer wieder komplette
 Schafhäute, oft auch von Ungeborenen oder Milchlämmchen. Alles zum Thema Wolle
 findet Ihr in
-<a title="Wolle" href="/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/">Teil
-6</a> meiner Artikelserie. Auch bei der Wollgewinnung werden Tiere ernsthaft
-verletzt (Stichwort <strong>Mulesing</strong>)
+[Teil 6](/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) meiner
+Artikelserie. Auch bei der Wollgewinnung werden Tiere ernsthaft verletzt
+(Stichwort <strong>Mulesing</strong>)
 
 Neben der Ausbeutung der Tiere kommt es bei der Pelzherstellung zu massiven
 Umweltverschmutzungen, CO<sub>2</sub> wird ausgestoßen, die Chemie, die bei der
@@ -168,7 +167,7 @@ und Grundwasser.
 
 ### Bis zu 200 Chinchillas sterben für einen Pelzmantel</strong>
 
-![Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?](https://cardamonchai.files.wordpress.com/2014/11/9590467002_a47050b74a_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Vielleicht schon bald ein Pelzbesatz?')
+![Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?](https://cardamonchai.files.wordpress.com/2014/11/9590467002_a47050b74a_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Vielleicht schon bald ein Pelzbesatz?")
 
 In Deutschland gibt es auch heute noch 10 Pelztierfarmen, auf denen die Tiere
 bis zur grausamen „Pelzernte“ auf engstem Raum in Drahtkäfigen gehalten werden,
@@ -192,7 +191,7 @@ sind, kann es sich um Echtpelz handeln!
 
 ### Bitte gebt die Infos weiter!</strong>
 
-![Gemeinsam stark gegen die Pelzindustrie](https://cardamonchai.files.wordpress.com/2014/11/augsburg-pelzfrei_-30.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Gemeinsam stark gegen die Pelzindustrie')
+![Gemeinsam stark gegen die Pelzindustrie](https://cardamonchai.files.wordpress.com/2014/11/augsburg-pelzfrei_-30.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Gemeinsam stark gegen die Pelzindustrie")
 
 Bitte gebt die Infos weiter, es ist wichtig, dass so viele Menschen wie möglich
 aufgeklärt werden, dass der Gedanke weitergegeben wird und die Händler auf ihrer
@@ -200,15 +199,8 @@ Ware sitzen bleiben. Nur so kann es nach und nach zu einem Umdenken kommen.
 
 In meinem Interview im Rahmen der Demo „Augsburg Pelzfrei“ erzählte mir Thomas
 von der Tierrechtsinitiative Augsburg einiges zum Thema Pelze.
-<a href="https://cardamonchai.com/2014/10/thomas-laschyk-volksverpetzer/">Ihr
-findet es unter diesem Link</a>.
+[Ihr findet es unter diesem Link](/2014/10/thomas-laschyk-volksverpetzer/).
 
-<a title="Teil 9" href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/"><span style="text-decoration: underline;"><em><strong>Hier
-gehts zu Teil 9 des Artikels</strong></em></span></a>##
-Quellen</strong><a title="Kunstpelz ist echt" href="http://www.kunstpelz-ist-echt.de" target="_blank" rel="noopener">Kunstpelz
-ist echt</a>,
-<a title="Gelabelt" href="http://www.gelabelt.de/fakten.php" target="_blank" rel="noopener">Gelabelt</a>,
-<a title="Echtpelz erkennen Gelabelt" href="http://www.gelabelt.de/echtpelz.php" target="_blank" rel="noopener">Echtpelz
-erkennen</a>
+[Echtpelz erkennen](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 
-![Tierrechtsdemo in Augsburg | large](https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo-391.jpg?w=646 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Tierrechtsdemo in Augsburg')
+![Tierrechtsdemo in Augsburg | large](https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo-391.jpg?w=646 " [](https://www.flickr.com/photos/99929697@N07/sets)  Tierrechtsdemo in Augsburg")

@@ -62,12 +62,9 @@ reinlegen. Das Sohlenprofil ist, wie wir es von Gumbies gewohnt sind, sehr
 robust. Man verliert somit auch auf Fliesen nicht den Halt.
 
 Nach dem Baden greife ich nach wie vor sehr gerne zu den
-<a href="http://cardamonchai.com/2018/12/gumbies-im-winter/">Slippers</a> und
-beim Sport zu meinen geliebten
-<a href="http://cardamonchai.com/2018/03/gumbies-vegane-strandsandalen/">Flip
-Flops</a>, doch im heimischen Wohnzimmer sind die Gumbies Hüttenschuhe wirklich
-unschlagbar. Sie sind schön kuschelig und halten die Zehen wunderbar warm - nie
-wieder kalte Füße im Winter!
+[Flip Flops](/2018/12/gumbies-im-winter/), doch im heimischen Wohnzimmer sind
+die Gumbies Hüttenschuhe wirklich unschlagbar. Sie sind schön kuschelig und
+halten die Zehen wunderbar warm - nie wieder kalte Füße im Winter!
 
 ## Wer die Wahl hat...
 
@@ -119,8 +116,8 @@ ja mal anziehen" aus.
 Auf dem Weg zum Briefkasten habe ich im Treppenhaus sogar schon Komplimente für
 mein stylisches Schuhwerk bekommen und Matze ist auch schon neidisch. Übrigens
 eignen sie sich allem Anschein nach auch sehr gut als Katzen-Kopfkissen.
-<a href="http://cardamonchai.com/2012/08/ode-an-den-kater/">Kater Chili</a>
-hatte es sich heute Morgen sehr bequem auf meinem linken Pantoffel gemacht.
+[Kater Chili](/2012/08/ode-an-den-kater/) hatte es sich heute Morgen sehr bequem
+auf meinem linken Pantoffel gemacht.
 
 ## Weitere Infos über Gumbies
 
@@ -134,16 +131,13 @@ Erstehen könnt Ihr Eure Gumbies übrigens ganz bequem über den Onlineshop.
 Außerdem gibt es deutschlandweit zahlreiche Verkaufsstellen, falls Ihr sie
 vorher erstmal anprobieren wollt.
 
-Den Gumbies Onlineshop
-<a href="https://shop.gumbies.de/" target="_blank" rel="noopener">findet Ihr
-hier</a>.
+Den Gumbies Onlineshop [findet Ihr hier](https://shop.gumbies.de/).
 
 Ein Verzeichnis der Einzelhändler, die die Strandschuhe im Sortiment haben
-<a href="https://www.gumbies.de/haendlerverzeichnis" target="_blank" rel="noopener">hier</a>.
+[hier](https://www.gumbies.de/haendlerverzeichnis).
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
 &nbsp;

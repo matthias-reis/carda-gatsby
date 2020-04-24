@@ -35,9 +35,8 @@ genutzt und eine kleine Radtour gemacht, die an der Elbe in Altona losging.
 ## Mein maritimer Moment für Euch
 
 Vom dortigen Fähranleger aus habe ich diese drei Momentaufnahmen für Euch
-gemacht.
-<a href="http://cardamonchai.com/2016/08/spaetsommer-loki-schmid-garten/">Versprochen</a>
-ist ja schließlich versprochen. Ich hoffe, sie gefallen Euch!
+gemacht. [Versprochen](/2016/08/spaetsommer-loki-schmid-garten/) ist ja
+schließlich versprochen. Ich hoffe, sie gefallen Euch!
 
 <em>Schiff ahoi!</em>
 

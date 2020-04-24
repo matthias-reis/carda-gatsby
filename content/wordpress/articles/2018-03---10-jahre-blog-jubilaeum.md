@@ -66,10 +66,7 @@ nicht.
 Seit ein paar Jahren stelle ich selbst jetzt in meinem Blog immer wieder Firmen
 vor, die ich selbst toll und unterstützenswert finde. Dabei geht es mir aber in
 erster Linie darum, zu zeigen, dass es eben auch anders geht.
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/">Ohne
-Tierversuche</a>. Ohne viel
-<a href="http://cardamonchai.com/2017/04/interview-mit-zero-waste-aktivistin-vio/">Verpackung</a>.
-<a href="https://cardamonchai.com/category/basteleien/diy/">Selbst gemacht</a>
+[Selbst gemacht](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
 und mit Sinn für Nachhaltigkeit. Keine Frage: Auch ich bin glücklich darüber,
 dass auf diesem Wege auch mal der ein oder andere Euro reinkommt. Aber ganz klar
 von Tag eins an zu sagen: Ich mache das Ding nur, wenn der Rubel rollt: Das ist
@@ -87,14 +84,13 @@ treu.
 
 Eines kann ich von mir ganz klar sagen: Auch wenn ich eines Tages keine Besucher
 mehr auf meinem Blog haben werde und keiner mich mehr fragt, ob ich vielleicht
-sein neues
-<a href="https://cardamonchai.com/category/vegan-2/produkte/">Produkt</a>
-vorstellen möchte: Ich werde weiterschreiben. Ich tue es, seit ich einen Stift
-halten kann und ich werde es immer tun. Ob mit Aufmerksamkeit und manchmal gegen
-Bezahlung oder ohne. Für mich ist es Berufung, Beruf, Hobby und Leidenschaft.
-Wenn ich nur ein Blatt Papier und einen Bleistift finde, schreibe ich genauso,
-wie wenn mir ein Hochleistungsrechner mit allem Zip und Zap und das modernste
-Content Management System unter der Sonne zur Verfügung steht.
+sein neues [Produkt](/category/vegan-2/produkte/) vorstellen möchte: Ich werde
+weiterschreiben. Ich tue es, seit ich einen Stift halten kann und ich werde es
+immer tun. Ob mit Aufmerksamkeit und manchmal gegen Bezahlung oder ohne. Für
+mich ist es Berufung, Beruf, Hobby und Leidenschaft. Wenn ich nur ein Blatt
+Papier und einen Bleistift finde, schreibe ich genauso, wie wenn mir ein
+Hochleistungsrechner mit allem Zip und Zap und das modernste Content Management
+System unter der Sonne zur Verfügung steht.
 
 Doch zurück zur Bestandsaufnahme. Noch ein weiterer, sehr positiver Trend
 zeichnet sich in den letzten Jahren ab: Blogs werden wichtiger. Sie gewinnen an
@@ -147,20 +143,9 @@ wieder mit interessanten Persönlichkeiten, die mir über den Weg laufen führen
 
 ## Jubiläum - Auf die nächsten 10 Jahre!
 
-Anfangs noch von mehr
-<a href="https://cardamonchai.com/category/bleistift-2-0/tagebuch/">Tagebuchseiten</a>
-und anderen
-<a href="https://cardamonchai.com/category/bleistift-2-0/prosa/">persönlichen
-Geschichten</a> durchwirkt, bewegte sich die Ausrichtung meiner Seite nach und
-nach immer mehr in eine feste Richtung. Ein Nischenblog ist cardamonchai dennoch
-auch heute nicht. Der Fokus liegt inzwischen auf den Schwerpunkten
-"<a href="https://cardamonchai.com/category/vegan-2/">vegan</a>",
-"<a href="https://cardamonchai.com/category/musik/">Musik</a>",
-"<a href="https://cardamonchai.com/category/gesellschaft/klima-umweltschutz/">Nachhaltigkeit</a>",
-"<a href="https://cardamonchai.com/category/unterwegs/reisen/">Reisen</a>" und
-"<a href="https://cardamonchai.com/category/unterwegs/hamburg/">Hamburg</a>".
-Trotzdem scheue ich mich nicht davor, auch mal ein komplett anderes Thema
-dazwischen zu schieben, wenn es mir wichtig erscheint.
+Anfangs noch von mehr [Hamburg](/category/bleistift-2-0/tagebuch/)" . Trotzdem
+scheue ich mich nicht davor, auch mal ein komplett anderes Thema dazwischen zu
+schieben, wenn es mir wichtig erscheint.
 
 Genau das ist es für mich auch, was das Bloggen ausmacht: Du bist Dein Blog und
 Dein Blog bist Du. Sich auf ein Thema allein festzulegen, das wäre einfach nicht

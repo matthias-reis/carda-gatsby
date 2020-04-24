@@ -36,9 +36,8 @@ werden. Ich durfte es schon hören und möchte Euch an meiner Freude über die g
 Musik gerne teilhaben lassen.</strong>
 
 Vinny Peculiar kennt Ihr schon. Vor ein paar Tagen haben ich
-<a href="http://cardamonchai.com/2019/09/vinny-peculiar-interview/">ein
-Interview mit ihm</a> veröffentlicht. Heute habe ich eine kleine Review für
-Euch - inklusive Kaufempfehlung.
+[ein Interview mit ihm](/2019/09/vinny-peculiar-interview/) veröffentlicht.
+Heute habe ich eine kleine Review für Euch - inklusive Kaufempfehlung.
 
 ![while-you-still-can](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-07-vinny-peculiar-while-you-still-can-5-400x300.jpg)
 
@@ -51,8 +50,7 @@ könnt, solltet Ihr was tun!"
 ## Vinny Peculiar ist nachdenklich geworden
 
 Was bereits
-<a href="http://cardamonchai.com/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/">die
-beiden Vorauskopplungen "Pop Music For Ugly People" und "Vote For Me"</a>
+[die beiden Vorauskopplungen "Pop Music For Ugly People" und "Vote For Me"](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/)
 gezeigt haben, manifestiert sich im Album. Die momentane Weltlage reibt ihn auf
 und lässt ihn nicht zur Ruhe kommen.
 
@@ -108,14 +106,11 @@ erwarten, bis die neue Platte endlich weltweit bestellbar ist.
 ## Weitere Infos
 
 "While You Still Can" erscheint am 28. Oktober. Online könnt Ihr Vinny Peculiar
-jederzeit
-<a href="https://vinnypeculiar.com/" target="_blank" rel="noopener">auf seiner
-Homepage besuchen</a>. Dort hält er seine Fans permanent auf dem Laufenden.
-Psst: Ihr findet dort auch kostenlose Downloads.
+jederzeit [auf seiner Homepage besuchen](https://vinnypeculiar.com/). Dort hält
+er seine Fans permanent auf dem Laufenden. Psst: Ihr findet dort auch kostenlose
+Downloads.
 
 Hat Euch meine Rezension gefallen? Das freut mich! Wenn Ihr in Zukunft nichts
-mehr verpassen möchtet, <a href="#newsletter">abonniert gerne meinen
-Newsletter</a>. Dann werdet Ihr regelmäßig über neue Artikel informiert. Solltet
-Ihr selbst auch Musiker\*innen sein, 
-<a href="mailto:info@cardamonchai.com">nehmt für ein Interview oder/und eine
-Review gerne Kontakt mit mir auf</a>. Ich freue mich auf Euch!
+mehr verpassen möchtet,
+[nehmt für ein Interview oder/und eine Review gerne Kontakt mit mir auf](#newsletter).
+Ich freue mich auf Euch!

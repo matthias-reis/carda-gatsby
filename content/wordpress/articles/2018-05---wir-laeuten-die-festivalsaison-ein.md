@@ -35,9 +35,8 @@ subTitle: Kurze Auszeit
 ---
 
 <strong>Wir werden morgen die Festivalsaison einläuten, indem wir uns auf den
-Weg zum
-<a href="http://cardamonchai.com/2018/04/dunkfest-2018-wir-kommen/">DUNK!festival
-2018</a> machen. Für den Blog bedeutet das eine kurze Auszeit.</strong>
+Weg zum [DUNK!festival 2018](/2018/04/dunkfest-2018-wir-kommen/) machen. Für den
+Blog bedeutet das eine kurze Auszeit.</strong>
 
 ![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/06/34984028381_15860917b1_k-640x426.jpg)
 
@@ -59,15 +58,13 @@ gespannt, ich habe da ein paar tolle Sachen vorbereitet.
 ## Wegweiser DUNK!festival
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/02/dunkfestival-2016-wir-sind-auch-dabei/">DUNK!festival 2017 - Post-Rock in Begien</a></li>
-    <li><a href="http://cardamonchai.com/2017/05/dunkfestival-2017-es-geht-los/">DUNK!festival 2017 - Wir kommen!</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">DUNK!festival 2017 - Liebe auf den ersten Blick</a></li>
-    <li><a href="http://cardamonchai.com/2018/04/dunkfest-2018-wir-kommen/">DUNK!festival 2018 - Das Line-up</a></li>
+    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
+    <li> [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/) </li>
+    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
+    <li> [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/) </li>
     <li>Wir läuten die Festivalsaison ein - Kurze Auszeit</li>
-    <li><a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">DUNK!festival 2018 - Liebe für immer</a></li>
+    <li> [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) </li>
     <li>DUNK!festival 2019 - Das Line-up</li>
 </ol>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

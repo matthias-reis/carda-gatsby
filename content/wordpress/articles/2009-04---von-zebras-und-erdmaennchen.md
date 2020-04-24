@@ -28,7 +28,6 @@ subTitle: Impressionen aus dem Augsburger Zoo
 
 Frühling, Zeit, den Erdmännchen einen Besuch abzustatten.
 
-<a href="http://cardamonchai.com/2015/04/wie-ich-zu-zoos-stehe/">Wie ich zu Zoos
-stehe</a>
+[Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/)
 
 [myflickr tag="zooanne42009"]

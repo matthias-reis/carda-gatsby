@@ -124,7 +124,7 @@ Tendenz.
 Dezember windig und ich gehöre sowieso zu den Menschen, die das ganze Jahr über
 gerne Mützen tragen. Wo kann ich "mein" WYOB-Modell denn käuflich erwerben?
 
-## "Der Shop geht in Kürze online"<strong>Denise:</strong> Der Shop geht in Kürze online. Derzeit kann per PN über unsere Facebook-Seite<a href="#1"><sup>1</sup></a> bestellt werden. Auf diesem Weg ist alles noch sehr persönlich, was ich sehr schön finde, mal sehen, ob das auf Dauer so machbar ist.
+## "Der Shop geht in Kürze online"<strong>Denise:</strong> Der Shop geht in Kürze online. Derzeit kann per PN über unsere Facebook-Seite [](#1) bestellt werden. Auf diesem Weg ist alles noch sehr persönlich, was ich sehr schön finde, mal sehen, ob das auf Dauer so machbar ist.
 
 <strong>Anne:</strong> Welche Materialien werden für die Herstellung der Mützen
 verwendet?
@@ -174,7 +174,7 @@ in Ordnung, wenn sie ganz verwertet werden. Dem ist aber leider nicht so.
 stark wieder aufkeimenden, Pelzmode kommen? Beim Schlendern durch deutsche
 Innenstädte war es ja eine Zeitlang schier unmöglich, noch eine Jacke oder Mütze
 ohne Pelzbesatz zu finden. Wir haben vor ein paar Wochen ja sogar gemeinsam
-dagegen demonstriert<a href="#2"><sup>2</sup></a>.
+dagegen demonstriert [](#2).
 
 <strong>Denise: </strong>Zum Einen ist die Aufklärung über
 <strong>Pelze</strong> seit den 80er-Jahren, damals wurden Pelze ganz stark an
@@ -191,8 +191,7 @@ nicht echt sein und aufgrund des Preises ihren Verstand ausschalten.
 
 <strong>Anne:</strong> Die meisten Menschen wissen ja leider nicht mal, dass sie
 Echtpelz tragen, da das von der Pelzindustrie
-<a title="Fakepelz ist Echtpelz" href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">geschickt
-verschleiert</a> wird.
+[geschickt verschleiert](/2014/11/fakepelz-echtpelz/) wird.
 
 <blockquote>## "Gegen Pelze!"</blockquote><strong>Denise:</strong> Ich denke, dass wer wirklich GEGEN Pelz ist, bzw. das Tragen von Pelzen ablehnt, es wissen kann, egal wie geschickt die Industrie das zu Verschleiern versucht. Wir müssen einfach unsere Sinne einschalten: Im Sinne von Wear your own BRAIN!
 
@@ -226,14 +225,10 @@ Tiernutzung in unserer Zeit.
 vegan"?
 
 <strong>Denise:</strong> Es gibt in Augsburg eine sehr rührige vegane Szene, die
-auch der jahrelangen Infoarbeit der TIA (Tierrechtsinitiative
-Augsburg)<a href="#3"><sup>3</sup></a> zu verdanken ist. Mit Infoständen und
-Kostproben klären engagierte, junge Leute seit Jahren mit sehr gutem
-Infomaterial Verbraucher auf. Es gibt viele verschiedene Events (z. B. "Peace
-Food Rocks"<a href="#4"><sup>4</sup></a>), bei denen sich die Veganerinnen und
-Veganer regelmässig treffen und engagieren können. Das ist absolut wunderbar und
-ich bin froh, dass Augsburgs vegane Szene so gut vernetzt ist. Jede Bewegung
-trägt dazu bei.
+auch der jahrelangen Infoarbeit der TIA (Tierrechtsinitiative Augsburg) [](#3)
+), bei denen sich die Veganerinnen und Veganer regelmässig treffen und
+engagieren können. Das ist absolut wunderbar und ich bin froh, dass Augsburgs
+vegane Szene so gut vernetzt ist. Jede Bewegung trägt dazu bei.
 
 <strong>Anne:</strong> Findest du das vegane Angebot in Augsburg gut? Was könnte
 noch besser werden?
@@ -262,9 +257,8 @@ Panik war sagte sie: "Vertrau mir". Das werde ich NIE vergessen. Sie übergab ih
 mir und Paul und ich liefen zusammen im Höchsttempo vor diesem Ort davon, rauf
 auf den Hänger, Klappe zu – Sicherheit. Ich umarmte ihn und ich versprach ihm,
 mich um ihn zu kümmern. Das tat ich dann auch, bis er nach Hof Butenland durfte,
-dort ist Paul heute ein Star. Der Überlebenshof Hof
-Butenland<a href="#5"><sup>5</sup></a> ist für jedes gerettete Tier ein
-absoluter Hauptgewinn.
+dort ist Paul heute ein Star. Der Überlebenshof Hof Butenland [](#5) ist für
+jedes gerettete Tier ein absoluter Hauptgewinn.
 
 <blockquote>## "Wir sollten alle mehr nachdenken!"</blockquote><strong>Anne:</strong> Eine Sache, die jeder für den Tierschutz tun sollte?
 
@@ -283,4 +277,4 @@ ganz viel Erfolg für Wear Your Own Bommel, alles gute für die Zukunft!
 
 <strong>Denise:</strong> Ich danke dir, das hat sehr viel Spass gemacht!
 
-### Fussnoten<ul><li id="1">[1] <a href="https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf" target="_blank" rel="noopener">Facebook-Seite von WYOB</a></li><li id="2">[2] <a href="http://www.vegan-news.de/thomas-laschyk/" target="_blank" rel="noopener">Tierrechtsdemo Augsburg bei Vegan News</a></li><li id="3">[3] <a href="http://www.tierrechte-augsburg.de" target="_blank" rel="noopener">Tierrechtsinitiative Augsburg</a></li><li id="4">[4] <a href="https://www.facebook.com/events/351493638369110/" target="_blank" rel="noopener">Peace Food Rocks</a></li><li id="5">[5] <a href="http://www.stiftung-fuer-tierschutz.de" target="_blank" rel="noopener">Hof Butenland</a></li></ul><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+### Fussnoten<ul><li id="1">[1][](https://www.facebook.com/pages/WYOB-save-lives-statement-kleidung/944915775541408?fref=nf) <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

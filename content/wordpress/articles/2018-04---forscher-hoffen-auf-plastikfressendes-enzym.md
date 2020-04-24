@@ -84,11 +84,10 @@ Forscher bei NREL gegenüber CNN.
 
 Diese bahnbrechende Entdeckung könnte einen wirklichen Wandel bedeuten und die
 Lösung für die Millionen Tonnen an
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Plastikmüll</a>
-sein, die jedes Jahr anfallen. In biologischen und medizinischen Forschungen
-spielt der Zufall häufig eine große Rolle. So haben wir Serendipity unter
-anderem auch die Entdeckung der lebensrettenden antibiotischen Substanz
-Penicillin zu verdanken.
+[Plastikmüll](/2017/08/kenia-sagt-plastiktueten-nein-danke/) sein, die jedes
+Jahr anfallen. In biologischen und medizinischen Forschungen spielt der Zufall
+häufig eine große Rolle. So haben wir Serendipity unter anderem auch die
+Entdeckung der lebensrettenden antibiotischen Substanz Penicillin zu verdanken.
 
 Die Forscher arbeiten nun daran, das Enzym noch weiter zu verbessern, damit es
 so schnell wie möglich flächendeckend zum Einsatz kommen kann. Laut NREL
@@ -96,10 +95,7 @@ gelangen jedes Jahr 8 Millionen Tonnen Plastikmüll in unsere Ozeane. Wenn es so
 weitergeht wie bisher, wird bis zum Jahr 2050 mehr Plastik im Meer schwimmen,
 als Lebewesen.
 
-Die Netze habe ich 2012 in
-<a href="http://cardamonchai.com/2012/07/der-kater-und-der-leuchtturm/">England</a>
-fotografiert, den Müllbaum 2017 in
-<a href="http://cardamonchai.com/2016/12/die-elbe-in-altona-winterlicher-spaziergang/">Hamburg</a>.
+Die Netze habe ich 2012 in [Hamburg](/2012/07/der-kater-und-der-leuchtturm/).
 
 Quelle:
-<a href="https://edition.cnn.com/2018/04/16/world/plastic-pollution-science-environment-enzyme-intl/index.html" target="_blank" rel="noopener">CNN</a>
+[CNN](https://edition.cnn.com/2018/04/16/world/plastic-pollution-science-environment-enzyme-intl/index.html)

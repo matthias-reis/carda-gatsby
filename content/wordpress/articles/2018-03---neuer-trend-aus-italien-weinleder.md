@@ -58,6 +58,6 @@ braucht Gianpiero für die Herstellung keins.
 Da es sich um Abfälle handelt, ist der Rohstoff kostenlos. Das tierleidfreie und
 umweltfreundliche Leder kann problemlos in großen Mengen hergestellt werden.
 Nicht nur für die Modeindustrie ist das sehr interessant. Auch einige große
-<a href="http://cardamonchai.com/2018/01/tierversuche-in-der-autoindustrie/">Autohersteller</a>
-sollen bereits Interesse bekundet haben. Ein Tesla-Modell mit veganen
-Ledersitzen rollt derzeit bereits vom Band.
+[Autohersteller](/2018/01/tierversuche-in-der-autoindustrie/) sollen bereits
+Interesse bekundet haben. Ein Tesla-Modell mit veganen Ledersitzen rollt derzeit
+bereits vom Band.

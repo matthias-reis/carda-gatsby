@@ -32,10 +32,10 @@ thumbnailId: "13145"
 subTitle: Instagram-Galerie
 ---
 
-<strong>Wie <a href="/2015/11/ein-besuch-in-…ger-kunsthalle/">angekündigt</a>,
-habe ich von unserem Besuch in der Hamburger Kunsthalle letzte Woche noch was
-mitgebracht. Heute lüfte ich das Geheimnis und präsentiere Euch eine kleine
-Instagram-Galerie mit Fotos von der Emil Nolde Sonderausstellung.</strong>
+<strong>Wie [angekündigt](/2015/11/ein-besuch-in-…ger-kunsthalle/), habe ich von
+unserem Besuch in der Hamburger Kunsthalle letzte Woche noch was mitgebracht.
+Heute lüfte ich das Geheimnis und präsentiere Euch eine kleine Instagram-Galerie
+mit Fotos von der Emil Nolde Sonderausstellung.</strong>
 
 Im Anschluss findet Ihr dann noch ein paar Informationen über den norddeutschen
 Künstler.
@@ -67,5 +67,4 @@ Nolde Stiftung Seebüll unter der Schirmherrschaft von Helmut Schmidt entstanden
 
 Meine Bilder von der Tattoo-Ausstellung im Museum für Kunst und Gewerbe in
 Hamburg
-<a href="/2015/08/tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2015/08/tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg/).

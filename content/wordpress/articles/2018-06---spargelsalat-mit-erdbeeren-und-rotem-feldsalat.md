@@ -39,7 +39,7 @@ und einfach perfekt für warme Hochsommerabende.</strong>
 
 Den Spargel bereitet Ihr vor, indem ihr ihn im Ofen gart. Wie das geht, wissen
 einige von Euch schon aus meinem
-<a href="http://cardamonchai.com/2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/">Ofenspargelrezept</a>.
+[Ofenspargelrezept](/2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/).
 Natürlich verrate ich es Euch es hier aber auch noch mal.
 
 ## Zutaten
@@ -65,8 +65,7 @@ Natürlich verrate ich es Euch es hier aber auch noch mal.
 Den Spargel bereitet Ihr am besten einen Tag vorher im Ofen vor. Es bietet sich
 an, gleich zwei Kilo zu machen und am Vortag klassisch Spargel mit Kartoffeln
 und Hollandaise zu essen. Mein veganes Rezept dafür findet Ihr hier
-<a href="http://cardamonchai.com/2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/">auch
-hier im Blog</a>.
+[auch hier im Blog](/2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/).
 
 Heizt den Backofen auf 200 Grad vor und schält den Spargel. Legt ihn in eine
 Kasserole und füllt sie mit dem Saft einer Zitrone und Wasser auf, bis alles
@@ -89,6 +88,6 @@ Schmeckt zum Schluss noch mal mit Pfeffer und Salz ab. Je nach Geschmack könnt
 Ihr als Topping verschiedene Samen oder Nüsse hinzugeben.
 
 Dazu passt zum Beispiel gut ein schönes kaltes
-<a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">Alsterwasser</a>.
+[Alsterwasser](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
 
 Matze &amp; Anne wünschen guten Appetit! &lt;3

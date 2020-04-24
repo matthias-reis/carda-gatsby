@@ -87,10 +87,9 @@ Auf unnötige Verpackung aus Plastik wurde bewusst verzichtet, der Boldking komm
 in einem Karton. Im Gegensatz zu Rasierern gängiger Marken, die im Durchschnitt
 21 Euro kosten, ist der schwarze Nassrasierer mit 10 Euro sehr günstig. Die
 Klingen können auch im Abo bezogen werden. Neben einem
-<a href="https://www.amazon.de/gp/product/B076PQLT7X/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=B076PQLT7X&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=07c9932854231dbbe6a74e3114cbc066" target="_blank" rel="noopener">Starterkit
-mit Rasierer, Halterung, Aftershave-Creme und einem Satz Klingen</a> und
-Klingensets, sowie Rasierschaum, Gesichtscreme, Aftershave, Deo, Kulturbeutel
-und Boxershorts von Boldking zu kaufen.
+[Starterkit mit Rasierer, Halterung, Aftershave-Creme und einem Satz Klingen](https://www.amazon.de/gp/product/B076PQLT7X/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B076PQLT7X&linkCode=as2&tag=cardamonchai-21&linkId=07c9932854231dbbe6a74e3114cbc066)
+und Klingensets, sowie Rasierschaum, Gesichtscreme, Aftershave, Deo,
+Kulturbeutel und Boxershorts von Boldking zu kaufen.
 
 ## Maskuline Optik
 
@@ -104,7 +103,8 @@ Schwarz behalten. Aber vielleicht gibt es ja in Zukunft auch Unterwäscheteilche
 für Damen und Aftershave-Produkte für größere Flächen, wie zum Beispiel Beine.
 Letztere sind ja nicht nur für Ladys interessant. Inzwischen gibt es ja sogar
 schon
-<a href="https://www.adcell.de/promotion/click/promoId/173067/slotId/80259" target="_blank" rel="noopener">Rückenrasierer</a>!
+[Rückenrasierer](https://www.adcell.de/promotion/click/promoId/173067/slotId/80259)
+!
 
 ![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B076Q7C4LD)
 
@@ -119,12 +119,9 @@ ids="21842,21841,21840,21837,21836"]
 ![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B076PQLT7X)
 
 Online findet Ihr Boldking
-<a href="https://www.boldking.com/de?gclid=CjwKCAjwtvnbBRA5EiwAcRvnpnM0kMcWhsOzkva7IMEGUq7_mFi7JN46rYs9KL9Sy4NYs8tj7JEMjBoC3hoQAvD_BwE" target="_blank" rel="noopener">hier</a>. Hier
-könnt Ihr
-Euer <a href="https://www.amazon.de/gp/product/B076PQLT7X/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=B076PQLT7X&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=07c9932854231dbbe6a74e3114cbc066" target="_blank" rel="noopener">Starterkit
-erwerben</a>
+[Starterkit erwerben](https://www.boldking.com/de?gclid=CjwKCAjwtvnbBRA5EiwAcRvnpnM0kMcWhsOzkva7IMEGUq7_mFi7JN46rYs9KL9Sy4NYs8tj7JEMjBoC3hoQAvD_BwE)
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>

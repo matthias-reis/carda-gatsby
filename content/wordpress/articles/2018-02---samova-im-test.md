@@ -79,12 +79,11 @@ sind mir die folgenden Sorten:
     <li>Team Spirit</li>
 </ul>
 
-Die Sorte
-<a href="http://cardamonchai.com/2015/09/junge-auswanderer-in-istanbul/">Istanbul</a>
-Nights war mir bereits bekannt, ich hatte sie vor kurzem hier in Hamburg in
-einem veganen Restaurant als Eistee genossen. Die Mischung beinhaltet Schwarzen
-Tee (Ceylon und Darjeeling), Krauseminze, Anis, Hibiskus, Ingwer, Gewürznelken,
-Zimt, Kümmel, <strong>Kardamom</strong>, Pfeffer und Koriander.
+Die Sorte [Istanbul](/2015/09/junge-auswanderer-in-istanbul/) Nights war mir
+bereits bekannt, ich hatte sie vor kurzem hier in Hamburg in einem veganen
+Restaurant als Eistee genossen. Die Mischung beinhaltet Schwarzen Tee (Ceylon
+und Darjeeling), Krauseminze, Anis, Hibiskus, Ingwer, Gewürznelken, Zimt,
+Kümmel, <strong>Kardamom</strong>, Pfeffer und Koriander.
 
 ## Mein Favorit
 
@@ -98,9 +97,8 @@ Lieblings-Teezutaten Krauseminze, Hibiskus und Kardamom enthalten sind
 
 Der Gin Soul Tee ist etwas ganz Besonderes. Er schmeckt nicht nur heiß und kalt,
 sondern eignet sich zudem auch noch als Basis für tolle
-<a href="http://cardamonchai.com/2017/10/mister-mandrill-interview/">Cocktails</a>.
-Enthalten sind, wie der Name schon vermuten lässt Wacholder-Beeren. Hinzu kommen
-Koriander und Rosenblüten.
+[Cocktails](/2017/10/mister-mandrill-interview/). Enthalten sind, wie der Name
+schon vermuten lässt Wacholder-Beeren. Hinzu kommen Koriander und Rosenblüten.
 
 Eines von vielen Cocktail-Rezepten, die sich Samova in Zusammenarbeit mit Gin
 Sul überlegt hat, möchte ich Euch hiermit verraten:
@@ -169,10 +167,9 @@ Oberfläche bedruckt. Bei den Teebeuteln selbst wurde auf Klammern aus Metall
 oder Kunststoff komplett verzichtet.
 
 Nicht schlecht, oder? Bedenkt man die Probleme, die wir derzeit mit
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Plastikmüll</a>
-haben, ist das doch auf jeden Fall schon mal ein großer Schritt in die richtige
-Richtung. Es wird Zeit, dass sich davon ein paar andere Firmen eine Scheibe
-abschneiden.
+[Plastikmüll](/2017/08/kenia-sagt-plastiktueten-nein-danke/) haben, ist das doch
+auf jeden Fall schon mal ein großer Schritt in die richtige Richtung. Es wird
+Zeit, dass sich davon ein paar andere Firmen eine Scheibe abschneiden.
 
 ## Einflüsse aus aller Herren Länder
 
@@ -188,9 +185,8 @@ oben bereits erwähnt, zum Drinbleiben verdonnert wurde.
 
 Entdeckt habe ich Samova Tee bereits in vielen meiner Lieblings-Locations. So
 zum Beispiel im Hotel Strandgut in
-<a href="http://cardamonchai.com/2015/07/zurueck-nach-st-peter-ording/">St.
-Peter Ording</a> und im Froindlichst in Hamburg, um hier nur mal ein paar Namen
-einzustreuen.
+[St. Peter Ording](/2015/07/zurueck-nach-st-peter-ording/)  und im Froindlichst
+in Hamburg, um hier nur mal ein paar Namen einzustreuen.
 
 ## Musik ist auch im Spiel
 
@@ -216,25 +212,22 @@ in der Pfandflasche, darunter auch meine Lieblingssorte Istanbul Nights. Ich bin
 schon sehr gespannt darauf, sie hoffentlich bald zu probieren. Außerdem findet
 man im Samova Sortiment auch Eistee-Zubereiter sowie Gläser.
 
-Zur Homepage von Samova geht es
-<a href="https://www.samova.net/" target="_blank" rel="noopener">hier
-entlang</a>.
+Zur Homepage von Samova geht es [hier entlang](https://www.samova.net/).
 
 [gallery type="columns" link="none" size="large" columns="2" ids="19672,19676"]
 
 ## Wegweiser Tee
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/02/tigovit-gruener-tee-in-hohen-dosen/">Grüner Tee in hohen Dosen - Tigovit Produkttest 03.02.2017</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/latte-macchiato-muttis/">Wie sich zwei Tee-Tanten fanden 06.02.2017</a></li>
-    <li><a href="http://cardamonchai.com/2017/03/tigovit-interview/">Tigovit Gründerin Tanja Hohenester im Interview 06.03.2017</a></li>
-    <li><a href="http://cardamonchai.com/2017/04/smecket-tee/">Smecket Tee Produkttest 14.04.2017</a></li>
-    <li><a href="http://cardamonchai.com/2017/05/interview-mit-daniel-weiss-von-smecket/">Daniel Weiss von Smecket im Interview 10.05.2017</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/ashera-interview/">Ashéra Gründerin Jacqueline Heimgärtner im Interview 02.02.2018</a></li>
+    <li> [Grüner Tee in hohen Dosen - Tigovit Produkttest 03.02.2017](/2017/02/tigovit-gruener-tee-in-hohen-dosen/) </li>
+    <li> [Wie sich zwei Tee-Tanten fanden 06.02.2017](/2017/02/latte-macchiato-muttis/) </li>
+    <li> [Tigovit Gründerin Tanja Hohenester im Interview 06.03.2017](/2017/03/tigovit-interview/) </li>
+    <li> [Smecket Tee Produkttest 14.04.2017](/2017/04/smecket-tee/) </li>
+    <li> [Daniel Weiss von Smecket im Interview 10.05.2017](/2017/05/interview-mit-daniel-weiss-von-smecket/) </li>
+    <li> [Ashéra Gründerin Jacqueline Heimgärtner im Interview 02.02.2018](/2018/02/ashera-interview/) </li>
     <li>Samova - Nachhaltiger Tee aus Hamburg 19.02.2017</li>
 </ol>
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

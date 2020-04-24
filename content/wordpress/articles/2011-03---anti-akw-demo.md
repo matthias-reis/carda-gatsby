@@ -119,7 +119,7 @@ beträgt 240.000 Jahre. Eine Zeitspanne, die für einen Normalsterblichen schier
 unvorstellbar ist.
 
 Mehr über die Demos gibt's bei
-<a title="Campact" href="http://blog.campact.de/2011/03/250-000-fordern-abschalten/" target="_blank" rel="noopener">Campact</a>.
+[Campact](http://blog.campact.de/2011/03/250-000-fordern-abschalten/).
 
 [gallery type="rectangular"
 ids="859,858,857,856,855,854,853,852,851,850,849,848,847,846,845,844"]

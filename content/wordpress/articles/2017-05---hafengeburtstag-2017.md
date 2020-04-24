@@ -103,6 +103,6 @@ La Paloma ade. Auf Matrosen, ohe! Ohe! Ade.</blockquote>
 
 ## Wegweiser Hamburger Hafengeburtstag
 
-<a href="http://cardamonchai.com/2016/05/hafengeburtstag-in-hamburg/">2016</a>
+[2016](/2016/05/hafengeburtstag-in-hamburg/)
 
 2017

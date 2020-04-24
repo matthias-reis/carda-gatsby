@@ -28,7 +28,7 @@ thumbnailId: "10455"
 subTitle: Verkaufen im Amazon Marketplace
 ---
 
-![Nächstes Mal lieber wieder zum Trödel](http://cardamonchai.com/wp-content/uploads/2015/03/14848064653_920a09fd73_o-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets" target="_blank" rel="noopener"> </a> Nächstes Mal lieber wieder zum Trödel')
+![Nächstes Mal lieber wieder zum Trödel](http://cardamonchai.com/wp-content/uploads/2015/03/14848064653_920a09fd73_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Nächstes Mal lieber wieder zum Trödel")
 
 <strong>Ein paar Monate lang habe ich gut erhaltene Bücher, DVDs, Blue Rays und
 CDs über Amazon Marketplace verkauft, bis mein Verkäuferzugang gesperrt
@@ -86,10 +86,10 @@ Eine Dame (der ich ein sehr liebevoll verpacktes Päckchen mit Parfumpröbchen u
 Lesezeichen zum Roman gratis dazu) geschickt hatte, mahnte an, die Ware sei nie
 bei Ihr angekommen und machte ordentlich Trommelwirbel. Ob das <b>Päckchen</b>
 nun
-<a title="die Post hat sich schon längst abgeschafft" href="http://cardamonchai.com/2013/06/neues-aus-der-servicewuste-die-post-hat-sich-schon-langst-abgeschafft/">wirklich
-nicht ankam</a>, oder etwas anderes passiert ist, ich kann es nicht sagen. Nach
-ihrer Bewertung konnte ich jedenfalls nichts anderes mehr tun, als zuzusehen,
-wie mir die Verkaufslizenz entzogen wurde.
+[wirklich nicht ankam](/2013/06/neues-aus-der-servicewuste-die-post-hat-sich-schon-langst-abgeschafft/),
+oder etwas anderes passiert ist, ich kann es nicht sagen. Nach ihrer Bewertung
+konnte ich jedenfalls nichts anderes mehr tun, als zuzusehen, wie mir die
+Verkaufslizenz entzogen wurde.
 
 Eine interessante Geschichte erzählte jüngst mein Bruder, dessen Mitbewohner ein
 nagelneues iPad auf Amazon eingestellt hatte, er hatte sich gerade eins gekauft,

@@ -103,9 +103,9 @@ Black Rebel Motorcycle Club - As Sure As The Sun</strong>
 
 [youtube=http://www.youtube.com/watch?v=b3Hc45Wy-gI]
 
-<strong>6.) Die Sterne -
-Themenläden</strong><strong><a href="http://soundcloud.com/tichy-1313/die-sterne-themenladen-1">die-sterne-themenladen-1</a></strong>(Soundclouddatei,
-zum Anhören einfach auf den Link klicken)
+<strong>6.) Die Sterne - Themenläden</strong><strong>
+[die-sterne-themenladen-1](http://soundcloud.com/tichy-1313/die-sterne-themenladen-1)
+</strong>(Soundclouddatei, zum Anhören einfach auf den Link klicken)
 
 <strong>7.) Calexico - All The Pretty Horses</strong>
 
@@ -131,4 +131,4 @@ zum Anhören einfach auf den Link klicken)
 
 [youtube=http://www.youtube.com/watch?v=FmLFJOvWGw0]
 
-### Bonus<strong>13.) The Tallest Man On Earth - The Gardener</strong><strong>[youtube=http://www.youtube.com/watch?v=M5DyCIdYfpA]</strong><strong>14.) Gisbert zu Knyphausen - Kräne</strong><strong>[youtube=http://www.youtube.com/watch?v=HUHCplJij4U]</strong><strong>15.) Angus &amp; Julia Stone - For You</strong><strong>[youtube=http://www.youtube.com/watch?v=9uWh-TlEQ4k&amp;list=FLaNjgTF8glhKXAJ-T3331qw&amp;index=212&amp;feature=plpp] </strong><em><span style="color: #000000;"><a title="Mixtape-Tausch Teil 2" href="http://cardamonchai.com/2011/08/der-mixtape-tausch-2/">Hier geht's zu Teil 2...</a><strong><a href="http://www.youtube.com/watch?v=b3Hc45Wy-gI"></a></strong></span></em><a href="http://www.youtube.com/watch?v=b3Hc45Wy-gI"></a><strong></strong><strong></strong><strong><em></em></strong>
+### Bonus<strong>13.) The Tallest Man On Earth - The Gardener</strong><strong>[youtube=http://www.youtube.com/watch?v=M5DyCIdYfpA]</strong><strong>14.) Gisbert zu Knyphausen - Kräne</strong><strong>[youtube=http://www.youtube.com/watch?v=HUHCplJij4U]</strong><strong>15.) Angus &amp; Julia Stone - For You</strong><strong>[youtube=http://www.youtube.com/watch?v=9uWh-TlEQ4k&amp;list=FLaNjgTF8glhKXAJ-T3331qw&amp;index=212&amp;feature=plpp] </strong><em><span style="color: #000000;"> [](/2011/08/der-mixtape-tausch-2/) <strong></strong><strong></strong><strong><em></em></strong>

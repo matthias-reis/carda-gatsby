@@ -54,18 +54,18 @@ ganz unten in einem Kistchen liegt?
 
 ## 3 Lösungen
 
-Eine der beiden, <a href="https://hoochi1107.wordpress.com/">Hoochi</a> hatte
-ein Foto ihrer Lösung gepostet, was Desi und mich natürlich dazu anregte, ihr
-auch von unseren "Schmuckvariationen" zu berichten.
+Eine der beiden, [Hoochi](https://hoochi1107.wordpress.com/) hatte ein Foto
+ihrer Lösung gepostet, was Desi und mich natürlich dazu anregte, ihr auch von
+unseren "Schmuckvariationen" zu berichten.
 
 Fotos waren schnell geschossen, die Idee für einen Blogeintrag liegt auf der
 Hand.
 
-Kommen wir zuerst zu <a href="https://hoochi1107.wordpress.com/">Hoochis</a>
-Lösung: Ein einfacher Hasendraht ziert nun ihr <strong>Badezimmer</strong>, der
-sich nach und nach mit Ohrringen, Haarreifen, Ketten und vielen weiteren
-herrlichen kleinen Unnötigkeiten füllt. Eine sehr edel anmutende Lösung, wie ich
-finde, die rein gar nichts von einem Hasenstall hat:
+Kommen wir zuerst zu [Hoochis](https://hoochi1107.wordpress.com/) Lösung: Ein
+einfacher Hasendraht ziert nun ihr <strong>Badezimmer</strong>, der sich nach
+und nach mit Ohrringen, Haarreifen, Ketten und vielen weiteren herrlichen
+kleinen Unnötigkeiten füllt. Eine sehr edel anmutende Lösung, wie ich finde, die
+rein gar nichts von einem Hasenstall hat:
 
 ![Foto: Hoochi 4/2012 | full](https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg "Foto: Hoochi 4/2012")
 

@@ -43,11 +43,10 @@ eine bessere Zukunft zu gestalten. Gründer Simon und sein Team setzen sich für
 soziale Projekte und mehr Nachhaltigkeit ein.</strong>
 
 Die
-<a href="https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products" target="_blank" rel="noopener nofollow">Yoga-Tücher
-von Isle Of Mind</a> bestehen zu 45 Prozent aus recycelten PET-Flaschen und
-entsprechen dem GRS (Global Recycled Standard). Insgesamt werden für ein
-Handtuch acht Plastikflaschen wiederverwendet. Auf der Ilse Of Mind Homepage
-heißt es
+[Yoga-Tücher von Isle Of Mind](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products)
+bestehen zu 45 Prozent aus recycelten PET-Flaschen und entsprechen dem GRS
+(Global Recycled Standard). Insgesamt werden für ein Handtuch acht
+Plastikflaschen wiederverwendet. Auf der Ilse Of Mind Homepage heißt es
 
 <blockquote>"Wir finden, es ist Zeit, Verantwortung zu übernehmen - Zeit, dass wir verstehen, dass wir mit allem, was wir tun und kaufen einen entscheidenden Unterschied machen können. Das Plastik, das wir zur Herstellung unserer Yoga-Handtücher verwenden, kann unsere Erde und die Ozeane nicht mehr verschmutzen."</blockquote>
 
@@ -59,15 +58,8 @@ recycelte Materialien verwendet. Der Versand erfolgt CO<sub>2</sub>-neutral.
 [glry name="isleofmindcardamonchaisw"]
 
 Ich habe mich für
-<a href="https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Ftop-four-products%2Fproducts%2Fjoyful-jana" target="_blank" rel="noopener nofollow">das
-Modell "Joyful Jana"</a> entschieden. Ich finde das Motiv einfach wunderschön
-und die Farben passen perfekt zu mir. Schon ein paar Tage nach der Bestellung
-kam ein liebevoll verpacktes Paket bei mir an. Platzsparend und ohne unnötige
-Umverpackung, dafür mit einer schön gestalteten Grußkarte und einem praktischen
-Transportbeutel. Da passen
-<a href="http://cardamonchai.com/2018/03/gumbies-vegane-strandsandalen/">meine
-geliebten Flip Flops</a>, die ich beim Yoga auch immer dabei habe auch noch mit
-rein.
+[meine geliebten Flip Flops](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Ftop-four-products%2Fproducts%2Fjoyful-jana),
+die ich beim Yoga auch immer dabei habe auch noch mit rein.
 
 Das Handtuch selbst ist wunderbar weich und passt genau auf meine Yogamatte.
 Leichte Asanas kann ich problemlos mit dem Handtuch als zusätzlicher Unterlage
@@ -82,31 +74,26 @@ Nähte fest und der Stoff peelt nicht. Die Tücher sind mit 59 Euro zwar nicht v
 der billigsten Sorte, aber die Ausgabe lohnt sich, wie ich finde,  auf jeden
 Fall. Mein Yogatuch lässt sich schön klein zusammenfalten und passt sogar in die
 Handtasche. Ich kann mir gut vorstellen, es auf
-<a href="https://cardamonchai.com/category/unterwegs/reisen/">Reisen</a>
-mitzunehmen. Mit dem
-<a href="https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products" target="_blank" rel="noopener nofollow">Laken</a> kann
-man seinen morgendlichen Sonnengruß auch prima mal ohne Yogamatte machen. Ein
-weiterer Pluspunkt ist, dass es extrem schnell trocknet. Das ist besonders, wenn
-man jeden Tag auf einem anderen Campingplatz übernachtet, ein großer Vorteil.
-Nach dem Trocknen nimmt es dann im Rucksack so gut wie keinen Platz weg.
+[Laken](/category/unterwegs/reisen/)  kann man seinen morgendlichen Sonnengruß
+auch prima mal ohne Yogamatte machen. Ein weiterer Pluspunkt ist, dass es extrem
+schnell trocknet. Das ist besonders, wenn man jeden Tag auf einem anderen
+Campingplatz übernachtet, ein großer Vorteil. Nach dem Trocknen nimmt es dann im
+Rucksack so gut wie keinen Platz weg.
 
 ## Waschen mit dem Guppyfriend Washbag
 
 Neben farbenfrohen Handtüchern für Yoga und Surfsport gibt es bei Isle Of Mind
 auch noch etwas ganz Besonderes: Den
-<a href="https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products%2Fproducts%2Fthe-guppyfriend-washing-bag" target="_blank" rel="noopener nofllow">Guppyfriend
-Washbag</a>. Dieser wird im
-<a href="https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products" target="_blank" rel="noopener nofollow">Isle
-Of Mind Onlineshop</a> in Kooperation mit dem Hersteller des Waschbeutels
-verkauft. Hinter dem lustigen Namen steckt ein Beutel, der beim Waschen dafür
-sorgt, dass kein Mikroplastik ins Wasser kommt. Bei jedem Waschgang mit
-funktioneller Sport- und Strandbekleidung, Mikrofaserhandtüchern und Waschlappen
-werden nämlich Mikrofasern freigesetzt, die in die Flüsse und ins Meer gelangen
-können.
+[Isle Of Mind Onlineshop](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products%2Fproducts%2Fthe-guppyfriend-washing-bag)
+in Kooperation mit dem Hersteller des Waschbeutels verkauft. Hinter dem lustigen
+Namen steckt ein Beutel, der beim Waschen dafür sorgt, dass kein Mikroplastik
+ins Wasser kommt. Bei jedem Waschgang mit funktioneller Sport- und
+Strandbekleidung, Mikrofaserhandtüchern und Waschlappen werden nämlich
+Mikrofasern freigesetzt, die in die Flüsse und ins Meer gelangen können.
 
 Auch ich nutze einen ähnlichen Beutel für meine Yogaklamotten. Mal sehen,
 vielleicht teste ich auch bald mal den
-<a href="https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products%2Fproducts%2Fthe-guppyfriend-washing-bag" target="_blank" rel="noopener nofollow">Guppyfriend</a>.
+[Guppyfriend](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products%2Fproducts%2Fthe-guppyfriend-washing-bag).
 Im Gegensatz zu ähnlichen Beuteln ist er ziemlich geräumig (50 x 74 cm). Es wird
 auch ziemlich genau angegeben, wie sicher die Mikrofasern aus dem Wasser
 gefiltert werden: 90 bis 100 Prozent nämlich. Das hat sogar das Fraunhofer
@@ -126,12 +113,11 @@ auf jeden Fall weiter mit Simon in Kontakt bleiben und Euch auf dem Laufenden
 halten. Yoga-Fans und Menschen, die beim Packen gerne Platz sparen, kann ich die
 tollen Tücher auf jeden Fall empfehlen. Wer neugierig geworden ist, kann
 jederzeit
-<a href="https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products" target="_blank" rel="noopener nofollow">im
-Isle Of Mind Onlineshop vorbeischauen</a>.
+[im Isle Of Mind Onlineshop vorbeischauen](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products).
 
 [glry name="isleofmindcardamonchaibunt"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

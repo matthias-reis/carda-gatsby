@@ -71,9 +71,8 @@ Silvia &amp; David, Hof Windkind</blockquote>
 Neben dem bio-veganen Anbau der Nüsse gibt es bei Hof Windkind noch eine
 Besonderheit: Die Kund⋆innen übernehmen Baumpatenschaften. Vor Kurzem habe ich
 hier im Blog bereits
-<a href="http://cardamonchai.com/2019/09/hof-windkind-walnuss-baum-adoptieren/">über
-die Walnussbaum-Patenschaften</a> berichtet. Mit den Haselnüssen funktioniert es
-ganz ähnlich:
+[über die Walnussbaum-Patenschaften](/2019/09/hof-windkind-walnuss-baum-adoptieren/)
+berichtet. Mit den Haselnüssen funktioniert es ganz ähnlich:
 
 Ihr übernehmt eine Baumpatenschaft und Silvia und David pflegen auf Hof Windkind
 Euren Haselnussbaum. Das klingt spannend, oder? Ihr könnt Eurem Bäumchen sogar
@@ -176,15 +175,14 @@ Herz-Kreislauf-Erkrankungen vorgebeugt werden.
 ## Weiterlesen
 
 Wenn Ihr gerne mehr über Hof Windkind erfahren möchtet,
-<a href="http://cardamonchai.com/2019/09/hof-windkind-walnuss-baum-adoptieren/">lest
-gerne auch meinen Artikel über die Walnussbaum-Patenschaften</a>. Darin findet
-Ihr auch die Adresse von Hof Windkind sowie ein spannendes Video über Silvia und
-David.
+[lest gerne auch meinen Artikel über die Walnussbaum-Patenschaften](/2019/09/hof-windkind-walnuss-baum-adoptieren/).
+Darin findet Ihr auch die Adresse von Hof Windkind sowie ein spannendes Video
+über Silvia und David.
 
 Zur Homepage von Hof Windkind geht es
-<a href="https://www.hofwindkind.com/info/baumpatenschafthaselnuesse.html" target="_blank" rel="noopener nofollow">hier
-entlang</a>.
+[hier entlang](https://www.hofwindkind.com/info/baumpatenschafthaselnuesse.html).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Weitere
-Infos: <a href="https://www.trusted-blogs.com/werbekennzeichnung" target="_blank" rel="noopener nofollow">www.trusted-blogs.com/werbekennzeichnung</a></em>
+wurden dadurch nicht beeinflusst. Weitere Infos: 
+[www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)
+</em>

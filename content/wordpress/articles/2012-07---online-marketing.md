@@ -46,9 +46,5 @@ wenn es sogar Kommentare zu den Beiträgen gibt.
 
 Ich bin schon sehr gespannt, was mir zu dem neuen Thema alles einfallen wird,
 sich ist schon mal, dass es auf jeden Fall Artikel über
-<a title="Virales Marketing" href="http://cardamonchai.com/2012/07/virales-marketing-2/">Virales
-Marketing</a>,
-<a title="Suchmaschinenoptimierung und Suchmöglichkeiten im Internet" href="http://cardamonchai.com/2012/07/suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz/">Suchmaschinenoptimierung</a>
-und
-<a title="SEA" href="http://cardamonchai.com/2012/07/sea/">Suchmaschinenwerbung</a>
-geben wird. Ganz bestimmt kommen aber noch eine ganze Menge weitere Ideen dazu.
+[Suchmaschinenwerbung](/2012/07/virales-marketing-2/) geben wird. Ganz bestimmt
+kommen aber noch eine ganze Menge weitere Ideen dazu.

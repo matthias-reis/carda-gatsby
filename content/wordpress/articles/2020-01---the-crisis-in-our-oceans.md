@@ -67,8 +67,7 @@ Ozeane helfen.
 Zusammen mit dem 1,5-minütigen Film hat Greenpeace eine Petition veröffentlicht.
 Die Aktion soll die Regierungen dazu auffordern, sich für die Einrichtung von
 Meeresschutzgebieten einsetzen. Sie kann
-<a href="https://act.greenpeace.de/turtle-journey" target="_blank" rel="noopener">hier
-mitgezeichnet werden</a>.
+[hier mitgezeichnet werden](https://act.greenpeace.de/turtle-journey).
 
 ## "The crisis in our oceans" teilen
 

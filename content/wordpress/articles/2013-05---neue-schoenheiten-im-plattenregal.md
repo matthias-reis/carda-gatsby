@@ -50,11 +50,8 @@ soll.</strong>
 
 Ich habe mich dazu entschieden, gleich mehrere Einträge zu basteln. Als erstes
 möchte ich Euch ein paar Platten empfehlen. Ich habe mal wieder beim
-<a title="Marleen" href="http://marleenrecords.wordpress.com" target="_blank" rel="noopener">Plattenladen
-meines Vertrauens</a> zuschlagen und einige echte Raritäten erstanden, die ich
-Euch natürlich auch ans Herz legen möchte. Einige habe ich im Rahmen des
-<a title="RSD" href="http://www.recordstoredaygermany.de" target="_blank" rel="noopener">Record
-Store Day </a>erworben, einige sind gerade frisch auf den Markt gekommen.
+[Record Store Day](http://marleenrecords.wordpress.com) erworben, einige sind
+gerade frisch auf den Markt gekommen.
 
 Es handelt sich um eine Teillieferung, einige Platten sind noch nicht erschienen
 oder waren noch nicht greifbar, daher wird es einen zweiten Teil von diesem

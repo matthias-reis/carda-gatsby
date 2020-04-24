@@ -63,10 +63,10 @@ subTitle: Onlineapotheke ausprobiert
 
 <strong>Wie viele von Euch mitbekommen haben, habe ich eine Schwäche für
 Belgien. Seit ich das erste Mal dort war, bin ich fasziniert und auch
-<a href="https://cardamonchai.com/?s=dunk%21">aufs Festival</a> zieht es mich
-dort immer wieder. Ich mag die Filme, das Bier, die Schokolade, die Menschen und
-die Kultur. Jetzt habe ich die Belgische Versandapotheke Newpharma, die jetzt
-auch bei uns Fuß fassen möchte, dem Vegan-Test unterzogen.</strong>
+[aufs Festival](/?s=dunk%21) zieht es mich dort immer wieder. Ich mag die Filme,
+das Bier, die Schokolade, die Menschen und die Kultur. Jetzt habe ich die
+Belgische Versandapotheke Newpharma, die jetzt auch bei uns Fuß fassen möchte,
+dem Vegan-Test unterzogen.</strong>
 
 Als Allererstes möchte ich den freundlichen persönlichen Kontakt erwähnen, der
 mir bei der Auswahl meiner Produkte sehr geholfen hat. Derzeit ist im Shop noch
@@ -120,8 +120,7 @@ natürlichen Inhaltsstoffen arbeitet. Anstatt der beiden von mir ausgesuchten
 Produkte packte Julie nun ein Produktpaket von Nuxe mit ein. Zuvor wurde noch
 mit dem Retail Manager aus dem Hause Nuxe Kontakt aufgenommen, der uns
 bestätigte, dass die Produkte vegan und crueltyfree sind. Auch auf
-<a href="http://cardamonchai.com/2018/05/mikroplastik-in-der-kosmetik/">Mikroplastik</a>
-wird verzichtet.
+[Mikroplastik](/2018/05/mikroplastik-in-der-kosmetik/) wird verzichtet.
 
 ## Das Paket von Newpharma ist da
 
@@ -204,18 +203,16 @@ Belgischen Lüttich und die Sachen waren nach zwei Tagen da, da kann man
 Als Bezahlungsmöglichkeiten sind Paypal sowie alle Kreditkartentypen,
 Sofortüberweisung und Giropay angegeben. Das ist ganz bestimmt für einige auch
 interessant. Neben Belgien und Deutschland wird auch Österreich, Frankreich und
-<a href="https://cardamonchai.com/?s=amsterdam">Holland</a> von Newpharma
-beliefert. Der Shop trägt mehrere Siegel und wurde unter anderem von
-SafeShops.be zertifiziert. Aktiv ist er in Belgien seit 2008. Bis heute sind
-über 300.000 Kundenbewertungen online gegangen. Vielleicht kommen ja auch bald
-ein paar aus Deutschland dazu.
+[Holland](/?s=amsterdam) von Newpharma beliefert. Der Shop trägt mehrere Siegel
+und wurde unter anderem von SafeShops.be zertifiziert. Aktiv ist er in Belgien
+seit 2008. Bis heute sind über 300.000 Kundenbewertungen online gegangen.
+Vielleicht kommen ja auch bald ein paar aus Deutschland dazu.
 
 Ob ich wieder bestellen würde? Klar, auf jeden Fall! Wer jetzt auch neugierig
 geworden ist,
-<a href="https://www.newpharma.de/" target="_blank" rel="noopener">findet den
-Onlineshop von Newpharma hier</a>! Viel Spaß beim Stöbern!
+[findet den Onlineshop von Newpharma hier](https://www.newpharma.de/) ! Viel
+Spaß beim Stöbern!
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

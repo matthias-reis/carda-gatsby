@@ -36,7 +36,7 @@ thumbnailId: "8024"
 subTitle: '"We have a lotta shit for you!"'
 ---
 
-![Das Ticket](http://cardamonchai.files.wordpress.com/2014/05/nin-ticket-1553.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/"> </a> Das Ticket')
+![Das Ticket](http://cardamonchai.files.wordpress.com/2014/05/nin-ticket-1553.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Das Ticket")
 
 <b>Bereits im November letzten Jahres hatten der Herzmann, mein Bruder und ich
 uns über den N</b><b>INE IN</b><b>CH N</b><b>AILS Fanclub Tickets für den
@@ -46,7 +46,7 @@ Am 15. Mai, zwei Tage nach dem Geburtstag meines Bruders brachen wir dann in
 aller Frühe auf nach Berlin. Unser Ziel: Ein kleines Hotel in Spandau. Dort
 angekommen luden wir unsere Sachen ab und machten uns auf den Weg zur Zitadelle.
 
-![Die drei vom Wellenbrecher](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/"> </a> Die drei vom Wellenbrecher')
+![Die drei vom Wellenbrecher](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Die drei vom Wellenbrecher")
 
 Wir holten uns unsere Bändchen und Tickets ab und nahmen unseren Platz in der
 Schlange ein. Nachdem wir uns mit T-Shirts und Speis und Trank versorgt hatten
@@ -61,7 +61,7 @@ Kapelle die Bühne betrat.
 
 ## NINE INCH NAILS betraten endlich die Bühne
 
-![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1292.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/"> </a> Nine Inch Nails')
+![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1292.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
 
 Alle feierten ausgelassen, die Fans waren aus ganz Europa angereist, Spanier,
 Polen, Schweden, Deutsche, Italiener, Ungarn begegneten uns, verbunden durch die
@@ -73,7 +73,7 @@ Dienst und die Location schien ihm besonders gut zu gefallen.
 
 Zitat Trent: <em>"We have a lotta shit for you!"</em>
 
-![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1291.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/"> </a> Nine Inch Nails')
+![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1291.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
 
 Als kleine Wiedergutmachung, da wir ob der etwas klein ausgefallenen Bühne,
 nicht die komplette Lightshow geboten bekamen, spielten NINE INCH NAILS anstatt
@@ -81,8 +81,7 @@ nicht die komplette Lightshow geboten bekamen, spielten NINE INCH NAILS anstatt
 
 Ein gelungenes Konzert, durch die kleinere Bühne und den Veranstaltungsort etwas
 intimer, als z. B. in Düsseldorf in der Philipshalle 2009 oder letztes Jahr bei
-<a title="Rock´N&#96;Heim" href="//2013/08/20/rocknheim-2013/">Rock´N`Heim</a>,
-aber dadurch kein Bisschen ruhiger.
+[Rock´N`Heim](//2013/08/20/rocknheim-2013/), aber dadurch kein Bisschen ruhiger.
 
 Eine lohnende Reise. Nach der langen verregneten Anfahrt im Auto wurden wir, in
 Berlin angekommen, auch noch mit besten Wetter belohnt. Das hielt auch noch den
@@ -91,11 +90,11 @@ mehr im nächsten Blogeintrag.
 
 ## Die Setlist des Abends
 
-![Nine Inch Nails ](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1277.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/"> </a> Nine Inch Nails')
+![Nine Inch Nails ](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1277.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
 
 Im Anschluss findet ihr noch die Setlist des Abends. Meine komplette
 Bildergalerie steht wie immer in meinem
-<a title="Anne Reko Flickr" href="https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/" target="_blank" rel="noopener">Flickr</a>
+[Flickr](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)
 bereit. Seid bitte nicht böse, die Bilder sind nicht besonders gut geworden vom
 zweiten Wellenbrecher aus mit der kleinen Klickse, aber ich denke als Beweis
 sollten sie ausreichen.
@@ -105,8 +104,7 @@ aus Alessandro Cortini (Keyboards, Programming, Gitarre, Bass, Backing Vocals),
 Robin Finck (Gitarre, Keyboards, Backing Vocals), Ilan Rubin (Drums, Gitarre,
 Bass, Keyboards, Backing Vocals) und natürlich Trent Reznor (Gesang, Gitarre,
 Keyboards). Um hier mal alle Gerüchte diverser Musikmagazine aus der Welt zu
-schaffen. Für weitere Infos empfehle ich Euch
-<a title="ninwiki" href="http://www.ninwiki.com" target="_blank" rel="noopener">ninwiki</a>.
+schaffen. Für weitere Infos empfehle ich Euch [ninwiki](http://www.ninwiki.com).
 
 <em>Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"</em> [youtube
 http://www.youtube.com/watch?v=WaaaFNYgbGQ]

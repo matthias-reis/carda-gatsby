@@ -39,8 +39,7 @@ subTitle: Lebenslanges Abo gewinnen
 <hr />
 
 Hinweis: Die Aktion ist beendet.
-<a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet irgendwann
-wieder eine tolle Verlosung statt</a>.
+[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
 
@@ -68,13 +67,11 @@ sein.
 
 Beim Einrichten des Accounts könnt Ihr Euch Wunschthemen aussuchen. Ich kenne
 das bereits von anderen Plattformen wie z. B.
-<a href="https://medium.com/@anne_reko" target="_blank" rel="noopener">Medium</a>
-und
-<a href="https://www.pinterest.de/annereko/" target="_blank" rel="noopener">Pinterest</a>
-und finde es durchaus praktisch. Ich habe mich bei <em>piqd</em> für "Politik",
-"Feminismus", "Flucht und Vertreibung", "Klima und Wandel", "Kopf und Körper",
-"Liebe, Sex und wir", "Musik und Subkultur", "<em>piqd</em>", "Politik und Netz"
-und "Reportagen und Interviews" entschieden.
+[Pinterest](https://medium.com/@anne_reko) und finde es durchaus praktisch. Ich
+habe mich bei <em>piqd</em> für "Politik", "Feminismus", "Flucht und
+Vertreibung", "Klima und Wandel", "Kopf und Körper", "Liebe, Sex und wir",
+"Musik und Subkultur", "<em>piqd</em>", "Politik und Netz" und "Reportagen und
+Interviews" entschieden.
 
 Alle Themen könnt Ihr frei aus- und auch wieder abwählen. Im Anschluss an die
 Anmeldung wird die E-Mail-Adresse bestätigt und Ihr könnt entscheiden, ob Ihr
@@ -111,7 +108,7 @@ Die Mitgliedschaft kostet 3,00 Euro im Monat oder 299,00 Euro lebenslang.
 Enthalten sind
 
 <ul>
-    <li>Die Mitgliedschaft bei piqd und der Zugriff auf <a href="https://www.piqd.de/?utm_source=blog&amp;utm_medium=beitrag&amp;utm_campaign=trusted-blogs" target="_blank" rel="noopener">www.piqd.de</a></li>
+    <li>Die Mitgliedschaft bei piqd und der Zugriff auf  [www.piqd.de](https://www.piqd.de/?utm_source=blog&amp;utm_medium=beitrag&amp;utm_campaign=trusted-blogs) </li>
     <li>Das persönliche Magazin</li>
     <li>Der persönliche Newsletter</li>
     <li>Die Möglichkeit zum Kommentieren der Empfehlungen</li>
@@ -127,16 +124,15 @@ von 299,00 Euro.
 
 <strong>Gewinnen könnt Ihr ganz leicht: Schreibt mir einfach bis
 einschließlich 19. Juli mit dem Betreff "Verlosung piqd" eine E-Mail an
-<a style="line-height: 1.5em;" href="mailto:info@cardamonchai.com">anne.reis@cardamonchai.com</a><span style="line-height: 1.5em;">.
-In die E-Mail schreibt Ihr, welches Thema ihr bei <em>piqd</em> gerne abonnieren
-würdet. Postet Euer Wunschthema bitte zusätzlich als Kommentar hier im Blog
-unter (neben) dem Artikel (Bitte auf jeden Fall hier und nicht bei Facebook,
-Twitter o. ä.). Ihr könnt Euer Thema ganz frei auswählen. Der Phantasie sind
-keine Grenzen gesetzt. Den/die GewinnerIn kontaktiere ich dann per
-E-Mail.</span></strong>
+[anne.reis@cardamonchai.com](mailto:info@cardamonchai.com)
+<span style="line-height: 1.5em;">. In die E-Mail schreibt Ihr, welches Thema
+ihr bei <em>piqd</em> gerne abonnieren würdet. Postet Euer Wunschthema bitte
+zusätzlich als Kommentar hier im Blog unter (neben) dem Artikel (Bitte auf jeden
+Fall hier und nicht bei Facebook, Twitter o. ä.). Ihr könnt Euer Thema ganz frei
+auswählen. Der Phantasie sind keine Grenzen gesetzt. Den/die GewinnerIn
+kontaktiere ich dann per E-Mail.</span></strong>
 
-<a href="http://cardamonchai.com/datenschutz/teilnahmebedingungen/" target="_blank" rel="noopener">Hier
-geht es zu den Teilnahmebedingungen</a>
+[Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
 Ich wünsche Euch viel Glück!
 
@@ -145,6 +141,6 @@ Ich wünsche Euch viel Glück!
 <a href="https://www.piqd.de/?utm_source=blog&amp;utm_medium=beitrag&amp;utm_campaign=trusted-blogshttp://">
 
 <em>\*Dieser Artikel enthält Werbung und entstand im Zusammenhang mit Trusted
-Blogs. Der Inhalt und meine Meinung wurden dadurch nicht
-beeinflusst.<a href="https://www.trusted-blogs.com/tipps/werbekennzeichnung" target="_blank" rel="noopener">
-Für Infos dazu bitte hier klicken</a>.</em>
+Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.
+[Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
+</em>

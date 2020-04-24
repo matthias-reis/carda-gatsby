@@ -41,4 +41,4 @@ Kreativität hat auf Bali eine lange Tradition.
 [gallery columns="1" type="rectangular" size="large"
 ids="6219,6220,6221,6222,6223,6224,6225,6226,6227,6228,6229,6230,6231,6232,6233,6234,6235,6236,6237,6238,6239,6240,6241"]
 
-## Inhaltsverzeichnis "Unsere große Reise"<ol><li><a href="/2013/08/dubai-und-bali-in-polaroids">Dubai</a></li><li><a href="/2013/07/traditioneller-barong-tanz-auf-bali/">Traditioneller Barongtanz auf Bali</a></li><li><a href="/2013/08/handwerk-und-kunst-auf-bali/">Handwerk und Kunst auf Bali</a></li><li><a href="/2013/08/bali-aus-dem-autofenster/">Bali aus dem Autofenster</a></li><li><a href="/2013/08/flora-fauna-ackerbau-und-viehzucht-auf-bali/">Flora und Fauna auf Bali</a></li><li><a href="http://2013/08/tempel-und-religion-auf-bali/">Tempel und Religion auf Bali</a></li><li><a href="/2013/08/dubai-und-bali-in-polaroids/">Dubai und Bali in Polaroids</a></li></ol>
+## Inhaltsverzeichnis "Unsere große Reise"<ol><li> [Dubai und Bali in Polaroids](/2013/08/dubai-und-bali-in-polaroids) </li></ol>

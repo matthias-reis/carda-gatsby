@@ -26,8 +26,8 @@ subTitle: Ode an die Wetterlage
 ![Wetter](http://cardamonchai.com/wp-content/uploads/2016/05/22555934110_718c3aecdf_z.jpg)
 
 Ihr erinnert Euch an meine Flarf-Gedichte?
-<a href="http://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/">Flarf
-</a>ist eine sehr poetische Art, mit Suchmaschinen umzugehen. Man gibt ein paar
+[Flarf](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/)
+ist eine sehr poetische Art, mit Suchmaschinen umzugehen. Man gibt ein paar
 Wörter in die Suchmaschine ein und aus den ersten Sätzen in der
 Suchergebnis-Liste formt man ein schönes, oder gerne auch mal skurriles Gedicht.
 
@@ -61,45 +61,41 @@ wirklich auf unseren Schlaf.</em>
 <em>Hoffentlich werden sie das hier geschriebene auch ins Englische
 übersetzen.</em>
 
-Hat Euch das Gedicht gefallen? Wollt Ihr gerne mehr
-davon? <a href="mailto:info@cardamonchai.com">Schreibt mir</a> doch einfach mal!
-Gerne schreibe ich auch mal ein Gedicht aus Euren Lieblingswörtern! Natürlich
-könnt ihr mir auch gerne sagen, wenn es ein anderes Thema gibt, das ich hier mal
-aufgreifen soll.
+Hat Euch das Gedicht gefallen? Wollt Ihr gerne mehr davon? 
+[Schreibt mir](mailto:info@cardamonchai.com) doch einfach mal! Gerne schreibe
+ich auch mal ein Gedicht aus Euren Lieblingswörtern! Natürlich könnt ihr mir
+auch gerne sagen, wenn es ein anderes Thema gibt, das ich hier mal aufgreifen
+soll.
 
 Denn wie habe ich das vor Kurzem in geselliger Runde mal angemerkt: Das
 Schwierige und gleichzeitig auch das Gute an meinem Weblog ist, dass es
 thematisch nicht festgelegt ist. Vorschläge also gerne immer an mich! Gerne
-mache ich z. B. auch ein
-<a href="http://cardamonchai.com/category/bleistift-2-0/interview/">Interview</a>
-mit Euch, wenn Ihr was Interessantes oder Lustiges oder beides zu berichten
-habt!
+mache ich z. B. auch ein [Interview](/category/bleistift-2-0/interview/) mit
+Euch, wenn Ihr was Interessantes oder Lustiges oder beides zu berichten habt!
 
 [gallery type="square" columns="2" size="medium" link="none" ids="14709,14707"]
 
 ## Flarf-Gedichte Wegweiser
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/">Die Poesie der Vernetzung</a></li>
-    <li><a href="/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/">Straßenlaternen der Welt</a></li>
-    <li><a href="/2016/03/sonne-und-frieden/">Sonne und Frieden</a></li>
-    <li><a href="http://cardamonchai.com/2016/04/manieren-der-boshaftigkeit/">Manieren der Boshaftigkeit</a></li>
+    <li> [Die Poesie der Vernetzung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/) </li>
+    <li> [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/) </li>
+    <li> [Sonne und Frieden](/2016/03/sonne-und-frieden/) </li>
+    <li> [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/) </li>
     <li>Das übersetzte Wetter im Spiegel</li>
-    <li><a href="http://cardamonchai.com/2016/10/die-seltsame-stimmung-der-knalligen-blueten/">Die seltsame Stimmung der knalligen Blüten</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/">Elbe schwarz-weiß bunt</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/drei-koenige/">Pizza und Backgammon</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/liebe-sternschanze/">Liebe Sternschanze</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/haters-rest-in-poetry/">Haters rest in poetry</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/die-sehnsucht-der-postmoderne/">Die Sehnsucht der Postmoderne</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/dauerregen-stpauli/">In den Straßen von St. Pauli</a></li>
-    <li><a href="http://cardamonchai.com/2018/01/elblicht-flarfgedicht-zum-jahresanfang/">Elblicht</a></li>
-    <li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/">Jahreszeiten an der Brücke</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/amsterdam/">Amsterdam - Grachten und Gassen</a></li>
-    <li><a href="http://cardamonchai.com/2018/04/abschied-von-dir/">Abschied von Dir - Tschüss, mach es gut</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai - Gegensätze</a></li>
+    <li> [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/) </li>
+    <li> [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/) </li>
+    <li> [Pizza und Backgammon](/2017/01/drei-koenige/) </li>
+    <li> [Liebe Sternschanze](/2017/01/liebe-sternschanze/) </li>
+    <li> [Haters rest in poetry](/2017/02/haters-rest-in-poetry/) </li>
+    <li> [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/) </li>
+    <li> [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/) </li>
+    <li> [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/) </li>
+    <li> [Möwe am Wasser](/2018/01/moewe-am-wasser/) </li>
+    <li> [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/) </li>
+    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
+    <li> [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/) </li>
+    <li> [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/) </li>
 </ol>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

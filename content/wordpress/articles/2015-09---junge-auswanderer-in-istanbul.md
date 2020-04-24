@@ -34,8 +34,7 @@ subTitle: Marie von Maviblau berichtet
 habe ich mich wieder mit Marie unterhalten und sie hatte Interessantes zu
 berichten.</strong>
 
-Gemeinsam mit Caro drehte sie den Film „Istanbul mit anderen
-Augen“<a href="#1"><sup>1</sup></a>. Im Interview<a href="#2"><sup>2</sup></a>
+Gemeinsam mit Caro drehte sie den Film „Istanbul mit anderen Augen“ [](#1)
 berichteten die beiden jungen Filmemacherinnen von ihrem Leben als
 Auswanderinnen in ihrer Traumstadt Istanbul, den Protesten rund um den Gezi
 Park, ihre Erfahrungen und Erlebnisse.
@@ -101,8 +100,7 @@ wird man in Zukunft auch von Caro den ein oder anderen Artikel bei Maviblau
 lesen können.</span>
 
 Wer sich gerne über Maviblau informieren möchte:
-<a href="http://www.maviblau.com/" target="_blank" rel="noopener">Hier geht es
-zum Blog</a>. Für Interessierte: Das Maviblau Team ist derzeit noch auf der
-Suche nach Kollegen!
+[Hier geht es zum Blog](http://www.maviblau.com/). Für Interessierte: Das
+Maviblau Team ist derzeit noch auf der Suche nach Kollegen!
 
-<ul><li id="1">[1] <a href="/2013/06/istanbul-mit-anderen-augen/">Istanbul mit anderen Augen</a></li><li id="2">[2] <a href="/2013/06/alles-andere-wirkt-unwichtig-und-banal/">"Alles andere wirkt unwichtig und banal" Marie und Caro im Interview</a></li></ul><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+<ul><li id="1">[1]  ["Alles andere wirkt unwichtig und banal" Marie und Caro im Interview](/2013/06/istanbul-mit-anderen-augen/) </li></ul><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

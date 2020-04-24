@@ -39,8 +39,7 @@ Inoculum" ist nun endlich vollständig verfügbar.</strong>
 
 Bereits am 7. August veröffentlichten Tool als Teaser eine Vorauskopplung unter
 dem gleichen Namen. Der Song ist Track 1 auf der Platte.
-<a href="http://cardamonchai.com/2019/08/bald-kommt-das-neue-tool-album/">Meine
-Rezension könnt Ihr hier lesen</a>.
+[Meine Rezension könnt Ihr hier lesen](/2019/08/bald-kommt-das-neue-tool-album/).
 
 Wir haben uns 13 lange Jahre lang nach einem neuen Album von Maynard James
 Keenan, Danny Carey, Adam Jones und Justin Chancellor gesehnt.
@@ -113,5 +112,5 @@ Türen. Nehmt auf dem Teppich Platz, schließt die Augen und lasst Euch von der
 Musik davontragen.
 
 Psst: Das Bild von der frisch ausgepackten Special Edition habe ich mir vom
-<a href="https://marleenrecords.wordpress.com/" target="_blank" rel="noopener">Schallplattenhändler
-meines Vertrauens ausgeliehen</a>. ;-)
+[Schallplattenhändler meines Vertrauens ausgeliehen](https://marleenrecords.wordpress.com/).
+;-)

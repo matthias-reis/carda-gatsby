@@ -105,12 +105,11 @@ Vertrauens zu finden ist, davon sollte man auf jeden Fall immer ein Fläschchen
 in Reserve haben.
 
 Falls Ihr Euch selbst mal informieren möchtet: Die Facebook-Seite von MIO MIO
-<a href="https://www.facebook.com/Mio.Mio.Mate.Vivaris/?fref=ts" target="_blank" rel="noopener">findet
-Ihr hier</a>.
+[findet Ihr hier](https://www.facebook.com/Mio.Mio.Mate.Vivaris/?fref=ts).
 
 [gallery type="rectangular" link="none" ids="15065,15063,15062"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. In diesem Fall habe ich die Produkte sogar
 gewonnen. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>

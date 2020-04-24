@@ -196,18 +196,17 @@ Bedürfnissen der Verbraucher anzupassen. Das hat Folgen:
 Das alles zeigt auf ein Neues, wie es ist: Nur der Verzicht auf Fleisch, Milch
 und alle anderen Erzeugnisse tierischer Herkunft kann auf Dauer etwas bewirken.
 Ich kann es nur jedem nach wie vor ans Herz legen:
-<a href="http://category/vegan-2/go-vegan/">Go vegan</a>.
+[Go vegan](http://category/vegan-2/go-vegan/).
 
 Wer sich die ungeschönte Wahrheit ansehen und den Fleischatlas 2018 gerne mal
 komplett lesen möchte, kann ihn jederzeit herunterladen:
 
-<a href="https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2018.pdf" target="_blank" rel="noopener">Fleischatlas
-jetzt runterladen</a>
+[Fleischatlas jetzt runterladen](https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2018.pdf)
 
 <strong>HINWEIS: Bei den von mir verwendeten Bildern handelt es sich um
 Screenshots aus dem
-<a href="https://www.boell.de/de/2018/01/10/fleischatlas-2018-rezepte-fuer-eine-bessere-tierhaltung" target="_blank" rel="noopener nofollow">Fleischatlas
-2018</a> Bartz/Stockmar, CC BY 4.0. Das Bild im Titel stammt von
-OpenClipart-Vectors (pixabay)</strong>
+[Fleischatlas 2018](https://www.boell.de/de/2018/01/10/fleischatlas-2018-rezepte-fuer-eine-bessere-tierhaltung)
+Bartz/Stockmar, CC BY 4.0. Das Bild im Titel stammt von OpenClipart-Vectors
+(pixabay)</strong>
 
 <strong>QUELLE: Fleischatlas 2018</strong>

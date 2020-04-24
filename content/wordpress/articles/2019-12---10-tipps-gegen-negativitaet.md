@@ -164,5 +164,5 @@ mehr dran ändern. Doch! Kopf hoch und freu Dich auf den Abend!
 ![10-tipps-gegen-negativitaet-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin | large](http://cardamonchai.com/wp-content/uploads/2019/12/Tipps-gegen-Negativität-2-520x780.png)
 
 Hat Dir mein Artikel gefallen? Das freut mich! Wenn Du in Zukunft nichts mehr
-auf meiner Seite verpassen möchtest, <a href="#newsletter">abonnierst Du am
-besten meinen Newsletter</a>.
+auf meiner Seite verpassen möchtest,
+[abonnierst Du am besten meinen Newsletter](#newsletter).

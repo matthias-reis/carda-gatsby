@@ -51,13 +51,13 @@ selbst.
     <li><strong>Du achtest auf die Umwelt
 </strong>An sich zu arbeiten, kann zum Beispiel auch bedeuten, darauf zu achten, weniger Müll zu produzieren und weniger Abgase in die Luft zu blasen: Gut so! Daran können sich andere mal ein Beispiel nehmen.</li>
     <li><strong>Deine Mitwelt geht Dir nicht am Arsch vorbei
-</strong>Wer an sich arbeitet, merkt vielleicht früher oder später auch, dass wir die Erde nicht alleine bewohnen. Das Kaninchen aus dem Tierheim ist doch mindestens genau so niedlich, wie das, das Deine Bekannte sich beim Züchter gekauft hat, oder? Der <a href="http://cardamonchai.com/2014/12/diy-sojamilch/">selbstgemachte Sojadrink</a> schmeckt eigentlich viel besser, als <a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">die Milch, die eigentlich das Kälbchen kriegen sollte</a> und Du fütterst jetzt seit Neuestem auf dem Weg zur Arbeit <a href="http://cardamonchai.com/2016/05/hamburger-stadttauben-e-v/">Tauben</a>? Herzlichen Glückwunsch! Deine Mitwelt geht Dir nicht mehr am Arsch vorbei! Empathie ist etwas Schönes und sie führt dazu, dass man die Welt mit anderen Augen sieht.</li>
+</strong>Wer an sich arbeitet, merkt vielleicht früher oder später auch, dass wir die Erde nicht alleine bewohnen. Das Kaninchen aus dem Tierheim ist doch mindestens genau so niedlich, wie das, das Deine Bekannte sich beim Züchter gekauft hat, oder? Der  [Tauben](/2014/12/diy-sojamilch/) ? Herzlichen Glückwunsch! Deine Mitwelt geht Dir nicht mehr am Arsch vorbei! Empathie ist etwas Schönes und sie führt dazu, dass man die Welt mit anderen Augen sieht.</li>
     <li><strong>Du bist bereit noch etwas zu lernen
 </strong>An sich selbst zu arbeiten bedeutet auch, sich weiterzubilden und sich für bestimmte Themen zu interessieren. Das kann sich im Job mitunter ganz schön positiv auswirken und auch im Privatleben kann man was davon haben. Intelligenz ist schließlich wahnsinnig attraktiv!</li>
     <li><strong>Du entschuldigst Dich, wenn Du jemandem Unrecht getan hast
 </strong>Wisst ihr, was mich unheimlich nervt? Wenn Leute mit dem Satz "Der/die ist halt so" einen Freibrief bekommen und sich Zeit ihres Lebens aufführen dürfen, wie die Axt im Walde. Ich finde, es ist durchaus in Ordnung, an sich zu arbeiten und auch im miesesten Stimmungstief mal ein "Es tut mir leid" rauszupressen und nicht immer darauf zu beharren, das letzte Wort zu haben. Und zwar auch, wenn man danach immer noch anderer Meinung ist. Es schläft sich dann auch viel besser.</li>
     <li><strong>Deine Gesundheit ist Dir wichtig
-</strong>Ich stehe dazu, dass mir meine Gesundheit wichtig ist. Deshalb versuche ich mehr oder weniger regelmäßig Sport zu machen, auch mal was Grünes zu essen und <a href="http://cardamonchai.com/2019/01/von-der-wichtigkeit-sich-zeit-zu-nehmen/">zwischen dem ganzen Alltagstress</a> beim Yoga die Seele baumeln zu lassen oder im Wald die frische Luft zu genießen. Da ist doch eigentlich auch nichts Verkehrtes dran, oder?</li>
+</strong>Ich stehe dazu, dass mir meine Gesundheit wichtig ist. Deshalb versuche ich mehr oder weniger regelmäßig Sport zu machen, auch mal was Grünes zu essen und  [zwischen dem ganzen Alltagstress](/2019/01/von-der-wichtigkeit-sich-zeit-zu-nehmen/)  beim Yoga die Seele baumeln zu lassen oder im Wald die frische Luft zu genießen. Da ist doch eigentlich auch nichts Verkehrtes dran, oder?</li>
     <li><strong>Du tust Dir gerne etwas Gutes
 </strong>"Think positive" heißt die Devise - wer an sich arbeitet, beschäftigt sich mit sich selbst und stellt irgendwann fest, wie schön es ist, sich ab und zu mal etwas Schönes zu gönnen. Eine Woche zu zweit am Strand? Einen neuen Regenmantel? Einmal in der Woche Gesangstunden? Eine Packung von dem Zwieback, den Oma früher immer mitgebracht hat? Ganz egal: Sich selbst etwas Gutes zu tun, gehört auch zum an sich selbst Arbeiten dazu und macht nachhaltig glücklich.</li>
     <li><strong>Fehler gestehst Du Dir ein
@@ -82,8 +82,5 @@ In diesem Sinne: Namasté!
 
 [gallery type="rectangular" link="none" size="medium" ids="23255,23254"]
 
-Die Fotos habe ich in
-<a href="http://cardamonchai.com/2015/09/unterwegs-in-sri-lanka/">Sri Lanka</a>
-gemacht. Wenn Du in Zukunft mehr Texte und Bilder von mir sehen willst, freue
-ich mich, wenn Du <a href="#newsletter">meinen Newsletter</a> abonnierst. Bis
-bald!
+Die Fotos habe ich in [meinen Newsletter](/2015/09/unterwegs-in-sri-lanka/)
+abonnierst. Bis bald!

@@ -75,30 +75,29 @@ Selbstverständlich besteht dabei kein Anspruch auf Vollständigkeit.
 Das Hamburger Label habe ich hier vor Ort kennen und lieben gelernt. Jeden
 Winter findet in einer Eisdiele in der Schanze ein Pop-up-Verkauf statt. Dort
 kann man sich mit tollen, in Hamburg hergestellten Klamotten eindecken. Für
-Nicht-Hamburger gibt es Recolution natürlich auch
-Online: <a href="https://www.recolution.de" target="_blank" rel="noopener">https://www.recolution.de</a>
+Nicht-Hamburger gibt es Recolution natürlich auch Online: 
+[https://www.recolution.de](https://www.recolution.de)
 
 ### Armed Angels
 
-Im Netz unter anderem
-<a href="https://www.armedangels.de/?" target="_blank" rel="noopener">hier</a>
-zu finden. Vertrieben wird die Eco &amp; Fair Kollektion übrigens inzwischen
-auch von einigen großen Modehäusern.
+Im Netz unter anderem [hier](https://www.armedangels.de/?) zu finden. Vertrieben
+wird die Eco &amp; Fair Kollektion übrigens inzwischen auch von einigen großen
+Modehäusern.
 
 ### Bidges &amp; Sons
 
 Wir Hamburger haben es mit den Hanseatischen Kultklamotten von Bidges &amp; Sons
 natürlich gut, denn wir können einfach im Store auf der Reeperbahn
-vorbeischauen. Aber keine Sorge. Es gibt auch einen tollen
-Onlineshop: <a href="https://www.bidges-sons.com" target="_blank" rel="noopener">https://www.bidges-sons.com</a>
+vorbeischauen. Aber keine Sorge. Es gibt auch einen tollen Onlineshop: 
+[https://www.bidges-sons.com](https://www.bidges-sons.com)
 
 ### Gudrun Sjöden
 
 Viele Kleidungsstücke der Schwedischen Modeschöpferin Gudrun Sjöden sind aus
 Bio-Baumwolle gefertigt oder sogar aus Recycling-Materialien hergestellt.
 Inzwischen tragen auch ein paar das Fair Trade Logo. Ich schaue gerne im
-Hamburger Store vorbei, aber auch der große Onlineshop hat es in
-sich: <a href="https://www.gudrunsjoeden.de" target="_blank" rel="noopener">https://www.gudrunsjoeden.de</a>
+Hamburger Store vorbei, aber auch der große Onlineshop hat es in sich: 
+[https://www.gudrunsjoeden.de](https://www.gudrunsjoeden.de)
 
 ### Merijula
 
@@ -106,21 +105,20 @@ sich: <a href="https://www.gudrunsjoeden.de" target="_blank" rel="noopener">htt
 
 ### Save The Duck
 
-Der fiese Trend zu
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">Echtpelz</a> und
-Daunen nimmt und nimmt kein Ende. Save The Duck setzt dem perfekte Winterjacken
-entgegen, die komplett ohne Materialien tierischen Ursprungs auskommen,
-kuschelig warm sind und obendrein auch noch saugut aussehen. Die Jacken sind
-nicht besonders billig, aber die Anschaffung lohnt sich. Neugierige finden die
-guten Stücke in Deutschland in verschiedenen Online-Modeshops.
+Der fiese Trend zu [Echtpelz](/2014/11/fakepelz-echtpelz/) und Daunen nimmt und
+nimmt kein Ende. Save The Duck setzt dem perfekte Winterjacken entgegen, die
+komplett ohne Materialien tierischen Ursprungs auskommen, kuschelig warm sind
+und obendrein auch noch saugut aussehen. Die Jacken sind nicht besonders billig,
+aber die Anschaffung lohnt sich. Neugierige finden die guten Stücke in
+Deutschland in verschiedenen Online-Modeshops.
 
 ### Derbe
 
 Das Hamburger Label hat den Vegan Fashion Award gewonnen. Alle Produkte, zu
 denen zählen unter anderem tolle Friesennerze (Regenjacken), Softshelljacken und
 Winterjacken- und Mäntel, sind außerdem PETA-approved. Das Motto "Die Gans
-bleibt ganz" ist definitiv unterstützenswert. Hier gibt's was zu
-sehen: <a href="https://www.derbeshop.de" target="_blank" rel="noopener">https://www.derbeshop.de</a>
+bleibt ganz" ist definitiv unterstützenswert. Hier gibt's was zu sehen: 
+[https://www.derbeshop.de](https://www.derbeshop.de)
 
 ## Faire Klamotten von verschiedenen Eco-Labels könnt Ihr außerdem bestellen bei:
 
@@ -130,7 +128,7 @@ sehen: <a href="https://www.derbeshop.de" target="_blank" rel="noopener">https:
 
 Vegane Mode aus Baumwolle, die unter fairen Bedingungen produziert wird findet
 Ihr bei
-<a href="https://www.adcell.de/promotion/click/promoId/103298/slotId/80259" target="_blank" rel="noopener">https://fairshion.de/</a>
+[https://fairshion.de/](https://www.adcell.de/promotion/click/promoId/103298/slotId/80259)
 
 ### Zündstoff
 
@@ -140,33 +138,33 @@ Ihr bei
 
 ![](https://www.adcell.de/promotion/view/promoId/35310/slotId/80259)
 
-Basic-Kleidung aus fairer
-Produktion <a href="https://www.adcell.de/promotion/click/promoId/35310/slotId/80259" target="_blank" rel="noopener">https://www.grundstoff.net/</a>
+Basic-Kleidung aus fairer Produktion 
+[https://www.grundstoff.net/](https://www.adcell.de/promotion/click/promoId/35310/slotId/80259)
 
 ### Avocadostore
 
 Mehr als 130.000 nachhaltige Produkten von über 2000 Marken
-<a href="https://www.avocadostore.de" target="_blank" rel="noopener">https://www.avocadostore.de</a>
+[https://www.avocadostore.de](https://www.avocadostore.de)
 
 ### Greenality
 
 Biologische und faire Mode für jeden Anlass
-<a href="https://www.greenality.de" target="_blank" rel="noopener">https://www.greenality.de</a>
+[https://www.greenality.de](https://www.greenality.de)
 
 ### Bleed Clothing
 
 Ökologisch, vegan und fair produzierte Sports- und Streetwear
-<a href="https://www.bleed-clothing.com/deutsch" target="_blank" rel="noopener">https://www.bleed-clothing.com/deutsch</a>
+[https://www.bleed-clothing.com/deutsch](https://www.bleed-clothing.com/deutsch)
 
 ### Shirts For Life
 
 Social Green Fashion unterstützt unter anderem "Save The Bees"
-<a href="https://www.shirtsforlife.de" target="_blank" rel="noopener">https://www.shirtsforlife.de</a>
+[https://www.shirtsforlife.de](https://www.shirtsforlife.de)
 
 ### Fairtragen
 
 Onlineshop mit ökologischer Mode mit Sitz in Bremen
-<a href="https://www.fairtragen.de" target="_blank" rel="noopener">https://www.fairtragen.de</a>
+[https://www.fairtragen.de](https://www.fairtragen.de)
 
 ## Aktivisten bestellen ihre T-Shirts übrigens gerne hier:
 
@@ -176,18 +174,18 @@ Onlineshop mit ökologischer Mode mit Sitz in Bremen
 
 Ich liebe diesen Onlineshop. Hier findet man einfach alles, von Trinkflaschen
 über T-Shirts und Schuhe bis hin zu Tierfutter, Kondomen und Zahnbürsten aus
-Bambus. <a href="https://www.rootsofcompassion.org" target="_blank" rel="noopener">https://www.rootsofcompassion.org</a>
+Bambus.  [https://www.rootsofcompassion.org](https://www.rootsofcompassion.org)
 
 ### Peta Store
 
 Im Peta Store gibt es nicht nur tolle Shirts aus Bio-Baumwolle sondern auch noch
-jede Menge praktische Haushaltshelfer sowie Patches, Lesematerial und
-Kosmetik. <a href="https://www.petastore.de" target="_blank" rel="noopener">https://www.petastore.de</a>
+jede Menge praktische Haushaltshelfer sowie Patches, Lesematerial und Kosmetik. 
+[https://www.petastore.de](https://www.petastore.de)
 
 ### Sea Shepherd
 
-Alle Klamotten sind aus GOTS-zertifizierter Baumwolle und sehr
-hochwertig. <a href="https://shop.sea-shepherd.de" target="_blank" rel="noopener">https://shop.sea-shepherd.de</a>
+Alle Klamotten sind aus GOTS-zertifizierter Baumwolle und sehr hochwertig. 
+[https://shop.sea-shepherd.de](https://shop.sea-shepherd.de)
 
 ## Vegane Schuhe
 
@@ -196,33 +194,33 @@ Gegenteil! Hier einige Adressen, bei denen ihr echt geniale Schuhe findet:
 
 ### EKN Schuhe
 
-Schuhe unter dem Motto "Walking Clean In A Dirty
-World" <a href="https://www.eknfootwear.com" target="_blank" rel="noopener">https://www.eknfootwear.com</a>
+Schuhe unter dem Motto "Walking Clean In A Dirty World" 
+[https://www.eknfootwear.com](https://www.eknfootwear.com)
 
 ### Noah
 
 Feine Fußbekleidung aus Italien
-<a href="https://www.noah-shop.com" target="_blank" rel="noopener">https://www.noah-shop.com</a>
+[https://www.noah-shop.com](https://www.noah-shop.com)
 
 ### Avesu
 
 Vegane Schuhe für jeden Geschmack und Anlass
-<a href="https://www.avesu.de" target="_blank" rel="noopener">https://www.avesu.de</a>
+[https://www.avesu.de](https://www.avesu.de)
 
 ### Anifree Shoes
 
 Veganes, faires und nachhaltiges Schuhwerk vom Gummistiefel bis zur Sandale
-<a href="https://www.anifree-shoes.de/de" target="_blank" rel="noopener">https://www.anifree-shoes.de/de</a>
+[https://www.anifree-shoes.de/de](https://www.anifree-shoes.de/de)
 
 ### Shoezuu
 
 Faire vegane Schuhe und Accessoires
-<a href="https://www.shoezuu.de" target="_blank" rel="noopener">https://www.shoezuu.de</a>
+[https://www.shoezuu.de](https://www.shoezuu.de)
 
 ### Dogo
 
 Fantasievolles Schuhwerk in verschiedenen bunten Designs
-<a href="https://www.dogo-shoes.com" target="_blank" rel="noopener">https://www.dogo-shoes.com</a>
+[https://www.dogo-shoes.com](https://www.dogo-shoes.com)
 
 ![Grundstoff](https://www.adcell.de/promotion/image/promoId/36924/slotId/80259)
 
@@ -232,5 +230,5 @@ Fantasievolles Schuhwerk in verschiedenen bunten Designs
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

@@ -72,6 +72,5 @@ die ebenfalls aus Edinburg stammt.
 Eagleowl - Into The Fold
 
 [youtube=http://www.youtube.com/watch?v=xYUYxnhyyHM&amp;feature=related]
-<strong></strong><em>Eagleowl:</em><a href="http://www.eagleowlattack.co.uk/">http://www.eagleowlattack.co.uk/</a><em>Alexander
-McCall
-Smith:</em><a href="http://de.wikipedia.org/wiki/Alexander_McCall_Smith">http://de.wikipedia.org/wiki/Alexander_McCall_Smith</a>
+<strong></strong><em>Eagleowl:</em>
+[http://de.wikipedia.org/wiki/Alexander_McCall_Smith](http://www.eagleowlattack.co.uk/)

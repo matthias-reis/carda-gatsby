@@ -112,19 +112,17 @@ lay his head and rest</blockquote>
 ## Wegweiser Irland
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/10/moewen-in-dublin/">Möwen in Dublin</a></li>
-    <li><a href="http://cardamonchai.com/2017/10/kleiner-spaziergang-durch-dublin/">Spaziergang durch Dublin</a></li>
-    <li><a href="http://cardamonchai.com/2017/10/guinness-ist-vegan-brauerei-besuch/">Guinness ist vegan - Unser Besuch in der St. James Gate Brewery</a></li>
-    <li><a href="http://cardamonchai.com/2017/11/kilkenny-bunte-insel-irland/">Bunte Insel Irland - Farbenfrohe Details in Kilkenny</a></li>
-    <li><a href="http://cardamonchai.com/2017/11/kilkenny-castle/">Kilkenny Castle - Ein Schloss mit vielen Gesichtern</a></li>
-    <li><a href="http://cardamonchai.com/2017/11/rock-of-cashel/">Rock Of Cashel - Ein geschichtsträchtiger Ort</a></li>
-    <li><a href="http://cardamonchai.com/2017/12/cork/">Cork - Technik und Tradition</a></li>
-    <li><a href="http://cardamonchai.com/2018/01/ring-of-kerry/">Abenteuer auf dem Ring Of Kerry</a></li>
+    <li> [Möwen in Dublin](/2017/10/moewen-in-dublin/) </li>
+    <li> [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/) </li>
+    <li> [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/) </li>
+    <li> [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/) </li>
+    <li> [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/) </li>
+    <li> [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/) </li>
+    <li> [Cork - Technik und Tradition](/2017/12/cork/) </li>
+    <li> [Abenteuer auf dem Ring Of Kerry](/2018/01/ring-of-kerry/) </li>
     <li>Wandern im Gap Of Dunloe</li>
 </ol>
 
 <em>To be continued...</em>
 
-<a href="http://cardamonchai.com/2017/11/herrenlose-pferde-heuspenden-puss-in-boots/">Wer
-mehr über Pferde in Irland erfahren und Ihnen vielleicht sogar was Gutes tun
-möchte, sollte mal hier klicken.</a>
+[Wer mehr über Pferde in Irland erfahren und Ihnen vielleicht sogar was Gutes tun möchte, sollte mal hier klicken.](/2017/11/herrenlose-pferde-heuspenden-puss-in-boots/)

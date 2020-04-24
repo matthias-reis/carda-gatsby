@@ -41,10 +41,10 @@ subTitle: Schallzahnbürste unter der Lupe
 
 <em>Werbung &amp; Affiliate Link\*</em>
 
-<strong>Weil ich so gerne <a href="/category/vegan-2/produkte/">Produkte
-teste</a> und Ihr meine Testberichte auch jedes Mal fleißig lest und weitergebt,
-möchte ich auch diesen Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal
-die Schallzahnbürste samt Zahncreme aus dem Hause Happybrush.</strong>
+<strong>Weil ich so gerne [Produkte teste](/category/vegan-2/produkte/) und Ihr
+meine Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch
+diesen Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die
+Schallzahnbürste samt Zahncreme aus dem Hause Happybrush.</strong>
 
 ![happybrush](http://cardamonchai.com/wp-content/uploads/2017/08/36258950832_fce116d5ce_z-300x450.jpg)
 
@@ -129,12 +129,11 @@ ihn gerne haben möchte, staubt ihn ab.
 ![](https://www.adcell.de/promotion/view/promoId/169537/slotId/80259)
 
 Zur Homepage von Happybrush geht es
-<a href="https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F).
 
 [myflickr tag="annehappybrush"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>

@@ -215,4 +215,4 @@ Wer jetzt neugierig geworden ist und das Alohachérie gerne mal besuchen möchte
 Ihr findet es in Hamburg in der Weidenallee 2a. Abends empfiehlt sich eine
 Reservierung, mittags könntet Ihr Glück haben und spontan noch ein freies
 Tischchen finden. Die veganen Foodkünstler sind
-<a href="https://www.alohacherie.de/">auch im Netz unterwegs</a>.
+[auch im Netz unterwegs](https://www.alohacherie.de/).

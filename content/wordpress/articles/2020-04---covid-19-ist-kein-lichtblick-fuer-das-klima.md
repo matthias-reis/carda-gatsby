@@ -51,7 +51,7 @@ funktioniert.
 Die Umweltchefin findet, dass es besonders wichtig ist, dass wir die Auslöser
 der Pandemie verstehen lernen.
 
-<blockquote>"Wenn wir auch in Zukunft in empfindliche ökologische Systeme eingreifen, bringen wir Menschen immer näher in Kontakt mit Wildtieren. Darüber hinaus sind <a href="http://cardamonchai.com/2016/05/pangolin-ein-vergessenes-schuppentier/">der illegale Wildtierhandel</a> und sogenannte 'Wet Markets' nicht selten die Ursache für derartige Krankheiten. Etwa 75 Prozent der neuen und infektiösen Krankheiten sind zoonotisch. Tatsächlich kommt es jedes Jahr etwa zu einer Milliarde Krankheitsfälle sowie Millionen von Todesfällen aufgrund dieser Krankheiten.",</blockquote>
+<blockquote>"Wenn wir auch in Zukunft in empfindliche ökologische Systeme eingreifen, bringen wir Menschen immer näher in Kontakt mit Wildtieren. Darüber hinaus sind  [der illegale Wildtierhandel](/2016/05/pangolin-ein-vergessenes-schuppentier/)  und sogenannte 'Wet Markets' nicht selten die Ursache für derartige Krankheiten. Etwa 75 Prozent der neuen und infektiösen Krankheiten sind zoonotisch. Tatsächlich kommt es jedes Jahr etwa zu einer Milliarde Krankheitsfälle sowie Millionen von Todesfällen aufgrund dieser Krankheiten.",</blockquote>
 
 berichtet sie. Die Eingriffe des Menschen in die Natur wie etwa die immer
 weitere Vergrößerung der Tierzucht und -Haltung haben bereits drei Viertel der
@@ -65,8 +65,8 @@ den illegalen Handel mit wilden Tieren bekämpfen müssen.
 
 Wir müssen begreifen, dass die Natur unser eigenes Überleben sichert. Sie
 versorgt uns mit der Luft, die wir atmen, reguliert das Wetter und
-<a href="http://cardamonchai.com/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/">bestäubt
-die Pflanzen</a>, von denen wir uns ernähren. Andersen findet,
+[bestäubt die Pflanzen](/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/),
+von denen wir uns ernähren. Andersen findet,
 
 ## "Unsere und die Gesundheit des Planeten sind ein und dieselbe"
 
@@ -119,10 +119,9 @@ es an der Zeit für ein kollektives Umdenken.
 ## Quellen
 
 <ul>
-    <li><a href="https://news.un.org/en/story/2020/04/1061082">UN News</a></li>
-    <li><a href="https://www.vivahealth.org.uk/coronavirus-call-for-change">Viva Health</a></li>
+    <li> [UN News](https://news.un.org/en/story/2020/04/1061082) </li>
+    <li> [Viva Health](https://www.vivahealth.org.uk/coronavirus-call-for-change) </li>
 </ul>
 
 Bild im Header / picture in header:
-<a href="https://www.un.org/sg/en/content/profiles/inger-andersen" target="_blank" rel="noopener">Inger
-Andersen, UN</a>
+[Inger Andersen, UN](https://www.un.org/sg/en/content/profiles/inger-andersen)

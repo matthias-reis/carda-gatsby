@@ -41,11 +41,10 @@ subTitle: Food Start-up Wettbewerb Next Level!
 dabei. Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.</strong>
 
 Vor einiger Zeit habe ich Euch
-<a href="http://cardamonchai.com/2017/04/interview-mit-danny-von-vegablum/">Vegablum</a>
-hier im Blog ja bereits vorgestellt. Jetzt konnten sich Danny und Stephan
-bereits im Vorfeld des großen Next Level! Wettbewerbs gegen einige Mitbewerber
-durchsetzen - das bedeutet, sie können mit ihren veganen Honig- und
-Metalternativen auf einen Sieg hoffen.
+[Vegablum](/2017/04/interview-mit-danny-von-vegablum/) hier im Blog ja bereits
+vorgestellt. Jetzt konnten sich Danny und Stephan bereits im Vorfeld des großen
+Next Level! Wettbewerbs gegen einige Mitbewerber durchsetzen - das bedeutet, sie
+können mit ihren veganen Honig- und Metalternativen auf einen Sieg hoffen.
 
 ## Crowdfunding bei Startnext
 
@@ -88,19 +87,13 @@ Award ausgezeichnet.
 
 ## Infos:
 
-<a href="http://cardamonchai.com/2017/04/interview-mit-danny-von-vegablum/">Interview
-mit Vegablum Gründerin Danny</a>
-<a href="http://cardamonchai.com/2017/04/veganer-honig-vegablum/">Produkttest
-Vegablum</a>
-<a href="https://vegablum.de/" target="_blank" rel="noopener nofollow">Homepage
-Vegablum</a>
-<a href="https://www.startnext.com/vegablum" target="_blank" rel="noopener nofollow">Crowdfunding
-Kampagne</a>
-<a href="https://food-crowdfunding.de/" target="_blank" rel="noopener nofollow">Homepage
-Nextlevel! 2019</a>
+[Interview mit Vegablum Gründerin Danny](/2017/04/interview-mit-danny-von-vegablum/)
+[Produkttest Vegablum](/2017/04/veganer-honig-vegablum/)
+[Homepage Vegablum](https://vegablum.de/)
+[Crowdfunding Kampagne](https://www.startnext.com/vegablum)
+[Homepage Nextlevel! 2019](https://food-crowdfunding.de/)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung
 gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog
-findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

@@ -42,7 +42,7 @@ werden, sehnen wir uns nach Farbe. Da ist es auch ganz natürlich, zu bunten
 Zutaten zu greifen und diese auf dem Teller und im Glas zu vereinen. Noch gibt
 es überall Beeren, Trauben, Pflaumen und Melonen zu kaufen. Die Zeit von Nüssen,
 Kohl, Kürbissen und
-<a href="https://www.keimling.de/trockenfruechte-nuesse.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Trockenfrüchten</a>
+[Trockenfrüchten](https://www.keimling.de/trockenfruechte-nuesse.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 steht kurz bevor.
 
 ![Rohveganes](http://cardamonchai.com/wp-content/uploads/2018/08/27956500381_6a15ebdb9d_z-400x400.jpg)
@@ -51,11 +51,8 @@ steht kurz bevor.
 
 Wer das Experimentieren lieber den Profis überlässt, findet auch im Laden oder
 online herbstliche Schlemmereien. Wie wäre es zum Beispiel mit einer rohveganen
-<a href="https://www.keimling.de/rohkost-walnussmus.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Walnusscreme</a>?
-Die eignet sich toll als Brotaufstrich und zusammen mit ein paar
-<a href="https://www.keimling.de/mandelkerne.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Mandelkernen</a>
-ergibt sich im
-<a title="Vitamix Professional Series 750" href="https://www.keimling.de/vitamix-pro-750.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;bannerid=12&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Blender</a><script type="text/javascript" src="//www.keimling.de/js/magestore/affiliateplus/banner.php?id=12&account_id=502&store_id=1"></script>
+[Blender](https://www.keimling.de/rohkost-walnussmus.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+<script type="text/javascript" src="//www.keimling.de/js/magestore/affiliateplus/banner.php?id=12&account_id=502&store_id=1"></script>
 schon die Grundlage für einen schmackhaften Quiche-Teig:
 
 ## Rohvegane Gemüse-Quiche
@@ -75,17 +72,17 @@ schon die Grundlage für einen schmackhaften Quiche-Teig:
 <ul>
     <li>3 frische Tomaten</li>
     <li>3-4 getrocknete Tomaten</li>
-    <li>2 EL <a href="https://www.keimling.de/vita-verde-olivenoel-peleponnes-bio.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Olivenöl</a></li>
+    <li>2 EL  [Olivenöl](https://www.keimling.de/vita-verde-olivenoel-peleponnes-bio.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
     <li>1 Handvoll Walnüsse</li>
 </ul>
 
 #### Teig
 
 <ul>
-    <li>40 g <a href="https://www.keimling.de/mandelkerne.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Mandelkerne</a></li>
+    <li>40 g  [Mandelkerne](https://www.keimling.de/mandelkerne.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
     <li>60 g Leinsamen</li>
     <li>150 g Sonnenblumenkerne</li>
-    <li>3 EL <a href="https://www.keimling.de/rohkost-walnussmus.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Walnussmus</a></li>
+    <li>3 EL  [Walnussmus](https://www.keimling.de/rohkost-walnussmus.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
 </ul>
 
 ### Zubereitung
@@ -110,12 +107,12 @@ Beilage reichen. Das bleibt ganz Euch überlassen.
 <ul>
     <li>1 kleine Salatgurke</li>
     <li>3 Tomaten</li>
-    <li>1 Handvoll <a href="https://www.keimling.de/rohkost-lebensmittel/rohkost-kueche.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Buchweizenkeimlinge</a></li>
+    <li>1 Handvoll  [Buchweizenkeimlinge](https://www.keimling.de/rohkost-lebensmittel/rohkost-kueche.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
     <li>1/2 Zitrone</li>
-    <li>2 EL <a href="https://www.keimling.de/catalogsearch/result/?q=Lein%C3%B6l&amp;acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Leinöl</a></li>
+    <li>2 EL  [Leinöl](https://www.keimling.de/catalogsearch/result/?q=Lein%C3%B6l&amp;acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
     <li>1 TL Apfelessig</li>
     <li>1 gelbe Paprika</li>
-    <li>4-5 Zwetschgen oder <a href="https://www.keimling.de/pflaumen-ohne-stein.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Trockenpflaumen</a></li>
+    <li>4-5 Zwetschgen oder  [Trockenpflaumen](https://www.keimling.de/pflaumen-ohne-stein.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
     <li>1 Mohrmöhre</li>
     <li>1 Handvoll Walnüsse</li>
     <li>Pfeffer</li>
@@ -126,7 +123,7 @@ Beilage reichen. Das bleibt ganz Euch überlassen.
 
 Die Möhren zusammen mit den Walnüssen fein häckseln. aus dem Saft der halben
 Zitrone, dem Apfelessig, dem Zucker, dem
-<a href="https://www.keimling.de/catalogsearch/result/?q=Lein%C3%B6l&amp;acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Leinöl</a>
+[Leinöl](https://www.keimling.de/catalogsearch/result/?q=Lein%C3%B6l&acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 und etwas Pfeffer ein Dressing zubereiten.
 
 Alle anderen Zutaten in kleine Stücke schneiden. Den Salat mit dem Dressing
@@ -167,8 +164,7 @@ können so besser erhalten und dem Körper in größerer Menge zugeführt werden
 ## Nicht nur Rohveganes
 
 Lust auf was Warmes? Hier findet Ihr ein
-<a href="https://cardamonchai.com/2015/09/zucchinisuppe-herbstlich-vegan/">tolles
-Rezept für eine herbstliche Zucchinisuppe</a>.
+[tolles Rezept für eine herbstliche Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/).
 
 ![null](//www.keimling.de/js/magestore/affiliateplus/banner.php?id=167&account_id=502&store_id=1)
 
@@ -177,8 +173,7 @@ Rezept für eine herbstliche Zucchinisuppe</a>.
 \*<em>Hinweis: Dieser Beitrag enthält Werbung, eine Anzeige und Affiliate Links.
 Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>
 
-<small>Bild im Titel:
-<a href="https://pixabay.com/de/users/SofiaHM-8352739/" target="_blank" rel="noopener">Sofia
-HM</a>, Pixabay, andere Bilder: von mir</small>
+<small>Bild im Titel: [Sofia HM](https://pixabay.com/de/users/SofiaHM-8352739/),
+Pixabay, andere Bilder: von mir</small>

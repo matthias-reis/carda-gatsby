@@ -58,5 +58,4 @@ Aufgeschlossenheit Liebe ist etwas Gutes - Das sagt nicht nur die Enzyklopädie
 
 [gallery type="thumbnails" size="medium" link="none" ids="20915,20921,20914"]
 
-<a href="http://cardamonchai.com/2016/03/sonne-und-frieden/">Sonne und
-Frieden</a>
+[Sonne und Frieden](/2016/03/sonne-und-frieden/)

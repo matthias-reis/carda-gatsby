@@ -40,8 +40,7 @@ Der berühmt Räuber "Hiasl" diente den Jesuiten auf <strong>Gut
 Mergenthau</strong> als Jagdgehilfe. Er wurde entlassen, als er einen Pater als
 Katzenschützen verspottete.
 
-<em><a title="Gut Mergenthau" href="http://www.gut-mergenthau.de/" target="_blank" rel="noopener">Homepage</a>
-Gut Mergenthau</em>
+<em> [Homepage](http://www.gut-mergenthau.de/) Gut Mergenthau</em>
 
 &nbsp;
 

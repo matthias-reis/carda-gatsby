@@ -67,18 +67,17 @@ Gewissen, habe ich mir sagen lassen.
 
 Selbstverständlich möchte ich niemandem so etwas unterstellen. Noch weniger
 möchte ich den Menschen, denen ich begegne, Unwissenheit vorwerfen. Meine
-Faktensammlung lege ich,
-<a title="My vegan diary" href="/2014/08/ich-war-so-muede/">wie schon kurz
-berichtet</a> in erster Linie an, um meinen Wissensdurst zu stillen und
-Informationen sind dazu da, sie zu teilen. Was der/die Einzelne mit Ihnen macht,
-bleibt jedem/r selbst überlassen. Da bereits Fakt 1 ziemlich umfangreich
-geworden ist und noch neun weitere hochinteressante Themen folgen werden, habe
-ich mich für eine Artikelserie entschieden. Das hier ist also Teil I. meiner "10
-Fakten über vegane Ernährung".
+Faktensammlung lege ich, [wie schon kurz berichtet](/2014/08/ich-war-so-muede/)
+in erster Linie an, um meinen Wissensdurst zu stillen und Informationen sind
+dazu da, sie zu teilen. Was der/die Einzelne mit Ihnen macht, bleibt jedem/r
+selbst überlassen. Da bereits Fakt 1 ziemlich umfangreich geworden ist und noch
+neun weitere hochinteressante Themen folgen werden, habe ich mich für eine
+Artikelserie entschieden. Das hier ist also Teil I. meiner "10 Fakten über
+vegane Ernährung".
 
 ### Vegane Ernährung ist gut für das Klima und für unsere Umwelt
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/kc3bchlschrank-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Vegane Zone')
+![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/kc3bchlschrank-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Vegane Zone")
 
 Sicher haben viele von Euch schon mal das Plakat gesehen, auf dem Thomas D sich
 für eine pflanzenbasierte Ernährung ausspricht "Vegetarier sind Klimaschützer".
@@ -101,7 +100,7 @@ für Menschen hergestellt. Dazu zählt nicht nur Tofu und Sojamilch, sondern auc
 Margarine und Sojaöl, welches vielfach in Großküchen zum Braten und Frittieren
 eingesetzt wird.
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/biosojamilch-1-640x480.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Biosojamilch')
+![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/biosojamilch-1-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Biosojamilch")
 
 Die Sojamilch, die hierzulande in den Regalen der Geschäfte steht, stammt aus
 europäischem Anbau, man kann sich also sicher sein, dass hierfür kein Regenwald
@@ -131,16 +130,16 @@ Tierfutter verwendet.
 
 ### 1 kg Rindfleisch erzeugt so viele Treibhausgase, wie über 1.600 km Autobahnfahrt
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/regenwaldkc3bche-1-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Kühe im Regenwald')
+![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/regenwaldkc3bche-1-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Kühe im Regenwald")
 
 Eine
-<a title="Studie VEBU" href="https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-" target="_blank" rel="noopener">aktuelle
-Studie</a> der Universität Wien unter Studienautor Kurt Schmidinger und Elke
-Stehfest von der PBL Netherlands Environmental Assessent Agency hat zum Beispiel
-ergeben, dass die Produktion von einem Kilogramm Rindfleisch, welches in
-Brasilien mit 335 Kilogramm CO<sub>2</sub> (Kohlendioxid) "erzeugt" wird, so
-viele Treibhausgase erzeugt, wie eine Autobahnfahrt über 1.600 Kilometer mit
-einem durchschnittlichen europäischen Personenkraftwagen. Die Bilanz fällt dort
+[aktuelle Studie](https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-)
+der Universität Wien unter Studienautor Kurt Schmidinger und Elke Stehfest von
+der PBL Netherlands Environmental Assessent Agency hat zum Beispiel ergeben,
+dass die Produktion von einem Kilogramm Rindfleisch, welches in Brasilien mit
+335 Kilogramm CO<sub>2</sub> (Kohlendioxid) "erzeugt" wird, so viele
+Treibhausgase erzeugt, wie eine Autobahnfahrt über 1.600 Kilometer mit einem
+durchschnittlichen europäischen Personenkraftwagen. Die Bilanz fällt dort
 besonders schlecht aus, da sich die dortigen Weideflächen auf ehemaligem
 Regenwaldgebiet befinden. Wie die Vereinten Nationen berichten, gehen rund 70
 Prozent der Abholzung des Regenwaldes im Amazonasgebiet auf das Konto von
@@ -160,14 +159,15 @@ CO<sub>2</sub>, umgerechnet sind das 19 bzw. 12 gefahrene Autokilometer. Fazit
 Schmidinger: „Pflanzliche Lebensmittel schneiden unter Einbeziehung aller
 ethischen Aspekte der Welternährung und aus Klimaschutzgründen tatsächlich
 wesentlich besser ab als Tierprodukte.“(Quelle:
-<a title="VEBU" href="https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt" target="_blank" rel="noopener">VEBU</a>)
+[VEBU](https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt)
+)
 
 Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro
 Kopf und Jahr, kommt man zu folgendem Ergebnis:
 
-![ökologischer Fußabdruck | large](http://cardamonchai.com/wp-content/uploads/2014/07/schaubild-1-800x454.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Schaubild: Veggie Times April 2014')
+![ökologischer Fußabdruck | large](http://cardamonchai.com/wp-content/uploads/2014/07/schaubild-1-800x454.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schaubild: Veggie Times April 2014")
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/kc3bche-640x480.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Rinder stoßen Methan aus')
+![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/kc3bche-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Rinder stoßen Methan aus")
 
 Fleischesser haben also einen 7,5 x höheren CO<sub>2</sub>-Verbrauch für ihre
 Ernährung, als Veganer\*innen. Ein ganz schöne Unterschied. Wobei man dazu sagen
@@ -182,8 +182,8 @@ Prozent des anthropogenen Treibhauseffekts auf die Methanemission von
 Wiederkäuern (also rein die Viehzucht, ohne Transport, der kommt noch dazu!)
 zurückzuführen ist. Man kann sich also ausrechnen, wie sich das zusätzlich auf
 den ökologischen Fussabdruck eines Fleischkonsumenten und somit auf unsere
-Umwelt auswirkt. (Zahlen:
-<a title="Wikipedia" href="http://de.wikipedia.org/wiki/Treibhausgas" target="_blank" rel="noopener">Wikipedia</a>)
+Umwelt auswirkt. (Zahlen: [Wikipedia](http://de.wikipedia.org/wiki/Treibhausgas)
+)
 
 ### Der ökologische Fussabdruck - Die Auswirkungen
 
@@ -201,7 +201,7 @@ Vegani unterscheidet. Ansonsten haben beide den gleichen Lebensstandard.
 
 ### Fleischesser und Veganer\*innen im Vergleich
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/fahrrad-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Einfach mal wieder Fahrrad fahren')
+![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/fahrrad-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Einfach mal wieder Fahrrad fahren")
 
 Beide leben in einem Wohnblock mit mehr als vier Wohnungen. Sie haben 80
 Quadratmeter Wohnfläche, führen einen 2 Personen Haushalt, heizen mit Erdgas und
@@ -276,14 +276,5 @@ Die Zahlen, die ich für die Berechnung meines Beispiels genommen habe, sind
 nicht die einer realen Person, ich habe sie frei gewählt. Wer sich selbst gerne
 mal testen möchte, kann dies jederzeit auf der Homepage von "Footprint
 Deutschland" tun. Einfach
-<a title="Footprint Deutschland" href="http://www.footprint-deutschland.de/inhalt/berechne-deinen-fussabdruck" target="_blank" rel="noopener">hier
-</a>klicken.
-<a title="Teil 2" href="/2014/08/ich-war-so-muede/"><span style="text-decoration: underline;"><em><strong>Hier
-gehts zu Teil 2 des Artikels</strong></em></span></a>##
-Quellen<a title="VEBU" href="https://www.vebu.de" target="_blank" rel="noopener">VEBU</a>,
-<a title="Der Artgenosse" href="https://www.facebook.com/artgenosse?fref=ts" target="_blank" rel="noopener">Der
-Artgenosse</a>, Wikipedia,
-<a title="Footprint Deutschland" href="http://www.footprint-deutschland.de" target="_blank" rel="noopener">Footprint
-Deutschland</a>,
-<a title="Naturschutz Sylt" href="http://www.naturschutz-sylt.de" target="_blank" rel="noopener">Naturschutz
-Sylt</a>
+[hier](http://www.footprint-deutschland.de/inhalt/berechne-deinen-fussabdruck)
+klicken. [Naturschutz Sylt](/2014/08/ich-war-so-muede/)

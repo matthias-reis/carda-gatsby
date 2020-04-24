@@ -81,9 +81,9 @@ und Online-Zeitungen kann es einem schnell so vorkommen, als sie der
 Der Fokus meiner Recherche lag ganz klar auf der Entwicklung der Frauenrechte.
 Der Text wird begleitet von einer Galerie aus Bildern, die ich 2012 bei der
 Sonderausstellung
-<a title="Sonderausstellung Frauen" href="http://www.pinakothek.de/kalender/2012-03-30/20674/frauen" target="_blank" rel="noopener">Frauen</a>
-in der Pinakothek der Moderne in München aufgenommen habe. Sie zeigen unbekannte
-Frauen aus den verschiedensten Ländern, die in unterschiedlichen Jahren für
+[Frauen](http://www.pinakothek.de/kalender/2012-03-30/20674/frauen) in der
+Pinakothek der Moderne in München aufgenommen habe. Sie zeigen unbekannte Frauen
+aus den verschiedensten Ländern, die in unterschiedlichen Jahren für
 verschiedene Fotografen Modell gestanden haben.
 
 Und schon geht es los mit den trockenen Fakten. Der <em>Weltfrauentag</em> wurde
@@ -215,8 +215,8 @@ Heute stehen bessere Bildung für Mädchen der Kampf gegen Zwangsbeschneidungen,
 die Verheiratung von Kindern in Entwicklungsländern und gleiches Geld für
 gleiche Arbeit im Mittelpunkt der Aktivitäten. Außerdem wird natürlich nach wie
 vor
-<a title="Aufschrei" href="http://www.tagesspiegel.de/politik/sexismus-debatte-aufschrei-gegen-joachim-gauck-/7886822.html" target="_blank" rel="noopener"><span style="text-decoration: underline;">gegen
-den allgegenwärtigen Sexismus im Alltag</span></a> gekämpft.
+[](http://www.tagesspiegel.de/politik/sexismus-debatte-aufschrei-gegen-joachim-gauck-/7886822.html)
+gekämpft.
 
 In vielen Ländern ist der <em>Internationale Frauentag</em> auch heute noch ein
 offizieller Feiertag. An diesem Tag finden häufig Aktionstage der
@@ -228,11 +228,11 @@ diesem Tag.
 
 In Berlin vergibt die Frauensenatorin Dilek Kolat (SPD) im Ludwig Ehrhard-Haus
 den offiziellen Berliner Frauenpreis 2013 Preisträgerin ist Katja von der Bey,
-ihres Zeichens Geschäftsführerin der
-Frauengenossenschaft<em><a title="Weiberwirtschaft" href="http://www.weiberwirtschaft.de/" target="_blank" rel="noopener">Weiberwirtschaft</a></em>.
-Die Berliner Linke verleiht im Pfefferwerk den Clara-Zetkin-Preis mit dem
-herausragende Frauen gewürdigt werden. Viele Parteien verteilen außerdem
-traditionell auf der Straße Blumen, um an die Frauenrechte zu erinnern.
+ihres Zeichens Geschäftsführerin der Frauengenossenschaft<em>
+[Weiberwirtschaft](http://www.weiberwirtschaft.de/) </em>. Die Berliner Linke
+verleiht im Pfefferwerk den Clara-Zetkin-Preis mit dem herausragende Frauen
+gewürdigt werden. Viele Parteien verteilen außerdem traditionell auf der Straße
+Blumen, um an die Frauenrechte zu erinnern.
 
 [gallery type="rectangular" link="none" size="medium"
 ids="4975,4982,4981,4980,4979,4978,4977,4976,4951,4952,4956,4955,4954,4953,4957,4958,4959,4960,4961,4992,4993"]
@@ -245,7 +245,7 @@ ids="4975,4982,4981,4980,4979,4978,4977,4976,4951,4952,4956,4955,4954,4953,4957,
 
 ![Frauenrechte | full](http://cardamonchai.com/wp-content/uploads/2013/03/aufschrei2.png "Kommentare zum #aufschrei-Tweet auf Facebook")
 
-### Lesetipps<a title="Emma" href="http://www.emma.de/" target="_blank" rel="noopener">Emma</a><a title="Anne Wizorek" href="http://flavors.me/annewizorek" target="_blank" rel="noopener">Anne Wizorek</a><a title="Frauenmediaturm" href="http://www.frauenmediaturm.de/home/" target="_blank" rel="noopener">Frauenmediaturm </a>
+### Lesetipps [Frauenmediaturm](http://www.emma.de/)
 
 "Die Farbe Lila" <b>ISBN-10:</b> 340492133X
 
@@ -256,5 +256,4 @@ ids="4975,4982,4981,4980,4979,4978,4977,4976,4951,4952,4956,4955,4954,4953,4957,
 ### Fotos
 
 2012 Sonderausstellung
-<a title="Sonderausstellung Frauen" href="http://www.pinakothek.de/kalender/2012-03-30/20674/frauen" target="_blank" rel="noopener">"Frauen"</a><a title="Pinakothek der Moderne" href="http://www.pinakothek.de/pinakothek-der-moderne/" target="_blank" rel="noopener">Pinakothek
-der Moderne München</a>
+[Pinakothek der Moderne München](http://www.pinakothek.de/kalender/2012-03-30/20674/frauen)

@@ -62,10 +62,7 @@ kleine Menge davon mit heißem oder kalten Wasser aufzugießen und kann
 anschließend ohne Ziehzeit genießen.
 
 Der Tee stammt aus verschiedenen Anbaugebieten auf der Welt. Ceylon aus
-<a href="http://cardamonchai.com/2015/09/unterwegs-in-sri-lanka/">Sri Lanka</a>,
-Assam aus Nordost-Indien, Rooibos aus Südafrika und der Grüne Tee aus China.
-TeaTime bezieht ihn von spezialisierten und zertifizierten Importeuren aus
-<a href="https://cardamonchai.com/category/unterwegs/hamburg/">Hamburg</a>.
+[Hamburg](/2015/09/unterwegs-in-sri-lanka/).
 
 Dabei achtet Manfred Haider besonders auf die Fairness.
 
@@ -180,5 +177,4 @@ Bleibt dran! In Kürze verrate ich Euch weitere Cocktail-Rezepte!
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

@@ -58,17 +58,16 @@ Veganismus unterhalten habe, Vegan-Interessenten, die kurz vor dem "Absprung"
 stehen, ein Satz, den auch ich damals durchaus ernst meinte.
 
 Heute ruft schon der Gedanke an Käse, die Käseproduktion oder alles, was mit
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/" target="_blank" rel="noopener">Milchprodukten</a>
-zu tun hat, Ekel in mir hervor. Damals konnte ich mir nicht mal im Traum
-vorstellen, keinen Käse mehr zu mir zu nehmen. Ich aß überall Käse dazu, alles
-habe ich überbacken, es gab Käsebrot, Käse im Salat, Käse auf der Pizza und
-manchmal sogar Käse pur. Als Ofenkäse zum Beispiel oder einfach so,
-zwischendurch ein Stück Käse aus dem Kühlschrank. Heute kann ich mir eine Pizza
-mit Käse nicht mehr vorstellen. Der würde ja schließlich auch den ganzen tollen
-Gemüsegeschmack überdecken.
+[Milchprodukten](/2014/09/pflanzenmilch-wieso-denn-blos/) zu tun hat, Ekel in
+mir hervor. Damals konnte ich mir nicht mal im Traum vorstellen, keinen Käse
+mehr zu mir zu nehmen. Ich aß überall Käse dazu, alles habe ich überbacken, es
+gab Käsebrot, Käse im Salat, Käse auf der Pizza und manchmal sogar Käse pur. Als
+Ofenkäse zum Beispiel oder einfach so, zwischendurch ein Stück Käse aus dem
+Kühlschrank. Heute kann ich mir eine Pizza mit Käse nicht mehr vorstellen. Der
+würde ja schließlich auch den ganzen tollen Gemüsegeschmack überdecken.
 
 <blockquote class="twitter-tweet"><p dir="ltr" lang="de">Es ist alles wieder gut. Ich hab's mit Käse überbacken.</p>
-— cardamonchai (@Anne_Reko) <a href="https://twitter.com/Anne_Reko/status/301749620604817408?ref_src=twsrc%5Etfw">February 13, 2013</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+— cardamonchai (@Anne_Reko)  [February 13, 2013](https://twitter.com/Anne_Reko/status/301749620604817408?ref_src=twsrc%5Etfw) </blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So viel zu meiner persönlichen "Käsegeschichte", wie ich schließlich den
 "Absprung" geschafft habe, weiß ich nicht mehr, vermisst habe ich den Käse bis
@@ -79,10 +78,10 @@ die Recherche und was ich las, öffnete mir die Augen.
 ## Meine Recherche öffnete mir die Augen
 
 Bei den Casomorphinen handelt es sich um Opiat-ähnliche Stoffe, sogenannte
-Peptide<a href="#1"><sup>1</sup></a>, die bei der Verdauung aus dem in
-Milchprodukten häufigsten Protein, dem Kasein entstehen. Es passiert die
-Blut-Hirn-Schranke und reizt die Rezeptoren im Gehirn, die auch für den Rausch
-nach der Einnahme von Morphinen verantwortlich sind.
+Peptide [](#1), die bei der Verdauung aus dem in Milchprodukten häufigsten
+Protein, dem Kasein entstehen. Es passiert die Blut-Hirn-Schranke und reizt die
+Rezeptoren im Gehirn, die auch für den Rausch nach der Einnahme von Morphinen
+verantwortlich sind.
 
 Casomorphine dämpfen das Bewusstsein, sie lindern Schmerzen und beeinflussen den
 Blutdruck und die Bewegung des Darms. Die Morphine in der Milch sollen dazu
@@ -148,21 +147,14 @@ Einfach alles in den Mixer packen, bis eine schöne glatte Masse entstanden ist,
 über den Auflauf oder die Pizza geben und backen – fertig.
 
 Hier im Blog findet Ihr ganz aktuell auch
-<a href="http://cardamonchai.com/2014/11/ein-koenigreich-fur-eine-kartoffel/" target="_blank" rel="noopener">ein
-leckeres Kartoffelauflauf-Rezept</a> aus meiner Feder, beim Nachkochen könnt Ihr
-meinen selbstgemachten "Gratinierkäse" gleich mal ausprobieren.
+[ein leckeres Kartoffelauflauf-Rezept](/2014/11/ein-koenigreich-fur-eine-kartoffel/)
+aus meiner Feder, beim Nachkochen könnt Ihr meinen selbstgemachten
+"Gratinierkäse" gleich mal ausprobieren.
 
 Ihr möchtet gerne wissen, warum Pflanzenmilch für mich die bessere Wahl ist?
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/" target="_blank" rel="noopener">Dann
-könnt Ihr direkt hier weiterlesen</a>.
+[Dann könnt Ihr direkt hier weiterlesen](/2014/09/pflanzenmilch-wieso-denn-blos/).
 
 <strong>Literaturtipps:</strong> "Raus aus der Käsefalle" von Dr. Neal D.
-Barnard, "Milch besser nicht" von Maria Rollinger
-<strong>Quellen:</strong><a href="https://www.vegane-inspiration.com/casomorphine.html" target="_blank" rel="noopener">Vegane
-Beratung</a>,
-<a href="https://www.dr-platz.de/" target="_blank" rel="noopener">Dr. Hanno
-Platz</a>,
-<a href="https://www.pcrm.org/news/blog" target="_blank" rel="noopener">Dr. Neal
-D. Barnard</a>## Fußnote<ul><li id="1">[1]
-<a href="https://de.wikipedia.org/wiki/Peptid" target="_blank" rel="noopener">Peptide
-Wikipedia</a></li></ul>
+Barnard, "Milch besser nicht" von Maria Rollinger <strong>Quellen:</strong>
+[Peptide Wikipedia](https://www.vegane-inspiration.com/casomorphine.html)
+</li></ul>

@@ -134,9 +134,7 @@ Das berichtet UN-Water.
 
 .
 
-Tipps zum Stromsparen
-<a href="http://cardamonchai.com/2011/04/stromanbieter-wechseln/">findet Ihr
-hier</a>.
+Tipps zum Stromsparen [findet Ihr hier](/2011/04/stromanbieter-wechseln/).
 
 Alle Fotos habe ich gemacht, die Grafik stamm vom Unesco Institute For Water
 Education.

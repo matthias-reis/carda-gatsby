@@ -45,13 +45,13 @@ einen Backofen - schon kann es losgehen.
 ## Zutaten für etwa 20 Cookies
 
 <ul>
-    <li>1 Tasse <a href="http://tidd.ly/b9dd4b7e" target="_blank" rel="noopener nofollow">Schoko-Drops</a> + ein paar für die Deko</li>
+    <li>1 Tasse  [Schoko-Drops](http://tidd.ly/b9dd4b7e)  + ein paar für die Deko</li>
     <li>2 Tassen kernige Haferflocken</li>
-    <li>1 Tasse frisch geschälte <a href="http://cardamonchai.com/2019/09/hof-windkind-walnuss-baum-adoptieren/">Walnüsse</a></li>
+    <li>1 Tasse frisch geschälte  [Walnüsse](/2019/09/hof-windkind-walnuss-baum-adoptieren/) </li>
     <li>2 Tassen Dinkelmehl</li>
     <li>1 Beutel (5 g) Vanille</li>
     <li>2/3 Tasse Rapsöl</li>
-    <li>1 Tasse <a href="http://cardamonchai.com/2014/12/diy-sojamilch/">Sojadrink</a></li>
+    <li>1 Tasse  [Sojadrink](/2014/12/diy-sojamilch/) </li>
     <li>1/2 TL Backpulver</li>
     <li>1 TL Natron</li>
     <li>1/2 TL Salz</li>
@@ -83,23 +83,21 @@ Früchtetee. Viel Spaß beim Backen und Essen!
 
 ## Infos zu den Zutaten
 
-Anstelle von herkömmlichem braunem Zucker habe ich für meine
-Cookies <a href="http://tidd.ly/3ac05ce5" target="_blank" rel="noopener nofollow">Xucker
-Bronxe</a> verwendet. Dabei handelt es sich um Tafelsüße aus Erythrit mit einer
-angenehmen Karamellnote. Das Süßungsmittel ist vegan, frei von Allergenen und
-besteht zu 100 Prozent aus natürlichen Ressourcen (Mais aus Frankreich,
-Apfelextrakt). Seine Süßkraft entspricht ungefähr 70 Prozent der Süßkraft von
-Rohrohrzucker. Falls Ihr das auch tun möchtet: Gebt etwa einen Esslöffel
-normalen braunen Zucker zu Eurem Teig hinzu. Sonst kristallisiert Xucker Bronxe
-aus und der Geschmack kommt nicht richtig zur Geltung. Falls Ihr es etwas süßer
-mögt als ich, könnt Ihr einfach die oben angegebene Menge Rohrohrzucker
-verwenden.
+Anstelle von herkömmlichem braunem Zucker habe ich für meine Cookies 
+[Xucker Bronxe](http://tidd.ly/3ac05ce5) verwendet. Dabei handelt es sich um
+Tafelsüße aus Erythrit mit einer angenehmen Karamellnote. Das Süßungsmittel ist
+vegan, frei von Allergenen und besteht zu 100 Prozent aus natürlichen Ressourcen
+(Mais aus Frankreich, Apfelextrakt). Seine Süßkraft entspricht ungefähr 70
+Prozent der Süßkraft von Rohrohrzucker. Falls Ihr das auch tun möchtet: Gebt
+etwa einen Esslöffel normalen braunen Zucker zu Eurem Teig hinzu. Sonst
+kristallisiert Xucker Bronxe aus und der Geschmack kommt nicht richtig zur
+Geltung. Falls Ihr es etwas süßer mögt als ich, könnt Ihr einfach die oben
+angegebene Menge Rohrohrzucker verwenden.
 
 ## Feine Schoko-Drops
 
 Die
-<a href="http://tidd.ly/b9dd4b7e" target="_blank" rel="noopener nofollow">von
-mir verwendeten Edel-Bitterschokoladen-Drops stammen ebenfalls von Xucker</a>.
+[von mir verwendeten Edel-Bitterschokoladen-Drops stammen ebenfalls von Xucker](http://tidd.ly/b9dd4b7e).
 Sie enthalten mindestens 75 Prozent Kakao, sind vegan und ohne Zuckerzusatz.
 Neben der Kakaomasse enthalten sie 23 Prozent zahnpflegendes Xylit als
 Süßungsmittel sowie Kakaobutter und Sonnenblumen-Lecithine als Emulgator. Als
@@ -107,8 +105,8 @@ Aroma wird natürliche Bourbon Vanille zugesetzt.
 
 <em>\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der
 Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>
 
 <!-- START ADVERTISER: Xucker DE from awin.com -->
 

@@ -51,15 +51,15 @@ erzähle ich Euch im nächsten Beitrag.
 [myflickr tag="annelokischmid082016"]
 
 Auch letztes Jahr haben wir um diese Zeit einen
-<a href="http://cardamonchai.com/2015/09/indian-summer-im-loki-schmidt-garten/">Ausflug
-in den Loki Schmidt Garten</a> gemacht.
+[Ausflug in den Loki Schmidt Garten](/2015/09/indian-summer-im-loki-schmidt-garten/)
+gemacht.
 
 ## Wegweiser Loki Schmidt Garten
 
 <ol>
-    <li><a href="http://cardamonchai.com/2015/09/indian-summer-im-loki-schmidt-garten/">Indian Summer</a></li>
+    <li> [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/) </li>
     <li>Spätsommer</li>
-    <li><a href="http://cardamonchai.com/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/">Frühlingsboten</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai</a></li>
-    <li><a href="http://cardamonchai.com/2019/09/september-im-loki-schmidt-garten/">September</a></li>
+    <li> [Frühlingsboten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/) </li>
+    <li> [Erster Mai](/2018/05/erster-mai-gegensaetze/) </li>
+    <li> [September](/2019/09/september-im-loki-schmidt-garten/) </li>
 </ol>

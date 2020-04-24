@@ -140,11 +140,11 @@ mit den Kids nach kochen lassen.
 ## Grundrezepte für Sojadrink und Seitan<a href="https://amzn.to/31ngUxz" target="_blank" rel="noopener">Mit Rezepten, die neugierig machen, werden auch Superfoods und das Thema Rohkost kurz gestreift, die "Zweierlei Rabbit Balls mit Feige, Kokos und Limette" werde ich definitiv ausprobieren.
 
 Sehr schön ist, dass auch die Grundrezepte für z. B.
-<a href="http://cardamonchai.com/2014/12/diy-sojamilch/">Sojadrink</a> oder
-Seitan gezeigt werden, so weiß man von Anfang an, wie’s zubereitet wird, auch,
-wenn man sich zunächst der Fertigvariante aus dem Laden bedient. Man sieht auf
-jeden Fall schon mal, was für ein geringer Aufwand eigentlich dahintersteckt und
-weiß, welche Zutaten für tierleidfreie Lebensmittel nötig sind.
+[Sojadrink](/2014/12/diy-sojamilch/) oder Seitan gezeigt werden, so weiß man von
+Anfang an, wie’s zubereitet wird, auch, wenn man sich zunächst der
+Fertigvariante aus dem Laden bedient. Man sieht auf jeden Fall schon mal, was
+für ein geringer Aufwand eigentlich dahintersteckt und weiß, welche Zutaten für
+tierleidfreie Lebensmittel nötig sind.
 
 Den Abschluss macht Bolk mit einem Kapitel über veganes Leben, sprich Tierisches
 z. B. in der Kleidung und versteckte tierische Zusatzstoffe. Das Kapitel bietet
@@ -164,4 +164,4 @@ wenn mal wieder ein Bisschen Inspiration her muss.
 "So geht vegan" von Patrick Bolk ist im Südwest Verlag erschienen und für 16,99
 Euro im deutschen Buchhandel zu haben.
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517092789&amp;asins=3517092789&amp;linkId=852e229a1ce9e8f1deddd8920286ae5e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner <a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517092789&amp;asins=3517092789&amp;linkId=852e229a1ce9e8f1deddd8920286ae5e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

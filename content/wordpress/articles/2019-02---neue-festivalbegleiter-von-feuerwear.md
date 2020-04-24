@@ -44,8 +44,7 @@ subTitle: Rot, heiß und robust
 <hr />
 
 Hinweis: Die Aktion ist beendet.
-<a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet irgendwann
-wieder eine tolle Verlosung statt</a>.
+[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
 
@@ -60,8 +59,8 @@ Festival gewinnen! Wie das geht, erfahrt Ihr weiter unten...\*\*</em>
 Die Bauchtasche (Hip Bag) "Otis" und der Geldbeutel "Fred" sind nicht nur "red
 hot", sondern auch noch wasserabweisend - genau das Richtige fürs
 <strong>Festival</strong> also. Auf meiner
-<a href="http://cardamonchai.com/2015/03/die-ultimative-vegane-festivalliste/">Festivalliste</a>
-haben sie definitiv schon einen Platz gefunden.
+[Festivalliste](/2015/03/die-ultimative-vegane-festivalliste/) haben sie
+definitiv schon einen Platz gefunden.
 
 ## Feuerwear produziert Einzelstücke
 
@@ -113,8 +112,8 @@ Diese Minimalausstattung passt komplett rein und bringt einen auf jeden Fall
 über den Tag. Passt auf mit Sachen wie dem Flachmann, den ich so schön in meine
 Fotos drapiert habe: Besonders auf den großen Festivals lasst Ihr den besser auf
 dem <strong>Zeltplatz</strong>. Auf kleineren wie zum Beispiel dem
-<a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">Dunk</a>
-hat man damit keine Probleme.
+[Dunk](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) hat man damit
+keine Probleme.
 
 ## Platz für alles, was wirklich wichtig ist
 
@@ -152,38 +151,30 @@ Feuerwear-Kollektionen.
 Martin und Robert legen neben den Arbeitsbedingungen großen Wert auf
 Nachhaltigkeit. Die CO2-Emissionen, die beim Transport des Materials und der
 Produkte entstehen, gleichen sie durch
-<a href="http://cardamonchai.com/2019/01/koenigsmoor-moorfutures/">Klimaprojekte</a>
-aus. Bei der Reinigung der Schläuche kommt Waschmittel aus nachwachsenden
-Rohstoffen zum Einsatz. Der Strom wird über Greenpeace Energy bezogen.
+[Klimaprojekte](/2019/01/koenigsmoor-moorfutures/) aus. Bei der Reinigung der
+Schläuche kommt Waschmittel aus nachwachsenden Rohstoffen zum Einsatz. Der Strom
+wird über Greenpeace Energy bezogen.
 
 ## Hier findet Ihr die tollen Feuerwear Taschen
 
 Im
-<a href="http://www.feuerwear.de/?utm_source=presseportal&amp;utm_medium=presse&amp;utm_campaign=koop" target="_blank" rel="noopener nofollow">Feuerwear
-Onlineshop</a> findet Ihr
-<a href="https://www.feuerwear.de/accessoires-aus-feuerwehrschlauch/hip-bag-otis?utm_source=presseportal&amp;utm_medium=presse&amp;utm_campaign=otis" target="_blank" rel="noopener nofollow">den
-Hip Bag Otis hier</a> und
-<a href="https://www.feuerwear.de/accessoires-aus-feuerwehrschlauch/herrenportemonnaie-fred" target="_blank" rel="noopener nofollow">das
-Portemonnaie Fred hier</a>.
+[das Portemonnaie Fred hier](http://www.feuerwear.de/?utm_source=presseportal&utm_medium=presse&utm_campaign=koop).
 
 <em>\*\*Wie angekündigt, könnt Ihr mit etwas Glück selbst einen schicken Hip Bag
 für Euer nächstes Festival gewinnen! Schreibt dazu einfach eine E-Mail unter dem
 Betreff "Fire" an info@cardamonchai.com und erzählt mir, warum genau Ihr das
 Teil abstauben müsst. Wer gewinnt, entscheidet das Los. Der Einsendeschluss ist
 der 30. März 2019. Hier geht es zu den
-<a href="http://cardamonchai.com/datenschutz/teilnahmebedingungen/">Teilnahmebedingungen</a>.</em>
+[Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/). </em>
 
 <strong>Hinweis: </strong>Diese Verlosung beendet. Die/der Gewinner\*in wurde
 über Ihren Gewinn benachrichtigt.
 
 [glry name="feuerwear201902"]
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos
 zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meiner [Transparenz-Seite](/werbung/). </em>

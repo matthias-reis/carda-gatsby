@@ -60,9 +60,9 @@ Naturschutzorganisationen gespendet werden.
 Städte sind, auch wenn sie dicht bebaut sind, ein Stück Natur. Sie sind die die
 Zusammenhänge unserer Umwelt eingebettet. Gründe Flächen und Zonen im urbanen
 Raum sind wertvoll. Dazu zählt ein
-<a href="http://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/" target="_blank" rel="noopener">Bienenbalkon</a> genauso,
-wie ein begrüntes Dach, eine Parkanlage oder ein begrünter Streifen zwischen
-zwei Straßen.
+[Bienenbalkon](/2019/05/insektenhotel-bienen-auf-dem-balkon/)  genauso, wie ein
+begrüntes Dach, eine Parkanlage oder ein begrünter Streifen zwischen zwei
+Straßen.
 
 Urban Gardening lautet das Stichwort - wer die Möglichkeit hat, säht und erntet
 auf Dächern, in Gemeinschaftsgärten, auf dem Balkon oder auf Fensterbänken. Beim
@@ -82,10 +82,9 @@ Dannemann fordert auf der Home Page des Aktionstages
 Der Earth Day findet am 22. April in über 190 Ländern weltweit statt. Es soll
 dabei nicht nur um das Wohlbefinden der heutigen Generationen gehen, sondern vor
 allem um das der folgenden. Weil eine gesunde Erde eine gesunde Umwelt und damit
-auch
-<a href="http://cardamonchai.com/2020/04/inger-andersen-un-covid-19/" target="_blank" rel="noopener">gesunde
-Menschen</a> bedeutet, geht es im Kern um Ziele wie die Verwirklichung der
-Visionen aus der Agenda 21 des UN-Erdgipfel von Rio de Janeiro 1992.
+auch [gesunde Menschen](/2020/04/inger-andersen-un-covid-19/) bedeutet, geht es
+im Kern um Ziele wie die Verwirklichung der Visionen aus der Agenda 21 des
+UN-Erdgipfel von Rio de Janeiro 1992.
 
 ## Earth Month
 
@@ -102,10 +101,10 @@ Umwelt tun?
 ### Quellen/Sources
 
 <ul>
-    <li><a href="https://www.earthday.de/" target="_blank" rel="noopener nofollow">Homepage Earth Day deutsch</a></li>
-    <li><a href="https://www.earthday.org/" target="_blank" rel="noopener nofollow">Homepage Earth Day englisch</a></li>
+    <li> [Homepage Earth Day deutsch](https://www.earthday.de/) </li>
+    <li> [Homepage Earth Day englisch](https://www.earthday.org/) </li>
 </ul>
 
 Headergrafik:
-<a href="https://pixabay.com/de/users/mysticsartdesign-322497/" target="_blank" rel="noopener nofollow">Mysticartdesign</a>,
+[Mysticartdesign](https://pixabay.com/de/users/mysticsartdesign-322497/),
 pixabay

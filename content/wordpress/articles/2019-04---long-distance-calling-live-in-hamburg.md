@@ -42,9 +42,9 @@ würde.</strong>
 
 Das letzte Mal war ich bei der Hochzeit meiner besten Freundin in einer Kirche.
 Ganz gepflegt auf dem
-<a href="http://cardamonchai.com/2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/">Altbayerischen
-Land</a>, beim Rausgehen lief der Imperial March. Da es sonst tatsächlich sehr
-selten vorkommt, dass ich in Kirchen gehe (außer im Rahmen einer
+[Altbayerischen Land](/2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/),
+beim Rausgehen lief der Imperial March. Da es sonst tatsächlich sehr selten
+vorkommt, dass ich in Kirchen gehe (außer im Rahmen einer
 Besichtigung/Fototour), war es ein spannender Augenblick, als wir den Ort des
 Geschehens, der gleich hier bei uns um die Ecke liegt, betraten.
 

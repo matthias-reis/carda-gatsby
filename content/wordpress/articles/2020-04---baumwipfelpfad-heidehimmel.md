@@ -72,5 +72,4 @@ hoffe, wir sehen uns schon sehr bald.
 
 ### Adresse Heidehimmel
 
-Wildpark 1 21271 Hanstedt-Nindorf
-<a href="https://heide-himmel.de/" target="_blank" rel="noopener nofollow">Webseite</a>
+Wildpark 1 21271 Hanstedt-Nindorf [Webseite](https://heide-himmel.de/)

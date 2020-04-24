@@ -63,16 +63,16 @@ wunderbar sind und jedes von ihnen ein Recht auf sein Leben hat.
 Die Autorin von "Warum wir keine Tiere essen" und "Vegan aus Liebe" Ruby Roth,
 Autorin über "Klaus mag Hühner":
 
-<blockquote>"Mit seiner Botschaft des Mitgefühls und einer Explosion aus Farben und Formen wird "<a href="https://amzn.to/2MJP2An" target="_blank" rel="noopener nofollow">Klaus mag Hühner</a>" die Aufmerksamkeit ihres Kindes wecken!"</blockquote>## Gekonnt erklärt
+<blockquote>"Mit seiner Botschaft des Mitgefühls und einer Explosion aus Farben und Formen wird  "[Klaus mag Hühner](https://amzn.to/2MJP2An)"  die Aufmerksamkeit ihres Kindes wecken!"</blockquote>## Gekonnt erklärt
 
 Über 30 Bilder und Verse zeigen Kindern aus der beobachtenden Perspektive von
 Klaus dem Alien, dass es wichtig ist, menschliche Gewohnheiten und den Umgang
-mit unseren Mitlebewesen zu hinterfragen.
-"<a href="https://amzn.to/2MJP2An" target="_blank" rel="noopener nofollow">Klaus
-mag Hühner</a>" ist ein gelungenes Buch für Kinder im Fragealter, das
-unkompliziert Antworten bietet und mit viel Humor und Spaß erklärt.
+mit unseren Mitlebewesen zu hinterfragen. "[Klaus mag
+Hühner](https://amzn.to/2MJP2An)" ist ein gelungenes Buch für Kinder im
+Fragealter, das unkompliziert Antworten bietet und mit viel Humor und Spaß
+erklärt.
 
-<a href="https://amzn.to/2MJP2An" target="_blank" rel="noopener nofollow">Das
-Buch ist 2015 unter der ISBN 9783981642544 bei compassion media erschienen</a>.
+[Das Buch ist 2015 unter der ISBN 9783981642544 bei compassion media
+erschienen](https://amzn.to/2MJP2An).
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3981642546&amp;asins=3981642546&amp;linkId=1557346c08647539d352edc6f557dd50&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner <a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3981642546&amp;asins=3981642546&amp;linkId=1557346c08647539d352edc6f557dd50&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

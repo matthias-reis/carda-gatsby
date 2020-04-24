@@ -46,26 +46,18 @@ die veganen Produkte von Xucker genauer angeschaut und dabei ein paar Schätze
 entdeckt.</strong>
 
 Auf dem Prüfstand hatte ich bis jetzt die vegane Nuss-Nougat-Creme, den Ketchup,
-und die Schokolade in den Sorten
-<a href="http://tidd.ly/326a5a3f" target="_blank" rel="noopener nofollow">Edel-Zartbitter</a>
-und
-<a href="http://tidd.ly/bf5e90b8" target="_blank" rel="noopener nofollow">Zartbitter
-Keks</a>.
+und die Schokolade in den Sorten [Zartbitter Keks](http://tidd.ly/326a5a3f).
 
 Gleich mal vorneweg: Überzeugt haben mich alle Produkte. Die
-<a href="http://tidd.ly/779a9fc7" target="_blank" rel="noopener nofollow">Nuss-Nougat-Creme</a>
-ist mehr als cremig und hat einen fein schokoladigen Geschmack. Sie kommt ohne
-Palmöl aus und zergeht nur so auf der Zunge. Sie eignet sich perfekt als
-Brotaufstrich oder als Topping für Desserts.
+[Nuss-Nougat-Creme](http://tidd.ly/779a9fc7) ist mehr als cremig und hat einen
+fein schokoladigen Geschmack. Sie kommt ohne Palmöl aus und zergeht nur so auf
+der Zunge. Sie eignet sich perfekt als Brotaufstrich oder als Topping für
+Desserts.
 
 ## Nicht zu süß und weniger Kalorien
 
-<a href="http://tidd.ly/3a78d1a7" target="_blank" rel="noopener nofollow">Der
-Ketchup</a> ist weder zu süß noch zu sauer und punktet mit seiner niedrigen
-Kalorienzahl (trotzdem gibt es sogar noch eine Light-Variante davon). Die
-<a href="http://tidd.ly/d877382f" target="_blank" rel="noopener nofollow">Schokoladen</a>
-sind genau das Richtige für den kleinen Hunger auf Süßes zwischendurch - sehr
-cremig und angenehm herb.
+[Schokoladen](http://tidd.ly/3a78d1a7) sind genau das Richtige für den kleinen
+Hunger auf Süßes zwischendurch - sehr cremig und angenehm herb.
 
 Xucker Gründer und Geschäftsführer Christian Weiten achtet generell auf eine
 gesunde Ernährung. Alles begann mit einem Schlüsselerlebnis an seinem 25.
@@ -97,10 +89,8 @@ Xucker in den Varianten "Premium" und "Light".
 Im Onlineshop kann man neben vielen weiteren Produkten wie Schokolade, Ketchup
 und Speiseeis-Basis beide Xucker-Varianten bestellen. Sie können als
 Zuckerersatz zum Beispiel beim Backen verwendet werden. Es gibt auch einen
-<a href="http://tidd.ly/7832a5fe" target="_blank" rel="noopener nofollow">Puderxucker</a>
-sowie
-<a href="http://tidd.ly/3ac05ce5" target="_blank" rel="noopener nofollow">Xucker
-Bronxe</a>. Dabei handelt es sich um Xucker mit Karamelnote.
+[Xucker Bronxe](http://tidd.ly/7832a5fe). Dabei handelt es sich um Xucker mit
+Karamelnote.
 
 ## Zahnpflege mit Xucker-Xylit
 
@@ -113,9 +103,9 @@ Einige von Euch kennen bestimmt schon Kaugummi oder Zahnpasta mit Xylit - diese
 Produkte schwappen aus Skandinavien immer mehr rüber auf den deutschen Markt.
 
 Auch von Xucker gibt es verschiedene
-<a href="http://tidd.ly/8c93c885" target="_blank" rel="noopener nofollow">Xylit-Zahnpflegekaugummis
-in diversen Geschmacksrichtungen</a>. Bestimmt werde ich sie demnächst auch mal
-testen. Ich halte Euch auf jeden Fall auf dem Laufenden.
+[Xylit-Zahnpflegekaugummis in diversen Geschmacksrichtungen](http://tidd.ly/8c93c885).
+Bestimmt werde ich sie demnächst auch mal testen. Ich halte Euch auf jeden Fall
+auf dem Laufenden.
 
 ## Erytrit
 
@@ -127,24 +117,21 @@ Verpackung), Frankreich (blaue Verpackung) und China (hellblaue Verpackung). Im
 Geschmack und in der Süßungswirkung sind alle drei Produkte gleich. Sie
 unterscheiden sich nur im Ausgangsmaterial und im Herstellungsprozess.
 
-<a href="http://tidd.ly/908f39fd" target="_blank" rel="noopener nofollow">Xucker
-Premium</a> (Finnland) wird zum Beispiel aus Birkenholz hergestellt. Darum wird
-auch als "Birkenzucker" bezeichnet.
+[Xucker Premium](http://tidd.ly/908f39fd) (Finnland) wird zum Beispiel aus
+Birkenholz hergestellt. Darum wird auch als "Birkenzucker" bezeichnet.
 
 ## Xucker Light
 
-<a href="http://tidd.ly/cdb08ac5" target="_blank" rel="noopener nofollow">Xucker
-Light</a> besteht zu 100 Prozent aus Erythrit und wird aus Maisstärke aus
-Frankreich hergestellt. Das trifft auch auf die kalorienfreie
-Rohrohrzucker-Variante Xucker Bronze zu. Dieses soll sich besonders gut zur
-Herstellung von gebrannten Mandeln und süßem Popcorn eignen. Ich werde demnächst
-mal versuchen, Cookies damit zu backen. Wenn es klappt, erscheint an dieser
-Stelle bald ein Rezept.
+[Xucker Light](http://tidd.ly/cdb08ac5) besteht zu 100 Prozent aus Erythrit und
+wird aus Maisstärke aus Frankreich hergestellt. Das trifft auch auf die
+kalorienfreie Rohrohrzucker-Variante Xucker Bronze zu. Dieses soll sich
+besonders gut zur Herstellung von gebrannten Mandeln und süßem Popcorn eignen.
+Ich werde demnächst mal versuchen, Cookies damit zu backen. Wenn es klappt,
+erscheint an dieser Stelle bald ein Rezept.
 
 Die meisten Xucker Varianten sind drei Jahre haltbar (bis auf den Puderxucker,
 hier kann nach einem Jahr ein Verklumpen nicht mehr ausgeschlossen werden). Alle
-Varianten sind vegan - inklusive dem
-<a href="http://tidd.ly/2a2aff78" target="_blank" rel="noopener nofollow">Gelierxucker</a>.
+Varianten sind vegan - inklusive dem [Gelierxucker](http://tidd.ly/2a2aff78).
 
 ## Fazit
 
@@ -162,5 +149,5 @@ verfügbaren Produkte im Onlineshop.
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

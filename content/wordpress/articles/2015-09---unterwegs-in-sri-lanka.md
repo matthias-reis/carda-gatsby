@@ -63,6 +63,4 @@ Insel Sri Lanka mit all ihrer wilden Schönheit ist.
 
 [myflickr tag="srilanka2015anne"]
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

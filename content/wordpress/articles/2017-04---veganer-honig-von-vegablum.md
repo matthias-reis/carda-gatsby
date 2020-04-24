@@ -173,9 +173,8 @@ Orangenzeste ins Glas geben. <strong>10/10 Geschmackspunkten</strong>
 ### Vanille - Sorte 251
 
 Schmeckt vanillig fein, jedoch kein Bisschen zu süß oder gar muffig. Ich kann
-mir diese Sorte besonders gut mit etwas
-<a href="http://cardamonchai.com/2014/12/diy-sojamilch/" target="_blank" rel="noopener">Sojamilch</a> auf
-Eis vorstellen. Quasi als "White Honey Vanilla™". <strong>9/10
+mir diese Sorte besonders gut mit etwas [Sojamilch](/2014/12/diy-sojamilch/)
+ auf Eis vorstellen. Quasi als "White Honey Vanilla™". <strong>9/10
 Geschmackspunkten</strong>
 
 ## Vegablum stellt sich vor
@@ -204,21 +203,15 @@ Süßes auf unserer Stulle haben.
 
 Ich plane im Moment ein großes Interview mit Danny. Sobald es fertig ist, wird
 es hier im Blog erscheinen. Alle <em>Vegablum</em>-Produkte findet ihr in Dannys
-Online-Shop. <a href="http://vegablum.de/" target="_blank" rel="noopener">Bitte
-einfach hier klicken</a>.
+Online-Shop. [Bitte einfach hier klicken](http://vegablum.de/).
 
-<a href="http://cardamonchai.com/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/">Mehr
-über die Honigproduktion und warum Veganer keinen echten Honig essen, erfahrt
-Ihr hier.</a>
+[Mehr über die Honigproduktion und warum Veganer keinen echten Honig essen, erfahrt Ihr hier.](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 
 [gallery link="none" size="full" type="rectangular"
 ids="16278,16273,16271,16270,16262,16264"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

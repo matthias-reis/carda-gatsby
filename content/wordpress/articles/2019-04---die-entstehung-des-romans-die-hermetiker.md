@@ -60,13 +60,12 @@ Zeit für einen Rückblick.</b>
 Hiermit übergebe ich das Wort direkt an Matze, der diesen Beitrag zur
 Veröffentlichung auf meiner Seite geschrieben hat.
 
-<a href="http://cardamonchai.com/2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/">Unser
-Erstling "Die Hermetiker"</a> ist nun seit einigen Wochen bestellbar. Der erste
-Moment, in dem man seinen eigenen Roman in Händen hält, ist gigantisch. In so
-einem Buch steckt nämlich so einiges an Arbeit. Zunächst einmal ist das
-Bücherschreiben natürlich ein tolles Hobby für Anne und mich. Der ganze Prozess
-beinhaltet jedoch auch eher zähe Phasen oder Zeiten des gespannten Wartens und
-der Ungeduld.
+[Unser Erstling "Die Hermetiker"](/2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/)
+ist nun seit einigen Wochen bestellbar. Der erste Moment, in dem man seinen
+eigenen Roman in Händen hält, ist gigantisch. In so einem Buch steckt nämlich so
+einiges an Arbeit. Zunächst einmal ist das Bücherschreiben natürlich ein tolles
+Hobby für Anne und mich. Der ganze Prozess beinhaltet jedoch auch eher zähe
+Phasen oder Zeiten des gespannten Wartens und der Ungeduld.
 
 ## Schritt 1: Das Schreiben
 
@@ -117,11 +116,10 @@ Richtungen entwickelte. Ein sehr spannender Effekt, der sich dann einstellt,
 wenn man zu zweit an einem solchen Projekt arbeitet.
 
 Auch, dass der zweite und dritte Teil sich thrilleresque zuspitzen sollten (mehr
-verrate ich nicht,
-<a href="https://amreis.de/ha128" target="_blank" rel="noopener">lest einfach
-selbst</a>), ergab sich erst mit der Zeit. Beim Schreiben hatte man immer mehr
-das Gefühl, weiterlesen zu wollen. Uns gab dies das sichere Gefühl, dass wir auf
-dem richtigen Weg waren.
+verrate ich nicht, [lest einfach selbst](https://amreis.de/ha128) ), ergab sich
+erst mit der Zeit. Beim Schreiben hatte man immer mehr das Gefühl, weiterlesen
+zu wollen. Uns gab dies das sichere Gefühl, dass wir auf dem richtigen Weg
+waren.
 
 Das eigentliche Ausarbeiten der Kapitel gestaltete sich dann so, dass ich eine
 grobe Rohfassung der Handlung erstellte. Anne griff diese Skizze auf, arbeitete
@@ -261,12 +259,11 @@ wärmstens. Das kann ich mit gutem Gewissen tun, denn ich habe es sogar mehrfach
 gelesen. :-)
 
 Wir freuen uns auf Eure Rezensionen bei Amazon und Goodreads und wünschen Euch
-viel Spaß beim Lesen.
-<a href="https://amreis.de/hermetiker/?h=ha128" target="_blank" rel="noopener">Hier
-könnt Ihr "Die Hermetiker" als Taschenbuch oder E-Book bestellen</a>.
+viel Spaß beim Lesen. [Hier könnt Ihr "Die Hermetiker" als Taschenbuch oder
+E-Book bestellen](https://amreis.de/hermetiker/?h=ha128).
 
 Vielen Dank für Eure Aufmerksamkeit.
 
 LG, Matze
 
-![die-hermetiker | large](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-22-520x390.jpg '<a href="https://amreis.de/ha128" target="_blank" rel="noopener"> </a> Die Hermetiker')
+![die-hermetiker | large](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-22-520x390.jpg " [](https://amreis.de/ha128)  Die Hermetiker")

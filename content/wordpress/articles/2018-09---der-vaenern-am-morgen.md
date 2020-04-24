@@ -42,12 +42,11 @@ vorbereitet. Gleich am nächsten Tag bin ich etwas früher aufgestanden, als son
 und mit der Kamera losgezogen. Dabei sind mir einige Frühaufsteher vor die Linse
 gelaufen.</b>
 
-Wie schon in
-<a href="http://cardamonchai.com/2018/09/der-vaenern-am-abend/">Teil 1</a>
-beschrieben, wimmelt es am <b>Vänern</b> nur so von Vögeln. Ich glaube echt,
-dass ich mich dort nochmal länger auf die Lauer legen muss. Am besten mit einem
-Fernglas und einem starken Tele ausgestattet. Falls ich das eines Tages
-durchziehe, seid Ihr die ersten, denen ich Bericht erstatte. Versprochen!
+Wie schon in [Teil 1](/2018/09/der-vaenern-am-abend/) beschrieben, wimmelt es am
+<b>Vänern</b> nur so von Vögeln. Ich glaube echt, dass ich mich dort nochmal
+länger auf die Lauer legen muss. Am besten mit einem Fernglas und einem starken
+Tele ausgestattet. Falls ich das eines Tages durchziehe, seid Ihr die ersten,
+denen ich Bericht erstatte. Versprochen!
 
 ## Der frühe Vogel am Abend
 

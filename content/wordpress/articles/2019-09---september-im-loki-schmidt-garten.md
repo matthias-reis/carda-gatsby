@@ -40,9 +40,9 @@ netten Menschen einen freien Tag verbringen zu können, ist es eine gute Idee,
 gleich morgens mit der S-Bahn in den Loki Schmidt Garten zu fahren.</strong>
 
 Wenn das Licht die Blüten zum Strahlen bringt und die
-<a href="http://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/" target="_blank" rel="noopener">Insekten</a>
-emsig auf der Suche nach Nektar sind, kann man die Natur genießen und ganz
-nebenbei ein bisschen fotografieren.
+[Insekten](/2019/05/insektenhotel-bienen-auf-dem-balkon/) emsig auf der Suche
+nach Nektar sind, kann man die Natur genießen und ganz nebenbei ein bisschen
+fotografieren.
 
 Gestern war ich mit meiner Olympus OMD Mark III inklusive Pancake 14 - 22 mm
 unterwegs. Ich mag das Objektiv für solche Zwecke sehr gerne. Mit Ihm ist die
@@ -73,13 +73,12 @@ Skorpion wurden nach ihr benannt.
 </strong></h3>
 
 <ol>
-    <li><a href="http://cardamonchai.com/2015/09/indian-summer-im-loki-schmidt-garten/" target="_blank" rel="noopener">Indian Summer</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/spaetsommer-loki-schmidt-garten/">Spätsommer</a></li>
-    <li><a href="http://cardamonchai.com/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/">Frühlingsboten</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai</a></li>
+    <li> [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/) </li>
+    <li> [Spätsommer](/2016/08/spaetsommer-loki-schmidt-garten/) </li>
+    <li> [Frühlingsboten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/) </li>
+    <li> [Erster Mai](/2018/05/erster-mai-gegensaetze/) </li>
     <li>September</li>
 </ol>
 
 <strong>Quelle:</strong>
-<a href="https://de.wikipedia.org/wiki/Loki_Schmidt" target="_blank" rel="noopener">Loki
-Schmid Wikipedia</a>
+[Loki Schmid Wikipedia](https://de.wikipedia.org/wiki/Loki_Schmidt)

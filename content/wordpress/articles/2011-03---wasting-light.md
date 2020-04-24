@@ -41,11 +41,8 @@ Limo" und "Rope" versprechen einiges. Ich persönlich freue mich natürlich auch
 auf die Festival-Saison 2011, bei der die Foo Fighters wieder auf zahlreichen
 Bühnen zu sehen sein werden.
 
-<a href="http://www.foofighters.com/de/videos/rope" target="_blank" rel="noopener">Videoclip</a>
-Rope
-<a href="http://www.foofighters.com/de/videos/white-limo" target="_blank" rel="noopener">Videoclip</a>
-White Limbo
-<a href="http://www.foofighters.com/de/home" target="_blank" rel="noopener">Homepage</a>
-Foo Fighters
+[Videoclip](http://www.foofighters.com/de/videos/rope) Rope
+[Videoclip](http://www.foofighters.com/de/videos/white-limo) White Limbo
+[Homepage](http://www.foofighters.com/de/home) Foo Fighters
 
 &nbsp;

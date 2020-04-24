@@ -44,10 +44,7 @@ Um das ein Stück weit wieder gut zu machen, gibt es die Möglichkeit, einen
 <strong>Baum</strong> zu pflanzen, und damit die CO2-Emission des Blogs für sage
 und schreibe 50 Jahre zu neutralisieren.
 
-Aktionen dazu gibt es unter anderem von
-<a title="Machs grün" href="http://www.kaufda.de/umwelt/" target="_blank" rel="noopener">Mach's
-grün</a> und von
-<a title="ITSTH" href="http://www.easy2sync.de/de/ueber/ablogatree.php" target="_blank" rel="noopener">ITSTH</a>.
+Aktionen dazu gibt es unter anderem von [ITSTH](http://www.kaufda.de/umwelt/).
 
 ### Beitrag schreiben, Link einschicken, Button posten, Baum pflanzen und Blog CO2-neutral machen!
 

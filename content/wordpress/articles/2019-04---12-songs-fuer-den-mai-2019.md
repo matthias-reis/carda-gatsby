@@ -122,7 +122,7 @@ Was habe ich getobt, als ich gehört habe, dass es was Neues von <strong>Pelican
 <iframe src="https://www.youtube.com/embed/bCrfdqC0YCE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Unkle - Crucifixion / A Prophet (Feat. Tom Smith, Ian Astbury and others) vom Album "The Road Part II" (29.03.2019)
-Valentin dazu: "Das Stück gefällt mir von der neuesten Platte bisher am besten. Unkle ist ein sensationelles Projekt von James Lavelle, dass ich persönlich schon seit der Zeit mit DJ Shadow verfolge. 'The Road: Part II (Lost Highway)' ist die Fortsetzung vom 2017er Album 'The Road: Part I' Mit dabei sind wieder tolle Gästen - dieses Mal unter anderem auch <a href="http://cardamonchai.com/2015/03/mark-lanegan-live-freiheiz-muenchen/">Mark Lanegan</a>! Bei diesem Song ist u. A. Ian Astbury von <strong>The Cult</strong> beteiligt - nicht die erste Zusammenarbeit. Außerdem mischen der einzigartige Twiggy Ramirez und Chris Goss mit."
+Valentin dazu: "Das Stück gefällt mir von der neuesten Platte bisher am besten. Unkle ist ein sensationelles Projekt von James Lavelle, dass ich persönlich schon seit der Zeit mit DJ Shadow verfolge. 'The Road: Part II (Lost Highway)' ist die Fortsetzung vom 2017er Album 'The Road: Part I' Mit dabei sind wieder tolle Gästen - dieses Mal unter anderem auch  [Mark Lanegan](/2015/03/mark-lanegan-live-freiheiz-muenchen/) ! Bei diesem Song ist u. A. Ian Astbury von <strong>The Cult</strong> beteiligt - nicht die erste Zusammenarbeit. Außerdem mischen der einzigartige Twiggy Ramirez und Chris Goss mit."
 <br />
 Die ebenfalls grandiose Vorauskopplung "The Other Side" mit Tom Smith und Philip Sheppard hatte es letzen Monat noch nicht aus meiner Vorauswahl in die Hauptliste geschafft. Das Album haut mit seinem Gesamtkonzept mächtig aufs Ohr und gehört definitiv ins Plattenregal. Die Liebe zur Band teile ich mit Valentin. "Crucifixion / A Prophet" hat die Platzierung definitiv verdient. Ian Astburys Stimme zieht uns mit seiner magischen Stimme alle in seinen Bann.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxKfb84DSL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
@@ -144,11 +144,11 @@ Und noch eine <strong>Vorauskopplung</strong>! Das ist so unglaublich spannend d
 <iframe src="https://www.youtube.com/embed/G6pnX5A892k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Audioslave "Gasoline" vom Album "Audioslave" (2000)
-<strong>Audioslave</strong> Gründer und Multitalent <a href="http://cardamonchai.com/2017/05/chris-cornell-nachruf/">Chris Cornell</a> war einer der größten Musiker aller Zeiten. Er wird niemals in Vergessenheit geraten und wir werden seine Stücke immer bei uns tragen und seine Worte in unseren Herzen. Valentin hat diesen Monat "Gasoline" zu unserer Liste hinzugefügt. Bitte beim Hören ganz laut aufdrehen.
+<strong>Audioslave</strong> Gründer und Multitalent  [Chris Cornell](/2017/05/chris-cornell-nachruf/)  war einer der größten Musiker aller Zeiten. Er wird niemals in Vergessenheit geraten und wir werden seine Stücke immer bei uns tragen und seine Worte in unseren Herzen. Valentin hat diesen Monat "Gasoline" zu unserer Liste hinzugefügt. Bitte beim Hören ganz laut aufdrehen.
 <iframe src="https://www.youtube.com/embed/62_0ZHhOo58" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Long Distance Calling - "Jungfernflug" vom Album "Satellite Bay"
-"Jungfernflug" ist unser gemeinsamer Lieblingssong von LDC, <a href="http://cardamonchai.com/2019/04/long-distance-calling-kulturkirche-altona/">die wir zuletzt in der Kulturkirche Altona live erleben durften</a>. Die Band aus Münster begleitet uns schon lange Jahre und vereint mit ihrer Musik alle Einflüsse, die auch für uns wichtig sind.
+"Jungfernflug" ist unser gemeinsamer Lieblingssong von LDC,  [die wir zuletzt in der Kulturkirche Altona live erleben durften](/2019/04/long-distance-calling-kulturkirche-altona/).  Die Band aus Münster begleitet uns schon lange Jahre und vereint mit ihrer Musik alle Einflüsse, die auch für uns wichtig sind.
 <iframe src="https://www.youtube.com/embed/UEftFWvGjpk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Old Solar - "Spring Equinox: The Mountains Break Forth In Song" vom Album "See" (2019)
@@ -177,7 +177,7 @@ Waste Of Space Orchestra gründeten sich 2018 im finnischen Tampere. Sie machen 
 <ol>
     <li>Caspian - "Dust And Disquiet" vom Album "Dust And Disquiet" (2015 - In Erwartung eines neuen Albums, dauert aber noch)</li>
     <li>Covet - "Glimmer" vom Album "Effloresce" (2018)</li>
-    <li><a href="http://cardamonchai.com/2019/04/ranges-planen-neues-album/">Ranges</a> - "The Wanderer" vom Album "The Ascensionist" (2018 -  ein neues Album erwartet uns im September)</li>
+    <li> [Ranges](/2019/04/ranges-planen-neues-album/)  - "The Wanderer" vom Album "The Ascensionist" (2018 -  ein neues Album erwartet uns im September)</li>
     <li>Gifts From Enola - "Weightless Frame" vom Album "From Fathoms" (remastered) (4/2019)</li>
     <li>Sadness - "Cerrien" vom Album "Circle Of Veins" (4/2019)</li>
     <li>Violet Cold - "Black Sun" vom Album "Cosmic" (4/2019)</li>
@@ -200,7 +200,7 @@ Waste Of Space Orchestra gründeten sich 2018 im finnischen Tampere. Sie machen 
     <li>Raconteurs - "Sunday Driver" Vorauskopplung vom Album "Help Us Stranger" (2019)</li>
     <li>Blood Red Shoes - "Mexican Dress" vom Album "Get Tragic" (2019)</li>
     <li>Editors - "Hallelujah" Vorauskopplung vom Album "The Blanck Mass Sessions" (2019)</li>
-    <li><a href="https://cardamonchai.com/tag/calexico/">Calexico</a> &amp; Iron And Wine - "Father Mountain" Vorauskopplung vom Album "Years To Burn" (2019)</li>
+    <li> [Calexico](/tag/calexico/)  &amp; Iron And Wine - "Father Mountain" Vorauskopplung vom Album "Years To Burn" (2019)</li>
     <li>The Physics House Band - "Death Sequence I" Vorauskopplung von der EP "Death Sequence" (2019)</li>
     <li>The Breath - "Only Stories" vom Album "Only Stories" (4/2019)</li>
 </ol>

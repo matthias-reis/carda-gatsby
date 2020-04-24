@@ -127,10 +127,8 @@ Snacks. Smoothies werden auf der Insel in jedem Café und in jeder Bar angeboten
 und jeder Supermarkt hat eine vegane Ecke. Jedes Mal, wenn wir nach veganen
 Optionen fragten, wurden wir freundlich und zuvorkommend behandelt.
 
-Der
-Supermarkt <a href="http://www.sparnatural.com/" target="_blank" rel="noopener"><em>Spar</em>
-<em>Natural</em></a>, welcher überall auf der Insel Filialen
-hat,<em> </em>erinnert stark an <em>Alnatura</em>, <em>Denns</em>,
+Der Supermarkt  [](http://www.sparnatural.com/), welcher überall auf der Insel
+Filialen hat,<em> </em>erinnert stark an <em>Alnatura</em>, <em>Denns</em>,
 oder <em>Whole Foods</em>. Dort gibt es jede Menge vegane Lebensmittel sowie
 Biogemüse und Waren des täglichen Bedarfs zu kaufen. Doch auch in gängigen
 Supermärkten, Minimärkten und Spätis entdeckten wir überall vegane Lebensmittel,
@@ -177,25 +175,22 @@ selbst habe das nie angezweifelt. Dennoch möchte ich es hier noch mal
 festhalten: Vegan auf Gran Canaria geht auf jeden Fall! Und wie! Über die Finkas
 und unsere verschiedenen Ausflüge erzähle ich Euch in Kürze mehr. Dann gibt es
 auch einen Bericht über das tollste vegane Lokal der Insel (inzwischen
-veröffentlicht,
-<a href="http://cardamonchai.com/2017/05/la-hierba-luisa-cocina-de-la-huerta/">hier
-klicken</a>), das wir in Las Palmas entdeckt haben
+veröffentlicht, [hier klicken](/2017/05/la-hierba-luisa-cocina-de-la-huerta/) ),
+das wir in Las Palmas entdeckt haben
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)
 
 ## Wegweiser Gran Canaria
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/05/la-hierba-luisa-cocina-de-la-huerta/">Eine vegane Oase im Herzen von Las Palmas</a></li>
+    <li> [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/) </li>
     <li>Vegan auf Gran Canaria</li>
-    <li><a href="http://cardamonchai.com/2017/06/el-iris-de-lucy-las-palmas/">Zeitgenössische Künstlerinnen Afrikas in Las Palmas</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/rund-um-den-leuchtturm-von-maspalomas/">Rund um den Leuchtturm von Maspalomas</a></li>
-    <li><a href="http://cardamonchai.com/2017/07/die-duenen-von-maspalomas/">Die Dünen von Maspalomas</a></li>
-    <li><a href="http://cardamonchai.com/2017/07/gran-canaria-der-sueden/">Mit dem Boot von Bucht zu Bucht</a></li>
-    <li><a href="http://cardamonchai.com/2017/08/las-palmas-de-gran-canaria/">Stadtrundgang in Las Palmas de Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/09/die-einzige-kaffeeplantage-europas/">Die einzige Kaffeeplantage Europas</a></li>
-    <li><a href="http://cardamonchai.com/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/">Las Vegas auf Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/09/jardin-canario-gruene-oase-in-tafira/">Jardín Canario – Grüne Oase in Tafira</a></li>
+    <li> [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/) </li>
+    <li> [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/) </li>
+    <li> [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/) </li>
+    <li> [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/) </li>
+    <li> [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/) </li>
+    <li> [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/) </li>
+    <li> [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/) </li>
+    <li> [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/) </li>
 </ol>

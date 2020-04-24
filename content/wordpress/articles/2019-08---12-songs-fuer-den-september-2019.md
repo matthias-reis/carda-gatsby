@@ -65,7 +65,7 @@ Spaß beim Hören.
 <ol>
     <li>
 ## Tool - "Fear Inoculum" vom neuen Album "Fear Inoculum"
-Selbstverständlich darf dieses Stück diesen Monat nicht fehlen. Wir haben es gemeinsam auf die Liste gesetzt. Über die neueste Veröffentlichungspolitik der Band darf gestritten werden. Erst gar nichts digital, dann plötzlich alles und die neue Platte wird es (zumindest heißt es das bis jetzt) nur in einer Edelversion für 90 Euro geben? Eigentlich ist es doch ganz schön cool, dass man jetzt auch alle alten Schätze digital hören kann, oder nicht? Das Stück ist klasse, <a href="http://cardamonchai.com/2019/08/bald-kommt-das-neue-tool-album/">eine komplette Rezension findet Ihr hier im Blog bereits</a>. Wir freuen uns auf das komplette Album, das übermorgen das Licht der Welt erblicken soll.
+Selbstverständlich darf dieses Stück diesen Monat nicht fehlen. Wir haben es gemeinsam auf die Liste gesetzt. Über die neueste Veröffentlichungspolitik der Band darf gestritten werden. Erst gar nichts digital, dann plötzlich alles und die neue Platte wird es (zumindest heißt es das bis jetzt) nur in einer Edelversion für 90 Euro geben? Eigentlich ist es doch ganz schön cool, dass man jetzt auch alle alten Schätze digital hören kann, oder nicht? Das Stück ist klasse,  [eine komplette Rezension findet Ihr hier im Blog bereits](/2019/08/bald-kommt-das-neue-tool-album/).  Wir freuen uns auf das komplette Album, das übermorgen das Licht der Welt erblicken soll.
 
 <iframe src="https://www.youtube.com/embed/q7DfQMPmJRI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -105,7 +105,7 @@ Als ich gesehen habe, dass es etwas Neues von We Lost The Sea gibt, war ich erst
 <iframe src="https://www.youtube.com/embed/DonwlhImpWs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## 65daysofstatic - "trackerplatz" - Voraubauskopplung vom neuen Album "replicr"
-Die zweite Vorauskopplung vom neuen 65daysofstatic Album macht es spannend und definitiv Lust auf mehr. Wir durften die Band auf dem <a href="http://cardamonchai.com/2019/05/arctangent-festival-2019/">diesjährigen ArcTanGent Festival</a> live erleben und waren verzaubert. Matzes Worte dazu "Für mich war das 65daysoftstatic Konzert definitiv das beste Konzert auf dem ArcTanGent. Und das, obwohl wir dort mindestens noch fünf weitere Top-Konzerte gesehen haben. Im Moment sind 65days meine absolute Lieblingsband." Das klingt schon mal gut, oder? Matze hatte übrigens die erste Auskopplung "Popular Beats" auf seiner Liste. Die lohnt es sich auf alle Fälle auch zu hören!
+Die zweite Vorauskopplung vom neuen 65daysofstatic Album macht es spannend und definitiv Lust auf mehr. Wir durften die Band auf dem  [diesjährigen ArcTanGent Festival](/2019/05/arctangent-festival-2019/)  live erleben und waren verzaubert. Matzes Worte dazu "Für mich war das 65daysoftstatic Konzert definitiv das beste Konzert auf dem ArcTanGent. Und das, obwohl wir dort mindestens noch fünf weitere Top-Konzerte gesehen haben. Im Moment sind 65days meine absolute Lieblingsband." Das klingt schon mal gut, oder? Matze hatte übrigens die erste Auskopplung "Popular Beats" auf seiner Liste. Die lohnt es sich auf alle Fälle auch zu hören!
 
 <iframe src="https://www.youtube.com/embed/l73eDjbpPzA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>

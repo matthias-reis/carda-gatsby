@@ -61,7 +61,7 @@ Playbutton drücken.
 
 ### Caspian - "Ishmael" vom Album "On Circles"
 
-<p class="p1"><span class="Apple-converted-space">Matze meint: "</span>Vor zwei Monaten hatte ich schon die erste Singleauskopplung <a href="http://cardamonchai.com/2019/11/13-songs-fuer-den-dezember/">in unserer Liste</a>. Jetzt ist das wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger "Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
+<p class="p1"><span class="Apple-converted-space">Matze meint: "</span>Vor zwei Monaten hatte ich schon die erste Singleauskopplung  [in unserer Liste](/2019/11/13-songs-fuer-den-dezember/).  Jetzt ist das wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger "Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
 <iframe src="https://www.youtube.com/embed/G4MR6_HvckU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 ### Alcest - "Protection" in der Ben Chisholm Version (Single)

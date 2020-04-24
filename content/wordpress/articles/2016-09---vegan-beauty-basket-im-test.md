@@ -38,16 +38,14 @@ Werbung\*
 ![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/09/29578673560_1aab418caf_z-640x427.jpg)
 
 Ich hatte Euch die vegan lebende Beauty Queen bereits in meinem kleinen
-<a href="http://cardamonchai.com/2016/08/vegan-beauty-basket-gratis-aktion/">Bericht</a>
-vor ein paar Tagen vorgestellt. Nun hat Sie mir die aktuelle Box zum Testen zur
-Verfügung gestellt und was soll ich sagen: Ich bin begeistert!
+[Bericht](/2016/08/vegan-beauty-basket-gratis-aktion/) vor ein paar Tagen
+vorgestellt. Nun hat Sie mir die aktuelle Box zum Testen zur Verfügung gestellt
+und was soll ich sagen: Ich bin begeistert!
 
 Sofort nach dem Öffnen fiel mir als Erstes ihre wunderschöne, selbstgezeichnete
 Dankes-Karte auf, die sie dem Päckchen beigelegt hat. Was für eine wundervolle
 Katze! Sie ziert nun meine Küchenwand und lächelt mich jeden Morgen an, wenn ich
-mir mein
-<a href="http://cardamonchai.com/2015/10/veganer-kaiserschmarrn/">Frühstück</a>
-zubereite.
+mir mein [Frühstück](/2015/10/veganer-kaiserschmarrn/) zubereite.
 
 Zusätzlich zum eigentlichen Inhalt liegt jedem Basket ein Produktblatt bei, auf
 dem alle Artikel genau beschrieben und die Inhaltsstoffe aufgelistet sind.
@@ -130,21 +128,18 @@ mich so überzeugt, wie dieses. Es brennt nicht, fettet nicht und zieht gut ein.
 Außerdem kann man tatsächlich nahezu sofort einen Effekt spüren. Die Augen
 fühlen sich frischer an, Ringe wirken weniger tief. Übrigens kann man auch
 Make-up prima darüber auftragen, ohne dass etwas verwischt. Neben
-<a href="http://cardamonchai.com/2016/07/lovely-day-botanicals-kosmetiktest/">veganem
-Hyaloron</a> sind auch Nachtkerzen- und Mandelöl enthalten, die beide auch zur
-Pflege von Neurodermitis-,
-<a href="http://cardamonchai.com/2016/05/gladskin-vegane-pflege-bei-rosacea/">Rosacea</a>-
-sowie Ekzem-geplagter Haut eingesetzt werden und besonders reizarm und pflegend
-sind. Außerdem sorgen sie für einen sehr angenehmen Duft.
+[Rosacea](/2016/07/lovely-day-botanicals-kosmetiktest/) - sowie Ekzem-geplagter
+Haut eingesetzt werden und besonders reizarm und pflegend sind. Außerdem sorgen
+sie für einen sehr angenehmen Duft.
 
 <blockquote>Bereits 1978 wurde i+m NATURKOSMETIK BERLIN gegründet und ist heute einer der traditions­reichsten Naturkosmetikhersteller in Deutschland. Die Gründerin Inge Stamm gehört zu den erfahrensten Entwicklern der deutschen Natur­kosmetik.</blockquote>
 
 Last but not least ist ein extragroßer
-<a href="http://cardamonchai.com/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/">Konjak-Schwamm</a>
-vom Beauty-Shop Jislaine, über den ich mich sehr gefreut habe, nachdem mein
-letzter nach einem Kurztripp leider spurlos verschwunden ist. Konjak-Schwämme
-verfügen über eine einzigartige, natürliche Netzstruktur, die bei der Anwendung
-die Durchblutung ankurbelt, überschüssige Hautschüppchen sanft entfernt und die
+[Konjak-Schwamm](/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/) vom
+Beauty-Shop Jislaine, über den ich mich sehr gefreut habe, nachdem mein letzter
+nach einem Kurztripp leider spurlos verschwunden ist. Konjak-Schwämme verfügen
+über eine einzigartige, natürliche Netzstruktur, die bei der Anwendung die
+Durchblutung ankurbelt, überschüssige Hautschüppchen sanft entfernt und die
 Bildung neuer Hautzellen fördert. Reinigungsmittel können dadurch besonders
 sparsam eingesetzt oder sogar weggelassen werden.
 
@@ -174,18 +169,16 @@ ids="15196,15194,15195,15193,15191,15192,15189,15190,15188,15187,15185,15186,151
 ## Wegweiser Vegan Beauty Basket
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/08/vegan-beauty-basket-gratis-aktion/">Der Basket im 3er-Abo 8/2016</a></li>
+    <li> [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/) </li>
     <li>Im Test 9/2016</li>
-    <li><a href="http://cardamonchai.com/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/">Unboxing Weihnachtsedition 12/2016</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/vegan-beauty-basket-interview/">Interview mit Gründerin Ina 2/2017</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/unboxing-vegan-beauty-basket-maerz/">Unboxing März-Ausgabe 3/2018</a></li>
+    <li> [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) </li>
+    <li> [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/) </li>
+    <li> [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/) </li>
 </ol>
 
 Zum Vegan Beauty Basket geht es
-<a href="https://www.veganbeautybasket.com/" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](https://www.veganbeautybasket.com/).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

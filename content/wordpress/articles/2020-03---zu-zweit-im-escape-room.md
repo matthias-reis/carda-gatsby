@@ -89,11 +89,10 @@ entfernen. Das wäre jedoch für die Lösung einiger Rätsel durchaus sachdienli
 gewesen.
 
 Bei dem letzten Escape Game, in dem ich war, handelte es sich um ein Horror
-Escape Game
-(<a href="http://cardamonchai.com/2019/07/die-gruselserie-ist-wieder-da/">The
-cabin in the woods</a>). Ich habe dort wirklich das Fürchten gelernt und mich
-das ein oder andere Mal sogar an völlig fremden Menschen festgekrallt. Etwas für
-mich völlig Untypisches.
+Escape Game ( [The cabin in the woods](/2019/07/die-gruselserie-ist-wieder-da/)
+). Ich habe dort wirklich das Fürchten gelernt und mich das ein oder andere Mal
+sogar an völlig fremden Menschen festgekrallt. Etwas für mich völlig
+Untypisches.
 
 Und was soll ich sagen: Gebranntes Kind scheut das Feuer. Nach dem ersten lauten
 Klopfen vermutete ich hinter jeder Tür etwas noch Gruseligeres. Dabei hielt sich
@@ -131,14 +130,10 @@ erstmal feste umarmen.
 
 Wer neugierig geworden ist und gerne wissen möchte, was man bei Escape Berlin
 noch so alles erleben kann, schaut am besten
-<a href="https://www.escape-berlin.de" target="_blank" rel="noopener nofollow">auf
-der Webseite</a> vorbei. Wer Lust auf ein Escape Game bei sich in der Nähe hat,
-<a href="http://escape-game.org/" target="_blank" rel="noopener nofollow">findet
-hier eine Übersicht</a>.
+[findet hier eine Übersicht](https://www.escape-berlin.de).
 
 [glry name="sherlock"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

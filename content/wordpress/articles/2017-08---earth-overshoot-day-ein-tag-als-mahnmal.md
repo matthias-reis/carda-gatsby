@@ -88,12 +88,11 @@ bereits im Mai.
 ## Woher kommt die Verschmutzung?
 
 Der größte Treiber ist der Ausstoß von CO2. Für etwa 60 Prozent des
-<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">ökologischen
-Fussabdrucks</a> der Menschheit ist unsere CO<sub>2</sub>-Emission
-verantwortlich. Würden wir es schaffen, sie um die Hälfte zu reduzieren, würde
-das den Earth Overshoot Day trotzdem lediglich um rund drei Monate
-"zurückdrehen". Es gibt also noch viele weitere offene Baustellen für uns.
-Alarmglocken an? Sehr gut.
+[ökologischen Fussabdrucks](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+der Menschheit ist unsere CO<sub>2</sub>-Emission verantwortlich. Würden wir es
+schaffen, sie um die Hälfte zu reduzieren, würde das den Earth Overshoot Day
+trotzdem lediglich um rund drei Monate "zurückdrehen". Es gibt also noch viele
+weitere offene Baustellen für uns. Alarmglocken an? Sehr gut.
 
 ## Was tun?
 
@@ -103,13 +102,13 @@ persönlichen Fussabdruck so gering wie möglich zu halten? Hier ein paar
 Anregungen:
 
 <ul>
-    <li><a href="http://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/">Vegan leben</a></li>
-    <li><a href="http://cardamonchai.com/2011/04/stromanbieter-wechseln/">Ökostrom nutzen</a></li>
+    <li> [Vegan leben](/2017/02/klimaschutz-und-vegane-ernaehrung/) </li>
+    <li> [Ökostrom nutzen](/2011/04/stromanbieter-wechseln/) </li>
     <li>Autofahren sein lassen und auf öffentliche Verkehrsmittel und Fahrrad umsatteln</li>
-    <li><a href="http://cardamonchai.com/2017/04/alternative-banken-urgewald-informiert/">Zu einer Ökobank wechseln</a></li>
+    <li> [Zu einer Ökobank wechseln](/2017/04/alternative-banken-urgewald-informiert/) </li>
     <li>Energiesparlampen verwenden</li>
     <li>Dinge mit anderen teilen, reparieren und wiederverwenden</li>
-    <li><a href="http://cardamonchai.com/category/basteleien/diy/">Upcycling</a></li>
+    <li> [Upcycling](/category/basteleien/diy/) </li>
     <li>Regional einkaufen</li>
     <li>Weniger heizen (Leben in energieeffizienten Gebäuden)</li>
 </ul>
@@ -117,8 +116,8 @@ Anregungen:
 Über den ersten Punkt habe ich bereits zwei umfassende Abhandlungen geschrieben:
 
 <ul>
-    <li><a href="http://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/" target="_blank" rel="noopener">Vegane Ernährung und Klimaschutz wissenschaftlich betrachtet</a></li>
-    <li><a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/" target="_blank" rel="noopener">Soja, Klimaschutz und ökologischer Fußabdruck</a></li>
+    <li> [Vegane Ernährung und Klimaschutz wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/) </li>
+    <li> [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) </li>
 </ul>
 
 Ich möchte daher gar nicht lange darauf herumreiten, sondern nur nochmal eins zu
@@ -139,15 +138,10 @@ Veränderungen sind dringend notwendig und das am besten gestern.
 ## Kann ich meinen persönlichen Overshoot berechnen?
 
 Das geht ganz einfach, indem man den Ressourcen-Rechner verwendet. Er wird unter
-anderem angeboten von
-<a href="http://ressourcen-rechner.de/" target="_blank" rel="noopener">ressourcen-rechner.de</a>
-sowie dem
-<a href="http://www.footprintcalculator.org/#!/" target="_blank" rel="noopener">Global
-Footprint Network</a>.
+anderem angeboten von [Global Footprint Network](http://ressourcen-rechner.de/).
 
 <em>Quellen:
-<a href="http://www.overshootday.org/newsroom/infographics/" target="_blank" rel="noopener">overshootday.org</a>, 
-<a href="http://ressourcen-rechner.de/" target="_blank" rel="noopener">ressourcen-rechner.de</a>, <a href="http://www.footprintcalculator.org/#!/" target="_blank" rel="noopener">Global
-Footprint Network</a></em>
+[Global Footprint Network](http://www.overshootday.org/newsroom/infographics/)
+</em>
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

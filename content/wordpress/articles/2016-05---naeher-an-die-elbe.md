@@ -42,8 +42,8 @@ Kommentare nicht reagieren: Ich bin bald wieder da!
 
 Übrigens haben wir auch schon ein neues Haustier. Bei unserem Besuch in unserer
 zukünftigen Bleibe ist uns diese Stadttaube begegnet. Natürlich kommen auch
-<a href="http://cardamonchai.com/2016/05/kater-oskar-freut-sich-auf-altona/">Oskar
-und Chili</a> mit. Sie sind schon genau so gespannt wie wir.
+[Oskar und Chili](/2016/05/kater-oskar-freut-sich-auf-altona/) mit. Sie sind
+schon genau so gespannt wie wir.
 
 ![An die Elbe](http://cardamonchai.com/wp-content/uploads/2016/05/26505263893_df896de413_o-1-640x521.jpg)
 
@@ -51,6 +51,4 @@ und Chili</a> mit. Sie sind schon genau so gespannt wie wir.
 weil es an der Elbe liegt, siehste wohl!
 (Alte Weise)</blockquote>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

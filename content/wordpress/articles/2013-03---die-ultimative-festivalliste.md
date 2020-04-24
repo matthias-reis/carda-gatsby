@@ -87,26 +87,13 @@ subTitle: Perfekt ausgerüstet durch die Festival-Saison
 
 </strong>
 
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg '<a href="/2012/06/05/rock-im-park-2012/"> </a> Billy Talent (Rock im Park 2012)')
+![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg " [](/2012/06/05/rock-im-park-2012/)  Billy Talent (Rock im Park 2012)")
 
 Auch ich bin natürlich schon wieder fleißig am Planen und wie in jedem Jahr sind
 ein paar kostbare Urlaubstage auch wieder für Open Air Veranstaltungen
 reserviert. In der Vergangenheit wurde traditionell das
-<a title="Southside" href="http://www.southside.de/" target="_blank" rel="noopener">Southside</a>
-besucht. Auch das Taubertal Festival,
-<a href="http://cardamonchai.com/2012/06/rock-im-park-2012/">Rock im Park</a>,
-das
-<a title="Rock´n&#96;Heim" href="http://www.rock-n-heim.com" target="_blank" rel="noopener">Rock´n`Heim</a>,
-das
-<a href="http://cardamonchai.com/2012/08/burg-herzberg-festival-2012/">Herzberg
-Festival</a>, das
-<a href="http://cardamonchai.com/2015/08/a-summers-tale-festival-2015/">A
-Summer's Tale</a>, das
-<a href="http://cardamonchai.com/2009/08/wiley-open-air-2009-ulm/">Whiley Open
-Air</a>, das Hurricane und das
-<a href="http://cardamonchai.com/2012/07/isle-of-wight-festival-2012/">Isle Of
-Wight</a> habe ich schon bereist. Unter anderem. Böse Zungen bezeichnen mich
-auch als "Festival-Oma".
+[Isle Of Wight](http://www.southside.de/) habe ich schon bereist. Unter anderem.
+Böse Zungen bezeichnen mich auch als "Festival-Oma".
 
 Welche Festivals werdet Ihr besuchen? Habt Ihr schon Tickets? Auf welche Bands
 freut Ihr Euch besonders? Einige Festivals sind ja bereits komplett ausgebucht.
@@ -128,7 +115,7 @@ trotzdem gerne mitnehmen, so lange ich Euch nicht beim Tragen helfen muss und
 ich ab und zu von Euch zu einem kühlschrankgekühlten Bier in Euren Zeltvorgarten
 eingeladen werde. ;-)
 
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000313-150x150.jpg '<a href="/2012/06/05/rock-im-park-2012/"> </a> Metallica (Rock im Park 2012)')
+![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000313-150x150.jpg " [](/2012/06/05/rock-im-park-2012/)  Metallica (Rock im Park 2012)")
 
 Auch auf <strong>Konservendosen</strong> habe ich verzichtet, diese kleinen,
 billigen asiatischen Tütensuppen haben sich in den letzten Jahren wirklich
@@ -143,7 +130,7 @@ dürften, spätestens, seitdem es auf jedem mittelgroßen <strong>Festival</stro
 in Zeltplatznähe gekühltes Dosenbier für 1,50 € gibt, der Vergangenheit
 angehören. Da lohnt sich der Leistenbruch einfach nicht mehr.
 
-![Festivalliste | thumbnail](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150 '<a href="http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg"> </a> Festivals 2012')
+![Festivalliste | thumbnail](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150 " [](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg)  Festivals 2012")
 
 An den kleinen Supermarktständen, die es mittlerweile auf jedem Open
 Air-Tanzvergnügen gibt, kann man auch so nützliche Dinge wie Einweggrills zum
@@ -341,10 +328,10 @@ unter der Zeltplane nicht)/Zucker
 
 12.) Pro Person bitte nur eine Gitarre/Ukulele
 
-13.) Gutes Liederbuch mit ordentlich Schund drin
-(<a title="Das Ding" href="http://www.buch24.de/9034-0/3-340857-1.html?pup_ptid=18283950120&amp;pup_kw=&amp;pup_c=pla" target="_blank" rel="noopener">Dieses
-hier</a> hat sich in den letzten Jahren bewährt, es gibt davon unzählige
-wundervolle Ausgaben, die auch nach mehrmaligem Bierbad noch lesbar sind.)
+13.) Gutes Liederbuch mit ordentlich Schund drin (
+[Dieses hier](http://www.buch24.de/9034-0/3-340857-1.html?pup_ptid=18283950120&pup_kw=&pup_c=pla)
+hat sich in den letzten Jahren bewährt, es gibt davon unzählige wundervolle
+Ausgaben, die auch nach mehrmaligem Bierbad noch lesbar sind.)
 
 14.) Einweg-Pavillon aus dem Baumarkt (pro Kopf ca. 2 - 7 Euro, die sich
 wirklich lohnen!)
@@ -355,7 +342,7 @@ Ich habe hier mit voller Absicht nur Zwischenmahlzeiten mit reingepackt, da man,
 wie die Festivalbesuche in den letzten tausend Jahren bewiesen haben, sowieso
 wieder jeden Fressstand, an dem man vorbeikommt, ausprobieren möchte.
 
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p8150037-150x150.jpg '<a href="http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg"> </a> Whiley Open Air 2009')
+![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p8150037-150x150.jpg " [](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg)  Whiley Open Air 2009")
 
 Ich habe die Lebensmittel auch mit Absicht auf die Cliquenliste gesetzt. Es
 empfiehlt sich auf jeden Fall, ein Vortreffen mit allen Mitreisenden zu
@@ -370,22 +357,17 @@ zu besorgen, es gibt nicht mehr viele!
 Natürlich würde ich jetzt gerne von Euch erfahren: Was nehmt Ihr eigentlich mit?
 Und eine noch viel spannendere Frage: Welche Festivals bereist Ihr diesen
 Sommer? Schreibt mir! Hier unter diesem Artikel als Kommentar, per E-Mail unter
-<a href="mailto:info@cardamonchai.com">info@cardamonchai.com</a>, auf
-<a title="Facebook" href="https://www.facebook.com/cardamonchai" target="_blank" rel="noopener">Facebook</a>,
-oder
-<a title="Twitter" href="https://twitter.com/Anne_Reko" target="_blank" rel="noopener">Twitter</a>.<strong>
-Ich freue mich wie immer sehr auf Eure Zuschriften! </strong>
+[Twitter](mailto:info@cardamonchai.com). <strong> Ich freue mich wie immer sehr
+auf Eure Zuschriften! </strong>
 
 &lt;3 liche Grüße sendet Euch Eure Festivaloma Anne
 
 ![Festivalliste | full](http://cardamonchai.com/wp-content/uploads/2013/03/p1260039.jpg "Impression vom Isle Of Wight Festival 2013 - Dieses Jahr wird das Wetter definitiv besser!")
 
 Weitere Bilder von der Isle Of Wight findet Ihr
-<a title="Isle Of Wight" href="//2012/07/29/isle-of-wight-festival-2012/" target="_blank" rel="noopener">hier</a>
-in meinem Blog. Natürlich findet Ihr unter dem Suchbegriff
-<a title="Festivals " href="//?s=Festival" target="_blank" rel="noopener">Festival</a>
-auch noch eine ganze Menge andere Festival-Geschichten. Ich wünsche Euch viel
-Spaß beim Stöbern!
+[hier](//2012/07/29/isle-of-wight-festival-2012/) in meinem Blog. Natürlich
+findet Ihr unter dem Suchbegriff [Festival](//?s=Festival) auch noch eine ganze
+Menge andere Festival-Geschichten. Ich wünsche Euch viel Spaß beim Stöbern!
 
 ## Ein schönes Stück Musik zur Einstimmung auf die Festival-Saison für Euch: Pearl Jam - Blood (Isle Of Wight 2012)
 
@@ -395,10 +377,7 @@ Spaß beim Stöbern!
 
 Wer auf seiner Homepage gerne auf meine Festivalliste hinweisen möchte, kann
 dies gerne tun. Wenn Euch der nackte Link zu langweilig ist, sendet einfach eine
-kurze E-Mail an
-<a href="mailto:info@cardamonchai.com">info@cardamonchai.com</a>, dann sende ich
-Euch ein Banner zum Einbinden zu.
+kurze E-Mail an [info@cardamonchai.com](mailto:info@cardamonchai.com), dann
+sende ich Euch ein Banner zum Einbinden zu.
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

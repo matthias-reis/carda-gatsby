@@ -79,9 +79,9 @@ ist ein starkes Stück Dogmatismus."
 Aus dieser Schlussfolgerung ergibt sich der Begriff "<strong>Karnismus</strong>"
 (Seite 7). Dahinter steht laut Joy ein System aus Praktiken und Überzeugungen,
 die es Menschen als selbstverständlich erscheinen lassen, manche
-<a href="http://cardamonchai.com/2019/02/tiere-essen-von-jonathan-safran-foer/">Tiere
-zu essen</a>, obwohl ihnen bewusst ist, dass es sich um Lebewesen handelt, die
-genau wie wir Angst vor dem Sterben haben und an ihrem Leben hängen.
+[Tiere zu essen](/2019/02/tiere-essen-von-jonathan-safran-foer/), obwohl ihnen
+bewusst ist, dass es sich um Lebewesen handelt, die genau wie wir Angst vor dem
+Sterben haben und an ihrem Leben hängen.
 
 Viele Kinder haben zwar, erklärt man ihnen, was das genau ist, zunächst einen
 natürlichen Widerwillen gegenüber dem Fleisch auf dem Teller, als Erwachsene
@@ -146,16 +146,15 @@ Begriffe zum Wort "Hund" zu assoziieren und anschließend zum Wort "Schwein".
 Nachweislich sind die zum Wort "Schwein" bei den meisten Menschen negativ, die
 beim Wort "Hund" hingegen positiv.
 
-![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/Bildschirmfoto-2019-03-04-um-16.43.29-400x193.png '<a href="https://www.instagram.com/p/BuZoJX4AndE/" target="_blank" rel="noopener nofollow"> </a> Esther The Wonder Pig')
+![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/Bildschirmfoto-2019-03-04-um-16.43.29-400x193.png " [](https://www.instagram.com/p/BuZoJX4AndE/)  Esther The Wonder Pig")
 
 Beim Lesen des Werkes lernt man ganz nebenbei, sich mit eingeprägten
 Verhaltensmustern auseinanderzusetzen und sich selbst zu hinterfragen. Warum
-sind uns
-<a href="http://cardamonchai.com/2017/11/das-gluecksschwein-aus-dem-elbtunnel/">Schweine</a>
-egal, während wir unsere Hunde lieben? Obwohl doch sogar schon drei Monate alte
-Ferkel auf ihren Namen reagieren und Schweine allgemein hochintelligente Tiere
-sind. Sie sind sogar dazu in der Lage Computerspiele zu spielen (Seite 45).
-Außerdem sind sie extrem kontaktfreudig und anhänglich.
+sind uns [Schweine](/2017/11/das-gluecksschwein-aus-dem-elbtunnel/) egal,
+während wir unsere Hunde lieben? Obwohl doch sogar schon drei Monate alte Ferkel
+auf ihren Namen reagieren und Schweine allgemein hochintelligente Tiere sind.
+Sie sind sogar dazu in der Lage Computerspiele zu spielen (Seite 45). Außerdem
+sind sie extrem kontaktfreudig und anhänglich.
 
 Die einen zur Schlachtbank, die anderen aufs Sofa - woran liegt das? "Am
 Karnismus", lautet Joys Antwort. Ein wichtiger Punkt für sie ist, dass Menschen
@@ -206,14 +205,13 @@ Bolzenschussgeräten, Spaltsägen, Beinscheren, Dampfreinigern, Kettenzügen und
 Entbeinungsmaschinen zur Abtrennung von Gliedmaßen sowie zu Augenverletzungen,
 Verbrennungen, schwerwiegenden Frakturen und Schlimmerem kommen kann.
 
-![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/Bildschirmfoto-2019-03-04-um-16.43.11-400x398.png '<a href="https://www.instagram.com/p/Bt13RgQAdY_/" target="_blank" rel="noopener nofollow"> </a> So viel besser würde es unserem Planeten ohne die Fleischindustrie gehen')
+![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/Bildschirmfoto-2019-03-04-um-16.43.11-400x398.png " [](https://www.instagram.com/p/Bt13RgQAdY_/)  So viel besser würde es unserem Planeten ohne die Fleischindustrie gehen")
 
 Und die Welle der Vernichtung, mit der der Karnismus die Welt überrollt, hört
 bei den Menschen nicht auf. Auch die Folgen für die Umwelt hat Melanie Joy
 durchleuchtet. <strong>Verseuchtes Grundwasser</strong> und Luftverschmutzung
 sind allgegenwärtig und obwohl wir wissen, dass die Fleischindustrie einer der
-Haupttreiber des
-<a href="https://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/">Klimawandels</a>
+Haupttreiber des [Klimawandels](/2017/02/klimaschutz-und-vegane-ernaehrung/)
 ist, darf sie weitermachen, wie gehabt. Auf Seite 99 zählt Melanie Joy unter
 anderem auf:
 
@@ -222,7 +220,7 @@ anderem auf:
     <li>Nach Angaben der Vereinten Nationen zählt die Nutztierhaltung heute 'bei den wichtigsten Umweltproblemen  jeweils zu den zwei bis drei Hauptverursachern'.</li>
     <li>Die Tierindustrie ist weltweit der wahrscheinlich größte Wasserverschmutzer. Haupt-Verschmutzungsquellen sind Antibiotika und Hormone, Chemikalien aus Gerbereien, Tierexkremente, Bodenablagerungen von erodiertem Weideland sowie Dünger und Pestizide für den Futtermittelanbau.</li>
     <li>Das von Rindern und ihrer Gülle abgegebene Methan trägt so viel zur Erderwärmung bei, wie 33 Millionen Autos.</li>
-    <li>Die von Nutztieren produzierten <a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/" target="_blank" rel="noopener">Treibhausgase</a> machen bei Methan 37 Prozent, bei Lachgas 65 Prozent und bei Ammoniak 64 Prozent des Gesamtbestandes in der Atmosphäre aus."</li>
+    <li>Die von Nutztieren produzierten  [Treibhausgase](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)  machen bei Methan 37 Prozent, bei Lachgas 65 Prozent und bei Ammoniak 64 Prozent des Gesamtbestandes in der Atmosphäre aus."</li>
 </ul>
 
 ### In einer Fußnote findet man den nicht unbedeutenden Satz:
@@ -235,11 +233,9 @@ Belege und Zahlen. Nüchtern und sachlich beweist Joy, dass wir Teil eines
 karnistischen Systems sind, in dem wir von klein auf lernen zu leugnen und
 unsere Augen zu verschließen.
 
-Genau wie
-"<a href="http://cardamonchai.com/2019/02/tiere-essen-von-jonathan-safran-foer/" target="_blank" rel="noopener">Tiere
-essen</a>" Autor Jonathan Safran Foer, stellt auch Melanie Joy bewusst die
-Frage, warum auf Tabakprodukte Warnhinweise stehen, nicht aber auf
-Fleischprodukten.
+Genau wie "[Tiere essen](/2019/02/tiere-essen-von-jonathan-safran-foer/)" Autor
+Jonathan Safran Foer, stellt auch Melanie Joy bewusst die Frage, warum auf
+Tabakprodukte Warnhinweise stehen, nicht aber auf Fleischprodukten.
 
 ## Fleisch ist schlecht für die Gesundheit
 
@@ -292,26 +288,21 @@ vegane Lebensart schon sehr bald selbstverständlich ist. Melanie Joy hat mit
 "Warum wir Hunde lieben, Schweine essen und Kühe anziehen" die Entwicklung in
 diese Richtung ein großes Stück vorangebracht.
 
-![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-1-400x300.jpg '<a href="https://amzn.to/2C1THWu"> </a> Warum wir Hunde lieben, Schweine essen und Kühe-anziehen')
+![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-1-400x300.jpg " [](https://amzn.to/2C1THWu)  Warum wir Hunde lieben, Schweine essen und Kühe-anziehen")
 
-"<a href="https://amzn.to/2C1THWu" target="_blank" rel="noopener nofollow"><strong>Warum
-wir Hunde lieben, Schweine essen und Kühe anziehen</strong></a>" von Melanie Joy
-ist bei Compession Media erschienen. Es trägt den Untertitel
-"<strong>Karnismus - eine Anleitung</strong>". Achim Stammberger hat es aus dem
-Amerikanischen übersetzt. Simon Kneip hat es in genderneutraler Schreibweise
-überarbeitet. Es trägt die <strong>ISBN 978-3-9814621-7-3</strong>. Die
-Originalausgabe "Why We Love Dogs, Eat Pigs And Wear Cows" wurde 2010 vom Verlag
-Conari Press, San Francisco veröffentlicht. Das Vorwort in der deutschen Ausgabe
-stammt von Hilal Sezgin.
+"[](https://amzn.to/2C1THWu)" von Melanie Joy ist bei Compession Media
+erschienen. Es trägt den Untertitel "<strong>Karnismus - eine
+Anleitung</strong>". Achim Stammberger hat es aus dem Amerikanischen übersetzt.
+Simon Kneip hat es in genderneutraler Schreibweise überarbeitet. Es trägt die
+<strong>ISBN 978-3-9814621-7-3</strong>. Die Originalausgabe "Why We Love Dogs,
+Eat Pigs And Wear Cows" wurde 2010 vom Verlag Conari Press, San Francisco
+veröffentlicht. Das Vorwort in der deutschen Ausgabe stammt von Hilal Sezgin.
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zum festen
 Bestandteil meines Blogs etablieren. Je mehr ich selbst lese, desto mehr möchte
 ich darüber berichten. Verstärkt hat sich das Ganze noch,
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-selbst mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>.
+[seit ich selbst mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/).
 
 <em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

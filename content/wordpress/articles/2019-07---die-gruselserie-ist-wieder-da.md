@@ -47,10 +47,9 @@ Erfahrung gebracht.</strong>
 
 <hr />
 
-<strong>Hinweis: </strong>Die
-<strong>Verlosung<a href="#1"><sup>1</sup></a></strong> findet Ihr im Anschluss
-an den Artikel. Natürlich lohnt es sich dennoch, ihn zu lesen. Ihr könnte darin
-einige spannende Fakten über die Gruselserie erfahren.
+<strong>Hinweis: </strong>Die <strong>Verlosung [](#1) </strong> findet Ihr im
+Anschluss an den Artikel. Natürlich lohnt es sich dennoch, ihn zu lesen. Ihr
+könnte darin einige spannende Fakten über die Gruselserie erfahren.
 
 <hr />
 
@@ -122,19 +121,17 @@ tolle Pakete:
 
 <strong>Gewinnen könnt Ihr ganz leicht: Schreibt mir einfach bis
 einschließlich 05. August 2019 eine E-Mail mit dem Betreff "Gruselserie" an
-<a href="mailto:anne.reis@cardamonchai.com">info@cardamonchai.com</a> und
-erzählt mir, warum Ihr gewinnen wollt. Die beiden Gewinner\*innen kontaktiere
-ich im Anschluss per E-Mail. Wer gewinnt, entscheidet das Los. Teilnehmen kann
-jede\*r ab 14 Jahren mit einem Wohnsitz innerhalb Deutschlands. </strong>
+[info@cardamonchai.com](mailto:anne.reis@cardamonchai.com) und erzählt mir,
+warum Ihr gewinnen wollt. Die beiden Gewinner\*innen kontaktiere ich im
+Anschluss per E-Mail. Wer gewinnt, entscheidet das Los. Teilnehmen kann jede\*r
+ab 14 Jahren mit einem Wohnsitz innerhalb Deutschlands. </strong>
 
-<a href="https://cardamonchai.com/datenschutz/teilnahmebedingungen/" target="_blank" rel="noopener">Hier
-gehts zu den Teilnahmebedingungen</a>
+[Hier gehts zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
 <hr />
 
 <strong>Hinweis:</strong> Die Aktion ist beendet.
-<a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet irgendwann
-wieder eine tolle Verlosung statt</a>.
+[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
 

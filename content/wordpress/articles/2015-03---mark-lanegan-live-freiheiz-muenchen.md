@@ -33,16 +33,16 @@ thumbnailId: "10322"
 subTitle: Feat. Lyenn &amp; Duke Garwood
 ---
 
-![Mark Lanegan](http://cardamonchai.com/wp-content/uploads/2015/03/16454954390_fab402aea4_z.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets" target="_blank" rel="noopener"> </a> Mark Lanegan')
+![Mark Lanegan](http://cardamonchai.com/wp-content/uploads/2015/03/16454954390_fab402aea4_z.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Mark Lanegan")
 
 <strong>Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das
 langersehnte Mark Lanegan Konzert. Als Support brachte er den hochmusikalischen
 Belgier Lyenn und keinen geringeren als Duke Garwood mit.</strong>
 
 Mark gastierte,
-<a title="live @Freiheiz" href="http://cardamonchai.aithir.de/2012/08/mark-lenegan-live-freiheiz-munchen/">wie
-schon 2012</a> im Freiheiz in München, eine Location, die ich persönlich sehr
-schätze, nicht zu groß und von jedem Platz aus ein guter Blick auf die Bühne.
+[wie schon 2012](http://cardamonchai.aithir.de/2012/08/mark-lenegan-live-freiheiz-munchen/)
+im Freiheiz in München, eine Location, die ich persönlich sehr schätze, nicht zu
+groß und von jedem Platz aus ein guter Blick auf die Bühne.
 
 Die Halle war gut gefüllt, die Musiker in guter Stimmung. Gebannt lauschten wir
 der Musik. Lyenn kannte ich zuvor noch nicht und ich war sehr beeindruckt, von

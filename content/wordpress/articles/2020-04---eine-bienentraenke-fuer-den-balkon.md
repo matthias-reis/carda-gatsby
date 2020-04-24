@@ -77,12 +77,7 @@ auch auf einer Fensterbank platziert werden.
 
 Ein besonders wichtiges Thema sind außerdem die richtigen Pflanzen. Wer seinen
 Balkon oder Garten mit Köpfchen begrünen möchte, achtet auf
-<a href="http://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/">bienenfreundliche
-Bepflanzung</a>. Zuchtbienen begünstigen das Bienensterben eher. Wer wirklich
-etwas Gutes tun möchte, setzt lieber auf ein Insektenhotel, als auf den derzeit
-so beliebten Bienenstock auf dem Dach. Mehr zu diesem Thema könnt Ihr
-<a href="http://cardamonchai.com/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/">hier
-im Blog erfahren</a>.
+[hier im Blog erfahren](/2019/05/insektenhotel-bienen-auf-dem-balkon/).
 
 Zusätzlich zu ihrer Nahrung aus Blütenpollen brauchen Bienen auch Wasser.
 Besonders wenn es im Sommer heiß ist, können sie sonst leicht einen Hitzeschlag
@@ -95,13 +90,10 @@ drauf.
 
 ## Weitere Beiträge zum Thema Bienenbalkon
 
-<a href="http://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/">So
-funktioniert ein Insektenhotel</a>
+[So funktioniert ein Insektenhotel](/2019/05/insektenhotel-bienen-auf-dem-balkon/)
 
-<a href="http://cardamonchai.com/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/">Wie
-Wildbienen von Honigbienen verdrängt werden</a>
+[Wie Wildbienen von Honigbienen verdrängt werden](/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/)
 
-<a href="http://cardamonchai.com/2019/07/kampf-gegen-das-bienensterben/">Kampf
-gegen das Bienensterben</a>
+[Kampf gegen das Bienensterben](/2019/07/kampf-gegen-das-bienensterben/)
 
 [glry name="bienentraenke"]

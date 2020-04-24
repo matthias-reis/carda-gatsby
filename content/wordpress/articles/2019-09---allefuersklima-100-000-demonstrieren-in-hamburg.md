@@ -45,11 +45,11 @@ kann von der Politik definitiv nicht mehr überhört werden.
 ![allefuersklima](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-20-allefuersklima-13-400x300.jpg "Mit dem Tierrechtsaktivistenbündnis in Hamburg fürs Klima auf der Straße")
 
 In Hamburg mit dabei waren neben dem
-<a href="http://cardamonchai.com/2019/08/animal-rights-march-2019/">Tierrechtsaktivistenbündnis</a>,
-dem PETA zwei Street Team, Greenpeace noch viele weitere Gruppen, Vereine,
-natürlich jede Menge Schulklassen, komplette Firmen, Familien und Nachbarn.
-Globaler Klimaschutz ist eben Pflicht! Das ist inzwischen vielen Menschen
-wirklich klar geworden. Richtig so!
+[Tierrechtsaktivistenbündnis](/2019/08/animal-rights-march-2019/), dem PETA zwei
+Street Team, Greenpeace noch viele weitere Gruppen, Vereine, natürlich jede
+Menge Schulklassen, komplette Firmen, Familien und Nachbarn. Globaler
+Klimaschutz ist eben Pflicht! Das ist inzwischen vielen Menschen wirklich klar
+geworden. Richtig so!
 
 ## #allefuersklima muss laut bleiben!
 

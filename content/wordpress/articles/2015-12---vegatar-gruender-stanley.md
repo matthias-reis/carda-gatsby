@@ -217,10 +217,9 @@ Herstellern, die auf unsere Wünsche eingehen können.
 
 <strong>Anne:</strong> Eine Frage, die ich Dir gerne stellen möchte, ist: Wie
 erklärst du Dir, dass viele Menschen zwar
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">das Tragen von
-Pelzen</a><strong> ablehnen</strong>, aber bei Leder völlig zu vergessen
-scheinen, dass es sich dabei auch um die Haut von Tieren handelt und es komplett
-selbstverständlich am Körper tragen?
+[das Tragen von Pelzen](/2014/11/fakepelz-echtpelz/) <strong> ablehnen</strong>,
+aber bei Leder völlig zu vergessen scheinen, dass es sich dabei auch um die Haut
+von Tieren handelt und es komplett selbstverständlich am Körper tragen?
 
 <strong>Stanley:</strong> Meiner Meinung nach ist es ein Prozess, indem man sich
 befindet. Zunächst begann es bei mir auch bei der Ernährung. Ziemlich schnell
@@ -311,7 +310,7 @@ Wohlbefinden, körperlich und geistig.
 <strong>Anne:</strong> Wo kann man Eure Taschen kaufen?
 
 <strong>Stanley:</strong> Erste Anlaufstelle für die DiOsA Handtaschen ist unser
-Onlineshop<a href="#1"><sup>1</sup></a>.
+Onlineshop [](#1).
 
 <strong>Anne:</strong> Ein Blick in die Zukunft von Vegatar. Wie geht es weiter?
 Was sind die nächsten Schritte? Was plant Ihr?
@@ -335,8 +334,6 @@ Freude.
 
 ## Fußnote
 
-[1]
-<a href="https://www.vegatar.com/" target="_blank" rel="noopener nofollow">Homepage
-und Onlineshop Vegatar</a>
+[1][homepage und onlineshop vegatar](https://www.vegatar.com/)
 
 Bilder: Vegatar

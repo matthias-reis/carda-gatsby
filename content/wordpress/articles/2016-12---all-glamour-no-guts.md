@@ -67,14 +67,14 @@ bekannt ist. Meiner Meinung nach darf sich das aber gerne ändern!
 
 ## Zehn Prozent gehen an das Hillside Animal Sanctuary
 
-Zehn Prozent ihrer Einnahmen spendet Lou übrigens an
-das <a href="http://www.hillside.org.uk" target="_blank" rel="noopener">Hillside
-Animal Sanctuary</a>. Das Tierheim wurde 1995 gegründet, um Tieren in Not Schutz
-und eine Stimme zu geben. Mit der Hilfsorganisation sollen Menschen auf die
-Millionen von Tieren, die tagtäglich unter ihrer Intensivhaltung leiden müssen,
-aufmerksam gemacht werden. Das Hillside Animal Sanctuary hat bereits an die
-1.000 Pferde, Ponys und Eseln ein Zuhause gegeben. Die meisten Bewohner der
-Einrichtung kommen aus der Tierindustrie.
+Zehn Prozent ihrer Einnahmen spendet Lou übrigens an das 
+[Hillside Animal Sanctuary](http://www.hillside.org.uk). Das Tierheim wurde 1995
+gegründet, um Tieren in Not Schutz und eine Stimme zu geben. Mit der
+Hilfsorganisation sollen Menschen auf die Millionen von Tieren, die tagtäglich
+unter ihrer Intensivhaltung leiden müssen, aufmerksam gemacht werden. Das
+Hillside Animal Sanctuary hat bereits an die 1.000 Pferde, Ponys und Eseln ein
+Zuhause gegeben. Die meisten Bewohner der Einrichtung kommen aus der
+Tierindustrie.
 
 Von mir bekommt Ihr ganz klar eine Kaufempfehlung. Ich meine, schaut Euch doch
 mal an, wie liebevoll die Sachen verpackt sind. Alleine das gibt bei mir schon
@@ -82,9 +82,8 @@ Pluspunkte. Vielleicht seid Ihr ja noch auf der Suche nach einem
 Weihnachtsgeschenk? Dann ran an die Warenkörbe. :-)
 
 <a href="http://allglamournoguts.co.uk/" target="_blank" rel="noopener">Hier
-entlang geht es zum All Glamour No Guts Shop
-</a><a href="https://www.instagram.com/allglamournoguts/" target="_blank" rel="noopener">Hier
-findet Ihr All Glamour No Guts auf Instagram</a>
+entlang geht es zum All Glamour No Guts Shop </a>
+[Hier findet Ihr All Glamour No Guts auf Instagram](https://www.instagram.com/allglamournoguts/)
 
 [gallery type="rectangular" link="none" size="large"
 ids="15436,15435,15434,15437,15433,15431,15432"]
@@ -92,4 +91,4 @@ ids="15436,15435,15434,15437,15433,15431,15432"]
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst.  In diesem Fall habe ich die Produkte sogar
 selbst erworben. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>

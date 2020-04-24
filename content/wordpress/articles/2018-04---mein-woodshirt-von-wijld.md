@@ -36,11 +36,8 @@ subTitle: Nachhaltige Mode aus Holz
 
 \*Werbung
 
-<strong><a href="http://cardamonchai.com/2018/02/faire-klamotten/">Coole
-Klamotten</a>, die nicht nur toll aussehen, sondern aus nachwachsenden
-Rohstoffen hergestellt werden, das Grundwasser beim Waschen nicht mit
-<a href="http://cardamonchai.com/2018/03/der-weltwassertag-2018/">Mikroplastik</a>
-belasten und auch noch atmungsaktiv sind gibt es nicht? Gibt es doch!</strong>
+<strong> [Mikroplastik](/2018/02/faire-klamotten/) belasten und auch noch
+atmungsaktiv sind gibt es nicht? Gibt es doch!</strong>
 
 Ich hatte vor Kurzem die tolle Gelegenheit, mich näher mit den "WoodShirts" von
 wijld auseinanderzusetzen. Sie werden aus Holz hergestellt. Auf den ersten Blick
@@ -100,8 +97,8 @@ heißt es auf ihrer Homepage<sup>1</sup> . Holzfasern sind im Vergleich mit
 konventioneller Baumwolle wesentlich ressourceneffizienter. Bei der Herstellung
 eines WoodShirts werden 1.000 Liter Wasser sowie 150 Milliliter Chemie in Form
 von Pestiziden und Düngemitteln und 600 Gramm
-<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">CO2</a>
-allein durch die verkürzten Transportwege gespart.
+[CO2](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) allein durch die
+verkürzten Transportwege gespart.
 
 Genauso wichtig wie das Klima, ist den Leuten bei wijld die faire Bezahlung der
 Mitarbeiter.
@@ -130,16 +127,14 @@ Hatte ich da nicht noch eine Lücke im Schrank?
 
 Mein Meisenshirt aus der Artist Collection von wijld hatte hier im Blog in
 meinem Artikel zum 10-jährigen Blog-Jubiläum bereits einen Auftritt!
-<a href="http://cardamonchai.com/2018/03/10-jahre-bloggen-jubilaeum/">Schaut mal
-hier!</a>
+[Schaut mal hier!](/2018/03/10-jahre-bloggen-jubilaeum/)
 
-<sup>1</sup><a href="https://www.wijld.com/de/" target="_blank" rel="noopener">Hier
-entlang</a> geht es zur Homepage und zum Shop von wijld.
+<sup>1</sup> [Hier entlang](https://www.wijld.com/de/) geht es zur Homepage und
+zum Shop von wijld.
 
 [gallery type="rectangular" link="none" size="large"
 ids="20418,20420,20422,20417"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

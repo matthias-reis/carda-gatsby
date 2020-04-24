@@ -33,11 +33,10 @@ subTitle: Kleiner Schulterbag im Patchwork-Style
 Die Handtasche "Kira" hatte es mir sofort angetan.</strong>
 
 Weil von
-<a href="http://cardamonchai.com/2015/09/diy-koernerkissen-naehanleitung/">einem
-meiner letzten Nähprojekte</a> noch jede Menge Stoff übrig war, machte ich mich
-gleich ans Werk. Die Anleitung ist wirklich super gemacht, jeder Schritt ist
-ausführlich erklärt und bebildert. Als Material habe ich ganz normale Baumwolle
-genommen.
+[einem meiner letzten Nähprojekte](/2015/09/diy-koernerkissen-naehanleitung/)
+noch jede Menge Stoff übrig war, machte ich mich gleich ans Werk. Die Anleitung
+ist wirklich super gemacht, jeder Schritt ist ausführlich erklärt und bebildert.
+Als Material habe ich ganz normale Baumwolle genommen.
 
 [myflickr tag="annekleinetasche2015"]
 
@@ -45,6 +44,5 @@ Ich habe mir noch eine passende Handytasche geschneidert und ein Kosmetikbeutel
 ist in Arbeit. In Kürze werde ich Euch beides zeigen.
 
 Die komplette Nähanleitung für die Handtasche findet Ihr
-<a href="http://www.handmadekultur.de/projekte/handtasche-kira_57917" target="_blank" rel="noopener">auf
-der Homepage</a> von "Handmade Kultur". Sie steht dort kostenlos zum Download
-bereit.
+[auf der Homepage](http://www.handmadekultur.de/projekte/handtasche-kira_57917)
+von "Handmade Kultur". Sie steht dort kostenlos zum Download bereit.

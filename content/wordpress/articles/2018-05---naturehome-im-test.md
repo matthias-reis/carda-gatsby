@@ -84,12 +84,11 @@ Die Bioseifen von Naturehome gibt es übrigens auch noch in den Duftrichtungen
 Lavendel, Calendula, Rosmarin und Citrus. Auch eine Seife speziell für
 Allergiker wird angeboten. Außerdem gibt es unter anderem auch Waschmittel und
 Desinfektionsmittel. Wer jetzt neugierig ist, informiert sich am besten auf der
-<a href="https://www.naturehome.com/de/advancedsearch/result/?q=seife" target="_blank" rel="noopener">Homepage</a>
-von Naturehome.
+[Homepage](https://www.naturehome.com/de/advancedsearch/result/?q=seife) von
+Naturehome.
 
 [gallery type="rectangular" link="none" size="medium" ids="20584,20582"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

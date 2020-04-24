@@ -45,13 +45,11 @@ paar Lieblingsstücke "von früher" wurden zum Besten gegeben.
 ## Im Anschluss an Long Distance Calling gab es noch was Besonderes
 
 Und im Anschluss ging der Spaß noch weiter: Kein Geringerer, als
-<a href="https://www.instagram.com/p/BE0UZwjQVdK/?taken-by=anne_reko" target="_blank" rel="noopener">Johannes
-Heil</a> ließ an Ort und Stelle die Plattenspieler qualmen! Was ein Abend! Hier
-ein paar Eindrücke.
+[Johannes Heil](https://www.instagram.com/p/BE0UZwjQVdK/?taken-by=anne_reko)
+ließ an Ort und Stelle die Plattenspieler qualmen! Was ein Abend! Hier ein paar
+Eindrücke.
 
 [gallery link="none" size="medium" columns="2" type="square"
 ids="14650,14649,14647,14648"]
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

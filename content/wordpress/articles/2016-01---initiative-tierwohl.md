@@ -141,10 +141,10 @@ was tut und auf diesem Wege vielleicht mehr erreicht wird.
 
 Auch der Tierschutzbund hat vor einiger Zeit eine Initiative ins Leben gerufen,
 die für bessere Bedingungen in Schlachtbetrieben und Höfen sorgen soll.
-<a href="http://cardamonchai.com/2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/">Das
-Label "Tierschutzfleisch"</a> ist derzeit in immer mehr Supermärkten auf
-abgepacktem Fleisch zu finden. Eine zweifelhafte Art und Weise, die das Ziel,
-die Rechte der Tiere zu stärken, leider sehr verschwimmen lässt.
+[Das Label "Tierschutzfleisch"](/2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/)
+ist derzeit in immer mehr Supermärkten auf abgepacktem Fleisch zu finden. Eine
+zweifelhafte Art und Weise, die das Ziel, die Rechte der Tiere zu stärken,
+leider sehr verschwimmen lässt.
 
 Umso wichtiger, sich täglich einzusetzen, für wirklichen Tierschutz zu kämpfen,
 sich stark zu machen und weiterhin auf den Konsum von tierischen Produkten zu

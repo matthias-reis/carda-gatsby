@@ -33,10 +33,9 @@ subTitle: 10 Fakten über Veganismus - Teil X
 
 ![Ich bleibe vegan!](http://cardamonchai.com/wp-content/uploads/2015/09/14783170858_21a50b64ff_z.jpg "Ich bleibe vegan!")
 
-<strong><a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/"><span style="text-decoration: underline;"><em>Hier
-gehts zu Teil 9 des Artikels</em></span></a> Im zehnten und letzten Teil meiner
-großen Reportage "10 Fakten über Veganismus" möchte ich Euch heute von meinen
-Erfahrungen und Begegnungen berichten.</strong>
+<strong> [](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) Im
+zehnten und letzten Teil meiner großen Reportage "10 Fakten über Veganismus"
+möchte ich Euch heute von meinen Erfahrungen und Begegnungen berichten.</strong>
 
 "Das ist doch nur ein Hype. Das verschwindet genau so schnell wieder von der
 Bildfläche, wie es dort aufgetaucht ist.", "Das ist wieder so ein Modeding, ich
@@ -56,14 +55,10 @@ entdeckt, probieren tägliche neue Gerichte aus, experimentieren und testen.
 
 ![Johanna Schlitzkus vom Tierhof Amoa | full](http://cardamonchai.com/wp-content/uploads/2014/08/johanna.jpg "Johanna Schlitzkus vom Tierhof Amoa")
 
-Wir haben viel über das Thema Tierrechte<a href="#1"><sup>1</sup></a> gelernt,
-haben uns mit Umweltschutz und dem ökologischen
-Fussabdruck<a href="#2"><sup>2</sup></a> beschäftigt und auch in einigen anderen
-Bereichen des Lebens unsere Meinung geändert. Wir haben selbst und ganz ohne die
-Hilfe von Bienen in unserer Küche Honig<a href="#3"><sup>3</sup></a>
-hergestellt, der Herzmann hat inzwischen die perfekte Seitanmischung kreiert,
-wir kennen den Unterschied zwischen Mungdal und Sojabohnen und ich habe meine
-Liebe für Grünkohl wiederentdeckt.
+Wir haben viel über das Thema Tierrechte [](#1) hergestellt, der Herzmann hat
+inzwischen die perfekte Seitanmischung kreiert, wir kennen den Unterschied
+zwischen Mungdal und Sojabohnen und ich habe meine Liebe für Grünkohl
+wiederentdeckt.
 
 Er hat knapp 20 Kilogramm verloren und hält sein Gewicht seither perfekt. Wir
 fühlen uns beide körperlich viel besser, sind fitter und gesünder. Ich gehe
@@ -75,10 +70,10 @@ besser als je zuvor.
 ![Sebastian Frost](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-23-640x480.jpg "Sebastian Frost")
 
 Ein Zurück kommt für uns beide heute nicht mehr in Frage und das nicht nur, weil
-wir inzwischen die Wahrheit über Milch<a href="#4"><sup>4</sup></a> kennen und
-gegen die Ausbeutung unserer Mitwelt sind. In den zahlreichen Interviews, die
-ich in den letzten Monaten geführt habe, traf ich auf jede Menge kreative,
-interessante, lebensfrohe, nette Menschen aller Generationen.
+wir inzwischen die Wahrheit über Milch [](#4) kennen und gegen die Ausbeutung
+unserer Mitwelt sind. In den zahlreichen Interviews, die ich in den letzten
+Monaten geführt habe, traf ich auf jede Menge kreative, interessante,
+lebensfrohe, nette Menschen aller Generationen.
 
 Ich bin froh, sie alle kennengelernt zu haben und hoffe in Zukunft noch vielen
 weiteren so starken, tollen Leuten zu begegnen, die alle etwas gemeinsam haben:
@@ -90,51 +85,29 @@ die Zeit vergangen ist.
 ## Vielen Dank!
 
 All diesen lieben, tollen Menschen möchte ich danken. Bleibt Euch treu, Ihr seid
-wundervoll, so wie Ihr seid! Könnt Ihr Euch z. B. noch an
-Johanna<a href="#5"><sup>5</sup></a> erinnern? Die freundliche Buddhistin mit
-dem Überlebenshof, für die die Rechte der Tiere immer an erster Stelle stehen?
-Oder an Sebastian<a href="#6"><sup>6</sup></a>, den Sibirienreisenden, der die
-Grenzen des veganen Lebens ausgetestet hat? Denise<a href="#7"><sup>7</sup></a>,
-die vegane Häkelmützen herstellt und die Einnahmen spendet?
-Margit<a href="#8"><sup>8</sup></a> von der veganen, solidarischen
-Landwirtschaft Hamburg? Petra<a href="#9"><sup>9</sup></a>, die mit ihrer
-Taschenkollektion Aufsehen erregt?
+wundervoll, so wie Ihr seid! Könnt Ihr Euch z. B. noch an Johanna [](#5), die
+mit ihrer Taschenkollektion Aufsehen erregt?
 
 ![Denise in Aktion - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/Denise-action-640x960.jpg "Denise in Aktion - Foto: Norbert Zawe")
 
 Und nicht nur hier in meinem persönlichen Blog sind Interviews mit tollen
-Veganer\*innen erschienen. Auch im Welt Vegan
-Magazin<a href="#10"><sup>10</sup></a> und bei Vegan
-News<a href="#11"><sup>11</sup></a> gibt/gab es einiges zu lesen.
-Christiane<a href="#12"><sup>12</sup></a>, die Gründerin der ersten komplett
-veganen Unterkunft in Hamburg, Thomas<a href="#13"><sup>13</sup></a>, der
-Tierrechtsaktivist, Enrico<a href="#14"><sup>14</sup></a>, der Limonadenerfinder
-und Matteo<a href="#15"><sup>15</sup></a>, der auf Sardinien vegane Strandhäuser
-vermietet: Sie alle zähle ich inzwischen zu meinen Freunden, wir tauschen uns
-ständig über Neuigkeiten aus, schreiben und unterhalten uns. Ich habe Gründer
-kennengelernt, eine Theaterleiterin<a href="#16"><sup>16</sup></a>, traf
-Hoteliers, Turnschuhfans<a href="#17"><sup>17</sup></a>,
-Modeschöpfer<a href="#18"><sup>18</sup></a>, Reisende, Entwickler und Mediziner.
+Veganer\*innen erschienen. Auch im Welt Vegan Magazin [](#10), Reisende,
+Entwickler und Mediziner.
 
 ## Ich traf vegane Mediziner
 
 Besonders großen Spaß gemacht haben mir das Interview mit dem veganen Arzt Dr.
-Hanno Platz<a href="#19"><sup>19</sup></a> für Vegan News und das mit der
-veganen Ärztin Barbara Gorißen<a href="#20"><sup>20</sup></a> in meinem Blog.
-Diese beiden Artikel fanden übrigens auch auch den größten Anklang in der
-Online-Gemeinde, sie wurden heiß diskutiert, geteilt, getwittert und gepinnt,
-was das Zeug hält.
+Hanno Platz [](#19) in meinem Blog. Diese beiden Artikel fanden übrigens auch
+auch den größten Anklang in der Online-Gemeinde, sie wurden heiß diskutiert,
+geteilt, getwittert und gepinnt, was das Zeug hält.
 
 ![Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk](http://cardamonchai.com/wp-content/uploads/2015/09/14962182673_1ce3fc866e_z.jpg "Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk")
 
 Auf der Suche nach veganen und tierversuchsfreien Pflegeprodukten habe ich die
-Naturkosmetik entdeckt, tolle neue Sachen<a href="#21"><sup>21</sup></a>
-gefunden und zum Teil sogar selbst hergestellt. Alternativen zum bisher
-Alltäglichen bedeuten für mich keine Abstriche, ganz im Gegenteil: Leder aus
-aussortierten Früchten<a href="#22"><sup>22</sup></a> und Turnschuhe aus Abfall
-sind für mich zwei der genialsten Erfindungen der letzen Jahre! Ich liebe es,
-meinen Matcha-Tee mit Agavendicksaft zu süßen und stehe voll auf meine
-selbstgemachte Lippenpflege aus braunem Zucker und Kokosöl.
+Naturkosmetik entdeckt, tolle neue Sachen [](#21) und Turnschuhe aus Abfall sind
+für mich zwei der genialsten Erfindungen der letzen Jahre! Ich liebe es, meinen
+Matcha-Tee mit Agavendicksaft zu süßen und stehe voll auf meine selbstgemachte
+Lippenpflege aus braunem Zucker und Kokosöl.
 
 "Glaubt mir, es gibt nichts besseres!", könnte ich jetzt schreiben, doch das tue
 ich nicht. Für mich persönlich ist vegan der einzige Weg, ich bin froh, dass ich
@@ -175,10 +148,9 @@ nennen. Es ist und bleibt
 So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich
 Leckeres! Wir lesen uns ganz sicher! Wer im Gegensatz zu mir noch nicht weiß,
 was er/sie heute Abend auf den Tisch bringen könnte:
-<a href="http://cardamonchai.com/category/vegan-2/rezepte/">Hier geht's zu
-meinen Rezepten</a>.
+[Hier geht's zu meinen Rezepten](/category/vegan-2/rezepte/).
 
 [gallery type="rectangular"
 ids="12572,12576,9431,12574,12577,12573,12139,12575"]
 
-## Inhaltsverzeichnis "10 Fakten über Veganismus"<ol><li><a href="/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">Soja, Klimaschutz und ökologischer Fußabdruck</a></li><li><a href="/2014/08/ich-war-so-muede/">Ich war so müde</a>!</li><li><a href="/2014/08/blutige-zahlen/">Blutige Zahlen</a></li><li><a href="/2014/08/vitamin-b12-mythos-und-wahrheit/">Vitamin B12 - Mythos und Fakten</a></li><li><a href="/2014/09/pflanzenmilch-wieso-denn-blos/">Pflanzenmilch? Wieso denn bloß?</a></li><li><a href="/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/">Wolle? Das kann doch gar nicht so schlimm sein!</a></li><li><a href="/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/">Honig? Das ist jetzt aber wirklich übertrieben, oder?</a></li><li><a href="/2014/11/fakepelz-echtpelz/">Fakepelz = Echtpelz</a></li><li><a href="/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">Versteckte tierische Inhaltsstoffe in Lebensmitteln</a></li><li><a href="2015/09/ich-bleib-dabei-vegan-macht-spass">Ich bleib dabei! Vegan macht Spaß!</a></li></ol><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+## Inhaltsverzeichnis "10 Fakten über Veganismus"<ol><li> [](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)

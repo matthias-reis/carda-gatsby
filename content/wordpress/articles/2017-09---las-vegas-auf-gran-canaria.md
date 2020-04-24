@@ -31,10 +31,10 @@ subTitle: Bananen, Papayas und Esel
 ---
 
 <strong>Erst kürzlich habe ich Euch hier von unserem Besuch der
-<a href="http://cardamonchai.com/2017/09/die-einzige-kaffeeplantage-europas/">Finca
-La Laja</a> erzählt. Während unserem Aufenthalt auf Gran Canaria haben wir noch
-eine weitere Finca besucht, die absolut sehenswert ist. Sie trägt einen
-weltberühmten Namen: <em>Las Vegas</em>.</strong>
+[Finca La Laja](/2017/09/die-einzige-kaffeeplantage-europas/) erzählt. Während
+unserem Aufenthalt auf Gran Canaria haben wir noch eine weitere Finca besucht,
+die absolut sehenswert ist. Sie trägt einen weltberühmten Namen: <em>Las
+Vegas</em>.</strong>
 
 Die Finca befindet sich bei Arucas inmitten einer Bananenplantage. Darin liegt
 auch ihr Hauptgeschäft. Besucher dürfen nicht nur die Plantage besichtigen,
@@ -53,14 +53,14 @@ Schritt und Tritt begleiteten.
 ## Wegweiser Gran Canaria
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/05/la-hierba-luisa-cocina-de-la-huerta/">Eine vegane Oase im Herzen von Las Palmas</a></li>
-    <li><a href="http://cardamonchai.com/2017/05/vegan-auf-gran-canaria/">Vegan auf Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/el-iris-de-lucy-las-palmas/">Zeitgenössische Künstlerinnen Afrikas in Las Palmas</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/rund-um-den-leuchtturm-von-maspalomas/">Rund um den Leuchtturm von Maspalomas</a></li>
-    <li><a href="http://cardamonchai.com/2017/07/die-duenen-von-maspalomas/">Die Dünen von Maspalomas</a></li>
-    <li><a href="http://cardamonchai.com/2017/07/gran-canaria-der-sueden/">Mit dem Boot von Bucht zu Bucht</a></li>
-    <li><a href="http://cardamonchai.com/2017/08/las-palmas-de-gran-canaria/">Stadtrundgang in Las Palmas de Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/09/die-einzige-kaffeeplantage-europas/">Die einzige Kaffeeplantage Europas</a></li>
+    <li> [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/) </li>
+    <li> [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/) </li>
+    <li> [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/) </li>
+    <li> [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/) </li>
+    <li> [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/) </li>
+    <li> [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/) </li>
+    <li> [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/) </li>
+    <li> [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/) </li>
     <li>Las Vegas auf Gran Canaria</li>
-    <li><a href="http://cardamonchai.com/2017/09/jardin-canario-gruene-oase-in-tafira/">Jardín Canario - Grüne Oase in Tafira</a></li>
+    <li> [Jardín Canario - Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/) </li>
 </ol>

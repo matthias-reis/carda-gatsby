@@ -105,5 +105,4 @@ Kleidung (und den neuen weißen Küchengardinen) entfernen.
 
 Gefällt Euch das Rezept? Dann wünsche ich Euch viel Spaß beim Kochen! Wenn Ihr
 in Zukunft nichts mehr auf dieser Seite verpassen wollt,
-<a href="#newsletter">abonniert am besten meinen Newsletter</a>. Ich freue mich
-auf Euch!
+[abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!

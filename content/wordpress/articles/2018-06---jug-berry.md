@@ -49,7 +49,7 @@ Herren, die Bühne betritt nun: Jug Berry!
     <li>Saft einer 1/4 Limette</li>
     <li>4 Eiswürfel</li>
     <li>6 Erdbeeren</li>
-    <li>4 cl Fruchtmix <a href="http://cardamonchai.com/2018/05/bio-eistee-konzentrate-von-teatime-im-test/">Früchtetee-Extrakt</a> oder anderen Beerensirup</li>
+    <li>4 cl Fruchtmix  [Früchtetee-Extrakt](/2018/05/bio-eistee-konzentrate-von-teatime-im-test/)  oder anderen Beerensirup</li>
     <li>4 cl Tonic Water (z. B. Tomas Henry)</li>
 </ul>
 

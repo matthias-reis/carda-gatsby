@@ -39,9 +39,9 @@ Kleinigkeiten zukommen lassen könnte. Ich habe heute schon mal einen Tipp für
 Euch.</strong>
 
 Schön sieht er ja schon mal aus
-<a href="http://tidd.ly/19db42da" target="_blank" rel="noopener nofollow">der
-vegane Adventskalender von Xucker.</a> Hinter jedem Türchen steckt vegane
-Gentechnik-freie Edelbitterschokolade mit mindestens 75 Prozent Kakao.
+[der vegane Adventskalender von Xucker.](http://tidd.ly/19db42da) Hinter jedem
+Türchen steckt vegane Gentechnik-freie Edelbitterschokolade mit mindestens 75
+Prozent Kakao.
 
 ## Leckere vegane Schokolade
 
@@ -68,10 +68,9 @@ und hat dann 24 Tage lang was zum Naschen.
 ## Veganer Adventskalender mit Schokolade
 
 Ihr könnt den Xucker Advendskalender zum Preis von 6,90
-<a href="http://tidd.ly/19db42da" target="_blank" rel="noopener nofollow">direkt
-im Xucker Onlineshop bestellen</a>. Wenn Ihr mehr bestellt, erhaltet Ihr einen
-Mengenrabatt: ab zwei beträgt der Stückpreis nur noch 6,80, ab drei 6,70 und ab
-sechs 6,59 Euro.
+[direkt im Xucker Onlineshop bestellen](http://tidd.ly/19db42da). Wenn Ihr mehr
+bestellt, erhaltet Ihr einen Mengenrabatt: ab zwei beträgt der Stückpreis nur
+noch 6,80, ab drei 6,70 und ab sechs 6,59 Euro.
 
 Mit dem Kauf von UTZ-zertifiziertem Kakao unterstützt Xucker nachhaltigen
 Kakaoanbau.
@@ -83,10 +82,10 @@ Rohstoffen. Der Genuss soll die Zähne nicht nur schonen, sondern sogar pflegen.
 Außerdem ist Xylit kalorienarm - es süßt ebenso stark, wie herkömmlicher Zucker,
 enthält allerdings lediglich 40 Prozent der Kalorien. Wenn Ihr mehr über Xucker
 und die Gewinnung des veganen Süßstoffs erfahren möchte,
-<a href="https://wp.me/p533wO-6WI">findet hier weitere Infos</a>. [glry
+[findet hier weitere Infos](https://wp.me/p533wO-6WI). [glry
 name="adventskalender"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

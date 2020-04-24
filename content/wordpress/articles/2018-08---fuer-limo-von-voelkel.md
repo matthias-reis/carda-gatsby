@@ -72,8 +72,7 @@ Fairtrade Zucker Programm.</sub></small>
 Auch die Variante "Blutorange" erinnert mich an die großen Limoflaschen 1995 in
 der Toscana. Einzig das künstliche Aroma glänzt durch Abwesenheit und das ist
 auch gut so. Sie erfrischt gut und eignet sich sicher auch gut als Grundlage zum
-Mixen sommerlicher
-<a href="https://cardamonchai.com/tag/cocktail/">Cocktails</a>. Enthalten sind
+Mixen sommerlicher [Cocktails](/tag/cocktail/). Enthalten sind
 
 ![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/28964053667_890c25fc74_z-400x300.jpg)
 
@@ -116,8 +115,7 @@ Der Geschmack bleibt dabei auf keinen Fall auf der Strecke. Zuerst kitzelt der
 Himbeersaft den Gaumen, dann rundet der Schwarze Johannisbeersaft (Cassis) die
 Nummer ab. Die Süße der Himbeeren wird angenehm abgefedert und tritt nicht zu
 stark in den Vordergrund. Erinnerungen kommen dabei eher ans Beerensammeln in
-<a href="https://cardamonchai.com/category/unterwegs/skandinavien/">Skandinavischen
-Wäldern</a> hoch.
+[Skandinavischen Wäldern](/category/unterwegs/skandinavien/) hoch.
 
 ![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/42091575930_298b2d00e5_z-400x300.jpg)
 
@@ -153,20 +151,19 @@ Dann würde das FÜR auch noch für nachhaltige Verpackung stehen. Für mich wä
 das ein klares Statement für mehr Nachhaltigkeit und würde der Marke gut zu
 Gesicht stehen. Auch wenn die Limo in Supermärkten und Drogeriemärkten verkauft
 wird: Ich denke, dass die breite Masse in Zukunft immer sensibler auf das Thema
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Plastikverpackungen</a>
-reagieren wird und es dem Absatz mit Sicherheit nicht schaden würde.
+[Plastikverpackungen](/2017/08/kenia-sagt-plastiktueten-nein-danke/) reagieren
+wird und es dem Absatz mit Sicherheit nicht schaden würde.
 
 Und es ist doch sowieso viel schöner, wenn man gleich einen ganzen Kasten Limo
-mit an den <a href="http://cardamonchai.com/2011/06/badetag/">Baggersee</a>
-nehmen kann, oder? Der passt perfekt auf einen Fahrrad-Gepäckträger und so hat
-die ganze Clique was davon. Außerdem klingt es gleich viel schöner, wenn man mit
-Glasflaschen anstößt. ;-) In diesem Sinne: Prost!
+mit an den [Baggersee](/2011/06/badetag/) nehmen kann, oder? Der passt perfekt
+auf einen Fahrrad-Gepäckträger und so hat die ganze Clique was davon. Außerdem
+klingt es gleich viel schöner, wenn man mit Glasflaschen anstößt. ;-) In diesem
+Sinne: Prost!
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
 Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte!
-<a href="https://voelkeljuice.de/startseite.html" target="_blank" rel="noopener">Hier
-gehts zur Homepage</a> der Naturkostsafterei.
+[Hier gehts zur Homepage](https://voelkeljuice.de/startseite.html) der
+Naturkostsafterei.

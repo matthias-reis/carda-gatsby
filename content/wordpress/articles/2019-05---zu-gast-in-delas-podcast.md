@@ -79,17 +79,14 @@ Das war wirklich großartig!
 Übrigens: Dela verlost über das Twitter-Profil ihres Podcasts ein Exemplar von
 "die Hermetiker". Unter allen Retweets zu diesem Tweet wird ein<em>e
 Gewinner</em>in gezogen. Also:
-<a href="https://twitter.com/DelasasterCast" target="_blank" rel="noopener">Klickt,
-was das Zeug hält, es lohnt sich</a>!
+[Klickt, was das Zeug hält, es lohnt sich](https://twitter.com/DelasasterCast) !
 
 ### Anhören könnt Ihr Euch den Podcast mit unserem Interview hier:
 
 ![podcast-amreis-die-hermetiker | full](http://cardamonchai.com/wp-content/uploads/2019/05/die-hemetiker-amreis-podcast.png)
 
-<a href="http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/" target="_blank" rel="noopener">PODCAST
-MIT ANNE &amp; MATZE IM INTERVIEW BEI DELA JETZT ANHÖREN</a>
+[PODCAST MIT ANNE &amp; MATZE IM INTERVIEW BEI DELA JETZT ANHÖREN](http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/)
 <a href="http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/" target="_blank" rel="noopener">
 
-\*Delas Twitterprofil
-"<a href="https://twitter.com/Delanji" target="_blank" rel="noopener">Dela und
-die Freuden des Flauschs</a>"
+\*Delas Twitterprofil "[Dela und die Freuden des
+Flauschs](https://twitter.com/Delanji)"

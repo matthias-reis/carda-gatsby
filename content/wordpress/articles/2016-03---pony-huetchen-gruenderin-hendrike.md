@@ -134,7 +134,7 @@ mich auch einen entscheidenden Einfluss gehabt.
 Ressourcenschonung im Vordergrund. Das ist die Hauptmotivation.
 
 <strong>Anne:</strong> Wie erklärst Du es Dir, dass auch heute weltweit noch
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/">Tierversuche</a>
+[Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
 (z. B. für Firmen, die ihre Produkte auch in China vertreiben, dort sind sie
 nach wie vor vorgeschrieben) gemacht werden, obwohl man doch längt
 herausgefunden hat, dass die Ergebnisse nicht vom Tier auf den Menschen
@@ -272,14 +272,12 @@ viel Erfolg und alles Glück der Welt! Vielen Dank für das spannende Interview!
 mich genommen hast!
 
 Wer jetzt neugierig geworden ist, findet alles über Pony Hütchen auf
-<a href="http://www.ponyhuetchen.com/" target="_blank" rel="noopener">ponyhütchen.com</a>.
+[ponyhütchen.com](http://www.ponyhuetchen.com/).
 
-<a href="/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/">Hier gehts zum
-Unboxing und Produkttest der Pony Hütchen Produkte</a>.
+[Hier gehts zum Unboxing und Produkttest der Pony Hütchen Produkte](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/).
 
 [gallery type="thumbnails" link="none" size="small"
 ids="14272,14273,14270,14268,14266,14264"]
 
 Mein Interview mit der Hochzeitsfotografin Petra Hennemann
-<a href="http://cardamonchai.com/2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/).

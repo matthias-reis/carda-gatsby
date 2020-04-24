@@ -51,20 +51,15 @@ mich freue! <strong>"Die vierte Welle"</strong> wurde bereits veröffentlicht un
 das Tolle ist: Ihr könnt sie sofort lesen, wenn Ihr wollt!
 
 Dafür gibt es zwei Möglichkeiten: Entweder Ihr habt einen Kindle, dann könnt ihr
-sie
-<a href="https://amzn.to/2RjhgjP" target="_blank" rel="noopener nofollow">für
-schlanke 99 Cent runterladen</a> und genießen. Alle anderen können sich die
-Kindle-App auf das Smartphone oder Tablet laden und
-<a href="https://amzn.to/2RjhgjP" target="_blank" rel="noopener nofollow">das
-Buch erstehen</a>. Der Preis ist selbstverständlich gleich.
+sie [das Buch erstehen](https://amzn.to/2RjhgjP). Der Preis ist
+selbstverständlich gleich.
 
 Eines möchte ich an dieser Stelle gerne gleich mal loswerden: Ich weiß, viele
 von Euch sind echte Leseratten und lieben eine gute Geschichte. Aus diesem Grund
 möchte ich Euch gerne um <strong>Eure tatkräftige Unterstützung</strong> bitten.
 Wir würden uns unheimlich freuen, wenn Ihr uns
-<a href="https://amzn.to/2RjhgjP" target="_blank" rel="noopener nofollow">auf
-Amazon eine Bewertung hinterlasst</a>. Das wäre für uns wirklich das
-Allergrößte!
+[auf Amazon eine Bewertung hinterlasst](https://amzn.to/2RjhgjP). Das wäre für
+uns wirklich das Allergrößte!
 
 ## Darum geht es in unserer Science-Fiction Kurzgeschichte
 
@@ -78,24 +73,16 @@ bis ins Detail ausgebildet und auf das Leben auf engstem Raum vorbereitet.
 Mit ihrer Ankunft in dem fremden Universum können sie endlich mit dem
 Terraforming und der anschließenden Besiedlung beginnen.</blockquote>
 
-<a href="https://amzn.to/2RjhgjP" target="_blank" rel="noopener nofollow">Die
-Geschichte um Mijkl und seine Gefährt\*innen</a> ist, wie schon kurz angedeutet,
-nicht unser einziges Projekt, in dem wir uns als Schriftsteller-Ehepaar versucht
-haben. In Kürze schon steht etwas Größeres an: Ein Roman! Für die Neugierigen
-unter Euch hat Matze <a href="https://amreis.de/">eine eigene Homepage für
-unsere Bücher</a> gebaut. Dort findet Ihr unter anderem auch schon eine
-Leseprobe von "Die Hermetiker".
+[eine eigene Homepage für unsere Bücher](https://amzn.to/2RjhgjP) gebaut. Dort
+findet Ihr unter anderem auch schon eine Leseprobe von "Die Hermetiker".
 
-![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/die-vierte-Welle.png '<a href="https://amreis.de/" target="_blank" rel="noopener"> </a> "Die vierte Welle" - Eine Science-Fiction Kurzgeschichte von A. M. Reis - <a style="display: inline;" href="https://amreis.de/" target="_blank" rel="noopener">Jetzt Webseite besuchen</a>')
+![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/die-vierte-Welle.png " [Jetzt Webseite besuchen](https://amreis.de/) ")
 
 Wie gefällt Euch die Seite? Und vor allem, wie gefällt Euch das
-<a href="https://amzn.to/2RjhgjP" target="_blank" rel="noopener nofollow">unsere
-Kurzgeschichte</a>? Ich bin schon sehr gespannt! Besonders klasse wäre es, wie
-gesagt, wenn Ihr uns <a href="https://amzn.to/2RjhgjP">Eure Rezension auf
-Amazon</a> hinterlasst. Außerdem könnt Ihr unsere freudigen Nachrichten
-natürlich auch herzlich gerne weitererzählen! Leute, wir brauchen wirklich Eure
-Unterstützung! Das würde uns sehr glücklich machen! Also kommentiert am besten,
-was das Zeug hält!
+[Eure Rezension auf Amazon](https://amzn.to/2RjhgjP) hinterlasst. Außerdem könnt
+Ihr unsere freudigen Nachrichten natürlich auch herzlich gerne weitererzählen!
+Leute, wir brauchen wirklich Eure Unterstützung! Das würde uns sehr glücklich
+machen! Also kommentiert am besten, was das Zeug hält!
 
 Sorry, das war heute ganz schön viel Werbung in eigener Sache, ich weiß. Aber
 ihr wisst ja sicher auch, wie das ist, wenn man dieses eine ganz besondere
@@ -103,12 +90,11 @@ Projekt hat, das einem so sehr am Herzen liegt, dass man es einfach in die Welt
 raus schrei(b)en möchte. Genau das ist "Die vierte Welle" für mich. Und "Die
 Hermetiker". Doch dazu bald mehr...
 
-<a href="https://amzn.to/2RjhgjP" target="_blank" rel="noopener nofollow">📖
-Jetzt Buch auf Amazon ansehen</a>
+[📖 Jetzt Buch auf Amazon ansehen](https://amzn.to/2RjhgjP)
 
-![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/amreis.png '<a href="https://amreis.de/" target="_blank" rel="noopener"> </a> A. M. Reis - Das Schriftsteller-Ehepaar - <a style="display: inline;" href="https://amreis.de/" target="_blank" rel="noopener">Jetzt Webseite besuchen</a>')
+![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/amreis.png " [Jetzt Webseite besuchen](https://amreis.de/) ")
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung (in diesem Fall in eigener Sache)
 und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meiner  [Transparenz-Seite](/werbung/). </em>

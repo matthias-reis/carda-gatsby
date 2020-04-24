@@ -242,11 +242,11 @@ Facetten. Training von Hunden zum Umgang mit Menschen ist genauso dabei, wie
 Umgang mit den Vierbeinern gelehrt, damit der Tierschutz schon bei der Auswahl
 der Hausgenossen anfangen kann.
 
-Aber auch klassischer
-<a href="/category/gesellschaft/tierschutz/">Tierschutz</a> im Bereich Wildtiere
-ist Aufgabe des Vereins. <em>Graues Gold e. V.</em> unterstützt die Arbeit der
-Eichhörnchen Auffangstation <em>Wilde Kreaturen\*</em> in Dorsten in vielfacher
-Hinsicht. Wir gehen rücksichtsvoll mit Tieren um.
+Aber auch klassischer [Tierschutz](/category/gesellschaft/tierschutz/) im
+Bereich Wildtiere ist Aufgabe des Vereins. <em>Graues Gold e.
+V.</em> unterstützt die Arbeit der Eichhörnchen Auffangstation <em>Wilde
+Kreaturen\*</em> in Dorsten in vielfacher Hinsicht. Wir gehen rücksichtsvoll mit
+Tieren um.
 
 <strong>Anne:</strong> Was steht in Zukunft an? Sind neue Projekte geplant? Wie
 geht es mit dem Cookie's Veggies weiter?
@@ -279,9 +279,9 @@ auf Spenden angewiesen.\*
 ## Links:
 
 <ul>
-    <li>Homepage Cookie's Veggies: <a href="https://cookies-veggies.de/" target="_blank" rel="noopener">Hier entlang</a></li>
-    <li>Homepage Graues Gold e. V.: <a href="https://www.graues-gold.org/" target="_blank" rel="noopener">Hier entlang</a></li>
-    <li>Homepage Wilde Kreaturen: <a href="https://www.wilde-kreaturen.help/" target="_blank" rel="noopener">Hier entlang</a></li>
+    <li>Homepage Cookie's Veggies:  [Hier entlang](https://cookies-veggies.de/) </li>
+    <li>Homepage Graues Gold e. V.:  [Hier entlang](https://www.graues-gold.org/) </li>
+    <li>Homepage Wilde Kreaturen:  [Hier entlang](https://www.wilde-kreaturen.help/) </li>
 </ul>
 
 ## Spendenkonto Iris-Koczwara-Stiftung

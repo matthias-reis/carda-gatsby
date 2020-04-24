@@ -56,5 +56,5 @@ geht. Hier meine Bilderserie.
 [gallery columns="1" size="medium" link="none" type="rectangular"
 ids="4482,4483,4484,4485,4486,4487,4488,4489,4490,4491,4492,4493,4494,4495,4496,4497,4498,4500,4501,4502,4503,4504,4505,4506,4507,4512,4513,4514,4515,4516,4517,4518,4519,4520,4521"]
 
-<a title="Calexico live @ Muffathalle" href="http://cardamonchai.com/2012/12/calexico-live-muffathalle-munchen-29-11-2012/">Hier</a>
-findet Ihr meine Bilder vom Calexico-Auftritt
+[Hier](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/) findet Ihr meine
+Bilder vom Calexico-Auftritt

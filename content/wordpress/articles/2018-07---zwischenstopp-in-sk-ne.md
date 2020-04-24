@@ -36,12 +36,8 @@ subTitle: Glitzernde Ostsee am weißen Strand
 Unser sommerlicher Roadtrip dieses Jahr führte uns an ein paar wirklich schöne
 Orte. Einer davon ist die Schwedische Provinz Skåne.</strong>
 
-Nach unserer
-<a href="http://cardamonchai.com/2018/07/radtour-durch-kopenhagen/">Anreise über
-Dänemark</a> hatten wir dort am 20. Juni einen wundervollen, entspannten Tag am
-Strand. Ein schöner Gedanke, noch ein paar Tage zuvor
-<a href="http://cardamonchai.com/2018/06/wanderung-zum-koenigsstuhl/">die
-glitzernde Ostsee</a> von der anderen Seite bewundert zu haben.
+Nach unserer [die glitzernde Ostsee](/2018/07/radtour-durch-kopenhagen/) von der
+anderen Seite bewundert zu haben.
 
 Skåne zählt zusammen mit den Dänischen Inseln Bornholm, Seeland, Lolland, Møn
 und Falster zur Öresundregion. Im Norden grenzt es an Småland, im Osten an

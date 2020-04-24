@@ -29,7 +29,7 @@ Blumen verschenken, welche Gründe wir dafür haben und warum wir uns freuen, we
 wir welche geschenkt bekommen.</b>## Erste große Tradition: Valentinstag
 
 Der Brauch geht sehr weit zurück. Im antiken Rom wurde am 14. Februar die
-<a href="http://matriarchat.net/grundlagen/gueterverteilung/feste_feiern/lupercalia.html">Lupercalia</a>
+[Lupercalia](http://matriarchat.net/grundlagen/gueterverteilung/feste_feiern/lupercalia.html)
 gefeiert, das Fest zu Ehren der großen Göttin Lupa (Göttin der Wölfe) in Ihrem
 Aspekt der Göttin Juno (Liebesgöttin) Göttin Lupa (Göttin der Wölfe) in Ihrem
 Aspekt der Göttin Juno (Liebesgöttin). An diesem Tag wurden Paare in einer Art
@@ -38,10 +38,10 @@ auf die die Damen zuvor ihre Namen notiert hatten. Dabei wurden der Göttin Juno
 Blumen geopfert. Ursprünglich ist das Lupercalia-Fest ein Fest der Hirten zu
 Ehren des Gottes Faunes.
 
-<a href="http://de.wikipedia.org/wiki/Valentin_von_Terni">Bischof Valentin
-</a>soll den von ihm, gegen das Verbot von Kaiser Claudius II., getrauten Paaren
-Blumen geschenkt haben. Er wurde am 14. Februar 269 wegen seines katholischen
-Glaubens hingerichtet.
+[Bischof Valentin](http://de.wikipedia.org/wiki/Valentin_von_Terni) soll den von
+ihm, gegen das Verbot von Kaiser Claudius II., getrauten Paaren Blumen geschenkt
+haben. Er wurde am 14. Februar 269 wegen seines katholischen Glaubens
+hingerichtet.
 
 ## Zweite große Tradition: Muttertag
 

@@ -100,5 +100,4 @@ Ausgabe vorbestellen.
 
 <iframe src="https://www.youtube.com/embed/q7DfQMPmJRI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<strong>Music &amp; Artwork:</strong>
-<a href="https://toolband.com/" target="_blank" rel="noopener">Tool</a>
+<strong>Music &amp; Artwork:</strong> [Tool](https://toolband.com/)

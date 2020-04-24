@@ -41,9 +41,9 @@ dafür war starke Gegenwehr durch die Landwirtschaft.
 
 Das Deutsche Tierschutzbüro führt die Aktion nun fort und setzt sich damit für
 die Änderung der Gesetze ein. Unter der URL
-<a href="http://neue-bauernregeln.com" target="_blank" rel="noopener">neue-bauernregeln.com</a> fordert
-es das Landwirtschaftsministerium dazu auf, bestehende Gesetze zu hinterfragen
-und eine Verbesserung für die Tiere herbeizuführen.
+[neue-bauernregeln.com](http://neue-bauernregeln.com)  fordert es das
+Landwirtschaftsministerium dazu auf, bestehende Gesetze zu hinterfragen und eine
+Verbesserung für die Tiere herbeizuführen.
 
 ## Tiere müssen wie Mitgeschöpfe behandelt werden
 
@@ -54,8 +54,7 @@ Fleischindustrie stehen. Berufen wird sich dabei auf §1 des Tierschutzgesetzes.
 <blockquote>Zweck dieses Gesetzes ist es, aus der Verantwortung des Menschen für das Tier als Mitgeschöpf dessen Leben und Wohlbefinden zu schützen. Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.</blockquote>
 
 Wie dieses Gesetz ausgelegt wird, wird auf
-<a href="http://neue-bauernregeln.com" target="_blank" rel="noopener">neue-bauernregeln.com</a>
-klar veranschaulicht.
+[neue-bauernregeln.com](http://neue-bauernregeln.com) klar veranschaulicht.
 
 <blockquote>Ein Masthuhn hat in der Massentierhaltung Platz in der Größe eines DIN A4-Blattes. Nach 35 Tagen wird es geschlachtet.</blockquote>
 
@@ -73,14 +72,11 @@ Das Deutsche Tierschutzbüro setzt sich für die Rechte der Tiere ein. Jüngst
 sorgt es wieder mit einer Anti-Pelz-Kampagne für Aufsehen, bei der die
 Aktivisten in Uniform als "Pelzfahnder" in den Innenstädten auftreten. Vor
 einiger Zeit habe ich hier im Blog über die
-<a href="http://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/">Tierpatenschaften
-des DTB</a> berichtet.
+[Tierpatenschaften des DTB](/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/)
+berichtet.
 
 Wer mehr erfahren möchte, findet das Deutsche Tierschutzbüro
-<a href="https://www.facebook.com/Tierschutzbuero/?fref=ts" target="_blank" rel="noopener">hier
-auf
-Facebook</a> und <a href="https://www.tierschutzbuero.de/" target="_blank" rel="noopener">hier
-geht es zur Homepage</a>.
+[hier geht es zur Homepage](https://www.facebook.com/Tierschutzbuero/?fref=ts).
 
 Wenn Ihr die Aktion <em>Neue Bauernregeln </em>unterstützen wollt, klickt am
 besten einfach hier auf das Banner.

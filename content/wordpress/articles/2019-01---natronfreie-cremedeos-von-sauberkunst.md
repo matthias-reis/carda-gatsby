@@ -63,14 +63,13 @@ Viele Cremedeos werden auf der Basis von Natron hergestellt. Daher war ich auf
 den Test der natronfreien Deos, die man bei Sauberkunst extra für Personen mit
 empfindlicher Haut entwickelt hat, besonders gespannt.
 
-Die klassischen Sauberkunst Deos hatte ich ja schon getestet
-(<a href="https://cardamonchai.com/2018/06/liebe-post-von-sauberkunst/">hier
-mein Bericht</a>), daher hatte ich sogar den direkten Vergleich. Besonders
-gefallen hat mir die Konsistenz der "Softie-Version". Sie kommt mir tatsächlich
-noch etwas samtiger vor, als bei den Klassikern. Genau wie bei der bekannten
-Ausführung sind die natronfreien Deocremes farblos. Es färbt also nichts auf die
-Kleidung ab, wie Ihr das bestimmt von ein paar ähnlichen Produkten anderer
-Hersteller kennt.
+Die klassischen Sauberkunst Deos hatte ich ja schon getestet (
+[hier mein Bericht](/2018/06/liebe-post-von-sauberkunst/) ), daher hatte ich
+sogar den direkten Vergleich. Besonders gefallen hat mir die Konsistenz der
+"Softie-Version". Sie kommt mir tatsächlich noch etwas samtiger vor, als bei den
+Klassikern. Genau wie bei der bekannten Ausführung sind die natronfreien
+Deocremes farblos. Es färbt also nichts auf die Kleidung ab, wie Ihr das
+bestimmt von ein paar ähnlichen Produkten anderer Hersteller kennt.
 
 Den Härtetest beim Bikram Yoga (Yoga bei rund 40 Grad Raumtemperatur) haben sie
 nicht bestanden. Aber es handelt sich dabei ja auch nicht um Antitranspiranten,
@@ -96,7 +95,7 @@ schnell wieder fest.
 Unangenehmer Geruch wird also wie schon erwähnt verhindert, die Schweißdrüsen
 werden jedoch in ihrer Funktion nicht behindert. Das Hautgefühl ist unter der
 leichten Creme sehr frisch und angenehm. Nach der
-<a href="http://cardamonchai.com/2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/">Rasur</a>
+[Rasur](/2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/)
 brennt und kribbelt nichts. Der Duft ist kein bisschen aufdringlich. Man kann
 also problemlos das gewohnte Parfum auftragen, ohne, dass er sich "einmischt".
 Das gilt für beide von mir getesteten Varianten - für mich ein ergiebiger Hauch
@@ -131,15 +130,12 @@ duftendes Stück "Zauberwald" beschert. Vielen lieben Dank an dieser Stelle! Die
 Seifen sind im Einsatz und bringen unser Bad zum duften. &lt;3
 
 Wer mehr über die tollen Seifen und festen Shampoos von Sauberkunst erfahren
-möchte, kann gerne
-<a href="https://cardamonchai.com/2018/02/unboxing-sauberkunst/">hier
-klicken</a>.
+möchte, kann gerne [hier klicken](/2018/02/unboxing-sauberkunst/).
 
 [gallery type="rectangular" link="none" size="medium" ids="23216,23213"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
 
 &nbsp;

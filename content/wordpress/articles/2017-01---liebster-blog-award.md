@@ -70,26 +70,17 @@ war uns beiden klar, dass es kein Zurück mehr geben würde. Wir haben uns seit
 der Umstellung viel mit Umweltschutz und Tierrechten beschäftigt.
 
 Einiges ist uns wie Schuppen von den Augen gefallen. Filme wie
-<a href="http://earthlings.de/" target="_blank" rel="noopener"><em>Earthlings</em></a>
-haben uns in unserer Entscheidung bekräftigt. Ich habe dann auch angefangen für
-mein Blog zu recherchieren, habe unter anderem einen Artikel über
-den<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">
-ökonomischen Fußabdruck</a> geschrieben und mich mit der
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">Milchindustrie</a>
-beschäftigt.
+[Milchindustrie](http://earthlings.de/) beschäftigt.
 
 ## Ich habe viel recherchiert
 
-In der Zeit habe ich dann auch angefangen für
-<a href="http://cardamonchai.com/?s=vegan+news"><em>Vegan News</em></a> und für
-das <a href="http://cardamonchai.com/?s=welt+vegan+magazin"><em>Welt Vegan
-Magazin</em></a> zu schreiben. Mehr und mehr Tatsachen und Fakten kamen hinzu
-und ich war mir von Tag zu Tag klarer darüber, dass ich nicht wieder zurück
-möchte. Außerdem schmeckt es halt auch einfach so wahnsinnig gut. Essen ist seit
-der Ernährungsumstellung etwas unheimlich Tolles für mich geworden. Früher war
-es mehr so eine Art Notwendigkeit. Ich genieße jeden Bissen, Matze und ich
-kochen zusammen, probieren neue Rezepte und Zutaten aus und kreieren sogar
-selbst Gerichte.
+In der Zeit habe ich dann auch angefangen für [](/?s=vegan+news) zu schreiben.
+Mehr und mehr Tatsachen und Fakten kamen hinzu und ich war mir von Tag zu Tag
+klarer darüber, dass ich nicht wieder zurück möchte. Außerdem schmeckt es halt
+auch einfach so wahnsinnig gut. Essen ist seit der Ernährungsumstellung etwas
+unheimlich Tolles für mich geworden. Früher war es mehr so eine Art
+Notwendigkeit. Ich genieße jeden Bissen, Matze und ich kochen zusammen,
+probieren neue Rezepte und Zutaten aus und kreieren sogar selbst Gerichte.
 
 ![Award](http://cardamonchai.com/wp-content/uploads/2017/01/11501151886_22baaaa304_o-640x964.jpg)
 
@@ -111,8 +102,7 @@ Spaßbremsen sind (ich weiß, ein überstrapaziertes Klischee) – was erwiderst
 
 <strong>Anne:</strong> Ich zitiere dann, wie auch in anderen Situationen, die
 das Leben so mit sich bringt, immer ganz gerne. Zum Beispiel einen meiner
-Lieblingsblogger, den
-<a href="http://graslutscher.de/" target="_blank" rel="noopener"><em>Graslutscher</em></a>.
+Lieblingsblogger, den [](http://graslutscher.de/).
 
 <blockquote>"Immer, wenn jemand "Pflanzen haben auch Gefühle!" sagt, stelle ich mir vor, wie zwei Petunien eng umschlungen im Kino bei <em>Titanic </em>weinen."</blockquote>
 
@@ -152,20 +142,8 @@ Das wird sicher wahnsinnig schön, das Line-up ist wie für mich gemacht.
 
 <strong>Anne:</strong> Alles von <em>Russian Circles</em>, <em>Mogwai</em>,
 <em>Explosions In The Sky</em>,
-<a href="http://cardamonchai.com/2018/09/nine-inch-nails-zitadelle-spandau/"><em>Nine
-Inch Nails</em></a> und <em>Mono</em>. Die elektronische Ecke füllt derzeit
-<em>Dominic Eulberg</em> aus Hamburg ein Bisschen aus. <em>Moth &amp;
-Flame </em>von <em>&amp;</em> aus der Serie <em>Mister Robot </em>ist
-wunderschön, außerdem mag ich gerne gute Folk-Musik. Aktuell ist bei mir auch
-die Musik von <em>Chevelle </em>wieder häufiger auf dem Plattenteller zu
-finden. <em>The Fat White Family </em>macht auch grade richtig Spaß. Ein
-Bisschen Postpunk muss eben auch ab und zu sein. Den <em>Twin
-Peaks </em>Soundtrack ziehe ich mir grade auch wieder häufiger rein. Ich freue
-mich so sehr auf die neuen Folgen! Ich höre jetzt mal auf, denn da hast Du ein
-Bisschen einen Nerv bei mir getroffen. Das läuft sonst ins Endlose. Hier im Blog
-findest Du eine kleine
-<a href="http://cardamonchai.com/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/musik-buecher-und-filme/">Musikliste</a>,
-wenn Du mehr wissen willst. :-D
+[Musikliste](/2018/09/nine-inch-nails-zitadelle-spandau/), wenn Du mehr wissen
+willst. :-D
 
 <strong>Elbgängerin:</strong> Du bist kürzlich nach Altona gezogen – wie fühlt
 sich der Stadtteil für Dich inzwischen an?
@@ -198,11 +176,11 @@ für immer hier bleiben. Die Stadt zieht einen einfach magisch an.
 ## Der Award zieht weiter
 
 Jetzt ist es an mir, jemanden für den <em>Liebster Blog Award </em>zu
-nominieren. Meine 11 Fragen möchte ich gerne an Patricia
-von <em><a href="https://patriciasteinpictures.wordpress.com/" target="_blank" rel="noopener">One
-Moment</a> </em>richten. Weil mir ihre Bilder unheimlich gut gefallen und weil
-ich mich schon immer gerne mal mit ihr darüber unterhalten möchte. Ich bin
-gespannt, ob sie die Nominierung annimmt!
+nominieren. Meine 11 Fragen möchte ich gerne an Patricia von <em>
+[One Moment](https://patriciasteinpictures.wordpress.com/)  </em>richten. Weil
+mir ihre Bilder unheimlich gut gefallen und weil ich mich schon immer gerne mal
+mit ihr darüber unterhalten möchte. Ich bin gespannt, ob sie die Nominierung
+annimmt!
 
 Hier meine 11 Fragen an Patricia:
 
@@ -226,9 +204,9 @@ Deinem Award! &lt;3
 ## Alle Awards, die diesem Blog bisher verliehen wurden
 
 <ul>
-    <li><a href="http://cardamonchai.com/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/">Erbeerkuchen mit Grün 2011</a></li>
-    <li><a href="http://cardamonchai.com/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/">Best Blog Award 2013</a></li>
-    <li><a href="http://cardamonchai.com/2014/11/and-the-nominees-are/">Liebster Blog Award 2014</a></li>
+    <li> [Erbeerkuchen mit Grün 2011](/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/) </li>
+    <li> [Best Blog Award 2013](/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/) </li>
+    <li> [Liebster Blog Award 2014](/2014/11/and-the-nominees-are/) </li>
     <li>Liebster Blog Award 2017</li>
-    <li><a href="http://cardamonchai.com/2017/10/mystery-blogger-award-mein-blog-ist-dabei/">Mystery Blogger Award 2017</a></li>
+    <li> [Mystery Blogger Award 2017](/2017/10/mystery-blogger-award-mein-blog-ist-dabei/) </li>
 </ul>

@@ -70,9 +70,8 @@ reinschauen!
 Wer schon einen tollen Jutebeutel besitzt, der aber nur zwei langweilige
 0815-Henkel hat, kann ihn auch ganz leicht mit ein paar Handgriffen mit meiner
 Nähanleitung
-<a href="http://cardamonchai.com/2015/09/diy-upcycling-turnbeutel/">DIY Upcyling
-Jutebeutel-Rucksack</a> umgestalten. Für Einsteiger ist das auch eine schöne
-Übung!
+[DIY Upcyling Jutebeutel-Rucksack](/2015/09/diy-upcycling-turnbeutel/)
+ umgestalten. Für Einsteiger ist das auch eine schöne Übung!
 
 Auf dem Bild unten seht Ihr übrigens auch meinen derzeitigen Nähplatz mit meiner
 neuen Toyota Oekeaki Nähmaschine. Ich habe ja vor, mich nach dem Umzug ein
@@ -88,6 +87,4 @@ ids="14721,14723"]
 
 <iframe src="https://www.youtube.com/embed/fvIMFC3esDM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

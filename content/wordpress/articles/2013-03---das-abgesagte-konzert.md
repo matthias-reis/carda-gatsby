@@ -63,7 +63,7 @@ subTitle: Nächstes Mal wird es dafür doppelt schön
 meine Frisur gefallen hätte. Das Konzert wurde leider abgesagt. Der Ticketshop
 ist überfordert und weiß nicht, was zu tun ist.</strong>
 
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda5-640x640.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2013/03/amanda5.jpg"> </a> Two tickets to paradise')
+![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda5-640x640.jpg " [](/wp-content/uploads/2013/03/amanda5.jpg)  Two tickets to paradise")
 
 Gleich an erster Stelle: Lieber Antony, ich wünsche Dir alles Gute, wir hoffen,
 dass es Dir bald besser gehen wird. Amanda soll Dich von uns drücken. Wir denken
@@ -71,8 +71,8 @@ hier an Euch!
 
 Zu Weihnachten wollte ich meinem Herzmann eine ganz besondere Freude machen und
 schenkte ihm Eintrittskarten für ausgewählte Konzerte. Unter anderem eine für
-<a title="Amanda Palmer" href="http://www.amandapalmer.net/" target="_blank" rel="noopener">Amanda
-Palmer</a>. Das Konzert sollte gestern Abend im Ampere in München stattfinden.
+[Amanda Palmer](http://www.amandapalmer.net/). Das Konzert sollte gestern Abend
+im Ampere in München stattfinden.
 
 Zur Feier des Tages stylte ich mich ganz im Amanda-Look. Natürlich durfte auch
 ihre legendäre Flecht-Frisur nicht fehlen. Wir packten die Kamera ein und
@@ -84,7 +84,7 @@ war. Ein Mitarbeiter wies uns darauf hin, dass das Konzert in die benachbarte
 Muffathalle verlegt worden war. Wir wunderten uns kurz, dass uns niemand per
 E-Mail informiert hatte und gingen rüber.
 
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda4-640x640.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2013/03/amanda4.jpg"> </a> Amanda-Look')
+![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda4-640x640.jpg " [](/wp-content/uploads/2013/03/amanda4.jpg)  Amanda-Look")
 
 Wir gaben unsere Jacken ab und wurden darauf hingewiesen, dass sich das Konzert
 noch etwas verzögern würde, also nahmen wir im angeschlossenen Café Platz, um
@@ -104,12 +104,11 @@ vorgefunden:
 Orchestra dazu entscheiden, einen Großteil ihrer anstehenden Tourtermine
 abzusagen. Amandas bester Freund Antony ist schwer erkrankt und sie möchte ihm
 in Boston beistehen. Amanda, die über ihr Blog sehr eng mit ihren Fans verbunden
-ist, hat
-<a title="Amanda Blog" href="http://bit.ly/blog120612" target="_blank" rel="noopener">dort
-bereits darüber berichtet</a>.Von der Absage sind auch die ursprünglich für März
-geplanten deutschen Konzerte in München, Köln, Berlin und Hamburg betroffen.
-Bereits im Vorverkauf erworbene Karten können bei den jeweiligen
-Vorverkaufsstellen zurückerstattet werden.'</em>
+ist, hat [dort bereits darüber berichtet](http://bit.ly/blog120612). Von der
+Absage sind auch die ursprünglich für März geplanten deutschen Konzerte in
+München, Köln, Berlin und Hamburg betroffen. Bereits im Vorverkauf erworbene
+Karten können bei den jeweiligen Vorverkaufsstellen zurückerstattet
+werden.'</em>
 
 ![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda1.png "Amanda Palmer And The Grand Theft Orchestra")
 
@@ -153,10 +152,10 @@ Sicherlich ein Vorfall, der uns normalerweise gerade mal ein Schmunzeln gekostet
 hätte, gestern Abend brachte er das Fässchen endgültig zum Überlaufen.
 
 Auf der Rückfahrt studierten wir die Texte der aktuellen
-<a title="Billy Talent" href="http://www.billytalent.com" target="_blank" rel="noopener">Billy
-Talent</a> LP ein. Bei, wie man sich das vorstellen kann, voller Lautstärke. Zu
-Hause angekommen, schafften wir es, als kleine Wiedergutmachung wenigstens noch,
-uns die Wiederholung des neuen Hamburger Tatorts anzusehen.
+[Billy Talent](http://www.billytalent.com) LP ein. Bei, wie man sich das
+vorstellen kann, voller Lautstärke. Zu Hause angekommen, schafften wir es, als
+kleine Wiedergutmachung wenigstens noch, uns die Wiederholung des neuen
+Hamburger Tatorts anzusehen.
 
 ![](http://cardamonchai.com/wp-content/uploads/2013/03/billy.png "Billy Talent Texte üben")
 
@@ -183,13 +182,13 @@ Einschreiben mit den Tickets einen kurzen Brief beizulegen. Ich bin nun sehr
 gespannt auf die Reaktion. Sollte sich nichts mehr ergeben, werde ich meine
 Karten auf jeden Fall ab jetzt wieder wo anders bestellen. Werde heute
 versuchen, mir Tickets für die
-<a title="Trail Of Dead" href="https://andyouwillknowusbythetrailofdead.bandpage.com/" target="_blank" rel="noopener">Trail
-Of Dead</a> Show in München zu sichern. Als Ersatz für dieses nicht eingelöste
-Geschenk und vor allem auch, weil ich die Band liebe, seit ich sie das erste Mal
-gehört habe. Drückt mir die Daumen, dass ich dieses Mal bessere Erfahrungen
-machen werde. Ich werde heute Abend mal beim örtlichen Kartenvorverkauf
-vorbeischauen. Bis sich die Wogen wieder geglättet haben, werde ich erstmal die
-Finger von Online-Ticketshops lassen.
+[Trail Of Dead](https://andyouwillknowusbythetrailofdead.bandpage.com/) Show in
+München zu sichern. Als Ersatz für dieses nicht eingelöste Geschenk und vor
+allem auch, weil ich die Band liebe, seit ich sie das erste Mal gehört habe.
+Drückt mir die Daumen, dass ich dieses Mal bessere Erfahrungen machen werde. Ich
+werde heute Abend mal beim örtlichen Kartenvorverkauf vorbeischauen. Bis sich
+die Wogen wieder geglättet haben, werde ich erstmal die Finger von
+Online-Ticketshops lassen.
 
 Sollte ich keine Reaktion auf mein Schreiben erhalten, werde ich außerdem
 darüber nachdenken, den Namen des großen Ticket-Versandhauses in dieses Blogpost

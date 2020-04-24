@@ -52,11 +52,11 @@ subTitle: Frühling aus dem Karton
 <em>Werbung\*</em>
 
 <strong>Mit Ina vom
-<a href="http://cardamonchai.com/2017/02/vegan-beauty-basket-interview/">Vegan
-Beauty Basket</a> hatte ich vereinbart, den März-Korb mal wieder hier im Blog
-vorzustellen. Die letzten Wochen war ich daher mehr als gespannt, was er wohl
-enthalten würde. Als dann das Paket bei mir eintraf, musste es
-selbstverständlich umgehend ausgepackt werden.</strong>
+[Vegan Beauty Basket](/2017/02/vegan-beauty-basket-interview/) hatte ich
+vereinbart, den März-Korb mal wieder hier im Blog vorzustellen. Die letzten
+Wochen war ich daher mehr als gespannt, was er wohl enthalten würde. Als dann
+das Paket bei mir eintraf, musste es selbstverständlich umgehend ausgepackt
+werden.</strong>
 
 Heraus purzelten eine Handcreme, ein Toner, ein Nagellack, ein Shampoo sowie ein
 Eyeliner. Soviel in Kürze.
@@ -90,17 +90,9 @@ gerade zur Neige geht und ich mir eigentlich gerade eine neue Flasche besorgen
 wollte, kam der Daily Defence Mist von Evolve Organic Beauty gerade recht. Was
 als Erstes auffällt: Es kühlt angenehm, brennt nicht und duftet sehr angenehm.
 
-Zusammen mit einer guten
-<a href="http://cardamonchai.com/2018/01/ashera-yin-yang-balance/">Gesichtscreme</a> bildet
-es für mich die perfekte Unterlage und dem täglichen Make-up. Extrakte aus
-Afrikanischen Moringa-Samen sollen die Poren vor Unreinheiten schützen, Auszüge
-aus Mexikanischen Kakteen gereizte Haut beruhigen. Hergestellt wird es im
-<a href="https://cardamonchai.com/category/unterwegs/england/">Englischen</a>
-Herts. Meines wurde von Leanne gemacht. So steht es auf der kleinen Glasflasche.
-Was jetzt schon sicher ist: Ein Fläschchen davon wird mit mir auf das nächste
-<a href="https://cardamonchai.com/category/musik/festivals/">Festival</a>
-reisen. Es kann auch über dem Make-up aufgetragen werden und da es so angenehm
-kühlt, ist es ein willkommener Frischekick für zwischendurch.
+Zusammen mit einer guten [Festival](/2018/01/ashera-yin-yang-balance/) reisen.
+Es kann auch über dem Make-up aufgetragen werden und da es so angenehm kühlt,
+ist es ein willkommener Frischekick für zwischendurch.
 
 ![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/40883544741_c55b776bc6_z-400x267.jpg)
 
@@ -110,14 +102,10 @@ und Mandarinenöl.
 ## Ein Eyeliner komplett ohne Plastik
 
 Der Eyeliner ist der erste, den ich in Händen halte, der
-<a href="http://cardamonchai.com/2017/04/interview-mit-zero-waste-aktivistin-vio/">komplett
-ohne Plastik </a>auskommt. Ich finde das klasse. So langsam merkt auch die
-Kosmetikbranche, wie lange es dauert,
-<a href="http://cardamonchai.com/2018/03/world-ocean-summit-2018/">bis
-Kunststoff sich zersetzt</a> und dass es auch gut ohne geht. Doch nicht nur
-dafür möchte ich den Boho Green Eyeliner positiv erwähnen. Er glänzt nicht zu
-stark, hält irre lange, lässt sich gut auftragen und bröckelt nicht. Ich würde
-ihn auf jeden Fall wieder kaufen.
+[bis Kunststoff sich zersetzt](/2017/04/interview-mit-zero-waste-aktivistin-vio/)
+und dass es auch gut ohne geht. Doch nicht nur dafür möchte ich den Boho Green
+Eyeliner positiv erwähnen. Er glänzt nicht zu stark, hält irre lange, lässt sich
+gut auftragen und bröckelt nicht. Ich würde ihn auf jeden Fall wieder kaufen.
 
 ![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/39989999435_6fd07b6b29_z-400x267.jpg)
 
@@ -142,18 +130,16 @@ Berichtet doch mal, wie  Euch die Produkte gefallen.
 ## Wegweiser Vegan Beauty Basket
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/08/vegan-beauty-basket-gratis-aktion/">Der Basket im 3er-Abo 8/2016</a></li>
-    <li><a href="http://cardamonchai.com/2016/09/vegan-beauty-basket-im-test/">Im Test 9/2016</a></li>
-    <li><a href="http://cardamonchai.com/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/">Unboxing Weihnachtsedition 12/2016</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/vegan-beauty-basket-interview/">Interview mit Gründerin Ina 2/2017</a></li>
+    <li> [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/) </li>
+    <li> [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/) </li>
+    <li> [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) </li>
+    <li> [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/) </li>
     <li>Unboxing März-Ausgabe 3/2018</li>
 </ol>
 
 Zum Vegan Beauty Basket geht es
-<a href="https://www.veganbeautybasket.com/" target="_blank" rel="noopener">hier
-entlang.</a>
+[hier entlang.](https://www.veganbeautybasket.com/)
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

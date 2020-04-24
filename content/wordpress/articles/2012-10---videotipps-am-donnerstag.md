@@ -48,8 +48,7 @@ subTitle: Die Geschichte von der tanzenden Redaktion
 <strong>Heute möchte ich hier mal wieder zwei wundervolle Videos vorstellen.
 </strong>
 
-Das erste schickte mir
-<a title="Ulle" href="http://thatgirlthere.wordpress.com/">@Ulle</a> heute über
+Das erste schickte mir [@Ulle](http://thatgirlthere.wordpress.com/) heute über
 Twitter. Sie ist ein genau so großer Muse-Fan wie ich und musste sofort an mich
 denken, als sie es sah.
 
@@ -58,9 +57,9 @@ denken, als sie es sah.
 Übrigens möchte ich an dieser Stelle nochmal bemerken, wie wundervoll ich es
 finde, wie viele musikalisch interessierte Leute man über so ein Weblog und auch
 über soziale Netzwerke kennen lernen kann. Was alleine durch meine
-<a title="Verlosung" href="//2012/10/01/t-shirt-idee-die-schonsten-bilder/">T-Shirt-Verlosung</a>
-für tolle Kontakte entstanden sind ist toll. Nun möchte ich Euch aber das Video
-nicht mehr länger vorenthalten.
+[T-Shirt-Verlosung](//2012/10/01/t-shirt-idee-die-schonsten-bilder/) für tolle
+Kontakte entstanden sind ist toll. Nun möchte ich Euch aber das Video nicht mehr
+länger vorenthalten.
 
 ## Hier sind für Euch MUSE mit ihrem BBC Live Lounge Special:
 
@@ -72,13 +71,12 @@ offizielle Musik-Video zum Song 'I'm Shakin'' von Jack Whites aktueller Platte
 darin seine beiden Begleitbands (die Ihr vielleicht schon von seinem iTunes
 Festival Auftritt kennt) gegeneinander anspielen. Großes Kino, wie ich finde.
 
-Ich habe den Videolink auch an
-<a title="Ulle" href="http://thatgirlthere.wordpress.com/">@Ulle</a>
+Ich habe den Videolink auch an [@Ulle](http://thatgirlthere.wordpress.com/)
 weitergeleitet. Ihr Kommentar: "Uah! Jetzt springt und shaked die ganze
 Redaktion. Danke!!!" Herrlich. Natürlich freue ich mich, wenn ich in Euch gleich
 eine ähnliche Reaktion auslöse.
 
-## Hier ist für Euch JACK WHITE mit 'I'm Shakin'':<a href="http://JackWhite">[youtube=http://www.youtube.com/watch?v=MvpoiiBW9bc]</a>
+## Hier ist für Euch JACK WHITE mit 'I'm Shakin'': [[youtube=http://www.youtube.com/watch?v=MvpoiiBW9bc]](http://JackWhite)
 
 Stay tuned, bald gibt's an dieser Stelle wieder neue <strong>Videotipps</strong>
 für Euch! &lt;3

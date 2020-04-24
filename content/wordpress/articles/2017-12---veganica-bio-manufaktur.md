@@ -25,8 +25,7 @@ thumbnailId: "18624"
 subTitle: Neues Crowdfunding
 ---
 
-<strong>Könnt Ihr Euch noch an
-<a href="http://cardamonchai.com/2017/04/veganer-honig-vegablum/">Vegablum</a>
+<strong>Könnt Ihr Euch noch an [Vegablum](/2017/04/veganer-honig-vegablum/)
 erinnern? Vor einiger Zeit hatte ich die Hersteller veganen Honigs hier im Blog
 vorgestellt. Auf ihrem Profil weisen sie jetzt auf ihre Freunde von der Veganica
 Bio Manufaktur hin. Auch sie haben was Leckeres für Euch und gerade ein
@@ -111,9 +110,7 @@ gleich mal probieren. Er ist nämlich in einigen Dankeschön-Paketen enthalten. 
 Februar könnt Ihr dann einen tollen Brunch mit Euren Freunden veranstalten, dann
 werden die Sachen nämlich an die Unterstützer verschickt!
 
-<a href="https://www.startnext.com/veganica-manufaktur" target="_blank" rel="noopener">\*HIER
-GEHT'S LANG - CROWDFUNDING JETZT UNTERSTÜTZEN</a>
+[\*HIER GEHT'S LANG - CROWDFUNDING JETZT UNTERSTÜTZEN](https://www.startnext.com/veganica-manufaktur)
 
-Hier geht's zur
-<a href="https://www.my-veganica.world" target="_blank" rel="noopener">Homepage</a>
-der Veganica Bio Manufaktur
+Hier geht's zur [Homepage](https://www.my-veganica.world) der Veganica Bio
+Manufaktur

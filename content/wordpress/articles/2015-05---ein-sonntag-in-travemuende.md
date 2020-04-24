@@ -56,6 +56,4 @@ bekommen?
 [myflickr tag="annetravemuende052015"]
 
 <em>Weitere Bilder wie immer in meinem
-<a href="https://www.flickr.com/photos/99929697@N07/" target="_blank" rel="noopener">Flickr</a>.</em><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](https://www.flickr.com/photos/99929697@N07/)

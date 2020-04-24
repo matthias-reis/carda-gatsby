@@ -44,4 +44,4 @@ subTitle: Gesehen und fotografiert in München
 ids="5325,5326,5327,5328,5329,5330"]
 
 <strong>Noch mehr bunte Momentaufnahmen von mir findet Ihr
-<a title="Anne_Reko Instagram" href="http://instagram.com/anne_reko/" target="_blank" rel="noopener">hier</a>!</strong>
+[hier](http://instagram.com/anne_reko/) !</strong>

@@ -31,9 +31,9 @@ subTitle: Sommerlicher Aperitif
 
 <strong>Vor Kurzem hatte ich Euch hier ein paar Cocktail-Rezepte versprochen.
 Eines habe ich Euch
-<a href="http://cardamonchai.com/2018/05/bio-eistee-konzentrate-von-teatime-im-test/">schon
-verraten</a>, heute geht es weiter. Liebt Ihr einen guten Fizz? Dann werdet Ihr
-auf jeden Fall auf Eure Kosten kommen.</strong>
+[schon verraten](/2018/05/bio-eistee-konzentrate-von-teatime-im-test/), heute
+geht es weiter. Liebt Ihr einen guten Fizz? Dann werdet Ihr auf jeden Fall auf
+Eure Kosten kommen.</strong>
 
 Gespannt? Dann nichts wie ran an den Shaker. Ich wünsche Euch viel Spaß mit
 meinem Minty Fizz.
@@ -42,7 +42,7 @@ meinem Minty Fizz.
 
 <ul>
     <li>3 cl Gin (z. B. Botanist)</li>
-    <li>2 cl <a href="http://cardamonchai.com/2018/05/bio-eistee-konzentrate-von-teatime-im-test/">Pfefferminzeistee-Konzentrat</a></li>
+    <li>2 cl  [Pfefferminzeistee-Konzentrat](/2018/05/bio-eistee-konzentrate-von-teatime-im-test/) </li>
     <li>8 cl Grapefruitsaft</li>
     <li>2-4 Eiswürfel</li>
     <li>4 cl Soda</li>

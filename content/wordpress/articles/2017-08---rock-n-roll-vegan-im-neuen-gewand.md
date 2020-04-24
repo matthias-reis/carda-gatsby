@@ -38,8 +38,7 @@ subTitle: Mein Blog sieht jetzt anders aus
 
 <strong>Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht.
 Nachdem sich nach und nach herauskristallisiert hat, in welche Richtung es gehen
-wird mit <a href="http://cardamonchai.com"><em>Anne bloggt
-cardamonchai</em></a>, habe ich mich auch für ein neues Outfit inklusive Logo
+wird mit [](), habe ich mich auch für ein neues Outfit inklusive Logo
 entschieden.</strong>
 
 Das alte Design mit seinen vielen technischen Spielereien und dem großen Zitat
@@ -72,7 +71,7 @@ Beste!
 
 In diesem Sinne: Bleibt mir gewogen!
 
-<a href="http://cardamonchai.com">Hier gehts zur Startseite</a>
+[Hier gehts zur Startseite]()
 
 ![Logo | large](http://cardamonchai.com/wp-content/uploads/2017/08/facebook-title-image-2-800x330.png)
 

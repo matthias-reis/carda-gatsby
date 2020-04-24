@@ -44,16 +44,10 @@ Schnappschuss veröffentlichen.
 ## Roadtrip - Der Weg ist das Ziel
 
 Bis ich wieder hier bin, könnt Ihr Euch ja
-<a href="https://cardamonchai.com/tag/irland2018/">die Zeit mit den Stories vom
-letzten Roadtrip vertreiben</a>. Oder
-<a href="http://cardamonchai.com/2015/03/die-ultimative-vegane-festivalliste/">Ihr
-plant schon mal fürs nächste Festival</a>.
+[Ihr plant schon mal fürs nächste Festival](/tag/irland2018/).
 
-Vielleicht hat Ihr auch Lust auf
-<a href="https://cardamonchai.com/category/vegan-2/rezepte/">ein Rezept</a>?
-Oder etwas
-<a href="https://cardamonchai.com/category/bleistift-2-0/lyrik/">Lyrik</a>?
-Natürlich könnt Ihr auch einfach mal rausgehen und das Wetter genießen. :-)
+Vielleicht hat Ihr auch Lust auf [Lyrik](/category/vegan-2/rezepte/) ? Natürlich
+könnt Ihr auch einfach mal rausgehen und das Wetter genießen. :-)
 
 Bis bald!
 

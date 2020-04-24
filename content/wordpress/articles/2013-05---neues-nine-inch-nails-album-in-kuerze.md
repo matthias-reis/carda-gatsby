@@ -84,9 +84,9 @@ teilen. Hier eine kleine Bildergeschichte für Euch:
 
 ## .
 
-![Auch das musste ich natürlich sofort mit Euch teilen. | full](http://cardamonchai.files.wordpress.com/2013/05/teilen.png 'Auch das musste ich natürlich sofort <a title="Twitter" href="https://twitter.com/Anne_Reko" target="_blank" rel="noopener">mit Euch teilen</a>.')
+![Auch das musste ich natürlich sofort mit Euch teilen. | full](http://cardamonchai.files.wordpress.com/2013/05/teilen.png "Auch das musste ich natürlich sofort  [mit Euch teilen](https://twitter.com/Anne_Reko). ")
 
-### Hier nochmal die komplette, offizielle Meldung, die Trend Reznor heute veröffentlichte:<blockquote>“I’ve been less than honest about what I’ve really been up to lately. For the last year I’ve been secretly working non-stop with Atticus Ross and Alan Moulder on a new, full-length Nine Inch Nails record, which I am happy to say is finished and frankly fucking great. This is the real impetus and motivation behind the decision to assemble a new band and <a href="http://tour.nin.com/">tour</a> again. My forays into <a href="http://nullco.net/" target="_new">film</a>, <a href="http://howtodestroyangels.com/" target="_new">HTDA</a> and other projects really stimulated me creatively and I decided to focus that energy on taking Nine Inch Nails to a new place. Here we go!”</blockquote>
+### Hier nochmal die komplette, offizielle Meldung, die Trend Reznor heute veröffentlichte:<blockquote>“I’ve been less than honest about what I’ve really been up to lately. For the last year I’ve been secretly working non-stop with Atticus Ross and Alan Moulder on a new, full-length Nine Inch Nails record, which I am happy to say is finished and frankly fucking great. This is the real impetus and motivation behind the decision to assemble a new band and [HTDA](http://tour.nin.com/) and other projects really stimulated me creatively and I decided to focus that energy on taking Nine Inch Nails to a new place. Here we go!”</blockquote>
 
 ![Jetzt schlägt es 2013 auf NIN.com | full](http://cardamonchai.files.wordpress.com/2013/05/nin.png "Jetzt schlägt es 2013 auf NIN.com")
 
@@ -118,7 +118,5 @@ zum Ende an:</strong>
 
 [vimeo http://www.vimeo.com/66919663 w=400&amp;h=300]
 
-<em>Dieser Artikel ist für
-Valentin</em><a class="banner banner-green" href="http://cardamonchai.com/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf" target="_blank" rel="noopener"><span class="head">Die
-ultimative Festivalliste</span><span class="text">Jetzt runterladen und
-ausdrucken</span></a>
+<em>Dieser Artikel ist für Valentin</em>
+[](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)

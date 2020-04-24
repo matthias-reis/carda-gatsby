@@ -119,8 +119,7 @@ dem wir uns vorgestern angeschlossen hatten, oder "Gay 20", das heute
 stattfinden sollte, werden mit in den Abgrund gezogen. Von Krawalltouristen, die
 das Ereignis G20 nur als Anlass sehen, mal so richtig die Sau rauszulassen.
 Indem sie Verwüstung anrichten. Wie schön war alles losgegangen, als wir uns mit
-anderen Hamburgern zum
-<a href="http://cardamonchai.com/2017/07/g20/">Massencornern</a> trafen.
+anderen Hamburgern zum [Massencornern](/2017/07/g20/) trafen.
 
 ## NoG20 - Wie alles begann
 
@@ -138,8 +137,8 @@ Aggression. Für Frieden und Gerechtigkeit.
 Hubschrauber kreisen. Die Gedanken auch. In der nachfolgenden Galerie seht Ihr
 ein paar Bilder vom friedlichen Demo-Rave "Lieber tanz' ich, als G20". Ich
 hoffe, dass dieser Artikel genau wie
-<a href="http://cardamonchai.com/2017/07/g20/">mein letzter zum Thema NoG20
-</a>nur eine Momentaufnahme ist und sich doch alles noch zum Guten wendet.
+[mein letzter zum Thema NoG20](/2017/07/g20/) nur eine Momentaufnahme ist und
+sich doch alles noch zum Guten wendet.
 
 [gallery link="none" size="large" type="rectangular"
 ids="17070,17069,17068,17067,17066,17061,17060,17059,17058,17057,17056,17055,17054"]

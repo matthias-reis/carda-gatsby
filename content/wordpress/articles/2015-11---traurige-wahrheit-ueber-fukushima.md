@@ -124,9 +124,6 @@ dürfen die Menschen bis heute noch nicht zurückkehren.
 viel stärker gestiegen, als bislang gedacht", so die Deutsche Ärztezeitung, die
 Spätfolgen sind nicht auszudenken.
 
-Quelle:
-<a href="http://www.greenpeace.de/node/15687" target="_blank" rel="noopener nofollow">Greenpeace</a>
+Quelle: [Greenpeace](http://www.greenpeace.de/node/15687)
 
-Bild:
-<a href="https://pixabay.com/users/-mq--6833322/" target="_blank" rel="noopener nofollow">-MQ-</a>,
-Pixabay
+Bild: [-MQ-](https://pixabay.com/users/-mq--6833322/), Pixabay

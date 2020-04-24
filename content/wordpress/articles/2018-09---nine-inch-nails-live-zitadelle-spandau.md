@@ -92,13 +92,8 @@ seeliger Musik-Trance. Um kurz danach von "Even Deeper" einfach weggeblasen zu
 werden. Das traditionell als letztes Encore zum Besten gegebene "Hurt" sorgt
 dann für Gefühlsausbrüche. Viele sind in diesem Moment in Gedanken bei Trents
 Freund und Vorbild
-<a href="http://cardamonchai.com/2016/01/rip-david-bowie-abschied-von-einer-ikone/">David
-Bowie</a>. Der Schlussakkord lässt uns ein weiteres Mal erfüllt zurück. Mit der
-Hoffnung, diesen magischen Moment hoffentlich so bald als möglich wieder erleben
-zu können. Mit genau den Menschen, mit denen wir ihn teilen möchten, an unserer
-Seite. <a href="http://cardamonchai.com/2014/07/urlaub-ohne-schein/">An die
-Bande gelehnt</a>. Aufgeregt, schwitzend und ein kleines Bisschen verheult vor
-Glück.
+[An die Bande gelehnt](/2016/01/rip-david-bowie-abschied-von-einer-ikone/).
+Aufgeregt, schwitzend und ein kleines Bisschen verheult vor Glück.
 
 Neben den drei Songs "Shit Mirror", "Ahead Of Ourselves" und "God Break Down The
 Door" von der aktuellen Platte "Bad Witch" spielten NIN unter anderem wieder den
@@ -125,7 +120,7 @@ Konzerts:
     <li>God Break Down The Door</li>
     <li>Copy Of A</li>
     <li>Gave Up</li>
-    <li>I'm Afraid Of Americans (<a href="http://cardamonchai.com/2016/01/rip-david-bowie-abschied-von-einer-ikone/">David Bowie</a>)</li>
+    <li>I'm Afraid Of Americans ( [David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/) )</li>
     <li>I Do Not Want This</li>
     <li>Digital (Joy Division)</li>
     <li>The Hand That Feeds</li>

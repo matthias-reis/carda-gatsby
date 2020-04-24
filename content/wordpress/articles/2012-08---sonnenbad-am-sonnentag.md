@@ -93,9 +93,8 @@ Südseeinsel mit All-inclusive-rund-um-die Uhr-Dauerbespaßung verbannt. Aber da
 macht nichts, ich habe meine Kopfhörer. Und auf denen läuft gerade dieses Lied,
 das mir nicht aus dem Kopf geht.
 
-<em><strong>Hier sind für Euch:
-</strong></em><em><strong><a title="Here We Go" href="http://de.wikipedia.org/wiki/Dispatch" target="_blank" rel="noopener">Dispatch</a>
-mit "Here We Go"</strong></em>
+<em><strong>Hier sind für Euch: </strong></em><em><strong>
+[Dispatch](http://de.wikipedia.org/wiki/Dispatch) mit "Here We Go"</strong></em>
 
 [youtube=http://www.youtube.com/watch?v=ZRHpoKvZa20&amp;feature=player_embedded]
 

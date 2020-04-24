@@ -92,11 +92,9 @@ Arbeitsplatz in der Blue City Rotterdam bezogen. Dort arbeiten sie zusammen mit
 anderen nachhaltigen Unternehmen an zukunftsweisenden Ideen.
 
 Wer gerne mehr über Fruitleather Rotterdam erfahren möchte, kann sich
-<a href="https://fruitleather.nl/" target="_blank" rel="noopener nofollow">auf
-der Homepage des Kollektivs</a> informieren.
+[auf der Homepage des Kollektivs](https://fruitleather.nl/) informieren.
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung
 gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog
-findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

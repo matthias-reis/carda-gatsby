@@ -43,11 +43,11 @@ subTitle: Ein Statement für die Meere
 voller Überzeugung. Es stammt von Bracenet aus Hamburg.</strong>
 
 Die Accessoires werden aus geborgenen
-<a href="http://cardamonchai.com/2018/08/wwf-geisternetz-warnemuende/">Geisternetzen</a>
-hergestellt. Sie sind nummeriert und tragen die Namen der verschiedenen Meere.
-Meins zum Beispiel ist ein Nordsee-Band, Matze trägt Ostsee. Auch ein
-Adria-Band, ein Rotes Meer Band, ein Pazifik-Band und ein Atlantik-Band findet
-man unter anderem im Onlineshop von Bracenet.
+[Geisternetzen](/2018/08/wwf-geisternetz-warnemuende/) hergestellt. Sie sind
+nummeriert und tragen die Namen der verschiedenen Meere. Meins zum Beispiel ist
+ein Nordsee-Band, Matze trägt Ostsee. Auch ein Adria-Band, ein Rotes Meer Band,
+ein Pazifik-Band und ein Atlantik-Band findet man unter anderem im Onlineshop
+von Bracenet.
 
 ![Bracenet](http://cardamonchai.com/wp-content/uploads/2018/08/44359416061_73afc6e1ec_z-400x300.jpg)
 
@@ -65,8 +65,8 @@ gesetzt, auf die verborgene Gefahr für die Meeresbewohner aufmerksam zu machen.
 Es soll eine Kreislaufwirtschaft geschaffen werden. Dabei werden die
 Geisternetze nicht nur zu Schmuck, sondern auch zu hochwertigem Nylongarn
 verarbeitet. Dieses findet zum Beispiel bei der Herstellung von
-<a href="http://cardamonchai.com/2018/06/inaska-sportbikinis/">Badebekleidung</a>,
-Socken und Teppichen Verwendung.
+[Badebekleidung](/2018/06/inaska-sportbikinis/), Socken und Teppichen
+Verwendung.
 
 Bezogen werden können die Bracenet-Produkte direkt über bracenet.de.
 
@@ -75,4 +75,4 @@ Bezogen werden können die Bracenet-Produkte direkt über bracenet.de.
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall selbst
 erworben. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meiner [Transparenz-Seite](/werbung/). </em>

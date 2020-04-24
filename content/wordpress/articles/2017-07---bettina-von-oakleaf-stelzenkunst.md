@@ -164,10 +164,9 @@ Walkacts suche.
 <strong>Anne:</strong> Beende diesen Satz: „Die Welt wäre ein ganzes Stück
 friedlicher, wenn...“
 
-<strong>Bettina:</strong> So eine Frage kurz nach
-<a href="http://cardamonchai.com/2017/07/nog20/">G20</a>. Ich glaube es ist
-wichtig viel Raum für persönliche Begegnung zu öffnen und gemeinsam schöne Dinge
-zu tun: Feiern, Essen, Kunst und so weiter.
+<strong>Bettina:</strong> So eine Frage kurz nach [G20](/2017/07/nog20/). Ich
+glaube es ist wichtig viel Raum für persönliche Begegnung zu öffnen und
+gemeinsam schöne Dinge zu tun: Feiern, Essen, Kunst und so weiter.
 
 <strong>Anne:</strong> Was machst Du, wenn Du gerade nicht mit Oakleaf unterwegs
 bist?
@@ -206,21 +205,18 @@ Dich kennenzulernen!
 ### Meine Bilder vom diesjährigen Stamp Festival findet Ihr hier:
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/06/weisse-parade-stamp-festival-altona/">Welcome to the light parade</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/stamp-festival-altona-2017-parade/">Fabelwesen im Sonnenlicht</a></li>
+    <li> [Welcome to the light parade](/2017/06/weisse-parade-stamp-festival-altona/) </li>
+    <li> [Fabelwesen im Sonnenlicht](/2017/06/stamp-festival-altona-2017-parade/) </li>
 </ol>
 
-Interview: Anne Reis
-<a href="http://cardamonchai.com">http://cardamonchai.com</a>
-<a href="mailto:anne.reis@cardamonchai.com">anne.reis@cardamonchai.com</a>
-Facebook:
-<a href="https://www.facebook.com/cardamonchai" target="_blank" rel="noopener">https://www.facebook.com/cardamonchai</a>
+Interview: Anne Reis [http://cardamonchai.com]()
+[anne.reis@cardamonchai.com](mailto:anne.reis@cardamonchai.com) Facebook:
+[https://www.facebook.com/cardamonchai](https://www.facebook.com/cardamonchai)
 
 ### Wer die Oakleaf-Truppe buchen oder sich ihr anschließen möchte, kann sich direkt mit Bettina in Verbindung setzen:
 
 Bettina Eichblatt-Koenekoop OAKLEAF STELZENKUNST
-<a href="mailto:info@oakleaf.eu">info@oakleaf.eu</a>
-<a href="http://oakleaf.eu" target="_blank" rel="noopener">www.oakleaf.eu</a>
+[info@oakleaf.eu](mailto:info@oakleaf.eu) [www.oakleaf.eu](http://oakleaf.eu)
 
 [gallery type="rectangular" link="none" size="large" ids="17142,17144"]
 

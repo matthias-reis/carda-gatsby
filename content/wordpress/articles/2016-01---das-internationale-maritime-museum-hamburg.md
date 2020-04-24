@@ -65,4 +65,4 @@ das Museum mal zu besuchen.
 [myflickr tag="annemaritimesmuseum012016"]
 
 Meine Bilder aus dem wunderschönen Lübeck
-<a href="/2015/11/wunderschoenes-luebeck/">findet Ihr hier</a>.
+[findet Ihr hier](/2015/11/wunderschoenes-luebeck/).

@@ -70,9 +70,9 @@ fotografiert, als ich erneut in Südengland unterwegs war, dieses Mal mit Matze
 gemeinsam. Am 8. Februar 2019 habe ich ihn aktualisiert und mit diesem Text
 ausgestattet. Es ist immer wieder schön, in Erinnerungen zu schwelgen - umso
 schöner, wenn man dabei noch etwas über die Geschichte solch magischer Orte
-lernt. Für <a href="https://amreis.de/">unseren Roman</a> haben Matze und ich
-uns in der letzten Zeit wieder mehr mit Stonehenge beschäftigt. Zeit also für
-eine Auffrischung des Artikels.
+lernt. Für [unseren Roman](https://amreis.de/) haben Matze und ich uns in der
+letzten Zeit wieder mehr mit Stonehenge beschäftigt. Zeit also für eine
+Auffrischung des Artikels.
 
 Unzählige Mythen umranken das in der Jungsteinzeit begründete Bauwerk in der
 Nähe von Amesbury in <strong>Wiltshire</strong>. Der Name "Stonehenge" stammt
@@ -135,36 +135,32 @@ Neben zahlreichen religiösen und esoterischen Theorien drehen sich auch Sagen
 und Legenden um Stonehenge. Eine von ihnen dreht sich um den Fersenstein. Durch
 sie erklärt sich auch, woher der Name Mönchsferse stammt.
 
-<blockquote>"Der Teufel hat die Steine in <a href="https://cardamonchai.com/tag/irland2017/">Irland</a> von einer Frau gekauft und zu ihrem Standort an der <strong>Salisbury Plain</strong> gebracht. Einer der Steine fiel ihm in den Fluss <strong>Avon</strong>, die restlichen hat er auf der Ebene von Stonehenge abgelegt. Er brüllte laut 'Niemand wird je herausfinden, wie diese Steine hierher gekommen sind!' Ein Mönch antwortete ihm darauf 'Das glaubst nur Du!' Das machte den Teufel so wütend, dass er die Steine nach warf. Einer traf den Mann Gottes an der Ferse. Dieser Stein blieb im Boden stecken. Er ist heute der Fersenstein von Stonehenge."</blockquote>
+<blockquote>"Der Teufel hat die Steine in  [Irland](/tag/irland2017/)  von einer Frau gekauft und zu ihrem Standort an der <strong>Salisbury Plain</strong> gebracht. Einer der Steine fiel ihm in den Fluss <strong>Avon</strong>, die restlichen hat er auf der Ebene von Stonehenge abgelegt. Er brüllte laut 'Niemand wird je herausfinden, wie diese Steine hierher gekommen sind!' Ein Mönch antwortete ihm darauf 'Das glaubst nur Du!' Das machte den Teufel so wütend, dass er die Steine nach warf. Einer traf den Mann Gottes an der Ferse. Dieser Stein blieb im Boden stecken. Er ist heute der Fersenstein von Stonehenge."</blockquote>
 
 [glry name="2012stonehenge"]
 
-<em>Hier geht's zu
-<a title="Mortehoe" href="http://cardamonchai.com/2009/05/mortehoe-cornwall-12-05-2009/">Teil
-5/17</a></em>
+<em>Hier geht's zu [Teil 5/17](/2009/05/mortehoe-cornwall-12-05-2009/) </em>
 
 ## England 2009 Wegweiser
 
 <ol>
-    <li>10. Mai 2009 <a href="http://cardamonchai.com/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/">Überfahrt von Duncerque nach Dover</a></li>
-    <li>10. Mai 2009 <a href="http://cardamonchai.com/2009/05/sissinghurst-castle/">Sissinghurst Castle</a></li>
-    <li>11. Mai 2009 <a href="http://cardamonchai.com/2009/05/glastonbury-11-05-2009/">Glastonbury</a></li>
-    <li>11. Mai 2009 <a href="http://cardamonchai.com/2009/05/stonehenge-11-05-2009/">Stonehenge</a></li>
-    <li>12. Mai 2009 <a href="http://cardamonchai.com/2009/05/mortehoe-cornwall-12-05-2009/">Mortehoe</a></li>
-    <li>13. Mai 2009 <a href="http://cardamonchai.com/2009/05/woolacombe-cornwall-13-05-2009/">Woolacombe</a></li>
-    <li>14. Mai 2009 <a href="http://cardamonchai.com/2009/05/appledore-cornwall-14-05-2009/">Appledore</a></li>
-    <li>15. Mai 2009 <a href="http://cardamonchai.com/2009/05/hayle-cornwall-14-15-05-2009/">Hayle</a></li>
-    <li>15. Mai 2009 <a href="http://cardamonchai.com/2009/05/glendurgan-garden-15-05-2009-2/">Glendurgan Garden</a></li>
-    <li>15. Mai 2009 <a href="http://cardamonchai.com/2009/05/penzance-cornwall-15-05-2009/">Penzance</a></li>
-    <li>16. Mai 2009 <a href="http://cardamonchai.com/2009/05/mousehole-cornwall-16-05-2009/">Mousehole</a></li>
-    <li>16. Mai 2009 <a href="http://cardamonchai.com/2009/05/st-ives-cornwall-16-05-2009/">St. Ives</a></li>
-    <li>17. Mai 2009 <a href="http://cardamonchai.com/2009/05/eden-project/">Eden Project</a></li>
-    <li>18. Mai 2009 <a href="http://cardamonchai.com/2009/05/von-mevagissey-nach-port-mellon-18-05-2009/">Von Mevagissey nach Port Mellon</a></li>
-    <li>19. Mai 2009 <a href="http://cardamonchai.com/2009/05/bradstock-19-05-2009/">Bradstock</a></li>
-    <li>20. Mai 2009 <a href="http://cardamonchai.com/2009/05/dorchester/">Dorchester</a></li>
-    <li>21. Mai 2009 <a href="http://cardamonchai.com/2009/05/london-21-05-2009/">London</a></li>
+    <li>10. Mai 2009  [Überfahrt von Duncerque nach Dover](/2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/) </li>
+    <li>10. Mai 2009  [Sissinghurst Castle](/2009/05/sissinghurst-castle/) </li>
+    <li>11. Mai 2009  [Glastonbury](/2009/05/glastonbury-11-05-2009/) </li>
+    <li>11. Mai 2009  [Stonehenge](/2009/05/stonehenge-11-05-2009/) </li>
+    <li>12. Mai 2009  [Mortehoe](/2009/05/mortehoe-cornwall-12-05-2009/) </li>
+    <li>13. Mai 2009  [Woolacombe](/2009/05/woolacombe-cornwall-13-05-2009/) </li>
+    <li>14. Mai 2009  [Appledore](/2009/05/appledore-cornwall-14-05-2009/) </li>
+    <li>15. Mai 2009  [Hayle](/2009/05/hayle-cornwall-14-15-05-2009/) </li>
+    <li>15. Mai 2009  [Glendurgan Garden](/2009/05/glendurgan-garden-15-05-2009-2/) </li>
+    <li>15. Mai 2009  [Penzance](/2009/05/penzance-cornwall-15-05-2009/) </li>
+    <li>16. Mai 2009  [Mousehole](/2009/05/mousehole-cornwall-16-05-2009/) </li>
+    <li>16. Mai 2009  [St. Ives](/2009/05/st-ives-cornwall-16-05-2009/) </li>
+    <li>17. Mai 2009  [Eden Project](/2009/05/eden-project/) </li>
+    <li>18. Mai 2009  [Von Mevagissey nach Port Mellon](/2009/05/von-mevagissey-nach-port-mellon-18-05-2009/) </li>
+    <li>19. Mai 2009  [Bradstock](/2009/05/bradstock-19-05-2009/) </li>
+    <li>20. Mai 2009  [Dorchester](/2009/05/dorchester/) </li>
+    <li>21. Mai 2009  [London](/2009/05/london-21-05-2009/) </li>
 </ol>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

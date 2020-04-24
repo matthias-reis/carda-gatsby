@@ -43,11 +43,10 @@ And Let Live" wurde von Filmemacher und Regisseur Marc Pierschel gedreht. In der
 Doku zeigen Veganer\*innen ihre Gründe für ein Leben ohne Tierleid.</strong>
 
 Es kommen unter anderen die Autorin des Buchs
-"<a href="http://cardamonchai.com/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/">Warum
-wir Hunde lieben, Schweine essen und Kühe anziehen</a>" Melanie Joy, der
-Professor für Bio-Chemie und Verfasser der "China Study" T. Colin Campbell sowie
-Bio-Ethik Professor Peter Singer und der vegane Radsportler Jack Lindquist zu
-Wort.
+"[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)"
+Melanie Joy, der Professor für Bio-Chemie und Verfasser der "China Study" T.
+Colin Campbell sowie Bio-Ethik Professor Peter Singer und der vegane Radsportler
+Jack Lindquist zu Wort.
 
 ## Einfühlsame Berichterstattung
 
@@ -63,9 +62,8 @@ und Lebenshof.
 Sie berichten unter anderem von der Kuh, die ihnen eines Tages vom Nachbarhof
 zulief, weil sie es nicht mehr ertragen konnte, dass ihr immer wieder die
 Kälbchen entzogen wurden. Genau wie
-<a href="http://cardamonchai.com/2019/08/das-gluecksferkel-von-hof-butenland/">Frederik,
-das Schwein, das sich mit einem Sprung vom Tiertransporter gerettet hat</a>, hat
-jedes Tier auf Hof Butenland sein ganz persönliches Schicksal.
+[Frederik, das Schwein, das sich mit einem Sprung vom Tiertransporter gerettet hat](/2019/08/das-gluecksferkel-von-hof-butenland/),
+hat jedes Tier auf Hof Butenland sein ganz persönliches Schicksal.
 
 ## Darum vegan
 
@@ -97,12 +95,11 @@ wurde, anders, als bei anderen Tierrechts-Dokumentationen, verzichtet.
 Festival präsentiert. Im selben Jahr wurde er auf dem Comic Cine Film Festival
 mit dem Comic Angel ausgezeichnet. Ein weiterer wunderbarer Film von Marc
 Pierschel ist "The End Of Meat".
-<a href="http://cardamonchai.com/2020/02/the-end-of-meat/">Meinen Filmtipp dazu
-findet Ihr hier</a>.
+[Meinen Filmtipp dazu findet Ihr hier](/2020/02/the-end-of-meat/).
 
 Hat Euch mein Filmtipp gefallen? Das freut mich sehr! Wenn Ihr in Zukunft nichts
-mehr auf meinem Blog verpassen wollt, <a href="#newsletter">abonniert gerne
-meinen Newsletter</a>. Ich freue mich auf Euch!
+mehr auf meinem Blog verpassen wollt,
+[abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
 ## Filmtrailer "Live And Let Live"
 

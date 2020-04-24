@@ -39,9 +39,9 @@ Im Anschluss an unsere Pause mit Heißgetränk schlenderten wir im warmen
 Sommerregen durch die gemütlichen Gassen.</strong>
 
 Ystad liegt in der Schwedischen Provinz
-<a href="http://cardamonchai.com/2018/07/zwischenstopp-in-skane/">Skåne</a>. Die
-1244 gegründete Stadt wurde bekannt durch die dort spielenden Krimis von Henning
-Mankell. Kommissar Kurt Wallander dürfte wohl jedem ein Begriff sein.
+[Skåne](/2018/07/zwischenstopp-in-skane/). Die 1244 gegründete Stadt wurde
+bekannt durch die dort spielenden Krimis von Henning Mankell. Kommissar Kurt
+Wallander dürfte wohl jedem ein Begriff sein.
 
 Alle Orte aus den Büchern gibt es wirklich. Als man in den 90er Jahren begann,
 Mankells Werke zu verfilmen, nutzte man diese Tatsache. Das führte zu einem

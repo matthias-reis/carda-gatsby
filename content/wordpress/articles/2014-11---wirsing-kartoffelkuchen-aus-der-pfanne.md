@@ -38,7 +38,7 @@ thumbnailId: "9180"
 subTitle: Nach einem traditionellen Rezept aus Andorra
 ---
 
-![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-16-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Wirsing-Kartoffelkuchen')
+![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-16-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Wirsing-Kartoffelkuchen")
 
 <strong>Vor Kurzem sah ich im Fernsehen eine Sendung über die Bewohner von
 Andorra, in der unter Anderem auch gekocht wurde. Ein Rezept für Kartoffelkuchen
@@ -50,7 +50,7 @@ zeigen, das ich hiermit liebevoll auf den Namen Wirsing-Kartoffelkuchen taufe.
 
 ## Zubereitung
 
-![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Die Zutaten')
+![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Die Zutaten")
 
 Den Topf ca. bis zur Hälfte mit Wasser füllen und etwas Salz hinzugeben. Den
 Wirsing und die Kartoffeln waschen, in mittelgroße Stücke schneiden und diese
@@ -67,7 +67,7 @@ anbraten, dabei alles schön flach andrücken und nicht umrühren!
 
 <blockquote>Vorsicht: Eventuelle Flüssigkeit bitte im Topf belassen. Sollte sich welche abgesetzt haben, könnt Ihr die zusammen mit einer kleinen Spur der Kartoffelmasse direkt im Topf über Nacht aufbewahren und am nächsten Tag unter Zugabe von etwas Hafersahne daraus eine leckere Kartoffelcremesuppe für die Mittagspause zubereiten.</blockquote>
 
-![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-5-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Das Gemüse auf mittlerer Stufe kochen')
+![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-5-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Das Gemüse auf mittlerer Stufe kochen")
 
 Wenn alles schön kross gebraten ist, den Kartoffelkuchen mit Wirsing zusammen
 mit der Beilage auf den Tellern anrichten.

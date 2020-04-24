@@ -60,8 +60,7 @@ Bei so etwas lasse ich mich natürlich nicht zweimal bitten. Ein paar Tage nach
 dem Eingang der Pressemeldung standen sie bei uns zu Hause im Kühlschrank. Das
 heißt: Vorher noch zum Fotografieren im Blumenkasten. Die Sonne schien einfach
 zu schön. Ein strahlender Herbsttag ist wie geschaffen für
-<a href="http://cardamonchai.com/2018/05/bloggen-und-ich/">Blogger\*innen, die
-nicht schon wieder die selben langweiligen Produktfotos machen möchten</a>.
+[Blogger\*innen, die nicht schon wieder die selben langweiligen Produktfotos machen möchten](/2018/05/bloggen-und-ich/).
 Findet Ihr nicht auch?
 
 ![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/09/42844533840_b4183875ce_z-400x533.jpg)
@@ -76,11 +75,10 @@ wenn Ihr weiter lest.
 
 Als Erstes habe ich die Switchel getestet. Dabei handelt es sich um
 fruchtig-scharfe Essig-Getränke. Bisher gab es von
-<a href="http://cardamonchai.com/2018/08/fuer-limo-von-voelkel-im-test/">Voelkel</a>
-die Sorten "Original", "Himbeer-Minze" und "Schwarze Johannisbeere". Um sie noch
-spritziger zu machen, gibt es sie jetzt auch mit Kohlensäure-haltigem
-Mineralwasser versetzt. Vertrieben werden sie unter dem Namen "Sparkling
-Switchel".
+[Voelkel](/2018/08/fuer-limo-von-voelkel-im-test/) die Sorten "Original",
+"Himbeer-Minze" und "Schwarze Johannisbeere". Um sie noch spritziger zu machen,
+gibt es sie jetzt auch mit Kohlensäure-haltigem Mineralwasser versetzt.
+Vertrieben werden sie unter dem Namen "Sparkling Switchel".
 
 Ich selbst habe die für mich neuen, klassischen Switchel in den Sorten
 "Original" und "Himbeer-Minze" getestet. Dabei bin ich zu folgendem Fazit
@@ -131,15 +129,13 @@ leicht scharfe Note kombiniert mit der Orangen-Süße gefällt mir gut. "Grapefr
 &amp; Rosmarin" würde ich als "würzig" beschreiben. Die Sorte passt gut zu einem
 herzhaften Essen. Ganz klassisch ist natürlich "Gurke &amp; Zitrone". Nicht nur
 in Cooldown Drinks für Sportler, sondern auch als Basis
-<a href="http://cardamonchai.com/2017/10/mister-mandrill-interview/">für
-Cocktails eine sehr beliebte Kombination</a>.
+[für Cocktails eine sehr beliebte Kombination](/2017/10/mister-mandrill-interview/).
 
 Die Zutaten sind neben Wasser in der Sorte "Grapefruit &amp; Rosmarin" Weißer
 Tee-Rosmarin-Auszug, Bio-Grapefruitsaft und Orangenmark. "Gurke &amp; Zitrone"
 beinhaltet Grüner Tee-Pfefferminz-Auszug sowie Gurken-, Zitronen- und
-Limettensaft. In "Orange &amp; Ingwer" stecken
-Roibos-<a href="https://cardamonchai.com/tag/tee/">Tee</a>, Ingwersaft und
-Orangenmark. Eine Flasche kostet circa 1,50 Euro.
+Limettensaft. In "Orange &amp; Ingwer" stecken Roibos- [Tee](/tag/tee/),
+Ingwersaft und Orangenmark. Eine Flasche kostet circa 1,50 Euro.
 
 ## Juiced Water - auch was für Limonaden-Tanten
 
@@ -177,19 +173,17 @@ Interessierte können daraus sicher die ein oder andere nützliche Information
 ziehen.
 
 Ihr seid selbst Hersteller und möchte, dass ich Euer Getränk teste und ihn
-meinem Blog
-vorstelle? <a style="line-height: 1.5em;" href="mailto:info@cardamonchai.com">Kommt
-gerne jederzeit auf mich zu</a>. Ich freue mich auf Eure Zuschriften!
+meinem Blog vorstelle? 
+[Kommt gerne jederzeit auf mich zu](mailto:info@cardamonchai.com). Ich freue
+mich auf Eure Zuschriften!
 
 Natürlich teste ich längst nicht nur Getränke, sondern auch zahlreiche andere
-<a href="https://cardamonchai.com/category/vegan-2/produkte/">vegane und
-nachhaltige Produkte</a>.
+[vegane und nachhaltige Produkte](/category/vegan-2/produkte/).
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
 Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte!
-<a href="https://voelkeljuice.de/startseite.html" target="_blank" rel="noopener">Hier
-gehts zur Homepage</a> der Naturkostsafterei.
+[Hier gehts zur Homepage](https://voelkeljuice.de/startseite.html) der
+Naturkostsafterei.

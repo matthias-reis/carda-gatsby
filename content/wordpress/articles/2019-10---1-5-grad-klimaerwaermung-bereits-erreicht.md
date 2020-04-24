@@ -42,11 +42,11 @@ subTitle: Klimawandel im Mittelmeerraum
 geht aus einer aktuellen Studie der UfM hervor.</strong>
 
 Die aus in 35 Ländern beheimateten 600 Wissenschaftlern bestehende UfM (Union
-für das Mittelmeer) stellte letzten Donnerstag in Barcelona ihre neueste
-Studie<a href="#1"><sup>1</sup></a> vor. Diese zeigt, dass die Temperaturen rund
-um das Mittelmeer bis jetzt im Vergleich zur Zeit vor der Industrialisierung um
-1,5 Grad gestiegen ist. Weltweit liegt der Temperaturunterschied in diesem
-Zeitraum im Durchschnitt bei 1,1 Grad.
+für das Mittelmeer) stellte letzten Donnerstag in Barcelona ihre neueste Studie
+[](#1) vor. Diese zeigt, dass die Temperaturen rund um das Mittelmeer bis jetzt
+im Vergleich zur Zeit vor der Industrialisierung um 1,5 Grad gestiegen ist.
+Weltweit liegt der Temperaturunterschied in diesem Zeitraum im Durchschnitt bei
+1,1 Grad.
 
 Die Wissenschaftler werteten das ihnen vorliegende Datenmaterial zum Klima im
 Mittelmeerraum unter der Leitung des deutschen Ökologen und Geografen Wolfgang
@@ -78,7 +78,7 @@ Vergleich: In anderen Teilen der Erde erwartet man sie erst 2050.
 
 Die Veränderung des Klimas lässt sich heute ganz klar belegen. 2016, 2015, 2017
 und 2018 sind die vier wärmsten Jahren seit Beginn der Messungen - mit großem
-Abstand.<a href="#1"><sup>1</sup></a>
+Abstand. [](#1)
 
 Die UfM ist Teil des Umweltprogramms UNEP der Vereinten Nationen. Die
 zwischenstaatliche Organisation wurde 2008 gegründet. In ihr sind alle 28 Länder
@@ -94,9 +94,9 @@ zu erreichen, gibt es einige Stellschrauben. Hier sind vier Dinge, die Ihr für
 das Klima tun könnt:
 
 <ol>
-    <li>Geht auf die Straße - <a href="http://cardamonchai.com/2019/09/allefuersklima-hamburg/">schließt Euch Fridays For Future an</a> und geht für Veränderungen auf die Straße. Wenn wir alle laut sind, werden auch Politiker und andere Entscheidungsträger auf das Problem aufmerksam.</li>
-    <li>Lebt vegan - für nur ein Kilo Rindfleisch werden nicht nur 20.000 Liter Wasser benötigt. Bis das Fleisch in der Metzgertheke ankommt, fallen noch 16 Kilogramm Getreide und Soja sowie 50 Quadratmeter vernichteter Regenwald sowie 30 kg CO2 an. Das ist wirklich kein Pappenstiel, oder? Wenn Ihr mehr zum Thema erfahren möchtet, <a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/" target="_blank" rel="noopener">lege ich Euch diesen Artikel ans Herz</a>.</li>
-    <li>Steigt auf erneuerbare Energien um. <a href="http://cardamonchai.com/2011/04/stromanbieter-wechseln/" target="_blank" rel="noopener">Sucht Euch einen seriösen Ökostrom-Anbieter</a>, der auf Energiegewinnung aus Kohle und Atomkraft aus Prinzip verzichtet.</li>
+    <li>Geht auf die Straße -  [schließt Euch Fridays For Future an](/2019/09/allefuersklima-hamburg/)  und geht für Veränderungen auf die Straße. Wenn wir alle laut sind, werden auch Politiker und andere Entscheidungsträger auf das Problem aufmerksam.</li>
+    <li>Lebt vegan - für nur ein Kilo Rindfleisch werden nicht nur 20.000 Liter Wasser benötigt. Bis das Fleisch in der Metzgertheke ankommt, fallen noch 16 Kilogramm Getreide und Soja sowie 50 Quadratmeter vernichteter Regenwald sowie 30 kg CO2 an. Das ist wirklich kein Pappenstiel, oder? Wenn Ihr mehr zum Thema erfahren möchtet,  [lege ich Euch diesen Artikel ans Herz](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/). </li>
+    <li>Steigt auf erneuerbare Energien um.  [Sucht Euch einen seriösen Ökostrom-Anbieter](/2011/04/stromanbieter-wechseln/),  der auf Energiegewinnung aus Kohle und Atomkraft aus Prinzip verzichtet.</li>
     <li>Fahrt mit der Bahn! Autofahrten und Flüge verpesten die Luft und machen unser Klima kaputt. Das ist schon lange kein Geheimnis mehr. Also steigt auf die Öffis oder den Drahtesel um und wenn es gar nicht anders geht, seht zu, dass Ihr Fahrgemeinschaften bildet und früher oder später auf E-Mobilität umsteigt.</li>
 </ol>
 
@@ -111,8 +111,8 @@ bin gespannt auf Eure Kommentare und Nachrichten!
 <ul>
     <li style="list-style-type: none;">
 <ul>
-    <li id="1">[1] <a href="http://www.medecc.org/medecc-booklet-isk-associated-to-climate-and-environmental-changes-in-the-mediterranean-region/" target="_blank" rel="noopener">Studie</a></li>
-    <li id="2">[2] <a href="https://wiki.bildungsserver.de/klimawandel/index.php/Aktuelle_Klima%C3%A4nderungen" target="_blank" rel="noopener">Klimaveränderung Bildungsserver Wiki</a></li>
+    <li id="1">[1]  [Studie](http://www.medecc.org/medecc-booklet-isk-associated-to-climate-and-environmental-changes-in-the-mediterranean-region/) </li>
+    <li id="2">[2]  [Klimaveränderung Bildungsserver Wiki](https://wiki.bildungsserver.de/klimawandel/index.php/Aktuelle_Klima%C3%A4nderungen) </li>
 </ul>
 </li>
 </ul>

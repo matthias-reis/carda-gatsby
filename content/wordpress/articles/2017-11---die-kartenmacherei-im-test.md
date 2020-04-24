@@ -136,9 +136,7 @@ kommt man ja sogar noch wesentlich günstiger weg.
 ![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-16-von-16-300x300.jpg)
 
 Einigen der Fotos im Kalender könnt Ihr auch hier im Blog begegnen.
-<a href="http://cardamonchai.com/2017/11/kilkenny-bunte-insel-irland/">Schaut
-zum Beispiel mal hier vorbei</a> oder
-<a href="http://cardamonchai.com/2017/07/gran-canaria-der-sueden/">hier</a>.
+[hier](/2017/11/kilkenny-bunte-insel-irland/).
 
 Hinweis: Ich habe die einzelnen Kalenderseiten auf unserer Staffelei
 fotografiert. Die komplette Galerie findet Ihr unten. Wenn man den Kalender mit
@@ -147,8 +145,8 @@ erwähnter Holzhalterung aufhängt, sieht das so aus:
 [gallery type="thumbnails" link="none" size="medium"
 ids="18578,18579,18580,18581,18582,18583,18588,18584,18585,18586,18587,18589"]
 
-<div>**<a href="https://www.kartenmacherei.de/fotokalender.html" target="_blank" rel="noopener"> Hier entlang geht es zur Kalenderseite der Kartenmacherei</a></div>
+<div>** [Hier entlang geht es zur Kalenderseite der Kartenmacherei](https://www.kartenmacherei.de/fotokalender.html) </div>
 
-<div>*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</div>
+<div>*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </div>
 
 <div class="product-options text4"></div>

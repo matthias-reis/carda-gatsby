@@ -144,7 +144,7 @@ Herzlichen Glückwunsch zu Euren Preisen! Damit ich sie Euch zukommen lassen
 kann, möchte ich Euch hiermit darum bitten, mir Eure Postadressen per E-Mail an
 <span style="color: #993366;">info@cardamonchai.com</span> zu schicken, sobald
 ich sie habe, gehen die Päckchen direkt bei
-<a title="Marleen" href="https://www.facebook.com/marleen.schallplatten?fref=ts">Marleen</a>,
-dem Plattenladen meines Vertrauens in Fulda an Euch raus. Von Franky und Annett
+[Marleen](https://www.facebook.com/marleen.schallplatten?fref=ts), dem
+Plattenladen meines Vertrauens in Fulda an Euch raus. Von Franky und Annett
 benötige ich noch die gewünschte T-Shirt-Größe, damit das gewonnene T-Shirt auch
 richtig sitzt. Vielen Dank nochmal an alle Teilnehmer!

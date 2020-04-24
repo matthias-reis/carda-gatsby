@@ -77,8 +77,8 @@ Meiner <strong>Rosacea</strong>-geplagten Haut geht es deutlich besser, seit ich
 die Santaverde-Produkte regelmäßig anwende. Die Rötungen sind deutlich
 zurückgegangen und gelegentlich verzichte ich sogar komplett auf abdeckende
 Kosmetikprodukte. Vor Kurzem habe ich mich sogar ans
-<a href="http://cardamonchai.com/2018/07/make-up-fasten/">Make-up-Fasten</a>
-herangetraut. Auch dabei hat mich Santaverde täglich begleitet.
+[Make-up-Fasten](/2018/07/make-up-fasten/) herangetraut. Auch dabei hat mich
+Santaverde täglich begleitet.
 
 Vor ein paar Jahren wäre das für mich noch völlig undenkbar gewesen. Klar, ich
 ernähre mich inzwischen seit vielen Jahren vegan und achte auf Trigger, die
@@ -89,10 +89,7 @@ längst noch nicht so weit.
 
 Die Aloe Vera Reinigungsemulsion ist sehr ergiebig. Eine Tube mit 100
 Millilitern reicht für gut zwei Monate. Nach der Reinigung verwende ich gerne
-einen <a href="http://cardamonchai.com/2018/12/neues-von-santaverde/">Toner</a>,
-bevor ich eine leichte
-<a href="http://cardamonchai.com/2018/06/mit-santaverde-auf-reisen/">Aloe Vera
-Pflege</a> auftrage.
+einen [Aloe Vera Pflege](/2018/12/neues-von-santaverde/) auftrage.
 
 Ich finde es natürlich auch sehr gut, dass das Produkt, wie alle von Santaverde,
 mit dem <strong>Leaping Bunny</strong> Siegel, dem Label der Vegan Society und
@@ -120,21 +117,17 @@ pflanzl. Glycerinfettsäureester, Natriumhydroxid, natürlicher Aprikosenduft.
 
 Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen
-interessant ist.
-<a href="http://www.santaverde.de/inhaltsstoffe" target="_blank" rel="noopener">Ihr
-findet es hier</a>.
+interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
 möchte,
-<a href="http://www.santaverde.de/bezugsquellen" target="_blank" rel="noopener">findet
-hier eine Liste der Bezugsquellen</a>.
+[findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
 [gallery type="rectangular" link="none" size="large" ids="23899,23897"
 orderby="rand"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
 &nbsp;

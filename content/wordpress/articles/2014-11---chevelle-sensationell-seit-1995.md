@@ -40,7 +40,7 @@ thumbnailId: "9197"
 subTitle: Chevelle live @ Backstage Halle München
 ---
 
-![Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte](http://cardamonchai.com/wp-content/uploads/2014/11/unbenannt-2-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte')
+![Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte](http://cardamonchai.com/wp-content/uploads/2014/11/unbenannt-2-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte")
 
 <strong>Chevelle - Das sind Pete (Gesang und Gitarre) und Sam (Drums) Loeffler
 und Dean Bernadini (Bass). </strong>
@@ -59,7 +59,7 @@ schon. Am Montag, den 3. November war es endlich soweit und wir durften sie live
 sehen. Endlich eine Europatournee (zusätzlich zu den Festivalauftritten dieses
 Jahr) und dann auch noch ein Zwischenhalt in München, wie wunderbar!
 
-![Das Konzert war sensationell](http://cardamonchai.com/wp-content/uploads/2014/11/img_2546-640x853.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Das Konzert war sensationell')
+![Das Konzert war sensationell](http://cardamonchai.com/wp-content/uploads/2014/11/img_2546-640x853.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Das Konzert war sensationell")
 
 Das Konzert war sensationell, wir standen in der ersten Reihe und erlebten alles
 hautnah. Das Publikum tobte, alle feierten ausgelassen, endlich "ihre" Chevelle
@@ -72,7 +72,7 @@ Ein schöner Abend alles in allem und eine tolle "neue" Band habe ich auch gleic
 noch kennengelernt: Black Map aus der Bay Area traten als Vorband auf, wer ihre
 Musik noch nicht kennt, sollte definitiv mal reinhören.
 
-## Das Konzert war sensationell<small>Sicher ist Euch aufgefallen, dass ich über die letzten Konzerte nicht berichtet habe und auch dieser Artikel hier sehr verspätet kommt. Das hat zum Teil mit dem anstehenden Relaunch meines Blogs, meiner neuen Aufgabe als freier Redakteurin bei <a title="Vegan News" href="http://www.vegan-news.de" target="_blank" rel="noopener">Vegan News</a> und meiner (leider immer noch, ja! Wer also etwas weiß, oder einen Tipp hat, gerne melden) Stellensuche zu tun.</small>
+## Das Konzert war sensationell<small>Sicher ist Euch aufgefallen, dass ich über die letzten Konzerte nicht berichtet habe und auch dieser Artikel hier sehr verspätet kommt. Das hat zum Teil mit dem anstehenden Relaunch meines Blogs, meiner neuen Aufgabe als freier Redakteurin bei [Vegan News](http://www.vegan-news.de) und meiner (leider immer noch, ja! Wer also etwas weiß, oder einen Tipp hat, gerne melden) Stellensuche zu tun.</small>
 
 Zum Teil aber auch damit, dass ich es ein Bisschen leid geworden bin, ständig
 meine Textpassagen ohne angegebene Zitate und Fotos ohne Anfrage oder Verlinkung
@@ -94,7 +94,7 @@ Bis bald Anne &lt;3
 <em>Hier sind für Euch Chevelle mit "The Clincher", im Anschluss an das Video
 seht Ihr noch ein paar Eindrücke vom Konzert, eine größere Auswahl an Bildern
 findet Ihr wie immer in meinem
-<a title="Anne Flickr" href="https://www.flickr.com/photos/99929697@N07/" target="_blank" rel="noopener">Flickr.</a></em>
+[Flickr.](https://www.flickr.com/photos/99929697@N07/) </em>
 
 [youtube https://www.youtube.com/watch?v=OP3Yhs8q7oM]
 

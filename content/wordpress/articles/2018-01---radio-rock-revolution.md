@@ -52,11 +52,10 @@ subTitle: Internet-Radiosender zeigt, wie Musik geht
 ---
 
 <strong>Ich bin ja durchaus dafür bekannt, mich gerne mal über die
-<a href="http://cardamonchai.com/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/">Musik
-im Radio aufzuregen</a>. Oder über Radiosender generell. Aber meckern kann ja
-jeder. Heute möchte ich mal einen Radiosender loben. Für sein
-abwechslungsreiches Programm, für seine Kreativität und für die Liebe zum
-Detail.</strong>
+[Musik im Radio aufzuregen](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/).
+Oder über Radiosender generell. Aber meckern kann ja jeder. Heute möchte ich mal
+einen Radiosender loben. Für sein abwechslungsreiches Programm, für seine
+Kreativität und für die Liebe zum Detail.</strong>
 
 Die Rede ist von dem kleinen, unabhängigen Sender <em>Radio Paradise </em>aus
 Kalifornien. Betrieben wird <em>Radio Paradise</em> von zwei Musikliebhabern.
@@ -137,9 +136,8 @@ kennenlernen:
 <iframe src="https://www.youtube.com/embed/065jN27sFWk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Alle, die jetzt nur noch eins wollen: Radio Paradise endlich entdecken und
-genießen:
-<a href="https://www.radioparadise.com/rp_2.php?#" target="_blank" rel="noopener">Hier
-geht's lang!</a> Come to the dark side! We have cookies!
+genießen: [Hier geht's lang!](https://www.radioparadise.com/rp_2.php?#) Come to
+the dark side! We have cookies!
 
 Special thanks to <em>Radio Paradise</em> - Thank you guys! You are the
 greatest! Keep on keeping music alive! Rock on! Greetings from Hamburg!

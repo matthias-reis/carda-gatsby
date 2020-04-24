@@ -83,13 +83,13 @@ Mobiltelefon-Ladegerät auf dem Schreibtisch liegen gelassen.
 Beim Aussteigen schubste mich dann ein Kerl, dem es nicht schnell genug gehen
 konnte, gegen die Schulter. Wäre ich nicht über den vor mir im Ausgang der Bahn
 parkenden Kinderwagen (Nein,
-<a href="http://cardamonchai.com/2017/02/latte-macchiato-muttis/">der Kindsvater
-war nicht gewillt</a>, auch nur einen Zentimeter auszuweichen, um den
-Aussteigenden den Weg zu erleichtern) gehechtet: Wer weiß, was passiert wäre.
-Schon aus der Ferne konnte ich die Großbaustelle vernehmen, die sich derzeit
-rund um unsere Wohnstätte befindet. Man arrangiert sich ja echt mit so einigem.
-Aber dieser Krater inmitten der Fußgängerzone ist nicht nur staubig und laut,
-sondern kann einem echt gehörig auf die Nerven gehen.
+[der Kindsvater war nicht gewillt](/2017/02/latte-macchiato-muttis/), auch nur
+einen Zentimeter auszuweichen, um den Aussteigenden den Weg zu erleichtern)
+gehechtet: Wer weiß, was passiert wäre. Schon aus der Ferne konnte ich die
+Großbaustelle vernehmen, die sich derzeit rund um unsere Wohnstätte
+befindet. Man arrangiert sich ja echt mit so einigem. Aber dieser Krater
+inmitten der Fußgängerzone ist nicht nur staubig und laut, sondern kann einem
+echt gehörig auf die Nerven gehen.
 
 Nachdem ich nach dem Aufschließen der Wohnungstür und dem Abstellen meiner
 Schuhe sofort eines dieser kleinen, fiesen Katzenklosteinchen unter meinem
@@ -170,9 +170,7 @@ es nur ein wildgewordener Feuermelder oder eine Baustelle ist, die unsere Ruhe
 stören, sollten wir echt mal ruhig durch die Hose atmen.
 
 Die Fotos habe ich alle in Hamburg gemacht. Das Schild "That's All Folks" stammt
-aus der
-<a href="http://cardamonchai.com/2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/">Ausstellung
-"Brave New World" der <em>Affenfaust Gallerie</em></a>.
+aus der [](/2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/).
 
 &nbsp;
 

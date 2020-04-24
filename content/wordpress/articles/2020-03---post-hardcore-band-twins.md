@@ -184,13 +184,12 @@ Euch viel Erfolg mit "Soon"!
 
 Am 14. Februar erschien das spektakuläre Twins Album "Soon". Das dritte Stück
 darauf trägt den Namen "Library" Ihr kennt es bereits aus der
-<a href="http://cardamonchai.com/2020/02/12-songs-fuer-den-maerz/">Musikliste
-für den März</a>. Das komplette Werk spielt sich zwischen bezaubernden Melodien
-und Bühne zerlegen ab - genau, was man sich von einer ordentlichen Post-Hardcore
-Platte erhofft.
+[Musikliste für den März](/2020/02/12-songs-fuer-den-maerz/). Das komplette Werk
+spielt sich zwischen bezaubernden Melodien und Bühne zerlegen ab - genau, was
+man sich von einer ordentlichen Post-Hardcore Platte erhofft.
 
 <ul>
-    <li><a href="https://music.apple.com/de/album/soon/1494305490" target="_blank" rel="noopener nofollow">"Soon" bei iTunes</a></li>
-    <li><a href="https://open.spotify.com/album/3xZquE5MK932k873lUVBLB?si=joAOW9PLTOiGUQ0Z1eVWjw" target="_blank" rel="noopener nofollow">"Soon" bei Spotify</a></li>
-    <li><a href="https://throughloverec.bandcamp.com/album/soon" target="_blank" rel="noopener nofollow">Twins bei Bandcamp</a></li>
+    <li> ["Soon" bei iTunes](https://music.apple.com/de/album/soon/1494305490) </li>
+    <li> ["Soon" bei Spotify](https://open.spotify.com/album/3xZquE5MK932k873lUVBLB?si=joAOW9PLTOiGUQ0Z1eVWjw) </li>
+    <li> [Twins bei Bandcamp](https://throughloverec.bandcamp.com/album/soon) </li>
 </ul>

@@ -74,14 +74,13 @@ geben, die sich das Shirt in einem Rahmen ins Wohnzimmer hängen würden, ich
 denke, ich werde es tragen. Wie Destreet schon meinte:
 
 <blockquote>Die Farbe ist sehr robust, es ist 40 Grad waschbar und ich freue mich, wenn es mit Dir Hamburg erkundet!</blockquote>
-"Abatuuze" bedeutet übrigens so viel wie "die Menschen". Derzeit reist Destreet um die Welt und unterstützt mit seiner Kunst humanitäre Projekte. Der Erlös der von ihm im Rahmen der Ausstellung im <a href="http://cardamonchai.com/2016/05/millerntor-stadion-hamburg/">Millerntor-Stadion</a> verkauften T-Shirts kommt beispielsweise <a href="http://cardamonchai.com/2017/06/ethnotek-viva-con-agua/">Viva con Agua</a> zugute.
+"Abatuuze" bedeutet übrigens so viel wie "die Menschen". Derzeit reist Destreet um die Welt und unterstützt mit seiner Kunst humanitäre Projekte. Der Erlös der von ihm im Rahmen der Ausstellung im  [Viva con Agua](/2016/05/millerntor-stadion-hamburg/)  zugute.
 
 Online findet Ihr Destreet unter
-<a href="http://www.destreetart.webs.com" target="_blank" rel="noopener">www.destreetart.webs.com</a>
+[www.destreetart.webs.com](http://www.destreetart.webs.com)
 
 Streetart und mehr aus der Affenfaustgalerie in Hamburg
-<a href="http://cardamonchai.com/2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/).
 
 [gallery type="rectangular" size="large" link="none" ids="17025,17024"]
 

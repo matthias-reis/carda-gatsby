@@ -51,18 +51,12 @@ häufig nicht mal im Ansatz damit rechnet tierische Inhaltsstoffe befinden.
 Angefangen bei Gummitierchen, über die Handcreme bis zum Knofibaguette.
 
 Food-Watch hat nun eine
-<a href="http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html" target="_blank" rel="noopener">Mitmach-Aktion</a>
-ins Leben gerufen, bei der man in einem Schreiben zu diesem heißen Thema an die
-Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz, Ilse
-Aigner,
-<a href="http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html" target="_blank" rel="noopener">mitzeichnen</a>
+[mitzeichnen](http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html)
 kann.
 
 Ich bin eindeutig FÜR eine eindeutige Kennzeichnung und habe mich bei dieser
 Aktion gleich
-<a href="http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html" target="_blank" rel="noopener">eingetragen</a>.
-Es wäre super, wenn der/die ein oder andere von Euch auch
-<a href="http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html" target="_blank" rel="noopener">mitmachen</a>
+[mitmachen](http://foodwatch.de/kampagnen__themen/vegetarismus_veganismus/e_mail_aktion/index_ger.html)
 würde.
 
 Herzlichen Dank für die Aufmerksamkeit und ein schönes Wochenende.

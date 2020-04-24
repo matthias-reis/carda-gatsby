@@ -170,30 +170,24 @@ strukturelle Unterstützung von einer Regierung erhält. Die EVA rief unter
 anderem eine sehr erfolgreiche Kampagne ins Leben, aus der die Stadt Ghent das
 erste Stadt weltweit hervorging, die einen vegetarischen Tag unterstützt.
 
-Gemeinsam mit <strong>Melanie Joy</strong>
-("<a href="https://www.amazon.de/gp/product/3981462173/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3981462173&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=ccfdf97b15e83f52f02a1d9b67a0d5f8" target="_blank" rel="noopener nofollow">Warum
-wir Hunde lieben, Schweine essen und Kühe anziehen</a>") gibt er
-Tierrechtsseminare für das "<strong>Centre Of Effective Vegan Advocacy</strong>"
-(CEVA). Außerdem ist er Mitbegründer von <strong>ProVeg International</strong>.
-Die Organisation hat sich das Ziel gesetzt, den Konsum tierischer Produkte bis
-2014 weltweit um 50 Prozent zu reduzieren.
+Gemeinsam mit <strong>Melanie Joy</strong> ( "[Warum wir Hunde lieben, Schweine
+essen und Kühe
+anziehen](https://www.amazon.de/gp/product/3981462173/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3981462173&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=ccfdf97b15e83f52f02a1d9b67a0d5f8)"
+) gibt er Tierrechtsseminare für das "<strong>Centre Of Effective Vegan
+Advocacy</strong>" (CEVA). Außerdem ist er Mitbegründer von <strong>ProVeg
+International</strong>. Die Organisation hat sich das Ziel gesetzt, den Konsum
+tierischer Produkte bis 2014 weltweit um 50 Prozent zu reduzieren.
 
 ## Infos
 
-"<a href="https://www.amazon.de/gp/product/1590565703/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=1590565703&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=5eb11934c2deaf10ce12f7d140248b78" target="_blank" rel="noopener nofollow">How
-To Create A Vegan World</a>" ist im Verlag Lantern Books erschienen. Das Buch
-trägt die ISBN-Nummer <strong>978-1-59056-570-4</strong>. Tobias Leenaert lebt
-in Ghent und bloggt auf
-<a href="http://www.veganstrategist.org" target="_blank" rel="noopener nofollow">www.veganstrategist.org</a>.
+"[www.veganstrategist.org](https://www.amazon.de/gp/product/1590565703/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=1590565703&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=5eb11934c2deaf10ce12f7d140248b78).
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
-Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>, sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst
-lese, desto mehr möchte ich darüber berichten.
+Bestandteil meines Blogs etablieren. Meine Lesewut hat sich [seit ich gemeinsam
+mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
+habe](https://amreis.de/hermetiker/), sogar noch ein bisschen gesteigert. Gut
+für Euch: Je mehr ich selbst lese, desto mehr möchte ich darüber berichten.
 
 <em>\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

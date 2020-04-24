@@ -47,13 +47,12 @@ Facebook entdeckte und ihr schrieb. Wie froh war ich damals, endlich wieder mit
 ihr schreiben zu können! Und sie hatte ganz besondere Nachrichten für mich!
 
 Sie war nach Istanbul,
-<a title="Mein Istanbul" href="//2010/01/08/mein-istanbul/" target="_blank" rel="noopener">meine
-persönliche Stadt der Herzen</a> aufgebrochen, um dort ein Erasmus-Semester zu
-verbringen. Was für ein Zufall! Ich war sogar zeitgleich mit Ihr dort gewesen!
-Hätte ich das gewusst, hätten wir sicher den ein oder anderen schönen Abend in
-Istanbul verbracht. Aber aufgeschoben ist schließlich nicht aufgehoben und nun
-da ich weiß, wo meine liebe Caro sich aufhält, werde ich sie sicherlich ganz
-bald dort besuchen.
+[meine persönliche Stadt der Herzen](//2010/01/08/mein-istanbul/) aufgebrochen,
+um dort ein Erasmus-Semester zu verbringen. Was für ein Zufall! Ich war sogar
+zeitgleich mit Ihr dort gewesen! Hätte ich das gewusst, hätten wir sicher den
+ein oder anderen schönen Abend in Istanbul verbracht. Aber aufgeschoben ist
+schließlich nicht aufgehoben und nun da ich weiß, wo meine liebe Caro sich
+aufhält, werde ich sie sicherlich ganz bald dort besuchen.
 
 Caro hätte Istanbul bereits nach vier Monaten Erasmus wieder verlassen, wäre da
 nicht Özgür gewesen, in den sie sich Hals über Kopf verliebte und er sich in
@@ -134,7 +133,7 @@ mit ihnen zu pflegen. Özgür holten sie am Flughafen ab, um die ersten Momente
 auf Istanbuler Boden festzuhalten, Janina trafen sie, nachdem sie sich ca. eine
 Woche lang in Istanbul aufgehalten hatte und Joanna nach ungefähr einem Monat.
 
-![Friedenstaube über dem Bosporus Anne Reko 2010 ](http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490 '<a href="//2010/01/09/mowen-am-bosporus/"> </a> Friedenstaube über dem Bosporus Anne Reko 2010')
+![Friedenstaube über dem Bosporus Anne Reko 2010 ](http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490 " [](//2010/01/09/mowen-am-bosporus/)  Friedenstaube über dem Bosporus Anne Reko 2010")
 
 Danach statteten sie den Dreien in regelmäßigen Abständen Besuche ab und nahmen
 an ihrem täglichen Leben teil. Der gesamte Zeitraum des Films umfasst eine
@@ -163,16 +162,14 @@ arbeitet Caro als freiberufliche Übersetzerin und Journalisten in Istanbul
 
 Nach einem Erasmus-Jahr 2010 kehrte Marie wieder nach Deutschland zurück und kam
 im Jahr 2012 wieder nach Istanbul zurück, um ihre Arbeit bei
-<a href="http://www.katadromart.com/en/">Katadrom,</a> einer Kunst- und
-Kultur-Organisation aufzunehmen.
+[Katadrom,](http://www.katadromart.com/en/) einer Kunst- und Kultur-Organisation
+aufzunehmen.
 
 Hier geht es zur Facebook-Seite des Filmprojekts
-<a href="https://www.facebook.com/IstanbulMitAnderenAugen">Istanbul mit anderen
-Augen</a>
+[Istanbul mit anderen Augen](https://www.facebook.com/IstanbulMitAnderenAugen)
 
-Die
-<a title="Istanbul Changing" href="http://istanbulchangingperspectives.wordpress.com" target="_blank" rel="noopener">Homepage</a>
-befindet sich derzeit noch im Aufbau, kann aber schon besucht werden.
+Die [Homepage](http://istanbulchangingperspectives.wordpress.com) befindet sich
+derzeit noch im Aufbau, kann aber schon besucht werden.
 
 ## Hinweis zur aktuellen Lage in Istanbul und der Türkei
 
@@ -180,10 +177,10 @@ befindet sich derzeit noch im Aufbau, kann aber schon besucht werden.
 
 Ich arbeite schon länger an diesem Artikel zum Filmprojekt von Marie und Caro.
 Erst habe ich überlegt, ob ich ihn, ob der
-<a title="New York Times On Istanbul" href="http://www.nytimes.com/2013/06/05/world/europe/istanbul-protests-started-over-trees.html?hp" target="_blank" rel="noopener">aktuellen
-Situation in der Türkei</a> vielleicht lieber verschieben sollte. Ich entschied
-mich, das Gegenteil zu tun. Mir ist es sehr wichtig, zu zeigen, um was für eine
-besondere Stadt es sich bei Istanbul handelt.
+[aktuellen Situation in der Türkei](http://www.nytimes.com/2013/06/05/world/europe/istanbul-protests-started-over-trees.html?hp)
+vielleicht lieber verschieben sollte. Ich entschied mich, das Gegenteil zu tun.
+Mir ist es sehr wichtig, zu zeigen, um was für eine besondere Stadt es sich bei
+Istanbul handelt.
 
 Derzeit gehen, was die aktuelle Lage betrifft, einige Fehlmeldungen durch die
 Presse. Hier besteht dringend Aufklärungsbedarf. Momentan arbeite ich mit
@@ -216,16 +213,13 @@ Istanbul, auf dem Taksimplatz ist sehr besonders, unreal, positiv. Die Leute
 wissen, dass sie Geschichte schreiben könnten. Ich hoffe, es bleibt friedlich
 und das Volk bleibt weiterhin Seite an Seite."
 
-## Hier noch einige Informationen von Marie, wo man am besten unabhängige Nachrichten lesen kann:</span><a title="Aljazeera" href="http://www.aljazeera.com" target="_blank" rel="noopener">Alyazeera</a><a title="BBC" href="http://www.bbc.co.uk" target="_blank" rel="noopener">BBC</a><a title="CCN International" href="http://edition.cnn.com" target="_blank" rel="noopener">CCN International</a><a title="Halte durch Türkei" href="https://www.facebook.com/haltedurchturkei" target="_blank" rel="noopener">Hier eine Facebook-Gruppe zum Thema
+## Hier noch einige Informationen von Marie, wo man am besten unabhängige Nachrichten lesen kann:</span> [CCN International](http://www.aljazeera.com) <a title="Halte durch Türkei" href="https://www.facebook.com/haltedurchturkei" target="_blank" rel="noopener">Hier eine Facebook-Gruppe zum Thema
 
-</a><a title="Geziparki" href="https://www.facebook.com/geziparkidirenisi?fref=ts" target="_blank" rel="noopener">Hier
-Maries Favorit</a>##
-</span><a title="Brutatlity" href="http://turkishpolicebrutality.tumblr.com" target="_blank" rel="noopener">hier</a><a title="Occupy Gezi" href="http://occupygezipics.tumblr.com" target="_blank" rel="noopener">und
-hier</a>
+</a> [und hier](https://www.facebook.com/geziparkidirenisi?fref=ts)
 
 Für den Moment werde ich es bei diesem kurzen Anhang zu meinem Artikel belassen,
 aber ich könnt Euch sicher sein: Ich werde auf jeden Fall weiter berichten!
 
-![Istanbul mit andern Augen | full](http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg '<a title="Istanbul Changes" href="http://istanbulchangingperspectives.wordpress.com" target="_blank" rel="noopener"> </a><a title="Istanbul Changes" href="http://istanbulchangingperspectives.wordpress.com" target="_blank" rel="noopener">Istanbul mit andern Augen</a>')
+![Istanbul mit andern Augen | full](http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg " [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com) ")
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

@@ -111,9 +111,8 @@ Küsse an alle
 
 Anne</blockquote><strong>Nachtrag vom 9.10.2012:</strong>
 
-Die Twitterin
-<a title="taytom" href="https://twitter.com/taytomFFM">@</a><strong><a title="taytom" href="https://twitter.com/taytomFFM">taytomFFM</a></strong>hat
-mich soeben dazu inspiriert, an dieser Stelle einen Nachtrag zu schreiben.
+Die Twitterin [taytomFFM](https://twitter.com/taytomFFM) </strong>hat mich
+soeben dazu inspiriert, an dieser Stelle einen Nachtrag zu schreiben.
 
 Inzwischen habe ich herausgefunden, dass eine Kündigung bei 1&amp;1 nur online
 funktioniert. Ich habe das von einer ehemaligen 1&amp;1-Mitarbeiterin erfahren,
@@ -147,4 +146,4 @@ April, aber man kann ja schließlich nicht alles haben.).
 Ich wünsche allen, die noch mit diesem Verein zu tun haben viel Glück. Haltet
 durch!
 
-<a title="Nachtrag" href="http://cardamonchai.com/2012/10/immer-arger-mit-dem-sendemast-2/"><span style="text-decoration: underline;"><em><strong>Weiterlesen...</strong></em></span></a>
+[](/2012/10/immer-arger-mit-dem-sendemast-2/)

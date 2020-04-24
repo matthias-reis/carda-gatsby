@@ -49,11 +49,10 @@ Reisen inspirieren ihn immer wieder zu neuen Ideen. 2018 wurde er vom Veer
 Magazin für seine Debut-EP "Volcan" mit dem Preis für "Best Experimental Act"
 ausgezeichnet.
 
-Schon in meiner
-<a href="http://cardamonchai.com/2020/03/12-songs-fuer-den-april/">Musikliste
-für den April</a> habt Ihr einen von Kévins Songs zu hören bekommen. Jetzt ist
-sein neues Album "Home" erschienen. Im Interview haben wir uns darüber und über
-die aktuelle weltweite Situation unterhalten.
+Schon in meiner [Musikliste für den April](/2020/03/12-songs-fuer-den-april/)
+habt Ihr einen von Kévins Songs zu hören bekommen. Jetzt ist sein neues Album
+"Home" erschienen. Im Interview haben wir uns darüber und über die aktuelle
+weltweite Situation unterhalten.
 
 <strong>Anne:</strong> Hallo Kevin! Vielen Dank, dass Du Dir die Zeit für das
 Interview nimmst. Wie geht es Dir? Hoffentlich gut. Corona ist ja leider derzeit
@@ -265,11 +264,9 @@ Livestream am 17. April und auf mehr neue Musik von Dir!
 <strong>Kévin:</strong> Danke Dir! Es hat mir sehr viel Spaß gemacht. Es war
 schön, Dich kennenzulernen. Bleib gesund und pass auf Dich auf!
 
-<a href="pitp.bandcamp.com/album/home" target="_blank" rel="noopener">Hier könnt
-Ihr Euch das neue From Overseas Album "Home" anhören</a>.
+[Hier könnt Ihr Euch das neue From Overseas Album "Home" anhören](pitp.bandcamp.com/album/home).
 
-<a href="https://www.fromoverseasmusic.com/" target="_blank" rel="noopener">Hier
-geht es zur From Overseas Homepage</a>.
+[Hier geht es zur From Overseas Homepage](https://www.fromoverseasmusic.com/).
 
 Das From Overseas Album "Home" ist am 25. März beim Ambient Label Past Inside
 The Present erschienen.
@@ -487,8 +484,6 @@ the livestream on the 17th and to more music from you!
 <strong>Kévin:</strong> Thank you very much, I had a great time. It was nice
 meeting you, stay safe and take care!
 
-<a href="pitp.bandcamp.com/album/home" target="_blank" rel="noopener">You can
-listen to the new From Overseas album "Home" here</a>.
+[You can listen to the new From Overseas album "Home" here](pitp.bandcamp.com/album/home).
 
-<a href="https://www.fromoverseasmusic.com/" target="_blank" rel="noopener">You
-can find the From Overseas homepage here</a>.
+[You can find the From Overseas homepage here](https://www.fromoverseasmusic.com/).

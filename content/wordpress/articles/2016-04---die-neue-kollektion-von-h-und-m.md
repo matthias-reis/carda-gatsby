@@ -50,13 +50,8 @@ Haltung" stammen, so ein Sprecher des Konzerns.
 H&amp;M spricht sich nicht als veganer Konzern aus, nutzt aber Worte wie
 "umweltbewusst" und "cruelty-free" für seine Werbekampagnen. Das kann zu
 Verwirrung der Konsumenten führen, die sich auf derartige Label verlassen.
-<a href="http://cardamonchai.com/2018/02/faire-klamotten/">Wer auf der Suche
-nach Alternativen ist und gerne wirklich tierleidfreie und nachhaltige Kleidung
-kaufen möchte, findet hier einige Beispiele</a>.
+[Wer auf der Suche nach Alternativen ist und gerne wirklich tierleidfreie und nachhaltige Kleidung kaufen möchte, findet hier einige Beispiele](/2018/02/faire-klamotten/).
 
-<a href="http://cardamonchai.com/2015/09/hm-baut-tierrechtsstandards-aus/">H&amp;M
-baut Tierrechtsstandards aus</a>
+[H&amp;M baut Tierrechtsstandards aus](/2015/09/hm-baut-tierrechtsstandards-aus/)
 
-Bild:
-<a href="https://pixabay.com/users/engin_akyurt-3656355/" target="_blank" rel="noopener nofollow">Angin_Akyurt</a>,
-Pixabay
+Bild: [Angin_Akyurt](https://pixabay.com/users/engin_akyurt-3656355/), Pixabay

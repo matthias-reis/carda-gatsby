@@ -51,11 +51,8 @@ inzwischen 200 Kommentare auf der Seite.
 
 Vielen Dank dafür an alle Besucher und treuen Leser. Bleibt mir gewogen und
 besucht mich auch gerne jederzeit auf
-<a title="Facebook" href="https://www.facebook.com/pages/cardamonchai/163792830347189" target="_blank" rel="noopener">Facebook
-</a>oder
-<a title="Twitter" href="https://twitter.com/Anne_Reko" target="_blank" rel="noopener">Twitter</a>.
-Fragen und Musiktipps nehme ich natürlich auch gerne jederzeit per E-Mail
-entgegen.
+[Twitter](https://www.facebook.com/pages/cardamonchai/163792830347189). Fragen
+und Musiktipps nehme ich natürlich auch gerne jederzeit per E-Mail entgegen.
 
 ![Calexico spielen einen Tusch | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/08/166310_177235742298563_3601359_n-150x150.jpg)
 

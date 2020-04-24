@@ -37,16 +37,16 @@ Jeder kann einen Beitrag zum Tierschutz leisten, indem er tierversuchsfreie
 Kosmetik benutzt. Das ist leider oft nicht so einfach, da auf den Produkten
 keine Vermerke stehen, die auf Tierversuche hinweisen.
 
-![Demonstration gegen Tierversuche Bild: PETA](http://cardamonchai.com/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21-640x480.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21.jpg"> </a> Demonstration gegen Tierversuche Bild: PETA')
+![Demonstration gegen Tierversuche Bild: PETA](http://cardamonchai.com/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21-640x480.jpg " [](/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21.jpg)  Demonstration gegen Tierversuche Bild: PETA")
 
 Listen mit Kosmetikfirmen, die Ihre Produkte garantiert NICHT an Tieren testen
 sind zu finden unter:
 
-<a href="http://tierschutz-tierrechte.suite101.de/article.cfm/tierversuchsfreie_kosmetik" rel="nofollow">http://tierschutz-tierrechte.suite101.de/article.c...</a>
+[http://tierschutz-tierrechte.suite101.de/article.c...](http://tierschutz-tierrechte.suite101.de/article.cfm/tierversuchsfreie_kosmetik)
 
 sowie unter:
 
-<a href="http://www.peta.de/web/kosmetik.1724.html" rel="nofollow">http://www.peta.de/web/kosmetik.1724.html</a>
+[http://www.peta.de/web/kosmetik.1724.html](http://www.peta.de/web/kosmetik.1724.html)
 
 Unter den angegebenen Links sind auch einige weitere wichtige Informationen für
 Tierschützer zu finden.
@@ -70,5 +70,6 @@ anderes Unternehmen durchführen lässt.
 
 Vorsicht ist auf jeden Fall geboten!
 
-<strong>Quellen:
-</strong><a href="http://tierschutz-tierrechte.suite101.de/article.cfm/tierversuchsfreie_kosmetik" rel="nofollow">http://tierschutz-tierrechte.suite101.de/article.c...</a><a href="http://www.peta.de/web/kosmetik.1724.html" rel="nofollow">http://www.peta.de/web/kosmetik.1724.html</a><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+<strong>Quellen: </strong>
+[http://www.peta.de/web/kosmetik.1724.html](http://tierschutz-tierrechte.suite101.de/article.cfm/tierversuchsfreie_kosmetik)
+<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

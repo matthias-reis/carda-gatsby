@@ -64,17 +64,13 @@ berichtet der Direktor des Food from Finland Programms bei Business Finland Esa
 Wrang. Was den Geschmack betrifft, verspricht sie wilde Aromen, die an helle
 Sommernächte erinnern. Ich bin auf jeden Fall schon sehr gespannt, es bald zu
 probieren. Denn was gibt es Schöneres, als
-<a href="https://cardamonchai.com/tag/finnland2016/">einen wunderbar sonnigen
-Sommer in Finnland</a> mit frischen Beeren, Mitternachtsssonne und Sauna?
+[einen wunderbar sonnigen Sommer in Finnland](/tag/finnland2016/) mit frischen
+Beeren, Mitternachtsssonne und Sauna?
 
 ## Veganes Bio-Eis Blaubeere und Kiefer
 
-Das Programm "Food from Finland"<a href="#1"><sup>1</sup></a> unterstützt
-finnische Lebensmittelunternehmen sich am internationalen Lebensmittelmarkt zu
-integrieren. Innovative, gesunde und natürliche Lebensmittel stehen dabei im
-Vordergrund. Bei "Business Finland"<a href="#2"><sup>2</sup></a> handelt es sich
-um eine öffentliche Einrichtung, die Firmen Innovationsfinanzierung und
-Unterstützung anbietet.
+Das Programm "Food from Finland "[](#1) handelt es sich um eine öffentliche
+Einrichtung, die Firmen Innovationsfinanzierung und Unterstützung anbietet.
 
 Maito Oy produziert das Jymy Eis. Die Eisfabrik Suomisen Maito eröffnete 2014
 und wurde seitdem bereits mehrfach mit Preisen ausgezeichnet. Alle Zutaten kauft
@@ -89,9 +85,9 @@ Hersteller "finnischste Eisgeschmack aller Zeiten".
 Finnland besitzt auf dem Gebiet der Lebensmittelqualität eine bedeutende
 Sonderstellung. Das Fundament dafür bilden schonende Anbau- und
 Produktionsverfahren sowie Umweltschutz und
-<a href="https://cardamonchai.com/category/gesellschaft/tierschutz/">Tierschutz</a>.
-So sind zum Beispiel das Flügelstutzen und das Kupieren von Schweineschwänzen
-bereits seit dem Jahr 2003 gesetzlich verboten.
+[Tierschutz](/category/gesellschaft/tierschutz/). So sind zum Beispiel das
+Flügelstutzen und das Kupieren von Schweineschwänzen bereits seit dem Jahr 2003
+gesetzlich verboten.
 
 Im Vergleich mit anderen Ländern schneidet Finnland auch, was die Hygiene
 angeht, sehr gut ab. Da die Salmonellensituation im Land so gut ist, gewährte
@@ -109,26 +105,23 @@ sehr gut. Etwa 30 Prozent des weltweiten Bio-Wildsammelareals befindet sich in
 Finnland. Wenn die Tage im Hochsommer bis zu 19 Stunden dauern, wachsen
 Heidelbeeren und Co. rund um den Polarkreis wie von selbst.
 
-<a href="http://www.jymy.fi" target="_blank" rel="noopener nofollow">Auf der
-Jymy Homepage</a> findet Ihr weitere Infos über das neue vegane Eis.
+[Auf der Jymy Homepage](http://www.jymy.fi) findet Ihr weitere Infos über das
+neue vegane Eis.
 
 ### Fußnoten
 
 <ul>
     <li style="list-style-type: none;">
 <ul>
-    <li id="1">[1] <a href="https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/" target="_blank" rel="noopener nofollow">Food from Finland</a></li>
-    <li id="2">[2] <a href="https://www.businessfinland.fi/en/do-business-with-finland/home/" target="_blank" rel="noopener nofollow">Business Finland</a></li>
+    <li id="1">[1]  [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/) </li>
+    <li id="2">[2]  [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/) </li>
 </ul>
 </li>
 </ul>
 
 ### Quellen
 
-<a href="https://www.businessfinland.fi/en/do-business-with-finland/home/" target="_blank" rel="noopener nofollow">Business
-Finland</a>,
-<a href="https://www.luke.fi/ruokafakta/de/titelseite/" target="_blank" rel="noopener">Finnisches
-Institut für natürliche Ressourcen (Luke)</a>
+[Finnisches Institut für natürliche Ressourcen (Luke)](https://www.businessfinland.fi/en/do-business-with-finland/home/)
 
 ### Foto im Header
 
@@ -137,5 +130,4 @@ Institut für natürliche Ressourcen (Luke)</a>
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung
 gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog
-findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

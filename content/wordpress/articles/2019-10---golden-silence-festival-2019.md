@@ -49,11 +49,9 @@ angeschlagen - beim Golden Silence Festival ist der Name Programm - es wird
 ausschließlich Musik ohne Lyrics zum Besten gegeben.
 
 Zum Event geladen hat die Münsteraner Band
-<a href="http://cardamonchai.com/2016/05/long-distance-calling-uebel-und-gefaehrlich/">Long
-Distance Calling</a>. Als eine Art Premierenparty zum
-<a href="http://cardamonchai.com/2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/">neuen
-Konzertfilm</a>, der im Sommer in der Kulturkirche Altona aufgenommen wurde,
-wird mit instrumentaler Musik gefeiert.
+[neuen Konzertfilm](/2016/05/long-distance-calling-uebel-und-gefaehrlich/), der
+im Sommer in der Kulturkirche Altona aufgenommen wurde, wird mit instrumentaler
+Musik gefeiert.
 
 ## Golden Silence Festival - die Bands
 
@@ -62,10 +60,9 @@ musste die Band jedoch kurzfristig absagen. Die Schweizer Psycheledic-Freunde
 Monkey3 werden als würdiger Ersatz einspringen.
 
 Außerdem kommen Mutiny on the Bounty aus Luxemburg, Kuf und
-<a href="http://cardamonchai.com/2019/11/curls-nods-im-interview/">Curls &amp;
-Nods</a> (beide aus D) nach Münster. Wir sind schon sehr gespannt und halten
-unsere Tickets bereit. Bestimmt wird es an dieser Stelle auch einen kurzen
-Nachbericht zum Festival geben.
+[Curls &amp; Nods](/2019/11/curls-nods-im-interview/) (beide aus D) nach
+Münster. Wir sind schon sehr gespannt und halten unsere Tickets bereit. Bestimmt
+wird es an dieser Stelle auch einen kurzen Nachbericht zum Festival geben.
 
 Das Golden Silence Festival findet zum ersten Mal statt. Long Distance Calling
 planen, damit in Serie zu gehen und in Zukunft "nur" noch als Veranstalter zu
@@ -74,5 +71,4 @@ fungieren.
 <iframe src="https://www.youtube.com/embed/sFAf3ugFeGI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <strong>Grafik &amp; Quelle:</strong>
-<a href="https://www.skaters-palace.de/veranstaltungen/golden-silence-festival" target="_blank" rel="noopener nofollow">Golden
-Silence Festival / Long Distance Calling</a>
+[Golden Silence Festival / Long Distance Calling](https://www.skaters-palace.de/veranstaltungen/golden-silence-festival)

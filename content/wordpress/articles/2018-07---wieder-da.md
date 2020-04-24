@@ -55,9 +55,8 @@ einen Moment, um anzukommen und alles wieder richtig schön einzutakten.
 Als kleine Überbrückung bis zum nächsten Beitrag gönne ich Euch heute schon mal
 ein paar Reiseimpressionen aus meinem Instagram Account. Einige von Euch haben
 ja schon mitbekommen, dass es uns bei unserem
-<a href="http://cardamonchai.com/2018/06/roadtrip-in-progress/">Roadtrip</a> von
-Dänemark nach Schweden und zum Schluss auch noch auf ein ganz besonderes Konzert
-nach Berlin verschlagen hat.
+[Roadtrip](/2018/06/roadtrip-in-progress/) von Dänemark nach Schweden und zum
+Schluss auch noch auf ein ganz besonderes Konzert nach Berlin verschlagen hat.
 
 Bis bald also! Wir lesen uns!
 

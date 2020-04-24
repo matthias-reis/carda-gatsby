@@ -38,9 +38,8 @@ Werbung\*
 
 Den September-Basket werde ich höchstpersönlich testen und meinen Bericht
 anschließend hier im Blog veröffentlichen. Ihr dürft also gespannt sein! Ich
-kenne die Box schon von
-<a href="http://cardamonchai.com/andere-blogs/vegan-beauty-basket/">meinem
-Artikel</a> für Vegan News und freue mich total auf die Aktion.
+kenne die Box schon von [meinem Artikel](/andere-blogs/vegan-beauty-basket/) für
+Vegan News und freue mich total auf die Aktion.
 
 ## Tolle Geburtstagsaktion von Vegan Beauty Basket
 
@@ -72,8 +71,7 @@ vorgestellt. Besonders hohen Wert legt Ina bei der Auswahl der Produkte auf die
 Standards der Hersteller.
 
 Zum Vegan Beauty Basket und zum Angebot geht es
-<a href="http://www.veganbeautybasket.com/" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](http://www.veganbeautybasket.com/).
 
 <em>\*Das Angebot gilt solange der Vorrat reicht.</em>
 
@@ -83,14 +81,13 @@ entlang</a>.
 
 <ol>
     <li>Der Basket im 3er-Abo 8/2016</li>
-    <li><a href="http://cardamonchai.com/2016/09/vegan-beauty-basket-im-test/">Im Test 9/2016</a></li>
-    <li><a href="http://cardamonchai.com/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/">Unboxing Weihnachtsedition 12/2016</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/vegan-beauty-basket-interview/">Interview mit Gründerin Ina 2/2017</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/unboxing-vegan-beauty-basket-maerz/">Unboxing März-Ausgabe 3/2018</a></li>
+    <li> [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/) </li>
+    <li> [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) </li>
+    <li> [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/) </li>
+    <li> [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/) </li>
 </ol>
-Zum Vegan Beauty Basket geht es <a href="https://www.veganbeautybasket.com/" target="_blank" rel="noopener">hier entlang.</a>
+Zum Vegan Beauty Basket geht es  [hier entlang.](https://www.veganbeautybasket.com/)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em></div>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em></div>

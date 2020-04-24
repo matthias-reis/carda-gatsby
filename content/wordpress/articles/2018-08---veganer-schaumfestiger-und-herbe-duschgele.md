@@ -105,15 +105,13 @@ meinen Geschmack getroffen. Beide Sorten erfrischen wirklich ganz toll. Sie
 trocknen die Haut nicht aus und sind schön cremig.
 
 Beide Gele enthalten Bio-Mandelmilch. Genau, wie auch das von mir getestete
-<a href="http://cardamonchai.com/2018/01/bioturm/">Mango-Duschgel</a>, sind sie
-für häufiges Duschen gedacht und somit perfekt für Sportler geeignet.
+[Mango-Duschgel](/2018/01/bioturm/), sind sie für häufiges Duschen gedacht und
+somit perfekt für Sportler geeignet.
 
 Im Moment kann ich gar nicht sagen, welches mein Favorit ist: Zitrone oder
 Wachholder. Ich benutze sie einfach im Wechsel. Oder vielleicht einfach mal
 gemischt? Immerhin die beiden Aromen zusammen ja mit anderen Grundlagen einen
-weltberühmten
-<a href="http://cardamonchai.com/2018/06/tom-yum-mule/">Longdrink</a>. Doch ich
-schweife ab.
+weltberühmten [Longdrink](/2018/06/tom-yum-mule/). Doch ich schweife ab.
 
 Das Zitronenduschgel duftet sommerlich und anregend. Die natürlichen
 Zitrusaromen überfordern die Nase nicht und wirken auf keinen Fall zu fruchtig.
@@ -153,14 +151,13 @@ kommen auch beim Versand ohne zusätzliche Umverpackung aus.
 
 Insgesamt überzeugen mich die Bioturm Newcomer wieder sehr. Sie haben bei mir
 definitiv einen Platz in der
-<a href="https://cardamonchai.com/category/vegan-2/vegan-beauty/">Ecke mit den
-Beauty-Lieblingen</a> verdient.
+[Ecke mit den Beauty-Lieblingen](/category/vegan-2/vegan-beauty/) verdient.
 
 Da ich mich immer mehr mit Themen wie
-<a href="https://cardamonchai.com/category/gesellschaft/klima-umweltschutz/">Nachhaltigkeit</a>,
-Müllvermeidung und Umweltschutz beschäftige, habe ich persönlich mir im
-Anschluss an meinen Test noch die Frage gestellt, ob es generell möglich ist,
-Styling-Produkte, wie Haarspray und -Festiger in Glasflaschen zu verpacken.
+[Nachhaltigkeit](/category/gesellschaft/klima-umweltschutz/), Müllvermeidung und
+Umweltschutz beschäftige, habe ich persönlich mir im Anschluss an meinen Test
+noch die Frage gestellt, ob es generell möglich ist, Styling-Produkte, wie
+Haarspray und -Festiger in Glasflaschen zu verpacken.
 
 ## Was bringt die Zukunft?
 
@@ -210,15 +207,13 @@ habe. Lest sie am besten selbst:
 Das klingt doch schon mal sehr gut, oder? Ich bleibe auf jeden Fall auch dran
 und werde weiter berichten!
 
-<pre><a href="http://cardamonchai.com/2018/01/bioturm/">Mehr über Bioturm erfahrt Ihr hier</a></pre>
+<pre> [Mehr über Bioturm erfahrt Ihr hier](/2018/01/bioturm/) </pre>
 
-<pre><a href="http://cardamonchai.com/2018/03/vegane-kosmetik-und-naturkosmetik/">Mehr über Naturkosmetik gibt es hier</a></pre>
+<pre> [Mehr über Naturkosmetik gibt es hier](/2018/03/vegane-kosmetik-und-naturkosmetik/) </pre>
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
 Vielen Dank an Bioturm für die freundliche Zurverfügungstellung der Produkte!
-<a href="https://www.bioturm.de/" target="_blank" rel="noopener">Hier gehts zur
-Homepage</a>.
+[Hier gehts zur Homepage](https://www.bioturm.de/).

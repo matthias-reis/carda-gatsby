@@ -37,10 +37,11 @@ thumbnailId: "18373"
 subTitle: Teil 2/2 - Puss In Boots Animal Rescue &amp; Adoption stellt sich vor
 ---
 
-<b>(<a href="http://cardamonchai.com/2017/10/die-tiertafel-hamburg-stellt-sich-vor/">Hier
-gehts zu Teil 1/2 des Interviews</a>) Im zweiten Teil meines Interview mit Kara
-erfahrt Ihr heute alles über die Irische Tier-Auffangstation <em>Puss In
-Boots</em>, die sie gemeinsam mit ihrer Mutter ins Leben gerufen hat.</b>
+<b>(
+[Hier gehts zu Teil 1/2 des Interviews](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
+) Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles über die
+Irische Tier-Auffangstation <em>Puss In Boots</em>, die sie gemeinsam mit ihrer
+Mutter ins Leben gerufen hat.</b>
 
 Vor Kurzem habe ich Euch hier im Blog eine echte Powerfrau vorgestellt. Tiere
 bedeuten Kara alles, weshalb sie sich aufopferungsvoll für sie einsetzt. Sie ist
@@ -122,11 +123,10 @@ hinzukommen, dass es sehr schwer ist, Volontäre für den Hof zu finden.
 <b>Kara: </b>Im Schnitt sind es immer um die 50 Tiere, die meine Mutter von
 morgens bis abends umsorgt. Sie ist spezialisiert auf sehr kranke und kleine
 Hunde und Katzen. Viele von ihnen kommen auch verletzt zu ihr auf den Hof.
-Newman aus dem
-<a href="http://cardamonchai.com/2017/08/katzentempel-hamburg-interview/">Café
-Katzentempel</a> hatte eine gebrochene Hüfte. Er musste extrem gepeppelt werden
-und durfte sich nicht bewegen. Viele Wochen und Monate hindurch war gar nicht
-klar, ob er sein Bein behalten würde und meine Mutter hat für ihn gekämpft!
+Newman aus dem [Café Katzentempel](/2017/08/katzentempel-hamburg-interview/)
+hatte eine gebrochene Hüfte. Er musste extrem gepeppelt werden und durfte sich
+nicht bewegen. Viele Wochen und Monate hindurch war gar nicht klar, ob er sein
+Bein behalten würde und meine Mutter hat für ihn gekämpft!
 
 <b>Anne: </b>Für die Spezialisierung gibt es sicher einen Grund?
 
@@ -319,15 +319,15 @@ nach Hause und habe erklärte, dass ich nie mehr Fleisch essen würde.
 Die ersten Jahre habe ich mich dann komplett von Beilagen ernährt. Heute bin ich
 sehr froh, dass eine Entwicklung in Richtung vegan erkennbar ist. Wir sitzen ja
 hier auch in einem komplett
-<a href="http://cardamonchai.com/2017/08/katzentempel-hamburg-interview/">veganen
-Katzencafé</a>. Das es überhaupt jemals eine Einrichtung wie diese geben würde,
-hätte man noch vor ein paar Jahren nicht zu träumen gewagt. Ich bin sehr froh
-darüber, dass das Interesse am Tierschutz wächst. Die Medien haben mehr
-Interesse als früher. Man sieht durchaus auch mal eine Talkrunde, in der es um
-Veganismus geht. Sicher könnte in der Politik mehr passieren, keine Frage. Das
-Kastrieren von Ferkeln ohne Betäubung, das Schreddern von Küken und viele andere
-grausame Dinge gehören abgeschafft, aber es ist definitiv ein Aufwärtstrend
-erkennbar und das lässt einen hoffen.
+[veganen Katzencafé](/2017/08/katzentempel-hamburg-interview/). Das es überhaupt
+jemals eine Einrichtung wie diese geben würde, hätte man noch vor ein paar
+Jahren nicht zu träumen gewagt. Ich bin sehr froh darüber, dass das Interesse am
+Tierschutz wächst. Die Medien haben mehr Interesse als früher. Man sieht
+durchaus auch mal eine Talkrunde, in der es um Veganismus geht. Sicher könnte in
+der Politik mehr passieren, keine Frage. Das Kastrieren von Ferkeln ohne
+Betäubung, das Schreddern von Küken und viele andere grausame Dinge gehören
+abgeschafft, aber es ist definitiv ein Aufwärtstrend erkennbar und das lässt
+einen hoffen.
 
 <b>Anne: </b>Es geht in kleinen Schritten voran, aber es geht voran. Nenn mir
 eine Kleinigkeit, die jeder dazu beitragen kann, dass es den Tieren besser geht.
@@ -343,9 +343,8 @@ gibt, bleibt ein Mythos. Warum sollten die Daunenhersteller darauf verzichten?
 Wenn er mit einer Gans über mehrere Saisons hinweg Geld verdienen kann?
 
 Auch bei Winterjacken kann man ohne Probleme auf Daunen und auch auf einen
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">Pelzkragen</a>
-verzichten! Es gibt genügend tolle Jacken aus modernen Hightec-Materialien die
-mindestens genauso warm sind!
+[Pelzkragen](/2014/11/fakepelz-echtpelz/) verzichten! Es gibt genügend tolle
+Jacken aus modernen Hightec-Materialien die mindestens genauso warm sind!
 
 Last but not least sollte man natürlich den Fleischkonsum einschränken. Jeder
 kann seinen Teil beitragen. Vielleicht gibt es ja auch ein tolles Portemonnaie
@@ -354,9 +353,8 @@ Lebewesens!
 
 Ich würde mich ganz klar im Bereich der Tierethik einordnen. Wer sich mit dem
 Thema auseinandersetzt, sollte man auf einen
-<a href="http://cardamonchai.com/2014/08/amoa-lebenshof-und-zuhause/">Lebenshof</a>
-gehen. Danach kann man für sich die Entscheidung treffen, ob man so weiterleben
-möchte, wie bisher.
+[Lebenshof](/2014/08/amoa-lebenshof-und-zuhause/) gehen. Danach kann man für
+sich die Entscheidung treffen, ob man so weiterleben möchte, wie bisher.
 
 <b>Anne: </b>Wie erklärst Du Dir, dass so viele Menschen ein Tier kaufen, statt
 eines zu adoptieren?
@@ -384,18 +382,16 @@ Konto<span style="color: #000000;">:</span>
 <span style="color: #000000;">Kristiane Schott Bank of Ireland Scariff IBAN:
 IE02BOFI90441310777841 BIC: BOFIIE2D </span>
 
-<span style="color: #000000;">Für Sachspenden könnt Ihr
-</span><a href="http://www.irish-pibar.de/index.php/spenden/">hier mit Kara und
-ihrer Mutter in Kontakt treten</a><span style="color: #000000;">.</span>
+<span style="color: #000000;">Für Sachspenden könnt Ihr </span>
+[hier mit Kara und ihrer Mutter in Kontakt treten](http://www.irish-pibar.de/index.php/spenden/)
+<span style="color: #000000;">.</span>
 
 <span style="color: #000000;">Wer sich </span><span style="color: #000000;">über
 die <em>Puss in Boots </em></span><span style="color: #000000;">informieren
-möchte:
-</span><a href="http://www.irish-pibar.de/">Z</a><a href="http://www.irish-pibar.de/">ur
-Homepage geht es hier entlang</a><span style="color: #000000;">.</span>
+möchte: </span> [ur Homepage geht es hier entlang](http://www.irish-pibar.de/)
+<span style="color: #000000;">.</span>
 
-<a href="http://cardamonchai.com/2017/10/die-tiertafel-hamburg-stellt-sich-vor/"><strong>Hier
-gehts zu Teil 1/1 des Interviews</strong></a>
+[](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
 
 [gallery type="thumbnails" link="none" size="large" columns="2"
 ids="18363,18368"]

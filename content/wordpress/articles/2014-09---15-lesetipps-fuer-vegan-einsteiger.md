@@ -45,8 +45,7 @@ Die "Albert Schweitzer Stiftung für unsere Mitwelt bietet Fakten, Antworten auf
 Fragen und regelmäßig Neuigkeiten zu Tierschutz und veganer Ernährung. Dabei
 wird nicht geschönt oder um den heißen Brei herumgeredet. Förderungen werden
 direkt eingesetzt und Kampagnen treffen stets den Puls der Zeit.
-<a href="https://albert-schweitzer-stiftung.de/themen/vegan-gesund" target="_blank" rel="noopener nofollow">Hier
-geht's zur Homepage</a>.
+[Hier geht's zur Homepage](https://albert-schweitzer-stiftung.de/themen/vegan-gesund).
 
 ### 2. Die App "Wer macht was?”
 
@@ -55,7 +54,7 @@ Animal’s Liberty . Dahinter verbirgt sich eine Datenbank, in der inzwischen fa
 jedes in Deutschland erhältliche Produkt vom Deoroller bis zum Spülmittel
 verzeichnet ist, mit Details wie
 
-<ul><li>Ist das Produkt vegan?</li><li>Sind die Inhaltsstoffe des Produkts frei von Tierversuchen?</li><li>Testet der Konzern, der das Produkt herstellt, Rohstoffe für andere seiner Produkte an Tieren, bzw. lässt sie an Tieren testen?</li></ul><a href="http://mobil.wermachtwas.info/index.php?pageID=4" target="_blank" rel="noopener nofollow">Hier geht's zur App für iPhone und Android</a>.
+<ul><li>Ist das Produkt vegan?</li><li>Sind die Inhaltsstoffe des Produkts frei von Tierversuchen?</li><li>Testet der Konzern, der das Produkt herstellt, Rohstoffe für andere seiner Produkte an Tieren, bzw. lässt sie an Tieren testen?</li></ul> [Hier geht's zur App für iPhone und Android](http://mobil.wermachtwas.info/index.php?pageID=4).
 
 ### 3. Die Apps von "Barnivore”
 
@@ -67,23 +66,19 @@ vegane Produkte mit einem roten Kreuz gekennzeichnet. Viele "Frischlinge"
 oder Fischblase geklärt sind. Der Kauf solcher Produkte lässt sich durch den
 Einsatz der Apps beim Einkauf ausschließen.
 
-<a href="http://www.barnivore.com/mobile" target="_blank" rel="noopener nofollow">Hier
-geht's zu den zwei verschiedenen Apps für Android und drei verschiedenen Apps
-für iPhone</a>.
+[Hier geht's zu den zwei verschiedenen Apps für Android und drei verschiedenen Apps für iPhone](http://www.barnivore.com/mobile).
 
-<a href="http://www.barnivore.com/" target="_blank" rel="noopener nofollow">Das
-Online-Verzeichnis mit praktischer Suchfunktion findest Du hier</a>.
+[Das Online-Verzeichnis mit praktischer Suchfunktion findest Du hier](http://www.barnivore.com/).
 
 ### 4. Die Broschüre "Vegan – Die gesündeste Ernährung"
 
 Die Broschüre "Vegan – Die gesündeste Ernährung" von Dr. med. Ernst Walter
 Henrich liegt bei vielen veganfreundlichen ärzten in der Praxis aus, kann aber
-auch direkt auf
-<a href="https://www.provegan.info/de/" target="_blank" rel="noopener nofollow">www.provegan.info</a>
-angefordert, oder als PDF heruntergeladen werden. Sie enthält z. B. die
-Ergebnisse wissenschaftlicher Studien, die die gesundheitlichen Vorteile der
-veganen Ernährungsweise belegen. Zudem gibt es u. a. einen sehr interessanten
-Artikel zum Thema Veganer und Klimaschutz zu lesen.
+auch direkt auf [www.provegan.info](https://www.provegan.info/de/) angefordert,
+oder als PDF heruntergeladen werden. Sie enthält z. B. die Ergebnisse
+wissenschaftlicher Studien, die die gesundheitlichen Vorteile der veganen
+Ernährungsweise belegen. Zudem gibt es u. a. einen sehr interessanten Artikel
+zum Thema Veganer und Klimaschutz zu lesen.
 
 ### 5. Der "Fleischatlas”
 
@@ -93,8 +88,7 @@ wie alle Zahlen und Fakten, Fleisch als Nahrungsmittel betreffend. Hier kann z.
 B. nachgelesen werden, in welchem Land pro Jahr wie viele Hühner geschlachtet
 werden und welche Entwicklungen es z. B. im Futterhandel und -anbau oder beim
 Einsatz von Medikamenten und Hormonen in der Viehzucht gibt.
-<a href="http://cardamonchai.com/2018/01/fleischatlas-2018/" target="_blank" rel="noopener nofollow">Der
-"Fleischatlas" kann ganz einfach als PDF heruntergeladen werden</a>.
+[Der "Fleischatlas" kann ganz einfach als PDF heruntergeladen werden](/2018/01/fleischatlas-2018/).
 
 ### 6. Das Magazin "Für mich vegan"
 
@@ -104,8 +98,7 @@ Adressen und aktuelle Veranstaltungshinweise.
 
 Auch für alle, die in die rein pflanzliche Welt ohne Tierprodukte einfach mal
 reinschnuppern wollen, ein echter Genuss.
-<a href="https://www.vegan-fuer-mich.de/" target="_blank" rel="noopener">Hier
-geht's zur Webseite</a>.
+[Hier geht's zur Webseite](https://www.vegan-fuer-mich.de/).
 
 ### 7. Das Buch "Tiere essen"
 
@@ -117,8 +110,7 @@ stärker wurde. Durch Foers angenehmen, persönlichen Schreibstil liest sich das
 Buch sehr gut, ganz nebenbei erfährt man, während man sich mit Foers
 Lebensgeschichte beschäftigt, wichtige, die Massentierhaltung, den Tierschutz
 und den weltweiten Fleischkonsum betreffenden Details.
-<a href="http://cardamonchai.com/2019/02/tiere-essen-von-jonathan-safran-foer/" target="_blank" rel="noopener">Eine
-komplette Rezension des Buchs findest Du hier im Blog</a>.
+[Eine komplette Rezension des Buchs findest Du hier im Blog](/2019/02/tiere-essen-von-jonathan-safran-foer/).
 
 ### 8. Der Blog "One Green Planet"
 
@@ -132,8 +124,7 @@ Menschen kennen. Für alle, die die englische Sprache beherrschen, sehr zu
 empfehlen, für alle, die es nicht tun, vielleicht sogar ein Grund, sie zu
 erlernen. Die Seite bietet übrigens auch einen Newsletter an, natürlich werden
 alle Beiträge aber auch auf Facebook geteilt.
-<a href="https://www.onegreenplanet.org/" target="_blank" rel="noopener nofollow">Hier
-geht's zum Blog</a>.
+[Hier geht's zum Blog](https://www.onegreenplanet.org/).
 
 ### 9. "Das Gefühlsleben der Tiere" von Marc Bekoff
 
@@ -141,8 +132,7 @@ Er erforscht seit mehr als 30 Jahren das Gefühlsleben der Tiere. Dies tut er au
 seiner Leidenschaft und dem Wunsch, sich in sie hineinzuversetzen heraus. Sich
 selbst sieht er aus diesem Grund als glücklichen Menschen. Sein Werk "Das
 Gefühlsleben der Tiere" zählt zu den Must-reads für Veganer.
-<a href="http://cardamonchai.com/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/">Eine
-komplette Rezension findest Du bei mir im Blog</a>.
+[Eine komplette Rezension findest Du bei mir im Blog](/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/).
 
 ### 10. Der Blog "Der Graslutscher”
 
@@ -150,8 +140,7 @@ Knallharte Fakten, satirisch verpackt, sind immer wieder auf der Seite "Der
 Graslutscher" zu finden. Jan, der Herausgeber rechnet mit allen ab, die die
 vegane Lebensweise mit schlechten Argumenten in Frage stellen und besticht mit
 exakt recherchierten Daten und Fakten.
-<a href="https://graslutscher.de/" target="_blank" rel="noopener nofollow">Hier
-geht's zum Blog</a>.
+[Hier geht's zum Blog](https://graslutscher.de/).
 
 ### 11. Der Blog "Der Artgenosse”
 
@@ -160,16 +149,14 @@ hier auch noch "Der Artgenosse" erwähnt. Der Kreativling verpackt Themen wie
 "Ist Soja ungesund?", "Veganer leiden nicht unter Eisenmangel" und "Diskussionen
 mit Unbelehrbaren" gekonnt in toll gezeichnete Comic-Strips und Videos, die er
 auf seinem Blog und seiner Facebook-Seite teilt.
-<a href="http://der-artgenosse.de/" target="_blank" rel="noopener nofollow">Hier
-geht's zum Blog</a>.
+[Hier geht's zum Blog](http://der-artgenosse.de/).
 
 ### 12. Der Verein "Vegane Gesellschaft Deutschland e. V.”
 
 über die Vegane Gesellschaft können Informationen zu allen das vegane Leben
 betreffenden Themen bezogen werden. Im Blog gibt es u. a. aber auch
 Veranstaltungshinweise und Ernährungstipps.
-<a href="https://www.vegane.org/" target="_blank" rel="noopener nofollow">Hier
-geht's zur Homepage</a>.
+[Hier geht's zur Homepage](https://www.vegane.org/).
 
 ### 13. Der Vegetarierbund VEBU
 
@@ -178,16 +165,14 @@ Veganer sehr hilfreich sein können. Neben Zitaten, Restauranttipps und News,
 findet man hier auch einen äußerst praktischen Diskussionsleitfaden, der z. B.
 Antworten auf Standard-Gegenargumente wie "Es ist natürlich, dass Menschen
 Fleisch essen" und "Die Tiere werden doch human getötet" bereithält.
-<a href="https://vebu.de/" target="_blank" rel="noopener nofollow">Hier geht's
-zur Homepage</a>.
+[Hier geht's zur Homepage](https://vebu.de/).
 
 ### 14. Der Verein "PETA Deutschland e.V.”
 
 PETA bietet auf seiner Homepage nicht nur Informationen zu aktuellen
 Tierschutzaktionen, sondern auch hilfreiche Tipps für Diskussionen,
 Wissenswertes zum Thema Gesundheit, sowie tolle Grundrezepte an.
-<a href="https://www.peta.de/" target="_blank" rel="noopener nofollow">Hier
-geht's zur Homepage</a>.
+[Hier geht's zur Homepage](https://www.peta.de/).
 
 ### 15. Das Buch "So geht vegan" von Patrick Bolk
 
@@ -197,10 +182,9 @@ Kochen macht, sondern auch noch eine ganz besondere Geschichte erzählt. Der
 Autor Patrick Bolk berichtet von seinen persönlichen Erfahrungen und erzählt zum
 Beispiel, wie er es durch seine Ernährungsumstellung geschafft hat, 25 Kilo
 abzunehmen.
-<a href="http://cardamonchai.com/2014/11/so-geht-vegan-von-patrick-bolk/">Hier
-geht's zu meiner Rezension</a>.
+[Hier geht's zu meiner Rezension](/2014/11/so-geht-vegan-von-patrick-bolk/).
 
-<div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="column">### Zitat aus meiner Rezension:<blockquote>"Die meisten Veganer, die ich kenne, sind eher unvorbereitet in ihre Umstellung hineingestolpert und haben sich nach und nach ihr Infos aus dem Internet und auch Büchern besorgt, mir geht es hier ähnlich. Ich denke, das geht auch gut, wenn man dabei ein paar Grundregeln beachtet. Wer sich jedoch etwas Unterstützung wünscht, der ist mit dem 10-Punkte-Programm "So geht vegan" sicherlich sehr gut beraten."</blockquote><a href="http://cardamonchai.com/2014/11/so-geht-vegan-von-patrick-bolk/">Meine komplette Rezension des Buchs findest Du hier</a>.
+<div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="column">### Zitat aus meiner Rezension:<blockquote>"Die meisten Veganer, die ich kenne, sind eher unvorbereitet in ihre Umstellung hineingestolpert und haben sich nach und nach ihr Infos aus dem Internet und auch Büchern besorgt, mir geht es hier ähnlich. Ich denke, das geht auch gut, wenn man dabei ein paar Grundregeln beachtet. Wer sich jedoch etwas Unterstützung wünscht, der ist mit dem 10-Punkte-Programm "So geht vegan" sicherlich sehr gut beraten."</blockquote> [Meine komplette Rezension des Buchs findest Du hier](/2014/11/so-geht-vegan-von-patrick-bolk/).
 
 ## Hast Du noch weitere Quellen für Vegan-Einsteiger?
 

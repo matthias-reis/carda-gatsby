@@ -62,13 +62,10 @@ ging zu Lebenszeiten einem seltsamen Beruf nach. Menschen konnten sie buchen, um
 neben ihr zu schlafen. Was bei ihr zu Schlafstörungen führte. Selbst konnte sie
 nur noch in einer Hängematte einschlafen. Das und ihr eigenes, ziemlich
 verwirrtes Leben beschäftigt die Erzählerin sehr. Das Buch wurde von
-<a title="Banana Yoshimoto" href="http://de.wikipedia.org/wiki/Banana_Yoshimoto">Banana
-Yoshimoto</a> geschrieben, die deutsche Hörbuchversion wurde von
-<a title="Anna Thalbach" href="http://de.wikipedia.org/wiki/Anna_Thalbach">Anna
-Thalbach</a> eingesprochen.
+[Anna Thalbach](http://de.wikipedia.org/wiki/Banana_Yoshimoto) eingesprochen.
 
-Der <a title="Tofutante" href="http://tofutante.wordpress.com/">Allerbesten</a>
-habe ich es auch geschenkt, ich hoffe es kommt bei ihr so gut an, wie bei mir.
+Der [Allerbesten](http://tofutante.wordpress.com/) habe ich es auch geschenkt,
+ich hoffe es kommt bei ihr so gut an, wie bei mir.
 
 Am Wochenende findet das Szene Open Air statt. Ich wäre wirklich sehr gerne dort
 hingefahren, wenn es nur zeitlich noch geklappt hätte. Die Sonne wird scheinen.
@@ -101,11 +98,7 @@ Heute gibt es etwas, wobei es sich todsicher um eine Weltpremiere handelt. Ich
 möchte einen Song vorstellen, den ich selbst noch nicht gehört habe. (Ich lese
 schon die Schlagzeile: "Bloggerin stellt Song vor, den sie selbst noch nicht
 gehört hat" :-) Ein Social Network Freund hat ihn empfohlen. Die Band ist
-derzeit
-<a title="Listener on tour" href="http://www.songkick.com/artists/543774-listener">on
-Tour</a>. Laut seiner Beschreibung dürfte es sich um ein kleines Juwel handeln
-und auch der
-<a title="Listener" href="http://en.wikipedia.org/wiki/Listener_(band)">Wikipedia-Artikel</a>
+derzeit [Wikipedia-Artikel](http://www.songkick.com/artists/543774-listener)
 klingt durchaus interessant. Ich freue mich darauf, ihn sobald ich nach Haus
 komme anzuhören.
 

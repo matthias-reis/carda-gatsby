@@ -92,6 +92,6 @@ Schiebt sie in den Ofen und lasst sie für rund 50 Minuten backen, bis sie schö
 goldbraun ist. Lasst den Kuchen über Nacht ruhen. Am nächsten Tag gibt es dann
 zum Kaffee eine wunderbare vegane Linzer Torte.
 
-Wenn Euch das Rezept gefällt, <a href="#newsletter">abonniert gerne meinen
-Newsletter</a>. Dann halte ich Euch über weitere Spezialitäten auf meinem Blog
-auf dem Laufenden.
+Wenn Euch das Rezept gefällt, [abonniert gerne meinen Newsletter](#newsletter).
+Dann halte ich Euch über weitere Spezialitäten auf meinem Blog auf dem
+Laufenden.

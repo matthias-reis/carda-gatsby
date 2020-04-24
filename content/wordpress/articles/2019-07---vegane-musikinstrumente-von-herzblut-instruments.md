@@ -100,9 +100,8 @@ das Vegan Friendly Zertifikat überreicht, worauf Gernot sehr stolz ist.
 
 Wer gerne mehr über Herzblut Instruments erfahren möchte, schaut am besten
 gleich mal auf
-<a href="https://www.instagram.com/herzblut_instruments/?hl=de" target="_blank" rel="noopener nofollow">Gernots
-liebevoll gepflegtem Instagram Account</a> vorbeischauen. Ich wünsche Euch viel
-Spaß beim Stöbern!
+[Gernots liebevoll gepflegtem Instagram Account](https://www.instagram.com/herzblut_instruments/?hl=de)
+vorbeischauen. Ich wünsche Euch viel Spaß beim Stöbern!
 
 [gallery type="rectangular" link="none" size="medium"
 ids="25619,25618,25617,25616,25614"]

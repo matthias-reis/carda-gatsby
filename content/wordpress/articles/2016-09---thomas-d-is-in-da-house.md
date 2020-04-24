@@ -77,15 +77,15 @@ Thomas D</blockquote>
 ## Wegweiser Welt Vegan Magazin
 
 <ol>
-    <li><a href="/2015/04/mein-erster-artikel-im-welt-vegan-magazin/">1/2015 "Superfood Lexikon"</a></li>
-    <li><a href="/2015/05/das-neue-welt-vegan-magazin-ist-da/">3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"</a></li>
-    <li><a href="/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/">5/2015 "Interview BUND" und "TTIP"</a></li>
-    <li><a href="/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/">6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"</a></li>
-    <li><a href="http://cardamonchai.com/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/">1/2016 "Alge Vegan" und "Barnard Medical Centre"</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/welt-vegan-magazin-22016/">2/2016 "Animal Rights Watch"</a></li>
+    <li> [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/) </li>
+    <li> [3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"](/2015/05/das-neue-welt-vegan-magazin-ist-da/) </li>
+    <li> [5/2015 "Interview BUND" und "TTIP"](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/) </li>
+    <li> [6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"](/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/) </li>
+    <li> [1/2016 "Alge Vegan" und "Barnard Medical Centre"](/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/) </li>
+    <li> [2/2016 "Animal Rights Watch"](/2016/08/welt-vegan-magazin-22016/) </li>
     <li>3/2016 "Schmuggel bedrohter Arten"</li>
-    <li><a href="http://cardamonchai.com/2017/03/los-veganeros-welt-vegan-magazin-1-2017/">1/2017 "Los Veganeros 2"</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/welt-vegan-magazin-2-2017-anne-menden/">2/2017 "Anne Menden und Sea Shepherd"</a></li>
+    <li> [1/2017 "Los Veganeros 2"](/2017/03/los-veganeros-welt-vegan-magazin-1-2017/) </li>
+    <li> [2/2017 "Anne Menden und Sea Shepherd"](/2017/06/welt-vegan-magazin-2-2017-anne-menden/) </li>
 </ol>
 
 &nbsp;

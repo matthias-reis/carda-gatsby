@@ -45,19 +45,18 @@ stattfand.
 ## Ein gelungener Kinoabend
 
 Der Junge Filmemacher Marcel Cornelius stellte seinen Fanfilm
-"<a title="Speer des Schicksals" href="http://www.modularfestival.de/?page_id=475" target="_blank" rel="noopener">Indiana
-Jones und der Speer des Schicksals</a>" vor. Die Premiere war ein voller Erfolg.
-Im Vor- und im Nachprogramm spielte im Foyer des Kinos die Band PEPES PENTHOUSE.
-Sie überzeugten das buntgeschmischte Publikum mit einem genialen Akustikset. Als
-Überraschung wurde dann auch im Abspann des Films noch ein PEPES PENTHOUSE Song
-gespielt.
+"[Indiana Jones und der Speer des Schicksals](http://www.modularfestival.de/?page_id=475)"
+vor. Die Premiere war ein voller Erfolg. Im Vor- und im Nachprogramm spielte im
+Foyer des Kinos die Band PEPES PENTHOUSE. Sie überzeugten das buntgeschmischte
+Publikum mit einem genialen Akustikset. Als Überraschung wurde dann auch im
+Abspann des Films noch ein PEPES PENTHOUSE Song gespielt.
 
 Alles in allem ein gelungener Kinoabend. Ein tolles Konzept, der
 Kino-Konzert-Mix. Man sollte sich überlegen es regelmäßig als festen Bestandteil
 in das Augsburger Kulturproramm aufzunehmen.
 
-<em><a title="Speer des Schicksals" href="http://www.youtube.com/watch?v=sNZie7PqxVc" target="_blank" rel="noopener">Filmtrailer</a>
-Speer des Schicksals</em>
+<em> [Filmtrailer](http://www.youtube.com/watch?v=sNZie7PqxVc) Speer des
+Schicksals</em>
 
 [gallery type="rectangular" link="none" size="medium"
 ids="11501,11502,11503,11504,11505,11506,11507,11508"]

@@ -118,6 +118,5 @@ Auf den Ferropolis Veranstaltungen sowie bei anderen kulturellen Anlässen wird
 gezeigt, dass Open Island eine tolle Lösung sein kann. Das Projekt steht für
 gesellschaftlichen Wandel und Zukunftsorientierung.
 
-Weitere Infos findet Ihr auf der
-<a href="http://open-island.de/" target="_blank" rel="noopener">Homepage</a> des
+Weitere Infos findet Ihr auf der [Homepage](http://open-island.de/) des
 Projekts.

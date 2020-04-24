@@ -174,8 +174,7 @@ Catering-Unternehmen, man kann unsere Drinks ab sofort zum Beispiel auch für
 private Feiern buchen. Des Weiteren sind wir immer auf der Suche nach einer
 coolen Sommer Pop-up-Location in Hamburg, Berlin oder Fulda.
 
-<a href="https://www.instagram.com/mistermandrillhh/" target="_blank" rel="noopener">Hier
-entlang geht es zum Instagram-Auftritt von Mister Mandrill</a>.
+[Hier entlang geht es zum Instagram-Auftritt von Mister Mandrill](https://www.instagram.com/mistermandrillhh/).
 
 [gallery type="rectangular" link="none" size="large"
 ids="18097,18098,18096,18095"]

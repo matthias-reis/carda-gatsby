@@ -35,16 +35,15 @@ subTitle: Teil 1/2 - Fair Trade, Fair Banking? Was macht eigentlich mein Geld?
 <strong>
 
 Wir fragen uns immer häufiger, wo die Produkte herkommen, die wir konsumieren.
-Wir leben <a href="/category/vegan-2/">vegan</a>, kaufen Bio- und Fair Trade
-Produkte und treffen unsere Kaufentscheidungen bewusster, als noch vor einigen
-Jahren.
+Wir leben [vegan](/category/vegan-2/), kaufen Bio- und Fair Trade Produkte und
+treffen unsere Kaufentscheidungen bewusster, als noch vor einigen Jahren.
 
 Doch was machen eigentlich unsere Banken? Was passiert mit unserem Geld? Wir
 möchten für alles genaue Inhaltsangaben haben. Kekse mit Palmöl? Kommen nicht in
 Frage. Mit
-<a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">Gelatine
-geklärter Wein</a>? Auf gar keinen Fall. Sollten wir uns denn unsere Bank nicht
-mindestens genau so wohl überlegt aussuchen?
+[Gelatine geklärter Wein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+? Auf gar keinen Fall. Sollten wir uns denn unsere Bank nicht mindestens genau
+so wohl überlegt aussuchen?
 
 ## urgewald legt schmutzige Geschäfte offen
 
@@ -169,7 +168,7 @@ Im zweiten Teil meines Artikels werde ich in Kürze ein paar Alternativ-Banken
 vorstellen.
 
 Die Broschüren "Was macht eigentlich mein Geld" und "Wie radioaktiv ist meine
-Bank" können <a href="http://www.urgewald.de" target="_blank" rel="noopener">auf
-der Homepage</a> von <em>urgewald</em> bestellt werden.
+Bank" können [auf der Homepage](http://www.urgewald.de) von
+<em>urgewald</em> bestellt werden.
 
 &nbsp;

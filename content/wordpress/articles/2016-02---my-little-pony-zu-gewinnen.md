@@ -29,8 +29,7 @@ subTitle: Ponys aus meiner Herde gehen auf Reisen
 <hr />
 
 Hinweis: Die Aktion ist beendet.
-<a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet irgendwann
-wieder eine tolle Verlosung statt</a>.
+[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
 
@@ -55,13 +54,13 @@ was Du dafür tun musst, ist an meiner Verlosung teilzunehmen. Wie das geht?
 
 ## So kannst Du gewinnen
 
-Ganz einfach: Wer in der Zeit vom 18. Februar bis zum 3. März
-2016 <a href="https://www.facebook.com/cardamonchai" target="_blank" rel="noopener">meine
-Facebook-Seite</a> mit "gefällt mir" markiert UND einen Kommentar, warum er/sie
-gerne gewinnen möchte <em>direkt hier im Blog unter dem Beitrag</em> postet,
-nimmt automatisch an der Verlosung teil. Natürlich nehmen auch alle teil, denen
-meine Facebook-Seite bereits gefällt. Wenn das bei Dir auch so ist, musst Du nur
-noch Deinen Kommentar unter diesem Artikel posten, um zu gewinnen.
+Ganz einfach: Wer in der Zeit vom 18. Februar bis zum 3. März 2016 
+[meine Facebook-Seite](https://www.facebook.com/cardamonchai) mit "gefällt mir"
+markiert UND einen Kommentar, warum er/sie gerne gewinnen möchte <em>direkt hier
+im Blog unter dem Beitrag</em> postet, nimmt automatisch an der Verlosung teil.
+Natürlich nehmen auch alle teil, denen meine Facebook-Seite bereits gefällt.
+Wenn das bei Dir auch so ist, musst Du nur noch Deinen Kommentar unter diesem
+Artikel posten, um zu gewinnen.
 
 Im Pott sind insgesamt sechs Ponys, es wird also sechs Gewinner/innen geben. Die
 Ponys sind auf den Fotos zu sehen. Sie sind weder neu, noch originalverpackt,
@@ -72,9 +71,8 @@ können jedoch leichte Gebrauchsspuren aufweisen.
 
 Voraussetzung, um an meinem Gewinnspiel teilzunehmen ist, dass Du mindestens 18
 Jahre alt bist und in Deutschland wohnst. Die Gewinner werden am 5. März auf
-<a href="https://www.facebook.com/cardamonchai" target="_blank" rel="noopener">meiner Facebook-Seite</a>
-bekanntgegeben, Du solltest die Seite also an diesem Tag auf jeden Fall im Auge
-behalten.
+[meiner Facebook-Seite](https://www.facebook.com/cardamonchai) bekanntgegeben,
+Du solltest die Seite also an diesem Tag auf jeden Fall im Auge behalten.
 
 Die Teilnehmer erklären sich im Falle eines Gewinnes mit der Veröffentlichung
 ihres Namens hier im Blog im Zuge eines kurzen Artikels im Anschluss an das
@@ -93,21 +91,20 @@ Verlosung erfolgt zufällig, bitte habt dafür Verständnis, dass das gewonnene
 Pony nicht ausgesucht werden kann. Natürlich kann jede/r nur einmal am
 Gewinnspiel teilnehmen. Meine Verlosung wird nicht gesponsert und dient nicht zu
 Werbezwecken des Ponyherstellers. Veranstalter des Gewinnspiels bin ich, meine
-Adresse findet Ihr im
-<a href="http://cardamonchai.com/impressum/">Impressum</a>.
+Adresse findet Ihr im [Impressum](/impressum/).
 
 ## Also
 
 Am besten gleich einen Kommentar hier unter dem Artikel im Blog dalassen! Erzähl
 mir, warum Du gewinnen möchtest! Im Anschluss gibst Du mir noch
-<a href="https://www.facebook.com/cardamonchai" target="_blank" rel="noopener">Dein
-"Like" bei Facebook</a> und schon landest Du in der Lostrommel.
+[Dein "Like" bei Facebook](https://www.facebook.com/cardamonchai) und schon
+landest Du in der Lostrommel.
 
 Kommentieren kannst Du gleich hier im Artikel oben rechts (Wenn Du nicht mit dem
 Computer im Internet unterwegs bist, sondern mit dem Handy ganz unten unter den
-Fotos), meine Facebook Seite findest
-Du <a href="https://www.facebook.com/cardamonchai" target="_blank" rel="noopener">unter
-diesem Link hier</a>! Natürlich freue ich mich auch, wenn Dir meine
-Facebook-Seite nach der Verlosung auch weiterhin gefällt
+Fotos), meine Facebook Seite findest Du 
+[unter diesem Link hier](https://www.facebook.com/cardamonchai) ! Natürlich
+freue ich mich auch, wenn Dir meine Facebook-Seite nach der Verlosung auch
+weiterhin gefällt
 
 [myflickr tag="annemylittlepony"]

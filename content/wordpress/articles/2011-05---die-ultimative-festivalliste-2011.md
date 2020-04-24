@@ -60,11 +60,10 @@ thumbnailId: "1983"
 subTitle: So langsam rückt die Festivalsaison immer näher
 ---
 
-<a class="banner banner-green" href="http://cardamonchai.com/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf" target="_blank" rel="noopener"><span class="head">Die
-ultimative Festivalliste</span><span class="text">Jetzt runterladen und
-ausdrucken</span></a><strong>Die Tickets sind geordert, der Zeltplatz
-ausgesucht, die Bands auf dem Timetable markiert. Stellt sich nur noch die
-Frage: Was mitnehmen? Hier meine ultimative Festival-Liste. </strong>
+[](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf) <strong>Die
+Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf dem Timetable
+markiert. Stellt sich nur noch die Frage: Was mitnehmen? Hier meine ultimative
+Festival-Liste. </strong>
 
 Gegenstände wie Bierfässer und Tische wurden absichtlich weggelassen, da die
 letzten Jahre bewiesen haben: Je weniger Ballast, umso besser. Unnötige

@@ -38,10 +38,10 @@ in München 2009. Seither habe ich den Musiker, das muss ich leider zugeben, ein
 Bisschen aus den Augen verloren.</strong>
 
 Bis der Künstler vor kurzem meine
-<a href="http://www.facebook.com/cardamonchai" target="_blank" rel="noopener">Facebook-Seite</a>
-mit "gefällt mir" markierte und mir kurz danach bei Instagram folgte. Mein
-Interesse war geweckt. Ich musste mich mit seiner Musik beschäftigen und werde
-mir seine neue Platte auf jeden Fall anhören.
+[Facebook-Seite](http://www.facebook.com/cardamonchai) mit "gefällt mir"
+markierte und mir kurz danach bei Instagram folgte. Mein Interesse war geweckt.
+Ich musste mich mit seiner Musik beschäftigen und werde mir seine neue Platte
+auf jeden Fall anhören.
 
 Bisher gibt es bereits eine Vorauskopplung aus "Flüssiges Glück", das komplette
 Album erscheint am 9. Oktober. Natürlich habe ich den Song "Renn!" schon mal
@@ -73,7 +73,7 @@ Platte "Flüssiges Glück" hat Enno gemeinsam mit Tobias Siebert in Berlin
 produziert, nachdem er ein Jahr lang hier in Hamburg vorgeschrieben hatte.
 
 Einordnen lässt sich Enno Bungers Stil irgendwo zwischen Kante und
-<a href="http://cardamonchai.com/2014/09/flucht-in-die-flucht/">den Sternen</a>.
-Verspielt, nachdenklich, hochgradig musikalisch, kreativ und phantasievoll.
+[den Sternen](/2014/09/flucht-in-die-flucht/). Verspielt, nachdenklich,
+hochgradig musikalisch, kreativ und phantasievoll.
 
-## Hier ist für Euch Enno Bunger mit "Renn!"<iframe src="https://www.youtube.com/embed/SmBP2lMhEnE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><a href="http://ennobunger.de/" target="_blank" rel="noopener">Hier geht's zur Homepage</a> von Enno Bunger
+## Hier ist für Euch Enno Bunger mit "Renn!"<iframe src="https://www.youtube.com/embed/SmBP2lMhEnE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe> [Hier geht's zur Homepage](http://ennobunger.de/) von Enno Bunger

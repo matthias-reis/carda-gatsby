@@ -42,14 +42,9 @@ bin stolz, wieder dabei zu sein.</strong>
 Dieses Mal fiel die Wahl auf den Song "I Build This Garden For Us" von Lenny
 Kravitz. Gute Idee, oder? Der Titel passt so schön zu Gärten. Ich bin jetzt das
 vierte Mal dabei beim Date und finde, dass ich zusammen mit den Songs
-<a href="http://cardamonchai.com/2017/07/blind-date-summerwine/">"Summerwine"</a>
-von Nancy Sinatra,
-<a href="http://cardamonchai.com/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/">"I
-Like Birds"</a> von Eels und
-<a href="http://cardamonchai.com/2018/03/presidents-of-the-united-states-peaches/">"Peaches"</a>
-von den Presidents Of The United States schon die Grundlage für eine ganz nette
-Playlist zusammen habe. Ich bin schon gespannt, wie sie sich demnächst erweitern
-wird.
+["Peaches"](/2017/07/blind-date-summerwine/) von den Presidents Of The United
+States schon die Grundlage für eine ganz nette Playlist zusammen habe. Ich bin
+schon gespannt, wie sie sich demnächst erweitern wird.
 
 Vor der Veröffentlichung wusste übrigens auch dieses Mal keine/r von uns, was
 die anderen geschrieben haben. Die Vorfreude war daher für uns Autor\*innen
@@ -93,15 +88,14 @@ Komm mit mir. Hinter dem Rosenbogen liegt ein Ort, der nur für uns beide ist.
 Als alter Schnulzenmeister weiß ich, welche Knöpfe ich drücken muss. Ich bin
 stolz auf meinen Garten. Also sieh ihn Dir gefälligst an.
 
-Vielleicht will ich mein Leben mit Dir in
-diesem <a href="http://cardamonchai.com/2018/08/phlox-und-flieder-immer-wieder/">Garten</a>
-verbringen. Vielleicht nur ein paar Minuten vielleicht auch Jahre.
+Vielleicht will ich mein Leben mit Dir in diesem 
+[Garten](/2018/08/phlox-und-flieder-immer-wieder/) verbringen. Vielleicht nur
+ein paar Minuten vielleicht auch Jahre.
 
 Wir werden schon sehen. Lass uns später darüber nachdenken.
 
-Lebe im Jetzt. Genieße
-die <a href="http://cardamonchai.com/2018/03/presidents-of-the-united-states-peaches/">Pfirsiche</a>
-mit mir.
+Lebe im Jetzt. Genieße die 
+[Pfirsiche](/2018/03/presidents-of-the-united-states-peaches/) mit mir.
 
 Unter der Trauerweide Am kühlen Bach, über dem die Sonne untergeht.
 
@@ -115,15 +109,9 @@ Badeschaum. Geigen. Show. Was für ein Macho. Sorry, Lenny.
 
 ## \*Gartenbaukunst</a>
 
-<a href="https://www.beetkultur.de/single-post/2018/08/18/Blind-Date-Edition-5-I-Build-This-Garden-For-Us" target="_blank" rel="noopener">Beetkultur</a>, <a href="https://der-kleine-horror-garten.de/gartengestaltung/" target="_blank" rel="noopener">Der
-kleine
-Horrorgarten </a>, <a href="https://karotinasblog.wordpress.com/" target="_blank" rel="noopener">Karo-Tina
-Aldente</a>, <a href="https://millibloom.com/i-bulid-this-garden-for-us-blogger-blind-date-5/" target="_blank" rel="noopener">Milli
-Bloom</a>, <a href="https://rienmakaefer.com/2018/08/18/i-build-a-garden-for-us-blind-date-5/" target="_blank" rel="noopener">Rienmakäfer</a>, <a href="https://www.garteneuphorie.de/" target="_blank" rel="noopener">Garteneuphorie</a>, <a href="https://seaside-cottage-blog.blogspot.com/2018/08/spatsommerliche-tischdeko-fur-das-blind.html" target="_blank" rel="noopener">Seaside-Cottage</a>, <a href="http://www.garteninspektor.com/blog/mit-lenny-kravitz-auf-der-suche-nach-good-vibrations-gegen-garten-burnout" target="_blank" rel="noopener">Garteninspektor</a>, <a href="https://faunundfarn.de/2018/08/18/blogger-blind-date-lenny-kravitz-i-build-this-garden-for-us/" target="_blank" rel="noopener">Faun
-und
-Farn</a>, <a href="https://laubenhausmaedchen.de/i-built-this-garden-for-us-blind-date-edition-5/" target="_blank" rel="noopener">Laubenhausmädchen</a>, <a href="https://fraumeise.de/i-build-this-garden-for-us/" target="_blank" rel="noopener">Frau
-Meise</a>,
-und <a href="https://mrsgreenhouse.de/ein-apfelglueck-zum-blind-date-edition-5-i-build-a-garden-for-us" target="_blank" rel="noopener">Mrs.
-Greenhouse</a>
+[Beetkultur](https://www.beetkultur.de/single-post/2018/08/18/Blind-Date-Edition-5-I-Build-This-Garden-For-Us),
+ <a href="https://der-kleine-horror-garten.de/gartengestaltung/" target="_blank" rel="noopener">Der
+kleine Horrorgarten </a>, 
+[Mrs. Greenhouse](https://karotinasblog.wordpress.com/)
 
 ![Gartenbloggerblinddate | full](http://cardamonchai.com/wp-content/uploads/2018/08/HANG-IN.jpg)

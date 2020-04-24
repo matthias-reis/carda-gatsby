@@ -81,19 +81,13 @@ jetzt erstmal in aller Ruhe "Karma Police".
 ## Nachtrag vom 3. Dezember 2019
 
 Am 11. Juni stellte Radiohead die Aufnahmen für 18 Tage
-<a href="https://web.archive.org/web/20190612183113/https://radiohead.bandcamp.com/" target="_blank" rel="noopener">bei
-Bandcamp</a> zum Streaming oder Kauf zur Verfügung, der Erlös ging an die
-Umweltgruppe Extinction Rebellion. Inzwischen gibt es sogar
-<a href="https://en.wikipedia.org/wiki/MiniDiscs_(Hacked)" target="_blank" rel="noopener">einen
-Wikipedia Eintrag zu dem Vorfall</a>.
+[einen Wikipedia Eintrag zu dem Vorfall](https://web.archive.org/web/20190612183113/https://radiohead.bandcamp.com/).
 
-<a href="https://www.discogs.com/release/13747135" target="_blank" rel="noopener">Hier
-findet Ihr die Aufnahmen bei Discogs</a>. Viel Spaß beim Anhören. Übrigens hat
-Thom Yorke ein neues Soloalbum angekündigt. Stay tuned!
+[Hier findet Ihr die Aufnahmen bei Discogs](https://www.discogs.com/release/13747135).
+Viel Spaß beim Anhören. Übrigens hat Thom Yorke ein neues Soloalbum angekündigt.
+Stay tuned!
 
 ### Quellen:
 
-<a href="https://twitter.com/JnnyG" target="_blank" rel="noopener nofollow">Jonny
-Greenwood, Twitter</a>
-<a href="https://www.stern.de/neon/feierabend/radiohead-werden-nach-computer-hack-erpresst----und-reagieren-genial-8749656.html" target="_blank" rel="noopener nofollow">Rolling
-Stone</a>
+[Jonny Greenwood, Twitter](https://twitter.com/JnnyG)
+[Rolling Stone](https://www.stern.de/neon/feierabend/radiohead-werden-nach-computer-hack-erpresst----und-reagieren-genial-8749656.html)

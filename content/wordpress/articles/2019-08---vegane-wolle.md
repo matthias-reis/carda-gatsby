@@ -107,7 +107,7 @@ Marktlücke selbst zu füllen.
 <strong>Marlin:</strong> Seit Anfang 2013.
 
 <strong>Anne:</strong> Was ist für Dich das wichtigste Argument
-<a href="https://cardamonchai.com/category/vegan-2/go-vegan/">für vegan</a>?
+[für vegan](/category/vegan-2/go-vegan/) ?
 
 <strong>Marlin:</strong> Ursprünglich meine Gesundheit. Nach kurzer Zeit kamen
 dann auch die herzlosen Methoden in der tierischen Lebensmittelproduktion dazu.
@@ -152,8 +152,8 @@ Einsatz kommen.
 <strong>Marlin:</strong> Bei den derzeitigen Garnen wird in Portugal, Italien
 und Nepal produziert. Das Tencelgarn wird eigens für uns in der Tschechischen
 Republik, nahe der deutschen Grenze, gefertigt.
-<a href="http://cardamonchai.com/2019/08/cradle-to-cradle-prinzip/">Cradle-to-Cradle</a>
-beschreibt einen geschlossenen Kreislauf
+[Cradle-to-Cradle](/2019/08/cradle-to-cradle-prinzip/) beschreibt einen
+geschlossenen Kreislauf
 
 <strong>Anne:</strong> Als Ziel für die Zukunft nennst Du auf Deine Homepage
 unter anderem "Produktion nach dem Cradle-to-Cradle Prinzip". Möchtest Du kurz
@@ -213,21 +213,15 @@ wird es auf der Website von Vegarn als neuer Link auftauchen.)"</blockquote>
 ### Räumungsverkauf vom 1. September bis zum 24. Dezember 2019
 
 Vom 1. September bis zum 24. Dezember 2019 ist ein Räumungsverkauf im Onlineshop
-geplant. Der Fokus liegt auf
-dem <a href="https://www.vegarn.eu/produkt/tencelgarn-100g-knaeuel/" target="_blank" rel="noopener nofollow">Tencelgarn</a> und <a href="https://www.vegarn.eu/produkt/pure-soysilk/" target="_blank" rel="noopener nofollow">Pure
-Soysilk</a>. Schaut doch mal rein, es lohnt sich!
+geplant. Der Fokus liegt auf dem 
+[Pure Soysilk](https://www.vegarn.eu/produkt/tencelgarn-100g-knaeuel/). Schaut
+doch mal rein, es lohnt sich!
 
 Wer ab dem 1. September mehr als ein Kilogramm Wolle  bestellt, bekommt ein
-Knäuel <a href="https://www.vegarn.eu/produkt/tencelgarn-100g-knaeuel/" target="_blank" rel="noopener nofollow">Tencelgarn</a> oder <a href="https://www.vegarn.eu/produkt/pure-soysilk/" target="_blank" rel="noopener nofollow">Pure</a> als
-Geschenk dazu. Bei über drei Kilogramm zwei Knäuel und so weiter.
-<a href="https://mailchi.mp/da17dbe0bd52/ausverkauf-grund" target="_blank" rel="noopener nofollow">Marlins
-komplettes Statement zur Auflösung des Shops könnt Ihr online hier
-nachlesen</a>.
+Knäuel 
+[Marlins komplettes Statement zur Auflösung des Shops könnt Ihr online hier nachlesen](https://www.vegarn.eu/produkt/tencelgarn-100g-knaeuel/).
 
 <hr />
 
 \*Hier könnt Ihr
-<a href="https://www.vegarn.eu/" target="_blank" rel="noopener nofollow">Vegarn
-online besuchen</a>. Hier findet Ihr
-<a href="http://cardamonchai.com/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/" target="_blank" rel="noopener">weitere
-Informationen zum Thema Wolle</a>.
+[weitere Informationen zum Thema Wolle](https://www.vegarn.eu/).

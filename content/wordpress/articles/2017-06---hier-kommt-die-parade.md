@@ -41,9 +41,9 @@ subTitle: Fabelwesen im Sonnenlicht
 <strong><em>
 
 Ihr mögt also bunte Paraden. Das habt Ihr nun eindeutig bewiesen. Meine
-<a href="http://cardamonchai.com/2017/06/weisse-parade-stamp-festival-altona/">Bildergalerie
-zur Lichterparade</a> auf dem Stamp Festival in Hamburg Altona ging auf
-Instagram und Facebook ja regelrecht durch die Decke.
+[Bildergalerie zur Lichterparade](/2017/06/weisse-parade-stamp-festival-altona/)
+auf dem Stamp Festival in Hamburg Altona ging auf Instagram und Facebook ja
+regelrecht durch die Decke.
 
 ## Stamp Festival Altona - Bunte Parade der Vielfalt
 
@@ -57,9 +57,6 @@ ist und wie wir alle unser Altona lieben.
 
 [myflickr tag="annesonntagparadestamp2017"]
 
-<a href="http://cardamonchai.com/2017/06/weisse-parade-stamp-festival-altona/">Meine
-Bilder vom Samstag findet Ihr hier</a>.
+[Meine Bilder vom Samstag findet Ihr hier](/2017/06/weisse-parade-stamp-festival-altona/).
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

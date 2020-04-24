@@ -98,15 +98,12 @@ sterben darum weiterhin jedes Jahr in den Versuchen.
 Die Tierschützer von PETA fordern die Regierung jetzt auf, dem grausamen Treiben
 ein Ende zu setzen. Dabei ist jede mögliche Unterstützung gerne gesehen. Infos
 dazu findet Ihr unter
-<a href="https://www.peta.de/tierversuche-stoppen" target="_blank" rel="noopener">peta.de/tierversuche.stoppen</a>.
-Auf der Seite könnt Ihr spenden und Euch weitere Infos zum Thema holen.
+[peta.de/tierversuche.stoppen](https://www.peta.de/tierversuche-stoppen). Auf
+der Seite könnt Ihr spenden und Euch weitere Infos zum Thema holen.
 
-<strong>Foto:</strong>
-<a href="https://pixabay.com/de/users/tiburi-2851152/" target="_blank" rel="noopener">tiburi</a>,
-Pixabay, Pressemitteilung und Kampagne:
-<a href="https://www.peta.de" target="_blank" rel="noopener">PETA</a>
+<strong>Foto:</strong> [PETA](https://pixabay.com/de/users/tiburi-2851152/)
 
 <em>\*Dieser Artikel ist als "Werbung" gekennzeichnet, da ich auf eine Kampagne
 von PETA verlinkt habe. Meine Meinung wurde nicht beeinflusst. Alles zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Tranzparenzseite</a>.</em>
+[Tranzparenzseite](/werbung/). </em>

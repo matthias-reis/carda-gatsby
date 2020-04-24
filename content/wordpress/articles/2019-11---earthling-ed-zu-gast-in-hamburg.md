@@ -111,18 +111,17 @@ Gesellschaft aufmerksam.
 Earthling Ed lebt in London. 2014 wurde er Vegetarier, nachdem er einen Artikel
 über einen Geflügeltruck gelesen hatte, der bei Manchester verunglückt war.
 Kurze Zeit später sah er mit seiner Freundin
-<a href="http://www.earthlings.de/" target="_blank" rel="noopener">die
-Dokumentation "Earthlings"</a>. Seit diesem Zeitpunkt leben die beiden vegan.
+[die Dokumentation "Earthlings"](http://www.earthlings.de/). Seit diesem
+Zeitpunkt leben die beiden vegan.
 
 Innerhalb der veganen Community ist er inzwischen sehr bekannt. Zeitgleich mit
 der Gründung der Tierrechtsorganisation Surge mit seiner Partnerin startete Ed
 2016 seinen Youtube Kanal. Sein Fokus liegt auf Bildung, Aufklärung und die
 positive Kommunikation des veganen Gedanken. Ebenfalls im Jahr 2016 wurde von
 Surge in Kooperation mit anderen Tierrechtsorganisationen in London der
-<a href="http://cardamonchai.com/2019/08/animal-rights-march-2019/">Animal
-Rights March</a> ins Leben gerufen. Bereits im ersten Jahr wurden dort 2.500
-Besucher\*innen gezählt. Inzwischen folgen der Bewegung weltweit 28.000
-Menschen.
+[Animal Rights March](/2019/08/animal-rights-march-2019/) ins Leben gerufen.
+Bereits im ersten Jahr wurden dort 2.500 Besucher\*innen gezählt. Inzwischen
+folgen der Bewegung weltweit 28.000 Menschen.
 
 ## "Land Of Hope" und das "Unity Diner"
 
@@ -137,12 +136,9 @@ Da es sich um ein kostenloses Event handelte, an dem keiner was verdient, wurden
 im Anschluss an den Vortrag in Hamburg Spenden für die SOKO Tierschutz
 gesammelt.
 
-Vielen Dank an
-<a href="https://earthlinged.org/" target="_blank" rel="noopener">Earthling
-Ed</a>,
-<a href="https://www.anonymousforthevoiceless.org/" target="_blank" rel="noopener">Anonymous
-For The Voiceless</a> Hamburg, Inbar, Liza Marie und alle anderen, die das Event
-möglich gemacht haben! Ihr seid großartig!
+Vielen Dank an [Anonymous For The Voiceless](https://earthlinged.org/) Hamburg,
+Inbar, Liza Marie und alle anderen, die das Event möglich gemacht haben! Ihr
+seid großartig!
 
 Hat Euch mein Beitrag neugierig gemacht? Das freut mich sehr! Hier ein Video zum
 Thema "wütende Veganer\*innen", das Ed vor einiger Zeit aufgenommen hat.

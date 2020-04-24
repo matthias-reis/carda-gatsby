@@ -42,15 +42,11 @@ subTitle: Vielleicht das beste Konzert aller Zeiten
 ![Warten auf die beste Band der Welt](http://cardamonchai.files.wordpress.com/2013/04/img_4521.png?w=300 "Warten auf die beste Band der Welt")
 
 <strong>Am Mittwoch war es endlich mal wieder so weit und
-<a title="Amplifier" href="http://www.amplifiertheband.com" target="_blank" rel="noopener">Amplifier</a>
-spielten ein Konzert in unserer Nähe. Das letzte Mal habe ich sie auf dem
-letztjährigen
-<a title="Herzberg" href="//2012/08/02/burg-herzberg-festival-2012/" target="_blank" rel="noopener">Herzberg
-Festival </a>gesehen, das jetzt schon eine ganze Weile zurück liegt. </strong>
+[Herzberg Festival](http://www.amplifiertheband.com) gesehen, das jetzt schon
+eine ganze Weile zurück liegt. </strong>
 
-Als Support hatten Amplifier
-<a title="Charlie Barnes" href="http://charliebarnes.bandcamp.com" target="_blank" rel="noopener">Charlie
-Barnes</a> dabei, der Sel Balamir und seine Mannen im Anschluss an der Gitarre
+Als Support hatten Amplifier [Charlie Barnes](http://charliebarnes.bandcamp.com)
+dabei, der Sel Balamir und seine Mannen im Anschluss an der Gitarre
 unterstützte. Plötzlich teilte sich die Menge und er spielte seinen ersten Song
 mit seiner Akustik-Gitarre zwischen den Fans. Danach betrat er die Bühne und
 lieferte ein beeindruckendes Set, nur mit seiner Gitarre, seinem verbeulten
@@ -58,7 +54,7 @@ Macbook und eine Loopmachine ausgestattet. Als seine Gitarre bei einer kleinen
 Bodypercussion-Einlage einen Riss bekam, trug er es mit Humor 'Schließlich ist
 es immer noch irgendwie Rock´n`Roll', lachte er.
 
-![Charlie Barnes](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300 '<a href="http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg"> </a> Charlie Barnes')
+![Charlie Barnes](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300 " [](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg)  Charlie Barnes")
 
 Als Amplifier die Bühne betraten, glühte das Publikum nur so. Man konnte
 regelrecht spüren, wie sich alle freuten, ihr 'alten Bekannten' endlich wieder
@@ -78,7 +74,7 @@ im Publikum wiedererkannten und sich für die Treue bedankten.
 
 ## Entspannte Künstler
 
-![Ampflifier](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300 '<a href="http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg"> </a> Ampflifier')
+![Ampflifier](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300 " [](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg)  Ampflifier")
 
 Doch nicht genug: Sel legte seine Gitarre ab, lies uns daran zupfen (ich konnte
 ihr sogar einen Kuss aufdrücken!), badetet ein Bisschen in der Menge und gab
@@ -93,7 +89,7 @@ auf ihn zustiefelte, mich für die gelungene Show bedankte und ihm erzählte, da
 ich Amplifier inzwischen 10 Mal auf der Bühne gesehen hätte und mich schon auf
 das nächste Konzert freuen würde.
 
-![Sel Balamir](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300 '<a href="http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg"> </a> Sel Balamir')
+![Sel Balamir](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300 " [](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg)  Sel Balamir")
 
 Ich drückte ihm meine Eintrittskarte in die Hand und wir begannen beide nach
 einen Kugelschreiber zu wühlen. Schließlich stellte ich enttäuscht fest, dass
@@ -106,23 +102,22 @@ klingt viel romantischer', meinte er und signierte das Ticket: 'To Anne - Thanks
 10 Million Times &lt;3 Sel.' Anschließend drückte er mich noch, bis mir fast die
 Luft weg blieb und ich bedankte mich noch mal.
 
-![Das Autogram](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300 '<a href="http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg"> </a> Das Autogram')
+![Das Autogram](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300 " [](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg)  Das Autogram")
 
 Das Ganze filmte er mit der Helm-Kamera, die Matt Brobin beim großen Finale an
 den Drums getragen hatte. Wir trafen noch einen jungen Mann, der uns erzählte,
 dass er den Auftritt der Band beim
-<a title="Herzberg" href="//2012/08/02/burg-herzberg-festival-2012/" target="_blank" rel="noopener">Herzberg
-Festival</a> komplett gefilmt hätte, leider verloren wir ihn aus den Augen und
-konnten ihn nicht mehr nach seiner Blogadresse fragen. Also, wenn Du das hier
-liest: Schick uns doch einen Link!
+[Herzberg Festival](//2012/08/02/burg-herzberg-festival-2012/) komplett gefilmt
+hätte, leider verloren wir ihn aus den Augen und konnten ihn nicht mehr nach
+seiner Blogadresse fragen. Also, wenn Du das hier liest: Schick uns doch einen
+Link!
 
 Ein wundervoller Abend, der uns lange in Erinnerung bleiben wird. Eine kleine
 Entschädigung für den Stau, der verhinderte, dass wir pünktlich zum Steven
 Wilson Konzert kamen und für das abgesagt
-<a title="Amanda Palmer" href="//2013/03/11/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/" target="_blank" rel="noopener">Amanda
-Palmer Konzert</a>.
+[Amanda Palmer Konzert](//2013/03/11/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/).
 
-![Die Setlist](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300 '<a href="http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg"> </a> Die Setlist')
+![Die Setlist](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300 " [](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg)  Die Setlist")
 
 Ich bin schon sehr gespannt auf das nächste Amplifier-Konzert und hoffe, dass
 ich nicht so lange darauf warten muss!

@@ -42,15 +42,12 @@ thumbnailId: "3427"
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 4/9
 ---
 
-<a title="Glastonbury" href="http://cardamonchai.com/2012/07/glastonbury/">Teil
-3/9</a> Impressionen vom Isle Of Wight Festival 2012
+[Teil 3/9](/2012/07/glastonbury/) Impressionen vom Isle Of Wight Festival 2012
 
 [gallery type="rectangular" link="none" size="medium"
 ids="3445,3444,3443,3442,3441,3440,3439,3438,3437,3436,3435,3434,3433,3432,3431,3430,3429,3428,3427,3426,3425,3424,3423,3422,3421,3420,3419,3418,3417,3416,3415"]
 
-Hier geht's zu
-<a title="Schnappschuss" href="http://cardamonchai.com/2012/07/schnappschuss/"><em>Teil
-5/9</em></a> der Galerie "England 2012"
+Hier geht's zu [](/2012/07/schnappschuss/) der Galerie "England 2012"
 
 ## Song zu den Fotos: Pearl Jam - Yellow Ledbetter
 
@@ -78,6 +75,4 @@ want to stay
 
 ♥
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

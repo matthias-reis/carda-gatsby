@@ -42,9 +42,7 @@ anmelden eine Flasche Bier verlost!
 
 Die Facebook-Seite soll informieren, sobald sich etwas auf meinem Blog tut, es
 werden aber auch immer wieder interessante Neuigkeiten mitgeteilt und Fotos
-gezeigt.
-<a title="Facebook" href="www.facebook.com/cardamonchai" target="_blank" rel="noopener">Hier</a>
-geht's zur Facebook-Seite.
+gezeigt. [Hier](www.facebook.com/cardamonchai) geht's zur Facebook-Seite.
 
 Recht herzlichen Dank für die Aufmerksamkeit!
 

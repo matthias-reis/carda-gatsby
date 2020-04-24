@@ -101,8 +101,8 @@ schmeckt Ihr die Suppe noch mit Sojasauce ab. Garniert sie vor dem Servieren mit
 ein paar geschroteten Leinsamen. Die sorgen nicht nur für einen zusätzlichen
 Twist, sondern enthalten auch noch wertvolle Omega-3-Fettsäuren. Perfekt passt
 dazu übrigens ein
-<a href="http://cardamonchai.com/2017/04/sesambrot-kichererbsenmehl/">selbst
-gemachtes Sesambrot</a> und ein schöner Apfelwein oder Cider.
+[selbst gemachtes Sesambrot](/2017/04/sesambrot-kichererbsenmehl/) und ein
+schöner Apfelwein oder Cider.
 
 Guten Appetit! &lt;3
 

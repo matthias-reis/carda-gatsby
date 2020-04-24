@@ -57,7 +57,7 @@ subTitle: '"Der Geschmack steht im Vordergrund"'
 
 <p class="p1"><span class="s1"><strong>Daniel:</strong> Bis 17:00 Uhr trinke ich gerne noch Grünen oder Weißen Tee. Da ich spät schlafen gehe, ist das kein Problem.</span></p>
 
-<p class="p1"><span class="s1"><strong>Anne:</strong> Neulich habe ich hier im Blog eine Dame interviewt, die ein <a href="http://cardamonchai.com/2017/03/tigovit-interview/">wertvolles Nahrungsergänzungsmittel</a> aus grünem Tee herstellt. Ich habe ihr die schöne Frage gestellt, ob sie morgens nach dem Aufstehen lieber Tee oder Kaffee trinkt. Interessanterweise hat sie mit „Kaffee“ geantwortet. Wie ist es bei Dir? Überraschst Du mich auch?</span></p>
+<p class="p1"><span class="s1"><strong>Anne:</strong> Neulich habe ich hier im Blog eine Dame interviewt, die ein  [wertvolles Nahrungsergänzungsmittel](/2017/03/tigovit-interview/)  aus grünem Tee herstellt. Ich habe ihr die schöne Frage gestellt, ob sie morgens nach dem Aufstehen lieber Tee oder Kaffee trinkt. Interessanterweise hat sie mit „Kaffee“ geantwortet. Wie ist es bei Dir? Überraschst Du mich auch?</span></p>
 
 ## "Morgens trinke ich Schwarzen Tee"
 
@@ -169,9 +169,9 @@ subTitle: '"Der Geschmack steht im Vordergrund"'
 
 <p class="p1"><span class="s1"><strong>Anne:</strong><span class="Apple-converted-space">  </span>Vielen Dank für das nette Interview und für Deine Zeit! Ich wünsche Dir alles Gute für die Zukunft von <em>Smecket</em>!</span></p>
 
-<p class="p1"><a href="http://cardamonchai.com/2017/04/smecket-tee/">Hier findet Ihr meinen Testbericht</a> zu den Smecket Tees.</p>
+<p class="p1"> [Hier findet Ihr meinen Testbericht](/2017/04/smecket-tee/)  zu den Smecket Tees.</p>
 
-<p class="p1">Zur Smecket Homepage geht es <a href="http://smecket.de" target="_blank" rel="noopener">hier entlang</a>.</p>
+<p class="p1">Zur Smecket Homepage geht es  [hier entlang](http://smecket.de). </p>
 
 <p class="p1">Das Bild im Header stammt von Smecket. Das trifft auch auf das Portrait von Daniel sowie das erste Bild darunter zu. Alle anderen Bilder habe ich aufgenommen.</p>
 

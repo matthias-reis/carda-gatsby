@@ -48,15 +48,15 @@ Punktlandung, bevor ich überhaupt etwas ausgepackt habe.
 
 Als Erstes entnehme ich dem Päckchen die Produktkarte. Ich bin schon sehr
 gespannt, was mich dieses Mal erwartet. Wie bei jedem
-<a href="http://cardamonchai.com/2016/09/vegan-beauty-basket-im-test/">Basket</a>
-durfte ich mir auch dieses Mal bei einem Artikel die Sorte aussuchen. Dieses Mal
-ist das der Lippbalm von HURRAW!. Meine Wahl fiel auf die Sorte "Tinted Black
-Cherry". Der Pflegestift kommt sehr gelegen, da meine Lippen jetzt zur kalten
-Jahreszeit wieder richtig schön spröde sind. Er kommt also gleich zum Einsatz.
- Das Aroma erinnert mich an die kleinen Lutscher, die es als Kind immer gab. Was
-habe ich die geliebt! Außer der von mir gewählten Variante standen auch noch
-"chocolate", "vanilla bean", "tinted cinnamon", "grapefruit", "coconut" und
-"green tea" zur Auswahl. Klingt spannend, oder?
+[Basket](/2016/09/vegan-beauty-basket-im-test/) durfte ich mir auch dieses Mal
+bei einem Artikel die Sorte aussuchen. Dieses Mal ist das der Lippbalm von
+HURRAW!. Meine Wahl fiel auf die Sorte "Tinted Black Cherry". Der Pflegestift
+kommt sehr gelegen, da meine Lippen jetzt zur kalten Jahreszeit wieder richtig
+schön spröde sind. Er kommt also gleich zum Einsatz.  Das Aroma erinnert mich an
+die kleinen Lutscher, die es als Kind immer gab. Was habe ich die geliebt! Außer
+der von mir gewählten Variante standen auch noch "chocolate", "vanilla bean",
+"tinted cinnamon", "grapefruit", "coconut" und "green tea" zur Auswahl. Klingt
+spannend, oder?
 
 ## HURRAW! - Lippenpflege für jeden Geschmack
 
@@ -146,8 +146,7 @@ hängt. &lt;3
 
 Wollt Ihr den Vegan Beauty Basket auch mal ausprobieren? Wer möchte, kann sich
 jetzt schon die
-<a href="https://www.veganbeautybasket.com/index.php/de/vegan-beauty-basket-einzeln-ausprobieren" target="_blank" rel="noopener">Januar-Ausgabe
-reservieren</a>.
+[Januar-Ausgabe reservieren](https://www.veganbeautybasket.com/index.php/de/vegan-beauty-basket-einzeln-ausprobieren).
 
 Übrigens: Bleibt unbedingt dran! Nächstes Jahr wird es hier im Blog ein großes
 Interview mit Ina geben!
@@ -157,14 +156,13 @@ Interview mit Ina geben!
 ## Wegweiser Vegan Beauty Basket
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/08/vegan-beauty-basket-gratis-aktion/">Der Basket im 3er-Abo 8/2016</a></li>
-    <li><a href="http://cardamonchai.com/2016/09/vegan-beauty-basket-im-test/">Im Test 9/2016</a></li>
+    <li> [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/) </li>
+    <li> [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/) </li>
     <li>Unboxing Weihnachtsedition 12/2016</li>
-    <li><a href="http://cardamonchai.com/2017/02/vegan-beauty-basket-interview/">Interview mit Gründerin Ina 2/2017</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/unboxing-vegan-beauty-basket-maerz/">Unboxing März-Ausgabe 3/2018</a></li>
+    <li> [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/) </li>
+    <li> [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/) </li>
 </ol>
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

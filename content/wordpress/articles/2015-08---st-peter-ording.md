@@ -31,10 +31,10 @@ thumbnailId: "12455"
 subTitle: Perle an der Nordsee
 ---
 
-<strong>Wie versprochen<a href="#1"><sup>1</sup></a> kommt hier eine kleine
-Auswahl meiner Bilder von unserem Besuch in St. Peter-Ording letztes Jahr im
-Oktober. Für St. Peter-Ording Fans und alle, die es noch werden wollen.
-Natürlich sind auch wieder ganz viele Möwen dabei.</strong>
+<strong>Wie versprochen [](#1) kommt hier eine kleine Auswahl meiner Bilder von
+unserem Besuch in St. Peter-Ording letztes Jahr im Oktober. Für St. Peter-Ording
+Fans und alle, die es noch werden wollen. Natürlich sind auch wieder ganz viele
+Möwen dabei.</strong>
 
 Vielen Dank an Kurt Gerhard für die Inspiration und an den Herzmann für das
 freundlich zur Verfügung gestellte Titelbild. [myflickr
@@ -69,10 +69,9 @@ rein, edel und ganz.
 
 Nie darf zerbrechen der edle Fund, die Perle soll leuchten vom Meeresgrund.
 
-Otto Reinhards</blockquote><ul><li id="1">[1]
-<a href="http://cardamonchai.com/2015/07/zurueck-nach-st-peter-ording/">St.
-Peter-Ording im Juli 2015</a></li></ul> Mehr Bilder findet Ihr wie immer in
-meinem
-<a href="https://www.flickr.com/photos/99929697@N07/albums/72157648231468656" target="_blank" rel="noopener">Flickr</a>.
+Otto
+Reinhards</blockquote><ul><li id="1">[1][st. peter-ording im juli 2015](/2015/07/zurueck-nach-st-peter-ording/)
+</li></ul> Mehr Bilder findet Ihr wie immer in meinem
+[Flickr](https://www.flickr.com/photos/99929697@N07/albums/72157648231468656).
 
-## Wegweiser Möwen<ol><li><a href="/2010/01/moewen-am-bosporus/">Möwen am Bosporus (Januar 2010)</a></li><li><a href="/2015/07/zurueck-nach-st-peter-ording/">Zurück nach St. Peter-Ording (Juli 2015)</a></li><li>St. Peter-Ording - Perle an der Nordsee (August 2015)</li><li><a href="/2015/11/birdwatching-am-timmendorfer-strand/">Birdwatching am Timmendorfer Strand (November 2015)</a></li><li><a href="http://cardamonchai.com/2015/11/die-moewe/">Die Möwe, Kiel (November 2015)</a></li><li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der Brücke (Januar 2016)</a></li><li><a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)</a></li><li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)</a></li><li><a href="http://cardamonchai.com/2017/10/moewen-in-dublin/">Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)</a></li><li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li><li><a href="http://cardamonchai.com/2018/05/birds-of-westport/">Birds of Westport</a></li></ol><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+## Wegweiser Möwen<ol><li> [](/2010/01/moewen-am-bosporus/)

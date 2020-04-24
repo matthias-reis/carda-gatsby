@@ -55,7 +55,4 @@ Minded - Envoi
 
 [youtube=http://www.youtube.com/watch?v=Q6yDfXpiWoA&amp;feature=channel_video_title]
 
-<strong>&gt;<a title="Facebook" href="www.facebook.com/cardamonchai">Hier</a>&lt;
-geht es zur
-<a title="Facebook" href="www.facebook.com/cardamonchai">Facebook-Seite</a> von
-cardamonchai:</strong><a href="http://www.facebook.com/media/set/?set=a.206871166001687.48560.100000364159291#!/pages/cardamonchai/163792830347189"></a>
+<strong>&gt; [](www.facebook.com/cardamonchai)

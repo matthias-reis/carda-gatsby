@@ -70,19 +70,15 @@ Schnappschüsse gelungen, die ich Euch gerne zeigen möchte.</strong>
 
 Im Titel seht Ihr schon mal mein Lieblingsbild. Es ist am Donnerstag beim
 Auftritt von Ef entstanden. Das Festival war, genau wie schon
-<a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">im
-letzten Jahr</a>, ein echter Traum. Gute Musik rund um die Uhr, lauter nette
-Menschen, keine Partytouristen und ein Gefühl von Familie und guter Laune.
+[im letzten Jahr](/2017/06/dunk-festival-2017-eindruecke-und-bilder/), ein
+echter Traum. Gute Musik rund um die Uhr, lauter nette Menschen, keine
+Partytouristen und ein Gefühl von Familie und guter Laune.
 
 ## Ef und Worried About Satan
 
 Meine Favoriten waren Ef aus Schweden, Besides, As We Keep Searching aus Indien,
 Soup aus Norwegen, die Chellistin Jo Quail und das Elektronik-Duo Worried About
-Satan aus
-<a href="https://cardamonchai.com/category/unterwegs/england/">Großbritannien</a>,
-The Ills aus der Slowakei, Grails aus den USA, La Bestia De Gevaudan und
-Tortuganonima aus Chile, The Ocean aus Deutschland und der Schweiz und natürlich
-Caspian und <a>Russian Circles</a> aus den USA.
+Satan aus [Russian Circles](/category/unterwegs/england/) aus den USA.
 
 Insgesamt war das Event auch in diesem Jahr wieder ein internationales. Bands
 und Zuschauer reisten aus den verschiedensten Winkeln der Erde von Japan bis
@@ -150,15 +146,13 @@ ids="20897,20896,20895,20894,20893,20891,20892,20890,20889,20888,20887"]
 ## Wegweiser DUNK!festival
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/02/dunkfestival-2016-wir-sind-auch-dabei/">DUNK!festival 2017 - Post-Rock in Begien</a></li>
-    <li><a href="http://cardamonchai.com/2017/05/dunkfestival-2017-es-geht-los/">DUNK!festival 2017 - Wir kommen!</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">DUNK!festival 2017 - Liebe auf den ersten Blick</a></li>
-    <li><a href="http://cardamonchai.com/2018/04/dunkfest-2018-wir-kommen/">DUNK!festival 2018 - Das Line-up</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/wir-laeuten-die-festivalsaison-ein/">Wir läuten die Festivalsaison ein - Kurze Auszeit</a></li>
+    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
+    <li> [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/) </li>
+    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
+    <li> [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/) </li>
+    <li> [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/) </li>
     <li>DUNK!festival 2018 - Liebe für immer</li>
     <li>DUNK!festival 2019 - das Line-up</li>
 </ol>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

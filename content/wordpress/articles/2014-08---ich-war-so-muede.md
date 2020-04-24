@@ -40,10 +40,10 @@ thumbnailId: "8429"
 subTitle: 10 Fakten über Veganismus - Teil II
 ---
 
-## Veganer sind einfach gesünder<strong><a title="Teil 1" href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/"><span style="text-decoration: underline;"><em>Hier gehts zu Teil 1 des Artikels</em></span></a></strong><strong>Immer wieder werden Gerüchte wach, Veganer\*innen würden sich ungesund ernähren. Selbst große, angesehene Zeitungen und Magazine berichten darüber. Dies zu dementieren, sind die meisten Veganer\*innen schon müde geworden, doch lässt sich für das ständig neue Aufblühen der Mythen und Weisheiten auch ein Grund vermuten.</strong>
+## Veganer sind einfach gesünder<strong> [](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) </strong><strong>Immer wieder werden Gerüchte wach, Veganer\*innen würden sich ungesund ernähren. Selbst große, angesehene Zeitungen und Magazine berichten darüber. Dies zu dementieren, sind die meisten Veganer\*innen schon müde geworden, doch lässt sich für das ständig neue Aufblühen der Mythen und Weisheiten auch ein Grund vermuten.</strong>
 
 So las ich zum Beispiel erst letzte Woche bei Spiegel Online einen
-<a title="Spiegel Milchartikel" href="http://www.spiegel.de/gesundheit/ernaehrung/milch-kampagne-bringt-milch-in-zusammenhang-mit-uebergewicht-a-985707.html" target="_blank" rel="noopener">Artikel</a>
+[Artikel](http://www.spiegel.de/gesundheit/ernaehrung/milch-kampagne-bringt-milch-in-zusammenhang-mit-uebergewicht-a-985707.html)
 darüber, wie gesund doch Milch sei. Der Autor lies sich zudem darüber aus, was
 für gefährliches Halbwissen "diese Veganer" da verbreiten würden, indem sie die
 Behauptung aufstellen, dem sei nicht. Milch sei bespielsweise überhaupt nicht
@@ -58,7 +58,7 @@ erlauben darf. Keine zwei Minuten dauert es und die aufgebrachten
 Online-Nachbarn stehen mit brennenden Fackeln an der Pinnwand-Haustüre und
 prangern an.
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/eichblattsalat-mit-tomaten-hagebutten-scharfer-grc3bcner-spitzpaprika-radieschensprossen-chiasamen-und-maracuja-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Eichblattsalat mit Tomaten, Hagebutten, scharfer grüner Spitzpaprika, Radieschensprossen, Chiasamen und Maracuja. Dazu: Lupinensteak')
+![müde](http://cardamonchai.com/wp-content/uploads/2014/08/eichblattsalat-mit-tomaten-hagebutten-scharfer-grc3bcner-spitzpaprika-radieschensprossen-chiasamen-und-maracuja-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Eichblattsalat mit Tomaten, Hagebutten, scharfer grüner Spitzpaprika, Radieschensprossen, Chiasamen und Maracuja. Dazu: Lupinensteak")
 
 Die "fleischliche" Denke ist in unserer Gesellschaft sehr stark verankert. Es
 reicht leider nicht aus, zu sagen, dass das Eisen ja nicht erst von der Kuh
@@ -82,21 +82,21 @@ so müde!".
 Was tun? Aussitzen? Apprallen lassen? Unter dem Tisch auf dem Smartphone Tante
 Google fragen? Vorher alles auswendig lernen? Es wurden zu dem Thema sogar
 bereits Apps programmiert. Der
-<a title="Veggie App VeBu" href="https://www.vebu.de/aktuelles/news/1704-hilfreiche-veggie-app-fuer-ihr-iphone-android-restaurantsuche" target="_blank" rel="noopener">VeBu
-bietet zum Beispiel eine an</a>, in der man zu (fast) jeder typischen
-Bombadierungsfrage eine Pauschalantwort findet. Sehr praktisch. Kann ich jedem
-Neu-Veganer\*innen in den ersten drei bis sechs Tagen auf jeden Fall empfehlen.
+[VeBu bietet zum Beispiel eine an](https://www.vebu.de/aktuelles/news/1704-hilfreiche-veggie-app-fuer-ihr-iphone-android-restaurantsuche),
+in der man zu (fast) jeder typischen Bombadierungsfrage eine Pauschalantwort
+findet. Sehr praktisch. Kann ich jedem Neu-Veganer\*innen in den ersten drei bis
+sechs Tagen auf jeden Fall empfehlen.
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/schaschlikspiec39fe-mit-tofu-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Schaschlikspieße mit Tofu')
+![müde](http://cardamonchai.com/wp-content/uploads/2014/08/schaschlikspiec39fe-mit-tofu-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schaschlikspieße mit Tofu")
 
 Ein Geheimrezept gibt es jedoch nicht. Jeder muss die für sich beste Lösung
 selbst finden. Ich ziehe eine Mischung aus harten Fakten (nicht aus dem
 Smartphone, sondern inzwischen aus dem Kopf) und Lächeln und Winken vor. In
 besonders harten Fällen packe ich dann auch gerne mal den Link
-<a title="Earthlings" href="www.earthlings.de" target="_blank" rel="noopener">earthlings.de</a>
-aus, und vertage das Gespräch, bis der Diskutant sich den Film angesehen hat.
-Einiges fügt sich danach von alleine. Auch wenn der Film nicht mit Daten, Zahlen
-und <strong>Fakten</strong> punktet, sondern mit Bildern.
+[earthlings.de](www.earthlings.de) aus, und vertage das Gespräch, bis der
+Diskutant sich den Film angesehen hat. Einiges fügt sich danach von alleine.
+Auch wenn der Film nicht mit Daten, Zahlen und <strong>Fakten</strong> punktet,
+sondern mit Bildern.
 
 ### So kannst Du was fürs Klima tun
 
@@ -118,20 +118,20 @@ tierischen Inhaltsstoffen.
 ### Auf der Suche nach Fakten
 
 Wer jetzt wieder auf der Suche nach Fakten, Zahlen, Beweisen und Belegen ist:
-<a title="Earthlings" href="www.earthlings.de" target="_blank" rel="noopener">earthlings.de</a>.
-Außerdem möchte ich jedem Nicht-Veganer\*innen noch eins ans Herz legen: Traut
-einem Menschen, der sich dazu entschieden hat, sich BEWUSST zu ernähren dies
-auch zu. Und seid Euch sicher: Wir bekommen unsere Nährstoffe, Proteine, unser
-<strong>Kalzium</strong> unser Eisen unser Vitamin B12, unseren Sex und wir
-müssen auch nicht barfuß rumlaufen.
+[earthlings.de](www.earthlings.de). Außerdem möchte ich jedem
+Nicht-Veganer\*innen noch eins ans Herz legen: Traut einem Menschen, der sich
+dazu entschieden hat, sich BEWUSST zu ernähren dies auch zu. Und seid Euch
+sicher: Wir bekommen unsere Nährstoffe, Proteine, unser <strong>Kalzium</strong>
+unser Eisen unser Vitamin B12, unseren Sex und wir müssen auch nicht barfuß
+rumlaufen.
 
 ### Dazu zumindest ein paar kurze Bespiele:
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/salat-mit-spitzkohl-pastinaken-sprossen-netzmelone-und-falafeln-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Salat mit Spitzkohl, Pastinaken, Sprossen, Netzmelone und Falafeln')
+![müde](http://cardamonchai.com/wp-content/uploads/2014/08/salat-mit-spitzkohl-pastinaken-sprossen-netzmelone-und-falafeln-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Salat mit Spitzkohl, Pastinaken, Sprossen, Netzmelone und Falafeln")
 
 <blockquote>"Unter Insulinresistenz versteht man ein vermindertes Ansprechen der Körperzellen auf das Hormon Insulin. Den Daten einer vor Kurzem in der Fachzeitschrift 'Diabetes Care' veröffentlichte Studie mit 518 gesunden Probanden im Alter von 15 bis 20 Jahren zufolge, kann eine fettarme, ballaststoffreiche Ernährung die Insulinempfindlichkeit erhöhen. Die Teilnehmer waren seit ihrer frühen Kindheit an dieser Studie beteiligt und wurden im Hinblick auf ihre Herzgesundheit kontinuierlich über erforderliche Veränderungen ihrer Ernährungsgewohnheiten informiert. Die Wissenschaftler ermunterten sie dazu, mehr Obst, Gemüse und Vollkornprodukte zu sich zu nehmen. Sie bewerteten die Insulinresistenz der Teilnehmer und überwachten ihren allgemeinen Gesundheitszustand. Probanden, deren Ernährung einen höheren Ballaststoffgehalt und weniger gesättigte Fettsäuren aufwies, zeigten eine bessere Insulinempfindlichkeit.
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/wokgemc3bcse-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Wokgemüse')
+![müde](http://cardamonchai.com/wp-content/uploads/2014/08/wokgemc3bcse-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Wokgemüse")
 
 Da Fleisch, Eier und Milchprodukte in der Regel nicht nur einen hohen Gehalt an
 gesättigten Fettsäuren und Kalorien aufweisen, sondern auch frei von
@@ -140,10 +140,8 @@ optimales Körpergewicht und eine gesundes Herz ausgesprochen empfehlenswert.
 Studien zufolge sind Menschen, die sich vegan ernähren, rund 18 Prozent
 schlanker, als Fleischesser. Zudem wurde nachgewiesen, dass die
 Wahrscheinlichkeit einer Erkrankung an Diabetes und anderen lebensbedrohlichen
-Krankheiten bei Veganern geringer ist, als bei
-Fleischessern."<a title="PETA" href="http://www.peta.de" target="_blank" rel="noopener"><small>Neal
-Barnand, Arzt und Autor des Buches "Power Foods For The Brain" im PETA-Magazin
-"animaltimes" 2014</small></a>"</blockquote>### Die Oxford Vegetarian Study
+Krankheiten bei Veganern geringer ist, als bei Fleischessern.
+"[](http://www.peta.de)" </blockquote>### Die Oxford Vegetarian Study
 
 An einer von 1980 bis 2000 durchgeführten Studie nahmen rund 11.000 Probanden
 teil, davon etwa 4.700 Vegetarier\*innen (inklusive zehn Prozent
@@ -161,10 +159,9 @@ bei lebenslangen Vegetarier\*innen 24 Prozent und bei lebenslangen
 Veganer\*innen 57 Prozent niedriger liegt als bei Fleischessern. Auch das
 Sterberisiko durch Herz-Kreislauf-Erkrankungen erhöhte sich mit zunehmendem
 Konsum von Fleisch, Käse, Eiern und tierischen Fetten."
-<a title="Oxford Vegetarian Study" href="https://www.vebu.de/gesundheit/studien" target="_blank" rel="noopener"><small>Oxford
-Vegetarian Study, vebu.de</small></a>
+[](https://www.vebu.de/gesundheit/studien)
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/ofengemc3bcse-mit-frikadellen-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Ofengemüse mit Frikadellen')
+![müde](http://cardamonchai.com/wp-content/uploads/2014/08/ofengemc3bcse-mit-frikadellen-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Ofengemüse mit Frikadellen")
 
 ### Gute Eisenwerte
 
@@ -192,9 +189,7 @@ sich nehmen, weil sie sich davor ekeln.
 
 <ul><li>Blutwurst: 6,4 mg/100g</li><li>Rinderleber: 3,1 mg/100g</li><li>Schweinefleisch: 2,5 mg/100g</li><li>Rindfleisch: 2,9 mg/100g</li><li>Lachs: 0,7 mg/100 g</li></ul><ul><li>Sojafleisch: 11 mg/100g</li><li>Sesamsamen: 10 mg/100g</li><li>Kürbiskerne: 12,5 mg/100g</li><li>Amaranth 9 mg/100g</li><li>Linsen 8 mg/100g</li></ul>
 
-(Quellen:
-<a title="Eisenhaltige Lebensmittel" href="http://www.eisenhaltigelebensmittel.de" target="_blank" rel="noopener">eisenhaltigelebensmittel.de</a>,
-<a title="VeBu Eisen" href="https://www.vebu.de/gesundheit/naehrstoffe/eisen" target="_blank" rel="noopener">vebu.de</a>)
+(Quellen: [vebu.de](http://www.eisenhaltigelebensmittel.de) )
 
 ### Kalziumreiche vegane Ernährung
 
@@ -205,10 +200,9 @@ die Zahlen, Kuhmilch im Vergleich zu einigen typischen veganen Nahrungsmitteln:
 
 <ul><li>Kuhmilch: 120 mg/100 g</li></ul><ul><li>Hafermilch: 120 mg/100 g</li><li>Sojamilch: 120 mg/100 g</li><li>Grünkohl: 212 mg/100 g</li><li>Rucola: 160 mg/100 g</li><li>Tofu: 105 mg/100 g</li></ul>
 
-(Quelle:
-<a title="VeBu Kalzium" href="https://www.vebu.de/gesundheit/naehrstoffe/kalzium" target="_blank" rel="noopener">vebu.de</a>)
+(Quelle: [vebu.de](https://www.vebu.de/gesundheit/naehrstoffe/kalzium) )
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/kunterbunter-linsensalat-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/http://"> </a> kunterbunter Linsensalat')
+![müde](http://cardamonchai.com/wp-content/uploads/2014/08/kunterbunter-linsensalat-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/http://)  kunterbunter Linsensalat")
 
 Meine persönlichen Kalziumwerte dürften sich, seitdem ich mich vegan ernähre,
 stark verbessert haben. Da ich Milch nie wirklich mochte, nahm ich diese maximal
@@ -230,37 +224,21 @@ wieder auf die uns bekannte Rechnung, wie viel Soja man an ein Tier verfüttern
 muss, bis es zur <strong>Schlachtbank</strong> geführt werden kann, um im
 Anschluss im Suppentopf oder in der Pfanne zu landen. Hierzu habe ich mich vor
 ein paar Tagen
-<a title="Soja, Klimaschutz und biologischer Fussabdruck" href="//2014/07/30/10-fakten-uber-vegane-ernahrung/" target="_blank" rel="noopener">schon
-mal ausgiebig ausgelassen</a>.
+[schon mal ausgiebig ausgelassen](//2014/07/30/10-fakten-uber-vegane-ernahrung/).
 
 ### Veganer\*innen sind nicht ständig müde
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/grc3bcne-bohnen-mit-tomaten-jalapenc3b5s-und-gewc3bcrzen-mit-ofenkartoffeln-und-sc3bcc39fkartoffeln-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Grüne Bohnen mit Tomaten, Jalapenõs und Gewürzen mit Ofenkartoffeln und Süßkartoffeln')
+![müde](http://cardamonchai.com/wp-content/uploads/2014/08/grc3bcne-bohnen-mit-tomaten-jalapenc3b5s-und-gewc3bcrzen-mit-ofenkartoffeln-und-sc3bcc39fkartoffeln-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Grüne Bohnen mit Tomaten, Jalapenõs und Gewürzen mit Ofenkartoffeln und Süßkartoffeln")
 
 Dass Veganer\*innen keine <strong>Mangelerscheinungen</strong> haben, bestätigen
-übrigens u. A.
-<a title="Alexander Dargatz" href="http://www.kryptonite.veganstrength.de" target="_blank" rel="noopener">Alexander
-Dargatz</a>, seines Zeichens Arzt, Bodybuilder und überzeugter Veganer, Patrik
-<a title="Patrik Baboumian" href="http://www.patrikbaboumian.de" target="_blank" rel="noopener">Baboumian</a>,
-armenischer Kraftsportler, 2012 stärkster Mann Europas und Veganer und
-<a title="Andreas Hänni, Berner Zeitung" href="http://www.bernerzeitung.ch/sport/hockey/Ich-wuerde-mich-von-keinem-Trainer-beeinflussen-lassen/story/27841496" target="_blank" rel="noopener">Andreas
-Hänni</a>, Eishockey-Profi und Veganer. Nur um hier mal mit ein paar berühmten
+übrigens u. A. [Andreas Hänni](http://www.kryptonite.veganstrength.de),
+Eishockey-Profi und Veganer. Nur um hier mal mit ein paar berühmten
 Sportskanonen zu prahlen, was sich in Diskussionen auch als recht wirksam
 erwiesen hat.
 
 Eine vegane Sportskanone, die mich persönlich sehr beeindruckt hat, ist
-<a title="Angela Brauer, Vegan News" href="http://www.vegan-news.de/multiple-sklerose-marathon-mit-leidenschaft-veganer-ernaehrung-hat-angela-es-geschafft/" target="_blank" rel="noopener">Angela
-Brauer</a>, sie lief trotz ihrer im April 2007 diagnostizierten MS-Diagnose im
-Frühjahr den <strong>Hamburg Marathon</strong>. Ein Interview mit dieser
-inspirierenden Sportlerin ist
-<a title="Angela Brauer, Vegan News" href="http://www.vegan-news.de/multiple-sklerose-marathon-mit-leidenschaft-veganer-ernaehrung-hat-angela-es-geschafft/" target="_blank" rel="noopener">hier</a>
-zu finden. Zum Thema MS und vegane Ernährung hat Matthias Kampmann von Vegan
-News 2013
-<a title="Interview Dr. med. Uwe Meier, Vegan News" href="http://www.vegan-news.de/multiple-sklerose-vegane-ernaehrung/" target="_blank" rel="noopener">ein
-sehr interessantes Interview</a> mit Dr. med. Uwe Meier geführt. Seine Frau
-Sabine veröffentlichte außerdem jüngst
-<a title="Gesundheitsrenovierung, Vegan News" href="http://www.vegan-news.de/gesundheitsrenovierung-vegan/" target="_blank" rel="noopener">ihren
-Artikel</a> "Gesundheitsrenovierung – wie mich das Leben veganisierte". Sehr
+[ihren Artikel](http://www.vegan-news.de/multiple-sklerose-marathon-mit-leidenschaft-veganer-ernaehrung-hat-angela-es-geschafft/)
+"Gesundheitsrenovierung – wie mich das Leben veganisierte". Sehr
 aufschlussreich, interessant, inspirierend und definitiv lesenswert, für alle,
 die sich für das Thema Veganismus und Gesundheit interessieren.
 
@@ -277,4 +255,4 @@ angeheftet.
 
 Abschließend noch ein Zitat des Herrn Schopenhauer (1788-1860)
 
-<blockquote>"Jedes Ding erscheint zuerst lächerlich, dann wird es bekämpft, schließlich ist es selbstverständlich."</blockquote><a title="Teil 3" href="/2014/08/22/blutige-zahlen/"><span style="text-decoration: underline;"><em><strong>Hier gehts zu Teil 3 des Artikels</strong></em></span></a>## Inhaltsverzeichnis "10 Fakten über Veganismus"<ol><li><a href="/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">Soja, Klimaschutz und ökologischer Fußabdruck</a></li><li><a href="/2014/08/ich-war-so-muede/">Ich war so müde</a>!</li><li><a href="/2014/08/blutige-zahlen/">Blutige Zahlen</a></li><li><a href="/2014/08/vitamin-b12-mythos-und-wahrheit/">Vitamin B12 - Mythos und Fakten</a></li><li><a href="/2014/09/pflanzenmilch-wieso-denn-blos/">Pflanzenmilch? Wieso denn bloß?</a></li><li><a href="/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/">Wolle? Das kann doch gar nicht so schlimm sein!</a></li><li><a href="/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/">Honig? Das ist jetzt aber wirklich übertrieben, oder?</a></li><li><a href="/2014/11/fakepelz-echtpelz/">Fakepelz = Echtpelz</a></li><li><a href="/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">Versteckte tierische Inhaltsstoffe in Lebensmitteln</a></li><li><a href="2015/09/ich-bleib-dabei-vegan-macht-spass">Ich bleib dabei! Vegan macht Spaß!</a></li></ol>
+<blockquote>"Jedes Ding erscheint zuerst lächerlich, dann wird es bekämpft, schließlich ist es selbstverständlich."</blockquote> [Ich bleib dabei! Vegan macht Spaß!](/2014/08/22/blutige-zahlen/) </li></ol>

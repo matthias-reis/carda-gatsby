@@ -71,12 +71,12 @@ insgesamt sieben musikalische Werke bringen wird.
 
 ## Eels - "The Deconstruction"
 
-<a href="http://cardamonchai.com/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/">Wie
-sehr ich Eels verehre</a>, konntet Ihr hier im Blog bereits nachlesen. All seine
-Alben stehen bei mir im Schrank und jedes von ihnen kann ich mit einer Zeit,
-einer Ort und einer Stimmung verbinden. Ich liebe sie alle und sie begleiten
-mich schon sehr lange. Seine neue Platte "The Deconstrution" trifft mal wieder
-den Nagel auf den Kopf und landet genau am Puls der Zeit.
+[Wie sehr ich Eels verehre](/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/),
+konntet Ihr hier im Blog bereits nachlesen. All seine Alben stehen bei mir im
+Schrank und jedes von ihnen kann ich mit einer Zeit, einer Ort und einer
+Stimmung verbinden. Ich liebe sie alle und sie begleiten mich schon sehr lange.
+Seine neue Platte "The Deconstrution" trifft mal wieder den Nagel auf den Kopf
+und landet genau am Puls der Zeit.
 
 Eröffnet wird die Platte vom gleichnamigen Song "The Deconstruction". Eels ist
 nachdenklich. Und oh, diese Geigen!
@@ -94,10 +94,9 @@ es spätestens das Glockenspiel tun. Versprochen.
 
 Einen weiteren Song, den ich hier lobend erwähnen möchte, ist das fröhliche
 "Today Is The Day" - Vielleicht unser neuer Feel Good Hit Of The Summer? Liebe
-<a href="http://cardamonchai.com/2018/01/radio-paradise/">Radiostationen</a>,
-merkt Euch den mal!  Viel mehr möchte ich an dieser Stelle noch gar nicht
-verraten. Eels hat für meinen Geschmack auf jeden Fall mal wieder alles richtig
-gemacht.
+[Radiostationen](/2018/01/radio-paradise/), merkt Euch den mal!  Viel mehr
+möchte ich an dieser Stelle noch gar nicht verraten. Eels hat für meinen
+Geschmack auf jeden Fall mal wieder alles richtig gemacht.
 
 ## Mouse On Mars - "Dimensional People"
 
@@ -144,6 +143,4 @@ You're on your own!"
 
 So long and thanks for all the fish...
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

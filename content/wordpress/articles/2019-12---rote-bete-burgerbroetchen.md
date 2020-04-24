@@ -40,10 +40,9 @@ teilen. Die pinken Rundstücke sind nicht nur besonders lecker, sie kommen auch
 mit einem speziellen Twist - sie werden mit Rote Bete Saft verfeinert.</strong>
 
 Das erste Mal probiert habe ich die Brötchen bei der Verkostung der
-<a href="http://cardamonchai.com/2019/12/vegane-fischbroetchen-for-future/" target="_blank" rel="noopener">veganen
-Alternative für Fischbrötchen</a> in der Hamburger Kurkuma Kochschule.
-Inzwischen haben wir sie schon ein paar Mal selbst gebacken - das Rezept ist
-ganz einfach und gelingt sehr gut!
+[veganen Alternative für Fischbrötchen](/2019/12/vegane-fischbroetchen-for-future/)
+in der Hamburger Kurkuma Kochschule. Inzwischen haben wir sie schon ein paar Mal
+selbst gebacken - das Rezept ist ganz einfach und gelingt sehr gut!
 
 ## Zutaten für 4 - 6 Burgerbrötchen
 
@@ -90,15 +89,12 @@ durchschneidet.
 
 Belegen könnt Ihr Eure Rote Bete Burgerbrötchen ganz nach Gusto. Wir verwenden
 am liebsten unseren
-<a href="http://cardamonchai.com/2016/01/seitan-a-la-herzmann/" target="_blank" rel="noopener">selbst
-hergestellten Seitan</a>. Sie eignen sich aber auch hervorragend als
-Sandwich-Basis und lassen sich perfekt mit Gurken, Salat, diversen Aufstrichen
-und Saucen kombinieren.
+[selbst hergestellten Seitan](/2016/01/seitan-a-la-herzmann/). Sie eignen sich
+aber auch hervorragend als Sandwich-Basis und lassen sich perfekt mit Gurken,
+Salat, diversen Aufstrichen und Saucen kombinieren.
 
 Hat Euch dieser Beitrag gefallen? Wie schön! Wenn Ihr in Zukunfts nichts mehr
-auf meiner Seite verpassen wollt, <a href="#newsletter">abonniert gerne meinen
-Newsletter</a>. Ich freue mich auf Euch!
+auf meiner Seite verpassen wollt,
+[abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
-Rezept:
-<a href="https://www.kurkuma-hamburg.de/" target="_blank" rel="noopener nofollow">Kurkuma
-Kochschule Hamburg</a>
+Rezept: [Kurkuma Kochschule Hamburg](https://www.kurkuma-hamburg.de/)

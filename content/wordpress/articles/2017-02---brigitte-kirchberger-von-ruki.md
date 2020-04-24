@@ -136,16 +136,14 @@ erwähnt: Ich habe zu danken.
 
 Die Startnext Kampagne von RuKi läuft noch 13 Tage. Wer sie gerne unterstützen
 möchte, sollte also Gas geben! Am besten gleich
-<a href="https://www.startnext.com/ruki" target="_blank" rel="noopener">hier
-klicken</a>.
+[hier klicken](https://www.startnext.com/ruki).
 
 RuKi findet Ihr außerdem auch auf
-<a href="https://www.facebook.com/RukiGlutenfrei" target="_blank" rel="noopener">Facebook</a>.
+[Facebook](https://www.facebook.com/RukiGlutenfrei).
 
 Hier geht es zum RuKi
-<a href="http://ruki-glutenfrei-shop.de/epages/4d431292-e973-499c-a3e6-8674aef836ee.sf/de_DE/?ObjectPath=/Shops/4d431292-e973-499c-a3e6-8674aef836ee/Categories/%22%C3%9Cber%20uns%20und%20Kontakt%22" target="_blank" rel="noopener">Online-Shop</a>.
+[Online-Shop](http://ruki-glutenfrei-shop.de/epages/4d431292-e973-499c-a3e6-8674aef836ee.sf/de_DE/?ObjectPath=/Shops/4d431292-e973-499c-a3e6-8674aef836ee/Categories/%22%C3%9Cber%20uns%20und%20Kontakt%22).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

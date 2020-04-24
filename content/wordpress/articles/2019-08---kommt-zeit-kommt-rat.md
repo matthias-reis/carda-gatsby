@@ -55,5 +55,4 @@ wichtigen Dingen wie dem Alltag widmen muss.
 Am Ende ist es wie immer: Es ist alles Ansichtssache. Nach dem Warten ist vor
 dem Warten.
 
-<a href="http://cardamonchai.com/2019/05/10-ideen-fuer-mehr-glueckliche-momente/">"Schreib
-es auf" - warum dieser Satz sehr hilfreich sein kann, erfahrt Ihr hier.</a>
+["Schreib es auf" - warum dieser Satz sehr hilfreich sein kann, erfahrt Ihr hier.](/2019/05/10-ideen-fuer-mehr-glueckliche-momente/)

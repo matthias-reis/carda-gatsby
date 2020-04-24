@@ -41,8 +41,7 @@ Unter dem Link findet Ihr seine ganze Geschichte zum G20 Gipfel
 
 <a href="http://www.mimikama.at/volksverpetzer/hamburg/" target="_blank" rel="noopener">
 
-<a href="http://www.mimikama.at/volksverpetzer/hamburg/" target="_blank" rel="noopener">Weiterlesen
--&gt;</a>
+[Weiterlesen -&gt;](http://www.mimikama.at/volksverpetzer/hamburg/)
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
 

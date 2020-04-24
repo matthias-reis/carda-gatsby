@@ -53,15 +53,12 @@ Gerade hast Du uns noch nachgesehen Da hast Du uns schon wieder vergessen
 ## Die Fotos
 
 Die Fotos zu diesem Artikel sind am Sonntag, 10. Juni 2018 auf der Fahrt von
-<a href="http://cardamonchai.com/2018/06/prerow-am-abend/">Prerow</a> nach
-<a href="http://cardamonchai.com/2018/06/wismar-am-sonntag/">Wismar
-</a>entstanden.
+[Wismar](/2018/06/prerow-am-abend/) entstanden.
 
 ## Der Text
 
 Dir hat mein Gedicht gefallen? Dann freue ich mich auf Deine Reaktion! Wenn Du
 gerne mehr Texte dieser Art lesen möchtest, dann
-<a href="https://cardamonchai.com/category/bleistift-2-0/lyrik/">klick doch mal
-hier drauf</a>.
+[klick doch mal hier drauf](/category/bleistift-2-0/lyrik/).
 
 [myflickr tag="annelandpartiehui20180610"]

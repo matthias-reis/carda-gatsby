@@ -42,10 +42,9 @@ subTitle: „Don't be Eye Candy, be Soul Food“
 <strong>
 
 Kennengelernt haben wir uns, als ich Ihr meine Anfrage für den
-<a href="http://cardamonchai.com/2016/07/lovely-day-botanicals-kosmetiktest/">Kosmetiktest</a>
-geschickt habe, der vor Kurzem hier erschienen ist. Wir hatten uns so viel zu
-sagen, dass ich kurzerhand beschlossen habe, noch ein Interview für Euch
-obendrauf zu packen.
+[Kosmetiktest](/2016/07/lovely-day-botanicals-kosmetiktest/) geschickt habe, der
+vor Kurzem hier erschienen ist. Wir hatten uns so viel zu sagen, dass ich
+kurzerhand beschlossen habe, noch ein Interview für Euch obendrauf zu packen.
 
 Im Gespräch bin ich all meine Fragen zu Inhaltsstoffen, Herstellung und
 Firmenphilosophie losgeworden und hatte auch noch kurz Gelegenheit, sie auf
@@ -124,12 +123,10 @@ oder hast Du inzwischen ein Team?
 <strong>Josy:</strong> Zu Beginn hatte ich zwei Mitgründer, nun bin ich aber
 alleine, was sich hoffentlich bald wieder ändert. Ich habe fleißige Bienchen,
 die beim Packen, Etikettieren und was sonst noch so anfällt, helfen. Die liebe
-Elina vom Blog
-<a href="http://bareminds.de/" target="_blank" rel="noopener">Bare Minds</a>
-unterstützt mich demnächst bei Social Media und PR. Darüber hinaus arbeite ich
-mit Berliner Künstlern zusammen an schönen Umverpackungen für die
-Weihnachtssaison und an Grafiken für die Webseite. Ansonsten mache ich bei
-Lovely Day Botanicals alles im Alleingang.
+Elina vom Blog [Bare Minds](http://bareminds.de/) unterstützt mich demnächst bei
+Social Media und PR. Darüber hinaus arbeite ich mit Berliner Künstlern zusammen
+an schönen Umverpackungen für die Weihnachtssaison und an Grafiken für die
+Webseite. Ansonsten mache ich bei Lovely Day Botanicals alles im Alleingang.
 
 ## "Vegane Kosmetik ist leider immer noch eine Nische"
 
@@ -181,8 +178,8 @@ verboten. Ob eine Firma trotzdem (z.B. in China, dort sind Tierversuche für
 Kosmetikprodukte ja leider nach wie vor Pflicht, oder im Rahmen anderer
 Geschäftsfelder beispielsweise im Pharmabereich) Tierversuche durchführen lässt,
 kann an in der App
-<a href="http://www.wermachtwas.info/index.php?pageID=4" target="_blank" rel="noopener">"Wer
-macht was"</a> von Animal's Liberty checken.
+["Wer macht was"](http://www.wermachtwas.info/index.php?pageID=4) von Animal's
+Liberty checken.
 
 Entsprechende Produkte kauft man am besten gar nicht erst. Noch besser ist es
 natürlich, den Hersteller persönlich zu informieren, was man davon hält. Je mehr
@@ -328,7 +325,7 @@ Hausmittel, auf das Du in bestimmten Situationen immer wieder zurückgreifst?
 <strong>Josy:</strong> Don't be Eye Candy, be Soul Food.
 
 <strong>Anne:</strong> Du hast von meiner
-<a href="http://cardamonchai.com/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/">Musikliste</a>
+[Musikliste](/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/)
 geschwärmt und musst mir jetzt unbedingt noch von Deiner Lieblingsband erzählen!
 
 <strong>Josy:</strong> The Jezabels (Strahlt über das ganze Gesicht und formt
@@ -395,13 +392,12 @@ das unglaublich interessante, spannende Interview! Ich hoffe, wir sprechen uns
 bald mal wieder! Alles Gute für Dich und Lovely Day Botanicals!
 
 Hier geht’s zu
-<a href="http://cardamonchai.com/2016/07/lovely-day-botanicals-kosmetiktest/">meinem
-Testbericht</a> über die Lovely Day Botanicals Produkte.
+[meinem Testbericht](/2016/07/lovely-day-botanicals-kosmetiktest/) über die
+Lovely Day Botanicals Produkte.
 
 Wer neugierig geworden ist und gerne die Produkte käuflich erwerben oder nur mal
 genauer unter die Lupe nehmen möchte, findet den Lovely Day Botanicals
-<a href="https://lovelydaybotanicals.com/" target="_blank" rel="noopener">Shop
-hier</a>.
+[Shop hier](https://lovelydaybotanicals.com/).
 
 <strong>Fotos:</strong> Lovely Day Botanicals
 

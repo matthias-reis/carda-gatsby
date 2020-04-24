@@ -57,9 +57,9 @@ auf der Haut. Ich finde, sie erfrischt schön und fühlt sich auf der Haut sehr
 angenehm an. Sie ist leicht rosafarben und duftet sehr leicht. Meine Haut wirkt
 nach dem Auftragen direkt strahlender und glatter. Ich nutze die Creme direkt
 morgens im Anschluss an die Reinigung und das Auftragen meines
-<a href="http://cardamonchai.com/2018/12/neues-von-santaverde/">Toners</a>. Im
-Homeoffice und ohne viel frische Luft um die Nase ist meine Haut ziemlich
-gereizt und kann die intensive Pflege gut gebrauchen.
+[Toners](/2018/12/neues-von-santaverde/). Im Homeoffice und ohne viel frische
+Luft um die Nase ist meine Haut ziemlich gereizt und kann die intensive Pflege
+gut gebrauchen.
 
 ## Nachhaltige Pflege fürs Homeoffice
 
@@ -108,15 +108,13 @@ Creme auftragen.
 Santaverde ist ein kleines, inhabergeführtes Naturkosmetik-Unternehmen. Die für
 alle Produkte verwendete Aloe Vera wird auf einer Finca in Andalusien angebaut.
 Ich habe sie schon besucht.
-<a href="http://cardamonchai.com/2019/07/santaverde-finca-aloe-vera/">Meinen
-Bericht könnt Ihr hier im Blog lesen</a>. Alle Produkte von Santaverde sind zu
-100 Prozent vegan, Tierleid-frei, von der Vegan Society und NATRUE zertifiziert.
-Außerdem tragen sie das Leaping Bunny Label. Dabei handelt es sich um das
-Tierschutzsiegel gegen Tierversuche.
+[Meinen Bericht könnt Ihr hier im Blog lesen](/2019/07/santaverde-finca-aloe-vera/).
+Alle Produkte von Santaverde sind zu 100 Prozent vegan, Tierleid-frei, von der
+Vegan Society und NATRUE zertifiziert. Außerdem tragen sie das Leaping Bunny
+Label. Dabei handelt es sich um das Tierschutzsiegel gegen Tierversuche.
 
 Vorletztes Jahr habe ich mit Santaverde Make-up Fasten gemacht.
-<a href="http://cardamonchai.com/2018/07/make-up-fasten/">Meinen
-Erfahrungsbericht findet Ihr hier</a>.
+[Meinen Erfahrungsbericht findet Ihr hier](/2018/07/make-up-fasten/).
 
 [glry name="ageprotectxingu2"]
 
@@ -148,5 +146,4 @@ kontrolliert biologischem Anbau</small>
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

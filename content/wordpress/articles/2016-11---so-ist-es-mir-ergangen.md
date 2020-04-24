@@ -33,11 +33,10 @@ subTitle: Eine Seite aus dem Tagebuch
 
 <strong>
 
-Dass ich derzeit
-<a href="http://cardamonchai.com/2016/11/aufruf-themen-gesucht/">auf Themensuche
-bin</a>, habe ich Euch schon erzählt. Allerdings habe ich auch nicht tatenlos
-rumgesessen. Unter anderem bin ich seit Kurzem Textchefin beim Welt Vegan
-Magazin, für das ich auch schon seit einiger Zeit regelmäßig Artikel liefere.
+Dass ich derzeit [auf Themensuche bin](/2016/11/aufruf-themen-gesucht/), habe
+ich Euch schon erzählt. Allerdings habe ich auch nicht tatenlos rumgesessen.
+Unter anderem bin ich seit Kurzem Textchefin beim Welt Vegan Magazin, für das
+ich auch schon seit einiger Zeit regelmäßig Artikel liefere.
 
 Für die nächste Ausgabe, die in Kürze erscheinen wird, habe ich schon alle Texte
 überarbeitet. Ich bin sehr gespannt auf das fertige Heft und gebe Euch natürlich
@@ -55,8 +54,8 @@ zwischendurch, wenn ich mal länger frei habe. Ein toller Hauptjob.
 
 Da ich im Geschäft derzeit nicht in Vollzeit arbeite, bin ich natürlich nach wie
 vor an Euren Schreib- und Korrekturaufträgen interessiert. Hört also nicht auf,
-mich <a href="mailto:info@cardamonchai.com">anzuschreiben</a>. Ich bin weiter
-für Euch da und freue mich auf Eure Zuschriften.
+mich [anzuschreiben](mailto:info@cardamonchai.com). Ich bin weiter für Euch da
+und freue mich auf Eure Zuschriften.
 
 Die Feiertage über werden wir dieses Jahr in Hamburg bleiben. Bestimmt wird dann
 auch endlich mal wieder Zeit für Fotostrecken sein, die ich mit Euch teilen

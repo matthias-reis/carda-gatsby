@@ -134,10 +134,9 @@ Das wirklich unterhaltsame, lustige Video könnt Ihr Euch hier ansehen:
 <iframe src="https://www.youtube.com/embed/t6xOvQsyL7A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Mehr von Chelsea findet Ihr auf Netflix und auf ihrer
-<a href="https://www.chelseahandler.com/" target="_blank" rel="noopener">Homepage</a>.
+[Homepage](https://www.chelseahandler.com/).
 
-<a href="http://cardamonchai.com/2013/03/die-geschichte-der-frauenrechte/">Die
-Geschichte der Frauenrechte</a>
+[Die Geschichte der Frauenrechte](/2013/03/die-geschichte-der-frauenrechte/)
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 796px; left: 1125px;">Merken</span>
 

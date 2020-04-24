@@ -113,13 +113,8 @@ Ort sein und sicher auch einige Aufnahmen machen.
 
 <em>\*Schranne = Getreidemarkt, Getreidespeicher, Versorgungsstelle für die
 Bürger mit Gütern des täglichen
-Bedarfs.</em><strong>Quellenverzeichnis:</strong><a href="http://www.wikipedia.de/" rel="nofollow">http://www.wikipedia.de/</a><a href="http://www.schrobenhausen.de/" rel="nofollow">http://www.schrobenhausen.de/</a><a href="http://de.wikipedia.org/wiki/Schrobenhausen" rel="nofollow">http://de.wikipedia.org/wiki/Schrobenhausen</a><a href="http://de.wikipedia.org/wiki/Lenbach" rel="nofollow">http://de.wikipedia.org/wiki/Lenbach</a><strong>Wer
-mehr über die Stadt Schrobenhausen erfahren
-möchte:</strong><a href="http://www.schrobenhausen.de/" rel="nofollow">http://www.schrobenhausen.de/</a><strong>Informationen
-zum Maler
-Lenbach:</strong><a href="http://de.wikipedia.org/wiki/Lenbach" rel="nofollow">http://de.wikipedia.org/wiki/Lenbach</a><strong>Zum
-Thema
-Spargel:</strong><a href="http://www.spargel.de/" rel="nofollow">http://www.spargel.de</a><span style="text-decoration: underline;"><a href="http://www.spargel.de/" rel="nofollow">/</a></span>
+Bedarfs.</em><strong>Quellenverzeichnis:</strong> [/](http://www.wikipedia.de/)
+</span>
 
 [myflickr
 tag="anneschrobenhausen2009"]<span style="text-decoration: underline;"></span>

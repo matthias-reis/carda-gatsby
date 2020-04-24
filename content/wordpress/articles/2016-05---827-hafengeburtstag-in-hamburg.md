@@ -71,8 +71,6 @@ will ich nicht, mit dir kann ich nicht sein.</blockquote>
 
 2016
 
-<a href="/2017/05/hafengeburtstag">2017</a>
+[2017](/2017/05/hafengeburtstag)
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

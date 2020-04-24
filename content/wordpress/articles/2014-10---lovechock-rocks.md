@@ -48,12 +48,11 @@ man wunderbar aufheben und kleine Sachen darin sammeln!"
 
 Die Rocks beinhalten nicht nur Hanfsaat und Maulbeeren, sondern auch einen Hauch
 von Reishi.
-<a href="https://de.wikipedia.org/wiki/Gl%C3%A4nzender_Lackporling" target="_blank" rel="noopener">Bei
-Wikipedia wird der Reishi als "Derber Pilz" beschrieben</a>, normalerweise kann
-mein Mann Pilze nicht ausstehen, doch der Reishi in den Rocks hat ihn nicht
-gestört. Ich selbst habe nur ein leichtes Aroma herausgeschmeckt, das sich
-harmonisch mit der Maulbeere verbindet. Die Hanfsaat macht die Rocks leicht
-knusprig, was das Nascherlebnis noch intensiviert.
+[Bei Wikipedia wird der Reishi als "Derber Pilz" beschrieben](https://de.wikipedia.org/wiki/Gl%C3%A4nzender_Lackporling),
+normalerweise kann mein Mann Pilze nicht ausstehen, doch der Reishi in den Rocks
+hat ihn nicht gestört. Ich selbst habe nur ein leichtes Aroma herausgeschmeckt,
+das sich harmonisch mit der Maulbeere verbindet. Die Hanfsaat macht die Rocks
+leicht knusprig, was das Nascherlebnis noch intensiviert.
 
 Die Maulbeeren an sich kamen uns beiden leicht "rosinig" vor, wir mögen beide
 gerne Trockenfrüchte und auch Rohriegel, an diese hat uns der Geschmack ein
@@ -85,10 +84,10 @@ Kontakt zu den Kleinbauern in Ecuador.
 
 Der Karton für die Verpackung stammt aus nachhaltiger Waldwirtschaft, die Folie
 ist kompostierbar. Auch sonst achtet Laura darauf, ihren
-<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">ökologischen
-Fussabdruck</a> möglichst klein zu halten. So werden in ihrer Küche und im Büro
-beispielsweise nur ökologische Reinigungsmittel verwendet. Sämtliche Zulieferer
-sind zudem bio-zertifiziert.
+[ökologischen Fussabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+möglichst klein zu halten. So werden in ihrer Küche und im Büro beispielsweise
+nur ökologische Reinigungsmittel verwendet. Sämtliche Zulieferer sind zudem
+bio-zertifiziert.
 
 ![lovechock](http://cardamonchai.com/wp-content/uploads/2019/06/lovechock-7-400x267.jpg)
 
@@ -120,12 +119,10 @@ Manufaktur.
 Ich könnte auf jeden Fall Lovechock-Fan werden und das obwohl ich mich nicht mal
 als Chocoholic bezeichnen würde.
 
-<a href="https://www.lovechock.com" target="_blank" rel="noopener nofollow">Online
-findet Ihr Lovechock Rocks hier</a>.
+[Online findet Ihr Lovechock Rocks hier](https://www.lovechock.com).
 
 [gallery type="rectangular" link="none" size="medium" ids="24426,24429,24428"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

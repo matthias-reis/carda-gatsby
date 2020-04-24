@@ -38,9 +38,9 @@ und Entwicklung (UNCED). Die UN-Generalversammlung beschloss am 22. Dezember
 1992 im Rahmen einer Resolution die feste Einführung des Tages.
 
 Der Weltwassertag steht jedes Jahr unter einem bestimmten Motto.
-<a href="http://cardamonchai.com/2017/03/der-internationale-weltwassertag-2017/">2017
-war das Thema „Abwasser“</a>, 2016 „Wasser und Arbeitsplätze“. In diesem Jahr
-dreht sich alles um das Thema „Naturbasierte Lösungen für das Wasser“.
+[2017 war das Thema „Abwasser“](/2017/03/der-internationale-weltwassertag-2017/),
+2016 „Wasser und Arbeitsplätze“. In diesem Jahr dreht sich alles um das Thema
+„Naturbasierte Lösungen für das Wasser“.
 
 ## Natürliche Wasserspeicher nutzen
 
@@ -99,5 +99,4 @@ landen im Müll. Das dafür verbrauchte Wasser ist ganz klar verloren.
 Sollte man mal drüber nachdenken, oder?
 
 Geschichten rund um die Wasserversorgung weltweit gibt es auf
-<a href="http://www.worldwaterday.org/" target="_blank" rel="noopener">der
-offiziellen Homepage</a> zum Weltwassertag.
+[der offiziellen Homepage](http://www.worldwaterday.org/) zum Weltwassertag.

@@ -47,10 +47,7 @@ im selben Jahr erschien, wurde auf 40 Radiosendern gespielt.
 Am 15. August 2008 spielten „Hassliebe“ ein Konzert mit den TOTEN HOSEN. Von da
 an ging es steil bergauf. Es folgten Auftritte auf diversen Festivals, unter
 anderem auf dem
-<a href="http://www.myheimat.de/neu-ulm/kultur/wiley-open-air-in-neu-ulm-mit-den-toten-hosen-am-15-august-2009-d122162.html">„Wiley
-Open Air 2009“</a> und auf
-dem<a href="http://www.myheimat.de/muenchen/kultur/backstage-open-festival-in-muenchen-d110783.html">„Backstage
-Open 2009“.</a>
+[„Backstage Open 2009“.](http://www.myheimat.de/neu-ulm/kultur/wiley-open-air-in-neu-ulm-mit-den-toten-hosen-am-15-august-2009-d122162.html)
 
 2009 unterschrieben HASSLIEBE ihren Plattenvertrag bei südpolrecords. 2010 wurde
 das Debutalbum „Niemandsland“ veröffentlicht.
@@ -112,7 +109,7 @@ Stuttgart/Keller Club 15.10.2010 Oberhausen/T-Club (Turbinenhalle) 04.11.2010
 Regensburg/Alte Mälze 05.11.2010 München/Backstage 06.11.2010 Augsburg/Monsters
 of Rock 12.11.2010 Ansbach/Kammerspiele
 
-<em><a title="Hassliebe" href="http://www.hassliebe.de" target="_blank" rel="noopener">Homepage</a>
-Hassliebe</em><em>Quelle: südpolrecords GmbH</em>
+<em> [Homepage](http://www.hassliebe.de) Hassliebe</em><em>Quelle: südpolrecords
+GmbH</em>
 
 &nbsp;

@@ -40,10 +40,9 @@ gemerkt, dass mir die paar Minuten Auszeit, die ich mir nehmen muss, wenn ich
 meinen Kaffee direkt vor Ort im Café zu mir nehme, richtig gut tun.
 
 Ganz ehrlich, Ihr solltet das auch mal versuchen. Ganz egal, ob Ihr eine 
-<a href="http://cardamonchai.com/2017/02/latte-macchiato-muttis/">Latte
-Macchiato Mutti</a> oder eine Espresso-Tante seid: Jeder hat was davon. Nicht
-nur die Natur, wenn Ihr keine Pappbecher mehr braucht. OK, Bambus gibt es auch.
-Ich weiß. Dennoch.
+[Latte Macchiato Mutti](/2017/02/latte-macchiato-muttis/) oder eine
+Espresso-Tante seid: Jeder hat was davon. Nicht nur die Natur, wenn Ihr keine
+Pappbecher mehr braucht. OK, Bambus gibt es auch. Ich weiß. Dennoch.
 
 ## Wir kommen einfach nicht zur Ruhe
 
@@ -84,6 +83,4 @@ entspannt.
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zum festen
 Bestandteil meines Blogs etablieren. Je mehr ich selbst lese, desto mehr möchte
 ich darüber berichten. Verstärkt hat sich das Ganze noch,
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-selbst mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>.
+[seit ich selbst mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/).

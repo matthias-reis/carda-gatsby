@@ -42,7 +42,7 @@ subTitle: "Teil I: Die Idee"
 jetzt, nachdem das letzte Großprojekt so gut wie abgeschlossen ist immer mehr
 Form annimmt.</strong>
 
-![Taube in Venedig 2014](http://cardamonchai.com/wp-content/uploads/2014/05/12601100464_3e25bd7ee9_z-300x200.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2014/05/12601100464_3e25bd7ee9_z.jpg"> </a> Taube in Venedig 2014')
+![Taube in Venedig 2014](http://cardamonchai.com/wp-content/uploads/2014/05/12601100464_3e25bd7ee9_z-300x200.jpg " [](/wp-content/uploads/2014/05/12601100464_3e25bd7ee9_z.jpg)  Taube in Venedig 2014")
 
 Schon sehr lange plane ich eine neue <strong>Tätowierung</strong> stechen zu
 lassen, Sternchen und Omzeichen fühlen sich schon ganz einsam auf meinem Arm.
@@ -53,7 +53,7 @@ enthalten soll: Eine Taube erinnert an meinen verstorbenen Großvater, der Taube
 
 ### Eine Vorlage für den Tätowierer
 
-![Rhododentron in Glendurgan Garden](http://cardamonchai.com/wp-content/uploads/2014/05/11502534573_52a12269b1_z-300x225.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2014/05/11502534573_52a12269b1_z.jpg"> </a> Rhododentron in Glendurgan Garden')
+![Rhododentron in Glendurgan Garden](http://cardamonchai.com/wp-content/uploads/2014/05/11502534573_52a12269b1_z-300x225.jpg " [](/wp-content/uploads/2014/05/11502534573_52a12269b1_z.jpg)  Rhododentron in Glendurgan Garden")
 
 Sterne stellen meinen Vater, den heimlichen Seefahrer ;-) , dar. Für meine
 <strong>Mutter</strong> steht die Rhododendronblüte, die ich in einem ihrer
@@ -73,7 +73,7 @@ An der technischen Umsetzung arbeiten wir derzeit schon mit Hochdruck, damit das
 Gerüst schon mal steht, wenn das Design fertig ist und wir der Seite am Ende nur
 noch den fertigen Anzug überstülpen müssen.
 
-![Anne mit Eule in Glastonbury 2012](http://cardamonchai.com/wp-content/uploads/2014/05/11355170514_4a7012511b_z-300x210.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2014/05/11355170514_4a7012511b_z.jpg"> </a> Anne mit Eule in Glastonbury 2012')
+![Anne mit Eule in Glastonbury 2012](http://cardamonchai.com/wp-content/uploads/2014/05/11355170514_4a7012511b_z-300x210.jpg " [](/wp-content/uploads/2014/05/11355170514_4a7012511b_z.jpg)  Anne mit Eule in Glastonbury 2012")
 
 Mal sehen, eventuell findet die<strong> Eule</strong>, die sich der Herzmann
 stechen lassen möchte, ja auch noch einen Platz auf cardamonchai.
@@ -85,8 +85,9 @@ dran. :-)
 
 Sonnige Grüße sendet Euch Anne &lt;3
 
-<em><span style="text-decoration: underline;"><strong><a title="Wie Picasso nur mit Stom" href="/2014/08/21/wie-picasso-nur-mit-strom/">Hier
-gehts zum zweiten Teil des Artikels</a></strong></span></em>
+<em><span style="text-decoration: underline;"><strong>
+[Hier gehts zum zweiten Teil des Artikels](/2014/08/21/wie-picasso-nur-mit-strom/)
+</strong></span></em>
 
 [youtube http://www.youtube.com/watch?v=iZQouBxFDcI?list=PL3C307169546CCBA8]
 

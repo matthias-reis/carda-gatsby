@@ -58,7 +58,7 @@ sich dann vielleicht ein Plätzchen!
 Wer Interesse an meinen Texten hat, jemanden braucht, der für seine Website
 schreibt oder ein Thema hat, welches er/sie gerne in Worte fassen möchte, aber
 noch jemanden sucht, der das übernimmt: Ich freue mich immer über
-<a href="mailto:info@cardamonchai.com">Aufträge</a>!
+[Aufträge](mailto:info@cardamonchai.com) !
 
 Und jetzt viel Spaß mit der neuen Ausgabe vom Welt Vegan Magazin! Habt eine
 gemütliche Vorweihnachtszeit!
@@ -66,4 +66,4 @@ gemütliche Vorweihnachtszeit!
 [gallery type="rectangular" link="none" size="medium"
 ids="13372,13371,13373,13369,13370,13368"]
 
-## Wegweiser Welt Vegan Magazin<ol><li><a href="/2015/04/mein-erster-artikel-im-welt-vegan-magazin/">1/2015 "Superfood Lexikon"</a></li><li><a href="/2015/05/das-neue-welt-vegan-magazin-ist-da/">3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"</a></li><li><a href="/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/">5/2015 "Interview BUND" und "TTIP"</a></li><li>6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"</li><li><a href="http://cardamonchai.com/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/">1/2016 "Alge Vegan" und "Barnard Medical Centre"</a></li><li><a href="http://welt-vegan-magazin-22016">2/2016 "Animal Rights Watch"</a></li><li><a href="http://cardamonchai.com/2016/09/thomas-d-im-welt-vegan-magazin/">3/2016 "Schmuggel bedrohter Arten"</a></li><li><a href="http://cardamonchai.com/2017/03/los-veganeros-welt-vegan-magazin-1-2017/">1/2017 "Los Veganeros 2"</a></li><li><a href="http://cardamonchai.com/2017/06/welt-vegan-magazin-2-2017-anne-menden/">2/2017 "Anne Menden und Sea Shepherd"</a></li></ol><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 825px; left: 1016px;">Merken</span>
+## Wegweiser Welt Vegan Magazin<ol><li> [2/2017 "Anne Menden und Sea Shepherd"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/) </li></ol><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 825px; left: 1016px;">Merken</span>

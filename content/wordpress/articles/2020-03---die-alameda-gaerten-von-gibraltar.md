@@ -46,9 +46,8 @@ scheinen die Abgase der Stadt nicht in die Anlage durchzudringen - eine kleine
 Oase. Zwischen Kakteen, Palmen und Sukkulenten wandelt man auf gekiesten Pfaden.
 Auch Hibiskuspflanzen und sogar ein Drachenbaum fühlen sich in den Alameda
 Gärten wohl. Die Gärten sind komplett torffrei. Um die
-<a href="http://cardamonchai.com/2019/01/koenigsmoor-moorfutures/">Zerstörung
-der Torfmoore</a> in Nordeuropa nicht zu unterstützen wird stattdessen auf
-Kompost und Kokosfasern gesetzt.
+[Zerstörung der Torfmoore](/2019/01/koenigsmoor-moorfutures/) in Nordeuropa
+nicht zu unterstützen wird stattdessen auf Kompost und Kokosfasern gesetzt.
 
 Die Gärtner verzichten bewusst auf Pflanzenschutzmittel und Pestizide. Man kann
 im Park auch Vögeln wie Samtkopf-Grasmücken, Mönchsgrasmücken,  Schwarzdrosseln,

@@ -65,8 +65,4 @@ durchgeschüttelt. :-P
 [gallery type="rectangular"
 ids="12438,12441,12440,12439,12442,12443,12444,12445,12446,12447,12448,12437,12449,12450"]
 
-<a href="https://www.rock-n-heim.com/" target="_blank" rel="noopener">Hier gehts
-zum
-Rock'n'Heim.</a><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](https://www.rock-n-heim.com/)

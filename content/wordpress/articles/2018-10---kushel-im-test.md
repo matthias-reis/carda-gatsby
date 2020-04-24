@@ -55,11 +55,8 @@ vorzustellen und erzählte mir von seinem erklärten Ziel:
 <blockquote class="wp-block-quote">Wir möchten das erste Carbon-negative Unternehmen der Welt werden!</blockquote>
 
 Klappen soll das, indem für jedes verkaufte
-<a href="http://cardamonchai.com/2013/05/towel-day/">Handtuch</a> neue Bäume
-gepflanzt werden. Der
-<a href="https://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/" target="_blank" rel="noreferrer noopener">ökologische
-Fußabdruck</a> der gesamten "Kushel" Produktion soll dadurch mehr CO<sub>2</sub>
-binden, als sie ausstößt.
+[ökologische Fußabdruck](/2013/05/towel-day/) der gesamten "Kushel" Produktion
+soll dadurch mehr CO<sub>2</sub> binden, als sie ausstößt.
 
 Um die neuen Handtücher bekannt zu machen, hat Mattias sich die
 <strong>#treefluencer</strong> ausgedacht. Das sind fleißige Blogger, Vlogger
@@ -122,23 +119,16 @@ weitergeht und werde heute Abend gleich mal bei Kickstarter vorbeischauen. Ihr
 doch auch, oder?
 
 Ihr wollt mehr über spannende und nachhaltige Start-ups erfahren? Dann könnt Ihr
-gerne <a href="#newsletter">meinen Newsletter abonnieren</a>. Immer, wenn es
-mein Alltag zulässt, blogge ich. Übrigens auch über Musik, veganes Leben,
-Hamburg, Kunst und meine Ausflüge. Ich freue mich auf Euch. Auch
-<a href="http://cardamonchai.com/2018/04/wijld-woodshirt-mode-aus-holz/">T-Shirts
-aus Holz</a> habe ich schon getestet.
+gerne [T-Shirts aus Holz](#newsletter) habe ich schon getestet.
 
 [gallery type="rectangular" size="medium" link="none"
 ids="22478,22477,22474,22473,22472,22471,22470,22469,22468,22466"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
 
-\*\*<a href="https://www.kushel.de/" target="_blank" rel="noopener">Die Homepage
-von "Kushel" findet ihr hier. </a>
+\*\* [Die Homepage von "Kushel" findet ihr hier.](https://www.kushel.de/)
 
-\*\*\* Nachtrag 28.10.2018 18:00
-Uhr <a href="https://www.kickstarter.com/projects/kushel/kushel-the-towel-made-with-wood" target="_blank" rel="noopener">Auch
-das Kickstarter-Projekt ist inzwischen gestartet!</a>
+\*\*\* Nachtrag 28.10.2018 18:00 Uhr 
+[Auch das Kickstarter-Projekt ist inzwischen gestartet!](https://www.kickstarter.com/projects/kushel/kushel-the-towel-made-with-wood)

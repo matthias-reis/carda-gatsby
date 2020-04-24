@@ -138,10 +138,10 @@ genau?
 
 <strong>Christiane:</strong> Als nächstes findet Ende August ein Workshop zum
 Thema "Rohkost-Pizza" statt. Im Herbst geht es dann weiter mit einem veganen
-Menu-Kochkurs von Regina von Luxuskost<a href="#1"><sup>1</sup></a> . Ansonsten
-berate ich sowohl meine Gäste als auch Locals persönlich zum Umstieg auf eine
-vegane Ernährungs- und Lebensweise. Das kann in Form eines Coachings sein oder
-ganz praktisch anhand eines individuellen Kochkurses.
+Menu-Kochkurs von Regina von Luxuskost [](#1) . Ansonsten berate ich sowohl
+meine Gäste als auch Locals persönlich zum Umstieg auf eine vegane Ernährungs-
+und Lebensweise. Das kann in Form eines Coachings sein oder ganz praktisch
+anhand eines individuellen Kochkurses.
 
 ## Zwei Monate im Voraus reservieren<strong>Anne:</strong> Wie lange im Voraus sollte man reservieren, wenn man im Green Haven übernachten möchte?
 
@@ -169,7 +169,7 @@ gut verkaufen.
 
 <strong>Christiane:</strong> Seit etwa 2011.
 
-## "Vegan ist für mich die einzige ethisch korrekte Lebensweise"<strong>Christiane:</strong> Einen konkreten Auslöser gab es nicht. Ich war schon seit 2002 Vegetarierin und habe mich dann 2011 wieder intensiver mit dem Thema beschäftigt. Dabei bin ich zu dem Schluss gekommen, dass die vegane Lebensweise die einzig ethisch korrekte Lebensweise für mich ist. Eine Ausnahme mache ich allerdings, wenn auch sehr selten, bei gerettetem Essen. Ich hole über Foodsharing<a href="#2"><sup>2</sup></a> Lebensmittel bei Läden ab, die diese sonst entsorgen werden würden, weil sie zum Beispiel abgelaufen sind. Wenn ich diese Lebensmittel nicht weiter verteile, kommt es auch mal vor, dass ich ein Stück Butter oder was Ähnliches im Kühlschrank liegen habe. Fleisch oder Fisch werde ich aber sicherlich nie wieder essen können.
+## "Vegan ist für mich die einzige ethisch korrekte Lebensweise"<strong>Christiane:</strong> Einen konkreten Auslöser gab es nicht. Ich war schon seit 2002 Vegetarierin und habe mich dann 2011 wieder intensiver mit dem Thema beschäftigt. Dabei bin ich zu dem Schluss gekommen, dass die vegane Lebensweise die einzig ethisch korrekte Lebensweise für mich ist. Eine Ausnahme mache ich allerdings, wenn auch sehr selten, bei gerettetem Essen. Ich hole über Foodsharing [](#2) Lebensmittel bei Läden ab, die diese sonst entsorgen werden würden, weil sie zum Beispiel abgelaufen sind. Wenn ich diese Lebensmittel nicht weiter verteile, kommt es auch mal vor, dass ich ein Stück Butter oder was Ähnliches im Kühlschrank liegen habe. Fleisch oder Fisch werde ich aber sicherlich nie wieder essen können.
 
 <strong>Anne:</strong> Hamburg ist vegan. Und das ist in aller Munde. Die
 veganen Cafés schießen wie Pilze aus dem Boden, im Supermarkt ist das Angebot
@@ -202,12 +202,11 @@ vermutlich schon.
 die erste komplett vegane Unterkunft in Hamburg. Habt Ihr schon Nachahmer
 gefunden?
 
-<strong>Christiane:</strong> Auf der Seite
-veggiehotels.com<a href="#3"><sup>3</sup></a> findet man alle vegetarisch-vegan
-ausgerichteten Unterkünfte in Deutschland und auch weltweit. Es gibt
-mittlerweile schon ein paar rein vegane. In Hamburg gibt es zwar zwei, drei
-Hotels, die auch ein veganes Frühstück anbieten, aber keins mit einem
-ganzheitlich vegan-nachhaltigem Konzept wie bei uns.
+<strong>Christiane:</strong> Auf der Seite veggiehotels.com [](#3) findet man
+alle vegetarisch-vegan ausgerichteten Unterkünfte in Deutschland und auch
+weltweit. Es gibt mittlerweile schon ein paar rein vegane. In Hamburg gibt es
+zwar zwei, drei Hotels, die auch ein veganes Frühstück anbieten, aber keins mit
+einem ganzheitlich vegan-nachhaltigem Konzept wie bei uns.
 
 ## Verpackungsfrei einkaufen<strong>Anne:</strong> Was hat es mit Deinem Projekt "Verpackungsfrei einkaufen" auf sich?
 
@@ -239,16 +238,13 @@ dem Green Haven!
 <strong>Christiane:</strong> Sehr gerne und auch vielen Dank an Dich!
 
 Wer gerne mehr über das Green Haven erfahren möchte, kann sich jederzeit auf der
-<a href="https://www.vegan-in-hamburg.de/" target="_blank" rel="noopener nofollow">Homepage</a>
-des Bed &amp; Breakfast informieren.
+[Homepage](https://www.vegan-in-hamburg.de/) des Bed &amp; Breakfast
+informieren.
 
 ## Fußnoten
 
-[1]
-<a href="https://www.luxus-kost.de/" target="_blank" rel="noopener">Luxuskost</a>
+[1][luxuskost](https://www.luxus-kost.de/)
 
-[2]
-<a href="https://foodsharing.de/" target="_blank" rel="noopener nofollow">Foodsharing</a>
+[2][foodsharing](https://foodsharing.de/)
 
-[3]
-<a href="https://www.veggie-hotels.com" target="_blank" rel="noopener nofollow">20veggiehotels.com</a>
+[3][20veggiehotels.com](https://www.veggie-hotels.com)

@@ -105,11 +105,10 @@ entschied man sich für einige Investitionen. Zahlreiche Windturbinen werden in
 den kommenden Jahren fertiggestellt", sagte Markus Selin, Analyst bei der
 schwedischen Energieagentur, gegenüber dem World Economic Forum.
 
-<pre><a href="http://cardamonchai.com/2018/07/earth-overshoot-day-2018/">HIER FINDET IHR ALLE INFOS ZUM EARTH OVERSHOOT DAY 2018</a></pre>
+<pre> [HIER FINDET IHR ALLE INFOS ZUM EARTH OVERSHOOT DAY 2018](/2018/07/earth-overshoot-day-2018/) </pre>
 
 <strong>\*Interessierte finden hier
-<a href="http://www.caneurope.org/docman/climate-energy-targets/3357-off-target-ranking-of-eu-countries-ambition-and-progress-in-fighting-climate-change/file" target="_blank" rel="noopener">die
-Analyse der CAN als praktisches PDF</a>. Quellen:</strong> weforum.org,
-bento.de, energimyndigheten.se, ec.europa.euF <strong>Titelbild:</strong>
-<a href="https://pixabay.com/de/users/Oimheidi-1660138/" target="_blank" rel="noopener">Oimheidi</a>,
-pixabay
+[die Analyse der CAN als praktisches PDF](http://www.caneurope.org/docman/climate-energy-targets/3357-off-target-ranking-of-eu-countries-ambition-and-progress-in-fighting-climate-change/file).
+Quellen:</strong> weforum.org, bento.de, energimyndigheten.se, ec.europa.euF
+<strong>Titelbild:</strong>
+[Oimheidi](https://pixabay.com/de/users/Oimheidi-1660138/), pixabay

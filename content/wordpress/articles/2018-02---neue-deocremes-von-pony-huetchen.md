@@ -40,10 +40,9 @@ subTitle: Beauty-Lieblinge im neuen Kleid
 Werbung\*
 
 <strong>Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes
-von
-<a href="http://cardamonchai.com/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/">Pony
-Hütchen</a>. Jetzt gibt es davon eine Neuauflage, die ich auch Euch nicht
-vorenthalten möchte.</strong>
+von [Pony Hütchen](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/). Jetzt
+gibt es davon eine Neuauflage, die ich auch Euch nicht vorenthalten
+möchte.</strong>
 
 Ich bin schon lange sehr glücklich mit meinen Pony Hütchen Deos und war daher
 sehr gespannt, was mich mit der Umstellung auf die neue Rezeptur erwarten würde.
@@ -96,13 +95,11 @@ auftreten. Für die Plakatkampagnen mit dem Motto "Schönheit kommt nicht aus de
 Katalog" kann Frau sich direkt bei Pony Hütchen bewerben.
 
 \*Zur Pony Hütchen Homepage geht es
-<a href="https://www.ponyhuetchen.com/" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](https://www.ponyhuetchen.com/).
 
 [gallery type="rectangular" link="none" size="large"
 ids="19478,19477,19476,19475,19474,19473,19472,19471,19470" orderby="rand"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

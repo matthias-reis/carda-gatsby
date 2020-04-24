@@ -77,8 +77,8 @@ diskutieren sie, wie das offensichtliche Probleme anzugehen ist.
 
 Im Anschluss an die tagelangen Debatten erklärten sich die versammelten
 Politiker bereit, den nächsten Schritt im den
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Kampf
-gegen die Vermüllung der Ozeane</a> zu machen.
+[Kampf gegen die Vermüllung der Ozeane](/2017/08/kenia-sagt-plastiktueten-nein-danke/)
+zu machen.
 
 Der Film von Guðni Th. Jóhannesson (Präsidentin von Island), Sylvia Earle
 (Präsidentin und Vorsitzende, Mission Blue), Emily Woglom
@@ -90,15 +90,8 @@ sowie den Aufruf, endlich zu handeln, bevor es zu spät ist.
 <iframe src="https://www.youtube.com/embed/CEkN1sXdnGk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Die Dokumentation steht in verschiedenen Formaten
-<a href="https://www.digitalnewsagency.com/stories/12080" target="_blank" rel="noopener">zum
-Download bereit</a> und ist auch
-<a href="https://www.youtube.com/watch?v=CEkN1sXdnGk" target="_blank" rel="noopener">bei
-YouTube verfügbar</a>.
+[bei YouTube verfügbar](https://www.digitalnewsagency.com/stories/12080).
 
-<strong>Quelle:</strong>
-<a href="https://tvcgroup.com/" target="_blank" rel="noopener">TVC Group</a>
-<strong>Bilder:</strong>
-Titel: <a href="https://pixabay.com/en/users/hhach-146898/" target="_blank" rel="noopener">hhach</a>,
-Pixabay, rechts im
-Text: <a href="https://pixabay.com/en/users/SandraAltherr-2687031/" target="_blank" rel="noopener">Sandra
-Altherr</a>, Pixabay
+<strong>Quelle:</strong> [TVC Group](https://tvcgroup.com/)
+<strong>Bilder:</strong> Titel: 
+[Sandra Altherr](https://pixabay.com/en/users/hhach-146898/), Pixabay

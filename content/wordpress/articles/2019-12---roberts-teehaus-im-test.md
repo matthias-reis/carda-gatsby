@@ -171,16 +171,15 @@ testen möchte, kann ganz einfach im Onlineshop seine Bestellung aufgeben.
 
 Mit dem Gutscheincode WEIHNACHTEN erhalten meine Leser\*innen bis zum 26
 Dezember 19 <strong>20 Prozent Rabatt</strong>
-<a href="https://www.adcell.de/promotion/click/promoId/207071/slotId/80259" target="_blank" rel="noopener nofollow">auf
-alle Produkte im Roberts Teehaus Onlineshop</a>.
+[auf alle Produkte im Roberts Teehaus Onlineshop](https://www.adcell.de/promotion/click/promoId/207071/slotId/80259).
 
 [glry name="robertsteehaus"]
 
 Hat Euch mein Testbericht gefallen? Wenn Ihr in Zukunft nichts auf meinem Blog
-verpassen möchtet, <a href="#newsletter">abonniert gerne meinen Newsletter</a>,
-dann halte ich Euch auf dem Laufenden.
+verpassen möchtet, [abonniert gerne meinen Newsletter](#newsletter), dann halte
+ich Euch auf dem Laufenden.
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

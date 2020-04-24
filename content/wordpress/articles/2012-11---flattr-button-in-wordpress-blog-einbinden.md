@@ -52,7 +52,7 @@ thumbnailId: "4439"
 subTitle: Ohne nerviges Plugin
 ---
 
-<hr /><strong>Hinweis: </strong>Dieser Artikel ist möglicherweise veraltet. <a href="https://cardamonchai.com">Schaut doch gerne mal auf meiner Startseite vorbei</a> - bestimmt findet Ihr dort etwas Spannendes zum Lesen!
+<hr /><strong>Hinweis: </strong>Dieser Artikel ist möglicherweise veraltet.  [Schaut doch gerne mal auf meiner Startseite vorbei]()  - bestimmt findet Ihr dort etwas Spannendes zum Lesen!
 
 ![Flattr-Button | small](http://cardamonchai.com/wp-content/uploads/2012/11/wordpress1-320x335.jpg)
 
@@ -82,9 +82,9 @@ sinnvoll weitergeben.
 
 ![Flattr-Button | small](http://cardamonchai.com/wp-content/uploads/2012/11/wordpress3-320x283.jpg)
 
-<ul><li><em>Service-Name: Flattr</em></li><li><em>Sharing-URL: https://flattr.com/submit/auto?user_id=%username%&amp;url=%post_url% &lt;- (hierbei bitte den Begriff <b>username </b>durch den angelegten Usernamen auf Flattr ersetzen.)</em></li><li><em>Icon-URL: <a href="https://flattr.com/_img/icons/flattr_logo_16.png">https://flattr.com/_img/icons/flattr_logo_16.png</a></em></li></ul>## Fertig ist der Flattr-Button unter den Beiträgen!<strong> verwenden, ich rate allerdings zu dem oben angegebenen Link, da dieser Button bereits größenmäßig perfekt angepasst ist.
+<ul><li><em>Service-Name: Flattr</em></li><li><em>Sharing-URL: https://flattr.com/submit/auto?user_id=%username%&amp;url=%post_url% &lt;- (hierbei bitte den Begriff <b>username </b>durch den angelegten Usernamen auf Flattr ersetzen.)</em></li><li><em>Icon-URL:  [https://flattr.com/_img/icons/flattr_logo_16.png](https://flattr.com/_img/icons/flattr_logo_16.png) </em></li></ul>## Fertig ist der Flattr-Button unter den Beiträgen!<strong> verwenden, ich rate allerdings zu dem oben angegebenen Link, da dieser Button bereits größenmäßig perfekt angepasst ist.
 
-<address>Nun bin ich mal gespannt auf <a title="Flattr" href="http://flattr.com/" target="_blank" rel="noopener">Flattr.</a> Meinen ersten Flattr (oder mein erstes? ;-) ) habe ich bereits erhalten. Ich wünsche Euch viel Spaß beim Basteln! Ich hoffe, dass meine Anleitung ein kleines Bisschen Licht ins Dunkel der Wordpress-Hilfeseiten bringt. :-)</address>
+<address>Nun bin ich mal gespannt auf  [Flattr.](http://flattr.com/)  Meinen ersten Flattr (oder mein erstes? ;-) ) habe ich bereits erhalten. Ich wünsche Euch viel Spaß beim Basteln! Ich hoffe, dass meine Anleitung ein kleines Bisschen Licht ins Dunkel der Wordpress-Hilfeseiten bringt. :-)</address>
 
 Herzlichen Dank für die Aufmerksamkeit!
 

@@ -47,15 +47,14 @@ thumbnailId: "8386"
 subTitle: '"Der Schutz und die Rechte der Tiere stehen an erster Stelle"'
 ---
 
-<blockquote>Ich glaube, dass geistiger Fortschritt an einem gewissen Punkt von uns verlangt, dass wir aufhören, unsere Mitlebewesen zur Befriedigung unseres körperlichen Verlangens zu töten. (Mahatma Gandhi)</blockquote><strong>Johanna Schlitzkus ist 1965 in Friedrichsdorf im Taunus geboren. Die Autorin lebt mit Ihrer Frau Britta und der gemeinsamen Tochter Shaya auf dem <a title="Tierhof AMOA" href="http://www.tierhof-amoa.de" target="_blank" rel="noopener">Lebenshof AMOA</a> in Südhessen einen veganen, buddhistischen Alltag. </strong>
+<blockquote>Ich glaube, dass geistiger Fortschritt an einem gewissen Punkt von uns verlangt, dass wir aufhören, unsere Mitlebewesen zur Befriedigung unseres körperlichen Verlangens zu töten. (Mahatma Gandhi)</blockquote><strong>Johanna Schlitzkus ist 1965 in Friedrichsdorf im Taunus geboren. Die Autorin lebt mit Ihrer Frau Britta und der gemeinsamen Tochter Shaya auf dem  [Lebenshof AMOA](http://www.tierhof-amoa.de)  in Südhessen einen veganen, buddhistischen Alltag. </strong>
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg "Johanna Schlitzkus")
 
 Nach und nach haben sie sich und ihren Tieren mit
-<a title="Tierhof AMOA" href="http://www.tierhof-amoa.de" target="_blank" rel="noopener">AMOA</a>
-ein großes, gemütliches Zuhause aufgebaut. Zusammen mit den drei Powerfrauen
-leben auf dem Hof insgesamt 42 Tiere: Hunde, Katzen, Hühner, Kaninchen und
-Schafe.
+[AMOA](http://www.tierhof-amoa.de) ein großes, gemütliches Zuhause aufgebaut.
+Zusammen mit den drei Powerfrauen leben auf dem Hof insgesamt 42 Tiere: Hunde,
+Katzen, Hühner, Kaninchen und Schafe.
 
 <strong>Anne: </strong>Hallo Johanna, vielen Dank, dass Du Dir die Zeit für
 dieses Interview nimmst.
@@ -63,13 +62,12 @@ dieses Interview nimmst.
 <strong>Johanna:</strong> Sehr gerne, Anne!
 
 <strong>Anne:</strong> Seit wann gibt es das Projekt/den Hof
-<a title="Tierhof AMOA" href="http://www.tierhof-amoa.de" target="_blank" rel="noopener">AMOA</a>?
+[AMOA](http://www.tierhof-amoa.de) ?
 
 ## Den Lebenshof AMOA gibt es seit 2011<strong>Johanna: </strong>Im Grunde genommen schon immer im Kopf und in meiner Phantasie und seit 2011 auch real.
 
 <strong>Anne: </strong>Wie kam es dazu, dass Ihr
-<a title="Tierhof AMOA" href="http://www.tierhof-amoa.de" target="_blank" rel="noopener">AMOA</a>
-gegründet habt?
+[AMOA](http://www.tierhof-amoa.de) gegründet habt?
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg "Der Hof 2011")
 
@@ -97,13 +95,12 @@ Katzen…
 
 ![Lebenshof | full](http://cardamonchai.com/wp-content/uploads/2014/08/die-gackack-gang.jpg "Die Gackack-Gang")
 
-Zwischendurch kamen Hühner von
-"<a title="Rettet das Huhn" href="http://rettetdashuhn.de" target="_blank" rel="noopener">Rettet
-Das Huhn</a>", Hühner aus der Massentierhaltung. Alles was diese Tiere
-brauchten, war eine Chance auf Leben. Und wie boten ihnen den Platz dafür.
-Später kamen noch die Kaninchen dazu. Derzeit haben wir leider einen
-Aufnahmestopp bei den Katzen, wir sind mit 21 Katzen wirklich voll. Aber wir
-müssen einfach allen gerecht werden können.
+Zwischendurch kamen Hühner von "[Rettet Das Huhn](http://rettetdashuhn.de)" ,
+Hühner aus der Massentierhaltung. Alles was diese Tiere brauchten, war eine
+Chance auf Leben. Und wie boten ihnen den Platz dafür. Später kamen noch die
+Kaninchen dazu. Derzeit haben wir leider einen Aufnahmestopp bei den Katzen, wir
+sind mit 21 Katzen wirklich voll. Aber wir müssen einfach allen gerecht werden
+können.
 
 <strong>Anne: </strong>Ihr seid alle drei Veganerinnen und wart früher
 Vegetarierinnen. Wann kam die Veränderung?
@@ -182,21 +179,18 @@ gebracht. Ich bin mit ihm aufgewachsen und er starb kurz vor meinem 19
 Lebensjahr.
 
 <strong>Anne: </strong>Du schreibst ja unter anderem für die
-"<a title="Vegan News" href="http://www.vegan-news.de" target="_blank" rel="noopener">Vegan
-News</a>" und führst außerdem auch noch
-<a title="AMOA Blog" href="http://tierhof-amoa.blogspot.de" target="_blank" rel="noopener">ein
-persönliches Blog</a> zum Thema vegane Lebensweise und Tierrecht. Gibt es noch
-mehr von Dir im Netz zu finden?
+"[ein persönliches Blog](http://www.vegan-news.de) zum Thema vegane Lebensweise
+und Tierrecht. Gibt es noch mehr von Dir im Netz zu finden?
 
 ![Lebenshof | full](http://cardamonchai.com/wp-content/uploads/2014/08/stefano-emo.jpg "Stefano Emo")
 
 <strong>Johanna: </strong>Ja, einiges, ich habe für das Online-Magazin
-<a title="Tuckenalarm" href="http://www.tuckenalarm.com" target="_blank" rel="noopener">Tuckenalarm</a>
-einen Artikel geschrieben. Ich schreibe hin und wieder Rezensionen für Bücher
-und Hörbücher. Man findet manche Kommentare auf der Seite der TAZ und der
-Frankfurter Rundschau zu unterschiedlichen politischen Themen. Außerdem habe ich
-zwei Bücher herausgebracht und führe noch zwei weitere , recht persönliche Blogs
-zu meinem Leben und Erlebten.
+[Tuckenalarm](http://www.tuckenalarm.com) einen Artikel geschrieben. Ich
+schreibe hin und wieder Rezensionen für Bücher und Hörbücher. Man findet manche
+Kommentare auf der Seite der TAZ und der Frankfurter Rundschau zu
+unterschiedlichen politischen Themen. Außerdem habe ich zwei Bücher
+herausgebracht und führe noch zwei weitere , recht persönliche Blogs zu meinem
+Leben und Erlebten.
 
 <strong>Anne: </strong>Wie seit Ihr zum Buddhismus gekommen?
 
@@ -211,7 +205,7 @@ dazu entschlossen habe, als Buddhistin zu leben.
 
 Im November 2009 habe ich dann auch äußerlich den Schritt gewagt. Ich habe mir
 den Kopf rasiert und das
-<a title="Bodhisattva-Gelübde" href="http://de.wikipedia.org/wiki/Bodhisattva-Gelübde" target="_blank" rel="noopener">Bodhisattva-Gelübde</a>
+[Bodhisattva-Gelübde](http://de.wikipedia.org/wiki/Bodhisattva-Gelübde)
 abgelegt. Seitdem lebe ich offen als Buddhistin. Ich bin bewusst keiner Schule
 anhängig, ich gebe den Weg des Pacceka Bodhi, ein Weg, den alten Überlieferungen
 zufolge auch Buddha gegangen ist.
@@ -230,11 +224,10 @@ voraus?
 
 <strong>Johanna: </strong>Nein, ich denke eher, das Erste setzte das Zweite
 voraus. Hier würden mir sicherlich viele Buddhisten widersprechen. Aber ich
-glaube an
-<a title="die 5 Silas" href="http://de.wikipedia.org/wiki/Fünf_Silas" target="_blank" rel="noopener">die
-5 Sila</a><em>(Tugendregeln, buddhistische Übungsregeln, Anm. Anne)</em>, die
-ähnlich wie die 10 Gebote aufgebaut sind, auch hier heißt es: "Ich nehme mich
-der Übungsregel an, keinen anderen zu gefährden oder zu töten."
+glaube an [die 5 Sila](http://de.wikipedia.org/wiki/Fünf_Silas)
+<em>(Tugendregeln, buddhistische Übungsregeln, Anm. Anne)</em>, die ähnlich wie
+die 10 Gebote aufgebaut sind, auch hier heißt es: "Ich nehme mich der
+Übungsregel an, keinen anderen zu gefährden oder zu töten."
 
 Da ich mich in der Verantwortung sehe, auch dafür zu sorgen, das niemand
 gefährdet oder getötet wird, um mich zu ernähren, gehört das Ablehnen von
@@ -243,14 +236,11 @@ Fleisch und Milchkonsum für mich unbedingt dazu.
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg "Der Tierhof AMOA")
 
 <strong>Anne:</strong> Shaya <em>(Name von Johannas und Brittas Tochter, Anm.
-Anne)</em>,
-<a title="Tierhof AMOA" href="http://www.tierhof-amoa.de" target="_blank" rel="noopener">AMOA</a>,
-das klingt nach sehr bedeutungsvollen Namen. Möchtest Du uns Ihre Bedeutung
-erklären?
-<a title="Tierhof AMOA" href="http://www.tierhof-amoa.de" target="_blank" rel="noopener">AMOA</a>
-ist eine Zusammenfassung aus einem Vornamen unserer Tochter und der richtigen
-buddhistischen Bedeutung zu Amoha, was in Sanskrit soviel bedeutet wie:
-Unverblendet, realistisch und klar.
+Anne)</em>, [AMOA](http://www.tierhof-amoa.de), das klingt nach sehr
+bedeutungsvollen Namen. Möchtest Du uns Ihre Bedeutung erklären?
+[AMOA](http://www.tierhof-amoa.de) ist eine Zusammenfassung aus einem Vornamen
+unserer Tochter und der richtigen buddhistischen Bedeutung zu Amoha, was in
+Sanskrit soviel bedeutet wie: Unverblendet, realistisch und klar.
 
 Shaya heißt eigentlich Shaya Lee Amoa Jolie. Das bedeutet frei übersetzt "die
 würdevolle wunderschöne klare Lotusblüte".
@@ -335,13 +325,9 @@ ausstellen können. Bis dahin sind alle Spenden selbstlos.
 
 Wir benötigen immer dringend Katzenfutter und Katzenstreu. Aus dem Grund habe
 ich
-<a title="Wunschzettel AMOA Amazon" href="http://www.amazon.de/registry/wishlist/2P1NRWBUCJD71" target="_blank" rel="noopener">eine
-Spendenliste</a> auf Amazon veröffentlicht, die ich regelmässig aktualisiere.
-Wir möchten dabei alles so transparent wie möglich halten, daher kann man auf
-unserer
-<a title="Hilfe für AMOA" href="https://www.facebook.com/groups/TierhofAmoa/?notif_t=group_added_to_group" target="_blank" rel="noopener">Hilfeseite
-auf Facebook</a> ganz genau sehen, wie viele Spenden wir erhalten haben und für
-was wir Geld ausgeben.
+[Hilfeseite auf Facebook](http://www.amazon.de/registry/wishlist/2P1NRWBUCJD71)
+ganz genau sehen, wie viele Spenden wir erhalten haben und für was wir Geld
+ausgeben.
 
 Am Tag verfüttern wir 11 Dosen Katzenfutter, außerdem abends noch Trockenfutter.
 Im Monat sind das ca. 330 Dosen. Die Erfahrung zeigt, dass die gespendeten Dosen
@@ -363,7 +349,7 @@ aus der Ferne beim Großwerden zuzusehen. 2 Babys werden dann für Anfang Oktobe
 vermittelt.
 
 <strong>Anne: </strong>Um was genau handelt es sich bei der
-"<a title="Regenbogenbrücke AMOA" href="http://www.tierhof-amoa.de/regenbogenbrücke/" target="_blank" rel="noopener">Regenbogenbrücke</a>"?
+"[Regenbogenbrücke](http://www.tierhof-amoa.de/regenbogenbrücke/)" ?
 
 <strong>Johanna: </strong>Ursprünglich entstammt dieser Begriff der nordischen
 Mythologie. Die Regenbogenbrücke ist eigentlich die Asenbrücke, eine Verbindung

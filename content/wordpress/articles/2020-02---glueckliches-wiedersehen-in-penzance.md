@@ -37,15 +37,12 @@ natürlich auch nicht nehmen lassen, zwei Erinnerungsfotos zu machen.
 
 [glry name="annepenzance"]
 
-<a href="http://cardamonchai.com/2009/05/penzance-cornwall-15-05-2009/">Penzance</a>
-liegt am Eingang des Ärmelkanals. Von der Uferlinie aus hat man auch einen Blick
-auf das berühmte Wahrzeichen
-<a href="http://cardamonchai.com/2020/01/st-michaels-mount-marazion/">St.
-Michael's Mount</a>. "Pen Sans" ist cornisch und bedeutet soviel wie "heilige
-Landspitze". Neben einigen wirklich sehenswürdigen Geschäften hält die
-Kleinstadt auch zahlreiche Galerien, das berühmte Meerwasserschwimmbad Jubilee
-Bathing Pool sowie eine schöne Strandpromenade parat.
+[St. Michael's Mount](/2009/05/penzance-cornwall-15-05-2009/). "Pen Sans" ist
+cornisch und bedeutet soviel wie "heilige Landspitze". Neben einigen wirklich
+sehenswürdigen Geschäften hält die Kleinstadt auch zahlreiche Galerien, das
+berühmte Meerwasserschwimmbad Jubilee Bathing Pool sowie eine schöne
+Strandpromenade parat.
 
 Hat Euch mein Beitrag gefallen? Das freut mich! Wenn Ihr sehen wollt,
-<a href="#newsletter">abonniert am besten meinen Newsletter</a>. Dann werdet Ihr
-über neue Beiträge auf meinem Blog auf dem Laufenden gehalten.
+[abonniert am besten meinen Newsletter](#newsletter). Dann werdet Ihr über neue
+Beiträge auf meinem Blog auf dem Laufenden gehalten.

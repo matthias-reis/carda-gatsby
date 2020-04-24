@@ -38,8 +38,8 @@ mit einem kleinen Gedicht verbinden, das heute morgen auf einer Seite meines
 Notizbuchs Form angenommen hat. </strong>
 
 Sehnsucht am Sonntag Wir finden einen kleinen Ecktisch
-<a href="http://cardamonchai.com/2018/03/rijksmuseum-amsterdam/">Vermeer</a> war
-auch hier Grachten, Kanäle, Liebe zum Meer
+[Vermeer](/2018/03/rijksmuseum-amsterdam/) war auch hier Grachten, Kanäle, Liebe
+zum Meer
 
 Wir hatten tolles Wetter und waren sofort verliebt. Boote und Stege. Zwischen
 Sehnsucht und unausweichlicher Notwendigkeit.
@@ -54,45 +54,43 @@ Freundlichkeit. Wo ein Wasser, da ein Weg.
 
 [myflickr tag="anneamsterdam2017grachtenundgassen"]
 
-In
-<a href="http://cardamonchai.com/2014/03/valentinstag-in-venedig/">Venedig</a>
-war es wärmer.
+In [Venedig](/2014/03/valentinstag-in-venedig/) war es wärmer.
 
 ## Wegweiser Amsterdam
 
 <ol>
-    <li><a href="http://cardamonchai.com/2018/01/banksy-im-moco-amsterdam/">Banksy im Moco Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/stedelijk-museum-amsterdam/">Stedelijk Museum Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/vegan-junk-food-bar-amsterdam/">Vegan Junk Food Bar Amsterdam</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/rijksmuseum-amsterdam/">Rijksmusem Amsterdam</a></li>
+    <li> [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/) </li>
+    <li> [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/) </li>
+    <li> [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/) </li>
+    <li> [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/) </li>
     <li>Amsterdam - Grachten und Gassen</li>
-    <li><a href="http://cardamonchai.com/2018/03/raw-food-cafe-amsterdam-zest-for-life/">Raw Food Café Amsterdam</a></li>
+    <li> [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/) </li>
 </ol>
 
 Bei diesem Text handelt es sich um ein Flarf-Gedicht. Wer gerne wissen möchte,
 was das ist,
-<a href="http://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/">findet
-hier eine genaue Erklärung</a>. Weitere Flarf-Gedichte gibt es hier:
+[findet hier eine genaue Erklärung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).
+ Weitere Flarf-Gedichte gibt es hier:
 
 ## Flarf-Gedichte Wegweiser
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/">Die Poesie der Vernetzung</a></li>
-    <li><a href="/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/">Straßenlaternen der Welt</a></li>
-    <li><a href="/2016/03/sonne-und-frieden/">Sonne und Frieden</a></li>
-    <li><a href="http://cardamonchai.com/2016/04/manieren-der-boshaftigkeit/">Manieren der Boshaftigkeit</a></li>
-    <li><a href="/2016/05/das-uebersetzte-wetter-im-spiegel/">Das übersetzte Wetter im Spiegel</a></li>
-    <li><a href="http://cardamonchai.com/2016/10/die-seltsame-stimmung-der-knalligen-blueten/">Die seltsame Stimmung der knalligen Blüten</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/">Elbe schwarz-weiß bunt</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/drei-koenige/">Pizza und Backgammon</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/liebe-sternschanze/">Liebe Sternschanze</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/haters-rest-in-poetry/">Haters rest in poetry</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/die-sehnsucht-der-postmoderne/">Die Sehnsucht der Postmoderne</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/dauerregen-stpauli/">In den Straßen von St. Pauli</a></li>
-    <li><a href="http://cardamonchai.com/2018/01/elblicht-flarfgedicht-zum-jahresanfang/">Elblicht</a></li>
-    <li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/">Jahreszeiten an der Brücke</a></li>
+    <li> [Die Poesie der Vernetzung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/) </li>
+    <li> [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/) </li>
+    <li> [Sonne und Frieden](/2016/03/sonne-und-frieden/) </li>
+    <li> [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/) </li>
+    <li> [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/) </li>
+    <li> [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/) </li>
+    <li> [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/) </li>
+    <li> [Pizza und Backgammon](/2017/01/drei-koenige/) </li>
+    <li> [Liebe Sternschanze](/2017/01/liebe-sternschanze/) </li>
+    <li> [Haters rest in poetry](/2017/02/haters-rest-in-poetry/) </li>
+    <li> [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/) </li>
+    <li> [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/) </li>
+    <li> [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/) </li>
+    <li> [Möwe am Wasser](/2018/01/moewe-am-wasser/) </li>
+    <li> [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/) </li>
     <li>Amsterdam - Grachten und Gassen</li>
-    <li><a href="http://cardamonchai.com/2018/04/abschied-von-dir/">Abschied von Dir - Tschüss, mach es gut</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai - Gegensätze</a></li>
+    <li> [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/) </li>
+    <li> [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/) </li>
 </ol>

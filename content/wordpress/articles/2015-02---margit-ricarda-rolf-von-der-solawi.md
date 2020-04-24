@@ -67,11 +67,8 @@ der SoLaWi vollständig verzichtet werden.
 
 Am 3. Februar fand das erste Planungstreffen statt, somit ist die Ideenphase
 inzwischen in die Planungsphase übergegangen. Mit Unterstützung von
-<a href="https://www.fairmondo.de/" target="_blank" rel="noopener">Fairmondo</a>
-sollen abends und an den Wochenenden Botschafter durch Vorträge und
-Veranstaltungen die Idee verbreitet werden und auch auf der
-<a href="http://www.hamburg.de/altonale/" target="_blank" rel="noopener">Altonale</a>
-vom 3. bis 5. Juli 2015 werden die Botschafter vertreten sein.
+[Altonale](https://www.fairmondo.de/) vom 3. bis 5. Juli 2015 werden die
+Botschafter vertreten sein.
 
 Ich habe mich mit Margit Ricarda Rolf, einer der Gründerinnen unterhalten. Sie
 selbst sieht die SoLaWi als ihre persönliche Antwort auf <strong>TTIP</strong>.
@@ -99,7 +96,7 @@ verkaufen.
 
 <b>Ricarda: </b>Solawi Hamburg
 
-![Zurzeit arbeiten 12 Personen am Projekt SoLaWi Hamburg](https://cardamonchai.files.wordpress.com/2015/02/14159340218_160988f645_z.jpg?w=200 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Zurzeit arbeiten 12 Personen am Projekt SoLaWi Hamburg')
+![Zurzeit arbeiten 12 Personen am Projekt SoLaWi Hamburg](https://cardamonchai.files.wordpress.com/2015/02/14159340218_160988f645_z.jpg?w=200 " [](https://www.flickr.com/photos/99929697@N07/sets)  Zurzeit arbeiten 12 Personen am Projekt SoLaWi Hamburg")
 
 <b>Anne: </b>Wie viele Menschen arbeiten derzeit an dem Projekt? Wer ist für was
 zuständig?
@@ -122,7 +119,7 @@ Personen bestehen wird und eben 300 Genossen.
 
 <b>Anne: </b>Wie viele Menschen sollen in der SoLaWi wohnen und arbeiten?
 
-![Obst aus ökologischem Landbau](https://cardamonchai.files.wordpress.com/2015/02/14466324839_93bd03eab5_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Obst aus ökologischem Landbau')
+![Obst aus ökologischem Landbau](https://cardamonchai.files.wordpress.com/2015/02/14466324839_93bd03eab5_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Obst aus ökologischem Landbau")
 
 <b>Ricarda: </b>Es werden zwischen<b></b>11 und 13 Personen sein.
 
@@ -147,7 +144,7 @@ ist die Förderung regionaler Wirtschaftskreisläufe. Die
 <strong>Genossenschaft</strong> wird als gemeinnütziger Zweckbetrieb des Hummel
 e.V. gegründet.
 
-![Nach der Sommerpause soll es losgehen](https://cardamonchai.files.wordpress.com/2015/02/14466355108_57ac9ea4e1_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Nach der Sommerpause soll es losgehen')
+![Nach der Sommerpause soll es losgehen](https://cardamonchai.files.wordpress.com/2015/02/14466355108_57ac9ea4e1_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Nach der Sommerpause soll es losgehen")
 
 <b>Anne: </b>Die Arbeiter bzw. Bewohner der SoLaWi müssen/können also Kapital
 einbringen?
@@ -165,7 +162,7 @@ mehr in Deutschland?
 <b>Anne:</b> Du bist ja selbst auch <strong>Veganerin</strong>. Seit wann?
 Hattest du dabei ein besonderes Vorbild?
 
-![Ricarda ist ganz frisch auf vegan umgestiegen](https://cardamonchai.files.wordpress.com/2015/02/14466357488_0377960c95_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Ricarda ist ganz frisch auf vegan umgestiegen')
+![Ricarda ist ganz frisch auf vegan umgestiegen](https://cardamonchai.files.wordpress.com/2015/02/14466357488_0377960c95_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Ricarda ist ganz frisch auf vegan umgestiegen")
 
 <b>Ricarda: </b>Ich bin ganz frisch umgestiegen seit 17.01.2015. Ich habe
 gedacht, das wäre nicht nötig. Wenn man sich aber mit der Materie befasst, ist
@@ -196,11 +193,11 @@ Heute führt dort die Autobahn drüber.
 <b>Anne: </b>Wie zufrieden bist du mit dem derzeitigen veganen Angebot in
 Hamburg? Inwiefern unterscheidet es sich von anderen Städten?
 
-![Vegane Produkte sollten gekennzeichnet werden](https://cardamonchai.files.wordpress.com/2014/08/img_1641.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Vegane Produkte sollten gekennzeichnet werden')
+![Vegane Produkte sollten gekennzeichnet werden](https://cardamonchai.files.wordpress.com/2014/08/img_1641.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Vegane Produkte sollten gekennzeichnet werden")
 
 <b>Ricarda: </b>Da geht noch mehr. Noch viel mehr! Ärgerlich ist es, wenn
 <strong>vegane Produkte</strong> nicht
-<a href="/2014/12/05/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">gekennzeichnet</a>
+[gekennzeichnet](/2014/12/05/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 werden, man im Supermarkt vegane Margarine zwischen Milchprodukten findet,
 Hafersahne zwischen H-Milch und H-Sahne und Kichererbsen gar nicht. Wie gesund
 vegane Nahrung ist, hat sich noch nicht herumgesprochen. Da gibt es noch sehr
@@ -220,7 +217,7 @@ angebaut werden. Deine Lieblingssorte?
 <b>Ricarda: </b>Gurken, Tomaten, Champignons… Wir werden mit den Genossen
 Wunschlisten machen und die Gärtner sagen uns dann, was machbar ist.
 
-![Alte Sorten retten](https://cardamonchai.files.wordpress.com/2015/02/15770378701_129f393550_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Alte Sorten retten')
+![Alte Sorten retten](https://cardamonchai.files.wordpress.com/2015/02/15770378701_129f393550_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Alte Sorten retten")
 
 <b>Anne: </b>Vor kurzem las ich einen faszinierenden Artikel über die Rettung
 alter Sorten. Steht das auch auf eurer Agenda?
@@ -240,7 +237,7 @@ normal. Woher sollen sie auch. Kleine Kinder wissen nicht, dass das
 <strong>Würstchen</strong> ein totes Schwein ist. Milch kommt aus der Tüte und
 Kühe sind lila.
 
-![Selbst entscheiden, was auf den Teller kommt](https://cardamonchai.files.wordpress.com/2015/02/15773826082_2fd1f57bec_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets/"> </a> Selbst entscheiden, was auf den Teller kommt')
+![Selbst entscheiden, was auf den Teller kommt](https://cardamonchai.files.wordpress.com/2015/02/15773826082_2fd1f57bec_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/)  Selbst entscheiden, was auf den Teller kommt")
 
 <b>Anne: </b>Womit wird auf der SoLaWi eigentlich gedüngt werden? Werdet ihr im
 großen Stil <strong>Kompostwirtschaft</strong> betreiben? Wenn ja, wie
@@ -257,9 +254,8 @@ muss das Rad nicht neu erfinden.
 <b>Anne: </b>Folgt ihr beim Anbau einer bestimmten Methode/Schule?
 
 <b>Ricarda: </b>Wir wollen auf Imker verzichten. Daher habe ich Kontakt zu
-Markus Gastl. Sein
-<a href="http://www.hortus-insectorum.de" target="_blank" rel="noopener">3-Zonen-Garten-Modell</a>
-ist eine schöne Anregung.
+Markus Gastl. Sein [3-Zonen-Garten-Modell](http://www.hortus-insectorum.de) ist
+eine schöne Anregung.
 
 <b>Anne: </b>Richtet ihr euch auch nach dem <strong>Mondkalender</strong>?
 
@@ -273,8 +269,7 @@ steht, wir wollen biovegan und vollwertig essen.
 <b>Ricarda: </b>Das ist ganz unterschiedlich. Mein Gemüse kaufe ich gern bei
 einem Gärtner auf dem Wochenmarkt, <strong>Hülsenfrüchte</strong> bei Alnatura,
 meine Hafersahne und Avokados bekomme ich bei Edeka. Ich hole mir Anregungen
-durch
-<a href="https://www.facebook.com/groups/402385362537/?fref=ts" target="_blank" rel="noopener">Gruppenbeiträge</a>
+durch [Gruppenbeiträge](https://www.facebook.com/groups/402385362537/?fref=ts)
 auf Facebook. Die Veganer⋆innen dort diskutieren über alles, was der Markt her
 gibt. Veganer⋆innen sind unglaublich kreativ.
 
@@ -320,18 +315,6 @@ bald dort besuchen kann!
 
 <i>Wer sich f</i><i>ü</i><i>r das Leben und Arbeiten in der Hamburger SoLaWi
 interessiert, kann zu den Planungstreffen kommen, sie finden jeden 1. und 3.
-Dienstag im Monat im
-</i><a href="http://www.happenpappen.de" target="_blank" rel="noopener"><i>Happenpappen</i></a><i>
-in Hamburg statt,
-</i><a href="https://www.facebook.com/groups/720133451413309/?fref=ts" target="_blank" rel="noopener"><i>Anmeldung</i></a><i>
-ist erbeten, da die Teilnehmerzahl begrenzt ist. </i><b>Quellen:
-</b><ul><li><a href="http://blog.der-hummel-ev.de/solawi" target="_blank" rel="noopener">Der
-Hummel e.
-V.</a></li><li><a href="http://blo" target="_blank" rel="noopener">Bericht
-vom 1.
-Planungstreffen</a></li><li><a href="http://blog.margitricardarolf.de/hamburg/meine-antwort-auf-ttip-eurorettungswahn-und-globalisierung.html" target="_blank" rel="noopener">Margits
-Blog</a></li></ul><b>Bilder: </b><ul><li>Solawi Hamburg,
-<a title="Anne Reis" href="/ein-blick-hinter-die-kulissen-von-anne-bloggt-cardamonchai/">Anne
-Reis</a></li></ul>
+Dienstag im Monat im </i> [Anne Reis](http://www.happenpappen.de) </li></ul>
 
 [youtube https://www.youtube.com/watch?v=FkUsmUj-4qk]

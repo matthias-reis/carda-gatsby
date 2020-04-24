@@ -46,11 +46,10 @@ Sideboard nimmt einfach zu viel Platz weg, also muss eine andere Lösung her.
 ![Weinkiste](http://cardamonchai.com/wp-content/uploads/2016/08/28165933193_b5a9e0bc09_z.jpg "Gerade war es noch eine alte Weinkiste")
 
 Die habe ich mir jetzt einfallen lassen: Aus einer alten Weinkiste (Die war noch
-vom
-<a href="http://cardamonchai.com/2016/05/an-die-elbe-wir-ziehen-um/">Umzug</a>
-übrig) und vier Füßen (die stammen von unserer alten Küche, die kann man im
-4-er-Pack für billig Geld im schwedischen Möbelhaus seines Vertrauens erwerben)
-habe ich ein kleines Tischchen/Schränkchen gebaut.
+vom [Umzug](/2016/05/an-die-elbe-wir-ziehen-um/) übrig) und vier Füßen (die
+stammen von unserer alten Küche, die kann man im 4-er-Pack für billig Geld im
+schwedischen Möbelhaus seines Vertrauens erwerben) habe ich ein kleines
+Tischchen/Schränkchen gebaut.
 
 Sieht schön aus, oder? Und hat gar nichts gekostet.Wenn Ihr wollt, könnt Ihr
 Euch ganz leicht auch so ein kleines Schmuckstück basteln. Ich habe nochmal

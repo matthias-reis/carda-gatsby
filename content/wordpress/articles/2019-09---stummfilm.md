@@ -34,10 +34,9 @@ subTitle:
 ---
 
 <strong>Könnt Ihr Euch noch an
-<a href="http://cardamonchai.com/2019/04/long-distance-calling-kulturkirche-altona/" target="_blank" rel="noopener">meinen
-Konzertbericht</a> vom Abend mit Long Distance Calling in der Kulturkirche
-Altona erinnern? Jetzt hat die Band den Film zum Auftritt
-veröffentlicht.</strong>
+[meinen Konzertbericht](/2019/04/long-distance-calling-kulturkirche-altona/) vom
+Abend mit Long Distance Calling in der Kulturkirche Altona erinnern? Jetzt hat
+die Band den Film zum Auftritt veröffentlicht.</strong>
 
 "Wir sind glücklich, unser allererstes Live-Album zu enthüllen. "Stummfilm"
 wurde während der "Seats &amp; Sounds" Tour im Frühjahr 2019 aufgenommen. Nach
@@ -86,16 +85,14 @@ Hier das Line-up:
     <li>Monkey3</li>
     <li>Mutiny On The Bounty</li>
     <li>Kuf</li>
-    <li><a href="http://cardamonchai.com/2019/11/curls-nods-im-interview/">Curls &amp; Nods</a></li>
+    <li> [Curls &amp; Nods](/2019/11/curls-nods-im-interview/) </li>
 </ul>
 ## Quellen &amp; Infos
-<a href="https://longdistancecalling.lnk.to/STUMMFILM-LiveFromHamburg" target="_blank" rel="noopener">Stummfilm bestellen</a>
+ [Stummfilm bestellen](https://longdistancecalling.lnk.to/STUMMFILM-LiveFromHamburg)
 
-<a href="http://www.longdistancecalling.de/news.html" target="_blank" rel="noopener">Long
-Distance Calling</a>
+[Long Distance Calling](http://www.longdistancecalling.de/news.html)
 
-<a href="https://www.simonvondergathen.com" target="_blank" rel="noopener">Simon
-von der Gathen</a>
+[Simon von der Gathen](https://www.simonvondergathen.com)
 
-<a href="https://www.facebook.com/goldensilencefestival/?__tn__=K-R&amp;eid=ARCKKjGCau5Jb4dXXJXi1NPTs3vKHJljJzfiFsXVLEz-PDBu6HeuOFz8nRDB3TqilWD3a9lna84wJI82&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARCrdjdbMgd45XkSMVxaJRh0XPZG92Odc1iRoCDkjGadBzBI0hgjw1DxqcRGdixdrx2HULci2IQNv9wImYWW-oU6yed82a8pAAUZlHes0D6ABKCr3o5V1OoZbS0tanpiTqddwWxk_aWrZXQBFMPqJhR-urWSwPQnDmJpxMn5J7UbZuAY_ddEVT6_Efv3wNcs6N2StwqKSMJrY-nt3KvJSOiCfw9C2GajUhETpOeVbcC4hQHekX39T8bAZPMLA3i6EVWV_P6N0OXFFyH5R0cQSM2ulVzrkxYuJ-B-nFv-lTwBwf7jnw3iQbWJ-VSz-k0fWiM9P8cNCqw-Yl1nsj454NKVpg" target="_blank" rel="noopener">Golden
-Silence Festival</a></div>
+[Golden Silence Festival](https://www.facebook.com/goldensilencefestival/?__tn__=K-R&eid=ARCKKjGCau5Jb4dXXJXi1NPTs3vKHJljJzfiFsXVLEz-PDBu6HeuOFz8nRDB3TqilWD3a9lna84wJI82&fref=mentions&__xts__%5B0%5D=68.ARCrdjdbMgd45XkSMVxaJRh0XPZG92Odc1iRoCDkjGadBzBI0hgjw1DxqcRGdixdrx2HULci2IQNv9wImYWW-oU6yed82a8pAAUZlHes0D6ABKCr3o5V1OoZbS0tanpiTqddwWxk_aWrZXQBFMPqJhR-urWSwPQnDmJpxMn5J7UbZuAY_ddEVT6_Efv3wNcs6N2StwqKSMJrY-nt3KvJSOiCfw9C2GajUhETpOeVbcC4hQHekX39T8bAZPMLA3i6EVWV_P6N0OXFFyH5R0cQSM2ulVzrkxYuJ-B-nFv-lTwBwf7jnw3iQbWJ-VSz-k0fWiM9P8cNCqw-Yl1nsj454NKVpg)
+</div>

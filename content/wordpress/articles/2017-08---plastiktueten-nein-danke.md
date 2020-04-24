@@ -45,13 +45,13 @@ Jahre Gefängnis. Ein neues Gesetz verbietet den Verkauf, die Herstellung und de
 Import rigoros.</strong>
 
 Damit hat Kenia das weltweit schärfste Gesetz zur
-<a href="http://cardamonchai.com/2017/04/interview-mit-zero-waste-aktivistin-vio/">Eindämmung
-der Plastikflut </a>ins Leben gerufen. Umweltministerin Judy Wakhungu sieht sich
-als Vorreiterin. Die Polizei kann zukünftig gegen jeden, der sich mit
-Plastiktüten auf der Straße zeigt, vorgehen. Bis zu 32.000 Euro Strafe oder
-sogar vier Jahre Gefängnis drohen bei schwerwiegenden Verstößen.
-Ottonormalbürger, die bereits erworbene Tüten verwenden, wird nichts geschehen,
-äußerte man sich gegenüber der Nachrichtenagentur Reuters.
+[Eindämmung der Plastikflut](/2017/04/interview-mit-zero-waste-aktivistin-vio/)
+ins Leben gerufen. Umweltministerin Judy Wakhungu sieht sich als Vorreiterin.
+Die Polizei kann zukünftig gegen jeden, der sich mit Plastiktüten auf der Straße
+zeigt, vorgehen. Bis zu 32.000 Euro Strafe oder sogar vier Jahre Gefängnis
+drohen bei schwerwiegenden Verstößen. Ottonormalbürger, die bereits erworbene
+Tüten verwenden, wird nichts geschehen, äußerte man sich gegenüber der
+Nachrichtenagentur Reuters.
 
 ![Plastiktüten](http://cardamonchai.com/wp-content/uploads/2017/08/31623226645_cf9554d7ea_z-300x450.jpg "Müllbaum an der Hamburger Hafenkante - Ein Mahnmal")
 
@@ -98,6 +98,4 @@ besten betreiben?
 
 [myflickr tag="annekeniamüll"]
 
-Sea Sheperd
-<a href="http://www.seashepherd.org/" target="_blank" rel="noopener">findet Ihr
-online übrigens hier</a>.
+Sea Sheperd [findet Ihr online übrigens hier](http://www.seashepherd.org/).

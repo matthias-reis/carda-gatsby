@@ -126,7 +126,7 @@ Das klingt ja alles ziemlich fein! Dann mal her mit den gesunden
 Protein-Lieferanten! Welche gibt es denn?
 
 <ul>
-    <li>Sojabohnen sind weltweit besonders weit verbreitet. Sie werden nicht nur zu Tierfutter und Öl sondern auch zu leckerem Soja-Granulat und Tofu verarbeitet. Auch gekocht können sie sehr gut schmecken. Außerdem kann man aus ihnen schmackhaften <a href="http://cardamonchai.com/2014/12/diy-sojamilch/">Sojadrink</a> herstellen.</li>
+    <li>Sojabohnen sind weltweit besonders weit verbreitet. Sie werden nicht nur zu Tierfutter und Öl sondern auch zu leckerem Soja-Granulat und Tofu verarbeitet. Auch gekocht können sie sehr gut schmecken. Außerdem kann man aus ihnen schmackhaften  [Sojadrink](/2014/12/diy-sojamilch/)  herstellen.</li>
     <li>Erbsen, dazu zählen unter anderem Pal-, Mark und Zuckererbsen, erfreuen sich hierzulande besonderer Beliebtheit. Sie schmecken meist süßlich und können sogar roh verzehrt werden.</li>
     <li>Grüne Bohnen werden, anders als viele andere Bohnensorten, komplett mit Kernen und Hülsen gegessen. Zunächst nur in Mittel- und Südamerika bekannt, sind sie inzwischen auch unserer Esskultur bereits seit vielen Jahren nicht mehr wegzudenken.</li>
     <li class="p1">Lupinen erobern langsam aber sicher die Küchen. Aus ihren Samen lässt sich hochwertiges Mehl herstellen. Inzwischen gibt es unter anderem auch Lupinen-Joghurt, -Drink und verschiedene Bratprodukte. Auch Eis kann man daraus herstellen. Erdnuss-Allergiker sollten sie nicht verzehren: Hier droht eine Kreuzallergie. Aus ökologischer Sicht haben sie einen hohen Wert, da sie als Bodenverbesserer gelten. Da die Pflanzen, ähnlich den Sojapflanzen sehr genügsam sind, können sie nahezu überall angebaut werden.</li>
@@ -143,13 +143,11 @@ Protein-Lieferanten! Welche gibt es denn?
 Neben den von mir probierten Sorten gibt es die "Power Of Veggie Love" Produkte
 auch noch in den Varianten "Kürbis Quinoa", "Zucchini Bulgur" und "Brokkoli
 Buchweizen".
-<a href="https://www.iglo.de/sortiment/vegan-und-mehr/vegan" target="_blank" rel="noopener nofollow">Das
-komplette vegane Sortiment von Iglo findet Ihr hier</a>.
+[Das komplette vegane Sortiment von Iglo findet Ihr hier](https://www.iglo.de/sortiment/vegan-und-mehr/vegan).
 
 [gallery ids="22964,22963,22962,22959" type="rectangular" size="medium"
 link="none"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

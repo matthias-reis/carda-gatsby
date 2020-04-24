@@ -39,10 +39,8 @@ mein Rezept für einen leckeren Paranuss-Tomaten-Aufstrich.</strong>
 Paranüsse, auch Amazonenmandeln oder Marahonkastanie genannt, sind sehr gesund.
 Sie stecken voll mit gesunden Fettsäuren, Proteinen und Nährstoffen. Nur
 Vorsicht, nicht zuviel davon genießen, sonst bleibt kein Platz mehr im Magen für
-Eure
-<a href="http://cardamonchai.com/2015/03/bananenwaffeln/">Bananenwaffeln</a> und
-das <a href="http://cardamonchai.com/2014/09/ruhrtofu/">Rührtofu</a>, denn die
-Dinger sind auch ganz schön fettig. ;-)
+Eure [Rührtofu](/2015/03/bananenwaffeln/), denn die Dinger sind auch ganz schön
+fettig. ;-)
 
 ## Zubereitung
 
@@ -64,5 +62,4 @@ Studentenfutter einen genialen Frühstücksaufstrich herstellen. Viel Spaß beim
 Ausprobieren!
 
 Weitere Rezepte aus meiner Feder
-<a href="http://cardamonchai.com/category/vegan-2/rezepte/">sind hier zu
-finden</a>.
+[sind hier zu finden](/category/vegan-2/rezepte/).

@@ -39,16 +39,14 @@ subTitle: Mango, Chili &amp; Cashews
 ---
 
 <strong>Was haben mein leckerer
-<a href="http://cardamonchai.com/2017/03/glasnudelsalat-mit-mango-vegan/">veganer
-Glasnudelsalat</a> mit Mango und der Otto Versand gemeinsam? Ernsthaft, das
-fragt Ihr Euch?</strong>
+[veganer Glasnudelsalat](/2017/03/glasnudelsalat-mit-mango-vegan/) mit Mango und
+der Otto Versand gemeinsam? Ernsthaft, das fragt Ihr Euch?</strong>
 
 Ich erzähle Euch kurz, was passiert ist. Vor ein paar Tagen schrieb mich eine
 nette Dame an, ob ich nicht Lust hätte, ein frisches veganes Frühlingsrezept zum
 Rezeptblog bei Otto beizutragen. Kurz vorher hatte ich hier im Blog mein
-<a href="http://cardamonchai.com/2017/03/glasnudelsalat-mit-mango-vegan/">Glasnudelsalat-Geheimnis</a>
-verraten. Und genau dieses Rezept erscheint jetzt auch im Blog bei Otto. Schick,
-oder?
+[Glasnudelsalat-Geheimnis](/2017/03/glasnudelsalat-mit-mango-vegan/) verraten.
+Und genau dieses Rezept erscheint jetzt auch im Blog bei Otto. Schick, oder?
 
 ## Der Otto Versand hat mein Rezept veröffentlicht
 
@@ -61,12 +59,12 @@ Screenshots gemacht. Seht mal:
 ![Otto Versand | full](http://cardamonchai.com/wp-content/uploads/2017/04/Bildschirmfoto-2017-04-19-um-15.00.06.png)
 
 Beim Otto Versand findet Ihr das Rezept
-<a href="http://www.ottoversand.at/magazin/fruehlingsleichte-rezepte/#vegan" target="_blank" rel="noopener">hier</a>.
-Viel Spaß beim Kochen!
+[hier](http://www.ottoversand.at/magazin/fruehlingsleichte-rezepte/#vegan). Viel
+Spaß beim Kochen!
 
-<a href="http://cardamonchai.com/2016/01/seitan-a-la-herzmann/">Hier entlang</a>
-geht es zu einem weiteren tollen Rezept, zu dem perfekt Glasnudeln als Beilage
-passen. Es ist natürlich vegan. :-)
+[Hier entlang](/2016/01/seitan-a-la-herzmann/) geht es zu einem weiteren tollen
+Rezept, zu dem perfekt Glasnudeln als Beilage passen. Es ist natürlich vegan.
+:-)
 
 Weitere Veröffentlichungen von mir auf anderen Seiten
-<a href="http://cardamonchai.com/andere-blogs/">findet Ihr hier</a>.
+[findet Ihr hier](/andere-blogs/).

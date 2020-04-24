@@ -57,8 +57,13 @@ Zeit, das zu ändern. Danke für das tolle Projekt, durch das aus Abgrenzung
 Mitgefühl wurde, aus Spaltung Solidarität.
 
 Der Hamburger Gabenzaun hat übrigens auch eine eigene
-<a href="http://Aus einem Zaun, der von der Stadt dazu gedacht ist Obdachlose vom Hauptbahnhof zu vertreiben, wurde über Nacht ein Gabenzaun, der Spenden für Bedürftige sammelt. Am Hamburger Hauptbahnhof gibt es seit kurzem einen Gabenzaun, an dem öffentlich Spenden für Bedürftige gesammelt werden. Verwendbare Sach- oder Lebensmittelspenden können in transparente Tüten verpackt an den Zaun gehängt werden. Obdachlose und Bedürftige können die „Gaben“ anschließend anonym mitnehmen." target="_blank" rel="noopener">Facebook-Seite</a>.
-Dort könnt Ihr alles über das Projekt erfahren.
+[Facebook-Seite](http://Aus einem Zaun, der von der Stadt dazu gedacht ist
+Obdachlose vom Hauptbahnhof zu vertreiben, wurde über Nacht ein Gabenzaun, der
+Spenden für Bedürftige sammelt. Am Hamburger Hauptbahnhof gibt es seit kurzem
+einen Gabenzaun, an dem öffentlich Spenden für Bedürftige gesammelt werden.
+Verwendbare Sach- oder Lebensmittelspenden können in transparente Tüten verpackt
+an den Zaun gehängt werden. Obdachlose und Bedürftige können die „Gaben“
+anschließend anonym mitnehmen.). Dort könnt Ihr alles über das Projekt erfahren.
 
 Fotos: Hamburger Gabenzaun
-<a href="https://www.facebook.com/gabenzaunhamburg/" target="_blank" rel="noopener">Facebook</a>
+[Facebook](https://www.facebook.com/gabenzaunhamburg/)

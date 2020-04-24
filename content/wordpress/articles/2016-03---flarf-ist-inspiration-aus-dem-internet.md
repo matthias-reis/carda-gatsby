@@ -87,38 +87,35 @@ Mountain Mist</blockquote>
 [gallery type="rectangular" size="large" ids="14252,14251,14250"]
 
 Ein weiteres Gedicht aus meiner Feder
-<a href="http://cardamonchai.com/2011/09/heimweggedanken/">findet Ihr hier</a>.
-Es ist kein Flarf-Gedicht, aber trotzdem schön. Unter anderem geht es darin um
-frittierte Glückseligkeit.
+[findet Ihr hier](/2011/09/heimweggedanken/). Es ist kein Flarf-Gedicht, aber
+trotzdem schön. Unter anderem geht es darin um frittierte Glückseligkeit.
 
 Übrigens freue ich mich immer über Feedback. Thematisch ist mein Blog nicht
 festgelegt, ich biete Euch Artikel zu den verschiedensten Themen. Findet Ihr das
 sperrig? Oder gefällt es Euch besonders gut? Auch Vorschläge könnt Ihr mir gerne
 jederzeit zukommen lassen! Gerne mache ich z. B. auch ein
-<a href="http://cardamonchai.com/category/bleistift-2-0/interview/">Interview</a>
-mit Euch, wenn Ihr etwas Spannendes zu berichten habt.
-<a style="line-height: 1.5em;" href="mailto:info@cardamonchai.com">Schreibt
-mir</a><span style="line-height: 1.5em;"> gerne jederzeit.</span>
+[Schreibt mir](/category/bleistift-2-0/interview/)
+<span style="line-height: 1.5em;"> gerne jederzeit.</span>
 
 ## Flarf-Gedichte Wegweiser
 
 <ol>
     <li>Die Poesie der Vernetzung</li>
-    <li><a href="/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/">Straßenlaternen der Welt</a></li>
-    <li><a href="/2016/03/sonne-und-frieden/">Sonne und Frieden</a></li>
-    <li><a href="http://cardamonchai.com/2016/04/manieren-der-boshaftigkeit/">Manieren der Boshaftigkeit</a></li>
-    <li><a href="/2016/05/das-uebersetzte-wetter-im-spiegel/">Das übersetzte Wetter im Spiegel</a></li>
-    <li><a href="http://cardamonchai.com/2016/10/die-seltsame-stimmung-der-knalligen-blueten/">Die seltsame Stimmung der knalligen Blüten</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/">Elbe schwarz-weiß bunt</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/drei-koenige/">Pizza und Backgammon</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/liebe-sternschanze/">Liebe Sternschanze</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/haters-rest-in-poetry/">Haters rest in poetry</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/die-sehnsucht-der-postmoderne/">Die Sehnsucht der Postmoderne</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/dauerregen-stpauli/">In den Straßen von St. Pauli</a></li>
-    <li><a href="http://cardamonchai.com/2018/01/elblicht-flarfgedicht-zum-jahresanfang/">Elblicht</a></li>
-    <li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/">Jahreszeiten an der Brücke</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/amsterdam/">Amsterdam - Grachten und Gassen</a></li>
-    <li><a href="http://cardamonchai.com/2018/04/abschied-von-dir/">Abschied von Dir - Tschüss, mach es gut</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai - Gegensätze</a></li>
+    <li> [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/) </li>
+    <li> [Sonne und Frieden](/2016/03/sonne-und-frieden/) </li>
+    <li> [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/) </li>
+    <li> [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/) </li>
+    <li> [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/) </li>
+    <li> [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/) </li>
+    <li> [Pizza und Backgammon](/2017/01/drei-koenige/) </li>
+    <li> [Liebe Sternschanze](/2017/01/liebe-sternschanze/) </li>
+    <li> [Haters rest in poetry](/2017/02/haters-rest-in-poetry/) </li>
+    <li> [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/) </li>
+    <li> [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/) </li>
+    <li> [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/) </li>
+    <li> [Möwe am Wasser](/2018/01/moewe-am-wasser/) </li>
+    <li> [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/) </li>
+    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
+    <li> [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/) </li>
+    <li> [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/) </li>
 </ol>

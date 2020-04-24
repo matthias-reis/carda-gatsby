@@ -43,9 +43,8 @@ perfekte Moment, um den Wasservogel-Kindergarten mit der Kamera zu begleiten.
 So sieht perfektes Mutterglück aus, oder? Mit den besten Freundinnen und allen
 lieben Kleinen einen schönen Morgenspaziergang durch die Hood mit anschließender
 Schwimmeinlage. Vielleicht gefolgt von einer
-<a href="http://cardamonchai.com/2017/02/latte-macchiato-muttis/">schönen Tasse
-Kaffee</a> oder Tee im gemeinsamen Lieblingscafé. Zuviel Klischee meint Ihr? 
-Dann schaut Euch mal die Bilder an.
+[schönen Tasse Kaffee](/2017/02/latte-macchiato-muttis/) oder Tee im gemeinsamen
+Lieblingscafé. Zuviel Klischee meint Ihr?  Dann schaut Euch mal die Bilder an.
 
 Übrigens ging gleich im Anschluss an das letzte "Klick" meines Auslösers der
 Wecker im Zelt unserer Nachbarn an und ein Hund tollte jubelnd durchs Unterholz.
@@ -56,22 +55,15 @@ zu konservieren.
 [myflickr tag="20180628vaenernekuddenentenkindergarten"]
 
 Ihr wollt gerne mehr Bilder vom wunderschönen Vänern sehen? Dann könnt Ihr Euch
-ja mal <a href="http://cardamonchai.com/2018/09/der-vaenern-am-abend/">Fotoserie
-I</a> und
-<a href="http://cardamonchai.com/2018/09/der-vaenern-am-morgen/">Fotoserie
-II</a> ansehen.
+ja mal [Fotoserie II](/2018/09/der-vaenern-am-abend/) ansehen.
 
 Aber
-<a href="https://cardamonchai.com/2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/">keine
-Panik</a>. Auch danach geht es natürlich bunt weiter hier im Blog. Wenn Euch in
-der Zwischenzeit langweilig wird, könnt Ihr gerne
-<a href="https://cardamonchai.com/tag/irland2017/">meine bisher größte
-Reisereportage</a> anschauen. Darin dreht sich alles um die grüne Insel Irland.
+[meine bisher größte Reisereportage](/2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/)
+anschauen. Darin dreht sich alles um die grüne Insel Irland.
 
 Neben der Reiserubrik findet Ihr auf meiner Seite auch Themen wie
 Nachhaltigkeit, veganes Leben, Musik und Hamburg. Lasst Euch überraschen. Ich
 freue mich auf Euch!
 
 Last, but not least: Für alle, die Wasservögel mögen, habe ich noch
-<a href="http://cardamonchai.com/2016/08/gaense-helsinki/">eine schöne
-Bilderstrecke, die vor zwei Jahren in Helsinki entstanden ist</a>.
+[eine schöne Bilderstrecke, die vor zwei Jahren in Helsinki entstanden ist](/2016/08/gaense-helsinki/).

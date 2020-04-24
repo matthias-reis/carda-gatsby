@@ -44,12 +44,9 @@ vegan nicht teuer sein muss.</strong>
 
 Es ist schon eine kleine Weile her, seit ich das letzte Mal ein Buch von Patrick
 Bolk vorgestellt habe. Schon
-"<a href="http://cardamonchai.com/2014/11/so-geht-vegan-von-patrick-bolk/">So
-geht vegan</a>" und
-"<a href="http://cardamonchai.com/2015/06/vegan-im-job-das-neue-buch-von-patrick-bolk-ist-da/">Vegan
-im Job"</a> haben mir sehr gut gefallen. 2014 veröffentlichte er das Werk
-"Vegan, aber günstig - spar Dir das Tier", welches 2017 mit "Vegan, aber
-günstig - das Kochbuch" ergänzt wurde.
+"[Vegan im Job"](/2014/11/so-geht-vegan-von-patrick-bolk/) haben mir sehr gut
+gefallen. 2014 veröffentlichte er das Werk "Vegan, aber günstig - spar Dir das
+Tier", welches 2017 mit "Vegan, aber günstig - das Kochbuch" ergänzt wurde.
 
 "Spar Dir das Tier" ist genau wie das Kochbuch im Ventil Verlag in der Edition
 "Kochen ohne Knochen" erschienen. Auf 141 Seiten gibt Patrick Bolk darin jede
@@ -58,7 +55,7 @@ auch ohne viel Geld.
 
 ## Patrick Bolk beweist, das vegan auch günstig geht
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-2-400x300.jpg '<a href="https://amzn.to/2YgeOkd" target="_blank" rel="noopener nofollow"> </a> "Vegan, aber guenstig - spar Dir das Tier"')
+![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-2-400x300.jpg ' [](https://amzn.to/2YgeOkd)  "Vegan, aber guenstig - spar Dir das Tier"')
 
 Ganz ehrlich, seid Ihr auch so genervt von dem Satz "Es schmeckt ja wirklich
 gut, aber auf Dauer wäre mir veganes Essen zu teuer?" - ich schicke in Zukunft
@@ -103,8 +100,8 @@ Trockenware in allen Farben Formen und Größen. So können wir, selbst wenn im
 Kühlschrank mal nicht mehr viel drin ist, meistens noch ein leckeres und
 sättigendes Gericht zaubern, das zumindest Eiweiß und Kohlehydrate beinhaltet.
 Wenn dann noch etwas
-<a href="http://cardamonchai.com/2018/12/huelsenfruechte-satt-in-hamburg-ottensen/">TK-Gemüse</a>
-im Gefrierfach ist, gibt es sogar Vitamine.
+[TK-Gemüse](/2018/12/huelsenfruechte-satt-in-hamburg-ottensen/) im Gefrierfach
+ist, gibt es sogar Vitamine.
 
 Diese wunderbaren Vorräte findet man in Patrick Bolks Buch unter dem Punkt
 "Welche Geldsparer sollte man immer zu Hause haben" auf Seite 70. Es ist nämlich
@@ -112,14 +109,13 @@ wirklich war: Reis, Linsen, Bohnen, Couscous und Kichererbsen machen glücklich!
 
 ## "Vegan, aber günstig - das Kochbuch"
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-400x300.jpg '<a href="https://amzn.to/2O0v44W" target="_blank" rel="noopener nofollow"> </a> "Vegan, aber guenstig - das Kochbuch"')
+![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-400x300.jpg ' [](https://amzn.to/2O0v44W)  "Vegan, aber guenstig - das Kochbuch"')
 
 "Tolle Basisrezepte, die jede\*n glücklich machen und noch mehr" - so könnte die
 Kurzbeschreibung von Patrick Bolks Kochbuch lauten. Von Zaziki über Béchamelsoße
 und Kräuterquark über Guacamole und Sauerteigbrot bis hin zu selbst gemachtem
-Hafer-, Mandel-, Reis- und
-<a href="http://cardamonchai.com/2014/12/diy-sojamilch/">Sojadrink</a> ist an
-Basics wirklich alles mit dabei. Der Rest des Buchs ist in die Kapitel
+Hafer-, Mandel-, Reis- und [Sojadrink](/2014/12/diy-sojamilch/) ist an Basics
+wirklich alles mit dabei. Der Rest des Buchs ist in die Kapitel
 "Kartoffelgerichte", "Nudelgerichte", "Getreidegerichte", "Gerichte mit
 Hülsenfrüchten", "Rezepte mit Teig", "Gemüse als Hauptdarsteller", "Herzhafte
 Klassiker", "Burger-Baukasten" und "Desserts &amp; Snacks" aufgeteilt.
@@ -136,7 +132,7 @@ Ich habe mir aus jedem Kapitel mein persönliches Lieblingsrezept rausgesucht.
 Dabei ist diese Liste entstanden:
 
 <ul>
-    <li><a href="http://cardamonchai.com/2016/01/seitan-a-la-herzmann/">Seitan</a></li>
+    <li> [Seitan](/2016/01/seitan-a-la-herzmann/) </li>
     <li>Kartoffelgratin</li>
     <li>Spinatnudeln</li>
     <li>Süßes Sushi</li>
@@ -158,7 +154,7 @@ Patrick von Beruf nicht nur Texter, sondern auch noch Grafiker ist.
 
 ## "Vegan, aber günstig" - tolle Bücher!
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-3-400x300.jpg '<a href="https://amzn.to/2YgeOkd" target="_blank" rel="noopener nofollow"> </a> Vegane Spartipps für alle!')
+![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-3-400x300.jpg " [](https://amzn.to/2YgeOkd)  Vegane Spartipps für alle!")
 
 Drei Dinge hat Patrick Bolk auch mit dem Kochbuch klar belegt: Veganes Essen
 muss weder fade noch teuer sein und es muss in den seltensten Fällen ein
@@ -168,16 +164,11 @@ Lieber Patrick, danke für die Bereicherung unserer Küche und unseres
 Bücherregals! Ich bin schon gespannt auf Dein nächstes Buch!
 
 Ihr könnt die Bücher ganz einfach online bestellen
-<a href="https://amzn.to/2YgeOkd" target="_blank" rel="noopener nofollow">"Vegan,
-aber günstig - spar Dir das Tier" gibt es hier</a> und
-<a href="https://amzn.to/2O0v44W" target="_blank" rel="noopener nofollow">"Vegan,
-aber günstig - das Kochbuch"</a> findet Ihr hier.
+["Vegan, aber günstig - das Kochbuch"](https://amzn.to/2YgeOkd) findet Ihr hier.
 
 Übrigens hat Patrick genau wie ich eine Webseite.
-<a href="http://patrickbolk.de/" target="_blank" rel="noopener nofollow">Dort
-freut er sich immer über Euren Besuch</a>.
+[Dort freut er sich immer über Euren Besuch](http://patrickbolk.de/).
 
 <em>\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

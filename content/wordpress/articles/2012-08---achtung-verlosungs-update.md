@@ -43,34 +43,28 @@ thumbnailId: "11800"
 subTitle: Offizielles Burg Herzberg Festival T-Shirt zu gewinnen!
 ---
 
-<hr /><strong>Hinweis: </strong>Die Aktion ist beendet. <a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet bald wieder eine tolle Verlosung im Blog statt</a>.
+<hr /><strong>Hinweis: </strong>Die Aktion ist beendet.  [Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
 
 <hr />
 
 Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine
-<a title="Verlosung" href="//?s=verlosung">Verlosung</a>, bei der es tolle
-Sachen zu Gewinnen gibt.
+[Verlosung](//?s=verlosung), bei der es tolle Sachen zu Gewinnen gibt.
 
 <ol><li><strong>Vinyl</strong></li><li><strong>CD</strong></li><li><strong>T-Shirt</strong></li></ol>
 
 Alle Gewinne werden von
-<a title="Marleen" href="https://www.facebook.com/marleen.schallplatten">Marleen</a>,
-dem Plattenladen meines Vertrauens zur Verfügung gestellt. Es handelt sich dabei
-um wirklich heiße, ausgewählte Teile. Das komplette
-<a title="Verlosung" href="//?s=verlosung">Gewinnspiel</a> findet Ihr
-<a title="Verlosung" href="//?s=verlosung">&gt;HIER UNTER DIESEM LINK&lt;</a>.
+[&gt;HIER UNTER DIESEM LINK&lt;](https://www.facebook.com/marleen.schallplatten).
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg '<a href="http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg"> </a> Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!')
+![ | full](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg " [](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg)  Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!")
 
 Nun gibt es etwas Tolles zu Berichten: Gunter vom
-<a title="Herzberg-Festival" href="http://www.burgherzberg-festival.de/">Herzberg-Festival-Veranstaltungsteam</a>
+[Herzberg-Festival-Veranstaltungsteam](http://www.burgherzberg-festival.de/)
 stellt zusätzlich noch ein T-Shirt zur Verfügung, das ich natürlich gerne noch
 in die Verlosung mit aufnehme. Das T-Shirt stammt aus der aktuellen Kollektion
 'Make Love Work' exklusiv vom Herzberg-Festival 2012. Es wird dem/der
 glücklichen Gewinner/in in seiner persönlichen Konfektionsgröße zugestellt.
 
-<a title="Verlosung" href="//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/">Also
-macht auf jeden Fall mit, es lohnt sich!</a>
+[Also macht auf jeden Fall mit, es lohnt sich!](//2012/08/16/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/)
 
 Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen
 Artikel gerne rebloggen oder auf Facebook oder Twitter teilen.
@@ -84,8 +78,7 @@ erlaubt.</li><li>Die Gewinner werden von einer neutralen Person gezogen und per
 E-Mail über ihren Gewinn benachrichtigt.</li><li>Die Gewinne werden per Post
 versendet.</li><li>Der Rechtsweg ist ausgeschlossen.</li></ul>
 
-Das komplette Gewinnspiel findet Ihr
-<a title="Verlosung" href="//?s=verlosung">HIER UNTER DIESEM LINK</a>
+Das komplette Gewinnspiel findet Ihr [HIER UNTER DIESEM LINK](//?s=verlosung)
 
 ♥Make love Work♥
 

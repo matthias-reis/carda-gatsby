@@ -88,8 +88,7 @@ Ein Bisschen hoffe ich ja noch darauf, dass sie sich beim Dunk Festival blicken
 [myflickr tag="russiancircles2017knustanne"]
 
 Russian Circles live @ Kranhalle München November 2013
-<a href="http://cardamonchai.com/2013/11/russian-circles-live-kranhalle-munchen/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2013/11/russian-circles-live-kranhalle-munchen/).
 
 <iframe src="https://www.youtube.com/embed/ONzYMVrhTyk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

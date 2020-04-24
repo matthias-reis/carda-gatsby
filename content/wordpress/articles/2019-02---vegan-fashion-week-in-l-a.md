@@ -172,9 +172,8 @@ Rock</small></li> <li><small>Mink Shoes</small></li>
     <li><small>Rythm Superfoods</small></li>
 </ul>
 
-<em>press release &amp; copyright for pictures:
-„<a href="https://www.veganfashionweek.org/" target="_blank" rel="noopener">Vegan
-Fashion Week</a>“</em>
+<em>press release &amp; copyright for pictures: „
+[Vegan Fashion Week](https://www.veganfashionweek.org/) “</em>
 
 [gallery type="thumbnails" link="none" size="medium" columns="2"
 ids="23558,23563,23562,23560" orderby="rand"]

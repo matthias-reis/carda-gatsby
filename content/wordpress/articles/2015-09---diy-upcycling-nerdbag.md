@@ -48,9 +48,9 @@ zeigen. In Teil 1 zeige ich Euch, wie Ihr innerhalb kürzester Zeit Euren ganz
 persönlichen Nerdbag kreieren könnt.
 
 Dabei kommen übrigens auch die Träger des Jutebeutels zum Einsatz,
-<a href="/2015/09/diy-upcycling-turnbeutel/">die Ihr neulich aufheben
-solltet</a>, natürlich könnt Ihr aber auch jede andere Art von Stoffbändern
-verwenden. Doch nun zu meiner Anleitung.
+[die Ihr neulich aufheben solltet](/2015/09/diy-upcycling-turnbeutel/),
+natürlich könnt Ihr aber auch jede andere Art von Stoffbändern verwenden. Doch
+nun zu meiner Anleitung.
 
 ## So näht Ihr Euren DIY Upcycling Nerdbag
 
@@ -95,4 +95,4 @@ Viel Spaß beim Nähen und Shoppen!
 [gallery type="columns" link="none" size="large" ids="12825,12824"]
 
 Wie Ihr aus Eurem alten Jeansrock ein echtes Unikat macht, könnt Ihr
-<a href="/2015/08/diy-upcycling-jeansrock/">hier nachlesen</a>.
+[hier nachlesen](/2015/08/diy-upcycling-jeansrock/).

@@ -73,8 +73,7 @@ biologischem Anbau. Klingt doch schon mal ganz gut, oder?
 
 ![Alkmene | large](http://cardamonchai.com/wp-content/uploads/2017/12/Alkmene-520x191.png)
 
-Von
-<a href="https://www.codecheck.info/product.search?q=alkmene&amp;OK=Suchen" target="_blank" rel="noopener">Codecheck</a>
+Von [Codecheck](https://www.codecheck.info/product.search?q=alkmene&OK=Suchen)
 werden alle Produkte mit ihren Inhaltsstoffen als unbedenklich bewertet. Einen
 Punkt Abzug gibt es allerdings auch von mir, da sie Palmöl enthalten. Die rund 3
 Euro für eine Flasche Duschgel empfinde ich als sehr günstig. Gerne bin ich als
@@ -136,9 +135,9 @@ Eincremen verzichtet, habe aber das Gefühl, dass die Haut weniger spannt.
 
 Sehr gespannt bin ich noch auf die passende Bodylotion. Diese werde ich mit
 Sicherheit auch noch testen. Nachdem ich auf Gran Canaria in Bezug auf
-<a href="http://cardamonchai.com/2017/05/vegan-auf-gran-canaria/">Aloe Vera
-Bodylotion</a> auf den Geschmack gekommen bin, würde ich gerne mal ein anderes
-Produkt testen, das vielleicht von hier aus etwas leichter zu beziehen ist.
+[Aloe Vera Bodylotion](/2017/05/vegan-auf-gran-canaria/) auf den Geschmack
+gekommen bin, würde ich gerne mal ein anderes Produkt testen, das vielleicht von
+hier aus etwas leichter zu beziehen ist.
 
 ## Alkemene wirbt mit Heilpflanzen
 
@@ -166,10 +165,8 @@ enthalten. Sollten sich die Rezepte in Zukunft dahingehen ändern, wäre das fü
 mich ein großer Grund zur Freude.
 
 Alle Produkte findet Ihr natürlich auf der
-<a href="http://alkmene.de/produkte/" target="_blank" rel="noopener">Homepage</a>
-von Alkmene.
+[Homepage](http://alkmene.de/produkte/) von Alkmene.
 
 <em>\*Hinweis: Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

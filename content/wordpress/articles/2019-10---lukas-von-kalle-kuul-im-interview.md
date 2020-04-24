@@ -30,11 +30,10 @@ subTitle: '"Als Erstes ist die Melodie da"'
 ---
 
 <strong>Vor ein paar Tagen habe ich Euch hier im Blog die
-<a href="http://cardamonchai.com/2019/09/kalle-kuul-die-prinzessin-von-osnabrueck/">Kölner
-Singer-Songwriter Kalle Kuul</a> vorgestellt. Jetzt habe ich mich mit Sänger
-Lukas unterhalten. Pünktlich zur heutigen Release der Single "Die Prinzessin von
-Osnabrück" bei iTunes und Spotify möchte ich Euch das Interview
-präsentieren.</strong>
+[Kölner Singer-Songwriter Kalle Kuul](/2019/09/kalle-kuul-die-prinzessin-von-osnabrueck/)
+vorgestellt. Jetzt habe ich mich mit Sänger Lukas unterhalten. Pünktlich zur
+heutigen Release der Single "Die Prinzessin von Osnabrück" bei iTunes und
+Spotify möchte ich Euch das Interview präsentieren.</strong>
 
 <strong>Anne:</strong> Hallo Lukas! Herzlichen Glückwunsch zur Release der
 "Prinzessin von Osnabrück"! Es ist wirklich spannend, da so live dabei zu sein!

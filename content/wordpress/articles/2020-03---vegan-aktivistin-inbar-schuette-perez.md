@@ -66,8 +66,8 @@ Herzen und Seelen in dieses Projekt - und viele Stunden.
 Meine Brötchen verdiene ich in der wunderbaren Kochschule "Kurkuma" in Hamburg
 Eimsbüttel. Das Kurkuma ist Deutschlands erste und bisher einzige vegane
 Kochschule! Ich arbeite dort jetzt bereits seit Jahren und gebe die israelischen
-Kochkurse <a href="#1"><sup>1</sup></a>. Sie sind sehr beliebt und ich bin sehr
-stolz, dort arbeiten zu dürfen.
+Kochkurse  [](#1). Sie sind sehr beliebt und ich bin sehr stolz, dort arbeiten
+zu dürfen.
 
 <strong>Anne:</strong> In Hamburg kennt man Dich vor allem als vegane
 Aktivistin. Seit wann lebst Du eigentlich schon vegan?
@@ -85,9 +85,8 @@ Was war zuerst da – der Aktivismus oder die Umstellung auf vegan?
 
 <strong>Inbar:</strong> Ich glaube, das hängt davon ab, was Du als Aktivismus
 bezeichnen würdest. Bevor ich Veganerin wurde, habe ich für den Hamburger
-Mitternachtsbus <a href="#2"><sup>2</sup></a> mit Obdachlosen gearbeitet. Es war
-eine dieser Erfahrungen, die unglaublich hart sind und einen zugleich komplett
-erfüllen.
+Mitternachtsbus  [](#2) mit Obdachlosen gearbeitet. Es war eine dieser
+Erfahrungen, die unglaublich hart sind und einen zugleich komplett erfüllen.
 
 Ich musste mit meiner Arbeit für den Mitternachtsbus aufhören, als ich schwanger
 wurde. Als ich dann wieder etwas machen konnte, habe ich mich für eine andere
@@ -330,13 +329,9 @@ Popcorn. Wassermelone. Veganes Essen nicht zu mögen, ist eine viel zu allgemein
 Aussage.
 
 Veganes Essen besteht aus Grundnahrungsmitteln: Reis,
-<a href="http://cardamonchai.com/2020/02/aubergine-mit-bohnen-bratkartoffeln/">Bohnen</a>,
-<a href="http://cardamonchai.com/2018/12/huelsenfruechte-satt-in-hamburg-ottensen/">Linsen</a>,
-<a href="http://cardamonchai.com/2020/03/haselnuesse-hof-windkind/">Nüsse</a>,
-Samen, Pasta, Gemüse, Früchte,
-<a href="http://cardamonchai.com/2017/07/wildkraeutersalate-mit-dressingrezepten/">Kräuter</a>.
-Wenn jemand es nicht schafft, leckere Speisen aus diesen Zutaten herzustellen,
-liegt das Problem nicht bei den Lebensmitteln.
+[Kräuter](/2020/02/aubergine-mit-bohnen-bratkartoffeln/). Wenn jemand es nicht
+schafft, leckere Speisen aus diesen Zutaten herzustellen, liegt das Problem
+nicht bei den Lebensmitteln.
 
 ## "Wir vermissen nichts!"
 
@@ -355,9 +350,9 @@ ist es nicht anders.
 
 Wenn jemand die Zubereitung von Veganer Essen als Herausforderung sieht, lade
 ich ihn⋆sie gerne ein, zu meinen Kochevents in die
-<a href="http://cardamonchai.com/2019/12/rote-bete-burgerbroetchen/">Kurkuma
-Kochschule</a> zu kommen. Allen, die sich noch mehr Inspiration wünschen,
-empfehle ich Instagram. Es gibt eine faszinierende vegane Essenswelt da draußen!
+[Kurkuma Kochschule](/2019/12/rote-bete-burgerbroetchen/) zu kommen. Allen, die
+sich noch mehr Inspiration wünschen, empfehle ich Instagram. Es gibt eine
+faszinierende vegane Essenswelt da draußen!
 
 <strong>Anne:</strong> Was sollte für jede⋆n ein Grund sein, vegan zu leben?
 
@@ -409,16 +404,14 @@ Aktivismus und Anonymous For The Voiceless.
 Mein erster Cube als Organisatorin hier in Hamburg im Winter 2018. Der erste
 Workshop, den ich organisiert habe und all die folgenden Workshops. Die Fahrt
 mit Anonymous For The Voiceless Hamburg zum
-<a href="http://cardamonchai.com/2019/08/animal-rights-march-2019/">Animal
-Rights March</a> in Berlin im letzten Jahr.
+[Animal Rights March](/2019/08/animal-rights-march-2019/) in Berlin im letzten
+Jahr.
 
-<a href="http://cardamonchai.com/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/">Dr.
-Melanie Joy</a> und
-<a href="http://cardamonchai.com/2019/11/earthling-ed-zu-gast-in-hamburg/">Earthling
-Ed</a> vor ein paar Monaten als Gäste bei uns zu begrüßen. Alle diese Erlebnisse
-bilden das Mosaik meiner Erfahrungen. Ich sehe sie als persönliche
-Errungenschaften. Ich habe daraus gelernt und nutze sie als Inspiration, mehr zu
-tun, mehr zu organisieren und mehr zu gestalten.
+[Earthling Ed](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)
+vor ein paar Monaten als Gäste bei uns zu begrüßen. Alle diese Erlebnisse bilden
+das Mosaik meiner Erfahrungen. Ich sehe sie als persönliche Errungenschaften.
+Ich habe daraus gelernt und nutze sie als Inspiration, mehr zu tun, mehr zu
+organisieren und mehr zu gestalten.
 
 Der vielleicht größte Meilenstein war vermutlich, als mir klar wurde, dass ich
 einen großen Teil zur Gründung der Community hier in Hamburg beigetragen habe.
@@ -436,13 +429,10 @@ am 21. März aus Präventionsgründen abgesagt.
 
 ## Fußnoten
 
-[1]
-<a href="https://www.kurkuma-hamburg.de/israelisch/" target="_blank" rel="noopener">Inbars
-Kochkurse für israelische Küche in der Kurkuma Kochschule</a>
+[1][inbars kochkurse für israelische küche in der kurkuma kochschule](https://www.kurkuma-hamburg.de/israelisch/)
 
-[2]
-<a href=" https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus" target="_blank" rel="noopener nofollow">Mitternachtsbus
-Hamburg</a>
+[2][mitternachtsbus hamburg](
+https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
 
 <hr />
 
@@ -478,8 +468,8 @@ do what we do. We put our hearts and souls into this project - and many hours.
 
 For living, I work in Germany's first vegan cooking school, the beautiful
 "Kurkuma" cooking school in Eimsbüttel. I work there for years already and offer
-the Israeli Cooking Evening <a href="#1"><sup>1</sup></a>. They are super
-popular, and I am very proud and honored to be working there.
+the Israeli Cooking Evening  [](#1). They are super popular, and I am very proud
+and honored to be working there.
 
 <strong>Anne:</strong> In Hamburg you are known as a very active vegan activist.
 How long have you been living vegan now?
@@ -494,9 +484,8 @@ going vegan earlier.
 about that. What came first - activism or the change to your vegan life?
 
 <strong>Inbar:</strong> I guess it depends on what you call activism. I did
-volunteer with homeless people before going vegan at Hamburg's
-Mitternachtsbus <a href="#2"><sup>2</sup></a>. It was one of those very hard and
-very fulfilling activities.
+volunteer with homeless people before going vegan at Hamburg's Mitternachtsbus 
+[](#2). It was one of those very hard and very fulfilling activities.
 
 I had to stop with the Mitternachtsbus once I became pregnant. When the time was
 right I knew I wanted to do a different kind of activism, and knew it has to be
@@ -773,15 +762,10 @@ first step into activism and Anonymous For The Voiceless.
 
 My first Cube as an organiser here in Hamburg in winter 2018. The first workshop
 I organised and all the workshops that followed. Leading the Anonymous For The
-Voiceless block at the
-<a href="http://cardamonchai.com/2019/08/animal-rights-march-2019/">Animal
-Rights March</a> in Berlin last year. Hosting
-<a href="http://cardamonchai.com/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/">Dr.
-Melanie Joy</a>, and
-<a href="http://cardamonchai.com/2019/11/earthling-ed-zu-gast-in-hamburg/">Earthling
-Ed</a> a few months ago. All those things contributed to my experience. I see
-them as personal achievements. I learned from them and use them as inspiration
-to do more, organise more and create more.
+Voiceless block at the [Earthling Ed](/2019/08/animal-rights-march-2019/) a few
+months ago. All those things contributed to my experience. I see them as
+personal achievements. I learned from them and use them as inspiration to do
+more, organise more and create more.
 
 But maybe the biggest milestone was to realise, that I have a big part in
 building a community here in Hamburg. A community that is based on support,
@@ -798,10 +782,7 @@ at the next event!
 
 ## Foot notes
 
-[1]
-<a href="https://www.kurkuma-hamburg.de/israelisch/" target="_blank" rel="noopener nofollow">Inbars
-cooking classes at Kurkuma Hamburg</a>
+[1][inbars cooking classes at kurkuma hamburg](https://www.kurkuma-hamburg.de/israelisch/)
 
-[2]
-<a href=" https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus" target="_blank" rel="noopener nofollow">Mitternachtsbus
-Hamburg</a>
+[2][mitternachtsbus hamburg](
+https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)

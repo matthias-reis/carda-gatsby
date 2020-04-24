@@ -116,9 +116,8 @@ hergeben.
 ## DIE STERNE in Hamburg
 
 Allen, die mal eine Lobhudelei lesen möchten, wie sie im Buche steht,
-<a href="http://cardamonchai.com/2014/09/flucht-in-die-flucht/">empfehle ich
-meine Plattenrezension zu "Flucht in die Flucht" zu lesen</a>. Allen anderen
-lege ich ans Herz DIE STERNE zu hören. Am besten jeden Tag.
+[empfehle ich meine Plattenrezension zu "Flucht in die Flucht" zu lesen](/2014/09/flucht-in-die-flucht/).
+Allen anderen lege ich ans Herz DIE STERNE zu hören. Am besten jeden Tag.
 
 Der Sommer in Altona ist ein Festival in Hamburg. Von Ende Juli bis Ende August
 treten in einem Zirkuszelt im Kiez zwischen Altona und St. Pauli verschiedene

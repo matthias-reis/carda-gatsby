@@ -72,12 +72,9 @@ sie sich auf den Bauch scheinen. Ihre Hobbys sind schlafen, futtern und bloggen.
 Für letzteres hat sie einen eigenen Facebook- und Instagram-Account.
 
 Mehr über die Schweine vom Erdlingshof erfahrt Ihr
-<a href="https://www.erdlingshof.de/die-schweine/" target="_blank" rel="noopener">hier</a>.
-Wer sich für eine Tierpatenschaft interessiert, sollte
-<a href="https://www.erdlingshof.de/patenschaft/#patenschaft" target="_blank" rel="noopener">hier
-mal klicken</a>.
+[hier mal klicken](https://www.erdlingshof.de/die-schweine/).
 
 Vielen Dank an Birgit vom Erdlingshof, die mir die Geschichte erzählt hat.
 
 <strong>Fotos:</strong> Freundlich zur Verfügung gestellt vom
-<a href="https://www.erdlingshof.de/" target="_blank" rel="noopener">Erdlingshof</a>.
+[Erdlingshof](https://www.erdlingshof.de/).

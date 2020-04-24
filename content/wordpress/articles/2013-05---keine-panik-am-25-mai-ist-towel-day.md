@@ -47,8 +47,7 @@ gibt, stets mit sich führen sollte: Ein Handtuch.
 ![Douglas Adams - der Mann mit der Antwort](http://cardamonchai.files.wordpress.com/2013/05/douglas-adams.jpg?w=300 "Douglas Adams - der Mann mit der Antwort")
 
 Das tat schließlich auch schon Arthur Dent, der Protagonist, des
-<a title="Towel Day Wiki" href="http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis" target="_blank" name="Per Anhalter duch die Galaxis">besten
-Buchs aller Zeiten</a>.
+[besten Buchs aller Zeiten](http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis).
 
 Beim Datum handelt es sich bei diesem hohen Feiertag um einen Kompromiss. Es
 sollte sehr bald nach dem Tod des Autors ein Gedenktag für ihn ins Leben gerufen
@@ -62,8 +61,7 @@ haben, um auch wirklich in jedem Winkel der Galaxis anzukommen.
 Nachdem der Tag einmal am 25. Mai gefeiert worden war, wollte niemand mehr ein
 anderes Datum (beispielsweise an seinem Geburtstag, dem 11. März, seinem
 Todestag, dem 11 Mai oder dem 11 Februar, dem
-<a href="http://de.wikipedia.org/wiki/42_(Antwort)" name="42">42.</a> Tag des
-Jahres) akzeptieren.
+[42.](<http://de.wikipedia.org/wiki/42_(Antwort)>) Tag des Jahres) akzeptieren.
 
 Zur Feier des Tages werde natürlich auch ich morgen wieder mein Handtuch hissen.
 Noch ist jedoch nicht ganz klar, welches. Natürlich habe ich eine einigermaßen
@@ -77,8 +75,7 @@ Das Original Fan-Towel
 
 ## Handtuch No. 2
 
-Ein Urlaubsmitbringsel aus einem meiner
-<a title="Türkei" href="/category/turkei/" target="_blank">Lieblingsländer</a>.
+Ein Urlaubsmitbringsel aus einem meiner [Lieblingsländer](/category/turkei/).
 
 ![Mitbringsel- Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4199.jpg?w=490 "Mitbringsel- Handtuch")
 
@@ -88,18 +85,15 @@ Nicht besonders schön, dafür hat es eine besondere Geschichte: Wahrscheinlich
 werdet Ihr mich nun für verrückt erklären, weil Ihr nicht verstehen könnt, wie
 das passieren konnte. Es begab sich vor einigen Jahren. Ich war mit ein paar
 Freunden auf dem Weg zu einem wundervollen, sonnigen
-<a href="/2013/03/28/die-ultimative-festivalliste-2013/" name="Festivalliste">Festival</a>.
-5 km von der Heimat entfernt verspürte ich plötzlich eine extreme innere Unruhe.
-Ich prüfte meinen Rucksack und stellte, der Ohnmacht nahe, fest, dass ich mein
-Handtuch (<a href="Handtuch No. 4" name="Festival-Handtuch">Festival-Handtuch:
-Siehe Abbildung No. 4</a>) zu Hause vergessen hatte! Sofort fuhren wir von der
-Autobahn runter und suchten so lange, bis wir ein Handtuch-Fachgeschäft gefunden
-hatten, in dem ich das sündhaft teure Stück dann erstanden habe. Schon beim
-Betreten des Festival-Geländes fielen die ersten Tropfen. Es regnete das ganze
-Wochenende durch. Das kann kein Zufall gewesen sein. Als ich wieder zu Hause
-angekommen war, hatten sich meine beiden Kater auf dem Festival-Handtuch eine
-Nest aus ihrer eigenen Wolle, Papierschnipseln und sonstigem Kram gebastelt.
-Seit diesem Zeitpunkt vergesse ich nie wieder mein Handtuch
+[Festival-Handtuch: Siehe Abbildung No. 4](/2013/03/28/die-ultimative-festivalliste-2013/)
+) zu Hause vergessen hatte! Sofort fuhren wir von der Autobahn runter und
+suchten so lange, bis wir ein Handtuch-Fachgeschäft gefunden hatten, in dem ich
+das sündhaft teure Stück dann erstanden habe. Schon beim Betreten des
+Festival-Geländes fielen die ersten Tropfen. Es regnete das ganze Wochenende
+durch. Das kann kein Zufall gewesen sein. Als ich wieder zu Hause angekommen
+war, hatten sich meine beiden Kater auf dem Festival-Handtuch eine Nest aus
+ihrer eigenen Wolle, Papierschnipseln und sonstigem Kram gebastelt. Seit diesem
+Zeitpunkt vergesse ich nie wieder mein Handtuch
 
 ![Sündhaft teures Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4201.jpg?w=490 "Sündhaft teures Handtuch")
 
@@ -112,10 +106,10 @@ wenn man ganz genau hinsieht, kann man sie noch schemenhaft erkennen. Das
 Festival-Handtuch ist irre praktisch. Weil es schon so extrem oft gewaschen
 wurde, ist es sehr dünn, fast schon fragil. Daher kann man es fast bis auf
 Briefmarkengröße zusammenfalten, Ergo: Es nimmt so gut wie gar keinen Platz
-<a href="/2013/03/28/die-ultimative-festivalliste-2013/" target="_blank" name="Festivalliste">im
-Rucksack</a> weg, was auf Festivals durchaus von Vorteil ist. Trotzdem ist es
-groß genug, um es als Turban zu benutzen, es als Sonnenschutz um die Schultern
-zu schlingen oder als Sonnensegel über das Vordach des Iglu-Zelts zu legen.
+[im Rucksack](/2013/03/28/die-ultimative-festivalliste-2013/) weg, was auf
+Festivals durchaus von Vorteil ist. Trotzdem ist es groß genug, um es als Turban
+zu benutzen, es als Sonnenschutz um die Schultern zu schlingen oder als
+Sonnensegel über das Vordach des Iglu-Zelts zu legen.
 
 ![Festival-Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4203.jpg?w=490 "Festival-Handtuch")
 
@@ -128,8 +122,8 @@ evtl. Chancen, seinen Platz einzunehmen. Erzählt das ab bitte nicht dem
 Festival-Handtuch! Natürlich wird das noch etliche Jahre dauern und das
 „Kaufhandtuch“ muss natürlich auch erst noch eine Geschichte kriegen. Aber
 glaubt mir: Spätestens nach dem ersten
-<a title="Lieder am See" href="/2011/08/15/lieder-am-ufer/" target="_blank">Baggersee-Besuch</a>
-wird es schon was zu erzählen haben
+[Baggersee-Besuch](/2011/08/15/lieder-am-ufer/) wird es schon was zu erzählen
+haben
 
 ![Kauf-Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4198.jpg?w=490 "Kauf-Handtuch")
 
@@ -148,4 +142,4 @@ bei mir zu Hause gerade so rumlagen:
 
 [gallery type="circle" size="tall" link="file" ids="5440,5437,5439"]
 
-### Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich entschieden habe!<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+### Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich entschieden habe! [](/2015/03/die-ultimative-vegane-festivalliste)

@@ -56,22 +56,19 @@ Mein perfekter Sofa-Sonntag fängt im Bett an. Ganz genau. Ich schlafe lange aus
 und schaue mir dann ein paar Folgen einer spannenden Serie beim Streaming-Dienst
 meines Vertrauens an. Am besten Thriller, Science Fiction oder Dramedy. Dabei
 wird gemütlich im Bett gefrühstückt. Am besten leckere
-<a href="http://cardamonchai.com/2015/03/bananenwaffeln/">Bananen-Waffeln</a>
-und Kaffee satt.
+[Bananen-Waffeln](/2015/03/bananenwaffeln/) und Kaffee satt.
 
 Im Anschluss tauche ich dann gerne erstmal mit einem duftigen
-<a href="http://cardamonchai.com/2018/01/wellness-mit-alkmene/">Badezusatz</a>
-in die Wanne ab. Einfach mal für eine Viertelstunde die Augen schließen und an
-nichts denken, kann so entspannend sein!
+[Badezusatz](/2018/01/wellness-mit-alkmene/) in die Wanne ab. Einfach mal für
+eine Viertelstunde die Augen schließen und an nichts denken, kann so entspannend
+sein!
 
 Anschließend geht es dann auch schon mit einer weichen Kuscheldecke auf das
 Sofa. Gemütliche Kissen dürfen natürlich auch nicht fehlen. Noch wichtiger ist
 ein gutes Buch (ein paar meiner Lieblingsautoren habe ich hier im Blog bereits
 erwähnt), eine Kanne Tee und ein paar leckere Kekse,
-<a href="http://cardamonchai.com/2017/12/vegane-cranberry-walnuss-cookies/">am
-besten selbst gebackene</a>. Dann kommt noch
-<a href="http://cardamonchai.com/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/">die
-ultimative Lieblingsplaylist</a> auf die Ohren und das Relaxen kann losgehen.
+[die ultimative Lieblingsplaylist](/2017/12/vegane-cranberry-walnuss-cookies/)
+auf die Ohren und das Relaxen kann losgehen.
 
 ![Sonntag auf dem Sofa](http://cardamonchai.com/wp-content/uploads/2018/02/pulli-300x404.png "Gemütlicher Pulli von Armed Angels")
 
@@ -82,28 +79,14 @@ sein. Ich bin bin ein absoluter Pullifan. Sie sind einfach immer bequem und
 bieten einem in jeder Situation genau das, was man gerade braucht.
 
 Darüber, dass ich bei meinen Klamotten
-<a href="http://cardamonchai.com/2018/02/wie-vegan-ist-moeglich/">im
-Idealfall</a> möglichst darauf achte, dass sie
-<a href="http://cardamonchai.com/2018/02/faire-klamotten/">umweltverträglich und
-fair sind</a>, habe ich hier bereits berichtet. Eine meiner Lieblingsbrands,
-Armed Angels, stellt praktischerweise wunderbar gemütliche Pullis her, die
-meinen Ansprüchen absolut gerecht werden. Nicht nur beim Sofa-Sonntag, sondern
-auch beim Meeting oder bei
-<a href="http://cardamonchai.com/2018/02/muckross-house-und-torc-waterfall-irland/">Wandern</a>.
-Wer jetzt neugierig ist, kann sie
-<a href="https://www.peek-cloppenburg.de/modemarken/armedangels/" target="_blank" rel="noopener">bei
-Peek &amp; Cloppenburg einfach anprobieren</a>.
+[bei Peek &amp; Cloppenburg einfach anprobieren](/2018/02/wie-vegan-ist-moeglich/).
 
 ## Feel Good Food
 
 Neben Keksen und Tee gibt es noch ein paar Naschereien, die auf dem Sofa für
 gute Stimmung sorgen. Ein Bisschen frisches Obst mit Nüssen und Soja- oder
 Kokos-Joghurt zum Beispiel. Ganz besonders toll sind auch selbst gemachte
-<a href="http://cardamonchai.com/2016/12/gruenkohlchips-selbst-gemacht/">Kale-Chips</a>
-oder <a href="http://cardamonchai.com/2017/08/doerrautomat/">getrocknete
-Beeren</a>. Oder wie wäre es mit
-<a href="http://cardamonchai.com/2017/12/heisse-maronen-selbstgemacht/">heißen
-Maronen</a>?
+[heißen Maronen](/2016/12/gruenkohlchips-selbst-gemacht/) ?
 
 Im Anschluss an den Mittagsschlaf und ein paar spannende Lesestunden bearbeite
 ich dann gerne ein paar Bilder am Laptop oder chatte mit einer lieben Freundin
@@ -113,9 +96,8 @@ und so lege ich sie gerne auf den Sonntag.
 Wenn es Richtung Abend geht, steht noch ein Highlight des Tages bevor: Das
 Abendessen! Am liebsten lasse ich mich ja von meinem Herzmann bekochen, denn er
 denkt sich die tollsten Gerichte aus. Wie wäre es diesen Sonntag zum Beispiel
-mal wieder mit
-<a href="http://cardamonchai.com/2016/01/seitan-a-la-herzmann/">selbst gemachtem
-Seitan</a>, Schatz? Schaatz? Schaaatz!
+mal wieder mit [selbst gemachtem Seitan](/2016/01/seitan-a-la-herzmann/),
+Schatz? Schaatz? Schaaatz!
 
 Im Anschluss an die gemütliche Dinnerrunde schauen wir uns dann gerne noch
 gemeinsam vom Sofa aus noch den Tatort an. Ja, ich bekenne mich hiermit auch als
@@ -142,10 +124,9 @@ Sinne wünsche ich Euch einen gemütlichen Sonntag. Entspannt Euch!
 PS: Wenn die Beatles tatsächlich plötzlich bei mir auftauchen würden, würde ich
 selbstverständlich das Sofa für sie freimachen. Mehr Fotos dieser Art findet ihr
 in meinem Beitrag über
-<a href="http://cardamonchai.com/2014/04/st-patricks-day-in-london/">das
-Londoner Wachsfigurenkabinett Madame Tussauds</a>.
+[das Londoner Wachsfigurenkabinett Madame Tussauds](/2014/04/st-patricks-day-in-london/).
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

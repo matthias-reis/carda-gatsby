@@ -93,12 +93,11 @@ quadratische 6 x 6 Zentimeter Negativformat Hasselblatt-Mittelformatkamera.
 
 Die nächste Reihe mit dem Namen 33 STILL LIVES von 1997 bis 1999 besitzt
 hingegen einen strukturell wesentlich geplanteren Aufbau. Man muss sie sich
-vorstellen wie ein
-<a href="http://cardamonchai.com/2012/09/muse-the-second-law-ist-da/">Konzeptalbum</a>,
-welches man Lied für Lied hört. Anton befasste sich darin mit den typischen 90er
-Jahre Paparazzi-Fotos. Ihren Stil erhielten sie durch den Einsatz eines
-Blaufilters beim Abziehen der Zwischennegative. Fotografiert wurden sie mit
-einer Polapan-Kamera.
+vorstellen wie ein [Konzeptalbum](/2012/09/muse-the-second-law-ist-da/), welches
+man Lied für Lied hört. Anton befasste sich darin mit den typischen 90er Jahre
+Paparazzi-Fotos. Ihren Stil erhielten sie durch den Einsatz eines Blaufilters
+beim Abziehen der Zwischennegative. Fotografiert wurden sie mit einer
+Polapan-Kamera.
 
 INWARDS AND ONWARDS von 1996 bis 2011 besteht aus Nahaufnahmen von Künstlern,
 Sportlern und anderen Promis. Den Fotos sieht man die Intimität, in der sich der
@@ -128,7 +127,7 @@ Niederländischen Strijn zur Welt. Als er 19 Jahre alt war, folgte der Sohn eine
 Pfarrers seiner Berufung und wurde Fotograf. Zu besonderer Berühmtheit gelangte
 er durch seine Aufnahmen von Künstlern und Bands wie Henry Rollins, Joy
 Division, U2, Nick Cave, Tom Waits und Trent Reznor von
-<a href="https://cardamonchai.com/tag/nine-inch-nails/">Nine Inch Nails</a>.
+[Nine Inch Nails](/tag/nine-inch-nails/).
 
 ## Ian Curtis und Kurt Cobain
 
@@ -180,5 +179,4 @@ Karten für die Anton Corbijn Ausstellung kosten zwischen sechs (Kinder) und neu
 Euro (Erwachsene).
 
 <strong>Quellen:</strong>
-<a href="https://www.buceriuskunstforum.de/" target="_blank" rel="noopener">Bucerius
-Kunst Forum</a>, Wikipedia
+[Bucerius Kunst Forum](https://www.buceriuskunstforum.de/), Wikipedia

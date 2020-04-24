@@ -56,9 +56,9 @@ aus man die malerische finnische Seenplatte bewundern kann, zu sehen.
 ## Wegweiser Finnland 2016
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Sommer auf der Ostsee - Überfahrt nach Finnland</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/helsinki-schoenheit-an-der-ostsee/">Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel - Auf jeder Statue eine Möwe</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/gaense-helsinki/">Gänse - Weißwangengänse - Gefiederte Finnland-Einwanderer</a></li>
+    <li> [Sommer auf der Ostsee - Überfahrt nach Finnland](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) </li>
+    <li> [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/) </li>
+    <li> [Seevögel - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/) </li>
+    <li> [Gänse - Weißwangengänse - Gefiederte Finnland-Einwanderer](/2016/08/gaense-helsinki/) </li>
     <li>Kuopio - Korttelimuseo</li>
 </ol>

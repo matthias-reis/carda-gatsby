@@ -57,15 +57,7 @@ Ich habe festgestellt, dass sich meine Aktivität, was das Blogschreiben
 betrifft, in der letzten Zeit ziemlich reduziert hat. Das mag am erhöhten
 Termindruck in den letzen Wochen liegen (Was mir, etwas reflektierend
 betrachtet, jedoch eher wie eine passende Ausrede vorkommt), vor allem aber an
-der steigenden Zahl meiner <a href="http://twitter.com/#!/Carda_Mon">Tweets</a>.
-Twitter läuft nebenbei, sobald mir etwas in den Sinn kommt, habe ich es auch
-schon geschrieben. Verschenke ich meine Ideen an Twitter? Oder handelt es sich
-dabei um das ideale Medium, meiner Schreibweise gerecht zu werden, meine
-Gedanken zum Ausdruck zu bringen? Auch einige meiner Blogeinträge bestehen aus
-einer Aneinanderreihung kurzer, scheinbar nicht zusammenhängender Sätze. Einige
-betrachten das Twittern ja auch als Kunst. In 140 Zeichen alles zu sagen, was
-man der Welt mitteilen möchte. Daraus entstehen sogar lesenswerte
-<a href="http://haekelschwein.de/buch.htm">Bücher.</a>
+der steigenden Zahl meiner [Bücher.](http://twitter.com/#!/Carda_Mon)
 
 Aber ist es nicht genau das, was wir vermeiden sollten, um unsere Sprache zu
 erhalten? Kurze, abgehackte, "digitale" Sätze? Ist nicht genau das, was wir

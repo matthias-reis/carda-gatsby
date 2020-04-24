@@ -40,13 +40,12 @@ Jetzt wollt Ihr sicher wissen, was es damit auf sich hat und wie man diesen
 wundervollen Wanderpokal an tolle Blogger weitergeben kann, oder? Das geht ganz
 einfach:
 
-<ul><li>Nominierung in einem Blogartikel veröffentlichen und mit dem "Best Blog Award"-Bild versehen.</li><li><a title="queenofnerds" href="http://lautundungewoehnlich.wordpress.com/" target="_blank" rel="noopener">Dem lieben Blogger</a>, von dem man den Award bekommen hat danken (ist hiermit geschehen)</li><li>Ein kleines Interview, bestehend aus 11 Fragen beantworten</li><li>Den Wanderpokal an 5-76 weitere Blogs verleihen</li><li>Den Bloggern Bescheid geben, dass den Blog Award bekommen haben</li></ul>
+<ul><li>Nominierung in einem Blogartikel veröffentlichen und mit dem "Best Blog Award"-Bild versehen.</li><li> [Dem lieben Blogger](http://lautundungewoehnlich.wordpress.com/),  von dem man den Award bekommen hat danken (ist hiermit geschehen)</li><li>Ein kleines Interview, bestehend aus 11 Fragen beantworten</li><li>Den Wanderpokal an 5-76 weitere Blogs verleihen</li><li>Den Bloggern Bescheid geben, dass den Blog Award bekommen haben</li></ul>
 
 Was mich ein Bisschen wunderte: Die Fragen sind immer dieselben und drehen sich
 größtenteils um das Thema Beauty. Ich blogge zwar grundsätzlich eher über
-<a title="Festivalliste 2013" href="//2013/03/28/die-ultimative-festivalliste-2013/" target="_blank" rel="noopener">Festivals</a>,
-Musik und anderen Blödsinn, stelle mich aber hiermit gerne dieser
-Herausforderung. :-)
+[Festivals](//2013/03/28/die-ultimative-festivalliste-2013/), Musik und anderen
+Blödsinn, stelle mich aber hiermit gerne dieser Herausforderung. :-)
 
 ## Nun also zu den 11 Fragen:<em><strong>1.) Wann und warum hast Du Dein Blog gegründet?</strong></em>
 
@@ -58,8 +57,7 @@ Sachen auf, seit ich einen Stift halten kann. Die Aufzeichnungen gehen zurück
 bis ca. 1988. Das mit dem Bleistift habe ich übrigens beibehalten. Bevor etwas
 in meinem Blog landet, landet es erst mal grau auf weiß auf meinem Block oder in
 meinem Notizbuch. Daher kommt auch der Name für meine Blogrubrik
-<a title="Bleistift 2.0" href="//category/bleistift-2-0/" target="_blank" rel="noopener">Bleistift
-2.0</a>.
+[Bleistift 2.0](//category/bleistift-2-0/).
 
 2010 bin ich dann mit Sack und Pack auf Wordpress umgezogen. Auch weil ich
 damals bei einem großen Online-Portal mit lokalem Bezug arbeitete und nachdem
@@ -68,8 +66,8 @@ Artikel suchte. Und natürlich auch für den Kram, den ich bis dahin bei myspace
 und auf meinem Notizblock verzapft hatte. Ich habe die Artikel bei meinem Umzug
 zum größten Teil mit dem Originaldatum übernommen, weshalb meine Timeline hier
 bis 2008 zurückreicht. Dieses Jahr habe ich dann
-<a title="jubiläum" href="//2013/04/16/hoch-die-tassen-jubilaum/" target="_blank" rel="noopener">mein
-3-jähriges Wordpress-Jubiläum</a> gefeiert.
+[mein 3-jähriges Wordpress-Jubiläum](//2013/04/16/hoch-die-tassen-jubilaum/)
+gefeiert.
 
 Die Frage nach dem Warum lässt sich ganz leicht beantworten: Ich würde eingehen,
 würde ich nicht schreiben.
@@ -120,10 +118,9 @@ Ich küsse grundsätzlich kein Papier
 <em><strong>8.) Deine Wohnung steht in Flammen und Du hast Zeit 3 Beautyprodukte
 aus dem Flammen zur retten. Welche sind das?</strong></em>
 
-Meine beiden Kater
-<a title="Katerchens" href="//2012/08/30/ode-an-den-kater/" target="_blank" rel="noopener">Chili
-und Oskar</a><em><strong>9.) Worauf kannst Du beim Shoppen eher verzichten?
-Schuhe, Kleidung, Make-up oder Schokolade?</strong></em>
+Meine beiden Kater [Chili und Oskar](//2012/08/30/ode-an-den-kater/)
+<em><strong>9.) Worauf kannst Du beim Shoppen eher verzichten? Schuhe, Kleidung,
+Make-up oder Schokolade?</strong></em>
 
 Ich esse echt lieber Eis.
 
@@ -131,14 +128,14 @@ Ich esse echt lieber Eis.
 
 Lidschatten
 
-<em><strong>11.) Ich verlasse das Haus nie
-ohne?</strong></em><a title="Twitter" href="https://twitter.com/Anne_Reko" target="_blank" rel="noopener">Twitter</a>
+<em><strong>11.) Ich verlasse das Haus nie ohne?</strong></em>
+[Twitter](https://twitter.com/Anne_Reko)
 
 Und nun kommt der Moment, in dem der Elefant das Wasser lässt (sorry für die
 Ausdrucksweise, aber den wollte ich schon immer mal bringen und habe mich noch
 nie getraut!) Trommelwirbel! Hier sind meine Nominierungen für den Best Blog
 Award!
 
-<ol><li>Liebste Modebloggerin auf der Welt und obendrein noch ne tolle Kollegin:<a title="Taylormaid" href="http://taylormaid.wordpress.com/" target="_blank" rel="noopener"> Banned From The Style! - taylormaid</a></li><li>Die Beste und gleichzeitig noch ne tolle Rezepterfinderin: <a title="Tofutante" href="http://tofutante.wordpress.com/" target="_blank" rel="noopener">Tofutante</a></li><li>Wenn ich sie öfter sehen würde, hätte sie vermutlich am ganzen Körper Druckstellen von meinen Umarmungen: die süße <a title="Hoochi" href="http://hoochi1107.wordpress.com/" target="_blank" rel="noopener">Hoochi1107</a></li><li>Schreibt unglaublich tolles, wirres Zeug und ich möchte einfach, dass er diese Fragen beantwortet: <a title="WWB" href="http://wirre-welt-berlin.com/" target="_blank" rel="noopener">Wirre Welt Berlin</a></li><li>Sie sammelt genau wie ich bunten Kram und mag Bücher. Was mir wiederum gefällt. Ich mag: <a title="Anlis" href="http://anlisunendlichegeschichte.wordpress.com">Anlis</a></li></ol><strong>An alle die ich leider nicht nominiert habe: Leider gab es heute nur 5 Pokale zu vergeben. Ihr seid natürlich trotzdem toll!
-</strong>## Alle Awards, die diesem Blog bisher verliehen wurden</strong><ul><li><a href="http://cardamonchai.com/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/">Erbeerkuchen mit Grün 2011</a></li><li>Best Blog Award 2013</li><li><a href="http://cardamonchai.com/2014/11/and-the-nominees-are/">Liebster Blog Award 2014</a></li><li><a href="http://cardamonchai.com/2017/01/liebster-blog-award-2017-01/">Liebster Blog Award 2017</a></li><li><a href="http://cardamonchai.com/2017/10/mystery-blogger-award-mein-blog-ist-dabei/">Mystery Blogger Award 2017</a></li></ul><a class="banner banner-green" href="http://cardamonchai.com/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf" target="_blank" rel="noopener"><span class="head">Die ultimative Festivalliste</span><span class="text">Jetzt runterladen und ausdrucken
+<ol><li>Liebste Modebloggerin auf der Welt und obendrein noch ne tolle Kollegin: [Anlis](http://taylormaid.wordpress.com/) </li></ol><strong>An alle die ich leider nicht nominiert habe: Leider gab es heute nur 5 Pokale zu vergeben. Ihr seid natürlich trotzdem toll!
+</strong>## Alle Awards, die diesem Blog bisher verliehen wurden</strong><ul><li> [Mystery Blogger Award 2017](/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/) </li></ul><a class="banner banner-green" href="http://cardamonchai.com/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf" target="_blank" rel="noopener"><span class="head">Die ultimative Festivalliste</span><span class="text">Jetzt runterladen und ausdrucken
 </span></a>

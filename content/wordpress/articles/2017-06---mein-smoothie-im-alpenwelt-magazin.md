@@ -42,13 +42,8 @@ meine digitale Tür und fragte an, ob ich vielleicht einen Smoothie zu ihrem
 aktuellen Artikel beisteuern möchte. Natürlich sagte ich nicht nein.</strong>
 
 Vor gar nicht allzu langer Zeit erlangte schon mein Glasnudelsalat
-<a href="http://cardamonchai.com/2017/04/veganer-glasnudelsalat-made-by-anne-goes-otto-versand/">über
-den Blog des Otto Versandes</a> unverhofft Berühmtheit. Nun greift auch mein
-Smoothie nach den Sternen. Oder nach dem Gipfelkreuz. Das <em>Alpenwelt
-Magazin</em> erstellte einen Beitrag über gesunde Getränke und hat darum
-kurzerhand bei mir angefragt, ob es meinen
-<a href="http://cardamonchai.com/2017/04/hanf-banane-himbeer-smoothie/">Hanf
-Banane Himbeer Reigen</a> anteasern darf.
+[Hanf Banane Himbeer Reigen](/2017/04/veganer-glasnudelsalat-made-by-anne-goes-otto-versand/)
+anteasern darf.
 
 ## Im Alpenwelt Magazin gibt es auch gesunde Leckereien
 
@@ -70,17 +65,15 @@ Vielen Dank, liebes <em>Alpenwelt Magazin</em>, dass ich mitmachen durfte!
 Meldet Euch gerne wieder, wenn Ihr gesunde Rezepte braucht. Ich bin dabei. :-)
 
 <em>Wer jetzt neugierig ist und gerne mal im Alpenwelt Magazin stöbern möchte,
-<a href="http://www.alpenwelt-versand.com/magazin/erfrischende-sommergetraenke/#hanf" target="_blank" rel="noopener">kann
-das jederzeit unter diesem Link tun</a>. Dort findet Ihr auch denk kompletten
-Artikel mit allen Rezepten.</em>
+[kann das jederzeit unter diesem Link tun](http://www.alpenwelt-versand.com/magazin/erfrischende-sommergetraenke/#hanf).
+Dort findet Ihr auch denk kompletten Artikel mit allen Rezepten.</em>
 
 Wer nach dem Bergsteigen etwas mehr Hunger hat, der findet hier im Blog ein
 schmackhaftes
-<a href="http://cardamonchai.com/2017/01/vegane-gemuese-quiche-a-la-herzmann/">Rezept
-für eine herzhafte, vegane Quiche</a>. Ich kann nur so viel verraten: Liebe geht
-durch den Magen!
+[Rezept für eine herzhafte, vegane Quiche](/2017/01/vegane-gemuese-quiche-a-la-herzmann/).
+Ich kann nur so viel verraten: Liebe geht durch den Magen!
 
 Weitere Veröffentlichungen von mir auf anderen Seiten
-<a href="/andere-blogs/">findet Ihr hier</a>.
+[findet Ihr hier](/andere-blogs/).
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

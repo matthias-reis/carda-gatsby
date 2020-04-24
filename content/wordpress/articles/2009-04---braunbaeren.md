@@ -45,9 +45,8 @@ Leider wurde der Braunbär als vemeintlicher Nahrungskonkurrent des Menschen
 nahezu ausgerottet. Deshalb gibt es in West- und Mitteleuropa nur noch kleinere
 nachgezüchtete Gruppen. In Österreich ist eine kleinere Gruppe dauerhaft
 sesshaft geworden, in anderen Alpenländern wandern ab und an einzelne Exemplare
-herum. Siehe z.B
-<a href="http://jetzt.sueddeutsche.de/texte/anzeigen/318266">Bruno</a>, dessen
-Leben 2006 ein jähes Ende fand.
+herum. Siehe z.B [Bruno](http://jetzt.sueddeutsche.de/texte/anzeigen/318266),
+dessen Leben 2006 ein jähes Ende fand.
 
 <strong>Braunbären</strong> haben, wie alle Bärenarten, einen schweren Kopf,
 unterscheiden sich aber deutlich vom oft ähnlich gefärbten Amerikanischen
@@ -57,8 +56,7 @@ Das Fell ist normalerweise dunkelbraun gefärbt, kann aber eine ganze Reihe von
 Farbschattierungen annehmen. Es kann gelbbraun, graubraun oder sogar fast
 schwarz gefärbt sein. Tiere in den Rocky Mountains haben oft ein weißgrau
 gesprenkeltes Oberfell, dem sie den Namen "Grizzly" verdanken
-<a href="http://dict.leo.org/?lp=ende&amp;from=fx3&amp;search=grizzly">grizzly =
-englisch - gräulich</a>
+[grizzly = englisch - gräulich](http://dict.leo.org/?lp=ende&from=fx3&search=grizzly)
 
 Der Kodiakbär lebt auf den Inseln vor der Südküste Alaskas, Afognak, Shuyak und
 Kodiak, daher sein Name.
@@ -77,5 +75,4 @@ sind aber <strong>Allesfresser</strong>. So kommen bei Familie Petz, je nach
 Saison und Lebensraum, Beeren, Blüten, Wurzeln, Kräuter, Gräser, Fisch,
 Insekten, kleine Nagetiere oder auch Vögel auf den Tisch.
 
-<a href="http://cardamonchai.com/2015/04/wie-ich-zu-zoos-stehe/">Wie ich zu Zoos
-stehe</a><strong></strong>
+[Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/) <strong></strong>

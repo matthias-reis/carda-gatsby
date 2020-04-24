@@ -81,10 +81,6 @@ ids="11347,11338,11336,11335,11334,11341,11342,11339,11343,11346,11345,11337"]
 
 Die nehm' ich auch gleich mit zum nächsten Festival!
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)
 
-[1]
-<a href="http://www.vegan-news.de/handgemachte-haekelmuetzen-wear-your-own-bommel/">WYOB
-bei Vegan News</a>
+[1][wyob bei vegan news](http://www.vegan-news.de/handgemachte-haekelmuetzen-wear-your-own-bommel/)

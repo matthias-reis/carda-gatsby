@@ -77,8 +77,7 @@ Denk mal drüber nach.
 ## Noch mehr "Schule des Lebens" gefällig?
 
 Interviews mit vielen tollen Persönlichkeiten
-<a href="http://cardamonchai.com/category/bleistift-2-0/interview/">findet Ihr
-hier.</a>
+[findet Ihr hier.](/category/bleistift-2-0/interview/)
 
 Zum Artikel gibt es hier noch eine kleine Erinnerung. Viel Spaß damit.
 

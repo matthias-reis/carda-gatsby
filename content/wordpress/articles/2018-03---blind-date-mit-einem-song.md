@@ -97,8 +97,8 @@ bekommt einen Schlag auf die Nase und: Blackout.
 Maskierte Menschen in dunkler Kleidung greifen fröhlich bunte Endzeithippies in
 Pastell-(Flanell-) Hemden an. Diese lassen sich das nicht gefallen und schlagen
 zurück. Mit eingängiger Musik und coolen Moves.
-<a href="http://cardamonchai.com/2017/07/nog20/">Wie man das auslegen
-könnte</a>? In der heutigen Zeit? Ich denke noch darüber nach.
+[Wie man das auslegen könnte](/2017/07/nog20/) ? In der heutigen Zeit? Ich denke
+noch darüber nach.
 
 Das Lied jedoch hat sich endlich wieder da eingenistet, wo es hingehört: In die
 kleine Gehirnecke direkt hinter meinem linken Ohr, die für die guten Ohrwürmer
@@ -126,36 +126,32 @@ Ja, so war das damals. Ich werde alt.
 ## Teilnehmer am Blind Date mit "Peaches" von den Presidents Of The United States
 
 <ul>
-    <li><a href="https://gartenbaukunst.wordpress.com/" target="_blank" rel="noopener">Gartenbaukunst</a></li>
-    <li><a href="https://www.hauptstadtgarten.de/" target="_blank" rel="noopener">Hauptstadtgarten</a></li>
-    <li><a href="https://www.beetkultur.de/" target="_blank" rel="noopener">Beetkultur</a></li>
-    <li><a href="http://der-kleine-horror-garten.de/" target="_blank" rel="noopener">Der kleine Horrorgarten</a></li>
-    <li><a href="https://karotinasblog.wordpress.com/" target="_blank" rel="noopener">Karo-Tina Aldente</a></li>
-    <li><a href="http://millibloom.com/" target="_blank" rel="noopener">Milli Blohm</a></li>
-    <li><a href="https://rienmakaefer.com/blog/" target="_blank" rel="noopener">Rienmakäfer</a></li>
-    <li><a href="https://garteneuphorie.wordpress.com/" target="_blank" rel="noopener">Garteneuphorie</a></li>
-    <li><a href="http://xn--grneliebe-r9a.de/" target="_blank" rel="noopener">Grünliebe</a></li>
-    <li><a href="http://www.garteninspektor.com/" target="_blank" rel="noopener">Garteninspektor</a></li>
-    <li><a href="http://faunundfarn.de/" target="_blank" rel="noopener">Faun &amp; Farn</a></li>
-    <li><a href="https://mrsgreenhouse.de/" target="_blank" rel="noopener">Mrs. Greenhouse</a></li>
-    <li><a href="http://www.buddenbohm-und-soehne.de/" target="_blank" rel="noopener">Buddenbohm &amp; Söhne</a></li>
-    <li><a href="https://www.syl-gervais.com/" target="_blank" rel="noopener">Syl Gervais</a></li>
-    <li><a href="https://cardamonchai.com">Anne bloggt cardamonchai - Rock 'n' Roll vegan</a></li>
+    <li> [Gartenbaukunst](https://gartenbaukunst.wordpress.com/) </li>
+    <li> [Hauptstadtgarten](https://www.hauptstadtgarten.de/) </li>
+    <li> [Beetkultur](https://www.beetkultur.de/) </li>
+    <li> [Der kleine Horrorgarten](http://der-kleine-horror-garten.de/) </li>
+    <li> [Karo-Tina Aldente](https://karotinasblog.wordpress.com/) </li>
+    <li> [Milli Blohm](http://millibloom.com/) </li>
+    <li> [Rienmakäfer](https://rienmakaefer.com/blog/) </li>
+    <li> [Garteneuphorie](https://garteneuphorie.wordpress.com/) </li>
+    <li> [Grünliebe](http://xn--grneliebe-r9a.de/) </li>
+    <li> [Garteninspektor](http://www.garteninspektor.com/) </li>
+    <li> [Faun &amp; Farn](http://faunundfarn.de/) </li>
+    <li> [Mrs. Greenhouse](https://mrsgreenhouse.de/) </li>
+    <li> [Buddenbohm &amp; Söhne](http://www.buddenbohm-und-soehne.de/) </li>
+    <li> [Syl Gervais](https://www.syl-gervais.com/) </li>
+    <li> [Anne bloggt cardamonchai - Rock 'n' Roll vegan]() </li>
 </ul>
 
 ## Wegweiser Blind Date mit einem Song
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/">Eels - "I Like Birds"</a></li>
-    <li><a href="http://cardamonchai.com/2017/07/blind-date-summerwine/">Nancy Sinatra - "Summer Wine"</a></li>
+    <li> [Eels - "I Like Birds"](/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/) </li>
+    <li> [Nancy Sinatra - "Summer Wine"](/2017/07/blind-date-summerwine/) </li>
     <li>The Presidents Of the United States - "Peaches"</li>
 </ol>
 
 <em>To be continued...</em>
 
 <b>Bilder: </b>Titel: Presidents Of The United States, Artwort; erstes Bild im
-Text:
-<a href="https://pixabay.com/de/users/Couleur-1195798/" target="_blank" rel="noopener">Coulour</a>,
-Pixabay; zweites Bild im Text;
-<a href="https://pixabay.com/de/users/Free-Photos-242387/" target="_blank" rel="noopener">Free
-Photos</a>, Pixabay
+Text: [Free Photos](https://pixabay.com/de/users/Couleur-1195798/), Pixabay

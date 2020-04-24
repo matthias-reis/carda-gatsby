@@ -58,9 +58,9 @@ subTitle: Niehoffs Vaihinger ist jetzt vegan
 gehören Marken wie afri cola, Klindworth Fruchtsäfte und Schorlen,
 Niehoffs <span class="il">Vaihinger</span> Säfte, Lindavia und Merziger. Man war
 beim Stöbern hier im Blog auf
-<a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">meinen
-Artikel</a> zum Thema versteckte tierische Inhaltsstoffe gestoßen und hatte eine
-gute Nachricht für mich:</strong>
+[meinen Artikel](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+zum Thema versteckte tierische Inhaltsstoffe gestoßen und hatte eine gute
+Nachricht für mich:</strong>
 
 "Du kannst unsere Produkte jetzt auch in Deine Liste der veganen Getränke
 aufnehmen! Wir können heute mit gutem Gewissen sagen, dass all unsere Getränke
@@ -133,15 +133,14 @@ Nachhaltigkeitspunkt extra. Auf den Geschmack und die Frische wirkt sich das
 sicher auch positiv aus.
 
 Von mir bekommt Ihr also eine klare Empfehlung. Und in
-<a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">meine
-Liste</a> nehme ich die Getränke von Niehoffs Vaihinger selbstverständlich mit
-Freuden auf. Ich finde es toll, dass immer mehr Firmen die Zeichen der Zeit
-erkennen und auf vegan setzen.
+[meine Liste](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+ nehme ich die Getränke von Niehoffs Vaihinger selbstverständlich mit Freuden
+auf. Ich finde es toll, dass immer mehr Firmen die Zeichen der Zeit erkennen und
+auf vegan setzen.
 
 [gallery type="columns" size="medium" link="none" columns="2"
 ids="20359,20357,20363,20362,20358,20355,20364,20361"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

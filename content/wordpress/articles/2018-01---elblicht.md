@@ -33,10 +33,8 @@ subTitle: Flarfgedicht zum Jahresanfang
 ---
 
 <strong>Könnt Ihr Euch noch an meine Flarfgedichte erinnern? Das letzte ist im
-letzten Februar
-<a href="http://cardamonchai.com/2017/02/dauerregen-stpauli/">hier im Blog
-erschienen</a>. Höchste Zeit, Euch endlich mal wieder eins zu präsentieren.
-</strong>
+letzten Februar [hier im Blog erschienen](/2017/02/dauerregen-stpauli/). Höchste
+Zeit, Euch endlich mal wieder eins zu präsentieren. </strong>
 
 Was gäbe es dafür für einen schöneren Anlass, als das Licht auf der Elbe zum
 Jahresanfang?
@@ -46,7 +44,7 @@ Jahresanfang?
 Flarf-Gedichte entstehen aus zusammengesetzten Ergebnissen, die die Suchmaschine
 ausspuckt, wenn man bestimmte Begriffe eingibt. Eine genaue Erklärung ist in
 meinem Blog
-<a href="http://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/">hier</a>
+[hier](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/)
 zu finden. In diesem Fall habe ich mich für die Suchwörter "Elbe" und "Licht"
 entschieden.
 
@@ -70,24 +68,24 @@ ids="18844,18847,18848,18845,18843"]
 ## Flarf-Gedichte Wegweiser
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/">Die Poesie der Vernetzung</a></li>
-    <li><a href="/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/">Straßenlaternen der Welt</a></li>
-    <li><a href="/2016/03/sonne-und-frieden/">Sonne und Frieden</a></li>
-    <li><a href="http://cardamonchai.com/2016/04/manieren-der-boshaftigkeit/">Manieren der Boshaftigkeit</a></li>
-    <li><a href="/2016/05/das-uebersetzte-wetter-im-spiegel/">Das übersetzte Wetter im Spiegel</a></li>
-    <li><a href="http://cardamonchai.com/2016/10/die-seltsame-stimmung-der-knalligen-blueten/">Die seltsame Stimmung der knalligen Blüten</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/">Elbe schwarz-weiß bunt</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/drei-koenige/">Pizza und Backgammon</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/liebe-sternschanze/">Liebe Sternschanze</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/haters-rest-in-poetry/">Haters rest in poetry</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/die-sehnsucht-der-postmoderne/">Die Sehnsucht der Postmoderne</a></li>
-    <li><a href="http://cardamonchai.com/2017/02/dauerregen-stpauli/">In den Straßen von St. Pauli</a></li>
+    <li> [Die Poesie der Vernetzung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/) </li>
+    <li> [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/) </li>
+    <li> [Sonne und Frieden](/2016/03/sonne-und-frieden/) </li>
+    <li> [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/) </li>
+    <li> [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/) </li>
+    <li> [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/) </li>
+    <li> [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/) </li>
+    <li> [Pizza und Backgammon](/2017/01/drei-koenige/) </li>
+    <li> [Liebe Sternschanze](/2017/01/liebe-sternschanze/) </li>
+    <li> [Haters rest in poetry](/2017/02/haters-rest-in-poetry/) </li>
+    <li> [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/) </li>
+    <li> [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/) </li>
     <li>Elblicht - Jahresanfang an der Elbe</li>
-    <li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/">Jahreszeiten an der Brücke</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/amsterdam/">Amsterdam - Grachten und Gassen</a></li>
-    <li><a href="http://cardamonchai.com/2018/04/abschied-von-dir/">Abschied von Dir - Tschüss, mach es gut</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai - Gegensätze</a></li>
+    <li> [Möwe am Wasser](/2018/01/moewe-am-wasser/) </li>
+    <li> [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/) </li>
+    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
+    <li> [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/) </li>
+    <li> [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/) </li>
 </ol>
 
 &nbsp;

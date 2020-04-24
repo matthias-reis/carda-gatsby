@@ -47,24 +47,5 @@ Roggenbrot und rötlichen Zibeben.
 
 Oh Mensch, du wirst nie nebenbei der Möwe Flug erreichen. Wofern du Emma
 heißest, sei zufrieden, ihr zu gleichen.</blockquote>## Wegweiser
-Möwen<ol><li>Möwen am Bosporus
-(Januar 2010)</li><li><a href="/2015/07/zurueck-nach-st-peter-ording/">Zurück
-nach St. Peter Ording
-(Juli 2015)</a></li><li><a href="/2015/08/st-peter-ording/">St. Peter Ording -
-Perle an der Nordsee
-(August 2015)</a></li><li><a href="/2015/11/birdwatching-am-timmendorfer-strand/">Birdwatching
-am Timmendorfer Strand
-(November 2015)</a></li><li><a href="http://cardamonchai.com/2015/11/die-moewe/">Die
-Möwe, Kiel
-(November 2015)</a></li><li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf
-der Brücke
-(Januar 2016)</a></li><li><a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Sommer
-auf der Ostsee - Möwen vor Helsinki
-(Juni 2016)</a></li><li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel
-in Helsinki - Auf jeder Statue eine Möwe
-(Juni 2016)</a></li><li><a href="http://cardamonchai.com/2017/10/moewen-in-dublin/">Möwen
-in Dublin - Bunte Bilderserie mit original Irischen Seevögeln
-(September 2017)</a></li><li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe
-am
-Wasser</a></li><li><a href="http://cardamonchai.com/2018/05/birds-of-westport/">Birds
-Of Westport</a></li></ol>
+Möwen<ol><li>Möwen am Bosporus (Januar 2010)</li><li>
+[Birds Of Westport](/2015/07/zurueck-nach-st-peter-ording/) </li></ol>

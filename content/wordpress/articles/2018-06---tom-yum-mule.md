@@ -39,7 +39,7 @@ gleichermaßen auf ihren Geschmack.
 ## Zutaten für zwei Gläser
 
 <ul>
-    <li>4 cl <a href="http://cardamonchai.com/2018/05/bio-eistee-konzentrate-von-teatime-im-test/">Eisteekonzentrat Lemongras</a> oder anderen Lemongras-Sirup</li>
+    <li>4 cl  [Eisteekonzentrat Lemongras](/2018/05/bio-eistee-konzentrate-von-teatime-im-test/)  oder anderen Lemongras-Sirup</li>
     <li>6 cl Gin</li>
     <li>1/2 Limette</li>
     <li>500 ml Root Beer (z. B. T. H. "Spicy Ginger")</li>

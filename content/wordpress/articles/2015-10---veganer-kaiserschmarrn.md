@@ -63,5 +63,5 @@ Fertig! Guten Appetit!
 Dazu serviert Ihr am besten frisches Obst, Nüsse oder Rosinen. Ihr könnt den
 Kaiserschmarrn auch mit Puderzucker oder Mandelsplittern bestreuen.
 
-Lust auf Chiapudding? <a href="/2015/02/chiapudding/">Das ultimative Rezept
-findet Ihr hier</a>.
+Lust auf Chiapudding?
+[Das ultimative Rezept findet Ihr hier](/2015/02/chiapudding/).

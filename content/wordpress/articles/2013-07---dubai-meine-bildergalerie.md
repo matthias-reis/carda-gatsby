@@ -39,4 +39,4 @@ wunderschöne Tage. Hier sind meine Bilder für Euch.
 [gallery columns="1" type="rectangular"
 ids="6087,6086,6089,6090,6091,6095,6094,6093,6092,6096,6097,6098,6099,6100,6101,6102,6103,6107,6106,6105,6104,6108,6109,6110,6111,6115,6116,6117"]
 
-<ol><li><a href="http://cardamonchai.com/2013/07/dubai/">Dubai</a></li><li><a href="/2013/07/traditioneller-barong-tanz-auf-bali/">Traditioneller Barongtanz auf Bali</a></li><li><a href="/2013/08/handwerk-und-kunst-auf-bali/">Handwerk und Kunst auf Bali</a></li><li><a href="/2013/08/bali-aus-dem-autofenster/">Bali aus dem Autofenster</a></li><li><a href="/2013/08/flora-fauna-ackerbau-und-viehzucht-auf-bali/">Flora und Fauna auf Bali</a></li><li><a href="http://2013/08/tempel-und-religion-auf-bali/">Tempel und Religion auf Bali</a></li><li><a href="/2013/08/dubai-und-bali-in-polaroids/">Dubai und Bali in Polaroids</a></li></ol>
+<ol><li> [Dubai und Bali in Polaroids](/2013/07/dubai/) </li></ol>

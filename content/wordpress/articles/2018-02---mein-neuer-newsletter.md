@@ -62,8 +62,7 @@ als Abonnenten/innen erwartet.
 
 Ich wünsche Euch viel Spaß bei Stöbern und heiße Euch herzlich willkommen.
 
-<a href="#newsletter">Weiterlesen könnt Ihr im Newsletter...</a>
+[Weiterlesen könnt Ihr im Newsletter...](#newsletter)
 
-<small>Titelbild:
-<a href="https://pixabay.com/de/users/DieElchin-712186/" target="_blank" rel="noopener">Die
-Elchin</a>/Pixabay</small>
+<small>Titelbild: [Die Elchin](https://pixabay.com/de/users/DieElchin-712186/)
+/Pixabay</small>

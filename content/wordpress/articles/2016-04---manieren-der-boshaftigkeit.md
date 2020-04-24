@@ -67,29 +67,29 @@ Ideale Körpermaße.</blockquote>
 
 [gallery type="rectangular" size="large" link="none" ids="14409,14407"]
 
-<p style="text-align: left;">Mehr über Flarf-Gedicht und wie sie entstehen, <a href="http://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/">erfahrt Ihr hier</a>.</p>
+<p style="text-align: left;">Mehr über Flarf-Gedicht und wie sie entstehen,  [erfahrt Ihr hier](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/). </p>
 
 ## Flarf-Gedichte Wegweiser
 
 <ol>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/">Die Poesie der Vernetzung</a></li>
-    <li style="text-align: left;"><a href="/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/">Straßenlaternen der Welt</a></li>
-    <li style="text-align: left;"><a href="/2016/03/sonne-und-frieden/">Sonne und Frieden</a></li>
+    <li style="text-align: left;"> [Die Poesie der Vernetzung](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/) </li>
+    <li style="text-align: left;"> [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/) </li>
+    <li style="text-align: left;"> [Sonne und Frieden](/2016/03/sonne-und-frieden/) </li>
     <li style="text-align: left;">Manieren der Boshaftigkeit</li>
-    <li style="text-align: left;"><a href="/2016/05/das-uebersetzte-wetter-im-spiegel/">Das übersetzte Wetter im Spiegel</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2016/10/die-seltsame-stimmung-der-knalligen-blueten/">Die seltsame Stimmung der knalligen Blüten</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/">Elbe schwarz-weiß bunt</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2017/01/drei-koenige/">Pizza und Backgammon</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2017/01/liebe-sternschanze/">Liebe Sternschanze</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2017/02/haters-rest-in-poetry/">Haters rest in poetry</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2017/02/die-sehnsucht-der-postmoderne/">Die Sehnsucht der Postmoderne</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2017/02/dauerregen-stpauli/">In den Straßen von St. Pauli</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2018/01/elblicht-flarfgedicht-zum-jahresanfang/">Elblicht</a></li>
-    <li style="text-align: left;"><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li>
-    <li><a href="http://cardamonchai.com/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/">Jahreszeiten an der Brücke</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/amsterdam/">Amsterdam - Grachten und Gassen</a></li>
-    <li><a href="http://cardamonchai.com/2018/04/abschied-von-dir/">Abschied von Dir - Tschüss, mach es gut</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai - Gegensätze</a></li>
+    <li style="text-align: left;"> [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/) </li>
+    <li style="text-align: left;"> [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/) </li>
+    <li style="text-align: left;"> [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/) </li>
+    <li style="text-align: left;"> [Pizza und Backgammon](/2017/01/drei-koenige/) </li>
+    <li style="text-align: left;"> [Liebe Sternschanze](/2017/01/liebe-sternschanze/) </li>
+    <li style="text-align: left;"> [Haters rest in poetry](/2017/02/haters-rest-in-poetry/) </li>
+    <li style="text-align: left;"> [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/) </li>
+    <li style="text-align: left;"> [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/) </li>
+    <li style="text-align: left;"> [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/) </li>
+    <li style="text-align: left;"> [Möwe am Wasser](/2018/01/moewe-am-wasser/) </li>
+    <li> [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/) </li>
+    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
+    <li> [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/) </li>
+    <li> [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/) </li>
 </ol>
 
 &nbsp;

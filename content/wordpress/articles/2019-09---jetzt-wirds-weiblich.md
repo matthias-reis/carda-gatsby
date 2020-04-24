@@ -66,10 +66,10 @@ Geldbörsen selbst genäht.
 ## Eine extrem robuste Lederalternative
 
 Das bisher robusteste Material ist eindeutig das der Feuerwear Stücke.
-<a href="http://cardamonchai.com/2019/02/neue-festivalbegleiter-von-feuerwear/">Mein
-Portemonnaie "Fred"</a> begleitet mich nun schon eine ganze Weile und ist nicht
-kaputtzukriegen und mein Hipbag "Otis" ist bei den letzten Festivals nicht nur
-diverse Male im Schlamm, sondern sogar schon im Wasser gelandet.
+[Mein Portemonnaie "Fred"](/2019/02/neue-festivalbegleiter-von-feuerwear/)
+begleitet mich nun schon eine ganze Weile und ist nicht kaputtzukriegen und mein
+Hipbag "Otis" ist bei den letzten Festivals nicht nur diverse Male im Schlamm,
+sondern sogar schon im Wasser gelandet.
 
 Ich habe ihn schon mit Stickern beklebt und sie wieder abgezogen und mich beim
 Picknick voll auf ihn drauf gesetzt. Er macht einfach alles mit und etwas Patina
@@ -103,12 +103,11 @@ Schlauchinnenseite den Charakter der Tasche aus.
 
 Phil lässt sich für mich wunderbar kombinieren. Ich würde sie sogar zum
 Cocktailkleidchen tragen, mal sehen, wann sich eine Gelegenheit dafür bietet.
-Genau wie
-<a href="http://cardamonchai.com/2019/02/neue-festivalbegleiter-von-feuerwear/">der
-Hipbag "Otis"</a> den ich Euch vor einiger Zeit hier vorgestellt habe, ist sie
-aber auch eine tolle Begleiterin für Festivals und Konzerte. Wenn man direkt aus
-dem Büro dorthin fährt und etwas mehr dabei hat, als nur Geldbörse, Feuerzeug,
-Kamm und Handy zum Beispiel.
+Genau wie [der Hipbag "Otis"](/2019/02/neue-festivalbegleiter-von-feuerwear/)
+den ich Euch vor einiger Zeit hier vorgestellt habe, ist sie aber auch eine
+tolle Begleiterin für Festivals und Konzerte. Wenn man direkt aus dem Büro
+dorthin fährt und etwas mehr dabei hat, als nur Geldbörse, Feuerzeug, Kamm und
+Handy zum Beispiel.
 
 ## Alles auf einen Blick
 
@@ -161,5 +160,4 @@ jetzt auch auf seine Kosten.
 [glry name="feuerwearanne092019"] <em>\*Hinweis: Dieser Beitrag enthält Werbung.
 Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

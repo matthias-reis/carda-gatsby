@@ -37,12 +37,11 @@ thumbnailId: null
 subTitle: Von Genesungswünschen, guten Nachrichten und Erfahrungsberichten
 ---
 
-<strong><a title="Die traurige Geschichte eines tapferen Katers" href="/2013/09/25/die-traurige-geschichte-eines-tapferen-katers/"><span style="text-decoration:underline;"><em>Hier
-gehts zum ersten Teil des Artikels</em></span></a> Ihr habt bestimmt die
-<a title="Die traurige Geschichte eines tapferen Katers" href="/2013/09/25/die-traurige-geschichte-eines-tapferen-katers/" target="_blank">"traurige
-Geschichte eines tapferen Katers"</a> gelesen. Den Leidensweg unseres kleinen,
-felligen Mitbewohners Chili, der innerhalb einer Woche durch fehlerhafte
-Behandlung vom gesunden Stubentiger zum Pflegefall wurde.</strong>
+<strong>
+["traurige Geschichte eines tapferen Katers"](/2013/09/25/die-traurige-geschichte-eines-tapferen-katers/)
+gelesen. Den Leidensweg unseres kleinen, felligen Mitbewohners Chili, der
+innerhalb einer Woche durch fehlerhafte Behandlung vom gesunden Stubentiger zum
+Pflegefall wurde.</strong>
 
 ![Chili und ich](http://cardamonchai.files.wordpress.com/2013/09/9588574715_b8fb54fbc8_o.jpg?w=300 "Chili und ich")
 
@@ -143,6 +142,4 @@ Jessie, all die lieben Twitterer, die meinen Link retweetet haben und alle, die
 an uns denken. Ihr gebt uns im Augenblick sehr viel Kraft. </em>
 
 Ich werde Euch auf jeden Fall weiter auf dem Laufenden halten! Fühlt Euch
-gedrückt! &lt;3
-<a title="Der Fall des Chili R." href="/2013/09/26/der-fall-es-chili-r/"><span style="text-decoration:underline;"><em><strong>Hier
-geht es zu Teil 3 des Artikels</strong></em></span></a>
+gedrückt! &lt;3 [](/2013/09/26/der-fall-es-chili-r/)

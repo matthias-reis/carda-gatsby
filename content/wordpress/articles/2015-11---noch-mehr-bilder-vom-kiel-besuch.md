@@ -28,10 +28,10 @@ subTitle: Instagram-Galerie
 ---
 
 <strong>Vor Kurzem gab es an dieser Stelle schon mal eine
-<a href="http://cardamonchai.com/2015/11/ein-besuch-in-kiel/">Galerie</a> von
-unserem Kiel-Besuch letzte Woche. Heute gibt es noch ein Bisschen mehr zu sehen.
-Die Bilder habe ich dieses Mal nicht mit meiner Kamera aufgenommen, sie stammen
-aus meinem Instagram-Account, sind also Mobiltelefon aufgenommen.</strong>
+[Galerie](/2015/11/ein-besuch-in-kiel/) von unserem Kiel-Besuch letzte Woche.
+Heute gibt es noch ein Bisschen mehr zu sehen. Die Bilder habe ich dieses Mal
+nicht mit meiner Kamera aufgenommen, sie stammen aus meinem Instagram-Account,
+sind also Mobiltelefon aufgenommen.</strong>
 
 Kiel demnach heute mal in Polaroids, ich bin gespannt, wie sie ankommen. Was
 haltet Ihr denn allgemein von der Idee, meine Instagram-Bilder hier
@@ -49,7 +49,7 @@ Nord-Ostsee-Kanal im Wandel der Geschichte, nautische Geräte, Marinemalerei und
 Boote. Durch die Fenster kann man direkt aufs Wasser blicken.
 
 Plant auch Ihr einen Kiel-Besuch? Das
-<a href="http://www.kiel.de/kultur/museum/schifffahrtsmuseum/" target="_blank">Museum</a>
-ist täglich von 10 - 18 Uhr geöffnet , der Eintritt kostet 3 Euro.
+[Museum](http://www.kiel.de/kultur/museum/schifffahrtsmuseum/) ist täglich von
+10 - 18 Uhr geöffnet , der Eintritt kostet 3 Euro.
 
-## Unser Kiel-Besuch - Wegweiser<ol><li><a href="/2015/11/ein-besuch-in-kiel/">Ein Besuch in Kiel</a></li><li><a href="/2015/11/die-moewe/">Die Möwe</a></li><li><a href="/2015/11/noch-mehr-kiel/">Noch mehr Kiel</a></li></ol>
+## Unser Kiel-Besuch - Wegweiser<ol><li> [Noch mehr Kiel](/2015/11/ein-besuch-in-kiel/) </li></ol>

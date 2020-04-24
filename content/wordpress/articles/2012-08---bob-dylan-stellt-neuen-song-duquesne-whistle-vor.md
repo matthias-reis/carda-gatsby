@@ -60,8 +60,8 @@ Abspielbutton des modernen Embedded-Players, man sehnt sich danach, die Vinyl
 aus der Verpackung zu ziehen, dem Seidenpapier zu entnehmen, den Geruch des
 Schatzes wahrzunehmen, die Platte auf den Teller zu legen, sie abzuspielen und
 dabei in aller Seelenruhe das Artwork zu entdecken, die Texte mitzulesen und das
-Booklet
-durchzustöbern.<a href="http://www.npr.org/blogs/allsongs/2012/08/27/160015988/song-premiere-bob-dylan-duquesne-whistle"></a>
+Booklet durchzustöbern.
+[](http://www.npr.org/blogs/allsongs/2012/08/27/160015988/song-premiere-bob-dylan-duquesne-whistle)
 
 Die Band bietet ein perfektes Zusammenspiel, bei dem man auch mal ein
 zusätzliches Instrument erahnen kann. Ziemlich treffend formulierte es npr music
@@ -78,6 +78,4 @@ September angekündigte Album steigt ins Unermessliche.
 Die Stimmprobleme, die man Bob Dylan vor einigen Jahren nachsagte, hat er weit
 hinter sich gelassen.
 
-<a title="Dylan" href="http://www.npr.org/player/v2/mediaPlayer.html?action=1&amp;t=1&amp;islist=false&amp;id=160015988&amp;m=160017027"><strong>Hier
-ist für Euch Bob Dylan mit "Duquesne Whistle" von seinem Album
-"Tempest"</strong></a>
+[](http://www.npr.org/player/v2/mediaPlayer.html?action=1&t=1&islist=false&id=160015988&m=160017027)

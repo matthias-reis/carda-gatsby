@@ -37,31 +37,23 @@ thumbnailId: "8475"
 subTitle: Teil II - Die Tattoo Session
 ---
 
-<a title="Teil 1" href="http://cardamonchai.com/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/"><span style="text-decoration: underline;"><em><strong>Hier
-gehts zum ersten Teil des Artikels</strong></em></span></a><strong>Vor Kurzem
-hatte ich hier von meinem Vorhaben erzählt, etwas mehr Farbe unter meine Haut zu
-lassen und gleichzeitig am Relaunch von
-<a title="cardamonchai" href="www.cardamonchai.com">cardamonchai</a> zu
-arbeiten. </strong>
+[cardamonchai](/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/)
+zu arbeiten. </strong>
 
-![Stencil Stuff](http://cardamonchai.com/wp-content/uploads/2014/08/14793812307_71c9482f9b_o-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Stencil Stuff')
+![Stencil Stuff](http://cardamonchai.com/wp-content/uploads/2014/08/14793812307_71c9482f9b_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Stencil Stuff")
 
 Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm, sondern auch
 meinen Blog zieren. Das Kunstwerk ist die Grundlage für alles, was
-<a title="cardamonchai" href="www.cardamonchai.com">cardamonchai</a> in Zukunft
-optisch ausmachen wird.
+[cardamonchai](www.cardamonchai.com) in Zukunft optisch ausmachen wird.
 
 ## cardamonchai schon bald in neuem Gewand
 
 Bereits vor etlichen Wochen hatten wir einen Termin bei
-<a title="Mat Reesman Tattoos" href="https://www.facebook.com/media/set/?set=a.608510459231621.1073741826.293235204092483&amp;type=3" target="_blank" rel="noopener">Mat
-Reesman</a> vereinbart. Mat ist ein wahrer Meister seines Fachs und seit kurzem
-bringt er seine Kunstwerke bei
-<a title="Brand Ink Tattoo" href="http://www.brandink-tattoo.com" target="_blank" rel="noopener">Brand
-Ink Tattoo</a> in Augsburg unters Volk. Wir sahen seine Bilder auf der Homepage,
-waren sofort verliebt und wussten: Das wird unser Tätowierer sein. Mats
-Schwerpunkte sind Comic, Color, Oldschool und Realistic, alle drei Disziplinen
-beherrscht er perfekt.
+[Brand Ink Tattoo](https://www.facebook.com/media/set/?set=a.608510459231621.1073741826.293235204092483&type=3)
+in Augsburg unters Volk. Wir sahen seine Bilder auf der Homepage, waren sofort
+verliebt und wussten: Das wird unser Tätowierer sein. Mats Schwerpunkte sind
+Comic, Color, Oldschool und Realistic, alle drei Disziplinen beherrscht er
+perfekt.
 
 ### Vom Papier auf die Haut
 
@@ -69,7 +61,7 @@ Wir hatten einen Doppeltermin vereinbart, denn Matze hatte ja auch ein Tattoo
 geplant, wenn auch ein etwas kleineres, auch dieses spielt in meinem neuen
 Homepagedesign eine Rolle.
 
-![Starker Kaffee im Stehcafé nebenan](http://cardamonchai.files.wordpress.com/2014/08/14791294977_c2fb5027e9_o.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Starker Kaffee im Stehcafé nebenan')
+![Starker Kaffee im Stehcafé nebenan](http://cardamonchai.files.wordpress.com/2014/08/14791294977_c2fb5027e9_o.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Starker Kaffee im Stehcafé nebenan")
 
 Pünktlich um 10 Uhr standen wir im Laden und staunten nicht schlecht, als uns
 Mat seine Entwürfe zeigte, die aus unseren Zeichnungen entstanden waren. Genau
@@ -98,7 +90,7 @@ meinen Freudentränen zu durchtränken. :-P
 
 <blockquote>Mat, thank you so much! You've done such great work! The tats are absolutely awesome! We're looking forward to seeing you in January an we're so glad, you're staying here in Augsburg! :-)</blockquote>
 
-![Picasso](http://cardamonchai.com/wp-content/uploads/2014/08/tattoo-session-213-640x480.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Brand Ink Tattoo')
+![Picasso](http://cardamonchai.com/wp-content/uploads/2014/08/tattoo-session-213-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Brand Ink Tattoo")
 
 Nach einer einstündigen Pause, war Matze dran und seine Eule wurde auf seinen
 Arm übertragen. Matze hatte sich im Gegensatz zu mir für eine
@@ -146,9 +138,7 @@ Ihr es auf www.cardamonchai.com live und in Farbe: Mein neues Design!
 Kussi Anne &lt;3
 
 <small><em>PS: Weitere Bilder findet Ihr wie immer in meinem
-<a title="Anne Flickr" href="https://www.flickr.com/photos/99929697@N07/" target="_blank" rel="noopener">Flickr</a>.
-</em></small><a title="Teil 3" href="http://cardamonchai.com/2015/02/blog-relaunch-und-umzug-nach-hamburg/"><span style="text-decoration: underline;"><em><strong>Hier
-gehts zum dritten Teil des Artikels</strong></em></span></a>
+[](https://www.flickr.com/photos/99929697@N07/)
 
 [gallery type="rectangular" link="none" ids="8483,8482,8481"]
 

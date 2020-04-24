@@ -47,9 +47,8 @@ subTitle: Erfolg für das Tierrechtskaktivistenbündnis
 ---
 
 <strong>Am 25. August fand in der Berlin wieder der offizielle Animal Rights
-March statt. Das Event wurde 2016 von Surge<a href="#1"><sup>1</sup></a> in
-London gegründet und findet seither jährlich weltweit in verschiedenen Städten
-statt.</strong>
+March statt. Das Event wurde 2016 von Surge [](#1) in London gegründet und
+findet seither jährlich weltweit in verschiedenen Städten statt.</strong>
 
 Der Marsch soll die <strong>vegane Gemeinschaft</strong> weltweit vereinen und
 Menschen dazu inspirieren, sich im Alltag für Tiere stark zu machen und auch
@@ -71,13 +70,12 @@ Animal Rights March erhofft hatten, ist in vollem Gange.
 
 ![animalrightsmarchberlintobiashess2019](http://cardamonchai.com/wp-content/uploads/2019/08/animal-rights-march-2019-tobias-hess-photography-400x279.jpg "Andreas, Caro, Markus, Inga (v.l.n.r) vom Tierrechtsaktivistenbündnis Hamburg")
 
-Der March wurde in Berlin<a href="#2"><sup>2</sup></a> vom Hamburger
-Tierrechtsaktivistenbündnis<a href="#3"><sup>3</sup></a> veranstaltet. Im
-Nachklang bedankten sich viele Stimmen für die großartige Organisation. Das
-Tierrechtsaktivistenbündnis gibt es seit Anfang 2018. Es besteht aus Andreas,
-Markus, Caro seit 2014 und Inga. Für Tiere setzen sich die vier schon seit ein
-paar Jahren ein (Andreas seit 2012, Markus und Caro seit 2014, Inga seit 2016).
-Auf die Frage "Was ist Eure Mission?" antworten sie:
+Der March wurde in Berlin [](#2) veranstaltet. Im Nachklang bedankten sich viele
+Stimmen für die großartige Organisation. Das Tierrechtsaktivistenbündnis gibt es
+seit Anfang 2018. Es besteht aus Andreas, Markus, Caro seit 2014 und Inga. Für
+Tiere setzen sich die vier schon seit ein paar Jahren ein (Andreas seit 2012,
+Markus und Caro seit 2014, Inga seit 2016). Auf die Frage "Was ist Eure
+Mission?" antworten sie:
 
 <blockquote>"Unsere Mission ist es, die Tierrechtsszene organisationsübergreifend zu vereinen und mithilfe von Großdemonstrationen das Thema Tierrechte in die Mitte der Gesellschaft und in die Politik zu tragen. Wir sind viele und wir sind vielfältig, aber uns eint das Ziel: Tiere haben Rechte."</blockquote>
 
@@ -96,18 +94,16 @@ Teilnehmer\*innen zu ihren bisher größten Erfolgen. Beide Veranstaltungen sind
 für 2020 wieder geplant. Für "Hand in Hand für Tiere" habe ich uns schon
 angemeldet. Leider konnten wir dieses Jahr nicht beim Animal Rights March dabei
 sein, hoffen aber, dass wir es nächstes Jahr schaffen.
-<a href="http://cardamonchai.com/2019/08/vegan-models-so-ticken-veganerinnen/">Der
-liebe Tobias</a> war vor Ort und so nett, ein paar eindrucksvolle Bilder zu
-meinem Artikel beizusteuern.
+[Der liebe Tobias](/2019/08/vegan-models-so-ticken-veganerinnen/) war vor Ort
+und so nett, ein paar eindrucksvolle Bilder zu meinem Artikel beizusteuern.
 
 ### Fußnoten
 
 <ul>
-    <li id="1">[1] <a href="https://surgeactivism.org/theofficialanimalrightsmarch" target="_blank" rel="noopener">Surge</a></li>
-    <li id="2">[2] <a href="https://animalrightsmarchgermany.de/" target="_blank" rel="noopener">Tierrechtsaktivistenbündnis Hamburg</a></li>
-    <li id="3">[3] <a href="https://www.theofficialanimalrightsmarch.org/ target=" rel="noopener">Official Animal Rights March</a></li>
+    <li id="1">[1]  [Surge](https://surgeactivism.org/theofficialanimalrightsmarch) </li>
+    <li id="2">[2]  [Tierrechtsaktivistenbündnis Hamburg](https://animalrightsmarchgermany.de/) </li>
+    <li id="3">[3]  [Official Animal Rights March](https://www.theofficialanimalrightsmarch.org/ target=) </li>
 </ul>
 
 <strong>Fotos:</strong>
-<a href="https://tobiashess-photography.com" target="_blank" rel="noopener">Tobias
-Hess Photography</a>
+[Tobias Hess Photography](https://tobiashess-photography.com)

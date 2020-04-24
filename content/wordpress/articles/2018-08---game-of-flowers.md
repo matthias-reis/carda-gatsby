@@ -74,24 +74,23 @@ des 13. Jahrhunderts nachließen, die Wenden waren unterworfen und
 christianisiert worden, siedelten sich wieder Menschen in der Gegend an.
 
 Heute ist die Wikingerburg im Schwedischen
-<a href="http://cardamonchai.com/2018/07/zwischenstopp-in-skane/">Skåne</a>
-teilrenoviert und kann besichtigt werden. Sie ist die fünfte Burg ihrer Art, die
-in unserer Zeit entdeckt wurde. Vor dem Bauwerk aus Holz und Erde befinden sich
-zwei Runensteine mit der Aufschrift "Spuren der Erde sprachen in unserer Zeit
-und wieder wurde die Burg erbaut, die der Stadt ihren Namen gab".
+[Skåne](/2018/07/zwischenstopp-in-skane/) teilrenoviert und kann besichtigt
+werden. Sie ist die fünfte Burg ihrer Art, die in unserer Zeit entdeckt wurde.
+Vor dem Bauwerk aus Holz und Erde befinden sich zwei Runensteine mit der
+Aufschrift "Spuren der Erde sprachen in unserer Zeit und wieder wurde die Burg
+erbaut, die der Stadt ihren Namen gab".
 
 ## Ein Geschenk an das Königspaar
 
 Das erste Mal fand Trelleborg im Jahr 1257 schriftliche Erwähnung. Damals wurde
 die Stadt vom Dänischen König Erik Plovpennig zusammen mit
-<a href="http://cardamonchai.com/2018/07/malmoe-zu-fuss/">Malmö</a> Sophie von
-Dänemark und Valdemar Bigersson (Valdemar I., König von Schweden) als
-Hochzeitsgeschenk vermacht.
+[Malmö](/2018/07/malmoe-zu-fuss/)  Sophie von Dänemark und Valdemar Bigersson
+(Valdemar I., König von Schweden) als Hochzeitsgeschenk vermacht.
 
 Doch schon kurz darauf eroberten die Dänen den Ort zurück. Erst 1658 ging
-Trelleborg im Zuge des Friedens von Roskilde zusammen mit der
-Region <a href="http://cardamonchai.com/2018/07/zwischenstopp-in-skane/">Skåne</a> an
-Schweden über. Soviel zur Geschichte der gleichnamigen Stadt.
+Trelleborg im Zuge des Friedens von Roskilde zusammen mit der Region 
+[Skåne](/2018/07/zwischenstopp-in-skane/)  an Schweden über. Soviel zur
+Geschichte der gleichnamigen Stadt.
 
 ## Der Name Trelleborg
 

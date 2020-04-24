@@ -71,10 +71,10 @@ subTitle: Danke für Euer Feedback!
 ---
 
 <strong>Meine
-<a href="http://cardamonchai.com/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/">Songliste
-2017</a> hat Euch ja sehr gut gefallen. Vielen Dank für das umfangreiche
-Feedback, die vielen Mails und Chatnachrichten sowie die Kommentare, die bei mir
-eingegangen sind! Ihr seid klasse!</strong>
+[Songliste 2017](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)
+hat Euch ja sehr gut gefallen. Vielen Dank für das umfangreiche Feedback, die
+vielen Mails und Chatnachrichten sowie die Kommentare, die bei mir eingegangen
+sind! Ihr seid klasse!</strong>
 
 Heute möchte ich gerne einen wichtigen Nachtrag veröffentlichen. Dieser setzt
 sich zum großen Teil aus den Songs und Interpreten zusammen, die Euch laut Euren
@@ -106,11 +106,11 @@ verdient!
 ### Das komplette Bob Dylan Album "Triplicate"
 
 Wie konnte ich
-<a href="http://cardamonchai.com/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/">Bob
-Dylan</a> vergessen? Danke Bigtwinkurt für den freundlichen Hinweis! Bob Dylan
-möchte nicht, dass seine Songs auf YouTube veröffentlicht werden, daher findet
-hier an Stelle eines Video nur einen Screenshot der Platte. Unseren Respekt hat
-er allemal und das Album habt Ihr hoffentlich alle im Schrank stehen.
+[Bob Dylan](/2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/)
+vergessen? Danke Bigtwinkurt für den freundlichen Hinweis! Bob Dylan möchte
+nicht, dass seine Songs auf YouTube veröffentlicht werden, daher findet hier an
+Stelle eines Video nur einen Screenshot der Platte. Unseren Respekt hat er
+allemal und das Album habt Ihr hoffentlich alle im Schrank stehen.
 
 ![Musikliste](http://cardamonchai.com/wp-content/uploads/2018/01/mqdefault-300x169.jpg)
 
@@ -183,11 +183,7 @@ der Veröffentlichung im September 2017 bei mir rauf und runter.
 <iframe src="https://www.youtube.com/embed/zhTG2wM-r-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Vielen Dank an dieser Stelle an Thomas von
-<a href="http://cardamonchai.com/2018/01/kokku-veganshop/">Kokku</a>, der so
-nett war, mich daran zu erinnern, dass ich Japandroids, The National und LCD
-Soundsystem in meiner
-<a href="http://cardamonchai.com/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/">ultimativen
-Songliste 2017</a> vergessen habe!
+[ultimativen Songliste 2017](/2018/01/kokku-veganshop/) vergessen habe!
 
 ## Mogwai "Coolverine" vom Album "Every Country's Sun"
 
@@ -216,5 +212,4 @@ darauf verzichten wollen.
 
 <iframe src="https://www.youtube.com/embed/ZSF0FF4yU1A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<a href="http://cardamonchai.com/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/">Hier
-geht's zur ultimativen Songliste 2017</a>
+[Hier geht's zur ultimativen Songliste 2017](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)

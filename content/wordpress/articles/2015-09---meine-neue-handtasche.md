@@ -45,9 +45,9 @@ sich doch echt sehen lassen, oder? :-)
 
 Wer auch gerne eine tolle Handtasche nähen möchte: Die komplette Nähanleitung
 inkl. Schnittmuster zum Ausdrucken findet Ihr gratis (!) auf der Homepage von
-Patty Do<a href="#1"><sup>1</sup></a>. Dort gibt es auch noch jede Menge
-Designvorschläge, Ihr könnt natürlich auch Eure ganz eigene Farbkombination
-kreieren. Ich bin supergespannt auf Eure neue Handtasche!
+Patty Do [](#1). Dort gibt es auch noch jede Menge Designvorschläge, Ihr könnt
+natürlich auch Eure ganz eigene Farbkombination kreieren. Ich bin supergespannt
+auf Eure neue Handtasche!
 
 ## Viel Spaß beim Nähen!
 
@@ -56,4 +56,4 @@ Anleitung ist wirklich klasse, zusätzlich gibt es noch ein Video, ich bette es
 mal hier mit ein, mir hat es beim Nähen sehr geholfen. Vielen Dank an Patty Doo
 an dieser Stelle!
 
-<iframe src="https://www.youtube.com/embed/azq48f3065s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>## Link zum Schnittmuster<ul><li id="1">[1] <a href="https://www.pattydoo.de/schnittmuster/tasche-carrie">Schnittmuster Tasche "Carrie" bei Patty Doo</a></li></ul>
+<iframe src="https://www.youtube.com/embed/azq48f3065s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>## Link zum Schnittmuster<ul><li id="1">[1]  [Schnittmuster Tasche "Carrie" bei Patty Doo](https://www.pattydoo.de/schnittmuster/tasche-carrie) </li></ul>

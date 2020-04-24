@@ -52,8 +52,7 @@ Beginn des Kreislaufs.
 
 Vor Kurzem habe ich hier im Blog ein junges Unternehmen vorgestellt, das
 ebenfalls nach dem Cradle-to-Cradle-Prinzip arbeitet:
-<a href="http://cardamonchai.com/2019/08/vegane-wolle-vegarn-interview/">die
-vegane Wollmanufaktur Vegarn aus Hamburg</a>.
+[die vegane Wollmanufaktur Vegarn aus Hamburg](/2019/08/vegane-wolle-vegarn-interview/).
 
 Michael Braungart und William McDonough kamen beim Beobachten der Natur auf das
 Prinzip. Ein Baum wächst, indem er Wasser und Sonnenlicht nutzt. Seine Früchte
@@ -65,8 +64,8 @@ Samen entstehen neue Bäume.
 ![cradle-to-cradle | large](http://cardamonchai.com/wp-content/uploads/2019/08/cradle-to-cradle-1-520x276.jpg "Biologischer und technischer Zyklus. Grafik: Wikipedia Commons, Rex banditor")
 
 In Deutschland gibt es seit 2012 den gemeinnützigen Verein Cradle to Cradle e.
-V.<a href="#1"><sup>1</sup></a> Sein Ziel ist es, Cradle-to-Cradle in die Mitte
-der Gesellschaft zu bringen.
+V. [](#1) Sein Ziel ist es, Cradle-to-Cradle in die Mitte der Gesellschaft zu
+bringen.
 
 Damit sollen die enormen ökologischen und ökonomischen Herausforderungen von
 heute und morgen gelöst werden – gesellschaftlicher und kultureller Wandel für
@@ -85,12 +84,12 @@ Kongress. Regionalgruppen des Vereins gibt es in allen Bundesländern.
 
 heißt es auf der Webseite des Vereins.
 
-In Hamburg beschäftigt sich das Forschungsinstitut
-EPEA<a href="#2"><sup>2</sup></a> seit nunmehr 30 Jahren mit dem
-Cradle-to-Cradle-Prinzip. Der Hauptfokus der Einrichtung liegt auf dem Cradle to
-Cradle Design Konzept. Gearbeitet wird in den Bereichen "Textilien", "Gebäude"
-"Papier und Druck", "Verpackung" und "Handelswaren und Kosmetik". Aus diesen
-Branchen stammen auch die Firmen, mit denen EPEA zusammenarbeitet.
+In Hamburg beschäftigt sich das Forschungsinstitut EPEA [](#2) seit nunmehr 30
+Jahren mit dem Cradle-to-Cradle-Prinzip. Der Hauptfokus der Einrichtung liegt
+auf dem Cradle to Cradle Design Konzept. Gearbeitet wird in den Bereichen
+"Textilien", "Gebäude" "Papier und Druck", "Verpackung" und "Handelswaren und
+Kosmetik". Aus diesen Branchen stammen auch die Firmen, mit denen EPEA
+zusammenarbeitet.
 
 ## Zirkuläres Denken
 
@@ -124,15 +123,13 @@ schön erklärt:
 
 ### Literaturtipp:
 
-<a href="https://amzn.to/2M4HdEm" target="_blank" rel="noopener nofollow">"Die
-nächste industrielle Revolution - die Cradle-to-Cradle-Community" von Michael
-Braungart und William McDonough</a>
+["Die nächste industrielle Revolution - die Cradle-to-Cradle-Community" von Michael Braungart und William McDonough](https://amzn.to/2M4HdEm)
 
 ### Fußnoten
 
 <ul>
-    <li id="1">[1] <a href="https://c2c-ev.de/" target="_blank" rel="noopener">Cradle to Cradle e. V</a></li>
-    <li id="2">[2] <a href="https://epea-hamburg.com" target="_blank" rel="noopener">EPEA</a></li>
+    <li id="1">[1]  [Cradle to Cradle e. V](https://c2c-ev.de/) </li>
+    <li id="2">[2]  [EPEA](https://epea-hamburg.com) </li>
 </ul>
 
 <h4></h4>
@@ -140,9 +137,9 @@ Braungart und William McDonough</a>
 ### Quellen:
 
 <ul>
-    <li><a href="https://c2c-ev.de/" target="_blank" rel="noopener">Cradle to Cradle e. V</a>.</li>
-    <li><a href="https://epea-hamburg.com" target="_blank" rel="noopener">EPEA</a></li>
-    <li><a href="https://de.wikipedia.org/wiki/Cradle_to_Cradle" target="_blank" rel="noopener">Wikipedia</a></li>
+    <li> [Cradle to Cradle e. V](https://c2c-ev.de/). </li>
+    <li> [EPEA](https://epea-hamburg.com) </li>
+    <li> [Wikipedia](https://de.wikipedia.org/wiki/Cradle_to_Cradle) </li>
     <li>Cradle-to-Cradle</li>
-    <li>Grafik: <a href="https://commons.wikimedia.org/wiki/File:Cradle_to_cradle.jpg">Wikipedia Commons, Rex banditor „Biologischer und technischer Zyklus“ 15.11.2017</a></li>
+    <li>Grafik:  [Wikipedia Commons, Rex banditor „Biologischer und technischer Zyklus“ 15.11.2017](https://commons.wikimedia.org/wiki/File:Cradle_to_cradle.jpg) </li>
 </ul>

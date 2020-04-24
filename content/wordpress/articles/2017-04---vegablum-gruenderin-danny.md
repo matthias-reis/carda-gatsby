@@ -87,7 +87,7 @@ subTitle: „Wir möchten Gutes tun und keinen Benz kaufen“</span>
 
 <p class="p1"><span class="s1"><strong>Danny:</strong> Einerseits habe ich den Met vermisst. Den habe ich immer super gerne getrunken, gerade auf Mittelalter-Märkten beim Lagern. Der fiel ja durch meine Umstellung auf vegan weg, also habe ich mich schlau gemacht. Als erstes musste eine vegane Honig-Alternative her. Irgendwann bin ich auf Löwenzahnhonig gestoßen. Von da an nahm alles seinen Lauf. Wir haben viel herumexperimentiert und verschiedene Sorten entwickelt. Als der Vonig dann fertig war, haben wir daraus den VET produziert.</span></p>
 
-<p class="p1"><span class="s1">Weitere wichtige Punkte sind das <a href="http://cardamonchai.com/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/">Bienensterben</a> und die Massenproduktion von Honig. Das wird ein immer größeres Thema, das man nicht außer Acht lassen sollte. Durch unsere Produkte können wir die Menschen gleich an unseren Ständen darüber aufklären und zum Nachdenken anregen.</span></p>
+<p class="p1"><span class="s1">Weitere wichtige Punkte sind das  [Bienensterben](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)  und die Massenproduktion von Honig. Das wird ein immer größeres Thema, das man nicht außer Acht lassen sollte. Durch unsere Produkte können wir die Menschen gleich an unseren Ständen darüber aufklären und zum Nachdenken anregen.</span></p>
 
 ## Danny lebt seit vier Jahren vegan</span>
 
@@ -157,7 +157,7 @@ subTitle: „Wir möchten Gutes tun und keinen Benz kaufen“</span>
 
 <p class="p1"><span class="s1"><strong>Anne:</strong> Warum ist es Dir so wichtig, dass Lebensmittel und Pflegeprodukte nicht nur vegan und frei von Tierversuchen, sondern zudem auch noch Palmöl-frei sind?</span></p>
 
-<p class="p1"><span class="s1"><strong>Danny:</strong> Dass <a href="http://cardamonchai.com/andere-blogs/auf-palmoel-besser-verzichten/">für Palmöl Regenwälder abgeholzt</a> und Tiere und Menschen vertrieben werden, ist ja schon seit einiger Zeit bekannt und das wollen wir einfach nicht unterstützen.</span></p>
+<p class="p1"><span class="s1"><strong>Danny:</strong> Dass  [für Palmöl Regenwälder abgeholzt](/andere-blogs/auf-palmoel-besser-verzichten/)  und Tiere und Menschen vertrieben werden, ist ja schon seit einiger Zeit bekannt und das wollen wir einfach nicht unterstützen.</span></p>
 
 <p class="p1"><span class="s1"><strong>Anne:</strong> Sehr gut. Vervollständige diesen Satz: „Die Zukunft ist vegan, weil…“</span></p>
 
@@ -202,15 +202,13 @@ subTitle: „Wir möchten Gutes tun und keinen Benz kaufen“</span>
 ## Fußnoten
 
 <ul>
-    <li class="p1"><span class="s2">Das Rezept</span><span class="s1"> für vegane BBQ Sauce mit Vonig <a href="https://vegablum.de/rezepte/bbq-sosse" target="_blank" rel="noopener">findet Ihr hier</a>.</span></li>
-    <li class="p1"><span class="s2"><a href="https://vegablum.de/partner/anne-bloggt-cardamonchai" target="_blank" rel="noopener">Hier hat mich Danny auf ihrer Homepage vorgestellt</a></span><span class="s1">.</span></li>
-    <li class="p1"><span class="s1">Den Lebenshof El Kotti <a href="https://vegablum.de/partner/lebenshof-el-kotti" target="_blank" rel="noopener"><span class="s2">findet Ihr hier</span></a>.</span></li>
-    <li class="p1"><span class="s1">Das Tier Refugium Wegberg <a href="https://www.tier-refugium.de/" target="_blank" rel="noopener"><span class="s2">findet Ihr hier</span></a>.</span></li>
-    <li class="p1"><span class="s2"><a href="https://vegablum.de" target="_blank" rel="noopener">Hier geht es</a> zur Vegablum Homepage</span><span class="s1">.</span></li>
+    <li class="p1"><span class="s2">Das Rezept</span><span class="s1"> für vegane BBQ Sauce mit Vonig  [findet Ihr hier](https://vegablum.de/rezepte/bbq-sosse). </span></li>
+    <li class="p1"><span class="s2"> [Hier hat mich Danny auf ihrer Homepage vorgestellt](https://vegablum.de/partner/anne-bloggt-cardamonchai) </span><span class="s1">.</span></li>
+    <li class="p1"><span class="s1">Den Lebenshof El Kotti  [](https://vegablum.de/partner/lebenshof-el-kotti). </span></li>
+    <li class="p1"><span class="s1">Das Tier Refugium Wegberg  [](https://www.tier-refugium.de/). </span></li>
+    <li class="p1"><span class="s2"> [Hier geht es](https://vegablum.de)  zur Vegablum Homepage</span><span class="s1">.</span></li>
 </ul>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

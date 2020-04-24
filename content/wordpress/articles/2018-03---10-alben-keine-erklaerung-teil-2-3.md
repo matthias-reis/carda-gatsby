@@ -60,13 +60,12 @@ zögerte ich nicht lange.
 Natürlich musste ich die musikalische Herausforderung annehmen. Und soviel sei
 schon mal verraten: Es wurde eine spannende Liste daraus. Beziehungsweise: Viele
 spannende Listen. Ich beschränke mich in diesem Beitragsreihe auf drei:
-<a href="http://cardamonchai.com/2018/03/meine-ultimative-lieblingsplatten-liste/">Meine
-eigene</a>, Björns und die meines Erstnominierten Matze.
+[Meine eigene](/2018/03/meine-ultimative-lieblingsplatten-liste/), Björns und
+die meines Erstnominierten Matze.
 
 In Teil 1 habe ich Euch
-<a href="http://cardamonchai.com/2018/03/meine-ultimative-lieblingsplatten-liste/">meine
-ultimative Lieblingsplattenliste</a> aller Zeiten vorgestellt, heute zeige ich
-Euch die von Björn.
+[meine ultimative Lieblingsplattenliste](/2018/03/meine-ultimative-lieblingsplatten-liste/)
+aller Zeiten vorgestellt, heute zeige ich Euch die von Björn.
 
 1.) "This Is Hardcore" - Pulp
 
@@ -111,10 +110,9 @@ Euch die von Björn.
 ## Wegweiser "Alben - Keine Erklärung"
 
 <ol>
-    <li><a href="http://cardamonchai.com/2018/03/meine-ultimative-lieblingsplatten-liste/">Meine ultimative Lieblingsplattenliste</a></li>
+    <li> [Meine ultimative Lieblingsplattenliste](/2018/03/meine-ultimative-lieblingsplatten-liste/) </li>
     <li>Björns ultimative Lieblingsplattenliste</li>
-    <li><a href="http://cardamonchai.com/2018/03/10-alben-keine-erklaerung-teil-3/">Matzes ultimative Lieblingsplattenliste</a></li>
+    <li> [Matzes ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-teil-3/) </li>
 </ol>
 
-\*<a href="https://gartenbaukunst.wordpress.com/" target="_blank" rel="noopener">Björn
-von Gartenbaukunst findet Ihr hier</a>.
+- [Björn von Gartenbaukunst findet Ihr hier](https://gartenbaukunst.wordpress.com/).

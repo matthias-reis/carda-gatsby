@@ -33,13 +33,12 @@ subTitle: Eine gemütliche Stadt mit dem gewissen Etwas
 ---
 
 <strong>Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von
-<a href="http://cardamonchai.com/2018/07/radtour-durch-kopenhagen/">Kopenhagen</a>
-nach Trelleborg vorbeigekommen und haben uns gleich wohlgefühlt. </strong>
+[Kopenhagen](/2018/07/radtour-durch-kopenhagen/) nach Trelleborg vorbeigekommen
+und haben uns gleich wohlgefühlt. </strong>
 
 Die Großstadt ist die Hauptstadt der Provinz
-<a href="http://cardamonchai.com/2018/07/zwischenstopp-in-skane/">Skåne</a>.
-Nach Stockholm und Göteborg ist Malmö mit rund 302.000 Einwohnern die
-drittgrößte Stadt in Schweden.
+[Skåne](/2018/07/zwischenstopp-in-skane/). Nach Stockholm und Göteborg ist Malmö
+mit rund 302.000 Einwohnern die drittgrößte Stadt in Schweden.
 
 Ein bisschen erinnerte mich der Stadtkern auf den ersten Blick an meine
 Heimatstadt Fulda: Nicht verschlafen aber gemütlich. Sie hat definitiv das

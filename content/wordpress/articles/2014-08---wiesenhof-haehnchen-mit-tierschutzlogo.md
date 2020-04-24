@@ -114,10 +114,9 @@ zählt unter anderem Wiesenhof) gehört, gibt es zwei Stufen:
 ![Wiesenhof | full](http://cardamonchai.com/wp-content/uploads/2014/08/tierschutzlabel_mit_internetadresse_01.jpg "Fragwürdiger Tierschutz in zwei Abstufungen")
 
 Immer noch ganz baff, ging ich zurück auf die Facebook-Seite, wo
-<a title="&quot;Tierschutz&quot;-Fleisch-Diskussion" href="https://www.facebook.com/groups/663824773653889/permalink/711147608921605/" target="_blank" rel="noopener">die
-Diskussion unter dem Bild</a> inzwischen in vollem Gange war. Mir fehlen nach
-wie vor die Worte, Ihr müsst mir bitte verzeihen, wenn es mir gerade etwas
-schwerfällt, mich auszudrücken.
+[die Diskussion unter dem Bild](https://www.facebook.com/groups/663824773653889/permalink/711147608921605/)
+inzwischen in vollem Gange war. Mir fehlen nach wie vor die Worte, Ihr müsst mir
+bitte verzeihen, wenn es mir gerade etwas schwerfällt, mich auszudrücken.
 
 ![Schweinetransporter Bild: PETA](http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300 "Schweinetransporter Bild: PETA")
 
@@ -174,8 +173,8 @@ vermeintlich unwissender Verbraucher aus. Das ist respektlos nicht nur den
 Tieren sondern auch den Menschen gegenüber.
 
 Bereits vorgestern war einem andere Gruppenmitglied in einer Kaisers-Filiale
-<a title="Kaiser &quot;Tierschutz&quot;-Grillfleisch" href="https://www.facebook.com/photo.php?fbid=1458259771099644&amp;set=gm.710465795656453&amp;type=1&amp;theater" target="_blank" rel="noopener">etwas
-Ähnliches</a> aufgefallen:
+[etwas Ähnliches](https://www.facebook.com/photo.php?fbid=1458259771099644&set=gm.710465795656453&type=1&theater)
+aufgefallen:
 
 ![Wiesenhof | large](http://cardamonchai.com/wp-content/uploads/2014/08/grillfleisch-800x1415.jpg "Grillfleisch von zweifelhafter Herkunft")
 
@@ -187,13 +186,7 @@ hinterfragt, mich kurz geärgert und nicht weiter nachrecherchiert.
 
 Erst mit dem heutigen Facebook-Beitrag ist der Groschen bei mir hörbar gefallen.
 Ich habe mich ein Bisschen schlau gemacht und bin sofort auf ähnliche Aktionen
-gestoßen, so z. B.
-<a title="Tierwohl Westfleisch" href="http://www.aktion-tierwohl.de" target="_blank" rel="noopener">"Tierwohl"
-von Westfleisch</a>, bei dem einfach mal ein Logo für SB-Wurstwaren vergeben
-wird, um Verbraucher anzulocken, ähnliches gilt für Kooperationen, die derzeit
-vom WWF und dem Verein
-<a title="Vier Pfoten Zertifikat" href="http://www.vier-pfoten.de/kampagnen/nutztiere/kaninchen/mastkaninchen/zertifikat/" target="_blank" rel="noopener">Vier
-Pfoten </a>gefahren werden.
+gestoßen, so z. B. [Vier Pfoten](http://www.aktion-tierwohl.de) gefahren werden.
 
 ![Bild: "WWF-Scheiss" Quelle: Der Artgenosse | large](http://cardamonchai.files.wordpress.com/2014/08/wwf-scheiss.jpg?w=646 'Bild: "WWF-Scheiss" Quelle: Der Artgenosse')
 
@@ -203,7 +196,7 @@ mit den folgenden Worten gekündigt:
 <em>"Hiermit kündige ich meine Mitgliedschaft (Nr. xxxxx) ab sofort, da ich es
 ethisch nicht vertreten kann, dass Wiesenhof und andere Tierausbeuterbetriebe
 mit dem Deutschen Tierschutzbund auf ihren Verpackungen werben.
-<a class="" href="http://www.tierschutzbund.de/tierschutzlabel.html" target="_blank" rel="nofollow noopener">http://www.tierschutzbund.de/tierschutzlabel.html</a>
+[http://www.tierschutzbund.de/tierschutzlabel.html](http://www.tierschutzbund.de/tierschutzlabel.html)
 Für mich war es bisher immer wichtig den Tierschutzbund zu unterstützen, gerade
 wegen der Shelter etc., doch dies zwingt mich nun zur Kündigung meiner
 Mitgliedschaft. Meine Spenden werde ich in Zukunft lieber Organisationen
@@ -217,25 +210,25 @@ Die liebe Corinna, deren Bekanntschaft ich heute morgen in der Facebook
 Tofu-Gruppe machen durfte, hat einen Brief aufgesetzt. Ich möchte hiermit jedem
 ans Herz legen, diesen Brief per E-Mail an den Deutschen Tierschutzbund
 (kontakt@tierschutzlabel.info) zu schicken und an deren
-<a title="Deutscher Tierschutzbund" href="https://www.facebook.com/tierschutzbund?fref=ts" target="_blank" rel="noopener">Facebook-Pinnwand</a>
-zu posten, gerne auch in leicht abgewandelter Form und persönlich auf Euch
-angepasst. Je mehr Briefe und Mails dort eingehen, desto besser. Hier der Brief,
-Ihr könnt ihn gerne einfach aus meinem Text rauskopieren und weiterverwenden.
-Bitte gebt ihn weiter und teilt ihn mit so vielen Menschen, wie möglich, damit
-sie ihn auch an den Tierschutzbund schicken!
+[Facebook-Pinnwand](https://www.facebook.com/tierschutzbund?fref=ts) zu posten,
+gerne auch in leicht abgewandelter Form und persönlich auf Euch angepasst. Je
+mehr Briefe und Mails dort eingehen, desto besser. Hier der Brief, Ihr könnt ihn
+gerne einfach aus meinem Text rauskopieren und weiterverwenden. Bitte gebt ihn
+weiter und teilt ihn mit so vielen Menschen, wie möglich, damit sie ihn auch an
+den Tierschutzbund schicken!
 
-<address>Sehr geehrte Damen und Herren,</address><address>Dienstags flattert bei mir immer eine Menge Werbung in Haus, aktuell dabei war ein Prospekt von Netto. Üblicherweise überblättere ich den Bereich Fleisch einfach, bin allerdings bei dem Wort Tierschutz, in der Spalte Fleisch, dieses Mal hängen geblieben. Fleisch beim Discounter = Tierschutz? Klingt spannend.</address><address>Erstaunt stelle ich bei genauerem Hinsehen fest, dass es sich um ein Label handelt, dass ausgerechnet an die Firma Wiesenhof vergeben wurde. Wiesenhof ist nun wirklich nicht für artgerechte Haltung oder besonders guten Umgang mit Tieren bekannt. Der Wiesenhof Skandal, aufgedeckt von SOKO Tierschutz, ging erst vor wenigen Monaten durch die bundesweite Presse und ist somit nicht nur in den einschlägigen Tierschutzkreisen bekannt.</address><address>Ehrliches Befremden setzte allerdings ein, als ich feststellen musste, dass es sich um ein Label aus Ihrem, wie ich bisher dachte renommierten, Hause handelt. Einen größeren, selbst zugefügten, Imageschaden kann ich mir kaum vorstellen. Falls Sie die oben angesprochenen Bilder noch nicht kennen, sende ich Ihnen gerne Anschauungsmaterial mit: <a class="_553k" href="https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof" target="_blank" rel="nofollow noopener">https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof</a></address><address>Das es sich bei der Firma Wiesenhof und deren Umgang mit Lebewesen nicht um einen Einzelfall handelt, ist ebenfalls kein Geheimnis.</address><address>Ich kann selbstverständlich verstehen, dass Tierschutz Geld kostet. Ich kann auch verstehen, dass Sie als große Organisation selbiges dringend benötigen, aber ein Label auf dem "Tierschutz" steht, an Firmen zu verkaufen, die nachweislich und bewusst Tierquälerei betreiben ist wirklich grotesk.</address><address>In meinen Augen ist es eine Farce auf ein totes Tier "Tierschutz" zu schreiben. Das es grundsätzlich falsch ist Tiere zu töten um diese zu essen, ist ein Grundsatz den ich persönlich vertrete, Ihnen als "Tierschutz"-Organisation jedoch selbstverständlich nicht aufdrängen will. Auch wenn ich dies irgendwie erwartet hätte.</address><address>Ich weiß nicht genau wie es Ihnen geht, aber wenn ich 4 Stunden am Stück auf engstem Raum stehen muss, ohne was zu trinken und was zu essen, ohne zu wissen warum und was mich erwartet, würde ich mich nicht besonders geschützt fühlen. Und ich behaupte mal das es dem von Ihnen geschütztem Geflügel genauso geht. Von den Schweinen, die übrigens dem Menschen biologisch ähnlicher sind als der Affe und intelligenter als Hunde, spreche ich an dieser Stelle einfach erstmal gar nicht.</address><address>Entsprechend würde mich eine Stellungnahme Ihrerseits sehr interessieren, wonach das "Tierschutz"-Label vergeben wird. Bekommt dieses jeder der bereit ist die nötige Menge Geld zu bezahlen und interne "Kontrollen" durchführt, ob die Tiere wirklich "nur" 4 Stunden am Stück transportiert werden? Wie werden die Kontrollen durch Sie durchgeführt und durch wen?</address><address>Mit freundlichen Grüßen</address><address>XXX</address><address>PS Der Inhalt Ihrer Homepage <a class="_553k" href="http://www.tierschutzlabel.info/" target="_blank" rel="nofollow noopener">http://www.tierschutzlabel.info/</a> ist mir bekannt, ich bitte daher um eine persönliche Antwort ohne Standardtext. Vielen Dank.</address>
+<address>Sehr geehrte Damen und Herren,</address><address>Dienstags flattert bei mir immer eine Menge Werbung in Haus, aktuell dabei war ein Prospekt von Netto. Üblicherweise überblättere ich den Bereich Fleisch einfach, bin allerdings bei dem Wort Tierschutz, in der Spalte Fleisch, dieses Mal hängen geblieben. Fleisch beim Discounter = Tierschutz? Klingt spannend.</address><address>Erstaunt stelle ich bei genauerem Hinsehen fest, dass es sich um ein Label handelt, dass ausgerechnet an die Firma Wiesenhof vergeben wurde. Wiesenhof ist nun wirklich nicht für artgerechte Haltung oder besonders guten Umgang mit Tieren bekannt. Der Wiesenhof Skandal, aufgedeckt von SOKO Tierschutz, ging erst vor wenigen Monaten durch die bundesweite Presse und ist somit nicht nur in den einschlägigen Tierschutzkreisen bekannt.</address><address>Ehrliches Befremden setzte allerdings ein, als ich feststellen musste, dass es sich um ein Label aus Ihrem, wie ich bisher dachte renommierten, Hause handelt. Einen größeren, selbst zugefügten, Imageschaden kann ich mir kaum vorstellen. Falls Sie die oben angesprochenen Bilder noch nicht kennen, sende ich Ihnen gerne Anschauungsmaterial mit:  [http://www.tierschutzlabel.info/](https://www.youtube.com/results?search_query=soko+tierschutz+wiesenhof)  ist mir bekannt, ich bitte daher um eine persönliche Antwort ohne Standardtext. Vielen Dank.</address>
 
 Vielen Dank für die E-Mail, liebe Corinna!
 
 Matthias S., ebenfalls in der Facebook-Gruppe aktiv, hat vor ein paar Stunden zu
 dem Thema eine Petition eingereicht, die nun seit ein paar Minuten online ist.
 Ich möchte Euch bitten
-<a title="Petition Echter Tierschutz" href="https://www.openpetition.de/petition/online/ehrlicher-tierschutz" target="_blank" rel="noopener">diesem
-Link hier </a>zu folgen, die Petition zu unterschreiben und an alle Eure
-Bekannten, Freunde, Facebook-Fans und Twitter-Follower weiterzugeben!
+[diesem Link hier](https://www.openpetition.de/petition/online/ehrlicher-tierschutz)
+zu folgen, die Petition zu unterschreiben und an alle Eure Bekannten, Freunde,
+Facebook-Fans und Twitter-Follower weiterzugeben!
 
-![Petition für ehrlichen Tierschutz | large](http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646 '<a href="https://www.openpetition.de/petition/online/ehrlicher-tierschutz"> </a> Petition für ehrlichen Tierschutz')
+![Petition für ehrlichen Tierschutz | large](http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646 " [](https://www.openpetition.de/petition/online/ehrlicher-tierschutz)  Petition für ehrlichen Tierschutz")
 
 Mit PETA habe ich auch Kontakt aufgenommen, ich gebe Euch Bescheid, sobald ich
 eine Antwort bekomme:
@@ -268,15 +261,11 @@ aber nach diesen Bildern kann Euch Euch nur eins ans Herz legen:
 GO VEGAN!
 
 Interessante Artikel zum Thema gibt es auf
-<a title="Tierhof Amoa" href="http://tierhof-amoa.blogspot.de/2014/08/tierschutzorgas-im-namen-der.html" target="_blank" rel="noopener">der
-Seite des Tierhofs Amoa</a> und
-<a title="Der Artgenosse WWF" href="http://www.google.de/imgres?imgurl=http%3A%2F%2Fgraslutscher.de%2Fwp-content%2Fuploads%2F2014%2F07%2FWWF-SCheiss.jpg&amp;imgrefurl=http%3A%2F%2Fgraslutscher.de%2Fjetzt-hackt-doch-nicht-alle-auf-dem-armen-wwf-rum%2F&amp;h=743&amp;w=1000&amp;tbnid=h_RcaIaN3OOA8M%3A&amp;zoom=1&amp;docid=mMpX0q3HukfZmM&amp;ei=Yy3iU7TwFqiM4gS004HICA&amp;tbm=isch&amp;client=safari&amp;iact=rc&amp;uact=3&amp;dur=516&amp;page=1&amp;start=0&amp;ndsp=30&amp;ved=0CCUQrQMwAQ" target="_blank" rel="noopener">im
-Blog des Artgenossen</a>.
+[im Blog des Artgenossen](http://tierhof-amoa.blogspot.de/2014/08/tierschutzorgas-im-namen-der.html).
 
 <em><strong>Quellen:</strong> Tofunutte,
-<a title="Der Artgenosse" href="http://www.google.de/imgres?imgurl=http%3A%2F%2Fgraslutscher.de%2Fwp-content%2Fuploads%2F2014%2F07%2FWWF-SCheiss.jpg&amp;imgrefurl=http%3A%2F%2Fgraslutscher.de%2Fjetzt-hackt-doch-nicht-alle-auf-dem-armen-wwf-rum%2F&amp;h=743&amp;w=1000&amp;tbnid=h_RcaIaN3OOA8M%3A&amp;zoom=1&amp;docid=mMpX0q3HukfZmM&amp;ei=Yy3iU7TwFqiM4gS004HICA&amp;tbm=isch&amp;client=safari&amp;iact=rc&amp;uact=3&amp;dur=516&amp;page=1&amp;start=0&amp;ndsp=30&amp;ved=0CCUQrQMwAQ" target="_blank" rel="noopener">der
-Artgenosse</a>, PETA, Deutscher Tierschutzbund, WWF</em>## Nachtrag
-(18:45)</strong>
+[der Artgenosse](http://www.google.de/imgres?imgurl=http%3A%2F%2Fgraslutscher.de%2Fwp-content%2Fuploads%2F2014%2F07%2FWWF-SCheiss.jpg&imgrefurl=http%3A%2F%2Fgraslutscher.de%2Fjetzt-hackt-doch-nicht-alle-auf-dem-armen-wwf-rum%2F&h=743&w=1000&tbnid=h_RcaIaN3OOA8M%3A&zoom=1&docid=mMpX0q3HukfZmM&ei=Yy3iU7TwFqiM4gS004HICA&tbm=isch&client=safari&iact=rc&uact=3&dur=516&page=1&start=0&ndsp=30&ved=0CCUQrQMwAQ),
+PETA, Deutscher Tierschutzbund, WWF</em>## Nachtrag (18:45)</strong>
 
 Hier einige Kommentare, die unter meinem Link zum Artikel auf Facebook
 aufgetaucht sind:
@@ -335,14 +324,14 @@ in Zusammenhang mit tatsächlich geprüften und gelabelten Produkten verwendet
 wird, das wirkt einem „Green Washing“ entgegen. Und wir behalten uns das Recht
 vor, die üblichen Intensivhaltungen weiterhin zu kritisieren. Weitere
 Informationen zum Tierschutzlabel finden Sie unter
-<a href="http://www.tierschutzlabel.info/home/" target="_blank" rel="noopener">http://www.tierschutzlabel.info/home/</a>.</em><em>Sehr
-geehrte Frau Reis, vielleicht überdenken Sie Ihre Kündigung vor dem Hintergrund
-der von uns zur Verfügung gestellten Informationen noch einmal. Wir würden uns
-sehr freuen. Sollten wir nichts mehr von Ihren hören, endet Ihre Mitgliedschaft
-am 30.09.2014. Aber vielleicht bleiben Sie im Kampf doch an unserer
-Seite?</em><em>Anderenfalls danken wir Ihnen für die bisherige Unterstützung und
-Ihr Engagement für die Tiere und verbleiben</em><em> mit freundlichen
-Grüßen</em>
+[http://www.tierschutzlabel.info/home/](http://www.tierschutzlabel.info/home/).
+</em><em>Sehr geehrte Frau Reis, vielleicht überdenken Sie Ihre Kündigung vor
+dem Hintergrund der von uns zur Verfügung gestellten Informationen noch einmal.
+Wir würden uns sehr freuen. Sollten wir nichts mehr von Ihren hören, endet Ihre
+Mitgliedschaft am 30.09.2014. Aber vielleicht bleiben Sie im Kampf doch an
+unserer Seite?</em><em>Anderenfalls danken wir Ihnen für die bisherige
+Unterstützung und Ihr Engagement für die Tiere und verbleiben</em><em> mit
+freundlichen Grüßen</em>
 
 &nbsp;
 

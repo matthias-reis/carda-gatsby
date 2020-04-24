@@ -81,10 +81,9 @@ Wie alle Feuerwear Produkte sind auch die "Eddies" echte Einzelstücke. Das lieg
 daran, dass es jedes Stück Feuerwehrschlauch nur ein einziges Mal gibt. Farbe,
 Beschriftung und Abnutzungsgrad bestimmten das Muster. Im Feuerwear-Onlineshop
 sieht man daher ausschließlich Unikate. Bei meinem "Eddie" steht genau wie
-<a href="http://cardamonchai.com/2019/09/feuerwear-feminine-kollektion/">meiner
-Handtasche "Phil"</a> die Innenseite des Schlauchs im Mittelpunkt des Designs.
-Bei den helleren Farben (zum Beispiel Rot und Weiß) ist die Außenseite außen zu
-sehen.
+[meiner Handtasche "Phil"](/2019/09/feuerwear-feminine-kollektion/)  die
+Innenseite des Schlauchs im Mittelpunkt des Designs. Bei den helleren Farben
+(zum Beispiel Rot und Weiß) ist die Außenseite außen zu sehen.
 
 Das Material ist extrem hitzebeständig und reißfest. Schließlich muss es
 Feuerwehreinsätze aushalten. Es kann zum Beispiel auch einen
@@ -97,11 +96,10 @@ sonst ist innen alles schön trocken geblieben.
 [glry name="feuerwear2"]
 
 Wer neugierig geworden ist und selbst einen "Eddie" adoptieren möchte, kann das
-<a href="https://www.feuerwear.de/rucksaecke-aus-feuerwehrschlauch/rolltop-rucksack-eddie" target="_blank" rel="noopener nofollow">auf
-der Homepage</a> von Feuerwear tun. Für 189 Euro gehört eines der in liebevoller
-Handarbeit hergestellten Einzelstücke Euch.
+[auf der Homepage](https://www.feuerwear.de/rucksaecke-aus-feuerwehrschlauch/rolltop-rucksack-eddie)
+von Feuerwear tun. Für 189 Euro gehört eines der in liebevoller Handarbeit
+hergestellten Einzelstücke Euch.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

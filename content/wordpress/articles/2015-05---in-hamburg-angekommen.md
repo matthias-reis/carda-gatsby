@@ -77,8 +77,8 @@ Was wir alles schon gesehen haben? So dies und das, wir haben zwei Radtouren
 gemacht, die Elbe und die Alster erkundet, wir waren auf dem Flohmarkt, beim
 Frühstücken, sind zusammen ins alte Land gefahren, haben die Kirschblüte dort
 bewundert, waren auf dem Hafengeburtstag und sogar schon auf einem
-<a href="http://cardamonchai.com/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/">Konzert</a>,
-die Bilder habe ich ja bereits hier gepostet.
+[Konzert](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/), die Bilder
+habe ich ja bereits hier gepostet.
 
 Das Wetter hat uns bis jetzt die meiste Zeit in die Karten gespielt, weshalb wir
 jedes Wochenende die Gelegenheit hatten, an der frischen Luft zu sein und die
@@ -102,6 +102,4 @@ vegane Rezept geben. Seid gespannt und bleibt dran!
 
 Ich drücke (und vermisse!!) Euch Anne &lt;3
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

@@ -171,20 +171,16 @@ prägnant in einem Satz:
 Und auch damit hat er voll meinen Geschmack getroffen.
 
 Wer jetzt neugierig geworden ist und gerne mehr über <em>Smecket </em>wissen
-möchte, kann jederzeit
-auf <a href="https://smecket.de/" target="_blank" rel="noopener">Daniels
-Homepage</a> vorbeischauen. Dort kann man nicht nur Tee käuflich erwerben,
-sondern auch noch einiges über die verschiedenen Teesorten lernen. Und: Seid
-gespannt! Schon bald gibt es auch hier im Blog noch einiges zum Thema!
+möchte, kann jederzeit auf  [Daniels Homepage](https://smecket.de/)
+ vorbeischauen. Dort kann man nicht nur Tee käuflich erwerben, sondern auch noch
+einiges über die verschiedenen Teesorten lernen. Und: Seid gespannt! Schon bald
+gibt es auch hier im Blog noch einiges zum Thema!
 
 [gallery type="rectangular" size="large" link="none"
 ids="16367,16382,16381,16374,16370,16369,16383,16366,16365,16364"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

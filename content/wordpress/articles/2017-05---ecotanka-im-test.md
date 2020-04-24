@@ -129,10 +129,8 @@ ich bin kurz auf den Balkon gehuscht, Frau Doktor, aber ich war ganz dick
 eingepackt und nach dem Foto ganz schnell wieder im Bett, versprochen.). Ich
 denke, man kann sie trotzdem schön sehen.
 
-Im Netz findet Ihr Ecotanka
-<a href="https://www.ecotanka.eu/" target="_blank" rel="noopener">hier</a>.
+Im Netz findet Ihr Ecotanka [hier](https://www.ecotanka.eu/).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

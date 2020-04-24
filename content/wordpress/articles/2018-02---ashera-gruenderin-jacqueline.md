@@ -59,11 +59,10 @@ subTitle: '"Nachhaltigkeit und Natürlichkeit ist mein Thema!"'
 <em>Werbung, Anzeige &amp; Affiliate Link\*</em>
 
 <b>Vor Kurzem habe ich Euch hier im Blog die vegane Kosmetik aus dem Hause
-Ashéra Cosmetics
-<a href="http://cardamonchai.com/2018/01/ashera-yin-yang-balance/">vorgestellt</a>.
-Jetzt hatte ich die Gelegenheit, mich mit der Gründerin der in Regensburg
-beheimateten Kosmetikmarke zu unterhalten. Im Interview mit Jacqueline
-Heimgärtner habe ich einige sehr interessante Details erfahren.</b>
+Ashéra Cosmetics [vorgestellt](/2018/01/ashera-yin-yang-balance/). Jetzt hatte
+ich die Gelegenheit, mich mit der Gründerin der in Regensburg beheimateten
+Kosmetikmarke zu unterhalten. Im Interview mit Jacqueline Heimgärtner habe ich
+einige sehr interessante Details erfahren.</b>
 
 ![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/blogbild_foamer-300x169.jpg)
 
@@ -201,8 +200,7 @@ Klangschalen.
 für Dich der Beautytrend des Sommerhalbjahres?
 
 <b>Jacqueline: </b>Auf jeden Fall
-<a href="https://cardamonchai.com/category/gesellschaft/klima-umweltschutz/">Nachhaltigkeit</a>
-und Natürlichkeit!
+[Nachhaltigkeit](/category/gesellschaft/klima-umweltschutz/) und Natürlichkeit!
 
 <b>Anne:</b> Euch gibt es seit 2017. Seitdem sind bereits zwei Kosmetiklinien
 erschienen, man sieht Euch auf Messen und auch in den sozialen Netzwerken seid
@@ -223,8 +221,7 @@ gemacht!
 ![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
 
 Zum Onlineshop von Ashéra geht es
-<a href="https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F).
 
 ![Ashéra Naturkosmetik](https://www.adcell.de/promotion/image/promoId/172492/slotId/80259)
 
@@ -234,6 +231,6 @@ entlang</a>.
 
 <em>Dieser Artikel enthält Werbung und Affiliate Links und entstand im
 Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch
-nicht
-beeinflusst.<a href="https://www.trusted-blogs.com/tipps/werbekennzeichnung" target="_blank" rel="noopener">
-Für Infos dazu bitte hier klicken</a>.</em>
+nicht beeinflusst.
+[Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
+</em>

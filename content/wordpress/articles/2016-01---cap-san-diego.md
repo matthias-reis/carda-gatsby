@@ -91,10 +91,8 @@ Erinnerungen bringt.
 [myflickr tag="annecapsandiego1"]
 
 Hat Euch das Seefahrer-Fieber gepackt?
-<a href="http://cardamonchai.com/2016/01/das-internationale-maritime-museum-hamburg/">Hier
-findet Ihr eine Bildergalerie</a> aus dem Internationalen Maritimen Museum
-Hamburg.
+[Hier findet Ihr eine Bildergalerie](/2016/01/das-internationale-maritime-museum-hamburg/)
+aus dem Internationalen Maritimen Museum Hamburg.
 
 Infos über das Museumsschiff findet Ihr auf der
-<a href="http://www.capsandiego.de/" target="_blank" rel="noopener">Homepage</a>
-der Cap San Diego
+[Homepage](http://www.capsandiego.de/) der Cap San Diego

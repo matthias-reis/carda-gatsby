@@ -52,14 +52,14 @@ sehen, dass es schwierig wird, drehen wir uns weg. Was läuft schief mit
 uns?</strong>
 
 Ganz oben seht Ihr ein Bild von der
-<a href="http://cardamonchai.com/2017/06/stamp-festival-altona-2017-parade/">Sonntags-Parade</a>
-auf dem Stamp Festival in Altona. Ich habe die Gesichter ausgeblurrt, ich finde,
-so kommt die Stimmung besser rüber. Die Truppe zeigt ja ein Bisschen die
-Gesellschaft an sich. Wie sich alle abrackern und keiner dem anderen hilft. Alle
-beobachten andere beim Versuch, etwas hinzukriegen (und auch gerne dabei, wie
-sie daran scheitern). Es ist, als würde man sie ganz leise sagen hören "Das habe
-ich mir schon gedacht, dass sie das nicht hinkriegen. Gut, dass ICH es nicht
-versucht habe".
+[Sonntags-Parade](/2017/06/stamp-festival-altona-2017-parade/) auf dem Stamp
+Festival in Altona. Ich habe die Gesichter ausgeblurrt, ich finde, so kommt die
+Stimmung besser rüber. Die Truppe zeigt ja ein Bisschen die Gesellschaft an
+sich. Wie sich alle abrackern und keiner dem anderen hilft. Alle beobachten
+andere beim Versuch, etwas hinzukriegen (und auch gerne dabei, wie sie daran
+scheitern). Es ist, als würde man sie ganz leise sagen hören "Das habe ich mir
+schon gedacht, dass sie das nicht hinkriegen. Gut, dass ICH es nicht versucht
+habe".
 
 Kennt Ihr dieses Gefühl auch? Ihr brennt für eine Sache. Kämpft dafür. Mit
 Leidenschaft. Ihr gebt alles und steckt Eure komplett Energie hinein. Und es
@@ -162,8 +162,8 @@ austauschen, darüber lachen und fachsimpeln. Heute springt man nur noch von
 Anriss zu Anriss. Besonders beliebt sind Plattformen geworden, deren Inhalte
 sich automatisch nach 24 Stunden löschen. Schrecklich, oder? So bleibt einem
 nicht mal mehr das "Hast Du gestern auch das Meme mit der
-<a href="http://cardamonchai.com/2012/08/ode-an-den-kater/">Katze</a> im Pool
-bekommen? Nicht? Moment, ich zeige es Dir schnell!".
+[Katze](/2012/08/ode-an-den-kater/) im Pool bekommen? Nicht? Moment, ich zeige
+es Dir schnell!".
 
 Vielleicht sollten wir uns einfach ein Bisschen zurückbesinnen. Zu Büchern. Oder
 uns einfach mal wieder in der Weinstube treffen und uns gegenseitig die Dinge

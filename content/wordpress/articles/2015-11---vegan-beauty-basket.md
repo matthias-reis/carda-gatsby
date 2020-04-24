@@ -116,11 +116,11 @@ Apfel, Birkenblätter, Kamille, Mädelsüß, Pfefferminze und Schafgarbe.
 
 Über das nächste Produkt habe ich mich besonders gefreut: Ein Lippenpflegestift
 von Amazingy. Da mein Hurraw! Pflegestift gerade aufgebraucht war, kam der
-natürlich gerade recht. Der Amazingy-Balm kommt ohne
-<a href="http://cardamonchai.com/2015/05/palmoel/">Palmöl</a> und Vaseline aus
-und ist aus nachhaltiger Herstellung. Die Textur ist sehr angenehm, man hat
-nicht das Gefühl, dass die Lippen nach der Verwendung klebrig sind und der Stift
-hat sogar meine von der Kälte etwas aufgesprungenen Lippen wieder glattgepflegt.
+natürlich gerade recht. Der Amazingy-Balm kommt ohne [Palmöl](/2015/05/palmoel/)
+und Vaseline aus und ist aus nachhaltiger Herstellung. Die Textur ist sehr
+angenehm, man hat nicht das Gefühl, dass die Lippen nach der Verwendung klebrig
+sind und der Stift hat sogar meine von der Kälte etwas aufgesprungenen Lippen
+wieder glattgepflegt.
 
 Last but not least war noch eine Körperbutter von Bloos enthalten. Sie hat einen
 tollen Vanilleduft, der kein Bisschen künstlich wirkt, ist sehr ergiebig und
@@ -149,5 +149,4 @@ eine Ausprobier-Empfehlung.
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

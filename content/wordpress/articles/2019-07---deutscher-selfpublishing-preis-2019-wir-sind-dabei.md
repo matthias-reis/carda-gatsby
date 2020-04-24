@@ -55,12 +55,12 @@ fest:"Die Hermetiker" ist unter den ersten zehn.
 ## Deutscher Selfpublishing Preis - Unser kleiner Zwischenerfolg
 
 Das ist ein kleiner Zwischenerfolg, der uns sehr glücklich macht. In der VLB-TIX
-sieht unsere Roman-Seite jetzt so aus<a href="#1"><sup>1</sup></a> :
+sieht unsere Roman-Seite jetzt so aus [](#1) :
 
 ![deutscher-selfpublishing-preis | full](http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-14.05.22-960x363.png)
 
 Auf der BOD (Books on demand) Contest-Seite sind wir als drittes Buch zu sehen,
-schaut mal<a href="#2"><sup>2</sup></a>:
+schaut mal [](#2) :
 
 ![deutscher-selfpublishing-preis | full](http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-13.35.30-960x1093.png)
 
@@ -78,11 +78,10 @@ Unser Roman "Die Hermetiker" ist selbstverständlich schon jetzt über den
 Buchhandel bestellbar. Außerdem gibt es ihn auch als E-Book. Alle Infos zum Buch
 findet Ihr auf unserer Autorenseite:
 
-<a href="https://amreis.de/hermetiker/?h=ha118" target="_blank" rel="noopener">amreis.de</a>
+[amreis.de](https://amreis.de/hermetiker/?h=ha118)
 
 Ganz Eilige können auch jederzeit
-<a href="https://amreis.de/ha132" target="_blank" rel="noopener nofollow">über
-den Online-Buchhandel eine Bestellung aufgeben</a>.
+[über den Online-Buchhandel eine Bestellung aufgeben](https://amreis.de/ha132).
 
 ## News und Infos zum Preis
 
@@ -90,14 +89,14 @@ Regelmäßig gepostet wird unter anderem in den Kanälen des Deutschen
 Selfpublishing Preises:
 
 <ul>
-    <li><strong>Website:</strong> <a href="http://www.selfpublishing-preis.de" target="_blank" rel="noopener nofollow">www.selfpublishing-preis.de</a></li>
-    <li><strong>Instagram:</strong> <a href="http://www.instagram.com/selfpublishingpreis" target="_blank" rel="noopener nofollow">www.instagram.com/selfpublishingpreis</a></li>
-    <li><strong>Facebook:</strong> <a href="http://www.facebook.com/selfpublishingpreis" target="_blank" rel="noopener nofollow">www.facebook.com/selfpublishingpreis</a></li>
+    <li><strong>Website:</strong>  [www.selfpublishing-preis.de](http://www.selfpublishing-preis.de) </li>
+    <li><strong>Instagram:</strong>  [www.instagram.com/selfpublishingpreis](http://www.instagram.com/selfpublishingpreis) </li>
+    <li><strong>Facebook:</strong>  [www.facebook.com/selfpublishingpreis](http://www.facebook.com/selfpublishingpreis) </li>
 </ul>
 
 ### Fußnoten
 
 <ul>
-    <li id="1">[1] <a href="https://www.vlbtix.de/user/search/Title.aspx?pr=9783748126522" target="_blank" rel="noopener">VLB-TIX</a></li>
-    <li id="2">[2] <a href="https://www.bod.de/fingerprint/aktuelles/besondere-neuerscheinungen-im-juli-auf-vlb-tix/" target="_blank" rel="noopener">Finalist*innen Titelgrafik</a></li>
+    <li id="1">[1]  [VLB-TIX](https://www.vlbtix.de/user/search/Title.aspx?pr=9783748126522) </li>
+    <li id="2">[2]  [Finalist*innen Titelgrafik](https://www.bod.de/fingerprint/aktuelles/besondere-neuerscheinungen-im-juli-auf-vlb-tix/) </li>
 </ul>

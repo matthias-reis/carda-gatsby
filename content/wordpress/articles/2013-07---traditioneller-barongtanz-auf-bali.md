@@ -44,8 +44,7 @@ subTitle: Unsere große Reise - Teil II
 
 ![Legong](http://cardamonchai.files.wordpress.com/2013/07/2013-07-12_1373620697.jpg?w=300 "Legong")
 
-<strong>Nach drei Tagen ließen wir
-<a title="Dubai cardamonchai" href="/2013/07/29/unsere-grose-reise/" target="_blank" rel="noopener">Dubai</a>
+<strong>Nach drei Tagen ließen wir [Dubai](/2013/07/29/unsere-grose-reise/)
 hinter uns und reisten über Jakarta nach Denpasar. </strong>
 
 Nach einer Übernachtung in einem Hotel in Sanur brachen wir am Morgen zu unserer
@@ -135,4 +134,4 @@ aufhören, zu knipsen! :-)
 [gallery columns="1" type="rectangular" size="large"
 ids="6129,6130,6131,6132,6133,6134,6135,6136,6137,6138,6139,6141,6142,6143,6144,6145,6146,6147,6148,6149,6150,6151,6152,6153,6154,6155,6156,6157,6158,6159,6160,6161,6162,6163,6164,6165,6166,6167,6168,6169,6170,6171,6172,6173,6174,6175,6176,6177,6178,6179,6180,6181,6182,6183,6184,6185,6186,6187,6188,6189,6190,6191,6192,6193,6194,6195,6196,6197,6198,6199,6200,6201,6202,6204,6205,6206,6207,6208,6209,6210,6211,6212,6213,6214,6215"]
 
-<ol><li><a href="/2013/08/dubai-und-bali-in-polaroids">Dubai</a></li><li><a href="/2013/07/traditioneller-barong-tanz-auf-bali/">Traditioneller Barongtanz auf Bali</a></li><li><a href="/2013/08/handwerk-und-kunst-auf-bali/">Handwerk und Kunst auf Bali</a></li><li><a href="/2013/08/bali-aus-dem-autofenster/">Bali aus dem Autofenster</a></li><li><a href="/2013/08/flora-fauna-ackerbau-und-viehzucht-auf-bali/">Flora und Fauna auf Bali</a></li><li><a href="http://2013/08/tempel-und-religion-auf-bali/">Tempel und Religion auf Bali</a></li><li><a href="/2013/08/dubai-und-bali-in-polaroids/">Dubai und Bali in Polaroids</a></li></ol>
+<ol><li> [Dubai und Bali in Polaroids](/2013/08/dubai-und-bali-in-polaroids) </li></ol>

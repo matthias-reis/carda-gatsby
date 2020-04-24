@@ -54,8 +54,6 @@ Quadratkilometer.
 
 [myflickr tag="annemanching2009"]
 
-Hier geht es zur
-<a title="Manching" href="http://www.manching.de" target="_blank" rel="noopener">Homepage</a>
-der Marktgemeinde
+Hier geht es zur [Homepage](http://www.manching.de) der Marktgemeinde
 
 <span style="text-decoration: underline;"></span>

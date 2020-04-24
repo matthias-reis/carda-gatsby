@@ -68,12 +68,11 @@ thumbnailId: "2556"
 subTitle: Der Mixtape-Tausch Teil 2
 ---
 
-<strong><a title="Mixtape-Tausch Teil 1" href="http://cardamonchai.com/2011/08/der-mixtape-tausch/"><em>...Teil
-1</em></a> Erstmal ein ganz großes Dankeschön an Ginsberg für sein wunderbares
-Mixtape. Die Musik darauf trifft wirklich sehr genau meinen Geschmack. Die
-meisten Bands kannte ich noch nicht, also eine wunderbare Möglichkeit für mich
-neue Musik kennen zu lernen und meinen musikalischen Horizont zu
-erweitern.</strong>
+<strong> [](/2011/08/der-mixtape-tausch/) Erstmal ein ganz großes Dankeschön an
+Ginsberg für sein wunderbares Mixtape. Die Musik darauf trifft wirklich sehr
+genau meinen Geschmack. Die meisten Bands kannte ich noch nicht, also eine
+wunderbare Möglichkeit für mich neue Musik kennen zu lernen und meinen
+musikalischen Horizont zu erweitern.</strong>
 
 Zusätzlich zu den 15 Songs, auf der Kassette, sowie auf 2 CDs (jeweils eine CD
 für jede Seite der Kassette), habe ich noch eine dritte CD mit dem Titel "Die

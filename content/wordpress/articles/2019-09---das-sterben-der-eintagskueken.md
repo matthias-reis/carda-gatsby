@@ -79,11 +79,11 @@ Grünen-Fraktionschefin Kathrin Göring-Eckhardt sagte gegenüber den Zeitungen 
 Redaktionsnetzwerks Deutschland, das Gerichtsurteil müsse von der
 Bundesregierung als Anlass dazu gesehen werden, sich aus der Umklammerung der
 Agrarlobby zu befreien. Bundeslandwirtschaftministerin Klöckler müsse umgehend
-ein Gesetz gegen das Töten von Küken vorlegen.<a href="#1"><sup>1</sup></a>
+ein Gesetz gegen das Töten von Küken vorlegen. [](#1)
 
 ### Am 12. Juni erging beim Bundesverwaltungsgericht in Leipzig folgendes Urteil:
 
-<blockquote>"Das massenhafte Töten männlicher Küken in der Legehennenzucht gilt vorerst noch als rechtmäßig. Bis zur Einführung von alternativen Verfahren zur Geschlechtsbestimmung im Hühnerei dürfen Brutbetriebe männliche Küken weiter töten." (BVerwG 3 C 28.16 und 3 C 29.6)<a href="#2"><sup>2</sup></a></blockquote>
+<blockquote>"Das massenhafte Töten männlicher Küken in der Legehennenzucht gilt vorerst noch als rechtmäßig. Bis zur Einführung von alternativen Verfahren zur Geschlechtsbestimmung im Hühnerei dürfen Brutbetriebe männliche Küken weiter töten." (BVerwG 3 C 28.16 und 3 C 29.6) [](#2) </blockquote>
 
 Das Gericht sah keine Möglichkeit, die Tötungen sofort zu untersagen. Die
 übliche Praxis sei von einer damaligen Vorstellungen entsprechenden geringeren
@@ -101,17 +101,16 @@ Zeitpunkt werden noch zahlreiche Eintagsküken ihr Leben lassen.
 Neben den Forschungen zur Geschlechtsbestimmung vor dem Schlüpfen beschäftigen
 sich Wissenschaftler unter anderem auch mit dem sogenannten "Zweitnutzungshuhn".
 Das Versuchsgut Frankenforst der Uni Bonn verspricht sich davon eine
-"tierwohlfreundlichere" und "zukunftsfährigere" Tierhaltung (WDR
-berichtete<a href="#4"><sup>4</sup></a>). Die Legehennen sollen bei dieser neuen
-Form der Zucht "genügend" Eier legen, während die männlichen Küken für die
-Fleischgewinnung genutzt werden. Nordrhein-Westfalen soll für das Projekt als
-Modellregion fungieren.
+"tierwohlfreundlichere" und "zukunftsfährigere" Tierhaltung (WDR berichtete
+[](#4) ). Die Legehennen sollen bei dieser neuen Form der Zucht "genügend" Eier
+legen, während die männlichen Küken für die Fleischgewinnung genutzt werden.
+Nordrhein-Westfalen soll für das Projekt als Modellregion fungieren.
 
-Die Supermarktkette Norma<a href="#4"><sup>4</sup></a> startete erst kürzlich
-die Kampagne "Wer Huhn sagt, muss auch Hahn sagen". Im Rahmen der Aktion werden
-in Baden-Württhemberg Eier mit einer roten Banderole auf dem Karten zu einem
-höheren Preis verkauft. Das eingenommene Geld soll jungen Hähnen zugutekommen,
-die ihr Leben dann in Ställen sowie in Freilandhaltung verbringen sollen.
+Die Supermarktkette Norma [](#4) startete erst kürzlich die Kampagne "Wer Huhn
+sagt, muss auch Hahn sagen". Im Rahmen der Aktion werden in Baden-Württhemberg
+Eier mit einer roten Banderole auf dem Karten zu einem höheren Preis verkauft.
+Das eingenommene Geld soll jungen Hähnen zugutekommen, die ihr Leben dann in
+Ställen sowie in Freilandhaltung verbringen sollen.
 
 ## Wir müssen uns für die Tiere stark machen
 
@@ -122,9 +121,8 @@ zu sich nehmen und nicht flächendeckend aus ethischen Gründen darauf verzichte
 sind diese kleinen Schritte mehr als wichtig. Alles, was dabei hilft, das Leid
 der "Nutztiere" so gering wie möglich zu halten sollte getan werden.
 
-Tierschutzorganisationen wie die Albert Schweitzer Stiftung für unsere
-Mitwelt<a href="#5"><sup>5</sup></a> und PETA<a href="#6"><sup>6</sup></a>
-machen sich für die Tiere stark und machen auf Missstände, wie die in der
+Tierschutzorganisationen wie die Albert Schweitzer Stiftung für unsere Mitwelt
+[](#5) machen sich für die Tiere stark und machen auf Missstände, wie die in der
 Hühnerzucht, aufmerksam. Wer etwas bewirken möchte, unterstützt ihre Petitionen,
 geht für die Rechte der Tiere auf die Straße und spendet für den Tierschutz.
 
@@ -155,19 +153,16 @@ geschreddert.</blockquote>
 <ul>
     <li style="list-style-type: none;">
 <ul>
-    <li id="1">[1] <a href="https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz" target="_blank" rel="noopener">Pressemitteilung der Albert Schweitzer Stiftung vom 13.06.2019</a></li>
-    <li id="2">[2] <a href="https://www.bverwg.de/pm/2019/47" target="_blank" rel="noopener">Pressemitteilung vom Bundesverwaltungsgericht zum Urteil BVerwG 3 C 28.16 und 3 C 29.6 am 13.06.2019</a></li>
-    <li id="3">[3] <a href="https://www1.wdr.de/nachrichten/rheinland/nutztierhaltung-nrw-100.html" target="_blank" rel="noopener">WDR</a></li>
-    <li id="4">[4] <a href="https://www.presseportal.de/pm/62097/4363476 target=" rel="noopener">Norma</a></li>
-    <li id="5">[5] <a href="https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz" target="_blank" rel="noopener">Albert Schweitzer Stifung</a></li>
-    <li id="6">[6] <a href="https://www.peta.de/eier" target="_blank" rel="noopener">PETA</a></li>
-    <li id="7">[7] <a href="https://www.foodwatch.org/de/newsletter/2019/das-ist-der-blanke-hohn/?L=0" target="_blank" rel="noopener">Foodwatch</a></li>
+    <li id="1">[1]  [Pressemitteilung der Albert Schweitzer Stiftung vom 13.06.2019](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz) </li>
+    <li id="2">[2]  [Pressemitteilung vom Bundesverwaltungsgericht zum Urteil BVerwG 3 C 28.16 und 3 C 29.6 am 13.06.2019](https://www.bverwg.de/pm/2019/47) </li>
+    <li id="3">[3]  [WDR](https://www1.wdr.de/nachrichten/rheinland/nutztierhaltung-nrw-100.html) </li>
+    <li id="4">[4]  [Norma](https://www.presseportal.de/pm/62097/4363476 target=) </li>
+    <li id="5">[5]  [Albert Schweitzer Stifung](https://albert-schweitzer-stiftung.de/aktuell/urteil-zum-kuekentoeten-erfolg-fuer-den-tierschutz) </li>
+    <li id="6">[6]  [PETA](https://www.peta.de/eier) </li>
+    <li id="7">[7]  [Foodwatch](https://www.foodwatch.org/de/newsletter/2019/das-ist-der-blanke-hohn/?L=0) </li>
 </ul>
 </li>
 </ul>
 
 <strong>Fotos:</strong>
-<a href="https://www.timostammberger.com/" target="_blank" rel="noopener">Timo
-Stammberger</a> /
-<a href="https://albert-schweitzer-stiftung.de/" target="_blank" rel="noopener">Albert
-Schweitzer Stiftung für unsere Mitwelt</a>
+[Albert Schweitzer Stiftung für unsere Mitwelt](https://www.timostammberger.com/)

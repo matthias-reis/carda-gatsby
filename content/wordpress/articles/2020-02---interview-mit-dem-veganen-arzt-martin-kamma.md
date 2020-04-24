@@ -107,13 +107,11 @@ immer "Freaks" der Medizin. Ich weiß nicht genau warum, aber wahrscheinlich wei
 sie eine kritische Auseinandersetzung mit den Lebensgewohnheiten gefordert
 haben. Das kam noch nie gut an.
 
-<strong>Anne:</strong> Ihre
-Kolleg⋆innen <a href="http://cardamonchai.com/2019/06/veganer-arzt-interview-dr-hanno-platz/" target="_blank" rel="noopener">Dr.
-Hanno Platz</a> und
-<a href="http://cardamonchai.com/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/" target="_blank" rel="noopener">Dr.
-Barbara Gorißen</a> haben mir in Interviews erzählt, dass sich vegane Ärzt⋆innen
-regelmäßig untereinander austauschen. Das stelle ich mir sehr konstruktiv und
-interessant vor. Haben Sie die beiden schon mal getroffen?
+<strong>Anne:</strong> Ihre Kolleg⋆innen 
+[Dr. Barbara Gorißen](/2019/06/veganer-arzt-interview-dr-hanno-platz/) haben mir
+in Interviews erzählt, dass sich vegane Ärzt⋆innen regelmäßig untereinander
+austauschen. Das stelle ich mir sehr konstruktiv und interessant vor. Haben Sie
+die beiden schon mal getroffen?
 
 <strong>Martin:</strong> Nein, ich habe von ihnen gehört, aber begegnet sind wir
 uns bisher noch nicht. Die Vernetzung veganer Ärzt⋆innen geht ein wenig
@@ -309,9 +307,9 @@ Substituieren beginnen oder erst, wenn der Arzt sagt, die Werte sinken?
 ## "Vitamin B12 ist wichtig"
 
 <strong>Martin:</strong> Man hat schon etwas Zeit, sich zu überlegen, wie man
-<a href="http://cardamonchai.com/2014/08/vitamin-b12-mythos-und-wahrheit/" target="_blank" rel="noopener">Vitamin
-B12</a> ergänzen möchte. Ich würde nicht auf ein Sinken der Werte warten,
-sondern früh mit einer Ergänzung beginnen.
+[Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/) ergänzen möchte. Ich
+würde nicht auf ein Sinken der Werte warten, sondern früh mit einer Ergänzung
+beginnen.
 
 <strong>Anne:</strong> Kann es unter bestimmten Umständen sein, dass man gar
 kein Vitamin B12 einnehmen muss?
@@ -329,15 +327,15 @@ und ausreichend zuführen. Eine besondere Gefahr besteht für das Nervensystem v
 Kindern und Jugendlichen. Eltern sollte das sehr ernst nehmen.
 
 <strong>Anne:</strong> Veganer⋆innen lehnen
-<a href="http://cardamonchai.com/2019/10/tierversuche-in-deutschland/" target="_blank" rel="noopener">Tierversuche</a>
-ab. Medikamente werden derzeit jedoch noch an Tieren getestet, das ist im Gesetz
-verankert. Auch, wenn sich die Ergebnisse nicht vom Tier auf den Menschen
-übertragen lassen. Als Mediziner müssen Sie natürlich Medikamente verschreiben.
-Wie sehen Sie das? Jeder hat ja seine Grenze, den Veganismus betreffend. Ich z.
-B. habe mir die ganz strikt gesteckt: Meine alten Lederstiefel werde ich tragen,
-bis sie mir von den Füßen fallen. Wenn der Arzt mir etwas verschreibt, dann
-versuche ich ein Präparat zu bekommen, welches frei von Laktose und Gelatine
-ist. Was die Tierversuche angeht, kann ich da natürlich nicht wählen, was bei
+[Tierversuche](/2019/10/tierversuche-in-deutschland/) ab. Medikamente werden
+derzeit jedoch noch an Tieren getestet, das ist im Gesetz verankert. Auch, wenn
+sich die Ergebnisse nicht vom Tier auf den Menschen übertragen lassen. Als
+Mediziner müssen Sie natürlich Medikamente verschreiben. Wie sehen Sie das?
+Jeder hat ja seine Grenze, den Veganismus betreffend. Ich z. B. habe mir die
+ganz strikt gesteckt: Meine alten Lederstiefel werde ich tragen, bis sie mir von
+den Füßen fallen. Wenn der Arzt mir etwas verschreibt, dann versuche ich ein
+Präparat zu bekommen, welches frei von Laktose und Gelatine ist. Was die
+Tierversuche angeht, kann ich da natürlich nicht wählen, was bei
 Kosmetikprodukten ja inzwischen problemlos möglich ist, daher kaufe ich auch nur
 noch vegane, TV-freie Produkte. Zurück zum Thema: Medikamente: Ist das ihre
 Grenze? Ist eine Änderung in Sicht? Wird es in naher Zukunft zu einer
@@ -451,11 +449,11 @@ herzlichen Dank!
 
 ## Weiterlesen
 
-<a href="https://vegan-auf-rezept.blogspot.com/" target="_blank" rel="noopener">Martin
-Kammas Blog heißt "Vegan auf Rezept"</a> - dort bloggt der Mediziner regelmäßig
-zu veganen Themen.
+[Martin Kammas Blog heißt "Vegan auf Rezept"](https://vegan-auf-rezept.blogspot.com/) -
+dort bloggt der Mediziner regelmäßig zu veganen Themen.
 
-Hat Euch mein Interview gefallen? <a href="#newsletter">Abonniert gerne meinen
-Newsletter</a>, um in Zukunft nichts mehr auf meiner Seite zu verpassen.
+Hat Euch mein Interview gefallen?
+[Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft nichts mehr auf
+meiner Seite zu verpassen.
 
 Fotos im Text: Martin Kamma privat

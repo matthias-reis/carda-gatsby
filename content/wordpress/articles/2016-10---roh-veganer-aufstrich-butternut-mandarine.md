@@ -32,11 +32,7 @@ subTitle: Rezept für ein Glas
 Butternut-Mandarine. Der Bitte komme ich hiermit nach.</strong>
 
 Schon vor einer Weile habe ich Euch hier im Blog gezeigt, wie man
-<a href="http://cardamonchai.com/2014/09/butternusskurbis-aus-dem-ofen/">Butternut-Kürbis</a>
-toll zubereiten kann. Die Kerne, die dabei ausgestochen werden und übrig
-bleiben, könnt Ihr für diesen tollen, herbstlichen
-<a href="http://cardamonchai.com/2015/09/diy-paranuss-tomaten-brotaufstrich/">Aufstrich</a>
-verwenden.
+[Aufstrich](/2014/09/butternusskurbis-aus-dem-ofen/) verwenden.
 
 ## Zutaten
 

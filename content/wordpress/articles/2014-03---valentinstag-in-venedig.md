@@ -61,40 +61,34 @@ vor Venedig bequem parken kann, entschieden wir uns, die Anreise mit dem Auto
 anzutreten. Ein kleines Abenteuer, denn unser Navi führte uns komplett über
 Landstraßen durch die Alpen.
 
-In Venedig angekommen, stellten wir das Auto
-in<a title="Tronchetto" href="http://de.wikipedia.org/wiki/Tronchetto" target="_blank" rel="noopener">
-Tronchetto</a> in einem großen Parkhaus ab und stiegen das erste Mal in einen
-dieser für Venedig typischen Wassertaxis, genannt
-<a title="Vaporetto" href="http://de.wikipedia.org/wiki/Vaporetto" target="_blank" rel="noopener">Vaporetti</a>,
-welches uns direkt zum
-<a title="Piazza San Marco" href="http://de.wikipedia.org/wiki/Markusplatz" target="_blank" rel="noopener">Piazza
-San Marco</a> und somit ins Zentrum Venedigs brachte. Natürlich fotografierten
-wir bereits auf dem Weg dort hin als würde es kein Morgen geben.
+In Venedig angekommen, stellten wir das Auto in [Piazza San
+Marco](http://de.wikipedia.org/wiki/Tronchetto) und somit ins Zentrum Venedigs
+brachte. Natürlich fotografierten wir bereits auf dem Weg dort hin als würde es
+kein Morgen geben.
 
 ![Valentinstag in Venedig](http://cardamonchai.files.wordpress.com/2014/03/12598643153_7fb1731ece_z.jpg?w=200)
 
-In einer kleinen Gasse direkt an der Piazza ist das
-<a title="Hotel Commercio e Pellegrino " href="http://www.commercioepellegrino.com/de/" target="_blank" rel="noopener">Hotel
-Commercio e Pellegrino</a> gelegen, in dem wir die nächsten beiden Nächte
-verbrachten. Das Hotel ist schnuckelig klein, gemütlich und es gibt ein tolles
-Frühstücksbuffet. Außerdem ist es natürlich der ideale Ausgangspunkt für eine
-Venedigbesichtigung, mit der wir natürlich sofort loslegten, nachdem wir unsere
-Rucksäcke im Zimmer abgestellt hatten.
+In einer kleinen Gasse direkt an der Piazza ist das [Hotel Commercio e
+Pellegrino](http://www.commercioepellegrino.com/de/) gelegen, in dem wir die
+nächsten beiden Nächte verbrachten. Das Hotel ist schnuckelig klein, gemütlich
+und es gibt ein tolles Frühstücksbuffet. Außerdem ist es natürlich der ideale
+Ausgangspunkt für eine Venedigbesichtigung, mit der wir natürlich sofort
+loslegten, nachdem wir unsere Rucksäcke im Zimmer abgestellt hatten.
 
 ## Venedig erkunden<a href="http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/">, die ich hiermit jedem ans Herz legen möchte, der vor hat, eines Tages die schöne Stadt im Mittelmeer zu bereisen.
 
 Beim Schlendern durch die Gassen und über die Brückchen Venedigs bekamen wir
 bereits die ersten Ausläufer des
-<a title="Karneval in Venedig" href="http://de.wikipedia.org/wiki/Karneval_in_Venedig" target="_blank" rel="noopener">Karnevals</a>
-zu sehen, der jedoch in keinster Weise mit dem chaotischen Treiben hierzulande
-zu vergleichen ist. In Venedig geht es da etwas ernster zu.
+[Karnevals](http://de.wikipedia.org/wiki/Karneval_in_Venedig) zu sehen, der
+jedoch in keinster Weise mit dem chaotischen Treiben hierzulande zu vergleichen
+ist. In Venedig geht es da etwas ernster zu.
 
 Wir probierten Masken an, fotografierten, spazierten, genossen die Sonne und den
 Espresso. Mein Fazit der Reise: Venedig ist toll. Ich war mit den düsteren
 Bildern einer Reportage im Kopf losgefahren, die ich kurz zuvor gesehen hatte.
-Ich hatte mir spannend vorgestellt. Wie in
-"<a title="Wenn die Gondeln Trauer tragen" href="http://de.wikipedia.org/wiki/Wenn_die_Gondeln_Trauer_tragen" target="_blank" rel="noopener">Wenn
-die Gondeln Trauer tragen</a>", zugig, dunkel und zugleich wunderschön.
+Ich hatte mir spannend vorgestellt. Wie in "[Wenn die Gondeln Trauer
+tragen](http://de.wikipedia.org/wiki/Wenn_die_Gondeln_Trauer_tragen)" , zugig,
+dunkel und zugleich wunderschön.
 
 ![Valentinstag in Venedig](http://cardamonchai.files.wordpress.com/2014/03/12599167784_f2c965442b_z.jpg?w=200)
 
@@ -116,9 +110,7 @@ können. Eine weitere Alternative wäre eine Zugfahrt, die bereits ab 150,- Euro
 pro Person zu haben ist.
 
 Hier ist eine kleine Bildergalerie unserer Venedigreise,
-<a title="Venedig Anne Flickr" href="http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/">meine
-komplette Sammlung </a>könnt Ihr wie immer in meinem
-<a title="Venedig Anne Flickr" href="http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/">Flickr</a>
+[Flickr](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
 sehen.
 
 ![Valentinstag in Venedig | large](http://cardamonchai.files.wordpress.com/2014/03/12600525393_45fac95355_z.jpg?w=490)

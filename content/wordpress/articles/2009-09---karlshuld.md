@@ -56,9 +56,7 @@ Karl Seitle wurde 2008 mit 97,27 Prozent der Stimmen zum Bürgermeister gewählt
 Die Gemeinde liegt 375 Meter über dem Meeresspiegel. Sie hat 5154, das sind 177
 pro Quadratkilometer.
 
-Hier geht es zur
-<a title="Karlshuld" href="http://www.karlshuld.de" target="_blank" rel="noopener">Homepage</a>
-von Karlshuld.
+Hier geht es zur [Homepage](http://www.karlshuld.de) von Karlshuld.
 
 &nbsp;
 

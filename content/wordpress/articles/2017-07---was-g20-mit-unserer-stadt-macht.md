@@ -112,8 +112,7 @@ Straße trifft man Kamerateams mit Helmen am Gürtel. Wovor möchten sie sich
 schützen? Vor uns Hamburgern?
 
 Warum muss ein Gipfeltreffen dieser Größenordnung in einer Großstadt wie
-Hamburg, in einem Viertel wie der
-<a href="http://cardamonchai.com/2017/01/liebe-sternschanze/">Schanze</a>
+Hamburg, in einem Viertel wie der [Schanze](/2017/01/liebe-sternschanze/)
 stattfinden? Warum das so entschieden wurde: Darüber gibt es die verschiedensten
 Geschichten. Es ließ sich nicht verhindern und ist nun auch zu spät. Der Gipfel
 wird in Hamburg stattfinden. Er wurde uns vorgesetzt und wir gehen dagegen auf
@@ -149,8 +148,7 @@ frei von Gewalt und mit friedlichen Demonstrationen. Unsere Stadt gehört uns un
 darum zeigen wir uns. Wir wollen keine Gewalt und möchten frei unsere Meinung
 zeigen. Wie es uns zusteht.
 
-<a href="http://cardamonchai.com/2017/04/bilder-aus-der-hood/">Bilder aus der
-Hood</a>
+[Bilder aus der Hood](/2017/04/bilder-aus-der-hood/)
 
 [gallery link="none" size="large" type="rectangular"
 ids="17043,17041,17038,17037,17036,17035"]

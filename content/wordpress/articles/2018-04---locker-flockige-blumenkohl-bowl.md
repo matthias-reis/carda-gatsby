@@ -91,8 +91,7 @@ nochmal alles gut und würzt nach Bedarf nach. Ihr könnt, wenn Ihr das mögt, a
 noch etwas Muskatnuss hinzugeben.
 
 Dazu passt hervorragend Kurkuma-Reis (siehe Foto). und ein schönes Glas
-<a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">veganer
-Weißwein</a>.
+[veganer Weißwein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
 
 ## Blumenkohl - Die Eckdaten
 

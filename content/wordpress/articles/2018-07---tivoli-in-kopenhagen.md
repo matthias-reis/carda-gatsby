@@ -35,10 +35,10 @@ Vergnügungspark Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf
 jeden Fall.</strong>
 
 Die zuckerstangenbunte Wunderwelt befindet sich mitten im Zentrum von
-<a href="http://cardamonchai.com/2018/07/radtour-durch-kopenhagen/">Kopenhagen</a> ziemlich
-genau zwischen dem Hauptbahnhof und dem Rathaus. Früher gehörte das Gelände dem
-Militär, König Christian VIII. überließ es dann zum Aufbau eines
-Vergnügungsparks für alle Generationen dem Verleger Georg Carstensen.
+[Kopenhagen](/2018/07/radtour-durch-kopenhagen/)  ziemlich genau zwischen dem
+Hauptbahnhof und dem Rathaus. Früher gehörte das Gelände dem Militär, König
+Christian VIII. überließ es dann zum Aufbau eines Vergnügungsparks für alle
+Generationen dem Verleger Georg Carstensen.
 
 ## Jazz und Großbrand
 

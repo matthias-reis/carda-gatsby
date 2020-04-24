@@ -108,25 +108,19 @@ jede Lieblings-Geschmacksrichtung was dabei.
 ## FoPo für Euch
 
 Auch für Euch gibt es <em>FoPo</em>! Die ersten 50 Besteller, die über meine
-Seite im
-<a href="http://www.myfopo.com" target="_blank" rel="noopener">Online-Shop</a>
-eine Bestellung aufgeben, bekommen 25 Prozent Rabatt auf alles! Einfach den
-Rabattcode
+Seite im [Online-Shop](http://www.myfopo.com) eine Bestellung aufgeben, bekommen
+25 Prozent Rabatt auf alles! Einfach den Rabattcode
 
 ANNEBLOGGTCARDAMONCHAI
 
 eingeben.
 
 Ich wünsche auch Euch viel Spaß beim Testen! Und psst! Auf meiner
-<a href="https://www.instagram.com/anne_reko/" target="_blank" rel="noopener">Instagram-Seite</a>
-und auf
-<a href="https://www.facebook.com/cardamonchai/" target="_blank" rel="noopener">Facebook</a>
-verlose ich zwei <em>FoPo</em>-Produktpakete! Hier geht es zu den
-<a href="http://cardamonchai.com/datenschutz/teilnahmebedingungen/">Teilnahmebedingungen</a>.
+[Teilnahmebedingungen](https://www.instagram.com/anne_reko/).
 
 [myflickr tag="annefopo"]
 
 <em>\*Hinweis: Dieser Artikel enthält Werbung und entstand im Zusammenhang mit
-Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht
-beeinflusst.<a href="https://www.trusted-blogs.com/tipps/werbekennzeichnung" target="_blank" rel="noopener">
-Für Infos dazu bitte hier klicken</a>.</em>
+Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.
+[Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
+</em>

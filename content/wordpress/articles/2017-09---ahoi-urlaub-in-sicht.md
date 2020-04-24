@@ -36,10 +36,7 @@ sicher jede Menge Fotos und Geschichten für Euch im Gepäck haben.</strong>
 
 Auf Instagram* und Facebook* werde ich hin und wieder etwas posten, doch mein
 Blog ruht sich so lange aus. Außerdem habe ich gerade eine
-<a href="http://cardamonchai.com/2017/09/fopo-rettet-aussortierte-fruechte/">TOLLE
-VERLOSUNG</a> gestartet.
-<a href="http://cardamonchai.com/2017/09/fopo-rettet-aussortierte-fruechte/">Hier
-könnt Ihr mitmachen</a>!
+[Hier könnt Ihr mitmachen](/2017/09/fopo-rettet-aussortierte-fruechte/) !
 
 Ihr findet hier im Blog zu allen möglichen Themen interessante Artikel, die Ihr
 während meiner Abwesenheit lesen und kommentieren könnt. Es ist für jeden die
@@ -50,31 +47,31 @@ richtige Rubrik dabei, versprochen!
 ### Rock 'n' Roll
 
 <ul>
-    <li><a href="/category/musik/konzerte/">Konzerte</a></li>
-    <li><a href="/category/musik/festivals/">Festivals</a></li>
-    <li><a href="/category/musik/bands-reviews/">Bands &amp; Reviews</a></li>
-    <li><a href="/category/musik/calexico/">Calexico</a></li>
+    <li> [Konzerte](/category/musik/konzerte/) </li>
+    <li> [Festivals](/category/musik/festivals/) </li>
+    <li> [Bands &amp; Reviews](/category/musik/bands-reviews/) </li>
+    <li> [Calexico](/category/musik/calexico/) </li>
 </ul>
 
 ### Vegan
 
 <ul>
-    <li><a href="/category/vegan-2/go-vegan/">Go Vegan!</a></li>
-    <li><a href="/category/vegan-2/mode/">Vegane Mode</a></li>
-    <li><a href="/vegan-2/vegane-persoenlichkeiten/">Vegane Persönlichkeiten</a></li>
-    <li><a href="/category/vegan-2/produkte/">Vegane Produkte</a></li>
-    <li><a href="/category/vegan-2/rezepte/">Vegane Rezepte</a></li>
+    <li> [Go Vegan!](/category/vegan-2/go-vegan/) </li>
+    <li> [Vegane Mode](/category/vegan-2/mode/) </li>
+    <li> [Vegane Persönlichkeiten](/vegan-2/vegane-persoenlichkeiten/) </li>
+    <li> [Vegane Produkte](/category/vegan-2/produkte/) </li>
+    <li> [Vegane Rezepte](/category/vegan-2/rezepte/) </li>
 </ul>
 
 ### Gesellschaft
 
 <ul>
-    <li><a href="/category/gesellschaft/interview/">Interview</a></li>
-    <li><a href="/category/gesellschaft/klima-umweltschutz/">Klima &amp; Umweltschutz</a></li>
-    <li><a href="/category/gesellschaft/tierschutz/">Tierschutz</a></li>
-    <li><a href="/category/gesellschaft/menschen/">Menschen</a></li>
-    <li><a href="/category/gesellschaft/politik-soziales/">Politik &amp; Soziales</a></li>
-    <li><a href="/category/gesellschaft/beschwerdeabteilung/">Beschwerdeabteilung</a></li>
+    <li> [Interview](/category/gesellschaft/interview/) </li>
+    <li> [Klima &amp; Umweltschutz](/category/gesellschaft/klima-umweltschutz/) </li>
+    <li> [Tierschutz](/category/gesellschaft/tierschutz/) </li>
+    <li> [Menschen](/category/gesellschaft/menschen/) </li>
+    <li> [Politik &amp; Soziales](/category/gesellschaft/politik-soziales/) </li>
+    <li> [Beschwerdeabteilung](/category/gesellschaft/beschwerdeabteilung/) </li>
 </ul>
 
 ### Unterwegs
@@ -82,35 +79,35 @@ richtige Rubrik dabei, versprochen!
 ![Urlaub | large](http://cardamonchai.com/wp-content/uploads/2017/09/Für-Blog-1-von-1-2-520x347.jpg)
 
 <ul>
-    <li><a href="/category/unterwegs/hamburg/">Hamburg</a></li>
-    <li><a href="/category/unterwegs/reisen/">Reisen</a></li>
-    <li><a href="/category/unterwegs/ausflug/">Ausflug</a></li>
-    <li><a href="/category/unterwegs/hochzeitsreise/">Hochzeitsreise</a></li>
+    <li> [Hamburg](/category/unterwegs/hamburg/) </li>
+    <li> [Reisen](/category/unterwegs/reisen/) </li>
+    <li> [Ausflug](/category/unterwegs/ausflug/) </li>
+    <li> [Hochzeitsreise](/category/unterwegs/hochzeitsreise/) </li>
     <li><a href="/category/unterwegs/kunst/">
-    <li><a href="/unterwegs/architektur/">Architektur</a></li>
-    <li><a href="/category/unterwegs/england/">Großbritannien</a></li>
-    <li><a href="/category/unterwegs/flora/">Flora</a></li>
-    <li><a href="/category/unterwegs/fauna/">Fauna</a></li>
+    <li> [Architektur](/unterwegs/architektur/) </li>
+    <li> [Großbritannien](/category/unterwegs/england/) </li>
+    <li> [Flora](/category/unterwegs/flora/) </li>
+    <li> [Fauna](/category/unterwegs/fauna/) </li>
 </ul>
 
 ### Bleistift 2.0
 
 <ul>
-    <li><a href="/category/bleistift-2-0/tagebuch/">Tagebuch</a></li>
-    <li><a href="/category/bleistift-2-0/kurzgeschichten/">Kurzgeschichten</a></li>
-    <li><a href="/category/bleistift-2-0/lyrik/">Lyrik</a></li>
-    <li><a href="/category/bleistift-2-0/lyrik/">Prosa</a></li>
-    <li><a href="/category/bleistift-2-0/selbstversuch/">Selbstversuch</a></li>
-    <li><a href="/category/bleistift-2-0/verlosung/">Verlosung</a></li>
+    <li> [Tagebuch](/category/bleistift-2-0/tagebuch/) </li>
+    <li> [Kurzgeschichten](/category/bleistift-2-0/kurzgeschichten/) </li>
+    <li> [Lyrik](/category/bleistift-2-0/lyrik/) </li>
+    <li> [Prosa](/category/bleistift-2-0/lyrik/) </li>
+    <li> [Selbstversuch](/category/bleistift-2-0/selbstversuch/) </li>
+    <li> [Verlosung](/category/bleistift-2-0/verlosung/) </li>
 </ul>
 
 ### Basteleien
 
 <ul>
-    <li><a href="/category/basteleien/diy/">DIY</a></li>
-    <li><a href="/basteleien/fotografie/">Fotografie</a></li>
-    <li><a href="/basteleien/webdesign">Webdesign</a></li>
-    <li><a href="/basteleien/online-marketing-basteleien/">Online Marketing</a></li>
+    <li> [DIY](/category/basteleien/diy/) </li>
+    <li> [Fotografie](/basteleien/fotografie/) </li>
+    <li> [Webdesign](/basteleien/webdesign) </li>
+    <li> [Online Marketing](/basteleien/online-marketing-basteleien/) </li>
 </ul>
 
 ## Fast schon wie Urlaub
@@ -124,13 +121,9 @@ man richtig Lust auf die schönste Stadt, oder?
 <em>Bis bald dann!</em>
 
 Übrigens habe ich gerade eine
-<a href="http://cardamonchai.com/2017/09/fopo-rettet-aussortierte-fruechte/">tolle
-Verlosung</a> gestartet.
-<a href="http://cardamonchai.com/2017/09/fopo-rettet-aussortierte-fruechte/">Hier
-könnt Ihr mitmachen</a>!
+[Hier könnt Ihr mitmachen](/2017/09/fopo-rettet-aussortierte-fruechte/) !
 
-<strong>\*Auf <a href="https://www.instagram.com/anne_reko/">Instagram</a> und
-<a href="https://www.facebook.com/cardamonchai/" target="_blank" rel="noopener">Facebook</a>
-poste ich auch im Urlaub ab und zu etwas.</strong>
+<strong>\*Auf [Facebook](https://www.instagram.com/anne_reko/) poste ich auch im
+Urlaub ab und zu etwas.</strong>
 
 [gallery type="rectangular" size="large" link="none" ids="17845,17846"]

@@ -95,11 +95,9 @@ kann man sogar selbst Vorschläge einreichen.
 
 ## Wie alles begann
 
-Weil
-<a href="http://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/">Klimaschutz</a> im
-Leben von Christian Kroll schon immer eine große Rolle gespielt hat, gründete er
-2009 zur UN-Klimakonferenz 2009 <em>Ecosia</em>. Zuvor hatte Kroll bereits die
-grünen
+Weil [Klimaschutz](/2017/02/klimaschutz-und-vegane-ernaehrung/)  im Leben von
+Christian Kroll schon immer eine große Rolle gespielt hat, gründete er 2009 zur
+UN-Klimakonferenz 2009 <em>Ecosia</em>. Zuvor hatte Kroll bereits die grünen
 Suchmaschinen <em>Forestle</em>, <em>OneCentPerSearch </em>und <em>znout </em>ins
 Leben gerufen.
 
@@ -133,9 +131,6 @@ zum Beispiel in Google Crome integriert werden. Besonderes Gimmick: Über dem
 Browserfenster wird dann ein Zähler angezeigt, in dem man jederzeit genau sehen
 kann, wie viele Bäume die persönlichen Suchanfragen schon "gepflanzt" haben.
 
-Ecosia
-<a href="https://www.ecosia.org" target="_blank" rel="noopener">Homepage</a>
+Ecosia [Homepage](https://www.ecosia.org)
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

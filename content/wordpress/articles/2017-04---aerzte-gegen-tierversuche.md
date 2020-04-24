@@ -48,7 +48,7 @@ Tierversuchsrichtlinie.
 Um das durchzusetzen, wurde eine Petition ins Leben gerufen. Jede/r sollte sie
 bis zum 11. April unter dem folgenden Link mitzeichnen:
 
-<a href="http://www.bundestagspetition.aerzte-gegen-tierversuche.de/" target="_blank" rel="noopener">http://www.bundestagspetition.aerzte-gegen-tierversuche.de/</a>
+[http://www.bundestagspetition.aerzte-gegen-tierversuche.de/](http://www.bundestagspetition.aerzte-gegen-tierversuche.de/)
 
 Im Text der Petition 69.364 heißt es
 
@@ -62,15 +62,13 @@ der Petition einzeln aufgeführt werden.
 ## Helft bitte mit!
 Die Petition findet Ihr, wie bereits oben angemerkt, unter
 
-<a href="http://www.bundestagspetition.aerzte-gegen-tierversuche.de/" target="_blank" rel="nofollow noopener">http://www.bundestagspetition.aerzte-gegen-tierversuche.de</a>
+[http://www.bundestagspetition.aerzte-gegen-tierversuche.de](http://www.bundestagspetition.aerzte-gegen-tierversuche.de/)
 
-Die Aktion
-der <a href="https://www.aerzte-gegen-tierversuche.de/de/" target="_blank" rel="noopener"><em>Ärzte
-gegen Tierversuche</em></a> ist von großer Wichtigkeit. Es geht darum, das
-unermessliche Leid der Tiere so schnell  wie möglich zu beenden. Nur, wenn die
-Petition bis zum 11. April 50.000 Mitzeichner zählt, wird es zu einer
-offiziellen Anhörung kommen. Die Organisation kann nur dann ein Verbot besonders
-leidvoller Tierversuche erwirken.
+Die Aktion der  [](https://www.aerzte-gegen-tierversuche.de/de/)  ist von großer
+Wichtigkeit. Es geht darum, das unermessliche Leid der Tiere so schnell  wie
+möglich zu beenden. Nur, wenn die Petition bis zum 11. April 50.000 Mitzeichner
+zählt, wird es zu einer offiziellen Anhörung kommen. Die Organisation kann nur
+dann ein Verbot besonders leidvoller Tierversuche erwirken.
 
 ## Tiere werden zum Schwimmen gezwungen, bis sie ertrinken
 
@@ -86,13 +84,8 @@ und müssen die Abstoßungsreaktionen von Implantaten über sich ergehen lassen.
 Ihnen werden Tumore und genetische Fehler angezüchtet.
 
 Ich bin der Meinung, dieses Thema geht jeden etwas an.
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/" target="_blank" rel="noopener">Tierversuche</a>
-sind unnötig und sinnlos. Sie sind durch nichts zu rechtfertigen und es wurde
-bereits oft genug bewiesen, dass die Ergebnisse nicht auf den Menschen
-übertragbar sind. Macht bitte alle mit, nur so können die 50.000 Stimmen
-erreicht werden!
-<a href="https://epetitionen.bundestag.de/content/petitionen/_2017/_01/_09/Petition_69364.html" target="_blank" rel="noopener">Legt
-am besten gleich los</a>!
+[Legt am besten gleich los](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
+!
 
 Wer jetzt noch juristische und wissenschaftliche Argumente benötigt, findet
 diese mit dem Klick auf folgendes Banner.
@@ -101,9 +94,7 @@ diese mit dem Klick auf folgendes Banner.
 
 <a href="http://www.schwimmen-bis-zur-verzweiflung.de/" target="_blank" rel="noopener">
 
-Bilder:
-<a href="https://www.aerzte-gegen-tierversuche.de/de/" target="_blank" rel="noopener">Ärzte
-gegen Tierversuche</a>
+Bilder: [Ärzte gegen Tierversuche](https://www.aerzte-gegen-tierversuche.de/de/)
 
 &nbsp;
 

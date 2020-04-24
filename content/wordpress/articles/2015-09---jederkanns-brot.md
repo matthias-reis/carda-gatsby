@@ -72,7 +72,6 @@ Stäbchentest dann nochmal.
 Das Vollkornbrot bei geöffneter Ofenklappe auskühlen lassen.
 
 Schmeckt natürlich nicht nur zu
-<a href="http://cardamonchai.com/2015/09/zucchinisuppe-herbstlich-vegan/">Zucchinisuppe</a>
-gut. :-)
+[Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/) gut. :-)
 
 Guten Appetit!

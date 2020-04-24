@@ -35,10 +35,10 @@ habe ich Sebastian kennengelernt.</strong>
 
 Sebastian berichtete dort von seiner Reise nach Yakutien (oder auch Jakutien
 oder Sacha genannt/geschrieben –
-<a href="https://de.wikivoyage.org/wiki/Sacha_%28Jakutien%29" target="_blank" rel="noopener">mehr
-Infos hier</a>) und Sibirien. Eine faszinierende Gegend, wie ich finde. Für mich
-war sofort klar: Darüber muss ich mehr erfahren. Kurzerhand schrieb ich
-Sebastian an und er erzählte mir von seinem Abenteuer.
+[mehr Infos hier](https://de.wikivoyage.org/wiki/Sacha_%28Jakutien%29) ) und
+Sibirien. Eine faszinierende Gegend, wie ich finde. Für mich war sofort klar:
+Darüber muss ich mehr erfahren. Kurzerhand schrieb ich Sebastian an und er
+erzählte mir von seinem Abenteuer.
 
 Schon als Kind war ihm klar, dass er eines Tages diese Gegend bereisen würde.
 Von sich selbst sagt er, dass er ein Winterkind ist und ihn die Kälte schon
@@ -102,5 +102,4 @@ möglich von zu Hause mitbringen, sonst kann es passieren, dass man sich
 wochenlang nur von Haferbrei mit Wasser und Äpfeln ernähren muss. Dafür erwartet
 einen eine spannende Landschaft, warmherzige Menschen und jede Menge Abenteuer.
 
-<a href="http://cardamonchai.com/2015/01/ich-hatte-noch-nie-heimweh/">Mein
-Interview mit Sebastian findet Ihr hier</a>.
+[Mein Interview mit Sebastian findet Ihr hier](/2015/01/ich-hatte-noch-nie-heimweh/).

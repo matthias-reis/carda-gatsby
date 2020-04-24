@@ -83,12 +83,10 @@ und die Haut fühlt sich frisch an.
 
 ## Hydro Repair Gel
 
-Für das
-<a href="https://cardamonchai.com/2018/06/mit-santaverde-auf-reisen/">Hydro
-Repair Gel</a> finde ich immer wieder neue Einsatzgebiete. Wenn meine Haut
-zwischendurch mal eine nervige Phase hat und meint, sie muss sich fettig zeigen,
-verwende ich es als Solopflege. Ist sie trocken, trage ich es zusätzlich zu
-meiner Creme untendrunter auf.
+Für das [Hydro Repair Gel](/2018/06/mit-santaverde-auf-reisen/) finde ich immer
+wieder neue Einsatzgebiete. Wenn meine Haut zwischendurch mal eine nervige Phase
+hat und meint, sie muss sich fettig zeigen, verwende ich es als Solopflege. Ist
+sie trocken, trage ich es zusätzlich zu meiner Creme untendrunter auf.
 
 Wenn ich mit Mückenstichen oder Sonnenbrand zu tun habe, kommt es ebenso zum
 Einsatz. Aus diesem Grund darf es in meinem Rucksack auch niemals fehlen.
@@ -105,17 +103,13 @@ Pflegeprodukte verwenden.
 [glry name="weihnachtensantaverde"]
 
 Wer jetzt neugierig geworden ist: Alles über Santaverde könnt Ihr
-<a href="https://cardamonchai.com/tag/santaverde/">hier im Blog erfahren</a>.
-Die Santaverde Produkte findet Ihr in autorisierten Reformhäusern, Biomärkten
-sowie verschiedenen Apotheken, Parfümerien und direkt auf
-<a href="https://www.santaverde.de/" target="_blank" rel="noopener nofollow">santaverde.de</a>.
+[santaverde.de](/tag/santaverde/).
 
 Hat Euch mein Geschenktipp gefallen? Das freut mich! Lest gerne auch meine
 weiteren Artikel zum Thema Santaverde. Wenn Ihr ihn Zukunft nichts mehr auf
-meiner Seite verpassen möchtet, <a href="#newsletter">abonniert am besten meinen
-Newsletter</a>. Ich freue mich auf Euch!
+meiner Seite verpassen möchtet,
+[abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

@@ -82,17 +82,14 @@ Replacements</em>.
 ## "The Thread That Keeps Us" ist das achte Album
 
 "The Thread That Keeps Us" wird das achte <em>Calexico</em> Album sein. Zuletzt
-erschien 2015
-"<a href="http://cardamonchai.com/2015/04/calexico-edge-of-the-sun-ist-da/">Edge
-Of The Sun</a>". Die musikalische Geschichte der Musiker um Joey Burns ist
-abwechslungsreich und aufregend. Immer wieder treten sie mit talentierten
-Gastmusikern auf.
+erschien 2015 "[Edge Of The Sun](/2015/04/calexico-edge-of-the-sun-ist-da/)" .
+Die musikalische Geschichte der Musiker um Joey Burns ist abwechslungsreich und
+aufregend. Immer wieder treten sie mit talentierten Gastmusikern auf.
 
 Auf ihrer, seit der Gründung durch Joey und John 1996, andauernden Reise saugt
 die Truppe Einflüsse und Ideen auf und setzt sie zu einem kunstvollen Mosaik aus
 Klängen und Melodien zusammen. Längst kann man ihre Werke nicht mehr nur dem
-"<a href="http://cardamonchai.com/2009/01/calexico-live-roxy-ulm/">Tucson
-Dessert Rock</a>" zuordnen.
+"[Tucson Dessert Rock](/2009/01/calexico-live-roxy-ulm/)" zuordnen.
 
 "There's some jangle, there's some whacked out fuzz guitar and some sweet
 melodies mapping out the need for love, light and time in this "age of the
@@ -151,25 +148,22 @@ world</blockquote>
 ## Calexico Wegweiser
 
 <ol>
-    <li><a title="Calexico Dachau 2007" href="http://cardamonchai.com/2015/04/calexico-live-open-air-dachau-25-07-2007/">live @ Open Air Dachau 25.07.2007</a></li>
-    <li><a title="Calexico Southside 2008" href="http://cardamonchai.com/2015/04/calexico-live-southside-festival-2008/">live @ Southside Festival Neuhausen ob Eck Juni 2008</a></li>
-    <li><a title="Calexico Muffathalle 2008" href="http://cardamonchai.com/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/">live @ Muffathalle München 16.10.2008</a></li>
-    <li><a title="Calexico Roxy 2009" href="http://cardamonchai.com/2009/01/calexico-live-roxy-ulm/">live @ Roxy Ulm 27.01.2009</a></li>
-    <li><a title="Calexico Muffathalle 2009" href="http://cardamonchai.com/2009/07/calexico-live-muffathalle-munchen/">live @ Muffathalle München 8.07.2009</a></li>
-    <li><a title="Calexico &quot;Splitter&quot; 2012" href="http://cardamonchai.com/2012/07/calexico-stellen-neue-singe-splitter-vor/">stellen neue Single "Splitter" vor 31.07.2012</a></li>
-    <li><a title="Calexico Muffathalle München" href="http://cardamonchai.com/2012/12/calexico-live-muffathalle-munchen-29-11-2012/">live @ Muffathalle München 29.11.2012</a></li>
-    <li><a title="Calexico &quot;Edge Of The Sun&quot; 2015" href="http://cardamonchai.com/2015/04/calexico-edge-of-the-sun-ist-da/">bringen neues Album "Edge Of The Sun" raus 14.04.2015</a></li>
-    <li><a title="Calexico Große Freiheit 2015" href="http://cardamonchai.com/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/">live @ Große Freiheit 36 Hamburg 15.04.2015</a></li>
-    <li><a href="/2015/08/calexico-live-a-summers-tale-festival-2015/">live @ A Summer's Tale Festival 08.08.2015</a></li>
+    <li> [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/) </li>
+    <li> [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/) </li>
+    <li> [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/) </li>
+    <li> [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/) </li>
+    <li> [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/) </li>
+    <li> [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/) </li>
+    <li> [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/) </li>
+    <li> [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/) </li>
+    <li> [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/) </li>
+    <li> [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/) </li>
     <li>stellen neue Single "End Of The World With You vor</li>
 </ol>
 
-\*<a href="https://calexico.lnk.to/TheThreadThatKeepsUs" target="_blank" rel="noopener">Hier
-könnt Ihr "The Thread That Keeps Us" vorbestellen</a>.
+- [Hier könnt Ihr "The Thread That Keeps Us" vorbestellen](https://calexico.lnk.to/TheThreadThatKeepsUs).
 
-\*\*<a class="profileLink" href="https://www.facebook.com/WaveLab-Recording-Studio-157816907583478/" data-hovercard="/ajax/hovercard/page.php?id=157816907583478" data-hovercard-prefer-more-content-show="1">WaveLab
-Recording Studio</a>
+\*\*
+[WaveLab Recording Studio](https://www.facebook.com/WaveLab-Recording-Studio-157816907583478/)
 
-Hier findet Ihr die
-<a title="Calexico Homepage" href="http://www.casadecalexico.com" target="_blank" rel="noopener">Homepage</a>
-von Calexico.
+Hier findet Ihr die [Homepage](http://www.casadecalexico.com) von Calexico.

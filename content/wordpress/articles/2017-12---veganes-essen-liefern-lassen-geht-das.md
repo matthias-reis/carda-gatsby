@@ -41,15 +41,9 @@ wenn Du nach einem langen Tag abends keine Lust mehr hast, was zu kochen?". Das
 wurde ich unlängst gefragt. Die gute Nachricht ist: Ja, das geht. Immer besser
 sogar!</strong>
 
-In der ersten Zeit als
-<a href="https://cardamonchai.com/category/vegan-2/">Veganer</a> haben mein Mann
-und ich an sowas wie Essensbestellungen gar nicht gedacht. Wir waren einfach zu
-sehr damit beschäftigt, neue, tolle Lebensmittel auszuprobieren. Auch heute
-denken wir uns noch täglich neue
-<a href="https://cardamonchai.com/category/vegan-2/rezepte/">Rezepte</a> aus,
-aber ab und zu, schleicht sich dann auch mal die Faulheit ein oder der Stress
-ist zu groß und dann greifen wir auch mal zum Laptop und suchen uns online was
-Leckeres aus.
+In der ersten Zeit als [Rezepte](/category/vegan-2/) aus, aber ab und zu,
+schleicht sich dann auch mal die Faulheit ein oder der Stress ist zu groß und
+dann greifen wir auch mal zum Laptop und suchen uns online was Leckeres aus.
 
 ![Veganes Essen liefern lassen](http://cardamonchai.com/wp-content/uploads/2017/12/25094607418_03a4fb2681_z-300x375.jpg "Pho - Vegan, heiß und lecker")
 
@@ -62,7 +56,7 @@ unheimlich toll "veganisieren".
 ## Veganes Essen liefern lassen funktioniert gut
 
 Besonders hilfreich ist dabei die Tatsache, dass heutzutage alle
-<a href="https://www.bzfe.de/inhalt/allergenkennzeichnung-1878.html" target="_blank" rel="noopener">Allergene</a>
+[Allergene](https://www.bzfe.de/inhalt/allergenkennzeichnung-1878.html)
 gekennzeichnet werden müssen. Besonders Lieferdienste halten sich meistens sehr
 strikt daran. Dazu zählen neben Geschmacksverstärkern auch Dinge wie Ei,
 Milchprodukte und Gelatine. Bestellt man Indisches Essen muss man eigentlich nur
@@ -89,11 +83,11 @@ Leckere Aussichten, oder? Was ich persönlich immer ganz besonders schätze, sin
 gut organisierte Suchmaschinen. Beim Essen Bestellen greife ich hier zum
 Beispiel gerne auf Lieferheld zurück. Man kann auf der Seite ganz gut nach
 Vorlieben filtern. Der besondere Clou bei: Klickt man auf
-<a href="https://www.lieferheld.de/info/vegan-online-bestellen/" target="_blank" rel="noopener">vegan
-online bestellen</a>, werden einem sofort zahlreiche Lieferdienste mit veganen
-Angeboten angezeigt, die im erreichbaren Umkreis zu finden sind. Was das Ganze
-noch bequemer macht: Bezahlt werden kann einfach vom Sofa aus per Paypal, dann
-muss man quasi nur noch das Trinkgeld für den Fahrer zu Hause haben.
+[vegan online bestellen](https://www.lieferheld.de/info/vegan-online-bestellen/),
+werden einem sofort zahlreiche Lieferdienste mit veganen Angeboten angezeigt,
+die im erreichbaren Umkreis zu finden sind. Was das Ganze noch bequemer macht:
+Bezahlt werden kann einfach vom Sofa aus per Paypal, dann muss man quasi nur
+noch das Trinkgeld für den Fahrer zu Hause haben.
 
 Das vegane Zeitalter hat also inzwischen auch Couchpotatoville und Netflixhausen
 erreicht. Darauf erstmal ein paar vegane Sommerrollen. Oder doch lieber Sushi
@@ -101,5 +95,5 @@ heute?
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

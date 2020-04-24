@@ -52,11 +52,10 @@ verabschiedet sich langsam aber sicher.
 
 ## Zarte Pastelltöne und Sonnenschein - Echte Frühlingsboten
 
-Wer <a href="http://cardamonchai.com/2017/03/ein-schoenes-wochenende/">meinen
-gestrigen Blogartikel</a> gelesen hat, kann vielleicht ungefähr erahnen, wie
-sehr ich mich gerade nach der Sonne sehne. Unser heutiger Ausflug in den ein
-paar Stationen entfernten Loki Schmidt Garten hat mich daher sehr glücklich
-gemacht.
+Wer [meinen gestrigen Blogartikel](/2017/03/ein-schoenes-wochenende/) gelesen
+hat, kann vielleicht ungefähr erahnen, wie sehr ich mich gerade nach der Sonne
+sehne. Unser heutiger Ausflug in den ein paar Stationen entfernten Loki Schmidt
+Garten hat mich daher sehr glücklich gemacht.
 
 ![Frühlingsboten](http://cardamonchai.com/wp-content/uploads/2017/03/33111986962_297b8223c3_z-640x427.jpg "Der Reiher")
 
@@ -82,9 +81,9 @@ Und nun: Diashow ab. :-)
 ## Wegweiser Loki Schmidt Garten
 
 <ol>
-    <li><a href="http://cardamonchai.com/2015/09/indian-summer-im-loki-schmidt-garten/">Indian Summer</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/spaetsommer-loki-schmidt-garten/">Spätsommer</a></li>
+    <li> [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/) </li>
+    <li> [Spätsommer](/2016/08/spaetsommer-loki-schmidt-garten/) </li>
     <li>Frühlingsboten</li>
-    <li><a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Erster Mai</a></li>
-    <li><a href="http://cardamonchai.com/2019/09/september-im-loki-schmidt-garten/">September</a></li>
+    <li> [Erster Mai](/2018/05/erster-mai-gegensaetze/) </li>
+    <li> [September](/2019/09/september-im-loki-schmidt-garten/) </li>
 </ol>

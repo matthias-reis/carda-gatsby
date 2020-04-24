@@ -43,19 +43,18 @@ subTitle: '"Die Menschen sind frustriert und wütend"'
 While You Still Can" unterhalten, das bald erscheinen wird.</strong>
 
 Vor Kurzem habe ich Euch hier im Blog
-<a href="http://cardamonchai.com/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/">die
-beiden neuen Videos von Singer-Songwriter Vinny Peculiar </a>vorgestellt. Jetzt
-habe ich mich mit ihm zum Interview verabredet. Wir haben über sein neues Album,
-die politische Lage in England und seine Pläne geredet. <strong> Anne:</strong>
-Hallo Vinny! Danke, dass Du Dir die Zeit für das Interview nimmst. Herzlichen
-Glückwunsch zum neuen Album. Bist Du zufrieden damit? <strong> Vinny:</strong>
-Hallo Anne! Schön, Dich zu treffen! Insgesamt bin ich sehr glücklich mit meinem
-zwölften Album, ja! Es gibt vielleicht die ein oder andere Stelle, an der der
-Gitarrensound nicht so klingt, wie es geplant war. Ich bin mir aber sicher, das
-das Ergebnis genau so ist, wie es sein sollte. Wenn man viel Zeit mit dem
-Feintuning verbringt und die eigene Musik wieder und wieder anhört, neigt man
-gerne dazu, sie zu sehr zu analysieren. Ich bin mir sicher, dass die Platte in
-sich selbst hineinwachsen wird.
+[die beiden neuen Videos von Singer-Songwriter Vinny Peculiar](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/)
+vorgestellt. Jetzt habe ich mich mit ihm zum Interview verabredet. Wir haben
+über sein neues Album, die politische Lage in England und seine Pläne geredet.
+<strong> Anne:</strong> Hallo Vinny! Danke, dass Du Dir die Zeit für das
+Interview nimmst. Herzlichen Glückwunsch zum neuen Album. Bist Du zufrieden
+damit? <strong> Vinny:</strong> Hallo Anne! Schön, Dich zu treffen! Insgesamt
+bin ich sehr glücklich mit meinem zwölften Album, ja! Es gibt vielleicht die ein
+oder andere Stelle, an der der Gitarrensound nicht so klingt, wie es geplant
+war. Ich bin mir aber sicher, das das Ergebnis genau so ist, wie es sein sollte.
+Wenn man viel Zeit mit dem Feintuning verbringt und die eigene Musik wieder und
+wieder anhört, neigt man gerne dazu, sie zu sehr zu analysieren. Ich bin mir
+sicher, dass die Platte in sich selbst hineinwachsen wird.
 
 ## "Ich mag meine Gitarrensoli in "'Pop Music For Ugly People'"
 
@@ -65,13 +64,12 @@ sich selbst hineinwachsen wird.
 
 <strong>Vinny:</strong> Ich mag unterschiedliche Parts verschiedener Songs.
 Meine Gitarrensoli in
-"<a href="http://cardamonchai.com/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/">Pop
-Music For Ugly People</a>" kann ich gut leiden. Das ist ein Stil, dem ich mich
-sonst nicht bedienen würde. Außerdem mag ich die Einfachheit und das Gefühl,
-dass der Song "Question Time" rüberbringt. Das kann sich im Laufe der Zeit aber
-alles noch mal ändern. So ist das häufig bei Lieblingssongs. <strong>
-Anne:</strong> Wodurch unterscheidet sich "While You Still Can" von Deinen
-bisherigen 12 Alben?
+"[Pop Music For Ugly People](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/)"
+kann ich gut leiden. Das ist ein Stil, dem ich mich sonst nicht bedienen würde.
+Außerdem mag ich die Einfachheit und das Gefühl, dass der Song "Question Time"
+rüberbringt. Das kann sich im Laufe der Zeit aber alles noch mal ändern. So ist
+das häufig bei Lieblingssongs. <strong> Anne:</strong> Wodurch unterscheidet
+sich "While You Still Can" von Deinen bisherigen 12 Alben?
 
 <strong>Vinny:</strong> Eigentlich unterscheidet es sich nur in wenigen Punkten
 von seinen Vorgängern. Die Drums sind lauter und ich habe meiner Liebe zu Hard
@@ -174,18 +172,14 @@ und dass Du mich mit meinem neuen Album unterstützt!
 Das neue Vinny Peculiar Album "While You Still Can" wird am 28. Oktober
 erscheinen. Bis jetzt sind mit "Pop Music For Ugly People" und "Vote For Me"
 bereits zwei Vorauskopplungen erschienen.
-<a href="http://cardamonchai.com/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/" target="_blank" rel="noopener">Ihr
-könnt die Videos hier im Blog anschauen</a>.
+[Ihr könnt die Videos hier im Blog anschauen](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/).
 
 ![vinny-peculiar-on-stage | full](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-while-you-still-can.jpg)
 
-Hat Euch mein Interview gefallen? Wie
-schön! <a href="mailto:info@cardamonchai.com">Meldet Euch gerne</a>, wenn Ihr
-auch ein tolles Projekt habt, über das wir reden sollen. Auf dem Laufenden halte
-ich Euch über <a href="#newsletter">meinen wöchentlichen Newsletter</a>.
+Hat Euch mein Interview gefallen? Wie schön! 
+[meinen wöchentlichen Newsletter](mailto:info@cardamonchai.com).
 
-Fotos: <a href="https://vinnypeculiar.com" target="_blank" rel="noopener">Vinny
-Peculiar</a>
+Fotos: [Vinny Peculiar](https://vinnypeculiar.com)
 
 <hr />
 
@@ -310,11 +304,8 @@ for supporting the new record!
 The new Vinny Peculiar album "While You Still Can" will be released on October,
 28th. So far two advance releases are out: "Pop Music For Ugly People" and "Vote
 For Me".
-<a href="http://cardamonchai.com/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/" target="_blank" rel="noopener">You
-can watch the videos here on this blog</a>.
+[You can watch the videos here on this blog](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/).
 
 ![vinny-peculiar-on-stage | full](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-while-you-still-can.jpg)
 
-<strong>Pictures:</strong>
-<a href="https://vinnypeculiar.com" target="_blank" rel="noopener">Vinny
-Peculiar</a>
+<strong>Pictures:</strong> [Vinny Peculiar](https://vinnypeculiar.com)

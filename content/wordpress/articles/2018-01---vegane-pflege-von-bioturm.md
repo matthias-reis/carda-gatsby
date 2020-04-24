@@ -48,10 +48,10 @@ Ein Bisschen Spannung darf ja schließlich nicht fehlen.</strong>
 
 Was ich seit Jahren schätze und verwende, sind die Naturkosmetik-Produkte von
 Bioturm. Auch in einem meiner
-<a href="http://cardamonchai.com/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/">Vegan
-Beauty Basket Unboxing-Moments</a> habe ich bereits darüber berichtet. Nachdem
-ich jetzt schon lange mit der Granatapfel Bodycream und dem passenden Duschgel
-zufrieden bin, hatte ich Lust, mal etwas Neues auszuprobieren.
+[Vegan Beauty Basket Unboxing-Moments](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/)
+habe ich bereits darüber berichtet. Nachdem ich jetzt schon lange mit der
+Granatapfel Bodycream und dem passenden Duschgel zufrieden bin, hatte ich Lust,
+mal etwas Neues auszuprobieren.
 
 ## Wir wäre es mit Mango?
 
@@ -123,11 +123,11 @@ den Inhaltsstoffen für die Bioturm Produkte setzt die Familie auf Natürlichkei
 Besonders wichtig ist die Herkunft aus biologischem Anbau.
 
 Auf genetisch veränderte Inhaltsstoffe sowie
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/">Versuche
-an Tieren</a> für die Produkte und deren Inhaltsstoffe wird aus Prinzip
-verzichtet.  Die zertifizierte Naturkosmetik ist frei von synthetischen
-Inhaltsstoffen, PEG, Silikonen und Paraffinöl. Viele der Bioturm Produkte sind
-zudem vegan, was mich persönlich natürlich ganz besonders freut.
+[Versuche an Tieren](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
+für die Produkte und deren Inhaltsstoffe wird aus Prinzip verzichtet.  Die
+zertifizierte Naturkosmetik ist frei von synthetischen Inhaltsstoffen, PEG,
+Silikonen und Paraffinöl. Viele der Bioturm Produkte sind zudem vegan, was mich
+persönlich natürlich ganz besonders freut.
 
 ## Hier ein Zitat der Firma Bioturm zum Thema Tierversuche:
 
@@ -166,13 +166,9 @@ alkoholische Auszüge.
 Wer jetzt neugierig geworden ist und gerne wissen möchte, ob die
 Bioturm-Produkte auch was für sie/ihn sind: Ihr findet Sie in vielen
 Drogeriemärkten wie zum Beispiel Budni sowie in den Denns Biosupermärkten und
-natürlich auf der Bioturm
-<a href="http://www.bioturm.de" target="_blank" rel="noopener">Homepage</a>.
-Dort gibt es übrigens auch eine praktische
-<a href="http://www.bioturm.de/.cms/Haendlersuche/544-1" target="_blank" rel="noopener">Händlersuche</a>.
-Einfach Euren Wohnort in die Suchmaske eingeben und es kann losgehen.
+natürlich auf der Bioturm [Händlersuche](http://www.bioturm.de). Einfach Euren
+Wohnort in die Suchmaske eingeben und es kann losgehen.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

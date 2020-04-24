@@ -277,9 +277,6 @@ so viel Interesse an unserem Projekt besteht. Wir wünschen auch euch alles Gute
 für Vegan News!
 
 Wer das Projekt FreiVon von Sarah und Paul unterstützen möchte, kann dies
-<a href="https://www.startnext.com/freivon" target="_blank" rel="noopener">auf
-ihrer Crowdfunding-Seite</a> tun. Natürlich freuen sich die beiden auch über
-jedes "Gefällt mir" auf ihrer
-<a href="https://www.facebook.com/freivon?fref=ts" target="_blank" rel="noopener">Facebook-Seite</a>.
+[Facebook-Seite](https://www.startnext.com/freivon).
 
 <strong>Fotos:</strong> FreiVon

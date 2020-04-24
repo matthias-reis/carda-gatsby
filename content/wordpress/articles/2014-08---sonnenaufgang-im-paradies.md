@@ -79,4 +79,4 @@ Lasst es Euch schmecken!
 
 Kussi Anne &lt;3
 
-## Wegweiser Smoothies<ol><li><a href="http://cardamonchai.com/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/">Heidelbeerliebe</a></li><li>Sonnenaufgang im Paradies</li><li><a href="http://cardamonchai.com/2017/04/hanf-banane-himbeer-smoothie/">Hanf Banane Himbeer Reigen</a></li></ol>
+## Wegweiser Smoothies<ol><li> [Hanf Banane Himbeer Reigen](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/) </li></ol>

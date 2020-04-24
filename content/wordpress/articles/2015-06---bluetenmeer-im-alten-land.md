@@ -58,6 +58,4 @@ Im Beitragsbild ganz oben ist übrigens eine Apfelblüte zu sehen.
 [myflickr tag="annealtesland052015"]
 
 Weitere Bilder findet Ihr wie immer in meinem
-<a href="https://www.flickr.com/photos/99929697@N07/" target="_blank" rel="noopener">Flickr</a><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](https://www.flickr.com/photos/99929697@N07/)

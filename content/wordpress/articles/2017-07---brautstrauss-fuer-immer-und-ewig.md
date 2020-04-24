@@ -95,11 +95,9 @@ Bildschirm löse, erfreue ich mich an seinem Anblick.
 Ich wünsche Euch viel Spaß beim Nachbasteln! Genießt Euren nächsten
 Hochzeitstag! &lt;3
 
-<a href="http://hochzeit.smartr.de/" target="_blank" rel="noopener">Unser
-Hochzeitsblog</a>
+[Unser Hochzeitsblog](http://hochzeit.smartr.de/)
 
-<a href="http://cardamonchai.com/2009/06/die-sprache-der-blumen/">Die Sprache
-der Blumen</a>
+[Die Sprache der Blumen](/2009/06/die-sprache-der-blumen/)
 
 &nbsp;
 

@@ -67,8 +67,8 @@ reintrudelte, muss ein Wink des Schicksals gewesen sein.
 Ob ich Lust hätte, für ein neues DIY-Projekt ein paar ihrer Produkte zu testen,
 hieß es in der E-Mail. Ich machte die Seite auf und suchte nach
 Infrarot-Glühbirnen für die Landwirtschaft.
-<a href="http://de.rs-online.com/web/c/beleuchtung/infrarotlampen/waermelampen/" target="_blank" rel="noopener">Schon
-nach kurzer Zeit wurde ich fündig</a> und mein neues Projekt war geboren.
+[Schon nach kurzer Zeit wurde ich fündig](http://de.rs-online.com/web/c/beleuchtung/infrarotlampen/waermelampen/)
+und mein neues Projekt war geboren.
 
 ## Das braucht Ihr
 
@@ -84,10 +84,9 @@ verwende. Ihr könnt natürlich auch jede andere Stehlampe nehmen, die eine hohe
 Wattzahl verträgt. Darauf sollte man auf jeden Fall achten, die Wärmebirnen
 haben mit bis zu 200 Watt echt viel Power.
 
-<a href="http://de.rs-online.com/web/p/waermelampen/0743836/" target="_blank" rel="noopener">Die
-Birne, für die ich mich entschieden habe</a>, ist von Philips. Sie hat 175 Watt
-/ 240 V und PAR 38. Das PAR steht für die Wärme. Je mehr PAR, desto wärmer wird
-es.
+[Die Birne, für die ich mich entschieden habe](http://de.rs-online.com/web/p/waermelampen/0743836/),
+ist von Philips. Sie hat 175 Watt / 240 V und PAR 38. Das PAR steht für die
+Wärme. Je mehr PAR, desto wärmer wird es.
 
 ## So wirds gemacht
 
@@ -104,8 +103,8 @@ Nackenschmerzen sowie Regelschmerzen zu Wärmebehandlungen.
 Auch viele Patienten, die unter Rheumaschüben leiden, schwören auf
 Wärmetherapie. Neben der Bestrahlung mittels Infrarot-Lampen gibt es auch
 Behandlungen, bei denen die Haut mittels Trägerstoffen (z. B. Fango-Packung,
-<a href="http://cardamonchai.com/2015/09/diy-koernerkissen-naehanleitung/">Körnerkissen</a>)
-direkt mit der Wärme in Kontakt kommt.
+[Körnerkissen](/2015/09/diy-koernerkissen-naehanleitung/) ) direkt mit der Wärme
+in Kontakt kommt.
 
 ## Belastungstest - Der Kater findet die neue Wärmelampe toll
 
@@ -131,9 +130,6 @@ ids="16164,16163,16162,16160,16159,16152"]
 Vielen Dank an RS Components für die Infrarot-Birne! Die Lieferung ging sehr
 schnell und ich finde es klasse, dass man im Shop auch so etwas Spezielles
 finden kann! Wenn Ihr auch mal stöbern möchtet:
-<a href="http://de.rs-online.com/web/" target="_blank" rel="noopener">Hier
-entlang</a>.
+[Hier entlang](http://de.rs-online.com/web/).
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

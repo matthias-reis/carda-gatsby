@@ -127,11 +127,11 @@ Selbstbewusstsein und Optimismus aus. Therapeuten nutzen es gerne als
 ## Grün gegen Liebeskummer
 
 Grün ist für uns die Farbe der Natur. Sie steht für Gesundheit, Vitalität,
-<a href="/category/vegan-2/">veganen Lebensstil</a>, Sicherheit, Nachhaltigkeit,
-Hoffnung und Kreativität. Bei der Farbtherapie wird Grün zum Beispiel gegen
-Liebeskummer oder Trauer eingesetzt. Nicht umsonst sagt man ja „Du bist
-bedrückt? Gönn Dir einen Tag im Grünen!“. Grün gekleidete Menschen wirken auf
-uns vertrauenerweckend und großzügig.
+[veganen Lebensstil](/category/vegan-2/), Sicherheit, Nachhaltigkeit, Hoffnung
+und Kreativität. Bei der Farbtherapie wird Grün zum Beispiel gegen Liebeskummer
+oder Trauer eingesetzt. Nicht umsonst sagt man ja „Du bist bedrückt? Gönn Dir
+einen Tag im Grünen!“. Grün gekleidete Menschen wirken auf uns
+vertrauenerweckend und großzügig.
 
 Negative Dinge, die wir mit grüner Farbe in Verbindung bringen, sind zum
 Beispiel Müdigkeit und Neid. Genutzt wird sie gerne in den Bereichen Ökologie,

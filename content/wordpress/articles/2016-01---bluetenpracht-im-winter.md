@@ -51,11 +51,11 @@ Wintertages, finde ich. Seht Ihr das ähnlich?
 ## Wegweiser Planten un Blomen
 
 <ol>
-    <li><a href="/2015/06/planten-un-blomen/">Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)</a><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
+    <li> [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/) <a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
 </a></li>
-    <li><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">Ein Rundgang durch die Klimazonen (Januar 2016)</a></li>
+    <li> [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/) </li>
     <li>Blütenpracht im Winter (Januar 2016)</li>
-    <li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der Brücke (Januar 2016)</a></li>
-    <li><a href="/2016/05/1-mai-bei-planten-un-blomen/">1. Mai bei Planten un Blomen (Mai 2016)</a></li>
-    <li><a href="http://cardamonchai.com/2017/12/weihnachten-bei-planten-un-blomen/">Weihnachten bei Planten un Blomen (Dezember 2017)</a></li>
+    <li> [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/) </li>
+    <li> [1. Mai bei Planten un Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/) </li>
+    <li> [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/) </li>
 </ol>

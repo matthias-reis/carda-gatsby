@@ -90,14 +90,10 @@ spannend!
 [myflickr tag="Borderdog"]
 
 Kennt Ihr schon meine neue
-<a href="http://cardamonchai.com/2016/12/meine-neue-vegane-handtasche-von-mattnat/" target="_blank" rel="noopener">vegane
-Handtasche</a>?
+[vegane Handtasche](/2016/12/meine-neue-vegane-handtasche-von-mattnat/) ?
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

@@ -208,9 +208,9 @@ Tiere haben Gefühle!
 
 Marc Bekoff wäre nicht Marc Bekoff, wenn er es beim Forschen, Dokumentieren und
 Berichten belassen würde. So arbeitet er zum Beispiel in Jane Goodalls Programm
-"<a href="http://www.janegoodall.de/roots-shoots/" target="_blank" rel="noopener nofollow">Roots
-&amp; Shoots</a>" mit Kindern zusammen. Innerhalb des Projekts lernen sie,
-Respekt gegenüber Menschen, Tieren und ihrer Umwelt zu entwickeln.
+"[Roots &amp; Shoots](http://www.janegoodall.de/roots-shoots/)" mit Kindern
+zusammen. Innerhalb des Projekts lernen sie, Respekt gegenüber Menschen, Tieren
+und ihrer Umwelt zu entwickeln.
 
 Der Wissenschaftler wünscht sich einen Paradigmenwechsel. So schreibt er auf
 Seite 42 "Es ist meine Hoffnung, dass das Studium der Mensch-Tier-Interaktionen
@@ -291,14 +291,9 @@ Handlungen ohne Erwartungen oder Druck von außen beurteilen kann.
 
 \*Ihr wollt auch meine Rezension zum Buch "Das Seelenleben der Tiere" von Peter
 Wohlleben lesen?
-<a href="http://cardamonchai.com/2019/01/das-seelenleben-der-tiere-peter-wohlleben/">Dann
-solltet Ihr hier klicken</a>.
+[Dann solltet Ihr hier klicken](/2019/01/das-seelenleben-der-tiere-peter-wohlleben/).
 
-Übrigens findet Ihr auf
-<a href="http://marcbekoff.com/" target="_blank" rel="noopener nofollow">Marc
-Bekoffs Homepage</a> jede Menge wertvolle Informationen sowie
-<a href="http://marcbekoff.com/books" target="_blank" rel="noopener nofollow">seine
-weiteren Publikationen</a>.
+Übrigens findet Ihr auf [seine weiteren Publikationen](http://marcbekoff.com/).
 
 ### Marc Bekoff bei den "Voiceless Awards" 2010
 
@@ -306,12 +301,10 @@ weiteren Publikationen</a>.
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>, sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst
-lese, desto mehr möchte ich darüber berichten.
+[seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/),
+sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
+mehr möchte ich darüber berichten.
 
 <em>\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

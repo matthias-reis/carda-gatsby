@@ -226,8 +226,8 @@ ob ich sie tatsächlich nicht reinlassen würde. Vielleicht würde ich auch einf
 mal den Test machen. Es gibt ja ganz oft Pelzkragen, von denen die Besitzer
 nicht wissen, dass sie echt sind. Vielleicht würde ich sie einfach drum bitten,
 dass ich ihnen mal zeigen darf, dass es sich dabei um
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">echtes Fell</a>,
-vermutlich sogar um das einer Katze, handelt.
+[echtes Fell](/2014/11/fakepelz-echtpelz/), vermutlich sogar um das einer Katze,
+handelt.
 
 Das lässt sich ja ganz leicht herausfinden, indem man ein paar Fasern über ein
 Feuerzeug hält. Vielleicht könnte ich damit ja sogar jemandem die Augen öffnen.
@@ -356,15 +356,12 @@ Portraits von Lani stammen von Juliana Weingarten.
 ## Weiterführende Links
 
 Im Internet findet Ihr den <em>Katzentempel</em>
-<a href="http://katzentempel.de/" target="_blank" rel="noopener">hier</a>.
+[hier](http://katzentempel.de/).
 
 Die <em>Puss In Boots</em> haben auch eine Seite,
-<a href="http://www.irish-pibar.de/" target="_blank" rel="noopener">besucht sie
-mal</a>!
+[besucht sie mal](http://www.irish-pibar.de/) !
 
-Zu den <em>Flying Cats </em>geht es
-<a href="http://www.flying-cats.de/" target="_blank" rel="noopener">hier
-entlang</a>.
+Zu den <em>Flying Cats </em>geht es [hier entlang](http://www.flying-cats.de/).
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 345px; left: 1384px;">Merken</span>
 

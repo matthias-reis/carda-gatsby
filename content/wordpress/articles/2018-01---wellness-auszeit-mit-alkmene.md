@@ -49,16 +49,14 @@ subTitle: Vegane Badezusätze und Bodylotions
 
 Werbung\*
 
-<strong>Mein
-<a href="http://cardamonchai.com/2017/12/alkmene-der-ultimative-produkttest/">Artikel</a>
-über die veganen Pflegeprodukte von Alkmene hier im Blog erfreut sich großer
-Beliebtheit. Doch nicht nur aus diesem Grund, habe ich mich entschlossen, noch
-weitere Produkte des Herstellers genauer unter die Lupe zu nehmen.</strong>
+<strong>Mein [Artikel](/2017/12/alkmene-der-ultimative-produkttest/) über die
+veganen Pflegeprodukte von Alkmene hier im Blog erfreut sich großer Beliebtheit.
+Doch nicht nur aus diesem Grund, habe ich mich entschlossen, noch weitere
+Produkte des Herstellers genauer unter die Lupe zu nehmen.</strong>
 
 Ich bin ein großer Badefan. Gerade wenn es draußen so richtig schön eklig grau
 ist, sind kleine Wellness-Auszeiten mit Badewanne, reichhaltigen Lotions und
-viel <a href="http://cardamonchai.com/2017/04/smecket-tee/">Tee</a> genau das
-Richtige.
+viel [Tee](/2017/04/smecket-tee/) genau das Richtige.
 
 ![alkmene](http://cardamonchai.com/wp-content/uploads/2018/01/26007016498_4d6128fe54_z-300x200.jpg)
 
@@ -160,12 +158,10 @@ komplette Produktpalette aus dem Hause Alkmene<em> </em>gilt:
 
 .
 
-Zur Alkmene Homepage geht es
-<a href="http://alkmene.de" target="_blank" rel="noopener">hier entlang</a>.
-Übrigens findet Ihr die Intensiv Cremeöl Lotion mit Bio-Olive sowie
-die Bio-Malve Körperbalsam seit einiger Zeit auch bei DM im Regal.
+Zur Alkmene Homepage geht es [hier entlang](http://alkmene.de). Übrigens findet
+Ihr die Intensiv Cremeöl Lotion mit Bio-Olive sowie die Bio-Malve Körperbalsam
+seit einiger Zeit auch bei DM im Regal.
 
 <em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
-findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

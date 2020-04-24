@@ -41,16 +41,15 @@ subTitle: Präsentiert von den drei von der Bande
 
 <strong>Da war ganz schön was los musikalisch die letzten 365 Tage, oder? Einige
 großartige Bands haben uns mit neuen Werken überrascht. Da reicht eine
-<a href="http://cardamonchai.com/2018/12/meine-10-songs-2018/">Liste mit 10
-Songs</a> einfach nicht aus. Die meisten Alben lassen sich eben nicht in Stücke
-zerlegen.</strong>
+[Liste mit 10 Songs](/2018/12/meine-10-songs-2018/) einfach nicht aus. Die
+meisten Alben lassen sich eben nicht in Stücke zerlegen.</strong>
 
 Wie versprochen, möchte ich Euch im dritten bis fünften Teil dieser Artikelreihe
 die Lieblingsalben und -Song der "drei von der Bande" präsentieren. Aufmerksame
 Blogleser kennen diesen "Bandnamen" aus meinen
-<a href="http://cardamonchai.com/2015/03/mark-lanegan-live-freiheiz-muenchen/">Konzertberichten</a>.
-Es handelt sich dabei um meine beiden liebsten Konzertbegleiter Valentin und
-Matze und mich.
+[Konzertberichten](/2015/03/mark-lanegan-live-freiheiz-muenchen/). Es handelt
+sich dabei um meine beiden liebsten Konzertbegleiter Valentin und Matze und
+mich.
 
 Wir haben im Laufe des Jahres so viel Musik gehört und uns gegenseitig
 empfohlen, dass so einiges an Hörstunden zusammengekommen ist. Valentin ist als
@@ -97,7 +96,6 @@ regen musikalischen Austausch mit Dir. Auf ein spannendes Schallplatten-Jahr
 2019! Ich freue mich schon auf Deine Musiktipps und Videolinks! &lt;3
 
 Im vierten Teil dieser Serie präsentiere ich Euch
-<a href="http://cardamonchai.com/2018/12/matzes-songs-2018/">Matzes 30 Songs des
-Jahres</a>.
+[Matzes 30 Songs des Jahres](/2018/12/matzes-songs-2018/).
 
 &nbsp;

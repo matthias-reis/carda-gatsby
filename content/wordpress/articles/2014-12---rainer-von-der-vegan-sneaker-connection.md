@@ -72,7 +72,7 @@ gegenüber echtem, steht das tierleidfreie dem echten Leder in nichts nach.
 Dieses Qualitätsdenken steckt einfach nur in den Köpfen fest, genau wie echter
 Pelz nach wie vor für Luxus steht.
 
-## "Man entscheidet immer selbst, was man kauft"<strong>Anne:</strong> Betrachtet man die Kehrseite der Medaille, stellt man fest, dass viele vegane Schuhe (Stichwort Sneaker bekannter Marken, besonders Nike und Adidas sind immer wieder in den Schlagzeilen) aus Sweatshops stammen und unter schlimmsten Bedingungen für die Arbeiter hergestellt werden. Hinzu kommt die Verwendung oft toxischer Materialien (Stichwort <a href="https://www.greenpeace.de/kampagnen/detox" target="_blank" rel="noopener">Greenpeace-Kampagen Detox</a>). Wie steht ihr dazu? Klärt ihr auch hier auf?
+## "Man entscheidet immer selbst, was man kauft"<strong>Anne:</strong> Betrachtet man die Kehrseite der Medaille, stellt man fest, dass viele vegane Schuhe (Stichwort Sneaker bekannter Marken, besonders Nike und Adidas sind immer wieder in den Schlagzeilen) aus Sweatshops stammen und unter schlimmsten Bedingungen für die Arbeiter hergestellt werden. Hinzu kommt die Verwendung oft toxischer Materialien (Stichwort [Greenpeace-Kampagen Detox](https://www.greenpeace.de/kampagnen/detox) ). Wie steht ihr dazu? Klärt ihr auch hier auf?
 
 <strong>Rainer:</strong> Man entscheidet immer selbst, was man kauft. In diesem
 Zusammenhang klären wir nicht auf, sind aber immer für Infos zu haben und
@@ -217,7 +217,7 @@ für die Zukunft der Vegan Sneaker Connection!
 
 Folgendes meldete die Vegan Sneaker Connection gerade über ihre Facebook-Seite:
 
-<blockquote>"Die Zeiten ändern sich, Menschen ändern sich, alles ändert sich. Wir, die Admins dieser Seite, haben keine Zeit mehr, regelmäßig Nachrichten zu posten. Das Selbe gilt für das schnell Beantworten von Nachrichten. Wir haben das hier vor ein paar Jahren gegründet und hatten die Möglichkeit, grundlegende Informationen an all die veganen Sneakers Liebhaber weltweit herauszugeben. Es gab und gibt immernoch eine große Nachfrage nach Informationen innerhalb der Community. Aus diesem Grunde empfehlen wir Euch sehr, <a href="https://www.facebook.com/groups/Vegansneakerconnection/" target="_blank" rel="noopener">unserer Facebook-Gruppe beizutreten.</a>
+<blockquote>"Die Zeiten ändern sich, Menschen ändern sich, alles ändert sich. Wir, die Admins dieser Seite, haben keine Zeit mehr, regelmäßig Nachrichten zu posten. Das Selbe gilt für das schnell Beantworten von Nachrichten. Wir haben das hier vor ein paar Jahren gegründet und hatten die Möglichkeit, grundlegende Informationen an all die veganen Sneakers Liebhaber weltweit herauszugeben. Es gab und gibt immernoch eine große Nachfrage nach Informationen innerhalb der Community. Aus diesem Grunde empfehlen wir Euch sehr,  [unserer Facebook-Gruppe beizutreten.](https://www.facebook.com/groups/Vegansneakerconnection/)
 
 Es gibt dort eine Menge Menschen, die dazu in der Lage sind, Euch dabei zu
 unterstützen, den Schuh Eurer Wünsche zu finden. Ihr findet uns auch bei

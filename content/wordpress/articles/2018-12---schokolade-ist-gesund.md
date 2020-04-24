@@ -88,14 +88,14 @@ herausgegeben. Daraus geht unter anderem hervor:
 Damit diese Wirkung erlangt werden kann, empfiehlt die Europäische Behörde für
 Lebensmittelsicherheit (EFSA) die tägliche Aufnahme von 200 mg Kakaoflavanolen.
 Das entspricht etwa der 10 g dunkler
-<a href="http://cardamonchai.com/2018/02/choclate-vegane-schokolade-aus-hamburg/">Schokolade</a>
-oder 2,5 Gramm hochwertigem Kakaopulver. Die EFSA empfiehlt also, täglich
-Schokolade zu essen. Voraussetzung ist natürlich eine ansonsten ausgewogene
-Ernährung mit wenig Zucker, viel gesundem Gemüse und Obst sowie ausreichend
-Nährstoffen und Vitaminen. Das Lebensmittelchemische Institut (LCI) fand durch
-Tests eine Auswahl von 33 Schokoladen- und Kakaoprodukten mit einem Kakaogehalt
-zwischen 30 und 100 Prozent, die einen ausreichend hohen Polyphenolgehalt haben.
-Dabei handelt es sich vor allem um Schokoladen und Kuvertüren von insgesamt 16
+[Schokolade](/2018/02/choclate-vegane-schokolade-aus-hamburg/) oder 2,5 Gramm
+hochwertigem Kakaopulver. Die EFSA empfiehlt also, täglich Schokolade zu essen.
+Voraussetzung ist natürlich eine ansonsten ausgewogene Ernährung mit wenig
+Zucker, viel gesundem Gemüse und Obst sowie ausreichend Nährstoffen und
+Vitaminen. Das Lebensmittelchemische Institut (LCI) fand durch Tests eine
+Auswahl von 33 Schokoladen- und Kakaoprodukten mit einem Kakaogehalt zwischen 30
+und 100 Prozent, die einen ausreichend hohen Polyphenolgehalt haben. Dabei
+handelt es sich vor allem um Schokoladen und Kuvertüren von insgesamt 16
 verschiedenen Herstellern.
 
 ## Schokolade mit einem Kakaogehalt ab 70 Prozent
@@ -141,7 +141,7 @@ Eingeteilt werden die Polyphenole in drei Stoffklassen:
 
 <ul>
     <li>Phenol(carbon)säuren - Dazu zählt unter anderem Kaffeesäure.</li>
-    <li>Flavonoide gibt es insgesamt mehr als 5.000. Uns sind die Bitterstoffe vor allem aus Kakao, <a href="http://cardamonchai.com/2017/02/tigovit-gruener-tee-in-hohen-dosen/">Tee</a> sowie verschiedenen Zitrusfrüchten bekannt.</li>
+    <li>Flavonoide gibt es insgesamt mehr als 5.000. Uns sind die Bitterstoffe vor allem aus Kakao,  [Tee](/2017/02/tigovit-gruener-tee-in-hohen-dosen/)  sowie verschiedenen Zitrusfrüchten bekannt.</li>
     <li>Tannine sind Gerbstoffe. Wir kennen sie aus Hölzern, Wein und und Tee.</li>
 </ul>
 
@@ -153,17 +153,12 @@ gefunden wurden kennen wir unter den Bezeichnungen B1, B3, B4 und B5.
 Was hier sehr sachlich und technisch klingt, kann im Alltag durchaus interessant
 sein. Kein schlechtes Gewissen mehr beim Naschen klingt doch gut, oder? Wenn man
 dabei darauf achtet, am besten besonders hochwertige Schokolade (ohne Zusatz von
-Industriezucker oder
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/" target="_blank" rel="noopener">Milch</a>!),
-zu sich zu nehmen, macht man alles richtig. Im ersten Moment schmeckt diese
-vielleicht bitter, aber ich kann aus eigener Erfahrung sagen: Irgendwann kann
-man gar keine andere Schokolade mehr essen. Als ich damals auf
-<a href="https://cardamonchai.com/category/vegan-2/">vegan</a> umgestellt habe,
-gab es diese "Milchschokolade" mit Reismilch noch gar nicht (zumindest nicht
-überall). Daher beschränkte ich mich auf die Auswahl an Zartbitterschokolade,
-die ohne Butterreinfett und andere tierische Zusatzstoffe auskam. Neulich habe
-ich mal wieder so eine Reismilchschokolade mit Füllung probiert. Sie war mir
-viel zu süß.
+Industriezucker oder [vegan](/2014/09/pflanzenmilch-wieso-denn-blos/) umgestellt
+habe, gab es diese "Milchschokolade" mit Reismilch noch gar nicht (zumindest
+nicht überall). Daher beschränkte ich mich auf die Auswahl an
+Zartbitterschokolade, die ohne Butterreinfett und andere tierische Zusatzstoffe
+auskam. Neulich habe ich mal wieder so eine Reismilchschokolade mit Füllung
+probiert. Sie war mir viel zu süß.
 
 Und wenn es gut für die Gesundheit ist, greife ich doch gerne zu, oder? Übrigens
 funktioniert auch dieser kleine Trick sehr gut: Isst man jeden zweiten oder
@@ -172,12 +167,10 @@ automatisch viel weniger Lust auf Süßes. Probiert's mal aus, ich bin gespannt,
 was ihr berichtet.
 
 <strong>Quelle:</strong> Dieser Artikel liegt einer Pressemitteilung des
-Wissenschaftlichen Pressedienstes zugrunde
-(<a href="http://www.lci-koeln.de/deutsch/startseite/schokolade-ein-besonderes-lebensmittel-forschung-zu-polyphenolen" target="_blank" rel="noopener">hier
-zu finden</a>). Herausgeber des Pamphlets ist das Lebensmittelchemische Institut
-(LCI), Prof. Dr. Reinhard Matissek, Köln
+Wissenschaftlichen Pressedienstes zugrunde (
+[hier zu finden](http://www.lci-koeln.de/deutsch/startseite/schokolade-ein-besonderes-lebensmittel-forschung-zu-polyphenolen)
+). Herausgeber des Pamphlets ist das Lebensmittelchemische Institut (LCI), Prof.
+Dr. Reinhard Matissek, Köln
 
-<strong>Fotos: </strong>Schokolade: <a href="https://pixabay.com/de/users/AlexanderStein-45237/" target="_blank" rel="noopener">AlexanderStein</a>,
-pixabay; Kakaobohnen:
-<a href="https://pixabay.com/de/users/akvalsk-25558/" target="_blank" rel="noopener">akvalsk</a>,
-pixabay
+<strong>Fotos: </strong>Schokolade: 
+[akvalsk](https://pixabay.com/de/users/AlexanderStein-45237/), pixabay

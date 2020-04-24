@@ -42,11 +42,10 @@ diesen ganz besonderen Orten kann ich so richtig schön von der Ferne
 träumen.</strong>
 
 Nach unserem Besuch auf dem
-<a href="http://cardamonchai.com/2019/09/arctangent-festival-2019-2/">Arctangent
-Festival</a> letztes Jahr hatten wir noch ein paar Tage Zeit, die wir dafür
-genutzt haben, ein paar unserer Lieblingsorte in Südengland mal wieder zu
-besuchen. Einer davon ist der Strand von Marazion mit der vorgelagerten Insel
-St. Michael's Mount.
+[Arctangent Festival](/2019/09/arctangent-festival-2019-2/) letztes Jahr hatten
+wir noch ein paar Tage Zeit, die wir dafür genutzt haben, ein paar unserer
+Lieblingsorte in Südengland mal wieder zu besuchen. Einer davon ist der Strand
+von Marazion mit der vorgelagerten Insel St. Michael's Mount.
 
 Die Gezeiteninsel ist 366 Meter vom Land entfernt und kann entweder bei Ebbe
 über einen dünnen Steinpfad oder bei Flut per Boot erreicht werden. Der Ort ist
@@ -66,5 +65,6 @@ Die kurze Wanderung durch das Watt ist ein ganz besonderes Erlebnis.
 
 [glry name="stmichaelsmount"]
 
-Haben Euch meine Bilder gefallen? <a href="#newsletter">Abonniert gerne meine
-Newsletter</a>, um in Zukunft nichts mehr auf cardamonchai.com zu verpassen.
+Haben Euch meine Bilder gefallen?
+[Abonniert gerne meine Newsletter](#newsletter), um in Zukunft nichts mehr auf
+cardamonchai.com zu verpassen.

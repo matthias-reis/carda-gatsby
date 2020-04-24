@@ -145,17 +145,10 @@ Marcala</em>. Dabei handelt es sich um eine sehr helle Röstung mit Zitrus- und
 Pfirsichnoten. Er kann auch prima „ohne alles“ getrunken werden. Großer
 Beliebtheit erfreut sich außerdem die <em>Hausmischung</em>.
 
-Alle Kaffeesorten können
-im <a href="http://elrojito.de" target="_blank" rel="noopener">Onlineshop</a> von
-elrojito auch bestellt werden. Das elrojito ist Montags bis Freitags von 08:00
-Uhr bis 18:30 Uhr, Samstags von 10:00 - 18:30 und Sonntags von 11:00 bis 18:30
-geöffnet. Infos für "Refill it"
-<a href="https://www.refillit-elrojito.de/" target="_blank" rel="noopener">findet
-Ihr hier</a>.
+Alle Kaffeesorten können im  [findet Ihr hier](http://elrojito.de).
 
-Noch ein Artikel, in dem es um Kaffee
-geht: <a href="http://cardamonchai.com/andere-blogs/gruener-kaffee-gesund/">Grüner
-Kaffee - Gesund und gut für die Figur</a>
+Noch ein Artikel, in dem es um Kaffee geht: 
+[Grüner Kaffee - Gesund und gut für die Figur](/andere-blogs/gruener-kaffee-gesund/)
 
 [gallery type="rectangular" link="none" size="large"
 ids="17549,17547,17546,17548"]

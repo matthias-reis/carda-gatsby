@@ -107,7 +107,7 @@ entstehen.
 <strong>Sandra:</strong> Wir haben uns zunächst vegetarisch ernährt und und dann
 aus ethisch-moralischen Gründen dafür entschieden, vegan zu leben.
 
-## "Fake-Pelz kann eine Alternative sein"<strong>Anne:</strong> Pelze sind ja (sogar im Sommer) momentan ein großer Modetrend. Dass Veganer⋆innen keinen Pelz tragen, ist klar. Jedoch überschwemmen Pelzimitate jeglicher Art mehr und mehr den Markt. Ein kontroverses, heißdiskutiertes Thema, kann man doch <a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">"echt" nur schlecht von "fake" unterscheiden</a>. Zudem sind viele der Meinung, auch "fake" setze ein Statement für "echt". Wie seht Ihr das? Was ist Eure Einstellung zu Pelz und zur aufkeimenden, neuen Pelzmode im Allgemeinen?
+## "Fake-Pelz kann eine Alternative sein"<strong>Anne:</strong> Pelze sind ja (sogar im Sommer) momentan ein großer Modetrend. Dass Veganer⋆innen keinen Pelz tragen, ist klar. Jedoch überschwemmen Pelzimitate jeglicher Art mehr und mehr den Markt. Ein kontroverses, heißdiskutiertes Thema, kann man doch ["echt" nur schlecht von "fake" unterscheiden](/2014/11/fakepelz-echtpelz/). Zudem sind viele der Meinung, auch "fake" setze ein Statement für "echt". Wie seht Ihr das? Was ist Eure Einstellung zu Pelz und zur aufkeimenden, neuen Pelzmode im Allgemeinen?
 
 <strong>Anja:</strong> Ich denke, dass "fake” ist eine absolute Alternative ist
 und sehe dies auch nicht negativ. Echter Pelz ist ein absolutes Tabu und

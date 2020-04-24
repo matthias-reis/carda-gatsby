@@ -49,16 +49,16 @@ Kit von Naissance vorstellen.</strong>
 Die Produkte von Naissance schätze ich sehr und benutze sie schon lange. Immer
 wieder gibt es vom Naturkosmetik-Hersteller auch richtig schön ausgefallene
 Produkte. Zuletzt hatte ich hier im Blog den
-<a href="http://cardamonchai.com/2018/08/veganer-bio-glitter-naissance/">bio-veganen
-Glitter</a> vorgestellt. Der Artikel freut sich auch heute noch täglich großer
-Beliebtheit. Ja, Glitter braucht die Welt! So sieht es aus.
+[bio-veganen Glitter](/2018/08/veganer-bio-glitter-naissance/) vorgestellt. Der
+Artikel freut sich auch heute noch täglich großer Beliebtheit. Ja, Glitter
+braucht die Welt! So sieht es aus.
 
 ![Badesalz](http://cardamonchai.com/wp-content/uploads/2018/12/2018-12-09-naissance-badesalz-013-400x300.jpg "Selbst gemachtes Badesalz Bergamotte-Lavendel")
 
 Bekannt wurde Naissance vor allem mit seinen hochwertigen Ölen.
-<a href="http://cardamonchai.com/2018/09/mit-naegelkauen-aufhoeren/">Hier ein
-Beispiel</a>. Die kommen in Badezusätzen auch vor. Den Badesatz, den ich Euch
-heute zeige, stellt Ihr selbst her.
+[Hier ein Beispiel](/2018/09/mit-naegelkauen-aufhoeren/). Die kommen in
+Badezusätzen auch vor. Den Badesatz, den ich Euch heute zeige, stellt Ihr selbst
+her.
 
 ## Badesalz wäscht den Tag ab
 
@@ -76,9 +76,8 @@ Theoretisch könnte man es selbstverständlich auch mit anderen Duftrichtungen
 versuchen. Ich finde die Kombination aus Bergamotte und Lavendel sehr stimmig:
 Schön frisch, nicht zu süß und angenehm entspannend.
 
-Kaufen könnt Ihr das Set für
-17,49.<a href="https://amzn.to/2QMkZst" target="_blank" rel="noopener nofollow">
-Das geht ganz einfach online über diesen Link</a>.
+Kaufen könnt Ihr das Set für 17,49.
+[Das geht ganz einfach online über diesen Link](https://amzn.to/2QMkZst).
 
 Übrigens gibt es von Naissance auch ein DIY-Kit für Badebomben. Ich persönlich
 habe es noch nicht ausprobiert, aber ich finde, es klingt auch sehr spannend.
@@ -86,12 +85,12 @@ Vielleicht teste ich das ja auch bald mal.
 
 Wenn Ihr Euch für tolle vegane Produkte interessiert und Ihr mehr über
 Nachhaltigkeit, Hamburg und veganen Lifestyle erfahren möchtet, seid Ihr bei mir
-genau richtig. Ich freue mich, <a href="#newsletter">wenn Ihr meinen Newsletter
-abonniert</a> und auch in Zukunft mitlest.
+genau richtig. Ich freue mich,
+[wenn Ihr meinen Newsletter abonniert](#newsletter) und auch in Zukunft mitlest.
 
 [glry name="2018-12-naissance-diy-badesalz"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

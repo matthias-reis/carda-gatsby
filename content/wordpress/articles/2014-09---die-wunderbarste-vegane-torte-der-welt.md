@@ -72,4 +72,4 @@ schneiden.
 
 <strong>Vielen Dank für dieses tolle Rezept, liebe Salo! &lt;3</strong>
 
-![Vegane Torte | full](http://cardamonchai.com/wp-content/uploads/2014/09/14654822633_941849df4f_o.jpg '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Guten Appetit!')
+![Vegane Torte | full](http://cardamonchai.com/wp-content/uploads/2014/09/14654822633_941849df4f_o.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Guten Appetit!")

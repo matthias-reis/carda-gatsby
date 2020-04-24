@@ -35,8 +35,8 @@ subTitle: Das neue Buch von Patrick Bolk
 <em>Affiliate Link\*</em><strong>Schlägt man das neue Buch von Patrick Bolk
 "Vegan im Job“ auf, fallen einem gleich als Erstes die frischen, originellen
 Bilder auf, mit denen es illustriert ist. Schon bei seinem letzten Werk
-"<a href="http://cardamonchai.com/2014/11/so-geht-vegan-von-patrick-bolk/">So
-geht vegan</a>“ konnte er mich damit für sich gewinnen</strong>.
+"[So geht vegan](/2014/11/so-geht-vegan-von-patrick-bolk/) “ konnte er mich
+damit für sich gewinnen</strong>.
 
 ![vegan-im-job](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-im-job-400x267.jpg)
 
@@ -84,10 +84,8 @@ Saisonkalender.
 
 ## Vegan schlemmen im Büro
 
-Alles in allem ist
-"<a href="https://amzn.to/2RcsTJC" target="_blank" rel="noopener nofollow">Vegan
-im Job</a>“ eine runde Sache. Von mir gibt es eine klare Kaufempfehlung. Ein
-farbenfrohes
+Alles in allem ist "[Vegan im Job](https://amzn.to/2RcsTJC) “ eine runde Sache.
+Von mir gibt es eine klare Kaufempfehlung. Ein farbenfrohes
 
 Buch mit modernen Gerichten, die sich ganz leicht und in kurzer Zeit zubereiten
 lassen. Auch Leute, die bereits Selbstgemachtes mit ins Büro nehmen, dürften
@@ -103,10 +101,6 @@ zahlreiche tolle, umsetzbare Alltagstipps für Einsteiger und Fortgeschrittene.
 Ich werde mich nun erst mal in die Küche begeben und mir ein leckeres Sandwich
 mit Veggie-Eiersalat machen. Der klingt nämlich auch ziemlich lecker.
 
-"<a href="https://amzn.to/2RcsTJC" target="_blank" rel="noopener nofollow">Vegan
-im Job</a>“ ist beim Südwest Verlag erschienen und kostet 14,99 €. Mehr über
-Patrick Bolk kann man
-<a href="http://patrickbolk.de/" target="_blank" rel="noopener nofollow">auf
-seiner Homepage</a> erfahren.
+"[auf seiner Homepage](https://amzn.to/2RcsTJC) erfahren.
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517093742&amp;asins=3517093742&amp;linkId=f521c31782ac0e0d3655f9c024242f34&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start"></span><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_end"></span></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner <a href="http://cardamonchai.com/werbung/" rel="noopener">Transparenz-Seite</a>.</em>
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517093742&amp;asins=3517093742&amp;linkId=f521c31782ac0e0d3655f9c024242f34&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start"></span><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_end"></span></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

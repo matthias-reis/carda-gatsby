@@ -39,9 +39,7 @@ einen neuen Helden, von dem ich Euch jetzt erzählen muss.
 
 Thomas Bauer ist Tiefbau-Unternehmer. Seine Firma hat ihren Sitz in einer Stadt,
 die meistens nur mit ihrem hervorragenden
-<a href="http://cardamonchai.com/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/">Spargel</a> für
-Schlagzeilen
-sorgt: <a href="http://cardamonchai.com/2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/">Schrobenhausen</a>.
+[Schrobenhausen](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/).
 
 Die Süddeutsche Zeitung hatte berichtet, Bauers Firma würde sich möglicherweise
 am Bau von Trumps Mauer beteiligen. Bauer stellt jedoch klar "Nein, wir bauen
@@ -93,17 +91,10 @@ Bayerischen Rundfunk so zum Ausdruck:
 
 Das passende Bild stammt übrigens nicht aus Amerika. Ich habe es hier in Hamburg
 aufgenommen. Es entstand am Rand von
-<a href="http://cardamonchai.com/2016/05/1-mai-bei-planten-un-blomen/">Planten
-un Blomen</a>.
+[Planten un Blomen](/2016/05/1-mai-bei-planten-un-blomen/).
 
 Quellen:
-<a href="http://www.augsburger-allgemeine.de/wirtschaft/Tiefbau-Unternehmen-Bauer-baut-keine-Mauer-fuer-Trump-id41048816.html" target="_blank" rel="noopener">Augsburger
-Allgemeine Zeitung</a>,
-<a href="http://www.br.de/nachrichten/trump-mauer-bauer-100.html" target="_blank" rel="noopener">Bayerischer
-Rundfunk</a>,
-<a href="http://www.donaukurier.de/nachrichten/wirtschaft/lokalewirtschaft/DKmobil-Schrobenhausen-Trumps-unertraegliche-Rhetorik;art1735,3344693" target="_blank" rel="noopener">Donaukurier</a>,
-<a href="http://www.sueddeutsche.de/wirtschaft/donald-trump-zwei-deutsche-firmen-interessieren-sich-fuer-den-us-mauerbau-1.3441322" target="_blank" rel="noopener">Süddeutsche
-Zeitung</a>
+[Süddeutsche Zeitung](http://www.augsburger-allgemeine.de/wirtschaft/Tiefbau-Unternehmen-Bauer-baut-keine-Mauer-fuer-Trump-id41048816.html)
 
 &nbsp;
 

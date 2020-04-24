@@ -36,11 +36,11 @@ Wisst Ihr, welche Frage ich mir immer häufiger stelle? "Wie bescheuert ist die
 Menschheit eigentlich und kennt der Wahnsinn wirklich gar keine Grenzen?"
 
 Reicht es nicht, wie viele Meerestiere
-<a href="http://cardamonchai.com/2018/08/replace-plastic-app-kueste-gegen-plastik/">unserer
-Müllflut</a> und der groß angelegten Überfischung zum Opfer fallen? Müssen wir
-den marinen Lebewesen auch noch grausame Großsprengungen zumuten? Letzteres ist
-erst vor Kurzem auf der Ostsee passiert. Ende August ließen dort 18 unschuldige
-Schweinswale ihr Leben. Das wurde vor Kurzem bekannt.
+[unserer Müllflut](/2018/08/replace-plastic-app-kueste-gegen-plastik/) und der
+groß angelegten Überfischung zum Opfer fallen? Müssen wir den marinen Lebewesen
+auch noch grausame Großsprengungen zumuten? Letzteres ist erst vor Kurzem auf
+der Ostsee passiert. Ende August ließen dort 18 unschuldige Schweinswale ihr
+Leben. Das wurde vor Kurzem bekannt.
 
 ## Sprengung im Schutzgebiet
 
@@ -87,25 +87,23 @@ Gehör und den Gleichgewichtssinn maritimer Lebewesen empfindlich stören.
 Funktioniert Ihr Gehör nicht mehr, können sie sich nicht mehr verständigen und
 ihr Orientierungssinn funktioniert nicht mehr. In vielen Fällen endet das leider
 tödlich. Spätestens nach dem Publik werden der
-<a href="http://cardamonchai.com/2015/09/sonartests-eingestellt-ndrc-erfolg/">umstrittenen
-Sonartests im Meer</a> sollte diese Tatsache bekannt sein. Ein weiteres
-schwerwiegendes Problem stellt die Vergiftung des Wassers durch die aus den
-alten Minen ausströmenden Gefahrstoffe dar. Bis zum Bekanntwerden der gesamten
-Tragweite der Tragödie wird es sicher noch viel Zeit vergehen.
+[umstrittenen Sonartests im Meer](/2015/09/sonartests-eingestellt-ndrc-erfolg/)
+sollte diese Tatsache bekannt sein. Ein weiteres schwerwiegendes Problem stellt
+die Vergiftung des Wassers durch die aus den alten Minen ausströmenden
+Gefahrstoffe dar. Bis zum Bekanntwerden der gesamten Tragweite der Tragödie wird
+es sicher noch viel Zeit vergehen.
 
 ### Quellen
 
-<a href="https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/meeressaeugetiere/03366.html">Nabu</a>
+[Nabu](https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/meeressaeugetiere/03366.html)
 
-\*<a href="https://www.steffi-lemke.de/uploads/2019/11/KlAnfrage-BMVg-Drs.-19_13878.pdf">Die
-Grünen</a>
+- [Die Grünen](https://www.steffi-lemke.de/uploads/2019/11/KlAnfrage-BMVg-Drs.-19_13878.pdf)
 
-<a href="https://www.tagesschau.de/investigativ/ndr/marine-minensprengung-101.html">Tagesschau
-/ NDR</a>
+[Tagesschau / NDR](https://www.tagesschau.de/investigativ/ndr/marine-minensprengung-101.html)
 
 ### Bilder:
 
 <ul>
-    <li><a href="https://www.ecomare.nl/">Schweinswal: harbour porpoises Michael &amp; Jose in 2012, Ecomare</a></li>
+    <li> [Schweinswal: harbour porpoises Michael &amp; Jose in 2012, Ecomare](https://www.ecomare.nl/) </li>
     <li>Sprengung: picture alliance/dpa</li>
 </ul>

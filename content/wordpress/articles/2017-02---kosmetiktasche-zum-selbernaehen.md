@@ -43,12 +43,8 @@ subTitle: Nähanleitung
 und wie sie entstanden ist.</strong>
 
 Im Rahmen meiner kleinen Nähserie sind bereits ein
-<a href="/2015/09/diy-koernerkissen-naehanleitung/">Körnerkissen</a>, eine
-<a href="/2015/09/kleine-handtasche-zum-selbermachen/">Handtasche</a> und eine
-<a href="http://cardamonchai.com/2015/10/diy-handytasche-mit-zugmechanismus/">Handytasche</a>
-entstanden. Für meine Kosmetiktasche habe ich mich der Anleitung von Dot's
-Designs<a href="#1"><sup>1</sup></a> bedient, sie ist klasse bebildert und
-verständlich beschrieben, daher kam sie mir gerade recht.
+[](/2015/09/diy-koernerkissen-naehanleitung/) bedient, sie ist klasse bebildert
+und verständlich beschrieben, daher kam sie mir gerade recht.
 
 ## Das braucht Ihr für Eure Kosmetiktasche
 
@@ -66,7 +62,7 @@ verständlich beschrieben, daher kam sie mir gerade recht.
     <li>Bleistift</li>
     <li>Schneiderkreide</li>
     <li>Linial oder großes Geodreieck</li>
-    <li>Die Nähanleitung von Dot's Designs<a href="#1"><sup>1</sup></a></li>
+    <li>Die Nähanleitung von Dot's Designs [](#1) </li>
 </ul>
 
 ## So entsteht Eure Kosmetiktasche
@@ -104,12 +100,10 @@ weich und gepolstert. :-)
 
 Viel Spaß beim Nähen!
 
-[1]
-<a href="http://www.dots-designs.de/kosmetiktasche-naehen/" target="_blank" rel="noopener">Hier
-findet Ihr die Nähanleitung von Dot's Designs</a>
+[1][hier findet ihr die nähanleitung von dot's designs](http://www.dots-designs.de/kosmetiktasche-naehen/)
 
 Wie Ihr aus einem alten T-Shirt eine geniale Umhängetasche nähen könnt,
-<a href="/2015/09/diy-upcycling-nerdbag/">erfahrt Ihr hier</a>.
+[erfahrt Ihr hier](/2015/09/diy-upcycling-nerdbag/).
 
 [gallery type="rectangular" link="none" size="large"
 ids="15867,15865,15861,15859"]

@@ -80,9 +80,7 @@ Schwarzer Johannisbeersaft* 4 Prozent, Holundersaft* 2 Prozent, Heidelbeersaft*
 Gemüsegeschmack. Ich stehe ja voll auf Rote Bete. Möhren stecken auch drin und
 noch vieles mehr. Das enthaltene Eisen wird aus Curry-Blättern extrahiert. Alles
 vollkommen natürlich also. Und schmeckt kein bisschen nach Eisen, wie ich das
-von
-<a href="http://cardamonchai.com/2018/04/vegane-saefte-und-schorlen-im-test/">anderen
-Säften</a> kenne.
+von [anderen Säften](/2018/04/vegane-saefte-und-schorlen-im-test/) kenne.
 
 <small>Apfelsaft* 63,5 Prozent, Rote Bete Most* 1 Prozent, Schwarzmöhrensaft* 7
 Prozent, Acerolamark* 6 Prozent, Mangomark* 6 Prozent, Schwarzer
@@ -116,11 +114,8 @@ Insgesamt gibt es von Voelkel derzeit neun Muttersäfte (Preis für 0,33 Liter a
 4,29 Euro, für 0,75 Liter ab 7,99 Euro) an. Neben den von mir getesteten
 Produkten kann man auch noch Sanddorn, Acerola, Aronia, Preiselbeere, Schwarze
 Johannisbeere und Waldheidelbeere käuflich erwerben. Mehr Infos zu den Produkten
-findet Ihr unter
-<a href="http://shop.voelkeljuice.de/" target="_blank" rel="noopener">im Voelkel
-Onlineshop</a>. Eine kleine Liste veganer Getränke habe ich
-<a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/" target="_blank" rel="noopener">unter
-diesem Link</a> für Euch zusammengetragen.
+findet Ihr unter [unter diesem Link](http://shop.voelkeljuice.de/) für Euch
+zusammengetragen.
 
 Ich kann Euch auf jeden Fall empfehlen, die neuen Voelkel-Getränke mal zu
 testen. Und jetzt drückt mir die Daumen, dass wir morgen fit sind, wenn unsere
@@ -130,5 +125,4 @@ Reise losgeht!
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

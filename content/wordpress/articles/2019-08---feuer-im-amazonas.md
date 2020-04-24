@@ -55,8 +55,7 @@ zu sehen.
 Dass es während der Trockenperioden im Regenwald zu vereinzelten Bränden kommt,
 ist normal. Nicht aber, in dieser Ausprägung und Anzahl. Reuters meldete am 20.
 August, dass zu dem traurigen Rekord von 72.843 Bränden nochmal 9.507 dazu
-gekommen seien.<a href="#1"><sup>1</sup></a> Seitdem konnte das Ausmaß nicht
-eingedämmt werden.
+gekommen seien. [](#1) Seitdem konnte das Ausmaß nicht eingedämmt werden.
 
 <iframe src="https://www.youtube.com/embed/NDmx92PVJpk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -66,8 +65,7 @@ Viele der Feuer wurden von Landwirten gelegt, die damit Weideflächen für ihre
 Rinder sowie Anbauflächen für Futtermittel gewinnen möchten, so Reuters. 2018
 verkauften brasilianische Rindfleisch-Exporteure rund zwei Millionen Tonnen
 Rindfleisch auf dem Weltmarkt. Für 2020 werden 2,2 Millionen Tonnen
-prognostiziert. 2017 waren es noch 1,86 Millionen Tonnen
-(Statista<a href="#2"><sup>2</sup></a>).
+prognostiziert. 2017 waren es noch 1,86 Millionen Tonnen (Statista [](#2) ).
 
 Im Internet machen traurige Bilder die Runde.
 
@@ -101,29 +99,28 @@ richtig. Aber: es reicht nicht.
 
 Auch der Konsum von Fleisch und anderen Tierprodukten aus Deutschland trägt zur
 Zerstörung bei. 80 Prozent des nach Deutschland importierten Soja stammt
-beispielsweise aus Südamerika<a href="#3"><sup>3</sup></a>. So viel Futter, wie
-man braucht, um alle 'Nutztiere' satt zu kriegen, könnte man in Deutschland
-nämlich gar nicht anbauen. Dafür ist die uns zur Verfügung stehende Fläche
-einfach zu klein.
+beispielsweise aus Südamerika [](#3). So viel Futter, wie man braucht, um alle
+'Nutztiere' satt zu kriegen, könnte man in Deutschland nämlich gar nicht
+anbauen. Dafür ist die uns zur Verfügung stehende Fläche einfach zu klein.
 
 <strong>Achtung: </strong>Das Soja, das Veganer\*innen und Vegetarier\*innen
 hierzulande verzehren, stammt nicht aus Südamerika. Der größte Teil davon wird
-in Europa angebaut, ein verschwindend geringer Anteil stammt aus Asien
-(<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">Mehr
-dazu hier</a>). Der Anteil, den wir direkt verzehren, ist insgesamt sehr klein.
-Rund 98 Prozent des produzierten Sojamehls wird verfüttert. Deutschland liegt
-beim Import von Soja aus Südamerika an erster Stelle.
+in Europa angebaut, ein verschwindend geringer Anteil stammt aus Asien (
+[Mehr dazu hier](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) ). Der
+Anteil, den wir direkt verzehren, ist insgesamt sehr klein. Rund 98 Prozent des
+produzierten Sojamehls wird verfüttert. Deutschland liegt beim Import von Soja
+aus Südamerika an erster Stelle.
 
 ## Geflügel essen ist nicht besser
 
 Immer wieder werden Stimmen laut, die behaupten, der Verzehr von Geflügel wäre
 weniger schlimm und würde das Klima schonen. Die UN Food And Agriculture
-Organisation weiß: das Gegenteil ist der Fall<a href="#4"><sup>4</sup></a>.
+Organisation weiß: das Gegenteil ist der Fall [](#4).
 
 Möchte man ein Kilogramm Hühnerfleisch 'erzeugen', muss man rund ein Kilogramm
 Soja verfüttern. Ein Kilogramm Schweinefleisch benötigt 650 Gramm, Rindfleisch
 230 Gramm. Das Soja wird selbstverständlich noch mit anderen Futtermitteln, für
-die ebenfalls Anbaufläche notwendig ist, gemischt<a href="#5"><sup>5</sup></a>.
+die ebenfalls Anbaufläche notwendig ist, gemischt [](#5).
 
 Die FAO verzeichnete in den letzten 50 Jahren einen zehnfachen Anstieg der
 Sojaproduktion. Damals waren es bereits 269 Millionen Tonnen. Bis zum Jahr 2050
@@ -145,8 +142,7 @@ Augen vor dem Offensichtlichen?
 
 Um eine Fleischkalorie zu produzieren, werden zwischen sechs und 26
 Futterkalorien benötigt. Autor Jonathan Safran Foer sieht das in seinem Werk
-"<a href="http://cardamonchai.com/2019/02/tiere-essen-von-jonathan-safran-foer/">Tiere
-essen</a>" ziemlich klar:
+"[Tiere essen](/2019/02/tiere-essen-von-jonathan-safran-foer/)" ziemlich klar:
 
 <blockquote>„Es gibt aus moralischer Sicht keinen Unterschied zwischen dem Verzehr von Fleisch und der Vernichtung riesiger Lebensmittelmengen, denn die Tiere, die wir essen, können nur einen winzigen Bruchteil ihrer Nahrung in Fleischbrennwert umwandeln.“</blockquote>
 
@@ -171,11 +167,10 @@ Schmiedinger. Ich gebe es hier frei wieder.
 
 <blockquote>"Die 'Produktion' von 65 Milliarden 'Nutztieren' pro Jahr zieht massive ökologische Konsequenzen nach sich. Wir sprechen hier zum Beispiel vom mit Abstand größten Flächenverbrauch auf der Erde. Zwei Drittel aller vom Menschen genutzten Flächen fallen an die Tierhaltung. Sie werden also als Weideflächen und für den Futtermittelanbau genutzt. Wir benötigen viel mehr Pflanzen, wenn wir aus ihnen Futtermittel herstellen, als wenn wir sie einfach direkt verzehren würden. Wenn wir Pflanzen essen, ist das weitaus effizienter, als wenn wir die Pflanzen erst an Tiere verfüttern.
 
-Aus der Livestock's Long Shadow Studie der FAO<a href="#6"><sup>6</sup></a> geht
-hervor, dass die Nutztierhaltung mit 18 Prozent zum Weltklimawandel beiträgt.
-Das ist mehr, als der gesamt weltweite Verkehr. Also alle Autos, Flugzeuge,
-Schiffe und Züge zusammen. Andere Studien schätzen diesen Beitrag sogar noch
-höher.
+Aus der Livestock's Long Shadow Studie der FAO [](#6) geht hervor, dass die
+Nutztierhaltung mit 18 Prozent zum Weltklimawandel beiträgt. Das ist mehr, als
+der gesamt weltweite Verkehr. Also alle Autos, Flugzeuge, Schiffe und Züge
+zusammen. Andere Studien schätzen diesen Beitrag sogar noch höher.
 
 ### Emissionen stoppen
 
@@ -212,20 +207,19 @@ richtige Richtung ist gut und sorgt dafür, dass weitere folgen werden.
 Allen, die gerne tiefer in das Thema einsteigen möchten, kann ich die Filme
 "Cowspiracy" und "Live And Let Live" empfehlen. Wer lieber lesen möchte, schaut
 zum Beispiel mal in Melanie Joys Buch
-"<a href="http://cardamonchai.com/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/">Warum
-wir Hunde lieben, Schweine essen und Kühe anziehen</a>" rein.
+"[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)"
+rein.
 
 ### Fußnoten &amp; Quellen
 
 <ul>
-    <li id="1">[1] <a href="https://www.reuters.com/article/us-brazil-environment-wildfires/amazon-burning-brazil-reports-record-forest-fires-idUSKCN1VA1UK" target="_blank" rel="noopener">Reuters</a></li>
-    <li id="2">[2] <a href="https://de.statista.com/statistik/daten/studie/245664/umfrage/fuehrende-exportlaender-von-rindfleisch-weltweit/" target="_blank" rel="noopener">Statista</a></li>
-    <li id="3">[3] <a href="https://www.peta.de/fleischkonsum-amazonas-regenwald" target="_blank" rel="noopener">PETA</a></li>
-    <li id="4">[4] <a href="http://www.fao.org/3/a0701e/a0701e00.htm" target="_blank" rel="noopener">UN Food And Agriculture Organisation</a></li>
-    <li id="5">[5] <a href="https://www.peta.de/soja-regenwald" target="_blank" rel="noopener">Verhältnis Soja zu Fleisch</a></li>
-    <li id="6">[6] <a href=" http://www.fao.org/3/a0701e/a0701e00.htm" target="_blank" rel="noopener">Livestock's Long Shadow Studie FAO</a></li>
+    <li id="1">[1]  [Reuters](https://www.reuters.com/article/us-brazil-environment-wildfires/amazon-burning-brazil-reports-record-forest-fires-idUSKCN1VA1UK) </li>
+    <li id="2">[2]  [Statista](https://de.statista.com/statistik/daten/studie/245664/umfrage/fuehrende-exportlaender-von-rindfleisch-weltweit/) </li>
+    <li id="3">[3]  [PETA](https://www.peta.de/fleischkonsum-amazonas-regenwald) </li>
+    <li id="4">[4]  [UN Food And Agriculture Organisation](http://www.fao.org/3/a0701e/a0701e00.htm) </li>
+    <li id="5">[5]  [Verhältnis Soja zu Fleisch](https://www.peta.de/soja-regenwald) </li>
+    <li id="6">[6]  [Livestock's Long Shadow Studie FAO]( http://www.fao.org/3/a0701e/a0701e00.htm) </li>
 </ul>
 
 Foto im Header:
-<a href="https://pixabay.com/de/users/suhasrawool-4832239/" target="_blank" rel="noopener nofollow">suhasrawool</a>,
-pixabay
+[suhasrawool](https://pixabay.com/de/users/suhasrawool-4832239/), pixabay

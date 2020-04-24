@@ -68,17 +68,12 @@ Stücke sind für uns die besten des Jahres.</strong>
 
 Ziemlich genau vor einem Jahr ist eine Idee entstanden, die meinen Blog auf ein
 neues Level gehoben hat. Im Dezember 2018 veröffentlichte ich nacheinander
-"<a href="http://cardamonchai.com/2018/12/meine-10-songs-2018/">Meine 10 Songs
-2018</a>", "<a href="http://cardamonchai.com/2018/12/musik-2018/">Eure Musik
-2018</a>",
-"<a href="http://cardamonchai.com/2018/12/valentins-11-alben-des-jahres-2018/">Valentins
-11 Alben des Jahres 2018</a>" und
-"<a href="http://cardamonchai.com/2018/12/matzes-songs-2018/">Matzes Songs
-2018</a>".  Anschließend stand fest: Es wird 2019 jeden Monat eine Musikliste
-geben. Im Januar die Liste für den Februar, im Februar die für den März und so
-weiter. Hintergrund: Was gibt es besseres, als jeden Monat neue Musik zu
-entdecken und sich vier Wochen lang von tollen Songs begleiten zu lassen, die
-man vielleicht auch später nochmal hören wird? Genau: so gut wie gar nichts.
+"[Matzes Songs 2018](/2018/12/meine-10-songs-2018/)" .  Anschließend stand fest:
+Es wird 2019 jeden Monat eine Musikliste geben. Im Januar die Liste für den
+Februar, im Februar die für den März und so weiter. Hintergrund: Was gibt es
+besseres, als jeden Monat neue Musik zu entdecken und sich vier Wochen lang von
+tollen Songs begleiten zu lassen, die man vielleicht auch später nochmal hören
+wird? Genau: so gut wie gar nichts.
 
 ## Ein musikalischer Pakt
 
@@ -118,7 +113,7 @@ wünschen Euch viel Spaß mit den folgenden Meisterwerken.
 <iframe src="https://www.youtube.com/embed/rj3IbZV_YQM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Kim Gordon - "Murdered Out" vom Album "No Home Record"
-Dass Kim Gordon 2019 ein neues Werk veröffentlicht hat, hat mich sehr glücklich gemacht. "No Home Record" ist ein starkes Stück, das in keinem Plattenregal fehlen sollte. "Murdered Out" hat es schon auf die <a href="http://cardamonchai.com/2019/11/13-songs-fuer-den-dezember/">Liste für den Dezember</a> geschafft und sich inzwischen fest in meine Ohren und in mein Herz eingebrannt.
+Dass Kim Gordon 2019 ein neues Werk veröffentlicht hat, hat mich sehr glücklich gemacht. "No Home Record" ist ein starkes Stück, das in keinem Plattenregal fehlen sollte. "Murdered Out" hat es schon auf die  [Liste für den Dezember](/2019/11/13-songs-fuer-den-dezember/)  geschafft und sich inzwischen fest in meine Ohren und in mein Herz eingebrannt.
 <iframe src="https://www.youtube.com/embed/NvgRg_mUhtQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Unkle - "Crucifixion" vom Album "The Road: Part II / Lost Highway"
@@ -131,12 +126,12 @@ Dass Kim Gordon 2019 ein neues Werk veröffentlicht hat, hat mich sehr glücklic
     <li>
 ## Slipknot - "Unsainted" vom Album "We Are Not Your Kind"
 <p class="p1">Valentin hat auch dieses Stück auf die Jahresliste gepackt:</p>
-"Wie Matze in unserer <a href="http://cardamonchai.com/2019/07/12-songs-fuer-den-august/">Liste für den August</a> schon geschrieben hat.: 'We Are Not Your Kind' ist das mächtigste Metal-Album des Jahres 2019. Ich wähle den Song 'Unsainted' für die Jahrescharts."
+"Wie Matze in unserer  [Liste für den August](/2019/07/12-songs-fuer-den-august/)  schon geschrieben hat.: 'We Are Not Your Kind' ist das mächtigste Metal-Album des Jahres 2019. Ich wähle den Song 'Unsainted' für die Jahrescharts."
 
 <iframe src="https://www.youtube.com/embed/VpATBBRajP8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Nick Cave &amp; The Bad Seeds "Leviathan" vom Album "Ghosteen"
-Auch ein Song von Nick Caves neuer Platte durfte für Valentin auf keinen Fall fehlen. Nach dem wunderschönen "Waiting for you" in der <a href="http://cardamonchai.com/2019/11/13-songs-fuer-den-dezember/">Dezember-Liste</a> hat er sich in der Jahresliste für "Leviathan" entschieden.
+Auch ein Song von Nick Caves neuer Platte durfte für Valentin auf keinen Fall fehlen. Nach dem wunderschönen "Waiting for you" in der  [Dezember-Liste](/2019/11/13-songs-fuer-den-dezember/)  hat er sich in der Jahresliste für "Leviathan" entschieden.
 <iframe src="https://www.youtube.com/embed/M41EdpS16V0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Tides From Nebula - "The New Delta" vom Album "From Voodoo to Zen"
@@ -159,9 +154,9 @@ The End Of the Ocean haben mich mit ihrem aktuellen Album davongetragen. Sie hab
 Das sind sie also: unsere Songs des Jahres. Die Auswahl ist uns nicht leicht
 gefallen. Wir haben 2019 einfach so wahnsinnig viel gute Musik gehört. Was
 übrigens auch sehr viel Anklang fand hier im Blog, war
-<a href="http://cardamonchai.com/2019/09/1994-musik-veroeffentlichungen/">meine
-Liste mit Songs aus dem Jahr 1994</a> - musikalisch ein ganz besonderes Jahr.
-Ich möchte sie Euch hiermit nochmal ans Herz legen.
+[meine Liste mit Songs aus dem Jahr 1994](/2019/09/1994-musik-veroeffentlichungen/) -
+musikalisch ein ganz besonderes Jahr. Ich möchte sie Euch hiermit nochmal ans
+Herz legen.
 
 Im nächsten Musikartikel auf meiner Seite lüften wir dann das nächste Geheimnis:
 Ihr erfahrt, welche Platten unsere Alben des Jahres sind. Es bleibt also auf
@@ -181,14 +176,14 @@ Bekannte.
 
 Hat Euch unsere Jahresliste gefallen? Dann bleibt am besten dran. Wir haben vor,
 Euch auch im nächsten Jahr wieder mit Musiklisten zu beglücken. Wer nichts
-verpassen möchte, kann gerne <a href="#newsletter">meinen Newsletter
-abonnieren</a>. Ich freue mich auf Euch.
+verpassen möchte, kann gerne [meinen Newsletter abonnieren](#newsletter). Ich
+freue mich auf Euch.
 
 Natürlich macht Musik hören, schreiben, Grafiken und Playlisten bauen müde und
 durstig. Kaffee ist da genau das Richtige. Wer mir gerne einen spendieren
 möchte, kann das über meinen Paypal Me Link tun:
 
-<a href="https://cardamonchai.com/2019/10/12-songs-fuer-den-november/paypal.me/cardamonchai">paypal.me/cardamonchai</a>
+[paypal.me/cardamonchai](/2019/10/12-songs-fuer-den-november/paypal.me/cardamonchai)
 
 Danke schön!
 

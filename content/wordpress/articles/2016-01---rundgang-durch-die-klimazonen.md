@@ -59,26 +59,24 @@ Klimazonen von den Tropen über die Subtropen bis zur Wüste.
 
 [myflickr tag="anneklimazonen2015"]
 
-Einen ausgedehnten
-<a href="http://cardamonchai.com/2009/05/eden-project/">Spaziergang durch die
-Klimazonen</a> kann man auch im Eden Project in Cornwall machen.
+Einen ausgedehnten [Spaziergang durch die Klimazonen](/2009/05/eden-project/)
+kann man auch im Eden Project in Cornwall machen.
 
-Mehr über <a href="http://cardamonchai.com/2015/06/planten-un-blomen/">Planten
-un Blomen</a> erfahrt Ihr hier in meinem Blog.
+Mehr über [Planten un Blomen](/2015/06/planten-un-blomen/) erfahrt Ihr hier in
+meinem Blog.
 
 Die Öffnungszeiten sowie weitere Infos über die Schaugewächshäuser findet Ihr
-auf der
-<a href="http://plantenunblomen.hamburg.de/schaugewaechshaeuser/" target="_blank" rel="noopener">Homepage</a>
-von Planten un Blomen.
+auf der [Homepage](http://plantenunblomen.hamburg.de/schaugewaechshaeuser/) von
+Planten un Blomen.
 
 ## Wegweiser Planten un Blomen
 
 <ol>
-    <li><a href="/2015/06/planten-un-blomen/">Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)</a><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
+    <li> [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/) <a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
 </a></li>
     <li>Ein Rundgang durch die Klimazonen (Januar 2016)</li>
-    <li><a href="/2016/01/bluetenpracht-im-winter/">Blütenmeer im Winter (Januar 2016)</a></li>
-    <li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der Brücke (Januar 2016)</a></li>
-    <li><a href="/2016/05/1-mai-bei-planten-un-blomen/">1. Mai bei Planten un Blomen (Mai 2016)</a></li>
-    <li><a href="http://cardamonchai.com/2017/12/weihnachten-bei-planten-un-blomen/">Weihnachten bei Planten un Blomen (Dezember 2017)</a></li>
+    <li> [Blütenmeer im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/) </li>
+    <li> [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/) </li>
+    <li> [1. Mai bei Planten un Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/) </li>
+    <li> [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/) </li>
 </ol>

@@ -261,11 +261,10 @@ sogar ganz. Auch Allergikern und Patienten mit rheumatischen Erkrankungen
 empfehle ich eine komplette Umstellung ihrer Ernährung.
 
 <strong>Anne:</strong> Als Veganer sollte man
-<a href="http://cardamonchai.com/?s=vitamin+b12">Vitamin B12 substituieren</a>,
-da es dem Körper über rein pflanzliche Nahrung nach dem heutigen Stand der
-Forschung nicht zugeführt werden kann. Derzeit finden Studien mit Superfoods wie
-z. B. verschiedenen Algen statt, die das z. T. schon widerlegen könnten. Wie
-stehen sie zu diesen Forschungen?
+[Vitamin B12 substituieren](/?s=vitamin+b12), da es dem Körper über rein
+pflanzliche Nahrung nach dem heutigen Stand der Forschung nicht zugeführt werden
+kann. Derzeit finden Studien mit Superfoods wie z. B. verschiedenen Algen statt,
+die das z. T. schon widerlegen könnten. Wie stehen sie zu diesen Forschungen?
 
 <strong>Dr. Gorißen:</strong> Ich persönlich nutze Algen ohnehin sehr gerne zum
 Würzen. Das ist ja auch nicht neu, die japanische Küche arbeitet ja z. B. sehr
@@ -363,28 +362,22 @@ freundliche Interview! Es hat mir großen Spaß gemacht!
 Vor einiger Zeit ist bei Vegan News ein Interview erschienen, dass ich mit dem
 veganen Internistin Dr. Hanno Platz aus Fischach geführt habe. Wer es gerne
 lesen möchte, es ist unter diesem
-<a href="http://www.vegan-news.de/dr-hanno-platz-fischach/" target="_blank" rel="noopener">Link</a>
-zu finden.
+[Link](http://www.vegan-news.de/dr-hanno-platz-fischach/) zu finden.
 
 Meine Erfahrungen zum Thema alternative Medizin, Akupunktur, Traditionelle
 Chinesische Medizin und Thai-Massage habe ich
-<a href="http://cardamonchai.com/2014/11/auf-dem-weg-zur-tiefenentspannung/">hier</a>
-festgehalten.
+[hier](/2014/11/auf-dem-weg-zur-tiefenentspannung/) festgehalten.
 
 Wer gerne mehr über Frau Dr. Barbara Gorißen erfahren oder gerne mit Ihr in
 Kontakt treten möchte, der findet sie auf ihrer
-<a href="http://www.praxis-dr-gorissen.de/" target="_blank" rel="noopener">Homepage</a>.
+[Homepage](http://www.praxis-dr-gorissen.de/).
 
 ### Bildquellen/References pictures<strong>Portrait/Portrait:</strong> Barbara Gorißen privat/private
 
 <strong>Gemüsefotos/Vegetables:</strong> Aus
-<a href="https://www.flickr.com/photos/99929697@N07/" target="_blank" rel="noopener">meinem
-Flickr</a><strong>Tabletten/Pills:</strong><a href="http://Tabletten? Oder einfach " target="_blank" rel="noopener">Taki
-Steve</a>, Flickr (Creative Commons)
-<strong>Spritze/Injection:</strong><a href="https://www.flickr.com/photos/dm-set/" target="_blank" rel="noopener">Sarah</a>,
-Flickr (Creative Commons)
+[Taki Steve](https://www.flickr.com/photos/99929697@N07/), Flickr (Creative
+Commons) <strong>Spritze/Injection:</strong>
+[Sarah](https://www.flickr.com/photos/dm-set/), Flickr (Creative Commons)
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum
-ausdrucken!</span></a><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+[](/2015/03/die-ultimative-vegane-festivalliste)
+<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

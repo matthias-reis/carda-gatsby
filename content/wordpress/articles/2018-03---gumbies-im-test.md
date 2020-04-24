@@ -105,14 +105,8 @@ Wenn man im Freibad oder am Pool mal etwas schneller unterwegs ist, ist das
 schon wirklich eine praktische Sache.
 
 Leider konnte ich die Gumbies noch nicht am Strand testen, denn an der
-<a href="http://cardamonchai.com/2016/08/maritimer-radausflug/">Elbe</a> ist es
-im Moment noch etwas kalt. Das wird aber beizeiten nachgeholt. Gerne hätte ich
-sie zum Beispiel auch auf unserer Wanderung durch die
-<a href="http://cardamonchai.com/2017/07/die-duenen-von-maspalomas/" target="_blank" rel="noopener">Dünen
-von Maspalomas</a> oder in den
-<a href="http://cardamonchai.com/2016/05/naturschutzgebiet-boberger-niederung/" target="_blank" rel="noopener">Wanderdünen</a>
-bei Boberg dabei gehabt. Eines ist sicher: Auf meinen nächsten Reisen werden sie
-mich auf jeden Fall begleiten.
+[Wanderdünen](/2016/08/maritimer-radausflug/) bei Boberg dabei gehabt. Eines ist
+sicher: Auf meinen nächsten Reisen werden sie mich auf jeden Fall begleiten.
 
 ## Fazit: Sie werden mich noch lange begleiten
 
@@ -138,19 +132,16 @@ aktuelle Kollektion beinhaltet 26 unterschiedliche Styles. Der Vertrieb in
 Deutschland läuft über Bielefeld (An dieser Stelle einen Gruß an meine alte
 Heimat). Kaufen könnt Ihr Sie im Onlineshop und bei ausgewählten Einzelhändlern.
 
-Den Gumbies Onlineshop
-<a href="https://shop.gumbies.de/" target="_blank" rel="noopener">findet Ihr
-hier</a>.
+Den Gumbies Onlineshop [findet Ihr hier](https://shop.gumbies.de/).
 
 Ein Verzeichnis der Einzelhändler, die die Strandschuhe im Sortiment haben
-<a href="https://www.gumbies.de/haendlerverzeichnis" target="_blank" rel="noopener">hier</a>.
+[hier](https://www.gumbies.de/haendlerverzeichnis).
 
 [gallery type="rectangular" link="none" size="medium"
 ids="20028,20025,20027,20024"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
 &nbsp;

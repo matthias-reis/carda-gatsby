@@ -107,10 +107,10 @@ gängigen DIN EN 13432. Hergestellt wird in Deutschland.
 ![biobrush](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-biobrush-berlin-400x300.jpg "Biobrush Berlin - eine gute Alternative")
 
 Zu herkömmlichen Bürsten aus
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Erdöl-Plastik</a>
-sind sie auf jeden Fall eine gute Alternative. Da sie aus Resten hergestellt
-werden, müssen außerdem keine Bäume dafür gefällt oder fossile Ressourcen in
-Anspruch genommen werden.
+[Erdöl-Plastik](/2017/08/kenia-sagt-plastiktueten-nein-danke/) sind sie auf
+jeden Fall eine gute Alternative. Da sie aus Resten hergestellt werden, müssen
+außerdem keine Bäume dafür gefällt oder fossile Ressourcen in Anspruch genommen
+werden.
 
 Im Vergleich mit meinen <strong>Bambuszahnbürsten</strong> liegen sie
 schätzungsweise ungefähr gleich auf. Bei Bambus handelt es sich um den am
@@ -168,21 +168,17 @@ zum Beispiel zum Preis von 15 Euro.
 Gründerin Nannett wurde übrigens bei den diesjährigen EMOTION-Awards in der
 Kategorie "Gründerin" nominiert. Pro Kategorie gibt es drei Finalistinnen. Ein
 Online-Voting entscheidet nun, wer das Rennen macht. Abgestimmt werden kann
-<a href="https://www.emotion.de/award-2019" target="_blank" rel="noopener">unter
-diesem Link</a> noch bis zum 17. April 2019.
+[unter diesem Link](https://www.emotion.de/award-2019) noch bis zum 17.
+April 2019.
 
 ### Weiterführende Links
 
-<a href="https://www.plasticgarbageproject.org/" target="_blank" rel="noopener">Plastic
-Garbage Project Wanderausstellung</a>
+[Plastic Garbage Project Wanderausstellung](https://www.plasticgarbageproject.org/)
 
-<a href="https://biobrush-berlin.com" target="_blank" rel="noopener">Biobrush
-Berlin Hompage</a>
+[Biobrush Berlin Hompage](https://biobrush-berlin.com)
 
-<a href="https://biobrush-berlin.com/shop/" target="_blank" rel="noopener">Onlineshop
-Bio Brush Berlin</a>
+[Onlineshop Bio Brush Berlin](https://biobrush-berlin.com/shop/)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

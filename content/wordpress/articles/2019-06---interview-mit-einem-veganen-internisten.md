@@ -236,12 +236,12 @@ schon immer geraucht hätte, wäre Rauchen immer noch nicht gut.
 
 Meine Lieblingsphrase? OK, die knüpft an das eben Gesagte an: "Früher haben wir
 doch auch ohne Bedenken Fleisch gegessen, Milch getrunken und
-<a href="http://cardamonchai.com/2014/11/suechtig-nach-kaese-casomorphine/">Käse
-gegessen</a>". Dann antworte ich meist ein wenig zynisch: "Ja, das ist wahr,
-aber früher haben wir auch in die Hose gemacht, konnten nicht reden und nicht
-laufen, aber sind wir deshalb auf diesem Niveau stehen geblieben?" Es kommt dann
-zwar meist die trotzige Antwort: "Aber das ist doch ganz etwas Anderes", dennoch
-glaube ich, dass dieser Satz, wenn auch verzögert, zum Nachdenken anregt.
+[Käse gegessen](/2014/11/suechtig-nach-kaese-casomorphine/)" . Dann antworte ich
+meist ein wenig zynisch: "Ja, das ist wahr, aber früher haben wir auch in die
+Hose gemacht, konnten nicht reden und nicht laufen, aber sind wir deshalb auf
+diesem Niveau stehen geblieben?" Es kommt dann zwar meist die trotzige Antwort:
+"Aber das ist doch ganz etwas Anderes", dennoch glaube ich, dass dieser Satz,
+wenn auch verzögert, zum Nachdenken anregt.
 
 "Was sollen wir denn dann mit den ganzen Tieren machen, wenn wir plötzlich alle
 vegan leben?" Wenn jemand diese Frage stellt, dann zeugt das natürlich nur von
@@ -251,8 +251,8 @@ unendlicher Dummheit des Fragenden und bedarf keines weiteren Kommentars.
 ## Fleischesser\*innen leiden häufiger an Vitamin B12-Mangel
 
 <strong>Anne:</strong> Warum müssen Veganer\*innen
-<a href="http://cardamonchai.com/2014/08/vitamin-b12-mythos-und-wahrheit/">Vitamin
-B12 substituieren</a>? Können Fleischesser\*innen auch einen B12-Mangel haben?
+[Vitamin B12 substituieren](/2014/08/vitamin-b12-mythos-und-wahrheit/) ? Können
+Fleischesser\*innen auch einen B12-Mangel haben?
 
 <strong>Dr. Hanno Platz:</strong> Für diese Frage bin ich sehr dankbar. Ja,
 Fleischesser\*innen haben sehr häufig einen Vitamin-B12-Mangel. In meiner Praxis
@@ -267,18 +267,18 @@ Bratwurst (Hier wird mir gleich aus mehreren Gründen übel) sind unter anderem
 Zivilisationskrankheiten.
 
 Das heißt im Klartext: Die Fleisch- und
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">Milchindustrie</a>
-macht zuerst den Menschen krank und verdient sich  dumm und dämlich, damit
-anschließend die <strong>Pharmaindustrie</strong> den krankgemachten Menschen
-mit Medikamenten wieder helfen kann, die schlimmsten Folgen der Fehlernährung
-wieder aufzufangen. Das Problem dabei ist nun, dass genau diese Medikamente sehr
-häufig zum Beispiel den Vitamin-B12-Haushalt empfindlich stören, beispielsweise
-Medikamente gegen zu viel Magensäure, sog. Säureblocker, oder auch bestimmte
-Medikamente gegen die Zuckerkrankheit, wobei sich die Liste noch fortsetzen
-ließe. Dazu kommt, das Fleischesser\*innen auf der Grundlage des mangelnden
-Gesundheitsbewusstseins, weitaus häufiger Raucher\*innen sind und zu viel
-Alkohol konsumieren, was zusätzlich zu einem erhöhten Homocysteinspiegel führt,
-der wiederum als Korrektivum Vitamin B12 benötigt und diesen dadurch senkt.
+[Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/) macht zuerst den
+Menschen krank und verdient sich  dumm und dämlich, damit anschließend die
+<strong>Pharmaindustrie</strong> den krankgemachten Menschen mit Medikamenten
+wieder helfen kann, die schlimmsten Folgen der Fehlernährung wieder aufzufangen.
+Das Problem dabei ist nun, dass genau diese Medikamente sehr häufig zum Beispiel
+den Vitamin-B12-Haushalt empfindlich stören, beispielsweise Medikamente gegen zu
+viel Magensäure, sog. Säureblocker, oder auch bestimmte Medikamente gegen die
+Zuckerkrankheit, wobei sich die Liste noch fortsetzen ließe. Dazu kommt, das
+Fleischesser\*innen auf der Grundlage des mangelnden Gesundheitsbewusstseins,
+weitaus häufiger Raucher\*innen sind und zu viel Alkohol konsumieren, was
+zusätzlich zu einem erhöhten Homocysteinspiegel führt, der wiederum als
+Korrektivum Vitamin B12 benötigt und diesen dadurch senkt.
 
 Ob Veganer\*innen Vitamin B12 wirklich substituieren müssen, ist meines
 Erachtens nicht abschließend geklärt, da in der Wissenschaft diskutiert wird, ob
@@ -288,9 +288,9 @@ welche sich auch auf Pflanzen befinden. Das ist aber mit Vorsicht zu betrachten,
 da hier die Erkenntnisse nicht abschließend vorliegen. Indirekt kann ich aber
 aufgrund meiner persönlichen, nicht statistisch relevanten Beobachtungen sagen,
 dass es mir so erscheint, das gerade Fleischesser häufiger unter
-Mangelerscheinungen, darunter auch Vitamin B12-Mangel leiden.
-(<a href="http://cardamonchai.com/2014/08/vitamin-b12-mythos-und-wahrheit/">Mehr
-zum Thema Vitamin B12 gibt es hier</a>)
+Mangelerscheinungen, darunter auch Vitamin B12-Mangel leiden. (
+[Mehr zum Thema Vitamin B12 gibt es hier](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+)
 
 <strong>Anne:</strong> Ist es dann generell überhaupt notwendig, Vitamine zu
 substituieren, oder reguliert sich der Körper ganz von selbst? Welche
@@ -429,8 +429,8 @@ raten?
 <strong>Dr. Hanno Platz:</strong> Nichts einfacher als das. "Ernähren Sie sich
 vegan, stellen Sie den Nikotinkonsum ein, betreiben Sie Ihrem Herzbefund
 entsprechenden Sport. Sorgen Sie nach Möglichkeit für ein ausgewogenes
-<a href="http://cardamonchai.com/2019/01/das-seelenleben-der-tiere-peter-wohlleben/">Seelenleben</a>,
-denn auch seelischer Stress ist für die körperliche Gesundheit nicht förderlich.
+[Seelenleben](/2019/01/das-seelenleben-der-tiere-peter-wohlleben/), denn auch
+seelischer Stress ist für die körperliche Gesundheit nicht förderlich.
 
 <strong>Anne:</strong> Gerade von Personen mittleren/fortgeschritteneren Alters
 hört man ja, wenn es ums Vegane geht immer wieder mal die Worte "Das ist alles
@@ -472,14 +472,14 @@ den Menschen sein!
 
 Ich kann nicht die eigene Gesundheit auf dem Leid oder Tod eines anderen,
 gleichberechtigten Lebewesens aufbauen. Aus diesem Grund bin ich auch Mitglied
-in der Vereinigung "Ärzte gegen Tierversuche"<a href="#1"><sup>1</sup></a>, die
-es sich unter anderem zum Ziel gesetzt hat, Medikamente, und auch Impfstoffe
-sind Medikamente, ohne jegliche Versuche an anderen Lebewesen zu entwickeln.
-Hier ist es, denke ich, wieder die Profitgier der Pharmaindustrie, die solchen
-Entwicklungen zunächst aus rein finanziellen "Überlegungen" entgegensteht. Auf
-diesen Industriebereich muss weiterhin sowohl von Ärzt\*innen, als auch vom Rest
-der Bevölkerung konsequent eingewirkt werden. Bei unaufhörlicher Nachfrage, wird
-auch die Pharmaindustrie irgendwann neue Wege gehen müssen.
+in der Vereinigung "Ärzte gegen Tierversuche "[](#1), die es sich unter anderem
+zum Ziel gesetzt hat, Medikamente, und auch Impfstoffe sind Medikamente, ohne
+jegliche Versuche an anderen Lebewesen zu entwickeln. Hier ist es, denke ich,
+wieder die Profitgier der Pharmaindustrie, die solchen Entwicklungen zunächst
+aus rein finanziellen "Überlegungen" entgegensteht. Auf diesen Industriebereich
+muss weiterhin sowohl von Ärzt\*innen, als auch vom Rest der Bevölkerung
+konsequent eingewirkt werden. Bei unaufhörlicher Nachfrage, wird auch die
+Pharmaindustrie irgendwann neue Wege gehen müssen.
 
 <blockquote>
 ## "Wie sieht es mit Medikamenten aus?"
@@ -494,13 +494,12 @@ hierzu? Ist das derzeit noch die Grenze?
 <strong>Dr. Hanno Platz:</strong> Bei dieser Frage kann und will ich mich direkt
 an das zum Impfen Gesagte beziehen. Das, was für das Impfen gilt, gilt natürlich
 für alle Medikamente. Außerdem weiß man schon lange, dass die Erkenntnisse aus
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/">schrecklichen
-Tierversuchen</a> nicht oder nur sehr eingeschränkt auf Menschen übertragbar
-sind. Dadurch sind natürlich allein gemessen an dem Ziel der Tierversuche,
-nämlich gut verträgliche und wirksame Medikamente für Menschen zu finden,
-sämtliche Tierversuche von vornherein ohne signifikante Aussagekraft und damit
-im wahrsten Sinne des Wortes sinnlos und das auf dem Boden grausamster
-Misshandlungen und Tötungen.
+[schrecklichen Tierversuchen](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
+nicht oder nur sehr eingeschränkt auf Menschen übertragbar sind. Dadurch sind
+natürlich allein gemessen an dem Ziel der Tierversuche, nämlich gut verträgliche
+und wirksame Medikamente für Menschen zu finden, sämtliche Tierversuche von
+vornherein ohne signifikante Aussagekraft und damit im wahrsten Sinne des Wortes
+sinnlos und das auf dem Boden grausamster Misshandlungen und Tötungen.
 
 <strong>Anne:</strong> Gibt es Vereine oder Organisationen, die sie außer
 "<strong>Ärzte gegen Tierversuche</strong>" besonders unterstützen?
@@ -510,9 +509,7 @@ Misshandlungen und Tötungen.
 </blockquote>
 
 <strong>Dr. Hanno Platz:</strong> Ja, zum Beispiel die
-"Albert-Schweitzer-Stiftung"<a href="#2"><sup>2</sup></a> und die wunderbare
-Plattform des Kollegen Dr. med. Ernst Walter Henrich
-(ProVegan<a href="#3"><sup>3</sup></a>, Anm. d. Aut.), die ich jedem wärmstens
+"Albert-Schweitzer-Stiftung "[](#2), Anm. d. Aut.), die ich jedem wärmstens
 empfehlen kann. Gerade die unermüdliche Arbeit von Dr. Henrich hat bereits
 unendlich viel bewegt. Er hat ein Bewusstsein für die vegane Lebensweise
 geschaffen. Dafür bin ich ihm mehr als dankbar. Hinzu kommt die Schweizerische
@@ -573,18 +570,16 @@ befürchte, dass von der Soja verkaufenden Industrie die guten Seiten des Soja
 aus finanziellen Gründen sicherlich verstärkt dargestellt werden. Außerdem kommt
 dann noch die Problematik des gentechnisch veränderten Soja. Die eventuellen
 Folgen von gentechnisch verändertem Soja betrifft allerdings eher die Omnivoren.
-<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">Gentechnisch
-verändertes Soja wird nämlich verstärkt für die Herstellung von Futtermittel
-erzeugt</a>. Es gilt, was bei Ernährung immer gilt: Sie sollte abwechslungsreich
-sein. Dann erhält der Körper auch alle notwendigen Substanzen, die er braucht
-und wird nicht einseitig überfüttert oder es kommt zu Mangelerscheinungen.
+[Gentechnisch verändertes Soja wird nämlich verstärkt für die Herstellung von Futtermittel erzeugt](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/).
+Es gilt, was bei Ernährung immer gilt: Sie sollte abwechslungsreich sein. Dann
+erhält der Körper auch alle notwendigen Substanzen, die er braucht und wird
+nicht einseitig überfüttert oder es kommt zu Mangelerscheinungen.
 
 ## Vegane Kinderernährung
 
 <strong>Anne:</strong> Eine Frage kommt von
-<a href="http://cardamonchai.com/2016/12/johanna-tierhof-amoa-interview/">meiner
-Bekannten Johanna</a>: Vegane Kinderernährung – ja/nein? Was spricht dafür? Gibt
-es echte Argumente dagegen?
+[meiner Bekannten Johanna](/2016/12/johanna-tierhof-amoa-interview/) : Vegane
+Kinderernährung – ja/nein? Was spricht dafür? Gibt es echte Argumente dagegen?
 
 <strong>Dr. Hanno Platz:</strong> Es gibt nur Gründe für die vegane Ernährung
 von Anfang an, also auch für Kinder. Die schädlichen Substanzen aus der
@@ -601,11 +596,8 @@ meiner Stadt einen finden möchte?
 
 ## Es gibt nicht viele vegane Ärzt\*innen
 
-<strong>Dr. Hanno Platz:</strong> Der VEBU bietet eine
-Suchfunktion<a href="#4"><sup>4</sup></a> an, in die man nur die Postleitzahl
-eingeben muss. Sehr viele wirklich
-<a href="http://cardamonchai.com/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/">vegane
-Ärzt\*innen</a> gibt es jedoch leider nicht.
+<strong>Dr. Hanno Platz:</strong> Der VEBU bietet eine Suchfunktion
+[vegane Ärzt\*innen](#4) gibt es jedoch leider nicht.
 
 <strong>Anne:</strong> Sie haben in Erlangen/Nürnberg an der
 <strong>Friedrich-Alexander-Universität</strong> studiert. Wie hat es sie nach
@@ -663,10 +655,9 @@ immer im Leben Fantasie und Kreativität.
 ## Die "China Study" und "Tiere essen"
 
 <strong>Anne:</strong> Als ich das erste Mal in Ihre Praxis kam, hatte ich das
-Buch
-"<a href="http://cardamonchai.com/2019/02/tiere-essen-von-jonathan-safran-foer/">Tiere
-essen</a>" von J. S. Foer unter dem Arm, was ihnen, glaube ich, positiv
-aufgefallen ist. Ich wünsche mir einen veganen Literaturtipp von Ihnen.
+Buch "[Tiere essen](/2019/02/tiere-essen-von-jonathan-safran-foer/)" von J. S.
+Foer unter dem Arm, was ihnen, glaube ich, positiv aufgefallen ist. Ich wünsche
+mir einen veganen Literaturtipp von Ihnen.
 
 <strong>Dr. Hanno Platz:</strong> Mittlerweile gibt es zum Glück so viel, meist
 auch gute Literatur zu dem Thema, dass ich eigentlich gar keinen speziellen Tipp
@@ -676,10 +667,8 @@ die "Klassiker", wie die "China Study", aber natürlich auch "Tiere essen" von J
 S. Foer und "Peace Food" von Rüdiger Dahlke.
 
 <strong>Anne:</strong> Man hat sie in Augsburg schon auf der ein oder anderen
-<a href="http://cardamonchai.com/2014/10/thomas-laschyk-volksverpetzer/">Tierrechtsdemo</a>
-gesehen, sie betreiben aktiv Aufklärung und schreiben selbst auf Ihrer
-Homepage<a href="#5"><sup>5</sup></a> über das vegane Leben. Sie sind also mit
-vollem Einsatz dabei. Bleibt ihnen da überhaupt noch Freizeit? Wenn ja, wie
+[](/2014/10/thomas-laschyk-volksverpetzer/) über das vegane Leben. Sie sind also
+mit vollem Einsatz dabei. Bleibt ihnen da überhaupt noch Freizeit? Wenn ja, wie
 verbringen sie diese?
 
 <strong>Dr. Hanno Platz:</strong> Freie Zeit ist wirklich ein kostbares, weil
@@ -699,18 +688,15 @@ zu den Mitgeschöpfen und gesund für das eigene leibliche Wohl!
 <strong>Anne:</strong> Vielen Dank für das tolle Interview und die überaus
 aufschlussreichen Informationen!
 
-Dr. Hanno Platz schreibt auf seiner Homepage<a href="#5"><sup>5</sup></a> immer
-wieder zu veganen Themen, er engagiert sich u. a. Für "Ärzte gegen
-Tierversuche"<a href="#1"><sup>1</sup></a> und die "Albert Schweitzer
-Stiftung"<a href="#2"><sup>2</sup></a>. Eine Liste mit veganen Ärzte
-<a href="#4"><sup>4</sup></a> ist auf der Seite des VEBU zu finden.
+Dr. Hanno Platz schreibt auf seiner Homepage [](#5) ist auf der Seite des VEBU
+zu finden.
 
 ## Fußnoten
 
 <ul>
-    <li id="1">[1] <a href="https://de.wikipedia.org/wiki/Peptid" target="_blank" rel="noopener">Ärzte gegen Tierversuche</a></li>
-    <li id="2">[2] <a href="https://de.wikipedia.org/wiki/Peptid" target="_blank" rel="noopener">Albert Schweitzer Stiftung</a></li>
-    <li id="3">[3] <a href="https://de.wikipedia.org/wiki/Peptid" target="_blank" rel="noopener">ProVegan</a></li>
-    <li id="4">[4] <a href="https://de.wikipedia.org/wiki/Peptid" target="_blank" rel="noopener">VEBU Suche vegane Ärzte</a></li>
-    <li id="4">[4] <a href="https://www.dr-platz.de/" target="_blank" rel="noopener">Homepage Dr. Hanno Platz</a></li>
+    <li id="1">[1]  [Ärzte gegen Tierversuche](https://de.wikipedia.org/wiki/Peptid) </li>
+    <li id="2">[2]  [Albert Schweitzer Stiftung](https://de.wikipedia.org/wiki/Peptid) </li>
+    <li id="3">[3]  [ProVegan](https://de.wikipedia.org/wiki/Peptid) </li>
+    <li id="4">[4]  [VEBU Suche vegane Ärzte](https://de.wikipedia.org/wiki/Peptid) </li>
+    <li id="4">[4]  [Homepage Dr. Hanno Platz](https://www.dr-platz.de/) </li>
 </ul>

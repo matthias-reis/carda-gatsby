@@ -36,13 +36,11 @@ neuestes Rezept präsentieren. Die Kartoffel-Quiche ist so lecker, das kann ich
 einfach nicht für mich behalten.</strong>
 
 Erst vor Kurzem habe ich Euch im Rahmen meines
-<a href="http://cardamonchai.com/2018/08/rohveganes-herbstmenue/">Rohvegan Menü
-Artikels</a> eine rohe Quiche vorgestellt. Letzten Winter gab es
-<a href="http://cardamonchai.com/2017/01/vegane-gemuese-quiche-a-la-herzmann/">eine
-aus dem Ofen</a> und auch diese hier ist wieder eine klassische, gebackene
-Variante. Wer möchte, kann, wie das bei dieser Art Backwerk ganz leicht möglich
-ist, die Zutaten variieren. Also gerne auch mal Kürbis statt Kartoffeln nehmen
-und Sellerie statt Möhren. Sicher ist das auch sehr lecker.
+[eine aus dem Ofen](/2018/08/rohveganes-herbstmenue/) und auch diese hier ist
+wieder eine klassische, gebackene Variante. Wer möchte, kann, wie das bei dieser
+Art Backwerk ganz leicht möglich ist, die Zutaten variieren. Also gerne auch mal
+Kürbis statt Kartoffeln nehmen und Sellerie statt Möhren. Sicher ist das auch
+sehr lecker.
 
 Doch nun zum Original. Hier kommt Matzes schmackhafte Kartoffel-Quiche
 

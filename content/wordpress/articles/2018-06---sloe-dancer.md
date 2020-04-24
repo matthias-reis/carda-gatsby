@@ -46,7 +46,7 @@ Dancer? Ihr tanzt damit nämlich ziemlich gediegen in den Abend.
 ## Zutaten für 2 Gläser Sloe Dancer
 
 <ul>
-    <li>3 cl Fruchtmix <a href="http://cardamonchai.com/2018/05/bio-eistee-konzentrate-von-teatime-im-test/">Früchtetee-Extrakt</a> oder anderen Fruchtsirup</li>
+    <li>3 cl Fruchtmix  [Früchtetee-Extrakt](/2018/05/bio-eistee-konzentrate-von-teatime-im-test/)  oder anderen Fruchtsirup</li>
     <li>Saft einer 1/4 Limette</li>
     <li>3 cl Sloe Gin</li>
     <li>2 Eiswürfel</li>

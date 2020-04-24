@@ -42,11 +42,7 @@ Besichtigungstour in Helsingborg natürlich inklusive Fika\*.
 
 ## Wir kommen wieder - nicht nur nach Helsingborg und Kopenhagen
 
-<a href="http://cardamonchai.com/2018/07/radtour-durch-kopenhagen/">Kopenhagen</a>
-ließen wir auf dem Rückweg aus, Hamburg wollte uns wiederhaben. Aber wie wir bei
-unserem Besuch dort entschieden haben: Wir werden wiederkommen. Das gilt noch
-für einige weitere Ziele unserer wunderschönen
-<a href="https://cardamonchai.com/tag/schweden2018/">Schwedenreise</a>.
+[Schwedenreise](/2018/07/radtour-durch-kopenhagen/).
 
 [glry name="helsingborg"]
 

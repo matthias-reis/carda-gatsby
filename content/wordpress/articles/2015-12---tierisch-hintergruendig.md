@@ -33,9 +33,7 @@ subTitle: Die neue Ausstellung von Denise Slapansky
 ---
 
 <strong>Ganz sicher können sich einige hier noch an die vegane Künstlerin Denise
-Slapansky Hof erinnern. Zuletzt hatte ich hier ihre
-Bilder<a href="#1"><sup>1</sup></a> vorgestellt und auch der Artikel über ihre
-Mützenkollektion mit dem Label WYOB<a href="#2"><sup>2</sup></a> erfreut sich
+Slapansky Hof erinnern. Zuletzt hatte ich hier ihre Bilder [](#1) erfreut sich
 großer Beliebtheit.</strong>
 
 Vom 8. bis zum 14. November stellte Denise in den Räumlichkeiten der Augsburger
@@ -112,7 +110,7 @@ Im Werk "Milka" geht es um die Problematik des Leistungszwangs. Der Blick der
 Kuh ist leer. Sie hat viele Kinder geboren, jedes Jahre eines, alle wurden sie
 von ihr getrennt. Wenn ihre Leistung nachlässt, wird sie zur Schlachtbank
 geführt. Die sehr kleinen Kälber links im Bild sind ein Hinweis auf die nach wie
-vor praktizierte Trächtigkeitsschlachtung<a href="#3"><sup>3</sup></a>.
+vor praktizierte Trächtigkeitsschlachtung [](#3).
 
 "60 Million Dreams" greift das Thema Massentierhaltung auf. Ca. 60 Millionen
 Schweine werden in Deutschland jedes Jahr geschlachtet. 99% von ihnen leben in
@@ -149,14 +147,12 @@ des Bewusstseins zeigen. Rauf und runter. Sehen oder nicht sehen."
 
 Das als kleiner Einblick, weitere Bilder seht ihr unten in der Galerie. Sofern
 es sich um "Nutztiere" handelt, nimmt Denise auch immer wieder gerne Aufträge
-an. Erreichbar ist sie stets über ihre
-Facebook-Seite.<a href="#4"><sup>4</sup></a>
+an. Erreichbar ist sie stets über ihre Facebook-Seite. [](#4)
 
 [gallery link="none" size="medium" type="columns"
 ids="13324,13323,13322,13321,13320,13314,13311,13310,13306,13305,13303,13302,13298,13297,13290,13289,13286,13285,13282,13281,13272,13268,13269,13266,13264,13263,13296,13262,13260,13257,13256,13255,13252"]
 
-### Fußnoten<ul><li id="1">[1] <a href="/2015/04/vegane-haekelmuetzen-mit-statement/">Vegane Mützen mit Statement - Vegane Häkelmützen von Denise Slapansky</a></li><li id="2">[2] <a href="/2015/08/ein-meer-aus-farben-fuer-die-tiere/">Ein Meer aus Farben für die Tiere - Bilder von Denise Slapansky</a></li><li id="3">[3] <a href="http://cardamonchai.com/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/">Qualvoll erstickt im Mutterleib - Thema Trächtigkeitsschlachtung</a></li><li id="5">[4] <a href="https://www.facebook.com/WYOB-save-lives-statement-kleidung-944915775541408/" target="_blank" rel="noopener">Facebook-Seite von Denise</a></li></ul>
+### Fußnoten<ul><li id="1">[1][facebook-seite von denise](/2015/04/vegane-haekelmuetzen-mit-statement/) </li></ul>
 
 Alles über Wolle und warum sie nicht vegan ist,
-<a href="/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/">erfahrt Ihr
-hier</a>.
+[erfahrt Ihr hier](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/).

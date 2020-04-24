@@ -207,11 +207,8 @@ befinden sich in der Fritz-Reuther-Straße 17.
 Volle Punktzahl also. Ich wünsche Euch viel Spaß beim Shoppen! Berichtet mal,
 was Ihr Euch gegönnt habt!
 
-Zum Onlineshop von Kokku
-<a href="https://kokku-online.de" target="_blank" rel="noopener">geht es hier
-entlang</a>.
+Zum Onlineshop von Kokku [geht es hier entlang](https://kokku-online.de).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

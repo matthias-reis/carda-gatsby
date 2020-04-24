@@ -39,10 +39,11 @@ Gelegenheit bietet, aus der sich ein paar Schnappschüsse ergeben.</strong>
 
 Man hält mit der Kamera drauf, als würde es kein Morgen mehr geben.
 
-Just so erging es mir <a href="/2015/11/ein-besuch-in-kiel/ ‎">bei unserem
-Ausflug nach Kiel</a>, als ich auf einem Parkhausdach dieser jungen, neugierigen
-Möwe begegnete. Als ausgesprochener Fan dieser Gattung, musste ich sie natürlich
-eine Zeitlang beobachten. Dabei sind diese Bilder entstanden.
+Just so erging es mir [bei unserem Ausflug nach
+Kiel](/2015/11/ein-besuch-in-kiel/ ‎), als ich auf einem Parkhausdach dieser
+jungen, neugierigen Möwe begegnete. Als ausgesprochener Fan dieser Gattung,
+musste ich sie natürlich eine Zeitlang beobachten. Dabei sind diese Bilder
+entstanden.
 
 [myflickr tag="annemoewekiel2015"]
 
@@ -65,24 +66,4 @@ und stieg... Und Mensch und Möwe</em><em> ward verschlungen und begraben.</em>
 Christian Morgenstern
 
 Auch am Bosporus sind mir einige Möwenbilder gelungen.
-<a href="http://cardamonchai.com/2010/01/moewen-am-bosporus/">Hier findet Ihr
-sie!</a>## Wegweiser Möwen<ol><li><a href="/2010/01/moewen-am-bosporus/">Möwen
-am Bosporus
-(Januar 2010)</a></li><li><a href="/2015/07/zurueck-nach-st-peter-ording/">Zurück
-nach St. Peter Ording
-(Juli 2015)</a></li><li><a href="/2015/08/st-peter-ording/">St. Peter Ording -
-Perle an der Nordsee
-(August 2015)</a></li><li><a href="/2015/11/birdwatching-am-timmendorfer-strand/">Birdwatching
-am Timmendorfer Strand (November 2015)</a></li><li>Die Möwe, Kiel
-(November 2015)</li><li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der
-Brücke
-(Januar 2016)</a></li><li><a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Sommer
-auf der Ostsee - Möwen vor Helsinki
-(Juni 2016)</a></li><li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel
-in Helsinki - Auf jeder Statue eine Möwe
-(Juni 2016)</a></li><li><a href="http://cardamonchai.com/2017/10/moewen-in-dublin/">Möwen
-in Dublin - Bunte Bilderserie mit original Irischen Seevögeln
-(September 2017)</a></li><li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe
-am
-Wasser</a></li><li><a href="http://cardamonchai.com/2018/05/birds-of-westport/">Birds
-of Westport</a></li></ol>
+[Birds of Westport](/2010/01/moewen-am-bosporus/) </li></ol>

@@ -91,10 +91,10 @@ Stockholm eine Fahrradstadt.
 ## Die Erkundung mit den öffentlichen Verkehrsmitteln lohnt sich
 
 Auch wir hatten zunächst überlegt, wie schon ein paar Tage zuvor in
-<a href="http://cardamonchai.com/2018/07/radtour-durch-kopenhagen/">Kopenhagen</a>,
-wieder mit dem Fahrrad loszufahren. Da unser Campingplatz dann aber doch etwas
-außerhalb lag, entschieden wir uns für die öffentlichen Verkehrsmittel. Eine
-gute Entscheidung, wie sich herausstellte.
+[Kopenhagen](/2018/07/radtour-durch-kopenhagen/), wieder mit dem Fahrrad
+loszufahren. Da unser Campingplatz dann aber doch etwas außerhalb lag,
+entschieden wir uns für die öffentlichen Verkehrsmittel. Eine gute Entscheidung,
+wie sich herausstellte.
 
 Die S- (Pendeltåg) und U-Bahnen (Tunnelbana) in Stockholm fahren nicht nur
 zuverlässig alle paar Minuten und sind sauber und klimatisiert. Auch fürs Auge
@@ -150,10 +150,7 @@ in peas!"
 [myflickr tag="annestockholmjuni2018liebeundergroundvasa"]
 
 Ihr seid neugierig geworden und wollte mehr über Schweden erfahren?
-<a href="https://cardamonchai.com/tag/schweden2018/">Meine Reisereportage</a>
-geht weiter.
+[Meine Reisereportage](/tag/schweden2018/) geht weiter.
 
 Auch über Irland ist in meinem Blog vor Kurzem eine umfangreiche Reisereportage
-entstanden.
-Neugierig? <a href="https://cardamonchai.com/tag/irland2017/">Einfach mal hier
-klicken</a>.
+entstanden. Neugierig?  [Einfach mal hier klicken](/tag/irland2017/).

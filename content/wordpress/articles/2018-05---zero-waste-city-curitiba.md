@@ -73,20 +73,15 @@ Krankheiten geführt.
 ## Was können wir tun?
 
 Gerade in Anbetracht der aktuellen Müll- und
-<a href="http://cardamonchai.com/2018/05/mikroplastik-in-der-kosmetik/">Plastikdebatte</a>
-hier in Europa sollte man sich definitiv die Frage stellen: Was können wir von
-dem gelungenen Nachhaltigkeits-Experiment in Curitiba lernen? Was müssen wir
-ändern? Wie funktioniert echtes Recycling und warum wird es so selten wirklich
-betrieben?
+[Plastikdebatte](/2018/05/mikroplastik-in-der-kosmetik/) hier in Europa sollte
+man sich definitiv die Frage stellen: Was können wir von dem gelungenen
+Nachhaltigkeits-Experiment in Curitiba lernen? Was müssen wir ändern? Wie
+funktioniert echtes Recycling und warum wird es so selten wirklich betrieben?
 
 Das World Economic Forum hat ein hochinteressantes White Paper zum Thema
 öffentlich bereitgestellt. Ihr könnt es
-<a href="http://www3.weforum.org/docs/White_paper_Circular_Economy_in_Cities_report_2018.pdf">hier
-ganz einfach runterladen</a>. Ihr findet darin unter anderem verschiedene
-Fallstudien aus anderen Städten.
+[hier ganz einfach runterladen](http://www3.weforum.org/docs/White_paper_Circular_Economy_in_Cities_report_2018.pdf).
+Ihr findet darin unter anderem verschiedene Fallstudien aus anderen Städten.
 
-<strong>Quelle:</strong> World Economic Forum; Foto im Header:
-<a href="http://Pixabay https://pixabay.com/en/users/marcoseduardo-2073721/" target="_blank" rel="noopener">marcoseduardo</a>,
-Pixabay; Plastikflaschen:
-<a href="https://pixabay.com/en/users/MatthewGollop-16710/" target="_blank" rel="noopener">MatthewGollop,
-Pixabay </a>
+<strong>Quelle:</strong> World Economic Forum; Foto im Header: [MatthewGollop,
+Pixabay](http://Pixabay https://pixabay.com/en/users/marcoseduardo-2073721/)

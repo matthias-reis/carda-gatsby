@@ -221,20 +221,18 @@ Rolf-Heyne-Buchpreis verliehen. Zwei seiner Bücher ("Alles ist erleuchtet" und
 jüdischen Familie, die den Holocaust überlebt hat. Sein Studium hat er an der
 Princeton University absolviert.
 
-<a href="https://amzn.to/2EcpLXZ" target="_blank" rel="noopener nofollow">Das
-Sachbuch "Tiere essen"</a> ist 2010 bei Kiepenheuer &amp; Witsch, Köln
-erschienen. Es trägt die <strong>ISBN 978-3462-04044-9</strong>.
+[Das Sachbuch "Tiere essen"](https://amzn.to/2EcpLXZ) ist 2010 bei Kiepenheuer
+&amp; Witsch, Köln erschienen. Es trägt die <strong>ISBN
+978-3462-04044-9</strong>.
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>, sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst
-lese, desto mehr möchte ich darüber berichten.
+[seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/),
+sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
+mehr möchte ich darüber berichten.
 
-![tiere-essen | large](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-17-cuxhaven-3-520x390.jpg '<a href="https://amzn.to/2EcpLXZ" target="_blank" rel="noopener nofollow"> </a> "Tiere essen" von Jonathan Safran Foer')
+![tiere-essen | large](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-17-cuxhaven-3-520x390.jpg ' [](https://amzn.to/2EcpLXZ)  "Tiere essen" von Jonathan Safran Foer')
 
 <em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

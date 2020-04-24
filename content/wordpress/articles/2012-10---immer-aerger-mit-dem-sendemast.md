@@ -45,11 +45,9 @@ subTitle: Nachtrag
 ---
 
 <strong>Einige von Euch können sich sicher noch an meinen
-<a title="sendemast" href="http://cardamonchai.com/2012/08/immer-arger-mit-dem-sendemast/">Mobilfunk-Rant
-vom 22. August</a> erinnern. Die Twitterin
-<a title="taytom" href="https://twitter.com/taytomFFM">@</a><a title="taytom" href="https://twitter.com/taytomFFM">taytomFFM</a>
-hat mich soeben dazu inspiriert, an dieser Stelle einen Nachtrag zu
-veröffentlichen. Hier mein Bericht: </strong>
+[taytomFFM](/2012/08/immer-arger-mit-dem-sendemast/) hat mich soeben dazu
+inspiriert, an dieser Stelle einen Nachtrag zu veröffentlichen. Hier mein
+Bericht: </strong>
 
 ![](http://cardamonchai.files.wordpress.com/2012/10/gemaltes-phone.jpg?w=300
 ''Die Nummer gegen Kummer' gibt es bei 1&amp;1 leider nicht. Man wird aus der
@@ -85,4 +83,4 @@ Wie einige sicher vermuten, habe ich es inzwischen tatsächlich geschafft, den
 Vertrag zu kündigen. Er läuft nun im September 2013 aus (Geplant war eigentlich
 April, aber man kann ja schließlich nicht alles haben.).
 
-<blockquote>Ich wünsche allen, die noch mit diesem Verein zu tun haben, viel Glück. Haltet durch! Wer sich fragt, was dieser heruntergerissene, kurze Bericht soll, kann gerne meinen <a title="sendemast" href="http://cardamonchai.com/2012/08/immer-arger-mit-dem-sendemast/">Mobilfunk-Rant vom 22. August</a> lesen. Ich freue mich übrigens auch weiterhin über Berichte über Erfahrungen, die Ihr mit Mobilfunkanbietern gemacht habt. Seit dem 22. August ist da schon eine ganze Menge in meinem E-Mail-Postfach gelandet. Natürlich könnt Ihr Eure Geschichten auch gerne öffentlich als Kommentare unter diesen Beitrag schreiben.</blockquote>
+<blockquote>Ich wünsche allen, die noch mit diesem Verein zu tun haben, viel Glück. Haltet durch! Wer sich fragt, was dieser heruntergerissene, kurze Bericht soll, kann gerne meinen  [Mobilfunk-Rant vom 22. August](/2012/08/immer-arger-mit-dem-sendemast/)  lesen. Ich freue mich übrigens auch weiterhin über Berichte über Erfahrungen, die Ihr mit Mobilfunkanbietern gemacht habt. Seit dem 22. August ist da schon eine ganze Menge in meinem E-Mail-Postfach gelandet. Natürlich könnt Ihr Eure Geschichten auch gerne öffentlich als Kommentare unter diesen Beitrag schreiben.</blockquote>

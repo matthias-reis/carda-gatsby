@@ -38,8 +38,8 @@ subTitle: Melancholie meets gerechtes Brett
 ---
 
 <strong>Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue
-<a title="Biffy Clyro" href="http://www.biffyclyro.com" target="_blank" rel="noopener">Biffy
-Clyro </a>Album "Opposites" auf den Markt. </strong>
+[Biffy Clyro](http://www.biffyclyro.com) Album "Opposites" auf den Markt.
+</strong>
 
 Seit dem ich es aus seinem Versandkarton befreit habe, läuft es bei mir hoch und
 runter und ich kann nur so viel sagen: Ihr werdet es lieben. Melancholie meets

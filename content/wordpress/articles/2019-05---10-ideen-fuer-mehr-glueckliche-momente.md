@@ -72,12 +72,12 @@ Deeskalationsmöglichkeiten, die den Alltag wesentlich glücklicher machen.
 Es gibt kaum etwas, das fast wie auf Knopfdruck für mehr <strong>Glücksgefühle</strong> sorgen kann, als Dankbarkeit. Du findest, das klingt seltsam? Das ist es gar nicht. Allerdings kann es sein, dass Du Dich anfangs ein bisschen in die Bahn bringen musst. Dabei kann es Dir helfen, jeden Tag ein paar Dinge aufzuschreiben, für die Du dankbar bist. Irgendwann geht das Ganze dann in Fleisch und Blut über und Du kannst Zettel und Stift weglassen. Überleg mal: Wann warst Du das letzte Mal dankbar und wofür? Hier ein paar Anregungen:
 <a href="http://cardamonchai.com/wp-content/uploads/2019/05/Dankbarkeit.png">
 ### Es gibt viele Gründe, dankbar zu sein:
-Die Liebe zu Deiner Familie, Deine Gesundheit, Deine Freunde, dass Du letzte Nacht ruhig schlafen konntest, der <strong>Frieden</strong> bei uns im Land, dass Du jeden Tag saubere Kleidung hast, das leckere Mittagessen gestern und <a href="http://cardamonchai.com/2019/04/12-songs-fuer-den-mai/">die gute Musik</a>, die Du jeden Tag hören kannst sind nur einige davon. Die Liste lässt sich beliebig und je nach Tagesstimmung erweitern.</li>
+Die Liebe zu Deiner Familie, Deine Gesundheit, Deine Freunde, dass Du letzte Nacht ruhig schlafen konntest, der <strong>Frieden</strong> bei uns im Land, dass Du jeden Tag saubere Kleidung hast, das leckere Mittagessen gestern und  [die gute Musik](/2019/04/12-songs-fuer-den-mai/),  die Du jeden Tag hören kannst sind nur einige davon. Die Liste lässt sich beliebig und je nach Tagesstimmung erweitern.</li>
     <li>
 ## Schenk Dir selbst ein Lächeln
 Auch, wenn es Dir gerade unpassend erscheint: Lächle, was das Zeug hält. Man möchte es kaum glauben: Es ist gesund. Dabei werden nicht nur massenhaft Endorphine ausgeschüttet, Du trainierst auch noch Deine Gesichtsmuskeln. Klingt gut, oder? Wenn das im Moment nicht so gut klappt oder (ich kenne das nur zu gut, glaub mir mir!) vor dem Spiegel irgendwie komisch aussieht: Du lächelst für Dich selbst! Der Gesichtsausdruck ist dabei Nebensache. Und ich kann Dir eines aus eigener Erfahrung verraten: Glücklich macht ein <strong>Lächeln</strong> auch dann, wenn es nach außen hin eher grumpy wirkt.
 <br />
-Bei dieser kleinen Übung geht es nicht darum, Leute anzulächeln. Sie ist für Dich gedacht und Du kannst sie auch ganz für Dich alleine genießen. Dass ein Lächeln etwas sehr Intimes ist, kann ich sehr gut verstehen. <a href="http://cardamonchai.com/2017/09/chelsea-handler-maenner-frauen-laecheln/">Ein kleines Anekdötchen dazu</a> findest Du übrigens auch hier im Blog.</li>
+Bei dieser kleinen Übung geht es nicht darum, Leute anzulächeln. Sie ist für Dich gedacht und Du kannst sie auch ganz für Dich alleine genießen. Dass ein Lächeln etwas sehr Intimes ist, kann ich sehr gut verstehen.  [Ein kleines Anekdötchen dazu](/2017/09/chelsea-handler-maenner-frauen-laecheln/)  findest Du übrigens auch hier im Blog.</li>
     <li>
 ## Vermeide Stress
 Hör auf Dich selbst. Was löst Stress in Dir aus? Brauchst Du mehr Struktur in Deinem Alltag? Dann sorge dafür. Führe ein Journal, schreibe Einkaufslisten, lege einen Putzplan an. Ist es zu laut an Deinem Arbeitsplatz? Hast Du schon mal über Noise-Cancelling-Kopfhörer nachgedacht? Zieht es in Deinem Schlafzimmer? Dann Dichte das Fenster ab. Vielleicht reicht schon ein Teppich. Verlegst Du häufiger Dinge? Notiere Dir in Deinem Mobiltelefon, wo Du sie zuletzt hingelegt hast. Und vor allem: Leg zwischendurch Pausen ein, sorge für eine behagliche Atmosphäre, in der Du Dich wohlfühlst und mach es Dir gemütlich!
@@ -194,13 +194,11 @@ Digitalfront.</li>
 Wann ist man glücklich? Kann man wirklich dauerhaft glücklich sein? Oft sind es
 ganz kleine Dinge, die einen die Welt wieder in einem positiveren Licht sehen
 lassen. Ein nettes Lächeln. Der erste Krokus am Straßenrand, die Vorfreude auf
-das nächste
-<a href="https://cardamonchai.com/category/musik/festivals/">Festival</a>.
-Kaffee mit Mutti.
+das nächste [Festival](/category/musik/festivals/). Kaffee mit Mutti.
 
 Wichtig ist, dass man vor allem eins beherzigt: Diese kurzen Momente nicht
 unbemerkt vorbeiziehen zu lassen, sondern sich an ihnen zu erfreuen und in
 weniger fröhlichen Phasen an sie zurückzudenken. Wenn Du das schaffst, bist Du
-schon ein gutes Stück glücklicher. Auch, wenn
-<a href="http://cardamonchai.com/2017/09/chelsea-handler-maenner-frauen-laecheln/">das
-mit dem Lächeln</a> vielleicht im Moment nicht so gut klappt.
+schon ein gutes Stück glücklicher. Auch, wenn [das mit dem
+Lächeln](/2017/09/chelsea-handler-maenner-frauen-laecheln/) vielleicht im Moment
+nicht so gut klappt.

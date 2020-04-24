@@ -118,22 +118,16 @@ Ich kann es sehen, wenn ich am Wochenende am Wasser spazieren gehe.
 Es kotzt mich offen gestanden an, dass immer mehr Grünflächen betonierten
 Plätzen weichen müssen und dass immer mehr Dreck in unsere schöne Umwelt gepumpt
 wird, nur damit Menschen
-<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">Fleisch
-essen</a> und große Autos fahren können. Das ist definitiv alles andere als
-fair. Weder der Natur noch uns selbst gegenüber. Wir sollten unseren Planeten
-mit mehr Respekt behandeln. Soviel steht fest.
+[Fleisch essen](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) und große
+Autos fahren können. Das ist definitiv alles andere als fair. Weder der Natur
+noch uns selbst gegenüber. Wir sollten unseren Planeten mit mehr Respekt
+behandeln. Soviel steht fest.
 
-<a href="http://cardamonchai.com/2019/08/feuer-im-regenwald-amazonas/">Der
-Regenwald brennt</a>. Die Eisbären verhungern und ertrinken. Eigentlich sollte
-uns das doch schon Warnung genug sein, oder? Wie schaffen wir es sogar noch das
-Offensichtliche, vor unseren Augen liegende zu verdrängen? Ich hoffe sehr, dass
-der Antrag für die Ausrufung
-des <a href="http://cardamonchai.com/2018/10/underwater-hoa/">Klimanotstandes</a>
-für Altona zum gewünschten Ziel führen wird. Ich hoffe, dass sich möglichst
-viele Menschen dafür stark machen. Es freut mich, dass in meiner Umgebung viele
-Menschen laut sind, sich einsetzen und auf die Straße gehen. Für das Klima, für
-die Tiere und für die Zukunft der nächsten Generationen.
+[Klimanotstandes](/2019/08/feuer-im-regenwald-amazonas/) für Altona zum
+gewünschten Ziel führen wird. Ich hoffe, dass sich möglichst viele Menschen
+dafür stark machen. Es freut mich, dass in meiner Umgebung viele Menschen laut
+sind, sich einsetzen und auf die Straße gehen. Für das Klima, für die Tiere und
+für die Zukunft der nächsten Generationen.
 
 Quelle:
-<a href="https://sitzungsdienst-altona.hamburg.de/bi/vo020.asp?VOLFDNR=1009320">Sitzungsdienst
-Altona</a>
+[Sitzungsdienst Altona](https://sitzungsdienst-altona.hamburg.de/bi/vo020.asp?VOLFDNR=1009320)

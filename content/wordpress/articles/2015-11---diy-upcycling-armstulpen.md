@@ -68,6 +68,6 @@ leichter.
 [gallery type="rectangular" link="none" size="medium" ids="13110,13113"]
 
 Fertig sind Eure neuen Armstulpen passend zum
-<a href="/2015/11/diy-upcycling-loopschal/">winterlichen Loopschal</a>. &lt;3
+[winterlichen Loopschal](/2015/11/diy-upcycling-loopschal/). &lt;3
 
 [gallery type="rectangular" link="none" size="medium" ids="13112,13111,13115"]

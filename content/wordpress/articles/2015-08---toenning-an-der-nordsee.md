@@ -38,7 +38,5 @@ Hier sind meine Bilder:
 [myflickr tag="annetönning72015"]
 
 Weitere Bilder findet Ihr wie immer in meinem
-<a href="https://www.flickr.com/photos/99929697@N07/" target="_blank" rel="noopener">Flickr</a>.
-Hier geht es zur
-<a href="http://www.toenning.de/" target="_blank" rel="noopener">Homepage</a>
-von Tönning.
+[Flickr](https://www.flickr.com/photos/99929697@N07/). Hier geht es zur
+[Homepage](http://www.toenning.de/) von Tönning.

@@ -59,8 +59,7 @@ mitzureißen, die im Anschluß spielten.
 Mal wieder ein gelungener Abend mit PEPES PENTHOUSE! Wir wollen MEHR und freuen
 uns auf den nächsten Auftritt am 19. November in der legendären Mahagoni Bar!
 
-<a title="Pepes Penthouse" href="http://www.myspace.com/pepespenthouse" target="_blank" rel="noopener">myspace</a>
-Pepes Penthouse
+[myspace](http://www.myspace.com/pepespenthouse) Pepes Penthouse
 
 ![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/10/MG_9178-800x533.jpg)
 

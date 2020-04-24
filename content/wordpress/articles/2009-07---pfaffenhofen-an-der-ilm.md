@@ -72,12 +72,7 @@ Sein Vorgänger war Hans Prechter von der CSU, der 18 Jahre im Amt gewesen war.
 Thomas Herker ist mit seinen 30 Jahren einer der jüngsten Bürgermeister
 Deutschlands.
 
-<em><a title="Pfaffenhofen" href="http://www.pfaffenhofen.de/" target="_blank" rel="noopener">Homepage</a>
-Pfaffenhofen an der
-Ilm</em><em><a title="Thomas Herker" href="http://www.spd-paf.de/index.php?mod=content&amp;menu=3..." target="_blank" rel="noopener">Homepage</a>
-Bürgermeister Thomas
-Herker</em><em><a title="Pfaffenhofen an der Ilm Wiki" href="http://de.wikipedia.org/wiki/Pfaffenhofen_an_der_I..." target="_blank" rel="noopener">Wikipedia</a>
-Pfaffenhofen an der Ilm</em>
+<em> [Wikipedia](http://www.pfaffenhofen.de/) Pfaffenhofen an der Ilm</em>
 
 [myflickr tag="annepfaffenhofen2009"]
 

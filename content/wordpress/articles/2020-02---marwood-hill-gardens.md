@@ -51,6 +51,6 @@ Nachmittagstee.
 
 Marwood Hill Gardens Marwood Barnstaple North Devo EX31 4EA
 
-Wenn Euch meine Bildergalerie gefallen hat, <a href="#newsletter">abonniert
-gerne meinen Newsletter</a>. Dann halte ich Euch über neue Beiträge auf meinem
-Blog auf dem Laufenden.
+Wenn Euch meine Bildergalerie gefallen hat,
+[abonniert gerne meinen Newsletter](#newsletter). Dann halte ich Euch über neue
+Beiträge auf meinem Blog auf dem Laufenden.

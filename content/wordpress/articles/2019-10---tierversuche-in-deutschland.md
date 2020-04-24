@@ -141,10 +141,8 @@ PETA)
 Und das ist nicht alles. Obwohl die Versuchsergebnisse nicht auf den Menschen
 übertragbar sind, werden immer neue grausame Ausmaße aufgedeckt. Erst kürzlich
 habe ich hier im Blog über die
-<a href="http://cardamonchai.com/2018/01/tierversuche-in-der-autoindustrie/">Abgasversuche
-in der Autoindustrie</a> berichtet.
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/">Auch
-für Kosmetikprodukte</a> gibt es nach wie vor Versuche.
+[Auch für Kosmetikprodukte](/2018/01/tierversuche-in-der-autoindustrie/) gibt es
+nach wie vor Versuche.
 
 Am Samstag findet in Hamburg eine Großdemonstration gegen das hier ansässige
 größte Tierversuchslabor Deutschlands LPT (Laboratory of Pharmacology and
@@ -161,11 +159,11 @@ gingen in den letzten Tagen durch die Presse. Laut der Ärzte gegen Tierversuch
 finden in Hamburg auch grausame Botoxversuche statt.
 
 Durch den Druck durch die Enthüllungen der verschiedenen
-Tierschutzorganisationen, (darunter die SOKO Tierschutz,
-das <a href="http://cardamonchai.com/2019/08/animal-rights-march-2019/">Hamburger
-Tierrechtsaktivistenbündnis</a>, Anonymous For The Voiceless und PETA) und die
-Berichterstattung darüber in der Presse und im Fernsehen (unter anderem ARD
-"Fakt") kommen immer mehr tragische Details ans Tageslicht.
+Tierschutzorganisationen, (darunter die SOKO Tierschutz, das 
+[Hamburger Tierrechtsaktivistenbündnis](/2019/08/animal-rights-march-2019/),
+Anonymous For The Voiceless und PETA) und die Berichterstattung darüber in der
+Presse und im Fernsehen (unter anderem ARD "Fakt") kommen immer mehr tragische
+Details ans Tageslicht.
 
 Unter anderem steht inzwischen auch der Verdacht der Manipulation von
 Versuchsergebnissen im Raum. So soll die tätowierte Nummer eines Affen nicht zur
@@ -226,22 +224,17 @@ Scheinlösungen, sondern einen sofortigen Schutz der Tiere, und das geht nur
 durch die Schließung des Tierlabors"
 
 Der Druck steigt weiter und das ist gut so. Inzwischen
-<a href="https://www.theguardian.com/environment/2019/oct/15/barbaric-tests-on-monkeys-lead-to-calls-for-closure-of-german-lab" target="_blank" rel="noopener">berichtet
-sogar der britische Guardian über die Missstände im deutschen
-Tierversuchslabor</a>. Wir hoffen die baldige Schließung.
+[berichtet sogar der britische Guardian über die Missstände im deutschen Tierversuchslabor](https://www.theguardian.com/environment/2019/oct/15/barbaric-tests-on-monkeys-lead-to-calls-for-closure-of-german-lab).
+Wir hoffen die baldige Schließung.
 
 ## Weitere Infos / Quellen
 
 Bild im Header:
-<a href="https://www.soko-tierschutz.org/chronik" target="_blank" rel="noopener">SOKO
-Tierschutz / Cruelty Free International</a>
+[SOKO Tierschutz / Cruelty Free International](https://www.soko-tierschutz.org/chronik)
 
-<a href="https://www.soko-tierschutz.org/" target="_blank" rel="noopener">SOKO
-Tierschutz</a>
-<a href="https://www.aerzte-gegen-tierversuche.de/de/neuigkeiten/3020-hinter-verschlossenen-tueren-grausame-tierversuche-in-hamburg-aufgedeckt" target="_blank" rel="noopener">Ärzte
-gegen Tierversuche e. V.</a>
-<a href="https://www.tierbefreiung-hamburg.org/" target="_blank" rel="noopener">Tierbefreiung
-Hamburg</a>
-<a href="https://www.peta.de/erneuter-tierskandal-nach-schock-bildern-aus-tierversuchslabor-fordert-peta" target="_blank" rel="noopener">PETA</a>
+[SOKO Tierschutz](https://www.soko-tierschutz.org/)
+[Ärzte gegen Tierversuche e. V.](https://www.aerzte-gegen-tierversuche.de/de/neuigkeiten/3020-hinter-verschlossenen-tueren-grausame-tierversuche-in-hamburg-aufgedeckt)
+[Tierbefreiung Hamburg](https://www.tierbefreiung-hamburg.org/)
+[PETA](https://www.peta.de/erneuter-tierskandal-nach-schock-bildern-aus-tierversuchslabor-fordert-peta)
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fanne.reko%2Fposts%2F2736265443062234&amp;width=500" width="500" height="779" frameborder="0" scrolling="no"></iframe>

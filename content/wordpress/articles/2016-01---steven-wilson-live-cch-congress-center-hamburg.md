@@ -70,8 +70,8 @@ Nach der Erfrischungspause startete die Band mit dem Storm Corrosion Song "Drag
 Ropes", das in "Book Of Regrets" überging. Als Steven Wilson vor dem Song
 Lazarus genau die richtigen Worte fand zu den Anschlägen in Paris, der
 traurigen, harten Stunde für die Rockmusik und den Verlust seines Freundes
-<a href="http://cardamonchai.com/2016/01/rip-david-bowie-abschied-von-einer-ikone/">David
-Bowie</a> brachen alle Dämme.
+[David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/) brachen alle
+Dämme.
 
 Insgesamt 32 Songs wurden dargeboten, darunter sechs Porcupine Tree Songs, was
 uns als Fans natürlich sehr erfreute. Besonders die beiden Zugaben "The Sound Of
@@ -104,7 +104,7 @@ Muzak" und "Dark Matter" gingen unglaublich unter die Haut.
     <li>My Book Of Regrets</li>
     <li>Open Car (Porcupine Tree)</li>
     <li>Index</li>
-    <li>Lazarus (Porcupine Tree) <a href="http://cardamonchai.com/2016/01/rip-david-bowie-abschied-von-einer-ikone/">FÜR DAVID BOWIE</a></li>
+    <li>Lazarus (Porcupine Tree)  [FÜR DAVID BOWIE](/2016/01/rip-david-bowie-abschied-von-einer-ikone/) </li>
     <li>Don't Hate Me (Porcupine Tree)</li>
     <li>Vermillioncore</li>
     <li>Sleep Together (Porcupine Tree)</li>
@@ -118,9 +118,7 @@ Muzak" und "Dark Matter" gingen unglaublich unter die Haut.
 </ol>
 
 Vom Mark Lanegan Konzert letzten Februar in München
-<a href="/2015/03/mark-lanegan-live-freiheiz-muenchen/">findet Ihr hier ein paar
-Eindrücke</a>.
+[findet Ihr hier ein paar Eindrücke](/2015/03/mark-lanegan-live-freiheiz-muenchen/).
 
 Mehr über das Hand.Cannot.Erase. Album, seine Geschichte und Entstehung
-<a href="https://en.wikipedia.org/wiki/Hand._Cannot._Erase." target="_blank" rel="noopener">findet
-Ihr hier</a>.
+[findet Ihr hier](https://en.wikipedia.org/wiki/Hand._Cannot._Erase.).

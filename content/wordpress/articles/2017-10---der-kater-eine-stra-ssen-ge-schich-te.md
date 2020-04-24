@@ -138,5 +138,4 @@ rollen wir uns manchmal zusammen auf der Decke, die der Koch dort für mich
 ausgebreitet hat, ein. Und erzählen uns unsere Geschichten von der Straße.
 
 Mein Interview mit Lani vom Katzentempel Hamburg
-<a href="http://cardamonchai.com/2017/08/katzentempel-hamburg-interview/">könnt
-Ihr hier lesen</a>.
+[könnt Ihr hier lesen](/2017/08/katzentempel-hamburg-interview/).

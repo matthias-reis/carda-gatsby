@@ -70,10 +70,7 @@ Philosophen Bücherwürmer sind?
 ![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B00NTQ6K7E)
 
 Nehmen wir Friedrich Nietzsche.
-"<a href="https://www.audible.de/pd/Wo-selbst-die-Wege-nachdenklich-werden-Hoerbuch/8711952555?" target="_blank" rel="noopener nofollow">Wo
-selbst die Wege nachdenklich werden - Friedrich Nietzsche und der Berg"</a> ist
-ein Werk, welches ich jedem\*r empfehlen kann. Als
-<a href="https://www.amazon.de/gp/product/B00NTQ6K7E/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=B00NTQ6K7E&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=a30516ccfe001399fd0d08d742fe1a3a" target="_blank" rel="noopener nofollow">Hörbuch</a>
+"[Hörbuch](https://www.audible.de/pd/Wo-selbst-die-Wege-nachdenklich-werden-Hoerbuch/8711952555?)
 lässt es sich auch in hektischen Lebensphasen häppchenweise genießen. Wann immer
 sich Zeit findet. Morgens in der Bahn, oder abends beim Kochen.
 
@@ -102,9 +99,8 @@ So auch Richard David Precht. Der Publizist und Philosoph aus Solingen ist
 Professor an der Uni Lüneburg. Er hat die Probleme unseres heutigen
 Zusammenlebens wohl besser als der größte Teil der Menschheit erkannt. Sein
 Bestseller
-"<a href="https://www.audible.de/pd/Wer-bin-ich-und-wenn-ja-wie-viele-Hoerbuch/B007I3AD9K?" target="_blank" rel="noopener nofollow">Wer
-bin ich und wenn ja, wie viele?</a>" dürfte einigen zumindest vom Titel her ein
-Begriff sein.
+"[Wer bin ich und wenn ja, wie viele?](https://www.audible.de/pd/Wer-bin-ich-und-wenn-ja-wie-viele-Hoerbuch/B007I3AD9K?)"
+dürfte einigen zumindest vom Titel her ein Begriff sein.
 
 ![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12835036544_0c88897a95_z-400x267.jpg)
 
@@ -124,10 +120,9 @@ Nichtwissens.
 
 Dies erklärt er ausführlich in seinem 1997 erschienenen und 2016 neu aufgelegten
 Werk
-"<a href="https://www.audible.de/pd/Tiere-denken-Vom-Recht-der-Tiere-und-den-Grenzen-des-Menschen-Hoerbuch/B01LWVI2XP?" target="_blank" rel="noopener nofollow">Tiere
-denken. Vom Recht der Tiere und den Grenzen des Menschen</a>". Herausgebracht
-wurde es in vier Teilen: "Das Menschentier", "Das Tier im Auge des Menschen",
-"Eine neue Tierethik" und "Was tun?".
+"[Tiere denken. Vom Recht der Tiere und den Grenzen des Menschen](https://www.audible.de/pd/Tiere-denken-Vom-Recht-der-Tiere-und-den-Grenzen-des-Menschen-Hoerbuch/B01LWVI2XP?)"
+. Herausgebracht wurde es in vier Teilen: "Das Menschentier", "Das Tier im Auge
+des Menschen", "Eine neue Tierethik" und "Was tun?".
 
 ![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12835050734_41e45a91fb_z-400x273.jpg)
 
@@ -198,5 +193,5 @@ nachdenken.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

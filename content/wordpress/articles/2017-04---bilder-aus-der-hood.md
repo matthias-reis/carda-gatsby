@@ -48,14 +48,7 @@ wieder ein paar Bilder von Deiner Hood!"
 ## Ich zeige Euch meine Hood
 
 Meine Hood, das ist die Gegend zwischen Altona und St. Pauli inklusive
-<a href="http://cardamonchai.com/2017/01/liebe-sternschanze/">Sternschanze</a>,
-Kaffees, Straßen, Gassen, Wandbemalungen und
-<a href="http://cardamonchai.com/2017/02/der-strassenmusikant/">Straßenmusikanten</a>.
-Ein paar Bilder sind auf dem Spaziergang entstanden und ich finde, die Kamera
-kann gut mit in den Urlaub. Ich bin zufrieden mit der Bildqualität. Obwohl.
-Eigentlich geht es bei den Fotos anbei auch um etwas
-anderes. <a href="http://cardamonchai.com/2017/04/vergaenglichkeit-des-augenblicks/">Den
-Moment festzuhalten</a> zum Beispiel.
+[Den Moment festzuhalten](/2017/01/liebe-sternschanze/) zum Beispiel.
 
 Natürlich ist hier nur ein kleiner Ausschnitt zu sehen. Ich denke aber, es wird
 nun bestimmt häufiger frische Bilder "aus der Hood" geben. Jetzt, wo ich mich
@@ -65,5 +58,4 @@ mitzuschleppen. "Die kleine Schmale" geht nämlich locker in die Hosentasche.
 [myflickr tag="annehood20170416"]
 
 Weitere Bilder aus der Hood
-<a href="http://cardamonchai.com/2017/01/hamburger-streetart/">findet Ihr zum
-Beispiel schon hier</a>.
+[findet Ihr zum Beispiel schon hier](/2017/01/hamburger-streetart/).

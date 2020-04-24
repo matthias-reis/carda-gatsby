@@ -38,13 +38,12 @@ subTitle: Mit Optimismus in Richtung Nachhaltigkeit
 ökologischen Handabdruck. Wissenschaftler verschiedener Universitäten arbeiten
 an diesem Projekt.</strong>
 
-Für den
-<a href="http://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/">ökologischen
-Fußabdruck</a> wird der Ressourcenverbrauch für eine Person, einen Haushalt oder
-ein Produkt in Quadratmeter umgerechnet. Damit soll das allgemeine
-Umweltbewusstsein vergrößert werden. Forscher haben jetzt die Überlegung
-angestellt, dass der Fußabdruck vielleicht nicht für genügend Motivation sorgt,
-da er lediglich das Negative abbildet.
+Für den [ökologischen Fußabdruck](/2017/02/klimaschutz-und-vegane-ernaehrung/)
+wird der Ressourcenverbrauch für eine Person, einen Haushalt oder ein Produkt in
+Quadratmeter umgerechnet. Damit soll das allgemeine Umweltbewusstsein vergrößert
+werden. Forscher haben jetzt die Überlegung angestellt, dass der Fußabdruck
+vielleicht nicht für genügend Motivation sorgt, da er lediglich das Negative
+abbildet.
 
 ## Auch die ökonomische und soziale Komponente soll abgebildet werden
 
@@ -84,13 +83,9 @@ Leuphana-Universität Lüneburg.
 Nicht zu verwechseln ist der ökologische Handabdruck mit dem Hand Print. Über
 dieses Projekt werde ich demnächst berichten.
 
-\*Homepage des Projekts:
-<a href="http://www.handabdruck.org" target="_blank" rel="noopener">Hier
-entlang</a>
+\*Homepage des Projekts: [Hier entlang](http://www.handabdruck.org)
 
-Artwork und Logo:
-<a href="http://www.annettejacobs.com" target="_blank" rel="noopener">Annette
-Jakobs</a>
+Artwork und Logo: [Annette Jakobs](http://www.annettejacobs.com)
 
 [gallery columns="2" link="none" size="large" type="rectangular"
 ids="17657,17658"]

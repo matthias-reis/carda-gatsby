@@ -54,72 +54,54 @@ habe ich nicht vor drei Jahren angefangen zu schreiben. </strong>
 
 Ich bin damals mit meinen älteren Beiträgen umgezogen, weil ich unabhängiger
 werden wollte und meine komplett eigene Seite aufbauen wollte. Daher sind meine
-Beiträge auch zurückdatiert bis
-<a title="November 2008" href="//2008/11/" target="_blank" rel="noopener">November
-2008</a>. Interessant, was ich damals so geschrieben habe. Ich habe mir heute
-mal die Zeit genommen ein Bisschen im Archiv zu stöbern.
+Beiträge auch zurückdatiert bis [November 2008](//2008/11/). Interessant, was
+ich damals so geschrieben habe. Ich habe mir heute mal die Zeit genommen ein
+Bisschen im Archiv zu stöbern.
 
 ![Jubiläums-Duckface | thumbnail](http://cardamonchai.files.wordpress.com/2013/04/521321_558557654166368_410771033_n.jpg?w=138 "Jubiläums-Duckface")
 
 Besonders lustig:
-<a title="Johanna Schuster" href="//2010/04/27/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/" target="_blank" rel="noopener">Das
-Interview mit der Spargelkönigin</a>, das ich 2010 für meinen damaligen
-Arbeitgeber gemacht habe. Davon gibt es sogar noch eine Audiodatei, vielleicht
-werde ich Euch die ja eines Tages mal zeigen. Muss ich mir aber noch gut
-überlegen.
+[Das Interview mit der Spargelkönigin](//2010/04/27/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/),
+das ich 2010 für meinen damaligen Arbeitgeber gemacht habe. Davon gibt es sogar
+noch eine Audiodatei, vielleicht werde ich Euch die ja eines Tages mal zeigen.
+Muss ich mir aber noch gut überlegen.
 
 Die meisten Artikel in meinem Blog drehen sich natürlich um mein Lieblingsthema.
-<a title="Musik" href="//?s=musik" target="_blank" rel="noopener">Die Musik</a>.
-Und das soll auch in Zukunft so bleiben. Vielleicht werde ich ja auch mal wieder
-eine
-<a title="Verlosung" href="//?s=Verlosung" target="_blank" rel="noopener">Verlosung</a>
-starten, oder eine kleine
-<a title="Mixtape" href="//?s=mixtape" target="_blank" rel="noopener">Mixtape-Tauschaktion</a>?
-Wer Lust hat, mich dabei zu unterstützen, kann mir natürlich jederzeit eine
-<a title="info@cardamonchai.com" href="mailto:info@cardamonchai.com" target="_blank" rel="noopener">E-Mail</a>
-zukommen lassen.
+[E-Mail](//?s=musik) zukommen lassen.
 
 ![Jubiläums-Luftsprung](http://cardamonchai.files.wordpress.com/2013/04/542296_460562973965837_258537226_n.jpg?w=200 "Jubiläums-Luftsprung")
 
 Ganz sicher werde ich aber auch im nächsten Jahr wieder meine berühmte,
-<a title="Die ultimative Festivalliste" href="//2013/03/28/die-ultimative-festivalliste-2013/" target="_blank" rel="noopener">ultimative
-Festivalliste</a> präsentieren. Ich bin jetzt schon gespannt, was ich 2014
-hinzufügen werde!
+[ultimative Festivalliste](//2013/03/28/die-ultimative-festivalliste-2013/)
+präsentieren. Ich bin jetzt schon gespannt, was ich 2014 hinzufügen werde!
 
 Wenn man mich nach meiner Lieblings-Blogrubrik fragen würde, würde ich auf alle
-Fälle antworten:
-G<a title="Geschichten die das Leben schreibt" href="//category/geschichten-die-das-leben-schreibt/" target="_blank" rel="noopener">eschichten,
-die das Leben schreibt</a>. Es macht jedes Mal so viel Spaß, diese Beiträge zu
-schreiben und später Eure Kommentare dazu zu lesen. Besonders gerne mag ich es
-auch, wenn ich Monate später mal wieder durch mein Blog stöbere, diese
-'Tagebucheinträge' lese und dabei gelegentlich schon mal Tränen lachen muss,
-weil ich mir nicht mehr vorstellen kann, wie ich denn nur auf so einen Unsinn
-gekommen bin. :-)
+Fälle antworten: G
+[eschichten, die das Leben schreibt](//category/geschichten-die-das-leben-schreibt/).
+Es macht jedes Mal so viel Spaß, diese Beiträge zu schreiben und später Eure
+Kommentare dazu zu lesen. Besonders gerne mag ich es auch, wenn ich Monate
+später mal wieder durch mein Blog stöbere, diese 'Tagebucheinträge' lese und
+dabei gelegentlich schon mal Tränen lachen muss, weil ich mir nicht mehr
+vorstellen kann, wie ich denn nur auf so einen Unsinn gekommen bin. :-)
 
 ![Jubiläums-Sonnenuntergang](http://cardamonchai.files.wordpress.com/2013/04/294501_463496133672521_2123941963_n.jpg?w=186 "Jubiläums-Sonnenuntergang")
 
 Fazit der 3 Jahre: 77 Follower auf meinem Blog, die regelmäßig vorbeischauen und
 gerne auch mal eine tolle Nachricht in meinem Postfach hinterlassen, eine liebe
 Postkarte aus dem Urlaub schicken oder mich in ihren Artikeln verlinken. 126
-<a title="Facebook" href="https://www.facebook.com/cardamonchai" target="_blank" rel="noopener">Facebook-Fans</a>,
-die mir stets treu bleiben und um die 600 Verfolger
-<a title="Twitter" href="https://twitter.com/Anne_Reko" target="_blank" rel="noopener">auf
-Twitter</a>, die retweeten und Mentions tippen, was das Zeug hält. Ich habe
-viele tolle Leute kennengelernt, viel geschrieben, fotografiert, tolle Feedbacks
-bekommen und hatte in jeder Lebenssituation einen tollen Begleiter dabei. Mein
-elektronisches Tagebuch, das mir immer zuhört, auch wenn alle anderen schon
-schlafen. Außerdem kann ich nach wie vor weder mit HTML noch mit Kommata
-umgehen. Ja und das hier ist mein 242ster Artikel auf cardamonchai.
+[auf Twitter](https://www.facebook.com/cardamonchai), die retweeten und Mentions
+tippen, was das Zeug hält. Ich habe viele tolle Leute kennengelernt, viel
+geschrieben, fotografiert, tolle Feedbacks bekommen und hatte in jeder
+Lebenssituation einen tollen Begleiter dabei. Mein elektronisches Tagebuch, das
+mir immer zuhört, auch wenn alle anderen schon schlafen. Außerdem kann ich nach
+wie vor weder mit HTML noch mit Kommata umgehen. Ja und das hier ist mein
+242ster Artikel auf cardamonchai.
 
 ![Jubiläums-Spiegelung](http://cardamonchai.files.wordpress.com/2013/04/558411_448935428461925_421215232_n.jpg?w=300 "Jubiläums-Spiegelung")
 
 Ich würde mich freuen, wenn Ihr mir trotzdem gewogen bleibt und meine Beiträge
 lest, kommentiert und weiterteilt. Ich habe hier in Kürze eine tolle
-Postkarten-Aktion geplant, wer mir auf
-<a title="Instagram" href="http://instagram.com/anne_reko/" target="_blank" rel="noopener">Instagram</a>
-folgt, hat schon was mitbekommen. Besonders Neugierige können sich gerne schon
-mal per
-<a title="info@cardamonchai.com" href="mailto:info@cardamonchai.com" target="_blank" rel="noopener">E-Mail</a>
+Postkarten-Aktion geplant, wer mir auf [E-Mail](http://instagram.com/anne_reko/)
 informieren, was das werden soll, alle anderen werden schon bald mit einem neuen
 Blogeintrag beglückt, in dem ich das Rätsel lüften werde.
 

@@ -42,6 +42,4 @@ Fußgängerzone beobachten. Vom Balkon aus!
 
 ![Kater Oskar | full](http://cardamonchai.com/wp-content/uploads/2016/05/26505764212_cf69b03d83_z.jpg)
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

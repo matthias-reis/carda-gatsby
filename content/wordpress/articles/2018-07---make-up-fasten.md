@@ -69,12 +69,7 @@ Fältchen gehen etwas zurück, der Teint wirkt insgesamt ausgeglichener.
 Auf die gewohnte Reinigung sollte man jedoch auch während der Zeit des
 Make-up-Fastens nicht verzichten. Auch die zum Hauttyp passende Pflege sollte
 nicht zu kurz kommen. Am ersten Tag kann man
-<a href="http://cardamonchai.com/2018/05/hej-organic-kosmetik-im-test/">eine
-Feuchtigkeit spendende oder klärende Maske</a> auflegen. Morgens sollte man das
-Gesicht wie gewohnt mit einem milden, seifenfreien Waschstück oder einer
-Emulsion reinigen. Mein Favorit ist auf diesem Gebiet im Moment die Aloe Vera
-Reinigungsemulsion von
-<a href="http://cardamonchai.com/2018/01/santaverde/">Santaverde</a>.
+[Santaverde](/2018/05/hej-organic-kosmetik-im-test/).
 
 Anschließend sprühe ich den Aloe Vera Toner aus der "Pure" Serie auf. Er beugt
 Hautunreinheiten vor und kühlt schön. Das ist übrigens auch mein absoluter
@@ -149,4 +144,4 @@ eine Abkühlung: Worauf wartet Ihr noch?
 \*<em>Hinweis: Dieser Beitrag enthält Produktplatzierungen/Werbung. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>

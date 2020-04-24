@@ -100,19 +100,14 @@ verraten.
 
 <div style="border: solid 2px #ff66cc; padding: 30px;">## Alle Infos zur Weihnachtsaktion
 
-<ul><li>Wer in der Zeit vom 25. November bis einschließlich 23. Dezember eine Tierpatenschaft übernimmt oder eine verschenkt, erhält das vegane Kochbuch „Vegan Passion“.</li><li>Wer bis zum 20. Dezember 2015 um 18:00 eine Patenschaft abschließt oder verschenkt, bekommt die Unterlagen dazu pünktlich bis zum 24. Dezember zugesendet. Natürlich können die Unterlagen auch direkt an den/die Beschenkte/n adressiert werden.</li><li>Wer seine Patenschaft erst nach dem 20. Dezember beantragt, erhält die Urkunde in digitaler Form per Mail, diese kann dann selbst gestaltet und ausgedruckt werden.</li><li>Das Kochbuch wird direkt an den Tierpaten bzw. an den/die Beschenkende/n geschickt. Es kommt in einem Paket zusammen mit den Unterlagen für die Patenschaft, der Urkunde sowie einem Tierretterarmband.</li><li>Zur Weihnachtsaktion des Deutschen Tierschutzbüro e. V. geht es <a href="http://www.tier-patenschaft.de/weihnachten/" target="_blank" rel="noopener">hier entlang</a>.</li></ul></div>
+<ul><li>Wer in der Zeit vom 25. November bis einschließlich 23. Dezember eine Tierpatenschaft übernimmt oder eine verschenkt, erhält das vegane Kochbuch „Vegan Passion“.</li><li>Wer bis zum 20. Dezember 2015 um 18:00 eine Patenschaft abschließt oder verschenkt, bekommt die Unterlagen dazu pünktlich bis zum 24. Dezember zugesendet. Natürlich können die Unterlagen auch direkt an den/die Beschenkte/n adressiert werden.</li><li>Wer seine Patenschaft erst nach dem 20. Dezember beantragt, erhält die Urkunde in digitaler Form per Mail, diese kann dann selbst gestaltet und ausgedruckt werden.</li><li>Das Kochbuch wird direkt an den Tierpaten bzw. an den/die Beschenkende/n geschickt. Es kommt in einem Paket zusammen mit den Unterlagen für die Patenschaft, der Urkunde sowie einem Tierretterarmband.</li><li>Zur Weihnachtsaktion des Deutschen Tierschutzbüro e. V. geht es  [hier entlang](http://www.tier-patenschaft.de/weihnachten/). </li></ul></div>
 
 Wer sich gerne weiter informieren möchte, oder sich für eine Patenschaft
 interessiert, besucht am besten die
-<a href="http://www.tierschutzbuero.de/" target="_blank" rel="noopener">Homepage</a>
-des Deutschen Tierschutzbüros. Wer direkt spenden möchte,
-<a href="http://www.tierschutzbuero.de/arbeitskreis-spenden/" target="_blank" rel="noopener">folgt
-diesem Link</a>.
+[folgt diesem Link](http://www.tierschutzbuero.de/).
 
 [gallery type="rectangular" link="none" size="medium"
 ids="13338,13336,13335,13334,13343,13341,13340,13346,13348,13350,13351,13353"]
 
 Wer gerne mehr über die Milchindustrie und das Leid der Kühe in Erfahrung
-bringen möchte:
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">Hier
-entlang</a>.
+bringen möchte: [Hier entlang](/2014/09/pflanzenmilch-wieso-denn-blos/).

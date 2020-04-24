@@ -55,8 +55,7 @@ Der Sänger, Gitarrist und Entertainer <strong>Bernd Begemann</strong> wurde
 am 1. November 1962 in Bad Salzuflen geboren und ging dort zur Schule. Bereits
 in jungen Jahren lernte er vor Ort den späteren Tontechniker <strong>Frank
 Werner</strong> sowie Frank Spilker von
-<a href="http://cardamonchai.com/2014/09/flucht-in-die-flucht/">den Sternen</a>
-kennen.
+[den Sternen](/2014/09/flucht-in-die-flucht/) kennen.
 
 Auch der ehemaliger Bandleader der Band <strong>Blumfeld</strong> stammt aus Bad
 Salzuflen. Er kam dort am 24. Juli 1967 zur Welt.
@@ -76,13 +75,11 @@ Nachdem er 1991 in Hamburg die anderen heutigen Bandmitglieder getroffen hatte,
 tourte man zunächst als Serge Gainsbourg Coverband, bevor man sich wieder der
 <strong>Hamburger Schule</strong> zuwandte.
 
-Bad Salzuflen liegt im Westen von
-<a href="http://cardamonchai.com/2019/07/bielefeld/">Bielefeld</a>. Die große
+Bad Salzuflen liegt im Westen von [Bielefeld](/2019/07/bielefeld/). Die große
 Mittelstadt wurde 2013 als Kneipp-Kurort zertifiziert. Stand 31. Dezember 2018
 hatte sie 54.127 Einwohner. Bad Salzuflen den salzhaltigen Quellen im
 Stadtgebiet den Namen "Heilgarten Deutschlands" zu verdanken.
 
-<a href="http://cardamonchai.com/2018/08/die-sterne-live-sommer-in-altona-11-august-2018/">Die
-Sterne live in Hamburg</a>
+[Die Sterne live in Hamburg](/2018/08/die-sterne-live-sommer-in-altona-11-august-2018/)
 
 [glry name="badsalzuflenanne2019"]

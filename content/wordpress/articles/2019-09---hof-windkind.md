@@ -153,11 +153,11 @@ durch und durch gelungen.
 <iframe src="https://www.youtube.com/embed/xWfedKXr7cM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Alle Infos zur Baum-Adoption und zu den Besichtigungsterminen findet Ihr auf der
-<a href="https://www.hofwindkind.com" target="_blank" rel="noopener nofollow">Hof
-Windkind Homepage</a>.
+[Hof Windkind Homepage](https://www.hofwindkind.com).
 
 <strong>Hof Windkind</strong> 16775 Löwenberger Land
 <span class="text_exposed_show">OT Neuendorf</span> <em>Dieser Beitrag enthält
 Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Weitere
 Infos:
-<a href="https://www.trusted-blogs.com/werbekennzeichnung" target="_blank" rel="noopener nofollow">www.trusted-blogs.com/werbekennzeichnung</a></em>
+[www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)
+</em>

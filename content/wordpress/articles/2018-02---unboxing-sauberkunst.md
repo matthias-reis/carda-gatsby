@@ -181,10 +181,8 @@ wäre es: Macht doch Euren Liebsten mal eine duftige Freude!
 ids="19308,19312,19304,19314,19310,19306,19316"]
 
 Zum Sauberkunst Online Shop geht es
-<a href="http://www.sauberkunst.de/epages/es948784.sf/de_DE/?ObjectPath=/Shops/es948784/Categories" target="_blank" rel="noopener">hier
-entlang</a>.
+[hier entlang](http://www.sauberkunst.de/epages/es948784.sf/de_DE/?ObjectPath=/Shops/es948784/Categories).
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

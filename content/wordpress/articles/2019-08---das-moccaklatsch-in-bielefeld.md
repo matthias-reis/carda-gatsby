@@ -27,15 +27,9 @@ thumbnailId: "25442"
 subTitle: '"Kann ich bitte einfach hierbleiben?"'
 ---
 
-<strong>Bevor es zur
-<a href="http://cardamonchai.com/2019/07/sparrenburg-bielefeld/">Sparrenburg</a>,
-zu den
-<a href="http://cardamonchai.com/2019/08/die-externsteine/">Externsteinen</a>,
-zum
-<a href="http://cardamonchai.com/2019/08/wandern-rund-um-das-hermannsdenkmal/">Hermannsdenkmal</a>
-und nach <a href="http://cardamonchai.com/2019/09/bad-salzuflen/">Bad
-Salzuflen</a> ging, gab es erstmal ein leckeres Frühstück im schönen Café
-"Moccaklatsch" in Bielefeld.</strong>
+<strong>Bevor es zur [Bad Salzuflen](/2019/07/sparrenburg-bielefeld/) ging, gab
+es erstmal ein leckeres Frühstück im schönen Café "Moccaklatsch" in
+Bielefeld.</strong>
 
 ![moccaklatsch](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-21-400x533.jpg)
 
@@ -51,15 +45,13 @@ allerlei tolle Leckereien wie Rührtofu und verschiedene mediterrane Gerichte.
 ## Veganer Cappuccino im Moccaklatsch
 
 "Kann ich bitte einfach hierbleiben?", fragte ich Matze an unserem letzten Tag
-in <a href="http://cardamonchai.com/2019/07/bielefeld/">Bielefeld</a>. Wir saßen
-wieder an unserem "Lieblingsplatz" am geöffneten Fenster, den wir zwei Tage
-zuvor das erste Mal genossen hatten und ich hatte absolut keine Lust,
-aufzustehen und rauszugehen.
+in [Bielefeld](/2019/07/bielefeld/). Wir saßen wieder an unserem
+"Lieblingsplatz" am geöffneten Fenster, den wir zwei Tage zuvor das erste Mal
+genossen hatten und ich hatte absolut keine Lust, aufzustehen und rauszugehen.
 
 Ihr findet das Moccaklatsch in der Bielefelder Altstadt in der Arndtstraße 11.
 Viel Spaß und lasst Euch unbedingt eine große Tasse Cappuccino mit
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">Hafermilch</a>
-servieren!
+[Hafermilch](/2014/09/pflanzenmilch-wieso-denn-blos/) servieren!
 
 [gallery type="rectangular" link="none" size="medium" ids="25423,25422,25421"]
 

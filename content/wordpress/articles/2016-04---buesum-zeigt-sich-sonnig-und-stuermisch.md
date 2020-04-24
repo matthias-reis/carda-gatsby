@@ -55,5 +55,4 @@ und dem Tag am Meer.
 (F 4)</blockquote>
 
 Interessiert Ihr Euch auch für meine Bilder aus St. Peter Ording?
-<a href="http://cardamonchai.com/2015/07/zurueck-nach-st-peter-ording/">Dann
-klickt doch mal hier</a>.
+[Dann klickt doch mal hier](/2015/07/zurueck-nach-st-peter-ording/).

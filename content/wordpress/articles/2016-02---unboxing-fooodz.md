@@ -73,11 +73,11 @@ probieren.
 ![Bio-Kokos-Blütensirup](http://cardamonchai.com/wp-content/uploads/2016/02/Fooodz-Unboxing-13-640x960.jpg)
 
 2.) Weil ich jede Woche selbst
-<a href="http://cardamonchai.com/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/">Brot
-backe</a> und die Zutaten immer selbst mische, reizte mich besonders die
-Brotbackmischung "Adams Brot", ein Lowcarb-Brot aus dem Hause Lapiniak. Weil ich
-bislang noch kein Lowcarb-Brot gebacken und auch schon länger keins mehr
-gegessen habe, war ich ganz schön neugierig.
+[Brot backe](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/) und die
+Zutaten immer selbst mische, reizte mich besonders die Brotbackmischung "Adams
+Brot", ein Lowcarb-Brot aus dem Hause Lapiniak. Weil ich bislang noch kein
+Lowcarb-Brot gebacken und auch schon länger keins mehr gegessen habe, war ich
+ganz schön neugierig.
 
 ![Lowcarb-Brot](http://cardamonchai.com/wp-content/uploads/2016/02/Fooodz-Unboxing-18-640x960.jpg)
 
@@ -111,9 +111,8 @@ Soja-Gyros von Davert in Bio-Rohkostqualität und
 Nach dem Öffnen des Pakets fand ich gleich eine Postkarte mit einer kleinen,
 persönlichen Widmung im Paket, über die ich mich sehr gefreut habe. Gleich als
 Nächstes fiel mit eine hübsche Karte auf. Ihr wisst, ich liebe
-<a href="http://cardamonchai.com/2015/09/weise-worte/" target="_blank" rel="noopener">gute
-Zitate</a>, daher traf sie, bestückt mit gleich zwei davon, natürlich meinen
-Geschmack.
+[gute Zitate](/2015/09/weise-worte/), daher traf sie, bestückt mit gleich zwei
+davon, natürlich meinen Geschmack.
 
 [gallery size="medium" link="none" ids="13859,13858,13878"]
 
@@ -146,8 +145,7 @@ Portion passt perfekt für die Mittagspause.
 Die Maultaschen waren sehr leicht zuzubereiten und wirklich lecker gefüllt, ich
 kann mir auf jeden Fall vorstellen, sie wieder zu essen. Ich habe eine vegane
 Bolognese-Sauce dazu gemacht, ich kann sie mir aber auch gut mir Sauerkraut und
-Kartoffelstampf oder mit
-<a href="http://cardamonchai.com/2014/09/ruhrtofu/">Rührtofu</a> vorstellen.
+Kartoffelstampf oder mit [Rührtofu](/2014/09/ruhrtofu/) vorstellen.
 
 ![Maultaschen](http://cardamonchai.com/wp-content/uploads/2016/02/Fooodz-Unboxing-25-800x533.jpg)
 
@@ -165,10 +163,10 @@ einfach mehr der High-Carb-Typ, aber das wusste ich eigentlich schon vorher, ich
 wollte es dennoch mal ausprobieren.
 
 Es besteht fast vollständig aus Weizeneiweiß, sprich Gluten und ist im Geschmack
-<a href="http://cardamonchai.com/2016/01/seitan-a-la-herzmann/">Seitan</a> nicht
-unähnlich. Mir fehlt allerdings die sättigende Wirkung und der Teig erinnert
-mich ein Bisschen mehr an einen Hefezopf, als an ein Brot. Wer das mag, ist
-natürlich auf jeden Fall gut bedient.
+[Seitan](/2016/01/seitan-a-la-herzmann/) nicht unähnlich. Mir fehlt allerdings
+die sättigende Wirkung und der Teig erinnert mich ein Bisschen mehr an einen
+Hefezopf, als an ein Brot. Wer das mag, ist natürlich auf jeden Fall gut
+bedient.
 
 [gallery columns="2" size="medium" link="none" ids="13877,13876"]
 
@@ -181,7 +179,7 @@ eine Nuance, die anderen evtl. gar nicht aufgefallen wäre.
 
 Der Kokosblütensirup landet derzeit jeden Tag in meinem Tee. Ich finde ihn
 sehr angenehm, er schmeckt ein Bisschen fruchtig, erinnert mehr an
-<a href="http://cardamonchai.com/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/">Kräuterblütensirup</a>,
+[Kräuterblütensirup](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/),
 als an Kokos. Eine willkommene Abwechslung zu meiner Apfelsüße.
 
 Interessant fand ich das Fertig-Gyros. Die Sojaschnetzel waren, anders als
@@ -193,9 +191,9 @@ selbst gemachten Pommes und Tsatsiki.
 Was die Schärfe betrifft, habe ich ein Bisschen nachgewürzt, ansonsten war alles
 prima. Auch wenn ich in Zukunft im Normalfall das Gyros wahrscheinlich wieder
 selbst zubereiten werde. Beim
-<a href="http://cardamonchai.com/2015/03/die-ultimative-vegane-festivalliste/">Camping</a>
-oder wenns zu Hause mal schnell gehen muss, ist die Fertigpackung dennoch auf
-jeden Fall ein gute, schnelle Alternative.
+[Camping](/2015/03/die-ultimative-vegane-festivalliste/) oder wenns zu Hause mal
+schnell gehen muss, ist die Fertigpackung dennoch auf jeden Fall ein gute,
+schnelle Alternative.
 
 ![Soja-Gyros](http://cardamonchai.com/wp-content/uploads/2016/02/Fooodz-Unboxing-34-640x960.jpg)
 
@@ -219,18 +217,13 @@ bestellen und das werde ich auch, denn leider bin ich nun süchtig nach
 Grünkohlchips. ;-)
 
 Wer jetzt neugierig geworden ist, kann seinen Einkaufskorb auf
-<a href="http://www.fooodz.de/" target="_blank" rel="noopener">Fooodz.de</a>
-vollmachen.
+[Fooodz.de](http://www.fooodz.de/) vollmachen.
 
 Mein Unboxing der Wolkenseifen
-<a href="http://cardamonchai.com/2014/08/himmlische-dufte-ganz-ohne-plastik/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2014/08/himmlische-dufte-ganz-ohne-plastik/).
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

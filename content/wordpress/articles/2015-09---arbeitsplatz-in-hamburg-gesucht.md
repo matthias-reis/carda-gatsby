@@ -129,6 +129,6 @@ die mit den gewünschten Qualifikationen ausgestattet sind. Auch sie freuen sich
 bestimmt über eine Einladung
 
 Wer sich für meine Bewerbungsunterlagen interessiert, kann diese ganz einfach
-<a href="mailto:anne.reis@cardamonchai.com">hier per E-Mail</a> anfordern.
+[hier per E-Mail](mailto:anne.reis@cardamonchai.com) anfordern.
 
 Anne / August 2015

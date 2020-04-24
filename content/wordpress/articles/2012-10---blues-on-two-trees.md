@@ -68,12 +68,12 @@ seiner schillernden, multiinstrumentalistischen Persönlichkeit auszupacken. Was
 ihm auch mit der Auskopplung dieser Single gelungen ist. Hätte doch zu diesem
 Zeitpunkt erstmal keiner mehr mit News aus dem Hause White gerechnet.
 
-## Blues On Two Trees als Snippet im Stream<a title="Blues On Two Trees" href="http://soundcloud.com/thirdmanrecords/blues-on-two-trees">"Blues On Two Trees"</a> ist als Snippet im Stream verfügbar:
+## Blues On Two Trees als Snippet im Stream ["Blues On Two Trees"](http://soundcloud.com/thirdmanrecords/blues-on-two-trees) ist als Snippet im Stream verfügbar:
 
 Die Single kann derzeit
-<a title="Jack White" href="http://jackwhiteiii.com/im-shakin-7-inch-vinyl-pre-order/">auf
-Jacks Homepage vorbestellt werden</a>. Was ich natürlich gleich getan habe. Sie
-wird voraussichtlich ab dem 2. November auch in unseren Gefilden verfügbar sein.
+[auf Jacks Homepage vorbestellt werden](http://jackwhiteiii.com/im-shakin-7-inch-vinyl-pre-order/).
+Was ich natürlich gleich getan habe. Sie wird voraussichtlich ab dem 2. November
+auch in unseren Gefilden verfügbar sein.
 
 Wieder einmal spielt Herr White, nach guter alter White Stripes Manier mit
 Kinderreimen. Er bedient sich, wie wir es von ihm gewohnt sind in den

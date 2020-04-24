@@ -161,12 +161,11 @@ Comeback von Mina Caputo und Co.!"
 Matze hat diesen Song ausgesucht. Hier kommt seine Erklärung dazu: "Kurz nach
 der Veröffentlichung unserer letzten Liste kam das neue Opeth Album raus. Obwohl
 eine Vorauskopplung bereits in der
-<a href="https://cardamonchai.com/2019/07/12-songs-fuer-den-august/">August-Liste</a>
-zu finden war, darf ein Song daraus natürlich auch in der für den November nicht
-fehlen. "Continuum" ist quasi der Prototyp für modernen Prog-Rock. An ein paar
-Stellen kann man die Black Metal Wurzeln noch erahnen - die Band ist jedoch
-längst weitergezogen. Eine würdige Nummer für diesen insgesamt sehr starken
-Monat.
+[August-Liste](/2019/07/12-songs-fuer-den-august/) zu finden war, darf ein Song
+daraus natürlich auch in der für den November nicht fehlen. "Continuum" ist
+quasi der Prototyp für modernen Prog-Rock. An ein paar Stellen kann man die
+Black Metal Wurzeln noch erahnen - die Band ist jedoch längst weitergezogen.
+Eine würdige Nummer für diesen insgesamt sehr starken Monat.
 
 <iframe src="https://www.youtube.com/embed/Ejy01XpjQMY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

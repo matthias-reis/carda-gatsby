@@ -33,10 +33,10 @@ subTitle: Kohlrabi und Deichkind
 ---
 
 <strong>Vor einigen Tagen wurde ich von Björn vom Blog
-<a href="https://gartenbaukunst.wordpress.com/" target="_blank" rel="noopener">Gartenbaukunst</a>
-für den <em>Mystery Blogger Award</em> nominiert. Danke schön! Ich nehme
-natürlich an! Wenn etwas schon als mysteriös benahmt ist, muss ich als
-neugieriger Mensch doch einfach mitmachen.</strong>
+[Gartenbaukunst](https://gartenbaukunst.wordpress.com/) für den <em>Mystery
+Blogger Award</em> nominiert. Danke schön! Ich nehme natürlich an! Wenn etwas
+schon als mysteriös benahmt ist, muss ich als neugieriger Mensch doch einfach
+mitmachen.</strong>
 
 Ich wurde ja schon ein paar Mal für Blogger Awards nominiert. Besonders spannend
 daran finde ich ja immer die Interviews, die dabei entstehen. Nachdem Interviews
@@ -104,7 +104,7 @@ Die Regeln des Awards lauten wie folgt:
 ## Drei geheime Dinge über mich
 
 <ol>
-    <li>Ich <a href="http://cardamonchai.com/2017/09/chelsea-handler-maenner-frauen-laecheln/">lächle</a> manchmal, obwohl man es von außen nicht sehen kann.</li>
+    <li>Ich  [lächle](/2017/09/chelsea-handler-maenner-frauen-laecheln/)  manchmal, obwohl man es von außen nicht sehen kann.</li>
     <li>Gekochter Kohlrabi schmeckt mir nicht.</li>
     <li>Ich wäre gerne mal für eine Woche ein Mann.</li>
 </ol>
@@ -113,11 +113,7 @@ Die Regeln des Awards lauten wie folgt:
 
 Inhaltlich am besten finde ich bisher meine Kurzgeschichten. Welche davon die
 beste ist, kann ich selbst nicht beurteilen. Das überlasse ich gerne meinen
-Lesern. <a href="http://cardamonchai.com/2011/04/die-kundigung/">Die
-Kündigung</a> zum Beispiel erheitert mich auch heute noch beim Lesen. Entstanden
-ist der Text 2011. Am häufigsten angeklickt wurde bisher mein
-<a href="http://cardamonchai.com/2016/05/gladskin-vegane-pflege-bei-rosacea/" target="_blank" rel="noopener">Testbericht
-</a>über die Hautpflege von Gladskin.
+Lesern. [Testbericht](/2011/04/die-kundigung/) über die Hautpflege von Gladskin.
 
 ## Meine Fragen an die Nominierten
 
@@ -134,16 +130,16 @@ Und jetzt geht's ans Eingemachte. Hier kommen meine Nominierungen:
 ## Meine Nominierungen für den Mystery Blogger Award
 
 <ul>
-    <li><a href="https://bibliothek-bartleby.de/@krimiblogger" target="_blank" rel="noopener">Krimiblogger</a></li>
-    <li><a href="https://hopfenmaedchen.com/" target="_blank" rel="noopener">Hopfenmädchen</a></li>
-    <li><a href="https://thatgirlthere.wordpress.com/" target="_blank" rel="noopener">Die Eskapistin</a></li>
-    <li><a href="https://spontanvernunft.com/" target="_blank" rel="noopener">Spontanvernunft</a></li>
-    <li><a href="https://bambooblog.de/" target="_blank" rel="noopener">Bamboo Blog</a></li>
-    <li><a href="http://www.hoochiswelt.de/" target="_blank" rel="noopener">Hoochis Welt</a></li>
-    <li><a href="https://hinnerkundhenrikje.me/" target="_blank" rel="noopener">Hinnerk &amp; Henrikje</a></li>
-    <li><a href="https://my-sportblog-berlin.me/" target="_blank" rel="noopener">Inside Berlin</a></li>
-    <li><a href="https://tomdot.wordpress.com/" target="_blank" rel="noopener">Tom</a></li>
-    <li><a href="https://andiau.wordpress.com/" target="_blank" rel="noopener">Life is noisey</a></li>
+    <li> [Krimiblogger](https://bibliothek-bartleby.de/@krimiblogger) </li>
+    <li> [Hopfenmädchen](https://hopfenmaedchen.com/) </li>
+    <li> [Die Eskapistin](https://thatgirlthere.wordpress.com/) </li>
+    <li> [Spontanvernunft](https://spontanvernunft.com/) </li>
+    <li> [Bamboo Blog](https://bambooblog.de/) </li>
+    <li> [Hoochis Welt](http://www.hoochiswelt.de/) </li>
+    <li> [Hinnerk &amp; Henrikje](https://hinnerkundhenrikje.me/) </li>
+    <li> [Inside Berlin](https://my-sportblog-berlin.me/) </li>
+    <li> [Tom](https://tomdot.wordpress.com/) </li>
+    <li> [Life is noisey](https://andiau.wordpress.com/) </li>
 </ul>
 
 <article id="post-5953" class="post-5953 post type-post status-publish format-standard hentry category-ueber-mich tag-ueber-mich tag-bloggeraward tag-david-lynch tag-garten tag-halloween tag-interview tag-persoenliches tag-the-mystery-blogger-award tag-top clear-fix ">
@@ -158,10 +154,10 @@ Also: Wir lesen uns!
 <strong>Alle Awards, die diesem Blog bisher verliehen wurden</strong>
 
 <ul>
-    <li><a href="http://cardamonchai.com/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/">Erbeerkuchen mit Grün 2011</a></li>
-    <li><a href="http://cardamonchai.com/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/">Best Blog Award 2013</a></li>
-    <li><a href="http://cardamonchai.com/2014/11/and-the-nominees-are/">Liebster Blog Award 2014</a></li>
-    <li><a href="http://cardamonchai.com/2017/01/liebster-blog-award-2017-01/">Liebster Blog Award 2017</a></li>
+    <li> [Erbeerkuchen mit Grün 2011](/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/) </li>
+    <li> [Best Blog Award 2013](/2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/) </li>
+    <li> [Liebster Blog Award 2014](/2014/11/and-the-nominees-are/) </li>
+    <li> [Liebster Blog Award 2017](/2017/01/liebster-blog-award-2017-01/) </li>
     <li>Mystery Blogger Award 2017</li>
 </ul>
 </div>

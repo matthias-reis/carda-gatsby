@@ -61,5 +61,4 @@ gemacht habe.
 
 [myflickr tag="annelightparadestamp2017"]
 
-<a href="http://cardamonchai.com/2017/06/el-iris-de-lucy-las-palmas/">Zeitgenössische
-afrikanische Künstlerinnen im CAAM in Las Palmas</a>
+[Zeitgenössische afrikanische Künstlerinnen im CAAM in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)

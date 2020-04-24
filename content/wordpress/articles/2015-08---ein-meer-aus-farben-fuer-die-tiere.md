@@ -35,9 +35,9 @@ subTitle: Bilder von Denise Slapansky
 ![Denise auf dem Überlebenshof Scottmaring](http://cardamonchai.com/wp-content/uploads/2015/08/11913231_1009917619054983_262499720_n-640x853.jpg "Denise auf dem Überlebenshof Scottmaring")
 
 <strong>Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die
-vegane Häkelmützen mit Statement<a href="#1"><sup>1</sup></a> herstellt und sich
-für die Rechte der Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr
-neuestes Projekt vor.</strong>
+vegane Häkelmützen mit Statement [](#1) herstellt und sich für die Rechte der
+Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr neuestes Projekt
+vor.</strong>
 
 Die kreative Friedbergerin häkelt nicht nur, sie hat noch viele weitere Talente.
 Seit frühester Kindheit malt und zeichnet sie, meistens schwarz-weiß mit Kohle,
@@ -49,7 +49,7 @@ Während ihrer Ausbildung zur Kunsttherapeutin entdeckte Denise die Farben für
 sich, lernte sie kennen und lieben und bringt sie seitdem in ihren Kunstwerken
 zum Einsatz.
 
-<blockquote>Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden.<a href="#2"><sup>2</sup></a> So muss das für sie sein, wenn sie befreit werden.
+<blockquote>Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden. [](#2)  So muss das für sie sein, wenn sie befreit werden.
 
 ![Denise beim Zaunbau auf dem Überlebenshof](http://cardamonchai.com/wp-content/uploads/2015/08/11910611_1009917545721657_897681080_n-640x853.jpg "Denise beim Zaunbau auf dem Überlebenshof")
 
@@ -87,8 +87,7 @@ beitragen können.
 
 Während mir Denise von ihren Kunstwerken erzählte, berichtete sie mir auch von
 Sissi und Franz. Sissi wurde von einer Tierärztin entdeckt, die ihn auf einen
-Überlebenshof<a href="#3"><sup>3</sup></a> brachte. Dort kümmert man sich
-seither um ihre Versorgung.
+Überlebenshof [](#3) brachte. Dort kümmert man sich seither um ihre Versorgung.
 
 Sissis Retterin ist so verliebt in das Schweinekind, dass sie fand, Sissi müsse
 Gesellschaft bekommen. Die Betreiberin des Hofes bekam dann Franz geschenkt, der
@@ -102,7 +101,7 @@ und hilft bei den Renovierungsarbeiten auf dem Hof mit.
 
 Franz wird auch auf dem nächsten Bild von Denise zu sehen sein, das derzeit in
 Arbeit ist, außerdem wird er das Motiv für den nächsten Stoff ihrer Mützenmarke
-WYOB<a href="#1"><sup>1</sup></a> sein.
+WYOB [](#1) sein.
 
 ## Bildergalerie: Tiere von Denise Slapansky
 
@@ -111,4 +110,4 @@ ids="12292,12290,12288,12289,12287,12285,12283,12284,12282,12280,12279"]
 
 Mit lieben Grüßen von Denise sind hier für Euch Berge mit "Meer aus Farben":
 
-<iframe src="https://www.youtube.com/embed/7rHWnRHd3lg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><ul><li id="1">[1] <a href="http://cardamonchai.com/2015/04/vegane-haekelmuetzen-mit-statement/">WYOB - Vegane Mützen mit Statement</a></li><li id="2">[2] <a href="https://www.youtube.com/watch?v=7rHWnRHd3lg" target="_blank" rel="noopener">Berge - "Meer aus Farben"</a></li><li id="3">[3] <a href="http://www.tiere-leben.de/Scottmaring.html" target="_blank" rel="noopener">Überlebenshof Scottmaring</a></li></ul>
+<iframe src="https://www.youtube.com/embed/7rHWnRHd3lg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><ul><li id="1">[1]  [Überlebenshof Scottmaring](/2015/04/vegane-haekelmuetzen-mit-statement/) </li></ul>

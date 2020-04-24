@@ -113,7 +113,6 @@ rund ein Drittel aller produzierten Lebensmittel weg.
 <iframe src="https://www.youtube.com/embed/-0F5hNX0HE8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Weitere Infos findet Ihr
-<a href="https://www.crowdfarming.com/de#infoHow" target="_blank" rel="noopener nofollow">auf
-der Homepage</a> von CrowdFarming.
+[auf der Homepage](https://www.crowdfarming.com/de#infoHow) von CrowdFarming.
 
 <strong>Fotos und Pressemitteilung:</strong> CrowdFarming

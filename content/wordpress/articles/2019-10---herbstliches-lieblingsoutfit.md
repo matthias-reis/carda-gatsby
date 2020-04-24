@@ -53,16 +53,7 @@ möglichst nachhaltig sein.
 Auf der Suche nach schönen Basics, die diese Kriterien erfüllen, bin ich online
 auf Living Crafts gestoßen. Dort findet man alles, was man als Grundlage für
 tolle Outfits braucht - für alle Geschlechter und sogar für Kinder und
-<a href="https://www.awin1.com/cread.php?awinmid=13807&amp;awinaffid=632580&amp;clickref=Babys&amp;p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fbaby%5D%5D" target="_blank" rel="noopener nofollow">Babys</a>.
-Von
-<a href="https://www.awin1.com/cread.php?awinmid=13807&amp;awinaffid=632580&amp;clickref=Hosen&amp;p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Fjeans-und-hosen%5D%5D" target="_blank" rel="noopener nofollow">Hosen</a>
-und
-<a href="https://www.awin1.com/cread.php?awinmid=13807&amp;awinaffid=632580&amp;clickref=Shirts+und+Tops&amp;p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Fshirts-und-tops%5D%5D" target="_blank" rel="noopener nofollow">Shirts
-und Tops</a> über Cardigans bis hin zu
-<a href="https://www.awin1.com/cread.php?awinmid=13807&amp;awinaffid=632580&amp;clickref=Unterw%C3%A4sche&amp;p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Funterwaesche%5D%5D" target="_blank" rel="noopener nofollow">Unterwäsche</a>,
-<a href="https://www.awin1.com/cread.php?awinmid=13807&amp;awinaffid=632580&amp;clickref=Socken+und+Strumpfhosen&amp;p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Fsocken-und-strumpfhosen%5D%5D" target="_blank" rel="noopener nofollow">Socken
-und Strumpfhosen</a> und sogar
-<a href="https://www.awin1.com/cread.php?awinmid=13807&amp;awinaffid=632580&amp;clickref=Accessoires&amp;p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Faccessoires%5D%5D" target="_blank" rel="noopener nofollow">Accessoires</a>
+[Accessoires](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Babys&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fbaby%5D%5D)
 ist so ziemlich alles dabei, was man sich vorstellen kann.
 
 ## Hoodie und Shirt von Living Crafts
@@ -93,8 +84,8 @@ Etiketten, Knöpfen und andere Accessoires werden marktübliche Materialien wie
 PVC/PU und Nickel weggelassen. Neben Bio-Baumwolle wird zum Beispiel auch Bambus
 verarbeitet. Dabei handelt es sich um einen der am schnellsten nachwachsende
 Rohstoffe überhaupt.
-<a href="https://www.awin1.com/cread.php?awinmid=13807&amp;awinaffid=632580&amp;clickref=Living+Crafts&amp;p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252F%5D%5D" target="_blank" rel="noopener nofollow">Auf
-der Homepage</a> heißt es
+[Auf der Homepage](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Living+Crafts&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252F%5D%5D)
+heißt es
 
 <blockquote>"Nachhaltigkeit ist bei LIVING CRAFTS kein Modebegriff, sondern eine Selbstverständlichkeit mit Tradition – und darauf sind wir stolz. Denn seit über 30 Jahren produzieren wir erfolgreich hochwertige Naturtextilien unter ökologisch verträglichen und sozialökonomisch fairen Bedingungen. Glaubwürdigkeit, Beständigkeit und Vertrauen sind die Werte, die uns jeden Tag aufs Neue mit Freude und Begeisterung an unsere Arbeit gehen lassen. Wir glauben, dass nur unter dieser Maxime Transparenz und Nachhaltigkeit entstehen kann."</blockquote>
 
@@ -112,11 +103,11 @@ unterwirft sich eine Kollektion keinen kurzfristigen Modeerscheinungen, werden
 die Stücke darin wesentlich länger getragen.
 
 Schön finde ich, dass der Onlineshop genau wie die
-<a href="https://www.awin1.com/cread.php?awinmid=13807&amp;awinaffid=632580&amp;clickref=Living+Crafts&amp;p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252F%5D%5D" target="_blank" rel="noopener nofollow">Living
-Crafts Kleidungsstücke</a> schlicht und übersichtlich gehalten ist. Man findet
-alles, was man sucht, sofort. Auf den Infoseiten gibt es Wissenswertes über den
-Versand und die Verpackung, die Verarbeitung der Textilien sowie die
-ökologischen und sozialen Standards des Unternehmens.
+[Living Crafts Kleidungsstücke](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Living+Crafts&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252F%5D%5D)
+schlicht und übersichtlich gehalten ist. Man findet alles, was man sucht,
+sofort. Auf den Infoseiten gibt es Wissenswertes über den Versand und die
+Verpackung, die Verarbeitung der Textilien sowie die ökologischen und sozialen
+Standards des Unternehmens.
 
 ## Mein Fazit
 
@@ -128,6 +119,6 @@ wird.
 [glry name="living-crafts-2019-10-06"] <em>\*Hinweis: Dieser Beitrag enthält
 Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meiner  [Transparenz-Seite](/werbung/). </em>
 
 &nbsp;

@@ -54,11 +54,10 @@ sprich mehr als verdreifacht.
 
 ## Immer mehr vegane Produkteinführungen
 
-Insgesamt werden inzwischen fast doppelt so
-viele <a href="https://cardamonchai.com/category/vegan-2/produkte/">vegane
-Produkte</a> vorgestellt werden, wie vegetarische. Nur noch rund acht Prozent
-tragen das Label "vegetarisch". Das Label "vegan" findet jedoch bereits auf
-stolzen 14 Prozent.
+Insgesamt werden inzwischen fast doppelt so viele 
+[vegane Produkte](/category/vegan-2/produkte/) vorgestellt werden, wie
+vegetarische. Nur noch rund acht Prozent tragen das Label "vegetarisch". Das
+Label "vegan" findet jedoch bereits auf stolzen 14 Prozent.
 
 Betrachtet man die Zahlen der Produkteinführungen im Zeitraum zwischen 2017 und
 2018 weltweit, kommt man auf weniger durchschlagende Ergebnisse: Insgesamt waren
@@ -103,5 +102,4 @@ Mehrfachnennungen werden dabei ausgeschlossen. Bei Mintel handelt es sich um die
 derzeit weltweit führende Agentur für Market Intelligence und Datenerfassung.
 
 <strong>Schaubild:</strong> Mintel <strong>Titelbild:</strong>
-<a href="https://pixabay.com/de/users/congerdesign-509903/" target="_blank" rel="noopener">congerdesign</a>,
-pixabay
+[congerdesign](https://pixabay.com/de/users/congerdesign-509903/), pixabay

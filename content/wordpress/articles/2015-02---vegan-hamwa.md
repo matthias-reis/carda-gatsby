@@ -31,15 +31,15 @@ thumbnailId: "9510"
 subTitle: Ökolatsche 2.0
 ---
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/14928928498_12fe41202f_o-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Ökolatsche 2.0')
+![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/14928928498_12fe41202f_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Ökolatsche 2.0")
 
 <b>Ich wollte mal wieder einen Kommentar abgeben und das sei hiermit geschehen:
 Es ist schön, dass sich was tut. Das Umdenken erfolgt Schritt für Schritt.</b>
 
-Im Fernsehen laufen Berichte<a href="#1"><sup>1</sup></a> über die vegane
-Lebensweise (zwar nicht im Vorabendprogramm, da lösen nach wie vor die
-Zoosendungen die Fleisch- und Sahneköche ab und umgekehrt), aber man muss froh
-sein, dass sich der Gedanke langsam rumspricht.
+Im Fernsehen laufen Berichte [](#1) über die vegane Lebensweise (zwar nicht im
+Vorabendprogramm, da lösen nach wie vor die Zoosendungen die Fleisch- und
+Sahneköche ab und umgekehrt), aber man muss froh sein, dass sich der Gedanke
+langsam rumspricht.
 
 Immer mehr Menschen probieren auch mal <strong>pflanzliche Milch</strong> (zu
 erkennen am wachsenden Angebot in den Supermärkten) und auch Frau Müller von
@@ -56,13 +56,13 @@ das, was <strong>Pythagoras</strong> damit gemeint hat.
 Wann, wenn nicht jetzt? Die Zeit für ein kollektives Umdenken ist gekommen. Nur
 eine <strong>tierleidfreie Zukunft</strong> hat Zukunft.
 
-Wie schrieb die Zitty Berlin<a href="#2"><sup>2</sup></a> das gestern so schön
-„Die Zeit ist reif, faule Kompromisse über Bord zu werfen. Nie war es einfacher
-und notwendiger, ohne tierische Produkte zu leben, als heute.“
+Wie schrieb die Zitty Berlin [](#2) das gestern so schön „Die Zeit ist reif,
+faule Kompromisse über Bord zu werfen. Nie war es einfacher und notwendiger,
+ohne tierische Produkte zu leben, als heute.“
 
 ## Das Leid der Milchrinder
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16567602676_8b5367c531_o-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Garantiert ohne Rind: Selbstgemachte Seitanburger')
+![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16567602676_8b5367c531_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Garantiert ohne Rind: Selbstgemachte Seitanburger")
 
 Ja, so langsam kommt es in unseren Köpfen an, dass die Qualen der Milchrinder
 genauso, wenn nicht sogar größer sind, als die der Mastrinder, dass es sich bei
@@ -80,9 +80,9 @@ Wie lange noch? Wie lange, bis wir uns das kollektiv nicht mehr gefallen lassen
 werden? Werden eines Tages Warnhinweise auf Milchtüten zu finden sein?
 „Milchkonsum schadet der Gesundheit“? Zu diesem Thema habe ich mich ja vor
 kurzem schon mal sehr ausführlich
-<a title="Planzenmilch" href="/2014/09/09/pflanzenmilch-wieso-denn-blos/">hier
-ausgelassen</a>. Doch zum Glück begreifen wir nach und nach, was das Unwort
-unseres Zeitalters ist: <strong>Nutztier</strong>.
+[hier ausgelassen](/2014/09/09/pflanzenmilch-wieso-denn-blos/). Doch zum Glück
+begreifen wir nach und nach, was das Unwort unseres Zeitalters ist:
+<strong>Nutztier</strong>.
 
 ## Vegan - Wir machen mit!
 
@@ -93,7 +93,7 @@ zukunftsträchtiges Geschäft und im Moment kann einfach Jede/r noch der/die Ers
 sein. Ein ganz neuer Markt möchte erobert werden, neue Kunden kommen mit einer
 ständig wachsenden Nachfrage ins Geschäft spaziert.
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16645349015_bca3a88d2d_o-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Hier gibt es jetzt auch vegane Gerichte')
+![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16645349015_bca3a88d2d_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Hier gibt es jetzt auch vegane Gerichte")
 
 Und es gibt einiges zu tun! Ich spreche hier auch die Verpackungsdesigner an.
 Warum lässt sich eine Leberwurstpackung schon seit der Spätbronzezeit ganz
@@ -115,8 +115,7 @@ Deutschland inzwischen im 5stelligen Bereich liegen. Wann hat es sowas zuletzt
 gegeben? Eine Interessensgruppe taucht auf, tauscht sich aus und organisiert
 sich. Es kommt zu Verabredungen, Stammtischen und Plangruppen für neue Cafés,
 Restaurants und sogar ganzen Wohngemeinschaften,
-<a title="Geno 2.0" href="/2015/02/06/veganer-sind-unglaublich-kreativ/">Genossenschaften</a>
-und Kommunen.
+[Genossenschaften](/2015/02/06/veganer-sind-unglaublich-kreativ/) und Kommunen.
 
 ## Die Ökolatsche 2.0
 
@@ -137,7 +136,7 @@ tierleidfrei sein. Die Ökolatsche 2.0. also.
 
 ## Tierleidfreie Produkte werden nach und nach zum festen Sortimentsbestandteil
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/15070698056_05f84410ef_o-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Bietet nicht nur Avocados: Die vegane Küche')
+![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/15070698056_05f84410ef_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Bietet nicht nur Avocados: Die vegane Küche")
 
 Genau so letzte Woche im Reformhaus: Da im Drogeriemarkt meines Vertrauens mal
 wieder das <strong>Kokosöl</strong> und die Hefeflocken ausverkauft waren (die
@@ -160,8 +159,6 @@ jedoch denke ich, es ist nur noch eine Frage der Zeit, bis die Fellschuhe und
 Wollsocken in der Auslage vor der Tür wunderbar weichen Bambussocken und
 Kokosschuhen weichen müssen.
 
-In diesem Sinne: <em>Go vegan! &lt;3</em><ul><li id="1">[1]
-<a href="http://www.3sat.de/mediathek/?mode=play&amp;obj=49416">Sendung auf 3Sat
-zum Thema Veganismus</a></li><li id="2">[2]
-<a href="http://www.zitty.de/veganismus-ist-mehr-als-nur-ein-lifestyle-trend.html">Artikel
-zum Thema Veganismus in der Zitty Berlin</a></li></ul>
+In diesem Sinne: <em>Go vegan!
+&lt;3</em><ul><li id="1">[1][artikel zum thema veganismus in der zitty berlin](http://www.3sat.de/mediathek/?mode=play&amp;obj=49416)
+</li></ul>

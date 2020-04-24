@@ -94,10 +94,10 @@ Soviel zu den Bewohnern der Station. Wie schon im letzten Posting erwähnt,
 hatten wir am Tag unseres Besuchs das schönste Nordseewetter, auf einigen
 Bildern könnt Ihr den Regen auf der Wasseroberfläche sehen.
 
-Ihr wisst, <a href="http://cardamonchai.com/2015/04/wie-ich-zu-zoos-stehe/">wie
-ich über Tiere in Gefangenschaft denke</a>. Bei der Seehundstation in
-Friedrichskoog handelt es sich jedoch nicht um einen Zoo, sondern um eine
-notwendige Einrichtung, die vielen Tieren das Leben rettet.
+Ihr wisst,
+[wie ich über Tiere in Gefangenschaft denke](/2015/04/wie-ich-zu-zoos-stehe/).
+Bei der Seehundstation in Friedrichskoog handelt es sich jedoch nicht um einen
+Zoo, sondern um eine notwendige Einrichtung, die vielen Tieren das Leben rettet.
 
 ## Besucher mit Kindern
 
@@ -172,9 +172,9 @@ Robben und Seehunden und bergen auch tote Meerestiere aus dem Watt.
 
 Eine Heuleraufzucht gab es in Friedrichskoog bereits in den Fünfzigern. Damals
 in einem privaten Garten. Die erste zentrale Station wurde dann 1969 in
-<a href="http://cardamonchai.com/2016/04/buesum-zeigt-sich-sonnig-und-stuermisch/">Büsum</a>
-gegründet. Die Seehundstation Friedrichskoog gibt es seit 1985. 2010 wirde das
-25-jährige Bestehen gefeiert.
+[Büsum](/2016/04/buesum-zeigt-sich-sonnig-und-stuermisch/) gegründet. Die
+Seehundstation Friedrichskoog gibt es seit 1985. 2010 wirde das 25-jährige
+Bestehen gefeiert.
 
 Im Anschluss an meine Bildergalerie finden Neugierige noch ein paar
 weiterführende Links. Ihr erfahrt dort unter anderem, wie ich zu Zoos stehe und
@@ -184,11 +184,9 @@ wie Ihr die Seehundstation Friedrichskoog unterstützen könnt.
 
 ## Weiterlesen
 
-<a href="http://cardamonchai.com/2015/04/wie-ich-zu-zoos-stehe/">Wie ich zu Zoos
-stehe</a>
+[Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/)
 
-<a href="http://www.seehundstation-friedrichskoog.de/" target="_blank" rel="noopener">Homepage</a>
-der Seehundstation Friedrichskoog
+[Homepage](http://www.seehundstation-friedrichskoog.de/) der Seehundstation
+Friedrichskoog
 
-<a href="http://www.seehundstation-friedrichskoog.de/de/seehundstation-unterstuetzen" target="_blank" rel="noopener">Pate
-werden / Die Seehundstation Friedrichskoog unterstützen</a>
+[Pate werden / Die Seehundstation Friedrichskoog unterstützen](http://www.seehundstation-friedrichskoog.de/de/seehundstation-unterstuetzen)

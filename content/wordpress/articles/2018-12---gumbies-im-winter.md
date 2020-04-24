@@ -60,14 +60,7 @@ vielleicht ein bisschen Hipster-mäßig. Aber ich verlasse in dem Outfit, das ic
 für Euch im Sand so schön in Szene gesetzt habe, normalerweise auch nicht meine
 vier Wände.
 
-Vorgestellt habe ich Euch
-<a href="http://cardamonchai.com/2018/03/gumbies-vegane-strandsandalen/">das
-australische Schuhwerk</a> hier im Blog ja schon vor einiger Zeit. Inzwischen
-begleiten sie mich überallhin. Ich liebe meine türkisen Flip Flops. Sie nehmen
-immer die Farbe des Sandes an, durch den ich gerade laufe. Sie nehmen nicht viel
-Platz im Rucksack weg und sorgen überall für neugierige Blicke. Beim Yoga sind
-sie genauso dabei, wie beim Wandern, Schnorcheln und auf
-<a href="https://cardamonchai.com/category/musik/festivals/">Festivals</a>.
+Vorgestellt habe ich Euch [Festivals](/2018/03/gumbies-vegane-strandsandalen/).
 
 ## Das neue Gumbies Modell
 
@@ -107,21 +100,15 @@ meiner Freunde sich auch welche gekauft. Bis jetzt hat niemand ein negatives
 Wort verloren.
 
 Bestellt werden können die Schuhe ganz bequem über den
-<a href="https://shop.gumbies.de/" target="_blank" rel="noopener nofollow">Webshop</a>.
-Außerdem findet man in immer mehr Fußgängerzonen Schuhgeschäfte, die auch
-Gumbies vertreiben.
-<a href="https://www.gumbies.de/haendlerverzeichnis" target="_blank" rel="noopener nofollow">Hier
-eine Liste</a>. Zuletzt habe ich sie in
-<a href="http://cardamonchai.com/2018/06/wismar-am-sonntag/" target="_blank" rel="noopener">Wismar</a>
-entdeckt und auch in Fulda, Augsburg und Hamburg sind sie mir über den Weg
-gelaufen. Haltet also am besten die Augen offen.
+[Wismar](https://shop.gumbies.de/) entdeckt und auch in Fulda, Augsburg und
+Hamburg sind sie mir über den Weg gelaufen. Haltet also am besten die Augen
+offen.
 
 Ich mache es mir jetzt mit meinen Hausschuhen in meiner Leseecke gemütlich bei
 einer leckeren Tasse Tee, ein paar Keksen und einem guten Buch. Wir lesen uns!
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
 [glry name="2018-gumbies-slides"]

@@ -86,8 +86,7 @@ Lebenszeit verbracht habe. Hier kommt also meine Liste.
 
 ![](http://cardamonchai.com/wp-content/uploads/2018/02/R-4904018-1378990482-2247.jpeg-1-400x400.jpg)
 
-3.) "Feast Of Wire" -
-<a href="https://cardamonchai.com/category/musik/calexico/">Calexico</a>
+3.) "Feast Of Wire" - [Calexico](/category/musik/calexico/)
 
 ![](http://cardamonchai.com/wp-content/uploads/2018/02/4027795500825-300x300.jpg)
 
@@ -123,6 +122,6 @@ Lebenszeit verbracht habe. Hier kommt also meine Liste.
 
 <ol>
     <li>Meine ultimative Lieblingsplattenliste</li>
-    <li><a href="http://cardamonchai.com/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/">Björns ultimative Lieblingsplattenliste</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/10-alben-keine-erklaerung-teil-3/">Matzes ultimative Lieblingsplattenliste</a></li>
+    <li> [Björns ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/) </li>
+    <li> [Matzes ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-teil-3/) </li>
 </ol>

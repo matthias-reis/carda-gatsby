@@ -229,12 +229,10 @@ und Umweltzerstörung. Alternative Banken können uns dabei helfen.
 ## Hinweis
 
 Die von mir erwähnte Broschüre „Was macht eigentlich mein Geld“ kann
-<a href="http://www.urgewald.de/" target="_blank" rel="noopener">auf der
-Homepage</a> von <em>urgewald</em> bestellt werden.
+[auf der Homepage](http://www.urgewald.de/) von
+<em>urgewald</em> bestellt werden.
 
 <em>Die Logos und EC-Karten-Fotos habe ich von den jeweiligen Banken. Das Foto
 von den Windrädern habe ich am
-<a href="http://cardamonchai.com/2015/08/schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning/">Eidersperrwerk</a>
-aufgenommen, das von der Kasse in der
-<a href="http://cardamonchai.com/2012/02/perspektiven-pinakothek-der-moderne/">Pinakothek
-der Moderne</a>. Der Roboterhund begegnete mir Deutschen Museum.</em>
+[Pinakothek der Moderne](/2015/08/schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning/).
+ Der Roboterhund begegnete mir Deutschen Museum.</em>

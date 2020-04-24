@@ -51,12 +51,12 @@ lohnt sich ein Besuch auf jeden Fall, auch, wenn es nur für ein paar Tapas oder
 eine Abkühlung am ausladenden Stadtstrand ist.
 
 Unsere nächste Station auf dem Roadtrip durch Andalusien war die
-<a href="http://cardamonchai.com/2019/07/santaverde-finca-aloe-vera/" target="_blank" rel="noopener">Santaverde
-Finca</a>. Bleibt dran, in Kürze werde ich hier im Blog noch weitere Bilder und
-Geschichten von unserer Reise teilen.
+[Santaverde Finca](/2019/07/santaverde-finca-aloe-vera/). Bleibt dran, in Kürze
+werde ich hier im Blog noch weitere Bilder und Geschichten von unserer Reise
+teilen.
 
 [glry name="anneestepona20190623"]
 
 ## Quellen
 
-<a href="https://de.wikipedia.org/wiki/Estepona" target="_blank" rel="noopener">Wikipedia</a>
+[Wikipedia](https://de.wikipedia.org/wiki/Estepona)

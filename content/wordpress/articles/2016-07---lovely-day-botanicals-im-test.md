@@ -149,18 +149,11 @@ After Sun Spray" ganz klar das Must-have des Sommers. Es sollte in keinem
 Kosmetik-Täschchen fehlen.
 
 Wer jetzt neugierig geworden ist und sich Lovely Day Botanicals mal ansehen
-möchte, finden die
-Homepage <a href="https://lovelydaybotanicals.com/" target="_blank" rel="noopener">hier</a>
-und Josys Instagram
-<a href="https://www.instagram.com/lovelydaybotanicals/" target="_blank" rel="noopener">hier</a>.
-Zum Shop geht es
-<a href="https://lovelydaybotanicals.com/collections/all" target="_blank" rel="noopener">hier
-entlang</a>.
+möchte, finden die Homepage  [hier entlang](https://lovelydaybotanicals.com/).
 
 [gallery link="none" size="medium" type="rectangular"
 ids="14949,14956,14955,14954,14953,14951,14941,14948,14947,14946,14945,14942,14952,14950,14943"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

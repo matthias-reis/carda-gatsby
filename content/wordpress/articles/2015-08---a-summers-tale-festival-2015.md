@@ -48,7 +48,7 @@ Spaß gemacht.
 Auf meinen Bildern unten seht Ihr Alex Clare, Heinz Strunk, Young Rebel Set,
 Belle And Sebastian, Ride, Manuel Möglich, Nils Frevert, Get Well Soon, Hundreds
 und Calexico, die wir in dieser Reihenfolge über vier Tage verteilt live auf dem
-A Summer's Tale<a href="#1"><sup>1</sup></a>erleben durften.
+A Summer's Tale [](#1) erleben durften.
 
 Außerdem traten natürlich noch viele weitere Künstler auf, es gab Workshops und
 allerlei interessante Darbietungen und sogar eine Fotoausstellung und einige
@@ -64,8 +64,8 @@ gibt, als die üblichen Verdächtigen, aber am Ende des Tages habe ich mir einfa
 meinen Asia-Nudelstand gewünscht, an dem ich mir schon um 10 Uhr morgens eine
 dicke Portion dampfende Nudeln mit Gemüse und Sambal Oelek holen kann, wenn mich
 der Hunger packt. Vielen herzlichen Dank an dieser Stelle an unsere mobile
-Lieblings-Burgerbude Vincent Vegan<sup><a href="#2">2</a></sup>aus Hamburg, dass
-Ihr uns vor dem Verhungern gerettet habt!
+Lieblings-Burgerbude Vincent Vegan<sup> [2](#2) </sup>aus Hamburg, dass Ihr uns
+vor dem Verhungern gerettet habt!
 
 ![Vincent Vegan rettete uns](http://cardamonchai.com/wp-content/uploads/2015/08/20411972525_6eb31688e2_z-640x640.jpg "Vincent Vegan rettete uns")
 
@@ -136,4 +136,4 @@ Gepäck. Und mit einem Buch für die Pausen.
 
 [myflickr tag="galerieasummerstale15"]
 
-## Fußnoten<ul><li id="1">[1] <a href="https://www.asummerstale.de/de" target="_blank" rel="noopener">Homepage A Summer's Tale</a></li><li id="2">[2] <a href="http://vincent-vegan.com/" target="_blank" rel="noopener">Homepage Vincent Vegan</a></li></ul><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+## Fußnoten<ul><li id="1">[1][](https://www.asummerstale.de/de)

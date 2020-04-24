@@ -72,18 +72,11 @@ sagen zum Beispiel die Tierrechtsaktivist⋆innen von PETA:
 
 Also: Geht ins Kino und schaut Euch "Butenland der Film" an. Es lohnt sich! Die
 bisherigen Kinotermine
-<a href="https://mindjazz-pictures.de/filme/butenland/" target="_blank" rel="noopener">findet
-Ihr hier</a>. Es wäre natürlich klasse, wenn Ihr zusätzlich in Eurem
-Lieblingskino weitere Termine vorschlagt. Auch die grandiosen Dokumentarfilme
-"<a href="http://cardamonchai.com/2020/02/the-end-of-meat/">The End Of Meat</a>"
-und "<a href="http://cardamonchai.com/2019/11/live-and-let-live-film/">Live And
-Let Live</a>" stammen von Marc Pierschel. Klickt einfach auf die Links, um meine
-Beiträge dazu zu lesen.
+[Live And Let Live](https://mindjazz-pictures.de/filme/butenland/)" stammen von
+Marc Pierschel. Klickt einfach auf die Links, um meine Beiträge dazu zu lesen.
 
 Hat Euch mein Filmtipp gefallen? Schön! Wenn Ihr in Zukunft nichts mehr auf
-meiner Seite verpassen wollt, <a href="#newsletter">abonniert am besten meinen
-Newsletter</a>.
+meiner Seite verpassen wollt,
+[abonniert am besten meinen Newsletter](#newsletter).
 
-Fotos und Filmplakat:
-<a href="https://www.stiftung-fuer-tierschutz.de/" target="_blank" rel="noopener">Hof
-Butenland</a>
+Fotos und Filmplakat: [Hof Butenland](https://www.stiftung-fuer-tierschutz.de/)

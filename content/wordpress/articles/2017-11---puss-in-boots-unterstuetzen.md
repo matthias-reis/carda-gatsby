@@ -42,11 +42,10 @@ sich selbst überlassen. <em>Puss In Boots</em> kümmert sich um diese Tiere und
 Ihr habt die Möglichkeit, sie zu unterstützen. </strong>
 
 Die Tierschutzorganisation
-<a href="http://cardamonchai.com/2017/11/puss-in-boots-animal-rescue-and-adoption/"><em>Puss
-In Boots Animal Rescue</em></a> habe ich hier vor Kurzem bereits in einem
-ausgedehnten Interview mit Gründerin Kara vorgestellt. Sie und ihre Mutter
-Kristiane kümmern sich nicht "nur" um Katzen und Hunde. Auch Pferde werden von
-ihnen umsorgt.
+[](/2017/11/puss-in-boots-animal-rescue-and-adoption/) habe ich hier vor Kurzem
+bereits in einem ausgedehnten Interview mit Gründerin Kara vorgestellt. Sie und
+ihre Mutter Kristiane kümmern sich nicht "nur" um Katzen und Hunde. Auch Pferde
+werden von ihnen umsorgt.
 
 ## Pferde wurden vor ihren Augen ausgesetzt
 
@@ -100,11 +99,9 @@ Infos holen. Natürlich könnt Ihr auch mich gerne ansprechen, ich gebe Eure
 Nachrichten gerne an Kara und ihre Mutter weiter.
 
 Wer noch mehr wissen möchte, informiert sich am besten auf der
-<a href="http://www.irish-pibar.de/index.php/spenden/" target="_blank" rel="noopener">Spendenseite</a>
-der Puss In Boots. Nachdem Sturm Ophelia der Gegend, in der sich der PiBa-Hof
-befindet, übel mitgespielt hat, gibt es noch viele weitere Bereiche, in denen
-Unterstützung gebraucht wird.
+[Spendenseite](http://www.irish-pibar.de/index.php/spenden/) der Puss In Boots.
+Nachdem Sturm Ophelia der Gegend, in der sich der PiBa-Hof befindet, übel
+mitgespielt hat, gibt es noch viele weitere Bereiche, in denen Unterstützung
+gebraucht wird.
 
-<a href="http://cardamonchai.com/2017/11/puss-in-boots-animal-rescue-and-adoption/" target="_blank" rel="noopener">In
-meinem Interview mit Gründerin Kara erfahrt Ihr alles über die Puss In Boots.
-HIER WEITERLESEN!</a>
+[In meinem Interview mit Gründerin Kara erfahrt Ihr alles über die Puss In Boots. HIER WEITERLESEN!](/2017/11/puss-in-boots-animal-rescue-and-adoption/)

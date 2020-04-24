@@ -46,8 +46,7 @@ Geschrieben wurde er von Sängerin Belinda Kordic. Sie möchte sich damit für j
 Art der Gewalt und Ungerechtigkeit gegenüber Tieren entschuldigen. Für mich ist
 das Stück von der 2018 erschienenen Platte "Great Escape" mit eines der besten
 der Prog-Combo. Darum ist es auch auf
-<a href="http://cardamonchai.com/2019/03/10-songs-fuer-den-april/">der aktuellen
-Songliste</a> vertreten.
+[der aktuellen Songliste](/2019/03/10-songs-fuer-den-april/) vertreten.
 
 ## Ein gelungener Abend mit Crippled Black Phoenix
 

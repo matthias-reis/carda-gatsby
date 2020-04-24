@@ -36,16 +36,15 @@ Record Store Day am Samstag ein neues Album mit dem Titel "Babel" angekündigt.
 Der Nachfolger von "The Ancensionist" soll am 30. September erscheinen.</strong>
 
 Die Band, die auch beim
-<a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/" target="_blank" rel="noopener">Dunk
-Festival 2018</a> dabei war,  hat sich für die Aufnahmen im Brainville Studio in
-El Paso, Texas eingemietet. Gemeinsam mit Sound-Ingenieur und Co-Producer Chris
-Common wird dort an Songs geschraubt.
+[Dunk Festival 2018](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
+dabei war,  hat sich für die Aufnahmen im Brainville Studio in El Paso, Texas
+eingemietet. Gemeinsam mit Sound-Ingenieur und Co-Producer Chris Common wird
+dort an Songs geschraubt.
 
 Wir dürfen sehr gespannt sein. Bis es soweit ist, packe ich mir die
-<a href="https://dunkrecords.com/products/ranges-live-at-dunk-fest-2018-2xlp" target="_blank" rel="noopener">Live
-At Dunk! Fest 2018</a> Platte auf die Ohren und freue mich über die tolle Musik.
-Vielen Dank A Thousand Arms Records für diese erfreuliche Pressemitteilung am
-Morgen!
+[Live At Dunk! Fest 2018](https://dunkrecords.com/products/ranges-live-at-dunk-fest-2018-2xlp)
+Platte auf die Ohren und freue mich über die tolle Musik. Vielen Dank A Thousand
+Arms Records für diese erfreuliche Pressemitteilung am Morgen!
 
 <iframe src="https://www.youtube.com/embed/A8pYkj-Yprs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -62,9 +61,7 @@ Mit Post-Rock haben Ranges die perfekte Kunstform für sich gefunden. Sie
 ermöglicht es ihnen, ihre Kreativität nach außen zu transportieren und ihr eine
 Form zu geben. Bis jetzt haben sie acht Releases auf Platte und Digital sowie
 vier Kassetten geschaffen. Bisheriger Höhepunkt war die 2017 erschienene
-Doppel-LP
-"<a href="https://www.rangesmusic.com/the-ascensionist" target="_blank" rel="noopener">The
-Ascensionist</a>".
+Doppel-LP "[The Ascensionist](https://www.rangesmusic.com/the-ascensionist)" .
 
 ### Matt Kessler von "To Many Records" hat dazu folgende treffenden Worte gefunden:
 

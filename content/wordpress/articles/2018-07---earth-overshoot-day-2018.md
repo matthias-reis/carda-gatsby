@@ -44,18 +44,17 @@ subTitle: Der Menschheit ist die Sicherung durchgebrannt
 ---
 
 <strong>Ich erinnere mich noch sehr gut an den
-<a href="http://cardamonchai.com/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/">Earth
-Overshoot Day 2017</a>. Letztes Jahr fiel der Tag noch auf den 2. August. 2018
-ist es bereits einen Tag früher soweit: Die menschliche Nachfrage an natürlichen
-Ressourcen übersteigt das Angebot und die Kapazität der Erde, diese zu
-reproduzieren.</strong>
+[Earth Overshoot Day 2017](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/).
+Letztes Jahr fiel der Tag noch auf den 2. August. 2018 ist es bereits einen Tag
+früher soweit: Die menschliche Nachfrage an natürlichen Ressourcen übersteigt
+das Angebot und die Kapazität der Erde, diese zu reproduzieren.</strong>
 
 Das jeweilige Datum des jährlichen Earth Overshoot Day (Weltüberlastungstag)
 rechnet man aus, indem man den globalen
-<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">ökologischen
-Fußabdruck</a>, sprich die menschliche Nachfrage an natürlichen Ressourcen, für
-das betreffende Jahr zur gesamten Biokapazität, also der Menge der tatsächlich
-in diesem Jahr verfügbaren Ressourcen, in ein Verhältnis setzt.
+[ökologischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/),
+sprich die menschliche Nachfrage an natürlichen Ressourcen, für das betreffende
+Jahr zur gesamten Biokapazität, also der Menge der tatsächlich in diesem Jahr
+verfügbaren Ressourcen, in ein Verhältnis setzt.
 
 Multipliziert mit 365, ergibt sich daraus der Tag des Jahres, an dem alle
 Ressourcen verbraucht sind. Der Kehrwert ergibt die Anzahl an Erden, die wir
@@ -96,11 +95,11 @@ verschieben.
 
 ## Schweden macht es besser
 
-<a href="http://cardamonchai.com/2018/07/schweden-klimaziele/">Schweden geht mit
-gutem Beispiel voran</a>. Das Land schafft seine für 2030 gesteckten Klimaziele
-voraussichtlich schon dieses Jahr. Es wird Zeit, dass sich Nachahmer finden. Im
-Moment belegen Australien, die USA, Südkorea, Russland und Deutschland im Rennen
-um den Pokal für den größten Umweltsünder die ersten Plätze.
+[Schweden geht mit gutem Beispiel voran](/2018/07/schweden-klimaziele/). Das
+Land schafft seine für 2030 gesteckten Klimaziele voraussichtlich schon dieses
+Jahr. Es wird Zeit, dass sich Nachahmer finden. Im Moment belegen Australien,
+die USA, Südkorea, Russland und Deutschland im Rennen um den Pokal für den
+größten Umweltsünder die ersten Plätze.
 
 ![Earth Overshoot Day | large](http://cardamonchai.com/wp-content/uploads/2018/07/Schaubild1-520x722.jpg)
 
@@ -152,30 +151,23 @@ Das sagte er in der titel thesen temperamente Sendung am 8. Juli.
 ## Tipps für mehr Nachhaltigkeit im Alltag
 
 In meinem
-<a href="http://cardamonchai.com/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/">Artikel
-zum Earth Overshoot Day 2017</a> findet Ihr jede Menge Tipps, wie man selbst zum
-Sparen von Ressourcen beitragen kann. Einer allein kann natürlich nicht das
-Klima retten, doch wenn wir alle umdenken, lässt sich vielleicht noch etwas
-ändern.
+[Artikel zum Earth Overshoot Day 2017](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/)
+findet Ihr jede Menge Tipps, wie man selbst zum Sparen von Ressourcen beitragen
+kann. Einer allein kann natürlich nicht das Klima retten, doch wenn wir alle
+umdenken, lässt sich vielleicht noch etwas ändern.
 
 Zwar hängt vieles von den Entscheidungen der Politiker und Großkonzerne ab, wenn
 jedoch viele an einem Strang ziehen, lässt sich zumindest ein Zeichen setzen.
 Nimmt man an einer Fahrraddemo für das Klima teil, sagt man "Ich möchte etwas
-für die Umwelt tun", stellt man auf
-<a href="http://cardamonchai.com/2011/04/stromanbieter-wechseln/">Ökostrom</a>
+für die Umwelt tun", stellt man auf [Ökostrom](/2011/04/stromanbieter-wechseln/)
 um und verzichtet aufs Autofahren, inspiriert man unter Umständen auch andere.
 
 Genauso ist es mit der veganen Lebensweise.
-<a href="http://cardamonchai.com/2018/02/wie-vegan-ist-moeglich/">Immerhin wird
-bei der Produktion von einem Kilogramm Rindfleisch so viel Treibhausgas erzeugt,
-wie beim Fahren von 1.600 Kilometern auf der Autobahn</a>. Nur soviel dazu. Wer
-Kleidung second hand kauft und auf
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Plastiktüten</a>
-verzichtet, hat auch schon etwas getan. Das Wichtigste ist, dass es sich
-rumspricht. Dann ist die Menschheit vielleicht noch zu retten.
+[Plastiktüten](/2018/02/wie-vegan-ist-moeglich/) verzichtet, hat auch schon
+etwas getan. Das Wichtigste ist, dass es sich rumspricht. Dann ist die
+Menschheit vielleicht noch zu retten.
 
 <strong>Quellen:</strong> ZDF, overshootday.org, titel thesen temperamente, WWF,
 Wikipedia <strong>Schaubilder:</strong> Global Footprint Organisation
 <strong>Titelbild:</strong>
-<a href="https://pixabay.com/de/users/Ylvers-337353/" target="_blank" rel="noopener">Ylvers</a>,
-pixabay
+[Ylvers](https://pixabay.com/de/users/Ylvers-337353/), pixabay

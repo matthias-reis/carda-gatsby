@@ -82,11 +82,7 @@ das Messer zu säubern. Mehr Werkzeug braucht Ihr nämlich für die Zubereitung
 nicht. Küche aufgeräumt, Essen kann losgehen!
 
 Dazu passt hervorragend ein schmackhafter Tomaten-Ketchup.
-<a href="http://tidd.ly/3a78d1a7" target="_blank" rel="noopener nofollow">Probiert
-zum Beispiel mal den von Xucker</a>. Der hat besonders wenig Kalorien, schmeckt
-aber wunderbar fruchtig und kein bisschen säuerlich.
-<a href="https://wp.me/p533wO-6WI">Meinen Bericht über das vegane Xucker
-Sortiment findet Ihr hier</a>.
+[Meinen Bericht über das vegane Xucker Sortiment findet Ihr hier](http://tidd.ly/3a78d1a7).
 
 Guten Appetit!
 
@@ -94,5 +90,5 @@ Guten Appetit!
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und einen Affiliate Link. Der
 Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

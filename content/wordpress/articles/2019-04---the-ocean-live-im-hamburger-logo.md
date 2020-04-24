@@ -45,9 +45,9 @@ Downfall Of Gaia und Herod heraustellten.
 Ein genialer Abend, der zahlreiche bleibende Eindrück bei uns hinterließ und uns
 diese gemeinsame Lieblingsband ein weiteres Mal sehr nahe brachte. Zuletzt beim
 Konzert samt Meet-and-greet auf dem
-<a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">Dunk
-Festival 2018</a>, jetzt am linken Bühnenrand des Logo vis-a-vis mit Gitarrist
-Robin Stapps und Sänger Loïc Rossetti.
+[Dunk Festival 2018](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/),
+jetzt am linken Bühnenrand des Logo vis-a-vis mit Gitarrist Robin Stapps und
+Sänger Loïc Rossetti.
 
 Vibrierende Bässe, nachdenkliche Texte und verzauberte Melodien trugen uns aus
 dem Alltag davon. Vielen Dank für dieses tolle Konzert. Wir freuen uns schon auf

@@ -74,31 +74,27 @@ los. Ich merke das, wenn ich anfange To-Do-Listen über die To-Do-Listen zu
 schreiben. Heute in aller Frühe schon so geschehen. Organisation ist halt alles
 (Ich höre jetzt das höhnische "Haa Haa" dieses Jungen, Nelson heißt er, aus der
 Zeichentrickserie mit den gelben Menschen.). Vor Wochen schon
-<a title="Ego" href="http://www.egofm.de/default.aspx?ID=6117&amp;showNews=1168552">wurde
-mein Blog von einem Radiosender zitiert</a>, wie ich entdeckt habe, was mich
-heute ein kleines Bisschen stolz macht.
+[wurde mein Blog von einem Radiosender zitiert](http://www.egofm.de/default.aspx?ID=6117&showNews=1168552),
+wie ich entdeckt habe, was mich heute ein kleines Bisschen stolz macht.
 
-Bei meiner
-<a title="Tofutante" href="http://tofutante.wordpress.com/">Allerbesten</a>
-reißen heute Handwerker ein komplettes Fenster raus, obwohl sie eigentlich nur
-einen Rolladen austauschen sollten. Zum Glück scheint die Sonne.
+Bei meiner [Allerbesten](http://tofutante.wordpress.com/) reißen heute
+Handwerker ein komplettes Fenster raus, obwohl sie eigentlich nur einen Rolladen
+austauschen sollten. Zum Glück scheint die Sonne.
 
 Mal sehen, was der Tag noch so bringt. Auf jeden Fall eine Menge Besprechungen
 und bestimmt auch den ein oder anderen Kaffee. Außerdem werde ich meine Kollegen
 mal wieder mit Fragen löchern.
 
-Und der Abend? Ein Bad im
-<a title="Baggersee" href="//?s=baggersee">Baggersee</a> vielleicht? Oder doch
+Und der Abend? Ein Bad im [Baggersee](//?s=baggersee) vielleicht? Oder doch
 lieber einen schönen Wong Kar Wai Film? Oder vielleicht beides? Eigentlich hatte
 ich mir ja auch irgendwann vorgenommen, heute mal früher schlafen zu gehen. Doch
 irgendwie denkt man da meistens nur beim Aufstehen dran.
 
 Ich zitiere an dieser Stelle
-<a title="Tocotronic" href="http://musichq.de/images/artist_event/tocotronic/tocotronic.jpg">Tocotronic
-</a>(Mir fällt ständig zu allem ein
-<a title="Tocotronic" href="http://musichq.de/images/artist_event/tocotronic/tocotronic.jpg">Tocotronic</a>-Zitat
-ein.): 'Manchmal weiß ich schon beim Aufstehen, heut´geht alles schief, abends
-muss ich dann einsehn´, selbst das klappt meistens nie.' - Ein wahrer Satz.
+[Tocotronic](http://musichq.de/images/artist_event/tocotronic/tocotronic.jpg)
+-Zitat ein.): 'Manchmal weiß ich schon beim Aufstehen, heut´geht alles schief,
+abends muss ich dann einsehn´, selbst das klappt meistens nie.' - Ein wahrer
+Satz.
 
 Irgendwie finde ich es wunderbar entspannend, in der Mittagspause zu schreiben.
 Was ich ja gestern auch schon getan habe. Nur zu lang darf der Text nicht

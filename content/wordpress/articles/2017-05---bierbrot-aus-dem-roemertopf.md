@@ -96,7 +96,7 @@ Passt beim rausnehmen auf! Römertöpfe können tierisch heiß werden! Lasst das
 Brot auf einem Rost auskühlen und genießt es beim abendlichen Picknick an der
 Elbe (oder am Baggersee) mit einem kühlen Bierchen. Dazu passt auch toll ein
 schöner selbst gemachter
-<a href="http://cardamonchai.com/2015/09/diy-paranuss-tomaten-brotaufstrich/">Paranuss-Tomaten-Aufstrich</a>.
+[Paranuss-Tomaten-Aufstrich](/2015/09/diy-paranuss-tomaten-brotaufstrich/).
 
 Viel Spaß beim Backen! :-)
 

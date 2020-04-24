@@ -39,5 +39,5 @@ Elbe und den dahinter liegenden Hamburger Frachthafen genießen.</strong>
 [glry name= "2019-12-15-hafen"]
 
 Hat Euch meine Bildergalerie gefallen? Das freut mich sehr!
-<a href="#newsletter">Abonniert gerne meinen Newsletter</a>, um in Zukunft
-nichts mehr auf meiner Seite zu verpassen.
+[Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft nichts mehr auf
+meiner Seite zu verpassen.

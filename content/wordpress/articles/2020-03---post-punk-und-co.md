@@ -140,8 +140,8 @@ ist bei ihnen einfach alles auf Krawall gebürstet. Und das ist gut so.
 Die Schweden aus Umeå machen schon seit 1998 Krach. Als ich Sänger Dennis Lyxzén
 vor Kurzem mit seinem 1992 gegründeten und ebenfalls sehr erfolgreichen Hardcore
 Bandprojekt
-<a href="http://cardamonchai.com/2019/11/refused-thrice-petrol-girls-live-grosse-freiheit-36/">Refused</a>
-mal wieder live erleben durfte, hatte er von seiner puren Energie kein Stück
+[Refused](/2019/11/refused-thrice-petrol-girls-live-grosse-freiheit-36/) mal
+wieder live erleben durfte, hatte er von seiner puren Energie kein Stück
 eingebüßt.
 
 <iframe src="https://www.youtube.com/embed/iI3uKCgU4vs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>

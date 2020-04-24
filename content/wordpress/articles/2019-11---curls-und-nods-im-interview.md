@@ -59,9 +59,9 @@ derkalavier meinem Interview gestellt.</strong>
 Baronski und derkalavier - das sind die Künstlernamen der beiden Beatmaker und
 Instrumentalisten. Sie gehen gemeinsam mit dem Projekt Curls &amp; Nods auf
 Tour. Zuletzt sorgten sie auf
-<a href="http://cardamonchai.com/2019/11/golden-silence-festival-muenster/">dem
-ersten Golden Silence</a> Festival für Furore. Ich habe mich mit ihnen über ihre
-Musik, ihre Pläne und ihre Heimat unterhalten.
+[dem ersten Golden Silence](/2019/11/golden-silence-festival-muenster/) Festival
+für Furore. Ich habe mich mit ihnen über ihre Musik, ihre Pläne und ihre Heimat
+unterhalten.
 
 ![Curls & Nods](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-4-1-400x300.jpg)
 
@@ -101,8 +101,7 @@ ein Kerl via Mail und drohte mit einer Unterlassungsklage, weil er sich auch so
 nennen wollte - ziemlich albern das Ganze. Da ich den Namen aber eh nicht so
 cool fand, kam ich irgendwann auf diese Melange aus beiden Namen.
 
-<strong>Anne:</strong> Ihr kommt aus
-<a href="http://cardamonchai.com/2019/11/muenster/">Münster</a>, oder? Was
+<strong>Anne:</strong> Ihr kommt aus [Münster](/2019/11/muenster/), oder? Was
 gefällt Euch an der Stadt und was nicht so?
 
 <strong>Baronski:</strong> Wir wohnen tatsächlich beide in Münster. derkalavier
@@ -128,9 +127,9 @@ ist auch für uns immer wieder aufs Neue ein Erlebnis.
 Festival am besten gefallen?
 
 <strong>Baronski:</strong> Neben dem Gig von
-<a href="http://cardamonchai.com/2019/04/long-distance-calling-kulturkirche-altona/">Long
-Distance Calling</a> hat mir vor allem der von Kuf super gefallen. Das war echt
-eine spannende Mischung, sehr energiegeladen und virtuos.
+[Long Distance Calling](/2019/04/long-distance-calling-kulturkirche-altona/) hat
+mir vor allem der von Kuf super gefallen. Das war echt eine spannende Mischung,
+sehr energiegeladen und virtuos.
 
 <strong>Anne:</strong> Das ist cool, mir geht es da ganz ähnlich! Eure Auftritte
 sind ein Feuerwerk aus spannenden Samples und irren Beats - woraus zieht Ihr
@@ -224,27 +223,20 @@ Interview! Hoffentlich bis bald!
 <iframe src="https://www.youtube.com/embed/RP6BlqHuVc8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Das komplette Video-Material von der Rooftop Session in Saigon
-<a href="https://www.trustinwax.com/curls-nods-sgn-rooftop-session-tiw-6.html?fbclid=IwAR3GepkEIh7XijAYxu6zIVkyc8yg7O1PFCdqUtwcqgTHOkXkuCR52ZZbWEo" target="_blank" rel="noopener">findet
-Ihr hier</a>.
+[findet Ihr hier](https://www.trustinwax.com/curls-nods-sgn-rooftop-session-tiw-6.html?fbclid=IwAR3GepkEIh7XijAYxu6zIVkyc8yg7O1PFCdqUtwcqgTHOkXkuCR52ZZbWEo).
 
 Hat Euch mein Interview gefallen? Wie schön!
-<a style="line-height: 1.5em;" href="mailto:info@cardamonchai.com">Meldet Euch
-gerne</a>, wenn Ihr auch ein tolles Projekt habt, über das wir reden sollen. Auf
-dem Laufenden halte ich Euch über <a href="#newsletter">meinen wöchentlichen
-Newsletter</a>.
+[meinen wöchentlichen Newsletter](mailto:info@cardamonchai.com).
 
 ### Links
 
-<a href="https://trustinwax.bandcamp.com/album/sgn-rooftop-session" target="_blank" rel="noopener">Curls
-&amp; Nods Bandcamp</a>
+[Curls &amp; Nods Bandcamp](https://trustinwax.bandcamp.com/album/sgn-rooftop-session)
 
-<a href="http://derkalavier.de/automatik/" target="_blank" rel="noopener">Der
-Kalavier</a>
+[Der Kalavier](http://derkalavier.de/automatik/)
 
-<a href="https://baronski.bandcamp.com/" target="_blank" rel="noopener">Baronski</a>
+[Baronski](https://baronski.bandcamp.com/)
 
-<a href="https://www.trustinwax.com/home.html" target="_blank" rel="noopener">Trust
-In Wax</a>
+[Trust In Wax](https://www.trustinwax.com/home.html)
 
 ### Bildquellen
 

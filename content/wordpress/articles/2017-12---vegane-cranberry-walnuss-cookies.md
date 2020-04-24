@@ -96,8 +96,7 @@ einzelnen Lagen solltet Ihr mit Back- oder Butterbrotpapier trennen.
 
 Ich wünsche Euch viel Spaß beim Backen und noch eine möglichst ruhige
 Adventszeit. Falls Ihr noch auf der Suche nach einem tollen Geschenk seid,
-<a href="http://cardamonchai.com/2017/11/kartenmacherei/">klickt mal hier
-rein</a>.
+[klickt mal hier rein](/2017/11/kartenmacherei/).
 
 &nbsp;
 

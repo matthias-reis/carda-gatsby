@@ -56,9 +56,9 @@ Beispiel auf den Geburtstag oder den Todestag des Autors verlegen.
 
 Auch heute wehen wieder weltweit die Handtücher. Auch meines habe ich
 aufgehängt, Ihr seht es auf dem Foto. Meine
-<a href="http://cardamonchai.com/2013/05/towel-day/">ganz persönliche
-Geschichte</a> über den International Towel Day habt Ihr vielleicht schon mal
-gelesen. Darin geht es nicht nur um Handtücher.
+[ganz persönliche Geschichte](/2013/05/towel-day/) über den International Towel
+Day habt Ihr vielleicht schon mal gelesen. Darin geht es nicht nur um
+Handtücher.
 
 ## Die Antwort auf alle Fragen
 
@@ -73,14 +73,12 @@ Und nun wünsche ich Euch allen einen wundervollen International Towel Day!
 
 PS: Auch über das Festival Handtuch, bei dem es sich um ein ganz besonderes
 Handtuch aus meinem Bestand handelt, erfahrt Ihr so einiges in
-<a href="http://cardamonchai.com/2013/05/towel-day/">meiner persönlichen Towel
-Day Geschichte</a>. Ihr seht es rechts im Bild. Nach dem es eine Zeitlang
-verschwunden war, ist es nun wieder aufgetaucht und wird mich dieses Jahr
-natürlich auch wieder aufs Festival begleiten.
+[meiner persönlichen Towel Day Geschichte](/2013/05/towel-day/). Ihr seht es
+rechts im Bild. Nach dem es eine Zeitlang verschwunden war, ist es nun wieder
+aufgetaucht und wird mich dieses Jahr natürlich auch wieder aufs Festival
+begleiten.
 
 Falls Ihr auch vorhabt, ein Festival zu besuchen ist vielleicht auch die hier
 für Euch interessant:
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

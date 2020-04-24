@@ -103,13 +103,13 @@ Die Church of Ra ist eine sehr musikalische. Bewiesen wird das auf diesem Album.
 <iframe src="https://www.youtube.com/embed/CD7bxyzFbC4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### And So I Watch You From Afar - "Three Triangles" vom Album The Endless Shimmering
-Als Fan der ersten Stunde bekam ich glänzende Augen, als ich vom neuen Album erfuhr. Schwelgen konnte ich darin ausgiebig auf dem diesjährigen <a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">Dunk Festival</a>. Ich genieße es nach wie vor regelmäßig
+Als Fan der ersten Stunde bekam ich glänzende Augen, als ich vom neuen Album erfuhr. Schwelgen konnte ich darin ausgiebig auf dem diesjährigen  [Dunk Festival](/2017/06/dunk-festival-2017-eindruecke-und-bilder/).  Ich genieße es nach wie vor regelmäßig
 
 ![songliste-2017](http://cardamonchai.com/wp-content/uploads/2017/12/And-So-I-Watch-You-From-Afar_ENDLESS-300x300.jpg)
 
 <li>
 ### Amplifier - "Anubis" vom Album Trippin' With Dr. Faustus
-Mit Trippin' With Dr. Faustus erschien dieses Jahr ein ganz besonderes <a href="https://cardamonchai.com/2013/04/amplifier-live-hansa-39-munchen/">Amplifier</a> Album. Anubis ist bei weitem nicht der einzige Song darauf, der beim ersten Hören sofort ins Blut übergeht.
+Mit Trippin' With Dr. Faustus erschien dieses Jahr ein ganz besonderes  [Amplifier](/2013/04/amplifier-live-hansa-39-munchen/)  Album. Anubis ist bei weitem nicht der einzige Song darauf, der beim ersten Hören sofort ins Blut übergeht.
 
 <iframe src="https://www.youtube.com/embed/XuO_n8np-js" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -119,7 +119,7 @@ Eine kleine Sensation war die neue Single von A Perfect Circle. Eingefleischten 
 <iframe src="https://www.youtube.com/embed/SDvfbvuJtS8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Calexico - "Voices In The Field" vom Album The Tread That Keeps Us
-Die zweite Auskopplung vom für Januar angekündigten neuen <a href="https://cardamonchai.com/category/musik/calexico/">Calexico</a> Werk The Tread That Keeps Us geht meiner Meinung nach noch mehr ins Ohr als „<a href="http://cardamonchai.com/2017/10/calexico-the-thread-that-keeps-us/">End Of The World With You</a>“. Doch hört selbst. Es ist Geschmacksache. Auf das Album bin ich allemal gespannt wie zwei Regenschirme.
+Die zweite Auskopplung vom für Januar angekündigten neuen  [End Of The World With You](/category/musik/calexico/) “. Doch hört selbst. Es ist Geschmacksache. Auf das Album bin ich allemal gespannt wie zwei Regenschirme.
 
 <iframe src="https://www.youtube.com/embed/9Xq2CnmSB_M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -139,7 +139,7 @@ Regelmäßig werden wir von Mogwai mit Musik versorgt. Nie werden wir enttäusch
 <iframe src="https://www.youtube.com/embed/Q5Knt284Y6k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Nine Inch Nails - "Less Than" von der EP Add Violence
-Die für mich größte Überraschung des Jahres ist diese Veröffentlichung. Die Freude ist groß auf das nächste Jahr, wenn es mit Trent Reznor und seinen <a href="https://cardamonchai.com/?s=nine+inch+nails">Nine Inch Nails</a> weitergeht. Eine Tour steht an!
+Die für mich größte Überraschung des Jahres ist diese Veröffentlichung. Die Freude ist groß auf das nächste Jahr, wenn es mit Trent Reznor und seinen  [Nine Inch Nails](/?s=nine+inch+nails)  weitergeht. Eine Tour steht an!
 
 <iframe src="https://www.youtube.com/embed/gDV-dOvqKzQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -154,7 +154,7 @@ Es sagt einfach alles aus und kommt mit einer ungezügelten Kraft um die Ecke, d
 <iframe src="https://www.youtube.com/embed/fqEU_iCy16M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Barst - The Western Lands
-Die Platte wurde zwar bereits im Jahr 2016 veröffentlicht, findet hier aber dennoch Erwähnung. Barst gehört ganz klar zu meinen Neuentdeckungen 2017. Nicht nur, weil die Band meinen Begriff "Wahnsinnsmusik", den ich in einem Artikel über das <a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">Dunk Festival 2017</a> für Ihre Musik gewählt habe, nun dauerhaft festes Genre anerkannt hat und stets als Beschreibung und Hashtag unter Fotos in den sozialen Netzwerke verwendet. Das Waldkonzert auf dem Belgischen Musikevent diesen Sommer hat tatsächlich mein Weltbild ein kleines Bisschen verschoben. Auf eine sehr positive Art. Den Begriff Wahnsinnsmusik hat die Band mit ihren verrückten Opern definitiv verdient. Die Geschichte mit der Wahnsinnsmusik werde ich an dieser Stelle in Kürze noch einmal vertiefen. So viel sei schon mal gesagt: Barst ist grenzenlos. Einschränkungen gibt es nicht. Das gilt auch für Songenden.
+Die Platte wurde zwar bereits im Jahr 2016 veröffentlicht, findet hier aber dennoch Erwähnung. Barst gehört ganz klar zu meinen Neuentdeckungen 2017. Nicht nur, weil die Band meinen Begriff "Wahnsinnsmusik", den ich in einem Artikel über das  [Dunk Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)  für Ihre Musik gewählt habe, nun dauerhaft festes Genre anerkannt hat und stets als Beschreibung und Hashtag unter Fotos in den sozialen Netzwerke verwendet. Das Waldkonzert auf dem Belgischen Musikevent diesen Sommer hat tatsächlich mein Weltbild ein kleines Bisschen verschoben. Auf eine sehr positive Art. Den Begriff Wahnsinnsmusik hat die Band mit ihren verrückten Opern definitiv verdient. Die Geschichte mit der Wahnsinnsmusik werde ich an dieser Stelle in Kürze noch einmal vertiefen. So viel sei schon mal gesagt: Barst ist grenzenlos. Einschränkungen gibt es nicht. Das gilt auch für Songenden.
 
 <iframe src="https://www.youtube.com/embed/Hk5xTN8YePs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -174,7 +174,7 @@ Dieser Song aus längst vergangenen Zeiten hat es auf meine Liste geschafft, wei
 <iframe src="https://www.youtube.com/embed/khMlcTE7lw8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Briqueville - "Akte VI" vom Album II
-Briqueville ist ein Mysterium. Ihre Konzerte spielen sie mit mittelalterlich anmutende Masken auf dem Gesicht und  in schwarze Umhänge gehüllt. Das Rätsel wird gehütet wie ein Schatz. Auch diese Band begegnete mir im Sommer live auf dem <a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">Dunk Festival 2017</a>. Zu der Zeit vermuteten wir kurz Amenra dahinter. Wer könnte es noch sein? Habt Ihr eine Idee?
+Briqueville ist ein Mysterium. Ihre Konzerte spielen sie mit mittelalterlich anmutende Masken auf dem Gesicht und  in schwarze Umhänge gehüllt. Das Rätsel wird gehütet wie ein Schatz. Auch diese Band begegnete mir im Sommer live auf dem  [Dunk Festival 2017](/2017/06/dunk-festival-2017-eindruecke-und-bilder/).  Zu der Zeit vermuteten wir kurz Amenra dahinter. Wer könnte es noch sein? Habt Ihr eine Idee?
 
 <iframe src="https://www.youtube.com/embed/_ZzXLY5KYo0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -238,6 +238,4 @@ gibt es für mich einige, die mehr hervorstechen, als andere, aber insgesamt und
 auch einzeln betrachtet sind sie alle perfekt und haben die gleiche Position in
 meiner Liste verdient. Die Zahlen sind somit nicht als Wertung zu verstehen.
 
-<a href="http://cardamonchai.com/2018/01/wichtiger-nachtrag-zur-musikliste/">Wer
-noch mehr gute Musik hören möchte, findet hier einen Nachtrag zur ultimativen
-Songliste 2017.</a>
+[Wer noch mehr gute Musik hören möchte, findet hier einen Nachtrag zur ultimativen Songliste 2017.](/2018/01/wichtiger-nachtrag-zur-musikliste/)

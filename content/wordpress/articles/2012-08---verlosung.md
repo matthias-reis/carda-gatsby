@@ -86,9 +86,9 @@ thumbnailId: "3997"
 subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
 ---
 
-<hr /><strong>Hinweis: </strong>Die Aktion ist beendet. <a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet bald wieder eine tolle Verlosung im Blog statt</a>.
+<hr /><strong>Hinweis: </strong>Die Aktion ist beendet.  [Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
 
-<hr /><strong>Mein wundervolles, neues <a title="T-Shirt" href="//#jp-carousel-3918">Marc Lanegan T-Shirt</a> hat mich auf die Idee gebracht, mal wieder eine Mitmach-Aktion auf cardamonchai.com zu veranstalten. Dieses Mal soll es nicht nur eine <a title="Facebook-Verlosung" href="//2011/05/05/cardamonchai-auf-facebook/">einfache Verlosung</a> sein, oder ein <a title="Mixtape-Tausch" href="//cardamixtape-2/der-mixtape-tausch-teil-1-die-bastelei/">Mixtape-Tausch</a>, nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.</strong>
+<hr /><strong>Mein wundervolles, neues  [Mixtape-Tausch](//#jp-carousel-3918),  nein, es wird spannender. Und es gibt wirklich tolle Preise zu gewinnen.</strong>
 
 Alle, die mitmachen wollen, senden unter dem Betreff "T-Shirt-Idee" bis zum 30.
 September ein Foto von ihrem Lieblings-T-Shirt, im Idealfall sogar mit einer
@@ -99,10 +99,9 @@ ausgelost, die einen eigenen Blogeintrag zu Ihrem T-Shirt bekommen. Natürlich
 ist das aber noch längst nicht alles. Der erste Preis ist eine exklusive Vinyl,
 der zweite Preis eine tolle CD und der dritte Preis (na, drei Mal dürft Ihr
 raten) ein T-Shirt. Die Gewinne stellen meine Freunde von
-"<a title="Marleen Schallplatten Fulda" href="https://www.facebook.com/marleen.schallplatten">Marleen
-Schallplatten</a>", dem Plattenladen meines Vertrauens in Fulda zur Verfügung.
-Vielen Dank an dieser Stelle, Ihr wart maßgeblich an meiner 'musikalischen
-Früherziehung' beteiligt!
+"[Marleen Schallplatten](https://www.facebook.com/marleen.schallplatten)" , dem
+Plattenladen meines Vertrauens in Fulda zur Verfügung. Vielen Dank an dieser
+Stelle, Ihr wart maßgeblich an meiner 'musikalischen Früherziehung' beteiligt!
 
 <blockquote>Ich würde mich sehr freuen, wenn möglichst viele mitmachen, damit am Ende auch eine schöne T-Shirt-Galerie entsteht. Bitte sendet Eure Fotos und Texte bis zum 30. September 2012 unter dem Betreff "T-Shirt-Idee" an <span style="color: #800080;">info@cardamonchai.com</span>. Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über ihren Gewinn benachrichtigt. Die Gewinne werden per Post versendet. Der Rechtsweg ist ausgeschlossen.</blockquote>
 

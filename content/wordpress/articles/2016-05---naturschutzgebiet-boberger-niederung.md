@@ -76,17 +76,12 @@ verschwunden war, wurde er mit einem Zaun eingefasst, um das Gleichgewicht dort
 wieder herzustellen. Seit ein paar Jahren werden dort nun regelmäßig wieder
 Kreuzkröten und auch einige anderen Tiere gesichtet.
 
-Die
-<a href="http://cardamonchai.com/2015/09/indian-summer-im-loki-schmidt-garten/">Loki-Schmidt-Stiftung</a>
-hat angrenzend an den Parkplatz für den Wanderweg ein
-<a href="http://www.loki-schmidt-stiftung.de/infohaeuser/boberger_niederung/" target="_blank">Informationszentrum</a>
-für Besucher eingerichtet, in dem man sich über die Flora und Fauna in dieser
+Die [Informationszentrum](/2015/09/indian-summer-im-loki-schmidt-garten/) für
+Besucher eingerichtet, in dem man sich über die Flora und Fauna in dieser
 vielfältigen Landschaft informieren kann. Der Eintritt ist kostenlos. Das Team
 freut sich über freiwillige Spenden.
 
 Auch im Wittmoor sind wir schon
-<a href="http://cardamonchai.com/2016/01/wandern-im-hamburger-wittmoor/">gewandert</a>.
+[gewandert](/2016/01/wandern-im-hamburger-wittmoor/).
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

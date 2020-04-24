@@ -42,8 +42,7 @@ Besonders die Sauce hat es mir angetan.</strong>
 Bevor es ans Eingemachte geht, habe ich noch einen Hinweis für Euch: Überlegt
 Euch, die doppelte Menge Spargel zu garen. Ihr könnt ihn am nächsten Tag für
 einen leckeren Spargelsalat gut gebrauchen. Unser Rezept dafür
-<a href="http://cardamonchai.com/2018/06/spargelsalat-mit-erdbeeren/">findet Ihr
-auch hier im Blog</a>.
+[findet Ihr auch hier im Blog](/2018/06/spargelsalat-mit-erdbeeren/).
 
 ## Zutaten Spargel
 
@@ -103,7 +102,6 @@ geben. Mit Kokos- und Chiliflocken bestreuen und servieren.
 Der Spargel gart im Backofen durch, bleibt dabei aber schön bissfest. Dazu
 passen hervorragend Röstzwiebeln mit etwas Räuchertofu als Garnierung sowie ein
 guter
-<a href="http://cardamonchai.com/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/">veganer
-Weißwein</a>.
+[veganer Weißwein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
 
 Matze &amp; Anne wünschen guten Appetit! &lt;3

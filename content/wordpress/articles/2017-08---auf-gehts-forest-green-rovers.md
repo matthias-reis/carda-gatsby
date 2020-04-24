@@ -36,15 +36,15 @@ subTitle: Englands grüne Fußballer kicken vegan
 ---
 
 <strong>Normalerweise schlägt mein Herz ja für den
-<a href="http://cardamonchai.com/2016/05/millerntor-stadion-hamburg/"><em>FC St.
-Pauli</em></a>. Trotzdem muss ich Euch heute mal eine andere Fußballmannschaft
-vorstellen. Was ich über sie las, hat mich einfach schwer beeindruckt.</strong>
+[](/2016/05/millerntor-stadion-hamburg/). Trotzdem muss ich Euch heute mal eine
+andere Fußballmannschaft vorstellen. Was ich über sie las, hat mich einfach
+schwer beeindruckt.</strong>
 
 Die <em>Forest Green Rovers</em> spielen seit dieser Saison in der vierthöchsten
 Liga Englands, der <em>League Two</em>. Im Stadion werden den Fans
 ausschließlich vegane Speisen angeboten. Statt Bratwurst gibt es Q-Pie mit Lauch
 und Soja. An allen Trainings- und Spieltagen ernähren sich die Spieler der
-Mannschaft <a href="/category/vegan-2/">vegan</a>.
+Mannschaft [vegan](/category/vegan-2/).
 
 ## Bei den Forest Green Rovers verzichtet man auf Fleisch und Chemie
 
@@ -70,14 +70,12 @@ Two</em> zu kämpfen.
 
 ### Quelle &amp; Fotos
 
-Forest Green Rovers
-<a href="http://Fotos: Forest Green Rovers," target="_blank" rel="noopener">Link</a>
+Forest Green Rovers [Link](http://Fotos: Forest Green Rovers,)
 
 Im Titelbild ist zu sehen, wie <em>Forest Green Rovers</em> Spieler Christian
 Doidge am 5. August das erste Tor überhaupt in der League Two gegen Barnet
 schießt und mit seinen Kollegen das 1:0 feiert. Das Foto hat
-<a href="https://www.flickr.com/people/62443160@N07/" target="_blank" rel="noopener">Shane
-Healey</a> gemacht.
+[Shane Healey](https://www.flickr.com/people/62443160@N07/) gemacht.
 
 &nbsp;
 

@@ -145,7 +145,7 @@ nun auch zum zweiten Mal selbst Veranstalter.
 besonders am Herzen?
 
 <strong>Kathrin Eva:</strong>
-<a href="http://cardamonchai.com/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/" target="_blank" rel="noopener">Tierversuche</a>.
+[Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/).
 Was mich an ihnen besonders mitnimmt, ist ihre Grenzenlosigkeit. Hier gibt es
 gar keine gesetzliche Reglementierung. Die sogenannte Grundlagenforschung muss
 gar keinen wissenschaftlichen Nutzen erzielen, bei ihr geht es um den reinen
@@ -289,10 +289,9 @@ habe, macht wahnsinnig Spaß.
 ![tierschutztheater-interview-cardamonchai](http://cardamonchai.com/wp-content/uploads/2019/09/manche-sind-gleich-tierschutztheater-400x267.jpg 'Szene aus dem Stück "Manche sind gleich". Foto: Tierschutztheater')
 
 <strong>Anne:</strong> Im Tierschutztheater setzt Ihr Euch ja
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">aktiv gegen
-Pelze</a> ein. Wie erklärst Du Dir die wieder aufkeimende Pelzmode? Wie kann es
-überhaupt sein, dass so viele Leute mit einer Pelzkapuze herumlaufen und zum
-Teil nicht mal wissen, was sie da tragen.
+[aktiv gegen Pelze](/2014/11/fakepelz-echtpelz/) ein. Wie erklärst Du Dir die
+wieder aufkeimende Pelzmode? Wie kann es überhaupt sein, dass so viele Leute mit
+einer Pelzkapuze herumlaufen und zum Teil nicht mal wissen, was sie da tragen.
 
 <strong>Kathrin Eva:</strong> Witzig, dass Du das gerade ansprichst. Wir planen
 derzeit eine kleine Anti-Pelz-Kampagne. Ich habe mich in einem Kunstpelz
@@ -325,11 +324,7 @@ ihnen schlichtweg zu blöd wird.
 ## "Ich verstehe nicht, warum wir Tierarten unterschiedlich behandeln"
 
 <strong>Anne:</strong> Thema
-<a href="http://cardamonchai.com/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/" target="_blank" rel="noopener">Speziesismus</a>:
-Ein Hund oder eine Katze wird als Haustier gehalten und darf im Bett schlafen,
-ein Schwein ist hingegen ein Nutztier, wird geschlachtet und gegessen, Kühen
-werden die Kälber entzogen, damit Menschen
-<a href="http://cardamonchai.com/2018/04/saeuglinge/">ihre Milch trinken</a>
+[ihre Milch trinken](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)
 können. Wie erklärst Du Dir dieses Phänomen? Wie ist es zustande gekommen?
 
 <strong>Kathrin Eva:</strong> Da geht es mir genauso wie mit der Frage nach dem
@@ -555,11 +550,9 @@ einer Käfig- und einer Schweinemasken-Aktion sowie einem "Blutigen Dinner" auf
 dem Marienplatz auf sich aufmerksam. Auch auf den Vegan Street Days war das
 Ensemble dabei. Die nächste bevorstehende Veranstaltung ist das
 Tierschutztheater bei Radio Lora.
-<a href="https://www.facebook.com/events/359340758335389/" target="_blank" rel="noopener nofollow">Eure
-Teilnahme könnt Ihr ganz leicht bei Facebook bestätigen</a>.
+[Eure Teilnahme könnt Ihr ganz leicht bei Facebook bestätigen](https://www.facebook.com/events/359340758335389/).
 
-\*<a href="https://www.tierschutztheater.de/" target="_blank" rel="noopener nofollow">Die
-Homepage des Tierschutztheaters findet Ihr hier</a>.
+- [Die Homepage des Tierschutztheaters findet Ihr hier](https://www.tierschutztheater.de/).
 
 Kathrin Eva Schmid tritt am 15.03.2020 als Spitzenkandidatin für die
 Tierschutzpartei bei der Münchener Stadtratswahl an.

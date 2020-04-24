@@ -85,11 +85,10 @@ können." Spendet also bitte alle soviel Ihr könnt. Besonders gefragt ist immer
 Spezialfutter zum Beispiel für Tiere mit Diabetes oder Nierenleiden. Auch
 getreidefreies Futter wird immer gebraucht.
 
-<a href="http://www.tiertafelhamburg.de/" target="_blank" rel="noopener">Hier
-entlang geht es zur Homepage der Tiertafel Hamburg</a>.
+[Hier entlang geht es zur Homepage der Tiertafel Hamburg](http://www.tiertafelhamburg.de/).
 
-Gespendet werden kann über Paypal. Die Paypal E-Mail-Adresse
-lautet <a href="mailto:kontakt@tiertafelhamburg.de">kontakt@tiertafelhamburg.de</a>.
+Gespendet werden kann über Paypal. Die Paypal E-Mail-Adresse lautet 
+[kontakt@tiertafelhamburg.de](mailto:kontakt@tiertafelhamburg.de).
 
 Natürlich könnt Ihr überweisen. Sendet Euer Geld bitte an folgendes Konto
 
@@ -97,17 +96,14 @@ Natürlich könnt Ihr überweisen. Sendet Euer Geld bitte an folgendes Konto
 00 BIC: GENODEM1GLS</b>
 
 Den Amazon-Wunschzettel sowie alle Infos, wie Ihr mit Sachspenden am besten
-verfahrt und wie Ihr sonst noch helfen
-könnt, <a href="http://www.tiertafelhamburg.de/HelfenSieuns" target="_blank" rel="noopener">wird
-unter diesem Link genau erklärt</a>.
+verfahrt und wie Ihr sonst noch helfen könnt, 
+[wird unter diesem Link genau erklärt](http://www.tiertafelhamburg.de/HelfenSieuns).
 
 Hier im Blog findet Ihr ein großes Interview mit Kara Schott, der Leiterin der
 Tiertafel Hamburg
 
-<a href="http://cardamonchai.com/2017/11/puss-in-boots-animal-rescue-and-adoption/">Interview
-Teil 1 - Puss In Boots - Animal Rescue</a>
+[Interview Teil 1 - Puss In Boots - Animal Rescue](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
 
-<a href="http://cardamonchai.com/2017/10/die-tiertafel-hamburg-stellt-sich-vor/">Interview
-Teil 2 - Tiertafel Hamburg</a>
+[Interview Teil 2 - Tiertafel Hamburg](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
 
 [myflickr tag="annetiertafelhamburg122017"]

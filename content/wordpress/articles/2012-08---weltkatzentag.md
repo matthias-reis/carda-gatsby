@@ -71,9 +71,8 @@ Frühsport: Versucht, mich so schnell wie möglich fertig zu machen, damit ich
 nicht zu spät komme. Dabei selbstverständlich mehrfach über die eigenen Füße
 gestolpert.
 
-Ibuprofen, Meeting, Kaffee. Werde
-<a title="Twitter" href="https://twitter.com/Anne_Reko" target="_blank" rel="noopener">bei
-Twitter</a> entfolgt. Mir egal, mögen die wohl keine Katzen. Heute Abend See mit
+Ibuprofen, Meeting, Kaffee. Werde [bei Twitter](https://twitter.com/Anne_Reko)
+entfolgt. Mir egal, mögen die wohl keine Katzen. Heute Abend See mit
 Milchkaffee. Morgen dann emotional vielleicht wieder weniger am Rande.
 Vielleicht ein Beitrag mit einem Bild vom See. Oder mit einem Bild von einem
 Baum. Oder gar kein Beitrag, oder zwei.

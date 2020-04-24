@@ -63,8 +63,7 @@ begleiten mich schon seit Jahren in den unterschiedlichsten Varianten. Vom
 Taschenkalender über das Notizbuch und Zeichenheft: Irgendein Moleskine habe ich
 immer in Gebrauch. Ab und zu ist es eben auch immer noch sehr schön, wenn mal
 was nicht digital ist. Darüber habe ich ja auch in meinem
-<a href="http://cardamonchai.com/2016/02/filofaxing-mit-den-mumins/">Scrapbooking-Artikel</a>
-kurz berichtet.
+[Scrapbooking-Artikel](/2016/02/filofaxing-mit-den-mumins/) kurz berichtet.
 
 Das Rezept-Buch ist wie gemacht für eine persönliche Rezeptsammlung. Im
 Einführungsteil findet man Fakten und Tipps rund ums Thema Essen wie
@@ -91,18 +90,16 @@ etwas persönlichere Note. Bei der Gestaltung sind der Phantasie keine Grenzen
 gesetzt. Die hübsche Feder, die ich unter mein Rezept geklebt habe, hat übrigens
 die liebe Nina gestaltet. Vielen Dank an dieser Stelle.
 
-Erworben werden kann das Recipe Journal
-<a href="https://amzn.to/2SzMKSr" target="_blank" rel="noopener nofollow">hier</a>
-und natürlich über Moleskine.com sowie in allen Moleskine-Stores weltweit. Es
-hat 400 Seiten, besteht in seinem Herzen aus elfenbeinweißem 70 g/m² säurefreien
+Erworben werden kann das Recipe Journal [hier](https://amzn.to/2SzMKSr) und
+natürlich über Moleskine.com sowie in allen Moleskine-Stores weltweit. Es hat
+400 Seiten, besteht in seinem Herzen aus elfenbeinweißem 70 g/m² säurefreien
 Papier und wird mit zwei Lesezeichenbändern geliefert. Moleskine S.r.l. fertigt
 und vertreibt FSC®-zertifizierte Produkte.
 
 Das Rezept, das ihr auf den Fotos sehen könnt, findet Ihr übrigens komplett hier
 im Blog. Wer meinen Kartoffelsalat mit Superfood und Zuckerschoten gerne mal
 genießen möchte,
-<a href="http://cardamonchai.com/2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/">liest
-am besten hier weiter</a>.
+[liest am besten hier weiter](/2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/).
 
 Das ist schon mal ein guter Anfang, aber Ihr braucht für Weihnachten noch ein
 paar weitere Geschenke? Dann bleibt am besten einfach dran. In Kürze findet Ihr
@@ -110,7 +107,7 @@ hier im Blog noch ein paar weitere Tipps.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>
 
 [glry name="2018-12-moleskine"]

@@ -41,10 +41,10 @@ höchst eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute
 Teil 2 für Euch. </strong>
 
 Die Umhängetasche lässt sich noch leichter herstellen, als der
-<a href="/2015/09/diy-upcycling-nerdbag/">Nerdbag</a>. Ihr braucht dazu
-lediglich ein altes T-Shirt und ein paar
-Kleinigkeiten.<strong></strong>Natürlich habe ich auch wieder ein paar Fotos
-geschossen, um die einzelnen Schritte der Anleitung zu bebildern.
+[Nerdbag](/2015/09/diy-upcycling-nerdbag/). Ihr braucht dazu lediglich ein altes
+T-Shirt und ein paar Kleinigkeiten.<strong></strong>Natürlich habe ich auch
+wieder ein paar Fotos geschossen, um die einzelnen Schritte der Anleitung zu
+bebildern.
 
 ## So wird Eure DIY Upcycling Umhängetasche hergestellt
 
@@ -78,4 +78,4 @@ Viel Spaß!
 [gallery type="columns" link="none" size="large" ids="12849,12852"]
 
 Wie Ihr einen trendy Turnbeutel aus einem alten Jutesack machen könnt,
-<a href="/2015/09/diy-upcycling-turnbeutel/">erfahrt Ihr hier</a>.
+[erfahrt Ihr hier](/2015/09/diy-upcycling-turnbeutel/).

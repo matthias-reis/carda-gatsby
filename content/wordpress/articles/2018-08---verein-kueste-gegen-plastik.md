@@ -48,22 +48,17 @@ vor noch mehr Plastikmüll schützen können. Ihre App <em>Replace Plastic</em>
 hilft ihnen dabei, Firmen und Bevölkerung zu sensibilisieren.</strong>
 
 Tagtäglich rücken die Vereinsmitglieder aus und sammeln am Strand von
-<a href="http://cardamonchai.com/2015/07/zurueck-nach-st-peter-ording/">St.
-Peter-Ording</a> auf, was liegen bleibt:
-<a href="http://cardamonchai.com/2018/07/glas-statt-plastik/">PET-Flaschen</a>,
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Plastiktüten</a>,
-Cremedosen, Kanister und
-<a href="http://cardamonchai.com/2018/07/baecker-backt-strohhalme-fuer-die-umwelt/">Strohhalme</a>.
-Jeden Tag wird neuer Müll angeschwemmt.
+[Strohhalme](/2015/07/zurueck-nach-st-peter-ording/). Jeden Tag wird neuer Müll
+angeschwemmt.
 
 ## Die App Replace Plastik als Sprachrohr für genervte Verbraucher
 
 Stündlich kann man Nachrichten über
-<a href="http://cardamonchai.com/2018/08/wwf-geisternetz-warnemuende/">erstickte
-Meeresbewohner</a> lesen und bekommt über die sozialen Medien neue Videos von
-Müllwellen zu sehen, die aufs Land zurollen. In den Supermärkten stapeln sich
-derweil nach wie vor die Plastikverpackungen. Damit muss endlich Schluss sein,
-findet der Umweltschutzverein und entwickelte die App <em>Replace Plastic</em>.
+[erstickte Meeresbewohner](/2018/08/wwf-geisternetz-warnemuende/) lesen und
+bekommt über die sozialen Medien neue Videos von Müllwellen zu sehen, die aufs
+Land zurollen. In den Supermärkten stapeln sich derweil nach wie vor die
+Plastikverpackungen. Damit muss endlich Schluss sein, findet der
+Umweltschutzverein und entwickelte die App <em>Replace Plastic</em>.
 
 <blockquote>„Wir sind Küstenmenschen, die nicht mehr hinnehmen, dass ihnen der Plastikmüll am Meer buchstäblich vor die Füße gespült wird“</blockquote>
 
@@ -98,11 +93,10 @@ Sandkorn sein, das den Steinberg zum Rollen bringt.
 
 Übrigens freut sich man sich bei <em>Küste gegen Plastik</em> immer über Spenden
 und neue Helfer. Auf der
-<a href="https://www.kueste-gegen-plastik.de/" target="_blank" rel="noopener">Homepage
-des Vereins</a> findet man alle Hinweise dazu. In der Vergangenheit holten die
-Küstenschützer bereits bekannte Firmen wie den Internetgiganten Google für
-Strandreinigungsaktionen an die Küste. Das ist doch mal ein sinnvolles
-Firmenevent liebe Chefs, oder?
+[Homepage des Vereins](https://www.kueste-gegen-plastik.de/) findet man alle
+Hinweise dazu. In der Vergangenheit holten die Küstenschützer bereits bekannte
+Firmen wie den Internetgiganten Google für Strandreinigungsaktionen an die
+Küste. Das ist doch mal ein sinnvolles Firmenevent liebe Chefs, oder?
 
 Die App <em>Replace Plastic </em>findet Ihr im App Store und im Play Store.
 

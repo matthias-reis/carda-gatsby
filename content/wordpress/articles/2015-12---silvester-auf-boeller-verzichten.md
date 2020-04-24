@@ -50,13 +50,7 @@ Haus einer Bombe oder einem Luftangriff zum Opfer gefallen wäre und Eure neuen
 Nachbarn feiern das neue Jahr mit lauten Böllern und Raketen? Auf Böller
 verzichten bedeutet also auch mitfühlen und Empathie zeigen.
 
-Denkt mal darüber nach. Lasst uns
-<a href="http://cardamonchai.com/2015/12/jahresrueckblick/">friedlich in 2016
-ankommen</a>, uns gegenseitig respektieren, tolerieren und miteinander anstoßen.
-Und wenn Ihr unbedingt Euer Geld loswerden wollt, spendet es. Der
-<a href="http://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/">Lebenshof</a>
-oder das
-<a href="http://cardamonchai.com/2015/09/bloggerfuerfluechtlinge/">Flüchtlingsheim</a>
+Denkt mal darüber nach. Lasst uns [Flüchtlingsheim](/2015/12/jahresrueckblick/)
 in Eurer Nähe danken es Euch sicher.
 
 Danke.

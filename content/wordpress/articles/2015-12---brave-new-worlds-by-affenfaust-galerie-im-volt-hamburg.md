@@ -62,9 +62,7 @@ Hier sind meine Eindrücke für Euch:
 [myflickr tag="annebravenewworlds2015"]
 
 Die Homepage der Affenfaust Galerie mit allen Infos und Veranstaltungsterminen
-<a href="http://www.affenfaust.org/de" target="_blank">findet Ihr hier</a>.
+[findet Ihr hier](http://www.affenfaust.org/de).
 
 Zu meinem Artikel über die Emil Nolde Ausstellung in der Hamburger Kunsthalle
-geht es
-<a href="http://cardamonchai.com/2015/11/emil-nolde-in-der-hamburger-kunsthalle/">hier
-entlang</a>.
+geht es [hier entlang](/2015/11/emil-nolde-in-der-hamburger-kunsthalle/).

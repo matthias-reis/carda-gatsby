@@ -146,4 +146,4 @@ Hersteller, unter ihnen Alnatura, Allos und Rapunzel verwenden das billige Öl
 bei die Herstellung ihrer Produkte. Ob diesen Herstellern Siegel wie "Fairtrade"
 und "Bio" auch weiterhin zustehen, wird derzeit heiß diskutiert.
 
-### Quellen:<a href="http://www.umweltblick.de/" target="_blank" rel="noopener">Umweltblick</a><a href="http://tif.objectis.net/themen/palmoel" target="_blank" rel="noopener">Tierrechts-Initiative Freiburg</a><a href="https://www.regenwald.org/petitionen" target="_blank" rel="noopener">Rettet den Regenwald e. V.</a><strong>Foto:</strong><a href="https://pixabay.com/de/users/sarangib-37542/" target="_blank" rel="noopener nofollow">sarangib</a>, pixabay
+### Quellen: [sarangib](http://www.umweltblick.de/), pixabay

@@ -62,8 +62,7 @@ natürlich gerne auf dem Laufenden halten.
 Bereits zwei Songs haben die Deftones aus ihrem Coming up Album ausgekoppelt.
 Ich möchte sie natürlich niemandem vorenthalten.
 
-Dieser Artikel ist <a title="Chi Cheng" href="http://oneloveforchi.com/">Chi
-Cheng </a>gewidmet. ♥
+Dieser Artikel ist [Chi Cheng](http://oneloveforchi.com/) gewidmet. ♥
 
 ## Hier sind für Euch die Deftones mit "Roller Derby"
 
@@ -73,4 +72,4 @@ Cheng </a>gewidmet. ♥
 
 [youtube=http://www.youtube.com/watch?v=VyNBc-_Ctbk&amp;feature=player_embedded]
 
-## Wichtige Links:<a title="Chi Cheng" href="http://oneloveforchi.com/">ONE LOVE FOR CHI</a><a title="Deftones" href="http://www.deftones.com/main/">DEFTONES</a>
+## Wichtige Links: [DEFTONES](http://oneloveforchi.com/)

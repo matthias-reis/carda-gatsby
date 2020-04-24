@@ -116,11 +116,11 @@ Vogel zum Opfer fallen.
 Wer sicher gehen möchte, dass die Bienen in seiner Umgebung einen reich
 gedeckten Tisch vorfinden, Sollte sie so gut es geht versorgen. Neben
 Bienen-freundlichen Pflanzen solltet Ihr auch auf jeden Fall eine
-<a href="http://cardamonchai.com/2018/08/phlox-und-flieder-immer-wieder/">Bienentränke</a>
-aufstellen. Das geht total unkompliziert. Nehmt einfach einen flachen Teller
-oder einen Blumentopf-Untersetzer, füllt etwas Wasser hinein und legt einen
-Stein als Landemöglichkeit in die Mitte - fertig. Jetzt müsst Ihr nur noch dafür
-sorgen, dass sie immer ausreichend gefüllt ist.
+[Bienentränke](/2018/08/phlox-und-flieder-immer-wieder/) aufstellen. Das geht
+total unkompliziert. Nehmt einfach einen flachen Teller oder einen
+Blumentopf-Untersetzer, füllt etwas Wasser hinein und legt einen Stein als
+Landemöglichkeit in die Mitte - fertig. Jetzt müsst Ihr nur noch dafür sorgen,
+dass sie immer ausreichend gefüllt ist.
 
 Klar, Bienen mögen Obstbäume und -Sträucher. Wenn ihr einen Garten habt - fein.
 Ihr wisst, was Ihr zu tun habt. Legt am besten drumherum noch eine
@@ -147,7 +147,7 @@ Zugang zu Blütenstaub und Nektar. Hier eine kleine Liste.
     <li>Fingerhut</li>
     <li>Azaleen</li>
     <li>Borretsch</li>
-    <li><a href="http://cardamonchai.com/2018/08/phlox-und-flieder-immer-wieder/">Phlox</a></li>
+    <li> [Phlox](/2018/08/phlox-und-flieder-immer-wieder/) </li>
     <li>Verschiedene Kobblütler</li>
     <li>Rosen</li>
     <li>Herbst-Zeitlose</li>
@@ -176,7 +176,7 @@ Insektenhotel auf folgende Bauteile zu verzichten:
 <ul>
     <li>Glasröhrchen gehören ins Labor. Bitte lasst sie auch dort. In ihnen kann sich Wasserdampf bilden. Dadurch können sie verpilzen. Ich verstehe den Reiz, die Metamorphose Eurer Hotelbewohner*innen zu beobachten - widersteht ihm.</li>
     <li>In zu frischem Holz können sich Risse bilden - die Bienen mögen das gar nicht.</li>
-    <li>Weidenruten-Lehmwende werden häufig im öffentlichen Raum aufgestellt. Laut <a href="https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/hautfluegler/bienen/13704.html" target="_blank" rel="noopener nofollow">NABU</a> sind sie nicht geeignet für grabende Bienenarten, da das Material zu stark aushärtet.</li>
+    <li>Weidenruten-Lehmwende werden häufig im öffentlichen Raum aufgestellt. Laut  [NABU](https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/hautfluegler/bienen/13704.html)  sind sie nicht geeignet für grabende Bienenarten, da das Material zu stark aushärtet.</li>
     <li>Loch- und Hohlziegel sehen vielleicht schön aus, bieten Insekten jedoch keinen bewohnbaren Lebensraum.</li>
     <li>Horizontale Bündelungen widersprechen der Natur der Insekten.</li>
 </ul>
@@ -287,6 +287,5 @@ Solitärbienen und sind meistens eher scheu. In der freien Natur suchen sie sich
 ihre Nistplätze im Sand, morschem Holz und alten Gemäuern.
 
 Mein Artikel hat Euch gefallen? Das freut mich.
-<a href="http://cardamonchai.com/2018/08/phlox-und-flieder-immer-wieder/">Wenn
-Ihr hier klickt, könnt Ihr sechs Tipps für den Hochsommer auf dem Balkon
-finden</a>. Der kommt schließlich früher, als man denkt.
+[Wenn Ihr hier klickt, könnt Ihr sechs Tipps für den Hochsommer auf dem Balkon finden](/2018/08/phlox-und-flieder-immer-wieder/).
+Der kommt schließlich früher, als man denkt.

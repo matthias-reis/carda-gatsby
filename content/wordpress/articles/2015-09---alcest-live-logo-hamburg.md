@@ -53,8 +53,7 @@ auch zwei von ihrem Sänger
 
 [myflickr tag="alcestlogoanne092015"]
 
-<a href="http://www.alcest-music.com/" target="_blank" rel="noopener">Hier
-lang</a> zur Homepage von Alcest
+[Hier lang](http://www.alcest-music.com/) zur Homepage von Alcest
 
 ![Blogger für Flüchtlinge | full](http://cardamonchai.com/wp-content/uploads/2015/09/BFF_1508_HeaderSW2-300x111.jpg)
 

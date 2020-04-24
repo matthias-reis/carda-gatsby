@@ -39,20 +39,18 @@ nutzten dabei ihre Möglichkeiten und ihre Kreativität.</strong>
 Ins Leben gerufen wurde das Kunst- und Kulturfestival vom <em>Viva con Agua de
 Sankt Pauli e. V</em>. und dem <em>FC St. Pauli</em>. Die Besucher werden mit
 Hilfe von Kunst, Musik und Sport zu gesellschaftlichem Engagement aufgefordert.
-Dafür wird das
-<a href="http://cardamonchai.com/2016/05/millerntor-stadion-hamburg/">Millerntor-Stadion</a>
-einmal im Jahr zu einer großen Galerie, die für kleinen Eintritt für jeden
-zugänglich ist. Bei dem Event werden nicht nur Kunstwerke gezeigt, es treten
-auch jede Menge Musiker von Rang und Namen auf. Mit dabei waren dieses Jahr
-unter anderen <em>Schrottgrenze</em>,<em> Fettes Brot </em>und<em> DJ Mad</em>.
+Dafür wird das [Millerntor-Stadion](/2016/05/millerntor-stadion-hamburg/) einmal
+im Jahr zu einer großen Galerie, die für kleinen Eintritt für jeden zugänglich
+ist. Bei dem Event werden nicht nur Kunstwerke gezeigt, es treten auch jede
+Menge Musiker von Rang und Namen auf. Mit dabei waren dieses Jahr unter anderen
+<em>Schrottgrenze</em>,<em> Fettes Brot </em>und<em> DJ Mad</em>.
 
 ## Die Erlöse der Millerntor Gallery gehen an Viva con Agua
 
 Über 150 Unterstützer kümmern sich um die Planung und Organisation der
 Millerntor Gallery. Die Künstler spenden ihre Gage für
-<a href="http://cardamonchai.com/2017/06/ethnotek-viva-con-agua/">Trinkwasserprojekte
-von Viva con Agua</a>. Für die Veranstalter steht der freie Zugang zu Wasser und
-Kunst im Mittelpunkt.
+[Trinkwasserprojekte von Viva con Agua](/2017/06/ethnotek-viva-con-agua/). Für
+die Veranstalter steht der freie Zugang zu Wasser und Kunst im Mittelpunkt.
 
 Die dieses Jahr unter der Decke des Konzertraums aufgehängten Tropfen stehen für
 eine bunte Welt, in der alle Farben echt sind. Alle Farben recht haben. Es keine
@@ -63,18 +61,15 @@ andere für ihre Herkunft verurteilt.
 
 Auch wir haben es dieses Jahr endlich geschafft einen Rundgang durch die
 Ausstellung zu machen. Das Werk eines ganz besonderen Künstlers habe ich Euch
-hier vor ein paar Tagen
-<a href="http://cardamonchai.com/2017/07/destreet/">bereits vorgestellt</a>. Wir
-haben uns einen ganzen Nachmittag Zeit genommen, um die Bilder und das
-Gesamtkunstwerk Millerntor Gallery auf uns wirken zu lassen. Besonders gut hat
-uns gefallen, dass viele der Kunstwerke direkt auf die Mauern der ehrwürdigen
-Hallen aufgebracht wurden.
+hier vor ein paar Tagen [bereits vorgestellt](/2017/07/destreet/). Wir haben uns
+einen ganzen Nachmittag Zeit genommen, um die Bilder und das Gesamtkunstwerk
+Millerntor Gallery auf uns wirken zu lassen. Besonders gut hat uns gefallen,
+dass viele der Kunstwerke direkt auf die Mauern der ehrwürdigen Hallen
+aufgebracht wurden.
 
 Wir haben wundervolle Eindrücke mit nach Hause genommen und freuen uns schon auf
 nächstes Jahr.
 
 [myflickr tag="annemillerntorgallery2017"]
 
-<a href="http://cardamonchai.com/2017/06/el-iris-de-lucy-las-palmas/">Meine
-Bilderserie von der Ausstellung "El iris de lucy" mit Werken zeitgenössischer
-Künstlerinnen aus Afrika im CAAM auf Gran Canaria, findet Ihr hier</a>.
+[Meine Bilderserie von der Ausstellung "El iris de lucy" mit Werken zeitgenössischer Künstlerinnen aus Afrika im CAAM auf Gran Canaria, findet Ihr hier](/2017/06/el-iris-de-lucy-las-palmas/).

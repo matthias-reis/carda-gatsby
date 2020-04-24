@@ -38,26 +38,24 @@ thumbnailId: "9271"
 subTitle: Auflauf mit Pastinaken und Kartoffeln
 ---
 
-![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-12-640x800.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Auflauf mit Pastinaken und Kartoffeln')
+![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-12-640x800.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Auflauf mit Pastinaken und Kartoffeln")
 
-<strong>Wie schon
-<a title="And the nominees are" href="/2014/11/19/and-the-nominees-are/">berichtet</a>,
-geht für mich zur Zeit nichts über einen leckeren Kartoffelauflauf. Deshalb
-kommt der auch in den verschiedensten Variantionen bei uns auf den Tisch.
-Zuletzt habe ich ein Rezept mit Pastinaken und selbst gemachtem veganem
-"Gratinierkäse" kreiert.</strong>## Die Kartoffel - Eine wunderbare Knolle
+<strong>Wie schon [berichtet](/2014/11/19/and-the-nominees-are/), geht für mich
+zur Zeit nichts über einen leckeren Kartoffelauflauf. Deshalb kommt der auch in
+den verschiedensten Variantionen bei uns auf den Tisch. Zuletzt habe ich ein
+Rezept mit Pastinaken und selbst gemachtem veganem "Gratinierkäse"
+kreiert.</strong>## Die Kartoffel - Eine wunderbare Knolle
 
 Da ich die einzelnen Schritte fotografiert habe und ich es für eine
 Verschwendung halte, die einfach nur in
-<a title="Anne bei Instagram" href="http://instagram.com/anne_reko" target="_blank">Instagram</a>
-zu teilen, habe ich es aufgeschrieben. Wenn Ihr Euch an die Mengenangaben
-haltet, reicht der Auflauf gut für 2 Personen, eine Person hat am nächsten Tag
-noch ein schönes Mittagessen (lässt sich prima aufwärmen). Ich wünsche Euch viel
-Spaß beim Nachkochen.
+[Instagram](http://instagram.com/anne_reko) zu teilen, habe ich es
+aufgeschrieben. Wenn Ihr Euch an die Mengenangaben haltet, reicht der Auflauf
+gut für 2 Personen, eine Person hat am nächsten Tag noch ein schönes Mittagessen
+(lässt sich prima aufwärmen). Ich wünsche Euch viel Spaß beim Nachkochen.
 
 ## Zubereitung
 
-![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-3-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Frische Zutaten')
+![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-3-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Frische Zutaten")
 
 Die Kartoffeln und die Pastinaken waschen und mit Schale in dünne Scheiben
 schneiden. Die Scheiben fächerartig immer abwechselnd Pastinaken- und
@@ -68,7 +66,7 @@ Die halbe Zitrone über dem Gemüse ausdrücken und im Anschluss gut drei Esslö
 Speiseöl dazugeben. Die Tomaten in Scheiben schneiden und über der ersten Lage
 verteilen.
 
-![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Das Gemüse fächerförmig schichten')
+![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Das Gemüse fächerförmig schichten")
 
 Hefeflocken, Nüsse, Hafermilch, 1 Teelöffel Meersalz, 2 Esslöffel Speiseöl,
 Pfeffer und Chili in den Smoothiemaker geben (Ich benutze den immer für Saucen,
@@ -80,7 +78,7 @@ glatte Masse entstanden ist.
 Den selbstgemachten "Gratinierkäse" gleichmäßig über dem Auflauf verteilen und
 diesen für gute 45 Minuten bei 190° C im Ofen garen.
 
-![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-14-640x427.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Fertig ist der Kartoffel-Pastinaken-Auflauf')
+![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-14-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Fertig ist der Kartoffel-Pastinaken-Auflauf")
 
 Fertig ist ein winterliches Gericht mit vielen leckeren Zutaten, gesunden
 Nährstoffen und vielen Vitaminen. Dazu passt sehr gut ein schönes Glas
@@ -89,14 +87,12 @@ Zitronenwasser, ein guter Minztee oder auch ein Schöppchen Weißwein.
 Servieren und genießen. &lt;3
 
 Täglich aktuelle Gerichte von mir findet Ihr auch immer in meinem
-<a title="Anne bei Instagram" href="http://instagram.com/anne_reko" target="_blank">Instagram-Kanal</a>.
+[Instagram-Kanal](http://instagram.com/anne_reko).
 
 Kulinarische Grüße Anne
 
 <strong>PS:</strong> Bei Vegan News findet Ihr aktuell einen Artikel von mir zum
 Thema Casomorphine, Käsesucht und wie man davon loskommt. Zum Lesen einfach auf
-den
-<a title="Casomorphine" href="http://www.vegan-news.de/casomorphine/" target="_blank">Link</a>
-klicken.
+den [Link](http://www.vegan-news.de/casomorphine/) klicken.
 
 [gallery columns="2" size="large" link="none" ids="9267,9268,9265,9269"]

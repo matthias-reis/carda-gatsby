@@ -105,17 +105,15 @@ Helga und Polonaise haben keinen Zutritt.
 ## Wegweiser DUNK!festival
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/02/dunkfestival-2016-wir-sind-auch-dabei/">DUNK!festival 2017 - Post-Rock in Begien</a></li>
-    <li><a href="http://cardamonchai.com/2017/05/dunkfestival-2017-es-geht-los/">DUNK!festival 2017 - Wir kommen!</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">DUNK!festival 2017 - Liebe auf den ersten Blick</a></li>
+    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
+    <li> [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/) </li>
+    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
     <li>DUNK!festival 2018 - Das Line-up</li>
-    <li><a href="http://cardamonchai.com/2018/05/wir-laeuten-die-festivalsaison-ein/">Wir läuten die Festivalsaison ein - Kurze Auszeit</a></li>
+    <li> [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/) </li>
     <li>DUNK!festival 2019 - Das Line-up</li>
 </ol>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)
 
 Quelle Titelbild, Artwork und Timetable:
-<a href="https://www.dunkfestival.be/" target="_blank" rel="noopener">Dunk!festival</a>
+[Dunk!festival](https://www.dunkfestival.be/)

@@ -31,7 +31,7 @@ Was kommt dabei heraus, wenn sich eine Gruppe Blogger\*innen verabreden, einen
 Text über ein Lied zu verfassen und ihn gleichzeitig zu veröffentlichen? Diese
 Frage hat sich Björn vom Blog Gartenbaukunst* gestellt und das Gartenblogger
 Blind Date ins Leben gerufen. Das musikalische Blogger Blind Date war geboren.
-Auch dieses Mal sind wieder 10 Blogger*innen<a href="#1"><sup>1</sup></a> dabei.
+Auch dieses Mal sind wieder 10 Blogger*innen [](#1) dabei.
 
 ## Blogger Blind Date #6 - Die Songauswahl
 
@@ -131,14 +131,14 @@ Prost Neujahr!
 ## Hier die Teilnehmerliste des musikalischen Blogger Blind Date #6
 
 <ul>
-    <li>Björn <a href="https://gartenbaukunst.net/" target="_blank" rel="noopener nofollow">Gartenbaukunst</a></li>
-    <li>Johanna <a href="https://www.garteneuphorie.de/" target="_blank" rel="noopener nofollow">Garteneuphorie</a></li>
-    <li>Anja <a href="https://der-kleine-horror-garten.de/" target="_blank" rel="noopener nofollow">Der kleine Horrorgarten</a></li>
-    <li>Franziska <a href="https://laubenhausmaedchen.de/" target="_blank" rel="noopener nofollow">Laubenhausmädchen</a></li>
-    <li>Elisa <a href="https://rienmakaefer.com/" target="_blank" rel="noopener nofollow">Rienmakaefer</a></li>
-    <li>Sandra <a href="https://www.beetkultur.de/" target="_blank" rel="noopener nofollow">Beetkultur</a></li>
-    <li>Daniela <a href="https://www.garteninspektor.com/" target="_blank" rel="noopener nofollow">Garteninspektor</a></li>
-    <li>Carla <a href="https://faunundfarn.de/" target="_blank" rel="noopener nofollow">Faun &amp; Farn</a></li>
-    <li>Laura und Sebastian <a href="https://www.naturgartenideen.de/" target="_blank" rel="noopener nofollow">Naturgartenideen</a></li>
+    <li>Björn  [Gartenbaukunst](https://gartenbaukunst.net/) </li>
+    <li>Johanna  [Garteneuphorie](https://www.garteneuphorie.de/) </li>
+    <li>Anja  [Der kleine Horrorgarten](https://der-kleine-horror-garten.de/) </li>
+    <li>Franziska  [Laubenhausmädchen](https://laubenhausmaedchen.de/) </li>
+    <li>Elisa  [Rienmakaefer](https://rienmakaefer.com/) </li>
+    <li>Sandra  [Beetkultur](https://www.beetkultur.de/) </li>
+    <li>Daniela  [Garteninspektor](https://www.garteninspektor.com/) </li>
+    <li>Carla  [Faun &amp; Farn](https://faunundfarn.de/) </li>
+    <li>Laura und Sebastian  [Naturgartenideen](https://www.naturgartenideen.de/) </li>
     <li>Anne bloggt cardamonchai</li>
 </ul>

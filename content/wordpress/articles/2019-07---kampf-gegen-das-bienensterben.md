@@ -68,12 +68,11 @@ genauer zu verstehen, muss man sich näher mit den fleißigen Insekten
 beschäftigen.
 
 Honig ist die von Insekten
-<a href="http://cardamonchai.com/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/">zur
-eigenen Nahrungsversorgung</a> hergestellte Masse aus ihren
-Ausscheidungsprodukten: Honigtau und Blütennektar. Die Bienen nehmen
-Blütennektar, Honigtau verschiedener Lausarten und Pflanzensaft auf und reichern
-ihn mit ihren körpereigenen Säften an. Sie speichern ihn in Waben, der Honig
-reift heran.
+[zur eigenen Nahrungsversorgung](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+hergestellte Masse aus ihren Ausscheidungsprodukten: Honigtau und Blütennektar.
+Die Bienen nehmen Blütennektar, Honigtau verschiedener Lausarten und
+Pflanzensaft auf und reichern ihn mit ihren körpereigenen Säften an. Sie
+speichern ihn in Waben, der Honig reift heran.
 
 ## Die Nährstoffe im Honig stärken das Immunsystem der Bienen
 
@@ -99,11 +98,10 @@ Pro Jahr werden weltweit ca. 1.650.000 Tonnen Honig hergestellt, so die Food
 Agriculture Organization of the United Nations. Allein in Deutschland sind es
 85.000 Tonnen, also mehr als ein Kilogramm Honig pro Einwohner.
 
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">Genau
-wie in der Milchindustrie</a>, geht es bei der Honiggewinnung darum, einen
-möglichst hohen Gewinn zu erzielen, die Tiere werden zur Nebensache. Sie werden
-in sogenannten Magazinen gehalten, die den echten Bienenstöcken nachempfunden
-sind.
+[Genau wie in der Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/), geht
+es bei der Honiggewinnung darum, einen möglichst hohen Gewinn zu erzielen, die
+Tiere werden zur Nebensache. Sie werden in sogenannten Magazinen gehalten, die
+den echten Bienenstöcken nachempfunden sind.
 
 ## Das Ausschwärmen der Bienen wird verhindert
 
@@ -170,11 +168,11 @@ Einsatz der Chemikalien bedroht.
 ![bienen](http://cardamonchai.com/wp-content/uploads/2019/07/anne-400x300.jpg "Biene bei der Sparrenburg in Bielefeld")
 
 Professor Peter Neumann aus Bern über
-<a href="https://easac.eu/press-releases/details/neonicotinoids-european-science-academies-call-for-debate-that-expands-beyond-bees/" target="_blank" rel="noopener">die
-Studie des EASAC</a> (European Academies Science Advisory Council): "Es gibt
-klare Beweise, dass bereits geringste Mengen Neonoctinoide chronische Effekte
-auf Pflanzenbestäubende Insekten haben können." In der Studie zeigte sich, dass
-sich unter anderem, dass der Neonicotionoid-Einsatz einen frühen Tod der
+[die Studie des EASAC](https://easac.eu/press-releases/details/neonicotinoids-european-science-academies-call-for-debate-that-expands-beyond-bees/)
+(European Academies Science Advisory Council): "Es gibt klare Beweise, dass
+bereits geringste Mengen Neonoctinoide chronische Effekte auf
+Pflanzenbestäubende Insekten haben können." In der Studie zeigte sich, dass sich
+unter anderem, dass der Neonicotionoid-Einsatz einen frühen Tod der
 Bienenköniginnen und eine geringe Fortpflanzungsrate bei Wildbienen nach sich
 zieht.
 
@@ -203,18 +201,14 @@ Saatgutbehandlung von Mais mit Nicotinoiden in Deutschland ausgesprochen wurde,
 das inzwischen auch für Rüben gilt, ist es wohl noch ein langer Weg, bis das
 Gift vollständig aus dem Verkehr gezogen wird.
 
-<a href="http://cardamonchai.com/2017/05/march-against-monsanto-2017/">Wir
-sollten Bienen in Frieden lassen</a>. Sie werden sich nur nachhaltig erholen
-können, wenn sie zu ihrer ursprünglichen Lebensart zurückkehren können und wir
-aufhören sie mit Gift zu drangsalieren und auszubeuten. Es gibt wunderbare
-Alternativen, man muss seinen Tee heutzutage nicht mehr mit Honig süßen. Ohne
-die faszinierenden Insekten werden wir Menschen es schwer haben, unser
-komplettes Ökosystem stünde auf der Kippe.
+[Wir sollten Bienen in Frieden lassen](/2017/05/march-against-monsanto-2017/).
+Sie werden sich nur nachhaltig erholen können, wenn sie zu ihrer ursprünglichen
+Lebensart zurückkehren können und wir aufhören sie mit Gift zu drangsalieren und
+auszubeuten. Es gibt wunderbare Alternativen, man muss seinen Tee heutzutage
+nicht mehr mit Honig süßen. Ohne die faszinierenden Insekten werden wir Menschen
+es schwer haben, unser komplettes Ökosystem stünde auf der Kippe.
 
-<a href="http://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/">Wie
-Wildbienen sich um ihren Nachwuchs kümmern, warum es so wichtig ist, Wildbienen
-Lebensraum zu bieten und wie Ihr das ganz einfach zu Hause auf Eurem Balkon oder
-im Garten machen könnt, könnt Ihr hier im Blog nachlesen.</a>
+[Wie Wildbienen sich um ihren Nachwuchs kümmern, warum es so wichtig ist, Wildbienen Lebensraum zu bieten und wie Ihr das ganz einfach zu Hause auf Eurem Balkon oder im Garten machen könnt, könnt Ihr hier im Blog nachlesen.](/2019/05/insektenhotel-bienen-auf-dem-balkon/)
 
 Wenn Euch der Artikel gefallen hat, freue ich mich über Euer positives Feedback.
 Ansonsten bin ich wie immer offen für Eure Anregungen und Kommentare.

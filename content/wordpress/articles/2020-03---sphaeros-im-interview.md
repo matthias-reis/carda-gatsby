@@ -41,9 +41,8 @@ lieben. Mit seinem Soloprojekt kombiniert er Musik, Film und Performance auf
 seine ganz persönliche Art und Weise.</strong>
 
 Vor Kurzem habe ich hier im Blog
-<a href="http://cardamonchai.com/2020/02/sphaeros-lucifero/">das neueste Video
-von Sphaèros</a> vorgestellt. Jetzt hat sich der Pariser Underground-Künstler zu
-einem Interview bereiterklärt.
+[das neueste Video von Sphaèros](/2020/02/sphaeros-lucifero/) vorgestellt. Jetzt
+hat sich der Pariser Underground-Künstler zu einem Interview bereiterklärt.
 
 Sphaèros hat in sieben Tagen sieben Musikstücke und sieben Filme kreiert. Laut
 eigener Aussage möchte er die Geister durch seine Arbeit sprechen lassen.

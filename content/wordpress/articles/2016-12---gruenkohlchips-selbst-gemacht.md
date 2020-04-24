@@ -64,8 +64,7 @@ entweichen kann.
 Ich wünsche Euch guten Appetit! Vorsicht, die Dinger machen süchtig! Falls
 welche übrig bleiben, könnt Ihr die Grünkohlchips in einer Plätzchendose
 aufheben. Beim Snacken könnt Ihr in meinem Blog noch
-<a href="http://cardamonchai.com/category/vegan-2/rezepte/">weitere Rezepte</a>
-entdecken.
+[weitere Rezepte](/category/vegan-2/rezepte/) entdecken.
 
 [gallery type="rectangular" size="large" link="none"
 ids="15464,15465,15467,15466"]

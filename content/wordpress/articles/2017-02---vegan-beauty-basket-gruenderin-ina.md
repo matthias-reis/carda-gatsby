@@ -42,17 +42,17 @@ vegane Kosmetikprodukte. Gründerin Ina legt besonderen Wert auf die Qualität
 aller Artikel und Ihrer Inhaltsstoffe.</strong>
 
 Alles ist tierversuchsfrei und fair produziert.
-<a href="http://cardamonchai.com/2016/09/vegan-beauty-basket-im-test/">Der Vegan
-Beauty Basket</a> erscheint alle zwei Monate. Von anderen Beauty Boxen
-unterscheidet er sich nicht nur dadurch, dass man sich als KundIn bei jeder
-Ausgabe mindestens ein Produkt selbst aussuchen kann.
+[Der Vegan Beauty Basket](/2016/09/vegan-beauty-basket-im-test/) erscheint alle
+zwei Monate. Von anderen Beauty Boxen unterscheidet er sich nicht nur dadurch,
+dass man sich als KundIn bei jeder Ausgabe mindestens ein Produkt selbst
+aussuchen kann.
 
 ![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2017/02/veganbeautybasket_web-640x640.jpg "Der Vegan Beauty Basket")
 
 Nachdem auch mein zweiter Vegan Beauty Basket
-<a href="http://cardamonchai.com/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/">Produkttest</a>
-hier im Blog vor Kurzem ein großer Erfolg war und nicht nur Ihr neugierig auf
-neue Infos seid, habe ich mich jetzt mit Ina zum Interview verabredet.
+[Produkttest](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) hier im
+Blog vor Kurzem ein großer Erfolg war und nicht nur Ihr neugierig auf neue Infos
+seid, habe ich mich jetzt mit Ina zum Interview verabredet.
 
 <strong>Anne:</strong> Hallo Ina! Ich freue mich sehr, Dich näher
 kennenzulernen! Vom Vegan Beauty Basket bin ich begeistert. Herzlichen
@@ -126,10 +126,10 @@ auch einige Favoriten unter den Kosmetikprodukten (lacht).
 
 Besonders liebe ich zum Beispiel die Hurraw Lipbalms. Sie wurden in der Box
 sogar schon zweimal vorgestellt, weil sie so gut ankommen. Das Haarserum von
-<a href="http://cardamonchai.com/2016/09/interview-lovely-day-botanicals/">Lovely
-Day Botanicals</a> ist außerdem unglaublich toll. Ich kann es jedem nur
-empfehlen. Die Produkte von Cremekampagne und i+m Naturkosmetik Berlin gehören
-ebenfalls zu meinen Lieblingen.
+[Lovely Day Botanicals](/2016/09/interview-lovely-day-botanicals/) ist außerdem
+unglaublich toll. Ich kann es jedem nur empfehlen. Die Produkte von
+Cremekampagne und i+m Naturkosmetik Berlin gehören ebenfalls zu meinen
+Lieblingen.
 
 ## „Bevor ein Produkt in den Vegan Beauty Basket kommt, führen wir umfangreiche Recherchen durch“
 
@@ -249,13 +249,12 @@ bald wieder! Alles Gute für Vegan Beauty Basket und für Deine weiteren Pläne!
 ## Wegweiser Vegan Beauty Basket
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/08/vegan-beauty-basket-gratis-aktion/">Der Basket im 3er-Abo 8/2016</a></li>
-    <li><a href="http://cardamonchai.com/2016/09/vegan-beauty-basket-im-test/">Im Test 9/2016</a></li>
-    <li><a href="http://cardamonchai.com/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/">Unboxing Weihnachtsedition 12/2016</a></li>
+    <li> [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/) </li>
+    <li> [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/) </li>
+    <li> [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) </li>
     <li>Interview mit Gründerin Ina 2/2017</li>
-    <li><a href="http://cardamonchai.com/2018/03/unboxing-vegan-beauty-basket-maerz/">Unboxing März-Ausgabe 3/2018</a></li>
+    <li> [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/) </li>
 </ol>
 
 Zum Vegan Beauty Basket geht es
-<a href="https://www.veganbeautybasket.com/" target="_blank" rel="noopener">hier
-entlang.</a>
+[hier entlang.](https://www.veganbeautybasket.com/)

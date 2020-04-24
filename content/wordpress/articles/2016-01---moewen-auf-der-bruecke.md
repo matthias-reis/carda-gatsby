@@ -35,8 +35,8 @@ subTitle: Fotogalerie und Gedicht
 <strong>
 
 Diese Aufnahmen sind genau wie die meine
-<a href="/2016/01/bluetenpracht-im-winter/">Bildergalerie</a> "Blütenpracht im
-Winter" am 24. Dezember beim Spazierengehen durch Planten und Blomen in Hamburg
+[Bildergalerie](/2016/01/bluetenpracht-im-winter/)  "Blütenpracht im Winter"
+am 24. Dezember beim Spazierengehen durch Planten und Blomen in Hamburg
 entstanden.
 
 Scrollt nach dem Betrachten der Bilder ruhig noch ein Bisschen weiter nach
@@ -63,26 +63,26 @@ den Fluß.
 ## Wegweiser Möwen
 
 <ol>
- 	<li><a href="/2010/01/moewen-am-bosporus/">Möwen am Bosporus (Januar 2010)</a></li>
- 	<li><a href="/2015/07/zurueck-nach-st-peter-ording/">Zurück nach St. Peter Ording (Juli 2015)</a></li>
- 	<li><a href="/2015/08/st-peter-ording/">St. Peter Ording - Perle an der Nordsee (August 2015)</a></li>
- 	<li><a href="/2015/11/birdwatching-am-timmendorfer-strand/">Birdwatching am Timmendorfer Strand (November 2015)</a></li>
- 	<li><a href="http://cardamonchai.com/2015/11/die-moewe/">Die Möwe, Kiel (November 2015)</a></li>
+ 	<li> [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/) </li>
+ 	<li> [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/) </li>
+ 	<li> [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/) </li>
+ 	<li> [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/) </li>
+ 	<li> [Die Möwe, Kiel (November 2015)](/2015/11/die-moewe/) </li>
  	<li>Möwen auf der Brücke (Januar 2016)</li>
- 	<li><a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)</a></li>
- 	<li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)</a></li>
- 	<li><a href="http://cardamonchai.com/2017/10/moewen-in-dublin/">Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)</a></li>
- 	<li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li>
- 	<li><a href="http://cardamonchai.com/2018/05/birds-of-westport/">Birds of Westport</a></li>
+ 	<li> [Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) </li>
+ 	<li> [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/) </li>
+ 	<li> [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/) </li>
+ 	<li> [Möwe am Wasser](/2018/01/moewe-am-wasser/) </li>
+ 	<li> [Birds of Westport](/2018/05/birds-of-westport/) </li>
 </ol>
 ## Wegweiser Planten un Blomen
 <ol>
- 	<li><a href="/2015/06/planten-un-blomen/">Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)</a><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
+ 	<li> [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/) <a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
 </a></li>
- 	<li><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">Ein Rundgang durch die Klimazonen (Januar 2016)</a></li>
- 	<li><a href="/2016/01/bluetenpracht-im-winter/">Blütenmeer im Winter (Januar 2016)</a></li>
+ 	<li> [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/) </li>
+ 	<li> [Blütenmeer im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/) </li>
  	<li>Möwen auf der Brücke (Januar 2016)</li>
- 	<li><a href="http://cardamonchai.com/2016/05/1-mai-bei-planten-un-blomen/">1. Mai bei Planten un Blomen (Mai 2016)</a></li>
- 	<li><a href="http://cardamonchai.com/2017/12/weihnachten-bei-planten-un-blomen/">Weihnachten bei Planten un Blomen (Dezember 2017)</a></li>
+ 	<li> [1. Mai bei Planten un Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/) </li>
+ 	<li> [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/) </li>
 </ol>
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

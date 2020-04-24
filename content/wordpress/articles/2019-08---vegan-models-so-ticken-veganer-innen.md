@@ -54,9 +54,8 @@ Vor Kurzem hat er mit "Vegan Models" ein neues Projekt aus der Taufe gehoben. In
 dieser Serie stellt er regelmäßig Veganer\*innen in den sozialen Netzwerken und
 auf seiner Homepage vor. Ich fühle mich sehr geehrt, dass ich die Erste sein
 durfte, die seine Fragen beantworten und vor seiner Linse posieren durfte. In
-der Hamburger
-<a href="http://cardamonchai.com/2017/01/liebe-sternschanze/">Sternschanze</a>
-sind dabei ein paar schöne Bilder entstanden.
+der Hamburger [Sternschanze](/2017/01/liebe-sternschanze/) sind dabei ein paar
+schöne Bilder entstanden.
 
 Jetzt hat sich Tobi auch meinem Interview gestellt und mir einiges über sein
 Leben, seine Berufung und sein Projekt verraten.
@@ -185,10 +184,9 @@ Dich vegan geworden. Wie kam das?
 mir diese vegane Lebensweise tut. Dabei habe ich einfach nur ohne Intention mit
 sehr viel Enthusiasmus berichtet. Ein paar Tage später kamen dann Fragen von
 Leuten, wie ich das im Alltag mache, wie das mit dem
-<a href="http://cardamonchai.com/2014/08/vitamin-b12-mythos-und-wahrheit/">Vitamin
-B12</a> funktioniert und so weiter. Genau ab diesem Punkt habe ich dann einfach
-beraten und die Personen haben gemerkt, dass die vegane Ernährung eine
-unglaubliche Vielfalt offenbart.
+[Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/) funktioniert und so
+weiter. Genau ab diesem Punkt habe ich dann einfach beraten und die Personen
+haben gemerkt, dass die vegane Ernährung eine unglaubliche Vielfalt offenbart.
 
 Ich glaube, man bekommt die Menschen eher mit Geschichten dazu, über ihre
 Gewohnheiten nachzudenken, als gezielt zu kritisieren. Man muss diesen Weg von
@@ -213,7 +211,6 @@ immer alles auf einmal haben.
 
 Hier ist für Euch Tobis Song "The Wind Cries Mary" von Jimi Hendrix. Ihr könnt
 den sympathischen Fotografen jederzeit
-<a href="https://tobiashess-photography.com/" target="_blank" rel="noopener">auf
-seiner Homepage besuchen</a>.
+[auf seiner Homepage besuchen](https://tobiashess-photography.com/).
 
 <iframe src="https://www.youtube.com/embed/ATDEtzAcTg0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

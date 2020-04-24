@@ -62,28 +62,27 @@ erworben werden, um ausgestoßene Treibhausgase auszugleichen.
 Schon seit 2014 könnt Ihr so Euren Teil zur Renaturierung des Königsmoors
 beitragen. Ihr gleicht damit <strong>Treibhausgase</strong>, die Ihr
 beispielsweise durch Flugreisen, Fahrten mit dem Auto oder Eure
-<a href="https://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/">Ernährung</a>
-erzeugt habt, aus und setzt Euch für die Wiederherstellung des Lebensraums
-zahlreicher seltenen Arten direkt bei uns vor der Haustür ein.
+[Ernährung](/2017/02/klimaschutz-und-vegane-ernaehrung/) erzeugt habt, aus und
+setzt Euch für die Wiederherstellung des Lebensraums zahlreicher seltenen Arten
+direkt bei uns vor der Haustür ein.
 
 ## So funktionieren die "MoorFutures®"
 
 Das klingt ja schon mal gut - und wie funktioniert das jetzt genau? Der Dreck,
 den ich hinterlassen habe, ist doch schließlich da, oder? Ja, das stimmt – der
 Ausgleich erfolgt an einer anderen Stelle. Bei
-<a href="https://cardamonchai.com/2016/01/wandern-im-hamburger-wittmoor/">Mooren</a>
-handelt es sich um die größten <strong>Kohlenstoffspeicher</strong> der Erde.
-Darum arbeitet man in Schleswig-Holstein auch bereits seit Ende 2011 mit
-Hochdruck an ihrer Wiederbelebung.
+[Mooren](/2016/01/wandern-im-hamburger-wittmoor/) handelt es sich um die größten
+<strong>Kohlenstoffspeicher</strong> der Erde. Darum arbeitet man in
+Schleswig-Holstein auch bereits seit Ende 2011 mit Hochdruck an ihrer
+Wiederbelebung.
 
 Klar: Indem man seinen
-<a href="https://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">Ökologischen
-Fußabdruck</a> so klein wie möglich hält und versucht, wo es geht,
-CO<sub>2</sub> einzusparen, tut man was fürs Klima. Wer die Umwelt schonen
-möchte, verbringt seinen Sommerurlaub also am besten am Baggersee um die Ecke.
-Doch auch Menschen, die es in die Ferne zieht, oder die beruflich oft verreisen
-müssen, können mit Klimaschutz-Projekten wie den "MoorFutures®" einen Ausgleich
-schaffen.
+[Ökologischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+so klein wie möglich hält und versucht, wo es geht, CO<sub>2</sub> einzusparen,
+tut man was fürs Klima. Wer die Umwelt schonen möchte, verbringt seinen
+Sommerurlaub also am besten am Baggersee um die Ecke. Doch auch Menschen, die es
+in die Ferne zieht, oder die beruflich oft verreisen müssen, können mit
+Klimaschutz-Projekten wie den "MoorFutures®" einen Ausgleich schaffen.
 
 ## erzeugen wir
 
@@ -96,15 +95,14 @@ Hamburg nach Mallorca und wieder zurück, fallen zwei Tonnen
 drei Tonnen (Vergleich aus der Lebensmittelherstellung: Ein Kilo Rindfleisch: 22
 Kilo, ein Kilo Getreide je nach Sorte rund vier bis neun Kilo
 CO<sub>2</sub>,Quelle:
-<a href="https://albert-schweitzer-stiftung.de/aktuell/1-kg-rindfleisch" target="_blank" rel="noopener nofollow">Albert
-Schweitzer Stiftung</a>) So, jetzt denkt Ihr schon anders über Eure nächste
-Fernreise nach, oder? Ich auch über meine.
+[Albert Schweitzer Stiftung](https://albert-schweitzer-stiftung.de/aktuell/1-kg-rindfleisch)
+) So, jetzt denkt Ihr schon anders über Eure nächste Fernreise nach, oder? Ich
+auch über meine.
 
 Und es hört nicht auf: Auf einer rund 3.000 Kilometer langen Reise mit einem
 Mittelklassewagen gelangt auch schon rund eine halbe Tonne schädliches
 Treibhausgas in die Atmosphäre. So wirklich "naturnah" ist so ein
-<a href="https://cardamonchai.com/tag/schweden2018/">Roadtrip</a> also auch
-nicht.
+[Roadtrip](/tag/schweden2018/) also auch nicht.
 
 Man kann seine <strong>Reisebilanz</strong> verbessern, indem man, wie schon
 erwähnt, gar nicht reist, oder möglichst viel Geld in Projekte steckt, die aktiv
@@ -187,8 +185,7 @@ und nach und die Torfbildung blieb aus.
 
 Das Königsmoor liegt im Bereich der Gemeinde Christiansholm im Landkreis
 Rendsburg-Eckernförde. Früher zählte es mit einer Fläche von insgesamt 2.000
-Hektar zu den größten
-<a href="https://cardamonchai.com/2012/02/fabelwesen-im-hochmoor/">Hochmoorregionen</a>
+Hektar zu den größten [Hochmoorregionen](/2012/02/fabelwesen-im-hochmoor/)
 innerhalb Schleswig-Holsteins. Leider begann man im Jahr 1915 mit der
 Trockenlegung des Moores.
 
@@ -213,27 +210,24 @@ rund 11 Tonnen pro Jahr. Studien zur Folge liegt der klimaverträgliche Wert bei
 2,7 Tonnen CO<sub>2</sub> pro Person und Jahr. Wie wichtig es ist, unsere
 Reserven zu schonen und den Klimawandel nicht noch schneller voranzutreiben,
 sollte jedem von uns so schnell wie möglich bewusst werden. Nicht wenigen
-Menschen <a href="https://cardamonchai.com/2018/10/underwater-hoa/">steht das
-Wasser schon heute im wörtlichen Sinne bis zum Hals</a>. So, wie wir heute
-leben,
-<a href="https://cardamonchai.com/2018/07/earth-overshoot-day-2018/">verbrauchen
-wir die Ressourcen von 1,7 Erden</a>. Das könnt Ihr tun
+Menschen
+[verbrauchen wir die Ressourcen von 1,7 Erden](/2018/10/underwater-hoa/). Das
+könnt Ihr tun
 
 <ul>
-    <li>Versucht, Euren CO<sub>2</sub> Fußabdruck so klein wie möglich zu halten, indem Ihr <a href="https://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/">auf tierische Lebensmittel</a>, Flugreisen, Fahrten mit dem Auto sowie Waren mit langen Transportwegen verzichtet.</li>
+    <li>Versucht, Euren CO<sub>2</sub> Fußabdruck so klein wie möglich zu halten, indem Ihr  [auf tierische Lebensmittel](/2017/02/klimaschutz-und-vegane-ernaehrung/),  Flugreisen, Fahrten mit dem Auto sowie Waren mit langen Transportwegen verzichtet.</li>
     <li>Informiert Euch über Ausgleichsmöglichkeiten.</li>
-    <li>Nutzt den Klimarechner des Umweltbundesamtes. Ihr findet ihn online unter <a href="http://uba.co2-rechner.de/de_DE/" target="_blank" rel="noopener nofollow">diesem Link</a>.</li>
-    <li>Lest Euch zum Thema "MoorFutures®" ein. Ihr findet das Projekt auf <a href="http://www.moorfutures.de" target="_blank" rel="noopener nofollow">dieser Seite</a>.
+    <li>Nutzt den Klimarechner des Umweltbundesamtes. Ihr findet ihn online unter  [diesem Link](http://uba.co2-rechner.de/de_DE/). </li>
+    <li>Lest Euch zum Thema "MoorFutures®" ein. Ihr findet das Projekt auf  [dieser Seite](http://www.moorfutures.de). 
 Verzichtet auf mit Torf angereicherte Blumenerde.</li>
 </ul>
 
 ## Weitere Infos
 
 Ich danke der
-<a href="http://www.stiftungsland.de" target="_blank" rel="noopener nofollow">Stiftung
-Naturschutz Schleswig-Holstein</a> und der Ausgleichsagentur Schleswig-Holstein
-für das beeindruckende Engagement und die Informationen, die es mir ermöglicht
-haben, diesen Artikel zu schreiben.
+[Stiftung Naturschutz Schleswig-Holstein](http://www.stiftungsland.de) und der
+Ausgleichsagentur Schleswig-Holstein für das beeindruckende Engagement und die
+Informationen, die es mir ermöglicht haben, diesen Artikel zu schreiben.
 
 <strong>Hinweise:</strong> Die Klimawirksamkeit des Königsmoor-Projektes wurde
 vom TÜV Rheinland gemäß ISO 14064-2 bestätigt. Die Ausgleichsagentur
@@ -242,8 +236,7 @@ Schleswig-Holstein.
 
 Wer mehr über den Ökologischen Fußabdruck erfahren möchte und gerne wissen
 möchte, wie man ihn berechnet und so klein wie möglich halten kann,
-<a href="https://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">findet
-hier einen interessanten Artikel zum Thema</a>.
+[findet hier einen interessanten Artikel zum Thema](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/).
 
 <strong>Fotos:</strong> Stiftung Naturschutz Schleswig-Holstein <strong>Motiv im
 Titel:</strong> Moorfrosch

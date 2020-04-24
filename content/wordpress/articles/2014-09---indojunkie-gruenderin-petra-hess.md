@@ -65,10 +65,9 @@ gingen mit Freunden feiern.
 Für Petra war immer klar, dass sie eines Tages auf die Reise gehen würde. 2006
 brach sie gemeinsam mit ein paar Freundinnen zum "Interrailing" einmal quer
 durch Europa und Afrika auf. Ich weiß das noch so genau, weil ich sie zusammen
-mit
-<a title="Alles andere wirkt unwichtig und banal" href="//2013/06/11/alles-andere-wirkt-unwichtig-und-banal/">Caro</a>
-bei ihrem Zwischenstop in Paris besuchte. Von diesem sogenannten
-"Interrail-Event" habe ich heute noch ein T-Shirt als Andenken.
+mit [Caro](//2013/06/11/alles-andere-wirkt-unwichtig-und-banal/) bei ihrem
+Zwischenstop in Paris besuchte. Von diesem sogenannten "Interrail-Event" habe
+ich heute noch ein T-Shirt als Andenken.
 
 ![Traditionelle Musik](http://cardamonchai.files.wordpress.com/2014/09/img_7902.jpg?w=300 "Traditionelle Musik")
 
@@ -78,25 +77,18 @@ als ich mich letztes Jahr für ein Wiedersehen mit Caro verabredet hatte, sahen
 auch wir uns wieder, denn wie es der Zufall wollte, waren meine beiden Reisenden
 gleichzeitig zu Besuch in der Stadt.
 
-Von
-<a title="Alles andere wirkt unwichtig und banal" href="//2013/06/11/alles-andere-wirkt-unwichtig-und-banal/">Caros
-Reise nach Istanbul</a> hatte ich ja hier schon vor einiger Zeit schon
-berichtet. Petras Reise ging noch etwas weiter, sie verbrachte ein
-Auslandssemester in Malaysia, verliebte sich in Südostasien und bereiste mit dem
-Backpacker auch Singapur, Indonesien, Thailand, Kambodscha und China. Kurz bevor
-Matze und ich zu unseren
-<a title="Hochzeitsreise" href="//category/unterwegs/hochzeitsreise/">Flitterwochen</a>
-nach Indonesien aufbrachen, postete ich einen Link an meiner Facebook-Pinnwand,
+Von [Flitterwochen](//2013/06/11/alles-andere-wirkt-unwichtig-und-banal/) nach
+Indonesien aufbrachen, postete ich einen Link an meiner Facebook-Pinnwand,
 irgendwas mit "Bald geht’s los nach Bali!". Es dauerte keine zwei Sekunden und
 Petra schrieb mich an und schwärmte über Bali und Indonesien.
 
 ![Petra und Melissa auf Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_6533.jpg?w=300 "Petra und Melissa auf Sulawesi")
 
 Leider war sie just zu der Zeit, zu der wir uns auf der
-<a title="Insel der Götter" href="//2013/08/03/unsere-grose-reise-6/">Insel der
-Götter</a> befanden, nicht im Lande, sonst hätten wir mit ihr sicher den
-perfekten Guide gehabt. Doch nun zu meinem eigentlichen Vorhaben. Vorstellungs-
-und Schwärm-Modus aus und Interview-Modus ein.
+[Insel der Götter](//2013/08/03/unsere-grose-reise-6/) befanden, nicht im Lande,
+sonst hätten wir mit ihr sicher den perfekten Guide gehabt. Doch nun zu meinem
+eigentlichen Vorhaben. Vorstellungs- und Schwärm-Modus aus und Interview-Modus
+ein.
 
 <strong>Anne:</strong> Hallo Petra! Vielen Dank, dass du dir die Zeit für das
 Interview nimmst!
@@ -138,10 +130,9 @@ ich dieses einmalige Flair zwischen Warungs, unzähligen Rollern, chinesischen
 Tempeln, Moscheen und Märkten am liebsten mit der Kamera einfangen wollte.
 Melissa hatte die Idee, in Sulawesi die wunderbaren Tauchspots zu testen und
 Land und Leute kennenzulernen, um darüber im Blog
-<a title="Indojunkie" href="http://indojunkie.com" target="_blank" rel="noopener">Indojunkie</a>
-zu berichten und ich wollte gerne eine Doku über Sulawesi drehen. Also zogen wir
-beide los, voller Energie und Lust, die Menschen auf dieser Insel näher
-kennenzulernen.
+[Indojunkie](http://indojunkie.com) zu berichten und ich wollte gerne eine Doku
+über Sulawesi drehen. Also zogen wir beide los, voller Energie und Lust, die
+Menschen auf dieser Insel näher kennenzulernen.
 
 Zurück kamen wir mit 2 TB Festplatten voller Videomaterial. Wir haben in
 Seenomadendörfern gelebt, waren auf Beerdigungszeremonien und Hochzeiten, bei
@@ -261,9 +252,9 @@ unserem Buch den Menschen und der Kultur auf Sulawesi ein Gesicht geben.
 
 <strong>Petra:</strong> Ihr könnt ein Buch bestellen! Oder noch besser –
 Sulawesibuddy werden! Einfach auf die Website
-<a href="http://www.startnext.de/sulawesi" target="_blank" rel="noopener">www.startnext.de/sulawesi</a>
-klicken und rechts die Supportmöglichkeit aussuchen. Auf startnext sind außerdem
-auch Videos aus unserer Zeit auf Sulawesi zu sehen.
+[www.startnext.de/sulawesi](http://www.startnext.de/sulawesi) klicken und rechts
+die Supportmöglichkeit aussuchen. Auf startnext sind außerdem auch Videos aus
+unserer Zeit auf Sulawesi zu sehen.
 
 Wir haben zwar bereits die 5.000 Euro-Grenze erreicht, freuen uns aber natürlich
 weiterhin über jede Bestellung, denn der Druck und das Design sind sehr teuer,
@@ -347,8 +338,7 @@ Buchs.</small></strong><strong><small>Melissa Schumacher ist Bloggerin,
 Studentin der Kulturwissenschaft und Indonesienjunkie. Sie ist zuständig für das
 Marketing, die Übersetzung der Interviews und die Inhalte des
 Buchs.</small></strong><strong><small>Wer Petra und Melissa gerne bei ihrem
-Projekt unterstützen möchte, kann
-<a title="Crowdfunding Sulawesi" href="http://www.startnext.de/sulawesi" target="_blank" rel="noopener">hier</a>
+Projekt unterstützen möchte, kann [hier](http://www.startnext.de/sulawesi)
 erfahren, wie es geht. Das Crowdfunding läuft noch die nächsten 8
 Tage.</small></strong>
 
@@ -360,5 +350,4 @@ Petra und Melissa sind diese Woche 2 Mal täglich im ARD in der Sendung
 "in.punkto" zu sehen. Melissa dazu: "Es war superspannend und hat richtig Spaß
 gemacht!" Hier der Link zum Beitrag in der ARD Mediathek:
 
-<a href="http://www.ardmediathek.de/tv/in-puncto/On-the-road-Inside-Indonesia/EinsPlus/Video?documentId=23487950&amp;bcastId=10535908">Melissa
-bei in.punkto</a>
+[Melissa bei in.punkto](http://www.ardmediathek.de/tv/in-puncto/On-the-road-Inside-Indonesia/EinsPlus/Video?documentId=23487950&bcastId=10535908)

@@ -50,15 +50,15 @@ subTitle: Von Sommersonne, Gipfelkreuzen und QR- Codes
 ![QR-Codes | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/08/248853_214502818571855_3833814_n-150x150.jpg "Ein Bild von einer tollen Party Anne 2009 oder so")
 
 <strong>Ich fliege in den Süden! Am 21. Oktober geht es los. Eine Woche Türkei
-mit <a title="Hoochi" href="https://hoochi1107.wordpress.com/">Hoochi</a>. Ich
-freue mich sehr. Jetzt kann das Wetter hier meinetwegen machen, was es will. Ich
-werde dieses Jahr auf jeden Fall noch die Sonne sehen.</strong>
+mit [Hoochi](https://hoochi1107.wordpress.com/). Ich freue mich sehr. Jetzt kann
+das Wetter hier meinetwegen machen, was es will. Ich werde dieses Jahr auf jeden
+Fall noch die Sonne sehen.</strong>
 
 Außerdem freue ich mich sehr, endlich mal wieder in die Türkei zu kommen. Wie
 sehr ich dieses Land liebe. Dabei fällt mir ein, ich hätte da sicher noch den
 ein oder anderen Fotobeitrag in petto, denn wenn man auf meiner Seite 'Türkei'
-in die Suche eingibt, findet man bis jetzt nur <a href="//category/turkei/">das
-hier</a>. Das sollte ich auf jeden Fall ändern.
+in die Suche eingibt, findet man bis jetzt nur [das hier](//category/turkei/).
+Das sollte ich auf jeden Fall ändern.
 
 Desweiteren habe ich mir überlegt, im Frühling meine Caro in Istanbul zu
 besuchen. Ich vermisse sie. Und ich vermisse Istanbul. Es wäre wunderbar, wenn
@@ -90,7 +90,6 @@ Gözlüm:</strong></em>
 <em>\*Übrigens hat mich dieser Blogeintrag auf die Idee gebracht, einen QR-Code
 für mein Blog zu erstellen. Er ist auf dem Bild zu sehen. Ich überlege ihn, für
 meine Visitenkarten zu verwenden. Wer auch gerne QR-Codes bauen möchte: Ihr
-könnt das ganz einfach
-<a title="QR-Code Generator" href="http://goqr.me/de/">hier</a> nachmachen.</em>
+könnt das ganz einfach [hier](http://goqr.me/de/) nachmachen.</em>
 
 ![QR-Codes | full](http://cardamonchai.com/wp-content/uploads/2012/08/p853a7ff47b5d43e12e5a130a9d32972da.png "cardaqr")

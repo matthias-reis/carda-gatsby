@@ -27,10 +27,9 @@ thumbnailId: "25408"
 subTitle: Festungsanlage in Bielefelds Mitte
 ---
 
-<strong>Dass wir einen
-<a href="http://cardamonchai.com/2019/07/bielefeld/">Ausflug nach Bielefeld</a>
-gemacht haben, wisst Ihr. Dort haben wir auch die Sparrenburg besucht - eine
-spannende Besichtigung.</strong>
+<strong>Dass wir einen [Ausflug nach Bielefeld](/2019/07/bielefeld/) gemacht
+haben, wisst Ihr. Dort haben wir auch die Sparrenburg besucht - eine spannende
+Besichtigung.</strong>
 
 Kennt Ihr das? Manchmal kommen einem Dinge, die man als Kind das letzte Mal
 gesehen hat, irgendwie kleiner vor. Das ist auch ganz natürlich: Damals waren
@@ -52,10 +51,9 @@ Ende des 17. Jahrhunderts zusehends verfiel, wurde ab dem 19. Jahrhundert
 wiederhergestellt und mit einem neuen Aussichtstum ausgestattet.
 
 Sie liegt in 180 Metern Höhe eingebettet vom
-<a href="http://cardamonchai.com/2019/08/teutoburger-wald/">Teutoburger Wald</a>
-auf dem Sparrenberg. Sie ist das Wahrzeichen Bielefelds und wird von der Stadt
-liebevoll gehegt und gepflegt. Jährlich findet auf dem Gelände der Burg das
-Sparrenburgfest statt.
+[Teutoburger Wald](/2019/08/teutoburger-wald/) auf dem Sparrenberg. Sie ist das
+Wahrzeichen Bielefelds und wird von der Stadt liebevoll gehegt und gepflegt.
+Jährlich findet auf dem Gelände der Burg das Sparrenburgfest statt.
 
 Wer die Sparrenburg besichtigen möchte, braucht keinen Eintritt zu Zahlen,
 lediglich das Besteigen des Turms kostet zwei Euro. Für sechs Euro kann man ein
@@ -65,6 +63,4 @@ inbegriffen sind.
 [glry name="sparrenburg2019anne"]
 
 Quellen:
-<a href="https://www.bielefeld.de/de/ti/sehenswuerdigkeiten/sparrenburg/" target="_blank" rel="noopener nofollow">bielefeld.de</a>,
-<a href="https://de.wikipedia.org/wiki/Sparrenburg" target="_blank" rel="noopener">Wikipedia
-Sparrenburg</a>
+[Wikipedia Sparrenburg](https://www.bielefeld.de/de/ti/sehenswuerdigkeiten/sparrenburg/)

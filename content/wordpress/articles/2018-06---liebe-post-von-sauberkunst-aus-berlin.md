@@ -57,10 +57,10 @@ subTitle: Poseidon und Rosenstolz
 <em>Werbung\*</em>
 
 <strong>Vor Kurzem war ich zum Bloggerevent von
-<a href="http://cardamonchai.com/2018/02/unboxing-sauberkunst/">Sauberkunst</a>
-nach Berlin eingeladen. Leider war ich an diesem Wochenende schon komplett
-ausgebucht und konnte nicht kommen. Als Trostpflaster haben mich die Lieben mit
-einem tollen Paket überrascht. Den Inhalt möchte ich Euch heute zeigen.</strong>
+[Sauberkunst](/2018/02/unboxing-sauberkunst/) nach Berlin eingeladen. Leider war
+ich an diesem Wochenende schon komplett ausgebucht und konnte nicht kommen. Als
+Trostpflaster haben mich die Lieben mit einem tollen Paket überrascht. Den
+Inhalt möchte ich Euch heute zeigen.</strong>
 
 Besonders toll finde ich wie immer die himmlisch duftenden Körperseifen. Ich
 liebe es, damit zu duschen. Ganz ohne Plastik und ganz ohne schlechtes Gewissen.
@@ -102,10 +102,7 @@ kann. Vielen Dank an die Crew für das liebevoll persönlich zusammengestellte
 Päckchen mit dem tollen Inhalt. Ihr seid klasse!
 
 Kennt Ihr schon meinen letzten Sauberkunst Unboxing Artikel? Noch nicht? Dann
-lest mal <a href="http://cardamonchai.com/2018/02/unboxing-sauberkunst/">hier
-rein</a>. Wer auch mal schnuppern möchte, kann direkt bei Sauberkunst auf
-<a href="http://www.sauberkunst.de" target="_blank" rel="noopener">Homepage</a>
-stöbern gehen. Viel Spaß!
+lest mal [Homepage](/2018/02/unboxing-sauberkunst/) stöbern gehen. Viel Spaß!
 
 [gallery type="rectangular" link="none" size="large"
 ids="21118,21119,21117,21116"]
@@ -114,5 +111,4 @@ ids="21118,21119,21117,21116"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

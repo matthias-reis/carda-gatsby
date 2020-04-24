@@ -33,18 +33,16 @@ Urban Fantasy sollten jetzt in den Buchladen gehen!</strong>
 
 Die letzten Tage waren sehr spannend für Matze und mich. Am Sonntag, den 3.
 Februar haben wir unser Buch bei BOD veröffentlicht. Das bedeutet: An diesem Tag
-wurde es in Auftrag gegeben und es hat seine ISBN
-(<a href="https://amzn.to/2IbmJIE" target="_blank" rel="noopener nofollow">978-3748126522</a>)
-bekommen. Als offizielles VÖ-Datum geht der 12. Februar in die Geschichte ein.
+wurde es in Auftrag gegeben und es hat seine ISBN (
+[978-3748126522](https://amzn.to/2IbmJIE) ) bekommen. Als offizielles VÖ-Datum
+geht der 12. Februar in die Geschichte ein.
 <a href="https://www.amazon.de/gp/product/3748126522/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3748126522&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=27f848830a15bef9cd7540533f46ca3c" target="_blank" rel="noopener nofollow">
 <strong>Inzwischen ist "Die Hermetiker" von A.M. Reis bestellbar!</strong> Das
 heißt, Ihr könnt in den Buchladen Eures Vertrauens gehen und es unter der Angabe
 der ISBN bestellen. Wir fänden es sogar noch toller, wenn Ihr darum bittet, dass
 noch ein paar weitere Exemplare bestellt und der Auslage hinzugefügt werden. Wir
 freuen uns nämlich, wenn so viele Menschen wie möglich unseren Roman lesen! Ganz
-Eilige können auch
-<a href="https://amzn.to/2IbmJIE" target="_blank" rel="noopener nofollow">über
-Amazon bestellen</a>.
+Eilige können auch [über Amazon bestellen](https://amzn.to/2IbmJIE).
 
 ## "Die Hermetiker" - darum geht es
 
@@ -77,20 +75,11 @@ entstanden. Matze ist für das Thema, die Handlungsstränge und den roten Faden
 verantwortlich und ich habe die Charaktere ausgearbeitet und die Texte
 gestaltet.
 
-"<a href="https://amzn.to/2IbmJIE" target="_blank" rel="noopener nofollow">Die
-Hermetiker</a>" ist eine spannende Urban Fantasy Story mit Thriller-Elementen.
-Besonderheiten sind die verschiedenen Zeiten, in denen sie spielt, sowie die
-zwischen den verschiedenen Figuren wechselnde Perspektive. Matzes Enthusiasmus
-für Wissenschaft und Technik sowie meine Begeisterung für Reisen und Abenteuer
-könnt Ihr möglicherweise an der einen oder anderen Stelle herauslesen. Doch ich
-möchte noch nicht zu viel verraten. Wir wünschen Euch viel Spaß beim Lesen! Wer
-mehr über uns und unseren Roman erfahren möchte, kann uns jederzeit auf unserer
-<a href="https://amreis.de/ha121" target="_blank" rel="noopener">Autorenseite</a>
-besuchen. wir freuen uns auf Euch!
+"[Autorenseite](https://amzn.to/2IbmJIE) besuchen. wir freuen uns auf Euch!
 
 <iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3748126522&amp;asins=3748126522&amp;linkId=0725512b84f13a5f2ca14219ec7087cf&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
 </iframe>
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung in eigener Sache. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

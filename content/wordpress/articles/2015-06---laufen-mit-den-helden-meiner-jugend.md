@@ -42,15 +42,14 @@ subTitle: Feuert mich an!
 
 <strong>Nachdem sich langsam aber sicher nach und nach das Gefühl eingestellt
 hat, endlich wieder etwas tun zu müssen und ich mich körperlich nach diversen
-nervigen
-<a href="http://cardamonchai.com/2014/11/auf-dem-weg-zur-tiefenentspannung/">Zipperlein</a>
-nun wieder dazu in der Lage fühle, bin ich am Montag endlich wieder angelaufen.
-Und was soll ich sagen? Ich fühle mich gut.</strong>
+nervigen [Zipperlein](/2014/11/auf-dem-weg-zur-tiefenentspannung/) nun wieder
+dazu in der Lage fühle, bin ich am Montag endlich wieder angelaufen. Und was
+soll ich sagen? Ich fühle mich gut.</strong>
 
 Nach dem gemütlichen Warmlaufen am Montag und einem kleinen unglaublich
-aufbauenden, genialen Motivationslauf (Storyrun<a href="#1"><sup>1</sup></a> von
-Runtastic) am Dienstag tat ich heute etwas, was ich schon viel früher hätte tun
-sollen: Ich habe die Helden meiner Jugend wieder ausgepackt.
+aufbauenden, genialen Motivationslauf (Storyrun [](#1) von Runtastic) am
+Dienstag tat ich heute etwas, was ich schon viel früher hätte tun sollen: Ich
+habe die Helden meiner Jugend wieder ausgepackt.
 
 Ich bin mit DJ Hell um die Häuser gezogen. Einem plötzlichen inneren Impuls
 folgend packte ich sein mit schweißtreibenden Beats bepacktes Album "Munich
@@ -108,7 +107,4 @@ Sonnige Grüße aus Hamburg sendet Euch Anne &lt;3
 
 [1]
 <a href="http://blog.runtastic.com/de/runtastic-all-about/story-run-reise-zum-wunschgewicht/" target="_blank" rel="noopener">Storyrun
-von Runtastic
-</a><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+von Runtastic </a> [](/2015/03/die-ultimative-vegane-festivalliste)

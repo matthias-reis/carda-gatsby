@@ -28,7 +28,6 @@ thumbnailId: "2785"
 subTitle: Vögel, Säugetiere und Reptilien vor der Linse
 ---
 
-<a href="http://cardamonchai.com/2015/04/wie-ich-zu-zoos-stehe/">Wie ich zu Zoos
-stehe</a>
+[Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/)
 
 [myflickr tag="zoo20111210"]

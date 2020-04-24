@@ -54,10 +54,8 @@ werden.
 ## Ein Preisgekröntes Festival in England
 
 2018 wurde dem ArcTanGent Festival der Preis für das beste kleine Festival
-innerhalb der
-<a href="https://cardamonchai.com/category/unterwegs/england/">UK</a> verliehen
-und auch auf der Shortlist für den Award für das beste Line-up ist es
-aufgeführt.
+innerhalb der [UK](/category/unterwegs/england/) verliehen und auch auf der
+Shortlist für den Award für das beste Line-up ist es aufgeführt.
 
 Auf einem überschaubaren Gelände werden insgesamt etwa 90 Bands auf vier Bühnen
 spielen. Für das leibliche Wohl sorgen ausgewählte Foodtrucks sowie lokale
@@ -67,10 +65,10 @@ Jeden Abend gibt es zum Ausklang von 23 Uhr bis 3 Uhr eine Silent Disco, die
 sich Besucher\*innen zufolge schon jetzt zu einer Kultveranstaltung gemausert
 haben soll. Auf diesen Teil der Veranstaltung bin ich persönlich schon sehr
 neugierig - auf dem
-<a href="http://cardamonchai.com/2012/07/isle-of-wight-festival-2012/">Isle Of
-Wight Festival</a> bin ich schon einmal in den Genuss einer Kopfhörerparty
-gekommen. Ich kann mir vorstellen, dass sie mit von Anfang bis Ende genialer
-Musik zu einem unvergesslichen Erlebnis werden kann.
+[Isle Of Wight Festival](/2012/07/isle-of-wight-festival-2012/) bin ich schon
+einmal in den Genuss einer Kopfhörerparty gekommen. Ich kann mir vorstellen,
+dass sie mit von Anfang bis Ende genialer Musik zu einem unvergesslichen
+Erlebnis werden kann.
 
 ### Das sagt Metal Hammer
 
@@ -102,15 +100,11 @@ The Riots, Conjorer, Yvette Young, Ithaca, Big Lad
 
 ### Freitag
 
-Battles,
-<a href="http://cardamonchai.com/2017/02/russian-circles-knust-hamburg-2017/" target="_blank" rel="noopener">Russian
-Circles</a>, 65 Days Of Static,
-<a href="http://cardamonchai.com/2019/04/the-ocean-live-im-hamburger-logo/">The
-Ocean</a>, Thank You Scientist, Standards, Good Game, A. A. Williams, TThing,
-The Black Queen, Toska, The Algorithm, Puerto Austral, Slow Crush, We Never
-Learned To Live, Frontierer, Zu, Sleep Token, Birds In Row, All The Best Tapes,
-Dags!, CLT DRP, Brutus, Colossal Squid, Palm Reader, Sithu Aye, Too Piste, Rad
-Pitt, Cattle, Hexcut
+Battles, [The Ocean](/2017/02/russian-circles-knust-hamburg-2017/), Thank You
+Scientist, Standards, Good Game, A. A. Williams, TThing, The Black Queen, Toska,
+The Algorithm, Puerto Austral, Slow Crush, We Never Learned To Live, Frontierer,
+Zu, Sleep Token, Birds In Row, All The Best Tapes, Dags!, CLT DRP, Brutus,
+Colossal Squid, Palm Reader, Sithu Aye, Too Piste, Rad Pitt, Cattle, Hexcut
 
 ![arctangent-timetable-freitag | full](http://cardamonchai.com/wp-content/uploads/2019/05/arctangent-lineup-timetable-1.jpg "Der Freitag auf dem ArcTanGent")
 
@@ -118,11 +112,11 @@ Pitt, Cattle, Hexcut
 
 Messhuggah, Cult Of Luna, Secret Guests, Three Trapped Tigers, The Physics House
 Band, Matt Calvert, The St. Pierre Snake Invasion, DJ Perro,
-<a href="http://cardamonchai.com/2015/11/caspian-live-hafenklang-hamburg/" target="_blank" rel="noopener">Caspian</a>,
-Gnod, The Contortionist, Invalids, Curse These Metal Hands, Kaguu, Wild Cat
-Strike, Employed To Serve, Car Bomb, Elephant Gym, Azusa, Aming For Enrike,
-Gender Roles, Ogives Big Band, Doblecapa, Voronoi, Letters From The Colony,
-Puppy, Llnn, Amnt, Mids Fall, Sugar Horse
+[Caspian](/2015/11/caspian-live-hafenklang-hamburg/), Gnod, The Contortionist,
+Invalids, Curse These Metal Hands, Kaguu, Wild Cat Strike, Employed To Serve,
+Car Bomb, Elephant Gym, Azusa, Aming For Enrike, Gender Roles, Ogives Big Band,
+Doblecapa, Voronoi, Letters From The Colony, Puppy, Llnn, Amnt, Mids Fall, Sugar
+Horse
 
 ![arctangent-timetable-samstag | full](http://cardamonchai.com/wp-content/uploads/2019/05/arctangent-lineup-timetable-2.jpg "Der Samstag auf dem ArcTanGent")
 
@@ -157,13 +151,9 @@ Das ArcTanGent findet dieses Jahr vom 15. bis zum 17. August statt.
 Tickets inklusive drei Tage Camping kosten 115 Pfund. Wer die Glamping-Option
 nutzen möchte, zahlt mehr.
 
-Weitere Fakten sind auf der
-<a href="https://arctangent.co.uk" target="_blank" rel="noopener">ArcTanGent
-Homepage</a> zu finden.
+Weitere Fakten sind auf der [ArcTanGent Homepage](https://arctangent.co.uk) zu
+finden.
 
-Pictures in this article:
-<a href="https://arctangent.co.uk/" target="_blank" rel="noopener">ArcTanGent</a>
+Pictures in this article: [ArcTanGent](https://arctangent.co.uk/)
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

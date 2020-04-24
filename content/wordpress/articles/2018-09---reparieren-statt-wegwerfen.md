@@ -109,16 +109,14 @@ scheint aufzugehen. Inzwischen gibt es Dependancen in Deutschland und Italien.
 Weitere Standorte sind geplant. Die Ersatzteile werden auf der eigenen Homepage,
 auf Ebay und auf Amazon angeboten.
 
-Die Repair Cafés sind online
-<a href="https://repaircafe.org/de/" target="_blank" rel="noopener">hier zu
-finden</a>. Schaut doch mal in Eurer Stadt, ob es eines gibt, hier in Hamburg
-findet man gleich mehrere. Eines davon ist nur 700 Meter von meiner Haustür
-entfernt. Ich glaube, das nächste Mal, wenn bei mir etwas kaputt geht, gehe ich
-da auch mal vorbei.
+Die Repair Cafés sind online [hier zu finden](https://repaircafe.org/de/).
+Schaut doch mal in Eurer Stadt, ob es eines gibt, hier in Hamburg findet man
+gleich mehrere. Eines davon ist nur 700 Meter von meiner Haustür entfernt. Ich
+glaube, das nächste Mal, wenn bei mir etwas kaputt geht, gehe ich da auch mal
+vorbei.
 
 <small>Fotos und Pressemeldung: Havana Orange GmbH, München</small>
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

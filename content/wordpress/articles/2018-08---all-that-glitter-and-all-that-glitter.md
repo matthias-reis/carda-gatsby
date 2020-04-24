@@ -44,13 +44,13 @@ subTitle: Veganer Bio-Glitter von Naissance im Test
 <strong>Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner
 glücklich. Doch leider ist Glitter auch eine Umweltbelastung. Abgespült gelangen
 die kleinen Partikelchen ins Grundwasser und verbinden sich mit anderen
-<a href="http://cardamonchai.com/2018/05/mikroplastik-in-der-kosmetik/">Mikroplastik</a>-Teilchen.</strong>
+[Mikroplastik](/2018/05/mikroplastik-in-der-kosmetik/) -Teilchen.</strong>
 
 Nicht so der vegane Bio-Glitter von Naissance. Ich hatte jetzt die Möglichkeit,
 ihn zu testen. Dabei habe ich ganz nebenbei ein super lustiges Fotoshooting
 erlebt. Die Bilder könnt Ihr anbei sehen. Auf dem nächsten
-<a href="https://cardamonchai.com/category/musik/festivals/">Festival</a> werde
-ich bestimmt eine Menge Spaß mit Glitter haben.
+[Festival](/category/musik/festivals/) werde ich bestimmt eine Menge Spaß mit
+Glitter haben.
 
 ## Und hier mein Testbericht
 
@@ -66,7 +66,7 @@ Ihr müsst Euch dabei auch keine Sorgen machen: Die Partikel sind wasserlöslich
 
 Für den "Hausgebrauch", sprich für ein glänzendes Party Make-up kann ich ganz
 klar empfehlen, das gewünschte Muster vorab mit einem feinen Pinsel und etwas
-<a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fde%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik" target="_blank" rel="noopener">Gesichtscreme</a>
+[Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fde%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik)
 vorzuzeichnen und anschließend mit einem feinen Lidschattenpinsel den
 Glitterpuder aufzutupfen.
 
@@ -98,9 +98,9 @@ Bilderserie habe ich mich für den feinen Glitter in himmelblau entschieden.
 
 Zum Befestigen könnt Ihr wie ich einfach Gesichtscreme nehmen, oder Ihr macht es
 so, wie der Hersteller es empfiehlt und nehmt das
-<a href="https://www.amazon.de/gp/product/B00E4OLCEG/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=B00E4OLCEG&amp;linkCode=as2&amp;tag=cardamonchai-21&amp;linkId=6e86a39707db85a1e890e313c35cccee" target="_blank" rel="noopener">Aloe
-Vera Gel</a> von Naissance als "Kleber". Übrigens könnt ihr den Glitzer auch gut
-als lustigen Zusatz für selbstgemachte Badebomben oder Seifen benutzen.
+[Aloe Vera Gel](https://www.amazon.de/gp/product/B00E4OLCEG/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00E4OLCEG&linkCode=as2&tag=cardamonchai-21&linkId=6e86a39707db85a1e890e313c35cccee)
+von Naissance als "Kleber". Übrigens könnt ihr den Glitzer auch gut als lustigen
+Zusatz für selbstgemachte Badebomben oder Seifen benutzen.
 
 [gallery type="square" size="medium" link="none"
 ids="21690,21688,21689,21687,21686"]
@@ -108,7 +108,6 @@ ids="21690,21688,21689,21687,21686"]
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>
 
-<a href="https://www.enaissance.de/index.php?route=product/search&amp;search=Glitzer&amp;sub_category=true&amp;description=true" target="_blank" rel="noopener">Hier
-könnt Ihr den Bio-Glitter online erwerben</a>.
+[Hier könnt Ihr den Bio-Glitter online erwerben](https://www.enaissance.de/index.php?route=product/search&search=Glitzer&sub_category=true&description=true).

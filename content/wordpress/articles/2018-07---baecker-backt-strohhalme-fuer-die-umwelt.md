@@ -46,10 +46,10 @@ letzter Zeit Strohalme aus Plastik. Sie werden nur einmal benutzt und landen
 dann oft in der Natur.</strong>
 
 Viele Bars und Geschäfte setzen daher seit einiger Zeit auf Strohhalme aus
-Papier statt aus <a href="https://cardamonchai.com/?s=Plastik">Plastik</a>. Auch
-Maisstärke ist ganz groß im Kommen. Bäckermeister Hans-Martin Rolf aus Bielefeld
-bietet seinen Kunden, die seinen Milchkaffee gerne durch einen Strohhalm
-trinken, jetzt einen ganz besonderen Ersatz an: Makkaroni!
+Papier statt aus [Plastik](/?s=Plastik). Auch Maisstärke ist ganz groß im
+Kommen. Bäckermeister Hans-Martin Rolf aus Bielefeld bietet seinen Kunden, die
+seinen Milchkaffee gerne durch einen Strohhalm trinken, jetzt einen ganz
+besonderen Ersatz an: Makkaroni!
 
 Nachdem einer Mitarbeiterin die Idee gekommen war, startete man einen Test und
 siehe da: Es funktionierte! Bei heißem Kaffee halten die Nudeln rund 20 Minuten
@@ -88,6 +88,5 @@ mehr Menschen wach und man bekommt seinen Iced Latte in Zukunft auch aus einem
 Glas genießen oder bekommt die Brötchen beim Discounter schon morgen in einer
 Tüte ohne Sichtfenster.
 
-<strong>Foto:</strong>
-<a href="https://pixabay.com/en/users/Couleur-1195798/" target="_blank" rel="noopener">Colour</a>,
+<strong>Foto:</strong> [Colour](https://pixabay.com/en/users/Couleur-1195798/),
 pixabay

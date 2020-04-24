@@ -60,9 +60,7 @@ also kein Wunder, dass wir uns nichts anderes mehr vorstellen können.
 
 Die Natur ist auf Bienen als bestäubende Insekten angewiesen. Ohne sie würde
 auch die Vegetation nach und nach aussterben.
-<a href="http://cardamonchai.com/2019/07/kampf-gegen-das-bienensterben/" target="_blank" rel="noopener">Die
-Bienen werden vor allem durch Insektizide, Pflanzenschutzmittel (vor allem
-Neonicotinoide) und die Varroamilbe massiv bedroht</a>.
+[Die Bienen werden vor allem durch Insektizide, Pflanzenschutzmittel (vor allem Neonicotinoide) und die Varroamilbe massiv bedroht](/2019/07/kampf-gegen-das-bienensterben/).
 
 ## Vorsicht Verwechslungsgefahr
 
@@ -74,10 +72,9 @@ Wildbienenarten  (Ursprünglich in Mitteleuropa hingegen nur eine einzige
 heimische Honigbienenart) gibt, ist weitestgehend unbekannt. Unsere einheimische
 Honigbiene (Dunkle Honigbiene) ist bereits so gut wie ausgestorben. Redet man
 heute von "Honigbienen", sind in der Regel Zuchtbienen gemeint. Diese sind,
-genau wie
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/" target="_blank" rel="noopener">Milchkühe</a>,
-auf Leistung gezüchtet. Aus diesem Grund sind sie häufig sehr anfällig für
-Parasitenbefall und Krankheiten.
+genau wie [Milchkühe](/2014/09/pflanzenmilch-wieso-denn-blos/), auf Leistung
+gezüchtet. Aus diesem Grund sind sie häufig sehr anfällig für Parasitenbefall
+und Krankheiten.
 
 Immer mehr Wildbienen landen auf der roten Liste der aussterbenden Arten. In
 Deutschland sind es bereits traurige 53 Prozent. Es ist also Handeln gefragt.
@@ -92,11 +89,11 @@ Aufmerksamkeit schenken.
 ![Biene sammelt Nektar](http://cardamonchai.com/wp-content/uploads/2014/10/14357441908_09b3d46f87_z-640x427.jpg "Biene sammelt Nektar")
 
 In meinem Artikel
-"<a href="https://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/">Wie
-funktioniert ein Insektenhotel</a>" erfahrt Ihr unter anderem, dass eine
-Wildbiene während ihrer vier- bis sechswöchigen Flugzeit nur etwa zwanzig bis
-vierzig Brutzellen anlegen kann. Im nächsten Jahr schlüpfen dann etwa zehn
-weibliche Bienen aus, die sich weiter fortpflanzen können.
+"[Wie funktioniert ein Insektenhotel](/2019/05/insektenhotel-bienen-auf-dem-balkon/)"
+erfahrt Ihr unter anderem, dass eine Wildbiene während ihrer vier- bis
+sechswöchigen Flugzeit nur etwa zwanzig bis vierzig Brutzellen anlegen kann. Im
+nächsten Jahr schlüpfen dann etwa zehn weibliche Bienen aus, die sich weiter
+fortpflanzen können.
 
 Der Rest der Brut fällt verschiedenen Nesträubern und der Witterung zum Opfer.
 Zuchtbienen hingegen schaffen es, über 1.500 Eier täglich abzulegen. Feinde
@@ -159,15 +156,6 @@ Obst und Gemüse und vor allem ein funktionierendes Ökosystem haben wollen.
 tun wollt und ein Insektenhotel aufstellen möchtet, solltet Ihr nicht irgendeins
 kaufen. Leider sind jede Menge unbrauchbare Modelle auf dem Markt, die den
 Bienen im schlimmsten Fall das Leben kosten können.
-<a href="http://cardamonchai.com/2019/05/insektenhotel-bienen-auf-dem-balkon/">Tipps
-für das richtige Insektenhotel (Inklusive DIY-Hinweise) findet Ihr auch hier im
-Blog</a>.
+[Tipps für das richtige Insektenhotel (Inklusive DIY-Hinweise) findet Ihr auch hier im Blog](/2019/05/insektenhotel-bienen-auf-dem-balkon/).
 
-Quellen:
-<a href="https://amzn.to/2YxZls4" target="_blank" rel="noopener nofollow">Wildbienenschutz -
-von der Wissenschaft zur Praxis</a>, "<a href="https://youtu.be/AvV_vGFJa6s">The
-Honey Industry Explained In 5 Minutes</a>",
-"<a href="http://www.morethanhoney.ch/" target="_blank" rel="noopener">More Than
-Honey</a>",
-<a href="https://schleswig-holstein.nabu.de/tiere-und-pflanzen/insekten/wespen/19172.html" target="_blank" rel="noopener">NABU
-Schleswig-Holstein</a>
+Quellen: [NABU Schleswig-Holstein](https://amzn.to/2YxZls4)

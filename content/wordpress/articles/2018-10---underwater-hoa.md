@@ -168,8 +168,8 @@ Frost Art Museum. Darüber hinaus wurde Cortadas Kunst bereits im National
 Geographic TV und im Discovery Channel gezeigt.
 
 Mehr über das Projekt "Underwater HOA" erfahrt Ihr unter
-<a href="http://www.underwaterhoa.com." target="_blank" rel="noopener">www.underwaterhoa.com</a>.
-Ich bedanke mich bei Rachel Pinzur für die Übersendung der Pressemitteilung.
+[www.underwaterhoa.com](http://www.underwaterhoa.com.). Ich bedanke mich bei
+Rachel Pinzur für die Übersendung der Pressemitteilung.
 
 ![Underwater HOA | full](http://cardamonchai.com/wp-content/uploads/2018/10/ShowImage-960x355.jpeg)
 

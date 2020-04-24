@@ -106,7 +106,6 @@ Das Hotel Rosenburg kann ich Euch wärmstens empfehlen. Wir haben vorher nur kur
 per E-Mail angekündigt, dass wir vegan leben. Daraufhin hat man uns einfach
 königlich bewirtet. Das Hotel ist toll eingerichtet, sauber, gemütlich und das
 Personal ist einfach umwerfend freundlich.
-<a href="http://www.hotel-rosenburg.de/" target="_blank" rel="noopener">Ihr
-findet es übrigens hier</a>.
+[Ihr findet es übrigens hier](http://www.hotel-rosenburg.de/).
 
 [myflickr tag="annehusum20170218"]

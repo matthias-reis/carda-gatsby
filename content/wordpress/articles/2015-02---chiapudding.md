@@ -46,7 +46,7 @@ subTitle: Gesund und lecker
 
 ## Grundrezept
 
-![Chiapudding mit Blaubeeren](http://cardamonchai.com/wp-content/uploads/2015/02/img_3668-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets/"> </a> Chiapudding mit Blaubeeren')
+![Chiapudding mit Blaubeeren](http://cardamonchai.com/wp-content/uploads/2015/02/img_3668-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets/)  Chiapudding mit Blaubeeren")
 
 <strong>Ihr seid auf der Suche nach einem leckeren Frühstück, das lange vorhält?
 Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr so richtig
@@ -66,7 +66,7 @@ Vegan-Onlinehandel, im Reformhaus und im gut sortierten Supermarkt.
 
 ## Zutaten (für 2 Portionen):<ul><li>
 
-![Chiasamen](https://cardamonchai.files.wordpress.com/2015/02/img_3673.jpg?w=225 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Chiasamen')
+![Chiasamen](https://cardamonchai.files.wordpress.com/2015/02/img_3673.jpg?w=225 " [](https://www.flickr.com/photos/99929697@N07/sets)  Chiasamen")
 
 2 Tassen Chiasamen</li><li>ca. 1/2 Liter Mandelmilch, Kokosmilch, Reismilch,
 kalter Kakao, Vanillemilch oder Fruchtsaft (je nach Gusto)</li><li>Früchte,
@@ -80,7 +80,7 @@ verschiedenen Früchten einen tollen Fruchtspiegel zaubern.
 
 ## Chiapudding Zubereitung
 
-![Ein Grundnahrungsmittel der Azteken](https://cardamonchai.files.wordpress.com/2015/02/img_3672.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/sets"> </a> Ein Grundnahrungsmittel der Azteken')
+![Ein Grundnahrungsmittel der Azteken](https://cardamonchai.files.wordpress.com/2015/02/img_3672.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Ein Grundnahrungsmittel der Azteken")
 
 Die Chia-Samen zusammen mit der Pflanzenmilch oder dem Saft in eine
 verschließbare Plastikdose oder ein Glas mit Deckel geben und in den Kühlschrank
@@ -102,7 +102,4 @@ Voilà: Fertig ist der Chiapudding! Lasst es Euch schmecken!
 Bis bald Anne &lt;3
 
 <small><em>Quellen:
-<a title="Wikipedia Chia" href="http://de.wikipedia.org/wiki/Mexikanische_Chia" target="_blank" rel="noopener">Wikipedia</a>
-, <a href="http://www.chia-samen-kaufen.de/" target="_blank" rel="noopener">CHIA
-SAMEN KAUFEN.de</a>,
-<a href="http://www.chia-samen.info" target="_blank" rel="noopener">chiasamen.info</a></em></small>
+[chiasamen.info](http://de.wikipedia.org/wiki/Mexikanische_Chia) </em></small>

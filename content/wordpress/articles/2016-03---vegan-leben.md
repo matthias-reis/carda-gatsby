@@ -113,15 +113,13 @@ ich, dass – so wird das auch auf der vegan leben Homepage erklärt – "mit de
 Versteckspiel Schluss gemacht wird", indem man alle Produkte klar kennzeichnet.
 
 Das ist ein toller Schritt in Richtung pflanzenbasierte Zukunft und ein gutes
-Bespiel für andere Hersteller. Wenn jetzt noch das
-<a href="http://cardamonchai.com/2015/05/palmoel/">Palmöl</a> weggelassen wird,
-ist alles perfekt.
+Bespiel für andere Hersteller. Wenn jetzt noch das [Palmöl](/2015/05/palmoel/)
+weggelassen wird, ist alles perfekt.
 
 [glry name="vegan-leben-2"]
 
-Infos: <a href="https://www.veganleben.de/" target="_blank" rel="noopener nofollow">vegan-leben.de</a>
+Infos:  [vegan-leben.de](https://www.veganleben.de/)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

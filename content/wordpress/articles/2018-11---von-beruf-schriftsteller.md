@@ -163,23 +163,20 @@ macht den Angehörigen der 68er-Generation mehr als sympatisch.
 Ich persönlich hoffe, dass das noch lange so bleibt, und wir noch zahlreiche
 Werke des Japaners lesen dürfen.
 
-<strong>"<a href="https://amzn.to/2GKMRsl" target="_blank" rel="noopener nofollow">Von
-Beruf Schrifsteller</a>"</strong> ist im Jahr 2015 unter dem Titel "Shokogyo
-toshite no shosetsuka" bei Switch Publishing, Tokio erschienen. Bei der mir
-vorliegenden Ausgabe handelt es sich um ein Exemplar der zweiten Auflage von
-2016, erschienen im DuMont Buchverlag, Köln. <strong>ISBN
-978-3-8321-9843-5</strong>
+<strong> "[Von Beruf Schrifsteller](https://amzn.to/2GKMRsl)" </strong> ist im
+Jahr 2015 unter dem Titel "Shokogyo toshite no shosetsuka" bei Switch
+Publishing, Tokio erschienen. Bei der mir vorliegenden Ausgabe handelt es sich
+um ein Exemplar der zweiten Auflage von 2016, erschienen im DuMont Buchverlag,
+Köln. <strong>ISBN 978-3-8321-9843-5</strong>
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>, sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst
-lese, desto mehr möchte ich darüber berichten.
+[seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/),
+sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
+mehr möchte ich darüber berichten.
 
 ![haruki-murakami | full](http://cardamonchai.com/wp-content/uploads/2018/11/PB060199-960x719.jpg)
 
 <em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

@@ -185,16 +185,16 @@ Dire Straits Gitarristen kann man eigentlich kaum in Worte fassen."
 ## 12. Purcupine Tree "Trains" vom Album: "In Absentia"
 
 Und noch ein Stück aus Matzes Musikkiste: "Das letzte Album von Prog-Gott
-<a href="http://cardamonchai.com/2016/01/steven-wilson-live-cch-congress-center-hamburg/">Steven
-Wilson</a> war für mich als Fan unterirdisch. Ich war so enttäuscht, dass ich es
-nicht mal komplett anhören konnte. Wilsons neues Projekt 'The Future Bites'
-startet mit der Vorauskopplung 'Personal Shopper' und unkaschierter Konsumkritik
-in Form eines Fake-Webshops. Erstes Produkt: Atemmasken. Das erste Stück des für
-den 12. Juni angekündigten Albums startet mit einem düsteren Electro Part, bevor
-es in mittelmässigen Eurodance abdriftet. Zugegeben habe ich mich da viel lieber
-auf das Ende Februar erschienene re-masterte Release seines Klassikers 'In
-Absentia' gestürzt. Mein Lieblingsstück von der Platte aus der guten alten
-Porcupine Tree Zeit ist 'Trains'".
+[Steven Wilson](/2016/01/steven-wilson-live-cch-congress-center-hamburg/) war
+für mich als Fan unterirdisch. Ich war so enttäuscht, dass ich es nicht mal
+komplett anhören konnte. Wilsons neues Projekt 'The Future Bites' startet mit
+der Vorauskopplung 'Personal Shopper' und unkaschierter Konsumkritik in Form
+eines Fake-Webshops. Erstes Produkt: Atemmasken. Das erste Stück des für den 12.
+Juni angekündigten Albums startet mit einem düsteren Electro Part, bevor es in
+mittelmässigen Eurodance abdriftet. Zugegeben habe ich mich da viel lieber auf
+das Ende Februar erschienene re-masterte Release seines Klassikers 'In Absentia'
+gestürzt. Mein Lieblingsstück von der Platte aus der guten alten Porcupine Tree
+Zeit ist 'Trains'".
 
 <iframe src="https://www.youtube.com/embed/D01JYdflODs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

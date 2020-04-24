@@ -52,7 +52,7 @@ thumbnailId: "11700"
 subTitle: Album "The 2nd Law" am 1. Oktober </strong>
 ---
 
-![Muse - Foto: starpulse.com](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg '<a href="http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg"> </a> Muse - Foto: starpulse.com')
+![Muse - Foto: starpulse.com](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg " [](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg)  Muse - Foto: starpulse.com")
 
 <strong>Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass
 die Band mit ihrer neuen Platte "The 2nd Law", das nun am 1. Oktober erscheinen
@@ -91,6 +91,6 @@ laufen wird.
 
 [youtube=http://www.youtube.com/watch?v=DhKVych80ME&amp;feature=player_embedded]
 
-## Muse Wegweiser<ol><li><a href="http://cardamonchai.com/2012/09/muse-the-second-law-ist-da/">Muse - "The 2nd Law" ist da!</a></li><li><a href="http://cardamonchai.com/2015/06/muse-drones-ist-endlich-da/">Muse - "Drones" ist endlich da!</a></li></ol>
+## Muse Wegweiser<ol><li> [Muse - "Drones" ist endlich da!](/2012/09/muse-the-second-law-ist-da/) </li></ol>
 
 &nbsp;

@@ -30,10 +30,9 @@ subTitle: Chili posiert im Lampenlicht
 
 ![Kater Chili im Licht](http://cardamonchai.com/wp-content/uploads/2016/02/24601796815_b2a80497df_z-640x427.jpg "Kater Chili im Licht")
 
-<strong>Nach meiner
-<a href="http://cardamonchai.com/2015/12/stubentiger/">letzten Bildegalerie</a>
-von meinen beiden Katern Oskar und Chili vor ein paar Wochen, habe ich gleich
-ein paar Nachrichten von Euch bekommen.</strong>
+<strong>Nach meiner [letzten Bildegalerie](/2015/12/stubentiger/) von meinen
+beiden Katern Oskar und Chili vor ein paar Wochen, habe ich gleich ein paar
+Nachrichten von Euch bekommen.</strong>
 
 Dem Wunsch, ich soll doch häufiger mal ein paar Bilder von den beiden zeigen,
 komme ich jetzt nach.

@@ -99,22 +99,18 @@ geheim. Sein Name Bond. James Bond.</strong>
 
 ## Teilnehmer beim Blind Date mit Summerwine
 
-<a href="https://gartenbaukunst.wordpress.com/" target="_blank" rel="noopener">\*Gartenbaukunst</a>
-<a href="https://www.hauptstadtgarten.de/" target="_blank" rel="noopener">Hauptstadtgarten</a>
-<a href="https://www.beetkultur.de/" target="_blank" rel="noopener">Beetkultur</a>
-<a href="https://rienmakaefer.com/" target="_blank" rel="noopener">Rienmakaefer</a>
-<a href="http://der-kleine-horror-garten.de/" target="_blank" rel="noopener">Der
-kleine Horrorgarten</a>
-<a href="http://yeoldekitchen.com/" target="_blank" rel="noopener">Ye olde
-Kitchen</a>
-<a href="https://laubenhausmaedchen.wordpress.com/" target="_blank" rel="noopener">Laubenhausmädchen</a>
-<a href="https://karotinasblog.wordpress.com/" target="_blank" rel="noopener">Karo-Tina
-Aldente</a> Anne bloggt cardamonchai (aka ich :-) )
-<a href="https://sindimgarten.wordpress.com/" target="_blank" rel="noopener">Sind
-im Garten</a>
-<a href="http://millibloom.com/" target="_blank" rel="noopener">Milli Bloom</a>
+[\*Gartenbaukunst](https://gartenbaukunst.wordpress.com/)
+[Hauptstadtgarten](https://www.hauptstadtgarten.de/)
+[Beetkultur](https://www.beetkultur.de/)
+[Rienmakaefer](https://rienmakaefer.com/)
+[Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)
+[Ye olde Kitchen](http://yeoldekitchen.com/)
+[Laubenhausmädchen](https://laubenhausmaedchen.wordpress.com/)
+[Karo-Tina Aldente](https://karotinasblog.wordpress.com/) Anne bloggt
+cardamonchai (aka ich :-) )
+[Sind im Garten](https://sindimgarten.wordpress.com/)
+[Milli Bloom](http://millibloom.com/)
 
 Über warmen Asphalt
-<a href="http://cardamonchai.com/2012/03/sonnentraenen/" target="_blank" rel="noopener">habe
-ich hier schon mal geschrieben</a>. Auch diese Geschichte lohnt es sich zu
-lesen.
+[habe ich hier schon mal geschrieben](/2012/03/sonnentraenen/). Auch diese
+Geschichte lohnt es sich zu lesen.

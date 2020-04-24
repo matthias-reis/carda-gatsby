@@ -84,6 +84,5 @@ und auch weiterhin mit Rücksicht auf die Tiere gehandelt wird. Auch in anderen
 Gegenden der Erde werden Sonartests durchgeführt, die Entscheidung der
 Amerikaner könnte hier durchaus als Vorbild genommen werden.
 
-<strong>Bild im
-Header:</strong><a href="https://pixabay.com/de/users/pexels-2286921/" target="_blank" rel="noopener nofollow">Pexels</a>,
-pixabay
+<strong>Bild im Header:</strong>
+[Pexels](https://pixabay.com/de/users/pexels-2286921/), pixabay

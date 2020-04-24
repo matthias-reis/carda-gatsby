@@ -53,4 +53,4 @@ ein paar Bilder gemacht, mit denen Ihr einen kleinen Eindruck bekommt.
 [myflickr tag="annespeicherstadtmuseum"]
 
 Echte Fernwehbilder von den Hamburger Landungsbrücken
-<a href="/2016/01/landungsbruecken-24-dezember-2015/">findet Ihr hier</a>.
+[findet Ihr hier](/2016/01/landungsbruecken-24-dezember-2015/).

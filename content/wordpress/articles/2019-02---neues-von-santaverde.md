@@ -72,9 +72,9 @@ Das kann ich so unterschreiben, denn ich selbst spreche aus Erfahrung: Bei
 Rosacea-Schüben haben mir die Aloe Vera Produkte bisher wirklich immer sehr gut
 geholfen. Alle Pure Produkte sind, wie bei Santaverde üblich,
 NATRUE-zertifizierte
-<a href="http://cardamonchai.com/2018/03/vegane-kosmetik-und-naturkosmetik/">Naturkosmetik</a>.
-Außerdem sind sie frei von synthetischen Duft-, Farb- und Konservierungsstoffen,
-zu 100 Prozent frei von Tierversuchen und natürlich vegan.
+[Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/). Außerdem sind sie
+frei von synthetischen Duft-, Farb- und Konservierungsstoffen, zu 100 Prozent
+frei von Tierversuchen und natürlich vegan.
 
 ## Das steckt drin in den Pure Produkten von Santaverde
 
@@ -130,37 +130,25 @@ Erinnerungsfotos abgelöst, was es sehr persönlich macht. Alles begann damit,
 dass Sabines Mann Kurt 1986 eine Finca in Südspanien kaufte. Der Duft der
 Orangenbäume, der sie auf ihrer ersten Reise dorthin empfing betörte sie. Sie
 lernte über einen Nachbarn die Heilkraft der Aloe kennen.
-<a href="http://cardamonchai.com/2018/01/santaverde/">Der Rest ist
-Geschichte</a>.
+[Der Rest ist Geschichte](/2018/01/santaverde/).
 
 ## Mehr über Santaverde
 
 Übrigens: Die Pure Produkte von Santaverde haben mir beim Make-up-Fasten sehr
 geholfen. Meine Geschichte darüber
-<a href="http://cardamonchai.com/2018/07/make-up-fasten/">könnt Ihr hier
-nachlesen</a>. Als
-<a href="http://cardamonchai.com/2018/06/mit-santaverde-auf-reisen/">treue
-Urlaubsbegleiter</a> haben sich das Pure Mattifying Serum und das Aloe Vera
-Hydro Repair Gel erwiesen.
-<a href="http://cardamonchai.com/2018/12/neues-von-santaverde/">Ein tolles Age
-Perfekt Produkt</a> ist der XINGU Toner.
-<a href="http://cardamonchai.com/2018/01/santaverde/">Mehr über Santaverde
-erfahrt Ihr hier</a>.
+[Mehr über Santaverde erfahrt Ihr hier](/2018/07/make-up-fasten/).
 
 Wer die Unterschiede zwischen Naturkosmetik, Biokosmetik und veganer Kosmetik
 genauer kennenlernen möchte,
-<a href="http://cardamonchai.com/2018/03/vegane-kosmetik-und-naturkosmetik/">klickt
-am besten hier</a>.
+[klickt am besten hier](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
 Herzlichen Dank an Caro von Santaverde, die mir die Produkte zur Verfügung
 gestellt hat und immer ein offenes Ohr für mich hat, wenn ich Fragen zum Thema
 Hautpflege habe.
-<a href="https://www.santaverde.de/" target="_blank" rel="noopener nofollow">Hier
-geht es zur Homepage von Santaverde</a>.
+[Hier geht es zur Homepage von Santaverde](https://www.santaverde.de/).
 
 [glry name="20190227santaverde"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

@@ -262,9 +262,8 @@ sich nach wie vor großer Beliebtheit.
 #### Aphex Twin - "Selected Ambient Works, Vol. 2"
 
 Aphex Twin ist ein musikalisches Phänomen. Hinter dem Namen verbirgt sich der
-Musiker und DJ Richard David James aus
-<a href="http://cardamonchai.com/2018/02/limerick/">Limerick</a>. Bekannt wurde
-er durch seine gruseligen Musikvideos zu den Songs "Come To Daddy" und
+Musiker und DJ Richard David James aus [Limerick](/2018/02/limerick/). Bekannt
+wurde er durch seine gruseligen Musikvideos zu den Songs "Come To Daddy" und
 "Windowlicker", für die er unter anderem mit Chris Cunningham zusammengearbeitet
 hat. Freunde hat er nicht nur in der Digitalmusikszene. Mit "Selected Ambient
 Works, Vol. 2" erschien 1994 sein zweites vollständiges Album. Ich habe "#3"
@@ -282,9 +281,8 @@ Platte hat zahlreiche Bands nachhaltig geprägt und prägt sie noch.
 
 #### Nine Inch Nails - "The Downward Spiral"
 
-Für mich als eingefleischten
-<a href="https://cardamonchai.com/tag/nine-inch-nails/">Nine Inch Nails</a> Fan
-darf "The Downward Spiral" in diesem Artikel selbstverständlich auf keinen Fall
+Für mich als eingefleischten [Nine Inch Nails](/tag/nine-inch-nails/) Fan darf
+"The Downward Spiral" in diesem Artikel selbstverständlich auf keinen Fall
 fehlen. Für Euch habe ich "Closer" im Directors Cut als Video rausgesucht. Bei
 der Platte, die auch als "Halo 8" bekannt ist, handelt es sich um die achte
 Veröffentlichung der Band um Trent Reznor. Das Konzeptalbum handelt von einem
@@ -429,9 +427,8 @@ wie keine zweite. Raver und Punks ließen sich auf ihren Konzerten gemeinsam mit
 Hip-Hoppern und Metalheads vom Sound die Birne durchpusten. "Music For The
 Jilted Generation" war nach "Experience" das zweite Album. Es brachte entgültig
 alles durcheinander und das ist auch gut so. Seit dem Tod von Frontman
-<a href="http://cardamonchai.com/2019/03/10-songs-fuer-den-april/">Keith
-Flint</a> am 4. März 2019 ist es ruhig um die energiegeladene Band geworden. RIP
-Keith. Wir vermissen Dich.
+[Keith Flint](/2019/03/10-songs-fuer-den-april/) am 4. März 2019 ist es ruhig um
+die energiegeladene Band geworden. RIP Keith. Wir vermissen Dich.
 
 <iframe src="https://www.youtube.com/embed/YV78vobCyIo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -494,9 +491,9 @@ einfach noch nicht in irgendeine Schublade. Ich mag es noch heute sehr gerne.
 
 Coole Punkmusik mit einem dicken Klatsch Satire aus Hamburg. Man munkelt, Die
 Goldenen Zitronen sollen unter anderem
-<a href="http://cardamonchai.com/2014/09/flucht-in-die-flucht/">Die Sterne</a>
-maßgeblich geprägt haben. Was will man mehr? Vor kurzem waren sie ja wieder mal
-auf Tour und ich frage mich, wie ich das verpassen konnte.
+[Die Sterne](/2014/09/flucht-in-die-flucht/) maßgeblich geprägt haben. Was will
+man mehr? Vor kurzem waren sie ja wieder mal auf Tour und ich frage mich, wie
+ich das verpassen konnte.
 
 <iframe src="https://www.youtube.com/embed/01Hxq-PFOlc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -630,14 +627,13 @@ Die Aufnahmen zu "Unplugged In New York" entstanden fünf Monate vor Kurt Cobain
 Tod am 18. November 1993. Das Konzert wurde am Tag der Aufzeichnung weltweit im
 Fernsehen übertragen und danach noch oft gezeigt. Neben eigenen Kompositionen
 spielten Nirvana auch Lieder von
-<a href="http://cardamonchai.com/2016/01/rip-david-bowie-abschied-von-einer-ikone/">David
-Bowie</a>, den Meat Puppets sowie Leadbelly und den Vaselines. Curt und Chris
-Kirkwood von den Meat Puppets sorgten beim Auftritt für musikalische
-Unterstützung (Background-Vocals, Bass und Gitarre). Für mich persönlich war
-"Unplugged In New York" eines der wichtigsten Alben überhaupt. Nicht nur, weil
-ich damit von Kurt Cobain Abschied nehmen konnte, sondern auch, weil es mich
-dazu brachte, mich mit vielen weiteren Bands zu beschäftigen und tiefer in die
-Geschichte von Nirvana einzutauchen.
+[David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/), den Meat
+Puppets sowie Leadbelly und den Vaselines. Curt und Chris Kirkwood von den Meat
+Puppets sorgten beim Auftritt für musikalische Unterstützung (Background-Vocals,
+Bass und Gitarre). Für mich persönlich war "Unplugged In New York" eines der
+wichtigsten Alben überhaupt. Nicht nur, weil ich damit von Kurt Cobain Abschied
+nehmen konnte, sondern auch, weil es mich dazu brachte, mich mit vielen weiteren
+Bands zu beschäftigen und tiefer in die Geschichte von Nirvana einzutauchen.
 
 <iframe src="https://www.youtube.com/embed/ZDY1bl9EWxo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

@@ -52,7 +52,7 @@ zelebriert.
 ## Wegweiser Harley Days
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/07/harley-days-2015-biker-rocken-den-kiez/">2015</a></li>
-    <li>2016<a href="http://cardamonchai.com/2016/07/hamburg-harley-days-2016/"></a></li>
-    <li><a href="http://cardamonchai.com/2017/07/harley-days-2017/">2017</a></li>
+    <li> [2015](/2017/07/harley-days-2015-biker-rocken-den-kiez/) </li>
+    <li>2016 [](/2016/07/hamburg-harley-days-2016/) </li>
+    <li> [2017](/2017/07/harley-days-2017/) </li>
 </ol>

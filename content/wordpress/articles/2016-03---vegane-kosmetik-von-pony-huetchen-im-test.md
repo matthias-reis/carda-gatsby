@@ -35,8 +35,7 @@ Werbung\*
 ![Vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2016/03/25370638110_0639602f6a_z.jpg "Pony Hütchen im Test")
 
 <strong>Vor Kurzem habe ich die liebe Hendrike von Pony Hütchen kennengelernt.
-Im
-<a href="/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/">Interview</a>
+Im [Interview](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)
 erzählte Sie mir von Ihrer Leidenschaft, vegane Kosmetik herzustellen. Im
 Anschluss an unser Gespräch hatte ich die Möglichkeit einige Sachen aus Ihrer
 Kosmetikküche zu testen, die ich noch nicht kannte.</strong>
@@ -118,22 +117,19 @@ Habt Ihr auch ein Produkt, von dem Ihr denkt, es sollte unbedingt in meinem Blog
 vorgestellt werden? Habt Ihr ein Startup gegründet und ich soll ein Interview
 mit Euch machen? Braucht Ihr einen Artikel zu einem bestimmten Thema auf Eurer
 Homepage und braucht jemanden, der ihn schreibt? Dann
-<a href="mailto:info@cardamonchai.com">meldet Euch gerne jederzeit</a> bei mir!
-Ich freue mich auf Eure Zuschriften.
+[meldet Euch gerne jederzeit](mailto:info@cardamonchai.com)  bei mir! Ich freue
+mich auf Eure Zuschriften.
 
 Wenn Ihr jetzt gerne mal im Pony Hütchen Shop stöbern möchtet:
-<a href="http://www.ponyhuetchen.com/" target="_blank" rel="noopener">Hier
-entlang</a>!
+[Hier entlang](http://www.ponyhuetchen.com/) !
 
 [gallery link="none" size="medium" type="rectangular"
 ids="14209,14207,14201,14215,14218,14208"]
 
 Auch den Produkten von Wolkenseifen haben ich schon auf den Zahl gefühlt. Meine
 Unboxing-Story
-<a href="http://cardamonchai.com/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/).
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

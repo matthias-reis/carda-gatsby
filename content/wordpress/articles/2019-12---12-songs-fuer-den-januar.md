@@ -68,11 +68,11 @@ Vorstellung unserer Songs wieder Playlisten für Spotify und iTunes.
 
 "Bossk aus dem englischen Ashford wollte ich schon lange mal ein eine unserer
 Listen aufnehmen. Matze und Anne hatten ja das große Glück, sie beim
-<a href="http://cardamonchai.com/2019/09/arctangent-festival-2019-2/">Arctangent
-Festival</a> live erleben zu dürfen. Ihr erstes richtiges Album haben die
-Post-Metaller erst vor drei Jahren veröffentlicht. Zuvor hat es ausschließlich
-Singles und EPs gegeben. Ich höre im Moment sehr häufig die EP 'I II' aus dem
-Jahr 2005. Besonders gut gefällt mir darauf das Stück 'I'."
+[Arctangent Festival](/2019/09/arctangent-festival-2019-2/)  live erleben zu
+dürfen. Ihr erstes richtiges Album haben die Post-Metaller erst vor drei Jahren
+veröffentlicht. Zuvor hat es ausschließlich Singles und EPs gegeben. Ich höre im
+Moment sehr häufig die EP 'I II' aus dem Jahr 2005. Besonders gut gefällt mir
+darauf das Stück 'I'."
 
 <iframe src="https://www.youtube.com/embed/nTt6uIZ9lWI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -109,13 +109,13 @@ gleichnamige Album zur Vorauskopplung ist für Februar 2020 angekündigt."
 
 "'Don’t Blow it, Kage' wurde von Jack Whites Plattenlabel Third Man Records
 veröffentlicht. Jack Black und
-<a href="http://cardamonchai.com/2014/04/jack-white-stellt-neuen-song-vor/">Jack
-White</a> zusammen in einem Projekt. Man hört Jack Whites Einfluss nicht nur
-jedem einzelnen Takt an. Es schwingt auch etwas Großes in den Lyrics mit - Jack
-und Jack weisen auch mit jeder einzelnen Silbe darauf hin, wie aufgeregt sie
-beide sind. Wir sind schon gespannt, wie es weitergeht mit Jack Grey - so wurde
-die neue Kooperation liebevoll von den Fans getauft. Obwohl das Stück ja
-eigentlich in Jacks derzeitige blaue Phase fällt."
+[Jack White](/2014/04/jack-white-stellt-neuen-song-vor/) zusammen in einem
+Projekt. Man hört Jack Whites Einfluss nicht nur jedem einzelnen Takt an. Es
+schwingt auch etwas Großes in den Lyrics mit - Jack und Jack weisen auch mit
+jeder einzelnen Silbe darauf hin, wie aufgeregt sie beide sind. Wir sind schon
+gespannt, wie es weitergeht mit Jack Grey - so wurde die neue Kooperation
+liebevoll von den Fans getauft. Obwohl das Stück ja eigentlich in Jacks
+derzeitige blaue Phase fällt."
 
 <iframe src="https://www.youtube.com/embed/o7_aeBQA5zc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -203,7 +203,8 @@ am besten "Mom, It Doesn't Work" an - Vorsicht! Suchtgefahr!
 
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-12-25-die-drei-von-der-bande/pl.u-W4NaCEkXBXN?l=en" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
-Hat Euch unsere Liste gefallen? Klasse! <a href="#newsletter">Abonniert gerne
-meinen Newsletter</a>, um in Zukunft auf meiner Seite nichts mehr zu verpassen!
+Hat Euch unsere Liste gefallen? Klasse!
+[Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft auf meiner Seite
+nichts mehr zu verpassen!
 
 ![12-songs-pin | large](http://cardamonchai.com/wp-content/uploads/2019/12/12-Songs-Pinterest-2-520x780.png)

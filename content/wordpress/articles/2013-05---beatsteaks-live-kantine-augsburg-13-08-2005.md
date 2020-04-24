@@ -46,9 +46,7 @@ thumbnailId: "5384"
 subTitle: Da kommen Erinnerungen hoch!
 ---
 
-<strong>Gerade habe ich mir das neue
-<a title="Beatsteaks" href="http://beatsteaks.com" target="_blank" rel="noopener">Beatsteaks</a>-Album
-(<a title="Muffensausen" href="http://www.thestereoboutique.com/de/s/beatsteaks/?intcmp=120506/beatsteaks/wmde/hp/s_hp/ban/bdy/de/Beatsteaks_Website_News_Bundle" target="_blank" rel="noopener">Muffensausen</a>)
+<strong>Gerade habe ich mir das neue [Muffensausen](http://beatsteaks.com) )
 vorbestellt und aus diesem Anlass mal meine alten Konzertbilder gesichtet. Dabei
 bin ich auf eine (zugegeben sehr verwackelte) Bilderserie von ihrem legendären
 Kantine-Gig im August 2005 gestoßen. </strong>

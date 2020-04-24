@@ -137,15 +137,15 @@ subTitle: '"Wir müssen den Müll drastisch reduzieren!"'
 
 <p class="p3"><strong>
 
-<p class="p3"><strong>Vio:</strong> Ich würde sage, dass es ein guter erster Schritt ist, sich vegan zu ernähren. Ich finde aber, es gehört noch einiges mehr dazu, wirklich nachhaltig zu leben. Dazu zählt zum Beispiel auch darauf zu achten, <a href="http://cardamonchai.com/2017/04/urgewald/">wo ich mein Geld anlege</a> und bei welchem Telefon-/<a href="http://cardamonchai.com/2011/04/stromanbieter-wechseln/">Stromanbieter</a> ich bin.</p>
+<p class="p3"><strong>Vio:</strong> Ich würde sage, dass es ein guter erster Schritt ist, sich vegan zu ernähren. Ich finde aber, es gehört noch einiges mehr dazu, wirklich nachhaltig zu leben. Dazu zählt zum Beispiel auch darauf zu achten,  [Stromanbieter](/2017/04/urgewald/)  ich bin.</p>
 
 <p class="p3"><strong>Anne:</strong> Was tust Du noch?</p>
 
-<p class="p3"><strong>Vio:</strong> Ich bin bei <a href="http://cardamonchai.com/2017/04/alternative-banken-urgewald-informiert/">einer Ethik-Bank</a>, der GLS. Außerdem überlege ich mir gerade, zu welchem Telefonanbieter ich wechseln werde. Gut gefällt mir zum Beispiel der soziale Mobilfunkanbieter Goood.</p>
+<p class="p3"><strong>Vio:</strong> Ich bin bei  [einer Ethik-Bank](/2017/04/alternative-banken-urgewald-informiert/),  der GLS. Außerdem überlege ich mir gerade, zu welchem Telefonanbieter ich wechseln werde. Gut gefällt mir zum Beispiel der soziale Mobilfunkanbieter Goood.</p>
 
-<p class="p3"><strong>Anne:</strong> Zurück zum Thema vegan. Warum ist es so wenig bekannt, dass <a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">der Konsum von Fleisch und Milch das Klima zerstört</a>?</p>
+<p class="p3"><strong>Anne:</strong> Zurück zum Thema vegan. Warum ist es so wenig bekannt, dass  [der Konsum von Fleisch und Milch das Klima zerstört](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) ?</p>
 
-<p class="p3"><strong>Vio:</strong> Naja, das liegt daran, dass wir von klein auf mit einem System namens Karnismus aufwachsen. Das Wort beschreibt eine Ideologie, in der uns vermittelt wird, was gut, sprich essbar und was nicht essbar ist. So wird uns zum Beispiel beigebracht, dass Milchkonsum gut für unsere Knochen ist. Auch, wenn es <a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/">gar nicht stimmt</a>. Wir dürfen ohne schlechtes Gewissen Schweine und Rinder essen, Hunde und Katzen sind jedoch tabu. Diese Ideologie sagt uns, was erlaubt ist und was nicht. Das falsche Wissen wird leider auf allen Kanälen verbreitet.</p>
+<p class="p3"><strong>Vio:</strong> Naja, das liegt daran, dass wir von klein auf mit einem System namens Karnismus aufwachsen. Das Wort beschreibt eine Ideologie, in der uns vermittelt wird, was gut, sprich essbar und was nicht essbar ist. So wird uns zum Beispiel beigebracht, dass Milchkonsum gut für unsere Knochen ist. Auch, wenn es  [gar nicht stimmt](/2014/09/pflanzenmilch-wieso-denn-blos/).  Wir dürfen ohne schlechtes Gewissen Schweine und Rinder essen, Hunde und Katzen sind jedoch tabu. Diese Ideologie sagt uns, was erlaubt ist und was nicht. Das falsche Wissen wird leider auf allen Kanälen verbreitet.</p>
 
 <p class="p3"><strong>Anne:</strong> Man erlebt ja sicher immer wieder Rückschläge. Wenn man zum Beispiel beim Spazierengehen im Wald Sperrmüll findet, den Menschen dort abgeladen haben oder sieht, wie jemand unachtsam seinen Müll auf die Straße wirft. Was motiviert Dich, weiterzumachen und dranzubleiben?</p>
 
@@ -173,12 +173,12 @@ subTitle: '"Wir müssen den Müll drastisch reduzieren!"'
 
 <p class="p3"><strong>Anne:</strong> Gibt es bestimmte Webseiten, die Du ansurfst oder Fachliteratur zum Thema, die Du empfehlen kannst?</p>
 
-<p class="p3"><strong>Vio:</strong> Ich schaue viel auf <i>Youtube</i>. Besonders gern mag ich zum Beispiel die Kanäle Trash Is For Tossers von Max Green, Pia Kraftfutter, Zero Waste Lifestyle, Zero Waste Home von Bea Johnson und Wasteland Rebel. Außerdem gehe ich auf <a href="http://www.zerowastehome.com/" target="_blank" rel="noopener"><span class="s2">zerowastehome</span></a>, <span class="s2"><a href="http://wastelandrebel.com/de/" target="_blank" rel="noopener">wastelandrebel</a> und </span><a href="http://trashisfortossers" target="_blank" rel="noopener"><span class="s2">trashisfortossers</span></a>. Die Seiten bieten sehr viele Infos. Zusätzlich nutze ich Instagram. Dort suche ich unter den Hastags #Zerowaste und #Lesswaste und schaue mir die Bilder an. Dabei kann man sich interessante Tipps holen.</p>
+<p class="p3"><strong>Vio:</strong> Ich schaue viel auf <i>Youtube</i>. Besonders gern mag ich zum Beispiel die Kanäle Trash Is For Tossers von Max Green, Pia Kraftfutter, Zero Waste Lifestyle, Zero Waste Home von Bea Johnson und Wasteland Rebel. Außerdem gehe ich auf  [](http://www.zerowastehome.com/).  Die Seiten bieten sehr viele Infos. Zusätzlich nutze ich Instagram. Dort suche ich unter den Hastags #Zerowaste und #Lesswaste und schaue mir die Bilder an. Dabei kann man sich interessante Tipps holen.</p>
 
 <p class="p3"><strong>Anne:</strong> Liebe Vio, vielen Dank für das interessante Interview!</p>
 
 <p class="p3"><strong>Vio:</strong> Vielen Dank, dass du dir die Zeit genommen hast. Ich freue mich, wenn mich Deine Leser hin und wieder bei Twitter und Instagram besuchen!</p>
 
-<p class="p3">Ihr findet Vio bei Twitter (<a href="https://twitter.com/search?q=@VeggieGirl91&amp;src=typd" target="_blank" rel="noopener"><span class="s1">@thefeminist91</span></a><span class="s1">)</span>. Die Fotos habe ich im Eden Project in England gemacht. Auch dort dreht sich alles um Klimaschutz und Zero Waste. Ich habe es bisher zweimal besucht. Meine Artikel dazu findet Ihr <a href="http://cardamonchai.com/2009/05/eden-project/">hier </a>und <a href="http://cardamonchai.com/2012/08/eden-project-2/">hier</a>.</p>
+<p class="p3">Ihr findet Vio bei Twitter ( [hier](https://twitter.com/search?q=@VeggieGirl91&amp;src=typd). </p>
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

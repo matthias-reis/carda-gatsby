@@ -82,9 +82,8 @@ Kalorie werden sieben (!) Kalorien aus Pflanzen benötigt. Wie viele Menschen
 keinen Hunger mehr leiden müssten, wenn man diese einfach direkt essen würde,
 kann man sich ganz leicht ausrechnen. Und sie würden nicht nur keinen Hunger
 mehr leiden, sondern sogar vermutlich sehr satt werden. Fleisch beinhaltet im
-Durchschnitt ca. 20 Prozent Eiweiß, Soja hingegen etwa 40 Prozent.
-(<em><a title="Der Artgenosse" href="https://www.facebook.com/artgenosse?fref=ts" target="_blank" rel="noopener">Der
-Artgenosse</a></em>)
+Durchschnitt ca. 20 Prozent Eiweiß, Soja hingegen etwa 40 Prozent. (<em>
+[Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts) </em>)
 
 Aus den Resten, die bei der Sojaölgewinnung entstehen, kann man perfekt
 Sojaschnetzel herstellen. Von vielen Veganern werden sie gerne gegessen. Sie
@@ -98,7 +97,7 @@ Futtermittelindustrie zugeführt.
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg "Kühe im Regenwald")
 
 In einer
-<a href="https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-" target="_blank" rel="noopener">Studie</a>
+[Studie](https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-)
 hat man an der Universität Wien herausgefunden, dass die "Produktion" eines
 Kilogramms Rindfleisch soviel Treibhausgas erzeugt, wie eine Fahrt mit einem
 durchschnittlichen Europäischen Kleinwagen auf der Autobahn über 1.600 Kilometer
@@ -129,7 +128,7 @@ Kilogramm CO<sub>2</sub>. Das sind 19 bzw. 12 Kilometer auf der Autobahn.
 
 Kurt Schmidinger zieht folgende Bilanz aus seiner Studie:
 
-<blockquote>Pflanzliche Lebensmittel schneiden unter Einbeziehung aller ethischen Aspekte der Welternährung sowie aus <strong>Klimaschutz</strong>-Gründen tatsächlich wesentlich besser ab, als tierische Produkte. (<a title="VEBU" href="https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt" target="_blank" rel="noopener">VEBU</a>)</blockquote>
+<blockquote>Pflanzliche Lebensmittel schneiden unter Einbeziehung aller ethischen Aspekte der Welternährung sowie aus <strong>Klimaschutz</strong>-Gründen tatsächlich wesentlich besser ab, als tierische Produkte. ( [VEBU](https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt) )</blockquote>
 
 Wenn man die Klima-Schädlichkeit verschiedener Ernährungsformen pro Kopf und
 Jahr betrachtet, sieht das folgendermaßen aus:
@@ -150,17 +149,17 @@ direkt oder indirekt aus der Tierhaltung. Der größte Teil davon kommt durch di
 Fermentationsprozesse im Magen von Wiederkäuern (Rindern) zustande. Somit sind
 7,4 Prozent des anthropogenen Treibhauseffekts auf die Methan-Emissionen von
 Rindern zurückzuführen. Der Transport ist hier noch gar nicht mit eingerechnet.
-(Zahlen:<a title="Wikipedia" href="http://de.wikipedia.org/wiki/Treibhausgas" target="_blank" rel="noopener">Wikipedia</a>)
+(Zahlen: [Wikipedia](http://de.wikipedia.org/wiki/Treibhausgas) )
 
 ## Den ökologischen Fußabdruck berechnen
 
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg "Bio-Sojamilch")
 
-Jetzt gehts ans Eingemachte. Auf der
-Seite <em><a title="Footprint Deutschland" href="http://www.footprint-deutschland.de" target="_blank" rel="noopener">Footprint
-Deutschland</a></em> kann jeder seinen persönlichen ökologischen Fußabdruck
-ausrechnen. Ich rate das jedem auch mal zu tun. Als vegan lebende
-Fußgänger/Bahnfahrer waren wir sehr überrascht von unserem Ergebnis.
+Jetzt gehts ans Eingemachte. Auf der Seite <em>
+[Footprint Deutschland](http://www.footprint-deutschland.de) </em> kann jeder
+seinen persönlichen ökologischen Fußabdruck ausrechnen. Ich rate das jedem auch
+mal zu tun. Als vegan lebende Fußgänger/Bahnfahrer waren wir sehr überrascht von
+unserem Ergebnis.
 
 Für Euch habe ich mal zwei Fußabdrücke ausgerechnet. Meine Protagonisten, nennen
 wir sie mal <em>Omni </em>und <em>Vegani</em>, sind Nachbarn. Beide sind sich
@@ -251,19 +250,12 @@ Prozent auf die Ernährung und 22 Prozent auf den Verkehr.
 
 <strong>Anmerkung: </strong>Diesen Artikel veröffentliche ich heute in etwas
 abgewandelter Form zum zweiten Mal. Zuletzt ist er hier im Blog am
-<a href="http://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/">30.
-Juli 2014</a> erschienen. Das Thema hat seitdem nicht an Brisanz verloren. Auch
-die Zahlen sind nach wie vor aktuell. Der Klimawandel macht sich auf der Erde
-immer mehr bemerkbar. Es ist an der Zeit, zu handeln.
-<strong>Klimaschutz</strong> geht uns alle an!
+[30. Juli 2014](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+erschienen. Das Thema hat seitdem nicht an Brisanz verloren. Auch die Zahlen
+sind nach wie vor aktuell. Der Klimawandel macht sich auf der Erde immer mehr
+bemerkbar. Es ist an der Zeit, zu handeln. <strong>Klimaschutz</strong> geht uns
+alle an!
 
 <hr />
 
-<strong>Quellen:</strong>
-<a title="VEBU" href="https://www.vebu.de" target="_blank" rel="noopener">VEBU</a>,
-<a title="Der Artgenosse" href="https://www.facebook.com/artgenosse?fref=ts" target="_blank" rel="noopener">Der
-Artgenosse</a>, Wikipedia,
-<a title="Footprint Deutschland" href="http://www.footprint-deutschland.de" target="_blank" rel="noopener">Footprint
-Deutschland</a>,
-<a title="Naturschutz Sylt" href="http://www.naturschutz-sylt.de" target="_blank" rel="noopener">Naturschutz
-Sylt</a>
+<strong>Quellen:</strong> [Naturschutz Sylt](https://www.vebu.de)

@@ -102,9 +102,8 @@ nächste Mal wieder einen etwas fröhlicheren Text bieten zu können.
 </div>
 
 Was ich in den letzten Tagen und Wochen Lustiges und Unlustiges erlebt habe,
-könnt Ihr wie immer in meinem
-<a title="Anne Reko" href="https://twitter.com/Anne_Reko" target="_blank" rel="noopener">Twitter-Feed
-</a>nachlesen.
+könnt Ihr wie immer in meinem [Twitter-Feed](https://twitter.com/Anne_Reko)
+nachlesen.
 
 &lt;3lichen Dank für die Aufmerksamkeit und eine sonnige Nacht
 

@@ -49,9 +49,9 @@ ausprobiert.
 
 Bei "Happy Cashew" handelt es sich um ein 2012 unter dem Namen "<strong>Happy
 Cheeze</strong>" gegründetes, veganes Unternehmen mit Sitz in
-<a href="http://cardamonchai.com/2019/02/ein-hauch-von-fruehling-in-cuxhaven/">Cuxhaven</a>.
-Die "Happy Cashew" Crew stellt Alternativen zu Kuhmilchprodukten her. Im
-Vordergrund stehen dabei der Geschmack und die hochwertigen Zutaten.
+[Cuxhaven](/2019/02/ein-hauch-von-fruehling-in-cuxhaven/). Die "Happy Cashew"
+Crew stellt Alternativen zu Kuhmilchprodukten her. Im Vordergrund stehen dabei
+der Geschmack und die hochwertigen Zutaten.
 
 Alles begann, als Chirurg Mudar im Jahr während einer Reise durch Australien und
 Asien eine Idee hatte. Er fing an, Käse-Alternativen aus Cashew-Kernen
@@ -197,17 +197,16 @@ Wisst Ihr, was mich happy macht? Ein guter Teller leckere Pasta. Gerne mit ein
 paar geriebenen Cashew-Kernen und einer Prise Hefeflocken obendrauf. "Cashewsan"
 kommt ohne die Hefe aus und rockt meine Pasta - so gut ist das Zeug, ich sage es
 Euch. Und es passt perfekt zu meinen
-<a href="https://cardamonchai.com/2017/01/vollkornspaghetti-mit-radicchio-und-cashew-kernen/">Lieblingsnudeln</a>.
+[Lieblingsnudeln](/2017/01/vollkornspaghetti-mit-radicchio-und-cashew-kernen/).
 Ich bin der Meinung "Cashewsan" sollte auf jeden Fall in jedem Kühlschrank
 stehen - von mir bekommt Ihr also auch dafür eine glatte Empfehlung.
 
 Für uns sind die "Happy Cashew" Produkte eine tolle Bereicherung für den
 Speiseplan. Ich würde mich freuen, wenn sie schon sehr bald flächendeckend
 überall zu bekommen wären. Bis dahin decke ich mich direkt über die
-<a href="https://www.happy-cheeze.com/unser-gesamtsortiment" target="_blank" rel="noopener nofollow">Webseite</a>
-ein.
+[Webseite](https://www.happy-cheeze.com/unser-gesamtsortiment) ein.
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos
 zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="http://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meiner [Transparenz-Seite](/werbung/). </em>

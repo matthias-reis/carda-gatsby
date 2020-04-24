@@ -47,35 +47,31 @@ Richtige für mich dachte ich mir - die musste ich einfach testen.</strong>
 
 Im Winter ist meine Haut hungrig. Sie sehnt sich nach Feuchtigkeit und
 liebevoller Pflege. Die
-<a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Gesichtscreme</a>,
-das
-<a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Mizellenwasser</a> und
-das
-<a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Intensivserum</a>
+[Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F)
 für empfindliche Haut von naturmädchen versprechen, genau das zu geben.
 
 Ich nutze alle drei Produkte in Kombination seit inzwischen etwas über einer
 Woche. Ob sich meine Haut schon weniger gestresst anfühlt? Ich würde sagen ja.
 
-<a href="https://cardamonchai.com/tag/santaverde/">Meine Lieblingsprodukte von
-Santaverde</a> waren leer und ich habe mir noch keine neuen besorgt. Vor meinem
-Test habe ich daher für ein paar Tage komplett auf zusätzliche Pflege verzichtet
-und nur morgens mit Wasser gewaschen, Schminke (+ Concealer und Primer)
-aufgetragen und abends mit einer milden Reinigungslotion gewaschen. Im Sommer
-klappt das mal eine Zeitlang gut, aber bei Kälte und Heizungsluft rächt sich
-dieses Spiel ziemlich schnell. Die Folge bei mir: Sehr trockene Haut bis hin zu
-kleinen Schüppchen rund um die Nase. Höchste Zeit für etwas mehr.
+[Meine Lieblingsprodukte von Santaverde](/tag/santaverde/) waren leer und ich
+habe mir noch keine neuen besorgt. Vor meinem Test habe ich daher für ein paar
+Tage komplett auf zusätzliche Pflege verzichtet und nur morgens mit Wasser
+gewaschen, Schminke (+ Concealer und Primer) aufgetragen und abends mit einer
+milden Reinigungslotion gewaschen. Im Sommer klappt das mal eine Zeitlang gut,
+aber bei Kälte und Heizungsluft rächt sich dieses Spiel ziemlich schnell. Die
+Folge bei mir: Sehr trockene Haut bis hin zu kleinen Schüppchen rund um die
+Nase. Höchste Zeit für etwas mehr.
 
 ## Eine neue Pflegeroutine für die nächsten Wochen
 
 Meine derzeitige neue Routine besteht nun also aus: Morgens weiterhin mit klarem
-Wasser waschen und anschließend mit kurzen Pausen dazwischen zuerst
-das <a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Intensivserum</a>
+Wasser waschen und anschließend mit kurzen Pausen dazwischen zuerst das 
+[Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F)
 und anschließend die Creme auftragen. Anschließend lege ich dann mein Make-up
 auf.
 
-Wenn ich abends nach Hause komme, schminke ich mich mit
-dem <a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Mizellenwasser</a>
+Wenn ich abends nach Hause komme, schminke ich mich mit dem 
+[Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F)
 ab und trage wieder das Serum auf. Das klappt super mit einem weichen
 Waschlappen. Das Mizellenwasser nimmt sogar wasserfestes Augen-Make-up ganz
 leicht ab. Im Anschluss spüle ich nochmal mit lauwarmem Wasser nach.
@@ -83,17 +79,17 @@ leicht ab. Im Anschluss spüle ich nochmal mit lauwarmem Wasser nach.
 [glry name="naturkind"]
 
 Meine Haut sieht schon viel besser aus. Was mich besonders glücklich macht:
-Trotz der
-reichhaltigen <a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Gesichtscreme</a> habe
-ich noch keine Hautunreinheiten zu verbuchen. Die stellen sich bei falscher
-Pflege bei mir immer recht schnell ein. Ebenso geht es mir mit meiner Rosacea:
-keine Spur von neuen roten Stellen. Das klingt gut, oder?
+Trotz der reichhaltigen 
+[Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F)
+ habe ich noch keine Hautunreinheiten zu verbuchen. Die stellen sich bei
+falscher Pflege bei mir immer recht schnell ein. Ebenso geht es mir mit meiner
+Rosacea: keine Spur von neuen roten Stellen. Das klingt gut, oder?
 
 ## Duft und Textur sind angenehm leicht
 
 Die Creme hat eine sehr angenehme Textur und duftet wunderbar natürlich nach
-Orangen.
-Das <a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Intensivserum</a>
+Orangen. Das 
+[Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F)
 ist nicht zu flüssig und sehr ergiebig. Für das komplette Gesicht benötige ich
 nur einen kleinen Tropfen. Auch vom Mizellenwasser reicht eine sehr kleine
 Menge. Ich durchtränke eine kleine Stelle meines Waschlappens und kann damit das
@@ -101,10 +97,8 @@ komplette Make-up abnehmen.
 
 Natürlich habe ich mich wieder sehr genau für Euch nach den Inhaltsstoffen
 erkundigt. Ihr findet sie weiter unten. Sie sind bei allen drei Produkten zu 100
-Prozent natürlichen Ursprungs. Außerdem sind
-das <a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Mizellenwasser</a>,
-die Creme und
-das <a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Intensivserum</a>
+Prozent natürlichen Ursprungs. Außerdem sind das 
+[Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F)
 selbstverständlich vegan. naturmädchen setzt sich außerdem gegen Tierversuche
 ein.
 
@@ -130,8 +124,8 @@ Die weiß blühenden Sumpfblumen gedeihen auf feuchten Grasflächen.
 
 Für naturmädchen werden die Samen kaltgepresst. In ihnen stecken zwischen 24 und
 30 Prozent grünliches Öl - durch Raffination wird es geruchslos und hellgelb.
-Neben
-der <a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F" target="_blank" rel="noopener nofollow">Gesichtscreme</a>
+Neben der 
+[Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F)
 gibt es auch noch eine Sonnencreme mit Lichtschutzfaktor 20, in der das
 Wiesenschaumkrautöl enthalten ist. Es besitzt besonders feuchtigkeitsspendende
 Eigenschaften und soll so kleinen Linien und Fältchen entgegenwirken. Die
@@ -163,9 +157,8 @@ Heilungsprozess, sondern ist auch als Anti-Aging Wirkstoff sehr beliebt.
 
 Wer jetzt neugierig geworden ist und naturmädchen selbst mal testen möchte: Ihr
 könnt die Produkte
-<a href="https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2F" target="_blank" rel="noopener nofollow">direkt
-über den naturmädchen Onlineshop</a> oder bei verschiedenen Kosmetikinstituten
-kaufen.
+[direkt über den naturmädchen Onlineshop](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2F)
+oder bei verschiedenen Kosmetikinstituten kaufen.
 
 [grey]
 
@@ -205,12 +198,11 @@ Citral*, Limonene*
 biologischem Anbau [/grey]
 
 Hat Euch mein Produkttest gefallen? Wenn Ihr in Zukunft weiter mitlesen wollt,
-<a href="#newsletter">abonniert am besten meinen Newsletter</a>. Ich freue mich
-auf Euch!
+[abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>
 
 &nbsp;

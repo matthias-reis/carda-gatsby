@@ -41,13 +41,12 @@ thumbnailId: "10447"
 subTitle: Vegane Festivalküche
 ---
 
-![Frühstück à la Wilder Westen](http://cardamonchai.com/wp-content/uploads/2015/03/IMG_4095-640x640.jpg '<a href="https://www.flickr.com/photos/99929697@N07/sets" target="_blank" rel="noopener"> </a> Frühstück à la Wilder Westen')
+![Frühstück à la Wilder Westen](http://cardamonchai.com/wp-content/uploads/2015/03/IMG_4095-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Frühstück à la Wilder Westen")
 
 <strong>Gestern habe ich an dieser Stelle meine
-<a title="Die ultimative vegane Festivalliste" href="http://wp.me/p533wO-2GU">ultimative
-vegane Festivalliste</a> veröffentlicht. Darin habe ich Euch ein leckeres
-Festivalrezept versprochen. Natürlich halte ich meine Versprechen, hier also das
-Rezept.</strong>
+[ultimative vegane Festivalliste](http://wp.me/p533wO-2GU) veröffentlicht. Darin
+habe ich Euch ein leckeres Festivalrezept versprochen. Natürlich halte ich meine
+Versprechen, hier also das Rezept.</strong>
 
 Das Gericht kann in einem Topf (der ist auf der Festivalliste bereits vermerkt)
 zubereitet werden, die Zutaten sind günstig, lassen sich gut transportieren und
@@ -60,7 +59,7 @@ leckeres warmes <strong>Frühstück</strong> daraus zubereiten.
 
 ## Benötigt wird<ul><li>Kochtopf (Punkt 18)</li><li>Klappgaskocher (Punkt 67)</li><li>Feuerzeug (Punkt 81)</li><li>Löffel (Punkt 8)</li><li>Dosenöffner (Punkt 87)</li><li>Becher (Punkt 17)</li><li>Taschenmesser (Punkt 4)</li></ul>### Zubereitung
 
-![Die Zubereitung](http://cardamonchai.com/wp-content/uploads/2015/03/IMG_4094-640x640.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2015/03/IMG_4094.jpg"> </a> Die Zubereitung')
+![Die Zubereitung](http://cardamonchai.com/wp-content/uploads/2015/03/IMG_4094-640x640.jpg " [](/wp-content/uploads/2015/03/IMG_4094.jpg)  Die Zubereitung")
 
 Die Sojaschnetzel mit dem <strong>Suppenwürfel</strong> in den Becher geben und
 mit dem Wasser (vorher im Kochtopf heiß machen) übergießen. Umrühren und auf die
@@ -81,4 +80,4 @@ die Sojaschnetzel in der Tasse einzuweichen.
 Guten Appetit! Verbrennt Euch nicht die Pfoten! &lt;3
 
 <div style="clear: both; background: #fff; border-radius: 15px; padding: 20px; text-align: center;">Das Rezept jetzt runterladen und ausdrucken
-<a href="http://cardamonchai.com/wp-content/uploads/2015/03/fruehstueck-a-la-wilder-westen.pdf" target="_blank" rel="noopener">Download starten</a></div><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+ [](/wp-content/uploads/2015/03/fruehstueck-a-la-wilder-westen.pdf)

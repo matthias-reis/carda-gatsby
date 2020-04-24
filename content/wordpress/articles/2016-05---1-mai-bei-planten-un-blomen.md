@@ -45,8 +45,7 @@ fotografieren.
 ## 1. Mai 2016</strong>
 
 Was habt Ihr am 1. Mai gemacht? Wart Ihr auch im Park? Oder sogar am
-<a href="http://cardamonchai.com/2015/08/st-peter-ording/">Meer</a>? Erzählt
-mal! Ich bin gespannt! :-)
+[Meer](/2015/08/st-peter-ording/) ? Erzählt mal! Ich bin gespannt! :-)
 
 [myflickr tag="anneplantenunblomen52016"]
 
@@ -77,12 +76,12 @@ mit! Bring’ auch viel Nachtigallen und schöne Kuckucks mit</blockquote>
 ## Wegweiser Planten un Blomen
 
 <ol>
- 	<li><a href="/2015/06/planten-un-blomen/">Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)</a><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
+ 	<li> [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/) <a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
 </a></li>
- 	<li><a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">Ein Rundgang durch die Klimazonen (Januar 2016)</a></li>
- 	<li><a href="/2016/01/bluetenpracht-im-winter/">Blütenmeer im Winter (Januar 2016)</a></li>
- 	<li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der Brücke (Januar 2016)</a></li>
+ 	<li> [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/) </li>
+ 	<li> [Blütenmeer im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/) </li>
+ 	<li> [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/) </li>
  	<li>1. Mai bei Planten un Blomen (Mai 2016)</li>
- 	<li><a href="http://cardamonchai.com/2017/12/weihnachten-bei-planten-un-blomen/">Weihnachten bei Planten un Blomen (Dezember 2017)</a></li>
+ 	<li> [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/) </li>
 </ol>
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+ [](/2015/03/die-ultimative-vegane-festivalliste)

@@ -56,5 +56,4 @@ Morgen wird es sonnig. Die schöne Küste lädt uns ein.
 
 Die Bilder in diesem Beitrag sind am Abend des 8. Juni 2018 im Ostseebad Prerow
 entstanden. Wer jetzt Lust auf einen kleinen Sundowner bekommen hat, ist
-eingeladen, <a href="http://cardamonchai.com/2018/06/sloe-dancer/">hier
-weiterzulesen</a>.
+eingeladen, [hier weiterzulesen](/2018/06/sloe-dancer/).

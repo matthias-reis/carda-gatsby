@@ -49,7 +49,7 @@ Abendessen beschlossene Sache.
 
 ## Zubereitung
 
-![Veganes Kürbisrisotto](http://cardamonchai.com/wp-content/uploads/2015/10/21317111274_16c4c7655f_z.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2015/10/21317111274_16c4c7655f_z.jpg"> </a> Veganes Kürbisrisotto')
+![Veganes Kürbisrisotto](http://cardamonchai.com/wp-content/uploads/2015/10/21317111274_16c4c7655f_z.jpg " [](/wp-content/uploads/2015/10/21317111274_16c4c7655f_z.jpg)  Veganes Kürbisrisotto")
 
 Den Kürbis, die Paprika und die Schalotte in kleine Würfelchen schneiden. Falls
 der Kürbis viele Kerne hat, könnt Ihr diese mit einem Löffel "herausschneiden"
@@ -85,8 +85,7 @@ Guten Appetit!
 [myflickr tag="annekuerbisrisotto"]
 
 Salomes Rezept für die tollste und zugleich schnellste Torte der Welt
-<a href="http://cardamonchai.com/2014/09/die-wunderbarste-torte-der-welt/">findet
-Ihr hier</a>.
+[findet Ihr hier](/2014/09/die-wunderbarste-torte-der-welt/).
 
 &nbsp;
 

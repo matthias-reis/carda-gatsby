@@ -64,10 +64,7 @@ Name.
 Die Firmenphilosophie ist klar definiert. Die Arbeiter werden gut behandelt und
 fair bezahlt. Alle Materialien sind gebraucht und müssen nicht erst hergestellt
 werden. Das hält den
-<a href="http://cardamonchai.com/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/">ökologischen
-Fußabdruck</a> möglichst gering und wirkt dem
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Müllproblem</a>
-entgegen.
+[Müllproblem](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/) entgegen.
 
 ![Ragbag](http://cardamonchai.com/wp-content/uploads/2018/04/26217748167_0021fbbd83_z-400x267.jpg)
 
@@ -121,5 +118,4 @@ ids="20518,20517,20515,20514,20512,20511,20510,20505,20509,20508,20507"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

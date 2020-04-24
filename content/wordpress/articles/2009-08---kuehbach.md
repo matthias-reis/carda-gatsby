@@ -103,8 +103,7 @@ Die Marktgemeinde Kühbach ist ein wirklich malerischer Ort, ein Ausflug dorthin
 lohnt sich auf jeden Fall!
 
 <em>Wer gerne mehr über die Marktgemeinde Kühbach erfahren möchte, kann einfach
-<a title="Kuehbach" href="http://schiltberg.vg-kuehbach.de/?id=0,2" target="_blank" rel="noopener">hier</a>
-klicken.</em>
+[hier](http://schiltberg.vg-kuehbach.de/?id=0,2) klicken.</em>
 
 [myflickr tag="kuehbachanne"]
 

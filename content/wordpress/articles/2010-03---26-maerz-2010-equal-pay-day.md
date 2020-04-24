@@ -64,12 +64,11 @@ Bis einschließlich 2011 wird die Organisation und Durchführung des jählichen
 Equal Pay Day vom Bundesministerium für Familie, Senioren, Frauen und Jugend
 (BMFSFJ) unterstützt.
 
-Wer mehr zum Thema erfahren möchte, geht auf die
-offizielle<a title="Equal Pay Day" href="http://www.equalpayday.de"> Website des
-Equal Pay Day</a> Dort gibt es auch eine Aktionslandkarte, auf der man erfahren
-kann, welche Veranstaltungen zum Equal Pay Day es in den verschiedenen Städten
-gibt.
+Wer mehr zum Thema erfahren möchte, geht auf die offizielle
+[Website des Equal Pay Day](http://www.equalpayday.de) Dort gibt es auch eine
+Aktionslandkarte, auf der man erfahren kann, welche Veranstaltungen zum Equal
+Pay Day es in den verschiedenen Städten gibt.
 
-<strong><span style="text-decoration: underline;">Quellen:</span></strong><a title="DBG Frauen" href="http://www.dgb-frauen.de/themen/entgeltgleichheit/...">DGB
-Frauen</a><a title="Equal Pay Day" href="http://www.equalpayday.de/">Equal Pay
-Day</a><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+<strong><span style="text-decoration: underline;">Quellen:</span></strong>
+[Equal Pay Day](http://www.dgb-frauen.de/themen/entgeltgleichheit/...)
+<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>

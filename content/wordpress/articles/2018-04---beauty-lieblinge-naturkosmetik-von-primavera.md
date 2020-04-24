@@ -118,13 +118,12 @@ soziale Projekte wie den Bhutan Youth Development Fund, der jungen Menschen in
 Bhutan aus schwierigen Lebensbedingungen befreit.
 
 Bei allen Produkten von Primavera handelt es sich um
-<a href="http://cardamonchai.com/2018/03/vegane-kosmetik-und-naturkosmetik/">zertifizierte
-Naturkosmetik</a>. Sie werden auf Basis hochwertiger Bio-Öle und
-Pflanzenessenzen hergestellt. Naturreine Öle sind für Düfte und Wirksamkeit
-verantwortlich. Die Rohstoffe stammen zu 90 Prozent aus biologischem Anbau. Die
-meisten Produkte sind vegan, auf Tierversuche für Inhaltsstoffe und Produkte
-wird generell verzichtet. Alle ätherischen Öle sind sortenrein. Sie werden nicht
-gestreckt.
+[zertifizierte Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/). Sie
+werden auf Basis hochwertiger Bio-Öle und Pflanzenessenzen hergestellt.
+Naturreine Öle sind für Düfte und Wirksamkeit verantwortlich. Die Rohstoffe
+stammen zu 90 Prozent aus biologischem Anbau. Die meisten Produkte sind vegan,
+auf Tierversuche für Inhaltsstoffe und Produkte wird generell verzichtet. Alle
+ätherischen Öle sind sortenrein. Sie werden nicht gestreckt.
 
 ## Milde Reinigungscreme Manuka Borretsch
 
@@ -160,17 +159,15 @@ aufgenommen wird.
 ## Beruhigende Augencreme Manuka Borretsch
 
 Mir gefällt sehr gut, dass die Augencreme schnell einzieht. Man kann sich schon
-ein paar Minuten später
-<a href="http://cardamonchai.com/2018/03/drama-baby-smokey-eyes-sante/">schminken</a>,
+ein paar Minuten später [schminken](/2018/03/drama-baby-smokey-eyes-sante/),
 ohne, das etwas verläuft. Besonders nach kurzen Nächten trage ich sie gerne auf,
 sie beruhigt die Partie um die Augen schön.
 
 Enthalten sind, neben den Inhaltsstoffen, die für ihren Namen verantwortlich
 sind, auch noch Tamarindenextrakt, der die Abwehr aktivieren soll, sowie
 Bisabolol aus der Rinde des brasilianischen Candeia-Baums, das Rötungen lindert
-und
-<a href="http://cardamonchai.com/2016/07/lovely-day-botanicals-kosmetiktest/">pflanzliches
-Hyaloron</a>, welches die Haut straffer und elastischer macht.
+und [pflanzliches Hyaloron](/2016/07/lovely-day-botanicals-kosmetiktest/),
+welches die Haut straffer und elastischer macht.
 
 ## Hautberuhigende Creme Manuka Borretsch
 
@@ -185,16 +182,15 @@ an.
 Alles in allem bin ich sehr zufrieden mit meinem Pflegeset von Primavera. Ich
 wende es gerne an und ich habe das Gefühl, dass es mir sehr gut tut. Gut finde
 ich auch, dass die Spender aus Glas sind. Je weniger
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Plastik</a>,
-desto besser. Auf Umverpackungen und Beipackzettel wird, wann immer es möglich
-ist, verzichtet. Beim Druck werden Chemie-freie Druckplatten und Mineralöl-freie
+[Plastik](/2017/08/kenia-sagt-plastiktueten-nein-danke/), desto besser. Auf
+Umverpackungen und Beipackzettel wird, wann immer es möglich ist,
+verzichtet. Beim Druck werden Chemie-freie Druckplatten und Mineralöl-freie
 Öko-Druckfarben eingesetzt.
 
 Wer jetzt neugierig geworden ist, kann sich auf der
-<a href="https://www.primaveralife.com/shop/gesichtspflege-sensitivpflege" target="_blank" rel="noopener">Homepage</a>
-von Primavera weiter informieren.
+[Homepage](https://www.primaveralife.com/shop/gesichtspflege-sensitivpflege) von
+Primavera weiter informieren.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

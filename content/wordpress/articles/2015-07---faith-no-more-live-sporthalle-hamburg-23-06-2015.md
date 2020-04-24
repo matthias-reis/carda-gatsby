@@ -62,6 +62,4 @@ ersten Stunde wurden nicht enttäuscht an diesem Abend.
 
 [myflickr tag="annefaithnomore062015"]
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

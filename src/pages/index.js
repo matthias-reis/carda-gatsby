@@ -4,6 +4,7 @@ import { graphql, Link } from 'gatsby';
 
 const List = styled.ul`
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
   margin: 0;
 `;
@@ -32,7 +33,11 @@ const IndexPage = ({ data }) => {
         {articles.map(({ fields, frontmatter }) => {
           return (
             <Item key={fields.path}>
-              <Link to={fields.path}>{frontmatter.title}</Link>
+              <Link to={fields.path}>
+                <p>{frontmatter.date}</p>
+                <p>{frontmatter.title}</p>
+                <p>{frontmatter.subTitle}</p>
+              </Link>
             </Item>
           );
         })}
@@ -42,7 +47,11 @@ const IndexPage = ({ data }) => {
         {pages.map(({ fields, frontmatter }) => {
           return (
             <Item key={fields.path}>
-              <Link to={fields.path}>{frontmatter.title}</Link>
+              <Link to={fields.path}>
+                <p>{frontmatter.date}</p>
+                <p>{frontmatter.title}</p>
+                <p>{frontmatter.subTitle}</p>
+              </Link>
             </Item>
           );
         })}
@@ -53,8 +62,12 @@ const IndexPage = ({ data }) => {
           return (
             <Item key={fields.path}>
               <Link to={fields.path}>
-                <p>{frontmatter.goLive}</p>
-                <p>{frontmatter.title}</p>
+                <p>
+                  <small>{frontmatter.date}</small>
+                </p>
+                <p>
+                  <strong>{frontmatter.title}</strong>
+                </p>
                 <p>{frontmatter.subTitle}</p>
               </Link>
             </Item>
@@ -76,9 +89,9 @@ export const query = graphql`
           type
         }
         frontmatter {
-          goLive(formatString: "YYYY-MM-DD")
+          date(formatString: "YYYY-MM-DD")
           title
-          subtitle
+          subTitle
         }
       }
     }

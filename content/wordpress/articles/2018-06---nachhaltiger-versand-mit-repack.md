@@ -58,8 +58,8 @@ Die Taschen gibt es in drei verschiedenen Größen. Jede von ihnen kann mindeste
 gespart werden. Wenn die Taschen leer sind, können sie auf Briefgröße
 zusammengefaltet werden. Sie bestehen komplett aus Recycling-Materialien (zum
 Beispiel alte Plakatwände) und können dem
-<a href="http://cardamonchai.com/2018/05/zero-waste-city-curitiba/">Recycling-Kreislauf
-</a>auch wieder zugeführt werden.
+[Recycling-Kreislauf](/2018/05/zero-waste-city-curitiba/) auch wieder zugeführt
+werden.
 
 ## Den CO2-Ausstoß um bis zu 80 Prozent verringern
 
@@ -70,13 +70,10 @@ bis zu 80 Prozent verringern lässt, da einfach kein Müll mehr anfällt. Nicht
 schlecht, oder?
 
 Das Start-up hat seinen Sitz in
-<a href="https://cardamonchai.com/2016/08/helsinki-schoenheit-an-der-ostsee/">Helsinki</a>.
-Gründer sind CEO Jonne Hellgrenn, COO Petri Piirainen und CTO Peter Peltonen.
-Zunächst hatten die drei eine Design-Firma mit dem Schwerpunkt auf
-<a href="https://cardamonchai.com/category/gesellschaft/klima-umweltschutz/">Nachhaltigkeit</a>
-gegründet. RePack war anfangs ein reines Nebenprodukt. Allerdings wurde ziemlich
-schnell klar, dass sich der Fokus auf die Ausarbeitung des wirklich genialen
-Konzepts richten würde.
+[Nachhaltigkeit](/2016/08/helsinki-schoenheit-an-der-ostsee/) gegründet. RePack
+war anfangs ein reines Nebenprodukt. Allerdings wurde ziemlich schnell klar,
+dass sich der Fokus auf die Ausarbeitung des wirklich genialen Konzepts richten
+würde.
 
 RePack bietet einen Rundum-Service an. Das bedeutet, dass die Versandtaschen,
 wenn sie abgenutzt sind, an das Unternehmen zurückgeschickt werden können. Sie
@@ -84,9 +81,8 @@ werden dann aufgefrischt und wieder auf die Reise geschickt.
 
 Inzwischen schließen sich immer mehr Versandhäuser der guten Sache an und bieten
 RePack-Versand an. Vor Kurzem habe ich es selbst das erste Mal ausprobiert, als
-ich mir bei
-<a href="http://cardamonchai.com/2017/06/ethnotek-viva-con-agua/">Ethnotek
-</a>eine neue Tasche für meine Kamera bestellt habe.
+ich mir bei [Ethnotek](/2017/06/ethnotek-viva-con-agua/) eine neue Tasche für
+meine Kamera bestellt habe.
 
 ## RePack auf die Reise schicken
 
@@ -112,8 +108,7 @@ Weise.
 gekauft. </em><em>Es handelt sich weder um ein Sponsoring, noch um bezahlte
 Werbung.</em>
 
-Weitere Infos gibt es auf der
-<a href="http://www.originalrepack.com" target="_blank" rel="noopener">Homepage</a>
-von RePack.
+Weitere Infos gibt es auf der [Homepage](http://www.originalrepack.com) von
+RePack.
 
 [gallery type="rectangular" size="large" link="none" ids="21204,21201"]

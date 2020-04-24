@@ -253,9 +253,9 @@ jeden Fall die Tanzfläche eröffnen mit „Song 2“ von Blur!
 
 <b>Anne:</b> Dann haben Matze und ich ja alles richtig gemacht! Das freut mich!
 
-Fotos, Musik, Blumen, Hochzeitsblog<a href="#1"><sup>1</sup></a>, Torte, Kleid,
-Schuhe, Haare, Make-up, Getränke, die Liste der Dinge, die auf einer Hochzeit
-organisiert werden müssen, ist schier endlos. Was ist für Dich das Wichtigste?
+Fotos, Musik, Blumen, Hochzeitsblog [](#1), Torte, Kleid, Schuhe, Haare,
+Make-up, Getränke, die Liste der Dinge, die auf einer Hochzeit organisiert
+werden müssen, ist schier endlos. Was ist für Dich das Wichtigste?
 
 ![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/25204990636_cc980631b8_z-640x480.jpg "Stimmungsvolles Bild vom The Hives Konzert")
 
@@ -349,9 +349,9 @@ ohne liebe Freunde und Kollegen nicht zu schaffen gewesen wäre.
 ![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/25138253481_970007c0fc_z-640x426.jpg "Ein Brautkleid reist durch Neuseeland")
 
 Von emotionaler Seite war mein größtes Projekt die Reise mit dem Brautkleid
-durch Neuseeland<a href="#1"><sup>1</sup></a>. Ich hatte mir ein knitterfreies
-"one size fits all"-Brautkleid von meiner Freundin ausgeliehen und nahm es mit
-auf meinen Trip durch dieses wunderschöne Land.
+durch Neuseeland [](#1). Ich hatte mir ein knitterfreies "one size fits
+all"-Brautkleid von meiner Freundin ausgeliehen und nahm es mit auf meinen Trip
+durch dieses wunderschöne Land.
 
 Jedes Mal, wenn ich an einer besonders imposanten Kulisse angekommen war, fragte
 ich eine der Touristinnen, die gerade dort waren, ob sie in das Kleid
@@ -377,9 +377,8 @@ sich ein bißchen wie auf einer Zeitreise in die 1920er, 30er und 40er zu fühle
 
 <b>Anne:</b> Deine kleine Firma geht ja ganz schön durch die Decke. Du hast
 große Erfolge zu verbuchen und wirst immer wieder in der Fachpresse erwähnt. Vor
-Kurzem ist Deine neue Homepage<a href="#2"><sup>2</sup></a> gestartet, die
-wirklich sehr gelungen ist. Wie geht es weiter? Wie sehen die Zukunftspläne von
-Petra Fritzi Hennemann aus?
+Kurzem ist Deine neue Homepage [](#2) gestartet, die wirklich sehr gelungen ist.
+Wie geht es weiter? Wie sehen die Zukunftspläne von Petra Fritzi Hennemann aus?
 
 <blockquote>
 ## Mit meinen Bildern möchte ich in Richtung analoge Zeit gehen
@@ -437,8 +436,7 @@ schließlich auch noch da!
 Wenn ich sehe, wie wenig Zeit Braut und Bräutigam am eigentlichen Hochzeitstag
 füreinander haben, denke ich mir immer, irgendwie wäre es doch am
 allerschönsten, den restlichen Tag in Ruhe mit dem Bald-Ehemann zu verbringen.
-Ich glaube, ich würde vor der Hochzeit eine
-Bergtour<sup><a href="#4">4</a> </sup>machen.
+Ich glaube, ich würde vor der Hochzeit eine Bergtour<sup> [4](#4)  </sup>machen.
 
 <b>Anne:</b> Das klingt spannend! Liebe Petra, vielen vielen Dank, dass Du Dir
 die Zeit für das Interview genommen hast! Es hat wirklich großen Spaß gemacht!
@@ -455,10 +453,10 @@ Liebe und Gute auch Dir!
 ids="14058,14041,14060,14055,14057,14054,14038,14045,14039,14051,14047,14052,14023,14050,14053,14049,14048,14040,14037,14027,14021,14056,14034"]
 
 <ul>
-    <li id="1">[1] <a href="http://schokolinse.pixieset.com/mitdembrautkleidimrucksackdurchneuseeland" target="_blank" rel="noopener">Hier geht’s direkt zum Artikel „Ein Brautkleid reist durch Neuseeland“ in Petras Blog.</a></li>
-    <li id="2">[2] <a href="http://www.petrafritzihennemann.de/" target="_blank" rel="noopener">Petras Homepage findet Ihr hier</a></li>
-    <li id="3">[3] <a href="http://hochzeit.smartr.de/" target="_blank" rel="noopener">Wir haben im Rahmen unserer Hochzeit ein Hochzeitsblog angelegt. Neugierige bitte hier entlang.</a></li>
-    <li id="4">[4] <a href="/category/unterwegs/hochzeitsreise/">Wir haben zwar keine Bergtour gemacht, aber eine Hochzeitsreise nach Bali. Die Fotos findet Ihr hier.</a></li>
+    <li id="1">[1]  [Hier geht’s direkt zum Artikel „Ein Brautkleid reist durch Neuseeland“ in Petras Blog.](http://schokolinse.pixieset.com/mitdembrautkleidimrucksackdurchneuseeland) </li>
+    <li id="2">[2]  [Petras Homepage findet Ihr hier](http://www.petrafritzihennemann.de/) </li>
+    <li id="3">[3]  [Wir haben im Rahmen unserer Hochzeit ein Hochzeitsblog angelegt. Neugierige bitte hier entlang.](http://hochzeit.smartr.de/) </li>
+    <li id="4">[4]  [Wir haben zwar keine Bergtour gemacht, aber eine Hochzeitsreise nach Bali. Die Fotos findet Ihr hier.](/category/unterwegs/hochzeitsreise/) </li>
 </ul>
 
 &nbsp;

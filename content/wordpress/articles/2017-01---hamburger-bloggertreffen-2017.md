@@ -36,12 +36,7 @@ unheimlich gespannt darauf und freue mich.
 
 Initiiert wurde das Treffen von Hamburger Bloggern. Mehr Infos findet Ihr auf
 Toms Blog
-<a href="https://bloggerhamburg.wordpress.com/2017/01/08/erstes-hamburger-blogger-stammtisch-treffen-2017/" target="_blank" rel="noopener">Hamburger
-Blogger</a> und bei
-<a href="http://tinabhh.de/2017/01/hamburger-blogger-01-2017/" target="_blank" rel="noopener">Martina</a>.
-Anmelden könnt Ihr Euch über die Doodle-Umfrage
-<a href="http://doodle.com/poll/awcv6xd5azfi4db5" target="_blank" rel="noopener">auf
-dieser Seite</a>.
+[auf dieser Seite](https://bloggerhamburg.wordpress.com/2017/01/08/erstes-hamburger-blogger-stammtisch-treffen-2017/).
 
 ## Das Hamburger Bloggertreffen - Ich bin gespannt!
 

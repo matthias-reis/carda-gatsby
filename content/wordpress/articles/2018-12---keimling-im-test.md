@@ -89,8 +89,7 @@ Na dann ist es ja gut, oder? Ich kann sie Euch auf jeden Fall sehr empfehlen.
 Sie eignet sich gut als Geschenk für alle Fans des weltbekannten
 Schoko-Aufstrichs. Den Segen meiner Freundin hat sie auf jeden Fall bekommen.
 Die unverbindliche Preisempfehlung für ein Glas mit 350 Gramm liegt bei 8,95.
-<a href="https://www.keimling.de/vegane-schokocreme.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Bestellbar
-ist sie über den Keimling Onlineshop</a>.
+[Bestellbar ist sie über den Keimling Onlineshop](https://www.keimling.de/vegane-schokocreme.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm).
 
 ## Kurkuma-Latte-Mischung für Goldene Milch
 
@@ -100,17 +99,11 @@ Goldene Milch ist nicht nur gut für das Immunsystem, sie ist obendrein auch noc
 mehr als lecker. Mit der Mischung von Keimling kann man das aromatisch-süßliche
 ayurvedische Getränk ganz leicht zubereiten. Wenn man möchte kann man sie noch
 mit etwas Kokosblütenzucker,
-<a href="https://www.keimling.de/roher-agavendicksaft.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">Agavendicksaft</a>
+[Agavendicksaft](https://www.keimling.de/roher-agavendicksaft.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 oder Sirup verfeinern. Die UVP liegt bei 8,95 Euro für 100 Gramm.
 
 Mir schmeckt sie am besten mit Hafermilch, sie kann aber ohne Probleme auch mit
-Mandeldrink,
-<a href="http://cardamonchai.com/2014/12/diy-sojamilch/">Sojadrink</a> oder
-<a href="http://cardamonchai.com/2018/09/neue-kokosmilch-coco-milk-dr-martins/">Kokosmilch</a>
-zubereitet werden. Ich bevorzuge die warme Variante, viele trinken sie auch
-gerne gekühlt. Bestellen könnt Ihr das leckere Pülverchen
-<a href="https://www.keimling.de/kurkuma-latte.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">direkt
-bei Keimling</a>.
+Mandeldrink, [direkt bei Keimling](/2014/12/diy-sojamilch/).
 
 ## Roh-veganer Chufas-Zimt-Konfekt
 
@@ -126,8 +119,7 @@ sowieso viel feiner, als irgendwelche Schnapspralinen aus dem Süßigkeitenregal
 Versprochen. Auf Zucker wurde bei der Herstellung genauso verzichtet, wie auf
 Konservierungsstoffe. Die himmlische Süße kommt rein von den Datteln. Bestellt
 werden können sie genau wie die Schokoladencreme und die Goldene Milch
-<a href="https://www.keimling.de/konfekt-chufa-zimt.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">über
-den Keimling Onlineshop</a>.
+[über den Keimling Onlineshop](https://www.keimling.de/konfekt-chufa-zimt.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm).
 
 Das ist schon mal ein guter Anfang, aber Ihr braucht für Weihnachten noch ein
 paar weitere Geschenke? Dann bleibt am besten einfach dran. In Kürze findet Ihr
@@ -137,5 +129,5 @@ hier im Blog noch ein paar weitere Tipps.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

@@ -65,7 +65,7 @@ Bars bestückt hat, damit man dort bei schöner Musik gepflegte Sommerabende mit
 Strandgefühl verbringen kann. Leider hat mir meine chaotische 'Planung' dabei
 einen Strich durch die Rechnung gemacht.
 
-![Die Geschichte von der Dachterrasse](http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z-640x480.jpg '<a href="http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z.jpg"> </a> Die Geschichte von der Dachterrasse')
+![Die Geschichte von der Dachterrasse](http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z-640x480.jpg " [](http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z.jpg)  Die Geschichte von der Dachterrasse")
 
 Alles fing damit an, dass mein Bruder vor ca. 1/2 Jahr Konzertkarten für Mark
 Lanegan besorgt hatte. Natürlich war ich sofort Feuer und Flamme und habe mich
@@ -83,17 +83,12 @@ auf dem geplanten Konzert gelandet. (An dieser Stelle noch mal ein großes SORRY
 an alle lieben Dachterassenleute! Ich hoffe, Ihr hasst mich jetzt nicht allzu
 sehr und hattet trotz meiner Untreue einen ganz wundervollen Abend.)
 
-Das Konzert war großartig. Im Vorprogramm spielte die belgische Band
-'<a title="Creaturewiththeatombrain" href="http://creaturewiththeatombrain.com/">Creature
-With The Atom Brain</a>'. Die Jungs haben im April ein neues Album (ihr Drittes
-+1 EP) veröffentlicht und sind nun zusammen mit Mark on Tour. Alle lauschten
-fast schon andächtig, als
-<a title="Mark Lenegan" href="http://marklanegan.com/">Mark Lanegan</a> auf die
-Bühne kam. Der schlaksige Sänger wirkte wie immer ziemlich schüchtern, außer
-'Thank you' und 'Good Night' hörte man nicht viele gesprochene Worte von ihm.
-Was aber auf keinen Fall störend war, hatte er doch einfach ALLES was es auf
-dieser Welt zu sagen gibt bereits durch seine wunderbaren Songs zum Ausdruck
-gebracht.
+Das Konzert war großartig. Im Vorprogramm spielte die belgische Band '
+[Mark Lanegan](http://creaturewiththeatombrain.com/) auf die Bühne kam. Der
+schlaksige Sänger wirkte wie immer ziemlich schüchtern, außer 'Thank you' und
+'Good Night' hörte man nicht viele gesprochene Worte von ihm. Was aber auf
+keinen Fall störend war, hatte er doch einfach ALLES was es auf dieser Welt zu
+sagen gibt bereits durch seine wunderbaren Songs zum Ausdruck gebracht.
 
 Besonders gut gefiel mir auch das Spiel des Creature With The Atom Brain
 Gitarristen Aldo Struyf (auch Mitglied der Band 'Millionaire'), der sich später

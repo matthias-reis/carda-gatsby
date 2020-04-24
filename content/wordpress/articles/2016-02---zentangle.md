@@ -41,9 +41,9 @@ immer behauptet hat, weiß ich nicht. Tatsache ist jedoch, dass ich es bis dato
 nicht konnte.</strong>
 
 Vor ein paar Tagen habe ich Euch ja von meinem Plan berichtet, etwas mehr
-<a href="/2016/02/ikigai-quelle-des-lebens/">Gelassenheit in den Alltag</a> zu
-bringen. Etwas sehr Passendes ist mittlerweile zum festen Bestandteil meiner
-Hobbykiste geworden.
+[Gelassenheit in den Alltag](/2016/02/ikigai-quelle-des-lebens/) zu bringen.
+Etwas sehr Passendes ist mittlerweile zum festen Bestandteil meiner Hobbykiste
+geworden.
 
 ## Was ein Doodle ist, und warum ich plötzlich Stifte kaufe
 
@@ -72,9 +72,9 @@ in den Alltag bringen.
 
 Und nicht nur zum Entspannen ist das Doodeln gut, es regt auch die Kreativität
 an und macht Lust darauf, mal wieder etwas Buntes zu erschaffen. Nicht nur mein
-Hobby das <a href="/2016/02/filofaxing-mit-den-mumins/">Filofaxen</a> bringt
-mich derzeit dazu, die Schreibwarenläden der Umgebung zu erkunden. Auch diese
-Art der Prokrastination führt dazu, dass ich plötzlich die alten, abgetakelten
+Hobby das [Filofaxen](/2016/02/filofaxing-mit-den-mumins/) bringt mich derzeit
+dazu, die Schreibwarenläden der Umgebung zu erkunden. Auch diese Art der
+Prokrastination führt dazu, dass ich plötzlich die alten, abgetakelten
 Kugelschreiber dem Hausmüll zuführe und sie durch neue, wundervolle, farbenfrohe
 Tusche- und Buntstifte ersetze.
 
@@ -100,5 +100,4 @@ Beliebtheit.
 [myflickr tag="annezentangle1"]
 
 Folgt Ihr mir schon auf Pinterest? Auch dort
-<a href="https://de.pinterest.com/annereko/" target="_blank" rel="noopener">pinne
-ich ab und zu mal ein buntes Bild an</a>.
+[pinne ich ab und zu mal ein buntes Bild an](https://de.pinterest.com/annereko/).

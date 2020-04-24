@@ -76,10 +76,10 @@ Als erstes müsst Ihr Euch überlegen, welche Form Euer Kissen später haben sol
 Zeichnet die Form auf Euer vorbereitetes Papier. Ich habe einfach mal freihand
 ein Kissen aufgezeichnet, das man später durch seine praktische Form gut um den
 Nacken legen kann, da ich häufig an
-<a href="http://cardamonchai.com/2014/11/auf-dem-weg-zur-tiefenentspannung/">Verspannungen</a>
-in den Schultern und im Nackenbereich leide. Auf den Bildern könnt Ihr es sehen,
-Ihr könnt die Form gerne übernehmen. Die Maße findet Ihr ganz unten auf dem
-großen Foto, das könnt Ihr durch Anklicken auch nochmal ein Bisschen vergrößern.
+[Verspannungen](/2014/11/auf-dem-weg-zur-tiefenentspannung/) in den Schultern
+und im Nackenbereich leide. Auf den Bildern könnt Ihr es sehen, Ihr könnt die
+Form gerne übernehmen. Die Maße findet Ihr ganz unten auf dem großen Foto, das
+könnt Ihr durch Anklicken auch nochmal ein Bisschen vergrößern.
 
 Zusätzlich habe ich noch ein kleines, quadratisches Kissen (20 x 20 cm) genäht,
 das kann man gut bei Bauchschmerzen verwenden. Für den Anfang ist die
@@ -164,4 +164,4 @@ werden, danach verliert es nach und nach seine Wirkung.</li><li>Das Kissen bitte
 nicht auf Haustiere legen!</li><li>Den Kisseninhalt bitte nicht mehr zur
 Zubereitung von Speisen verwenden!</li></ul>
 
-![Die Maße](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-8-640x427.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-8.jpg"> </a> Die Maße')
+![Die Maße](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-8-640x427.jpg " [](/wp-content/uploads/2015/09/Körnerkissen-8.jpg)  Die Maße")

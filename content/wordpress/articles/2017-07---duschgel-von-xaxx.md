@@ -52,9 +52,9 @@ Duschgel-Sorten. Jeden Tag kommen zwei dazu, bis es in 14 Tagen zu jedem
 XAXX-Parfum ein Duschgel geben wird. Bei den Duschgels handelt es sich um
 Konzentrate, die man mittels eines Foamers (Aufschäumers) selbst in duftenden
 Duschschaum verwandeln kann. Die XAXX-Düfte hatte ich schon mal für
-<a href="http://cardamonchai.com/andere-blogs/xaxx-parfum/">Vegan News</a>
-getestet. Jetzt kam Tobias von XAXX auf mich zu und fragte mich, ob ich nicht
-auch mal auf meiner Seite einen Testbericht veröffentlichen möchte.
+[Vegan News](/andere-blogs/xaxx-parfum/) getestet. Jetzt kam Tobias von XAXX auf
+mich zu und fragte mich, ob ich nicht auch mal auf meiner Seite einen
+Testbericht veröffentlichen möchte.
 
 Gesagt, getan. Schon einen Tag später erreichte mich sein Paket. Darin enthalten
 waren das Duschgel-Konzentrat "TWO // 2 Pour Femme" sowie ein Foamer. Natürlich
@@ -100,9 +100,8 @@ duften einfach so toll nach dem Waschen!
 ## Wer möchte testen?
 
 Wer jetzt neugierig geworden ist und gerne auch mal die Duschgele von XAXX
-testen möchte: Sie sind auf der
-Seite <a href="http://www.flakono.de/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=de&amp;q=http://www.flakono.de&amp;source=gmail&amp;ust=1501597236113000&amp;usg=AFQjCNEkT3g0-6oEpWJIdU73aeJK6ZpGQA">www.flakono.de</a> zu
-finden. Der Vertrieb der Parfüms und Duschgele funktioniert über
+testen möchte: Sie sind auf der Seite  [www.flakono.de](http://www.flakono.de/)
+ zu finden. Der Vertrieb der Parfüms und Duschgele funktioniert über
 Empfehlungsmarketing. Für die erste Bestellung benötigt man daher eine Marketing
 Nummer. Ihr könnt einfach die <strong>10081</strong> bei Eurer Bestellung
 angeben.
@@ -113,5 +112,4 @@ Grüße von der Schaumwolke
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

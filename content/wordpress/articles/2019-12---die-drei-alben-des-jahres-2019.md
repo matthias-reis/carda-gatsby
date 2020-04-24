@@ -45,10 +45,9 @@ gewählt.</strong>
 
 Die Auswahl ist uns nicht leicht gefallen. Es war noch wesentlich schwieriger,
 als bei der Entscheidung für die
-<a href="http://cardamonchai.com/2019/12/die-12-songs-des-jahres-2019/">Songs
-des Jahres</a> - immerhin konnte bei dieser Liste jeder von uns vier Songs
-auswählen. Die drei Alben, die wir Euch hiermit präsentieren sind die Crème de
-la Crème der Musik 2019.
+[Songs des Jahres](/2019/12/die-12-songs-des-jahres-2019/) - immerhin konnte bei
+dieser Liste jeder von uns vier Songs auswählen. Die drei Alben, die wir Euch
+hiermit präsentieren sind die Crème de la Crème der Musik 2019.
 
 ## Unsere Alben des Jahres - gehaltvolle Werke
 
@@ -71,12 +70,8 @@ neues Album von <strong>Tool</strong>.
 
 Das unglaubliche Konzert, das ich im Juni in Berlin erleben durfte, hat die
 Vorfreude für mich noch gesteigert.
-"<a href="http://cardamonchai.com/2019/08/das-neue-tool-album-ist-da/">Fear
-Inoculum</a>" ist für mich das größte und komplexeste, das Tool bis jetzt
-abgeliefert hat. Um Songs wie "Invincible" oder "7empest"
-(<a href="https://cardamonchai.com/2019/09/12-songs-fuer-den-oktober/">Hier im
-Blog zu finden in den Playlist für den Oktober 2019</a>) zu begreifen, werde ich
-wohl noch ein paar Hördurchgänge brauchen."
+"[Hier im Blog zu finden in den Playlist für den Oktober 2019](/2019/08/das-neue-tool-album-ist-da/)
+) zu begreifen, werde ich wohl noch ein paar Hördurchgänge brauchen."
 
 <iframe src="https://www.youtube.com/embed/q7DfQMPmJRI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -87,14 +82,11 @@ besonders starkes Musikjahr war. Seine Favoriten wechselten teilweise im
 Tagesrhythmus von Cult Of Lunas "A Dawn To Fear" zu "Fear Inoculum" von Tool
 über "In Cauda Venenum" von <strong>Opeth</strong> und "replicr" von
 <strong>65daysofstatic</strong> wieder zurück. Je häufiger er sich jedoch
-"<a href="http://cardamonchai.com/2019/09/cult-of-luna-a-dawn-to-fear/">A Dawn
-To Fear</a>" von
-<a href="http://cardamonchai.com/2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/"><strong>Cult
-Of Luna</strong></a> anhörte, desto klarer wurde ihm, wer die erste Geige in
-seinem Orchester spielen würde. Das Album vereint für ihn den vielfältigen
-Strauß aus Stimmungen, der die Band ausmacht. Es perfektioniert für ihn die
-Ideen, welche die Band in ihrer inzwischen schon ein Weilchen andauernden
-Karriere entwickelt hat.
+"[](/2019/09/cult-of-luna-a-dawn-to-fear/) anhörte, desto klarer wurde ihm, wer
+die erste Geige in seinem Orchester spielen würde. Das Album vereint für ihn den
+vielfältigen Strauß aus Stimmungen, der die Band ausmacht. Es perfektioniert für
+ihn die Ideen, welche die Band in ihrer inzwischen schon ein Weilchen
+andauernden Karriere entwickelt hat.
 
 <iframe src="https://www.youtube.com/embed/2cYtqwUso-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -105,29 +97,20 @@ des Jahres ist. Lange Zeit war es "A Dawn To Fear" von <strong>Cult Of
 Luna</strong>, dann wieder "Nowhere Now Here" von <strong>Mono</strong> und
 "replicr" von <strong>65daysofstatic</strong> und zum Schluss hatte ich mich
 eigentlich schon fast fest für <strong>Kim Gordons</strong> Meisterwerk "No
-Home"
-(<a href="https://cardamonchai.com/2019/10/12-songs-fuer-den-november/">Hier im
-Blog zu finden in der Playlist für den November 2019</a> sowie in den
-<a href="http://cardamonchai.com/2019/12/die-12-songs-des-jahres-2019/">Songs
-des Jahres 2019</a>) entschieden.
+Home" ( [Songs des Jahres 2019](/2019/10/12-songs-fuer-den-november/)
+) entschieden.
 
 Am Ende war es dann doch klar: "Blood Year" von
-<a href="http://cardamonchai.com/2017/02/russian-circles-knust-hamburg-2017/"><strong>Russian
-Circles</strong></a> hat das Rennen gemacht
-(<a href="https://cardamonchai.com/2019/08/12-songs-fuer-den-september/">Hier im
-Blog zu finden in der Playlist für den September 2019</a>). Nicht nur ihr
-Auftritt beim diesjährigen
-<a href="http://cardamonchai.com/2019/09/arctangent-festival-2019-2/"><strong>Arctangent
-Festival</strong></a> hat mich erneut darin bestätigt, dass es sich bei der
-Post-Metalband um einen meiner erklärten Favoriten handelt. Das Album hat für
-mich unbedingt eine Auszeichnung verdient und sollte in dieser Liste nicht
-fehlen.
+[](/2017/02/russian-circles-knust-hamburg-2017/)  hat mich erneut darin
+bestätigt, dass es sich bei der Post-Metalband um einen meiner erklärten
+Favoriten handelt. Das Album hat für mich unbedingt eine Auszeichnung verdient
+und sollte in dieser Liste nicht fehlen.
 
 <iframe src="https://www.youtube.com/embed/9ANmCp69lD4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Hat Euch unsere Auswahl gefallen? Das ist schön. Wir haben vor, Euch auch in
 Zukunft mit Musiktipps zu versorgen. Bleibt also am besten dran. Wer nichts
-verpassen möchte, kann <a href="#newsletter">gerne meinen Newsletter
-abonnieren</a>. Dann halte ich Euch auf dem Laufenden.
+verpassen möchte, kann [gerne meinen Newsletter abonnieren](#newsletter). Dann
+halte ich Euch auf dem Laufenden.
 
 &nbsp;

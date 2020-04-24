@@ -45,11 +45,10 @@ einen Blog? Das ist ja cool, dann kennt Dich ja sicher jeder“ rankt sehr hoch 
 
 Manchmal ist es jedoch gar nicht so einfach, wie es vielleicht nach außen hin
 aussieht.
-<a href="http://cardamonchai.com/2018/03/10-jahre-bloggen-jubilaeum/">Ich blogge
-jetzt seit 10 Jahren</a> und habe seither ganz schön viel erlebt. In jede
-Richtung. Die Produkttests sind erst in den letzten paar Jahren hinzugekommen
-und das vor allem, weil ich selbst die Werbetrommel gerührt habe und den Firmen
-mitgeteilt habe, dass es mich gibt.
+[Ich blogge jetzt seit 10 Jahren](/2018/03/10-jahre-bloggen-jubilaeum/) und habe
+seither ganz schön viel erlebt. In jede Richtung. Die Produkttests sind erst in
+den letzten paar Jahren hinzugekommen und das vor allem, weil ich selbst die
+Werbetrommel gerührt habe und den Firmen mitgeteilt habe, dass es mich gibt.
 
 ![Bloggen](http://cardamonchai.com/wp-content/uploads/2018/05/41782943651_bf6dabf29e_z-400x288.jpg)
 
@@ -103,12 +102,12 @@ Wort „Blogger“ im Profil stehen hat.
 Ich erinnere mich noch gut an ein Gespräch, das ich kürzlich in einem
 Handarbeitsladen geführt habe. Zunächst hatte ich mich sehr nett mit einer
 Mitarbeiterin dort unterhalten und ich dachte, das könnte schon in Richtung
-<a href="http://cardamonchai.com/2017/02/latte-macchiato-muttis/">Kaffeeklatsch</a>
-gehen. Da machte ich den Fehler, zu erwähnen, dass ich blogge. Ihr könnt Euch
-nicht vorstellen, wie schnell sie das Interesse verloren hatte. Die lieben
-kleinen „Instagram-Influencer“, die sich ja seit neuestem auch gerne mal als
-„Blogger“ bezeichnen, fallen wohl seit einiger Zeit in Scharen bei ihr ein, um
-für ihre DIY-Projekte Stoffpakete abzugreifen.
+[Kaffeeklatsch](/2017/02/latte-macchiato-muttis/) gehen. Da machte ich den
+Fehler, zu erwähnen, dass ich blogge. Ihr könnt Euch nicht vorstellen, wie
+schnell sie das Interesse verloren hatte. Die lieben kleinen
+„Instagram-Influencer“, die sich ja seit neuestem auch gerne mal als „Blogger“
+bezeichnen, fallen wohl seit einiger Zeit in Scharen bei ihr ein, um für ihre
+DIY-Projekte Stoffpakete abzugreifen.
 
 „Jeder kennt Dich“ trifft also auf jeden Fall schon mal nicht zu. „Jeder meint
 Dich zu kennen“ wäre sicherlich schon treffender. Jemand findet einen Deiner
@@ -211,19 +210,12 @@ wieder und die bunte Welt der Blogosphäre zieht mich wieder in ihren Bann.
 
 Man erfindet sich einfach mit jedem Beitrag wieder neu. Wie wäre es mal wieder
 mit einer
-<a href="http://cardamonchai.com/2018/05/erster-mai-gegensaetze/">Bildergalerie</a>?
-Oder einer
-<a href="http://cardamonchai.com/2017/10/streetart-und-schrebergarten/">Kurzgeschichte</a>?
-Ganz besonders viel Spaß hatte ich zum Beispiel beim Erstellen meiner
-<a href="https://cardamonchai.com/tag/irland2017/">großen Reisereportage zum
-Thema Irland</a>, die ich in den letzten Monaten Beitrag für Beitrag
-veröffentlicht habe. 26 sind es inzwischen, einer steht noch aus. Die Serie ist
-der umfassendste Reisebericht, den ich bisher geschrieben habe.
+[großen Reisereportage zum Thema Irland](/2018/05/erster-mai-gegensaetze/), die
+ich in den letzten Monaten Beitrag für Beitrag veröffentlicht habe. 26 sind es
+inzwischen, einer steht noch aus. Die Serie ist der umfassendste Reisebericht,
+den ich bisher geschrieben habe.
 
 Besonders liebe ich außerdem
-<a href="http://cardamonchai.com/2017/02/russian-circles-knust-hamburg-2017/">Konzertberichte</a> und
-<a href="https://cardamonchai.com/category/musik/bands-reviews/">Plattenrezensionen</a> sowie
-das Kennenlernen spannender Persönlichkeiten zum Beispiel über
-<a href="https://cardamonchai.com/category/gesellschaft/interview/">Interviews</a>.
-Mein Blog ist eine Sammlung, die ich stetig erweitere und verschönere. Und ich
-freue mich, wenn Du mitliest.
+[Interviews](/2017/02/russian-circles-knust-hamburg-2017/). Mein Blog ist eine
+Sammlung, die ich stetig erweitere und verschönere. Und ich freue mich, wenn Du
+mitliest.

@@ -55,12 +55,11 @@ Gerlach, der fortan mit ins Geschäft einstieg.
 
 Mit Hilfe von Crowdfunding gelang es den beiden, neues Kapital zu sammeln. Indes
 wurden die Schlangen vor dem Truck immer länger. Ein zweiter musste her.
-<a href="https://cardamonchai.com/category/musik/festivals/">Festivals</a>
-wurden bereist, auf keiner Veranstaltung in Hamburg durfte Vincent fehlen, die
-Nachfrage wurde immer größer. Nach harter Arbeit, dem Verlust eines Trucks durch
-einen Unfall und einem steilen Aufstieg, tourten ab 2016 insgesamt drei Trucks
-durch Hamburg. Die Aufträge hatten sich zu diesem Zeitpunkt bereits mehr als
-verdoppelt.
+[Festivals](/category/musik/festivals/) wurden bereist, auf keiner Veranstaltung
+in Hamburg durfte Vincent fehlen, die Nachfrage wurde immer größer. Nach harter
+Arbeit, dem Verlust eines Trucks durch einen Unfall und einem steilen Aufstieg,
+tourten ab 2016 insgesamt drei Trucks durch Hamburg. Die Aufträge hatten sich zu
+diesem Zeitpunkt bereits mehr als verdoppelt.
 
 Ständig werden neue Mitarbeiter gesucht, Vincent Vegan wächst und wächst. Über
 einen Tourplan auf der Homepage\* der Foodtrucker können die Fans die Wagen
@@ -96,19 +95,18 @@ Anlaufpunkt für Vincent Fans. Jeden Sonntag gab es hier das größte vegane
 Brunchbuffet von Hamburg.
 
 Gereicht wurden in der Base Gerichte für jeden Geschmack, Kuchen,
-<a href="http://cardamonchai.com/2017/10/ruehrtofu-vegan-herzhaft-und-lecker/">Rührtofu</a>,
-scharfe Linsen, Aufschnitt, verschiedene Brote, Salate, Snacks und natürlich
-auch die legendäre Currywurst. Dazu konnte eine Kaffeeflatrate gebucht werden,
-die den Wunsch, gemütlich zu verweilen, noch verstärkte. Jeden Donnerstag ab 17
-Uhr gab es in der Base "Delicious Vegan Pizza". In gemütlichem Ambiente wurde
-gegessen, geklönt und Musik gehört.
+[Rührtofu](/2017/10/ruehrtofu-vegan-herzhaft-und-lecker/), scharfe Linsen,
+Aufschnitt, verschiedene Brote, Salate, Snacks und natürlich auch die legendäre
+Currywurst. Dazu konnte eine Kaffeeflatrate gebucht werden, die den Wunsch,
+gemütlich zu verweilen, noch verstärkte. Jeden Donnerstag ab 17 Uhr gab es in
+der Base "Delicious Vegan Pizza". In gemütlichem Ambiente wurde gegessen,
+geklönt und Musik gehört.
 
 Durch das Pop-Up konnte die Bekanntheit noch weiter ausgebaut werden. Seit 2016
 kann man sich das leckere Vincent Vegan Essen nun auch über zwei verschiedene
-<a href="http://cardamonchai.com/2017/12/veganes-essen-liefern-lassen/">Lieferketten
-in Hamburg</a> direkt nach Hause liefern lassen. Der stationäre Verkaufsstand am
-Millerntor-Stadion gehört bei den St. Pauli Spielen außerdem schon fest zum
-Programm.
+[Lieferketten in Hamburg](/2017/12/veganes-essen-liefern-lassen/)  direkt nach
+Hause liefern lassen. Der stationäre Verkaufsstand am Millerntor-Stadion gehört
+bei den St. Pauli Spielen außerdem schon fest zum Programm.
 
 ## Vincent Vegan goes Berlin - neue Erfolge
 
@@ -125,12 +123,9 @@ der Welt zu werden. Ein stabiles Fundament ist bereits vorhanden. Ich wünsche
 weiterhin viel Erfolg! Mahlzeit!
 
 Wer Vincent Vegan noch nicht kennt oder mal wieder vorbei schauen möchte,
-<a href="http://www.vincent-vegan.com" target="_blank" rel="noopener nofollow">findet
-hier die Homepage</a>.
+[findet hier die Homepage](http://www.vincent-vegan.com).
 
-Fotos:
-<a href="https://www.vincent-vegan.com" target="_blank" rel="noopener nofollow">Vincent
-Vegan</a>
+Fotos: [Vincent Vegan](https://www.vincent-vegan.com)
 
 <strong>Hinweis:</strong> Dieser Artikel ist bereits 2016 erschienen. Ich habe
 ihn ein bisschen aufgehübscht und aktualisiert.

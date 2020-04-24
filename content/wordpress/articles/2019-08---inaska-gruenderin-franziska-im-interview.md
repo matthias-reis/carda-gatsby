@@ -37,9 +37,8 @@ subTitle: '"Nachhaltigkeit und Fairness sind uns wichtig"'
 ---
 
 <strong>Vor einiger Zeit habe ich hier im Blog die
-<a href="http://cardamonchai.com/2018/06/inaska-sportbikinis/">nachhaltigen
-Sportbikinis</a> von INASKA vorgestellt. Jetzt habe ich mit Gründerin Franziska
-unterhalten</strong>.
+[nachhaltigen Sportbikinis](/2018/06/inaska-sportbikinis/) von INASKA
+vorgestellt. Jetzt habe ich mit Gründerin Franziska unterhalten</strong>.
 
 Sie hat mir unter anderem erzählt, dass ihr schon immer klar war, dass das
 Unternehmen, das sie zusammen mit ihrer Freudin Katharina aus der Taufe gehoben
@@ -168,16 +167,15 @@ kann, dass wir künftig mit weniger Müll leben können?
 
 <strong>Franziska:</strong> Müll zu vermeiden ist nicht wirklich schwer, ob man
 Wasser aus der Leitung trinkt oder auf
-<a href="http://cardamonchai.com/2018/07/baecker-backt-strohhalme-fuer-die-umwelt/">Strohhalme</a>
-verzichtet, die aus Plastik sind. Das wichtigste ist es für mich bereits beim
-Einkaufen darauf zu achten keinen unnötigen Müll zu produzieren. Das bedeutet im
-Unverpackt-Laden einkaufen zu gehen oder loses Obst und Gemüse kaufen.
+[Strohhalme](/2018/07/baecker-backt-strohhalme-fuer-die-umwelt/) verzichtet, die
+aus Plastik sind. Das wichtigste ist es für mich bereits beim Einkaufen darauf
+zu achten keinen unnötigen Müll zu produzieren. Das bedeutet im Unverpackt-Laden
+einkaufen zu gehen oder loses Obst und Gemüse kaufen.
 
 <strong>Anne:</strong> Korallenriffe sterben, überall
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">an
-den Stränden stapeln sich die Plastiktüten</a>, Ölteppiche und Abwasser bedrohen
-die Tier- und Pflanzenwelt. Meinst Du, die Meere sind noch zu retten? Was müsste
-man machen, um das zu schaffen?
+[an den Stränden stapeln sich die Plastiktüten](/2017/08/kenia-sagt-plastiktueten-nein-danke/),
+Ölteppiche und Abwasser bedrohen die Tier- und Pflanzenwelt. Meinst Du, die
+Meere sind noch zu retten? Was müsste man machen, um das zu schaffen?
 
 <strong>Franziska:</strong> Das grundsätzliche Problem liegt tatsächlich am
 Konsumverhalten der Menschen. Dadurch, dass wir in einer Zeit leben, in der alle
@@ -214,11 +212,9 @@ mich, Dich kennenzulernen!
 <strong>Franziska:</strong> Vielen Dank auch an Dich, liebe Anne.
 
 Hier könnt Ihr Euch
-<a href="http://cardamonchai.com/2018/06/inaska-sportbikinis/" target="_blank" rel="noopener">die
-Bikinis aus dem Hause INASKA aus der Nähe ansehen</a>.
+[die Bikinis aus dem Hause INASKA aus der Nähe ansehen](/2018/06/inaska-sportbikinis/).
 
-<a href="https://www.inaska-swimwear.com/?gclid=EAIaIQobChMInJzc1_f_4wIVked3Ch0-xQnjEAAYASAAEgIIevD_BwE" target="_blank" rel="noopener nofollow">Zum
-Onlineshop geht es hier entlang</a>.
+[Zum Onlineshop geht es hier entlang](https://www.inaska-swimwear.com/?gclid=EAIaIQobChMInJzc1_f_4wIVked3Ch0-xQnjEAAYASAAEgIIevD_BwE).
 
 Hier sind für Euch Two Magics mit "Glücklich wie die Kinder"
 

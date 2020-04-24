@@ -78,9 +78,9 @@ auch bereits die Vorauskopplung "Vote For Me" hören.
 
 In Kürze findet Ihr hier im Blog mein Interview mit Vinny Peculiar sowie die
 Rezension zum Album "While You Still Can". Bleibt also am besten dran, es bleibt
-spannend! \*<a href="https://vinnypeculiar.bandcamp.com/" target="_blank" rel="noopener">Vinny
-Peculiar Bandcamp</a>
+spannend!
+
+- [Vinny Peculiar Bandcamp](https://vinnypeculiar.bandcamp.com/)
 
 <strong>Picture &amp; artwork:</strong>
-<a href="https://vinnypeculiar.com/?fbclid=IwAR1F-yhtN3DoZkDLO8P4xjMD3chrQA4sOLjYYIG4a4uEJSxe7QOaY5f_b4k" target="_blank" rel="noopener">Vinny
-Peculiar</a>
+[Vinny Peculiar](https://vinnypeculiar.com/?fbclid=IwAR1F-yhtN3DoZkDLO8P4xjMD3chrQA4sOLjYYIG4a4uEJSxe7QOaY5f_b4k)

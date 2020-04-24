@@ -46,7 +46,7 @@ thumbnailId: "8079"
 subTitle: Esst Blumen und keine Hühnerbabies
 ---
 
-![So trage ich Pelz!](http://cardamonchai.files.wordpress.com/2014/07/11501151886_22baaaa304_o.jpg?w=199 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> So trage ich Pelz!')
+![So trage ich Pelz!](http://cardamonchai.files.wordpress.com/2014/07/11501151886_22baaaa304_o.jpg?w=199 " [](https://www.flickr.com/photos/99929697@N07/)  So trage ich Pelz!")
 
 <strong>Vegetarierin war ich schon sehr früh. Ich war elf, als ich mich
 entschied, das Tiereessen an den Nagel zu hängen. </strong>
@@ -67,7 +67,7 @@ und Joghurt „produziert“ werden und das auch in Biohöfen.
 
 ## My Vegan Diary - Ich trinke jetzt Pflanzenmilch
 
-![My Vegan Diary](http://cardamonchai.files.wordpress.com/2014/07/14672621431_3670de427f_o.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> My Vegan Diary')
+![My Vegan Diary](http://cardamonchai.files.wordpress.com/2014/07/14672621431_3670de427f_o.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  My Vegan Diary")
 
 Nach und nach näherte ich mich der veganen Lebensweise an, trank Hafermilch,
 testete Tempeh und Tofu und freundete mich immer mehr mit dem Gedanken an,
@@ -84,7 +84,7 @@ ab jetzt vegan leben. Unser Stichtag war Samstag, der 14. Juni 2014. Matze hatte
 sich eine Regel überlegt, nach der er ein Mal in der Woche Fleisch essen darf,
 falls es keine andere Möglichkeit gibt.
 
-![My Vegan Diary](http://cardamonchai.files.wordpress.com/2014/07/14660340635_1d9c5fe0ec_o.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> My Vegan Diary')
+![My Vegan Diary](http://cardamonchai.files.wordpress.com/2014/07/14660340635_1d9c5fe0ec_o.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  My Vegan Diary")
 
 Inzwischen sind über 6 Wochen vergangen, an dem weder einen Schluck Kuhmilch
 noch Frühstückseier oder Schnitzel zu sich genommen hat. 6 Wochen mit 3
@@ -100,7 +100,7 @@ eine Ehefrau, die sehr, sehr stolz auf ihn ist.
 6 Wochen, in denen ich drei Kochbücher besorgt und keines davon gelesen habe,
 weil ich soviel selbst ausprobiert habe.
 
-![My Vegan Diary](http://cardamonchai.files.wordpress.com/2014/07/14466357488_0377960c95_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> My Vegan Diary')
+![My Vegan Diary](http://cardamonchai.files.wordpress.com/2014/07/14466357488_0377960c95_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  My Vegan Diary")
 
 Nahezu jeden Tag gehe ich auf die Jagd nach neuen Hülsenfrüchten, Gemüsesorten,
 Sprossen, Salaten und Beeren. Kleie, Flocken, Hirse, Trockenfrüchte, Hafermilch,
@@ -114,7 +114,7 @@ habe wirklich sehr viel Käse gegessen. Unser Kühlschrank war immer voll damit.
 Heute findet man darin vegane Aufstriche in allen Geschmacksrichtungen, mit
 denen wir unser selbstgebackenes Brot verzieren.
 
-![Vegan Passport](http://cardamonchai.files.wordpress.com/2014/07/photo1.jpg?w=225 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Vegan Passport')
+![Vegan Passport](http://cardamonchai.files.wordpress.com/2014/07/photo1.jpg?w=225 " [](https://www.flickr.com/photos/99929697@N07/)  Vegan Passport")
 
 Als frisch gebackener Veganerin fiel mir als erstes auf, dass offenbar von
 Seiten vieler Omnivoren und auch Vegetarier ein unglaublicher Diskussionsbedarf
@@ -132,7 +132,7 @@ Biergartentisch, die durch Zufall rausbekommen haben, dass ich den tierischen
 gesättigten Fettsäuren abgeschworen habe und mich jetzt offen kritisieren,
 sticheln und jedes Detail wissen wollen?
 
-![Vegan Vampire von Dani Alarcòn](http://cardamonchai.files.wordpress.com/2014/07/10553375_803032489718882_5862342596098711843_n.jpg?w=245 '<a href="Vegan Vampire von Dani Alarcòn"> </a> Vegan Vampire von Dani Alarcòn')
+![Vegan Vampire von Dani Alarcòn](http://cardamonchai.files.wordpress.com/2014/07/10553375_803032489718882_5862342596098711843_n.jpg?w=245 " [](Vegan Vampire von Dani Alarcòn)  Vegan Vampire von Dani Alarcòn")
 
 Inzwischen habe ich schon einiges rausgefunden und einige haben sich auch schon
 mit meinem Dasein als ewig hungriger, blutleerer Veganer-Vampirella abgefunden.
@@ -148,20 +148,11 @@ in meinem Blog eine Rubrik zum Thema „Essen“ auf die Beine stellen. Darin we
 ich Euch mit Fakten quälen, Rezepte präsentieren und sicher auch den ein oder
 anderen Gedanken zum Thema Tierschutz loswerden.
 
-![My Vegan Diary](http://cardamonchai.files.wordpress.com/2014/07/14333061291_f5d37abb23_z.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> My Vegan Diary')
+![My Vegan Diary](http://cardamonchai.files.wordpress.com/2014/07/14333061291_f5d37abb23_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  My Vegan Diary")
 
 Derzeit schreibe ich an einem Artikel „10 Fakten über vegane Ernährung“, der in
 Kürze hier in meinem Weblog erscheinen wird. Meine Rezepte poste ich im Moment
-noch auf
-<a title="Anne Instagram" href="http://instagram.com/anne_reko" target="_blank" rel="noopener">Instagram</a>.
-Daher stammen übrigens auch die seltsame Überschrift und Zwischenüberschrift
-#myvegandiary und #eatflowersnotchickenbabies. Das sind die Hashtags, unter
-denen ich auf Instagram meine Frühstücks- und Abendessen-Rezepte veröffentliche.
-Neugierige klicken einfach auf den
-<a title="Anne Instagram" href="http://instagram.com/anne_reko" target="_blank" rel="noopener">Link</a>.
-Natürlich freue ich mich auch über jeden neuen Follower. Weitere Fotos findet
-Ihr wie immer in meinem
-<a title="Anne Flickr" href="https://www.flickr.com/photos/99929697@N07/" target="_blank" rel="noopener">Flickr</a>.
+noch auf [Flickr](http://instagram.com/anne_reko).
 
 Zur Feier des Tages hier ein leckeres Sommerrezept aus meiner Feder, dass Ihr
 ganz leicht nachmachen könnt:

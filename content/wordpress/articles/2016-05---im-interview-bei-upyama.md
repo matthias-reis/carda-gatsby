@@ -59,8 +59,8 @@ Wer mehr über mein Projekt (Es hat etwas mit nähen zu tun, mehr wird an dieser
 Stelle noch nicht verraten) erfahren möchte, gerne wissen möchte, warum ich
 einen Panoramaweg einem Klettersteig immer vorziehen würde und wie ich mit
 Herausforderungen umgehe, findet
-<a href="http://www.upyama.de/anne-reis-cardamonchai/" target="_blank" rel="noopener">das
-komplette Interview</a> ab sofort in der Rubrik "Grüne Macher" bei Upyama.
+[das komplette Interview](http://www.upyama.de/anne-reis-cardamonchai/) ab
+sofort in der Rubrik "Grüne Macher" bei Upyama.
 
 <em>Herzlichen Dank an dieser Stelle an Anja und Denise! &lt;3</em>
 

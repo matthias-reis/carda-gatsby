@@ -308,11 +308,10 @@ vielen einfach nur noch um den Konsum. Wir versuchen da einen anderen Weg zu
 gehen und einfach mal wieder auf die Nächstenliebe einzugehen, um die es ja
 einfach in dieser Zeit gehen sollte.
 
-<a href="http://www.tiertafelhamburg.de/">Hier entlang geht es zur Homepage der
-Tiertafel Hamburg</a>.
+[Hier entlang geht es zur Homepage der Tiertafel Hamburg](http://www.tiertafelhamburg.de/).
 
 Gespendet werden kann über Paypal. Die Paypal E-Mail-Adresse lautet
-<a href="mailto:kontak@tiertafelhamburg.de">kontak@tiertafelhamburg.de</a>.
+[kontak@tiertafelhamburg.de](mailto:kontak@tiertafelhamburg.de).
 
 Natürlich könnt Ihr überweisen. Sendet Euer Geld bitte an folgendes Konto
 
@@ -321,11 +320,9 @@ Natürlich könnt Ihr überweisen. Sendet Euer Geld bitte an folgendes Konto
 
 Den Amazon-Wunschzettel sowie alle Infos, wie Ihr mit Sachspenden am besten
 verfahrt und wie Ihr sonst noch helfen könnt,
-<a href="http://www.tiertafelhamburg.de/HelfenSieuns">wird unter diesem Link
-genau erklärt</a>.
+[wird unter diesem Link genau erklärt](http://www.tiertafelhamburg.de/HelfenSieuns).
 
-<a href="http://cardamonchai.com/2017/11/puss-in-boots-animal-rescue-and-adoption/"><strong>Hier
-gehts zu Teil 2/2 des Interviews</strong></a>
+[](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
 
 Fotos: Mit freundlicher Genehmigung von Kara Schott
 

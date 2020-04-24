@@ -49,11 +49,10 @@ Entspannung.
 
 ## E-Mails kommen an
 
-Solltet Ihr in dieser Zeit Fragen haben, könnt Ihr mir natürlich wie
-gewohnt <a href="mailto:info@cardamonchai.com">E-Mails</a> schreiben, ich werde
-sie allerdings erst nach dem Urlaub beantworten. Für mich gehört nämlich zum
-Urlaub dieses Mal auch dazu, dass ich die Kommunikation auf ein Mindestmaß
-runterfahre.
+Solltet Ihr in dieser Zeit Fragen haben, könnt Ihr mir natürlich wie gewohnt 
+[E-Mails](mailto:info@cardamonchai.com) schreiben, ich werde sie allerdings erst
+nach dem Urlaub beantworten. Für mich gehört nämlich zum Urlaub dieses Mal auch
+dazu, dass ich die Kommunikation auf ein Mindestmaß runterfahre.
 
 Ich hoffe, Ihr habt Verständnis dafür und auch, dass in dieser Zeit hier im Blog
 keine aktuellen Artikel erscheinen werden. In den sozialen Medien habe ich dafür
@@ -66,10 +65,9 @@ beantworten werde.
 
 Wenn ich dann frisch aufgetankt mit Sonne und Entspannung nach Hamburg
 zurückkomme, heißt es wieder
-"<a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Volle
-Kraft voraus</a>" und "auf zu neuen Taten". Ich habe bereits ein paar echt
-interessante Ideen in Petto und wer weiß, vielleicht bringt die Zeit in der
-Hängematte ja noch mehr davon.
+"[Volle Kraft voraus](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)" und
+"auf zu neuen Taten". Ich habe bereits ein paar echt interessante Ideen in Petto
+und wer weiß, vielleicht bringt die Zeit in der Hängematte ja noch mehr davon.
 
 Bis bald!
 

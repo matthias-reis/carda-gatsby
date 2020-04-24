@@ -114,8 +114,7 @@ Machine </em>weitermachen. Am 5. Juni des selben Jahres erschien das Album
 unter anderem mit <em>Metallica </em>die Bühnen der Welt bespielen wollten. Das
 Bild im Titel wurde vom Fotografen Paul Lorkowski auf dem Konzert am 5. Mai auf
 einem der Konzerte aufgenommen. <em>Chris </em>postete es am nächsten Morgen auf
-seiner
-<a href="https://www.facebook.com/chriscornell/" target="_blank" rel="noopener">Facebook-Seite</a>.
+seiner [Facebook-Seite](https://www.facebook.com/chriscornell/).
 
 <em>Chris Cornell</em> hinterlässt drei Kinder.
 

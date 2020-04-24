@@ -46,8 +46,7 @@ subTitle: Neues Open Air Event steht in den Startlöchern
 <hr />
 
 Hinweis: Die Aktion ist beendet.
-<a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet irgendwann
-wieder eine tolle Verlosung statt</a>.
+[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
 
@@ -106,11 +105,10 @@ Spontanvernunft und Ann-Kristin Celsiana. Die beiden wurden mit einer
 persönlichen Nachricht auf Facebook bzw. einer E-Mail benachrichtigt. Ich
 bedanke mich bei allen Teilnehmern fürs Mitmachen!
 
-<a href="https://cardamonchai.com/datenschutz/teilnahmebedingungen/">Hier geht
-es zu den Teilnahmebedingungen</a>
+[Hier geht es zu den Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/)
 
 Weitere Infos zum NORDEN Festival findet Ihr unter
-<a href="http://www.norden-festival.com">www.norden-festival.com.</a>
+[www.norden-festival.com.](http://www.norden-festival.com)
 
 [gallery type="rectangular" size="medium" link="none"
 ids="21331,21330,21328,21327"]
@@ -119,5 +117,4 @@ ids="21331,21330,21328,21327"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

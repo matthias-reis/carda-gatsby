@@ -69,7 +69,7 @@ Wie ein paar von Euch wissen, ist Matze längst nicht nur das für mich. Darum
 möchte ich zu dieser speziellen Liste noch ein paar Worte loswerden, bevor es
 losgeht.
 
-<blockquote>Matze, vor sieben Jahren liefen wir uns das erste Mal über den Weg und kurz danach fing alles damit an, dass Du auf meiner "<a href="http://cardamonchai.com/cardamonchai-blick-hinter-die-kulissen/">About Me Seite</a>" einen Kommentar gepostet hast, der meine <a href="http://cardamonchai.com/cardamonchai-blick-hinter-die-kulissen/musik-buecher-und-filme/">Lieblingsmusikliste</a> in den höchsten Tönen lobte. Von dem Moment an war sowieso alles klar. Wir beide und die Musik. Unsere Favoritenlisten überschnitten sich schon damals in großen Teilen und das tun sie heute noch mehr. Danke für die schöne Zeit mit Dir und die geniale Musik, die ich durch Dich und mit Dir entdeckt habe! Lass uns für immer so weitermachen.</blockquote>
+<blockquote>Matze, vor sieben Jahren liefen wir uns das erste Mal über den Weg und kurz danach fing alles damit an, dass Du auf meiner  "[Lieblingsmusikliste](/cardamonchai-blick-hinter-die-kulissen/)  in den höchsten Tönen lobte. Von dem Moment an war sowieso alles klar. Wir beide und die Musik. Unsere Favoritenlisten überschnitten sich schon damals in großen Teilen und das tun sie heute noch mehr. Danke für die schöne Zeit mit Dir und die geniale Musik, die ich durch Dich und mit Dir entdeckt habe! Lass uns für immer so weitermachen.</blockquote>
 
 In Matzes Liste werdet Ihr nicht nur Überschneidungen mit meiner Liste finden.
 Alle Platten, die darin vorkommen, kommen auch in meiner vor, wenn ich sie nach
@@ -121,7 +121,7 @@ mit der Musik.
 ## Wegweiser "10 Alben - Keine Erklärung"
 
 <ol>
-    <li><a href="http://cardamonchai.com/2018/03/meine-ultimative-lieblingsplatten-liste/">Meine ultimative Lieblingsplattenliste</a></li>
-    <li><a href="http://cardamonchai.com/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/">Björns ultimative Lieblingsplattenliste</a></li>
+    <li> [Meine ultimative Lieblingsplattenliste](/2018/03/meine-ultimative-lieblingsplatten-liste/) </li>
+    <li> [Björns ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/) </li>
     <li>Matzes ultimative Lieblingsplattenliste</li>
 </ol>

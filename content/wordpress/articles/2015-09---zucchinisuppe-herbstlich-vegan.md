@@ -41,9 +41,9 @@ in meinem Leben bis jetzt gesehen habe. Ein Kollege brachte sie ihm mit,
 natürlich bio und aus dem eigenen Garten.</strong>
 
 Weil ich gestern hier so
-<a href="http://cardamonchai.com/2015/09/ich-bleib-dabei-vegan-macht-spass/">lautstark
-damit angegeben habe</a>, dass ich vorhätte, was Leckeres zu kochen, zeige ich
-Euch heute, was ich daraus gemacht habe.
+[lautstark damit angegeben habe](/2015/09/ich-bleib-dabei-vegan-macht-spass/),
+dass ich vorhätte, was Leckeres zu kochen, zeige ich Euch heute, was ich daraus
+gemacht habe.
 
 ## Ihr braucht<ul><li>Kochtopf</li><li>Herdplatte</li><li>Kochlöffel</li><li>Schöpflöffel</li><li>Messer</li><li>Blender oder Stabmixer</li></ul>
 
@@ -68,5 +68,4 @@ Mit dem Schöpflöffel auf den Tellern anrichten und mit ein paar Tropfen
 Kürbiskernöl verzieren. Guten Appetit! :-)
 
 Als Beilage gab es mein selbstgemachtes Jederkanns-Brot,
-<a href="http://cardamonchai.com/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/">das
-Rezept findet Ihr hier</a>.
+[das Rezept findet Ihr hier](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/).

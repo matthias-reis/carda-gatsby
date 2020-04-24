@@ -67,7 +67,7 @@ uns besonders, dass Du unsere Produkte testen möchtest
 
 Mehr zu den Inhaltsstoffen und unserem Qualitätsanspruch erfährst du auch in
 unserem Magazin. Schau zum Beispiel mal
-<a href="http://www.ashera-cosmetics.de/die-beste-qualitaet-ist-unser-anspruch" target="_blank" rel="noopener">hier</a>
+[hier](http://www.ashera-cosmetics.de/die-beste-qualitaet-ist-unser-anspruch)
 nach."</blockquote>
 
 ## Der Produkttest
@@ -165,8 +165,7 @@ Jacqueline alles selbst.
 <hr />
 
 Hinweis: Die Aktion ist beendet.
-<a href="https://cardamonchai.com/tag/verlosung/">Bestimmt findet irgendwann
-wieder eine tolle Verlosung statt</a>.
+[Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
 
@@ -178,18 +177,17 @@ den/die Gewinner/in am 10. Februar, bis dahin solltet Ihr also teilnehmen.
 
 Der/die Gewinner/in willigt ein, dass seine Daten von Ashéra Cosmetics einmalig
 zur Durchführung des Gewinnspiels verarbeitet werden.
-<a href="https://cardamonchai.com/datenschutz/teilnahmebedingungen/">Die
-Teilnahmebedingungen bei Verlosungen findet Ihr im Blog hier</a>.
+[Die Teilnahmebedingungen bei Verlosungen findet Ihr im Blog hier](/datenschutz/teilnahmebedingungen/).
 
 ![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
 
 Weitere Informationen zu den Produkten findet Ihr auf der
-<a href="https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F" target="_blank" rel="noopener">Homepage</a>
+[Homepage](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
 
 </a>
 
 <em>Dieser Artikel enthält Werbung und Affiliate Links und entstand im
 Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch
-nicht
-beeinflusst.<a href="https://www.trusted-blogs.com/tipps/werbekennzeichnung" target="_blank" rel="noopener">
-Für Infos dazu bitte hier klicken</a>.</em>
+nicht beeinflusst.
+[Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
+</em>

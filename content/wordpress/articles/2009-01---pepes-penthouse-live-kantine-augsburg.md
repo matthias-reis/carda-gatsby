@@ -41,9 +41,9 @@ subTitle: Band des Jahres 2009
 <p id="articleContent"><strong>
 
 Erst
-<a title="Pepes Penthouse GEN N" href="http://cardamonchai.com/2009/01/pepes-penthouse-live-25-jahre-gen-n-kantine-augsburg/">einen
-Tag zuvor</a> standen die Jungs im Rahmen der 25 Jahre GEN N-Feierlichkeiten in
-der Kantine auf der Bühne.
+[einen Tag zuvor](/2009/01/pepes-penthouse-live-25-jahre-gen-n-kantine-augsburg/)
+standen die Jungs im Rahmen der 25 Jahre GEN N-Feierlichkeiten in der Kantine
+auf der Bühne.
 
 Da gestern die letzten 4 von insgesamt 56 Bands angetreten sind, werden wir wohl
 schon in den nächsten Tagen erfahren, welche Bands beim Contest weitergekommen
@@ -80,9 +80,7 @@ Drücken wir <strong>Pepes Penthouse</strong> die Daumen, dass sie bei
 <strong>Band des Jahres 2009</strong> weiterkommen. Für mich sind sie jedenfalls
 Topfavorit.
 
-<em>Homepage
-<a title="Band des Jahres" href="http://www.band-des-jahres.de" target="_blank" rel="noopener">Band
-des Jahres</a></em>
+<em>Homepage [Band des Jahres](http://www.band-des-jahres.de) </em>
 
 [gallery type="rectangular" size="medium" link="none"
 ids="11103,11104,11105,11106,11107,11108,11109,11110,11111,11112,11113,11114,11115,11116,11117,11118,11119,11120,11121,11122,11123,11124"]
@@ -91,4 +89,5 @@ ids="11103,11104,11105,11106,11107,11108,11109,11110,11111,11112,11113,11114,111
 
 &nbsp;
 
-<strong><a href="http://cardamonchai.files.wordpress.com/2009/01/img_18732.jpg"></a></strong><strong></strong>
+<strong> [](http://cardamonchai.files.wordpress.com/2009/01/img_18732.jpg)
+</strong><strong></strong>

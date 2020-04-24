@@ -82,9 +82,9 @@ nicht vorenthalten. [myflickr tag ="annegaensehelsinki2016"]
 ## Wegweiser Finnland 2016
 
 <ol>
-    <li><a href="http://cardamonchai.com/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/">Sommer auf der Ostsee - Überfahrt von Travemünde nach Helsinki</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/helsinki-schoenheit-an-der-ostsee/">Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel in Helsinki - Auf jeder Statue eine Möwe</a></li>
+    <li> [Sommer auf der Ostsee - Überfahrt von Travemünde nach Helsinki](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) </li>
+    <li> [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/) </li>
+    <li> [Seevögel in Helsinki - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/) </li>
     <li>Gänse in Helsinki - Weißwangengänse - Gefiederte Finnland-Einwanderer</li>
-    <li><a href="http://cardamonchai.com/2016/10/kuopion-korttelimuseo/">Kuopion Korttelimuseo</a></li>
+    <li> [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/) </li>
 </ol>

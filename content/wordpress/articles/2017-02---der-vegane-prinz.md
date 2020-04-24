@@ -117,8 +117,8 @@ Truth </em>von Al Gore und <em>Before The Flood </em>von Leonardo DiCaprio.
 <blockquote>Man muss wirklich kein Raktenwissenschaftler sein, um zu verstehen, dass der Klimawandel echt ist.</blockquote>
 
 Prinz Vegan findet Ihr übrigens auch auf
-<a href="https://www.instagram.com/p/BPnDVNEDw0w/" target="_blank" rel="noopener">Instagram</a>. Mich
-hat er schon mal als Fan gewonnen, vielleicht wollt Ihr ihm ja auch folgen?
+[Instagram](https://www.instagram.com/p/BPnDVNEDw0w/).  Mich hat er schon mal
+als Fan gewonnen, vielleicht wollt Ihr ihm ja auch folgen?
 
 Mehr erfahrt Ihr auf der Seite des National Observer. Dazu könnt Ihr einfach auf
 den Screenshot klicken.
@@ -128,12 +128,10 @@ den Screenshot klicken.
 <a href="http://www.nationalobserver.com/2017/02/10/news/meet-vegan-saudi-prince-whos-turning-lights-jordan" target="_blank" rel="noopener">
 
 Quelle und Screenshot:
-<a href="http://www.nationalobserver.com/2017/02/10/news/meet-vegan-saudi-prince-whos-turning-lights-jordan" target="_blank" rel="noopener">National
-Observer</a>
+[National Observer](http://www.nationalobserver.com/2017/02/10/news/meet-vegan-saudi-prince-whos-turning-lights-jordan)
 
-Foto:
-<a href="https://www.flickr.com/photos/26116471@N03/" target="_blank" rel="noopener">Wajahat
-Mahmoot</a>, Flickr Creative Commons "The Sun Is A Painter"
+Foto: [Wajahat Mahmoot](https://www.flickr.com/photos/26116471@N03/), Flickr
+Creative Commons "The Sun Is A Painter"
 
 &nbsp;
 

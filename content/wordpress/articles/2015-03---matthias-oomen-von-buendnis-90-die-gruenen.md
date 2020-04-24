@@ -59,9 +59,9 @@ Mitglied des Landesvorstandes im Landesverband Mecklenburg-Vorpommern.
 
 Ein Thema, das Matthias Oomen besonders am Herzen liegt, ist die zunehmende
 Obdachlosigkeit in Berlin. In seinem Blog "Oomen Berlin"
-<a href="http://www.oomen.berlin/2014/12/21/in-berlin-obdachlosen-helfen-so-geht-es/" target="_blank" rel="noopener">berichtet
-er darüber</a> und zeigt auf, wie man den Betroffenen helfen kann. Ich habe mich
-mit Matthias zum Interview verabredet.
+[berichtet er darüber](http://www.oomen.berlin/2014/12/21/in-berlin-obdachlosen-helfen-so-geht-es/)
+und zeigt auf, wie man den Betroffenen helfen kann. Ich habe mich mit Matthias
+zum Interview verabredet.
 
 <b>Anne: </b>Hallo Matthias! Vielen Dank, dass du dir die Zeit für das Interview
 nimmst! Wie geht es dir heute?
@@ -110,7 +110,7 @@ gleichen Rahmen vorhanden ist.
 <b>Anne: </b>Wie kommt es dazu, dass es derzeit so viele Obdachlose in deutschen
 Städten gibt?
 
-## "Geld wird zum Nulltarif verliehen"<b>Matthias:</b> Die Tatsache, dass an den internationalen Kapitalmärkten derzeit Geld quasi zum Nulltarif verliehen wird, sorgt dafür, dass die Immobilienpreise enorm anziehen. Gleichzeitig erwarten Investoren eine angemessene Rendite. Dieses Spannungsdelta wird dadurch verschärft, dass es seit einigen Jahren keinen Sozialen Wohnungsbau gibt. Berlin nimmt eine Sonderrolle ein: Nach dem Berliner Bankenskandal wurde in der Stadt im Prinzip keine aktive Stadtentwicklungspolitik mehr gemacht. Alles passierte hier zufällig und willkürlich. Die Folgen sind explodierende Mieten und ständig steigender Wohnungsmangel. Am Ende verlieren hier die Schwächsten, zumal gerade kleine Wohnungen Mangelware sind. Diese Entwicklung war seit Jahren absehbar, deshalb betreibt meine Partei bereits seit 2010 <a title="Mietenblog der Grünen" href="http://mietenblog.de" target="_blank" rel="noopener">mietenblog.de</a>!
+## "Geld wird zum Nulltarif verliehen"<b>Matthias:</b> Die Tatsache, dass an den internationalen Kapitalmärkten derzeit Geld quasi zum Nulltarif verliehen wird, sorgt dafür, dass die Immobilienpreise enorm anziehen. Gleichzeitig erwarten Investoren eine angemessene Rendite. Dieses Spannungsdelta wird dadurch verschärft, dass es seit einigen Jahren keinen Sozialen Wohnungsbau gibt. Berlin nimmt eine Sonderrolle ein: Nach dem Berliner Bankenskandal wurde in der Stadt im Prinzip keine aktive Stadtentwicklungspolitik mehr gemacht. Alles passierte hier zufällig und willkürlich. Die Folgen sind explodierende Mieten und ständig steigender Wohnungsmangel. Am Ende verlieren hier die Schwächsten, zumal gerade kleine Wohnungen Mangelware sind. Diese Entwicklung war seit Jahren absehbar, deshalb betreibt meine Partei bereits seit 2010 [mietenblog.de](http://mietenblog.de) !
 
 <b>Anne: </b>Erst kürzlich sah ich einen Beitrag über die Obdachlosigkeit in
 München. Ein Fernsehteam begleitete eine Woche lang einen obdachlosen Mann in

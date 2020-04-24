@@ -30,17 +30,16 @@ thumbnailId: "12100"
 subTitle: Ice Ice Suppe!
 ---
 
-Ein Gastbeitrag von
-<a href="https://tofuwunder.wordpress.com/" target="_blank">Tofuwunder</a>
+Ein Gastbeitrag von [Tofuwunder](https://tofuwunder.wordpress.com/)
 
 ![Leckere sommerliche Gazpacho aus der Küche von Tofuwunder](http://cardamonchai.com/wp-content/uploads/2015/07/image11-640x625.jpg "Leckere sommerliche Gazpacho aus der Küche von Tofuwunder")
 
 <strong>Ich freue mich wie ein Tofuschnitzel! Zum einen, weil wir endlich mal
 einen ordentlichen Sommer genießen dürfen und zum anderen, weil ich für meine
-Besteste <a href="/">Anne bloggt cardamonchai</a> ein leckeres Rezept
-gastbloggen darf. Aktuell ist es ja fast schon wieder zu heiß zum Kochen – aber
-nur fast. Man muss einfach die richtigen Dinge „kochen“. Und dabei hält man sich
-am besten an unsere Freunde in Südeuropa. </strong>
+Besteste [Anne bloggt cardamonchai](/) ein leckeres Rezept gastbloggen darf.
+Aktuell ist es ja fast schon wieder zu heiß zum Kochen – aber nur fast. Man muss
+einfach die richtigen Dinge „kochen“. Und dabei hält man sich am besten an
+unsere Freunde in Südeuropa. </strong>
 
 Aus dem Spanien-Urlaub kennen einige sicher die köstliche kalte Gemüsesuppe mit
 dem klangvollen Namen „Gazpacho“. Und da die auch noch zu 100% vegan ist, darf
@@ -71,19 +70,17 @@ Und dazu passt ganz hervorragend etwas frisches Brot.
 
 Wer gerne noch mehr Rezepte aus der Feder von Tofuwunder aka meiner lieben Caro
 kennenlernen möchte, kann dies jederzeit auf ihrer wundertollen
-<a href="https://tofuwunder.wordpress.com/" target="_blank">Homepage</a> tun.
-Vielen Dank an dieser Stelle, liebe Caro für das tolle Rezept, das nun nicht nur
-mein Blog sondern zudem auch noch mein Rezeptheft bereichert!
+[Homepage](https://tofuwunder.wordpress.com/) tun. Vielen Dank an dieser Stelle,
+liebe Caro für das tolle Rezept, das nun nicht nur mein Blog sondern zudem auch
+noch mein Rezeptheft bereichert!
 
 <em>Habt Ihr auch mal Lust, einen Gastbeitrag zu schreiben? Oder habt Ihr ein
 besonders geniales Projekt und ich soll ein Interview mit Euch machen? Dann
-meldet Euch einfach bei mir! Ich bin <a href="mailto:info@cardamonchai.com">per
-Mail</a>,
-<a style="line-height: 1.5em;" href="http://www.facebook.com/cardamonchai">via
-Facebook</a></em><span style="line-height: 1.5em;"><em> oder per Kommentar unter
-einem meiner Artikel jederzeit zu erreichen. Ich freue mich auf
-Euch!</em></span>
+meldet Euch einfach bei mir! Ich bin
+[via Facebook](mailto:info@cardamonchai.com)
+</em><span style="line-height: 1.5em;"><em> oder per Kommentar unter einem
+meiner Artikel jederzeit zu erreichen. Ich freue mich auf Euch!</em></span>
 
 ![Caros Gazpacho | large](http://cardamonchai.com/wp-content/uploads/2015/07/image1-800x569.jpg "Caros Gazpacho")
 
-<pre><span style="line-height: 1.5em;"></span></pre><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit Gratis-Download zum ausdrucken!</span></a>
+<pre><span style="line-height: 1.5em;"></span></pre> [](/2015/03/die-ultimative-vegane-festivalliste)

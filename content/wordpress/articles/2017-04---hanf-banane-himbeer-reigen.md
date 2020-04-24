@@ -76,13 +76,11 @@ Viel Spaß beim Ausprobieren! Ich wünsche Euch eine stressfreie Woche!
 ## Wegweiser Smoothies
 
 <ol>
-    <li><a href="http://cardamonchai.com/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/">Heidelbeerliebe</a></li>
-    <li><a href="http://cardamonchai.com/2014/08/sonnenaufgang-im-paradies/">Sonnenaufgang im Paradies</a></li>
+    <li> [Heidelbeerliebe](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/) </li>
+    <li> [Sonnenaufgang im Paradies](/2014/08/sonnenaufgang-im-paradies/) </li>
     <li>Hanf Banane Himbeer Reigen</li>
 </ol>
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)
 
 [gallery type="rectangular" size="large" link="none" ids="16821,16820"]

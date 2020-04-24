@@ -40,7 +40,7 @@ thumbnailId: "8780"
 subTitle: Herzhaft und saftig
 ---
 
-![Gemüseauflauf mit Gelber Beete und Basilikumtofu](http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-211.jpg?w=300 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Gemüseauflauf mit Gelber Bete und Basilikumtofu')
+![Gemüseauflauf mit Gelber Beete und Basilikumtofu](http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-211.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Gemüseauflauf mit Gelber Bete und Basilikumtofu")
 
 <strong>Nachdem ich gestern Abend wieder mal ein Bisschen in unserer Küche
 herumexperimentiert habe, gibt es heute wieder ein frisches Rezept für Euch. Es
@@ -86,4 +86,4 @@ Kussi Anne &lt;3
 
 Übrigens hatte ich beim Kochen gestern Abend hohen Besuch! :-)
 
-![Oskar schau zu | large](http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-11.jpg?w=646 '<a href="https://www.flickr.com/photos/99929697@N07/"> </a> Oskar kuckt zu')
+![Oskar schau zu | large](http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-11.jpg?w=646 " [](https://www.flickr.com/photos/99929697@N07/)  Oskar kuckt zu")

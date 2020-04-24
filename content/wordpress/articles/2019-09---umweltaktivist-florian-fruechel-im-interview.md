@@ -136,10 +136,10 @@ wir tun, damit es klappt?
 
 <strong>Florian:</strong> Jein. Das heißt: Nur wenn wir die Massentierhaltung
 <em>jetzt sofort</em> beenden, global aus der Kohle aussteigen,
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">die
-Plastikflut stoppen</a>, keine Autos mehr fahren und nicht mehr fliegen. Wäre
-ich pessimistisch, würde ich sagen, dass der Zug eigentlich mit dem Beginn der
-Industrialisierung schon abgefahren ist.
+[die Plastikflut stoppen](/2017/08/kenia-sagt-plastiktueten-nein-danke/), keine
+Autos mehr fahren und nicht mehr fliegen. Wäre ich pessimistisch, würde ich
+sagen, dass der Zug eigentlich mit dem Beginn der Industrialisierung schon
+abgefahren ist.
 
 <strong>Anne:</strong> Seit wann lebst Du vegan und was sind Deine Gründe? Wann
 kam die Umstellung?
@@ -159,19 +159,15 @@ zu verbringen.
 möchtest?
 
 <strong>Florian: </strong>Ja! Achtet auf die Umwelt! Schmeißt keine Kippen auf
-die Straßen und
-<a href="http://cardamonchai.com/2018/07/glas-statt-plastik/">verwendet Mehrweg-
-statt Einwegflaschen</a>. Bei den
-<a href="http://cardamonchai.com/2019/09/allefuersklima-hamburg/">Fridays For
-Future Demos</a> findet Ihr jede Menge Informationen, wie man bewusster und
-<strong>frei von Plastik</strong> leben kann. Wenn Ihr Müll findet, hebt ihn
-auf. Jede\*r kann täglich etwas zu einer schöneren und faireren Welt beisteuern.
+die Straßen und [Fridays For Future Demos](/2018/07/glas-statt-plastik/) findet
+Ihr jede Menge Informationen, wie man bewusster und <strong>frei von
+Plastik</strong> leben kann. Wenn Ihr Müll findet, hebt ihn auf. Jede\*r kann
+täglich etwas zu einer schöneren und faireren Welt beisteuern.
 
 ## Den Wächter des Waldes supporten
 
 Wer Florian gerne unterstützen möchte und sich regelmäßig über seine Aktionen
 informieren möchte, kann ihn jederzeit
-<a href="https://www.facebook.com/Der-W%C3%A4chter-des-Waldes-631986140571029/" target="_blank" rel="noopener nofollow">auf
-seiner Facebook-Seite besuchen</a>.
+[auf seiner Facebook-Seite besuchen](https://www.facebook.com/Der-W%C3%A4chter-des-Waldes-631986140571029/).
 
 ![der-waechter-des-waldes | full](http://cardamonchai.com/wp-content/uploads/2019/09/der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-pin.png "Dieses Bild könnt Ihr bei Pinterest teilen. Fotos: Florian Früchel privat")

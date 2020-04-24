@@ -51,9 +51,9 @@ you" nicht gespielt wurde, aber die zwei wirklich langen Zugaben machten das
 bisher zwölf Archive-Konzerten habe ich es bestimmt acht mal gehört.
 
 Da ich mir das Mitbringen von Kamera-Equipment
-<a href="http://cardamonchai.com/2013/10/karnivool-muenchen/">inzwischen
-spare</a>, sind hier meine Instagram-Bilder für Euch. Im Anschluss gibt es dann
-das von mir vermisste Lied für Euch.
+[inzwischen spare](/2013/10/karnivool-muenchen/), sind hier meine
+Instagram-Bilder für Euch. Im Anschluss gibt es dann das von mir vermisste Lied
+für Euch.
 
 [gallery type="rectangular" size="large" link="none"
 ids="15312,15313,15316,15315,15314"]

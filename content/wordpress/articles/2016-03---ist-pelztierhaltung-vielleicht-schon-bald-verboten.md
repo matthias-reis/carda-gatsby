@@ -75,10 +75,9 @@ dass in diesem Winter sogar kaum noch Jacken ohne Pelzkragen in den Geschäften
 hingen und auch Stolen, Mützen und Bommel aus Echtpelz plötzlich ganz
 selbstverständlich von allen Altergruppen und Schichten getragen werden.
 Aufklärung ist hier sehr wichtig, besonders auch, weil
-<a href="http://cardamonchai.com/2014/11/fakepelz-echtpelz/">Fakepelz kaum noch
-mit bloßem Auge vom echten Pelz zu unterscheiden ist</a>. Nur ein kompletter
-Verzicht auf Kleidung in Pelzoptik garantiert auch, dass für ein Outfit keine
-Tiere leiden mussten.
+[Fakepelz kaum noch mit bloßem Auge vom echten Pelz zu unterscheiden ist](/2014/11/fakepelz-echtpelz/).
+Nur ein kompletter Verzicht auf Kleidung in Pelzoptik garantiert auch, dass für
+ein Outfit keine Tiere leiden mussten.
 
 ## Pelze – eine sehr zweifelhafte Modeerscheinung
 

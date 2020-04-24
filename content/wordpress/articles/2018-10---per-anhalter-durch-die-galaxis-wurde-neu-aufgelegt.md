@@ -34,9 +34,9 @@ subTitle: Neues von Arthur Dent &amp; Co.
 
 <strong>Dass ich ein großer Douglas Adams Fan bin, sollte spätestens seit meiner
 Lobhudelei zum
-<a href="http://cardamonchai.com/2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/">World
-Towel Day</a> kein Geheimnis mehr sein. Jetzt feiert seine große Geschichte "Per
-Anhalter durch die Galaxis" ein Revival!</strong>
+[World Towel Day](/2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/)
+kein Geheimnis mehr sein. Jetzt feiert seine große Geschichte "Per Anhalter
+durch die Galaxis" ein Revival!</strong>
 
 Gestern erst erreichte mich ein Pressemitteilung, die mich sehr freudig gestimmt
 hat. Bereits ab dem 30. November 2018 wird

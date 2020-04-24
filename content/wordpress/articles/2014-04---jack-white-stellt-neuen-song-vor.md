@@ -35,7 +35,7 @@ thumbnailId: "7922"
 subTitle: Neues Album  "Lazaretto" am 6. Juni
 ---
 
-![Bild: Jack White Live Photos | full](http://cardamonchai.files.wordpress.com/2014/04/jack3.jpg '<a href="http://jackwhiteiii.com/live-photos/"> </a> Bild: Jack White Live Photos')
+![Bild: Jack White Live Photos | full](http://cardamonchai.files.wordpress.com/2014/04/jack3.jpg " [](http://jackwhiteiii.com/live-photos/)  Bild: Jack White Live Photos")
 
 <strong>Schon vor einiger Zeit wurden mir Gerüchte zugetragen, Jack White würde
 an einem neuen musikalischen Werk schrauben, das schon sehr bald das Licht der
@@ -48,7 +48,7 @@ kletterte die erste Single aus "Lazaretto" aus dem Osternest. Natürlich habe ic
 sie nach dem sorgfältigen Entwirren meiner Kopfhörerkabel gleich mal ausgiebig
 angehört und bin dabei zu folgenden Erkenntnissen gekommen:
 
-![Stufe 1 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack.png '<a href="http://www.rollingstone.com/music/news/jack-white-hits-the-road-on-lazaretto-summer-tour-20140407" target="_blank" rel="noopener"> </a> Stufe 1 der Rakete')
+![Stufe 1 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack.png " [](http://www.rollingstone.com/music/news/jack-white-hits-the-road-on-lazaretto-summer-tour-20140407)  Stufe 1 der Rakete")
 
 Jack White schafft es immer wieder, mich zu überraschen und es war ganz klar die
 richtige Entscheidung, das neue Album schon mal vorzubestellen. Natürlich habe
@@ -80,13 +80,11 @@ letzen Jahr erschienene "Blunderbuss" und auch musikalisch durchaus in eine
 komplett andere Richtung gehen kann, als die Vorauskopplung.
 
 Erscheinen wird die Scheibe natürlich auf Jacks Label
-<a title="Third Man Records" href="http://thirdmanrecords.com/" target="_blank" rel="noopener">Third
-Man Records</a>. Aktuelle News dazu bekommt Ihr selbstverständlich auch auf
-<a title="Jack White II" href="http://jackwhiteiii.com/news/" target="_blank" rel="noopener">Jacks
-Homepage</a>. Übrigens befindet sich Jack, was das Artwork und die vorab
-veröffentlichten Bilder angeht nach wie vor in seiner "Blauen Phase"...
+[Jacks Homepage](http://thirdmanrecords.com/). Übrigens befindet sich Jack, was
+das Artwork und die vorab veröffentlichten Bilder angeht nach wie vor in seiner
+"Blauen Phase"...
 
-![Stufe 2 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack2.jpg?w=576 '<a href="https://itunes.apple.com/de/album/lazaretto/id857917614?ign-mpt=uo%3D4" target="_blank" rel="noopener"> </a> Stufe 2 der Rakete')
+![Stufe 2 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack2.jpg?w=576 " [](https://itunes.apple.com/de/album/lazaretto/id857917614?ign-mpt=uo%3D4)  Stufe 2 der Rakete")
 
 <strong>Hier die komplette Tracklist von "Lazaretto":</strong><ol><li>Three
 Women</li><li>Lazaretto</li><li>Temporary Ground</li><li>Would You Fight For My
@@ -97,7 +95,6 @@ The Culprit</li><li>Want And Able</li></ol>
 Und als Highlight das Video zu "High Ball Stepper". Viel Spaß damit! Wir dürfen
 gespannt sein, wie es weitergeht und welche Stufe der Rakete Herr White als
 nächstes zünden wird.
-<a title="Jack White stellt Weltrekord auf" href="//2014/04/22/sondermeldung-schnellste-platte-der-welt-veroffentlicht/"><em>Weiterlesen!
-Hier geht's zur dritten Stufe der Rakete!</em></a>
+[](//2014/04/22/sondermeldung-schnellste-platte-der-welt-veroffentlicht/)
 
 [youtube http://www.youtube.com/watch?v=sRbnAxrS3EM]

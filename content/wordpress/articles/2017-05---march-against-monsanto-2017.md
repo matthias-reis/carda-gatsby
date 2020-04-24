@@ -109,7 +109,7 @@ Umweltsünden und Menschenrechtsverletzungen von Konzernen wie Monsanto und
 Bayer. Themen sind unter anderem die Abholzung der Regenwälder, Saatgut-Patente,
 die Vertreibung von Menschen und Tieren, der Aufkauf von Kleinbetrieben,
 Lebensmittel-Monopole, Breitbandherbizide wie Glyphosat und das
-<a href="http://cardamonchai.com/2019/07/kampf-gegen-das-bienensterben/">Bienensterben</a>.
+[Bienensterben](/2019/07/kampf-gegen-das-bienensterben/).
 
 [gallery type="rectangular" link="none" size="large"
 ids="16727,16731,16728,16729"]

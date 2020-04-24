@@ -69,12 +69,9 @@ guter Pflege etwas elastischer werden, ist das fein. Ganz natürlich.
 
 Der von mir getestete "XINGU Age Perfect Toner soll die Haut mit starken
 Antioxidantien versorgen und die Zellaktivität stimulieren. Die enthaltenen
-Saftelixieren werden aus
-<a href="http://cardamonchai.com/2018/01/santaverde/">Aloe Vera</a> Blättern und
-Cashewfrüchten gewonnen.
-<a href="http://cardamonchai.com/2016/09/interview-lovely-day-botanicals/">Pflanzliches
-Hyaluron</a> wirkt zudem glättend. Ectoin schützt vor Umwelteinflüssen und
-Maracuja-Extrakt verbessert die Elastizität.
+Saftelixieren werden aus [Pflanzliches Hyaluron](/2018/01/santaverde/) wirkt
+zudem glättend. Ectoin schützt vor Umwelteinflüssen und Maracuja-Extrakt
+verbessert die Elastizität.
 
 Ich habe den Toner sowohl nach der Reinigung als Basis für meine Pflegeprodukte,
 als auch als kleine Erfrischung zwischendurch über dem Make-up aufgetragen. Das
@@ -113,11 +110,10 @@ Alle Produkte von Santaverde sind mit dem Leaping Bunny und dem Vegan Society
 Logo ausgezeichnet. Tierversuche und Inhaltsstoffe tierischen Ursprungs sind
 somit ausgeschlossen. Ein Großteil der verwendeten Zutaten trägt außerdem das
 EU-Biosiegel. Wer mehr über Santaverde erfahren möchte, liest am besten mal
-<a href="http://cardamonchai.com/2018/01/santaverde/">diesen Artikel</a>.
+[diesen Artikel](/2018/01/santaverde/).
 
 [glry name="2018-12-santaverde-xingu-toner"]
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>

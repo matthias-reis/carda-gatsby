@@ -84,8 +84,6 @@ Lebensmittelwertschätzung interessiert, kann beim Team der Vetzgereich Workshop
 zu diesem Thema belegen. Denn mal Hand auf's Herz: Wer weiß heute eigentlich
 noch, wie man Gemüse für den Winter einmacht?
 
-Quelle und Bilder:
-<a href="http://dievetzgerei.berlin/" target="_blank" rel="noopener">Vetzgerei
-Berlin</a>
+Quelle und Bilder: [Vetzgerei Berlin](http://dievetzgerei.berlin/)
 
 </div>

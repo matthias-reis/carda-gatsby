@@ -47,11 +47,10 @@ subTitle: Eine vegane Oase im Herzen von Las Palmas
 
 <strong> vorstellen. Eine gemütliche Oase in Gran Canarias Hauptstadt. </strong>
 
-Während unserer
-<a href="http://cardamonchai.com/2017/05/vegan-auf-gran-canaria/">Gran Canaria
-Reise</a> gönnten wir uns auch eine Stadtbesichtigung in Las Palmas. Gegen
-frühen Nachmittag waren wir so richtig schön ausgehungert. Daher fragten wir das
-Internet nach Lokalen mit veganen Optionen. Und wurden sofort fündig.
+Während unserer [Gran Canaria Reise](/2017/05/vegan-auf-gran-canaria/) gönnten
+wir uns auch eine Stadtbesichtigung in Las Palmas. Gegen frühen Nachmittag waren
+wir so richtig schön ausgehungert. Daher fragten wir das Internet nach Lokalen
+mit veganen Optionen. Und wurden sofort fündig.
 
 ## La Hierba Luisa - Nichts wie hin
 
@@ -110,13 +109,9 @@ Sollten wir mal wieder auf der Insel weilen, werden wir ganz sicher auch dem
 Wart Ihr auch schon mal dort? Ich freue mich auf Euren Kommentar!
 
 Ihr findet das <em>La Hierba Luisa</em> bei
-<a href="https://www.instagram.com/lahierbaluisa/?hl=de" target="_blank" rel="noopener">Instagram</a>
-und bei
-<a href="https://www.facebook.com/lahierbaluisa/?fref=ts" target="_blank" rel="noopener">Facebook</a>.
+[Facebook](https://www.instagram.com/lahierbaluisa/?hl=de).
 
-<a class="banner banner-green" href="/2017/05/vegan-auf-gran-canaria/"><span class="head">Willkommen
-im Paradies</span><span class="text">Mehr Infos zum Thema <em>Vegan reisen auf
-Gran Canaria</em> findet Ihr in meinem großen Bericht</span></a>
+[](/2017/05/vegan-auf-gran-canaria/)
 
 ![La Hierba Luisa | large](http://cardamonchai.com/wp-content/uploads/2017/05/34587993052_495603d943_k-800x431.jpg)
 
@@ -124,13 +119,13 @@ Gran Canaria</em> findet Ihr in meinem großen Bericht</span></a>
 
 <ol>
     <li>Eine vegane Oase im Herzen von Las Palmas</li>
-    <li><a href="http://cardamonchai.com/2017/05/vegan-auf-gran-canaria/">Vegan auf Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/el-iris-de-lucy-las-palmas/">Zeitgenössische Künstlerinnen Afrikas in Las Palmas</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/rund-um-den-leuchtturm-von-maspalomas/">Rund um den Leuchtturm von Maspalomas</a></li>
-    <li><a href="http://cardamonchai.com/2017/07/die-duenen-von-maspalomas/">Die Dünen von Maspalomas</a></li>
-    <li><a href="http://cardamonchai.com/2017/07/gran-canaria-der-sueden/">Mit dem Boot von Bucht zu Bucht</a></li>
-    <li><a href="http://cardamonchai.com/2017/08/las-palmas-de-gran-canaria/">Stadtrundgang in Las Palmas de Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/09/die-einzige-kaffeeplantage-europas/">Die einzige Kaffeeplantage Europas</a></li>
+    <li> [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/) </li>
+    <li> [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/) </li>
+    <li> [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/) </li>
+    <li> [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/) </li>
+    <li> [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/) </li>
+    <li> [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/) </li>
+    <li> [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/) </li>
 </ol>
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 1070px; left: 20px;">Merken</span>

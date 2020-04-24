@@ -72,25 +72,25 @@ Serie aus Foto-Artikeln. Also bleibt dran! Und jetzt: Diashow ab!
 ## Wegweiser Möwen
 
 <ol>
-    <li><a href="/2010/01/moewen-am-bosporus/">Möwen am Bosporus (Januar 2010)</a></li>
-    <li><a href="/2015/07/zurueck-nach-st-peter-ording/">Zurück nach St. Peter Ording (Juli 2015)</a></li>
-    <li><a href="/2015/08/st-peter-ording/">St. Peter Ording - Perle an der Nordsee (August 2015)</a></li>
-    <li><a href="/2015/11/birdwatching-am-timmendorfer-strand/">Birdwatching am Timmendorfer Strand (November 2015)</a></li>
-    <li><a href="http://cardamonchai.com/2015/11/die-moewe/">Die Möwe, Kiel (November 2015)</a></li>
-    <li><a href="/2016/01/moewen-auf-der-bruecke/">Möwen auf der Brücke (Januar 2016)</a></li>
+    <li> [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/) </li>
+    <li> [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/) </li>
+    <li> [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/) </li>
+    <li> [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/) </li>
+    <li> [Die Möwe, Kiel (November 2015)](/2015/11/die-moewe/) </li>
+    <li> [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/) </li>
     <li>Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)</li>
-    <li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)</a></li>
-    <li><a href="http://cardamonchai.com/2017/10/moewen-in-dublin/">Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)</a></li>
-    <li><a href="http://cardamonchai.com/2018/01/moewe-am-wasser/">Möwe am Wasser</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/birds-of-westport/">Birds of Westport</a></li>
+    <li> [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/) </li>
+    <li> [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/) </li>
+    <li> [Möwe am Wasser](/2018/01/moewe-am-wasser/) </li>
+    <li> [Birds of Westport](/2018/05/birds-of-westport/) </li>
 </ol>
 
 ## Wegweiser Finnland 2016
 
 <ol>
     <li>Sommer auf der Ostsee - Überfahrt von Travemünde nach Helsinki</li>
-    <li><a href="http://cardamonchai.com/2016/08/helsinki-schoenheit-an-der-ostsee/">Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/auf-jeder-statue-eine-moewe/">Seevögel in Helsinki - Auf jeder Statue eine Möwe</a></li>
-    <li><a href="http://cardamonchai.com/2016/08/gaense-helsinki/">Gänse in Helsinki - Weißwangengänse - Gefiederte Finnland-Einwanderer</a></li>
-    <li><a href="http://cardamonchai.com/2016/10/kuopion-korttelimuseo/">Kuopion Korttelimuseo</a></li>
+    <li> [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/) </li>
+    <li> [Seevögel in Helsinki - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/) </li>
+    <li> [Gänse in Helsinki - Weißwangengänse - Gefiederte Finnland-Einwanderer](/2016/08/gaense-helsinki/) </li>
+    <li> [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/) </li>
 </ol>

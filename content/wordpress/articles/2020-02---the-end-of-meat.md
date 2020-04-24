@@ -42,11 +42,9 @@ Ihr diesen Film auf jeden Fall sehen.
 
 ![the-end-of-meat-esther-the-wonderpig](http://cardamonchai.com/wp-content/uploads/2020/02/the-end-of-meat-esther-the-wonderpig-400x300.jpg "Esther The Wonderpig und ihre Familie")
 
-Genau wie
-"<a href="http://cardamonchai.com/2019/11/live-and-let-live-film/">Live And Let
-Live</a>" stammt "The End Of Meat" aus Marc Pierschels Filmschmiede. Der
-gebürtig aus Hildesheim stammende Filmemacher beschäftigt sich schon lange mit
-dem Thema Veganismus.
+Genau wie "[Live And Let Live](/2019/11/live-and-let-live-film/)" stammt "The
+End Of Meat" aus Marc Pierschels Filmschmiede. Der gebürtig aus Hildesheim
+stammende Filmemacher beschäftigt sich schon lange mit dem Thema Veganismus.
 
 ## Eine vegane Zukunftsvision
 
@@ -82,11 +80,12 @@ dabei ihre klaren Vorteile.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/261392546" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
-<a href="http://www.theendofmeat.com/watch.html">Auf der Homepage des Films</a>
-seht Ihr genau, wo Ihr den Film streamen könnt.
+[Auf der Homepage des Films](http://www.theendofmeat.com/watch.html) seht Ihr
+genau, wo Ihr den Film streamen könnt.
 
 Hat Euch mein Filmtipp gefallen? Schön! Wenn Ihr in Zukunft auf meiner Seite
-nichts mehr verpassen möchtet, <a href="#newsletter">abonniert am besten meinen
-Newsletter.</a> Ich informiere Euch dann einmal wöchentlich über neue Beiträge.
+nichts mehr verpassen möchtet,
+[abonniert am besten meinen Newsletter.](#newsletter) Ich informiere Euch dann
+einmal wöchentlich über neue Beiträge.
 
-Bilder: <a href="http://www.theendofmeat.com/presse.html">The End Of Meat</a>
+Bilder: [The End Of Meat](http://www.theendofmeat.com/presse.html)

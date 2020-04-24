@@ -117,9 +117,7 @@ keine zu hören.
 <iframe src="https://www.youtube.com/embed/XoFJA24GhfA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <strong>Quellen:</strong>
-<a href="https://cultofluna.bandcamp.com/album/a-dawn-to-fear" target="_blank" rel="noopener">Bandcamp</a>,
-<a href="https://www.cultofluna.com/" target="_blank" rel="noopener">Cult Of
-Luna</a> <strong>Fotos: </strong>Aus meinem Archiv, Cult Of Luna Konzert 4. Mai
-2014 Feierwerk, München <strong>Artwork: </strong>Cult Of Luna
-<strong>Release-Datum: </strong>"A Dawn To Fear" wurde offiziell am 20.
-September 2019 veröffentlicht.
+[Cult Of Luna](https://cultofluna.bandcamp.com/album/a-dawn-to-fear)
+<strong>Fotos: </strong>Aus meinem Archiv, Cult Of Luna Konzert 4. Mai 2014
+Feierwerk, München <strong>Artwork: </strong>Cult Of Luna <strong>Release-Datum:
+</strong>"A Dawn To Fear" wurde offiziell am 20. September 2019 veröffentlicht.

@@ -41,8 +41,7 @@ subTitle: Markt für pflanzliche Alternativen nimmt zu
 Interesse der Amerikaner an Kuhmilch immer mehr ab. Mehr und mehr Menschen
 stellen fest, dass es ihnen ohne Milch besser geht und reagieren.</strong>
 
-Die Lobbyarbeit der
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/" target="_blank" rel="noopener">Milchindustrie</a>
+Die Lobbyarbeit der [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/)
 hat über Jahrzehnte für das glänzende Image von Kuhmilch gesorgt. So betrug der
 Pro-Kopf-Verbrauch in Amerika in den 70ern ganze 113,5 Liter, berichtet die
 Albert Schweitzer Stiftung. Seit den 90ern geht der Konsum allerdings zurück.
@@ -122,11 +121,9 @@ Erkrankungen gebracht.
 
 Alles, was Ihr schon immer über Kuhmilch und wie sie sich auf unsere Gesundheit
 auswirkt, Kühe in der Milchindustrie und pflanzliche Milchalternativen wissen
-wolltet,
-<a href="http://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/" target="_blank" rel="noopener">könnt
-Ihr in diesem Artikel </a>nachlesen. Ihr findet darin auch den Link zur von mir
-erwähnten Harvard-Studie sowie viele weitere interessante wissenschaftliche
-Details.
+wolltet, [könnt Ihr in diesem Artikel](/2014/09/pflanzenmilch-wieso-denn-blos/)
+nachlesen. Ihr findet darin auch den Link zur von mir erwähnten Harvard-Studie
+sowie viele weitere interessante wissenschaftliche Details.
 
 Fakt ist: Sojamilch enthält genauso wie Kuhmilch 120 mg Kalzium pro 100g. Um
 einen Liter davon herzustellen, braucht man lediglich 100 Gramm getrocknete
@@ -135,17 +132,9 @@ angebaut werden. Dafür müssen keine Kühe leiden und keine Kälbchen von ihren
 Müttern getrennt werden.
 
 Übrigens kann man auch selbst ganz tolle Sojamilch herstellen.
-<a href="http://cardamonchai.com/2014/12/diy-sojamilch/" target="_blank" rel="noopener">Hier
-ist mein Rezept!</a>
+[Hier ist mein Rezept!](/2014/12/diy-sojamilch/)
 
 Quelle: Albert Schweitzer Stiftung
-<a href="https://albert-schweitzer-stiftung.de/aktuell/kuhmilch-auf-dem-us-markt-immer-unbeliebter?utm_source=nl18-13-14&amp;utm_medium=email&amp;utm_campaign=w-nl" target="_blank" rel="noopener">Link</a>
-<small>Titelbild:
-<a href="https://pixabay.com/de/users/Jan-Mallander-615621/" target="_blank" rel="noopener">Jan-Mallander</a>,
-Pixabay, quadratisches
-Bild: <a href="https://pixabay.com/de/users/Couleur-1195798/" target="_blank" rel="noopener">couleur</a>,
-Pixabay, Euter Textmitte:
-<a href="https://pixabay.com/de/users/Hans-2/" target="_blank" rel="noopener">Hans</a>,
-Pixabay, Euter unten:
-<a href="https://pixabay.com/de/users/stux-12364/" target="_blank" rel="noopener">stux</a>,
+[Link](https://albert-schweitzer-stiftung.de/aktuell/kuhmilch-auf-dem-us-markt-immer-unbeliebter?utm_source=nl18-13-14&utm_medium=email&utm_campaign=w-nl)
+<small>Titelbild: [stux](https://pixabay.com/de/users/Jan-Mallander-615621/),
 Pixabay</small>

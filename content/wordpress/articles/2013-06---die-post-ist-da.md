@@ -56,12 +56,8 @@ subTitle: Neue Schallplatten in meiner Sammlung
 ---
 
 <strong>Bereits letzte Woche Mittwoch hatte
-<a title="Marleen" href="http://marleenrecords.wordpress.com" target="_blank" rel="noopener">der
-Schallplattenhändler meines Vertrauens</a> ein Paket für mich aufgegeben.
-Vielleicht haben ja einige von Euch
-<a title="Twitter" href="https://twitter.com/Anne_Reko" target="_blank" rel="noopener">auf
-Twitter </a>mitverfolgt, was für eine spannende Reise es hinter sich
-hat.</strong>
+[auf Twitter](http://marleenrecords.wordpress.com) mitverfolgt, was für eine
+spannende Reise es hinter sich hat.</strong>
 
 Nachdem ich leider keine Nachricht vom Paketdienst bekommen hatte, fuhr ich
 heute auf gut Glück zum Paketshop, der normalerweise meine Pakete entgegennimmt.

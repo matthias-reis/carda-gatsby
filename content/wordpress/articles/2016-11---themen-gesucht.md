@@ -34,10 +34,10 @@ subTitle: Leseraufruf
 ![Themen](http://cardamonchai.com/wp-content/uploads/2016/11/29394622754_0160985023_z-640x427.jpg "Hier könnte Euer Themenvorschlag hängen")
 
 <strong>Kennt Ihr noch meine Ode an die
-<a href="http://cardamonchai.com/2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/">herbstliche
-Schreibblockade</a>? Drei Jahre ist es jetzt her, seit ich Sie hier im Blog
-veröffentlicht habe. Seitdem habe ich zu den verschiedensten Themen berichtet,
-Leute interviewt und Bildergalerien gezeigt.</strong>
+[herbstliche Schreibblockade](/2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/)
+? Drei Jahre ist es jetzt her, seit ich Sie hier im Blog veröffentlicht habe.
+Seitdem habe ich zu den verschiedensten Themen berichtet, Leute interviewt und
+Bildergalerien gezeigt.</strong>
 
 Für einen kurzen Moment hatte ich schon befürchtet, dass sie mich auch in diesem
 Jahr wieder erwischt hat, aber ich bin ihr glücklicherweise gerade noch
@@ -97,4 +97,4 @@ grob zusammengefasst
 </ul>
 
 Ich freue mich auf Eure Zuschriften unter
-<a href="mailto:info@cardamonchai.com">anne.reis@cardamonchai.com</a>
+[anne.reis@cardamonchai.com](mailto:info@cardamonchai.com)

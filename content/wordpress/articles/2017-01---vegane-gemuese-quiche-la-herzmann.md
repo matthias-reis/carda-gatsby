@@ -38,8 +38,8 @@ Schon beim Aufschließen der Wohnungstür strömte mir ein wunderbarer Duft
 entgegen und ich konnte es kaum erwarten, sie zu probieren.
 
 Weil mir beim
-<a href="http://cardamonchai.com/2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/">Bloggertreffen</a>
-vor ein paar Tagen ja nachgesagt wurde, ich würde ein Foodblog führen, gebe ich
+[Bloggertreffen](/2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/) vor
+ein paar Tagen ja nachgesagt wurde, ich würde ein Foodblog führen, gebe ich
 denen jetzt mal Foodblog. Hier kommt Matzes unglaublich leckeres Rezept für
 vegane Gemüse-Quiche. Ja, er hat es komplett selbst kreiiert. Und nein, es ist
 keine Milch drin. :-)
@@ -105,7 +105,7 @@ Ihr die Springform öffnen und die Quiche in Portionen aufteilen.
 
 Dazu passt hervorragend ein schöner Frankfurter Äppler oder ein trockener Cider.
 Ihr wollt noch eine Beilage? Wie wäre es mit einem kräftigen
-<a href="http://cardamonchai.com/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/">Vollkornbrot</a>?
+[Vollkornbrot](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/) ?
 
 Buon Appetit! &lt;3
 

@@ -111,13 +111,12 @@ Außerdem falle ich so einfach immer wieder in mein altes Muster zurück. Sorry,
 liebe Psychologen. Ich wollte mich lieber belohnen, statt betrafen. Da kam mir
 das neueste Testpaket, das mir vor Kurzem ins Haus geflattert ist, ganz recht.
 
-Enthalten war eine kleine Flasche
-<a href="https://amzn.to/2DxCUhk" target="_blank" rel="noopener">Körperöl "Good
-On You"</a> der Marke Naissance. 100 Prozent biologisch, bio-aktive
-Inhaltsstoffe, nicht fettend, frei von künstlichen Farbstoffen, Gentechnik,
-Tierversuchen und Konservierungsstoffen, vegan, feuchtigkeitsspendend, gut gegen
-Falten, Schwangerschaftsstreifen und für mehr Elastizität, stand auf der
-Verpackung. Das klingt doch schon mal schön, oder?
+Enthalten war eine kleine Flasche [Körperöl "Good On
+You"](https://amzn.to/2DxCUhk) der Marke Naissance. 100 Prozent biologisch,
+bio-aktive Inhaltsstoffe, nicht fettend, frei von künstlichen Farbstoffen,
+Gentechnik, Tierversuchen und Konservierungsstoffen, vegan,
+feuchtigkeitsspendend, gut gegen Falten, Schwangerschaftsstreifen und für mehr
+Elastizität, stand auf der Verpackung. Das klingt doch schon mal schön, oder?
 
 Von einer Kosmetikerin hatte ich mal gehört, dass es besonders wichtig ist, das
 Nagelbett schön geschmeidig zu halten, damit man nicht Gefahr läuft, daran
@@ -147,19 +146,18 @@ Beschäftigungen, die schöner sind, als sich selbst an den Fingern rumzubeißen
 Katzen streicheln zum Beispiel, oder schreiben. Buchseiten umblättern, oder
 nähen. Ach, sogar bügeln und aufräumen ist schöner. Eigentlich.
 
-Neben der pflegenden Wirkung, die das
-<a href="https://amzn.to/2DxCUhk" target="_blank" rel="noopener">Naissance
-Öl</a> ganz klar hat, durftet es auch noch gut. So habe ich meine Finger zwar ab
-und zu noch im Gesicht, aber nur um diesen tollen Geruch aufzusaugen. Ganz
-getreu dem Motto #loveyourself #begoodonyou, das auch auf der Verpackung prangt,
-habe ich mir vorgenommen, besser mit mir und vor allem mit meinen Fingern
-umzugehen. Das habe ich mir doch auch verdient, oder?
+Neben der pflegenden Wirkung, die das [Naissance Öl](https://amzn.to/2DxCUhk)
+ganz klar hat, durftet es auch noch gut. So habe ich meine Finger zwar ab und zu
+noch im Gesicht, aber nur um diesen tollen Geruch aufzusaugen. Ganz getreu dem
+Motto #loveyourself #begoodonyou, das auch auf der Verpackung prangt, habe ich
+mir vorgenommen, besser mit mir und vor allem mit meinen Fingern umzugehen. Das
+habe ich mir doch auch verdient, oder?
 
 Übrigens habe ich kurzzeitig auch eine kleine Narbe damit behandelt. Sie spannt
 inzwischen viel weniger und die Haut drum herum wirkt entspannter. Mal sehen,
-was meine Fältchen dazu sagen. Von Naissance wird es als
-"<a href="https://amzn.to/2DxCUhk" target="_blank" rel="noopener">Das Öl für
-alle Fälle</a>" beworben. Für mich geht es auf jeden Fall stark in die Richtung.
+was meine Fältchen dazu sagen. Von Naissance wird es als "[Das Öl für alle
+Fälle](https://amzn.to/2DxCUhk)" beworben. Für mich geht es auf jeden Fall stark
+in die Richtung.
 
 ## Inhaltsstoffe und Nachhaltigkeit
 
@@ -167,19 +165,13 @@ Enthalten sind neben Jojobaöl auch noch Wildrosenöl (daher der tolle Duft),
 Kaktusfeigenöl, Inca Inchi® und Moringa. Omega 3, 6, 7 und 9 wirken zusammen mit
 Linolsäure pflegend und stärken die Lipid-Barriere der Haut. Sanddornöl sorgt
 für die Farbe und enthält wertvolle Antioxidantien. Es ist mit dem Leaping Bunny
-Siegel zertifiziert, mit dem Soil Association Organic Label für
-<a href="http://cardamonchai.com/2018/03/vegane-kosmetik-und-naturkosmetik/">reine
-Naturkosmetik</a> ausgezeichnet und bei der Vegan Society registriert. Bei der
-Herstellung der Verpackung wurde auf Nachhaltigkeit geachtet. Die Flasche ist
-aus Glas, der Aufkleber aus Zuckerrohr.
+Siegel zertifiziert, mit dem Soil Association Organic Label für [reine
+Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/) ausgezeichnet und
+bei der Vegan Society registriert. Bei der Herstellung der Verpackung wurde auf
+Nachhaltigkeit geachtet. Die Flasche ist aus Glas, der Aufkleber aus Zuckerrohr.
 
 Insgesamt gibt es von Naissance inzwischen mehr als 1.000 Produkte, darunter ist
-auch der tolle
-<a href="http://cardamonchai.com/2018/08/veganer-bio-glitter-naissance/" target="_blank" rel="noopener">Bio-Glitter</a>,
-den ich hier vor Kurzem vorgestellt habe. Gestartet wurde das Unternehmen vom
-Firmensitz in Neath, England aus. Los ging es mit einem Gesichtsserum. Weitere
-Infos zu Naissance findet Ihr auf der
-<a href="https://www.enaissance.de/good-on-you" target="_blank" rel="noopener">Homepage</a>.
+auch der tolle [Homepage](/2018/08/veganer-bio-glitter-naissance/).
 
 ## #loveyourself und Deine Hände
 
@@ -207,5 +199,5 @@ bei. Vielen Dank für Euer Verständnis.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>

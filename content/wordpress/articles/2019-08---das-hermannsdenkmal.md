@@ -34,11 +34,9 @@ subTitle: Ein wirklich großer Kerl
 <strong>Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten
 Denkmalen in ganz Europa und es lohnt sich sehr, es zu besuchen.</strong>
 
-Bei unserem Kurzurlaub in
-<a href="http://cardamonchai.com/2019/07/bielefeld/">Bielefeld</a> planten wir
-auch eine kleine Wanderung rund um das Hermannsdenkmal mit ein. Jährlich kommen
-mehr als 500.000 Besucher hin - die können ja schließlich nicht alle
-schiefliegen.
+Bei unserem Kurzurlaub in [Bielefeld](/2019/07/bielefeld/) planten wir auch eine
+kleine Wanderung rund um das Hermannsdenkmal mit ein. Jährlich kommen mehr als
+500.000 Besucher hin - die können ja schließlich nicht alle schiefliegen.
 
 ![hermannsdenkmal](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-34-400x533.jpg)
 
@@ -53,8 +51,7 @@ Mit unserem Mietauto fuhren wir raus aus Bielefeld in Richtung Detmold. Von dort
 aus ist es nicht mehr weit zum Hermannsdenkmal, das auf einer Anhöhe gelegen
 ist.
 
-In Serpentinen ging es durch den
-<a href="http://cardamonchai.com/2019/08/teutoburger-wald/">Teutoburger Wald</a>
+In Serpentinen ging es durch den [Teutoburger Wald](/2019/08/teutoburger-wald/)
 nach oben. Nach jeder Kurve wurden wir aufgeregter. Wann würde der Hermann wohl
 auftauchen? Erst ganz oben auf dem Parkplatz konnte man ihn durch das dichte
 Blätterdach endlich erahnen - so wunderbar verwunschen ist die Natur in seiner
@@ -80,13 +77,7 @@ Ein Blick in den Wanderführer lohnt sich: Rund um den Hermann findet Ihr
 zahlreiche Wanderrouten. Die anspruchsvolleren nehmen den Aufstieg, den wir im
 Auto zurückgelegt haben, gleich mit. Wir haben uns an diesem Tag für eine
 kleinere Tour entschieden, weil wir bereits die
-<a href="http://cardamonchai.com/2019/07/sparrenburg-bielefeld/">Sparrenburg</a>
-besichtigt hatten, noch nach
-<a href="http://cardamonchai.com/2019/09/bad-salzuflen/">Bad Salzuflen</a>
-wollten und am nächsten Tag eine größere Tour mit Start bei den
-<a href="http://cardamonchai.com/2019/08/die-externsteine/">Externsteinen</a>
-anstand.
+[Externsteinen](/2019/07/sparrenburg-bielefeld/) anstand.
 
 Quellen:
-<a href="https://de.wikipedia.org/wiki/Hermannsdenkmal" target="_blank" rel="noopener">Hermannsdenkmal
-Wikipedia</a>
+[Hermannsdenkmal Wikipedia](https://de.wikipedia.org/wiki/Hermannsdenkmal)

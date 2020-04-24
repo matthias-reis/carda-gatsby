@@ -72,7 +72,7 @@ Monats.
 <ol>
     <li>
 ## Cult Of Luna - "A Dawn To Fear" vom Album "A Dawn To Fear"
-Endlich bekommen wir nach und nach die Alben komplett zu hören, von denen wir in den letzen Monaten die Vorauskopplungen so sehr geliebt haben. <a href="http://cardamonchai.com/2019/09/cult-of-luna-a-dawn-to-fear/">Die neue Cult Of Luna Platte "A Dawn To Fear"</a> ist für uns alle drei das Album-Highlight des Monats. Es kann sich definitiv mit den neuen Werken von Russian Circles und <a href="http://cardamonchai.com/2019/08/das-neue-tool-album-ist-da/">Tool</a> (<a href="http://cardamonchai.com/2019/08/12-songs-fuer-den-september/">beide haben wir letzten Monat vorgestellt</a>) messen.<iframe src="https://www.youtube.com/embed/2cYtqwUso-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+Endlich bekommen wir nach und nach die Alben komplett zu hören, von denen wir in den letzen Monaten die Vorauskopplungen so sehr geliebt haben.  [beide haben wir letzten Monat vorgestellt](/2019/09/cult-of-luna-a-dawn-to-fear/) ) messen.<iframe src="https://www.youtube.com/embed/2cYtqwUso-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <h3></h3>
 </li>
     <li>
@@ -116,7 +116,7 @@ Das Album, von dem dieser Song stammt, hat mir der Schallplattenhändler meines 
 <iframe src="https://www.youtube.com/embed/azE_CKdS_JE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Tool - "7empest" vom Album "Fear Inoculum"
-Über Tool habe ich in den letzten Wochen ziemlich oft berichtet. Bevor Ihr durchdreht: Das wird (vermutlich) erstmal bis auf Weiteres das letzte Mal sein. Man kann schon mal ein bisschen hohldrehen, wenn eine so besondere Band nach 13 Jahren endlich eine neue Platte veröffentlicht und dabei so ein Tamtam macht. Und diese neue Platte auch noch so gut ist, wie <a href="http://cardamonchai.com/2019/08/das-neue-tool-album-ist-da/">"Fear Inoculum" von Tool</a>. Wir drei haben uns inzwischen reingehört und sind alle dafür, dass unser (inzwischen) gemeinsamer Favorit der Platte "7empest" hier nochmal Erwähnung findet.
+Über Tool habe ich in den letzten Wochen ziemlich oft berichtet. Bevor Ihr durchdreht: Das wird (vermutlich) erstmal bis auf Weiteres das letzte Mal sein. Man kann schon mal ein bisschen hohldrehen, wenn eine so besondere Band nach 13 Jahren endlich eine neue Platte veröffentlicht und dabei so ein Tamtam macht. Und diese neue Platte auch noch so gut ist, wie  ["Fear Inoculum" von Tool](/2019/08/das-neue-tool-album-ist-da/).  Wir drei haben uns inzwischen reingehört und sind alle dafür, dass unser (inzwischen) gemeinsamer Favorit der Platte "7empest" hier nochmal Erwähnung findet.
 <iframe src="https://www.youtube.com/embed/9D2R69gVyZ0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
 </ol>
 </li>

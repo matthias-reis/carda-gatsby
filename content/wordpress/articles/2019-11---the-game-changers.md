@@ -98,16 +98,16 @@ beteiligt. Es geht also auf ganzer Linie hochkarätig zu bei "The Game Changers"
 Zu sehen gibt es den Film bei Netflix, YouTube, GooglePlay, Vimeo, iTunes und
 VUDU.
 
-Auf der <a href="https://gamechangersmovie.com/">Homepage</a> findet Ihr neben
-Infos zur Doku unter anderem Tipps sowie tolle Rezepte unter dem Motto "Eat like
-a Game Changer".
+Auf der [Homepage](https://gamechangersmovie.com/) findet Ihr neben Infos zur
+Doku unter anderem Tipps sowie tolle Rezepte unter dem Motto "Eat like a Game
+Changer".
 
 ## Trailer "The Game Changers"
 
 <iframe src="https://www.youtube.com/embed/7JPGRGp4sSI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 Hat Euch mein Filmtipp gefallen? Das freut mich! Um in Zukunft nichts mehr auf
-meinem Blog zu verpassen, <a href="#newsletter">abonniert gerne meinen
-Newsletter</a>. Ich freue mich auf Euch!
+meinem Blog zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Ich
+freue mich auf Euch!
 
-Bilder / pictures <a href="https://gamechangersmovie.com/">The Game Changers</a>
+Bilder / pictures [The Game Changers](https://gamechangersmovie.com/)

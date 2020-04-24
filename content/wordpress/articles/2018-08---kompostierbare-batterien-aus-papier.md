@@ -46,11 +46,11 @@ warnten bereits vor immer bedenklicher werdenden Umständen.</strong>
 
 Einem Team der Universität im Amerikanischen Binghamton gelang es jetzt,
 umweltfreundliche Batterien zu entwickeln. Das Material:
-<a href="https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F" target="_blank" rel="noopener">Papier</a>!
-Es wird mit künstlich hergestellten Polymeren gemischt. Wenn die Batterien keine
-Leistung mehr bringen, können sie theoretisch im Wasser entsorgt werden. Sie
-sind vollständig biologisch abbaubar und das ohne den Zusatz von Molekülen oder
-anderen Hilfsmitteln.
+[Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F)
+! Es wird mit künstlich hergestellten Polymeren gemischt. Wenn die Batterien
+keine Leistung mehr bringen, können sie theoretisch im Wasser entsorgt werden.
+Sie sind vollständig biologisch abbaubar und das ohne den Zusatz von Molekülen
+oder anderen Hilfsmitteln.
 
 ## Batterien aus Papier können zur Verkleinerung des Müllbergs beitragen
 
@@ -90,14 +90,12 @@ würde.
 
 ![](https://www.adcell.de/promotion/view/promoId/169185/slotId/80259)
 
-<a href="https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F" target="_blank" rel="noopener">Tolle
-Accessoires aus recyceltem Papier</a>
+[Tolle Accessoires aus recyceltem Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F)
 
 \*<em>Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der
 Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>
 
 <strong>Quelle:</strong> Pressetext.com <strong>Titelbild</strong>:
-<a href="https://pixabay.com/de/users/andreas160578-2383079/" target="_blank" rel="noopener">andreas160578</a>,
-pixabay
+[andreas160578](https://pixabay.com/de/users/andreas160578-2383079/), pixabay

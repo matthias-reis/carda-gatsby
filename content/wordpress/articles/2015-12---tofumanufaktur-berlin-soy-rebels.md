@@ -164,5 +164,4 @@ Tofumanufaktur? Wird das Kollektiv vergrößert? Wird es neue Standorte geben?
 
 <strong>Anne:</strong> Vielen Dank für Das Interview!
 
-<a href="http://www.tofumanufaktur-berlin.de/" target="_blank" rel="noopener nofollow">Homepage</a>
-Tofumanufaktur
+[Homepage](http://www.tofumanufaktur-berlin.de/) Tofumanufaktur

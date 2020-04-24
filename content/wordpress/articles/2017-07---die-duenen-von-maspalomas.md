@@ -53,9 +53,9 @@ wurde aus Barranco de Fataga angeschwemmt. Ein Teil besteht, genau wie der
 angrenzende Strand, aus zerriebenen Muschelschalen, wurde somit also von den
 Gezeiten erzeugt. Ein weiterer Teil stammt von den Erosionen der Felsenküste.
 Die Dünen von Maspalomas sind sogenannte
-<a href="http://cardamonchai.com/2016/05/naturschutzgebiet-boberger-niederung/">Wanderdünen</a>.
-Die Wanderung von Dünen stoppt erst, wenn sie so stark bewachsen sind, dass der
-Boden befestigt ist, oder sie durch die eigenen Masse zu schwer werden.
+[Wanderdünen](/2016/05/naturschutzgebiet-boberger-niederung/). Die Wanderung von
+Dünen stoppt erst, wenn sie so stark bewachsen sind, dass der Boden befestigt
+ist, oder sie durch die eigenen Masse zu schwer werden.
 
 Geht man wie wir in der Vorsaison durch die Dünen, trifft man selten auf andere
 Wanderer. Ein kleiner Bereich wird von FKK-Anhängern genutzt. Die meisten
@@ -67,14 +67,14 @@ Reichweite zu haben.
 ## Wegweiser Gran Canaria
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/05/la-hierba-luisa-cocina-de-la-huerta/">Eine vegane Oase im Herzen von Las Palmas</a></li>
-    <li><a href="http://cardamonchai.com/2017/05/vegan-auf-gran-canaria/">Vegan auf Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/el-iris-de-lucy-las-palmas/">Zeitgenössische Künstlerinnen Afrikas in Las Palmas</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/rund-um-den-leuchtturm-von-maspalomas/">Rund um den Leuchtturm von Maspalomas</a></li>
+    <li> [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/) </li>
+    <li> [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/) </li>
+    <li> [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/) </li>
+    <li> [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/) </li>
     <li>Die Dünen von Maspalomas</li>
-    <li><a href="http://cardamonchai.com/2017/07/gran-canaria-der-sueden/">Mit dem Boot von Bucht zu Bucht</a></li>
-    <li><a href="http://cardamonchai.com/2017/08/las-palmas-de-gran-canaria/">Stadtrundgang in Las Palmas de Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/09/die-einzige-kaffeeplantage-europas/">Die einzige Kaffeeplantage Europas</a></li>
-    <li><a href="http://cardamonchai.com/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/">Las Vegas auf Gran Canaria</a></li>
-    <li><a href="http://cardamonchai.com/2017/09/jardin-canario-gruene-oase-in-tafira/">Jardín Canario – Grüne Oase in Tafira</a></li>
+    <li> [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/) </li>
+    <li> [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/) </li>
+    <li> [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/) </li>
+    <li> [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/) </li>
+    <li> [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/) </li>
 </ol>

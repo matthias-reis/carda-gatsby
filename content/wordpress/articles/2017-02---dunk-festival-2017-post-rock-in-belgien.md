@@ -185,25 +185,23 @@ Champion.
 ## Wegweiser DUNK!festival
 
 <ol>
-    <li><a href="http://cardamonchai.com/2017/02/dunkfestival-2016-wir-sind-auch-dabei/">DUNK!festival 2017 - Post-Rock in Begien</a></li>
-    <li><a href="http://cardamonchai.com/2017/05/dunkfestival-2017-es-geht-los/">DUNK!festival 2017 - Wir kommen!</a></li>
-    <li><a href="http://cardamonchai.com/2017/06/dunk-festival-2017-eindruecke-und-bilder/">DUNK!festival 2017 - Liebe auf den ersten Blick</a></li>
-    <li><a href="http://cardamonchai.com/2018/04/dunkfest-2018-wir-kommen/">DUNK!festival 2018 - Das Line-up</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/wir-laeuten-die-festivalsaison-ein/">Wir läuten die Festivalsaison ein - Kurze Auszeit</a></li>
-    <li><a href="http://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/">DUNK!festival 2018 - Liebe für immer</a></li>
+    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
+    <li> [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/) </li>
+    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
+    <li> [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/) </li>
+    <li> [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/) </li>
+    <li> [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) </li>
     <li>DUNK!festival 2019 - Das Line-up</li>
 </ol>
 
 ### Mehr Infos
 
 <ul>
-    <li>Dunk!festival <a href="https://www.dunkfestival.be/" target="_blank" rel="noopener">Homepage</a></li>
-    <li>Dunk!festival bei <a href="https://www.facebook.com/dunkfestival" target="_blank" rel="noopener">Facebook</a></li>
-    <li>Dunk! <a href="https://shop.dunkfestival.com/collections/dunk-records" target="_blank" rel="noopener">Label und Online-Plattenladen</a></li>
+    <li>Dunk!festival  [Homepage](https://www.dunkfestival.be/) </li>
+    <li>Dunk!festival bei  [Facebook](https://www.facebook.com/dunkfestival) </li>
+    <li>Dunk!  [Label und Online-Plattenladen](https://shop.dunkfestival.com/collections/dunk-records) </li>
 </ul>
 
 Bilder: Screenshots dunkfestival.be
 
-<a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[](/2015/03/die-ultimative-vegane-festivalliste)

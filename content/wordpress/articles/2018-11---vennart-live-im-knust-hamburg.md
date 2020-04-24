@@ -91,10 +91,9 @@ nippen an unseren Gläsern und lauschen gebannt.
 
 Eigentlich sind das da oben Oceansize. Auch Steve Durose ist dabei. Der
 Gitarrist, der sich nach der offiziellen Oceansize Auflösung der befreundeten
-Band
-<a href="https://cardamonchai.com/2012/08/burg-herzberg-festival-2012/">Amplifier</a>
-anschloss. Ebenfalls eine der von mir am meisten geschätzten Gruppen. Richard
-"Gambler" Ingram am Bass. Genau wie früher.
+Band [Amplifier](/2012/08/burg-herzberg-festival-2012/) anschloss. Ebenfalls
+eine der von mir am meisten geschätzten Gruppen. Richard "Gambler" Ingram am
+Bass. Genau wie früher.
 
 Zum Besten gegeben werden an diesem Abend nicht "nur" Vennart Songs, sondern
 auch alte Oceansize-Nummern. Zum Schluss gehen alle glücklich nach Hause. Um ein

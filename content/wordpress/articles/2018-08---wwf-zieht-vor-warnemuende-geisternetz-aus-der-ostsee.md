@@ -42,9 +42,9 @@ sowie zwei Kormoranen zum Verhängnis. Sie erstickten qualvoll darin.</strong>
 
 Geisternetze werden weltweit immer wieder zur Todesfalle für Seevögeln, Fische
 und Meeressäuger. Immer mehr davon schwimmen zusammen mit anderem
-<a href="http://cardamonchai.com/2017/08/kenia-sagt-plastiktueten-nein-danke/">Plastikmüll</a>
-in unseren Ozeanen. Die Tierschützer berichteten nach der Bergung, das Netz habe
-zum Teil noch aufrecht am Meeresboden gestanden.
+[Plastikmüll](/2017/08/kenia-sagt-plastiktueten-nein-danke/) in unseren Ozeanen.
+Die Tierschützer berichteten nach der Bergung, das Netz habe zum Teil noch
+aufrecht am Meeresboden gestanden.
 
 Im Vorfeld an das Entfernen des Geisternetzes hatten sie bei einem
 Erkundungstauchgang die toten Meeresbewohner darin gefunden. Damit keine
@@ -102,10 +102,9 @@ unter geisternetze@wwf.de.
 \*<em>Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
 Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+[Transparenz-Seite](/werbung/). </em>
 
 <strong>Quelle:</strong> Pressemitteilung des WWF
-<a href="https://www.wwf.de/2018/juli/500-meter-geisternetz-geborgen/">Link
-hier</a> <strong>Titelbild:</strong>
-<a href="https://pixabay.com/de/users/HeidelX-281649/" target="_blank" rel="noopener">HeidelX</a>,
-pixabay
+[Link hier](https://www.wwf.de/2018/juli/500-meter-geisternetz-geborgen/)
+<strong>Titelbild:</strong>
+[HeidelX](https://pixabay.com/de/users/HeidelX-281649/), pixabay

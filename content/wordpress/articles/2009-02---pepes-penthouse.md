@@ -194,8 +194,8 @@ aus?</strong><strong>Quincy:</strong> Olympia 2012 Gold holen, Stagediving
 
 <strong>Anne: Wo kann man mehr über Pepes Penthouse (z. B. im Internet)
 erfahren?</strong><strong>Quincy: </strong>Unsere
-<a title="Myspace Pepes Penthouse" href="http://www.myspace.com/pepespenthouse" target="_blank" rel="noopener">Bandseite</a>
-besuchen, oder uns einfach persönlich nach den Konzerten ansprechen.
+[Bandseite](http://www.myspace.com/pepespenthouse) besuchen, oder uns einfach
+persönlich nach den Konzerten ansprechen.
 
 <hr /><strong>Nachtrag:</strong> Der Artikel ist veraltet, die Mitglieder der Band haben sich inzwischen anderen musikalischen Projekten zugewandt.
 

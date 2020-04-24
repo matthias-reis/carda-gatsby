@@ -127,8 +127,5 @@ Empfänger ADH &amp; BEH Commerzbank IBAN DE53 200 400 600 200 400 600 Stichwort
 ARD: "Erdbeben Nepal" BIC COBADEFFXXX www.spendenkonto-nothilfe.de
 
 <small><strong>Interessantes:</strong> YOLO bei
-<a href="http://de.wikipedia.org/wiki/YOLO" target="_blank" rel="noopener">Wikipedia</a>
-Carpe Diem bei
-<a href="http://de.wikipedia.org/wiki/Carpe_diem" target="_blank" rel="noopener">Wikipedia</a></small><a class="banner banner-green" href="/2015/03/die-ultimative-vegane-festivalliste"><span class="head">Hier
-gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTE</span><span class="text">Mit
-Gratis-Download zum ausdrucken!</span></a>
+[Wikipedia](http://de.wikipedia.org/wiki/YOLO) Carpe Diem bei
+[](http://de.wikipedia.org/wiki/Carpe_diem)

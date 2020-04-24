@@ -170,11 +170,10 @@ aufhellen.
 ## Meine Fazit zum Zahnöl
 
 Ganz ehrlich? Ich will nie mehr Zahnpasta benutzen. Wenn es das irgendwann mit
-<a href="http://cardamonchai.com/2014/08/vitamin-b12-mythos-und-wahrheit/">Vitamin
-B12</a> geben würde, würde ich nur noch das kaufen! Es schmeckt zart minzig,
-aber nicht übertrieben und ist nicht salzig, wie viele Zahnpasten von
-Naturkosmetikherstellern. Die Konsistenz ist toll und der Atem ist danach schön
-frisch.
+[Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/) geben würde, würde ich
+nur noch das kaufen! Es schmeckt zart minzig, aber nicht übertrieben und ist
+nicht salzig, wie viele Zahnpasten von Naturkosmetikherstellern. Die Konsistenz
+ist toll und der Atem ist danach schön frisch.
 
 ## Kennenlernset Körper
 
@@ -288,10 +287,9 @@ Abwehrkräfte mobilisieren, vor freien Radikalen schützen und Energie geben. Z
 den Inhaltsstoffen zählen unter anderem Gojibeeren und Granatapfel.
 
 "Balancing" soll gegen Übersäuerung durch den Genuss von Alkohol,
-<a href="http://cardamonchai.com/2013/09/mein-pakt-mit-dem-schweinehund/">Zigaretten</a>
-und ungesundem Essen helfen, entschlacken und den Säure-Basen-Haushalt ins
-Gleichgewicht bringen. Enthalten sind Mikroalgen, Gerstengras sowie vor allem
-Kalzium und Magnesium.
+[Zigaretten](/2013/09/mein-pakt-mit-dem-schweinehund/) und ungesundem Essen
+helfen, entschlacken und den Säure-Basen-Haushalt ins Gleichgewicht bringen.
+Enthalten sind Mikroalgen, Gerstengras sowie vor allem Kalzium und Magnesium.
 
 "Cleansing" enthält wertvolle Ballaststoffe aus Feigen, Hafer, Baobab und
 Zitrusfasern. Es soll für eine sanfte Regulierung des Magen-Darm-Traktes sorgen
@@ -362,16 +360,14 @@ Prozent Konsequenz, 100 Prozent Ethik". Alle Inhaltsstoffe werden direkt vor Ort
 in der Steiermark frisch verarbeitet und sorgsam wie Lebensmittel behandelt.
 
 Wer jetzt neugierig ist, Sophie und die Produktpalette von Ringana findet Ihr
-online
-<a href="http://www.ringana.com/1179244" target="_blank" rel="noopener">hier</a>.
-In Kürze findet Ihr hier im Blog noch ein umfangreiches Interview mit ihr.
+online [hier](http://www.ringana.com/1179244). In Kürze findet Ihr hier im Blog
+noch ein umfangreiches Interview mit ihr.
 
 ![Ringana | large](http://cardamonchai.com/wp-content/uploads/2017/05/33871357674_b61457c8be_k-800x533.jpg)
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
 
 <em>Hinweis von Ringana: Dies ist keine offizielle Einschaltung der Ringana
 GmbH, Sophie Kluppenegger ist selbständige Ringana Frischepartnerin und der

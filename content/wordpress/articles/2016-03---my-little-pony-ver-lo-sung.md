@@ -56,9 +56,7 @@ sobald ich Eure Post-Adressen habe, gehen die bunten Pferdchen Euch raus.
 Ein fröhliches Wiehern in die Runde und eine Runde buntes Glitzerkonfetti für
 alle! Habt ein schönes Wochenende und bleibt mir treu, ich würde mich wirklich
 sehr freuen, auch in Zukunft den ein oder anderen Kommentar von Euch hier oder
-auf meiner
-<a href="http://www.facebook.com/cardamonchai" target="_blank" rel="noopener">Facebook-Seite</a>
-zu finden!
+auf meiner [Facebook-Seite](http://www.facebook.com/cardamonchai) zu finden!
 
 Und weil der Tag so wunderbar frühlingshaft, sonnig und strahlend schön ist,
 hier noch einen schönen Text von DER HUND MARIE für die Gewinner. Er geht mir

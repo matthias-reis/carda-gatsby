@@ -40,9 +40,8 @@ in den Genuss, sie für uns zu entdecken.</strong>
 Breite, ausgebaute, vom Autoverkehr komplett getrennte Fahrradwege soweit das
 Auge reicht. In Kopenhagen ist das keine Zukunftsmusik und auch kein Traum. Was
 in anderen Städten unmöglich erscheint, ist hier längst Wirklichkeit. Tja,
-<a href="https://cardamonchai.com/category/unterwegs/hamburg/">Hamburg</a>, da
-kannst Du Dir echt mal eine Scheibe davon abschneiden. Das würde auch Dir gut
-stehen.
+[Hamburg](/category/unterwegs/hamburg/), da kannst Du Dir echt mal eine Scheibe
+davon abschneiden. Das würde auch Dir gut stehen.
 
 ## Eine Radtour durch Kopenhagen die ist schön
 

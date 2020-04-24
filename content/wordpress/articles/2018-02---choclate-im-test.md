@@ -124,8 +124,7 @@ hergestellt.
 
 Kaufen kann man sie auf dem Foodmarket "Marktzeit" in der Fabrik in Hamburg
 Altona. Weitere Infos findet Ihr auf
-<a href="http://www.choclate.online" target="_blank" rel="noopener">Christinas
-Homepage</a>.
+[Christinas Homepage](http://www.choclate.online).
 
 <section id="aboutus">
 <div id="content" class="container">
@@ -137,5 +136,5 @@ Homepage</a>.
 
 \*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em></div></div></div></div></div></div></section>
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
+</em></div></div></div></div></div></div></section>

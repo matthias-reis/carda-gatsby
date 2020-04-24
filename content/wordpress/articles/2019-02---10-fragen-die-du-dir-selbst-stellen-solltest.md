@@ -39,10 +39,9 @@ können.</strong>
 
 Du fragst Dich jetzt, wie das gehen soll? Ganz einfach: Wenn wir uns selbst
 regelmäßig Fragen stellen,
-<a href="http://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/">arbeiten
-wir automatisch an uns</a>. Wir beschäftigen uns mit uns selbst und das ist gut.
-Es kann uns mitunter aus der Motivationslosigkeit holen oder uns ganz neue
-Horizonte eröffnen.
+[arbeiten wir automatisch an uns](/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/).
+Wir beschäftigen uns mit uns selbst und das ist gut. Es kann uns mitunter aus
+der Motivationslosigkeit holen oder uns ganz neue Horizonte eröffnen.
 
 Ob ich das selbst ausprobiert habe? Ja. Und die gute Nachricht ist: Es
 funktioniert. Was Du dabei nicht tun solltest: Dich selbst unter Druck setzen.
@@ -56,8 +55,8 @@ Wenn Du aber auf der Suche nach <strong>Motivation</strong>, Auftrieb und neuen
 Ideen bist, dann können Dir diese 10 Fragen neuen Schwung geben und Dir dabei
 helfen, Dein Herzensprojekt in die Tat umzusetzen. Ich spreche aus Erfahrung.
 Sie haben mir dabei geholfen, dass
-<a href="https://amreis.de/ha119" target="_blank" rel="noopener">der Roman, den
-ich zusammen mit Matze geschrieben habe</a>, fertig geworden ist.
+[der Roman, den ich zusammen mit Matze geschrieben habe](https://amreis.de/ha119),
+fertig geworden ist.
 
 ## Diese Fragen geben Dir neuen Mut
 

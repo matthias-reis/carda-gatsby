@@ -10,6 +10,7 @@ const extractMeta = require('./extractMeta');
 const subTitle = require('./subTitle');
 const headlines = require('./headlines');
 const images = require('./images');
+const links = require('./links');
 const write = require('./write');
 
 const BASE_FOLDER = resolve(__dirname, '../..', 'content/wordpress');
@@ -31,6 +32,7 @@ activity('wordpress', async (l) => {
     metadata = await activity('subTitle', subTitle, false)(metadata);
     metadata = await activity('headlines', headlines, false)(metadata);
     metadata = await activity('images', images, false)(metadata);
+    metadata = await activity('links', links, false)(metadata);
     await activity('write', write, false)(metadata, OUTPUT_FOLDER);
   });
 

@@ -38,16 +38,15 @@ subTitle: '"The Vegan Travel Handbook"'
 
 <strong>Der Lonely Planet ist die wohl bekannteste und beliebteste
 Reiseführerreihe der Welt - wer kennt ihn nicht? Jetzt gibt es endlich eine
-vegane Ausgabe: das
-<a href="http://tidd.ly/b1b6af2a" target="_blank" rel="noopener nofollow">"Vegan
-Travel Handbook"</a>.</strong>
+vegane Ausgabe: das ["Vegan Travel Handbook"](http://tidd.ly/b1b6af2a).
+</strong>
 
 "Wir möchten vegan lebenden Reisenden einen inspirierenden und praktischen Guide
 an die Hand geben", berichtete mir Vega vom Lonely Planet, als sie mir das neue
 Werk vorstellte. Auf die Frage, ob ich mir das Buch mal anschauen wollte, gab es
 für mich natürlich nur eine Antwort. Wie könnte ich mir das entgehen lassen?
 
-![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-15-400x533.jpg '<a href="http://tidd.ly/b1b6af2a" target="_blank" rel="noopener"> </a> Vegan reisen. Bild / picture: Lonely Planet')
+![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-15-400x533.jpg " [](http://tidd.ly/b1b6af2a)  Vegan reisen. Bild / picture: Lonely Planet")
 
 Unterteilt ist der bisher ausschließlich in englischer Sprache erschienene
 vegane LP in die äußerst praktischen Kapitel "Planning", "Inspiration",
@@ -91,7 +90,7 @@ meinen nächsten Urlaub vermutlich aussehen wird.
 
 ## Vegan reisen - die Top 10 der vegan-freundlichen Städte
 
-![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-22-400x533.png '<a href="http://tidd.ly/b1b6af2a" target="_blank" rel="noopener"> </a> Veganer⋆innen auf Abenteuersuche. Bild / picture: Lonely Planet')
+![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-22-400x533.png " [](http://tidd.ly/b1b6af2a)  Veganer⋆innen auf Abenteuersuche. Bild / picture: Lonely Planet")
 
 In den Lonely Planet Top 10 der vegan-freundlichen Städte ist übrigens Berlin
 auf Platz 1. Auch das geht aus dem neuen Buch hervor. Auf den Plätzen 2 bis 4
@@ -116,14 +115,8 @@ setzen" gefallen mir sehr gut.
 
 ## Inspiration
 
-Das
-<a href="http://tidd.ly/b1b6af2a" target="_blank" rel="noopener nofollow">Vegan
-Travel Handbook</a> bietet jede Menge Inspiration auf der Suche nach tollen
-Reisezielen. Dabei werden auch Länder erwähnt, die man bislang vielleicht noch
-gar nicht fürs Urlauben in Erwägung gezogen hat. Ob man nun wirklich die Tropen
-bereisen möchte oder CO2 spart und mit dem Fahrrad auf einen Roadtrip durch
-<a href="https://cardamonchai.com/category/unterwegs/skandinavien/">Skandinavien</a>
-geht - das muss jede⋆r für sich selbst entscheiden.
+Das [Skandinavien](http://tidd.ly/b1b6af2a) geht - das muss jede⋆r für sich
+selbst entscheiden.
 
 ## Abenteuer
 
@@ -143,7 +136,7 @@ die lokale Küche, für Restaurants und das möglichst grüne Reisen.
 
 ## Kultur
 
-![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-14-400x533.jpg '<a href="http://tidd.ly/b1b6af2a" target="_blank" rel="noopener"> </a> Tipps für veganes Essen auf Reisen. Bild / picture: Lonely Planet')
+![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-14-400x533.jpg " [](http://tidd.ly/b1b6af2a)  Tipps für veganes Essen auf Reisen. Bild / picture: Lonely Planet")
 
 Besondere Erwähnung finden im neuen veganen Reiseführer die Kultur in Osteuropa,
 in Indien (hier wird vor allem auch die herausragende Gastfreudschaft und die
@@ -159,27 +152,18 @@ einen wesentlich geringeren Fußabdruck, als Reisen nach Übersee und kann mit
 Sicherheit genauso spannend sein. Praktische Tipps für die Umsetzung gibt es ab
 Seite 150.
 
-Das
-<a href="http://tidd.ly/b1b6af2a" target="_blank" rel="noopener nofollow">Vegan
-Travel Handbook</a> von Lonely Planet hat insgesamt 169 Seiten. Die Erstausgabe
-ist im Dezember 2019 erschienen und als E-Book und Printversion erhältlich. Wer
-jetzt Lust bekommen hat, sich den veganen Lonely Planet mal genauer anzuschauen,
-kann das einfach
-<a href="http://tidd.ly/b1b6af2a" target="_blank" rel="noopener nofollow">auf
-der Homepage des Verlages</a> tun.
+Das [auf der Homepage des Verlages](http://tidd.ly/b1b6af2a) tun.
 
 Hat Euch meine Rezension gefallen? Das freut mich sehr! Wenn Ihr in Zukunft
-nichts mehr auf meiner Seite verpassen wollt, <a href="#newsletter">abonniert
-gerne meinen Newsletter</a>. Ich freue mich auf Euch!
+nichts mehr auf meiner Seite verpassen wollt,
+[abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+[Transparenz-Seite](/werbung/). </em>
 
-<strong>Bilder / pictures:</strong>
-<a href="http://tidd.ly/23a505b6" target="_blank" rel="noopener nofollow">Lonely
-Planet</a>
+<strong>Bilder / pictures:</strong> [Lonely Planet](http://tidd.ly/23a505b6)
 
 <!-- START ADVERTISER: Lonely Planet Publications from awin.com -->
 

@@ -124,4 +124,4 @@ zugemutet, sich selbst gegen eventuelle Herabsetzungen zu wehren. Das geht aus
 einer aktuellen Pressemitteilung hervor.
 
 <strong>Quelle:</strong>
-<a href="pressesprecher.com/nachrichten/katjes-verstoesst-nicht-gegen-wettbewerbsrecht-673340169" target="_blank" rel="noopener">Pressesprecher.com</a>
+[Pressesprecher.com](pressesprecher.com/nachrichten/katjes-verstoesst-nicht-gegen-wettbewerbsrecht-673340169)

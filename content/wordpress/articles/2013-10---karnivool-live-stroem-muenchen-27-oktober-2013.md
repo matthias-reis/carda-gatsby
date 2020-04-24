@@ -46,11 +46,10 @@ letzten Sonntag. Wir drei freuten uns schon lange auf dieses besondere Event und
 reisten extra früh an.
 
 Bereits beim diesjährigen
-<a href="//2013/07/01/southside-festival-2013/">Southside Festival</a> hatten
-wir die Jungs live gesehen, waren schwer beeindruckt gewesen uns sehnten das
-Wiedersehen herbei. Nachdem wir einige Blocks entfernt einen Parkplatz ergattert
-hatten, begaben wir uns zum Club. Dabei sind mir diese beiden Aufnahmen
-gelungen:
+[Southside Festival](//2013/07/01/southside-festival-2013/) hatten wir die Jungs
+live gesehen, waren schwer beeindruckt gewesen uns sehnten das Wiedersehen
+herbei. Nachdem wir einige Blocks entfernt einen Parkplatz ergattert hatten,
+begaben wir uns zum Club. Dabei sind mir diese beiden Aufnahmen gelungen:
 
 [gallery columns="1" size="medium" type="square" ids="7555,7556"]
 
@@ -69,12 +68,11 @@ Festbrennweitenobjektiv im Nachtmodus Aufnahmen zu machen. Sie wirkte regelrecht
 verzweifelt. Ich hoffe sehr, dass sie Ihr Praktikum am nächsten Tag nicht
 verloren hat.
 
-Als Vorband spielten
-<a href="http://www.theintersphere.com/" target="_blank" rel="noopener">The
-Intersphere</a>. Die Jungs aus Mannheim lieferten zum Auftakt ihrer
-Karnivool-Support-Tour durch Deutschland ein tolles Programm ab, zum Schluss
-forderte das Publikum sogar Zugaben. Ein gleißender Stern am Mannheimer
-Musikhimmel, sollte man auf alle Fälle im Auge behalten.
+Als Vorband spielten [The Intersphere](http://www.theintersphere.com/). Die
+Jungs aus Mannheim lieferten zum Auftakt ihrer Karnivool-Support-Tour durch
+Deutschland ein tolles Programm ab, zum Schluss forderte das Publikum sogar
+Zugaben. Ein gleißender Stern am Mannheimer Musikhimmel, sollte man auf alle
+Fälle im Auge behalten.
 
 Zu Beginn gab es einige tontechnische Probleme, die aber schnell behoben werden
 konnten. Leider machte mir eine seit einiger Zeit auf Konzerten vertretende

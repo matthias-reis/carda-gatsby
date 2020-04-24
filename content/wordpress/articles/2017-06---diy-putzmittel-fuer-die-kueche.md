@@ -90,4 +90,4 @@ ids="16899,16897,16895,16894,16905"]
 NICHT zur Verfügung gestellt. Es handelt sich weder um ein Sponsoring, noch um
 bezahlte Werbung. </em><em>Der Inhalt und meine Meinung wurden nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meiner [Transparenz-Seite](/werbung/). </em>

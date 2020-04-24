@@ -87,6 +87,4 @@ tanzen.
 
 Angerichtet sieht das Ganze dann so aus, wie auf dem Bild oben.
 
-Weitere vegane Rezepte
-<a href="https://cardamonchai.com/category/vegan-2/rezepte/">findet Ihr
-hier</a>.
+Weitere vegane Rezepte [findet Ihr hier](/category/vegan-2/rezepte/).

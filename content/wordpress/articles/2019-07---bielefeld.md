@@ -27,9 +27,8 @@ subTitle: Eine kreative Stadt im Teutoburger Wald
 ---
 
 <strong>Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute möchte
-ich der Stadt im
-<a href="http://cardamonchai.com/2019/08/teutoburger-wald/">Teutoburger Wald</a>
-einen eigenen Artikel widmen.</strong>
+ich der Stadt im [Teutoburger Wald](/2019/08/teutoburger-wald/) einen eigenen
+Artikel widmen.</strong>
 
 ![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-28-400x300.jpg)
 
@@ -43,8 +42,8 @@ nichts wie hin da.
 
 Was mir bei diesem Ausflug so alles durch den Kopf gegangen ist und ob meine
 Erwartungen bestätigt wurden, konntet Ihr vor Kurzem im Artikel
-"<a href="http://cardamonchai.com/2019/05/orte-der-kindheit/">Orte der
-Kindheit</a>" nachlesen. Heute geht es um die Stadt an sich.
+"[Orte der Kindheit](/2019/05/orte-der-kindheit/)" nachlesen. Heute geht es um
+die Stadt an sich.
 
 Bielefeld gibt es nämlich, entgegen der Behauptungen einiger Individuen,
 wirklich und es ist auch noch richtig toll dort.
@@ -52,13 +51,13 @@ wirklich und es ist auch noch richtig toll dort.
 ## Bielefelder Hot Spots
 
 Das Wahrzeichen der Stadt tront mittendrin auf dem Sparrenberg:
-<a href="http://cardamonchai.com/2019/07/sparrenburg-bielefeld/">Die
-Sparrenburg</a> mit ihren Kasematten und dem Aussichtsturm solltet Ihr bei einer
-Erkundungstour durch Bielefeld auf keinen Fall auslassen.
+[Die Sparrenburg](/2019/07/sparrenburg-bielefeld/) mit ihren Kasematten und dem
+Aussichtsturm solltet Ihr bei einer Erkundungstour durch Bielefeld auf keinen
+Fall auslassen.
 
-Die <a href="http://cardamonchai.com/2019/08/die-externsteine/">Externsteine</a>
-und das Hermannsdenkmal könnt Ihr Euch später anschauen. Im Anschluss an die
-Burg geht es erstmal ins Stadtzentrum.
+Die [Externsteine](/2019/08/die-externsteine/) und das Hermannsdenkmal könnt Ihr
+Euch später anschauen. Im Anschluss an die Burg geht es erstmal ins
+Stadtzentrum.
 
 ## Essen, Trinken und Shoppen in Bielefeld
 

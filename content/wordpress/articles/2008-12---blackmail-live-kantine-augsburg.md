@@ -46,8 +46,7 @@ River Phoenix" mit, die das Publikum ordentlich in Schwung brachte.
 "Tempo Tempo" (2008) Arial View (2006) Friend Or Foe? (2003) Bliss Please (2001)
 Science Fiction (1999) Blackmail (1997)
 
-<em><a title="Blackmail" href="http://www.blackmail-music.com/" target="_blank" rel="noopener">Band-Website</a>
-Blackmail</em>
+<em> [Band-Website](http://www.blackmail-music.com/) Blackmail</em>
 
 [gallery type="rectangular" size="medium"
 ids="11019,11020,11021,11022,11023,11024,11025"]

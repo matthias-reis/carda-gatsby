@@ -173,16 +173,16 @@ Eiskristalle enthalten und keine Wassertröpfchen mehr, wie das sonst bei Nebel
 oder auch gefrierendem Nebel der Fall ist.
 
 <strong>Anne:</strong> Du lebst vegan. „Vegan auf Reisen“ ist für viele ein
-großes Thema, auch wir haben uns über eine vegane Reisegruppe auf
-Facebook<a href="#1"><sup>1</sup></a> kennengelernt. Es ist sehr spannend, die
-unterschiedlichen Ernährungsweisen kennenzulernen. In vielen Ländern fällt es
-einem sehr leicht, sich vegan zu ernähren (ich habe z. B. in Indonesien und auf
-Sri Lanka nur gute Erfahrungen gemacht), in anderen Ländern gestaltet sich das
-etwas schwieriger, das hängt natürlich auch immer von den Traditionen und den
-Gewohnheiten der Bewohner ab. Ich kann mir vorstellen, dass es besonders in
-Yakutien und Sibirien nicht sehr leicht ist, der Hauptbestandteil der Nahrung
-besteht dort nach wie vor aus Fleisch und Fisch, wenn ich richtig informiert
-bin. Was ist Deine Erfahrung? Was wird dort gegessen? Wie hast Du Dich ernährt?
+großes Thema, auch wir haben uns über eine vegane Reisegruppe auf Facebook
+[](#1) kennengelernt. Es ist sehr spannend, die unterschiedlichen
+Ernährungsweisen kennenzulernen. In vielen Ländern fällt es einem sehr leicht,
+sich vegan zu ernähren (ich habe z. B. in Indonesien und auf Sri Lanka nur gute
+Erfahrungen gemacht), in anderen Ländern gestaltet sich das etwas schwieriger,
+das hängt natürlich auch immer von den Traditionen und den Gewohnheiten der
+Bewohner ab. Ich kann mir vorstellen, dass es besonders in Yakutien und Sibirien
+nicht sehr leicht ist, der Hauptbestandteil der Nahrung besteht dort nach wie
+vor aus Fleisch und Fisch, wenn ich richtig informiert bin. Was ist Deine
+Erfahrung? Was wird dort gegessen? Wie hast Du Dich ernährt?
 
 <strong>Sebastian:</strong> Fleisch und Fisch wird dort morgens, mittags und
 abends verzehrt. Und das in allen Variationen. Gemüse ist rar und teuer, da
@@ -213,16 +213,14 @@ eins: Auf Reisen gehen.
 
 <strong>Anne:</strong> Wo kann man Deine Bilder bewundern?
 
-<strong>Sebastian:</strong> Ich habe eine Webseite<a href="#2"><sup>2</sup></a>,
-welche jedoch etwas veraltet ist, da ich wenig Zeit habe, alle Fotos und
-Impressionen dort hochzuladen. Es wird mal wieder Zeit.
-<em>lacht</em><strong>Anne:</strong> Gibt es noch mehr von Dir im Internet? Bist
-Du in Communities unterwegs?
+<strong>Sebastian:</strong> Ich habe eine Webseite [](#2), welche jedoch etwas
+veraltet ist, da ich wenig Zeit habe, alle Fotos und Impressionen dort
+hochzuladen. Es wird mal wieder Zeit. <em>lacht</em><strong>Anne:</strong> Gibt
+es noch mehr von Dir im Internet? Bist Du in Communities unterwegs?
 
-<strong>Sebastian:</strong> Ich habe einen
-Flickr-Account<a href="#3"><sup>3</sup></a> und bin Mitglied der Fotocommunity.
-Beide Seiten sind aus Zeitmangel leider auch nicht aktuell und müssten
-aufgefrischt werden.
+<strong>Sebastian:</strong> Ich habe einen Flickr-Account [](#3) und bin
+Mitglied der Fotocommunity. Beide Seiten sind aus Zeitmangel leider auch nicht
+aktuell und müssten aufgefrischt werden.
 
 <strong>Anne:</strong> Wo geht die Reise für Dich als nächstes hin?
 
@@ -287,14 +285,7 @@ Frost</em></small><div style="border: solid 2px #ff66cc;"><address>Kennt Ihr
 eine schillernde Persönlichkeit, von der Ihr sagt, mit ihm/ihr sollte auf jeden
 Fall ein Interview auf meiner Seite erscheinen? Oder habt Ihr selbst ein
 spannendes Hobby, über das Ihr gerne mit mir plaudern möchtet? Schreibt mir
-einfach <a href="mailto:info@cardamonchai.com">eine Mail</a> unter dem Stichwort
-<em>"Interview"</em>, ich melde mich bei Euch!</address></div><ul><li id="1">[1]
-<a href="http://www.sebi-balders.repage.de">Homepage Sebastian
-Frost</a></li><li id="2">[2]
-<a href="https://www.facebook.com/groups/veganreisen.vegantraveling/">Die vegane
-Reisegruppe auf Facebook</a></li><li id="3">[3]
-<a href="https://www.flickr.com/photos/wetter-natur-fotografie/">Sebastian Frost
-bei Flickr</a></li></ul>
+einfach [Sebastian Frost bei Flickr](mailto:info@cardamonchai.com) </li></ul>
 
 [gallery type="rectangular" link="none"
 ids="9412,9411,9410,9408,9407,9406,9405,9403,9399,9395,9394,9393,9392,9391,9390,9389,9388,9386,9385,9384,9381"]

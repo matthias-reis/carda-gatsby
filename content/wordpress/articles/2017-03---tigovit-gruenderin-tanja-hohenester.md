@@ -55,7 +55,7 @@ thumbnailId: "16058"
 subTitle: '"Wir befinden uns mitten in einem Wandel"</span>'
 ---
 
-<p class="p4"><span class="s1"><b>Letztens habe ich Euch hier tigovit <a href="http://cardamonchai.com/2017/02/tigovit-gruener-tee-in-hohen-dosen/" target="_blank" rel="noopener">vorgestellt</a>. Das Präparat wehrt mit seiner extrem hohen Dosierung an EGCG, das aus Grünem Tee gewonnen wird, aktiv freie Radikale ab und stärkt das Immunsystem.</b></span></p>
+<p class="p4"><span class="s1"><b>Letztens habe ich Euch hier tigovit  [vorgestellt](/2017/02/tigovit-gruener-tee-in-hohen-dosen/).  Das Präparat wehrt mit seiner extrem hohen Dosierung an EGCG, das aus Grünem Tee gewonnen wird, aktiv freie Radikale ab und stärkt das Immunsystem.</b></span></p>
 
 ![tigovit](http://cardamonchai.com/wp-content/uploads/2017/03/b2d461f3-75ed-498f-b170-d7cf49409a89-640x853.jpeg "Tanja stellt tigovit vor")
 
@@ -167,11 +167,11 @@ subTitle: '"Wir befinden uns mitten in einem Wandel"</span>'
 
 <p class="p4"><span class="s1"><b>Tanja:</b> Das mache ich auf jeden Fall! Vielen Dank für Deine Fragen! Wir bleiben in Kontakt!</span></p>
 
-<p class="p4">Auf Facebook findet Ihr tigovit <a href="https://www.facebook.com/Tigovit-1614517965457828/?fref=ts" target="_blank" rel="noopener">hier</a>.</p>
+<p class="p4">Auf Facebook findet Ihr tigovit  [hier](https://www.facebook.com/Tigovit-1614517965457828/?fref=ts). </p>
 
-<p class="p4">Zu Tanjas Instagram-Album geht es <a href="https://www.instagram.com/tigovit78/" target="_blank" rel="noopener">hier entlang</a>.</p>
+<p class="p4">Zu Tanjas Instagram-Album geht es  [hier entlang](https://www.instagram.com/tigovit78/). </p>
 
-<p class="p4"><a href="https://tigovit.com/" target="_blank" rel="noopener">Hier findet Ihr die Homepage</a> von tigovit.</p>
+<p class="p4"> [Hier findet Ihr die Homepage](https://tigovit.com/)  von tigovit.</p>
 
 ![tigovit | full](http://cardamonchai.com/wp-content/uploads/2017/02/tigofit2.png)
 

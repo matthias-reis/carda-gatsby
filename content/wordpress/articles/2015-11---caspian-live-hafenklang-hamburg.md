@@ -56,9 +56,7 @@ Hier sind für Euch Caspian mit "Gone In Bloom And Bough"
 <iframe src="https://www.youtube.com/embed/hkCoPRszZRI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Die komplette Session könnt Ihr Euch übrigens
-<a href="http://audiotree.tv/session/caspian/" target="_blank" rel="noopener">hier
-herunterladen</a>.
+[hier herunterladen](http://audiotree.tv/session/caspian/).
 
 Ihr liebt Mark Lanegan?
-<a href="/2015/03/mark-lanegan-live-freiheiz-muenchen/">Hier gehts zu seinem
-Konzert im Freiheiz</a>.
+[Hier gehts zu seinem Konzert im Freiheiz](/2015/03/mark-lanegan-live-freiheiz-muenchen/).

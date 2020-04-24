@@ -41,12 +41,10 @@ dieses Plans: Das sollte ich häufiger tun!</strong>
 
 Ganz ehrlich: So ein Tag im Wald kann wirklich niemandem schaden. Ob man dabei
 Fotos macht,
-<a href="http://cardamonchai.com/2019/09/umweltaktivist-waechter-des-waldes-florian-fruechel-interview/">Müll
-aufsammelt</a> oder einfach nur glücklich vor sich hinwandert, bleibt jedem
-selbst überlassen.
+[Müll aufsammelt](/2019/09/umweltaktivist-waechter-des-waldes-florian-fruechel-interview/)
+oder einfach nur glücklich vor sich hinwandert, bleibt jedem selbst überlassen.
 
-Es muss nicht immer gleich der
-<a href="http://cardamonchai.com/2019/08/teutoburger-wald/">Teutoburger Wald</a>
+Es muss nicht immer gleich der [Teutoburger Wald](/2019/08/teutoburger-wald/)
 sein. Rund um die Ballungsgebiete gibt es zum Glück noch ein paar wunderbare
 Wälder. Einer davon ist der Waldpark Marienhöhe beim Sülldorf (Hamburg). Genau
 dorthin hat es uns gestern verschlagen.

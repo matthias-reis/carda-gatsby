@@ -53,5 +53,4 @@ ids="11198,11197,11196,11195,11193,11192,11191,11190,11189,11188"]
 
 Die Fugger bei
 <a title="Die Fugger" href="http://www.fugger.de/" target="_blank" rel="noopener">Wikipedia
-</a>Die Fuggerei bei
-<a title="Die Fuggerei" href="http://de.wikipedia.org/wiki/Fuggerei" target="_blank" rel="noopener">Wikipedia</a>
+</a>Die Fuggerei bei [Wikipedia](http://de.wikipedia.org/wiki/Fuggerei)

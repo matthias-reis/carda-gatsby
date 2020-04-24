@@ -91,10 +91,9 @@ zwischenmenschlichen Beziehungen. Er stellte fest, dass sich Menschen zwar
 durchaus auch egoistisch, aber in gleichem Maße auch selbstlos und fürsorglich
 verhalten. Ihnen sei nicht nur das eigene Vermögen wichtig, sondern ebenso die
 gegenseitige Unterstützung, die Weiterentwicklung der Gesellschaft als Ganzes,
-der
-<a href="https://cardamonchai.com/category/gesellschaft/klima-umweltschutz/">Schutz
-der Umwelt</a>, sowie die Freude, Liebe und Schönheit. Besonders das Thema
-Selbstlosigkeit arbeitet er heraus.
+der [Schutz der Umwelt](/category/gesellschaft/klima-umweltschutz/), sowie die
+Freude, Liebe und Schönheit. Besonders das Thema Selbstlosigkeit arbeitet er
+heraus.
 
 ## Auf der Suche nach Lösungen für Umweltprobleme
 
@@ -109,10 +108,9 @@ können.
 Zu den Grundprinzipien eines Social Business zählt für ihn vor allem, dass es
 ökologische nachhaltig operieren muss. So soll Umweltproblemen wie der
 fortschreitenden Entwaldung und der
-<a href="http://cardamonchai.com/2018/08/replace-plastic-app-kueste-gegen-plastik/">Verschmutzung
-der Weltmeere durch Plastikmüll</a> aktiv entgegengewirkt werden. Ein Social
-Business ohne Engagement für Umweltschutz ist für ihn schlichtweg nicht
-vorstellbar.
+[Verschmutzung der Weltmeere durch Plastikmüll](/2018/08/replace-plastic-app-kueste-gegen-plastik/)
+aktiv entgegengewirkt werden. Ein Social Business ohne Engagement für
+Umweltschutz ist für ihn schlichtweg nicht vorstellbar.
 
 In seinem Buch stellt er seinen "Fahrplan in eine bessere Zukunft" vor. Darin
 prangert er unter anderem an, dass die Ansichten der Menschheit über die Welt
@@ -156,19 +154,17 @@ Erfinder des Mikrokredits sowie des Social Business Konzepts für einen anderen
 Kapitalismus. Dem Gründer der Grameen-Bank wurde 2006 der Friedensnobelpreis
 verliehen.
 
-<strong>"<a href="https://amzn.to/2T0Clnk" target="_blank" rel="noopener nofollow">Ein
-anderer Kapitalismus ist machbar</a>"</strong> von Muhammad Yunus erschienen im
-Gütersloher Verlagshaus, gebundene Ausgabe (Klimaneutrales Druckprodukt) 22,90
-Euro. <strong> ISBN: 9783579087153</strong>
+<strong> "[Ein anderer Kapitalismus ist machbar](https://amzn.to/2T0Clnk)"
+</strong> von Muhammad Yunus erschienen im Gütersloher Verlagshaus, gebundene
+Ausgabe (Klimaneutrales Druckprodukt) 22,90 Euro. <strong> ISBN:
+9783579087153</strong>
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
-<a href="https://amreis.de/hermetiker/" target="_blank" rel="noopener">seit ich
-gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht
-habe</a>, sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst
-lese, desto mehr möchte ich darüber berichten.
+[seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/),
+sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
+mehr möchte ich darüber berichten.
 
 <em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner
-<a href="http://cardamonchai.com/werbung/" target="_blank" rel="noopener">Transparenz-Seite</a>.</em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

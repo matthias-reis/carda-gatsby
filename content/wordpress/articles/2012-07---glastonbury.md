@@ -48,14 +48,13 @@ thumbnailId: "3375"
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 3/12
 ---
 
-## Was King Arthur, Vishnu, Green Man, Bondieu und die Goddess gemeinsam haben<a title="Der Kater und der Leuchtturm" href="http://cardamonchai.com/2012/08/der-kater-und-der-leuchtturm/"><em>Teil 2/9</em></a> Impressionen aus Glastonbury 06/2012
+## Was King Arthur, Vishnu, Green Man, Bondieu und die Goddess gemeinsam haben [](/2012/08/der-kater-und-der-leuchtturm/) Impressionen aus Glastonbury 06/2012
 
 [gallery type="rectangular" size="large"
 ids="3373,3374,3375,3376,3377,3378,3379,3380,3381,3382,3383,3384,3385,3386,3387,3388,3389,3390,3391,3392,3393,3394,3395,3396,3397,3398,3399"]
 
-Hier geht's zu
-<a title="Isle Of Wight Festival" href="http://cardamonchai.com/2012/07/isle-of-wight-festival-2012/"><em>Teil
-4/9</em></a> der Galerie "England 2012"
+Hier geht's zu [](/2012/07/isle-of-wight-festival-2012/) der Galerie "England
+2012"
 
 ## Song zu den Bildern: Muse - Uprising live @Glastonbury Festival 2010
 

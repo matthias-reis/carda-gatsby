@@ -110,25 +110,17 @@ ist ein gemeinnütziger Verein, der sich dafür einsetzt, dass alle Menschen
 weltweit Zugang zu sauberem Trinkwasser haben. Um dieses Ziel zu erreichen,
 unterstützt der Verein weltweit Wasserprojekte und ruft immer wieder Aktionen
 ins Leben. So sammelt <em>Viva con Agua</em> zum Beispiel auf
-<a href="/category/musik/festivals/">Festivals</a> und Großveranstaltungen
-Pfandbecher. Der Erlös kommt den Projekten zugute. Wer möchte, kann sich auf der
-<em>Viva con Agua</em>
-<a href="http://www.vivaconagua.org/" target="_blank" rel="noopener">Homepage</a>
-über Fördermitgliedschaften und Projekte informieren. Auch im Alltag könnt Ihr
-etwas für den Verein tun. Unter
-<a href="http://vivaconagua.org/mineralwasser" target="_blank" rel="noopener">vivaconagua.org/mineralwasser</a>
-findet Ihr alle Verkaufsstellen für das sehr beliebte <em>Viva con Agua</em>
-Mineralwasser. Bereits drei Euro können in Äthiopien einem Menschen den Zugang
-zu sauberem Wasser ermöglichen, 15 Euro den Bau einer Toilette in Nepal. Denkt
-mal drüber nach. Spenden lohnt sich.
+[vivaconagua.org/mineralwasser](/category/musik/festivals/) findet Ihr alle
+Verkaufsstellen für das sehr beliebte <em>Viva con Agua</em> Mineralwasser.
+Bereits drei Euro können in Äthiopien einem Menschen den Zugang zu sauberem
+Wasser ermöglichen, 15 Euro den Bau einer Toilette in Nepal. Denkt mal drüber
+nach. Spenden lohnt sich.
 
-<em>Ethnotek</em> könnt Ihr
-<a href="https://www.ethnotek.de/" target="_blank" rel="noopener">online hier
-finden</a>.
+<em>Ethnotek</em> könnt Ihr [online hier finden](https://www.ethnotek.de/).
 
 [myflickr tag="annevivaconaguaethnotek"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall selbst
 erworben. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner <a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+meiner [Transparenz-Seite](/werbung/). </em>

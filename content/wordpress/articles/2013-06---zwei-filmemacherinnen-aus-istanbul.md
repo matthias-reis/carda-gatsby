@@ -43,10 +43,9 @@ subTitle: '"Alles andere wirkt unwichtig und banal"'
 ---
 
 <strong>Vor Kurzem berichtete ich hier über
-<a title="Istanbul mit anderen Augen" href="/2013/06/05/istanbul-mit-anderen-augen/" target="_blank" rel="noopener">das
-ganz besondere Projekt</a> zweier junger, deutscher Filmemacherinnen in
-Istanbul. Durch die derzeitige Lage hat sich für Marie und Carolin einiges
-verändert. </strong>
+[das ganz besondere Projekt](/2013/06/05/istanbul-mit-anderen-augen/) zweier
+junger, deutscher Filmemacherinnen in Istanbul. Durch die derzeitige Lage hat
+sich für Marie und Carolin einiges verändert. </strong>
 
 ![Die beiden Filmemacherinnen | full](http://cardamonchai.com/wp-content/uploads/2013/06/marie-und-caro.jpg "Die beiden Filmemacherinnen")
 
@@ -265,8 +264,7 @@ Medien in der Türkei gibt, wird sich an der einseitigen Berichterstattung wohl
 nichts ändern.
 
 <strong>Anne: </strong>Was bedeutet der Aufbruch, der gerade stattfindet, für
-<a title="Istanbul Changes" href="http://istanbulchangingperspectives.wordpress.com/" target="_blank" rel="noopener">Euer
-Filmprojekt</a>?
+[Euer Filmprojekt](http://istanbulchangingperspectives.wordpress.com/) ?
 
 ![Protest - Bild: Marie](http://cardamonchai.files.wordpress.com/2013/06/img_43771.jpg?w=300 "Protest - Bild: Marie")
 
@@ -343,7 +341,7 @@ Stirn bieten – obwohl ich es insgeheim immer gehofft hatte.
 
 <blockquote>## "Wir freuen uns, zurückzukommen"</blockquote><strong>Anne: </strong>Plant ihr, irgendwann zurückzukommen?
 
-![Taksim bei Nacht - Bild: Marie](http://cardamonchai.com/wp-content/uploads/2013/06/img_4182-640x478.jpg '<a href="http://cardamonchai.com/wp-content/uploads/2013/06/img_4182.jpg"> </a> Taksim bei Nacht - Bild: Marie')
+![Taksim bei Nacht - Bild: Marie](http://cardamonchai.com/wp-content/uploads/2013/06/img_4182-640x478.jpg " [](/wp-content/uploads/2013/06/img_4182.jpg)  Taksim bei Nacht - Bild: Marie")
 
 <strong>Marie Hartlieb:</strong> Ich bewerbe mich zur Zeit auf einen Master in
 Deutschland. Weiß aber, dass ich das nur mit ständigen Istanbul-Besuchen
@@ -371,4 +369,4 @@ mit der Gegenwart, zu tun.
 
 Hier geht es zum Filmprojekt der beiden:
 
-![Istanbul mit andern Augen | full](http://cardamonchai.com/wp-content/uploads/2013/06/cover_dvd.jpg '<a title="Istanbul Changes" href="http://istanbulchangingperspectives.wordpress.com" target="_blank" rel="noopener"> </a><a title="Istanbul Changes" href="http://istanbulchangingperspectives.wordpress.com" target="_blank" rel="noopener">Istanbul mit anderen Augen</a>')
+![Istanbul mit andern Augen | full](http://cardamonchai.com/wp-content/uploads/2013/06/cover_dvd.jpg " [Istanbul mit anderen Augen](http://istanbulchangingperspectives.wordpress.com) ")

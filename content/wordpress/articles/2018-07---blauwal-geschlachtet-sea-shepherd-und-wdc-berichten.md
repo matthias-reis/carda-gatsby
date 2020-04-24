@@ -79,8 +79,6 @@ anderer Tiere gemischt, um es an den Kontrollen der Behörden vorbei zu
 verkaufen.
 
 <strong>Quellen:</strong> Sea Shepherd, WDC, Wikipedia <strong>Bild im
-Titel:</strong>
-<a href="https://pixabay.com/de/users/janeb13-725943/" target="_blank" rel="noopener">Janeb13</a>,
-pixabay <strong>Bild im Text:</strong>
-<a href="https://pixabay.com/de/users/Three-shots-3936226/" target="_blank" rel="noopener">three-shots</a>,
-pixabay
+Titel:</strong> [Janeb13](https://pixabay.com/de/users/janeb13-725943/), pixabay
+<strong>Bild im Text:</strong>
+[three-shots](https://pixabay.com/de/users/Three-shots-3936226/), pixabay

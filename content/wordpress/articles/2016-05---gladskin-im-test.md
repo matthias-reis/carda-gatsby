@@ -74,12 +74,12 @@ und man muss schon ein echter Schminkkünstler sein, um das zu vertuschen. Und
 auch so hat die Haut ganz andere Anforderungen, als bei anderen Menschen.
 
 So ist zum Beispiel die Friseurin, die mich für die
-<a href="http://cardamonchai.com/andere-blogs/unsere-hochzeit/">Hochzeit</a>
-geschminkt hat, fast verrückt geworden, weil das Make-up, das sie verwendet hat,
-einfach immer wieder in einem Strom von meinem Gesicht gelaufen ist. Zum Schluss
-musste sie sich dann einfach meine Tipps anhören. Manchmal ist es dann auch so
-schlimm, dass man gar kein Make-up tragen kann und dann kann es sein, dass man
-selbst im schönsten Hochsommer am liebsten nicht vor die Tür gehen möchte.
+[Hochzeit](/andere-blogs/unsere-hochzeit/) geschminkt hat, fast verrückt
+geworden, weil das Make-up, das sie verwendet hat, einfach immer wieder in einem
+Strom von meinem Gesicht gelaufen ist. Zum Schluss musste sie sich dann einfach
+meine Tipps anhören. Manchmal ist es dann auch so schlimm, dass man gar kein
+Make-up tragen kann und dann kann es sein, dass man selbst im schönsten
+Hochsommer am liebsten nicht vor die Tür gehen möchte.
 
 ## Cremes vom Hautarzt helfen oft nicht
 
@@ -113,10 +113,7 @@ ich auch einige Produktanfragen verschickt. Denn leider haben nicht immer alle
 Hersteller genau auf ihrer Webseite stehen, ob ihre Produkte auch vegan und frei
 von Tierversuchen sind. Für mich ist das allerdings die wichtigste Bedingung.
 Und auch wenn meine Schübe nachgelassen haben, seit dem ich auf
-<a href="http://cardamonchai.com/category/vegan-2/">vegane Ernährung</a>
-umgestellt habe, kommt es ab und zu noch vor, dass es zu einem kommt, besonders
-in stressigen Situationen wie z. B. beim
-<a href="/2016/05/an-die-elbe-wir-ziehen-um/">Umzug</a>.
+[Umzug](/category/vegan-2/).
 
 ## Gladskin im Test
 
@@ -404,13 +401,11 @@ Inhaltsstoffen. Produkte und Inhaltsstoffe wurden und werden nicht in
 Tierversuchen getestet.
 
 Wer jetzt neugierig geworden ist: Weitere Infos über die Gladskin
-Produktpalette <a href="https://www.gladskin.com/de/" target="_blank" rel="noopener">sind
-hier zu finden</a>.
+Produktpalette  [sind hier zu finden](https://www.gladskin.com/de/).
 
 [gallery type="rectangular" link="none" size="medium"
 ids="14921,14920,14918,14916,14924"]
 
 <em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner
-<a href="https://cardamonchai.com/werbung/">Transparenz-Seite</a>.</em>
+Ihr auf meiner [Transparenz-Seite](/werbung/). </em>

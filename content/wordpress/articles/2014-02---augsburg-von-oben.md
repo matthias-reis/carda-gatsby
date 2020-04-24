@@ -48,7 +48,7 @@ dürfen. Natürlich nicht ohne Kameraausrüstung. </strong>
 Das Spektakel wollte ich meiner Linse nun wirklich nicht entgehen lassen. Bei
 wunderbar sonnigem Wetter sind ein paar interessante Schnappschüsse entstanden,
 hier ein paar Beispiele. Die komplette Fotoserie findet Ihr in meinem
-<a title="cardamonchai Flickr" href="http://www.flickr.com/photos/99929697@N07/">Flickr</a>.
+[Flickr](http://www.flickr.com/photos/99929697@N07/).
 
 ## Augsburg von oben
 

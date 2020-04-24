@@ -42,24 +42,22 @@ Autounfall in Santa Clara, bei dem er aus dem Fahrzeug geschleudert wurde. Seit
 diesem schlimmen Tag befand er sich im Wachkoma und erholte sich leider nie
 wieder richtig.
 
-![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg '<a href="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"> </a> Chi Cheng')
+![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg " [](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg)  Chi Cheng")
 
 Vor einem Jahr verbreitete sich die Nachricht, es würde ihm wieder etwas besser
 gehen, was leider nicht für lange Zeit anhielt. Chi Cheng wurde als genialer
 Bassist und Gründungsmitglied der
-<a title="Deftones" href="//2012/09/04/deftones-stellen-zwei-neue-songs-vor-album-im-november/" target="_blank" rel="noopener">DEFTONES</a>
-bekannt. Auf der für Chi eingerichteten Homepage
-<a title="One Love For Chi" href="http://oneloveforchi.com/" target="_blank" rel="noopener">one
-love for chi</a> teilte seine Mutter mit, er sei auf die Intensivstation
-gekommen, wo sein Herz dann aufgehört hat zu schlagen. ‚Während er diese Welt
-verließ, sang ich für ihn die Lieder, die er liebte.'
+[one love for chi](//2012/09/04/deftones-stellen-zwei-neue-songs-vor-album-im-november/)
+teilte seine Mutter mit, er sei auf die Intensivstation gekommen, wo sein Herz
+dann aufgehört hat zu schlagen. ‚Während er diese Welt verließ, sang ich für ihn
+die Lieder, die er liebte.'
 
 Chi Cheng wurde am 15. August 1970 in Davis, Kalifornien geboren. Er besuchte
 die California State in Sacramento, wo er auch die Deftones gründete. Cheng war
 nicht nur ein genialer Musiker, sondern auch ein begabter Autor. Er schrieb
 unter anderem den Gedichtband
-<a title="The Bamboo Parachute" href="http://www.discogs.com/Chi-Cheng-The-Bamboo-Parachute/release/1451473" target="_blank" rel="noopener">The
-Bamboo Parachute</a>, der im Jahr 2000 als Hörbuch veröffentlicht wurde.
+[The Bamboo Parachute](http://www.discogs.com/Chi-Cheng-The-Bamboo-Parachute/release/1451473),
+der im Jahr 2000 als Hörbuch veröffentlicht wurde.
 
 Cheng war praktizierender Buddist und überzeugter Vegetarier. Er unterstützte
 eine Gruppe Obdachloser in Sacramento, unter anderem ermöglichte er es ihnen, zu
@@ -99,7 +97,7 @@ Delusion', Far-Frontman Jonah Matranga schrieb den Titelsong des 2010
 veröffentlichten Albums ‚At Night We live‘ über einen Traum, den er hatte, kurz,
 nachdem er Chi im Krankenhaus besucht hatte.
 
-![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg '<a href="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"> </a> Chi Cheng')
+![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg " [](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg)  Chi Cheng")
 
 #### Deftones - Minerva</strong>
 

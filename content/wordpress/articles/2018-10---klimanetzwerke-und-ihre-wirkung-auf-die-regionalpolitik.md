@@ -117,7 +117,7 @@ Veränderungen auf lokaler Ebene einen echten Unterschied machen können.",
 schließt der Forscher seine Ausführungen.
 
 Pressemitteilung: Henner Busch,
-<a href="https://www.lunduniversity.lu.se/">Universität Lund</a>, Department of
-Human Geography
+[Universität Lund](https://www.lunduniversity.lu.se/), Department of Human
+Geography
 
 ![Klimanetzwerke | full](http://cardamonchai.com/wp-content/uploads/2018/10/Lund.png)
