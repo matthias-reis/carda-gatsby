@@ -1,5 +1,6 @@
 const { pick } = require('ramda');
 const { bold, redBright, greenBright } = require('chalk');
+const prettier = require('prettier');
 
 const { slugify } = require('../gatsby/slugify');
 
@@ -106,8 +107,15 @@ ${greenBright(article['wp:post_date_gmt'])}
     );
   }
 
+  // we parse with the mdx option first to get well formed stuff
+  const content = prettier.format(article['content:encoded'].join('\n\n'), {
+    printWidth: 80,
+    parser: 'mdx',
+    proseWrap: 'always',
+  });
+
   return {
     meta,
-    content: article['content:encoded'].join('\n\n'),
+    content,
   };
 };
