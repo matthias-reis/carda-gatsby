@@ -14,6 +14,7 @@ const images = require('./images');
 const links = require('./links');
 const blockquote = require('./blockquote');
 const lists = require('./lists');
+const cleanup = require('./cleanup');
 const write = require('./write');
 
 const BASE_FOLDER = resolve(__dirname, '../..', 'content/wordpress');
@@ -40,6 +41,7 @@ activity('wordpress', async (l) => {
     metadata = await activity('images', images, false)(metadata);
     metadata = await activity('links', links, false)(metadata);
     metadata = await activity('lists', lists, false)(metadata);
+    metadata = await activity('cleanup', cleanup, false)(metadata);
     await activity('write', write, false)(metadata, OUTPUT_FOLDER);
   });
 

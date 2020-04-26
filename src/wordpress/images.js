@@ -8,7 +8,7 @@ module.exports = async (l, e, data) => {
     .filter(Boolean)
     .map((p, i) => {
       // first caption based images
-      const captionRegex = /\[caption(.*)\](.*)<img(.*)\/>(.*)\[\/caption\]/gm;
+      const captionRegex = /\[caption(.*)\](.*)<img(.*)\/>(.*)\[\/caption\]/gms;
       const captionMatch = captionRegex.exec(p);
       const imgRegex = /<img(.*)\/>/gms;
       const imgMatch = imgRegex.exec(p);
