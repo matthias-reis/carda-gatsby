@@ -23,7 +23,7 @@ const ExternalLink = styled.a`
 `;
 
 export const Link = ({ href, children }) => {
-  if (href.startsWith('http')) {
+  if ((href || '').startsWith('http')) {
     return (
       <ExternalLink
         href={href}
