@@ -43,13 +43,13 @@ const FixedImageContainer = styled.span`
 `;
 
 export default ({ alt, src, title }) => {
-  const [altText, type] = alt.split(' | ');
+  const [altText, type] = (alt || '').split(' | ');
   const Container =
     type === 'large' ? FixedImageContainer : FloatingImageContainer;
 
   const data = useStaticQuery(ALL_IMAGE_QUERY);
   const image = data.allFile.edges.find(
-    item => item.node.absolutePath.indexOf(src) > -1
+    (item) => item.node.absolutePath.indexOf(src) > -1
   );
 
   if (!!image) {
