@@ -37,12 +37,14 @@ export const Article = ({ children, meta }) => {
         {meta.image && <Image fluid={meta.image.childImageSharp.fluid} />}
       </ImageContainer>
       <div>{children}</div>
-      <nav>
-        {meta.labels.map((label) => {
-          const destination = getPath(label);
-          return <Label to={destination}>{label}</Label>;
-        })}
-      </nav>
+      {meta.labels && (
+        <nav>
+          {meta.labels.map((label) => {
+            const destination = getPath(label);
+            return <Label to={destination}>{label}</Label>;
+          })}
+        </nav>
+      )}
     </>
   );
 };
