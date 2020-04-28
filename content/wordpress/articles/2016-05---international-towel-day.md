@@ -4,12 +4,12 @@ seoTitle: International Towel Day - Einmal im Jahr ist Handtuchtag
 slug: international-towel-day-einmal-im-jahr-ist-handtuchtag
 link: /2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/
 fileName: 2016-05---international-towel-day.md
-description:
-  Heute ist International Towel Day. Zu Ehren des großen Schriftstellers Douglas
-  Adams werden weltweit die Handtücher gehisst. Alles über den hohen Feiertag.
-excerpt:
-  Heute ist International Towel Day. Zu Ehren des großen Schriftstellers Douglas
-  Adams werden weltweit die Handtücher gehisst. Alles über den hohen Feiertag.
+description: Heute ist International Towel Day. Zu Ehren des großen
+  Schriftstellers Douglas Adams werden weltweit die Handtücher gehisst. Alles
+  über den hohen Feiertag.
+excerpt: Heute ist International Towel Day. Zu Ehren des großen Schriftstellers
+  Douglas Adams werden weltweit die Handtücher gehisst. Alles über den hohen
+  Feiertag.
 focusKeyword: Towel Day
 labels:
   - Bücher & Filme
@@ -26,13 +26,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14786"
+image: /img/demo.jpg
+errors: []
 subTitle: Es ist wieder soweit
+  
 ---
 
 ![Towel Day](http://cardamonchai.com/wp-content/uploads/2013/05/img_5386-640x857.jpg "Das Handtuch ist gehisst!")
 
-<strong>Viele haben schon mal davon gehört: Der International Towel Day. Jedes
-Jahr am 25. Mai wird er gefeiert. Doch was steckt eigentlich dahinter?</strong>
+**Viele haben schon mal davon gehört: Der International Towel Day. Jedes Jahr
+am 25. Mai wird er gefeiert. Doch was steckt eigentlich dahinter?**
 
 Das Fest findet zu Ehren des Schriftstellers Douglas Adams (\* 11. März 1952 in
 Cambridge; † 11. Mai 2001 in Santa Barbara, Kalifornien) statt. Der Protagonist
@@ -81,4 +84,6 @@ begleiten.
 Falls Ihr auch vorhabt, ein Festival zu besuchen ist vielleicht auch die hier
 für Euch interessant:
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

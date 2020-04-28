@@ -4,12 +4,11 @@ seoTitle: Banksy im Moco in Amsterdam - Sagenumwobene Streetart hautnah
 slug: banksy-im-moco-amsterdam
 link: /2018/01/banksy-im-moco-amsterdam/
 fileName: 2018-01---banksy-im-moco-amsterdam.md
-description:
-  Um keinen anderen Künstler ranken sich so viele Mythen, wie um Banksy. Wir
-  hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu erleben.
-excerpt:
-  Um keinen anderen Künstler ranken sich so viele Mythen, wie um Banksy. Wir
-  hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu erleben.
+description: Um keinen anderen Künstler ranken sich so viele Mythen, wie um
+  Banksy. Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu
+  erleben.
+excerpt: Um keinen anderen Künstler ranken sich so viele Mythen, wie um Banksy.
+  Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu erleben.
 focusKeyword: Banksy
 labels:
   - Amsterdam
@@ -42,12 +41,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19019"
+image: /img/demo.jpg
+errors: []
 subTitle: Sagenumwobene Streetart hautnah
+  
 ---
 
-<strong>Um keinen anderen lebenden Künstler ranken sich so viele Mythen, wie um
+**Um keinen anderen lebenden Künstler ranken sich so viele Mythen, wie um
 Banksy. In seiner Heimatstadt Bristol hat angeblich sogar jeder seine
-persönliche Banksy-Geschichte zu erzählen.</strong>
+persönliche Banksy-Geschichte zu erzählen.**
 
 Wir hatten jetzt die Gelegenheit, ihn im Moco in Amsterdam hautnah zu erleben.
 Das moderne Kunstmuseum stellt viele seiner Werke aus und beleuchtet seinen
@@ -96,9 +98,9 @@ Motive, die er immer wieder in Szene setzt, sind Ratten, Affen, Polizisten,
 Mitglieder der Britischen Königsfamilie sowie Kinder.
 
 Wer mehr über Banksy und seine Kunst erfahren möchte, schaut sich am besten die
-Dokumentation <em>Exit Through the Gift Shop\* </em>an. Mit ihrer
-Veröffentlichung im Jahr 2010 erreichte das weltweite Interesse am
-Straßenkünstler Banksy ihren Höhepunkt.
+Dokumentation  _Exit Through the Gift Shop\*_ an. Mit ihrer Veröffentlichung im
+Jahr 2010 erreichte das weltweite Interesse am Straßenkünstler Banksy ihren
+Höhepunkt.
 
 ## Weiterentwicklung in New York
 
@@ -123,11 +125,11 @@ begonnen, sich in der Britischen Hauptstadt auszubreiten.
 
 ## Wegweiser Amsterdam
 
-<ol>
-    <li>Banksy im Moco Amsterdam</li>
-    <li> [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/) </li>
-    <li> [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/) </li>
-    <li> [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/) </li>
-    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
-    <li> [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/) </li>
-</ol>
+1.  Banksy im Moco Amsterdam
+1.  [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/)
+1.  [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/)
+1.  [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
+1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
+1.  [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
+
+  

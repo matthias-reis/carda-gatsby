@@ -4,12 +4,12 @@ seoTitle: Marwood Hill Gardens - Verwunschene Hortensienhaine
 slug: marwood-hill-gardens
 link: /2020/02/marwood-hill-gardens/
 fileName: 2020-02---marwood-hill-gardens.md
-description:
-  In einem Tal im Norden von Devon liegt der zauberhafte Garten von Marwood
-  Hill. Er ist ein echter Geheimtipp und auf jeden Fall einen Besuch wert.
-excerpt:
-  In einem Tal im Norden von Devon liegt der zauberhafte Garten von Marwood
-  Hill. Er ist ein echter Geheimtipp und auf jeden Fall einen Besuch wert.
+description: In einem Tal im Norden von Devon liegt der zauberhafte Garten von
+  Marwood Hill. Er ist ein echter Geheimtipp und auf jeden Fall einen Besuch
+  wert.
+excerpt: In einem Tal im Norden von Devon liegt der zauberhafte Garten von
+  Marwood Hill. Er ist ein echter Geheimtipp und auf jeden Fall einen Besuch
+  wert.
 focusKeyword: Marwood Hill
 labels:
   - Barnestable
@@ -27,12 +27,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27912"
+image: /img/demo.jpg
+errors: []
 subTitle: Verwunschene Hortensienhaine
+  
 ---
 
-<strong>In einem Tal im Norden von Devon liegt der zauberhafte Garten von
-Marwood Hill. Er ist ein echter Geheimtipp und auf jeden Fall einen Besuch
-wert.</strong>
+**In einem Tal im Norden von Devon liegt der zauberhafte Garten von Marwood
+Hill. Er ist ein echter Geheimtipp und auf jeden Fall einen Besuch wert.**
 
 Wir haben ihn bei unserer Tour durch Südengland letzten Spätsommer für uns
 entdeckt und waren sofort verliebt. Marwood Hill Gardens wurde Ende der 1950er
@@ -54,3 +56,5 @@ Marwood Hill Gardens Marwood Barnstaple North Devo EX31 4EA
 Wenn Euch meine Bildergalerie gefallen hat,
 [abonniert gerne meinen Newsletter](#newsletter). Dann halte ich Euch über neue
 Beiträge auf meinem Blog auf dem Laufenden.
+
+  

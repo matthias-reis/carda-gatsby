@@ -4,12 +4,10 @@ seoTitle: Indische Bratkartoffeln - Scharf und lecker
 slug: indische-bratkartoffeln
 link: /2014/10/indische-bratkartoffeln/
 fileName: 2014-10---indische-bratkartoffeln.md
-description:
-  Heute möchte ich Euch ein ganz besonderes Rezept aus meiner Küche verraten -
-  Auf den Tisch kommen schmackhafte, leckere Indische Bratkartoffeln.
-excerpt:
-  Ihr habt Lust auf Bratkartoffeln? Gleichzeitig wollt Ihr aber auch noch was
-  richtig schön Scharfes essen? Ich habe genau das Richtige für Euch.
+description: Heute möchte ich Euch ein ganz besonderes Rezept aus meiner Küche
+  verraten - Auf den Tisch kommen schmackhafte, leckere Indische Bratkartoffeln.
+excerpt: Ihr habt Lust auf Bratkartoffeln? Gleichzeitig wollt Ihr aber auch noch
+  was richtig schön Scharfes essen? Ich habe genau das Richtige für Euch.
 focusKeyword: Bratkartoffeln
 labels:
   - Basmati-Reis
@@ -38,11 +36,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8999"
+image: /img/demo.jpg
+errors: []
 subTitle: Scharf und lecker
+  
 ---
-
-<strong>Ihr habt Lust auf Bratkartoffeln? Gleichzeitig wollt Ihr aber auch noch
-was richtig schön Scharfes essen? Ich habe genau das Richtige für Euch.</strong>
 
 Frisch aus der Küche, hergestellt aus ganz alltäglichen Zutaten wie Reis,
 Kartoffeln, Curry und Spinat. Abgerundet wird mein Gericht mit frischen
@@ -50,11 +48,18 @@ Chilischoten, meine wurden mir aus Sardinien mitgebracht, ihr könnt natürlich
 auch die aus dem eigenen Gemüsebeet oder die getrockneten aus dem Asialaden
 verwenden.
 
-## Indische Bratkartoffeln<strong>Zutaten
+## Indische Bratkartoffeln **Zutaten** (Rezept für 4 Portionen für 2 hungrige Personen)
 
-</strong>(Rezept für 4 Portionen für 2 hungrige Personen)
-
-<ul><li>250 g Basmati-Reis</li><li>2 kleine oder 1 große Aubergine(n)</li><li>300 g festkochende Kartoffeln</li><li>200 g gefrorener Spinat</li><li>Chilischoten (Menge je nach Geschmack und Schärfegrad)</li><li>Currypulver</li><li>1 Limette</li><li>Pfeffer</li><li>Meersalz</li><li>Kokosöl</li></ul><strong>Zubereitung</strong>
+- 250 g Basmati-Reis
+- 2 kleine oder 1 große Aubergine(n)
+- 300 g festkochende Kartoffeln
+- 200 g gefrorener Spinat
+- Chilischoten (Menge je nach Geschmack und Schärfegrad)
+- Currypulver
+- 1 Limette
+- Pfeffer
+- Meersalz
+- Kokosöl **Zubereitung**
 
 Den Spinat aus dem Gefrierfach nehmen, damit er schon mal leicht antauen kann.
 
@@ -98,8 +103,10 @@ vereinfachen.
 
 Den Reis zusammen mit den Kartoffeln auf den vorgewärmten Tellern anrichten.
 
-Guten Appetit, oder wie man in Indien sagt: <em>Rasawath aharak! &lt;3</em>
+Guten Appetit, oder wie man in Indien sagt: _Rasawath aharak! &lt;3_
 
 [gallery type="rectangular" link="none" size="medium" ids="8999,8960,8998"]
 
 &nbsp;
+
+  

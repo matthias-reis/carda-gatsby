@@ -4,14 +4,12 @@ seoTitle: Boldking im Test - Minimalistisch rasieren mit Recycling-Programm
 slug: boldking-im-test-minimalistisch-rasieren-mit-recycling-programm
 link: /2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/
 fileName: 2018-08---boldking-im-test.md
-description:
-  Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
+description: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
   umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking
   gestoßen.
-excerpt:
-  Werbung & Affiliate Links - Rasieren muss für mich irgendwie sein. Aber geht
-  das auch möglichst umweltfreundlich? Dieser Frage bin ich mal nachgegangen und
-  dabei auf Boldking gestoßen.
+excerpt: Werbung & Affiliate Links - Rasieren muss für mich irgendwie sein. Aber
+  geht das auch möglichst umweltfreundlich? Dieser Frage bin ich mal
+  nachgegangen und dabei auf Boldking gestoßen.
 focusKeyword: Boldking
 labels:
   - Boldking
@@ -30,14 +28,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21838"
+image: /img/demo.jpg
+errors: []
 subTitle: Minimalistisch rasieren mit Recycling-Programm
+  
 ---
 
-<em>Werbung &amp; Affiliate-Links\*</em>
+_Werbung &amp; Affiliate-Links\*_
 
-<strong>Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
+**Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
 umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking
-gestoßen.</strong>
+gestoßen.**
 
 Zwar mache ich seit einiger Zeit IPL, aber zwischendurch rasieren muss ich
 trotzdem nach wie vor. Auch nach 20 Sitzungen wachsen noch einige Härchen an
@@ -46,6 +47,8 @@ werden, ist unklar, also heißt es weiter die Klinge zücken.
 
 ![Boldking](http://cardamonchai.com/wp-content/uploads/2018/08/44172030492_21724b3653_z-400x300.jpg)
 
+Dabei kann man eine ganz schöne Menge Müll produzieren. Das würde ich gerne in
+Zukunft vermeiden. Aber wie? Einige würden sicher jetzt zum  **Rasierhobel**
 raten. Aber ganz ehrlich? Ich habe echt Angst, mich damit zu schneiden. Auch,
 wenn der Gedanke an eine komplett Plastik-freie Rasur verlockend ist. Doch um
 das auszuprobieren, muss ich wohl noch mutiger werden.
@@ -119,9 +122,13 @@ ids="21842,21841,21840,21837,21836"]
 ![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B076PQLT7X)
 
 Online findet Ihr Boldking
-[Starterkit erwerben](https://www.boldking.com/de?gclid=CjwKCAjwtvnbBRA5EiwAcRvnpnM0kMcWhsOzkva7IMEGUq7_mFi7JN46rYs9KL9Sy4NYs8tj7JEMjBoC3hoQAvD_BwE)
+[hier](https://www.boldking.com/de?gclid=CjwKCAjwtvnbBRA5EiwAcRvnpnM0kMcWhsOzkva7IMEGUq7_mFi7JN46rYs9KL9Sy4NYs8tj7JEMjBoC3hoQAvD_BwE).
+ Hier könnt Ihr Euer 
+[Starterkit erwerben](https://www.amazon.de/gp/product/B076PQLT7X/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B076PQLT7X&linkCode=as2&tag=cardamonchai-21&linkId=07c9932854231dbbe6a74e3114cbc066)
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
+
+  

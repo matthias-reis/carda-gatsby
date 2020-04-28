@@ -4,12 +4,10 @@ seoTitle: Tiefenentspannung mit Thai Massage und TCM
 slug: auf-dem-weg-zur-tiefenentspannung
 link: /2014/11/auf-dem-weg-zur-tiefenentspannung/
 fileName: 2014-11---auf-dem-weg-zur-tie-fen-ent-span-nung.md
-description:
-  Wie man Tiefenentspannung mit Hilfe von Thai Massage und Traditioneller
-  Chinesischer Medizin erfahren kann - Ein Selbstversuch mit überraschendem
-  Ausgang.
-excerpt:
-  Affiliate Link & Anzeige - Wie man Tiefenentspannung mit Hilfe von Thai
+description: Wie man Tiefenentspannung mit Hilfe von Thai Massage und
+  Traditioneller Chinesischer Medizin erfahren kann - Ein Selbstversuch mit
+  überraschendem Ausgang.
+excerpt: Affiliate Link & Anzeige - Wie man Tiefenentspannung mit Hilfe von Thai
   Massage und Traditioneller Chinesischer Medizin erfahren kann - Ein
   Selbstversuch mit überraschendem Ausgang.
 focusKeyword: Tiefenentspannung
@@ -64,16 +62,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "9149"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (82:31)"
 subTitle: Von Thai Massage und traditioneller chinesischer Medizin
+  
 ---
 
-<em>Anzeige &amp; Affiliate Link\*</em>
+## unknown: Expected corresponding JSX closing tag for <p> (82:31)
 
-![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/14127413780_afc53cd050_z-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Auf dem Weg zur Tiefenentspannung")
+<!--
+![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/14127413780_afc53cd050_z-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Auf dem Weg zur Tiefenentspannung")
 
-<strong>Schon seit einiger Zeit leide ich unter schlimmen Verspannungen in
-meinen Schultern, die dazu führen, dass mir extrem schwindelig wird und ich
-Schmerzen in den Armen habe.</strong>
+**Schon seit einiger Zeit leide ich unter schlimmen Verspannungen in meinen
+Schultern, die dazu führen, dass mir extrem schwindelig wird und ich Schmerzen
+in den Armen habe.**
 
 Es war ein ziemlich langer Prozess, herauszufinden, was überhaupt mit mir los
 ist. Am Anfang hatte ich richtig Angst. Mit Schwindel ist ja schließlich nicht
@@ -91,7 +95,7 @@ vor zwei Wochen (Der Höhepunkt meiner "Schwindelphase" war erreicht, mir ging e
 so schlecht, dass ich kaum noch stehen konnte) auf dem Weg zur Post spontan in
 den Massageladen zweier Thailänderinnen direkt bei uns um die Ecke.
 
-![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/9587689099_eecc042a95_z-150x150.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Eine kurze Nackenmassage später")
+![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/9587689099_eecc042a95_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Eine kurze Nackenmassage später")
 
 Eine ganz neue Erfahrung für mich, ich war von Anfang an begeistert. Beim
 Betreten des Ladens sprach mich "meine Masseurin" direkt mit den Worten "Sie
@@ -118,7 +122,7 @@ Verspannung sei nun schon mal vom Kopf weiter runter in die Schultern gewandert
 und müsste nun immer weiter herausmassiert werden. Schwer zu beschreiben, ich
 denke, dass ich es so am besten in Worte fasse.
 
-![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/keep-calm-and-relax-your-shoulders-1-150x150.png " [](https://www.flickr.com/photos/99929697@N07/)  keep calm and relax your shoulders")
+![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/keep-calm-and-relax-your-shoulders-1-150x150.png "[ ](https://www.flickr.com/photos/99929697@N07/)  keep calm and relax your shoulders")
 
 Es fühlte sich nun eher an, wie ein Zug, nichts, was sich nicht mit ein paar
 Fangobehandlungen beheben lassen würde. Ich war unglaublich erleichtert. Der
@@ -136,7 +140,7 @@ darauf.
 Ein weiteres Experiment habe ich heute gewagt: Ich begab mich in die Hände einer
 traditionellen chinesischen Ärztin.
 
-![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/9587716867_268c9cfda2_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Entspannung und Ausgeglichenheit")
+![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/9587716867_268c9cfda2_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Entspannung und Ausgeglichenheit")
 
 Beim Betreten der Praxis wurde mir Tee angeboten, eine sehr nette Geste. Im
 Anschluss wurde ich in den Behandlungsraum geführt, wo ich nur ca. zwei Minuten
@@ -156,7 +160,7 @@ in den Händen?" Ich erzählte ihr, dass ich aus diesem Grund vor ca. einem halb
 Jahr beim Neurologen gewesen war, der die Leitfähigkeit der Nerven in meinen
 Armen getestet hatte, die allerdings nur sehr gering beeinträchtigt ist.
 
-![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/9587684999_5cf97b4faf_z-150x150.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Entspannung")
+![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/9587684999_5cf97b4faf_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Entspannung")
 
 Damals hatte ich eine Karpaltunnelsyndrom-Schiene für die Nacht verschrieben
 bekommen, die meine Beschwerden allerdings leider noch verstärkte, weshalb ich
@@ -182,7 +186,7 @@ Frau wohl in mich hineinschauen konnte? Jahrelange Erfahrung und eine
 jahrhundertelange Tradition sind hier wohl des Rätsels Lösung. So fühlt es sich
 also an, wenn man ganzheitlich behandelt wird.
 
-![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/9587758235_97e6d86195_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Haben sie Kopfschmerzen?")
+![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/9587758235_97e6d86195_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Haben sie Kopfschmerzen?")
 
 Sie sprach mich außerdem noch von sich aus auf meine Hautprobleme an, ich
 erzählte ihr von meinem erfolglosen Termin beim Hautarzt und sie verschrieb mir
@@ -199,7 +203,7 @@ Ich habe beides als sehr angenehm empfunden. Jetzt, zwei Stunden danach, habe
 ich noch immer ein angenehm warmes Gefühl auf meinen Schultern und ich fühle
 mich rundum entspannt.
 
-![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/14741744948_328eecf9d8_z-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Ab jetzt gibt es im Hause Reis jeden Tag einen Kräutertrunk")
+![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/14741744948_328eecf9d8_z-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Ab jetzt gibt es im Hause Reis jeden Tag einen Kräutertrunk")
 
 Ich werde in der nächsten Zeit zwei Mal in der Woche zur Akupunktur gehen. Die
 Ärztin verspricht sich eine schnelle Linderung meiner Beschwerden, von der ich
@@ -219,17 +223,21 @@ habe, ich hoffe, Ihr versteht das.
 
 ![Ashéra Naturkosmetik](https://www.adcell.de/promotion/image/promoId/172494/slotId/80259)
 
-<strong>Info:</strong> Ich habe mich vor den Behandlungen von meinem Hausarzt
-gründlich untersuchen lassen (Vitalfunktionen, Herz, Kreislauf, Blutbild). Zudem
-habe ich aufgrund meiner Beschwerden noch diverse andere Ärzte besucht, um
-Schlimmeres auszuschließen. Dies empfehle ich jedem/r, mit ähnlichen Symptomen,
-der/die mit dem Gedanken spielt, sich mit traditioneller chinesischer Medizin
-und/oder Thai-Massage behandeln zu lassen. Der Orthopäde schickt einen
-gegebenenfalls auch vorab in die Röhre, um die Wirbelsäule genauer betrachten zu
-können, nur um auf Nummer sicher zu
-gehen.<a href="https://www.adcell.de/promotion/click/promoId/172494/slotId/80259" target="_blank" rel="noopener">
+**Info:** Ich habe mich vor den Behandlungen von meinem Hausarzt gründlich
+untersuchen lassen (Vitalfunktionen, Herz, Kreislauf, Blutbild). Zudem habe ich
+aufgrund meiner Beschwerden noch diverse andere Ärzte besucht, um Schlimmeres
+auszuschließen. Dies empfehle ich jedem/r, mit ähnlichen Symptomen, der/die mit
+dem Gedanken spielt, sich mit traditioneller chinesischer Medizin und/oder
+Thai-Massage behandeln zu lassen. Der Orthopäde schickt einen gegebenenfalls
+auch vorab in die Röhre, um die Wirbelsäule genauer betrachten zu können, nur um
+auf Nummer sicher zu gehen.
+[](https://www.adcell.de/promotion/click/promoId/172494/slotId/80259)
 
-\*<em>Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
-Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
+  Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
+
+-->
+
+  

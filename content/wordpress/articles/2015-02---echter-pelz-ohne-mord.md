@@ -4,12 +4,11 @@ seoTitle: Echter Pelz ohne Mord? "Petite Mort" stellt Pelze aus Roadkill her
 slug: petit-mort-kein-echter-pelz-ohne-mord
 link: /2015/02/petit-mort-kein-echter-pelz-ohne-mord/
 fileName: 2015-02---echter-pelz-ohne-mord.md
-description:
-  Die Gründerin von "Petite Mort", Pamela Paquin stellt Pelz aus Roadkill her.
-  Kleidungsstücke aus überfahrenen Tieren - ganz schön makaber, oder?
-excerpt:
-  Die Gründerin von "Petite Mort", Pamela Paquin stellt Pelz aus Roadkill her.
-  Kleidungsstücke aus überfahrenen Tieren - ganz schön makaber, oder?
+description: Die Gründerin von "Petite Mort", Pamela Paquin stellt Pelz aus
+  Roadkill her. Kleidungsstücke aus überfahrenen Tieren - ganz schön makaber,
+  oder?
+excerpt: Die Gründerin von "Petite Mort", Pamela Paquin stellt Pelz aus Roadkill
+  her. Kleidungsstücke aus überfahrenen Tieren - ganz schön makaber, oder?
 focusKeyword: Pelz
 labels:
   - Darum vegan
@@ -26,12 +25,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25601"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Petit Mort" stellt Pelze aus Roadkill her'
+  
 ---
-
-<strong>Die Gründerin von "Petite Mort", Pamela Paquin stellt Pelz aus Roadkill
-her. Kleidungsstücke aus überfahrenen Tieren - das klingt ganz schön makaber,
-oder?</strong>
 
 Pamela Paquin ist in ihrem Leben schon viel gereist und dabei stets überall
 aufgeafallen: "Es werden so viele arme Tiere sinnlos durch Autounfälle getötet."
@@ -63,11 +61,12 @@ dass sie mit ihrer Mode ein Statement für Pelz setzt. Sie selbst würde, laut
 eigener Aussage jedoch nie einem Tier ein Leid zufügen. Sie ignoriert die
 Schreie der Zweifler.
 
-<blockquote>"Die Leute müssen sich die Pelze ankucken, sehen mein Logo und sagen sich: OK, das ist ethisch korrekter Pelz, er stammt von Petit Mort!",</blockquote>
+> "Die Leute müssen sich die Pelze ankucken, sehen mein Logo und sagen sich: OK,
+> das ist ethisch korrekter Pelz, er stammt von Petit Mort!",
 
-sagt sie - "ethisch korrekter Pelz" ist und bleibt ein Widerspruch in sich.
-Jede<em>r muss für sich selbst entscheiden, ob er</em>sie Teil der derzeit immer
-weiter um sich greifenden, blutigen Modeerscheinung sein möchte. Selbst
+sagt sie - "ethisch korrekter Pelz" ist und bleibt ein Widerspruch in sich. Jede
+_r muss für sich selbst entscheiden, ob er_ sie Teil der derzeit immer weiter um
+sich greifenden, blutigen Modeerscheinung sein möchte. Selbst
 [Fakepelz kann Echtpelz sein](/2014/11/fakepelz-echtpelz/), sogar hierzulande
 wird unter Fantasienahmen unter anderem Hunde- und Katzenfell verkauft. Solange
 diese fragwürdige Industrie besteht und Tiere sinnlos für die Verzierung unserer
@@ -79,6 +78,11 @@ weshalb ich für meinen Teil meine Finger von allem lasse, was auch nur im
 entferntesten nach Pelz aussieht. Was haltet Ihr von Pamela Paquins Idee? Könnt
 Ihr Euch vorstellen, einen Waschbär-Schal aus "Roadkill" zu tragen?
 
-<strong>Quellen:</strong><ul><li>
-[Gaertringen](https://www.treehugger.com/sustainable-fashion/petite-mort-ethical-fur-roadkill-pamela-paquin.html),
-pixabay
+**Quellen:** -
+[treehugger.com](https://www.treehugger.com/sustainable-fashion/petite-mort-ethical-fur-roadkill-pamela-paquin.html)
+
+- [modernfarmer.com](https://modernfarmer.com/2014/12/one-woman-revolutionizing-fur-industry-using-roadkill/)
+  **Foto im Header:**
+  [Gaertringen](https://pixabay.com/de/users/gaertringen-168960/), pixabay
+
+  

@@ -4,14 +4,12 @@ seoTitle: Der vegane Prinz Khaled bin Alwaleed kämpft für Solarstrom
 slug: prinz-vegan-khaled-bin-alwaleed
 link: /2017/02/prinz-vegan-khaled-bin-alwaleed/
 fileName: 2017-02---der-vegane-prinz.md
-description:
-  Prinz Vegan hat mit der Familientradition gebrochen und das Erdölgeschäft
-  hinter sich gelassen. Khaled bin Alwaleed setzt sich für erneuerbare Energien
-  ein.
-excerpt:
-  Prinz Vegan hat mit der Familientradition gebrochen und das Erdölgeschäft
-  hinter sich gelassen. Khaled bin Alwaleed setzt sich für erneuerbare Energien
-  ein.
+description: Prinz Vegan hat mit der Familientradition gebrochen und das
+  Erdölgeschäft hinter sich gelassen. Khaled bin Alwaleed setzt sich für
+  erneuerbare Energien ein.
+excerpt: Prinz Vegan hat mit der Familientradition gebrochen und das
+  Erdölgeschäft hinter sich gelassen. Khaled bin Alwaleed setzt sich für
+  erneuerbare Energien ein.
 focusKeyword: Prinz Vegan
 labels:
   - Darum vegan
@@ -29,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15813"
+image: /img/demo.jpg
+errors: []
 subTitle: LED-Lichter und Solarstrom statt Öl und Überfluss
+  
 ---
 
-<strong>Prinz Khaled bin Alwaleed hat mit der Familientradition gebrochen und
-das Erdölgeschäft hinter sich gelassen. Seine Milliarden nutzt er jetzt, um
-Solarenergie populär zu machen.</strong>
+**Prinz Khaled bin Alwaleed hat mit der Familientradition gebrochen und das
+Erdölgeschäft hinter sich gelassen. Seine Milliarden nutzt er jetzt, um
+Solarenergie populär zu machen.**
 
 Er ist der Sohn des als Bill Gates von Saudi Arabien bekannten Milliardärs
 Alwaleed bin Talal bin Abdulaziz al Saud. Er lebte ein Leben im Überfluss,
@@ -51,7 +52,8 @@ seinen Fokus.
 
 2015 äußerte er sich bei einem Business-Forum in Riyadh dazu so:
 
-<blockquote>Der Klimawandel und der uneingeschränkte Konsum von Energien sind zwei der schwerwiegendsten Probleme, denen wir uns heutzutage stellen müssen.</blockquote>
+> Der Klimawandel und der uneingeschränkte Konsum von Energien sind zwei der
+> schwerwiegendsten Probleme, denen wir uns heutzutage stellen müssen.
 
 ## 100.000 LED-Lichter setzen ein Zeichen
 
@@ -74,9 +76,9 @@ jungen Mann in nobler Kleidung, der seine Freizeit mit seiner Familie auf einer
 beeindruckenden Yacht verbringt. Andere zeigen ihn, wie er vor seiner Sammlung
 aus 200 Luxuskarossen posiert.
 
-Auch wenn man ihn noch anspricht mit <em>Your Royal Highness, also </em>"Eure
-royale Hoheit", er trägt Sweatshirt und Sneaker und auf dem Kopf gerne Beanies.
-Mit seinen heute 38 Jahren ist er Teil der ersten Generation, die mit dem
+Auch wenn man ihn noch anspricht mit _Your Royal Highness, also_ "Eure royale
+Hoheit", er trägt Sweatshirt und Sneaker und auf dem Kopf gerne Beanies. Mit
+seinen heute 38 Jahren ist er Teil der ersten Generation, die mit dem
 Klimawandel aufgewachsen ist. Die schier endlose Flut an Nachrichten zum Thema
 ist auch an ihm nicht spurlos vorüber gegangen. In den sozialen Netzwerken ist
 er unter anderem mit PETA verbunden. Er setzt sich für die Rechte der Tiere ein
@@ -87,7 +89,9 @@ und Tierisches kommt bei ihm schon lange nicht mehr auf den Teller.
 Khaleed sieht seinen Kampf für grüne Energie in direkter Verknüpfung zu seinem
 veganen Lebensstil.
 
-<blockquote>Die Probleme, die den Tierschutz, die Massentierhaltung und die Umwelt betreffen, sind lösbar, wenn wir die Dinge rationell betrachten. Humane, praktische Lösungen bringen uns weiter, als gierige.</blockquote>
+> Die Probleme, die den Tierschutz, die Massentierhaltung und die Umwelt
+> betreffen, sind lösbar, wenn wir die Dinge rationell betrachten. Humane,
+> praktische Lösungen bringen uns weiter, als gierige.
 
 ## Saudi Arabien - Eine Erdölnation zieht sich aus dem Geschäft zurück
 
@@ -109,12 +113,16 @@ unterschrieb Saudi Arabien den Klimavertrag. Obwohl das Land auch heute noch
 
 Prinz Vegan möchte mit gutem Beispiel vorangehen. Dem National Observer sagte er
 
-<blockquote>Ich war immer verwirrt. Soll ich ich sein, oder der, den die Menschen erwarten, der ich bin? Ich habe versucht, der zu sein, den die Leute erwarten und bin zu dem Schluss gekommen, dass das keinen Sinn macht. Ich kann das nicht mehr machen.</blockquote>
+> Ich war immer verwirrt. Soll ich ich sein, oder der, den die Menschen
+> erwarten, der ich bin? Ich habe versucht, der zu sein, den die Leute erwarten
+> und bin zu dem Schluss gekommen, dass das keinen Sinn macht. Ich kann das
+> nicht mehr machen.
 
-Zu seinen Lieblingsfilmen zählen unter anderem <em>An Inconvenient
-Truth </em>von Al Gore und <em>Before The Flood </em>von Leonardo DiCaprio.
+Zu seinen Lieblingsfilmen zählen unter anderem  _An Inconvenient Truth_ von Al
+Gore und  _Before The Flood_ von Leonardo DiCaprio.
 
-<blockquote>Man muss wirklich kein Raktenwissenschaftler sein, um zu verstehen, dass der Klimawandel echt ist.</blockquote>
+> Man muss wirklich kein Raktenwissenschaftler sein, um zu verstehen, dass der
+> Klimawandel echt ist.
 
 Prinz Vegan findet Ihr übrigens auch auf
 [Instagram](https://www.instagram.com/p/BPnDVNEDw0w/).  Mich hat er schon mal
@@ -125,7 +133,7 @@ den Screenshot klicken.
 
 ![Prinz Vegan | large](http://cardamonchai.com/wp-content/uploads/2017/02/Bildschirmfoto-2017-02-14-um-09.49.57-800x462.png)
 
-<a href="http://www.nationalobserver.com/2017/02/10/news/meet-vegan-saudi-prince-whos-turning-lights-jordan" target="_blank" rel="noopener">
+[](http://www.nationalobserver.com/2017/02/10/news/meet-vegan-saudi-prince-whos-turning-lights-jordan)
 
 Quelle und Screenshot:
 [National Observer](http://www.nationalobserver.com/2017/02/10/news/meet-vegan-saudi-prince-whos-turning-lights-jordan)
@@ -140,3 +148,5 @@ Creative Commons "The Sun Is A Painter"
 &nbsp;
 
 &nbsp;
+
+  

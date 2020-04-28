@@ -4,12 +4,11 @@ seoTitle: Turnbeutel - Neu in meiner Sammlung
 slug: turnbeutel-diy
 link: /2016/05/turnbeutel-diy/
 fileName: 2016-05---diy-turnbeutel-fuer-den-sommer.md
-description:
-  Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem weggeworfenen Stoff
-  aus dem Sperrmüll entstanden ist. Mit Nähanleitung und Video.
-excerpt:
-  Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem weggeworfenen Stoff
-  aus dem Sperrmüll entstanden ist. Mit Nähanleitung und Video.
+description: Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem
+  weggeworfenen Stoff aus dem Sperrmüll entstanden ist. Mit Nähanleitung und
+  Video.
+excerpt: Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem weggeworfenen
+  Stoff aus dem Sperrmüll entstanden ist. Mit Nähanleitung und Video.
 focusKeyword: Turnbeutel
 labels:
   - diy
@@ -26,13 +25,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14720"
+image: /img/demo.jpg
+errors: []
 subTitle: Aus alt mach neu
+  
 ---
 
 ![Turnbeutel](http://cardamonchai.com/wp-content/uploads/2016/05/26332007734_abb994932c_z-640x640.jpg "Mein neuer Turnbeutel")
 
-<strong>Wie einige unter Euch schon wissen, bin ich ein Fan von Turnbeuteln. Die
-Dinger sehen nicht nur toll aus, sie sind auch noch super praktisch. </strong>
+**Wie einige unter Euch schon wissen, bin ich ein Fan von Turnbeuteln. Die
+Dinger sehen nicht nur toll aus, sie sind auch noch super praktisch.**
 
 Turnbeutel benutze ich nicht nur für meine Sportsachen, sondern auch zum
 Einkaufen oder als Handtaschenersatz auf Konzerten oder beim Stadtbummel. Wenn
@@ -87,4 +89,6 @@ ids="14721,14723"]
 
 <iframe src="https://www.youtube.com/embed/fvIMFC3esDM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

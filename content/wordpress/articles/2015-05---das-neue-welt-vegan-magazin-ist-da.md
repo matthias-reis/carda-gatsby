@@ -4,12 +4,11 @@ seoTitle: Das neue Welt Vegan Magazin ist da - Mein Artikel
 slug: das-neue-welt-vegan-magazin-ist-da
 link: /2015/05/das-neue-welt-vegan-magazin-ist-da/
 fileName: 2015-05---das-neue-welt-vegan-magazin-ist-da.md
-description:
-  Die neue Welt Vegan Magazin Ausgabe ist da! Auch ich habe wieder einen Artikel
-  dazu beigetragen, dieses Mal dreht sich darin alles um Tierversuche.
-excerpt:
-  Die neue Welt Vegan Magazin Ausgabe ist da! Auch ich habe wieder einen Artikel
-  dazu beigetragen, dieses Mal dreht sich darin alles um Tierversuche.
+description: Die neue Welt Vegan Magazin Ausgabe ist da! Auch ich habe wieder
+  einen Artikel dazu beigetragen, dieses Mal dreht sich darin alles um
+  Tierversuche.
+excerpt: Die neue Welt Vegan Magazin Ausgabe ist da! Auch ich habe wieder einen
+  Artikel dazu beigetragen, dieses Mal dreht sich darin alles um Tierversuche.
 focusKeyword: Welt Vegan Magazin
 labels:
   - Darum vegan
@@ -27,15 +26,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11955"
+image: /img/demo.jpg
+errors: []
 subTitle: Mein Artikel auf Seite 112
+  
 ---
 
 ![Das neue Welt Vegan Magazin ist da!](http://cardamonchai.com/wp-content/uploads/2015/05/Welt-Vegan-Magazin-8-640x427.jpg "Das neue Welt Vegan Magazin ist da!")
 
-<strong>Die neue Welt Vegan Magazin Ausgabe ist da! Auch ich habe wieder einen
-Artikel dazu beigetragen, dieses Mal dreht sich darin alles um den
-Internationalen Tag zur Abschaffung der Tierversuche und Fakten rund um das
-Thema Tierversuche.</strong>## Sommergewinnspiel und Kaya Yanar
+**Die neue Welt Vegan Magazin Ausgabe ist da! Auch ich habe wieder einen Artikel
+dazu beigetragen, dieses Mal dreht sich darin alles um den Internationalen Tag
+zur Abschaffung der Tierversuche und Fakten rund um das Thema Tierversuche.** ##
+Sommergewinnspiel und Kaya Yanar
 
 Lest doch mal rein! Im Heft findet Ihr außerdem noch viele weitere Themen, ein
 tolles Sommergewinnspiel, das große Veggie-Barometer und ein Interview mit dem
@@ -57,4 +59,17 @@ Go Vegan!
 
 [gallery type="rectangular" columns="2" size="medium" ids="11954,11953"]
 
-## Wegweiser Welt Vegan Magazin<ol><li> [](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/) <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 479px; left: 210px;">Merken</span>
+## Wegweiser Welt Vegan Magazin1. [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
+
+1.  3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"
+1.  [5/2015 "Interview BUND" und "TTIP"](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/)
+1.  [6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"](/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/)
+1.  [1/2016 "Alge Vegan" und "Barnard Medical Centre"](/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/)
+1.  [2/2016 "Animal Rights Watch"](http://welt-vegan-magazin-22016)
+1.  [3/2016 "Schmuggel bedrohter Arten"](/2016/09/thomas-d-im-welt-vegan-magazin/)
+1.  [1/2017 "Los Veganeros 2"](/2017/03/los-veganeros-welt-vegan-magazin-1-2017/)
+1.  [2/2017 "Anne Menden und Sea Shepherd"](/2017/06/welt-vegan-magazin-2-2017-anne-menden/)
+    [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+    Merken
+
+  

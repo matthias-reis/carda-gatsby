@@ -4,12 +4,12 @@ seoTitle: Kunst für die Tiere von Mienenbüttel - neues von Denise Hof
 slug: kunst-fuer-die-tiere-von-mienenbuettel
 link: /2019/12/kunst-fuer-die-tiere-von-mienenbuettel/
 fileName: 2019-12---kunst-fuer-die-tiere-von-mienenbuettel.md
-description:
-  Künstlerin Denise Hof erfindet sich immer wieder neu. Jetzt hat sie ein neues
-  Projekt. Die Bilder zeigen die Tiere im Versuchslabor Hamburg Mienenbüttel.
-excerpt:
-  Künstlerin Denise Hof erfindet sich immer wieder neu. Jetzt hat sie ein neues
-  Projekt. Die Bilder zeigen die Tiere im Versuchslabor Hamburg Mienenbüttel.
+description: Künstlerin Denise Hof erfindet sich immer wieder neu. Jetzt hat sie
+  ein neues Projekt. Die Bilder zeigen die Tiere im Versuchslabor Hamburg
+  Mienenbüttel.
+excerpt: Künstlerin Denise Hof erfindet sich immer wieder neu. Jetzt hat sie ein
+  neues Projekt. Die Bilder zeigen die Tiere im Versuchslabor Hamburg
+  Mienenbüttel.
 focusKeyword: mienenbuettel
 labels:
   - Darum vegan
@@ -27,16 +27,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27118"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues von der veganen Künstlerin Denise Hof
+  
 ---
 
-<strong>Denise Hof kennt Ihr bereits aus den verschiedensten Beiträgen auf
-meiner Seite. Die Künstlerin sprüht nur so vor Kreativität und erfindet sich
-immer wieder neu. Jetzt hat sie mir von ihren neuesten Kunstwerken
-erzählt.</strong>
+**Denise Hof kennt Ihr bereits aus den verschiedensten Beiträgen auf meiner
+Seite. Die Künstlerin sprüht nur so vor Kreativität und erfindet sich immer
+wieder neu. Jetzt hat sie mir von ihren neuesten Kunstwerken erzählt.**
 
-"[Tierisch hintergründig](/2015/04/vegane-haekelmuetzen-mit-statement/)" heißen
-Denises Projekte. Die vegane Aktivistin macht mit ihren Werken auf die
+"[Vegane Häkelmützen mit Statement](/2015/04/vegane-haekelmuetzen-mit-statement/)"
+,
+"[Ein Meer aus Farben für die Tiere](/2015/08/ein-meer-aus-farben-fuer-die-tiere/)"
+und
+"[Tierisch hintergründig](/2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/)"
+heißen Denises Projekte. Die vegane Aktivistin macht mit ihren Werken auf die
 Grausamkeit im Umgang mit Tieren aufmerksam. In jedem ihrer Bilder steckt das
 persönliche Schicksal eines Tiers.
 
@@ -61,7 +67,7 @@ Gesicht geben.
 Die Schönheit und das Leid dieser Tiere stehen im Mittelpunkt Ihrer Bilder.
 Farben sind ihr beim Malen besonders wichtig.
 
-<blockquote>"Farben faszinieren mich, weil sie für mich Leben und Lebensfreude bedeuten",</blockquote>
+> "Farben faszinieren mich, weil sie für mich Leben und Lebensfreude bedeuten",
 
 sagt die Künstlerin. Ihre Bildsprache hat sich über die Jahre immer wieder
 verändert. Bei den Bildern, die sie selbst in ihrem Leben als
@@ -77,7 +83,9 @@ lassen. Inzwischen sind auch Menschen Bestandteil ihrer Werke.
 Blutende Münder stellen Sprachlosigkeit dar. Inzwischen ist eine ganze Serie
 dieser dunkleren Bilder entstanden. Denise meint dazu
 
-<blockquote>"Die Hilflosigkeit, der Schmerz, die Wut und die grenzenlose Angst, die von meinen Bildern ausgeht, spiegelt nur einen Bruchteil davon wieder, was diese hilflosen Geschöpfe fühlen müssen."</blockquote>
+> "Die Hilflosigkeit, der Schmerz, die Wut und die grenzenlose Angst, die von
+> meinen Bildern ausgeht, spiegelt nur einen Bruchteil davon wieder, was diese
+> hilflosen Geschöpfe fühlen müssen."
 
 Die Tierfreundin lebt inzwischen ihren Traum und hat den für sie wichtigen
 Schritt zur freischaffenden Künstlerin gewagt. Kunst bedeutet für sie Freiheit.
@@ -96,7 +104,12 @@ sich auch die Empathie der Tiere auf die Menschen.
 
 [glry name="2-denise"]
 
-Denise [](#1) vor
+Denise [<sup>1</sup>](#1) vor hat noch zahlreiche weitere Projekte. So erstellte
+sie im Oktober 2018 das Buch "Paul, ein Botschafter der Rinder" über Paul, der
+als mutterloses Rinderkind auf den Lebenshof Butenland kam. Es wurde über den
+Verlag Stiftung Hof Butenland veröffentlicht. Darin findet man unter anderem
+einige ihrer Bilder sowie Texte und einen Song, den sie für Paul geschrieben
+hat. [<sup>2</sup>](#2) vor
 
 Denise verkauft ihre Kunstwerke auf Anfrage. Diese könnt Ihr jederzeit
 [per Mail an sie richten](mailto:info@cardamonchai.com).
@@ -112,3 +125,5 @@ meiner Seite zu verpassen.
 [1][website denise hof art](https://www.denisehofart.de)
 
 [2][buch für paul](https://www.stiftung-fuer-tierschutz.de/2018/10/paul-ein-botschafter-der-rinder/)
+
+  

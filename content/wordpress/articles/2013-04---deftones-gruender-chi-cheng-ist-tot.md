@@ -4,11 +4,8 @@ seoTitle: Deftones-Gründer Chi Cheng ist tot
 slug: nachruf-deftones-grunder-chi-cheng-ist-tot
 link: /2013/04/nachruf-deftones-grunder-chi-cheng-ist-tot/
 fileName: 2013-04---deftones-gruender-chi-cheng-ist-tot.md
-description:
-  Im Alter von 42 Jahren wurde Chi Cheng von uns genommen - Ein Nachruf
-excerpt:
-  Am Samstag gegen 3 Uhr wurde Chi Cheng im Alter von 42 Jahren von uns
-  genommen.
+description: Im Alter von 42 Jahren wurde Chi Cheng von uns genommen - Ein Nachruf
+excerpt: Am Samstag gegen 3 Uhr wurde Chi Cheng im Alter von 42 Jahren von uns genommen.
 focusKeyword: Chi Cheng
 labels:
   - Bands & Reviews
@@ -31,26 +28,27 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18327"
+image: /img/demo.jpg
+errors: []
 subTitle: Nachruf
+  
 ---
-
-<strong>Am Samstag gegen 3 Uhr wurde Chi Cheng im Alter von 42 Jahren von uns
-genommen.</strong>
 
 Chi Cheng hatte am 4. November 2008 zusammen mit seiner Schwester einen schweren
 Autounfall in Santa Clara, bei dem er aus dem Fahrzeug geschleudert wurde. Seit
 diesem schlimmen Tag befand er sich im Wachkoma und erholte sich leider nie
 wieder richtig.
 
-![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg " [](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg)  Chi Cheng")
+![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg "[ ](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg)  Chi Cheng")
 
 Vor einem Jahr verbreitete sich die Nachricht, es würde ihm wieder etwas besser
 gehen, was leider nicht für lange Zeit anhielt. Chi Cheng wurde als genialer
 Bassist und Gründungsmitglied der
-[one love for chi](//2012/09/04/deftones-stellen-zwei-neue-songs-vor-album-im-november/)
-teilte seine Mutter mit, er sei auf die Intensivstation gekommen, wo sein Herz
-dann aufgehört hat zu schlagen. ‚Während er diese Welt verließ, sang ich für ihn
-die Lieder, die er liebte.'
+[DEFTONES](//2012/09/04/deftones-stellen-zwei-neue-songs-vor-album-im-november/)
+bekannt. Auf der für Chi eingerichteten Homepage
+[one love for chi](http://oneloveforchi.com/) teilte seine Mutter mit, er sei
+auf die Intensivstation gekommen, wo sein Herz dann aufgehört hat zu schlagen.
+‚Während er diese Welt verließ, sang ich für ihn die Lieder, die er liebte.'
 
 Chi Cheng wurde am 15. August 1970 in Davis, Kalifornien geboren. Er besuchte
 die California State in Sacramento, wo er auch die Deftones gründete. Cheng war
@@ -78,7 +76,7 @@ He fought the good fight.You stood by him sending love daily. He knew that he wa
 I will write more later. I will be going through the oneloveforchi site and any other information may not be reliable.
 If you have any stories or messages to share please send them to the onelove site. Please hold Mae and Ming
 and the siblings and especially Chi’s son, Gabriel in your prayers. It is so hard to let go.
-With great love and “Much Respect!” Mom J (and Chi)</address></div><strong>RIP Chi. Wir lieben Dich und werden Dich nie vergessen. &lt;3</strong>## Chis Erbe### Folgende Werke hat Chi Cheng der Nachwelt hinterlassen:#### Texte:
+With great love and “Much Respect!” Mom J (and Chi)</address></div> __RIP Chi. Wir lieben Dich und werden Dich nie vergessen. &lt;3__ ## Chis Erbe### Folgende Werke hat Chi Cheng der Nachwelt hinterlassen:#### Texte:
 
 The Bamboo Parachute (2000)
 
@@ -97,19 +95,19 @@ Delusion', Far-Frontman Jonah Matranga schrieb den Titelsong des 2010
 veröffentlichten Albums ‚At Night We live‘ über einen Traum, den er hatte, kurz,
 nachdem er Chi im Krankenhaus besucht hatte.
 
-![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg " [](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg)  Chi Cheng")
+![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg "[ ](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg)  Chi Cheng")
 
-#### Deftones - Minerva</strong>
+#### **Deftones - Minerva**
 
 [youtube=http://www.youtube.com/watch?v=TYTt0-LpLbE]
 
-<em>I get all numb</em><em> When she sings "It's over"</em><em> Such a strange
-numb</em><em> And it brings my knees to the earth</em><em>And God bless you
-all</em><em> For the song you saved us</em><em>You're the same numb</em><em>
-When you sing "It's over"</em><em> Such a strange numb</em><em> It could bring
-back peace to the earth</em><em>So God bless you all</em><em> For the song you
-saved us, oh</em><em> For the hearts you break every time you moan</em><em>I get
-all numb</em><em> We're the same numb</em><em> And it brings our knees to the
-earth</em><em>So God bless you all</em><em> For the song you saved us,
-oh</em><em> For the hearts you break every time you moan</em><em>And God bless
-you all on the earth</em>
+_I get all numb_ _When she sings "It's over"_ _Such a strange numb_ _And it
+brings my knees to the earth_ _And God bless you all_ _For the song you saved
+us_ _You're the same numb_ _When you sing "It's over"_ _Such a strange numb_ _It
+could bring back peace to the earth_ _So God bless you all_ _For the song you
+saved us, oh_ _For the hearts you break every time you moan_ _I get all numb_
+_We're the same numb_ _And it brings our knees to the earth_ _So God bless you
+all_ _For the song you saved us, oh_ _For the hearts you break every time you
+moan_ _And God bless you all on the earth_
+
+  

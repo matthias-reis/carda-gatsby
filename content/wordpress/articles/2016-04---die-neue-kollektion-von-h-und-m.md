@@ -4,12 +4,10 @@ seoTitle: Leder und Seide unter dem Label "Conscious" bei H&M
 slug: die-neue-kollektion-von-hm
 link: /2016/04/die-neue-kollektion-von-hm/
 fileName: 2016-04---die-neue-kollektion-von-h-und-m.md
-description:
-  H&M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen. Allerdings
-  kommen dabei Produkte tierischen Ursprungs zum Einsatz.
-excerpt:
-  H&M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen. Allerdings
-  kommen dabei Produkte tierischen Ursprungs zum Einsatz.
+description: H&M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen.
+  Allerdings kommen dabei Produkte tierischen Ursprungs zum Einsatz.
+excerpt: H&M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen.
+  Allerdings kommen dabei Produkte tierischen Ursprungs zum Einsatz.
 focusKeyword: Conscious
 labels:
   - Greenwashing
@@ -21,16 +19,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28954"
+image: /img/demo.jpg
+errors: []
 subTitle: Leder und Seide unter dem Label "Conscious"
+  
 ---
 
-<strong>H&amp;M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen.
-Allerdings kommen dabei Produkte tierischen Ursprungs zum Einsatz. </strong>
+**H&amp;M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen.
+Allerdings kommen dabei Produkte tierischen Ursprungs zum Einsatz.**
 
 Die Modefirma stellte vor Kurzem ihre neue, vom 18ten Jahrhundert in Frankreich
 inspirierte Modelinie vor. Sie gehört zu der Nachhaltigkeitslinie mit dem Namen
 "Conscious" und das obwohl ein Großteil der Stücke aus Seide und Leder gefertigt
-ist<strong>.</strong>
+ist **.**
 
 Die Schauspielerin Olivia Wilde stellte die Linie als "umweltbewusster" vor als
 vergangene Linien. H&amp;M kündigte in der letzten Zeit verschiedene neue
@@ -55,3 +56,5 @@ Verwirrung der Konsumenten führen, die sich auf derartige Label verlassen.
 [H&amp;M baut Tierrechtsstandards aus](/2015/09/hm-baut-tierrechtsstandards-aus/)
 
 Bild: [Angin_Akyurt](https://pixabay.com/users/engin_akyurt-3656355/), Pixabay
+
+  

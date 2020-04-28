@@ -4,12 +4,11 @@ seoTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
 slug: fopo-rettet-aussortierte-fruechte
 link: /2017/09/fopo-rettet-aussortierte-fruechte/
 fileName: 2017-09---fopo-aus-bremen.md
-description:
-  Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen sie
-  leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
-excerpt:
-  Werbung - Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen
+description: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen
   sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
+excerpt: Werbung - Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen
+  stellen sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch
+  welche!
 focusKeyword: FoPo
 labels:
   - Ananas
@@ -38,15 +37,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17824"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <sub> (40:121)"
 subTitle: Trockenfrüchte fürs Klima
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <sub> (40:121)
+
+<!--
 Werbung\*
 
-<strong>Die Gründer von <em>FoPo</em> haben es sich zur Aufgabe gemacht,
-aussortierte Früchte zu retten. Aus ihnen stellen sie leckeres Fruchtpulver und
-Trockenobst her, das man zum Beispiel zur Herstellung von Smoothies verwenden
-kann. Ich habe die<em> FoPo</em> Produkte jetzt mal getestet.</strong>
+**Die Gründer von _FoPo_ haben es sich zur Aufgabe gemacht, aussortierte Früchte
+zu retten. Aus ihnen stellen sie leckeres Fruchtpulver und Trockenobst her, das
+man zum Beispiel zur Herstellung von Smoothies verwenden kann. Ich habe die
+_FoPo_ Produkte jetzt mal getestet.**
 
 Kurz nach meiner Bestellung, landete bei mir ein liebevoll verpacktes Paket.
 Heraus purzelten jede Menge kleine Papiertüten mit Fruchtpulver und eine Packung
@@ -56,41 +63,47 @@ Gesüßt wird mit Stevia.
 
 Weltweit werden jeden Tag tonnenweise gute Früchte weggeschmissen, weil sie
 nicht der Norm entsprechen. Sie sind schlichtweg zu groß oder zu klein oder
-haben die falsche Größe. Ein Farmer, mit dem <em>FoPo</em> zusammenarbeitet hat
-zum Beispiel früher jeden Tage eine komplette Tonne Mangos entsorgt. Und dann
-kam <em>FoPo</em>. Die Produkte gibt es im Online-Shop oder im Supermarkt.
+haben die falsche Größe. Ein Farmer, mit dem _FoPo_ zusammenarbeitet hat zum
+Beispiel früher jeden Tage eine komplette Tonne Mangos entsorgt. Und dann kam
+_FoPo_ . Die Produkte gibt es im Online-Shop oder im Supermarkt.
 
 ## Ein Projekt von Studienkollegen
 
 ![FoPo](http://cardamonchai.com/wp-content/uploads/2017/09/36146928163_15f28fcbe8_z-300x200.jpg)
 
-Contest. Inzwischen gibt es das Start-up seit eineinhalb Jahren.
+Das internationale Team von _FoPo_ traf sich während eines Erasmus Mundus
+Masterprogramms in Lebensmittelinnovation und Produktdesign. _FoPo_ entwickelten
+Sie ursprünglich für den _Thought For Food_ Contest. Inzwischen gibt es das
+Start-up seit eineinhalb Jahren.
 
 Angetrieben wurden Sie stets vom Gedanken an mehr Nachhaltigkeit und durch die
 unvorstellbaren Fakten, dass
 
-<ul>
-    <li>in jeder Sekunde Lebensmittel im Wert von 30.000 Euro verschwendet werden und 97.000 Kilo Kohlenstoffdioxid durch verwesenden Lebensmittelabfall in die Atmosphäre gelangt.</li>
-    <li>Bis 2050 zwei Prozent der gesamten Treibhausgasemissionen weltweit allen durch Lebensmittelabfall verursacht werden.</li>
-    <li>800 Millionen unterernährte Menschen weltweit mit Nahrung versorgt werden könnten, wenn wir nur ein Viertel der verschwendeten Lebensmittel retten würden.</li>
-</ul>
+- in jeder Sekunde Lebensmittel im Wert von 30.000 Euro verschwendet werden und
+  97.000 Kilo Kohlenstoffdioxid durch verwesenden Lebensmittelabfall in die
+  Atmosphäre gelangt.
+- Bis 2050 zwei Prozent der gesamten Treibhausgasemissionen weltweit allen durch
+  Lebensmittelabfall verursacht werden.
+- 800 Millionen unterernährte Menschen weltweit mit Nahrung versorgt werden
+  könnten, wenn wir nur ein Viertel der verschwendeten Lebensmittel retten
+  würden.
 
-Mit jeder Packung eines <em>FoPo</em> Produkts wird die Emission von 265 Gramm
-<span class="_Xbe kno-fv">CO<sub>2 </sub></span> verhindert. 20 Liter Wasser
-spart es obendrein.
+Mit jeder Packung eines _FoPo_ Produkts wird die Emission von 265 Gramm CO<sub>2
+</sub> verhindert. 20 Liter Wasser spart es obendrein.
 
 ## FoPo im Test
 
 ![FoPo](http://cardamonchai.com/wp-content/uploads/2017/09/36146929993_21f53f63dc_z-300x200.jpg)
 
+Für mich hörte sich das gleich so an, als müsste ich es mal probieren mit _FoPo_
 . Und ich bin zu folgendem Schluss gekommen:
 
 Die Produktidee an sich finde ich sehr gut. Die Verpackungen sind
 umweltfreundlich und trotzdem praktisch und wiederverschließbar. Auch der
-klimaneutrale Versand ist gut. Doch nun ans Eingemachte: Wie schmeckt
-<em>FoPo</em>? Probiert habe ich zunächst alles pur und unverarbeitet. Alles
-schmeckt erstaunlich intensiv. Durch die Gefriertrocknung werden nicht nur die
-Vitamine, sondern auch der Geschmack und die Farbe konserviert.
+klimaneutrale Versand ist gut. Doch nun ans Eingemachte: Wie schmeckt _FoPo_ ?
+Probiert habe ich zunächst alles pur und unverarbeitet. Alles schmeckt
+erstaunlich intensiv. Durch die Gefriertrocknung werden nicht nur die Vitamine,
+sondern auch der Geschmack und die Farbe konserviert.
 
 Als nächstes habe ich mir einen Smoothie gemacht. Dafür habe ich einfach eine
 Handvoll Apfelschnitze, zwei Esslöffel Mangopulver und kaltes Wasser in den
@@ -107,20 +120,27 @@ jede Lieblings-Geschmacksrichtung was dabei.
 
 ## FoPo für Euch
 
-Auch für Euch gibt es <em>FoPo</em>! Die ersten 50 Besteller, die über meine
-Seite im [Online-Shop](http://www.myfopo.com) eine Bestellung aufgeben, bekommen
-25 Prozent Rabatt auf alles! Einfach den Rabattcode
+Auch für Euch gibt es _FoPo_ ! Die ersten 50 Besteller, die über meine Seite im
+[Online-Shop](http://www.myfopo.com) eine Bestellung aufgeben, bekommen 25
+Prozent Rabatt auf alles! Einfach den Rabattcode
 
 ANNEBLOGGTCARDAMONCHAI
 
 eingeben.
 
 Ich wünsche auch Euch viel Spaß beim Testen! Und psst! Auf meiner
-[Teilnahmebedingungen](https://www.instagram.com/anne_reko/).
+[Instagram-Seite](https://www.instagram.com/anne_reko/) und auf
+[Facebook](https://www.facebook.com/cardamonchai/) verlose ich zwei _FoPo_
+-Produktpakete! Hier geht es zu den
+[Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/).
 
 [myflickr tag="annefopo"]
 
-<em>\*Hinweis: Dieser Artikel enthält Werbung und entstand im Zusammenhang mit
+_\*Hinweis: Dieser Artikel enthält Werbung und entstand im Zusammenhang mit
 Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst.
 [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
-</em>
+_
+
+-->
+
+  

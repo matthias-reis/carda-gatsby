@@ -4,13 +4,11 @@ seoTitle: Die Hermetiker - in acht Schritten zu unserem ersten Roman
 slug: die-hermetiker-entstehung-des-romans
 link: /2019/04/die-hermetiker-entstehung-des-romans/
 fileName: 2019-04---die-entstehung-des-romans-die-hermetiker.md
-description:
-  Der heutige Artikel dreht sich mal wieder um Matzes und meine gemeinsame
-  Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt
+description: Der heutige Artikel dreht sich mal wieder um Matzes und meine
+  gemeinsame Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt
   bestellbar.
-excerpt:
-  Der heutige Artikel dreht sich mal wieder um Matzes und meine gemeinsame
-  Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt
+excerpt: Der heutige Artikel dreht sich mal wieder um Matzes und meine
+  gemeinsame Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt
   bestellbar.
 focusKeyword: Die Hermetiker
 labels:
@@ -50,12 +48,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23860"
+image: /img/demo.jpg
+errors: []
 subTitle: In acht Schritten zu unserem ersten Buch
+  
 ---
 
-<b>Der heutige Artikel dreht sich mal wieder um Matzes und meine gemeinsame
+**Der heutige Artikel dreht sich mal wieder um Matzes und meine gemeinsame
 Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt bestellbar.
-Zeit für einen Rückblick.</b>
+Zeit für einen Rückblick.**
 
 Hiermit übergebe ich das Wort direkt an Matze, der diesen Beitrag zur
 Veröffentlichung auf meiner Seite geschrieben hat.
@@ -71,11 +72,10 @@ Phasen oder Zeiten des gespannten Wartens und der Ungeduld.
 
 ![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-1-400x533.jpg)
 
-<a href="https://amreis.de/ha128" target="_blank" rel="noopener">Klar, sein
-erstes Buch fertiggestellt zu haben, gibt einem ein wahnsinnig gutes Gefühl - am
-euphorischsten war ich persönlich jedoch vermutlich, als ich eines schönen Tages
-vor circa vier Jahren aufwachte und sich die Backstory in meinem Kopf quasi aus
-dem Nichts heraus zusammenfügte.
+[](https://amreis.de/ha128) Klar, sein erstes Buch fertiggestellt zu haben, gibt
+einem ein wahnsinnig gutes Gefühl - am euphorischsten war ich persönlich jedoch
+vermutlich, als ich eines schönen Tages vor circa vier Jahren aufwachte und sich
+die Backstory in meinem Kopf quasi aus dem Nichts heraus zusammenfügte.
 
 Schon davor hatte es immer wieder Momente gegeben, in denen mir größere Teile
 des Puzzles eingefallen waren - sozusagen die Eckstücke und wichtigsten Motive.
@@ -99,10 +99,10 @@ hinzuführen.
 
 ![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-7-400x533.jpg)
 
-<a href="https://amreis.de/ha128" target="_blank" rel="noopener">Doch vorerst
-konzentrierten wir uns gemeinsam auf die Erkundung der einzelnen Schauplätze.
-Wir recherchierten Bräuche und Traditionen und bezogen historische Entwicklungen
-und lokale Gegebenheiten mit ein.
+[](https://amreis.de/ha128) Doch vorerst konzentrierten wir uns gemeinsam auf
+die Erkundung der einzelnen Schauplätze. Wir recherchierten Bräuche und
+Traditionen und bezogen historische Entwicklungen und lokale Gegebenheiten mit
+ein.
 
 In dieser ersten Phase des Schreibens, hatte ich noch keine Ahnung, dass uns
 noch eine gehörige Portion Spannung fehlte. Wir hatten uns auch noch nicht
@@ -130,13 +130,13 @@ Charaktereigenschaften und die detaillierten Szenenbeschreibungen hinzu.
 
 ![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-15-400x533.jpg)
 
-<a href="https://amreis.de/ha128" target="_blank" rel="noopener">Durch unsere
-Arbeitsweise war die erste Korrekturschleife also bereits in den Schreibprozess
-integriert. Wir korrigierten uns sofort gegenseitig selbst, verbesserten erste
-Logikfehler und verfeinerten die Sprache und die künstlich geschaffenen
-Fachbegriffe. Jedes Mal, wenn Anne wieder mit einem Kapitel fertig war, las sie
-es mir zunächst vor, bevor ich es selbst durchging. Auf diese Weise wollten wir
-ausschließen, dass wir irgendetwas übersahen.
+[](https://amreis.de/ha128) Durch unsere Arbeitsweise war die erste
+Korrekturschleife also bereits in den Schreibprozess integriert. Wir
+korrigierten uns sofort gegenseitig selbst, verbesserten erste Logikfehler und
+verfeinerten die Sprache und die künstlich geschaffenen Fachbegriffe. Jedes Mal,
+wenn Anne wieder mit einem Kapitel fertig war, las sie es mir zunächst vor,
+bevor ich es selbst durchging. Auf diese Weise wollten wir ausschließen, dass
+wir irgendetwas übersahen.
 
 Als wir den letzten Satz zu Papier gebracht hatten, war uns zum Feiern zumute.
 Wir schauten auf all die von uns geschaffenen Seiten und stellten fest, dass es
@@ -155,11 +155,10 @@ wir in Gedanken schon mit neuen Ideen beschäftigt waren.
 
 ![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-13-400x533.jpg)
 
-<a href="https://amreis.de/ha128" target="_blank" rel="noopener">Mit unserem
-Manuskript wollten wir schließlich an eine Agentur oder einen Verlag
-herantreten, aber schon nach zwei Versuchen und über drei Monaten des Wartens
-und Recherchierens wussten wir, das dieser klassische Weg nicht der unseres
-Romans sein würde.
+[](https://amreis.de/ha128) Mit unserem Manuskript wollten wir schließlich an
+eine Agentur oder einen Verlag herantreten, aber schon nach zwei Versuchen und
+über drei Monaten des Wartens und Recherchierens wussten wir, das dieser
+klassische Weg nicht der unseres Romans sein würde.
 
 Sowohl die Agenturen als auch die Verlage selbst haben sehr lange Wartezeiten.
 Leider machen sie sich in der Regel auch nicht die Mühe, abzusagen. Hinzu kam,
@@ -201,12 +200,12 @@ Grafikinteressierten unter Euch).
 
 ![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-29-die-hermetiker-2-400x533.jpg)
 
-<a href="https://amreis.de/ha128" target="_blank" rel="noopener">Zu guter Letzt
-fehlte uns noch ein passender Einband. Dieser beschäftigte uns ziemlich lange.
-Immer wieder stellten wir Überlegungen an. Sollte etwas Abstraktes drauf oder
-doch lieber konkrete Motive? Sollten wir, wie bei typischen Fantasyromanen,
-Porträts von Menschen abbilden? Dieser Gedanke wurde schnell wieder verdrängt.
-"Die Hermetiker" ist eben kein typischer Fantasyroman.
+[](https://amreis.de/ha128) Zu guter Letzt fehlte uns noch ein passender
+Einband. Dieser beschäftigte uns ziemlich lange. Immer wieder stellten wir
+Überlegungen an. Sollte etwas Abstraktes drauf oder doch lieber konkrete Motive?
+Sollten wir, wie bei typischen Fantasyromanen, Porträts von Menschen abbilden?
+Dieser Gedanke wurde schnell wieder verdrängt. "Die Hermetiker" ist eben kein
+typischer Fantasyroman.
 
 Am Ende entschieden wir uns für eine Kombination aus den beiden Hauptspielorten.
 Stonehenge und der Uluru passten zufälligerweise auch noch perfekt zueinander.
@@ -223,9 +222,13 @@ und Fahlblau, wie die Nebelschwaden bei Stonehenge.
 
 ![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-29-die-hermetiker-5-400x533.jpg)
 
-<a href="https://amreis.de/ha128" target="_blank" rel="noopener">) zugeteilt
-bekamen. Damit haben wir den Beweis erstellt, dass man so etwas heutzutage an
-einem Sonntagmorgen im Bett erledigen kann (kein Witz).
+[](https://amreis.de/ha128) Das Buch war fertig. Cover, Textsatz und Manuskript
+passten zueinander. Nun mussten wir nur noch etwas Geld in unseren Print On
+Demand Dienst einwerfen und das Buch drucken lassen. Ein besonders denkwürdiger
+Moment war für uns, als wir unsere eigene ISBN (
+[978-3748126522](https://amreis.de/hermetiker/?h=ha128) ) zugeteilt bekamen.
+Damit haben wir den Beweis erstellt, dass man so etwas heutzutage an einem
+Sonntagmorgen im Bett erledigen kann (kein Witz).
 
 Es dauerte zwei Wochen, bis unser Buch physikalisch verfügbar war. Als ich das
 Paket von der Poststelle abholte, war die Aufregung groß. Die Enttäuschung
@@ -243,14 +246,13 @@ sind irgendwann sicher Millionen wert :-).
 
 ![Die Hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-11-400x533.jpg)
 
-<a href="https://amreis.de/ha128" target="_blank" rel="noopener">Das letzte
-Kapitel des Buches, nein nicht des Buches selbst, sondern seiner
-Entstehungsgeschichte, ist das für uns unsicherste. Ich als Softwareentwickler
-habe keinerlei Ahnung davon, wie man etwas verkauft und auch nicht gerade eine
-große Anhängerschaft in den sozialen Medien. Anne hat ihren Blog, ist gut
-vernetzt und verfügt über Fachwissen im Online-Marketing. Es ist jedoch ein
-klarer Unterschied, ob man etablierte Marken vermarktet und sich in seinem
-gewohnten Mikrokosmos bewegt, oder das Buch zweier Nobodys an eine uns
+[](https://amreis.de/ha128) Das letzte Kapitel des Buches, nein nicht des Buches
+selbst, sondern seiner Entstehungsgeschichte, ist das für uns unsicherste. Ich
+als Softwareentwickler habe keinerlei Ahnung davon, wie man etwas verkauft und
+auch nicht gerade eine große Anhängerschaft in den sozialen Medien. Anne hat
+ihren Blog, ist gut vernetzt und verfügt über Fachwissen im Online-Marketing. Es
+ist jedoch ein klarer Unterschied, ob man etablierte Marken vermarktet und sich
+in seinem gewohnten Mikrokosmos bewegt, oder das Buch zweier Nobodys an eine uns
 weitgehend unbekannte Zielgruppe bringen möchte.
 
 Inzwischen haben wir schon einige Ausgaben verkauft. Wir sind gespannt, wie es
@@ -259,11 +261,13 @@ wärmstens. Das kann ich mit gutem Gewissen tun, denn ich habe es sogar mehrfach
 gelesen. :-)
 
 Wir freuen uns auf Eure Rezensionen bei Amazon und Goodreads und wünschen Euch
-viel Spaß beim Lesen. [Hier könnt Ihr "Die Hermetiker" als Taschenbuch oder
-E-Book bestellen](https://amreis.de/hermetiker/?h=ha128).
+viel Spaß beim Lesen.
+[Hier könnt Ihr "Die Hermetiker" als Taschenbuch oder E-Book bestellen](https://amreis.de/hermetiker/?h=ha128).
 
 Vielen Dank für Eure Aufmerksamkeit.
 
 LG, Matze
 
-![die-hermetiker | large](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-22-520x390.jpg " [](https://amreis.de/ha128)  Die Hermetiker")
+![die-hermetiker | large](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-22-520x390.jpg "[ ](https://amreis.de/ha128)  Die Hermetiker")
+
+  

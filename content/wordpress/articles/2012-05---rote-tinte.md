@@ -4,12 +4,10 @@ seoTitle: Rote Tinte
 slug: rote-tinte
 link: /2012/05/rote-tinte/
 fileName: 2012-05---rote-tinte.md
-description:
-  Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den Haaren. Du
-  hast immer gekämpft dafür - Rote Tinte
-excerpt:
-  Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den Haaren. Du
-  hast immer gekämpft dafür.
+description: Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den
+  Haaren. Du hast immer gekämpft dafür - Rote Tinte
+excerpt: Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den
+  Haaren. Du hast immer gekämpft dafür.
 focusKeyword: Rote Tinte
 labels:
   - "&lt;3"
@@ -54,7 +52,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3047"
+image: /img/demo.jpg
+errors: []
 subTitle: Heute mal wieder Prosa
+  
 ---
 
 Sie klauen Dir Deine Wünsche. Nehmen Dir Deinen Traum weg. Leben ihn aus. Du
@@ -108,8 +109,7 @@ Ab jetzt wirst Du keine Pläne mehr aufschreiben. Du wirst alles einfach erleben
 Und wenn Du in Dich gehst, bist Du schon mitten drin. Denn so mancher Traum hat
 sich vielleicht schon unbemerkt in Dein Leben geschlichen.
 
-<em>Dieser Text ist Justine gewidmet. </em><strong>Song zum Text: Archive - Fuck
-You</strong>
+_Dieser Text ist Justine gewidmet._ **Song zum Text: Archive - Fuck You**
 
 [youtube=http://www.youtube.com/watch?v=A4gBzUwo6Iw] There’s a look on your face
 I would like to knock out See the sin in your grin and the shape of your mouth
@@ -147,4 +147,6 @@ think I can so fuck you anyway
 
 So fuck you anyway (Repeat x 11)
 
-<strong></strong><div><span style="color: #676767; font-family: Georgia, 'Times New Roman', Times, serif; line-height: 21px; text-align: left; background-color: #ffffff; font-size: medium;"></span></div>
+\_\_\_\_ <div></div>
+
+  

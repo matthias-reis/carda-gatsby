@@ -1,18 +1,15 @@
 ---
 title: All That Glitter And All That Glitter
-seoTitle:
-  All That Glitter And All That Glitter - Veganer Bio-Glitter von Naissance
+seoTitle: All That Glitter And All That Glitter - Veganer Bio-Glitter von Naissance
 slug: veganer-bio-glitter-naissance
 link: /2018/08/veganer-bio-glitter-naissance/
 fileName: 2018-08---all-that-glitter-and-all-that-glitter.md
-description:
-  Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner
-  glücklich. Ich habe jetzt die biologisch abbaubare Variante getestet. Mein
-  Fazit.
-excerpt:
-  Werbung & Affiliate Links - Glitter ist toll! Glitter macht alles schöner und
-  nicht nur Einhörner glücklich. Ich habe jetzt die biologisch abbaubare
-  Variante getestet. Mein Fazit.
+description: Glitter ist toll! Glitter macht alles schöner und nicht nur
+  Einhörner glücklich. Ich habe jetzt die biologisch abbaubare Variante
+  getestet. Mein Fazit.
+excerpt: Werbung & Affiliate Links - Glitter ist toll! Glitter macht alles
+  schöner und nicht nur Einhörner glücklich. Ich habe jetzt die biologisch
+  abbaubare Variante getestet. Mein Fazit.
 focusKeyword: Glitter
 labels:
   - Blau
@@ -36,15 +33,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21688"
+image: /img/demo.jpg
+errors: []
 subTitle: Veganer Bio-Glitter von Naissance im Test
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner
+**Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner
 glücklich. Doch leider ist Glitter auch eine Umweltbelastung. Abgespült gelangen
 die kleinen Partikelchen ins Grundwasser und verbinden sich mit anderen
-[Mikroplastik](/2018/05/mikroplastik-in-der-kosmetik/) -Teilchen.</strong>
+[Mikroplastik](/2018/05/mikroplastik-in-der-kosmetik/) -Teilchen.**
 
 Nicht so der vegane Bio-Glitter von Naissance. Ich hatte jetzt die Möglichkeit,
 ihn zu testen. Dabei habe ich ganz nebenbei ein super lustiges Fotoshooting
@@ -105,9 +105,11 @@ Zusatz für selbstgemachte Badebomben oder Seifen benutzen.
 [gallery type="square" size="medium" link="none"
 ids="21690,21688,21689,21687,21686"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
 
 [Hier könnt Ihr den Bio-Glitter online erwerben](https://www.enaissance.de/index.php?route=product/search&search=Glitzer&sub_category=true&description=true).
+
+  

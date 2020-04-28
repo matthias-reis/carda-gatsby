@@ -4,11 +4,10 @@ seoTitle: Gumbies - Vegane Strandsandalen - Nachhaltige Flip Flops im Test
 slug: gumbies-vegane-strandsandalen
 link: /2018/03/gumbies-vegane-strandsandalen/
 fileName: 2018-03---gumbies-im-test.md
-description:
-  "Gumbies-Gründer Michael Maurer hatte eine Vision: Vegane Strandsandalen aus
-  Recycling-Materialien, die gut aussehen und alles mitmachen. Mein Testbericht."
-excerpt:
-  "Werbung - Gumbies-Gründer Michael Maurer hatte eine Vision: Vegane
+description: "Gumbies-Gründer Michael Maurer hatte eine Vision: Vegane
+  Strandsandalen aus Recycling-Materialien, die gut aussehen und alles
+  mitmachen. Mein Testbericht."
+excerpt: "Werbung - Gumbies-Gründer Michael Maurer hatte eine Vision: Vegane
   Strandsandalen aus Recycling-Materialien, die gut aussehen und alles
   mitmachen. Mein Testbericht."
 focusKeyword: Gumbies
@@ -41,19 +40,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20021"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Strandsandalen
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Vegane Schuhe, die die natürliche Wölbung der Füße unterstützen, aus
+**Vegane Schuhe, die die natürliche Wölbung der Füße unterstützen, aus
 Recycling-Material bestehen und von der Dünenwanderung bis zur Yoga-Session
-alles mitmachen - Genau das wünschte sich Gumbies-Gründer Michael
-Maurer. </strong>
+alles mitmachen - Genau das wünschte sich Gumbies-Gründer Michael Maurer.**
 
 Der Australien-Auswanderer stellte sich die Frage
 
-<blockquote>"Zwei bis vier Mal in unserem Leben laufen wir um die ganze Erde. Wie schön wäre es, einen Teil davon in Strandsandalen zu gehen?"</blockquote>
+> "Zwei bis vier Mal in unserem Leben laufen wir um die ganze Erde. Wie schön
+> wäre es, einen Teil davon in Strandsandalen zu gehen?"
 
 ![Gumbies](http://cardamonchai.com/wp-content/uploads/2018/03/39720943915_f9432d3838_z-400x267.jpg)
 
@@ -82,7 +84,7 @@ erinnern, mit den Gumbies ist mir das nicht passiert.
 Zuerst begleiteten mich meine neuen australischen Sandalen zum Yoga, wo ich
 neidische Blicke erntete.
 
-<blockquote>"Wo kann man die denn kaufen?",</blockquote>
+> "Wo kann man die denn kaufen?",
 
 ![Gumbies](http://cardamonchai.com/wp-content/uploads/2018/03/40574308322_a1729de6c1_z-400x267.jpg)
 
@@ -105,8 +107,13 @@ Wenn man im Freibad oder am Pool mal etwas schneller unterwegs ist, ist das
 schon wirklich eine praktische Sache.
 
 Leider konnte ich die Gumbies noch nicht am Strand testen, denn an der
-[Wanderdünen](/2016/08/maritimer-radausflug/) bei Boberg dabei gehabt. Eines ist
-sicher: Auf meinen nächsten Reisen werden sie mich auf jeden Fall begleiten.
+[Elbe](/2016/08/maritimer-radausflug/) ist es im Moment noch etwas kalt. Das
+wird aber beizeiten nachgeholt. Gerne hätte ich sie zum Beispiel auch auf
+unserer Wanderung durch die
+[Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/) oder in den
+[Wanderdünen](/2016/05/naturschutzgebiet-boberger-niederung/) bei Boberg dabei
+gehabt. Eines ist sicher: Auf meinen nächsten Reisen werden sie mich auf jeden
+Fall begleiten.
 
 ## Fazit: Sie werden mich noch lange begleiten
 
@@ -140,8 +147,10 @@ Ein Verzeichnis der Einzelhändler, die die Strandschuhe im Sortiment haben
 [gallery type="rectangular" link="none" size="medium"
 ids="20028,20025,20027,20024"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
 &nbsp;
+
+  

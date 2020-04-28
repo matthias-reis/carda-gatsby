@@ -4,12 +4,10 @@ seoTitle: Gladskin - Vegane Pflege bei Rosacea im Test - Meine Rosen sind weg
 slug: gladskin-vegane-pflege-bei-rosacea
 link: /2016/05/gladskin-vegane-pflege-bei-rosacea/
 fileName: 2016-05---gladskin-im-test.md
-description:
-  Gute Pflege für von Rosacea geplagte Haut zu finden ist nicht leicht.
-  Besonders, wenn sie auch noch vegan sein soll. Ich habe jetzt Gladskin
+description: Gute Pflege für von Rosacea geplagte Haut zu finden ist nicht
+  leicht. Besonders, wenn sie auch noch vegan sein soll. Ich habe jetzt Gladskin
   getestet.
-excerpt:
-  Werbung - Gute Pflege für von Rosacea geplagte Haut zu finden ist nicht
+excerpt: Werbung - Gute Pflege für von Rosacea geplagte Haut zu finden ist nicht
   leicht. Besonders, wenn sie auch noch vegan sein soll. Ich habe jetzt Gladskin
   getestet.
 focusKeyword: Gladskin
@@ -36,15 +34,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14915"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (86:32)"
 subTitle: Vegane Pflege bei Rosacea
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (86:32)
+
+<!--
 ![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27398831986_8557c0a6c2_z-640x427.jpg "Gladskin im Test")
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Schon länger stöbere ich in Geschäften und im Internet nach Produkten
-für meine Rosacea-geplagte Gesichtshaut. </strong>
+**Schon länger stöbere ich in Geschäften und im Internet nach Produkten für
+meine Rosacea-geplagte Gesichtshaut.**
 
 Zu meiner schubartig auftretenden Hautkrankheit kommt leider noch hinzu, dass
 ich eine sehr zickige Mischhaut habe, was die Suche für mich nicht unbedingt
@@ -113,7 +119,9 @@ ich auch einige Produktanfragen verschickt. Denn leider haben nicht immer alle
 Hersteller genau auf ihrer Webseite stehen, ob ihre Produkte auch vegan und frei
 von Tierversuchen sind. Für mich ist das allerdings die wichtigste Bedingung.
 Und auch wenn meine Schübe nachgelassen haben, seit dem ich auf
-[Umzug](/category/vegan-2/).
+[vegane Ernährung](/category/vegan-2/) umgestellt habe, kommt es ab und zu noch
+vor, dass es zu einem kommt, besonders in stressigen Situationen wie z. B. beim
+[Umzug](/2016/05/an-die-elbe-wir-ziehen-um/).
 
 ## Gladskin im Test
 
@@ -145,15 +153,17 @@ Herzliche Grüße Anne Reis</blockquote>
 
 vielen Dank für Ihr Interesse an Gladskin und Ihre Frage.
 
-Für <span class="il">Gladskin-Produkte werden keine Tierversuche durchgeführt.
-Die von uns verwendeten Zusatzstoffe sind pflanzlich oder synthetisch, es gibt
-keine Inhaltsstoffe mit einem tierischen Ursprung. </span></blockquote>
+Für Gladskin-Produkte werden keine Tierversuche durchgeführt. Die von uns
+verwendeten Zusatzstoffe sind pflanzlich oder synthetisch, es gibt keine
+Inhaltsstoffe mit einem tierischen Ursprung. </blockquote>
 
-<blockquote>Ich hoffe, Ihnen mit diesen Informationen weitergeholfen zu haben. Andernfalls oder bei weiteren Fragen können Sie sich jederzeit gern mit uns in Verbindung setzen.</blockquote>
+> Ich hoffe, Ihnen mit diesen Informationen weitergeholfen zu haben. Andernfalls
+> oder bei weiteren Fragen können Sie sich jederzeit gern mit uns in Verbindung
+> setzen.
 
 <blockquote>Mit freundlichen Grüßen
 
-im Namen des <span class="il">Gladskin</span>-Teams
+im Namen des Gladskin-Teams
 
 Steffi O.</blockquote>
 
@@ -284,7 +294,7 @@ Vor dem Zubettgehen trage ich beide Produkte erneut auf und nehme mir vor, das
 in den nächsten zehn Tagen zu meiner Routine werden zu lassen: Morgens, mittags
 und abends.
 
-<strong>Zweiter Tag</strong>
+**Zweiter Tag**
 
 ![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27156272160_92737b61ef_z-640x427.jpg "Creme von Gladskin")
 
@@ -344,7 +354,9 @@ bedeutet. Der Schub hätte ohne die Zuhilfenahme des Gels mit Sicherheit länger
 gedauert, das kann ich aus Erfahrung sagen. In der Packungsbeilage des Gels
 steht
 
-<blockquote>Gladskin kann sich unmittelbar beruhigend auswirken. Es kann jedoch auch vier bis sechs Wochen dauern, bevor Rötungen, kleine Beulen und Pusteln sichtbar zurückgehen.</blockquote>
+> Gladskin kann sich unmittelbar beruhigend auswirken. Es kann jedoch auch vier
+> bis sechs Wochen dauern, bevor Rötungen, kleine Beulen und Pusteln sichtbar
+> zurückgehen.
 
 ![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27156283280_004ef42a46_z.jpg "Bei mir hat es geholfen")
 
@@ -369,32 +381,28 @@ jetzt im Sommer kann es schon sehr störend sein, wenn die Haut nicht mitmacht.
 Da einige von Euch sicher wissen wollen, was genau die Inhaltsstoffe der von mir
 getesteten Produkte sind, habe ich sie hier mal zusammengefasst:
 
-### Gladskin Rosacea Gel</a>
+### [Gladskin Rosacea Gel](https://www.google.com/url?hl=de&q=https://www.gladskin.com/de/rosazea&source=gmail&ust=1465037051535000&usg=AFQjCNG0dz6E3mu-bDOhR_Z28aZqIZZC6Q)
 
-<ul>
-    <li>Aqua</li>
-    <li>Propylene Glycol</li>
-    <li>Vaselinum Album</li>
-    <li>Cera Cetomacrogolis Emulsificans</li>
-    <li>Paraffinum Liquidum</li>
-    <li>Glycerin</li>
-    <li>Arginine</li>
-    <li>HCL</li>
-    <li>Sodium Chloride</li>
-    <li>Tromethamine</li>
-    <li>Staphefekt SA 100 C 2.4</li>
-    <li>Calcium Choloride</li>
-</ul>
+- Aqua
+- Propylene Glycol
+- Vaselinum Album
+- Cera Cetomacrogolis Emulsificans
+- Paraffinum Liquidum
+- Glycerin
+- Arginine
+- HCL
+- Sodium Chloride
+- Tromethamine
+- Staphefekt SA 100 C 2.4
+- Calcium Choloride
 
 ### Gladskin Daily Care Cream
 
-<ul>
-    <li>Aqua</li>
-    <li>Propylenglycol</li>
-    <li>Decyloleat</li>
-    <li>Cetylalcohol</li>
-    <li>Ceteareth-20</li>
-</ul>
+- Aqua
+- Propylenglycol
+- Decyloleat
+- Cetylalcohol
+- Ceteareth-20
 
 Wie bereits oben erwähnt, sind alle Produkte von Gladskin frei von tierischen
 Inhaltsstoffen. Produkte und Inhaltsstoffe wurden und werden nicht in
@@ -406,6 +414,10 @@ Produktpalette  [sind hier zu finden](https://www.gladskin.com/de/).
 [gallery type="rectangular" link="none" size="medium"
 ids="14921,14920,14918,14916,14924"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+-->
+
+  

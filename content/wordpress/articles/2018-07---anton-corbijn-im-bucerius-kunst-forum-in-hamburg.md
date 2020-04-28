@@ -4,12 +4,10 @@ seoTitle: Anton Corbijn zeigt seine Werke im Bucerius Kunst Forum Hamburg
 slug: anton-corbijn-im-bucerius-kunst-forum-in-hamburg
 link: /2018/07/anton-corbijn-im-bucerius-kunst-forum-in-hamburg/
 fileName: 2018-07---anton-corbijn-im-bucerius-kunst-forum-in-hamburg.md
-description:
-  "Heute möchte ich Euch eines meiner größten Vorbilder vorstellen: Den
-  Fotografen Anton Corbijn. Seine Bilder sind gerade im Bucerius Kunst Forum
+description: "Heute möchte ich Euch eines meiner größten Vorbilder vorstellen:
+  Den Fotografen Anton Corbijn. Seine Bilder sind gerade im Bucerius Kunst Forum
   ausgestellt."
-excerpt:
-  "Heute möchte ich Euch eines meiner größten Vorbilder vorstellen: Den
+excerpt: "Heute möchte ich Euch eines meiner größten Vorbilder vorstellen: Den
   Fotografen Anton Corbijn. Seine Bilder sind gerade im Bucerius Kunst Forum
   ausgestellt."
 focusKeyword: Anton Corbijn
@@ -50,13 +48,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21440"
+image: /img/demo.jpg
+errors: []
 subTitle: The Living And The Dead
+  
 ---
 
-<strong>Ich fotografiere ausgesprochen gerne. Was sich auch in meinem Blog
+**Ich fotografiere ausgesprochen gerne. Was sich auch in meinem Blog
 wiederspiegelt. Mein größtes Vorbild und mein liebster Fotograf ist und bleibt
 Anton Corbijn. Jetzt hatte ich die Gelegenheit, seine Werke ganz aus der Nähe zu
-betrachten.</strong>
+betrachten.**
 
 Das Bucerius Kunst Forum Hamburg zeigt seit dem 7. Juni und noch bis
 einschließlich 6. Januar 2019 seine Ausstellung "The Living And The Dead". Sie
@@ -178,5 +179,7 @@ Persönlichkeit dreht.
 Karten für die Anton Corbijn Ausstellung kosten zwischen sechs (Kinder) und neun
 Euro (Erwachsene).
 
-<strong>Quellen:</strong>
-[Bucerius Kunst Forum](https://www.buceriuskunstforum.de/), Wikipedia
+**Quellen:** [Bucerius Kunst Forum](https://www.buceriuskunstforum.de/),
+Wikipedia
+
+  

@@ -4,12 +4,12 @@ seoTitle: Warum ich für immer vegan leben möchte - ich bleibe dabei!
 slug: ich-bleib-dabei-vegan-macht-spass
 link: /2015/09/ich-bleib-dabei-vegan-macht-spass/
 fileName: 2015-09---ich-bleib-dabei-vegan-macht-spass.md
-description:
-  Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich mich bei
-  allen bedanken, die sich mit mir über das Thema vegan unterhalten haben.
-excerpt:
-  Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich mich bei
-  allen bedanken, die sich mit mir über das Thema vegan unterhalten haben.
+description: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich
+  mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten
+  haben.
+excerpt: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich
+  mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten
+  haben.
 focusKeyword: Vegan
 labels:
   - 10 Fakten über Veganismus
@@ -28,14 +28,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8429"
+image: /img/demo.jpg
+errors: []
 subTitle: 10 Fakten über Veganismus - Teil X
+  
 ---
 
 ![Ich bleibe vegan!](http://cardamonchai.com/wp-content/uploads/2015/09/14783170858_21a50b64ff_z.jpg "Ich bleibe vegan!")
 
-<strong> [](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) Im
-zehnten und letzten Teil meiner großen Reportage "10 Fakten über Veganismus"
-möchte ich Euch heute von meinen Erfahrungen und Begegnungen berichten.</strong>
+**
+[_Hier gehts zu Teil 9 des Artikels_](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+Im zehnten und letzten Teil meiner großen Reportage "10 Fakten über Veganismus"
+möchte ich Euch heute von meinen Erfahrungen und Begegnungen berichten.**
 
 "Das ist doch nur ein Hype. Das verschwindet genau so schnell wieder von der
 Bildfläche, wie es dort aufgetaucht ist.", "Das ist wieder so ein Modeding, ich
@@ -55,10 +59,13 @@ entdeckt, probieren tägliche neue Gerichte aus, experimentieren und testen.
 
 ![Johanna Schlitzkus vom Tierhof Amoa | full](http://cardamonchai.com/wp-content/uploads/2014/08/johanna.jpg "Johanna Schlitzkus vom Tierhof Amoa")
 
-Wir haben viel über das Thema Tierrechte [](#1) hergestellt, der Herzmann hat
-inzwischen die perfekte Seitanmischung kreiert, wir kennen den Unterschied
-zwischen Mungdal und Sojabohnen und ich habe meine Liebe für Grünkohl
-wiederentdeckt.
+Wir haben viel über das Thema Tierrechte [<sup>1</sup>](#1) gelernt, haben uns
+mit Umweltschutz und dem ökologischen Fussabdruck [<sup>2</sup>](#2) beschäftigt
+und auch in einigen anderen Bereichen des Lebens unsere Meinung geändert. Wir
+haben selbst und ganz ohne die Hilfe von Bienen in unserer Küche Honig
+[<sup>3</sup>](#3) hergestellt, der Herzmann hat inzwischen die perfekte
+Seitanmischung kreiert, wir kennen den Unterschied zwischen Mungdal und
+Sojabohnen und ich habe meine Liebe für Grünkohl wiederentdeckt.
 
 Er hat knapp 20 Kilogramm verloren und hält sein Gewicht seither perfekt. Wir
 fühlen uns beide körperlich viel besser, sind fitter und gesünder. Ich gehe
@@ -70,9 +77,9 @@ besser als je zuvor.
 ![Sebastian Frost](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-23-640x480.jpg "Sebastian Frost")
 
 Ein Zurück kommt für uns beide heute nicht mehr in Frage und das nicht nur, weil
-wir inzwischen die Wahrheit über Milch [](#4) kennen und gegen die Ausbeutung
-unserer Mitwelt sind. In den zahlreichen Interviews, die ich in den letzten
-Monaten geführt habe, traf ich auf jede Menge kreative, interessante,
+wir inzwischen die Wahrheit über Milch [<sup>4</sup>](#4) kennen und gegen die
+Ausbeutung unserer Mitwelt sind. In den zahlreichen Interviews, die ich in den
+letzten Monaten geführt habe, traf ich auf jede Menge kreative, interessante,
 lebensfrohe, nette Menschen aller Generationen.
 
 Ich bin froh, sie alle kennengelernt zu haben und hoffe in Zukunft noch vielen
@@ -85,29 +92,47 @@ die Zeit vergangen ist.
 ## Vielen Dank!
 
 All diesen lieben, tollen Menschen möchte ich danken. Bleibt Euch treu, Ihr seid
-wundervoll, so wie Ihr seid! Könnt Ihr Euch z. B. noch an Johanna [](#5), die
-mit ihrer Taschenkollektion Aufsehen erregt?
+wundervoll, so wie Ihr seid! Könnt Ihr Euch z. B. noch an Johanna
+[<sup>5</sup>](#5) erinnern? Die freundliche Buddhistin mit dem Überlebenshof,
+für die die Rechte der Tiere immer an erster Stelle stehen? Oder an Sebastian
+[<sup>6</sup>](#6), den Sibirienreisenden, der die Grenzen des veganen Lebens
+ausgetestet hat? Denise [<sup>7</sup>](#7), die vegane Häkelmützen herstellt und
+die Einnahmen spendet? Margit [<sup>8</sup>](#8) von der veganen, solidarischen
+Landwirtschaft Hamburg? Petra [<sup>9</sup>](#9), die mit ihrer
+Taschenkollektion Aufsehen erregt?
 
 ![Denise in Aktion - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/Denise-action-640x960.jpg "Denise in Aktion - Foto: Norbert Zawe")
 
 Und nicht nur hier in meinem persönlichen Blog sind Interviews mit tollen
-Veganer\*innen erschienen. Auch im Welt Vegan Magazin [](#10), Reisende,
-Entwickler und Mediziner.
+Veganer\*innen erschienen. Auch im Welt Vegan Magazin [<sup>10</sup>](#10) und
+bei Vegan News [<sup>11</sup>](#11) gibt/gab es einiges zu lesen. Christiane
+[<sup>12</sup>](#12), die Gründerin der ersten komplett veganen Unterkunft in
+Hamburg, Thomas [<sup>13</sup>](#13), der Tierrechtsaktivist, Enrico
+[<sup>14</sup>](#14), der Limonadenerfinder und Matteo [<sup>15</sup>](#15), der
+auf Sardinien vegane Strandhäuser vermietet: Sie alle zähle ich inzwischen zu
+meinen Freunden, wir tauschen uns ständig über Neuigkeiten aus, schreiben und
+unterhalten uns. Ich habe Gründer kennengelernt, eine Theaterleiterin
+[<sup>16</sup>](#16), traf Hoteliers, Turnschuhfans [<sup>17</sup>](#17),
+Modeschöpfer [<sup>18</sup>](#18), Reisende, Entwickler und Mediziner.
 
 ## Ich traf vegane Mediziner
 
 Besonders großen Spaß gemacht haben mir das Interview mit dem veganen Arzt Dr.
-Hanno Platz [](#19) in meinem Blog. Diese beiden Artikel fanden übrigens auch
-auch den größten Anklang in der Online-Gemeinde, sie wurden heiß diskutiert,
-geteilt, getwittert und gepinnt, was das Zeug hält.
+Hanno Platz [<sup>19</sup>](#19) für Vegan News und das mit der veganen Ärztin
+Barbara Gorißen [<sup>20</sup>](#20) in meinem Blog. Diese beiden Artikel fanden
+übrigens auch auch den größten Anklang in der Online-Gemeinde, sie wurden heiß
+diskutiert, geteilt, getwittert und gepinnt, was das Zeug hält.
 
 ![Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk](http://cardamonchai.com/wp-content/uploads/2015/09/14962182673_1ce3fc866e_z.jpg "Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk")
 
 Auf der Suche nach veganen und tierversuchsfreien Pflegeprodukten habe ich die
-Naturkosmetik entdeckt, tolle neue Sachen [](#21) und Turnschuhe aus Abfall sind
-für mich zwei der genialsten Erfindungen der letzen Jahre! Ich liebe es, meinen
-Matcha-Tee mit Agavendicksaft zu süßen und stehe voll auf meine selbstgemachte
-Lippenpflege aus braunem Zucker und Kokosöl.
+Naturkosmetik entdeckt, tolle neue Sachen [<sup>21</sup>](#21) gefunden und zum
+Teil sogar selbst hergestellt. Alternativen zum bisher Alltäglichen bedeuten für
+mich keine Abstriche, ganz im Gegenteil: Leder aus aussortierten Früchten
+[<sup>22</sup>](#22) und Turnschuhe aus Abfall sind für mich zwei der genialsten
+Erfindungen der letzen Jahre! Ich liebe es, meinen Matcha-Tee mit Agavendicksaft
+zu süßen und stehe voll auf meine selbstgemachte Lippenpflege aus braunem Zucker
+und Kokosöl.
 
 "Glaubt mir, es gibt nichts besseres!", könnte ich jetzt schreiben, doch das tue
 ich nicht. Für mich persönlich ist vegan der einzige Weg, ich bin froh, dass ich
@@ -143,7 +168,11 @@ Radikalismus hat das alles nichts zu tun und ich hatte damit sowieso noch nie
 was am Hut. Wenn es nach mir geht, können wir es gerne ab heute auch anders
 nennen. Es ist und bleibt
 
-<ol><li>gut für die Umwelt,</li><li>gut für die Tiere</li><li>gesund</li><li>ungefährlich und</li><li>macht gute Laune</li></ol>
+1.  gut für die Umwelt,
+1.  gut für die Tiere
+1.  gesund
+1.  ungefährlich und
+1.  macht gute Laune
 
 So, Schluss mit der Lobhudelei, ich muss kochen, heute gibt es was wirklich
 Leckeres! Wir lesen uns ganz sicher! Wer im Gegensatz zu mir noch nicht weiß,
@@ -153,4 +182,42 @@ was er/sie heute Abend auf den Tisch bringen könnte:
 [gallery type="rectangular"
 ids="12572,12576,9431,12574,12577,12573,12139,12575"]
 
-## Inhaltsverzeichnis "10 Fakten über Veganismus"<ol><li> [](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+## Fußnoten- [1][tierrechte](/2014/08/blutige-zahlen/)
+
+- [2][ökologischer fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+- [3][honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+- [4][die wahrheit über milch](/2014/09/pflanzenmilch-wieso-denn-blos/)
+- [5][johanna im interview](/2014/08/der-schutz-und-die-rechte-der-tiere-stehen-an-erster-stelle/)
+- [6][sebastian im interview](/2015/01/ich-hatte-noch-nie-heimweh/)
+- [7][denise im interview](/2015/04/vegane-haekelmuetzen-mit-statement/)
+- [8][margit im interview](/2015/02/veganer-sind-unglaublich-kreativ/)
+- [9][petra im interview](/2015/08/interview-mit-petra-mazur-von-ethice/)
+- [10][mein erster artikel im welt vegan magazin](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
+- [11] Archiv meiner Artikel bei Vegan News (stillgelegt,
+  [Artikel sind in meinem Blog umgezogen]() )
+- [12] Christiane im Interview
+- [13][thomas vom volksverpetzer im interview](/2014/10/thomas-laschyk-volksverpetzer/)
+- [14] Enrico im Interview
+- [15][interview mit matteo von vegan travel sardinia](/2015/04/vegane-strandhaeuser-auf-sardinien/)
+- [16][interview mit der leiterin des tierschutztheaters](/2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/)
+- [17][rainer von der vegan sneaker connection im interview](/2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/)
+- [18] Interview mit den Modeschöpfern von Umasan
+- [19][dr. hanno platz im interview](/2019/06/veganer-arzt-interview-dr-hanno-platz/)
+- [20][interview mit dr. barbara gorißen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
+- [21][tolle neue sachen: wolkenseifen](/2014/08/himmlische-dufte-ganz-ohne-plastik/)
+- [22][artikel über leder aus aussortierten früchten](/2019/06/fruitleather-rotterdam/)##
+  Inhaltsverzeichnis "10 Fakten über Veganismus"1.
+  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+
+1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
+1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
+1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
+1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
+1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
+1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+    [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

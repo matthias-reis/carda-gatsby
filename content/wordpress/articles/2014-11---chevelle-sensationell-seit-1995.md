@@ -4,12 +4,11 @@ seoTitle: Chevelle - Sensationell seit 1995 - Neues Album und Konzert
 slug: chevelle-sensationell-seit-1995
 link: /2014/11/chevelle-sensationell-seit-1995/
 fileName: 2014-11---chevelle-sensationell-seit-1995.md
-description:
-  Chevelle brachten mit "La Gargola" im April ihre elfte Platte auf den Markt.
-  Elf musikalische Werke, eines besser als das andere. Ich habe sie live gehört.
-excerpt:
-  Mit "La Gargola" brachten Chevelle im April ihre elfte Platte auf den Markt.
-  Elf musikalische Werke, eines besser als das andere.
+description: Chevelle brachten mit "La Gargola" im April ihre elfte Platte auf
+  den Markt. Elf musikalische Werke, eines besser als das andere. Ich habe sie
+  live gehört.
+excerpt: Mit "La Gargola" brachten Chevelle im April ihre elfte Platte auf den
+  Markt. Elf musikalische Werke, eines besser als das andere.
 focusKeyword: Chevelle
 labels:
   - Backstage
@@ -37,13 +36,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "9197"
+image: /img/demo.jpg
+errors: []
 subTitle: Chevelle live @ Backstage Halle München
+  
 ---
 
-![Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte](http://cardamonchai.com/wp-content/uploads/2014/11/unbenannt-2-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte")
+![Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte](http://cardamonchai.com/wp-content/uploads/2014/11/unbenannt-2-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte")
 
-<strong>Chevelle - Das sind Pete (Gesang und Gitarre) und Sam (Drums) Loeffler
-und Dean Bernadini (Bass). </strong>
+**Chevelle - Das sind Pete (Gesang und Gitarre) und Sam (Drums) Loeffler und
+Dean Bernadini (Bass).**
 
 Bei der Gründung 1995 war noch Petes und Sams Bruder Joe am Bass mit dabei, 2005
 flog er jedoch aus der Band und wurde durch seinen nicht minder begabten
@@ -59,7 +61,7 @@ schon. Am Montag, den 3. November war es endlich soweit und wir durften sie live
 sehen. Endlich eine Europatournee (zusätzlich zu den Festivalauftritten dieses
 Jahr) und dann auch noch ein Zwischenhalt in München, wie wunderbar!
 
-![Das Konzert war sensationell](http://cardamonchai.com/wp-content/uploads/2014/11/img_2546-640x853.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Das Konzert war sensationell")
+![Das Konzert war sensationell](http://cardamonchai.com/wp-content/uploads/2014/11/img_2546-640x853.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Das Konzert war sensationell")
 
 Das Konzert war sensationell, wir standen in der ersten Reihe und erlebten alles
 hautnah. Das Publikum tobte, alle feierten ausgelassen, endlich "ihre" Chevelle
@@ -91,10 +93,9 @@ Seid gespannt, ihr wisst ja, nach dem Gig ist vor dem Gig. :-P
 
 Bis bald Anne &lt;3
 
-<em>Hier sind für Euch Chevelle mit "The Clincher", im Anschluss an das Video
-seht Ihr noch ein paar Eindrücke vom Konzert, eine größere Auswahl an Bildern
-findet Ihr wie immer in meinem
-[Flickr.](https://www.flickr.com/photos/99929697@N07/) </em>
+_Hier sind für Euch Chevelle mit "The Clincher", im Anschluss an das Video seht
+Ihr noch ein paar Eindrücke vom Konzert, eine größere Auswahl an Bildern findet
+Ihr wie immer in meinem [Flickr.](https://www.flickr.com/photos/99929697@N07/) _
 
 [youtube https://www.youtube.com/watch?v=OP3Yhs8q7oM]
 
@@ -102,3 +103,5 @@ findet Ihr wie immer in meinem
 ids="9199,9196,9195,9194,9193"]
 
 &nbsp;
+
+  

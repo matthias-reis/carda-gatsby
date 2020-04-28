@@ -4,12 +4,11 @@ seoTitle: Seitan à la Herzmann - Vleisch für Braten und mehr
 slug: seitan-a-la-herzmann
 link: /2016/01/seitan-a-la-herzmann/
 fileName: 2016-01---seitan-la-herzmann.md
-description:
-  Immer wieder bekomme ich Anfragen, wie wir unseren leckeren Seitan herstellen.
-  Heute lüfte ich das Geheimnis und verrate Euch ein Rezept.
-excerpt:
-  Immer wieder bekomme ich Anfragen, wie wir unsere leckeren Seitan-Variationen
+description: Immer wieder bekomme ich Anfragen, wie wir unseren leckeren Seitan
   herstellen. Heute lüfte ich das Geheimnis und verrate Euch ein Rezept.
+excerpt: Immer wieder bekomme ich Anfragen, wie wir unsere leckeren
+  Seitan-Variationen herstellen. Heute lüfte ich das Geheimnis und verrate Euch
+  ein Rezept.
 focusKeyword: Seitan
 labels:
   - foodblogger
@@ -29,13 +28,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13750"
+image: /img/demo.jpg
+errors: []
 subTitle: Vleisch für Braten oder mehr
+  
 ---
 
 ![Seitan - Hier als Braten mit Reis und Gemüse](http://cardamonchai.com/wp-content/uploads/2016/01/23461561951_66cd8e83b5_z-640x640.jpg "Seitan - Hier als Braten mit Reis und Gemüse")
 
-<strong>Immer wieder bekomme ich Anfragen, wie wir unsere tollen Seitan-Gerichte
-herstellen, die wir ständig auf Instagram teilen. </strong>
+**Immer wieder bekomme ich Anfragen, wie wir unsere tollen Seitan-Gerichte
+herstellen, die wir ständig auf Instagram teilen.**
 
 Natürlich haben wir schon jede Menge Variationen ausprobiert, eine der besonders
 leckeren schafft es immer wieder auf unseren Teller. Heute werde ich das
@@ -45,33 +47,30 @@ Variationen.
 
 ## Ihr braucht
 
-<ul>
-    <li>1 großen Kochtopf</li>
-    <li>1 Teigschüssel</li>
-    <li>1 Messbecher</li>
-    <li>1 Löffel</li>
-    <li>1 scharfes Messer</li>
-    <li>Herdplatte</li>
-    <li>Arbeitsbrett</li>
-    <li>1 Vorratsdose mit Deckel (Falls Ihr nicht alle 4 Portionen gleich am ersten Tag verputzt)</li>
-</ul>
+- 1 großen Kochtopf
+- 1 Teigschüssel
+- 1 Messbecher
+- 1 Löffel
+- 1 scharfes Messer
+- Herdplatte
+- Arbeitsbrett
+- 1 Vorratsdose mit Deckel (Falls Ihr nicht alle 4 Portionen gleich am ersten
+  Tag verputzt)
 
 ![Seitan mit schwarzem Reis und Gemüse](http://cardamonchai.com/wp-content/uploads/2016/01/23925131661_bb9c501331_z-640x640.jpg "Seitan mit schwarzem Reis und Gemüse")
 
 ## Zutaten für 4 Portionen
 
-<ul>
-    <li>190 g Gluten (Auch unter dem Namen "Seitanfix" im Handel)</li>
-    <li>10 g Lupinenmehl</li>
-    <li>1 Tl. Kurkuma</li>
-    <li>1 El. Rote Bete Pulver</li>
-    <li>1/2 Tl. Salz</li>
-    <li>2 Liter milde Gemüsebrühe vom Vortag</li>
-    <li>100 ml Sojasauce</li>
-    <li>1 Schuss Olivenöl</li>
-    <li>1 Hand voll Vollkornmehl</li>
-    <li>Wasser</li>
-</ul>
+- 190 g Gluten (Auch unter dem Namen "Seitanfix" im Handel)
+- 10 g Lupinenmehl
+- 1 Tl. Kurkuma
+- 1 El. Rote Bete Pulver
+- 1/2 Tl. Salz
+- 2 Liter milde Gemüsebrühe vom Vortag
+- 100 ml Sojasauce
+- 1 Schuss Olivenöl
+- 1 Hand voll Vollkornmehl
+- Wasser
 
 ## Zubereitung
 
@@ -94,7 +93,8 @@ Zimmertemperatur mindestens 20 Minuten gehen.
 Setzt die Gemüsebrühe auf den Herd und lasst sie aufkochen. Wir vermischen sie
 immer noch ein Bisschen mit Wasser, der Topf sollte gut halbvoll sein.
 
-<blockquote>Tipp: Gebt die restlichen 50 ml von der Sojasauce mit ins Kochwasser, dann verliert Euer Seitan beim Kochen nicht die Farbe!</blockquote>
+> Tipp: Gebt die restlichen 50 ml von der Sojasauce mit ins Kochwasser, dann
+> verliert Euer Seitan beim Kochen nicht die Farbe!
 
 ![Seitan auf Glasnudelsalat](http://cardamonchai.com/wp-content/uploads/2016/01/23458430682_1bd03ffb4a_z-640x640.jpg)
 
@@ -111,7 +111,8 @@ braten meistens die erste Portion direkt am ersten Tag an, die zweite Portion
 dann am zweiten Tag. Rezepttechnisch sind der Kreativität da ja keine Grenzen
 gesetzt.
 
-<blockquote>Tipp: Wälzt das Seitan vor dem Anbraten in dem Vollkornmehl, dann wird es noch etwas knuspriger</blockquote>
+> Tipp: Wälzt das Seitan vor dem Anbraten in dem Vollkornmehl, dann wird es noch
+> etwas knuspriger
 
 ## Seitan in allen Variationen
 
@@ -127,3 +128,5 @@ Ich wünsche Euch viel Spaß beim Kochen und guten Appetit!
 &nbsp;
 
 &nbsp;
+
+  

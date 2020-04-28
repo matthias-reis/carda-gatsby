@@ -4,11 +4,10 @@ seoTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
 slug: unboxing-vegan-beauty-basket-weihnachtsedition
 link: /2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/
 fileName: 2016-12---unboxing-vegan-beauty-basket.md
-description:
-  Ein himmlischer Duft liegt in der Luft beim Unboxing der Weihnachtsedition des
-  Vegan Beauty Basket. Jede Menge Überraschungen für jeden Geschmack.
-excerpt:
-  Werbung - Ein himmlischer Duft liegt in der Luft beim Unboxing der
+description: Ein himmlischer Duft liegt in der Luft beim Unboxing der
+  Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden
+  Geschmack.
+excerpt: Werbung - Ein himmlischer Duft liegt in der Luft beim Unboxing der
   Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden
   Geschmack.
 focusKeyword: Vegan Beauty Basket
@@ -32,14 +31,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15532"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Weihnachtsedition
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
 ![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/12/31409457770_7b64f61164_z-640x427.jpg)
 
-<strong>
+**Als mir die liebe Ina von
+[Vegan Beauty Basket](/2016/09/vegan-beauty-basket-im-test/) von ihrer
+Weihnachtsbox erzählt, ist mich sofort klar: Die muss ich testen! Schon ein paar
+Tage später ist es dann soweit und ein kleines, hübsches Päckchen kommt aus
+Berlin bei mir an.**
 
 Schon beim Öffnen des Versandkartons steigt mir ein angenehmer Duft von Lavendel
 in die Nase. Ich liebe Lavendel. Alles duftet bei mir danach. Für mich schafft
@@ -85,7 +91,8 @@ als nächstes in die Hände. "Kiss The Moon", was für ein schöner Name! Das
 erinnert mich an den Song einer Band aus lange vergangenen Zeiten. Was schon mal
 gut ist. Die Beschreibung lautet:
 
-<blockquote>Der beruhigende Balm mit Lavendel, Bergamotte, Zedernholz und Kamille von Kiss The Moon ist perfekt für die Entspannung der Seele zur Nachtzeit.</blockquote>
+> Der beruhigende Balm mit Lavendel, Bergamotte, Zedernholz und Kamille von Kiss
+> The Moon ist perfekt für die Entspannung der Seele zur Nachtzeit.
 
 ## Endlich mal wieder durchschlafen
 
@@ -155,14 +162,14 @@ Interview mit Ina geben!
 
 ## Wegweiser Vegan Beauty Basket
 
-<ol>
-    <li> [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/) </li>
-    <li> [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/) </li>
-    <li>Unboxing Weihnachtsedition 12/2016</li>
-    <li> [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/) </li>
-    <li> [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/) </li>
-</ol>
+1.  [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/)
+1.  [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/)
+1.  Unboxing Weihnachtsedition 12/2016
+1.  [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/)
+1.  [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+  

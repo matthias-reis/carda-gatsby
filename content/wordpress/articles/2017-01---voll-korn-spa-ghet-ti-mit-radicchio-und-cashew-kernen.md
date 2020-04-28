@@ -4,12 +4,10 @@ seoTitle: Vollkornspaghetti mit Radicchio und Cashew-Kernen
 slug: vollkornspaghetti-mit-radicchio-und-cashew-kernen
 link: /2017/01/vollkornspaghetti-mit-radicchio-und-cashew-kernen/
 fileName: 2017-01---voll-korn-spa-ghet-ti-mit-radicchio-und-cashew-kernen.md
-description:
-  Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen
+description: Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen
   Alltime-Favorites. Nachdem mein Bild neulich so gut ankam, poste ich heute
   mein Rezept.
-excerpt:
-  Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen
+excerpt: Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen
   Alltime-Favorites. Nachdem mein Bild neulich so gut ankam, teile ich heute
   mein Rezept mit Euch.
 focusKeyword: Vollkornspaghetti
@@ -30,12 +28,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15715"
+image: /img/demo.jpg
+errors: []
 subTitle: Post-Spätschicht-Lieblingsessen
+  
 ---
 
-<strong>Heute gibt es mal wieder veganes Essen für alle! Nachdem ich am Dienstag
+**Heute gibt es mal wieder veganes Essen für alle! Nachdem ich am Dienstag
 völlig ausgehungert von einer heiteren Spätschicht nach Hause kam, musste etwas
-Rustikales her.</strong>
+Rustikales her.**
 
 Was gibt es da Besseres, als eines meiner liebsten Lieblingsessen, sprich
 Vollkornspaghetti mit Radicchio und Cashew-Kernen? Nichts, genau. Nachdem das
@@ -52,16 +53,17 @@ Aufschreiben schon wieder Appetit drauf. :-P Doch nun zum Rezept.
 
 ## Zutaten für eine große Portion
 
-<ul>
-    <li>250 g Vollkornspaghetti (Ich habe dieses Mal Dinkel-Vollkornspaghetti genommen, es gehen selbstverständlich auch welche aus Weizen oder Buchweizen. Bei Buchweizen nehmt einfach statt 250 nur 200 g)</li>
-    <li>1 kleiner Kopf Radicchio</li>
-    <li>200 ml Sojacuisine (z. B. Alnatura)</li>
-    <li>1/2 Dose gesalzene Cashew-Kerne (Nehmt einfach die Billigen aus dem Knabberregal)</li>
-    <li>Sojasauce</li>
-    <li>Pfeffer</li>
-    <li>Salz</li>
-    <li>Öl zum Anbraten (z. B. Kokosöl)</li>
-</ul>
+- 250 g Vollkornspaghetti (Ich habe dieses Mal Dinkel-Vollkornspaghetti
+  genommen, es gehen selbstverständlich auch welche aus Weizen oder Buchweizen.
+  Bei Buchweizen nehmt einfach statt 250 nur 200 g)
+- 1 kleiner Kopf Radicchio
+- 200 ml Sojacuisine (z. B. Alnatura)
+- 1/2 Dose gesalzene Cashew-Kerne (Nehmt einfach die Billigen aus dem
+  Knabberregal)
+- Sojasauce
+- Pfeffer
+- Salz
+- Öl zum Anbraten (z. B. Kokosöl)
 
 ## Zubereitung
 
@@ -78,6 +80,8 @@ Schmeckt zwischendurch mal die Spaghetti ab, ob sie schon fertig sind. Wenn sie
 fast fertig sind, gebt Ihr die Soja-Cuisine mit in die Pfanne und rührt noch mal
 alles gut durch. Abschmecken, Spaghetti abgießen und servieren.
 
-<em>Guten Appetit!</em>
+_Guten Appetit!_
 
 ![Vollkornspaghetti | large](http://cardamonchai.com/wp-content/uploads/2017/01/31663435394_114a796024_b-800x800.jpg)
+
+  

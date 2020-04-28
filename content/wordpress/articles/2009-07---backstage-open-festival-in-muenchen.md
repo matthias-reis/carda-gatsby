@@ -4,11 +4,9 @@ seoTitle: Backstage Open Festival 2009 in München mit Anajo
 slug: backstage-open-festival-in-munchen
 link: /2009/07/backstage-open-festival-in-munchen/
 fileName: 2009-07---backstage-open-festival-in-muenchen.md
-description:
-  Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage
+description: Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage
   Werksgelände wieder das BACKSTAGE OPEN-Festival statt.
-excerpt:
-  Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage
+excerpt: Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage
   Werksgelände wieder das BACKSTAGE OPEN-Festival statt.
 focusKeyword: Anajo
 labels:
@@ -25,12 +23,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11419"
+image: /img/demo.jpg
+errors: []
 subTitle: Von Anajo bis Tito And Tarantula
+  
 ---
-
-![Anajo](http://cardamonchai.com/wp-content/uploads/2009/07/9825392104_e945313e5f_z.jpg)
-
-<strong>
 
 Am Freitag spielten im Vorprogramm die Bands BENZIN und HASSLIEBE. Als Headliner
 traten THE NEW BLACK und als großes Highlight TITO AND TARANTULA auf.
@@ -41,7 +38,8 @@ Band ENNO BUNGER aus Leer in Niedersachsen. Diesen Namen sollte man sich
 unbedingt merken! Mal melancholisch, mal rockig und tanzbar, ENNO BUNGER sind
 für mich mit ihrem Sound die Neuentdeckung des Sommers 2009. Ihr erstes Album
 haben sie für Oktober angekündigt. Wer schonmal reinhören möchte, kann dies auf
-der [Bandseite](http://www.myspace.com/ennobunger) tun.
+der [myspace-Seite](http://www.myspace.com/ennobunger) der Band, oder auf der
+offiziellen [Bandseite](http://www.ennobunger.de/) tun.
 
 ![Enno Bunger](http://cardamonchai.com/wp-content/uploads/2009/07/9825441026_d0361ee00d_z-640x480.jpg)
 
@@ -59,6 +57,11 @@ Den Abschluß machten zu später Stunde dann SLUT, die vor allem mit Ihrer
 Bühnenshow beeindruckten. Es wurden dazu Bilder auf drei eigens dafür
 installierte Leinwände projeziert.
 
-<em> [Homepage](http://www.anajo.de/poporchester/inhalt.html) Festivalguide</em>
+_ [Homepage](http://www.anajo.de/poporchester/inhalt.html) Anajo_ _
+[Homepage](http://www.slut-music.de/) Slut_ _
+[Homepage](http://www.titoandtarantula.com/) Tito &amp; Tarantula_ _
+[Homepage](http://www.festivalguide.de/) Festivalguide_
 
 [myflickr tag="annebackstageopen2009"]
+
+  

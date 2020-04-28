@@ -4,12 +4,11 @@ seoTitle: My Little Pony zu gewinnen! Neue Verlosung!
 slug: my-little-pony-zu-gewinnen-verlosung
 link: /2016/02/my-little-pony-zu-gewinnen-verlosung/
 fileName: 2016-02---my-little-pony-zu-gewinnen.md
-description:
-  Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede Menge My
-  Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich inklusive!
-excerpt:
-  Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede Menge My
-  Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich inklusive!
+description: Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede
+  Menge My Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich
+  inklusive!
+excerpt: Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede Menge
+  My Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich inklusive!
 focusKeyword: Little Pony
 labels:
   - DIY
@@ -23,7 +22,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13978"
+image: /img/demo.jpg
+errors: []
 subTitle: Ponys aus meiner Herde gehen auf Reisen
+  
 ---
 
 <hr />
@@ -33,8 +35,8 @@ Hinweis: Die Aktion ist beendet.
 
 <hr />
 
-<strong>Der Frühling steht in den Starlöchern. Zeit für mich, ein Bisschen Platz
-in meiner Vitrine zu schaffen. </strong>
+**Der Frühling steht in den Starlöchern. Zeit für mich, ein Bisschen Platz in
+meiner Vitrine zu schaffen.**
 
 Wie einige von Euch wissen, beherberge ich darin unter anderem eine mittelgroße
 Herde aus My Little Pony Pferdchen. Schweren Herzens trenne ich mich nun von
@@ -56,8 +58,8 @@ was Du dafür tun musst, ist an meiner Verlosung teilzunehmen. Wie das geht?
 
 Ganz einfach: Wer in der Zeit vom 18. Februar bis zum 3. März 2016 
 [meine Facebook-Seite](https://www.facebook.com/cardamonchai) mit "gefällt mir"
-markiert UND einen Kommentar, warum er/sie gerne gewinnen möchte <em>direkt hier
-im Blog unter dem Beitrag</em> postet, nimmt automatisch an der Verlosung teil.
+markiert UND einen Kommentar, warum er/sie gerne gewinnen möchte _direkt hier im
+Blog unter dem Beitrag_ postet, nimmt automatisch an der Verlosung teil.
 Natürlich nehmen auch alle teil, denen meine Facebook-Seite bereits gefällt.
 Wenn das bei Dir auch so ist, musst Du nur noch Deinen Kommentar unter diesem
 Artikel posten, um zu gewinnen.
@@ -108,3 +110,5 @@ freue ich mich auch, wenn Dir meine Facebook-Seite nach der Verlosung auch
 weiterhin gefällt
 
 [myflickr tag="annemylittlepony"]
+
+  

@@ -4,11 +4,9 @@ seoTitle: Olympiapark München - Anne bloggt cardamonchai
 slug: olympiapark-munchen
 link: /2009/05/olympiapark-munchen/
 fileName: 2009-05---olympiapark-muenchen.md
-description:
-  Immer wieder schön ist ein ausgdehnter Spaziergang durch den Olympiapark
-  München
-excerpt:
-  "Immer wieder schön: Ein ausgedehnter Spaziergang durch den Olympiapark
+description: Immer wieder schön ist ein ausgdehnter Spaziergang durch den
+  Olympiapark München
+excerpt: "Immer wieder schön: Ein ausgedehnter Spaziergang durch den Olympiapark
   München."
 focusKeyword: Olympiapark München
 labels:
@@ -23,10 +21,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11214"
+image: /img/demo.jpg
+errors: []
 subTitle: Impressionen aus dem Olympiapark München
+  
 ---
 
 Immer wieder schön: Ein ausgedehnter Spaziergang durch den Olympiapark München.
 
 [gallery type="rectangular" link="none" size="medium"
 ids="11214,11215,11216,11213"]
+
+  

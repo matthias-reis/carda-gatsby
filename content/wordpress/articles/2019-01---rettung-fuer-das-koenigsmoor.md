@@ -4,12 +4,10 @@ seoTitle: Rettung für das Königsmoor MoorFutures® - Klimaschutz durch Ausglei
 slug: koenigsmoor-moorfutures
 link: /2019/01/koenigsmoor-moorfutures/
 fileName: 2019-01---rettung-fuer-das-koenigsmoor.md
-description:
-  Moore spielen eine tragende Rolle im Klimaschutz. Aus diesem Grund wird das
-  Königsmoor renaturiert. Ich erkläre Euch, wie Ihr dabei helfen könnt.
-excerpt:
-  Moore spielen eine tragende Rolle im Klimaschutz. Aus diesem Grund wird das
-  Königsmoor renaturiert. Ich erkläre Euch, wie Ihr die Umweltschützer dabei
+description: Moore spielen eine tragende Rolle im Klimaschutz. Aus diesem Grund
+  wird das Königsmoor renaturiert. Ich erkläre Euch, wie Ihr dabei helfen könnt.
+excerpt: Moore spielen eine tragende Rolle im Klimaschutz. Aus diesem Grund wird
+  das Königsmoor renaturiert. Ich erkläre Euch, wie Ihr die Umweltschützer dabei
   unterstützen und gleichzeitig Euren Ökologischen Fußabdruck verbessern könnt.
 focusKeyword: Klimaschutz
 labels:
@@ -40,12 +38,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23357"
+image: /img/demo.jpg
+errors: []
 subTitle: Klimaschutz durch Ausgleich mit "MoorFutures"
+  
 ---
 
-<strong>Vor Kurzem lernte ich auf dem Hamburger Heldenmarkt die Stiftung
-Naturschutz Schleswig-Holstein kennen. Bei dieser Gelegenheit habe ich so
-einiges über Moore und ihre tragende Rolle im Klimaschutz gelernt.</strong>
+**Vor Kurzem lernte ich auf dem Hamburger Heldenmarkt die Stiftung Naturschutz
+Schleswig-Holstein kennen. Bei dieser Gelegenheit habe ich so einiges über Moore
+und ihre tragende Rolle im Klimaschutz gelernt.**
 
 Heute möchte ich Euch zeigen, wie Ihr die Stiftung bei der Rettung des
 Königsmoors unterstützen und dabei aktiven Klimaschutz betreiben könnt.
@@ -55,13 +56,13 @@ Lebensraum zurückzuerobern, klingt nach einer Heldentat? Das ist es auch.
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Bekassine-400x267.jpg "Bekassine im Köngismoor")
 
 Helfen könnt Ihr, indem Ihr "MoorFutures®" kauft. Eins der
-<strong>Klimaschutz-Zertifikate</strong> entspricht einer Tonne CO<sub>2</sub>.
-Sie können von Privatpersonen wie auch von Firmen zum Preis von je 64 Euro
-erworben werden, um ausgestoßene Treibhausgase auszugleichen.
+**Klimaschutz-Zertifikate** entspricht einer Tonne CO<sub>2</sub>. Sie können
+von Privatpersonen wie auch von Firmen zum Preis von je 64 Euro erworben werden,
+um ausgestoßene Treibhausgase auszugleichen.
 
 Schon seit 2014 könnt Ihr so Euren Teil zur Renaturierung des Königsmoors
-beitragen. Ihr gleicht damit <strong>Treibhausgase</strong>, die Ihr
-beispielsweise durch Flugreisen, Fahrten mit dem Auto oder Eure
+beitragen. Ihr gleicht damit **Treibhausgase** , die Ihr beispielsweise durch
+Flugreisen, Fahrten mit dem Auto oder Eure
 [Ernährung](/2017/02/klimaschutz-und-vegane-ernaehrung/) erzeugt habt, aus und
 setzt Euch für die Wiederherstellung des Lebensraums zahlreicher seltenen Arten
 direkt bei uns vor der Haustür ein.
@@ -72,9 +73,8 @@ Das klingt ja schon mal gut - und wie funktioniert das jetzt genau? Der Dreck,
 den ich hinterlassen habe, ist doch schließlich da, oder? Ja, das stimmt – der
 Ausgleich erfolgt an einer anderen Stelle. Bei
 [Mooren](/2016/01/wandern-im-hamburger-wittmoor/) handelt es sich um die größten
-<strong>Kohlenstoffspeicher</strong> der Erde. Darum arbeitet man in
-Schleswig-Holstein auch bereits seit Ende 2011 mit Hochdruck an ihrer
-Wiederbelebung.
+**Kohlenstoffspeicher** der Erde. Darum arbeitet man in Schleswig-Holstein auch
+bereits seit Ende 2011 mit Hochdruck an ihrer Wiederbelebung.
 
 Klar: Indem man seinen
 [Ökologischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
@@ -84,17 +84,16 @@ Sommerurlaub also am besten am Baggersee um die Ecke. Doch auch Menschen, die es
 in die Ferne zieht, oder die beruflich oft verreisen müssen, können mit
 Klimaschutz-Projekten wie den "MoorFutures®" einen Ausgleich schaffen.
 
-## erzeugen wir
+## So viel CO<sub>2</sub> erzeugen wir
 
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Wollgras-400x266.jpg "Wollgras")
 
 Ich habe hier mal ein paar Beispiele für Euch, die mir die Ausgleichsagentur
 Schleswig-Holstein zur Verfügung gestellt hat: Durch den Flug einer Person von
-Hamburg nach Mallorca und wieder zurück, fallen zwei Tonnen
-<strong>CO<sub>2</sub></strong> an. Bei einem Flug nach Zypern sind es sogar
-drei Tonnen (Vergleich aus der Lebensmittelherstellung: Ein Kilo Rindfleisch: 22
-Kilo, ein Kilo Getreide je nach Sorte rund vier bis neun Kilo
-CO<sub>2</sub>,Quelle:
+Hamburg nach Mallorca und wieder zurück, fallen zwei Tonnen **CO<sub>2</sub>**
+an. Bei einem Flug nach Zypern sind es sogar drei Tonnen (Vergleich aus der
+Lebensmittelherstellung: Ein Kilo Rindfleisch: 22 Kilo, ein Kilo Getreide je
+nach Sorte rund vier bis neun Kilo CO<sub>2</sub>,Quelle:
 [Albert Schweitzer Stiftung](https://albert-schweitzer-stiftung.de/aktuell/1-kg-rindfleisch)
 ) So, jetzt denkt Ihr schon anders über Eure nächste Fernreise nach, oder? Ich
 auch über meine.
@@ -104,22 +103,21 @@ Mittelklassewagen gelangt auch schon rund eine halbe Tonne schädliches
 Treibhausgas in die Atmosphäre. So wirklich "naturnah" ist so ein
 [Roadtrip](/tag/schweden2018/) also auch nicht.
 
-Man kann seine <strong>Reisebilanz</strong> verbessern, indem man, wie schon
-erwähnt, gar nicht reist, oder möglichst viel Geld in Projekte steckt, die aktiv
-daran arbeiten, den Treibhausgas-Ausstoß zu verringern – also zum Beispiel in
+Man kann seine **Reisebilanz** verbessern, indem man, wie schon erwähnt, gar
+nicht reist, oder möglichst viel Geld in Projekte steckt, die aktiv daran
+arbeiten, den Treibhausgas-Ausstoß zu verringern – also zum Beispiel in
 "MoorFutures®". So schließt sich der Kreis.
 
-## 2</sub>
+## Naturbelassene Moore speichern CO<sub>2</sub>
 
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Moorpegel-400x267.jpg "Der Moorpegel")
 
 Insgesamt erstreckt sich das Königsmoor heute noch über eine Fläche von 1.200
 Hektar. Das "MoorFutures®" Gebiet nimmt eine 68 Hektar große Teilfläche des
-<strong>Hochmoores</strong> ein. Innerhalb dieser Fläche hat die
-Ausgleichsagentur Schleswig-Holstein sämtliche Drainagen und Gräben, die der
-<strong>Torfabbau</strong> in der Vergangenheit in die Landschaft gerissen hat,
-verschlossen. Gelungen ist das komplett ohne externe Fördermittel. Seitdem atmet
-die Landschaft sichtbar auf.
+**Hochmoores** ein. Innerhalb dieser Fläche hat die Ausgleichsagentur
+Schleswig-Holstein sämtliche Drainagen und Gräben, die der **Torfabbau** in der
+Vergangenheit in die Landschaft gerissen hat, verschlossen. Gelungen ist das
+komplett ohne externe Fördermittel. Seitdem atmet die Landschaft sichtbar auf.
 
 Um den Niederschlagsüberschuss, der sich über die Wintermonate ansammelt, zu
 erhalten, wurden zusätzlich flache Wälle aus Torf errichtet. Das Gebiet kann so
@@ -128,41 +126,44 @@ Feuchtigkeitsspeicher.
 
 Dieses Vorgehen bezeichnen die Umweltschützer als "Vernässung" oder
 "Wiedervernässung". Es bewirkt eine Anhebung des Grundwasserstandes im
-Projektgebiet. Dadurch kehrt die <strong>Sumpfvegetation</strong> im Laufe der
-Zeit zurück. Die jährliche CO<sub>2</sub>-Emission wurde durch die Renaturierung
-seit Beginn des Projekts inzwischen um 660 Tonnen pro Jahr reduziert.
+Projektgebiet. Dadurch kehrt die **Sumpfvegetation** im Laufe der Zeit zurück.
+Die jährliche CO<sub>2</sub>-Emission wurde durch die Renaturierung seit Beginn
+des Projekts inzwischen um 660 Tonnen pro Jahr reduziert.
 
 ## Moore wiederbeleben
 
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Koenigsmoor_Winter_1-400x300.jpg "Rohrkolben im winterlichen Königsmoor")
 
 Nach 20 Jahren wird sich daraus eine Zahl von 1.037 Tonnen pro Jahr ergeben
-haben. Bis dahin sollte sich laut Experten wieder eine mit
-<strong>Torfmoos</strong> bewachsene Zwischenmoorlandschaft gebildet haben. Nach
-50 Jahren könnten bereits 40.720 CO<sub>2</sub> Tonnen eingespart werden. Wie
-sich das Ganze tatsächlich entwickelt, wird permanent streng überwacht.
+haben. Bis dahin sollte sich laut Experten wieder eine mit **Torfmoos**
+bewachsene Zwischenmoorlandschaft gebildet haben. Nach 50 Jahren könnten bereits
+40.720 CO<sub>2</sub> Tonnen eingespart werden. Wie sich das Ganze tatsächlich
+entwickelt, wird permanent streng überwacht.
 
-Bei Mooren handelt es sich um sehr spezielle <strong>Ökosysteme</strong>. In
-ihnen ist eine Vielfalt bedrohter Arten beheimatet, die auf das besondere
-Moorklima angewiesen sind. Hinzu kommt, dass sie dazu in der Lage sind,
-CO<sub>2</sub> zu speichern. Dadurch bildet sich nach und nach Torf, in dem sich
-das klimaschädliche Treibhausgas ablagert – es wird dauerhaft darin gespeichert.
+Bei Mooren handelt es sich um sehr spezielle **Ökosysteme** . In ihnen ist eine
+Vielfalt bedrohter Arten beheimatet, die auf das besondere Moorklima angewiesen
+sind. Hinzu kommt, dass sie dazu in der Lage sind, CO<sub>2</sub> zu speichern.
+Dadurch bildet sich nach und nach Torf, in dem sich das klimaschädliche
+Treibhausgas ablagert – es wird dauerhaft darin gespeichert.
 
 ## Aus trockengelegten Mooren entweichen Treibhausgase
 
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Koenigsmoor_1-400x300.jpg "So schön ist das Köngismoor")
 
 Fast ein Fünftel (!) der Treibhausgas-Emissionen, die wir Menschen verursachen,
-entweicht aus trockengelegten <strong>Moorgebieten</strong>. Sollte es uns
-gelingen, diese wertvollen Landschaften wieder zu ihrem Ursprung zurückzuführen,
-ergibt sich eine beeindruckende, natürliche Wirkung auf den Klimaschutz – das
-Treibhausgas sammelt sich nicht mehr in der Atmosphäre an, sondern wird vom Torf
-absorbiert.
+entweicht aus trockengelegten **Moorgebieten** . Sollte es uns gelingen, diese
+wertvollen Landschaften wieder zu ihrem Ursprung zurückzuführen, ergibt sich
+eine beeindruckende, natürliche Wirkung auf den Klimaschutz – das Treibhausgas
+sammelt sich nicht mehr in der Atmosphäre an, sondern wird vom Torf absorbiert.
 
 Die Geschäftsführerin der Ausgleichsagentur Schleswig-Holstein Ute Ojowski
 erklärt das so
 
-<blockquote>"In den unter Kultur genommenen Moorflächen oxidiert der zuvor gebundene <strong>Kohlenstoff</strong> im Torf großflächig. Dagegen sind intakte Moore mit einem Wasserüberschuss aus Niederschlägen und Grundwasser überaus effektive CO<sub>2</sub>-Speicher. Ihrer Renaturierung kommt daher eine bedeutende Rolle im Klimaschutz zu."</blockquote>
+> "In den unter Kultur genommenen Moorflächen oxidiert der zuvor gebundene
+> **Kohlenstoff** im Torf großflächig. Dagegen sind intakte Moore mit einem
+> Wasserüberschuss aus Niederschlägen und Grundwasser überaus effektive
+> CO<sub>2</sub>-Speicher. Ihrer Renaturierung kommt daher eine bedeutende Rolle
+> im Klimaschutz zu."
 
 ## Zerstörung der Natur durch Torfabbau
 
@@ -211,16 +212,22 @@ rund 11 Tonnen pro Jahr. Studien zur Folge liegt der klimaverträgliche Wert bei
 Reserven zu schonen und den Klimawandel nicht noch schneller voranzutreiben,
 sollte jedem von uns so schnell wie möglich bewusst werden. Nicht wenigen
 Menschen
-[verbrauchen wir die Ressourcen von 1,7 Erden](/2018/10/underwater-hoa/). Das
-könnt Ihr tun
+[steht das Wasser schon heute im wörtlichen Sinne bis zum Hals](/2018/10/underwater-hoa/).
+So, wie wir heute leben,
+[verbrauchen wir die Ressourcen von 1,7 Erden](/2018/07/earth-overshoot-day-2018/).
+Das könnt Ihr tun
 
-<ul>
-    <li>Versucht, Euren CO<sub>2</sub> Fußabdruck so klein wie möglich zu halten, indem Ihr  [auf tierische Lebensmittel](/2017/02/klimaschutz-und-vegane-ernaehrung/),  Flugreisen, Fahrten mit dem Auto sowie Waren mit langen Transportwegen verzichtet.</li>
-    <li>Informiert Euch über Ausgleichsmöglichkeiten.</li>
-    <li>Nutzt den Klimarechner des Umweltbundesamtes. Ihr findet ihn online unter  [diesem Link](http://uba.co2-rechner.de/de_DE/). </li>
-    <li>Lest Euch zum Thema "MoorFutures®" ein. Ihr findet das Projekt auf  [dieser Seite](http://www.moorfutures.de). 
-Verzichtet auf mit Torf angereicherte Blumenerde.</li>
-</ul>
+- Versucht, Euren CO<sub>2</sub> Fußabdruck so klein wie möglich zu halten,
+  indem Ihr
+  [auf tierische Lebensmittel](/2017/02/klimaschutz-und-vegane-ernaehrung/),
+  Flugreisen, Fahrten mit dem Auto sowie Waren mit langen Transportwegen
+  verzichtet.
+- Informiert Euch über Ausgleichsmöglichkeiten.
+- Nutzt den Klimarechner des Umweltbundesamtes. Ihr findet ihn online unter
+  [diesem Link](http://uba.co2-rechner.de/de_DE/).
+- Lest Euch zum Thema "MoorFutures®" ein. Ihr findet das Projekt auf
+  [dieser Seite](http://www.moorfutures.de). Verzichtet auf mit Torf
+  angereicherte Blumenerde.
 
 ## Weitere Infos
 
@@ -229,14 +236,15 @@ Ich danke der
 Ausgleichsagentur Schleswig-Holstein für das beeindruckende Engagement und die
 Informationen, die es mir ermöglicht haben, diesen Artikel zu schreiben.
 
-<strong>Hinweise:</strong> Die Klimawirksamkeit des Königsmoor-Projektes wurde
-vom TÜV Rheinland gemäß ISO 14064-2 bestätigt. Die Ausgleichsagentur
-Schleswig-Holstein ist eine 100-prozentige Tochter der Stiftung Naturschutz
-Schleswig-Holstein.
+**Hinweise:** Die Klimawirksamkeit des Königsmoor-Projektes wurde vom TÜV
+Rheinland gemäß ISO 14064-2 bestätigt. Die Ausgleichsagentur Schleswig-Holstein
+ist eine 100-prozentige Tochter der Stiftung Naturschutz Schleswig-Holstein.
 
 Wer mehr über den Ökologischen Fußabdruck erfahren möchte und gerne wissen
 möchte, wie man ihn berechnet und so klein wie möglich halten kann,
 [findet hier einen interessanten Artikel zum Thema](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/).
 
-<strong>Fotos:</strong> Stiftung Naturschutz Schleswig-Holstein <strong>Motiv im
-Titel:</strong> Moorfrosch
+**Fotos:** Stiftung Naturschutz Schleswig-Holstein **Motiv im Titel:**
+Moorfrosch
+
+  

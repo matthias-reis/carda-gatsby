@@ -22,5 +22,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11415"
+image: /img/demo.jpg
+errors: []
 subTitle: Auch mal ein Foto wert
+  
 ---
+
+
+  

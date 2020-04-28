@@ -1,17 +1,14 @@
 ---
 title: Maspalomas Leuchtturm
-seoTitle:
-  Rund um den Leuchtturm von Maspalomas - Tauben, Warane und Rhodotentron
+seoTitle: Rund um den Leuchtturm von Maspalomas - Tauben, Warane und Rhodotentron
 slug: rund-um-den-leuchtturm-von-maspalomas
 link: /2017/06/rund-um-den-leuchtturm-von-maspalomas/
 fileName: 2017-06---maspalomas-leuchtturm.md
-description:
-  Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert es. Ich
-  möchte Euch gern eine paar Details verraten. Und meine große Bildergalerie
-  zeigen.
-excerpt:
-  Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert es. Ich
-  möchte Euch gern eine paar Details verraten. Und meine große Bildergalerie
+description: Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert
+  es. Ich möchte Euch gern eine paar Details verraten. Und meine große
+  Bildergalerie zeigen.
+excerpt: Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert es.
+  Ich möchte Euch gern eine paar Details verraten. Und meine große Bildergalerie
   zeigen.
 focusKeyword: Leuchtturm von Maspalomas
 labels:
@@ -38,12 +35,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16827"
+image: /img/demo.jpg
+errors: []
 subTitle: Tauben, Warane und Rhododentronblüten
+  
 ---
 
-<strong>Rund um den Leuchtturm von Maspalomas (span. "Faro de Maspalomas") blüht
-und summt es im Sonnenmonat Mai, dass es eine Wonne ist. Die Rhododentronblüten
-strahlen mit den Geranien um die Wette.</strong>
+**Rund um den Leuchtturm von Maspalomas (span. "Faro de Maspalomas") blüht und
+summt es im Sonnenmonat Mai, dass es eine Wonne ist. Die Rhododentronblüten
+strahlen mit den Geranien um die Wette.**
 
 Dazwischen flattern fröhlich Tauben auf der Suche nach Nahrung, hier und da
 sieht man die typischen grünen Inselpapageien sowie wenn man ganz genau
@@ -94,15 +94,15 @@ Doch nun erstmal zu meiner Bildergalerie. Viel Spaß beim Anschauen! :-)
 
 ## Wegweiser Gran Canaria
 
-<ol>
-    <li> [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/) </li>
-    <li> [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/) </li>
-    <li> [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/) </li>
-    <li>Rund um den Leuchtturm von Maspalomas</li>
-    <li> [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/) </li>
-    <li> [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/) </li>
-    <li> [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/) </li>
-    <li> [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/) </li>
-    <li> [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/) </li>
-    <li> [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/) </li>
-</ol>
+1.  [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/)
+1.  [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/)
+1.  [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
+1.  Rund um den Leuchtturm von Maspalomas
+1.  [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/)
+1.  [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/)
+1.  [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/)
+1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
+1.  [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/)
+1.  [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/)
+
+  

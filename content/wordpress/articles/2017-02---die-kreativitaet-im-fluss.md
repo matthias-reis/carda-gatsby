@@ -4,12 +4,12 @@ seoTitle: Die Kreativität im Fluss - Eine Autorin bei der Arbeit
 slug: die-kreativitaet-im-fluss
 link: /2017/02/die-kreativitaet-im-fluss/
 fileName: 2017-02---die-kreativitaet-im-fluss.md
-description:
-  Wer schreibt, schreibt an vielen Fronten. Die Kreativität in den richtigen
-  Momenten zu nutzen, ist die Kunst, sie nicht zu verlieren ist die Kür.
-excerpt:
-  Wer schreibt, schreibt an vielen Fronten. Die Kreativität in den richtigen
-  Momenten zu nutzen, ist die Kunst, sie nicht zu verlieren ist die Kür.
+description: Wer schreibt, schreibt an vielen Fronten. Die Kreativität in den
+  richtigen Momenten zu nutzen, ist die Kunst, sie nicht zu verlieren ist die
+  Kür.
+excerpt: Wer schreibt, schreibt an vielen Fronten. Die Kreativität in den
+  richtigen Momenten zu nutzen, ist die Kunst, sie nicht zu verlieren ist die
+  Kür.
 focusKeyword: Kreativität
 labels:
   - Autorin
@@ -25,12 +25,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15972"
+image: /img/demo.jpg
+errors: []
 subTitle: Autorin bei der Arbeit
+  
 ---
 
-<strong>Wetter und Erkältung fesseln an den Schreibtisch. Dauerregen prasselt
-gegen die Fenster. Seit Tagen schon. Mal bringt er Staub mit, mal reinigt er
-sie.</strong>
+**Wetter und Erkältung fesseln an den Schreibtisch. Dauerregen prasselt gegen
+die Fenster. Seit Tagen schon. Mal bringt er Staub mit, mal reinigt er sie.**
 
 Hinter einer Teetasse sitzen und dem Bleistift dabei zusehen, wie er über das
 Papier wandert. Gedanken skizziert. Er führt ein Eigenleben dieser Tage. Die
@@ -52,3 +54,5 @@ Dann klingelt es an der Tür. Vorbei ist der Zauber. Zurückgekehrt nimmt man
 Platz, nippt am abgekühlten Tee und schreibt über den Briefträger.
 
 Fortsetzung folgt eventuell...
+
+  

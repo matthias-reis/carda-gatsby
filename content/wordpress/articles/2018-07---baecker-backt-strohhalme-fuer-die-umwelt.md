@@ -4,12 +4,11 @@ seoTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik
 slug: baecker-backt-strohhalme-fuer-die-umwelt
 link: /2018/07/baecker-backt-strohhalme-fuer-die-umwelt/
 fileName: 2018-07---baecker-backt-strohhalme-fuer-die-umwelt.md
-description:
-  In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz Besonderes für
-  die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme trinken.
-excerpt:
-  In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz Besonderes für
-  die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme trinken.
+description: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz
+  Besonderes für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme
+  trinken.
+excerpt: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz Besonderes
+  für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme trinken.
 focusKeyword: Strohhalme
 labels:
   - Bäcker
@@ -37,13 +36,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21384"
+image: /img/demo.jpg
+errors: []
 subTitle: Nudeln statt Plastik
+  
 ---
 
-<strong>Das Thema Umweltverschmutzung durch Kunststoff ist im Moment ganz groß
-in der Presse. Was sehr gut ist. Besonders für Aufmerksamkeit gesorgt haben in
-letzter Zeit Strohalme aus Plastik. Sie werden nur einmal benutzt und landen
-dann oft in der Natur.</strong>
+**Das Thema Umweltverschmutzung durch Kunststoff ist im Moment ganz groß in der
+Presse. Was sehr gut ist. Besonders für Aufmerksamkeit gesorgt haben in letzter
+Zeit Strohalme aus Plastik. Sie werden nur einmal benutzt und landen dann oft in
+der Natur.**
 
 Viele Bars und Geschäfte setzen daher seit einiger Zeit auf Strohhalme aus
 Papier statt aus [Plastik](/?s=Plastik). Auch Maisstärke ist ganz groß im
@@ -88,5 +90,6 @@ mehr Menschen wach und man bekommt seinen Iced Latte in Zukunft auch aus einem
 Glas genießen oder bekommt die Brötchen beim Discounter schon morgen in einer
 Tüte ohne Sichtfenster.
 
-<strong>Foto:</strong> [Colour](https://pixabay.com/en/users/Couleur-1195798/),
-pixabay
+**Foto:** [Colour](https://pixabay.com/en/users/Couleur-1195798/), pixabay
+
+  

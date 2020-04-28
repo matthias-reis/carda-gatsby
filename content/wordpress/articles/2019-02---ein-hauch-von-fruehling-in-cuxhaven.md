@@ -4,13 +4,11 @@ seoTitle: Ein Hauch von Frühling in Cuxhaven - Besuch an der Nordsee
 slug: ein-hauch-von-fruehling-in-cuxhaven
 link: /2019/02/ein-hauch-von-fruehling-in-cuxhaven/
 fileName: 2019-02---ein-hauch-von-fruehling-in-cuxhaven.md
-description:
-  Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben das zum
-  Anlass genommen, mal wieder einen Ausflug nach Cuxhaven zu machen.
-excerpt:
-  "Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben das zum
-  Anlass genommen, mal wieder einen Ausflug an die Nordsee zu machen. Genauer:
-  Nach Cuxhaven - die Hafenstadt ist immer einen Besuch wert."
+description: Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben
+  das zum Anlass genommen, mal wieder einen Ausflug nach Cuxhaven zu machen.
+excerpt: "Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben das
+  zum Anlass genommen, mal wieder einen Ausflug an die Nordsee zu machen.
+  Genauer: Nach Cuxhaven - die Hafenstadt ist immer einen Besuch wert."
 focusKeyword: Cuxhaven
 labels:
   - Alte Liebe
@@ -32,31 +30,38 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23540"
+image: /img/demo.jpg
+errors: []
 subTitle: Ausflug ans Meer
+  
 ---
 
-<strong>Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben das
-zum Anlass genommen, mal wieder einen Ausflug an die Nordsee zu machen. Genauer:
-Nach Cuxhaven.</strong>
+**Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben das zum
+Anlass genommen, mal wieder einen Ausflug an die Nordsee zu machen. Genauer:
+Nach Cuxhaven.**
 
 Unser Zug kam schon gegen 10 Uhr in Cuxhaven an. So waren wir bei der ersten
-Welle an Ausflüglern, die an diesem Tag die Sonne in der
-<strong>Hafenstadt</strong> genießen wollten, dabei und zunächst noch ziemlich
-unter uns. Vom Bahnhof machten wir uns auf den Weg zur <strong>Alten
-Liebe</strong>, um den ersten Blick des Jahres aufs Meer zu erhaschen.
+Welle an Ausflüglern, die an diesem Tag die Sonne in der **Hafenstadt** genießen
+wollten, dabei und zunächst noch ziemlich unter uns. Vom Bahnhof machten wir uns
+auf den Weg zur **Alten Liebe** , um den ersten Blick des Jahres aufs Meer zu
+erhaschen.
 
 ## Ausflügler sehnen sich nach Sonne
 
-Auf der rund fünf Kilometer langen Strecke von dort in Richtung
-<strong>Kugelbake</strong> wurde es dann schon merklich voller. Ein wundervoller
-Anblick: Lauter sonnenhungrige, blasse Großstädter\*innen, auf dem Pilgerweg in
-Richtung Frühling. Birdwatching war trotzdem möglich. Im <strong>Watt</strong>
-und am Strand sind mir sogar ein paar Schnappschüsse gelungen.
+Auf der rund fünf Kilometer langen Strecke von dort in Richtung **Kugelbake**
+wurde es dann schon merklich voller. Ein wundervoller Anblick: Lauter
+sonnenhungrige, blasse Großstädter\*innen, auf dem Pilgerweg in Richtung
+Frühling. Birdwatching war trotzdem möglich. Im **Watt** und am Strand sind mir
+sogar ein paar Schnappschüsse gelungen.
 
 ![cuxhaven](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-17-cuxhaven-2-400x286.jpg)
 
-, der zu ausgedehnten Wanderungen und Entdeckungstouren einlädt. Bis 2008 befand
-sich in Cuxhaven die Schiffsmeldestelle für Hamburg und den Nord-Ostsee-Kanal.
+Von Hamburg aus ist Cuxhaven ein gutes Ausflugsziel. Mit dem Regionalzug ist man
+in gut zwei Stunden da, es gilt das Niedersachsen-Ticket. Die Kreisstadt an der
+Elbmündung beherbergt das größte Seeheilbad Deutschlands. Im Nordwesten liegt
+der **Nationalpark Wattenmeer** , der zu ausgedehnten Wanderungen und
+Entdeckungstouren einlädt. Bis 2008 befand sich in Cuxhaven die
+Schiffsmeldestelle für Hamburg und den Nord-Ostsee-Kanal.
 
 ## Was ist die "Alte Liebe"?
 
@@ -75,9 +80,9 @@ Misst man bei Tidehochstand bis zur Mitte der kleineren Kugel, kommt man auf
 eine Höhe von 28,4 Metern. Im Mittelalter wurden alle Leuchttürme als "Baken"
 bezeichnet.
 
-Die heutige Kugelbake von <strong>Cuxhaven</strong> ist nicht die erste. Diese
-war etwas kleiner (24,4 Meter) und wurde im Jahr 1703 erbaut. Damals musste man
-sie alle 30 Jahre austauschen, da sie durch das raue Klima verwitterte.
+Die heutige Kugelbake von **Cuxhaven** ist nicht die erste. Diese war etwas
+kleiner (24,4 Meter) und wurde im Jahr 1703 erbaut. Damals musste man sie alle
+30 Jahre austauschen, da sie durch das raue Klima verwitterte.
 
 ![cuxhaven](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-17-cuxhaven-6-400x286.jpg)
 
@@ -94,19 +99,19 @@ Wir hatten vor, am Abend zu kochen, daher reichten uns über den Tag unsere
 belegten Brote aus dem Rucksack. Einen leckeren Cappuccino mit Hafermilch zur
 Entspannung nach der Wanderung gönnten wir uns in der "Cuxhavener
 Kaffeerösterei" (Alter Deichweg 21). Sie befindet sich im weltberühmten
-<strong>Lotsenviertel</strong> in der Altstadt von Cuxhaven. Hier findet man
-zahlreiche gemütliche Einkehrmöglichkeiten und kleine Geschäfte. Auch das
-einzige Pinguinmuseum der Welt ist hier beheimatet (Schillerstraße 64).
+**Lotsenviertel** in der Altstadt von Cuxhaven. Hier findet man zahlreiche
+gemütliche Einkehrmöglichkeiten und kleine Geschäfte. Auch das einzige
+Pinguinmuseum der Welt ist hier beheimatet (Schillerstraße 64).
 
 ## Weitere Sehenswürdigkeiten in Cuxhaven
 
 Neben der Alten Liebe und der Kugelbake gibt es in Cuxhaven unter anderem das
-<strong>Schloss Ritzebüttel</strong> (27472 Cuxhaven), den
-<strong>Wasserturm</strong> (Kapitän-Alexander-Straße) und das
-<strong>Ringelnatz-Museum</strong> (Südersteinstraße 44). Bei schönem und auch
-bei wildem Wetter ist das Städtchen (Stand 31.12.2017 - 48.420 Einwohner) immer
-eine Reise wert. Auch Sportler\*innen werden glücklich: Ein Surfstrand für
-Wind-, Wellen- und Kitesurfer ist gleich um die Ecke (Cuxhaven Sahlenburg).
+**Schloss Ritzebüttel** (27472 Cuxhaven), den **Wasserturm**
+(Kapitän-Alexander-Straße) und das **Ringelnatz-Museum** (Südersteinstraße 44).
+Bei schönem und auch bei wildem Wetter ist das Städtchen (Stand 31.12.2017 -
+48.420 Einwohner) immer eine Reise wert. Auch Sportler\*innen werden glücklich:
+Ein Surfstrand für Wind-, Wellen- und Kitesurfer ist gleich um die Ecke
+(Cuxhaven Sahlenburg).
 
 Insgesamt war unser Sonntag wirklich perfekt: Sonne, Strand, Watt, Natur und
 frische Luft. Und: Wir haben sogar die ersten Krokusse gesehen! Von mir aus kann
@@ -114,3 +119,5 @@ der Frühling bald kommen. Das war auf jeden Fall schon mal ein schöner
 Vorgeschmack.
 
 [glry name="20190217cuxhaven"]
+
+  

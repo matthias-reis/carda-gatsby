@@ -4,12 +4,10 @@ seoTitle: Die Sache mit den Bleistiften - Tagebucheintrag
 slug: die-sache-mit-den-bleistiften
 link: /2012/07/die-sache-mit-den-bleistiften/
 fileName: 2012-07---die-sache-mit-den-bleistiften.md
-description:
-  "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht:
-  Sie haben den Job. Die Freude ist groß."
-excerpt:
-  "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht:
-  Sie haben den Job. Die Freude ist groß."
+description: "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine
+  Nachricht: Sie haben den Job. Die Freude ist groß."
+excerpt: "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine
+  Nachricht: Sie haben den Job. Die Freude ist groß."
 focusKeyword: Bleistift
 labels:
   - Ball And Biscuit
@@ -39,12 +37,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3229"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
-
-<strong>Der Urlaub ist vorbei. Seit über einer Woche wieder daheim.
-Durchgefahren von Folkstone über die Passage Dover - Calais, durch Luxemburg,
-immer dem Gewitter hinterher.</strong>
 
 Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine Nachricht: Sie
 haben den Job. Die Freude ist groß. Es gibt sehr viel zu lernen und zu
@@ -72,23 +69,23 @@ für die Ferien Deines Lebens sein.
 
 ![Bild: cardamonchai 9/2009 | full](http://cardamonchai.files.wordpress.com/2012/07/img_9855.jpg "Rose, Anne 9/2009")
 
-<strong>Song des Tages</strong>
+**Song des Tages**
 
 The White Stripes - Ball And Biscuit
 
 [youtube=http://www.youtube.com/watch?v=xMZh9OtAeSY]
 
-<em>It's quite possible that I'm your third man girl</em><em>But it's a fact
-that I'm the seventh son</em><em>And right now you could care less about
-me</em><em>But soon enough you will care, by the time I'm done</em><em>Let's
-have a ball and a biscuit sugar</em><em>And take our sweet little time about
-it</em><em>Let's have a ball girl</em><em>And take our sweet little time about
-it</em><em>Tell everyone in the place just to get out</em><em>We'll get clean
-together</em><em>And I'll find a soapbox where I can shout it</em><em>You read
-it in the newspaper</em><em>Ask your girlfriends and see if they
-know</em><em>That my strength is ten fold girl</em><em>And I'll let you see if
-you want to before you go</em><em>It's quite possible that I'm your third
-man</em><em>But it's a fact that I'm the seventh son</em><em>It was the other
-two which/was made me your third</em><em>But it was my mother who made me the
-seventh son</em><em>And right now you could care less about me</em><em>But soon
-enough you will care by the time I'm done</em>
+_It's quite possible that I'm your third man girl_ _But it's a fact that I'm the
+seventh son_ _And right now you could care less about me_ _But soon enough you
+will care, by the time I'm done_ _Let's have a ball and a biscuit sugar_ _And
+take our sweet little time about it_ _Let's have a ball girl_ _And take our
+sweet little time about it_ _Tell everyone in the place just to get out_ _We'll
+get clean together_ _And I'll find a soapbox where I can shout it_ _You read it
+in the newspaper_ _Ask your girlfriends and see if they know_ _That my strength
+is ten fold girl_ _And I'll let you see if you want to before you go_ _It's
+quite possible that I'm your third man_ _But it's a fact that I'm the seventh
+son_ _It was the other two which/was made me your third_ _But it was my mother
+who made me the seventh son_ _And right now you could care less about me_ _But
+soon enough you will care by the time I'm done_
+
+  

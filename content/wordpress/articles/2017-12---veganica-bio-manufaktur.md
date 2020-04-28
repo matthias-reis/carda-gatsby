@@ -1,17 +1,15 @@
 ---
 title: Veganica Bio Manufaktur
-seoTitle:
-  Unterstützt die Veganica Biomanufaktur bis zum 15.12. - Neues veganes
+seoTitle: Unterstützt die Veganica Biomanufaktur bis zum 15.12. - Neues veganes
   Crowdfunding!
 slug: veganica-biomanufaktur-crowdfunding
 link: /2017/12/veganica-biomanufaktur-crowdfunding/
 fileName: 2017-12---veganica-bio-manufaktur.md
-description:
-  Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt, könnt ihr
-  geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet Ihr?
-excerpt:
-  Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt, könnt ihr
-  geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet Ihr?
+description: Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt,
+  könnt ihr geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet
+  Ihr?
+excerpt: Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt, könnt
+  ihr geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet Ihr?
 focusKeyword: Veganica Biomanufaktur
 labels:
   - Vegane Produkte
@@ -22,14 +20,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18624"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues Crowdfunding
+  
 ---
 
-<strong>Könnt Ihr Euch noch an [Vegablum](/2017/04/veganer-honig-vegablum/)
-erinnern? Vor einiger Zeit hatte ich die Hersteller veganen Honigs hier im Blog
+**Könnt Ihr Euch noch an [Vegablum](/2017/04/veganer-honig-vegablum/) erinnern?
+Vor einiger Zeit hatte ich die Hersteller veganen Honigs hier im Blog
 vorgestellt. Auf ihrem Profil weisen sie jetzt auf ihre Freunde von der Veganica
 Bio Manufaktur hin. Auch sie haben was Leckeres für Euch und gerade ein
-Crowdfundig\* am laufen!</strong>
+Crowdfundig\* am laufen!**
 
 ![Veganica Biomanufaktur](http://cardamonchai.com/wp-content/uploads/2017/12/Veganica-300x150.jpg)
 
@@ -82,12 +83,11 @@ Das Startup gründete sich vor eineinhalb Jahren, seitdem arbeitet man mit
 Hochdruck daran, neue Geschmackswelten auf die Stullen deutscher Auftrichfans zu
 bringen. Gelingt die Finanzierung durch das Crowdfundig\*, gibt es vier Stufen.
 
-<ul>
-    <li>1. Stufe: Sicherung der Produktion weiterer Chargen, um größere Aufträge erfüllen zu können.</li>
-    <li>2. Stufe: Buchung von Messen für das Jahr 2018.</li>
-    <li>3. Stufe: Fertigstellung neuer Sorten für die Produktion.</li>
-    <li>4. Stufe: Ein Stand auf der Biofach-Messe.</li>
-</ul>
+- 1.  Stufe: Sicherung der Produktion weiterer Chargen, um größere Aufträge
+      erfüllen zu können.
+- 2.  Stufe: Buchung von Messen für das Jahr 2018.
+- 3.  Stufe: Fertigstellung neuer Sorten für die Produktion.
+- 4.  Stufe: Ein Stand auf der Biofach-Messe.
 
 ## Unterstützt die Veganica Biomanufaktur bis zum 15.12.!
 
@@ -114,3 +114,5 @@ werden die Sachen nämlich an die Unterstützer verschickt!
 
 Hier geht's zur [Homepage](https://www.my-veganica.world) der Veganica Bio
 Manufaktur
+
+  

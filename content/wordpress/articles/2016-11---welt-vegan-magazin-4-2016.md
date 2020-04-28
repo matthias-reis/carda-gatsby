@@ -4,12 +4,11 @@ seoTitle: Welt Vegan Magazin 4/2016 - Ratet mal, wer die neue Textchefin ist...
 slug: welt-vegan-magazin-42016-textchefin
 link: /2016/11/welt-vegan-magazin-42016-textchefin/
 fileName: 2016-11---welt-vegan-magazin-4-2016.md
-description:
-  Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab sofort in den
-  Regalen der Zeitschriftenläden. Ratet mal, wer die neue Textchefin ist.
-excerpt:
-  Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab sofort in den
-  Regalen der Zeitschriftenläden. Ratet mal, wer die neue Textchefin ist.
+description: Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab
+  sofort in den Regalen der Zeitschriftenläden. Ratet mal, wer die neue
+  Textchefin ist.
+excerpt: Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab sofort
+  in den Regalen der Zeitschriftenläden. Ratet mal, wer die neue Textchefin ist.
 focusKeyword: Textchefin
 labels:
   - Carmen Hercegfi
@@ -28,12 +27,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15367"
+image: /img/demo.jpg
+errors: []
 subTitle: Ratet mal, wer die neue Textchefin ist...
+  
 ---
 
 ![Textchefin](http://cardamonchai.com/wp-content/uploads/2016/11/31133773622_280b12ace6_z-640x427.jpg)
 
-<strong>
+**Das neue Welt Vegan Magazin ist da! Die Ausgabe 4/2016 liegt ab sofort in den
+Regalen der Zeitschriftenläden.**
 
 Als frisch gebackene Textchefin durfte ich sämtliche Artikel schon vor allen
 anderen lesen und ich verrate Euch schon mal so viel: Es ist jede Menge
@@ -62,8 +65,8 @@ Pascal Bueb mit von der Partie, es gibt einen exzellenten Beitrag von
 Ernährungsspezialist Niko Rittenau zum Thema Soja und jede Menge tolle
 winterliche Rezepte.
 
-<em>Natürlich ist das noch längst nicht alles, wer mehr wissen möchte, geht am
-besten gleich zum Kiosk!</em>
+_Natürlich ist das noch längst nicht alles, wer mehr wissen möchte, geht am
+besten gleich zum Kiosk!_
 
 Die Arbeit hat mir übrigens sehr großen Spaß gemacht, ich habe gemerkt, dass
 Redigieren echt mein Ding ist. Vor allem lernt man dabei auch, genauer zu sein.
@@ -77,13 +80,13 @@ ids="15368,15371,15369,15367,15370"]
 
 ## Wegweiser Welt Vegan Magazin
 
-<ol>
-    <li> [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/) </li>
-    <li> [3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"](/2015/05/das-neue-welt-vegan-magazin-ist-da/) </li>
-    <li> [5/2015 "Interview BUND" und "TTIP"](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/) </li>
-    <li> [6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"](/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/) </li>
-    <li> [1/2016 "Alge Vegan" und "Barnard Medical Centre"](/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/) </li>
-    <li> [2/2016 "Animal Rights Watch"](/2016/08/welt-vegan-magazin-22016/) </li>
-    <li> [3/2016 "Schmuggel bedrohter Arten"](/2016/09/thomas-d-im-welt-vegan-magazin/) </li>
-    <li>4/2016 "Wildtiere im Zirkus"</li>
-</ol>
+1.  [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
+1.  [3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"](/2015/05/das-neue-welt-vegan-magazin-ist-da/)
+1.  [5/2015 "Interview BUND" und "TTIP"](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/)
+1.  [6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"](/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/)
+1.  [1/2016 "Alge Vegan" und "Barnard Medical Centre"](/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/)
+1.  [2/2016 "Animal Rights Watch"](/2016/08/welt-vegan-magazin-22016/)
+1.  [3/2016 "Schmuggel bedrohter Arten"](/2016/09/thomas-d-im-welt-vegan-magazin/)
+1.  4/2016 "Wildtiere im Zirkus"
+
+  

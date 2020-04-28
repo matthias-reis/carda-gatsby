@@ -5,9 +5,8 @@ slug: zoologischer-garten
 link: /2013/01/zoologischer-garten/
 fileName: 2013-01---zoologischer-garten.md
 description: ""
-excerpt:
-  "Am 2. Januar war endlich mal wieder schönes Wetter und in den Winterurlaub
-  passt eins ja immer gut rein: Ein Besuch im Zoologischen Garten."
+excerpt: "Am 2. Januar war endlich mal wieder schönes Wetter und in den
+  Winterurlaub passt eins ja immer gut rein: Ein Besuch im Zoologischen Garten."
 focusKeyword: ""
 labels:
   - Ausflug
@@ -37,12 +36,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4755"
+image: /img/demo.jpg
+errors: []
 subTitle: Bildergalerie
+  
 ---
-
-<strong>Am 2. Januar war endlich mal wieder schönes Wetter und in den
-Winterurlaub passt eins ja immer gut rein: Ein Besuch im Zoologischen Garten.
-</strong>
 
 Zumal es dort mit einem Leopardenbaby auch erst vor Kurzem interessanten
 Nachwuchs gegeben hat. Außerdem habe ich zu Weihnachten ein neues Objektiv
@@ -57,3 +55,5 @@ Weg zurück ins Becken inzwischen gefunden.
 
 [gallery columns="1" size="medium" link="none" type="rectangular"
 ids="4724,4725,4726,4727,4728,4729,4730,4731,4732,4734,4735,4736,4737,4738,4739,4740,4741,4742,4743,4744,4745,4746,4747,4748,4749,4750,4751,4752,4753,4754,4755,4756,4757,4758"]
+
+  

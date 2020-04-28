@@ -4,12 +4,10 @@ seoTitle: DIY Upcycling Loopschal
 slug: diy-upcycling-loopschal
 link: /2015/11/diy-upcycling-loopschal/
 fileName: 2015-11---diy-upcycling-loopschal.md
-description:
-  Wie Ihr im Handumdrehen aus einer alten Strickjacke einen trendy Loopschal
-  machen könnt, zeige ich Euch heute in meiner Nähanleitung.
-excerpt:
-  Langsam wird es richtig winterlich draußen. Höchste Zeit für einen kuscheligen
-  Loopschal. Dazu braucht Ihr nur ein paar Kleinigkeiten aus Eurem
+description: Wie Ihr im Handumdrehen aus einer alten Strickjacke einen trendy
+  Loopschal machen könnt, zeige ich Euch heute in meiner Nähanleitung.
+excerpt: Langsam wird es richtig winterlich draußen. Höchste Zeit für einen
+  kuscheligen Loopschal. Dazu braucht Ihr nur ein paar Kleinigkeiten aus Eurem
   Kleiderschrank.
 focusKeyword: Loopschal
 labels:
@@ -27,21 +25,34 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13096"
+image: /img/demo.jpg
+errors: []
 subTitle: Kuschelig und angesagt
+  
 ---
 
 ![Mein neuer Loopschal](http://cardamonchai.com/wp-content/uploads/2015/11/22960728786_182ee19892_z-1-640x427.jpg "Mein neuer Loopschal")
 
-<strong>Langsam wird es richtig winterlich draußen. Höchste Zeit für einen
-kuscheligen Loopschal. Dazu braucht Ihr nur ein paar Kleinigkeiten aus Eurem
-Kleiderschrank.</strong>
+**Langsam wird es richtig winterlich draußen. Höchste Zeit für einen kuscheligen
+Loopschal. Dazu braucht Ihr nur ein paar Kleinigkeiten aus Eurem
+Kleiderschrank.**
 
 Habt Ihr auch noch so ein Strickjäckchen im Schrank hängen, dass Ihr nur noch
 nicht weggegeben habt, weil Euch die Farbe oder irgend ein anderes Detail so gut
 gefällt? Ihr zieht es aber nicht mehr an, weil es eigentlich schon aus der Mode
 gekommen ist oder sich einfach nicht mehr kombinieren lässt? Perfekt.
 
-## So entsteht Euer angesagter DIY Upcycling Loopschal
+## Das braucht Ihr:- Ausrangiertes Strickjäckchen
+
+- ca. 100 cm x 80 cm Stoff (Ich habe einen Vorhang aus unserer alten Wohnung
+  genommen)
+- Farblich passendes Nähgarn
+- Nähnadel
+- Stecknadeln oder Klammern
+- Nähmaschine
+- Stoffschere
+- Maßband _Hinweis: Für alle Nähte gilt: Bitte sauber verriegeln!_ ## So
+  entsteht Euer angesagter DIY Upcycling Loopschal
 
 Als Erstes schneidet Ihr die Ärmel und den Kragen knapp unter der Achselhöhle
 von Eurem Cardigan ab. Wenn Eure Jacke tailliert ist und nicht wie meine gerade
@@ -85,3 +96,5 @@ Fertig ist Euer neuer Loopschal! &lt;3
 
 Das nächste Mal zeige ich Euch, wie Ihr aus den Resten aus diesem Nähprojekt
 noch ein paar tolle Armstulpen herstellen könnt. Versprochen!
+
+  

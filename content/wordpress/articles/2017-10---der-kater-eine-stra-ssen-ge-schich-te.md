@@ -4,12 +4,12 @@ seoTitle: Der Kater - Kein verkehrter Kerl - Eine Geschichte von der Straße
 slug: der-kater-geschichte-von-der-strasse
 link: /2017/10/der-kater-geschichte-von-der-strasse/
 fileName: 2017-10---der-kater-eine-stra-ssen-ge-schich-te.md
-description:
-  Die Haudegen auf der Strandpromenade spielen einem jungen Kater übel mit. Sein
-  Leben ist alles andere als einfach. Doch dann begegnet er einem neuen Freund.
-excerpt:
-  Die Haudegen auf der Strandpromenade spielen einem jungen Kater übel mit. Sein
-  Leben ist alles andere als einfach. Doch dann begegnet er einem neuen Freund.
+description: Die Haudegen auf der Strandpromenade spielen einem jungen Kater
+  übel mit. Sein Leben ist alles andere als einfach. Doch dann begegnet er einem
+  neuen Freund.
+excerpt: Die Haudegen auf der Strandpromenade spielen einem jungen Kater übel
+  mit. Sein Leben ist alles andere als einfach. Doch dann begegnet er einem
+  neuen Freund.
 focusKeyword: Kater
 labels:
   - dankbar
@@ -29,24 +29,27 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17988"
+image: /img/demo.jpg
+errors: []
 subTitle: Kein verkehrter Kerl
+  
 ---
 
 <hr />
 
-<strong>Hinweis: </strong>Hin und wieder schreibe ich Kurzgeschichten. Ab und an
-landet auch eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit
-der in dieser Geschichte vorkommenden Figuren und Handlungen mit real
-existierenden Personen oder Vorkommnissen ist rein zufällig und in keiner Weise
-beabsichtigt. Die Geschichte ist frei erfunden.
+**Hinweis:** Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch
+eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in
+dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden
+Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt.
+Die Geschichte ist frei erfunden.
 
 <hr />
 
-<strong>Heute sitze ich hier auf den warmen Fliesen vor dem Hotel und lasse mir
-die Sonne auf den Pelz scheinen. Erst vorhin hatte ich ein reichhaltiges
-Frühstück mit Lachs, Käse, Reis und etwas Thunfisch. Es war so viel, dass ich
-sogar etwas für die alte graue Katze, die hier nachmittags immer kurz durch die
-Hecke schaut, übrig lassen konnte.</strong>
+**Heute sitze ich hier auf den warmen Fliesen vor dem Hotel und lasse mir die
+Sonne auf den Pelz scheinen. Erst vorhin hatte ich ein reichhaltiges Frühstück
+mit Lachs, Käse, Reis und etwas Thunfisch. Es war so viel, dass ich sogar etwas
+für die alte graue Katze, die hier nachmittags immer kurz durch die Hecke
+schaut, übrig lassen konnte.**
 
 Das war nicht immer so. Heute geht es mir wirklich gut. Ich führe, um ehrlich zu
 sein, ein Leben in Saus und Braus. Der Koch legt mir jeden Tag ein königliches
@@ -139,3 +142,5 @@ ausgebreitet hat, ein. Und erzählen uns unsere Geschichten von der Straße.
 
 Mein Interview mit Lani vom Katzentempel Hamburg
 [könnt Ihr hier lesen](/2017/08/katzentempel-hamburg-interview/).
+
+  

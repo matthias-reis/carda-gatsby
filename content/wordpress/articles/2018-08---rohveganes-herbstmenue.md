@@ -4,13 +4,11 @@ seoTitle: Rohveganes Herbstmenü - Buntes für die kühle Jahreszeit
 slug: rohveganes-herbstmenue
 link: /2018/08/rohveganes-herbstmenue/
 fileName: 2018-08---rohveganes-herbstmenue.md
-description:
-  Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir ein
-  rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
-excerpt:
-  Werbung, Anzeige & Affiliate Links - Lust auf etwas Buntes auf dem Teller? Ich
-  auch! Darum habe ich mir ein rohveganes Herbstmenü ausgedacht, bei dem es so
-  richtig farbenfroh wird!
+description: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir
+  ein rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
+excerpt: Werbung, Anzeige & Affiliate Links - Lust auf etwas Buntes auf dem
+  Teller? Ich auch! Darum habe ich mir ein rohveganes Herbstmenü ausgedacht, bei
+  dem es so richtig farbenfroh wird!
 focusKeyword: rohveganes
 labels:
   - Herbst
@@ -27,15 +25,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21912"
+image: /img/demo.jpg
+errors: []
 subTitle: Buntes für die kühle Jahreszeit
+  
 ---
 
-<em>Werbung, Anzeige &amp; Affiliate Links\*</em>
+_Werbung, Anzeige &amp; Affiliate Links\*_
 
-<strong>Hand aufs Herz: Wer hat schon mal etwas gegessen, weil es so schön bunt
-war? Das geht wohl so ziemlich jedem so, oder? Ich bekenne mich jedenfalls offen
+**Hand aufs Herz: Wer hat schon mal etwas gegessen, weil es so schön bunt war?
+Das geht wohl so ziemlich jedem so, oder? Ich bekenne mich jedenfalls offen
 dazu: Ich stehe auf farbenfrohes Essen. Farben machen eben glücklich. Das wusste
-schließlich auch schon Frederik die Maus.</strong>
+schließlich auch schon Frederik die Maus.**
 
 Jetzt, wo die Tage langsam aber sicher nach und nach wieder kürzer und grauer
 werden, sehnen wir uns nach Farbe. Da ist es auch ganz natürlich, zu bunten
@@ -51,7 +52,11 @@ steht kurz bevor.
 
 Wer das Experimentieren lieber den Profis überlässt, findet auch im Laden oder
 online herbstliche Schlemmereien. Wie wäre es zum Beispiel mit einer rohveganen
-[Blender](https://www.keimling.de/rohkost-walnussmus.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+[Walnusscreme](https://www.keimling.de/rohkost-walnussmus.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+? Die eignet sich toll als Brotaufstrich und zusammen mit ein paar
+[Mandelkernen](https://www.keimling.de/mandelkerne.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+ergibt sich im
+[Blender](https://www.keimling.de/vitamix-pro-750.html?acc=598b3e71ec378bd83e0a727608b5db01&bannerid=12&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 <script type="text/javascript" src="//www.keimling.de/js/magestore/affiliateplus/banner.php?id=12&account_id=502&store_id=1"></script>
 schon die Grundlage für einen schmackhaften Quiche-Teig:
 
@@ -61,29 +66,26 @@ schon die Grundlage für einen schmackhaften Quiche-Teig:
 
 #### Belag
 
-<ul>
-    <li>Gemüse nach Wahl wie zum Beispiel eine kleine Zucchini</li>
-    <li>1 Handvoll Petersilie oder andere frische Kräuter</li>
-    <li>Salz und Gewürze je nach Geschmack</li>
-</ul>
+- Gemüse nach Wahl wie zum Beispiel eine kleine Zucchini
+- 1 Handvoll Petersilie oder andere frische Kräuter
+- Salz und Gewürze je nach Geschmack
 
 #### Pesto
 
-<ul>
-    <li>3 frische Tomaten</li>
-    <li>3-4 getrocknete Tomaten</li>
-    <li>2 EL  [Olivenöl](https://www.keimling.de/vita-verde-olivenoel-peleponnes-bio.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
-    <li>1 Handvoll Walnüsse</li>
-</ul>
+- 3 frische Tomaten
+- 3-4 getrocknete Tomaten
+- 2 EL
+  [Olivenöl](https://www.keimling.de/vita-verde-olivenoel-peleponnes-bio.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+- 1 Handvoll Walnüsse
 
 #### Teig
 
-<ul>
-    <li>40 g  [Mandelkerne](https://www.keimling.de/mandelkerne.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
-    <li>60 g Leinsamen</li>
-    <li>150 g Sonnenblumenkerne</li>
-    <li>3 EL  [Walnussmus](https://www.keimling.de/rohkost-walnussmus.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
-</ul>
+- 40 g
+  [Mandelkerne](https://www.keimling.de/mandelkerne.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+- 60 g Leinsamen
+- 150 g Sonnenblumenkerne
+- 3 EL
+  [Walnussmus](https://www.keimling.de/rohkost-walnussmus.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 
 ### Zubereitung
 
@@ -104,20 +106,21 @@ Beilage reichen. Das bleibt ganz Euch überlassen.
 
 ### Zutaten
 
-<ul>
-    <li>1 kleine Salatgurke</li>
-    <li>3 Tomaten</li>
-    <li>1 Handvoll  [Buchweizenkeimlinge](https://www.keimling.de/rohkost-lebensmittel/rohkost-kueche.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
-    <li>1/2 Zitrone</li>
-    <li>2 EL  [Leinöl](https://www.keimling.de/catalogsearch/result/?q=Lein%C3%B6l&amp;acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
-    <li>1 TL Apfelessig</li>
-    <li>1 gelbe Paprika</li>
-    <li>4-5 Zwetschgen oder  [Trockenpflaumen](https://www.keimling.de/pflaumen-ohne-stein.html?acc=598b3e71ec378bd83e0a727608b5db01&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm) </li>
-    <li>1 Mohrmöhre</li>
-    <li>1 Handvoll Walnüsse</li>
-    <li>Pfeffer</li>
-    <li>1 Prise Rohrohrzucker</li>
-</ul>
+- 1 kleine Salatgurke
+- 3 Tomaten
+- 1 Handvoll
+  [Buchweizenkeimlinge](https://www.keimling.de/rohkost-lebensmittel/rohkost-kueche.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+- 1/2 Zitrone
+- 2 EL
+  [Leinöl](https://www.keimling.de/catalogsearch/result/?q=Lein%C3%B6l&acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+- 1 TL Apfelessig
+- 1 gelbe Paprika
+- 4-5 Zwetschgen oder
+  [Trockenpflaumen](https://www.keimling.de/pflaumen-ohne-stein.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
+- 1 Mohrmöhre
+- 1 Handvoll Walnüsse
+- Pfeffer
+- 1 Prise Rohrohrzucker
 
 ### Zubereitung
 
@@ -135,16 +138,14 @@ Als Nachtisch gibt es dann einen schmackhaften Obstsalat
 
 ### Zutaten
 
-<ul>
-    <li>1 Apfel</li>
-    <li>1/2 Zitrone</li>
-    <li>50 g Brombeeren</li>
-    <li>1/2 Zitrone</li>
-    <li>etwas Zimt</li>
-    <li>100 g Heidelbeeren</li>
-    <li>frische Minze</li>
-    <li>1 EL Kürbiskerne</li>
-</ul>
+- 1 Apfel
+- 1/2 Zitrone
+- 50 g Brombeeren
+- 1/2 Zitrone
+- etwas Zimt
+- 100 g Heidelbeeren
+- frische Minze
+- 1 EL Kürbiskerne
 
 ### Zubereitung
 
@@ -155,7 +156,7 @@ Den Apfel in feine Stückchen scheiden und sofort mit dem Saft der halben Zitron
 alles schön vermengen. Den Zimt unterheben und den Obstsalat im Kühlschrank
 ziehen lassen.
 
-<em>Fertig ist Euer rohveganes Herbstmenü! Guten Appetit!</em>
+_Fertig ist Euer rohveganes Herbstmenü! Guten Appetit!_
 
 Als Rohkost bezeichnet man Gerichte und Lebensmittel, die bei Temperaturen unter
 45 Grad zubereitet, beziehungsweise hergestellt werden. Nährstoffe und Vitamine
@@ -168,12 +169,14 @@ Lust auf was Warmes? Hier findet Ihr ein
 
 ![null](//www.keimling.de/js/magestore/affiliateplus/banner.php?id=167&account_id=502&store_id=1)
 
-<a href="https://www.keimling.de/catalogsearch/result/?q=Vitamix&amp;acc=598b3e71ec378bd83e0a727608b5db01&amp;bannerid=167&amp;utm_source=dynamic&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-programm" target="_blank" rel="nofollow noopener">
+[](https://www.keimling.de/catalogsearch/result/?q=Vitamix&acc=598b3e71ec378bd83e0a727608b5db01&bannerid=167&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung, eine Anzeige und Affiliate Links.
-Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung, eine Anzeige und Affiliate Links.
+  Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
 
 <small>Bild im Titel: [Sofia HM](https://pixabay.com/de/users/SofiaHM-8352739/),
 Pixabay, andere Bilder: von mir</small>
+
+  

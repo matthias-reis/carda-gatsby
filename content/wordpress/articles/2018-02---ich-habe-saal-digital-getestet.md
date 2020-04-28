@@ -4,11 +4,10 @@ seoTitle: Ich habe Saal Digital getestet - Endlich ein perfektes Wandbild
 slug: saal-digital
 link: /2018/02/saal-digital/
 fileName: 2018-02---ich-habe-saal-digital-getestet.md
-description:
-  Ich habe jetzt den Service von Saal Digital getestet und ein Wandbild aus
-  einem meiner Lieblingsfotos erstellen lassen. Hier mein Erfahrungsbericht.
-excerpt:
-  Werbung - Ich habe jetzt den Service von Saal Digital getestet und ein
+description: Ich habe jetzt den Service von Saal Digital getestet und ein
+  Wandbild aus einem meiner Lieblingsfotos erstellen lassen. Hier mein
+  Erfahrungsbericht.
+excerpt: Werbung - Ich habe jetzt den Service von Saal Digital getestet und ein
   Wandbild aus einem meiner Lieblingsfotos erstellen lassen. Hier mein
   Erfahrungsbericht.
 focusKeyword: Saal Digital
@@ -33,15 +32,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19843"
+image: /img/demo.jpg
+errors: []
 subTitle: Endlich ein perfektes Wandbild
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Schon sehr lange haben wir hin und her überlegt, wie wir diese eine
-kahle Wand in unserem Schlafzimmer verschönern könnten. Ein Bild malen? Einen
-Wandbehang kaufen? Irgendwann kam dann der Entschluss: Ein Urlaubsfoto richtig
-professionell ausdrucken lassen und aufhängen.</strong>
+**Schon sehr lange haben wir hin und her überlegt, wie wir diese eine kahle Wand
+in unserem Schlafzimmer verschönern könnten. Ein Bild malen? Einen Wandbehang
+kaufen? Irgendwann kam dann der Entschluss: Ein Urlaubsfoto richtig
+professionell ausdrucken lassen und aufhängen.**
 
 ![Saal Digital](http://cardamonchai.com/wp-content/uploads/2018/02/16261603421_1b513bf868_z-300x300.jpg "Das Originalbild")
 
@@ -135,6 +137,8 @@ umgesetzten Druck legt. Der schnelle Versand setzt noch eins obendrauf.
 Zur Homepage von Saal Digital geht es übrigens
 [hier entlang](https://www.saal-digital.de).
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,12 +4,10 @@ seoTitle: Vegane Zahnpasta von Happybrush - Mein Produkttest mit Life Hack
 slug: zahnpasta-von-happybrush
 link: /2018/03/zahnpasta-von-happybrush/
 fileName: 2018-03---vegane-zahnpasta-von-happybrush.md
-description:
-  Ich habe die vegane Zahnpasta von Happybrush getestet. Auf bedenkliche
-  Inhaltsstoffe und Mikroplastik wird bei ihrer Herstellung aus Prinzip
-  verzichtet.
-excerpt:
-  Werbung & Affiliate Link - Ich habe die vegane Zahnpasta von Happybrush
+description: Ich habe die vegane Zahnpasta von Happybrush getestet. Auf
+  bedenkliche Inhaltsstoffe und Mikroplastik wird bei ihrer Herstellung aus
+  Prinzip verzichtet.
+excerpt: Werbung & Affiliate Link - Ich habe die vegane Zahnpasta von Happybrush
   getestet. Auf bedenkliche Inhaltsstoffe und Mikroplastik wird bei ihrer
   Herstellung aus Prinzip verzichtet.
 focusKeyword: vegane Zahnpasta
@@ -31,19 +29,27 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19808"
+image: /img/demo.jpg
+errors: []
 subTitle: Produkttest und Lifehack
+  
 ---
 
-<em>Werbung &amp; Affiliate Link\*</em>
+_Werbung &amp; Affiliate Link\*_
 
-<strong>Vor einiger Zeit habe ich hier im Blog die
+**Vor einiger Zeit habe ich hier im Blog die
 [Schallzahnbürste von Happybrush vorgestellt](/2017/08/happybrush-der-ultimative-produkttest/).
 Seitdem hat sich einiges getan. Inzwischen gibt es nicht nur verschiedene
 Modelle der Happybrush. Das Startup hat auch verschiedene vegane Zahnpasten im
-Angebot.</strong>
+Angebot.**
 
 ![Vegane Zahnpasta von Happybrush](http://cardamonchai.com/wp-content/uploads/2018/02/39525964385_622dc2e8dc_z-300x200.jpg)
 
+Wenn sich einige jetzt fragen: Was kann denn an Zahnpasta nicht vegan sein?
+Herkömmlichen Zahnpasten wird beispielsweise Lactoferin zugesetzt. Dieser Stoff
+wird aus Kuhmilch gewonnen und soll angeblich Bakterien im Mund bekämpfen.
+Außerdem ist gerne mal Glycerin aus tierischen Fetten drin und auch
+[Bienenprodukte](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 finden Verwendung.
 
 ## Kein Gedöns
@@ -113,14 +119,15 @@ Inhaltsstoffe wird aus Überzeugung verzichtet.
 
 ![Vegane Zahnpasta von Happybrush](http://cardamonchai.com/wp-content/uploads/2018/02/39711209944_bf42962db3_z-300x200.jpg)
 
-. Mit dem Kauf einer Zahnbürste aus der Agua Blue Edition unterstützt man
-automatisch den Bau eines Brunnens in Äthiopien.
+Das neueste Projekt bei Happybrush: Brush For Water. Dabei handelt es sich um
+eine Kooperation mit **Viva Con Agua St. Pauli** . Mit dem Kauf einer Zahnbürste
+aus der Agua Blue Edition unterstützt man automatisch den Bau eines Brunnens in
+Äthiopien.
 
-Auf den Bildern seht Ihr übrigens einen kleinen <strong>Less Waste Life
-Hack</strong> von mir: Ich bringe eine Aktenklammer am oberen Rand der
-Zahnpastatube an. Wenn die Zahnpasta zur Neige geht, kann ich sie einrollen und
-auf diese Art bis auf das letzte Bisschen Zahnpasta leer machen. Nicht schlecht,
-oder?
+Auf den Bildern seht Ihr übrigens einen kleinen **Less Waste Life Hack** von
+mir: Ich bringe eine Aktenklammer am oberen Rand der Zahnpastatube an. Wenn die
+Zahnpasta zur Neige geht, kann ich sie einrollen und auf diese Art bis auf das
+letzte Bisschen Zahnpasta leer machen. Nicht schlecht, oder?
 
 [Hier findet Ihr meinen Testbericht zur Schallzahnbürste von Happybrush](/2017/08/happybrush-der-ultimative-produkttest/).
 
@@ -129,7 +136,9 @@ oder?
 Zur Homepage von Happybrush geht es
 [hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

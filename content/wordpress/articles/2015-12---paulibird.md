@@ -4,11 +4,10 @@ seoTitle: Paulibird - handgemachter Upcycling-Schmuck aus St. Pauli
 slug: paulibird
 link: /2015/12/paulibird/
 fileName: 2015-12---paulibird.md
-description:
-  "Bei Paulibird in Hamburg wird ganz individueller Schmuck hergestellt. Das
-  Material: Alte Skateboarddecks in Kombination mit Cellulose-Acetat."
-excerpt:
-  "Werbung - Bei Paulibird in Hamburg wird ganz individueller Schmuck
+description: "Bei Paulibird in Hamburg wird ganz individueller Schmuck
+  hergestellt. Das Material: Alte Skateboarddecks in Kombination mit
+  Cellulose-Acetat."
+excerpt: "Werbung - Bei Paulibird in Hamburg wird ganz individueller Schmuck
   hergestellt. Das Material: Alte Skateboarddecks in Kombination mit
   Cellulose-Acetat."
 focusKeyword: Paulibird
@@ -31,12 +30,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29046"
+image: /img/demo.jpg
+errors: []
 subTitle: Handgemachter Upcycling-Schmuck aus St. Pauli
+  
 ---
-
-<em>Werbung\*</em><strong>Upcycling ist derzeit überall schwer im Kommen. Bei
-Paulibird in Hamburg wird ganz individueller Schmuck hergestellt. Das Material:
-Alte Skateboarddecks in Kombination mit Cellulose-Acetat.</strong>
 
 Der Schmuckdesigner und Künstler Maurice Schadowske hat schon als Kind Brillen
 aus Acetat getragen. Während seiner Ausbildung zum Optiker lernte er das
@@ -83,6 +81,8 @@ aktuelle Fotos und Geschichten aus der Schmuckmanufaktur bietet die Paulibird
 Diesen Beitrag habe ich bereits am 10. Januar 2016 veröffentlicht. Da er jedoch
 nach wie vor aktuell ist, teile ich ihn heute erneut mit Euch.
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

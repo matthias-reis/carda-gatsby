@@ -4,12 +4,11 @@ seoTitle: DIY Upcycling Armstulpen
 slug: diy-upcycling-armstulpen
 link: /2015/11/diy-upcycling-armstulpen/
 fileName: 2015-11---diy-upcycling-armstulpen.md
-description:
-  Wie versprochen zeige ich Euch heute, wie Ihr mit ganz wenig Aufwand ein paar
-  tolle Armstulpen herstellen könnt
-excerpt:
-  Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal mit Euch
-  geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben würde.
+description: Wie versprochen zeige ich Euch heute, wie Ihr mit ganz wenig
+  Aufwand ein paar tolle Armstulpen herstellen könnt
+excerpt: Vor Kurzem hatte ich hier die Anleitung für einen hübschen Loopschal
+  mit Euch geteilt und Euch versprochen, dass es dazu auch noch Stulpen geben
+  würde.
 focusKeyword: Armstulpen
 labels:
   - Armstulpen
@@ -25,19 +24,26 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13111"
+image: /img/demo.jpg
+errors: []
 subTitle: Strick mit bunten Manschetten
+  
 ---
-
-![Meine neuen Armstulpen](http://cardamonchai.com/wp-content/uploads/2015/11/22800084930_be52abda5f_z.jpg)
-
-<strong>
 
 Denn schließlich ist ein warmer Puls am allerwichtigsten, wenn es draußen kalt
 und zugig wird. Mit dieser Methode könnt Ihr übrigens auch all Eure abgetragenen
 Sweatshirts aufwerten oder auch mal Ärmel verlängern, wenn Euch was im Trockner
 eingegangen ist.
 
-## So entstehen Eure brandneuen Armstulpen
+## Das braucht Ihr:- Den Rest der Strickjacke aus dem [Projekt Upcycling Loopschal](/2015/11/diy-upcycling-loopschal/)
+
+- Den Rest Stoff aus dem Projekt DIY Upcycling Loopschal
+- Passendes Nähgarn
+- Stecknadeln
+- Nähmaschine
+- Maßband
+- Stoffschere _Hinweis: Für alle Nähte gilt: Bitte sauber verriegeln!_ ## So
+  entstehen Eure brandneuen Armstulpen
 
 Schneidet die Ärmel ungefähr in der Mitte ab. Die obere Kante stülpt Ihr zwei
 Mal ca. 1 cm breit um und näht sie mit zwei parallelen Steppnähten rundherum
@@ -71,3 +77,5 @@ Fertig sind Eure neuen Armstulpen passend zum
 [winterlichen Loopschal](/2015/11/diy-upcycling-loopschal/). &lt;3
 
 [gallery type="rectangular" link="none" size="medium" ids="13112,13111,13115"]
+
+  

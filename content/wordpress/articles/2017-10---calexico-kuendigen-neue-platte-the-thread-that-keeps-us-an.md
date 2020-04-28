@@ -4,12 +4,12 @@ seoTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
 slug: calexico-the-thread-that-keeps-us
 link: /2017/10/calexico-the-thread-that-keeps-us/
 fileName: 2017-10---calexico-kuendigen-neue-platte-the-thread-that-keeps-us-an.md
-description:
-  Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps Us" ist
-  da. Und was soll man sagen? "End Of The World With You" macht Fans glücklich.
-excerpt:
-  Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps Us" ist
-  da. Und was soll man sagen? "End Of The World With You" macht Fans glücklich.
+description: Die erste Auskopplung der neuen Calexico Platte "The Thread That
+  Keeps Us" ist da. Und was soll man sagen? "End Of The World With You" macht
+  Fans glücklich.
+excerpt: Die erste Auskopplung der neuen Calexico Platte "The Thread That Keeps
+  Us" ist da. Und was soll man sagen? "End Of The World With You" macht Fans
+  glücklich.
 focusKeyword: The Thread That Keeps Us
 labels:
   - Bands & Reviews
@@ -37,14 +37,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18143"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (81:7)"
 subTitle: Auskopplung "End Of The World With You"
+  
 ---
 
-<strong><em>Calexico</em> habe ich als produktive Band kennengelernt. Kaum hatte
-man sich an den Gedanken gewöhnt, dass es wieder ein neues, geniales Album gibt,
-wurde auch schon wieder ein neues vorgestellt. Das ist auch jetzt wieder der
-Fall. In Kürze soll "The Thread That Keeps Us" in die Plattenregale einziehen.
-Die Vorab-Auskopplung "End Of The World With You" verspricht einiges.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (81:7)
+
+<!--
+**_Calexico_ habe ich als produktive Band kennengelernt. Kaum hatte man sich an
+den Gedanken gewöhnt, dass es wieder ein neues, geniales Album gibt, wurde auch
+schon wieder ein neues vorgestellt. Das ist auch jetzt wieder der Fall. In Kürze
+soll "The Thread That Keeps Us" in die Plattenregale einziehen. Die
+Vorab-Auskopplung "End Of The World With You" verspricht einiges.**
 
 ![End Of The World With You](http://cardamonchai.com/wp-content/uploads/2017/10/9917203896_a04e9ce147_k-300x199.jpg "Sänger und Gitarrist Joey Burns")
 
@@ -62,26 +70,25 @@ die Nachricht der ersten Vorauskopplung natürlich wie eine Bombe.
 
 "If you're curious and want to catch a glimpse, check out the first song "End Of
 The World With You.” Here's a video with lyrics featuring some stunning video
-footage filmed by our good friend Craig Schumacher from <em>WaveLab Recording
-Studio</em>\*\*  who came with us on our travels to studios from El Paso to the
-Northern California coast.", kündigt Joey weiter auf der <em>Calexico</em>
+footage filmed by our good friend Craig Schumacher from _WaveLab Recording
+Studio_ \*\*  who came with us on our travels to studios from El Paso to the
+Northern California coast.", kündigt Joey weiter auf der _Calexico_
 Facebook-Seite an.
 
 ![The Thread That Keeps Us](http://cardamonchai.com/wp-content/uploads/2017/10/The-Thread-That-Keeps-Us-300x300.jpg "So wird das neue Album aussehen")
 
 Neugierige können also schon einen ersten Einblick bekommen, indem sie sich den
 ersten Song "End Of The World With You" nicht nur anhören, sondern auch noch
-ansehen. Der mit der Band befreundete Craig Schumacher vom <em>WaveLab
-Studio</em> reiste mit an die Nordküste von Kalifornien, um dort ein Video mit
-der Band aufzunehmen. Bearbeitet wurde es von Jonny Sanders.
+ansehen. Der mit der Band befreundete Craig Schumacher vom _WaveLab Studio_
+reiste mit an die Nordküste von Kalifornien, um dort ein Video mit der Band
+aufzunehmen. Bearbeitet wurde es von Jonny Sanders.
 
-Inspirieren ließen sich <em>Calexico</em> von einigen von Joeys liebsten
-Indierock Bands, darunter <em>Pavement</em>, <em>Sebadoh</em> und <em>The
-Replacements</em>.
+Inspirieren ließen sich _Calexico_ von einigen von Joeys liebsten Indierock
+Bands, darunter _Pavement_ , _Sebadoh_ und _The Replacements_ .
 
 ## "The Thread That Keeps Us" ist das achte Album
 
-"The Thread That Keeps Us" wird das achte <em>Calexico</em> Album sein. Zuletzt
+"The Thread That Keeps Us" wird das achte _Calexico_ Album sein. Zuletzt
 erschien 2015 "[Edge Of The Sun](/2015/04/calexico-edge-of-the-sun-ist-da/)" .
 Die musikalische Geschichte der Musiker um Joey Burns ist abwechslungsreich und
 aufregend. Immer wieder treten sie mit talentierten Gastmusikern auf.
@@ -112,9 +119,9 @@ und runter. Ich würde mit dieser Band ans Ende der Welt gehen. Und noch weiter.
 Fans macht der Song somit schon mal glücklich.
 
 Ich bin schon sehr gespannt auf das Album im Januar und freue mich auf neue
-Inspirationen, Konzerte, Fotos und Geschichten mit <em>Calexico</em>. Mehr über
-die Band findet Ihr, wenn Ihr bis zum Ende dieses Artikels scrollt. Doch jetzt
-gibt es erst mal was auf die Ohren. Vorhang auf für
+Inspirationen, Konzerte, Fotos und Geschichten mit _Calexico_ . Mehr über die
+Band findet Ihr, wenn Ihr bis zum Ende dieses Artikels scrollt. Doch jetzt gibt
+es erst mal was auf die Ohren. Vorhang auf für
 
 ## End Of The World With You
 
@@ -143,23 +150,21 @@ to scatter all the myths Bring back a little piece of mind for you You gotta
 vantage point so we'll sit and watch the view At the edge of the end of the
 world</blockquote>
 
-<em>Die Fotos habe ich aufgenommen, das Album-Cover stammt aus iTunes.</em>
+_Die Fotos habe ich aufgenommen, das Album-Cover stammt aus iTunes._
 
 ## Calexico Wegweiser
 
-<ol>
-    <li> [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/) </li>
-    <li> [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/) </li>
-    <li> [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/) </li>
-    <li> [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/) </li>
-    <li> [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/) </li>
-    <li> [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/) </li>
-    <li> [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/) </li>
-    <li> [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/) </li>
-    <li> [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/) </li>
-    <li> [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/) </li>
-    <li>stellen neue Single "End Of The World With You vor</li>
-</ol>
+1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
+1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
+1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
+1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
+1.  [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/)
+1.  [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/)
+1.  [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/)
+1.  [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/)
+1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
+1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
+1.  stellen neue Single "End Of The World With You vor
 
 - [Hier könnt Ihr "The Thread That Keeps Us" vorbestellen](https://calexico.lnk.to/TheThreadThatKeepsUs).
 
@@ -167,3 +172,7 @@ world</blockquote>
 [WaveLab Recording Studio](https://www.facebook.com/WaveLab-Recording-Studio-157816907583478/)
 
 Hier findet Ihr die [Homepage](http://www.casadecalexico.com) von Calexico.
+
+-->
+
+  

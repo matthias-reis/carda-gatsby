@@ -1,16 +1,15 @@
 ---
 title: Kuhmilch immer unbeliebter
-seoTitle:
-  Kuhmilch immer unbeliebter - Markt für pflanzliche Alternativen nimmt zu
+seoTitle: Kuhmilch immer unbeliebter - Markt für pflanzliche Alternativen nimmt zu
 slug: kuhmilch-immer-unbeliebter
 link: /2018/03/kuhmilch-immer-unbeliebter/
 fileName: 2018-03---kuhmilch-immer-unbeliebter.md
-description:
-  Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das Interesse der
-  Amerikaner an Kuhmilch immer mehr ab. Und wie sieht es bei uns aus?
-excerpt:
-  Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das Interesse der
-  Amerikaner an Kuhmilch immer mehr ab. Und wie sieht es bei uns aus?
+description: Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das
+  Interesse der Amerikaner an Kuhmilch immer mehr ab. Und wie sieht es bei uns
+  aus?
+excerpt: Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das
+  Interesse der Amerikaner an Kuhmilch immer mehr ab. Und wie sieht es bei uns
+  aus?
 focusKeyword: Kuhmilch
 labels:
   - Albert Schweitzer Stiftung
@@ -34,12 +33,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20293"
+image: /img/demo.jpg
+errors: []
 subTitle: Markt für pflanzliche Alternativen nimmt zu
+  
 ---
 
-<strong>Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das
-Interesse der Amerikaner an Kuhmilch immer mehr ab. Mehr und mehr Menschen
-stellen fest, dass es ihnen ohne Milch besser geht und reagieren.</strong>
+**Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das Interesse der
+Amerikaner an Kuhmilch immer mehr ab. Mehr und mehr Menschen stellen fest, dass
+es ihnen ohne Milch besser geht und reagieren.**
 
 Die Lobbyarbeit der [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/)
 hat über Jahrzehnte für das glänzende Image von Kuhmilch gesorgt. So betrug der
@@ -136,5 +138,10 @@ Müttern getrennt werden.
 
 Quelle: Albert Schweitzer Stiftung
 [Link](https://albert-schweitzer-stiftung.de/aktuell/kuhmilch-auf-dem-us-markt-immer-unbeliebter?utm_source=nl18-13-14&utm_medium=email&utm_campaign=w-nl)
-<small>Titelbild: [stux](https://pixabay.com/de/users/Jan-Mallander-615621/),
-Pixabay</small>
+<small>Titelbild:
+[Jan-Mallander](https://pixabay.com/de/users/Jan-Mallander-615621/), Pixabay,
+quadratisches Bild:  [couleur](https://pixabay.com/de/users/Couleur-1195798/),
+Pixabay, Euter Textmitte: [Hans](https://pixabay.com/de/users/Hans-2/), Pixabay,
+Euter unten: [stux](https://pixabay.com/de/users/stux-12364/), Pixabay</small>
+
+  

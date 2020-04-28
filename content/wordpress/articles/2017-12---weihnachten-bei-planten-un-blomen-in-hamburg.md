@@ -4,12 +4,10 @@ seoTitle: Weihnachten bei Planten un Blomen - Zarte Blüten im Winterlicht
 slug: weihnachten-bei-planten-un-blomen
 link: /2017/12/weihnachten-bei-planten-un-blomen/
 fileName: 2017-12---weihnachten-bei-planten-un-blomen-in-hamburg.md
-description:
-  Zarte Blüten im Winterlicht zeigten sich uns bei unserem weihnachtlichen
-  Spaziergang die Hamburger Parkanlage Planten un Blomen.
-excerpt:
-  Zarte Blüten im Winterlicht zeigten sich uns bei unserem weihnachtlichen
-  Spaziergang die Hamburger Parkanlage Planten un Blomen.
+description: Zarte Blüten im Winterlicht zeigten sich uns bei unserem
+  weihnachtlichen Spaziergang die Hamburger Parkanlage Planten un Blomen.
+excerpt: Zarte Blüten im Winterlicht zeigten sich uns bei unserem
+  weihnachtlichen Spaziergang die Hamburger Parkanlage Planten un Blomen.
 focusKeyword: Planten un Blomen
 labels:
   - Ausflug
@@ -32,12 +30,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18723"
+image: /img/demo.jpg
+errors: []
 subTitle: Zarte Blüten im Winterlicht
+  
 ---
 
-<strong>Seit wir in Hamburg wohnen, ist unser Besuch bei Planten un Blomen am
-Heiligen Abend zu einer lieben Tradition geworden. Diese haben wir auch in
-diesem Jahr wieder gepflegt.</strong>
+**Seit wir in Hamburg wohnen, ist unser Besuch bei Planten un Blomen am Heiligen
+Abend zu einer lieben Tradition geworden. Diese haben wir auch in diesem Jahr
+wieder gepflegt.**
 
 Schon letztes Jahr habe ich Euch hier von unserem
 [weihnachtlichen Rundgang](/2016/01/bluetenpracht-im-winter/) durch den Park und
@@ -62,12 +63,12 @@ entspannt an und denkt auch
 
 ## Wegweiser Planten un Blomen
 
-<ol>
-    <li> [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/) <a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
-</a></li>
-    <li> [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/) </li>
-    <li> [Blütenpracht im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/) </li>
-    <li> [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/) </li>
-    <li> [1. Mai bei Planten und Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/) </li>
-    <li>Weihnachten bei Planten un Blomen (Dezember 2017)</li>
-</ol>
+1.  [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/)
+    [](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
+1.  [Ein Rundgang durch die Klimazonen (Januar 2016)](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
+1.  [Blütenpracht im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/)
+1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
+1.  [1. Mai bei Planten und Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/)
+1.  Weihnachten bei Planten un Blomen (Dezember 2017)
+
+  

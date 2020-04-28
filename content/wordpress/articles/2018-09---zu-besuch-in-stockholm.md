@@ -4,12 +4,10 @@ seoTitle: Zu Besuch in Stockholm - Sonne, Kunst und Geschichte
 slug: zu-besuch-in-stockholm
 link: /2018/09/zu-besuch-in-stockholm/
 fileName: 2018-09---zu-besuch-in-stockholm.md
-description:
-  Bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend blauen
-  Himmel genießen. Und wir haben einiges entdeckt.
-excerpt:
-  Bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend blauen
-  Himmel genießen. Und wir haben einiges entdeckt.
+description: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und
+  strahlend blauen Himmel genießen. Und wir haben einiges entdeckt.
+excerpt: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend
+  blauen Himmel genießen. Und wir haben einiges entdeckt.
 focusKeyword: Stockholm
 labels:
   - Bergung Vasa
@@ -46,13 +44,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21972"
+image: /img/demo.jpg
+errors: []
 subTitle: Sonne, Kunst und Geschichte
+  
 ---
 
-<strong>Während unserer Schwedenreise im Juni meinte es das Wetter wirklich gut
-mit uns. Auch bei unserem Besuch in Stockholm konnten wir Sonnenschein und
-strahlend blauen Himmel genießen. Man Fazit dieser Tour verrate ich Euch einfach
-schon mal als Erstes: Schade, dass ein Tag nur 24 Stunden hat!</strong>
+**Während unserer Schwedenreise im Juni meinte es das Wetter wirklich gut mit
+uns. Auch bei unserem Besuch in Stockholm konnten wir Sonnenschein und strahlend
+blauen Himmel genießen. Man Fazit dieser Tour verrate ich Euch einfach schon mal
+als Erstes: Schade, dass ein Tag nur 24 Stunden hat!**
 
 Auf den Spuren der Königsdynastie Vasa begaben wir uns auch ins gleichnamige
 Museum. Nach einer Wartezeit von etwa 15 Minuten bekamen wir die Gelegenheit,
@@ -154,3 +155,5 @@ Ihr seid neugierig geworden und wollte mehr über Schweden erfahren?
 
 Auch über Irland ist in meinem Blog vor Kurzem eine umfangreiche Reisereportage
 entstanden. Neugierig?  [Einfach mal hier klicken](/tag/irland2017/).
+
+  

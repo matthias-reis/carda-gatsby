@@ -4,12 +4,11 @@ seoTitle: Long Distance Calling @ Kulturkirche Altona - Post-Rock im Gotteshaus
 slug: long-distance-calling-kulturkirche-altona
 link: /2019/04/long-distance-calling-kulturkirche-altona/
 fileName: 2019-04---long-distance-calling-live-in-hamburg.md
-description:
-  Long Distance Calling haben am 6. April in der Kulturkirche Altona zum 10.
-  Geburtstag von "Avoid The Light" eine DVD aufgenommen. Wir waren dabei.
-excerpt:
-  Long Distance Calling haben am 6. April in der Kulturkirche Altona zum 10.
-  Geburtstag von "Avoid The Light" eine DVD aufgenommen. Wir waren dabei.
+description: Long Distance Calling haben am 6. April in der Kulturkirche Altona
+  zum 10. Geburtstag von "Avoid The Light" eine DVD aufgenommen. Wir waren
+  dabei.
+excerpt: Long Distance Calling haben am 6. April in der Kulturkirche Altona zum
+  10. Geburtstag von "Avoid The Light" eine DVD aufgenommen. Wir waren dabei.
 focusKeyword: Long Distance Calling
 labels:
   - Aaron Schrade
@@ -32,13 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23961"
+image: /img/demo.jpg
+errors: []
 subTitle: Post-Rock in der Kulturkirche Altona
+  
 ---
 
-<strong>Am 6. April stand ein Event der ganz besonderen Art an: Long Distance
-Calling spielten in der Hamburger Kulturkirche. Die Karten lagen schon eine
-ganze Weile bereit und wir waren mehr als gespannt, was uns wohl erwarten
-würde.</strong>
+**Am 6. April stand ein Event der ganz besonderen Art an: Long Distance Calling
+spielten in der Hamburger Kulturkirche. Die Karten lagen schon eine ganze Weile
+bereit und wir waren mehr als gespannt, was uns wohl erwarten würde.**
 
 Das letzte Mal war ich bei der Hochzeit meiner besten Freundin in einer Kirche.
 Ganz gepflegt auf dem
@@ -52,8 +53,10 @@ Geschehens, der gleich hier bei uns um die Ecke liegt, betraten.
 
 ![long-distance-calling](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-06-long-distance-calling-kulturkirche-altona-400x533.jpg)
 
-Konzert. Die Band hatte sich die Location nicht ohne Grund ausgesucht: An diesem
-Abend wurde das Videomaterial für eine neue DVD aufgenommen.
+Was uns gleich als Erstes auffiel, war die grandiose Akustik - wie gemacht für
+ein **Long Distance Calling** Konzert. Die Band hatte sich die Location nicht
+ohne Grund ausgesucht: An diesem Abend wurde das Videomaterial für eine neue DVD
+aufgenommen.
 
 Aus diesem Grund lief auch alles sehr geregelt ab. Zwei Stunden Konzert mit
 einer Viertelstunde Pause in der Mitte plus Zugabe. Dass in der Pause das Bier
@@ -62,10 +65,9 @@ diese, wird einem selten geboten, da ist die Getränkeauswahl definitiv
 Nebensache.
 
 Geladen hatten LDC ihre Gäste zum zehnten Geburtstag des legendären Albums
-<strong>"Avoid The Light"</strong>. Das Konzert fand im Rahmen einer kleinen
-Tournee mit drei bestuhlten Konzerten in der <strong>Kulturkirche
-Altona</strong>, im Scala Theater in Ludwigsburg und in der Kölner Kulturkirche
-statt.
+**"Avoid The Light"** . Das Konzert fand im Rahmen einer kleinen Tournee mit
+drei bestuhlten Konzerten in der **Kulturkirche Altona** , im Scala Theater in
+Ludwigsburg und in der Kölner Kulturkirche statt.
 
 ## Ein Bad in Licht und Sound
 
@@ -98,29 +100,25 @@ Setlist habe ich Euch auch mitgebracht.
 
 ## 1. Stunde
 
-<ol>
-    <li>Into The Black Wide Open</li>
-    <li>The Very Last Day</li>
-    <li>In The Clouds</li>
-    <li>Timebends</li>
-    <li>Like A River</li>
-    <li>On The Verge</li>
-    <li>Neues Stück</li>
-    <li>Out There</li>
-</ol>
+1.  Into The Black Wide Open
+1.  The Very Last Day
+1.  In The Clouds
+1.  Timebends
+1.  Like A River
+1.  On The Verge
+1.  Neues Stück
+1.  Out There
 
 <!--more-->
 
 ## 2. Stunde
 
-<ol>
-    <li>Apparitions</li>
-    <li>Black Paper Planes</li>
-    <li>359°</li>
-    <li>I Know You, Stanley Milgram!</li>
-    <li>Sundown Highway</li>
-    <li>Flux</li>
-</ol>
+1.  Apparitions
+1.  Black Paper Planes
+1.  359°
+1.  I Know You, Stanley Milgram!
+1.  Sundown Highway
+1.  Flux
 
 <!--more-->
 
@@ -129,3 +127,5 @@ Setlist habe ich Euch auch mitgebracht.
 Metulsky Curse Revisited
 
 [glry name="2019-04-06-long-distance-calling"]
+
+  

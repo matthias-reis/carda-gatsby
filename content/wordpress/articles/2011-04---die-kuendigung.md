@@ -4,12 +4,12 @@ seoTitle: Die Kündigung - Eine Kurzgeschichte aus dem Leben
 slug: die-kuendigung
 link: /2011/04/die-kuendigung/
 fileName: 2011-04---die-kuendigung.md
-description:
-  Seelisch war er bereits seit längerer Zeit auf die Kündigung vorbereitet. Man
-  hatte ihm in der letzten Zeit systematisch den Spaß an der Arbeit genommen.
-excerpt:
-  Seelisch war er bereits seit längerer Zeit auf die Kündigung vorbereitet. Man
-  hatte ihm in der letzten Zeit systematisch den Spaß an der Arbeit genommen.
+description: Seelisch war er bereits seit längerer Zeit auf die Kündigung
+  vorbereitet. Man hatte ihm in der letzten Zeit systematisch den Spaß an der
+  Arbeit genommen.
+excerpt: Seelisch war er bereits seit längerer Zeit auf die Kündigung
+  vorbereitet. Man hatte ihm in der letzten Zeit systematisch den Spaß an der
+  Arbeit genommen.
 focusKeyword: Die Kündigung
 labels:
   - Arbeit
@@ -26,12 +26,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "10464"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine Kurzgeschichte
+  
 ---
 
-<hr /><strong>Hinweis: </strong>Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt. Die Geschichte ist frei erfunden.
-
-<hr /><strong>Seelisch war er schon lange Zeit darauf vorbereitet. Es hatte alles damit angefangen, dass die kleine Firma, in der er von Anfang an dabei war, von einem dieser Konzernriesen aufgekauft worden war.</strong>
+<hr /> __Seelisch war er schon lange Zeit darauf vorbereitet. Es hatte alles damit angefangen, dass die kleine Firma, in der er von Anfang an dabei war, von einem dieser Konzernriesen aufgekauft worden war.__
 
 Seitdem hatte man ihm systematisch den Spaß an der Arbeit genommen. Zuvor hatte
 er immer alles selbstständig erarbeitet, durfte kreativ sein, eigene Ideen
@@ -186,3 +187,5 @@ Der Chef wurde nie wieder gesehen. Nur seine Mutter rief eine Zeit lang noch ab
 und zu an, um sich nach dem Verbleib ihres Sohnes zu erkundigen. Die
 Geschäftsleitung hatte schnell einen adäquaten Nachfolger gefunden. Männlich,
 29, vier Jahre Berufserfahrung.
+
+  

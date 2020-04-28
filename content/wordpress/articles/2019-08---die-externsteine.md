@@ -4,11 +4,9 @@ seoTitle: Die Externsteine - mysthisches Naturdenkmal im Teutoburger Wald
 slug: die-externsteine
 link: /2019/08/die-externsteine/
 fileName: 2019-08---die-externsteine.md
-description:
-  Kennt Ihr die Externsteine schon? Der Name steht für eine 40 Meter hohe
-  Felsformation im Teutoburger Wald. Wir haben sie uns angeschaut.
-excerpt:
-  Kennt Ihr die Externsteine schon? Der Name steht für eine 40 Meter hohe
+description: Kennt Ihr die Externsteine schon? Der Name steht für eine 40 Meter
+  hohe Felsformation im Teutoburger Wald. Wir haben sie uns angeschaut.
+excerpt: Kennt Ihr die Externsteine schon? Der Name steht für eine 40 Meter hohe
   Felsformation im Teutoburger Wald. Wir haben sie uns angeschaut.
 focusKeyword: Externsteine
 labels:
@@ -27,11 +25,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25404"
+image: /img/demo.jpg
+errors: []
 subTitle: Mystisches Naturdenkmal im Teutoburger Wald
+  
 ---
 
-<strong>Kennt Ihr die Externsteine schon? Der Name steht für eine 40 Meter hohe
-Felsformation im Teutoburger Wald. Wir haben sie uns angeschaut. </strong>
+**Kennt Ihr die Externsteine schon? Der Name steht für eine 40 Meter hohe
+Felsformation im Teutoburger Wald. Wir haben sie uns angeschaut.**
 
 Bei unserem [Bielefeld](/2019/07/bielefeld/) -Kurzurlaub hatten wir eine
 Wanderung mit Ausgangspunkt bei den Externsteinen geplant. Sie ragen bei
@@ -68,3 +69,5 @@ Buchenwäldern ab. Die Fauna des Teutoburger Waldes hält so einiges bereit.
 [glry name="externsteine2019anne"]
 
 Quelle: [externsteine-info.de](https://www.externsteine-info.de/)
+
+  

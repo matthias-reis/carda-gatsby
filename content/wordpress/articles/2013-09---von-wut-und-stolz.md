@@ -5,9 +5,8 @@ slug: von-wut-und-stolz
 link: /2013/09/von-wut-und-stolz/
 fileName: 2013-09---von-wut-und-stolz.md
 description: ""
-excerpt:
-  Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das bedeutet,
-  dass ich seit sieben Tagen nicht mehr geraucht habe.
+excerpt: Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das
+  bedeutet, dass ich seit sieben Tagen nicht mehr geraucht habe.
 focusKeyword: ""
 labels:
   - aufhören
@@ -26,14 +25,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7200"
+image: /img/demo.jpg
+errors: []
 subTitle: Die erste Etappe ist geschafft
+  
 ---
 
 ![Belohnung!](http://cardamonchai.files.wordpress.com/2013/09/9769518254_c7376914be_o.jpg?w=300 "Belohnung!")
 
-<strong>Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das
-bedeutet, dass ich seit sieben Tagen nicht mehr geraucht habe. Zeit für die
-erste Belohnung und für einen kleinen Rückblick. </strong>
+**Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das bedeutet,
+dass ich seit sieben Tagen nicht mehr geraucht habe. Zeit für die erste
+Belohnung und für einen kleinen Rückblick.**
 
 Was ich seit
 [letztem Montag um 13:30 Uhr](//2013/09/09/mein-pakt-mit-dem-schweinehund/)
@@ -56,7 +58,11 @@ Nachhinein betrachtet, schon ein Bisschen Auftrieb gegeben.
 ![Früchtetee statt Nikotinpflaster | full](http://cardamonchai.files.wordpress.com/2013/09/tc3bcren.jpg "Früchtetee statt Nikotinpflaster")
 
 Was mir bis heute geblieben ist:
-[Zwei Tage waren hart, danach hat es seltsamerweise nie wieder gekribbelt.](//2013/09/10/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/)"
+[Die Worte der Twitterer und RL-Freunde](//2013/09/10/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/),
+die mich am Dienstag erreichten (
+"[Der Trick ist, dich zu freuen, dass du nicht mehr rauchen musst!](https://twitter.com/Patoempf)"
+,
+"[Zwei Tage waren hart, danach hat es seltsamerweise nie wieder gekribbelt.](https://twitter.com/twittschicat)"
 ) laufen seitdem Mantra-artig auf meiner Kopf-Festplatte in Dauerschleife.
 
 Als es am Abend dann an die Organisation unseres anstehenden Umzuges ging, bei
@@ -153,6 +159,8 @@ sich jetzt "Six Feed Under" mit mir ankucken. Wehe, die Serie ist nicht so gut,
 wie der Schweinehund behauptet hat. Dann kann das wollige Ungetüm sich auf was
 gefasst machen.
 
-<em>Drückt mir die Daumen. Ich werde weiter berichten.</em>
+_Drückt mir die Daumen. Ich werde weiter berichten._
 
 [youtube=http://www.youtube.com/watch?v=3ME46q5Qujo&amp;w=640&amp;h=360]
+
+  

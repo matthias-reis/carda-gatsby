@@ -4,12 +4,12 @@ seoTitle: Schweigeminute für die Opfer in Norwegen
 slug: schweigeminute-fur-die-opfer-in-norwegen
 link: /2011/07/schweigeminute-fur-die-opfer-in-norwegen/
 fileName: 2011-07---schweigeminute-fuer-die-opfer-in-norwegen.md
-description:
-  Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich möchte nur
-  jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute einzulegen.
-excerpt:
-  Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich möchte nur
-  jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute einzulegen.
+description: Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich
+  möchte nur jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute
+  einzulegen.
+excerpt: Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich
+  möchte nur jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute
+  einzulegen.
 focusKeyword: Norwegen
 labels:
   - Angst
@@ -72,13 +72,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2212"
+image: /img/demo.jpg
+errors: []
 subTitle: In stillem Gedenken
+  
 ---
 
-![Foto: Anne 2009](http://cardamonchai.com/wp-content/uploads/2011/07/img_0036i-640x926.jpg)
 
-<strong>Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich
-möchte nur jeden, der auf dieser Seite vorbeikommt, darum bitten, eine kurze
-Schweigeminute für die Opfer der Attentate in Norwegen einzulegen. Zudem gibt es
-einen Link des Tages, der uns zu Denken geben
-sollte.</strong><a href="http://cardamonchai.com/wp-content/uploads/2011/07/img_0036i.jpg">
+  

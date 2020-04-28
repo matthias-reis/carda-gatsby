@@ -1,19 +1,16 @@
 ---
 title: Streetart und Schrebergarten
-seoTitle:
-  Streetart und Schrebergarten - Die Unbeschwerte auf der Laubentür - Eine
-  Kurzgeschichte
+seoTitle: Streetart und Schrebergarten - Die Unbeschwerte auf der Laubentür -
+  Eine Kurzgeschichte
 slug: streetart-und-schrebergarten
 link: /2017/10/streetart-und-schrebergarten/
 fileName: 2017-10---streetart-und-schrebergarten.md
-description:
-  Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für Gärten. Auch
-  Streetart fasziniert uns beide gleichermaßen. Er hat beides geschickt
-  verbunden.
-excerpt:
-  Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für tolle Gärten.
-  Auch Streetart fasziniert uns beide gleichermaßen. Ihm gelang es jetzt, beides
-  miteinander zu verbinden.
+description: Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für
+  Gärten. Auch Streetart fasziniert uns beide gleichermaßen. Er hat beides
+  geschickt verbunden.
+excerpt: Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für tolle
+  Gärten. Auch Streetart fasziniert uns beide gleichermaßen. Ihm gelang es
+  jetzt, beides miteinander zu verbinden.
 focusKeyword: Streetart
 labels:
   - Achtsamkeit
@@ -38,12 +35,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18051"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Unbeschwerte auf der Laubentür
+  
 ---
 
-<strong>Mit Björn vom Blog <em>Gartenbaukunst</em>\* teile ich nicht nur die
-Liebe für tolle Gärten. Auch Streetart fasziniert uns beide gleichermaßen. Ihm
-gelang jetzt der Geniestreich, beides miteinander zu verbinden.</strong>
+**Mit Björn vom Blog _Gartenbaukunst_ \* teile ich nicht nur die Liebe für tolle
+Gärten. Auch Streetart fasziniert uns beide gleichermaßen. Ihm gelang jetzt der
+Geniestreich, beides miteinander zu verbinden.**
 
 Die Idee dafür kam ihm, als er in einem Gartenbauverein eine Hütte entdeckte,
 die mit Graffitikunst verziert war. Seine Laube brauchte gerade einen frischen
@@ -52,31 +52,34 @@ annehmen würden.
 
 ## Man war sich gleich sympatisch
 
-Über Instagram schrieb er verschiedene Artists an. <em>art.leni</em>** und
-<em>de_ork</em>\*** fanden seinen Plan gut und machten mit. Man traf sich im
+Über Instagram schrieb er verschiedene Artists an. _art.leni_ ** und
+_de_ork_ \*** fanden seinen Plan gut und machten mit. Man traf sich im
 Schrebergarten, fand sich auf den ersten Blick sympatisch und es wurde nach
 Herzenslust gemalt.
 
 Nachdem das Gesamtkunstwerk in seiner Laube fertig war, kam ihm der Gedanke,
 über seinen Blog eine weitere Anfrage zu starten:
 
-<blockquote>"Meine Idee besteht darin, die Geschichten hinter den Bildern zu erzählen bzw. erzählen zu lassen. Im Prinzip möchte ich die Motive weiterreichen und durch Personen, die an deren Entstehung nicht beteiligt waren, mit einer individuellen Bedeutung oder dazugehörigen Geschichte versehen lassen."</blockquote>
+> "Meine Idee besteht darin, die Geschichten hinter den Bildern zu erzählen bzw.
+> erzählen zu lassen. Im Prinzip möchte ich die Motive weiterreichen und durch
+> Personen, die an deren Entstehung nicht beteiligt waren, mit einer
+> individuellen Bedeutung oder dazugehörigen Geschichte versehen lassen."
 
 Weil ich bei solchen Aktionen immer gerne dabei bin und ich es liebe, mir
 Geschichten zu Bildern auszudenken, meldete ich mich kurzerhand bei Björn.
 
 Das Motiv, über das ich meinen Kurztext verfasst habe, ist charakteristisch für
-<em>art.leni</em>. Man kann es so ähnlich überall in der Hansestadt finden. Die
-Farben durfte sich Björns dreijährige Tochter aussuchen. Auch der Familienhund
-wurde in das Bild übernommen.
+_art.leni_ . Man kann es so ähnlich überall in der Hansestadt finden. Die Farben
+durfte sich Björns dreijährige Tochter aussuchen. Auch der Familienhund wurde in
+das Bild übernommen.
 
 ## Streetart begeistert Björn schon immer
 
 Björn ist von Streetart begeistert, seit er das erste Mal welche gesehen hat.
-Sein Rücken und seine Oberarme ziert ein Bild, das von den
-<em>Zonenkindern</em>\*\*\*\* entworfen wurde. Sie arbeiten viel mit und in der
-Natur, was sie noch mehr mit Björn verbindet, der momentan übrigens selbst
-gerade an ein paar Stencil-Ideen arbeitet.
+Sein Rücken und seine Oberarme ziert ein Bild, das von den _Zonenkindern_
+\*\*\*\* entworfen wurde. Sie arbeiten viel mit und in der Natur, was sie noch
+mehr mit Björn verbindet, der momentan übrigens selbst gerade an ein paar
+Stencil-Ideen arbeitet.
 
 ## Die Unbeschwerte auf der Laubentür
 
@@ -199,8 +202,8 @@ Runde um den Block!"
 Im Laubengang auf dem Geländer sitzt eine Meise. Das Mädchen lächelt. Sie denkt
 an den Park und an ihre glückliche Mutter.
 
-<blockquote>"Mit dem Leben ist es wie mit einem Theaterstück; es kommt nicht darauf an, wie lang es ist, sondern wie bunt."
-Lucius Annaeus Seneca</blockquote>
+> "Mit dem Leben ist es wie mit einem Theaterstück; es kommt nicht darauf an,
+> wie lang es ist, sondern wie bunt." Lucius Annaeus Seneca
 
 \*Bei der Streetart-Session im Schrebergarten sind noch jede Menge andere tolle
 Bilder entstanden. Bewundern kann man sie
@@ -214,3 +217,5 @@ Bilder entstanden. Bewundern kann man sie
 Instagram vertreten.
 
 ![Streetart | full](http://cardamonchai.com/wp-content/uploads/2017/10/werkzeuge-960x515.jpg)
+
+  

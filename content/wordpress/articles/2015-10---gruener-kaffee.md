@@ -4,11 +4,10 @@ seoTitle: Grüner Kaffee - gesund und gut für die Figur
 slug: gruener-kaffee
 link: /2015/10/gruener-kaffee/
 fileName: 2015-10---gruener-kaffee.md
-description:
-  Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben
-  Forscher herausgefunden. Ein Portrait über das natürliche "Wundermittel".
-excerpt:
-  Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben
+description: Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das
+  haben Forscher herausgefunden. Ein Portrait über das natürliche
+  "Wundermittel".
+excerpt: Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben
   Forscher herausgefunden. Ein Portrait über das natürliche "Wundermittel".
 focusKeyword: grüner Kaffee
 labels:
@@ -22,12 +21,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28963"
+image: /img/demo.jpg
+errors: []
 subTitle: Gesund und gut für die Figur
+  
 ---
-
-<strong>Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das haben
-Forscher herausgefunden. Wer auf der Suche nach einem "Wundermittel" ist, sollte
-sich erstmal in der Natur umschauen.</strong>
 
 Tagtäglich kommen neue "Pillchen" auf den Markt, die angeblich Menschen dabei
 unterstützen sollen, ihr Wunschgewicht zu erreichen oder länger fit zu bleiben.
@@ -95,6 +93,11 @@ eine langfristige Wirkung zu erzielen. Beim Kauf eines Präparats sollte man
 daher auf seinen Gehalt achten. Vorsicht: Natürlich enthält der grüne Kaffee
 Koffein und kann bei zu hoher Dosierung zu Schlaflosigkeit führen.
 
-## Quellen<ul><li>"Grüner Kaffee" von Dr. Lydia Polwin-Plass, Infobroschüre</li><li>"Kaffee – Der gesunde Muntermacher" von Anita Heßmann-Kosaris, Mosaik Verlag</li><li>Wikipedia</li></ul>
+## Quellen- "Grüner Kaffee" von Dr. Lydia Polwin-Plass, Infobroschüre
+
+- "Kaffee – Der gesunde Muntermacher" von Anita Heßmann-Kosaris, Mosaik Verlag
+- Wikipedia
 
 Bild: [Pexels](https://pixabay.com/users/pexels-2286921/), Pixabay
+
+  

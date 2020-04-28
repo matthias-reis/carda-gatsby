@@ -4,12 +4,11 @@ seoTitle: Unser Dörrautomat - Neueste Errungenschaft in der Küche
 slug: doerrautomat
 link: /2017/08/doerrautomat/
 fileName: 2017-08---unser-doerrautomat.md
-description:
-  Ein Dörrautomat - Was ist das eigentlich? Ich habe mir jetzt selbst einen
-  zugelegt und lüfte das Geheimnis hiermit für Euch. Spannend, oder?
-excerpt:
-  Werbung - Ständig lese ich in online und in Rezeptbüchern über Dörrautomaten
-  und möchte schon lange selbst mal einen ausprobieren. Jetzt ist es soweit.
+description: Ein Dörrautomat - Was ist das eigentlich? Ich habe mir jetzt selbst
+  einen zugelegt und lüfte das Geheimnis hiermit für Euch. Spannend, oder?
+excerpt: Werbung - Ständig lese ich in online und in Rezeptbüchern über
+  Dörrautomaten und möchte schon lange selbst mal einen ausprobieren. Jetzt ist
+  es soweit.
 focusKeyword: Dörrautomat
 labels:
   - Beeren
@@ -38,15 +37,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17597"
+image: /img/demo.jpg
+errors: []
 subTitle: Neueste Errungenschaft in der Küche
+  
 ---
 
 Werbung\*
 
-<strong>Ständig lese ich online und in Rezeptbüchern über Dörrautomaten. Bei
-niedriger Temperatur getrocknetes Obst und Gemüse, das nicht nur schmackhaft
-ist, sondern obendrein auch noch bekömmlich und vitaminreich. Irgendwie klingt
-das doch ziemlich gut, oder?</strong>
+**Ständig lese ich online und in Rezeptbüchern über Dörrautomaten. Bei niedriger
+Temperatur getrocknetes Obst und Gemüse, das nicht nur schmackhaft ist, sondern
+obendrein auch noch bekömmlich und vitaminreich. Irgendwie klingt das doch
+ziemlich gut, oder?**
 
 Lange Zeit habe ich hin und her überlegt und mich schließlich doch meiner
 Neugierde ergeben. Ein Angebot bei Clas Ohlson hat es schließlich geschafft,
@@ -97,7 +99,9 @@ Dörrautomaten habt: Immer her damit! Ich probiere es gerne aus.
 [gallery size="medium" columns="4" link="none" type="rectangular"
 ids="17594,17599,17595,17597,17596,17598,17593"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall sogar
-selbst gekauft. Infos zum Thema Werbekennzeichnung in meinem Blogn findet Ihr
-auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall sogar selbst
+gekauft. Infos zum Thema Werbekennzeichnung in meinem Blogn findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+  

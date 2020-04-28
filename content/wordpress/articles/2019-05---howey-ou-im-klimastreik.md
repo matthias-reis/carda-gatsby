@@ -4,12 +4,12 @@ seoTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China
 slug: howey-ou-klimastreik
 link: /2019/05/howey-ou-klimastreik/
 fileName: 2019-05---howey-ou-im-klimastreik.md
-description:
-  "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für Aufmerksamkeit:
-  Howey Ou geht im chinesischen Guilin ganz alleine auf die Straße."
-excerpt:
-  "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für Aufmerksamkeit:
-  Howey Ou geht im chinesischen Guilin ganz alleine auf die Straße."
+description: "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für
+  Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die
+  Straße."
+excerpt: "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für
+  Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die
+  Straße."
 focusKeyword: howey ou
 labels:
   - fridays for future
@@ -26,22 +26,31 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24254"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <sub> (12:86)"
 subTitle: 16-jährige Schülerin demonstriert in China
+  
 ---
 
-<strong>Junge Menschen streiken derzeit weltweit für eine bessere Klimapolitik.
-Die Schwedin Greta Thunberg gilt als Vorreiterin der Bewegung. Jetzt sorgt
-wieder ein Mädchen für Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz
-alleine auf die Straße.</strong>
+## unknown: Expected corresponding JSX closing tag for <sub> (12:86)
+
+<!--
+**Junge Menschen streiken derzeit weltweit für eine bessere Klimapolitik. Die
+Schwedin Greta Thunberg gilt als Vorreiterin der Bewegung. Jetzt sorgt wieder
+ein Mädchen für Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz
+alleine auf die Straße.**
 
 Laut eigener Aussage will Howey so lange streiken, bis die chinesische Regierung
 ein eindeutiges Klimaversprechen macht. Das Land ist derzeit der größte CO<sub>2
 </sub> Verursacher weltweit. Sie fordert, dass alle Länder entsprechende
 Maßnahmen ergreifen.
 
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">I will keep doing Climate Strike everyday before I got next plan that maybe build international connections with some organizations then strengthen power outsides to insides .Hope all is well.Globally.</p>
-— Howey Ou (@howey_ou)  [May 24, 2019](https://twitter.com/howey_ou/status/1132004463311409153?ref_src=twsrc%5Etfw) </blockquote>
+> I will keep doing Climate Strike everyday before I got next plan that maybe
+> build international connections with some organizations then strengthen power
+> outsides to insides .Hope all is well.Globally. — Howey Ou (@howey_ou)
+> [May 24, 2019](https://twitter.com/howey_ou/status/1132004463311409153?ref_src=twsrc%5Etfw)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -49,9 +58,9 @@ Seit letztem Freitag befindet sich die Schülerin jetzt im Streik. Sie prangert
 an, dass China sich in der Debatte um den Klimaschutz bisher sehr bedeckt
 gehalten hat.
 
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">This is the Day 2 of School Striking for Climate.  [pic.twitter.com/5lEesOgX29](https://t.co/5lEesOgX29) </p>
-— Howey Ou (@howey_ou)  [May 27, 2019](https://twitter.com/howey_ou/status/1133082582004903939?ref_src=twsrc%5Etfw) </blockquote>
+> This is the Day 2 of School Striking for Climate.
+> [pic.twitter.com/5lEesOgX29](https://t.co/5lEesOgX29) — Howey Ou (@howey_ou)
+> [May 27, 2019](https://twitter.com/howey_ou/status/1133082582004903939?ref_src=twsrc%5Etfw)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -73,9 +82,12 @@ für das Klima demonstriert. "This is the first Climate Strike For Future in
 China Mainland" twitterte sie am 24. Mai. "Das ist der erste Klimastreik auf dem
 Chinesischen Festland."
 
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Actually,I haven’t been to the Guilin People’s Government before,it is big than I thought.And it has about 21 kilometers from my home.And I didn’t stay there long ,feel guilty to say. But I will keep on doing it everyday,till get next plan.Hope to have next development.I can wait  [pic.twitter.com/DAiEmlFkvo](https://t.co/DAiEmlFkvo) </p>
-— Howey Ou (@howey_ou)  [May 24, 2019](https://twitter.com/howey_ou/status/1131951492913541121?ref_src=twsrc%5Etfw) </blockquote>
+> Actually,I haven’t been to the Guilin People’s Government before,it is big
+> than I thought.And it has about 21 kilometers from my home.And I didn’t stay
+> there long ,feel guilty to say. But I will keep on doing it everyday,till get
+> next plan.Hope to have next development.I can wait
+> [pic.twitter.com/DAiEmlFkvo](https://t.co/DAiEmlFkvo) — Howey Ou (@howey_ou)
+> [May 24, 2019](https://twitter.com/howey_ou/status/1131951492913541121?ref_src=twsrc%5Etfw)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -95,7 +107,7 @@ Regierungsgebäude in Guilin zu postieren, das 21 Kilometer von ihrem Zuhause
 entfernt ist, zeigt mehr als nur Mut.
 
 <blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">The Day 3 of School Strike for Climate.If you don’t trust me ,look at the Chinese flag.</p>
+The Day 3 of School Strike for Climate.If you don’t trust me ,look at the Chinese flag.
 Thank you for all your support and the strikers who are panic.I have seen all your reviews carefully,though some of them I didn’t reply.
 
 Sorry! [pic.twitter.com/L0VU8uO6WY](https://t.co/L0VU8uO6WY)
@@ -117,3 +129,7 @@ Sorry! [pic.twitter.com/L0VU8uO6WY](https://t.co/L0VU8uO6WY)
 Howey Ou privat ( [Twitter](https://twitter.com/howey_ou) )
 
 &nbsp;
+
+-->
+
+  

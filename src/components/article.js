@@ -23,10 +23,14 @@ const Label = styled(Link)`
 `;
 
 export const Article = ({ children, meta }) => {
-  console.log(meta);
   return (
     <>
-      <Link to="/">〈 Homepage</Link>
+      <p>
+        <Link to="/">〈 Homepage</Link>
+      </p>
+      <p>
+        <a href={`https://cardamonchai.com${meta.link}`}>〉Cardamonchai now</a>
+      </p>
       <Title>{meta.title}</Title>
       {meta.subTitle && <Subtitle>{meta.subTitle}</Subtitle>}
       <ImageContainer>

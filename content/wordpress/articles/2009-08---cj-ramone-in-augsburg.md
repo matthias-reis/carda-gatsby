@@ -4,11 +4,9 @@ seoTitle: Punk in der Kantine mit Stargast CJ Ramone
 slug: punk-in-der-kantine-in-augsburg-mit-stargast-cj-ramone
 link: /2009/08/punk-in-der-kantine-in-augsburg-mit-stargast-cj-ramone/
 fileName: 2009-08---cj-ramone-in-augsburg.md
-description:
-  Am Dienstag gab sich Stargast CJ Ramone in der Kantine in Augsburg die Ehre
-excerpt:
-  Am Dienstag, 25. August war in der Kantine in Augsburg wieder Live-Musik
-  angesagt - CJ Ramone war zu Gast.
+description: Am Dienstag gab sich Stargast CJ Ramone in der Kantine in Augsburg die Ehre
+excerpt: Am Dienstag, 25. August war in der Kantine in Augsburg wieder
+  Live-Musik angesagt - CJ Ramone war zu Gast.
 focusKeyword: CJ Ramone
 labels:
   - Augsburg
@@ -22,13 +20,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11452"
+image: /img/demo.jpg
+errors: []
 subTitle: Stargast in der Kantine
+  
 ---
-
-![CJ Ramone](http://cardamonchai.com/wp-content/uploads/2009/08/9914432276_f7b8fc7051_z-640x480.jpg)
-
-<strong>Am Dienstag, 25. August war in der Kantine in Augsburg wieder Live-Musik
-angesagt.</strong><p id="articleContent"><strong>
 
 Zuerst spielte die Augsburger Legende General Seckler mit GEN N, danach die
 GUMBABIES.
@@ -43,4 +39,6 @@ und "I Wanna Be Sedated" zum besten gaben
 
 &nbsp;
 
-<strong></strong>
+---
+
+  

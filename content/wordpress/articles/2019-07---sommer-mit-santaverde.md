@@ -4,14 +4,12 @@ seoTitle: Sommer mit Santaverde - sanfte Pflege nach Wassersport und Sonnenbad
 slug: sommer-mit-santaverde
 link: /2019/07/sommer-mit-santaverde/
 fileName: 2019-07---sommer-mit-santaverde.md
-description:
-  "Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und
+description: "Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und
   Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
   fehlen."
-excerpt:
-  "Werbung - Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und
-  Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
-  fehlen."
+excerpt: "Werbung - Vor Kurzem ging es für uns in den Süden: Strand, Wellen,
+  Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte
+  natürlich nicht fehlen."
 focusKeyword: Pflege
 labels:
   - After Sun
@@ -30,32 +28,33 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25307"
+image: /img/demo.jpg
+errors: []
 subTitle: Sanfte Pflege nach Sonnenbad und Wassersport
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Vor Kurzem ging es für uns in den sonnigen Süden: Strand, Wellen, Sonne
-und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
-fehlen.</strong>
+**Vor Kurzem ging es für uns in den sonnigen Süden: Strand, Wellen, Sonne und
+Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
+fehlen.**
 
 <hr />
 
-<strong>Hinweis:</strong> Die <strong>Verlosung [](#1) </strong> findet Ihr im
-Anschluss an meinen Produkttest. Es lohnt sich natürlich dennoch, ihn zu lesen.
-Im Artikel könnt Ihr einiges über die von mir getesteten Produkte erfahren.
+**Hinweis:** Die **Verlosung [<sup>1</sup>](#1) ** findet Ihr im Anschluss an
+meinen Produkttest. Es lohnt sich natürlich dennoch, ihn zu lesen. Im Artikel
+könnt Ihr einiges über die von mir getesteten Produkte erfahren.
 
 <hr />
 
 Damit sich die Haut am Abend schön entspannen konnte, hatte ich ein paar Sachen
 von [Santaverde](/tag/santaverde/) im Gepäck
 
-<ul>
-    <li>Bodylotion Sensitive</li>
-    <li>Aloe Vera Gel Pur</li>
-    <li>Age Protect Cream</li>
-    <li>Age Protect Intensive Treatment Ampullenkur</li>
-</ul>
+- Bodylotion Sensitive
+- Aloe Vera Gel Pur
+- Age Protect Cream
+- Age Protect Intensive Treatment Ampullenkur
 
 Alle vier Produkte habe ich in den insgesamt 17 Tagen genauestens unter die Lupe
 genommen und ausprobiert. Bei im Durchschnitt 35 Grad (an zwei Tagen sogar
@@ -105,8 +104,8 @@ Morgen (was bei dicken Nachtcremes durchaus schon mal vorkommt) keine Spur.
 <small></small>
 
 Die Age Protect Cream ist ein Anti-Aging Produkt. Sie soll den Teint ebenmäßiger
-machen und das Hautbild glätten. Dafür sollen unter anderem <strong>Aloe Vera
-Blüten</strong> und Nachtkerzen- und Aprikosenöl sorgen.
+machen und das Hautbild glätten. Dafür sollen unter anderem **Aloe Vera Blüten**
+und Nachtkerzen- und Aprikosenöl sorgen.
 
 ### Inhaltsstoffe - Das steckt in der Age Protect Cream
 
@@ -174,11 +173,11 @@ biologischem Anbau</small>
 Insgesamt waren alle Produkte wirklich toll und haben sich im Test bewährt.
 Nichtmal die wirklich hohen Temperaturen konnten ihnen etwas anhaben und das
 obwohl sie völlig frei von synthetischen Duft- Farb- und Konservierungsstoffen
-sind. Alle Produkte von Santaverde sind vegan. Sie sind mit dem <strong>Leaping
-Bunny</strong> Siegel, dem Label der Vegan Society und dem Biosiegel
-ausgezeichnet. Das finde ich persönlich besonders gut, denn es gibt mir im
-Hinblick auf vegane und verträgliche Inhaltsstoffe sowie den Verzicht auf
-Tierversuche absolute Sicherheit.
+sind. Alle Produkte von Santaverde sind vegan. Sie sind mit dem **Leaping
+Bunny** Siegel, dem Label der Vegan Society und dem Biosiegel ausgezeichnet. Das
+finde ich persönlich besonders gut, denn es gibt mir im Hinblick auf vegane und
+verträgliche Inhaltsstoffe sowie den Verzicht auf Tierversuche absolute
+Sicherheit.
 
 Falls Ihr Euch das fragt: Ja, es gab tatsächlich einige Leute, die es sehr
 interessant fanden, mir dabei zuzuschauen, wie ich am ersten Abend über den
@@ -204,15 +203,15 @@ Deutschlands. Ich drücke Euch die Daumen!
 
 <hr />
 
-<strong>Hinweis:</strong> Die Aktion ist beendet.
+**Hinweis:** Die Aktion ist beendet.
 [Bestimmt findet irgendwann wieder eine tolle Verlosung statt](/tag/verlosung/).
 
 <hr />
 
 In Kürze zeige ich Euch hier im Blog, wo die Aloe Vera für die Santaverde
-Produkte angebaut werden. Ich war direkt vor Ort auf der <strong>Finka
-Santaverde</strong> und habe mich dort mit der lieben Carmen unterhalten und so
-einige Fotos gemacht. Bleibt also dran. Es bleibt auf alle Fälle spannend.
+Produkte angebaut werden. Ich war direkt vor Ort auf der **Finka Santaverde**
+und habe mich dort mit der lieben Carmen unterhalten und so einige Fotos
+gemacht. Bleibt also dran. Es bleibt auf alle Fälle spannend.
 
 [gallery type="rectangular" ids="25305,25303,25304,25314,25313"]
 
@@ -224,6 +223,8 @@ Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
 möchte,
 [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

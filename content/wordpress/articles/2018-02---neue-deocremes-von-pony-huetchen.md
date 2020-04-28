@@ -4,11 +4,10 @@ seoTitle: Neue Deocremes von Pony Hütchen - Beauty-Lieblinge im neuen Kleid
 slug: neue-deocremes-von-pony-huetchen
 link: /2018/02/neue-deocremes-von-pony-huetchen/
 fileName: 2018-02---neue-deocremes-von-pony-huetchen.md
-description:
-  Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes von
-  Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die ich getestet habe.
-excerpt:
-  Werbung - Was bei mir im Bad niemals fehlen darf, sind meine
+description: Was bei mir im Bad niemals fehlen darf, sind meine
+  Lieblings-Deocremes von Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die
+  ich getestet habe.
+excerpt: Werbung - Was bei mir im Bad niemals fehlen darf, sind meine
   Lieblings-Deocremes von Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die
   ich getestet habe.
 focusKeyword: Pony Hütchen
@@ -34,15 +33,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19473"
+image: /img/demo.jpg
+errors: []
 subTitle: Beauty-Lieblinge im neuen Kleid
+  
 ---
 
 Werbung\*
 
-<strong>Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes
-von [Pony Hütchen](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/). Jetzt
-gibt es davon eine Neuauflage, die ich auch Euch nicht vorenthalten
-möchte.</strong>
+**Was bei mir im Bad niemals fehlen darf, sind meine Lieblings-Deocremes von
+[Pony Hütchen](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/). Jetzt gibt
+es davon eine Neuauflage, die ich auch Euch nicht vorenthalten möchte.**
 
 Ich bin schon lange sehr glücklich mit meinen Pony Hütchen Deos und war daher
 sehr gespannt, was mich mit der Umstellung auf die neue Rezeptur erwarten würde.
@@ -74,7 +75,12 @@ ist unterwegs auf Festivals und Co. sicher sehr praktisch.
 
 ![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2018/02/40130850192_3ea14a607a_z-1-300x200.jpg)
 
-.
+Mit Gründerin
+[Hendrike](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)  hatte
+ich vor einiger Zeit in interessantes Interview. Ihr könnt es
+[hier im Blog nachlesen](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/).
+Auch meinen ersten Produkttest habe ich
+[hier veröffentlicht](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/).
 
 Der Produktionsort für alle Ponyhütchen Produkte ist Bad Zurzach in der Schweiz.
 Einen festen Standort inklusive Laden gibt es inzwischen auch in der
@@ -100,6 +106,8 @@ Katalog" kann Frau sich direkt bei Pony Hütchen bewerben.
 [gallery type="rectangular" link="none" size="large"
 ids="19478,19477,19476,19475,19474,19473,19472,19471,19470" orderby="rand"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

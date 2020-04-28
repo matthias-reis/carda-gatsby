@@ -4,11 +4,10 @@ seoTitle: Happy Cashew - "Wir legen Wert auf traditionelles Handwerk"
 slug: happy-cashew
 link: /2019/02/happy-cashew/
 fileName: 2019-02---happy-cashew.md
-description:
-  Heute möchte ich Euch die veganen Käse-, Joghurt- und Buttermilch-Alternativen
-  von "Happy Cashew" vorstellen. Hier kommt mein Produkttest.
-excerpt:
-  Werbung - Heute möchte ich Euch die Käse-, Joghurt- und
+description: Heute möchte ich Euch die veganen Käse-, Joghurt- und
+  Buttermilch-Alternativen von "Happy Cashew" vorstellen. Hier kommt mein
+  Produkttest.
+excerpt: Werbung - Heute möchte ich Euch die Käse-, Joghurt- und
   Buttermilch-Alternativen von "Happy Cashew" vorstellen. Ich habe sie selbst
   geteset und einiges über den Hersteller in Erfahrung gebracht.
 focusKeyword: Happy Cashew
@@ -31,14 +30,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23419"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Wir legen Wert auf traditionelles Handwerk"'
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Heute möchte ich Euch veganen die Käse-, Joghurt- und
-Buttermilch-Alternativen von "Happy Cashew" vorstellen. Ich habe sie selbst
-getestet und einiges über den Hersteller in Erfahrung gebracht.</strong>
+**Heute möchte ich Euch veganen die Käse-, Joghurt- und Buttermilch-Alternativen
+von "Happy Cashew" vorstellen. Ich habe sie selbst getestet und einiges über den
+Hersteller in Erfahrung gebracht.**
 
 Etwas, das aussieht, wie Camembert, so schmeckt, auf die selbe Weise hergestellt
 wird, aber ohne Kuhmilch auskommt - Ihr glaubt, das gibt es nicht? Bis vor
@@ -47,8 +49,8 @@ ausprobiert.
 
 ## Von "Happy Cheeze" zu "Happy Cashew" - eine vegane Erfolgsgeschichte
 
-Bei "Happy Cashew" handelt es sich um ein 2012 unter dem Namen "<strong>Happy
-Cheeze</strong>" gegründetes, veganes Unternehmen mit Sitz in
+Bei "Happy Cashew" handelt es sich um ein 2012 unter dem Namen " **Happy
+Cheeze** " gegründetes, veganes Unternehmen mit Sitz in
 [Cuxhaven](/2019/02/ein-hauch-von-fruehling-in-cuxhaven/). Die "Happy Cashew"
 Crew stellt Alternativen zu Kuhmilchprodukten her. Im Vordergrund stehen dabei
 der Geschmack und die hochwertigen Zutaten.
@@ -72,21 +74,19 @@ In der "Käsealternativerei" (ich glaube, "vegane Käserei" darf man nicht mehr
 sagen, danke lieber Gesetzgeber) werden ausschließlich Rohstoffe in Bio-Qualität
 verwendet. Die ungesättigten Fettsäuren, Vitamine, Mineralstoffe und natürlich
 der besondere Geschmack der Cashews machen die "Happy Cheeze" Produktpalette zu
-dem was sie ist. Der besondere Clou: <strong>Fermentation</strong> und ganz viel
-Zeit zum Reifen.
+dem was sie ist. Der besondere Clou: **Fermentation** und ganz viel Zeit zum
+Reifen.
 
 Die Reinheit ihrer Lebensmittel liegt den Happys besonders am Herzen. Darum
-stecken in allen Käse-, Buttermilch- und <strong>Joghurt-Alternativen</strong>
-ausschließlich Cashews, Wasser, Salz, <strong>vegane
-Fermentationskulturen</strong> sowie ausgewählte Kräuter und Gewürze. Hinzu
-kommt das Firmenversprechen, das man sich gegeben hat:
+stecken in allen Käse-, Buttermilch- und **Joghurt-Alternativen** ausschließlich
+Cashews, Wasser, Salz, **vegane Fermentationskulturen** sowie ausgewählte
+Kräuter und Gewürze. Hinzu kommt das Firmenversprechen, das man sich gegeben
+hat:
 
-<ul>
-    <li>"Glückliche Tiere - ohne tierische Zusätze. So blieben alle Tiere happy"</li>
-    <li>"Glückliche Zutaten - nachhaltig handeln. Bewusst genießen."</li>
-    <li>"Glückliche Zubereitung - mit viel Liebe in der Manufaktur hergestellt."</li>
-    <li>"Glücklicher Genuss - so bleiben Geist und Körper gesund und glücklich."</li>
-</ul>
+- "Glückliche Tiere - ohne tierische Zusätze. So blieben alle Tiere happy"
+- "Glückliche Zutaten - nachhaltig handeln. Bewusst genießen."
+- "Glückliche Zubereitung - mit viel Liebe in der Manufaktur hergestellt."
+- "Glücklicher Genuss - so bleiben Geist und Körper gesund und glücklich."
 
 ## Im März werden die Cashews ausgesucht
 
@@ -94,19 +94,19 @@ kommt das Firmenversprechen, das man sich gegeben hat:
 
 Auch beim Einkauf der Zutaten wird Wert auf Qualität gelegt. Jedes Jahr im März
 werden die Cashews für die nächsten 365 Tage ausgesucht. Gearbeitet wird mit
-Techniken aus der traditionellen <strong>Käseherstellung</strong> - fernab von
+Techniken aus der traditionellen **Käseherstellung** - fernab von
 Massenproduktion. Alle Sorten reifen bis zu einigen Wochen und werden in dieser
 Zeit jeden Tag geprüft.
 
 "So entstehen bei uns einzigartige Produte, die Körper und Seele nähren - echtes
 Soulfood eben.", heißt es auf der "Über-uns-Seite" von "Happy Cashew".
 
-2017 wagte sich das Team um Mudar in die Sendung "<strong>Die Höhle der
-Löwen</strong>". Im Ableger von "Dragons Den" bewerben sich Startups und
-Unternehmensgründer bei Investoren für Risikokapital, um das Wachstum ihrer
-Unternehmen zu fördern. In Mudars Fall Carsten Maschmeyer und Frank Thelen. Ein
-Deal kam dabei nicht zustande. Nach einigen Wochen der Beratung, entschied man
-sich dazu , weiter ohne die "Löwen" weiterzumachen.
+2017 wagte sich das Team um Mudar in die Sendung " **Die Höhle der Löwen** ". Im
+Ableger von "Dragons Den" bewerben sich Startups und Unternehmensgründer bei
+Investoren für Risikokapital, um das Wachstum ihrer Unternehmen zu fördern. In
+Mudars Fall Carsten Maschmeyer und Frank Thelen. Ein Deal kam dabei nicht
+zustande. Nach einigen Wochen der Beratung, entschied man sich dazu , weiter
+ohne die "Löwen" weiterzumachen.
 
 Die Begründung: "Unsere traditionell handwerkliche, vergleichsweise teure
 Herstellung und der hohe Preispunkt erschwerten die Skalierung."
@@ -116,31 +116,28 @@ wertvolle Kontakte für ihn her - inzwischen sind neue Investoren eingestiegen.
 
 ## "Happy Cashew" - mein Produkttest
 
-Und nun mal Margarine bei die Bananenblätter: Wie scheckt denn nun
-"<strong>Happy Cashew</strong>"? Moment, lasst mich noch kurz runterschlucken.
-Es geht gleich los, versprochen.
+Und nun mal Margarine bei die Bananenblätter: Wie scheckt denn nun " **Happy
+Cashew** "? Moment, lasst mich noch kurz runterschlucken. Es geht gleich los,
+versprochen.
 
 ### Probiert habe ich
 
-<ul>
-    <li>"Griechische Kräuter", gereift, 150 g</li>
-    <li>"Bärlauch, gereift, 100 g</li>
-    <li>"Kräuter der Provence", gereift, 150 g</li>
-    <li>"Happy White - der Edle", 150 g</li>
-    <li>"Cashewsan", 110 g</li>
-    <li>"Kräuter der Provence, frisch", 120 g</li>
-    <li>"Klassik Buddha Drink", 230 ml</li>
-    <li>"Erdbeere Buddha Drink", 230 ml</li>
-    <li>"Zitrone Buddha Drink", 230 ml</li>
-    <li>"KlassikCashewghurt", 125 g</li>
-    <li>"Mango Cashewghurt", 125 g</li>
-    <li>"Himbeere Cashewghurt", 125 g</li>
-    <li>"Heidelbeere Cashewghurt", 125 g</li>
-</ul>
+- "Griechische Kräuter", gereift, 150 g
+- "Bärlauch, gereift, 100 g
+- "Kräuter der Provence", gereift, 150 g
+- "Happy White - der Edle", 150 g
+- "Cashewsan", 110 g
+- "Kräuter der Provence, frisch", 120 g
+- "Klassik Buddha Drink", 230 ml
+- "Erdbeere Buddha Drink", 230 ml
+- "Zitrone Buddha Drink", 230 ml
+- "KlassikCashewghurt", 125 g
+- "Mango Cashewghurt", 125 g
+- "Himbeere Cashewghurt", 125 g
+- "Heidelbeere Cashewghurt", 125 g
 
-Wie Ihr seht, gibt es Frischkäse-Alternativen, gereifte
-<strong>Käse-Alternativen</strong>, Buttermilch-Alternativen und
-Joghurt-Alternativen. So viel zu den Fakten.
+Wie Ihr seht, gibt es Frischkäse-Alternativen, gereifte **Käse-Alternativen** ,
+Buttermilch-Alternativen und Joghurt-Alternativen. So viel zu den Fakten.
 
 Hmm! Und jetzt ans Eingemachte. Soll ich mit dem "Süßkram" anfangen, oder mit
 dem herzhaften Seelenfutter? Machen wir es wie beim Frühstück: Erst das Süße.
@@ -149,16 +146,15 @@ dem herzhaften Seelenfutter? Machen wir es wie beim Frühstück: Erst das Süße
 
 ![happy-cashew](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-08-happy-cashew-7-400x300.jpg 'Die Buttermilch-Alternativen von "Happy Cashew"')
 
-Was soll ich sagen: Matze und ich waren beide keine
-<strong>Buttermilch</strong>-Fans, bevor wir uns auf vegan umgestellt haben.
-Inzwischen ist daraus schon fast eine Abneigung geworden. Kann man das so
-nennen? Ja, ich denke schon. Umso überraschender war es für uns beide, als wir
-feststellten, dass uns die <strong>Buttermilch-Alternativen</strong> von "Happy
-Cashew" sehr wohl schmecken - und zwar sogar richtig gut! Die fruchtigen
-Varianten sind nicht nur ganz leicht süßlich und eine schöne Erfrischung für
-zwischendurch. Die klassische Variante habe ich als Grundlage für einen
-<strong>grünen Smoothie</strong> mit Babyspinat, Banane, Zitrone und Ingwer
-verwendet - auch das passte hervorragend.
+Was soll ich sagen: Matze und ich waren beide keine **Buttermilch** -Fans, bevor
+wir uns auf vegan umgestellt haben. Inzwischen ist daraus schon fast eine
+Abneigung geworden. Kann man das so nennen? Ja, ich denke schon. Umso
+überraschender war es für uns beide, als wir feststellten, dass uns die
+**Buttermilch-Alternativen** von "Happy Cashew" sehr wohl schmecken - und zwar
+sogar richtig gut! Die fruchtigen Varianten sind nicht nur ganz leicht süßlich
+und eine schöne Erfrischung für zwischendurch. Die klassische Variante habe ich
+als Grundlage für einen **grünen Smoothie** mit Babyspinat, Banane, Zitrone und
+Ingwer verwendet - auch das passte hervorragend.
 
 Was uns beiden auch sehr gut gefallen hat, sind die Joghurt-Alternativen. Sie
 sind nicht zu süß und der Fruchtgeschmack ist sehr natürlich. Unsere Favoriten
@@ -177,17 +173,17 @@ Zuerst getestet habe ich "Kräuter der Provence, frisch". Leider hat die
 Verpackung beim Transport ein bisschen gelitten, daher ist er auf den Bildern
 nicht zu sehen. Außerdem hatte ich beim Öffnen des Pakets ziemlichen Hunger.
 Niemals hungrig einkaufen? So ein Quatsch - niemals hungrig auspacken lautet die
-Devise! Die <strong>Frischkäse-Alternative</strong> im Töpfchen war so lecker,
-dass sie ruck zuck verputzt war. Ein Teil davon landete als Topping auf einer
-Bowl und der Rest in besagter Situation auf der Stulle. Und ich sage Euch eins:
-Der ist lecker! Die Kräuter schmecken ungelogen wie frisch aus dem Garten!
+Devise! Die **Frischkäse-Alternative** im Töpfchen war so lecker, dass sie ruck
+zuck verputzt war. Ein Teil davon landete als Topping auf einer Bowl und der
+Rest in besagter Situation auf der Stulle. Und ich sage Euch eins: Der ist
+lecker! Die Kräuter schmecken ungelogen wie frisch aus dem Garten!
 
-Die gereifte Version von "<strong>Kräuter der Provence</strong>" ist im
-Gegensatz zum Frischkäse herzhafter. Der Kräutergeschmack kommt vermutlich durch
-den Kontrast zur herben Komponente noch etwas intensiver raus. Was mir gut
-gefällt. Auch die Variationen "Griechische Kräuter" und "Bärlauch" munden mir
-sehr. Perfekt für eine tolle Schlemmer-Vesper oder opulente Kanapes auf der
-nächsten Cocktail-Sause!
+Die gereifte Version von " **Kräuter der Provence** " ist im Gegensatz zum
+Frischkäse herzhafter. Der Kräutergeschmack kommt vermutlich durch den Kontrast
+zur herben Komponente noch etwas intensiver raus. Was mir gut gefällt. Auch die
+Variationen "Griechische Kräuter" und "Bärlauch" munden mir sehr. Perfekt für
+eine tolle Schlemmer-Vesper oder opulente Kanapes auf der nächsten
+Cocktail-Sause!
 
 ## Cashewsan rockt mein Pasta!
 
@@ -206,7 +202,9 @@ Speiseplan. Ich würde mich freuen, wenn sie schon sehr bald flächendeckend
 überall zu bekommen wären. Bis dahin decke ich mich direkt über die
 [Webseite](https://www.happy-cheeze.com/unser-gesamtsortiment) ein.
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos
-zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
+_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
+Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner [Transparenz-Seite](/werbung/). </em>
+meiner [Transparenz-Seite](/werbung/). _
+
+  

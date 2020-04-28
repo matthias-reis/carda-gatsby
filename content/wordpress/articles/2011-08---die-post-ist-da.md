@@ -4,14 +4,12 @@ seoTitle: Die Post ist da - Mixtape-Tausch Teil 2
 slug: der-mixtape-tausch-2
 link: /2011/08/der-mixtape-tausch-2/
 fileName: 2011-08---die-post-ist-da.md
-description:
-  Die meisten Bands kannte ich noch nicht, also eine wunderbare Möglichkeit für
-  mich neue Musik kennen zu lernen und meinen musikalischen Horizont zu
-  erweitern.
-excerpt:
-  Die meisten Bands kannte ich noch nicht, also eine wunderbare Möglichkeit für
-  mich neue Musik kennen zu lernen und meinen musikalischen Horizont zu
-  erweitern.
+description: Die meisten Bands kannte ich noch nicht, also eine wunderbare
+  Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
+  Horizont zu erweitern.
+excerpt: Die meisten Bands kannte ich noch nicht, also eine wunderbare
+  Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
+  Horizont zu erweitern.
 focusKeyword: Mixtape
 labels:
   - ♥
@@ -65,15 +63,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2556"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (57:41)"
 subTitle: Der Mixtape-Tausch Teil 2
+  
 ---
 
-<strong> [](/2011/08/der-mixtape-tausch/) Erstmal ein ganz großes Dankeschön an
-Ginsberg für sein wunderbares Mixtape. Die Musik darauf trifft wirklich sehr
-genau meinen Geschmack. Die meisten Bands kannte ich noch nicht, also eine
-wunderbare Möglichkeit für mich neue Musik kennen zu lernen und meinen
-musikalischen Horizont zu erweitern.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (57:41)
 
+<!--
 Zusätzlich zu den 15 Songs, auf der Kassette, sowie auf 2 CDs (jeweils eine CD
 für jede Seite der Kassette), habe ich noch eine dritte CD mit dem Titel "Die
 Gescheiterten" erhalten, auf der sich neun Songs befinden, die bereits in der
@@ -158,105 +158,108 @@ Mixtape-Zeit!
 [gallery type="rectangular" link="none" size="medium"
 ids="2562,2561,2560,2559,2558,2557,2556,2555,2554,2553,2551,2549,2548,2547"]
 
-## Die Musik:### </em><strong> 1.) Yo La Tengo - The Story Of Yo La Tengo</strong>
+## Die Musik:### Seite A: _ \_\_\_\_ _ **1.) Yo La Tengo - The Story Of Yo La Tengo**
 
 [youtube=http://www.youtube.com/watch?v=IFrwgyrviTA]
 
-<strong>2.) Mark Lenegan - Hit The City</strong>
+**2.) Mark Lenegan - Hit The City**
 
 [youtube=http://www.youtube.com/watch?v=_xMvw9lCOBw]
 
-<strong>3.) The Walkmen - Blue As Your Blood</strong>
+**3.) The Walkmen - Blue As Your Blood**
 
 [youtube=http://www.youtube.com/watch?v=6BNt2Cm6Y2A]
 
-<strong>4.) Bombay Bicycle Club - Many Ways</strong>
+**4.) Bombay Bicycle Club - Many Ways**
 
 [youtube=http://www.youtube.com/watch?v=3Zv4s-JQJgQ&amp;playnext=1&amp;list=PL0B0E9714FDC2C976]
 
-<strong>5.) Bombay Bicycle Club - Swansea</strong>
+**5.) Bombay Bicycle Club - Swansea**
 
 [youtube=http://www.youtube.com/watch?v=neB1iZgr8DY]
 
-<strong>6.) The Beta Band - She´s The One</strong>
+**6.) The Beta Band - She´s The One**
 
 [youtube=http://www.youtube.com/watch?v=nqF5LEPzUBI]
 
-<strong>7.) The Walkmen - Candian Girl</strong>
+**7.) The Walkmen - Candian Girl**
 
 [youtube=http://www.youtube.com/watch?v=DPdfZlm4d-c]
 
-<strong>8.) Eels - Numbered Days </strong>(leider im Internet nicht auffindbar,
-ist auf dem Album "Jeannies Diary" zu finden)
+**8.) Eels - Numbered Days** (leider im Internet nicht auffindbar, ist auf dem
+Album "Jeannies Diary" zu finden)
 
-<strong>9.) Little Joy - Evaporar</strong>
+**9.) Little Joy - Evaporar**
 
 [youtube=http://www.youtube.com/watch?v=IWXTisH11-Y]
 
-#### Seite B<strong>10.) </strong><strong>Voxtrott - Indroduction</strong>
+#### Seite B **10.)** **Voxtrott - Indroduction**
 
 [youtube=http://www.youtube.com/watch?v=_nCpuHLGS8w]
 
-<strong>11.) The Leisure Society - A Fighting Chance</strong>
+**11.) The Leisure Society - A Fighting Chance**
 
 [youtube=http://www.youtube.com/watch?v=FWxy2upYAUk]
 
-<strong>12.) The Leisure Society - The Sleeper</strong>
+**12.) The Leisure Society - The Sleeper**
 
 [youtube=http://www.youtube.com/watch?v=KXdQX2SHqh4]
 
-<strong>13.) Gomez - You, Me And Everybody</strong>
+**13.) Gomez - You, Me And Everybody**
 
 [youtube=http://www.youtube.com/watch?v=nB0rg6nC344]
 
-<strong>14.) The Shins - Phantom Limb</strong>
+**14.) The Shins - Phantom Limb**
 
 [youtube=http://www.youtube.com/watch?v=wur50eO9iu8]
 
-<strong>15.) Ra Ra Riot - Too Too Too Fast</strong>
+**15.) Ra Ra Riot - Too Too Too Fast**
 
 [youtube=http://www.youtube.com/watch?v=smiE4slgGoM]
 
-<strong>16.) Voxtrot - The Start Of Something</strong>
+**16.) Voxtrot - The Start Of Something**
 
 [youtube=http://www.youtube.com/watch?v=PtWhB1JgZGc]
 
-<strong>17.) Guillemots - </strong><strong>São Paulo</strong>
+**17.) Guillemots -** **São Paulo**
 
 [youtube=http://www.youtube.com/watch?v=cGvSEgrx9BY]
 
-#### Die Gescheiterten:<strong>18.) The Beasty Boys - I Don´t Know</strong>
+#### Die Gescheiterten: **18.) The Beasty Boys - I Don´t Know**
 
 [youtube=http://www.youtube.com/watch?v=E-qFgw5i-zU]
 
-<strong>19.) Beulah - I´ll Be Your Lamphade </strong>(Leider im Internet nicht
-auffindbar, ist auf dem Album "The Coast Is Never Clean" zu finden)
+**19.) Beulah - I´ll Be Your Lamphade** (Leider im Internet nicht auffindbar,
+ist auf dem Album "The Coast Is Never Clean" zu finden)
 
-<strong>20.) Beulah - If We Can Land A Man On The Moon, Surely I Can Win Your
-Love ♥</strong>
+**20.) Beulah - If We Can Land A Man On The Moon, Surely I Can Win Your Love ♥**
 
 [youtube=http://www.youtube.com/watch?v=SZKFyxCB2Is&amp;list=FLaNjgTF8glhKXAJ-T3331qw&amp;index=33&amp;feature=plpp]
 
-<strong>21.) Caribou - Desiree</strong>
+**21.) Caribou - Desiree**
 
 [youtube=http://www.youtube.com/watch?v=QU48sW6zQYY]
 
-<strong>22.) The Veils - Wild Son</strong>
+**22.) The Veils - Wild Son**
 
 [youtube=http://www.youtube.com/watch?v=L1Dm22ziDBM]
 
-<strong>23.) Yo La Tengo - Deeper Into Movies</strong>
+**23.) Yo La Tengo - Deeper Into Movies**
 
 [youtube=http://www.youtube.com/watch?v=iCFWpb8YZJU]
 
-<strong>24.) The Pains Of Being Pure At Heart - Young Adult Friction</strong>
+**24.) The Pains Of Being Pure At Heart - Young Adult Friction**
 
 [youtube=http://www.youtube.com/watch?v=HxqAc7yfd6E]
 
-<strong>25.) Pete Yorn &amp; Scarlett Johansson - Relator</strong>
+**25.) Pete Yorn &amp; Scarlett Johansson - Relator**
 
 [youtube=http://www.youtube.com/watch?v=5ABMBJ9jT-w]
 
-<strong>26.) Prefab Sprout - Bonny</strong>
+**26.) Prefab Sprout - Bonny**
 
 [youtube=http://www.youtube.com/watch?v=zefR13phCKM]
+
+-->
+
+  

@@ -4,12 +4,12 @@ seoTitle: H&M startet Kampagne gegen Tierversuche und Mulesing
 slug: hm-baut-tierrechtsstandards-aus
 link: /2015/09/hm-baut-tierrechtsstandards-aus/
 fileName: 2015-09---h-und-m-baut-tierrechtsstandards-aus.md
-description:
-  In einer neugegründeten Partnerschaft mit der Humane Society International
-  (HSI) möchte H&M nun für das Wohl von Tieren in der Modeindustrie kämpfen.
-excerpt:
-  In einer neugegründeten Partnerschaft mit der Humane Society International
-  (HSI) möchte H&M nun für das Wohl von Tieren in der Modeindustrie kämpfen.
+description: In einer neugegründeten Partnerschaft mit der Humane Society
+  International (HSI) möchte H&M nun für das Wohl von Tieren in der
+  Modeindustrie kämpfen.
+excerpt: In einer neugegründeten Partnerschaft mit der Humane Society
+  International (HSI) möchte H&M nun für das Wohl von Tieren in der
+  Modeindustrie kämpfen.
 focusKeyword: h&m
 labels:
   - Greenwashing
@@ -22,7 +22,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28958"
+image: /img/demo.jpg
+errors: []
 subTitle: Konzern startet Kampagne gegen Tierversuche und Mulesing
+  
 ---
 
 In einer neugegründeten Partnerschaft mit der Humane Society International (HSI)
@@ -47,11 +50,18 @@ für die Verarbeitung von Wolle und Federn durchzusetzen und Praktiken wie
 Mulesing, Lebendrupf und Zwangsernährung, durch die die Tiere Höllenqualen
 erleiden müssen, verbieten zu lassen.
 
-<blockquote>"H&amp;M beweist mit dem Einsatz einen guten Führungsstil, indem der Konzern bereits existierende Tierrechtsstandards ausbaut und die Einführung von Zertifizierungen und Aufklärungsprogrammen unterstützt, die aktiv die Rechte von Tieren wie Schafen, Ziegen, Gänsen und Enten innerhalb der Modeindustrie stärken werden."</blockquote>
+> "H&amp;M beweist mit dem Einsatz einen guten Führungsstil, indem der Konzern
+> bereits existierende Tierrechtsstandards ausbaut und die Einführung von
+> Zertifizierungen und Aufklärungsprogrammen unterstützt, die aktiv die Rechte
+> von Tieren wie Schafen, Ziegen, Gänsen und Enten innerhalb der Modeindustrie
+> stärken werden."
 
 So die Direktorin des HSI Farm Animal Departments Chetana Mirle.
 
-<blockquote>"Unser Blick in die Zukunft ist zuversichtlich, wir freuen uns darauf, dafür zu sorgen, dass Praktiken wie Mulesing, die eine immense Qual für die Tiere bedeuten, schon sehr bald endgültig der Vergangenheit angehören werden."</blockquote>## Meinung
+> "Unser Blick in die Zukunft ist zuversichtlich, wir freuen uns darauf, dafür
+> zu sorgen, dass Praktiken wie Mulesing, die eine immense Qual für die Tiere
+> bedeuten, schon sehr bald endgültig der Vergangenheit angehören werden."##
+> Meinung
 
 Über den Konzern mag man denken, was man möchte. Gerade ob der neusten
 Schlagzeilen bezüglich der "recycelten" Jeans, bei der Kunden darum gebeten
@@ -98,3 +108,5 @@ nur einzelne Praktiken der Vergangenheit angehören werden.
 
 Bild: [16cocoparisienne](https://pixabay.com/users/cocoparisienne-127419/);
 Pixabay
+
+  

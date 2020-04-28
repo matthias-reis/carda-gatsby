@@ -4,12 +4,10 @@ seoTitle: Zwischen den Zeilen lesen - Prosa im Vorbeifahren
 slug: zwischen-den-zeilen-lesen
 link: /2011/07/zwischen-den-zeilen-lesen/
 fileName: 2011-07---zwischen-den-zeilen-lesen.md
-description:
-  Manchmal muss man einfach rechts blinken und links abbiegen. Würdest du jetzt
-  im Bus sitzen, würdest du das alles aufschreiben.
-excerpt:
-  Manchmal muss man einfach rechts blinken und links abbiegen. Würdest du jetzt
-  im Bus sitzen, würdest du das alles aufschreiben.
+description: Manchmal muss man einfach rechts blinken und links abbiegen.
+  Würdest du jetzt im Bus sitzen, würdest du das alles aufschreiben.
+excerpt: Manchmal muss man einfach rechts blinken und links abbiegen. Würdest du
+  jetzt im Bus sitzen, würdest du das alles aufschreiben.
 focusKeyword: ""
 labels:
   - abbiegen
@@ -45,7 +43,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2223"
+image: /img/demo.jpg
+errors: []
 subTitle: Prosa im Vorbeifahren
+  
 ---
 
 Auf Höhe der Turbinenfabrik riecht es nach Ruß. Wie jeden Tag.
@@ -64,3 +65,5 @@ irgendjemand, der dich zwingt, die Rote zu essen. Die Giftige. Die bittere
 Pille. Nur selten kannst du wirklich frei entscheiden.
 
 Und du stellst fest: Heute ist so ein Tag.
+
+  

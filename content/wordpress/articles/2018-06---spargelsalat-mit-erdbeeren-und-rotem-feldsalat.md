@@ -4,11 +4,9 @@ seoTitle: Spargelsalat mit Erdbeeren und rotem Feldsalat - Rezept für 2 Persone
 slug: spargelsalat-mit-erdbeeren
 link: /2018/06/spargelsalat-mit-erdbeeren/
 fileName: 2018-06---spargelsalat-mit-erdbeeren-und-rotem-feldsalat.md
-description:
-  Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den
-  Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
-excerpt:
-  Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den
+description: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch.
+  Den Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
+excerpt: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den
   Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
 focusKeyword: Spargelsalat
 labels:
@@ -30,12 +28,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21155"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezept für zwei Personen
+  
 ---
 
-<strong>Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den
+**Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch. Den
 Spargelsalat hat sich Matze vor Kurzem ausgedacht. Er ist wunderbar aromatisch
-und einfach perfekt für warme Hochsommerabende.</strong>
+und einfach perfekt für warme Hochsommerabende.**
 
 Den Spargel bereitet Ihr vor, indem ihr ihn im Ofen gart. Wie das geht, wissen
 einige von Euch schon aus meinem
@@ -44,21 +45,19 @@ Natürlich verrate ich es Euch es hier aber auch noch mal.
 
 ## Zutaten
 
-<ul>
-    <li>800 g - 1 kg Spargel</li>
-    <li>250 g Erdbeeren</li>
-    <li>200 g roter Feldsalat</li>
-    <li>200 g Räuchertofu</li>
-    <li>3 EL Olivenöl</li>
-    <li>4 EL Balsamicoessig</li>
-    <li>1 gehäufter TL Senf</li>
-    <li>Pfeffer</li>
-    <li>Salz</li>
-    <li>frische Minze</li>
-    <li>Nüsse oder Samen</li>
-    <li>1 Zitrone</li>
-    <li>Margarine</li>
-</ul>
+- 800 g - 1 kg Spargel
+- 250 g Erdbeeren
+- 200 g roter Feldsalat
+- 200 g Räuchertofu
+- 3 EL Olivenöl
+- 4 EL Balsamicoessig
+- 1 gehäufter TL Senf
+- Pfeffer
+- Salz
+- frische Minze
+- Nüsse oder Samen
+- 1 Zitrone
+- Margarine
 
 ## Zubereitung
 
@@ -91,3 +90,5 @@ Dazu passt zum Beispiel gut ein schönes kaltes
 [Alsterwasser](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
 
 Matze &amp; Anne wünschen guten Appetit! &lt;3
+
+  

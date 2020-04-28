@@ -4,12 +4,10 @@ seoTitle: Tarifa im Sommer - Erinnerung an Andalusien
 slug: tarifa-im-sommer
 link: /2020/04/tarifa-im-sommer/
 fileName: 2020-04---tarifa-im-sommer.md
-description:
-  In Tarifa habe ich einige der entspanntesten Stunden meines ganzen Lebens
-  verbracht. Wenn ich mich heute daran erinnere, geht es mir gut.
-excerpt:
-  In Tarifa habe ich einige der entspanntesten Stunden meines ganzen Lebens
-  verbracht. Wenn ich mich heute daran erinnere, geht es mir gut.
+description: In Tarifa habe ich einige der entspanntesten Stunden meines ganzen
+  Lebens verbracht. Wenn ich mich heute daran erinnere, geht es mir gut.
+excerpt: In Tarifa habe ich einige der entspanntesten Stunden meines ganzen
+  Lebens verbracht. Wenn ich mich heute daran erinnere, geht es mir gut.
 focusKeyword: Tarifa
 labels:
   - Andalusien
@@ -36,13 +34,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28932"
+image: /img/demo.jpg
+errors: []
 subTitle: Erinnerung an Andalusien
+  
 ---
 
-<strong>Als wir letzten Sommer unsere Tour durch Südspanien gemacht haben, haben
-wir auch das wunderbare Tarifa besucht. Dort habe ich einige der entspanntesten
+**Als wir letzten Sommer unsere Tour durch Südspanien gemacht haben, haben wir
+auch das wunderbare Tarifa besucht. Dort habe ich einige der entspanntesten
 Stunden meines ganzen Lebens verbracht. Wenn ich heute daran denke, geht es mir
-gut.</strong>
+gut.**
 
 Die schönsten Erinnerungen sind die, von denen man lange zehren kann. Die an
 Andalusien ist für mich eine davon. Besonders Tarifa hat es mir mit seinem
@@ -66,3 +67,5 @@ Punkt von Europa an der engsten Stelle der Straße von Gibraltar. Für Surfer,
 Kitsurfer, Wellenreiter und Wanderer ist Tarifa ein echter Hotspot.
 
 [glry name="tarifa2019"]
+
+  

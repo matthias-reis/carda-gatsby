@@ -4,9 +4,9 @@ seoTitle: Arbeitsplatz in Hamburg gesucht - Redakteurin / Texterin
 slug: arbeitsplatz-in-hamburg-gesucht
 link: /2015/09/arbeitsplatz-in-hamburg-gesucht/
 fileName: 2015-09---arbeitsplatz-in-hamburg-gesucht.md
-description:
-  Heute wende ich mich in eigener Sache an Euch. Ich bin auf der Suche nach
-  einem Arbeitsplatz als Content Managerin/Texterin/Redakteurin in Hamburg.
+description: Heute wende ich mich in eigener Sache an Euch. Ich bin auf der
+  Suche nach einem Arbeitsplatz als Content Managerin/Texterin/Redakteurin in
+  Hamburg.
 excerpt: "\n               \ \n            "
 focusKeyword: Arbeitsplatz
 labels:
@@ -27,14 +27,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12475"
+image: /img/demo.jpg
+errors: []
 subTitle: Content Managerin / Online Redakteurin / Texterin - ab sofort
+  
 ---
 
 ![Arbeit gesucht](http://cardamonchai.com/wp-content/uploads/2015/09/Bewerbung-3-2-640x435.jpg "Arbeit gesucht")
 
-<strong>Heute wende ich mich mal in eigener Sache an Euch. Bereits seit längerer
-Zeit bin ich auf der Suche nach einem Job. Genauer gesagt: Einer Festanstellung
-als Content Managerin, Online-Redakteurin oder Texterin in Hamburg.</strong>
+**Heute wende ich mich mal in eigener Sache an Euch. Bereits seit längerer Zeit
+bin ich auf der Suche nach einem Job. Genauer gesagt: Einer Festanstellung als
+Content Managerin, Online-Redakteurin oder Texterin in Hamburg.**
 
 Ich hatte auch bereits einige Vorstellungsgespräche, doch leider scheint es
 wieder an einem Punkt zu scheitern: Meinem Lebenslauf. Ich habe nämlich seit
@@ -132,3 +135,5 @@ Wer sich für meine Bewerbungsunterlagen interessiert, kann diese ganz einfach
 [hier per E-Mail](mailto:anne.reis@cardamonchai.com) anfordern.
 
 Anne / August 2015
+
+  

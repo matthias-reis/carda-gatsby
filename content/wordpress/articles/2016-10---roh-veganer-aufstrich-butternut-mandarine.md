@@ -4,12 +4,12 @@ seoTitle: Butternut Kürbis Mandarine Aufstrich roh-vegan - Rezept
 slug: butternut-kuerbis-mandarine-aufstrich-roh-vegan
 link: /2016/10/butternut-kuerbis-mandarine-aufstrich-roh-vegan/
 fileName: 2016-10---roh-veganer-aufstrich-butternut-mandarine.md
-description:
-  Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch gewünscht,
-  mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr bekommen.
-excerpt:
-  Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch gewünscht,
-  mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr bekommen.
+description: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch
+  gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr
+  bekommen.
+excerpt: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch
+  gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr
+  bekommen.
 focusKeyword: Butternut
 labels:
   - Butternuss
@@ -25,25 +25,29 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15300"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezept für ein Glas
+  
 ---
 
-<strong>Ihr habt mir geschrieben und wollt mein Rezept für roh-veganen Aufstrich
-Butternut-Mandarine. Der Bitte komme ich hiermit nach.</strong>
+**Ihr habt mir geschrieben und wollt mein Rezept für roh-veganen Aufstrich
+Butternut-Mandarine. Der Bitte komme ich hiermit nach.**
 
 Schon vor einer Weile habe ich Euch hier im Blog gezeigt, wie man
-[Aufstrich](/2014/09/butternusskurbis-aus-dem-ofen/) verwenden.
+[Butternut-Kürbis](/2014/09/butternusskurbis-aus-dem-ofen/) toll zubereiten
+kann. Die Kerne, die dabei ausgestochen werden und übrig bleiben, könnt Ihr für
+diesen tollen, herbstlichen
+[Aufstrich](/2015/09/diy-paranuss-tomaten-brotaufstrich/) verwenden.
 
 ## Zutaten
 
-<ul>
-    <li>Kerne von einem mittelgroßen Butternut-Kürbis</li>
-    <li>1 Handvoll Sonnenblumenkerne</li>
-    <li>1 Mandarine</li>
-    <li>ca. 1 Teelöffel Kokosöl</li>
-    <li>Sojasauce</li>
-    <li>Etwas Wasser</li>
-</ul>
+- Kerne von einem mittelgroßen Butternut-Kürbis
+- 1 Handvoll Sonnenblumenkerne
+- 1 Mandarine
+- ca. 1 Teelöffel Kokosöl
+- Sojasauce
+- Etwas Wasser
 
 ## Zubereitung
 
@@ -68,3 +72,5 @@ nachhelfen. :-) Den Kürbis könnt Ihr zum Beispiel toll mit Couscous Granatapfe
 Salat essen. Das sieht dann so aus:
 
 ![Butternut | large](http://cardamonchai.com/wp-content/uploads/2016/10/IMG_0061-800x800.jpg)
+
+  

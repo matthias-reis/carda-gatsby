@@ -4,14 +4,12 @@ seoTitle: Lovely Day Botanicals - Kosmetiktest
 slug: lovely-day-botanicals-kosmetiktest
 link: /2016/07/lovely-day-botanicals-kosmetiktest/
 fileName: 2016-07---lovely-day-botanicals-im-test.md
-description:
-  Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das
-  ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch
-  getestet.
-excerpt:
-  Werbung - Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin, das
-  ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für Euch
-  getestet.
+description: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin,
+  das ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für
+  Euch getestet.
+excerpt: Werbung - Lovely Day Botanicals ist ein junges Beauty Start-up aus
+  Berlin, das ausschließlich vegane Naturkosmetik herstellt. Ich habe die
+  Produkte für Euch getestet.
 focusKeyword: Lovely Day
 labels:
   - Berlin
@@ -32,16 +30,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14942"
+image: /img/demo.jpg
+errors: []
 subTitle: Naturkosmetik aus Berlin
+  
 ---
 
 Werbung\*
 
 ![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/07/28558089645_51e988deef_z-640x427.jpg "Lovely Day Botanicals im Test")
 
-<strong>Kennt Ihr schon Lovely Day Botanicals? Die Gründerin Josy und ich folgen
-uns schon länger auf Instagram. Sie macht Furore mit ihren selbst hergestellten
-Kosmetikprodukten.</strong>
+**Kennt Ihr schon Lovely Day Botanicals? Die Gründerin Josy und ich folgen uns
+schon länger auf Instagram. Sie macht Furore mit ihren selbst hergestellten
+Kosmetikprodukten.**
 
 Die besondere Attraktion: Veganes Hyaluron! Das musst ich mir natürlich mal
 genauer ansehen. Vor kurzem habe ich Josy einfach mal angeschrieben. Wir fanden
@@ -56,8 +57,8 @@ mir ein. Außerdem machen die kleinen Botschaften, die Josy mit eingepackt hat
 einfach glücklich. Besonders toll finde ich das Motto "Beauty begins the moment
 you decide to be yourself". Das ist so wahr. Wahrscheinlich sollten wir uns das
 alle ein Bisschen mehr verinnerlichen. Bevor ich jetzt weiter auf das Paket und
-seinen Inhalt eingehe, gibt es erstmal noch ein paar Infos über <strong>Lovely
-Day Botanicals</strong> und die Philosophie hinter der jungen Beauty Marke.
+seinen Inhalt eingehe, gibt es erstmal noch ein paar Infos über **Lovely Day
+Botanicals** und die Philosophie hinter der jungen Beauty Marke.
 
 ## Lovely Day Botanicals - Die Philosophie
 
@@ -106,9 +107,11 @@ Gloss", ein Haarserum mit Kokos.
 
 ![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/07/28480259571_251ae912a9_z-640x427.jpg)
 
-mit mir herumtrage. Durch die Produkte von Lovely Day Botanicals ist es zu
-keinerlei Reizungen gekommen. Ganz im Gegenteil, mein Hautbild hat sich sogar
-verbessert.
+Ich habe mir Zeit genommen, alles zu testen und auszuprobieren. Vorab schon mal:
+Einige haben ja mitbekommen, dass ich eine echte
+[Problemhaut](/2016/05/gladskin-vegane-pflege-bei-rosacea/) mit mir herumtrage.
+Durch die Produkte von Lovely Day Botanicals ist es zu keinerlei Reizungen
+gekommen. Ganz im Gegenteil, mein Hautbild hat sich sogar verbessert.
 
 Getestet habe ich mehrfach die Kombination "hyaluron + BLOOM Maske" -
 "hyaluron + BLOOM Face Toner" - "Skin Rescue Oil". Ich glaube ja, dass sich die
@@ -149,11 +152,15 @@ After Sun Spray" ganz klar das Must-have des Sommers. Es sollte in keinem
 Kosmetik-Täschchen fehlen.
 
 Wer jetzt neugierig geworden ist und sich Lovely Day Botanicals mal ansehen
-möchte, finden die Homepage  [hier entlang](https://lovelydaybotanicals.com/).
+möchte, finden die Homepage  [hier](https://lovelydaybotanicals.com/) und Josys
+Instagram [hier](https://www.instagram.com/lovelydaybotanicals/). Zum Shop geht
+es [hier entlang](https://lovelydaybotanicals.com/collections/all).
 
 [gallery link="none" size="medium" type="rectangular"
 ids="14949,14956,14955,14954,14953,14951,14941,14948,14947,14946,14945,14942,14952,14950,14943"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -20,5 +20,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11171"
+image: /img/demo.jpg
+errors: []
 subTitle: Durchgang nur mit Fallschirm
+  
 ---
+
+
+  

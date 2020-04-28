@@ -4,12 +4,10 @@ seoTitle: Mein erster Artikel im Welt Vegan Magazin - Premiere
 slug: mein-erster-artikel-im-welt-vegan-magazin
 link: /2015/04/mein-erster-artikel-im-welt-vegan-magazin/
 fileName: 2015-04---mein-erster-artikel-im-welt-vegan-magazin.md
-description:
-  Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster Artikel im
-  Welt Vegan Magazin! Darin dreht sich alles um Superfoods...
-excerpt:
-  Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster Artikel in
-  der zweiten Ausgabe des Welt Vegan Magazins.
+description: Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster
+  Artikel im Welt Vegan Magazin! Darin dreht sich alles um Superfoods...
+excerpt: Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster
+  Artikel in der zweiten Ausgabe des Welt Vegan Magazins.
 focusKeyword: Welt Vegan Magazin
 labels:
   - Anne Reis
@@ -28,16 +26,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "10983"
+image: /img/demo.jpg
+errors: []
 subTitle: Printpremiere für Anne bloggt cardamonchai
+  
 ---
 
-![Welt Vegan Magazin-8](http://cardamonchai.com/wp-content/uploads/2015/04/Welt-Vegan-Magazin-8-640x427.jpg)
-
-<strong><a href="http://cardamonchai.com/wp-content/uploads/2015/04/Welt-Vegan-Magazin-8.jpg">
-
 Verraten wird nur so viel: Es handelt sich um einen mehrseitigen Sonderteil zum
-Thema <strong>Superfoods</strong>. Neugierig geworden? Dann holt Euch auf jeden
-Fall Eure Ausgabe 2/15 beim Zeitschriftenhändler Eures Vertrauens.
+Thema **Superfoods** . Neugierig geworden? Dann holt Euch auf jeden Fall Eure
+Ausgabe 2/15 beim Zeitschriftenhändler Eures Vertrauens.
 
 Zusätzlich zum Sonderteil ist noch einiges mehr an interessanten Themen geboten,
 u. a. gibt es einen Bericht über Chiasamen und einen
@@ -55,4 +52,18 @@ mich auf Eure Zuschriften!
 
 Go Vegan!
 
-## Wegweiser Welt Vegan Magazin<ol><li>1/2015 "Superfood Lexikon"</li><li> [](/2015/05/das-neue-welt-vegan-magazin-ist-da/) <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+## Wegweiser Welt Vegan Magazin1. 1/2015 "Superfood Lexikon"
+
+1.  [3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"](/2015/05/das-neue-welt-vegan-magazin-ist-da/)
+1.  [5/2015 "Interview BUND" und "TTIP"](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/)
+1.  [6/2015 "Wohlfühl-Guide für die kalte Jahreszeit" und "Klimakonferenz in Paris"](/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/)
+1.  [1/2016 "Alge Vegan" und "Barnard Medical Centre"](/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/)
+1.  [2/2016 "Animal Rights Watch"](http://welt-vegan-magazin-22016)
+1.  [3/2016 "Schmuggel bedrohter Arten"](/2016/09/thomas-d-im-welt-vegan-magazin/)
+1.  [1/2017 "Los Veganeros 2"](/2017/03/los-veganeros-welt-vegan-magazin-1-2017/)
+1.  2/2017
+    ["Anne Menden und Sea Shepherd"](/2017/06/welt-vegan-magazin-2-2017-anne-menden/)
+    [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+    Merken
+
+  

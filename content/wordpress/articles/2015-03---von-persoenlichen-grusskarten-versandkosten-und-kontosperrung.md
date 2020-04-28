@@ -4,12 +4,10 @@ seoTitle: Von Versandkosten und Kontosperrung
 slug: von-persoenlichen-grusskarten-versandkosten-und-kontosperrung
 link: /2015/03/von-persoenlichen-grusskarten-versandkosten-und-kontosperrung
 fileName: 2015-03---von-persoenlichen-grusskarten-versandkosten-und-kontosperrung.md
-description:
-  Nicht nur mit den Versandkosten kommt es immer wieder zu Problemen, auch mit
-  der Abwicklung geht einiges schief im Marketplace...
-excerpt:
-  Ein paar Monate lang habe ich gut erhaltene Bücher, DVDs, Blue Rays und CDs
-  über Amazon Marketplace verkauft, bis mein Verkäuferzugang gesperrt wurde.
+description: Nicht nur mit den Versandkosten kommt es immer wieder zu Problemen,
+  auch mit der Abwicklung geht einiges schief im Marketplace...
+excerpt: Ein paar Monate lang habe ich gut erhaltene Bücher, DVDs, Blue Rays und
+  CDs über Amazon Marketplace verkauft, bis mein Verkäuferzugang gesperrt wurde.
 focusKeyword: Versandkosten
 labels:
   - Amazon Marketplace
@@ -25,23 +23,30 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "10455"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (100:41)"
 subTitle: Verkaufen im Amazon Marketplace
+  
 ---
 
-![Nächstes Mal lieber wieder zum Trödel](http://cardamonchai.com/wp-content/uploads/2015/03/14848064653_920a09fd73_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Nächstes Mal lieber wieder zum Trödel")
+## unknown: Expected corresponding JSX closing tag for <p> (100:41)
 
-<strong>Ein paar Monate lang habe ich gut erhaltene Bücher, DVDs, Blue Rays und
-CDs über Amazon Marketplace verkauft, bis mein Verkäuferzugang gesperrt
-wurde.</strong>
+<!--
+![Nächstes Mal lieber wieder zum Trödel](http://cardamonchai.com/wp-content/uploads/2015/03/14848064653_920a09fd73_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Nächstes Mal lieber wieder zum Trödel")
+
+**Ein paar Monate lang habe ich gut erhaltene Bücher, DVDs, Blue Rays und CDs
+über Amazon Marketplace verkauft, bis mein Verkäuferzugang gesperrt wurde.**
 
 Kennt man mich, weiß man, dass ich sehr gut auf meine Sachen achtgebe, ein Buch
 wird bei mir niemals einen gebrochenen Rücken haben, CDs und DVDs stehen in der
 Vitrine und werden sehr sorgfältig behandelt.
 
-Verkauft habe ich nicht nur <strong>Gebrauchtes</strong>, sondern auch ein paar
-neue DVDs und Blue Rays, die ich vor Kurzem noch gekauft habe, um beim Umzug
-Platz im Transporter zu sparen, blieb mir allerdings nichts anderes übrig, als
-sie wieder auszusortieren.
+Verkauft habe ich nicht nur **Gebrauchtes** , sondern auch ein paar neue DVDs
+und Blue Rays, die ich vor Kurzem noch gekauft habe, um beim Umzug Platz im
+Transporter zu sparen, blieb mir allerdings nichts anderes übrig, als sie wieder
+auszusortieren.
 
 ## Neue DVDs und Blue Rays
 
@@ -50,19 +55,19 @@ verkauft hatte, entschied ich mich, meinen Verkäuferaccount dort zu reaktiviere
 und die Sachen dort einzustellen.
 
 Damals hatte es noch keine Power-Seller wie z. B. Rebuy gegeben, die im großen
-Stil einkaufen und dann z. T. sogar <b>versandkostenfrei</b> Medien für ab 3
-Cent verkaufen. Da konnte ich natürlich nicht mithalten, weshalb ich die CDs von
+Stil einkaufen und dann z. T. sogar **versandkostenfrei** Medien für ab 3 Cent
+verkaufen. Da konnte ich natürlich nicht mithalten, weshalb ich die CDs von
 vornherein vom Verkauf ausschloss, die lies ich dann direkt von Rebuy abholen.
 
-Von Amazon werden einem pro Verkauf 3,- <b>Versandkosten</b> gutgeschrieben,
+Von Amazon werden einem pro Verkauf 3,- **Versandkosten** gutgeschrieben,
 Verkauft man nun z. B. ein etwas schwereres Fachbuch für 1,- kann man sich
 ausrechnen, was man als Verkäufer daran verdient. Genau. Nichts.
 
 ## Gratiszugaben für die Kunden
 
-Ich habe also alles ganz genau ausgerechnet, die <b>Polsterumschläge</b> online
-so günstig wie möglich bestellt und mit dem Verkaufen losgelegt. Dabei habe ich
-mir echt Mühe gegeben, ich habe in jedes Päckchen noch eine Postkarte mit einem
+Ich habe also alles ganz genau ausgerechnet, die **Polsterumschläge** online so
+günstig wie möglich bestellt und mit dem Verkaufen losgelegt. Dabei habe ich mir
+echt Mühe gegeben, ich habe in jedes Päckchen noch eine Postkarte mit einem
 persönlichen Gruß, in einige sogar Gratiszugaben mit rein gelegt.
 
 Das Feedback war relativ gering. Bei Amazon sind die Kunden inzwischen
@@ -70,7 +75,7 @@ Power-Seller gewöhnt und geben kaum noch Bewertungen ab. Insgesamt zählte ich
 bei rund 120 Verkäufen 12 Bewertungen, 8 davon sind positiv, der Rest
 vernichtend.
 
-Zweimal kam es zu <b>Beschwerden</b>, die Ware sei beschädigt, die DVDs (Es
+Zweimal kam es zu **Beschwerden** , die Ware sei beschädigt, die DVDs (Es
 handelte sich um eine neue Serienbox, ungeöffent) seinen völlig zerkratzt, das
 Buch sei zerlesen (ein neuwertiges, ungelesenes Exemplar), in beiden Fällen habe
 ich den Kunden den Kaufpreis zurückerstattet. Es bleibt einem ja nichts anderes
@@ -84,8 +89,7 @@ wird gesperrt, man kann nichts mehr verkaufen.
 
 Eine Dame (der ich ein sehr liebevoll verpacktes Päckchen mit Parfumpröbchen und
 Lesezeichen zum Roman gratis dazu) geschickt hatte, mahnte an, die Ware sei nie
-bei Ihr angekommen und machte ordentlich Trommelwirbel. Ob das <b>Päckchen</b>
-nun
+bei Ihr angekommen und machte ordentlich Trommelwirbel. Ob das **Päckchen** nun
 [wirklich nicht ankam](/2013/06/neues-aus-der-servicewuste-die-post-hat-sich-schon-langst-abgeschafft/),
 oder etwas anderes passiert ist, ich kann es nicht sagen. Nach ihrer Bewertung
 konnte ich jedenfalls nichts anderes mehr tun, als zuzusehen, wie mir die
@@ -101,15 +105,15 @@ umgehend zurückschicken.
 ## Ein völlig defektes Gerät kam zurück
 
 Wieder eine Woche später erreichte den Mitbewohner meines Bruders ein Päckchen.
-Darin: Ein völlig zerstörtes, verkratztes <strong>iPad</strong> mit gebrochenem
-Display, natürlich ohne Originalverpackung. Zusätzlich zu den Beschädigungen
-wies das Gerät außerdem jede Menge Gebrauchsspuren auf, es musste mindestens ein
-paar Monate im Einsatz gewesen sein.
+Darin: Ein völlig zerstörtes, verkratztes **iPad** mit gebrochenem Display,
+natürlich ohne Originalverpackung. Zusätzlich zu den Beschädigungen wies das
+Gerät außerdem jede Menge Gebrauchsspuren auf, es musste mindestens ein paar
+Monate im Einsatz gewesen sein.
 
-Der Kunde war inzwischen über alle Berge. Die Freude über den <b>Gewinn</b>
-dahin. Von derartigen Vorfällen höre ich in der letzten Zeit immer häufiger,
-wenn ich die Leute auf mein Amazon-Schicksal hinweise. Ich für meinen Teil werde
-in Zukunft lieber wieder auf den guten alten Trödel gehen.
+Der Kunde war inzwischen über alle Berge. Die Freude über den **Gewinn** dahin.
+Von derartigen Vorfällen höre ich in der letzten Zeit immer häufiger, wenn ich
+die Leute auf mein Amazon-Schicksal hinweise. Ich für meinen Teil werde in
+Zukunft lieber wieder auf den guten alten Trödel gehen.
 
 Hier ein Brief, den ich mir in einem Anflug von Schabernack erlaubte, einem
 Päckchen beizulegen, als es mit meiner Gesamtbewertung bereits bergab ging, eine
@@ -189,5 +193,9 @@ Dieser Artikel soll kein Aufruf sein, ich möchte niemandem etwas raten, jeder
 ist seines eigenen Glückes Schmied und ich möchte auch niemandem etwas
 unterstellen. Auch nicht Amazon mangelnden Service, ich glaube, dass das
 Marketplace einfach innerhalb kürzester Zeit zu etwas herangewachsen ist, das
-keiner mehr KONTROLLIEREN KANN. Daher keinerlei <strong>Vorwürfe</strong>. An
-niemanden. Ich wollte es mir lediglich mal von der Seele geredet haben.
+keiner mehr KONTROLLIEREN KANN. Daher keinerlei **Vorwürfe** . An niemanden. Ich
+wollte es mir lediglich mal von der Seele geredet haben.
+
+-->
+
+  

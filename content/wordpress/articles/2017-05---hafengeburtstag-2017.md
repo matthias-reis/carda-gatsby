@@ -1,16 +1,13 @@
 ---
 title: Hafengeburtstag 2017
-seoTitle:
-  Hafengeburtstag 2017 - Wir haben mitgefeiert und Fahnenflucht live erlebt
+seoTitle: Hafengeburtstag 2017 - Wir haben mitgefeiert und Fahnenflucht live erlebt
 slug: hafengeburtstag
 link: /2017/05/hafengeburtstag/
 fileName: 2017-05---hafengeburtstag-2017.md
-description:
-  'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und der
-  Hamburger Hafen feiert Geburtstag. Zeit für eine fette Bildergalerie.'
-excerpt:
-  'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und der
-  Hamburger Hafen feiert Geburtstag. Zeit für eine fette Bildergalerie.'
+description: 'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause
+  und der Hamburger Hafen feiert Geburtstag. Zeit für eine fette Bildergalerie.'
+excerpt: 'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und
+  der Hamburger Hafen feiert Geburtstag. Zeit für eine fette Bildergalerie.'
 focusKeyword: Hafengeburtstag
 labels:
   - 828. Hafengeburtstag
@@ -49,12 +46,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16549"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (44:50)"
 subTitle: Ein Fest in Hamburg
+  
 ---
 
-<strong>Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und
-der Hamburger Hafen feiert Geburtstag. Da muss ich Euch natürlich gleich mit
-einer Bildergalerie verzücken. Hach.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (44:50)
+
+<!--
+**Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und der
+Hamburger Hafen feiert Geburtstag. Da muss ich Euch natürlich gleich mit einer
+Bildergalerie verzücken. Hach.**
 
 Das Wetter war ein Knaller. Auch wenn es mit knapp 21 Grad circa 10 bis 12 Grad
 kälter war, als an unserem Urlaubsort. Weshalb ich mir auch eine schöne
@@ -106,3 +111,7 @@ La Paloma ade. Auf Matrosen, ohe! Ohe! Ade.</blockquote>
 [2016](/2016/05/hafengeburtstag-in-hamburg/)
 
 2017
+
+-->
+
+  

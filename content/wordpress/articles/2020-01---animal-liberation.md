@@ -4,12 +4,10 @@ seoTitle: '"Animal Liberation" - das Tierethikbuch von Peter Singer'
 slug: animal-liberation
 link: /2020/01/animal-liberation/
 fileName: 2020-01---animal-liberation.md
-description:
-  Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer empfehlen.
-  Es bietet einen guten Überblick über die Geschichte der Tierethik.
-excerpt:
-  Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer empfehlen.
-  Es bietet einen guten Überblick über die Geschichte der Tierethik.
+description: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer
+  empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
+excerpt: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer
+  empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
 focusKeyword: Animal Liberation
 labels:
   - Animal Liberation
@@ -28,13 +26,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27284"
+image: /img/demo.jpg
+errors: []
 subTitle: Das Tierrechtsbuch von Peter Singer
+  
 ---
 
-<strong>Ein Buch, dass ich Euch schon seit längerer Zeit dringend empfehlen
-möchte, trägt den Titel "Animal Liberation". Geschrieben wurde es von Peter
-Singer. Die erste Ausgabe stammt aus dem Jahr 1975. Seither wurde es mehrfach
-überarbeitet. Das mir derzeit vorliegende Exemplar stammt von 2018.</strong>
+**Ein Buch, dass ich Euch schon seit längerer Zeit dringend empfehlen möchte,
+trägt den Titel "Animal Liberation". Geschrieben wurde es von Peter Singer. Die
+erste Ausgabe stammt aus dem Jahr 1975. Seither wurde es mehrfach überarbeitet.
+Das mir derzeit vorliegende Exemplar stammt von 2018.**
 
 Das Werk befasst sich mit dem Thema Tierethik. Peter Singer beschreibt darin die
 Haltung von Tieren für Tierversuche und die Zucht. Mit "Animal Liberation" legte
@@ -58,7 +59,11 @@ tierischen Mitlebewesen haben, immer mehr. Die wenigsten hinterfragen dabei ihr
 Handeln. Das begründet der Autor vor allem damit, dass die Distanz der meisten
 Menschen heute sehr groß ist. So schreibt er auf Seite 125
 
-<blockquote>"Für die meisten Menschen und insbesondere für diejenigen, die in Städten oder deren Umfeld leben, ist die unmittelbarste Begegnung, mit nichtmenschlichen Tieren eine Mahlzeit: wir essen sie. Diese einfache Tatsache ist der Schlüssel zu unserer Einstellung gegenüber anderen Lebewesen und auch der Schlüssel dazu, was jede⋆r einzelne von uns tun kann, um diese Einstellung zu ändern."</blockquote>
+> "Für die meisten Menschen und insbesondere für diejenigen, die in Städten oder
+> deren Umfeld leben, ist die unmittelbarste Begegnung, mit nichtmenschlichen
+> Tieren eine Mahlzeit: wir essen sie. Diese einfache Tatsache ist der Schlüssel
+> zu unserer Einstellung gegenüber anderen Lebewesen und auch der Schlüssel
+> dazu, was jede⋆r einzelne von uns tun kann, um diese Einstellung zu ändern."
 
 ## Tiere begegnen den meisten nur noch als Nahrung auf dem Teller
 
@@ -78,7 +83,10 @@ das Thema Speziesismus zu sprechen (Tier aus dem Tierheim aufnehmen und sich fü
 Streuner stark machen, aber Fleisch essen). Über sein Buch schreibt Peter Singer
 selbst:
 
-<blockquote>"Das Buch ist kein sentimentaler Aufruf zur Sympathie gegenüber 'niedlichen Tieren'. Es handelt von der Gewaltherrschaft des Menschen über die Tiere. Es ist ein Versuch, gründlich, sorgfältig und konsequent darüber nachzudenken, wie wir mit Tieren umgehen."</blockquote>
+> "Das Buch ist kein sentimentaler Aufruf zur Sympathie gegenüber 'niedlichen
+> Tieren'. Es handelt von der Gewaltherrschaft des Menschen über die Tiere. Es
+> ist ein Versuch, gründlich, sorgfältig und konsequent darüber nachzudenken,
+> wie wir mit Tieren umgehen."
 
 ## "Animal Liberation" deckt die Widersprüche der Menschen auf
 
@@ -89,7 +97,9 @@ Lebensweise auf. Er versteht sie jedoch auch als politischen Hebel. Wer keine
 Produkte tierischer Herkunft mehr kauft, beteiligt  sich aktiv an der Senkung
 der Nachfrage:
 
-<blockquote>"Solange die Menschen bereit sind, die Erzeugnisse der intensiven Tierzucht und -Haltung zu kaufen, werden die üblichen Formen des Protests und des politischen Handelns niemals eine wesentliche Reform bewirken." (Seite 193)</blockquote>
+> "Solange die Menschen bereit sind, die Erzeugnisse der intensiven Tierzucht
+> und -Haltung zu kaufen, werden die üblichen Formen des Protests und des
+> politischen Handelns niemals eine wesentliche Reform bewirken." (Seite 193)
 
 Am Beispiel [Tierversuche](/2019/10/tierversuche-in-deutschland/) beweist der
 Autor klar die Widersprüchlichkeit, mit der Menschen agieren. Zeitgleich wird
@@ -128,3 +138,5 @@ auf die Tierethik und auch auf unseren Umgang mit Tieren in der Realität.
 Hat Euch meine Rezension gefallen? Das freut mich sehr! Wenn Ihr in Zukunft
 nichts mehr auf meiner Seite verpassen wollt,
 [abonniert gerne meinen Newsletter](#newsletter).
+
+  

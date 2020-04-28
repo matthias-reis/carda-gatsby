@@ -1,7 +1,7 @@
 const { bold } = require('chalk');
 
-module.exports = async (l, e, data) => {
-  data.content = data.content.replace(
+module.exports = async (l, e, line) => {
+  return line.replace(
     /([\"\n]?)<a ([^>]*)>(.*?)<\/a>([\",;\.]?)/gms,
     (_, before, props, text, after) => {
       const hrefMatch = /href="([^"]*)"/gms.exec(props);
@@ -12,5 +12,4 @@ module.exports = async (l, e, data) => {
       return ` ${before || ''}[${text.trim()}](${href})${after || ''} `;
     }
   );
-  return data;
 };

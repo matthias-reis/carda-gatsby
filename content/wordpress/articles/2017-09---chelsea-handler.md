@@ -1,16 +1,15 @@
 ---
 title: Chelsea Handler
-seoTitle:
-  'Chelsea Handler sagt "Männer: Hört auf uns zu sagen, wir sollen lächeln!"'
+seoTitle: 'Chelsea Handler sagt "Männer: Hört auf uns zu sagen, wir sollen lächeln!"'
 slug: chelsea-handler-maenner-frauen-laecheln
 link: /2017/09/chelsea-handler-maenner-frauen-laecheln/
 fileName: 2017-09---chelsea-handler.md
-description:
-  Chelsea Handler, Comedian und Talkmasterin macht Schluss mit lustig. Sie sieht
-  es nicht mehr ein, dass Männer ständig fremde Frauen zum Lächeln auffordern.
-excerpt:
-  Chelsea Handler, Comedian und Talkmasterin macht Schluss mit lustig. Sie sieht
-  es nicht mehr ein, dass Männer ständig fremde Frauen zum Lächeln auffordern.
+description: Chelsea Handler, Comedian und Talkmasterin macht Schluss mit
+  lustig. Sie sieht es nicht mehr ein, dass Männer ständig fremde Frauen zum
+  Lächeln auffordern.
+excerpt: Chelsea Handler, Comedian und Talkmasterin macht Schluss mit lustig.
+  Sie sieht es nicht mehr ein, dass Männer ständig fremde Frauen zum Lächeln
+  auffordern.
 focusKeyword: Chelsea Handler
 labels:
   - Chelsea Handler
@@ -35,13 +34,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17949"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Männer: Hört auf uns zu sagen, wir sollen lächeln!"'
+  
 ---
 
-<strong>Chelsea Handler, Comedian und Talkmasterin, macht ein für alle mal
-Schluss mit lustig. Sie sieht es nicht mehr ein, dass Männer Frauen auf der
-Straße und zuletzt sogar in den Medien ständig dazu auffordern, zu lächeln.
-</strong>
+**Chelsea Handler, Comedian und Talkmasterin, macht ein für alle mal Schluss mit
+lustig. Sie sieht es nicht mehr ein, dass Männer Frauen auf der Straße und
+zuletzt sogar in den Medien ständig dazu auffordern, zu lächeln.**
 
 Liebe Frauen. Kennt Ihr das auch? Eine Zeitlang dachte ich ja, das geht nur mir
 so. Bis ich immer mehr Frauen darauf ansprach und sie mir erzählten, dass es sie
@@ -116,8 +117,8 @@ Ihr würdet  Samuel L. Jackson darum bitten, das Stirnrunzeln sein zu lassen."
 ## Liebe Frauen: Ihr seid genauso wunderschön, wenn Ihr nicht lächelt!
 
 Nach langen Jahren, die ich mit Grübeln, Genervtsein und sogar gelegentlichen
-Selbstzweifeln ("Gibt es sowas wie ein <em>Resting Bitch Face</em>? Bin ich
-irgendwie unlocker?) verbracht habe, habe ich persönlich inzwischen gelernt, mit
+Selbstzweifeln ("Gibt es sowas wie ein _Resting Bitch Face_ ? Bin ich irgendwie
+unlocker?) verbracht habe, habe ich persönlich inzwischen gelernt, mit
 derartigen Aufforderungen umzugehen. Ein kurzes Stirnrunzeln, gefolgt von
 weggucken und weitermachen wie bisher. Am besten dem Gegenüber in so kurzer Zeit
 wie möglich zeigen, wie dumm er sich gerade verhalten hat. Mehr nicht. Das kann
@@ -138,26 +139,28 @@ Mehr von Chelsea findet Ihr auf Netflix und auf ihrer
 
 [Die Geschichte der Frauenrechte](/2013/03/die-geschichte-der-frauenrechte/)
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 796px; left: 1125px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 281px; left: 1125px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
+
+  

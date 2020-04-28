@@ -4,12 +4,10 @@ seoTitle: Anti AKW Demo in München - Atomkraft, nein Danke!
 slug: anti-akw-demo-26-03-2011-munchen
 link: /2011/03/anti-akw-demo-26-03-2011-munchen/
 fileName: 2011-03---anti-akw-demo.md
-description:
-  Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln und München
-  auf die Straße - ich war auf der Anti AKW Demo in München.
-excerpt:
-  Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln und München
-  auf die Straße - ich war auf der Anti AKW Demo in München.
+description: Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln
+  und München auf die Straße - ich war auf der Anti AKW Demo in München.
+excerpt: Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln und
+  München auf die Straße - ich war auf der Anti AKW Demo in München.
 focusKeyword: AKW
 labels:
   - AKW
@@ -85,12 +83,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "853"
+image: /img/demo.jpg
+errors: []
 subTitle: 26.03.2011 München
+  
 ---
-
-<strong>Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln und
-München auf die Straße um ein Zeichen zu setzen und die Regierung zum Umdenken
-zu bringen.</strong>
 
 Inzwischen hat sich die Lage in Japan massiv verschlechtert. Messungen am
 Reaktor 2 in Fukoshima zeigen eine 10 millionenfach erhöhte Radioaktivität an,
@@ -102,8 +99,8 @@ eingeliefert.
 
 ![OLYMPUS DIGITAL CAMERA](http://cardamonchai.com/wp-content/uploads/2011/03/p7270040-640x480.jpg)
 
-<a href="http://cardamonchai.com/wp-content/uploads/2011/03/p7270040.jpg">## Es
-ist mit dem Schlimmsten zu rechnen
+[](/wp-content/uploads/2011/03/p7270040.jpg) ## Es ist mit dem Schlimmsten zu
+rechnen
 
 Es ist mit dem Schlimmsten zu rechnen und Notunterkünfte nehmen nach wie vor nur
 Anwohner der 20-Kilometer-Zone um das AKW auf. Die Betreiberfirma des AKW hat
@@ -123,3 +120,5 @@ Mehr über die Demos gibt's bei
 
 [gallery type="rectangular"
 ids="859,858,857,856,855,854,853,852,851,850,849,848,847,846,845,844"]
+
+  

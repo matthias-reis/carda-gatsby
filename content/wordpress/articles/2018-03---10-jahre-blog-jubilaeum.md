@@ -4,11 +4,10 @@ seoTitle: 10 Jahre Blog-Jubiläum
 slug: 10-jahre-bloggen-jubilaeum
 link: /2018/03/10-jahre-bloggen-jubilaeum/
 fileName: 2018-03---10-jahre-blog-jubilaeum.md
-description:
-  Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für einen
-  Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die Zukunft.
-excerpt:
-  Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für einen
+description: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für
+  einen Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die
+  Zukunft.
+excerpt: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für einen
   Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die Zukunft.
 focusKeyword: Jubiläum
 labels:
@@ -29,14 +28,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20148"
+image: /img/demo.jpg
+errors: []
 subTitle: Rückblick und Bestandsaufnahme
+  
 ---
 
-<strong>Seit genau 10 Jahren blogge ich jetzt auf dieser meiner Seite. Schon
-zuvor hatte ich Texte zum Beispiel auf Plattformen wie myspace ins Netz gestellt
-und mich mit der Materie beschäftigt, mich sozusagen ein bisschen "eingegroovt".
+**Seit genau 10 Jahren blogge ich jetzt auf dieser meiner Seite. Schon zuvor
+hatte ich Texte zum Beispiel auf Plattformen wie myspace ins Netz gestellt und
+mich mit der Materie beschäftigt, mich sozusagen ein bisschen "eingegroovt".
 2008 ging dann cardamonchai an den Start. Mein persönlicher Blog feiert also
-dieses Jahr sein Jubiläum und ich mit ihm.</strong>
+dieses Jahr sein Jubiläum und ich mit ihm.**
 
 In den 10 Jahren hat sich in der Bloggerszene einiges getan und verändert. Zum
 Guten und zum Negativen. Zu Anfang waren die persönlichen "Tagebuchblogs" das
@@ -66,11 +68,13 @@ nicht.
 Seit ein paar Jahren stelle ich selbst jetzt in meinem Blog immer wieder Firmen
 vor, die ich selbst toll und unterstützenswert finde. Dabei geht es mir aber in
 erster Linie darum, zu zeigen, dass es eben auch anders geht.
-[Selbst gemacht](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
-und mit Sinn für Nachhaltigkeit. Keine Frage: Auch ich bin glücklich darüber,
-dass auf diesem Wege auch mal der ein oder andere Euro reinkommt. Aber ganz klar
-von Tag eins an zu sagen: Ich mache das Ding nur, wenn der Rubel rollt: Das ist
-etwas, was ich mir beim Bloggen nicht vorstellen kann.
+[Ohne Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/).
+Ohne viel [Verpackung](/2017/04/interview-mit-zero-waste-aktivistin-vio/).
+[Selbst gemacht](/category/basteleien/diy/) und mit Sinn für Nachhaltigkeit.
+Keine Frage: Auch ich bin glücklich darüber, dass auf diesem Wege auch mal der
+ein oder andere Euro reinkommt. Aber ganz klar von Tag eins an zu sagen: Ich
+mache das Ding nur, wenn der Rubel rollt: Das ist etwas, was ich mir beim
+Bloggen nicht vorstellen kann.
 
 Für mich ist mein Blog meine Leidenschaft. Mein Baby. In meiner Seite steckt
 mein Herzblut, meine Kreativität, meine Freizeit, meine Liebe, meine Seele und
@@ -143,9 +147,17 @@ wieder mit interessanten Persönlichkeiten, die mir über den Weg laufen führen
 
 ## Jubiläum - Auf die nächsten 10 Jahre!
 
-Anfangs noch von mehr [Hamburg](/category/bleistift-2-0/tagebuch/)" . Trotzdem
-scheue ich mich nicht davor, auch mal ein komplett anderes Thema dazwischen zu
-schieben, wenn es mir wichtig erscheint.
+Anfangs noch von mehr [Tagebuchseiten](/category/bleistift-2-0/tagebuch/) und
+anderen [persönlichen Geschichten](/category/bleistift-2-0/prosa/) durchwirkt,
+bewegte sich die Ausrichtung meiner Seite nach und nach immer mehr in eine feste
+Richtung. Ein Nischenblog ist cardamonchai dennoch auch heute nicht. Der Fokus
+liegt inzwischen auf den Schwerpunkten "[vegan](/category/vegan-2/)" ,
+"[Musik](/category/musik/)" ,
+"[Nachhaltigkeit](/category/gesellschaft/klima-umweltschutz/)" ,
+"[Reisen](/category/unterwegs/reisen/)" und
+"[Hamburg](/category/unterwegs/hamburg/)" . Trotzdem scheue ich mich nicht
+davor, auch mal ein komplett anderes Thema dazwischen zu schieben, wenn es mir
+wichtig erscheint.
 
 Genau das ist es für mich auch, was das Bloggen ausmacht: Du bist Dein Blog und
 Dein Blog bist Du. Sich auf ein Thema allein festzulegen, das wäre einfach nicht
@@ -154,3 +166,5 @@ Seite zum Ausdruck. Von Interviews über Brotrezepte bis hin zu Reiseberichten
 werdet Ihr also auch in Zukunft so ziemlich alles hier finden.
 
 In diesem Sinne: Auf die nächsten 10 Jahre!
+
+  

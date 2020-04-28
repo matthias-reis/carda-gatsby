@@ -4,11 +4,9 @@ seoTitle: Landpate für den Erdlingshof werden und Tieren in Not helfen
 slug: landpatenschaft-erdlingshof
 link: /2017/11/landpatenschaft-erdlingshof/
 fileName: 2017-11---landpate-fuer-den-erdlingshof-gesucht.md
-description:
-  Der Erdlingshof ist auf der Suche nach Landpaten. Jeder Euro zählt, die
-  geretteten Tiere sollen für immer ein sicheres Zuhause bekommen.
-excerpt:
-  Der Erdlingshof ist auf der Suche nach Landpaten. Jeder Euro zählt, die
+description: Der Erdlingshof ist auf der Suche nach Landpaten. Jeder Euro zählt,
+  die geretteten Tiere sollen für immer ein sicheres Zuhause bekommen.
+excerpt: Der Erdlingshof ist auf der Suche nach Landpaten. Jeder Euro zählt, die
   geretteten Tiere sollen für immer ein sicheres Zuhause bekommen.
 focusKeyword: Erdlingshof
 labels:
@@ -25,12 +23,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18514"
+image: /img/demo.jpg
+errors: []
 subTitle: Spendet Tieren eine Heimat
+  
 ---
 
-<strong>Der Erdlingshof möchte jetzt eine Weidelandfläche für die Tiere
-dazukaufen. Ihr könnt die Organisation jetzt unterstützen und Landpate
-werden.</strong>
+**Der Erdlingshof möchte jetzt eine Weidelandfläche für die Tiere dazukaufen.
+Ihr könnt die Organisation jetzt unterstützen und Landpate werden.**
 
 Bereits ein Viertel der insgesamt 33.926 Quadratmeter steht den geretteten
 Tieren bisher bereits zur Verfügung. Jedoch bisher lediglich als Pachtland. Ein
@@ -69,3 +69,5 @@ den Erdlingshof zu werden:
 Das Video sowie die Grafiken stammen vom Erdlingshof. Das Titelbild habe ich in
 der Nähe der [Boberger Düne](/2016/05/naturschutzgebiet-boberger-niederung/)
 aufgenommen.
+
+  

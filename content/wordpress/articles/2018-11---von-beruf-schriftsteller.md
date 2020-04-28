@@ -4,13 +4,12 @@ seoTitle: Haruki Murakami - Von Beruf Schriftsteller - Aus meinem Bücherregal
 slug: haruki-murakami-von-beruf-schriftsteller
 link: /2018/11/haruki-murakami-von-beruf-schriftsteller/
 fileName: 2018-11---von-beruf-schriftsteller.md
-description:
-  Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Ich liebe seine
-  Bücher. Besonders "Von Beruf Schrifsteller" hat mich sehr inspiriert.
-excerpt:
-  Affiliate Link - Haruki Murakami ist einer meiner absoluten Lieblings-Autoren.
-  Ich liebe seine Bücher. Besonders sein Werk "Von Beruf Schrifsteller" hat mich
-  sehr inspiriert.
+description: Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Ich
+  liebe seine Bücher. Besonders "Von Beruf Schrifsteller" hat mich sehr
+  inspiriert.
+excerpt: Affiliate Link - Haruki Murakami ist einer meiner absoluten
+  Lieblings-Autoren. Ich liebe seine Bücher. Besonders sein Werk "Von Beruf
+  Schrifsteller" hat mich sehr inspiriert.
 focusKeyword: Haruki Murakami
 labels:
   - Autobiografie
@@ -36,14 +35,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22650"
+image: /img/demo.jpg
+errors: []
 subTitle: Buch von Haruki Murakami
+  
 ---
 
-<em>Affiliate Link\*</em>
+_Affiliate Link\*_
 
-<strong>Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Seine
-Bücher inspirieren mich sehr. Ich liebe seine Geschichten und werde nicht müde,
-darin zu schmökern.</strong>
+**Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Seine Bücher
+inspirieren mich sehr. Ich liebe seine Geschichten und werde nicht müde, darin
+zu schmökern.**
 
 Unter dem Titel "Von Beruf Schriftsteller" ist eine Sammlung seiner Essays
 erschienen. Das Werk erfüllt mich mit Hochachtung. Es ist eigentlich als seine
@@ -53,12 +55,12 @@ seine Ideen zum Thema Literatur.
 
 Er zeigt, worin seine tägliche Arbeit als Buchautor besteht und woraus er seine
 Kreativität und Kraft schöpft. Im ersten Kapitel beschäftigt er sich mit den für
-Autor<em>innen typischen Wesenszügen. Besonders interessant ist dabei seine
-Erkenntnis, dass die meisten Schreiber</em>innen über einen sehr eigenen
-Charakter verfügen und gerne mal zu seltsamen Angewohnheiten neigen, wodurch sie
-nicht selten einsam sind. Freundschaftliche Beziehungen zwischen
-Schriftsteller\*innen hält er für schwierig, da es sich um einen eher
-egoistischen Menschenschlag mit einem ausgeprägten Konkurrenzbewusstsein handle.
+Autor _innen typischen Wesenszügen. Besonders interessant ist dabei seine
+Erkenntnis, dass die meisten Schreiber_ innen über einen sehr eigenen Charakter
+verfügen und gerne mal zu seltsamen Angewohnheiten neigen, wodurch sie nicht
+selten einsam sind. Freundschaftliche Beziehungen zwischen Schriftsteller\*innen
+hält er für schwierig, da es sich um einen eher egoistischen Menschenschlag mit
+einem ausgeprägten Konkurrenzbewusstsein handle.
 
 ## Spannende Details
 
@@ -74,14 +76,22 @@ angelsächsischer Literatur.
 Er wartet mit spannenden Beispielen auf und erzählt von Begegnungen aus seinem
 Leben. Neulingen gibt er den klaren Tipp:
 
-<blockquote>"Man muss ins kalte Wasser springen und sehen, ob man schwimmt, oder untergeht. Es klingt vielleicht brutal, aber nur so lässt es sich herausfinden. Auch, wer keine Romane schreibt, kann ein glückliches, erfülltes Leben führen. Wer jedoch schreiben will, oder nicht anders kann, der schreibt. Und schreibt immer weiter."</blockquote>
+> "Man muss ins kalte Wasser springen und sehen, ob man schwimmt, oder
+> untergeht. Es klingt vielleicht brutal, aber nur so lässt es sich
+> herausfinden. Auch, wer keine Romane schreibt, kann ein glückliches, erfülltes
+> Leben führen. Wer jedoch schreiben will, oder nicht anders kann, der schreibt.
+> Und schreibt immer weiter."
 
 Als besonders wichtig erachtet er es außerdem, so viel wie möglich zu lesen, um
 ein Gefühl für Sprache zu entwickeln. Auch das genaue Beobachten seiner
 Mitmenschen ist für ihn eine wichtige Übung, möchte man Schriftsteller\*in
 werden.
 
-<blockquote>"Sollten Sie beschlossen haben, zu schreiben, schauen Sie sich aufmerksam in Ihrer Umgebung um. Die Welt mag langweilig wirken, doch in Wirklichkeit wimmelt es auf ihr von magischen, geheimnisvollen Rohdiamanten, die darauf warten, geschliffen zu werden. Schriftsteller sind Menschen, die einen Blick dafür haben, sie zu finden."</blockquote>
+> "Sollten Sie beschlossen haben, zu schreiben, schauen Sie sich aufmerksam in
+> Ihrer Umgebung um. Die Welt mag langweilig wirken, doch in Wirklichkeit
+> wimmelt es auf ihr von magischen, geheimnisvollen Rohdiamanten, die darauf
+> warten, geschliffen zu werden. Schriftsteller sind Menschen, die einen Blick
+> dafür haben, sie zu finden."
 
 ## Aufsätze aus "Resten"
 
@@ -149,7 +159,11 @@ Sein Talent, Dinge klar in Worte zu fassen, beweist er auch in "Von Beruf
 Schriftsteller" erneut. Den Begriff "Originalität" beispielsweise beschreibt er
 anhand eines Erlebnisses, das er als Kind mit den Beatles hatte.
 
-<blockquote>"Als die Beatles ihren Durchbruch hatten, war ich fünfzehn Jahre alt. Ich glaube, der erste Beatles-Song, den ich hörte, war 'Please Please Me' und ich weiß noch, dass ich Gänsehaut bekam. Warum? Weil es sich um einen Sound handelte, den ich bis dahin noch nicht gehört hatte. und der überdies so wahnsinnig gut klang."</blockquote>
+> "Als die Beatles ihren Durchbruch hatten, war ich fünfzehn Jahre alt. Ich
+> glaube, der erste Beatles-Song, den ich hörte, war 'Please Please Me' und ich
+> weiß noch, dass ich Gänsehaut bekam. Warum? Weil es sich um einen Sound
+> handelte, den ich bis dahin noch nicht gehört hatte. und der überdies so
+> wahnsinnig gut klang."
 
 ## Musik motiviert
 
@@ -158,16 +172,21 @@ es ihm schwer angetan. Aber auch die Populärmusik sowie klassische Kompositione
 finden immer wieder Erwähnung auf den 233 Seiten des Buchs. Doch nicht nur das
 macht den Angehörigen der 68er-Generation mehr als sympatisch.
 
-<blockquote>"Wenn ich eine Zeit lang nichts mehr geschrieben habe, ergreift mich der Drang, mir allmählich wieder etwas vorzunehmen. In mir sammelt sich Stoff für etwas, das ich ausdrücken will, wie Schmelzwasser an einem Damm. Eines Tages kann ich es nicht mehr aushalten, setze mich an meinen Schreibtisch und fange einen Roman an. Dass ich schreiben muss, obwohl ich keine Lust dazu habe, kommt bei mir nicht vor."</blockquote>
+> "Wenn ich eine Zeit lang nichts mehr geschrieben habe, ergreift mich der
+> Drang, mir allmählich wieder etwas vorzunehmen. In mir sammelt sich Stoff für
+> etwas, das ich ausdrücken will, wie Schmelzwasser an einem Damm. Eines Tages
+> kann ich es nicht mehr aushalten, setze mich an meinen Schreibtisch und fange
+> einen Roman an. Dass ich schreiben muss, obwohl ich keine Lust dazu habe,
+> kommt bei mir nicht vor."
 
 Ich persönlich hoffe, dass das noch lange so bleibt, und wir noch zahlreiche
 Werke des Japaners lesen dürfen.
 
-<strong> "[Von Beruf Schrifsteller](https://amzn.to/2GKMRsl)" </strong> ist im
-Jahr 2015 unter dem Titel "Shokogyo toshite no shosetsuka" bei Switch
-Publishing, Tokio erschienen. Bei der mir vorliegenden Ausgabe handelt es sich
-um ein Exemplar der zweiten Auflage von 2016, erschienen im DuMont Buchverlag,
-Köln. <strong>ISBN 978-3-8321-9843-5</strong>
+** "[Von Beruf Schrifsteller](https://amzn.to/2GKMRsl)" ** ist im Jahr 2015
+unter dem Titel "Shokogyo toshite no shosetsuka" bei Switch Publishing, Tokio
+erschienen. Bei der mir vorliegenden Ausgabe handelt es sich um ein Exemplar der
+zweiten Auflage von 2016, erschienen im DuMont Buchverlag, Köln. **ISBN
+978-3-8321-9843-5**
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
@@ -177,6 +196,8 @@ mehr möchte ich darüber berichten.
 
 ![haruki-murakami | full](http://cardamonchai.com/wp-content/uploads/2018/11/PB060199-960x719.jpg)
 
-<em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
+_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

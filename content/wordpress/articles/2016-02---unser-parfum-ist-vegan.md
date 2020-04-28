@@ -4,13 +4,12 @@ seoTitle: '"Unser Parfum ist vegan" - XAXX bietet 24 vegane Düfte an'
 slug: unser-parfum-ist-vegan
 link: /2016/02/unser-parfum-ist-vegan/
 fileName: 2016-02---unser-parfum-ist-vegan.md
-description:
-  Gestern gab der Geschäftsführer von XAXX bekannt, dass ab sofort alle 24 Düfte
-  der Parfum-Manufaktur als zu 100 Prozent vegan gekennzeichnet sind.
-excerpt:
-  Werbung - Gestern gab der Geschäftsführer von XAXX bekannt, dass ab sofort
+description: Gestern gab der Geschäftsführer von XAXX bekannt, dass ab sofort
   alle 24 Düfte der Parfum-Manufaktur als zu 100 Prozent vegan gekennzeichnet
   sind.
+excerpt: Werbung - Gestern gab der Geschäftsführer von XAXX bekannt, dass ab
+  sofort alle 24 Düfte der Parfum-Manufaktur als zu 100 Prozent vegan
+  gekennzeichnet sind.
 focusKeyword: Parfum
 labels:
   - Mode & Beauty
@@ -24,14 +23,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28943"
+image: /img/demo.jpg
+errors: []
 subTitle: XAXX bietet 24 vegane Düfte an
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Gestern gab der Geschäftsführer von XAXX bekannt, dass ab sofort alle 24
-Düfte der norddeutschen Parfum-Manufaktur als zu 100 Prozent vegan
-gekennzeichnet sind.</strong>
+**Gestern gab der Geschäftsführer von XAXX bekannt, dass ab sofort alle 24 Düfte
+der norddeutschen Parfum-Manufaktur als zu 100 Prozent vegan gekennzeichnet
+sind.**
 
 Dass das heutzutage leider nicht selbstverständlich sei, meinte Geschäftsführer
 Michael Kües. "Zwar gibt es einen weltweiten Trend, tierische Inhaltsstoffe
@@ -66,6 +68,8 @@ verschiedenen Duftvariationen geordert werden.
 
 [Vegan duschen mit XAXX](/2017/07/von-xaxx-gibt-es-jetzt-auch-duschgele/)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

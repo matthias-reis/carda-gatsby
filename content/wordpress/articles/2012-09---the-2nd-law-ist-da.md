@@ -4,12 +4,12 @@ seoTitle: Muse - The 2nd Law ist da - hier kommt meine Rezension
 slug: muse-the-second-law-ist-da
 link: /2012/09/muse-the-second-law-ist-da/
 fileName: 2012-09---the-2nd-law-ist-da.md
-description:
-  Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station gefahren
-  und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist da!
-excerpt:
-  Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station gefahren
-  und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist da!
+description: Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station
+  gefahren und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist
+  da!
+excerpt: Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station
+  gefahren und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist
+  da!
 focusKeyword: Muse
 labels:
   - 80er jahren
@@ -92,13 +92,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4222"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues Album von Muse
+  
 ---
-
-<strong>Der große Tag ist da! Zur Feier des Tages habe ich Überstunden eingelöst
-und das Büro früher verlassen. Wie der Fürst der Finsternis auf Reifen bin ich
-zur Packing-Station gefahren und habe mein Fach gelehrt. Die neue Muse-Platte
-"The 2nd Law" ist da! </strong>
 
 ![Muse - The 2nd Law ist da! | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/09/427d6774096811e283fe22000a1d0cf6_7-150x150.jpg "Muse - The 2nd Law ist da!")
 
@@ -173,26 +171,24 @@ Hören.
 
 [youtube=http://www.youtube.com/watch?v=82qSTzrAJoM]
 
-<em>M-m-m-m-m-mad-mad-mad </em><em>M-m-m-m-m-mad-mad-mad
-</em><em>M-m-m-m-m-mad-mad-mad </em><em>M-m-m-m-m-mad-mad-mad </em><em>I, I
-can't get this memories out of my mind, </em><em>It's some kind of madness, is
-started to evolve </em><em>I, I tried so hard to let you go </em><em>But some
-kind of Madness is swallowing me whole </em><em>I, I tried so hard to let you go
-</em><em>But some kind of Madness is swallowing me whole </em><em>I have finally
-seen the light </em><em>And I have finally realized </em><em>What you mean
-</em><em>And know </em><em>I need to know, is this real love? </em><em>Or is it
-just Madness keeping us a float </em><em>But when I look back at all the crazy
-fights we had </em><em>It's like some kind of Madness, was taking control
-</em><em>And know I have finally seen the light </em><em>And I have finally
-realized </em><em>What you need </em><em>M-m-m-m-m-m-mh
-</em><em>M-m-m-m-m-mad-mad-mad </em><em>M-m-m-m-m-mad-mad-mad </em><em>And know
-I have finally seen the end </em><em>(Finally seen the end) </em><em>And I not
-expecting you to care </em><em>(Expecting you to care) </em><em>And I have
-finally seen the light </em><em>(Finally seen the light) </em><em>And I have
-finally realized </em><em>I need your Love </em><em>I need your Love
-</em><em>Come to me, just in a dream </em><em>Come on and rescue me </em><em>Yes
-I know, I can't be wrong </em><em>And maybe all too have strong </em><em>Our
-love is… </em><em>M-m-m-m-m-mad-mad-mad </em><em>M-m-m-m-m-mad-mad-mad
-</em><em>Madness</em>## Muse Wegweiser<ol><li>
-[Muse - "Drones" ist endlich da!](/2012/08/muse-stellen-neue-single-madness-vor/)
-</li></ol>
+_M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_
+_M-m-m-m-m-mad-mad-mad_ _I, I can't get this memories out of my mind,_ _It's
+some kind of madness, is started to evolve_ _I, I tried so hard to let you go_
+_But some kind of Madness is swallowing me whole_ _I, I tried so hard to let you
+go_ _But some kind of Madness is swallowing me whole_ _I have finally seen the
+light_ _And I have finally realized_ _What you mean_ _And know_ _I need to know,
+is this real love?_ _Or is it just Madness keeping us a float_ _But when I look
+back at all the crazy fights we had_ _It's like some kind of Madness, was taking
+control_ _And know I have finally seen the light_ _And I have finally realized_
+_What you need_ _M-m-m-m-m-m-mh_ _M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_
+_And know I have finally seen the end_ _(Finally seen the end)_ _And I not
+expecting you to care_ _(Expecting you to care)_ _And I have finally seen the
+light_ _(Finally seen the light)_ _And I have finally realized_ _I need your
+Love_ _I need your Love_ _Come to me, just in a dream_ _Come on and rescue me_
+_Yes I know, I can't be wrong_ _And maybe all too have strong_ _Our love is…_
+_M-m-m-m-m-mad-mad-mad_ _M-m-m-m-m-mad-mad-mad_ _Madness_ ## Muse Wegweiser1.
+[Muse stellen neue Single "Madness" vor](/2012/08/muse-stellen-neue-single-madness-vor/)
+
+1.  [Muse - "Drones" ist endlich da!](/2015/06/muse-drones-ist-endlich-da/)
+
+  

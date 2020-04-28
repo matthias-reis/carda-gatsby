@@ -4,12 +4,10 @@ seoTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig
 slug: kampf-gegen-das-bienensterben
 link: /2019/07/kampf-gegen-das-bienensterben/
 fileName: 2019-07---kampf-gegen-das-bienensterben.md
-description:
-  "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind
-  diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit
+description: "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir
+  sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit
   drängt."
-excerpt:
-  "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind
+excerpt: "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind
   diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit
   drängt."
 focusKeyword: Bienen
@@ -31,12 +29,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28924"
+image: /img/demo.jpg
+errors: []
 subTitle: Milben, Pflanzenschutzmittel und Honigproduktion
+  
 ---
 
-<strong>Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind
+**Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir sind
 diejenigen, die dafür die Verantwortung übernehmen sollten und das so schnell
-wie möglich. Die Zeit drängt und es steht einiges auf dem Spiel.</strong>
+wie möglich. Die Zeit drängt und es steht einiges auf dem Spiel.**
 
 Menschen essen seit Jahrtausenden Honig. Bereits 9.000 Jahre alte
 Höhlenmalereien zeigen "Honigjäger" bei der Arbeit. Die Geschichte der Haltung
@@ -213,5 +214,7 @@ es schwer haben, unser komplettes Ökosystem stünde auf der Kippe.
 Wenn Euch der Artikel gefallen hat, freue ich mich über Euer positives Feedback.
 Ansonsten bin ich wie immer offen für Eure Anregungen und Kommentare.
 
-<strong>Hinweis:</strong> Auf den Fotos sind unterschiedliche (Wild-)Bienenarten
-zu sehen, die ich bei verschiedenen Gelegenheiten fotografiert habe.
+**Hinweis:** Auf den Fotos sind unterschiedliche (Wild-)Bienenarten zu sehen,
+die ich bei verschiedenen Gelegenheiten fotografiert habe.
+
+  

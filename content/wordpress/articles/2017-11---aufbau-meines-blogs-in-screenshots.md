@@ -4,12 +4,10 @@ seoTitle: Der Aufbau meines Blogs in Screenshots - Jetzt wird's übersichtlich!
 slug: aufbau-meines-blogs-in-screenshots
 link: /2017/11/aufbau-meines-blogs-in-screenshots
 fileName: 2017-11---aufbau-meines-blogs-in-screenshots.md
-description:
-  Eigentlicht bin ich ja schon ziemlich stolz auf meine Seite. Heute zeige ich
-  Euch mal den genauen in Aufbau in Screenshots. Da ist einiges dabei.
-excerpt:
-  Eigentlicht bin ich ja schon ziemlich stolz auf meine Seite. Heute zeige ich
-  Euch mal den genauen in Aufbau in Screenshots. Da ist einiges dabei.
+description: Eigentlicht bin ich ja schon ziemlich stolz auf meine Seite. Heute
+  zeige ich Euch mal den genauen in Aufbau in Screenshots. Da ist einiges dabei.
+excerpt: Eigentlicht bin ich ja schon ziemlich stolz auf meine Seite. Heute
+  zeige ich Euch mal den genauen in Aufbau in Screenshots. Da ist einiges dabei.
 focusKeyword: Screenshots
 labels:
   - Blog
@@ -31,24 +29,27 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18415"
+image: /img/demo.jpg
+errors: []
 subTitle: Von A wie "Architektur" bis W wie "Webdesign"
+  
 ---
 
-<strong>Eigentlich bin ich ja schon ziemlich stolz auf meine Seite. Besonders
-seit dem letzten Relaunch gefällt sie mir richtig gut. Screenshots gab es im
+**Eigentlich bin ich ja schon ziemlich stolz auf meine Seite. Besonders seit dem
+letzten Relaunch gefällt sie mir richtig gut. Screenshots gab es im
 [Artikel zum neuen Design](/2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/)
 allerdings nur von der "alten Seite". Doch Schluss mit der Vergangenheit. Heute
 habe ich eine Komplettübersicht des neuen Blogs für Euch - Von A wie "Ausflug"
-bis W wie "Webdesign". </strong>
+bis W wie "Webdesign".**
 
 Ihr seht schon an der Zwischenüberschrift: Mein Blog ist thematisch nicht
 besonders geradlinig. Und das macht ihn besonders. Zwar dreht sich oft alles um
 die Hauptthemen "vegan" und "Rock'n'Roll", "Reiseberichte", "Interviews" und
 "Basteleien" kommen aber dennoch nicht zu kurz.
 
-Ein Bisschen stolz ist doch OK, oder? Immerhin ist <em>Anne bloggt
-cardamonchai</em> so etwas wie mein "Lebenswerk". Hier ist einfach (fast) alles
-zu finden, was mich bewegt und ausmacht, was ich erlebe und fabriziere.
+Ein Bisschen stolz ist doch OK, oder? Immerhin ist _Anne bloggt cardamonchai_ so
+etwas wie mein "Lebenswerk". Hier ist einfach (fast) alles zu finden, was mich
+bewegt und ausmacht, was ich erlebe und fabriziere.
 
 Dem neuen Blogdesign kam bisher weniger Aufmerksamkeit zu, als es verdient hat.
 Im Artikel zum Blogumzug wurde es zwar selbstverständlich präsentiert und
@@ -83,17 +84,17 @@ Unterpunkte. Hier mal ein Beispiel:
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Menüpunkt.png)
 
-<a href="/category/vegan-2/">
+[](/category/vegan-2/)
 
 ### Untermenü
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Untermenü.png)
 
 Die Unterpunkte sind mit den Jahren gewachsen und haben sich auch dann und wann
-verändert. <em>Anne bloggt cardamonchai </em>gibt es schließlich auch schon seit
-2008! Änderungen behalte ich mir natürlich auch für die Zukunft vor. Denn das
-ist ja auch das Schöne an einem Blog. Das Bloggen ist etwas sehr progressives
-und lebendiges. Ein Blog zeigt ständig neue Seiten von sich.
+verändert. _Anne bloggt cardamonchai_ gibt es schließlich auch schon seit 2008!
+Änderungen behalte ich mir natürlich auch für die Zukunft vor. Denn das ist ja
+auch das Schöne an einem Blog. Das Bloggen ist etwas sehr progressives und
+lebendiges. Ein Blog zeigt ständig neue Seiten von sich.
 
 ## Portrait und Infos
 
@@ -137,7 +138,7 @@ Das seht Ihr zum Beispiel als erstes mit dem Suchbegriff "Beauty":
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Beauty-960x477.png)
 
-<a href="/?s=Beauty"><strong><em>
+[**\_\_**](/?s=Beauty)
 
 ## Verschiedene Artikeltypen
 
@@ -149,7 +150,7 @@ Reisebericht ohne tolle Bilder?
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Galerie-rechts.png)
 
-<a href="/2017/11/kilkenny-castle/"><em><strong>
+[_ \_\_\_\_ _](/2017/11/kilkenny-castle/)
 
 ### Klassische Galerie
 
@@ -158,7 +159,7 @@ Nebensache.
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Klassische-Galerie-960x867.png)
 
-<a href="http://cardamonchai.com/2010/01/moewen-am-bosporus/"><strong><em>
+[**\_\_**](/2010/01/moewen-am-bosporus/)
 
 ## Artikel
 
@@ -166,14 +167,14 @@ Und so sieht ein klassischer Artikel aus:
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Artikel-960x514.png)
 
-<a href="http://cardamonchai.com/2017/10/calexico-the-thread-that-keeps-us/"><em><strong>
+[_ \_\_\_\_ _](/2017/10/calexico-the-thread-that-keeps-us/)
 
 Klickt Ihr auf einer Unterseite auf das Logo, gelangt Ihr automatisch wieder auf
 die Startseite.
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Unter.png)
 
-<a href="http://cardamonchai.com"><em><strong>
+[_ \_\_\_\_ _]()
 
 ## Interview
 
@@ -184,7 +185,7 @@ ihre Arbeit zu erfahren. Hier ein Beispiel:
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Interview-1-960x841.png)
 
-<a href="http://cardamonchai.com/2017/08/fritzi-aus-preussen-mein-interview/"><em><strong>
+[_ \_\_\_\_ _](/2017/08/fritzi-aus-preussen-mein-interview/)
 
 ## Kommentare
 
@@ -194,7 +195,7 @@ einfach nur einen Gruß hinterlassen könnt.
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Kommentare-1-960x203.png)
 
-<em><strong>
+---
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Kommentare2-960x440.png)
 
@@ -203,22 +204,22 @@ Teilen meiner Artikel über Social Media.
 
 ![Screenshots | full](http://cardamonchai.com/wp-content/uploads/2017/11/Social-Media.png)
 
-<em><strong>
+---
 
 ## Mobile Ansichten
 
 Ganz nebenbei bemerkt ist mein Blog auch noch ganz toll mobiloptimiert. So sieht
-<em>Anne bloggt cardamonchai </em>zum Beispiel auf einem iPhone 6 aus:
+_Anne bloggt cardamonchai_ zum Beispiel auf einem iPhone 6 aus:
 
 ![Screenshots](http://cardamonchai.com/wp-content/uploads/2017/11/iPhone6-1-300x460.png)
 
-<em><strong>
+---
 
 So auf einem iPad:
 
 ![Screenshots | large](http://cardamonchai.com/wp-content/uploads/2017/11/iPad-1-520x375.png)
 
-<em><strong>
+---
 
 Nachdem Ihr meine Seite jetzt genau kennt, wünsche ich Euch viel Spaß beim
 Weiterlesen, Klicken und Entdecken.
@@ -239,3 +240,5 @@ Natürlich freue ich mich auch unter diesem Beitrag über Eure Beiträge im
 [Kommentarfeld](https://www.bloggerabc.de/mehr-kommentare-auf-dem-blog/.) !
 
 Titelbild: [Condoyi](https://pixabay.com/de/users/candoyi-606355/), Picabay
+
+  

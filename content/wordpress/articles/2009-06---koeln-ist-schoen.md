@@ -18,5 +18,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11365"
-subTitle: Zwischenstopp am Bahnhof Köln</strong>
+image: /img/demo.jpg
+errors: []
+subTitle: <strong>Zwischenstopp am Bahnhof Köln</strong>
+  
 ---
+
+
+  

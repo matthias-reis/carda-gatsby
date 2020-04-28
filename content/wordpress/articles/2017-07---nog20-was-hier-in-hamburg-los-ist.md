@@ -4,12 +4,12 @@ seoTitle: NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin
 slug: nog20
 link: /2017/07/nog20/
 fileName: 2017-07---nog20-was-hier-in-hamburg-los-ist.md
-description:
-  NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine kleine
-  Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner anfühlt.
-excerpt:
-  NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine kleine
-  Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner anfühlt.
+description: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit
+  eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
+  anfühlt.
+excerpt: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit eine
+  kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
+  anfühlt.
 focusKeyword: nog20
 labels:
   - Altona
@@ -34,13 +34,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17062"
+image: /img/demo.jpg
+errors: []
 subTitle: Statusmeldung einer Anwohnerin
+  
 ---
 
-<strong><em>NoG20 -</em> Zu dem befreundeten Redakteur, der mich heute Morgen um
-einen Artikel zum Thema G20 für sein Online-Magazin bat, meinte ich noch "Im
-Moment schaffe ich es nicht, drüber zu schreiben". Ich fühlte mich kopfmäßig
-einfach nicht dazu in der Lage.</strong>
+**_NoG20 -_ Zu dem befreundeten Redakteur, der mich heute Morgen um einen
+Artikel zum Thema G20 für sein Online-Magazin bat, meinte ich noch "Im Moment
+schaffe ich es nicht, drüber zu schreiben". Ich fühlte mich kopfmäßig einfach
+nicht dazu in der Lage.**
 
 ## Von "Unser Viertel gehört uns" zum Krawalltourismus in unter einem Tag
 
@@ -51,7 +54,9 @@ mir warten und wissen wollen, was hier los ist. Heute Morgen habe ich ein Bild
 in meinem Instagram-Channel gepostet. Versehen mit einer Bitte, die von Herzen
 kommt:
 
-<blockquote>"Hört auf, unsere Stadt in Brand zu stecken. Sie kann nichts dafür. Wir trauen uns nicht in die Arbeit und in die Schule und ihr zieht unseren friedlichen Protest in den Dreck."</blockquote>
+> "Hört auf, unsere Stadt in Brand zu stecken. Sie kann nichts dafür. Wir trauen
+> uns nicht in die Arbeit und in die Schule und ihr zieht unseren friedlichen
+> Protest in den Dreck."
 
 ![nog20](http://cardamonchai.com/wp-content/uploads/2017/07/unbenannt-166-640x800.jpg)
 
@@ -142,3 +147,5 @@ sich doch alles noch zum Guten wendet.
 
 [gallery link="none" size="large" type="rectangular"
 ids="17070,17069,17068,17067,17066,17061,17060,17059,17058,17057,17056,17055,17054"]
+
+  

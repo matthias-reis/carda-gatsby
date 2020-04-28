@@ -4,13 +4,12 @@ seoTitle: Vegan Beauty Basket im Test - Unboxing Wellness
 slug: vegan-beauty-basket-im-test
 link: /2016/09/vegan-beauty-basket-im-test/
 fileName: 2016-09---vegan-beauty-basket-im-test.md
-description:
-  Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle Vegan Beauty
-  Basket kam bei mir an und ich bin begeistert - Ich zeige Euch, was drin ist.
-excerpt:
-  Werbung - Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle
+description: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle
   Vegan Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige Euch,
   was drin ist.
+excerpt: Werbung - Heute habe ich ein ganz besonderes Paket bekommen. Der
+  aktuelle Vegan Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige
+  Euch, was drin ist.
 focusKeyword: Vegan Beauty Basket
 labels:
   - Berlin
@@ -30,12 +29,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15196"
+image: /img/demo.jpg
+errors: []
 subTitle: Unboxing Wellness
+  
 ---
 
 Werbung\*
 
 ![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/09/29578673560_1aab418caf_z-640x427.jpg)
+
+**Diese Woche habe ich ein ganz besonders tolles Paket bekommen. Es stammt von
+der lieben Ina, der Gründerin von Vegan Beauty Basket.**
 
 Ich hatte Euch die vegan lebende Beauty Queen bereits in meinem kleinen
 [Bericht](/2016/08/vegan-beauty-basket-gratis-aktion/) vor ein paar Tagen
@@ -63,23 +68,26 @@ Beim Lippenstift aus dem Hause "Fairypants" habe ich mich für die Sorte "Rita"
 entschieden, die in einem warmen Braunton gefärbt ist, was wie ich finde, gut
 mit meinen Brauen und Haaren harmoniert.
 
-<blockquote>Fairypants wurde 2009 in Cheshire, England gegründet. Alle Produkte von der kleinen Manufaktur werden in liebevoller Handarbeit hergestellt und es wird dabei einen sehr hohen Wert auf die Qualität der Inhaltsstoffe gelegt.</blockquote>
+> Fairypants wurde 2009 in Cheshire, England gegründet. Alle Produkte von der
+> kleinen Manufaktur werden in liebevoller Handarbeit hergestellt und es wird
+> dabei einen sehr hohen Wert auf die Qualität der Inhaltsstoffe gelegt.
 
 Beim festen Parfum fiel meine Wahl auf die Sorte "Japanese Spring" mit der
 Duftnote Rosenblüte und Lavendel. Das Parfum kommt von Eve Butterfly Soaps. Zur
 Auswahl stehen außer der von mir gewählten Version auch noch
 
-<ul>
-    <li>"Fairy Tale" mit grünem Tee, Moschus und Zitrus,</li>
-    <li>"One In A Million" mit Himbeer, Neroli, Jasmin und Gardenie,</li>
-    <li>"Make A Wish" mit Lilien, Jasminblüten und Rosen,</li>
-    <li>"Kismet" mit Patchouli, Lemongrass und süßer Orange,</li>
-    <li>"Sweet Heart" mit Zuckerwatteduft,</li>
-    <li>"You Will Rock It" mit Vanille, Erdbeeren und Himbeeren sowie</li>
-    <li>"Naughty But Nice" mit einem Hauch Vanille, Bergamot und Zypressenöl.</li>
-</ul>
+- "Fairy Tale" mit grünem Tee, Moschus und Zitrus,
+- "One In A Million" mit Himbeer, Neroli, Jasmin und Gardenie,
+- "Make A Wish" mit Lilien, Jasminblüten und Rosen,
+- "Kismet" mit Patchouli, Lemongrass und süßer Orange,
+- "Sweet Heart" mit Zuckerwatteduft,
+- "You Will Rock It" mit Vanille, Erdbeeren und Himbeeren sowie
+- "Naughty But Nice" mit einem Hauch Vanille, Bergamot und Zypressenöl.
 
-<blockquote>Eve Butterfly Soaps ist eine kleine Manufaktur für handgemachte Naturkosmetik aus Worms, schon beim Einkauf der Rohstoffe unterstützt die Manufaktur insbesondere Hersteller für fair gehandelte und aus kontrolliert biologischem Anbau stammende Produkte</blockquote>
+> Eve Butterfly Soaps ist eine kleine Manufaktur für handgemachte Naturkosmetik
+> aus Worms, schon beim Einkauf der Rohstoffe unterstützt die Manufaktur
+> insbesondere Hersteller für fair gehandelte und aus kontrolliert biologischem
+> Anbau stammende Produkte
 
 Ihr seht, es ist wirklich für jeden Geschmack etwas dabei. Und Lippenpflege und
 Parfum sind bei weitem nicht alles. Insgesamt sind in der Box sechs verschiedene
@@ -106,7 +114,10 @@ einfach klasse, frisch und warm zugleich. Pflegende Aloe Vera und beruhigendes
 Calendula-Extrakt pflegen die Haare und das beigefügte Eibischextrakt  macht die
 Haare kämmbar.
 
-<blockquote>We passionately believe that human kindness is the balm of life, which is why we developed the Human+Kind range of sensational natural beauty products. Our dream was to introduce gentle, effective, multi-tasking skin miracles without any of the harmful petrochemicals.</blockquote>
+> We passionately believe that human kindness is the balm of life, which is why
+> we developed the Human+Kind range of sensational natural beauty products. Our
+> dream was to introduce gentle, effective, multi-tasking skin miracles without
+> any of the harmful petrochemicals.
 
 Bei Human + Kind hat man sich der Herstellung von kombinierten Produkten
 verschrieben, die natürlich pflegen und dabei im Einklang mit der Natur schlagen
@@ -128,11 +139,16 @@ mich so überzeugt, wie dieses. Es brennt nicht, fettet nicht und zieht gut ein.
 Außerdem kann man tatsächlich nahezu sofort einen Effekt spüren. Die Augen
 fühlen sich frischer an, Ringe wirken weniger tief. Übrigens kann man auch
 Make-up prima darüber auftragen, ohne dass etwas verwischt. Neben
-[Rosacea](/2016/07/lovely-day-botanicals-kosmetiktest/) - sowie Ekzem-geplagter
-Haut eingesetzt werden und besonders reizarm und pflegend sind. Außerdem sorgen
-sie für einen sehr angenehmen Duft.
+[veganem Hyaloron](/2016/07/lovely-day-botanicals-kosmetiktest/) sind auch
+Nachtkerzen- und Mandelöl enthalten, die beide auch zur Pflege von
+Neurodermitis-, [Rosacea](/2016/05/gladskin-vegane-pflege-bei-rosacea/) - sowie
+Ekzem-geplagter Haut eingesetzt werden und besonders reizarm und pflegend sind.
+Außerdem sorgen sie für einen sehr angenehmen Duft.
 
-<blockquote>Bereits 1978 wurde i+m NATURKOSMETIK BERLIN gegründet und ist heute einer der traditions­reichsten Naturkosmetikhersteller in Deutschland. Die Gründerin Inge Stamm gehört zu den erfahrensten Entwicklern der deutschen Natur­kosmetik.</blockquote>
+> Bereits 1978 wurde i+m NATURKOSMETIK BERLIN gegründet und ist heute einer der
+> traditions­reichsten Naturkosmetikhersteller in Deutschland. Die Gründerin
+> Inge Stamm gehört zu den erfahrensten Entwicklern der deutschen
+> Natur­kosmetik.
 
 Last but not least ist ein extragroßer
 [Konjak-Schwamm](/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/) vom
@@ -143,7 +159,9 @@ Durchblutung ankurbelt, überschüssige Hautschüppchen sanft entfernt und die
 Bildung neuer Hautzellen fördert. Reinigungsmittel können dadurch besonders
 sparsam eingesetzt oder sogar weggelassen werden.
 
-<blockquote>Jislaine Naturkosmetik bietet Produkte aus pflanzlichen Inhaltsstoffen an, die seit Generationen für ihre pflegenden Eigenschaften in verschiedenen Regionen der Erde geschätzt werden.</blockquote>
+> Jislaine Naturkosmetik bietet Produkte aus pflanzlichen Inhaltsstoffen an, die
+> seit Generationen für ihre pflegenden Eigenschaften in verschiedenen Regionen
+> der Erde geschätzt werden.
 
 ## Vegan Beauty Basket - Mein Fazit
 
@@ -168,17 +186,17 @@ ids="15196,15194,15195,15193,15191,15192,15189,15190,15188,15187,15185,15186,151
 
 ## Wegweiser Vegan Beauty Basket
 
-<ol>
-    <li> [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/) </li>
-    <li>Im Test 9/2016</li>
-    <li> [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) </li>
-    <li> [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/) </li>
-    <li> [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/) </li>
-</ol>
+1.  [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/)
+1.  Im Test 9/2016
+1.  [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/)
+1.  [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/)
+1.  [Unboxing März-Ausgabe 3/2018](/2018/03/unboxing-vegan-beauty-basket-maerz/)
 
 Zum Vegan Beauty Basket geht es
 [hier entlang](https://www.veganbeautybasket.com/).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+  

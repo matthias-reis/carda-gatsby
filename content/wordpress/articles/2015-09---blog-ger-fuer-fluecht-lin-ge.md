@@ -4,12 +4,11 @@ seoTitle: "#Bloggerfuerfluechtlinge - Werdet aktiv!"
 slug: bloggerfuerfluechtlinge
 link: /2015/09/bloggerfuerfluechtlinge/
 fileName: 2015-09---blog-ger-fuer-fluecht-lin-ge.md
-description:
-  "Sicher ist Euch in den letzten Tagen beim Stöbern durch die Blogs auch immer
-  wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen. Helft jetzt mit!"
-excerpt:
-  "Sicher ist Euch in den letzten Tagen genau wie mir beim Stöbern durch die
-  Blogs immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen."
+description: "Sicher ist Euch in den letzten Tagen beim Stöbern durch die Blogs
+  auch immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen. Helft
+  jetzt mit!"
+excerpt: "Sicher ist Euch in den letzten Tagen genau wie mir beim Stöbern durch
+  die Blogs immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen."
 focusKeyword: "#BloggerfuerFluechtlinge"
 labels:
   - "#Bloggerfuerfluechtlinge"
@@ -28,19 +27,29 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12690"
+image: /img/demo.jpg
+errors: []
 subTitle: Werdet aktiv!
+  
 ---
 
-![Blogger für Flüchtlinge | full](http://cardamonchai.com/wp-content/uploads/2015/09/BFF_1508_ButtonBlau3-300x3001.png)
+Dabei handelt es sich um eine Initiative von Paul [<sup>1</sup>](#1), Karla
+[<sup>2</sup>](#2), Stevan [<sup>3</sup>](#3) und Nico [<sup>4</sup>](#4). Die
+vier Blogger haben das Eine gemeinsam, wie sie selbst von sich sagen: Sie sind
+Menschen, die Menschen helfen möchten. Die Ziele von
+**#BloggerfuerFluechtlinge** [<sup>5</sup>](#5) sind:
 
-Dabei handelt es sich um eine Initiative von Paul [](#1) sind:
+- Augen öffnen - Niemand soll wegschauen
+- Gemeinsam die Flüchtlingshilfe unterstützen
 
-<ul><li>Augen öffnen - Niemand soll wegschauen</li><li>Gemeinsam die Flüchtlingshilfe unterstützen</li></ul>
+Auf der Homepage von **#BloggerfuerFluechtlinge** <sup> [5](#5) </sup>wird
+aufgezeigt, wie man
 
-Auf der Homepage von <strong>#BloggerfuerFluechtlinge</strong><sup> [5](#5)
-</sup>wird aufgezeigt, wie man
-
-<ul><li>Geld spenden kann,</li><li>Sachspenden leisten kann,</li><li>vor Ort Hilfe helfen kann,</li><li>die Botschaft von <strong>#BloggerfuerFluechtlinge</strong><sup> [5](#5) </sup>weitergeben kann.</li></ul>
+- Geld spenden kann,
+- Sachspenden leisten kann,
+- vor Ort Hilfe helfen kann,
+- die Botschaft von **#BloggerfuerFluechtlinge** <sup> [5](#5) </sup>weitergeben
+  kann.
 
 Es werden Hilfsprojekte vorgestellt und Fragen beantwortet, es wird auf andere
 Blogs verlinkt, aufgeklärt, informiert und zum Spenden animiert.
@@ -49,15 +58,19 @@ Blogs verlinkt, aufgeklärt, informiert und zum Spenden animiert.
 
 ![Flüchtlingen helfen](http://cardamonchai.com/wp-content/uploads/2015/09/20540844673_5164aac8fe_o1.jpg "Flüchtlingen helfen")
 
-Auch Ihr könnt <strong>#BloggerfuerFluechtlinge</strong><sup> [5](#5) </sup>
-registrieren und das Logo inklusive Spendenbutton auf Eurer Seite einbinden. Im
-Anschluss könnt Ihr dann bloggen, twittern und auf Instagram und Facebook
-posten, was das Zeug hält und damit helfen, Menschen zu helfen.
+Auch Ihr könnt **#BloggerfuerFluechtlinge** <sup> [5](#5) </sup>ganz einfach
+unterstützen. Dazu müsst Ihr Euch nur als Blogger auf der Seite von
+**#BloggerfuerFluechtlinge** <sup> [5](#5) </sup> registrieren und das Logo
+inklusive Spendenbutton auf Eurer Seite einbinden. Im Anschluss könnt Ihr dann
+bloggen, twittern und auf Instagram und Facebook posten, was das Zeug hält und
+damit helfen, Menschen zu helfen.
 
 Über die Aktion wurden bis zum heutigen Tage bereits 106.647 Euro von insgesamt
 1.310 Spendern gesammelt. Durch zahlreiche Erwähnungen in der Presse, wie z. B.
-in der Süddeutschen Zeitung [5](#6) </sup>von Tag zu Tag an Bekanntheit zu. Und
-das ist auch gut so.
+in der Süddeutschen Zeitung [<sup>6</sup>](#6), in der Frankfurter Rundschau
+[<sup>7</sup>](#7) und in der Huffington Post<sup> [8](#8) </sup> sowie die
+virale Verbreitung durch die Blogger nimmt **#BloggerfuerFluechtlinge** <sup>
+[5](#5) </sup>von Tag zu Tag an Bekanntheit zu. Und das ist auch gut so.
 
 Die beiden Fotos habe ich beim Sortieren von Kleiderspenden in der innerhalb der
 Hamburger Messehalle B7 eingerichteten Kleiderkammer aufgenommen. Wer Zeit hat
@@ -72,11 +85,9 @@ Tage: Jeder ist willkommen und kann einen Beitrag leisten. Das gilt natürlich
 auch für alle anderen Städte und Gemeinden, für Kleiderkammern, Bahnhöfe und
 Unterkünfte. #refugeeswelcome!
 
-![#BloggerfuerFluechtlinge | large](http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg " [](/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-e1442239162466.jpg)  #BloggerfuerFluechtlinge")
+![#BloggerfuerFluechtlinge | large](http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg "[ ](/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-e1442239162466.jpg)  #BloggerfuerFluechtlinge")
 
-![#BloggerfuerFluechtlinge - Jetzt spenden! | full](http://cardamonchai.com/wp-content/uploads/2015/09/Bildschirmfoto-2015-09-14-um-15.42.29.png " [](/wp-content/uploads/2015/09/Bildschirmfoto-2015-09-14-um-15.42.29.png)  #BloggerfuerFluechtlinge - Jetzt spenden!")
-
-&nbsp;
+![#BloggerfuerFluechtlinge - Jetzt spenden! | full](http://cardamonchai.com/wp-content/uploads/2015/09/Bildschirmfoto-2015-09-14-um-15.42.29.png "[ ](/wp-content/uploads/2015/09/Bildschirmfoto-2015-09-14-um-15.42.29.png)  #BloggerfuerFluechtlinge - Jetzt spenden!")
 
 &nbsp;
 
@@ -94,4 +105,16 @@ Unterkünfte. #refugeeswelcome!
 
 &nbsp;
 
-<ul><li>[1]  [Erwähnung in der Huffington Post](http://www.einfach-lecker-essen.com/blogger-fuer-fluechtlinge/) </li></ul><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+&nbsp;
+
+- [1][paul](http://www.einfach-lecker-essen.com/blogger-fuer-fluechtlinge/)
+- [2][karla](http://www.buchkolumne.de/)
+- [3][stevan](http://nutriculinary.com/)
+- [4][nico](http://lumma.de/)
+- [5][#bloggerfuerfluechtlinge](http://www.blogger-fuer-fluechtlinge.de/)
+- [6][erwähnung in der süddeutschen zeitung](http://www.sueddeutsche.de/news/politik/fluechtlinge-bloggerfuerfluechtlinge-blogger-sammeln-spenden-dpa.urn-newsml-dpa-com-20090101-150828-99-12086
+  &lt;ul&gt;)
+- [7][erwähnung in der frankfurter rundschau](http://www.fr-online.de/digital/blogger-fuer-fluechtlinge-blogger-sammeln-spenden-fuer-fluechtlinge,1472406,31586248.html)
+- [8][erwähnung in der huffington post](http://www.huffingtonpost.de/paul-fritze/der-aufstand-der-anstandigen-im-netz-bloggerfuerfluechtlinge_b_8041836.html)MerkenMerken
+
+  

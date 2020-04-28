@@ -4,12 +4,11 @@ seoTitle: Alcest live @ Logo Hamburg - Meine Bilder
 slug: alcest-live-logo-hamburg
 link: /2015/09/alcest-live-logo-hamburg/
 fileName: 2015-09---alcest-live-logo-hamburg.md
-description:
-  Hier sind meine Bilder vom Alcest-Konzert am Freitag im Hamburger Logo. Es war
-  schön, die Band aus Frankreich endlich mal wieder live zu sehen.
-excerpt:
-  Hier sind meine Bilder vom Alcest-Konzert am Freitag im Hamburger Logo. Es war
-  schön, die Band aus Avignon endlich mal wieder live auf der Bühne zu sehen.
+description: Hier sind meine Bilder vom Alcest-Konzert am Freitag im Hamburger
+  Logo. Es war schön, die Band aus Frankreich endlich mal wieder live zu sehen.
+excerpt: Hier sind meine Bilder vom Alcest-Konzert am Freitag im Hamburger Logo.
+  Es war schön, die Band aus Avignon endlich mal wieder live auf der Bühne zu
+  sehen.
 focusKeyword: Alcest
 labels:
   - Alcest
@@ -28,13 +27,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12675"
+image: /img/demo.jpg
+errors: []
 subTitle: Bildergalerie
+  
 ---
-
-<strong>Hier sind meine Bilder vom Alcest-Konzert am Freitag im Hamburger Logo.
-Es war schön, die Band aus Avignon endlich mal wieder live auf der Bühne zu
-sehen. Schon bei ihrem Gig im Münchener Backstage Werk im Januar 2014 boten sie
-ein tolles Live-Erlebnis.</strong>
 
 Für den leider etwas leise gedrehten Auftritt als Vorband von Opeth in der
 Backstage Halle im Oktober 2014 wurden wir am Freitag eindeutig entschädigt. Das
@@ -57,4 +54,6 @@ auch zwei von ihrem Sänger
 
 ![Blogger für Flüchtlinge | full](http://cardamonchai.com/wp-content/uploads/2015/09/BFF_1508_HeaderSW2-300x111.jpg)
 
-<a href="http://www.blogger-fuer-fluechtlinge.de/">
+[](http://www.blogger-fuer-fluechtlinge.de/)
+
+  

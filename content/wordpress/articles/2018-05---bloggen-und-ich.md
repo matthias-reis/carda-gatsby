@@ -4,13 +4,12 @@ seoTitle: Bloggen und ich - Warum es manchmal gar nicht so leicht ist
 slug: bloggen-und-ich
 link: /2018/05/bloggen-und-ich/
 fileName: 2018-05---bloggen-und-ich.md
-description:
-  „Blogger sollte man sein. Da hat man lauter Vorteile“. Solche Sätze höre ich
-  immer wieder. Doch ist es echt so einfach? Mein Blog-Fazit nach 10 Jahren.
-excerpt:
-  „Blogger sollte man sein. Da bekommt man ständig tolle Sachen geschenkt!" -
-  Sätze wie diesen höre ich in letzter Zeit häufig. Doch ist es mit dem Bloggen
-  wirklich so einfach? Mein Fazit nach 10 Jahren.
+description: „Blogger sollte man sein. Da hat man lauter Vorteile“. Solche Sätze
+  höre ich immer wieder. Doch ist es echt so einfach? Mein Blog-Fazit nach 10
+  Jahren.
+excerpt: „Blogger sollte man sein. Da bekommt man ständig tolle Sachen
+  geschenkt!" - Sätze wie diesen höre ich in letzter Zeit häufig. Doch ist es
+  mit dem Bloggen wirklich so einfach? Mein Fazit nach 10 Jahren.
 focusKeyword: Bloggen
 labels:
   - 10JahreBloggen
@@ -35,13 +34,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21008"
+image: /img/demo.jpg
+errors: []
 subTitle: Warum es manchmal nicht so einfach ist
+  
 ---
 
-<strong>„Blogger sollte man sein. Da bekommt man immer so viele tolle Sachen
+**„Blogger sollte man sein. Da bekommt man immer so viele tolle Sachen
 geschickt“. Sätze wie diesen höre ich in letzter Zeit häufiger. Auch „Du hast
 einen Blog? Das ist ja cool, dann kennt Dich ja sicher jeder“ rankt sehr hoch im
-„Blogger Bullshit Bingo“.</strong>
+„Blogger Bullshit Bingo“.**
 
 Manchmal ist es jedoch gar nicht so einfach, wie es vielleicht nach außen hin
 aussieht.
@@ -209,13 +211,19 @@ Aufwand“, „wer liest mit“ angestellt. Doch nach kurzer Zeit verblassen die
 wieder und die bunte Welt der Blogosphäre zieht mich wieder in ihren Bann.
 
 Man erfindet sich einfach mit jedem Beitrag wieder neu. Wie wäre es mal wieder
-mit einer
-[großen Reisereportage zum Thema Irland](/2018/05/erster-mai-gegensaetze/), die
-ich in den letzten Monaten Beitrag für Beitrag veröffentlicht habe. 26 sind es
-inzwischen, einer steht noch aus. Die Serie ist der umfassendste Reisebericht,
-den ich bisher geschrieben habe.
+mit einer [Bildergalerie](/2018/05/erster-mai-gegensaetze/) ? Oder einer
+[Kurzgeschichte](/2017/10/streetart-und-schrebergarten/) ? Ganz besonders viel
+Spaß hatte ich zum Beispiel beim Erstellen meiner
+[großen Reisereportage zum Thema Irland](/tag/irland2017/), die ich in den
+letzten Monaten Beitrag für Beitrag veröffentlicht habe. 26 sind es inzwischen,
+einer steht noch aus. Die Serie ist der umfassendste Reisebericht, den ich
+bisher geschrieben habe.
 
 Besonders liebe ich außerdem
-[Interviews](/2017/02/russian-circles-knust-hamburg-2017/). Mein Blog ist eine
-Sammlung, die ich stetig erweitere und verschönere. Und ich freue mich, wenn Du
-mitliest.
+[Konzertberichte](/2017/02/russian-circles-knust-hamburg-2017/)  und
+[Plattenrezensionen](/category/musik/bands-reviews/)  sowie das Kennenlernen
+spannender Persönlichkeiten zum Beispiel über
+[Interviews](/category/gesellschaft/interview/). Mein Blog ist eine Sammlung,
+die ich stetig erweitere und verschönere. Und ich freue mich, wenn Du mitliest.
+
+  

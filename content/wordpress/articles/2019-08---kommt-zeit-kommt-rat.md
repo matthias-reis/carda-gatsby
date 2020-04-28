@@ -4,12 +4,10 @@ seoTitle: Kommt Zeit, kommt Rat - so ist das mit der Gewissheit
 slug: kommt-zeit-kommt-rat
 link: /2019/08/kommt-zeit-kommt-rat/
 fileName: 2019-08---kommt-zeit-kommt-rat.md
-description:
-  Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn etwas
-  Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
-excerpt:
-  Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn etwas
-  Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
+description: Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn
+  etwas Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
+excerpt: Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn
+  etwas Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
 focusKeyword: Kommt Zeit kommt Rat
 labels:
   - Ansichtssache
@@ -29,7 +27,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25744"
+image: /img/demo.jpg
+errors: []
 subTitle: Alles Ansichtssache
+  
 ---
 
 ## Kommt Zeit, kommt Rat, sagt man,
@@ -56,3 +57,5 @@ Am Ende ist es wie immer: Es ist alles Ansichtssache. Nach dem Warten ist vor
 dem Warten.
 
 ["Schreib es auf" - warum dieser Satz sehr hilfreich sein kann, erfahrt Ihr hier.](/2019/05/10-ideen-fuer-mehr-glueckliche-momente/)
+
+  

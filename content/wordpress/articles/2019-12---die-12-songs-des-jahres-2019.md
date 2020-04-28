@@ -4,12 +4,10 @@ seoTitle: Die 12 Songs des Jahres 2019 - präsentiert von den drei von der Bande
 slug: die-12-songs-des-jahres-2019
 link: /2019/12/die-12-songs-des-jahres-2019/
 fileName: 2019-12---die-12-songs-des-jahres-2019.md
-description:
-  "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die besten
-  des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
-excerpt:
-  "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die besten
-  des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
+description: "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind
+  die besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
+excerpt: "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind die
+  besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
 focusKeyword: Songs des Jahres
 labels:
   - 65daysofstatic
@@ -59,18 +57,24 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27169"
+image: /img/demo.jpg
+errors: []
 subTitle: Präsentiert von den drei von der Bande
+  
 ---
 
-<strong>Es ist so weit: unsere Songs 2019 stehen fest. Valentin, Matze und ich
-haben unsere Monatslisten nochmal durchgewälzt und uns entschieden - diese 12
-Stücke sind für uns die besten des Jahres.</strong>
+**Es ist so weit: unsere Songs 2019 stehen fest. Valentin, Matze und ich haben
+unsere Monatslisten nochmal durchgewälzt und uns entschieden - diese 12 Stücke
+sind für uns die besten des Jahres.**
 
 Ziemlich genau vor einem Jahr ist eine Idee entstanden, die meinen Blog auf ein
 neues Level gehoben hat. Im Dezember 2018 veröffentlichte ich nacheinander
-"[Matzes Songs 2018](/2018/12/meine-10-songs-2018/)" .  Anschließend stand fest:
-Es wird 2019 jeden Monat eine Musikliste geben. Im Januar die Liste für den
-Februar, im Februar die für den März und so weiter. Hintergrund: Was gibt es
+"[Meine 10 Songs 2018](/2018/12/meine-10-songs-2018/)" ,
+"[Eure Musik 2018](/2018/12/musik-2018/)" ,
+"[Valentins 11 Alben des Jahres 2018](/2018/12/valentins-11-alben-des-jahres-2018/)"
+und "[Matzes Songs 2018](/2018/12/matzes-songs-2018/)" .  Anschließend stand
+fest: Es wird 2019 jeden Monat eine Musikliste geben. Im Januar die Liste für
+den Februar, im Februar die für den März und so weiter. Hintergrund: Was gibt es
 besseres, als jeden Monat neue Musik zu entdecken und sich vier Wochen lang von
 tollen Songs begleiten zu lassen, die man vielleicht auch später nochmal hören
 wird? Genau: so gut wie gar nichts.
@@ -97,19 +101,19 @@ wünschen Euch viel Spaß mit den folgenden Meisterwerken.
 <ol>
     <li>
 ## Mono - "After You Comes The Flood" vom Album "Nowhere Now Here"
-<p class="p1">Matze und ich sind uns einig: Dieses Anfang des Jahres erschienene Stück konnte einfach von keiner der vielen großen Veröffentlichungen in diesem Jahr übertroffen werden. Mono haben damit einen wahren Sound-Prunkbau abgeliefert. "After You Comes The Flood" ist von Anfang an düster und mächtig - dennoch schafft es die vor 20 Jahren in Tokio gegründete Band sich bis zum Schlussakkord immer weiter hochzuschaukeln. Auf der Genussskala ist dieses Stück Musik ganz oben angesiedelt.</p>
+Matze und ich sind uns einig: Dieses Anfang des Jahres erschienene Stück konnte einfach von keiner der vielen großen Veröffentlichungen in diesem Jahr übertroffen werden. Mono haben damit einen wahren Sound-Prunkbau abgeliefert. "After You Comes The Flood" ist von Anfang an düster und mächtig - dennoch schafft es die vor 20 Jahren in Tokio gegründete Band sich bis zum Schlussakkord immer weiter hochzuschaukeln. Auf der Genussskala ist dieses Stück Musik ganz oben angesiedelt.
 <iframe src="https://www.youtube.com/embed/L3Plq_c77r0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## 65daysofstatic - "Five Waves" vom Album "replicr"
-<p class="p1">Aus dem wohl homogensten und experimentellsten Album des Jahres haben Matze und ich dieses wunderbare Stück hier ausgesucht. Für Matze ist es die perfekte Verbindung aus elektronischen Kompositionen und Post-Rock Gitarren - diese sind bei 65daysofstatic weiter in den Hintergrund gerückt.</p>
+Aus dem wohl homogensten und experimentellsten Album des Jahres haben Matze und ich dieses wunderbare Stück hier ausgesucht. Für Matze ist es die perfekte Verbindung aus elektronischen Kompositionen und Post-Rock Gitarren - diese sind bei 65daysofstatic weiter in den Hintergrund gerückt.
 <iframe src="https://www.youtube.com/embed/Ph2V7KlA07Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Cult Of Luna - "A Dawn To Fear" vom Album "A Dawn To Fear"
-<p class="p1">Beim Aussuchen des Songs wurde Matze mal wieder klar, wie gut das aktuelle Cult Of Luna Album ist. Es ist uns allen dreien schwergefallen, einen Song daraus auszusuchen - eigentlich könnte man das komplette Werk auf die Jahresliste setzen. Der Titelsong stellt für Matze die perfekte Mischung aus leiseren, präzisen Passagen und der harten, von den beiden Schlagzeugen Johannes Perssons Stimme geprägten Spielweise der Band dar.</p>
+Beim Aussuchen des Songs wurde Matze mal wieder klar, wie gut das aktuelle Cult Of Luna Album ist. Es ist uns allen dreien schwergefallen, einen Song daraus auszusuchen - eigentlich könnte man das komplette Werk auf die Jahresliste setzen. Der Titelsong stellt für Matze die perfekte Mischung aus leiseren, präzisen Passagen und der harten, von den beiden Schlagzeugen Johannes Perssons Stimme geprägten Spielweise der Band dar.
 <iframe src="https://www.youtube.com/embed/2cYtqwUso-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Tool - "Culling Voices" vom Album "Fear Inoculum"
-<p class="p1">"Culling Voices" von Tool musste für Matze einfach dabei sein. Für ihn ist der Song ein wahres Meisterwerk und der eigenständigste vom Konzeptalbum "Fear Inoculum" - er hat die wenigsten Referenzen auf "10.000 Days" und "Lateralus" nötig.</p>
+"Culling Voices" von Tool musste für Matze einfach dabei sein. Für ihn ist der Song ein wahres Meisterwerk und der eigenständigste vom Konzeptalbum "Fear Inoculum" - er hat die wenigsten Referenzen auf "10.000 Days" und "Lateralus" nötig.
 <iframe src="https://www.youtube.com/embed/rj3IbZV_YQM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Kim Gordon - "Murdered Out" vom Album "No Home Record"
@@ -117,15 +121,15 @@ Dass Kim Gordon 2019 ein neues Werk veröffentlicht hat, hat mich sehr glücklic
 <iframe src="https://www.youtube.com/embed/NvgRg_mUhtQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Unkle - "Crucifixion" vom Album "The Road: Part II / Lost Highway"
-<p class="p1">Für Valentin und mich ist "Crucifixion" einer der interessantesten Songs vom 2019er Unkle Album "The Road Part II / Lost Highway". Was ihn zu einem ganz besonderen Highlight werden lässt, ist Ian Astburys (The Cult) wunderbaren Stimme.</p>
+Für Valentin und mich ist "Crucifixion" einer der interessantesten Songs vom 2019er Unkle Album "The Road Part II / Lost Highway". Was ihn zu einem ganz besonderen Highlight werden lässt, ist Ian Astburys (The Cult) wunderbaren Stimme.
 <iframe src="https://www.youtube.com/embed/gxKfb84DSL0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Russian Circles - "Arluck" vom Album "Blood Year"
-<p class="p1">Russian Circles sind Valentins erklärte Lieblings Post-Metalband. Für ihn ist es immer ziemlich schwierig, einen einzelnen Song aus einem ganz besonderen Instrumentalalbum herauszufiltern. "Arluck" hat es geschafft - das Stück geht einfach am meisten ins Ohr. Auf das im April anstehende Konzert mit Torche freut er sich schon riesig.</p>
+Russian Circles sind Valentins erklärte Lieblings Post-Metalband. Für ihn ist es immer ziemlich schwierig, einen einzelnen Song aus einem ganz besonderen Instrumentalalbum herauszufiltern. "Arluck" hat es geschafft - das Stück geht einfach am meisten ins Ohr. Auf das im April anstehende Konzert mit Torche freut er sich schon riesig.
 <iframe src="https://www.youtube.com/embed/79btD88nFbY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Slipknot - "Unsainted" vom Album "We Are Not Your Kind"
-<p class="p1">Valentin hat auch dieses Stück auf die Jahresliste gepackt:</p>
+Valentin hat auch dieses Stück auf die Jahresliste gepackt:
 "Wie Matze in unserer  [Liste für den August](/2019/07/12-songs-fuer-den-august/)  schon geschrieben hat.: 'We Are Not Your Kind' ist das mächtigste Metal-Album des Jahres 2019. Ich wähle den Song 'Unsainted' für die Jahrescharts."
 
 <iframe src="https://www.youtube.com/embed/VpATBBRajP8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
@@ -143,7 +147,7 @@ The End Of the Ocean haben mich mit ihrem aktuellen Album davongetragen. Sie hab
 <iframe src="https://www.youtube.com/embed/V8l9TD02meA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ## Opeth - "Continuum" vom Album "In Cauda Venenum"
-<p class="p1">Für Matze durften Opeth auf der Liste des Jahres auf keinen Fall fehlen. Hier sind seine Gedanken zu "Continuum":</p>
+Für Matze durften Opeth auf der Liste des Jahres auf keinen Fall fehlen. Hier sind seine Gedanken zu "Continuum":
 "Während Mono den perfekten Opener meiner persönlichen Lieblingsveröffentlichungen des Jahres abgeliefert haben, macht der von mir gewählte Opeth Song, den perfekten Abschluss. Gleichzeitig hart wie gewohnt, haben sich die Schweden hier zusätzlich verspielte und verträumte Einflüsse aus den 1970er Jahren mit ins Portfolio geholt.
 
 <iframe src="https://www.youtube.com/embed/Ejy01XpjQMY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
@@ -188,3 +192,5 @@ möchte, kann das über meinen Paypal Me Link tun:
 Danke schön!
 
 ![songs-des-jahres-anne-bloggt-cardamonchai-rock-n-roll-vegan-cardamonchai-2019 | large](http://cardamonchai.com/wp-content/uploads/2019/12/12-1-520x780.png)
+
+  

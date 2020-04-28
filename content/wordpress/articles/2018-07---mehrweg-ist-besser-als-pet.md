@@ -4,12 +4,12 @@ seoTitle: Mehrweg ist besser als PET! Glas- statt Plastikflaschen!
 slug: glas-statt-plastik
 link: /2018/07/glas-statt-plastik/
 fileName: 2018-07---mehrweg-ist-besser-als-pet.md
-description:
-  Rund 16 Milliarden PET-Flaschen werden Jahr für Jahr in Deutschland entsorgt.
-  "Einwegpfand ist Augenwischerei" sagen Umweltschützer und fordern Aufklärung.
-excerpt:
-  Rund 16 Milliarden PET-Flaschen werden Jahr für Jahr in Deutschland entsorgt.
-  "Einwegpfand ist Augenwischerei" sagen Umweltschützer und fordern Aufklärung.
+description: Rund 16 Milliarden PET-Flaschen werden Jahr für Jahr in Deutschland
+  entsorgt. "Einwegpfand ist Augenwischerei" sagen Umweltschützer und fordern
+  Aufklärung.
+excerpt: Rund 16 Milliarden PET-Flaschen werden Jahr für Jahr in Deutschland
+  entsorgt. "Einwegpfand ist Augenwischerei" sagen Umweltschützer und fordern
+  Aufklärung.
 focusKeyword: PET
 labels:
   - Einwegpfand
@@ -33,18 +33,25 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21400"
+image: /img/demo.jpg
+errors: []
 subTitle: Glas statt Plastik!
+  
 ---
 
-<strong>Umweltschützer fordern schon lange wieder mehr echte Mehrwegflaschen aus
-Glas statt Einweg-Pfandflaschen aus Plastik. Rund 16 Milliarden PET-Flaschen,
-die über das Einwegpfandsystem wieder eingesammelt werden, werden derzeit
+**Umweltschützer fordern schon lange wieder mehr echte Mehrwegflaschen aus Glas
+statt Einweg-Pfandflaschen aus Plastik. Rund 16 Milliarden PET-Flaschen, die
+über das Einwegpfandsystem wieder eingesammelt werden, werden derzeit
 deutschlandweit innerhalb eines Jahres verbraucht. Daraus ergeben sich 450.000
-Tonnen Plastikmüll.</strong>
+Tonnen Plastikmüll.**
 
 ![PET](http://cardamonchai.com/wp-content/uploads/2018/07/river-3528344_640-400x266.jpg)
 
-setzen.
+Wenn wir wollen, dass diese unglaubliche Masse in Zukunft kleiner wird, müssen
+wir etwas tun. Leitungswasser trinken zum Beispiel. Die Trinkwasserqualität ist
+hierzulande an den meisten Orten sehr gut. Das Wasser aus dem Hahn unterliegt
+höchsten gesetzlichen Anforderungen. Oder: auf Glas anstatt auf
+[Plastik](/2017/08/kenia-sagt-plastiktueten-nein-danke/) setzen.
 
 Glasflaschen können das Pfandsystem bis zu 50 Mal durchlaufen, bevor sie
 eingeschmolzen werden und aus dem Material neue Flaschen hergestellt werden.
@@ -92,5 +99,10 @@ umweltschädlicher Plastikgegenstände kann sich die Menschheit einfach nicht
 leisten. Und das nicht nur, weil inzwischen bereits an weit mehr als nur einem
 Strand im Müll gebadet wird.
 
-<strong>Bilder:</strong> Wiederverschließbare Glasflaschen (Titel):
-[silviarita](https://pixabay.com/de/users/pixel2013-2364555/), pixabay
+**Bilder:** Wiederverschließbare Glasflaschen (Titel):
+[pixel2013](https://pixabay.com/de/users/pixel2013-2364555/), pixabay;
+verschiedene Bierflaschen: [alles](https://pixabay.com/de/users/alles-2597842/),
+pixabay; pixabay; Frau mit Wasserglas:
+[silviarita](https://pixabay.com/de/users/silviarita-3142410/), pixabay
+
+  

@@ -4,11 +4,9 @@ seoTitle: Aloe Vera Reinigungsemulsion von Santaverde - Beauty-Liebling
 slug: santaverde-aloe-vera-reinigungsemulsion
 link: /2019/04/santaverde-aloe-vera-reinigungsemulsion/
 fileName: 2019-04---aloe-vera-reinigungsemulsion-von-santaverde.md
-description:
-  Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von Santaverde vor -
-  sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
-excerpt:
-  Werbung - Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von
+description: Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von
+  Santaverde vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
+excerpt: Werbung - Heute stelle ich Euch die Aloe Vera Reinigungsemulsion von
   Santaverde vor - sie hat die Bezeichnung "Beauty-Liebling" wirklich verdient.
 focusKeyword: Aloe Vera Reinigungsemulsion
 labels:
@@ -33,15 +31,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23901"
+image: /img/demo.jpg
+errors: []
 subTitle: Beauty-Liebling für frische Gesichtshaut
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Meine treuen Leser\*innen wissen, dass ich die Produkte von Santaverde
-seit langer Zeit nutze und schätze. Heute stelle ich Euch einen meiner absoluten
-All Time Favourites vor: Die Aloe Vera Reinigungsemulsion hat die Bezeichnung
-"Beauty-Liebing" definitiv verdient.</strong>
+**Meine treuen Leser\*innen wissen, dass ich die Produkte von Santaverde seit
+langer Zeit nutze und schätze. Heute stelle ich Euch einen meiner absoluten All
+Time Favourites vor: Die Aloe Vera Reinigungsemulsion hat die Bezeichnung
+"Beauty-Liebing" definitiv verdient.**
 
 Was ich daran so besonders toll finde? Ich brauche keine zusätzlichen
 Reinigungsprodukte wie Abschminktücher oder Augen-Make-up-Entferner mehr. Das
@@ -55,8 +56,14 @@ anschließende Pflege vorbereitet.
 
 ![aloe-vera-reinigungsemulsion](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-santaverde-4-400x300.jpg)
 
-. Verwendet werden ausschließlich reine Pflanzensäfte, Öle, zarte Hydrolate
-sowie gehaltvolle Pflanzenextrakte.
+Genauso toll klappt das übrigens auch mit dem
+[Pure Puryfying Cleanser](/2019/02/santaverde-pure/) für unreine Haut. Doch
+zurück zur **Aloe Vera Reinigungsemulsion** . Sie trocknet meine empfindliche
+Haut nicht aus und reizt nicht mit unnötigen Inhaltsstoffen. Genau wie bei allen
+Produkten des Herstellers handelt es sich dabei um zertifizierte
+[vegane Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/). Verwendet
+werden ausschließlich reine Pflanzensäfte, Öle, zarte Hydrolate sowie
+gehaltvolle Pflanzenextrakte.
 
 Santaverde hat seinen Firmensitz in Hamburg. Gründerin Sabine Beer startete mit
 Santaverde, als ihr Mann 1986 eine Orangenplantage in Südspanien kaufte und sie
@@ -73,8 +80,8 @@ sehr.
 
 ## Rötungen gehen zurück
 
-Meiner <strong>Rosacea</strong>-geplagten Haut geht es deutlich besser, seit ich
-die Santaverde-Produkte regelmäßig anwende. Die Rötungen sind deutlich
+Meiner **Rosacea** -geplagten Haut geht es deutlich besser, seit ich die
+Santaverde-Produkte regelmäßig anwende. Die Rötungen sind deutlich
 zurückgegangen und gelegentlich verzichte ich sogar komplett auf abdeckende
 Kosmetikprodukte. Vor Kurzem habe ich mich sogar ans
 [Make-up-Fasten](/2018/07/make-up-fasten/) herangetraut. Auch dabei hat mich
@@ -89,12 +96,13 @@ längst noch nicht so weit.
 
 Die Aloe Vera Reinigungsemulsion ist sehr ergiebig. Eine Tube mit 100
 Millilitern reicht für gut zwei Monate. Nach der Reinigung verwende ich gerne
-einen [Aloe Vera Pflege](/2018/12/neues-von-santaverde/) auftrage.
+einen [Toner](/2018/12/neues-von-santaverde/), bevor ich eine leichte
+[Aloe Vera Pflege](/2018/06/mit-santaverde-auf-reisen/) auftrage.
 
 Ich finde es natürlich auch sehr gut, dass das Produkt, wie alle von Santaverde,
-mit dem <strong>Leaping Bunny</strong> Siegel, dem Label der Vegan Society und
-die Biosiegel ausgezeichnet sind. Das gibt mir im Hinblick auf die veganen und
-verträglichen Inhaltsstoffe sowie den Verzicht auf Tierversuche Sicherheit.
+mit dem **Leaping Bunny** Siegel, dem Label der Vegan Society und die Biosiegel
+ausgezeichnet sind. Das gibt mir im Hinblick auf die veganen und verträglichen
+Inhaltsstoffe sowie den Verzicht auf Tierversuche Sicherheit.
 
 ![aloe-vera-reinigungsemulsion](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-santaverde-2-400x300.jpg)
 
@@ -126,8 +134,10 @@ möchte,
 [gallery type="rectangular" link="none" size="large" ids="23899,23897"
 orderby="rand"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
 &nbsp;
+
+  

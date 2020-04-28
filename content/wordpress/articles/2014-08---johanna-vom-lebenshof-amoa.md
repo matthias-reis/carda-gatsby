@@ -4,12 +4,10 @@ seoTitle: Lebenshof und Zuhause - AMOA - Interview mit einer Tierschützerin
 slug: amoa-lebenshof-und-zuhause
 link: /2014/08/amoa-lebenshof-und-zuhause/
 fileName: 2014-08---johanna-vom-lebenshof-amoa.md
-description:
-  AMOA ist ein Lebenshof für Tiere und das Zuhause von Johanna und ihrer
-  Familie. Ich habe mich mit der fröhlichen Buddhistin unterhalten - Ein
+description: AMOA ist ein Lebenshof für Tiere und das Zuhause von Johanna und
+  ihrer Familie. Ich habe mich mit der fröhlichen Buddhistin unterhalten - Ein
   Inteview
-excerpt:
-  AMOA ist ein Lebenshof für Tiere und das Zuhause von Johanna und ihrer
+excerpt: AMOA ist ein Lebenshof für Tiere und das Zuhause von Johanna und ihrer
   Familie. Ich habe mich mit der fröhlichen Buddhistin unterhalten.
 focusKeyword: Lebenshof
 labels:
@@ -44,10 +42,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8386"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Der Schutz und die Rechte der Tiere stehen an erster Stelle"'
+  
 ---
-
-<blockquote>Ich glaube, dass geistiger Fortschritt an einem gewissen Punkt von uns verlangt, dass wir aufhören, unsere Mitlebewesen zur Befriedigung unseres körperlichen Verlangens zu töten. (Mahatma Gandhi)</blockquote><strong>Johanna Schlitzkus ist 1965 in Friedrichsdorf im Taunus geboren. Die Autorin lebt mit Ihrer Frau Britta und der gemeinsamen Tochter Shaya auf dem  [Lebenshof AMOA](http://www.tierhof-amoa.de)  in Südhessen einen veganen, buddhistischen Alltag. </strong>
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg "Johanna Schlitzkus")
 
@@ -56,31 +55,31 @@ Nach und nach haben sie sich und ihren Tieren mit
 Zusammen mit den drei Powerfrauen leben auf dem Hof insgesamt 42 Tiere: Hunde,
 Katzen, Hühner, Kaninchen und Schafe.
 
-<strong>Anne: </strong>Hallo Johanna, vielen Dank, dass Du Dir die Zeit für
-dieses Interview nimmst.
+**Anne:** Hallo Johanna, vielen Dank, dass Du Dir die Zeit für dieses Interview
+nimmst.
 
-<strong>Johanna:</strong> Sehr gerne, Anne!
+**Johanna:** Sehr gerne, Anne!
 
-<strong>Anne:</strong> Seit wann gibt es das Projekt/den Hof
+**Anne:** Seit wann gibt es das Projekt/den Hof
 [AMOA](http://www.tierhof-amoa.de) ?
 
-## Den Lebenshof AMOA gibt es seit 2011<strong>Johanna: </strong>Im Grunde genommen schon immer im Kopf und in meiner Phantasie und seit 2011 auch real.
+## Den Lebenshof AMOA gibt es seit 2011 **Johanna:** Im Grunde genommen schon immer im Kopf und in meiner Phantasie und seit 2011 auch real.
 
-<strong>Anne: </strong>Wie kam es dazu, dass Ihr
-[AMOA](http://www.tierhof-amoa.de) gegründet habt?
+**Anne:** Wie kam es dazu, dass Ihr [AMOA](http://www.tierhof-amoa.de) gegründet
+habt?
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg "Der Hof 2011")
 
-<strong>Johanna: </strong>Wir haben es nicht geplant, es ist entstanden. Wir
-hatten bereits 2 Katzen, einen gehörlosen Kater und zwei "Problemhunde".
-Eigentlich suchten wir 2011 nach einem Haus zur Miete und fanden letztendlich
-ein altes Fachwerkhaus, das zum Verkauf stand. Zuerst kamen drei Hühner, die
-geschlachtet werden sollten. Die Anzeige las ich durch Zufall in unserem
-Wochenblatt, während ich eine Pause einlegte. Damals waren wir gerade dabei
-unser Haus teilzusanieren und zu renovieren. Wir haben die Hühner samt Stall der
-Halterin abgekauft und damit den Grundstein für unseren Hof gelegt. Kurze Zeit
-später bekamen wir von unserer Bäckerin drei Schafe, auch sie sollten
-geschlachtet werden. Von da an nahm alles seinen Lauf.
+**Johanna:** Wir haben es nicht geplant, es ist entstanden. Wir hatten bereits 2
+Katzen, einen gehörlosen Kater und zwei "Problemhunde". Eigentlich suchten wir
+2011 nach einem Haus zur Miete und fanden letztendlich ein altes Fachwerkhaus,
+das zum Verkauf stand. Zuerst kamen drei Hühner, die geschlachtet werden
+sollten. Die Anzeige las ich durch Zufall in unserem Wochenblatt, während ich
+eine Pause einlegte. Damals waren wir gerade dabei unser Haus teilzusanieren und
+zu renovieren. Wir haben die Hühner samt Stall der Halterin abgekauft und damit
+den Grundstein für unseren Hof gelegt. Kurze Zeit später bekamen wir von unserer
+Bäckerin drei Schafe, auch sie sollten geschlachtet werden. Von da an nahm alles
+seinen Lauf.
 
 Damals fing ich damit an, auf Facebook über unseren Hof und die 8 Tiere zu
 berichten. Kurz danach starb unsere Katze Flo, sie hatte einen Schlaganfall und
@@ -102,10 +101,10 @@ Kaninchen dazu. Derzeit haben wir leider einen Aufnahmestopp bei den Katzen, wir
 sind mit 21 Katzen wirklich voll. Aber wir müssen einfach allen gerecht werden
 können.
 
-<strong>Anne: </strong>Ihr seid alle drei Veganerinnen und wart früher
-Vegetarierinnen. Wann kam die Veränderung?
+**Anne:** Ihr seid alle drei Veganerinnen und wart früher Vegetarierinnen. Wann
+kam die Veränderung?
 
-## Mit dem Bewusstsein, dass vegetarisch nichts ändert, kam die Umstellung<strong>Johanna: </strong>Mit dem Bewusstsein, dass wir mit unserer Vegetarischen Einstellung nichts verändern. Ich sah mir mit meiner Familie ein Video über die konventionelle Kuhhaltung an. In diesem Video wurde ein Kalb der Mutter weggenommen. Es wurde auf einen Anhänger gelegt und dann fuhr der Bauer mit dem Kälbchen davon. Die Kuh lief lange hinter dem Anhänger her und beide schrien fürchterlich. Dieses Video hat für mich den Ausschlag gegeben.
+## Mit dem Bewusstsein, dass vegetarisch nichts ändert, kam die Umstellung **Johanna:** Mit dem Bewusstsein, dass wir mit unserer Vegetarischen Einstellung nichts verändern. Ich sah mir mit meiner Familie ein Video über die konventionelle Kuhhaltung an. In diesem Video wurde ein Kalb der Mutter weggenommen. Es wurde auf einen Anhänger gelegt und dann fuhr der Bauer mit dem Kälbchen davon. Die Kuh lief lange hinter dem Anhänger her und beide schrien fürchterlich. Dieses Video hat für mich den Ausschlag gegeben.
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225 "Asha")
 
@@ -122,26 +121,25 @@ sie weder Milchschokolade noch sonstige Milchprodukte, sie lehnt es kategorisch
 ab. Sie ist als Vegetarierin aufgewachsen, aber zum Veganismus hat sie sich
 selbst entschieden.
 
-<strong>Anne: </strong>Du schreibst sehr viel über vegane Ernährung und wie sie
-zur Arterhaltung beiträgt. War das schon immer Dein Hauptthemengebiet, oder gab
-es schon mal ein anderes?
+**Anne:** Du schreibst sehr viel über vegane Ernährung und wie sie zur
+Arterhaltung beiträgt. War das schon immer Dein Hauptthemengebiet, oder gab es
+schon mal ein anderes?
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300 "Maxi")
 
-<strong>Johanna: </strong>Es gibt immer Themen die mich faszinieren oder so
-dermaßen wütend machen, dass ich darüber schreiben muss. Tierschutz im "Kleinen"
-war schon immer mein Thema. Ich bin schon als Teenager auf die Straße gegangen
-und habe gegen die Massentierhaltung und gegen Tierversuche protestiert. Aber so
-richtig bin ich erst eingestiegen, seitdem ich vegan lebe und hier den Tierhof
-betreue.
+**Johanna:** Es gibt immer Themen die mich faszinieren oder so dermaßen wütend
+machen, dass ich darüber schreiben muss. Tierschutz im "Kleinen" war schon immer
+mein Thema. Ich bin schon als Teenager auf die Straße gegangen und habe gegen
+die Massentierhaltung und gegen Tierversuche protestiert. Aber so richtig bin
+ich erst eingestiegen, seitdem ich vegan lebe und hier den Tierhof betreue.
 
 Heute kann ich sagen, dass der Schutz und die Rechte der Tiere an erster Stelle
 stehen und dass die vegane Ernährung letztendlich daraus resultiert.
 
-<strong>Anne: </strong>Wie macht Ihr das mit dem Hof, bewirtschaftet Ihr ihn
-komplett zu zweit, oder habt Ihr Leute, die Euch dabei unterstützen?
+**Anne:** Wie macht Ihr das mit dem Hof, bewirtschaftet Ihr ihn komplett zu
+zweit, oder habt Ihr Leute, die Euch dabei unterstützen?
 
-## "Wir bewirtschaften den Lebenshof zu zweit"<strong>Johanna: </strong>Theoretisch bewirtschaften wir ihn nur zu zweit. Aber wir haben zwei Frauen die uns in der Not zur Seite stehen. Bei uns lebt die Frauenpower.
+## "Wir bewirtschaften den Lebenshof zu zweit" **Johanna:** Theoretisch bewirtschaften wir ihn nur zu zweit. Aber wir haben zwei Frauen die uns in der Not zur Seite stehen. Bei uns lebt die Frauenpower.
 
 Das war nicht immer so, wir haben bis vor einigen Monaten noch einen Helfer,
 aber ihm war die Arbeit bei uns zu viel. Ich muss dazu sagen, bei uns kann man
@@ -158,33 +156,33 @@ selbstverständlich. Ohne unsere Spender würde unser Hof nicht mehr lange
 existieren. Die Spenden, die wir bekommen, sind sehr schnell wieder verbraucht.
 Es ist ein ewiger Kreislauf aus geben und verzehren.
 
-<strong>Anne: </strong>Bleibt bei der ganzen Arbeit auf dem Hof und als Autorin
-eigentlich auch noch Zeit für Euch? Was macht Ihr, wenn Ihr mal wegfahren wollt?
+**Anne:** Bleibt bei der ganzen Arbeit auf dem Hof und als Autorin eigentlich
+auch noch Zeit für Euch? Was macht Ihr, wenn Ihr mal wegfahren wollt?
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225 "Toffi")
 
-<strong>Johanna: </strong>Wir versuchen alles halbe Jahr mal ins Kino zu gehen.
-Ansonsten ist wegfahren so eine Sache. Über Nacht geht nur im Notfall, da wir
-unsere Hunde dann in die Hundepension im Nachbarort abgeben müssen und das
-können wir uns nicht immer leisten. Urlaub ist für die nächsten <em>(lacht)</em>
-– nun, wie lange leben Katzen? - Jahre gestrichen. Wir haben vor, in diesen
-Ferien mit unser Tochter in einen Freizeitpark zu fahren, ich hoffe, dass das
-klappt. Hin und wieder besuchen wir außerdem Brittas Eltern.
+**Johanna:** Wir versuchen alles halbe Jahr mal ins Kino zu gehen. Ansonsten ist
+wegfahren so eine Sache. Über Nacht geht nur im Notfall, da wir unsere Hunde
+dann in die Hundepension im Nachbarort abgeben müssen und das können wir uns
+nicht immer leisten. Urlaub ist für die nächsten _(lacht)_ – nun, wie lange
+leben Katzen? - Jahre gestrichen. Wir haben vor, in diesen Ferien mit unser
+Tochter in einen Freizeitpark zu fahren, ich hoffe, dass das klappt. Hin und
+wieder besuchen wir außerdem Brittas Eltern.
 
-<strong>Anne: </strong>Wie hieß Dein erstes Haustier?
+**Anne:** Wie hieß Dein erstes Haustier?
 
-<strong>Johanna: </strong>Toxi. Toxi war ein Foxterrier, er sollte kurz nach
-meiner Geburt ertränkt werden. Mein Opa hat ihn gerettet und mit nach Hause
-gebracht. Ich bin mit ihm aufgewachsen und er starb kurz vor meinem 19
-Lebensjahr.
+**Johanna:** Toxi. Toxi war ein Foxterrier, er sollte kurz nach meiner Geburt
+ertränkt werden. Mein Opa hat ihn gerettet und mit nach Hause gebracht. Ich bin
+mit ihm aufgewachsen und er starb kurz vor meinem 19 Lebensjahr.
 
-<strong>Anne: </strong>Du schreibst ja unter anderem für die
-"[ein persönliches Blog](http://www.vegan-news.de) zum Thema vegane Lebensweise
-und Tierrecht. Gibt es noch mehr von Dir im Netz zu finden?
+**Anne:** Du schreibst ja unter anderem für die
+"[Vegan News](http://www.vegan-news.de)" und führst außerdem auch noch
+[ein persönliches Blog](http://tierhof-amoa.blogspot.de) zum Thema vegane
+Lebensweise und Tierrecht. Gibt es noch mehr von Dir im Netz zu finden?
 
 ![Lebenshof | full](http://cardamonchai.com/wp-content/uploads/2014/08/stefano-emo.jpg "Stefano Emo")
 
-<strong>Johanna: </strong>Ja, einiges, ich habe für das Online-Magazin
+**Johanna:** Ja, einiges, ich habe für das Online-Magazin
 [Tuckenalarm](http://www.tuckenalarm.com) einen Artikel geschrieben. Ich
 schreibe hin und wieder Rezensionen für Bücher und Hörbücher. Man findet manche
 Kommentare auf der Seite der TAZ und der Frankfurter Rundschau zu
@@ -192,9 +190,9 @@ unterschiedlichen politischen Themen. Außerdem habe ich zwei Bücher
 herausgebracht und führe noch zwei weitere , recht persönliche Blogs zu meinem
 Leben und Erlebten.
 
-<strong>Anne: </strong>Wie seit Ihr zum Buddhismus gekommen?
+**Anne:** Wie seit Ihr zum Buddhismus gekommen?
 
-## "Ich glaube, ich war schon immer Buddistin"<strong>Johanna: </strong>Ich glaube ich war schon immer Buddhistin. Ich habe mir als Kind schon Gedanken über die Welt und das Leben im Allgemeinen gemacht. Leid war dabei immer ein großes Thema. Mit 12 habe ich das alte Testament gelesen und mich dann entschieden keine Christin mehr zu sein.
+## "Ich glaube, ich war schon immer Buddistin" **Johanna:** Ich glaube ich war schon immer Buddhistin. Ich habe mir als Kind schon Gedanken über die Welt und das Leben im Allgemeinen gemacht. Leid war dabei immer ein großes Thema. Mit 12 habe ich das alte Testament gelesen und mich dann entschieden keine Christin mehr zu sein.
 
 Später habe ich dann die Tora und den Koran gelesen, beides nur halbherzig. Ich
 habe mich für das Heidentum und für die indische Mythologie interessiert, aber
@@ -219,15 +217,14 @@ anerziehen kann. Man kann Werte weitergeben und Vorbild sein. Wir geben ihr
 Achtsamkeit mit auf den Weg, doch welche Richtung sie eines Tages einschlägt,
 wird sie für sich herausfinden.
 
-<strong>Anne: </strong>Veganismus und Buddhismus – Setzt das Zweite das Erste
-voraus?
+**Anne:** Veganismus und Buddhismus – Setzt das Zweite das Erste voraus?
 
-<strong>Johanna: </strong>Nein, ich denke eher, das Erste setzte das Zweite
-voraus. Hier würden mir sicherlich viele Buddhisten widersprechen. Aber ich
-glaube an [die 5 Sila](http://de.wikipedia.org/wiki/Fünf_Silas)
-<em>(Tugendregeln, buddhistische Übungsregeln, Anm. Anne)</em>, die ähnlich wie
-die 10 Gebote aufgebaut sind, auch hier heißt es: "Ich nehme mich der
-Übungsregel an, keinen anderen zu gefährden oder zu töten."
+**Johanna:** Nein, ich denke eher, das Erste setzte das Zweite voraus. Hier
+würden mir sicherlich viele Buddhisten widersprechen. Aber ich glaube an
+[die 5 Sila](http://de.wikipedia.org/wiki/Fünf_Silas) _(Tugendregeln,
+buddhistische Übungsregeln, Anm. Anne)_ , die ähnlich wie die 10 Gebote
+aufgebaut sind, auch hier heißt es: "Ich nehme mich der Übungsregel an, keinen
+anderen zu gefährden oder zu töten."
 
 Da ich mich in der Verantwortung sehe, auch dafür zu sorgen, das niemand
 gefährdet oder getötet wird, um mich zu ernähren, gehört das Ablehnen von
@@ -235,20 +232,20 @@ Fleisch und Milchkonsum für mich unbedingt dazu.
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg "Der Tierhof AMOA")
 
-<strong>Anne:</strong> Shaya <em>(Name von Johannas und Brittas Tochter, Anm.
-Anne)</em>, [AMOA](http://www.tierhof-amoa.de), das klingt nach sehr
-bedeutungsvollen Namen. Möchtest Du uns Ihre Bedeutung erklären?
-[AMOA](http://www.tierhof-amoa.de) ist eine Zusammenfassung aus einem Vornamen
-unserer Tochter und der richtigen buddhistischen Bedeutung zu Amoha, was in
-Sanskrit soviel bedeutet wie: Unverblendet, realistisch und klar.
+**Anne:** Shaya _(Name von Johannas und Brittas Tochter, Anm. Anne)_ ,
+[AMOA](http://www.tierhof-amoa.de), das klingt nach sehr bedeutungsvollen Namen.
+Möchtest Du uns Ihre Bedeutung erklären? [AMOA](http://www.tierhof-amoa.de) ist
+eine Zusammenfassung aus einem Vornamen unserer Tochter und der richtigen
+buddhistischen Bedeutung zu Amoha, was in Sanskrit soviel bedeutet wie:
+Unverblendet, realistisch und klar.
 
 Shaya heißt eigentlich Shaya Lee Amoa Jolie. Das bedeutet frei übersetzt "die
 würdevolle wunderschöne klare Lotusblüte".
 
-<strong>Anne: </strong>Liebe Johanna, möchtest Du uns vielleicht erzählen, wie
-Shaya in Euer Leben gekommen ist?
+**Anne:** Liebe Johanna, möchtest Du uns vielleicht erzählen, wie Shaya in Euer
+Leben gekommen ist?
 
-## "Ich habe mir immer ein Kind gewünscht"<strong>Johanna: </strong>Ich selbst kann aus traumatischen Gründen keine Kinder bekommen. Dennoch habe ich mir immer ein Kind gewünscht, so sehr, dass ich dadurch sehr unglücklich wurde. Als ich Britta kennenlernte, wollte sie zunächst keine Kinder.
+## "Ich habe mir immer ein Kind gewünscht" **Johanna:** Ich selbst kann aus traumatischen Gründen keine Kinder bekommen. Dennoch habe ich mir immer ein Kind gewünscht, so sehr, dass ich dadurch sehr unglücklich wurde. Als ich Britta kennenlernte, wollte sie zunächst keine Kinder.
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222 "Die blinde Bebbles")
 
@@ -268,38 +265,35 @@ Ich war 42 Jahre alt, als sie geboren wurde, seitdem sind 7 Jahre vergangen und
 ich bin die stolzeste Mutter der Welt. Britta sagt oft, wie unglaublich dankbar
 sie dafür ist, dass sie unsere Tochter bekommen durfte.
 
-<strong>Anne: </strong>Das ist eine wirklich schöne Liebesgeschichte. Ich muss
-gestehen, dass ich gerade wirklich ein Bisschen weiche Knie bekommen habe.
-Möchtest Du vielleicht noch erzählen, wie alles begann? Wo seid Ihr Euch das
-erste Mal über den Weg gelaufen?
+**Anne:** Das ist eine wirklich schöne Liebesgeschichte. Ich muss gestehen, dass
+ich gerade wirklich ein Bisschen weiche Knie bekommen habe. Möchtest Du
+vielleicht noch erzählen, wie alles begann? Wo seid Ihr Euch das erste Mal über
+den Weg gelaufen?
 
-<strong>Johanna: </strong>In Frankfurt auf einem Singletreff im Victoria. Es
-wurde irgendwann geschlossen, ich weiß gar nicht, ob da heute überhaupt noch
-eine Bar drin ist.
+**Johanna:** In Frankfurt auf einem Singletreff im Victoria. Es wurde irgendwann
+geschlossen, ich weiß gar nicht, ob da heute überhaupt noch eine Bar drin ist.
 
-<strong>Anne: </strong>Und dann hat es sofort gefunkt?
+**Anne:** Und dann hat es sofort gefunkt?
 
 ## "Ich war sofort bis über beide Ohren verliebt"
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300 "Maxi Mumm und Mini (v. l. n. r.)")
 
-<strong>Johanna: </strong>Bei mir ja, ich habe Britta von hinten gesehen und war
-sofort bis über beide Ohren verliebt. Nachdem ich ihr zum Abschied einen Kuss
-auf die Stirn gedrückt hatte, konnte sie auf dem Heimweg die Kupplung ihres
-Wagens nicht mehr bedienen, ich glaube, ab dem Zeitpunkt war es auch um sie
-geschehen. <em>(lacht)</em>
+**Johanna:** Bei mir ja, ich habe Britta von hinten gesehen und war sofort bis
+über beide Ohren verliebt. Nachdem ich ihr zum Abschied einen Kuss auf die Stirn
+gedrückt hatte, konnte sie auf dem Heimweg die Kupplung ihres Wagens nicht mehr
+bedienen, ich glaube, ab dem Zeitpunkt war es auch um sie geschehen. _(lacht)_
 
 Zwei Tage später sind wir zusammengezogen, zuerst lebte sie aus dem Koffer und
 drei Monate später bin ich dann mit Sack und Pack zu ihr gezogen. Das ist jetzt
 fast 17 Jahre her.
 
-<strong>Anne:</strong> Wie wunderbar. Zwei tolle Menschen lernen sich lieben,
-teilen ihre Interessen, gründen eine Familie und retten hilflosen Tieren das
-Leben...
+**Anne:** Wie wunderbar. Zwei tolle Menschen lernen sich lieben, teilen ihre
+Interessen, gründen eine Familie und retten hilflosen Tieren das Leben...
 
-<strong>Johanna: </strong>Oh, da muss ich lachen. So einfach war es nun auch
-wieder nicht. Ich war im Grunde meines Herzens schon immer und bin es wohl auch
-nach wie vor, ein Punk mit Leib und Seele, Britta hingegen ist eine Polizistin.
+**Johanna:** Oh, da muss ich lachen. So einfach war es nun auch wieder nicht.
+Ich war im Grunde meines Herzens schon immer und bin es wohl auch nach wie vor,
+ein Punk mit Leib und Seele, Britta hingegen ist eine Polizistin.
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225 "Natchi wurde in Bulgarien gefunden. Sie hat keine Augen.")
 
@@ -312,10 +306,10 @@ Wir hatten keinen leichten Start, aber im Laufe unseres gemeinsamen Lebens haben
 wir unsere unterschiedlichen Vergangenheiten, unsere Berufungen und unseren Mut
 zu schätzen gelernt und ich möchte keine Sekunde davon missen.
 
-<strong>Anne:</strong> Sicher gibt es einige Menschen, die Euch gerne
-unterstützen möchten. Wie kann man aktiv werden?
+**Anne:** Sicher gibt es einige Menschen, die Euch gerne unterstützen möchten.
+Wie kann man aktiv werden?
 
-<strong>Johanna: </strong>Wir sind kein Verein. Wir werden noch diesen Monat die
+**Johanna:** Wir sind kein Verein. Wir werden noch diesen Monat die
 Gemeinnützigkeit beim Finanzamt beantragen, so dass wir Spendenquittungen
 ausstellen können. Bis dahin sind alle Spenden selbstlos.
 
@@ -324,8 +318,10 @@ ausstellen können. Bis dahin sind alle Spenden selbstlos.
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225 "Flecki")
 
 Wir benötigen immer dringend Katzenfutter und Katzenstreu. Aus dem Grund habe
-ich
-[Hilfeseite auf Facebook](http://www.amazon.de/registry/wishlist/2P1NRWBUCJD71)
+ich [eine Spendenliste](http://www.amazon.de/registry/wishlist/2P1NRWBUCJD71)
+auf Amazon veröffentlicht, die ich regelmässig aktualisiere. Wir möchten dabei
+alles so transparent wie möglich halten, daher kann man auf unserer
+[Hilfeseite auf Facebook](https://www.facebook.com/groups/TierhofAmoa/?notif_t=group_added_to_group)
 ganz genau sehen, wie viele Spenden wir erhalten haben und für was wir Geld
 ausgeben.
 
@@ -336,24 +332,24 @@ werden es etwas mehr sein, da für uns einige Spendenaktionen gemacht haben. Im
 Winter nehmen die Spenden ab. Im Notfall kaufen wir dann ein paar Dosen von der
 tierversuchsfreien DM-Hausmarke.
 
-<strong>Anne: </strong>Vermittelt Ihr auch Tiere?
+**Anne:** Vermittelt Ihr auch Tiere?
 
 ![Lebenshof](http://cardamonchai.com/wp-content/uploads/2014/08/bommel-mit-ihren-babies-640x480.jpg "Katzenmutter Bommel mit ihren Babies")
 
-<strong>Johanna: </strong>Nur in Ausnahmesituationen. Momentan ist so eine
-Ausnahmesituation. Wir haben im Mai eine trächtige Katze aufgenommen, die am 2.
-Juli 6 Welpen bekommen hat. Wir sind uns einig, dass wir eines behalten werden,
-da es das erste Katzenkind ist, das auf AMOA zur Welt gekommen ist. Eines ist
-leider verstorben und zwei sind schon reserviert. Ich freue mich darauf, ihnen
-aus der Ferne beim Großwerden zuzusehen. 2 Babys werden dann für Anfang Oktober
+**Johanna:** Nur in Ausnahmesituationen. Momentan ist so eine Ausnahmesituation.
+Wir haben im Mai eine trächtige Katze aufgenommen, die am 2. Juli 6 Welpen
+bekommen hat. Wir sind uns einig, dass wir eines behalten werden, da es das
+erste Katzenkind ist, das auf AMOA zur Welt gekommen ist. Eines ist leider
+verstorben und zwei sind schon reserviert. Ich freue mich darauf, ihnen aus der
+Ferne beim Großwerden zuzusehen. 2 Babys werden dann für Anfang Oktober
 vermittelt.
 
-<strong>Anne: </strong>Um was genau handelt es sich bei der
+**Anne:** Um was genau handelt es sich bei der
 "[Regenbogenbrücke](http://www.tierhof-amoa.de/regenbogenbrücke/)" ?
 
-<strong>Johanna: </strong>Ursprünglich entstammt dieser Begriff der nordischen
-Mythologie. Die Regenbogenbrücke ist eigentlich die Asenbrücke, eine Verbindung
-zwischen Midgart (Himmel) und Asgart (Erde).
+**Johanna:** Ursprünglich entstammt dieser Begriff der nordischen Mythologie.
+Die Regenbogenbrücke ist eigentlich die Asenbrücke, eine Verbindung zwischen
+Midgart (Himmel) und Asgart (Erde).
 
 ![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225 "Bommels verstorbener Sohn Mary")
 
@@ -362,17 +358,19 @@ jeden Fall bedeutet sie einen kleinen Hoffnungsschimmer in der Trauer um ein
 Tier, das wir verlieren. Für mich persönlich bedeutet diese kleine Brücke ein
 immerwährendes (Will)Kommen und Gehen (Abschiednehmen).
 
-<strong>Anne: </strong>Vielen Dank für dieses Interview, liebe Johanna! Ich
-wünsche Euch allen das Beste für die Zukunft! Nachdem wir das Interview mit
-einem Deiner Lieblingszitate begonnen haben, lass uns eines meiner
-Lieblingszitate an das Ende setzen: "Sei Du selbst die Veränderung, die Du Dir
-wünschst für diese Welt." (Mahatma Gandhi) - In diesem Sinne: Namasté &lt;3
+**Anne:** Vielen Dank für dieses Interview, liebe Johanna! Ich wünsche Euch
+allen das Beste für die Zukunft! Nachdem wir das Interview mit einem Deiner
+Lieblingszitate begonnen haben, lass uns eines meiner Lieblingszitate an das
+Ende setzen: "Sei Du selbst die Veränderung, die Du Dir wünschst für diese
+Welt." (Mahatma Gandhi) - In diesem Sinne: Namasté &lt;3
 
-<strong>Johanna: </strong>(<em>lacht</em>) Das ist auch eines MEINER
-Lieblingszitate! (<em>faltet die Hände in Brusthöhe, beugt den Kopf leicht,
-führt die gefalteten Hände mit den Fingerspitzen zur Stirn, um sie anschließend
-wieder zurückzuführen\*</em>) Namasté! Ich danke Dir, liebe Anne!
+**Johanna:** ( _lacht_ ) Das ist auch eines MEINER Lieblingszitate! ( _faltet
+die Hände in Brusthöhe, beugt den Kopf leicht, führt die gefalteten Hände mit
+den Fingerspitzen zur Stirn, um sie anschließend wieder zurückzuführen\*_ )
+Namasté! Ich danke Dir, liebe Anne!
 
-<small><em>\*diese Mutra (Geste) nennt man auch Anjali oder Namaskaram. Sie
+<small> _\*diese Mutra (Geste) nennt man auch Anjali oder Namaskaram. Sie
 bedeutet, dass man das Gegenüber in Ehrerbietung grüßt oder verabschiedet. Sie
-ist die höchste Geste unter Buddhisten.</em></small>
+ist die höchste Geste unter Buddhisten._ </small>
+
+  

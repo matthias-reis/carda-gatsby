@@ -4,12 +4,10 @@ seoTitle: '"Eddie" - mein neuer Rolltop-Rucksack von Feuerwear'
 slug: eddie-mein-neuer-rolltop-rucksack-von-feuerwear
 link: /2019/11/eddie-mein-neuer-rolltop-rucksack-von-feuerwear/
 fileName: 2019-11---eddie-mein-rolltop-rucksack.md
-description:
-  Vor Kurzem ist "Eddie" der Rolltop-Rucksack von Feuerwear bei mir eingezogen -
-  für meine Fototouren bringt er einige Vorteile mit.
-excerpt:
-  Werbung - Vor Kurzem ist "Eddie"  der Rolltop-Rucksack von Feuerwear bei mir
+description: Vor Kurzem ist "Eddie" der Rolltop-Rucksack von Feuerwear bei mir
   eingezogen - für meine Fototouren bringt er einige Vorteile mit.
+excerpt: Werbung - Vor Kurzem ist "Eddie"  der Rolltop-Rucksack von Feuerwear
+  bei mir eingezogen - für meine Fototouren bringt er einige Vorteile mit.
 focusKeyword: Rucksack von Feuerwear
 labels:
   - Eddie
@@ -28,15 +26,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26789"
+image: /img/demo.jpg
+errors: []
 subTitle: Fototouren mit Feuerwear
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Feuerwear kennt Ihr ja von mir schon. Ich schwöre schon lange auf die
-robusten Taschen aus ausgemusterten Feuerwehrschläuchen. Vor Kurzem ist der
+**Feuerwear kennt Ihr ja von mir schon. Ich schwöre schon lange auf die robusten
+Taschen aus ausgemusterten Feuerwehrschläuchen. Vor Kurzem ist der
 Rolltop-Rucksack "Eddie" bei mir eingezogen - er begleitet mich seitdem auf
-meinen Fototouren.</strong>
+meinen Fototouren.**
 
 Meine Wahl fiel zu diesem Zweck auf "Eddie", weil das Modell ein paar ganz
 besondere Vorzüge besitzt, die speziell für meine Ansprüche perfekt sind.
@@ -100,6 +101,8 @@ Wer neugierig geworden ist und selbst einen "Eddie" adoptieren möchte, kann das
 von Feuerwear tun. Für 189 Euro gehört eines der in liebevoller Handarbeit
 hergestellten Einzelstücke Euch.
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

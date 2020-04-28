@@ -4,11 +4,10 @@ seoTitle: Ashéra Cosmetics - Mein Produkttest - Luxus ohne Tierversuche
 slug: ashera-yin-yang-balance
 link: /2018/01/ashera-yin-yang-balance/
 fileName: 2018-01---ashera-cosmetics.md
-description:
-  "Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der Clou: Ihr
-  könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten einfach!"
-excerpt:
-  "Werbung, Anzeige & Affiliate Link - Ich habe jetzt die Ashéra Yin Yang
+description: "Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der
+  Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten
+  einfach!"
+excerpt: "Werbung, Anzeige & Affiliate Link - Ich habe jetzt die Ashéra Yin Yang
   Balance Produkte getestet. Der Clou: Ihr könnt ein luxuriöses Pflegeset
   gewinnen. Kommentiert am besten einfach!"
 focusKeyword: Ashéra
@@ -34,15 +33,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18799"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (29:8)"
 subTitle: Luxus ohne Tierversuche
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (29:8)
+
+<!--
 Werbung, Anzeige &amp; Affiliate Link\*
 
-<strong>Ich habe jetzt zwei Produkte von Ashéra Cosmetics getestet. Wie sie bei
-mir angekommen sind, möchte ich Euch heute gerne verraten. Außerdem verlose ich
-ein luxuriöses Pflegepaket! Wie Ihr gewinnen könnt, erfahrt Ihr weiter
-unten\*.</strong>
+**Ich habe jetzt zwei Produkte von Ashéra Cosmetics getestet. Wie sie bei mir
+angekommen sind, möchte ich Euch heute gerne verraten. Außerdem verlose ich ein
+luxuriöses Pflegepaket! Wie Ihr gewinnen könnt, erfahrt Ihr weiter unten\*.**
 
 Vor Kurzem las ich mit großem Interesse über zwei für mich komplett neue
 Kosmetikprodukte: Die Yin Yang Balance 24-Stunden-Pflege sowie den passenden
@@ -107,6 +113,8 @@ die Creme eine klare Empfehlung.
 
 ![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/6-300x225.jpg)
 
+Die Rezepturen von Ashéra binden uraltes Wissen aus der
+[Traditionellen Chinesischen Medizin](/2014/11/auf-dem-weg-zur-tiefenentspannung/)
 ein. Die TCM-Extrakte werde kombiniert mit den modernen Anforderungen und der
 Erfahrung aus der heutigen Kosmetikforschung. Die Produkte wurden in Kooperation
 mit Apothekern und Medizinern entwickelt.
@@ -183,11 +191,14 @@ zur Durchführung des Gewinnspiels verarbeitet werden.
 
 Weitere Informationen zu den Produkten findet Ihr auf der
 [Homepage](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
+](https://www.adcell.de/promotion/click/promoId/172494/slotId/80259)
 
-</a>
-
-<em>Dieser Artikel enthält Werbung und Affiliate Links und entstand im
-Zusammenhang mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch
-nicht beeinflusst.
+_Dieser Artikel enthält Werbung und Affiliate Links und entstand im Zusammenhang
+mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht
+beeinflusst.
 [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
-</em>
+_
+
+-->
+
+  

@@ -4,14 +4,12 @@ seoTitle: Weihnachtsgrüße - Frohe Festtage wünsche ich Euch allen
 slug: weihnachtsgruesse
 link: /2016/12/weihnachtsgruesse/
 fileName: 2016-12---weihnachtsgruesse.md
-description:
-  "Ich wünsche Euch allen frohe Festtage! Ich habe für Euch eine kleine Galerie
-  gebastelt: Eure lieben Weihnachtsgrüße in meinem Blog. Auf ein gelungenes
-  Jahr!"
-excerpt:
-  "Ich wünsche Euch allen frohe Festtage! Ich habe für Euch eine kleine Galerie
-  gebastelt: Eure lieben Weihnachtsgrüße in meinem Blog. Auf ein gelungenes
-  Jahr!"
+description: "Ich wünsche Euch allen frohe Festtage! Ich habe für Euch eine
+  kleine Galerie gebastelt: Eure lieben Weihnachtsgrüße in meinem Blog. Auf ein
+  gelungenes Jahr!"
+excerpt: "Ich wünsche Euch allen frohe Festtage! Ich habe für Euch eine kleine
+  Galerie gebastelt: Eure lieben Weihnachtsgrüße in meinem Blog. Auf ein
+  gelungenes Jahr!"
 focusKeyword: Weihnachtsgrüße
 labels:
   - Festtage
@@ -29,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15605"
+image: /img/demo.jpg
+errors: []
 subTitle: Frohe Festtage...
+  
 ---
 
-<strong>... wünsche ich Euch allen! Ich hoffe, Ihr habt eine tolle Zeit mit
-Euren liebsten Menschen entspannt Euch und genießt das Beisammensein bei gutem
-Essen und schönen Geschichten.</strong>
+**... wünsche ich Euch allen! Ich hoffe, Ihr habt eine tolle Zeit mit Euren
+liebsten Menschen entspannt Euch und genießt das Beisammensein bei gutem Essen
+und schönen Geschichten.**
 
 Ich möchte allen danken, die dieses Jahr hier im Blog dabei waren. Alle, die ich
 interviewen durfte, deren Ideen ich vorstellen durfte, die kommentiert haben,
@@ -55,6 +56,8 @@ Ich stoße mit Euch ein auf ein gelungenes Jahr und gemütliche Festtage! Cheers
 ... Weil dieser Artikel ja irgendwie unter dem Motto "Die Geister der Weihnacht"
 steht, hier ein Zitat von keinem Geringeren, als Charles Dickens.
 
-<blockquote>Wünsche sind nie klug. Das ist sogar das beste an ihnen.</blockquote>
+> Wünsche sind nie klug. Das ist sogar das beste an ihnen.
 
 [myflickr tag="anneweihnachten2016"]
+
+  

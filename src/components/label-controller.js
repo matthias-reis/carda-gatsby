@@ -63,7 +63,6 @@ export const query = graphql`
           }
           frontmatter {
             title
-            subtitle
             subTitle
             description
             image {

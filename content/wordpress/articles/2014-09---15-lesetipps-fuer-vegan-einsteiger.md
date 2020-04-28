@@ -4,12 +4,10 @@ seoTitle: 15 Lesetipps für Vegan-Neulinge - so gelingt der Einstieg ganz leicht
 slug: 15-lesetipps-fuer-vegan-einsteiger
 link: /2014/09/15-lesetipps-fuer-vegan-einsteiger/
 fileName: 2014-09---15-lesetipps-fuer-vegan-einsteiger.md
-description:
-  Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die jeder
-  Vegan-Einsteiger auf dem Zettel haben sollte - sie machen nämlich das Leben
-  leichter.
-excerpt:
-  Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die jeder
+description: Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die
+  jeder Vegan-Einsteiger auf dem Zettel haben sollte - sie machen nämlich das
+  Leben leichter.
+excerpt: Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die jeder
   Vegan-Einsteiger auf dem Zettel haben sollte - sie machen nämlich das Leben
   leichter.
 focusKeyword: Vegan
@@ -23,12 +21,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20267"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (137:53)"
 subTitle: Diese Bücher bringen wirklich was
+  
 ---
 
-<strong>Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die jede/r
-Vegan-Einsteiger\*in auf dem Zettel haben sollte.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (137:53)
 
+<!--
 Ist man als Vegan-Einsteiger\*in noch "grün hinter den Ohren", strömen von allen
 Seiten Informationen auf einen ein. Hier ein Buch, dort ein Ratgeber und hast Du
 diesen Blog schon gesehen? Da musst Du auf jeden Fall mal vorbeischauen! Doch
@@ -54,7 +57,11 @@ Animal’s Liberty . Dahinter verbirgt sich eine Datenbank, in der inzwischen fa
 jedes in Deutschland erhältliche Produkt vom Deoroller bis zum Spülmittel
 verzeichnet ist, mit Details wie
 
-<ul><li>Ist das Produkt vegan?</li><li>Sind die Inhaltsstoffe des Produkts frei von Tierversuchen?</li><li>Testet der Konzern, der das Produkt herstellt, Rohstoffe für andere seiner Produkte an Tieren, bzw. lässt sie an Tieren testen?</li></ul> [Hier geht's zur App für iPhone und Android](http://mobil.wermachtwas.info/index.php?pageID=4).
+- Ist das Produkt vegan?
+- Sind die Inhaltsstoffe des Produkts frei von Tierversuchen?
+- Testet der Konzern, der das Produkt herstellt, Rohstoffe für andere seiner
+  Produkte an Tieren, bzw. lässt sie an Tieren testen?
+  [Hier geht's zur App für iPhone und Android](http://mobil.wermachtwas.info/index.php?pageID=4).
 
 ### 3. Die Apps von "Barnivore”
 
@@ -184,7 +191,7 @@ Beispiel, wie er es durch seine Ernährungsumstellung geschafft hat, 25 Kilo
 abzunehmen.
 [Hier geht's zu meiner Rezension](/2014/11/so-geht-vegan-von-patrick-bolk/).
 
-<div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="column">### Zitat aus meiner Rezension:<blockquote>"Die meisten Veganer, die ich kenne, sind eher unvorbereitet in ihre Umstellung hineingestolpert und haben sich nach und nach ihr Infos aus dem Internet und auch Büchern besorgt, mir geht es hier ähnlich. Ich denke, das geht auch gut, wenn man dabei ein paar Grundregeln beachtet. Wer sich jedoch etwas Unterstützung wünscht, der ist mit dem 10-Punkte-Programm "So geht vegan" sicherlich sehr gut beraten."</blockquote> [Meine komplette Rezension des Buchs findest Du hier](/2014/11/so-geht-vegan-von-patrick-bolk/).
+<div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="column">### Zitat aus meiner Rezension:> "Die meisten Veganer, die ich kenne, sind eher unvorbereitet in ihre Umstellung hineingestolpert und haben sich nach und nach ihr Infos aus dem Internet und auch Büchern besorgt, mir geht es hier ähnlich. Ich denke, das geht auch gut, wenn man dabei ein paar Grundregeln beachtet. Wer sich jedoch etwas Unterstützung wünscht, der ist mit dem 10-Punkte-Programm "So geht vegan" sicherlich sehr gut beraten. "[Meine komplette Rezension des Buchs findest Du hier](/2014/11/so-geht-vegan-von-patrick-bolk/).
 
 ## Hast Du noch weitere Quellen für Vegan-Einsteiger?
 
@@ -192,3 +199,7 @@ Das waren meine 15 Tipps für Vegan-Einsteiger. Sicher gibt es aber noch mehr.
 Wenn Du noch einen guten Lesetipp für Menschen hast, die sich dem Veganismus
 nähern möchten, dann poste gerne unten in den Kommentaren und verlinke dort auch
 andere Seiten mit Lese-Listen für Vegan-Einsteiger.</div></div></div></div>
+
+-->
+
+  

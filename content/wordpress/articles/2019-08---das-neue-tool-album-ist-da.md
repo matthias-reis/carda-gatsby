@@ -1,16 +1,13 @@
 ---
 title: Das neue Tool Album ist da
-seoTitle:
-  Das neue Tool Album ist da - Fear Inoculum auf dem digitalen Plattenteller
+seoTitle: Das neue Tool Album ist da - Fear Inoculum auf dem digitalen Plattenteller
 slug: das-neue-tool-album-ist-da
 link: /2019/08/das-neue-tool-album-ist-da/
 fileName: 2019-08---das-neue-tool-album-ist-da.md
-description:
-  Für Tool Fans geht heute ein langjähriger Wunsch in Erfüllung. Das neue Album
-  "Fear Inoculum" ist ab sofort endlich vollständig verfügbar.
-excerpt:
-  Für Tool Fans geht heute ein langjähriger Wunsch in Erfüllung. Das neue Album
-  "Fear Inoculum" ist ab sofort endlich vollständig verfügbar.
+description: Für Tool Fans geht heute ein langjähriger Wunsch in Erfüllung. Das
+  neue Album "Fear Inoculum" ist ab sofort endlich vollständig verfügbar.
+excerpt: Für Tool Fans geht heute ein langjähriger Wunsch in Erfüllung. Das neue
+  Album "Fear Inoculum" ist ab sofort endlich vollständig verfügbar.
 focusKeyword: tool
 labels:
   - Adam Jones
@@ -30,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25858"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Fear Inoculum" auf dem digitalen Plattenteller'
+  
 ---
 
-<strong>Heute ist der 30. August. Für Tool-Fans wie mich bedeutet dieses Datum,
-dass ein langjähriger Wunsch endlich in Erfüllung geht: Das neue Album "Fear
-Inoculum" ist nun endlich vollständig verfügbar.</strong>
+**Heute ist der 30. August. Für Tool-Fans wie mich bedeutet dieses Datum, dass
+ein langjähriger Wunsch endlich in Erfüllung geht: Das neue Album "Fear
+Inoculum" ist nun endlich vollständig verfügbar.**
 
 Bereits am 7. August veröffentlichten Tool als Teaser eine Vorauskopplung unter
 dem gleichen Namen. Der Song ist Track 1 auf der Platte.
@@ -114,3 +114,5 @@ Musik davontragen.
 Psst: Das Bild von der frisch ausgepackten Special Edition habe ich mir vom
 [Schallplattenhändler meines Vertrauens ausgeliehen](https://marleenrecords.wordpress.com/).
 ;-)
+
+  

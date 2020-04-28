@@ -4,12 +4,11 @@ seoTitle: Vegan Fashion Week in Los Angeles - schöne vegane Modewelt
 slug: vegan-fashion-week-in-l-a
 link: /2019/02/vegan-fashion-week-in-l-a/
 fileName: 2019-02---vegan-fashion-week-in-l-a.md
-description:
-  Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf Aktivismus auf
-  Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.
-excerpt:
-  Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf Aktivismus auf
-  Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.
+description: Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf
+  Aktivismus auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde
+  statt.
+excerpt: Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf Aktivismus
+  auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.
 focusKeyword: Vegan Fashion Week
 labels:
   - California Market Center
@@ -33,16 +32,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23561"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Modewelt
+  
 ---
 
-<strong>Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf Aktivismus
-auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.
-</strong>
+**Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf Aktivismus auf
+Mode – das Event fand zu Ehren von Menschen, Tieren und Erde statt.**
 
-Die „<strong>Vegan Fashion Week</strong>“ ging vom 1. bis zum 4. Februar. Ziel
-der in Zukunft regelmäßig geplanten Veranstaltung ist es, vegane Mode weltweit
-zu etablieren. Raus aus der „veganen Welt“, rauf auf die Laufstege und damit auf
+Die „ **Vegan Fashion Week** “ ging vom 1. bis zum 4. Februar. Ziel der in
+Zukunft regelmäßig geplanten Veranstaltung ist es, vegane Mode weltweit zu
+etablieren. Raus aus der „veganen Welt“, rauf auf die Laufstege und damit auf
 den breiten Markt.
 
 ![vegan-fashion-week](http://cardamonchai.com/wp-content/uploads/2019/02/vegan-fashion-week-2019-01-400x267.jpg "Copyright: Vegan Fashion Week")
@@ -68,40 +69,38 @@ Schlussfolgerung.“
 
 Im Anschluss an die erste Show, die im Natural History Museum stattfand, hatten
 die Gäste die Möglichkeit, das Modeviertel von L.A. zu entdecken. Im
-<strong>California Market Center</strong> gab es eine große Auswahl an
-tierleidfreien Designerstücken zu entdecken.
+**California Market Center** gab es eine große Auswahl an tierleidfreien
+Designerstücken zu entdecken.
 
 ## Aktivisten und Stars
 
 ![vegan-fashion-week](http://cardamonchai.com/wp-content/uploads/2019/02/vegan-fashion-week-2019-07-400x267.jpg "Copyright: Vegan Fashion Week")
 
-Neben dem Modezirkus fand ein reger Austausch zwischen den Teilnehmer<em>innen
-sowie zahlreichen Tierrechtsaktivist</em>innen, die ebenfalls zum Event geladen
+Neben dem Modezirkus fand ein reger Austausch zwischen den Teilnehmer _innen
+sowie zahlreichen Tierrechtsaktivist_ innen, die ebenfalls zum Event geladen
 waren, statt. Während einer Konferenz wurde die Modebranche kritisch
 hinterfragt. Auf Agenda standen folgende Punkte
 
-<ul>
-    <li>Tierrechte</li>
-    <li>soziale Gerechtigkeit</li>
-    <li>Zirkularität</li>
-    <li>Technologie</li>
-    <li>Intersektionalität</li>
-</ul>
+- Tierrechte
+- soziale Gerechtigkeit
+- Zirkularität
+- Technologie
+- Intersektionalität
 
 Im Rahmen dieses Programmpunktes zeigten die Sprecher\*innen außerdem faire und
 tierleidfreie Alternativen auf.
 
-Zur „Vegan Fashion“ Week kamen Gäste wie <strong>Moby</strong>, Mena Suvari,
-Harley Quinn Smith, Toby Morse und Maria Gabriela De Faria.
+Zur „Vegan Fashion“ Week kamen Gäste wie **Moby** , Mena Suvari, Harley Quinn
+Smith, Toby Morse und Maria Gabriela De Faria.
 
 Emmanuelle Rienda hat Feuer gefangen. Und sie macht weiter. Sie ist überzeugt
 davon, dass sie es schaffen kann, den veganen Gedanken innerhalb der Modebranche
 fest zu integrieren. „Nach einer erfolgreichen ersten Runde bin ich derzeit
 bereits mit der Planung der zweiten 'Vegan Fashion Week' beschäftigt." Diese
-soll in einer anderen <strong>Modemetropole</strong> stattfinden. Welche es ist,
-verrät Emmanuelle noch nicht. "Ich bin auf einer Mission. Ich möchte die
-Modebranche in ihren Festen zu erschüttern und sie herauszufordern, bis es keine
-Tierqual mehr in unserer Branche gibt“, sagt sie.
+soll in einer anderen **Modemetropole** stattfinden. Welche es ist, verrät
+Emmanuelle noch nicht. "Ich bin auf einer Mission. Ich möchte die Modebranche in
+ihren Festen zu erschüttern und sie herauszufordern, bis es keine Tierqual mehr
+in unserer Branche gibt“, sagt sie.
 
 ## Ausstellerliste
 
@@ -138,42 +137,40 @@ Rock</small></li> <li><small>Mink Shoes</small></li>
 
 ### Beauty
 
-<ul>
-    <li><small>Kat Von D Beauty</small></li>
-    <li><small>Giovanni Cosmetics</small></li>
-    <li><small>Belius eCosmetics</small></li>
-    <li><small>Cover FX</small></li>
-    <li><small>Ecco Bella</small></li>
-    <li><small>Ere Perez</small></li>
-    <li><small>Herban Cowboy</small></li>
-    <li><small>Johnny Concert</small></li>
-    <li><small>Rose &amp;Abbot</small></li>
-</ul>
+- <small>Kat Von D Beauty</small>
+- <small>Giovanni Cosmetics</small>
+- <small>Belius eCosmetics</small>
+- <small>Cover FX</small>
+- <small>Ecco Bella</small>
+- <small>Ere Perez</small>
+- <small>Herban Cowboy</small>
+- <small>Johnny Concert</small>
+- <small>Rose &amp;Abbot</small>
 
 ### Lifestyle
 
-<ul>
-    <li><small>Bali Juice</small></li>
-    <li><small>Beaming</small></li>
-    <li><small>Café Gratitude</small></li>
-    <li><small>Coffee Bean</small></li>
-    <li><small>Dr. Brew Kombucha</small></li>
-    <li><small>Divine Science Brewing</small></li>
-    <li><small>Fair. Vodka</small></li>
-    <li><small>Glyde</small></li>
-    <li><small>Go Macro</small></li>
-    <li><small>I am Aranth</small></li>
-    <li><small>Kevita</small></li>
-    <li><small>L'instant Cru</small></li>
-    <li><small>Pào Tea</small></li>
-    <li><small>Plant Fusion</small></li>
-    <li><small>Rob's</small></li>
-    <li><small>Rockdoodles</small></li>
-    <li><small>Rythm Superfoods</small></li>
-</ul>
+- <small>Bali Juice</small>
+- <small>Beaming</small>
+- <small>Café Gratitude</small>
+- <small>Coffee Bean</small>
+- <small>Dr. Brew Kombucha</small>
+- <small>Divine Science Brewing</small>
+- <small>Fair. Vodka</small>
+- <small>Glyde</small>
+- <small>Go Macro</small>
+- <small>I am Aranth</small>
+- <small>Kevita</small>
+- <small>L'instant Cru</small>
+- <small>Pào Tea</small>
+- <small>Plant Fusion</small>
+- <small>Rob's</small>
+- <small>Rockdoodles</small>
+- <small>Rythm Superfoods</small>
 
-<em>press release &amp; copyright for pictures: „
-[Vegan Fashion Week](https://www.veganfashionweek.org/) “</em>
+_press release &amp; copyright for pictures: „
+[Vegan Fashion Week](https://www.veganfashionweek.org/) “_
 
 [gallery type="thumbnails" link="none" size="medium" columns="2"
 ids="23558,23563,23562,23560" orderby="rand"]
+
+  

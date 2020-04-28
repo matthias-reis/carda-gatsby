@@ -4,13 +4,11 @@ seoTitle: Second Life Fashion - Kleidung ein zweites Leben schenken
 slug: second-life-fashion
 link: /2020/04/second-life-fashion/
 fileName: 2020-04---second-life-fashion.md
-description:
-  Das Second-Hand Start-up Second Life Fashion möchte mit bereits vorhandenen
-  Ressourcen auskommen. Ich habe dort jetzt ein Outfit bestellt.
-excerpt:
-  Werbung & Affiliate Links - Das Second-Hand Start-up Second Life Fashion
-  möchte mit bereits vorhandenen Ressourcen auskommen. Ich habe dort jetzt ein
-  Outfit bestellt.
+description: Das Second-Hand Start-up Second Life Fashion möchte mit bereits
+  vorhandenen Ressourcen auskommen. Ich habe dort jetzt ein Outfit bestellt.
+excerpt: Werbung & Affiliate Links - Das Second-Hand Start-up Second Life
+  Fashion möchte mit bereits vorhandenen Ressourcen auskommen. Ich habe dort
+  jetzt ein Outfit bestellt.
 focusKeyword: Second-Hand
 labels:
   - Mode & Beauty
@@ -25,14 +23,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28810"
+image: /img/demo.jpg
+errors: []
 subTitle: Kleidung ein zweites Leben schenken
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Second Life Fashion ist ein Online Second-Hand Shop. Das Start-up möchte
-mit den Ressourcen auskommen, die bereits existieren. Ich habe dort jetzt ein
-Outfit bestellt.</strong>
+**Second Life Fashion ist ein Online Second-Hand Shop. Das Start-up möchte mit
+den Ressourcen auskommen, die bereits existieren. Ich habe dort jetzt ein Outfit
+bestellt.**
 
 Die Bestellung ging sehr schnell: Mit dem Größen- und Farbfilter auf der Seite
 hatte ich ziemlich schnell gefunden, was ich haben wollte. Ein Rock, ein
@@ -63,7 +64,12 @@ Bestellung eigentlich schon absenden wollte, noch in den Warenkorb gehüpft. Sie
 passt auch hervorragend zu meinen Bandshirts. Ich habe es schon ausprobiert.
 
 Auf secondlifefashion.de findet Ihr
-[danach filtern](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fbekleidung).
+[Oberbekleidung](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fbekleidung),
+[Schuhe &amp; Accessoires](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fschuhe-accessoires)
+und sogar komplette
+[Outfits](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fbekleidunghttps%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Foutfits).
+Wenn Ihr nach bestimmten Marken auf der Suche seid, könnt Ihr
+[danach filtern](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fartikel-beliebter-marken).
 
 [glry name="secondlifefashion1"]
 
@@ -76,7 +82,9 @@ Second-Hand Kleidung gar keine schlechte Idee. Außerdem spart man damit auch
 wertvolle Ressourcen: Für die Herstellung eines herkömmlichen T-Shirts aus
 Baumwolle werden nämlich auch 2.700 gebraucht.
 
-<blockquote>"Ich will mit unserem Start-Up die Umwelt entlasten und den Leuten zeigen, wie toll Second-Hand sein kann! Wir verwenden unsere Versandkartons mehrfach und versenden plastikfrei. Beides ist im Online Handel nahezu einzigartig."</blockquote>
+> "Ich will mit unserem Start-Up die Umwelt entlasten und den Leuten zeigen, wie
+> toll Second-Hand sein kann! Wir verwenden unsere Versandkartons mehrfach und
+> versenden plastikfrei. Beides ist im Online Handel nahezu einzigartig."
 
 Neben Lisa arbeiten bei Second Life Fashion inzwischen auch Michi, Lisa und
 Marie. Marie hat mein Päckchen so liebevoll für mich verpackt. Das kleine Team
@@ -117,7 +125,9 @@ name="secondlifefashion2"]
 
 [Hier gehts zum Second Life Fashion Onlineshop](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2F).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

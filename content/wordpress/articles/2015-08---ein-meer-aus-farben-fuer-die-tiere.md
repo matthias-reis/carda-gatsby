@@ -4,12 +4,10 @@ seoTitle: Ein Meer aus Farben für die Tiere Bilder von Denise Slapansky
 slug: ein-meer-aus-farben-fuer-die-tiere
 link: /2015/08/ein-meer-aus-farben-fuer-die-tiere/
 fileName: 2015-08---ein-meer-aus-farben-fuer-die-tiere.md
-description:
-  Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere" ein. Ihre
-  Kunstwerke zeigen sie in einem Meer aus Farben.
-excerpt:
-  Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere" ein. Ihre
-  Kunstwerke zeigen sie in einem Meer aus Farben.
+description: Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere"
+  ein. Ihre Kunstwerke zeigen sie in einem Meer aus Farben.
+excerpt: Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere" ein.
+  Ihre Kunstwerke zeigen sie in einem Meer aus Farben.
 focusKeyword: Tiere
 labels:
   - Darum vegan
@@ -29,15 +27,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12288"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (32:9)"
 subTitle: Bilder von Denise Slapansky
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (32:9)
+
+<!--
 ![Denise auf dem Überlebenshof Scottmaring](http://cardamonchai.com/wp-content/uploads/2015/08/11913231_1009917619054983_262499720_n-640x853.jpg "Denise auf dem Überlebenshof Scottmaring")
 
-<strong>Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die
-vegane Häkelmützen mit Statement [](#1) herstellt und sich für die Rechte der
-Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr neuestes Projekt
-vor.</strong>
+**Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die vegane
+Häkelmützen mit Statement [<sup>1</sup>](#1) herstellt und sich für die Rechte
+der Tiere einsetzt. Denise Slapansky stellte mir jetzt ihr neuestes Projekt
+vor.**
 
 Die kreative Friedbergerin häkelt nicht nur, sie hat noch viele weitere Talente.
 Seit frühester Kindheit malt und zeichnet sie, meistens schwarz-weiß mit Kohle,
@@ -49,7 +55,7 @@ Während ihrer Ausbildung zur Kunsttherapeutin entdeckte Denise die Farben für
 sich, lernte sie kennen und lieben und bringt sie seitdem in ihren Kunstwerken
 zum Einsatz.
 
-<blockquote>Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden. [](#2)  So muss das für sie sein, wenn sie befreit werden.
+<blockquote>Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden. [<sup>2</sup>](#2)  So muss das für sie sein, wenn sie befreit werden.
 
 ![Denise beim Zaunbau auf dem Überlebenshof](http://cardamonchai.com/wp-content/uploads/2015/08/11910611_1009917545721657_897681080_n-640x853.jpg "Denise beim Zaunbau auf dem Überlebenshof")
 
@@ -73,7 +79,8 @@ gehört.</blockquote>
 Denise geht es um die Stimmung, den Ausdruck und den Kontext. Sie möchte, dass
 ihre Bilder immer wieder gerne angesehen werden.
 
-<blockquote>Der Betrachter soll sich selbst mit Farben, mit Leben und mit positiver Stimmung auftanken.</blockquote>
+> Der Betrachter soll sich selbst mit Farben, mit Leben und mit positiver
+> Stimmung auftanken.
 
 Die Künstlerin möchte mit ihren Werken nicht nur eine positive und entlastende
 Stimmung ausstrahlen, sondern letztlich auch klarmachen, dass die Tiere nicht da
@@ -87,7 +94,8 @@ beitragen können.
 
 Während mir Denise von ihren Kunstwerken erzählte, berichtete sie mir auch von
 Sissi und Franz. Sissi wurde von einer Tierärztin entdeckt, die ihn auf einen
-Überlebenshof [](#3) brachte. Dort kümmert man sich seither um ihre Versorgung.
+Überlebenshof [<sup>3</sup>](#3) brachte. Dort kümmert man sich seither um ihre
+Versorgung.
 
 Sissis Retterin ist so verliebt in das Schweinekind, dass sie fand, Sissi müsse
 Gesellschaft bekommen. Die Betreiberin des Hofes bekam dann Franz geschenkt, der
@@ -101,7 +109,7 @@ und hilft bei den Renovierungsarbeiten auf dem Hof mit.
 
 Franz wird auch auf dem nächsten Bild von Denise zu sehen sein, das derzeit in
 Arbeit ist, außerdem wird er das Motiv für den nächsten Stoff ihrer Mützenmarke
-WYOB [](#1) sein.
+WYOB [<sup>1</sup>](#1) sein.
 
 ## Bildergalerie: Tiere von Denise Slapansky
 
@@ -110,4 +118,10 @@ ids="12292,12290,12288,12289,12287,12285,12283,12284,12282,12280,12279"]
 
 Mit lieben Grüßen von Denise sind hier für Euch Berge mit "Meer aus Farben":
 
-<iframe src="https://www.youtube.com/embed/7rHWnRHd3lg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><ul><li id="1">[1]  [Überlebenshof Scottmaring](/2015/04/vegane-haekelmuetzen-mit-statement/) </li></ul>
+<iframe src="https://www.youtube.com/embed/7rHWnRHd3lg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>-  [1]  [WYOB - Vegane Mützen mit Statement](/2015/04/vegane-haekelmuetzen-mit-statement/)
+-  [2]  [Berge - "Meer aus Farben"](https://www.youtube.com/watch?v=7rHWnRHd3lg)
+-  [3]  [Überlebenshof Scottmaring](http://www.tiere-leben.de/Scottmaring.html)
+
+-->
+
+  

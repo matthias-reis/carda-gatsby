@@ -4,12 +4,10 @@ seoTitle: Pfaffenhofen an der Ilm
 slug: pfaffenhofen-an-der-ilm
 link: /2009/07/pfaffenhofen-an-der-ilm/
 fileName: 2009-07---pfaffenhofen-an-der-ilm.md
-description:
-  Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es unterschiedliche
-  Theorien.
-excerpt:
-  Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es unterschiedliche
-  Theorien. Klar ist nur, daß sie sehr weit zurückliegt.
+description: Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es
+  unterschiedliche Theorien.
+excerpt: Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es
+  unterschiedliche Theorien. Klar ist nur, daß sie sehr weit zurückliegt.
 focusKeyword: Pfaffenhofen
 labels:
   - Ausflug
@@ -25,12 +23,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11426"
+image: /img/demo.jpg
+errors: []
 subTitle: Kreisstadt in der Hallertau
+  
 ---
-
-![Pfaffenhofen an der Ilm](http://cardamonchai.com/wp-content/uploads/2009/07/12992054295_9a39c9302b_z.jpg)
-
-<p id="articleContent"><strong>Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es unterschiedliche Theorien. Klar ist nur, daß sie sehr weit zurückliegt. Einige Heimatforscher gehen davon aus, daß Mönche des Benediktinerklosters Ilmmünster im 8. Jahrhundert die "Pfaffenhöfe" bei Altenstadt errichtet haben.</strong></p><strong>Vier Jahrhunderte später erst, soll Ludwig der Kelheimer am Zusammenfluss von Ilm und Gerolsbach etwas weiter südlich den Markt Pfaffenhofen gegründet haben Pfaffenhofen wurde das 1140 das erste Mal urkundlich erwähnt. Seit 1318 gilt Pfaffenhofen als Stadt, davor war es eine Marktgemeinde.
 
 Pfaffenhofen wurde 1388 im Städtekrieg fast auf die Grundmauern niedergebrannt.
 Nachdem der Wiederaufbau der Stadt 1438 abgeschlossen war, wurde Pfaffenhofen
@@ -72,8 +69,14 @@ Sein Vorgänger war Hans Prechter von der CSU, der 18 Jahre im Amt gewesen war.
 Thomas Herker ist mit seinen 30 Jahren einer der jüngsten Bürgermeister
 Deutschlands.
 
-<em> [Wikipedia](http://www.pfaffenhofen.de/) Pfaffenhofen an der Ilm</em>
+_ [Homepage](http://www.pfaffenhofen.de/) Pfaffenhofen an der Ilm_ _
+[Homepage](http://www.spd-paf.de/index.php?mod=content&menu=3...) Bürgermeister
+Thomas Herker_ _
+[Wikipedia](http://de.wikipedia.org/wiki/Pfaffenhofen_an_der_I...) Pfaffenhofen
+an der Ilm_
 
 [myflickr tag="annepfaffenhofen2009"]
 
 &nbsp;
+
+  

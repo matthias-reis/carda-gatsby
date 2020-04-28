@@ -4,12 +4,10 @@ seoTitle: Wilde Fabelwesen im Eden Project im englischen St. Austell
 slug: fabelwesen
 link: /2012/08/fabelwesen/
 fileName: 2012-08---fabelwesen.md
-description:
-  Im Eden Projekt in St. Austell sind mir ein paar sehr interessante Fabelwesen
-  begegnet. Sie haben sich sogar fotografieren lassen.
-excerpt:
-  Im Eden Projekt in St. Austell sind mir ein paar sehr interessante Fabelwesen
-  begegnet. Sie haben sich sogar fotografieren lassen.
+description: Im Eden Projekt in St. Austell sind mir ein paar sehr interessante
+  Fabelwesen begegnet. Sie haben sich sogar fotografieren lassen.
+excerpt: Im Eden Projekt in St. Austell sind mir ein paar sehr interessante
+  Fabelwesen begegnet. Sie haben sich sogar fotografieren lassen.
 focusKeyword: Fabelwesen
 labels:
   - Bilder
@@ -30,18 +28,29 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3724"
+image: /img/demo.jpg
+errors: []
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 8/9
+  
 ---
-
-<em> [Teil 7/9](/2012/08/eden-project-2/) </em> Gesehen im Eden Project, St.
-Austell, England 6/2012
 
 [gallery type="rectangular" link="none" size="medium"
 ids="3724,3723,3722,3721,3720"]
 
 &nbsp;
 
-Hier geht's zu <em> [Teil 9/9](/2012/08/schneeweis-und-rosenrot/) </em> der
-Galerie "England 2012"
+Hier geht's zu _ [Teil 9/9](/2012/08/schneeweis-und-rosenrot/) _ der Galerie
+"England 2012"
 
-## England 2012 Wegweiser<ol><li> [Schneeweißchen und Rosenrot](http://wp.me/p533wO-Ry) </li></ol>
+## England 2012 Wegweiser1. [Sonne im Hafen](http://wp.me/p533wO-Ry)
+
+1.  [Der Kater und der Leuchtturm](/2012/08/der-kater-und-der-leuchtturm/)
+1.  [Glastonbury](/2012/07/glastonbury/)
+1.  [Isle Of Wight Festival](/2012/07/isle-of-wight-festival-2012/)
+1.  [Schnappschuss](/2012/07/schnappschuss/)
+1.  [Aloha Cornwall](/2012/07/aloa-cornwall/)
+1.  [Eden Project](/2012/08/eden-project-2/)
+1.  [Fabelwesen](/2012/08/fabelwesen/)
+1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/)
+
+  

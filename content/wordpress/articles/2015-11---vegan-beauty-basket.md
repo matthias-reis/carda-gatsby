@@ -4,9 +4,8 @@ seoTitle: Vegan Beauty Basket - meine Unboxing Story
 slug: vegan-beauty-basket
 link: /2015/11/vegan-beauty-basket/
 fileName: 2015-11---vegan-beauty-basket.md
-description:
-  Letzte Woche stand für mich ein besonderes Highlight an. Ich hatte das große
-  Vergnügen, den Vegan Beauty Basket zu testen.
+description: Letzte Woche stand für mich ein besonderes Highlight an. Ich hatte
+  das große Vergnügen, den Vegan Beauty Basket zu testen.
 excerpt: "\n               \ \n            "
 focusKeyword: Vegan Beauty Basket
 labels:
@@ -22,12 +21,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29010"
+image: /img/demo.jpg
+errors: []
 subTitle: Meine Unboxing Story
+  
 ---
-
-<em>Werbung\*</em><strong>Letzte Woche stand für mich ein besonderes Highlight
-an. Ich hatte das große Vergnügen, den neuen Stern am Beautybox-Himmel zu
-testen: Den Vegan Beauty Basket.</strong>
 
 Zunächst bekam ich eine liebe, persönliche Mail, mit der Bitte, mir aus einer
 Auswahl an Düften meinen Favoriten für ein Duftwasser auszusuchen. Meine Wahl
@@ -147,6 +145,8 @@ eine Ausprobier-Empfehlung.
 
 [glry name="veganbeautybasket201502"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -21,5 +21,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11468"
+image: /img/demo.jpg
+errors: []
 subTitle: Gesehen in Friedberg
+  
 ---
+
+
+  

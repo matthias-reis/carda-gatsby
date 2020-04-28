@@ -4,12 +4,10 @@ seoTitle: 50 Jahre Earth Day am 22. April 2020 - Stadtnatur
 slug: 50-jahre-earth-day
 link: /2020/04/50-jahre-earth-day/
 fileName: 2020-04---50-jahre-earth-day.md
-description:
-  Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr findet der
-  Aktionstag unter dem Motto "Stadtnatur" statt.
-excerpt:
-  Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr findet der
-  Aktionstag unter dem Motto "Stadtnatur" statt.
+description: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr
+  findet der Aktionstag unter dem Motto "Stadtnatur" statt.
+excerpt: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr
+  findet der Aktionstag unter dem Motto "Stadtnatur" statt.
 focusKeyword: Earth Day
 labels:
   - 50 Jahre Earth Day
@@ -30,11 +28,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29232"
+image: /img/demo.jpg
+errors: []
 subTitle: Stadtnatur
+  
 ---
 
-<strong>Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr
-steht der Tag unter dem Motto "Stadtnatur".</strong>
+**Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr steht der
+Tag unter dem Motto "Stadtnatur".**
 
 Da die Veranstaltungen zur Feier des 50. Earth Day aufgrund der Corona Epidemie
 verschoben wurden (die neuen Termine werden so bald wie möglich bekanntgegeben),
@@ -77,7 +78,8 @@ Hinzu kommt die rasante Veränderung der Baubranche in den letzten Jahren hin zu
 grüneren und ökologisch verträglicheren Bauweisen. Earth Day Präsident Thomas
 Dannemann fordert auf der Home Page des Aktionstages
 
-<blockquote>"Jeder kann sich aktiv für den Klimaschutz einbringen. Es gilt, keine Zeit zu verlieren!"</blockquote>
+> "Jeder kann sich aktiv für den Klimaschutz einbringen. Es gilt, keine Zeit zu
+> verlieren!"
 
 Der Earth Day findet am 22. April in über 190 Ländern weltweit statt. Es soll
 dabei nicht nur um das Wohlbefinden der heutigen Generationen gehen, sondern vor
@@ -100,11 +102,11 @@ Umwelt tun?
 
 ### Quellen/Sources
 
-<ul>
-    <li> [Homepage Earth Day deutsch](https://www.earthday.de/) </li>
-    <li> [Homepage Earth Day englisch](https://www.earthday.org/) </li>
-</ul>
+- [Homepage Earth Day deutsch](https://www.earthday.de/)
+- [Homepage Earth Day englisch](https://www.earthday.org/)
 
 Headergrafik:
 [Mysticartdesign](https://pixabay.com/de/users/mysticsartdesign-322497/),
 pixabay
+
+  

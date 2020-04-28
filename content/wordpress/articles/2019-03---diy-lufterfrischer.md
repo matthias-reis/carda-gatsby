@@ -4,11 +4,10 @@ seoTitle: DIY Lufterfrischer - Raumduft mit ätherischen Ölen
 slug: diy-lufterfrischer
 link: /2019/03/diy-lufterfrischer/
 fileName: 2019-03---diy-lufterfrischer.md
-description:
-  "Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen DIY
-  Lufterfrischer könnt Ihr ganz leicht selbst herstellen. Raumduft für alle!"
-excerpt:
-  "Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen DIY
+description: "Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen
+  DIY Lufterfrischer könnt Ihr ganz leicht selbst herstellen. Raumduft für
+  alle!"
+excerpt: "Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen DIY
   Lufterfrischer könnt Ihr ganz leicht selbst herstellen. Unangenehme Gerüche
   schafft der Raumduft einfach aus der Welt."
 focusKeyword: Lufterfrischer
@@ -32,12 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23765"
+image: /img/demo.jpg
+errors: []
 subTitle: Raumduft mit ätherischen Ölen
+  
 ---
 
-<strong>Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen DIY
+**Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen DIY
 Lufterfrischer könnt Ihr ganz leicht selbst herstellen. Unangenehme Gerüche
-schafft er einfach aus der Welt.</strong>
+schafft er einfach aus der Welt.**
 
 Ihr kennt das auch: Hund, Katze, Maus, Kind und Kegel stellen ihre Schuhe auf
 der Matte hinter der Tür ab. Aus der Küche zwiebelt es irgendwie und der
@@ -57,10 +59,8 @@ angenehme Duftnote, die sich sogar eine Zeitlang hält.
 
 ## Zutaten
 
-<ul>
-    <li>3 EL frisch gemahlenen Kaffee</li>
-    <li>ca. 10 Tropfen ätherisches Öl (z. B. Lavendel, Bergamotte, Zitronella)</li>
-</ul>
+- 3 EL frisch gemahlenen Kaffee
+- ca. 10 Tropfen ätherisches Öl (z. B. Lavendel, Bergamotte, Zitronella)
 
 ## Herstellung
 
@@ -69,3 +69,5 @@ Mischung nach ein paar Tagen mit ein paar weiteren Tropfen auffrischen. Nach
 etwa vier Wochen tauscht Ihr sie dann aus. Was den Duft angeht, ist erlaubt, was
 gefällt. Vorstellen kann ich mir alles von Orange bis Geranium. Derzeit gefällt
 mir eine Mischung aus Bergamotte und Lavendel besonders gut.
+
+  

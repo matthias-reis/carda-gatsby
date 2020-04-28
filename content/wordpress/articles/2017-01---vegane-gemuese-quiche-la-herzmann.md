@@ -4,13 +4,12 @@ seoTitle: Vegane Gemüse-Quiche à la Herzmann - Foodblog? Sollt Ihr haben!
 slug: vegane-gemuese-quiche-a-la-herzmann
 link: /2017/01/vegane-gemuese-quiche-a-la-herzmann/
 fileName: 2017-01---vegane-gemuese-quiche-la-herzmann.md
-description:
-  Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am Sonntag nach der
-  Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr haben!
-excerpt:
-  Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am Sonntag nach der
-  Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr haben! Guten
-  Appetit!
+description: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am
+  Sonntag nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr
+  haben!
+excerpt: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am Sonntag
+  nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr haben!
+  Guten Appetit!
 focusKeyword: Vegane Gemüse-Quiche
 labels:
   - foodblog
@@ -27,12 +26,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23303"
+image: /img/demo.jpg
+errors: []
 subTitle: Foodblog? Sollt Ihr haben!
+  
 ---
 
-<strong>Als ich am Sonntag von der Arbeit nach Hause kam, wartete eine ganz
-besondere Überraschung auf mich. Mein Herzmann hatte eine vegane Gemüse-Quiche
-vorbereitet.</strong>
+**Als ich am Sonntag von der Arbeit nach Hause kam, wartete eine ganz besondere
+Überraschung auf mich. Mein Herzmann hatte eine vegane Gemüse-Quiche
+vorbereitet.**
 
 Schon beim Aufschließen der Wohnungstür strömte mir ein wunderbarer Duft
 entgegen und ich konnte es kaum erwarten, sie zu probieren.
@@ -48,26 +50,22 @@ keine Milch drin. :-)
 
 ### Mürbeteig
 
-<ul>
-    <li>300 g Dinkelvollkornmehl</li>
-    <li>130 g Kokosöl</li>
-    <li>80 ml Wasser</li>
-    <li>1/2 Tl Salz</li>
-</ul>
+- 300 g Dinkelvollkornmehl
+- 130 g Kokosöl
+- 80 ml Wasser
+- 1/2 Tl Salz
 
 ### Gemüsefüllung
 
-<ul>
-    <li>1 Stange Porree</li>
-    <li>1 große Zwiebel</li>
-    <li>1 mittelgroße Paprika</li>
-    <li>1 - 2 Chilischoten</li>
-    <li>2 - 3 getrocknete Tomaten</li>
-    <li>200 g veganer Pizzaschmelz</li>
-    <li>150 ml Soja-Cuisine</li>
-    <li>2 Tl Sojamehl</li>
-    <li>1 Bund Petersilie</li>
-</ul>
+- 1 Stange Porree
+- 1 große Zwiebel
+- 1 mittelgroße Paprika
+- 1 - 2 Chilischoten
+- 2 - 3 getrocknete Tomaten
+- 200 g veganer Pizzaschmelz
+- 150 ml Soja-Cuisine
+- 2 Tl Sojamehl
+- 1 Bund Petersilie
 
 ## Zubereitung
 
@@ -112,3 +110,5 @@ Buon Appetit! &lt;3
 [myflickr tag="herzmanngemuesequiche"]
 
 &nbsp;
+
+  

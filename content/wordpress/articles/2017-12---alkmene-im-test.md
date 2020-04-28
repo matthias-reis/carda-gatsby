@@ -4,12 +4,10 @@ seoTitle: Alkmene - Natürliche Pflegeprodukte auf dem Prüfstand
 slug: alkmene-der-ultimative-produkttest
 link: /2017/12/alkmene-der-ultimative-produkttest/
 fileName: 2017-12---alkmene-im-test.md
-description:
-  Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt einem Test
-  unterzogen. Meinen Bericht möchte ich mit Euch teilen.
-excerpt:
-  Werbung - Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt
+description: Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt
   einem Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
+excerpt: Werbung - Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene
+  jetzt einem Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
 focusKeyword: alkmene
 labels:
   - alkemene
@@ -36,14 +34,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18737"
+image: /img/demo.jpg
+errors: []
 subTitle: Natürliche Pflege für Körper und Haar
+  
 ---
 
 Werbung\*
 
-<strong>Ich habe Alkmene getestet. Zu welchem Ergebnis ich dabei gekommen bin,
-möchte ich Euch heute gerne erzählen. Auf den Prüfstand kamen ein Shampoo, eine
-Haarspülung sowie ein Duschgel und eine Handcreme.</strong>
+**Ich habe Alkmene getestet. Zu welchem Ergebnis ich dabei gekommen bin, möchte
+ich Euch heute gerne erzählen. Auf den Prüfstand kamen ein Shampoo, eine
+Haarspülung sowie ein Duschgel und eine Handcreme.**
 
 Vor Kurzem lief ich bei uns durch den Drogeriemarkt und war verzückt: Eine für
 mich neue vegane Produktserie aus natürlichen Zutaten war in die Regale
@@ -167,6 +168,8 @@ mich ein großer Grund zur Freude.
 Alle Produkte findet Ihr natürlich auf der
 [Homepage](http://alkmene.de/produkte/) von Alkmene.
 
-<em>\*Hinweis: Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine
+_\*Hinweis: Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

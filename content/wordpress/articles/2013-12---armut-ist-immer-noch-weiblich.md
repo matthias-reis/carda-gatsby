@@ -4,12 +4,10 @@ seoTitle: '"Armut ist immer noch weiblich"'
 slug: armut-ist-immer-noch-weiblich
 link: /2013/12/armut-ist-immer-noch-weiblich/
 fileName: 2013-12---armut-ist-immer-noch-weiblich.md
-description:
-  Bei den Betriebsratstagen 2013 in München traf ich Gregor Gysi. In einem
-  Vortrag erzählte er, warum Armut auch heute noch zumeist weiblich ist.
-excerpt:
-  Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen Betriebsrats-Tage in
-  München einen Vortrag zum Thema "Wie weiter?".
+description: Bei den Betriebsratstagen 2013 in München traf ich Gregor Gysi. In
+  einem Vortrag erzählte er, warum Armut auch heute noch zumeist weiblich ist.
+excerpt: Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen
+  Betriebsrats-Tage in München einen Vortrag zum Thema "Wie weiter?".
 focusKeyword: armut
 labels:
   - Armut
@@ -37,15 +35,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7723"
+image: /img/demo.jpg
+errors: []
 subTitle: Gregor Gysi zu Innenpolitik und Groko
+  
 ---
 
 ![Dr. Gregor Gysi](http://cardamonchai.files.wordpress.com/2013/12/img_6737.jpg?w=200 "Dr. Gregor Gysi")
 
-<strong>Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen
-Betriebsrats-Tage in München einen Vortrag zum Thema "Wie weiter? - Umdenken bei
-Leiharbeit und Werkverträgen". Da durften meine Kamera und ich natürlich nicht
-fehlen.</strong>
+**Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen Betriebsrats-Tage in
+München einen Vortrag zum Thema "Wie weiter? - Umdenken bei Leiharbeit und
+Werkverträgen". Da durften meine Kamera und ich natürlich nicht fehlen.**
 
 Die Location: Königlicher Hirschgarten in München. Berühmt für den größten
 Biergarten Münchens, ruhig gelegen, eingebettet in ein Wohngebiet am Rande eines
@@ -154,3 +154,5 @@ Betriebsratstagen sind in meinem
 
 [gallery type="rectangular" size="medium" link="none"
 ids="7728,7727,7726,7725,7724,7723,7720,7719,7718,7717"]
+
+  

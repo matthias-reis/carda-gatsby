@@ -4,12 +4,10 @@ seoTitle: Gedanken am Fenster - hin und wieder etwas Prosa
 slug: gedanken-am-fenster
 link: /2011/09/gedanken-am-fenster/
 fileName: 2011-09---gedanken-am-fenster.md
-description:
-  Vom Leben gelernt, dachtest du. Aber eigentlich war es doch ganz anders,
-  musste doch das Leben auch dich zunächst erst mal kennen lernen.
-excerpt:
-  Vom Leben gelernt, dachtest du. Aber eigentlich war es doch ganz anders,
-  musste doch das Leben auch dich zunächst erst mal kennen lernen.
+description: Vom Leben gelernt, dachtest du. Aber eigentlich war es doch ganz
+  anders, musste doch das Leben auch dich zunächst erst mal kennen lernen.
+excerpt: Vom Leben gelernt, dachtest du. Aber eigentlich war es doch ganz
+  anders, musste doch das Leben auch dich zunächst erst mal kennen lernen.
 focusKeyword: ""
 labels:
   - Bewusstsein
@@ -40,8 +38,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2623"
-subTitle:
-  Erst bist du auf die Welt gekommen, dann hast du dich verliebt. </strong>
+image: /img/demo.jpg
+errors: []
+subTitle: <strong>Erst bist du auf die Welt gekommen, dann hast du dich
+  verliebt. </strong>
+  
 ---
 
 ![Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078](http://cardamonchai.com/wp-content/uploads/2011/09/frederick2.jpg "Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078")
@@ -76,3 +77,5 @@ Kino, alle vier Wochen ein Konzert. So ein Buch gibt es nahezu von jedem Jahr.
 Gesammelte Erinnerungen. Das erinnert Dich ein Bisschen an die Maus aus der
 Geschichte, die die Farben für den Winter sammelt. Du beschließt, nicht weiter
 bis zum Winter zu warten.
+
+  

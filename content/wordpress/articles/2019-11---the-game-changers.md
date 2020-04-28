@@ -4,11 +4,9 @@ seoTitle: Filmtipp - "The Game Changers"
 slug: the-game-changers
 link: /2019/11/the-game-changers/
 fileName: 2019-11---the-game-changers.md
-description:
-  Am 16. September erschien eine ganz besondere Dokumentation. "The Game
-  Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
-excerpt:
-  Am 16. September erschien eine ganz besondere Dokumentation. "The Game
+description: Am 16. September erschien eine ganz besondere Dokumentation. "The
+  Game Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
+excerpt: Am 16. September erschien eine ganz besondere Dokumentation. "The Game
   Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
 focusKeyword: The Game Changers
 labels:
@@ -31,11 +29,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26831"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Athleten und Bodybuilder
+  
 ---
 
-<strong>Am 16. September erschien eine ganz besondere Dokumentation. "The Game
-Changers" sollte meiner Meinung nach jede\*r mal gesehen haben.</strong>
+**Am 16. September erschien eine ganz besondere Dokumentation. "The Game
+Changers" sollte meiner Meinung nach jede\*r mal gesehen haben.**
 
 Regisseur Louie Psihoyos zeigt in seinem Film vor allem Athleten, die früher im
 Training auf eine besonders fleischreiche Ernährung setzten. Sie alle haben
@@ -71,13 +72,15 @@ Seine Überzeugung wächst, als er auf seiner Reise auf immer mehr vegan lebende
 Hochleistungssportler trifft. Unter anderem begleitet er den Gewichtheber
 Patrick Baboumian auf seinem Weg zum Weltrekord.
 
-<blockquote>"Mich hat mal einer gefragt, wie ich so stark geworden bin, ohne Fleisch zu essen. Ich habe zurückgefragt, ob er jemals einen Ochsen gesehen hat, der Fleisch isst."</blockquote>
+> "Mich hat mal einer gefragt, wie ich so stark geworden bin, ohne Fleisch zu
+> essen. Ich habe zurückgefragt, ob er jemals einen Ochsen gesehen hat, der
+> Fleisch isst."
 
 erzählt dieser ihm. Zwei Worte ruft er, als er es schafft, ganze 555 Kilogramm
 zehn Meter weit zu tragen und sich dabei einen Eintrag ins Guinness Buch der
 Rekorde zu sichern.
 
-<blockquote>"Vegan Power!",</blockquote>
+> "Vegan Power!",
 
 <iframe src="https://www.youtube.com/embed/aL4lb6IevWw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
@@ -111,3 +114,5 @@ meinem Blog zu verpassen, [abonniert gerne meinen Newsletter](#newsletter). Ich
 freue mich auf Euch!
 
 Bilder / pictures [The Game Changers](https://gamechangersmovie.com/)
+
+  

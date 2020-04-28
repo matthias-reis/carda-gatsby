@@ -4,12 +4,11 @@ seoTitle: Boysetsfire live @ Docks Hamburg
 slug: boysetsfire-live-docks-hamburg
 link: /2015/10/boysetsfire-live-docks-hamburg/
 fileName: 2015-10---boysetsfire-live-docks-hamburg.md
-description:
-  Gestern Abend im Docks hatten wir eine tolle Zeit mit Boysetsfire. Hier sind
-  meine Eindrücke.
-excerpt:
-  Gestern hatte das lange Warten endlich ein Ende und die Familie traf wieder
-  aufeinander. Boysetsfire spielten zum Auftakt ihrer Tour im Docks in Hamburg.
+description: Gestern Abend im Docks hatten wir eine tolle Zeit mit Boysetsfire.
+  Hier sind meine Eindrücke.
+excerpt: Gestern hatte das lange Warten endlich ein Ende und die Familie traf
+  wieder aufeinander. Boysetsfire spielten zum Auftakt ihrer Tour im Docks in
+  Hamburg.
 focusKeyword: Boysetsfire
 labels:
   - boysetsfire
@@ -24,14 +23,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12938"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein wundervoller Abend
+  
 ---
 
 ![Boysetsfire live im Docks](http://cardamonchai.com/wp-content/uploads/2015/10/21161089299_f95f23f9d9_z-640x640.jpg "Boysetsfire live im Docks")
 
-<strong>Gestern hatte das lange Warten endlich ein Ende und die Familie traf
-wieder aufeinander. Boysetsfire spielten zum Auftakt ihrer Tour im Docks in
-Hamburg und da durften wir natürlich nicht fehlen. </strong>
+**Gestern hatte das lange Warten endlich ein Ende und die Familie traf wieder
+aufeinander. Boysetsfire spielten zum Auftakt ihrer Tour im Docks in Hamburg und
+da durften wir natürlich nicht fehlen.**
 
 Die Stimmung auf dem Konzert war mal wieder ganz große Klasse. Leider ist Sänger
 Nathan derzeit ziemlich erkältet und war stimmlich sehr angeschlagen. Trotzdem
@@ -74,3 +76,5 @@ Hier sind für Euch Boysetsfire mit "Cutting Room Floor" live, in Farbe und ohne
 Strom
 
 <iframe src="https://www.youtube.com/embed/JhI2Hh6L7n8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+  

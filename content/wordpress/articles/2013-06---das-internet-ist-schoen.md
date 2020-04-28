@@ -4,14 +4,12 @@ seoTitle: Das Internet ist schön - es ist wirklich wahr, ich habe Beweise!
 slug: das-internet-ist-schoen
 link: /2013/06/das-internet-ist-schoen
 fileName: 2013-06---das-internet-ist-schoen.md
-description:
-  Das Internet ist schön. Dass das wirklich wahr ist, wurde mir gerade mal
-  wieder eindrucksvoll bewiesen, als ich heute nach Hause kam und einen Zettel
-  im Briefkasten fand.
-excerpt:
-  Das Internet ist schön. Dass das wirklich wahr ist, wurde mir gerade mal
-  wieder eindrucksvoll bewiesen, als ich heute nach Hause kam und einen Zettel
-  im Briefkasten fand.
+description: Das Internet ist schön. Dass das wirklich wahr ist, wurde mir
+  gerade mal wieder eindrucksvoll bewiesen, als ich heute nach Hause kam und
+  einen Zettel im Briefkasten fand.
+excerpt: Das Internet ist schön. Dass das wirklich wahr ist, wurde mir gerade
+  mal wieder eindrucksvoll bewiesen, als ich heute nach Hause kam und einen
+  Zettel im Briefkasten fand.
 focusKeyword: Internet
 labels:
   - berliner
@@ -34,12 +32,11 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5666"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Geschichte vom Pfefferturm
+  
 ---
-
-<strong>Das Internet ist schön. Dass das wirklich wahr ist, wurde mir gerade mal
-wieder eindrucksvoll bewiesen, als ich heute nach Hause kam und folgenden Zettel
-im Briefkasten vorfand:</strong>
 
 ![Die Benachrichtigung](http://cardamonchai.files.wordpress.com/2013/06/benachrichtigung-e1370609127124.jpg?w=300 "Die Benachrichtigung")
 
@@ -67,7 +64,9 @@ befand sich diese wunderhübsche Postkarte (welch subtiler Hinweis, hach...)
 
 und ein in Geschenkpapier gewickelter, länglicher Gegenstand. Was könnt das
 sein? Ein Arm?
-[Solarium](http://wirre-welt-berlin.com/2013/03/15/das-weisse-grauen-aus-der-tube/)
+[Zahnpasta](http://wirre-welt-berlin.com/2013/03/15/das-weisse-grauen-aus-der-tube/)
+? Oder gar ein
+[Solarium](http://wirre-welt-berlin.com/2013/04/03/wir-wollen-schon-und-knusprig-sein/)
 ?
 
 ![Das Geschenk](http://cardamonchai.files.wordpress.com/2013/06/geschenk-e1370609702600.jpg?w=300 "Das Geschenk")
@@ -75,8 +74,12 @@ sein? Ein Arm?
 Vorsichtig öffnete ich das Papier, um das vermutlich darin enthaltene, lebendige
 Einhorn am Wegrennen zu hindern. Ich wollte meinen Augen nicht trauen! Der
 Fernsehturm! Das Original aus
-[Claudine](http://wirre-welt-berlin.com/2013/05/27/wie-sich-frauen-rachen/) die
-Pfeffermühle in Form des Berliner Fernsehturms auseinandernimmt. Hach! &lt;3
+[seiner wundervollen Kurzgeschichte](http://wirre-welt-berlin.com/2013/05/27/wie-sich-frauen-rachen/),
+unter der ich erst vor Kurzem einen Kommentar hinterlassen hatte. Sie hatte mich
+schwer beeindruckt. Besonders die Stelle, in der Olivers Mitbewohnerin und
+Protagonistin seiner Kurzgeschichten
+[Claudine](http://wirre-welt-berlin.com/2013/05/13/die-beste-ausrede-der-welt/)
+die Pfeffermühle in Form des Berliner Fernsehturms auseinandernimmt. Hach! &lt;3
 
 [gallery size="medium" ids="5650,5649,5648"]
 
@@ -90,7 +93,10 @@ Stimmt, oder?
 
 Also noch mal: Vielen vielen herzlichen Dank für den Pfefferturm! Mir fehlen die
 Worte! Demnächst werde ich wohl mal wieder die nächstgelegene
-[Blog Award Artikel](//2013/06/04/neues-aus-der-servicewuste-die-post-hat-sich-schon-langst-abgeschafft/)
+[Poststelle](//2013/06/04/neues-aus-der-servicewuste-die-post-hat-sich-schon-langst-abgeschafft/)
+aufsuchen um auch für Dich ein Päckchen zu verschicken! Ach ja, bis wann können
+wir denn nun mit Deinem
+[Blog Award Artikel](//2013/05/28/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/)
 rechnen? :-P
 
 Viele Grüße und ein tolles Wochenende!!
@@ -100,6 +106,8 @@ Deinem Paket:
 
 [gallery size="medium" ids="5667,5666,5665"]
 
-<em><strong>Passend zum Artikel hier noch ein Klassiker für Euch:</strong></em>
+_ **Passend zum Artikel hier noch ein Klassiker für Euch:** _
 
 [youtube http://www.youtube.com/watch?v=fbe76DlASY8]
+
+  

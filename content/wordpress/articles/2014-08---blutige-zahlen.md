@@ -4,12 +4,10 @@ seoTitle: Blutige Zahlen - Veganer retten Leben
 slug: blutige-zahlen
 link: /2014/08/blutige-zahlen/
 fileName: 2014-08---blutige-zahlen.md
-description:
-  Warum Veganer Leben retten - Blutige Zahlen geben Aufschluss - Eine Reportage
-  in Zahlen und Fakten
-excerpt:
-  Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben, als
-  ebenbürtig zu betrachten. (Charles Darwin)
+description: Warum Veganer Leben retten - Blutige Zahlen geben Aufschluss - Eine
+  Reportage in Zahlen und Fakten
+excerpt: Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben,
+  als ebenbürtig zu betrachten. (Charles Darwin)
 focusKeyword: Blutige
 labels:
   - aufs Brot schmieren
@@ -41,61 +39,61 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25255"
+image: /img/demo.jpg
+errors: []
 subTitle: 10 Fakten über Veganismus - Teil III
+  
 ---
-
-## Veganer retten Leben<strong><span style="text-decoration: underline;"><em><a title="Teil 2" href="2014/08/ich-war-so-muede/">Hier gehts zu Teil 2 des Artikels
-
-</a></em></span></strong><strong>In Deutschland leben momentan rund 1,2
-Millionen Veganer\*innen (Quelle:
-[VEBU](https://www.vebu.de/lifestyle/anzahl-der-vegetarierinnen), Stand Juli
-2014), bei einer derzeitigen Gesamtbevölkerung von 81.890.000 (Stand heute)
-bedeutet das, dass 1,465 Prozent der Deutschen vegan leben, die Zahl wächst
-stetig.</strong>
 
 Geht man davon aus, wie viele Tiere in Deutschland pro Kopf geschlachtet werden
 (\*), ergibt sich daraus, dass dadurch täglich gerettet werden:
 
-<ul><li>25.210 Hühner</li><li>2.243 Schweine</li><li>1.514 Puten</li><li>1.022 Enten</li><li>130 Rinder</li><li>44 Schafe</li><li>21 Gänse</li><li>1 Ziege</li></ul>### 150 Milliarden geschlachtete Tiere jährlich
+- 25.210 Hühner
+- 2.243 Schweine
+- 1.514 Puten
+- 1.022 Enten
+- 130 Rinder
+- 44 Schafe
+- 21 Gänse
+- 1 Ziege### 150 Milliarden geschlachtete Tiere jährlich
 
 Leider nur ein kleiner Tropfen auf den heißen Stein, wenn man bedenkt, dass
-weltweit jährlich mehr als 150 Milliarden Tiere <strong>geschlachtet</strong>
-werden. In Deutschland sind das jährlich u. A. 58 Millionen Schweine, 630
-Millionen Hühner und 3,2 Millionen Rinder. In den USA schlachtet alleine die
-Gesellschaft "Tyson Foods" mehr als 42 Millionen Tiere in einer einzigen Woche,
-in China werden über 660 Millionen Schweine pro Jahr geschlachtet. (**, \***)
+weltweit jährlich mehr als 150 Milliarden Tiere **geschlachtet** werden. In
+Deutschland sind das jährlich u. A. 58 Millionen Schweine, 630 Millionen Hühner
+und 3,2 Millionen Rinder. In den USA schlachtet alleine die Gesellschaft "Tyson
+Foods" mehr als 42 Millionen Tiere in einer einzigen Woche, in China werden über
+660 Millionen Schweine pro Jahr geschlachtet. (**, \***)
 
-![Geschlachtete Tiere in Deutschland - bund.net | large](http://cardamonchai.files.wordpress.com/2014/08/infografik_-geschlachtete_tiere_in_deutschland.jpg?w=646 " [](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf)  Geschlachtete Tiere in Deutschland - bund.net")
+![Geschlachtete Tiere in Deutschland - bund.net | large](http://cardamonchai.files.wordpress.com/2014/08/infografik_-geschlachtete_tiere_in_deutschland.jpg?w=646 "[ ](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf)  Geschlachtete Tiere in Deutschland - bund.net")
 
 Mit 58 Millionen getöteten Schweinen im Jahr steht Deutschland bei der
 Schweineschlachtung in Europa auf Platz 1. Auch bei den Hühnern sind wir in der
 Top 5 dabei.
 
-<blockquote>Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben, als ebenbürtig zu betrachten.
-(Charles Darwin)</blockquote>### Billigfleisch durch Dumpinglöhne
+> Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben, als
+> ebenbürtig zu betrachten. (Charles Darwin)### Billigfleisch durch Dumpinglöhne
 
-![Zutritt verboten](http://cardamonchai.files.wordpress.com/2014/08/11337775535_483b28d0f8_z.jpg?w=200 " [](https://www.flickr.com/photos/99929697@N07/)  Zutritt verboten")
+![Zutritt verboten](http://cardamonchai.files.wordpress.com/2014/08/11337775535_483b28d0f8_z.jpg?w=200 "[ ](https://www.flickr.com/photos/99929697@N07/)  Zutritt verboten")
 
 Bundesweit gibt es rund 350 Schlachthöfe, 2012 waren fast 28.000 Menschen in
 Deutschland im Bereich Schlachtung sozialversicherungspflichtig beschäftigt.
-Weltweit arbeiten mehrere Millionen Menschen in Schlachthöfen.
-"<strong>Billigfleisch</strong>" entsteht auch durch die Dumpinglöhne in
-Schlachthöfen. Da die Arbeit als "dirty work" gilt, wird selten darüber
-gesprochen, die Gewalt der Schlachthöfe soll nicht an die Öffentlichkeit
-dringen.
+Weltweit arbeiten mehrere Millionen Menschen in Schlachthöfen. "
+**Billigfleisch** " entsteht auch durch die Dumpinglöhne in Schlachthöfen. Da
+die Arbeit als "dirty work" gilt, wird selten darüber gesprochen, die Gewalt der
+Schlachthöfe soll nicht an die Öffentlichkeit dringen.
 
 Die enorme Fluktuation erschwert eine genaue Erfassung der Mitarbeiterzahlen. In
-den Betrieben arbeiten in erster Linie osteuropäische
-<strong>Leiharbeiter</strong>, die in ihrer Heimat von Firmen angeworben und
-nach Deutschland entsandt werden. Stundenlöhne unter 5 Euro sind für die
-Arbeiter, die nicht durch einen Mindeslohn abgesichert sind, keine Seltenheit.
+den Betrieben arbeiten in erster Linie osteuropäische **Leiharbeiter** , die in
+ihrer Heimat von Firmen angeworben und nach Deutschland entsandt werden.
+Stundenlöhne unter 5 Euro sind für die Arbeiter, die nicht durch einen
+Mindeslohn abgesichert sind, keine Seltenheit.
 
 Die Billiglöhne haben dazu geführt, dass Firmen aus Nachbarländern ihre Tiere
 zum Schlachten nach Deutschland bringen. Lebende Tiere werden in Transportern
 hunderte von Kilometern durch Europa transportiert, geschlachtet und zerkleinert
-in <strong>Kühlwagen</strong> wieder zurückgebracht.
+in **Kühlwagen** wieder zurückgebracht.
 
-![Hinter der Wand leben die Artgenossen](http://cardamonchai.files.wordpress.com/2014/08/11337870944_520300ede0_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Hinter der Wand leben die Artgenossen")
+![Hinter der Wand leben die Artgenossen](http://cardamonchai.files.wordpress.com/2014/08/11337870944_520300ede0_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Hinter der Wand leben die Artgenossen")
 
 Rinder werden meist mit Bolzenschussgeräten betäubt, Schweine mit Gas oder einer
 Elektrozange. Häufig geht ein Schuss oder eine Betäubung daneben und die Tiere
@@ -119,7 +117,7 @@ hier werden Videos gezeigt, Zahlen genannt, Vergleiche angestellt zwischen z.B.
 Naturland und Demeter, Beispiele gezeigt und über die Hintergründe und die
 Tierhaltung aufgeklärt.
 
-![Weideland](http://cardamonchai.files.wordpress.com/2014/08/9647416442_6111074c8a_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Weideland")
+![Weideland](http://cardamonchai.files.wordpress.com/2014/08/9647416442_6111074c8a_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Weideland")
 
 Rund zehn Prozent der geschlachteten weiblichen Kühe in Deutschland sind
 trächtig,
@@ -134,19 +132,21 @@ größten Schlachtkonzerne, Westfleisch, Tönnies und Vion, bei Geflügel führt
 PHW-Gruppe, bekannt durch "Wiesenhof"die Branche an, es lässt sich also durchaus
 von einer Zentralisierung sprechen. (\*)
 
-![Weltweite Schlachtungen bund.net | full](http://cardamonchai.files.wordpress.com/2014/08/aef9d6a669.jpg " [](http://www.bund.net/fleischatlas)  Weltweite Schlachtungen bund.net")
+![Weltweite Schlachtungen bund.net | full](http://cardamonchai.files.wordpress.com/2014/08/aef9d6a669.jpg "[ ](http://www.bund.net/fleischatlas)  Weltweite Schlachtungen bund.net")
 
-![Bild: Occupy For Animals](http://cardamonchai.files.wordpress.com/2014/08/occupy-for-animals.jpg?w=225 " [](http://www.occupyforanimals.org/animal-kill-counter.html)  Bild: Occupy For Animals")
+![Bild: Occupy For Animals](http://cardamonchai.files.wordpress.com/2014/08/occupy-for-animals.jpg?w=225 "[ ](http://www.occupyforanimals.org/animal-kill-counter.html)  Bild: Occupy For Animals")
 
 Wer sich diese unfassbaren Zahlen nicht vorstellen kann, besucht den
+[Animal Kill Counter](http://www.occupyforanimals.org/animal-kill-counter.html)
+auf der Seite von
 [Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html).
 Öffnet man die Seite, aktiviert sich ein Zähler, der anzeigt, wie viele Tiere
 seit dem Öffnen der Seite weltweit geschlachtet wurden. Lässt man sie nur eine
 kurze Zeit lang geöffnet, offenbart sich einem das Grauen.
 
 Und dabei werden die Tiere, die in der Folge von Tierversuchen, Tierquälerei,
-das Einschläfern in <strong>Tötungsstationen</strong> und weitere Eingriffe in
-die Natur durch Menschen noch nicht mal mit eingerechnet.
+das Einschläfern in **Tötungsstationen** und weitere Eingriffe in die Natur
+durch Menschen noch nicht mal mit eingerechnet.
 
 ### Fleischkonsum weltweit nimmt weiter zu
 
@@ -161,13 +161,13 @@ Auf diese boomenden Länder werden laut dem aktuellen
 [Fleischatlas](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf)
 bis 2022 rund 80 Prozent des Wachstums im Fleischsektor entfallen.
 
-![Trends der Fleischerzeugung in Millionen Tonnen bund.net](http://cardamonchai.files.wordpress.com/2014/08/fleischatlas_2014_grafik1.jpg?w=300 " [](http://www.bund.net/fleischatlas)  Trends der Fleischerzeugung in Millionen Tonnen bund.net")
+![Trends der Fleischerzeugung in Millionen Tonnen bund.net](http://cardamonchai.files.wordpress.com/2014/08/fleischatlas_2014_grafik1.jpg?w=300 "[ ](http://www.bund.net/fleischatlas)  Trends der Fleischerzeugung in Millionen Tonnen bund.net")
 
 In Indien boomt der Handel mit Büffelfleisch, hier hat sich das Wachstum von
 2010 bis 2013 so gut wie verdoppelt. 25 Prozent des auf dem Weltmarkt
-gehandelten Rindfleischs stammt aus Indien, rechnet man das
-<strong>Büffelfleisch</strong> als Rindfleisch mit ein. Indien ist somit seit
-2012 der größte Exporteur auf diesem Sektor, dicht gefolgt von Brasilien.
+gehandelten Rindfleischs stammt aus Indien, rechnet man das **Büffelfleisch**
+als Rindfleisch mit ein. Indien ist somit seit 2012 der größte Exporteur auf
+diesem Sektor, dicht gefolgt von Brasilien.
 
 ### Das blutige Geschäft
 
@@ -180,8 +180,26 @@ Tonnen pro Jahr bis Mitte dieses Jahrhunderts fort, kommt man bis zu diesem
 Zeitpunkt auf fast eine halbe Milliarde Tonnen pro Jahr. Hinzukommt, dass sich
 die [Sojaproduktion](//2014/07/30/10-fakten-uber-vegane-ernahrung/) für das
 Futter zur Mästung der Tiere von heute 260 auf über 500 Millionen Tonnen nahezu
-verdoppeln wird<span style="font-size: 15px;">. (\*\*)</span><blockquote>Nichts
-auf der Welt ist so mächtig wie eine Idee, deren Zeit gekommmen ist. (Victor
-Hugo,1802-1885)</blockquote><span style="text-decoration: underline;">
-[Ich bleib dabei! Vegan macht Spaß!](/2014/08/26/vitamin-b12-mythos-und-wahrheit/)
-</li></ol>
+verdoppeln wird. (**)> Nichts auf der Welt ist so mächtig wie eine Idee, deren
+Zeit gekommmen ist. (Victor Hugo,1802-1885)
+[_ **Hier gehts zu Teil 4 des Artikels** _](/2014/08/26/vitamin-b12-mythos-und-wahrheit/)
+\_Text und Fotos: [Anne Reis](//about/), Quellen: \*
+[Fleischatlas 2014](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf),
+** [bund.net](http://www.bund.net/fleischatlas), \*\*\*
+[Campact Blog](http://blog.campact.de/2014/01/wir-habens-satt-750-mio-tiere-werden-pro-jahr-in-deutschland-geschlachtet/),
+[biowahrheit.de](http://www.biowahrheit.de),
+[Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html)
+\_ ### Inhaltsverzeichnis "10 Fakten über Veganismus"1.
+[Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+
+1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
+1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
+1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
+1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
+1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
+1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+
+  

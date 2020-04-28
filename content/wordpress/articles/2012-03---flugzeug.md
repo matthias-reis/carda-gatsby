@@ -4,12 +4,11 @@ seoTitle: Flugzeug - eine kurze Geschichte aus dem Leben
 slug: flugzeug
 link: /2012/03/flugzeug/
 fileName: 2012-03---flugzeug.md
-description:
-  Vor Dir sitzt ein quengelndes, zappelndes, kauendes Kind und spielt bei voll
-  aufgedrehter Lautstärke ein Kampfroboterspiel auf seiner Spielkonsole.
-excerpt:
-  Vor Dir sitzt ein quengelndes, zappelndes, kauendes Kind und spielt bei voll
-  aufgedrehter Lautstärke ein Kampfroboterspiel auf seiner Spielkonsole.
+description: Vor Dir sitzt ein quengelndes, zappelndes, kauendes Kind und spielt
+  bei voll aufgedrehter Lautstärke ein Kampfroboterspiel auf seiner
+  Spielkonsole.
+excerpt: Vor Dir sitzt ein quengelndes, zappelndes, kauendes Kind und spielt bei
+  voll aufgedrehter Lautstärke ein Kampfroboterspiel auf seiner Spielkonsole.
 focusKeyword: Flugzeug
 labels:
   - Alkoholismus
@@ -51,10 +50,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2877"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine Geschichte aus dem Leben
+  
 ---
-
-<hr /><strong>Hinweis: </strong>Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt. Die Geschichte ist frei erfunden.
 
 <hr />
 
@@ -103,3 +103,5 @@ des Piloten, dann durch das flirrende Blinkstakkato der defekten Leuchtanzeige
 Augenwinkel wahr, wie die betagte Lady mit dem "Goldenen Blatt" ihrem
 Göttergatten in einem sanften, sich stetig ergießenden Strahl in den Tweetschoß
 bricht, da hast Du endlich Deine Kopfhörer gefunden.
+
+  

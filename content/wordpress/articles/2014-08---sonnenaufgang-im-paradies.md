@@ -4,13 +4,11 @@ seoTitle: Smoothie-Rezept - Sonnenaufgang im Paradies
 slug: sonnenaufgang-im-paradies
 link: /2014/08/sonnenaufgang-im-paradies/
 fileName: 2014-08---sonnenaufgang-im-paradies.md
-description:
-  Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder ein
-  sportliches Erfolgserlebnis zu verbuchen! Hier ist mein Sonnenaufgang im
-  Paradies
-excerpt:
-  Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder ein
-  sportliches Erfolgserlebnis zu verbuchen! Hier ist mein Sonnenaufgang im
+description: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe
+  wieder ein sportliches Erfolgserlebnis zu verbuchen! Hier ist mein
+  Sonnenaufgang im Paradies
+excerpt: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder
+  ein sportliches Erfolgserlebnis zu verbuchen! Hier ist mein Sonnenaufgang im
   Paradies.
 focusKeyword: Smoothie-Rezept
 labels:
@@ -34,11 +32,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8691"
+image: /img/demo.jpg
+errors: []
 subTitle: After Workout Smoothie
+  
 ---
-
-<strong>Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe wieder
-ein sportliches Erfolgserlebnis zu verbuchen!</strong>
 
 Ich bin heute nach langer Zeit endlich wieder angelaufen und es ging mir
 wirklich spitze dabei! Kein Seitenstechen, kein Zwicken und kein Zwacken. So
@@ -56,7 +54,14 @@ winterlichen Wetter im Hochsommer ist es derzeit etwas dunkel in der Wohnung.
 Aber ich denke, eine ungefähre Vorstellung bekommt man schon, in Wirklichkeit
 sieht er appetitlicher aus. :-P
 
-## Smoothie-Rezept<strong>Zutaten (für 2 Personen)</strong><ul><li>1 Banane</li><li>2 Äpfel</li><li>2 Nektarinen</li><li>1 Tasse gefrorene Sauerkirschen</li><li>2 Tl. Acai-Pulver</li><li>2 Tl. Weizengras</li><li>ca. 2 Gläser roter Saft</li></ul><strong>Zubereitung</strong>
+## Smoothie-Rezept **Zutaten (für 2 Personen)** - 1 Banane
+
+- 2 Äpfel
+- 2 Nektarinen
+- 1 Tasse gefrorene Sauerkirschen
+- 2 Tl. Acai-Pulver
+- 2 Tl. Weizengras
+- ca. 2 Gläser roter Saft **Zubereitung**
 
 Die Banane, die Äpfel und die Nektarinen schälen.
 
@@ -79,4 +84,9 @@ Lasst es Euch schmecken!
 
 Kussi Anne &lt;3
 
-## Wegweiser Smoothies<ol><li> [Hanf Banane Himbeer Reigen](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/) </li></ol>
+## Wegweiser Smoothies1. [Heidelbeerliebe](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/)
+
+1.  Sonnenaufgang im Paradies
+1.  [Hanf Banane Himbeer Reigen](/2017/04/hanf-banane-himbeer-smoothie/)
+
+  

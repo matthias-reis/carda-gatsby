@@ -4,12 +4,12 @@ seoTitle: Mit Crowdfarming einen Orangenbaum adoptieren - Obst vom Erzeuger
 slug: mit-crowdfarming-einen-orangenbaum-adoptieren
 link: /2019/01/mit-crowdfarming-einen-orangenbaum-adoptieren/
 fileName: 2019-01---mit-crowdfarming-einen-orangenbaum-adoptieren.md
-description:
-  Llum Querol ist Orangenfarmerin. Sie möchte sich für den biologischen Anbau
-  einsetzen. Aus diesem Grund arbeitet sie jetzt mit CrowdFarming zusammen.
-excerpt:
-  Llum Querol ist Orangenfarmerin. Sie möchte sich für den biologischen Anbau
-  einsetzen. Aus diesem Grund arbeitet sie jetzt mit CrowdFarming zusammen.
+description: Llum Querol ist Orangenfarmerin. Sie möchte sich für den
+  biologischen Anbau einsetzen. Aus diesem Grund arbeitet sie jetzt mit
+  CrowdFarming zusammen.
+excerpt: Llum Querol ist Orangenfarmerin. Sie möchte sich für den biologischen
+  Anbau einsetzen. Aus diesem Grund arbeitet sie jetzt mit CrowdFarming
+  zusammen.
 focusKeyword: Orangen
 labels:
   - CrowdFarming
@@ -27,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23322"
+image: /img/demo.jpg
+errors: []
 subTitle: Bio-Früchte direkt vom Erzeuger
+  
 ---
 
-<strong>Llum Querol ist Orangenfarmerin. Sie möchte sich für den biologischen
-Anbau von Lebensmitteln einsetzen. Aus diesem Grund arbeitet sie jetzt mit
-CrowdFarming zusammen.</strong>
+**Llum Querol ist Orangenfarmerin. Sie möchte sich für den biologischen Anbau
+von Lebensmitteln einsetzen. Aus diesem Grund arbeitet sie jetzt mit
+CrowdFarming zusammen.**
 
 Wie CrowdFarming genau funktioniert,
 [habe ich Euch ja hier bereits erzählt](/2018/11/crowdfarming/). Kurz gesagt
@@ -47,7 +50,7 @@ wird außerdem Lebenmittelabfall vermieden – that's it.
 
 Llum Querol ist ein Neuzugang bei den Farmern. Sie besitzt eine Plantage in
 Castellón an der Grenze zwischen den spanischen Regionen Valencia und
-Katalonien, auf der sie <strong>Orangen</strong> anbaut.
+Katalonien, auf der sie **Orangen** anbaut.
 
 Ihr könnt einen ihrer Bäume für 37,04 Euro (+ Logistikkosten) pro Saison
 adoptieren. Insgesamt bekommt ihr dann drei Pakete á 10 Kilogramm Orangen per
@@ -68,10 +71,13 @@ der Lebensraum der Nützlinge, die für den Anbau der Orangen so wichtig sind.
 
 ![Orangen](http://cardamonchai.com/wp-content/uploads/2019/01/organenbaum-400x225.jpg)
 
-“ angebaut. Sie stammt ursprünglich aus der valenzianischen Gemeinde Foyos und
-gehört zur Unterart der Nabelorangen. Die Früchte sind sowohl zum direkten
-Verzehr, als auch zum Herstellen von Saft geeignet. Geerntet wird zwischen
-Februar und März. Die Bewässerung erfolgt mithilfe eines Tröpfensystems.
+Im Umkreis der Finca wachsen etwa 1.000 Orangenbäume in einer Höhe von etwa 65
+Metern über dem Meeresspiegel. Auf der Carrasca Farm wird die Sorte „ **Navel
+Foyos** “ angebaut. Sie stammt ursprünglich aus der valenzianischen Gemeinde
+Foyos und gehört zur Unterart der Nabelorangen. Die Früchte sind sowohl zum
+direkten Verzehr, als auch zum Herstellen von Saft geeignet. Geerntet wird
+zwischen Februar und März. Die Bewässerung erfolgt mithilfe eines
+Tröpfensystems.
 
 Gemeinsam mit ihrem Mann Pablo, der wie sie bereits seit seiner Kindheit eng mit
 der Landwirtschaft verbunden ist, erfüllte sich Llum 2005 den Traum von der
@@ -83,4 +89,6 @@ Wem jetzt das Wasser schon im Mund zusammengelaufen Interessent\*innen für eine
 Orangenbaum-Patenschaft,
 [finden Llums CrowdFarming Profil hier](https://www.crowdfarming.com/de/farmer/la-carrasca/up/orangenbaum-patenschaft-llum).
 
-<strong>Fotos: </strong>CrowdFarming
+**Fotos:** CrowdFarming
+
+  

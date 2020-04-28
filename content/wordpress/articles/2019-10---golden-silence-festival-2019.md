@@ -4,12 +4,12 @@ seoTitle: Golden Silence Festival 2019 - Post-Rock im Skaters Palace Münster
 slug: golden-silence-festival-skaters-palace-muenster
 link: /2019/10/golden-silence-festival-skaters-palace-muenster/
 fileName: 2019-10---golden-silence-festival-2019.md
-description:
-  "Für uns steht bald das letzte Festival des Jahres 2019 an: das Golden Silence
-  Festival in Münster findet am 2. November im Skater Palace in Münster statt."
-excerpt:
-  "Für uns steht bald das letzte Festival des Jahres 2019 an: das Golden Silence
-  Festival in Münster findet am 2. November im Skater Palace in Münster statt."
+description: "Für uns steht bald das letzte Festival des Jahres 2019 an: das
+  Golden Silence Festival in Münster findet am 2. November im Skater Palace in
+  Münster statt."
+excerpt: "Für uns steht bald das letzte Festival des Jahres 2019 an: das Golden
+  Silence Festival in Münster findet am 2. November im Skater Palace in Münster
+  statt."
 focusKeyword: Golden Silence Festival
 labels:
   - Curls & Nods
@@ -35,12 +35,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26597"
+image: /img/demo.jpg
+errors: []
 subTitle: Post-Rock im Skaters Palace Münster
+  
 ---
 
-<strong>2019 neigt sich dem Ende zu und für uns steht das letzte Festival des
-Jahres an: das Golden Silence Festival in Münster findet am 2. November im
-Skaters Palace in Münster statt.</strong>
+**2019 neigt sich dem Ende zu und für uns steht das letzte Festival des Jahres
+an: das Golden Silence Festival in Münster findet am 2. November im Skaters
+Palace in Münster statt.**
 
 ![golden-silence-festival](http://cardamonchai.com/wp-content/uploads/2019/10/golden-silence-festival-400x565.jpeg)
 
@@ -49,9 +52,11 @@ angeschlagen - beim Golden Silence Festival ist der Name Programm - es wird
 ausschließlich Musik ohne Lyrics zum Besten gegeben.
 
 Zum Event geladen hat die Münsteraner Band
-[neuen Konzertfilm](/2016/05/long-distance-calling-uebel-und-gefaehrlich/), der
-im Sommer in der Kulturkirche Altona aufgenommen wurde, wird mit instrumentaler
-Musik gefeiert.
+[Long Distance Calling](/2016/05/long-distance-calling-uebel-und-gefaehrlich/).
+Als eine Art Premierenparty zum
+[neuen Konzertfilm](/2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/),
+der im Sommer in der Kulturkirche Altona aufgenommen wurde, wird mit
+instrumentaler Musik gefeiert.
 
 ## Golden Silence Festival - die Bands
 
@@ -70,5 +75,7 @@ fungieren.
 
 <iframe src="https://www.youtube.com/embed/sFAf3ugFeGI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<strong>Grafik &amp; Quelle:</strong>
+**Grafik &amp; Quelle:**
 [Golden Silence Festival / Long Distance Calling](https://www.skaters-palace.de/veranstaltungen/golden-silence-festival)
+
+  

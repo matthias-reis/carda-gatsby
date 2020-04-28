@@ -4,12 +4,12 @@ seoTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles
 slug: post-punk
 link: /2020/03/post-punk/
 fileName: 2020-03---post-punk-und-co.md
-description:
-  Habt Ihr Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich habe eine
-  umfangreiche Playlist zusammengestellt, die keine Wünsche offen lässt.
-excerpt:
-  Habt Ihr Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich habe eine
-  umfangreiche Playlist zusammengestellt, die keine Wünsche offen lässt.
+description: Habt Ihr Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich
+  habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
+  lässt.
+excerpt: Habt Ihr Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich
+  habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
+  lässt.
 focusKeyword: Post-Punk
 labels:
   - Bands & Reviews
@@ -28,11 +28,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28515"
+image: /img/demo.jpg
+errors: []
 subTitle: Von Joy Division bis Idles
+  
 ---
 
-<strong>Wer hat Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich habe
-eine Playlist mit 27 Songs für Euch zusammengestellt.</strong>
+**Wer hat Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich habe eine
+Playlist mit 27 Songs für Euch zusammengestellt.**
 
 Es ist schon ein paar Tage her, da schickte mir Valentin den Song "Crystal
 Machete" von Wes Borland. Weil der Musiker eher für einen ganz anderen Musikstil
@@ -288,3 +291,5 @@ anhören.
 ## Spotify
 
 <iframe src="https://open.spotify.com/embed/playlist/4qj01sHMZGcb8Z6qvFPPIJ" width="300" height="380" frameborder="0"></iframe>
+
+  

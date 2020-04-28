@@ -4,12 +4,11 @@ seoTitle: Warum ich meinen Kaffee nicht mehr so oft im Gehen trinke
 slug: von-der-wichtigkeit-sich-zeit-zu-nehmen
 link: /2019/01/von-der-wichtigkeit-sich-zeit-zu-nehmen/
 fileName: 2019-01---von-der-wichtigkeit-sich-zeit-zu-nehmen.md
-description:
-  Im Moment habe ich leider viel zu wenig Zeit. Ständig geht es hektisch zu und
-  komme kaum zum Durchatmen. Trotzdem trinke ich meinen Kaffee im Sitzen.
-excerpt:
-  Im Moment habe ich leider viel zu wenig Zeit. Ständig geht es hektisch zu und
-  komme kaum zum Durchatmen. Trotzdem trinke ich meinen Kaffee im Sitzen.
+description: Im Moment habe ich leider viel zu wenig Zeit. Ständig geht es
+  hektisch zu und komme kaum zum Durchatmen. Trotzdem trinke ich meinen Kaffee
+  im Sitzen.
+excerpt: Im Moment habe ich leider viel zu wenig Zeit. Ständig geht es hektisch
+  zu und komme kaum zum Durchatmen. Trotzdem trinke ich meinen Kaffee im Sitzen.
 focusKeyword: Kaffee
 labels:
   - Achtsamkeit
@@ -26,16 +25,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23235"
+image: /img/demo.jpg
+errors: []
 subTitle: Warum ich meinen Kaffee nicht mehr so oft im Gehen trinke
+  
 ---
 
-<strong>Im Moment habe ich leider viel zu wenig Zeit. Ständig geht es hektisch
-zu, ich renne von Termin zu Termin und komme kaum zum Durchatmen. Trotzdem
-trinke ich meinen Kaffee im Sitzen.</strong>
+**Im Moment habe ich leider viel zu wenig Zeit. Ständig geht es hektisch zu, ich
+renne von Termin zu Termin und komme kaum zum Durchatmen. Trotzdem trinke ich
+meinen Kaffee im Sitzen.**
 
-Kennt Ihr diese schicken <strong>To-go-Becher aus Bambus</strong>? Ich besitze
-gleich ein paar davon. Sie sind wirklich praktisch und inzwischen kann man sie
-sich tatsächlich so gut wie überall auffüllen lassen. Vor Kurzem habe ich aber
+Kennt Ihr diese schicken **To-go-Becher aus Bambus** ? Ich besitze gleich ein
+paar davon. Sie sind wirklich praktisch und inzwischen kann man sie sich
+tatsächlich so gut wie überall auffüllen lassen. Vor Kurzem habe ich aber
 gemerkt, dass mir die paar Minuten Auszeit, die ich mir nehmen muss, wenn ich
 meinen Kaffee direkt vor Ort im Café zu mir nehme, richtig gut tun.
 
@@ -54,8 +56,8 @@ Tagesrhythmus nicht wirklich.
 
 Was hilft, ist Kaffee trinken. Das Gute daran: Es geht ganz einfach. Man muss
 nur nach der Arbeit auf dem Weg zum Yogastudio oder zur Reinigung noch kurz
-einen Zwischenstopp im <strong>Coffeeshop</strong> einlegen. Auf die Frage "Für
-hier oder zum Mitnehmen?" gibt es dann mal eine ungewohnte Antwort: "Für hier!"
+einen Zwischenstopp im **Coffeeshop** einlegen. Auf die Frage "Für hier oder zum
+Mitnehmen?" gibt es dann mal eine ungewohnte Antwort: "Für hier!"
 
 Es geht nämlich: Man muss sich nicht immer beeilen. Einfach mal hinsetzen und
 sich mit gar nichts beschäftigen. Na gut, vielleicht maximal mit einem guten
@@ -75,12 +77,13 @@ entspannter, fühlt sich insgesamt wohler und liest endlich mal wieder was!
 Ungelogen: Seit ich meinen Kaffee nicht mehr so oft im Gehen trinke, habe ich
 schon so einige Bücher genossen. Das hat doch auch was, oder?
 
-So, ich gehe jetzt ins Café und trinke dort einen verdammt guten
-<strong>Kaffee</strong>. Vielleicht lasse ich mich dort zu meiner nächsten
-Geschichte inspirieren. Oder ich lasse einfach nur den Blick schweifen. Ganz
-entspannt.
+So, ich gehe jetzt ins Café und trinke dort einen verdammt guten **Kaffee** .
+Vielleicht lasse ich mich dort zu meiner nächsten Geschichte inspirieren. Oder
+ich lasse einfach nur den Blick schweifen. Ganz entspannt.
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zum festen
 Bestandteil meines Blogs etablieren. Je mehr ich selbst lese, desto mehr möchte
 ich darüber berichten. Verstärkt hat sich das Ganze noch,
 [seit ich selbst mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/).
+
+  

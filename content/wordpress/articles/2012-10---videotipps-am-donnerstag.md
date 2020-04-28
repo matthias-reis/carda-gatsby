@@ -4,9 +4,8 @@ seoTitle: Videotipps am Donnerstag
 slug: videotipps-am-donnerstag
 link: /2012/10/videotipps-am-donnerstag/
 fileName: 2012-10---videotipps-am-donnerstag.md
-description:
-  Heute habe ich zwei ganz besondere Videotipps für Euch, Song No. 1 stammt von
-  keinem Geringeren, als Jack White...
+description: Heute habe ich zwei ganz besondere Videotipps für Euch, Song No. 1
+  stammt von keinem Geringeren, als Jack White...
 excerpt: Heute möchte ich hier mal wieder zwei wundervolle Videos vorstellen.
 focusKeyword: Videotipps
 labels:
@@ -42,11 +41,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4406"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Geschichte von der tanzenden Redaktion
+  
 ---
-
-<strong>Heute möchte ich hier mal wieder zwei wundervolle Videos vorstellen.
-</strong>
 
 Das erste schickte mir [@Ulle](http://thatgirlthere.wordpress.com/) heute über
 Twitter. Sie ist ein genau so großer Muse-Fan wie ich und musste sofort an mich
@@ -67,9 +66,9 @@ länger vorenthalten.
 
 Das zweite Video habe ich heute Morgen schon entdeckt. Es handelt sich um das
 offizielle Musik-Video zum Song 'I'm Shakin'' von Jack Whites aktueller Platte
-"Blunderbuss", das heute veröffentlicht wurde. <strong>Jack White</strong> lässt
-darin seine beiden Begleitbands (die Ihr vielleicht schon von seinem iTunes
-Festival Auftritt kennt) gegeneinander anspielen. Großes Kino, wie ich finde.
+"Blunderbuss", das heute veröffentlicht wurde. **Jack White** lässt darin seine
+beiden Begleitbands (die Ihr vielleicht schon von seinem iTunes Festival
+Auftritt kennt) gegeneinander anspielen. Großes Kino, wie ich finde.
 
 Ich habe den Videolink auch an [@Ulle](http://thatgirlthere.wordpress.com/)
 weitergeleitet. Ihr Kommentar: "Uah! Jetzt springt und shaked die ganze
@@ -78,5 +77,7 @@ eine ähnliche Reaktion auslöse.
 
 ## Hier ist für Euch JACK WHITE mit 'I'm Shakin'': [[youtube=http://www.youtube.com/watch?v=MvpoiiBW9bc]](http://JackWhite)
 
-Stay tuned, bald gibt's an dieser Stelle wieder neue <strong>Videotipps</strong>
-für Euch! &lt;3
+Stay tuned, bald gibt's an dieser Stelle wieder neue **Videotipps** für Euch!
+&lt;3
+
+  

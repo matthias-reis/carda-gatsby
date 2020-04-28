@@ -4,12 +4,11 @@ seoTitle: Elbe schwarz-weiß - ein sonniger Samstagsspaziergang in Altona
 slug: elbe-schwarz-weiss
 link: /2019/04/elbe-schwarz-weiss/
 fileName: 2019-04---elbe-schwarz-weiss.md
-description:
-  Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am Wochenende
-  die Sonne scheint. Dann zieht es alle an die Ufer der Elbe.
-excerpt:
-  Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am Wochenende
-  die Sonne scheint. Dann zieht scheint es alle ans Ufer der Elbe zu ziehen.
+description: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am
+  Wochenende die Sonne scheint. Dann zieht es alle an die Ufer der Elbe.
+excerpt: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am
+  Wochenende die Sonne scheint. Dann zieht scheint es alle ans Ufer der Elbe zu
+  ziehen.
 focusKeyword: schwarz-weiß
 labels:
   - Altona
@@ -25,12 +24,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23880"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein sonniger Samstagsspaziergang
+  
 ---
 
-<strong>Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am
-Wochenende die Sonne scheint. Dann brechen nämlich zahlreiche Menschen auf und
-verstopfen die Spazierwege.</strong>
+**Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am Wochenende
+die Sonne scheint. Dann brechen nämlich zahlreiche Menschen auf und verstopfen
+die Spazierwege.**
 
 Am Samstag haben wir dabei fleißig mitgemischt und sind an die Elbe runter. Dort
 angekommen, wurde das frühlingshafte Wetter in vollen Zügen genossen. Oder
@@ -43,3 +45,5 @@ wunderbaren Farbtöne zwischen dem Schwarz und dem Weiß.
 [glry name="2019-03-30-elbe-altona"]
 
 &nbsp;
+
+  

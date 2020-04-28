@@ -4,12 +4,12 @@ seoTitle: Birds Of Tivoli - Gefiederte Besucher im Vergnügungspark
 slug: birds-of-tivoli
 link: /2018/07/birds-of-tivoli/
 fileName: 2018-07---birds-of-tivoli.md
-description:
-  Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet. Den Birds
-  Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit Füttertipps.
-excerpt:
-  Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet. Den Birds
-  Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit Füttertipps.
+description: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet.
+  Den Birds Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit
+  Füttertipps.
+excerpt: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet. Den
+  Birds Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit
+  Füttertipps.
 focusKeyword: Birds
 labels:
   - Amseln
@@ -32,12 +32,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21377"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (47:73)"
 subTitle: Gefiederte Besucher im Vergnügungspark
+  
 ---
 
-<strong><em>"Birds, Birds, Birds"</em> - Im Tivoli sind uns nicht nur jede Menge
-Menschen mit strahlenden Augen begegnet, die dabei waren, den Park zu genießen,
-sondern auch ein paar gefiederte Persönlichkeiten.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (47:73)
+
+<!--
+**_"Birds, Birds, Birds"_ - Im Tivoli sind uns nicht nur jede Menge Menschen mit
+strahlenden Augen begegnet, die dabei waren, den Park zu genießen, sondern auch
+ein paar gefiederte Persönlichkeiten.**
 
 Nachdem [mein Beitrag zum Tivoli](/2018/07/tivoli-in-kopenhagen/) von gestern
 sehr gut ankommt und Vogelbilder schon immer mein Ding sind, wie viele von Euch
@@ -53,7 +61,9 @@ Sträucher.
 
 Übrigens möchte ich hier nochmal die Gelegenheit nutzen, einen Hinweis
 loszuwerden. Vögel füttern: Ja! Besonders hungrige
-[Möwen](/2016/05/hamburger-stadttauben-e-v/) oder sonstige Vögel.
+[Stadttauben](/2016/05/hamburger-stadttauben-e-v/) freuen sich über jede
+Mahlzeit. Aber bitte: Kein Brot oder gar Kuchen und andere "Treats". Weder an
+Enten, noch an Tauben, [Möwen](/tag/mowen/) oder sonstige Vögel.
 
 Brot ist für die Tiere wie eine Süßigkeit, daher nehmen sie sie dankbar an und
 futtern schon mal eine stattliche Menge davon, bietet man es ihnen an.
@@ -92,3 +102,7 @@ Von der Sonne müde geworden, verstecke ich mich im Unterholz.
 Ich freue mich auf Deinen nächsten Besuch. Bringst Du mir was mit?</blockquote>
 
 [myflickr tag="annebirdsoftivoli2018"]
+
+-->
+
+  

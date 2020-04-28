@@ -4,12 +4,10 @@ seoTitle: Millerntor Gallery 2017 - Rundgang durch die Ausstellung
 slug: millerntor-gallery-2017
 link: /2017/07/millerntor-gallery-2017/
 fileName: 2017-07---millerntor-gallery-2017.md
-description:
-  Wir haben wundervolle Eindrücke mit nach Hause genommen von der Millerntor
-  Gallery 2017, die ich heute gerne mit Euch teilen möchte.
-excerpt:
-  Wir haben wundervolle Eindrücke mit nach Hause genommen von der Millerntor
-  Gallery 2017, die ich heute gerne mit Euch teilen möchte.
+description: Wir haben wundervolle Eindrücke mit nach Hause genommen von der
+  Millerntor Gallery 2017, die ich heute gerne mit Euch teilen möchte.
+excerpt: Wir haben wundervolle Eindrücke mit nach Hause genommen von der
+  Millerntor Gallery 2017, die ich heute gerne mit Euch teilen möchte.
 focusKeyword: Millerntor Gallery
 labels:
   - Hamburg
@@ -28,22 +26,25 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17110"
+image: /img/demo.jpg
+errors: []
 subTitle: Rundgang durch die Ausstellung
+  
 ---
 
-<strong>Vom 29. Juni bis einschließlich 2. Juli fand im Stadion des FC St. Pauli
+**Vom 29. Juni bis einschließlich 2. Juli fand im Stadion des FC St. Pauli
 wieder die Millerntor Gallery statt. Thema war dieses Mal YOUTOPIC, mit dem der
 individuelle Willen zu positiver Veränderung beleuchtet wurde. Alle Teilnehmer
-nutzten dabei ihre Möglichkeiten und ihre Kreativität.</strong>
+nutzten dabei ihre Möglichkeiten und ihre Kreativität.**
 
-Ins Leben gerufen wurde das Kunst- und Kulturfestival vom <em>Viva con Agua de
-Sankt Pauli e. V</em>. und dem <em>FC St. Pauli</em>. Die Besucher werden mit
-Hilfe von Kunst, Musik und Sport zu gesellschaftlichem Engagement aufgefordert.
-Dafür wird das [Millerntor-Stadion](/2016/05/millerntor-stadion-hamburg/) einmal
-im Jahr zu einer großen Galerie, die für kleinen Eintritt für jeden zugänglich
-ist. Bei dem Event werden nicht nur Kunstwerke gezeigt, es treten auch jede
-Menge Musiker von Rang und Namen auf. Mit dabei waren dieses Jahr unter anderen
-<em>Schrottgrenze</em>,<em> Fettes Brot </em>und<em> DJ Mad</em>.
+Ins Leben gerufen wurde das Kunst- und Kulturfestival vom _Viva con Agua de
+Sankt Pauli e. V_ . und dem _FC St. Pauli_ . Die Besucher werden mit Hilfe von
+Kunst, Musik und Sport zu gesellschaftlichem Engagement aufgefordert. Dafür wird
+das [Millerntor-Stadion](/2016/05/millerntor-stadion-hamburg/) einmal im Jahr zu
+einer großen Galerie, die für kleinen Eintritt für jeden zugänglich ist. Bei dem
+Event werden nicht nur Kunstwerke gezeigt, es treten auch jede Menge Musiker von
+Rang und Namen auf. Mit dabei waren dieses Jahr unter anderen _Schrottgrenze_ ,
+_Fettes Brot_ und _DJ Mad_ .
 
 ## Die Erlöse der Millerntor Gallery gehen an Viva con Agua
 
@@ -73,3 +74,5 @@ nächstes Jahr.
 [myflickr tag="annemillerntorgallery2017"]
 
 [Meine Bilderserie von der Ausstellung "El iris de lucy" mit Werken zeitgenössischer Künstlerinnen aus Afrika im CAAM auf Gran Canaria, findet Ihr hier](/2017/06/el-iris-de-lucy-las-palmas/).
+
+  

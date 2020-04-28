@@ -4,14 +4,12 @@ seoTitle: Sonnentraenen - mal wieder etwas Prosa
 slug: sonnentraenen
 link: /2012/03/sonnentraenen/
 fileName: 2012-03---sonnentraenen.md
-description:
-  Menschen sitzen auf dem Gehsteig in der Sonne und entspannen sich. Sie haben
-  Eis und Getränke dabei, lesen Zeitung, blicken einfach so ins Weite, oder
-  unterhalten sich.
-excerpt:
-  Menschen sitzen auf dem Gehsteig in der Sonne und entspannen sich. Sie haben
-  Eis und Getränke dabei, lesen Zeitung, blicken einfach so ins Weite, oder
-  unterhalten sich.
+description: Menschen sitzen auf dem Gehsteig in der Sonne und entspannen sich.
+  Sie haben Eis und Getränke dabei, lesen Zeitung, blicken einfach so ins Weite,
+  oder unterhalten sich.
+excerpt: Menschen sitzen auf dem Gehsteig in der Sonne und entspannen sich. Sie
+  haben Eis und Getränke dabei, lesen Zeitung, blicken einfach so ins Weite,
+  oder unterhalten sich.
 focusKeyword: ""
 labels:
   - Blut
@@ -37,7 +35,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2884"
+image: /img/demo.jpg
+errors: []
 subTitle: Mal wieder etwas Prosa
+  
 ---
 
 Menschen sitzen auf dem Gehsteig in der Sonne und entspannen sich. Sie haben Eis
@@ -63,8 +64,8 @@ Federn. Blut. Auf dem grauen Asphalt. Einer von ihnen hat es nicht geschafft.
 Eine Wolke schiebt sich vor die Sonne. Es beginnt zu regnen. Die Marktfrauen
 packen ihre Gewürze ein. Die Musik verstummt.
 
-<em><strong>Abspann</strong></em><em>Dieser Text ist Rudi
-gewidmet.</em><strong>Musik: Shearwater - Believing Makes It Easy</strong>
+_ **Abspann** _ _Dieser Text ist Rudi gewidmet._ **Musik: Shearwater - Believing
+Makes It Easy**
 
 [youtube=http://www.youtube.com/watch?v=m6BrTOy54kA]
 
@@ -81,3 +82,5 @@ in the polar rays We war blooming at the same time
 While the sun slips away from the crest of the barricade Radiant In the winter
 light If a tenth of the law is the urge to invalidate Starry-eyed And
 inverterate And invincible You make it easy
+
+  

@@ -1,16 +1,15 @@
 ---
 title: NINE INCH NAILS live @Zitadelle Berlin
-seoTitle:
-  NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
+seoTitle: NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
 slug: nine-inch-nails-live-zitadelle-berlin
 link: /2014/05/nine-inch-nails-live-zitadelle-berlin/
 fileName: 2014-05---nine-inch-nails-live-zitadelle-berlin.md
-description:
-  NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften Trent
-  Reznor und seine Band in Berlin live sehen. Für mich das Konzert des Jahres.
-excerpt:
-  NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften Trent
-  Reznor und seine Band in Berlin live sehen. Für mich das Konzert des Jahres.
+description: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften
+  Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des
+  Jahres.
+excerpt: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften
+  Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des
+  Jahres.
 focusKeyword: NINE INCH NAILS
 labels:
   - Konzerte
@@ -33,20 +32,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8024"
+image: /img/demo.jpg
+errors: []
 subTitle: '"We have a lotta shit for you!"'
+  
 ---
 
-![Das Ticket](http://cardamonchai.files.wordpress.com/2014/05/nin-ticket-1553.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Das Ticket")
+![Das Ticket](http://cardamonchai.files.wordpress.com/2014/05/nin-ticket-1553.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Das Ticket")
 
-<b>Bereits im November letzten Jahres hatten der Herzmann, mein Bruder und ich
-uns über den N</b><b>INE IN</b><b>CH N</b><b>AILS Fanclub Tickets für den
-Auftritt auf dem Citadel Music Festival in der Spandauer Zitadelle besorgt.</b>
+**Bereits im November letzten Jahres hatten der Herzmann, mein Bruder und ich
+uns über den N** **INE IN** **CH N** **AILS Fanclub Tickets für den Auftritt auf
+dem Citadel Music Festival in der Spandauer Zitadelle besorgt.**
 
 Am 15. Mai, zwei Tage nach dem Geburtstag meines Bruders brachen wir dann in
 aller Frühe auf nach Berlin. Unser Ziel: Ein kleines Hotel in Spandau. Dort
 angekommen luden wir unsere Sachen ab und machten uns auf den Weg zur Zitadelle.
 
-![Die drei vom Wellenbrecher](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Die drei vom Wellenbrecher")
+![Die drei vom Wellenbrecher](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Die drei vom Wellenbrecher")
 
 Wir holten uns unsere Bändchen und Tickets ab und nahmen unseren Platz in der
 Schlange ein. Nachdem wir uns mit T-Shirts und Speis und Trank versorgt hatten
@@ -61,7 +63,7 @@ Kapelle die Bühne betrat.
 
 ## NINE INCH NAILS betraten endlich die Bühne
 
-![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1292.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
+![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1292.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
 
 Alle feierten ausgelassen, die Fans waren aus ganz Europa angereist, Spanier,
 Polen, Schweden, Deutsche, Italiener, Ungarn begegneten uns, verbunden durch die
@@ -71,9 +73,9 @@ mitsangen.
 Trent Reznor war extrem gut gelaunt an diesem Abend, die Technik tat ihren
 Dienst und die Location schien ihm besonders gut zu gefallen.
 
-Zitat Trent: <em>"We have a lotta shit for you!"</em>
+Zitat Trent: _"We have a lotta shit for you!"_
 
-![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1291.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
+![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1291.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
 
 Als kleine Wiedergutmachung, da wir ob der etwas klein ausgefallenen Bühne,
 nicht die komplette Lightshow geboten bekamen, spielten NINE INCH NAILS anstatt
@@ -90,7 +92,7 @@ mehr im nächsten Blogeintrag.
 
 ## Die Setlist des Abends
 
-![Nine Inch Nails ](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1277.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
+![Nine Inch Nails ](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1277.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
 
 Im Anschluss findet ihr noch die Setlist des Abends. Meine komplette
 Bildergalerie steht wie immer in meinem
@@ -106,21 +108,39 @@ Bass, Keyboards, Backing Vocals) und natürlich Trent Reznor (Gesang, Gitarre,
 Keyboards). Um hier mal alle Gerüchte diverser Musikmagazine aus der Welt zu
 schaffen. Für weitere Infos empfehle ich Euch [ninwiki](http://www.ninwiki.com).
 
-<em>Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"</em> [youtube
+_Hier sind für Euch NINE INCH NAILS mit "Me, I'm Not"_ [youtube
 http://www.youtube.com/watch?v=WaaaFNYgbGQ]
 
-<em>... und hier mit "Closer"</em>
+_... und hier mit "Closer"_
 
 [youtube http://www.youtube.com/watch?v=Tx1MJNX-v74]
 
-Kussi <em>Anne</em>## Setlist NINE INCH NAILS Zitadelle Spandau 15. Juli
-2014<ol><li>Me, I'm Not</li><li>Sanctified</li><li>The Beginning Of The
-End</li><li>March Of The Pigs</li><li>Piggy</li><li>All Time
-Low</li><li>Disappointed</li><li>The Becoming</li><li>Came Back
-Haunted</li><li>Find My Way</li><li>Various Methods Of
-Escape</li><li>Survivalism</li><li>The Warning</li><li>Copy Of A</li><li>The
-Great Destroyer</li><li>Hand Covers Bruise</li><li>Beside You In
-Time</li><li>Wish</li><li>The Hand That Feeds</li><li>Head Like A
-Hole</li><li>Closer</li><li>The Day The World Went Away</li><li>Hurt</li></ol>
+Kussi _Anne_ ## Setlist NINE INCH NAILS Zitadelle Spandau 15. Juli 20141. Me,
+I'm Not
+
+1.  Sanctified
+1.  The Beginning Of The End
+1.  March Of The Pigs
+1.  Piggy
+1.  All Time Low
+1.  Disappointed
+1.  The Becoming
+1.  Came Back Haunted
+1.  Find My Way
+1.  Various Methods Of Escape
+1.  Survivalism
+1.  The Warning
+1.  Copy Of A
+1.  The Great Destroyer
+1.  Hand Covers Bruise
+1.  Beside You In Time
+1.  Wish
+1.  The Hand That Feeds
+1.  Head Like A Hole
+1.  Closer
+1.  The Day The World Went Away
+1.  Hurt
 
 &nbsp;
+
+  

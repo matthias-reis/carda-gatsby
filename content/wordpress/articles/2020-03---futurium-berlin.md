@@ -4,12 +4,10 @@ seoTitle: Futurium Berlin - das Haus der Zukünfte
 slug: futurium-berlin
 link: /2020/03/futurium-berlin/
 fileName: 2020-03---futurium-berlin.md
-description:
-  Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des
-  interaktiven Museums zeigen verschiedene Zukünfte.
-excerpt:
-  Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des
-  interaktiven Museums zeigen verschiedene Zukünfte.
+description: Vor Kurzem haben wir in Berlin das Futurium besucht. Die
+  Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.
+excerpt: Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen
+  des interaktiven Museums zeigen verschiedene Zukünfte.
 focusKeyword: Futurium
 labels:
   - Ausflug
@@ -29,11 +27,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28655"
+image: /img/demo.jpg
+errors: []
 subTitle: Das Haus der Zukünfte
+  
 ---
 
-<strong>Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen
-des interaktiven Museums zeigen verschiedene Zukünfte.</strong>
+**Vor Kurzem haben wir in Berlin das Futurium besucht. Die Ausstellungen des
+interaktiven Museums zeigen verschiedene Zukünfte.**
 
 Alles im Futurium beschäftigt sich mit der Frage, wie wir uns unser Leben in der
 Zukunft vorstellen. Neben dem Museumsbereich gibt es auch ein Labor, indem
@@ -62,7 +63,9 @@ Der Eintritt ist frei und das Museum ist montags, mittwochs, freitags, samstags
 und sonntags von 10:00 Uhr bis 18:00 Uhr sowie donnerstags von 10:00 Uhr bis
 20:00 Uhr geöffnet.
 
-<strong>Hinweis:</strong> Durch die derzeitige Corona-Krise ist das Futurium bis
-auf Weiteres geschlossen.
+**Hinweis:** Durch die derzeitige Corona-Krise ist das Futurium bis auf Weiteres
+geschlossen.
 
 [glry name="futurium"]
+
+  

@@ -4,13 +4,12 @@ seoTitle: Game Of Flowers - Blumen und Schwerter an der Trelleborg
 slug: trelleborg
 link: /2018/08/trelleborg/
 fileName: 2018-08---game-of-flowers.md
-description:
-  Bei unserem Besuch der Schwedischen Trelleborg im Juni war das komplette
-  Gelände von blühenden Wildblumen übersät. Zeit für Fotos und etwas Geschichte.
-excerpt:
-  Bei unserem Besuch der Schwedischen Wikingerburg Trelleborg im Juni war das
-  komplette Gelände von blühenden Wildblumen übersät. Zeit für ein paar Fotos,
-  ein Gedicht und einen Ausflug in die Skandinavische Geschichte.
+description: Bei unserem Besuch der Schwedischen Trelleborg im Juni war das
+  komplette Gelände von blühenden Wildblumen übersät. Zeit für Fotos und etwas
+  Geschichte.
+excerpt: Bei unserem Besuch der Schwedischen Wikingerburg Trelleborg im Juni war
+  das komplette Gelände von blühenden Wildblumen übersät. Zeit für ein paar
+  Fotos, ein Gedicht und einen Ausflug in die Skandinavische Geschichte.
 focusKeyword: Trelleborg
 labels:
   - Dänemark
@@ -35,12 +34,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21584"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (22:57)"
 subTitle: Blumen und Schwerter an der Trelleborg
+  
 ---
 
-<strong>Bei unserem Besuch der Schwedischen Trelleborg im Juni war das komplette
+## unknown: Expected corresponding JSX closing tag for <p> (22:57)
+
+<!--
+**Bei unserem Besuch der Schwedischen Trelleborg im Juni war das komplette
 Gelände von blühenden Wildblumen übersät. Zeit für ein paar Bilder, ein Gedicht
-und einen kleinen Ausflug in die Geschichte.</strong>
+und einen kleinen Ausflug in die Geschichte.**
 
 <blockquote>
 ## Die Wikinger
@@ -106,3 +113,7 @@ logisch klingt. Schließlich wurde die kreisförmige Wallanlage damit in der fü
 ihre Zeit typischen Stabbautechnik errichtet.
 
 [myflickr tag="annetrelleborgburg201806"]
+
+-->
+
+  

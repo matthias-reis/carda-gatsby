@@ -1,16 +1,15 @@
 ---
 title: "urgewald informiert: Alternative Banken"
-seoTitle:
-  Alternative Banken - urgewald informiert - Diese Banken machen es anders
+seoTitle: Alternative Banken - urgewald informiert - Diese Banken machen es anders
 slug: alternative-banken-urgewald-informiert
 link: /2017/04/alternative-banken-urgewald-informiert/
 fileName: 2017-04---urgewald-informiert-alternative-banken.md
-description:
-  Heute möchte ich wie versprochen ein paar alternative Banken vorstellen. Diese
-  vier Banken machen es anders. Sie stecken das Geld in nachhaltige Projekte.
-excerpt:
-  Heute möchte ich wie versprochen ein paar alternative Banken vorstellen. Diese
-  vier Banken machen es anders. Sie stecken das Geld in nachhaltige Projekte.
+description: Heute möchte ich wie versprochen ein paar alternative Banken
+  vorstellen. Diese vier Banken machen es anders. Sie stecken das Geld in
+  nachhaltige Projekte.
+excerpt: Heute möchte ich wie versprochen ein paar alternative Banken
+  vorstellen. Diese vier Banken machen es anders. Sie stecken das Geld in
+  nachhaltige Projekte.
 focusKeyword: Alternative Banken
 labels:
   - Banken
@@ -33,12 +32,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16352"
+image: /img/demo.jpg
+errors: []
 subTitle: Teil 2/2 Diese Banken machen es anders
+  
 ---
 
 ![Alternative Banken](http://cardamonchai.com/wp-content/uploads/2017/04/11156640815_011f38a715_z.jpg)
 
-<strong>
+**Wie gestern in [Teil 1](/2017/04/urgewald/) meines Artikels bereits
+angekündigt, möchte ich Euch heute ein paar alternative Banken vorstellen. Meine
+Informationen habe ich aus der gestern vorgestellten Broschüre "Was macht
+eigentlich mein Geld?" sowie von den Infoseiten der verschiedenen Banken.**
 
 Alternativbanken arbeiten, anders als gängige Banken, nicht mit der
 Rüstungsindustrie, Kohle-Konzernen oder Pharma-Riesen zusammen. Sie haben klare
@@ -52,7 +57,7 @@ Die Transparenz steht bei alternativen Banken ganz klar an erster Stelle. Man
 kann jederzeit in Erfahrung bringen, wofür die Bank Geld ausgibt und selbst
 entscheiden, in was man selbst investieren möchte.
 
-<em>urgewald</em> stellt in der Broschüre "Was macht eigentlich mein Geld?" die
+_urgewald_ stellt in der Broschüre "Was macht eigentlich mein Geld?" die
 verschiedensten alternativen Banken vor. Besonders empfohlen werden dabei vier
 von ihnen. Diese möchte ich heute gerne vorstellen.
 
@@ -60,155 +65,164 @@ von ihnen. Diese möchte ich heute gerne vorstellen.
 
 ![Alternative Banken | full](http://cardamonchai.com/wp-content/uploads/2017/04/Umwelt-Bank.jpg)
 
-ist eine an der Börse notierte Aktiengesellschaft. Auch wenn ihr Geschäft das
-Geld ist, ist sie anders, als andere Banken. In ihrer Satzung ist verankert,
-dass es um klares Wasser, reine Luft und eine gesunde Umwelt geht.
+Die _UmweltBank_ ist eine an der Börse notierte Aktiengesellschaft. Auch wenn
+ihr Geschäft das Geld ist, ist sie anders, als andere Banken. In ihrer Satzung
+ist verankert, dass es um klares Wasser, reine Luft und eine gesunde Umwelt
+geht.
 
-Die <em>UmweltBank</em> wächst und wächst. Dabei stellt sie selbst herkömmliche
-Banken in den Schatten. Zwei Gremien aus externen Experten sorgen mit
-regelmäßigen Kontrollen dafür, dass sie ihrem Anspruch, ein ökologisch
-nachhaltiges Geldinstitut zu sein, gerecht wird.
+Die _UmweltBank_ wächst und wächst. Dabei stellt sie selbst herkömmliche Banken
+in den Schatten. Zwei Gremien aus externen Experten sorgen mit regelmäßigen
+Kontrollen dafür, dass sie ihrem Anspruch, ein ökologisch nachhaltiges
+Geldinstitut zu sein, gerecht wird.
 
-Für alle finanzierten Projekte errechnet die <em>UmweltBank</em> genau, in
-welchem Umfang sie das Klima schonen, indem sie weniger Treibhausgase
-freisetzen. Die Klimabilanz ist dann in jedem Geschäftsbericht zu finden. Im
-Jahr 2012 betrug die CO<sub>2</sub>-Ersparnis der Bank beispielsweise 2,2
-Millionen Tonnen. Die Kunden sollen das, was die Bank damit spart, bei den
-Konditionen der verschiedenen Angebote zurückbekommen.
+Für alle finanzierten Projekte errechnet die _UmweltBank_ genau, in welchem
+Umfang sie das Klima schonen, indem sie weniger Treibhausgase freisetzen. Die
+Klimabilanz ist dann in jedem Geschäftsbericht zu finden. Im Jahr 2012 betrug
+die CO<sub>2</sub>-Ersparnis der Bank beispielsweise 2,2 Millionen Tonnen. Die
+Kunden sollen das, was die Bank damit spart, bei den Konditionen der
+verschiedenen Angebote zurückbekommen.
 
-Ihren Sitz hat die <em>UmweltBank</em> in Nürnberg. Filialen gibt es in Hamburg,
+Ihren Sitz hat die _UmweltBank_ in Nürnberg. Filialen gibt es in Hamburg,
 Berlin, Frankfurt/Main, Freiburg, München und Stuttgart.
 
-<em>urgewald</em> zitiert Hedwig Tarner, Geografin und Regionalpolitikerin
+_urgewald_ zitiert Hedwig Tarner, Geografin und Regionalpolitikerin
 
-<blockquote>15 Jahre ohne Zweifel, Schwierigkeiten und Sorgen. Ich bin bereits 1999 Kundin bei der <em>UmweltBank</em> geworden. Ich war es leid, mir immer wieder neu die Frage zu stellen, ob mein Geld sicher angelegt ist und nicht für Schlimmes genutzt wird.</blockquote>
+> 15 Jahre ohne Zweifel, Schwierigkeiten und Sorgen. Ich bin bereits 1999 Kundin
+> bei der _UmweltBank_ geworden. Ich war es leid, mir immer wieder neu die Frage
+> zu stellen, ob mein Geld sicher angelegt ist und nicht für Schlimmes genutzt
+> wird.
 
 ### Vorteile
 
-<ul>
-    <li>Transparenz</li>
-    <li>Gute Konditionen</li>
-    <li>Externes Gremium als nachhaltiger Anlagebeirat (Das ist bei den anderen drei vorgestellten Banken intern)</li>
-</ul>
+- Transparenz
+- Gute Konditionen
+- Externes Gremium als nachhaltiger Anlagebeirat (Das ist bei den anderen drei
+  vorgestellten Banken intern)
 
 ### Nachteile
 
-<ul>
-    <li>Kein Giro-Konto möglich</li>
-</ul>
+- Kein Giro-Konto möglich
 
 ## Ethik Bank
 
 ![Alternative Banken | full](http://cardamonchai.com/wp-content/uploads/2017/04/Ethik-Bank.jpg)
 
+Ganz oben auf der Agenda der _Ethik Bank_ steht, dass weder in Rüstung noch in
+Atomkraft investiert wird. Es werden außerdem keine Kredite an Unternehmen
+vergeben, die
+[Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
 für Kosmetika durchführen lassen, oder Kinderarbeit billigen.
 
-Gegründet wurde die <em>Ethik Bank</em> als eine Tochter der <em>Volksbank
-Eisenberg eG</em>. Auf der Internetseite der Bank erhält man einen genauen
-Überblick über die Wertpapiere, in welche die Einlagen der Kunden gesteckt
-werden. Transparenz ist besonders wichtig, die <em>Ethik Bank</em> bezeichnet
-sich daher als gläserne Bank.
+Gegründet wurde die _Ethik Bank_ als eine Tochter der _Volksbank Eisenberg eG_ .
+Auf der Internetseite der Bank erhält man einen genauen Überblick über die
+Wertpapiere, in welche die Einlagen der Kunden gesteckt werden. Transparenz ist
+besonders wichtig, die _Ethik Bank_ bezeichnet sich daher als gläserne Bank.
 
-Die <em>Ethik Bank</em> sitzt noch heute in Eisenberg. Sie versteht sich als
-Direktbank und hat daher keine Filialen. Ob dies wirklich als Nachteil zu werten
-ist, muss jeder für sich entscheiden. Heutzutage lassen sich die meisten Dinge
-online erledigen und der Gang zur Bank ist nicht mehr zwingend notwendig.
+Die _Ethik Bank_ sitzt noch heute in Eisenberg. Sie versteht sich als Direktbank
+und hat daher keine Filialen. Ob dies wirklich als Nachteil zu werten ist, muss
+jeder für sich entscheiden. Heutzutage lassen sich die meisten Dinge online
+erledigen und der Gang zur Bank ist nicht mehr zwingend notwendig.
 
-<em>urgewald</em> zitiert dazu in der Broschüre Ester Yücel, Studentin
+_urgewald_ zitiert dazu in der Broschüre Ester Yücel, Studentin
 
-<blockquote>Mit dem Studium kam für mich die Frage: Welcher Bank vertraue ich mein Geld an? Für mich war klar, es muss eine Bank sein, die nicht in Waffenhandel, Atomkraftwerken und Kinderarbeit investiert, sondern mit dem Geld soziale und ökologische Schwerpunkte vertritt. Ich bin Kundin bei der <em>Ethik Bank</em> geworden, weil mir die Förderprojekte gut gefallen...</blockquote>
+> Mit dem Studium kam für mich die Frage: Welcher Bank vertraue ich mein Geld
+> an? Für mich war klar, es muss eine Bank sein, die nicht in Waffenhandel,
+> Atomkraftwerken und Kinderarbeit investiert, sondern mit dem Geld soziale und
+> ökologische Schwerpunkte vertritt. Ich bin Kundin bei der _Ethik Bank_
+> geworden, weil mir die Förderprojekte gut gefallen...
 
 ### Vorteile
 
-<ul>
-    <li>Kontowechselservice</li>
-    <li>Kostenfrei Geld abheben an 19.000 Geldautomaten (Nutzt das Automatennetz der Volksbanken/Raiffeisenbanken)</li>
-    <li>Bargeldeinzahlung über die Filialen der Reisebank möglich</li>
-</ul>
+- Kontowechselservice
+- Kostenfrei Geld abheben an 19.000 Geldautomaten (Nutzt das Automatennetz der
+  Volksbanken/Raiffeisenbanken)
+- Bargeldeinzahlung über die Filialen der Reisebank möglich
 
 ### Nachteile
 
-<ul>
-    <li>Direktbank</li>
-    <li>EC-Karte kostet ab 1. Juli 2017 15 Euro pro Jahr</li>
-    <li>Anfall von Kosten beim Geldabheben im Ausland (2 Prozent vom Umsatz, mindestens 2,50 Euro)</li>
-    <li>5 Euro Kontoführungsgebühren im Monat</li>
-</ul>
+- Direktbank
+- EC-Karte kostet ab 1. Juli 2017 15 Euro pro Jahr
+- Anfall von Kosten beim Geldabheben im Ausland (2 Prozent vom Umsatz,
+  mindestens 2,50 Euro)
+- 5 Euro Kontoführungsgebühren im Monat
 
 ## Triodos Bank
 
 ![Alternative Banken](http://cardamonchai.com/wp-content/uploads/2017/04/Triodos-Bank.png)
 
+Mensch, Umwelt und Wirtschaft. Das sind die drei Wege, welche die _Triodos Bank_
 (Tri hodos = Griechisch "drei Wege") geht.
 
 Finanziert werden nachhaltige Projekte und Institutionen, die dem Wohl von
-Mensch und Umwelt dienen. Die <em>Triodos Stiftung</em> wurde bereits 1971 in
-den Niederlanden gegründet. Ein Jahr später eröffnete die Bank im holländischen
+Mensch und Umwelt dienen. Die _Triodos Stiftung_ wurde bereits 1971 in den
+Niederlanden gegründet. Ein Jahr später eröffnete die Bank im holländischen
 Zeist. Bereits in den 90er Jahren wurde erfolgreich in erneuerbare Energien
 finanziert. Es folgten Niederlassungen in Belgien, England und Spanien. Im Jahr
 2004 wurde ein nachhaltiger Immobilien-Fonds gegründet.
 
-In Deutschland war die <em>Triodos Bank</em> zunächst nur im Bereich
-Kreditvermittlung tätig. Seit 2009 agiert sie auch in Deutschland als Bank.
-Insgesamt zählt sie inzwischen mehr als eine halbe Million Kunden weltweit.
-Somit ist sie die größte Nachhaltigkeitsbank überhaupt.
+In Deutschland war die _Triodos Bank_ zunächst nur im Bereich Kreditvermittlung
+tätig. Seit 2009 agiert sie auch in Deutschland als Bank. Insgesamt zählt sie
+inzwischen mehr als eine halbe Million Kunden weltweit. Somit ist sie die größte
+Nachhaltigkeitsbank überhaupt.
 
-Die <em>Triodos Bank</em> hat ihren Sitz in der Bankenstadt Frankfurt. Auch sie
+Die _Triodos Bank_ hat ihren Sitz in der Bankenstadt Frankfurt. Auch sie
 versteht sich als Direktbank und hat keine Filialen.
 
-<em>urgewald</em> zitiert hier Ludger Kotulla, Technischer Redakteur und
-Feuerwehrmann
+_urgewald_ zitiert hier Ludger Kotulla, Technischer Redakteur und Feuerwehrmann
 
-<blockquote>Auf die <em>Triodos Bank</em> bin ich aufmerksam geworden, als ich eine Rechnung angewiesen habe. Eigentlich freue ich mich immer, wenn ich dort anrufen "muss". Es ist ein Bisschen wie in einer Familie. Mich begeistert der "Service aus einer Hand".</blockquote>
+> Auf die _Triodos Bank_ bin ich aufmerksam geworden, als ich eine Rechnung
+> angewiesen habe. Eigentlich freue ich mich immer, wenn ich dort anrufen
+> "muss". Es ist ein Bisschen wie in einer Familie. Mich begeistert der "Service
+> aus einer Hand".
 
 ### Vorteile
 
-<ul>
-    <li>Internationale Firmengeschichte</li>
-    <li>Girokonto möglich</li>
-    <li>Weltweit kann mit der <em>Triodos</em>-Mastercard an allen Geldautomaten kostenfrei Geld abgehoben werden.</li>
-</ul>
+- Internationale Firmengeschichte
+- Girokonto möglich
+- Weltweit kann mit der _Triodos_ -Mastercard an allen Geldautomaten kostenfrei
+  Geld abgehoben werden.
 
 ### Nachteile
 
-<ul>
-    <li>Direktbank</li>
-    <li>Kein Festgeldkonto möglich</li>
-    <li>Monatlich 3,50 Euro Kontoführungsgebühren</li>
-    <li>25 Euro Kreditkartengebühr/Jahr</li>
-    <li>15 Euro EC-Kartengebühr/Jahr</li>
-</ul>
+- Direktbank
+- Kein Festgeldkonto möglich
+- Monatlich 3,50 Euro Kontoführungsgebühren
+- 25 Euro Kreditkartengebühr/Jahr
+- 15 Euro EC-Kartengebühr/Jahr
 
 ## GLS Bank
 
 ![Alternative Banken | full](http://cardamonchai.com/wp-content/uploads/2017/04/gls-bank.jpg)
 
-steht für "Gemeinschaft für Leihen und Schenken" Sie ist genossenschaftlich
-organisiert, womit viele der Kunden auch zu Eigentümer der Bank werden.
+Das Motto der _GLS Bank_ ist "Geld ist für die Menschen da". Sie versteht sich
+als Universalbank und möchte alle Geschäfte von Anfang bis Ende so nachhaltig
+wie möglich ausrichten. _GLS_ steht für "Gemeinschaft für Leihen und Schenken"
+Sie ist genossenschaftlich organisiert, womit viele der Kunden auch zu
+Eigentümer der Bank werden.
 
 Sie wurde im Jahr 1974 gegründet und zählt inzwischen mehr als 30.000
-Mitglieder. Im Jahr werden von der <em>GLS Bank</em> rund 20.000 nachhaltige
-Projekte finanziert. Im Fokus stehen dabei durchschaubare, sinnvolle Geschäfte.
+Mitglieder. Im Jahr werden von der _GLS Bank_ rund 20.000 nachhaltige Projekte
+finanziert. Im Fokus stehen dabei durchschaubare, sinnvolle Geschäfte.
 
-<em>urgewald</em> zitiert Olaf Schettler, Mediengestalter
+_urgewald_ zitiert Olaf Schettler, Mediengestalter
 
-<blockquote>Bevor wir zur <em>GLS Bank</em> gewechselt sind, waren wir Kunden bei einer großen "normalen" Bank. Doch wurde uns im Laufe der letzten Jahre durch Medienberichte und diverse Bankenskandale klar: Das lässt sich nicht mit unseren ethischen Überzeugungen vereinbaren.</blockquote>
+> Bevor wir zur _GLS Bank_ gewechselt sind, waren wir Kunden bei einer großen
+> "normalen" Bank. Doch wurde uns im Laufe der letzten Jahre durch
+> Medienberichte und diverse Bankenskandale klar: Das lässt sich nicht mit
+> unseren ethischen Überzeugungen vereinbaren.
 
 ### Vorteile
 
-<ul>
-    <li>Kostenlos Geld abheben an allen Automaten der Volks- und Raiffeisenbanken sowie Sparkassen (Bis auf die <em>Sylter Volksbank</em>)</li>
-    <li>Kostenlos mit der Mastercard Geld abheben innerhalb der EU</li>
-    <li>Filialen in allen großen Städten</li>
-</ul>
+- Kostenlos Geld abheben an allen Automaten der Volks- und Raiffeisenbanken
+  sowie Sparkassen (Bis auf die  _Sylter Volksbank_ )
+- Kostenlos mit der Mastercard Geld abheben innerhalb der EU
+- Filialen in allen großen Städten
 
 ### Nachteile
 
-<ul>
-    <li>3,80 Kontoführungsgebühren</li>
-    <li>30 Euro Kreditkartengebühr/Jahr</li>
-    <li>15 Euro EC-Kartengebühr/Jahr</li>
-</ul>
+- 3,80 Kontoführungsgebühren
+- 30 Euro Kreditkartengebühr/Jahr
+- 15 Euro EC-Kartengebühr/Jahr
 
 ## Alternative Banken sind auf dem Vormarsch
 
@@ -229,10 +243,13 @@ und Umweltzerstörung. Alternative Banken können uns dabei helfen.
 ## Hinweis
 
 Die von mir erwähnte Broschüre „Was macht eigentlich mein Geld“ kann
-[auf der Homepage](http://www.urgewald.de/) von
-<em>urgewald</em> bestellt werden.
+[auf der Homepage](http://www.urgewald.de/) von _urgewald_  bestellt werden.
 
-<em>Die Logos und EC-Karten-Fotos habe ich von den jeweiligen Banken. Das Foto
-von den Windrädern habe ich am
-[Pinakothek der Moderne](/2015/08/schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning/).
- Der Roboterhund begegnete mir Deutschen Museum.</em>
+_Die Logos und EC-Karten-Fotos habe ich von den jeweiligen Banken. Das Foto von
+den Windrädern habe ich am
+[Eidersperrwerk](/2015/08/schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning/)
+aufgenommen, das von der Kasse in der
+[Pinakothek der Moderne](/2012/02/perspektiven-pinakothek-der-moderne/).  Der
+Roboterhund begegnete mir Deutschen Museum._
+
+  

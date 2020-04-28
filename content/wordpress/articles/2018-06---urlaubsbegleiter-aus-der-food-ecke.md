@@ -4,11 +4,10 @@ seoTitle: Konjak-Nudeln von Vitanu - Urlaubsbegleiter aus der Food-Ecke
 slug: urlaubsbegleiter-aus-der-food-ecke
 link: /2018/06/urlaubsbegleiter-aus-der-food-ecke/
 fileName: 2018-06---urlaubsbegleiter-aus-der-food-ecke.md
-description:
-  Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch Konjak-Nudeln. Sie
-  lassen sich ganz leicht zubereiten und passen so gut wie zu allem.
-excerpt:
-  Werbung - Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch
+description: Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch
+  Konjak-Nudeln. Sie lassen sich ganz leicht zubereiten und passen so gut wie zu
+  allem.
+excerpt: Werbung - Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch
   Konjak-Nudeln. Sie lassen sich ganz leicht zubereiten und passen so gut wie zu
   allem.
 focusKeyword: Konjak-Nudeln
@@ -30,14 +29,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21295"
+image: /img/demo.jpg
+errors: []
 subTitle: Konjak-Nudeln von Vitanu
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Wir fahren in Kürze in den Urlaub. Wir mieten ein Auto und fahren los.
-Wo genau es hingehen wird, verrate ich Euch später, was ich mitnehme, erfahrt
-Ihr schon heute.</strong>
+**Wir fahren in Kürze in den Urlaub. Wir mieten ein Auto und fahren los. Wo
+genau es hingehen wird, verrate ich Euch später, was ich mitnehme, erfahrt Ihr
+schon heute.**
 
 Gestern habe ich Euch zwei besondere
 [Urlaubsbegleiter aus der Beauty-Ecke](/2018/06/mit-santaverde-auf-reisen/)
@@ -65,13 +67,11 @@ dazu und gut ist.
 
 Auf der Packung steht
 
-<ul>
-    <li>Kalorienarm</li>
-    <li>Fettfrei</li>
-    <li>Zuckerfrei</li>
-    <li>Glutenfrei</li>
-    <li>Ballaststoffquelle</li>
-</ul>
+- Kalorienarm
+- Fettfrei
+- Zuckerfrei
+- Glutenfrei
+- Ballaststoffquelle
 
 Gesund sind die Dinger also auch noch. Außerdem sind sie vegan, und bio. Pro
 Beutel bekommt man eine Portion von 200 Gramm auf den Teller. Das ist auch
@@ -146,6 +146,8 @@ spannend!
 Wer die Nudeln von Vitanu auch mal testen möchte, kann sie
 [hier bestellen](https://www.vitanu.de/webshop?product=bio-konjak-nudeln).
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

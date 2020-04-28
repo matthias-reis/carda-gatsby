@@ -4,12 +4,12 @@ seoTitle: Mein neuer Newsletter - jetzt anmelden
 slug: mein-neuer-newsletter
 link: /2018/02/mein-neuer-newsletter/
 fileName: 2018-02---mein-neuer-newsletter.md
-description:
-  Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen Design!
-  Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!
-excerpt:
-  Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen Design!
-  Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!
+description: Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen
+  Design! Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr
+  verpasst!
+excerpt: Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen
+  Design! Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr
+  verpasst!
 focusKeyword: Newsletter
 labels:
   - Blog
@@ -24,18 +24,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19714"
+image: /img/demo.jpg
+errors: []
 subTitle: Ab jetzt verpasst Ihr nichts mehr!
+  
 ---
 
-<strong>Es ist soweit! Mein Newsletter erstrahlt nun endlich im persönlichen
-Design meines Blogs! Ich bin schon sehr gespannt, was Ihr dazu sagt. Meldet Euch
-am besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!</strong>
+**Es ist soweit! Mein Newsletter erstrahlt nun endlich im persönlichen Design
+meines Blogs! Ich bin schon sehr gespannt, was Ihr dazu sagt. Meldet Euch am
+besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!**
 
 ![Newsletter](http://cardamonchai.com/wp-content/uploads/2018/02/newsletter-cut-2.jpg)
 
-<a href="https://cardamonchai.us17.list-manage.com/subscribe/post?u=56cabb4dfeee2ca03948f964f&amp;id=3f01062ef5">Ihr
-findet den Anmelde-Button direkt auf der Startseite (rechts unter meinem Foto).
-Noch schneller geht es, wenn Ihr hier Eure E-Mail-Adresse eintragt:
+[](https://cardamonchai.us17.list-manage.com/subscribe/post?u=56cabb4dfeee2ca03948f964f&id=3f01062ef5)
+Ihr findet den Anmelde-Button direkt auf der Startseite (rechts unter meinem
+Foto). Noch schneller geht es, wenn Ihr hier Eure E-Mail-Adresse eintragt:
 
 [shownewsletter]
 
@@ -66,3 +69,5 @@ Ich wünsche Euch viel Spaß bei Stöbern und heiße Euch herzlich willkommen.
 
 <small>Titelbild: [Die Elchin](https://pixabay.com/de/users/DieElchin-712186/)
 /Pixabay</small>
+
+  

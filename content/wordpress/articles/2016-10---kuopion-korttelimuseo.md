@@ -4,14 +4,12 @@ seoTitle: Korttelimuseo Kuopio - Finnische Kultur am Regentag
 slug: kuopion-korttelimuseo
 link: /2016/10/kuopion-korttelimuseo/
 fileName: 2016-10---kuopion-korttelimuseo.md
-description:
-  Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus einen
-  Tagesausflug nach Kuopio und statteten dem Kuopion Korttelimuseo einen Besuch
-  ab.
-excerpt:
-  Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus einen
-  Tagesausflug nach Kuopio. Um dem Regen ein Bisschen zu entkommen, statteten
-  wir dem Kuopion Korttelimuseo einen Besuch ab.
+description: Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus
+  einen Tagesausflug nach Kuopio und statteten dem Kuopion Korttelimuseo einen
+  Besuch ab.
+excerpt: Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus
+  einen Tagesausflug nach Kuopio. Um dem Regen ein Bisschen zu entkommen,
+  statteten wir dem Kuopion Korttelimuseo einen Besuch ab.
 focusKeyword: Kuopio
 labels:
   - Finnland
@@ -27,12 +25,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15276"
+image: /img/demo.jpg
+errors: []
 subTitle: Finnische Kultur am Regentag
+  
 ---
 
-<strong>Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus einen
+**Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus einen
 Tagesausflug nach Kuopio. Um dem Regen ein Bisschen zu entkommen, statteten wir
-dem Kuopion Korttelimuseo einen Besuch ab.</strong>
+dem Kuopion Korttelimuseo einen Besuch ab.**
 
 Gezeigt werden im Museum Alltagsgegenstände aus verschiedenen Jahrzehnten. Alles
 ist natürlich typisch finnisch. Dabei läuft man durch ein kleines Dorf und sieht
@@ -55,10 +56,10 @@ aus man die malerische finnische Seenplatte bewundern kann, zu sehen.
 
 ## Wegweiser Finnland 2016
 
-<ol>
-    <li> [Sommer auf der Ostsee - Überfahrt nach Finnland](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) </li>
-    <li> [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/) </li>
-    <li> [Seevögel - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/) </li>
-    <li> [Gänse - Weißwangengänse - Gefiederte Finnland-Einwanderer](/2016/08/gaense-helsinki/) </li>
-    <li>Kuopio - Korttelimuseo</li>
-</ol>
+1.  [Sommer auf der Ostsee - Überfahrt nach Finnland](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
+1.  [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/)
+1.  [Seevögel - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/)
+1.  [Gänse - Weißwangengänse - Gefiederte Finnland-Einwanderer](/2016/08/gaense-helsinki/)
+1.  Kuopio - Korttelimuseo
+
+  

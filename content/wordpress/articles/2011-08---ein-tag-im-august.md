@@ -4,12 +4,10 @@ seoTitle: Ein Tag im August - kurzer Tagebucheintrag
 slug: ein-tag-im-august
 link: /2011/08/ein-tag-im-august/
 fileName: 2011-08---ein-tag-im-august.md
-description:
-  Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig unsinnigen
-  Werbeslogan, bei dem ich immer an Krankheiten denken muss.
-excerpt:
-  Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig unsinnigen
-  Werbeslogan, bei dem ich immer an Krankheiten denken muss.
+description: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig
+  unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
+excerpt: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig
+  unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
 focusKeyword: ""
 labels:
   - Aufzug
@@ -46,7 +44,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2269"
+image: /img/demo.jpg
+errors: []
 subTitle: Auf dem Weg ins Büro
+  
 ---
 
 Erste Ampel: Neben mir: Mercedes. Baujahr 1976, Fahrer Baujahr 1978. Zieht an
@@ -130,28 +131,27 @@ Gispert zu Knyphausen - Sommertag
 
 [youtube=http://www.youtube.com/watch?v=py7PhN9be9w]
 
-<em> Eins, zwo, drei vier</em><em>Manchmal glaube ich, dass ich zu langsam
-bin</em><em>für all' die Dinge, die um mich herum geschehen.</em><em>Doch all'
-die Menschen, die ich wirklich, wirklich gerne mag,</em><em>sie sind genauso
-außer Atem wie ich.</em><em>Und manchmal glaube ich, dass nichts mehr wichtig
-ist.</em><em>Ich treibe ziellos bis zum Tag, an dem ich sterbe,
-jaja.</em><em>Doch gerade dann, wenn ich dann wirklich nicht mehr weiter
-will,</em><em>liegt mein gepflegter Pessimismus in Scherben.</em><em>Und alles,
-was mir dann noch übrig bleibt:</em><em>Ein bisschen Zweisamkeit als
-Zeitvertreib.</em><em>Das bisschen Herzschmerz, das bisschen
-Herzschmerz</em><em>tut doch gar nicht so weh.</em><em>Den ganzen Unsinn werd'
-ich nie verstehen.</em><em>Da hilft nur Einatmen und Vorwärtsgehen.</em><em>Es
-ist ganz einfach, es ist ganz einfach:</em><em>Das Leben lebt, es ist ein
-wunderschöner Sommertag.</em><em>Und manchmal glaube ich, dass ich zu müde
-bin.</em><em>Aus meinem Sessel komm ich nie mehr wieder hoch,</em><em>doch wenn
-es klingelt, bin ich rasend schnell am Telefon,</em><em>es kann doch sein, dass
-mich irgendwer braucht.</em><em>Und manchmal glaube ich, dass ich zu leise
-bin.</em><em>Dann schrei' ich lauthals meine Lieder in den Wind.</em><em>Doch
-viel, viel lauter noch sind die, die nix zu sagen haben.</em><em>Und wenn das
-stimmt, dann halt' ich lieber mein Maul.</em><em>Und alles, was mir dann noch
-übrig bleibt:</em><em>Ein bisschen Zweisamkeit als Zeitvertreib.</em><em>Das
-bisschen Herzschmerz, das bisschen Herzschmerz</em><em>tut doch ga nicht so
-weh.</em><em>Den ganzen Unsinn werd' ich nie verstehen.</em><em>Da hilft nur
-Einatmen und Vorwärtsgehen.</em><em>Es ist ganz einfach, es ist ganz
-einfach:</em><em>Das Leben lebt, es ist ein wunderschöner Sommertag.</em><em>Ein
-Sommertag, ein Sommertag, ein Sommertag.</em>
+_Eins, zwo, drei vier_ _Manchmal glaube ich, dass ich zu langsam bin_ _für all'
+die Dinge, die um mich herum geschehen._ _Doch all' die Menschen, die ich
+wirklich, wirklich gerne mag,_ _sie sind genauso außer Atem wie ich._ _Und
+manchmal glaube ich, dass nichts mehr wichtig ist._ _Ich treibe ziellos bis zum
+Tag, an dem ich sterbe, jaja._ _Doch gerade dann, wenn ich dann wirklich nicht
+mehr weiter will,_ _liegt mein gepflegter Pessimismus in Scherben._ _Und alles,
+was mir dann noch übrig bleibt:_ _Ein bisschen Zweisamkeit als Zeitvertreib._
+_Das bisschen Herzschmerz, das bisschen Herzschmerz_ _tut doch gar nicht so
+weh._ _Den ganzen Unsinn werd' ich nie verstehen._ _Da hilft nur Einatmen und
+Vorwärtsgehen._ _Es ist ganz einfach, es ist ganz einfach:_ _Das Leben lebt, es
+ist ein wunderschöner Sommertag._ _Und manchmal glaube ich, dass ich zu müde
+bin._ _Aus meinem Sessel komm ich nie mehr wieder hoch,_ _doch wenn es klingelt,
+bin ich rasend schnell am Telefon,_ _es kann doch sein, dass mich irgendwer
+braucht._ _Und manchmal glaube ich, dass ich zu leise bin._ _Dann schrei' ich
+lauthals meine Lieder in den Wind._ _Doch viel, viel lauter noch sind die, die
+nix zu sagen haben._ _Und wenn das stimmt, dann halt' ich lieber mein Maul._
+_Und alles, was mir dann noch übrig bleibt:_ _Ein bisschen Zweisamkeit als
+Zeitvertreib._ _Das bisschen Herzschmerz, das bisschen Herzschmerz_ _tut doch ga
+nicht so weh._ _Den ganzen Unsinn werd' ich nie verstehen._ _Da hilft nur
+Einatmen und Vorwärtsgehen._ _Es ist ganz einfach, es ist ganz einfach:_ _Das
+Leben lebt, es ist ein wunderschöner Sommertag._ _Ein Sommertag, ein Sommertag,
+ein Sommertag._
+
+  

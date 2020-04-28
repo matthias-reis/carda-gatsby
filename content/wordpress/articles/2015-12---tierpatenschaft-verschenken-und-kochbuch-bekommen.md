@@ -4,14 +4,12 @@ seoTitle: Tierpatenschaft verschenken und Kochbuch bekommen
 slug: tierpatenschaft-verschenken-und-kochbuch-bekommen
 link: /2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/
 fileName: 2015-12---tierpatenschaft-verschenken-und-kochbuch-bekommen.md
-description:
-  Beim Deutschen Tierschutzbüro hat man sich für Weihnachten was Besonderes
-  ausgedacht! Wer eine Tierpatenschaft verschenkt, bekommt ein Kochbuch
-  geschenkt!
-excerpt:
-  Beim Deutschen Tierschutzbüro hat man sich für Weihnachten was Besonderes
-  ausgedacht! Wer eine Tierpatenschaft verschenkt, bekommt ein Kochbuch
-  geschenkt!
+description: Beim Deutschen Tierschutzbüro hat man sich für Weihnachten was
+  Besonderes ausgedacht! Wer eine Tierpatenschaft verschenkt, bekommt ein
+  Kochbuch geschenkt!
+excerpt: Beim Deutschen Tierschutzbüro hat man sich für Weihnachten was
+  Besonderes ausgedacht! Wer eine Tierpatenschaft verschenkt, bekommt ein
+  Kochbuch geschenkt!
 focusKeyword: Tierpatenschaft
 labels:
   - Berlin
@@ -39,15 +37,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13337"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <li> (66:106)"
 subTitle: Ein perfektes Weihnachtsgeschenk
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <li> (66:106)
+
+<!--
 ![Denise Weber (rechts im Bild) mit ihrer Kollegin Maika Lapuschkin](http://cardamonchai.com/wp-content/uploads/2015/12/Maika-Lapuschkin-und-Denise-Weber-640x512.png "Denise Weber (rechts im Bild) mit ihrer Kollegin Maika Lapuschkin")
 
-<strong>Über XING lernte ich die Patentierbetreuerin des Deutschen
-Tierschutzbüros Denise Weber kennen. Sie stellte mir direkt ihr Projekt
-„Tierpatenschaft mit Herz" vor, von dem ich Euch heute gerne berichten
-möchte.</strong>
+**Über XING lernte ich die Patentierbetreuerin des Deutschen Tierschutzbüros
+Denise Weber kennen. Sie stellte mir direkt ihr Projekt „Tierpatenschaft mit
+Herz" vor, von dem ich Euch heute gerne berichten möchte.**
 
 Das Deutsche Tierschutzbüro setzt sich für Tiere in Not ein. Dabei werden Demos
 und Aktionen veranstaltet und auch schon mal politische Entscheidungsträger
@@ -100,14 +105,33 @@ verraten.
 
 <div style="border: solid 2px #ff66cc; padding: 30px;">## Alle Infos zur Weihnachtsaktion
 
-<ul><li>Wer in der Zeit vom 25. November bis einschließlich 23. Dezember eine Tierpatenschaft übernimmt oder eine verschenkt, erhält das vegane Kochbuch „Vegan Passion“.</li><li>Wer bis zum 20. Dezember 2015 um 18:00 eine Patenschaft abschließt oder verschenkt, bekommt die Unterlagen dazu pünktlich bis zum 24. Dezember zugesendet. Natürlich können die Unterlagen auch direkt an den/die Beschenkte/n adressiert werden.</li><li>Wer seine Patenschaft erst nach dem 20. Dezember beantragt, erhält die Urkunde in digitaler Form per Mail, diese kann dann selbst gestaltet und ausgedruckt werden.</li><li>Das Kochbuch wird direkt an den Tierpaten bzw. an den/die Beschenkende/n geschickt. Es kommt in einem Paket zusammen mit den Unterlagen für die Patenschaft, der Urkunde sowie einem Tierretterarmband.</li><li>Zur Weihnachtsaktion des Deutschen Tierschutzbüro e. V. geht es  [hier entlang](http://www.tier-patenschaft.de/weihnachten/). </li></ul></div>
+- Wer in der Zeit vom 25. November bis einschließlich 23. Dezember eine
+  Tierpatenschaft übernimmt oder eine verschenkt, erhält das vegane Kochbuch
+  „Vegan Passion“.
+- Wer bis zum 20. Dezember 2015 um 18:00 eine Patenschaft abschließt oder
+  verschenkt, bekommt die Unterlagen dazu pünktlich bis zum 24. Dezember
+  zugesendet. Natürlich können die Unterlagen auch direkt an den/die
+  Beschenkte/n adressiert werden.
+- Wer seine Patenschaft erst nach dem 20. Dezember beantragt, erhält die Urkunde
+  in digitaler Form per Mail, diese kann dann selbst gestaltet und ausgedruckt
+  werden.
+- Das Kochbuch wird direkt an den Tierpaten bzw. an den/die Beschenkende/n
+  geschickt. Es kommt in einem Paket zusammen mit den Unterlagen für die
+  Patenschaft, der Urkunde sowie einem Tierretterarmband.
+- Zur Weihnachtsaktion des Deutschen Tierschutzbüro e. V. geht es
+  [hier entlang](http://www.tier-patenschaft.de/weihnachten/).</div>
 
 Wer sich gerne weiter informieren möchte, oder sich für eine Patenschaft
-interessiert, besucht am besten die
-[folgt diesem Link](http://www.tierschutzbuero.de/).
+interessiert, besucht am besten die [Homepage](http://www.tierschutzbuero.de/)
+des Deutschen Tierschutzbüros. Wer direkt spenden möchte,
+[folgt diesem Link](http://www.tierschutzbuero.de/arbeitskreis-spenden/).
 
 [gallery type="rectangular" link="none" size="medium"
 ids="13338,13336,13335,13334,13343,13341,13340,13346,13348,13350,13351,13353"]
 
 Wer gerne mehr über die Milchindustrie und das Leid der Kühe in Erfahrung
 bringen möchte: [Hier entlang](/2014/09/pflanzenmilch-wieso-denn-blos/).
+
+-->
+
+  

@@ -4,13 +4,11 @@ seoTitle: Laufen mit den Helden meiner Jugend
 slug: laufen-mit-den-helden-meiner-jugend
 link: /2015/06/laufen-mit-den-helden-meiner-jugend/
 fileName: 2015-06---laufen-mit-den-helden-meiner-jugend.md
-description:
-  Ich bin nach mehreren Monaten Pause endlich wieder angelaufen. Und was soll
-  ich sagen? Ich fühle mich super! Laufen sollte jeder mal probieren.
-excerpt:
-  Ich bin mit DJ Hell um die Häuser gezogen. Einem plötzlichen inneren Impuls
-  folgend packte ich sein mit schweißtreibenden Beats bepacktes Album "Munich
-  Machine" auf mein iPhone und joggte los
+description: Ich bin nach mehreren Monaten Pause endlich wieder angelaufen. Und
+  was soll ich sagen? Ich fühle mich super! Laufen sollte jeder mal probieren.
+excerpt: Ich bin mit DJ Hell um die Häuser gezogen. Einem plötzlichen inneren
+  Impuls folgend packte ich sein mit schweißtreibenden Beats bepacktes Album
+  "Munich Machine" auf mein iPhone und joggte los
 focusKeyword: laufen
 labels:
   - Cool Down
@@ -35,21 +33,24 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11989"
+image: /img/demo.jpg
+errors: []
 subTitle: Feuert mich an!
+  
 ---
 
 ![Laufen mit den Lieblingsschuhen](http://cardamonchai.com/wp-content/uploads/2015/06/IMG_5369-e1434036865202-640x640.jpg "Laufen mit den Lieblingsschuhen")
 
-<strong>Nachdem sich langsam aber sicher nach und nach das Gefühl eingestellt
-hat, endlich wieder etwas tun zu müssen und ich mich körperlich nach diversen
+**Nachdem sich langsam aber sicher nach und nach das Gefühl eingestellt hat,
+endlich wieder etwas tun zu müssen und ich mich körperlich nach diversen
 nervigen [Zipperlein](/2014/11/auf-dem-weg-zur-tiefenentspannung/) nun wieder
 dazu in der Lage fühle, bin ich am Montag endlich wieder angelaufen. Und was
-soll ich sagen? Ich fühle mich gut.</strong>
+soll ich sagen? Ich fühle mich gut.**
 
 Nach dem gemütlichen Warmlaufen am Montag und einem kleinen unglaublich
-aufbauenden, genialen Motivationslauf (Storyrun [](#1) von Runtastic) am
-Dienstag tat ich heute etwas, was ich schon viel früher hätte tun sollen: Ich
-habe die Helden meiner Jugend wieder ausgepackt.
+aufbauenden, genialen Motivationslauf (Storyrun [<sup>1</sup>](#1) von
+Runtastic) am Dienstag tat ich heute etwas, was ich schon viel früher hätte tun
+sollen: Ich habe die Helden meiner Jugend wieder ausgepackt.
 
 Ich bin mit DJ Hell um die Häuser gezogen. Einem plötzlichen inneren Impuls
 folgend packte ich sein mit schweißtreibenden Beats bepacktes Album "Munich
@@ -105,6 +106,7 @@ mal ein Bisschen Faith No More in den Gehörgang.
 
 Sonnige Grüße aus Hamburg sendet Euch Anne &lt;3
 
-[1]
-<a href="http://blog.runtastic.com/de/runtastic-all-about/story-run-reise-zum-wunschgewicht/" target="_blank" rel="noopener">Storyrun
-von Runtastic </a> [](/2015/03/die-ultimative-vegane-festivalliste)
+[1][storyrun von runtastic](http://blog.runtastic.com/de/runtastic-all-about/story-run-reise-zum-wunschgewicht/)
+[Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

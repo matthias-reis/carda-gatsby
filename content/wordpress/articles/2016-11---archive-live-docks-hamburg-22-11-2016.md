@@ -4,12 +4,11 @@ seoTitle: Archive live @ Docks Hamburg - Kings Of The False Foundation Tour
 slug: archive-live-docks-hamburg
 link: /2016/11/archive-live-docks-hamburg/
 fileName: 2016-11---archive-live-docks-hamburg-22-11-2016.md
-description:
-  Archive spielten gestern Abend live im Docks auf der Reeperbahn und wir waren
-  live dabei. Das Konzert war wirklich großartig. Hier ein paar Fotos für Euch
-excerpt:
-  Archive spielten gestern Abend live im Docks auf der Reeperbahn und wir waren
-  live dabei. Das Konzert war wirklich großartig.
+description: Archive spielten gestern Abend live im Docks auf der Reeperbahn und
+  wir waren live dabei. Das Konzert war wirklich großartig. Hier ein paar Fotos
+  für Euch
+excerpt: Archive spielten gestern Abend live im Docks auf der Reeperbahn und wir
+  waren live dabei. Das Konzert war wirklich großartig.
 focusKeyword: Archive
 labels:
   - Archive
@@ -30,13 +29,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15314"
+image: /img/demo.jpg
+errors: []
 subTitle: Kings Of The False Foundation Tour
+  
 ---
 
 ![Archive](http://cardamonchai.com/wp-content/uploads/2016/11/31190150605_143a91eef8_z.jpg "Ein Herzliches Willkommen")
 
-<strong>Gestern Abend war endlich mal wieder ein Konzertbesuch an der Reihe. Die
-Ehre gaben sich keine Geringeren, als Archive aus London.</strong>
+**Gestern Abend war endlich mal wieder ein Konzertbesuch an der Reihe. Die Ehre
+gaben sich keine Geringeren, als Archive aus London.**
 
 Danke, lieber Ortwin für die Tickets, der Abend war echt großartig! Schon die
 Vorband DR(DR)ONES heizte uns gut ein und als Archive die Bühne betraten, kochte
@@ -59,3 +61,5 @@ für Euch.
 ids="15312,15313,15316,15315,15314"]
 
 <iframe src="https://www.youtube.com/embed/A4gBzUwo6Iw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+  

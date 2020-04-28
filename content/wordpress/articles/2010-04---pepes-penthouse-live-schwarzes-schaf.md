@@ -4,12 +4,10 @@ seoTitle: Pepes Penthouse im Schwarzen Schaf
 slug: stimmungsvolles-unplugged-set-pepes-penthouse-live-schwarzes-schaf-1-april-2010
 link: /2010/04/stimmungsvolles-unplugged-set-pepes-penthouse-live-schwarzes-schaf-1-april-2010/
 fileName: 2010-04---pepes-penthouse-live-schwarzes-schaf.md
-description:
-  Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf der
-  LEERLAUF EP Release Party im "Schwarzen Schaf".
-excerpt:
-  Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf der
-  LEERLAUF EP Release Party im "Schwarzen Schaf".
+description: Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live
+  auf der LEERLAUF EP Release Party im "Schwarzen Schaf".
+excerpt: Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf
+  der LEERLAUF EP Release Party im "Schwarzen Schaf".
 focusKeyword: Pepes Penthouse
 labels:
   - Augsburg
@@ -28,15 +26,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11520"
+image: /img/demo.jpg
+errors: []
 subTitle: Stimmungsvolles Unplugged-Set
+  
 ---
-
-![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2010/04/IMG_1578-640x427.jpg)
-
-<strong>Am 1. April 2010 spielte die Augsburger Band PEPES PENTHOUSE live auf
-der LEERLAUF EP Release Party im "Schwarzen Schaf". </strong><strong>Der Abend
-wurde charmant moderiert von den Stars der Ulmer Band BENZIN, die vor kurzem ihr
-neues Album "Streichholzschachtelmasterplan" veröffentlicht haben.
 
 Insgesamt traten 4 Bands auf: PEPES PENTHOUSE machten den Anfang, danach kamen
 noch WHOLE LIVE STAND und ESTRELLA DRIVE auf die Bühne, bevor LEERLAUF ihre neue
@@ -62,3 +56,5 @@ wird!
 
 [gallery link="none" size="medium" type="rectangular"
 ids="11514,11515,11516,11517,11518,11519,11520,11521,11522,11523,11524,11525"]
+
+  

@@ -20,7 +20,12 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11443"
+image: /img/demo.jpg
+errors: []
 subTitle: Gesehen in Ulm
+  
 ---
 
 &nbsp;
+
+  

@@ -4,11 +4,9 @@ seoTitle: Manching - Eine Gemeinde im Herzogtum Neuburg-Sulzbach
 slug: manching
 link: /2009/09/manching/
 fileName: 2009-09---manching.md
-description:
-  Die Marktgemeinde Manching liegt südöstlich von Ingolstadt im bayerischen
-  Landkreis Pfaffenhofen an der Ilm - Geschichte und Wahrzeichen
-excerpt:
-  Die Marktgemeinde Manching liegt südöstlich von Ingolstadt im Landkreis
+description: Die Marktgemeinde Manching liegt südöstlich von Ingolstadt im
+  bayerischen Landkreis Pfaffenhofen an der Ilm - Geschichte und Wahrzeichen
+excerpt: Die Marktgemeinde Manching liegt südöstlich von Ingolstadt im Landkreis
   Pfaffenhofen an der Ilm.
 focusKeyword: Manching
 labels:
@@ -23,21 +21,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11480"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine Gemeinde im Herzogtum Neuburg-Sulzbach
+  
 ---
-
-<strong>Die Marktgemeinde Manching liegt südöstlich von Ingolstadt im Landkreis
-Pfaffenhofen an der Ilm. </strong>
 
 Sie besteht aus den Ortsteilen Manching, Oberstimm, Niederstimm, Pichl,
 Forstwiesen im Feilenmoos, Westenhausen, Lindach und Rottmannshart.
 
 ![Manching](http://cardamonchai.com/wp-content/uploads/2009/09/14550010205_d11d4fd7a8_z-640x427.jpg)
 
-<a href="http://cardamonchai.com/wp-content/uploads/2009/09/14550010205_d11d4fd7a8_z.jpg">Vom 3.
-Jahrhundert v. Chr. bis zum 1. Jahrhundert v. Chr. Gab es an der Stelle, an der
-die Marktgemeinde heute liegt, ein keltisches Oppidum. Heute findet man dort
-eine Ausgrabungsstätte und das Keltisch-Römische Museum.
+[](/wp-content/uploads/2009/09/14550010205_d11d4fd7a8_z.jpg) Vom 3. Jahrhundert
+v. Chr. bis zum 1. Jahrhundert v. Chr. Gab es an der Stelle, an der die
+Marktgemeinde heute liegt, ein keltisches Oppidum. Heute findet man dort eine
+Ausgrabungsstätte und das Keltisch-Römische Museum.
 
 Seit 1505 gehört Manching zum Herzogtum Neuburg-Sulzbach. Mit dem Gemeindeedikt
 von 1818 entstand die heutige Gemeinde.
@@ -56,4 +54,4 @@ Quadratkilometer.
 
 Hier geht es zur [Homepage](http://www.manching.de) der Marktgemeinde
 
-<span style="text-decoration: underline;"></span>
+  

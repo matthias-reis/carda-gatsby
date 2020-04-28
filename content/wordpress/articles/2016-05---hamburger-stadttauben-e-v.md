@@ -4,12 +4,12 @@ seoTitle: Hamburger Stadttauben e. V. - Verein rettet Tauben
 slug: hamburger-stadttauben-e-v
 link: /2016/05/hamburger-stadttauben-e-v/
 fileName: 2016-05---hamburger-stadttauben-e-v.md
-description:
-  Stadttauben haben eine traurige Geschichte. Der Hamburger Stadttauben e. V.
-  hat es sich zur Aufgabe gemacht sie um die verlassenen Geschöpfe zu kümmern.
-excerpt:
-  Stadttauben haben eine traurige Geschichte. Der Hamburger Stadttauben e. V.
-  hat es sich zur Aufgabe gemacht sie um die verlassenen Geschöpfe zu kümmern.
+description: Stadttauben haben eine traurige Geschichte. Der Hamburger
+  Stadttauben e. V. hat es sich zur Aufgabe gemacht sie um die verlassenen
+  Geschöpfe zu kümmern.
+excerpt: Stadttauben haben eine traurige Geschichte. Der Hamburger Stadttauben
+  e. V. hat es sich zur Aufgabe gemacht sie um die verlassenen Geschöpfe zu
+  kümmern.
 focusKeyword: Stadttauben
 labels:
   - Darum vegan
@@ -28,12 +28,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14901"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (97:50)"
 subTitle: Ein Verein mit Herz für Tauben
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (97:50)
+
+<!--
 ![Stadttauben](http://cardamonchai.com/wp-content/uploads/2016/05/17160873227_6048e2ba21_z-640x427.jpg)
 
-<strong>
+**Wie einige von Euch schon wissen, liegen mir aus verschiedenen Gründen Tauben
+sehr am Herzen. Besonders die Stadttauben, die immer um uns herumfliegen, aber
+trotzdem von kaum einem wahrgenommen werden.**
 
 Ihre Geschichte ist eng mit der der Menschen verwoben, sie begleiten uns schon
 seit langer Zeit. Umso widersprüchlicher ist es, dass sie heutzutage so wenig
@@ -57,12 +67,12 @@ lange durch und finden ein trauriges Ende.
 
 ![Stadttauben](http://cardamonchai.com/wp-content/uploads/2016/05/21447371659_0f24700ac2_z-640x640.jpg)
 
-stammen von der Felsentaube ab. Die verwilderten Haustiere, die wir als
-Stadttauben kennen, suchen sich daher auch gerne Nistplätze in hohen Gebäuden,
-Mauern und an Fassaden. Viele von ihnen leiden Hunger, in den Städten finden sie
-nicht genügend Nahrung. Häufig fressen sie kleine Gegenstände, die sie mit
-Futter verwechseln, werden vergiftet oder leiden mit Fremdkörpern im Magen
-Schmerzen.
+Unsere heutigen **Stadttauben** stammen von der Felsentaube ab. Die verwilderten
+Haustiere, die wir als Stadttauben kennen, suchen sich daher auch gerne
+Nistplätze in hohen Gebäuden, Mauern und an Fassaden. Viele von ihnen leiden
+Hunger, in den Städten finden sie nicht genügend Nahrung. Häufig fressen sie
+kleine Gegenstände, die sie mit Futter verwechseln, werden vergiftet oder leiden
+mit Fremdkörpern im Magen Schmerzen.
 
 Viele Menschen sehen Tauben als Schädlinge an, jagen sie oder versuchen sie mit
 Gift oder Netzen von ihren Häusern fernzuhalten. Dabei war es doch der Mensch,
@@ -114,16 +124,16 @@ mal die Feuerwehr dazu.
 
 Die Notrufnummer des Stadttauben e. V. Hamburg lautet:
 
-<blockquote>040 / 84 20 25 01</blockquote>
+> 040 / 84 20 25 01
 
 Sollte mal keiner zu erreichen sein, kann man sich auch an die Tierrettung
 wenden:
 
-<blockquote>040 / 22 22 77</blockquote>
+> 040 / 22 22 77
 
 Auch der Hamburger Tierschutzverein kann helfen:
 
-<blockquote>040 / 211 10 60</blockquote>
+> 040 / 211 10 60
 
 Der Verein arbeitet mit freiwilligen Helfen. Leider sind von ihnen nicht immer
 genügend verfügbar, daher kann es in seltenen Fällen vorkommen, dass man sich
@@ -152,15 +162,22 @@ IBAN DE44200505501244131619 BIC HASPDEHHXXX</blockquote>
 ## Weitere Infos für den Hamburger Stadttauben e. V.
 
 Wer sich gerne informieren möchte, findet alle Infos über den Hamburger
-Stadttauben e. V. unter [Facebook-Seite](http://www.hamburgerstadttauben.de/)
-wird regelmäßig über Aktionen und natürlich auch über die geretteten Tauben
-berichtet. Auch in anderen Städten gibt es ähnliche Vereine, Infos findet Ihr
-bei Eurer Stadtverwaltung oder im Internet.
+Stadttauben e. V. unter
+[hamburgerstadttauben.de](http://www.hamburgerstadttauben.de/). Dort gibt es
+außerdem auch jede Menge Wissenswertes über Tauben zu lesen. Auf der
+[Facebook-Seite](https://www.facebook.com/hamburgerstadttauben) wird regelmäßig
+über Aktionen und natürlich auch über die geretteten Tauben berichtet. Auch in
+anderen Städten gibt es ähnliche Vereine, Infos findet Ihr bei Eurer
+Stadtverwaltung oder im Internet.
 
 ![Stadttauben | full](http://cardamonchai.com/wp-content/uploads/2016/05/Hamburger-Stadttauben.png)
 
-<a href="http://www.hamburgerstadttauben.de/" target="_blank" rel="noopener">
+[](http://www.hamburgerstadttauben.de/)
 
-<strong>Banner:</strong> Hamburger Stadttauben
+**Banner:** Hamburger Stadttauben
 
 &nbsp;
+
+-->
+
+  

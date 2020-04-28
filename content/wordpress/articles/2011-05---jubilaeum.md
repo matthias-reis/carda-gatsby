@@ -4,12 +4,10 @@ seoTitle: 100 Beiträge auf cardamonchai - das ist ein Jubiläum!
 slug: jubilaum
 link: /2011/05/jubilaum/
 fileName: 2011-05---jubilaeum.md
-description:
-  Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste Mal
-  angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
-excerpt:
-  Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste Mal
-  angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
+description: Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das
+  666ste Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
+excerpt: Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das 666ste
+  Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
 focusKeyword: ""
 labels:
   - :-D
@@ -32,16 +30,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "1837"
+image: /img/demo.jpg
+errors: []
 subTitle: 666 Klicks
+  
 ---
 
-<strong>Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das
-<em>666ste Mal</em> angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
-</strong>
-
 Ein kleines Experiment habe ich gestern mit der cardamonchai-facebook-Seite
-gestartet, insgesamt haben sich bereits <em>62 Fans</em> (3 davon
-facebook-Freunde) gefunden.
+gestartet, insgesamt haben sich bereits _62 Fans_ (3 davon facebook-Freunde)
+gefunden.
 
 Busse, Hasen, Insomnie, Musik, Ideen, Luftpumpe, Bier, Bandprobe, Katzenjammer,
 immernoch 15 Seiten
@@ -50,9 +47,12 @@ Der neue Job läuft gut an, es gibt einiges zu lernen. Für das komplette
 Wochenende ist Sonnenschein angesagt. Ausschlafen, bummeln gehen, Sonne
 genießen.
 
-<em>Stimmung: Unternehmungslustig!</em><strong>Song des Tages:</strong> Absinthe
-Minded - Envoi
+_Stimmung: Unternehmungslustig!_ **Song des Tages:** Absinthe Minded - Envoi
 
 [youtube=http://www.youtube.com/watch?v=Q6yDfXpiWoA&amp;feature=channel_video_title]
 
-<strong>&gt; [](www.facebook.com/cardamonchai)
+**&gt; [Hier](www.facebook.com/cardamonchai) &lt; geht es zur
+[Facebook-Seite](www.facebook.com/cardamonchai) von cardamonchai:**
+[](http://www.facebook.com/media/set/?set=a.206871166001687.48560.100000364159291#!/pages/cardamonchai/163792830347189)
+
+  

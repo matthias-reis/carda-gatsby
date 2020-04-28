@@ -4,12 +4,12 @@ seoTitle: Long Distance Calling live @ Übel & Gefährlich Hamburg
 slug: long-distance-calling-uebel-und-gefaehrlich
 link: /2016/05/long-distance-calling-uebel-und-gefaehrlich/
 fileName: 2016-05---long-distance-calling-live-uebel-und-gefaehrlich-hamburg.md
-description:
-  "Vorletzten Freitag stand wieder mal ein Highlight für uns an: Long Distance
-  Calling spielten im legendären Bunkerclub Übel und Gefährlich in Hamburg."
-excerpt:
-  "Letzten Freitag stand wieder mal ein Highlight für uns an: Long Distance
-  Calling spielten im legendären Bunkerclub Übel und Gefährlich in Hamburg."
+description: "Vorletzten Freitag stand wieder mal ein Highlight für uns an: Long
+  Distance Calling spielten im legendären Bunkerclub Übel und Gefährlich in
+  Hamburg."
+excerpt: "Letzten Freitag stand wieder mal ein Highlight für uns an: Long
+  Distance Calling spielten im legendären Bunkerclub Übel und Gefährlich in
+  Hamburg."
 focusKeyword: Long Distance Calling
 labels:
   - Bunker
@@ -31,12 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14645"
+image: /img/demo.jpg
+errors: []
 subTitle: Konzert und Plattenrelease
+  
 ---
 
-<strong>Vorletzten Freitag stand wieder mal ein Highlight für uns an: Am
+**Vorletzten Freitag stand wieder mal ein Highlight für uns an: Am
 Veröffentlichungstag des neuen Albums "Trips" standen Long Distance Calling im
-legendären Hamburger Bunkerclub Übel und Gefährlich auf der Bühne.</strong>
+legendären Hamburger Bunkerclub Übel und Gefährlich auf der Bühne.**
 
 Da durften wir natürlich nicht fehlen. In der ersten Reihe wurde die Band
 gefeiert was das Zeug hält. Und nicht nur neue Songs wurden gespielt. Auch ein
@@ -52,4 +55,6 @@ Eindrücke.
 [gallery link="none" size="medium" columns="2" type="square"
 ids="14650,14649,14647,14648"]
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

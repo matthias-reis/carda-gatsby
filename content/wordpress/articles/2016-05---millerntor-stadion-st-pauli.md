@@ -4,12 +4,10 @@ seoTitle: Millerntor-Stadion Hamburg - Ein Rundgang
 slug: millerntor-stadion-hamburg
 link: /2016/05/millerntor-stadion-hamburg/
 fileName: 2016-05---millerntor-stadion-st-pauli.md
-description:
-  Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St. Pauli ist
-  etwas ganz Besonderes - "You'll never walk alone!"
-excerpt:
-  Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St. Pauli ist
-  etwas ganz Besonderes - "You'll never walk alone!"
+description: Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St.
+  Pauli ist etwas ganz Besonderes - "You'll never walk alone!"
+excerpt: Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St. Pauli
+  ist etwas ganz Besonderes - "You'll never walk alone!"
 focusKeyword: Millerntor-Stadion
 labels:
   - FC St. Pauli
@@ -26,12 +24,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14636"
-subTitle: '"You''ll never walk alone!"'
+image: /img/demo.jpg
+errors: []
+subTitle: "\"You'll never walk alone!\""
+  
 ---
 
-<strong>Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg ist eines
-der wenigen Fußballstadien in Deutschland, das nicht nach einem Werbeträger
-benannt ist. </strong>
+**Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg ist eines der
+wenigen Fußballstadien in Deutschland, das nicht nach einem Werbeträger benannt
+ist.**
 
 Und nicht nur das sorgt für ein besonderes Flair auf dem Gelände. Ausgetragen
 werden dort die Heimspiele der ersten und manchmal auch der zweiten
@@ -92,4 +93,6 @@ Hochbunker, in dem sich das Übel &amp; Gefährlich befindet.
 
 [myflickr tag="annemillerntorstadion052016"]
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

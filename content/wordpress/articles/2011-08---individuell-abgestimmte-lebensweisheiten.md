@@ -4,12 +4,10 @@ seoTitle: Individuell abgestimmte Lebensweisheiten - Gedicht
 slug: individuell-abgestimmte-lebensweisheiten
 link: /2011/08/individuell-abgestimmte-lebensweisheiten/
 fileName: 2011-08---individuell-abgestimmte-lebensweisheiten.md
-description:
-  Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus draußen ist.
-  Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
-excerpt:
-  Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus draußen ist.
-  Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
+description: Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus
+  draußen ist. Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
+excerpt: Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus
+  draußen ist. Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
 focusKeyword: ""
 labels:
   - besser
@@ -36,7 +34,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2336"
+image: /img/demo.jpg
+errors: []
 subTitle: Nachgedacht
+  
 ---
 
 Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus draußen ist.
@@ -48,3 +49,5 @@ zugeschnitten.
 Aber früh aufstehen hilft auch nicht.
 
 [youtube=http://www.youtube.com/watch?v=WF6esydiV34]
+
+  

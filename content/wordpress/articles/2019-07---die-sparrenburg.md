@@ -4,12 +4,10 @@ seoTitle: Die Sparrenburg - Festungsanlage in Bielefelds Mitte
 slug: sparrenburg-bielefeld
 link: /2019/07/sparrenburg-bielefeld/
 fileName: 2019-07---die-sparrenburg.md
-description:
-  Dass wir einen Ausflug nach Bielefeld gemacht haben, wisst Ihr. Dort haben wir
-  auch die Sparrenburg besucht - eine spannende Besichtigung.
-excerpt:
-  Dass wir einen Ausflug nach Bielefeld gemacht haben, wisst Ihr. Dort haben wir
-  auch die Sparrenburg besucht - eine spannende Besichtigung.
+description: Dass wir einen Ausflug nach Bielefeld gemacht haben, wisst Ihr.
+  Dort haben wir auch die Sparrenburg besucht - eine spannende Besichtigung.
+excerpt: Dass wir einen Ausflug nach Bielefeld gemacht haben, wisst Ihr. Dort
+  haben wir auch die Sparrenburg besucht - eine spannende Besichtigung.
 focusKeyword: Sparrenburg
 labels:
   - Ausflug
@@ -24,12 +22,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25408"
+image: /img/demo.jpg
+errors: []
 subTitle: Festungsanlage in Bielefelds Mitte
+  
 ---
 
-<strong>Dass wir einen [Ausflug nach Bielefeld](/2019/07/bielefeld/) gemacht
-haben, wisst Ihr. Dort haben wir auch die Sparrenburg besucht - eine spannende
-Besichtigung.</strong>
+**Dass wir einen [Ausflug nach Bielefeld](/2019/07/bielefeld/) gemacht haben,
+wisst Ihr. Dort haben wir auch die Sparrenburg besucht - eine spannende
+Besichtigung.**
 
 Kennt Ihr das? Manchmal kommen einem Dinge, die man als Kind das letzte Mal
 gesehen hat, irgendwie kleiner vor. Das ist auch ganz natürlich: Damals waren
@@ -63,4 +64,7 @@ inbegriffen sind.
 [glry name="sparrenburg2019anne"]
 
 Quellen:
-[Wikipedia Sparrenburg](https://www.bielefeld.de/de/ti/sehenswuerdigkeiten/sparrenburg/)
+[bielefeld.de](https://www.bielefeld.de/de/ti/sehenswuerdigkeiten/sparrenburg/),
+[Wikipedia Sparrenburg](https://de.wikipedia.org/wiki/Sparrenburg)
+
+  

@@ -4,13 +4,12 @@ seoTitle: Neue Festivalbegleiter von Feuerwear - rot, heiß und robust
 slug: neue-festivalbegleiter-von-feuerwear
 link: /2019/02/neue-festivalbegleiter-von-feuerwear/
 fileName: 2019-02---neue-festivalbegleiter-von-feuerwear.md
-description:
-  Die Festivalsaison rückt immer näher. Was mich dieses Jahr das erste Mal
-  begleiten wird, sind die praktischen weil robusten Taschen von Feuerwear.
-excerpt:
-  Werbung - Die Festivalsaison rückt immer näher. Man darf sich durchaus schon
-  Gedanken machen, was man dieses Jahr alles einpackt. Heute möchte ich Euch
-  meine neuen Festivalbegleiter von Feuerwear vorstellen.
+description: Die Festivalsaison rückt immer näher. Was mich dieses Jahr das
+  erste Mal begleiten wird, sind die praktischen weil robusten Taschen von
+  Feuerwear.
+excerpt: Werbung - Die Festivalsaison rückt immer näher. Man darf sich durchaus
+  schon Gedanken machen, was man dieses Jahr alles einpackt. Heute möchte ich
+  Euch meine neuen Festivalbegleiter von Feuerwear vorstellen.
 focusKeyword: Feuerwear
 labels:
   - Bauchtasche Festival
@@ -36,10 +35,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23513"
+image: /img/demo.jpg
+errors: []
 subTitle: Rot, heiß und robust
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
 <hr />
 
@@ -48,19 +50,17 @@ Hinweis: Die Aktion ist beendet.
 
 <hr />
 
-<strong>Die Tage werden wieder länger und die Festivalsaison rückt immer näher.
-Man darf sich durchaus schon Gedanken machen, was man dieses Jahr alles
-einpackt. Heute möchte ich Euch meine neuen Festivalbegleiter von Feuerwear
-vorstellen.</strong>
+**Die Tage werden wieder länger und die Festivalsaison rückt immer näher. Man
+darf sich durchaus schon Gedanken machen, was man dieses Jahr alles einpackt.
+Heute möchte ich Euch meine neuen Festivalbegleiter von Feuerwear vorstellen.**
 
-<em>Mit etwas Glück könnt Ihr selbst einen schicken Hip Bag für Euer nächstes
-Festival gewinnen! Wie das geht, erfahrt Ihr weiter unten...\*\*</em>
+_Mit etwas Glück könnt Ihr selbst einen schicken Hip Bag für Euer nächstes
+Festival gewinnen! Wie das geht, erfahrt Ihr weiter unten...\*\*_
 
 Die Bauchtasche (Hip Bag) "Otis" und der Geldbeutel "Fred" sind nicht nur "red
-hot", sondern auch noch wasserabweisend - genau das Richtige fürs
-<strong>Festival</strong> also. Auf meiner
-[Festivalliste](/2015/03/die-ultimative-vegane-festivalliste/) haben sie
-definitiv schon einen Platz gefunden.
+hot", sondern auch noch wasserabweisend - genau das Richtige fürs **Festival**
+also. Auf meiner [Festivalliste](/2015/03/die-ultimative-vegane-festivalliste/)
+haben sie definitiv schon einen Platz gefunden.
 
 ## Feuerwear produziert Einzelstücke
 
@@ -86,32 +86,30 @@ anderem auch noch Umhängetaschen und Rucksäcke.
 ## Mit leichtem Gepäck zum Konzert
 
 Fürs Festival habe ich mich jedoch fürs Minimalformat entschieden. Das Mitführen
-von Taschen über Bauchtaschengröße auf dem <strong>Konzertgelände</strong> ist
-ja auf den meisten Open Air Vergnügungen seit einiger Zeit untersagt. Das hat
-der Bauchtasche zu einem neuen Hype verholfen. Getragen werden muss sie nicht
+von Taschen über Bauchtaschengröße auf dem **Konzertgelände** ist ja auf den
+meisten Open Air Vergnügungen seit einiger Zeit untersagt. Das hat der
+Bauchtasche zu einem neuen Hype verholfen. Getragen werden muss sie nicht
 klassisch um die Hüfte, auch schräg über die Schulter oder als Handtasche
 eingesetzt verfehlt sie ihre Wirkung nicht.
 
 ![Feuerwear](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-14-feuerwear-3-400x286.jpg "Da geht einiges rein!")
 
 Außerdem, was braucht man denn schließlich viel, wenn man da vorne an der Bande
-steht und auf die <strong>Lieblingsband</strong> wartet? Doch wohl maximal ein
-paar Kleinigkeiten, oder? Ich liste mal auf, was ich probeweise schon mal
-reingepackt habe:
+steht und auf die **Lieblingsband** wartet? Doch wohl maximal ein paar
+Kleinigkeiten, oder? Ich liste mal auf, was ich probeweise schon mal reingepackt
+habe:
 
-<ul>
-    <li>Taschentücher</li>
-    <li>Handy</li>
-    <li>Geld</li>
-    <li>Powerbank</li>
-    <li>kleine Flasche Desinfektionsgel</li>
-    <li>Pflaster</li>
-</ul>
+- Taschentücher
+- Handy
+- Geld
+- Powerbank
+- kleine Flasche Desinfektionsgel
+- Pflaster
 
 Diese Minimalausstattung passt komplett rein und bringt einen auf jeden Fall
 über den Tag. Passt auf mit Sachen wie dem Flachmann, den ich so schön in meine
 Fotos drapiert habe: Besonders auf den großen Festivals lasst Ihr den besser auf
-dem <strong>Zeltplatz</strong>. Auf kleineren wie zum Beispiel dem
+dem **Zeltplatz** . Auf kleineren wie zum Beispiel dem
 [Dunk](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) hat man damit
 keine Probleme.
 
@@ -158,23 +156,29 @@ wird über Greenpeace Energy bezogen.
 ## Hier findet Ihr die tollen Feuerwear Taschen
 
 Im
-[das Portemonnaie Fred hier](http://www.feuerwear.de/?utm_source=presseportal&utm_medium=presse&utm_campaign=koop).
+[Feuerwear Onlineshop](http://www.feuerwear.de/?utm_source=presseportal&utm_medium=presse&utm_campaign=koop)
+findet Ihr
+[den Hip Bag Otis hier](https://www.feuerwear.de/accessoires-aus-feuerwehrschlauch/hip-bag-otis?utm_source=presseportal&utm_medium=presse&utm_campaign=otis)
+und
+[das Portemonnaie Fred hier](https://www.feuerwear.de/accessoires-aus-feuerwehrschlauch/herrenportemonnaie-fred).
 
-<em>\*\*Wie angekündigt, könnt Ihr mit etwas Glück selbst einen schicken Hip Bag
+_\*\*Wie angekündigt, könnt Ihr mit etwas Glück selbst einen schicken Hip Bag
 für Euer nächstes Festival gewinnen! Schreibt dazu einfach eine E-Mail unter dem
 Betreff "Fire" an info@cardamonchai.com und erzählt mir, warum genau Ihr das
 Teil abstauben müsst. Wer gewinnt, entscheidet das Los. Der Einsendeschluss ist
 der 30. März 2019. Hier geht es zu den
-[Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/). </em>
+[Teilnahmebedingungen](/datenschutz/teilnahmebedingungen/). _
 
-<strong>Hinweis: </strong>Diese Verlosung beendet. Die/der Gewinner\*in wurde
-über Ihren Gewinn benachrichtigt.
+**Hinweis:** Diese Verlosung beendet. Die/der Gewinner\*in wurde über Ihren
+Gewinn benachrichtigt.
 
 [glry name="feuerwear201902"]
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos
-zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
+_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
+Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner [Transparenz-Seite](/werbung/). </em>
+meiner [Transparenz-Seite](/werbung/). _
+
+  

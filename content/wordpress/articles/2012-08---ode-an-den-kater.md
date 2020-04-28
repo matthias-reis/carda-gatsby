@@ -4,12 +4,12 @@ seoTitle: Ode an den Kater - Eine Kurzgeschichte zum Thema Katzenliebe
 slug: ode-an-den-kater
 link: /2012/08/ode-an-den-kater/
 fileName: 2012-08---ode-an-den-kater.md
-description:
-  Kater - Du freust Dich jedes Mal, wenn jemand die Tür aufschließt. Du drehst
-  Deine Runden um die Hosenbeine, bis diese ganz grau sind von Deinem Fell.
-excerpt:
-  Kater - Du freust Dich jedes Mal, wenn jemand die Tür aufschließt. Du drehst
-  Deine Runden um die Hosenbeine, bis diese ganz grau sind von Deinem Fell.
+description: Kater - Du freust Dich jedes Mal, wenn jemand die Tür aufschließt.
+  Du drehst Deine Runden um die Hosenbeine, bis diese ganz grau sind von Deinem
+  Fell.
+excerpt: Kater - Du freust Dich jedes Mal, wenn jemand die Tür aufschließt. Du
+  drehst Deine Runden um die Hosenbeine, bis diese ganz grau sind von Deinem
+  Fell.
 focusKeyword: Kater
 labels:
   - Blog
@@ -49,12 +49,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4116"
+image: /img/demo.jpg
+errors: []
 subTitle: Geschichte zum Thema Katzenliebe
+  
 ---
-
-<strong>Du freust Dich jedes Mal, wenn jemand die Tür aufschließt. Du drehst
-Deine Runden um die Hosenbeine, bis diese ganz grau sind von Deinem
-Fell.</strong>
 
 Du bist für mich da, wenn es mir schlecht geht, und tobst mit mir herum, wenn
 die Laune wieder besser ist. Du bringst mich auf die Palme und holst mich zurück
@@ -135,9 +134,11 @@ Panthergleich stürmst Du davon. Umkreist den Futternapf. Sobald er gefüllt ist
 ist auch schon wieder uninteressant geworden und Du stürmst weiter. Auf zu neuen
 Taten. Auf leisen Tatzen.
 
-<em>Dieser Text ist Oskar und Chili gewidmet. Eigentlich sollte es heißen "Ode
-an DIE Kater", denn ich liebe Euch beide, meine wolligen Mitbewohner.</em>
+_Dieser Text ist Oskar und Chili gewidmet. Eigentlich sollte es heißen "Ode an
+DIE Kater", denn ich liebe Euch beide, meine wolligen Mitbewohner._
 
 ![ "I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to us. We don't even belong to each other." | full](http://cardamonchai.com/wp-content/uploads/2012/08/cat2-kc3b6rnung-und-aufhellung-horzgerahmt.jpg
 '"I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to
 us. We don't even belong to each other."')
+
+  

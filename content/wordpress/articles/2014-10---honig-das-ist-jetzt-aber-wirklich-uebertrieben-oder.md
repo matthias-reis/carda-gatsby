@@ -4,11 +4,9 @@ seoTitle: Warum Veganer auf Honig verzichten und das nicht übertrieben ist
 slug: honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder
 link: /2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/
 fileName: 2014-10---honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder.md
-description:
-  Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie
-  ausbeuten, auch indem wir ihnen ihren Honig wegnehmen.
-excerpt:
-  Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie
+description: Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und
+  sie ausbeuten, auch indem wir ihnen ihren Honig wegnehmen.
+excerpt: Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie
   ausbeuten, auch indem wir ihnen ihren Honig wegnehmen.
 focusKeyword: Honig
 labels:
@@ -52,44 +50,49 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "9057"
+image: /img/demo.jpg
+errors: []
 subTitle: 10 Fakten über Veganismus - Teil VII
+  
 ---
 
-## von Ausbeutung und Bienensterben
+![Biene sammelt Nektar](http://cardamonchai.com/wp-content/uploads/2014/10/14357441908_09b3d46f87_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Biene sammelt Nektar")
 
-![Biene sammelt Nektar](http://cardamonchai.com/wp-content/uploads/2014/10/14357441908_09b3d46f87_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Biene sammelt Nektar")
-
-<span style="text-decoration: underline;"><em><strong>
+_ **
 [Hier gehts zu Teil 6 des Artikels](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
-</strong></em></span><strong>"Das ist doch jetzt wirklich nicht dein Ernst, dass
-du nicht mal mehr Honig zu dir nehmen willst?!" - Doch, das ist mein voller
-Ernst. Warum das so ist, lässt sich in ein paar Sätzen erklären. Ein Beispiel
-nehmen hat nämlich nichts mit wegnehmen zu tun.</strong>
+** _ **"Das ist doch jetzt wirklich nicht dein Ernst, dass du nicht mal mehr
+Honig zu dir nehmen willst?!" - Doch, das ist mein voller Ernst. Warum das so
+ist, lässt sich in ein paar Sätzen erklären. Ein Beispiel nehmen hat nämlich
+nichts mit wegnehmen zu tun.**
 
 Die Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und sie
-ausbeuten, auch indem wir ihnen <em>ihren</em><strong>Honig</strong> wegnehmen.
+ausbeuten, auch indem wir ihnen _ihren_ **Honig** wegnehmen.
 
-<blockquote>"Wer seinen Wohlstand vermehren möchte, der sollte sich an den Bienen ein Beispiel nehmen. Sie sammeln den Honig, ohne die Blumen zu zerstören. Sie sind sogar nützlich für die Blumen. Sammle deinen Reichtum, ohne seine Quellen zu zerstören, dann wird er beständig zunehmen." - Buddha</blockquote>### Was ist eigentlich Honig?
+> "Wer seinen Wohlstand vermehren möchte, der sollte sich an den Bienen ein
+> Beispiel nehmen. Sie sammeln den Honig, ohne die Blumen zu zerstören. Sie sind
+> sogar nützlich für die Blumen. Sammle deinen Reichtum, ohne seine Quellen zu
+> zerstören, dann wird er beständig zunehmen." - Buddha### Was ist eigentlich
+> Honig?
 
-![Arbeiterbiene in Aktion](http://cardamonchai.com/wp-content/uploads/2014/10/14805231703_25f28379f0_z-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbiene in Aktion")
+![Arbeiterbiene in Aktion](http://cardamonchai.com/wp-content/uploads/2014/10/14805231703_25f28379f0_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbiene in Aktion")
 
-Zunächst ein paar Grundlagen. <em>Natürliche</em> Vorgänge, wie sie von Mutter
-Natur vorgesehen sind.
+Zunächst ein paar Grundlagen. _Natürliche_ Vorgänge, wie sie von Mutter Natur
+vorgesehen sind.
 
-Als Honig bezeichnet man eine von Honigbienen sowie einigen Ameisenarten <em>zur
-eigenen Nahrungsversorgung erzeugte, </em>süße Masse aus dem
-<strong>Nektar</strong> von Blüten oder den zuckerhaltigen
-Ausscheidungsprodukten verschiedener Insekten (Honigtau).
+Als Honig bezeichnet man eine von Honigbienen sowie einigen Ameisenarten _zur
+eigenen Nahrungsversorgung erzeugte,_ süße Masse aus dem **Nektar** von Blüten
+oder den zuckerhaltigen Ausscheidungsprodukten verschiedener Insekten
+(Honigtau).
 
 ### Die Nahrung der Bienen
 
 Die im Honig enthaltenen Nährstoffe sind für die Bienen lebensnotwendig, sie
-schützen sie vor Krankheiten und Parasitenbefall, sowie den
-<strong>Milben</strong>, die maßgeblich am Bienensterben beteiligt sind. [](#1)
-In der Imkerei erhalten die Bienen als Ersatz meist Zuckerwasser, wodurch sie
+schützen sie vor Krankheiten und Parasitenbefall, sowie den **Milben** , die
+maßgeblich am Bienensterben beteiligt sind. [<sup>1</sup>](#1) In der Imkerei
+erhalten die Bienen als Ersatz meist Zuckerwasser, wodurch sie
 krankheitsanfällig werden.
 
-![Emsige Biene](https://cardamonchai.files.wordpress.com/2014/10/14357114080_6107bf707a_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Emsige Biene")
+![Emsige Biene](https://cardamonchai.files.wordpress.com/2014/10/14357114080_6107bf707a_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Emsige Biene")
 
 Die Bienen nehmen süße Säfte auf, reichern sie mit ihren körpereigenen Säften
 an, verändern sie innerhalb ihres Körpers, speichern sie in Waben und lassen sie
@@ -97,34 +100,34 @@ dort zum Honig heranreifen.
 
 Als Quelle verwenden sie dabei hauptsächlich Blütennektar, seltener Honigtau
 verschiedener Schild- und Rindenlausarten oder Nektarien außerhalb von Blüten
-(extrafloral), wie zum Beispiel den <strong>Pflanzensaft</strong> aus der
-Blattachsel von Mais.
+(extrafloral), wie zum Beispiel den **Pflanzensaft** aus der Blattachsel von
+Mais.
 
 ### Die Bestäubung
 
 Arbeiterbienen fliegen am Tag rund 40.000 Blüten an, um Nahrung zu sammeln. Ganz
 nebenbei kommt es dabei zur Bestäubung der Blüten und die Spermazelle der Pollen
 wird von der Biene auf die empfänglichen, weiblichen Blütenteile getragen.
-[](#6)
+[<sup>6</sup>](#6)
 
-![Bienen saugen den Nektar über den Rüssel auf](http://cardamonchai.com/wp-content/uploads/2014/10/11532124213_650108a210_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Bienen saugen den Nektar über den Rüssel auf")
+![Bienen saugen den Nektar über den Rüssel auf](http://cardamonchai.com/wp-content/uploads/2014/10/11532124213_650108a210_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bienen saugen den Nektar über den Rüssel auf")
 
 Die Bienen saugen den Nektar über den Rüssel auf und transportieren ihn in ihrer
-<strong>Honigblase</strong> in den Bienenstock, wo sie ihn an die Stockbienen
-übergeben, die ihn immer weiter geben, indem sie ihn in ihren Körper aufnehmen
-und wieder abgeben.
+**Honigblase** in den Bienenstock, wo sie ihn an die Stockbienen übergeben, die
+ihn immer weiter geben, indem sie ihn in ihren Körper aufnehmen und wieder
+abgeben.
 
 So gelangen zum Beispiel Enzyme und verschiedene Säuren aus dem Körper der
 Bienen in den Honig. Der Nektar wird eingedickt, indem ein Tropfen Nektar über
-den <strong>Saugrüssel</strong> immer wieder aufgesaugt und wieder
-herausgelassen wird. Beträgt der Wassergehalt nur noch rund 30 - 40 Prozent,
-wird er über die Wabenzellen ausgebreitet.
+den **Saugrüssel** immer wieder aufgesaugt und wieder herausgelassen wird.
+Beträgt der Wassergehalt nur noch rund 30 - 40 Prozent, wird er über die
+Wabenzellen ausgebreitet.
 
 Honig darf laut Honigverordnung vor allem Fructose, Glucose und Enzyme,
 organische Säuren und sonstige, feste Partikel, die die Bienen beim Sammeln
-aufnehmen, enthalten. [](#4) ### Die Geschichte der Imkerei
+aufnehmen, enthalten. [<sup>4</sup>](#4) ### Die Geschichte der Imkerei
 
-![Honig ist die Nahrung der Bienen](https://cardamonchai.files.wordpress.com/2014/10/14357129270_f2319edbbf_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Honig ist die Nahrung der Bienen")
+![Honig ist die Nahrung der Bienen](https://cardamonchai.files.wordpress.com/2014/10/14357129270_f2319edbbf_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Honig ist die Nahrung der Bienen")
 
 In der Steinzeit begannen die Menschen Honig als Nahrungsmittel zu nutzen. Die
 Haltung von Hausbienen geht auf das 7. Jahrhundert v. Chr. (Anatolien) zurück.
@@ -138,13 +141,16 @@ Der Ertrag der deutschen Honigproduktion rund 16.000 Tonnen. Weltweit werden pro
 Jahr rund 1.650.000 Tonnen produziert (Food Agriculture Organization of the
 United Nations). Die Deutschen nehmen rund 85.000 Tonnen Honig pro Jahr zu sich
 (Bundeswirtschaftsministerium), das ist mehr als 1 Kilo pro Einwohner. Davon
-wird nur ca. 1/5 durch deutschen Honig gedeckt. [](#4)
+wird nur ca. 1/5 durch deutschen Honig gedeckt. [<sup>4</sup>](#4)
 
-![Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt siehe Quellen](http://cardamonchai.com/wp-content/uploads/2014/10/bildschirmfoto-2014-10-16-um-09-26-02-640x419.png " [](https://www.flickr.com/photos/99929697@N07/sets)  Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt, siehe Quellen")
+![Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt siehe Quellen](http://cardamonchai.com/wp-content/uploads/2014/10/bildschirmfoto-2014-10-16-um-09-26-02-640x419.png "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt, siehe Quellen")
 
 Hauptimportländer sind hierzulande Mexico und Argentinien. 2012 wurden u. a.
 15.000 Tonnen aus Mexico und 13.000 Tonnen aus Argentinien nach Deutschland
-importiert. [](#2) ### Honigarten und Honigproduktion heute
+importiert. [<sup>2</sup>](#2) Fast 50 Prozent des Honigs auf der Welt stammen
+aus Asien, 23 Prozent aus Europa, 12 Prozent aus Afrika, 10 Prozent aus Nord-
+und Mittelamerika, 8 Prozent aus Südamerika und 2 Prozent aus Australien und
+Neuseeland. [<sup>4</sup>](#4) ### Honigarten und Honigproduktion heute
 
 Es wird zwischen vier verschiedenen Honigarten unterschieden. Beim
 Schleuderhonig, der seit Beginn des 20. Jahrhunderts häufigsten Honigart, werden
@@ -152,8 +158,8 @@ die zuvor entdeckelten Honigwaben in einer sogenannten Honigschleuder unter
 Zuhilfenahme der Zentrifugalkraft ausgeschleudert.
 
 Beim Scheibenhonig werden vollständige, von den Bienen hergestellte Wabenstücke
-ohne Mittelwände herausgetrennt. Beim <strong>Wabenhonig</strong> dürfen die
-Mittelwände im Gegensatz zum Scheibenhonig enthalten sein.
+ohne Mittelwände herausgetrennt. Beim **Wabenhonig** dürfen die Mittelwände im
+Gegensatz zum Scheibenhonig enthalten sein.
 
 Heute kaum noch verbreitet ist Press-, Stampf-, Tropf- oder Seimhonig, bei dem
 der Honig den Waben mittels Auspressen oder Auslaufenlassen entnommen wird.
@@ -162,7 +168,7 @@ immer seltener.
 
 ### Manipulation der Bienen
 
-![Arbeiterbienen am Magazin](https://cardamonchai.files.wordpress.com/2014/10/14357307880_6532fa01ac_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen am Magazin")
+![Arbeiterbienen am Magazin](https://cardamonchai.files.wordpress.com/2014/10/14357307880_6532fa01ac_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen am Magazin")
 
 Um einen möglichst hohen Gewinn zu erzielen, kommt es, genau wie bei
 [Milchproduktion](//2014/09/09/pflanzenmilch-wieso-denn-blos/), auch bei der
@@ -171,10 +177,10 @@ Honiggewinnung zur Manipulation und Ausbeutung der Tiere.
 Die Bienen werden dabei in sogenannten Magazinen gehalten, die den natürlichen
 Bienenstöcken ähneln sollen. Natürlich ziehen die Bienen dort nicht freiwillig
 ein, weshalb einige Imker auch noch in der heutigen Zeit die Flügel der
-<strong>Bienenkönigin</strong> stutzen. Die meisten verlassen sich heutzutage
-auf sogenannte "schwarmträge" Zuchtbienen, um das Ausfliegen ihrer Völker zu
-verhindern. Die Arbeiterbienen sind ihrer Königin hörig und weil sie ohne sie
-niemals weiterziehen würden, sind sie fortan an das Magazin gebunden.
+**Bienenkönigin** stutzen. Die meisten verlassen sich heutzutage auf sogenannte
+"schwarmträge" Zuchtbienen, um das Ausfliegen ihrer Völker zu verhindern. Die
+Arbeiterbienen sind ihrer Königin hörig und weil sie ohne sie niemals
+weiterziehen würden, sind sie fortan an das Magazin gebunden.
 
 Der Imker kann über eine schubladenartige Öffnung auf der Seite des Magazins
 ganz leicht jederzeit an den Honig gelangen, bei diesem Prozedere kommt es
@@ -183,10 +189,12 @@ zu Quetschungen.
 
 ### Das Einräuchern
 
-![Arbeiterbienen](http://cardamonchai.com/wp-content/uploads/2014/10/14564080433_c18a3b84d1_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen")
+![Arbeiterbienen](http://cardamonchai.com/wp-content/uploads/2014/10/14564080433_c18a3b84d1_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen")
 
 Dabei benutzt der Imker einen Smoker (oder auch eine Pfeife), mit dessen Hilfe
-Rauch in den Bienenstock geblasen wird. [](#5)
+Rauch in den Bienenstock geblasen wird. [<sup>5</sup>](#5) Dadurch werden die
+Bienen nicht, wie fälschlicherweise häufig angenommen, beruhigt, sondern ihnen
+wird ein Waldbrand vorgetäuscht. [<sup>1</sup>](#1)
 
 Sie brechen in Panik aus, der Instinkt bringt sie dazu, möglichst viel Nahrung
 als Wegzehrung aufzunehmen, um sich ein neues Heim zu suchen. Während sie damit
@@ -200,7 +208,7 @@ erfolgt, sobald in einem Bienenstock mehr als eine Königin sitzt. Imker
 versuchen dies zu verhindern, um sich nicht den Honig dieser besonders
 ertragsreichen Zeit entgehen zu lassen.
 
-![Biene im Flug | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/10/14357107300_1a0c8fb2a7_z-150x150.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Biene im Flug")
+![Biene im Flug | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/10/14357107300_1a0c8fb2a7_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Biene im Flug")
 
 Um das Ausschwärmen zu unterbinden, werden verschiedene Praktiken angewendet.
 Einige Imker trennen das Bienenvolk und stellen einen Teil davon mit der Brut
@@ -222,7 +230,7 @@ Imkereibetrieb wird sie nach einem Jahr getötet.
 
 ### Wenn die Bienen sterben, stirbt die Natur
 
-![Bienen beim Verlassen des Bienenstocks](http://cardamonchai.com/wp-content/uploads/2014/10/14357358519_ded7209989_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Bienen beim Verlassen des Bienenstocks")
+![Bienen beim Verlassen des Bienenstocks](http://cardamonchai.com/wp-content/uploads/2014/10/14357358519_ded7209989_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bienen beim Verlassen des Bienenstocks")
 
 Seit Jahrzehnten warnen Wissenschaftler vor dem Bienensterben. Sterben die
 Bienen, findet keine Bestäubung mehr statt, was verheerende Folgen für die Natur
@@ -230,48 +238,76 @@ nach sich zieht.
 
 Schuld am Tod der Bienen sind sicherlich in Teilen auch die von der
 Honigindustrie angegebenen Gründe, der Einsatz von Pestiziden, Milben, sowie die
-<strong>Klimaerwärmung</strong>. Der Kern des Problems sitzt jedoch wesentlich
-tiefer.
+**Klimaerwärmung** . Der Kern des Problems sitzt jedoch wesentlich tiefer.
 
 Die Bienen leiden durch den Honigraub des Menschen vom Larvenstadium an an
-Eiweißmangel [](#1) Die Natur ist in ein Ungleichgewicht geraten, Schuld ist wie
+Eiweißmangel [<sup>1</sup>](#1) und sind somit nicht mehr gegen Angreifer wie
+beispielsweise die Varroamilbe, die derzeit ganze Bienenvölker ausrottet.
+[<sup>7</sup>](#7) Die Natur ist in ein Ungleichgewicht geraten, Schuld ist wie
 so oft der Mensch.
 
 ### Frieden für die Honigbienen
 
-![Fleißige Sammlerin](http://cardamonchai.com/wp-content/uploads/2014/10/14357302757_1a1bb3e83b_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Fleißige Sammlerin")
+![Fleißige Sammlerin](http://cardamonchai.com/wp-content/uploads/2014/10/14357302757_1a1bb3e83b_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Fleißige Sammlerin")
 
 Nur wenn wir die Bienen in Ruhe lassen und ihnen ihre natürliche Lebensart
 zurückgeben, können wir ihnen auf Dauer helfen. An dieser Stelle ein berühmtes
 Zitat tausender zweifelnder, skeptischer Vegan-Infragesteller, das mir
 tagtäglich begegnet: "Leben und leben lassen." Oder?
 
-Es gibt bestimmt einige, wenige <strong>Imker</strong>, die versuchen, den
-Bienen nicht zu schaden, einen Eingriff in die Natur dieser faszinierenden Wesen
-nehmen sie dennoch vor. Wenn man
+Es gibt bestimmt einige, wenige **Imker** , die versuchen, den Bienen nicht zu
+schaden, einen Eingriff in die Natur dieser faszinierenden Wesen nehmen sie
+dennoch vor. Wenn man
 [aktiv etwas gegen das Bienensterben unternehmen](/2019/07/kampf-gegen-das-bienensterben/)
 möchte, verzichtet man daher am besten auf Honig.
 
 ### Tolle Alternativen
 
-![Für Euch getestet: Tolle Alternativen](http://cardamonchai.com/wp-content/uploads/2014/10/honigalternativen-1-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Für Euch getestet: Tolle Alternativen")
+![Für Euch getestet: Tolle Alternativen](http://cardamonchai.com/wp-content/uploads/2014/10/honigalternativen-1-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Für Euch getestet: Tolle Alternativen")
 
 Tolle Alternativen sind übrigens u. a. Ahornsirup oder für alle, die es etwas
-weniger würzig mögen, <strong>Agavendicksaft</strong>. Etwas fruchtiger und sehr
-lecker ist Apfelsüße, ich habe das für Euch getestet.
+weniger würzig mögen, **Agavendicksaft** . Etwas fruchtiger und sehr lecker ist
+Apfelsüße, ich habe das für Euch getestet.
 
 Honig lässt sich im Übrigen auch ganz leicht selbst und ohne den Umweg über die
 Bienen herstellen. Hier ein Rezept:
 
-### Selbstgemachter Gänseblümchenhonig#### Zubereitung
+### Selbstgemachter Gänseblümchenhonig#### Zutaten für ein großes Glas Gänseblümchenhonig- 2 Handvoll Gänseblümchen
+
+- 500 Gramm Rohrohrzucker
+- 2 Teelöffel Zitronensaft
+- 500 Milliliter Wasser#### Zubereitung
 
 Das Wasser zusammen mit den Blumen aufkochen und im Anschluss für ca. 3-4
 Stunden ziehen lassen. Den Sud durch ein Sieb drücken und mit dem Zitronensaft
 und dem Zucker einkochen, bis er dickflüssig wird. In ein großes oder zwei
 kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig. &lt;3
 
-[](/2014/11/28/fakepelz-echtpelz/)
+[_ **Hier gehts zu Teil 8 des Artikels** _](/2014/11/28/fakepelz-echtpelz/)
 
-![Sie fliegt von Blüte zu Blüte | full](http://cardamonchai.com/wp-content/uploads/2014/10/14258998664_220bda64c4_z.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Sie fliegt von Blüte zu Blüte")
+![Sie fliegt von Blüte zu Blüte | full](http://cardamonchai.com/wp-content/uploads/2014/10/14258998664_220bda64c4_z.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Sie fliegt von Blüte zu Blüte")
 
-## Weitere Quellen<ul><li> [Wikipedia Honig](http://de.wikipedia.org/wiki/Bienen) </li></ul>
+## Inhaltsverzeichnis "10 Fakten über Veganismus"1. [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+
+1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
+1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
+1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
+1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
+1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
+1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)##
+    Fußnoten-
+    [1][peta - 8 gründe, warum honig nicht vegan ist](http://www.peta.de/honig#.VDzaLr6USmA)
+
+- [2][proplanta.de](http://www.proplanta.de/Agrar-News/Honigproduktion-2013)
+- [3][bee-info.de](http://www.bee-info.de/imker-wissen/massnahmen-gegen-schwaermen.html)
+- [4][projektarchiv ökotrophologie honigmarkt](http://www-proj.loel.hs-anhalt.de/projektarchiv/oekotrophologie/honigmarkt/Interdisziplinaeres_Projekt_Honig.pdf)
+- [5][bienentakt.de](http://www.bienentakt.de/smoker-und-pfeife)
+- [6][wikipedia bestäubung](http://de.wikipedia.org/wiki/Bestäubung)
+- [7][wikipedia varroamilbe](http://de.wikipedia.org/wiki/Varroamilbe)## Weitere
+  Quellen- [Wikipedia Bienen](http://de.wikipedia.org/wiki/Bienen)
+- [Wikipedia Honig](http://de.wikipedia.org/wiki/Honig)
+
+  

@@ -4,11 +4,9 @@ seoTitle: 'Geschenkidee: DIY Badesalz von Naissance - "Soak The Day Away"'
 slug: geschenkidee-badesalz-diy-kit-von-naissance
 link: /2018/12/geschenkidee-badesalz-diy-kit-von-naissance/
 fileName: 2018-12---geschenkidee-badesalz-diy-kit-von-naissance.md
-description:
-  Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen. Eine
-  wunderbare Geschenkidee, die ich sehr empfehlen kann!
-excerpt:
-  Werbung & Affiliate Link - Tipps für Weihnachtsgeschenke hatte ich
+description: Heute möchte ich Euch das Badesalz DIY Kit von Naissance
+  vorstellen. Eine wunderbare Geschenkidee, die ich sehr empfehlen kann!
+excerpt: Werbung & Affiliate Link - Tipps für Weihnachtsgeschenke hatte ich
   versprochen, Tipps für Weihnachtsgeschenke sollt Ihr bekommen. Heute möchte
   ich Euch das Badesalz DIY Kit von Naissance vorstellen.
 focusKeyword: Badesalz
@@ -37,14 +35,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22904"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Soak The Day Away"'
+  
 ---
 
-<em>Werbung &amp; Affiliate Link</em>
+_Werbung &amp; Affiliate Link_
 
-<strong>Tipps für Weihnachtsgeschenke hatte ich versprochen, Tipps für
+**Tipps für Weihnachtsgeschenke hatte ich versprochen, Tipps für
 Weihnachtsgeschenke sollt Ihr bekommen. Heute möchte ich Euch das Badesalz DIY
-Kit von Naissance vorstellen.</strong>
+Kit von Naissance vorstellen.**
 
 Die Produkte von Naissance schätze ich sehr und benutze sie schon lange. Immer
 wieder gibt es vom Naturkosmetik-Hersteller auch richtig schön ausgefallene
@@ -90,7 +91,9 @@ genau richtig. Ich freue mich,
 
 [glry name="2018-12-naissance-diy-badesalz"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+  [Transparenz-Seite](/werbung/). _
+
+  

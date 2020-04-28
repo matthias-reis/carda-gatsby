@@ -4,12 +4,10 @@ seoTitle: Frühling - noch nicht ganz - ein warm-kaltes Gedicht
 slug: fruehling-gedicht
 link: /2019/04/fruehling-gedicht/
 fileName: 2019-04---fruehling.md
-description:
-  Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht vor der
-  Tür und wartet auf Einlass. Wann wird es soweit sein?
-excerpt:
-  Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht vor der
-  Tür und wartet auf Einlass. Wann wird es soweit sein?
+description: Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling
+  steht vor der Tür und wartet auf Einlass. Wann wird es soweit sein?
+excerpt: Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht
+  vor der Tür und wartet auf Einlass. Wann wird es soweit sein?
 focusKeyword: Frühling
 labels:
   - Frühling
@@ -26,7 +24,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23922"
+image: /img/demo.jpg
+errors: []
 subTitle: ... noch nicht ganz
+  
 ---
 
 Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling steht vor der
@@ -45,3 +46,5 @@ den Manteltaschen.
 [glry name="planten-un-blomen-2019-03-31"]
 
 Die Bilder sind am 31. März bei Planten un Blomen in Hamburg entstanden.
+
+  

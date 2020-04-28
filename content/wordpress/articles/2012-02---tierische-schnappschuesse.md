@@ -5,8 +5,7 @@ slug: tierisch
 link: /2012/02/tierisch/
 fileName: 2012-02---tierische-schnappschuesse.md
 description: ""
-excerpt:
-  Tiere haben es einfach drauf - sie zeigen sich immer von ihrer
+excerpt: Tiere haben es einfach drauf - sie zeigen sich immer von ihrer
   Schokoladenseite.
 focusKeyword: ""
 labels:
@@ -25,9 +24,12 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2785"
+image: /img/demo.jpg
+errors: []
 subTitle: Vögel, Säugetiere und Reptilien vor der Linse
+  
 ---
 
-[Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/)
-
 [myflickr tag="zoo20111210"]
+
+  

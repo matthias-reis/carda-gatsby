@@ -5,9 +5,8 @@ slug: istanbul-mit-anderen-augen
 link: /2013/06/istanbul-mit-anderen-augen/
 fileName: 2013-06---istanbul-mit-anderen-augen.md
 description: Die beiden Filmemacherinnen Marie und Caro zeigen uns ihr Istanbul
-excerpt:
-  '"Istanbul mit anderen Augen" ist ein Filmprojekt der beiden Filmemacherinnen
-  Carolin Winterholler und Marie Hartlieb.'
+excerpt: '"Istanbul mit anderen Augen" ist ein Filmprojekt der beiden
+  Filmemacherinnen Carolin Winterholler und Marie Hartlieb.'
 focusKeyword: Istanbul
 labels:
   - Demo
@@ -28,12 +27,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5624"
+image: /img/demo.jpg
+errors: []
 subTitle: Filmprojekt von Carolin Winterholler und Marie Hartlieb
+  
 ---
-
-<strong>Es begann alles damit, dass Caro uns eines Abends in unserer geselligen
-Damenrunde mitteilte, dass Sie nach Bremen gehen und Journalismus studieren
-würde. </strong>
 
 Wir waren traurig, sie für lange Zeit nicht mehr sehen zu können und wünschten
 Ihr alles Glück der Welt und viel Erfolg. Und natürlich waren wir auch
@@ -133,7 +131,7 @@ mit ihnen zu pflegen. Özgür holten sie am Flughafen ab, um die ersten Momente
 auf Istanbuler Boden festzuhalten, Janina trafen sie, nachdem sie sich ca. eine
 Woche lang in Istanbul aufgehalten hatte und Joanna nach ungefähr einem Monat.
 
-![Friedenstaube über dem Bosporus Anne Reko 2010 ](http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490 " [](//2010/01/09/mowen-am-bosporus/)  Friedenstaube über dem Bosporus Anne Reko 2010")
+![Friedenstaube über dem Bosporus Anne Reko 2010 ](http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490 "[ ](//2010/01/09/mowen-am-bosporus/)  Friedenstaube über dem Bosporus Anne Reko 2010")
 
 Danach statteten sie den Dreien in regelmäßigen Abständen Besuche ab und nahmen
 an ihrem täglichen Leben teil. Der gesamte Zeitraum des Films umfasst eine
@@ -213,13 +211,13 @@ Istanbul, auf dem Taksimplatz ist sehr besonders, unreal, positiv. Die Leute
 wissen, dass sie Geschichte schreiben könnten. Ich hoffe, es bleibt friedlich
 und das Volk bleibt weiterhin Seite an Seite."
 
-## Hier noch einige Informationen von Marie, wo man am besten unabhängige Nachrichten lesen kann:</span> [CCN International](http://www.aljazeera.com) <a title="Halte durch Türkei" href="https://www.facebook.com/haltedurchturkei" target="_blank" rel="noopener">Hier eine Facebook-Gruppe zum Thema
-
-</a> [und hier](https://www.facebook.com/geziparkidirenisi?fref=ts)
+## Hier noch einige Informationen von Marie, wo man am besten unabhängige Nachrichten lesen kann: [Alyazeera](http://www.aljazeera.com) [BBC](http://www.bbc.co.uk) [CCN International](http://edition.cnn.com) [Hier eine Facebook-Gruppe zum Thema](https://www.facebook.com/haltedurchturkei) [Hier Maries Favorit](https://www.facebook.com/geziparkidirenisi?fref=ts) ## <span style="color: #000000;">Fotostrecken findet Ihr</span> [hier](http://turkishpolicebrutality.tumblr.com) [und hier](http://occupygezipics.tumblr.com)
 
 Für den Moment werde ich es bei diesem kurzen Anhang zu meinem Artikel belassen,
 aber ich könnt Euch sicher sein: Ich werde auf jeden Fall weiter berichten!
 
-![Istanbul mit andern Augen | full](http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg " [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com) ")
+![Istanbul mit andern Augen | full](http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg "[ ](http://istanbulchangingperspectives.wordpress.com)  [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com)")
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
+
+  

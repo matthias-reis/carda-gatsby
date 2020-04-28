@@ -4,12 +4,10 @@ seoTitle: 1994 war ein musikalisches Jahr - ein ganz besonderer Rückblick
 slug: 1994-musik-veroeffentlichungen
 link: /2019/09/1994-musik-veroeffentlichungen/
 fileName: 2019-09---1994-ein-musikalisches-jahr.md
-description:
-  '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und habe in
-  selbst auch schon das ein oder andere Mal ausgesprochen.'
-excerpt:
-  '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und habe in
-  selbst auch schon das ein oder andere Mal ausgesprochen.'
+description: '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz
+  und habe in selbst auch schon das ein oder andere Mal ausgesprochen.'
+excerpt: '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und
+  habe in selbst auch schon das ein oder andere Mal ausgesprochen.'
 focusKeyword: "1994"
 labels:
   - "1994"
@@ -102,11 +100,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26147"
+image: /img/demo.jpg
+errors: []
 subTitle: Nirvana, Pearl Jam und was noch?
+  
 ---
 
-<strong>"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und
-habe ihn selbst auch schon das ein oder andere Mal ausgesprochen.</strong>
+**"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz und habe ihn
+selbst auch schon das ein oder andere Mal ausgesprochen.**
 
 Warum das so ist? Musikalisch stellt 1994 einen ganz entscheidenden Punkt in der
 Entwicklung dar. Diverse prägende Alben wurden veröffentlicht, ein ganz
@@ -124,17 +125,16 @@ Jahr. Das kann man auch aus vielen Songtexten und Kompositionen heraushören, di
 in diesem Jahr entstanden sind.
 
 Am 5. April ereignete sich eine Tragödie, die Musikfans in tiefe Trauer stürzte:
-Nirvana Sänger <strong>Kurt Cobain</strong> nahm sich mit einer Flinte das
-Leben. Zuvor hatte er eine Überdosis Heroin genommen. Kurts trauriges Ableben
-beendete damit auch den kometenhaften Aufstieg der Band. Seine Frau Courtney
-Love hatte bereits am 3. April eine Vermisstenanzeige aufgegeben, zwei Tage
-darauf fanden Elektriker seinen Leichnam in der Garage des Cobain Anwesens in
-Seattle.
+Nirvana Sänger **Kurt Cobain** nahm sich mit einer Flinte das Leben. Zuvor hatte
+er eine Überdosis Heroin genommen. Kurts trauriges Ableben beendete damit auch
+den kometenhaften Aufstieg der Band. Seine Frau Courtney Love hatte bereits
+am 3. April eine Vermisstenanzeige aufgegeben, zwei Tage darauf fanden
+Elektriker seinen Leichnam in der Garage des Cobain Anwesens in Seattle.
 
 Sein Abschiedsbrief endete mit einem Zitat aus Neil Youngs Song "My My, Hey Hey
 (Out Of The Blue):
 
-<blockquote>"It's better to burn out than to fade away."</blockquote>
+> "It's better to burn out than to fade away."
 
 ## Abschied von Kurt Cobain
 
@@ -146,8 +146,8 @@ Selbstmord noch einem Konzert gewesen. Unsere Infos hatten wir nach und nach aus
 der Bravo sowie aus dem Privatfernsehen zusammengetragen - Internet hatten wir
 ja noch keins.
 
-Das kurz zuvor aufgenommene Nirvana Album "<strong>MTV Unplugged In New
-York</strong>" erschien sieben Monate später und brach die Verkaufsrekorde.
+Das kurz zuvor aufgenommene Nirvana Album " **MTV Unplugged In New York** "
+erschien sieben Monate später und brach die Verkaufsrekorde.
 
 Seattle war 1994 ein musikalisches Zentrum. Neben Nirvana brachte es unter
 anderem Bands wie Pearl Jam, Alice In Chains, Soundgarden, Foo Fighters,
@@ -181,8 +181,8 @@ Brothers Band, Bob Dylan und sogar Greatful Dead und The Band auf die Bühne.
 
 ## Das war 1994 los
 
-Um zu verdeutlichen, <strong>was 1994 los war</strong>, habe ich mir erlaubt,
-eine Veröffentlichungsliste zusammenzustellen. Mit der Auswahl habe ich mich die
+Um zu verdeutlichen, **was 1994 los war** , habe ich mir erlaubt, eine
+Veröffentlichungsliste zusammenzustellen. Mit der Auswahl habe ich mich die
 letzten Tage beschäftigt. Es hat mir sehr großen Spaß gemacht und ich bin dabei
 in meinem Plattenregal wieder auf den ein oder anderen unvergessenen Juwel
 gestoßen. Darum gibt es zu jeder Platte auch ein Video und im Anschluss je eine
@@ -197,7 +197,7 @@ Reise ins Jahr 1994 genießen könnt.
 
 Dieses Album hat mich selbst maßgeblich beeinflusst. "Dookie" ist die dritte
 Platte von Green Day und war die erste, die bei einem Major Label veröffentlicht
-wurde. Nach ihr wurde die Band <em>richtig </em>berühmt. Inzwischen füllen die
+wurde. Nach ihr wurde die Band _richtig_ berühmt. Inzwischen füllen die
 Punkrocker aus den USA seit vielen Jahren regelmäßig Stadien und gehören
 weltweit auf allen großen Festivals zum Inventar. Basket Case hat sich längst zu
 einer Hymne gemausert.
@@ -446,7 +446,7 @@ Band das erste Mal in ihren Bann.
 
 Noch eine Punkband, von der ich um 1994 das erste Mal gehört habe. Noch heute
 ist "Raum der Zeit" vom Album "Uuaarrgh!" ein Song, den ich ab und zu einfach
-hören <em>muss</em>.
+hören _muss_ .
 
 <iframe src="https://www.youtube.com/embed/MElLCXO7NbY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -465,8 +465,8 @@ Ursprung in der Alternative Metal Szene hat.
 
 Metal. Muss auch sein. Gehört zu 1994 nämlich untrennbar dazu. Speziell diese
 Band, die man vermutlich dem Nu-Metal zuordnen kann. Der Name wurde übrigens
-<em>nicht</em> vom Deep Purple Album "Machine Head" ausgeliehen. Noch heute ist
-die Band aus Oakland (Gründung 1991) erfolgreich damit unterwegs.
+_nicht_ vom Deep Purple Album "Machine Head" ausgeliehen. Noch heute ist die
+Band aus Oakland (Gründung 1991) erfolgreich damit unterwegs.
 
 <iframe src="https://www.youtube.com/embed/xv8AbapV5nA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -706,11 +706,12 @@ ist er solo unterwegs. Manchmal wünsche ich mir die gute alte Zeit zurück.
 
 <div style="width: 100%; overflow: scroll;"><iframe src="https://embed.music.apple.com/de/playlist/1994/pl.u-W4ZYIEkXBXN?app=music" width="300" height="380" frameborder="0"></iframe></div>
 
-<strong>Hinweis:</strong> Ja, es stimmt. Ich war 1994 noch <em>etwas</em>
-jünger. Ich habe die hier genannten Platten daher <em>nicht alle </em>schon
-gekannt oder besessen. Zumal damals, was die Musikbeschaffung angeht, auch noch
-andere Zeiten herrschten. Einige habe ich erst später entdeckt. 1994 war dennoch
-ihr Erscheinungsjahr und daher gehören sie hier rein. Es handelt sich bei der
-Liste um meine persönliche Auswahl. Daher besteht kein Anspruch auf
-Vollständigkeit. Falls Ihr noch etwas hinzufügen wollt, könnt Ihr dies gerne in
-den Kommentaren tun. Danke schön!
+**Hinweis:** Ja, es stimmt. Ich war 1994 noch _etwas_ jünger. Ich habe die hier
+genannten Platten daher _nicht alle_ schon gekannt oder besessen. Zumal damals,
+was die Musikbeschaffung angeht, auch noch andere Zeiten herrschten. Einige habe
+ich erst später entdeckt. 1994 war dennoch ihr Erscheinungsjahr und daher
+gehören sie hier rein. Es handelt sich bei der Liste um meine persönliche
+Auswahl. Daher besteht kein Anspruch auf Vollständigkeit. Falls Ihr noch etwas
+hinzufügen wollt, könnt Ihr dies gerne in den Kommentaren tun. Danke schön!
+
+  

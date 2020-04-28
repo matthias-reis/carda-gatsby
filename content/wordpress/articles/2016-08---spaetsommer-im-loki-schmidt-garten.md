@@ -4,12 +4,10 @@ seoTitle: Spätsommer im Hamburger Loki Schmidt Garten
 slug: spaetsommer-loki-schmidt-garten
 link: /2016/08/spaetsommer-loki-schmidt-garten/
 fileName: 2016-08---spaetsommer-im-loki-schmidt-garten.md
-description:
-  Der Spätsommer ist in Hamburg die schönste Jahreszeit. Zeit für einen Ausflug
-  in den Loki Schmidt Garten mit seiner Vielfalt an Pflanzen.
-excerpt:
-  Der Spätsommer ist in Hamburg die schönste Jahreszeit. Zeit für einen Ausflug
-  in den Loki Schmidt Garten mit seiner Vielfalt an Pflanzen.
+description: Der Spätsommer ist in Hamburg die schönste Jahreszeit. Zeit für
+  einen Ausflug in den Loki Schmidt Garten mit seiner Vielfalt an Pflanzen.
+excerpt: Der Spätsommer ist in Hamburg die schönste Jahreszeit. Zeit für einen
+  Ausflug in den Loki Schmidt Garten mit seiner Vielfalt an Pflanzen.
 focusKeyword: Spätsommer
 labels:
   - Blumen
@@ -29,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15135"
+image: /img/demo.jpg
+errors: []
 subTitle: Kakteen, Feigen, Sonne und Wind
+  
 ---
 
-<strong>Wir hatten ganz lieben Besuch vorletztes Wochenende. Der Spätsommer
-zeigte sich von seiner schönsten Seite und wo kann man schöner spazieren gehen,
-als im Loki Schmidt Garten?</strong>
+**Wir hatten ganz lieben Besuch vorletztes Wochenende. Der Spätsommer zeigte
+sich von seiner schönsten Seite und wo kann man schöner spazieren gehen, als im
+Loki Schmidt Garten?**
 
 Zwischen Rosen, Kakteen, Feigen und Sonnenblumen schlenderten wir durch den Tag,
 genossen Kaffee, Kuchen, die Sonne und den Wind. Begegnet sind uns nicht nur ein
@@ -43,10 +44,10 @@ neugierige Karpfen sowie jede Menge Wildbienen, Honigbienen und Hummeln.
 
 ## Spätsommer in Hamburg
 
-Die schönste Jahreszeit in Hamburg ist der <strong>Spätsommer</strong>. Genau
-die richtige Zeit, um Ausflüge zu machen, draußen zu frühstücken, drinnen zu
-schnacken und auch mal die ein oder andere Radtour zu wagen. Von unserer letzen
-erzähle ich Euch im nächsten Beitrag.
+Die schönste Jahreszeit in Hamburg ist der **Spätsommer** . Genau die richtige
+Zeit, um Ausflüge zu machen, draußen zu frühstücken, drinnen zu schnacken und
+auch mal die ein oder andere Radtour zu wagen. Von unserer letzen erzähle ich
+Euch im nächsten Beitrag.
 
 [myflickr tag="annelokischmid082016"]
 
@@ -56,10 +57,10 @@ gemacht.
 
 ## Wegweiser Loki Schmidt Garten
 
-<ol>
-    <li> [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/) </li>
-    <li>Spätsommer</li>
-    <li> [Frühlingsboten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/) </li>
-    <li> [Erster Mai](/2018/05/erster-mai-gegensaetze/) </li>
-    <li> [September](/2019/09/september-im-loki-schmidt-garten/) </li>
-</ol>
+1.  [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/)
+1.  Spätsommer
+1.  [Frühlingsboten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/)
+1.  [Erster Mai](/2018/05/erster-mai-gegensaetze/)
+1.  [September](/2019/09/september-im-loki-schmidt-garten/)
+
+  

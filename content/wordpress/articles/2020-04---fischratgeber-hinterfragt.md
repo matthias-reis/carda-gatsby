@@ -4,12 +4,10 @@ seoTitle: Fischratgeber hinterfragt - Überfischung und Kochrezepte
 slug: fischratgeber-hinterfragt
 link: /2020/04/fischratgeber-hinterfragt/
 fileName: 2020-04---fischratgeber-hinterfragt.md
-description:
-  Die großen Umweltschutzorganisationen veröffentlichen jedes Jahr aufs neue
-  sogenannte Fischratgeber. Ich habe sie kritisch hinterfragt.
-excerpt:
-  Die großen Umweltschutzorganisationen veröffentlichen jedes Jahr aufs neue
-  sogenannte Fischratgeber. Ich habe sie kritisch hinterfragt.
+description: Die großen Umweltschutzorganisationen veröffentlichen jedes Jahr
+  aufs neue sogenannte Fischratgeber. Ich habe sie kritisch hinterfragt.
+excerpt: Die großen Umweltschutzorganisationen veröffentlichen jedes Jahr aufs
+  neue sogenannte Fischratgeber. Ich habe sie kritisch hinterfragt.
 focusKeyword: Fischratgeber
 labels:
   - Fisch
@@ -32,18 +30,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29067"
+image: /img/demo.jpg
+errors: []
 subTitle: Überfischung und Kochrezepte
+  
 ---
 
-<strong>Die Überfischung der Weltmeere ist längst kein Geheimnis mehr. Immer
-mehr Fischarten sterben durch die gnadenlose Ausbeutung ihrer Lebensräume durch
-uns Menschen aus.</strong>
+**Die Überfischung der Weltmeere ist längst kein Geheimnis mehr. Immer mehr
+Fischarten sterben durch die gnadenlose Ausbeutung ihrer Lebensräume durch uns
+Menschen aus.**
 
 Im Jahr essen die Deutschen pro Person 13,7 Kilo Fisch und Fischereierzeugnisse
-[](#1) veröffentlicht, aus dem hervorgeht, welche Fische am schlimmsten von der
-Überfischung betroffen sind. Allerdings wird darin nicht nur zum Verzicht
-aufgerufen, es werden auch uneingeschränkte Verzehrempfehlungen für verschiedene
-Fischarten gegeben.
+[<sup>1</sup>](#1), die Zahlen steigen weiter. Wie in jedem Jahr, hat Greenpeace
+vor Kurzem wieder seinen Fischratgeber [<sup>2</sup>](#2) veröffentlicht, aus
+dem hervorgeht, welche Fische am schlimmsten von der Überfischung betroffen
+sind. Allerdings wird darin nicht nur zum Verzicht aufgerufen, es werden auch
+uneingeschränkte Verzehrempfehlungen für verschiedene Fischarten gegeben.
 
 ## Fischratgeber teilt Fisch in Kategorien ein
 
@@ -118,22 +120,25 @@ von so einer großen Organisation, die sich inzwischen hohem Ansehen erfreut?
 
 Greenpeace Meeres-Expertin Iris Menn sagte gegenüber der Süddeutschen Zeitung:
 
-<blockquote>"Viele Bestände sind überfischt und zahlreiche Fangmethoden verursachen massive Umweltschäden. Wer sich genau informiert, findet noch eine Auswahl, die auf den Teller darf."</blockquote>
+> "Viele Bestände sind überfischt und zahlreiche Fangmethoden verursachen
+> massive Umweltschäden. Wer sich genau informiert, findet noch eine Auswahl,
+> die auf den Teller darf."
 
 Aktivistin Dörte Bremer meinte im Interview mit dem NDR:
 
-<blockquote>"Wir wollen Hilfestellung geben. Dann kann der Konsument entscheiden, kaufe ich den Fisch oder nicht.".</blockquote>
+> "Wir wollen Hilfestellung geben. Dann kann der Konsument entscheiden, kaufe
+> ich den Fisch oder nicht.".
 
-Auch der WWF gibt einen ähnlichen Ratgeber [](#3) heraus. Unterteilt ist er in
-die Kategorien "Empfohlene zertifizierte Produkte (ASC, MSC, BIO-Gütesiegel)",
-"Gute Wahl", "Zweite Wahl" und "Lieber nicht". Insgesamt sind nur 58 Fischarten
-und andere Meeresbewohner mit "lieber nicht" markiert, unter anderem auch die in
-Deutschland besonders beliebten Sardellen und Makrelen, aber auch Haie,
-Tintenfische und Garnelen. Auch Heringe standen vor einigen Jahren noch auf der
-roten Liste. Inzwischen können sie angeblich wieder bedenkenlos verzehrt werden.
-Was ich persönlich von Seiten einer Natur- und Tierschutzorganisation schon fast
-makaber finde, ist dass auf der Webseite des WWF sogar Fischrezepte zu finden
-sind.
+Auch der WWF gibt einen ähnlichen Ratgeber [<sup>2</sup>](#3) heraus. Unterteilt
+ist er in die Kategorien "Empfohlene zertifizierte Produkte (ASC, MSC,
+BIO-Gütesiegel)", "Gute Wahl", "Zweite Wahl" und "Lieber nicht". Insgesamt sind
+nur 58 Fischarten und andere Meeresbewohner mit "lieber nicht" markiert, unter
+anderem auch die in Deutschland besonders beliebten Sardellen und Makrelen, aber
+auch Haie, Tintenfische und Garnelen. Auch Heringe standen vor einigen Jahren
+noch auf der roten Liste. Inzwischen können sie angeblich wieder bedenkenlos
+verzehrt werden. Was ich persönlich von Seiten einer Natur- und
+Tierschutzorganisation schon fast makaber finde, ist dass auf der Webseite des
+WWF sogar Fischrezepte zu finden sind.
 
 ## Zucht ist nicht die Lösung
 
@@ -159,11 +164,11 @@ veröffentlichten Listen.
 
 ## Umleitung des Konsums
 
-Bei der Albert Schweitzer Stiftung [](#4) spricht man von einer Umleitung des
-Konsums der Verbraucher von den 85 Prozent der überfischten beziehungsweise
-bedrohten Fischbestände zu den verbleibenden 15 Prozent. Das ist leider wahr und
-eine Konzentration auf die letzten, bis jetzt nicht von der Überfischung
-betroffenen Fische hätte eine verheerende Wirkung.
+Bei der Albert Schweitzer Stiftung [<sup>4</sup>](#4) spricht man von einer
+Umleitung des Konsums der Verbraucher von den 85 Prozent der überfischten
+beziehungsweise bedrohten Fischbestände zu den verbleibenden 15 Prozent. Das ist
+leider wahr und eine Konzentration auf die letzten, bis jetzt nicht von der
+Überfischung betroffenen Fische hätte eine verheerende Wirkung.
 
 Zum Widerspruch um Fischratgeber, Listen und Fangquoten kommt die erschreckende
 Tatsache hinzu, dass viele Millionen Tonnen Fisch auf hoher See entsorgt werden
@@ -182,14 +187,20 @@ Kulke rät jedoch zu veganen Alternativen.
 
 ![Fischratgeber](http://cardamonchai.com/wp-content/uploads/2020/04/2018-11-00-aegypten-unterwasserwelt-106-400x300.jpg "Barsche im Roten Meer")
 
-<blockquote>"Im Fisch stecken zahlreiche Schadstoffe. Sie sind deshalb so gefährlich, weil sie nicht oder nur sehr langsam abgebaut werden können. Sie reichern sich im Körper in hohem Maße an und sind toxisch. Die Anreicherung ist bei räuberischen Arten wie Lachs, Hai und Thunfisch besonders stark."</blockquote>
+> "Im Fisch stecken zahlreiche Schadstoffe. Sie sind deshalb so gefährlich, weil
+> sie nicht oder nur sehr langsam abgebaut werden können. Sie reichern sich im
+> Körper in hohem Maße an und sind toxisch. Die Anreicherung ist bei
+> räuberischen Arten wie Lachs, Hai und Thunfisch besonders stark."
 
 ## Fische sterben qualvoll
 
 Die Verhaltensforscherin und wissenschaftliche Koordinatoren der FishEthnoBase
-[](#5) Dr. Jenny Volstorf gibt einen weiteren Denkanstoß.
+[<sup>5</sup>](#5) Dr. Jenny Volstorf gibt einen weiteren Denkanstoß.
 
-<blockquote>"Fische haben unterschiedliche Persönlichkeiten. Sie lernen, planen, kooperieren und können Freude und Schmerz empfinden. Sie werden in den Fangnetzen zerquetscht und sterben langsam und qualvoll durch Ersticken. Wir können dieses millionenfache Leid vermeiden."</blockquote>
+> "Fische haben unterschiedliche Persönlichkeiten. Sie lernen, planen,
+> kooperieren und können Freude und Schmerz empfinden. Sie werden in den
+> Fangnetzen zerquetscht und sterben langsam und qualvoll durch Ersticken. Wir
+> können dieses millionenfache Leid vermeiden."
 
 Die Forscherin Lynne Sneddon von der Universität Liverpool fand gemeinsam mit
 ihrem Team bei der Regenbogenforelle vergleichbare Hirnstrukturen wie beim
@@ -217,15 +228,16 @@ Silberfischstäbchen zu servieren, ein bisschen schmunzeln, wenn das Thema nicht
 so unglaublich traurig wäre.
 
 Fische sind Lebewesen genau wie Hunde, Katzen,
-[Kühe](/2019/08/das-gluecksferkel-von-hof-butenland/). Sie können Schmerzen und
-Angst empfinden und haben ein Recht auf ihr Leben. Genau wie wir.
+[Schweine](/2019/08/das-gluecksferkel-von-hof-butenland/) und
+[Kühe](/2014/09/pflanzenmilch-wieso-denn-blos/). Sie können Schmerzen und Angst
+empfinden und haben ein Recht auf ihr Leben. Genau wie wir.
 
 ## Fußnoten
 
-<ol>
-    <li id="fn1-9217"> [Statistik zum Fischkonsum in Deutschland](https://de.statista.com/statistik/daten/studie/1905/umfrage/entwicklung-des-pro-kopf-verbrauchs-an-fisch-in-deutschland/) </li>
-    <li id="fn2-9217"> [Greenpeace Fischratgeber](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20160120_greenpeace_fischratgeber_2016_0.pdf) </li>
-    <li id="fn3-9217"> [WWF Fischratgeber](https://fischratgeber.wwf.at/) </li>
-    <li id="fn4-9217"> [Beitrag der Albert Schweizer Stiftung zum Thema Fischratgeber 2013](https://albert-schweitzer-stiftung.de/aktuell/wwf-fischratgeber-2012) </li>
-    <li id="fn5-9217"> [FishEthnoBase](http://fishethobase.net/) </li>
-</ol>
+1.  [Statistik zum Fischkonsum in Deutschland](https://de.statista.com/statistik/daten/studie/1905/umfrage/entwicklung-des-pro-kopf-verbrauchs-an-fisch-in-deutschland/)
+1.  [Greenpeace Fischratgeber](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20160120_greenpeace_fischratgeber_2016_0.pdf)
+1.  [WWF Fischratgeber](https://fischratgeber.wwf.at/)
+1.  [Beitrag der Albert Schweizer Stiftung zum Thema Fischratgeber 2013](https://albert-schweitzer-stiftung.de/aktuell/wwf-fischratgeber-2012)
+1.  [FishEthnoBase](http://fishethobase.net/)
+
+  

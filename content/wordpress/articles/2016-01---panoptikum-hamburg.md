@@ -4,12 +4,12 @@ seoTitle: Das Panoptikum - Deutschlands ältestes Wachsfigurenkabinett
 slug: wachsfiguren-in-hamburg
 link: /2016/01/wachsfiguren-in-hamburg/
 fileName: 2016-01---panoptikum-hamburg.md
-description:
-  Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In Deutschlands
-  ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles fotografiert.
-excerpt:
-  Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In Deutschlands
-  ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles fotografiert.
+description: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In
+  Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles
+  fotografiert.
+excerpt: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In
+  Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles
+  fotografiert.
 focusKeyword: Panoptikum
 labels:
   - Ausflug
@@ -27,14 +27,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13709"
+image: /img/demo.jpg
+errors: []
 subTitle: Deutschlands ältestes Wachsfigurenkabinett
+  
 ---
 
 ![Fotorunde im Panoptikum in Hamburg](http://cardamonchai.com/wp-content/uploads/2016/01/24228465322_9e793a5ea7_z.jpg "Fotorunde im Panoptikum in Hamburg")
 
-<strong>Seit über 130 Jahren gibt es in St. Pauli etwas ganz Besonderes: Das
+**Seit über 130 Jahren gibt es in St. Pauli etwas ganz Besonderes: Das
 Panoptikum stellt Künstler, Politiker, Wissenschaftler und andere interessante
-Persönlichkeiten als Wachspuppen aus.</strong>
+Persönlichkeiten als Wachspuppen aus.**
 
 Ganz ähnlich wie bei [Madame Tussauds](/2014/04/st-patricks-day-in-london/) in
 London sind die Figuren nach Themen sortiert. Beim Rundgang durch das
@@ -55,3 +58,5 @@ Originale, das Wunderland der Berühmtheiten!
 [myflickr tag="annepanotikum2016"]
 
 &nbsp;
+
+  

@@ -4,12 +4,10 @@ seoTitle: Burg Herzberg Festival T-Shirt Verlosung
 slug: achtung-verlosungs-update
 link: /2012/08/achtung-verlosungs-update/
 fileName: 2012-08---achtung-verlosungs-update.md
-description:
-  Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine Verlosung, bei
-  der es tolle Sachen zu Gewinnen gibt.
-excerpt:
-  Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine Verlosung, bei
-  der es tolle Sachen zu Gewinnen gibt.
+description: Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine
+  Verlosung, bei der es tolle Sachen zu Gewinnen gibt.
+excerpt: Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine
+  Verlosung, bei der es tolle Sachen zu Gewinnen gibt.
 focusKeyword: ""
 labels:
   - Burg Herzberg Festival
@@ -40,22 +38,28 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11800"
+image: /img/demo.jpg
+errors: []
 subTitle: Offizielles Burg Herzberg Festival T-Shirt zu gewinnen!
+  
 ---
-
-<hr /><strong>Hinweis: </strong>Die Aktion ist beendet.  [Bestimmt findet bald wieder eine tolle Verlosung im Blog statt](/tag/verlosung/).
 
 <hr />
 
 Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine
 [Verlosung](//?s=verlosung), bei der es tolle Sachen zu Gewinnen gibt.
 
-<ol><li><strong>Vinyl</strong></li><li><strong>CD</strong></li><li><strong>T-Shirt</strong></li></ol>
+1.  **Vinyl**
+1.  **CD**
+1.  **T-Shirt**
 
 Alle Gewinne werden von
-[&gt;HIER UNTER DIESEM LINK&lt;](https://www.facebook.com/marleen.schallplatten).
+[Marleen](https://www.facebook.com/marleen.schallplatten), dem Plattenladen
+meines Vertrauens zur Verfügung gestellt. Es handelt sich dabei um wirklich
+heiße, ausgewählte Teile. Das komplette [Gewinnspiel](//?s=verlosung) findet Ihr
+[&gt;HIER UNTER DIESEM LINK&lt;](//?s=verlosung).
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg " [](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg)  Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!")
+![ | full](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg "[ ](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg)  Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!")
 
 Nun gibt es etwas Tolles zu Berichten: Gunter vom
 [Herzberg-Festival-Veranstaltungsteam](http://www.burgherzberg-festival.de/)
@@ -69,17 +73,20 @@ glücklichen Gewinner/in in seiner persönlichen Konfektionsgröße zugestellt.
 Ich freue mich natürlich sehr, wenn Ihr das auch weitersagt, Ihr dürft meinen
 Artikel gerne rebloggen oder auf Facebook oder Twitter teilen.
 
-<strong>♥lichen Dank für die Aufmerksamkeit und viel Glück! Hier nochmal die
-Regeln des Gewinnspiels:</strong><ul><li>Sendet <strong>bis zum 30. September
-2012</strong> eine E-Mail mit dem Foto Eures Lieblings-T-Shirts unter dem
-<strong>Betreff 'T-Shirt-Idee'</strong> an
-<strong>info@cardamonchai.com</strong>. Natürlich sind auch Sweater oder Blusen
-erlaubt.</li><li>Die Gewinner werden von einer neutralen Person gezogen und per
-E-Mail über ihren Gewinn benachrichtigt.</li><li>Die Gewinne werden per Post
-versendet.</li><li>Der Rechtsweg ist ausgeschlossen.</li></ul>
+**♥lichen Dank für die Aufmerksamkeit und viel Glück! Hier nochmal die Regeln
+des Gewinnspiels:** - Sendet **bis zum 30. September 2012** eine E-Mail mit dem
+Foto Eures Lieblings-T-Shirts unter dem **Betreff 'T-Shirt-Idee'** an
+**info@cardamonchai.com** . Natürlich sind auch Sweater oder Blusen erlaubt.
+
+- Die Gewinner werden von einer neutralen Person gezogen und per E-Mail über
+  ihren Gewinn benachrichtigt.
+- Die Gewinne werden per Post versendet.
+- Der Rechtsweg ist ausgeschlossen.
 
 Das komplette Gewinnspiel findet Ihr [HIER UNTER DIESEM LINK](//?s=verlosung)
 
 ♥Make love Work♥
 
 ![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/08/Herzberg-Flyer-640x897.jpg)
+
+  

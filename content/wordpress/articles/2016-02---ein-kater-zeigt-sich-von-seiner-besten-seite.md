@@ -4,12 +4,10 @@ seoTitle: Kater Chili zeigt sich von seiner besten Seite - Fotogalerie
 slug: kater-chili-zeigt-sich-von-seiner-besten-seite
 link: /2016/02/kater-chili-zeigt-sich-von-seiner-besten-seite/
 fileName: 2016-02---ein-kater-zeigt-sich-von-seiner-besten-seite.md
-description:
-  Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch heute mal
-  wieder ein paar richtig schöne Katzenbilder.
-excerpt:
-  Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch heute mal
-  wieder ein paar richtig schöne Katzenbilder.
+description: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch
+  heute mal wieder ein paar richtig schöne Katzenbilder.
+excerpt: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch
+  heute mal wieder ein paar richtig schöne Katzenbilder.
 focusKeyword: Kater
 labels:
   - cat
@@ -25,14 +23,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13902"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (37:48)"
 subTitle: Chili posiert im Lampenlicht
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (37:48)
+
+<!--
 ![Kater Chili im Licht](http://cardamonchai.com/wp-content/uploads/2016/02/24601796815_b2a80497df_z-640x427.jpg "Kater Chili im Licht")
 
-<strong>Nach meiner [letzten Bildegalerie](/2015/12/stubentiger/) von meinen
-beiden Katern Oskar und Chili vor ein paar Wochen, habe ich gleich ein paar
-Nachrichten von Euch bekommen.</strong>
+**Nach meiner [letzten Bildegalerie](/2015/12/stubentiger/) von meinen beiden
+Katern Oskar und Chili vor ein paar Wochen, habe ich gleich ein paar Nachrichten
+von Euch bekommen.**
 
 Dem Wunsch, ich soll doch häufiger mal ein paar Bilder von den beiden zeigen,
 komme ich jetzt nach.
@@ -80,8 +86,8 @@ ruft: "Ein Glück, sie tanzen noch!"
 
 Das nächste Mal zeigt sich dann auch Kater Oskar wieder...
 
-<a style="text-align: center; display: block; border: 1px solid #f7b; background: #fff0f8; border-radius: 7px; padding: 15px; text-decoration: none;" href="/2012/08/ode-an-den-kater/" target="_blank"><span style="border-bottom: 1px solid #f7b; display: block; color: #f7b; font-weight: bold; font-size: 16px; margin-bottom: 5px;">Hier
-gehts zur "ODE AN DEN KATER"
-</span><span style="color: #888; display: block; font-size: 12px; font-weight: bold;">Ein
-Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden
-tollsten Katern auf der Welt </span></a>
+[Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
+
+-->
+
+  

@@ -4,12 +4,10 @@ seoTitle: Schrobenhausen - Lenbachstadt im Spargelland
 slug: schrobenhausen-die-lenbachstadt-im-spargelland
 link: /2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/
 fileName: 2009-07---schrobenhausen.md
-description:
-  Durch das heutige Stadtgebiet von Schrobenhausen verlief die römische Straße
-  Augsburg - Regensburg.
-excerpt:
-  Durch das heutige Stadtgebiet von Schrobenhausen verlief die römische Straße
-  Augsburg - Regensburg.
+description: Durch das heutige Stadtgebiet von Schrobenhausen verlief die
+  römische Straße Augsburg - Regensburg.
+excerpt: Durch das heutige Stadtgebiet von Schrobenhausen verlief die römische
+  Straße Augsburg - Regensburg.
 focusKeyword: Schrobenhausen
 labels:
   - Ausflug
@@ -26,12 +24,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11408"
+image: /img/demo.jpg
+errors: []
 subTitle: Lenbachstadt im Spargelland
+  
 ---
-
-![Schrobenhausen](http://cardamonchai.com/wp-content/uploads/2009/07/11531813074_d4ab25b762_z-640x427.jpg)
-
-<p id="articleContent"><strong>Durch das heutige Stadtgebiet von Schrobenhausen verlief die römische Straße Augsburg - Regensburg. Bodendenkmale und Funde aus Bronzezeit, Hallstattzeit und der keltischen Epoche lassen auf die Besiedlung durch Weidebauern und auf Nomadenstämme schließen.</strong></p><strong>Der Name "Scropinhusen" tauchte während der Amtszeit des Freisinger Bischofs Atto (783-811) das erste Mal in Schenkungsbüchern der Freisinger Marienkirche auf.
 
 Aus späteren Schenkungsurkunden geht hervor, daß es in Schrobenhausen 888 eine
 kleine Pfarrkirche, sowie ein Herrenhaus und einen Getreidespeicher gab. Im 10.
@@ -50,7 +47,7 @@ errichten.
 
 ![Schrobenhausen](http://cardamonchai.com/wp-content/uploads/2009/07/11531862523_0c2c9a5e87_z-640x427.jpg)
 
-## Erneut vollständige Zerstörung 1388<a href="http://cardamonchai.com/wp-content/uploads/2009/07/11531862523_0c2c9a5e87_z.jpg">1388 wurde Schrobenhausen erneut vollständig zerstört, als Augsburgs Truppen im Bayerischen Städtekrieg in die Gemeinde einfielen. Schrobenhausen wurde von Herzog Ludwig im Bart beim Wiederaufbau durch Steuerfreiheit und Bauholz unterstützt. Damals wurde auch die Stadterweiterung Richtung Nordosten und Nordwesten vorgenommen, der bis heute erhaltene Stadtgrundriss wurde geschaffen. Die neue Wehranlage ist teilweise heute noch erhalten. Sie wurde aus gebrannten Ziegeln erreichtet. Im wiederaufgebauten Rathaus befinden sich die Schranne und Verkaufsräume für Brot und Fleisch.
+## Erneut vollständige Zerstörung 1388 [](/wp-content/uploads/2009/07/11531862523_0c2c9a5e87_z.jpg) 1388 wurde Schrobenhausen erneut vollständig zerstört, als Augsburgs Truppen im Bayerischen Städtekrieg in die Gemeinde einfielen. Schrobenhausen wurde von Herzog Ludwig im Bart beim Wiederaufbau durch Steuerfreiheit und Bauholz unterstützt. Damals wurde auch die Stadterweiterung Richtung Nordosten und Nordwesten vorgenommen, der bis heute erhaltene Stadtgrundriss wurde geschaffen. Die neue Wehranlage ist teilweise heute noch erhalten. Sie wurde aus gebrannten Ziegeln erreichtet. Im wiederaufgebauten Rathaus befinden sich die Schranne und Verkaufsräume für Brot und Fleisch.
 
 Eine Blütezeit hatte Schrobenhausen im 15. Jahrhundert, damals wurden unter
 anderem drei Kirchen gebaut, die Vorstadtkirche "St. Salvator", die Kirche "Zur
@@ -111,10 +108,19 @@ Frankreich und Perg in Österreich.
 Eine Fotogalerie mit Bildern aus Schrobenhausen folgt, ich werde demnächst vor
 Ort sein und sicher auch einige Aufnahmen machen.
 
-<em>\*Schranne = Getreidemarkt, Getreidespeicher, Versorgungsstelle für die
-Bürger mit Gütern des täglichen
-Bedarfs.</em><strong>Quellenverzeichnis:</strong> [/](http://www.wikipedia.de/)
-</span>
+_\*Schranne = Getreidemarkt, Getreidespeicher, Versorgungsstelle für die Bürger
+mit Gütern des täglichen Bedarfs._ **Quellenverzeichnis:**
+[http://www.wikipedia.de/](http://www.wikipedia.de/)
+[http://www.schrobenhausen.de/](http://www.schrobenhausen.de/)
+[http://de.wikipedia.org/wiki/Schrobenhausen](http://de.wikipedia.org/wiki/Schrobenhausen)
+[http://de.wikipedia.org/wiki/Lenbach](http://de.wikipedia.org/wiki/Lenbach)
+**Wer mehr über die Stadt Schrobenhausen erfahren möchte:**
+[http://www.schrobenhausen.de/](http://www.schrobenhausen.de/) **Informationen
+zum Maler Lenbach:**
+[http://de.wikipedia.org/wiki/Lenbach](http://de.wikipedia.org/wiki/Lenbach)
+**Zum Thema Spargel:** [http://www.spargel.de](http://www.spargel.de/)
+[/](http://www.spargel.de/)
 
-[myflickr
-tag="anneschrobenhausen2009"]<span style="text-decoration: underline;"></span>
+[myflickr tag="anneschrobenhausen2009"]
+
+  

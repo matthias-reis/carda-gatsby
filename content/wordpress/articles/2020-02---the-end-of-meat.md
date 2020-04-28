@@ -4,12 +4,11 @@ seoTitle: '"The End Of Meat" - eine Welt ohne Fleisch - Filmtipp'
 slug: the-end-of-meat
 link: /2020/02/the-end-of-meat/
 fileName: 2020-02---the-end-of-meat.md
-description:
-  '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen kann.
-  Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.'
-excerpt:
-  '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen kann.
-  Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.'
+description: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr
+  empfehlen kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise
+  nominiert.'
+excerpt: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen
+  kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.'
 focusKeyword: The End Of Meat
 labels:
   - Bücher & Filme
@@ -29,11 +28,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27574"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine Welt ohne Fleisch
+  
 ---
 
-<strong>"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen
-kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.</strong>
+**"The End Of Meat" ist ein Film, den ich Euch wirklich sehr empfehlen kann. Das
+Werk wurde nicht ohne Grund für zahlreiche Preise nominiert.**
 
 Wenn Ihr schon immer wissen wolltet, wie eine Welt ohne den Genuss von
 Lebensmitteln tierischer Herkunft aussehen würde und was eigentlich mit den
@@ -67,7 +69,9 @@ Freiheit erleben dürfen, besonders bewegend.
 
 Der Fernsehsender 3Sat hat zum Film eine klare Meinung:
 
-<blockquote>"'The End of Meat' kommt ohne erhobenen Zeigefinger aus und stellt auf beeindruckende und unterhaltsame Weise dar, wie unklug und grausam unser Fleischkonsum ist."</blockquote>
+> "'The End of Meat' kommt ohne erhobenen Zeigefinger aus und stellt auf
+> beeindruckende und unterhaltsame Weise dar, wie unklug und grausam unser
+> Fleischkonsum ist."
 
 Die größte Herausforderung, der sich Pierschel und sein Team beim Dreh des Films
 stellen mussten, war das schmale Budget. Nur mit Hilfe von Crowdfunding war es
@@ -89,3 +93,5 @@ nichts mehr verpassen möchtet,
 einmal wöchentlich über neue Beiträge.
 
 Bilder: [The End Of Meat](http://www.theendofmeat.com/presse.html)
+
+  

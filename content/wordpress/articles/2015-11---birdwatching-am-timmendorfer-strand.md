@@ -4,13 +4,12 @@ seoTitle: Birdwatching am Timmendorfer Strand
 slug: birdwatching-am-timmendorfer-strand
 link: /2015/11/birdwatching-am-timmendorfer-strand/
 fileName: 2015-11---birdwatching-am-timmendorfer-strand.md
-description:
-  Bei strahlendem Sonnenschein sind uns gestern am Timmendorfer Strand unter
-  anderem Kormorane und verschiedene Möwen begegnet. Hier sind meine Bilder.
-excerpt:
-  Der Timmendorfer Strand ist berühmt für seinen feinen Sand und die zahlreichen
-  Seevögel, die man dort beobachten kann. Nicht nur deshalb ist er als
-  Ausflugsziel besonders beliebt.
+description: Bei strahlendem Sonnenschein sind uns gestern am Timmendorfer
+  Strand unter anderem Kormorane und verschiedene Möwen begegnet. Hier sind
+  meine Bilder.
+excerpt: Der Timmendorfer Strand ist berühmt für seinen feinen Sand und die
+  zahlreichen Seevögel, die man dort beobachten kann. Nicht nur deshalb ist er
+  als Ausflugsziel besonders beliebt.
 focusKeyword: Timmendorfer Strand
 labels:
   - Ausflug
@@ -32,12 +31,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13049"
+image: /img/demo.jpg
+errors: []
 subTitle: Sonne am 1. November
+  
 ---
-
-<strong>Der Timmendorfer Strand ist berühmt für seinen feinen Sand und die
-zahlreichen Seevögel, die man dort beobachten kann. Nicht nur deshalb ist er als
-Ausflugsziel besonders beliebt.</strong>
 
 Da es mal wieder Zeit für etwas Seeluft wurde und wir Lust hatten, Fotos zu
 machen, haben wir den wunderbar sonnigen 1. November für einen kleinen Ausflug
@@ -56,4 +54,17 @@ sogar vor die Linse gelaufen.
 Ihr interessiert Euch auch für Fotos von der Nordsee?
 [Hier geht's nach St. Peter-Ording](/2015/08/st-peter-ording/).
 
-## Wegweiser Möwen<ol><li> [Birds of Westport](/2010/01/moewen-am-bosporus/) </li></ol>
+## Wegweiser Möwen1. [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
+
+1.  [Zurück nach St. Peter-Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
+1.  [St. Peter-Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
+1.  Birdwatching am Timmendorfer Strand (November 2015)
+1.  [Die Möwe, Kiel (November 2015)](/2015/11/die-moewe/)
+1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
+1.  [Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
+1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/)
+1.  [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/)
+1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
+1.  [Birds of Westport](/2018/05/birds-of-westport/)
+
+  

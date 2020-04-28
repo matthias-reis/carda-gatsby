@@ -4,12 +4,10 @@ seoTitle: YOLO - You only live once
 slug: yolo-you-only-live-once
 link: /2015/04/yolo-you-only-live-once/
 fileName: 2015-04---yolo-you-only-live-once.md
-description:
-  YOLO - You only live once - Wo kommt dieser Ausdruck eigentlich her? Und was
-  bedeutet er genau? Ich habe das mal aufgeschrieben...
-excerpt:
-  "Ärgert Ihr Euch immer wieder darüber, dass Ihr einfach viel zu vernünftige
-  Entscheidungen trefft? Ich habe da einen Tipp für Euch: #YOLO!"
+description: YOLO - You only live once - Wo kommt dieser Ausdruck eigentlich
+  her? Und was bedeutet er genau? Ich habe das mal aufgeschrieben...
+excerpt: "Ärgert Ihr Euch immer wieder darüber, dass Ihr einfach viel zu
+  vernünftige Entscheidungen trefft? Ich habe da einen Tipp für Euch: #YOLO!"
 focusKeyword: YOLO
 labels:
   - Internet
@@ -30,12 +28,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11898"
+image: /img/demo.jpg
+errors: []
 subTitle: Einfach nicht lange überlegen!
+  
 ---
-
-![YOLO - You only live once](http://cardamonchai.com/wp-content/uploads/2015/04/52e.jpg)
-
-<strong>
 
 Man liest das ja immer wieder. Hipster haben es auf ihren Jutebeuteln und
 Unterhemdchen stehen, Instagram-Bilder sind damit getaggt und von den Kids an
@@ -78,14 +75,14 @@ machen will. "Ich brauche meinen Namen nicht darunterzuschreiben. Ihr könnt es
 ruhig alle verwenden. #YOLO gehört uns allen"! Dieser Satz gilt natürlich weder
 für meine Texte noch für meine Fotos, ich bin und bleibe altmodisch. :-P
 
-<blockquote>"Life is what happens to you while you are buisy making other plans" -
-"Das Leben ist das, was passiert, während du drüber nachdenkst!"</blockquote>
+> "Life is what happens to you while you are buisy making other plans" - "Das
+> Leben ist das, was passiert, während du drüber nachdenkst!"
 
 John Lennon wollte damit wohl das Gleich aussagen. #YOLO ist also in
 Wirklichkeit gar nichts so Neues. Und es reicht noch viel weiter zurück, den
 schon der römische Kaiser wusste, dass
 
-<blockquote>"Carpe Diem" - "Genieße den Tag"</blockquote>
+> "Carpe Diem" - "Genieße den Tag"
 
 wichtig ist für ein glückliches Leben.
 
@@ -97,7 +94,8 @@ Denn, hey: #YOLO!
 
 Und gerade weil #YOLO so unvernünftig klingt,
 
-<blockquote>"eine abgehakte Abkürzung aus dem Internet, ich bitte Euch, das darf doch nicht in den Duden!"</blockquote>
+> "eine abgehakte Abkürzung aus dem Internet, ich bitte Euch, das darf doch
+> nicht in den Duden!"
 
 ist es so toll. Es muss so sein, denn nur so wie es ist, kann es auch etwas
 bewirken.
@@ -121,11 +119,14 @@ passiert, ich kann mich auch noch gut an diverse #YOLO-behashtaggte Lolcats
 erinnern. Aber was interessieren uns Jahreszahlen? You only live once! Und jetzt
 raus in die Sonne!
 
-## Spendenkonto der Nothilfe</strong>
+## Aus gegebenem Anlass an dieser Stelle ein wichtiger Aufruf! **Bitte spendet zahlreich für Nepal. Den Leuten dort geht es wirklich schlecht, es wird jeder Cent gebraucht. Wir müssen im Heute leben und auch, wenn dafür irgendeine Rechnung bis nächsten Monat warten muss, die Hilfe ist wichtig und wird SOFORT gebraucht!** ## **Spendenkonto der Nothilfe**
 
 Empfänger ADH &amp; BEH Commerzbank IBAN DE53 200 400 600 200 400 600 Stichwort
 ARD: "Erdbeben Nepal" BIC COBADEFFXXX www.spendenkonto-nothilfe.de
 
-<small><strong>Interessantes:</strong> YOLO bei
+<small> **Interessantes:** YOLO bei
 [Wikipedia](http://de.wikipedia.org/wiki/YOLO) Carpe Diem bei
-[](http://de.wikipedia.org/wiki/Carpe_diem)
+[Wikipedia](http://de.wikipedia.org/wiki/Carpe_diem) </small>
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

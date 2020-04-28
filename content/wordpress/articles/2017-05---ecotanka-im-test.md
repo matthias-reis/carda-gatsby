@@ -4,12 +4,11 @@ seoTitle: Ecotanka Trinkflasche aus Edelstahl - Mein Testbericht
 slug: ecotanka-mein-testbericht
 link: /2017/05/ecotanka-mein-testbericht/
 fileName: 2017-05---ecotanka-im-test.md
-description:
-  Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen, als geplant.
-  Statt Lauftraining, Wandern und Radtour gab es Matratzenhoch-Sport.
-excerpt:
-  Werbung - Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen,
+description: Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen,
   als geplant. Statt Lauftraining, Wandern und Radtour gab es
+  Matratzenhoch-Sport.
+excerpt: Werbung - Mein Test der Ecotanka Trinkflasche ist etwas anders
+  ausgefallen, als geplant. Statt Lauftraining, Wandern und Radtour gab es
   Matratzenhoch-Sport.
 focusKeyword: Ecotanka
 labels:
@@ -38,14 +37,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16612"
+image: /img/demo.jpg
+errors: []
 subTitle: Im Bett mit einer Flasche
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
 ![Ecotanka](http://cardamonchai.com/wp-content/uploads/2017/05/34514372262_29e6404b46_k-640x960.jpg)
 
-<strong>
+**Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen, als geplant.
+Ich hoffe, dass mein Bericht dennoch kurzweilig ist. Alle Infos, die Ihr
+braucht, findet Ihr schon mal darin.**
 
 Ursprünglich hatte ich vorgehabt, sie zu einer Wanderung mitzunehmen. Leider bin
 ich unerwartet krank geworden und daraus wurde nichts. Weil ich zu Bettruhe
@@ -76,13 +80,12 @@ Silberfarn-Aufdruck.
 
 Alle Flaschen aus dem Hause Ecotanka sind
 
-<ul>
-    <li>Ökologisch und langlebig,</li>
-    <li>Frei von BPA, Antimon (Sb), DEHA, DEHP und Phthalate,</li>
-    <li>hygienisch und geruchsneutral,</li>
-    <li>aus Edelstahl (304) und</li>
-    <li>ultraleicht (Die Ecotanka mit 800 ml Fassungsvermögen wiegt gerade mal 200 Gramm)</li>
-</ul>
+- Ökologisch und langlebig,
+- Frei von BPA, Antimon (Sb), DEHA, DEHP und Phthalate,
+- hygienisch und geruchsneutral,
+- aus Edelstahl (304) und
+- ultraleicht (Die Ecotanka mit 800 ml Fassungsvermögen wiegt gerade mal 200
+  Gramm)
 
 Da ich unterwegs immer mein Hamburger Leitungswasser dabei habe und lieber meine
 Flasche auffülle, als mir eine aus Plastik irgendwo am Kiosk zu kaufen, habe ich
@@ -131,6 +134,8 @@ denke, man kann sie trotzdem schön sehen.
 
 Im Netz findet Ihr Ecotanka [hier](https://www.ecotanka.eu/).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,13 +4,12 @@ seoTitle: happybrush - Der ultimative Produkttest - Meine neue Schallzahnbürste
 slug: happybrush-der-ultimative-produkttest
 link: /2017/08/happybrush-der-ultimative-produkttest/
 fileName: 2017-08---happybrush-im-test.md
-description:
-  Heute möchte ich mit Euch meine Erfahrungen mit der happybrush teilen. Bilder
-  vom Unboxing sowie einen umfassenden Testbericht gibt es natürlich auch.
-excerpt:
-  Werbung  & Affiliate Link - Heute möchte ich mit Euch meine Erfahrungen mit
-  der happybrush teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht
-  gibt es natürlich auch.
+description: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush
+  teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es
+  natürlich auch.
+excerpt: Werbung  & Affiliate Link - Heute möchte ich mit Euch meine Erfahrungen
+  mit der happybrush teilen. Bilder vom Unboxing sowie einen umfassenden
+  Testbericht gibt es natürlich auch.
 focusKeyword: happybrush
 labels:
   - crueltyfree
@@ -36,15 +35,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17484"
+image: /img/demo.jpg
+errors: []
 subTitle: Schallzahnbürste unter der Lupe
+  
 ---
 
-<em>Werbung &amp; Affiliate Link\*</em>
+_Werbung &amp; Affiliate Link\*_
 
-<strong>Weil ich so gerne [Produkte teste](/category/vegan-2/produkte/) und Ihr
-meine Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch
-diesen Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die
-Schallzahnbürste samt Zahncreme aus dem Hause Happybrush.</strong>
+**Weil ich so gerne [Produkte teste](/category/vegan-2/produkte/) und Ihr meine
+Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch diesen
+Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die Schallzahnbürste
+samt Zahncreme aus dem Hause Happybrush.**
 
 ![happybrush](http://cardamonchai.com/wp-content/uploads/2017/08/36258950832_fce116d5ce_z-300x450.jpg)
 
@@ -75,7 +77,7 @@ Gegründet haben Happybrush Flo und Stefan. Sie beiden haben sich in vorherigen
 beruflichen Stationen bereits intensiv mit dem Thema Mundpflege beschäftigt.
 Beide haben bei großen Zahnpflegeherstellern gearbeitet. Sie sind also sozusagen
 vom Fach und wissen genau, worauf es ankommt. Dieses Jahr wurde den Gründern der
-<em>Red Dot Award</em> für Qualität, Design und Funktionalität verliehen.
+_Red Dot Award_ für Qualität, Design und Funktionalität verliehen.
 
 ## Mein Produkttest
 
@@ -95,6 +97,13 @@ wird.
 
 ![happybrush](http://cardamonchai.com/wp-content/uploads/2017/08/vegan-300x240.png)
 
+Die Zahnpasta gefällt mir vom Geschmack her sehr gut. Sie schmeckt nicht
+künstlich oder süß, aber auch nicht salzig, wie viele natürliche Zahncremes. Der
+Geruch ist wunderbar minzig. Mir gefällt die Zusammenstellung der Inhaltsstoffe
+zudem sehr gut, es ist nichts Bedenkliches drin, auf Mikroplastik und sogar auf
+Palmöl wurde bewusst komplett verzichtet. Klasse finde ich natürlich auch das
+Vegan-Logo. So muss man als Veganer nicht die komplette
+[Inhaltsstoff](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 -Liste checken, wenn man gerade nicht so viel Zeit hat, sondern kann einfach
 unbeschwert zugreifen. Die Verpackung ist ökofreundlich und komplett
 recyclingfähig.
@@ -119,7 +128,10 @@ Minzgeruch gelegen haben, der sich im kompletten Päckchen verteilt hatte. Schö
 fand ich auch die liebevollen Details wie die beigelegte Postkarte und die
 schöne, übersichtliche Bedienungsanleitung. Hier ein Zitat aus dem Heft:
 
-<blockquote>Für alle Frühaufsteher, Weltenbummler und Nachteulen. Ich bin Deine neue Zahnpflege und für Dich da! Ab heute stehen wir morgens miteinander auf und gehen abends zusammen ins Bett (Naja, fast). Ich wurde mit Liebe entwickelt und auf Deine Bedürfnisse abgestimmt.</blockquote>
+> Für alle Frühaufsteher, Weltenbummler und Nachteulen. Ich bin Deine neue
+> Zahnpflege und für Dich da! Ab heute stehen wir morgens miteinander auf und
+> gehen abends zusammen ins Bett (Naja, fast). Ich wurde mit Liebe entwickelt
+> und auf Deine Bedürfnisse abgestimmt.
 
 Übrigens lag dem Päckchen auch ein Gutschein im Wert von 15 Euro für Freunde
 bei. Der Mindestbestellwert ist 40 Euro. Der Gutschein ist gültig bis zum
@@ -129,11 +141,14 @@ ihn gerne haben möchte, staubt ihn ab.
 ![](https://www.adcell.de/promotion/view/promoId/169537/slotId/80259)
 
 Zur Homepage von Happybrush geht es
-[hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F).
+[hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F)
+.
 
 [myflickr tag="annehappybrush"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

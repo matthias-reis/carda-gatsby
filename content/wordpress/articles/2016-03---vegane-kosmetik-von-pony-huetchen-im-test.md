@@ -4,13 +4,12 @@ seoTitle: Vegane Kosmetik von Pony Hütchen im Test
 slug: vegane-kosmetik-von-pony-huetchen-im-test
 link: /2016/03/vegane-kosmetik-von-pony-huetchen-im-test/
 fileName: 2016-03---vegane-kosmetik-von-pony-huetchen-im-test.md
-description:
-  Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause Pony Hütchen
-  getestet. Hier ist mein Fazit zu den veganen Kosmetikprodukten für Euch.
-excerpt:
-  Werbung - Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause Pony
+description: Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause Pony
   Hütchen getestet. Hier ist mein Fazit zu den veganen Kosmetikprodukten für
   Euch.
+excerpt: Werbung - Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause
+  Pony Hütchen getestet. Hier ist mein Fazit zu den veganen Kosmetikprodukten
+  für Euch.
 focusKeyword: Vegane Kosmetik
 labels:
   - Kosmetik Beauty
@@ -27,18 +26,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14210"
+image: /img/demo.jpg
+errors: []
 subTitle: Natürliche Essenzen und traumhafte Düfte
+  
 ---
 
 Werbung\*
 
 ![Vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2016/03/25370638110_0639602f6a_z.jpg "Pony Hütchen im Test")
 
-<strong>Vor Kurzem habe ich die liebe Hendrike von Pony Hütchen kennengelernt.
-Im [Interview](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)
+**Vor Kurzem habe ich die liebe Hendrike von Pony Hütchen kennengelernt. Im
+[Interview](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)
 erzählte Sie mir von Ihrer Leidenschaft, vegane Kosmetik herzustellen. Im
 Anschluss an unser Gespräch hatte ich die Möglichkeit einige Sachen aus Ihrer
-Kosmetikküche zu testen, die ich noch nicht kannte.</strong>
+Kosmetikküche zu testen, die ich noch nicht kannte.**
 
 Alle Produkte von Pony Hütchen sind vegan und frei von Konservierungsstoffen und
 werden nicht an Tieren getestet. Die Zutaten sind größtenteils bio. Ausprobiert
@@ -130,6 +132,8 @@ Auch den Produkten von Wolkenseifen haben ich schon auf den Zahl gefühlt. Meine
 Unboxing-Story
 [findet Ihr hier](/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,12 +4,12 @@ seoTitle: Die Elbe in Altona - Winterlicher Spaziergang am Fluss
 slug: die-elbe-in-altona-winterlicher-spaziergang
 link: /2016/12/die-elbe-in-altona-winterlicher-spaziergang/
 fileName: 2016-12---die-elbe-in-altona.md
-description:
-  Vor Kurzem habe ich hier in Altona an der Elbe mal wieder eine kleine Runde
-  mit meiner Kamera gedreht. Dabei sind ein paar winterliche Bilder entstanden.
-excerpt:
-  Vor Kurzem habe ich hier in Altona an der Elbe mal wieder eine kleine Runde
-  mit meiner Kamera gedreht. Dabei sind ein paar winterliche Bilder entstanden.
+description: Vor Kurzem habe ich hier in Altona an der Elbe mal wieder eine
+  kleine Runde mit meiner Kamera gedreht. Dabei sind ein paar winterliche Bilder
+  entstanden.
+excerpt: Vor Kurzem habe ich hier in Altona an der Elbe mal wieder eine kleine
+  Runde mit meiner Kamera gedreht. Dabei sind ein paar winterliche Bilder
+  entstanden.
 focusKeyword: Elbe in Altona
 labels:
   - Altona
@@ -30,12 +30,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15517"
+image: /img/demo.jpg
+errors: []
 subTitle: Winterlicher Spaziergang am Fluss
+  
 ---
 
-<strong>Vor Kurzem habe ich mich mit der lieben Elbgängerin zu einem Spaziergang
-hier an der Elbe in Altona verabredet. Zwei Bloggerinnen aus Altona an einem
-grauen Dezembertag.</strong>
+**Vor Kurzem habe ich mich mit der lieben Elbgängerin zu einem Spaziergang hier
+an der Elbe in Altona verabredet. Zwei Bloggerinnen aus Altona an einem grauen
+Dezembertag.**
 
 Es war wirklich schön und natürlich hatten wir jede Menge zu beschnacken.
 Blogthemen, Weihnachten, Menschen, das Viertel, der Kiez, die Elbe und die
@@ -64,3 +67,5 @@ Ich wünsche Euch noch eine schöne Vorweihnachtszeit!
 [myflickr tag="anneelbeinaltona"]
 
 &nbsp;
+
+  

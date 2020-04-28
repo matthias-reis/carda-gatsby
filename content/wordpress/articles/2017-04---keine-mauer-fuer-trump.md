@@ -1,17 +1,16 @@
 ---
 title: Keine Mauer für Trump
-seoTitle:
-  '"Herr Bauer ist mein neuer Held" - Keine Mauer für Trump - Bauunternehmer
-  regt sich auf'
+seoTitle: '"Herr Bauer ist mein neuer Held" - Keine Mauer für Trump -
+  Bauunternehmer regt sich auf'
 slug: herr-bauer-ist-mein-neuer-held
 link: /2017/04/herr-bauer-ist-mein-neuer-held/
 fileName: 2017-04---keine-mauer-fuer-trump.md
-description:
-  '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein paar Tagen.
-  Wer er ist, warum er ein Held ist und was er mit Trumps Mauer zu tun hat.'
-excerpt:
-  '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein paar Tagen.
-  Wer er ist, warum er ein Held ist und was er mit Trumps Mauer zu tun hat.'
+description: '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein
+  paar Tagen. Wer er ist, warum er ein Held ist und was er mit Trumps Mauer zu
+  tun hat.'
+excerpt: '"Herr Bauer ist mein neuer Held", schrieb mir mein Bruder vor ein paar
+  Tagen. Wer er ist, warum er ein Held ist und was er mit Trumps Mauer zu tun
+  hat.'
 focusKeyword: Mauer
 labels:
   - Bauer Schrobenhausen
@@ -27,19 +26,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16245"
+image: /img/demo.jpg
+errors: []
 subTitle: Bauunternehmer regt sich auf
+  
 ---
 
-<strong>"Herr Bauer ist mein neuer Held!" schrieb mir mein Bruder vor ein paar
-Tagen. Zusammen mit einem Link zum Artikel einer regionalen
-Tageszeitung.</strong>
+**"Herr Bauer ist mein neuer Held!" schrieb mir mein Bruder vor ein paar Tagen.
+Zusammen mit einem Link zum Artikel einer regionalen Tageszeitung.**
 
 Natürlich wollte ich sofort wissen, was es damit auf sich hat und habe nun auch
 einen neuen Helden, von dem ich Euch jetzt erzählen muss.
 
 Thomas Bauer ist Tiefbau-Unternehmer. Seine Firma hat ihren Sitz in einer Stadt,
 die meistens nur mit ihrem hervorragenden
-[Schrobenhausen](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/).
+[Spargel](/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/)
+ für Schlagzeilen sorgt: 
+[Schrobenhausen](/2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/).
 
 Die Süddeutsche Zeitung hatte berichtet, Bauers Firma würde sich möglicherweise
 am Bau von Trumps Mauer beteiligen. Bauer stellt jedoch klar "Nein, wir bauen
@@ -87,17 +90,24 @@ sind Mehrgenerationenhäuser sowie ein Museum.
 Andreas Leupold, Mitgründer des Büros bringt sein Erstaunen gegenüber dem
 Bayerischen Rundfunk so zum Ausdruck:
 
-<blockquote>Die Mauer ist so weit entfernt von unseren Idealen. In unserer Architektur geht es immer um Offenheit, um Begegnung von Menschen, Transparenz und Durchblick. Eine Mauer ist genau das Gegenteil.</blockquote>
+> Die Mauer ist so weit entfernt von unseren Idealen. In unserer Architektur
+> geht es immer um Offenheit, um Begegnung von Menschen, Transparenz und
+> Durchblick. Eine Mauer ist genau das Gegenteil.
 
 Das passende Bild stammt übrigens nicht aus Amerika. Ich habe es hier in Hamburg
 aufgenommen. Es entstand am Rand von
 [Planten un Blomen](/2016/05/1-mai-bei-planten-un-blomen/).
 
 Quellen:
-[Süddeutsche Zeitung](http://www.augsburger-allgemeine.de/wirtschaft/Tiefbau-Unternehmen-Bauer-baut-keine-Mauer-fuer-Trump-id41048816.html)
+[Augsburger Allgemeine Zeitung](http://www.augsburger-allgemeine.de/wirtschaft/Tiefbau-Unternehmen-Bauer-baut-keine-Mauer-fuer-Trump-id41048816.html),
+[Bayerischer Rundfunk](http://www.br.de/nachrichten/trump-mauer-bauer-100.html),
+[Donaukurier](http://www.donaukurier.de/nachrichten/wirtschaft/lokalewirtschaft/DKmobil-Schrobenhausen-Trumps-unertraegliche-Rhetorik;art1735,3344693),
+[Süddeutsche Zeitung](http://www.sueddeutsche.de/wirtschaft/donald-trump-zwei-deutsche-firmen-interessieren-sich-fuer-den-us-mauerbau-1.3441322)
 
 &nbsp;
 
 &nbsp;
 
 &nbsp;
+
+  

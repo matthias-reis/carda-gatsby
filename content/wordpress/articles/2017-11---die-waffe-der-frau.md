@@ -4,13 +4,12 @@ seoTitle: Die Waffe der Frau - Dieser Umschlag war heute im Briefkasten
 slug: die-waffe-der-frau
 link: /2017/11/die-waffe-der-frau/
 fileName: 2017-11---die-waffe-der-frau.md
-description:
-  Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin verbergen?
-  Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn trotzdem.
-excerpt:
-  Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin verbergen?
-  Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn trotzdem.
-  Mutig, wie ich bin.
+description: Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin
+  verbergen? Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn
+  trotzdem.
+excerpt: Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin
+  verbergen? Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn
+  trotzdem. Mutig, wie ich bin.
 focusKeyword: Die Waffe der Frau
 labels:
   - Briefe
@@ -24,13 +23,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18294"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein mysteriöser Umschlag
+  
 ---
 
-<strong>Habt Ihr auch diesen Umschlag bekommen? Ich muss ja zugeben, dass ich
-ein bisschen Angst hatte, ihn aufzumachen. "Die Waffe der Frau" stand darauf. In
-der Mitte konnte ich etwas Stabiles ertasten. Was konnte das wohl sein? Ein
-Giftpfeil? Eine Mini-Pistole?</strong>
+**Habt Ihr auch diesen Umschlag bekommen? Ich muss ja zugeben, dass ich ein
+bisschen Angst hatte, ihn aufzumachen. "Die Waffe der Frau" stand darauf. In der
+Mitte konnte ich etwas Stabiles ertasten. Was konnte das wohl sein? Ein
+Giftpfeil? Eine Mini-Pistole?**
 
 ![Die Waffe der Frau](http://cardamonchai.com/wp-content/uploads/2017/11/DSC01929-300x200.jpg)
 
@@ -54,6 +56,8 @@ habe: Woher haben die meine Adresse? Bei dieser speziellen Organisation hatte
 ich mich schon mal für einen Job beworben, woraus nichts wurde. Aber die werden
 doch sicher nicht ihre Bewerber anschreiben?
 
+![Die Waffe der Frau](http://cardamonchai.com/wp-content/uploads/2017/11/DSC01928-300x200.jpg)
+
 ## Am geschmacklosesten war bis jetzt eine Geldklammer
 
 Kennt Ihr diese Briefe, die einen in der Vorweihnachtszeit plötzlich erreichen?
@@ -66,3 +70,5 @@ interessiert daran zu helfen, wichtige Aktionen zu unterstützen und meinen
 Beitrag zu leisten. Trotzdem wäre es schon interessant, wie es zustande kommt,
 dass die Briefe jedes Jahr mehr werden. Und das im Zeitalter der E-Mail. Mal so
 eine Überlegung. Wie steht Ihr dazu?
+
+  

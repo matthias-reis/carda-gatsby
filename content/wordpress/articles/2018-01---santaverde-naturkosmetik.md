@@ -1,18 +1,16 @@
 ---
 title: Santaverde Naturkosmetik
-seoTitle:
-  Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf Aloe Vera
-  Basis
+seoTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf
+  Aloe Vera Basis
 slug: santaverde
 link: /2018/01/santaverde/
 fileName: 2018-01---santaverde-naturkosmetik.md
-description:
-  Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich habe die
-  Produkte jetzt genau untersucht und ausprobiert. Hier ist mein Testbericht.
-excerpt:
-  Werbung - Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich
+description: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich
   habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein
   Testbericht.
+excerpt: Werbung - Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe
+  Vera. Ich habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist
+  mein Testbericht.
 focusKeyword: Santaverde
 labels:
   - Aloe Vera
@@ -54,14 +52,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18999"
+image: /img/demo.jpg
+errors: []
 subTitle: Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
+  
 ---
 
 Werbung\*
 
-<strong>"Deine Haut braucht Feuchtigkeit! Versuch doch mal, was zu finden, mit
-dem sie die nach dem Eincremen auch hält! Dann strahlt sie bestimmt bald
-wieder!"</strong>
+**"Deine Haut braucht Feuchtigkeit! Versuch doch mal, was zu finden, mit dem sie
+die nach dem Eincremen auch hält! Dann strahlt sie bestimmt bald wieder!"**
 
 Klingt plausibel, was mir da vor Kurzem geraten wurde, oder? Stellt sich nur die
 Frage: Wie stellt man das an, ohne die Haut dabei zu reizen, zu übersättigen und
@@ -93,8 +93,8 @@ Die Creme zieht gut ein und hinterlässt keinen Fettfilm.
 
 ## Santaverde auf dem Prüfstand
 
-<em>Mein Fazit:</em> Meine Haut ist weniger hungrig und fühlt sich wieder softer
-an. Rund um die Augen ist mit Sicherheit noch viel Pflege nötig, aber Stirn und
+_Mein Fazit:_ Meine Haut ist weniger hungrig und fühlt sich wieder softer an.
+Rund um die Augen ist mit Sicherheit noch viel Pflege nötig, aber Stirn und
 Wangen sind schon viel entspannter, als vor dem Test. Besonders den Toner liebe
 ich und verwende ihn täglich. Ich habe ihn inzwischen schon mit
 [anderen Produkten](/2018/01/ashera-yin-yang-balance/) kombiniert. Auch mit
@@ -124,17 +124,24 @@ bedeutet, dass alle Rezepturen aus reinen Pflanzensäften, -ölen, zarten
 Hydrolaten sowie gehaltvollen Pflanzenextrakten zusammengesetzt sind.
 Chemisch-synthetische Duft-, Farb- und Konservierungsstoffe, Mineralöle und
 Parabene kommen in den Produkten nicht vor. Sie sind mit dem international
-anerkannten NATRUE-Gütesiegel [](#1) für zertifizierte Naturkosmetik
+anerkannten NATRUE-Gütesiegel [<sup>1</sup>](#1) für zertifizierte Naturkosmetik
 ausgezeichnet.
 
 ## Tierleidfrei
 
-Zwei weitere Siegel sind das Leaping Bunny Siegel [](#2). Das Leaping Bunny
-Siegel ist weltweit anerkannt. Es steht für garantiert Tierleid-freie Kosmetik.
-Mit dem Logo sind auch Tierversuche mit einzelnen Rohstoffen und Fertigprodukten
+Zwei weitere Siegel sind das Leaping Bunny Siegel [<sup>2</sup>](#2) sowie das
+Label der Vegan Society [<sup>3</sup>](#3). Das Leaping Bunny Siegel ist
+weltweit anerkannt. Es steht für garantiert Tierleid-freie Kosmetik. Mit dem
+Logo sind auch Tierversuche mit einzelnen Rohstoffen und Fertigprodukten
 weltweit wirksam ausgeschlossen.
 
-<blockquote><em>Kleine Erklärung am Rande:</em> Produkte und Rohstoffe sowie deren Vertrieb, die an Tieren getestet wurden, sind seit Kurzem innerhalb der EU verboten. Das Gesetz greift allerdings nicht außerhalb der EU. Weshalb viele Produkte zwar sogar als "vegan" gekennzeichnet sind, jedoch zum Beispiel in China verkauft werden. Dort sind Tierversuche noch heute vorgeschrieben, bevor ein Produkt verkauft werden darf. Dieses Dilemma ist daher auch unter dem Namen "China-Problematik" bekannt.</blockquote>
+> _Kleine Erklärung am Rande:_ Produkte und Rohstoffe sowie deren Vertrieb, die
+> an Tieren getestet wurden, sind seit Kurzem innerhalb der EU verboten. Das
+> Gesetz greift allerdings nicht außerhalb der EU. Weshalb viele Produkte zwar
+> sogar als "vegan" gekennzeichnet sind, jedoch zum Beispiel in China verkauft
+> werden. Dort sind Tierversuche noch heute vorgeschrieben, bevor ein Produkt
+> verkauft werden darf. Dieses Dilemma ist daher auch unter dem Namen
+> "China-Problematik" bekannt.
 
 ## Komplett vegan
 
@@ -158,7 +165,7 @@ gewählte Sensitivpflegereihe bietet neben "meinen Produkten" unter anderem auch
 noch eine "rich cream", die ich vielleicht mal für meine ewig trockene
 Augenpartie testen werde, sowie ein Reinigungsgel. Vielleicht kommt ja für Euch
 auch eher die Age Perfect Serie oder die Pur Serie in Frage. Am besten
-informiert Ihr Euch selbst, was am besten zu Euch passt [](#4).
+informiert Ihr Euch selbst, was am besten zu Euch passt [<sup>4</sup>](#4).
 
 ## Wertvoller Aloe Vera Saft
 
@@ -204,17 +211,19 @@ interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
 ![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/01/2018-01-13-Santaverde-13-300x200.jpg)
 
-.
+Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
+möchte,
+[findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
 ### Fußnoten:
 
-<ul>
-    <li id="1">[1]  [Infos über NATRUE-Gütesiegel](http://www.natrue.org) </li>
-    <li id="2">[2]  [Alles über das Leaping Bunny Siegel](http://www.leapingbunny.org) </li>
-    <li id="3">[3]  [Infos über das Label der Vegan Society](http://www.vegansociety.com) </li>
-    <li id="4">[4]  [Homepage Santaverde](http://www.santaverde.de) </li>
-</ul>
+- [1][infos über natrue-gütesiegel](http://www.natrue.org)
+- [2][alles über das leaping bunny siegel](http://www.leapingbunny.org)
+- [3][infos über das label der vegan society](http://www.vegansociety.com)
+- [4][homepage santaverde](http://www.santaverde.de)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

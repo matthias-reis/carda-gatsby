@@ -4,12 +4,10 @@ seoTitle: Wandern rund um das Hermannsdenkmal - ein wirklich großer Kerl
 slug: wandern-rund-um-das-hermannsdenkmal
 link: /2019/08/wandern-rund-um-das-hermannsdenkmal/
 fileName: 2019-08---das-hermannsdenkmal.md
-description:
-  Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten Dankmalen in
-  ganz Europa und es lohnt sich sehr, es zu besuchen
-excerpt:
-  Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten Dankmalen in
-  ganz Europa und es lohnt sich sehr, es zu besuchen
+description: Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten
+  Dankmalen in ganz Europa und es lohnt sich sehr, es zu besuchen
+excerpt: Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten
+  Dankmalen in ganz Europa und es lohnt sich sehr, es zu besuchen
 focusKeyword: Hermannsdenkmal
 labels:
   - Arminia
@@ -28,11 +26,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25363"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein wirklich großer Kerl
+  
 ---
 
-<strong>Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten
-Denkmalen in ganz Europa und es lohnt sich sehr, es zu besuchen.</strong>
+**Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten Denkmalen in
+ganz Europa und es lohnt sich sehr, es zu besuchen.**
 
 Bei unserem Kurzurlaub in [Bielefeld](/2019/07/bielefeld/) planten wir auch eine
 kleine Wanderung rund um das Hermannsdenkmal mit ein. Jährlich kommen mehr als
@@ -77,7 +78,12 @@ Ein Blick in den Wanderführer lohnt sich: Rund um den Hermann findet Ihr
 zahlreiche Wanderrouten. Die anspruchsvolleren nehmen den Aufstieg, den wir im
 Auto zurückgelegt haben, gleich mit. Wir haben uns an diesem Tag für eine
 kleinere Tour entschieden, weil wir bereits die
-[Externsteinen](/2019/07/sparrenburg-bielefeld/) anstand.
+[Sparrenburg](/2019/07/sparrenburg-bielefeld/) besichtigt hatten, noch nach
+[Bad Salzuflen](/2019/09/bad-salzuflen/) wollten und am nächsten Tag eine
+größere Tour mit Start bei den [Externsteinen](/2019/08/die-externsteine/)
+anstand.
 
 Quellen:
 [Hermannsdenkmal Wikipedia](https://de.wikipedia.org/wiki/Hermannsdenkmal)
+
+  

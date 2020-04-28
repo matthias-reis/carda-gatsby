@@ -4,12 +4,10 @@ seoTitle: Bielefeld - eine kreative Stadt im Teutoburger Wald
 slug: bielefeld
 link: /2019/07/bielefeld/
 fileName: 2019-07---bielefeld.md
-description:
-  Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute möchte ich der
-  Stadt im Teutoburger Wald einen eigenen Artikel widmen.
-excerpt:
-  Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute möchte ich der
-  Stadt im Teutoburger Wald einen eigenen Artikel widmen.
+description: Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute
+  möchte ich der Stadt im Teutoburger Wald einen eigenen Artikel widmen.
+excerpt: Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute möchte
+  ich der Stadt im Teutoburger Wald einen eigenen Artikel widmen.
 focusKeyword: Bielefeld
 labels:
   - Ausflug
@@ -23,12 +21,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25420"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine kreative Stadt im Teutoburger Wald
+  
 ---
 
-<strong>Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute möchte
-ich der Stadt im [Teutoburger Wald](/2019/08/teutoburger-wald/) einen eigenen
-Artikel widmen.</strong>
+**Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute möchte ich der
+Stadt im [Teutoburger Wald](/2019/08/teutoburger-wald/) einen eigenen Artikel
+widmen.**
 
 ![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-28-400x300.jpg)
 
@@ -63,7 +64,11 @@ Stadtzentrum.
 
 ![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-30-400x300.jpg)
 
-Sparte zu bieten hat.
+\*innen ist das Angebot umfangreich. Besonders tolles Frühstück gibt es im
+"[Moccaklatsch](/2019/08/das-moccaklatsch-in-bielefeld/)" - dort waren wir an
+drei Tagen gleich dreimal. Klamotten shoppen könnt Ihr wunderbar bei
+"Fairticken" - hier gibt es alles, was die
+[Fair Fashion](/2018/02/faire-klamotten/) Sparte zu bieten hat.
 
 Bielefeld hat 333.000 Einwohner und ist damit die größte Stadt innerhalb der
 Region Ostwestfalen-Lippe. Bielefeld ist alt - zum ersten Mal erwähnt wurde es
@@ -99,3 +104,5 @@ wiederzuentdecken. Trotzdem habe ich ein paar Impressionen für Euch.
 
 [gallery type="rectangular" link="none" size="medium"
 ids="25434,25431,25429,25427,25426,25424"]
+
+  

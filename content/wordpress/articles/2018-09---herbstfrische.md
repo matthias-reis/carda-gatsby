@@ -4,13 +4,11 @@ seoTitle: Herbstfrische - Neue Bio-Getränke aus der Naturkostsafterei Voelkel
 slug: voelkel-naturkostsafterei
 link: /2018/09/voelkel-naturkostsafterei/
 fileName: 2018-09---herbstfrische.md
-description:
-  "Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den ich mich
-  besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel."
-excerpt:
-  "Werbung - Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den
-  ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel
-  wollte probiert werden."
+description: "Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den
+  ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel."
+excerpt: "Werbung - Vor Kurzem kündigte sich ein neuer Produkttest bei mir an,
+  auf den ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von
+  Voelkel wollte probiert werden."
 focusKeyword: Voelkel
 labels:
   - Apfel
@@ -46,15 +44,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22000"
+image: /img/demo.jpg
+errors: []
 subTitle: Neue Bio-Getränke aus der Naturkostsafterei Voelkel
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den ich
-mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel,
-bestehend aus "Switchel", "Infused Water" und "Juiced Water", wollte probiert
-werden.</strong>
+**Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den ich mich
+besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel, bestehend
+aus "Switchel", "Infused Water" und "Juiced Water", wollte probiert werden.**
 
 Bei so etwas lasse ich mich natürlich nicht zweimal bitten. Ein paar Tage nach
 dem Eingang der Pressemeldung standen sie bei uns zu Hause im Kühlschrank. Das
@@ -167,6 +167,8 @@ pro Flasche liegt bei rund 1,50 Euro, der Wasseranteil bei 80 bis 85 Prozent.
 
 ![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/09/43745359195_e518cfcd46_z-400x300.jpg)
 
+Ihr seid auf der Suche nach leckeren veganen Getränke?
+[In meinem Artikel zum Thema "Versteckte tierische Inhaltsstoffe in Lebensmitteln"](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 findet Ihr unter anderem auch eine umfangreiche Liste nicht-alkoholischer und
 alkoholischer Getränke. Auch, wenn sie selbstverständlich nicht vollständig ist:
 Interessierte können daraus sicher die ein oder andere nützliche Information
@@ -180,10 +182,12 @@ mich auf Eure Zuschriften!
 Natürlich teste ich längst nicht nur Getränke, sondern auch zahlreiche andere
 [vegane und nachhaltige Produkte](/category/vegan-2/produkte/).
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
 Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte!
 [Hier gehts zur Homepage](https://voelkeljuice.de/startseite.html) der
 Naturkostsafterei.
+
+  

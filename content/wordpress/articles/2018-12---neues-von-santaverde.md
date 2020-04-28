@@ -4,12 +4,10 @@ seoTitle: Neues von Santaverde - XINGU Age Perfect Toner
 slug: neues-von-santaverde
 link: /2018/12/neues-von-santaverde/
 fileName: 2018-12---neues-von-santaverde.md
-description:
-  Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten aus dem
-  brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
-excerpt:
-  Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten aus dem
-  brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
+description: Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten
+  aus dem brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
+excerpt: Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten aus
+  dem brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
 focusKeyword: XINGU Age Perfect
 labels:
   - Age Perfect
@@ -32,22 +30,30 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22909"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Unterminated JSX contents (63:16)"
 subTitle: XINGU Age Perfect Toner
+  
 ---
 
-<em>Werbung\*</em>
+## unknown: Unterminated JSX contents (63:16)
 
-<strong>Santaverde kennt Ihr ja von mir schon. Ich mag die milden Pflegeprodukte
-auf der Basis natürlicher Aloe Vera sehr gerne und habe schon diverse Male
-darüber berichtet. Jetzt gibt es eine neue Age Perfect Reihe mit Extrakten aus
-dem brasilianischen Regenwald. Den Toner habe ich getestet.</strong>
+<!--
+_Werbung\*_
+
+**Santaverde kennt Ihr ja von mir schon. Ich mag die milden Pflegeprodukte auf
+der Basis natürlicher Aloe Vera sehr gerne und habe schon diverse Male darüber
+berichtet. Jetzt gibt es eine neue Age Perfect Reihe mit Extrakten aus dem
+brasilianischen Regenwald. Den Toner habe ich getestet.**
 
 ![santaverde-xingu](http://cardamonchai.com/wp-content/uploads/2018/12/2018-12-09-santaverde-xingu-age-perfect-toner-07-400x300.jpg)
 
-gibt es jetzt in einer neuen Ausführung! Das war ja klar, dass ich den
-ausprobieren muss. In der Produktlinie "XINGU Age Perfect" sind zusätzlich zum
-Toner auch noch eine Reinigungslotion, eine Gesichtscreme, ein Serum, eine
-Augencreme, sowie ein Augenserum erschienen.
+Meinen [Lieblingstoner](/2018/01/santaverde/) gibt es jetzt in einer neuen
+Ausführung! Das war ja klar, dass ich den ausprobieren muss. In der Produktlinie
+"XINGU Age Perfect" sind zusätzlich zum Toner auch noch eine Reinigungslotion,
+eine Gesichtscreme, ein Serum, eine Augencreme, sowie ein Augenserum erschienen.
 
 Ihren Namen hat die Pflegeserie vom Ursprungsort ihrer pflanzlichen Wirkstoffe:
 den Regenwäldern am brasilianischen Rio Xingu. Diese beheimaten eine üppige
@@ -69,9 +75,11 @@ guter Pflege etwas elastischer werden, ist das fein. Ganz natürlich.
 
 Der von mir getestete "XINGU Age Perfect Toner soll die Haut mit starken
 Antioxidantien versorgen und die Zellaktivität stimulieren. Die enthaltenen
-Saftelixieren werden aus [Pflanzliches Hyaluron](/2018/01/santaverde/) wirkt
-zudem glättend. Ectoin schützt vor Umwelteinflüssen und Maracuja-Extrakt
-verbessert die Elastizität.
+Saftelixieren werden aus [Aloe Vera](/2018/01/santaverde/) Blättern und
+Cashewfrüchten gewonnen.
+[Pflanzliches Hyaluron](/2016/09/interview-lovely-day-botanicals/) wirkt zudem
+glättend. Ectoin schützt vor Umwelteinflüssen und Maracuja-Extrakt verbessert
+die Elastizität.
 
 Ich habe den Toner sowohl nach der Reinigung als Basis für meine Pflegeprodukte,
 als auch als kleine Erfrischung zwischendurch über dem Make-up aufgetragen. Das
@@ -88,19 +96,6 @@ Liste
 
 <ul>
     <li>Aloe Vera Saft*
-    <li>Rosenblütenhydrolat*</li>
-    <li>Weingeist*</li>
-    <li>Cashew Saft*</li>
-    <li>Maracujakrautextrakt*</li>
-    <li>Orangenblütenhydrolat*</li>
-    <li>Pflanzl. Hyaloronsäure</li>
-    <li>Ectoin</li>
-    <li>Weiderindenextrakt</li>
-    <li>Pflanzl. Levulinsäure</li>
-    <li>Pflanzl. Glycerin</li>
-    <li>Plans. Natriumlevulinat</li>
-    <li>Lavendelöl*</li>
-</ul>
 
 \*Aus kontrolliert biologischem Anbau
 
@@ -114,6 +109,10 @@ EU-Biosiegel. Wer mehr über Santaverde erfahren möchte, liest am besten mal
 
 [glry name="2018-12-santaverde-xingu-toner"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+-->
+
+  

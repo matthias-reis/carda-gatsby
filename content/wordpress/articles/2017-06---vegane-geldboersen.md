@@ -1,18 +1,15 @@
 ---
 title: Vegane Geldbörsen
-seoTitle:
-  Vegane Geldbörsen von Borderdog aus Hamburg - Der ultimative Produkttest
+seoTitle: Vegane Geldbörsen von Borderdog aus Hamburg - Der ultimative Produkttest
 slug: vegane-geldboersen-von-borderdog
 link: /2017/06/vegane-geldboersen-von-borderdog/
 fileName: 2017-06---vegane-geldboersen.md
-description:
-  Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt vegane
-  Geldbörsen her. Sie sind nicht nur schlank und schick, sondern auch noch
-  nachhaltig.
-excerpt:
-  Werbung - Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt
+description: Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt
   vegane Geldbörsen her. Sie sind nicht nur schlank und schick, sondern auch
   noch nachhaltig.
+excerpt: Werbung - Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up
+  stellt vegane Geldbörsen her. Sie sind nicht nur schlank und schick, sondern
+  auch noch nachhaltig.
 focusKeyword: Vegane Geldbörsen
 labels:
   - Borderdog
@@ -37,20 +34,24 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16949"
+image: /img/demo.jpg
+errors: []
 subTitle: Borderdog aus Hamburg
+  
 ---
 
 Werbung\*
 
-<strong>Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt vegane
+**Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt vegane
 Geldbörsen her. Das Material: Papier. Dennoch sind die Portemonnaies stabil und
-belastbar.</strong>
+belastbar.**
 
 ![vegane Geldbörsen](http://cardamonchai.com/wp-content/uploads/2017/06/35322426656_3991a4bd77_k-640x427.jpg)
 
-bestimmt bereits ein Begriff. Es kann genäht, bedruckt, bemalt und sogar
-gewaschen und weiterverarbeitet werden. Es reißt nicht und ist fast so robust,
-wie Leder. Nur eben ohne Tierleid.
+Den Näherinnen und Nähern unter Euch ist das hochrobuste
+[Snap-Pap](http://snap-pap.de/) bestimmt bereits ein Begriff. Es kann genäht,
+bedruckt, bemalt und sogar gewaschen und weiterverarbeitet werden. Es reißt
+nicht und ist fast so robust, wie Leder. Nur eben ohne Tierleid.
 
 Ich hatte jetzt die Gelegenheit, die kleine, elegante Mini-Geldbörse mit dem
 klangvollen Namen "Triple Vegan" aus dem Hause Borderdog zu testen. Sie ist
@@ -80,7 +81,7 @@ bei. Hergestellt werden die Geldbörsen in Europa. Das Material ist nachhaltig
 und robust. Es kann sogar mit Dampf gebügelt werden. Das Motto bei Borderdog
 lautet
 
-<blockquote>Minimalistisch, praktisch, vegan</blockquote>
+> Minimalistisch, praktisch, vegan
 
 Zu kaufen gibt es die schicken Geldbeutel für schlanke 23 Euro im Borderdog
 Online-Shop. Dort gibt es derzeit sogar 15 Prozent Rabatt. Boris hat mir
@@ -92,8 +93,10 @@ spannend!
 Kennt Ihr schon meine neue
 [vegane Handtasche](/2016/12/meine-neue-vegane-handtasche-von-mattnat/) ?
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

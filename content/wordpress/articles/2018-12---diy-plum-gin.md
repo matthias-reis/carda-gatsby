@@ -4,12 +4,12 @@ seoTitle: DIY Plum Gin - Selbst gemachter Likör - Rezept & Geschenkidee
 slug: diy-plum-gin
 link: /2018/12/diy-plum-gin/
 fileName: 2018-12---diy-plum-gin.md
-description:
-  In einem Gastbeitrag verrät Matze heute sein Rezept für selbst gemachten
-  Pflaumen-Gin. Er eignet sich perfekt als Basis für Cockails. Und als Geschenk!
-excerpt:
-  In einem Gastbeitrag verrät Matze heute sein Rezept für selbst gemachten
-  Pflaumen-Gin. Er eignet sich perfekt als Basis für Cockails. Und als Geschenk!
+description: In einem Gastbeitrag verrät Matze heute sein Rezept für selbst
+  gemachten Pflaumen-Gin. Er eignet sich perfekt als Basis für Cockails. Und als
+  Geschenk!
+excerpt: In einem Gastbeitrag verrät Matze heute sein Rezept für selbst
+  gemachten Pflaumen-Gin. Er eignet sich perfekt als Basis für Cockails. Und als
+  Geschenk!
 focusKeyword: Likör
 labels:
   - Cocktail
@@ -35,13 +35,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22996"
+image: /img/demo.jpg
+errors: []
 subTitle: Likör selbst gemacht
+  
 ---
 
-<strong>Heute präsentiere ich Euch eine ganz besonders schöne Geschenk-Idee für
+**Heute präsentiere ich Euch eine ganz besonders schöne Geschenk-Idee für
 Freunde guter Liköre. Weil die Idee, die Planung, das Rezept und die Bilder von
 Matze stammen, möchte ich hiermit das Wort an ihn übergeben. Vorhang auf für
-seinen "Plum Gin"!</strong>
+seinen "Plum Gin"!**
 
 Vor einigen Jahren sind wir zufällig über "Sloe Gin" gestolpert. Das ist ein
 Likör auf Gin-Basis, der mit Schlehen-Früchten angesetzt wird. Er schmeckt
@@ -148,15 +151,15 @@ fruchtig-herben Weihnachts- [Cocktail](/2018/06/tom-yum-mule/).
 
 Hier nochmal im Überblick, was man alles benötigt:
 
-<ul>
-    <li>0,7 Liter Tanqueray Gin</li>
-    <li>700 - 1000 Gramm Pflaumen (oder andere Früchte)</li>
-    <li>Eine halbe Vanilleschote</li>
-    <li>2 Ein-Liter-Einmachgläser</li>
-    <li>2 Halb-Liter-Flaschen mit Ploppverschluss</li>
-    <li>Kaffeefilter</li>
-</ul>
+- 0,7 Liter Tanqueray Gin
+- 700 - 1000 Gramm Pflaumen (oder andere Früchte)
+- Eine halbe Vanilleschote
+- 2 Ein-Liter-Einmachgläser
+- 2 Halb-Liter-Flaschen mit Ploppverschluss
+- Kaffeefilter
 
 [glry name="2018-matze-likoerchen"]
 
 [Unser exotisches "Minty Fizz" Cocktail Rezept findet Ihr hier](/2018/05/minty-fizz/).
+
+  

@@ -4,12 +4,10 @@ seoTitle: Zwischenstop in Skåne - Glitzernde Ostsee am weißen Strand
 slug: zwischenstopp-in-skane
 link: /2018/07/zwischenstopp-in-skane/
 fileName: 2018-07---zwischenstopp-in-sk-ne.md
-description:
-  Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen wundervollen
-  entspannten Tag am Strand in der Schwedischen Provinz Skåne.
-excerpt:
-  Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen wundervollen
-  entspannten Tag am Strand in der Schwedischen Provinz Skåne.
+description: Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen
+  wundervollen entspannten Tag am Strand in der Schwedischen Provinz Skåne.
+excerpt: Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen
+  wundervollen entspannten Tag am Strand in der Schwedischen Provinz Skåne.
 focusKeyword: Skåne
 labels:
   - Ostsee
@@ -29,15 +27,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21475"
+image: /img/demo.jpg
+errors: []
 subTitle: Glitzernde Ostsee am weißen Strand
+  
 ---
 
-<strong>Heute nehme ich Euch wieder ein Stück mit auf die Reise in den Norden.
-Unser sommerlicher Roadtrip dieses Jahr führte uns an ein paar wirklich schöne
-Orte. Einer davon ist die Schwedische Provinz Skåne.</strong>
+**Heute nehme ich Euch wieder ein Stück mit auf die Reise in den Norden. Unser
+sommerlicher Roadtrip dieses Jahr führte uns an ein paar wirklich schöne Orte.
+Einer davon ist die Schwedische Provinz Skåne.**
 
-Nach unserer [die glitzernde Ostsee](/2018/07/radtour-durch-kopenhagen/) von der
-anderen Seite bewundert zu haben.
+Nach unserer [Anreise über Dänemark](/2018/07/radtour-durch-kopenhagen/) hatten
+wir dort am 20. Juni einen wundervollen, entspannten Tag am Strand. Ein schöner
+Gedanke, noch ein paar Tage zuvor
+[die glitzernde Ostsee](/2018/06/wanderung-zum-koenigsstuhl/) von der anderen
+Seite bewundert zu haben.
 
 Skåne zählt zusammen mit den Dänischen Inseln Bornholm, Seeland, Lolland, Møn
 und Falster zur Öresundregion. Im Norden grenzt es an Småland, im Osten an
@@ -80,3 +84,5 @@ Langsam mischt sich rot in das Grün des Sommers Die Sonne senkt sich
 Wird lautlos vom Wasser verschluckt Doch ihr Licht verschwindet nicht ganz
 
 [myflickr tag="anneloederupskane2018liebesehr"]
+
+  

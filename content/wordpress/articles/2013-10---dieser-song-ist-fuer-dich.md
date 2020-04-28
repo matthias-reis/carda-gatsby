@@ -4,12 +4,12 @@ seoTitle: Herbstliche Schreibblockade - Dieser Song ist für Dich
 slug: dieser-song-ist-fur-dich-herbstliche-schreibblockade
 link: /2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/
 fileName: 2013-10---dieser-song-ist-fuer-dich.md
-description:
-  Im Moment scheine ich an einer echten Schreibblockade zu leiden. Doch woher
-  kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich, mein Herz.
-excerpt:
-  Im Moment scheine ich an einer echten Schreibblockade zu leiden. Doch woher
-  kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich, mein Herz.
+description: Im Moment scheine ich an einer echten Schreibblockade zu leiden.
+  Doch woher kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich,
+  mein Herz.
+excerpt: Im Moment scheine ich an einer echten Schreibblockade zu leiden. Doch
+  woher kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich, mein
+  Herz.
 focusKeyword: Schreibblockade
 labels:
   - Der Song
@@ -32,13 +32,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7391"
+image: /img/demo.jpg
+errors: []
 subTitle: Herbstliche Schreibblockade
+  
 ---
-
-<strong>Ich scheine im Moment leider unter einer Art Schreibblockade zu leiden,
-weshalb ich schon länger nichts Sinnvolles mehr zu Papier gebracht habe. Ich
-möchte Euch nicht im Stich lassen, daher nutze ich heute die Mittagspause um
-zumindest eine kleine Statusmeldung abzusetzen.</strong>
 
 ![Jeden Tag kommen Päckchen an](http://cardamonchai.files.wordpress.com/2013/10/foto.jpg?w=300 "Jeden Tag kommen Päckchen an")
 
@@ -90,12 +88,17 @@ dem Laufenden halten.
 geschrieben. Große Veröffentlichungen werfen die glänzenden Schatten ihres
 funkelnden Lichts voraus:
 
-<blockquote><span style="color: #993366;"><em>"Hallo Martin, wie sieht es denn mit Dodos, Russian Circles, Pearl Jam, Mark Lanegan, Pelican und Arcade Fire aus?"</em></span><span style="color: #808080;"><em>"Hallo Anne, Dodos ist da, Pearl Jam CD ist raus, Vinyl ist aber verschoben worden, Lanegan LP ist da, Russian/Pelican/Arcade kommen erst Ende Oktober raus. Gruß Martin"</em></span></blockquote>
+> _"Hallo Martin, wie sieht es denn mit Dodos, Russian Circles, Pearl Jam, Mark
+> Lanegan, Pelican und Arcade Fire aus?"_ _"Hallo Anne, Dodos ist da, Pearl Jam
+> CD ist raus, Vinyl ist aber verschoben worden, Lanegan LP ist da,
+> Russian/Pelican/Arcade kommen erst Ende Oktober raus. Gruß Martin"_
 
 ![Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann](http://cardamonchai.files.wordpress.com/2013/10/p1000534.jpg?w=300 "Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann")
 
 Ich bin schon unglaublich gespannt, Ihr auch? Einen kleinen Teaser hat mir
 Martin ja schon geschickt, Ihr findet Ihn
+[hier](http://www.nme.com/news/arcade-fire/73181#2). Ist wirklich sehenswert.
+Ihr sollt auf jeden Fall
 [draufklicken](http://www.nme.com/news/arcade-fire/73181#2).
 
 Wie gefällt Euch das neue Pearl Jam Album? Ich finde, es ist eine Wucht, ich
@@ -107,3 +110,5 @@ Mathis, dieser Song ist für Dich. &lt;3
 [Weißt Du noch](//2012/07/29/isle-of-wight-festival-2012/) ? :-)
 
 [youtube=http://www.youtube.com/watch?v=qQXP6TDtW0w&amp;w=560&amp;h=315]
+
+  

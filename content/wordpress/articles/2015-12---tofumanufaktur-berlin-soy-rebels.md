@@ -1,16 +1,13 @@
 ---
 title: Tofumanufaktur Berlin Soy Rebels
-seoTitle:
-  Tofumanufaktur Berlin Soy Rebels - Interview - "Tofu ist nicht gleich Tofu"
+seoTitle: Tofumanufaktur Berlin Soy Rebels - Interview - "Tofu ist nicht gleich Tofu"
 slug: tofumanufaktur-berlin-soy-rebels-interview
 link: /2015/12/tofumanufaktur-berlin-soy-rebels-interview/
 fileName: 2015-12---tofumanufaktur-berlin-soy-rebels.md
-description:
-  Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über das Kollektiv
-  unterhalten. Dabei habe ich einiges über Tofu erfahren.
-excerpt:
-  Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über das Kollektiv
-  unterhalten. Dabei habe ich einiges über Tofu erfahren.
+description: Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über
+  das Kollektiv unterhalten. Dabei habe ich einiges über Tofu erfahren.
+excerpt: Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über das
+  Kollektiv unterhalten. Dabei habe ich einiges über Tofu erfahren.
 focusKeyword: Tofu
 labels:
   - Berlin
@@ -29,11 +26,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29019"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Tofu ist nicht gleich Tofu"'
+  
 ---
-
-<strong>Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über das
-Kollektiv unterhalten. Dabei habe ich einiges über Tofu erfahren.</strong>
 
 Auf ihrer Homepage beschreiben sich die Gründer der Tofumanufaktur Berlin mit
 den Worten "Wir sind ein vierköpfiges Kollektiv, das es sich zur Aufgabe gemacht
@@ -47,26 +44,26 @@ Berlin-Lichtenberg direkt am S-Bahnhof Ostkreuz.
 Hergestellt werden dort unter anderem traditionelles Räuchertofu und chinesisch
 gepresster Naturtofu. Samstags werden Burger aus eigener Herstellung serviert.
 
-<strong>Anne:</strong> Hallo Mateusz! Vielen Dank, dass Du dir die Zeit für
-dieses Interview nimmst! Wie ist Dein Tag bis jetzt gelaufen?
+**Anne:** Hallo Mateusz! Vielen Dank, dass Du dir die Zeit für dieses Interview
+nimmst! Wie ist Dein Tag bis jetzt gelaufen?
 
-<strong>Mateusz:</strong> Schnell ist er gelaufen, nein Scherz beiseite: Der Tag
-war ganz gut, der Tofu ist sehr schön geworden und draußen hat es zum ersten Mal
+**Mateusz:** Schnell ist er gelaufen, nein Scherz beiseite: Der Tag war ganz
+gut, der Tofu ist sehr schön geworden und draußen hat es zum ersten Mal
 geschneit
 
-<strong>Anne:</strong> Erstmal Gratulation zu der tollen Idee! Tofu made in
-Berlin, das ist wirklich innovativ! Wie seid Ihr darauf gekommen?
+**Anne:** Erstmal Gratulation zu der tollen Idee! Tofu made in Berlin, das ist
+wirklich innovativ! Wie seid Ihr darauf gekommen?
 
-<strong>Mateusz:</strong> Auf die Idee hat uns ein Herr Namens Martin Bilinger
-gebracht. Mittlerweile ein guter Bekannter, Helfer und Freund
+**Mateusz:** Auf die Idee hat uns ein Herr Namens Martin Bilinger gebracht.
+Mittlerweile ein guter Bekannter, Helfer und Freund
 
-<strong>Anne:</strong> Wie erklärst Du dir, dass Tofu bei einigen Menschen
-(teilweise sogar unter Veganern) einen so schlechten Ruf hat? Was unterscheidet
-euren Tofu von dem gängigen Tofu, den ich in Kühltheke im Supermarkt finde?
+**Anne:** Wie erklärst Du dir, dass Tofu bei einigen Menschen (teilweise sogar
+unter Veganern) einen so schlechten Ruf hat? Was unterscheidet euren Tofu von
+dem gängigen Tofu, den ich in Kühltheke im Supermarkt finde?
 
-<strong>Mateusz:</strong> Tofu ist nicht gleich Tofu. Außerdem wurde es in der
-letzten Zeit einfach viel zu häufig in Verbindung gebracht mit Allergien,
-Impotenz und Genmalipulation. Wir sorgen da für einen besseren Ruf.
+**Mateusz:** Tofu ist nicht gleich Tofu. Außerdem wurde es in der letzten Zeit
+einfach viel zu häufig in Verbindung gebracht mit Allergien, Impotenz und
+Genmalipulation. Wir sorgen da für einen besseren Ruf.
 
 ![Tofumanufaktur](http://cardamonchai.com/wp-content/uploads/2020/04/Tofumanufaktur-400x300.jpg)
 
@@ -81,87 +78,86 @@ Wer dann immer noch Bedenken hat, sollte es lassen. Ich für meinen Teil werde
 weiterhin Tofu essen und nicht nur, weil ich mein Geld damit verdiene, sondern
 weil es mir gut bekommt. Mahlzeit (lacht)!
 
-<strong>Anne:</strong> Die Tofumanufaktur besteht zur Zeit aus vier Mitgliedern.
-Wer sind sie? Wer ist bei Euch für was zuständig?
+**Anne:** Die Tofumanufaktur besteht zur Zeit aus vier Mitgliedern. Wer sind
+sie? Wer ist bei Euch für was zuständig?
 
-<strong>Mateusz:</strong> Wir sind Neno, Tizi, Agnieszka und Mateusz. Damit es
-nicht langweilig wird, macht jeder alles. Das heißt, jeder von uns produziert
-mal, jeder von uns geht mal auf den Wochenmarkt und jeder darf mal liefern. So
-ist es schön abwechslungsreich, man ist auch mal an der frischen Luft, hat
-Kontakt zu den Kunden und jeder ist glücklich.
+**Mateusz:** Wir sind Neno, Tizi, Agnieszka und Mateusz. Damit es nicht
+langweilig wird, macht jeder alles. Das heißt, jeder von uns produziert mal,
+jeder von uns geht mal auf den Wochenmarkt und jeder darf mal liefern. So ist es
+schön abwechslungsreich, man ist auch mal an der frischen Luft, hat Kontakt zu
+den Kunden und jeder ist glücklich.
 
-<strong>Anne:</strong> Kommt Ihr alle aus der Lebensmittelbranche? Was habt Ihr
-vor der Tofumanufaktur gemacht?
+**Anne:** Kommt Ihr alle aus der Lebensmittelbranche? Was habt Ihr vor der
+Tofumanufaktur gemacht?
 
-<strong>Mateusz:</strong> Die meisten nicht, ich selbst ja. Nach meiner
-Ausbildung bei einer Glaserei habe ich eine Zeitlang bei der BioCompany als
-Aushilfe gearbeitet. Danach war ich Markverkäufer bei einer Bäckerei, habe bei
-der Biokräuterei Oberhavel gearbeitet, bei Sprossenquell beim Anbau von Sprossen
-und war Koch im Restaurant Marx, wobei ich mich nur als Koch ausgegeben habe,
-was jedoch ganz gut funktioniert hat (lacht). Im Anschluss war ich als Packer
-beim Bäcker tätig, anschließend im Verkauf beim Bio Backhaus. Naja und
-schlussendlich bin ich dann eben bei den Soy Rebels gelandet.
+**Mateusz:** Die meisten nicht, ich selbst ja. Nach meiner Ausbildung bei einer
+Glaserei habe ich eine Zeitlang bei der BioCompany als Aushilfe gearbeitet.
+Danach war ich Markverkäufer bei einer Bäckerei, habe bei der Biokräuterei
+Oberhavel gearbeitet, bei Sprossenquell beim Anbau von Sprossen und war Koch im
+Restaurant Marx, wobei ich mich nur als Koch ausgegeben habe, was jedoch ganz
+gut funktioniert hat (lacht). Im Anschluss war ich als Packer beim Bäcker tätig,
+anschließend im Verkauf beim Bio Backhaus. Naja und schlussendlich bin ich dann
+eben bei den Soy Rebels gelandet.
 
-## Samstags gibt es auch Burger<strong>Anne:</strong> Das klingt ja sehr vielseitig und abwechslungsreich! Ich habe gehört, Ihr seid, was den Verkauf angeht, auch ziemlich vielseitig aufgestellt. Wo kann man eure Produkte denn überall kaufen?
+## Samstags gibt es auch Burger **Anne:** Das klingt ja sehr vielseitig und abwechslungsreich! Ich habe gehört, Ihr seid, was den Verkauf angeht, auch ziemlich vielseitig aufgestellt. Wo kann man eure Produkte denn überall kaufen?
 
-<strong>Mateusz:</strong> In ausgewählten Bioläden, die Adressen sind auf
-unserer Homepage zu finden,\* und jeden Donnerstag und Samstag auf dem
-Wochenmarkt am Kollwitzplatz. Samstags verkaufen wir auch Burger.
+**Mateusz:** In ausgewählten Bioläden, die Adressen sind auf unserer Homepage zu
+finden,\* und jeden Donnerstag und Samstag auf dem Wochenmarkt am Kollwitzplatz.
+Samstags verkaufen wir auch Burger.
 
-<strong>Anne:</strong> Die Sojabohnen für Euren Tofu werden in Westdeutschland
-angebaut. Kann man überall Soja anbauen, oder sind dafür besondere
-Vorraussetzungen nötig?
+**Anne:** Die Sojabohnen für Euren Tofu werden in Westdeutschland angebaut. Kann
+man überall Soja anbauen, oder sind dafür besondere Vorraussetzungen nötig?
 
-<strong>Mateusz:</strong> Im Grunde genommen kann man überall Soja anbauen,
-außer vielleicht in der Antarktis oder der Wüste, d wird es dann etwas
-schwierig.
+**Mateusz:** Im Grunde genommen kann man überall Soja anbauen, außer vielleicht
+in der Antarktis oder der Wüste, d wird es dann etwas schwierig.
 
-<strong>Anne:</strong> Was ist das Geheimnis eines guten Burgers?
+**Anne:** Was ist das Geheimnis eines guten Burgers?
 
-<strong>Mateusz:</strong> Ein Geheimnis ist ein Geheimnis und Geheimnisse verrät
-man nicht. Einen Tipp kann ich dir jedoch geben. Soweit ich weiß, sind wir in
-Deutschland die Einzigen, die ihren Tofu selbst herstellen, daraus die
-Burgerpattys selbst formen, die Burger selbst zubereiten und im Anschluss
-verkaufen. Außerdem essen wir unsere Burger sogar selber! Das ist auf jeden Fall
-schon mal ein Teil unseres Geheimnisses. Es kommt außerdem noch je eine Prise
-Zeit und Geduld hinzu sowie ein Hauch Glutamat. Das mit dem Glutamat ist
-selbstverständlich ein Scherz.
+**Mateusz:** Ein Geheimnis ist ein Geheimnis und Geheimnisse verrät man nicht.
+Einen Tipp kann ich dir jedoch geben. Soweit ich weiß, sind wir in Deutschland
+die Einzigen, die ihren Tofu selbst herstellen, daraus die Burgerpattys selbst
+formen, die Burger selbst zubereiten und im Anschluss verkaufen. Außerdem essen
+wir unsere Burger sogar selber! Das ist auf jeden Fall schon mal ein Teil
+unseres Geheimnisses. Es kommt außerdem noch je eine Prise Zeit und Geduld hinzu
+sowie ein Hauch Glutamat. Das mit dem Glutamat ist selbstverständlich ein
+Scherz.
 
-<strong>Anne:</strong> Seit wann lebst Du denn vegan?
+**Anne:** Seit wann lebst Du denn vegan?
 
-<strong>Mateusz:</strong> Ich persönlich lebe nicht zu 100 Prozent vegan.
+**Mateusz:** Ich persönlich lebe nicht zu 100 Prozent vegan.
 
-<strong>Anne:</strong> Verrätst Du mir Dein Lieblingsargument für vegan?
+**Anne:** Verrätst Du mir Dein Lieblingsargument für vegan?
 
-<strong>Mateusz:</strong> Weniger ist besser.
+**Mateusz:** Weniger ist besser.
 
-<strong>Anne:</strong> In welcher Kombination ißt Du Tofu am liebsten? Was ist
-die beste Zubereitungsform?
+**Anne:** In welcher Kombination ißt Du Tofu am liebsten? Was ist die beste
+Zubereitungsform?
 
-<strong>Mateusz:</strong> Zuerst in Scheiben geschnitten, kurz angebraten oder
-auch nicht, etwas Salz, ein bisschen Pfeffer. Dann ab aufs Brötchen, zum Salat
-oder in die Gemüsepfanne. Ich sage immer, Tofu passt zu allem, außer zu
-Süßspeisen.
+**Mateusz:** Zuerst in Scheiben geschnitten, kurz angebraten oder auch nicht,
+etwas Salz, ein bisschen Pfeffer. Dann ab aufs Brötchen, zum Salat oder in die
+Gemüsepfanne. Ich sage immer, Tofu passt zu allem, außer zu Süßspeisen.
 
 OK, Naturtofu kann man natürlich auch für Süßspeisen verwenden. Also: Tofu passt
 zu allem!
 
-<strong>Anne:</strong> Berlin ist ein echtes Vorbild in Sachen vegane Städte.
-Nahezu an jeder Ecke findet man inzwischen vegane Cafés, Restaurants, Läden etc,
-überall werden vegane Alternativen angeboten. Wie konnte sich das so toll
-entwickeln? Was unterscheidet Berlin in der Hinsicht von anderen Städten?
+**Anne:** Berlin ist ein echtes Vorbild in Sachen vegane Städte. Nahezu an jeder
+Ecke findet man inzwischen vegane Cafés, Restaurants, Läden etc, überall werden
+vegane Alternativen angeboten. Wie konnte sich das so toll entwickeln? Was
+unterscheidet Berlin in der Hinsicht von anderen Städten?
 
-## Über das vegane Berlin könnte man ein Buch schreiben<strong>Mateusz:</strong> Darüber könnte man ein Buch schreiben. Ich glaube dadurch, dass wir in einer sehr schönen Zeit leben, fühlen die Menschen sich freier. Sie haben Zeit, sich mit den verschiedensten Dingen auseinanderzusetzen, die man früher für Unsinn gehalten hätte und probieren gerne Neues aus.
+## Über das vegane Berlin könnte man ein Buch schreiben **Mateusz:** Darüber könnte man ein Buch schreiben. Ich glaube dadurch, dass wir in einer sehr schönen Zeit leben, fühlen die Menschen sich freier. Sie haben Zeit, sich mit den verschiedensten Dingen auseinanderzusetzen, die man früher für Unsinn gehalten hätte und probieren gerne Neues aus.
 
-<strong>Anne:</strong> Gibt es Pläne, Euer Sortiment zu erweitern?
+**Anne:** Gibt es Pläne, Euer Sortiment zu erweitern?
 
-<strong>Mateusz:</strong> Lasst Euch überraschen!
+**Mateusz:** Lasst Euch überraschen!
 
-<strong>Anne:</strong> Ein Blick in die Zukunft: Wie geht es weiter mit der
-Tofumanufaktur? Wird das Kollektiv vergrößert? Wird es neue Standorte geben?
+**Anne:** Ein Blick in die Zukunft: Wie geht es weiter mit der Tofumanufaktur?
+Wird das Kollektiv vergrößert? Wird es neue Standorte geben?
 
-<strong>Mateusz:</strong> Ich glaube nicht.
+**Mateusz:** Ich glaube nicht.
 
-<strong>Anne:</strong> Vielen Dank für Das Interview!
+**Anne:** Vielen Dank für Das Interview!
 
 [Homepage](http://www.tofumanufaktur-berlin.de/) Tofumanufaktur
+
+  

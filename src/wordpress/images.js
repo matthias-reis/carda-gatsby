@@ -1,54 +1,41 @@
 const { bold } = require('chalk');
 
-module.exports = async (l, e, data) => {
+module.exports = async (l, e, line) => {
   // split the content into paragraphs first
-  const paragraphs = data.content
-    .split('\n\n')
-    .map((s) => s.trim())
-    .filter(Boolean)
-    .map((p, i) => {
-      // first caption based images
-      const captionRegex = /\[caption(.*)\](.*)<img(.*)\/>(.*)\[\/caption\]/gms;
-      const captionMatch = captionRegex.exec(p);
-      const imgRegex = /<img(.*)\/>/gms;
-      const imgMatch = imgRegex.exec(p);
-      if (captionMatch) {
-        const title = (captionMatch[2] + ' ' + captionMatch[4]).trim();
-        const altMatch = /alt="([^"]*)"/.exec(captionMatch[3]);
-        const alt = altMatch && altMatch[1];
-        const srcMatch = /src="([^"]*)"/.exec(captionMatch[3]);
-        const src = srcMatch && srcMatch[1];
-        const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(
-          captionMatch[3]
-        );
-        const size = (sizeMatch && sizeMatch[1]) || 'medium';
+  const captionRegex = /\[caption(.*)\](.*)<img(.*)\/>(.*)\[\/caption\]/gms;
+  const captionMatch = captionRegex.exec(line);
 
-        const imgMd = `![${alt}${
-          size !== 'medium' ? ' | ' + size : ''
-        }](${src}${title ? " '" : ''}${title}${title ? "'" : ''})`;
+  const imgRegex = /<img(.*)\/>/gms;
+  const imgMatch = imgRegex.exec(line);
 
-        const md = p.replace(/\[caption.*\[\/caption\]/gms, '').trim();
-        return md ? [imgMd, md] : imgMd;
-      } else if (imgMatch) {
-        const altMatch = /alt="([^"]*)"/.exec(imgMatch[1]);
-        const alt = altMatch && altMatch[1];
-        const srcMatch = /src="([^"]*)"/.exec(imgMatch[1]);
-        const src = srcMatch && srcMatch[1];
-        const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(imgMatch[1]);
-        const size = (sizeMatch && sizeMatch[1]) || 'medium';
+  if (captionMatch) {
+    const title = (captionMatch[2] + ' ' + captionMatch[4]).trim();
+    const altMatch = /alt="([^"]*)"/.exec(captionMatch[3]);
+    const alt = altMatch && altMatch[1];
+    const srcMatch = /src="([^"]*)"/.exec(captionMatch[3]);
+    const src = srcMatch && srcMatch[1];
+    const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(captionMatch[3]);
+    const size = (sizeMatch && sizeMatch[1]) || 'medium';
 
-        const imgMd = `![${alt}${
-          size !== 'medium' ? ' | ' + size : ''
-        }](${src})`;
+    const imgMd = `![${alt}${size !== 'medium' ? ' | ' + size : ''}](${src}${
+      title ? " '" : ''
+    }${title}${title ? "'" : ''})`;
 
-        const md = p.replace(/\<img.*>/gms, '').trim();
-        return md ? [imgMd, md] : imgMd;
-      } else {
-        return p;
-      }
-    })
-    .flat();
-  data.content = paragraphs.join('\n\n');
+    const md = line.replace(/\[caption.*\[\/caption\]/gms, '').trim();
+    return md ? [imgMd, md].join('\n\n') : imgMd;
+  } else if (imgMatch) {
+    const altMatch = /alt="([^"]*)"/.exec(imgMatch[1]);
+    const alt = altMatch && altMatch[1];
+    const srcMatch = /src="([^"]*)"/.exec(imgMatch[1]);
+    const src = srcMatch && srcMatch[1];
+    const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(imgMatch[1]);
+    const size = (sizeMatch && sizeMatch[1]) || 'medium';
 
-  return data;
+    const imgMd = `![${alt}${size !== 'medium' ? ' | ' + size : ''}](${src})`;
+
+    const md = line.replace(/\<img.*>/gms, '').trim();
+    return md ? [imgMd, md].join('\n\n') : imgMd;
+  } else {
+    return line;
+  }
 };

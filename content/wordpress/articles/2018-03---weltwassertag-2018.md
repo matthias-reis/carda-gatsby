@@ -4,12 +4,12 @@ seoTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser
 slug: der-weltwassertag-2018
 link: /2018/03/der-weltwassertag-2018/
 fileName: 2018-03---weltwassertag-2018.md
-description:
-  In diesem Jahr dreht sich beim Weltwassertag alles um das Thema „Naturbasierte
-  Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung nachzudenken.
-excerpt:
-  In diesem Jahr dreht sich beim Weltwassertag alles um das Thema „Naturbasierte
-  Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung nachzudenken.
+description: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema
+  „Naturbasierte Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung
+  nachzudenken.
+excerpt: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema
+  „Naturbasierte Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung
+  nachzudenken.
 focusKeyword: Weltwassertag
 labels:
   - Darum vegan
@@ -26,12 +26,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16202"
+image: /img/demo.jpg
+errors: []
 subTitle: Naturbasierte Lösungen für das Wasser
+  
 ---
 
-<strong>Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag
+**Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag
 statt. Er soll daran erinnern, dass Wasser die Grundlage für das Leben auf der
-Erde ist.</strong>
+Erde ist.**
 
 Vorgeschlagen wurde der Tag im Rahmen der Agenda 21 der UN-Konferenz für Umwelt
 und Entwicklung (UNCED). Die UN-Generalversammlung beschloss am 22. Dezember
@@ -69,13 +72,12 @@ Tagesablaufs sind: Es ist wichtig, Wasserspartipps zu beachten und an andere
 weiterzugeben. Jeder sollte immer wieder daran erinnert werden. Auch sie sind
 daher immer festes Thema beim Weltwassertag.
 
-<ul>
-    <li>Beim Zähneputzen das Wasser abstellen.</li>
-    <li>Keine Chemikalien und Abfälle in den Abfluss gebe oder in der Toilette herunterspülen.</li>
-    <li>Zum Gießen kann man sehr gut Regenwasser sammeln.</li>
-    <li>Nicht zu lange duschen.</li>
-    <li>Auf Lebensmittel tierischen Ursprungs besser verzichten</li>
-</ul>
+- Beim Zähneputzen das Wasser abstellen.
+- Keine Chemikalien und Abfälle in den Abfluss gebe oder in der Toilette
+  herunterspülen.
+- Zum Gießen kann man sehr gut Regenwasser sammeln.
+- Nicht zu lange duschen.
+- Auf Lebensmittel tierischen Ursprungs besser verzichten
 
 ## Weltwassertag – Wie wirkt sich Massentierhaltung auf den Wasserverbrauch aus?
 
@@ -100,3 +102,5 @@ Sollte man mal drüber nachdenken, oder?
 
 Geschichten rund um die Wasserversorgung weltweit gibt es auf
 [der offiziellen Homepage](http://www.worldwaterday.org/) zum Weltwassertag.
+
+  

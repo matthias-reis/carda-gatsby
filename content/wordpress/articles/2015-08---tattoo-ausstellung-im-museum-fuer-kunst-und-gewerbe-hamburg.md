@@ -4,12 +4,10 @@ seoTitle: Tattoo - Museum für Kunst und Gewerbe Hamburg
 slug: tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg
 link: /2015/08/tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg/
 fileName: 2015-08---tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg.md
-description:
-  Gezeigt wird das Tattoo im Wandel der Zeit, verschiedene Stilrichtungen und
-  Handwerkszeug von Tattoo-Artists verschiedener Epochen.
-excerpt:
-  Am Sonntag entschieden wir uns spontan dazu, mit dem Fahrrad ins Museum für
-  Kunst und Gewerbe zu fahren.
+description: Gezeigt wird das Tattoo im Wandel der Zeit, verschiedene
+  Stilrichtungen und Handwerkszeug von Tattoo-Artists verschiedener Epochen.
+excerpt: Am Sonntag entschieden wir uns spontan dazu, mit dem Fahrrad ins Museum
+  für Kunst und Gewerbe zu fahren.
 focusKeyword: Tattoo
 labels:
   - Art
@@ -31,12 +29,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12323"
+image: /img/demo.jpg
+errors: []
 subTitle: Erinnerungen und Tätowiernadeln
+  
 ---
-
-![Tattoo-Zubehör](http://cardamonchai.com/wp-content/uploads/2015/08/20466311329_5f8765f4e7_z-640x480.jpg)
-
-<strong>
 
 Dort läuft derzeit eine Ausstellung rund um das Thema Tattoo. Gezeigt wird das
 Tattoo im Wandel der Zeit, verschiedene Stilrichtungen, es werden Interviews mit
@@ -59,3 +56,5 @@ können.
 
 [Homepage](http://www.mkg-hamburg.de/de/home.html) Museum für Kunst und Gewerbe
 Hamburg
+
+  

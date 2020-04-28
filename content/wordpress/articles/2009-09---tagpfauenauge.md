@@ -5,8 +5,7 @@ slug: tagpfauenauge
 link: /2009/09/tagpfauenauge/
 fileName: 2009-09---tagpfauenauge.md
 description: Tagpfauenauge - Gesehen in Friedberg
-excerpt:
-  Dieses wunderbare Tagpfauenauge habe ich in Friedberg in Bayern gesehen.
+excerpt: Dieses wunderbare Tagpfauenauge habe ich in Friedberg in Bayern gesehen.
 focusKeyword: Tagpfauenauge
 labels:
   - Ausflug
@@ -21,5 +20,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11464"
+image: /img/demo.jpg
+errors: []
 subTitle: Gesehen in Friedberg
+  
 ---
+
+
+  

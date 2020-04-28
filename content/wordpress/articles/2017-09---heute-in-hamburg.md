@@ -4,12 +4,12 @@ seoTitle: Heute in Hamburg - Ein sonniger Tag - Gedanken und Bilder
 slug: heute-in-hamburg
 link: /2017/09/heute-in-hamburg/
 fileName: 2017-09---heute-in-hamburg.md
-description:
-  Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt. Ganz nebenbei
-  schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn Festival ging.
-excerpt:
-  Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt. Ganz nebenbei
-  schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn Festival ging.
+description: Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt.
+  Ganz nebenbei schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn
+  Festival ging.
+excerpt: Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt. Ganz
+  nebenbei schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn
+  Festival ging.
 focusKeyword: heute
 labels:
   - "#iseefaces"
@@ -29,12 +29,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17904"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein sonniger Tag
+  
 ---
 
-<strong>Von Altona ging es heute für uns in Richtung Sternschanze zum Flohmarkt.
-Die "Flohschanze" ist bei uns sehr beliebt. Da wir sie schon länger nicht mehr
-besucht haben, stand heute bei sonnigem Wetter ein Besuch dort an.</strong>
+**Von Altona ging es heute für uns in Richtung Sternschanze zum Flohmarkt. Die
+"Flohschanze" ist bei uns sehr beliebt. Da wir sie schon länger nicht mehr
+besucht haben, stand heute bei sonnigem Wetter ein Besuch dort an.**
 
 Ganz nebenbei schlenderten wir noch in ein Künstleratelier hinein, bevor wir im
 Anschluss zum Reeperbahn-Festival aufbrachen. Auf Instagram habe ich gerade eine
@@ -51,3 +54,5 @@ Bleib so wie Du bist. Für mich bist Du perfekt.
 
 [gallery type="rectangular" link="none" size="large"
 ids="17904,17903,17902,17901"]
+
+  

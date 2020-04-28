@@ -4,12 +4,12 @@ seoTitle: Frühlingsleichtes Sesam-Brot - Rezept mit Kichererbsenmehl
 slug: sesambrot-kichererbsenmehl
 link: /2017/04/sesambrot-kichererbsenmehl/
 fileName: 2017-04---frueh-lings-leich-tes-sesam-brot.md
-description:
-  "Ich verrate Euch ein Rezept, dass ich vor Kurzem kreiert habe. Das Brot ist
-  schön leicht. Es passt sehr gut zu Gegrilltem. Der Twist: Kichererbsenmehl."
-excerpt:
-  "Ich verrate Euch ein Rezept, dass ich vor Kurzem kreiert habe. Das Brot ist
-  schön leicht. Es passt sehr gut zu Gegrilltem. Der Twist: Kichererbsenmehl."
+description: "Ich verrate Euch ein Rezept, dass ich vor Kurzem kreiert habe. Das
+  Brot ist schön leicht. Es passt sehr gut zu Gegrilltem. Der Twist:
+  Kichererbsenmehl."
+excerpt: "Ich verrate Euch ein Rezept, dass ich vor Kurzem kreiert habe. Das
+  Brot ist schön leicht. Es passt sehr gut zu Gegrilltem. Der Twist:
+  Kichererbsenmehl."
 focusKeyword: Kichererbsenmehl
 labels:
   - Bread with a twist
@@ -36,7 +36,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16474"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezept mit Kichererbsenmehl
+  
 ---
 
 ![Kichererbsenmehl](http://cardamonchai.com/wp-content/uploads/2017/04/34075362886_82e69c5ff9_k-640x480.jpg)
@@ -48,15 +51,13 @@ leicht und schmeckt richtig gut.
 
 ## Zutaten
 
-<ul>
-    <li>300 g Dinkelmehl</li>
-    <li>100 g Kichererbsenmehl</li>
-    <li>1 Würfel (42 g) Frischhefe</li>
-    <li>250 ml warmes Wasser</li>
-    <li>1 TL Agavendicksaft</li>
-    <li>2 TL gemalenes Meersalz</li>
-    <li>1 große Handvoll gemischte Sesamsaat (dunkel und hell)</li>
-</ul>
+- 300 g Dinkelmehl
+- 100 g Kichererbsenmehl
+- 1 Würfel (42 g) Frischhefe
+- 250 ml warmes Wasser
+- 1 TL Agavendicksaft
+- 2 TL gemalenes Meersalz
+- 1 große Handvoll gemischte Sesamsaat (dunkel und hell)
 
 ## Zubereitung
 
@@ -74,4 +75,6 @@ Guten Appetit!
 
 [myflickr tag="annesesambrot"]
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

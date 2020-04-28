@@ -4,13 +4,11 @@ seoTitle: Wie Picasso - nur mit Strom
 slug: wie-picasso-nur-mit-strom
 link: /2014/08/wie-picasso-nur-mit-strom/
 fileName: 2014-08---wie-picasso-nur-mit-strom.md
-description:
-  Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt - Voll
-  konzentriert überträgt Mat Reeseman der Tätowierer das Gemälde vom Papier auf
-  die Haut
-excerpt:
-  Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm, sondern auch
-  meinen Blog zieren.
+description: Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt -
+  Voll konzentriert überträgt Mat Reeseman der Tätowierer das Gemälde vom Papier
+  auf die Haut
+excerpt: Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm,
+  sondern auch meinen Blog zieren.
 focusKeyword: Picasso
 labels:
   - Black Owl Tattoo
@@ -34,13 +32,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8475"
+image: /img/demo.jpg
+errors: []
 subTitle: Teil II - Die Tattoo Session
+  
 ---
 
-[cardamonchai](/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/)
-zu arbeiten. </strong>
-
-![Stencil Stuff](http://cardamonchai.com/wp-content/uploads/2014/08/14793812307_71c9482f9b_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Stencil Stuff")
+![Stencil Stuff](http://cardamonchai.com/wp-content/uploads/2014/08/14793812307_71c9482f9b_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Stencil Stuff")
 
 Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm, sondern auch
 meinen Blog zieren. Das Kunstwerk ist die Grundlage für alles, was
@@ -49,8 +47,10 @@ meinen Blog zieren. Das Kunstwerk ist die Grundlage für alles, was
 ## cardamonchai schon bald in neuem Gewand
 
 Bereits vor etlichen Wochen hatten wir einen Termin bei
-[Brand Ink Tattoo](https://www.facebook.com/media/set/?set=a.608510459231621.1073741826.293235204092483&type=3)
-in Augsburg unters Volk. Wir sahen seine Bilder auf der Homepage, waren sofort
+[Mat Reesman](https://www.facebook.com/media/set/?set=a.608510459231621.1073741826.293235204092483&type=3)
+vereinbart. Mat ist ein wahrer Meister seines Fachs und seit kurzem bringt er
+seine Kunstwerke bei [Brand Ink Tattoo](http://www.brandink-tattoo.com) in
+Augsburg unters Volk. Wir sahen seine Bilder auf der Homepage, waren sofort
 verliebt und wussten: Das wird unser Tätowierer sein. Mats Schwerpunkte sind
 Comic, Color, Oldschool und Realistic, alle drei Disziplinen beherrscht er
 perfekt.
@@ -61,7 +61,7 @@ Wir hatten einen Doppeltermin vereinbart, denn Matze hatte ja auch ein Tattoo
 geplant, wenn auch ein etwas kleineres, auch dieses spielt in meinem neuen
 Homepagedesign eine Rolle.
 
-![Starker Kaffee im Stehcafé nebenan](http://cardamonchai.files.wordpress.com/2014/08/14791294977_c2fb5027e9_o.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Starker Kaffee im Stehcafé nebenan")
+![Starker Kaffee im Stehcafé nebenan](http://cardamonchai.files.wordpress.com/2014/08/14791294977_c2fb5027e9_o.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Starker Kaffee im Stehcafé nebenan")
 
 Pünktlich um 10 Uhr standen wir im Laden und staunten nicht schlecht, als uns
 Mat seine Entwürfe zeigte, die aus unseren Zeichnungen entstanden waren. Genau
@@ -88,9 +88,11 @@ Bild für mich umgesetzt hatte und dass das absolut ich bin, es also perfekt zu
 mir passt. Dabei musste ich schon fasst ein Bisschen aufpassen, nicht alles mit
 meinen Freudentränen zu durchtränken. :-P
 
-<blockquote>Mat, thank you so much! You've done such great work! The tats are absolutely awesome! We're looking forward to seeing you in January an we're so glad, you're staying here in Augsburg! :-)</blockquote>
+> Mat, thank you so much! You've done such great work! The tats are absolutely
+> awesome! We're looking forward to seeing you in January an we're so glad,
+> you're staying here in Augsburg! :-)
 
-![Picasso](http://cardamonchai.com/wp-content/uploads/2014/08/tattoo-session-213-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Brand Ink Tattoo")
+![Picasso](http://cardamonchai.com/wp-content/uploads/2014/08/tattoo-session-213-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Brand Ink Tattoo")
 
 Nach einer einstündigen Pause, war Matze dran und seine Eule wurde auf seinen
 Arm übertragen. Matze hatte sich im Gegensatz zu mir für eine
@@ -137,9 +139,12 @@ Ihr es auf www.cardamonchai.com live und in Farbe: Mein neues Design!
 
 Kussi Anne &lt;3
 
-<small><em>PS: Weitere Bilder findet Ihr wie immer in meinem
-[](https://www.flickr.com/photos/99929697@N07/)
+<small> _PS: Weitere Bilder findet Ihr wie immer in meinem
+[Flickr](https://www.flickr.com/photos/99929697@N07/). _ </small>
+[_ **Hier gehts zum dritten Teil des Artikels** _](/2015/02/blog-relaunch-und-umzug-nach-hamburg/)
 
 [gallery type="rectangular" link="none" ids="8483,8482,8481"]
 
 &nbsp;
+
+  

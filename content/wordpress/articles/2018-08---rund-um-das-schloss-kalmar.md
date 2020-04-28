@@ -4,13 +4,12 @@ seoTitle: Rund um das Schloss Kalmar - Schwäne, Ostsee-Sund und alte Gemäuer
 slug: rund-um-das-schloss-kalmar
 link: /2018/08/rund-um-das-schloss-kalmar/
 fileName: 2018-08---rund-um-das-schloss-kalmar.md
-description:
-  Das Schoss von Kalmar erhielt sein heutiges Aussehen, als die Wasa-Könige im
-  16. Jahrhundert aus der Festung einen Renaissance-Palast machten.
-excerpt:
-  Das Schoss von Kalmar erhielt sein heutiges Aussehen, als die Wasa-Könige im
-  16. Jahrhundert aus der Festung einen Renaissance-Palast machten. Am 21. Juni
-  haben wir es besucht und einiges gesehen.
+description: Das Schoss von Kalmar erhielt sein heutiges Aussehen, als die
+  Wasa-Könige im 16. Jahrhundert aus der Festung einen Renaissance-Palast
+  machten.
+excerpt: Das Schoss von Kalmar erhielt sein heutiges Aussehen, als die
+  Wasa-Könige im 16. Jahrhundert aus der Festung einen Renaissance-Palast
+  machten. Am 21. Juni haben wir es besucht und einiges gesehen.
 focusKeyword: Kalmar
 labels:
   - Kalmar Slott
@@ -34,13 +33,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21709"
+image: /img/demo.jpg
+errors: []
 subTitle: Schwäne, Ostsee-Sund und alte Gemäuer
+  
 ---
 
-<strong>Das Schloss (schwedisch "Slott") von Kalmar ist bereits 800 Jahre alt.
-Sein heutiges Aussehen erhielt es im 16. Jahrhundert. Damals wandelten die
+**Das Schloss (schwedisch "Slott") von Kalmar ist bereits 800 Jahre alt. Sein
+heutiges Aussehen erhielt es im 16. Jahrhundert. Damals wandelten die
 Wasa-Könige Johann III., Erich XIV. und Gustav die ehemals mittelalterliche
-Festung in einen Renaissance-Palast um.</strong>
+Festung in einen Renaissance-Palast um.**
 
 1180 war es ursprünglich als Kastel (Verteidigungsturm) erbaut worden. Schloss
 Kalmar spielt in der Schwedischen Geschichte durchaus eine Rolle. Unter anderem
@@ -72,4 +74,6 @@ und den tollen Fahrradwegen.
 
 [myflickr tag="annekalmarsverge062018liebe"]
 
-<strong>Quellen: </strong>Wikipedia, kalmarslott.se
+**Quellen:** Wikipedia, kalmarslott.se
+
+  

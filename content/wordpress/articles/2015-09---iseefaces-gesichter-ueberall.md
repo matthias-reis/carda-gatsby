@@ -4,12 +4,10 @@ seoTitle: "#iseefaces - Gesichter überall - Bildergalerie"
 slug: iseefaces-gesichter-ueberall
 link: /2015/09/iseefaces-gesichter-ueberall/
 fileName: 2015-09---iseefaces-gesichter-ueberall.md
-description:
-  "Unter dem Hashtag #iseefaces habe ich in den letzten Jahren eine stattliche
-  Fotosammlung mit versteckten Gesichtern angelegt."
-excerpt:
-  "Unter dem Hashtag #iseefaces teilen bei Instagram und in diversen anderen
-  Fotonetzwerken täglich tausende Internetznutzer die interessantesten,
+description: "Unter dem Hashtag #iseefaces habe ich in den letzten Jahren eine
+  stattliche Fotosammlung mit versteckten Gesichtern angelegt."
+excerpt: "Unter dem Hashtag #iseefaces teilen bei Instagram und in diversen
+  anderen Fotonetzwerken täglich tausende Internetznutzer die interessantesten,
   lustigsten und skurrilsten Bilder."
 focusKeyword: "#iseefaces"
 labels:
@@ -30,12 +28,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12865"
+image: /img/demo.jpg
+errors: []
 subTitle: Bildergalerie
+  
 ---
-
-<strong>Unter dem Hashtag #iseefaces teilen bei Instagram und in diversen
-anderen Fotonetzwerken täglich tausende Internetznutzer die interessantesten,
-lustigsten und skurrilsten Bilder. </strong>
 
 Alles, was man sich zum Thema "Ich habe ein Gesicht gefunden, siehst Du es
 auch?" vorstellen kann, wird unter dem Titel #iseefaces ins Web gestellt. Vom
@@ -59,3 +56,5 @@ seht! :-P
 Einen interessanten Artikel zum Thema #YOLO
 [findet Ihr hier](/2015/04/yolo-you-only-live-once/). Zu meinem Flickr geht es
 [hier entlang](https://www.flickr.com/photos/99929697@N07/albums).
+
+  

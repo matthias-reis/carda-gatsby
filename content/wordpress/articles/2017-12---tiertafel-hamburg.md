@@ -1,16 +1,15 @@
 ---
 title: Tiertafel Hamburg
-seoTitle:
-  Weihnachts-Futterausgabe der Tiertafel Hamburg - Herz für Tier & Mensch
+seoTitle: Weihnachts-Futterausgabe der Tiertafel Hamburg - Herz für Tier & Mensch
 slug: weihnachtsfutterausgabe-bei-der-tiertafel-hamburg
 link: /2017/12/weihnachtsfutterausgabe-bei-der-tiertafel-hamburg/
 fileName: 2017-12---tiertafel-hamburg.md
-description:
-  Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg statt. Vor allem
-  Spezialfutter war sehr gefragt. Spendet für die nächste Ausgabe im Januar!
-excerpt:
-  Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg statt. Vor allem
-  Spezialfutter war sehr gefragt. Spendet für die nächste Ausgabe im Januar!
+description: Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg
+  statt. Vor allem Spezialfutter war sehr gefragt. Spendet für die nächste
+  Ausgabe im Januar!
+excerpt: Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg statt.
+  Vor allem Spezialfutter war sehr gefragt. Spendet für die nächste Ausgabe im
+  Januar!
 focusKeyword: Tiertafel Hamburg
 labels:
   - Hamburg
@@ -33,13 +32,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18666"
+image: /img/demo.jpg
+errors: []
 subTitle: Weihnachts-Futterausgabe
+  
 ---
 
-<strong>Ein Herz für Tiere und Menschen bewiesen alle, die in den letzten Wochen
-für die Tiertafel Hamburg gespendet haben und damit die Weihnachts-Futterausgabe
+**Ein Herz für Tiere und Menschen bewiesen alle, die in den letzten Wochen für
+die Tiertafel Hamburg gespendet haben und damit die Weihnachts-Futterausgabe
 möglich gemacht haben. Zahlreiche freiwillige HelferInnen packten mit an und
-verteilten Futter, Spielzeug, Decken, Leckerlis und Streicheleinheiten.</strong>
+verteilten Futter, Spielzeug, Decken, Leckerlis und Streicheleinheiten.**
 
 ![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/12/25166298298_0666acfa9f_z-300x400.jpg)
 
@@ -92,8 +94,8 @@ Gespendet werden kann über Paypal. Die Paypal E-Mail-Adresse lautet 
 
 Natürlich könnt Ihr überweisen. Sendet Euer Geld bitte an folgendes Konto
 
-<b>tiertafelhamburg e.v. GLS Gemeinschaftsbank eG IBAN: DE95 4306 0967 2053 0658
-00 BIC: GENODEM1GLS</b>
+**tiertafelhamburg e.v. GLS Gemeinschaftsbank eG IBAN: DE95 4306 0967 2053 0658
+00 BIC: GENODEM1GLS**
 
 Den Amazon-Wunschzettel sowie alle Infos, wie Ihr mit Sachspenden am besten
 verfahrt und wie Ihr sonst noch helfen könnt, 
@@ -107,3 +109,5 @@ Tiertafel Hamburg
 [Interview Teil 2 - Tiertafel Hamburg](/2017/10/die-tiertafel-hamburg-stellt-sich-vor/)
 
 [myflickr tag="annetiertafelhamburg122017"]
+
+  

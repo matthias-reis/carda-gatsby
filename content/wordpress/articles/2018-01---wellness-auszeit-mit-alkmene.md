@@ -4,13 +4,12 @@ seoTitle: Wellness-Auszeit mit Alkmene - Vegane Badezusätze & Lotions im Test
 slug: wellness-mit-alkmene
 link: /2018/01/wellness-mit-alkmene/
 fileName: 2018-01---wellness-auszeit-mit-alkmene.md
-description:
-  Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau ist. Darum
-  hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und Lotions.
-excerpt:
-  Werbung - Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau
+description: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau
   ist. Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und
   Lotions.
+excerpt: Werbung - Ich bin ein großer Badefan. Gerade wenn es draußen so richtig
+  grau ist. Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze
+  und Lotions.
 focusKeyword: alkmene
 labels:
   - Badezusatz
@@ -44,15 +43,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19128"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Badezusätze und Bodylotions
+  
 ---
 
 Werbung\*
 
-<strong>Mein [Artikel](/2017/12/alkmene-der-ultimative-produkttest/) über die
-veganen Pflegeprodukte von Alkmene hier im Blog erfreut sich großer Beliebtheit.
-Doch nicht nur aus diesem Grund, habe ich mich entschlossen, noch weitere
-Produkte des Herstellers genauer unter die Lupe zu nehmen.</strong>
+**Mein [Artikel](/2017/12/alkmene-der-ultimative-produkttest/) über die veganen
+Pflegeprodukte von Alkmene hier im Blog erfreut sich großer Beliebtheit. Doch
+nicht nur aus diesem Grund, habe ich mich entschlossen, noch weitere Produkte
+des Herstellers genauer unter die Lupe zu nehmen.**
 
 Ich bin ein großer Badefan. Gerade wenn es draußen so richtig schön eklig grau
 ist, sind kleine Wellness-Auszeiten mit Badewanne, reichhaltigen Lotions und
@@ -139,29 +141,37 @@ Pflege.
 
 Sowohl für das von mir vor kurzem getestete Set aus Shampoo, Spülung und
 Duschgel, als auch für das Badezusatz- und Lotion-Sortiment und für die
-komplette Produktpalette aus dem Hause Alkmene<em> </em>gilt:
+komplette Produktpalette aus dem Hause Alkmene \_\_ gilt:
 
-<ul>
-    <li>Alle Produkte sind komplett vegan.</li>
-    <li>Auf Tierversuche wird für die Produkte sowie die dafür benötigten Rohstoffe verzichtet.</li>
-    <li>Parabene, Natrium Lauryl Sulfate (SLS), Natrium Sulfate (SLES), PEGs, Silikone und Mineralöle kommen in den Produkten nicht vor.</li>
-    <li>Die Verpackungen sind aus Recycling-Material (Die Badzusätze werden in Glasflaschen geliefert, alles andere in Tuben oder Flaschen aus Kunststoff).</li>
-    <li>Alles wird in Deutschland hergestellt.</li>
-    <li>Die für die Alkmene Produkte verwendeten Heilkräuter und Pflanzen stammen aus kontrolliert biologischem Anbau.</li>
-</ul>
+- Alle Produkte sind komplett vegan.
+- Auf Tierversuche wird für die Produkte sowie die dafür benötigten Rohstoffe
+  verzichtet.
+- Parabene, Natrium Lauryl Sulfate (SLS), Natrium Sulfate (SLES), PEGs, Silikone
+  und Mineralöle kommen in den Produkten nicht vor.
+- Die Verpackungen sind aus Recycling-Material (Die Badzusätze werden in
+  Glasflaschen geliefert, alles andere in Tuben oder Flaschen aus Kunststoff).
+- Alles wird in Deutschland hergestellt.
+- Die für die Alkmene Produkte verwendeten Heilkräuter und Pflanzen stammen aus
+  kontrolliert biologischem Anbau.
 
 ![Alkmene | full](http://cardamonchai.com/wp-content/uploads/2017/12/Alkmene.png)
 
-## gibt es schon bald 50 Jahre
+## Alkmen _e_ gibt es schon bald 50 Jahre
 
 ![alkmene](http://cardamonchai.com/wp-content/uploads/2018/01/26007019278_b05524c077_z-300x200.jpg)
 
-.
+Das Unternehmen gibt es inzwischen seit fast 50 Jahren. Im Fokus stehen gut
+verträgliche Pflegeprodukte auf der Basis von Blüten und Heilpflanzen. Wer mehr
+über die Geschichte von Alkmene sowie einige weitere von mir geteste Produkte
+erfahren möchte, kann sich
+[diesen Artikel hier durchlesen](/2017/12/alkmene-der-ultimative-produkttest/).
 
 Zur Alkmene Homepage geht es [hier entlang](http://alkmene.de). Übrigens findet
 Ihr die Intensiv Cremeöl Lotion mit Bio-Olive sowie die Bio-Malve Körperbalsam
 seit einiger Zeit auch bei DM im Regal.
 
-<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+_Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
-findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

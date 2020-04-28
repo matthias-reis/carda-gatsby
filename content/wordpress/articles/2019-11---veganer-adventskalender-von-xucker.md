@@ -4,12 +4,11 @@ seoTitle: Veganer Adventskalender von Xucker - Geschenktipp
 slug: veganer-adventskalender-von-xucker
 link: /2019/11/veganer-adventskalender-von-xucker/
 fileName: 2019-11---veganer-adventskalender-von-xucker.md
-description:
-  Schön sieht er ja schon mal aus der vegane Adventskalender von Xucker. Hinter
-  jedem Türchen steckt vegane Gentechnik-freie Edelbitterschokolade.
-excerpt:
-  Werbung und Affiliate Links - Schön sieht er ja schon mal aus der vegane
-  Adventskalender von Xucker. Hinter jedem Türchen steckt vegane
+description: Schön sieht er ja schon mal aus der vegane Adventskalender von
+  Xucker. Hinter jedem Türchen steckt vegane Gentechnik-freie
+  Edelbitterschokolade.
+excerpt: Werbung und Affiliate Links - Schön sieht er ja schon mal aus der
+  vegane Adventskalender von Xucker. Hinter jedem Türchen steckt vegane
   Gentechnik-freie Edelbitterschokolade.
 focusKeyword: vegane-adventskalender
 labels:
@@ -27,16 +26,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26727"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Geschenkidee
+  
 ---
 
-<em>Werbung &amp; Affiliate Links</em>
+_Werbung &amp; Affiliate Links_
 
-<strong>Ich wollte es ja zuerst nicht wahrhaben, aber: die stille Zeit steht
-wieder vor der Tür. Obwohl es draußen noch nicht wirklich kalt ist, darf man
-sich so langsam Gedanken darüber machen, was man den Lieben für hübsche
-Kleinigkeiten zukommen lassen könnte. Ich habe heute schon mal einen Tipp für
-Euch.</strong>
+**Ich wollte es ja zuerst nicht wahrhaben, aber: die stille Zeit steht wieder
+vor der Tür. Obwohl es draußen noch nicht wirklich kalt ist, darf man sich so
+langsam Gedanken darüber machen, was man den Lieben für hübsche Kleinigkeiten
+zukommen lassen könnte. Ich habe heute schon mal einen Tipp für Euch.**
 
 Schön sieht er ja schon mal aus
 [der vegane Adventskalender von Xucker.](http://tidd.ly/19db42da) Hinter jedem
@@ -53,13 +54,11 @@ zahnfreundliches Xylit. Hinzu kommt ein Hauch von Vanille.
 
 ### Hier die komplette Zutatenliste:
 
-<ul>
-    <li>Kakaomasse</li>
-    <li>Xylit (23 Prozent)</li>
-    <li>Kakaobutter</li>
-    <li>Sonnenblumen-Lecitine</li>
-    <li>Bourbon-Vanille.</li>
-</ul>
+- Kakaomasse
+- Xylit (23 Prozent)
+- Kakaobutter
+- Sonnenblumen-Lecitine
+- Bourbon-Vanille.
 
 Der Adventskalender mit dem süßen Vogelmotiv ist 242 x 172 x 11 cm groß und hat
 einen Standfuß. Man kann ihn also ganz bequem auf dem Schreibtisch aufstellen
@@ -85,7 +84,9 @@ und die Gewinnung des veganen Süßstoffs erfahren möchte,
 [findet hier weitere Infos](https://wp.me/p533wO-6WI). [glry
 name="adventskalender"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

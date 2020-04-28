@@ -4,13 +4,12 @@ seoTitle: Pflanzenmilch? Wieso denn bloß? - warum Veganer auf Milch verzichten
 slug: pflanzenmilch-wieso-denn-blos
 link: /2014/09/pflanzenmilch-wieso-denn-blos/
 fileName: 2014-09---pflanzenmilch-wieso-denn-bloss.md
-description:
-  Veganer essen nicht nur kein Fleisch und keine Eier, verzichten auf Echtleder,
-  Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Und warum?
-excerpt:
-  Veganer*innen essen nicht nur kein Fleisch und keine Eier, verzichten auf
-  Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Aber
-  warum denn eigentlich?
+description: Veganer essen nicht nur kein Fleisch und keine Eier, verzichten auf
+  Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Und
+  warum?
+excerpt: Veganer*innen essen nicht nur kein Fleisch und keine Eier, verzichten
+  auf Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich.
+  Aber warum denn eigentlich?
 focusKeyword: Pflanzenmilch
 labels:
   - Bio
@@ -40,14 +39,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8836"
+image: /img/demo.jpg
+errors: []
 subTitle: 10 Fakten über Veganismus - Teil V
+  
 ---
-
-## Von besamten Kühen und einsamen Kälbchen<strong><span style="text-decoration: underline;"><em> [Hier gehts zu Teil 4 des Artikels](/2014/08/vitamin-b12-mythos-und-wahrheit/) </em></span>
-
-Veganer\*innen essen nicht nur kein Fleisch und keine Eier, verzichten auf
-Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Aber
-warum denn eigentlich?</strong>
 
 "Das mit dem Fleisch kann ich ja noch ansatzweise verstehen, aber auf Milch zu
 verzichten, wär' mir echt zu krass!" - So oder so ähnlich formuliert, hört oder
@@ -57,10 +53,10 @@ Erst gestern ging es mir wieder so. Wieso denn bloß?
 
 ## Wieso denn bloß?<iframe src="https://www.youtube.com/embed/fmCYjJBNNCw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-"Dass Kühe ständig <strong>Milch</strong> geben, ist doch absolut natürlich!
-Wenn die nicht gemolken werden, bekommen sie Schmerzen!" - Habt Ihr diesen Satz
-auch schon mal zu hören bekommen? Von einem erwachsenen Menschen? Ich werde das
-leider immer wieder gefragt.
+"Dass Kühe ständig **Milch** geben, ist doch absolut natürlich! Wenn die nicht
+gemolken werden, bekommen sie Schmerzen!" - Habt Ihr diesen Satz auch schon mal
+zu hören bekommen? Von einem erwachsenen Menschen? Ich werde das leider immer
+wieder gefragt.
 
 ## Künstliche Besamung
 
@@ -72,8 +68,8 @@ klar zu sein.
 
 Egal, ob auf Biohöfen oder in Massenbetrieben: Kühe werden künstlich besamt,
 damit sie Milch geben. Dies geschieht natürlich gegen ihren Willen. Ist die
-Besamung erfolgreich, kommt rund 280 Tage später ein <strong>Kälbchen</strong>
-zur Welt, das, sobald es stehen kann, von der Mutter getrennt wird.
+Besamung erfolgreich, kommt rund 280 Tage später ein **Kälbchen** zur Welt, das,
+sobald es stehen kann, von der Mutter getrennt wird.
 
 <iframe src="https://www.youtube.com/embed/IzOjqeKdYn8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>## Trennung sofort nach der Geburt
 
@@ -93,11 +89,11 @@ angebunden im Stall und ruft nach ihrem Kind.".
 Dies alles ist nötig, damit erwachsene Menschen die Muttermilch des Kälbchens
 trinken können.
 
-Direkt nach der Geburt werden die <strong>Kälber</strong> in Einzelboxen (Iglus)
-gebracht. Zitat von einer Seite für Kälberaufzucht im Internet: "Direkt nach der
-Geburt steht den Kälbern eine saubere, desinfizierte Einzelbox zur Verfügung, wo
-sie (im Anschluss an die Kolostrumperiode) mit Milchaustauscher, Kälberpellets
-und Luzerne versorgt werden. Die Boxen wurden so konstruiert, dass der/die
+Direkt nach der Geburt werden die **Kälber** in Einzelboxen (Iglus) gebracht.
+Zitat von einer Seite für Kälberaufzucht im Internet: "Direkt nach der Geburt
+steht den Kälbern eine saubere, desinfizierte Einzelbox zur Verfügung, wo sie
+(im Anschluss an die Kolostrumperiode) mit Milchaustauscher, Kälberpellets und
+Luzerne versorgt werden. Die Boxen wurden so konstruiert, dass der/die
 Landwirt/in von der Seite Zugang zu den Kälbern hat ohne den eigentlichen Stall
 zu betreten. Letztendlich bilden gute Hygienemaßnahmen aber die Basis für ein
 reduziertes Auftreten von Krankheiten. Nach 14 Tagen, wenn die Kälber an
@@ -114,9 +110,9 @@ Kraftfutter in einem Trog angeboten."
 Als ob die Trennung von der Mutter direkt nach der Geburt nicht schon schlimm
 genug wäre, wird den Kälbchen nun auch noch die Muttermilch verwehrt. So steht
 es auf der Seite eines Händlers für Kälbchenfütterungsmaschinen: "Wenn die
-<strong>Biestmilch</strong> direkt vom Muttertier an das Kalb verfüttert wird,
-ist - unabhängig von der Qualität - die Menge der Immunglobuline, die das Kalb
-erhält, vollständig dem Zufall überlassen. Dies wirkt sich wiederum auf die
+**Biestmilch** direkt vom Muttertier an das Kalb verfüttert wird, ist -
+unabhängig von der Qualität - die Menge der Immunglobuline, die das Kalb erhält,
+vollständig dem Zufall überlassen. Dies wirkt sich wiederum auf die
 Lebensleistung als spätere Kuh aus."
 
 Die von der Milchindustrie als "Biestmilch" oder auch "Kolostralmilch"
@@ -129,11 +125,10 @@ zu sparen, eingefroren.
 
 ## Männliche Tiere in den seltensten Fällen älter als ein Jahr
 
-Die Kälber werden dann in der im Zitat oben sogenannten
-"<strong>Kolostralphase</strong>", die in der Regel 3 Tage dauert, mit
-aufgetauter Milch gefüttert, die in den seltensten Fällen von der eigenen Mutter
-stammt. Im Anschluss folgt dann die Fütterung mit dem sogenannten
-"Milchaustauscher"
+Die Kälber werden dann in der im Zitat oben sogenannten " **Kolostralphase** ",
+die in der Regel 3 Tage dauert, mit aufgetauter Milch gefüttert, die in den
+seltensten Fällen von der eigenen Mutter stammt. Im Anschluss folgt dann die
+Fütterung mit dem sogenannten "Milchaustauscher"
 
 ![Iglus](http://cardamonchai.com/wp-content/uploads/2014/09/iglus-640x853.jpg "Iglus")
 
@@ -156,12 +151,12 @@ EU-Ländern im Durchschnitt rund 6.700 kg, in den USA bis zu 9.750 kg pro Jahr
 ![](http://cardamonchai.com/wp-content/uploads/2014/09/5-jc3a4hrige-kuh-natc3bcrliches-euter-640x480.jpg "Natürliches Euter einer 5-Jährigen Kuh (Auf einem Gnadenhof)")
 
 Für die Ernährung eines Kalbes sind 8 kg Milch pro Tag vollkommen ausreichend,
-die heutigen <strong>Hochleistungskühe</strong> schaffen 50 kg Milch pro Tag.
+die heutigen **Hochleistungskühe** schaffen 50 kg Milch pro Tag.
 Selbstverständlich gibt es rassenspezifische Schwankungen.
 
 Rinder haben eine natürliche Lebenserwartung von 15-20 (maximal 30 Jahren), in
 der Milchindustrie werden sie, sobald ihre Milchleistung nachlässt, das bedeutet
-spätestens nach 4 - 6 Jahren, zur <strong>Schlachtbank</strong> geführt.
+spätestens nach 4 - 6 Jahren, zur **Schlachtbank** geführt.
 
 ## Kälbchen ersticken unter Qualen im getöteten Mutterleib
 
@@ -186,10 +181,10 @@ Auswirkungen dies wiederum auf die Mutter und ihr ungeborenes Kind hat, kann
 sich wohl kein Mensch ausmalen.
 
 Nein, es ist nicht natürlich, dass Menschen die Muttermilch anderer Lebewesen
-trinken. Wir haben uns weiterentwickelt. Die <strong>Evolution</strong> hat
-nicht nur dafür gesorgt, dass wir aufrecht gehen und einige von uns Autos und
-Mondraketen konstruieren können, sie hat auch dafür gesorgt, dass wir Prozesse
-automatisiert haben, die ganz klar nicht automatisiert gehören.
+trinken. Wir haben uns weiterentwickelt. Die **Evolution** hat nicht nur dafür
+gesorgt, dass wir aufrecht gehen und einige von uns Autos und Mondraketen
+konstruieren können, sie hat auch dafür gesorgt, dass wir Prozesse automatisiert
+haben, die ganz klar nicht automatisiert gehören.
 
 ## Heutige Milchindustrie nicht zu entschuldigen
 
@@ -203,10 +198,9 @@ nicht.
 
 So schrieb eine junge Landwirtin in einem Forum für Viehzucht, dass sie nicht
 mehr weiter wisse, die Kälbchen würden partout das Futter aus dem Tränkeimer
-nicht zu sich nehmen wollen, hier müsse doch ein <strong>Vitaminmangel</strong>
-vorliegen. Möglich ist das, das möchte ich bei aufgetauter Milch von einer
-fremden Kuh nicht bezweifeln, aber was hier viel schwerer wiegt, ist der
-Muttermangel.
+nicht zu sich nehmen wollen, hier müsse doch ein **Vitaminmangel** vorliegen.
+Möglich ist das, das möchte ich bei aufgetauter Milch von einer fremden Kuh
+nicht bezweifeln, aber was hier viel schwerer wiegt, ist der Muttermangel.
 
 In solchen Fällen kommt es übrigens zum sogenannten "Drenchen": Die
 "saugunwilligen" (so nennt es sich im Fachjargon, wenn ein Kalb nicht aus einem
@@ -226,10 +220,10 @@ Bio-Milchkühe.
 
 Weder "Öko" noch "Bio" steht für glückliche Tiere, auch wenn das die landläufige
 Meinung ist und dies auch gerne mal verbreitet wird. Von "artgerechter Haltung"
-kann auch auf Biohöfen keine Rede sein. Für die <strong>Milchproduktion</strong>
-muss eine Bio-Kuh jedes Jahr ein Kalb austragen, was nach der Geburt passiert,
-gleicht dem oben beschriebenen Prozess, als "Nebenprodukt" der Milchproduktion
-hat das Kalb keinen Anspruch auf die Milch seiner Mutter.
+kann auch auf Biohöfen keine Rede sein. Für die **Milchproduktion** muss eine
+Bio-Kuh jedes Jahr ein Kalb austragen, was nach der Geburt passiert, gleicht dem
+oben beschriebenen Prozess, als "Nebenprodukt" der Milchproduktion hat das Kalb
+keinen Anspruch auf die Milch seiner Mutter.
 
 ![Weibliche Tierkinder in einem Milchkuhbetrieb](http://cardamonchai.com/wp-content/uploads/2014/09/weibliche-tierkinder-in-einem-milchkuhbetrieb-640x428.jpg "Weibliche Tierkinder in einem Milchkuhbetrieb")
 
@@ -260,8 +254,8 @@ werden, genau wie in den konventionellen Großbetrieben, hunderte oder sogar
 tausende Tiere gehalten.
 
 Auch das Schlachten ist nicht weniger grausam, als in "normalen" Betrieben, die
-Rinder werden mit dem <strong>Bolzenschussgerät</strong> betäubt, im Anschluss
-bekommen sie einen Schnitt durch die Kehle und bluten aus.
+Rinder werden mit dem **Bolzenschussgerät** betäubt, im Anschluss bekommen sie
+einen Schnitt durch die Kehle und bluten aus.
 
 ![Durchgehender Nasenring und Viehsaugentwöhner](http://cardamonchai.com/wp-content/uploads/2014/09/durchgehender-nasenring-und-viehsaugentwc3b6hner-640x429.jpg "Durchgehender Nasenring und Viehsaugentwöhner")
 
@@ -291,11 +285,11 @@ sich auch ganz leicht selber machen.
 ![Angst](http://cardamonchai.com/wp-content/uploads/2014/09/angst.jpg "Angst")
 
 80 Prozent der weltweiten Sojaernte werden zu Viehfutter verarbeitet, weitere
-Produkte, die aus Soja hergestellt werden sind zum Beispiel
-<strong>Biodiesel</strong>, Kunststoffe, Kosmetika und Farben. Zwei Prozent
-werden für Lebensmittel verwendet. Hierzulande verkaufte Sojaprodukte (somit
-auch Tofu und Milch), stammen aus Deutschland und Österreich. Mehr zum Thema
-findet Ihr in meinem Artikel
+Produkte, die aus Soja hergestellt werden sind zum Beispiel **Biodiesel** ,
+Kunststoffe, Kosmetika und Farben. Zwei Prozent werden für Lebensmittel
+verwendet. Hierzulande verkaufte Sojaprodukte (somit auch Tofu und Milch),
+stammen aus Deutschland und Österreich. Mehr zum Thema findet Ihr in meinem
+Artikel
 "[Soja, Klimaschutz und ökologischer Fussabdruck](//2014/07/30/10-fakten-uber-vegane-ernahrung/)"
 . Für die "Produktion" eines Rindersteaks werden 4.000 Liter Wasser benötigt.
 
@@ -309,8 +303,8 @@ Fragen.
 
 Es gibt unter anderem Sojamilch, Reismilch, Dinkelmilch, Hafermilch,
 Makadamiamilch, Haselnussmilch, Mandelmilch und Kokosmilch. Ich trinke meinen
-Kaffee am liebsten mit Reismilch oder <strong>Mandelmilch</strong> und liebe
-Müsli mit Kokosmilch.
+Kaffee am liebsten mit Reismilch oder **Mandelmilch** und liebe Müsli mit
+Kokosmilch.
 
 ![EU-Sammelstelle Welden-Reutern kurz vor dem Transport nach Spanien](http://cardamonchai.com/wp-content/uploads/2014/09/eu-sammelstelle-welden-reutern-kurz-vor-dem-transport-nach-spanien.jpg "EU-Sammelstelle Welden-Reutern kurz vor dem Transport nach Spanien")
 
@@ -349,12 +343,11 @@ das Kalzium, die Anfälligkeit für Osteoporose steigt.
 
 ![Eingewachsener Nasenring](http://cardamonchai.com/wp-content/uploads/2014/09/eingewachsener-nasenring-640x429.jpg "Eingewachsener Nasenring")
 
-Rund 75 Prozent der Weltbevölkerung leidet unter
-<strong>Laktoseintoleranz</strong> (Variiert von fünf Prozent in
-nordeuropäischen Ländern, 15 Prozent in Deutschland, bis zu 71 Prozent in
-Sizilien und 90 Prozent in einigen afrikanischen und asiatischen Ländern).
-Milchprodukte weisen einen hohen Anteil an gesättigten Fetten auf, die das
-Risiko von Herzerkrankungen erhöhen. Es wurde zudem in Studien nachgewiesen,
+Rund 75 Prozent der Weltbevölkerung leidet unter **Laktoseintoleranz** (Variiert
+von fünf Prozent in nordeuropäischen Ländern, 15 Prozent in Deutschland, bis zu
+71 Prozent in Sizilien und 90 Prozent in einigen afrikanischen und asiatischen
+Ländern). Milchprodukte weisen einen hohen Anteil an gesättigten Fetten auf, die
+das Risiko von Herzerkrankungen erhöhen. Es wurde zudem in Studien nachgewiesen,
 dass eine zu hohe Kalziumaufnahme bei Männern zu einer höheren Anfälligkeit für
 Prostatakrebs führt, dies wurde in einer langfristig angelegten Untersuchung der
 Harvard-University nachgewiesen, an der 20.000 Männer teilnahmen. Bei den
@@ -391,5 +384,34 @@ sie zwei (!) Wochen alt sind, dürfen sie nicht transportiert werden.
 [gallery size="tall" link="none" type="rectangular"
 ids="8811,8812,8813,8814,8815,8816,8817,8818,8819"]
 
-[biowahrheit.de](/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) und
-anonym - Danke an alle Fotografen/innen!
+[_ **Hier gehts zu Teil 6 des Artikels** _](/2014/10/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) ##
+Inhaltsverzeichnis "10 Fakten über Veganismus"1.
+[Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+
+1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
+1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
+1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
+1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
+1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
+1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)##
+    Links und Quellen1.
+    ["Das Leid der Kühe und ihrer Kälbchen"](/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/)
+1.  ["Blutige Zahlen"](//2014/08/22/blutige-zahlen/)
+1.  ["Weltwassertag"](http://www.peta.de/weltwassertag#.VA6nT0vY9v0) Peta
+1.  [One Green Planet](http://www.onegreenplanet.org)
+1.  [Milchkonsum und Multiple Sklerose Studie](http://www.ncbi.nlm.nih.gov/pubmed/1291895)
+1.  [Autismus und Schizophrenie Studie](http://www.ncbi.nlm.nih.gov/pubmed/17666771)
+1.  [Milchkonsum und Diabetes Studie](http://ajcn.nutrition.org/content/71/6/1525.full)
+    [](http://ajcn.nutrition.org/content/71/6/1525.full)
+1.  [Harvard-Studie zum Zusammenhang von Milchkonsum und Osteoporose](http://jn.nutrition.org/content/116/11/2316.full.pdf)
+1.  [Lactose intolerance](http://en.wikipedia.org/wiki/Lactose_intolerance)
+1.  [Die Biowahrheit](http://www.biowahrheit.de)
+1.  - [Ökologische Haltungssysteme](http://www.boelw.de/fileadmin/alf/biofrage_11.pdf)
+      **Bilder:** Monika München, Denise Hof-Slapansky von Augsburg is(s)t
+      vegan, [biowahrheit.de](http://www.biowahrheit.de) und anonym - Danke an
+      alle Fotografen/innen!
+
+  

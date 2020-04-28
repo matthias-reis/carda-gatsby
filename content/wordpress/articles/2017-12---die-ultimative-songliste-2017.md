@@ -4,12 +4,12 @@ seoTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
 slug: die-ultimative-songliste-2017-musikalischer-jahresrueckblick
 link: /2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/
 fileName: 2017-12---die-ultimative-songliste-2017.md
-description:
-  Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art bieten.
-  Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste 2017.
-excerpt:
-  Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art bieten.
-  Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste 2017.
+description: Ich möchte Euch den musikalischen Jahresrückblick der besonderen
+  Art bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative
+  Songliste 2017.
+excerpt: Ich möchte Euch den musikalischen Jahresrückblick der besonderen Art
+  bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative Songliste
+  2017.
 focusKeyword: Songliste
 labels:
   - A Perfect Circle
@@ -77,13 +77,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18710"
+image: /img/demo.jpg
+errors: []
 subTitle: Musikalischer Jahresrückblick
+  
 ---
 
-<strong>Heute möchte ich Euch einen musikalischen Jahresrückblick der besonderen
-Art bieten. Besonders darum, weil er mit den Listen, die Fernseh- und
-Radiosender zum Jahresende so zu veröffentlichen pflegen, so gar nichts zu tun
-hat. Hier ist meine persönliche Songliste 2017</strong>
+**Heute möchte ich Euch einen musikalischen Jahresrückblick der besonderen Art
+bieten. Besonders darum, weil er mit den Listen, die Fernseh- und Radiosender
+zum Jahresende so zu veröffentlichen pflegen, so gar nichts zu tun hat. Hier ist
+meine persönliche Songliste 2017**
 
 Musikalisch war in diesem Jahr so einiges geboten. Auch wenn man das an den
 Playlisten der gängigen Radiosender nicht unbedingt zu spüren bekam. Aber das
@@ -107,9 +110,12 @@ Als Fan der ersten Stunde bekam ich glänzende Augen, als ich vom neuen Album er
 
 ![songliste-2017](http://cardamonchai.com/wp-content/uploads/2017/12/And-So-I-Watch-You-From-Afar_ENDLESS-300x300.jpg)
 
-<li>
 ### Amplifier - "Anubis" vom Album Trippin' With Dr. Faustus
-Mit Trippin' With Dr. Faustus erschien dieses Jahr ein ganz besonderes  [Amplifier](/2013/04/amplifier-live-hansa-39-munchen/)  Album. Anubis ist bei weitem nicht der einzige Song darauf, der beim ersten Hören sofort ins Blut übergeht.
+
+Mit Trippin' With Dr. Faustus erschien dieses Jahr ein ganz besonderes
+[Amplifier](/2013/04/amplifier-live-hansa-39-munchen/) Album. Anubis ist bei
+weitem nicht der einzige Song darauf, der beim ersten Hören sofort ins Blut
+übergeht.
 
 <iframe src="https://www.youtube.com/embed/XuO_n8np-js" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -119,7 +125,7 @@ Eine kleine Sensation war die neue Single von A Perfect Circle. Eingefleischten 
 <iframe src="https://www.youtube.com/embed/SDvfbvuJtS8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
 ### Calexico - "Voices In The Field" vom Album The Tread That Keeps Us
-Die zweite Auskopplung vom für Januar angekündigten neuen  [End Of The World With You](/category/musik/calexico/) “. Doch hört selbst. Es ist Geschmacksache. Auf das Album bin ich allemal gespannt wie zwei Regenschirme.
+Die zweite Auskopplung vom für Januar angekündigten neuen  [Calexico](/category/musik/calexico/)  Werk The Tread That Keeps Us geht meiner Meinung nach noch mehr ins Ohr als „ [End Of The World With You](/2017/10/calexico-the-thread-that-keeps-us/) “. Doch hört selbst. Es ist Geschmacksache. Auf das Album bin ich allemal gespannt wie zwei Regenschirme.
 
 <iframe src="https://www.youtube.com/embed/9Xq2CnmSB_M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
     <li>
@@ -239,3 +245,5 @@ auch einzeln betrachtet sind sie alle perfekt und haben die gleiche Position in
 meiner Liste verdient. Die Zahlen sind somit nicht als Wertung zu verstehen.
 
 [Wer noch mehr gute Musik hören möchte, findet hier einen Nachtrag zur ultimativen Songliste 2017.](/2018/01/wichtiger-nachtrag-zur-musikliste/)
+
+  

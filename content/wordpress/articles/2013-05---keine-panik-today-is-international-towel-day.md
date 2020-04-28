@@ -4,12 +4,12 @@ seoTitle: Keine Panik! Today is International Towel Day!
 slug: keine-panik-today-is-international-towel-day
 link: /2013/05/keine-panik-today-is-international-towel-day/
 fileName: 2013-05---keine-panik-today-is-international-towel-day.md
-description:
-  Keine Panik! Das Handtuch ist gehisst! Heute ist der internationale Towel Day!
-  Zeit, die Hyperraum-Expressroute zu verlassen und den Frühling zu genießen!
-excerpt:
-  Keine Panik! Das Handtuch ist gehisst! Heute ist der internationale Towel Day!
-  Zeit, die Hyperraum-Expressroute zu verlassen und den Frühling zu genießen!
+description: Keine Panik! Das Handtuch ist gehisst! Heute ist der internationale
+  Towel Day! Zeit, die Hyperraum-Expressroute zu verlassen und den Frühling zu
+  genießen!
+excerpt: Keine Panik! Das Handtuch ist gehisst! Heute ist der internationale
+  Towel Day! Zeit, die Hyperraum-Expressroute zu verlassen und den Frühling zu
+  genießen!
 focusKeyword: Keine Panik
 labels:
   - "#towelday"
@@ -28,13 +28,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5467"
+image: /img/demo.jpg
+errors: []
 subTitle: Das Handtuch ist gehisst!
+  
 ---
-
-<strong>Gestern erzählte ich Euch
-[meine ganz persönliche Geschichte über den Towel Day](/2013/05/towel-day/) und
-die damit einhergehende Qual der Wahl, für welches Handtuch ich mich wohl dieses
-Jahr entscheiden werde.</strong>
 
 Nun ist es soweit! die Würfel sind gefallen! Das Handtuch ist gehisst! Für
 welches habt Ihr Euch entschieden? Ihr habt ja wohl auch schon Euer Handtuch
@@ -56,6 +54,6 @@ Mit intergalaktischen Grüßen
 
 ![Keine Panik! Das Handtuch ist gehisst! | large](http://cardamonchai.com/wp-content/uploads/2013/05/img_5386-800x1071.jpg "Das Handtuch ist gehisst! Seht, wie schön es von der Sonne beleuchtet wird!")
 
-<a class="banner banner-green" href="http://cardamonchai.com/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf" target="_blank" rel="noopener"><span class="head">Die
-ultimative Festivalliste</span><span class="text">Jetzt runterladen und
-ausdrucken </span></a>
+[Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+
+  

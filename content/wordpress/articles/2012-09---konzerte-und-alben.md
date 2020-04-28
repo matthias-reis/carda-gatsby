@@ -5,10 +5,9 @@ slug: konzerte-und-alben
 link: /2012/09/konzerte-und-alben/
 fileName: 2012-09---konzerte-und-alben.md
 description: ""
-excerpt:
-  Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider hat das
-  Versandhaus bei der Bearbeitung meiner Bestellung so einiges durcheinander
-  gebracht.
+excerpt: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider
+  hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges
+  durcheinander gebracht.
 focusKeyword: ""
 labels:
   - Archive
@@ -53,13 +52,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4137"
+image: /img/demo.jpg
+errors: []
 subTitle: Konzertplanung &amp; Plattenkauf
+  
 ---
-
-<strong>Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider
-hat das Versandhaus bei der Bearbeitung meiner Bestellung so einiges
-durcheinander gebracht, weshalb ich jetzt auf einige CDs etwas länger warten
-muss, als geplant. </strong>
 
 ![Die MS Musikindustrie](http://cardamonchai.com/wp-content/uploads/2012/09/c01007fcf69211e1ab6722000a1d0369_7.jpg "Die MS Musikindustrie")
 
@@ -73,7 +70,20 @@ meine Arme zu schließen". Und das sind wirklich ein paar Schätzchen:
 
 ![ | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/09/p7090053-150x150.jpg "Calexico live @ Muffathalle München Anne Reko 7/2009")
 
-<ul><li>"Awakened" von As I Lay Dying ist vorbestellt, erscheint am 21.9.</li><li>"Mirage Rock" von Band Of Horses ist vorbestellt, erscheint am 14.9.</li><li>"Hymns For A Dark Horse" von Bowerbirds gibt es schon, wird allerdings auch erst am 14.9. geliefert</li><li>"With Us Until You´re Dead" von Archive ist letzte Woche erschienen, wird auch erst am 14.9. geliefert</li><li>"Afterlives" von The Unwinding Hours ist auch letzte Woche erschienen, wird auch erst am 14.9. geliefert</li><li>"Keep It Hid" von Dan Auerbach gibt es schon lange, wird auch erst am 14.9. geliefert</li><li>"The Second Law" von Muse erscheint am 28.9.</li><li>"The Afterman" von Coheed And Cambria erscheint am 5.10.</li><li>"Dead Silence" von Billy Talent erscheint am 7.9.</li><li>"Algiers" von Calexico erscheint am 7.9.</li></ul>
+- "Awakened" von As I Lay Dying ist vorbestellt, erscheint am 21.9.
+- "Mirage Rock" von Band Of Horses ist vorbestellt, erscheint am 14.9.
+- "Hymns For A Dark Horse" von Bowerbirds gibt es schon, wird allerdings auch
+  erst am 14.9. geliefert
+- "With Us Until You´re Dead" von Archive ist letzte Woche erschienen, wird auch
+  erst am 14.9. geliefert
+- "Afterlives" von The Unwinding Hours ist auch letzte Woche erschienen, wird
+  auch erst am 14.9. geliefert
+- "Keep It Hid" von Dan Auerbach gibt es schon lange, wird auch erst am 14.9.
+  geliefert
+- "The Second Law" von Muse erscheint am 28.9.
+- "The Afterman" von Coheed And Cambria erscheint am 5.10.
+- "Dead Silence" von Billy Talent erscheint am 7.9.
+- "Algiers" von Calexico erscheint am 7.9.
 
 Das ist doch eine ganze Menge. Besonders gespannt bin ich ja auf die Platten,
 die diese Woche noch erscheinen. Und es gibt noch einen Grund zum Freuen: Die
@@ -87,3 +97,5 @@ allerdings werde ich Ihr in einem weiteren Artikel meine Aufmerksamkeit widmen.
 Bis dahin: Musikalische Grüße und eine wundervolle Woche.
 
 ![](http://cardamonchai.files.wordpress.com/2012/09/unbenannt-2.png "cardakonzerte")
+
+  

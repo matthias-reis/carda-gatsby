@@ -4,13 +4,11 @@ seoTitle: Heiße Maronen selbstgemacht - Winterlicher Snack für zwischendurch
 slug: heisse-maronen-selbstgemacht
 link: /2017/12/heisse-maronen-selbstgemacht/
 fileName: 2017-12---heisse-maronen-selbst-gemacht.md
-description:
-  Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich einfach zum
-  Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst machen
-  könnt.
-excerpt:
-  Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich einfach zum
-  Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst machen
+description: Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich
+  einfach zum Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst
+  machen könnt.
+excerpt: Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich einfach
+  zum Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst machen
   könnt.
 focusKeyword: Heiße Maronen
 labels:
@@ -22,13 +20,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18687"
+image: /img/demo.jpg
+errors: []
 subTitle: Winterlicher Snack für zwischendurch
+  
 ---
 
-<strong>Wer liebt heiße Maronen auch so wie ich? Traditionell gibt es die ja auf
+**Wer liebt heiße Maronen auch so wie ich? Traditionell gibt es die ja auf
 Weihnachtsmärkten und an kleinen Wägelchen in der Fußgängerzone, wo sie einem
 von wettergegerbten Menschen mit verkohlten Kellen in kleine Papiertütchen
-gefüllt werden.</strong>
+gefüllt werden.**
 
 Ihr Duft bedeutet, dass es jetzt wirklich Winter ist und dass es nichts
 ausmacht, sich darauf einzulassen, weil er auch schöne Dinge mit sich bringt.
@@ -60,3 +61,5 @@ Ihr Apple Cider, Tee oder Glühwein. Natürlich passt auch ein nettes
 Weihnachtsbierchen.
 
 [gallery type="circle" link="none" size="medium" ids="18679,18680"]
+
+  

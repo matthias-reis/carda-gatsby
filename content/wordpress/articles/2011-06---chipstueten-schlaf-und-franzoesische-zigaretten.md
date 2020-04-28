@@ -4,12 +4,10 @@ seoTitle: Chipstüten, Schlaf und französische Zigaretten - Tagebucheintrag
 slug: chipstuten-schlaf-und-franzosische-zigaretten
 link: /2011/06/chipstuten-schlaf-und-franzosische-zigaretten/
 fileName: 2011-06---chipstueten-schlaf-und-franzoesische-zigaretten.md
-description:
-  Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten Montag bleiben.
-  Alles eingepackt. Rucksack beim Zumachen geplatzt.
-excerpt:
-  Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten Montag bleiben.
-  Alles eingepackt. Rucksack beim Zumachen geplatzt.
+description: Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten
+  Montag bleiben. Alles eingepackt. Rucksack beim Zumachen geplatzt.
+excerpt: Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten Montag
+  bleiben. Alles eingepackt. Rucksack beim Zumachen geplatzt.
 focusKeyword: ""
 labels:
   - Almodovar
@@ -34,7 +32,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "6915"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
 Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten Montag bleiben.
@@ -55,8 +56,10 @@ Abendsonne genießen, der Geruch von filterlosen französischen Zigaretten vom
 Balkon untendrunter mischt sich mit dem der Geranien nebenan. Ein Fußball knallt
 gegen das Hoftor. So sollte sich Sommer doch anfühlen, oder?
 
-<strong>Song des Tages:</strong>
+**Song des Tages:**
 
 Pete And The Pirates - Knots
 
 [youtube=http://www.youtube.com/watch?v=CfgmPqsJQj4]
+
+  

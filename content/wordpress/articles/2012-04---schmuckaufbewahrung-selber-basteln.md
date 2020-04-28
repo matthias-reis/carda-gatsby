@@ -4,12 +4,11 @@ seoTitle: Schmuckaufbewahrung selber basteln
 slug: schmuckaufbewahrung-selber-basteln
 link: /2012/04/schmuckaufbewahrung-selber-basteln/
 fileName: 2012-04---schmuckaufbewahrung-selber-basteln.md
-description:
-  Schmuckaufbewahrung selber basteln - Ich habe drei Anleitungen für Euch, wie
-  Ihr Eure ganz einfach Schmuckaufbewahrung selber basteln könnt.
-excerpt:
-  Heute möchte ich Euch ein paar kreative Möglichkeiten der Schmuckaufbewahrung
-  vorstellen. Ein paar Freundinnen von mir haben sie entwickelt.
+description: Schmuckaufbewahrung selber basteln - Ich habe drei Anleitungen für
+  Euch, wie Ihr Eure ganz einfach Schmuckaufbewahrung selber basteln könnt.
+excerpt: Heute möchte ich Euch ein paar kreative Möglichkeiten der
+  Schmuckaufbewahrung vorstellen. Ein paar Freundinnen von mir haben sie
+  entwickelt.
 focusKeyword: Schmuckaufbewahrung
 labels:
   - "'Wenn sie kein Brot haben sollen sie doch Kuchen essen'"
@@ -39,18 +38,26 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2978"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (63:12)"
 subTitle: Bastelstunde
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (63:12)
+
+<!--
 ![Foto: cardamonchai 3/2012](https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg "Schmuckaufbewahrung selber basteln")
 
-<strong>Heute widme ich mich mal einem ganz neuen Thema: Der Bastelei.</strong>
+**Heute widme ich mich mal einem ganz neuen Thema: Der Bastelei.**
 
 Vor Kurzem kam ich mit zwei Freundinnen über ein Soziales Netzwerk ins Gespräch
-über ein Luxusproblem: Wo bringe ich meinen <strong>Modeschmuck</strong> unter?
-Am besten so, dass ich ihn immer sehen und nicht jedes Mal lange graben muss,
-oder gar vergesse, dass das ein oder andere Teil existiert, weil es irgendwo
-ganz unten in einem Kistchen liegt?
+über ein Luxusproblem: Wo bringe ich meinen **Modeschmuck** unter? Am besten so,
+dass ich ihn immer sehen und nicht jedes Mal lange graben muss, oder gar
+vergesse, dass das ein oder andere Teil existiert, weil es irgendwo ganz unten
+in einem Kistchen liegt?
 
 ## 3 Lösungen
 
@@ -62,10 +69,10 @@ Fotos waren schnell geschossen, die Idee für einen Blogeintrag liegt auf der
 Hand.
 
 Kommen wir zuerst zu [Hoochis](https://hoochi1107.wordpress.com/) Lösung: Ein
-einfacher Hasendraht ziert nun ihr <strong>Badezimmer</strong>, der sich nach
-und nach mit Ohrringen, Haarreifen, Ketten und vielen weiteren herrlichen
-kleinen Unnötigkeiten füllt. Eine sehr edel anmutende Lösung, wie ich finde, die
-rein gar nichts von einem Hasenstall hat:
+einfacher Hasendraht ziert nun ihr **Badezimmer** , der sich nach und nach mit
+Ohrringen, Haarreifen, Ketten und vielen weiteren herrlichen kleinen
+Unnötigkeiten füllt. Eine sehr edel anmutende Lösung, wie ich finde, die rein
+gar nichts von einem Hasenstall hat:
 
 ![Foto: Hoochi 4/2012 | full](https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg "Foto: Hoochi 4/2012")
 
@@ -88,13 +95,13 @@ vielleicht noch was viel tolleres gebaut? Ich freue mich auf jeden Fall auf
 Fotos, die ich gerne nachträglich in diesem Artikel posten werde, genau so
 natürlich über Kommentare mit "Montageanleitungen".
 
-<em><strong>Song des Tages</strong></em><strong>Zaz - Ton Rêve</strong>
+_ **Song des Tages** _ **Zaz - Ton Rêve**
 
 [youtube=http://www.youtube.com/watch?v=1S3TyzpzQP8&amp;feature=related]
 
 ## Nachtrag am 26.04.2012
 
-Hier ist, sie, die heiß ersehnte <strong>Bastelanleitung</strong> für Hoochis
+Hier ist, sie, die heiß ersehnte **Bastelanleitung** für Hoochis
 "Schmuckhängedings". Viel Spaß beim Lesen und beim Nachbasteln!
 
 <blockquote>"Und nun meine Damen, die Bastelanleitung. Ich gehe von den Materialangaben meines Dingens aus.
@@ -120,3 +127,7 @@ um dann Armreifen, Uhren etc. hin hängen zu können. Allerdings muss man beim
 Hochbiegen der Drähte aufpassen, denn sie brechen leicht ab. Löcher in die Decke
 bohren, Dübel rein, Haken rein und Schmuckhängedings in die Haken einhängen.
 FERTIG!!!"</blockquote>
+
+-->
+
+  

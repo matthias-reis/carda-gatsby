@@ -4,12 +4,12 @@ seoTitle: Fuggerei Augsburg - Eine Sozialbausiedlung mit Geschichte
 slug: fuggerei-augsburg-eine-sozialbausiedlung-mit-geschichte
 link: /2009/04/fuggerei-augsburg-eine-sozialbausiedlung-mit-geschichte/
 fileName: 2009-04---fuggerei-augsburg.md
-description:
-  1521 wurde die Fuggerei von Jakob Fugger als Wohnsiedlung für Bedürftige
-  gegründet. Die Miete für ein Haus beträgt dort auch heute noch 88 Cent.
-excerpt:
-  1521 wurde die Fuggerei von Jakob Fugger als Wohnsiedlung für Bedürftige
-  gegründet. Die Miete für ein Haus beträgt dort auch heute noch 88 Cent.
+description: 1521 wurde die Fuggerei von Jakob Fugger als Wohnsiedlung für
+  Bedürftige gegründet. Die Miete für ein Haus beträgt dort auch heute noch 88
+  Cent.
+excerpt: 1521 wurde die Fuggerei von Jakob Fugger als Wohnsiedlung für
+  Bedürftige gegründet. Die Miete für ein Haus beträgt dort auch heute noch 88
+  Cent.
 focusKeyword: Fuggerei Augsburg
 labels:
   - 88 Cent
@@ -27,11 +27,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11197"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine Sozialbausiedlung mit Geschichte
+  
 ---
-
-<strong>1521 wurde die Fuggerei von Jakob Fugger als Wohnsiedlung für Bedürftige
-gegründet.</strong>
 
 Sie besteht aus 67 Häusern. Insgesamt gibt es dort 140 Wohnungen, eine Kapelle
 und das Verwaltungsgebäude. Jede Wohnung ist ca. 60 qm groß. Derzeit leben ca.
@@ -51,6 +51,7 @@ Die Fuggerei in Augsburg ist die älteste Sozialsiedlung der Welt.
 [gallery type="rectangular" link="none" size="medium"
 ids="11198,11197,11196,11195,11193,11192,11191,11190,11189,11188"]
 
-Die Fugger bei
-<a title="Die Fugger" href="http://www.fugger.de/" target="_blank" rel="noopener">Wikipedia
-</a>Die Fuggerei bei [Wikipedia](http://de.wikipedia.org/wiki/Fuggerei)
+Die Fugger bei [Wikipedia](http://www.fugger.de/) Die Fuggerei bei
+[Wikipedia](http://de.wikipedia.org/wiki/Fuggerei)
+
+  

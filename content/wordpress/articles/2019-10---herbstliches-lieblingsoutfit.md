@@ -1,17 +1,14 @@
 ---
 title: Herbstliches Lieblingsoutfit
-seoTitle:
-  Herbstliches Lieblingsoutfit - die Herbst-Winter-Kollektion von Living Crafts
+seoTitle: Herbstliches Lieblingsoutfit - die Herbst-Winter-Kollektion von Living Crafts
 slug: living-crafts
 link: /2019/10/living-crafts/
 fileName: 2019-10---herbstliches-lieblingsoutfit.md
-description:
-  Der Herbst ist da - Zeit für ein gemütliches Outfit aus kuscheliger
+description: Der Herbst ist da - Zeit für ein gemütliches Outfit aus kuscheliger
   Bio-Baumwolle. Ich habe mir die Herbst-Winter-Kollektion von Living Crafts
   angeschaut.
-excerpt:
-  Werbung & Affiliate Links - Der Herbst ist da - Zeit für ein gemütliches
-  Outfit aus kuscheliger Bio-Baumwolle. Ich habe mir die
+excerpt: Werbung & Affiliate Links - Der Herbst ist da - Zeit für ein
+  gemütliches Outfit aus kuscheliger Bio-Baumwolle. Ich habe mir die
   Herbst-Winter-Kollektion von Living Crafts angeschaut.
 focusKeyword: Living Crafts
 labels:
@@ -36,14 +33,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26494"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Herbst-Winter-Kollektion von Living Crafts
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Der Herbst ist da und mit ihm diese wunderbaren Spaziergänge mit
-Herbstlaub, Beeren, gebrochenem Licht und anschließendem Teetrinken - Zeit für
-ein gemütliches Outfit. </strong>
+**Der Herbst ist da und mit ihm diese wunderbaren Spaziergänge mit Herbstlaub,
+Beeren, gebrochenem Licht und anschließendem Teetrinken - Zeit für ein
+gemütliches Outfit.**
 
 Genau bei diesen Gelegenheiten (und auch bei vielen anderen) darf ein bequemer
 Hoodie für mich auf gar keinen Fall fehlen. Am besten kombiniert mit einem
@@ -53,13 +53,28 @@ möglichst nachhaltig sein.
 Auf der Suche nach schönen Basics, die diese Kriterien erfüllen, bin ich online
 auf Living Crafts gestoßen. Dort findet man alles, was man als Grundlage für
 tolle Outfits braucht - für alle Geschlechter und sogar für Kinder und
-[Accessoires](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Babys&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fbaby%5D%5D)
+[Babys](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Babys&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fbaby%5D%5D).
+Von
+[Hosen](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Hosen&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Fjeans-und-hosen%5D%5D)
+und
+[Shirts und Tops](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Shirts+und+Tops&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Fshirts-und-tops%5D%5D)
+über Cardigans bis hin zu
+[Unterwäsche](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Unterw%C3%A4sche&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Funterwaesche%5D%5D),
+[Socken und Strumpfhosen](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Socken+und+Strumpfhosen&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Fsocken-und-strumpfhosen%5D%5D)
+und sogar
+[Accessoires](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Accessoires&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Faccessoires%5D%5D)
 ist so ziemlich alles dabei, was man sich vorstellen kann.
 
 ## Hoodie und Shirt von Living Crafts
 
 ![living-crafts](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-06-waldpark-marienhoehe-suelldorf-35-400x267.jpg)
 
+Nachdem mir gefiel, was ich im Onlineshop entdeckte, entschied ich mich zum
+Ausprobieren für zwei schöne Teile aus der neuen Herbst-Winter-Kollektion: den
+gemütlichen
+[Nicki-Hoodie "Hilda"](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Hoodie+Hilda&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Fdamen%252Fhomewear%252Fkapuzenjacke%2523petrol%5D%5D)
+und das schicke
+[Langarm-Shirt "Hilla"](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Langarm-Shirt+Hilla&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252Flimited-edition%252Fdamen%252Flangarm-shirt-4%2523ink-blue%5D%5D)
 mit U-Boot-Ausschnitt und Waffeloptik. Beides habe ich in Größe M (40/42)
 bestellt, damit alles schön locker sitzt - normalerweise trage ich Größe 36,
 aber bei Kleidungsstücken dieser Art mag ich es schön luftig.
@@ -87,7 +102,14 @@ Rohstoffe überhaupt.
 [Auf der Homepage](https://www.awin1.com/cread.php?awinmid=13807&awinaffid=632580&clickref=Living+Crafts&p=%5B%5Bhttps%253A%252F%252Fwww.livingcrafts.de%252F%5D%5D)
 heißt es
 
-<blockquote>"Nachhaltigkeit ist bei LIVING CRAFTS kein Modebegriff, sondern eine Selbstverständlichkeit mit Tradition – und darauf sind wir stolz. Denn seit über 30 Jahren produzieren wir erfolgreich hochwertige Naturtextilien unter ökologisch verträglichen und sozialökonomisch fairen Bedingungen. Glaubwürdigkeit, Beständigkeit und Vertrauen sind die Werte, die uns jeden Tag aufs Neue mit Freude und Begeisterung an unsere Arbeit gehen lassen. Wir glauben, dass nur unter dieser Maxime Transparenz und Nachhaltigkeit entstehen kann."</blockquote>
+> "Nachhaltigkeit ist bei LIVING CRAFTS kein Modebegriff, sondern eine
+> Selbstverständlichkeit mit Tradition – und darauf sind wir stolz. Denn seit
+> über 30 Jahren produzieren wir erfolgreich hochwertige Naturtextilien unter
+> ökologisch verträglichen und sozialökonomisch fairen Bedingungen.
+> Glaubwürdigkeit, Beständigkeit und Vertrauen sind die Werte, die uns jeden Tag
+> aufs Neue mit Freude und Begeisterung an unsere Arbeit gehen lassen. Wir
+> glauben, dass nur unter dieser Maxime Transparenz und Nachhaltigkeit entstehen
+> kann."
 
 ![living-crafts](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-06-waldpark-marienhoehe-suelldorf-15-400x600.jpg)
 
@@ -116,9 +138,11 @@ Spaß - sie sind zu meinem herbstlichen Lieblingsoutfit geworden. Ich denke, das
 sich in Zukunft sicher noch das ein oder andere Living Crafts Stück dazugesellen
 wird.
 
-[glry name="living-crafts-2019-10-06"] <em>\*Hinweis: Dieser Beitrag enthält
+[glry name="living-crafts-2019-10-06"] _\*Hinweis: Dieser Beitrag enthält
 Werbung und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner  [Transparenz-Seite](/werbung/). </em>
+meiner  [Transparenz-Seite](/werbung/). _
 
 &nbsp;
+
+  

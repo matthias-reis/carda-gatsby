@@ -26,5 +26,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11448"
+image: /img/demo.jpg
+errors: []
 subTitle: Gesehen in Augsburg
+  
 ---
+
+
+  

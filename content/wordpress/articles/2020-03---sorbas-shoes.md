@@ -4,11 +4,10 @@ seoTitle: Sorbas Shoes - faire vegane Schuhe aus Berlin
 slug: sorbas-shoes
 link: /2020/03/sorbas-shoes/
 fileName: 2020-03---sorbas-shoes.md
-description:
-  Sorbas Shoes werden in kleinen Schuhmacherbetrieben herstellen. Damit sollen
-  die fairen Produktionsstrukturen in ärmeren Ländern unterstützt werden.
-excerpt:
-  Werbung & Affiliate Links - Sorbas Shoes werden in kleinen
+description: Sorbas Shoes werden in kleinen Schuhmacherbetrieben herstellen.
+  Damit sollen die fairen Produktionsstrukturen in ärmeren Ländern unterstützt
+  werden.
+excerpt: Werbung & Affiliate Links - Sorbas Shoes werden in kleinen
   Schuhmacherbetrieben herstellen. Damit sollen die fairen Produktionsstrukturen
   in ärmeren Ländern unterstützt werden.
 focusKeyword: Sorbas
@@ -26,13 +25,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28784"
+image: /img/demo.jpg
+errors: []
 subTitle: Faire vegane Schuhe aus Berlin
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Seit Kurzem habe ich ein paar neue Schuhe, die ich Euch gerne zeigen
-möchte. Meine Sorbas Shoes sind fair, vegan und bequem.</strong>
+**Seit Kurzem habe ich ein paar neue Schuhe, die ich Euch gerne zeigen möchte.
+Meine Sorbas Shoes sind fair, vegan und bequem.**
 
 Sorbas aus Berlin lassen ihre Schuhe in kleinen Betrieben herstellen, um damit
 die lokale Entwicklung und die fairen Produktionsstrukturen in ärmeren Ländern
@@ -118,7 +120,9 @@ Wer neugierig ist und gerne mal bei Sorbas Shoes stöbern möchte,
 [kann das jederzeit im Onlineshop tun](https://sorbasshoes.com/?affiliates=8).
 [glry name="sorbas2"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

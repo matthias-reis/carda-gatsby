@@ -4,12 +4,10 @@ seoTitle: Mein Istanbul
 slug: mein-istanbul
 link: /2010/01/mein-istanbul/
 fileName: 2010-01---mein-istanbul.md
-description:
-  Auf den Spuren von Fatih Akin habe ich eine Fotostrecke in Istanbul
+description: Auf den Spuren von Fatih Akin habe ich eine Fotostrecke in Istanbul
   aufgenommen - Istanbul ist einfach eine Lieblingsstadt
-excerpt:
-  Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und "Auf
-  der anderen Seite".
+excerpt: Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und
+  "Auf der anderen Seite".
 focusKeyword: Istanbul
 labels:
   - Bosporus
@@ -26,11 +24,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "10826"
+image: /img/demo.jpg
+errors: []
 subTitle: "Januar 2010: 4 Tage Istanbul"
+  
 ---
-
-<strong>Auf den Spuren von Fatih Akin an den Drehorten von "Gegen die Wand" und
-"Auf der anderen Seite".</strong>
 
 Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt" eindeutig verdient
 
@@ -39,3 +37,5 @@ Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt" eindeutig verdient
 Fotos: Anne Reko Istanbul, Türkei 2010
 
 &nbsp;
+
+  

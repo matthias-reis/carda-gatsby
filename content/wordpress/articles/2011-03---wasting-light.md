@@ -4,14 +4,12 @@ seoTitle: Foo Fighters bringen neues Album auf den Markt!
 slug: foo-fighters-bringen-neues-album-auf-den-markt
 link: /2011/03/foo-fighters-bringen-neues-album-auf-den-markt/
 fileName: 2011-03---wasting-light.md
-description:
-  Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light". Schon den
-  zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor ein paar
-  Wochen präsentierten "White Limo".
-excerpt:
-  Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light". Schon den
-  zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor ein paar
-  Wochen präsentierten "White Limo".
+description: Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light".
+  Schon den zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor
+  ein paar Wochen präsentierten "White Limo".
+excerpt: Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light".
+  Schon den zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor
+  ein paar Wochen präsentierten "White Limo".
 focusKeyword: ""
 labels:
   - Bands & Reviews
@@ -28,12 +26,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11553"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues Album von den Foo Fighters
+  
 ---
-
-<strong>Am 8. April erscheint das neue FOO FIGHTERS Album "Wasting Light". Schon
-den zweiten "Teaser" gibt die Band nun mit "Rope" heraus, nach dem vor ein paar
-Wochen präsentierten "White Limo". </strong>
 
 Das Video wurde im guten alten analogen VHS-Format aufgenommen. Regie führte
 dabei Dave Grohl persönlich. Wir dürfen gespannt sein auf das neue Album, "White
@@ -46,3 +43,5 @@ Bühnen zu sehen sein werden.
 [Homepage](http://www.foofighters.com/de/home) Foo Fighters
 
 &nbsp;
+
+  

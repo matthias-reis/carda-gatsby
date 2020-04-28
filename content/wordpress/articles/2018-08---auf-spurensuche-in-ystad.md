@@ -4,12 +4,12 @@ seoTitle: Auf Spurensuche in Ystad - Rosen, Sommerregen und Krimifeeling
 slug: auf-spurensuche-in-ystad
 link: /2018/08/auf-spurensuche-in-ystad/
 fileName: 2018-08---auf-spurensuche-in-ystad.md
-description:
-  Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Auf
-  den Spuren von Kommissar Wallander schlenderten wir durch die Gassen.
-excerpt:
-  Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Auf
-  den Spuren von Kommissar Wallander schlenderten wir durch die Gassen.
+description: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt
+  Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die
+  Gassen.
+excerpt: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt
+  Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die
+  Gassen.
 focusKeyword: Ystad
 labels:
   - Henning Mankell
@@ -31,12 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21810"
+image: /img/demo.jpg
+errors: []
 subTitle: Rosen, Sommerregen und Krimifeeling
+  
 ---
 
-<strong>Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad.
-Im Anschluss an unsere Pause mit Heißgetränk schlenderten wir im warmen
-Sommerregen durch die gemütlichen Gassen.</strong>
+**Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt Ystad. Im
+Anschluss an unsere Pause mit Heißgetränk schlenderten wir im warmen Sommerregen
+durch die gemütlichen Gassen.**
 
 Ystad liegt in der Schwedischen Provinz
 [Skåne](/2018/07/zwischenstopp-in-skane/). Die 1244 gegründete Stadt wurde
@@ -86,3 +89,5 @@ Halten Sie das zunächst von der Presse fern. Es könnte uns in Gefahr bringen.
 Der Aktenberg. Die Angehörigen. Der Abend am Steg. Am Strand ist es still.
 
 [myflickr tag="annewallanderystadkrimi2018rosenschoen"]
+
+  

@@ -4,11 +4,9 @@ seoTitle: Gazpacho für heiße Sommertage
 slug: gazpacho-fuer-heisse-sommertage
 link: /2015/07/gazpacho-fuer-heisse-sommertage/
 fileName: 2015-07---gazpacho-fuer-heisse-sommertage.md
-description:
-  Die liebe Frau Tofuwunder hat mir lieb und toll wie sie ist eines ihrer
-  leckeren, veganen Rezepte zur Verfügung gestellt. Jetzt nachkochen!
-excerpt:
-  Die liebe Frau Tofuwunder hat mir lieb und toll wie sie ist eines ihrer
+description: Die liebe Frau Tofuwunder hat mir lieb und toll wie sie ist eines
+  ihrer leckeren, veganen Rezepte zur Verfügung gestellt. Jetzt nachkochen!
+excerpt: Die liebe Frau Tofuwunder hat mir lieb und toll wie sie ist eines ihrer
   leckeren, veganen Rezepte zur Verfügung gestellt. Jetzt nachkochen!
 focusKeyword: Gazpacho
 labels:
@@ -27,19 +25,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12100"
+image: /img/demo.jpg
+errors: []
 subTitle: Ice Ice Suppe!
+  
 ---
 
 Ein Gastbeitrag von [Tofuwunder](https://tofuwunder.wordpress.com/)
 
 ![Leckere sommerliche Gazpacho aus der Küche von Tofuwunder](http://cardamonchai.com/wp-content/uploads/2015/07/image11-640x625.jpg "Leckere sommerliche Gazpacho aus der Küche von Tofuwunder")
 
-<strong>Ich freue mich wie ein Tofuschnitzel! Zum einen, weil wir endlich mal
-einen ordentlichen Sommer genießen dürfen und zum anderen, weil ich für meine
-Besteste [Anne bloggt cardamonchai](/) ein leckeres Rezept gastbloggen darf.
-Aktuell ist es ja fast schon wieder zu heiß zum Kochen – aber nur fast. Man muss
-einfach die richtigen Dinge „kochen“. Und dabei hält man sich am besten an
-unsere Freunde in Südeuropa. </strong>
+**Ich freue mich wie ein Tofuschnitzel! Zum einen, weil wir endlich mal einen
+ordentlichen Sommer genießen dürfen und zum anderen, weil ich für meine Besteste
+[Anne bloggt cardamonchai](/) ein leckeres Rezept gastbloggen darf. Aktuell ist
+es ja fast schon wieder zu heiß zum Kochen – aber nur fast. Man muss einfach die
+richtigen Dinge „kochen“. Und dabei hält man sich am besten an unsere Freunde in
+Südeuropa.**
 
 Aus dem Spanien-Urlaub kennen einige sicher die köstliche kalte Gemüsesuppe mit
 dem klangvollen Namen „Gazpacho“. Und da die auch noch zu 100% vegan ist, darf
@@ -47,7 +48,18 @@ sie bei Temperaturen über 30 Grad in keiner fleischfreien Küche fehlen. Alles
 was ihr braucht, ist ein guter Stand- oder Stabmixer, der sich von ungekochtem
 Gemüse nicht beeindrucken lässt. Ansonsten benötigt ihr folgende
 
-## Zubereitung
+## Zutaten<small>(für zwei Personen zum Sattwerden oder für vier als Vorspeise)</small>- 500ml passierte Tomaten (hier gerne mal in „den guten Stoff“ investieren)
+
+- 1 Salatgurke
+- 2 Paprikaschoten (ideal: gelb und rot)
+- 1 Zehe Knoblauch
+- 1 Zwiebel
+- 4 Scheiben Weißbrot
+- 40ml Olivenöl
+- Saft von ½ Zitrone
+- 1 El Paprikapulver
+- 1 Prise Zucker
+- Salz, Pfeffer und Oregano## Zubereitung
 
 Zuerst das Weißbrot von der Rinde befreien und in etwas Wasser einweichen
 lassen. Dann die beiden Paprika waschen, entkernen und fein würfeln. Dabei
@@ -64,7 +76,7 @@ eine Stunde kalt stellen.
 Zum Servieren die kalte Suppe mit etwas Paprika- und Gurke-Würfeln garnieren.
 Und dazu passt ganz hervorragend etwas frisches Brot.
 
-<em>Guten Appetit wünscht Tofuwunder!</em>
+_Guten Appetit wünscht Tofuwunder!_
 
 ![Caros Rezept ziert jetzt mein Rezeptbuch](http://cardamonchai.com/wp-content/uploads/2015/07/Enlight11-640x640.jpg "Caros Rezept ziert jetzt mein Rezeptbuch")
 
@@ -74,13 +86,14 @@ kennenlernen möchte, kann dies jederzeit auf ihrer wundertollen
 liebe Caro für das tolle Rezept, das nun nicht nur mein Blog sondern zudem auch
 noch mein Rezeptheft bereichert!
 
-<em>Habt Ihr auch mal Lust, einen Gastbeitrag zu schreiben? Oder habt Ihr ein
+_Habt Ihr auch mal Lust, einen Gastbeitrag zu schreiben? Oder habt Ihr ein
 besonders geniales Projekt und ich soll ein Interview mit Euch machen? Dann
-meldet Euch einfach bei mir! Ich bin
-[via Facebook](mailto:info@cardamonchai.com)
-</em><span style="line-height: 1.5em;"><em> oder per Kommentar unter einem
-meiner Artikel jederzeit zu erreichen. Ich freue mich auf Euch!</em></span>
+meldet Euch einfach bei mir! Ich bin [per Mail](mailto:info@cardamonchai.com),
+[via Facebook](http://www.facebook.com/cardamonchai) _ _oder per Kommentar unter
+einem meiner Artikel jederzeit zu erreichen. Ich freue mich auf Euch!_
 
 ![Caros Gazpacho | large](http://cardamonchai.com/wp-content/uploads/2015/07/image1-800x569.jpg "Caros Gazpacho")
 
-<pre><span style="line-height: 1.5em;"></span></pre> [](/2015/03/die-ultimative-vegane-festivalliste)
+<pre></pre> [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

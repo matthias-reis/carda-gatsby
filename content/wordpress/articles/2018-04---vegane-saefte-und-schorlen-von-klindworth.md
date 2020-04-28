@@ -4,13 +4,12 @@ seoTitle: "Getestet: Klindworth vegane Säfte - Niehoffs Vaihinger jetzt vegan"
 slug: vegane-saefte-und-schorlen-im-test
 link: /2018/04/vegane-saefte-und-schorlen-im-test/
 fileName: 2018-04---vegane-saefte-und-schorlen-von-klindworth.md
-description:
-  Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu testen wurde
-  ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt komplett auf vegan.
-excerpt:
-  Werbung - Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu
+description: Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu
   testen wurde ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt komplett
   auf vegan.
+excerpt: Werbung - Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth
+  zu testen wurde ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt
+  komplett auf vegan.
 focusKeyword: vegane Säfte
 labels:
   - Afri Cola vegan
@@ -49,18 +48,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20360"
+image: /img/demo.jpg
+errors: []
 subTitle: Niehoffs Vaihinger ist jetzt vegan
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Vor Kurzem bekam ich eine nette Mail von Niehoffs Vaihinger. Dazu
-gehören Marken wie afri cola, Klindworth Fruchtsäfte und Schorlen,
-Niehoffs <span class="il">Vaihinger</span> Säfte, Lindavia und Merziger. Man war
-beim Stöbern hier im Blog auf
+**Vor Kurzem bekam ich eine nette Mail von Niehoffs Vaihinger. Dazu gehören
+Marken wie afri cola, Klindworth Fruchtsäfte und Schorlen,
+Niehoffs Vaihinger Säfte, Lindavia und Merziger. Man war beim Stöbern hier im
+Blog auf
 [meinen Artikel](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
 zum Thema versteckte tierische Inhaltsstoffe gestoßen und hatte eine gute
-Nachricht für mich:</strong>
+Nachricht für mich:**
 
 "Du kannst unsere Produkte jetzt auch in Deine Liste der veganen Getränke
 aufnehmen! Wir können heute mit gutem Gewissen sagen, dass all unsere Getränke
@@ -141,6 +143,8 @@ auf vegan setzen.
 [gallery type="columns" size="medium" link="none" columns="2"
 ids="20359,20357,20363,20362,20358,20355,20364,20361"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

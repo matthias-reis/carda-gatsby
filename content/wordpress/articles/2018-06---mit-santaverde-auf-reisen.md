@@ -4,12 +4,11 @@ seoTitle: Mit Santaverde auf Reisen - Urlaubsbegleiter aus der Beauty-Ecke
 slug: mit-santaverde-auf-reisen
 link: /2018/06/mit-santaverde-auf-reisen/
 fileName: 2018-06---mit-santaverde-auf-reisen.md
-description:
-  Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei meiner
-  Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
-excerpt:
-  Werbung - Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei
+description: Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei
   meiner Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
+excerpt: Werbung - Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch
+  zwei meiner Urlaubsbegleiter vor. sie sind von Santaverde und besonders
+  reizarm.
 focusKeyword: Santaverde
 labels:
   - Aloe Vera
@@ -36,14 +35,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21280"
+image: /img/demo.jpg
+errors: []
 subTitle: Urlaubsbegleiter aus der Beauty-Ecke
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Wir gehen in Kürze wieder auf Reisen. Wir mieten ein Auto und fahren
-los. Wo genau es hingehen wird, verrate ich Euch später, was ich mitnehme,
-erfahrt Ihr schon heute.</strong>
+**Wir gehen in Kürze wieder auf Reisen. Wir mieten ein Auto und fahren los. Wo
+genau es hingehen wird, verrate ich Euch später, was ich mitnehme, erfahrt Ihr
+schon heute.**
 
 Heute stelle ich Euch zwei besondere Urlaubsbegleiter aus der Beauty-Ecke,
 morgen zwei aus der Food-Ecke vor.
@@ -58,8 +60,11 @@ Gesicht schmieren.
 
 ![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/06/40999488340_4064a5bbdb_z-400x300.jpg)
 
-, den ich morgens und Abends als Vorbereitung auf die weitere Pflege verwende,
-auch ein gutes Repair-Produkt wichtig.
+Besonders wenn man im Urlaub jeden Tag an der frischen Luft ist und viel Sonne
+abbekommt, ist gute Hautpflege essentiell. Für mich ist in diesen Phasen neben
+einem tollen [Toner](/2018/01/santaverde/), den ich morgens und Abends als
+Vorbereitung auf die weitere Pflege verwende, auch ein gutes Repair-Produkt
+wichtig.
 
 Das Aloe Vera Hydro Repair Gel von Santaverde kommt mir da sehr gelegen. Nach
 meinem Test im Januar habe ich es immer wieder wieder verwendet, wenn meine Haut
@@ -110,7 +115,10 @@ eine verständliche Volldeklaration aller Inhaltsstoffe gibt.
 
 ![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/06/28936664758_578e18efd5_z-400x300.jpg)
 
-.
+Alle Produkt sind vegan und werden in Deutschland hergestellt. Sie tragen das
+Siegel der Vegan Society, das Leaping Bunny Siegel sowie das NATRUE Siegel für
+geprüfte zertifizierte
+[Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
 Die beiden Tübchen wandern jetzt in mein Reisegepäck. Ihr habt hiermit meine
 Empfehlung, sie auch auf Eure nächste Reise mitzunehmen. Vor der Urlaubspause
@@ -121,6 +129,8 @@ im Anschluss hoffentlich wieder eine bildreiche
 Wer gerne auch mal im Santaverde Shop stöbern möchte,
 [kann das hier tun](https://santaverde.shop/).
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

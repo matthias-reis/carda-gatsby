@@ -4,11 +4,8 @@ seoTitle: Pepes Penthouse live @ Circus Augsburg
 slug: pepes-penthouse-live-circus-augsburg
 link: /2009/10/pepes-penthouse-live-circus-augsburg/
 fileName: 2009-10---pepes-penthouse-live-circus-augsburg.md
-description:
-  "Am Mittwoch, 30. September war es soweit: Pepes Penthouse live im Circus"
-excerpt:
-  Am Mittwoch, 30. September starteten Pepes Penthouse wieder in die
-  Live-Saison.
+description: "Am Mittwoch, 30. September war es soweit: Pepes Penthouse live im Circus"
+excerpt: Am Mittwoch, 30. September starteten Pepes Penthouse wieder in die Live-Saison.
 focusKeyword: Pepes Penthouse
 labels:
   - Circus
@@ -22,12 +19,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11487"
+image: /img/demo.jpg
+errors: []
 subTitle: Perfektes Zusammenspiel
+  
 ---
-
-![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/10/MG_9256-640x960.jpg)
-
-<strong>
 
 Als erste von 3 Bands spielten sie an diesem Abend im Rahmen des INDIE
 FRESSE-Konzerts.
@@ -45,12 +41,12 @@ gebannt der Musik.
 
 ![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/10/IMG_9136-640x960.jpg)
 
-<a href="http://cardamonchai.com/wp-content/uploads/2009/10/IMG_9136.jpg">Im
-Laufe des Abends wurde noch ein neuer Song vorgestellt: "Du bist es mir wert",
-beide neuen Songs wurden vom Publikum begeistert angenommen. Auch alte Hits wie
-"Kleine Wunder" und "Ich will" waren in der vorangehenden Kreativphase der Band
-nochmal aufgefrischt worden, live auf der Bühne strahlten sie jetzt in neuem
-Glanz. Man kann sagen, daß sie ihren "letzten Schliff" bekommen haben.
+[](/wp-content/uploads/2009/10/IMG_9136.jpg) Im Laufe des Abends wurde noch ein
+neuer Song vorgestellt: "Du bist es mir wert", beide neuen Songs wurden vom
+Publikum begeistert angenommen. Auch alte Hits wie "Kleine Wunder" und "Ich
+will" waren in der vorangehenden Kreativphase der Band nochmal aufgefrischt
+worden, live auf der Bühne strahlten sie jetzt in neuem Glanz. Man kann sagen,
+daß sie ihren "letzten Schliff" bekommen haben.
 
 Die Jungs waren in ausgelassener Stimmung. Sie schafften es sogar die Fans der
 beiden etwas härteren Bands I WOULD (Punk) und OPTIONAL ENDING (Ska/Punk)
@@ -63,8 +59,17 @@ uns auf den nächsten Auftritt am 19. November in der legendären Mahagoni Bar!
 
 ![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/10/MG_9178-800x533.jpg)
 
-<strong>Setlist des
-Abends:</strong><ol><li>Eigentlich</li><li>Manchmal</li><li>Mein Stück vom
-Glück</li><li>Wie lange</li><li>Was du siehst</li><li>Kleine Wunder</li><li>Du
-bist alles</li><li>Lass mich</li><li>Du bist es mir wert
-<em>Zugaben:</em></li><li>Ich will</li><li>Ein schöner Tag</li></ol>
+**Setlist des Abends:** 1. Eigentlich
+
+1.  Manchmal
+1.  Mein Stück vom Glück
+1.  Wie lange
+1.  Was du siehst
+1.  Kleine Wunder
+1.  Du bist alles
+1.  Lass mich
+1.  Du bist es mir wert _Zugaben:_
+1.  Ich will
+1.  Ein schöner Tag
+
+  

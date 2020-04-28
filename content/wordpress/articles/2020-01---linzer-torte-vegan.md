@@ -4,12 +4,12 @@ seoTitle: Linzer Torte vegan - Lieblingskuchen der Familie - Rezept
 slug: linzer-torte-vegan
 link: /2020/01/linzer-torte-vegan/
 fileName: 2020-01---linzer-torte-vegan.md
-description:
-  Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter ein vegane
-  Linzer Torte - ein ganz wunderbarer Kuchen. Ich verrate Euch das Rezept.
-excerpt:
-  Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter ein vegane
-  Linzer Torte -  ein ganz wunderbarer Kuchen. Ich verrate Euch das Rezept.
+description: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter
+  ein vegane Linzer Torte - ein ganz wunderbarer Kuchen. Ich verrate Euch das
+  Rezept.
+excerpt: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter ein
+  vegane Linzer Torte -  ein ganz wunderbarer Kuchen. Ich verrate Euch das
+  Rezept.
 focusKeyword: Linzer Torte
 labels:
   - backen
@@ -29,12 +29,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27315"
+image: /img/demo.jpg
+errors: []
 subTitle: Lieblingskuchen der Familie
+  
 ---
 
-<strong>Schon seit ich denken kann, gibt es bei uns an Feiertagen, an denen die
-ganze Familie zusammenkommt, einen ganz besonderen Kuchen: Linzer
-Torte!</strong>
+**Schon seit ich denken kann, gibt es bei uns an Feiertagen, an denen die ganze
+Familie zusammenkommt, einen ganz besonderen Kuchen: Linzer Torte!**
 
 Meine Mutter bereitet die Linzer Torte mit viel Liebe zu. Vor ein paar Jahren
 hat sie das Familienrezept ein kleines bisschen überarbeitet. Es ist jetzt vegan
@@ -56,19 +58,17 @@ auf einer Reise in diese Gefilde kennen und lieben gelernt.
 
 ## Zutaten für eine Springform (26 cm Durchmesser)
 
-<ul>
-    <li>300 g Mehl</li>
-    <li>1 TL Backpulver</li>
-    <li>150 g Haselnüsse (gemahlen)</li>
-    <li>250 g Hagebuttenmus oder Rote Johannisbeergelee</li>
-    <li>4 EL Kirschwasser</li>
-    <li>6 EL Mandeldrink</li>
-    <li>6 EL Kakaopulver</li>
-    <li>1/2 TL Zimt (Pulver)</li>
-    <li>125 g Alsan</li>
-    <li>200 g Zucker</li>
-    <li>Abrieb von 1 ungespritzten Zitrone</li>
-</ul>
+- 300 g Mehl
+- 1 TL Backpulver
+- 150 g Haselnüsse (gemahlen)
+- 250 g Hagebuttenmus oder Rote Johannisbeergelee
+- 4 EL Kirschwasser
+- 6 EL Mandeldrink
+- 6 EL Kakaopulver
+- 1/2 TL Zimt (Pulver)
+- 125 g Alsan
+- 200 g Zucker
+- Abrieb von 1 ungespritzten Zitrone
 
 ## Zubereitung
 
@@ -95,3 +95,5 @@ zum Kaffee eine wunderbare vegane Linzer Torte.
 Wenn Euch das Rezept gefällt, [abonniert gerne meinen Newsletter](#newsletter).
 Dann halte ich Euch über weitere Spezialitäten auf meinem Blog auf dem
 Laufenden.
+
+  

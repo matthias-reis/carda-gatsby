@@ -4,12 +4,10 @@ seoTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet
 slug: 18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet
 link: /2019/11/18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet/
 fileName: 2019-11---18-schweinswale-sterben-bei-minensprengung.md
-description:
-  Die deutsche Marine hat bei einer Übung auf der Ostsee 39 Seeminen gesprengt.
-  Dabei haben 18 Schweinswale ihr Leben verloren.
-excerpt:
-  Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen gesprengt.
-  Dabei haben 18 Schweinswale ihr Leben verloren.
+description: Die deutsche Marine hat bei einer Übung auf der Ostsee 39 Seeminen
+  gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
+excerpt: Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen
+  gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
 focusKeyword: Schweinswale
 labels:
   - Darum vegan
@@ -26,11 +24,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26963"
-subTitle: " Militärmanöver in der Ostsee"
+image: /img/demo.jpg
+errors: []
+subTitle: <strong>Rücksichtsloses</strong> Militärmanöver in der Ostsee
+  
 ---
 
-<strong>Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen
-gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.</strong>
+**Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen gesprengt.
+Dabei haben 18 Schweinswale ihr Leben verloren.**
 
 Wisst Ihr, welche Frage ich mir immer häufiger stelle? "Wie bescheuert ist die
 Menschheit eigentlich und kennt der Wahnsinn wirklich gar keine Grenzen?"
@@ -103,7 +104,7 @@ es sicher noch viel Zeit vergehen.
 
 ### Bilder:
 
-<ul>
-    <li> [Schweinswal: harbour porpoises Michael &amp; Jose in 2012, Ecomare](https://www.ecomare.nl/) </li>
-    <li>Sprengung: picture alliance/dpa</li>
-</ul>
+- [Schweinswal: harbour porpoises Michael &amp; Jose in 2012, Ecomare](https://www.ecomare.nl/)
+- Sprengung: picture alliance/dpa
+
+  

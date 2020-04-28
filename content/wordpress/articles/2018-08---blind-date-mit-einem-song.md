@@ -4,12 +4,12 @@ seoTitle: Gartenblogger Blind Date Edition 5 - I Build This Garden For Us
 slug: gartenblogger-blind-date
 link: /2018/08/gartenblogger-blind-date/
 fileName: 2018-08---blind-date-mit-einem-song.md
-description:
-  Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden, gleichzeitig
-  einen Text über einen Song zu veröffentlichen? Das Gartenblogger Blind Date!
-excerpt:
-  Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden, gleichzeitig
-  einen Text über einen Song zu veröffentlichen? Das Gartenblogger Blind Date!
+description: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden,
+  gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger
+  Blind Date!
+excerpt: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden,
+  gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger
+  Blind Date!
 focusKeyword: Gartenblogger Blind Date
 labels:
   - Bands & Reviews
@@ -30,21 +30,32 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21805"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (59:47)"
 subTitle: '"I Build This Garden For Us" von Lenny Kravitz'
+  
 ---
 
-<strong>Was kommt dabei heraus, wenn 15 Garten-affine Blogger\*innen verabreden,
-einen Text über ein Lied zu verfassen und ihn gleichzeitig zu veröffentlichen?
-Das hat sich Björn vom Blog Gartenbaukunst\* auch gefragt und das Gartenblogger
-Blind Date ins Leben gerufen. Es geht jetzt bereits in die fünfte Runde und ich
-bin stolz, wieder dabei zu sein.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (59:47)
+
+<!--
+**Was kommt dabei heraus, wenn 15 Garten-affine Blogger\*innen verabreden, einen
+Text über ein Lied zu verfassen und ihn gleichzeitig zu veröffentlichen? Das hat
+sich Björn vom Blog Gartenbaukunst\* auch gefragt und das Gartenblogger Blind
+Date ins Leben gerufen. Es geht jetzt bereits in die fünfte Runde und ich bin
+stolz, wieder dabei zu sein.**
 
 Dieses Mal fiel die Wahl auf den Song "I Build This Garden For Us" von Lenny
 Kravitz. Gute Idee, oder? Der Titel passt so schön zu Gärten. Ich bin jetzt das
 vierte Mal dabei beim Date und finde, dass ich zusammen mit den Songs
-["Peaches"](/2017/07/blind-date-summerwine/) von den Presidents Of The United
-States schon die Grundlage für eine ganz nette Playlist zusammen habe. Ich bin
-schon gespannt, wie sie sich demnächst erweitern wird.
+["Summerwine"](/2017/07/blind-date-summerwine/) von Nancy Sinatra,
+["I Like Birds"](/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/)
+von Eels und ["Peaches"](/2018/03/presidents-of-the-united-states-peaches/) von
+den Presidents Of The United States schon die Grundlage für eine ganz nette
+Playlist zusammen habe. Ich bin schon gespannt, wie sie sich demnächst erweitern
+wird.
 
 Vor der Veröffentlichung wusste übrigens auch dieses Mal keine/r von uns, was
 die anderen geschrieben haben. Die Vorfreude war daher für uns Autor\*innen
@@ -107,11 +118,28 @@ Entschuldigt meinen Sarkasmus. Aber dieser Song ist eine Steilvorlage. Ein
 Schmachtfetzen, wie er im Buche steht. Schmalz. Honig. Zuckerwatte. Rosa
 Badeschaum. Geigen. Show. Was für ein Macho. Sorry, Lenny.
 
-## \*Gartenbaukunst</a>
+## Am Gartenblogger Blind Date Edition 5 teilgenommen haben außer mir und [\*Gartenbaukunst](https://gartenbaukunst.wordpress.com/2018/08/18/blind-date-edition-5-i-build-this-garden-for-us/)
 
 [Beetkultur](https://www.beetkultur.de/single-post/2018/08/18/Blind-Date-Edition-5-I-Build-This-Garden-For-Us),
- <a href="https://der-kleine-horror-garten.de/gartengestaltung/" target="_blank" rel="noopener">Der
-kleine Horrorgarten </a>, 
-[Mrs. Greenhouse](https://karotinasblog.wordpress.com/)
+ 
+[Der kleine Horrorgarten](https://der-kleine-horror-garten.de/gartengestaltung/),
+  [Karo-Tina Aldente](https://karotinasblog.wordpress.com/),  
+[Milli Bloom](https://millibloom.com/i-bulid-this-garden-for-us-blogger-blind-date-5/),
+ 
+[Rienmakäfer](https://rienmakaefer.com/2018/08/18/i-build-a-garden-for-us-blind-date-5/),
+  [Garteneuphorie](https://www.garteneuphorie.de/),  
+[Seaside-Cottage](https://seaside-cottage-blog.blogspot.com/2018/08/spatsommerliche-tischdeko-fur-das-blind.html),
+ 
+[Garteninspektor](http://www.garteninspektor.com/blog/mit-lenny-kravitz-auf-der-suche-nach-good-vibrations-gegen-garten-burnout),
+ 
+[Faun und Farn](https://faunundfarn.de/2018/08/18/blogger-blind-date-lenny-kravitz-i-build-this-garden-for-us/),
+ 
+[Laubenhausmädchen](https://laubenhausmaedchen.de/i-built-this-garden-for-us-blind-date-edition-5/),
+  [Frau Meise](https://fraumeise.de/i-build-this-garden-for-us/), und 
+[Mrs. Greenhouse](https://mrsgreenhouse.de/ein-apfelglueck-zum-blind-date-edition-5-i-build-a-garden-for-us)
 
 ![Gartenbloggerblinddate | full](http://cardamonchai.com/wp-content/uploads/2018/08/HANG-IN.jpg)
+
+-->
+
+  

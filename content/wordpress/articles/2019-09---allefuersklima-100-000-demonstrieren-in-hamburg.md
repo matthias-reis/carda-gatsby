@@ -4,12 +4,10 @@ seoTitle: "#allefuersklima - 100.000 Menschen streiken in Hamburg fürs Klima"
 slug: allefuersklima-hamburg
 link: /2019/09/allefuersklima-hamburg/
 fileName: 2019-09---allefuersklima-100-000-demonstrieren-in-hamburg.md
-description:
-  "100.000 Menschen streiken heute unter dem Motto #allefuersklima in Hamburg.
-  Das macht Mut und lässt auf Änderungen hoffen."
-excerpt:
-  "100.000 Menschen streiken heute unter dem Motto #allefuersklima in Hamburg.
-  Das macht Mut und lässt auf Änderungen hoffen."
+description: "100.000 Menschen streiken heute unter dem Motto #allefuersklima in
+  Hamburg. Das macht Mut und lässt auf Änderungen hoffen."
+excerpt: "100.000 Menschen streiken heute unter dem Motto #allefuersklima in
+  Hamburg. Das macht Mut und lässt auf Änderungen hoffen."
 focusKeyword: allefuersklima
 labels:
   - allefuersklima
@@ -29,13 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26299"
+image: /img/demo.jpg
+errors: []
 subTitle: Globaler Klimastreik gut besucht
+  
 ---
 
-<strong>100.000 Menschen streiken heute unter dem Motto #allefuersklima in
-Hamburg. Das macht Mut und lässt auf Änderungen hoffen. Gemeinsam mit dem
-veganen Block waren auch wir bis vor ein paar Minuten noch mitten drin in der
-Demo.</strong>
+**100.000 Menschen streiken heute unter dem Motto #allefuersklima in Hamburg.
+Das macht Mut und lässt auf Änderungen hoffen. Gemeinsam mit dem veganen Block
+waren auch wir bis vor ein paar Minuten noch mitten drin in der Demo.**
 
 In den sozialen Medien brechen die Schlagzeilen mit Teilnehmerrekorden nicht ab.
 31.000 sind in Bremen mit dabei, 25.000 in Freiburg und ganze 270.000 in Berlin!
@@ -70,3 +70,5 @@ Wir feiern jetzt noch ein bisschen und freuen uns schon auf die Nachrichten
 heute Abend.
 
 [glry name="allefuersklimaanne20190920"]
+
+  

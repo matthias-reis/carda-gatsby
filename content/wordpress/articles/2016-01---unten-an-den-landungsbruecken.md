@@ -4,11 +4,9 @@ seoTitle: Landungsbrücken Hamburg am 24. Dezember - Fotos
 slug: landungsbruecken-24-dezember-2015
 link: /2016/01/landungsbruecken-24-dezember-2015/
 fileName: 2016-01---unten-an-den-landungsbruecken.md
-description:
-  Einen wunderschönen Sonnenuntergang durften wir am 24. Dezember an den
-  Landungsbrücken genießen - Hier ein paar Bilder.
-excerpt:
-  Einen wunderschönen Sonnenuntergang durften wir am 24. Dezember an den
+description: Einen wunderschönen Sonnenuntergang durften wir am 24. Dezember an
+  den Landungsbrücken genießen - Hier ein paar Bilder.
+excerpt: Einen wunderschönen Sonnenuntergang durften wir am 24. Dezember an den
   Landungsbrücken genießen.
 focusKeyword: Landungsbrücken
 labels:
@@ -27,7 +25,12 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13630"
+image: /img/demo.jpg
+errors: []
 subTitle: Hach Hamburg ♥
+  
 ---
 
 [myflickr tag="annelandungsbruecken122015"]
+
+  

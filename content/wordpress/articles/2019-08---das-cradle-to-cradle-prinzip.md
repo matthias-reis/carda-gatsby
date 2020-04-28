@@ -4,11 +4,9 @@ seoTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"
 slug: cradle-to-cradle-prinzip
 link: /2019/08/cradle-to-cradle-prinzip/
 fileName: 2019-08---das-cradle-to-cradle-prinzip.md
-description:
-  Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie der
-  konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
-excerpt:
-  Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie der
+description: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie
+  der konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
+excerpt: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie der
   konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
 focusKeyword: Cradle-to-Cradle
 labels:
@@ -29,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25706"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Die Natur kennt keinen Müll"'
+  
 ---
 
-<strong>Beschäftigt man sich mit fairem nachhaltigem Handel, stolpert man
-irgendwann über den Begriff "Cradle-to-Cradle". Dahinter verbirgt sich die
-Philosophie der konsequenten Kreislaufwirtschaft.</strong>
+**Beschäftigt man sich mit fairem nachhaltigem Handel, stolpert man irgendwann
+über den Begriff "Cradle-to-Cradle". Dahinter verbirgt sich die Philosophie der
+konsequenten Kreislaufwirtschaft.**
 
 Cradle-to-Cradle (Abk.: C2C) wurde zum Ende der 1990er-Jahre von Michael
 Braungart und William McDonough entworfen. Wörtlich übersetzt heißt
@@ -47,8 +48,12 @@ dauerhaft in technischen Kreisläufen eingebunden werden.
 
 ![cradle-to-cradle](http://cardamonchai.com/wp-content/uploads/2019/08/cradle-to-cradle-3-400x266.jpg)
 
-sehr gut. Schmilzt man es ein, hat es wieder die gleichen Eigenschaften, wie zu
-Beginn des Kreislaufs.
+Was zunächst ziemlich abstrakt klingt, ist es nicht. Im Grunde bedeutet es, dass
+innerhalb eines geschlossenen Kreislaufs Ressourcen weiterverwendet anstatt
+ausgemustert werden. Das fertige Produkt wird anschließend wieder als Rohstoff
+verwendet. Das funktioniert
+[zum Beispiel mit Glas](/2018/07/glas-statt-plastik/) sehr gut. Schmilzt man es
+ein, hat es wieder die gleichen Eigenschaften, wie zu Beginn des Kreislaufs.
 
 Vor Kurzem habe ich hier im Blog ein junges Unternehmen vorgestellt, das
 ebenfalls nach dem Cradle-to-Cradle-Prinzip arbeitet:
@@ -64,8 +69,8 @@ Samen entstehen neue Bäume.
 ![cradle-to-cradle | large](http://cardamonchai.com/wp-content/uploads/2019/08/cradle-to-cradle-1-520x276.jpg "Biologischer und technischer Zyklus. Grafik: Wikipedia Commons, Rex banditor")
 
 In Deutschland gibt es seit 2012 den gemeinnützigen Verein Cradle to Cradle e.
-V. [](#1) Sein Ziel ist es, Cradle-to-Cradle in die Mitte der Gesellschaft zu
-bringen.
+V. [<sup>1</sup>](#1) Sein Ziel ist es, Cradle-to-Cradle in die Mitte der
+Gesellschaft zu bringen.
 
 Damit sollen die enormen ökologischen und ökonomischen Herausforderungen von
 heute und morgen gelöst werden – gesellschaftlicher und kultureller Wandel für
@@ -80,20 +85,25 @@ Kongress. Regionalgruppen des Vereins gibt es in allen Bundesländern.
 
 ## "Jedes Produkt kann wiederverwertbar sein"
 
-<blockquote>"Der Cradle to Cradle e. V. will verändern, wie Du über Müll nachdenkst. Oder noch besser das Konzept Müll aus allen Nachschlagewerken löschen und nur noch von Ressourcen sprechen. Die Natur kennt keinen Abfall. Jedes Produkt kann wiederverwertbar sein, vorausgesetzt, es wurde dafür entworfen",</blockquote>
+> "Der Cradle to Cradle e. V. will verändern, wie Du über Müll nachdenkst. Oder
+> noch besser das Konzept Müll aus allen Nachschlagewerken löschen und nur noch
+> von Ressourcen sprechen. Die Natur kennt keinen Abfall. Jedes Produkt kann
+> wiederverwertbar sein, vorausgesetzt, es wurde dafür entworfen",
 
 heißt es auf der Webseite des Vereins.
 
-In Hamburg beschäftigt sich das Forschungsinstitut EPEA [](#2) seit nunmehr 30
-Jahren mit dem Cradle-to-Cradle-Prinzip. Der Hauptfokus der Einrichtung liegt
-auf dem Cradle to Cradle Design Konzept. Gearbeitet wird in den Bereichen
-"Textilien", "Gebäude" "Papier und Druck", "Verpackung" und "Handelswaren und
-Kosmetik". Aus diesen Branchen stammen auch die Firmen, mit denen EPEA
-zusammenarbeitet.
+In Hamburg beschäftigt sich das Forschungsinstitut EPEA [<sup>2</sup>](#2) seit
+nunmehr 30 Jahren mit dem Cradle-to-Cradle-Prinzip. Der Hauptfokus der
+Einrichtung liegt auf dem Cradle to Cradle Design Konzept. Gearbeitet wird in
+den Bereichen "Textilien", "Gebäude" "Papier und Druck", "Verpackung" und
+"Handelswaren und Kosmetik". Aus diesen Branchen stammen auch die Firmen, mit
+denen EPEA zusammenarbeitet.
 
 ## Zirkuläres Denken
 
-<blockquote>"Wir möchten unsere Partner bei der Entwicklung innovativer Produkte und Prozesse auf der Basis zirkulären Denkens unterstützen. Zu diesem Zweck stellen wir wissenschaftliche Analysen und Materialbewertungen zur Verfügung",</blockquote>
+> "Wir möchten unsere Partner bei der Entwicklung innovativer Produkte und
+> Prozesse auf der Basis zirkulären Denkens unterstützen. Zu diesem Zweck
+> stellen wir wissenschaftliche Analysen und Materialbewertungen zur Verfügung",
 
 steht in der Einleitung des EPEA Portfolios. Gegründet wurde die EPEA GmbH –
 Part of Drees &amp; Sommer ursprünglich unter dem Namen EPEA Internationale
@@ -127,19 +137,18 @@ schön erklärt:
 
 ### Fußnoten
 
-<ul>
-    <li id="1">[1]  [Cradle to Cradle e. V](https://c2c-ev.de/) </li>
-    <li id="2">[2]  [EPEA](https://epea-hamburg.com) </li>
-</ul>
+- [1][cradle to cradle e. v](https://c2c-ev.de/)
+- [2][epea](https://epea-hamburg.com)
 
 <h4></h4>
 
 ### Quellen:
 
-<ul>
-    <li> [Cradle to Cradle e. V](https://c2c-ev.de/). </li>
-    <li> [EPEA](https://epea-hamburg.com) </li>
-    <li> [Wikipedia](https://de.wikipedia.org/wiki/Cradle_to_Cradle) </li>
-    <li>Cradle-to-Cradle</li>
-    <li>Grafik:  [Wikipedia Commons, Rex banditor „Biologischer und technischer Zyklus“ 15.11.2017](https://commons.wikimedia.org/wiki/File:Cradle_to_cradle.jpg) </li>
-</ul>
+- [Cradle to Cradle e. V](https://c2c-ev.de/).
+- [EPEA](https://epea-hamburg.com)
+- [Wikipedia](https://de.wikipedia.org/wiki/Cradle_to_Cradle)
+- Cradle-to-Cradle
+- Grafik: 
+  [Wikipedia Commons, Rex banditor „Biologischer und technischer Zyklus“ 15.11.2017](https://commons.wikimedia.org/wiki/File:Cradle_to_cradle.jpg)
+
+  

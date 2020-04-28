@@ -4,11 +4,10 @@ seoTitle: Von XAXX gibt es jetzt auch Duschgel - Vegan, duftig & sparsam duschen
 slug: von-xaxx-gibt-es-jetzt-auch-duschgele
 link: /2017/07/von-xaxx-gibt-es-jetzt-auch-duschgele/
 fileName: 2017-07---duschgel-von-xaxx.md
-description:
-  Die neuen veganen Duschgele von XAXX sind durch einen Trick besonders sparsam.
-  Ich habe sie getestet und einen kleinen Bericht geschrieben.
-excerpt:
-  Werbung - Die neuen veganen Duschgele von XAXX sind durch einen Trick
+description: Die neuen veganen Duschgele von XAXX sind durch einen Trick
+  besonders sparsam. Ich habe sie getestet und einen kleinen Bericht
+  geschrieben.
+excerpt: Werbung - Die neuen veganen Duschgele von XAXX sind durch einen Trick
   besonders sparsam. Ich habe sie getestet und einen kleinen Bericht
   geschrieben.
 focusKeyword: XAXX
@@ -38,14 +37,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17263"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegan und sparsam duschen
+  
 ---
 
 Werbung\*
 
 ![XAXX](http://cardamonchai.com/wp-content/uploads/2017/07/35484495883_26d32b1c0a_z-640x427.jpg)
 
-<strong>
+**Vor einiger Zeit hatte ich schon
+[die veganen Parfums aus dem Hause XAXX](/2016/02/unser-parfum-ist-vegan/)
+getestet und für gut befunden. Jetzt gibt es etwas Neues vom veganen
+Kosmetikhersteller. Die lecker duftenden Duschgele sind durch den bestellbaren
+Aufschäumer besonders sparsam in der Anwendung.**
 
 Insgesamt gibt es Stand heute im Online-Shop von XAXX neun verschiedene
 Duschgel-Sorten. Jeden Tag kommen zwei dazu, bis es in 14 Tagen zu jedem
@@ -103,13 +109,14 @@ Wer jetzt neugierig geworden ist und gerne auch mal die Duschgele von XAXX
 testen möchte: Sie sind auf der Seite  [www.flakono.de](http://www.flakono.de/)
  zu finden. Der Vertrieb der Parfüms und Duschgele funktioniert über
 Empfehlungsmarketing. Für die erste Bestellung benötigt man daher eine Marketing
-Nummer. Ihr könnt einfach die <strong>10081</strong> bei Eurer Bestellung
-angeben.
+Nummer. Ihr könnt einfach die **10081** bei Eurer Bestellung angeben.
 
 Grüße von der Schaumwolke
 
 [myflickr tag="annexaxxduschgel"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

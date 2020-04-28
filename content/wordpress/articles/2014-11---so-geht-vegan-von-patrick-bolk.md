@@ -4,13 +4,12 @@ seoTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
 slug: so-geht-vegan-von-patrick-bolk
 link: /2014/11/so-geht-vegan-von-patrick-bolk/
 fileName: 2014-11---so-geht-vegan-von-patrick-bolk.md
-description:
-  Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen persönlichen
-  Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo abzunehmen.
-excerpt:
-  Affiliate Link - Patrick Bolk berichtet in seinem Buch "So geht vegan" von
-  seinen persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo
+description: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen
+  persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo
   abzunehmen.
+excerpt: Affiliate Link - Patrick Bolk berichtet in seinem Buch "So geht vegan"
+  von seinen persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25
+  Kilo abzunehmen.
 focusKeyword: Patrick Bolk
 labels:
   - Bücher & Filme
@@ -29,14 +28,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24390"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Buch für Vegan-Einsteiger
+  
 ---
-
-<em>Affiliate Link\*</em><strong>"So geht vegan" von Patrick Bolk hebt sich in
-einem Punkt von sehr vielen anderen Büchern und Veröffentlichungen des Genres
-ab: Es ist sehr positiv geschrieben. Bolk ist schon sehr viel weiter, als einige
-andere Vertreter der Szene. Bei ihm ist der Veganismus bereits in der Mitte der
-Gesellschaft angekommen.</strong>
 
 Ob das wirklich so ist, sei dahingestellt, auf Neuveganer wirkt es sehr
 motivierend. Ich las bei meiner Umstellung ständig (und lese auch heute noch) in
@@ -52,7 +48,7 @@ Neuling hätte ich mir ein solches Buch auf jeden Fall gewünscht.
 
 ![patrick-bolk](http://cardamonchai.com/wp-content/uploads/2019/06/patrick-bolk-2-400x600.jpg)
 
-## Der Autor berichtet von seinen Erfolgserlebnissen<a href="https://amzn.to/31ngUxz" target="_blank" rel="noopener">Im Buch berichtet der Autor von seinen Erfolgserlebnissen, z. B. wie er mal nebenbei 25 Kilo abnahm, stellt sich dabei jedoch nicht in den Mittelpunkt oder arbeitet dies hervor, was sehr angenehm ist.
+## Der Autor berichtet von seinen Erfolgserlebnissen [](https://amzn.to/31ngUxz) Im Buch berichtet der Autor von seinen Erfolgserlebnissen, z. B. wie er mal nebenbei 25 Kilo abnahm, stellt sich dabei jedoch nicht in den Mittelpunkt oder arbeitet dies hervor, was sehr angenehm ist.
 
 Seine Erfahrungsberichte wirken sehr authentisch, besonders, da Bolk bei seiner
 Umstellung gleich den harten Schnitt von Omni auf Veganer gemacht hat, ohne die
@@ -106,12 +102,14 @@ Rezepte zum Ausprobieren.
 
 ![patrick-bolk](http://cardamonchai.com/wp-content/uploads/2019/06/patrick-bolk-4-400x267.jpg)
 
-## "Ich habe das in meiner Küche gemacht, das schaffst du auch!"<a href="https://amzn.to/31ngUxz" target="_blank" rel="noopener">Besonders positiv fielen mir beim Lesen des Buches die Bilder auf. Sie wirken nicht inszeniert oder künstlich, man kann sich gut vorstellen, die Rezepte zu Hause nach zu kochen und im Anschluss ein ähnliches Foto auf Instagram zu posten. Die Aussage "Hallo, ich habe das in meiner kleinen, privaten Küche gemacht, das schaffst du auch!" finde ich toll.
+## "Ich habe das in meiner Küche gemacht, das schaffst du auch! "[](https://amzn.to/31ngUxz) Besonders positiv fielen mir beim Lesen des Buches die Bilder auf. Sie wirken nicht inszeniert oder künstlich, man kann sich gut vorstellen, die Rezepte zu Hause nach zu kochen und im Anschluss ein ähnliches Foto auf Instagram zu posten. Die Aussage "Hallo, ich habe das in meiner kleinen, privaten Küche gemacht, das schaffst du auch!" finde ich toll.
 
 Hervorragend ist auch das Kapitel "Besondere Gelegenheiten". Hier werden Tipps
 gegeben zu z. B.
 
-<ul><li>Was mache ich, wenn ich mit Freunden essen gehe?</li><li>Wie überstehe ich eine Familienfeier?</li><li>Wie kann ich andere von gutem, veganem Essen überzeugen?</li></ul>
+- Was mache ich, wenn ich mit Freunden essen gehe?
+- Wie überstehe ich eine Familienfeier?
+- Wie kann ich andere von gutem, veganem Essen überzeugen?
 
 Was mir ein Bisschen gefehlt hat, sind vegane Einkaufstipps außerhalb der
 üblichen Onlinestores und dem teuren Veganz, sowie Lokaltipps. Der Autor rät zu
@@ -137,7 +135,7 @@ mit den Kids nach kochen lassen.
 
 ![patrick-bolk](http://cardamonchai.com/wp-content/uploads/2019/06/patrick-bolk-1-400x600.jpg)
 
-## Grundrezepte für Sojadrink und Seitan<a href="https://amzn.to/31ngUxz" target="_blank" rel="noopener">Mit Rezepten, die neugierig machen, werden auch Superfoods und das Thema Rohkost kurz gestreift, die "Zweierlei Rabbit Balls mit Feige, Kokos und Limette" werde ich definitiv ausprobieren.
+## Grundrezepte für Sojadrink und Seitan [](https://amzn.to/31ngUxz) Mit Rezepten, die neugierig machen, werden auch Superfoods und das Thema Rohkost kurz gestreift, die "Zweierlei Rabbit Balls mit Feige, Kokos und Limette" werde ich definitiv ausprobieren.
 
 Sehr schön ist, dass auch die Grundrezepte für z. B.
 [Sojadrink](/2014/12/diy-sojamilch/) oder Seitan gezeigt werden, so weiß man von
@@ -164,4 +162,6 @@ wenn mal wieder ein Bisschen Inspiration her muss.
 "So geht vegan" von Patrick Bolk ist im Südwest Verlag erschienen und für 16,99
 Euro im deutschen Buchhandel zu haben.
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517092789&amp;asins=3517092789&amp;linkId=852e229a1ce9e8f1deddd8920286ae5e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3517092789&amp;asins=3517092789&amp;linkId=852e229a1ce9e8f1deddd8920286ae5e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> _*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

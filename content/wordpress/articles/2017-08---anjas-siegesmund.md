@@ -1,16 +1,13 @@
 ---
 title: Anjas Siegesmund
-seoTitle:
-  Anjas Klimaretter-Sparbuch - Grüne Politikerin stellt neues Projekt vor
+seoTitle: Anjas Klimaretter-Sparbuch - Grüne Politikerin stellt neues Projekt vor
 slug: klimaretter-sparbuch
 link: /2017/08/klimaretter-sparbuch/
 fileName: 2017-08---anjas-siegesmund.md
-description:
-  Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das
+description: Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das
   Klimaretter-Sparbuch vor. Sie möchte damit einen Einreiz bieten und die
   Möglichkeit zu sparen.
-excerpt:
-  Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das
+excerpt: Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das
   Klimaretter-Sparbuch vor. Sie möchte damit einen Einreiz bieten und die
   Möglichkeit zu sparen.
 focusKeyword: Klimaretter-Sparbuch
@@ -35,13 +32,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17738"
+image: /img/demo.jpg
+errors: []
 subTitle: Das Klimaretter-Sparbuch
+  
 ---
 
-<strong>Anja Siegesmund von Bündnis 90/Die Grünen Thüringen stellte am 21.
-August in Anlehnung an den
-[ökologischen Handabdruck](/2017/02/klimaschutz-und-vegane-ernaehrung/) etwas
-ganz Neues vor: Das Klimaretter-Sparbuch.</strong>
+**Anja Siegesmund von Bündnis 90/Die Grünen Thüringen stellte am 21. August in
+Anlehnung an den
+[ökologischen Fußabdruck](/2017/02/klimaschutz-und-vegane-ernaehrung/) und dem
+[ökologischen Handabdruck](/2017/08/oekologischer-handabdruck/) etwas ganz Neues
+vor: Das Klimaretter-Sparbuch.**
 
 ![Klimaretter-Sparbuch](http://cardamonchai.com/wp-content/uploads/2017/08/Bildschirmfoto-2017-08-24-um-13.12.11-300x426.png)
 
@@ -91,3 +92,5 @@ Neugierige können sich das Klimaretter-Sparbuch
 
 Übrigens könnt Ihr Anja Siegesmund auch auf Ihrem Blog besuchen.
 [Sie sagt dort regelmäßig ihre Meinung](http://www.anja-siegesmund.de/).
+
+  

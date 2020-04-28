@@ -4,11 +4,10 @@ seoTitle: Zentangle - Malen als kreative Prokrastination
 slug: zentangle-malen-als-kreative-prokrastination
 link: /2016/02/zentangle-malen-als-kreative-prokrastination/
 fileName: 2016-02---zentangle.md
-description:
-  Zentangle ist genau das Richtige, um etwas Entspannung in den Alltag zu
-  bringen. Dafür braucht man nur ein paar Stifte und ein weißes Blatt Papier.
-excerpt:
-  Zentangle ist genau das Richtige, um etwas Entspannung in den Alltag zu
+description: Zentangle ist genau das Richtige, um etwas Entspannung in den
+  Alltag zu bringen. Dafür braucht man nur ein paar Stifte und ein weißes Blatt
+  Papier.
+excerpt: Zentangle ist genau das Richtige, um etwas Entspannung in den Alltag zu
   bringen. Dafür braucht man nur ein paar Stifte und ein weißes Blatt Papier.
 focusKeyword: Zentangle
 labels:
@@ -31,14 +30,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13946"
+image: /img/demo.jpg
+errors: []
 subTitle: Malen als kreative Prokrastination
+  
 ---
 
 ![Zentangle Katze](http://cardamonchai.com/wp-content/uploads/2016/02/24267467573_b66df77d05_z-640x640.jpg "Zentangle Katze")
 
-<strong>Ob wirklich jeder malen kann, wie es ein berühmter Spielehersteller
-immer behauptet hat, weiß ich nicht. Tatsache ist jedoch, dass ich es bis dato
-nicht konnte.</strong>
+**Ob wirklich jeder malen kann, wie es ein berühmter Spielehersteller immer
+behauptet hat, weiß ich nicht. Tatsache ist jedoch, dass ich es bis dato nicht
+konnte.**
 
 Vor ein paar Tagen habe ich Euch ja von meinem Plan berichtet, etwas mehr
 [Gelassenheit in den Alltag](/2016/02/ikigai-quelle-des-lebens/) zu bringen.
@@ -94,10 +96,11 @@ Mandalas kommen traditionell nicht nur im tibetanischen Buddhismus, sondern auch
 in anderen buddhistischen und hinduistischen Kulturen vor. Auch in indianischen
 Kulturkreisen sind sie fester Bestandteil von Kunst und Meditation. Heute werden
 Mandales zum Ausmalen gerne in Schulen und Kitas als Zwischenentspannung genutzt
-und auch <strong>Malbücher für Erwachsene</strong> erfreuen sich immer größerer
-Beliebtheit.
+und auch **Malbücher für Erwachsene** erfreuen sich immer größerer Beliebtheit.
 
 [myflickr tag="annezentangle1"]
 
 Folgt Ihr mir schon auf Pinterest? Auch dort
 [pinne ich ab und zu mal ein buntes Bild an](https://de.pinterest.com/annereko/).
+
+  

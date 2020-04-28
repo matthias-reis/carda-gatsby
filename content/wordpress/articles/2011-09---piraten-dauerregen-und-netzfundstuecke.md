@@ -4,11 +4,9 @@ seoTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag
 slug: kalte-piraten-und-ein-netzfundstuck
 link: /2011/09/kalte-piraten-und-ein-netzfundstuck/
 fileName: 2011-09---piraten-dauerregen-und-netzfundstuecke.md
-description:
-  Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
+description: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
   Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
-excerpt:
-  Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
+excerpt: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
   Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
 focusKeyword: Netzfundstücke
 labels:
@@ -51,13 +49,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11621"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
-
-<strong>Heute ist
-[Wahlen in Berlin](http://de.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day)
-ziemlich passend ist. Quasi aus dem Nichts tauchten die Piraten auf und enterten
-mit 8,9 Prozent der Wählerstimmen das Berliner Abgeordnetenhaus.</strong>
 
 Die Linke konnte 11,7 % der Wähler für sich begeistern und erhält somit 20 Sitze
 im Abgeordnetenhaus.
@@ -112,12 +108,13 @@ Vor einiger Zeit bin ich im Netz über ein Video gestolpert. Einen Song, den FAN
 MODINE in weiser Voraussicht schon vor einiger Zeit als Titelsong für mein Blog
 komponiert haben müssen. Hier also das Netzfundstück:
 
-<strong>Fan Modine - Cardamon Chai</strong>
+**Fan Modine - Cardamon Chai**
 
 [youtube=http://www.youtube.com/watch?v=rs-YQ-2uA9w]
 
-<span style="text-decoration: underline;">Vorläufige Ergebnisse der
-Abgeordnetenhauswahl Berlin 2011:</span>
+Vorläufige Ergebnisse der Abgeordnetenhauswahl Berlin 2011:
 
 SPD: 28,3% CDU: 23,4% GRÜNE: 17,6% LINKE: 11,7% PIRATEN: 8,9% FDP: 1,8%
 Sonstige: 8,4 %
+
+  

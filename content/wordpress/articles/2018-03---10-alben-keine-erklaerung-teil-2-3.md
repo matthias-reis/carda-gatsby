@@ -1,16 +1,15 @@
 ---
 title: 10 Alben - Keine Erklärung - Teil 2/3
-seoTitle:
-  10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
+seoTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
 slug: 10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste
 link: /2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/
 fileName: 2018-03---10-alben-keine-erklaerung-teil-2-3.md
-description:
-  Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle ich Euch
-  die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid gespannt!
-excerpt:
-  Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle ich Euch
-  die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid gespannt!
+description: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung"
+  stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
+  gespannt!
+excerpt: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung" stelle
+  ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
+  gespannt!
 focusKeyword: 10 Alben
 labels:
   - Bands & Reviews
@@ -48,10 +47,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20077"
+image: /img/demo.jpg
+errors: []
 subTitle: Lieblingsplattenliste eines Gartenbloggers
+  
 ---
 
-<blockquote><strong>10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"</strong></blockquote>
+> **10 LPs that make the "favourites" playlist. Post a cover a day, no
+> explanation, nominate a person a day."  - 10 Alben, die Deine
+> All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine
+> andere Person"**
 
 So stand es an der Facebook-Pinnwand des beliebten Gartenbloggers Björn von
 Gartenbaukunst\*. Darunter war mein Name markiert. Nach dem ersten Schrecken
@@ -109,10 +114,10 @@ aller Zeiten vorgestellt, heute zeige ich Euch die von Björn.
 
 ## Wegweiser "Alben - Keine Erklärung"
 
-<ol>
-    <li> [Meine ultimative Lieblingsplattenliste](/2018/03/meine-ultimative-lieblingsplatten-liste/) </li>
-    <li>Björns ultimative Lieblingsplattenliste</li>
-    <li> [Matzes ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-teil-3/) </li>
-</ol>
+1.  [Meine ultimative Lieblingsplattenliste](/2018/03/meine-ultimative-lieblingsplatten-liste/)
+1.  Björns ultimative Lieblingsplattenliste
+1.  [Matzes ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-teil-3/)
 
 - [Björn von Gartenbaukunst findet Ihr hier](https://gartenbaukunst.wordpress.com/).
+
+  

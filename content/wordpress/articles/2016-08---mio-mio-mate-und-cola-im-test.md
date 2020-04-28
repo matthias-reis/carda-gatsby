@@ -4,12 +4,12 @@ seoTitle: MIO MIO MATE und COLA - Ich habe probiert
 slug: mio-mio-mate-und-cola-ich-habe-probiert
 link: /2016/08/mio-mio-mate-und-cola-ich-habe-probiert/
 fileName: 2016-08---mio-mio-mate-und-cola-im-test.md
-description:
-  Die Jungs von MIO MIO haben mich gefragt, ob ich Lust habe, ihre neue Cola und
-  die Mate zu testen. Da habe ich natürlich nicht nein gesagt - Getränketest
-excerpt:
-  Werbung - Die Jungs von MIO MIO haben mich gefragt, ob ich Lust habe, ihre
-  neue Cola und die Mate zu testen. Da habe ich natürlich nicht nein gesagt.
+description: Die Jungs von MIO MIO haben mich gefragt, ob ich Lust habe, ihre
+  neue Cola und die Mate zu testen. Da habe ich natürlich nicht nein gesagt -
+  Getränketest
+excerpt: Werbung - Die Jungs von MIO MIO haben mich gefragt, ob ich Lust habe,
+  ihre neue Cola und die Mate zu testen. Da habe ich natürlich nicht nein
+  gesagt.
 focusKeyword: MIO MIO
 labels:
   - Cola
@@ -30,17 +30,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15061"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Limo mit Geschmack
+  
 ---
 
 Werbung\*
 
 ![MIO MIO ](http://cardamonchai.com/wp-content/uploads/2016/08/28497211950_3672e57073_z-640x427.jpg "MIO MIO - Ich habe getestet")
 
-<strong>Schon vor unserem Urlaub haben die Leute von MIO MIO sich bei mir
-gemeldet und gefragt, ob ich Lust hätte, ihre neue Cola zu testen. Natürlich
-habe ich zugesagt, zu einem guten pflanzlichen Erfrischungsgetränk kann ich
-schließlich nicht nein sagen.</strong>
+**Schon vor unserem Urlaub haben die Leute von MIO MIO sich bei mir gemeldet und
+gefragt, ob ich Lust hätte, ihre neue Cola zu testen. Natürlich habe ich
+zugesagt, zu einem guten pflanzlichen Erfrischungsgetränk kann ich schließlich
+nicht nein sagen.**
 
 Letzte Woche war es dann so weit, der Paketbote gab ein richtig schweres Paket
 bei mir ab. Heraus holte ich eine Getränkekiste mit jeder Menge Flaschen sowie
@@ -109,7 +112,9 @@ Falls Ihr Euch selbst mal informieren möchtet: Die Facebook-Seite von MIO MIO
 
 [gallery type="rectangular" link="none" ids="15065,15063,15062"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. In diesem Fall habe ich die Produkte sogar
-gewonnen. Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. In diesem Fall habe ich die Produkte sogar gewonnen.
+Infos zum Thema Werbung in meinem Blog findet Ihr auf meiner
+[Transparenz-Seite](/werbung/). _
+
+  

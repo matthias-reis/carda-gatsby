@@ -4,13 +4,11 @@ seoTitle: Erbsensuppe wie bei Oma - Grünes Protein für alle
 slug: erbsensuppe-wie-bei-oma
 link: /2017/04/erbsensuppe-wie-bei-oma/
 fileName: 2017-04---erbsensuppe-wie-bei-oma.md
-description:
-  Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere ich
-  Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an
-  Protein.
-excerpt:
-  Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere ich
-  Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an
+description: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb
+  präsentiere ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und
+  reich an Protein.
+excerpt: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb präsentiere
+  ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und reich an
   Protein.
 focusKeyword: Erbsensuppe
 labels:
@@ -44,12 +42,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16520"
+image: /img/demo.jpg
+errors: []
 subTitle: Grünes Protein für alle
+  
 ---
 
-<strong>Ich will nicht angeben, aber: Meine Erbsensuppe hat bei Instagram voll
+**Ich will nicht angeben, aber: Meine Erbsensuppe hat bei Instagram voll
 abgeräumt. Ich habe gleich ein paar Nachrichten mit der Frage nach dem Rezept
-bekommen. Hiermit verrate ich es Euch.</strong>
+bekommen. Hiermit verrate ich es Euch.**
 
 Es ist echt ganz einfach, Ihr müsst nur ein kleines Bisschen Geduld haben, denn
 die Erbsen brauchen etwas Vorbereitungszeit. Ihr werdet aber auf jeden Fall für
@@ -58,16 +59,14 @@ Gericht wartet auf Euch.
 
 ## Zutaten (für 5 - 6 Teller)
 
-<ul>
-    <li>300 g Trockenerbsen</li>
-    <li>1 - 2 große Zwiebeln</li>
-    <li>Pfeffer</li>
-    <li>Sojasauce</li>
-    <li>Essig</li>
-    <li>1 Chilischote</li>
-    <li>Soja- oder Hafer-Cuisine (Kann nach Geschmack hinzugefügt werden)</li>
-    <li>Geschrotete Leinsamen</li>
-</ul>
+- 300 g Trockenerbsen
+- 1 - 2 große Zwiebeln
+- Pfeffer
+- Sojasauce
+- Essig
+- 1 Chilischote
+- Soja- oder Hafer-Cuisine (Kann nach Geschmack hinzugefügt werden)
+- Geschrotete Leinsamen
 
 ## Zubereitung
 
@@ -107,3 +106,5 @@ schöner Apfelwein oder Cider.
 Guten Appetit! &lt;3
 
 [gallery link="none" size="medium" type="rectangular" ids="16520,16522,16521"]
+
+  

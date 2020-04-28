@@ -4,12 +4,10 @@ seoTitle: Vegan? Hamwa! - Ökolatsche 2.0 - Ein Kommentar
 slug: vegan-hamwa
 link: /2015/02/vegan-hamwa/
 fileName: 2015-02---vegan-hamwa.md
-description:
-  Vegan ist auf dem Vormarsch. Es ist schön, dass sich was tut. Das Umdenken
-  erfolgt Schritt für Schritt. Hier mein Kommentar zum Thema.
-excerpt:
-  Vegan ist auf dem Vormarsch. Es ist schön, dass sich was tut. Das Umdenken
-  erfolgt Schritt für Schritt. Hier mein Kommentar zum Thema.
+description: Vegan ist auf dem Vormarsch. Es ist schön, dass sich was tut. Das
+  Umdenken erfolgt Schritt für Schritt. Hier mein Kommentar zum Thema.
+excerpt: Vegan ist auf dem Vormarsch. Es ist schön, dass sich was tut. Das
+  Umdenken erfolgt Schritt für Schritt. Hier mein Kommentar zum Thema.
 focusKeyword: Vegan
 labels:
   - Alternativen
@@ -28,41 +26,44 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "9510"
+image: /img/demo.jpg
+errors: []
 subTitle: Ökolatsche 2.0
+  
 ---
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/14928928498_12fe41202f_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Ökolatsche 2.0")
+![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/14928928498_12fe41202f_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Ökolatsche 2.0")
 
-<b>Ich wollte mal wieder einen Kommentar abgeben und das sei hiermit geschehen:
-Es ist schön, dass sich was tut. Das Umdenken erfolgt Schritt für Schritt.</b>
+**Ich wollte mal wieder einen Kommentar abgeben und das sei hiermit geschehen:
+Es ist schön, dass sich was tut. Das Umdenken erfolgt Schritt für Schritt.**
 
-Im Fernsehen laufen Berichte [](#1) über die vegane Lebensweise (zwar nicht im
-Vorabendprogramm, da lösen nach wie vor die Zoosendungen die Fleisch- und
-Sahneköche ab und umgekehrt), aber man muss froh sein, dass sich der Gedanke
-langsam rumspricht.
+Im Fernsehen laufen Berichte [<sup>1</sup>](#1) über die vegane Lebensweise
+(zwar nicht im Vorabendprogramm, da lösen nach wie vor die Zoosendungen die
+Fleisch- und Sahneköche ab und umgekehrt), aber man muss froh sein, dass sich
+der Gedanke langsam rumspricht.
 
-Immer mehr Menschen probieren auch mal <strong>pflanzliche Milch</strong> (zu
-erkennen am wachsenden Angebot in den Supermärkten) und auch Frau Müller von
-gegenüber spricht inzwischen die Spaziergänger im Hundepark darauf an, wenn sie
-ihre Fiffis zu streng an die Leine nehmen.
+Immer mehr Menschen probieren auch mal **pflanzliche Milch** (zu erkennen am
+wachsenden Angebot in den Supermärkten) und auch Frau Müller von gegenüber
+spricht inzwischen die Spaziergänger im Hundepark darauf an, wenn sie ihre
+Fiffis zu streng an die Leine nehmen.
 
 ## Pythagoras hatte recht!
 
 „Alles, was der Mensch den Tieren antut, kommt auf den Menschen wieder zurück.“
 Ich denke, dass man diesen weltberühmten Satz ausweiten darf auf „Alles, was der
 Mensch der Natur antut, kommt auf den Menschen zurück“. Das ist sicherlich auch
-das, was <strong>Pythagoras</strong> damit gemeint hat.
+das, was **Pythagoras** damit gemeint hat.
 
 Wann, wenn nicht jetzt? Die Zeit für ein kollektives Umdenken ist gekommen. Nur
-eine <strong>tierleidfreie Zukunft</strong> hat Zukunft.
+eine **tierleidfreie Zukunft** hat Zukunft.
 
-Wie schrieb die Zitty Berlin [](#2) das gestern so schön „Die Zeit ist reif,
-faule Kompromisse über Bord zu werfen. Nie war es einfacher und notwendiger,
-ohne tierische Produkte zu leben, als heute.“
+Wie schrieb die Zitty Berlin [<sup>2</sup>](#2) das gestern so schön „Die Zeit
+ist reif, faule Kompromisse über Bord zu werfen. Nie war es einfacher und
+notwendiger, ohne tierische Produkte zu leben, als heute.“
 
 ## Das Leid der Milchrinder
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16567602676_8b5367c531_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Garantiert ohne Rind: Selbstgemachte Seitanburger")
+![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16567602676_8b5367c531_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Garantiert ohne Rind: Selbstgemachte Seitanburger")
 
 Ja, so langsam kommt es in unseren Köpfen an, dass die Qualen der Milchrinder
 genauso, wenn nicht sogar größer sind, als die der Mastrinder, dass es sich bei
@@ -70,9 +71,9 @@ Leder genau wie bei Pelzmänteln um die Haut unserer Miterdlinge handelt und das
 Fische sehr wohl Schmerzen fühlen können.
 
 Im Privatfernsehen läuft derweil die Wurstwerbung weiterhin rund und sogenannte
-Gesundheitsfachleute machen gemeinsame Sache mit der
-<strong>Milchindustrie</strong>, die uns seit Jahrzehnten vorgaukelt, dass wir
-die Muttermilch anderer Säugetiere zum Überleben brauchen.
+Gesundheitsfachleute machen gemeinsame Sache mit der **Milchindustrie** , die
+uns seit Jahrzehnten vorgaukelt, dass wir die Muttermilch anderer Säugetiere zum
+Überleben brauchen.
 
 ## Das Unwort unseres Zeitalters
 
@@ -81,8 +82,8 @@ werden? Werden eines Tages Warnhinweise auf Milchtüten zu finden sein?
 „Milchkonsum schadet der Gesundheit“? Zu diesem Thema habe ich mich ja vor
 kurzem schon mal sehr ausführlich
 [hier ausgelassen](/2014/09/09/pflanzenmilch-wieso-denn-blos/). Doch zum Glück
-begreifen wir nach und nach, was das Unwort unseres Zeitalters ist:
-<strong>Nutztier</strong>.
+begreifen wir nach und nach, was das Unwort unseres Zeitalters ist: **Nutztier**
+.
 
 ## Vegan - Wir machen mit!
 
@@ -93,7 +94,7 @@ zukunftsträchtiges Geschäft und im Moment kann einfach Jede/r noch der/die Ers
 sein. Ein ganz neuer Markt möchte erobert werden, neue Kunden kommen mit einer
 ständig wachsenden Nachfrage ins Geschäft spaziert.
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16645349015_bca3a88d2d_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Hier gibt es jetzt auch vegane Gerichte")
+![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16645349015_bca3a88d2d_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Hier gibt es jetzt auch vegane Gerichte")
 
 Und es gibt einiges zu tun! Ich spreche hier auch die Verpackungsdesigner an.
 Warum lässt sich eine Leberwurstpackung schon seit der Spätbronzezeit ganz
@@ -103,12 +104,12 @@ werden unser Geld bei Euch ausgeben! Versprochen!
 
 ## Wir werden unser Geld bei Euch ausgeben!
 
-Not macht übrigens ganz schön erfinderisch, ein paar findige
-<strong>Veganer</strong> haben sich da schon eine ganze Menge geniale Dinge
-ausgedacht. Inzwischen gibt es Online-Shops für veganes Schuhwerk, vegane KITAS,
-vegane Imbisse an jeder Ecke und vegane Kochkurse. Im Internet formieren sich
-Gruppen von Veganern, um Produktanfragen auszutauschen, Kochrezepte
-weiterzugeben und Einkaufserfahrungen kundzutun.
+Not macht übrigens ganz schön erfinderisch, ein paar findige **Veganer** haben
+sich da schon eine ganze Menge geniale Dinge ausgedacht. Inzwischen gibt es
+Online-Shops für veganes Schuhwerk, vegane KITAS, vegane Imbisse an jeder Ecke
+und vegane Kochkurse. Im Internet formieren sich Gruppen von Veganern, um
+Produktanfragen auszutauschen, Kochrezepte weiterzugeben und Einkaufserfahrungen
+kundzutun.
 
 Allein auf Facebook dürfte die Anzahl der veganen Communities allein in
 Deutschland inzwischen im 5stelligen Bereich liegen. Wann hat es sowas zuletzt
@@ -120,12 +121,11 @@ Restaurants und sogar ganzen Wohngemeinschaften,
 ## Die Ökolatsche 2.0
 
 Begibt man sich in die Innenstädte, kann man beobachten, wie der Wandel langsam
-ankommt. Vor Kurzem erst betrat ich eines dieser Geschäfte für
-<strong>ökologische Bekleidung</strong>, die Kollektion dort bestand zum größten
-Teil aus Wolle und Seide. Grund genug für mich, die Verkäuferin mal
-anzusprechen, die sich freundlich bei mir als die Ladeninhaberin vorstellte und
-sich auf meinen Hinweis hin gleich mal ein paar Labels für vegane Ökomode
-notierte.
+ankommt. Vor Kurzem erst betrat ich eines dieser Geschäfte für **ökologische
+Bekleidung** , die Kollektion dort bestand zum größten Teil aus Wolle und Seide.
+Grund genug für mich, die Verkäuferin mal anzusprechen, die sich freundlich bei
+mir als die Ladeninhaberin vorstellte und sich auf meinen Hinweis hin gleich mal
+ein paar Labels für vegane Ökomode notierte.
 
 Öko ist eben nicht mehr Öko. Heutzutage geht es nicht mehr nur darum, möglichst
 zweckdienliche Klamotten zu finden und wir haben herausgefunden, dass Babies von
@@ -136,18 +136,17 @@ tierleidfrei sein. Die Ökolatsche 2.0. also.
 
 ## Tierleidfreie Produkte werden nach und nach zum festen Sortimentsbestandteil
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/15070698056_05f84410ef_o-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Bietet nicht nur Avocados: Die vegane Küche")
+![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/15070698056_05f84410ef_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bietet nicht nur Avocados: Die vegane Küche")
 
 Genau so letzte Woche im Reformhaus: Da im Drogeriemarkt meines Vertrauens mal
-wieder das <strong>Kokosöl</strong> und die Hefeflocken ausverkauft waren (die
-Nachfrage bestimmt das Angebot, liebe Filialleiterin dort! ;-) ), erstand ich
-diese Waren im Reformhaus an der Ecke und wurde dieses Mal selbst in ein
-Gespräch verwickelt. Die sehr interessierte Verkaufsberaterin freute sich
-sichtlich, eine Veganerin zu bedienen (das fand sie heraus, nachdem sie mich von
-sich aus gefragt hatte, sie meinte, Veganer würde doch häufiger diese
-Hefeflocken kaufen) und war begeistert von der Vielfältigkeit der
-Einsatzmöglichkeiten ihrer gerade ins Sortiment aufgenommenen
-<strong>Hefeflocken</strong> zu erfahren.
+wieder das **Kokosöl** und die Hefeflocken ausverkauft waren (die Nachfrage
+bestimmt das Angebot, liebe Filialleiterin dort! ;-) ), erstand ich diese Waren
+im Reformhaus an der Ecke und wurde dieses Mal selbst in ein Gespräch
+verwickelt. Die sehr interessierte Verkaufsberaterin freute sich sichtlich, eine
+Veganerin zu bedienen (das fand sie heraus, nachdem sie mich von sich aus
+gefragt hatte, sie meinte, Veganer würde doch häufiger diese Hefeflocken kaufen)
+und war begeistert von der Vielfältigkeit der Einsatzmöglichkeiten ihrer gerade
+ins Sortiment aufgenommenen **Hefeflocken** zu erfahren.
 
 Worauf ich eigentlich hinaus wollte? Ich weiß es nicht. Vielleicht wollte ich
 auch einfach mal wieder die Tastatur klappern lassen.
@@ -159,6 +158,9 @@ jedoch denke ich, es ist nur noch eine Frage der Zeit, bis die Fellschuhe und
 Wollsocken in der Auslage vor der Tür wunderbar weichen Bambussocken und
 Kokosschuhen weichen müssen.
 
-In diesem Sinne: <em>Go vegan!
-&lt;3</em><ul><li id="1">[1][artikel zum thema veganismus in der zitty berlin](http://www.3sat.de/mediathek/?mode=play&amp;obj=49416)
-</li></ul>
+In diesem Sinne: _Go vegan! &lt;3_ -
+[1][sendung auf 3sat zum thema veganismus](http://www.3sat.de/mediathek/?mode=play&amp;obj=49416)
+
+- [2][artikel zum thema veganismus in der zitty berlin](http://www.zitty.de/veganismus-ist-mehr-als-nur-ein-lifestyle-trend.html)
+
+  

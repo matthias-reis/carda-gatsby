@@ -5,9 +5,8 @@ slug: die-post-ist-da-neue-schallplatten-in-meiner-sammlung
 link: /2013/06/die-post-ist-da-neue-schallplatten-in-meiner-sammlung/
 fileName: 2013-06---die-post-ist-da.md
 description: ""
-excerpt:
-  Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines Vertrauens
-  ein Paket für mich aufgegeben.
+excerpt: Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines
+  Vertrauens ein Paket für mich aufgegeben.
 focusKeyword: ""
 labels:
   - Bands & Reviews
@@ -52,12 +51,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5560"
+image: /img/demo.jpg
+errors: []
 subTitle: Neue Schallplatten in meiner Sammlung
+  
 ---
-
-<strong>Bereits letzte Woche Mittwoch hatte
-[auf Twitter](http://marleenrecords.wordpress.com) mitverfolgt, was für eine
-spannende Reise es hinter sich hat.</strong>
 
 Nachdem ich leider keine Nachricht vom Paketdienst bekommen hatte, fuhr ich
 heute auf gut Glück zum Paketshop, der normalerweise meine Pakete entgegennimmt.
@@ -73,3 +71,5 @@ stay tuned!
 
 [gallery columns="1" type="rectangular"
 ids="5555,5556,5558,5560,5561,5562,5564,5565,5566,5567,5568"]
+
+  

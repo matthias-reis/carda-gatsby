@@ -4,14 +4,12 @@ seoTitle: Das Internationale Maritime Museum in Hamburg
 slug: das-internationale-maritime-museum-hamburg
 link: /2016/01/das-internationale-maritime-museum-hamburg/
 fileName: 2016-01---das-internationale-maritime-museum-hamburg.md
-description:
-  Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in Hamburg
-  angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles über die
-  Seefahrt und ihre Geschichte erfahren.
-excerpt:
-  Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in Hamburg
-  angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles über die
-  Seefahrt und ihre Geschichte erfahren.
+description: Vor ein paar Tagen haben wir uns das Internationale Maritime Museum
+  in Hamburg angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles
+  über die Seefahrt und ihre Geschichte erfahren.
+excerpt: Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in
+  Hamburg angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles
+  über die Seefahrt und ihre Geschichte erfahren.
 focusKeyword: Das Internationale Maritime Museum
 labels:
   - Das Internationale Maritime Museum
@@ -30,14 +28,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13718"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Geschichte der Seefahrt
+  
 ---
 
 ![Das Internationale Maritime Museum Hamburg zeigt auch die Geschichte der Piraten](http://cardamonchai.com/wp-content/uploads/2016/01/23854147664_0649fda667_z-640x427.jpg "Das Internationale Maritime Museum Hamburg zeigt auch die Geschichte der Piraten")
 
-<strong>Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in
-der Hamburger Speicherstadt angesehen. Ein wirklich lohnender Besuch, im Museum
-kann man alles über die Seefahrt und ihre Geschichte erfahren. </strong>
+**Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in der
+Hamburger Speicherstadt angesehen. Ein wirklich lohnender Besuch, im Museum kann
+man alles über die Seefahrt und ihre Geschichte erfahren.**
 
 Natürlich habe ich auch jede Menge Fotos gemacht, die ich Euch nicht
 vorenthalten werde. Wir haben fast einen kompletten Tag im Museum verbracht,
@@ -66,3 +67,5 @@ das Museum mal zu besuchen.
 
 Meine Bilder aus dem wunderschönen Lübeck
 [findet Ihr hier](/2015/11/wunderschoenes-luebeck/).
+
+  

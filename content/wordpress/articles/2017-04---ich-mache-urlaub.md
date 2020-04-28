@@ -1,18 +1,15 @@
 ---
 title: Ich mache Urlaub
-seoTitle:
-  Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt
+seoTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt
   cardamonchai
 slug: ich-mache-urlaub
 link: /2017/04/ich-mache-urlaub/
 fileName: 2017-04---ich-mache-urlaub.md
-description:
-  Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig Urlaub zu
-  machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir trotzdem
-  mailen
-excerpt:
-  Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig Urlaub zu
-  machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir trotzdem
+description: Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig
+  Urlaub zu machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir
+  trotzdem mailen
+excerpt: Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig Urlaub
+  zu machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir trotzdem
   mailen.
 focusKeyword: Urlaub
 labels:
@@ -35,12 +32,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16334"
+image: /img/demo.jpg
+errors: []
 subTitle: Kurze Blog-Auszeit
+  
 ---
 
-<strong>Weil ich schon gar nicht mehr weiß, wie sich das anfühlt, so richtig
-Urlaub zu machen, bin ich vom 25. April bis einschließlich 7. Mai weg. So
-richtig.</strong>
+**Weil ich schon gar nicht mehr weiß, wie sich das anfühlt, so richtig Urlaub zu
+machen, bin ich vom 25. April bis einschließlich 7. Mai weg. So richtig.**
 
 Zusammen mit meinem Mann werde ich auf einer Insel weilen und hoffentlich
 Sonnenschein und Meerwasser genießen. Nach dem langen Winter muss der Vitamin D
@@ -72,3 +71,5 @@ und wer weiß, vielleicht bringt die Zeit in der Hängematte ja noch mehr davon.
 Bis bald!
 
 xoxo Anne
+
+  

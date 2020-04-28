@@ -4,12 +4,10 @@ seoTitle: Wiley Open Air 2009 Ulm
 slug: wiley-open-air-2009-ulm
 link: /2009/08/wiley-open-air-2009-ulm/
 fileName: 2009-08---wiley-open-air-2009-ulm.md
-description:
-  Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys das
-  erste Mal das Wiley Open Air statt.
-excerpt:
-  Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys das
-  erste Mal das Wiley Open Air statt.
+description: Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der
+  Wileys das erste Mal das Wiley Open Air statt.
+excerpt: Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys
+  das erste Mal das Wiley Open Air statt.
 focusKeyword: Wiley Open Air
 labels:
   - Festival
@@ -26,11 +24,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11457"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Toten Hosen als Headliner
+  
 ---
-
-<strong>Am Samstag, 15. August 2009 fand in Neu-Ulm auf dem Gelände der Wileys
-das erste Mal das Wiley Open Air statt.</strong>
 
 Es war ein voller Erfolg. Bei Temperaturen über 30 Grad und strahlendem
 Sonnenschein fanden sich 15.000 Punk- und Rockfans auf dem Sportplatz des
@@ -87,3 +85,5 @@ organisiert!
 ### Wiley Open Air 2010: Wir kommen!
 
 [myflickr tag="annewiley2009"]
+
+  

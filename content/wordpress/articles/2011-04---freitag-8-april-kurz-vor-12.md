@@ -4,12 +4,12 @@ seoTitle: Freitag kurz vor 12 - Tagebucheintrag
 slug: freitag-8-april-kurz-vor-12
 link: /2011/04/freitag-8-april-kurz-vor-12/
 fileName: 2011-04---freitag-8-april-kurz-vor-12.md
-description:
-  Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung
-  Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten Tage.
-excerpt:
-  Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung
-  Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten Tage.
+description: Das Wochenende steht vor der Tür. In ein paar Stunden geht es in
+  Richtung Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten
+  Tage.
+excerpt: Das Wochenende steht vor der Tür. In ein paar Stunden geht es in
+  Richtung Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten
+  Tage.
 focusKeyword: ""
 labels:
   - Freitag
@@ -25,7 +25,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "1801"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
 Das Wochenende steht vor der Tür. In ein paar Stunden geht es in Richtung Berge.
@@ -38,6 +41,8 @@ Im Büro ist es laut. Quasselstrippe am Telefon, Baustelle vor dem Fenster. Soga
 die vorbeifahrenden Züge kommen einem heute irgendwie lauter vor. Insgesamt eine
 imposante Geräuschkulisse. Doch zum Glück gibt es Kopfhörer.
 
-<strong>Song des Tages:</strong> PJ Harvey &amp; Josh Homme - Crawl Home
+**Song des Tages:** PJ Harvey &amp; Josh Homme - Crawl Home
 
 [youtube=http://www.youtube.com/watch?v=Glb_moRvgps]
+
+  

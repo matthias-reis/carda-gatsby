@@ -4,13 +4,11 @@ seoTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
 slug: guinness-ist-vegan-brauerei-besuch
 link: /2017/10/guinness-ist-vegan-brauerei-besuch/
 fileName: 2017-10---guinness-ist-vegan.md
-description:
-  "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben die
-  Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder
-  vegan!"
-excerpt:
-  "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben die
-  Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder
+description: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir
+  haben die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen
+  wieder vegan!"
+excerpt: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir haben
+  die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen wieder
   vegan!"
 focusKeyword: Guinness
 labels:
@@ -37,15 +35,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18122"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (56:40)"
 subTitle: Besuch der Guinness Brauerei in Dublin
+  
 ---
 
-<strong>Traditionell wurde Guiness schon früher ohne den Klärvorgang mit
-Hausenblase hergestellt. Das war leider viele Jahre nicht mehr der Fall, was den
-Genuss des Bieres für Veganer und Vegetarier unmöglich machte. Erst vor Kurzem
-kam man darauf, dass es besser wäre, sich wieder auf das Originalrezept
-zurückzubesinnen. Seitdem ist das berühmte Bier aus Irland wieder
-vegan.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (56:40)
+
+<!--
+**Traditionell wurde Guiness schon früher ohne den Klärvorgang mit Hausenblase
+hergestellt. Das war leider viele Jahre nicht mehr der Fall, was den Genuss des
+Bieres für Veganer und Vegetarier unmöglich machte. Erst vor Kurzem kam man
+darauf, dass es besser wäre, sich wieder auf das Originalrezept
+zurückzubesinnen. Seitdem ist das berühmte Bier aus Irland wieder vegan.**
 
 Eine kleine Guinness-Brauerei in New York war es, die den Ruf nach mehr
 Traditionalität als erstes hörte. Die Irische Gemeinde in New York wollte zum
@@ -94,7 +99,7 @@ am besten, oder?
 
 ### Das meldet Guinness:
 
-<blockquote><span class=" UFICommentActorAndBody"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="UFICommentBody _1n4g">"Die Abfüllung mit dem veganen Filtersystem für <span class="highlightNode">Guinness</span> Draught (Dose und Fass) hat im August 2016 gestartet und wird in mehreren Prozessen an unsere Händler und Pubs distributiert.</span></span></span>
+<blockquote><span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="UFICommentBody _1n4g">"Die Abfüllung mit dem veganen Filtersystem für <span class="highlightNode">Guinness Draught (Dose und Fass) hat im August 2016 gestartet und wird in mehreren Prozessen an unsere Händler und Pubs distributiert.</span></span></span>
 
 Da die Distribution noch läuft, könnte es sein, dass Restbestände die noch mit
 dem bisherigen Filtersystem abgefüllt worden sind, im Markt vorhanden sein
@@ -107,38 +112,40 @@ das neue Vegane Filtersystem gelaufen ist.
 
 Liebe Grüße Ihr Guinness WebTeam"</blockquote>
 
-<span class="_Xbe kno-fv"><sub>Vielen Dank an Robin Rader für den
-Hinweis.</sub></span>
+<sub>Vielen Dank an Robin Rader für den Hinweis.</sub>
 
 [myflickr tag="anneguinness2017"]
 
 ## Wegweiser Irland 2017
 
-<ol>
-    <li> [Möwen in Dublin](/2017/10/moewen-in-dublin/) </li>
-    <li> [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/) </li>
-    <li>Guinness ist vegan - Unser Besuch in der St. James Gate Brewery</li>
-    <li> [Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/) </li>
-    <li> [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/) </li>
-    <li> [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/) </li>
-    <li> [Cork - Technik und Tradition](/2017/12/cork/) </li>
-    <li> [Abenteuer auf dem Ring Of Kerry](/2018/01/auf-dem-skellig-ring-in-richtung-dingle-halbinsel/) </li>
-    <li> [Muckross House und Torc Waterfall](/2018/02/muckross-house-und-torc-waterfall-irland/) </li>
-    <li> [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/) </li>
-    <li> [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/) </li>
-    <li> [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/) </li>
-    <li> [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/) </li>
-    <li> [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/) </li>
-    <li> [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/) </li>
-    <li> [Bunratty Castle - Normannische Burg und Publikumsmagnet](/2018/03/bunratty-castle/) </li>
-    <li> [Cliffs Of Moher](/2018/04/cliffs-of-moher/) </li>
-    <li> [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/) </li>
-    <li> [Burren und Poulnabrone Dolmen](/2018/04/doolin/) </li>
-    <li> [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/) </li>
-    <li> [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/) </li>
-    <li> [Birds of Westport](/2018/05/birds-of-westport/) </li>
-    <li> [Sky Loop Road](/2018/05/sky-loop-road-clifden/) </li>
-    <li> [Irischer Traumstrand](/2018/05/irischer-traumstrand/) </li>
-    <li> [Connemara National Park](/2018/05/connemara-national-park/) </li>
-    <li> [Kylemore Abbey](/2018/05/kylemore-abbey/) </li>
-</ol>
+1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
+1.  [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/)
+1.  Guinness ist vegan - Unser Besuch in der St. James Gate Brewery
+1.  [Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
+1.  [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/)
+1.  [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/)
+1.  [Cork - Technik und Tradition](/2017/12/cork/)
+1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/auf-dem-skellig-ring-in-richtung-dingle-halbinsel/)
+1.  [Muckross House und Torc Waterfall](/2018/02/muckross-house-und-torc-waterfall-irland/)
+1.  [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/)
+1.  [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/)
+1.  [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/)
+1.  [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/)
+1.  [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/)
+1.  [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/)
+1.  [Bunratty Castle - Normannische Burg und Publikumsmagnet](/2018/03/bunratty-castle/)
+1.  [Cliffs Of Moher](/2018/04/cliffs-of-moher/)
+1.  [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/)
+1.  [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/)
+    [Burren und Poulnabrone Dolmen](/2018/04/poulnabrone-dolmen-burren/)
+1.  [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/)
+1.  [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/)
+1.  [Birds of Westport](/2018/05/birds-of-westport/)
+1.  [Sky Loop Road](/2018/05/sky-loop-road-clifden/)
+1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
+1.  [Connemara National Park](/2018/05/connemara-national-park/)
+1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
+
+-->
+
+  

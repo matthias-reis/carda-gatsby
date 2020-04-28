@@ -4,12 +4,11 @@ seoTitle: Zucchinisuppe - Herbstlich vegan
 slug: zucchinisuppe-herbstlich-vegan
 link: /2015/09/zucchinisuppe-herbstlich-vegan/
 fileName: 2015-09---zucchinisuppe-herbstlich-vegan.md
-description:
-  Wir haben eine sehr große Zucchini geschenkt bekommen. Was ich daraus gemacht
-  habe, zeige ich Euch heute. Die Zucchinisuppe könnt Ihr ganz leicht nachkochen
-excerpt:
-  Vor drei Tagen brachte Matze die größte Zucchini mit nach Hause, die ich in
-  meinem Leben bis jetzt gesehen habe. Ein Kollege brachte sie ihm mit,
+description: Wir haben eine sehr große Zucchini geschenkt bekommen. Was ich
+  daraus gemacht habe, zeige ich Euch heute. Die Zucchinisuppe könnt Ihr ganz
+  leicht nachkochen
+excerpt: Vor drei Tagen brachte Matze die größte Zucchini mit nach Hause, die
+  ich in meinem Leben bis jetzt gesehen habe. Ein Kollege brachte sie ihm mit,
   natürlich bio und aus dem eigenen Garten.
 focusKeyword: Zucchini
 labels:
@@ -31,25 +30,44 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12630"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezept für eine große Zucchini
+  
 ---
 
 ![Ganz schön groß diese Zucchini](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0788-640x800.jpg "Ganz schön groß diese Zucchini")
 
-<strong>Vor drei Tagen brachte Matze die größte Zucchini mit nach Hause, die ich
-in meinem Leben bis jetzt gesehen habe. Ein Kollege brachte sie ihm mit,
-natürlich bio und aus dem eigenen Garten.</strong>
+**Vor drei Tagen brachte Matze die größte Zucchini mit nach Hause, die ich in
+meinem Leben bis jetzt gesehen habe. Ein Kollege brachte sie ihm mit, natürlich
+bio und aus dem eigenen Garten.**
 
 Weil ich gestern hier so
 [lautstark damit angegeben habe](/2015/09/ich-bleib-dabei-vegan-macht-spass/),
 dass ich vorhätte, was Leckeres zu kochen, zeige ich Euch heute, was ich daraus
 gemacht habe.
 
-## Ihr braucht<ul><li>Kochtopf</li><li>Herdplatte</li><li>Kochlöffel</li><li>Schöpflöffel</li><li>Messer</li><li>Blender oder Stabmixer</li></ul>
+## Ihr braucht- Kochtopf
+
+- Herdplatte
+- Kochlöffel
+- Schöpflöffel
+- Messer
+- Blender oder Stabmixer
 
 ![Alles schön anbraten](http://cardamonchai.com/wp-content/uploads/2015/09/null-640x640.jpg "Alles schön anbraten")
 
-## Zubereitung
+## Zutaten- 1 große Zucchini
+
+- 2 Mohrrüben
+- Je nach Geschmack 1 - 2 Schalotten
+- Pfeffer
+- Salz
+- Muskatnuss
+- Kürbiskernöl
+- Öl zum Braten
+- ca. 1 Liter Wasser (Je nach Größe der Zucchini auch mehr/weniger)##
+  Zubereitung
 
 ![Der Kater staunt - Die Zucchini ist größer als er!](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0775-640x800.jpg "Der Kater staunt - Die Zucchini ist größer als er!")
 
@@ -69,3 +87,5 @@ Kürbiskernöl verzieren. Guten Appetit! :-)
 
 Als Beilage gab es mein selbstgemachtes Jederkanns-Brot,
 [das Rezept findet Ihr hier](/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/).
+
+  

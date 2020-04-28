@@ -4,13 +4,11 @@ seoTitle: DIY Tisch aus Weinkiste - So funktioniert es
 slug: diy-tisch-aus-weinkiste
 link: /2016/08/diy-tisch-aus-weinkiste/
 fileName: 2016-08---diy-tisch.md
-description:
-  Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich dabei
-  um einen Tisch aus einer Weinkiste, den ich gebaut habe.
-excerpt:
-  Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich dabei
-  um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell gebaut
-  habe.
+description: Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt
+  sich dabei um einen Tisch aus einer Weinkiste, den ich gebaut habe.
+excerpt: Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich
+  dabei um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell
+  gebaut habe.
 focusKeyword: Weinkiste
 labels:
   - basteln
@@ -28,14 +26,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15050"
+image: /img/demo.jpg
+errors: []
 subTitle: Aus Weinkiste wird Möbelstück
+  
 ---
 
 ![Weinkiste](http://cardamonchai.com/wp-content/uploads/2016/08/28496347930_5c38653871_z-640x427.jpg "Ist er nicht schön, mein kleiner Tisch?")
 
-<strong>Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich
-dabei um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell
-gebaut habe.</strong>
+**Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich dabei
+um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell gebaut
+habe.**
 
 Kennt Ihr das? In der klitzekleinsten Ecke hat man gerne seine Magazine und
 Bücher parat, um nach Herzenslust schmökern zu können. Ein großer Tisch oder ein
@@ -57,12 +58,10 @@ zusammengefasst, was dazu an Material notwendig ist
 
 ## Das braucht man
 
-<ul>
-    <li>Weinkiste</li>
-    <li>4 Küchenfüße</li>
-    <li>kurze Schrauben</li>
-    <li>Akkuschrauber</li>
-</ul>
+- Weinkiste
+- 4 Küchenfüße
+- kurze Schrauben
+- Akkuschrauber
 
 ## Zeitaufwand
 
@@ -75,3 +74,5 @@ PS: Meldet Euch mal bei mir, falls Ihr Euch auch so ein Tischchen baut und
 schickt mir doch ein Foto! Ich poste es dann gerne auch hier! :-)
 
 &nbsp;
+
+  

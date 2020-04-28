@@ -4,12 +4,10 @@ seoTitle: Pepes Penthouse - Indierock aus Augsburg
 slug: beitrag-vom-06-11-2008-pepes-penthouse-eine-augsburger-band
 link: /2008/11/beitrag-vom-06-11-2008-pepes-penthouse-eine-augsburger-band/
 fileName: 2008-11---pepes-penthouse.md
-description:
-  Pepes Penthouse war eine Indieband aus Augsburg. Mitglieder waren Quincy,
-  Chris, Jochen und David.
-excerpt:
-  Pepes Penthouse war eine Indieband aus Augsburg. Mitglieder waren Quincy,
-  Chris, Jochen und David.
+description: Pepes Penthouse war eine Indieband aus Augsburg. Mitglieder waren
+  Quincy, Chris, Jochen und David.
+excerpt: Pepes Penthouse war eine Indieband aus Augsburg. Mitglieder waren
+  Quincy, Chris, Jochen und David.
 focusKeyword: Pepes Penthouse
 labels:
   - Augsburg
@@ -28,15 +26,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11016"
+image: /img/demo.jpg
+errors: []
 subTitle: Indie-Rock aus Augsburg
+  
 ---
 
-![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2008/11/IMG_3586_s_w.jpg)
-
-<p id="articleContent"><strong>
-
 Mitglieder sind Quincy (Gesang, Gitarre), Chris (Leadgitarre, Backround), Jochen
-(Schlagzeug) und David (Bass<strong>).</strong>
+(Schlagzeug) und David (Bass **).**
 
 Ihr Debut hatten sie am 08.09.2007 mit einem Open-Air-Gig im Riedinger Park in
 Augsburg. Schon in der Zeit davor wurde viel Musik zusammen gemacht und jede
@@ -63,4 +60,6 @@ Pepes Penthouse stehen noch am Anfang ihrer Karriere und wir können gespannt
 sein, was als nächstes kommt. Momentan wird wieder eifrig an neuen Songs
 gebastelt.
 
-<hr /><strong>Nachtrag:</strong> Der Artikel ist veraltet, die Mitglieder der Band haben sich inzwischen anderen musikalischen Projekten zugewandt.
+<hr /> __Nachtrag:__  Der Artikel ist veraltet, die Mitglieder der Band haben sich inzwischen anderen musikalischen Projekten zugewandt.
+
+  

@@ -16,9 +16,16 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: null
+image: /img/demo.jpg
+errors:
+  - type: noSubtitle
+    message: no h2 heading found - no sub title
+  
 ---
 
 Affiliate Kooperation über AWIN.
 
 Plastikfreier Versand Handgeprüfte Qualität Nachhaltig handeln Schnelle
 Lieferung
+
+  

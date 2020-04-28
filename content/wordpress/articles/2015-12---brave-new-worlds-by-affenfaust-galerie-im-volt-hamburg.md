@@ -4,11 +4,9 @@ seoTitle: '"Brave New Worlds" by Affenfaust Galerie im Volt Hamburg'
 slug: brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg
 link: /2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/
 fileName: 2015-12---brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg.md
-description:
-  '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit
+description: '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit
   Science-fiction auseinandersetzen - Hier sind meine Eindrücke für Euch.'
-excerpt:
-  '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit
+excerpt: '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit
   Science-fiction auseinandersetzen - Hier sind meine Eindrücke für Euch.'
 focusKeyword: Brave New Worlds
 labels:
@@ -27,12 +25,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13610"
+image: /img/demo.jpg
+errors: []
 subTitle: Instagram-Galerie
+  
 ---
-
-![Brave New Worlds](http://cardamonchai.com/wp-content/uploads/2015/12/24068145535_4a4729d957_z.jpg)
-
-<strong>
 
 Die Galerie aus modernen Werken verschiedener Künstler hat uns sehr beeindruckt.
 Gezeigt wurden Bilder und Installationen aus dem Science-fiction Genre sowie
@@ -50,12 +47,12 @@ Messehallen statt, indem heute unter anderem der Club Volt zuhause ist. Die
 spannende, ausgefallene Bauweise des Hauses steht im krassen Kontrast zu dem
 modernen Messebau, unter dem es eingebettet ist.
 
-Ausgestellt wurden Kunstwerke der folgenden Künstler: <em>Base Twentythree,
-Daniel Caleb Thompson, Deih, Doppeldenk, Drik the Villain, Elmar Lause, Fabian
-Wolf, Gabriella Rioux, 210klappen, Heinrich Holtgreve, Hendrik Czakainski, Ivor
-Scott, Jakub Różalski, Joeggu Hossman, Johan Schäfer, Loodz, Mafia_Tabak, Malte,
+Ausgestellt wurden Kunstwerke der folgenden Künstler: _Base Twentythree, Daniel
+Caleb Thompson, Deih, Doppeldenk, Drik the Villain, Elmar Lause, Fabian Wolf,
+Gabriella Rioux, 210klappen, Heinrich Holtgreve, Hendrik Czakainski, Ivor Scott,
+Jakub Różalski, Joeggu Hossman, Johan Schäfer, Loodz, Mafia_Tabak, Malte,
 Stienen, Mia Grau und Andree Weissert, Michal Plata, Nils Kasiske, Patrick
-Sellmann, Szum, WIUR, Zipper – Die Rakete</em>
+Sellmann, Szum, WIUR, Zipper – Die Rakete_
 
 Hier sind meine Eindrücke für Euch:
 
@@ -66,3 +63,5 @@ Die Homepage der Affenfaust Galerie mit allen Infos und Veranstaltungsterminen
 
 Zu meinem Artikel über die Emil Nolde Ausstellung in der Hamburger Kunsthalle
 geht es [hier entlang](/2015/11/emil-nolde-in-der-hamburger-kunsthalle/).
+
+  

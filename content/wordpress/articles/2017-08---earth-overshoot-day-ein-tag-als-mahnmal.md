@@ -4,12 +4,12 @@ seoTitle: Earth Overshoot Day - Ein Tag als Mahnmal - Wir beuten unsere Erde aus
 slug: earth-overshoot-day-ein-tag-als-mahnmal
 link: /2017/08/earth-overshoot-day-ein-tag-als-mahnmal/
 fileName: 2017-08---earth-overshoot-day-ein-tag-als-mahnmal.md
-description:
-  Heute ist Earth Overshoot Day - Zeit, über unser Verhalten nachzudenken. Wir
-  leben, als hätten wir 1,7 Erden zur Verfügung. Das kann nicht so weitergehen.
-excerpt:
-  Heute ist Earth Overshoot Day - Zeit, über unser Verhalten nachzudenken. Wir
-  leben, als hätten wir 1,7 Erden zur Verfügung. Das kann nicht so weitergehen.
+description: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten
+  nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann
+  nicht so weitergehen.
+excerpt: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten
+  nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann
+  nicht so weitergehen.
 focusKeyword: Earth Overshoot Day
 labels:
   - Darum vegan
@@ -27,12 +27,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17278"
+image: /img/demo.jpg
+errors: []
 subTitle: Wir beuten unsere Erde aus
+  
 ---
 
 ![Earth Overshoot Day](http://cardamonchai.com/wp-content/uploads/2017/08/EOD_GRADIENT_LOGO-640x136.png)
 
-<strong>
+**Die Menschheit lebt, als hätte sie 1,7 Erden zur Verfügung. Am heutigen Earth
+Overshoot Day überschreitet die globale Nachfrage nach Ressourcen die
+"Nachproduktion" der Erde.**
 
 Das ist, als würde man sein komplettes Gehalt, das man innerhalb eines Jahres
 verdient, bereits am ersten Januar ausgeben und danach von Krediten leben.
@@ -57,11 +62,11 @@ von "Overshoot".
 
 ## Wer ist Schuld am Overshoot?
 
-Das <em>Global Footprint Network</em> hat ausgerechnet, wie viele Erden wir
-benötigen würden, wenn sich einzelne Nationen komplett alleine um die
-Haushaltung kümmern würden. Mit Australien als "Verwalter" bräuchten wir ganze
-5,2 Erden. Mit den USA 5,0 und mit Südkorea 3,4. Russland und Deutschland folgen
-mit 3,4 und 3,2. Mit Großbritannien wären es 3,0.
+Das _Global Footprint Network_ hat ausgerechnet, wie viele Erden wir benötigen
+würden, wenn sich einzelne Nationen komplett alleine um die Haushaltung kümmern
+würden. Mit Australien als "Verwalter" bräuchten wir ganze 5,2 Erden. Mit den
+USA 5,0 und mit Südkorea 3,4. Russland und Deutschland folgen mit 3,4 und 3,2.
+Mit Großbritannien wären es 3,0.
 
 ![Earth Overshoot Day | large](http://cardamonchai.com/wp-content/uploads/2017/08/How_many_earths_2017_german-800x1313.jpg)
 
@@ -101,31 +106,26 @@ schuld an vielem. Doch was können wir selbst tun, um zumindest unseren
 persönlichen Fussabdruck so gering wie möglich zu halten? Hier ein paar
 Anregungen:
 
-<ul>
-    <li> [Vegan leben](/2017/02/klimaschutz-und-vegane-ernaehrung/) </li>
-    <li> [Ökostrom nutzen](/2011/04/stromanbieter-wechseln/) </li>
-    <li>Autofahren sein lassen und auf öffentliche Verkehrsmittel und Fahrrad umsatteln</li>
-    <li> [Zu einer Ökobank wechseln](/2017/04/alternative-banken-urgewald-informiert/) </li>
-    <li>Energiesparlampen verwenden</li>
-    <li>Dinge mit anderen teilen, reparieren und wiederverwenden</li>
-    <li> [Upcycling](/category/basteleien/diy/) </li>
-    <li>Regional einkaufen</li>
-    <li>Weniger heizen (Leben in energieeffizienten Gebäuden)</li>
-</ul>
+- [Vegan leben](/2017/02/klimaschutz-und-vegane-ernaehrung/)
+- [Ökostrom nutzen](/2011/04/stromanbieter-wechseln/)
+- Autofahren sein lassen und auf öffentliche Verkehrsmittel und Fahrrad
+  umsatteln
+- [Zu einer Ökobank wechseln](/2017/04/alternative-banken-urgewald-informiert/)
+- Energiesparlampen verwenden
+- Dinge mit anderen teilen, reparieren und wiederverwenden
+- [Upcycling](/category/basteleien/diy/)
+- Regional einkaufen
+- Weniger heizen (Leben in energieeffizienten Gebäuden)
 
 Über den ersten Punkt habe ich bereits zwei umfassende Abhandlungen geschrieben:
 
-<ul>
-    <li> [Vegane Ernährung und Klimaschutz wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/) </li>
-    <li> [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) </li>
-</ul>
+- [Vegane Ernährung und Klimaschutz wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/)
+- [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 
 Ich möchte daher gar nicht lange darauf herumreiten, sondern nur nochmal eins zu
 Denken geben:
 
-<blockquote>
-## 1 kg Rindfleisch erzeugt so viel Treibhausgas, wie 1.600 km Fahren auf der Autobahn
-</blockquote>
+> ## 1 kg Rindfleisch erzeugt so viel Treibhausgas, wie 1.600 km Fahren auf der Autobahn
 
 ![Klimaschutz | large](http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg)
 
@@ -138,10 +138,14 @@ Veränderungen sind dringend notwendig und das am besten gestern.
 ## Kann ich meinen persönlichen Overshoot berechnen?
 
 Das geht ganz einfach, indem man den Ressourcen-Rechner verwendet. Er wird unter
-anderem angeboten von [Global Footprint Network](http://ressourcen-rechner.de/).
+anderem angeboten von [ressourcen-rechner.de](http://ressourcen-rechner.de/)
+sowie dem [Global Footprint Network](http://www.footprintcalculator.org/#!/).
 
-<em>Quellen:
-[Global Footprint Network](http://www.overshootday.org/newsroom/infographics/)
-</em>
+_Quellen:
+[overshootday.org](http://www.overshootday.org/newsroom/infographics/),  
+[ressourcen-rechner.de](http://ressourcen-rechner.de/),  
+[Global Footprint Network](http://www.footprintcalculator.org/#!/) _
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
+
+  

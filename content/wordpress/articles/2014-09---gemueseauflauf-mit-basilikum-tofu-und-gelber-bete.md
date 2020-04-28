@@ -4,12 +4,11 @@ seoTitle: Gemüseauflauf mit Basilikumtofu und Gelber Bete
 slug: gemuseauflauf-mit-basilikum-tofu-und-gelber-bete
 link: /2014/09/gemuseauflauf-mit-basilikum-tofu-und-gelber-bete/
 fileName: 2014-09---gemueseauflauf-mit-basilikum-tofu-und-gelber-bete.md
-description:
-  Gemüseauflauf mit Gelber Bete ist herzhaft und saftig. Er ist vegan, leicht
-  zuzubereiten und steckt voller wertvoller Vitamine und Nährstoffe.
-excerpt:
-  Gemüseauflauf mit Gelber Bete ist herzhaft und saftig. Er ist vegan, leicht
-  zuzubereiten und steckt voller wertvoller Vitamine und Nährstoffe.
+description: Gemüseauflauf mit Gelber Bete ist herzhaft und saftig. Er ist
+  vegan, leicht zuzubereiten und steckt voller wertvoller Vitamine und
+  Nährstoffe.
+excerpt: Gemüseauflauf mit Gelber Bete ist herzhaft und saftig. Er ist vegan,
+  leicht zuzubereiten und steckt voller wertvoller Vitamine und Nährstoffe.
 focusKeyword: Gemüseauflauf
 labels:
   - Auflauf
@@ -37,14 +36,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8780"
+image: /img/demo.jpg
+errors: []
 subTitle: Herzhaft und saftig
+  
 ---
 
-![Gemüseauflauf mit Gelber Beete und Basilikumtofu](http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-211.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Gemüseauflauf mit Gelber Bete und Basilikumtofu")
+![Gemüseauflauf mit Gelber Beete und Basilikumtofu](http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-211.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Gemüseauflauf mit Gelber Bete und Basilikumtofu")
 
-<strong>Nachdem ich gestern Abend wieder mal ein Bisschen in unserer Küche
+**Nachdem ich gestern Abend wieder mal ein Bisschen in unserer Küche
 herumexperimentiert habe, gibt es heute wieder ein frisches Rezept für Euch. Es
-ist ganz leicht zuzubereiten, lecker und steckt voller Vitamine.</strong>
+ist ganz leicht zuzubereiten, lecker und steckt voller Vitamine.**
 
 Vor ein paar Tagen habe ich das erste Mal Basilikumtofu bestellt und wollte
 daraus zusammen mit dem Gemüse, das ich gestern bei uns im Gemüselädchen um die
@@ -55,7 +57,18 @@ Mozzarella hat und auch geschmacklich sehr in die Richtung von Mozzarella mit
 Basilikum geht. ganz bewusst wollte ich es jedoch nicht als "Caprese"-Gericht
 auf den Tisch bringen. Dabei heraus kam ein schmackhafter
 
-## </strong><strong>Zutaten:</strong><ul><li>1 Gelbe Bete</li><li>4-5 mittelgroße Kartoffeln</li><li>1 gelbe Zucchini</li><li>1 Packung Basilikum Tofu (gibt's z. B. von "Lord of Tofu" bei Smilefood, Veganz und Denns)</li><li>3 Flaschentomaten</li><li>2 Limetten</li><li>Evtl. etwas Vit B12 Bierhefe, ein paar Mandeln und 1-2 Handvoll veganen Pizzaschmelz</li><li>Pfeffer</li><li>Salz</li></ul><strong>Zubereitung:</strong>
+## Gemüseauflauf mit Basilikum-Tofu und Gelber Bete \_**\_ **Zutaten:\_\_ - 1 Gelbe Bete
+
+- 4-5 mittelgroße Kartoffeln
+- 1 gelbe Zucchini
+- 1 Packung Basilikum Tofu (gibt's z. B. von "Lord of Tofu" bei Smilefood,
+  Veganz und Denns)
+- 3 Flaschentomaten
+- 2 Limetten
+- Evtl. etwas Vit B12 Bierhefe, ein paar Mandeln und 1-2 Handvoll veganen
+  Pizzaschmelz
+- Pfeffer
+- Salz **Zubereitung:**
 
 Die gelbe Bete, die Kartoffeln, die Zucchini, die Tomaten und das Tofu in ca.
 1/2 cm dicke Scheiben schneiden und alles schön in einer Backform aufschichten.
@@ -86,4 +99,6 @@ Kussi Anne &lt;3
 
 Übrigens hatte ich beim Kochen gestern Abend hohen Besuch! :-)
 
-![Oskar schau zu | large](http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-11.jpg?w=646 " [](https://www.flickr.com/photos/99929697@N07/)  Oskar kuckt zu")
+![Oskar schau zu | large](http://cardamonchai.files.wordpress.com/2014/09/gemc3bcseauflauf-11.jpg?w=646 "[ ](https://www.flickr.com/photos/99929697@N07/)  Oskar kuckt zu")
+
+  

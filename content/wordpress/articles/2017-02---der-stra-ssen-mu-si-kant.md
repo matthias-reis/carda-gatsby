@@ -4,12 +4,12 @@ seoTitle: Der Straßenmusikant - Eine Moritat von der Straße
 slug: der-strassenmusikant
 link: /2017/02/der-strassenmusikant/
 fileName: 2017-02---der-stra-ssen-mu-si-kant.md
-description:
-  Er packt seine Gitarre aus. Zum Stimmen fehlt ihm heute die Zeit. 20 Euro soll
-  er morgen früh abliefern. Das bedeutet harte Arbeit. Menschen hasten vorbei.
-excerpt:
-  Er packt seine Gitarre aus. Zum Stimmen fehlt ihm heute die Zeit. 20 Euro soll
-  er morgen früh abliefern. Das bedeutet harte Arbeit. Menschen hasten vorbei.
+description: Er packt seine Gitarre aus. Zum Stimmen fehlt ihm heute die Zeit.
+  20 Euro soll er morgen früh abliefern. Das bedeutet harte Arbeit. Menschen
+  hasten vorbei.
+excerpt: Er packt seine Gitarre aus. Zum Stimmen fehlt ihm heute die Zeit. 20
+  Euro soll er morgen früh abliefern. Das bedeutet harte Arbeit. Menschen hasten
+  vorbei.
 focusKeyword: Straßenmusikant
 labels:
   - Bänkellied
@@ -32,7 +32,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15728"
+image: /img/demo.jpg
+errors: []
 subTitle: Moritat von der Straße
+  
 ---
 
 Er packt seine Gitarre aus. Zum Stimmen der Saiten ist heute keine Zeit. Er muss
@@ -111,3 +114,5 @@ Stückchen Butter auf ihr Brot. Ein Träne rollt ihr über die Wange. Keine Post
 von ihrem Enkel in Deutschland. Auch heute nicht.
 
 ![Straßenmusikant | full](http://cardamonchai.com/wp-content/uploads/2017/02/32061383186_8fc5b8b791_z.jpg)
+
+  

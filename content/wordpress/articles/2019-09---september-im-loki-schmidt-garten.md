@@ -4,12 +4,10 @@ seoTitle: September im Loki Schmidt Garten - Bienen und Blumen
 slug: september-im-loki-schmidt-garten
 link: /2019/09/september-im-loki-schmidt-garten/
 fileName: 2019-09---september-im-loki-schmidt-garten.md
-description:
-  Wenn in Hamburg an einem freien Tag die Sonne scheint, ist es eine gute Idee,
-  gleich morgens in den Loki Schmidt Garten aufzubrechen.
-excerpt:
-  Wenn in Hamburg an einem freien Tag die Sonne scheint, ist es eine gute Idee,
-  gleich morgens in den Loki Schmidt Garten aufzubrechen.
+description: Wenn in Hamburg an einem freien Tag die Sonne scheint, ist es eine
+  gute Idee, gleich morgens in den Loki Schmidt Garten aufzubrechen.
+excerpt: Wenn in Hamburg an einem freien Tag die Sonne scheint, ist es eine gute
+  Idee, gleich morgens in den Loki Schmidt Garten aufzubrechen.
 focusKeyword: Loki Schmidt Garten
 labels:
   - Ausflug
@@ -32,12 +30,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26258"
+image: /img/demo.jpg
+errors: []
 subTitle: Bienen und Blumen
+  
 ---
 
-<strong>Wenn in Hamburg die Sonne scheint und man das Glück hat, gemeinsam mit
-netten Menschen einen freien Tag verbringen zu können, ist es eine gute Idee,
-gleich morgens mit der S-Bahn in den Loki Schmidt Garten zu fahren.</strong>
+**Wenn in Hamburg die Sonne scheint und man das Glück hat, gemeinsam mit netten
+Menschen einen freien Tag verbringen zu können, ist es eine gute Idee, gleich
+morgens mit der S-Bahn in den Loki Schmidt Garten zu fahren.**
 
 Wenn das Licht die Blüten zum Strahlen bringt und die
 [Insekten](/2019/05/insektenhotel-bienen-auf-dem-balkon/) emsig auf der Suche
@@ -69,16 +70,14 @@ Skorpion wurden nach ihr benannt.
 
 [glry name="annelokischmidtgarten20190918"]
 
-<h3><strong>Wegweiser Loki Schmidt Garten
-</strong></h3>
+<h3> __Wegweiser Loki Schmidt Garten__ </h3>
 
-<ol>
-    <li> [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/) </li>
-    <li> [Spätsommer](/2016/08/spaetsommer-loki-schmidt-garten/) </li>
-    <li> [Frühlingsboten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/) </li>
-    <li> [Erster Mai](/2018/05/erster-mai-gegensaetze/) </li>
-    <li>September</li>
-</ol>
+1.  [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/)
+1.  [Spätsommer](/2016/08/spaetsommer-loki-schmidt-garten/)
+1.  [Frühlingsboten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/)
+1.  [Erster Mai](/2018/05/erster-mai-gegensaetze/)
+1.  September
 
-<strong>Quelle:</strong>
-[Loki Schmid Wikipedia](https://de.wikipedia.org/wiki/Loki_Schmidt)
+**Quelle:** [Loki Schmid Wikipedia](https://de.wikipedia.org/wiki/Loki_Schmidt)
+
+  

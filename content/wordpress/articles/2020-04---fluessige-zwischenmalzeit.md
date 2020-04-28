@@ -16,7 +16,10 @@ status: trash
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28882"
+image: /img/demo.jpg
+errors: []
 subTitle: Mana im Test
+  
 ---
 
 asdfsdfasdf
@@ -26,3 +29,5 @@ asdfsdfasdf
 asdfalsdfjsdfklasdf
 
 [glry name="mana2"]
+
+  

@@ -4,12 +4,12 @@ seoTitle: Zurück in die Zukunft - Fotos digitalisieren - So funktionierts
 slug: zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts
 link: /2014/04/zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts/
 fileName: 2014-04---zurueck-in-die-zukunft.md
-description:
-  Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch, wie Ihr mit
-  Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren könnt.
-excerpt:
-  Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch, wie Ihr mit
-  Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren könnt.
+description: Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch,
+  wie Ihr mit Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren
+  könnt.
+excerpt: Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch, wie
+  Ihr mit Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren
+  könnt.
 focusKeyword: Zurück in die Zukunft
 labels:
   - alte Bilder digitalisieren
@@ -34,19 +34,24 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7841"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <div> (34:572)"
 subTitle: Fotos digitalisieren mit Photoshop und Lightroom
+  
 ---
 
-![Die Kiste | full](http://cardamonchai.files.wordpress.com/2014/04/photo1-e1396626690878.jpg " [](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/)  Die Kiste")
+## unknown: Expected corresponding JSX closing tag for <div> (34:572)
 
-<strong>Schon seit Jahren habe ich eine Kiste mit alten Fotos in meinem
-Kleiderschrank stehen, die ich bei meinen Eltern auf dem Dachboden aufgestöbert
-habe. Seit ich die Kiste entdeckt habe, habe ich mir vorgenommen, da irgendwann
-mal ein Album draus zu machen. Zuerst dachte ich daran, die Bilder "ganz normal"
-in ein Album einzukleben und dieses meinen Eltern eines Tages zu
-überreichen.</strong>
+<!--
+**Schon seit Jahren habe ich eine Kiste mit alten Fotos in meinem Kleiderschrank
+stehen, die ich bei meinen Eltern auf dem Dachboden aufgestöbert habe. Seit ich
+die Kiste entdeckt habe, habe ich mir vorgenommen, da irgendwann mal ein Album
+draus zu machen. Zuerst dachte ich daran, die Bilder "ganz normal" in ein Album
+einzukleben und dieses meinen Eltern eines Tages zu überreichen.**
 
-![Damals - Leute auf Fotosafari](http://cardamonchai.files.wordpress.com/2014/04/13623132573_d24a3d271c_z.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/)  Damals - Leute auf Fotosafari")
+![Damals - Leute auf Fotosafari](http://cardamonchai.files.wordpress.com/2014/04/13623132573_d24a3d271c_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/)  Damals - Leute auf Fotosafari")
 
 Zum Glück, wie ich heute finde, gingen noch einige Jahre ins Land und es kamen
 diverse Umzüge und andere Dinge dazwischen, das Projekt "Rita", wie ich es
@@ -75,36 +80,40 @@ abgeschlossen habe. Und wer weiß, was sich dann noch so alles daraus ergibt.
 Allerdings möchte ich auch nicht zu viel verraten, es könnte sein, dass meine
 Eltern mitlesen. ;-)
 
-## Doch nun zu meiner Bauanleitung - Aus alt mach neu<div style="background: #fbdedb; padding: 10px 10px 0;"><ol><li><em>Die gewünschten Bilder von einem handelsüblichen Scanner einlesen lassen. Den Scanner so einstellen, dass er die Scans nummeriert. Als Beispiel "Scan1.jpg" - "Scan1298.jpg" Am besten legt Ihr immer gleichzeitig mehrere Bilder auf den Scanner, dann erspart Ihr Euch einen Haufen Arbeit. Fotos aus den 50ern passen bis zu 8 Stück auf den Scanner, bei Fotos aus den 80ern passen nur noch 2-3 drauf, habe ich festgestellt. ;-)
+## Doch nun zu meiner Bauanleitung - Aus alt mach neu<div style="background: #fbdedb; padding: 10px 10px 0;">1. _Die gewünschten Bilder von einem handelsüblichen Scanner einlesen lassen. Den Scanner so einstellen, dass er die Scans nummeriert. Als Beispiel "Scan1.jpg" - "Scan1298.jpg" Am besten legt Ihr immer gleichzeitig mehrere Bilder auf den Scanner, dann erspart Ihr Euch einen Haufen Arbeit. Fotos aus den 50ern passen bis zu 8 Stück auf den Scanner, bei Fotos aus den 80ern passen nur noch 2-3 drauf, habe ich festgestellt. ;-)_
 
-</em></li><li><em>Photoshop öffnen</em></li><li><em>Datei öffnen -
-"Scan1-jpg."</em></li><li><em>Foto grob ausschneiden</em></li><li><em>cmd + C
-(kopieren)</em></li><li><em>cmd + N (neues Dokument)</em></li><li><em>cmd + V
-(einfügen)</em></li><li><em>Menü Datei öffenen "Für Web speichern" auswählen,
-Qualität 90 % - Achtung! Unbedingt jedem Foto einen neuen Namen zuordnen (z. B.
-Rita1, Rita2 etc.), sonst überspeichert Ihr immer wieder die selbe
-Datei.</em></li><li><em>Die Schritte 1-8 auf alle Scans anwenden. Am Besten
-macht ihr das Chargen-weise. Das macht die Arbeit wesentlich übersichtlicher.
-Ich habe mit Unterordner mit Namen "RitaStapel1", "RitaStapel2" etc. angelegt
-und immer ca. 30 Bilder in einen Ordner gelegt. Das ist vor allem schön, weil
-Ihr, wenn Ihr mit einer derart großen Menge Bilder arbeitet, wie ich, auch
-zwischendurch schon mal ein kleines Erfolgserlebnis habt und einzelne Chargen
-schon hochladen könnt, sonst kann ich mir vorstellen, wird es sicher ganz
-schnell langweilig.</em></li><li><em>Lightroom öffnen und die Fotos
-importieren</em></li><li><em>In der Lightroom-Bibliothek alle Bilder drehen, bis
-keins davon mehr auf dem Kopf steht.</em></li><li><em>Bilder fein
-zuschneiden</em></li><li><em>Natürlich könnt Ihr die Bilder nun wie gewohnt in
-Lightroom und Photoshop bearbeiten, bis sie "wie neu" aussehen. Ich selbst habe
-auf diesen Punkt bisher verzichtet, da mir die Optik von alten Fotos sehr gut
-gefällt.</em></li><li><em>Bilder in
-[Flickr](https://www.flickr.com/photos/99929697@N07/)
-hochladen</em></li><li><em>Die Punkte 1-14 auf die nächste Charge anwenden usw.
-usw... :-)</em></li></ol></div> Ich wünsche Euch viel Spaß beim Nachbasteln! Im
-Anschluss habe ich noch ein paar Eindrücke aus meinem Projekt "Rita"für Euch,
-mehr Fotos findet Ihr wie immer in meinem
-[Flickr](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/).
-Bitte habt Verständnis, dass ich nicht alle Fotos auf "öffentlich" gesetzt habe.
-Privatsphäre und schnick schnack. ;-)
+1.  _Photoshop öffnen_
+1.  _Datei öffnen - "Scan1-jpg."_
+1.  _Foto grob ausschneiden_
+1.  _cmd + C (kopieren)_
+1.  _cmd + N (neues Dokument)_
+1.  _cmd + V (einfügen)_
+1.  _Menü Datei öffenen "Für Web speichern" auswählen, Qualität 90 % - Achtung!
+    Unbedingt jedem Foto einen neuen Namen zuordnen (z. B. Rita1, Rita2 etc.),
+    sonst überspeichert Ihr immer wieder die selbe Datei._
+1.  _Die Schritte 1-8 auf alle Scans anwenden. Am Besten macht ihr das
+    Chargen-weise. Das macht die Arbeit wesentlich übersichtlicher. Ich habe mit
+    Unterordner mit Namen "RitaStapel1", "RitaStapel2" etc. angelegt und immer
+    ca. 30 Bilder in einen Ordner gelegt. Das ist vor allem schön, weil Ihr,
+    wenn Ihr mit einer derart großen Menge Bilder arbeitet, wie ich, auch
+    zwischendurch schon mal ein kleines Erfolgserlebnis habt und einzelne
+    Chargen schon hochladen könnt, sonst kann ich mir vorstellen, wird es sicher
+    ganz schnell langweilig._
+1.  _Lightroom öffnen und die Fotos importieren_
+1.  _In der Lightroom-Bibliothek alle Bilder drehen, bis keins davon mehr auf
+    dem Kopf steht._
+1.  _Bilder fein zuschneiden_
+1.  _Natürlich könnt Ihr die Bilder nun wie gewohnt in Lightroom und Photoshop
+    bearbeiten, bis sie "wie neu" aussehen. Ich selbst habe auf diesen Punkt
+    bisher verzichtet, da mir die Optik von alten Fotos sehr gut gefällt._
+1.  _Bilder in [Flickr](https://www.flickr.com/photos/99929697@N07/) hochladen_
+1.  _Die Punkte 1-14 auf die nächste Charge anwenden usw. usw... :-)_</div> Ich
+    wünsche Euch viel Spaß beim Nachbasteln! Im Anschluss habe ich noch ein paar
+    Eindrücke aus meinem Projekt "Rita"für Euch, mehr Fotos findet Ihr wie immer
+    in meinem
+    [Flickr](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/).
+    Bitte habt Verständnis, dass ich nicht alle Fotos auf "öffentlich" gesetzt
+    habe. Privatsphäre und schnick schnack. ;-)
 
 Liebe Grüße Eure Anne
 
@@ -133,3 +142,7 @@ Liebe Grüße Eure Anne
 ![Damals - Herbstlaub | full](http://cardamonchai.com/wp-content/uploads/2014/04/13623271425_49c8ab5981_z-e1396627896351.jpg "Damals - Herbstlaub")
 
 </div><div style="clear: both;"></div>
+
+-->
+
+  

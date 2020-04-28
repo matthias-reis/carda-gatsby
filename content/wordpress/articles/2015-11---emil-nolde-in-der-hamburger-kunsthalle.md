@@ -4,12 +4,11 @@ seoTitle: Emil Nolde in der Hamburger Kunsthalle
 slug: emil-nolde-in-der-hamburger-kunsthalle
 link: /2015/11/emil-nolde-in-der-hamburger-kunsthalle/
 fileName: 2015-11---emil-nolde-in-der-hamburger-kunsthalle.md
-description:
-  Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung mit den
-  Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine Eindrücke
-excerpt:
-  Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung mit den
-  Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine Eindrücke
+description: Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung
+  mit den Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine
+  Eindrücke
+excerpt: Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung mit
+  den Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine Eindrücke
 focusKeyword: Emil Nolde
 labels:
   - Emil Nolde
@@ -29,13 +28,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13145"
+image: /img/demo.jpg
+errors: []
 subTitle: Instagram-Galerie
+  
 ---
-
-<strong>Wie [angekündigt](/2015/11/ein-besuch-in-…ger-kunsthalle/), habe ich von
-unserem Besuch in der Hamburger Kunsthalle letzte Woche noch was mitgebracht.
-Heute lüfte ich das Geheimnis und präsentiere Euch eine kleine Instagram-Galerie
-mit Fotos von der Emil Nolde Sonderausstellung.</strong>
 
 Im Anschluss findet Ihr dann noch ein paar Informationen über den norddeutschen
 Künstler.
@@ -63,8 +60,14 @@ befinden.
 Die Sonderausstellung in der Hamburger Kunsthalle ist in Kooperation mit der
 Nolde Stiftung Seebüll unter der Schirmherrschaft von Helmut Schmidt entstanden.
 
-<blockquote>Farben, das Material des Malers: Farben in ihrem Eigenleben, weinend und lachend., Traum und Glück, heiß und heilig, wie Liebeslieder und Erotik, wie Gesänge und herrliche Choräle! Farben sind Schwingungen wie Silberglockenklänge und Bronzegeläute, kündend Glück, Leidenschaft und Liebe, Seele, Blut und Tod. - Emil Nolde</blockquote>
+> Farben, das Material des Malers: Farben in ihrem Eigenleben, weinend und
+> lachend., Traum und Glück, heiß und heilig, wie Liebeslieder und Erotik, wie
+> Gesänge und herrliche Choräle! Farben sind Schwingungen wie
+> Silberglockenklänge und Bronzegeläute, kündend Glück, Leidenschaft und Liebe,
+> Seele, Blut und Tod. - Emil Nolde
 
 Meine Bilder von der Tattoo-Ausstellung im Museum für Kunst und Gewerbe in
 Hamburg
 [findet Ihr hier](/2015/08/tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg/).
+
+  

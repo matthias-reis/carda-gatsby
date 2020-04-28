@@ -4,12 +4,10 @@ seoTitle: Raw Food Café Amsterdam - roh-vegane Köstlichkeiten für Körper & S
 slug: raw-food-cafe-amsterdam-zest-for-life
 link: /2018/03/raw-food-cafe-amsterdam-zest-for-life/
 fileName: 2018-03---raw-food-cafe-amsterdam-zest-for-life.md
-description:
-  Unter den vielen veganen Locations in Amsterdam sticht das Raw Food Café im
-  Museumsviertel besonders hervor. Die Speisen streicheln den Gaumen.
-excerpt:
-  Unter den vielen veganen Locations in Amsterdam sticht das Raw Food Café im
-  Museumsviertel besonders hervor. Die Speisen streicheln den Gaumen.
+description: Unter den vielen veganen Locations in Amsterdam sticht das Raw Food
+  Café im Museumsviertel besonders hervor. Die Speisen streicheln den Gaumen.
+excerpt: Unter den vielen veganen Locations in Amsterdam sticht das Raw Food
+  Café im Museumsviertel besonders hervor. Die Speisen streicheln den Gaumen.
 focusKeyword: Raw Food Café
 labels:
   - Amsterdam
@@ -28,13 +26,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19540"
+image: /img/demo.jpg
+errors: []
 subTitle: Roh-vegane Köstlichkeiten für Körper und Seele
+  
 ---
 
-<strong>Schon nach den ersten paar Minuten entpuppte sich Amsterdam für uns als
-wahres Vegan-Mekka. An jeder Straßenecke findet man vegane Köstlichkeiten.
-Besonders positiv aufgefallen ist uns das Raw Food Café von Zest For Life, das
-ich Euch hiermit gerne vorstellen möchte.</strong>
+**Schon nach den ersten paar Minuten entpuppte sich Amsterdam für uns als wahres
+Vegan-Mekka. An jeder Straßenecke findet man vegane Köstlichkeiten. Besonders
+positiv aufgefallen ist uns das Raw Food Café von Zest For Life, das ich Euch
+hiermit gerne vorstellen möchte.**
 
 Alle Gerichte, die im Raw Food Café serviert werden, sind roh (nicht über 42
 Grad erhitzt), unverarbeitet, vegan und frei von Zucker und Gluten. Auf der
@@ -77,11 +78,11 @@ ids="19538,19537,19544,19542,19541,19540,19539,19536"]
 
 ## Wegweiser Amsterdam
 
-<ol>
-    <li> [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/) </li>
-    <li> [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/) </li>
-    <li> [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/) </li>
-    <li> [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/) </li>
-    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
-    <li>Raw Food Café Amsterdam</li>
-</ol>
+1.  [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/)
+1.  [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/)
+1.  [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/)
+1.  [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
+1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
+1.  Raw Food Café Amsterdam
+
+  

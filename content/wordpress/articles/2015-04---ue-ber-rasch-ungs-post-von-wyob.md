@@ -4,12 +4,10 @@ seoTitle: Überraschungspost von WYOB - faire und vegane Mützen
 slug: ue-ber-rasch-ungs-post-von-wyob
 link: /2015/04/ue-ber-rasch-ungs-post-von-wyob
 fileName: 2015-04---ue-ber-rasch-ungs-post-von-wyob.md
-description:
-  Ich trage jetzt auch meine WYOB! Wear Your Own Bommel - Save lives! Vegane
-  Mützen von Denise Slapansky aus Friedberg bei Augsburg - WYOB
-excerpt:
-  Ich trage jetzt auch meine WYOB! Wear Your Own Bommel - Save lives! Vegane
-  Mützen von Denise Slapansky aus Friedberg bei Augsburg - WYOB
+description: Ich trage jetzt auch meine WYOB! Wear Your Own Bommel - Save lives!
+  Vegane Mützen von Denise Slapansky aus Friedberg bei Augsburg - WYOB
+excerpt: Ich trage jetzt auch meine WYOB! Wear Your Own Bommel - Save lives!
+  Vegane Mützen von Denise Slapansky aus Friedberg bei Augsburg - WYOB
 focusKeyword: WYOB
 labels:
   - Darum vegan
@@ -29,12 +27,11 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11341"
+image: /img/demo.jpg
+errors: []
 subTitle: So trage ich meine WYOB
+  
 ---
-
-![Meine WYOB](http://cardamonchai.com/wp-content/uploads/2015/04/WYOB-3-2-640x427.jpg)
-
-<strong>
 
 Denise hat sich so über den ganzen Rummel gefreut, dass sie mir kurzerhand eine
 Mütze geschenkt hat! Ich durfte mir sogar eine aussuchen! Lila mit grün, juhu!
@@ -59,7 +56,7 @@ erfülle ich Ihr natürlich gerne.
 
 ![WYOB](http://cardamonchai.com/wp-content/uploads/2015/04/WYOB-12-640x427.jpg)
 
-<blockquote>"Bitte schicke mir Bilder von Dir und Deiner WYOB!"
+> "Bitte schicke mir Bilder von Dir und Deiner WYOB!"
 
 Die Bilder habe ich mit Fernauslöser aufgenommen, also bitte nicht zu genau
 hinkucken. :-P Selfietime! Ich freue mich! Es hat wirklich sehr viel Spaß
@@ -81,6 +78,8 @@ ids="11347,11338,11336,11335,11334,11341,11342,11339,11343,11346,11345,11337"]
 
 Die nehm' ich auch gleich mit zum nächsten Festival!
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
 [1][wyob bei vegan news](http://www.vegan-news.de/handgemachte-haekelmuetzen-wear-your-own-bommel/)
+
+  

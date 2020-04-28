@@ -4,13 +4,11 @@ seoTitle: Besuch im Planetarium Hamburg - Reich mir die Sterne!
 slug: "18187"
 link: /2017/10/18187/
 fileName: 2017-10---besuch-im-planetarium-hamburg.md
-description:
-  Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen Vorstellungen
-  gibt es dort auch jede Menge moderne 3D-Filme zu sehen.
-excerpt:
-  Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen Vorstellungen
-  gibt es dort auch jede Menge moderne 3D-Filme zu sehen und die Lage im
-  Stadtpark ist auch nicht von schlechten Eltern.
+description: Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen
+  Vorstellungen gibt es dort auch jede Menge moderne 3D-Filme zu sehen.
+excerpt: Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen
+  Vorstellungen gibt es dort auch jede Menge moderne 3D-Filme zu sehen und die
+  Lage im Stadtpark ist auch nicht von schlechten Eltern.
 focusKeyword: Planetarium
 labels:
   - Hamburg
@@ -34,13 +32,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18192"
+image: /img/demo.jpg
+errors: []
 subTitle: Reich mir die Sterne!
+  
 ---
 
-<strong>Das Hamburger Planetarium gehört ja zu den Orten, die man schon längst
-mal besuchen wollte. Erst war es lange Zeit wegen Renovierungsarbeiten
-geschlossen und dann kamen immer wieder andere Dinge dazwischen. Man kennt das
-ja. Wir haben es jetzt endlich mal geschafft.</strong>
+**Das Hamburger Planetarium gehört ja zu den Orten, die man schon längst mal
+besuchen wollte. Erst war es lange Zeit wegen Renovierungsarbeiten geschlossen
+und dann kamen immer wieder andere Dinge dazwischen. Man kennt das ja. Wir haben
+es jetzt endlich mal geschafft.**
 
 ![Planetarium](http://cardamonchai.com/wp-content/uploads/2017/10/37124998024_91afdcef60_k-300x400.jpg)
 
@@ -68,3 +69,5 @@ zählt durch seine technischen Finessen in der Filmvorführtechnik rund 30.000
 Besucher im Jahr.
 
 [myflickr tag="anneplanetarium102017"]
+
+  

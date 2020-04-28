@@ -4,12 +4,10 @@ seoTitle: Tierversuche in der Autoindustrie - Affen mit Abgasen vergiftet
 slug: tierversuche-in-der-autoindustrie
 link: /2018/01/tierversuche-in-der-autoindustrie/
 fileName: 2018-01---tierversuche-in-der-autoindustrie.md
-description:
-  Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards erfüllt werden,
-  testete VW Abgasanlagen an hilflosen Affen.
-excerpt:
-  Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards erfüllt werden,
-  testete VW Abgasanlagen an hilflosen Affen.
+description: Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards
+  erfüllt werden, testete VW Abgasanlagen an hilflosen Affen.
+excerpt: Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards erfüllt
+  werden, testete VW Abgasanlagen an hilflosen Affen.
 focusKeyword: Tierversuche in der Autoindustrie
 labels:
   - Affen
@@ -30,13 +28,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19269"
+image: /img/demo.jpg
+errors: []
 subTitle: Affen mit Abgasen systematisch vergiftet
+  
 ---
 
-<strong>Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards erfüllt
-werden, testete VW Abgasanlagen an hilflosen Affen. Diese wurden 2014 innerhalb
-eines abgedichteten Raums im Lovelace Respiratory Research Institute (LRRI) in
-Albuquerque, New Mexico dazu gezwungen, tödliche Abgase einzuatmen.</strong>
+**Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards erfüllt werden,
+testete VW Abgasanlagen an hilflosen Affen. Diese wurden 2014 innerhalb eines
+abgedichteten Raums im Lovelace Respiratory Research Institute (LRRI) in
+Albuquerque, New Mexico dazu gezwungen, tödliche Abgase einzuatmen.**
 
 Wie sich herausstellte (Stichwort Dieselgate!), waren die Anlagen jedoch
 manipuliert und die Emission der Schadstoffe somit weit höher, als erlaubt und
@@ -95,4 +96,7 @@ weiterhin an.
 
 Die Fotos zeigen in Freiheit lebende Affen, die ich in Sri Lanka fotografiert
 habe. Sie sollen ein Mahnmal sein und die Menschen wachrütteln, damit sie
-gemeinsam gegen [Rechte der Tiere](/?s=tierversuche) kämpfen.
+gemeinsam gegen [Tierversuche](/?s=tierversuche) vorgehen und für die
+[Rechte der Tiere](/category/gesellschaft/tierschutz/) kämpfen.
+
+  

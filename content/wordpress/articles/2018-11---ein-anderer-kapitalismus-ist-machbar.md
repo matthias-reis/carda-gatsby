@@ -4,11 +4,10 @@ seoTitle: '"Ein anderer Kapitalismus ist machbar" von Muhammad Yunus'
 slug: ein-anderer-kapitalismus-ist-machbar-von-muhammad-yunus
 link: /2018/11/ein-anderer-kapitalismus-ist-machbar-von-muhammad-yunus/
 fileName: 2018-11---ein-anderer-kapitalismus-ist-machbar.md
-description:
-  Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der Krise
-  wichtiger den je, das Konzept des Kapitalismus zu überdenken. Sein neues Buch.
-excerpt:
-  Affiliate Link - Friedensnobelpreisträger Muhammad Yunus findet es im
+description: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der
+  Krise wichtiger den je, das Konzept des Kapitalismus zu überdenken. Sein neues
+  Buch.
+excerpt: Affiliate Link - Friedensnobelpreisträger Muhammad Yunus findet es im
   Angesicht der Krise wichtiger den je, das Konzept des Kapitalismus zu
   überdenken. Ich habe sein neues Buch gelesen.
 focusKeyword: Kapitalismus
@@ -41,15 +40,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22513"
+image: /img/demo.jpg
+errors: []
 subTitle: Buch von Muhammad Yunus
+  
 ---
 
-<em>Affiliate Link\*</em>
+_Affiliate Link\*_
 
-<strong>Am 22.10. erschien das neue Werk von Muhammad Yunus. In "Ein neuer
+**Am 22.10. erschien das neue Werk von Muhammad Yunus. In "Ein neuer
 Kapitalismus ist möglich" zeigt der Nobelpreisträger positive Perspektiven auf
 und zeichnet motivierende Vorschläge für eine sozialere und nachhaltiger lebende
-Gesellschaft.</strong>
+Gesellschaft.**
 
 Der Untertitel "Wie Social Business Armut beseitig, Arbeitslosigkeit abschafft
 und Nachhaltigkeit fördert" umreißt das Thema ziemlich genau. Der Autor stellt
@@ -154,10 +156,9 @@ Erfinder des Mikrokredits sowie des Social Business Konzepts für einen anderen
 Kapitalismus. Dem Gründer der Grameen-Bank wurde 2006 der Friedensnobelpreis
 verliehen.
 
-<strong> "[Ein anderer Kapitalismus ist machbar](https://amzn.to/2T0Clnk)"
-</strong> von Muhammad Yunus erschienen im Gütersloher Verlagshaus, gebundene
-Ausgabe (Klimaneutrales Druckprodukt) 22,90 Euro. <strong> ISBN:
-9783579087153</strong>
+** "[Ein anderer Kapitalismus ist machbar](https://amzn.to/2T0Clnk)" ** von
+Muhammad Yunus erschienen im Gütersloher Verlagshaus, gebundene Ausgabe
+(Klimaneutrales Druckprodukt) 22,90 Euro. **ISBN: 9783579087153**
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
@@ -165,6 +166,8 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-<em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
+_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

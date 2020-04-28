@@ -4,12 +4,10 @@ seoTitle: Orte der Kindheit - zu Besuch in Bielefeld
 slug: orte-der-kindheit
 link: /2019/05/orte-der-kindheit/
 fileName: 2019-05---orte-der-kindheit.md
-description:
-  "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht. Eines ist
-  aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
-excerpt:
-  "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht. Eines ist
-  aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
+description: "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht.
+  Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
+excerpt: "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht.
+  Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
 focusKeyword: Bielefeld
 labels:
   - Achtsamkeit
@@ -27,11 +25,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24170"
+image: /img/demo.jpg
+errors: []
 subTitle: Zu Besuch in Bielefeld
+  
 ---
 
-<strong>Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht. Eines
-ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun.</strong>
+**Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht. Eines ist
+aber mehr als sicher: Es war die richtige Entscheidung, es zu tun.**
 
 In Bielefeld habe ich einen großen Teil meiner Kindheit verbracht. Ich habe mich
 dort wohlgefühlt. Ich hatte jede Menge Freund\*innen, eine tolle Lehrerin, meine
@@ -50,7 +51,7 @@ hingefahren.
 Ein Bekannter, der in Bielefeld lebt, machte dann vor Kurzem eine Bemerkung, die
 mir zu Denken gab:
 
-<blockquote>"Fahr doch einfach mal hin. Du wirst sehen, es ist schön in Bielefeld!"</blockquote>
+> "Fahr doch einfach mal hin. Du wirst sehen, es ist schön in Bielefeld!"
 
 Einige Wochen arbeitete es noch in mir. Dann reservierte ich ein Hotelzimmer für
 zwei Nächte und einen Mietwagen. Das Ziel: Alle Orte aus der Vergangenheit
@@ -91,7 +92,18 @@ Ein verregneter Herbsttag hätte es mir sicher nicht so leicht gemacht, mir mein
 verklärtes Kindheitsbild ins Gedächtnis zurückzurufen. Auf Instagram habe ich
 Folgendes geschrieben:
 
-<blockquote>"In dem Haus, vor dem ich stehe, habe ich meine Kindheit verbracht. Nach 28 Jahren habe ich es heute endlich wieder hingeschafft. Ein spannender Moment, als wir um die Ecke bogen und ich mich an alles erinnern konnte. Am liebsten wäre ich mal reingegangen. Doch einfach klingeln? Dafür bin ich leider zu schüchtern. Ein interessantes Erlebnis war es auch so. Und ein toller Tag. Ich bin froh, es durchgezogen zu haben. Habt Ihr sowas auch schon mal gemacht? Orte nach langer Zeit besucht, die Ihr früher sehr geliebt habt? Das würde mich brennend interessieren. Ich kann es auf jeden Fall jedem empfehlen. Es tut wirklich sehr gut - auch wenn es erstmal ein totales Wechselbad der Gefühle ist. Mann, was war ich aufgeregt, als wir heute Morgen losgefahren sind! Und dann: Totale Reizüberflutung! Es riecht sogar noch genauso wie damals!"</blockquote>
+> "In dem Haus, vor dem ich stehe, habe ich meine Kindheit verbracht. Nach 28
+> Jahren habe ich es heute endlich wieder hingeschafft. Ein spannender Moment,
+> als wir um die Ecke bogen und ich mich an alles erinnern konnte. Am liebsten
+> wäre ich mal reingegangen. Doch einfach klingeln? Dafür bin ich leider zu
+> schüchtern. Ein interessantes Erlebnis war es auch so. Und ein toller Tag. Ich
+> bin froh, es durchgezogen zu haben. Habt Ihr sowas auch schon mal gemacht?
+> Orte nach langer Zeit besucht, die Ihr früher sehr geliebt habt? Das würde
+> mich brennend interessieren. Ich kann es auf jeden Fall jedem empfehlen. Es
+> tut wirklich sehr gut - auch wenn es erstmal ein totales Wechselbad der
+> Gefühle ist. Mann, was war ich aufgeregt, als wir heute Morgen losgefahren
+> sind! Und dann: Totale Reizüberflutung! Es riecht sogar noch genauso wie
+> damals!"
 
 ![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/05/2019-04-21-externsteine-teutoburger-wald-43-400x533.jpg "Bielefeld ist zum Glück gar nicht so weit weg!")
 
@@ -112,3 +124,5 @@ Ich habe meinen Trip in die Kindheit sehr genossen und werde ihn vermutlich
 demnächst wiederholen. Ich war nämlich in manchen Momenten ganz schön aufgeregt,
 und habe ganz bestimmt das ein oder andere übersehen. Mit mehr Ruhe hätte ich
 ganz bestimmt noch sehr viel mehr entdeckt. Da bin ich mir sicher.
+
+  

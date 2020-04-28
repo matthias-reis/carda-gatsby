@@ -4,12 +4,11 @@ seoTitle: Neue Kokosmilch im Kühlschrank - "Coco Milk" von Dr. Martins im Test
 slug: neue-kokosmilch-coco-milk-dr-martins
 link: /2018/09/neue-kokosmilch-coco-milk-dr-martins/
 fileName: 2018-09---neue-kokosmilch-im-kuehlschrank.md
-description:
-  Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium" und "Matcha" von
-  Dr. Martins getestet und mir einen tollen Kokos-Cappuccino gemacht.
-excerpt:
-  Werbung - Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium" und
+description: Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium" und
   "Matcha" von Dr. Martins getestet und mir einen tollen Kokos-Cappuccino
+  gemacht.
+excerpt: Werbung - Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium"
+  und "Matcha" von Dr. Martins getestet und mir einen tollen Kokos-Cappuccino
   gemacht.
 focusKeyword: Kokosmilch
 labels:
@@ -32,15 +31,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22192"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Coco Milk For Drinking" von Dr. Martins im Test'
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Die Kokosprodukte von Dr. Antonio Martins kennt Ihr vielleicht schon.
-Der Hersteller war bislang besonders für seine Getränke mit Kokoswasser bekannt.
+**Die Kokosprodukte von Dr. Antonio Martins kennt Ihr vielleicht schon. Der
+Hersteller war bislang besonders für seine Getränke mit Kokoswasser bekannt.
 Jetzt wurde das Sortiment erweitert. Ich habe die neuen Kokosmilch-Sorten 
-"Klassisch", "Calzium" und "Matcha" getestet.</strong>
+"Klassisch", "Calzium" und "Matcha" getestet.**
 
 ![](https://www.adcell.de/promotion/view/promoId/118963/slotId/80259)
 
@@ -151,13 +153,17 @@ Vielleicht probiert Ihr den ja auch mal.
 ![](https://www.adcell.de/promotion/view/promoId/118963/slotId/80259)
 
 Übrigens habe ich im Sortiment von Dr. Martins auch
-[Kokosmilch zum Kochen](https://www.adcell.de/promotion/click/promoId/118963/slotId/80259?param0=https%3A%2F%2Fvekoop.de%2FCoco-Kokosmilch-zum-Kochen-Bio-500ml-Kokosnussmilch-vegan).
+[Kokosmilch zum Kochen](https://www.adcell.de/promotion/click/promoId/118963/slotId/80259?param0=https%3A%2F%2Fvekoop.de%2FCoco-Kokosmilch-zum-Kochen-Bio-500ml-Kokosnussmilch-vegan)
+entdeckt. Die komplette Produktübersicht findet Ihr auf der
+[Homepage](http://dr-martins.com/de/produkte/).
 
 ![vekoop](https://www.adcell.de/promotion/image/promoId/118938/slotId/80259)
 
-<a href="https://www.adcell.de/promotion/click/promoId/118938/slotId/80259" target="_blank" rel="noopener nofollow">
+[](https://www.adcell.de/promotion/click/promoId/118938/slotId/80259)
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+  [Transparenz-Seite](/werbung/). _
+
+  

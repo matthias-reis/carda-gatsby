@@ -4,11 +4,9 @@ seoTitle: Hitzefrei - mal wieder eine kleine Gedankenansammlung
 slug: hitzefrei
 link: /2012/07/hitzefrei/
 fileName: 2012-07---hitzefrei.md
-description:
-  Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch
-  pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
-excerpt:
-  Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch
+description: Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik.
+  Chronisch pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
+excerpt: Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch
   pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
 focusKeyword: Hitzefrei
 labels:
@@ -47,11 +45,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3314"
+image: /img/demo.jpg
+errors: []
 subTitle: Gedankenansammlung
+  
 ---
-
-<strong>Wenn es regnet, gehen wir in den Park. Wenn die Sonne scheint, in die
-Turnhalle.</strong>
 
 Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik. Chronisch pleite.
 Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
@@ -73,6 +71,8 @@ Und wir rennen weiter hinter der Straßenbahn her und lassen unseren Regenschirm
 im Supermarkt an der Kasse liegen.
 
 !['Da saß ein Vogel auf dem Zaun' Anne Reko 6/2012 | full](http://cardamonchai.files.wordpress.com/2012/07/599460_450404824981652_1788614199_n1.jpg)
+
+**Song zum Text: Incubus - A Crow Left Of The Murder**
 
 [youtube=http://www.youtube.com/watch?v=t-UuZV-HKyw]
 
@@ -100,3 +100,5 @@ Unlearn me Unlearn me Do you get it yet?
 
 Look, Find, Free Do you get it yet? Do you get it yet? Do you get it yet? Do you
 get it yet? Do you get it yet? Do you get it yet? Do you get it yet?
+
+  

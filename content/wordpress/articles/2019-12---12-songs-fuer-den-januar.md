@@ -4,12 +4,12 @@ seoTitle: 12 Songs für den Januar - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-januar
 link: /2019/12/12-songs-fuer-den-januar/
 fileName: 2019-12---12-songs-fuer-den-januar.md
-description:
-  Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik versorgen. Für
-  den Januar haben wir bereits 12 Songs für Euch zusammengestellt.
-excerpt:
-  Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik versorgen. Für
-  den Januar haben wir bereits 12 Songs für Euch zusammengestellt.
+description: Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik
+  versorgen. Für den Januar haben wir bereits 12 Songs für Euch
+  zusammengestellt.
+excerpt: Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik
+  versorgen. Für den Januar haben wir bereits 12 Songs für Euch
+  zusammengestellt.
 focusKeyword: 12 Songs
 labels:
   - A. A. Williams
@@ -48,12 +48,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27244"
+image: /img/demo.jpg
+errors: []
 subTitle: Präsentiert von den drei von der Bande
+  
 ---
 
-<strong>Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik
-versorgen. Für den Januar haben wir bereits 12 Stücke zusammengestellt, die Ihr
-auf keinen Fall verpassen solltet.</strong>
+**Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik versorgen. Für
+den Januar haben wir bereits 12 Stücke zusammengestellt, die Ihr auf keinen Fall
+verpassen solltet.**
 
 Jeder von uns hat wie immer vier Songs ausgesucht. Wie schon in den letzten 12
 Monaten haben wir nicht den Anspruch, dass alle von ihnen neu sind. Es handelt
@@ -208,3 +211,5 @@ Hat Euch unsere Liste gefallen? Klasse!
 nichts mehr zu verpassen!
 
 ![12-songs-pin | large](http://cardamonchai.com/wp-content/uploads/2019/12/12-Songs-Pinterest-2-520x780.png)
+
+  

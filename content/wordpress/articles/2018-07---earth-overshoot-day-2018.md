@@ -1,17 +1,15 @@
 ---
 title: Earth Overshoot Day 2018
-seoTitle:
-  Earth Overshoot Day 2018 - Der Menschheit ist die Sicherung durchgebrannt
+seoTitle: Earth Overshoot Day 2018 - Der Menschheit ist die Sicherung durchgebrannt
 slug: earth-overshoot-day-2018
 link: /2018/07/earth-overshoot-day-2018/
 fileName: 2018-07---earth-overshoot-day-2018.md
-description:
-  Ich erinnere mich an den Earth Overshoot Day 2017. Der Tag fiel auf den 2.
-  August. 2018 haben wir unsere Ressourcen schon einen Tag früher verbraucht.
-excerpt:
-  Ich erinnere mich noch sehr gut an den Earth Overshoot Day 2017. Letztes Jahr
-  fiel der Tag noch auf den 2. August. 2018 haben wir unsere Ressourcen bereits
-  einen Tag früher aufgebraucht.
+description: Ich erinnere mich an den Earth Overshoot Day 2017. Der Tag fiel auf
+  den 2. August. 2018 haben wir unsere Ressourcen schon einen Tag früher
+  verbraucht.
+excerpt: Ich erinnere mich noch sehr gut an den Earth Overshoot Day 2017.
+  Letztes Jahr fiel der Tag noch auf den 2. August. 2018 haben wir unsere
+  Ressourcen bereits einen Tag früher aufgebraucht.
 focusKeyword: Earth Overshoot Day
 labels:
   - Blue Planet
@@ -40,14 +38,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21509"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (84:49)"
 subTitle: Der Menschheit ist die Sicherung durchgebrannt
+  
 ---
 
-<strong>Ich erinnere mich noch sehr gut an den
+## unknown: Expected corresponding JSX closing tag for <p> (84:49)
+
+<!--
+**Ich erinnere mich noch sehr gut an den
 [Earth Overshoot Day 2017](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/).
 Letztes Jahr fiel der Tag noch auf den 2. August. 2018 ist es bereits einen Tag
 früher soweit: Die menschliche Nachfrage an natürlichen Ressourcen übersteigt
-das Angebot und die Kapazität der Erde, diese zu reproduzieren.</strong>
+das Angebot und die Kapazität der Erde, diese zu reproduzieren.**
 
 Das jeweilige Datum des jährlichen Earth Overshoot Day (Weltüberlastungstag)
 rechnet man aus, indem man den globalen
@@ -83,9 +89,9 @@ Mai. Immerhin im Vergleich zu 2017 (24. April) eine kleine Verbesserung. Dennoch
 liegen wir weltweit ziemlich weit vorne, wenn es um Thema Umweltverschmutzung
 geht und sollten wohl langsam aber sicher mal anfangen, uns Gedanken zu machen.
 
-<strong>Es geht ja schließlich auch nicht, dass wir bis Mai unser komplettes
-Gehalt ausgeben und den Rest des Jahres auf Pump leben. Oder doch? Vielleicht
-ist ja genau das unser Problem.</strong>
+**Es geht ja schließlich auch nicht, dass wir bis Mai unser komplettes Gehalt
+ausgeben und den Rest des Jahres auf Pump leben. Oder doch? Vielleicht ist ja
+genau das unser Problem.**
 
 overshootday.org zufolge machen CO<sub>2</sub>-Emissionen 60 Prozent des
 Fußabdrucks der Menschheit aus. Sie sind somit der Haupttreiber bei unserem
@@ -103,14 +109,14 @@ größten Umweltsünder die ersten Plätze.
 
 ![Earth Overshoot Day | large](http://cardamonchai.com/wp-content/uploads/2018/07/Schaubild1-520x722.jpg)
 
-<strong>So viele Erden wären nötig, wenn wir weltweit so leben würden, wie in
-den jeweiligen Nationen:</strong>
+**So viele Erden wären nötig, wenn wir weltweit so leben würden, wie in den
+jeweiligen Nationen:**
 
 ![Earth Overshoot Day | large](http://cardamonchai.com/wp-content/uploads/2018/07/schaubild2-520x590.jpg)
 
-<strong>Diese zweite Darstellung von der Global Footprint Organisation wiederum
-zeigt, wie oft es die jeweiligen Länder geben müsste, damit sie den dortigen
-Ressourcenverbrauch selbst decken könnten.</strong>
+**Diese zweite Darstellung von der Global Footprint Organisation wiederum zeigt,
+wie oft es die jeweiligen Länder geben müsste, damit sie den dortigen
+Ressourcenverbrauch selbst decken könnten.**
 
 ## Der Earth Overshoot Day hält uns unser Versagen vor Augen
 
@@ -163,11 +169,16 @@ für die Umwelt tun", stellt man auf [Ökostrom](/2011/04/stromanbieter-wechseln
 um und verzichtet aufs Autofahren, inspiriert man unter Umständen auch andere.
 
 Genauso ist es mit der veganen Lebensweise.
-[Plastiktüten](/2018/02/wie-vegan-ist-moeglich/) verzichtet, hat auch schon
-etwas getan. Das Wichtigste ist, dass es sich rumspricht. Dann ist die
-Menschheit vielleicht noch zu retten.
+[Immerhin wird bei der Produktion von einem Kilogramm Rindfleisch so viel Treibhausgas erzeugt, wie beim Fahren von 1.600 Kilometern auf der Autobahn](/2018/02/wie-vegan-ist-moeglich/).
+Nur soviel dazu. Wer Kleidung second hand kauft und auf
+[Plastiktüten](/2017/08/kenia-sagt-plastiktueten-nein-danke/) verzichtet, hat
+auch schon etwas getan. Das Wichtigste ist, dass es sich rumspricht. Dann ist
+die Menschheit vielleicht noch zu retten.
 
-<strong>Quellen:</strong> ZDF, overshootday.org, titel thesen temperamente, WWF,
-Wikipedia <strong>Schaubilder:</strong> Global Footprint Organisation
-<strong>Titelbild:</strong>
+**Quellen:** ZDF, overshootday.org, titel thesen temperamente, WWF, Wikipedia
+**Schaubilder:** Global Footprint Organisation **Titelbild:**
 [Ylvers](https://pixabay.com/de/users/Ylvers-337353/), pixabay
+
+-->
+
+  

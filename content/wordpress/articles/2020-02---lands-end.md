@@ -4,12 +4,10 @@ seoTitle: Land's End - am westlichsten Punkt Englands
 slug: 2019-08-20-lands-end-england
 link: /2020/02/2019-08-20-lands-end-england/
 fileName: 2020-02---lands-end.md
-description:
-  Land's End ist immer eine Reise wert. Der westlichste Punkt Englands lädt zum
-  Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
-excerpt:
-  Land's End ist immer eine Reise wert. Der westlichste Punkt Englands lädt zum
-  Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
+description: Land's End ist immer eine Reise wert. Der westlichste Punkt
+  Englands lädt zum Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
+excerpt: Land's End ist immer eine Reise wert. Der westlichste Punkt Englands
+  lädt zum Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
 focusKeyword: Land's End
 labels:
   - Atlantik
@@ -25,13 +23,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27345"
+image: /img/demo.jpg
+errors: []
 subTitle: Am westlichsten Punkt Englands
+  
 ---
 
-<strong>Nach unserem [Festivalbesuch](/2019/09/arctangent-festival-2019-2/) in
-England im letzten Spätsommer hatten wir noch etwas Zeit, die wir für eine
-kleine Tour durch Cornwall nutzten. Sie führte uns am 20. August auch an der
-Landzunge von Land's End vorbei.</strong>
+**Nach unserem [Festivalbesuch](/2019/09/arctangent-festival-2019-2/) in England
+im letzten Spätsommer hatten wir noch etwas Zeit, die wir für eine kleine Tour
+durch Cornwall nutzten. Sie führte uns am 20. August auch an der Landzunge von
+Land's End vorbei.**
 
 Die Felsen am westlichsten Punkt von Englands Hauptinsel ziehen uns bei unseren
 Besuchen in dieser Gegend immer wieder an. Auch, wenn das Gebiet von Touristen
@@ -66,3 +67,5 @@ versunkene Land Lyonesse befunden haben - das sagt die Legende.
 Hat Euch meine Bildergalerie gefallen? Demnächst gibt es mehr davon! Ihr
 verpasst garantiert nichts, wenn Ihr [meinen Newsletter abonniert](#newsletter).
 Wir lesen uns!
+
+  

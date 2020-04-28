@@ -4,12 +4,10 @@ seoTitle: Nach dem Regen - Prosa ohne Wolken
 slug: nach-dem-regen
 link: /2011/07/nach-dem-regen/
 fileName: 2011-07---nach-dem-regen.md
-description:
-  Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders, als wenn
-  es langsam nachlässt.
-excerpt:
-  Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders, als wenn
-  es langsam nachlässt.
+description: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz
+  anders, als wenn es langsam nachlässt.
+excerpt: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz anders,
+  als wenn es langsam nachlässt.
 focusKeyword: ""
 labels:
   - aufgeben
@@ -56,7 +54,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11578"
+image: /img/demo.jpg
+errors: []
 subTitle: Prosa ohne Wolken
+  
 ---
 
 Es hat aufgehört zu regnen Alles ist viel klarer jetzt Ganz anders, als wenn es
@@ -71,22 +72,22 @@ verzogen
 Diesen harten, sauren Regen Aus grauen, stählernen Containerwolken Wird es für
 dich nun nicht mehr geben.
 
-<em>Der Song des Tages kommt heute von der Band Thrice. "Yellow Belly" ist die
+_Der Song des Tages kommt heute von der Band Thrice. "Yellow Belly" ist die
 erste Auskopplung aus dem neuen Album "Major/Minor", das im September erscheinen
-wird. </em><strong>Song des Tages: </strong>
+wird._ **Song des Tages:**
 
 Thrice - Yellow Belly
 
 [youtube=http://www.youtube.com/watch?v=Tfv4PqEOZCU]
 
-<em>You were built for blessing</em><em>But you only make them bleed</em><em>You
-don´t care</em><em>You don´t care</em><em>And bruises are but shadows</em><em>Of
-the blackness that you breathe</em><em>You don´t care</em><em>You don´t
-care</em><em>Life is left inside the rock</em><em>Stuck in day by
-day</em><em>You don´t care</em><em>You don´t care</em><em>Presence boroughs the
-colour</em><em>From the world to low less gray</em><em>You don´t
-care</em><em>You don´t care</em>
+_You were built for blessing_ _But you only make them bleed_ _You don´t care_
+_You don´t care_ _And bruises are but shadows_ _Of the blackness that you
+breathe_ _You don´t care_ _You don´t care_ _Life is left inside the rock_ _Stuck
+in day by day_ _You don´t care_ _You don´t care_ _Presence boroughs the colour_
+_From the world to low less gray_ _You don´t care_ _You don´t care_
 
 ![Foto: cardamon82 Cornwall 2009 | full](http://cardamonchai.files.wordpress.com/2011/07/p51900171.jpg "Foto: cardamon82 Cornwall 2009")
 
-<em></em><pre></pre>
+\_\_ <pre></pre>
+
+  

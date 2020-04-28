@@ -17,9 +17,12 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11484"
+image: /img/demo.jpg
+errors: []
 subTitle: Impressionen aus dem Zoo Augsburg
+  
 ---
 
-[Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/)
-
 [myflickr tag="annezooaugsburg92009"]
+
+  

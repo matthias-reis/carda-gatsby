@@ -4,12 +4,11 @@ seoTitle: Vega und das Chaos - ein veganer Rapper auf dem Weg zum Erfolg
 slug: vega-und-das-chaos
 link: /2014/11/vega-und-das-chaos/
 fileName: 2014-11---vega-und-das-chaos.md
-description:
-  Immer mehr Künstler*innen und Berühmtheiten werden vegan, engagieren sich und
-  sprechen öffentlich darüber. Einer von ihnen ist der Rapper Vega.
-excerpt:
-  Immer mehr Künstler*innen und Berühmtheiten werden vegan, engagieren sich und
-  sprechen öffentlich darüber. Einer von ihnen ist der Rapper Vega.
+description: Immer mehr Künstler*innen und Berühmtheiten werden vegan,
+  engagieren sich und sprechen öffentlich darüber. Einer von ihnen ist der
+  Rapper Vega.
+excerpt: Immer mehr Künstler*innen und Berühmtheiten werden vegan, engagieren
+  sich und sprechen öffentlich darüber. Einer von ihnen ist der Rapper Vega.
 focusKeyword: vega
 labels:
   - Bands & Reviews
@@ -40,12 +39,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25453"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein veganer Rapper auf dem Weg zum Erfolg
+  
 ---
-
-<strong>Immer mehr Künstler\*innen und Berühmtheiten werden vegan und sprechen
-öffentlich darüber. Einer von ihnen ist der Rapper Vega. Ich möchte ihn Euch
-gerne näher vorstellen.</strong>
 
 Vega wird am 6. Januar 1985 in Frankfurt geboren. Dort kommt er durch seinen
 Stiefvater das erste Mal mit Rap in Kontakt. Zu seinen Vorbildern dieser Zeit
@@ -56,9 +54,9 @@ VRS veröffentlicht er ein Mixtape und eine EP.
 Der Buckwheats-Gründer Seperate entdeckt ihn und nimmt den Rapper unter Vertrag,
 gemeinsam nehmen sie ein Album und eine EP auf. 2008 trennen sich ihre Wege
 wieder und Vega geht gemeinsam mit Casper, Maeckes &amp; Plan B und Pimpulsiv
-auf Tournee. In der Zwischenzeit wird <strong>Kool Savas</strong> auf ihn
-aufmerksam. Die beiden nehmen gemeinsam einen Remix auf, zu dem auch ein Video
-veröffentlicht wird.
+auf Tournee. In der Zwischenzeit wird **Kool Savas** auf ihn aufmerksam. Die
+beiden nehmen gemeinsam einen Remix auf, zu dem auch ein Video veröffentlicht
+wird.
 
 Im Anschluss gründet Vega zusammen mit dem Produzenten Emonex das Label
 Butterfly Music, unter dem 2009 sein Debutalbum "Lieber bleib ich broke"
@@ -101,4 +99,6 @@ ethischen Komponente und der Gesundheitlichen, er fühlte sich nicht mehr wohl,
 sagt von sich selbst, dass er in keiner guten Verfassung war und das Gefühl
 hatte, etwas ändern zu müssen.
 
-<strong>Foto:</strong> Pressemappe Vega
+**Foto:** Pressemappe Vega
+
+  

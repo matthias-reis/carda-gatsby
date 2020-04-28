@@ -4,12 +4,11 @@ seoTitle: Sundowner in Ängelholm - Wehmut und Abendrot an der Ostsee
 slug: sundowner-in-aengelholm
 link: /2018/10/sundowner-in-aengelholm/
 fileName: 2018-10---sundowner-in-aengelholm.md
-description:
-  Einen perfekten Abschluss fand unsere Reise durch Schweden im wunderschönen
-  Ängelholm an der Ostsee. Hier ein paar romantische Eindrücke.
-excerpt:
-  Fotostrecke - Einen perfekten Abschluss fand unsere Reise durch Schweden im
+description: Einen perfekten Abschluss fand unsere Reise durch Schweden im
   wunderschönen Ängelholm an der Ostsee. Hier ein paar romantische Eindrücke.
+excerpt: Fotostrecke - Einen perfekten Abschluss fand unsere Reise durch
+  Schweden im wunderschönen Ängelholm an der Ostsee. Hier ein paar romantische
+  Eindrücke.
 focusKeyword: Ängelholm
 labels:
   - Ängelholm
@@ -28,13 +27,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22378"
+image: /img/demo.jpg
+errors: []
 subTitle: Wehmut und Abendrot an der Ostsee
+  
 ---
 
-<strong>Bevor wir uns über Helsingborg und Helsingoer wieder auf den Heimweg
-machten, legten wir noch einen Zwischenstopp im Schwedischen Ängelholm an der
-Ostsee ein. Dort haben wir einen wirklich traumhaften Sonnenuntergang erlebt,
-von dem wir noch lange zehren werden.</strong>
+**Bevor wir uns über Helsingborg und Helsingoer wieder auf den Heimweg machten,
+legten wir noch einen Zwischenstopp im Schwedischen Ängelholm an der Ostsee ein.
+Dort haben wir einen wirklich traumhaften Sonnenuntergang erlebt, von dem wir
+noch lange zehren werden.**
 
 Natürlich war auch etwas Wehmut dabei an diesem wunderschönen Abend an der
 Ostsee. Schließlich war unsere Reise durch Schweden zu Ende. Die Freude über die
@@ -44,3 +46,5 @@ Wetter, welches uns die ganze Zeit begleitet hatte, überwogen jedoch.
 ### Wenn in Ängelholm die Sonne in der Ostsee versinkt...
 
 [myflickr tag="20180629anneaengelholm"]
+
+  

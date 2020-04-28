@@ -4,12 +4,10 @@ seoTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr
 slug: dunkfest-2018-wir-kommen
 link: /2018/04/dunkfest-2018-wir-kommen/
 fileName: 2018-04---dunk-festival-2018-wir-kommen.md
-description:
-  Auch in diesem Jahr werden wir wieder das Dunk!festival im Belgischen Zottegem
-  bereisen. Die Vorfreude steigt. Bald geht es los!
-excerpt:
-  Auch in diesem Jahr werden wir wieder das Dunk!festival im Belgischen Zottegem
-  bereisen. Die Vorfreude steigt. Bald geht es los!
+description: Auch in diesem Jahr werden wir wieder das Dunk!festival im
+  Belgischen Zottegem bereisen. Die Vorfreude steigt. Bald geht es los!
+excerpt: Auch in diesem Jahr werden wir wieder das Dunk!festival im Belgischen
+  Zottegem bereisen. Die Vorfreude steigt. Bald geht es los!
 focusKeyword: Dunk!festival
 labels:
   - Baltic Post-Rock
@@ -37,13 +35,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16753"
+image: /img/demo.jpg
+errors: []
 subTitle: Post-Rock rund um die Uhr
+  
 ---
 
-<strong>Bereits 2017 hatten wir viel Spaß auf dem Dunk!festival. Drei Tage mit
+**Bereits 2017 hatten wir viel Spaß auf dem Dunk!festival. Drei Tage mit
 Post-Rock, tollen Menschen und Sonne satt. Auch 2018 wollen wir uns das Festival
 im Belgischen Zottegem nicht entgehen lassen. Es findet dieses Mal vom 10. bis
-zum 12. Mai statt.</strong>
+zum 12. Mai statt.**
 
 Die Vorfreude wird von Tag zu Tag größer. Am 9. Mai geht es bei uns wieder los.
 Die Planung läuft auf vollen Touren und die Tickets liegen schon seit Monaten in
@@ -104,16 +105,16 @@ Helga und Polonaise haben keinen Zutritt.
 
 ## Wegweiser DUNK!festival
 
-<ol>
-    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
-    <li> [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/) </li>
-    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
-    <li>DUNK!festival 2018 - Das Line-up</li>
-    <li> [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/) </li>
-    <li>DUNK!festival 2019 - Das Line-up</li>
-</ol>
+1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
+1.  [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/)
+1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
+1.  DUNK!festival 2018 - Das Line-up
+1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
+1.  DUNK!festival 2019 - Das Line-up
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
 Quelle Titelbild, Artwork und Timetable:
 [Dunk!festival](https://www.dunkfestival.be/)
+
+  

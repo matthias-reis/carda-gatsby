@@ -4,12 +4,11 @@ seoTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawande
 slug: underwater-hoa
 link: /2018/10/underwater-hoa/
 fileName: 2018-10---underwater-hoa.md
-description:
-  Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem Projekt
-  Underwater HOA zum sofortigen Handeln gegen steigenden Meeresspiegel aufrufen.
-excerpt:
-  Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem Projekt
-  Underwater HOA  zum sofortigen Handeln gegen steigenden Meeresspiegel
+description: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem
+  Projekt Underwater HOA zum sofortigen Handeln gegen steigenden Meeresspiegel
+  aufrufen.
+excerpt: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem
+  Projekt Underwater HOA  zum sofortigen Handeln gegen steigenden Meeresspiegel
   aufrufen.
 focusKeyword: Underwater HOA
 labels:
@@ -49,29 +48,32 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22431"
+image: /img/demo.jpg
+errors: []
 subTitle: Künstler Xavier Cortada für Klimaschutz ein
+  
 ---
 
-<strong>Der Ort Pinecrest und der renommierte Umweltaktivist und Künstler Xavier
+**Der Ort Pinecrest und der renommierte Umweltaktivist und Künstler Xavier
 Cortada möchten mit einem neuen interaktiven Projekt zum sofortigen Handeln
-gegen steigenden Meeresspiegel aufrufen.</strong>
+gegen steigenden Meeresspiegel aufrufen.**
 
 "Underwater HOA" kartiert die Höhenlage von 6.000 Gebäuden, vier großen
 Straßenkreuzungen sowie 4 Kilometern des Kilian Drive, um die Auswirkungen des
 Klimawandels durch den steigenden Meeresspiegel sichtbar zu machen.
 
-<em>Pinecrest, Florida</em> - Wissenschaftler warnen vor dem beschleunigten
-Anstieg des Meeresspiegels rund um den Globus. Vor allem das Abschmelzen der
-Eisschichten in der Antarktis und in Grönland sorgt dafür, dass sich dieser
-Prozess immer mehr beschleunigt. Zu Endes des Jahres werden die Weltmeere
-mindestens um 0,61 Meter höher stehen, als zum heutigen Tage. Davon geht das
-Wissenschaftsjournal Proceedings of the National Academy of Sciences (PNAS) aus.
-Xavier Cortada ist Stipendiant des National Science Foundation Antarctic Artists
-and Writers Program. Derzeit wohnt er in Pinecrest Gardens. Das ewige Eis hat er
-bei einem Besuch in Grönland vor zehn Jahren noch selbst erlebt. Von der
-Zusammenarbeit mit der Gemeinde Pinecrest erhofft er sich die Schärfung des
-Bewusstseins innerhalb der Bevölkerung. Außerdem möchte er mit seinem
-Kunstprojekt "Underwater HOA" andere bei der Vorbereitung auf das Unvermeidliche
+_Pinecrest, Florida_ - Wissenschaftler warnen vor dem beschleunigten Anstieg des
+Meeresspiegels rund um den Globus. Vor allem das Abschmelzen der Eisschichten in
+der Antarktis und in Grönland sorgt dafür, dass sich dieser Prozess immer mehr
+beschleunigt. Zu Endes des Jahres werden die Weltmeere mindestens um 0,61 Meter
+höher stehen, als zum heutigen Tage. Davon geht das Wissenschaftsjournal
+Proceedings of the National Academy of Sciences (PNAS) aus. Xavier Cortada ist
+Stipendiant des National Science Foundation Antarctic Artists and Writers
+Program. Derzeit wohnt er in Pinecrest Gardens. Das ewige Eis hat er bei einem
+Besuch in Grönland vor zehn Jahren noch selbst erlebt. Von der Zusammenarbeit
+mit der Gemeinde Pinecrest erhofft er sich die Schärfung des Bewusstseins
+innerhalb der Bevölkerung. Außerdem möchte er mit seinem Kunstprojekt
+"Underwater HOA" andere bei der Vorbereitung auf das Unvermeidliche
 unterstützen.
 
 ## 6.000 Haushalte bekommen Wasserstandsmarkierungen
@@ -173,4 +175,6 @@ Rachel Pinzur für die Übersendung der Pressemitteilung.
 
 ![Underwater HOA | full](http://cardamonchai.com/wp-content/uploads/2018/10/ShowImage-960x355.jpeg)
 
-<strong>Bilder / Pictures:</strong> Underwater HOA
+**Bilder / Pictures:** Underwater HOA
+
+  

@@ -4,12 +4,12 @@ seoTitle: Tiere auf Glas - Pfoten und Fell
 slug: tiere-auf-glas
 link: /2013/01/tiere-auf-glas/
 fileName: 2013-01---tiere-auf-glas.md
-description:
-  "Zwei ganz besondere Tierfotos haben mich auf eine Idee gebracht: Wie sehen
-  Tiere eigentlich von unten aus? Einfach über eine Glasplatte laufen lassen."
-excerpt:
-  "Zwei ganz besondere Tierfotos haben mich auf eine Idee gebracht: Wie sehen
-  Tiere eigentlich von unten aus? Einfach über eine Glasplatte laufen lassen."
+description: "Zwei ganz besondere Tierfotos haben mich auf eine Idee gebracht:
+  Wie sehen Tiere eigentlich von unten aus? Einfach über eine Glasplatte laufen
+  lassen."
+excerpt: "Zwei ganz besondere Tierfotos haben mich auf eine Idee gebracht: Wie
+  sehen Tiere eigentlich von unten aus? Einfach über eine Glasplatte laufen
+  lassen."
 focusKeyword: Tiere
 labels:
   - Affe
@@ -36,11 +36,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4800"
+image: /img/demo.jpg
+errors: []
 subTitle: Pfoten und Fell
+  
 ---
-
-<strong>Ich habe heute auf [Facebook](https://www.facebook.com/cardamonchai)
-zwei tolle Bilder entdeckt, die ich Euch nicht vorenthalten möchte. </strong>
 
 ![Oskar | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/01/img_0004-150x150.jpeg "Oskar")
 
@@ -52,11 +52,13 @@ Pfoten/Krallen gelten, wenn nicht der komplette Hund/Ara auf den
 Scanner/Kopierer passt.
 
 Das erste Foto habe ich auf der Facebook-Seite von
-[Katzenseite](https://www.facebook.com/pages/Frans-de-Waal-Public-Page/99206759699).
-Die Fotografen sind unbekannt. Sollten Ihr zufällig auf mein Blog stoßen, werde
-ich Euch natürlich nachträglich gerne als Künstler angeben. Niedlich die beiden,
-oder? Außerdem lasse ich mir den Namen 'Pets On Glass' für mein nächstes
-Bandprojekt schützen.
+[Frans de Waal](https://www.facebook.com/pages/Frans-de-Waal-Public-Page/99206759699)
+entdeckt, das zweite auf der
+[Katzenseite](https://www.facebook.com/Katzenfreunde?fref=ts). Die Fotografen
+sind unbekannt. Sollten Ihr zufällig auf mein Blog stoßen, werde ich Euch
+natürlich nachträglich gerne als Künstler angeben. Niedlich die beiden, oder?
+Außerdem lasse ich mir den Namen 'Pets On Glass' für mein nächstes Bandprojekt
+schützen.
 
 Schickt Eure Fotos bitte an info@cardamonchai.com. Ich poste sie dann in diesem
 Artikel.
@@ -72,7 +74,10 @@ liebgewonnenen Twitterin, der
 ![@StrassenKatze](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130105_135852-800x1067.jpg "@StrassenKatze")
 
 Weitere drei Minuten zogen ins Land und schon bekam ich den nächsten Beitrag
-zugeschickt. Diesmal von [&gt;Link&lt;](https://twitter.com/laschnalle)
+zugeschickt. Diesmal von [@laschnalle](https://twitter.com/laschnalle). Es
+handelt sich um eine komplette [Tumblr-Seite](http://thecatscan.tumblr.com/) mit
+gescannten Katzen. Zu finden unter diesem
+[&gt;Link&lt;](http://thecatscan.tumblr.com/)
 
 Und noch ein Beitrag von [@StrassenKatze](https://twitter.com/StrassenKatze).
 Hier ein Foto von Fürst, Ihrer Bartagame:
@@ -85,7 +90,7 @@ Und noch ein Beitrag, dieses Mal von Sarah:
 
 Hier ist Jessies [@Sir_Smokie](https://twitter.com/Sir_Smokie)
 
-![@Sir_Smokie ](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130108_162457-800x800.jpg " [@Sir_Smokie](https://twitter.com/Sir_Smokie) ")
+![@Sir_Smokie ](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130108_162457-800x800.jpg "[@Sir_Smokie](https://twitter.com/Sir_Smokie)")
 
 ## Nachtrag vom 10.Januar 2013
 
@@ -114,10 +119,12 @@ ein kleines Kunstwerk geworden, wie ich finde. Der Kleine wollte nicht still
 sitzen bleiben, daher kann man auf dem Bild genau seinen Weg über den Scanner
 zurückverfolgen:
 
-![Scan](http://cardamonchai.com/wp-content/uploads/2013/01/scan-800x1100.jpg " [](/wp-content/uploads/2013/01/scan.jpg)  Koki")
+![Scan](http://cardamonchai.com/wp-content/uploads/2013/01/scan-800x1100.jpg "[ ](/wp-content/uploads/2013/01/scan.jpg)  Koki")
 
-<em> Natürlich soll das noch lange nicht das Ende des Beitrags sein. Wer mir
-noch ein Bild seiner Katze, Ratte, seines Hundes oder Elefanten schicken möchte,
-kann dies nach wie vor gerne unter der oben angegebenen E-Mail-Adresse oder auch
-als persönliche Nachricht über [&gt;Facebook&lt;](https://twitter.com/Anne_Reko)
-tun</em>.
+_Natürlich soll das noch lange nicht das Ende des Beitrags sein. Wer mir noch
+ein Bild seiner Katze, Ratte, seines Hundes oder Elefanten schicken möchte, kann
+dies nach wie vor gerne unter der oben angegebenen E-Mail-Adresse oder auch als
+persönliche Nachricht über [&gt;Twitter&lt;](https://twitter.com/Anne_Reko) oder
+[&gt;Facebook&lt;](https://www.facebook.com/cardamonchai) tun_ .
+
+  

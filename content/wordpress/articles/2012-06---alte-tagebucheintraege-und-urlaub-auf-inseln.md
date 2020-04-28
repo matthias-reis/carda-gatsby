@@ -4,12 +4,12 @@ seoTitle: Alte Tagebucheinträge und Urlaub auf Inseln
 slug: alte-tagebucheintrage-und-urlaub-auf-inseln
 link: /2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/
 fileName: 2012-06---alte-tagebucheintraege-und-urlaub-auf-inseln.md
-description:
-  Interessant, was ich früher so alles in meinem Tagebuch festgehalten habe.
-  Wirklich spannend sind die ersten Aufzeichnungen über das Schreiben an sich.
-excerpt:
-  Interessant, was ich früher so alles in meinem Tagebuch festgehalten habe.
-  Wirklich spannend sind die ersten Aufzeichnungen über das Schreiben an sich.
+description: Interessant, was ich früher so alles in meinem Tagebuch
+  festgehalten habe. Wirklich spannend sind die ersten Aufzeichnungen über das
+  Schreiben an sich.
+excerpt: Interessant, was ich früher so alles in meinem Tagebuch festgehalten
+  habe. Wirklich spannend sind die ersten Aufzeichnungen über das Schreiben an
+  sich.
 focusKeyword: Tagebuch
 labels:
   - "1982"
@@ -56,11 +56,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3118"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
-
-<strong>In den letzten Tagen habe ich mich mit der Planung der Englandreise, die
-für die nächsten beiden Wochen ansteht, beschäftigt. </strong>
 
 Dabei habe ich auch in alten Tagebüchern geblättert, in denen ich schon als Kind
 jeden Urlaub minutiös genau aufgezeichnet habe, mit den Namen der Campingplätze,
@@ -119,3 +119,5 @@ Auskopplung: "Para". Für alle, die es wie ich nicht mehr erwarten können: Das
 Album kann bereits vorbestellt werden.
 
 [youtube=http://www.youtube.com/watch?feature=player_embedded&amp;v=qM_Euc5saPI]
+
+  

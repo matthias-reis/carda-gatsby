@@ -23,5 +23,12 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11388"
-subTitle: " bei Augsburg"
+image: /img/demo.jpg
+errors: []
+subTitle: Gesehen in <a
+  href="http://cardamonchai.com/2009/07/mering/">Mering</a> bei Augsburg
+  
 ---
+
+
+  

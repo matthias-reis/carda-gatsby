@@ -4,12 +4,11 @@ seoTitle: Natronfreie Cremedeos von Sauberkunst - zarter Duft für sensible Haut
 slug: natronfreie-cremedeos-von-sauberkunst
 link: /2019/01/natronfreie-cremedeos-von-sauberkunst/
 fileName: 2019-01---natronfreie-cremedeos-von-sauberkunst.md
-description:
-  "Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne
-  Natron! Ich habe sie getestet und möchte Euch heute darüber berichten."
-excerpt:
-  "Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne
-  Natron! Ich habe sie getestet und möchte Euch heute darüber berichten."
+description: "Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues:
+  Deocremes ohne Natron! Ich habe sie getestet und möchte Euch heute darüber
+  berichten."
+excerpt: "Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes
+  ohne Natron! Ich habe sie getestet und möchte Euch heute darüber berichten."
 focusKeyword: Natronfreie Cremedeos
 labels:
   - Cremedeos ohne Natron
@@ -34,13 +33,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23212"
+image: /img/demo.jpg
+errors: []
 subTitle: Zarter Duft für sensible Haut
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne
-Natron! Ich habe sie getestet und möchte Euch heute darüber berichten.</strong>
+**Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne
+Natron! Ich habe sie getestet und möchte Euch heute darüber berichten.**
 
 Insgesamt gibt es vier spannende Duftrichtungen: "Zeus &amp; Aphrodite",
 "Grapefruit rosé", "Blaue Lagune" und "Fräulein Grün". "Fräulein Grün" soll an
@@ -134,8 +136,10 @@ möchte, kann gerne [hier klicken](/2018/02/unboxing-sauberkunst/).
 
 [gallery type="rectangular" link="none" size="medium" ids="23216,23213"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
 
 &nbsp;
+
+  

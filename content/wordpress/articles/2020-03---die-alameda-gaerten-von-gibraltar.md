@@ -4,13 +4,11 @@ seoTitle: Die Alameda Gärten von Gibraltar
 slug: die-alameda-gaerten-von-gibraltar
 link: /2020/03/die-alameda-gaerten-von-gibraltar/
 fileName: 2020-03---die-alameda-gaerten-von-gibraltar.md
-description:
-  In den Alameda Gärten am Fuße des Gibraltarfelsens gedeihen die schönsten
-  Pflanzen. Sie werden bewusst torffrei betrieben. Auf Pestizide wird
+description: In den Alameda Gärten am Fuße des Gibraltarfelsens gedeihen die
+  schönsten Pflanzen. Sie werden bewusst torffrei betrieben. Auf Pestizide wird
   verzichtet.
-excerpt:
-  In den Alameda Gärten am Fuße des Gibraltarfelsens gedeihen die schönsten
-  Pflanzen. Sie werden bewusst torffrei betrieben. Auf Pestizide wird
+excerpt: In den Alameda Gärten am Fuße des Gibraltarfelsens gedeihen die
+  schönsten Pflanzen. Sie werden bewusst torffrei betrieben. Auf Pestizide wird
   verzichtet.
 focusKeyword: Alameda Gärten
 labels:
@@ -30,13 +28,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28770"
+image: /img/demo.jpg
+errors: []
 subTitle: Botanische Vielfalt im Süden
+  
 ---
 
-<strong>Was mir in Südspanien besonders gut gefallen hat, sind die Aloe Vera
-Pflanzen, die überall zu wachsen scheinen. Sie gedeihen auch in den Alameda
-Gärten am Fuße des Gibraltarfelsens. Bevor es auf den Gipfel ging, haben wir
-ihnen einen Besuch abgestattet.</strong>
+**Was mir in Südspanien besonders gut gefallen hat, sind die Aloe Vera Pflanzen,
+die überall zu wachsen scheinen. Sie gedeihen auch in den Alameda Gärten am Fuße
+des Gibraltarfelsens. Bevor es auf den Gipfel ging, haben wir ihnen einen Besuch
+abgestattet.**
 
 Die Parkanlage ist Montags bis Sonntags von 9:00 Uhr bis 18:00 Uhr geöffnet und
 der Eintritt ist frei. Die Atmosphäre in den Gärten ist einfach wunderbar.
@@ -62,3 +63,5 @@ nicht die Zerstörung der Torfmoore in Nordeuropa zu unterstützen, die wichtige
 Lebensräume für Wildtiere bieten.
 
 [glry name="alameda"]
+
+  

@@ -4,13 +4,12 @@ seoTitle: Bob Dylan stellt neuen Song vor
 slug: bob-dylan-stellt-neuen-song-duquesne-whistle-vor
 link: /2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/
 fileName: 2012-08---bob-dylan-stellt-neuen-song-duquesne-whistle-vor.md
-description:
-  Seit mehr als 50 Jahren ist Bob Dylan nun als Musiker unterwegs. Eine lange
-  Zeit, in der er musikalisch die verschiedensten Stile durchlaufen hat.
-excerpt:
-  Seit mehr als 50 Jahren ist Bob Dylan nun als Musiker unterwegs. Eine lange
-  Zeit, in der er musikalisch die verschiedensten Stile durchlaufen hat, sich
-  selbst blieb er dabei immer treu.
+description: Seit mehr als 50 Jahren ist Bob Dylan nun als Musiker unterwegs.
+  Eine lange Zeit, in der er musikalisch die verschiedensten Stile durchlaufen
+  hat.
+excerpt: Seit mehr als 50 Jahren ist Bob Dylan nun als Musiker unterwegs. Eine
+  lange Zeit, in der er musikalisch die verschiedensten Stile durchlaufen hat,
+  sich selbst blieb er dabei immer treu.
 focusKeyword: Bob Dylan
 labels:
   - Bands & Reviews
@@ -40,10 +39,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4106"
+image: /img/demo.jpg
+errors: []
 subTitle: Album "Tempest" im September
+  
 ---
-
-![](http://cardamonchai.files.wordpress.com/2012/08/bobdylan.jpg?w=220)
 
 Einige der poetischsten Texte aller Zeiten stammen aus Dylans Feder. Er hat
 ganze Generationen von Musikern und Textern mit seiner besonderen Art, die Welt
@@ -78,4 +78,6 @@ September angekündigte Album steigt ins Unermessliche.
 Die Stimmprobleme, die man Bob Dylan vor einigen Jahren nachsagte, hat er weit
 hinter sich gelassen.
 
-[](http://www.npr.org/player/v2/mediaPlayer.html?action=1&t=1&islist=false&id=160015988&m=160017027)
+[**Hier ist für Euch Bob Dylan mit "Duquesne Whistle" von seinem Album "Tempest"**](http://www.npr.org/player/v2/mediaPlayer.html?action=1&t=1&islist=false&id=160015988&m=160017027)
+
+  

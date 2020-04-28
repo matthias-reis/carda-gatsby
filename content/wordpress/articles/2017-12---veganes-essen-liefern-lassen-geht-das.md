@@ -4,14 +4,12 @@ seoTitle: Veganes Essen liefern lassen - Geht das? Mein Erfahrungsbericht
 slug: veganes-essen-liefern-lassen
 link: /2017/12/veganes-essen-liefern-lassen/
 fileName: 2017-12---veganes-essen-liefern-lassen-geht-das.md
-description:
-  Veganes Essen liefern lassen - Geht das? Hier ist meine Antwort. Sie wird
-  einige erstaunen und viele erfreuen. Ich wünsche Euch allen einen guten
-  Appetit.
-excerpt:
-  Affiliate Links - Veganes Essen liefern lassen - Geht das? Hier ist meine
-  Antwort. Sie wird einige erstaunen und viele erfreuen. Ich wünsche Euch allen
-  einen guten Appetit.
+description: Veganes Essen liefern lassen - Geht das? Hier ist meine Antwort.
+  Sie wird einige erstaunen und viele erfreuen. Ich wünsche Euch allen einen
+  guten Appetit.
+excerpt: Affiliate Links - Veganes Essen liefern lassen - Geht das? Hier ist
+  meine Antwort. Sie wird einige erstaunen und viele erfreuen. Ich wünsche Euch
+  allen einen guten Appetit.
 focusKeyword: Veganes Essen liefern lassen
 labels:
   - Lieferdienst
@@ -31,17 +29,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18651"
+image: /img/demo.jpg
+errors: []
 subTitle: Mein Erfahrungsbericht
+  
 ---
 
-<em>Affiliate Links\*</em>
+_Affiliate Links\*_
 
-<strong>"Kannst Du Dir als Veganerin dann auch einfach mal ne Pizza bestellen,
-wenn Du nach einem langen Tag abends keine Lust mehr hast, was zu kochen?". Das
-wurde ich unlängst gefragt. Die gute Nachricht ist: Ja, das geht. Immer besser
-sogar!</strong>
+**"Kannst Du Dir als Veganerin dann auch einfach mal ne Pizza bestellen, wenn Du
+nach einem langen Tag abends keine Lust mehr hast, was zu kochen?". Das wurde
+ich unlängst gefragt. Die gute Nachricht ist: Ja, das geht. Immer besser
+sogar!**
 
-In der ersten Zeit als [Rezepte](/category/vegan-2/) aus, aber ab und zu,
+In der ersten Zeit als [Veganer](/category/vegan-2/) haben mein Mann und ich an
+sowas wie Essensbestellungen gar nicht gedacht. Wir waren einfach zu sehr damit
+beschäftigt, neue, tolle Lebensmittel auszuprobieren. Auch heute denken wir uns
+noch täglich neue [Rezepte](/category/vegan-2/rezepte/) aus, aber ab und zu,
 schleicht sich dann auch mal die Faulheit ein oder der Stress ist zu groß und
 dann greifen wir auch mal zum Laptop und suchen uns online was Leckeres aus.
 
@@ -93,7 +97,9 @@ Das vegane Zeitalter hat also inzwischen auch Couchpotatoville und Netflixhausen
 erreicht. Darauf erstmal ein paar vegane Sommerrollen. Oder doch lieber Sushi
 heute?
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+  [Transparenz-Seite](/werbung/). _
+
+  

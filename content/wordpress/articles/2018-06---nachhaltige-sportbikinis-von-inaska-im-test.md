@@ -4,13 +4,12 @@ seoTitle: Nachhaltige Sportbinikis aus Fischernetzen von Inaska im Test
 slug: inaska-sportbikinis
 link: /2018/06/inaska-sportbikinis/
 fileName: 2018-06---nachhaltige-sportbikinis-von-inaska-im-test.md
-description:
-  Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis aus
-  Fischernetzen. Ich hatte jetzt Gelegenheit, mein Lieblingsmodell zu testen.
-excerpt:
-  Werbung - Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis
-  aus Fischernetzen und anderem Meeresmüll. Ich hatte jetzt Gelegenheit, mein
-  Lieblingsmodell zu testen.
+description: Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis
+  aus Fischernetzen. Ich hatte jetzt Gelegenheit, mein Lieblingsmodell zu
+  testen.
+excerpt: Werbung - Kennt Ihr schon Inaska? Der Name steht für nachhaltige
+  Sportbikinis aus Fischernetzen und anderem Meeresmüll. Ich hatte jetzt
+  Gelegenheit, mein Lieblingsmodell zu testen.
 focusKeyword: Inaska
 labels:
   - Bikini
@@ -47,15 +46,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21166"
+image: /img/demo.jpg
+errors: []
 subTitle: Bademode aus Fischernetzen
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis aus
+**Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis aus
 Fischernetzen und anderem
 [Meeresmüll](/2017/08/kenia-sagt-plastiktueten-nein-danke/). Ich hatte jetzt
-Gelegenheit, mein Lieblingsmodell zu testen.</strong>
+Gelegenheit, mein Lieblingsmodell zu testen.**
 
 Das Besondere: Oberteil und Höschen werden getrennt von einander ausgesucht.
 Dadurch kann man ganz nach Figurtyp und persönlichen Vorzügen kombinieren.
@@ -168,6 +170,8 @@ mal anschauen möchte, findet Inaska
 [gallery type="rectangular" link="none" size="large"
 ids="21175,21172,21171,21169,21164"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

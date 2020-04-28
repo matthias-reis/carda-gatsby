@@ -4,12 +4,10 @@ seoTitle: '"While You Still Can" - das neue Album von Vinny Peculiar'
 slug: while-you-still-can-vinny-peculiar
 link: /2019/10/while-you-still-can-vinny-peculiar/
 fileName: 2019-10---das-neue-album-von-vinny-peculiar.md
-description:
-  '"While You Still Can" - das neue Vinny Peculiar Album kann ab sofort
-  vorbestellt werden. Ich habe es schon angehört und lege es Euch hiermit ans
-  Herz.'
-excerpt:
-  '"While You Still Can" - das neue Vinny Peculiar Album kann ab sofort
+description: '"While You Still Can" - das neue Vinny Peculiar Album kann ab
+  sofort vorbestellt werden. Ich habe es schon angehört und lege es Euch hiermit
+  ans Herz.'
+excerpt: '"While You Still Can" - das neue Vinny Peculiar Album kann ab sofort
   vorbestellt werden. Ich habe es schon angehört und lege es Euch hiermit ans
   Herz.'
 focusKeyword: While You Still Can
@@ -28,12 +26,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26500"
+image: /img/demo.jpg
+errors: []
 subTitle: '"While You Still Can"'
+  
 ---
 
-<strong>Das neue Album von Vinny Peculiar kann ab sofort online vorbestellt
-werden. Ich durfte es schon hören und möchte Euch an meiner Freude über die gute
-Musik gerne teilhaben lassen.</strong>
+**Das neue Album von Vinny Peculiar kann ab sofort online vorbestellt werden.
+Ich durfte es schon hören und möchte Euch an meiner Freude über die gute Musik
+gerne teilhaben lassen.**
 
 Vinny Peculiar kennt Ihr schon. Vor ein paar Tagen haben ich
 [ein Interview mit ihm](/2019/09/vinny-peculiar-interview/) veröffentlicht.
@@ -111,6 +112,10 @@ er seine Fans permanent auf dem Laufenden. Psst: Ihr findet dort auch kostenlose
 Downloads.
 
 Hat Euch meine Rezension gefallen? Das freut mich! Wenn Ihr in Zukunft nichts
-mehr verpassen möchtet,
-[nehmt für ein Interview oder/und eine Review gerne Kontakt mit mir auf](#newsletter).
+mehr verpassen möchtet, [abonniert gerne meinen Newsletter](#newsletter). Dann
+werdet Ihr regelmäßig über neue Artikel informiert. Solltet Ihr selbst auch
+Musiker\*innen sein, 
+[nehmt für ein Interview oder/und eine Review gerne Kontakt mit mir auf](mailto:info@cardamonchai.com).
 Ich freue mich auf Euch!
+
+  

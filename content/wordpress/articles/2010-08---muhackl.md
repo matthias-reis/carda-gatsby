@@ -4,11 +4,9 @@ seoTitle: Hassliebe veröffentlichen neue Platte
 slug: hassliebe-veroffentlichen-am-3-september-ihre-neue-platte-muhackl-die-boarische-ep-ich-habe-schon-mal-reingehort
 link: /2010/08/hassliebe-veroffentlichen-am-3-september-ihre-neue-platte-muhackl-die-boarische-ep-ich-habe-schon-mal-reingehort/
 fileName: 2010-08---muhackl.md
-description:
-  Die neue Platte „Muhackl - Die boarische EP“ von Hassliebe kommt sehr
-  kraftvoll und energiegeladen. Das Trio hat einige der Lieblingslieder.
-excerpt:
-  Die neue Platte „Muhackl - Die boarische EP“ von Hassliebe kommt sehr
+description: Die neue Platte „Muhackl - Die boarische EP“ von Hassliebe kommt
+  sehr kraftvoll und energiegeladen. Das Trio hat einige der Lieblingslieder.
+excerpt: Die neue Platte „Muhackl - Die boarische EP“ von Hassliebe kommt sehr
   kraftvoll und energiegeladen. Das Trio hat einige der Lieblingslieder.
 focusKeyword: Hassliebe
 labels:
@@ -30,15 +28,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11532"
+image: /img/demo.jpg
+errors: []
 subTitle: Neue EP von Hassliebe
+  
 ---
-
-![Hassliebe](http://cardamonchai.com/wp-content/uploads/2010/08/hassliebe.jpg)
-
-<strong>2006 wurde von Sänger Daniel Frisch, Schlagzeuger Klaus Müller und
-Gitarrist Manuel Gläser in Donauwörth die Band HASSLIEBE gegründet. Noch im
-selben Jahr gewann die Band den Bandkontest „RT 1 Nordschwaben Top Act Festival“
-und den Wettbewerb „Kulturspektakel“ in München.</strong><strong>
 
 Anfang 2008 sagte der Produzent John Caffery (TOTE HOSEN, EINSTÜRZENDE
 NEUBAUTEN) zu, das Debutalbum der Band zu produzieren. Die Single „Warum“, die
@@ -47,7 +41,9 @@ im selben Jahr erschien, wurde auf 40 Radiosendern gespielt.
 Am 15. August 2008 spielten „Hassliebe“ ein Konzert mit den TOTEN HOSEN. Von da
 an ging es steil bergauf. Es folgten Auftritte auf diversen Festivals, unter
 anderem auf dem
-[„Backstage Open 2009“.](http://www.myheimat.de/neu-ulm/kultur/wiley-open-air-in-neu-ulm-mit-den-toten-hosen-am-15-august-2009-d122162.html)
+[„Wiley Open Air 2009“](http://www.myheimat.de/neu-ulm/kultur/wiley-open-air-in-neu-ulm-mit-den-toten-hosen-am-15-august-2009-d122162.html)
+und auf dem
+[„Backstage Open 2009“.](http://www.myheimat.de/muenchen/kultur/backstage-open-festival-in-muenchen-d110783.html)
 
 2009 unterschrieben HASSLIEBE ihren Plattenvertrag bei südpolrecords. 2010 wurde
 das Debutalbum „Niemandsland“ veröffentlicht.
@@ -95,11 +91,14 @@ unterwegs nur ungern verzichten. Die weiteren Stücke „Nua oamoi“, „Mit Di
 Hassliebe ab, die vielleicht außerhalb Bayerns noch nicht so bekannt ist, die
 aber einen tieferen Einblick in die Seele dieser vielseitigen Band ist.
 
-<strong><span style="text-decoration: underline;">Tracklist der
-Platte:</span></strong><ol><li>Muhackl</li><li>Nua
-Oamoi</li><li>Dahoam</li><li>Stopp die Zeit</li><li>Loamiasiader
-Blues</li><li>Mit Dir</li><li>Nua Oamoi
-(Lagerfeuer-Mix)</li></ol><strong><span style="text-decoration: underline;">Livetermine:</span></strong>
+**Tracklist der Platte:** 1. Muhackl
+
+1.  Nua Oamoi
+1.  Dahoam
+1.  Stopp die Zeit
+1.  Loamiasiader Blues
+1.  Mit Dir
+1.  Nua Oamoi (Lagerfeuer-Mix) **Livetermine:**
 
 06.08.2010 München/Theatron 07.08.2010 Ulm/Schlossgarten Dellmensingen
 03.09.2010 Augsburg/ Kantine 04.09.2010 Bamberg/Sound-n-Arts Music Club
@@ -109,7 +108,8 @@ Stuttgart/Keller Club 15.10.2010 Oberhausen/T-Club (Turbinenhalle) 04.11.2010
 Regensburg/Alte Mälze 05.11.2010 München/Backstage 06.11.2010 Augsburg/Monsters
 of Rock 12.11.2010 Ansbach/Kammerspiele
 
-<em> [Homepage](http://www.hassliebe.de) Hassliebe</em><em>Quelle: südpolrecords
-GmbH</em>
+_ [Homepage](http://www.hassliebe.de) Hassliebe_ _Quelle: südpolrecords GmbH_
 
 &nbsp;
+
+  

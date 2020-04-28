@@ -4,13 +4,11 @@ seoTitle: Meine neue vegane Handtasche von Matt&Nat - Danke, liebe zauberisch!
 slug: meine-neue-vegane-handtasche-von-mattnat
 link: /2016/12/meine-neue-vegane-handtasche-von-mattnat/
 fileName: 2016-12---ich-habe-gewonnen.md
-description:
-  Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel mitgemacht und
-  habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche gewonnen!
-  zauberisch
-excerpt:
-  Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel mitgemacht und
-  habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche gewonnen!
+description: Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel
+  mitgemacht und habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche
+  gewonnen! zauberisch
+excerpt: Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel mitgemacht
+  und habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche gewonnen!
 focusKeyword: Matt&Nat
 labels:
   - Handtasche
@@ -26,20 +24,25 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15394"
+image: /img/demo.jpg
+errors: []
 subTitle: Meine neue vegane Handtasche von Matt&amp;Nat
+  
 ---
 
-<em>Produktplatzierung\*</em>
+_Produktplatzierung\*_
 
-<strong>Vor Kurzem habe ich mal wieder bei einem Instagram-Gewinnspiel
-mitgemacht. Die liebste @zauberisch hat eine wundervolle Handtasche aus dem
-Hause Matt&amp;Nat verlost. Da musste ich einfach mitmachen! Wie lange wünsche
-ich mir schon eines dieser wunderschönen Stücke!</strong>
+**Vor Kurzem habe ich mal wieder bei einem Instagram-Gewinnspiel mitgemacht. Die
+liebste @zauberisch hat eine wundervolle Handtasche aus dem Hause Matt&amp;Nat
+verlost. Da musste ich einfach mitmachen! Wie lange wünsche ich mir schon eines
+dieser wunderschönen Stücke!**
 
 ![Matt&Nat](http://cardamonchai.com/wp-content/uploads/2016/12/31273625532_7fc9722131_z-640x427.jpg)
 
-aka Julia ein ganz besonderes Video fand. Zusammen mit ihrem lieben Kater Joshi,
-den ich seit ich ihn das erste Mal auf einem Bild gesehen habe, liebe, hat sie
+Ich konnte mein Glück kaum fassen, als ich letzten Montag auf Instagram klickte
+und auf dem Profil von [@zauberisch](https://zauberisch.wordpress.com/)  aka
+Julia ein ganz besonderes Video fand. Zusammen mit ihrem lieben Kater Joshi, den
+ich seit ich ihn das erste Mal auf einem Bild gesehen habe, liebe, hat sie
 ausgerechnet meinen Namen aus dem Lostopf gezogen! Das Video musste ich mir
 wieder und wieder anschauen, zu süß, wie der Kleine ihr assistiert hat! &lt;3
 
@@ -53,12 +56,12 @@ von Paula's Choice, ein hübsche
 Katzenform.
 
 Sogar ein paar Mäuse für meine Kater
-[Chili](/2016/05/kater-oskar-freut-sich-auf-altona/)  waren dabei! Als ich das
-Paket am Samstag ausgepackt habe, war das für mich wie Weihnachten und
-Geburtstag an einem Tag. Alles war komplett auf mich abgestimmt. Ich habe
-richtig geweint vor Freude! Vielen vielen lieben Dank, liebe @zauberisch auch
-noch mal an dieser Stelle! Wirklich himmlisch, so was Schönes erlebt man echt
-nicht alle Tage!
+[Oskar](/2016/05/kater-oskar-freut-sich-auf-altona/) und
+[Chili](/2012/08/ode-an-den-kater/)  waren dabei! Als ich das Paket am Samstag
+ausgepackt habe, war das für mich wie Weihnachten und Geburtstag an einem Tag.
+Alles war komplett auf mich abgestimmt. Ich habe richtig geweint vor Freude!
+Vielen vielen lieben Dank, liebe @zauberisch auch noch mal an dieser Stelle!
+Wirklich himmlisch, so was Schönes erlebt man echt nicht alle Tage!
 
 Die Handtaschen von Matt&amp;Nat sind komplett vegan, sie werden aus recycelten
 Materialien hergestellt. Meine ist zu 100 Prozent aus alten Plastikflaschen
@@ -92,7 +95,9 @@ wieder Fotos von [Chili und Oskar](/2015/12/katzen-wuerden-minze-klauen/) sehen.
 
 [myflickr tag="annemattandnat"]
 
-\*<em>Hinweis</em>: <em>Dieser Beitrag enthält Produktplatzierungen. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. In diesem Fall habe ich das
-Produkt sogar gewonnen.  Infos zum Thema Produktplatzierungen findet Ihr auf
-meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis_ : _Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine
+  Meinung wurden dadurch nicht beeinflusst. In diesem Fall habe ich das Produkt
+  sogar gewonnen.  Infos zum Thema Produktplatzierungen findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
+
+  

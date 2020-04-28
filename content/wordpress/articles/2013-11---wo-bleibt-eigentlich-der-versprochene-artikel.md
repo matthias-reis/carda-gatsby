@@ -4,11 +4,10 @@ seoTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag
 slug: wo-bleibt-eigentlich-der-versprochene-artikel
 link: /2013/11/wo-bleibt-eigentlich-der-versprochene-artikel/
 fileName: 2013-11---wo-bleibt-eigentlich-der-versprochene-artikel.md
-description:
-  Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
-  angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.
-excerpt:
-  Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
+description: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so
+  großspurig angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch
+  schulde.
+excerpt: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
   angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.
 focusKeyword: Artikel
 labels:
@@ -27,14 +26,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7571"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
 ![Bild: Anne Reko 2009](http://cardamonchai.files.wordpress.com/2013/11/liebe-baum.jpg?w=300 "Bild: Anne Reko 2009")
 
-<strong>Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
-angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch
-schulde.</strong>
+**Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so großspurig
+angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch schulde.**
 
 Ich weiß, es sind noch eine ganze Menge weitere Beiträge, die ich posten wollte,
 aber Ihr wisst ja: Was kümmert mich mein Geschwätz von...
@@ -80,3 +81,5 @@ Mein Plan: Sie irgendwann, wenn das Wetter und die Zeit es zulassen zu suchen
 und zu bereisen.
 
 ![Die Urkunden | full](http://cardamonchai.files.wordpress.com/2013/11/urkunde.jpg "Die Urkunden")
+
+  

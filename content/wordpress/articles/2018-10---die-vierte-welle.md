@@ -1,17 +1,14 @@
 ---
 title: Die vierte Welle
-seoTitle:
-  Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
+seoTitle: Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
 slug: kurzgeschichte-die-vierte-welle
 link: /2018/10/kurzgeschichte-die-vierte-welle/
 fileName: 2018-10---die-vierte-welle.md
-description:
-  'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine
+description: 'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine
   Science-Fiction Kurzgeschichte veröffentlicht. Doch: "Die vierte Welle" ist
   erst der Anfang!'
-excerpt:
-  'Werbung in eigener Sache / Affiliate Links - Heute ist es endlich soweit und
-  ich lüfte das Geheimnis: Matze und ich haben eine Science-Fiction
+excerpt: 'Werbung in eigener Sache / Affiliate Links - Heute ist es endlich
+  soweit und ich lüfte das Geheimnis: Matze und ich haben eine Science-Fiction
   Kurzgeschichte veröffentlicht. Der Clou: "Die vierte Welle" ist erst der
   Anfang!'
 focusKeyword: Science-Fiction Kurzgeschichte
@@ -36,28 +33,37 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22233"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (32:58)"
 subTitle: Science-Fiction aus dem Hause Reis
+  
 ---
 
-<em>Werbung in eigener Sache / Affiliate Links\*</em>
+## unknown: Expected corresponding JSX closing tag for <p> (32:58)
 
-<strong>Heute ist es endlich soweit und ich lüfte das Geheimnis, das ich so
-lange gehütet habe: Matze und ich haben zusammen eine Kurzgeschichte
-geschrieben. Doch "Die vierte Welle", so haben wir unser Werk getauft, ist erst
-der Anfang!</strong>
+<!--
+_Werbung in eigener Sache / Affiliate Links\*_
+
+**Heute ist es endlich soweit und ich lüfte das Geheimnis, das ich so lange
+gehütet habe: Matze und ich haben zusammen eine Kurzgeschichte geschrieben. Doch
+"Die vierte Welle", so haben wir unser Werk getauft, ist erst der Anfang!**
 
 Das klingt spannend, oder? Ihr könnt Euch gar nicht vorstellen, wie sehr ich
-mich freue! <strong>"Die vierte Welle"</strong> wurde bereits veröffentlicht und
-das Tolle ist: Ihr könnt sie sofort lesen, wenn Ihr wollt!
+mich freue! **"Die vierte Welle"** wurde bereits veröffentlicht und das Tolle
+ist: Ihr könnt sie sofort lesen, wenn Ihr wollt!
 
 Dafür gibt es zwei Möglichkeiten: Entweder Ihr habt einen Kindle, dann könnt ihr
-sie [das Buch erstehen](https://amzn.to/2RjhgjP). Der Preis ist
-selbstverständlich gleich.
+sie [für schlanke 99 Cent runterladen](https://amzn.to/2RjhgjP) und genießen.
+Alle anderen können sich die Kindle-App auf das Smartphone oder Tablet laden und
+[das Buch erstehen](https://amzn.to/2RjhgjP). Der Preis ist selbstverständlich
+gleich.
 
 Eines möchte ich an dieser Stelle gerne gleich mal loswerden: Ich weiß, viele
 von Euch sind echte Leseratten und lieben eine gute Geschichte. Aus diesem Grund
-möchte ich Euch gerne um <strong>Eure tatkräftige Unterstützung</strong> bitten.
-Wir würden uns unheimlich freuen, wenn Ihr uns
+möchte ich Euch gerne um **Eure tatkräftige Unterstützung** bitten. Wir würden
+uns unheimlich freuen, wenn Ihr uns
 [auf Amazon eine Bewertung hinterlasst](https://amzn.to/2RjhgjP). Das wäre für
 uns wirklich das Allergrößte!
 
@@ -73,12 +79,18 @@ bis ins Detail ausgebildet und auf das Leben auf engstem Raum vorbereitet.
 Mit ihrer Ankunft in dem fremden Universum können sie endlich mit dem
 Terraforming und der anschließenden Besiedlung beginnen.</blockquote>
 
-[eine eigene Homepage für unsere Bücher](https://amzn.to/2RjhgjP) gebaut. Dort
-findet Ihr unter anderem auch schon eine Leseprobe von "Die Hermetiker".
+[Die Geschichte um Mijkl und seine Gefährt\*innen](https://amzn.to/2RjhgjP) ist,
+wie schon kurz angedeutet, nicht unser einziges Projekt, in dem wir uns als
+Schriftsteller-Ehepaar versucht haben. In Kürze schon steht etwas Größeres an:
+Ein Roman! Für die Neugierigen unter Euch hat Matze
+[eine eigene Homepage für unsere Bücher](https://amreis.de/) gebaut. Dort findet
+Ihr unter anderem auch schon eine Leseprobe von "Die Hermetiker".
 
-![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/die-vierte-Welle.png " [Jetzt Webseite besuchen](https://amreis.de/) ")
+![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/die-vierte-Welle.png '[ ](https://amreis.de/)  "Die vierte Welle" - Eine Science-Fiction Kurzgeschichte von A. M. Reis -  [Jetzt Webseite besuchen](https://amreis.de/)')
 
 Wie gefällt Euch die Seite? Und vor allem, wie gefällt Euch das
+[unsere Kurzgeschichte](https://amzn.to/2RjhgjP) ? Ich bin schon sehr gespannt!
+Besonders klasse wäre es, wie gesagt, wenn Ihr uns
 [Eure Rezension auf Amazon](https://amzn.to/2RjhgjP) hinterlasst. Außerdem könnt
 Ihr unsere freudigen Nachrichten natürlich auch herzlich gerne weitererzählen!
 Leute, wir brauchen wirklich Eure Unterstützung! Das würde uns sehr glücklich
@@ -92,9 +104,13 @@ Hermetiker". Doch dazu bald mehr...
 
 [📖 Jetzt Buch auf Amazon ansehen](https://amzn.to/2RjhgjP)
 
-![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/amreis.png " [Jetzt Webseite besuchen](https://amreis.de/) ")
+![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/amreis.png "[ ](https://amreis.de/)  A. M. Reis - Das Schriftsteller-Ehepaar -  [Jetzt Webseite besuchen](https://amreis.de/)")
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung (in diesem Fall in eigener Sache)
-und Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht
-beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung (in diesem Fall in eigener Sache) und
+  Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht
+  beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
+  meiner  [Transparenz-Seite](/werbung/). _
+
+-->
+
+  

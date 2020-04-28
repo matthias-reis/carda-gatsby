@@ -4,12 +4,11 @@ seoTitle: Schnellste Platte der Welt veröffentlicht! - Sondermeldung!
 slug: sondermeldung-schnellste-platte-der-welt-veroffentlicht
 link: /2014/04/sondermeldung-schnellste-platte-der-welt-veroffentlicht/
 fileName: 2014-04---sondermeldung-schnellste-platte-der-welt-veroeffentlicht.md
-description:
-  Jack White setzt mal wieder noch eins obendrauf - Jetzt veröffentlichte er die
-  schnellste Platte der Welt! Ich habe sie schon mal angehört!
-excerpt:
-  Jack White setzt mal wieder noch eins obendrauf - Jetzt veröffentlichte er die
-  schnellste Platte der Welt! Ich habe sie schon mal angehört!
+description: Jack White setzt mal wieder noch eins obendrauf - Jetzt
+  veröffentlichte er die schnellste Platte der Welt! Ich habe sie schon mal
+  angehört!
+excerpt: Jack White setzt mal wieder noch eins obendrauf - Jetzt veröffentlichte
+  er die schnellste Platte der Welt! Ich habe sie schon mal angehört!
 focusKeyword: Schnellste Platte der Welt
 labels:
   - Bands & Reviews
@@ -37,18 +36,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4414"
+image: /img/demo.jpg
+errors: []
 subTitle: Jack White setzt noch eins obendrauf!
+  
 ---
 
-<h3>Nachtrag zu meinem heutigen Artikel über Jacks neue Single
-"High Ball Stepper"</h3>
+![Bild: Jack White Interview Magazine That Eric Alper](http://cardamonchai.files.wordpress.com/2014/04/jack-white-interview-magazine-02-700x904.jpg?w=232 "[ ](http://www.google.de/imgres?imgurl=http%3A%2F%2Fwww.thatericalper.com%2Fwp-content%2Fuploads%2F2014%2F04%2FJack-White-Interview-Magazine-02.jpg&imgrefurl=http%3A%2F%2Fwww.thatericalper.com%2F2014%2F04%2F07%2Fjack-white-announces-headlining-tour-dates%2F&h=1600&w=1238&tbnid=oPRi6DO3D07_5M%3A&zoom=1&docid=96jHXz6LoCOvXM&ei=c6hWU_6zB4LQtAb5s4DgCA&tbm=isch&client=safari&iact=rc&uact=3&dur=226&page=1&start=0&ndsp=23&ved=0CF8QrQMwAAhttp://)  Bild: Jack White Interview Magazine That Eric Alper")
 
-![Bild: Jack White Interview Magazine That Eric Alper](http://cardamonchai.files.wordpress.com/2014/04/jack-white-interview-magazine-02-700x904.jpg?w=232 " [](http://www.google.de/imgres?imgurl=http%3A%2F%2Fwww.thatericalper.com%2Fwp-content%2Fuploads%2F2014%2F04%2FJack-White-Interview-Magazine-02.jpg&imgrefurl=http%3A%2F%2Fwww.thatericalper.com%2F2014%2F04%2F07%2Fjack-white-announces-headlining-tour-dates%2F&h=1600&w=1238&tbnid=oPRi6DO3D07_5M%3A&zoom=1&docid=96jHXz6LoCOvXM&ei=c6hWU_6zB4LQtAb5s4DgCA&tbm=isch&client=safari&iact=rc&uact=3&dur=226&page=1&start=0&ndsp=23&ved=0CF8QrQMwAAhttp://)  Bild: Jack White Interview Magazine That Eric Alper")
-
-<strong>Bereits vor ein paar Stunden
+**Bereits vor ein paar Stunden
 [titelte ich mit Jack White](//2014/04/22/jack-white-stellt-neuen-song-vor/).
 Und was macht der werte Herr? Das, was er immer tut und was wir alle von ihm
-gewohnt sind: Er setzt noch eins obendrauf!</strong>
+gewohnt sind: Er setzt noch eins obendrauf!**
 
 Es ist ihm gelungen, beim Record Store Day einen Rekord aufzustellen und in nur
 4 Stunden eine neue Single, die schnellste Platte der Welt, nicht nur
@@ -84,7 +83,9 @@ verloren, höre mir "Lazaretto" gerade zum fünften Mal an und suche wie verrüc
 nach Buchstaben, die sich irgendwie nicht zu den passenden Worten formen lassen.
 Daher lasse ich an dieser Stelle einfach die Musik für sich sprechen.
 
-<strong>Vorhang auf für die dritte Stufe der Rakete! Hier ist für Euch Jack
-White mit Lazaretto!</strong>
+**Vorhang auf für die dritte Stufe der Rakete! Hier ist für Euch Jack White mit
+Lazaretto!**
 
 [youtube http://www.youtube.com/watch?v=cYF0LtfUvJs]
+
+  

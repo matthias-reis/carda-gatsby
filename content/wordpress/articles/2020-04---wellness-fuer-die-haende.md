@@ -4,12 +4,11 @@ seoTitle: Handcreme von Santaverde - Wellness für die Hände
 slug: wellness-fuer-die-haende
 link: /2020/04/wellness-fuer-die-haende
 fileName: 2020-04---wellness-fuer-die-haende.md
-description:
-  Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet die Haut
-  unter dieser Praktik. Ich habe jetzt die Handcreme von Santaverde ausprobiert.
-excerpt:
-  Werbung - Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet
-  die Haut unter dieser Praktik. Was hilft, ist eine gute Handcreme.
+description: Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet
+  die Haut unter dieser Praktik. Ich habe jetzt die Handcreme von Santaverde
+  ausprobiert.
+excerpt: Werbung - Häufiges Händewaschen schützt nicht nur vor Corona. Leider
+  leidet die Haut unter dieser Praktik. Was hilft, ist eine gute Handcreme.
 focusKeyword: Handcreme von Santaverde
 labels:
   - Aloe Vera
@@ -28,14 +27,17 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28877"
+image: /img/demo.jpg
+errors: []
 subTitle: Handcreme von Santaverde
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Das häufige Waschen und Desinfizieren der Hände schützt nicht nur vor
-Corona. Doch leider leidet die Haut schnell unter dieser Praktik. Was hilft, ist
-eine gute Handcreme. Ich habe jetzt die von Santaverde ausprobiert.</strong>
+**Das häufige Waschen und Desinfizieren der Hände schützt nicht nur vor Corona.
+Doch leider leidet die Haut schnell unter dieser Praktik. Was hilft, ist eine
+gute Handcreme. Ich habe jetzt die von Santaverde ausprobiert.**
 
 Die intensive Aufbaupflege kommt mit Aloe Vera Saft und reichhaltigen Ölen
 daher. Beim ersten Auftragen habe ich gleich festgestellt, wie wunderbar schnell
@@ -79,8 +81,11 @@ tragen sie das Tierschutzsiegel Leaping Bunny. Dieses schließt Tierversuche an
 einzelnen Rohstoffen und an Fertigprodukten auch in Nicht-EU-Ländern wirksam
 aus.
 
-[beim Hersteller online](/tag/santaverde/) oder in ausgesuchten Biosupermärkten,
-Reformhäusern und Apotheken erwerben. <small></small>
+[Mehr über Santaverde erfahrt Ihr hier](/tag/santaverde/). Die Handcreme könnt
+Ihr, wie alles von Santaverde, direkt
+[beim Hersteller online](https://www.santaverde.de/?gclid=EAIaIQobChMI8aK3w6n36AIVWeDtCh1LSQZJEAAYASAAEgL_xvD_BwE)
+oder in ausgesuchten Biosupermärkten, Reformhäusern und Apotheken erwerben.
+<small></small>
 
 ### Santaverde Handcreme Inhaltsstoffe (Volldeklaration)
 
@@ -91,6 +96,8 @@ Sonnenblumenöl⋆, pflanzl. Anissäure, Vitamin C Palmitat, pflanzl. Levulinsä
 pflanzl. Natriumlevulinat, Natriumhydroxid, Lavendelöl\*, ätherische Öle. ⋆Aus
 kontrolliert biologischem Anbau</small>
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

@@ -5,8 +5,7 @@ slug: geocaching
 link: /2009/04/geocaching/
 fileName: 2009-04---geocaching.md
 description: Geocaching sollte wirklich jeder mal ausprobiert haben
-excerpt:
-  Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar
+excerpt: Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar
   Impressionen.
 focusKeyword: Geocaching
 labels:
@@ -20,12 +19,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11210"
+image: /img/demo.jpg
+errors: []
 subTitle: Wanderimpressionen
+  
 ---
-
-<strong>Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar
-Impressionen.</strong>
 
 [myflickr tag="geocatchinganne2009"]
 
 &nbsp;
+
+  

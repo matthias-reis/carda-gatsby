@@ -4,12 +4,11 @@ seoTitle: Mikroplastik in der Kosmetikindustrie - Umweltsünden aus der Tube
 slug: mikroplastik-in-der-kosmetik
 link: /2018/05/mikroplastik-in-der-kosmetik/
 fileName: 2018-05---mikroplastik-in-der-kosmetikindustrie.md
-description:
-  Heute möchte ich mich dem Thema Mikroplastik in der Kosmetikindustrie widmen.
-  Dabei ist es mir besonders wichtig, keinen Aspekt außen vor zu lassen.
-excerpt:
-  Heute möchte ich mich dem Thema Mikroplastik in der Kosmetikindustrie widmen.
-  Dabei ist es mir besonders wichtig, keinen Aspekt außen vor zu lassen.
+description: Heute möchte ich mich dem Thema Mikroplastik in der
+  Kosmetikindustrie widmen. Dabei ist es mir besonders wichtig, keinen Aspekt
+  außen vor zu lassen.
+excerpt: Heute möchte ich mich dem Thema Mikroplastik in der Kosmetikindustrie
+  widmen. Dabei ist es mir besonders wichtig, keinen Aspekt außen vor zu lassen.
 focusKeyword: Mikroplastik
 labels:
   - Kenia
@@ -33,13 +32,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20855"
+image: /img/demo.jpg
+errors: []
 subTitle: Umweltsünden aus der Tube
+  
 ---
 
-<strong>Das Thema Umweltverschmutzung durch Plastik habe ich hier schon einige
-Male gestreift. Auch Mikroplastik hat in dem ein oder anderen Artikel bereits
+**Das Thema Umweltverschmutzung durch Plastik habe ich hier schon einige Male
+gestreift. Auch Mikroplastik hat in dem ein oder anderen Artikel bereits
 Erwähnung gefunden. Heute möchte ich mich mal eingehend mit Mikroplastik in der
-Kosmetikindustrie beschäftigen.</strong>
+Kosmetikindustrie beschäftigen.**
 
 Um dieses Thema genauer zu beleuchten, habe ich ein paar Anläufe gebraucht. Das
 liegt einfach daran, dass ich bei der Recherche immer wieder auf neue Aspekte
@@ -92,7 +94,9 @@ Wasserkreislauf gelangt.
 
 Sandra Schötter, Meeresbiologin bei Greenpeace berichtete gegenüber ARD:
 
-<blockquote>"Das Hauptproblem ist, dass die Kosmetikindustrie sich am Begriff Mikroplastik orientiert und diesen nur auf feste Mikrokunststoffe bezieht, all die flüssigen, gel- und wachsartigen Mikrokunststoffe fallen nicht darunter."</blockquote>
+> "Das Hauptproblem ist, dass die Kosmetikindustrie sich am Begriff Mikroplastik
+> orientiert und diesen nur auf feste Mikrokunststoffe bezieht, all die
+> flüssigen, gel- und wachsartigen Mikrokunststoffe fallen nicht darunter."
 
 ## Rund 250 Kunststoffe in der Kosmetikindustrie
 
@@ -184,7 +188,11 @@ besten mithilfe von Apps wie Codecheck. Auch verschiedene
 Umweltschutz-Organisationen wie Greenpeace haben auf ihren Webseiten inzwischen
 Listen veröffentlicht, die regelmäßig aktualisiert werden.
 
-Einige Hersteller, wie zum Beispiel [Naturkosmetik](https://www.boerlind.com/)
+Einige Hersteller, wie zum Beispiel [Börlind](https://www.boerlind.com/),
+positionieren sich inzwischen in
+[offiziellen Stellungnahmen](https://www.boerlind.com/ab/wp-content/uploads/2015/07/Stellungnahme_Mikroplastik_0215.pdf)
+klar gegen die Verwendung von Mikroplastik. Hat man nicht immer die Möglichkeit,
+auf geprüfte [Naturkosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/)
 zurückzugreifen, weil man beispielsweise ein Produkt zur Behandlung eines
 bestimmten Hautproblems sucht, sollte man auf jeden Fall vor dem Kauf immer das
 Internet zur Rate ziehen und die Liste der Inhaltsstoffe so genau wie möglich
@@ -200,21 +208,27 @@ auch sie sehr wohl in die Umwelt und damit auch die Organismen von Lebewesen.
 
 Über die langfristige Wirkung, die das auf unser Ökosystem hat, kann man nur
 spekulieren. Zwar arbeiten Forscher mit Hochdruck an
-[Verzicht auf Plastik](/2018/04/forscher-hoffen-auf-plastikfressendes-enzym/)
+[Lösungen zur Reinigung der Meere](/2018/04/forscher-hoffen-auf-plastikfressendes-enzym/),
+auf Dauer wird uns jedoch ausschließlich der
+[Verzicht auf Plastik](/2017/04/interview-mit-zero-waste-aktivistin-vio/)
 weiterbringen.
 
 Dazu ein Zitat von der Homepage der Initiative Mikroplastik:
 
-<blockquote>"Es ist davon auszugehen, dass kurz- bis mittelfristig keine Technologien zur Verfügung stehen, mit denen Mikroplastik aus aquatischen Umweltsystemen zurückgeholt werden können."</blockquote>
+> "Es ist davon auszugehen, dass kurz- bis mittelfristig keine Technologien zur
+> Verfügung stehen, mit denen Mikroplastik aus aquatischen Umweltsystemen
+> zurückgeholt werden können."
 
 Staaten wie Kenia
 [gehen mit gutem Beispiel voran](/2017/08/kenia-sagt-plastiktueten-nein-danke/),
 indem sie Plastiktüten verbieten. Wir können nur hoffen, dass das schnell Schule
 macht.
 
-<strong>Bildquellen</strong> Titelbild &amp; Seifenspender:
+**Bildquellen** Titelbild &amp; Seifenspender:
 [congerdesign](https://pixabay.com/de/users/congerdesign-509903/), pixabay
 Seifenschlieren:
 [webkinzluva](https://pixabay.com/de/users/webkinzluva1598-6544824/), pixabay
 Fangnetz: [the3cats](https://pixabay.com/de/users/the3cats-2135817/), pixabay
 Hand mit Flasche: [422737](https://pixabay.com/de/users/422737-422737/), pixabay
+
+  

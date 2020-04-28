@@ -4,12 +4,11 @@ seoTitle: Der Stift - Anfang einer Geschichte, die spannend werden könnte
 slug: der-stift
 link: /2019/01/der-stift/
 fileName: 2019-01---der-stift.md
-description:
-  Aus einer Laune heraus kaufte sie sich einen schwarzen Stift, den sie sehr
-  liebte und alsbald verlor. Der alte blaue Stift konnte ihn nicht ersetzen.
-excerpt:
-  Wie ein Stift einen zum Schreiben motivieren kann, was der Strand damit zu tun
-  hat und wie eine Geschichte losgeht.
+description: Aus einer Laune heraus kaufte sie sich einen schwarzen Stift, den
+  sie sehr liebte und alsbald verlor. Der alte blaue Stift konnte ihn nicht
+  ersetzen.
+excerpt: Wie ein Stift einen zum Schreiben motivieren kann, was der Strand damit
+  zu tun hat und wie eine Geschichte losgeht.
 focusKeyword: Stift
 labels:
   - Geschichte
@@ -25,7 +24,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23209"
+image: /img/demo.jpg
+errors: []
 subTitle: Anfang einer Geschichte
+  
 ---
 
 Aus einer guten Laune heraus kaufte sie sich einen schwarzen Stift, den sie sehr
@@ -49,3 +51,5 @@ Ein Gemälde müsste man erschaffen, dachte sie bei sich. Etwas gestalten, damit
 man später nicht in Vergessenheit gerät. Vielleicht auch ein Buch. Einen dicken
 Schinken. Ein wahres Kunstwerk mit vielen hundert Seiten. Und so begann sie zu
 schreiben. Mit blauer Tinte auf weißem Papier.
+
+  

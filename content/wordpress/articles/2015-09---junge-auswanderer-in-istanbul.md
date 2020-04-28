@@ -4,12 +4,11 @@ seoTitle: Junge Auswanderer in Istanbul - Marie von Maviblau berichtet
 slug: junge-auswanderer-in-istanbul
 link: /2015/09/junge-auswanderer-in-istanbul/
 fileName: 2015-09---junge-auswanderer-in-istanbul.md
-description:
-  Sicher könnt Ihr Euch noch an Marie erinnern. Die Filmemacherin lebt in
-  Istanbul und hat jetzt ein Online-Magazin gegründet.
-excerpt:
-  Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem habe ich
-  mich wieder mit Marie unterhalten und sie hatte Interessantes zu berichten.
+description: Sicher könnt Ihr Euch noch an Marie erinnern. Die Filmemacherin
+  lebt in Istanbul und hat jetzt ein Online-Magazin gegründet.
+excerpt: Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem
+  habe ich mich wieder mit Marie unterhalten und sie hatte Interessantes zu
+  berichten.
 focusKeyword: Istanbul
 labels:
   - Auswanderer
@@ -25,19 +24,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12498"
+image: /img/demo.jpg
+errors: []
 subTitle: Marie von Maviblau berichtet
+  
 ---
 
 ![Marie lebt in ihrer Traumstadt IstanbulMarie lebt in ihrer Traumstadt Istanbul](http://cardamonchai.com/wp-content/uploads/2015/09/10446223_818332548185608_1397833157808390565_o1-640x427.jpg "Marie lebt in ihrer Traumstadt Istanbul")
 
-<strong>Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem
-habe ich mich wieder mit Marie unterhalten und sie hatte Interessantes zu
-berichten.</strong>
+**Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem habe ich
+mich wieder mit Marie unterhalten und sie hatte Interessantes zu berichten.**
 
-Gemeinsam mit Caro drehte sie den Film „Istanbul mit anderen Augen“ [](#1)
-berichteten die beiden jungen Filmemacherinnen von ihrem Leben als
-Auswanderinnen in ihrer Traumstadt Istanbul, den Protesten rund um den Gezi
-Park, ihre Erfahrungen und Erlebnisse.
+Gemeinsam mit Caro drehte sie den Film „Istanbul mit anderen Augen“
+[<sup>1</sup>](#1). Im Interview [<sup>2</sup>](#2) berichteten die beiden
+jungen Filmemacherinnen von ihrem Leben als Auswanderinnen in ihrer Traumstadt
+Istanbul, den Protesten rund um den Gezi Park, ihre Erfahrungen und Erlebnisse.
 
 Gezeigt wurde „Istanbul mit anderen Augen“ bisher 2013 beim Europe Day der Kadir
 Has Universität, als Eröffnungsfilm des International Changing Perspectives
@@ -92,15 +93,17 @@ Fernweh ist auf alle Fälle vorprogrammiert.
 Derzeit studiert Marie von Istanbul aus in Oldenburg Integrated Media. Von sich
 selbst sagt sie, dass sie kuriose Projekte und absurde Geschichten mag. Mit in
 ihrem Team Sind Bora Yeter, seines Zeichens Social Media Experte, Charlotte
-Schmitz, Fotografin, <span style="color: #161616;">Tuğba Yalçınkaya, die für
-Reportagen zuständig ist, Jane Katharina di Renzo unterstützt sie dabei und
-macht nebenbei auch noch Fotos. Jonas Wronna ist vor allem für Videos
-verantwortlich, Çetin Karanfil hat die Web-Programmierung übernommen. Übrigens
-wird man in Zukunft auch von Caro den ein oder anderen Artikel bei Maviblau
-lesen können.</span>
+Schmitz, Fotografin, Tuğba Yalçınkaya, die für Reportagen zuständig ist, Jane
+Katharina di Renzo unterstützt sie dabei und macht nebenbei auch noch Fotos.
+Jonas Wronna ist vor allem für Videos verantwortlich, Çetin Karanfil hat die
+Web-Programmierung übernommen. Übrigens wird man in Zukunft auch von Caro den
+ein oder anderen Artikel bei Maviblau lesen können.
 
 Wer sich gerne über Maviblau informieren möchte:
 [Hier geht es zum Blog](http://www.maviblau.com/). Für Interessierte: Das
 Maviblau Team ist derzeit noch auf der Suche nach Kollegen!
 
-<ul><li id="1">[1]  ["Alles andere wirkt unwichtig und banal" Marie und Caro im Interview](/2013/06/istanbul-mit-anderen-augen/) </li></ul><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+- [1][istanbul mit anderen augen](/2013/06/istanbul-mit-anderen-augen/)
+- [2]["alles andere wirkt unwichtig und banal" marie und caro im interview](/2013/06/alles-andere-wirkt-unwichtig-und-banal/)Merken
+
+  

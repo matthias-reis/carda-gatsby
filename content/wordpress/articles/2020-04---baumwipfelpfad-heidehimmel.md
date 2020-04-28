@@ -4,13 +4,12 @@ seoTitle: Baumwipfelpfad Heidehimmel - über den Bäumen wandeln
 slug: baumwipfelpfad-heidehimmel
 link: /2020/04/baumwipfelpfad-heidehimmel/
 fileName: 2020-04---baumwipfelpfad-heidehimmel.md
-description:
-  Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken wollt?
-  Eines davon ist für mich der Baumwipfelpfad Heidehimmel in der Lüneburger
-  Heide.
-excerpt:
-  Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken wollt, wenn
-  der Corona Lockdown vorbei ist? Eines davon ist für mich der Heidehimmel.
+description: Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken
+  wollt? Eines davon ist für mich der Baumwipfelpfad Heidehimmel in der
+  Lüneburger Heide.
+excerpt: Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken
+  wollt, wenn der Corona Lockdown vorbei ist? Eines davon ist für mich der
+  Heidehimmel.
 focusKeyword: Baumwipfelpfad
 labels:
   - Ausflug
@@ -30,14 +29,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28833"
+image: /img/demo.jpg
+errors: []
 subTitle: Über dem Wald wandeln
+  
 ---
 
-<strong>Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken
-wollt, wenn der Corona Lockdown vorbei ist? Eines davon ist für mich der
-Heidehimmel. Das ist ein Baumwipfelpfad in der Lüneburger Heide. Ich glaube, es
-muss ganz wunderbar sein, über den Wipfeln der Bäume zu wandeln und die Natur
-aus der Vogelperspektive zu erleben.</strong>
+**Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken wollt, wenn
+der Corona Lockdown vorbei ist? Eines davon ist für mich der Heidehimmel. Das
+ist ein Baumwipfelpfad in der Lüneburger Heide. Ich glaube, es muss ganz
+wunderbar sein, über den Wipfeln der Bäume zu wandeln und die Natur aus der
+Vogelperspektive zu erleben.**
 
 Die liebe Frau Patscheck vom Heidehimmel war so nett, mir ein paar Fotos vom
 Heidehimmel zukommen zu lassen - damit lässt es sich wunderbar von unbekannten
@@ -73,3 +75,5 @@ hoffe, wir sehen uns schon sehr bald.
 ### Adresse Heidehimmel
 
 Wildpark 1 21271 Hanstedt-Nindorf [Webseite](https://heide-himmel.de/)
+
+  

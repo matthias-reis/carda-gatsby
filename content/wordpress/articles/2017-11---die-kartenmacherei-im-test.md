@@ -1,17 +1,14 @@
 ---
 title: Die Kartenmacherei im Test
-seoTitle:
-  "Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!"
+seoTitle: "Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!"
 slug: kartenmacherei
 link: /2017/11/kartenmacherei/
 fileName: 2017-11---die-kartenmacherei-im-test.md
-description:
-  Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten schon
-  immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
+description: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten
+  schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
   Kalender.
-excerpt:
-  Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten schon
-  immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
+excerpt: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten
+  schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
   Kalender.
 focusKeyword: Kartenmacherei
 labels:
@@ -34,15 +31,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18588"
+image: /img/demo.jpg
+errors: []
 subTitle: Weihnachtsgeschenk Nummer 1
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Weil ich zu Weihnachten gerne selbstgemachte Dinge verschenke, besonders
-gerne Kalender, habe ich jetzt die Kartenmacherei\*\* getestet. Auf der Homepage
-der Kartenmacherei kann man seine persönlichen Lieblingsfotos hochladen und
-daraus einen Kalender gestalten.</strong>
+**Weil ich zu Weihnachten gerne selbstgemachte Dinge verschenke, besonders gerne
+Kalender, habe ich jetzt die Kartenmacherei\*\* getestet. Auf der Homepage der
+Kartenmacherei kann man seine persönlichen Lieblingsfotos hochladen und daraus
+einen Kalender gestalten.**
 
 ![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-8-von-16-300x200.jpg)
 
@@ -98,9 +98,9 @@ pünktlich an.
 
 ![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-4-von-16-300x200.jpg)
 
-: Ihr wollt bestimmt wissen, wie ich mit dem Ergebnis zufrieden bin? Der
-Kalender war schon mal sehr liebevoll verpackt. Er kam in blaues Seidenpapier
-eingeschlagen bei mir an.
+Doch jetzt mal ran an den [Speck](/category/vegan-2/) : Ihr wollt bestimmt
+wissen, wie ich mit dem Ergebnis zufrieden bin? Der Kalender war schon mal sehr
+liebevoll verpackt. Er kam in blaues Seidenpapier eingeschlagen bei mir an.
 
 Das Papier wirkt sehr hochwertig und stabil. Die Fotos kommen im Druck sehr gut
 raus. Ich habe meine RAW-Dateien zuvor wie gewohnt in Photoshop und Lightroom
@@ -131,12 +131,13 @@ schon mal einen Druck in Auftrag gegeben haben, wissen, dass das kein Preis ist.
 Und: Wählt man ein leichteres Papier und eine einfachere Befestigungsvariante
 kommt man ja sogar noch wesentlich günstiger weg.
 
-<strong>Mein Fazit:</strong> Kann man auf jeden Fall machen.
+**Mein Fazit:** Kann man auf jeden Fall machen.
 
 ![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-16-von-16-300x300.jpg)
 
 Einigen der Fotos im Kalender könnt Ihr auch hier im Blog begegnen.
-[hier](/2017/11/kilkenny-bunte-insel-irland/).
+[Schaut zum Beispiel mal hier vorbei](/2017/11/kilkenny-bunte-insel-irland/)
+oder [hier](/2017/07/gran-canaria-der-sueden/).
 
 Hinweis: Ich habe die einzelnen Kalenderseiten auf unserer Staffelei
 fotografiert. Die komplette Galerie findet Ihr unten. Wenn man den Kalender mit
@@ -150,3 +151,5 @@ ids="18578,18579,18580,18581,18582,18583,18588,18584,18585,18586,18587,18589"]
 <div>*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </div>
 
 <div class="product-options text4"></div>
+
+  

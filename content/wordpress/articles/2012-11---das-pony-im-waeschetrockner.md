@@ -4,12 +4,10 @@ seoTitle: Das Pony im Wäschetrockner - Die Einführung in die Gesellschaft
 slug: das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte
 link: /2012/11/das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte/
 fileName: 2012-11---das-pony-im-waeschetrockner.md
-description:
-  Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner erzählen. Es
-  ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
-excerpt:
-  Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner erzählen. Es
-  ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
+description: Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner
+  erzählen. Es ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
+excerpt: Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner
+  erzählen. Es ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
 focusKeyword: Wäschetrockner
 labels:
   - Buch
@@ -35,12 +33,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4459"
+image: /img/demo.jpg
+errors: []
 subTitle: "Oder: Wie ich meine Eltern in die Gesellschaft einführte"
+  
 ---
-
-![Wäschetrockner](http://cardamonchai.com/wp-content/uploads/2012/11/img_1155-640x640.jpg)
-
-<strong>
 
 Der Wunsch wieder zu singen ist da. Wohlmöglich stärker als je zuvor. Die Suche
 nach einer Band gestaltet sich schwierig. Genau, wie vermutet. Ob das für immer
@@ -109,6 +106,8 @@ nachlesen.
 
 Emo-Anne
 
-<strong><em>Song des Tages:</em></strong>
+**_Song des Tages:_**
 
 [youtube http://www.youtube.com/watch?v=OEj0z0maxzM]
+
+  

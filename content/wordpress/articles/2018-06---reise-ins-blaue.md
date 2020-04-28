@@ -4,12 +4,11 @@ seoTitle: Reise ins Blaue - Kleine Landpartie - Eine Ode an den Sommer
 slug: reise-ins-blaue
 link: /2018/06/reise-ins-blaue/
 fileName: 2018-06---reise-ins-blaue.md
-description:
-  Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am Firmament. Vom
-  Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch nachgeschaut.
-excerpt:
-  Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am Firmament. Vom
-  Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch nachgeschaut.
+description: Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am
+  Firmament. Vom Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch
+  nachgeschaut.
+excerpt: Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am Firmament.
+  Vom Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch nachgeschaut.
 focusKeyword: blau
 labels:
   - Ausflug
@@ -36,7 +35,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21290"
+image: /img/demo.jpg
+errors: []
 subTitle: Kleine Landpartie
+  
 ---
 
 Blauer Himmel und Sonnenlicht Vor uns die Straße Wir sind unterwegs Auf einer
@@ -53,7 +55,8 @@ Gerade hast Du uns noch nachgesehen Da hast Du uns schon wieder vergessen
 ## Die Fotos
 
 Die Fotos zu diesem Artikel sind am Sonntag, 10. Juni 2018 auf der Fahrt von
-[Wismar](/2018/06/prerow-am-abend/) entstanden.
+[Prerow](/2018/06/prerow-am-abend/) nach [Wismar](/2018/06/wismar-am-sonntag/)
+entstanden.
 
 ## Der Text
 
@@ -62,3 +65,5 @@ gerne mehr Texte dieser Art lesen möchtest, dann
 [klick doch mal hier drauf](/category/bleistift-2-0/lyrik/).
 
 [myflickr tag="annelandpartiehui20180610"]
+
+  

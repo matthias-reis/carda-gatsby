@@ -4,13 +4,12 @@ seoTitle: Die Möwe - Bildergalerie
 slug: die-moewe
 link: /2015/11/die-moewe/
 fileName: 2015-11---die-moewe.md
-description:
-  Es ist nicht leicht, eine Möwe im perfekten Licht zu erwischen. Um so stolzer
-  ist man natürlich, wenn einem dann der ein oder andere Schnappschuss gelingt.
-excerpt:
-  Jeder, der schon mal mit seiner Kamera in der Nähe eines Gewässers unterwegs
-  war, weiß, wie schwierig es sein kann, eine Möwe im optimalen Licht zu
-  erwischen.
+description: Es ist nicht leicht, eine Möwe im perfekten Licht zu erwischen. Um
+  so stolzer ist man natürlich, wenn einem dann der ein oder andere
+  Schnappschuss gelingt.
+excerpt: Jeder, der schon mal mit seiner Kamera in der Nähe eines Gewässers
+  unterwegs war, weiß, wie schwierig es sein kann, eine Möwe im optimalen Licht
+  zu erwischen.
 focusKeyword: Möwe
 labels:
   - Ausflug
@@ -29,13 +28,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13139"
+image: /img/demo.jpg
+errors: []
 subTitle: Bildergalerie
+  
 ---
-
-<strong>Jeder, der schon mal mit seiner Kamera in der Nähe eines Gewässers
-unterwegs war, weiß, wie schwierig es sein kann, eine Möwe im optimalen Licht zu
-erwischen. Umso stolzer ist man dann natürlich, wenn sich mal eine tolle
-Gelegenheit bietet, aus der sich ein paar Schnappschüsse ergeben.</strong>
 
 Man hält mit der Kamera drauf, als würde es kein Morgen mehr geben.
 
@@ -47,23 +44,38 @@ entstanden.
 
 [myflickr tag="annemoewekiel2015"]
 
-<em>Eine neugierkranke Möwe,</em><em> kreiste ich zu häupten eines</em><em>
-Wesens, das in einen weiten</em><em> dunklen Mantel eingewickelt,</em><em> von
-dem Kopfe einer Bune</em><em> auf die grüne See hinaussah.</em><em> Und ich
-wußte, daß ich selber</em><em> dieses Wesen sei, und war mir</em><em> dennoch
-selbst so problematisch,</em><em> wie nur je dem klugen Sinne</em><em> einer
-Möwe solch ein dunkler</em><em> Mantelvogel, Mensch geheißen.</em><em> Warum
-blickt dies große, stumme,</em><em> rätselhafte Tier so ernsthaft</em><em> auf
-der Wasser Flucht und Rückkehr?</em><em> Lauert es geheimer Beute?</em><em> Wird
-es plötzlich aus des Mantels</em><em> Schoß verborgne Schwingen
-strecken,</em><em> und mit schwerem Flügelschlag den</em><em> Schaum der weißen
-Kämme streifen?</em><em> So und anders fragte rastlos</em><em> mein beschränktes
-Möwenhirn sich,</em><em> und in immer frechern Kreisen</em><em> stieß ich,
-kläglich schreiend, oder</em><em> ärgerlich und höhnisch lachend,</em><em> um
-mich selber... Da erhob sich</em><em> aus dem Meere eine Woge...</em><em> stieg
-und stieg... Und Mensch und Möwe</em><em> ward verschlungen und begraben.</em>
+_Eine neugierkranke Möwe,_ _kreiste ich zu häupten eines_ _Wesens, das in einen
+weiten_ _dunklen Mantel eingewickelt,_ _von dem Kopfe einer Bune_ _auf die grüne
+See hinaussah._ _Und ich wußte, daß ich selber_ _dieses Wesen sei, und war mir_
+_dennoch selbst so problematisch,_ _wie nur je dem klugen Sinne_ _einer Möwe
+solch ein dunkler_ _Mantelvogel, Mensch geheißen._ _Warum blickt dies große,
+stumme,_ _rätselhafte Tier so ernsthaft_ _auf der Wasser Flucht und Rückkehr?_
+_Lauert es geheimer Beute?_ _Wird es plötzlich aus des Mantels_ _Schoß verborgne
+Schwingen strecken,_ _und mit schwerem Flügelschlag den_ _Schaum der weißen
+Kämme streifen?_ _So und anders fragte rastlos_ _mein beschränktes Möwenhirn
+sich,_ _und in immer frechern Kreisen_ _stieß ich, kläglich schreiend, oder_
+_ärgerlich und höhnisch lachend,_ _um mich selber... Da erhob sich_ _aus dem
+Meere eine Woge..._ _stieg und stieg... Und Mensch und Möwe_ _ward verschlungen
+und begraben._
 
 Christian Morgenstern
 
 Auch am Bosporus sind mir einige Möwenbilder gelungen.
-[Birds of Westport](/2010/01/moewen-am-bosporus/) </li></ol>
+[Hier findet Ihr sie!](/2010/01/moewen-am-bosporus/) ## Unser Kiel-Besuch -
+Wegweiser1. [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
+
+1.  [Die Möwe](/2015/11/die-moewe/)
+1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)## Wegweiser Möwen1.
+    [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
+1.  [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
+1.  [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
+1.  [Birdwatching am Timmendorfer Strand (November 2015)](/2015/11/birdwatching-am-timmendorfer-strand/)
+1.  Die Möwe, Kiel (November 2015)
+1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
+1.  [Sommer auf der Ostsee - Möwen vor Helsinki (Juni 2016)](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
+1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe (Juni 2016)](/2016/08/auf-jeder-statue-eine-moewe/)
+1.  [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/)
+1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
+1.  [Birds of Westport](/2018/05/birds-of-westport/)
+
+  

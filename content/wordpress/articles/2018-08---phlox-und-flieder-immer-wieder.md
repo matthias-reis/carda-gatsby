@@ -4,12 +4,11 @@ seoTitle: Phlox und Flieder immer wieder 6 Balkontipps für den Hochsommer
 slug: phlox-und-flieder-immer-wieder
 link: /2018/08/phlox-und-flieder-immer-wieder/
 fileName: 2018-08---phlox-und-flieder-immer-wieder.md
-description:
-  Heute habe ich sechs heiße Tipps für Euch, mit denen Ihr die Pflanzen auf
-  Eurem Balkon auch bei höheren Temperaturen bei Laune halten werdet. Phlox...
-excerpt:
-  Produktplatzierungen/selbst gekauft - Heute habe ich sechs heiße Tipps für
-  Euch, mit denen Ihr die Pflanzen auf Eurem Balkon auch bei höheren
+description: Heute habe ich sechs heiße Tipps für Euch, mit denen Ihr die
+  Pflanzen auf Eurem Balkon auch bei höheren Temperaturen bei Laune halten
+  werdet. Phlox...
+excerpt: Produktplatzierungen/selbst gekauft - Heute habe ich sechs heiße Tipps
+  für Euch, mit denen Ihr die Pflanzen auf Eurem Balkon auch bei höheren
   Temperaturen bei Laune halten werdet. Ein Phlox bietet zum Beispiel Wildbienen
   einen willkommenen Rastplatz.
 focusKeyword: Phlox
@@ -35,12 +34,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21648"
+image: /img/demo.jpg
+errors: []
 subTitle: 6 Tipps für den Hochsommer auf dem Balkon
+  
 ---
 
-<strong>Nach einer kleinen "Rettungsaktion" in den frühen Morgenstunden, grünt
-und blüht es jetzt bei uns auf dem Balkon wieder richtig schön. Auch Pflanzen
-brauchen Pflege. Heute teile ich meine Erfahrungen mit Euch.</strong>
+**Nach einer kleinen "Rettungsaktion" in den frühen Morgenstunden, grünt und
+blüht es jetzt bei uns auf dem Balkon wieder richtig schön. Auch Pflanzen
+brauchen Pflege. Heute teile ich meine Erfahrungen mit Euch.**
 
 ![Phlox](http://cardamonchai.com/wp-content/uploads/2018/08/43878139922_58c2865a93_z-400x533.jpg)
 
@@ -142,27 +144,30 @@ Notlösung und geht auf keinen Fall über einen längeren Zeitraum.
 
 Folgende Pflanzen fühlen sich auch bei 25 bis 35 Grad noch wohl:
 
-<ul>
-    <li>Portulak</li>
-    <li>Kakteen</li>
-    <li>Palmen</li>
-    <li>Mexikanisches Federgras</li>
-    <li>Mohn</li>
-    <li>Agaven</li>
-    <li>Salbei</li>
-    <li>Flieder</li>
-    <li>Hauswurz</li>
-    <li>Phlox (Achtung: Achtet beim Kauf darauf, dass ihr Euch für eine Sorte entscheidet, die viel Sonne braucht. Es gibt auch welche, die im Halbschatten besser gedeihen. Eine gute Wahl für einen Sommerbalkon sind zum Beispiel Phlox subulata oder Phlox douglasii.)</li>
-    <li>Aloe Vera</li>
-    <li>Rosen</li>
-    <li>Wolfsmilch</li>
-    <li>Blauraute (Ihre silbrigen Blätter reflektieren das Sonnenlicht. Aus diesem Grund kann sie nicht so schnell verbrennen)</li>
-    <li>Geranie (OK, das ist schon ziemlich klassisch)</li>
-    <li>Edeldistel</li>
-    <li>Ginster</li>
-    <li>Woll-Ziest (Die Pflanze hat einen leichten Flaum, der sie vor dem Austrocknen schützt)</li>
-    <li>Eisenkraut</li>
-</ul>
+- Portulak
+- Kakteen
+- Palmen
+- Mexikanisches Federgras
+- Mohn
+- Agaven
+- Salbei
+- Flieder
+- Hauswurz
+- Phlox (Achtung: Achtet beim Kauf darauf, dass ihr Euch für eine Sorte
+  entscheidet, die viel Sonne braucht. Es gibt auch welche, die im Halbschatten
+  besser gedeihen. Eine gute Wahl für einen Sommerbalkon sind zum Beispiel Phlox
+  subulata oder Phlox douglasii.)
+- Aloe Vera
+- Rosen
+- Wolfsmilch
+- Blauraute (Ihre silbrigen Blätter reflektieren das Sonnenlicht. Aus diesem
+  Grund kann sie nicht so schnell verbrennen)
+- Geranie (OK, das ist schon ziemlich klassisch)
+- Edeldistel
+- Ginster
+- Woll-Ziest (Die Pflanze hat einen leichten Flaum, der sie vor dem Austrocknen
+  schützt)
+- Eisenkraut
 
 Wie Rosen, die sich mit ihren langen Wurzeln Speicherwasser tief unten aus der
 Erde holen, Woll-Ziest und Blauraute, haben viele Pflanzen ihren ganz speziellen
@@ -173,8 +178,10 @@ dicken Blättern. Außerdem sind sie auch sonst sehr pflegeleicht.
 
 ![Phlox](http://cardamonchai.com/wp-content/uploads/2018/08/30057529648_3c66b38aee_z-400x300.jpg)
 
-müde in den Balkonstuhl sinken zu lassen und den Blick schweifen zu lassen,
-oder?
+Es gibt doch nichts Schöneres, als sich abends nach getaner Arbeit mit einem
+schönen kalten
+[Getränk](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)  müde
+in den Balkonstuhl sinken zu lassen und den Blick schweifen zu lassen, oder?
 
 Ein paar hübsche Pflanzen können den Entspannungseffekt extrem intensivieren.
 Ihr Anblick lässt uns einen Gang runterschalten und erinnert an den letzten
@@ -190,3 +197,5 @@ Ich wünsche Euch viel Spaß beim Gärtnern!
 [Ihr möchtet gerne genau wissen, wie ein Insektenhotel funktioniert? Ich habe alle Infos für Euch zusammengetragen.](/2019/05/insektenhotel-bienen-auf-dem-balkon/)
 
 [myflickr tag="annebalkon20180808liebesonnephlox"]
+
+  

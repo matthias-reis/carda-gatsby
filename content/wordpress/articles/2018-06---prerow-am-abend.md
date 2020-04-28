@@ -4,9 +4,8 @@ seoTitle: Prerow am Abend - Sommerliche Impressionen von der Ostsee
 slug: prerow-am-abend
 link: /2018/06/prerow-am-abend/
 fileName: 2018-06---prerow-am-abend.md
-description:
-  Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst. Den
-  Sonnenuntergang erleben - Ein Sommerabend in Prerow an der Ostsee
+description: Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst.
+  Den Sonnenuntergang erleben - Ein Sommerabend in Prerow an der Ostsee
 excerpt: "Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst.\r
 
   Den Sonnenuntergang erleben - Ein Sommerabend in Prerow an der Ostsee"
@@ -32,7 +31,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21225"
+image: /img/demo.jpg
+errors: []
 subTitle: Sommerliche Impressionen von der Ostsee
+  
 ---
 
 Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst. Den
@@ -57,3 +59,5 @@ Morgen wird es sonnig. Die schöne Küste lädt uns ein.
 Die Bilder in diesem Beitrag sind am Abend des 8. Juni 2018 im Ostseebad Prerow
 entstanden. Wer jetzt Lust auf einen kleinen Sundowner bekommen hat, ist
 eingeladen, [hier weiterzulesen](/2018/06/sloe-dancer/).
+
+  

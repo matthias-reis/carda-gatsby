@@ -4,12 +4,12 @@ seoTitle: Nebengeräusche - Menschen in der Bahn - Prosa auf dem Heimweg
 slug: nebengerausche
 link: /2012/08/nebengerausche/
 fileName: 2012-08---nebengeraeusche.md
-description:
-  Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz kopfunter
-  an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus der Bahn.
-excerpt:
-  Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz kopfunter
-  an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus der Bahn.
+description: Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz
+  kopfunter an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus
+  der Bahn.
+excerpt: Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz
+  kopfunter an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus
+  der Bahn.
 focusKeyword: Nebengeräusche
 labels:
   - Alltag
@@ -30,7 +30,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3752"
+image: /img/demo.jpg
+errors: []
 subTitle: Prosa des Alltags
+  
 ---
 
 Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz kopfüber an
@@ -60,10 +63,12 @@ gegen Deine Müdigkeit an. Dein Kopf sinkt auf Dein Kinn.
 Schnell aussteigen. Treppe hoch. Fernseher an. Kühlschrank auf. Schatten auf der
 Tapete.
 
-<em>Als Song des Tages habe ich heute mal wieder eines meiner Lieblingsstücke
+_Als Song des Tages habe ich heute mal wieder eines meiner Lieblingsstücke
 ausgepackt. Hier sind für Euch Long Distance Calling mit "Fire In The
-Mountain":</em>
+Mountain":_
 
 [youtube=http://www.youtube.com/watch?v=cDZXHjxmpXQ]
 
 &nbsp;
+
+  

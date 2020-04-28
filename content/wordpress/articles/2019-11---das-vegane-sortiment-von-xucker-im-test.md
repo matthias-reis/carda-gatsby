@@ -1,17 +1,15 @@
 ---
 title: Das vegane Sortiment von Xucker im Test
-seoTitle:
-  Das vegane Sortiment von Xucker im Test - weniger süß kann lecker sein!
+seoTitle: Das vegane Sortiment von Xucker im Test - weniger süß kann lecker sein!
 slug: das-vegane-sortiment-von-xucker-im-test
 link: /2019/11/das-vegane-sortiment-von-xucker-im-test/
 fileName: 2019-11---das-vegane-sortiment-von-xucker-im-test.md
-description:
-  Süß soll es ja schon sein. Aber trotzdem gesund. Und möglichst ohne unnötige
-  Kalorien. Aber wie soll das gehen ohne Zucker? Ich habe jetzt Xucker getestet.
-excerpt:
-  Werbung & Affiliate Links - Süß soll es ja schon sein. Aber trotzdem gesund.
-  Und möglichst ohne unnötige Kalorien. Aber wie soll das gehen ohne Zucker? Ich
-  habe jetzt Xucker getestet.
+description: Süß soll es ja schon sein. Aber trotzdem gesund. Und möglichst ohne
+  unnötige Kalorien. Aber wie soll das gehen ohne Zucker? Ich habe jetzt Xucker
+  getestet.
+excerpt: Werbung & Affiliate Links - Süß soll es ja schon sein. Aber trotzdem
+  gesund. Und möglichst ohne unnötige Kalorien. Aber wie soll das gehen ohne
+  Zucker? Ich habe jetzt Xucker getestet.
 focusKeyword: Xucker
 labels:
   - Birkenzucker
@@ -35,18 +33,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26722"
+image: /img/demo.jpg
+errors: []
 subTitle: Weniger süß kann lecker sein
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Süß soll es ja schon sein. Aber trotzdem gesund. Und möglichst ohne
-unnötige Kalorien. Aber wie soll das gehen ohne Zucker? Ich habe mir jetzt mal
-die veganen Produkte von Xucker genauer angeschaut und dabei ein paar Schätze
-entdeckt.</strong>
+**Süß soll es ja schon sein. Aber trotzdem gesund. Und möglichst ohne unnötige
+Kalorien. Aber wie soll das gehen ohne Zucker? Ich habe mir jetzt mal die
+veganen Produkte von Xucker genauer angeschaut und dabei ein paar Schätze
+entdeckt.**
 
 Auf dem Prüfstand hatte ich bis jetzt die vegane Nuss-Nougat-Creme, den Ketchup,
-und die Schokolade in den Sorten [Zartbitter Keks](http://tidd.ly/326a5a3f).
+und die Schokolade in den Sorten [Edel-Zartbitter](http://tidd.ly/326a5a3f) und
+[Zartbitter Keks](http://tidd.ly/bf5e90b8).
 
 Gleich mal vorneweg: Überzeugt haben mich alle Produkte. Die
 [Nuss-Nougat-Creme](http://tidd.ly/779a9fc7) ist mehr als cremig und hat einen
@@ -56,8 +58,11 @@ Desserts.
 
 ## Nicht zu süß und weniger Kalorien
 
-[Schokoladen](http://tidd.ly/3a78d1a7) sind genau das Richtige für den kleinen
-Hunger auf Süßes zwischendurch - sehr cremig und angenehm herb.
+[Der Ketchup](http://tidd.ly/3a78d1a7) ist weder zu süß noch zu sauer und
+punktet mit seiner niedrigen Kalorienzahl (trotzdem gibt es sogar noch eine
+Light-Variante davon). Die [Schokoladen](http://tidd.ly/d877382f) sind genau das
+Richtige für den kleinen Hunger auf Süßes zwischendurch - sehr cremig und
+angenehm herb.
 
 Xucker Gründer und Geschäftsführer Christian Weiten achtet generell auf eine
 gesunde Ernährung. Alles begann mit einem Schlüsselerlebnis an seinem 25.
@@ -65,7 +70,11 @@ Geburtstag.
 
 ## Xucker - die Entstehungsgeschichte
 
-<blockquote>"Mein Onkel fragte mich, was ich tun würde, wenn er mir ein wunderschönes Auto schenken würde. Ich erzählte ihm, dass ich es immer in der Garage parken und das beste Öl verwenden würde. Darauf hin fragte er mich, was mir wichtiger wäre: mein Auto, oder ich und warum ich mich nicht genauso um meine Gesundheit kümmere, wie um mein Auto. Das saß!"</blockquote>
+> "Mein Onkel fragte mich, was ich tun würde, wenn er mir ein wunderschönes Auto
+> schenken würde. Ich erzählte ihm, dass ich es immer in der Garage parken und
+> das beste Öl verwenden würde. Darauf hin fragte er mich, was mir wichtiger
+> wäre: mein Auto, oder ich und warum ich mich nicht genauso um meine Gesundheit
+> kümmere, wie um mein Auto. Das saß!"
 
 Christian bekam zwar kein Auto von seinem Onkel. Allerdings motivierte ihn das
 Erlebnis, achtsamer zu werden, mehr Sport zu treiben und sich zuckerfrei zu
@@ -89,7 +98,8 @@ Xucker in den Varianten "Premium" und "Light".
 Im Onlineshop kann man neben vielen weiteren Produkten wie Schokolade, Ketchup
 und Speiseeis-Basis beide Xucker-Varianten bestellen. Sie können als
 Zuckerersatz zum Beispiel beim Backen verwendet werden. Es gibt auch einen
-[Xucker Bronxe](http://tidd.ly/7832a5fe). Dabei handelt es sich um Xucker mit
+[Puderxucker](http://tidd.ly/7832a5fe) sowie
+[Xucker Bronxe](http://tidd.ly/3ac05ce5). Dabei handelt es sich um Xucker mit
 Karamelnote.
 
 ## Zahnpflege mit Xucker-Xylit
@@ -147,7 +157,9 @@ verfügbaren Produkte im Onlineshop.
 
 [glry name="2019-11-04-xucker"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

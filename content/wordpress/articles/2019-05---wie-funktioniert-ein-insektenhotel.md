@@ -4,12 +4,11 @@ seoTitle: So funktioniert ein Insektenhotel - Bienen auf dem Balkon
 slug: insektenhotel-bienen-auf-dem-balkon
 link: /2019/05/insektenhotel-bienen-auf-dem-balkon/
 fileName: 2019-05---wie-funktioniert-ein-insektenhotel.md
-description:
-  Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen oder
-  selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut so!
-excerpt:
-  Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen oder
-  selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut so!
+description: Insektenhotels sieht man inzwischen überall. Man kann sie fertig
+  kaufen oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist
+  gut so!
+excerpt: Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen
+  oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut so!
 focusKeyword: Insektenhotel
 labels:
   - Bienen
@@ -38,12 +37,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24056"
+image: /img/demo.jpg
+errors: []
 subTitle: Bienen auf dem Balkon
+  
 ---
 
-<strong>Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen
-oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut
-so!</strong>
+**Insektenhotels sieht man inzwischen überall. Man kann sie fertig kaufen oder
+selbst bauen. Bienenschutz setzt sich langsam durch und das ist gut so!**
 
 Auch auf unserem Balkon haben sich auch in diesem Jahr wieder zahlreiche
 Wildbienen häuslich niedergelassen - im 5. Stock, mitten im Herzen von Hamburg
@@ -132,35 +133,35 @@ blühte etwas Neues. Neben Wildblumen sind die meisten Blumen mit offenen Blüte
 vorteilhaft. Bienen und andere bestäubende Insektenarten haben bei ihnen freien
 Zugang zu Blütenstaub und Nektar. Hier eine kleine Liste.
 
-<ul>
-    <li>Lavendel erfreut nicht nur die Bienen. Auch viele Menschen lieben seinen Duft, dem übrigens eine beruhigende nachgesagt wird.</li>
-    <li>Flieder gibt es auch als Stämmchen im Topf. Was schön ist: Er zieht auch Schmetterlinge an und duftet mindestens genauso betörend, wie Lavendel.</li>
-    <li>Disteln</li>
-    <li>Astern</li>
-    <li>Ehrenpreis</li>
-    <li>Huflattich</li>
-    <li>Sonnenblumen</li>
-    <li>Schmuckkörbchen</li>
-    <li>Gänseblümchen</li>
-    <li>Mohn</li>
-    <li>Sonnenhut</li>
-    <li>Fingerhut</li>
-    <li>Azaleen</li>
-    <li>Borretsch</li>
-    <li> [Phlox](/2018/08/phlox-und-flieder-immer-wieder/) </li>
-    <li>Verschiedene Kobblütler</li>
-    <li>Rosen</li>
-    <li>Herbst-Zeitlose</li>
-    <li>Lupinen</li>
-    <li>Klee</li>
-    <li>Salbei</li>
-    <li>Löwenzahn</li>
-    <li>Christrosen</li>
-    <li>Eisenhut</li>
-    <li>Acker-Witwenblume</li>
-    <li>Akelei</li>
-    <li>Adonisröschen</li>
-</ul>
+- Lavendel erfreut nicht nur die Bienen. Auch viele Menschen lieben seinen Duft,
+  dem übrigens eine beruhigende nachgesagt wird.
+- Flieder gibt es auch als Stämmchen im Topf. Was schön ist: Er zieht auch
+  Schmetterlinge an und duftet mindestens genauso betörend, wie Lavendel.
+- Disteln
+- Astern
+- Ehrenpreis
+- Huflattich
+- Sonnenblumen
+- Schmuckkörbchen
+- Gänseblümchen
+- Mohn
+- Sonnenhut
+- Fingerhut
+- Azaleen
+- Borretsch
+- [Phlox](/2018/08/phlox-und-flieder-immer-wieder/)
+- Verschiedene Kobblütler
+- Rosen
+- Herbst-Zeitlose
+- Lupinen
+- Klee
+- Salbei
+- Löwenzahn
+- Christrosen
+- Eisenhut
+- Acker-Witwenblume
+- Akelei
+- Adonisröschen
 
 Klassische Balkonpflanzen wie Geranien sehen vielleicht schön aus, sind aber
 keine großen Bienenmagneten.
@@ -173,13 +174,17 @@ Für Bienen oder andere Insekten unbrauchbare Nisthilfen sind ein No-Go und
 können ihnen unter Umständen ihr Leben kosten. Achtet darauf, bei Eurem
 Insektenhotel auf folgende Bauteile zu verzichten:
 
-<ul>
-    <li>Glasröhrchen gehören ins Labor. Bitte lasst sie auch dort. In ihnen kann sich Wasserdampf bilden. Dadurch können sie verpilzen. Ich verstehe den Reiz, die Metamorphose Eurer Hotelbewohner*innen zu beobachten - widersteht ihm.</li>
-    <li>In zu frischem Holz können sich Risse bilden - die Bienen mögen das gar nicht.</li>
-    <li>Weidenruten-Lehmwende werden häufig im öffentlichen Raum aufgestellt. Laut  [NABU](https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/hautfluegler/bienen/13704.html)  sind sie nicht geeignet für grabende Bienenarten, da das Material zu stark aushärtet.</li>
-    <li>Loch- und Hohlziegel sehen vielleicht schön aus, bieten Insekten jedoch keinen bewohnbaren Lebensraum.</li>
-    <li>Horizontale Bündelungen widersprechen der Natur der Insekten.</li>
-</ul>
+- Glasröhrchen gehören ins Labor. Bitte lasst sie auch dort. In ihnen kann sich
+  Wasserdampf bilden. Dadurch können sie verpilzen. Ich verstehe den Reiz, die
+  Metamorphose Eurer Hotelbewohner\*innen zu beobachten - widersteht ihm.
+- In zu frischem Holz können sich Risse bilden - die Bienen mögen das gar nicht.
+- Weidenruten-Lehmwende werden häufig im öffentlichen Raum aufgestellt. Laut
+  [NABU](https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/hautfluegler/bienen/13704.html)
+  sind sie nicht geeignet für grabende Bienenarten, da das Material zu stark
+  aushärtet.
+- Loch- und Hohlziegel sehen vielleicht schön aus, bieten Insekten jedoch keinen
+  bewohnbaren Lebensraum.
+- Horizontale Bündelungen widersprechen der Natur der Insekten.
 
 ## Das perfekte Insektenhotel - das kommt rein
 
@@ -188,11 +193,10 @@ Insektenhotel auf folgende Bauteile zu verzichten:
 Für die eben genannten nicht geeigneten Materialien gibt es zum Glück zahlreiche
 tolle Alternativen, die von Bienen und anderen Insekten gut angenommen werden.
 
-<ul>
-    <li>Abgelagertes Holz ohne Risse - falls sich beim Bohren der Löcher für die Niströhren welche bilden, sortiert die Holzstücke besser aus.</li>
-    <li>Wie schon kurz erwäht: Bambus- oder (dicke) Schilfröhren</li>
-    <li>Strangfalzziegel (da sind schon Löcher in der optimalen Größe drin)</li>
-</ul>
+- Abgelagertes Holz ohne Risse - falls sich beim Bohren der Löcher für die
+  Niströhren welche bilden, sortiert die Holzstücke besser aus.
+- Wie schon kurz erwäht: Bambus- oder (dicke) Schilfröhren
+- Strangfalzziegel (da sind schon Löcher in der optimalen Größe drin)
 
 Achtet beim Kauf eines fertigen Insektenhotel am besten auch darauf, dass es
 diese Bestandteile enthält. Wenn Ihr geschickt im Umgang mit Schrauben, Säge,
@@ -265,16 +269,16 @@ optimalerweise in greifbarer Nähe.
 
 ![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-20-400x300.jpg "Guten Flug!")
 
-Das Wort "<strong>Saatbombe</strong>" habe ich weiter oben bereits erwähnt.
-Nutzt sie auch in freier Natur und auf Grünflächen, um die für Bienen so
-wichtigen <strong>Wildblumen</strong> auszusähen. In unseren zunehmend urbaner
-werdenden Lebensräumen bietet sich oft kaum noch eine Anflugmöglichkeit für die
-wichtigen Insekten. Ob der Zeitraum, von dem Wilhelm Busch gesprochen hat, genau
-stimmt, weiß ich nicht, ohne bestäubende Insekten ist jedenfalls auch die
-Menschheit hoffnungslos verloren.
+Das Wort " **Saatbombe** " habe ich weiter oben bereits erwähnt. Nutzt sie auch
+in freier Natur und auf Grünflächen, um die für Bienen so wichtigen
+**Wildblumen** auszusähen. In unseren zunehmend urbaner werdenden Lebensräumen
+bietet sich oft kaum noch eine Anflugmöglichkeit für die wichtigen Insekten. Ob
+der Zeitraum, von dem Wilhelm Busch gesprochen hat, genau stimmt, weiß ich
+nicht, ohne bestäubende Insekten ist jedenfalls auch die Menschheit hoffnungslos
+verloren.
 
-<blockquote>“Wenn die Biene einmal von der Erde verschwindet, hat der Mensch nur noch vier Jahre zu leben.”
-Wilhelm Busch</blockquote>
+> “Wenn die Biene einmal von der Erde verschwindet, hat der Mensch nur noch vier
+> Jahre zu leben.” Wilhelm Busch
 
 ## Kleine Bienenkunde
 
@@ -289,3 +293,5 @@ ihre Nistplätze im Sand, morschem Holz und alten Gemäuern.
 Mein Artikel hat Euch gefallen? Das freut mich.
 [Wenn Ihr hier klickt, könnt Ihr sechs Tipps für den Hochsommer auf dem Balkon finden](/2018/08/phlox-und-flieder-immer-wieder/).
 Der kommt schließlich früher, als man denkt.
+
+  

@@ -4,12 +4,12 @@ seoTitle: Wolle und vegane Alternativen - darum verzichte ich auf Wolle
 slug: wolle-das-kann-doch-gar-nicht-so-schlimm-sein
 link: /2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/
 fileName: 2014-10---wolle-das-kann-doch-gar-nicht-so-schlimm-sein.md
-description:
-  Wolle? Das kann doch gar nicht so schlimm sein? Alles über die Gewinnung von
-  Wolle für unsere Kleidung und warum Veganer*innen auf Wolle verzichten.
-excerpt:
-  Wolle? Das kann doch gar nicht so schlimm sein? Alles über die Gewinnung von
-  Wolle für unsere Kleidung und warum Veganer*innen auf Wolle verzichten.
+description: Wolle? Das kann doch gar nicht so schlimm sein? Alles über die
+  Gewinnung von Wolle für unsere Kleidung und warum Veganer*innen auf Wolle
+  verzichten.
+excerpt: Wolle? Das kann doch gar nicht so schlimm sein? Alles über die
+  Gewinnung von Wolle für unsere Kleidung und warum Veganer*innen auf Wolle
+  verzichten.
 focusKeyword: Wolle
 labels:
   - Alpakawolle
@@ -44,10 +44,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "9028"
+image: /img/demo.jpg
+errors: []
 subTitle: 10 Fakten über Veganismus - Teil VI
+  
 ---
-
-## von gebrochenen Knochen und Lebendrupf<span style="text-decoration: underline;"><em><strong> [](/2014/09/pflanzenmilch-wieso-denn-blos/) Einige Tage sind vergangen, seit der letzte Teil meiner Serie "10 Fakten über Veganismus" erschienen ist. Hier ist nun Teil 6 für Euch.</strong>
 
 Vegan ist ein Prozess. Zu Beginn meiner Serie "Zehn Fakten über Veganismus" trug
 diese noch den Titel "10 Fakten über vegane Ernährung". Natürlich ist das Thema
@@ -55,7 +56,7 @@ aber viel weitgreifender und betrifft nicht nur die Ernährung.
 
 ### Jeden Tag neue Erkenntnisse
 
-![Glückliche Schafe?](http://cardamonchai.com/wp-content/uploads/2014/10/11501753853_8ce53b76af_b-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Glückliche Schafe?")
+![Glückliche Schafe?](http://cardamonchai.com/wp-content/uploads/2014/10/11501753853_8ce53b76af_b-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Glückliche Schafe?")
 
 Doch auch das gehört sicherlich zu dem Prozess dazu, in dem man sich als
 "Neu-Veganer\*innen" befindet. Jeden Tag kommt man zu neuen Erkenntnissen und
@@ -63,9 +64,8 @@ deckt für sich Fakten auf, die einem in der Tiefe in der Vergangenheit nicht
 bewusst waren.
 
 Natürlich habe ich mich mit der Umstellung auf vegan auch dafür entschieden, in
-Zukunft bewusst darauf zu achten, keine Kleidungsstücke, die
-<strong>Wolle</strong> enthalten und Kosmetikprodukte mit Lanolin (Wollfett)
-mehr zu erstehen.
+Zukunft bewusst darauf zu achten, keine Kleidungsstücke, die **Wolle** enthalten
+und Kosmetikprodukte mit Lanolin (Wollfett) mehr zu erstehen.
 
 Auch in der Vergangenheit habe ich mich derer nur extrem selten bedient, da ich
 eine ziemliche Allergie zu haben scheine, meine Haut juckt und brennt (und das
@@ -79,7 +79,7 @@ Kosmetik.
 
 ### Romantisierte Beiträge im Fernsehen
 
-![Schafe](http://cardamonchai.com/wp-content/uploads/2014/10/11354273536_d4beb822f5_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schafe.")
+![Schafe](http://cardamonchai.com/wp-content/uploads/2014/10/11354273536_d4beb822f5_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe.")
 
 Seit meiner Ausbildung in einem klassischen Modegeschäft habe ich mich nicht
 mehr wirklich eingehend mit der Herkunft von Wolle beschäftigt, einfach auch,
@@ -87,11 +87,11 @@ weil ich sie für mich persönlich nicht brauche und weitestgehend ausgeblendet
 hatte.
 
 Mal sah ich einen romantisierten Beitrag im öffentlich rechtlichen Fernsehen
-über einen irischen Wollfarmer, mal überflog ich einen
-<strong>PETA</strong>-Artikel über die miserablen Zustände in neuseeländischen
-Massenbetrieben, doch beschäftigte ich mich noch mehr mit der Pelzindustrie. Die
-wirkliche Erkenntnis, was auch hierzulande mit Tieren in den Fängen der
-Wollgewinnungsmaschinerie passiert, kam erst vor kurzem.
+über einen irischen Wollfarmer, mal überflog ich einen **PETA** -Artikel über
+die miserablen Zustände in neuseeländischen Massenbetrieben, doch beschäftigte
+ich mich noch mehr mit der Pelzindustrie. Die wirkliche Erkenntnis, was auch
+hierzulande mit Tieren in den Fängen der Wollgewinnungsmaschinerie passiert, kam
+erst vor kurzem.
 
 ### Gebrochene Gliedmaßen und Qualhaltung
 
@@ -116,13 +116,13 @@ Tieren und wie wird diese Wolle gewonnen?
 
 ### Schurwolle
 
-![Schafe am Wegesrand](http://cardamonchai.com/wp-content/uploads/2014/10/14259833145_d42874d205_z-640x479.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schafe am Wegesrand.")
+![Schafe am Wegesrand](http://cardamonchai.com/wp-content/uploads/2014/10/14259833145_d42874d205_z-640x479.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe am Wegesrand.")
 
 "Schurwolle", das klingt zunächst nicht mal nach Tierquälerei, denn schließlich
-werden die <strong>Schafe</strong>, von denen diese Wolle stammt, ja "nur"
-geschoren. Oder? Viele der Menschen, mit denen ich mich bisher zu dem Thema
-ausgetauscht habe, waren der Meinung, die Schafe müssten sogar geschoren werden,
-um nicht leiden zu müssen. Ein bisschen erinnerte mich das schon wieder an
+werden die **Schafe** , von denen diese Wolle stammt, ja "nur" geschoren. Oder?
+Viele der Menschen, mit denen ich mich bisher zu dem Thema ausgetauscht habe,
+waren der Meinung, die Schafe müssten sogar geschoren werden, um nicht leiden zu
+müssen. Ein bisschen erinnerte mich das schon wieder an
 [die Geschichte mit der Milchindustrie](//2014/09/09/pflanzenmilch-wieso-denn-blos/)
 und die landläufige Meinung der Menschen, Kühe würden leiden, würden sie nicht
 gemolken. Also rein ins Internet.
@@ -133,9 +133,9 @@ nur so viel Wolle wachsen würde, wie eben nötig ist, um sie vor extremem Wette
 
 ### Stetiges Auszupfen der Wolle
 
-Die erste Stufe der <strong>Wollzucht</strong> war es, die Schafe durch stetiges
-Auszupfen ihrer Wolle während ihres natürlichen Fellwechsels dazu zu bringen,
-immer mehr Wolle zu produzieren.
+Die erste Stufe der **Wollzucht** war es, die Schafe durch stetiges Auszupfen
+ihrer Wolle während ihres natürlichen Fellwechsels dazu zu bringen, immer mehr
+Wolle zu produzieren.
 
 Wolle wird nachweislich seit dem 4. Jahrhundert v. Chr. verwendet. Das
 indoeuropäische Wort "Wolle" kommt unter anderem in den germanischen Sprachen
@@ -153,13 +153,13 @@ Pflanzenfasern, ab diesem Zeitpunkt nahm die Entwicklung ihren Lauf.
 
 ### Moderne Wollproduktion in Deutschland
 
-![Schaf | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/10/13873616033_2496f567af_z-150x150.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schaf.")
+![Schaf | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/10/13873616033_2496f567af_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schaf.")
 
 "Blutige Massenzucht von Wollschafen? Das gibts doch nur in Australien. Bei uns
 gehts den Tieren doch gut!" Natürlich kann man diesen Eindruck bekommen, wenn
 man die plüschigen Heidschnucken beim Urlaub im Norden unseres Landes oder ihre
-etwas kleineren Verwandten, die braunen <strong>Bergschafe</strong> im Allgäu
-über die Weiden toben sieht. Die Wirklichkeit sieht leider etwas anders aus.
+etwas kleineren Verwandten, die braunen **Bergschafe** im Allgäu über die Weiden
+toben sieht. Die Wirklichkeit sieht leider etwas anders aus.
 
 Der Wollpreis, den die Schäfer in Deutschland derzeit pro kg im Durchschnitt von
 den Händlern bekommen, liegt bei 0,30 Euro. Pro Schaf und Schur können, das kann
@@ -176,7 +176,7 @@ Transportkosten zur Sammelstelle.
 
 ### Schwerpunkt auf der Fleischproduktion
 
-![Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen](http://cardamonchai.com/wp-content/uploads/2014/10/11501550486_c0fb2d0090_z-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen.")
+![Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen](http://cardamonchai.com/wp-content/uploads/2014/10/11501550486_c0fb2d0090_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen.")
 
 Rund 1,6 Millionen Schafe werden derzeit in Deutschland gehalten, 10.700 davon
 sind Milchschafe (Zahlen: Statistisches Bundesamt 2013). Der Schwerpunkt liegt
@@ -189,8 +189,8 @@ auf die Zucht von sogenannten "Landschaftsschafen"(zum Beispiel Kamerunschafe)
 gesetzt, sie müssen nicht geschoren werden. In der Fleischzucht werden vor allem
 die wenige Wochen alten Lämmchen geschlachtet.
 
-Auch bei uns berichten <strong>Schafzüchter</strong> untereinander von Gewalt,
-die von Schlägen bis zum Genickbruch bei der Schur reicht.
+Auch bei uns berichten **Schafzüchter** untereinander von Gewalt, die von
+Schlägen bis zum Genickbruch bei der Schur reicht.
 
 Die Schafzucht für Wolle rechnet sich lediglich für sehr große Zuchtbetriebe mit
 Merinoschafen, die gemischte, dunklere Wolle der anderen Rassen wird zum größten
@@ -199,7 +199,7 @@ Pellets verarbeitet. Der größte Abnehmer ist hier China.
 
 ### Wolle für die Bekleidungsindustrie stammt aus Australien, China und Neuseeland
 
-![Merinoschaf](http://cardamonchai.com/wp-content/uploads/2014/10/11501556376_ce12a81f12_z-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Merinoschaf.")
+![Merinoschaf](http://cardamonchai.com/wp-content/uploads/2014/10/11501556376_ce12a81f12_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Merinoschaf.")
 
 Selbst die Wolle der in Deutschland gezüchteten Merinoschafe kommt von ihrer
 Feinheit nicht an die ihrer australischen Verwandten ran, daher wird auch sie
@@ -214,9 +214,9 @@ Schafen liegt, mit kleinen Rassenunterschieden bei rund 20 Jahren.
 
 ### Seuchenausbrüche beim Lebendexport
 
-Viele der Tiere werden zum <strong>Schlachten</strong> nach Australien und in
-den nahen Osten verschifft, 2013 waren rund 1,9 Millionen Schafe von diesem
-Lebendexport betroffen.
+Viele der Tiere werden zum **Schlachten** nach Australien und in den nahen Osten
+verschifft, 2013 waren rund 1,9 Millionen Schafe von diesem Lebendexport
+betroffen.
 
 Auf den Schiffen werden bis zu 100.000 Tiere transportiert, oft kommt es dabei
 zum Ausbruch lebensbedrohlicher Seuchen, an denen die Tiere bereits auf diesem
@@ -237,7 +237,7 @@ Zuchtleistung nachgelassen hat.
 
 ### Tierkinder sterben, um Tierarztkosten zu sparen
 
-![Schafe am Glastonbury Tor](http://cardamonchai.com/wp-content/uploads/2014/10/11354464146_bb430f9a5c_z-640x427.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schafe am Glastonbury Tor.")
+![Schafe am Glastonbury Tor](http://cardamonchai.com/wp-content/uploads/2014/10/11354464146_bb430f9a5c_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe am Glastonbury Tor.")
 
 Deutsche Schäfer haben sehr hohe Verlustraten bei Lämmern (sechs bis 13 Prozent)
 zu verzeichnen, diese sterben bei Geburtskomplikationen oder kurz nach der
@@ -251,8 +251,8 @@ kurzer Zeit "abzufertigen".
 ### Panik, Tritte und Schläge
 
 Vom Fluchtinstinkt getrieben, wehren sich die Schafe gegen den schonungslosen
-Griff der <strong>Scherer</strong>. Der Herzschlag beschleunigt sich um ein
-Vielfaches, sie hyperventilieren und verdrehen voller Angst die Augen.
+Griff der **Scherer** . Der Herzschlag beschleunigt sich um ein Vielfaches, sie
+hyperventilieren und verdrehen voller Angst die Augen.
 
 Häufig kommt es auch zu Tritten und Schlägen mit den Schermaschinen.
 
@@ -276,7 +276,10 @@ In den Körperfalten sammelt sich jede Feuchtigkeit, mit der sie in Berührung
 kommen, Regen und Urin. Fliegen legen darin ihre Larven ab, die Larven ernähren
 sich von den Schafen, sie werden regelrecht aufgefressen.
 
-Die Fliegenmadenkrankheit wird als Myasis <sup> [4](#3) </sup> an.
+Die Fliegenmadenkrankheit wird als Myasis <sup> [3](#3) </sup> bezeichnet. Die
+australischen Wollfarmer (Merinoschafe sind dort die am häufigsten vorkommende
+Schafrasse) wenden aus diesem Grund das sogenannte Mulesing <sup> [4](#4) </sup>
+an.
 
 Bei diesem extrem schmerzhaften Prozess wird den Lämmern ohne Betäubung die Haut
 rund um den Schwanz entfernt. Das Schaf wird fixiert und die After-Schwanz-Falte
@@ -288,8 +291,8 @@ gefasst wurde, bis Ende 2010 mit dem Mulesing aufzuhören, der Termin wurde
 ersatzlos gestrichen. Die einzige Änderung, die sich ergeben hat, ist, dass
 inzwischen einige Farmer ihre Tiere betäuben.
 
-In <strong>Neuseeland</strong> haben die Farmer sich ab Ende 2010 freiwillig ein
-Verbot auferlegt, an das sich leider nicht alle halten.
+In **Neuseeland** haben die Farmer sich ab Ende 2010 freiwillig ein Verbot
+auferlegt, an das sich leider nicht alle halten.
 
 Doch Wolle stammt nicht nur von Schafen. Als Wolle bezeichnet man nach dem
 Textilkennzeichnungsgesetz grundsätzlich die weichen Haare des Fells von
@@ -319,7 +322,7 @@ aufgehängt und ihnen wird mit dem Messer die Kehle durchtrennt.
 
 ### Weitere Wollsorten
 
-![Schafe auf der Weide in Cornwall](http://cardamonchai.com/wp-content/uploads/2014/10/11501524574_3c0c341e5c_z-640x480.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Schafe auf der Weide in Cornwall.")
+![Schafe auf der Weide in Cornwall](http://cardamonchai.com/wp-content/uploads/2014/10/11501524574_3c0c341e5c_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe auf der Weide in Cornwall.")
 
 Außer Schafwolle (Hierzu zählen Schurwolle und Merinowolle) und Angorawolle gibt
 es unter anderem Mohair, welches von der Angoraziege stammt, die von der
@@ -346,7 +349,7 @@ Polyacryl, Sojaseide und Baumwollflanell, um hier nur einige zu nennen.
 
 Schon seit einigen Wochen sieht man sie wieder in den Auslagen der Modegeschäfte
 liegen: Pullis, Schals und Socken aus Schurwolle, feine Merinounterwäsche und
-Kuscheldecken aus <strong>Kaschmir</strong> oder Angora.
+Kuscheldecken aus **Kaschmir** oder Angora.
 
 Ich hoffe sehr, dass hier bald ein Umdenken erfolgt und nach und nach immer
 weniger Menschen diese Ware kaufen. Vielleicht konnte ich ja auch mit meinem
@@ -360,5 +363,30 @@ Schwer zu sagen, wenn man derzeit die Kunstfell-Kragen, -Schals und
 -Mützenbommel sieht, die leider in den seltensten Fällen auch aus Kunststoff
 bestehen, doch dazu mehr im achten Teil meiner Serie...
 
-[VEBU](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-</li></ul>
+[_ **Hier gehts zu Teil 7 des Artikels** _](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) ##
+Inhaltsverzeichnis "10 Fakten über Veganismus"1.
+[Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+
+1.  [Ich war so müde](/2014/08/ich-war-so-muede/) !
+1.  [Blutige Zahlen](/2014/08/blutige-zahlen/)
+1.  [Vitamin B12 - Mythos und Fakten](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+1.  [Pflanzenmilch? Wieso denn bloß?](/2014/09/pflanzenmilch-wieso-denn-blos/)
+1.  [Wolle? Das kann doch gar nicht so schlimm sein!](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
+1.  [Honig? Das ist jetzt aber wirklich übertrieben, oder?](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
+1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)##
+    Fußnoten-
+    [1][peta wolle aus deutschland](http://www.peta.de/wolle-deutschland#.VDgudL6USmC)
+
+- [2][peta fakten über die wollindustrie](http://www.peta.de/fakten)
+- [3][myasis wikipedia](http://de.wikipedia.org/wiki/Myiasis)
+- [4][mulesing wikipedia](http://de.wikipedia.org/wiki/Mulesing)
+- [5][wikipedia wolle](http://de.wikipedia.org/wiki/Wolle)## Quellen-
+  [Statistisches Bundesamt](https://www.destatis.de/DE/Startseite.html)
+- [allgaeuer-schafhalter.de](http://www.allgaeuer-schafhalter.de)
+- [aid.de](http://www.aid.de/landwirtschaft/schafe_rassen.php)
+- [focus.de](http://www.focus.de/panorama/videos/australische-scherer-blutige-wolle-schock-ueber-brutalen-umgang-mit-schafen_id_3988941.html)
+- [VEBU](https://www.vebu.de/themen/tiere-a-ethik/tiere-und-tierhaltung/schafe)
+
+  

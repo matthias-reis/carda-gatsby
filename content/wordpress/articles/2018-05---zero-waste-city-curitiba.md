@@ -4,12 +4,12 @@ seoTitle: Zero Waste City Curitiba - Brasiliens grünste Stadt
 slug: zero-waste-city-curitiba
 link: /2018/05/zero-waste-city-curitiba/
 fileName: 2018-05---zero-waste-city-curitiba.md
-description:
-  Im Brasilianischen Curitiba wird Recycling wirklich gelebt. Seit 1989 geht die
-  Stadt mit gutem Beispiel voran und hat dadurch bis jetzt nur gewonnen.
-excerpt:
-  Im Brasilianischen Curitiba wird Recycling wirklich gelebt. Seit 1989 geht die
-  Stadt mit gutem Beispiel voran und hat dadurch bis jetzt nur gewonnen.
+description: Im Brasilianischen Curitiba wird Recycling wirklich gelebt. Seit
+  1989 geht die Stadt mit gutem Beispiel voran und hat dadurch bis jetzt nur
+  gewonnen.
+excerpt: Im Brasilianischen Curitiba wird Recycling wirklich gelebt. Seit 1989
+  geht die Stadt mit gutem Beispiel voran und hat dadurch bis jetzt nur
+  gewonnen.
 focusKeyword: Curitiba
 labels:
   - aufräumen
@@ -33,12 +33,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21081"
+image: /img/demo.jpg
+errors: []
 subTitle: Brasiliens grünste Stadt
+  
 ---
 
-<strong>Im Brasilianischen Curitiba hat man Kindern erklärt, was Recycling ist
-und welche Vorteile es hat. Das hat dazu geführt, dass die Stadt inzwischen
-(fast) eine Zero Waste City ist.</strong>
+**Im Brasilianischen Curitiba hat man Kindern erklärt, was Recycling ist und
+welche Vorteile es hat. Das hat dazu geführt, dass die Stadt inzwischen (fast)
+eine Zero Waste City ist.**
 
 Die Brasilianer haben Curitiba den Namen „Brazils Greenest City“ – „Brasiliens
 grünste Stadt“ gegeben - und das zu Recht. Schon im Jahr 1989 stellten die
@@ -83,5 +86,8 @@ Das World Economic Forum hat ein hochinteressantes White Paper zum Thema
 [hier ganz einfach runterladen](http://www3.weforum.org/docs/White_paper_Circular_Economy_in_Cities_report_2018.pdf).
 Ihr findet darin unter anderem verschiedene Fallstudien aus anderen Städten.
 
-<strong>Quelle:</strong> World Economic Forum; Foto im Header: [MatthewGollop,
-Pixabay](http://Pixabay https://pixabay.com/en/users/marcoseduardo-2073721/)
+**Quelle:** World Economic Forum; Foto im Header: [marcoseduardo](http://Pixabay
+https://pixabay.com/en/users/marcoseduardo-2073721/), Pixabay; Plastikflaschen:
+[MatthewGollop, Pixabay](https://pixabay.com/en/users/MatthewGollop-16710/)
+
+  

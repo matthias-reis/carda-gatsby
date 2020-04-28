@@ -4,14 +4,12 @@ seoTitle: Leder aus aussortierten Früchten - Fruitleather Rotterdam
 slug: fruitleather-rotterdam
 link: /2019/06/fruitleather-rotterdam/
 fileName: 2019-06---fruitleather-rotterdam.md
-description:
-  In Rotterdam gibt es eine Firma, die aus aussortierten Früchten Leder
-  herstellt. Anschließend können daraus Handtaschen und Schuhe hergestellt
-  werden.
-excerpt:
-  Werbung - In Rotterdam gibt es eine Firma, die aus aussortierten Früchten
+description: In Rotterdam gibt es eine Firma, die aus aussortierten Früchten
   Leder herstellt. Anschließend können daraus Handtaschen und Schuhe hergestellt
   werden.
+excerpt: Werbung - In Rotterdam gibt es eine Firma, die aus aussortierten
+  Früchten Leder herstellt. Anschließend können daraus Handtaschen und Schuhe
+  hergestellt werden.
 focusKeyword: Leder aus aussortierten Früchten
 labels:
   - fake leather
@@ -31,28 +29,31 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24591"
+image: /img/demo.jpg
+errors: []
 subTitle: Veganes Leder aus aussortierten Früchten
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>In Rotterdam gibt es eine Firma, die aus aussortierten Früchten Leder
+**In Rotterdam gibt es eine Firma, die aus aussortierten Früchten Leder
 herstellt. Anschließend können daraus Handtaschen, Schuhe und Jacken
-geschneidert werden.</strong>
+geschneidert werden.**
 
 <hr />
 
-<strong>Info:</strong> Diesen Artikel habe ich ursprünglich für Vegan News
-geschrieben. Dort ist er bereits am 3. September 2015 erschienen. Da er an
-Brisanz seither nicht verloren hat und ich das vorgestellte Projekt nach wie vor
-gut finde, erscheint er heute frisch überarbeitet in meinem Blog
+**Info:** Diesen Artikel habe ich ursprünglich für Vegan News geschrieben. Dort
+ist er bereits am 3. September 2015 erschienen. Da er an Brisanz seither nicht
+verloren hat und ich das vorgestellte Projekt nach wie vor gut finde, erscheint
+er heute frisch überarbeitet in meinem Blog
 
 <hr />
 
-Kennt Ihr schon <strong>Fruitleather Rotterdam</strong>? Noch nie was davon
-gehört? Dann solltet Ihr jetzt weiterlesen, denn es handelt sich dabei um ein
-wirklich spannendes Projekt, das immer wieder für Schlagzeilen sorgt und den
-Ledermarkt völlig auf den Kopf stellen könnte.
+Kennt Ihr schon **Fruitleather Rotterdam** ? Noch nie was davon gehört? Dann
+solltet Ihr jetzt weiterlesen, denn es handelt sich dabei um ein wirklich
+spannendes Projekt, das immer wieder für Schlagzeilen sorgt und den Ledermarkt
+völlig auf den Kopf stellen könnte.
 
 ## Abfälle vom Wochenmarkt
 
@@ -94,7 +95,9 @@ anderen nachhaltigen Unternehmen an zukunftsweisenden Ideen.
 Wer gerne mehr über Fruitleather Rotterdam erfahren möchte, kann sich
 [auf der Homepage des Kollektivs](https://fruitleather.nl/) informieren.
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung
-gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog
-findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt
+oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr
+auf meiner [Transparenz-Seite](/werbung/). _
+
+  

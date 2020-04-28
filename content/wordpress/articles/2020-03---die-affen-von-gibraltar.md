@@ -4,12 +4,12 @@ seoTitle: Die Affen von Gibraltar - unser Besuch
 slug: die-affen-von-gibraltar
 link: /2020/03/die-affen-von-gibraltar/
 fileName: 2020-03---die-affen-von-gibraltar.md
-description:
-  Unsere Reise durch Südspanien führte uns in die britische Enklave Gibraltar.
-  Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen kennen.
-excerpt:
-  Unsere Reise durch Südspanien führte uns in die britische Enklave Gibraltar.
-  Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen kennen.
+description: Unsere Reise durch Südspanien führte uns in die britische Enklave
+  Gibraltar. Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen
+  kennen.
+excerpt: Unsere Reise durch Südspanien führte uns in die britische Enklave
+  Gibraltar. Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen
+  kennen.
 focusKeyword: Gibraltar
 labels:
   - Affen Gibraltar
@@ -33,13 +33,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28757"
+image: /img/demo.jpg
+errors: []
 subTitle: Unser Besuch auf dem berühmten Felsen
+  
 ---
 
-<strong>Am 25. Juni letzten Jahres hatte uns unsere Reise durch Südspanien nach
+**Am 25. Juni letzten Jahres hatte uns unsere Reise durch Südspanien nach
 Gibraltar geführt. Trotz spannender Temperaturen wagten wir uns auf den Felsen
 und lernten dort die Affen von Gibraltar kennen. Ihr könnt sie in der
-Bildergalerie unter diesem Artikel bewundern.</strong>
+Bildergalerie unter diesem Artikel bewundern.**
 
 "Heute habe ich auf dem Felsen von Gibraltar gesehen, wie ein größerer Affe
 einen winzigen Affen aus einem kleinen Affen rausgezogen hat. Der kleinste wurde
@@ -113,3 +116,5 @@ fotografiert, um sie nicht zu stören. Das Neugeborene ist auf meinen Bildern
 nicht zu sehen.
 
 [glry name="gibraltarapes"]
+
+  

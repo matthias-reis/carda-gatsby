@@ -16,7 +16,10 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: null
+image: /img/demo.jpg
+errors: []
 subTitle: Gedanken hinter dem Fenster
+  
 ---
 
 Jeden Morgen siehst Du beim Blumengießen dem Spiel der Trauermücken zu, die
@@ -28,3 +31,5 @@ die belebte Straße. Hörst, wie im Innenhof gegenüber ein Kind weint und gehst
 Dich.
 
 Was wäre wenn...
+
+  

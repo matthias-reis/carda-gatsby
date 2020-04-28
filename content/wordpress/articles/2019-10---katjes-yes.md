@@ -4,12 +4,10 @@ seoTitle: Wie der neue Werbespot von Katjes die Lobbyisten stresst
 slug: wie-ein-suessigkeitenhersteller-die-lobbyisten-stresst
 link: /2019/10/wie-ein-suessigkeitenhersteller-die-lobbyisten-stresst/
 fileName: 2019-10---katjes-yes.md
-description:
-  Seit Tagen sorgt im Internet ein neuer Werbespot für Aufsehen. Katjes
-  thematisiert darin die Ausbeutung in der Massentierhaltung und
+description: Seit Tagen sorgt im Internet ein neuer Werbespot für Aufsehen.
+  Katjes thematisiert darin die Ausbeutung in der Massentierhaltung und
   Kuhmilch-Alternativen.
-excerpt:
-  Seit Tagen sorgt im Internet ein neuer Werbespot für Aufsehen. Katjes
+excerpt: Seit Tagen sorgt im Internet ein neuer Werbespot für Aufsehen. Katjes
   thematisiert darin die Ausbeutung in der Massentierhaltung und
   Kuhmilch-Alternativen.
 focusKeyword: Katjes
@@ -35,13 +33,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26625"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Süßigkeitenhersteller stresst die Lobbyisten
+  
 ---
 
-<strong>Schon seit Tagen sorgt im Internet ein neuer Werbespot für Aufsehen. Der
+**Schon seit Tagen sorgt im Internet ein neuer Werbespot für Aufsehen. Der
 Süßigkeitenhersteller Katjes bewirbt darin nicht nur seine neuen veganen
 Schokoladensorten – er weist auch auf die Missstände in der Massentierhaltung
-hin – auf drastische und zugleich sehr einfühlsame Art und Weise.</strong>
+hin – auf drastische und zugleich sehr einfühlsame Art und Weise.**
 
 Kühe mit riesigen Eutern stehen in Reih und Glied und müssen zum Melken
 antreten, nachdem man ihnen die Kinder direkt nach der Geburt entzogen hat.
@@ -57,13 +58,13 @@ Wahrheit sagen und das auch so bleiben soll? Wilde Spekulationen sollten an
 dieser Stelle doch erlaubt sein, oder?
 
 Der unbeholfene Aufschrei löste eine regelrechte Welle der Aufmerksamkeit aus
-und der <strong>Werbespot</strong> ging über Nacht viral. Insgesamt 161.229
-Aufrufe hat der Spot, der am 14. Oktober bei Youtube live ging, Stand heute
-bereits zu verbuchen. Auf der Videoplattform findet man inzwischen zahlreiche
-Beiträge von Blogger\*innen und Journalist\*innen, die den Clip und vor allem
-auch die peinliche Reaktion des Bauernverbandes aufarbeiten. Den Lobbyisten
-scheinen die sorgsam zurechtgelegten Felle auch in hier langsam aber sicher
-davon zu schwimmen – peinlich.
+und der **Werbespot** ging über Nacht viral. Insgesamt 161.229 Aufrufe hat der
+Spot, der am 14. Oktober bei Youtube live ging, Stand heute bereits zu
+verbuchen. Auf der Videoplattform findet man inzwischen zahlreiche Beiträge von
+Blogger\*innen und Journalist\*innen, die den Clip und vor allem auch die
+peinliche Reaktion des Bauernverbandes aufarbeiten. Den Lobbyisten scheinen die
+sorgsam zurechtgelegten Felle auch in hier langsam aber sicher davon zu
+schwimmen – peinlich.
 
 ## Katjes zeigt Alternativen ohne Tierleid
 
@@ -72,10 +73,10 @@ Teil der Kampagne “Cool ohne Kuh”. Unter dem Hashtag #achtemaldrauf weist Ka
 seit Neuestem auf faire und gesunde Alternativen, die ohne Tierleid auskommen,
 hin. Entwickelt wurde das Ganze von der Berliner Werbeagentur antoni. Das
 Artwork stammt von keinem Geringeren als dem britischen Illustratoren und
-Karikaturisten Gerald Scarfe, der unter anderem mit dem Cover für das
-<strong>Pink Floyd</strong> Album “The Wall” Berühmtheit erlangte. Scarfe zeigt,
-was Sache ist: Massentierhaltung ist grausam und Kuhmilch kann man ganz leicht
-mit Haferdrink ersetzen.
+Karikaturisten Gerald Scarfe, der unter anderem mit dem Cover für das **Pink
+Floyd** Album “The Wall” Berühmtheit erlangte. Scarfe zeigt, was Sache ist:
+Massentierhaltung ist grausam und Kuhmilch kann man ganz leicht mit Haferdrink
+ersetzen.
 
 ## Schaut Euch diesen Spot an!
 
@@ -123,5 +124,7 @@ sich jedoch nicht als klagebefugt. Den einzelnen Mittbewerbern wird vom BGH
 zugemutet, sich selbst gegen eventuelle Herabsetzungen zu wehren. Das geht aus
 einer aktuellen Pressemitteilung hervor.
 
-<strong>Quelle:</strong>
+**Quelle:**
 [Pressesprecher.com](pressesprecher.com/nachrichten/katjes-verstoesst-nicht-gegen-wettbewerbsrecht-673340169)
+
+  

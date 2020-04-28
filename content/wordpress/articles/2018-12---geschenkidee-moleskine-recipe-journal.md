@@ -1,17 +1,15 @@
 ---
 title: "Geschenkidee: Moleskine Recipe Journal"
-seoTitle:
-  "Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung"
+seoTitle: "Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung"
 slug: geschenkidee-moleskine-recipe-journal
 link: /2018/12/geschenkidee-moleskine-recipe-journal/
 fileName: 2018-12---geschenkidee-moleskine-recipe-journal.md
-description:
-  Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe
-  Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
-excerpt:
-  Werbung & Affiliate Links - Heute habe ich einen weiteren Geschenktipp für
-  Euch vorbereitet. Das Recipe Journal von Moleskine ist perfekt für alle, die
-  sich gerne Rezepte ausdenken.
+description: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet.
+  Das Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte
+  ausdenken.
+excerpt: Werbung & Affiliate Links - Heute habe ich einen weiteren Geschenktipp
+  für Euch vorbereitet. Das Recipe Journal von Moleskine ist perfekt für alle,
+  die sich gerne Rezepte ausdenken.
 focusKeyword: Moleskine
 labels:
   - DIY
@@ -35,14 +33,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22897"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezepte sammeln wie die Profis
+  
 ---
 
-<em>Werbung &amp; Affiliate Link\*</em>
+_Werbung &amp; Affiliate Link\*_
 
-<strong>Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das
-Recipe Journal von Moleskine ist genau das Richtige für alle, die sich gerne
-Rezepte ausdenken und sie nicht mehr vergessen möchten.</strong>
+**Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe
+Journal von Moleskine ist genau das Richtige für alle, die sich gerne Rezepte
+ausdenken und sie nicht mehr vergessen möchten.**
 
 Das Buch zum selber schreiben ist ein Teil der neuen Moleskine
 Notizbuch-Kollektion "Passion Journals". Zu haben sind sie in den Varianten
@@ -105,9 +106,11 @@ Das ist schon mal ein guter Anfang, aber Ihr braucht für Weihnachten noch ein
 paar weitere Geschenke? Dann bleibt am besten einfach dran. In Kürze findet Ihr
 hier im Blog noch ein paar weitere Tipps.
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+  [Transparenz-Seite](/werbung/). _
 
 [glry name="2018-12-moleskine"]
+
+  

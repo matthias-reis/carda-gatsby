@@ -4,12 +4,10 @@ seoTitle: Tom & Flo live @ Joe's Garage
 slug: tom-flo-live-joes-garage
 link: /2009/12/tom-flo-live-joes-garage/
 fileName: 2009-12---tom-und-flo-live-joes-garage.md
-description:
-  "Am Samstag, 19. Dezember war es so weit: Tom & Flo spielten live und
-  unplugged in Lothars alter Nähfabrik in Schrobenhausen."
-excerpt:
-  Am Samstag, 19. Dezember spielten Tom & Flo live und unplugged in Lothars
-  alter Nähfabrik in Schrobenhausen.
+description: "Am Samstag, 19. Dezember war es so weit: Tom & Flo spielten live
+  und unplugged in Lothars alter Nähfabrik in Schrobenhausen."
+excerpt: Am Samstag, 19. Dezember spielten Tom & Flo live und unplugged in
+  Lothars alter Nähfabrik in Schrobenhausen.
 focusKeyword: Tom & Flo
 labels:
   - Konzerte
@@ -21,12 +19,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11494"
+image: /img/demo.jpg
+errors: []
 subTitle: Lothars alte Nähfabrik Schrobenhausen
+  
 ---
-
-![Tom_und_Flo](http://cardamonchai.com/wp-content/uploads/2009/12/9915324134_eeaa627d60_z-640x427.jpg)
-
-<strong>
 
 Die Gäste reisten zahlreich aus dem gesamten oberbayerischen und schwäbischen
 Umland an. Der Konzertsaal "Joe's Garage" war bis auf den letzten Platz besetzt.
@@ -47,6 +44,9 @@ FLO!
 Flo ist außerdem Leadsänger der Band TONAIR aus Aichach, die auch immer wieder
 im bayerischen Raum auf Tour ist.
 
-<em> [Homepage](http://www.tom-und-flo.de/) Tonair</em>
+_ [Homepage](http://www.tom-und-flo.de/) Tom &amp; Flo_ _
+[Homepage](http://www.tonair.de/frontend/front_content.php) Tonair_
 
 [myflickr tag="annetomundflo"]
+
+  

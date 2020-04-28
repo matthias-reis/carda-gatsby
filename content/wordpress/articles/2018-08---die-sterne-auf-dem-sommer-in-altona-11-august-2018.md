@@ -4,12 +4,12 @@ seoTitle: Die Sterne auf dem Sommer in Altona 11. August 2018 - Live und in echt
 slug: die-sterne-live-sommer-in-altona-11-august-2018
 link: /2018/08/die-sterne-live-sommer-in-altona-11-august-2018/
 fileName: 2018-08---die-sterne-auf-dem-sommer-in-altona-11-august-2018.md
-description:
-  Gestern war es soweit. Nach langer Zeit konnte ich endlich die Sterne wieder
-  live auf der Bühne erleben. Was soll ich sagen? Es war ein wunderbarer Abend!
-excerpt:
-  Gestern war es soweit. Nach langer Zeit konnte ich endlich die Sterne wieder
-  live auf der Bühne erleben. Was soll ich sagen? Es war ein wunderbarer Abend!
+description: Gestern war es soweit. Nach langer Zeit konnte ich endlich die
+  Sterne wieder live auf der Bühne erleben. Was soll ich sagen? Es war ein
+  wunderbarer Abend!
+excerpt: Gestern war es soweit. Nach langer Zeit konnte ich endlich die Sterne
+  wieder live auf der Bühne erleben. Was soll ich sagen? Es war ein wunderbarer
+  Abend!
 focusKeyword: Sommer in Altona
 labels:
   - Altona
@@ -33,12 +33,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21701"
-subTitle: in echt</em>
+image: /img/demo.jpg
+errors: []
+subTitle: Live und <em>in echt</em>
+  
 ---
 
-<strong>Gestern war es endlich soweit. Nach langer Zeit konnte ich endlich DIE
-STERNE wieder live auf der Bühne erleben. Und das auch noch ein paar Meter
-Luftlinie von unserem Zuhause entfernt.</strong>
+**Gestern war es endlich soweit. Nach langer Zeit konnte ich endlich DIE STERNE
+wieder live auf der Bühne erleben. Und das auch noch ein paar Meter Luftlinie
+von unserem Zuhause entfernt.**
 
 Schon seit meinem Geburtstag Anfang Juni hingen die Karten bei uns an der
 Pinnwand. Von schier unsteigerbarer Vorfreude ergriffen, waren wir dann gleich
@@ -63,35 +66,25 @@ kaum noch retten konnte. Bevor man dann um zehn wirklich den Laden zumachte, gab
 es dann noch "Wenn Dir St. Pauli auf den Geist fällt". Bei diesem Heimspiel ein
 Stück, auf das alle gehofft hatten.
 
-<blockquote>
-## Hier die komplette Setlist des Konzerts
-<ol>
-    <li>Scheiß auf deutsche Texte</li>
-    <li>In diesem Sinn</li>
-    <li>Big in Berlin</li>
-    <li>Mach mich vom Acker</li>
-    <li>Die Interessanten</li>
-    <li>Stell die Verbindung her</li>
-    <li>Ihr wollt mich töten</li>
-    <li>Trrrmmer</li>
-    <li>Aber andererseits</li>
-    <li>Deine Pläne</li>
-    <li>Nach fest kommt lose</li>
-    <li>Depressionen aus der Hölle</li>
-    <li>Wahr ist was wahr ist</li>
-    <li>Risikobiographie</li>
-    <li>Universal Tellerwäscher</li>
-    <li>Was hat dich bloß so ruiniert</li>
-</ol>
-## Zugabe 1
-<ol>
-    <li>Widerschein</li>
-    <li>Convenience Shop</li>
-</ol>
-## Zugabe 2
-Fickt das System
-## Zugabe 3
-Wenn dir St. Pauli auf den Geist fällt</blockquote>
+> ## Hier die komplette Setlist des Konzerts 1. Scheiß auf deutsche Texte
+
+1.  In diesem Sinn
+1.  Big in Berlin
+1.  Mach mich vom Acker
+1.  Die Interessanten
+1.  Stell die Verbindung her
+1.  Ihr wollt mich töten
+1.  Trrrmmer
+1.  Aber andererseits
+1.  Deine Pläne
+1.  Nach fest kommt lose
+1.  Depressionen aus der Hölle
+1.  Wahr ist was wahr ist
+1.  Risikobiographie
+1.  Universal Tellerwäscher
+1.  Was hat dich bloß so ruiniert ## Zugabe 1 1. Widerschein
+1.  Convenience Shop ## Zugabe 2 Fickt das System ## Zugabe 3 Wenn dir St. Pauli
+    auf den Geist fällt
 
 ## Geniale Stimmung
 
@@ -126,3 +119,5 @@ und Yo La Tengo live zu bewundern.
 
 [gallery type="rectangular" size="medium" link="none"
 ids="21701,21700,21699,21698,21697"]
+
+  

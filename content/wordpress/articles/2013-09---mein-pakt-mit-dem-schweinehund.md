@@ -4,12 +4,12 @@ seoTitle: Mein Pakt mit dem Schweinehund - Rauchen aufhören - Ein Selbstversuch
 slug: mein-pakt-mit-dem-schweinehund
 link: /2013/09/mein-pakt-mit-dem-schweinehund/
 fileName: 2013-09---mein-pakt-mit-dem-schweinehund.md
-description:
-  Ich bin Nichtraucherin! Ab heute! Ich lasse Euch alle an meinem Selbstversuch
-  teilhaben. Ich werde es schaffen, oder? Was wohl der Schweinehund davon hält?
-excerpt:
-  Ich bin Nichtraucherin! Ab heute! Ich lasse Euch alle an meinem Selbstversuch
-  teilhaben. Ich werde es schaffen, oder? Was wohl der Schweinehund davon hält?
+description: Ich bin Nichtraucherin! Ab heute! Ich lasse Euch alle an meinem
+  Selbstversuch teilhaben. Ich werde es schaffen, oder? Was wohl der
+  Schweinehund davon hält?
+excerpt: Ich bin Nichtraucherin! Ab heute! Ich lasse Euch alle an meinem
+  Selbstversuch teilhaben. Ich werde es schaffen, oder? Was wohl der
+  Schweinehund davon hält?
 focusKeyword: Schweinehund
 labels:
   - Arsen
@@ -41,15 +41,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7087"
+image: /img/demo.jpg
+errors: []
 subTitle: Ich habe aufgehört zu rauchen...
+  
 ---
 
 ![Schweinehund](http://cardamonchai.com/wp-content/uploads/2013/09/9707307969_f3e68eba49_o-640x640.jpg "Hässlichstes Bild in meinem Blog bisher und in Zukunft")
 
-<strong>... und das vor ziemlich genau vier Stunden. Um 13:30 habe ich die
-letzte Kippe in den Sand des Aschenbechers vor dem Bürogebäude gedrückt. Jetzt
-meint Ihr sicher: Die spinnt doch. Nein, das tue ich nicht. Ich habe mir das
-ganz genau überlegt...</strong>
+**... und das vor ziemlich genau vier Stunden. Um 13:30 habe ich die letzte
+Kippe in den Sand des Aschenbechers vor dem Bürogebäude gedrückt. Jetzt meint
+Ihr sicher: Die spinnt doch. Nein, das tue ich nicht. Ich habe mir das ganz
+genau überlegt...**
 
 Wovor ich am meisten Angst habe? Nicht davor, es nicht zu schaffen und nachher
 gleich wieder anzufangen, sondern davor, Euch mit einem weiteren "Endlich
@@ -129,7 +132,7 @@ kurzen Artikel, der sich von den anderen abhob. Es ging um Konditionierung.
 Belohnung. Die Zuckerbrot und Peitsche-Methode. Man schreibt einen Vertrag.
 Schreibt das Datum und die Uhrzeit rein. Und dann sind da natürlich noch die
 Zuckerbrote. Zum Schluss sucht man sich noch zwei Zeugen. Und vóilà: Fertig ist
-der Vertrag. Ich nenne ihn liebevoll <em>"Mein Pakt mit dem Schweinehund"</em>.
+der Vertrag. Ich nenne ihn liebevoll _"Mein Pakt mit dem Schweinehund"_ .
 
 Mein Schweinehund bekommt von mir viele tolle Sachen gekauft, die ich dann
 zusammen mit ihm genieße und im Gegenzug hört er damit auf, mir eine stinkende
@@ -140,13 +143,20 @@ Netz. Und wenn ich es nicht schaffe, könnt Ihr mich alle öffentlich auslachen.
 Es ist hart. Ich weiß. Eure Fanpost könnt Ihr also direkt an das Postfach
 zwischen Al Pacino und Bruce Willis senden. :-P Hier kommt der Vertrag:
 
-<div style="border: solid 2px #990033;">## </strong><address style="text-align: left;">Ich werde ab Montag, 09. September 2013 14:00 Uhr nicht mehr rauchen. Hier sind die Hauptgründe:</address><ul style="text-align: left;"><li><address>Gesundheit</address></li><li><address>Kinderarbeit</address></li><li><address>Spart Geld</address></li></ul><address style="text-align: left;">Als Belohnung bekommt der Schweinehund folgende Zuckerbrote von mir, die ich im Anschluss genießen werde:</address><ul style="text-align: left;"><li><address>Nach einer Woche (16.09.13): Six Feed Under Season 1</address></li><li><address>Nach einem Monat (09.10.13): Ein Paar neue Stiefel</address></li><li><address>Nach drei Monaten (09.12.13): Eine Serienkomplettbox</address></li><li><address>Nach einem halben Jahr (09.03.14): Die Kette, die mir so gut gefällt</address></li></ul><address style="text-align: left;">Mit dem gesparten Stinkezigarettengeld sollte ich das alles locker hinkriegen.</address><address style="text-align: left;">Wenn ich den Vertrag erfüllt habe, werde ich:</address><ul style="text-align: left;"><li><address>Einen weiteren Blogeintrag zum Thema schreiben</address></li><li><address>Mit dem Herzmann lecker essen gehen</address></li><li><address>Die Sucht besiegt haben</address></li></ul><p style="text-align: left;"><strong><span style="color: #cc0033;">Gezeichnet</span></strong></p><address style="text-align: left;"><strong>Anne </strong>(auch i. A. des fürchterlichen Schweinehunds)</address><p style="text-align: left;"><strong><span style="color: #cc0033;">Zeugen</span></strong></p><p style="text-align: left;"><strong>Evelyn</strong><em>(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei ist, und mich mit ihrer heiteren Art unterstützt, wo sie kann.)</em></p>
+<div style="border: solid 2px #990033;">##  __Vertrag__ <address style="text-align: left;">Ich werde ab Montag, 09. September 2013 14:00 Uhr nicht mehr rauchen. Hier sind die Hauptgründe:</address>-  <address>Gesundheit</address>
+-  <address>Kinderarbeit</address>
+-  <address>Spart Geld</address><address style="text-align: left;">Als Belohnung bekommt der Schweinehund folgende Zuckerbrote von mir, die ich im Anschluss genießen werde:</address>-  <address>Nach einer Woche (16.09.13): Six Feed Under Season 1</address>
+-  <address>Nach einem Monat (09.10.13): Ein Paar neue Stiefel</address>
+-  <address>Nach drei Monaten (09.12.13): Eine Serienkomplettbox</address>
+-  <address>Nach einem halben Jahr (09.03.14): Die Kette, die mir so gut gefällt</address><address style="text-align: left;">Mit dem gesparten Stinkezigarettengeld sollte ich das alles locker hinkriegen.</address><address style="text-align: left;">Wenn ich den Vertrag erfüllt habe, werde ich:</address>-  <address>Einen weiteren Blogeintrag zum Thema schreiben</address>
+-  <address>Mit dem Herzmann lecker essen gehen</address>
+-  <address>Die Sucht besiegt haben</address> __Gezeichnet__ <address style="text-align: left;"> __Anne__ (auch i. A. des fürchterlichen Schweinehunds)</address> __Zeugen__  __Evelyn__  _(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei ist, und mich mit ihrer heiteren Art unterstützt, wo sie kann.)_
 
 ![Evelyn](http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300 "Evelyn")
 
-<strong>Der Herzmann</strong><em>(Der noch nie einen Glimmstengel angefasst hat
-und heute Abend, beim Stöbern in meinem Blog völlig unvorbereitet von meinem
-Vorhaben erfahren wird.)</em>
+**Der Herzmann** _(Der noch nie einen Glimmstengel angefasst hat und heute
+Abend, beim Stöbern in meinem Blog völlig unvorbereitet von meinem Vorhaben
+erfahren wird.)_
 
 ![Der Herzmann](http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300 "Der Herzmann")
 
@@ -156,6 +166,10 @@ Klingt doch alles ganz durchdacht, oder? Ich bin auf jeden Fall schon ziemlich
 gespannt und gehe nun erstmal raus auf den Balkon. Den vollen Aschenbecher samt
 Inhalt wegwerfen.
 
-<p style="text-align: left;"><em><strong> Bis bald, ich werde weiter  [berichten](/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/) !</strong></em></p>
+_ **Bis bald, ich werde weiter
+[berichten](/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/)
+!** _
 
 [youtube=http://www.youtube.com/watch?v=hB-WHw6uMWg]
+
+  

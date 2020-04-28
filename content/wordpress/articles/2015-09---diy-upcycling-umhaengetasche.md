@@ -4,13 +4,11 @@ seoTitle: DIY Upcycling Umhängetasche
 slug: diy-upcycling-umhaengetasche
 link: /2015/09/diy-upcycling-umhaengetasche/
 fileName: 2015-09---diy-upcycling-umhaengetasche.md
-description:
-  Wie versprochen teile ich heute mit Euch meine zweite Anleitung zur
+description: Wie versprochen teile ich heute mit Euch meine zweite Anleitung zur
   Herstellung einer schicken DIY-Tasche aus einem alten T-Shirt.
-excerpt:
-  Vor Kurzem habe ich an dieser Stelle mit Euch meine Anleitung für einen höchst
-  eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute Teil 2
-  für Euch.
+excerpt: Vor Kurzem habe ich an dieser Stelle mit Euch meine Anleitung für einen
+  höchst eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute
+  Teil 2 für Euch.
 focusKeyword: DIY
 labels:
   - Anleitung
@@ -31,22 +29,28 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12851"
+image: /img/demo.jpg
+errors: []
 subTitle: Aus T-Shirt mach Tasche Teil 2
+  
 ---
 
 ![Meine DIY Upcycling Umhängetasche](http://cardamonchai.com/wp-content/uploads/2015/09/DIY-Umhängetasche-23-640x960.jpg "Meine DIY Upcycling Umhängetasche")
 
-<strong>Vor Kurzem habe ich an dieser Stelle mit Euch meine Anleitung für einen
-höchst eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute
-Teil 2 für Euch. </strong>
+**Vor Kurzem habe ich an dieser Stelle mit Euch meine Anleitung für einen höchst
+eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute Teil 2
+für Euch.**
 
 Die Umhängetasche lässt sich noch leichter herstellen, als der
 [Nerdbag](/2015/09/diy-upcycling-nerdbag/). Ihr braucht dazu lediglich ein altes
-T-Shirt und ein paar Kleinigkeiten.<strong></strong>Natürlich habe ich auch
-wieder ein paar Fotos geschossen, um die einzelnen Schritte der Anleitung zu
-bebildern.
+T-Shirt und ein paar Kleinigkeiten. \_\_\_\_ Natürlich habe ich auch wieder ein
+paar Fotos geschossen, um die einzelnen Schritte der Anleitung zu bebildern.
 
-## So wird Eure DIY Upcycling Umhängetasche hergestellt
+## Benötigt wird- 1 altes T-Shirt
+
+- Garn in der Farbe des Shirts
+- Stecknadeln
+- Nähmaschine## So wird Eure DIY Upcycling Umhängetasche hergestellt
 
 Breitet das T-Shirt auf dem Tisch aus und achtet dabei darauf, dass Vorder- und
 Rückseite ganz genau übereinander liegen. Schneidet die Ärmel einen guten
@@ -79,3 +83,5 @@ Viel Spaß!
 
 Wie Ihr einen trendy Turnbeutel aus einem alten Jutesack machen könnt,
 [erfahrt Ihr hier](/2015/09/diy-upcycling-turnbeutel/).
+
+  

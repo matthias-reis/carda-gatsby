@@ -4,13 +4,12 @@ seoTitle: Hanf Banane Himbeer Reigen - Kräftigender Smoothie für Naschkatzen
 slug: hanf-banane-himbeer-smoothie
 link: /2017/04/hanf-banane-himbeer-smoothie/
 fileName: 2017-04---hanf-banane-himbeer-reigen.md
-description:
-  Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit einem leckeren
-  Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power, die Ihr braucht
-excerpt:
-  Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit einem leckeren
-  Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power, die Ihr
-  braucht.
+description: Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit
+  einem leckeren Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power,
+  die Ihr braucht
+excerpt: Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit einem
+  leckeren Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power, die
+  Ihr braucht.
 focusKeyword: Hanf
 labels:
   - bananagirl
@@ -32,12 +31,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16818"
+image: /img/demo.jpg
+errors: []
 subTitle: Kräftigender Smoothie für Naschkatzen
+  
 ---
 
 ![Hanf](http://cardamonchai.com/wp-content/uploads/2017/04/35362415875_303a38ecae_k-640x960.jpg)
 
-<strong>
+**Kennt Ihr das? Man kommt einfach nicht dazu, Dinge zu erledigen und plötzlich
+hat sich ein riesiger Berg Arbeit angehäuft, der erledigt werden will. Da bleibt
+oft kaum Zeit für eine Pause. Zwischendurch mal schnell "was brutzeln" klappt
+einfach nicht.**
 
 Auf dem Schreibtisch stapeln sich die Akten. Das E-Mail-Postfach ist voll und
 fünf Chat-Fenster poppen schon seit gefühlten Stunden vor Euch auf. Der Magen
@@ -53,12 +58,10 @@ auch noch Gluten-frei.
 
 ## Zutaten
 
-<ul>
-    <li>1-2 Tassen gefrorene Himbeeren</li>
-    <li>1 gefrorene oder frische Banane</li>
-    <li>2 Esslöffel Hanf-Protein</li>
-    <li>1 Glas Wasser</li>
-</ul>
+- 1-2 Tassen gefrorene Himbeeren
+- 1 gefrorene oder frische Banane
+- 2 Esslöffel Hanf-Protein
+- 1 Glas Wasser
 
 ## Tipp
 
@@ -75,12 +78,12 @@ Viel Spaß beim Ausprobieren! Ich wünsche Euch eine stressfreie Woche!
 
 ## Wegweiser Smoothies
 
-<ol>
-    <li> [Heidelbeerliebe](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/) </li>
-    <li> [Sonnenaufgang im Paradies](/2014/08/sonnenaufgang-im-paradies/) </li>
-    <li>Hanf Banane Himbeer Reigen</li>
-</ol>
+1.  [Heidelbeerliebe](/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/)
+1.  [Sonnenaufgang im Paradies](/2014/08/sonnenaufgang-im-paradies/)
+1.  Hanf Banane Himbeer Reigen
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
 
 [gallery type="rectangular" size="large" link="none" ids="16821,16820"]
+
+  

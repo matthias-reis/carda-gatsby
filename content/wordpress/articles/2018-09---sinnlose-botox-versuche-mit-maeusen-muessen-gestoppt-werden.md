@@ -4,13 +4,13 @@ seoTitle: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden
 slug: peta-sinnlose-botox-versuche-mit-maeusen-stoppen
 link: /2018/09/peta-sinnlose-botox-versuche-mit-maeusen-stoppen/
 fileName: 2018-09---sinnlose-botox-versuche-mit-maeusen-muessen-gestoppt-werden.md
-description:
-  '"Nur aufgrund von bürokratischer Gleichgültigkeit und unternehmerischer Gier
-  lassen Mäuse in grausamen Botox-Versuchen Tag für Tag ihr Leben."'
-excerpt:
-  Werbung da Verlinkung - "Nur aufgrund von bürokratischer Gleichgültigkeit und
+description: '"Nur aufgrund von bürokratischer Gleichgültigkeit und
   unternehmerischer Gier lassen Mäuse in grausamen Botox-Versuchen Tag für Tag
-  ihr Leben." PETA klärt auf. Ihr könnt die Tierrechtsorganisation unterstützen.
+  ihr Leben."'
+excerpt: Werbung da Verlinkung - "Nur aufgrund von bürokratischer
+  Gleichgültigkeit und unternehmerischer Gier lassen Mäuse in grausamen
+  Botox-Versuchen Tag für Tag ihr Leben." PETA klärt auf. Ihr könnt die
+  Tierrechtsorganisation unterstützen.
 focusKeyword: Botox
 labels:
   - Beauty-Wahnsinn
@@ -33,16 +33,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22127"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (31:21)"
 subTitle: Unterstützt jetzt PETA!
+  
 ---
 
-<em>Werbung da Verlinkung (ohne Auftrag)\*</em>
+## unknown: Expected corresponding JSX closing tag for <p> (31:21)
 
-<strong>"Nur aufgrund von bürokratischer Gleichgültigkeit und unternehmerischer
-Gier lassen Mäuse in grausamen Botox-Versuchen Tag für Tag ihr Leben. Mäuse sind
+<!--
+_Werbung da Verlinkung (ohne Auftrag)\*_
+
+**"Nur aufgrund von bürokratischer Gleichgültigkeit und unternehmerischer Gier
+lassen Mäuse in grausamen Botox-Versuchen Tag für Tag ihr Leben. Mäuse sind
 denkende, fühlende Lebewesen. Sie werden für Versuche gezüchtet, weil sie durch
-ihre geringe Körpergröße von Menschen einfach gehandhabt werden
-können."</strong>
+ihre geringe Körpergröße von Menschen einfach gehandhabt werden können."**
 
 Das prangert die Tierrechtsorganisation PETA an. Jeden Tag sterben 1.644 Mäuse
 in den qualvollen Versuchen mit dem Nervengift Botulinumtoxin, das den meisten
@@ -64,16 +71,16 @@ Lidkrämpfe mit Botulinumtoxin.
 <blockquote>"Dies ist die Geschichte von einer unter tausenden Mäusen, die in den Botoxversuchen missbraucht werden. Wir geben ihr den Namen Madeline. Wie alle anderen Mäuse, ist auch Madeline ein hochsoziales Tier. Mäuse kommunizieren mithilfe von Hochfrequenzlauten miteinander. Als Madeline im Anschluss an ihren Transport im Versuchslabor ankommt, hört sie, dass viele ihrer Artgenoss*innen anwesend sind. Sie alle haben Angst. Sie fragt sich, was los ist.
 
 Auch Madeline packt die nackte Angst. Sie wird von einem Menschen hochgehoben,
-der ihr <strong>Botox</strong> in die Muskeln spritzt. Die anderen Mäuse haben
-das selbe Schicksal. Sie bekommt kaum noch Luft und stellt fest, dass sie nicht
-mehr laufen kann. Nach drei Tagen ist ihre Atemmuskulatur komplett gelähmt und
+der ihr **Botox** in die Muskeln spritzt. Die anderen Mäuse haben das selbe
+Schicksal. Sie bekommt kaum noch Luft und stellt fest, dass sie nicht mehr
+laufen kann. Nach drei Tagen ist ihre Atemmuskulatur komplett gelähmt und
 Madeline erstickt."</blockquote>
 
 ## Tierfreie Testmethoden
 
-Wenn ein <strong>hochtoxisches Nervengift</strong> getestet werden muss, dann
-bitte nicht an Tieren! Möglich sind beispielsweise Tests an isolierten humanen
-Nervenzellen. Auch das erklärt PETA im Rahmen der aktuellen Kampagne genau:
+Wenn ein **hochtoxisches Nervengift** getestet werden muss, dann bitte nicht an
+Tieren! Möglich sind beispielsweise Tests an isolierten humanen Nervenzellen.
+Auch das erklärt PETA im Rahmen der aktuellen Kampagne genau:
 
 Die Forscher können isolierte humane Nervenzellen in Kombination mit einem Enzym
 nutzen, das auch in Glühwürmchen vorkommt. Seine entscheidende Eigenschaft ist,
@@ -101,9 +108,14 @@ dazu findet Ihr unter
 [peta.de/tierversuche.stoppen](https://www.peta.de/tierversuche-stoppen). Auf
 der Seite könnt Ihr spenden und Euch weitere Infos zum Thema holen.
 
-<strong>Foto:</strong> [PETA](https://pixabay.com/de/users/tiburi-2851152/)
+**Foto:** [tiburi](https://pixabay.com/de/users/tiburi-2851152/), Pixabay,
+Pressemitteilung und Kampagne: [PETA](https://www.peta.de)
 
-<em>\*Dieser Artikel ist als "Werbung" gekennzeichnet, da ich auf eine Kampagne
-von PETA verlinkt habe. Meine Meinung wurde nicht beeinflusst. Alles zum Thema
+_\*Dieser Artikel ist als "Werbung" gekennzeichnet, da ich auf eine Kampagne von
+PETA verlinkt habe. Meine Meinung wurde nicht beeinflusst. Alles zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Tranzparenzseite](/werbung/). </em>
+[Tranzparenzseite](/werbung/). _
+
+-->
+
+  

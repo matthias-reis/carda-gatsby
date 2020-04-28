@@ -16,9 +16,14 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29223"
+image: /img/demo.jpg
+errors: []
 subTitle: Burger, Süßigkeiten &amp; Co.
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
 [glry name="soulfood-alles-vegetarisch"]
+
+  

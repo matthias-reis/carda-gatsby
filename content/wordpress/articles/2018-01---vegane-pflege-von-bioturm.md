@@ -4,12 +4,10 @@ seoTitle: Vegane Pflege von Bioturm - All Time Favorites unter der Lupe
 slug: bioturm
 link: /2018/01/bioturm/
 fileName: 2018-01---vegane-pflege-von-bioturm.md
-description:
-  Heute möchte ich Euch mit Bioturm einen All Time Favourite vorstellen. Das
-  habe ich mit einem interessanten Testbericht verbunden. Viele Spaß beim
-  Duschen!
-excerpt:
-  Werbung - Heute möchte ich Euch mit Bioturm einen All Time Favourite
+description: Heute möchte ich Euch mit Bioturm einen All Time Favourite
+  vorstellen. Das habe ich mit einem interessanten Testbericht verbunden. Viele
+  Spaß beim Duschen!
+excerpt: Werbung - Heute möchte ich Euch mit Bioturm einen All Time Favourite
   vorstellen. Das habe ich mit einem interessanten Testbericht verbunden. Viele
   Spaß beim Duschen!
 focusKeyword: Bioturm
@@ -36,15 +34,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19169"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (88:29)"
 subTitle: All Time Beauty-Favourites unter der Lupe
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (88:29)
+
+<!--
 Werbung\*
 
-<strong>In der letzten Zeit habe ich viele für mich neue Produkte getestet und
-hier im Blog darüber berichtet. Heute möchte ich Euch mal ein paar meiner All
-Time Favourites  vorstellen. Wobei ich auch das mit einem kleinen Test verbinde.
-Ein Bisschen Spannung darf ja schließlich nicht fehlen.</strong>
+**In der letzten Zeit habe ich viele für mich neue Produkte getestet und hier im
+Blog darüber berichtet. Heute möchte ich Euch mal ein paar meiner All Time
+Favourites  vorstellen. Wobei ich auch das mit einem kleinen Test verbinde. Ein
+Bisschen Spannung darf ja schließlich nicht fehlen.**
 
 Was ich seit Jahren schätze und verwende, sind die Naturkosmetik-Produkte von
 Bioturm. Auch in einem meiner
@@ -76,12 +82,12 @@ verantwortlich.
 
 Hier die komplette Liste der Inhaltsstoffe in der Body Creme Mango:
 
-<em>Wasser, pflanzliche Fettsäureester, Glycerin, höherer Fettalkohol,
+_Wasser, pflanzliche Fettsäureester, Glycerin, höherer Fettalkohol,
 Trinkalkohol, pflanzl. Fettsäureester, Mangobutter, Kokosöl, Betain,
 Sonnenblumenöl, Jojobaöl, Mangofruchtsaft, waschaktive Substanz auf Zuckerbasis,
 Mango-Extrakt, Mischung nat. äth. Öle, Sonnenblumenöl, waschaktive Aminosäure,
 Vitamin E, natürlicher Verdicker, (pflanzliche) Milchsäure, Inhaltstoff der
-natürlichen ätherischen Öle</em>
+natürlichen ätherischen Öle_
 
 Wenn man mit dem Mango-Duschgel unter die Dusche geht, fängt der Tag gleich gut.
 Eingehüllt in eine warme Duftwolke kann man vom Urlaub in den Tropen träumen und
@@ -89,7 +95,11 @@ möchte da so schnell gar nicht mehr raus. Bestandteile sind hier:
 
 ![Bioturm](http://cardamonchai.com/wp-content/uploads/2018/01/39169395384_3975fe2aa1_z-300x200.jpg)
 
-<em>
+_Wasser, waschaktive Substanz auf pflanzl. Basis, waschaktive Substanz auf
+Cocos/Zucker Basis, Inulin,  (pflanzliche) Milchsäure, Kochsalz, Mischung
+natürliche ätherische Öle, Fettsäureester des Sonnenblumenöls, Mangofruchtsaft,
+Mango-Extrakt, Fettsäureester auf pflanzlicher Basis, Trinkalkohol und
+Inhaltsstoff der natürlichen ätherischen Öle_
 
 ## Auch für häufiges Duschen geeignet
 
@@ -97,10 +107,10 @@ Nach dem Duschen hat man nicht das Gefühl, dass das Duschgel die Haut
 ausgetrocknet hat. Es ist also auch gut geeignet für Personen, die Sport-bedingt
 ab und zu auch mal mehrmals am Tag duschen.
 
-So viel zu meinen neuen Favoriten. Beide tragen übrigens das <em>PeTA Cruelty
-Free And Vegan </em>Label sowie das <em>International Organic And Natural
-Cosmetics Corporation</em> Label. Ersteres steht für geprüft vegane und
-Tierleid-freie Waren, zweiteres für natürliche Biokosmetik.
+So viel zu meinen neuen Favoriten. Beide tragen übrigens das  _PeTA Cruelty Free
+And Vegan_ Label sowie das _International Organic And Natural Cosmetics
+Corporation_ Label. Ersteres steht für geprüft vegane und Tierleid-freie Waren,
+zweiteres für natürliche Biokosmetik.
 
 ![Bioturm | full](http://cardamonchai.com/wp-content/uploads/2018/01/Peta-cruelty-free-and-vegan.png)
 
@@ -131,7 +141,7 @@ persönlich natürlich ganz besonders freut.
 
 ## Hier ein Zitat der Firma Bioturm zum Thema Tierversuche:
 
-<blockquote><strong>"Wir haben eine klare Haltung zu Tierversuchen und dem Export unserer Produkte nach China:</strong>
+<blockquote> __"Wir haben eine klare Haltung zu Tierversuchen und dem Export unserer Produkte nach China:__
 
 Die Firma Bioturm hat sich seit der Gründung neben der Erhöhung des
 Wohlbefindens des Menschen und der verantwortungsvollen Behandlung der Natur
@@ -141,9 +151,9 @@ in China stießen wir auf die zurzeit in China durchgeführten Tierversuche,
 welche bei der Zulassung eines Produktes durch die China Food And Drug
 Administration (CFDA) zwingend vorgeschrieben sind.
 
-<strong>Wir können Tierversuche im Rahmen von kosmetischen Anwendungen nicht
+**Wir können Tierversuche im Rahmen von kosmetischen Anwendungen nicht
 tolerieren und haben uns daher bewusst gegen eine Lieferung nach China
-entschieden."</strong></blockquote>
+entschieden."** </blockquote>
 
 ![Bioturm](http://cardamonchai.com/wp-content/uploads/2018/01/39880742461_4e2aa2e630_z-300x200.jpg)
 
@@ -166,9 +176,15 @@ alkoholische Auszüge.
 Wer jetzt neugierig geworden ist und gerne wissen möchte, ob die
 Bioturm-Produkte auch was für sie/ihn sind: Ihr findet Sie in vielen
 Drogeriemärkten wie zum Beispiel Budni sowie in den Denns Biosupermärkten und
-natürlich auf der Bioturm [Händlersuche](http://www.bioturm.de). Einfach Euren
+natürlich auf der Bioturm [Homepage](http://www.bioturm.de). Dort gibt es
+übrigens auch eine praktische
+[Händlersuche](http://www.bioturm.de/.cms/Haendlersuche/544-1). Einfach Euren
 Wohnort in die Suchmaske eingeben und es kann losgehen.
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+-->
+
+  

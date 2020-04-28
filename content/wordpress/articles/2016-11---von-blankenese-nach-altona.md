@@ -4,12 +4,12 @@ seoTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe
 slug: von-blankenese-nach-altona
 link: /2016/11/von-blankenese-nach-altona/
 fileName: 2016-11---von-blankenese-nach-altona.md
-description:
-  Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen Spaziergang
-  an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine Bilder.
-excerpt:
-  Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen Spaziergang
-  an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine Bilder.
+description: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen
+  Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine
+  Bilder.
+excerpt: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen
+  Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine
+  Bilder.
 focusKeyword: Blankenese
 labels:
   - Altona
@@ -26,15 +26,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15345"
+image: /img/demo.jpg
+errors: []
 subTitle: Winterliche Elbe
+  
 ---
 
 ![Blankenese](http://cardamonchai.com/wp-content/uploads/2016/11/31047545891_118f076322_z-640x640.jpg '"Unten am Fluss, die Füße im Sand und den Blick auf die gewaltigen Tiere..."')
 
-<strong>"Was macht Anne in Blankenese? Ist sie jetzt unter die Reichen und
-Schönen gegangen?" - Ihr müsst mich jetzt nicht stalken, ich gehöre nach wie vor
-zum Pöbel. Nach Blankenese führte mich am Montag lediglich ein
-Arzttermin.</strong>
+**"Was macht Anne in Blankenese? Ist sie jetzt unter die Reichen und Schönen
+gegangen?" - Ihr müsst mich jetzt nicht stalken, ich gehöre nach wie vor zum
+Pöbel. Nach Blankenese führte mich am Montag lediglich ein Arzttermin.**
 
 ## Blankenese - Los gehts im Treppenviertel
 
@@ -50,3 +52,5 @@ Ich wünsche Euch viel Spaß mit den Bildern.
 
 [gallery size="large" type="rectangular" link="none"
 ids="15341,15342,15343,15344,15345,15346,15347,15348,15335,15338,15336,15337,15339"]
+
+  

@@ -4,12 +4,10 @@ seoTitle: Richtfest, Hebauf oder Firstbier - Tradition auf dem Bau
 slug: richtfest
 link: /2009/05/richtfest/
 fileName: 2009-05---richtfest-hebauf-oder-firstbier.md
-description:
-  Das Richtfest wird auch als Firstbier, Hebefest, Weihefest, Bauheben,
-  Fensterbeer oder Aufschlagfest bezeichnet. Regional ist das ganz
+description: Das Richtfest wird auch als Firstbier, Hebefest, Weihefest,
+  Bauheben, Fensterbeer oder Aufschlagfest bezeichnet. Regional ist das ganz
   unterschiedlich.
-excerpt:
-  Das Richtfest wird auch als Firstbier, Hebefest, Weihefest, Bauheben,
+excerpt: Das Richtfest wird auch als Firstbier, Hebefest, Weihefest, Bauheben,
   Fensterbeer oder Aufschlagfest bezeichnet.
 focusKeyword: Richtfest
 labels:
@@ -28,11 +26,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11362"
+image: /img/demo.jpg
+errors: []
 subTitle: Tradition auf dem Bau
+  
 ---
-
-<strong>Das Richtfest wird auch als Firstbier, Hebefest, Weihefest, Bauheben,
-Fensterbeer oder Aufschlagfest bezeichnet. </strong>
 
 Regional ist das ganz unterschiedlich. Im Landkreis Aichach-Friedberg, wo mir
 diese Aufnahme gelungen ist, nennt man es Hebauf.
@@ -61,3 +59,5 @@ einzuschlagen. Dabei wird ihm gerne ein Streich gespielt. Im Anschluss wird
 ausgelassen gefeiert.
 
 ![Richtfest | large](http://cardamonchai.com/wp-content/uploads/2011/02/img_5087-800x533.jpg "Richtfest")
+
+  

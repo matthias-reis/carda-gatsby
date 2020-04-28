@@ -4,12 +4,10 @@ seoTitle: Tag des Oberhafens in Hamburg - Kaffee, Ateliers, Film und Kuchen
 slug: tag-des-oberhafens-in-hamburg
 link: /2018/09/tag-des-oberhafens-in-hamburg/
 fileName: 2018-09---tag-des-oberhafens-in-hamburg.md
-description:
-  Am heutigen Tag des Oberhafens haben wir die Gelegenheit genutzt, rund um die
-  letzte Kaffeeklappe Hamburgs Kunst und Kultur live zu erleben.
-excerpt:
-  Am heutigen Tag des Oberhafens haben wir die Gelegenheit genutzt, rund um die
-  letzte Kaffeeklappe Hamburgs Kunst und Kultur live zu erleben.
+description: Am heutigen Tag des Oberhafens haben wir die Gelegenheit genutzt,
+  rund um die letzte Kaffeeklappe Hamburgs Kunst und Kultur live zu erleben.
+excerpt: Am heutigen Tag des Oberhafens haben wir die Gelegenheit genutzt, rund
+  um die letzte Kaffeeklappe Hamburgs Kunst und Kultur live zu erleben.
 focusKeyword: Oberhafen
 labels:
   - Ausstellung
@@ -37,11 +35,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21993"
+image: /img/demo.jpg
+errors: []
 subTitle: Kaffee, Ateliers, Film und Kuchen
+  
 ---
 
-<strong>Am heutigen Tag des Oberhafens haben wir die Gelegenheit genutzt, rund
-um die letzte Kaffeeklappe Hamburgs Kunst und Kultur live zu erleben.</strong>
+**Am heutigen Tag des Oberhafens haben wir die Gelegenheit genutzt, rund um die
+letzte Kaffeeklappe Hamburgs Kunst und Kultur live zu erleben.**
 
 Die alten Lagerhallen am Rande der Hafencity beherbergen zahlreiche Ateliers,
 Werkstätten sowie die Hanseatische Materialverwaltung. Hinter diesem Namen
@@ -76,3 +77,5 @@ schlendern.
 Eintrittspreis: "Zahlt, was Ihr geben wollt"
 
 [myflickr tag="annetagdesoberhafenshamburg20180909"]
+
+  

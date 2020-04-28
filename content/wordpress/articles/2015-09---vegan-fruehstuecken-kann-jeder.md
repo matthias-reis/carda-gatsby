@@ -4,12 +4,11 @@ seoTitle: '"Vegan frühstücken kann jeder" - der neue vegane Bestseller'
 slug: vegan-fruehstuecken-kann-jeder
 link: /2015/09/vegan-fruehstuecken-kann-jeder/
 fileName: 2015-09---vegan-fruehstuecken-kann-jeder.md
-description:
-  Das Werk "Vegan frühstücken kann jeder mausert sich nach dem Hit "Vegan kann
-  jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer.
-excerpt:
-  Affiliate Link - Das Werk "Vegan frühstücken kann jeder mausert sich nach dem
-  Hit "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer.
+description: Das Werk "Vegan frühstücken kann jeder mausert sich nach dem Hit
+  "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer.
+excerpt: Affiliate Link - Das Werk "Vegan frühstücken kann jeder mausert sich
+  nach dem Hit "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und
+  Jörg Mayer.
 focusKeyword: vegan frühstücken
 labels:
   - Bücher & Filme
@@ -27,14 +26,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24515"
+image: /img/demo.jpg
+errors: []
 subTitle: Der neue vegane Bestseller
+  
 ---
 
-<em>Affiliate Link\*</em><strong>Das Werk "Vegan frühstücken kann jeder mausert
-sich nach dem Hit "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und
-Jörg Mayer. Ich habe es mir genau angeschaut.</strong>
-
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-4-400x267.jpg " [](https://amzn.to/2MLMzp8)  Blaubeer-Blondies")
+![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-4-400x267.jpg "[ ](https://amzn.to/2MLMzp8)  Blaubeer-Blondies")
 
 "Das Frühstück ist die wichtigste Mahlzeit des Tages!" – das haben uns unsere
 Erziehungsberechtigten immer wieder eingebläut. Mal mehr, mal weniger haben wir
@@ -49,7 +47,7 @@ bin immer offen für neue Ideen und Rezepte.
 
 ## Die Bestsellerautoren von "Vegan kann jeder" sind wieder da!
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-2-400x600.jpg " [](https://amzn.to/2MLMzp8)  Amaranth-Cracker")
+![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-2-400x600.jpg "[ ](https://amzn.to/2MLMzp8)  Amaranth-Cracker")
 
 "Vegan frühstücken kann jeder" von Nadine Horn und Jörg Mayer, den
 Bestsellerautoren von "Vegan kann jeder" ist da genau das Richtige für mich.
@@ -74,7 +72,7 @@ zahlreiche tolle Variationsmöglichkeiten bietet.
 
 ## Und am Wochenende?
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-3-400x267.jpg " [](https://amzn.to/2MLMzp8)  Green Smoothie Bowl")
+![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-3-400x267.jpg "[ ](https://amzn.to/2MLMzp8)  Green Smoothie Bowl")
 
 Wer sich am Wochenende gerne mehr Zeit fürs Frühstück nimmt, einen tollen
 Sonntagsbrunch mit Freunden plant oder die Familie mit einem ausgedehnten
@@ -90,7 +88,7 @@ die ständig auf der Suche nach ihnen ist. Die "Vollkorn-Mischbrötchen" und die
 
 ## "Vegan frühstücken kann jeder" zeigt sich zeitgemäß
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-1-400x267.jpg " [](https://amzn.to/2MLMzp8)  Rohe Käsekuchentörtchen")
+![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-1-400x267.jpg "[ ](https://amzn.to/2MLMzp8)  Rohe Käsekuchentörtchen")
 
 Eine Komponente, die mir bei Kochbüchern auch immer ziemlich wichtig ist, ist
 das Design. Das Layout von
@@ -113,4 +111,6 @@ Vegan-Einsteiger glücklich machen wird. Bei mir gibt es heute übrigens noch da
 
 "Vegan kochen kann jeder" ist beim Neun Zehn Verlag erschienen.
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=394249163X&amp;asins=394249163X&amp;linkId=31c0307441004125afc03f9dd800609e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=394249163X&amp;asins=394249163X&amp;linkId=31c0307441004125afc03f9dd800609e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> _*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

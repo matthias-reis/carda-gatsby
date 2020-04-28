@@ -4,12 +4,12 @@ seoTitle: Vegan-Aktivistin Inbar Schütte-Perez im Interview
 slug: inbar-schuette-perez-interview
 link: /2020/03/inbar-schuette-perez-interview/
 fileName: 2020-03---vegan-aktivistin-inbar-schuette-perez.md
-description:
-  Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie keine
-  andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos gesprochen.
-excerpt:
-  Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie keine
-  andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos gesprochen.
+description: Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie
+  keine andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos
+  gesprochen.
+excerpt: Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie
+  keine andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos
+  gesprochen.
 focusKeyword: Inbar Schütte-Perez
 labels:
   - Anonymous For The Voiceless
@@ -35,23 +35,26 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28596"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Wir müssen groß sein, wenn wir Großes erreichen wollen"'
+  
 ---
 
-<em>English below\*</em>
+_English below\*_
 
-<strong>Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie
-keine andere. Die vegane Aktivistin organisiert neben vielen anderen Events die
+**Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie keine
+andere. Die vegane Aktivistin organisiert neben vielen anderen Events die
 sogenannten "Cubes of Truth". Seit Kurzem hat sie ein neues Projekt. In meinem
-Interview habe ich mich unter anderem darüber mit ihr unterhalten.</strong>
+Interview habe ich mich unter anderem darüber mit ihr unterhalten.**
 
-<strong>Anne:</strong> Hallo Inbar! Danke, dass Du Dir die Zeit für das Gespräch
-nimmst! Wie geht es Dir? Du hast ja ganz schön viel zu tun: Job, Familie und
-dein Aktivismus. Wie sieht Dein heutiger Tag aus?
+**Anne:** Hallo Inbar! Danke, dass Du Dir die Zeit für das Gespräch nimmst! Wie
+geht es Dir? Du hast ja ganz schön viel zu tun: Job, Familie und dein
+Aktivismus. Wie sieht Dein heutiger Tag aus?
 
-<strong>Inbar:</strong> Hey Anne, danke für diese Möglichkeit! Ich habe nie
-gedacht, dass mich mal jemand wegen meines Aktivismus interviewen würde. Und
-jetzt passiert es schon das zweite Mal!
+**Inbar:** Hey Anne, danke für diese Möglichkeit! Ich habe nie gedacht, dass
+mich mal jemand wegen meines Aktivismus interviewen würde. Und jetzt passiert es
+schon das zweite Mal!
 
 Mein Tag besteht darin, mich um zwei super aktive, süße und lustige Kinder im
 Alter von fünfeinhalb und drei Jahren zu kümmern.
@@ -66,57 +69,57 @@ Herzen und Seelen in dieses Projekt - und viele Stunden.
 Meine Brötchen verdiene ich in der wunderbaren Kochschule "Kurkuma" in Hamburg
 Eimsbüttel. Das Kurkuma ist Deutschlands erste und bisher einzige vegane
 Kochschule! Ich arbeite dort jetzt bereits seit Jahren und gebe die israelischen
-Kochkurse  [](#1). Sie sind sehr beliebt und ich bin sehr stolz, dort arbeiten
-zu dürfen.
+Kochkurse  [<sup>1</sup>](#1). Sie sind sehr beliebt und ich bin sehr stolz,
+dort arbeiten zu dürfen.
 
-<strong>Anne:</strong> In Hamburg kennt man Dich vor allem als vegane
-Aktivistin. Seit wann lebst Du eigentlich schon vegan?
+**Anne:** In Hamburg kennt man Dich vor allem als vegane Aktivistin. Seit wann
+lebst Du eigentlich schon vegan?
 
 ## "Ich bereue, dass ich nicht schon früher Veganerin wurde"
 
 ![inbar-schuette-perez](http://cardamonchai.com/wp-content/uploads/2020/03/inbar-schuette-perez-1-400x533.png)
 
-<strong> Ich lebe jetzt seit über zehn Jahren vegan. Zuerst habe ich mich
+**Inbar:** Ich lebe jetzt seit über zehn Jahren vegan. Zuerst habe ich mich
 zwanzig Jahre lang vegetarisch ernährt. Eines der Dinge, die ich in meinem Leben
 am meisten bereue ist, dass ich nicht schon früher Veganerin wurde.
 
-<strong>Anne:</strong> Das haben wir etwas gemeinsam. Mir geht es ganz genau so.
-Was war zuerst da – der Aktivismus oder die Umstellung auf vegan?
+**Anne:** Das haben wir etwas gemeinsam. Mir geht es ganz genau so. Was war
+zuerst da – der Aktivismus oder die Umstellung auf vegan?
 
-<strong>Inbar:</strong> Ich glaube, das hängt davon ab, was Du als Aktivismus
-bezeichnen würdest. Bevor ich Veganerin wurde, habe ich für den Hamburger
-Mitternachtsbus  [](#2) mit Obdachlosen gearbeitet. Es war eine dieser
-Erfahrungen, die unglaublich hart sind und einen zugleich komplett erfüllen.
+**Inbar:** Ich glaube, das hängt davon ab, was Du als Aktivismus bezeichnen
+würdest. Bevor ich Veganerin wurde, habe ich für den Hamburger Mitternachtsbus 
+[<sup>2</sup>](#2) mit Obdachlosen gearbeitet. Es war eine dieser Erfahrungen,
+die unglaublich hart sind und einen zugleich komplett erfüllen.
 
 Ich musste mit meiner Arbeit für den Mitternachtsbus aufhören, als ich schwanger
 wurde. Als ich dann wieder etwas machen konnte, habe ich mich für eine andere
 Form des Aktivismus entschieden: Tierrechte.
 
-<strong>Anne:</strong> Hattest Du ein besonderes Vorbild, als Du vegan wurdest?
+**Anne:** Hattest Du ein besonderes Vorbild, als Du vegan wurdest?
 
 ## "Die israelische Aktivistin Tal Gilboa hat mich sehr beeindruckt"
 
-<strong>Inbar:</strong> Nicht wirklich. Ich wurde vor der aktuellen
-Veganismuswelle mit ihren Videos, Filmen und inspirierenden Persönlichkeiten zur
-Veganerin. Für mich war es ein Schritt, den ich machen musste, also machte ich
-ihn. Inspiriert hat mich die israelische Aktivistin Tal Gilboa. Tal ist eine
-Freundin von mir. Ich habe ihre Aktivismus-Posts in den sozialen Netzwerken
-verfolgt und irgendwann den dringenden Wunsch verspürt, selbst etwas zu tun. Sie
-hat mich dazu inspiriert, aktiv zu werden!
+**Inbar:** Nicht wirklich. Ich wurde vor der aktuellen Veganismuswelle mit ihren
+Videos, Filmen und inspirierenden Persönlichkeiten zur Veganerin. Für mich war
+es ein Schritt, den ich machen musste, also machte ich ihn. Inspiriert hat mich
+die israelische Aktivistin Tal Gilboa. Tal ist eine Freundin von mir. Ich habe
+ihre Aktivismus-Posts in den sozialen Netzwerken verfolgt und irgendwann den
+dringenden Wunsch verspürt, selbst etwas zu tun. Sie hat mich dazu inspiriert,
+aktiv zu werden!
 
-<strong>Anne:</strong> Heute bis Du selbst eine inspirierende Persönlichkeit!
-Lebt Deine ganze Familie vegan?
+**Anne:** Heute bis Du selbst eine inspirierende Persönlichkeit! Lebt Deine
+ganze Familie vegan?
 
-<strong>Inbar:</strong> Ja! Meine Kinder leben seit ihrer Geburt vegan. Oder
-seit der Schwangerschaft oder seit immer! Mein Mann lebt vegan. Sogar unsere
-Katze lebt vegan!
+**Inbar:** Ja! Meine Kinder leben seit ihrer Geburt vegan. Oder seit der
+Schwangerschaft oder seit immer! Mein Mann lebt vegan. Sogar unsere Katze lebt
+vegan!
 
-<strong>Anne:</strong> Was macht Hamburg in Bezug auf die vegane Community in
-der Stadt so besonders?
+**Anne:** Was macht Hamburg in Bezug auf die vegane Community in der Stadt so
+besonders?
 
-<strong>Inbar:</strong> Ich wusste nicht viel über veganen Aktivismus in
-Hamburg, bevor ich mit Anonymous For The Voiceless angefangen habe. Ich kann
-also nur über meine Erfahrungen innerhalb dieser Gruppe sprechen.
+**Inbar:** Ich wusste nicht viel über veganen Aktivismus in Hamburg, bevor ich
+mit Anonymous For The Voiceless angefangen habe. Ich kann also nur über meine
+Erfahrungen innerhalb dieser Gruppe sprechen.
 
 In Hamburg gibt es eine wunderbare Gemeinschaft von Aktivist⋆innen. Unsere
 Gruppe ist vielfältig, fleißig und engagiert. Bei uns gibt es eine familiäre
@@ -125,15 +128,15 @@ nachhaltige Kultur zu schaffen. Das ist besonders für Tierrechts-Aktivist⋆inn
 sehr wichtig. Immer, wenn wir bei unseren Events Gäste haben, sagen sie uns, wie
 nett, hilfsbereit und offen wir sind.
 
-<strong>Anne:</strong> Bei den Events, die Du organisierst, schaffst Du es
-unheimlich viele Leute miteinander zu vernetzen und für die gute Sache zu
-begeistern. Warst Du schon immer ein kommunikativer Mensch?
+**Anne:** Bei den Events, die Du organisierst, schaffst Du es unheimlich viele
+Leute miteinander zu vernetzen und für die gute Sache zu begeistern. Warst Du
+schon immer ein kommunikativer Mensch?
 
-<strong>Inbar:</strong> Eigentlich schon mein ganze Leben, ja. Ich war Lehrerin
-und ich bin ein Tour Guide. Mit Menschen habe ich schon immer gerne gearbeitet.
-Ich mag sie sehr. Außerdem bin ich wohl so eine Art Organisationszauberin -
-super sorgfältig und manchmal übertrieben auf die Details konzentriert! Ich
-glaube, dass das die perfekte Kombination für eine erfolgreiche Gruppe ist.
+**Inbar:** Eigentlich schon mein ganze Leben, ja. Ich war Lehrerin und ich bin
+ein Tour Guide. Mit Menschen habe ich schon immer gerne gearbeitet. Ich mag sie
+sehr. Außerdem bin ich wohl so eine Art Organisationszauberin - super sorgfältig
+und manchmal übertrieben auf die Details konzentriert! Ich glaube, dass das die
+perfekte Kombination für eine erfolgreiche Gruppe ist.
 
 ## "Diese wunderbaren Menschen sind immer für mich da"
 
@@ -144,14 +147,14 @@ zu 100 Prozent vertrauen kann. Das ist ein weiterer einzigartiger Aspekt meiner
 Hamburger Gruppe: Sie funktioniert perfekt - sogar, wenn ich mal nicht dabei
 bin.
 
-<strong>Anne:</strong> Du hast lange Zeit in Hamburg die Cubes Of Truth im Namen
-von Anonymous For The Voiceless organisiert – mit großem Erfolg. Seit Kurzem
-finden die Cubes in Hamburg unter einem anderen Namen statt. Außerdem hast Du
-die neue Gruppe "Active Vegans Hamburg" gegründet. Wie kam es dazu?
+**Anne:** Du hast lange Zeit in Hamburg die Cubes Of Truth im Namen von
+Anonymous For The Voiceless organisiert – mit großem Erfolg. Seit Kurzem finden
+die Cubes in Hamburg unter einem anderen Namen statt. Außerdem hast Du die neue
+Gruppe "Active Vegans Hamburg" gegründet. Wie kam es dazu?
 
-<strong>Inbar:</strong> Diese Geschichte ist so lang, dass ich ein Buch darüber
-schreiben könnte. Allerdings ist sie auch ziemlich langweilig, darum sollte ich
-das vielleicht besser nicht tun.
+**Inbar:** Diese Geschichte ist so lang, dass ich ein Buch darüber schreiben
+könnte. Allerdings ist sie auch ziemlich langweilig, darum sollte ich das
+vielleicht besser nicht tun.
 
 Anonymous For The Voiceless war lange Zeit mein Zuhause. Ich habe Anonymous For
 The Voiceless Hamburg im Winter 2017 gestartet und damit eines der
@@ -203,14 +206,13 @@ weitermachen. Dazu haben wir uns entschieden. Wir haben ein paar kleine
 wir einmal pro Woche zusammenkommen, um uns für die Befreiung der Tiere
 einzusetzen. Genau, wie vorher.
 
-<strong>Anne:</strong> Was muss man tun, wenn man an einem Cube teilnehmen
-möchte?
+**Anne:** Was muss man tun, wenn man an einem Cube teilnehmen möchte?
 
 ## "Du musst nur die Teilnahme bestätigen!"
 
 ![inbar-schuette-perez](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-14-inbar-1-400x262.jpg)
 
-<strong> Es ist total einfach: Klicke einfach in der Facebook-Gruppe auf
+**Inbar:** Es ist total einfach: Klicke einfach in der Facebook-Gruppe auf
 "teilnehmen" und lese Dir die Infos durch!
 
 Wir haben ein paar spezielle Leitfäden, die es lohnt zu lesen, bevor man zu
@@ -224,19 +226,18 @@ Menschen sehen und lernen, wie wir tun, was wir tun. Wir möchten, dass sie sich
 bei dem, was sie tun, wohlfühlen. Darum geben wir neuen Aktivist⋆innen Zeit zu
 lernen und zu erkunden, bevor sie anfangen, aktiv Menschen anzusprechen.
 
-<strong>Anne:</strong> Wo Du gerade davon, Menschen anzusprechen. Was genau
-passiert bei einem Cube? Was sind die Ziele?
+**Anne:** Wo Du gerade davon, Menschen anzusprechen. Was genau passiert bei
+einem Cube? Was sind die Ziele?
 
 ## "Wir zeigen die alltäglichen Bedingungen in der Milch-, Fleisch- und Eierindustrie"
 
-<strong>Inbar:</strong> Die Demo besteht aus zwei Teilen: ihrer Struktur an
-sich, sprich dem Cube und dem Aktivismus, "Outreach" genannt. Innerhalb des
-Cubes stehen die Menschen in einer statischen Haltung. Sie tragen Masken und
-halten Schilder oder Bildschirme, auf denen Gewalt gegenüber Tieren zu sehen
-ist. Unsere Videos sind nicht die ganz schlimmen - sie zeigen die alltäglichen
-Bedingungen in der Fleisch-, Milch und Eierindustrie. Wir zeigen auch lokale
-Videos von der SOKO Tierschutz und kleine "Familienbauernhöfe" im Großraum
-Hamburg.
+**Inbar:** Die Demo besteht aus zwei Teilen: ihrer Struktur an sich, sprich dem
+Cube und dem Aktivismus, "Outreach" genannt. Innerhalb des Cubes stehen die
+Menschen in einer statischen Haltung. Sie tragen Masken und halten Schilder oder
+Bildschirme, auf denen Gewalt gegenüber Tieren zu sehen ist. Unsere Videos sind
+nicht die ganz schlimmen - sie zeigen die alltäglichen Bedingungen in der
+Fleisch-, Milch und Eierindustrie. Wir zeigen auch lokale Videos von der SOKO
+Tierschutz und kleine "Familienbauernhöfe" im Großraum Hamburg.
 
 Die Personen, die sich nicht im Cube befinden, sind mit dem beschäftigt was wir
 "Outreach" nennen. Das bedeutet, dass wir die Menschen, die stehenbleiben und
@@ -261,14 +262,13 @@ und die Ausbeutung dieser Lebewesen in ihren Händen liegt. Wir hoffen, dass sie
 sich weiter mit der Thematik beschäftigen werden und natürlich auch, dass sie in
 Zukunft vegan leben.
 
-<strong>Anne:</strong> Wie unterscheiden sich die neuen unabhängigen Cubes von
-den AV Cubes?
+**Anne:** Wie unterscheiden sich die neuen unabhängigen Cubes von den AV Cubes?
 
-<strong>Inbar:</strong> Also, wir tragen unsere Anonymous For The Voiceless
-Klamotten nicht mehr. Das ist eigentlich die größte Veränderung. Wir sind nicht
-mehr dazu verpflichtet uns an die Richtlinien von Anonymous For The Voiceless zu
-halten und ich glaube, dass vielen von uns das einen großen Ballast von den
-Schultern genommen hat.
+**Inbar:** Also, wir tragen unsere Anonymous For The Voiceless Klamotten nicht
+mehr. Das ist eigentlich die größte Veränderung. Wir sind nicht mehr dazu
+verpflichtet uns an die Richtlinien von Anonymous For The Voiceless zu halten
+und ich glaube, dass vielen von uns das einen großen Ballast von den Schultern
+genommen hat.
 
 ## "Wir zeigen Aufnahmen aus lokalen Institutionen"
 
@@ -281,44 +281,43 @@ geht (im Mai!), wird sich vieles verändern. Vor allem unsere Möglichkeit,
 unseren Einfluss zu messen und nicht nur zu zählen, wie viele Menschen Flyer
 genommen haben, sondern auch wie viele von ihnen sie genutzt haben.
 
-<strong>Anne:</strong> Bist Du neben Hamburg auch in anderen Städten aktiv?
+**Anne:** Bist Du neben Hamburg auch in anderen Städten aktiv?
 
-<strong>Inbar:</strong> Nicht wirklich. Ich war bei ein paar Demos und Events in
-anderen Städten dabei, aber mein Hauptfokus liegt auf Hamburg. Weil unsere
-Gruppe mit vielen anderen Gruppen, zum Beispiel in Bremen und in Hannover,
-vernetzt ist, haben wir auch dort ein paar Demos veranstaltet.
+**Inbar:** Nicht wirklich. Ich war bei ein paar Demos und Events in anderen
+Städten dabei, aber mein Hauptfokus liegt auf Hamburg. Weil unsere Gruppe mit
+vielen anderen Gruppen, zum Beispiel in Bremen und in Hannover, vernetzt ist,
+haben wir auch dort ein paar Demos veranstaltet.
 
-<strong>Anne:</strong> Was sollte jede⋆r Veganer⋆in tun, um den Veganismus noch
-populärer zu machen?
+**Anne:** Was sollte jede⋆r Veganer⋆in tun, um den Veganismus noch populärer zu
+machen?
 
 ## "Jede⋆r Veganer⋆in sollte aktiv sein"
 
-<strong>Inbar:</strong> Ich weiß nicht, ob "populär" hier das richtige Wort ist.
-Wir brauchen auf jeden Fall mehr Tierrechts-Aktivist⋆innen. Sogar hier in
-Hamburg, wo wir eine relativ große Gruppe haben. Ich kann mich wirklich nicht
-über fehlende freiwillige Helfer⋆innen beklagen. Aber sogar hier reden wir immer
-darüber, wie wichtig es ist, dass wir Veganer⋆innen dazu animieren und
-inspirieren, aktiv zu werden. Genau, wie jede⋆r Veganer⋆in bereut, nicht früher
-vegan geworden zu sein, bereut jede⋆r vegane Aktivist⋆in, nicht schon früher
-etwas unternommen zu haben. Wir sagen das jede⋆r Veganer⋆in, der⋆die uns
-begegnet - je mehr wir sind, desto mehr Menschen können wir überzeugen. Wir
-müssen groß sein, wenn wir Großes erreichen möchten.
+**Inbar:** Ich weiß nicht, ob "populär" hier das richtige Wort ist. Wir brauchen
+auf jeden Fall mehr Tierrechts-Aktivist⋆innen. Sogar hier in Hamburg, wo wir
+eine relativ große Gruppe haben. Ich kann mich wirklich nicht über fehlende
+freiwillige Helfer⋆innen beklagen. Aber sogar hier reden wir immer darüber, wie
+wichtig es ist, dass wir Veganer⋆innen dazu animieren und inspirieren, aktiv zu
+werden. Genau, wie jede⋆r Veganer⋆in bereut, nicht früher vegan geworden zu
+sein, bereut jede⋆r vegane Aktivist⋆in, nicht schon früher etwas unternommen zu
+haben. Wir sagen das jede⋆r Veganer⋆in, der⋆die uns begegnet - je mehr wir sind,
+desto mehr Menschen können wir überzeugen. Wir müssen groß sein, wenn wir Großes
+erreichen möchten.
 
 Ich würde gerne dieses Interview dazu nutzen, jede⋆n nicht-aktive⋆n Veganer⋆in
 aufzurufen: Geh raus und tu etwas! Finde den Aktivismus, der am besten zu Dir
 passt! Am besten natürlich unsere Demos (lacht). Tu es. Die Tiere brauchen uns!
 Viele von uns!
 
-<strong>Anne:</strong> Jemand erzählt Dir, dass er für sein Leben gerne vegan
-leben würde, er sich das aber nicht zutraut und/oder er das Essen nicht mag. Wie
-überzeugst Du ihn?
+**Anne:** Jemand erzählt Dir, dass er für sein Leben gerne vegan leben würde, er
+sich das aber nicht zutraut und/oder er das Essen nicht mag. Wie überzeugst Du
+ihn?
 
-<strong>Inbar:</strong> Hör mir mal zu: Wenn jemand behauptet, nicht vegan leben
-zu können, weil ihm⋆ihr veganes Essen nicht schmeckt, dann ist diese Person
-nicht bereit für ein Leben mit Mitgefühl und Liebe. Beim Veganismus geht es
-nicht nur darum, was man isst. Es ist unsere Art zu leben. Ein Leben ohne
-Tierleid. Es ist ein Opfer im Bild, darum spielen unsere Geschmacksnerven hier
-erstmal keine Rolle.
+**Inbar:** Hör mir mal zu: Wenn jemand behauptet, nicht vegan leben zu können,
+weil ihm⋆ihr veganes Essen nicht schmeckt, dann ist diese Person nicht bereit
+für ein Leben mit Mitgefühl und Liebe. Beim Veganismus geht es nicht nur darum,
+was man isst. Es ist unsere Art zu leben. Ein Leben ohne Tierleid. Es ist ein
+Opfer im Bild, darum spielen unsere Geschmacksnerven hier erstmal keine Rolle.
 
 ## "Veganes Essen besteht aus Grundnahrungsmitteln"
 
@@ -329,9 +328,12 @@ Popcorn. Wassermelone. Veganes Essen nicht zu mögen, ist eine viel zu allgemein
 Aussage.
 
 Veganes Essen besteht aus Grundnahrungsmitteln: Reis,
-[Kräuter](/2020/02/aubergine-mit-bohnen-bratkartoffeln/). Wenn jemand es nicht
-schafft, leckere Speisen aus diesen Zutaten herzustellen, liegt das Problem
-nicht bei den Lebensmitteln.
+[Bohnen](/2020/02/aubergine-mit-bohnen-bratkartoffeln/),
+[Linsen](/2018/12/huelsenfruechte-satt-in-hamburg-ottensen/),
+[Nüsse](/2020/03/haselnuesse-hof-windkind/), Samen, Pasta, Gemüse, Früchte,
+[Kräuter](/2017/07/wildkraeutersalate-mit-dressingrezepten/). Wenn jemand es
+nicht schafft, leckere Speisen aus diesen Zutaten herzustellen, liegt das
+Problem nicht bei den Lebensmitteln.
 
 ## "Wir vermissen nichts!"
 
@@ -354,11 +356,11 @@ ich ihn⋆sie gerne ein, zu meinen Kochevents in die
 sich noch mehr Inspiration wünschen, empfehle ich Instagram. Es gibt eine
 faszinierende vegane Essenswelt da draußen!
 
-<strong>Anne:</strong> Was sollte für jede⋆n ein Grund sein, vegan zu leben?
+**Anne:** Was sollte für jede⋆n ein Grund sein, vegan zu leben?
 
-<strong>Inbar:</strong> Mein einziger Grund sind die Tiere. Ja, es ist auch
-toll, dass wir den Planeten retten und gesünder sind, wenn wir vegan leben, aber
-die Hauptkomponente ist die ethische. Dass wir JEDES JAHR 65 Billionen von
+**Inbar:** Mein einziger Grund sind die Tiere. Ja, es ist auch toll, dass wir
+den Planeten retten und gesünder sind, wenn wir vegan leben, aber die
+Hauptkomponente ist die ethische. Dass wir JEDES JAHR 65 Billionen von
 "Nutztieren" antun, Billionen von Fischen und anderen marinen Lebewesen ist das
 größte Verbrechen der Menschheit. Wir missbrauchen, quälen und beuten Tiere aus.
 Nur, um Wünsche zu erfüllen, die nicht notwendig sind. Das ist moralisch falsch.
@@ -370,14 +372,14 @@ Jetzt.
 
 ![inbar-schuette-perez](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-14-inbar-400x238.jpg)
 
-<strong> Wie geht es weiter? Was steht als Nächstes auf dem Plan für Dich und
+**Anne:** Wie geht es weiter? Was steht als Nächstes auf dem Plan für Dich und
 für die Aktive Vegans Hamburg?
 
-<strong>Inbar</strong> Also wir haben unsere Demos, die so gut wie jeden Samstag
-stattfinden. Außerdem sind wir auch für unsere "Off-Demo-Termine bekannt:
-Soziale Events, Workshops, Trainings, Filmvorführungen, Vorlesungen und vieles
-mehr. Unser nächster Workshop findet am 21. März⋆ statt. Es handelt sich dabei
-um eine Einführung in den Straßenaktivismus.
+**Inbar** Also wir haben unsere Demos, die so gut wie jeden Samstag stattfinden.
+Außerdem sind wir auch für unsere "Off-Demo-Termine bekannt: Soziale Events,
+Workshops, Trainings, Filmvorführungen, Vorlesungen und vieles mehr. Unser
+nächster Workshop findet am 21. März⋆ statt. Es handelt sich dabei um eine
+Einführung in den Straßenaktivismus.
 
 Wir veranstalten im Mai außerdem die zweite Vegan Chalking Night. Die gab es
 letztes Jahr schon.
@@ -391,12 +393,12 @@ lernen und uns als Menschen und Aktivist⋆innen weiterzuentwickeln.
 Der größte Punkt auf der Agenda ist der Start unserer neuen Organisation im Mai.
 Ich freue mich schon unglaublich darauf!
 
-<strong>Anne:</strong> Was war der bisher größte Meilenstein für Dich in Bezug
-auf den Tierrechts-Aktivismus?
+**Anne:** Was war der bisher größte Meilenstein für Dich in Bezug auf den
+Tierrechts-Aktivismus?
 
-<strong>Inbar:</strong> Hm, ich bin mir nicht sicher. Eigentlich hat alles, was
-ich als Tierrechts-Aktivistin das erste Mal getan habe ein Wow-Moment gesorgt.
-Mein erster Cube in Berlin im Jahr 2017 war mein erster Schritt in Richtung
+**Inbar:** Hm, ich bin mir nicht sicher. Eigentlich hat alles, was ich als
+Tierrechts-Aktivistin das erste Mal getan habe ein Wow-Moment gesorgt. Mein
+erster Cube in Berlin im Jahr 2017 war mein erster Schritt in Richtung
 Aktivismus und Anonymous For The Voiceless.
 
 ## "Wir hatten Earthling Ed und Dr. Melanie Joy in Hamburg zu Gast bei uns in Hamburg"
@@ -407,11 +409,12 @@ mit Anonymous For The Voiceless Hamburg zum
 [Animal Rights March](/2019/08/animal-rights-march-2019/) in Berlin im letzten
 Jahr.
 
-[Earthling Ed](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)
-vor ein paar Monaten als Gäste bei uns zu begrüßen. Alle diese Erlebnisse bilden
-das Mosaik meiner Erfahrungen. Ich sehe sie als persönliche Errungenschaften.
-Ich habe daraus gelernt und nutze sie als Inspiration, mehr zu tun, mehr zu
-organisieren und mehr zu gestalten.
+[Dr. Melanie Joy](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)
+und [Earthling Ed](/2019/11/earthling-ed-zu-gast-in-hamburg/) vor ein paar
+Monaten als Gäste bei uns zu begrüßen. Alle diese Erlebnisse bilden das Mosaik
+meiner Erfahrungen. Ich sehe sie als persönliche Errungenschaften. Ich habe
+daraus gelernt und nutze sie als Inspiration, mehr zu tun, mehr zu organisieren
+und mehr zu gestalten.
 
 Der vielleicht größte Meilenstein war vermutlich, als mir klar wurde, dass ich
 einen großen Teil zur Gründung der Community hier in Hamburg beigetragen habe.
@@ -419,13 +422,13 @@ Sie ist eine Community, die auf Unterstützung, Verständnis, gesunder
 Kommunikation, Hingabe und Liebe basiert. Oh und Umarmungen! Wir umarmen uns
 sehr oft!
 
-<strong>Anne:</strong> Vielen Dank für das spannende Interview! Wir sehen uns
-beim nächsten Event!
+**Anne:** Vielen Dank für das spannende Interview! Wir sehen uns beim nächsten
+Event!
 
-<strong>Inbar:</strong> Danke Dir, Anne!
+**Inbar:** Danke Dir, Anne!
 
-⋆<strong>Hinweis:</strong> Durch die momentane Lage mit Corona wurde der Termin
-am 21. März aus Präventionsgründen abgesagt.
+⋆ **Hinweis:** Durch die momentane Lage mit Corona wurde der Termin am 21. März
+aus Präventionsgründen abgesagt.
 
 ## Fußnoten
 
@@ -436,25 +439,25 @@ https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslo
 
 <hr />
 
-<em>English version</em>
+_English version_
 
 ## Interview with vegan activist Inbar Schütte-Perez
 
 ### "We need to be massive, if we want our impact to be massive"
 
-<strong>Inbar Schütte-Perez is very well-known in the vegan community of
-Hamburg. Among many other events, the vegan activist was the founder and
-organiser of Anonymous For The Voiceless Hamburg, and organised the so-called
-"cubes of truth". Recently she has a new project. In my interview I talked to
-her about it - among some other things.</strong>
+**Inbar Schütte-Perez is very well-known in the vegan community of Hamburg.
+Among many other events, the vegan activist was the founder and organiser of
+Anonymous For The Voiceless Hamburg, and organised the so-called "cubes of
+truth". Recently she has a new project. In my interview I talked to her about
+it - among some other things.**
 
-<strong>Anne:</strong> Hello Inbar! Thank you very much for taking the time for
-this interview! How are you doing? You have quite a lot to do: Job, family and
-your activism. How does your day look like today?
+**Anne:** Hello Inbar! Thank you very much for taking the time for this
+interview! How are you doing? You have quite a lot to do: Job, family and your
+activism. How does your day look like today?
 
-<strong>Inbar:</strong> Hey Anne, thanks for the opportunity! I never thought
-someone would interview me about my activism and this is already the second time
-I am doing it!
+**Inbar:** Hey Anne, thanks for the opportunity! I never thought someone would
+interview me about my activism and this is already the second time I am doing
+it!
 
 My day consists of taking care of two super active, cute, funny, and handful
 little kids of five and a half and three years.
@@ -468,52 +471,52 @@ do what we do. We put our hearts and souls into this project - and many hours.
 
 For living, I work in Germany's first vegan cooking school, the beautiful
 "Kurkuma" cooking school in Eimsbüttel. I work there for years already and offer
-the Israeli Cooking Evening  [](#1). They are super popular, and I am very proud
-and honored to be working there.
+the Israeli Cooking Evening  [<sup>1</sup>](#1). They are super popular, and I
+am very proud and honored to be working there.
 
-<strong>Anne:</strong> In Hamburg you are known as a very active vegan activist.
-How long have you been living vegan now?
+**Anne:** In Hamburg you are known as a very active vegan activist. How long
+have you been living vegan now?
 
 ### "Not going vegan earlier - one of my biggest regrets"
 
-<strong>Inbar:</strong> I am vegan for more than ten years already. I went vegan
-after being vegetarian for 20 years and one of my biggest regrets in life is not
-going vegan earlier.
+**Inbar:** I am vegan for more than ten years already. I went vegan after being
+vegetarian for 20 years and one of my biggest regrets in life is not going vegan
+earlier.
 
-<strong>Anne:</strong> This is something we have in common. I feel the same way
-about that. What came first - activism or the change to your vegan life?
+**Anne:** This is something we have in common. I feel the same way about that.
+What came first - activism or the change to your vegan life?
 
-<strong>Inbar:</strong> I guess it depends on what you call activism. I did
-volunteer with homeless people before going vegan at Hamburg's Mitternachtsbus 
-[](#2). It was one of those very hard and very fulfilling activities.
+**Inbar:** I guess it depends on what you call activism. I did volunteer with
+homeless people before going vegan at Hamburg's Mitternachtsbus 
+[<sup>2</sup>](#2). It was one of those very hard and very fulfilling
+activities.
 
 I had to stop with the Mitternachtsbus once I became pregnant. When the time was
 right I knew I wanted to do a different kind of activism, and knew it has to be
 with animal rights.
 
-<strong>Anne:</strong> Did you have a special role model when you became vegan?
+**Anne:** Did you have a special role model when you became vegan?
 
 ### "Israel's leading activist Tal Gilboa inspired me"
 
-<strong>Inbar:</strong> Not really. I went vegan before the recent wave of
-veganism with its videos, movies, and inspiring figures. It was the step I
-needed to take and I finally took it. I did get inspired to go into activism by
-Tal Gilboa, Israel's leading activist. Tal is a friend of mine and I kept seeing
-her activism posts and felt the fire to do something as well. She inspired me to
-become active!
+**Inbar:** Not really. I went vegan before the recent wave of veganism with its
+videos, movies, and inspiring figures. It was the step I needed to take and I
+finally took it. I did get inspired to go into activism by Tal Gilboa, Israel's
+leading activist. Tal is a friend of mine and I kept seeing her activism posts
+and felt the fire to do something as well. She inspired me to become active!
 
-<strong>Anne:</strong> Today you are an inspiring figure yourself! Does your
-whole family live vegan?
+**Anne:** Today you are an inspiring figure yourself! Does your whole family
+live vegan?
 
-<strong>Inbar:</strong> Yes! My kids are vegan from birth (or pregnancy, or
-forever!), my husband is vegan by default and even our cat is vegan!
+**Inbar:** Yes! My kids are vegan from birth (or pregnancy, or forever!), my
+husband is vegan by default and even our cat is vegan!
 
-<strong>Anne:</strong> What makes Hamburg so special in terms of the vegan
-community in the city?
+**Anne:** What makes Hamburg so special in terms of the vegan community in the
+city?
 
-<strong>Inbar:</strong> I didn't know much about activism in Hamburg before I
-started Anonymous For The Voiceless Hamburg, so I can only judge by this
-experience and based on my group.
+**Inbar:** I didn't know much about activism in Hamburg before I started
+Anonymous For The Voiceless Hamburg, so I can only judge by this experience and
+based on my group.
 
 Hamburg has a wonderful community of activists. Our group is diverse,
 hardworking and dedicated. We have a family/tribe like feeling, welcoming and
@@ -522,13 +525,13 @@ especially important for animal rights activists. Every time we are having
 guests in our events, they tell us how special our group is. How friendly,
 supportive and loving.
 
-<strong>Anne:</strong> At the events you organise, you manage to connect an
-incredible number of people and inspire them for the good cause. Have you always
-been a communicative person?
+**Anne:** At the events you organise, you manage to connect an incredible number
+of people and inspire them for the good cause. Have you always been a
+communicative person?
 
-<strong>Inbar:</strong> Pretty much all my life, yes. I was a teacher, and I am
-a tour guide. I always worked with people and I love them very much. Also, I am
-like an organisational wizard - super meticulous and sometimes excessively
+**Inbar:** Pretty much all my life, yes. I was a teacher, and I am a tour guide.
+I always worked with people and I love them very much. Also, I am like an
+organisational wizard - super meticulous and sometimes excessively
 detail-oriented! I guess it is the perfect combination for a successful group!
 
 ### "This amazing people always have my back"
@@ -538,14 +541,13 @@ group of amazing people who always have my back. We work together on most of the
 events and I know I can trust them 100 percent. That's another unique aspect of
 my group here in Hamburg – it can function perfectly even without me!
 
-<strong>Anne:</strong> For a long time you organised the cubes of truth in
-Hamburg on behalf of Anonymous For The Voiceless - with great success. Recently,
-the Cubes of truth in Hamburg are taking place under a different name. You also
-founded the new group "Active Vegans Hamburg”. When (and why) did you decide to
-do so?
+**Anne:** For a long time you organised the cubes of truth in Hamburg on behalf
+of Anonymous For The Voiceless - with great success. Recently, the Cubes of
+truth in Hamburg are taking place under a different name. You also founded the
+new group "Active Vegans Hamburg”. When (and why) did you decide to do so?
 
-<strong>Inbar:</strong> This story is so long - I can write a book about it,
-it's also very boring so maybe I'll better not write about it!
+**Inbar:** This story is so long - I can write a book about it, it's also very
+boring so maybe I'll better not write about it!
 
 Anonymous For The Voiceless was my home for a long time. I started Anonymous For
 The Voiceless Hamburg in winter 2017 and created one of the most successful,
@@ -590,12 +592,12 @@ working well. So we decided to continue what we do best. We made small changes
 but overall we are still outreaching weekly in behalf of animal liberation -
 just as we did before.
 
-<strong>Anne:</strong> What do I need to do, if I want to be part of a Cube?
+**Anne:** What do I need to do, if I want to be part of a Cube?
 
 ### "Just press 'going'!"
 
-<strong>Inbar:</strong> It's pretty simple: Press "going" on the event on
-Facebook, and read the description!
+**Inbar:** It's pretty simple: Press "going" on the event on Facebook, and read
+the description!
 
 We have some specific guidelines and it's always recommended to read about it a
 bit before joining! We want to make sure that people know in advance what they
@@ -606,17 +608,17 @@ learn how we do what we do. We want them to feel comfortable doing what we do �
 therefore we give new volunteers some time to learn and observe, before they
 start outreaching.
 
-<strong>Anne:</strong> Talking about outreaching. What exactly happens at a
-Cube? What are the goals?
+**Anne:** Talking about outreaching. What exactly happens at a Cube? What are
+the goals?
 
 ### "We are showing the standards in the dairy, meat and egg industry"
 
-<strong>Inbar:</strong> The demo has two parts: the structure itself (the Cube)
-and the outreach. Inside the Cube, people are standing in a static position,
-wearing a mask, holding a sign, or a screen that is showing videos of animal
-abuse. Our videos are not the hardcore ones - they are showing the standards in
-the meat, dairy, and egg industry. We also have local videos from SOKO
-Tierschutz and small "family like farms" around Hamburg.
+**Inbar:** The demo has two parts: the structure itself (the Cube) and the
+outreach. Inside the Cube, people are standing in a static position, wearing a
+mask, holding a sign, or a screen that is showing videos of animal abuse. Our
+videos are not the hardcore ones - they are showing the standards in the meat,
+dairy, and egg industry. We also have local videos from SOKO Tierschutz and
+small "family like farms" around Hamburg.
 
 The people who aren't in the Cube are engaged in what we call "outreach". We
 start a conversation with those who stop and watch the video. A friendly,
@@ -638,13 +640,13 @@ people leave our demo realising, that stopping the torture, abuse and killing,
 is in their hands and that they will continue looking into the topic, and we are
 hoping that they will go vegan.
 
-<strong>Anne:</strong> How do the new independent Cubes differ from the
-Anonymous For The Voiceless Cubes?
+**Anne:** How do the new independent Cubes differ from the Anonymous For The
+Voiceless Cubes?
 
-<strong>Inbar:</strong> Well, we don't wear our Anonymous For The Voiceless gear
-anymore. That's the biggest change! We are not obligated and committed to
-following the Anonymous For The Voiceless line of conduct and I guess it lifted
-heavy weight from many of us.
+**Inbar:** Well, we don't wear our Anonymous For The Voiceless gear anymore.
+That's the biggest change! We are not obligated and committed to following the
+Anonymous For The Voiceless line of conduct and I guess it lifted heavy weight
+from many of us.
 
 ### "We are showing local footage"
 
@@ -656,39 +658,39 @@ Once the new organisation that I mentioned before will be launched (in May!),
 many things will change. Mainly our ability to measure our impact, not just
 count how many people got cards, but how many people used it.
 
-<strong>Anne:</strong> Are you also active in other cities besides Hamburg?
+**Anne:** Are you also active in other cities besides Hamburg?
 
-<strong>Inbar:</strong> Not really. I've been to a few demos and events in other
-cities, but my main focus is here in Hamburg. As our group is connected with
-many other groups, like in Bremen and Hannover, we did some demos there as well.
+**Inbar:** Not really. I've been to a few demos and events in other cities, but
+my main focus is here in Hamburg. As our group is connected with many other
+groups, like in Bremen and Hannover, we did some demos there as well.
 
-<strong>Anne:</strong> What should every vegan do to make veganism more popular?
+**Anne:** What should every vegan do to make veganism more popular?
 
 ### "All vegans should be active"
 
-<strong>Inbar:</strong> I don't know if "popular" is the right term here, but we
-need more animal rights activists. Even here in Hamburg, where we have a
-relatively big group, and I cannot complain about not having enough volunteers.
-Even here we are always talking about how important it is for us to encourage
-and inspire vegans to become active. Just like every vegan is regretting not
-going vegan earlier, every vegan activist is regretting not going active
-earlier, and we make sure to tell that to the vegans we meet. We do believe that
-the more we are, the more people we can reach. We need to be massive, if we want
-our impact to be massive.
+**Inbar:** I don't know if "popular" is the right term here, but we need more
+animal rights activists. Even here in Hamburg, where we have a relatively big
+group, and I cannot complain about not having enough volunteers. Even here we
+are always talking about how important it is for us to encourage and inspire
+vegans to become active. Just like every vegan is regretting not going vegan
+earlier, every vegan activist is regretting not going active earlier, and we
+make sure to tell that to the vegans we meet. We do believe that the more we
+are, the more people we can reach. We need to be massive, if we want our impact
+to be massive.
 
 So let me use this interview to call every non-active vegan out there: Go out
 and do something! Find the activism that resonates with you! Preferably our
 demos (smiles). Do it. The animals need us! Many of us!
 
-<strong>Anne:</strong> Someone tells you that they would like to be vegan for
-life, but they don't think they can do it and/or they keep on pretending, that
-they don't like vegan food. How do you convince him⋆her?
+**Anne:** Someone tells you that they would like to be vegan for life, but they
+don't think they can do it and/or they keep on pretending, that they don't like
+vegan food. How do you convince him⋆her?
 
-<strong>Inbar:</strong> Listen, if someone puts the taste of vegan food as a
-reason not to go vegan then this person is not ready for life of compassion and
-love. Veganism isn't just about what you eat. It is the way we live, life that
-exclude animal suffering. There is a victim in the picture, so our taste buds
-aren't really a factor here.
+**Inbar:** Listen, if someone puts the taste of vegan food as a reason not to go
+vegan then this person is not ready for life of compassion and love. Veganism
+isn't just about what you eat. It is the way we live, life that exclude animal
+suffering. There is a victim in the picture, so our taste buds aren't really a
+factor here.
 
 ### "Vegan food is based on food basics"
 
@@ -720,12 +722,12 @@ If someone sees vegan cooking as challenging they should come to my cooking
 evenings at Kurkuma! For more food inspirations I recommend Instagram. There is
 amazing world of vegan food out there!
 
-<strong>Anne:</strong> Is there a reason why everyone should go vegan today?
+**Anne:** Is there a reason why everyone should go vegan today?
 
-<strong>Inbar:</strong> The only reason for me is the animals. Yes, it is also
-amazing that we can save the planet and be healthier as vegans, but the main
-cause is ethical. What we do to more than 65 billion farmed animals, what we do
-to trillions of fish and other marine animals, EVERY YEAR, is humanity's biggest
+**Inbar:** The only reason for me is the animals. Yes, it is also amazing that
+we can save the planet and be healthier as vegans, but the main cause is
+ethical. What we do to more than 65 billion farmed animals, what we do to
+trillions of fish and other marine animals, EVERY YEAR, is humanity's biggest
 crime. We are abusing, using, torturing and killing animals. Just to fulfill
 needs that aren't necessary. This is morally wrong. Every single thing that
 involves animal products involves violence, as those products cannot be made
@@ -733,13 +735,13 @@ without violence. This needs to stop. Now.
 
 ### Demos every Saturdays
 
-<strong>Anne:</strong> What are your next steps? What is next on the agenda for
-you and for "Active Vegans Hamburg”?
+**Anne:** What are your next steps? What is next on the agenda for you and for
+"Active Vegans Hamburg”?
 
-<strong>Inbar:</strong> Well, we have our regular weekly demos, almost every
-Saturday. We are also famous for our "off demo" events, like social events,
-workshops, training, movie screening, lectures, and many more. Our next workshop
-is on March 21st⋆, an introduction to Street Activism.
+**Inbar:** Well, we have our regular weekly demos, almost every Saturday. We are
+also famous for our "off demo" events, like social events, workshops, training,
+movie screening, lectures, and many more. Our next workshop is on March 21st⋆,
+an introduction to Street Activism.
 
 We are also going to host the second Worldwide Vegan Chalking Night in May like
 we did last year. In the summer I am hoping to host a non-violent communication
@@ -751,34 +753,37 @@ as activists!
 The biggest item on the agenda is the pilot for the new organisation, also
 sometime in May. I am super excited about this one!
 
-<strong>Anne:</strong> What was the biggest milestone for you so far concerning
-animal rights activism?
+**Anne:** What was the biggest milestone for you so far concerning animal rights
+activism?
 
-<strong>Inbar:</strong> Hm, I am not sure! Everything I did for the first time
-as an activist was a wow-moment for me. My first Cube in Berlin 2017 was my
-first step into activism and Anonymous For The Voiceless.
+**Inbar:** Hm, I am not sure! Everything I did for the first time as an activist
+was a wow-moment for me. My first Cube in Berlin 2017 was my first step into
+activism and Anonymous For The Voiceless.
 
 ### "We hosted Earthling Ed and Dr. Melanie Joy in Hamburg"
 
 My first Cube as an organiser here in Hamburg in winter 2018. The first workshop
 I organised and all the workshops that followed. Leading the Anonymous For The
-Voiceless block at the [Earthling Ed](/2019/08/animal-rights-march-2019/) a few
-months ago. All those things contributed to my experience. I see them as
-personal achievements. I learned from them and use them as inspiration to do
-more, organise more and create more.
+Voiceless block at the [Animal Rights March](/2019/08/animal-rights-march-2019/)
+in Berlin last year. Hosting
+[Dr. Melanie Joy](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/),
+and [Earthling Ed](/2019/11/earthling-ed-zu-gast-in-hamburg/) a few months ago.
+All those things contributed to my experience. I see them as personal
+achievements. I learned from them and use them as inspiration to do more,
+organise more and create more.
 
 But maybe the biggest milestone was to realise, that I have a big part in
 building a community here in Hamburg. A community that is based on support,
 understanding, healthy communication, dedication, and love. Oh, and hugs. We hug
 a lot.
 
-<strong>Anne:</strong> Thank you very much for the exciting interview! See you
-at the next event!
+**Anne:** Thank you very much for the exciting interview! See you at the next
+event!
 
-<strong>Inbar:</strong> Thank you, Anne!
+**Inbar:** Thank you, Anne!
 
-<strong>⋆Note:</strong> Due to the ongoing Corona Crisis the workshop on March,
-21st is cancelled for prevention reasons.
+**⋆Note:** Due to the ongoing Corona Crisis the workshop on March, 21st is
+cancelled for prevention reasons.
 
 ## Foot notes
 
@@ -786,3 +791,5 @@ at the next event!
 
 [2][mitternachtsbus hamburg](
 https://www.diakonie-hamburg.de/de/visitenkarte/diakonie-zentrum-fuer-wohnungslose/mitternachtsbus)
+
+  

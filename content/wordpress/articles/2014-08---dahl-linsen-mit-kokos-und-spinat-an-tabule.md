@@ -4,12 +4,10 @@ seoTitle: Dahl-Linsen mit Kokos und Spinat an Tabulé
 slug: dahl-linsen-mit-kokos-und-spinat-an-tabule
 link: /2014/08/dahl-linsen-mit-kokos-und-spinat-an-tabule/
 fileName: 2014-08---dahl-linsen-mit-kokos-und-spinat-an-tabule.md
-description:
-  Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und lecker
-  fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller
+description: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und
+  lecker fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller
   Nährstoffe.
-excerpt:
-  Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und lecker
+excerpt: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und lecker
   fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller
   Nährstoffe.
 focusKeyword: Dahl-Linsen
@@ -39,14 +37,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8686"
+image: /img/demo.jpg
+errors: []
 subTitle: Scharf und lecker
+  
 ---
-
-<strong>Schon vor einiger Zeit hatte ich versprochen, ab und zu mal das ein oder
-andere Rezept in meinem Blog zu veröffentlichen. Ich teile meine Rezepte schon
-seit einiger Zeit in meinem [Instagram-Account](http://instagram.com/anne_reko)
-und bekomme darüber immer wieder Anfragen, wann es denn endlich so weit sein
-wird.</strong>
 
 Am Donnerstag Abend habe ich dann wie immer unser Abendessen in Instagram
 gepostet und die liebe [Jessie](http://instagram.com/jessicalux?modal=true) bat
@@ -62,7 +57,25 @@ Belgien! Kiss! &lt;3
 
 Und nun: Vorhang auf für das erste Rezept meiner Vegan-Rubrik:
 
-## Dahl-Linsen mit Kokos und Spinat an Tabulé<strong>Zutaten (für 4 Portionen)</strong><ul><li>300 g Rote Linsen</li><li>300 g Bulgur oder Instant-Couscous</li><li>1 Päckchen Kokoschips oder Kokosspäne</li><li>gefrorene Curryblätter</li><li>200 g gefrorener Blattspinat</li><li>Madras Curry</li><li>1 Knoblauchzehe oder etwas Knoblauchpulver, je nach Geschmack</li><li>Sojasauce oder Meersalz</li><li>3 Thai-Chilis (je nach Geschmack auch mehr oder weniger)</li><li>Pistazien oder Mandeln</li><li>Rosinen oder getrocknete Cranberries</li><li>3 Beutel Pfefferminztee</li><li>Frische Minze (falls vorhanden)</li><li>Zitronensaft</li><li>Olivenöl</li><li>1 Esslöffel Gemüsebrühe</li><li>Wasser</li><li>Kokosöl</li></ul><strong>Zubereitung</strong>
+## Dahl-Linsen mit Kokos und Spinat an Tabulé **Zutaten (für 4 Portionen)** - 300 g Rote Linsen
+
+- 300 g Bulgur oder Instant-Couscous
+- 1 Päckchen Kokoschips oder Kokosspäne
+- gefrorene Curryblätter
+- 200 g gefrorener Blattspinat
+- Madras Curry
+- 1 Knoblauchzehe oder etwas Knoblauchpulver, je nach Geschmack
+- Sojasauce oder Meersalz
+- 3 Thai-Chilis (je nach Geschmack auch mehr oder weniger)
+- Pistazien oder Mandeln
+- Rosinen oder getrocknete Cranberries
+- 3 Beutel Pfefferminztee
+- Frische Minze (falls vorhanden)
+- Zitronensaft
+- Olivenöl
+- 1 Esslöffel Gemüsebrühe
+- Wasser
+- Kokosöl **Zubereitung**
 
 Bulgur oder Couscous in eine Schale geben. Die Teebeutel aufschneiden und den
 Inhalt zusammen mit der Gemüsebrühe hinzugeben. Die Mischung mit heißem Wasser
@@ -108,3 +121,5 @@ Kussi Anne &lt;3
 &nbsp;
 
 &nbsp;
+
+  

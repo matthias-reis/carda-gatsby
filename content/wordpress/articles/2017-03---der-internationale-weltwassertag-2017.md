@@ -4,12 +4,11 @@ seoTitle: Der Internationale Weltwassertag 2017 - Abwasser als Ressource
 slug: der-internationale-weltwassertag-2017
 link: /2017/03/der-internationale-weltwassertag-2017/
 fileName: 2017-03---der-internationale-weltwassertag-2017.md
-description:
-  Jedes Jahr findet am 22. März der Internationale Weltwassertag statt. Der
-  diesjährige Weltwassertag steht unter dem Motto "Abwasser als Ressource".
-excerpt:
-  Jedes Jahr findet am 22. März der Internationale Weltwassertag statt. Der
-  diesjährige Weltwassertag steht unter dem Motto "Abwasser als Ressource".
+description: Jedes Jahr findet am 22. März der Internationale Weltwassertag
+  statt. Der diesjährige Weltwassertag steht unter dem Motto "Abwasser als
+  Ressource".
+excerpt: Jedes Jahr findet am 22. März der Internationale Weltwassertag statt.
+  Der diesjährige Weltwassertag steht unter dem Motto "Abwasser als Ressource".
 focusKeyword: Weltwassertag
 labels:
   - Darum vegan
@@ -34,14 +33,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16201"
+image: /img/demo.jpg
+errors: []
 subTitle: Abwasser als Ressource
+  
 ---
 
 ![Weltwassertag](http://cardamonchai.com/wp-content/uploads/2017/03/11153925974_fe91f672d3_z-640x425.jpg "Junge spielt im Wasser - München")
 
-<b>Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag
+**Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag
 statt. Damit soll daran erinnert werden, dass Wasser die Grundlage für das Leben
-auf der Erde ist.</b>
+auf der Erde ist.**
 
 Der Tag wurde im Rahmen der Agenda 21 der UN-Konferenz für Umwelt und
 Entwicklung (UNCED) vorgeschlagen. Am 22. Dezember 1992 beschloss die
@@ -79,7 +81,7 @@ Faulgas. Auch Phosphor und andere Stoffe sollen zukünftig verstärkt aus Abwass
 gewonnen werden. Das geht aus der in diesem Jahr von der Bundesregierung neu
 beschlossenen Klärschlammverordnung hervor.
 
-<blockquote>Tu was Du kannst, tu es mit anderen und tu es mit Leidenschaft.</blockquote>
+> Tu was Du kannst, tu es mit anderen und tu es mit Leidenschaft.
 
 Dieser Leitspruch stammt von ILO-Direktor und UN-Water Vorsitzenden Guy Ryder.
 Heute nutzen runden 1,8 Milliarden Menschen weltweit verschmutztes Wasser als
@@ -99,12 +101,10 @@ uns immer wieder daran erinnern. So stehen auch diese im Fokus des
 Internationalen Weltwassertages. Auf der dazugehörigen Homepage können sie
 nachgelesen werden.
 
-<ul>
-    <li>Stell das Wasser beim Zähneputzen ab.</li>
-    <li>Chemikalien und Abfälle gehören nicht in den Abfluss.</li>
-    <li>Zum Gießen kannst Du Regenwasser sammeln.</li>
-    <li>Bleib keine Stunde unter der Dusche stehen.</li>
-</ul>
+- Stell das Wasser beim Zähneputzen ab.
+- Chemikalien und Abfälle gehören nicht in den Abfluss.
+- Zum Gießen kannst Du Regenwasser sammeln.
+- Bleib keine Stunde unter der Dusche stehen.
 
 ## Weltwassertag – Was ist mit der Massentierhaltung?
 
@@ -124,7 +124,8 @@ gewählten Hauptthema, immer zwingend auch unter diesem Motto stehen?
 
 In den reichen Industrieländern werden Lebensmittel im Überfluss produziert.
 
-<blockquote>Rund 30 Prozent der weltweit hergestellten Lebensmittel werden weggeschmissen. Das dafür verbrauchte Wasser ist ganz klar verloren.</blockquote>
+> Rund 30 Prozent der weltweit hergestellten Lebensmittel werden weggeschmissen.
+> Das dafür verbrauchte Wasser ist ganz klar verloren.
 
 Das berichtet UN-Water.
 
@@ -132,9 +133,15 @@ Das berichtet UN-Water.
 
 ![Weltwassertag](http://cardamonchai.com/wp-content/uploads/2017/03/WWD-GENERIQ-CMJN_ger_2017_square-01-640x626.png)
 
-.
+An der Universität in Kassel findet heute eine Retrospektive zum Thema
+Wasserversorgung statt. Das Motto ist „Vergangenheit, Gegenwart und Zukunft“.
+Weitere Veranstaltungshinweise, sowie Geschichten rund um die Wasserversorgung
+weltweit gibt es auf der offiziellen Homepage zum Weltwassertag
+[http://www.worldwaterday.org/](http://www.worldwaterday.org/).
 
 Tipps zum Stromsparen [findet Ihr hier](/2011/04/stromanbieter-wechseln/).
 
 Alle Fotos habe ich gemacht, die Grafik stamm vom Unesco Institute For Water
 Education.
+
+  

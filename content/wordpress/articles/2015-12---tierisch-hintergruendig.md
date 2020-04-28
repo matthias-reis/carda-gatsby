@@ -4,12 +4,10 @@ seoTitle: Tierisch hintergründig - Bilder von Denise Slapansky
 slug: tierisch-hintergruendig-bilder-von-denise-slapansky
 link: /2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/
 fileName: 2015-12---tierisch-hintergruendig.md
-description:
-  Die vegane Künstlerin Denise Slapansky zeigte in ihrer Ausstellung "Tierisch
-  hintergründig" sogenannte "Nutztiere" wie sie wirklich sind.
-excerpt:
-  Die vegane Künstlerin Denise Slapansky zeigte in ihrer Ausstellung "Tierisch
-  hintergründig" sogenannte "Nutztiere" wie sie wirklich sind.
+description: Die vegane Künstlerin Denise Slapansky zeigte in ihrer Ausstellung
+  "Tierisch hintergründig" sogenannte "Nutztiere" wie sie wirklich sind.
+excerpt: Die vegane Künstlerin Denise Slapansky zeigte in ihrer Ausstellung
+  "Tierisch hintergründig" sogenannte "Nutztiere" wie sie wirklich sind.
 focusKeyword: Tierisch
 labels:
   - Ausstellung
@@ -29,12 +27,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13248"
+image: /img/demo.jpg
+errors: []
 subTitle: Die neue Ausstellung von Denise Slapansky
+  
 ---
-
-<strong>Ganz sicher können sich einige hier noch an die vegane Künstlerin Denise
-Slapansky Hof erinnern. Zuletzt hatte ich hier ihre Bilder [](#1) erfreut sich
-großer Beliebtheit.</strong>
 
 Vom 8. bis zum 14. November stellte Denise in den Räumlichkeiten der Augsburger
 IT-Firma Harle ihre aktuellsten Werke aus. Unter dem Motto "Tierisch
@@ -59,7 +56,7 @@ weil er auch mir so gut gefällt, verewige ich ihn hiermit hier.
 Gemalt hat Denise schon sehr früh, in einem ihrer Grundschulzeugnisse stand die
 Anmerkung
 
-<blockquote>Denise malt gern und sie liebt Tiere.</blockquote>
+> Denise malt gern und sie liebt Tiere.
 
 Seither hat sich nicht viel geändert, wenn Denise nicht gerade mit Malen oder
 der der Bildhauerei beschäftigt ist, widmet sie sich der Arbeit im Tierschutz
@@ -110,7 +107,7 @@ Im Werk "Milka" geht es um die Problematik des Leistungszwangs. Der Blick der
 Kuh ist leer. Sie hat viele Kinder geboren, jedes Jahre eines, alle wurden sie
 von ihr getrennt. Wenn ihre Leistung nachlässt, wird sie zur Schlachtbank
 geführt. Die sehr kleinen Kälber links im Bild sind ein Hinweis auf die nach wie
-vor praktizierte Trächtigkeitsschlachtung [](#3).
+vor praktizierte Trächtigkeitsschlachtung [<sup>3</sup>](#3).
 
 "60 Million Dreams" greift das Thema Massentierhaltung auf. Ca. 60 Millionen
 Schweine werden in Deutschland jedes Jahr geschlachtet. 99% von ihnen leben in
@@ -147,12 +144,18 @@ des Bewusstseins zeigen. Rauf und runter. Sehen oder nicht sehen."
 
 Das als kleiner Einblick, weitere Bilder seht ihr unten in der Galerie. Sofern
 es sich um "Nutztiere" handelt, nimmt Denise auch immer wieder gerne Aufträge
-an. Erreichbar ist sie stets über ihre Facebook-Seite. [](#4)
+an. Erreichbar ist sie stets über ihre Facebook-Seite. [<sup>4</sup>](#4)
 
 [gallery link="none" size="medium" type="columns"
 ids="13324,13323,13322,13321,13320,13314,13311,13310,13306,13305,13303,13302,13298,13297,13290,13289,13286,13285,13282,13281,13272,13268,13269,13266,13264,13263,13296,13262,13260,13257,13256,13255,13252"]
 
-### Fußnoten<ul><li id="1">[1][facebook-seite von denise](/2015/04/vegane-haekelmuetzen-mit-statement/) </li></ul>
+### Fußnoten- [1][vegane mützen mit statement - vegane häkelmützen von denise slapansky](/2015/04/vegane-haekelmuetzen-mit-statement/)
+
+- [2][ein meer aus farben für die tiere - bilder von denise slapansky](/2015/08/ein-meer-aus-farben-fuer-die-tiere/)
+- [3][qualvoll erstickt im mutterleib - thema trächtigkeitsschlachtung](/2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/)
+- [4][facebook-seite von denise](https://www.facebook.com/WYOB-save-lives-statement-kleidung-944915775541408/)
 
 Alles über Wolle und warum sie nicht vegan ist,
 [erfahrt Ihr hier](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/).
+
+  

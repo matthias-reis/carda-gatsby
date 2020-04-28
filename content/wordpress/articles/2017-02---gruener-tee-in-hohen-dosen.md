@@ -4,14 +4,12 @@ seoTitle: tigovit - Grüner Tee in hohen Dosen - Hier ist mein Testbericht
 slug: tigovit-gruener-tee-in-hohen-dosen
 link: /2017/02/tigovit-gruener-tee-in-hohen-dosen/
 fileName: 2017-02---gruener-tee-in-hohen-dosen.md
-description:
-  tigovit enthält Stoffe aus Grünem Tee, die für ihre positive Wirkung auf die
-  Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die Kapseln
-  getestet
-excerpt:
-  Werbung - tigovit enthält Stoffe aus Grünem Tee, die für ihre positive Wirkung
-  auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die Kapseln
-  getestet.
+description: tigovit enthält Stoffe aus Grünem Tee, die für ihre positive
+  Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die
+  Kapseln getestet
+excerpt: Werbung - tigovit enthält Stoffe aus Grünem Tee, die für ihre positive
+  Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die
+  Kapseln getestet.
 focusKeyword: tigovit
 labels:
   - Asien
@@ -32,17 +30,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15752"
+image: /img/demo.jpg
+errors: []
 subTitle: Mein Testbericht
+  
 ---
 
 Werbung\*
 
-<strong>Wenn es darum geht, etwas für meine Gesundheit zu tun, oder mein
-Wohlbefinden zu steigern, bin ich immer neugierig auf die neuesten
-Errungenschaften der Heilkunst.</strong>
+**Wenn es darum geht, etwas für meine Gesundheit zu tun, oder mein Wohlbefinden
+zu steigern, bin ich immer neugierig auf die neuesten Errungenschaften der
+Heilkunst.**
 
 ![tigovit](http://cardamonchai.com/wp-content/uploads/2017/02/tigovit-640x668.jpg)
 
+Das habe ich nicht erst bewiesen, als ich mich
+[auf dem Weg zur Tiefenentspannung](/2014/11/auf-dem-weg-zur-tiefenentspannung/)
 in die Hände einer versierten Thai-Masseurin sowie einer TCM-Ärztin begab. Ich
 bin landläufig sogar schon ein Bisschen als Kräuterhexe bekannt. Was ich schon
 alles an Tees und Smoothies ausprobiert habe, ich sage es Euch!
@@ -128,7 +131,8 @@ habe ich mit der Einnahme begonnen) befürchtet habe.
 Ja, ihr braucht Euch keine Sorgen machen. Der Hersteller beschreibt das auf
 seiner Seite folgendermaßen:
 
-<blockquote>tigovit ist auch für Vegetarier und Veganer geeignet, enthält keine Konservierungsstoffe und ist gelatinefrei.</blockquote>
+> tigovit ist auch für Vegetarier und Veganer geeignet, enthält keine
+> Konservierungsstoffe und ist gelatinefrei.
 
 ## Wie sieht es mit Koffein aus?
 
@@ -138,7 +142,7 @@ ungefähr so viel, wie 1/10 Tasse Kaffee.
 ## Wo kommt es her?
 
 Die Firma hat ihren Sitz in München Grünwald. Weitere Infos sind außerdem auf
-der [Homepage](https://tigofit.com)  von <em>tigovit </em>zu finden.
+der [Homepage](https://tigofit.com)  von _tigovit_ zu finden.
 
 ## Mein Fazit
 
@@ -159,11 +163,13 @@ Das ist das Einzige, was man sich meiner Meinung nach überlegen muss, wenn man
 
 ![tigovit | full](http://cardamonchai.com/wp-content/uploads/2017/02/tigofit2.png)
 
-<strong>Bilder und Grafiken:</strong> Mit
-[freundlicher Genehmigung](https://tigovit.com) von tigovit.
+**Bilder und Grafiken:** Mit [freundlicher Genehmigung](https://tigovit.com) von
+tigovit.
 
 Mehr Infos auf der tigovit [Hompage](https://tigovit.com).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Infos zum Thema Werbung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Infos zum Thema Werbung in meinem
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

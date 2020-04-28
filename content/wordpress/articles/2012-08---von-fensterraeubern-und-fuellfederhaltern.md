@@ -4,12 +4,10 @@ seoTitle: Von Fenster, Kaffee und Won Kar Wai - Tagebucheintrag
 slug: von-fenstern-kaffee-und-won-kar-wai
 link: /2012/08/von-fenstern-kaffee-und-won-kar-wai/
 fileName: 2012-08---von-fensterraeubern-und-fuellfederhaltern.md
-description:
-  Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der
-  Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
-excerpt:
-  Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der
-  Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
+description: Heute ist also der 1. August. Noch zehn Monate, dann ist wieder
+  Sommer. Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
+excerpt: Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer.
+  Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
 focusKeyword: ""
 labels:
   - Arbeit
@@ -60,14 +58,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3540"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein ganz normaler Mittwoch
+  
 ---
 
 ![Neuer Füllfederhalter Anne Reko 8/2012](http://cardamonchai.com/wp-content/uploads/2012/08/img_20120801_094736-640x640.jpg "Neuer Füllfederhalter Anne Reko 8/2012")
 
-<strong>Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer.
-Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen. Da habe
-ich mir wirklich lange Zeit was wirklich Gutes entgehen lassen.</strong>
+**Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der
+Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen. Da habe ich
+mir wirklich lange Zeit was wirklich Gutes entgehen lassen.**
 
 Immer, wenn man denkt, dass sich das Chaos langsam lichtet, geht es erst richtig
 los. Ich merke das, wenn ich anfange To-Do-Listen über die To-Do-Listen zu
@@ -92,6 +93,8 @@ irgendwie denkt man da meistens nur beim Aufstehen dran.
 
 Ich zitiere an dieser Stelle
 [Tocotronic](http://musichq.de/images/artist_event/tocotronic/tocotronic.jpg)
+(Mir fällt ständig zu allem ein
+[Tocotronic](http://musichq.de/images/artist_event/tocotronic/tocotronic.jpg)
 -Zitat ein.): 'Manchmal weiß ich schon beim Aufstehen, heut´geht alles schief,
 abends muss ich dann einsehn´, selbst das klappt meistens nie.' - Ein wahrer
 Satz.
@@ -109,7 +112,7 @@ wundervolles Wort. Ich habe mir am Montag sogar einen neuen geleistet, den ich
 jetzt natürlich so oft wie möglich zum Einsatz bringen möchte. Was sicher auch
 zu dem ein oder anderen Blogeintrag führen wird.
 
-<em>So far... Stay tuned...</em>
+_So far... Stay tuned..._
 
 PS: Falls ich es schaffe, gibt es heute Abend noch einen weiteren Beitrag mit
 Englandfotos im Blog. Man darf gespannt sein.
@@ -118,19 +121,18 @@ Englandfotos im Blog. Man darf gespannt sein.
 
 [youtube=http://www.youtube.com/watch?v=o-4ZlO3XxYQ]
 
-<em>Oh, you never let it on, all you wanted was a little disaster</em><em>It's
-temporary, it's temporary</em><em>It's temporary, it's temporary</em><em>And now
-you, you knew it all along</em><em>Make it till the morning, we can think about
-it after</em><em>It's temporary, it's temporary</em><em>It's temporary, it's
-temporary</em><em>They don't ask no, </em><em>It's temporary, it's
-temporary</em><em>It's temporary, it's temporary</em><em>I really don't know why
-I let it roam</em><em>... can be the moment, it's about to fall</em><em>It's
-temporary, it's temporary</em><em>It's temporary, it's temporary</em><em>They
-don't ask no, </em><em>And they don't ask no </em><em>They don't ask
-no</em><em>So you, you never let it on</em><em>Make it till the morning, we can
-think about it after</em><em>It's temporary, it's temporary</em><em>It's
-temporary, it's temporary</em><em>So all you wanted was an honest
-....</em><em>...got the one ... </em><em>They don't ask no, </em><em>And they
-don't ask no </em><em>They don't ask no</em><em>So you, you never let it
-on</em><em>Make it till the morning, we can think about it after</em><em>It's
-temporary, it's temporary</em><em>It's temporary, it's temporary.</em>
+_Oh, you never let it on, all you wanted was a little disaster_ _It's temporary,
+it's temporary_ _It's temporary, it's temporary_ _And now you, you knew it all
+along_ _Make it till the morning, we can think about it after_ _It's temporary,
+it's temporary_ _It's temporary, it's temporary_ _They don't ask no,_ _It's
+temporary, it's temporary_ _It's temporary, it's temporary_ _I really don't know
+why I let it roam_ _... can be the moment, it's about to fall_ _It's temporary,
+it's temporary_ _It's temporary, it's temporary_ _They don't ask no,_ _And they
+don't ask no_ _They don't ask no_ _So you, you never let it on_ _Make it till
+the morning, we can think about it after_ _It's temporary, it's temporary_ _It's
+temporary, it's temporary_ _So all you wanted was an honest ...._ _...got the
+one ..._ _They don't ask no,_ _And they don't ask no_ _They don't ask no_ _So
+you, you never let it on_ _Make it till the morning, we can think about it
+after_ _It's temporary, it's temporary_ _It's temporary, it's temporary._
+
+  

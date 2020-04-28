@@ -4,12 +4,12 @@ seoTitle: '"A Dawn To Fear" - Das neue Album von Cult Of Luna'
 slug: cult-of-luna-a-dawn-to-fear
 link: /2019/09/cult-of-luna-a-dawn-to-fear/
 fileName: 2019-09---a-dawn-to-fear.md
-description:
-  Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso eindrucksvoll,
-  wie der Titel ist die Musik, die es auf der Scheibe zu hören gibt.
-excerpt:
-  Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso eindrucksvoll,
-  wie der Titel ist die Musik, die es auf der Scheibe zu hören gibt.
+description: Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso
+  eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören
+  gibt.
+excerpt: Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso
+  eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören
+  gibt.
 focusKeyword: Cult Of Luna
 labels:
   - Baltic Post-Rock
@@ -26,12 +26,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26347"
+image: /img/demo.jpg
+errors: []
 subTitle: Das neue Album von Cult Of Luna
+  
 ---
 
-<strong>Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso
-eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören
-gibt.</strong>
+**Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso eindrucksvoll,
+wie der Titel ist die Musik, die es auf der Scheibe zu hören gibt.**
 
 Aufgenommen hat die Band das neue Werk im Ocean Sound Recordings Studio an der
 norwegischen Küste. Johannes Persson, Fredrik Kihlberg, Erik Olofsson, Magnus
@@ -51,12 +53,12 @@ wieder vergessen werden.
 Johannes Persson mit, dass die Band im Vorfeld genau wusste, was für eine Art
 Album es werden sollte.
 
-<blockquote>"Es sollte genau der Gegensatz zu allem sein, was wir bisher gemacht haben",</blockquote>
+> "Es sollte genau der Gegensatz zu allem sein, was wir bisher gemacht haben",
 
 berichtet er dort. Bisher gab es für fast alle Alben ein sehr konkretes Thema
 und es war von Anfang an klar, welche Geschichte mit einer Platte erzählt werden
-sollte. In diesem Fall sollte das <em>nicht </em>so sein. Persson hatte sich
-gewünscht, dieses Mal Teil eines völlig spontanen Prozesses zu sein.
+sollte. In diesem Fall sollte das _nicht_ so sein. Persson hatte sich gewünscht,
+dieses Mal Teil eines völlig spontanen Prozesses zu sein.
 
 "A Dawn To Fear" ist das Ergebnis dieses Prozesses und ich kann schon mal soviel
 sagen: Offenbar haben Cult Of Luna alles richtig gemacht. Welche Vorgehensweise
@@ -74,13 +76,13 @@ Untergang, vor dem wir uns in Acht nehmen müssen steht uns bevor. Finstere
 Gesänge und wehmütige Melodien künden ihn an.
 
 Ein Lieblingsstück kann ich, befangen, wie ich derzeit bin, im Moment (noch)
-nicht benennen. Eventuell wird es "Nightwalkers" oder der brachiale Einstieg
-"<strong>The Silent Man</strong>".
+nicht benennen. Eventuell wird es "Nightwalkers" oder der brachiale Einstieg "
+**The Silent Man** ".
 
-Am besten sollte man das neue Album, genau wie alle Werke von COL, <em>am
-Stück</em> konsumieren. Der vollendete Genuss vom ersten Ton bis zum
-Schluss-Crescendo ist damit garantiert und man bekommt einen wunderbaren
-Gesamteindruck von der unfassbaren Kreativität und Vielfalt der Schweden.
+Am besten sollte man das neue Album, genau wie alle Werke von COL, _am Stück_
+konsumieren. Der vollendete Genuss vom ersten Ton bis zum Schluss-Crescendo ist
+damit garantiert und man bekommt einen wunderbaren Gesamteindruck von der
+unfassbaren Kreativität und Vielfalt der Schweden.
 
 ## "A Dawn To Fear" ist ein Wechselbad der Gefühle
 
@@ -116,8 +118,10 @@ keine zu hören.
 
 <iframe src="https://www.youtube.com/embed/XoFJA24GhfA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<strong>Quellen:</strong>
-[Cult Of Luna](https://cultofluna.bandcamp.com/album/a-dawn-to-fear)
-<strong>Fotos: </strong>Aus meinem Archiv, Cult Of Luna Konzert 4. Mai 2014
-Feierwerk, München <strong>Artwork: </strong>Cult Of Luna <strong>Release-Datum:
-</strong>"A Dawn To Fear" wurde offiziell am 20. September 2019 veröffentlicht.
+**Quellen:** [Bandcamp](https://cultofluna.bandcamp.com/album/a-dawn-to-fear),
+[Cult Of Luna](https://www.cultofluna.com/) **Fotos:** Aus meinem Archiv, Cult
+Of Luna Konzert 4. Mai 2014 Feierwerk, München **Artwork:** Cult Of Luna
+**Release-Datum:** "A Dawn To Fear" wurde offiziell am 20. September 2019
+veröffentlicht.
+
+  

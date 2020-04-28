@@ -4,12 +4,10 @@ seoTitle: Twitterprosa - Goldener Herbstschein folgt auf gewaltige Regengüsse
 slug: twitterprosa
 link: /2012/10/twitterprosa/
 fileName: 2012-10---twitterprosa.md
-description:
-  Goldener Herbstschein folgt auf gewaltige Regengüsse. Laubbilder am Freitag.
-  Kaffee mit Zucker. Phoshorsäurehaltige Limonade mit Farbstoffen.
-excerpt:
-  Goldener Herbstschein folgt auf gewaltige Regengüsse. Laubbilder am Freitag.
-  Kaffee mit Zucker. Phoshorsäurehaltige Limonade.
+description: Goldener Herbstschein folgt auf gewaltige Regengüsse. Laubbilder am
+  Freitag. Kaffee mit Zucker. Phoshorsäurehaltige Limonade mit Farbstoffen.
+excerpt: Goldener Herbstschein folgt auf gewaltige Regengüsse. Laubbilder am
+  Freitag. Kaffee mit Zucker. Phoshorsäurehaltige Limonade.
 focusKeyword: Twitter
 labels:
   - "@Anne_Reko"
@@ -46,12 +44,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4334"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine Zusammenfassung
+  
 ---
-
-<strong>Goldener Herbstschein folgt auf gewaltige Regengüsse. Laubbilder am
-Freitag. Kaffee mit Zucker. Phoshorsäurehaltige Limonade mit Farbstoffen und
-Aspartamsüße. Bildschirmgezwitscher und Frühstücksgedanken.</strong>
 
 ![85f9201cf33611e19cf61231381321cd_7](http://cardamonchai.com/wp-content/uploads/2012/10/85f9201cf33611e19cf61231381321cd_7.jpg)
 
@@ -83,4 +80,6 @@ Wer wissen möchte, wie es weitergeht, kann dies gerne auf
 
 ![ | small](http://cardamonchai.com/wp-content/uploads/2012/10/519079845-320x239.jpg)
 
-## </em><em>May the force be with you! &lt;3</em>
+## [Twitterer, die mir am Herzen liegen](https://twitter.com/Anne_Reko/following) _ \_\_\_\_ _ _May the force be with you! &lt;3_
+
+  

@@ -4,12 +4,12 @@ seoTitle: Deutsche Umwelthilfe e. V. - Petition gegen illegale Fisch-Rückwürfe
 slug: deutsche-umwelthilfe-petition-gegen-illegale-fisch-rueckwuerfe
 link: /2018/09/deutsche-umwelthilfe-petition-gegen-illegale-fisch-rueckwuerfe/
 fileName: 2018-09---petition-gegen-illegale-fisch-rueckwuerfe.md
-description:
-  Die Deutsche Umwelthilfe e. V. macht sich seit vielen Jahren für die Meere
-  stark. Aktuell hat sie eine Petition gegen illegale Fisch-Rückwürfe gestartet.
-excerpt:
-  Die Deutsche Umwelthilfe e. V. macht sich seit vielen Jahren für die Meere
-  stark. Aktuell hat sie eine Petition gegen illegale Fisch-Rückwürfe gestartet.
+description: Die Deutsche Umwelthilfe e. V. macht sich seit vielen Jahren für
+  die Meere stark. Aktuell hat sie eine Petition gegen illegale Fisch-Rückwürfe
+  gestartet.
+excerpt: Die Deutsche Umwelthilfe e. V. macht sich seit vielen Jahren für die
+  Meere stark. Aktuell hat sie eine Petition gegen illegale Fisch-Rückwürfe
+  gestartet.
 focusKeyword: Deutsche Umwelthilfe
 labels:
   - crueltyfree
@@ -30,18 +30,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22094"
+image: /img/demo.jpg
+errors: []
 subTitle: Deutsche Umwelthilfe e. V. ruft zum Mitzeichnen auf
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Die Deutsche Umwelthilfe e. V. macht sich seit vielen Jahren für die
-Meere stark. Aktuell hat die NGO eine große Petition gegen illegale
-Fisch-Rückwürfe gestartet.</strong>
+**Die Deutsche Umwelthilfe e. V. macht sich seit vielen Jahren für die Meere
+stark. Aktuell hat die NGO eine große Petition gegen illegale Fisch-Rückwürfe
+gestartet.**
 
 Bei der industriellen Fischerei landen unzählige kleine und junge Fische sowie
-andere <strong>Meerestiere</strong>, die nicht als "Speisefisch" verkauft werden
-können, in den Netzen.
+andere **Meerestiere** , die nicht als "Speisefisch" verkauft werden können, in
+den Netzen.
 
 Den Fischern sind ihre Fangquoten wichtig. Weil der Beifang nicht angerechnet
 wird, werden die Tiere verletzt zurück ins Meer geworfen. Dort verenden sie
@@ -71,18 +74,24 @@ Rund 3.000 Unterschriften sind noch nötig, damit das Ziel erreicht wird. Jede
 Stimme zählt. Darum würde ich mich sehr freuen, wenn Ihr die Petition
 mitzeichnet. Ihr könnt das ganz leicht unter dem folgenden Link tun:
 
-<blockquote> [PETITION JETZT MITZEICHNEN](http://www.change.org/stopptrueckwuerfe/?&amp;wc=FA) </blockquote>
+> [PETITION JETZT MITZEICHNEN](http://www.change.org/stopptrueckwuerfe/?&wc=FA)
 
 ![Deutsche Umwelthilfe](http://cardamonchai.com/wp-content/uploads/2018/09/29821427417_6cc79d3df4_z-400x300.jpg)
 
-. Außerdem halte ich Euch natürlich auch weiterhin immer wieder mit Nachrichten
-zum Thema Meeresschutz auf dem Laufenden.
+Was Ihr noch zum Schutz der Meere tun könnt? Sammelt jedes Mal, wenn Ihr am
+Strand seid, soviel Müll auf, wie Ihr tragen könnt. Und verzichtet am besten
+komplett auf Fisch. Viele leckere und Fisch-freie Rezepte
+[findet Ihr bei mir im Blog](/category/vegan-2/rezepte/). Außerdem halte ich
+Euch natürlich auch weiterhin immer wieder mit Nachrichten zum Thema
+Meeresschutz auf dem Laufenden.
 
 Wie wir mithilfe einer simplen Handy-App alle gemeinsam etwas gegen die drohende
 Plastikflut im Meer tun können, könnt Ihr
 [hier nachlesen](/2018/08/replace-plastic-app-kueste-gegen-plastik/).
 
-<em>\*Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
-dadurch nicht beeinflusst. Weitere Infos: 
+_\*Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch
+nicht beeinflusst. Weitere Infos: 
 [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)
-</em>
+_
+
+  

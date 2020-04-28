@@ -4,12 +4,10 @@ seoTitle: Konzert abgesagt - Ticketshop überfordert - Neues aus der Servicewüs
 slug: konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste
 link: /2013/03/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/
 fileName: 2013-03---das-abgesagte-konzert.md
-description:
-  Konzert abgesagt - Zwei Wörter. Wäre nett, wenn man sie mit den Menschen,
-  welche die Veranstaltung besuchen wollten, geteilt hätte.
-excerpt:
-  Konzert abgesagt - Zwei Wörter. Wäre nett, wenn man sie mit den Menschen,
-  welche die Veranstaltung besuchen wollten, geteilt hätte.
+description: Konzert abgesagt - Zwei Wörter. Wäre nett, wenn man sie mit den
+  Menschen, welche die Veranstaltung besuchen wollten, geteilt hätte.
+excerpt: Konzert abgesagt - Zwei Wörter. Wäre nett, wenn man sie mit den
+  Menschen, welche die Veranstaltung besuchen wollten, geteilt hätte.
 focusKeyword: Konzert abgesagt
 labels:
   - Amanda Palmer
@@ -56,14 +54,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5006"
+image: /img/demo.jpg
+errors: []
 subTitle: Nächstes Mal wird es dafür doppelt schön
+  
 ---
 
-<strong>Heute erfahrt Ihr, warum ich leider nie erfahren werde, ob Amanda Palmer
-meine Frisur gefallen hätte. Das Konzert wurde leider abgesagt. Der Ticketshop
-ist überfordert und weiß nicht, was zu tun ist.</strong>
-
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda5-640x640.jpg " [](/wp-content/uploads/2013/03/amanda5.jpg)  Two tickets to paradise")
+![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda5-640x640.jpg "[ ](/wp-content/uploads/2013/03/amanda5.jpg)  Two tickets to paradise")
 
 Gleich an erster Stelle: Lieber Antony, ich wünsche Dir alles Gute, wir hoffen,
 dass es Dir bald besser gehen wird. Amanda soll Dich von uns drücken. Wir denken
@@ -84,7 +81,7 @@ war. Ein Mitarbeiter wies uns darauf hin, dass das Konzert in die benachbarte
 Muffathalle verlegt worden war. Wir wunderten uns kurz, dass uns niemand per
 E-Mail informiert hatte und gingen rüber.
 
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda4-640x640.jpg " [](/wp-content/uploads/2013/03/amanda4.jpg)  Amanda-Look")
+![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda4-640x640.jpg "[ ](/wp-content/uploads/2013/03/amanda4.jpg)  Amanda-Look")
 
 Wir gaben unsere Jacken ab und wurden darauf hingewiesen, dass sich das Konzert
 noch etwas verzögern würde, also nahmen wir im angeschlossenen Café Platz, um
@@ -100,15 +97,14 @@ gefreut. Ein paar Tage zuvor hatte er sich jedoch, im Gegensatz zu uns, noch
 einmal die Facebook-Seite der Künstlerin besucht und folgende Meldung
 vorgefunden:
 
-<em>'Mit großem Bedauern mussten sich Amanda Palmer &amp; The Grand Theft
-Orchestra dazu entscheiden, einen Großteil ihrer anstehenden Tourtermine
-abzusagen. Amandas bester Freund Antony ist schwer erkrankt und sie möchte ihm
-in Boston beistehen. Amanda, die über ihr Blog sehr eng mit ihren Fans verbunden
-ist, hat [dort bereits darüber berichtet](http://bit.ly/blog120612). Von der
-Absage sind auch die ursprünglich für März geplanten deutschen Konzerte in
-München, Köln, Berlin und Hamburg betroffen. Bereits im Vorverkauf erworbene
-Karten können bei den jeweiligen Vorverkaufsstellen zurückerstattet
-werden.'</em>
+_'Mit großem Bedauern mussten sich Amanda Palmer &amp; The Grand Theft Orchestra
+dazu entscheiden, einen Großteil ihrer anstehenden Tourtermine abzusagen.
+Amandas bester Freund Antony ist schwer erkrankt und sie möchte ihm in Boston
+beistehen. Amanda, die über ihr Blog sehr eng mit ihren Fans verbunden ist, hat
+[dort bereits darüber berichtet](http://bit.ly/blog120612). Von der Absage sind
+auch die ursprünglich für März geplanten deutschen Konzerte in München, Köln,
+Berlin und Hamburg betroffen. Bereits im Vorverkauf erworbene Karten können bei
+den jeweiligen Vorverkaufsstellen zurückerstattet werden.'_
 
 ![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda1.png "Amanda Palmer And The Grand Theft Orchestra")
 
@@ -201,12 +197,13 @@ wünschte, es wäre anders gelaufen. Ich hoffe, ihr versteht das und bleibt mir
 gewogen. Ich schreibe dies auch für andere Amanda-Fans, ich würde mich freuen,
 von ihnen zu hören.
 
-<em><strong>Desweiteren bleibt mir nichts, als Antony alles Gute zu wünschen.
-Wir hoffen sehr, dass es ihm bald besser geht. Zum Glück hat er in diesen Zeiten
-Amanda an seiner Seite. Unser Respekt an dieser Stelle. Wir wünschen Euch beiden
-nur das Beste. Und Amanda für den weiteren Verlauf der Tour gutes Gelingen.
-&lt;3</strong></em>
+_ **Desweiteren bleibt mir nichts, als Antony alles Gute zu wünschen. Wir hoffen
+sehr, dass es ihm bald besser geht. Zum Glück hat er in diesen Zeiten Amanda an
+seiner Seite. Unser Respekt an dieser Stelle. Wir wünschen Euch beiden nur das
+Beste. Und Amanda für den weiteren Verlauf der Tour gutes Gelingen. &lt;3** _
 
 Dieser Song ist für Antony
 
 [youtube=http://www.youtube.com/watch?v=a7fXDx4kzWk]
+
+  

@@ -4,13 +4,12 @@ seoTitle: CrowdFarming - Anbau auf Bestellung - Eine neue Lieferkette
 slug: crowdfarming
 link: /2018/11/crowdfarming/
 fileName: 2018-11---crowdfarming-anbau-auf-bestellung.md
-description:
-  '"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte darum, sie
-  für Dich anzubauen", sagen die Leute von Crowdfarming.'
-excerpt:
-  '"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte darum, sie
-  für Dich anzubauen", sagen die Leute von Crowdfarming. Wie das funktionieren
-  soll und was genau das ist, CrowdFarming, dem bin ich mal nachgegangen.'
+description: '"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte
+  darum, sie für Dich anzubauen", sagen die Leute von Crowdfarming.'
+excerpt: '"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte
+  darum, sie für Dich anzubauen", sagen die Leute von Crowdfarming. Wie das
+  funktionieren soll und was genau das ist, CrowdFarming, dem bin ich mal
+  nachgegangen.'
 focusKeyword: crowdfarming
 labels:
   - Klima & Umweltschutz
@@ -23,12 +22,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22702"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine neue Lieferkette
+  
 ---
 
-<strong>"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte darum,
-sie für Dich anzubauen", sagen die Leute von Crowdfarming. Wie das funktionieren
-soll und was genau das ist, CrowdFarming, dem bin ich mal nachgegangen.</strong>
+**"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte darum, sie
+für Dich anzubauen", sagen die Leute von Crowdfarming. Wie das funktionieren
+soll und was genau das ist, CrowdFarming, dem bin ich mal nachgegangen.**
 
 CrowdFarming ist eine neue direkte und transparente Lebensmittellieferkette, die
 von jungen Landwirten ins Leben gerufen wurde. Jeder kann Crowdfarmer werden,
@@ -87,7 +89,11 @@ CrowdFarming im Dezember 2015. Die ersten stolzen Orangenbaum-Adoptiveltern
 erhielten ihre Ernte. Und das Feedback ist großartig. Immer mehr Bauern möchten
 sich anschließen. Gonzalo ist begeistert:
 
-<blockquote><span style="font-weight: 400;">“Immer mehr interessierte Landwirte kontaktieren uns, um das CrowdFarming auch auf ihren Plantagen anzuwenden. Wir hatten so die Gelegenheit, unglaubliche Produkte zu entdecken und zu probieren, die für viele Verbraucher normalerweise verborgen bleiben, da kleine Erzeuger oft nicht die Möglichkeit haben, diese zu erreichen.”</span></blockquote>
+> “Immer mehr interessierte Landwirte kontaktieren uns, um das CrowdFarming auch
+> auf ihren Plantagen anzuwenden. Wir hatten so die Gelegenheit, unglaubliche
+> Produkte zu entdecken und zu probieren, die für viele Verbraucher
+> normalerweise verborgen bleiben, da kleine Erzeuger oft nicht die Möglichkeit
+> haben, diese zu erreichen.”
 
 ## Das Fenster zur Welt
 
@@ -115,4 +121,6 @@ rund ein Drittel aller produzierten Lebensmittel weg.
 Weitere Infos findet Ihr
 [auf der Homepage](https://www.crowdfarming.com/de#infoHow) von CrowdFarming.
 
-<strong>Fotos und Pressemitteilung:</strong> CrowdFarming
+**Fotos und Pressemitteilung:** CrowdFarming
+
+  

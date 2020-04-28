@@ -4,12 +4,11 @@ seoTitle: Sprung vom Tiertransporter - das Glücksferkel von Hof Butenland
 slug: das-gluecksferkel-von-hof-butenland
 link: /2019/08/das-gluecksferkel-von-hof-butenland/
 fileName: 2019-08---das-gluecksferkel-von-hof-butenland.md
-description:
-  "Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel rettete sich
-  durch einen Sprung vom Tiertransporter - bei 90 km/h auf der Autobahn."
-excerpt:
-  "Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel rettete sich
-  durch einen Sprung vom Tiertransporter - bei 90 km/h auf der Autobahn."
+description: "Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel
+  rettete sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der
+  Autobahn."
+excerpt: "Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel rettete
+  sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der Autobahn."
 focusKeyword: Tiertransporter
 labels:
   - Darum vegan
@@ -37,12 +36,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25733"
+image: /img/demo.jpg
+errors: []
 subTitle: Frederiks Sprung vom Tiertransporter
+  
 ---
 
-<strong>Frederik hat ein nervenaufreibendes Abenteuer auf den Lebenshof
-Butenland gebracht: Das Ferkel rettete sich durch einen Sprung vom
-Tiertransporter - bei 90 km/h auf der Autobahn.</strong>
+**Frederik hat ein nervenaufreibendes Abenteuer auf den Lebenshof Butenland
+gebracht: Das Ferkel rettete sich durch einen Sprung vom Tiertransporter - bei
+90 km/h auf der Autobahn.**
 
 Könnt Ihr Euch noch an
 [Victoria, das Glücksschwein aus dem Elbtunnel](/2017/11/das-gluecksschwein-aus-dem-elbtunnel/)
@@ -81,7 +83,10 @@ konnte inzwischen erfolgreich operiert werden und ist bereits abgeheilt. Der
 Kleine ist wohlauf und erfreut sich seines Lebens.
 
 Weil mich das Schicksal von Frederik und seinen Artgenossen so bewegt, habe ich
-mich vor Jahren dazu entschieden, [einen Nerz](/category/vegan-2/go-vegan/)
+mich vor Jahren dazu entschieden, [vegan zu leben](/category/vegan-2/go-vegan/).
+Für mich hat jedes Lebewesen das Recht auf ein schmerzfreies Leben ohne Angst.
+Es macht keinen Unterschied, ob es sich um eine Katze, einen Hund, ein
+Kaninchen, ein Schwein, eine Kuh oder [einen Nerz](/2014/11/fakepelz-echtpelz/)
 handelt.
 
 Aus diesem Grund habe ich heute auch eine Tierpatenschaft für Frederik
@@ -108,3 +113,5 @@ sie ihr Leben sorgenfrei genießen.
 [Frederiks Tagebuch](https://www.stiftung-fuer-tierschutz.de/?s=frederik)
 
 ["Der Schmerz der Ferkel - unnötige Quälerei in der Schweinezucht" - Das Erste](https://datenschutz-generator.de/eugh-urteil-like-button-cookie-opt-in-abmahnbarkeit/)
+
+  

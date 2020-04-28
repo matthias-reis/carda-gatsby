@@ -4,13 +4,11 @@ seoTitle: Filofaxing mit den Mumins - Fotolovestory
 slug: filofaxing-mit-den-mumins
 link: /2016/02/filofaxing-mit-den-mumins/
 fileName: 2016-02---filofaxing-mit-den-mumins.md
-description:
-  Filofaxing mit den Comichelden meiner Jugend - Dank einer lieben Dame in
-  Nippon ist das jetzt möglich. Mein Tagebuch wird ab sofort von den Mumins
-  geziert.
-excerpt:
-  Filofaxing mit den Comichelden meiner Jugend - Dank einer lieben Dame in
-  Nippon ist das jetzt möglich. Mein Tagebuch wird ab sofort von den Mumins
+description: Filofaxing mit den Comichelden meiner Jugend - Dank einer lieben
+  Dame in Nippon ist das jetzt möglich. Mein Tagebuch wird ab sofort von den
+  Mumins geziert.
+excerpt: Filofaxing mit den Comichelden meiner Jugend - Dank einer lieben Dame
+  in Nippon ist das jetzt möglich. Mein Tagebuch wird ab sofort von den Mumins
   geziert.
 focusKeyword: Filofaxing
 labels:
@@ -27,15 +25,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13830"
+image: /img/demo.jpg
+errors: []
 subTitle: Finnische Comic-Helden
+  
 ---
 
 ![Filofaxing mit den Mumins](http://cardamonchai.com/wp-content/uploads/2016/02/24664587156_867877258d_z-640x427.jpg "Muminspaket aus Nippon")
 
-<strong>Heute nennt man es Filofaxing oder Scrapbooking und es hat sich zu einem
+**Heute nennt man es Filofaxing oder Scrapbooking und es hat sich zu einem
 echten Trend etabliert. Kennt Ihr das auch? Ich habe ja mein Leben lang schon 
 [Tagebuch](/2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/) geschrieben,
-wann und wo immer ich konnte. </strong>
+wann und wo immer ich konnte.**
 
 Schon als Kind habe ich es geliebt, vor einer Ferienreise Pläne zu schmieden und
 schon Wochen im Voraus mein Urlaubstagebuch vorbereitet. Unterwegs habe ich dann
@@ -46,15 +47,15 @@ aufgeschrieben, vom Ausflug bis den einzelnen Bestandteilen des Abendessens.
 
 Das macht man beim Filofaxing genau so, außerdem kann man das Tagebuch auch
 schon vorab schön schmücken. Vor Kurzem habe ich über die sozialen Netzwerke
-eine nette Frau [](#1) kennengelernt, die sich ganz toll damit auskennt und
-immer wieder jede Menge wirklich gute Tipps für mich hat. Sie riet mir zu
-kleinen Online-Shops, wenn ich Interesse an ganz besonderem Zubehör für mein
-Hobby hätte.
+eine nette Frau [<sup>1</sup>](#1) kennengelernt, die sich ganz toll damit
+auskennt und immer wieder jede Menge wirklich gute Tipps für mich hat. Sie riet
+mir zu kleinen Online-Shops, wenn ich Interesse an ganz besonderem Zubehör für
+mein Hobby hätte.
 
 Gesagt, getan. Kurz danach bin ich in den Tiefen des Netzes bin ich auf eine
-Dame [](#2) aus Nippon gestoßen, die bei Etsy einen kleinen Papeterie-Shop mit
-Stickern, Haftnotizen, Stiften und allerlei buntem Kram fürs Filofaxing
-anbietet.
+Dame [<sup>2</sup>](#2) aus Nippon gestoßen, die bei Etsy einen kleinen
+Papeterie-Shop mit Stickern, Haftnotizen, Stiften und allerlei buntem Kram fürs
+Filofaxing anbietet.
 
 Seit ich denken kann, verehre ich die Mumins. Diese lauten, frechen, kleinen
 Zeichentrickfiguren, die sich die finnlandschwedische Kinderbuchautorin Tove
@@ -101,7 +102,12 @@ unglaublichen Büroklammern an. Das ist doch kaum auszuhalten, oder? :-P
 
 [myflickr tag="annemuminsbueroklammern"]
 
-<ul>
-    <li id="1">[1]Die liebe  [Interview mit Ihr](https://www.instagram.com/nine_onoke/),  nebenbei baut sie sich nämlich gerade ihren Shop mit selbst gemachtem, veganem Schmuck auf.</li>
-    <li id="2">[2] Bei  [Etsy](https://www.etsy.com/de/search?q=moomins)  könnt Ihr viele tolle Kleinigkeiten für Euer Tagebuch finden.</li>
-</ul>
+- [1]Die liebe [Nine Onoke](https://www.instagram.com/nine_onoke/) hat immer
+  wieder tolle Tipps fürs Scrapbooking parat. Ihr kennt Sie auch aus meinem
+  [Interview mit Ihr](/2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/),
+  nebenbei baut sie sich nämlich gerade ihren Shop mit selbst gemachtem, veganem
+  Schmuck auf.
+- [2] Bei  [Etsy](https://www.etsy.com/de/search?q=moomins) könnt Ihr viele
+  tolle Kleinigkeiten für Euer Tagebuch finden.
+
+  

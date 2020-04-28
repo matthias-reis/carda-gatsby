@@ -4,11 +4,10 @@ seoTitle: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen im Test
 slug: freshflaesch-cold-brew-coffee-juice-von-mounthagen
 link: /2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/
 fileName: 2019-01---freshflaesch-cold-brew-coffee-und-juice-von-mounthagen.md
-description:
-  'Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee her. Jetzt gibt es
-  etwas ganz Neues vom Hamburger Röster: "Coffee & Juice" in der "Freshfläsch".'
-excerpt:
-  'Werbung - Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in
+description: 'Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee her.
+  Jetzt gibt es etwas ganz Neues vom Hamburger Röster: "Coffee & Juice" in der
+  "Freshfläsch".'
+excerpt: 'Werbung - Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in
   Demeter-Qualität her. Jetzt gibt es etwas ganz Neues vom Hamburger Röster:
   "Coffee & Juice" in der "Freshfläsch".'
 focusKeyword: Cold Brew Kaffee
@@ -32,24 +31,27 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23341"
+image: /img/demo.jpg
+errors: []
 subTitle: Neue Wachmacher aus Hamburg
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in
-Demeter-Qualität her. Jetzt gibt es etwas ganz Neues vom Hamburger Röster:
-"Coffee &amp; Juice" in der "Freshfläsch".</strong>
+**Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in Demeter-Qualität
+her. Jetzt gibt es etwas ganz Neues vom Hamburger Röster: "Coffee &amp; Juice"
+in der "Freshfläsch".**
 
-Auf dem diesjährigen <strong>Hamburger Heldenmarkt</strong> habe ich das Gebräu
-getestet und für gut befunden. Insgesamt gibt es drei Sorten - sie alle bewohnen
-jetzt meinen heimatlichen Kühlschrank.
+Auf dem diesjährigen **Hamburger Heldenmarkt** habe ich das Gebräu getestet und
+für gut befunden. Insgesamt gibt es drei Sorten - sie alle bewohnen jetzt meinen
+heimatlichen Kühlschrank.
 
 Mein Favorit ist "Ginger &amp; Lime", dicht gefolgt von "Rhabarber" und
 "Grapefruit". Die Drinks werden in kleinen Pfandflaschen aus Glas geliefert -
 das hebt sie schon mal von gängigen Energy Drinks ab. Insgesamt sind sie sehr
-natürlich. Enhalten sind neben der Grundzutatat <strong>Arabica Cold Brew
-Kaffee</strong> (89 Prozent) Rohrzucker (7 Prozent) und Saft (2 Prozent).
+natürlich. Enhalten sind neben der Grundzutatat **Arabica Cold Brew Kaffee** (89
+Prozent) Rohrzucker (7 Prozent) und Saft (2 Prozent).
 
 Der Koffeingehalt pro 100 ml liegt übrigens bei 32 mg. So eine Freshfläsch mit
 330 ml macht also schön wach. Für mich ist das ab und zu eine tolle Alternative
@@ -60,8 +62,8 @@ erfrische.
 
 Der Geschmack gefällt mir persönlich sehr gut: Herber Kaffee spritzig frisch
 aufbereitet mit einem Hauch Kohlensäure. Das klingt ja alles schon mal ganz gut,
-aber was ist das eigentlich <strong>Cold Brew Kaffee</strong>? Das hört man ja
-im Moment überall - aber was muss man sich darunter vorstellen?
+aber was ist das eigentlich **Cold Brew Kaffee** ? Das hört man ja im Moment
+überall - aber was muss man sich darunter vorstellen?
 
 ![Cold Brew Kaffee](http://cardamonchai.com/wp-content/uploads/2019/01/2019-01-15-mounthagen-cold-brew-kaffee-2-400x533.jpg 'Cold Brew Kaffee von Mounthagen aus der "Frehfläsch"')
 
@@ -98,21 +100,19 @@ Mounthagen zunutze gemacht.
 
 ### Zutaten
 
-<ul>
-    <li>200 g grob gemalenen Kaffee (geröstet für Filderkaffee)</li>
-    <li>Zwei Karaffen oder Einmachgläser mit 1 Liter Fassungsvermögen</li>
-    <li>Löffel</li>
-    <li>1 Liter Wasser</li>
-    <li>Handfilter mit Fiterpapier</li>
-</ul>
+- 200 g grob gemalenen Kaffee (geröstet für Filderkaffee)
+- Zwei Karaffen oder Einmachgläser mit 1 Liter Fassungsvermögen
+- Löffel
+- 1 Liter Wasser
+- Handfilter mit Fiterpapier
 
 ### Zubereitung
 
-Den <strong>Kaffee</strong> und das Wasser in einem der beiden Behältnisse
-vermischen und gut verrühren. Danach abdecken und im Kühlschrank für mindestens
-10 Stunden ziehen lassen. Im Anschluss die Mischung durch den Handfilter in das
-zweite Gefäß umfüllen und auf Wunsch mit Fruchtsäften oder Tonicwasser
-vermischen. Voilá: Fertig ist Euer selbst gemachter Energy Drink.
+Den **Kaffee** und das Wasser in einem der beiden Behältnisse vermischen und gut
+verrühren. Danach abdecken und im Kühlschrank für mindestens 10 Stunden ziehen
+lassen. Im Anschluss die Mischung durch den Handfilter in das zweite Gefäß
+umfüllen und auf Wunsch mit Fruchtsäften oder Tonicwasser vermischen. Voilá:
+Fertig ist Euer selbst gemachter Energy Drink.
 
 Noch ein paar Fakten zum Mounthagen Cold Brew Kaffee: Der ist selbstverständlich
 vegan und auch so ausgezeichnet. Außerdem trägt er das Fairtrade-Siegel und
@@ -125,7 +125,9 @@ Willst Du die einzige Kaffeeplantage kennenlernen?
 
 [glry name="20190131mounthagencoldbrewkaffee"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos
-zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
+_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
+Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner Transparenz-Seite.</em>
+meiner Transparenz-Seite._
+
+  

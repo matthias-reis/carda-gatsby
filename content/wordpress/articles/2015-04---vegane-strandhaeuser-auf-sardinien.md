@@ -4,14 +4,12 @@ seoTitle: Vegane Strandhäuser auf Sardinien - ein Interview
 slug: vegane-strandhaeuser-auf-sardinien
 link: /2015/04/vegane-strandhaeuser-auf-sardinien/
 fileName: 2015-04---vegane-strandhaeuser-auf-sardinien.md
-description:
-  Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel Sardinia"
-  unterhalten. Er hat mir viele Details über Sardinien und seine Person
-  verraten.
-excerpt:
-  Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel Sardinia"
-  unterhalten. Er hat mir viele Details über Sardinien und seine Motiviation
-  verraten.
+description: Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel
+  Sardinia" unterhalten. Er hat mir viele Details über Sardinien und seine
+  Person verraten.
+excerpt: Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel
+  Sardinia" unterhalten. Er hat mir viele Details über Sardinien und seine
+  Motiviation verraten.
 focusKeyword: Vegane Strandäuser auf Sardinien
 labels:
   - Interview
@@ -23,12 +21,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24358"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegan Holiday Sardinia
+  
 ---
-
-<strong>Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel
-Sardinia" unterhalten. Er hat mir viele Details über Sardinien und seine
-Motiviation verraten.</strong>
 
 Matteo lebt seit zwei Jahren vegan. Der Italiener ist Mitglied der
 Aktivistengruppe „Antipecism Sardinian“, die auf Sardinien viele Events für die
@@ -109,3 +106,5 @@ for the nice and interesting conversation!
 
 [gallery type="rectangular" link="none" size="medium"
 ids="24367,24365,24364,24363,24361,24360,24359,24356"]
+
+  

@@ -4,11 +4,9 @@ seoTitle: Mark Lanegan live @ Freiheiz München Anne bloggt
 slug: mark-lanegan-live-freiheiz-muenchen
 link: /2015/03/mark-lanegan-live-freiheiz-muenchen/
 fileName: 2015-03---mark-lanegan-live-freiheiz-muenchen.md
-description:
-  Als Support brachte Mark Lanegan dieses Mal keinen geringeren als Duke Garwood
-  mit.
-excerpt:
-  Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das
+description: Als Support brachte Mark Lanegan dieses Mal keinen geringeren als
+  Duke Garwood mit.
+excerpt: Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das
   langersehnte Mark Lanegan Konzert.
 focusKeyword: Mark Lanegan
 labels:
@@ -30,14 +28,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "10322"
+image: /img/demo.jpg
+errors: []
 subTitle: Feat. Lyenn &amp; Duke Garwood
+  
 ---
 
-![Mark Lanegan](http://cardamonchai.com/wp-content/uploads/2015/03/16454954390_fab402aea4_z.jpg " [](https://www.flickr.com/photos/99929697@N07/sets)  Mark Lanegan")
+![Mark Lanegan](http://cardamonchai.com/wp-content/uploads/2015/03/16454954390_fab402aea4_z.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Mark Lanegan")
 
-<strong>Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das
+**Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das
 langersehnte Mark Lanegan Konzert. Als Support brachte er den hochmusikalischen
-Belgier Lyenn und keinen geringeren als Duke Garwood mit.</strong>
+Belgier Lyenn und keinen geringeren als Duke Garwood mit.**
 
 Mark gastierte,
 [wie schon 2012](http://cardamonchai.aithir.de/2012/08/mark-lenegan-live-freiheiz-munchen/)
@@ -61,3 +62,5 @@ bei denen die Drei von der Bande wieder gemeinsam Musik genießen werden.
 So long... And thanks for all the fish.
 
 [myflickr tag="mamuc"]
+
+  

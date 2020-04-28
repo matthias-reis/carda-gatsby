@@ -4,11 +4,9 @@ seoTitle: Der Mixtape-Tausch Teil 1 - Die Bastelei
 slug: der-mixtape-tausch
 link: /2011/08/der-mixtape-tausch/
 fileName: 2011-08---die-bastelei.md
-description:
-  Mit einem anderen Blogger ein Mixtape tauschen. Was für eine geniale Idee!
-excerpt:
-  Nachdem ich mich mit einem anderen Blogger eine ganze Zeit lang über Musik
-  unterhalten hatte und wir uns auch den ein oder anderen Musiktipp via
+description: Mit einem anderen Blogger ein Mixtape tauschen. Was für eine geniale Idee!
+excerpt: Nachdem ich mich mit einem anderen Blogger eine ganze Zeit lang über
+  Musik unterhalten hatte und wir uns auch den ein oder anderen Musiktipp via
   youtube-Link geschickt hatten, kamen wir auf die Idee, wie in den guten alten
   Zeiten ein Mixtape zusammenzustellen.
 focusKeyword: Mixtape
@@ -61,13 +59,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2520"
+image: /img/demo.jpg
+errors: []
 subTitle: Der Mixtape-Tausch Teil 1
+  
 ---
-
-<strong>Nachdem ich mich mit einem anderen Blogger eine ganze Zeit lang über
-Musik unterhalten hatte und wir uns auch den ein oder anderen Musiktipp via
-youtube-Link geschickt hatten, kamen wir auf die Idee, wie in den guten alten
-Zeiten ein Mixtape zusammenzustellen.</strong>
 
 Richtig auf Kassette mit zwei Seiten und Vor- und Zurückspulen und allen
 Schikanen. Zusätzlich sollte Das Tape noch auf CD gebrannt werden, um das
@@ -85,50 +81,51 @@ Beitrag handelt von seinem Tape.
 [gallery type="rectangular" link="none" size="medium"
 ids="2535,2534,2533,2532,2530,2529,2528,2527,2526,2525,2524,2523,2522,2521,2520,2519"]
 
-## Die Musik### Seite A<strong>1.) Sigur Ròs - Með Blóðnasir
+## Die Musik### Seite A **1.) Sigur Ròs - Með Blóðnasir**
 
-</strong>
 [youtube=http://www.youtube.com/watch?v=2Eck_inLh-0&amp;feature=watch_response]
 
-2.) <strong>Bon Iver - Blood Bank</strong>
+2.) **Bon Iver - Blood Bank**
 
-[youtube=http://www.youtube.com/watch?v=k-BZ0D92mtU] <strong> 3.)
-</strong><strong>Death Cab For Cutie - Crooked Teeth</strong>
+[youtube=http://www.youtube.com/watch?v=k-BZ0D92mtU] **3.)** **Death Cab For
+Cutie - Crooked Teeth**
 
 [youtube=http://www.youtube.com/watch?v=fz9zh5eLRi8]
 
-4.) <strong>And You Will Know Us By The Trail Of Dead - Will You Smile
-Again?</strong><strong>[youtube=http://www.youtube.com/watch?v=wbTRGuP6XeU]</strong><strong>5.)
-Black Rebel Motorcycle Club - As Sure As The Sun</strong>
+4.) **And You Will Know Us By The Trail Of Dead - Will You Smile Again?**
+**[youtube=http://www.youtube.com/watch?v=wbTRGuP6XeU]** **5.) Black Rebel
+Motorcycle Club - As Sure As The Sun**
 
 [youtube=http://www.youtube.com/watch?v=b3Hc45Wy-gI]
 
-<strong>6.) Die Sterne - Themenläden</strong><strong>
+**6.) Die Sterne - Themenläden** **
 [die-sterne-themenladen-1](http://soundcloud.com/tichy-1313/die-sterne-themenladen-1)
-</strong>(Soundclouddatei, zum Anhören einfach auf den Link klicken)
+** (Soundclouddatei, zum Anhören einfach auf den Link klicken)
 
-<strong>7.) Calexico - All The Pretty Horses</strong>
+**7.) Calexico - All The Pretty Horses**
 
 [youtube=http://www.youtube.com/watch?v=iytkbMbahvY]
 
-### Seite B<strong>8.) The Tallest Man On Earth - Where Do My Bluebird Fly</strong>
+### Seite B **8.) The Tallest Man On Earth - Where Do My Bluebird Fly**
 
 [youtube=http://www.youtube.com/watch?v=zG2ccH8jlCA]
 
-<strong>9.) The Pixies - Hey</strong>
+**9.) The Pixies - Hey**
 
 [youtube=http://www.youtube.com/watch?v=PIkWJZf33UY]
 
-<strong>10.) Pavement - Shady Lane</strong>
+**10.) Pavement - Shady Lane**
 
 [youtube=http://www.youtube.com/watch?v=iY91hVZqhHY]
 
-<strong>11.) Two Gallants - Despite What You´ve Been Told</strong>
+**11.) Two Gallants - Despite What You´ve Been Told**
 
 [youtube=http://www.youtube.com/watch?v=JmK3h71cN80]
 
-<strong>12.) Junip - To The Grain</strong>
+**12.) Junip - To The Grain**
 
 [youtube=http://www.youtube.com/watch?v=FmLFJOvWGw0]
 
-### Bonus<strong>13.) The Tallest Man On Earth - The Gardener</strong><strong>[youtube=http://www.youtube.com/watch?v=M5DyCIdYfpA]</strong><strong>14.) Gisbert zu Knyphausen - Kräne</strong><strong>[youtube=http://www.youtube.com/watch?v=HUHCplJij4U]</strong><strong>15.) Angus &amp; Julia Stone - For You</strong><strong>[youtube=http://www.youtube.com/watch?v=9uWh-TlEQ4k&amp;list=FLaNjgTF8glhKXAJ-T3331qw&amp;index=212&amp;feature=plpp] </strong><em><span style="color: #000000;"> [](/2011/08/der-mixtape-tausch-2/) <strong></strong><strong></strong><strong><em></em></strong>
+### Bonus **13.) The Tallest Man On Earth - The Gardener** **[youtube=http://www.youtube.com/watch?v=M5DyCIdYfpA]** **14.) Gisbert zu Knyphausen - Kräne** **[youtube=http://www.youtube.com/watch?v=HUHCplJij4U]** **15.) Angus &amp; Julia Stone - For You** **[youtube=http://www.youtube.com/watch?v=9uWh-TlEQ4k&amp;list=FLaNjgTF8glhKXAJ-T3331qw&amp;index=212&amp;feature=plpp]** _ [Hier geht's zu Teil 2...](/2011/08/der-mixtape-tausch-2/) ** [](http://www.youtube.com/watch?v=b3Hc45Wy-gI) ** _ [](http://www.youtube.com/watch?v=b3Hc45Wy-gI) \_**\_ \_\_** **\_\_**
+
+  

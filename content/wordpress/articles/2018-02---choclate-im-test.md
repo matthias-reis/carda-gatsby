@@ -4,12 +4,10 @@ seoTitle: Choclate - Vegane Schokolade aus Hamburg - Ich habe getestet
 slug: choclate-vegane-schokolade-aus-hamburg
 link: /2018/02/choclate-vegane-schokolade-aus-hamburg/
 fileName: 2018-02---choclate-im-test.md
-description:
-  Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
+description: Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
   Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
-excerpt:
-  Werbung - Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
-  Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
+excerpt: Werbung - Christina Löbel stellt unter dem Namen Choclate in Hamburg
+  vegane Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
 focusKeyword: vegane Schokolade
 labels:
   - Altona
@@ -32,15 +30,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19805"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <li> (89:105)"
 subTitle: Vegane Schokolade aus Hamburg
+  
 ---
 
-<em>Werbung\*</em>
+## unknown: Expected corresponding JSX closing tag for <li> (89:105)
 
-<strong>Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
+<!--
+_Werbung\*_
+
+**Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
 Bio-Fairtrade-Schokolade her. Choclate - Die Schreibweise ergab sich so: Das C
 und das L in der Mitte sind ihre Initialen und auch sonst alles sehr stimmig bei
-der kleinen Schokoladenmanufaktur.</strong>
+der kleinen Schokoladenmanufaktur.**
 
 ![Vegane Schokolade](http://cardamonchai.com/wp-content/uploads/2018/02/40421760931_81ea6a2242_z-300x200.jpg)
 
@@ -83,7 +89,7 @@ zu süß.
 meinem Geschmack. Das kommt daher, dass das Aroma der Chilifäden zusätzlich von
 Pfeffer unterstützt wird.
 
-<blockquote>"Das macht die Schokolade noch vollmundiger!",</blockquote>
+> "Das macht die Schokolade noch vollmundiger!",
 
 erklärte mir Christina. Die Sorte "Tomatella" schmeckt geschmolzen auf
 gebratenem Räuchertofu einfach göttlich. Auch über meine vegane Bolognese habe
@@ -105,7 +111,7 @@ Zitrone und Zitronengras ist wunderbar ausgeprägt. Sie schmeckt super frisch un
 passt perfekt zu einem guten Glas Limonade und auch zu trockenem Weißwein, wie
 mir Christina verraten hat.
 
-<blockquote>"Schokolade ist ein wahres Superfood!",</blockquote>
+> "Schokolade ist ein wahres Superfood!",
 
 erzählte sie mir. Kakao ist das Lebensmittel mit der höchsten Nährstoffdichte
 überhaupt. Dadurch, dass bei Choclate alle Zutaten roh verarbeitet werden,
@@ -116,11 +122,12 @@ Milchpulver oder künstliche Aromen wird komplett verzichtet.
 
 ![Vegane Schokolade](http://cardamonchai.com/wp-content/uploads/2018/02/39525945325_52b0284ca4_z-300x200.jpg)
 
-. Die Kakaobäume wachsen dort in ihrer natürlichen Umgebung zwischen Mango,
-Pfeffer und Vanille. Zutaten für den "Grundteig" sind immer rohe Kakaomasse,
-rohe Kakaobutter, Kokosblütennektar, Vanille und Ursalz. Alle Sorten sind vegan
-und für Diabetiker geeignet. Sie ist handgeschöpft und wird in Hamburg
-hergestellt.
+Zum Einsatz kommt ausschließlich Bio-Fairtrade-Schokolade von den Big Tree Farms
+aus [Bali](/?s=bali). Die Kakaobäume wachsen dort in ihrer natürlichen Umgebung
+zwischen Mango, Pfeffer und Vanille. Zutaten für den "Grundteig" sind immer rohe
+Kakaomasse, rohe Kakaobutter, Kokosblütennektar, Vanille und Ursalz. Alle Sorten
+sind vegan und für Diabetiker geeignet. Sie ist handgeschöpft und wird in
+Hamburg hergestellt.
 
 Kaufen kann man sie auf dem Foodmarket "Marktzeit" in der Fabrik in Hamburg
 Altona. Weitere Infos findet Ihr auf
@@ -134,7 +141,11 @@ Altona. Weitere Infos findet Ihr auf
 <div class="ce-textpic ce-right ce-intext">
 <div class="ce-bodytext">
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/).
-</em></div></div></div></div></div></div></section>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+  </div></div></div></div></div></div></section>
+
+-->
+
+  

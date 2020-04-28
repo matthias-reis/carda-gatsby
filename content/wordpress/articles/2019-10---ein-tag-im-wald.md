@@ -4,12 +4,12 @@ seoTitle: Ein Tag im Wald - einfach mal abschalten und die Natur genießen
 slug: ein-tag-im-wald
 link: /2019/10/ein-tag-im-wald/
 fileName: 2019-10---ein-tag-im-wald.md
-description:
-  '"Was machst Du am Wochenende?" - die logische Antwort war für mich dieses Mal
-  "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich häufiger tun!'
-excerpt:
-  '"Was machst Du am Wochenende?" - die logische Antwort war für mich dieses Mal
-  "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich häufiger tun!'
+description: '"Was machst Du am Wochenende?" - die logische Antwort war für mich
+  dieses Mal "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich
+  häufiger tun!'
+excerpt: '"Was machst Du am Wochenende?" - die logische Antwort war für mich
+  dieses Mal "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich
+  häufiger tun!'
 focusKeyword: Tag im Wald
 labels:
   - Ausflug
@@ -32,12 +32,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26506"
+image: /img/demo.jpg
+errors: []
 subTitle: Einfach mal abschalten
+  
 ---
 
-<strong>"Und, was machst Du am Wochenende?" - die logische Antwort war für mich
-dieses Mal "Ich gehe in den Wald". Mein Fazit nach erfolgreicher Umsetzung
-dieses Plans: Das sollte ich häufiger tun!</strong>
+**"Und, was machst Du am Wochenende?" - die logische Antwort war für mich dieses
+Mal "Ich gehe in den Wald". Mein Fazit nach erfolgreicher Umsetzung dieses
+Plans: Das sollte ich häufiger tun!**
 
 Ganz ehrlich: So ein Tag im Wald kann wirklich niemandem schaden. Ob man dabei
 Fotos macht,
@@ -70,3 +73,5 @@ Fall sagen, dass ich mich trotz der fiesen Erkältung, die mich im Moment im
 Griff hat, schon ein kleines bisschen besser fühle
 
 [glry name="waldpark-marienhoehe-suelldorf-2019-10-06"]
+
+  

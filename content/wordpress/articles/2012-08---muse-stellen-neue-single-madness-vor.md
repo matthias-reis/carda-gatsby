@@ -4,13 +4,11 @@ seoTitle: Muse stellen neue Single vor
 slug: muse-stellen-neue-single-madness-vor
 link: /2012/08/muse-stellen-neue-single-madness-vor/
 fileName: 2012-08---muse-stellen-neue-single-madness-vor.md
-description:
-  Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass die
-  Band mit ihrer neuen Platte "The 2nd Law" die elektronische Seite des
+description: Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen,
+  dass die Band mit ihrer neuen Platte "The 2nd Law" die elektronische Seite des
   Musikuniversums erstmal noch nicht ganz hinter sich lässt.
-excerpt:
-  Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass die
-  Band mit ihrer neuen Platte "The 2nd Law" die elektronische Seite des
+excerpt: Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass
+  die Band mit ihrer neuen Platte "The 2nd Law" die elektronische Seite des
   Musikuniversums erstmal noch nicht ganz hinter sich lässt.
 focusKeyword: Muse
 labels:
@@ -49,15 +47,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11700"
-subTitle: Album "The 2nd Law" am 1. Oktober </strong>
+image: /img/demo.jpg
+errors: []
+subTitle: <strong>Album "The 2nd Law" am 1. Oktober </strong>
+  
 ---
 
-![Muse - Foto: starpulse.com](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg " [](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg)  Muse - Foto: starpulse.com")
+![Muse - Foto: starpulse.com](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg "[ ](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg)  Muse - Foto: starpulse.com")
 
-<strong>Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass
-die Band mit ihrer neuen Platte "The 2nd Law", das nun am 1. Oktober erscheinen
+**Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass die
+Band mit ihrer neuen Platte "The 2nd Law", das nun am 1. Oktober erscheinen
 soll, die elektronische Seite des Musikuniversums erstmal noch nicht ganz hinter
-sich lässt.</strong>
+sich lässt.**
 
 Zuerst sollte das Album früher auf den Markt kommen, die Band hatte den
 Erscheinungstermin jedoch nach hinten verschoben, da Coldplay den selben Tag für
@@ -91,6 +92,10 @@ laufen wird.
 
 [youtube=http://www.youtube.com/watch?v=DhKVych80ME&amp;feature=player_embedded]
 
-## Muse Wegweiser<ol><li> [Muse - "Drones" ist endlich da!](/2012/09/muse-the-second-law-ist-da/) </li></ol>
+## Muse Wegweiser1. [Muse - "The 2nd Law" ist da!](/2012/09/muse-the-second-law-ist-da/)
+
+1.  [Muse - "Drones" ist endlich da!](/2015/06/muse-drones-ist-endlich-da/)
 
 &nbsp;
+
+  

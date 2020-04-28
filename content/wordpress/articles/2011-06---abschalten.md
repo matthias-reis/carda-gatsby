@@ -4,12 +4,12 @@ seoTitle: Abschalten - Tagebucheintrag
 slug: abschalten
 link: /2011/06/abschalten/
 fileName: 2011-06---abschalten.md
-description:
-  Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang "Schnäuzen
-  soll helfen", aber Du sagst es ihm nicht. Das Amt will eine Erklärung.
-excerpt:
-  Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang "Schnäuzen
-  soll helfen", aber Du sagst es ihm nicht. Das Amt will eine Erklärung.
+description: Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang
+  "Schnäuzen soll helfen", aber Du sagst es ihm nicht. Das Amt will eine
+  Erklärung.
+excerpt: Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang
+  "Schnäuzen soll helfen", aber Du sagst es ihm nicht. Das Amt will eine
+  Erklärung.
 focusKeyword: ""
 labels:
   - Anwendungen
@@ -44,7 +44,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2075"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
 Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang "Schnäuzen
@@ -61,6 +64,8 @@ und Gier. Im Fernsehen. Der Knopf. Aus.
 
 [youtube=http://www.youtube.com/watch?v=inI1QtIrirw]
 
-<strong>Song des Tages:</strong>
+**Song des Tages:**
 
 Bad Books - You wouldn´t have to ask
+
+  

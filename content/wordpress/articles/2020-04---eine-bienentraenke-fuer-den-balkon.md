@@ -4,12 +4,12 @@ seoTitle: Bienentränke für den Balkon DIY
 slug: bienentraenke
 link: /2020/04/bienentraenke/
 fileName: 2020-04---eine-bienentraenke-fuer-den-balkon.md
-description:
-  Wer aktiven Bienenschutz betreiben möchte, sollte an eine Bienentränke denken.
-  Sie kann mit ein paar Handgriffen ganz leicht selbst gebastelt werden.
-excerpt:
-  Die Wildbienen sind zurück auf unserem Balkon. In diesem Jahr haben sie nicht
-  nur ein drittes Insektenhotel bekommen, sondern auch eine neue Bienentränke.
+description: Wer aktiven Bienenschutz betreiben möchte, sollte an eine
+  Bienentränke denken. Sie kann mit ein paar Handgriffen ganz leicht selbst
+  gebastelt werden.
+excerpt: Die Wildbienen sind zurück auf unserem Balkon. In diesem Jahr haben sie
+  nicht nur ein drittes Insektenhotel bekommen, sondern auch eine neue
+  Bienentränke.
 focusKeyword: Bienentränke
 labels:
   - Bienen
@@ -31,15 +31,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28909"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Wildbienen sind wieder da
+  
 ---
 
-<strong>Schon im zweiten Jahr beherbergen wir nun Wildbienen auf unseren Balkon.
-Die meisten von ihnen sind rote Mauerbienen, es sind aber auch ein paar andere
-bei uns heimische Wildbienenarten dabei. Im Moment tänzeln sie von
-Frühlingsgefühlen angetrieben um unsere drei Bienenhotels herum. Zwischendurch
-gibt es frischen Blütennektar und ein paar Schlucke aus unserer neuen
-Bienentränke.</strong>
+**Schon im zweiten Jahr beherbergen wir nun Wildbienen auf unseren Balkon. Die
+meisten von ihnen sind rote Mauerbienen, es sind aber auch ein paar andere bei
+uns heimische Wildbienenarten dabei. Im Moment tänzeln sie von Frühlingsgefühlen
+angetrieben um unsere drei Bienenhotels herum. Zwischendurch gibt es frischen
+Blütennektar und ein paar Schlucke aus unserer neuen Bienentränke.**
 
 Unsere Insektenhotels habe ich Euch hier bereits gezeigt. Dieses Jahr ist ein
 neues dazu gekommen. Die Bienenpopulation auf unserem Balkon ist gewachsen. Die
@@ -77,7 +79,11 @@ auch auf einer Fensterbank platziert werden.
 
 Ein besonders wichtiges Thema sind außerdem die richtigen Pflanzen. Wer seinen
 Balkon oder Garten mit Köpfchen begrünen möchte, achtet auf
-[hier im Blog erfahren](/2019/05/insektenhotel-bienen-auf-dem-balkon/).
+[bienenfreundliche Bepflanzung](/2019/05/insektenhotel-bienen-auf-dem-balkon/).
+Zuchtbienen begünstigen das Bienensterben eher. Wer wirklich etwas Gutes tun
+möchte, setzt lieber auf ein Insektenhotel, als auf den derzeit so beliebten
+Bienenstock auf dem Dach. Mehr zu diesem Thema könnt Ihr
+[hier im Blog erfahren](/2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/).
 
 Zusätzlich zu ihrer Nahrung aus Blütenpollen brauchen Bienen auch Wasser.
 Besonders wenn es im Sommer heiß ist, können sie sonst leicht einen Hitzeschlag
@@ -97,3 +103,5 @@ drauf.
 [Kampf gegen das Bienensterben](/2019/07/kampf-gegen-das-bienensterben/)
 
 [glry name="bienentraenke"]
+
+  

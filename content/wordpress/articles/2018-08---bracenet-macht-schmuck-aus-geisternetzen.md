@@ -4,12 +4,11 @@ seoTitle: Bracenet macht Schmuck aus Geisternetzen - Ein Statement für die Meer
 slug: bracenet-macht-schmuck-aus-geisternetzen
 link: /2018/08/bracenet-macht-schmuck-aus-geisternetzen/
 fileName: 2018-08---bracenet-macht-schmuck-aus-geisternetzen.md
-description:
-  Statement-Armbänder gibt es viele. Eines davon trage ich selbst aus voller
-  Überzeugung. Es stammt von Bracenet aus Hamburg.
-excerpt:
-  Werbung - selbst gekauft - Statement-Armbänder gibt es viele. Eines davon
-  trage ich selbst aus voller Überzeugung. Es stammt von Bracenet aus Hamburg.
+description: Statement-Armbänder gibt es viele. Eines davon trage ich selbst aus
+  voller Überzeugung. Es stammt von Bracenet aus Hamburg.
+excerpt: Werbung - selbst gekauft - Statement-Armbänder gibt es viele. Eines
+  davon trage ich selbst aus voller Überzeugung. Es stammt von Bracenet aus
+  Hamburg.
 focusKeyword: Bracenet
 labels:
   - Bracenet
@@ -34,13 +33,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21864"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Statement für die Meere
+  
 ---
 
-<em>Werbung - selbst gekauft\*</em>
+_Werbung - selbst gekauft\*_
 
-<strong>Statement-Armbänder gibt es viele. Eines davon trage ich selbst aus
-voller Überzeugung. Es stammt von Bracenet aus Hamburg.</strong>
+**Statement-Armbänder gibt es viele. Eines davon trage ich selbst aus voller
+Überzeugung. Es stammt von Bracenet aus Hamburg.**
 
 Die Accessoires werden aus geborgenen
 [Geisternetzen](/2018/08/wwf-geisternetz-warnemuende/) hergestellt. Sie sind
@@ -72,7 +74,9 @@ Bezogen werden können die Bracenet-Produkte direkt über bracenet.de.
 
 ![Bracenet | full](http://cardamonchai.com/wp-content/uploads/2018/08/43643438844_6ea5692271_z.jpg)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall selbst
-erworben. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall selbst erworben.
+Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+[Transparenz-Seite](/werbung/). _
+
+  

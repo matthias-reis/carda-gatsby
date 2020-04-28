@@ -4,11 +4,9 @@ seoTitle: Wenn die Hölle zufriert - ein winterlicher Tagebucheintrag
 slug: wenn-die-holle-zufriert
 link: /2012/02/wenn-die-holle-zufriert/
 fileName: 2012-02---wenn-die-hoelle-zufriert.md
-description:
-  Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen
-  Blogeintrag. Die Katzen liegen zusammengerollt unter dem Heizkörper.
-excerpt:
-  Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen
+description: Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen
+  neuen Blogeintrag. Die Katzen liegen zusammengerollt unter dem Heizkörper.
+excerpt: Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen
   Blogeintrag. Die Katzen liegen zusammengerollt unter dem Heizkörper.
 focusKeyword: ""
 labels:
@@ -53,11 +51,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2762"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
-
-<strong>Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen neuen
-Blogeintrag.</strong>
 
 Manchmal steht man am Fenster, hört einen Zug vorbeirattern und denkt an die
 Ferne. Wo man jetzt überall sein könnte. Beim Gummistiefeleinkaufen in
@@ -87,6 +85,8 @@ ausmachen.
 
 Vielleicht ist es ja dann draußen schon wieder ein kleines Bisschen wärmer.
 
-![Foto: cardamonchai 12/2011 | full](http://cardamonchai.files.wordpress.com/2012/02/download.jpg " [](http://cardamonchai.files.wordpress.com/2012/02/download.jpg)  Foto: cardamonchai 12/2011")
+![Foto: cardamonchai 12/2011 | full](http://cardamonchai.files.wordpress.com/2012/02/download.jpg "[ ](http://cardamonchai.files.wordpress.com/2012/02/download.jpg)  Foto: cardamonchai 12/2011")
 
-## Song des Tages: PJ Harvey/Tom Yorke - This Mess We´re In<strong>[youtube=http://www.youtube.com/watch?v=GbYIiGu8duk]</strong><h1 id="watch-headline-title"></h1>
+## Song des Tages: PJ Harvey/Tom Yorke - This Mess We´re In **[youtube=http://www.youtube.com/watch?v=GbYIiGu8duk]** <h1 id="watch-headline-title"></h1>
+
+  

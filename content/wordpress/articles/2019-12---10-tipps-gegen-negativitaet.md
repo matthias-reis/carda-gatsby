@@ -4,12 +4,10 @@ seoTitle: 10 Tipps, wie Du Negativität loswirst
 slug: 10-tipps-gegen-negativitaet
 link: /2019/12/10-tipps-gegen-negativitaet/
 fileName: 2019-12---10-tipps-gegen-negativitaet.md
-description:
-  Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du Dir diese
-  Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
-excerpt:
-  Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du Dir diese
-  Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
+description: Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du
+  Dir diese Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
+excerpt: Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du Dir
+  diese Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
 focusKeyword: Negativität
 labels:
   - Dankbarkeit
@@ -29,12 +27,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26862"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (59:46)"
 subTitle: Eine Chance für gute Stimmung
+  
 ---
 
-<strong>Negativität ist etwas Fieses. Sie hält einen am Boden, bremst die
-Kreativität und kann im schlimmsten Fall für ziemlich miese Stimmung sorgen.
-Zeit, sie ein für alle Mal loszuwerden.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (59:46)
+
+<!--
+**Negativität ist etwas Fieses. Sie hält einen am Boden, bremst die Kreativität
+und kann im schlimmsten Fall für ziemlich miese Stimmung sorgen. Zeit, sie ein
+für alle Mal loszuwerden.**
 
 Doch wie zur H.... soll das funktionieren? Klar, vorgenommen hat man sich das ja
 schon das ein oder andere Mal. Aber wie legt man sie wirklich ab?
@@ -44,12 +50,10 @@ schon das ein oder andere Mal. Aber wie legt man sie wirklich ab?
 Genau darüber habe ich mir ein paar Gedanken gemacht. Folgende Schlüsse habe ich
 aus meinen Überlegungen und meiner Recherche gezogen:
 
-<ul>
-    <li>Negativität ist unattraktiv.</li>
-    <li>Schlechte Laune ist ansteckend.</li>
-    <li>Negative Gedanken wirken sich auf die Stimmung aus.</li>
-    <li>Vom Nörgeln ändert nichts.</li>
-</ul>
+- Negativität ist unattraktiv.
+- Schlechte Laune ist ansteckend.
+- Negative Gedanken wirken sich auf die Stimmung aus.
+- Vom Nörgeln ändert nichts.
 
 Um der Abwärts-Spirale der schlechten Stimmung zu entkommen, habe ich ein paar
 Hilfestellungen gesammelt. Mir persönlich helfen sie dabei, mir meiner
@@ -166,3 +170,7 @@ mehr dran ändern. Doch! Kopf hoch und freu Dich auf den Abend!
 Hat Dir mein Artikel gefallen? Das freut mich! Wenn Du in Zukunft nichts mehr
 auf meiner Seite verpassen möchtest,
 [abonnierst Du am besten meinen Newsletter](#newsletter).
+
+-->
+
+  

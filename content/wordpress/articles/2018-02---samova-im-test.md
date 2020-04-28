@@ -4,11 +4,9 @@ seoTitle: Samova - Nachhaltiger Tee aus Hamburg - Teetesterin für eine Woche
 slug: samova
 link: /2018/02/samova/
 fileName: 2018-02---samova-im-test.md
-description:
-  Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von
-  Samova aus Hamburg. Gerade im richtigen Moment!
-excerpt:
-  Werbung - Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen
+description: Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen
+  Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
+excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen
   Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
 focusKeyword: Samova
 labels:
@@ -37,14 +35,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19674"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (66:13)"
 subTitle: Nachhaltiger Tee aus Hamburg
+  
 ---
 
-<em>Werbung\*</em>
+## unknown: Expected corresponding JSX closing tag for <p> (66:13)
 
-<strong>Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten
-von Samova aus Hamburg. Gerade im richtigen Moment, denn: Die Erkältung hatte
-gerade voll zugeschlagen.</strong>
+<!--
+_Werbung\*_
+
+**Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von
+Samova aus Hamburg. Gerade im richtigen Moment, denn: Die Erkältung hatte gerade
+voll zugeschlagen.**
 
 Tees in allen vorstellbaren Geschmacksrichtungen: Genau das Richtige, wenn man
 vom Doc Bettruhe verordnet bekommen hat und höchstens alle paar Stunden mit
@@ -71,19 +77,17 @@ Ich werde hier nicht alle Tees einzeln aufführen, da das den Rahmen sprengen
 würde und Euch nur meine Favoriten vorstellen. Besonders positiv aufgefallen
 sind mir die folgenden Sorten:
 
-<ul>
-    <li>Istanbul Nights</li>
-    <li>Gin Soul</li>
-    <li>Heidi's Delight</li>
-    <li>Space Cookie</li>
-    <li>Team Spirit</li>
-</ul>
+- Istanbul Nights
+- Gin Soul
+- Heidi's Delight
+- Space Cookie
+- Team Spirit
 
 Die Sorte [Istanbul](/2015/09/junge-auswanderer-in-istanbul/) Nights war mir
 bereits bekannt, ich hatte sie vor kurzem hier in Hamburg in einem veganen
 Restaurant als Eistee genossen. Die Mischung beinhaltet Schwarzen Tee (Ceylon
 und Darjeeling), Krauseminze, Anis, Hibiskus, Ingwer, Gewürznelken, Zimt,
-Kümmel, <strong>Kardamom</strong>, Pfeffer und Koriander.
+Kümmel,  **Kardamom** , Pfeffer und Koriander.
 
 ## Mein Favorit
 
@@ -105,15 +109,13 @@ Sul überlegt hat, möchte ich Euch hiermit verraten:
 
 <blockquote>
 ## Gin Super Soul
-<ul>
-    <li>4 Achtel Bio Limette</li>
-    <li>1 halbe Scheibe Bio-Salatgurke</li>
-    <li>2 Blätter Basilikum</li>
-    <li>1 - 2 cl Agavendicksaft</li>
-    <li>4 cl Bio-Apfeldirektsaft</li>
-    <li>4 cl Gin Sul</li>
-    <li>5 - 6 Eiswürfel</li>
-</ul>
+-  4 Achtel Bio Limette
+-  1 halbe Scheibe Bio-Salatgurke
+-  2 Blätter Basilikum
+-  1 - 2 cl Agavendicksaft
+-  4 cl Bio-Apfeldirektsaft
+-  4 cl Gin Sul
+-  5 - 6 Eiswürfel
 Mit kaltem Gin Soul Tee aufgießen
 
 Deko: Ein Rosmarinzweig oder frische Minze
@@ -195,7 +197,8 @@ in Hamburg, um hier nur mal ein paar Namen einzustreuen.
 Was mich besonders begeistert hat, ist Esins Aussage zum Thema Tee und Musik. Da
 hat die Liebe wirklich einiges mit mir gemeinsam:
 
-<blockquote>"Tee trinken ist mehr, als nur die Zubereitung eines Heißgetränks. Tee ist - wie sonst nur die Musik - ein Bestandteil aller Kulturen dieser Welt."</blockquote>
+> "Tee trinken ist mehr, als nur die Zubereitung eines Heißgetränks. Tee ist -
+> wie sonst nur die Musik - ein Bestandteil aller Kulturen dieser Welt."
 
 Für den Namen entschied sie sie sich übrigens inspiriert durch den
 traditionellen Heißwassser-Bereiter Samowar, der stets in der Mitte eines Raumes
@@ -218,16 +221,18 @@ Zur Homepage von Samova geht es [hier entlang](https://www.samova.net/).
 
 ## Wegweiser Tee
 
-<ol>
-    <li> [Grüner Tee in hohen Dosen - Tigovit Produkttest 03.02.2017](/2017/02/tigovit-gruener-tee-in-hohen-dosen/) </li>
-    <li> [Wie sich zwei Tee-Tanten fanden 06.02.2017](/2017/02/latte-macchiato-muttis/) </li>
-    <li> [Tigovit Gründerin Tanja Hohenester im Interview 06.03.2017](/2017/03/tigovit-interview/) </li>
-    <li> [Smecket Tee Produkttest 14.04.2017](/2017/04/smecket-tee/) </li>
-    <li> [Daniel Weiss von Smecket im Interview 10.05.2017](/2017/05/interview-mit-daniel-weiss-von-smecket/) </li>
-    <li> [Ashéra Gründerin Jacqueline Heimgärtner im Interview 02.02.2018](/2018/02/ashera-interview/) </li>
-    <li>Samova - Nachhaltiger Tee aus Hamburg 19.02.2017</li>
-</ol>
+1.  [Grüner Tee in hohen Dosen - Tigovit Produkttest 03.02.2017](/2017/02/tigovit-gruener-tee-in-hohen-dosen/)
+1.  [Wie sich zwei Tee-Tanten fanden 06.02.2017](/2017/02/latte-macchiato-muttis/)
+1.  [Tigovit Gründerin Tanja Hohenester im Interview 06.03.2017](/2017/03/tigovit-interview/)
+1.  [Smecket Tee Produkttest 14.04.2017](/2017/04/smecket-tee/)
+1.  [Daniel Weiss von Smecket im Interview 10.05.2017](/2017/05/interview-mit-daniel-weiss-von-smecket/)
+1.  [Ashéra Gründerin Jacqueline Heimgärtner im Interview 02.02.2018](/2018/02/ashera-interview/)
+1.  Samova - Nachhaltiger Tee aus Hamburg 19.02.2017
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+-->
+
+  

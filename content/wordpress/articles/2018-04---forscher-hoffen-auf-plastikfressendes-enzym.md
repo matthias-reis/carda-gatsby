@@ -1,16 +1,13 @@
 ---
 title: Forscher hoffen auf plastikfressendes Enzym
-seoTitle:
-  Forscher hoffen auf plastikfressendes Enzym - Serendipitiy Meeresretter?
+seoTitle: Forscher hoffen auf plastikfressendes Enzym - Serendipitiy Meeresretter?
 slug: forscher-hoffen-auf-plastikfressendes-enzym
 link: /2018/04/forscher-hoffen-auf-plastikfressendes-enzym/
 fileName: 2018-04---forscher-hoffen-auf-plastikfressendes-enzym.md
-description:
-  Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym entwickelt,
-  welches in der Lage dazu ist, Kunststoffe zu fressen.
-excerpt:
-  Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym entwickelt,
-  welches in der Lage dazu ist, Kunststoffe zu fressen.
+description: Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym
+  entwickelt, welches in der Lage dazu ist, Kunststoffe zu fressen.
+excerpt: Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym
+  entwickelt, welches in der Lage dazu ist, Kunststoffe zu fressen.
 focusKeyword: Enzym
 labels:
   - Biologie
@@ -46,14 +43,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20541"
+image: /img/demo.jpg
+errors: []
 subTitle: Serendipity vielleicht Retter der Weltmeere
+  
 ---
 
-<strong>Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym
-entwickelt, welches dazu in der Lage ist, Kunststoffe zu fressen. Dies könnte
-ein Vorstoß in Sachen Reinigung der von Plastik verseuchten Weltmeere bedeuten
-und vielleicht sogar die Lösung eines der größten Umweltprobleme aller Zeiten
-sein.</strong>
+**Berichten von CNN zufolge haben Forscher durch Zufall ein Enzym entwickelt,
+welches dazu in der Lage ist, Kunststoffe zu fressen. Dies könnte ein Vorstoß in
+Sachen Reinigung der von Plastik verseuchten Weltmeere bedeuten und vielleicht
+sogar die Lösung eines der größten Umweltprobleme aller Zeiten sein.**
 
 Forscher der Universität Portsmouth sowie des NREL (Forschungsinstitut für
 erneuerbare Energien des US-Energieministeriums) erforschen derzeit ein
@@ -95,7 +94,11 @@ gelangen jedes Jahr 8 Millionen Tonnen Plastikmüll in unsere Ozeane. Wenn es so
 weitergeht wie bisher, wird bis zum Jahr 2050 mehr Plastik im Meer schwimmen,
 als Lebewesen.
 
-Die Netze habe ich 2012 in [Hamburg](/2012/07/der-kater-und-der-leuchtturm/).
+Die Netze habe ich 2012 in [England](/2012/07/der-kater-und-der-leuchtturm/)
+fotografiert, den Müllbaum 2017 in
+[Hamburg](/2016/12/die-elbe-in-altona-winterlicher-spaziergang/).
 
 Quelle:
 [CNN](https://edition.cnn.com/2018/04/16/world/plastic-pollution-science-environment-enzyme-intl/index.html)
+
+  

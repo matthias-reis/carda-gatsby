@@ -4,12 +4,10 @@ seoTitle: Herbstlärm - ein Eintrag ins Tagebuch
 slug: herbstlaerm-tagebuch
 link: /2012/09/herbstlaerm-tagebuch/
 fileName: 2012-09---herbstlaerm.md
-description:
-  Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte ich heute
-  mal wieder ein paar Gedankenfragmente notieren.
-excerpt:
-  Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte ich heute
-  mal wieder ein paar Gedankenfragmente notieren.
+description: Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte
+  ich heute mal wieder ein paar Gedankenfragmente notieren.
+excerpt: Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte ich
+  heute mal wieder ein paar Gedankenfragmente notieren.
 focusKeyword: Herbstlärm
 labels:
   - Album
@@ -74,12 +72,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4203"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
-
-![IMG_0170](http://cardamonchai.com/wp-content/uploads/2012/09/img_0170-640x640.jpg)
-
-<strong>
 
 Die Wettervorhersage für den heutigen Tag war wieder mal äußerst sinnvoll: 3 -
 22 °C, sonnig, teilweise bewölkt mit Schauern und Windböen. Genauso gut hätte
@@ -90,10 +87,12 @@ Klettern einstellte.
 
 ![IMG_0162](http://cardamonchai.com/wp-content/uploads/2012/09/img_01621-640x640.jpg)
 
-in Frankfurt besuchen. Er war sehr toll gemacht und ich konnte eine ganze Menge
-neue Erkenntnisse mit nach Hause bringen, die ich jetzt nach und nach versuche
-umzusetzen. Sicher wird es auch noch eine ganze Weile dauern, das Gelernte zu
-verarbeiten und in die richtigen Schubladen einzuordnen.
+Letzte Woche durfte ich für zwei Tage einen
+[Workshop](http://www.websiteboosting.com/) in Frankfurt besuchen. Er war sehr
+toll gemacht und ich konnte eine ganze Menge neue Erkenntnisse mit nach Hause
+bringen, die ich jetzt nach und nach versuche umzusetzen. Sicher wird es auch
+noch eine ganze Weile dauern, das Gelernte zu verarbeiten und in die richtigen
+Schubladen einzuordnen.
 
 Die neuen Platten sind toll. Wenn ich nur mehr Zeit hätte, sie zu hören, im
 Moment könnte ich mal wieder ganze Tage mit Musik ausfüllen. Auch einige
@@ -101,6 +100,8 @@ Konzerte, auf die ich schon sehr gespannt bin, stehen in der nächsten Zeit an.
 
 ![IMG_0177](http://cardamonchai.com/wp-content/uploads/2012/09/img_0177-640x640.jpg)
 
+In diesem Kontext möchte ich auch sehr gerne nochmal auf
+[mein Gewinnspiel](//2012/09/06/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/)
 hinweisen. Noch 4 Tage bis zum Einsendeschluss, also schickt mir noch schnell
 Eure Fotos!
 
@@ -134,7 +135,9 @@ Um Ermüdungserscheinungen unter meinen Lesern zu vermeiden, endet dieser Text
 hier. Recht ♥lichen Dank für die Aufmerksamkeit. Ich werde mich bald mit
 hoffentlich spannenderen Themen zurückmelden.
 
-<em><strong></strong></em><strong>Zum Aufwachen (und Aufwärmen) sind hier für
-Euch die DEFTONES mit 'Bored'</strong>
+_ \_\_\_\_ _ **Zum Aufwachen (und Aufwärmen) sind hier für Euch die DEFTONES mit
+'Bored'**
 
 [youtube=http://www.youtube.com/watch?v=8F-kMVqLdf8]
+
+  

@@ -4,12 +4,11 @@ seoTitle: DIY Paranuss-Tomaten-Brotaufstrich - Veganes Rezept
 slug: diy-paranuss-tomaten-brotaufstrich
 link: /2015/09/diy-paranuss-tomaten-brotaufstrich/
 fileName: 2015-09---diy-paranuss-tomaten-brotaufstrich.md
-description:
-  "Bei einem perfekten Frühstück am Wochenende darf eins auf keinen Fall fehlen:
-  Der perfekte Paranuss-Tomaten Brotaufstrich. Hier ist mein Rezept für Euch."
-excerpt:
-  Selbstgemachte Brotaufstriche dürfen bei einem perfekten Frühstück nicht
-  fehlen. Ich verrate Euch heute mein Rezept für einen leckeren
+description: "Bei einem perfekten Frühstück am Wochenende darf eins auf keinen
+  Fall fehlen: Der perfekte Paranuss-Tomaten Brotaufstrich. Hier ist mein Rezept
+  für Euch."
+excerpt: Selbstgemachte Brotaufstriche dürfen bei einem perfekten Frühstück
+  nicht fehlen. Ich verrate Euch heute mein Rezept für einen leckeren
   Paranuss-Tomaten-Aufstrich.
 focusKeyword: Paranuss
 labels:
@@ -29,20 +28,27 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12641"
+image: /img/demo.jpg
+errors: []
 subTitle: Veganer Frühstücksaufstrich zum Selbermachen
+  
 ---
-
-<strong>Liebt Ihr es auch auch so sehr, am Wochenende ausgedehnt zu frühstücken?
-Selbstgemachte Brotaufstriche dürfen dabei nicht fehlen. Ich verrate Euch heute
-mein Rezept für einen leckeren Paranuss-Tomaten-Aufstrich.</strong>
 
 Paranüsse, auch Amazonenmandeln oder Marahonkastanie genannt, sind sehr gesund.
 Sie stecken voll mit gesunden Fettsäuren, Proteinen und Nährstoffen. Nur
 Vorsicht, nicht zuviel davon genießen, sonst bleibt kein Platz mehr im Magen für
-Eure [Rührtofu](/2015/03/bananenwaffeln/), denn die Dinger sind auch ganz schön
-fettig. ;-)
+Eure [Bananenwaffeln](/2015/03/bananenwaffeln/) und das
+[Rührtofu](/2014/09/ruhrtofu/), denn die Dinger sind auch ganz schön fettig. ;-)
 
-## Zubereitung
+## Ihr braucht- Blender
+
+- Glas mit Deckel
+- Plastiklöffel## Zutaten- 200 g geschälte Paranüsse
+- 3 mittelgroße getrocknete Tomaten
+- 2 El kaltgepresstes Olivenöl
+- 1 El Sojasauce
+- 1 Tl süßes Paprikapulver
+- 1 kleine Tasse Wasser## Zubereitung
 
 Alle Zutaten zusammen in den Blender geben und in kurzen Hüben pürieren, bis
 sich eine gleichmäßige Masse ergeben hat. Habt Geduld, es kann eine kleine Weile
@@ -63,3 +69,5 @@ Ausprobieren!
 
 Weitere Rezepte aus meiner Feder
 [sind hier zu finden](/category/vegan-2/rezepte/).
+
+  

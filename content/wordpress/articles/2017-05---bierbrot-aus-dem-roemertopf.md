@@ -4,12 +4,12 @@ seoTitle: Bierbrot aus dem Römertopf - "This looks fuckin' awesome!"
 slug: vollkornbrot-aus-dem-roemertopf
 link: /2017/05/vollkornbrot-aus-dem-roemertopf/
 fileName: 2017-05---bierbrot-aus-dem-roemertopf.md
-description:
-  Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so richtig schön
-  kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt mein Rezept!
-excerpt:
-  Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so richtig schön
-  kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt mein Rezept!
+description: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so
+  richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt
+  mein Rezept!
+excerpt: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so
+  richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt
+  mein Rezept!
 focusKeyword: Römertopf
 labels:
   - backen
@@ -30,33 +30,33 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16565"
-subTitle: '"This looks fuckin'' awesome!"...'
+image: /img/demo.jpg
+errors: []
+subTitle: "\"This looks fuckin' awesome!\"..."
+  
 ---
 
-<strong>... sagte einst eine berühmte Frau und holte ihr frisch gebackenes Brot
-aus dem Ofen. Wer sie genau war, kann man heute nicht mehr rekapitulieren. Aber
-das ist auch egal. Denn ich habe mal wieder ein Brotrezept für Euch
-vorbereitet.</strong>
+**... sagte einst eine berühmte Frau und holte ihr frisch gebackenes Brot aus
+dem Ofen. Wer sie genau war, kann man heute nicht mehr rekapitulieren. Aber das
+ist auch egal. Denn ich habe mal wieder ein Brotrezept für Euch vorbereitet.**
 
 Habt Ihr einen Römertopf zu Hause rumstehen und wisst nicht, was Ihr damit
 anfangen sollt? Packt ihn schon mal ins Wasser, denn sein großer Auftritt naht!
 Ich verrate Euch jetzt nämlich ein Geheimnis: Im Römertopf wird Euer Brot so
 richtig großartig!
 
-## Zutaten</strong>
+## **Zutaten**
 
-<ul>
-    <li>100 ml lauwarmes Wasser</li>
-    <li>100 ml lauwarmes Bier</li>
-    <li>115 g Dinkel oder Weizenmehl</li>
-    <li>90 g Buchweizenmehl</li>
-    <li>90 g Dinkelschrot</li>
-    <li>1 TL Salz</li>
-    <li>25 g Sesam</li>
-    <li>2,5 g Gerstenmalz</li>
-    <li>1/2 Packung Frischhefe</li>
-    <li>1/2 Packung Trockenhefe</li>
-</ul>
+- 100 ml lauwarmes Wasser
+- 100 ml lauwarmes Bier
+- 115 g Dinkel oder Weizenmehl
+- 90 g Buchweizenmehl
+- 90 g Dinkelschrot
+- 1 TL Salz
+- 25 g Sesam
+- 2,5 g Gerstenmalz
+- 1/2 Packung Frischhefe
+- 1/2 Packung Trockenhefe
 
 ## Zubereitung
 
@@ -104,3 +104,5 @@ Viel Spaß beim Backen! :-)
 ids="16565,16566"]
 
 &nbsp;
+
+  

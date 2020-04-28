@@ -4,12 +4,12 @@ seoTitle: Warum wir Veränderungen zulassen sollten - neu ist gut
 slug: veraenderungen-sind-gut
 link: /2019/06/veraenderungen-sind-gut/
 fileName: 2019-06---warum-wir-veraenderungen-zulassen-sollten.md
-description:
-  Veränderung ist wichtig. Wir sollten sie nicht nur zulassen, sondern aktiv
-  danach verlangen und an ihr arbeiten. Nur so werden wir dauerhaft glücklich.
-excerpt:
-  Veränderung ist wichtig. Wir sollten sie nicht nur zulassen, sondern aktiv
-  danach verlangen und an ihr arbeiten. Nur so werden wir dauerhaft glücklich.
+description: Veränderung ist wichtig. Wir sollten sie nicht nur zulassen,
+  sondern aktiv danach verlangen und an ihr arbeiten. Nur so werden wir
+  dauerhaft glücklich.
+excerpt: Veränderung ist wichtig. Wir sollten sie nicht nur zulassen, sondern
+  aktiv danach verlangen und an ihr arbeiten. Nur so werden wir dauerhaft
+  glücklich.
 focusKeyword: Veränderungen
 labels:
   - Achtsamkeit
@@ -32,14 +32,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24293"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (77:12)"
 subTitle: Neu ist gut
+  
 ---
 
-<strong>Progressivität ist ein Gewinn für uns alle. Würde sich die Welt nicht
+## unknown: Expected corresponding JSX closing tag for <p> (77:12)
+
+<!--
+**Progressivität ist ein Gewinn für uns alle. Würde sich die Welt nicht
 permanent verändern, würden wir uns immer noch in der Steinzeit befinden. Darauf
 hoffen, dass wir am nächsten Tag etwas zu essen finden, nicht von den
 Zahnschmerzen verrückt werden und an der Blinddarmentzündung sterben. In einer
-Höhle. Klingt gar nicht so verlockend, oder?</strong>
+Höhle. Klingt gar nicht so verlockend, oder?**
 
 Warum ich das hier aufschreibe? Ganz einfach. Gerade in den letzten Monaten lese
 und höre ich immer wieder Sätze wie "Früher gab es wenigstens noch richtige
@@ -70,7 +78,8 @@ Mobiltelefonen so? Elektronischer Musik? Netflix? E-Book-Readern? Musik im
 Internet? An dieser Stelle muss ich einfach mein liebstes Schopenhauer-Zitat
 einfügen.
 
-<blockquote>"Jedes Ding erscheint zuerst lächerlich, dann wird es bekämpft, schließlich ist es selbstverständlich."</blockquote>
+> "Jedes Ding erscheint zuerst lächerlich, dann wird es bekämpft, schließlich
+> ist es selbstverständlich."
 
 Hm, stimmt eigentlich, oder? Wir lehnen also vielleicht gar nicht alles
 kategorisch ab, was neu ist, wir brauchen nur unsere Zeit, bis wir uns daran
@@ -84,7 +93,7 @@ Finde ich. Oder, was meint Ihr?
 
 Es gibt durchaus ein paar Dinge, bei denen wir uns dringend beeilen sollten, von
 unserem hohen Ross runterzukommen. Klimaschutz zum Beispiel. Youtuber Rezo
-[](#1) hat recht. Es stimmt, dass eine <strong>Erderwärmung</strong> von einem
+[<sup>1</sup>](#1) hat recht. Es stimmt, dass eine **Erderwärmung** von einem
 Grad verdammt viel ist. Wenn wir so weitermachen, war es das bald mit uns. Mit
 samt unseren Legebatterien, Plastik-Wegwerfwindeln, Spraydosen, SUVs,
 Atomkraftwerken, Kohlemeilern und Tagebauen. Dann hilft es auch nicht mehr, wenn
@@ -94,10 +103,14 @@ unsere Gelnägel aufgeklebt hat, sorgfältiger vorgegangen ist.
 Dabei wird klar, dass es durchaus positive und negative Veränderungen gibt. Der
 Klimawandel ist definitiv eine der ganz negativen. Und sie wird durch die durch
 unseren Starrsinn verursachten Veränderungen ausgelöst - immer mehr Klimagase
-durch immer mehr [](/2014/09/pflanzenmilch-wieso-denn-blos/) formuliert das in
-ihrer wissenschaftlichen Betrachtung des Reza Videos so:
+durch immer mehr [Massentierhaltung](/2014/09/pflanzenmilch-wieso-denn-blos/),
+Flugverkehr, große Dieselautos, Kohlekraftwerke und so weiter und so weiter. Mai
+von MaiLab [<sup>2</sup>](#2) formuliert das in ihrer wissenschaftlichen
+Betrachtung des Reza Videos so:
 
-<blockquote>"Die Evolution kommt nicht mehr mit bei den vielen drastischen Veränderungen auf dem Planeten. Wir befinden uns jetzt schon im kritischen Bereich und nur mit einer krassen Umstellung ist die Schadensbegrenzung noch machbar."</blockquote>
+> "Die Evolution kommt nicht mehr mit bei den vielen drastischen Veränderungen
+> auf dem Planeten. Wir befinden uns jetzt schon im kritischen Bereich und nur
+> mit einer krassen Umstellung ist die Schadensbegrenzung noch machbar."
 
 Es ist also wichtig, dass sich die Menschheit nicht nur auf Veränderungen
 einlässt, sondern sich aktiv nach ihnen auf die Suche macht und laut nach ihnen
@@ -202,17 +215,17 @@ paar Jahren hat es eine Menge Geschrei deswegen gegeben. Innovation - man muss
 sich nur damit beschäftigen. Plötzlich ist es das Normalste auf der Welt.
 
 Neue Formen der Gemeinschaft und des Zusammenlebens wie integrative Wohngruppen,
-Mehrgenerationenhaushalte und moderne Apps wie nebenan.de [](#3)  bringen
-Menschen aller Generationen, Formen und Farben zusammen und das macht mich sehr
-glücklich. Vernetzung bringt uns weiter und bewahrt uns vor Stillstand und
-Vereinsamung.
+Mehrgenerationenhaushalte und moderne Apps wie nebenan.de [<sup>3</sup>](#3)
+ bringen Menschen aller Generationen, Formen und Farben zusammen und das macht
+mich sehr glücklich. Vernetzung bringt uns weiter und bewahrt uns vor Stillstand
+und Vereinsamung.
 
 "Veränderung ist geil",
 
-so steht es auch im Editorial der neuesten Missy Magazine [](#4) Ausgabe. Da
-geht es zwar um den Trend zum Make-over mit Serien wie "Queer Eye" der
-Japanischen Aufräumkünstlerin Marie Kondo - das gilt aber auch für alle anderen
-Lebensbereiche, finde ich.
+so steht es auch im Editorial der neuesten Missy Magazine [<sup>4</sup>](#4)
+Ausgabe. Da geht es zwar um den Trend zum Make-over mit Serien wie "Queer Eye"
+der Japanischen Aufräumkünstlerin Marie Kondo - das gilt aber auch für alle
+anderen Lebensbereiche, finde ich.
 
 Mit neuen Einwanderern kommen neue Kulturen, die wiederum ihre Erfahrungen,
 Traditionen, Küche, Musik und Ideen mitbringen. Für uns alle ist das ein
@@ -224,9 +237,11 @@ rücksichtsvoll miteinander umgehen. Nur das lässt uns stärker, schlauer,
 intelligenter, kreativer, sicherer, gesünder, sozialer und nicht zuletzt
 glücklicher werden.
 
-<ul>
-    <li id="1">[1]  [Rezo - "Die Zerstörung der CDU"](https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM) </li>
-    <li id="2">[2]  [Mai von MaiLab - "Rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&amp;t=1089s) </li>
-    <li id="3">[3]  [Die Nachbarschaftsapp "nebenan.de"](https://nebenan.de/) </li>
-    <li id="4">[4]  [Missy Magazine](https://missy-magazine.de/) </li>
-</ul>
+- [1][rezo - "die zerstörung der cdu"](https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM)
+- [2][mai von mailab - "rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&amp;t=1089s)
+- [3][die nachbarschaftsapp "nebenan.de"](https://nebenan.de/)
+- [4][missy magazine](https://missy-magazine.de/)
+
+-->
+
+  

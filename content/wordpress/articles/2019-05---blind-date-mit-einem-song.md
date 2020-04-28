@@ -4,14 +4,12 @@ seoTitle: Papa Was A Rolling Stone - Blind Date mit einem Song
 slug: papa-was-a-rolling-stone
 link: /2019/05/papa-was-a-rolling-stone/
 fileName: 2019-05---blind-date-mit-einem-song.md
-description:
-  'Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht an den
-  Start. Dieses Mal mit dem Klassiker "Papa Was A Rolling Stone" von The
+description: 'Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht
+  an den Start. Dieses Mal mit dem Klassiker "Papa Was A Rolling Stone" von The
   Temptations.'
-excerpt:
-  "Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht an den
-  Start. Ich nutze die Gelegenheit und erzähle Euch eine kleine Geschichte von
-  meinem letzten Köln-Besuch."
+excerpt: "Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht an
+  den Start. Ich nutze die Gelegenheit und erzähle Euch eine kleine Geschichte
+  von meinem letzten Köln-Besuch."
 focusKeyword: Papa Was A Rolling Stone
 labels:
   - Alternative
@@ -58,12 +56,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24231"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Papa Was A Rolling Stone" von The Temptations'
+  
 ---
 
-<strong>Heute ist es soweit: Das inzwischen siebte Blogger Blind Date mit einem
-Song geht an den Start - dieses Mal mit dem Klassiker "Papa Was A Rolling Stone"
-von The Temptations.</strong>
+**Heute ist es soweit: Das inzwischen siebte Blogger Blind Date mit einem Song
+geht an den Start - dieses Mal mit dem Klassiker "Papa Was A Rolling Stone" von
+The Temptations.**
 
 Was ein Blogger Blind Date ist? Ganz einfach: Das, was dabei herauskommt, wenn
 inzwischen 16 Blogger\*innen zu einem vorher festgelegten Song frei assoziieren
@@ -88,8 +89,7 @@ Weil ich mit drängeligen Situationen, Menschenmassen und aufdringlichen Mensche
 leider nicht so gut klarkomme, beschloss ich die Ansprechversuche zu ignorieren.
 Meine etwas neugierigere (und selbstbewusstere) Kollegin ließ sich hingegen auf
 ein Gespräch mit ihm ein. Ich unterhielt mich stattdessen lieber mit meiner
-anderen Kollegin übers Partymachen, unser aktuellstes Projekt und über
-<em>Musik</em>.
+anderen Kollegin übers Partymachen, unser aktuellstes Projekt und über _Musik_ .
 
 Musik begleitet mich seit ich im Bauch meiner Mutter die ersten Dehnübungen
 unternommen habe. Ich hatte das große Glück in einer sehr musikinteressierten
@@ -203,7 +203,8 @@ Auf Konzerten fühlt sich das auch gut an, wenn man das Gefühl hat, alle
 respektieren sich gegenseitig. Mein Vater beschreibt die Konzerte im Marquee und
 auf Fehmarn so
 
-<blockquote>"Kein Gedränge, alles coole Leute und die Musiker haben sich im Publikum die nächste Band angeschaut."</blockquote>
+> "Kein Gedränge, alles coole Leute und die Musiker haben sich im Publikum die
+> nächste Band angeschaut."
 
 Heute kann man das nicht mehr oft erleben. Zum Glück gibt es ein paar Ausnahmen,
 wie das
@@ -226,4 +227,20 @@ Rolling Stone".
 <h4><iframe src="https://www.youtube.com/embed/nXiQtD5gcHU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 Beim Blogger Blind Date mit einem Song sind dieses Mal dabei:</h4>
 
-[Wohnungsgarten](https://www.gartenbaukunst.net) und meine Wenigkeit.
+[Gartenbaukunst](https://www.gartenbaukunst.net),
+[Beetkultur](https://www.beetkultur.de/),  
+[Der kleine Horrorgarten](https://der-kleine-horror-garten.de/),
+[Stadtfarm](http://www.stadtfarm.com/bloga),
+[Rienmakäfer](https://rienmakaefer.com/),  
+[Garteneuphorie](https://www.garteneuphorie.de/),
+[Garteninspektor,](https://www.garteninspektor.com/)
+[Faun &amp; Farn](https://faunundfarn.de/),
+[Laubenhausmädchen](https://laubenhausmaedchen.de/),
+[Naturgartenideen](https://www.naturgartenideen.de/),
+[Ein Stück Arbeit](https://einstueckarbeit.de),
+[Herwoodenheart](https://www.insgram.com/herwoodenheart/?hl=de),
+[Kistengrün](https://www.kistengruen.de/wp/),
+[WirGartenkinder](https://wirgartenkinder.de),
+[Wohnungsgarten](https://www.wohnungsgarten.de) und meine Wenigkeit.
+
+  

@@ -4,14 +4,12 @@ seoTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
 slug: hej-organic-kosmetik-im-test
 link: /2018/05/hej-organic-kosmetik-im-test/
 fileName: 2018-05---hej-organic-kosmetik.md
-description:
-  Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic.
-  "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Mein
-  Bericht.
-excerpt:
-  Werbung - Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej
+description: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej
   Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage.
-  Alle Inhaltsstoffe sind natürlich, vegan und bio.
+  Mein Bericht.
+excerpt: Werbung - Vor Kurzem erreichte mich ein tolles Testpaket des
+  Herstellers Hej Organic. "Wir glauben an Deine innere Schönheit" heißt es auf
+  der Homepage. Alle Inhaltsstoffe sind natürlich, vegan und bio.
 focusKeyword: Hej Organic
 labels:
   - Arganöl
@@ -45,15 +43,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21064"
+image: /img/demo.jpg
+errors: []
 subTitle: Pflegeprodukte mit Kaktus und Herz
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej
-Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Alle
+**Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej Organic.
+"Wir glauben an Deine innere Schönheit" heißt es auf der Homepage. Alle
 Inhaltsstoffe sind natürlich, vegan und bio. Das klingt doch schon mal gut,
-oder?</strong>
+oder?**
 
 Das Besondere an der von mir getesteten Serie: Die Produkte enthalten
 Bio-Kaktusfeigenkernöl und Bio-Kaktusfeigenblütenwasser. Beide Bestandteile
@@ -63,7 +64,13 @@ Zellregeneration schützt und somit der Hautalterung vorbeugt.
 
 ![Hej Organic](http://cardamonchai.com/wp-content/uploads/2018/05/28366155898_85332d094b_z-400x300.jpg)
 
-.
+Für alle Hej Produkte wird garantiert, dass sie zu 100 Prozent vegan und
+natürlich sind, frei von PEG, SLS, Parabenen, Paraffinen, Silikonen, Mineralöl,
+synthetischen Inhaltsstoffen sowie Farb- und Duftstoffen. Auf Tierversuche wird
+bewusst verzichtet. Von Dermatest wurde die Marke mit "Sehr gut" bewertet. Sie
+tragen die Vegan-Blume der British Society, das Bio-Siegel sowie das
+NATRUE-Siegel für
+[ökologische Kosmetik](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
 Bei der Beschaffung der Zutaten sowie der Herstellung wird auf Fairness und
 Nachhaltigkeit gesetzt. Daher arbeitet man mit Kooperativen zusammen, wo die
@@ -148,12 +155,16 @@ Auf der Homepage von Hej Organic geht es um natürliche Schönheit. Mit den
 Pflegeprodukten soll diese hervorgehoben und zur Geltung gebracht werden. Hier
 ein Zitat:
 
-<blockquote>"Wir glauben, dass Du Dir immer treu bleiben solltest. Daran, der Erde und allen Menschen, die auf ihr leben, mit Respekt zu begegnen. Und an mehr Herz in Kosmetik."</blockquote>
+> "Wir glauben, dass Du Dir immer treu bleiben solltest. Daran, der Erde und
+> allen Menschen, die auf ihr leben, mit Respekt zu begegnen. Und an mehr Herz
+> in Kosmetik."
 
 Wer jetzt neugierig ist und selbst mal testen möchte, findet die Produkte sowie
 natürlich noch einige andere [auf der Webseite](https://www.hejorganic.com/) von
 Hej Organic.
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,12 +4,10 @@ seoTitle: Zu Gast in Estepona - Tapas und Geschichte an der Costa del Sol
 slug: estepona-andalusien
 link: /2019/09/estepona-andalusien/
 fileName: 2019-09---zu-gast-in-estepona.md
-description:
-  Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in
-  Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal
+description: Estepona liegt an der spanischen Costa del Sol in der Provinz
+  Málaga in Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal
   umgeschaut.
-excerpt:
-  Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in
+excerpt: Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in
   Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal
   umgeschaut.
 focusKeyword: Estepona
@@ -28,12 +26,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26478"
+image: /img/demo.jpg
+errors: []
 subTitle: Tapas und Geschichte
+  
 ---
 
-<strong>Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in
+**Estepona liegt an der spanischen Costa del Sol in der Provinz Málaga in
 Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal
-umgeschaut.</strong>
+umgeschaut.**
 
 Von unserem Spanientrip habe ich Euch ja schon mal kurz erzählt. Vom ersten
 Strand aus ging es am dritten Tag unserer Tour (23. Juni) ins 67.000 Einwohner
@@ -60,3 +61,5 @@ teilen.
 ## Quellen
 
 [Wikipedia](https://de.wikipedia.org/wiki/Estepona)
+
+  

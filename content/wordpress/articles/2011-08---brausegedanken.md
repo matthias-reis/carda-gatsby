@@ -4,12 +4,10 @@ seoTitle: Brausegedanken - was der Alltag so mitbringt
 slug: brausegedanken
 link: /2011/08/brausegedanken/
 fileName: 2011-08---brausegedanken.md
-description:
-  Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner Dosen.
-  Retrorock und Fahrradgespräche. Bleistift und Papier.
-excerpt:
-  Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner Dosen.
-  Retrorock und Fahrradgespräche. Bleistift und Papier.
+description: Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner
+  Dosen. Retrorock und Fahrradgespräche. Bleistift und Papier.
+excerpt: Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner
+  Dosen. Retrorock und Fahrradgespräche. Bleistift und Papier.
 focusKeyword: ""
 labels:
   - Blog
@@ -58,7 +56,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2237"
+image: /img/demo.jpg
+errors: []
 subTitle: Was der Alltag so mitbringt
+  
 ---
 
 Telefonläuten und E-Mail-Stau Das Rattern moderner Schreibmaschinen Motorenlärm
@@ -75,3 +76,5 @@ Brot da ist Hitziges Gefecht Vermeiden Schlammschlacht Wogen glätten offline
 Gemütliches Kino statt matschiger Bühnen Nanamintchai statt grüner Dosen
 Retrorock und Fahrradgespräche Flohmarkttraum und Brausegedanken Smetana und
 Badenixen Bleistift und Papier
+
+  

@@ -4,12 +4,10 @@ seoTitle: Muse - Drones ist endlich da - Rezension
 slug: muse-drones-ist-endlich-da
 link: /2015/06/muse-drones-ist-endlich-da/
 fileName: 2015-06---neues-muse-album.md
-description:
-  Ich weiß, ich habe Euch lange auf meine Rezension zum neuen Muse-Album
-  "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
-excerpt:
-  Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was
-  das neue Musealbum zu bieten hat.
+description: Ich weiß, ich habe Euch lange auf meine Rezension zum neuen
+  Muse-Album "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
+excerpt: Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das
+  Einzige, was das neue Musealbum zu bieten hat.
 focusKeyword: MUSE
 labels:
   - Bands & Reviews
@@ -30,13 +28,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12009"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Drones" ist endlich da'
+  
 ---
 
 !["Drones" - Das neue Album von Muse ist da!](http://cardamonchai.com/wp-content/uploads/2015/06/vscocam-photo-2-640x640.jpg '"Drones" - Das neue Album von Muse ist da!')
 
-<strong>Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige,
-was das neue Musealbum zu bieten hat. </strong>
+**Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was
+das neue Musealbum zu bieten hat.**
 
 Rotzig frech, verrockt und roh kommen Matthew Bellamy, Dominic Howard und
 Christopher Wolsteholme mit "Drones" zurück und lassen dabei nichts aus.
@@ -130,4 +131,7 @@ Weiterrocken! Anne &lt;3
 
 Hier sind für Euch Muse mit "Psycho"
 
-<iframe src="https://www.youtube.com/embed/UqLRqzTp6Rk?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><em>If you do not do what you're told to do when you're told to do it, you will be punished. Do you understand?</em><em> (Aye, sir)</em><em> If you leave my base without proper authorisation, I will hunt you down and throw your ass in jail. Do you understand?</em><em> (Aye, sir)</em><em> I can't hear you!</em><em> (Aye, sir!)</em><em> Scream it!</em><em> (Aye, sir!)</em><em> Your ass belongs to me now!</em><em> (Aye, sir!)</em><em>Love, it will get you nowhere</em><em> You're on your own</em><em> Lost in the wild</em><em> So come to me now</em><em> I could use someone like you</em><em> Someone who'll kill on my command</em><em> And asks no questions</em><em>I'm gonna make you</em><em> I'm gonna break you</em><em> I'm gonna make you</em><em> A fucking psycho</em><em> A fucking psycho</em><em> A fucking psycho</em><em> Your ass belongs to me now</em><em>Are you a human drone?</em><em> (Aye, sir!)</em><em> Are you a killing machine?</em><em> (Aye, sir!)</em><em> I'm in control, motherfucker, do you understand?</em><em> (Aye, sir!)</em><em>Your mind is just a program</em><em> And I'm the virus</em><em> I'm changing the station</em><em> I'll improve your thresholds</em><em> I'll turn you into a super drone (super drone)</em><em> And you will kill on my command</em><em> And I won't be responsible</em><em>I'm gonna make you</em><em> I'm gonna break you</em><em> I'm gonna make you</em><em> A fucking psycho</em><em> A fucking psycho</em><em> A fucking psycho</em><em> Your ass belongs to me now</em><em>Are you a psycho killer? Say "I'm a psycho killer!"</em><em> (I am a psycho killer!)</em><em> Scream it!</em><em> (I am a psycho killer!)</em><em> Show me your war face!</em><em> (AHHHH!)</em><em> You are a pussy! I said show me your war face!</em><em> (AHHHH!)</em><em>I'm gonna make you</em><em> I'm gonna break you</em><em> I'm gonna make you</em><em> A fucking psycho</em><em> A fucking psycho</em><em> A fucking psycho</em><em> Your ass belongs to me now</em><em>I will break you, do you understand?</em><em> I will break you, do you understand?</em><em> I will break you, do you understand?</em><em> I will break you, do you understand?</em><em> (Aye, sir!)</em><em>You fucking psycho</em><em> Your ass belongs to me now</em><em> Your ass belongs to me now</em>## Muse Wegweiser<ol><li> [](/2012/08/muse-stellen-neue-single-madness-vor/)
+<iframe src="https://www.youtube.com/embed/UqLRqzTp6Rk?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe> _If you do not do what you're told to do when you're told to do it, you will be punished. Do you understand?_  _(Aye, sir)_  _If you leave my base without proper authorisation, I will hunt you down and throw your ass in jail. Do you understand?_  _(Aye, sir)_  _I can't hear you!_  _(Aye, sir!)_  _Scream it!_  _(Aye, sir!)_  _Your ass belongs to me now!_  _(Aye, sir!)_  _Love, it will get you nowhere_  _You're on your own_  _Lost in the wild_  _So come to me now_  _I could use someone like you_  _Someone who'll kill on my command_  _And asks no questions_  _I'm gonna make you_  _I'm gonna break you_  _I'm gonna make you_  _A fucking psycho_  _A fucking psycho_  _A fucking psycho_  _Your ass belongs to me now_  _Are you a human drone?_  _(Aye, sir!)_  _Are you a killing machine?_  _(Aye, sir!)_  _I'm in control, motherfucker, do you understand?_  _(Aye, sir!)_  _Your mind is just a program_  _And I'm the virus_  _I'm changing the station_  _I'll improve your thresholds_  _I'll turn you into a super drone (super drone)_  _And you will kill on my command_  _And I won't be responsible_  _I'm gonna make you_  _I'm gonna break you_  _I'm gonna make you_  _A fucking psycho_  _A fucking psycho_  _A fucking psycho_  _Your ass belongs to me now_  _Are you a psycho killer? Say "I'm a psycho killer!"_  _(I am a psycho killer!)_  _Scream it!_  _(I am a psycho killer!)_  _Show me your war face!_  _(AHHHH!)_  _You are a pussy! I said show me your war face!_  _(AHHHH!)_  _I'm gonna make you_  _I'm gonna break you_  _I'm gonna make you_  _A fucking psycho_  _A fucking psycho_  _A fucking psycho_  _Your ass belongs to me now_  _I will break you, do you understand?_  _I will break you, do you understand?_  _I will break you, do you understand?_  _I will break you, do you understand?_  _(Aye, sir!)_  _You fucking psycho_  _Your ass belongs to me now_  _Your ass belongs to me now_ ## Muse Wegweiser1.  [Muse stellen neue Single "Madness" vor](/2012/08/muse-stellen-neue-single-madness-vor/)
+1.  [Muse - "The 2nd Law" ist da](/2012/09/muse-the-second-law-ist-da/) [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

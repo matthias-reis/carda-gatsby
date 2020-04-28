@@ -4,14 +4,12 @@ seoTitle: Helsinki - Schönheit an der Ostsee - Bildergalerie
 slug: helsinki-schoenheit-an-der-ostsee
 link: /2016/08/helsinki-schoenheit-an-der-ostsee/
 fileName: 2016-08---helsinki.md
-description:
-  Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe weiter.
-  Helsinki ist nicht nur die Hauptstadt des Landes. Kulturell ist einiges
-  geboten.
-excerpt:
-  Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe weiter.
-  Helsinki ist nicht nur die Hauptstadt des Landes. Kulturell ist einiges
-  geboten.
+description: Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe
+  weiter. Helsinki ist nicht nur die Hauptstadt des Landes. Kulturell ist
+  einiges geboten.
+excerpt: Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe
+  weiter. Helsinki ist nicht nur die Hauptstadt des Landes. Kulturell ist
+  einiges geboten.
 focusKeyword: Helsinki
 labels:
   - Finnland
@@ -28,16 +26,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15111"
+image: /img/demo.jpg
+errors: []
 subTitle: Schönheit an der Ostsee
+  
 ---
 
 ![Helsinki](http://cardamonchai.com/wp-content/uploads/2016/08/28880459596_565382f28a_z.jpg "In Helsinki leben zahlreiche Möwen")
 
-<strong>Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe
-weiter. Nach unserer
-[Überfahrt](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) von Travemünde
-in Finnlands Hauptstadt haben wir zwei traumhafte Tage in der Finnischen
-Hauptstadt verbracht.</strong>
+**Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe weiter. Nach
+unserer [Überfahrt](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) von
+Travemünde in Finnlands Hauptstadt haben wir zwei traumhafte Tage in der
+Finnischen Hauptstadt verbracht.**
 
 Auf unserer Erkundungstour wurde uns kulturell so einiges geboten. Da zum
 Zeitpunkt unseres Besuchs gerade die Pride stattfand, waren jede Menge
@@ -65,10 +65,10 @@ dürft gespannt sein!
 
 ## Wegweiser Finnland 2016
 
-<ol>
-    <li> [Sommer auf der Ostsee - Überfahrt nach Finnland](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) </li>
-    <li>Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt</li>
-    <li> [Seevögel - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/) </li>
-    <li> [Gänse - Weißwangengänse - Gefiederte Finnland-Einwanderer](/2016/08/gaense-helsinki/) </li>
-    <li> [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/) </li>
-</ol>
+1.  [Sommer auf der Ostsee - Überfahrt nach Finnland](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
+1.  Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt
+1.  [Seevögel - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/)
+1.  [Gänse - Weißwangengänse - Gefiederte Finnland-Einwanderer](/2016/08/gaense-helsinki/)
+1.  [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/)
+
+  

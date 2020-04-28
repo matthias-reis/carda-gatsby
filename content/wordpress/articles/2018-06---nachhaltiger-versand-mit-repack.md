@@ -4,13 +4,11 @@ seoTitle: Nachhaltiger Versand mit RePack - Dinge verschicken - immer wieder
 slug: nachhaltiger-versand-mit-repack
 link: /2018/06/nachhaltiger-versand-mit-repack/
 fileName: 2018-06---nachhaltiger-versand-mit-repack.md
-description:
-  "Wie wäre es, wenn man eine Versandtasche einfach immer wieder verwenden
-  könnte? Eine clevere Erfindung macht das jetzt möglich: RePack"
-excerpt:
-  "Werbung/selbst gekauft - Wie wäre es, wenn man eine Versandtasche einfach
-  immer wieder verwenden könnte? Eine clevere Erfindung macht das jetzt möglich:
-  RePack"
+description: "Wie wäre es, wenn man eine Versandtasche einfach immer wieder
+  verwenden könnte? Eine clevere Erfindung macht das jetzt möglich: RePack"
+excerpt: "Werbung/selbst gekauft - Wie wäre es, wenn man eine Versandtasche
+  einfach immer wieder verwenden könnte? Eine clevere Erfindung macht das jetzt
+  möglich: RePack"
 focusKeyword: RePack
 labels:
   - Finnland
@@ -37,21 +35,27 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21203"
+image: /img/demo.jpg
+errors: []
 subTitle: Dinge verschicken - wieder und wieder und wieder...
+  
 ---
 
-<em>Werbung/selbst gekauft\*</em>
+_Werbung/selbst gekauft\*_
 
-<strong>Wie wäre es, wenn man eine Versandtasche einfach immer wieder verwenden
+**Wie wäre es, wenn man eine Versandtasche einfach immer wieder verwenden
 könnte? Man legt etwas hinein, verschickt es, der Empfänger packt es aus, legt
 etwas anderes hinein, verschickt es und so weiter... Das klingt fast ein
 bisschen romantisch, wenn man so drüber nachdenkt und ist vor allem eins:
-Nachhaltig.</strong>
+Nachhaltig.**
 
 ![RePack](http://cardamonchai.com/wp-content/uploads/2018/05/27662416557_4708d44f5f_z-400x300.jpg)
 
-! Die Idee wurde unter anderem mit dem Green Alley Award ausgezeichnet. Dabei
-handelt es sich um Europas Start-up Award für gelungene Kreislaufwirtschaft.
+Das Schöne ist: Das ist keine Utopie mehr. Die unkaputtbaren Versandtaschen zum
+immer und immer wieder verschicken gibt es wirklich. Und wer hat sie erfunden?
+[Die Finnen](/tag/finnland/) ! Die Idee wurde unter anderem mit dem Green Alley
+Award ausgezeichnet. Dabei handelt es sich um Europas Start-up Award für
+gelungene Kreislaufwirtschaft.
 
 Die Taschen gibt es in drei verschiedenen Größen. Jede von ihnen kann mindestens
 20 mal wiederverwendet werden. Dadurch kann ein ganzer Berg Verpackungsmaterial
@@ -70,7 +74,10 @@ bis zu 80 Prozent verringern lässt, da einfach kein Müll mehr anfällt. Nicht
 schlecht, oder?
 
 Das Start-up hat seinen Sitz in
-[Nachhaltigkeit](/2016/08/helsinki-schoenheit-an-der-ostsee/) gegründet. RePack
+[Helsinki](/2016/08/helsinki-schoenheit-an-der-ostsee/). Gründer sind CEO Jonne
+Hellgrenn, COO Petri Piirainen und CTO Peter Peltonen. Zunächst hatten die drei
+eine Design-Firma mit dem Schwerpunkt auf
+[Nachhaltigkeit](/category/gesellschaft/klima-umweltschutz/) gegründet. RePack
 war anfangs ein reines Nebenprodukt. Allerdings wurde ziemlich schnell klar,
 dass sich der Fokus auf die Ausarbeitung des wirklich genialen Konzepts richten
 würde.
@@ -104,11 +111,12 @@ die Reise geschickt. Mit wiederverwendbaren Versandtaschen kann man wirklich
 etwas für die Umwelt tun. Und das auf eine charmante und attraktive Art und
 Weise.
 
-<em>Dieses Produkt wurde mir NICHT zur Verfügung gestellt. Ich habe es selbst
-gekauft. </em><em>Es handelt sich weder um ein Sponsoring, noch um bezahlte
-Werbung.</em>
+_Dieses Produkt wurde mir NICHT zur Verfügung gestellt. Ich habe es selbst
+gekauft._ _Es handelt sich weder um ein Sponsoring, noch um bezahlte Werbung._
 
 Weitere Infos gibt es auf der [Homepage](http://www.originalrepack.com) von
 RePack.
 
 [gallery type="rectangular" size="large" link="none" ids="21204,21201"]
+
+  

@@ -4,13 +4,12 @@ seoTitle: Wie vegan ist möglich? Ein Leben, das kein Leid erzeugt - Geht das?
 slug: wie-vegan-ist-moeglich
 link: /2018/02/wie-vegan-ist-moeglich/
 fileName: 2018-02---wie-vegan-ist-moeglich.md
-description:
-  Ist es in unserer modernen Welt möglich, ein Leben zu führen, durch das kein
-  Leid erzeugt wird, komplett vegan? Diese Frage wird mir immer wieder gestellt.
-excerpt:
-  Werbung & Affiliate Link - Ist es in unserer modernen Welt möglich, ein Leben
-  zu führen, durch das kein Leid erzeugt wird, komplett vegan? Diese Frage wird
-  mir immer wieder gestellt.
+description: Ist es in unserer modernen Welt möglich, ein Leben zu führen, durch
+  das kein Leid erzeugt wird, komplett vegan? Diese Frage wird mir immer wieder
+  gestellt.
+excerpt: Werbung & Affiliate Link - Ist es in unserer modernen Welt möglich, ein
+  Leben zu führen, durch das kein Leid erzeugt wird, komplett vegan? Diese Frage
+  wird mir immer wieder gestellt.
 focusKeyword: vegan
 labels:
   - Aktivismus
@@ -31,17 +30,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18138"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Leben, das kein Leid erzeugt - Geht das?
+  
 ---
 
-<em>Affiliate Link &amp; Anzeige\*</em>
+_Affiliate Link &amp; Anzeige\*_
 
 ## Liebe Nicht-Veganer,
 
-<strong>ob es wirklich möglich ist, "komplett" vegan zu leben und ob einem als
+**ob es wirklich möglich ist, "komplett" vegan zu leben und ob einem als
 Veganer/in nicht jeden Tag Ungerechtigkeiten auffallen und Dinge, die Leid
 erzeugen? Das sind Fragen, die nicht nur Ihr uns immer wieder stellt. Auch wir
-beschäftigen uns damit jeden Tag.</strong>
+beschäftigen uns damit jeden Tag.**
 
 ![Komplett vegan leben - Ist das möglich?](http://cardamonchai.com/wp-content/uploads/2018/02/15718379925_6d913b0d02_z-300x300.jpg "Komplett vegan leben - Ist das möglich?")
 
@@ -97,9 +99,18 @@ Weißt Du, ob für das Auto, das Du Dir für den Urlaub gemietet hast,
 
 ![Wir versuchen unseren Fußabdruck so klein wie möglich zu halten](http://cardamonchai.com/wp-content/uploads/2018/02/32985444933_1b3843f0d5_z-300x375.jpg)
 
-von Herstellern zu erwerben, die ihre Waren auch in China vertreiben, wo
-Tierversuche Vorschrift sind. Außerdem gehen wir auf Demos und engagieren uns im
-Tierschutz.
+Wir, mein Mann und ich, versuchen, so bewusst zu leben, wie es uns möglich ist.
+Darum sind wir Veganer geworden, haben kein Auto und versuchen unseren
+[ökologischen Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+so klein zu halten, wie wir können. Wir versuchen, weitestgehend
+[auf Plastik zu verzichten](/2017/04/interview-mit-zero-waste-aktivistin-vio/).
+Unser Strom ist Ökostrom und wir kaufen Fairtrade-Kaffee. Wir würden niemals bei
+einem dieser Einweg-Klamottengeschäfte einkaufen. Ich versuche über meinen Blog
+so viele Menschen wie möglich über den nachhaltigen, veganen Lebensstil
+aufzuklären. Wir versuchen keine
+[Kosmetikartikel](/category/vegan-2/vegan-beauty/) von Herstellern zu erwerben,
+die ihre Waren auch in China vertreiben, wo Tierversuche Vorschrift sind.
+Außerdem gehen wir auf Demos und engagieren uns im Tierschutz.
 
 Aber auch wir kaufen uns Bandshirts und wissen nicht, unter welchen Bedingungen
 sie genäht wurden, wir fahren in den Urlaub, wir trinken auch auswärts Kaffee.
@@ -114,7 +125,9 @@ verschickt und es fällt dabei Müll an.
 Wir entschuldigen uns nicht dafür. Genau wie Du Dich nicht für Deinen nicht
 veganen Lebensstil entschuldigen musst. Jeder entscheidet selbst, ob er Fleisch
 essen möchte. Ob er damit leben kann, dass
-[Schweine um ihr Leben rennen müssen](/2014/09/pflanzenmilch-wieso-denn-blos/).
+[Kälbchen von ihren Müttern getrennt](/2014/09/pflanzenmilch-wieso-denn-blos/)
+werden. Dass 
+[Schweine um ihr Leben rennen müssen](/2017/11/das-gluecksschwein-aus-dem-elbtunnel/).
 
 ![So trage ich Pelz!](http://cardamonchai.com/wp-content/uploads/2014/07/11501151886_22baaaa304_o-640x963.jpg "So trage ich Pelz!")
 
@@ -165,25 +178,25 @@ Melde Dich einfach.
 
 ## Infos zu folgenden Themen findest Du hier im Blog
 
-<ol>
-    <li> [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/) </li>
-    <li> [Gesundheitliche Auswirkungen veganer Ernährung](/2014/08/ich-war-so-muede/) </li>
-    <li> [Fleischproduktion - Zahlen und Fakten](/2014/08/blutige-zahlen/) </li>
-    <li> [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/) </li>
-    <li> [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) </li>
-    <li> [Honig und Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) </li>
-    <li> [Interview mit der veganen Ärztin Dr. Barbara Gorissen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/) </li>
-    <li> [Weltwassertag](/2017/03/der-internationale-weltwassertag-2017/) </li>
-    <li> [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/) </li>
-    <li> [Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/) </li>
-    <li> [Fleischatlas 2018](/2018/01/fleischatlas-2018/) </li>
-    <li> [Klimaschutz und vegane Ernährung wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/) </li>
-    <li> [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/) </li>
-    <li> [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass) </li>
-    <li> [Vegane Persönlichkeiten](/category/vegan-2/vegane-persoenlichkeiten/) </li>
-</ol>
+1.  [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+1.  [Gesundheitliche Auswirkungen veganer Ernährung](/2014/08/ich-war-so-muede/)
+1.  [Fleischproduktion - Zahlen und Fakten](/2014/08/blutige-zahlen/)
+1.  [Milchindustrie](/2014/09/pflanzenmilch-wieso-denn-blos/)
+1.  [Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
+1.  [Honig und Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+1.  [Interview mit der veganen Ärztin Dr. Barbara Gorissen](/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/)
+1.  [Weltwassertag](/2017/03/der-internationale-weltwassertag-2017/)
+1.  [Fakepelz = Echtpelz](/2014/11/fakepelz-echtpelz/)
+1.  [Vitamin B12](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+1.  [Fleischatlas 2018](/2018/01/fleischatlas-2018/)
+1.  [Klimaschutz und vegane Ernährung wissenschaftlich betrachtet](/2017/02/klimaschutz-und-vegane-ernaehrung/)
+1.  [Versteckte tierische Inhaltsstoffe in Lebensmitteln](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+1.  [Ich bleib dabei! Vegan macht Spaß!](2015/09/ich-bleib-dabei-vegan-macht-spass)
+1.  [Vegane Persönlichkeiten](/category/vegan-2/vegane-persoenlichkeiten/)
 
-\*<em>Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
-Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
+  Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
+
+  

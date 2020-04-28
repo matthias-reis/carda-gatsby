@@ -4,14 +4,12 @@ seoTitle: Greenpeace Kurzfilm "The crisis in our oceans"
 slug: the-crisis-in-our-oceans
 link: /2020/01/the-crisis-in-our-oceans/
 fileName: 2020-01---the-crisis-in-our-oceans.md
-description:
-  Greenpeace produzierte jetzt gemeinsam mit dem Animationsstudio Aardmann
-  ("Wallace & Gromit" und "Shaun das Schaf") den Kurzfilm "The crisis in our
-  oceans".
-excerpt:
-  Greenpeace produzierte jetzt gemeinsam mit dem Animationsstudio Aardmann
-  ("Wallace & Gromit" und "Shaun das Schaf") den Kurzfilm "The crisis in our
-  oceans".
+description: Greenpeace produzierte jetzt gemeinsam mit dem Animationsstudio
+  Aardmann ("Wallace & Gromit" und "Shaun das Schaf") den Kurzfilm "The crisis
+  in our oceans".
+excerpt: Greenpeace produzierte jetzt gemeinsam mit dem Animationsstudio
+  Aardmann ("Wallace & Gromit" und "Shaun das Schaf") den Kurzfilm "The crisis
+  in our oceans".
 focusKeyword: the crisis in our oceans
 labels:
   - aardman
@@ -30,13 +28,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27361"
+image: /img/demo.jpg
+errors: []
 subTitle: Neuer Film von Greenpeace und Wallace &amp; Gromit Machern
+  
 ---
 
-<strong>Die Ozeane beherbergen Milliarden von Lebewesen. Doch ihre natürlichen
+**Die Ozeane beherbergen Milliarden von Lebewesen. Doch ihre natürlichen
 Habitate sind bedroht: Klimawandel, Plastikflut, Umweltverschmutzung, gnadenlose
 Überfischung und Ölbohrungen sorgen dafür, dass ihre Lebensräume immer weiter
-schrumpfen.</strong>
+schrumpfen.**
 
 ![the-crisis-in-our-oceans](http://cardamonchai.com/wp-content/uploads/2020/01/oceans-1-400x300.jpg)
 
@@ -75,7 +76,11 @@ Auf Youtube wurde "The crisis in our oceans" bisher mehr als 28.000 mal
 aufgerufen. Die Kommentare darunter zeigen die tiefe Betroffenheit der Menschen.
 Hier ein Beispiel:
 
-<blockquote>"Das ist buchstäblich das traurigste Video aller Zeiten. Ich möchte um jeden Preis helfen und ich tue, was ich kann. Wir brauchen dringend Maßnahmen der Regierungen und der Mächtigen der Welt! Es frustriert mich sehr, dass nicht viel mehr getan wird, auch in Hinblick auf die Waldbrände in Australien. Es ist so wichtig, dass das gezeigt wird."</blockquote>
+> "Das ist buchstäblich das traurigste Video aller Zeiten. Ich möchte um jeden
+> Preis helfen und ich tue, was ich kann. Wir brauchen dringend Maßnahmen der
+> Regierungen und der Mächtigen der Welt! Es frustriert mich sehr, dass nicht
+> viel mehr getan wird, auch in Hinblick auf die Waldbrände in Australien. Es
+> ist so wichtig, dass das gezeigt wird."
 
 Wenn auch ihr helfen wollt, könnt Ihr die Petition unterschreiben und das Video
 teilen. Am besten ist es natürlich, wenn jeder von uns die Menschen in seinem
@@ -86,3 +91,5 @@ kann etwas tun und viele Menschen, die viele kleine Schritte machen können
 hoffentlich eines Tages große Schritte bewirken.
 
 ![the-crisis-in-our-oceans-greenpeace | large](http://cardamonchai.com/wp-content/uploads/2020/01/the-crisis-in-our-oceans-greenpeace-2-520x195.jpg)
+
+  

@@ -4,12 +4,10 @@ seoTitle: Malmö zu Fuß - Eine gemütliche Stadt mit dem gewissen Etwas
 slug: malmoe-zu-fuss
 link: /2018/07/malmoe-zu-fuss/
 fileName: 2018-07---malmoe-zu-fuss.md
-description:
-  Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von Kopenhagen nach
-  Trelleborg vorbeigekommen und haben uns gleich wohlgefühlt.
-excerpt:
-  Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von Kopenhagen nach
-  Trelleborg vorbeigekommen und haben uns gleich wohlgefühlt.
+description: Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von
+  Kopenhagen nach Trelleborg vorbeigekommen und haben uns gleich wohlgefühlt.
+excerpt: Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von Kopenhagen
+  nach Trelleborg vorbeigekommen und haben uns gleich wohlgefühlt.
 focusKeyword: Malmö
 labels:
   - Malmö
@@ -29,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21498"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine gemütliche Stadt mit dem gewissen Etwas
+  
 ---
 
-<strong>Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von
+**Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von
 [Kopenhagen](/2018/07/radtour-durch-kopenhagen/) nach Trelleborg vorbeigekommen
-und haben uns gleich wohlgefühlt. </strong>
+und haben uns gleich wohlgefühlt.**
 
 Die Großstadt ist die Hauptstadt der Provinz
 [Skåne](/2018/07/zwischenstopp-in-skane/). Nach Stockholm und Göteborg ist Malmö
@@ -47,3 +48,5 @@ gewisse Etwas. Man sollte sie unbedingt mal zu Fuß erkundet haben.
 Ich habe Euch ein paar Schwarzweiß-Bilder mitgebracht.
 
 [myflickr tag="annemalmoeskane2018liebesehr"]
+
+  

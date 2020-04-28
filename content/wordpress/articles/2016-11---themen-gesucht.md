@@ -4,12 +4,12 @@ seoTitle: Themen gesucht - Aufruf an meine Leser - Interviewpartner gesucht!
 slug: aufruf-themen-gesucht
 link: /2016/11/aufruf-themen-gesucht/
 fileName: 2016-11---themen-gesucht.md
-description:
-  Jetzt seid Ihr dran! Ich suche Interviewpartner, Themen und frisches
-  Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure Zuschriften!
-excerpt:
-  Jetzt seid Ihr dran! Ich suche Interviewpartner, Themenvorschläge und frisches
-  Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure Zuschriften!
+description: Jetzt seid Ihr dran! Ich suche Interviewpartner, Themen und
+  frisches Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure
+  Zuschriften!
+excerpt: Jetzt seid Ihr dran! Ich suche Interviewpartner, Themenvorschläge und
+  frisches Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure
+  Zuschriften!
 focusKeyword: Themen
 labels:
   - Artikel
@@ -28,16 +28,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15321"
+image: /img/demo.jpg
+errors: []
 subTitle: Leseraufruf
+  
 ---
 
 ![Themen](http://cardamonchai.com/wp-content/uploads/2016/11/29394622754_0160985023_z-640x427.jpg "Hier könnte Euer Themenvorschlag hängen")
 
-<strong>Kennt Ihr noch meine Ode an die
+**Kennt Ihr noch meine Ode an die
 [herbstliche Schreibblockade](/2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/)
 ? Drei Jahre ist es jetzt her, seit ich Sie hier im Blog veröffentlicht habe.
 Seitdem habe ich zu den verschiedensten Themen berichtet, Leute interviewt und
-Bildergalerien gezeigt.</strong>
+Bildergalerien gezeigt.**
 
 Für einen kurzen Moment hatte ich schon befürchtet, dass sie mich auch in diesem
 Jahr wieder erwischt hat, aber ich bin ihr glücklicherweise gerade noch
@@ -83,18 +86,18 @@ etwas dafür tun müsst. Ihr könnt es mir einfach schicken und schon geht es lo
 Thematisch bin ich grundsätzlich nicht gebunden. Meine bisherigen Themen sind
 grob zusammengefasst
 
-<ul>
-    <li>Veganes Leben</li>
-    <li>Musik/Bands</li>
-    <li>Hamburg</li>
-    <li>Kultur</li>
-    <li>DIY</li>
-    <li>Beauty</li>
-    <li>Tierschutz</li>
-    <li>Umweltschutz</li>
-    <li>Reisen</li>
-    <li>Fotografie/Internet</li>
-</ul>
+- Veganes Leben
+- Musik/Bands
+- Hamburg
+- Kultur
+- DIY
+- Beauty
+- Tierschutz
+- Umweltschutz
+- Reisen
+- Fotografie/Internet
 
 Ich freue mich auf Eure Zuschriften unter
 [anne.reis@cardamonchai.com](mailto:info@cardamonchai.com)
+
+  

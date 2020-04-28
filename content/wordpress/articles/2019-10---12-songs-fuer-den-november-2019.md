@@ -4,12 +4,10 @@ seoTitle: 12 Songs für den November - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-november
 link: /2019/10/12-songs-fuer-den-november/
 fileName: 2019-10---12-songs-fuer-den-november-2019.md
-description:
-  Es ist soweit! Die heiß ersehnte Musikliste für den November ist da! Der
-  goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
-excerpt:
-  Es ist soweit! Die heiß ersehnte Musikliste für den November ist da! Der
-  goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
+description: Es ist soweit! Die heiß ersehnte Musikliste für den November ist
+  da! Der goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
+excerpt: Es ist soweit! Die heiß ersehnte Musikliste für den November ist da!
+  Der goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
 focusKeyword: Songs für den November
 labels:
   - Alternative
@@ -48,11 +46,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26641"
+image: /img/demo.jpg
+errors: []
 subTitle: Präsentiert von den drei von der Bande
+  
 ---
 
-<strong>Es ist soweit! Die heiß ersehnte Musikliste für den November ist da! Der
-goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.</strong>
+**Es ist soweit! Die heiß ersehnte Musikliste für den November ist da! Der
+goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.**
 
 Insgesamt ist wieder ein Knäuel aus verschiedensten Songs aus den
 unterschiedlichsten Musikrichtungen entstanden. Die Inspiration prasselte von
@@ -65,9 +66,8 @@ bereitgestellt. Ich wünsche Euch unglaublich viel Spaß beim Hören und Entdeck
 
 ## Unsere Musiktipps für den November
 
-Für Euch wird der <strong>November</strong> auf jeden Fall ein schöner Monat -
-wenn Ihr Eure Kopfhörer und unsere Playlist immer schön dabei habt. Hier sind
-unsere Juwelen.
+Für Euch wird der **November** auf jeden Fall ein schöner Monat - wenn Ihr Eure
+Kopfhörer und unsere Playlist immer schön dabei habt. Hier sind unsere Juwelen.
 
 ## 1. Kim Gordon - "Murdered Out" vom Album "No Home Record"
 
@@ -143,7 +143,11 @@ Konzert auf 3Sat gesehen."
 
 ## 8. Bruce Soord - "All This Will Be Yours" vom Album "All This Will Be Yours"
 
-<p class="p1">The Pineapple Thief Sänger Bruce Soord ist für seine in großer Regelmäßigkeit erscheinenden Soloveröffentlichungen bekannt. Jetzt hat er wieder geliefert. Sein neues Album "All This Will Be Yours" hat Matze von der ersten Spielminute an begeistert. Die gleichnamige Single hat es in unsere Liste geschafft - aus Gründen.</p>
+The Pineapple Thief Sänger Bruce Soord ist für seine in großer Regelmäßigkeit
+erscheinenden Soloveröffentlichungen bekannt. Jetzt hat er wieder geliefert.
+Sein neues Album "All This Will Be Yours" hat Matze von der ersten Spielminute
+an begeistert. Die gleichnamige Single hat es in unsere Liste geschafft - aus
+Gründen.
 
 <iframe src="https://www.youtube.com/embed/bQoF0vvCHUk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -195,8 +199,8 @@ sich also auf jeden Fall, sie alle zu hören - alle Lieder sind gleichwertig.
 
 Insgesamt muss gesagt werden, dass wir diesen Monat aus einer unglaublichen
 Vielfalt genialer Neuveröffentlichungen und Stücke, die sonst noch so in unseren
-Köpfen herumgespukt sind, geschöpft haben. Es war uns kaum möglich, <em>die
-besten 12</em> herauszuarbeiten.
+Köpfen herumgespukt sind, geschöpft haben. Es war uns kaum möglich, _die besten
+12_ herauszuarbeiten.
 
 Ein paar herausragende Künstler\*innen haben es einfach nicht in die Shortlist
 geschafft. In unseren persönlichen Gesamtlisten tauchen sie auf jeden Fall auf
@@ -231,3 +235,5 @@ Jam, Boris, ...
 <iframe src="https://open.spotify.com/embed/playlist/1mMeJKGqzImH7oKZzBj5Cu" width="300" height="380" frameborder="0"></iframe>
 
 ![12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin | large](http://cardamonchai.com/wp-content/uploads/2019/10/12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin-520x780.png)
+
+  

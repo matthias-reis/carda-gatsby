@@ -4,12 +4,10 @@ seoTitle: Pepes Penthouse - Geniale Akustik-Session im Cinemaxx
 slug: pepes-penthouse-genial-akustiksession-im-cinemaxx
 link: /2010/04/pepes-penthouse-genial-akustiksession-im-cinemaxx/
 fileName: 2010-04---pepes-penthouse.md
-description:
-  Gestern Abend wurde in Augsburg mit einem Auftritt von Pepes Penthouse der
-  Startschuss für das Modular-Festival 2010 gegeben.
-excerpt:
-  Gestern Abend wurde in Augsburg mit einem Auftritt von Pepes Penthouse der
-  Startschuss für das Modular-Festival 2010 gegeben.
+description: Gestern Abend wurde in Augsburg mit einem Auftritt von Pepes
+  Penthouse der Startschuss für das Modular-Festival 2010 gegeben.
+excerpt: Gestern Abend wurde in Augsburg mit einem Auftritt von Pepes Penthouse
+  der Startschuss für das Modular-Festival 2010 gegeben.
 focusKeyword: Pepes Penthouse
 labels:
   - Augsburg
@@ -29,18 +27,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11509"
+image: /img/demo.jpg
+errors: []
 subTitle: Akustik-Session im Kino
+  
 ---
-
-![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2010/04/IMG_1739-640x427.jpg)
-
-<strong>Gestern Abend wurde in Augsburg der Startschuss für das Modular-Festival
-2010 gegeben. Das Festival geht über 3 Tage und setzt sich aus den
-verschiedensten Modulen zusammen, daher der Name. </strong><strong>Vom 15. bis
-zum 17. April finden in der Stadt 77 verschiedene Veranstaltungen statt, von
-denen 58 kostenlos sind. Dazu zählen nicht nur musikalische Events, sondern auch
-Theater, Poetry-Slams und auch eine Filmpremiere, die gestern Abend im Cinemaxx
-stattfand.
 
 ## Ein gelungener Kinoabend
 
@@ -55,8 +46,8 @@ Alles in allem ein gelungener Kinoabend. Ein tolles Konzept, der
 Kino-Konzert-Mix. Man sollte sich überlegen es regelmäßig als festen Bestandteil
 in das Augsburger Kulturproramm aufzunehmen.
 
-<em> [Filmtrailer](http://www.youtube.com/watch?v=sNZie7PqxVc) Speer des
-Schicksals</em>
+_ [Filmtrailer](http://www.youtube.com/watch?v=sNZie7PqxVc) Speer des
+Schicksals_
 
 [gallery type="rectangular" link="none" size="medium"
 ids="11501,11502,11503,11504,11505,11506,11507,11508"]
@@ -64,3 +55,5 @@ ids="11501,11502,11503,11504,11505,11506,11507,11508"]
 &nbsp;
 
 &nbsp;
+
+  

@@ -4,13 +4,12 @@ seoTitle: Schichtkartoffeln und Kürbis aus dem Ofen - winterliches Rezept
 slug: schichtkartoffeln-kuerbis-aus-dem-ofen
 link: /2019/11/schichtkartoffeln-kuerbis-aus-dem-ofen/
 fileName: 2019-11---schichtkartoffeln-und-kuerbis.md
-description:
-  Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln
-  aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier ist mein Rezept.
-excerpt:
-  Werbung & Affiliate Link - Winter ist Kartoffelzeit. Besonders lecker sind zum
-  Beispiel Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis
-  gut - hier ist mein Rezept.
+description: Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel
+  Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier
+  ist mein Rezept.
+excerpt: Werbung & Affiliate Link - Winter ist Kartoffelzeit. Besonders lecker
+  sind zum Beispiel Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit
+  Kürbis gut - hier ist mein Rezept.
 focusKeyword: Schichtkartoffeln
 labels:
   - Butternuss-Kürbis
@@ -31,30 +30,31 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26743"
+image: /img/demo.jpg
+errors: []
 subTitle: Winterliches Ofenrezept
+  
 ---
 
-<em>Werbung &amp; Affiliate Link</em>
+_Werbung &amp; Affiliate Link_
 
-<strong>Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel
-Schichtkartoffeln aus dem Ofen. Sie lassen sich so gut wie mit allen
-winterlichen Gerichten gut kombinieren und gelingen ganz leicht.</strong>
+**Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel Schichtkartoffeln
+aus dem Ofen. Sie lassen sich so gut wie mit allen winterlichen Gerichten gut
+kombinieren und gelingen ganz leicht.**
 
 Besonders mit Kürbis ergibt sich ein geradezu legendäres Gericht und das
 Schönste: die Küche bleibt bei der Zubereitung so gut wie frei von Chaos.
 
 ## Zutaten für zwei große Portionen
 
-<ul>
-    <li>1 mittelgroßer Kürbis (Hokkaido oder Butternuss)</li>
-    <li>500 g Kartoffeln</li>
-    <li>Pfeffer</li>
-    <li>Meersalz</li>
-    <li>Rosmarin</li>
-    <li>Chiliflocken</li>
-    <li>Olivenöl</li>
-    <li>250 Gramm Tofu</li>
-</ul>
+- 1 mittelgroßer Kürbis (Hokkaido oder Butternuss)
+- 500 g Kartoffeln
+- Pfeffer
+- Meersalz
+- Rosmarin
+- Chiliflocken
+- Olivenöl
+- 250 Gramm Tofu
 
 ## Zubereitung
 
@@ -82,13 +82,18 @@ das Messer zu säubern. Mehr Werkzeug braucht Ihr nämlich für die Zubereitung
 nicht. Küche aufgeräumt, Essen kann losgehen!
 
 Dazu passt hervorragend ein schmackhafter Tomaten-Ketchup.
-[Meinen Bericht über das vegane Xucker Sortiment findet Ihr hier](http://tidd.ly/3a78d1a7).
+[Probiert zum Beispiel mal den von Xucker](http://tidd.ly/3a78d1a7). Der hat
+besonders wenig Kalorien, schmeckt aber wunderbar fruchtig und kein bisschen
+säuerlich.
+[Meinen Bericht über das vegane Xucker Sortiment findet Ihr hier](https://wp.me/p533wO-6WI).
 
 Guten Appetit!
 
 [glry name="kartoffeln-gar"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und einen Affiliate Link. Der
-Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und einen Affiliate Link. Der Inhalt
+und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

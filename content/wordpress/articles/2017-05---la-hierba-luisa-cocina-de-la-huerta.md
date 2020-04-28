@@ -1,17 +1,16 @@
 ---
 title: La Hierba Luisa - Cocina de la Huerta
-seoTitle:
-  La Hierba Luisa - Cocina de la Huerta - Eine vegane Oase im Herzen von Las
-  Palmas
+seoTitle: La Hierba Luisa - Cocina de la Huerta - Eine vegane Oase im Herzen von
+  Las Palmas
 slug: la-hierba-luisa-cocina-de-la-huerta
 link: /2017/05/la-hierba-luisa-cocina-de-la-huerta/
 fileName: 2017-05---la-hierba-luisa-cocina-de-la-huerta.md
-description:
-  Heute möchte ich Euch das La Hierba Luisa vorstellen. Eine gemütliche Oase in
-  Gran Canarias Hauptstadt. Hier gibt es unter anderem hausgemachte Pasta.
-excerpt:
-  Heute möchte ich Euch das La Hierba Luisa vorstellen. Eine gemütliche Oase in
-  Gran Canarias Hauptstadt. Hier gibt es unter anderem hausgemachte Pasta.
+description: Heute möchte ich Euch das La Hierba Luisa vorstellen. Eine
+  gemütliche Oase in Gran Canarias Hauptstadt. Hier gibt es unter anderem
+  hausgemachte Pasta.
+excerpt: Heute möchte ich Euch das La Hierba Luisa vorstellen. Eine gemütliche
+  Oase in Gran Canarias Hauptstadt. Hier gibt es unter anderem hausgemachte
+  Pasta.
 focusKeyword: La Hierba Luisa
 labels:
   - ein verdammt guter Kaffee
@@ -40,12 +39,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16694"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine vegane Oase im Herzen von Las Palmas
+  
 ---
 
 ![La Hierba Luisa](http://cardamonchai.com/wp-content/uploads/2017/05/33941107653_3464444646_k-640x426.jpg)
 
-<strong> vorstellen. Eine gemütliche Oase in Gran Canarias Hauptstadt. </strong>
+**Heute möchte ich Euch das Café _La Hierba Luisa_ vorstellen. Eine gemütliche
+Oase in Gran Canarias Hauptstadt.**
 
 Während unserer [Gran Canaria Reise](/2017/05/vegan-auf-gran-canaria/) gönnten
 wir uns auch eine Stadtbesichtigung in Las Palmas. Gegen frühen Nachmittag waren
@@ -56,7 +59,8 @@ mit veganen Optionen. Und wurden sofort fündig.
 
 ![La Hierba Luisa](http://cardamonchai.com/wp-content/uploads/2017/05/34709979926_a2d77ae774_k-640x426.jpg)
 
-angezeigt. Nichts wie hin also.
+Nur 50 Meter von unserem Standort entfernt wurde das vegane Café _La Hierba
+Luisa_ angezeigt. Nichts wie hin also.
 
 Wir wurden äußest liebevoll empfangen. Die umfangreiche Speisekarte erklärte man
 uns ganz genau. Zusätzlich dazu gab es noch ein Tagesmenü, bestehend aus einer
@@ -78,7 +82,7 @@ wurde das kulinarische Highlight unserer Reise von einem verdammt guten Kaffee.
 Zum Abschied gab es noch einen freundlichen Händedruck vom Wirt. Satt, glücklich
 und zufrieden setzten wir unsere Erkundung fort.
 
-Das <em>La Hierba Luisa</em> befindet sich im Stadtteil Vegueta in der Calle
+Das _La Hierba Luisa_ befindet sich im Stadtteil Vegueta in der Calle
 Mendizabal 39. Geöffnet ist es Mittwochs und Freitags von 13:30 Uhr bis 16:00
 Uhr, Mittwochs von 20:00 Uhr bis 22:30 Uhr sowie Donnerstags bis Samstags von
 20:00 bis 23:30, Samstags und Sonntags von 13:30 bis 16:30 und Sonntags von
@@ -94,46 +98,47 @@ umfangreiche vegane Weinkarte, verschiedenste Säfte und tolle
 Kaffee-Spezialitäten. Auch eine kleine Theke mit Waren des täglichen Bedarfs,
 wie Pflanzendrinks und Hülsenfrüchten, ist in das Café integriert.
 
-Das <em>La Hierba Luisa</em> ist ein wundervoller, familiärer Rückzugsort
-inmitten der bunten, lauten Großstadt. Es ist gemütlich mit einem Blick fürs
-Detail eingerichtet. Das Team ist außerordentlich offen und herzlich.
+Das _La Hierba Luisa_ ist ein wundervoller, familiärer Rückzugsort inmitten der
+bunten, lauten Großstadt. Es ist gemütlich mit einem Blick fürs Detail
+eingerichtet. Das Team ist außerordentlich offen und herzlich.
 
 ## Wir empfehlen Euch das La Hierba Luisa
 
 Von uns gibt es 100 von 100 Punkten auf der Genuss-Skala und 100 von 100 Punkten
 auf der Gemütlichkeits-Skala. Eine klare Empfehlung also.
 
-Sollten wir mal wieder auf der Insel weilen, werden wir ganz sicher auch dem
-<em>La Hierba Luisa</em> wieder einen Besuch abstatten.
+Sollten wir mal wieder auf der Insel weilen, werden wir ganz sicher auch dem _La
+Hierba Luisa_ wieder einen Besuch abstatten.
 
 Wart Ihr auch schon mal dort? Ich freue mich auf Euren Kommentar!
 
-Ihr findet das <em>La Hierba Luisa</em> bei
-[Facebook](https://www.instagram.com/lahierbaluisa/?hl=de).
+Ihr findet das _La Hierba Luisa_ bei
+[Instagram](https://www.instagram.com/lahierbaluisa/?hl=de) und bei
+[Facebook](https://www.facebook.com/lahierbaluisa/?fref=ts).
 
-[](/2017/05/vegan-auf-gran-canaria/)
+[Willkommen im ParadiesMehr Infos zum Thema _Vegan reisen auf Gran Canaria_ findet Ihr in meinem großen Bericht](/2017/05/vegan-auf-gran-canaria/)
 
 ![La Hierba Luisa | large](http://cardamonchai.com/wp-content/uploads/2017/05/34587993052_495603d943_k-800x431.jpg)
 
 ## Wegweiser Gran Canaria
 
-<ol>
-    <li>Eine vegane Oase im Herzen von Las Palmas</li>
-    <li> [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/) </li>
-    <li> [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/) </li>
-    <li> [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/) </li>
-    <li> [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/) </li>
-    <li> [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/) </li>
-    <li> [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/) </li>
-    <li> [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/) </li>
-</ol>
+1.  Eine vegane Oase im Herzen von Las Palmas
+1.  [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/)
+1.  [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
+1.  [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/)
+1.  [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/)
+1.  [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/)
+1.  [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/)
+1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 1070px; left: 20px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 499px; left: 1584px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 104px; left: 1351px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 1278px; left: 20px;">Merken</span>
+Merken
+
+  

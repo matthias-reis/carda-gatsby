@@ -4,12 +4,10 @@ seoTitle: Bio-vegane Hasenüsse - Baumpatenschaft
 slug: haselnuesse-hof-windkind
 link: /2020/03/haselnuesse-hof-windkind/
 fileName: 2020-03---bio-vegane-haselnuesse.md
-description:
-  Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit kurzem kann man
-  dort eine Patenschaft für einen Haselnussbaum übernehmen.
-excerpt:
-  Werbung - Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit kurzem
-  kann man dort eine Patenschaft für einen Haselnussbaum übernehmen.
+description: Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit
+  kurzem kann man dort eine Patenschaft für einen Haselnussbaum übernehmen.
+excerpt: Werbung - Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit
+  kurzem kann man dort eine Patenschaft für einen Haselnussbaum übernehmen.
 focusKeyword: Haselnüsse
 labels:
   - Berlin
@@ -27,15 +25,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28558"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues von Hof Windkind
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Silvia und David haben gemeinsam vor den Toren Berlins den bio-veganen
-Hof Windkind gegründet. Neben Walnüssen bauen die beiden dort seit Kurzem auch
+**Silvia und David haben gemeinsam vor den Toren Berlins den bio-veganen Hof
+Windkind gegründet. Neben Walnüssen bauen die beiden dort seit Kurzem auch
 Haselnüsse an. Der Anbau und der Versand erfolgen vor Ort, bio-vegan, fair,
-sozial und plastikfrei.</strong>
+sozial und plastikfrei.**
 
 Zuletzt wurde über die Erntebedingungen und die schlechten Bedingungen für die
 Erntehelfer im Haupt-Anbauland von Haselnüssen, der Türkei, immer wieder
@@ -63,8 +64,9 @@ Stroh. Gülle, Hornmehl, Blutmehl und ähnliches kommen für Silvia und David ni
 in Frage. Aus diesem Grund dürfen sie ihre Nüsse auch mit dem Label "bio-vegan"
 verkaufen.
 
-<blockquote>"Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und zu wissen, dass Menschen sich auf unsere Nüsse freuen und schon drauf warten."
-Silvia &amp; David, Hof Windkind</blockquote>
+> "Es ist für uns sehr motivierend, am frühen Morgen auf dem Feld zu stehen und
+> zu wissen, dass Menschen sich auf unsere Nüsse freuen und schon drauf warten."
+> Silvia &amp; David, Hof Windkind
 
 ## Haselnussbaum-Patenschaften
 
@@ -182,7 +184,9 @@ Darin findet Ihr auch die Adresse von Hof Windkind sowie ein spannendes Video
 Zur Homepage von Hof Windkind geht es
 [hier entlang](https://www.hofwindkind.com/info/baumpatenschafthaselnuesse.html).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Weitere Infos: 
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Weitere Infos: 
 [www.trusted-blogs.com/werbekennzeichnung](https://www.trusted-blogs.com/werbekennzeichnung)
-</em>
+_
+
+  

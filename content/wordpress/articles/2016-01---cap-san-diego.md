@@ -4,12 +4,11 @@ seoTitle: Die Cap San Diego - Ein Museumsschiff mit Geschichte
 slug: cap-san-diego-ein-frachtschiff-mit-museum
 link: /2016/01/cap-san-diego-ein-frachtschiff-mit-museum/
 fileName: 2016-01---cap-san-diego.md
-description:
-  Die Cap San Diego ist das älteste, seetüchtige Museumsschiff der Welt. Sie
-  liegt im Hamburger Hafen und kann täglich besichtigt werden - Bildergalerie
-excerpt:
-  Die Cap San Diego ist das älteste, seetüchtige Museumsschiff der Welt. Sie
-  liegt im Hamburger Hafen und kann täglich besichtigt werden.
+description: Die Cap San Diego ist das älteste, seetüchtige Museumsschiff der
+  Welt. Sie liegt im Hamburger Hafen und kann täglich besichtigt werden -
+  Bildergalerie
+excerpt: Die Cap San Diego ist das älteste, seetüchtige Museumsschiff der Welt.
+  Sie liegt im Hamburger Hafen und kann täglich besichtigt werden.
 focusKeyword: Cap San Diego
 labels:
   - Ausflug
@@ -24,14 +23,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13815"
+image: /img/demo.jpg
+errors: []
 subTitle: Museumsschiff mit Geschichte
+  
 ---
 
 ![Cap San Diego](http://cardamonchai.com/wp-content/uploads/2016/01/24595510421_0b3d33820b_z.jpg "Entdeckungstour auf der Cap San Diego")
 
-<strong>Vor Kurzem hatten wir Besuch da und weil das Wetter an einem Nachmittag
+**Vor Kurzem hatten wir Besuch da und weil das Wetter an einem Nachmittag
 verschneit und winterlich war, entschieden wir uns für einen Museumsbesuch der
-besonderen Art.</strong>
+besonderen Art.**
 
 Die Cap San Diego ist das größte, fahrtüchtige Museumsfrachtschiff der Welt. Sie
 liegt im Hamburger Hafen und kann täglich zwischen 10 und 18 Uhr besichtigt
@@ -96,3 +98,5 @@ aus dem Internationalen Maritimen Museum Hamburg.
 
 Infos über das Museumsschiff findet Ihr auf der
 [Homepage](http://www.capsandiego.de/) der Cap San Diego
+
+  

@@ -4,12 +4,12 @@ seoTitle: Traurige Wahrheit über Fukushima - Kontamination nach wie vor stark
 slug: traurige-wahrheit-ueber-fukushima
 link: /2015/11/traurige-wahrheit-ueber-fukushima/
 fileName: 2015-11---traurige-wahrheit-ueber-fukushima.md
-description:
-  Wir alle erinnern uns mit Schrecken an den Supergau im Atomkraftwerk von
-  Fukushima im März 2011. Noch heute ist die Landschaft vor Ort stark verseucht.
-excerpt:
-  Wir alle erinnern uns mit Schrecken an den Supergau im Atomkraftwerk von
-  Fukushima im März 2011. Noch heute ist die Landschaft vor Ort stark verseucht.
+description: Wir alle erinnern uns mit Schrecken an den Supergau im
+  Atomkraftwerk von Fukushima im März 2011. Noch heute ist die Landschaft vor
+  Ort stark verseucht.
+excerpt: Wir alle erinnern uns mit Schrecken an den Supergau im Atomkraftwerk
+  von Fukushima im März 2011. Noch heute ist die Landschaft vor Ort stark
+  verseucht.
 focusKeyword: Fukushima
 labels:
   - AKW
@@ -23,15 +23,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28995"
+image: /img/demo.jpg
+errors: []
 subTitle: Kontamination nach wie vor dramatisch
+  
 ---
-
-<strong>Wir alle erinnern uns mit Schrecken an den Supergau im Atomkraftwerk von
-Fukushima im März 2011. Der Unfall war durch ein starkes Erdbeben in Folge eines
-Tsunami ausgelöst worden. Ganze Landstriche wurden damals verseucht, Menschen
-und Tiere wurden verstrahlt und starben. Durch die extrem hohe Halbwertszeit des
-radioaktiven Materials ist die Umweltweltkatastrophe auch heute noch längst
-nicht ausgestanden.</strong>
 
 Am 11. März um 14:47 Ortszeit begann in Fukushima eine nukleare Unfallserie von
 bis zu diesem Zeitpunkt unbekannten Ausmaßen. Mit dem Töhoku-Erdbeben kam es in
@@ -127,3 +123,5 @@ Spätfolgen sind nicht auszudenken.
 Quelle: [Greenpeace](http://www.greenpeace.de/node/15687)
 
 Bild: [-MQ-](https://pixabay.com/users/-mq--6833322/), Pixabay
+
+  

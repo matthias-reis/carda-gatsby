@@ -4,12 +4,10 @@ seoTitle: Anne bloggt cardamonchai auf Facebook - Klickt mal rein!
 slug: anne-bloggt-cardamonchai-auf-facebook
 link: /2011/05/anne-bloggt-cardamonchai-auf-facebook/
 fileName: 2011-05---mein-blog-bei-facebook.md
-description:
-  Anne bloggt cardamonchai gibt es ab sofort auch auf Facebook! Ihr werdet dort
-  regelmäßig über neue Artikel informiert. Klickt doch mal rein!
-excerpt:
-  Anne bloggt cardamonchai gibt es ab sofort auch auf Facebook! Ihr werdet dort
-  regelmäßig über neue Artikel informiert. Klickt doch mal rein!
+description: Anne bloggt cardamonchai gibt es ab sofort auch auf Facebook! Ihr
+  werdet dort regelmäßig über neue Artikel informiert. Klickt doch mal rein!
+excerpt: Anne bloggt cardamonchai gibt es ab sofort auch auf Facebook! Ihr
+  werdet dort regelmäßig über neue Artikel informiert. Klickt doch mal rein!
 focusKeyword: Anne bloggt cardamonchai
 labels:
   - Bier
@@ -28,12 +26,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "1831"
+image: /img/demo.jpg
+errors: []
 subTitle: Klickt doch mal rein
+  
 ---
-
-<strong>Nun gibt es meine Seite endlich auch auf Facebook! Ich würde mich sehr
-freuen, wenn die Seite Zuspruch findet und einige auf "Gefällt mir" klicken!
-</strong>
 
 Als kleiner Anreiz wird unter allen, die sich innerhalb der nächsten 3 Tage
 anmelden eine Flasche Bier verlost!
@@ -47,3 +44,5 @@ gezeigt. [Hier](www.facebook.com/cardamonchai) geht's zur Facebook-Seite.
 Recht herzlichen Dank für die Aufmerksamkeit!
 
 &nbsp;
+
+  

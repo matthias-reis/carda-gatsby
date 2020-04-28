@@ -4,12 +4,10 @@ seoTitle: Sommerregen, Fernweh und Wodkaverbot - Tagebucheintrag
 slug: sommerregen-fernweh-und-wodkaverbot
 link: /2011/06/sommerregen-fernweh-und-wodkaverbot/
 fileName: 2011-06---sommerregen-fernweh-und-wodkaverbot.md
-description:
-  Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte
-  verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon wieder
-  Fernweh.
-excerpt:
-  Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte
+description: Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in
+  Watte verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon
+  wieder Fernweh.
+excerpt: Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte
   verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon wieder
   Fernweh.
 focusKeyword: ""
@@ -67,7 +65,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2221"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
 Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in Watte verpackt.
@@ -80,31 +81,31 @@ Strahlentod, in China flüchten die Menschen vor dem Sturm und der damit
 zusammenhängenden Flut und in Nordirland flammt der Konflikt zwischen Katholiken
 und Protestanten wieder auf. Um nur einige Krisenherde zu nennen.
 
-<strong>Links des Tages:</strong>
+**Links des Tages:**
 
 http://www.sueddeutsche.de/muenchen/vorstellung-der-kriminalstatistik-wodka-verbot-gefordert-1.1086276
 
 http://www.welt.de/vermischtes/prominente/article13444099/Christensekte-will-Ryan-Dunns-Beerdigung-stoeren.html
 
-<strong>Song des Tages:</strong>
+**Song des Tages:**
 
 Incubus - The Warmth
 
 [youtube=http://www.youtube.com/watch?v=J0ZRvxDrOxo&amp;feature=related]
 
-<em> I'd like to close my eyes, go numb</em><em>but there's a cold wind coming
-from</em><em>the top of the highest high-rise today.</em><em>It's not a breeze
-'cause it blows hard.</em><em>Yes and it wants me to discard the humanity I
-know,</em><em>watch the warmth blow away.</em><em>So don't let the world bring
-you down.</em><em>Not everyone here is that fucked up and cold.</em><em>Remember
-why you came and while you're alive</em><em>experience the warmth before you
-grow old.</em><em>So do you think I should adhere to that pressing new
-frontier?</em><em>And leave in my wake a trail of fear?</em><em>Or should I hold
-my head up high</em><em>and throw a wrench in spokes by</em><em>leaving the air
-behind me clear?</em><em>So don't let the world bring you down.</em><em>Not
-everyone here is that fucked up and cold.</em><em>Remember why you came and
-while you're alive</em><em>experience the warmth before you go.</em><em>So don't
-let the world bring you down.</em><em>Not everyone here is that fucked up and
-cold.</em><em>Remember why you came and while you're alive</em><em>experience
-the warmth before you grow old.</em><em>Before you grow old.</em><em>Where did
-it go?</em>
+_I'd like to close my eyes, go numb_ _but there's a cold wind coming from_ _the
+top of the highest high-rise today._ _It's not a breeze 'cause it blows hard._
+_Yes and it wants me to discard the humanity I know,_ _watch the warmth blow
+away._ _So don't let the world bring you down._ _Not everyone here is that
+fucked up and cold._ _Remember why you came and while you're alive_ _experience
+the warmth before you grow old._ _So do you think I should adhere to that
+pressing new frontier?_ _And leave in my wake a trail of fear?_ _Or should I
+hold my head up high_ _and throw a wrench in spokes by_ _leaving the air behind
+me clear?_ _So don't let the world bring you down._ _Not everyone here is that
+fucked up and cold._ _Remember why you came and while you're alive_ _experience
+the warmth before you go._ _So don't let the world bring you down._ _Not
+everyone here is that fucked up and cold._ _Remember why you came and while
+you're alive_ _experience the warmth before you grow old._ _Before you grow
+old._ _Where did it go?_
+
+  

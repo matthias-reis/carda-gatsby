@@ -4,11 +4,9 @@ seoTitle: Die neue feminine Kollektion von Feuerwear - jetzt wird's weiblich!
 slug: feuerwear-feminine-kollektion
 link: /2019/09/feuerwear-feminine-kollektion/
 fileName: 2019-09---jetzt-wirds-weiblich.md
-description:
-  Von Feuerwear gibt es jetzt verschiedene Handtaschen und Schlüsselanhänger aus
-  Feuerwehrschläuchen - die feminine Kollektion ist da!
-excerpt:
-  Werbung - Von Feuerwear gibt es jetzt verschiedene Handtaschen und
+description: Von Feuerwear gibt es jetzt verschiedene Handtaschen und
+  Schlüsselanhänger aus Feuerwehrschläuchen - die feminine Kollektion ist da!
+excerpt: Werbung - Von Feuerwear gibt es jetzt verschiedene Handtaschen und
   Schlüsselanhänger aus Feuerwehrschläuchen - die feminine Kollektion ist da!
 focusKeyword: Feuerwear
 labels:
@@ -29,14 +27,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26439"
+image: /img/demo.jpg
+errors: []
 subTitle: Die neue feminine Kollektion von Feuerwear
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>"Phil", "Charlie" und "Sasha" sind da! Hinter diesen ansprechenden Namen
+**"Phil", "Charlie" und "Sasha" sind da! Hinter diesen ansprechenden Namen
 verbergen sich die Handtasche, die Clutch und der Schlüsselanhänger aus der neue
-femininen Feuerwear Kollektion.</strong>
+femininen Feuerwear Kollektion.**
 
 Ich war bei der exklusiven Blogger Preview in Hamburg dabei und durfte im
 Anschluss alle drei Produkte ausgiebig testen. Beim Bloggerevent dabei waren
@@ -157,7 +158,9 @@ Ausgabe der gewohnten robusten Teile. Jede\*r trägt, was er\*sie möchte, wer
 sich schon immer Metall-Accessoires und elegante Formen gewünscht hat, kommt ab
 jetzt auch auf seine Kosten.
 
-[glry name="feuerwearanne092019"] <em>\*Hinweis: Dieser Beitrag enthält Werbung.
+[glry name="feuerwearanne092019"] _\*Hinweis: Dieser Beitrag enthält Werbung.
 Das Produkt wurde mir kostenlos zur Verfügung gestellt. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

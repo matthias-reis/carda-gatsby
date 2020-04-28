@@ -4,12 +4,10 @@ seoTitle: Keine Panik! Am 25. April ist Towel Day!
 slug: towel-day
 link: /2013/05/towel-day/
 fileName: 2013-05---keine-panik-am-25-mai-ist-towel-day.md
-description:
-  Der International Towel Day wird am 25. April wieder zu Ehren von Sir Douglas
-  Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
-excerpt:
-  Der International Towel Day wird am 25. April wieder zu Ehren von Sir Douglas
-  Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
+description: Der International Towel Day wird am 25. April wieder zu Ehren von
+  Sir Douglas Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
+excerpt: Der International Towel Day wird am 25. April wieder zu Ehren von Sir
+  Douglas Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
 focusKeyword: Towel Day
 labels:
   - 25. Mai
@@ -34,11 +32,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5442"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Sache mit den Handtüchern
+  
 ---
-
-<strong>Wie jedes Jahr am 25. Mai, wird auch morgen wieder weltweit der Towel
-Day zu Ehren des britischen Autors Douglas Adams gefeiert.</strong>
 
 Natürlich wissen seine Jünger (zu denen auch ich mich zähle) ganz genau, dass
 man, nicht nur an diesem Tag, das so ziemlich Nützlichste, was es überhaupt
@@ -85,15 +83,18 @@ Nicht besonders schön, dafür hat es eine besondere Geschichte: Wahrscheinlich
 werdet Ihr mich nun für verrückt erklären, weil Ihr nicht verstehen könnt, wie
 das passieren konnte. Es begab sich vor einigen Jahren. Ich war mit ein paar
 Freunden auf dem Weg zu einem wundervollen, sonnigen
-[Festival-Handtuch: Siehe Abbildung No. 4](/2013/03/28/die-ultimative-festivalliste-2013/)
-) zu Hause vergessen hatte! Sofort fuhren wir von der Autobahn runter und
-suchten so lange, bis wir ein Handtuch-Fachgeschäft gefunden hatten, in dem ich
-das sündhaft teure Stück dann erstanden habe. Schon beim Betreten des
-Festival-Geländes fielen die ersten Tropfen. Es regnete das ganze Wochenende
-durch. Das kann kein Zufall gewesen sein. Als ich wieder zu Hause angekommen
-war, hatten sich meine beiden Kater auf dem Festival-Handtuch eine Nest aus
-ihrer eigenen Wolle, Papierschnipseln und sonstigem Kram gebastelt. Seit diesem
-Zeitpunkt vergesse ich nie wieder mein Handtuch
+[Festival](/2013/03/28/die-ultimative-festivalliste-2013/). 5 km von der Heimat
+entfernt verspürte ich plötzlich eine extreme innere Unruhe. Ich prüfte meinen
+Rucksack und stellte, der Ohnmacht nahe, fest, dass ich mein Handtuch (
+[Festival-Handtuch: Siehe Abbildung No. 4](Handtuch No. 4) ) zu Hause vergessen
+hatte! Sofort fuhren wir von der Autobahn runter und suchten so lange, bis wir
+ein Handtuch-Fachgeschäft gefunden hatten, in dem ich das sündhaft teure Stück
+dann erstanden habe. Schon beim Betreten des Festival-Geländes fielen die ersten
+Tropfen. Es regnete das ganze Wochenende durch. Das kann kein Zufall gewesen
+sein. Als ich wieder zu Hause angekommen war, hatten sich meine beiden Kater auf
+dem Festival-Handtuch eine Nest aus ihrer eigenen Wolle, Papierschnipseln und
+sonstigem Kram gebastelt. Seit diesem Zeitpunkt vergesse ich nie wieder mein
+Handtuch
 
 ![Sündhaft teures Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4201.jpg?w=490 "Sündhaft teures Handtuch")
 
@@ -136,10 +137,12 @@ am wichtigsten ist: Vergesst im Namen der 42 Euer Handtuch nicht!
 ![Pangalaktischer Donnergurgler](http://cardamonchai.files.wordpress.com/2013/05/img_5144.jpg?w=490 "Pangalaktischer Donnergurgler")
 
 Für alle, die meinen Text nicht verstanden haben (gibt es solche Leute
-überhaupt?): <strong>Lest verdammt nochmal das Buch!</strong> Ich rede sonst
-nicht mehr mit Euch! Ich habe Euch hier mal ein paar Ausgaben fotografiert, die
-bei mir zu Hause gerade so rumlagen:
+überhaupt?): **Lest verdammt nochmal das Buch!** Ich rede sonst nicht mehr mit
+Euch! Ich habe Euch hier mal ein paar Ausgaben fotografiert, die bei mir zu
+Hause gerade so rumlagen:
 
 [gallery type="circle" size="tall" link="file" ids="5440,5437,5439"]
 
-### Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich entschieden habe! [](/2015/03/die-ultimative-vegane-festivalliste)
+### Hier noch ein paar nützliche Links: [The Hitchhikers Guide through the Galaxy](http://www.douglasadams.com/creations/hhgg.html) [Die vierteilige Trilogie in fünf Bänden](http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis) ### Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich entschieden habe! [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

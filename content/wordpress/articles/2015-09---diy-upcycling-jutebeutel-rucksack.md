@@ -4,14 +4,12 @@ seoTitle: DIY Upcycling Jutebeutel-Rucksack - Schritt-für-Schritt-Anleitung
 slug: diy-jutebeutel-rucksack
 link: /2015/09/diy-jutebeutel-rucksack/
 fileName: 2015-09---diy-upcycling-jutebeutel-rucksack.md
-description:
-  Habt Ihr auch schon einen Jutebeutel-Rucksack? Die Dinger sind ja gerade
-  richtig en vogue! Ich zeige Euch heute, wie Ihr schnell einen selber basteln
-  könnt!
-excerpt:
-  Habt Ihr auch schon einen Jutebeutel-Rucksack? Die Dinger sind ja gerade
-  richtig en vogue! Ich zeige Euch heute, wie Ihr ganz schnell und für kleines
-  Geld selbst einen selber basteln könnt!
+description: Habt Ihr auch schon einen Jutebeutel-Rucksack? Die Dinger sind ja
+  gerade richtig en vogue! Ich zeige Euch heute, wie Ihr schnell einen selber
+  basteln könnt!
+excerpt: Habt Ihr auch schon einen Jutebeutel-Rucksack? Die Dinger sind ja
+  gerade richtig en vogue! Ich zeige Euch heute, wie Ihr ganz schnell und für
+  kleines Geld selbst einen selber basteln könnt!
 focusKeyword: Jutebeutel
 labels:
   - basteln
@@ -34,22 +32,34 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12781"
+image: /img/demo.jpg
+errors: []
 subTitle: Schritt-für-Schritt-Anleitung
+  
 ---
 
 ![Jutebeutel-Rucksack](http://cardamonchai.com/wp-content/uploads/2015/09/DIY-Turnbeutel-640x427.jpg "Da war es noch ein Jutesack")
 
-<strong>Was haben Nerds, Hipster, Rocker, Hip Hopper, Althippies, Models,
+**Was haben Nerds, Hipster, Rocker, Hip Hopper, Althippies, Models,
 Kaffeetanten, Banker, Sportler und Schulkinder gemeinsam? Ganz genau, sie alle
 tragen alle einen Jutebeutel-Rucksack. Man könnte sagen, die Dinger sind im
-Moment richtig en vogue.</strong>
+Moment richtig en vogue.**
 
 Gehört Ihr auch zu den Leuten, die ihren alten Jutesack leid sind und gerne
 unterwegs die Hände frei haben? Habt Ihr Euren Turnbeutel während der Schulzeit
 immer gehasst und jetzt plötzlich Bock drauf, aber das Ding ist weg? Dann habe
 ich heute was für Euch!
 
-<blockquote><em>Der Jutesack ist tot, es lebe der Turnbeutel!</em></blockquote>## Jutebeutel-Rucksack So wird’s gemacht
+> _Der Jutesack ist tot, es lebe der Turnbeutel!_ ## Ihr braucht- Jutebeutel
+
+- Trennhäkchen oder Nagelschere
+- Nähnadel
+- Garn
+- Nähmaschine
+- Sicherheitsnadel
+- Geodreieck
+- Bleistift oder Schneiderkreide
+- Zwei Kordeln (je 165 cm lang)## Jutebeutel-Rucksack So wird’s gemacht
 
 Trennt die Träger mit dem Trennhäkchen oder der Nagelschere von Eurem Jutesack
 ab, die braucht Ihr für Euer nächstes DIY-Projekt. Trennt die Nähte, die den
@@ -91,3 +101,5 @@ Und weil ich lustige Dinge liebe, an dieser Stelle noch ein tolles Video für
 Euch. Kuckt Euch das unbedingt an! Selbstironie und so. :-P
 
 <iframe src="https://player.vimeo.com/video/132550202" width="800" height="533" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+  

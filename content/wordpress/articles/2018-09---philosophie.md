@@ -4,14 +4,12 @@ seoTitle: Philosophie - Die Kunst des Nachdenkens - Von Nietzsche bis Precht
 slug: philosophie
 link: /2018/09/philosophie/
 fileName: 2018-09---philosophie.md
-description:
-  Philosophie - Was ist das eigentlich genau? Der Versuch, die menschliche
-  Existenz zu begründen - warum ist er im digitalen Zeitalter so unglaublich
-  wichtig?
-excerpt:
-  Philosophie - Was ist das eigentlich genau? Nichts wirklich Greifbares, oder?
-  Der Versuch, die menschliche Existenz zu begründen - warum ist er im digitalen
-  Zeitalter so unglaublich wichtig?
+description: Philosophie - Was ist das eigentlich genau? Der Versuch, die
+  menschliche Existenz zu begründen - warum ist er im digitalen Zeitalter so
+  unglaublich wichtig?
+excerpt: Philosophie - Was ist das eigentlich genau? Nichts wirklich Greifbares,
+  oder? Der Versuch, die menschliche Existenz zu begründen - warum ist er im
+  digitalen Zeitalter so unglaublich wichtig?
 focusKeyword: Philosophie
 labels:
   - Die Ethik des Nichtwissens
@@ -39,15 +37,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22067"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Kunst des Nachdenkens
+  
 ---
 
-<em>Affiliate Links\*</em>
+_Affiliate Links\*_
 
-<strong>Philosophie - Was ist das eigentlich genau? Der Versuch, die menschliche
+**Philosophie - Was ist das eigentlich genau? Der Versuch, die menschliche
 Existenz zu begründen - nichts wirklich Greifbares, oder? Die "Liebe zur
 Weisheit", sollte sie nicht von bedeutender Wichtigkeit sein? Gerade in unserer
-heutigen Zeit?</strong>
+heutigen Zeit?**
 
 Die Philosophie ist nicht spezialisiert. Sie ergibt sich aus ihren
 Fragestellungen. Sie kann in verschiedene Epochen unterteilt werden. Im
@@ -70,7 +71,9 @@ Philosophen Bücherwürmer sind?
 ![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B00NTQ6K7E)
 
 Nehmen wir Friedrich Nietzsche.
-"[Hörbuch](https://www.audible.de/pd/Wo-selbst-die-Wege-nachdenklich-werden-Hoerbuch/8711952555?)
+"[Wo selbst die Wege nachdenklich werden - Friedrich Nietzsche und der Berg"](https://www.audible.de/pd/Wo-selbst-die-Wege-nachdenklich-werden-Hoerbuch/8711952555?)
+ist ein Werk, welches ich jedem\*r empfehlen kann. Als
+[Hörbuch](https://www.amazon.de/gp/product/B00NTQ6K7E/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00NTQ6K7E&linkCode=as2&tag=cardamonchai-21&linkId=a30516ccfe001399fd0d08d742fe1a3a)
 lässt es sich auch in hektischen Lebensphasen häppchenweise genießen. Wann immer
 sich Zeit findet. Morgens in der Bahn, oder abends beim Kochen.
 
@@ -126,10 +129,14 @@ des Menschen", "Eine neue Tierethik" und "Was tun?".
 
 ![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12835050734_41e45a91fb_z-400x273.jpg)
 
-, tritt in Fernsehshows auf und nimmt an Podiumsdiskussionen teil. Seine
-Lesungen sind stets bis auf den letzten Platz besetzt. Man hört und sieht ihn,
-seine Reden und Abhandlungen werden kontrovers diskutiert und immer wieder
-zitiert.
+Fehlende Empathie reibt ihn genauso auf, wie die Fehlentscheidungen von
+Machtträgern in Bezug auf
+[den Umweltschutz und den Klimawandel](/category/gesellschaft/klima-umweltschutz/).
+Dabei verschafft er sich durchaus Gehör. Er geht
+[raus auf die Straße](/2017/05/march-against-monsanto-2017/), tritt in
+Fernsehshows auf und nimmt an Podiumsdiskussionen teil. Seine Lesungen sind
+stets bis auf den letzten Platz besetzt. Man hört und sieht ihn, seine Reden und
+Abhandlungen werden kontrovers diskutiert und immer wieder zitiert.
 
 ## Die Menschheit sollte Ihr Tun hinterfragen
 
@@ -139,10 +146,8 @@ Aufstehen und das in Worte fassen, was so vielen auf der Zunge liegt. Wir dürfe
 hoffen, dass genau das uns eines Tages aus der Patsche helfen wird. Besser
 heute, als morgen. Denn wie eine Weisheit der Cree besagt:
 
-<blockquote>Erst, wenn der letzte Baum gerodet,
-der letzte Fluss vergiftet,
-der letzte Fisch gefangen ist,
-werden wir feststellen, dass man Geld nicht essen kann."</blockquote>
+> Erst, wenn der letzte Baum gerodet, der letzte Fluss vergiftet, der letzte
+> Fisch gefangen ist, werden wir feststellen, dass man Geld nicht essen kann."
 
 Alles "denen da oben", den Lobbyisten, Großkonzernen und Banken zu überlassen.
 Genau das wird uns auf Dauer einfach nicht weiterbringen. Am Beispiel der
@@ -191,7 +196,9 @@ des Menschen in der Welt". Aber auch "Persönliche Art und Weise, das Leben und
 die Dinge zu betrachten". Genau das ist es, was zählt. Sollte man mal drüber
 nachdenken.
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+  [Transparenz-Seite](/werbung/). _
+
+  

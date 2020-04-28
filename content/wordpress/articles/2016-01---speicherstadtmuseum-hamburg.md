@@ -4,12 +4,11 @@ seoTitle: Das Speicherstadtmuseum in Hamburg - Klein aber fein
 slug: das-speicherstadtmuseum-in-hamburg-klein-aber-fein
 link: /2016/01/das-speicherstadtmuseum-in-hamburg-klein-aber-fein/
 fileName: 2016-01---speicherstadtmuseum-hamburg.md
-description:
-  Eingebettet zwischen Kaispeichern, Restaurants und weiteren Museen ist das
-  gemütliche Hamburger Speicherstadtmuseum zu finden - Eine Bildergalerie
-excerpt:
-  Eingebettet zwischen Kaispeichern, Restaurants und weiteren Museen ist das
-  gemütliche Hamburger Speicherstadtmuseum zu finden.
+description: Eingebettet zwischen Kaispeichern, Restaurants und weiteren Museen
+  ist das gemütliche Hamburger Speicherstadtmuseum zu finden - Eine
+  Bildergalerie
+excerpt: Eingebettet zwischen Kaispeichern, Restaurants und weiteren Museen ist
+  das gemütliche Hamburger Speicherstadtmuseum zu finden.
 focusKeyword: Speicherstadtmuseum
 labels:
   - Hamburg
@@ -25,12 +24,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13729"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Lagerhaus zum Anfassen
+  
 ---
 
 ![Speicherstadtmuseum](http://cardamonchai.com/wp-content/uploads/2016/01/24494461322_6ea951b9d2_z-640x480.jpg)
 
-<strong>
+**Klein aber fein ist das Speicherstadtmuseum, das mitten zwischen Kaispeichern,
+Restaurants und weiteren Museen eingebettet am Hamburger Sandtorkai 36 zu finden
+ist. Zu entdecken gibt es dort allerlei Wissenswertes über die wohl berühmtesten
+Backsteinbauten der Hansestadt.**
 
 In gemütlicher Atmosphäre durchläuft man darin eine ausgewählte Ausstellung aus
 Maschinen, Kaffeesäcken und Fässern. Alles darf angefasst und beschnuppert
@@ -54,3 +59,5 @@ ein paar Bilder gemacht, mit denen Ihr einen kleinen Eindruck bekommt.
 
 Echte Fernwehbilder von den Hamburger Landungsbrücken
 [findet Ihr hier](/2016/01/landungsbruecken-24-dezember-2015/).
+
+  

@@ -4,14 +4,12 @@ seoTitle: Unboxing Sauberkunst - Handgefertigte vegane Kosmetik mit Zauberduft
 slug: unboxing-sauberkunst
 link: /2018/02/unboxing-sauberkunst/
 fileName: 2018-02---unboxing-sauberkunst.md
-description:
-  Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in Berlin. Die
-  Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut und
-  Haare.
-excerpt:
-  Werbung - Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in Berlin. Die
-  Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut und
-  Haare.
+description: Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in Berlin.
+  Die Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut
+  und Haare.
+excerpt: Werbung - Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in
+  Berlin. Die Naturseifen und Kosmetikprodukte betören die Nase und sind gut für
+  Haut und Haare.
 focusKeyword: Sauberkunst
 labels:
   - festes Shampoo
@@ -35,17 +33,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19309"
+image: /img/demo.jpg
+errors: []
 subTitle: Handgefertigte vegane Kosmetik mit Zauberduft
+  
 ---
 
 Werbung\*
 
-<strong>"Sauberkunst" - Das ist eine vegane Seifenmanufaktur mit Sitz in Berlin.
-Die Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut und
+**"Sauberkunst" - Das ist eine vegane Seifenmanufaktur mit Sitz in Berlin. Die
+Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut und
 Haare. In den veganen Foren im Internet liest man häufig über die
 phantasievollen, pflegenden Kunstwerke. Weil sich meine Neugierde nicht mehr
 unterdrücken lassen wollte, entschied ich mich dazu, einen Unboxing-Moment in
-hier im Blog zu posten.</strong>
+hier im Blog zu posten.**
 
 Begleitet von ein paar Fotos möchte ich Euch an meinen ersten Eindrücken und
 Erfahrungen mit Sauberkunst teilhaben lassen.
@@ -95,11 +96,11 @@ Seifenschale in Wohlgefallen auflöst.
 
 ![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/01/25008095327_de7c0c745a_z-300x200.jpg)
 
-mit leichtem Gepäck finde ich ein festes Shampoo klasse. Man kann es einfach in
-einen Waschlappen oder etwas anderes einwickeln und spart ohne Ende Platz.
-Außerdem läuft man nicht Gefahr, dass die Shampooflasche im Rucksack aufgeht und
-sich über die kompletten Klamotten ergießt. Ist doch jedem schon mal passiert,
-oder?
+Besonders für [Reisen](/category/unterwegs/reisen/) mit leichtem Gepäck finde
+ich ein festes Shampoo klasse. Man kann es einfach in einen Waschlappen oder
+etwas anderes einwickeln und spart ohne Ende Platz. Außerdem läuft man nicht
+Gefahr, dass die Shampooflasche im Rucksack aufgeht und sich über die kompletten
+Klamotten ergießt. Ist doch jedem schon mal passiert, oder?
 
 Ein paar Vorurteile habe ich beim Testen des Shampoos auch mitgebracht. Ich habe
 schon mal eine Zeitlang feste Shampoos verwendet und hatte nach einer Weile das
@@ -113,7 +114,13 @@ ich keine zusätzliche Pflege.
 
 ![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/01/26006529588_b8d8ba4e32_z-300x200.jpg)
 
-auf und habe seitdem babyzarte Haut ohne trockene Stellen.
+Nun zu meinem absoluten Highlight im Sauberkunst Päckchen: Das
+Sanddorn-Gesichtsöl für trockene Haut rockt total. Die Sauberkünstler bezeichnen
+es als ihr "flüssiges Gold" und haben damit nicht unrecht. Wirkstoffe wie
+Bio-Nachtkerzenöl, Bio-Distelöl und Bio-Haferöl wirken zusammen gegen trockenen
+Haut und hemmen Entzündungen. Ich trage es inzwischen regelmäßig im Anschluss an
+die Gesichtsbehandlung mit meinem [Lieblingstoner](/2018/01/santaverde/) auf und
+habe seitdem babyzarte Haut ohne trockene Stellen.
 
 Das "Merlin" Peeling wirkt unreiner Haut entgegen. Es riecht etwas erdig nach
 Zedern- und Sandelholz. Schon eine sehr kleine Portion reicht für das komplette
@@ -183,6 +190,8 @@ ids="19308,19312,19304,19314,19310,19306,19316"]
 Zum Sauberkunst Online Shop geht es
 [hier entlang](http://www.sauberkunst.de/epages/es948784.sf/de_DE/?ObjectPath=/Shops/es948784/Categories).
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

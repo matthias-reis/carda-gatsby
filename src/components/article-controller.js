@@ -4,6 +4,7 @@ import { MDXRenderer } from 'gatsby-plugin-mdx';
 import { graphql } from 'gatsby';
 
 import { Article } from './article';
+import { ErrorBoundary } from './error-boundary';
 import { Meme } from './meme';
 import { Youtube } from './youtube';
 import { Playlist } from './playlist';
@@ -18,9 +19,11 @@ export default function ArticleController({ data }) {
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
       <Frame>
-        <Article meta={{ ...data.mdx.frontmatter, ...data.mdx.fields }}>
-          <MDXRenderer>{data.mdx.body}</MDXRenderer>
-        </Article>
+        <ErrorBoundary>
+          <Article meta={{ ...data.mdx.frontmatter, ...data.mdx.fields }}>
+            <MDXRenderer>{data.mdx.body}</MDXRenderer>
+          </Article>
+        </ErrorBoundary>
       </Frame>
     </MDXProvider>
   );
@@ -35,8 +38,8 @@ export const query = graphql`
       }
       frontmatter {
         title
-        subtitle
         subTitle
+        link
         description
         image {
           childImageSharp {

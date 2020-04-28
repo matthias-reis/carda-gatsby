@@ -4,12 +4,10 @@ seoTitle: Rote Bete Burgerbrötchen - vegan, leicht und lecker
 slug: rote-bete-burgerbroetchen
 link: /2019/12/rote-bete-burgerbroetchen/
 fileName: 2019-12---rote-bete-burgerbroetchen.md
-description:
-  Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch teilen.
-  Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
-excerpt:
-  Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch teilen.
-  Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
+description: Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch
+  teilen. Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
+excerpt: Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch
+  teilen. Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
 focusKeyword: Burgerbrötchen
 labels:
   - Brötchen
@@ -32,12 +30,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27191"
+image: /img/demo.jpg
+errors: []
 subTitle: Nach einem Rezept aus der Kurkuma Kochschule
+  
 ---
 
-<strong>Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch
-teilen. Die pinken Rundstücke sind nicht nur besonders lecker, sie kommen auch
-mit einem speziellen Twist - sie werden mit Rote Bete Saft verfeinert.</strong>
+**Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch teilen.
+Die pinken Rundstücke sind nicht nur besonders lecker, sie kommen auch mit einem
+speziellen Twist - sie werden mit Rote Bete Saft verfeinert.**
 
 Das erste Mal probiert habe ich die Brötchen bei der Verkostung der
 [veganen Alternative für Fischbrötchen](/2019/12/vegane-fischbroetchen-for-future/)
@@ -46,15 +47,13 @@ selbst gebacken - das Rezept ist ganz einfach und gelingt sehr gut!
 
 ## Zutaten für 4 - 6 Burgerbrötchen
 
-<ul>
-    <li>250 Gramm Dinkelmehl Typ 630</li>
-    <li>1/2 Packung Trockenhefe</li>
-    <li>100 ml Rote Bete Saft</li>
-    <li>1/2 TL Salz</li>
-    <li>60 ml lauwarmes Wasser</li>
-    <li>Sesam oder andere Samen zum Bestreuen</li>
-    <li>Etwas Gram (Kichererbsenmehl) für die Arbeitsfläche</li>
-</ul>
+- 250 Gramm Dinkelmehl Typ 630
+- 1/2 Packung Trockenhefe
+- 100 ml Rote Bete Saft
+- 1/2 TL Salz
+- 60 ml lauwarmes Wasser
+- Sesam oder andere Samen zum Bestreuen
+- Etwas Gram (Kichererbsenmehl) für die Arbeitsfläche
 
 ## Zubereitung
 
@@ -98,3 +97,5 @@ auf meiner Seite verpassen wollt,
 [abonniert gerne meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
 Rezept: [Kurkuma Kochschule Hamburg](https://www.kurkuma-hamburg.de/)
+
+  

@@ -1,16 +1,14 @@
 ---
 title: Ringana Frischekosmetik
-seoTitle:
-  Ringana - Ganzheitliche Schönheit aus der Steiermark - Der ultimative
+seoTitle: Ringana - Ganzheitliche Schönheit aus der Steiermark - Der ultimative
   Produkttest
 slug: ringana-frischekosmetik
 link: /2017/05/ringana-frischekosmetik
 fileName: 2017-05---ringana-frischekosmetik.md
-description:
-  Die Macher von Ringana haben sich ein ganz besonderes Konzept überlegt. Ihr
-  Ansatz ist ganzheitlich. Ihre Produkte wirken besonders durch ihre Frische.
-excerpt:
-  Werbung - Die Macher von Ringana haben sich ein ganz besonderes Konzept
+description: Die Macher von Ringana haben sich ein ganz besonderes Konzept
+  überlegt. Ihr Ansatz ist ganzheitlich. Ihre Produkte wirken besonders durch
+  ihre Frische.
+excerpt: Werbung - Die Macher von Ringana haben sich ein ganz besonderes Konzept
   überlegt. Ihr Ansatz ist ganzheitlich. Ihre Produkte wirken besonders durch
   ihre Frische.
 focusKeyword: Ringana
@@ -60,30 +58,38 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16647"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (127:27)"
 subTitle: '"Wir möchten Europas Badezimmer Erdöl-frei machen"'
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (127:27)
+
+<!--
 Werbung\*
 
 ## Ganzheitliche Schönheit aus der Steiermark
 
 ![Ringana](http://cardamonchai.com/wp-content/uploads/2017/05/34329391820_badd832645_k-640x427.jpg)
 
-<strong>Sophie ist geradeheraus. "Möchtest Du unsere Produkte testen?", fragt
-sie mich. Ganz klar und ohne Umschweife. Und genau so sind auch die Produkte des
-österreichischen Herstellers Ringana. </strong>
+**Sophie ist geradeheraus. "Möchtest Du unsere Produkte testen?", fragt sie
+mich. Ganz klar und ohne Umschweife. Und genau so sind auch die Produkte des
+österreichischen Herstellers Ringana.**
 
-Wahrscheinlich begründet sich darin auch der große Erfolg von <em>Ringana</em>.
-Über 400.000 Kunden hat der vegane Kosmetikhersteller in ganz Europa. Der
+Wahrscheinlich begründet sich darin auch der große Erfolg von _Ringana_ . Über
+400.000 Kunden hat der vegane Kosmetikhersteller in ganz Europa. Der
 Wiederbestellwert liegt bei 70 Prozent.
 
-<em>Ringana </em>unterscheidet sich von anderen Kosmetikherstellern in einem
-Punkt sehr stark: Es wird mit einem ganzheitlichen Ansatz
-gearbeitet. <em>Ringana </em>wirkt nicht nur von außen auf die Schönheit und
-Gesundheit ein, sondern auch von innen. So zeigt mir Sophie nicht nur Cremes,
-Seren, Seifen und Co, sondern auch verschiedene Nahrungsergänzungsmittel. Sie
-sollen unter anderem dabei helfen, die Haut zu klären, Fältchen zu mindern, den
-Körper zu entschlacken und freie Radikale auszuleiten.
+_Ringana_ unterscheidet sich von anderen Kosmetikherstellern in einem Punkt sehr
+stark: Es wird mit einem ganzheitlichen Ansatz gearbeitet.  _Ringana_ wirkt
+nicht nur von außen auf die Schönheit und Gesundheit ein, sondern auch von
+innen. So zeigt mir Sophie nicht nur Cremes, Seren, Seifen und Co, sondern auch
+verschiedene Nahrungsergänzungsmittel. Sie sollen unter anderem dabei helfen,
+die Haut zu klären, Fältchen zu mindern, den Körper zu entschlacken und freie
+Radikale auszuleiten.
 
 ## Ringana macht einen Hauttest
 
@@ -99,12 +105,12 @@ Partien.
 
 Als mein Paket aus Hartberg in der Steiermark bei mir ankommt, bin ich freudig
 überrascht. Nicht nur die angekündigten Kosmetikpröbchen purzeln heraus, sondern
-auch jede Menge Infos. Bei <em>Ringana</em> hat man zum Beispiel ein Handbuch
+auch jede Menge Infos. Bei  _Ringana_ hat man zum Beispiel ein Handbuch
 erstellt, in dem alle Produkte und ihre Inhaltsstoffe nicht nur offen dargelegt
 werden, sondern auch ihre Wirkweise sowie die Anwendung detailgenau erklärt
 wird.
 
-<em>Ringana</em> bietet reinigende und tonisierende Produkte an, Intensivpflege,
+_Ringana_  bietet reinigende und tonisierende Produkte an, Intensivpflege,
 Basispflege, Kosmetik für Männer, Spezialpflege, Körperpflege, Haarpflege,
 Sonnenpflege, Produkte für SportlerInnen und sogar Zahnpflege. Außerdem gibt es
 sogenannte "Frische Drinks", "Frische Packs" und "Frische Caps", die die
@@ -127,18 +133,18 @@ Gehandelt werden soll stets umweltfreundlich und nach ethischen Werten.
 Tierversuche kommen daher gar nicht erst in Frage. Das gilt nicht nur für die
 Endprodukte, sondern auch für alle Rohstoffe. Auch in der Forschung und
 Entwicklung wird komplett darauf verzichtet. Die Schonung natürlicher Ressourcen
-liegt <em>Ringana</em> besonders am Herzen. Inhaltsstoffe tierischer Herkunft
-kommen daher von jeher nicht in Frage. Dafür wurde das Unternehmen unter anderem
-von <em>PETA</em> und <em>4 Pfoten</em> positiv gelistet.
+liegt _Ringana_  besonders am Herzen. Inhaltsstoffe tierischer Herkunft kommen
+daher von jeher nicht in Frage. Dafür wurde das Unternehmen unter anderem von
+_PETA_ und _4 Pfoten_ positiv gelistet.
 
-<em>Ringana</em> gibt es jetzt seit 21 Jahren und das Konzept hat sich bewährt.
-Die Partner, inzwischen gibt es 24.000 von ihnen, schwärmen in den höchsten
-Tönen. Und das kommt nicht von ungefähr. Es wurde an alles gedacht. Das
-Füllmaterial in den Versandboxen besteht aus Maisstärke und ist kompostierbar.
-Der Karton ist klimafreundlich, das Klebeband besteht aus Naturkautschuk. Die
-Gesichtspflege wird zum Teil in Glastiegeln verpackt. Sammelt man als Kunde zehn
-Stück davon und sendet sie zurück, bekommt man als Dankeschön, dass man sie dem
-Kreislauf wieder zugeführt hat ein Gratis-Produkt nach Wahl geschenkt.
+_Ringana_ gibt es jetzt seit 21 Jahren und das Konzept hat sich bewährt. Die
+Partner, inzwischen gibt es 24.000 von ihnen, schwärmen in den höchsten Tönen.
+Und das kommt nicht von ungefähr. Es wurde an alles gedacht. Das Füllmaterial in
+den Versandboxen besteht aus Maisstärke und ist kompostierbar. Der Karton ist
+klimafreundlich, das Klebeband besteht aus Naturkautschuk. Die Gesichtspflege
+wird zum Teil in Glastiegeln verpackt. Sammelt man als Kunde zehn Stück davon
+und sendet sie zurück, bekommt man als Dankeschön, dass man sie dem Kreislauf
+wieder zugeführt hat ein Gratis-Produkt nach Wahl geschenkt.
 
 ## Klimaschutzpreis für Ringana
 
@@ -148,11 +154,11 @@ Bedruckt werden die Kartons und Fläschchen ausschließlich mit Pflanzenfarben, 
 kommt außerdem nur Recyclingpapier zum Einsatz. Die Flakons aus Glas werden für
 den Versand mit Handtüchern aus Biobaumwolle eingerollt.
 
-Das grüne Unternehmen wurde 2015 vom Fernsehsender <em>ORF </em>mit dem
+Das grüne Unternehmen wurde 2015 vom Fernsehsender _ORF_ mit dem
 Klimaschutzpreis ausgezeichnet. Für die umweltfreundlichen Verpackungen gab es
-sogar schon mehrere Auszeichnungen, unter anderem der T<em>rigos Award</em>, der
-als Oscar für Nachhaltigkeit bekannt ist. Erst vor zwei Wochen gab es dann den
-<em>European Business Award</em>, für den sich 33.000 Firmen aus 34 europäischen
+sogar schon mehrere Auszeichnungen, unter anderem der T _rigos Award_ , der als
+Oscar für Nachhaltigkeit bekannt ist. Erst vor zwei Wochen gab es dann den
+_European Business Award_ , für den sich 33.000 Firmen aus 34 europäischen
 Ländern beworben hatten.
 
 Doch nun vorerst genug der Lobhudelei und ran an die Buletten. Hier sind meine
@@ -315,7 +321,7 @@ Zuerst war ich etwas verunsichert, da ich keine umfangreiche Pflegeroutine
 gewöhnt war. Normalerweise klatsche ich morgens ein Bisschen Wasser ins Gesicht,
 lasse die Tagescreme beim Zähneputzen einziehen und schminke mich dann.
 Inzwischen erfreue ich mich jedoch an einem nahezu makellosen Teint und kann mir
-deshalb gut vorstellen, <em>Ringana</em> auch weiterhin anzuwenden.
+deshalb gut vorstellen, _Ringana_ auch weiterhin anzuwenden.
 
 Was mir besonders gut gefällt, ist die ganzheitliche Herangehensweise. Man hat
 erkannt, dass Hautgesundheit nicht nur durch äußerliche Einwirkung erreicht
@@ -344,18 +350,18 @@ er sich auf die Suche  nach Alternativen. Nachdem er nichts Zufriedenstellendes
 gefunden hatte, begann er in Kooperation mit Biochemikern seine ersten eigenen
 Produkte zu entwickeln, darunter auch das oben erwähnte Zahnöl. Anfangs
 verkaufte er seine Produkte lediglich an die Gäste seiner Eltern. Nachdem die
-Nachfrage immer größer wurde, wollte er <em>Ringana</em> auch in den Handel
-bringen. Die Apotheken und Reformhäuser wollten jedoch, dass er seine Produkte
+Nachfrage immer größer wurde, wollte er _Ringana_ auch in den Handel bringen.
+Die Apotheken und Reformhäuser wollten jedoch, dass er seine Produkte
 konservierte. Weil er diesen Kompromiss nicht eingehen wollte, gründete er sein
 "Frischepartner-System".
 
 ## Verzicht auf Zusatzstoffe
 
-Auf bezahlte Werbung wird bei <em>Ringana</em> komplett verzichtet.
-"Frischepartner" wie Sophie kümmern sich um das Empfehlungsmarketing, verkaufen
-jedoch keine Produkte. Wer Interesse hat, bestellt im Online-Shop. Zeitschriften
-schreiben immer wieder aus eigenem Interesse über den Frischkosmetik-Hersteller.
-Die Firmenphilosophie lautet "100 Prozent Frische, 100 Prozent Wirkstoff, 100
+Auf bezahlte Werbung wird bei _Ringana_ komplett verzichtet. "Frischepartner"
+wie Sophie kümmern sich um das Empfehlungsmarketing, verkaufen jedoch keine
+Produkte. Wer Interesse hat, bestellt im Online-Shop. Zeitschriften schreiben
+immer wieder aus eigenem Interesse über den Frischkosmetik-Hersteller. Die
+Firmenphilosophie lautet "100 Prozent Frische, 100 Prozent Wirkstoff, 100
 Prozent Konsequenz, 100 Prozent Ethik". Alle Inhaltsstoffe werden direkt vor Ort
 in der Steiermark frisch verarbeitet und sorgsam wie Lebensmittel behandelt.
 
@@ -365,10 +371,14 @@ noch ein umfangreiches Interview mit ihr.
 
 ![Ringana | large](http://cardamonchai.com/wp-content/uploads/2017/05/33871357674_b61457c8be_k-800x533.jpg)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
-<em>Hinweis von Ringana: Dies ist keine offizielle Einschaltung der Ringana
-GmbH, Sophie Kluppenegger ist selbständige Ringana Frischepartnerin und der
-Inhalt beruht auf ihren persönlichen Erfahrungen.</em>
+_Hinweis von Ringana: Dies ist keine offizielle Einschaltung der Ringana GmbH,
+Sophie Kluppenegger ist selbständige Ringana Frischepartnerin und der Inhalt
+beruht auf ihren persönlichen Erfahrungen._
+
+-->
+
+  

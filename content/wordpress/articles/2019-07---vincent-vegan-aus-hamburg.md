@@ -4,12 +4,11 @@ seoTitle: Vincent Vegan - vom Geheimtipp zum Fastfood Superstar
 slug: vincent-vegan-aus-hamburg
 link: /2019/07/vincent-vegan-aus-hamburg/
 fileName: 2019-07---vincent-vegan-aus-hamburg.md
-description:
-  Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald in aller
-  Munde ist. Genau so war das auch mit Vincent Vegan. Und das ist gut so.
-excerpt:
-  Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald in aller
-  Munde ist. Genau so war das auch mit Vincent Vegan. Und das ist gut so.
+description: Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald
+  in aller Munde ist. Genau so war das auch mit Vincent Vegan. Und das ist gut
+  so.
+excerpt: Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald in
+  aller Munde ist. Genau so war das auch mit Vincent Vegan. Und das ist gut so.
 focusKeyword: Vincent Vegan
 labels:
   - Berlin
@@ -26,15 +25,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25572"
+image: /img/demo.jpg
+errors: []
 subTitle: Vom Geheimtipp zum Fastfood Superstar
+  
 ---
 
-<strong>Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald in
-aller Munde ist. Genau so war das auch</strong> <strong>mit Vincent Vegan. Und
-das ist gut so. Heute kennt jeder die kreativen Veganer, die ihren Siegeszug mit
-einem </strong><strong>Foodtruck antraten. Seitdem hat sich einiges getan. Als
-Fan der ersten Stunde durfte ich beobachten, wie sich </strong><strong>das
-Lauffeuer verbreitete.</strong>
+**Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald in aller
+Munde ist. Genau so war das auch** **mit Vincent Vegan. Und das ist gut so.
+Heute kennt jeder die kreativen Veganer, die ihren Siegeszug mit einem**
+**Foodtruck antraten. Seitdem hat sich einiges getan. Als Fan der ersten Stunde
+durfte ich beobachten, wie sich** **das Lauffeuer verbreitete.**
 
 Die Erfolgsgeschichte begann vor nunmehr fünf Jahren, als sich der Gründer,
 Unternehmensberater Christian Kuper, die Sinnfrage stellte. Für ihn war schnell
@@ -112,11 +113,13 @@ bei den St. Pauli Spielen außerdem schon fest zum Programm.
 
 ![vincent-vegan | full](http://cardamonchai.com/wp-content/uploads/2019/07/VV_Fuchsbau_31.jpg)
 
-noch drei weitere feste Stände. Einer davon in der Berliner East Side Mall und
-zwei weitere in Hamburg (Einkaufszentrum "Mercado" in Altona Ottensen und
-"Europa Passage" in der Neustadt). Alle drei werden gut frequentiert und
-erfreuen sich nicht nur unter Veganer\*innen großer Beliebtheit. Da neue Konzept
-"feste Stände in Foodcourts" geht also voll auf.
+Nachdem dem großen Erfolg der Base in Altona, gibt es inzwischen, neben dem im
+[Millerntor Stadion](/2016/05/millerntor-stadion-hamburg/)  noch drei weitere
+feste Stände. Einer davon in der Berliner East Side Mall und zwei weitere in
+Hamburg (Einkaufszentrum "Mercado" in Altona Ottensen und "Europa Passage" in
+der Neustadt). Alle drei werden gut frequentiert und erfreuen sich nicht nur
+unter Veganer\*innen großer Beliebtheit. Da neue Konzept "feste Stände in
+Foodcourts" geht also voll auf.
 
 Das erklärte Ziel der Vincent Truppe ist es, die erste vegane Fast-Food-Kette
 der Welt zu werden. Ein stabiles Fundament ist bereits vorhanden. Ich wünsche
@@ -127,5 +130,7 @@ Wer Vincent Vegan noch nicht kennt oder mal wieder vorbei schauen möchte,
 
 Fotos: [Vincent Vegan](https://www.vincent-vegan.com)
 
-<strong>Hinweis:</strong> Dieser Artikel ist bereits 2016 erschienen. Ich habe
-ihn ein bisschen aufgehübscht und aktualisiert.
+**Hinweis:** Dieser Artikel ist bereits 2016 erschienen. Ich habe ihn ein
+bisschen aufgehübscht und aktualisiert.
+
+  

@@ -4,12 +4,12 @@ seoTitle: Steven Wilson live @ CCH Congress Center Hamburg
 slug: steven-wilson-live-cch-congress-center-hamburg
 link: /2016/01/steven-wilson-live-cch-congress-center-hamburg/
 fileName: 2016-01---steven-wilson-live-cch-congress-center-hamburg.md
-description:
-  Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit Band kurz
-  vor der Veröffentlichung seines neuen Albums auf seinem Konzert in Hamburg.
-excerpt:
-  Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit Band kurz
-  vor der Veröffentlichung seines neuen Albums auf seinem Konzert in Hamburg.
+description: Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit
+  Band kurz vor der Veröffentlichung seines neuen Albums auf seinem Konzert in
+  Hamburg.
+excerpt: Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit Band
+  kurz vor der Veröffentlichung seines neuen Albums auf seinem Konzert in
+  Hamburg.
 focusKeyword: Steven Wilson
 labels:
   - CCH Congress Center
@@ -35,12 +35,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13763"
+image: /img/demo.jpg
+errors: []
 subTitle: Perfekt. Nachdenklich. Unvergesslich.
+  
 ---
 
-<strong>Nachdem es vom letzten Steven Wilson Konzert vor zwei Jahren in München
-keinen Bericht gab, habe ich dieses Mal wenigstens ein paar Erinnerungen
-mitgebracht. </strong>
+**Nachdem es vom letzten Steven Wilson Konzert vor zwei Jahren in München keinen
+Bericht gab, habe ich dieses Mal wenigstens ein paar Erinnerungen mitgebracht.**
 
 ![Steven Wilson live in Hamburg](http://cardamonchai.com/wp-content/uploads/2016/01/24410958715_79e2c52047_z-640x640.jpg)
 
@@ -64,7 +66,14 @@ Spätestens beim fünften Song "Routine" war jedes Wort im Saal verstummt und
 keiner hatte mehr andere Dinge im Kopf als die traurige Geschichte der Frau, von
 der das Album handelt.
 
-<blockquote>"The basic story, or concept of the record – it's about a woman growing up, who goes to live in the city, very isolated, and she disappears one day and no one notices. There's more to it than that. Now, what's really interesting about this story is that your initial reaction when you hear a story like that is, 'Ah, little old bag lady that no one notices, no one cares about.' [Vincent] wasn't [like that]. She was young, she was popular, she was attractive, she had many friends, she had family, but for whatever reason, nobody missed her for three years."</blockquote>
+> "The basic story, or concept of the record – it's about a woman growing up,
+> who goes to live in the city, very isolated, and she disappears one day and no
+> one notices. There's more to it than that. Now, what's really interesting
+> about this story is that your initial reaction when you hear a story like that
+> is, 'Ah, little old bag lady that no one notices, no one cares about.'
+> [Vincent] wasn't [like that]. She was young, she was popular, she was
+> attractive, she had many friends, she had family, but for whatever reason,
+> nobody missed her for three years."
 
 Nach der Erfrischungspause startete die Band mit dem Storm Corrosion Song "Drag
 Ropes", das in "Book Of Regrets" überging. Als Steven Wilson vor dem Song
@@ -83,42 +92,39 @@ Muzak" und "Dark Matter" gingen unglaublich unter die Haut.
 
 ### Teil 1 (Hand. Cannot. Erase.)
 
-<ol>
-    <li>First Regret</li>
-    <li>3 Years Older</li>
-    <li>Hand Cannot Erase</li>
-    <li>Perfect Life</li>
-    <li>Routine</li>
-    <li>Home Invasion</li>
-    <li>Regret #9</li>
-    <li>Transience</li>
-    <li>Ancenstral</li>
-    <li>Happy Returns</li>
-    <li>Ascendant Here On...</li>
-</ol>
+1.  First Regret
+1.  3 Years Older
+1.  Hand Cannot Erase
+1.  Perfect Life
+1.  Routine
+1.  Home Invasion
+1.  Regret #9
+1.  Transience
+1.  Ancenstral
+1.  Happy Returns
+1.  Ascendant Here On...
 
 ### Teil 2
 
-<ol>
-    <li>Drag Ropes (Storm Corrosion)</li>
-    <li>My Book Of Regrets</li>
-    <li>Open Car (Porcupine Tree)</li>
-    <li>Index</li>
-    <li>Lazarus (Porcupine Tree)  [FÜR DAVID BOWIE](/2016/01/rip-david-bowie-abschied-von-einer-ikone/) </li>
-    <li>Don't Hate Me (Porcupine Tree)</li>
-    <li>Vermillioncore</li>
-    <li>Sleep Together (Porcupine Tree)</li>
-</ol>
+1.  Drag Ropes (Storm Corrosion)
+1.  My Book Of Regrets
+1.  Open Car (Porcupine Tree)
+1.  Index
+1.  Lazarus (Porcupine Tree)
+    [FÜR DAVID BOWIE](/2016/01/rip-david-bowie-abschied-von-einer-ikone/)
+1.  Don't Hate Me (Porcupine Tree)
+1.  Vermillioncore
+1.  Sleep Together (Porcupine Tree)
 
 ### Zugabe
 
-<ol>
-    <li>The Sound Of Muzak (Porcupine Tree)</li>
-    <li>Dark Matter (Porcupine Tree)</li>
-</ol>
+1.  The Sound Of Muzak (Porcupine Tree)
+1.  Dark Matter (Porcupine Tree)
 
 Vom Mark Lanegan Konzert letzten Februar in München
 [findet Ihr hier ein paar Eindrücke](/2015/03/mark-lanegan-live-freiheiz-muenchen/).
 
 Mehr über das Hand.Cannot.Erase. Album, seine Geschichte und Entstehung
 [findet Ihr hier](https://en.wikipedia.org/wiki/Hand._Cannot._Erase.).
+
+  

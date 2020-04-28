@@ -4,12 +4,10 @@ seoTitle: Newpharma - Eine neue Onlineapotheke aus Belgien im Vegan-Test
 slug: newpharma-eine-neue-onlineapotheke-im-vegan-test
 link: /2018/05/newpharma-eine-neue-onlineapotheke-im-vegan-test/
 fileName: 2018-05---newpharma-im-vegan-test.md
-description:
-  Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test
-  unterzogen. Kann man dort vegan und cruelty free bestellen?
-excerpt:
-  Werbung - Ich habe jetzt die Belgische Onlineapotheke Newpharma dem Vegan-Test
-  unterzogen. Kann man dort vegan und cruelty free bestellen?
+description: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem
+  Vegan-Test unterzogen. Kann man dort vegan und cruelty free bestellen?
+excerpt: Werbung - Ich habe jetzt die Belgische Onlineapotheke Newpharma dem
+  Vegan-Test unterzogen. Kann man dort vegan und cruelty free bestellen?
 focusKeyword: Newpharma
 labels:
   - beauty
@@ -56,17 +54,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20981"
+image: /img/demo.jpg
+errors: []
 subTitle: Onlineapotheke ausprobiert
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Wie viele von Euch mitbekommen haben, habe ich eine Schwäche für
-Belgien. Seit ich das erste Mal dort war, bin ich fasziniert und auch
+**Wie viele von Euch mitbekommen haben, habe ich eine Schwäche für Belgien. Seit
+ich das erste Mal dort war, bin ich fasziniert und auch
 [aufs Festival](/?s=dunk%21) zieht es mich dort immer wieder. Ich mag die Filme,
 das Bier, die Schokolade, die Menschen und die Kultur. Jetzt habe ich die
 Belgische Versandapotheke Newpharma, die jetzt auch bei uns Fuß fassen möchte,
-dem Vegan-Test unterzogen.</strong>
+dem Vegan-Test unterzogen.**
 
 Als Allererstes möchte ich den freundlichen persönlichen Kontakt erwähnen, der
 mir bei der Auswahl meiner Produkte sehr geholfen hat. Derzeit ist im Shop noch
@@ -80,15 +81,13 @@ Stelle!
 Die folgenden Produkte sind bei Newpharma vegan und crueltyfree, können also
 bedenkenlos bestellt werden:
 
-<ul>
-    <li>Omuh</li>
-    <li>Lady Green</li>
-    <li>Karetic</li>
-    <li>Copaïba</li>
-    <li>Nuxe</li>
-    <li>Lavera</li>
-    <li>Einige Produkte von Weleda</li>
-</ul>
+- Omuh
+- Lady Green
+- Karetic
+- Copaïba
+- Nuxe
+- Lavera
+- Einige Produkte von Weleda
 
 Die letzten beiden Marken kennt Ihr auch bereits aus dem Deutschen Einzelhandel.
 Alle anderen sind original Belgisch oder Französisch. Nicht alle Produkte von
@@ -213,6 +212,8 @@ geworden ist,
 [findet den Onlineshop von Newpharma hier](https://www.newpharma.de/) ! Viel
 Spaß beim Stöbern!
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

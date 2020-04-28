@@ -4,11 +4,10 @@ seoTitle: Crippled Black Phoenix live im Hamburger Knust - "Echoes und Tiere"
 slug: crippled-black-phoenix-live-im-hamburger-knust
 link: /2019/04/crippled-black-phoenix-live-im-hamburger-knust/
 fileName: 2019-04---crippled-black-phoenix-live-im-hamburger-knust.md
-description:
-  Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix im
-  Hamburger Club Knust ab. Für Euch habe ich einen kleinen Bericht geschrieben.
-excerpt:
-  Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix im
+description: Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix
+  im Hamburger Club Knust ab. Für Euch habe ich einen kleinen Bericht
+  geschrieben.
+excerpt: Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix im
   Hamburger Club Knust ab.
 focusKeyword: Crippled Black Phoenix
 labels:
@@ -27,11 +26,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23871"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Echoes" und Tiere'
+  
 ---
 
-<strong>Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix
-am 24. März im Hamburger Club Knust ab.</strong>
+**Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix am 24.
+März im Hamburger Club Knust ab.**
 
 Das Publikum lauschte andächtig den Songs der britischen Band. Höhepunkt der
 Show war eine Darbietung, die man nicht alle Tage erlebt: "Echoes" von Pink
@@ -53,20 +55,18 @@ der Prog-Combo. Darum ist es auch auf
 Insgesamt haben wir im Knust einen mehr als gelungenen Abend erlebt. Für Euch
 habe ich hier noch die Setlist des Konzerts.
 
-<ul>
-    <li>To You I Give</li>
-    <li>No Fun</li>
-    <li>Champions</li>
-    <li>Caring/Poznan</li>
-    <li>Rain Black</li>
-    <li>Nebulas</li>
-    <li>Great Escape Pt. 1</li>
-    <li>Devil</li>
-    <li>Golden Boy</li>
-    <li>Fantastic Justice</li>
-    <li>We Forgotten</li>
-    <li>Echoes</li>
-</ul>
+- To You I Give
+- No Fun
+- Champions
+- Caring/Poznan
+- Rain Black
+- Nebulas
+- Great Escape Pt. 1
+- Devil
+- Golden Boy
+- Fantastic Justice
+- We Forgotten
+- Echoes
 
 Um die Stimmung aufzufangen, habe ich zwischendurch ein paar mal auf dem
 Mobiltelefon aufs Knöpfchen gedrückt. Dem entsprechend sind meine Bilder keine
@@ -74,3 +74,5 @@ fotografischen Meisterwerke. Aber ich denke, man bekommt zumindest einen kleinen
 Eindruck.
 
 [glry name="2019-03-24-crippled-black-phoenix-knust"]
+
+  

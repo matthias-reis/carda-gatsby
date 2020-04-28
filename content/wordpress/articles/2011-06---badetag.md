@@ -4,12 +4,10 @@ seoTitle: Badetag - Tagebucheintrag
 slug: badetag
 link: /2011/06/badetag/
 fileName: 2011-06---badetag.md
-description:
-  Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen, Hundegebell und
-  0:0 in der 54 Minute. Wir haben Spaß am Leben.
-excerpt:
-  Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen, Hundegebell und
-  0:0 in der 54 Minute. Wir haben Spaß am Leben.
+description: Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen,
+  Hundegebell und 0:0 in der 54 Minute. Wir haben Spaß am Leben.
+excerpt: Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen,
+  Hundegebell und 0:0 in der 54 Minute. Wir haben Spaß am Leben.
 focusKeyword: ""
 labels:
   - aktuelles Geschehen
@@ -40,7 +38,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2058"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
 Der wärmste Tag des Jahres bisher. Nach der Arbeit die Badesachen eingepackt und
@@ -54,11 +55,13 @@ Hand hat.
 Feuerwehreinsatz, Straßensperrung, kochende Kühler und schwitzende Passanten.
 Spätestens heute ist der Sommer in der Stadt angekommen.
 
-<del>Die farbenfrohe Presse berichtet heute über <em>zu </em>schwangere
-Ex-Spice-Girls, die aus dem Ehebett fliehen</del>, de Maizière verteidigt seine
-Munition gegen Libyen, Griechenland wird von einem Generalstreik lahmgelegt, aus
-Japan werden weiterhin Strahlungsrekorde gemeldet. <del>Helmut Kohl kritisiert
-die Bücher, die sein Sohn über seine Familie geschrieben hat.</del>
+<del>Die farbenfrohe Presse berichtet heute über _zu_ schwangere Ex-Spice-Girls,
+die aus dem Ehebett fliehen</del>, de Maizière verteidigt seine Munition gegen
+Libyen, Griechenland wird von einem Generalstreik lahmgelegt, aus Japan werden
+weiterhin Strahlungsrekorde gemeldet. <del>Helmut Kohl kritisiert die Bücher,
+die sein Sohn über seine Familie geschrieben hat.</del>
 
-[youtube=http://www.youtube.com/watch?v=JLRTleMY_mc] <strong>Musik des Tages:
-</strong>Tallest Man On Earth - Tiny Desk Concert
+[youtube=http://www.youtube.com/watch?v=JLRTleMY_mc] **Musik des Tages:**
+Tallest Man On Earth - Tiny Desk Concert
+
+  

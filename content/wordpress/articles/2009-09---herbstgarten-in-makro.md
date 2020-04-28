@@ -24,7 +24,12 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11472"
+image: /img/demo.jpg
+errors: []
 subTitle: Herbstbilder aus dem Garten
+  
 ---
 
 [myflickr tag="herbstgarteninmakro2009"]
+
+  

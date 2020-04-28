@@ -4,14 +4,12 @@ seoTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
 slug: acaraa-im-test
 link: /2020/02/acaraa-im-test/
 fileName: 2020-02---acaraa-im-test.md
-description:
-  Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die
+description: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die
   Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich
   entdeckt.
-excerpt:
-  Werbung & Affiliate Links - Ich habe das Haaröl und der Hautöl von Acaraa
-  getestet. Die Naturkosmetikprodukte aus München habe ich genau im richtigen
-  Moment für mich entdeckt.
+excerpt: Werbung & Affiliate Links - Ich habe das Haaröl und der Hautöl von
+  Acaraa getestet. Die Naturkosmetikprodukte aus München habe ich genau im
+  richtigen Moment für mich entdeckt.
 focusKeyword: Acaraa
 labels:
   - Acaraa
@@ -41,20 +39,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27425"
+image: /img/demo.jpg
+errors: []
 subTitle: Natürliche Pflegeöle für Haut und Haar
+  
 ---
 
-\*<em>Werbung &amp; Affiliate Links</em>
+- _Werbung &amp; Affiliate Links_
 
 <hr />
 
-<strong>Hinweis: </strong>Weiter unten findet Ihr einen Rabattcode.
+**Hinweis:** Weiter unten findet Ihr einen Rabattcode.
 
 <hr />
 
-<strong>Ich habe das Haaröl und das Hautöl von Acaraa getestet. Die
+**Ich habe das Haaröl und das Hautöl von Acaraa getestet. Die
 Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich
-entdeckt.</strong>
+entdeckt.**
 
 Gerade gönne ich meinen Haaren eine Auszeit von Bleiche und Co. Die winterliche
 Kälte und Heizungsluft haben ihnen zusätzlich zu meinen regelmäßigen
@@ -116,7 +117,11 @@ klappt es auch ziemlich gut. Schon nach ein paar Anwendungen sahen meine
 Ellbogen schon viel besser aus und das Jucken der wirklich sehr trockenen Haut
 in den Kniekehlen war verschwunden.
 
-[das Haaröl](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fkoerper%2Fproducts%2Facaraa-natural-body-oil)
+[Das Öl](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fkoerper%2Fproducts%2Facaraa-natural-body-oil)
+lässt sich direkt nach dem Duschen auf noch etwas feuchter Haut besonders gut
+verteilen. Es zieht dann schnell ein und hinterlässt keinen klebrigen Film. Es
+duftet genau wie
+[das Haaröl](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fhaare%2Fproducts%2Facaraa-natural-hair-oil)
 sehr angenehm und konkurriert nicht mit meinem Parfum.
 
 ## Acaraa Hautöl - das ist drin
@@ -151,8 +156,13 @@ entspannend. Auch hier haben die Hersteller mitgedacht und
 entwickelt, die den charakteristischen Acaraa Duft vom Bad ins Wohnzimmer holt.
 
 Der Duft der
-[frei von Palmöl](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte%2Fproducts%2Fduftkerze-achtsamkeit).
-Für die Herstellung wurde Rapswachs verwendet.
+[Kerze](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte%2Fproducts%2Fduftkerze-achtsamkeit)
+ist angenehm und kein bisschen aufdringlich, wie das bei Duftkerzen ja gerne mal
+der Fall ist. Wenn sie abgebrannt ist, werde ich mir ziemlich sicher eine neue
+besorgen. Sie verbreitet eine schöne Atmosphäre. Und bei Kerzenlicht liest,
+kuschelt und entspannt es sich ja bekanntlich auch noch schöner. Sie ist
+übrigens [frei von Palmöl](/2015/05/palmoel/). Für die Herstellung wurde
+Rapswachs verwendet.
 
 ## Acaraa aus München
 
@@ -173,10 +183,17 @@ und Tierversuchen. Bei der Verpackung wird auf unnötiges Plastik verzichtet. So
 wurden meine Öle zum Beispiel in Glasfläschchen geliefert.
 
 Neben Ölen und
-[schaut am besten direkt auf der Homepage vorbei](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte%2Fproducts%2Fduftkerze-achtsamkeit).
-Dort könnt Ihr die Acaraa Produkte auch käuflich erwerben. Mit dem
-Rabattcode "<strong>cardamonchai10</strong>" erhaltet Ihr sogar 10 Prozent
-Rabatt auf alles!
+[Kerzen](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte%2Fproducts%2Fduftkerze-achtsamkeit)
+gibt es von Acaraa unter anderem ein
+[Mizellen-Reinigungsgel](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fgesicht%2Fproducts%2Fmizellen-reinigungsgel),
+ein
+[After Shave Balsam](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fkoerper%2Fproducts%2Facaraa-natural-aftershave-balm)
+und ein
+[Gesichtsserum](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Fgesicht%2Fproducts%2Fgesichtsserum).
+Wer neugierig geworden ist,
+[schaut am besten direkt auf der Homepage vorbei](https://www.adcell.de/promotion/click/promoId/196431/slotId/80259?param0=https%3A%2F%2Facaraa.com%2Fcollections%2Falle-produkte).
+Dort könnt Ihr die Acaraa Produkte auch käuflich erwerben. Mit dem Rabattcode "
+**cardamonchai10** " erhaltet Ihr sogar 10 Prozent Rabatt auf alles!
 
 [glry name="acaraa2"]
 
@@ -185,7 +202,9 @@ nichts mehr auf meiner Seite verpassen wollt,
 [abonniert am besten meinen Newsletter](#newsletter). Ich informiere Euch dann
 über neue Artikel.
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

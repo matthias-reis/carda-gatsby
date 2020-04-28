@@ -4,12 +4,10 @@ seoTitle: '"Die Hermetiker" zu Gast in Delas Podcast'
 slug: zu-gast-in-delas-podcast
 link: /2019/05/zu-gast-in-delas-podcast/
 fileName: 2019-05---zu-gast-in-delas-podcast.md
-description:
-  'Am letzten Samstag war es soweit: Matze und ich waren zu Gast im Podcast von
-  Marlen und haben unseren Roman "Die Hermetiker" vorgestellt.'
-excerpt:
-  'Am letzten Samstag war es soweit: Matze und ich waren zu Gast im Podcast von
-  Marlen und haben unseren Roman "Die Hermetiker" vorgestellt.'
+description: 'Am letzten Samstag war es soweit: Matze und ich waren zu Gast im
+  Podcast von Marlen und haben unseren Roman "Die Hermetiker" vorgestellt.'
+excerpt: 'Am letzten Samstag war es soweit: Matze und ich waren zu Gast im
+  Podcast von Marlen und haben unseren Roman "Die Hermetiker" vorgestellt.'
 focusKeyword: Podcast
 labels:
   - Autorenleben
@@ -32,11 +30,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24106"
+image: /img/demo.jpg
+errors: []
 subTitle: Unser Roman-Erstling kritisch hinterfragt
+  
 ---
 
-<strong>Am letzten Samstag war es soweit: Matze und ich waren zu Gast im Podcast
-von Marlen und haben unseren Roman "Die Hermetiker" vorgestellt.</strong>
+**Am letzten Samstag war es soweit: Matze und ich waren zu Gast im Podcast von
+Marlen und haben unseren Roman "Die Hermetiker" vorgestellt.**
 
 Kennt Ihr Dela und die Freuden des Flauschs\* von Twitter? Dela ist der
 Spitzname von Marlen, die unter dem Namen Delasastercast erfolgreich Podcasts
@@ -58,7 +59,7 @@ beide ganz ruhig und konnten uns gemütlich mit ihr über unser Buch und seine
 Entstehungsgeschichte unterhalten.
 
 Marlen hatte ihre Fragen im Vorfeld liebevollst zusammengestellt und sogar noch
-eine Umfrage unter ihren Hörer<em>innen und Follower</em>innen gemacht und sie
+eine Umfrage unter ihren Hörer _innen und Follower_ innen gemacht und sie
 befragt, was sie gerne wissen wollten. Sehr einfühlsam und trotzdem stets
 kritisch hinterfragend interviewte sie uns zu unserem Erstling.
 
@@ -77,16 +78,18 @@ Das war wirklich großartig!
 ## Buchverlosung
 
 Übrigens: Dela verlost über das Twitter-Profil ihres Podcasts ein Exemplar von
-"die Hermetiker". Unter allen Retweets zu diesem Tweet wird ein<em>e
-Gewinner</em>in gezogen. Also:
+"die Hermetiker". Unter allen Retweets zu diesem Tweet wird ein _e Gewinner_ in
+gezogen. Also:
 [Klickt, was das Zeug hält, es lohnt sich](https://twitter.com/DelasasterCast) !
 
 ### Anhören könnt Ihr Euch den Podcast mit unserem Interview hier:
 
 ![podcast-amreis-die-hermetiker | full](http://cardamonchai.com/wp-content/uploads/2019/05/die-hemetiker-amreis-podcast.png)
 
-[PODCAST MIT ANNE &amp; MATZE IM INTERVIEW BEI DELA JETZT ANHÖREN](http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/)
-<a href="http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/" target="_blank" rel="noopener">
+[PODCAST MIT ANNE &amp; MATZE IM INTERVIEW BEI DELA JETZT ANHÖREN](http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/)  
+[](http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/)
 
-\*Delas Twitterprofil "[Dela und die Freuden des
-Flauschs](https://twitter.com/Delanji)"
+\*Delas Twitterprofil
+"[Dela und die Freuden des Flauschs](https://twitter.com/Delanji)"
+
+  

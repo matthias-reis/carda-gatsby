@@ -4,14 +4,12 @@ seoTitle: Reparieren statt wegwerfen - Neue Kooperation der Repair Cafés
 slug: repair-cafes-reparieren-statt-wegwerfen
 link: /2018/09/repair-cafes-reparieren-statt-wegwerfen/
 fileName: 2018-09---reparieren-statt-wegwerfen.md
-description:
-  Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den
-  Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung
-  Rabatte an.
-excerpt:
-  Werbung - Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt
+description: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt
   den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung
   Rabatte an.
+excerpt: Werbung - Online-Händler und Reparaturdienstleister SOS Zubehör bietet
+  jetzt den Mitgliedern und Besuchern von Repair Cafés bei der
+  Ersatzteilbestellung Rabatte an.
 focusKeyword: Repair Cafés
 labels:
   - DIY
@@ -30,15 +28,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22104"
+image: /img/demo.jpg
+errors: []
 subTitle: Die nachhaltige Kooperation von SOS Zubehör mit Repair Cafés
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Der Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt
-den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung
-Rabatte an. Außerdem stellt er kostenlose Anleitungen zur Fehlersuche und
-Reparatur-Tipps zur Verfügung.</strong>
+**Der Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den
+Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung Rabatte
+an. Außerdem stellt er kostenlose Anleitungen zur Fehlersuche und
+Reparatur-Tipps zur Verfügung.**
 
 Die Kooperation wurde heute in einer Pressemitteilung bekanntgegeben. SOS
 Zubehör unterstützt als offizieller Partner die Stiftung mit Spenden. Außerdem
@@ -56,6 +57,7 @@ Dabei können sie auch noch sehr viel Geld sparen."
 
 ![Repair Cafés | full](http://cardamonchai.com/wp-content/uploads/2018/09/unnamed-1.jpg)
 
+Am 18. Oktober 2009 wurde von Martine Postma in [Amsterdam](/2018/03/amsterdam/)
 das erste Repair Café gegründet. Gedacht war es nicht als Café im klassischen
 Sinne. Hinter dem Namen steckt ein Veranstaltungsformat, welches regelmäßig in
 temporär dafür eingerichteten Werkstätten stattfindet.
@@ -117,6 +119,8 @@ vorbei.
 
 <small>Fotos und Pressemeldung: Havana Orange GmbH, München</small>
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

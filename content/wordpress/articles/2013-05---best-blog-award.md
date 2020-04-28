@@ -4,12 +4,12 @@ seoTitle: Best Blog Award - Wie jetzt, ich habe gewonnen?!
 slug: best-blog-award-wie-jetzt-ich-habe-was-gewonnen
 link: /2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/
 fileName: 2013-05---best-blog-award.md
-description:
-  Unlängst bekam ich für mein Blog doch tatsächlich einen Blog Award verliehen!
-  Nun ist es an der Zeit, dass ich selbst meine Lieblingsblogs nominiere.
-excerpt:
-  Unlängst bekam ich für mein Blog doch tatsächlich einen Blog Award verliehen!
-  Nun ist es an der Zeit, dass ich selbst meine Lieblingsblogs nominiere.
+description: Unlängst bekam ich für mein Blog doch tatsächlich einen Blog Award
+  verliehen! Nun ist es an der Zeit, dass ich selbst meine Lieblingsblogs
+  nominiere.
+excerpt: Unlängst bekam ich für mein Blog doch tatsächlich einen Blog Award
+  verliehen! Nun ist es an der Zeit, dass ich selbst meine Lieblingsblogs
+  nominiere.
 focusKeyword: Blog Award
 labels:
   - Best Blog Award
@@ -27,11 +27,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5493"
+image: /img/demo.jpg
+errors: []
 subTitle: Bloggründung und Vorbilder
+  
 ---
-
-<strong>Best Blog Award - Wie jetzt? Ich habe was gewonnen? Was für eine Ehre!
-Vielen Dank, liebe Nerdkönigin!</strong>
 
 ![Der Best Blog Award - verliehen von der lieben queenofnerds - <3lichen Dank! | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/05/best-blog-150x150.jpg "Der Best Blog Award - verliehen von der lieben queenofnerds - Danke schön! <3")
 
@@ -40,14 +40,20 @@ Jetzt wollt Ihr sicher wissen, was es damit auf sich hat und wie man diesen
 wundervollen Wanderpokal an tolle Blogger weitergeben kann, oder? Das geht ganz
 einfach:
 
-<ul><li>Nominierung in einem Blogartikel veröffentlichen und mit dem "Best Blog Award"-Bild versehen.</li><li> [Dem lieben Blogger](http://lautundungewoehnlich.wordpress.com/),  von dem man den Award bekommen hat danken (ist hiermit geschehen)</li><li>Ein kleines Interview, bestehend aus 11 Fragen beantworten</li><li>Den Wanderpokal an 5-76 weitere Blogs verleihen</li><li>Den Bloggern Bescheid geben, dass den Blog Award bekommen haben</li></ul>
+- Nominierung in einem Blogartikel veröffentlichen und mit dem "Best Blog
+  Award"-Bild versehen.
+- [Dem lieben Blogger](http://lautundungewoehnlich.wordpress.com/), von dem man
+  den Award bekommen hat danken (ist hiermit geschehen)
+- Ein kleines Interview, bestehend aus 11 Fragen beantworten
+- Den Wanderpokal an 5-76 weitere Blogs verleihen
+- Den Bloggern Bescheid geben, dass den Blog Award bekommen haben
 
 Was mich ein Bisschen wunderte: Die Fragen sind immer dieselben und drehen sich
 größtenteils um das Thema Beauty. Ich blogge zwar grundsätzlich eher über
 [Festivals](//2013/03/28/die-ultimative-festivalliste-2013/), Musik und anderen
 Blödsinn, stelle mich aber hiermit gerne dieser Herausforderung. :-)
 
-## Nun also zu den 11 Fragen:<em><strong>1.) Wann und warum hast Du Dein Blog gegründet?</strong></em>
+## Nun also zu den 11 Fragen: _ **1.) Wann und warum hast Du Dein Blog gegründet?** _
 
 Interessanter hätte ich die Frage "Wo und an welchem Computer" gefunden, aber
 nun gut. Die wird hier nicht gestellt. Die Gründung meines Blogs liegt schon
@@ -72,18 +78,18 @@ gefeiert.
 Die Frage nach dem Warum lässt sich ganz leicht beantworten: Ich würde eingehen,
 würde ich nicht schreiben.
 
-<em><strong>2.) Hast Du Vorbilder für Dein Blog?</strong></em>
+_ **2.) Hast Du Vorbilder für Dein Blog?** _
 
 Heinrich Böll, Friedrich Nietzsche und natürlich Franz Kafka.
 
-<em><strong>3.) Folgst Du vielen Blogs?</strong></em>
+_ **3.) Folgst Du vielen Blogs?** _
 
 So vielen, dass ich inzwischen schon so langsam den Überblick verliere und mir
 gar nicht mehr alles durchlesen kann, was so durch meinen Reader rattert. Ich
 muss mir irgendwann mal Zeit nehmen und das ein Bisschen ausdünnen.
 
-<em><strong>4.) Seit wann interessierst Du Dich intensiver für das Thema Make-up
-und Beauty?</strong></em>
+_ **4.) Seit wann interessierst Du Dich intensiver für das Thema Make-up und
+Beauty?** _
 
 So besonders intensiv eigentlich noch nie. Gerade habe ich nach 7 Stunden
 Büroarbeit eine Kopfkissendaune in meinem Dutt gefunden. Geschminkt habe ich
@@ -96,14 +102,12 @@ Schule gemobbt wurde. Aber ich stand drauf. Passte wunderbar zu den grünen
 Stoffhosen, die mir meine Mutter damals als Jeansersatz verpasst hat. Die waren
 damals schon mit Polka-Dots verziert! Hach...
 
-<em><strong>5.) Welche Produktmarke hat Dich besonders überzeugt und
-warum?</strong></em>
+_ **5.) Welche Produktmarke hat Dich besonders überzeugt und warum?** _
 
 The White Stipes! Die waren klasse! Auch wenn Meg manchmal daneben getrommelt
 hat. Da passte einfach alles zusammen.
 
-<em><strong>6.) Hast Du eine Lieblings-Lippenstift- oder
-Nagellackfarbe?</strong></em>
+_ **6.) Hast Du eine Lieblings-Lippenstift- oder Nagellackfarbe?** _
 
 Ich liebe nach wie vor Nagellack in allen Farben und Formen. Gerade trage ich
 einen mit Namen "green meets mint". Der ist richtig toll und vor allem gut
@@ -111,24 +115,24 @@ kombinierbar.
 
 ![Passt auch gut zu Bier: green meets mint | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/05/970838_583043475051119_441578466_n-150x150.jpg "Passt auch gut zu Bier: green meets mint")
 
-<em><strong>7.) Welchen Kussmundabdruck hinterlässt Du auf Papier?</strong></em>
+_ **7.) Welchen Kussmundabdruck hinterlässt Du auf Papier?** _
 
 Ich küsse grundsätzlich kein Papier
 
-<em><strong>8.) Deine Wohnung steht in Flammen und Du hast Zeit 3 Beautyprodukte
-aus dem Flammen zur retten. Welche sind das?</strong></em>
+_ **8.) Deine Wohnung steht in Flammen und Du hast Zeit 3 Beautyprodukte aus dem
+Flammen zur retten. Welche sind das?** _
 
-Meine beiden Kater [Chili und Oskar](//2012/08/30/ode-an-den-kater/)
-<em><strong>9.) Worauf kannst Du beim Shoppen eher verzichten? Schuhe, Kleidung,
-Make-up oder Schokolade?</strong></em>
+Meine beiden Kater [Chili und Oskar](//2012/08/30/ode-an-den-kater/) _ **9.)
+Worauf kannst Du beim Shoppen eher verzichten? Schuhe, Kleidung, Make-up oder
+Schokolade?** _
 
 Ich esse echt lieber Eis.
 
-<em><strong>10.) Verwendest Du lieber Lippenstift oder Lipgloss?</strong></em>
+_ **10.) Verwendest Du lieber Lippenstift oder Lipgloss?** _
 
 Lidschatten
 
-<em><strong>11.) Ich verlasse das Haus nie ohne?</strong></em>
+_ **11.) Ich verlasse das Haus nie ohne?** _
 [Twitter](https://twitter.com/Anne_Reko)
 
 Und nun kommt der Moment, in dem der Elefant das Wasser lässt (sorry für die
@@ -136,6 +140,26 @@ Ausdrucksweise, aber den wollte ich schon immer mal bringen und habe mich noch
 nie getraut!) Trommelwirbel! Hier sind meine Nominierungen für den Best Blog
 Award!
 
-<ol><li>Liebste Modebloggerin auf der Welt und obendrein noch ne tolle Kollegin: [Anlis](http://taylormaid.wordpress.com/) </li></ol><strong>An alle die ich leider nicht nominiert habe: Leider gab es heute nur 5 Pokale zu vergeben. Ihr seid natürlich trotzdem toll!
-</strong>## Alle Awards, die diesem Blog bisher verliehen wurden</strong><ul><li> [Mystery Blogger Award 2017](/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/) </li></ul><a class="banner banner-green" href="http://cardamonchai.com/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf" target="_blank" rel="noopener"><span class="head">Die ultimative Festivalliste</span><span class="text">Jetzt runterladen und ausdrucken
-</span></a>
+1.  Liebste Modebloggerin auf der Welt und obendrein noch ne tolle Kollegin:
+    [Banned From The Style! - taylormaid](http://taylormaid.wordpress.com/)
+1.  Die Beste und gleichzeitig noch ne tolle Rezepterfinderin:
+    [Tofutante](http://tofutante.wordpress.com/)
+1.  Wenn ich sie öfter sehen würde, hätte sie vermutlich am ganzen Körper
+    Druckstellen von meinen Umarmungen: die süße
+    [Hoochi1107](http://hoochi1107.wordpress.com/)
+1.  Schreibt unglaublich tolles, wirres Zeug und ich möchte einfach, dass er
+    diese Fragen beantwortet: [Wirre Welt Berlin](http://wirre-welt-berlin.com/)
+1.  Sie sammelt genau wie ich bunten Kram und mag Bücher. Was mir wiederum
+    gefällt. Ich mag: [Anlis](http://anlisunendlichegeschichte.wordpress.com)
+    **An alle die ich leider nicht nominiert habe: Leider gab es heute nur 5
+    Pokale zu vergeben. Ihr seid natürlich trotzdem toll!** ## **Alle Awards,
+    die diesem Blog bisher verliehen wurden** -
+    [Erbeerkuchen mit Grün 2011](/2011/09/erdbeerkuchen-mit-gruen-der-blogaward/)
+
+- Best Blog Award 2013
+- [Liebster Blog Award 2014](/2014/11/and-the-nominees-are/)
+- [Liebster Blog Award 2017](/2017/01/liebster-blog-award-2017-01/)
+- [Mystery Blogger Award 2017](/2017/10/mystery-blogger-award-mein-blog-ist-dabei/)
+  [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+
+  

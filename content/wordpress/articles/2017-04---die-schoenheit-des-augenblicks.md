@@ -4,12 +4,11 @@ seoTitle: Die Schönheit des Augenblicks - Vergänglichkeit gehört dazu
 slug: vergaenglichkeit-des-augenblicks
 link: /2017/04/vergaenglichkeit-des-augenblicks/
 fileName: 2017-04---die-schoenheit-des-augenblicks.md
-description:
-  Vergänglichkeit ist Schönheit - Schicht für Schicht stapelt sich hier das
-  Leben. Auch Du wirst nicht mehr lange hier sein. Deine Tage sind gezählt.
-excerpt:
-  Vergänglichkeit ist Schönheit - Schicht für Schicht stapelt sich hier das
-  Leben. Auch Du wirst nicht mehr lange hier sein. Deine Tage sind gezählt.
+description: Vergänglichkeit ist Schönheit - Schicht für Schicht stapelt sich
+  hier das Leben. Auch Du wirst nicht mehr lange hier sein. Deine Tage sind
+  gezählt.
+excerpt: Vergänglichkeit ist Schönheit - Schicht für Schicht stapelt sich hier
+  das Leben. Auch Du wirst nicht mehr lange hier sein. Deine Tage sind gezählt.
 focusKeyword: Vergänglichkeit
 labels:
   - Altona
@@ -32,7 +31,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16423"
+image: /img/demo.jpg
+errors: []
 subTitle: Vergänglichkeit gehört dazu
+  
 ---
 
 Schicht für Schicht stapelt sich hier das Leben. Genau dort, wo Du heute sitzt,
@@ -53,3 +55,5 @@ Nachfahren und Ahnen. Auch die Seele dieses Ortes wird sich dann für immer
 verabschieden.
 
 ![Vergänglichkeit | full](http://cardamonchai.com/wp-content/uploads/2017/04/33234406364_95da4daecf_z.jpg)
+
+  

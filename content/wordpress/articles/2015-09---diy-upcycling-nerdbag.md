@@ -4,14 +4,12 @@ seoTitle: DIY Upcycling Nerdbag
 slug: diy-upcycling-nerdbag
 link: /2015/09/diy-upcycling-nerdbag/
 fileName: 2015-09---diy-upcycling-nerdbag.md
-description:
-  Habt Ihr auch so viele T-Shirts zu Hause liegen, die Ihr nicht wegwerfen
-  wollt? Ich zeige Euch, wie Ihr mit Upcycling noch was Schönes daraus machen
-  könnt.
-excerpt:
-  Wie Ihr aus den Dingern doch noch was machen könnt, möchte ich Euch gerne
-  zeigen. In Teil 1 zeige ich Euch, wie Ihr innerhalb kürzester Zeit Euren ganz
-  persönlichen Nerdbag kreieren könnt.
+description: Habt Ihr auch so viele T-Shirts zu Hause liegen, die Ihr nicht
+  wegwerfen wollt? Ich zeige Euch, wie Ihr mit Upcycling noch was Schönes daraus
+  machen könnt.
+excerpt: Wie Ihr aus den Dingern doch noch was machen könnt, möchte ich Euch
+  gerne zeigen. In Teil 1 zeige ich Euch, wie Ihr innerhalb kürzester Zeit Euren
+  ganz persönlichen Nerdbag kreieren könnt.
 focusKeyword: Upcycling
 labels:
   - diy
@@ -33,15 +31,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12840"
+image: /img/demo.jpg
+errors: []
 subTitle: Aus T-Shirt mach Tasche Teil 1
+  
 ---
 
 ![Mein DIY Upcycling Nerdbag](http://cardamonchai.com/wp-content/uploads/2015/09/DIY-Nerdbag-26-640x960.jpg "Mein DIY Upcycling Nerdbag")
 
-<strong>Habt Ihr auch so viele T-Shirts zu Hause rumliegen, die Ihr nicht mehr
+**Habt Ihr auch so viele T-Shirts zu Hause rumliegen, die Ihr nicht mehr
 anzieht, weil sie nicht mehr so schön aussehen? Ihr wollt Euch aber aufgrund des
 Aufdrucks und der vielen tollen Erinnerungen nicht davon trennen? Dann geht es
-Euch so wie mir. </strong>
+Euch so wie mir.**
 
 Wie Ihr aus den Dingern doch noch was machen könnt, möchte ich Euch gerne
 zeigen. In Teil 1 zeige ich Euch, wie Ihr innerhalb kürzester Zeit Euren ganz
@@ -52,7 +53,15 @@ Dabei kommen übrigens auch die Träger des Jutebeutels zum Einsatz,
 natürlich könnt Ihr aber auch jede andere Art von Stoffbändern verwenden. Doch
 nun zu meiner Anleitung.
 
-## So näht Ihr Euren DIY Upcycling Nerdbag
+## Ihr braucht- 1 Nerdshirt
+
+- [Die zwei Jutebeutelträger](/2015/09/diy-upcycling-turnbeutel/) oder ähnliche
+  Stoffbänder
+- Stecknadeln
+- Schere
+- Maßband
+- Garn in der Farbe des Shirts
+- Nähmaschine## So näht Ihr Euren DIY Upcycling Nerdbag
 
 Dreht das T-Shirt auf links und steckt es mit den Stecknadeln zusammen. Dann
 schneidet Ihr mit der Schere zwei gleich große Rechtecke aus, indem Ihr
@@ -96,3 +105,5 @@ Viel Spaß beim Nähen und Shoppen!
 
 Wie Ihr aus Eurem alten Jeansrock ein echtes Unikat macht, könnt Ihr
 [hier nachlesen](/2015/08/diy-upcycling-jeansrock/).
+
+  

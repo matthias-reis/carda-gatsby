@@ -1,16 +1,15 @@
 ---
 title: Michelle Rodriguez lebt vegan
-seoTitle:
-  Michelle Rodriguez lebt vegan - Fast And Furious Star setzt auf pflanzlich
+seoTitle: Michelle Rodriguez lebt vegan - Fast And Furious Star setzt auf pflanzlich
 slug: michelle-rodriguez-lebt-vegan
 link: /2016/03/michelle-rodriguez-lebt-vegan/
 fileName: 2016-03---michelle-rodriguez-lebt-vegan.md
-description:
-  Der weibliche Star der Filmreihe "Fast and Furious" Michelle Rodriguez hat auf
-  vegane Ernährung umgestellt. Eine Dokumentation war bei ihr der Auslöser.
-excerpt:
-  Der weibliche Star der Filmreihe "Fast and Furious" Michelle Rodriguez hat auf
-  vegane Ernährung umgestellt. Eine Dokumentation war bei ihr der Auslöser.
+description: Der weibliche Star der Filmreihe "Fast and Furious" Michelle
+  Rodriguez hat auf vegane Ernährung umgestellt. Eine Dokumentation war bei ihr
+  der Auslöser.
+excerpt: Der weibliche Star der Filmreihe "Fast and Furious" Michelle Rodriguez
+  hat auf vegane Ernährung umgestellt. Eine Dokumentation war bei ihr der
+  Auslöser.
 focusKeyword: Michelle Rodriguez
 labels:
   - Darum vegan
@@ -24,20 +23,24 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28949"
+image: /img/demo.jpg
+errors: []
 subTitle: Fast And Furious Star setzt auf pflanzliche Ernährung
+  
 ---
 
-<strong>Der weibliche Star der Filmreihe "Fast and Furious" Michelle Rodriguez
-hat jetzt auf vegane Ernährung umgestellt. Eine Dokumentation war bei ihr der
-Auslöser.</strong>
+**Der weibliche Star der Filmreihe "Fast and Furious" Michelle Rodriguez hat
+jetzt auf vegane Ernährung umgestellt. Eine Dokumentation war bei ihr der
+Auslöser.**
 
-<blockquote>"Ich bin froh, dass ich mich entschieden habe, Veganerin zu werden!"</blockquote>
+> "Ich bin froh, dass ich mich entschieden habe, Veganerin zu werden!"
 
 Die Schauspielerin setzt auf pflanzliche Nahrung, nachdem sie die
 Vice-Dokumentation "Meat hooked and the end of water" gesehen hatte. Rodriguez
 twitterte
 
-<blockquote>"Es macht mich traurig, was in Mittelamerika los ist. Ich bin froh, dass ich jetzt Veganerin werde."</blockquote>
+> "Es macht mich traurig, was in Mittelamerika los ist. Ich bin froh, dass ich
+> jetzt Veganerin werde."
 
 Ihre Ankündigung löste eine Welle positiver Feedbacks unter ihren
 Twitter-Followern aus. Viele von ihnen zeigten ihre Solidarität und freuten sich
@@ -55,3 +58,5 @@ Pamela Anderson, Miley Cyrus und Liam Hemsworth – Sie alle und noch viele mehr
 haben sich entschieden, ein tierleid-freies Leben zu führen.
 
 Foto: Wikimedia Commons
+
+  

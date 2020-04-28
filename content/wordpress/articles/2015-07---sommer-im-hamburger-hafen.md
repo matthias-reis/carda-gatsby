@@ -4,13 +4,11 @@ seoTitle: Sommer im Hamburger Hafen
 slug: sommer-im-hamburger-hafen
 link: /2015/07/sommer-im-hamburger-hafen/
 fileName: 2015-07---sommer-im-hamburger-hafen.md
-description:
-  Die Elbphilharmonie hat endlich ihre Kräne abgelegt - Höchste Zeit, bei
-  schönem Wetter mal wieder den Hamburger Hafen unsicher zu machen
-excerpt:
-  Samstag - Die Sonne scheint bei gemütlichen 25 Grad, die Möwen kreischen, die
-  Elbphilharmonie ist endlich ihre Kräne losgeworden, lieber Besuch von der
-  Familie.
+description: Die Elbphilharmonie hat endlich ihre Kräne abgelegt - Höchste Zeit,
+  bei schönem Wetter mal wieder den Hamburger Hafen unsicher zu machen
+excerpt: Samstag - Die Sonne scheint bei gemütlichen 25 Grad, die Möwen
+  kreischen, die Elbphilharmonie ist endlich ihre Kräne losgeworden, lieber
+  Besuch von der Familie.
 focusKeyword: Hamburger Hafen
 labels:
   - Ausflug
@@ -34,12 +32,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12078"
+image: /img/demo.jpg
+errors: []
 subTitle: Sonne und Möwen
+  
 ---
-
-<strong>Samstag - Die Sonne scheint bei gemütlichen 25 Grad, die Möwen
-kreischen, die Elbphilharmonie ist endlich ihre Kräne losgeworden, lieber Besuch
-von der Familie.</strong>
 
 Höchste Zeit, endlich mal so richtig mit dem Hamburger Hafen und Hamburg im
 Allgemeinen anzugeben und mal wieder eine große Hafenrundfahrt zu machen.
@@ -56,4 +53,6 @@ Der Traum von der Ferne.
 
 [myflickr tag="annehafenrundfahrt072015"]
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

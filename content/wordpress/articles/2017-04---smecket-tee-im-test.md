@@ -1,18 +1,16 @@
 ---
 title: Smecket Tee im Test
-seoTitle:
-  Smecket Tee - Der ultimative Produkttest - Phantasievolle Heißgetränke für
-  echte Genießer
+seoTitle: Smecket Tee - Der ultimative Produkttest - Phantasievolle Heißgetränke
+  für echte Genießer
 slug: smecket-tee
 link: /2017/04/smecket-tee/
 fileName: 2017-04---smecket-tee-im-test.md
-description:
-  Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause Smecket Tee. Ob ich
-  Lust hätte, ein paar Teesorten zu testen. Natürlich sagte ich nicht nein.
-excerpt:
-  Werbung - Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause Smecket
+description: Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause Smecket
   Tee. Ob ich Lust hätte, ein paar Teesorten zu testen. Natürlich sagte ich
   nicht nein.
+excerpt: Werbung - Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause
+  Smecket Tee. Ob ich Lust hätte, ein paar Teesorten zu testen. Natürlich sagte
+  ich nicht nein.
 focusKeyword: Smecket
 labels:
   - Bio
@@ -37,27 +35,31 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16373"
+image: /img/demo.jpg
+errors: []
 subTitle: Phantasievolle Heißgetränke
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
 ![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33611000980_c93e03a3e0_z-640x427.jpg)
 
-<strong>
+**Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause  _Smecket_ . Ob ich
+vielleicht Lust hätte, ein paar Teesorten zu probieren und darüber zu berichten
+hieß es darin?**
 
 Weil ich leidenschaftlich gerne Tee trinke und immer neugierig auf neue Sorten
 bin, sagte ich ohne lange zu überlegen zu. Schon ein paar Tage später erreichte
 mich ein ziemlich großes Paket. Ungeheuer gespannt riss ich den Deckel auf und
-heraus schauten drei formschöne Aluminiumdosen mit
-frischen <em>Smecket</em>-Tee.
+heraus schauten drei formschöne Aluminiumdosen mit frischen  _Smecket_ -Tee.
 
 Natürlich musste ich da gleich mal meine Nase reinhalten und öffnete die erste
 Dose.
 
 ## Bio Früchtetee Ananas &amp; Kokos
 
-<blockquote>Hm, wie das duftet!</blockquote>
+> Hm, wie das duftet!
 
 ![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33954994956_a6ce45346c_z.jpg)
 
@@ -70,7 +72,7 @@ Weise zu genießen und was soll ich sagen: Ich war begeistert. Und das obwohl ic
 normalerweise gar kein großer Fan von fruchtigen Tees bin. Die sind nach meiner
 Erfahrung entweder künstlich aromatisiert, was für mich ein No-go ist, oder sie
 schmecken säuerlich. Keiner von beiden Punkten trifft jedoch auf den Ananas
-&amp; Kokos Tee von <em>Smecket </em>zu. Das Aroma ist mild, fruchtig und nicht
+&amp; Kokos Tee von  _Smecket_ zu. Das Aroma ist mild, fruchtig und nicht
 übertrieben. Genau so sollte Früchtetee schmecken.
 
 Was ich gut finde: Alle Zutaten sind genauestens aufgelistet. Außer getrockneter
@@ -89,10 +91,14 @@ Kokos ist Koffein-frei. 9/10 Geschmackspunkten
 
 ![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33183703883_d09072102f_z.jpg)
 
-trifft das jedoch nicht zu. Das passt so gut zusammen, dass man es sich fast
-nicht mehr getrennt vorstellen kann. Der Tee ist schön erfrischend und löscht
-den Durst. Ich kann mir gut vorstellen, ihn im Sommer auch kalt mit Eiswürfeln
-zu genießen.
+Am Abend saß ich gemütlich vor dem Fernseher und schaut mir einen Krimi an.
+Zeit, die Sorte Lemongras-Grüne Minze zu testen. Normalerweise gebe ich meinem
+Mann recht, wenn er sagt "Warum muss man zu Minztee nur immer noch eine andere
+Geschmacksrichtung hinzufügen. Der steht doch für sich!" Auf den Lemongras &amp;
+Grüne Minze Tee von  _Smecket_ trifft das jedoch nicht zu. Das passt so gut
+zusammen, dass man es sich fast nicht mehr getrennt vorstellen kann. Der Tee ist
+schön erfrischend und löscht den Durst. Ich kann mir gut vorstellen, ihn im
+Sommer auch kalt mit Eiswürfeln zu genießen.
 
 Die Sorte Lemongras &amp; Grüne Minze enthält außer Lemongras und Grüner Minze
 Grünen Sencha aus China, Zitronenschalen und Ringelblume. Die Dosierung beträgt
@@ -141,24 +147,28 @@ Teelöffel auf einen Liter, die Ziehzeit 2 Minuten. Die Sorte ist Koffein-haltig
 
 ![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33996398955_59e7c7dbb5_z.jpg)
 
-sind vegan und bio-zertifiziert (Öko Kontrollstelle DE-ÖKO-021). Auf künstliche
-Aromen und Geschmacksverstärker wird bei der Herstellung komplett verzichtet.
-Die Sorten sind sehr kreativ zusammengestellt und der Geschmack ist toll. Man
-merkt, dass den Tee jemand kreiert hat, dem er selbst am Herzen liegt.
+Alle Sorten von  _Smecket_ sind vegan und bio-zertifiziert (Öko Kontrollstelle
+DE-ÖKO-021). Auf künstliche Aromen und Geschmacksverstärker wird bei der
+Herstellung komplett verzichtet. Die Sorten sind sehr kreativ zusammengestellt
+und der Geschmack ist toll. Man merkt, dass den Tee jemand kreiert hat, dem er
+selbst am Herzen liegt.
 
 Mir gefällt, dass die Verpackung komplett ohne Plastik auskommt. Für die schönen
 Aluminiumdosen können Nachfüllbeutel bestellt werden. Besonders süß finde ich
 die Geschichte, die hinter der Tee-Manufaktur aus Seelze steckt:
 
-<blockquote>"Smecket" pflegte unsere Tochter im zarten Alter von zwei zu sagen, wenn ihr etwas besonders gut schmeckte. Daher steht "Smecket" heute für unsere außergewöhnlich leckeren Tees, die mit viel Liebe und Leidenschaft komponiert wurden.</blockquote>
+> "Smecket" pflegte unsere Tochter im zarten Alter von zwei zu sagen, wenn ihr
+> etwas besonders gut schmeckte. Daher steht "Smecket" heute für unsere
+> außergewöhnlich leckeren Tees, die mit viel Liebe und Leidenschaft komponiert
+> wurden.
 
 steht auf den Dosen.
 
 ![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33153020204_5f46094ff4_z-640x427.jpg)
 
-von Daniel Weiss und seiner Frau. Von sich selbst sagt er, dass sein Faible für
-Tee und gesunde, vegetarische Ernährung ihn 2016 dazu bewogen hat, seine
-Teemanufaktur ins Leben zu rufen.
+Gegründet wurde  _Smecket_ von Daniel Weiss und seiner Frau. Von sich selbst
+sagt er, dass sein Faible für Tee und gesunde, vegetarische Ernährung ihn 2016
+dazu bewogen hat, seine Teemanufaktur ins Leben zu rufen.
 
 Ehemalige Kollegen, die im Büro am liebsten Limonade und Energy-Drinks zu sich
 nahmen, hatten ihn dazu inspiriert, sich auf die Suche nach leckeren und
@@ -166,21 +176,24 @@ gleichzeitig gesunden Alternativen zu machen. Daher passen seine Tee-Mischungen
 für ihn perfekt in unsere moderne, hektische Zeit. Er beschreibt das kurz und
 prägnant in einem Satz:
 
-<blockquote>Es macht übrigens viel wacher, den Tee über die Tastatur zu schütten, als ihn einfach zu trinken!</blockquote>
+> Es macht übrigens viel wacher, den Tee über die Tastatur zu schütten, als ihn
+> einfach zu trinken!
 
 Und auch damit hat er voll meinen Geschmack getroffen.
 
-Wer jetzt neugierig geworden ist und gerne mehr über <em>Smecket </em>wissen
-möchte, kann jederzeit auf  [Daniels Homepage](https://smecket.de/)
- vorbeischauen. Dort kann man nicht nur Tee käuflich erwerben, sondern auch noch
-einiges über die verschiedenen Teesorten lernen. Und: Seid gespannt! Schon bald
-gibt es auch hier im Blog noch einiges zum Thema!
+Wer jetzt neugierig geworden ist und gerne mehr über  _Smecket_ wissen möchte,
+kann jederzeit auf  [Daniels Homepage](https://smecket.de/)  vorbeischauen. Dort
+kann man nicht nur Tee käuflich erwerben, sondern auch noch einiges über die
+verschiedenen Teesorten lernen. Und: Seid gespannt! Schon bald gibt es auch hier
+im Blog noch einiges zum Thema!
 
 [gallery type="rectangular" size="large" link="none"
 ids="16367,16382,16381,16374,16370,16369,16383,16366,16365,16364"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

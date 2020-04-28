@@ -1,16 +1,13 @@
 ---
 title: Puss in Boots unterstützen
-seoTitle:
-  Heuspender für herrenlose Pferde gesucht - Unterstützt jetzt Puss in Boots!
+seoTitle: Heuspender für herrenlose Pferde gesucht - Unterstützt jetzt Puss in Boots!
 slug: herrenlose-pferde-heuspenden-puss-in-boots
 link: /2017/11/herrenlose-pferde-heuspenden-puss-in-boots/
 fileName: 2017-11---puss-in-boots-unterstuetzen.md
-description:
-  Herrenlose Pferde freuen sich über Heuspenden. Ein Heuballen kostet lediglich
-  4 Euro und kann ein Leben retten. Unterstützt jetzt Puss in Boots!
-excerpt:
-  Herrenlose Pferde freuen sich über Heuspenden. Ein Heuballen kostet lediglich
-  4 Euro und kann ein Leben retten. Unterstützt jetzt Puss in Boots!
+description: Herrenlose Pferde freuen sich über Heuspenden. Ein Heuballen kostet
+  lediglich 4 Euro und kann ein Leben retten. Unterstützt jetzt Puss in Boots!
+excerpt: Herrenlose Pferde freuen sich über Heuspenden. Ein Heuballen kostet
+  lediglich 4 Euro und kann ein Leben retten. Unterstützt jetzt Puss in Boots!
 focusKeyword: Herrenlose Pferde
 labels:
   - Brititsche Inseln
@@ -33,19 +30,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18534"
+image: /img/demo.jpg
+errors: []
 subTitle: Herrenlose Pferde in Irland suchen Heuspender
+  
 ---
 
-<strong>Es wird geschätzt, dass in Irland zwischen 20.000 und 30.000 herrenlose
-Pferde leben. Sie alle teilen ein trauriges Schicksal: Sie wurden ausgesetzt und
-sich selbst überlassen. <em>Puss In Boots</em> kümmert sich um diese Tiere und
-Ihr habt die Möglichkeit, sie zu unterstützen. </strong>
+**Es wird geschätzt, dass in Irland zwischen 20.000 und 30.000 herrenlose Pferde
+leben. Sie alle teilen ein trauriges Schicksal: Sie wurden ausgesetzt und sich
+selbst überlassen. _Puss In Boots_ kümmert sich um diese Tiere und Ihr habt die
+Möglichkeit, sie zu unterstützen.**
 
 Die Tierschutzorganisation
-[](/2017/11/puss-in-boots-animal-rescue-and-adoption/) habe ich hier vor Kurzem
-bereits in einem ausgedehnten Interview mit Gründerin Kara vorgestellt. Sie und
-ihre Mutter Kristiane kümmern sich nicht "nur" um Katzen und Hunde. Auch Pferde
-werden von ihnen umsorgt.
+[_Puss In Boots Animal Rescue_](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
+habe ich hier vor Kurzem bereits in einem ausgedehnten Interview mit Gründerin
+Kara vorgestellt. Sie und ihre Mutter Kristiane kümmern sich nicht "nur" um
+Katzen und Hunde. Auch Pferde werden von ihnen umsorgt.
 
 ## Pferde wurden vor ihren Augen ausgesetzt
 
@@ -76,20 +76,21 @@ Transporter einfach ein Stück aufs Land gefahren und dort freigelassen, oder ma
 öffnet nachts die Tore. Die völlig verschüchterten Tiere folgen ihren Besitzern
 oft noch kilometerweit, bis sie merken, was mit ihnen passiert. Zitat Kara:
 
-<blockquote>"Plötzlich werden nachts die Hunde unruhig und dann steht man auf und sieht nur noch die Rücklichter."</blockquote>
+> "Plötzlich werden nachts die Hunde unruhig und dann steht man auf und sieht
+> nur noch die Rücklichter."
 
 ## Puss In Boots kümmert sich um die Pferde
 
 ![Herrenlose Pferde](http://cardamonchai.com/wp-content/uploads/2017/11/Eseldame-Molly-1-300x225.jpg "Eseldame Molly")
 
-Auch auf dem <em>Puss In Boots</em> Hof kommen immer wieder Pferde an. Sie
-versuchen sich den in der Gegend lebendenen Pferdegruppen anzuschließen. Wobei
-es auch schon mal zu Keilereien kommen kann. Als Herdentiere haben Pferde eine
-klare Rangordnung. Neuankömmlinge haben es nicht einfach.
+Auch auf dem _Puss In Boots_ Hof kommen immer wieder Pferde an. Sie versuchen
+sich den in der Gegend lebendenen Pferdegruppen anzuschließen. Wobei es auch
+schon mal zu Keilereien kommen kann. Als Herdentiere haben Pferde eine klare
+Rangordnung. Neuankömmlinge haben es nicht einfach.
 
 Um den Tieren das Leben wenigstens ein kleines Bisschen leichter zu machen,
-vergeben die <em>Puss in Boots</em> Heupatenschaften. Ein Heuballen kostet 4
-Euro. Das ist wirklich nicht viel Geld und es kann einem Pferd das Leben retten.
+vergeben die _Puss in Boots_ Heupatenschaften. Ein Heuballen kostet 4 Euro. Das
+ist wirklich nicht viel Geld und es kann einem Pferd das Leben retten.
 
 ## Eure Heuspenden können Leben retten
 
@@ -105,3 +106,5 @@ mitgespielt hat, gibt es noch viele weitere Bereiche, in denen Unterstützung
 gebraucht wird.
 
 [In meinem Interview mit Gründerin Kara erfahrt Ihr alles über die Puss In Boots. HIER WEITERLESEN!](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
+
+  

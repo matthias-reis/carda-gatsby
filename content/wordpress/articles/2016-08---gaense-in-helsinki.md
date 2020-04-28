@@ -4,12 +4,12 @@ seoTitle: Gänse in Helsinki - gefiederte Finnland-Einwanderer
 slug: gaense-helsinki
 link: /2016/08/gaense-helsinki/
 fileName: 2016-08---gaense-in-helsinki.md
-description:
-  Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch. Besonders wohl
-  scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft man dort überall
-excerpt:
-  Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch. Besonders wohl
-  scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft man dort überall.
+description: Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch.
+  Besonders wohl scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft
+  man dort überall
+excerpt: Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch.
+  Besonders wohl scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft
+  man dort überall.
 focusKeyword: Gänse
 labels:
   - Finnland
@@ -27,15 +27,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15119"
+image: /img/demo.jpg
+errors: []
 subTitle: Weißwangengänse - Gefiederte Finnland-Einwanderer
+  
 ---
 
 ![Gänse](http://cardamonchai.com/wp-content/uploads/2016/08/28294041574_4f64075959_z-640x427.jpg "Im Gänsemarsch geht es durch den Park")
 
-<strong>Heute geht es weiter mit meiner Fotoserie aus Finnland. Gestern habe ich
-Euch meine Möwenbilder gezeigt, heute stelle ich Euch ein paar
+**Heute geht es weiter mit meiner Fotoserie aus Finnland. Gestern habe ich Euch
+meine Möwenbilder gezeigt, heute stelle ich Euch ein paar
 Finnland-Emigranten vor: Weißwangengänse besuchten Finnland früher nur auf der
-Durchreise. Seit den 80er-Jahren sind sie dort heimisch.</strong>
+Durchreise. Seit den 80er-Jahren sind sie dort heimisch.**
 
 Besonders wohl scheinen sie sich in Helsinkis Parkanlagen zu fühlen. Bei unserem
 Spaziergang durch den Hagasundsparken sind uns sogar gleich einige Familien
@@ -65,11 +68,11 @@ Europäischen Raums.
 
 ## Nils Holgerson und seine Gänse
 
-<strong>Gänse</strong> haben mich von jeher fasziniert. Und das geht sicher
-einigen so. Wer erinnert sich nicht an "Die wunderbare Reise des kleinen Nils
-Holgerson mit den Wilgänsen". Das Buch der schwedischen Autorin Selma Lagerlöf
-ist ein echter Klassiker. Der Roman für Kinder wurde mehrfach verfilmt und sogar
-eine Oper wurde nach der Geschichte komponiert.
+**Gänse** haben mich von jeher fasziniert. Und das geht sicher einigen so. Wer
+erinnert sich nicht an "Die wunderbare Reise des kleinen Nils Holgerson mit den
+Wilgänsen". Das Buch der schwedischen Autorin Selma Lagerlöf ist ein echter
+Klassiker. Der Roman für Kinder wurde mehrfach verfilmt und sogar eine Oper
+wurde nach der Geschichte komponiert.
 
 Besonders schön fand ich damals in den 80er/90er-Jahren auch die Kinderserien
 "Die Kinder vom Mühlental" und "Klemens und Klementinchen", in denen sich alles
@@ -81,10 +84,10 @@ nicht vorenthalten. [myflickr tag ="annegaensehelsinki2016"]
 
 ## Wegweiser Finnland 2016
 
-<ol>
-    <li> [Sommer auf der Ostsee - Überfahrt von Travemünde nach Helsinki](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) </li>
-    <li> [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/) </li>
-    <li> [Seevögel in Helsinki - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/) </li>
-    <li>Gänse in Helsinki - Weißwangengänse - Gefiederte Finnland-Einwanderer</li>
-    <li> [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/) </li>
-</ol>
+1.  [Sommer auf der Ostsee - Überfahrt von Travemünde nach Helsinki](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/)
+1.  [Helsinki - Schönheit an der Ostsee - Fototour durch Finnlands Hauptstadt](/2016/08/helsinki-schoenheit-an-der-ostsee/)
+1.  [Seevögel in Helsinki - Auf jeder Statue eine Möwe](/2016/08/auf-jeder-statue-eine-moewe/)
+1.  Gänse in Helsinki - Weißwangengänse - Gefiederte Finnland-Einwanderer
+1.  [Kuopion Korttelimuseo](/2016/10/kuopion-korttelimuseo/)
+
+  

@@ -4,14 +4,12 @@ seoTitle: Das Seelenleben der Tiere von Peter Wohlleben - meine Kritik
 slug: das-seelenleben-der-tiere-peter-wohlleben
 link: /2019/01/das-seelenleben-der-tiere-peter-wohlleben/
 fileName: 2019-01---das-seelenleben-der-tiere.md
-description:
-  Empfinden Tiere Liebe, Trauer und Mitgefühl? Dieser Frage geht Autor Peter
-  Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Ich habe es
-  gelesen.
-excerpt:
-  Affiliate Link - "Empfinden Tiere Liebe, Trauer und Mitgefühl?" - Dieser Frage
-  geht Autor Peter Wohlleben in seinem Buch "Das Seelenleben der Tiere nach".
-  Ich habe es gelesen.
+description: Empfinden Tiere Liebe, Trauer und Mitgefühl? Dieser Frage geht
+  Autor Peter Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Ich
+  habe es gelesen.
+excerpt: Affiliate Link - "Empfinden Tiere Liebe, Trauer und Mitgefühl?" -
+  Dieser Frage geht Autor Peter Wohlleben in seinem Buch "Das Seelenleben der
+  Tiere nach". Ich habe es gelesen.
 focusKeyword: Das Seelenleben der Tiere
 labels:
   - Bücher & Filme
@@ -26,15 +24,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23183"
+image: /img/demo.jpg
+errors: []
 subTitle: Buch von Peter Wohlleben
+  
 ---
 
-<em>Affiliate Link\*</em>
+_Affiliate Link\*_
 
-<strong>"Empfinden Tiere Liebe, Trauer und Mitgefühl?" - Dieser Frage geht Autor
-Peter Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Seine Sammlung
+**"Empfinden Tiere Liebe, Trauer und Mitgefühl?" - Dieser Frage geht Autor Peter
+Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Seine Sammlung
 wissenschaftlicher Erkenntnisse ist garniert mit zahlreichen persönlichen
-Beobachtungen und Erfahrungen.</strong>
+Beobachtungen und Erfahrungen.**
 
 Ich hatte nur Gutes gehört über Wohllebens zweites Buch und so freute ich mich
 sehr, als ich es eines Tages geschenkt bekam. Durchgelesen hatte ich es ziemlich
@@ -127,7 +128,12 @@ auf die bevorstehende Geburt vorzubereiten. Sie war eine Hebamme geworden.
 
 Der Autor schlussfolgert nach dieser Geschichte:
 
-<blockquote>"Wenn die Forschung so viel über die Intelligenz von Schweinen weiß, warum setzt sich dieses Bild schlauer Borstentiere nicht in der Öffentlichkeit durch? Ich vermute, es hängt mit der Verwendung von Schweinefleisch zusammen. Wenn jedem klar wäre, was für ein Wesen er da auf dem Teller hat, dann würde vielen der Appetit vergehen. Ähnliches kennen wir ja von Primaten: Wer von uns würde schon Affenfleisch essen?"</blockquote>
+> "Wenn die Forschung so viel über die Intelligenz von Schweinen weiß, warum
+> setzt sich dieses Bild schlauer Borstentiere nicht in der Öffentlichkeit
+> durch? Ich vermute, es hängt mit der Verwendung von Schweinefleisch zusammen.
+> Wenn jedem klar wäre, was für ein Wesen er da auf dem Teller hat, dann würde
+> vielen der Appetit vergehen. Ähnliches kennen wir ja von Primaten: Wer von uns
+> würde schon Affenfleisch essen?"
 
 Ein Kapitel beschäftigt sich mit dem Schwarz-Weiß-Denken der Menschen. Der Autor
 hinterfragt darin, warum wir unser Interesse für tierische Gefühle auf bestimmte
@@ -151,14 +157,19 @@ missbrauchen und ausbeuten.
 Dabei gibt es immer Luft nach oben und es gibt einiges, das meine Meinung von
 der des Autors unterscheidet. Für mich zählt eben auch dazu, dass man Haustiere
 adoptiert, statt sie zu kaufen, Müll vom Strand aufsammelt, sich um den
-[Wolle](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
-verzichtet. Ein kleiner Anfang wäre auf jeden Fall schon mal, das Fleischessen
-einzustellen. Nur mal so als Idee. Aber: Wer sich schon mal mit dem Seelenleben
-der Tiere beschäftigt, hat auf jeden Fall schon einen guten Anfang gemacht.
-Einen Schritt in Richtung weniger Tierleid.
+[Schutz der Wildbienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
+ kümmert, statt sich mal eben einen Bienenstamm zu kaufen und aufs Reiten,
+Leder, Pelze und
+[Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) verzichtet. Ein
+kleiner Anfang wäre auf jeden Fall schon mal, das Fleischessen einzustellen. Nur
+mal so als Idee. Aber: Wer sich schon mal mit dem Seelenleben der Tiere
+beschäftigt, hat auf jeden Fall schon einen guten Anfang gemacht. Einen Schritt
+in Richtung weniger Tierleid.
 
 Schweine lieben ihre Kinder, Meisen handeln selbstlos, Biber suchen sich einen
-Partner fürs Leben, [Tauben](/2014/09/pflanzenmilch-wieso-denn-blos/) können
+Partner fürs Leben,
+[Kühe vermissen ihre Kälber](/2014/09/pflanzenmilch-wieso-denn-blos/), Krähen
+amüsieren sich gerne und [Tauben](/2016/05/hamburger-stadttauben-e-v/) können
 zählen. Das ist nur die Spitze des Eisberges. Noch längst haben die Forscher
 nicht alles zu Tage gefördert. Es gibt noch so einiges zu entdecken und
 herauszufinden und während wir das tun, sollten wir Respekt haben. Respekt vor
@@ -185,7 +196,14 @@ Schwarz-Weiß-Denken aus und stellt die Frage, warum, wir Schweine essen und
 Affen verschonen, lässt diese jedoch offen. Aus seiner Sicht ist es natürlich,
 dass es Nutztiere gibt. So sagt er zum Beispiel:
 
-<blockquote>"Keine Sorge, ich rufe nicht zu einem Frühstück in Moll und einem Abendessen mit Widerwillen auf – unsere Stellung in der biologischen Welt ist wie die vieler anderer Arten durchaus mit dem Recht verbunden, andere Wesen zu nutzen und auch zu verspeisen, da wir nun mal keine Fotosynthese betreiben können. Mein Wunsch ist vielmehr, dass ein wenig mehr Respekt im Umgang mit unserer belebten Mitwelt einkehren möge, seien es Tiere oder auch Pflanzen. Die Nutzung von Tieren würde sich erheblich erschweren, würden bei jeder Mahlzeit oder jeder Lederjacke moralische Bedenken unser Vergnügen trüben."</blockquote>
+> "Keine Sorge, ich rufe nicht zu einem Frühstück in Moll und einem Abendessen
+> mit Widerwillen auf – unsere Stellung in der biologischen Welt ist wie die
+> vieler anderer Arten durchaus mit dem Recht verbunden, andere Wesen zu nutzen
+> und auch zu verspeisen, da wir nun mal keine Fotosynthese betreiben können.
+> Mein Wunsch ist vielmehr, dass ein wenig mehr Respekt im Umgang mit unserer
+> belebten Mitwelt einkehren möge, seien es Tiere oder auch Pflanzen. Die
+> Nutzung von Tieren würde sich erheblich erschweren, würden bei jeder Mahlzeit
+> oder jeder Lederjacke moralische Bedenken unser Vergnügen trüben."
 
 Für mich als ethische Veganerin war das beim Lesen zunächst erst mal ein Schock.
 Ich habe mir sogar ein paar Mal überlegt, das Buch zur Seite zu legen. Insgesamt
@@ -201,10 +219,12 @@ nun leider etwas.
 Im Hinblick auf Tierethik ist es leider nicht vertretbar. Wenn wir nur "ein
 wenig mehr Respekt" gegenüber Tieren haben, werden wir weder etwas gegen
 Legebatterien und das Schreddern von Küken noch gegen
-[Tiertransporte](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
-tun. Wenn wir weiter Haustiere zu unserem Vergnügen züchten, hilft das den
-Millionen von Straßenhunden auch nicht weiter. Die Tierheime werden immer voller
-und jedes Jahr kommt wieder eine neue "Moderasse" dazu.
+[Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/),
+[Pelzfarmen](/2014/11/fakepelz-echtpelz/) und
+[Tiertransporte](/2017/11/das-gluecksschwein-aus-dem-elbtunnel/) tun. Wenn wir
+weiter Haustiere zu unserem Vergnügen züchten, hilft das den Millionen von
+Straßenhunden auch nicht weiter. Die Tierheime werden immer voller und jedes
+Jahr kommt wieder eine neue "Moderasse" dazu.
 
 Grundsätzlich hätte ich persönlich mehr vom Buch erwartet. Taucht man schon so
 tief in die Materie ein und stellt fest "Ja, Tiere haben Angst und Schmerzen,
@@ -226,9 +246,9 @@ etwas mehr abholt (Nachtrag: Das Buch hat mich mehr abgeholt. Es trägt den Tite
 [Meine Rezension findet Ihr hier](/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/)
 ).
 
-"<strong> [Das Seelenleben der Tiere](https://amzn.to/2GJAhtG) </strong>" ist im
-Ludwig Buchverlag erschienen. Die gebundene Ausgabe kostet 19,99 Euro und trägt
-die <strong>ISBN-Nummer 978-3453280823</strong>.
+" ** [Das Seelenleben der Tiere](https://amzn.to/2GJAhtG) ** " ist im Ludwig
+Buchverlag erschienen. Die gebundene Ausgabe kostet 19,99 Euro und trägt die
+**ISBN-Nummer 978-3453280823** .
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
@@ -236,6 +256,8 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-<em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
+_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,12 +4,12 @@ seoTitle: Buchtipp - "Vegan, aber günstig"
 slug: vegan-aber-guenstig-patrick-bolk
 link: /2019/07/vegan-aber-guenstig-patrick-bolk/
 fileName: 2019-07---vegan-aber-guenstig.md
-description:
-  'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen: "Vegan,
-  aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch".'
-excerpt:
-  'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen: "Vegan,
-  aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das Kochbuch".'
+description: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk
+  zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig -
+  das Kochbuch".'
+excerpt: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk zeigen:
+  "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig - das
+  Kochbuch".'
 focusKeyword: Vegan, aber günstig
 labels:
   - Bücher & Filme
@@ -32,21 +32,26 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25335"
+image: /img/demo.jpg
+errors: []
 subTitle: Spartipps und Kochbuch von Patrick Bolk
+  
 ---
 
-<em>Affiliate Links\*</em>
+_Affiliate Links\*_
 
-<strong>Heute möchte ich Euch zwei ganz besondere Bücher des veganen Autoren
-Patrick Bolk zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber
+**Heute möchte ich Euch zwei ganz besondere Bücher des veganen Autoren Patrick
+Bolk zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber
 günstig - das Kochbuch". Er stellt mit ihnen endgültig den Beweis auf, dass
-vegan nicht teuer sein muss.</strong>
+vegan nicht teuer sein muss.**
 
 Es ist schon eine kleine Weile her, seit ich das letzte Mal ein Buch von Patrick
 Bolk vorgestellt habe. Schon
-"[Vegan im Job"](/2014/11/so-geht-vegan-von-patrick-bolk/) haben mir sehr gut
-gefallen. 2014 veröffentlichte er das Werk "Vegan, aber günstig - spar Dir das
-Tier", welches 2017 mit "Vegan, aber günstig - das Kochbuch" ergänzt wurde.
+"[So geht vegan](/2014/11/so-geht-vegan-von-patrick-bolk/)" und
+"[Vegan im Job"](/2015/06/vegan-im-job-das-neue-buch-von-patrick-bolk-ist-da/)
+haben mir sehr gut gefallen. 2014 veröffentlichte er das Werk "Vegan, aber
+günstig - spar Dir das Tier", welches 2017 mit "Vegan, aber günstig - das
+Kochbuch" ergänzt wurde.
 
 "Spar Dir das Tier" ist genau wie das Kochbuch im Ventil Verlag in der Edition
 "Kochen ohne Knochen" erschienen. Auf 141 Seiten gibt Patrick Bolk darin jede
@@ -55,12 +60,12 @@ auch ohne viel Geld.
 
 ## Patrick Bolk beweist, das vegan auch günstig geht
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-2-400x300.jpg ' [](https://amzn.to/2YgeOkd)  "Vegan, aber guenstig - spar Dir das Tier"')
+![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-2-400x300.jpg '[ ](https://amzn.to/2YgeOkd)  "Vegan, aber guenstig - spar Dir das Tier"')
 
 Ganz ehrlich, seid Ihr auch so genervt von dem Satz "Es schmeckt ja wirklich
 gut, aber auf Dauer wäre mir veganes Essen zu teuer?" - ich schicke in Zukunft
-einfach jedem<em>r, der</em>die das zu mir sagt den Link zu diesem Blogartikel
-hier. Patrick darf ihnen dann das Gegenteil beweisen. Das kann er nämlich ganz
+einfach jedem _r, der_ die das zu mir sagt den Link zu diesem Blogartikel hier.
+Patrick darf ihnen dann das Gegenteil beweisen. Das kann er nämlich ganz
 hervorragend.
 
 In der Einführung von "Vegan, aber günstig", hinterfragt der Autor zunächst die
@@ -109,7 +114,7 @@ wirklich war: Reis, Linsen, Bohnen, Couscous und Kichererbsen machen glücklich!
 
 ## "Vegan, aber günstig - das Kochbuch"
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-400x300.jpg ' [](https://amzn.to/2O0v44W)  "Vegan, aber guenstig - das Kochbuch"')
+![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-400x300.jpg '[ ](https://amzn.to/2O0v44W)  "Vegan, aber guenstig - das Kochbuch"')
 
 "Tolle Basisrezepte, die jede\*n glücklich machen und noch mehr" - so könnte die
 Kurzbeschreibung von Patrick Bolks Kochbuch lauten. Von Zaziki über Béchamelsoße
@@ -131,18 +136,16 @@ anzuregen.
 Ich habe mir aus jedem Kapitel mein persönliches Lieblingsrezept rausgesucht.
 Dabei ist diese Liste entstanden:
 
-<ul>
-    <li> [Seitan](/2016/01/seitan-a-la-herzmann/) </li>
-    <li>Kartoffelgratin</li>
-    <li>Spinatnudeln</li>
-    <li>Süßes Sushi</li>
-    <li>Deftiges Tofu-Erbsen-Frühstück</li>
-    <li>Arme Ritter</li>
-    <li>Auberginen auf spanische Art</li>
-    <li>Paprika-Schnitzel</li>
-    <li>Süßkartoffel-Pommes</li>
-    <li>Ananas-Creme</li>
-</ul>
+- [Seitan](/2016/01/seitan-a-la-herzmann/)
+- Kartoffelgratin
+- Spinatnudeln
+- Süßes Sushi
+- Deftiges Tofu-Erbsen-Frühstück
+- Arme Ritter
+- Auberginen auf spanische Art
+- Paprika-Schnitzel
+- Süßkartoffel-Pommes
+- Ananas-Creme
 
 Klingt gut, oder? Wenn Ihr alle Gerichte (insgesamt über 60!), die Patrick in
 seinem Buch verewigt hat, entdecken möchtet, kann ich Euch nur dazu raten, es
@@ -154,7 +157,7 @@ Patrick von Beruf nicht nur Texter, sondern auch noch Grafiker ist.
 
 ## "Vegan, aber günstig" - tolle Bücher!
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-3-400x300.jpg " [](https://amzn.to/2YgeOkd)  Vegane Spartipps für alle!")
+![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-3-400x300.jpg "[ ](https://amzn.to/2YgeOkd)  Vegane Spartipps für alle!")
 
 Drei Dinge hat Patrick Bolk auch mit dem Kochbuch klar belegt: Veganes Essen
 muss weder fade noch teuer sein und es muss in den seltensten Fällen ein
@@ -164,11 +167,15 @@ Lieber Patrick, danke für die Bereicherung unserer Küche und unseres
 Bücherregals! Ich bin schon gespannt auf Dein nächstes Buch!
 
 Ihr könnt die Bücher ganz einfach online bestellen
-["Vegan, aber günstig - das Kochbuch"](https://amzn.to/2YgeOkd) findet Ihr hier.
+["Vegan, aber günstig - spar Dir das Tier" gibt es hier](https://amzn.to/2YgeOkd)
+und ["Vegan, aber günstig - das Kochbuch"](https://amzn.to/2O0v44W) findet Ihr
+hier.
 
 Übrigens hat Patrick genau wie ich eine Webseite.
 [Dort freut er sich immer über Euren Besuch](http://patrickbolk.de/).
 
-<em>\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine
-Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung
+wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
+Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

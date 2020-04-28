@@ -4,12 +4,10 @@ seoTitle: Virtueller Klimastreik am 24. April - Fridays For Future
 slug: fridays-for-future-virtueller-klimastreik
 link: /2020/04/fridays-for-future-virtueller-klimastreik/
 fileName: 2020-04---virtueller-klimastreik-am-24-april.md
-description:
-  Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24. April ab 12
-  Uhr mittags findet der erste virtuelle globale Klimastreik statt.
-excerpt:
-  Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24. April ab 12
-  Uhr mittags findet der erste virtuelle globale Klimastreik statt.
+description: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24.
+  April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
+excerpt: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24.
+  April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
 focusKeyword: Fridays For Future
 labels:
   - fridays for future
@@ -24,11 +22,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29211"
+image: /img/demo.jpg
+errors: []
 subTitle: Fridays For Future goes Livestream
+  
 ---
 
-<strong>Fridays For Future schläft auch in Zeiten von Corona nicht. Am 24. April
-ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.</strong>
+**Fridays For Future schläft auch in Zeiten von Corona nicht. Am 24. April ab 12
+Uhr mittags findet der erste virtuelle globale Klimastreik statt.**
 
 Wir alle müssen Abstand halten. Weil der Schutz der Gesundheit, die
 Verlangsamung der Ansteckungen und der Kampf gegen das Virus im Moment oberstes
@@ -41,7 +42,10 @@ ab 12:00 ein Livestream mit vielen Redner⋆innen und Künstler⋆innen statt.
 
 Die Veranstalter⋆innen rufen die Teilnehmer⋆innen dazu auf, ein Demoschild
 vorzubereiten und es am Balkon oder am Fenster anzubringen, damit möglichst
-viele dabei sind, wenn es heißt: [](/2019/09/allefuersklima-hamburg/)
+viele dabei sind, wenn es heißt:
+[Fridays For Future](/2019/09/allefuersklima-hamburg/) goes Livestream. Auf
+einer Klimastreikkarte kann man sich vorab zur Demo anmelden und seine
+Solidarität zeigen. [<sup>1</sup>](#1)
 
 Politiker⋆innen können ab sofort nicht mehr in ihren Reden erzählen, die
 Corona-Krise sei doch eine willkommene Ausrede für die Bewegung. Auch in
@@ -55,7 +59,7 @@ uns! Zum Livestream geht es hier entlang:
 
 <div class="footnotes">
 ## Fußnote
-<ol>
-    <li id="fn1-9217"> [Klimastreikkarte](https://www.klima-streik.org/) </li>
-</ol>
+1.  [Klimastreikkarte](https://www.klima-streik.org/)
 </div>
+
+  

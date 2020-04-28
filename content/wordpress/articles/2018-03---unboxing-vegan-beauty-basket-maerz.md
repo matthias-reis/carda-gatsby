@@ -4,12 +4,11 @@ seoTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
 slug: unboxing-vegan-beauty-basket-maerz
 link: /2018/03/unboxing-vegan-beauty-basket-maerz/
 fileName: 2018-03---unboxing-vegan-beauty-basket-maerz.md
-description:
-  Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus purzelte unter
-  anderem ein Eyeliner, der komplett ohne Plastik auskommt.
-excerpt:
-  Werbung - Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus
+description: Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus
   purzelte unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
+excerpt: Werbung - Ich durfte mal wieder den Vegan Beauty Basket auspacken.
+  Heraus purzelte unter anderem ein Eyeliner, der komplett ohne Plastik
+  auskommt.
 focusKeyword: Vegan Beauty Basket
 labels:
   - beauty
@@ -46,17 +45,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20175"
+image: /img/demo.jpg
+errors: []
 subTitle: Frühling aus dem Karton
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Mit Ina vom
-[Vegan Beauty Basket](/2017/02/vegan-beauty-basket-interview/) hatte ich
-vereinbart, den März-Korb mal wieder hier im Blog vorzustellen. Die letzten
-Wochen war ich daher mehr als gespannt, was er wohl enthalten würde. Als dann
-das Paket bei mir eintraf, musste es selbstverständlich umgehend ausgepackt
-werden.</strong>
+**Mit Ina vom [Vegan Beauty Basket](/2017/02/vegan-beauty-basket-interview/)
+hatte ich vereinbart, den März-Korb mal wieder hier im Blog vorzustellen. Die
+letzten Wochen war ich daher mehr als gespannt, was er wohl enthalten würde. Als
+dann das Paket bei mir eintraf, musste es selbstverständlich umgehend ausgepackt
+werden.**
 
 Heraus purzelten eine Handcreme, ein Toner, ein Nagellack, ein Shampoo sowie ein
 Eyeliner. Soviel in Kürze.
@@ -65,7 +66,13 @@ Eyeliner. Soviel in Kürze.
 
 ![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/27013367728_35b8fff359_z-400x267.jpg)
 
-tragen!
+Was den Vegan Beauty Basket von allen anderen Beauty Boxen unterscheidet: Eines
+der Produkte, wird einem kurz vor dem Versand verraten und man kann sich eine
+Variante aussuchen. In diesem Fall war das der Nagellack von Glossworks 9free.
+Zur Wahl standen "Coming-Off-Beige", "Blush", "In The Pink" und "Name Of The
+Rose". Ich habe mich für "Blush" entschieden und bin ganz verzückt von der
+schönen Farbe. Hoffentlich kann man schon bald wieder
+[Flip Flops](/2018/03/gumbies-vegane-strandsandalen/) tragen!
 
 Der Lack stammt aus England. Er lässt sich prima auftragen und trocknet sehr
 schnell. Ich kann mir gut vorstellen, ihn auch in andere Farben auszuprobieren.
@@ -86,26 +93,41 @@ notwendige Pflege sorgen Kamille-Extrakt und Olivenöl.
 
 ![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/40841814562_cc245f01ba_z-400x267.jpg)
 
-gerade zur Neige geht und ich mir eigentlich gerade eine neue Flasche besorgen
-wollte, kam der Daily Defence Mist von Evolve Organic Beauty gerade recht. Was
-als Erstes auffällt: Es kühlt angenehm, brennt nicht und duftet sehr angenehm.
+Nachdem mein [Lieblingstoner](/2018/01/santaverde/) gerade zur Neige geht und
+ich mir eigentlich gerade eine neue Flasche besorgen wollte, kam der Daily
+Defence Mist von Evolve Organic Beauty gerade recht. Was als Erstes auffällt: Es
+kühlt angenehm, brennt nicht und duftet sehr angenehm.
 
-Zusammen mit einer guten [Festival](/2018/01/ashera-yin-yang-balance/) reisen.
-Es kann auch über dem Make-up aufgetragen werden und da es so angenehm kühlt,
-ist es ein willkommener Frischekick für zwischendurch.
+Zusammen mit einer guten [Gesichtscreme](/2018/01/ashera-yin-yang-balance/)
+ bildet es für mich die perfekte Unterlage und dem täglichen Make-up. Extrakte
+aus Afrikanischen Moringa-Samen sollen die Poren vor Unreinheiten schützen,
+Auszüge aus Mexikanischen Kakteen gereizte Haut beruhigen. Hergestellt wird es
+im [Englischen](/category/unterwegs/england/) Herts. Meines wurde von Leanne
+gemacht. So steht es auf der kleinen Glasflasche. Was jetzt schon sicher ist:
+Ein Fläschchen davon wird mit mir auf das nächste
+[Festival](/category/musik/festivals/) reisen. Es kann auch über dem Make-up
+aufgetragen werden und da es so angenehm kühlt, ist es ein willkommener
+Frischekick für zwischendurch.
 
 ![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/40883544741_c55b776bc6_z-400x267.jpg)
 
-, Vitaminen und Avocadoöl. Für den frischen Frühlingsduft sorgen Pfefferminz-
-und Mandarinenöl.
+Eine Lobhudelei hat definitiv die Handcreme aus dem Hause Studio Botanic
+verdient. Wow, ist die klasse! Sieh pflegt die vom Winter strapazierte Haut
+richtig gut, zieht gut ein und duftet wunderbar. Ich trage sie jetzt immer mit
+mir herum und hoffe, dass sie nicht zu schnell leer ist. Sie pflegt mit
+[Antioxidantien](/2017/02/tigovit-gruener-tee-in-hohen-dosen/), Vitaminen und
+Avocadoöl. Für den frischen Frühlingsduft sorgen Pfefferminz- und Mandarinenöl.
 
 ## Ein Eyeliner komplett ohne Plastik
 
 Der Eyeliner ist der erste, den ich in Händen halte, der
-[bis Kunststoff sich zersetzt](/2017/04/interview-mit-zero-waste-aktivistin-vio/)
-und dass es auch gut ohne geht. Doch nicht nur dafür möchte ich den Boho Green
-Eyeliner positiv erwähnen. Er glänzt nicht zu stark, hält irre lange, lässt sich
-gut auftragen und bröckelt nicht. Ich würde ihn auf jeden Fall wieder kaufen.
+[komplett ohne Plastik](/2017/04/interview-mit-zero-waste-aktivistin-vio/)
+auskommt. Ich finde das klasse. So langsam merkt auch die Kosmetikbranche, wie
+lange es dauert,
+[bis Kunststoff sich zersetzt](/2018/03/world-ocean-summit-2018/) und dass es
+auch gut ohne geht. Doch nicht nur dafür möchte ich den Boho Green Eyeliner
+positiv erwähnen. Er glänzt nicht zu stark, hält irre lange, lässt sich gut
+auftragen und bröckelt nicht. Ich würde ihn auf jeden Fall wieder kaufen.
 
 ![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/39989999435_6fd07b6b29_z-400x267.jpg)
 
@@ -129,17 +151,17 @@ Berichtet doch mal, wie  Euch die Produkte gefallen.
 
 ## Wegweiser Vegan Beauty Basket
 
-<ol>
-    <li> [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/) </li>
-    <li> [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/) </li>
-    <li> [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) </li>
-    <li> [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/) </li>
-    <li>Unboxing März-Ausgabe 3/2018</li>
-</ol>
+1.  [Der Basket im 3er-Abo 8/2016](/2016/08/vegan-beauty-basket-gratis-aktion/)
+1.  [Im Test 9/2016](/2016/09/vegan-beauty-basket-im-test/)
+1.  [Unboxing Weihnachtsedition 12/2016](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/)
+1.  [Interview mit Gründerin Ina 2/2017](/2017/02/vegan-beauty-basket-interview/)
+1.  Unboxing März-Ausgabe 3/2018
 
 Zum Vegan Beauty Basket geht es
 [hier entlang.](https://www.veganbeautybasket.com/)
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,11 +4,9 @@ seoTitle: Pflege-Set zum Kennenlernen von Santaverde - veganer Geschenktipp
 slug: pflege-set-zum-kennenlernen-santaverde-geschenktipp
 link: /2019/12/pflege-set-zum-kennenlernen-santaverde-geschenktipp/
 fileName: 2019-12---pflege-set-zum-kennenlernen-von-santaverde.md
-description:
-  Weihnachten steht vor der Tür - das Santaverde Pflegeset zum Kennenlernen ist
-  eine schöne Geschenk-Idee für alle Vegan Beauties.
-excerpt:
-  Werbung - Weihnachten steht vor der Tür - das Santaverde Pflegeset zum
+description: Weihnachten steht vor der Tür - das Santaverde Pflegeset zum
+  Kennenlernen ist eine schöne Geschenk-Idee für alle Vegan Beauties.
+excerpt: Werbung - Weihnachten steht vor der Tür - das Santaverde Pflegeset zum
   Kennenlernen ist eine schöne Geschenk-Idee für alle Vegan Beauties.
 focusKeyword: Santaverde
 labels:
@@ -26,14 +24,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26848"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Geschenkidee
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Weihnachten steht vor der Tür. So langsam wird es Zeit, sich Gedanken
-über die passenden Geschenke zu machen. Das Santaverde Pflegeset zum
-Kennenlernen ist eine schöne Idee für alle Vegan Beauties.</strong>
+**Weihnachten steht vor der Tür. So langsam wird es Zeit, sich Gedanken über die
+passenden Geschenke zu machen. Das Santaverde Pflegeset zum Kennenlernen ist
+eine schöne Idee für alle Vegan Beauties.**
 
 Oder vielleicht habt Ihr ja auch Lust, jemand ganz besonderes von toller veganer
 Naturkosmetik zu überzeugen? Auch dann bietet sich das Kennenlern-Set an.
@@ -47,19 +48,19 @@ Gepäck.
 
 Im Set enthalten sind
 
-<ul>
-    <li>Cleansing emulsion (15 ml)</li>
-    <li>Cream Medium (15 ml)</li>
-    <li>Hydro Repair Gel (15 ml)</li>
-</ul>
+- Cleansing emulsion (15 ml)
+- Cream Medium (15 ml)
+- Hydro Repair Gel (15 ml)
 
 ## Ein frisches Hautgefühl
 
 ![Santaverde](http://cardamonchai.com/wp-content/uploads/2019/11/2019-11-17-santaverde-1-400x533.jpg)
 
-habe ich täglich in Gebrauch. Sie eignet sich perfekt zum Abschminken. Einfach
-auftragen und mit einem Waschlappen oder nur mit Wasser abwaschen - fertig.
-Watte spart Ihr Euch dabei komplett.
+Die Santaverde Produkte sorgen für ein angenehmes Hautgefühl. Die
+[Cleansing Emulsion](/2019/04/santaverde-aloe-vera-reinigungsemulsion/) habe ich
+täglich in Gebrauch. Sie eignet sich perfekt zum Abschminken. Einfach auftragen
+und mit einem Waschlappen oder nur mit Wasser abwaschen - fertig. Watte spart
+Ihr Euch dabei komplett.
 
 Sie befreit die Haut von Schmutz und Talg und bereitet sie auf die Pflege vor.
 Der enthaltene Aloe Vera Saft soll die Haut dabei vor Feuchtigkeitsverlust
@@ -103,13 +104,17 @@ Pflegeprodukte verwenden.
 [glry name="weihnachtensantaverde"]
 
 Wer jetzt neugierig geworden ist: Alles über Santaverde könnt Ihr
-[santaverde.de](/tag/santaverde/).
+[hier im Blog erfahren](/tag/santaverde/). Die Santaverde Produkte findet Ihr in
+autorisierten Reformhäusern, Biomärkten sowie verschiedenen Apotheken,
+Parfümerien und direkt auf [santaverde.de](https://www.santaverde.de/).
 
 Hat Euch mein Geschenktipp gefallen? Das freut mich! Lest gerne auch meine
 weiteren Artikel zum Thema Santaverde. Wenn Ihr ihn Zukunft nichts mehr auf
 meiner Seite verpassen möchtet,
 [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

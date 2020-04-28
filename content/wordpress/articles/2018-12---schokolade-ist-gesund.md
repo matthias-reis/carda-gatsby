@@ -4,13 +4,13 @@ seoTitle: Schokolade ist gesund - Polyphenole in der Forschung
 slug: schokolade-ist-gesund
 link: /2018/12/schokolade-ist-gesund/
 fileName: 2018-12---schokolade-ist-gesund.md
-description:
-  Der Wissenschaftliche Pressedienst brachte ein 11-seitiges Pamphlet zum Thema
-  Schokolade heraus. Daraus geht hervor, dass sie gut für die Gesundheit ist.
-excerpt:
-  Vor Kurzem brachte der Wissenschaftliche Pressedienst ein 11-seitiges Pamphlet
-  zum Thema Schokolade heraus. Daraus geht unter anderem hervor, dass sie gut
-  für das Herz-Kreislauf-System ist und Entzündungen entgegenwirken kann.
+description: Der Wissenschaftliche Pressedienst brachte ein 11-seitiges Pamphlet
+  zum Thema Schokolade heraus. Daraus geht hervor, dass sie gut für die
+  Gesundheit ist.
+excerpt: Vor Kurzem brachte der Wissenschaftliche Pressedienst ein 11-seitiges
+  Pamphlet zum Thema Schokolade heraus. Daraus geht unter anderem hervor, dass
+  sie gut für das Herz-Kreislauf-System ist und Entzündungen entgegenwirken
+  kann.
 focusKeyword: Schokolade
 labels:
   - Darum vegan
@@ -33,18 +33,25 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22924"
+image: /img/demo.jpg
+errors: []
 subTitle: Polyphenole in der Forschung
+  
 ---
 
-<strong>Vor Kurzem brachte der Wissenschaftliche Pressedienst (WPD) ein
-11-seitiges Pamphlet zum Thema "Moderne Ernährung heute" mit dem Titel
-"Schokolade - ein besonderes Lebensmittel" heraus. Speziell werden darin die
-sogenannten Polyphenole betrachtet. Diese sind nicht nur antioxidativ wirksam,
-sie besitzen zudem antikarzinogene Eigenschaften.</strong>
+**Vor Kurzem brachte der Wissenschaftliche Pressedienst (WPD) ein 11-seitiges
+Pamphlet zum Thema "Moderne Ernährung heute" mit dem Titel "Schokolade - ein
+besonderes Lebensmittel" heraus. Speziell werden darin die sogenannten
+Polyphenole betrachtet. Diese sind nicht nur antioxidativ wirksam, sie besitzen
+zudem antikarzinogene Eigenschaften.**
 
 In der Zusammenfassung der Veröffentlichung heißt es unter anderem:
 
-<blockquote>"Kakao und Schokolade erfreuen sich nicht nur aufgrund ihres guten Geschmacks und Aromas größter Beliebtheit. Auch der Wandel in der Beurteilung sekundärer Pflanzenstoffe wie den Polyphenolen, die vor nicht allzu langer Zeit noch als unbedeutend galten, machen Kakao zu einem wertvollen Rohstoff und Schokolade zu einem geschätzten Lebensmittel."</blockquote>
+> "Kakao und Schokolade erfreuen sich nicht nur aufgrund ihres guten Geschmacks
+> und Aromas größter Beliebtheit. Auch der Wandel in der Beurteilung sekundärer
+> Pflanzenstoffe wie den Polyphenolen, die vor nicht allzu langer Zeit noch als
+> unbedeutend galten, machen Kakao zu einem wertvollen Rohstoff und Schokolade
+> zu einem geschätzten Lebensmittel."
 
 Erst im Jahr 2013 wurde die im Rahmen der Zulassung eines Health Claims für
 bestimmte Kakaoerzeugnisse mit hohen Gehalten an Kakaoflavanolen die
@@ -83,7 +90,8 @@ langfristiger Natur.  2013 wurde von der Europäischen Behörde für
 Lebensmittelsicherheit dann ein spezieller Health Claim für Kakaoflavanole
 herausgegeben. Daraus geht unter anderem hervor:
 
-<blockquote>"Kakaofloavanole helfen die Endothel-abhängige Elastizität der Blutgefäße aufrechtzuerhalten und tragen damit zu einem normalen Blutfluss bei."</blockquote>
+> "Kakaofloavanole helfen die Endothel-abhängige Elastizität der Blutgefäße
+> aufrechtzuerhalten und tragen damit zu einem normalen Blutfluss bei."
 
 Damit diese Wirkung erlangt werden kann, empfiehlt die Europäische Behörde für
 Lebensmittelsicherheit (EFSA) die tägliche Aufnahme von 200 mg Kakaoflavanolen.
@@ -139,11 +147,11 @@ die Azteken und Maja setzen auch wir heute auf ihre Wirkung.
 
 Eingeteilt werden die Polyphenole in drei Stoffklassen:
 
-<ul>
-    <li>Phenol(carbon)säuren - Dazu zählt unter anderem Kaffeesäure.</li>
-    <li>Flavonoide gibt es insgesamt mehr als 5.000. Uns sind die Bitterstoffe vor allem aus Kakao,  [Tee](/2017/02/tigovit-gruener-tee-in-hohen-dosen/)  sowie verschiedenen Zitrusfrüchten bekannt.</li>
-    <li>Tannine sind Gerbstoffe. Wir kennen sie aus Hölzern, Wein und und Tee.</li>
-</ul>
+- Phenol(carbon)säuren - Dazu zählt unter anderem Kaffeesäure.
+- Flavonoide gibt es insgesamt mehr als 5.000. Uns sind die Bitterstoffe vor
+  allem aus Kakao, [Tee](/2017/02/tigovit-gruener-tee-in-hohen-dosen/) sowie
+  verschiedenen Zitrusfrüchten bekannt.
+- Tannine sind Gerbstoffe. Wir kennen sie aus Hölzern, Wein und und Tee.
 
 In Kakaobohnen sind die Polyphenole in den sogenannten Keimblättern gespeichert.
 Sie sind vor allem für die Farbe und den Geschmack verantwortlich (bittere Note,
@@ -153,12 +161,15 @@ gefunden wurden kennen wir unter den Bezeichnungen B1, B3, B4 und B5.
 Was hier sehr sachlich und technisch klingt, kann im Alltag durchaus interessant
 sein. Kein schlechtes Gewissen mehr beim Naschen klingt doch gut, oder? Wenn man
 dabei darauf achtet, am besten besonders hochwertige Schokolade (ohne Zusatz von
-Industriezucker oder [vegan](/2014/09/pflanzenmilch-wieso-denn-blos/) umgestellt
-habe, gab es diese "Milchschokolade" mit Reismilch noch gar nicht (zumindest
-nicht überall). Daher beschränkte ich mich auf die Auswahl an
-Zartbitterschokolade, die ohne Butterreinfett und andere tierische Zusatzstoffe
-auskam. Neulich habe ich mal wieder so eine Reismilchschokolade mit Füllung
-probiert. Sie war mir viel zu süß.
+Industriezucker oder [Milch](/2014/09/pflanzenmilch-wieso-denn-blos/) !), zu
+sich zu nehmen, macht man alles richtig. Im ersten Moment schmeckt diese
+vielleicht bitter, aber ich kann aus eigener Erfahrung sagen: Irgendwann kann
+man gar keine andere Schokolade mehr essen. Als ich damals auf
+[vegan](/category/vegan-2/) umgestellt habe, gab es diese "Milchschokolade" mit
+Reismilch noch gar nicht (zumindest nicht überall). Daher beschränkte ich mich
+auf die Auswahl an Zartbitterschokolade, die ohne Butterreinfett und andere
+tierische Zusatzstoffe auskam. Neulich habe ich mal wieder so eine
+Reismilchschokolade mit Füllung probiert. Sie war mir viel zu süß.
 
 Und wenn es gut für die Gesundheit ist, greife ich doch gerne zu, oder? Übrigens
 funktioniert auch dieser kleine Trick sehr gut: Isst man jeden zweiten oder
@@ -166,11 +177,14 @@ dritten (oder auch jeden) Tag ein Stückchen dunkle Schokolade, hat man
 automatisch viel weniger Lust auf Süßes. Probiert's mal aus, ich bin gespannt,
 was ihr berichtet.
 
-<strong>Quelle:</strong> Dieser Artikel liegt einer Pressemitteilung des
-Wissenschaftlichen Pressedienstes zugrunde (
+**Quelle:** Dieser Artikel liegt einer Pressemitteilung des Wissenschaftlichen
+Pressedienstes zugrunde (
 [hier zu finden](http://www.lci-koeln.de/deutsch/startseite/schokolade-ein-besonderes-lebensmittel-forschung-zu-polyphenolen)
 ). Herausgeber des Pamphlets ist das Lebensmittelchemische Institut (LCI), Prof.
 Dr. Reinhard Matissek, Köln
 
-<strong>Fotos: </strong>Schokolade: 
-[akvalsk](https://pixabay.com/de/users/AlexanderStein-45237/), pixabay
+**Fotos:** Schokolade: 
+[AlexanderStein](https://pixabay.com/de/users/AlexanderStein-45237/), pixabay;
+Kakaobohnen: [akvalsk](https://pixabay.com/de/users/akvalsk-25558/), pixabay
+
+  

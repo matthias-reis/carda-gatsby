@@ -4,11 +4,9 @@ seoTitle: Festivalliste 2011 - das solltet Ihr auf jeden Fall einpacken
 slug: die-ultimative-festivalliste-2011
 link: /2011/05/die-ultimative-festivalliste-2011/
 fileName: 2011-05---die-ultimative-festivalliste-2011.md
-description:
-  "Die Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf dem
-  Timetable markiert. Stellt sich nur noch die Frage: Was mitnehmen?"
-excerpt:
-  "Die Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf dem
+description: "Die Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf
+  dem Timetable markiert. Stellt sich nur noch die Frage: Was mitnehmen?"
+excerpt: "Die Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf dem
   Timetable markiert. Stellt sich nur noch die Frage: Was mitnehmen?"
 focusKeyword: ""
 labels:
@@ -57,13 +55,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "1983"
+image: /img/demo.jpg
+errors: []
 subTitle: So langsam rückt die Festivalsaison immer näher
+  
 ---
-
-[](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf) <strong>Die
-Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf dem Timetable
-markiert. Stellt sich nur noch die Frage: Was mitnehmen? Hier meine ultimative
-Festival-Liste. </strong>
 
 Gegenstände wie Bierfässer und Tische wurden absichtlich weggelassen, da die
 letzten Jahre bewiesen haben: Je weniger Ballast, umso besser. Unnötige
@@ -118,4 +114,6 @@ Ausreichend Zigaretten/Tabak, Rauchwaren sind auf dem Festivalgelände teurer
 
 ![Foto: Taubertal Festival 2010 cardamon82 | full](http://cardamonchai.files.wordpress.com/2011/05/40699_145559535466184_100000364159291_308244_6342374_n.jpg "Foto: Taubertal Festival 2010 cardamonchai")
 
-<strong></strong><strong></strong>
+---
+
+  

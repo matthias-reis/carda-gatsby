@@ -1,17 +1,15 @@
 ---
 title: Auf geht's, Forest Green Rovers!
-seoTitle:
-  Auf geht's, Forest Green Rovers - Englands grüne Fußballer kicken vegan
+seoTitle: Auf geht's, Forest Green Rovers - Englands grüne Fußballer kicken vegan
 slug: forest-green-rovers
 link: /2017/08/forest-green-rovers/
 fileName: 2017-08---auf-gehts-forest-green-rovers.md
-description:
-  Im Stadion der Forest Green Rovers gibt es ausschließlich vegane Speisen. Auf
-  Chemie wird verzichtet auf dem Parkplatz kann man sein Elektroauto aufladen.
-excerpt:
-  Im Stadion der Forest Green Rovers gibt es ausschließlich vegane Speisen. Auf
-  Chemie und Fleisch wird verzichtet und auf dem Stadionparkplatz kann man sein
+description: Im Stadion der Forest Green Rovers gibt es ausschließlich vegane
+  Speisen. Auf Chemie wird verzichtet auf dem Parkplatz kann man sein
   Elektroauto aufladen.
+excerpt: Im Stadion der Forest Green Rovers gibt es ausschließlich vegane
+  Speisen. Auf Chemie und Fleisch wird verzichtet und auf dem Stadionparkplatz
+  kann man sein Elektroauto aufladen.
 focusKeyword: Forest Green Rovers
 labels:
   - Christian Doidge
@@ -32,19 +30,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17646"
+image: /img/demo.jpg
+errors: []
 subTitle: Englands grüne Fußballer kicken vegan
+  
 ---
 
-<strong>Normalerweise schlägt mein Herz ja für den
-[](/2016/05/millerntor-stadion-hamburg/). Trotzdem muss ich Euch heute mal eine
-andere Fußballmannschaft vorstellen. Was ich über sie las, hat mich einfach
-schwer beeindruckt.</strong>
+**Normalerweise schlägt mein Herz ja für den
+[_FC St. Pauli_](/2016/05/millerntor-stadion-hamburg/). Trotzdem muss ich Euch
+heute mal eine andere Fußballmannschaft vorstellen. Was ich über sie las, hat
+mich einfach schwer beeindruckt.**
 
-Die <em>Forest Green Rovers</em> spielen seit dieser Saison in der vierthöchsten
-Liga Englands, der <em>League Two</em>. Im Stadion werden den Fans
-ausschließlich vegane Speisen angeboten. Statt Bratwurst gibt es Q-Pie mit Lauch
-und Soja. An allen Trainings- und Spieltagen ernähren sich die Spieler der
-Mannschaft [vegan](/category/vegan-2/).
+Die _Forest Green Rovers_ spielen seit dieser Saison in der vierthöchsten Liga
+Englands, der _League Two_ . Im Stadion werden den Fans ausschließlich vegane
+Speisen angeboten. Statt Bratwurst gibt es Q-Pie mit Lauch und Soja. An allen
+Trainings- und Spieltagen ernähren sich die Spieler der Mannschaft
+[vegan](/category/vegan-2/).
 
 ## Bei den Forest Green Rovers verzichtet man auf Fleisch und Chemie
 
@@ -59,32 +60,33 @@ Dale Vince, seines Zeichens Chef des Clubs, wurde 2004 von der Queen
 höchstpersönlich für sein Engagement im Umweltschutz geehrt. Nicht schlecht
 oder?
 
-Gegründet wurde der <em>Nailsworth &amp; Forest Green FC</em> im Jahr 1890.
-Seither spielt er in verschiedenen Leagues und Divisions um die Meisterschaften.
-In der Saison 2016/2017 erreichten die <em>Forest Green Rovers</em> den dritten
-Platz in der National League. Damit qualifizierten sie sich für das Play-off, wo
-die Mannschaft im Halbfinale <em>Dagenham &amp; Redbridge</em> schlug und ins
-Finale einzog, in dem sie die <em>Tranmere Rovers</em> 3:1 besiegten. So
-schafften sie es, sich für die aktuelle Saison in die <em>Football League
-Two</em> zu kämpfen.
+Gegründet wurde der _Nailsworth &amp; Forest Green FC_ im Jahr 1890. Seither
+spielt er in verschiedenen Leagues und Divisions um die Meisterschaften. In der
+Saison 2016/2017 erreichten die _Forest Green Rovers_ den dritten Platz in der
+National League. Damit qualifizierten sie sich für das Play-off, wo die
+Mannschaft im Halbfinale _Dagenham &amp; Redbridge_ schlug und ins Finale
+einzog, in dem sie die _Tranmere Rovers_ 3:1 besiegten. So schafften sie es,
+sich für die aktuelle Saison in die _Football League Two_ zu kämpfen.
 
 ### Quelle &amp; Fotos
 
 Forest Green Rovers [Link](http://Fotos: Forest Green Rovers,)
 
-Im Titelbild ist zu sehen, wie <em>Forest Green Rovers</em> Spieler Christian
-Doidge am 5. August das erste Tor überhaupt in der League Two gegen Barnet
-schießt und mit seinen Kollegen das 1:0 feiert. Das Foto hat
+Im Titelbild ist zu sehen, wie _Forest Green Rovers_ Spieler Christian Doidge
+am 5. August das erste Tor überhaupt in der League Two gegen Barnet schießt und
+mit seinen Kollegen das 1:0 feiert. Das Foto hat
 [Shane Healey](https://www.flickr.com/people/62443160@N07/) gemacht.
 
 &nbsp;
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 281px; left: 1141px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 281px; left: 1141px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
+
+  

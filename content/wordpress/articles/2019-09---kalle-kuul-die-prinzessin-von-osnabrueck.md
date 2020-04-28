@@ -4,12 +4,10 @@ seoTitle: Kalle Kuul mit neuem Video zu "Die Prinzessin von Osnabrück"
 slug: kalle-kuul-die-prinzessin-von-osnabrueck
 link: /2019/09/kalle-kuul-die-prinzessin-von-osnabrueck/
 fileName: 2019-09---kalle-kuul-die-prinzessin-von-osnabrueck.md
-description:
-  Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt Kalle Kuul
-  gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
-excerpt:
-  Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt Kalle Kuul
-  gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
+description: Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt
+  Kalle Kuul gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
+excerpt: Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt
+  Kalle Kuul gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
 focusKeyword: Kalle Kuul
 labels:
   - Bands & Reviews
@@ -34,14 +32,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26246"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues Video der Kölner Singer-Songwriter
+  
 ---
 
-<strong>Vor ziemlich genau drei Jahren gründeten David und Lukas das
-Singer-Songwriter Projekt Kalle Kuul. Kurze Zeit später kamen Martin und Marcel
-dazu. Rio komplettierte die Band vor Kurzem. Jetzt haben die fünf ihr neues
-Musikvideo vorgestellt. "Die Prinzessin von Osnabrück" ist ein ganz besonderer
-Song.</strong>
+**Vor ziemlich genau drei Jahren gründeten David und Lukas das Singer-Songwriter
+Projekt Kalle Kuul. Kurze Zeit später kamen Martin und Marcel dazu. Rio
+komplettierte die Band vor Kurzem. Jetzt haben die fünf ihr neues Musikvideo
+vorgestellt. "Die Prinzessin von Osnabrück" ist ein ganz besonderer Song.**
 
 2016 fingen David (Gitarre/Ukulele) und Lukas (Gesang) an, gemeinsam Songs zu
 arrangieren, die Lukas in den Jahren davor geschrieben hatte. Etwas später kam
@@ -78,7 +78,17 @@ die regelmäßig in ihrer Heimat Köln performt werden.
 
 Über die "Die Prinzessin von Osnabrück" hat mir Lukas einiges erzählt:
 
-<blockquote>"Ich habe in Leipzig auf der Straße eine Frau kennengelernt. Sie war für die Liebe von Leipzig nach Osnabrück gezogen. Leider hatte das Ganze nicht so funktioniert, wie sie es sich vorgestellt hatte, also war sie wieder auf der Suche nach einer Wohnung in Leipzig. Sie war stinksauer auf ihren Exfreund und zutiefst in ihrem Stolz verletzt. Ihr rotziger Charme stand ihr sehr gut und sie verzauberte mich auf eine ganz besondere Art. Ich hing geradezu an ihren Lippen, als wir bei einem Glas Wein vor einem Hinterhof-Club saßen. Einige Zeilen des Songs sind direkte Zitate von ihr: 'Ich bin fast 30, doch seh aus wie 22' zum Beispiel. Den einzigen Kontakt seither hatten wir, als ich ihr den Link zum Video geschickt habe. Sie war entzückt. Ich glaube, dass ich nun sogar Teil ihres Hofstaats sein darf."</blockquote>
+> "Ich habe in Leipzig auf der Straße eine Frau kennengelernt. Sie war für die
+> Liebe von Leipzig nach Osnabrück gezogen. Leider hatte das Ganze nicht so
+> funktioniert, wie sie es sich vorgestellt hatte, also war sie wieder auf der
+> Suche nach einer Wohnung in Leipzig. Sie war stinksauer auf ihren Exfreund und
+> zutiefst in ihrem Stolz verletzt. Ihr rotziger Charme stand ihr sehr gut und
+> sie verzauberte mich auf eine ganz besondere Art. Ich hing geradezu an ihren
+> Lippen, als wir bei einem Glas Wein vor einem Hinterhof-Club saßen. Einige
+> Zeilen des Songs sind direkte Zitate von ihr: 'Ich bin fast 30, doch seh aus
+> wie 22' zum Beispiel. Den einzigen Kontakt seither hatten wir, als ich ihr den
+> Link zum Video geschickt habe. Sie war entzückt. Ich glaube, dass ich nun
+> sogar Teil ihres Hofstaats sein darf."
 
 Aufgenommen haben Kalle Kuul den Song in Davids Wohnzimmer. Das Video hat Lukas
 Kumpel Julian Lührs gefilmt und geschnitten. Die heimliche Hauptrolle hat seine
@@ -94,4 +104,6 @@ wird hier im Blog ein Interview mit Kalle Kuul erscheinen. Wenn Ihr in Zukunft
 nichts mehr verpassen wollt, [abonniert gerne meinen Newsletter](#newsletter).
 Dann halte ich Euch auf dem Laufenden.
 
-<strong>Quelle und Fotos:</strong> [Kalle Kuul](https://kallekuul.com/)
+**Quelle und Fotos:** [Kalle Kuul](https://kallekuul.com/)
+
+  

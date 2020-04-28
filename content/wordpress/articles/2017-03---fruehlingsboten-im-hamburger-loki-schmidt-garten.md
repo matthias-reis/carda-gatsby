@@ -1,17 +1,15 @@
 ---
 title: Frühlingsboten im Hamburger Loki Schmidt Garten
-seoTitle:
-  Frühlingsboten im Hamburger Loki Schmidt Garten - Der Winter verabschiedet
-  sich
+seoTitle: Frühlingsboten im Hamburger Loki Schmidt Garten - Der Winter verabschiedet sich
 slug: fruehlingsboten-im-hamburger-loki-schmidt-garten
 link: /2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/
 fileName: 2017-03---fruehlingsboten-im-hamburger-loki-schmidt-garten.md
-description:
-  Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles scheint in
-  zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester - Fotoserie
-excerpt:
-  Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles scheint in
-  zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester - Fotoserie
+description: Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles
+  scheint in zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester
+  - Fotoserie
+excerpt: Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles
+  scheint in zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester
+  - Fotoserie
 focusKeyword: Frühlingsboten
 labels:
   - Blumen
@@ -40,12 +38,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16082"
+image: /img/demo.jpg
+errors: []
 subTitle: Der Winter verabschiedet sich
+  
 ---
 
 ![Frühlingsboten](http://cardamonchai.com/wp-content/uploads/2017/03/33267695745_52dc39f3f7_z.jpg)
 
-<strong>
+**Die ersten zarten Frühlingsboten zeigen sich. Unermüdlich drängen zarte
+Pflänzchen in Richtung Erdoberfläche. Der Sonne entgegen.**
 
 Auch im Loki Schmidt Garten zeigen sich die ersten Pastelltöne. Der Winter
 verabschiedet sich langsam aber sicher.
@@ -80,10 +82,10 @@ Und nun: Diashow ab. :-)
 
 ## Wegweiser Loki Schmidt Garten
 
-<ol>
-    <li> [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/) </li>
-    <li> [Spätsommer](/2016/08/spaetsommer-loki-schmidt-garten/) </li>
-    <li>Frühlingsboten</li>
-    <li> [Erster Mai](/2018/05/erster-mai-gegensaetze/) </li>
-    <li> [September](/2019/09/september-im-loki-schmidt-garten/) </li>
-</ol>
+1.  [Indian Summer](/2015/09/indian-summer-im-loki-schmidt-garten/)
+1.  [Spätsommer](/2016/08/spaetsommer-loki-schmidt-garten/)
+1.  Frühlingsboten
+1.  [Erster Mai](/2018/05/erster-mai-gegensaetze/)
+1.  [September](/2019/09/september-im-loki-schmidt-garten/)
+
+  

@@ -4,13 +4,11 @@ seoTitle: Neue Mitte Altona - ein paar Gedanken zum neuen Bezirk
 slug: neue-mitte-altona
 link: /2019/05/neue-mitte-altona/
 fileName: 2019-05---neue-mitte.md
-description:
-  Die neue Mitte Altona erhebt sich nach und nach zwischen den Gleisen. Bis
-  jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner gibt es
-  schon.
-excerpt:
-  Die neue Mitte Altona erhebt sich nach und nach zwischen den Gleisen. Bis
-  jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner gibt es
+description: Die neue Mitte Altona erhebt sich nach und nach zwischen den
+  Gleisen. Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner
+  gibt es schon.
+excerpt: Die neue Mitte Altona erhebt sich nach und nach zwischen den Gleisen.
+  Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner gibt es
   schon.
 focusKeyword: neue Mitte
 labels:
@@ -29,7 +27,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24121"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Stadtteil verändert sich
+  
 ---
 
 Eine neue Häuserzeile rankt sich entlang der Gleise. Dahinter ein Meer aus
@@ -62,3 +63,5 @@ Spelunken Geschichte. Über allem ein Dunst aus geröstetem Kaffee, Maische und
 Beton.
 
 [glry name="neuemittealtonaanne"]
+
+  

@@ -4,12 +4,10 @@ seoTitle: Die Sprache der Blumen
 slug: die-sprache-der-blumen
 link: /2009/06/die-sprache-der-blumen/
 fileName: 2009-06---die-sprache-der-blumen.md
-description:
-  Warum verschenken wir Blumen? Wer spricht die Sprache der Blumen? Warum freuen
-  wir uns, wenn wir welche geschenkt bekommen?
-excerpt:
-  In diesem Artikel dreht sich alles um die Sprache der Blumen und warum wir sie
-  uns gegenseitig schenken.
+description: Warum verschenken wir Blumen? Wer spricht die Sprache der Blumen?
+  Warum freuen wir uns, wenn wir welche geschenkt bekommen?
+excerpt: In diesem Artikel dreht sich alles um die Sprache der Blumen und warum
+  wir sie uns gegenseitig schenken.
 focusKeyword: Die Sprache der Blumen
 labels:
   - Blumen
@@ -21,12 +19,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "395"
+image: /img/demo.jpg
+errors: []
 subTitle: Warum verschenken wir Blumen?
+  
 ---
-
-<b>In diesem Artikel dreht sich alles um die Sprache der Blumen, warum wir
-Blumen verschenken, welche Gründe wir dafür haben und warum wir uns freuen, wenn
-wir welche geschenkt bekommen.</b>## Erste große Tradition: Valentinstag
 
 Der Brauch geht sehr weit zurück. Im antiken Rom wurde am 14. Februar die
 [Lupercalia](http://matriarchat.net/grundlagen/gueterverteilung/feste_feiern/lupercalia.html)
@@ -96,4 +93,64 @@ Ganz unabhängig vom Anlaß: es ist ein schöner Brauch, Blumen zu verschenken,
 ganz besonders, wenn man die „Sprache der Blumen“ kennt. Am schönsten ist
 natürlich immer ein selbstgemachter Blumenstrauß.
 
-## Einige Blumen und ihre Bedeutung<ul><li>Akazie (rote) - Eleganz</li><li>Akelei - Torheit</li><li>Allgut, Feldspinat - Güte</li><li>Aloe - Bitterkeit, Schmerz</li><li>Absinth - Abwesenheit, Trennung</li><li>Bärenklau - Pflege der schönen Künste</li><li>Bärenöhrlein - Liebe zum Wechsel, Wankelmut</li><li>Baldrian (roter) - Leichtigkeit</li><li>Beifuß - Glück</li><li>Eibisch - Du bist sehr hübsch</li><li>Eiche - Gastfreundschaft</li><li>Gewürznelke - Würde</li><li>Ginster - Reinlichkeit</li><li>Hexenkraut - Zauberei</li><li>Himbeerstrauch - süße Sprache</li><li>Jasmin (virginischer) - Trennung</li><li>Jasmin (weißer) - Liebenswürdigkeit</li><li>Klee - Ungewißheit</li><li>Lavendel - Mißtrauen</li><li>Leberkraut - Vertrauen</li><li>Levkoje (gefüllte) - bleibende Schönheit</li><li>Lilie - Majestät</li><li>Lilie (gelbe) - Eitelkeit, Prunksucht</li><li>Linde - eheliche Liebe</li><li>Myrthe - Liebe</li><li>Myrtill - Verra</li><li>Nelke - glühende und reine Liebe</li><li>Ochsenzunge - Lüge</li><li>Odermennig - Dankbarkeit</li><li>Olivenbaum - Friede</li><li>Pfirsichblüte - Liebesglück</li><li>Queckengras - Hartnäckigkeit</li><li>Allgemein Rose - Schönheit</li><li>Einfache Rose - Einfachheit, Einfalt</li><li>Gelbe Rose - Untreue</li><li>Weiße Rose - Schweigen</li><li>Eine weiße mit einer roten Rose - Feuer des Herzens</li><li>Wilde Rose - Dichtkunst, Poesie</li><li>Schneeglöckchen - Trost</li><li>Schwarzdorn - Hoffnung</li><li>Schwarzpappel - Mut</li><li>Schwarzwurzel - Sei meine Stütze!</li><li>Schwertlilie, Iris - Botschaft</li><li>Tabak - besiegte Schwierigkeit</li><li>Tausendgüldenkraut - Glückseligkeit</li><li>Thymian - Tätigkeit</li><li>Traubenfarn - Träumerei</li><li>Ulmenwinde - Nutzlosigkeit</li><li>Veilchen - Bescheidenheit</li><li>Veilchen (weißes) - Aufrichtigkeit, Unschuld</li><li>Venusspiegel - Schmeichelei</li><li>Wilde Raute - Sitten</li><li>Winde - Rechne auf meine Anhänglichkeit (Ergebenheit)</li><li>Wintergrün - süße Erinnerungen</li><li>Zehrkraut - Aufregung, Überraschung, Unruhe</li><li>Zichorie - Genügsamkeit</li><li>Zitterpappel - Seufzer</li></ul><strong>Quellen:</strong> Wikipedia, Blumensprache.de, ganz-muenchen.de, matriachat.net
+## Einige Blumen und ihre Bedeutung- Akazie (rote) - Eleganz
+
+- Akelei - Torheit
+- Allgut, Feldspinat - Güte
+- Aloe - Bitterkeit, Schmerz
+- Absinth - Abwesenheit, Trennung
+- Bärenklau - Pflege der schönen Künste
+- Bärenöhrlein - Liebe zum Wechsel, Wankelmut
+- Baldrian (roter) - Leichtigkeit
+- Beifuß - Glück
+- Eibisch - Du bist sehr hübsch
+- Eiche - Gastfreundschaft
+- Gewürznelke - Würde
+- Ginster - Reinlichkeit
+- Hexenkraut - Zauberei
+- Himbeerstrauch - süße Sprache
+- Jasmin (virginischer) - Trennung
+- Jasmin (weißer) - Liebenswürdigkeit
+- Klee - Ungewißheit
+- Lavendel - Mißtrauen
+- Leberkraut - Vertrauen
+- Levkoje (gefüllte) - bleibende Schönheit
+- Lilie - Majestät
+- Lilie (gelbe) - Eitelkeit, Prunksucht
+- Linde - eheliche Liebe
+- Myrthe - Liebe
+- Myrtill - Verra
+- Nelke - glühende und reine Liebe
+- Ochsenzunge - Lüge
+- Odermennig - Dankbarkeit
+- Olivenbaum - Friede
+- Pfirsichblüte - Liebesglück
+- Queckengras - Hartnäckigkeit
+- Allgemein Rose - Schönheit
+- Einfache Rose - Einfachheit, Einfalt
+- Gelbe Rose - Untreue
+- Weiße Rose - Schweigen
+- Eine weiße mit einer roten Rose - Feuer des Herzens
+- Wilde Rose - Dichtkunst, Poesie
+- Schneeglöckchen - Trost
+- Schwarzdorn - Hoffnung
+- Schwarzpappel - Mut
+- Schwarzwurzel - Sei meine Stütze!
+- Schwertlilie, Iris - Botschaft
+- Tabak - besiegte Schwierigkeit
+- Tausendgüldenkraut - Glückseligkeit
+- Thymian - Tätigkeit
+- Traubenfarn - Träumerei
+- Ulmenwinde - Nutzlosigkeit
+- Veilchen - Bescheidenheit
+- Veilchen (weißes) - Aufrichtigkeit, Unschuld
+- Venusspiegel - Schmeichelei
+- Wilde Raute - Sitten
+- Winde - Rechne auf meine Anhänglichkeit (Ergebenheit)
+- Wintergrün - süße Erinnerungen
+- Zehrkraut - Aufregung, Überraschung, Unruhe
+- Zichorie - Genügsamkeit
+- Zitterpappel - Seufzer **Quellen:** Wikipedia, Blumensprache.de,
+  ganz-muenchen.de, matriachat.net
+
+  

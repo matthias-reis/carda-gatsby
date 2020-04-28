@@ -4,12 +4,10 @@ seoTitle: Deftones stellen zwei neue Songs vor
 slug: deftones-stellen-zwei-neue-songs-vor-album-im-november
 link: /2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/
 fileName: 2012-09---deftones-stellen-zwei-neue-songs-vor.md
-description:
-  Die Deftones stellen nicht ein, sondern gleich zwei neue Songs vor und
-  kündigen gleich noch ein Album an!
-excerpt:
-  Es ist soweit! Die Deftones haben für November ihr neues Album angekündigt!
-  Was wirklich ein Grund ist, komplett aus dem Häuschen zu geraten.
+description: Die Deftones stellen nicht ein, sondern gleich zwei neue Songs vor
+  und kündigen gleich noch ein Album an!
+excerpt: Es ist soweit! Die Deftones haben für November ihr neues Album
+  angekündigt! Was wirklich ein Grund ist, komplett aus dem Häuschen zu geraten.
 focusKeyword: Deftones
 labels:
   - Bands & Reviews
@@ -36,11 +34,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "9238"
+image: /img/demo.jpg
+errors: []
 subTitle: Album im November
+  
 ---
-
-<strong>Und nun zu meiner besonderen Spezialität, die ich so groß angekündigt
-habe, ich möchte sie Euch natürlich nicht vorenthalten.</strong>
 
 Es ist soweit! Die Deftones haben für November ihr neues Album angekündigt! Was
 wirklich ein Grund ist, komplett aus dem Häuschen zu geraten. Laut wilder,
@@ -72,4 +70,6 @@ Dieser Artikel ist [Chi Cheng](http://oneloveforchi.com/) gewidmet. ♥
 
 [youtube=http://www.youtube.com/watch?v=VyNBc-_Ctbk&amp;feature=player_embedded]
 
-## Wichtige Links: [DEFTONES](http://oneloveforchi.com/)
+## Wichtige Links: [ONE LOVE FOR CHI](http://oneloveforchi.com/) [DEFTONES](http://www.deftones.com/main/)
+
+  

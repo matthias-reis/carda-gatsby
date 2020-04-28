@@ -4,12 +4,10 @@ seoTitle: Glasnudelsalat mit Mango - vegan - Rezept für vier Portionen
 slug: glasnudelsalat-mit-mango-vegan
 link: /2017/03/glasnudelsalat-mit-mango-vegan/
 fileName: 2017-03---glasnudelsalat-mit-mango-vegan.md
-description:
-  Glasnudelsalat gehört zu meinen absoluten Lieblingsgerichten. Heute verrate
-  ich Euch mein Rezept. Ich wünsche Euch guten Appetit!
-excerpt:
-  Glasnudelsalat mit Mango gehört zu meinen absoluten Lieblingsgerichten. Heute
+description: Glasnudelsalat gehört zu meinen absoluten Lieblingsgerichten. Heute
   verrate ich Euch mein Rezept. Ich wünsche Euch guten Appetit!
+excerpt: Glasnudelsalat mit Mango gehört zu meinen absoluten Lieblingsgerichten.
+  Heute verrate ich Euch mein Rezept. Ich wünsche Euch guten Appetit!
 focusKeyword: Glasnudelsalat
 labels:
   - Asiatische Küche
@@ -30,12 +28,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16216"
+image: /img/demo.jpg
+errors: []
 subTitle: Leicht und frühlingshaft
+  
 ---
 
-<strong>Heute habe ich mal wieder ein Rezept für Euch vorbereitet.
-Glasnudelsalat mit Mango gehört zu meinen absoluten Lieblingsgerichten.
-</strong>
+**Heute habe ich mal wieder ein Rezept für Euch vorbereitet. Glasnudelsalat mit
+Mango gehört zu meinen absoluten Lieblingsgerichten.**
 
 Er schmeckt einfach zu jeder Tages- und Nachtzeit und ist schnell und einfach
 zubereitet. Man kann außerdem auch noch ohne schlechtes Gewissen viel davon
@@ -43,20 +43,18 @@ essen, denn: Er ist richtig schön Kalorien-arm. Leicht und frühlingshaft eben.
 
 ## Zutaten für vier Portionen
 
-<ul>
-    <li>250 g Glasnudeln</li>
-    <li>1 Mango</li>
-    <li>250 g Räuchertofu</li>
-    <li>1 Zwiebel</li>
-    <li>150 g Cashew-Kerne</li>
-    <li>1 Limette</li>
-    <li>Frischer Koriander</li>
-    <li>1/2 Eisbergsalat</li>
-    <li>Sojasauce</li>
-    <li>1 - 2 große frische Chilischoten</li>
-    <li>Gemalener Ingwer</li>
-    <li>Kokosöl</li>
-</ul>
+- 250 g Glasnudeln
+- 1 Mango
+- 250 g Räuchertofu
+- 1 Zwiebel
+- 150 g Cashew-Kerne
+- 1 Limette
+- Frischer Koriander
+- 1/2 Eisbergsalat
+- Sojasauce
+- 1 - 2 große frische Chilischoten
+- Gemalener Ingwer
+- Kokosöl
 
 ## Zubereitung
 
@@ -89,4 +87,6 @@ Guten Appetit!
 Das Rezept für die wunderbarste vegane Torte der Welt
 [findet Ihr hier](/2014/09/die-wunderbarste-vegane-torte-der-welt/).
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

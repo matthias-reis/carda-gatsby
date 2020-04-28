@@ -4,12 +4,10 @@ seoTitle: Vorstellungsgespräch mit Hindernissen - Eine Kurzgeschichte
 slug: vorstellungsgesprach-mit-hindernissen
 link: /2011/04/vorstellungsgesprach-mit-hindernissen/
 fileName: 2011-04---vorstellungsgespraech-mit-hindernissen.md
-description:
-  Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr. Überall
-  liegt Rollsplitt. Sie ist unterwegs zu einem Vorstellungsgespräch.
-excerpt:
-  Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr. Überall
-  liegt Rollsplitt. Sie ist unterwegs zu einem Vorstellungsgespräch.
+description: Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr.
+  Überall liegt Rollsplitt. Sie ist unterwegs zu einem Vorstellungsgespräch.
+excerpt: Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr.
+  Überall liegt Rollsplitt. Sie ist unterwegs zu einem Vorstellungsgespräch.
 focusKeyword: Vorstellungsgespräch
 labels:
   - Arbeit
@@ -39,12 +37,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "10646"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine kurze Geschichte aus dem Leben
+  
 ---
 
-<hr /><strong>Hinweis: </strong>Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt. Die Geschichte ist frei erfunden.
-
-<hr /><strong>Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr. Überall liegt Rollsplitt.</strong>
+<hr /> __Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr. Überall liegt Rollsplitt.__
 
 Auf den Gehsteigen, auf der Straße, im Supermarkt, auf dem Teppich und in den
 Hosenaufschlägen. Auf der kurzen Strecke zwischen Haustür und Bahnhof bist Du
@@ -56,7 +55,7 @@ Deinen Lieblingsplatz im Café und stehen morgens, wenn Du verschlafen aus der
 Tür kommst vor Deinem Haus, um dieses baufällige, denkmalgeschütze Gebäude zu
 fotografieren.
 
-![Überall liegt Rollsplit](http://cardamonchai.com/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o-640x640.jpg " [](/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o.jpg)  Überall liegt Rollsplit")
+![Überall liegt Rollsplit](http://cardamonchai.com/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o-640x640.jpg "[ ](/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o.jpg)  Überall liegt Rollsplit")
 
 Wieder mal bist Du viel zu früh am Bahnhof. Noch eine Viertelstunde, bis der Zug
 kommt, aber Du hattest ja mal wieder Angst, zu spät zu kommen. Man muss sich ja
@@ -145,3 +144,5 @@ Kaffeebecher der Sekretärin vom Tresen, schüttest langsam den Kaffee über sei
 Hemd, zwinkerst der Sekretärin zu, wünschst ihr einen schönen Tag, schneidest
 Deinem nicht mehr potentiellen Chef im Gehen eine furchteinflößende Grimasse und
 rennst aus dem Gebäude.
+
+  

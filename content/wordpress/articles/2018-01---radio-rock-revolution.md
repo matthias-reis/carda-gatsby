@@ -1,17 +1,14 @@
 ---
 title: Radio Rock Revolution
-seoTitle:
-  Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
+seoTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
 slug: radio-paradise
 link: /2018/01/radio-paradise/
 fileName: 2018-01---radio-rock-revolution.md
-description:
-  "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann jeder. Heute
-  möchte ich Euch mal einen ganz besonderen Radiosender empfehlen: Radio
-  Paradise."
-excerpt:
-  "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann jeder. Heute
-  möchte ich Euch mal einen ganz besonderen Radiosender empfehlen: Radio
+description: "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann
+  jeder. Heute möchte ich Euch mal einen ganz besonderen Radiosender empfehlen:
+  Radio Paradise."
+excerpt: "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann jeder.
+  Heute möchte ich Euch mal einen ganz besonderen Radiosender empfehlen: Radio
   Paradise."
 focusKeyword: Radio Paradise
 labels:
@@ -48,17 +45,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18942"
+image: /img/demo.jpg
+errors: []
 subTitle: Internet-Radiosender zeigt, wie Musik geht
+  
 ---
 
-<strong>Ich bin ja durchaus dafür bekannt, mich gerne mal über die
+**Ich bin ja durchaus dafür bekannt, mich gerne mal über die
 [Musik im Radio aufzuregen](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/).
 Oder über Radiosender generell. Aber meckern kann ja jeder. Heute möchte ich mal
 einen Radiosender loben. Für sein abwechslungsreiches Programm, für seine
-Kreativität und für die Liebe zum Detail.</strong>
+Kreativität und für die Liebe zum Detail.**
 
-Die Rede ist von dem kleinen, unabhängigen Sender <em>Radio Paradise </em>aus
-Kalifornien. Betrieben wird <em>Radio Paradise</em> von zwei Musikliebhabern.
+Die Rede ist von dem kleinen, unabhängigen Sender _Radio Paradise_ aus
+Kalifornien. Betrieben wird _Radio Paradise_ von zwei Musikliebhabern.
 Hobbymäßig, in Eigenregie. Was dabei herauskommt ist ein traumhafter Mix aus den
 verschiedensten Musikrichtungen. Ohne Werbung, ohne Kommerz ohne Popsternchen,
 nervige Wiederholungen und Jingles.
@@ -72,11 +72,16 @@ ganz forsch und behaupte: Ich kenne die Antwort.
 
 ![ | full](http://cardamonchai.com/wp-content/uploads/2018/01/Radio-Paradise1.png)
 
-auf gar keinen Fall. Musikfreunde kommen auf alle Fälle auf ihre Kosten.
+Die Internet-Radiostation _Radio Paradis_ e kann bequem über eine App
+angesteuert werden, ist aber auch ganz normal über den Browser erreichbar. Die
+Betreiber selbst bezeichnen ihren Sender als "eclectic online rock radio".
+Übersetzt bedeutet das soviel wie "vielseitiges Online Rockradio". Dem würde ich
+ganz klar zustimmen. Langweilig wird es einem Bei _Radio Paradise_ auf gar
+keinen Fall. Musikfreunde kommen auf alle Fälle auf ihre Kosten.
 
 ## Es gibt eine lebendige Community
 
-Doch damit nicht genug. Auf der <em>Radio Paradise</em> Homepage findet man eine
+Doch damit nicht genug. Auf der _Radio Paradise_ Homepage findet man eine
 Recently Played Funktion. Diese ermöglicht es den Hörern, einzelne Songs in den
 Playlists zu bewerten und zu kommentieren. Neben diesem Review Channel bietet
 sich die Möglichkeit, selbst Songs hochzuladen, und den Radiobetreibern
@@ -139,7 +144,9 @@ Alle, die jetzt nur noch eins wollen: Radio Paradise endlich entdecken und
 genießen: [Hier geht's lang!](https://www.radioparadise.com/rp_2.php?#) Come to
 the dark side! We have cookies!
 
-Special thanks to <em>Radio Paradise</em> - Thank you guys! You are the
-greatest! Keep on keeping music alive! Rock on! Greetings from Hamburg!
+Special thanks to _Radio Paradise_  - Thank you guys! You are the greatest! Keep
+on keeping music alive! Rock on! Greetings from Hamburg!
 
-<strong>Grafik und Bilder / Pictures &amp; graphic:</strong> Radio Paradise
+**Grafik und Bilder / Pictures &amp; graphic:** Radio Paradise
+
+  

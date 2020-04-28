@@ -4,11 +4,10 @@ seoTitle: Russian Circles live @ Knust Hamburg - Post-Rock für die Seele
 slug: russian-circles-knust-hamburg-2017
 link: /2017/02/russian-circles-knust-hamburg-2017/
 fileName: 2017-02---russian-circles-live-knust-hamburg-20-februar-2017.md
-description:
-  Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre Russian
-  Circles live auf der Bühne zu erleben. Für uns war es ein gelungener Abend.
-excerpt:
-  Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre Russian
+description: Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre
+  Russian Circles live auf der Bühne zu erleben. Für uns war es ein gelungener
+  Abend.
+excerpt: Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre Russian
   Circles live auf der Bühne zu erleben. Für uns war es ein sehr gelungener
   Abend.
 focusKeyword: Russian Circles
@@ -28,11 +27,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15928"
+image: /img/demo.jpg
+errors: []
 subTitle: Post-Rock für die Seele
+  
 ---
 
-<strong>Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre, Russian
-Circles live auf der Bühne zu erleben.</strong>
+**Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre, Russian
+Circles live auf der Bühne zu erleben.**
 
 Russian Circles traten im Hamburger Knust auf. Das Publikum im alten
 Punk-Schuppen war sehr gemischt, was den Abend besonders interessant machte.
@@ -55,7 +57,7 @@ spüren, die vielleicht zur einem "Schwamm drüber, Hauptsache gute Laune"-Gefü
 geführt hätten. Das Publikum wurde schlichtweg ignoriert. Zwischendurch war der
 Herr Bassist dann auch noch mehr mit dem Mobiltelefon, als mit seinem Instrument
 beschäftigt. Das ist nicht fair. So viel (Zu viel, ich weiß) also zur Vorband.
-<em>Garth over and out, Party on Wayne!</em>
+_Garth over and out, Party on Wayne!_
 
 Nach rund einer Stunde, gefüllt mit wirren Soundwellen und höflichem
 Fremdschäm-Applaus, war es endlich soweit und Brian Cook (Bass), Dave Turncrantz
@@ -92,4 +94,6 @@ Russian Circles live @ Kranhalle München November 2013
 
 <iframe src="https://www.youtube.com/embed/ONzYMVrhTyk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<em>Für Vale</em>
+_Für Vale_
+
+  

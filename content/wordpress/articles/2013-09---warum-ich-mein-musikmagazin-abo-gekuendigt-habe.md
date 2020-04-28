@@ -4,12 +4,10 @@ seoTitle: Warum ich mein Musikmagazin-Abo gekündigt habe
 slug: musikmagazin-abo-kuendigung
 link: /2013/09/musikmagazin-abo-kuendigung/
 fileName: 2013-09---warum-ich-mein-musikmagazin-abo-gekuendigt-habe.md
-description:
-  Seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich die
-  Zeitschrift, genau wie die gesamte Musiklandschaft in den letzen Jahren sehr
-  verändert.
-excerpt:
-  Seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich die
+description: Seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich
+  die Zeitschrift, genau wie die gesamte Musiklandschaft in den letzen Jahren
+  sehr verändert.
+excerpt: Seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich die
   Zeitschrift, genau wie die gesamte Musiklandschaft in den letzen Jahren sehr
   verändert.
 focusKeyword: ""
@@ -34,14 +32,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7060"
+image: /img/demo.jpg
+errors: []
 subTitle: Enttäuschung ist nicht immer gleich Griesgrämigkeit
+  
 ---
 
 ![Der Wächter über die Visions-Sammlung](http://cardamonchai.files.wordpress.com/2013/09/9464603612_ca7c464246_o.jpg?w=300 "Der Wächter über die Visions-Sammlung")
 
-<strong>Seit ich denken kann, lese ich schon das Musikmagazin Visions. In der
+**Seit ich denken kann, lese ich schon das Musikmagazin Visions. In der
 Vergangenheit habe ich dadurch viele interessante Bands kennengelernt. Ich
-freute mich jeden Monat auf das Erscheinen der neuen Ausgabe.</strong>
+freute mich jeden Monat auf das Erscheinen der neuen Ausgabe.**
 
 Doch seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich die
 Zeitschrift, genau wie die gesamte Musiklandschaft in den letzen Jahren sehr
@@ -74,6 +75,8 @@ Facebook-Beitrag und mein Kommentar dazu:
 
 ![V1 | full](http://cardamonchai.files.wordpress.com/2013/09/v1.jpg)
 
+_Nachtrag ein paar Minuten später:_
+
 Die Online-Redaktion der Visions bleibt auf jeden Fall am Ball! Sie haben mir
 angeboten, ihnen einen Leserbrief zu schreiben. Wie nett! Im Gegenzug habe ich
 Ihnen, ob der Tatsache, dass ich meine Meinung ja nun schon kundgetan habe,
@@ -86,7 +89,7 @@ weiter dran. Hier ist übrigens die Antwort:
 
 Höflich sind die ja auf jeden Fall. :-)
 
-<em>Erneuter Nachtrag, ca. 2 Stunden später:</em>
+_Erneuter Nachtrag, ca. 2 Stunden später:_
 
 Lest einfach selbst.
 
@@ -94,3 +97,5 @@ Lest einfach selbst.
 
 Ich bin gespannt auf Dennis' E-Mail. Und auf Eure selbstverständlich auch!
 Bleibt dran!
+
+  

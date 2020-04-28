@@ -4,12 +4,10 @@ seoTitle: Deutscher Selfpublishing Preis 2019 - "Die Hermetiker" ist dabei!
 slug: deutscher-selfpublishing-preis-2019-wir-sind-dabei
 link: /2019/07/deutscher-selfpublishing-preis-2019-wir-sind-dabei/
 fileName: 2019-07---deutscher-selfpublishing-preis-2019-wir-sind-dabei.md
-description:
-  Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis
+description: Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis
   angemeldet. Um so stolzer wir mit unserem Roman "Die Hermetiker" dabei zu
   sein.
-excerpt:
-  Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis
+excerpt: Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis
   angemeldet. Um so stolzer wir mit unserem Roman "Die Hermetiker" dabei zu
   sein.
 focusKeyword: Deutscher Selfpublishing Preis
@@ -34,20 +32,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24693"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Die Hermetiker" unter den Grafik-Finalist*innen im Juni'
+  
 ---
 
-<strong>Insgesamt 1.810 Titel wurden für die Teilnahme am diesjährigen Deutschen
+**Insgesamt 1.810 Titel wurden für die Teilnahme am diesjährigen Deutschen
 Selfpublishing Preis von BOD angemeldet. Um so stolzer sind Matze und ich, dass
 wir es im Juni mit unserem Roman "Die Hermetiker" es im Juni unter die VLB-TIX
-Buchvorschau-Finalist\*innen geschafft haben.</strong>
+Buchvorschau-Finalist\*innen geschafft haben.**
 
 Die Plattform VLB-TIX vereinfacht Buchhändler\*innen die Suche nach Büchern.
 Eine Listung auf der Seite verbessert natürlich auch für Selfpublisher wie uns
-die Sichtbarkeit. Im Rahmen der Anmeldung zum <strong>Selfpublishing Preis
-2019</strong> hatten alle Teilnehmer die Möglichkeit, für die dortige Listung
-eine Buchvorschau in Form einer Grafik einzusenden. Diese tolle Chance wollten
-wir uns natürlich nicht entgehen lassen.
+die Sichtbarkeit. Im Rahmen der Anmeldung zum **Selfpublishing Preis 2019**
+hatten alle Teilnehmer die Möglichkeit, für die dortige Listung eine
+Buchvorschau in Form einer Grafik einzusenden. Diese tolle Chance wollten wir
+uns natürlich nicht entgehen lassen.
 
 Der Aufruf erfolgte im Mai. Die Finalist\*innen für Juni stehen inzwischen
 fest:"Die Hermetiker" ist unter den ersten zehn.
@@ -55,12 +56,12 @@ fest:"Die Hermetiker" ist unter den ersten zehn.
 ## Deutscher Selfpublishing Preis - Unser kleiner Zwischenerfolg
 
 Das ist ein kleiner Zwischenerfolg, der uns sehr glücklich macht. In der VLB-TIX
-sieht unsere Roman-Seite jetzt so aus [](#1) :
+sieht unsere Roman-Seite jetzt so aus [<sup>1</sup>](#1) :
 
 ![deutscher-selfpublishing-preis | full](http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-14.05.22-960x363.png)
 
 Auf der BOD (Books on demand) Contest-Seite sind wir als drittes Buch zu sehen,
-schaut mal [](#2) :
+schaut mal [<sup>2</sup>](#2) :
 
 ![deutscher-selfpublishing-preis | full](http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-13.35.30-960x1093.png)
 
@@ -88,15 +89,15 @@ Ganz Eilige können auch jederzeit
 Regelmäßig gepostet wird unter anderem in den Kanälen des Deutschen
 Selfpublishing Preises:
 
-<ul>
-    <li><strong>Website:</strong>  [www.selfpublishing-preis.de](http://www.selfpublishing-preis.de) </li>
-    <li><strong>Instagram:</strong>  [www.instagram.com/selfpublishingpreis](http://www.instagram.com/selfpublishingpreis) </li>
-    <li><strong>Facebook:</strong>  [www.facebook.com/selfpublishingpreis](http://www.facebook.com/selfpublishingpreis) </li>
-</ul>
+- **Website:** [www.selfpublishing-preis.de](http://www.selfpublishing-preis.de)
+- **Instagram:**
+  [www.instagram.com/selfpublishingpreis](http://www.instagram.com/selfpublishingpreis)
+- **Facebook:**
+  [www.facebook.com/selfpublishingpreis](http://www.facebook.com/selfpublishingpreis)
 
 ### Fußnoten
 
-<ul>
-    <li id="1">[1]  [VLB-TIX](https://www.vlbtix.de/user/search/Title.aspx?pr=9783748126522) </li>
-    <li id="2">[2]  [Finalist*innen Titelgrafik](https://www.bod.de/fingerprint/aktuelles/besondere-neuerscheinungen-im-juli-auf-vlb-tix/) </li>
-</ul>
+- [1][vlb-tix](https://www.vlbtix.de/user/search/Title.aspx?pr=9783748126522)
+- [2][finalist*innen titelgrafik](https://www.bod.de/fingerprint/aktuelles/besondere-neuerscheinungen-im-juli-auf-vlb-tix/)
+
+  

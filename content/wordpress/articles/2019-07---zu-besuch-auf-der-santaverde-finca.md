@@ -4,12 +4,12 @@ seoTitle: Zu Besuch auf der Santaverde Finca in Andalusien
 slug: santaverde-finca-aloe-vera
 link: /2019/07/santaverde-finca-aloe-vera/
 fileName: 2019-07---zu-besuch-auf-der-santaverde-finca.md
-description:
-  Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien besucht.
-  Dabei haben wir einiges über den Anbau der beliebten Pflanze erfahren.
-excerpt:
-  Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien besucht.
-  Dabei haben wir einiges über den Anbau der beliebten Pflanze erfahren.
+description: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in
+  Andalusien besucht. Dabei haben wir einiges über den Anbau der beliebten
+  Pflanze erfahren.
+excerpt: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in Andalusien
+  besucht. Dabei haben wir einiges über den Anbau der beliebten Pflanze
+  erfahren.
 focusKeyword: Santaverde Finca
 labels:
   - Aloe Vera
@@ -33,12 +33,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25501"
+image: /img/demo.jpg
+errors: []
 subTitle: Aloe Vera Pflanzen im Herzen von Andalusien
+  
 ---
 
-<strong>Vor Kurzem haben wir die Aloe Vera Finca von Santaverde im spanischen
-Estepona besucht. Dabei haben wir einiges über den biologischen Anbau der
-beliebten Pflanze erfahren.</strong>
+**Vor Kurzem haben wir die Aloe Vera Finca von Santaverde im spanischen Estepona
+besucht. Dabei haben wir einiges über den biologischen Anbau der beliebten
+Pflanze erfahren.**
 
 Im Vorfeld unserer Spanienreise im Juni hatte ich bei Santaverde angefragt, ob
 ich mit meiner Kamera mal vorbeikommen könnte. Ich nutze die Pflege von
@@ -46,14 +49,15 @@ Santaverde ja schon ziemlich lange und wenn man schon mal in der Nähe ist...
 
 ![santaverde-finca](http://cardamonchai.com/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-1-400x300.jpg)
 
-<a href="http://cardamonchai.com/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-1.jpg">Die
-liebe Caro von Santaverde war sofort begeistert von meinem Vorschlag und knüpfte
-den Kontakt zu Carmen, die vor Ort für den Verkauf und die Führungen
-verantwortlich ist. Ich hatte im Vorfeld schon so einiges über die Finca
-gelesen. Besonders ein Satz von Santaverde Gründerin Sabine machte mich mehr als
-neugierig:
+[](/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-1.jpg) Die liebe Caro
+von Santaverde war sofort begeistert von meinem Vorschlag und knüpfte den
+Kontakt zu Carmen, die vor Ort für den Verkauf und die Führungen verantwortlich
+ist. Ich hatte im Vorfeld schon so einiges über die Finca gelesen. Besonders ein
+Satz von Santaverde Gründerin Sabine machte mich mehr als neugierig:
 
-<blockquote>"Das klare scharfe Licht des Winters und die flirrende Hitze des Sommers auf der Finca verzaubern mich. Von unserer Terrasse aus sehen wir den Felsen von Gibraltar und die Hügel des Atlasgebirges von Marokko."</blockquote>
+> "Das klare scharfe Licht des Winters und die flirrende Hitze des Sommers auf
+> der Finca verzaubern mich. Von unserer Terrasse aus sehen wir den Felsen von
+> Gibraltar und die Hügel des Atlasgebirges von Marokko."
 
 ## Ein wunderbares Gefühl
 
@@ -123,13 +127,18 @@ Entwicklung von natürlichen Pflegeprodukten für empfindliche Haut.
 
 ![santaverde-finca](http://cardamonchai.com/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-3-400x300.jpg)
 
-Bei allen Produkten von Santaverde handelt es sich um reine Naturkosmetik. Sie
-sind komplett vegan und mit dem <strong>Leaping Bunny</strong> Siegel, dem Label
-der Vegan Society und dem Biosiegel ausgezeichnet.
+Wer auch in Spanien unterwegs ist und gerne mal einen Abstecher zur Santaverde
+Finca machen möchte, kann das (aus in den besonders heißen Monaten Juli und im
+August, dann hat die Finca nur von 8:00 Uhr bis 15:00 Uhr geöffnet), Montags bis
+Freitags zwischen 8:00 Uhr und 16:00 Uhr tun. Die genaue Adresse sowie alle
+weiteren wichtigen Informationen über die Finca
+[findet Ihr hier.](https://www.santaverde.de/santaverde/das-besondere/besuch-der-finca)
 
-[Wenn Ihr gerne mehr über die Unterschiede zwischen veganer Kosmetik,
-Biokosmetik und Naturkosmetik erfahren wollt, habe ich hier einen Beitrag für
-Euch](/2018/03/vegane-kosmetik-und-naturkosmetik/).
+Bei allen Produkten von Santaverde handelt es sich um reine Naturkosmetik. Sie
+sind komplett vegan und mit dem **Leaping Bunny** Siegel, dem Label der Vegan
+Society und dem Biosiegel ausgezeichnet.
+
+[Wenn Ihr gerne mehr über die Unterschiede zwischen veganer Kosmetik, Biokosmetik und Naturkosmetik erfahren wollt, habe ich hier einen Beitrag für Euch](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
 [glry name="santaverdefincaanne2019"]
 
@@ -138,9 +147,11 @@ Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen
 interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
-möchte, [findet hier eine Liste der
-Bezugsquellen](http://www.santaverde.de/bezugsquellen).
+möchte,
+[findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

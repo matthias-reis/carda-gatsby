@@ -4,12 +4,10 @@ seoTitle: Birdwatching auf Helgoland - ein Tag an der Nordsee
 slug: helgoland-birdwatching
 link: /2019/11/helgoland-birdwatching/
 fileName: 2019-11---birdwatching-auf-helgoland.md
-description:
-  Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet. Dort sind
-  uns zahlreiche Basstölpel mit ihren Jungen begegnet.
-excerpt:
-  Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet. Dort sind
-  uns zahlreiche Basstölpel mit ihren Jungen begegnet.
+description: Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet.
+  Dort sind uns zahlreiche Basstölpel mit ihren Jungen begegnet.
+excerpt: Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet. Dort
+  sind uns zahlreiche Basstölpel mit ihren Jungen begegnet.
 focusKeyword: Helgoland
 labels:
   - Ausflug
@@ -34,11 +32,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26870"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Tag an der Nordsee
+  
 ---
 
-<strong>Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet. Dort
-sind uns einige lebensfrohe Kreaturen begegnet.</strong>
+**Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet. Dort sind
+uns einige lebensfrohe Kreaturen begegnet.**
 
 Mit der Fähre ging es vom Hamburger Hafen durch die Elbe im Richtung
 Nordsee-Insel. Im Gepäck durfte neben jeder Menge leckerem Proviant die
@@ -128,3 +129,5 @@ meistens um die zwanzig Grad. Das macht die Nordseeinsel für Besucher besonders
 attraktiv.
 
 [glry name="3helgoland"]
+
+  

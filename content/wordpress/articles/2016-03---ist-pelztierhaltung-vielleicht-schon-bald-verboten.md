@@ -4,12 +4,11 @@ seoTitle: Ist Pelztierhaltung schon bald flächendeckend verboten?
 slug: ist-pelztierhaltung-vielleicht-schon-bald-verboten
 link: /2016/03/ist-pelztierhaltung-vielleicht-schon-bald-verboten/
 fileName: 2016-03---ist-pelztierhaltung-vielleicht-schon-bald-verboten.md
-description:
-  Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und Bibern zur
-  Herstellung von Pelzen und auch Ölen soll erboten werden - Pelztierhaltung
-excerpt:
-  Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und Bibern zur
-  Herstellung von Pelzen und auch Ölen soll erboten werden - Pelztierhaltung
+description: Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und
+  Bibern zur Herstellung von Pelzen und auch Ölen soll erboten werden -
+  Pelztierhaltung
+excerpt: Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und Bibern
+  zur Herstellung von Pelzen und auch Ölen soll erboten werden - Pelztierhaltung
 focusKeyword: Pelztierhaltung
 labels:
   - Anti Pelz
@@ -29,12 +28,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25590"
+image: /img/demo.jpg
+errors: []
 subTitle: Gesetzänderung mit Vorsicht zu genießen
+  
 ---
 
-<strong>Der Bundesminister für Ernährung und Landwirtschaft Christian Schmidt
-setzte eine Gesetzänderung durch. Sie bezieht sich auf das sogenannte
-Tiererzeugnisse-Handels-Verbotsgesetz.</strong>
+**Der Bundesminister für Ernährung und Landwirtschaft Christian Schmidt setzte
+eine Gesetzänderung durch. Sie bezieht sich auf das sogenannte
+Tiererzeugnisse-Handels-Verbotsgesetz.**
 
 Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und Bibern zur
 Herstellung von Pelzen und auch Ölen soll damit verboten werden. Verstöße sollen
@@ -91,3 +93,5 @@ schicken Personen, die mit Pelzmänteln, Pelzkragen oder Mützen mit Pelzbommeln
 kommen gleich wieder nach Hause. Ein weiterer guter Schritt auf einem langen,
 steinigen Weg in eine Pelz- und somit hoffentlich auch bald Tierleid-freie
 Zukunft. Im Bild oben könnt Ihr sehen, wie ich Pelz trage.
+
+  

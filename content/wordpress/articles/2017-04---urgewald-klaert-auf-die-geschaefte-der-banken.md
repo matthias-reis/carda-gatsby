@@ -1,15 +1,12 @@
 ---
 title: "urgewald klärt auf: Die Geschäfte der Banken"
-seoTitle:
-  "urgewald klärt auf: Fair Trade, Fair Banking? Was macht eigentlich mein Geld?"
+seoTitle: "urgewald klärt auf: Fair Trade, Fair Banking? Was macht eigentlich mein Geld?"
 slug: urgewald
 link: /2017/04/urgewald/
 fileName: 2017-04---urgewald-klaert-auf-die-geschaefte-der-banken.md
-description:
-  urgewald klärt darüber auf, was Banken und Versicherungen mit unserem Geld
-  machen und kämpft an vorderster Front für mehr Menschlichkeit.
-excerpt:
-  Kennt Ihr urgewald? Der Verein klärt darüber auf, was Banken und
+description: urgewald klärt darüber auf, was Banken und Versicherungen mit
+  unserem Geld machen und kämpft an vorderster Front für mehr Menschlichkeit.
+excerpt: Kennt Ihr urgewald? Der Verein klärt darüber auf, was Banken und
   Versicherungen mit unserem Geld machen und kämpft an vorderster Front für mehr
   Menschlichkeit.
 focusKeyword: urgewald
@@ -27,12 +24,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16320"
+image: /img/demo.jpg
+errors: []
 subTitle: Teil 1/2 - Fair Trade, Fair Banking? Was macht eigentlich mein Geld?
+  
 ---
 
 ![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33146502834_4ca7d2758c_z-640x427.jpg)
 
-<strong>
+**"Was macht eigentlich mein Geld?" - Das hatten sich die Aktivisten von
+urgewald schon sehr lange gefragt und gründeten deshalb 1992 den Verein. Mit
+einer umfangreichen Broschüre klären sie jetzt Verbraucher/innen über das
+Geschäft mit unserem Geld auf.**
 
 Wir fragen uns immer häufiger, wo die Produkte herkommen, die wir konsumieren.
 Wir leben [vegan](/category/vegan-2/), kaufen Bio- und Fair Trade Produkte und
@@ -49,11 +52,11 @@ so wohl überlegt aussuchen?
 
 ![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33146509374_9fb85e754a_z-640x427.jpg)
 
-hat man es sich zur Aufgabe gemacht, schmutzige Geschäfte offen zu legen.
-Bekanntheit erlangte der Verein, als er 2010 die Broschüre "Wie radioaktiv ist
-meine Bank" veröffentlichte. Nach der Atomkatastrophe von Fukushima wollte
-einfach jeder wissen, ob auch seine Bank beteiligt war, am Geschäft mit der
-Atomkraft.
+Bei _urgewald_ hat man es sich zur Aufgabe gemacht, schmutzige Geschäfte offen
+zu legen. Bekanntheit erlangte der Verein, als er 2010 die Broschüre "Wie
+radioaktiv ist meine Bank" veröffentlichte. Nach der Atomkatastrophe von
+Fukushima wollte einfach jeder wissen, ob auch seine Bank beteiligt war, am
+Geschäft mit der Atomkraft.
 
 Das Heft "Was macht eigentlich mein Geld" zeigt jetzt, wie wir unsere
 Geldgeschäfte als wirkungsvollen Hebel gegen Rüstungsgeschäfte und Klimakiller
@@ -63,8 +66,8 @@ anders machen, als die herkömmlichen.
 Noch heute haben drei Viertel aller Deutschen ein Konto bei einer der großen
 bekannten Banken und Kassen. Nur rund ein Prozent aller in Deutschland
 angelegten Geldanlagen wird in ethische und ökologische Standards investiert.
-<em>urgewald</em> möchte wissen, was mit unserem Geld passiert, wenn wir keine
-Fragen stellen und durchleuchtet für uns die dunkle Welt der Finanzgeschäfte.
+_urgewald_ möchte wissen, was mit unserem Geld passiert, wenn wir keine Fragen
+stellen und durchleuchtet für uns die dunkle Welt der Finanzgeschäfte.
 
 ## Banken besitzen einen immensen Einfluss auf Rüstungsgeschäfte, Klimawandel und Entwicklung
 
@@ -74,24 +77,26 @@ Liest man die Broschüre und beschäftigt man sich mit dem Thema, wird einem kla
 was Banken und auch Versicherungen für einen Einfluss besitzen auf
 Rüstungsgeschäfte, Klimawandel und die technische sowie ökosoziale Entwicklung.
 
-<blockquote>"Follow The Money"</blockquote>
+> "Follow The Money"
 
 Mit diesem Slogan möchten der Verein Menschen aufrütteln. "Ohne Kredite und
 Investoren wird kein Atomkraftwerk, kein Staudamm und keine Pipeline gebaut.
 Auch Bergbaukonzerne und Waffenhersteller benötigen ständig frisches Geld. Doch
 Geld ist nicht neutral: Wer das Geld gibt, trägt auch die Verantwortung für das
-Geschäft.", so <em>urgewald</em>.
+Geschäft.", so _urgewald_ .
 
-Und die Kampagnen wirken. Dank <em>urgewald</em> ist die Finanzierung von
-Streumunition heute bei vielen Banken und Versicherungen tabu.
+Und die Kampagnen wirken. Dank _urgewald_ ist die Finanzierung von Streumunition
+heute bei vielen Banken und Versicherungen tabu.
 
 ## Opfer und Betroffene kommen zu Wort
 
 ![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33146508594_383360feab_z-640x427.jpg)
 
-Betroffenen eine Stimme geben. Durch den Minenbau von Vertreibung bedrohte
-Menschen, Aktivisten im Kampf gegen die Rüstungsindustrie sowie Atomkraftgegner
-werden unterstützt.
+Was noch mehr Licht ins Dunkel bringt: Opfer und Betroffene kommen bei
+_urgewald_ zu Wort. Als "Anwalt für Umwelt- und Menschenrechte" möchte
+_urgewald_ Betroffenen eine Stimme geben. Durch den Minenbau von Vertreibung
+bedrohte Menschen, Aktivisten im Kampf gegen die Rüstungsindustrie sowie
+Atomkraftgegner werden unterstützt.
 
 Die Mitarbeiter des Vereins sorgen nicht nur dafür, dass diese Menschen
 beispielsweise in Vorstandssitzungen und auf Pressekonferenzen Gehör finden.
@@ -100,9 +105,8 @@ Immer wieder wird auch mit Protest- und Verbraucherkampagnen mobilisiert.
 Die Broschüre "Was macht eigentlich mein Geld" zeigt nicht nur die finstere
 Seite der Bankgeschäfte. Es werden auch beispielhafte Projekte alternativer
 Banken vorgestellt. Ein Beispiel dafür ist das energieautarke Haus. Dabei
-handelt es sich um ein Projekt der <em>Ethik-Bank</em>. Ein weiteres der
-<em>Umweltversand Waschbär</em>, der von der <em>Tridios Bank</em> unterstützt
-wird.
+handelt es sich um ein Projekt der _Ethik-Bank_ . Ein weiteres der
+_Umweltversand Waschbär_ , der von der _Tridios Bank_ unterstützt wird.
 
 ## Wie radioaktiv ist meine Bank?
 
@@ -111,14 +115,12 @@ wird.
 Auf den Seiten 64 bis 74 warten dann knallharte Fakten. Eine detaillierte
 Reportage klärt hier über folgende Punkte auf
 
-<ul>
-    <li>Wie radioaktiv ist meine Bank?</li>
-    <li>Ist meine Bank ein Klimakiller?</li>
-    <li>Ist meine Bank ein Waffenhändler?</li>
-</ul>
+- Wie radioaktiv ist meine Bank?
+- Ist meine Bank ein Klimakiller?
+- Ist meine Bank ein Waffenhändler?
 
-Doch <em>urgewald</em> wäre nicht <em>urgewald</em>, stünde hier eine nackte
-Liste mit Banken, die sich an derartigen Geschäften beteiligen.  Ökofonds werden
+Doch _urgewald_ wäre nicht _urgewald_ , stünde hier eine nackte Liste mit
+Banken, die sich an derartigen Geschäften beteiligen.  Ökofonds werden
 genauestens durchleuchtet, die Auswirkungen, die Geldanlagen wie Stein- und
 Braunkohle auf unsere Umwelt haben mit Zahlen belegt.
 
@@ -151,7 +153,8 @@ So fließt das Geld einer großen bekannten deutschen Versicherung beispielsweis
 nach wie vor in die Produktion von Atomwaffen. Begründet wird das von Seiten der
 Versicherung so:
 
-<blockquote>Sie (sprich: Die Atomwaffen) sind ein politisch gewollter und mehrheitlich akzeptierter Bestandteil der Verteidigungsstrategie des westlichen Bündnisses.</blockquote>
+> Sie (sprich: Die Atomwaffen) sind ein politisch gewollter und mehrheitlich
+> akzeptierter Bestandteil der Verteidigungsstrategie des westlichen Bündnisses.
 
 Auch, wer nicht vertreten kann, dass mit seinem Geld Menschen teils sogar durch
 Waffengewalt aus ihrer Heimat vertrieben werden, um der Kohleeindustrie neues
@@ -160,15 +163,18 @@ nach Alternativen umsehen.
 
 ![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33832611862_b8ea5fdbb1_z-640x427.jpg)
 
-vertreibt nach wie vor Menschen, lässt Kinderarbeit zu und vernichtet den
-Lebensraum bedrohter Tierarten. Und das ist nur ein Beispiel für die
-Machenschaften, die hinter dem Geschäft mit unserem Geld stecken.
+Der staatliche indische, weltweit größte Kohlekonzern _Coal India_ vertreibt
+nach wie vor Menschen, lässt Kinderarbeit zu und vernichtet den Lebensraum
+bedrohter Tierarten. Und das ist nur ein Beispiel für die Machenschaften, die
+hinter dem Geschäft mit unserem Geld stecken.
 
 Im zweiten Teil meines Artikels werde ich in Kürze ein paar Alternativ-Banken
 vorstellen.
 
 Die Broschüren "Was macht eigentlich mein Geld" und "Wie radioaktiv ist meine
-Bank" können [auf der Homepage](http://www.urgewald.de) von
-<em>urgewald</em> bestellt werden.
+Bank" können [auf der Homepage](http://www.urgewald.de) von _urgewald_
+ bestellt werden.
 
 &nbsp;
+
+  

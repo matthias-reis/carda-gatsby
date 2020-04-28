@@ -4,11 +4,10 @@ seoTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...
 slug: ahoi-urlaub-in-sicht
 link: /2017/09/ahoi-urlaub-in-sicht/
 fileName: 2017-09---ahoi-urlaub-in-sicht.md
-description:
-  ... komme aber bald wieder. Mit vielen Fotos und Geschichten im Gepäck.
-  Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles für Euch!
-excerpt:
-  ... komme aber bald wieder. Mit vielen Fotos und Geschichten im Gepäck.
+description: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im
+  Gepäck. Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles
+  für Euch!
+excerpt: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im Gepäck.
   Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles für Euch!
 focusKeyword: Urlaub
 labels:
@@ -26,16 +25,25 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17846"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Unterminated JSX contents (83:16)"
 subTitle: Ich melde mich mal kurz ab...
+  
 ---
 
-<strong>... bin aber bald wieder da. Versprochen! Wir werden die nächsten beiden
+## unknown: Unterminated JSX contents (83:16)
+
+<!--
+**... bin aber bald wieder da. Versprochen! Wir werden die nächsten beiden
 Wochen auf der Insel weilen und die Seele ein Bisschen baumeln lassen.  Urlaub!
 Wir haben ihn uns verdient, jawoll! Wir lesen uns dann bald wieder und ich werde
-sicher jede Menge Fotos und Geschichten für Euch im Gepäck haben.</strong>
+sicher jede Menge Fotos und Geschichten für Euch im Gepäck haben.**
 
 Auf Instagram* und Facebook* werde ich hin und wieder etwas posten, doch mein
 Blog ruht sich so lange aus. Außerdem habe ich gerade eine
+[TOLLE VERLOSUNG](/2017/09/fopo-rettet-aussortierte-fruechte/) gestartet.
 [Hier könnt Ihr mitmachen](/2017/09/fopo-rettet-aussortierte-fruechte/) !
 
 Ihr findet hier im Blog zu allen möglichen Themen interessante Artikel, die Ihr
@@ -44,35 +52,33 @@ richtige Rubrik dabei, versprochen!
 
 ## Einfach hier klicken und stöbern:
 
+![Urlaub | large](http://cardamonchai.com/wp-content/uploads/2017/09/36831266332_6858ed43aa_z-520x347.jpg)
+
 ### Rock 'n' Roll
 
-<ul>
-    <li> [Konzerte](/category/musik/konzerte/) </li>
-    <li> [Festivals](/category/musik/festivals/) </li>
-    <li> [Bands &amp; Reviews](/category/musik/bands-reviews/) </li>
-    <li> [Calexico](/category/musik/calexico/) </li>
-</ul>
+- [Konzerte](/category/musik/konzerte/)
+- [Festivals](/category/musik/festivals/)
+- [Bands &amp; Reviews](/category/musik/bands-reviews/)
+- [Calexico](/category/musik/calexico/)
 
 ### Vegan
 
-<ul>
-    <li> [Go Vegan!](/category/vegan-2/go-vegan/) </li>
-    <li> [Vegane Mode](/category/vegan-2/mode/) </li>
-    <li> [Vegane Persönlichkeiten](/vegan-2/vegane-persoenlichkeiten/) </li>
-    <li> [Vegane Produkte](/category/vegan-2/produkte/) </li>
-    <li> [Vegane Rezepte](/category/vegan-2/rezepte/) </li>
-</ul>
+- [Go Vegan!](/category/vegan-2/go-vegan/)
+- [Vegane Mode](/category/vegan-2/mode/)
+- [Vegane Persönlichkeiten](/vegan-2/vegane-persoenlichkeiten/)
+- [Vegane Produkte](/category/vegan-2/produkte/)
+- [Vegane Rezepte](/category/vegan-2/rezepte/)
+
+![Urlaub | large](http://cardamonchai.com/wp-content/uploads/2017/09/Für-Blog-1-von-1-520x347.jpg)
 
 ### Gesellschaft
 
-<ul>
-    <li> [Interview](/category/gesellschaft/interview/) </li>
-    <li> [Klima &amp; Umweltschutz](/category/gesellschaft/klima-umweltschutz/) </li>
-    <li> [Tierschutz](/category/gesellschaft/tierschutz/) </li>
-    <li> [Menschen](/category/gesellschaft/menschen/) </li>
-    <li> [Politik &amp; Soziales](/category/gesellschaft/politik-soziales/) </li>
-    <li> [Beschwerdeabteilung](/category/gesellschaft/beschwerdeabteilung/) </li>
-</ul>
+- [Interview](/category/gesellschaft/interview/)
+- [Klima &amp; Umweltschutz](/category/gesellschaft/klima-umweltschutz/)
+- [Tierschutz](/category/gesellschaft/tierschutz/)
+- [Menschen](/category/gesellschaft/menschen/)
+- [Politik &amp; Soziales](/category/gesellschaft/politik-soziales/)
+- [Beschwerdeabteilung](/category/gesellschaft/beschwerdeabteilung/)
 
 ### Unterwegs
 
@@ -83,32 +89,23 @@ richtige Rubrik dabei, versprochen!
     <li> [Reisen](/category/unterwegs/reisen/) </li>
     <li> [Ausflug](/category/unterwegs/ausflug/) </li>
     <li> [Hochzeitsreise](/category/unterwegs/hochzeitsreise/) </li>
-    <li><a href="/category/unterwegs/kunst/">
-    <li> [Architektur](/unterwegs/architektur/) </li>
-    <li> [Großbritannien](/category/unterwegs/england/) </li>
-    <li> [Flora](/category/unterwegs/flora/) </li>
-    <li> [Fauna](/category/unterwegs/fauna/) </li>
-</ul>
+    <li> [
 
 ### Bleistift 2.0
 
-<ul>
-    <li> [Tagebuch](/category/bleistift-2-0/tagebuch/) </li>
-    <li> [Kurzgeschichten](/category/bleistift-2-0/kurzgeschichten/) </li>
-    <li> [Lyrik](/category/bleistift-2-0/lyrik/) </li>
-    <li> [Prosa](/category/bleistift-2-0/lyrik/) </li>
-    <li> [Selbstversuch](/category/bleistift-2-0/selbstversuch/) </li>
-    <li> [Verlosung](/category/bleistift-2-0/verlosung/) </li>
-</ul>
+- [Tagebuch](/category/bleistift-2-0/tagebuch/)
+- [Kurzgeschichten](/category/bleistift-2-0/kurzgeschichten/)
+- [Lyrik](/category/bleistift-2-0/lyrik/)
+- [Prosa](/category/bleistift-2-0/lyrik/)
+- [Selbstversuch](/category/bleistift-2-0/selbstversuch/)
+- [Verlosung](/category/bleistift-2-0/verlosung/)
 
 ### Basteleien
 
-<ul>
-    <li> [DIY](/category/basteleien/diy/) </li>
-    <li> [Fotografie](/basteleien/fotografie/) </li>
-    <li> [Webdesign](/basteleien/webdesign) </li>
-    <li> [Online Marketing](/basteleien/online-marketing-basteleien/) </li>
-</ul>
+- [DIY](/category/basteleien/diy/)
+- [Fotografie](/basteleien/fotografie/)
+- [Webdesign](/basteleien/webdesign)
+- [Online Marketing](/basteleien/online-marketing-basteleien/)
 
 ## Fast schon wie Urlaub
 
@@ -118,12 +115,18 @@ angesprochen fühlen. ;-) Die Sonne hat uns nicht im Stich gelassen und die
 Stimmung war herzlich und ausgelassen. Das war fast schon wie Urlaub. Da bekommt
 man richtig Lust auf die schönste Stadt, oder?
 
-<em>Bis bald dann!</em>
+_Bis bald dann!_
 
 Übrigens habe ich gerade eine
+[tolle Verlosung](/2017/09/fopo-rettet-aussortierte-fruechte/) gestartet.
 [Hier könnt Ihr mitmachen](/2017/09/fopo-rettet-aussortierte-fruechte/) !
 
-<strong>\*Auf [Facebook](https://www.instagram.com/anne_reko/) poste ich auch im
-Urlaub ab und zu etwas.</strong>
+**\*Auf [Instagram](https://www.instagram.com/anne_reko/) und
+[Facebook](https://www.facebook.com/cardamonchai/) poste ich auch im Urlaub ab
+und zu etwas.**
 
 [gallery type="rectangular" size="large" link="none" ids="17845,17846"]
+
+-->
+
+  

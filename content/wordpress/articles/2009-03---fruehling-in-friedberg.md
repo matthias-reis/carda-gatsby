@@ -5,8 +5,7 @@ slug: fruehling-in-friedberg
 link: /2009/03/fruehling-in-friedberg/
 fileName: 2009-03---fruehling-in-friedberg.md
 description: Meine Bildergalerie vom Frühling in Friedbeg
-excerpt:
-  Beim Beinevertreten im schönen Friedberg in Bayern habe ich ein paar
+excerpt: Beim Beinevertreten im schönen Friedberg in Bayern habe ich ein paar
   farbenfrohe Frühlingsfotos gemacht.
 focusKeyword: Friedberg
 labels:
@@ -20,11 +19,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11001"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein kleiner Frühlingsspaziergang durch Friedberg
+  
 ---
-
-<strong>Beim Beinevertreten im schönen Friedberg in Bayern habe ich ein paar
-farbenfrohe Frühlingsfotos gemacht.</strong>
 
 [gallery type="rectangular" size="medium"
 ids="11003,11002,11001,11000,10999,10998,10997,10996"]
+
+  

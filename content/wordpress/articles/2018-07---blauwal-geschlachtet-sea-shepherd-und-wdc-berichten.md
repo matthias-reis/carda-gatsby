@@ -4,11 +4,9 @@ seoTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten
 slug: sea-shepherd-und-wdc-berichten-von-walschlachtung
 link: /2018/07/sea-shepherd-und-wdc-berichten-von-walschlachtung/
 fileName: 2018-07---blauwal-geschlachtet-sea-shepherd-und-wdc-berichten.md
-description:
-  "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
+description: "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
   Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet."
-excerpt:
-  "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
+excerpt: "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
   Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet."
 focusKeyword: Blauwal
 labels:
@@ -28,12 +26,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21360"
+image: /img/demo.jpg
+errors: []
 subTitle: Traurige Nachricht aus Island
+  
 ---
 
-<strong>Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
+**Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
 Walschutzorganisation WDC (Whale and Dolphin Conservation) rein: Offenbar wurde
-in Island ein Blauwal geschlachtet und zerlegt.</strong>
+in Island ein Blauwal geschlachtet und zerlegt.**
 
 Fotos belegen die grausame Tat. Die Jagd auf Blauwale ist bereits seit den
 1960er Jahren verboten. Letzten Sonntag brachte die Isländische Walfangfirma
@@ -78,7 +79,9 @@ zurückgeschreckt. So wird das Fleisch geschützter Wale auch gerne mal mit dem
 anderer Tiere gemischt, um es an den Kontrollen der Behörden vorbei zu
 verkaufen.
 
-<strong>Quellen:</strong> Sea Shepherd, WDC, Wikipedia <strong>Bild im
-Titel:</strong> [Janeb13](https://pixabay.com/de/users/janeb13-725943/), pixabay
-<strong>Bild im Text:</strong>
-[three-shots](https://pixabay.com/de/users/Three-shots-3936226/), pixabay
+**Quellen:** Sea Shepherd, WDC, Wikipedia **Bild im Titel:**
+[Janeb13](https://pixabay.com/de/users/janeb13-725943/), pixabay **Bild im
+Text:** [three-shots](https://pixabay.com/de/users/Three-shots-3936226/),
+pixabay
+
+  

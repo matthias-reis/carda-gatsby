@@ -4,12 +4,11 @@ seoTitle: Bio-Eisteekonzentrat von TeaTime im Test - Pur, vegan und lecker
 slug: bio-eistee-konzentrate-von-teatime-im-test
 link: /2018/05/bio-eistee-konzentrate-von-teatime-im-test/
 fileName: 2018-05---bio-eistee-konzentrate-von-teatime.md
-description:
-  Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders gespannt
-  gewartet hatte. Enthalten waren die Bio-Teekonzentrate von TeaTime.
-excerpt:
-  Werbung - Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders
+description: Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders
   gespannt gewartet hatte. Enthalten waren die Bio-Teekonzentrate von TeaTime.
+excerpt: Werbung - Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz
+  besonders gespannt gewartet hatte. Enthalten waren die Bio-Teekonzentrate von
+  TeaTime.
 focusKeyword: TeaTime
 labels:
   - Bar
@@ -37,14 +36,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20736"
+image: /img/demo.jpg
+errors: []
 subTitle: Pur, vegan und lecker
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders
-gespannt gewartet hatte. Enthalten waren die Teekonzentrate von TeaTime aus dem
-Österreichischen Enns.</strong>
+**Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders gespannt
+gewartet hatte. Enthalten waren die Teekonzentrate von TeaTime aus dem
+Österreichischen Enns.**
 
 Das Besondere an den flüssigen Essenzen: Sie werden aus unbelastetem,
 natürlichem Tee hergestellt. Zugesetzt werden lediglich bei einigen davon sehr
@@ -62,11 +64,17 @@ kleine Menge davon mit heißem oder kalten Wasser aufzugießen und kann
 anschließend ohne Ziehzeit genießen.
 
 Der Tee stammt aus verschiedenen Anbaugebieten auf der Welt. Ceylon aus
-[Hamburg](/2015/09/unterwegs-in-sri-lanka/).
+[Sri Lanka](/2015/09/unterwegs-in-sri-lanka/), Assam aus Nordost-Indien, Rooibos
+aus Südafrika und der Grüne Tee aus China. TeaTime bezieht ihn von
+spezialisierten und zertifizierten Importeuren aus
+[Hamburg](/category/unterwegs/hamburg/).
 
 Dabei achtet Manfred Haider besonders auf die Fairness.
 
-<blockquote>"Es ist uns sehr wichtig, dass die <span id="u2630-10">Ware fair gehandelt</span> wird! Nur wenn alle Beteiligten einen <span id="u2630-14">fairen Preis</span> erzielen, ist Nachhaltigkeit gegeben. Nachhaltigkeit bezieht sich nach unserer Meinung nicht nur auf das Produkt, sondern auch auf die Menschen, die dahinter stehen."</blockquote>
+> "Es ist uns sehr wichtig, dass die Ware fair gehandelt wird! Nur wenn alle
+> Beteiligten einen fairen Preis erzielen, ist Nachhaltigkeit gegeben.
+> Nachhaltigkeit bezieht sich nach unserer Meinung nicht nur auf das Produkt,
+> sondern auch auf die Menschen, die dahinter stehen."
 
 ![TeaTime](http://cardamonchai.com/wp-content/uploads/2018/05/39976621130_45e8fb6186_z-400x300.jpg)
 
@@ -78,7 +86,11 @@ Naturprodukte handelt, kann es gelegentlich zu kleinen Unterschieden zum
 Beispiel in der Färbung der Produkte kommen.  Auch zum Thema Zucker hat Manfred
 Haider eine Meinung:
 
-<blockquote>"Die Zutat <span id="u2633-5">Zucker ist</span> für unser Produkt <span id="u2633-7">nicht erforderlich</span>. Es gibt viele Produkte am Markt, bei welchen Zucker, beziehungsweise eine Zuckerlösung, die Basis für das Produkt darstellt (beispielsweise Sirup). Unsere Produkte beinhalten, wenn überhaupt, nur 0 - 0,5 [Gramm Zucker] oder 11 kcal pro 100 ml trinkfertigem Tee."</blockquote>
+> "Die Zutat Zucker ist für unser Produkt nicht erforderlich. Es gibt viele
+> Produkte am Markt, bei welchen Zucker, beziehungsweise eine Zuckerlösung, die
+> Basis für das Produkt darstellt (beispielsweise Sirup). Unsere Produkte
+> beinhalten, wenn überhaupt, nur 0 - 0,5 [Gramm Zucker] oder 11 kcal pro 100 ml
+> trinkfertigem Tee."
 
 ![TeaTime](http://cardamonchai.com/wp-content/uploads/2018/05/27915548658_f8e56f1322_z-400x533.jpg)
 
@@ -157,13 +169,11 @@ sommerlichen
 
 ### Zutaten für zwei Gläser
 
-<ul>
-    <li>200 ml trockener Weißwein</li>
-    <li>100 ml Soda</li>
-    <li>Frische Minze nach Geschmack</li>
-    <li>3 cl TeaTime Rooibos-Pfirsich</li>
-    <li>3 EL Crushed Ice</li>
-</ul>
+- 200 ml trockener Weißwein
+- 100 ml Soda
+- Frische Minze nach Geschmack
+- 3 cl TeaTime Rooibos-Pfirsich
+- 3 EL Crushed Ice
 
 ### Zubereitung
 
@@ -175,6 +185,8 @@ dann: Ab auf die Sonnenliege!
 
 Bleibt dran! In Kürze verrate ich Euch weitere Cocktail-Rezepte!
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

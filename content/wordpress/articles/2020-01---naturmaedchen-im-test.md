@@ -4,13 +4,11 @@ seoTitle: Naturmädchen Kosmetik im Test - Mizellenwasser, Creme & Serum
 slug: naturmaedchen-kosmetik
 link: /2020/01/naturmaedchen-kosmetik/
 fileName: 2020-01---naturmaedchen-im-test.md
-description:
-  Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige
-  für mich, dachte ich mir - die musste ich einfach testen.
-excerpt:
-  Werbung & Affiliate Links - Naturmädchen stellt Naturkosmetik für gestresste
-  Haut her. Genau das Richtige für mich, dachte ich mir - die musste ich einfach
-  testen.
+description: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau
+  das Richtige für mich, dachte ich mir - die musste ich einfach testen.
+excerpt: Werbung & Affiliate Links - Naturmädchen stellt Naturkosmetik für
+  gestresste Haut her. Genau das Richtige für mich, dachte ich mir - die musste
+  ich einfach testen.
 focusKeyword: naturmädchen
 labels:
   - Anti-Aging
@@ -37,17 +35,24 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27294"
+image: /img/demo.jpg
+errors: []
 subTitle: Mizellenwasser, Gesichtscreme und Serum
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das
-Richtige für mich dachte ich mir - die musste ich einfach testen.</strong>
+**Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige
+für mich dachte ich mir - die musste ich einfach testen.**
 
 Im Winter ist meine Haut hungrig. Sie sehnt sich nach Feuchtigkeit und
 liebevoller Pflege. Die
-[Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F)
+[Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F),
+das
+[Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F)
+ und das
+[Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F)
 für empfindliche Haut von naturmädchen versprechen, genau das zu geben.
 
 Ich nutze alle drei Produkte in Kombination seit inzwischen etwas über einer
@@ -98,7 +103,9 @@ komplette Make-up abnehmen.
 Natürlich habe ich mich wieder sehr genau für Euch nach den Inhaltsstoffen
 erkundigt. Ihr findet sie weiter unten. Sie sind bei allen drei Produkten zu 100
 Prozent natürlichen Ursprungs. Außerdem sind das 
-[Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F)
+[Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F),
+die Creme und das 
+[Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F)
 selbstverständlich vegan. naturmädchen setzt sich außerdem gegen Tierversuche
 ein.
 
@@ -162,7 +169,7 @@ oder bei verschiedenen Kosmetikinstituten kaufen.
 
 [grey]
 
-### , 50 ml
+### Inhaltstoffe  [Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F), 50 ml
 
 Aqua, Glyceryl Stearate Citrate, Olus Oil, Cetearyl Alcohol, Mangifera Indica
 Seed Butter**, Persea Gratissima Oil**, Limnanthes Alba Seed Oil**, Glycerin,
@@ -174,7 +181,7 @@ Citral*, Limonene*
 \*Natürlicher Bestandteil des ätherischen Orangenöls \*\*Aus kontrolliert
 biologischem Anbau
 
-### , 100 ml
+### Inhaltsstoffe  [Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F), 100 ml
 
 Aqua, Polyglyceryl-10 Laurate, Maltooligosyl Glucoside, Levulinic Acid,
 Hydrogenated Starch Hydrolysate, Capryl / Capramidopropyl Betaine, Glycerin,
@@ -185,7 +192,7 @@ Peel Oil\*, Limonene\*\*
 \*Aus kontrolliert biologischem Anbau \*\*Natürlicher Bestandteil des
 ätherischen Orangenöls
 
-### , 30 ml
+### Inhaltsstoffe  [Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F), 30 ml
 
 Aqua, Glyceryl Stearate Citrate, Olus Oil, Cetearyl Alcohol, Mangifera Indica
 Seed Butter**, Persea Gratissima Oil**, Limnanthes Alba Seed Oil**, Glycerin,
@@ -200,9 +207,11 @@ biologischem Anbau [/grey]
 Hat Euch mein Produkttest gefallen? Wenn Ihr in Zukunft weiter mitlesen wollt,
 [abonniert am besten meinen Newsletter](#newsletter). Ich freue mich auf Euch!
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
 
 &nbsp;
+
+  

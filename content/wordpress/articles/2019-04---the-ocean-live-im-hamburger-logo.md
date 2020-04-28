@@ -4,12 +4,10 @@ seoTitle: The Ocean live im Logo Hamburg - ein Konzert zum niemals vergessen
 slug: the-ocean-live-im-hamburger-logo
 link: /2019/04/the-ocean-live-im-hamburger-logo/
 fileName: 2019-04---the-ocean-live-im-hamburger-logo.md
-description:
-  Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich machen -
-  die Musik von The Ocean schafft das mehr als gut.
-excerpt:
-  Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich machen -
-  die Musik von The Ocean schafft das mehr als gut.
+description: Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich
+  machen - die Musik von The Ocean schafft das mehr als gut.
+excerpt: Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich
+  machen - die Musik von The Ocean schafft das mehr als gut.
 focusKeyword: The Ocean
 labels:
   - Berlin
@@ -28,11 +26,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23914"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Konzert zum niemals vergessen
+  
 ---
 
-<strong>Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich
-machen - die Musik von The Ocean schafft das mehr als gut.</strong>
+**Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich machen -
+die Musik von The Ocean schafft das mehr als gut.**
 
 Am 31. März war die Post-Metal Band aus Berlin mit Lebensmittelpunkt in der
 schönen Schweiz eigens für uns Hamburger\*innen angereist. Die Freude war groß,
@@ -57,3 +58,5 @@ die nächste Begegnung mit The Ocean!
 
 <h4>Hier ein Stück vom 2018 erschienenen Album "Phanerozoic I: Palaezoic"
 <iframe src="https://www.youtube.com/embed/XWwEZnRBWCM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h4>
+
+  

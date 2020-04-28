@@ -1,16 +1,13 @@
 ---
 title: Zuckersüßes Lächeln und saurer Regen
-seoTitle:
-  Zuckersüßes Lächeln und saurer Regen - Wir sind nette Menschen - und Du?
+seoTitle: Zuckersüßes Lächeln und saurer Regen - Wir sind nette Menschen - und Du?
 slug: nette-menschen
 link: /2018/05/nette-menschen/
 fileName: 2018-05---zuckersuesses-laecheln-und-saurer-regen.md
-description:
-  Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich bin auch
-  dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
-excerpt:
-  Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich bin auch
-  dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
+description: Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich
+  bin auch dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
+excerpt: Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich bin
+  auch dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
 focusKeyword: Nette Menschen
 labels:
   - Aufgeschlossenheit
@@ -38,7 +35,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20918"
+image: /img/demo.jpg
+errors: []
 subTitle: Wir sind nette Menschen - und Du?
+  
 ---
 
 Zuckersüßes Lächeln Irre schön Soviel Zeit und Mühe für die Dekoration Heißen
@@ -59,3 +59,5 @@ Aufgeschlossenheit Liebe ist etwas Gutes - Das sagt nicht nur die Enzyklopädie
 [gallery type="thumbnails" size="medium" link="none" ids="20915,20921,20914"]
 
 [Sonne und Frieden](/2016/03/sonne-und-frieden/)
+
+  

@@ -4,13 +4,11 @@ seoTitle: "Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!"
 slug: gumbies-im-winter
 link: /2018/12/gumbies-im-winter/
 fileName: 2018-12---gumbies-im-winter.md
-description:
-  "Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden bin ich vor
-  ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies."
-excerpt:
-  "Werbung - Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden
-  bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies.
-  Schlappen und Flip Flops gehen nämlich auch im Winter! Und wie!"
+description: "Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden
+  bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies."
+excerpt: "Werbung - Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig
+  geworden bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen
+  Gumbies. Schlappen und Flip Flops gehen nämlich auch im Winter! Und wie!"
 focusKeyword: Gumbies
 labels:
   - Australien
@@ -44,14 +42,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22874"
+image: /img/demo.jpg
+errors: []
 subTitle: Perfekte Hausschuhe für gemütliche Stunden
+  
 ---
 
 Werbung\*
 
-<strong>Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden bin
-ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies.
-Schlappen und Flip Flops gehen nämlich auch im Winter! Und wie!</strong>
+**Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden bin ich vor
+ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies. Schlappen und
+Flip Flops gehen nämlich auch im Winter! Und wie!**
 
 Eingeweiht habe ich meine neuen Gumbies bei einer kleinen Auszeit am Strand
 (siehe Bilder). Inzwischen sind sie zu winterlichen Begleitern in der Wohnung
@@ -60,7 +61,13 @@ vielleicht ein bisschen Hipster-mäßig. Aber ich verlasse in dem Outfit, das ic
 für Euch im Sand so schön in Szene gesetzt habe, normalerweise auch nicht meine
 vier Wände.
 
-Vorgestellt habe ich Euch [Festivals](/2018/03/gumbies-vegane-strandsandalen/).
+Vorgestellt habe ich Euch
+[das australische Schuhwerk](/2018/03/gumbies-vegane-strandsandalen/) hier im
+Blog ja schon vor einiger Zeit. Inzwischen begleiten sie mich überallhin. Ich
+liebe meine türkisen Flip Flops. Sie nehmen immer die Farbe des Sandes an, durch
+den ich gerade laufe. Sie nehmen nicht viel Platz im Rucksack weg und sorgen
+überall für neugierige Blicke. Beim Yoga sind sie genauso dabei, wie beim
+Wandern, Schnorcheln und auf [Festivals](/category/musik/festivals/).
 
 ## Das neue Gumbies Modell
 
@@ -79,7 +86,7 @@ spaziert fast wie ein Gekko durchs Leben, leichtfüßig und ohne auszurutschen.
 
 Genau das muss sich Australien-Auswanderer Michel Maurer auch gewünscht haben,
 als er Gumbies gründete. Mir persönlich gefällt vor allem der nachhaltige Aspekt
-der robusten <strong>Sandalen</strong>. Sie sind frei von Leder und bestehen aus
+der robusten **Sandalen** . Sie sind frei von Leder und bestehen aus
 Recyclingmaterialien. Obendrein haben sei ein ergonomisch geformtes Fußbett,
 welches für meinen Geschmack die Gemütlichkeit jener berühmten breiten
 Fußbett-Sandalen, die in den letzten Jahren einen nie da gewesenen Hipe erlebt
@@ -100,15 +107,20 @@ meiner Freunde sich auch welche gekauft. Bis jetzt hat niemand ein negatives
 Wort verloren.
 
 Bestellt werden können die Schuhe ganz bequem über den
-[Wismar](https://shop.gumbies.de/) entdeckt und auch in Fulda, Augsburg und
-Hamburg sind sie mir über den Weg gelaufen. Haltet also am besten die Augen
-offen.
+[Webshop](https://shop.gumbies.de/). Außerdem findet man in immer mehr
+Fußgängerzonen Schuhgeschäfte, die auch Gumbies vertreiben.
+[Hier eine Liste](https://www.gumbies.de/haendlerverzeichnis). Zuletzt habe ich
+sie in [Wismar](/2018/06/wismar-am-sonntag/) entdeckt und auch in Fulda,
+Augsburg und Hamburg sind sie mir über den Weg gelaufen. Haltet also am besten
+die Augen offen.
 
 Ich mache es mir jetzt mit meinen Hausschuhen in meiner Leseecke gemütlich bei
 einer leckeren Tasse Tee, ein paar Keksen und einem guten Buch. Wir lesen uns!
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
 [glry name="2018-gumbies-slides"]
+
+  

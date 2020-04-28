@@ -4,12 +4,11 @@ seoTitle: Hamburg ist schön und ich bin endlich wieder da!
 slug: hamburg-ist-schoen-und-ich-bin-wieder-da
 link: /2015/05/hamburg-ist-schoen-und-ich-bin-wieder-da/
 fileName: 2015-05---in-hamburg-angekommen.md
-description:
-  Hamburg ist so schön! Ich möchte hier nie wieder weg! Ich habe auch schon mein
-  Lieblingscafé und meinen Lieblingsklamottenladen entdeckt!
-excerpt:
-  Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten Tagen
-  nicht zu erreichen war - finstere Mächte hatten sich in den Server gehackt.
+description: Hamburg ist so schön! Ich möchte hier nie wieder weg! Ich habe auch
+  schon mein Lieblingscafé und meinen Lieblingsklamottenladen entdeckt!
+excerpt: Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten
+  Tagen nicht zu erreichen war - finstere Mächte hatten sich in den Server
+  gehackt.
 focusKeyword: Hamburg
 labels:
   - Angekommen
@@ -30,15 +29,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11944"
+image: /img/demo.jpg
+errors: []
 subTitle: Ich bin endlich wieder da!
+  
 ---
 
 ![Hamburg ist schön und ich bin wieder da!](http://cardamonchai.com/wp-content/uploads/2015/05/17130880761_0e31d84d6b_z.jpg "Ich bin wieder da!")
 
-<strong>Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten
-Tagen nicht zu erreichen war. Finstere Mächte hatten sich in den Server gehackt
-und wollten versuchen, mit seiner Hilfe die Weltherrschaft an sich zu reißen.
-Die Folge: Der komplette Server wurde abgeschaltet.</strong>
+**Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten Tagen
+nicht zu erreichen war. Finstere Mächte hatten sich in den Server gehackt und
+wollten versuchen, mit seiner Hilfe die Weltherrschaft an sich zu reißen. Die
+Folge: Der komplette Server wurde abgeschaltet.**
 
 Außer meinem Blog waren noch jede Menge andere Seiten von dem Drama betroffen.
 Nach dem Neustart des Servers hat der Herzmann Tag und Nacht mit Hochdruck daran
@@ -56,8 +58,8 @@ Es wird wohl ein Bisschen dauern, die Artikel, die ich für Euch geplant habe, z
 rekapitulieren. Ich muss Euch also um ein kleines Bisschen Geduld bitten.
 
 In der letzten Zeit ging es hier richtig rund, so langsam kommen wir richtig in
-<strong>Hamburg</strong> an. Ich habe schon mein Lieblingsklamottengeschäft,
-mein Lieblingsfrühstückscafé und meine Lieblingseckkneipe gefunden, wir erkunden
+**Hamburg** an. Ich habe schon mein Lieblingsklamottengeschäft, mein
+Lieblingsfrühstückscafé und meine Lieblingseckkneipe gefunden, wir erkunden
 jedes Wochenende gemeinsam die Umgebung und saugen alles in uns auf.
 
 Das größte Highlight: Ich arbeite wieder! Als Redakteurin in einer Agentur, die
@@ -70,8 +72,8 @@ Team zu sitzen, die Leute sind nett und ich lerne jeden Tag etwas Neues.
 
 Nach einigen Anläufen haben wir es letzte Woche auch geschafft, unser Auto
 umzumelden, in unseren Pässen steht schon seit ein paar Wochen die neue Adresse.
-Es fühlt sich gut an, offiziell eine <strong>Hamburgerin</strong> zu sein! Ich
-liebe diese Stadt und ich möchte nie nie wieder hier weg.
+Es fühlt sich gut an, offiziell eine **Hamburgerin** zu sein! Ich liebe diese
+Stadt und ich möchte nie nie wieder hier weg.
 
 Was wir alles schon gesehen haben? So dies und das, wir haben zwei Radtouren
 gemacht, die Elbe und die Alster erkundet, wir waren auf dem Flohmarkt, beim
@@ -102,4 +104,6 @@ vegane Rezept geben. Seid gespannt und bleibt dran!
 
 Ich drücke (und vermisse!!) Euch Anne &lt;3
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

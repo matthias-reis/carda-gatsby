@@ -4,12 +4,10 @@ seoTitle: Vegane Musikinstrumente von Herzblut Instruments
 slug: herzblut-instruments-vegane-musikinstrumente
 link: /2019/07/herzblut-instruments-vegane-musikinstrumente/
 fileName: 2019-07---vegane-musikinstrumente-von-herzblut-instruments.md
-description:
-  Die Manufaktur Herzblut Instruments stellt im schönen Aach vegane
+description: Die Manufaktur Herzblut Instruments stellt im schönen Aach vegane
   Musikinstrumente her. Gründer Gernot ist stolz auf sein Vegan Friendly
   Zertifikat.
-excerpt:
-  Die Manufaktur Herzblut Instruments stellt im schönen Aach vegane
+excerpt: Die Manufaktur Herzblut Instruments stellt im schönen Aach vegane
   Musikinstrumente her. Gründer Gernot ist stolz auf sein Vegan Friendly
   Zertifikat.
 focusKeyword: vegane Musikinstrumente
@@ -36,21 +34,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25622"
+image: /img/demo.jpg
+errors: []
 subTitle: Schlagzeug und Bass ohne Tier
+  
 ---
 
 <hr />
 
-<strong>Hinweis: </strong>Diesen Beitrag habe ich bereits 2016 veröffentlicht.
-Da er jedoch an Brisanz nicht verloren hat und ich das vorgestellte Projekt nach
-wie vor gut finde, erscheint er heute frisch aktualisiert auf meinem Blog.
+**Hinweis:** Diesen Beitrag habe ich bereits 2016 veröffentlicht. Da er jedoch
+an Brisanz nicht verloren hat und ich das vorgestellte Projekt nach wie vor gut
+finde, erscheint er heute frisch aktualisiert auf meinem Blog.
 
 <hr />
 
-<strong>E</strong><strong>ine Musikinstrumente-Manufaktur im schönen Aach in der
-Nähe des Bodensees. Der Name Herzblut </strong><strong>Instruments ist Programm.
-Gründer Gernot Wegele steckt Herzblut in seine Arbeit und das sieht man auch.
-</strong>
+**E** **ine Musikinstrumente-Manufaktur im schönen Aach in der Nähe des
+Bodensees. Der Name Herzblut** **Instruments ist Programm. Gründer Gernot Wegele
+steckt Herzblut in seine Arbeit und das sieht man auch.**
 
 ![vegane-musikinstrumente](http://cardamonchai.com/wp-content/uploads/2019/07/Custom-Light-400x353.jpg "Custom Light von Herzblut Instruments")
 
@@ -83,8 +83,8 @@ Herzblut Instruments.
 
 Gernot hat sein Hobby zum Beruf gemacht und dabei seine Berufung gefunden. In
 diversen Fachzeitschriften bekommen seine Instrumente immer wieder positive
-Kommentare. So wurde er beispielsweise 2015 im Testbericht von <strong>Drums
-&amp; Percussion</strong> für seine perfekte und liebevolle Handarbeit gelobt.
+Kommentare. So wurde er beispielsweise 2015 im Testbericht von **Drums &amp;
+Percussion** für seine perfekte und liebevolle Handarbeit gelobt.
 
 ## Herzblut Instruments ist fair
 
@@ -105,3 +105,5 @@ vorbeischauen. Ich wünsche Euch viel Spaß beim Stöbern!
 
 [gallery type="rectangular" link="none" size="medium"
 ids="25619,25618,25617,25616,25614"]
+
+  

@@ -4,12 +4,10 @@ seoTitle: Earthlings Unity - der neue Film von Shaun Monson
 slug: earthlings-unity
 link: /2015/04/earthlings-unity/
 fileName: 2015-04---earthlings-unity.md
-description:
-  Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo der erste
-  Teil des Films "Earthlings" von 2005 aufhört.
-excerpt:
-  Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo der erste
-  Teil des Films "Earthlings" von 2005 aufhört.
+description: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an,
+  wo der erste Teil des Films "Earthlings" von 2005 aufhört.
+excerpt: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an, wo
+  der erste Teil des Films "Earthlings" von 2005 aufhört.
 focusKeyword: Earthlings Unity
 labels:
   - Adam Levine
@@ -33,12 +31,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27452"
+image: /img/demo.jpg
+errors: []
 subTitle: Der neue Film von Shaun Monson
+  
 ---
-
-<strong>Shaun Monson hat seinen neuen Dokumentarfilm "Earthlings Unity" nicht
-nur produziert, er hat auch selbst Regie geführt. Das Werk knüpft dort an, wo
-Monsons erster Film "Earthlings" von 2005 aufhört.</strong>
 
 Der Film wird von zahlreichen namenhaften Schauspielern, Künstlern, Sportlern,
 Autoren, Filmemachern und Musikern kommentiert und gesprochen. Neben vielen
@@ -79,5 +76,7 @@ dazu. [Ihr findet "Earthlings Unity" hier](http://www.nationearth.com/films).
 Wer lieber erstmal den Vorgänger schauen möchte, klickt einfach auf den folgen
 Link
 
-[Watch Earthlings](http://www.nationearth.com/films)
-<strong>Filmplakat:</strong> Nation Earth Film
+[Watch Earthlings](http://www.nationearth.com/films) **Filmplakat:** Nation
+Earth Film
+
+  

@@ -4,12 +4,11 @@ seoTitle: Das Moccaklatsch in Bielefeld - "Kann ich bitte einfach hierbleiben?"
 slug: das-moccaklatsch-in-bielefeld
 link: /2019/08/das-moccaklatsch-in-bielefeld/
 fileName: 2019-08---das-moccaklatsch-in-bielefeld.md
-description:
-  Heute möchte ich Euch das Café Moccaklatsch in Bielefeld vorstellen. Es gibt
-  dort jede Menge köstliche vegane Gerichte und tolles Frühstück.
-excerpt:
-  Heute möchte ich Euch das Café Moccaklatsch in Bielefeld vorstellen. Es gibt
-  dort jede Menge köstliche vegane Gerichte und tolles Frühstück.
+description: Heute möchte ich Euch das Café Moccaklatsch in Bielefeld
+  vorstellen. Es gibt dort jede Menge köstliche vegane Gerichte und tolles
+  Frühstück.
+excerpt: Heute möchte ich Euch das Café Moccaklatsch in Bielefeld vorstellen. Es
+  gibt dort jede Menge köstliche vegane Gerichte und tolles Frühstück.
 focusKeyword: Moccaklatsch
 labels:
   - Bielefeld
@@ -24,12 +23,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25442"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Kann ich bitte einfach hierbleiben?"'
+  
 ---
 
-<strong>Bevor es zur [Bad Salzuflen](/2019/07/sparrenburg-bielefeld/) ging, gab
-es erstmal ein leckeres Frühstück im schönen Café "Moccaklatsch" in
-Bielefeld.</strong>
+**Bevor es zur [Sparrenburg](/2019/07/sparrenburg-bielefeld/), zu den
+[Externsteinen](/2019/08/die-externsteine/), zum
+[Hermannsdenkmal](/2019/08/wandern-rund-um-das-hermannsdenkmal/) und nach
+[Bad Salzuflen](/2019/09/bad-salzuflen/) ging, gab es erstmal ein leckeres
+Frühstück im schönen Café "Moccaklatsch" in Bielefeld.**
 
 ![moccaklatsch](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-21-400x533.jpg)
 
@@ -56,3 +60,5 @@ Viel Spaß und lasst Euch unbedingt eine große Tasse Cappuccino mit
 [gallery type="rectangular" link="none" size="medium" ids="25423,25422,25421"]
 
 ![moccaklatsch-bielefeld | full](http://cardamonchai.com/wp-content/uploads/2019/08/moccaklatsch-bielefeld.png)
+
+  

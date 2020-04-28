@@ -4,11 +4,9 @@ seoTitle: Roadtrip in Progress - Meine sommerliche Auszeit
 slug: roadtrip-in-progress
 link: /2018/06/roadtrip-in-progress/
 fileName: 2018-06---roadtrip-in-progress.md
-description:
-  Ich befinde mich zur Zeit auf einem Roadtrip. Wir lesen uns schon bald wieder.
-  Dann gibt es viele neue spannende und interessante Geschichten.
-excerpt:
-  Ich befinde mich zur Zeit auf einem Roadtrip.  Wir lesen uns schon bald
+description: Ich befinde mich zur Zeit auf einem Roadtrip. Wir lesen uns schon
+  bald wieder. Dann gibt es viele neue spannende und interessante Geschichten.
+excerpt: Ich befinde mich zur Zeit auf einem Roadtrip.  Wir lesen uns schon bald
   wieder. Dann gibt es viele neue spannende und interessante Geschichten.
 focusKeyword: Roadtrip
 labels:
@@ -28,12 +26,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21183"
+image: /img/demo.jpg
+errors: []
 subTitle: Sommerliche Auszeit
+  
 ---
 
-<strong>Mein Blog nimmt sich eine kleine Auszeit. Ich melde mich in zwei Wochen
-wieder bei Euch. Aufgetankt mit neuer Kraft, frischen Ideen und hoffentlich ganz
-vielen Geschichten von unserem Roadtrip, der morgen losgeht.</strong>
+**Mein Blog nimmt sich eine kleine Auszeit. Ich melde mich in zwei Wochen wieder
+bei Euch. Aufgetankt mit neuer Kraft, frischen Ideen und hoffentlich ganz vielen
+Geschichten von unserem Roadtrip, der morgen losgeht.**
 
 ![Roadtrip](http://cardamonchai.com/wp-content/uploads/2018/06/15647786664_de0906f5ab_z-400x267.jpg)
 
@@ -44,11 +45,16 @@ Schnappschuss veröffentlichen.
 ## Roadtrip - Der Weg ist das Ziel
 
 Bis ich wieder hier bin, könnt Ihr Euch ja
-[Ihr plant schon mal fürs nächste Festival](/tag/irland2018/).
+[die Zeit mit den Stories vom letzten Roadtrip vertreiben](/tag/irland2018/).
+Oder
+[Ihr plant schon mal fürs nächste Festival](/2015/03/die-ultimative-vegane-festivalliste/).
 
-Vielleicht hat Ihr auch Lust auf [Lyrik](/category/vegan-2/rezepte/) ? Natürlich
-könnt Ihr auch einfach mal rausgehen und das Wetter genießen. :-)
+Vielleicht hat Ihr auch Lust auf [ein Rezept](/category/vegan-2/rezepte/) ? Oder
+etwas [Lyrik](/category/bleistift-2-0/lyrik/) ? Natürlich könnt Ihr auch einfach
+mal rausgehen und das Wetter genießen. :-)
 
 Bis bald!
 
 [gallery type="rectangular" link="none" size="large" ids="21187,21185,21184"]
+
+  

@@ -4,13 +4,12 @@ seoTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 slug: die-geschichte-von-herrn-sommer-von-patrick-sueskind
 link: /2019/03/die-geschichte-von-herrn-sommer-von-patrick-sueskind/
 fileName: 2019-03---die-geschichte-von-herrn-sommer-von-patrick-sueskind.md
-description:
-  Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein besonderes Werk
-  geschaffen. Eine liebevoll erzählte Geschichte mit einer wertvollen Botschaft.
-excerpt:
-  Affiliate Link - Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein
+description: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein
   besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer
   wertvollen Botschaft.
+excerpt: Affiliate Link - Mit "Die Geschichte von Herrn Sommer" hat Patrick
+  Süßkind ein besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit
+  einer wertvollen Botschaft.
 focusKeyword: Herrn Sommer
 labels:
   - ;
@@ -44,14 +43,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23787"
+image: /img/demo.jpg
+errors: []
 subTitle: Illustriert von Jean-Jaques Sempé
+  
 ---
 
-<em>Affiliate Link\*</em>
+_Affiliate Link\*_
 
-<strong>Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein ganz
-besonderes Werk geschaffen. Es erzählt von der Kindheit eines Jungen und von den
-mysteriösen Spaziergängen des Herrn Sommer.</strong>
+**Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein ganz besonderes
+Werk geschaffen. Es erzählt von der Kindheit eines Jungen und von den
+mysteriösen Spaziergängen des Herrn Sommer.**
 
 Das Buch ist aus der Perspektive eines Jungen geschrieben, der in einem kleinen
 Dorf wohnt und gerade dabei ist, die Welt zu entdecken. Von seinem Vater bekommt
@@ -69,7 +71,7 @@ von Dorf zu Dorf, ohne dabei auch nur eine Atempause einzulegen.
 
 ## Das Rätsel um den aktiven Herrn Sommer
 
-![die-geschichte-von-herrn-sommer](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-400x533.jpg ' [](https://amzn.to/2HvCs4m)  "Die Geschichte von Herrn Sommer" - eine Novelle von Patrick Süskind')
+![die-geschichte-von-herrn-sommer](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-400x533.jpg '[ ](https://amzn.to/2HvCs4m)  "Die Geschichte von Herrn Sommer" - eine Novelle von Patrick Süskind')
 
 Der Junge kommt dem Rästel um den aktiven Herrn nach und nach auf die Spur,
 erkennt dessen Einsamkeit und ist gebannt von der Tragik seines Daseins. Ganz
@@ -121,8 +123,10 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-![die-geschichte-von-herrn-sommer | full](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-1-960x720.jpg ' [](https://amzn.to/2HvCs4m)  "Die Geschichte von Herrn Sommer" - meine Empfehlung')
+![die-geschichte-von-herrn-sommer | full](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-1-960x720.jpg '[ ](https://amzn.to/2HvCs4m)  "Die Geschichte von Herrn Sommer" - meine Empfehlung')
 
-<em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
+_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

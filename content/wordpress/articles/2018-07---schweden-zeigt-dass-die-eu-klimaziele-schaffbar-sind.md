@@ -4,12 +4,10 @@ seoTitle: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 slug: schweden-klimaziele
 link: /2018/07/schweden-klimaziele/
 fileName: 2018-07---schweden-zeigt-dass-die-eu-klimaziele-schaffbar-sind.md
-description:
-  Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein nach
-  bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
-excerpt:
-  Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein nach
-  bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
+description: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein
+  nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
+excerpt: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein
+  nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
 focusKeyword: Klimaziele
 labels:
   - Energie
@@ -36,22 +34,24 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21418"
+image: /img/demo.jpg
+errors: []
 subTitle: 2018 statt 2030
+  
 ---
 
-<strong>Dem Klima geht es schlecht. Das lässt sich nicht nur an den derzeit
+**Dem Klima geht es schlecht. Das lässt sich nicht nur an den derzeit
 herrschenden Temperaturen in Nord- und Mitteleuropa unschwer erkennen. Der
 Meeresspiegel steigt unaufhaltsam, es kommt zu Überschwemmungen, Bränden und
-weiteren dramatischen Auswirkungen der Klimaerwärmung.</strong>
+weiteren dramatischen Auswirkungen der Klimaerwärmung.**
 
 Die von der EU bis 2030 vereinbarten Klimaziele schafft Schweden jetzt
 vielleicht schon in diesem Jahr. Im Vertrag stehen
 
-<ul>
-    <li>Die Senkung der Treibhausgasemission um mindestens 40 Prozent gegenüber dem Stand 1990,</li>
-    <li>die Erhöhung des Anteils erneuerbarer Energien auf mindestens 27 Prozent</li>
-    <li>sowie die Steigerung der Energieeffizienz um mindestens 27 Prozent.</li>
-</ul>
+- Die Senkung der Treibhausgasemission um mindestens 40 Prozent gegenüber dem
+  Stand 1990,
+- die Erhöhung des Anteils erneuerbarer Energien auf mindestens 27 Prozent
+- sowie die Steigerung der Energieeffizienz um mindestens 27 Prozent.
 
 ![Klimaziele](http://cardamonchai.com/wp-content/uploads/2018/07/1-400x224.png "Bild: Swedish Energy Association")
 
@@ -107,8 +107,10 @@ schwedischen Energieagentur, gegenüber dem World Economic Forum.
 
 <pre> [HIER FINDET IHR ALLE INFOS ZUM EARTH OVERSHOOT DAY 2018](/2018/07/earth-overshoot-day-2018/) </pre>
 
-<strong>\*Interessierte finden hier
+**\*Interessierte finden hier
 [die Analyse der CAN als praktisches PDF](http://www.caneurope.org/docman/climate-energy-targets/3357-off-target-ranking-of-eu-countries-ambition-and-progress-in-fighting-climate-change/file).
-Quellen:</strong> weforum.org, bento.de, energimyndigheten.se, ec.europa.euF
-<strong>Titelbild:</strong>
-[Oimheidi](https://pixabay.com/de/users/Oimheidi-1660138/), pixabay
+Quellen:** weforum.org, bento.de, energimyndigheten.se, ec.europa.euF
+**Titelbild:** [Oimheidi](https://pixabay.com/de/users/Oimheidi-1660138/),
+pixabay
+
+  

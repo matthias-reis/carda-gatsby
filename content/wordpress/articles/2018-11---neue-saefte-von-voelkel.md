@@ -4,12 +4,10 @@ seoTitle: Neue Säfte von Voelkel - Vitamine für das Immunsystem
 slug: neue-saefte-von-voelkel
 link: /2018/11/neue-saefte-von-voelkel/
 fileName: 2018-11---neue-saefte-von-voelkel.md
-description:
-  Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei davon habe ich
-  getestet. Und noch drei andere Vitaminlieferanten.
-excerpt:
-  Werbung - Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei
+description: Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei
   davon habe ich getestet. Und noch drei andere Vitaminlieferanten.
+excerpt: Werbung - Von Voelkel gibt es derzeit neun verschiedene Muttersäfte.
+  Drei davon habe ich getestet. Und noch drei andere Vitaminlieferanten.
 focusKeyword: Säfte
 labels:
   - Acerola
@@ -30,16 +28,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22806"
+image: /img/demo.jpg
+errors: []
 subTitle: Vitamine für das Immunsystem
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Die neuen Säfte von Voelkel erreichen mich genau im richtigen Moment.
-Eine Erkältung ist im Anmarsch. Und das nur ein paar Tage, bevor wir in den
-Urlaub aufbrechen wollen. Matze hat es schon voll erwischt, ich schleiche noch
-mit Desinfektionsmittel durch die Wohnung und versuche meinen gelegentlichen
-Nieser nicht zu viel Bedeutung beizumessen.</strong>
+**Die neuen Säfte von Voelkel erreichen mich genau im richtigen Moment. Eine
+Erkältung ist im Anmarsch. Und das nur ein paar Tage, bevor wir in den Urlaub
+aufbrechen wollen. Matze hat es schon voll erwischt, ich schleiche noch mit
+Desinfektionsmittel durch die Wohnung und versuche meinen gelegentlichen Nieser
+nicht zu viel Bedeutung beizumessen.**
 
 Jetzt sind Vitamine gefragt! Also her mit dem prall gefüllten Testpaket. Heraus
 klettern nach einander je eine Flasche Granatapfel-, Holunder- und
@@ -57,10 +58,9 @@ auch ungekühlt direkt aus dem Karton. Die Zutaten versprechen Vitamine pur.
 Superfood zum trinken quasi.
 
 <small>Orangensaft* 35 Prozent, Apfelsaft* 31,2 Prozent, Möhrensaft*
-(Möhrensaft*, Zitronensaft<em>) 20 Prozent, Acerolamark</em> 6 Prozent,
-Mangomark* 4,9 Prozent, Sanddornmark* 1,9 Prozent, Ingwersaft* (Ingwersaft*,
-Zitronensaft* aus Zitronensaftkonzentrat*) 0,9 Prozent, Weizenkeimöl 0,1
-Prozent</small>
+(Möhrensaft*, Zitronensaft _) 20 Prozent, Acerolamark_ 6 Prozent, Mangomark* 4,9
+Prozent, Sanddornmark* 1,9 Prozent, Ingwersaft* (Ingwersaft*, Zitronensaft* aus
+Zitronensaftkonzentrat*) 0,9 Prozent, Weizenkeimöl 0,1 Prozent</small>
 
 Ein paar Stunden später gibt es dann den Granatapfelsaft. Und der schmeckt. Wir
 beide lieben Granatäpfel und kommen voll auf unsere Kosten. Als würde man in
@@ -114,8 +114,10 @@ Insgesamt gibt es von Voelkel derzeit neun Muttersäfte (Preis für 0,33 Liter a
 4,29 Euro, für 0,75 Liter ab 7,99 Euro) an. Neben den von mir getesteten
 Produkten kann man auch noch Sanddorn, Acerola, Aronia, Preiselbeere, Schwarze
 Johannisbeere und Waldheidelbeere käuflich erwerben. Mehr Infos zu den Produkten
-findet Ihr unter [unter diesem Link](http://shop.voelkeljuice.de/) für Euch
-zusammengetragen.
+findet Ihr unter [im Voelkel Onlineshop](http://shop.voelkeljuice.de/). Eine
+kleine Liste veganer Getränke habe ich
+[unter diesem Link](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
+für Euch zusammengetragen.
 
 Ich kann Euch auf jeden Fall empfehlen, die neuen Voelkel-Getränke mal zu
 testen. Und jetzt drückt mir die Daumen, dass wir morgen fit sind, wenn unsere
@@ -123,6 +125,8 @@ Reise losgeht!
 
 [glry name="voelkel-muttersaefte"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

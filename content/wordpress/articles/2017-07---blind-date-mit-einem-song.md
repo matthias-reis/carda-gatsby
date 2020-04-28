@@ -4,13 +4,11 @@ seoTitle: Blind Date mit einem Song - Summerwine von Nancy Sinatra
 slug: blind-date-summerwine
 link: /2017/07/blind-date-summerwine/
 fileName: 2017-07---blind-date-mit-einem-song.md
-description:
-  Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu kam?
-  Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu
+description: Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es
+  dazu kam? Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu
   schreiben.
-excerpt:
-  Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu kam?
-  Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu
+excerpt: Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu
+  kam? Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu
   schreiben.
 focusKeyword: Blind Date
 labels:
@@ -31,14 +29,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17157"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Summerwine" von Nancy Sinatra'
+  
 ---
 
 ![Blind Date](http://cardamonchai.com/wp-content/uploads/2017/07/16153910860_3c6733963e_z-640x480.jpg)
 
-<strong> eingeladen, bei einer ganz besonderen Bloggeraktion mitzuwirken. Es
-geht dabei um Musik und was sie mit einem macht. Für mich war also von Anfang an
-klar, dass ich mitmachen würde. </strong>
+**Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu kam?
+Jüngst wurde ich von Björn von Gartenbaukunst _\*_ eingeladen, bei einer ganz
+besonderen Bloggeraktion mitzuwirken. Es geht dabei um Musik und was sie mit
+einem macht. Für mich war also von Anfang an klar, dass ich mitmachen würde.**
 
 Damit Ihr Euch etwas darunter vorstellen könnt, stelle ich Euch die Aktion kurz
 vor. Es geht dabei wie gesagt um ein Blind Date. Dieses Blind Date hat man nicht
@@ -70,28 +72,33 @@ Es ist also soweit. Das Blind Date geht los. Ihr dürft gespannt sein, denn Ihr
 dürft live dabei sein, wie ich Nancy Sinatras "Summerwine" auf mich wirken
 lasse. Vorhang auf für Gefühle. Hier kommt mein Text.
 
-<strong>Ein breiter Strand mit hellem Sand. Vielleicht in Kalifornien. Oder
-anderswo auf der Welt. Fröhliche Menschen tanzen glücklich im Abendlicht. Für
-sich. Vertieft in die Musik. Zu zweit. Eng aneinander geschmiegt oder in Gruppen
-von dreien oder vieren. Männer. Frauen. Kinder. Hunde. Sie murmeln. Lachen.
-Teilen mitgebrachtes Essen. Laden Passanten ein, sich ihnen anzuschließen.
-</strong><strong>Jemand sitzt auf einer Schaukel, an deren langen Bändern
-Blumengirlanden befestigt sind. Das wirre Haar und die luftige Kleidung der
-Person flattert im Wind. Fast feenhaft. Leicht. Beschwingt. </strong>
+**Ein breiter Strand mit hellem Sand. Vielleicht in Kalifornien. Oder anderswo
+auf der Welt. Fröhliche Menschen tanzen glücklich im Abendlicht. Für sich.
+Vertieft in die Musik. Zu zweit. Eng aneinander geschmiegt oder in Gruppen von
+dreien oder vieren. Männer. Frauen. Kinder. Hunde. Sie murmeln. Lachen. Teilen
+mitgebrachtes Essen. Laden Passanten ein, sich ihnen anzuschließen.** **Jemand
+sitzt auf einer Schaukel, an deren langen Bändern Blumengirlanden befestigt
+sind. Das wirre Haar und die luftige Kleidung der Person flattert im Wind. Fast
+feenhaft. Leicht. Beschwingt.**
 
 ![](http://cardamonchai.com/wp-content/uploads/2017/07/16339551251_a0008bf3fa_z-640x427.jpg)
 
-<strong>
+**Der Sonnenuntergang spielt mit dem Meeresspiegel. Farben von gelb über orange
+bis violett mischen sich in die leichten Wellen. Grillen zirpen in den Dünen.
+Jemand greift zur Gitarre. Begleitet die Geigen. Gibt dem Bild für einen kleinen
+Augenblick Kontur. Der Sand ist noch heiß vom Tag. Der mitgebrachte Wein etwas
+warm. Aber das stört niemanden. Es ist windstill. In der Ferne zieht ein kleines
+Boot seine Kreise.**
 
-<strong>Von der nahegelegenen Promenade dringen Geräusche zu den Menschen am
-Strand. Durch das Schilf und die Palmen wirken sie gedämpft. Wie durch einen
-weichen Vorhang. Ein satter, sanfter Klangteppich aus Musik, fröhlichen Menschen
-und klirrenden Gläsern. Der Asphalt ist dampfig und weich. Ein Mann schreitet
-das Trottoir entlang. Einen schmalen Koffer unter dem Arm. Sein Anzug sitzt
-akkurat, die Schuhe sehen poliert aus, der Kragen frisch gestärkt. Keine Spur
-von Schweiß auf seiner Stirn. Er steigt in einen silbrig glänzenden Sportwagen
-ein. Gibt Gas und verschwindet in der dunkler werdenden Nacht. Sein Auftrag ist
-geheim. Sein Name Bond. James Bond.</strong>
+**Von der nahegelegenen Promenade dringen Geräusche zu den Menschen am Strand.
+Durch das Schilf und die Palmen wirken sie gedämpft. Wie durch einen weichen
+Vorhang. Ein satter, sanfter Klangteppich aus Musik, fröhlichen Menschen und
+klirrenden Gläsern. Der Asphalt ist dampfig und weich. Ein Mann schreitet das
+Trottoir entlang. Einen schmalen Koffer unter dem Arm. Sein Anzug sitzt akkurat,
+die Schuhe sehen poliert aus, der Kragen frisch gestärkt. Keine Spur von Schweiß
+auf seiner Stirn. Er steigt in einen silbrig glänzenden Sportwagen ein. Gibt Gas
+und verschwindet in der dunkler werdenden Nacht. Sein Auftrag ist geheim. Sein
+Name Bond. James Bond.**
 
 ## Summer Wine - Der Song
 
@@ -99,18 +106,20 @@ geheim. Sein Name Bond. James Bond.</strong>
 
 ## Teilnehmer beim Blind Date mit Summerwine
 
-[\*Gartenbaukunst](https://gartenbaukunst.wordpress.com/)
-[Hauptstadtgarten](https://www.hauptstadtgarten.de/)
-[Beetkultur](https://www.beetkultur.de/)
-[Rienmakaefer](https://rienmakaefer.com/)
-[Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)
-[Ye olde Kitchen](http://yeoldekitchen.com/)
-[Laubenhausmädchen](https://laubenhausmaedchen.wordpress.com/)
+[\*Gartenbaukunst](https://gartenbaukunst.wordpress.com/)  
+[Hauptstadtgarten](https://www.hauptstadtgarten.de/)  
+[Beetkultur](https://www.beetkultur.de/)  
+[Rienmakaefer](https://rienmakaefer.com/)  
+[Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)  
+[Ye olde Kitchen](http://yeoldekitchen.com/)  
+[Laubenhausmädchen](https://laubenhausmaedchen.wordpress.com/)  
 [Karo-Tina Aldente](https://karotinasblog.wordpress.com/) Anne bloggt
 cardamonchai (aka ich :-) )
-[Sind im Garten](https://sindimgarten.wordpress.com/)
+[Sind im Garten](https://sindimgarten.wordpress.com/)  
 [Milli Bloom](http://millibloom.com/)
 
 Über warmen Asphalt
 [habe ich hier schon mal geschrieben](/2012/03/sonnentraenen/). Auch diese
 Geschichte lohnt es sich zu lesen.
+
+  

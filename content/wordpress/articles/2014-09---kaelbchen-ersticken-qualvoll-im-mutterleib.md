@@ -1,15 +1,12 @@
 ---
 title: Kälbchen ersticken qualvoll im Mutterleib
-seoTitle:
-  Kälbchen ersticken qualvoll im Mutterleib - das unfassbare Leid der Kühe
+seoTitle: Kälbchen ersticken qualvoll im Mutterleib - das unfassbare Leid der Kühe
 slug: kaelbchen-ersticken-qualvoll-im-mutterleib
 link: /2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/
 fileName: 2014-09---kaelbchen-ersticken-qualvoll-im-mutterleib.md
-description:
-  Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind
-  trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
-excerpt:
-  Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind
+description: Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe
+  sind trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
+excerpt: Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind
   trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
 focusKeyword: Kälbchen
 labels:
@@ -26,11 +23,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24306"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <h3> (100:16)"
 subTitle: Das unfassbare Leid der Kühe
+  
 ---
 
-<div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="column"><strong>Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe sind trächtig, der überwiegende Teil von ihnen befindet sich in einem fortgeschrittenen Trächtigkeitsstadium. Pro Jahr sind davon rund 180.000 Tiere betroffen. </strong>
+## unknown: Expected corresponding JSX closing tag for <h3> (100:16)
 
+<!--
 Dies geht aus der Studie von Rhien et. al. (2011) hervor, in der Daten aus 53
 deutschen Schlachtbetrieben ausgewertet werden.
 
@@ -38,8 +41,8 @@ deutschen Schlachtbetrieben ausgewertet werden.
 
 Die Bundestagsabgeordneten der von Bündnis 90/DIE GRÜNEN Bärbel Höhn, Friedrich
 Ostendorff, Nicole Maisch, Harald Ebner und Steffi Lemke stellten dazu am 8.
-Juli dieses Jahres eine Anfrage. Hier die Drucksache dazu [](#1). Lösungsansätze
-gab es daher bis dato noch keine.
+Juli dieses Jahres eine Anfrage. Hier die Drucksache dazu [<sup>1</sup>](#1).
+Lösungsansätze gab es daher bis dato noch keine.
 
 Die Tierschutzbedingungen für den Transport sind auf nicht tragende Tiere
 ausgelegt, daher wird hier von vornherein schon mal gegen geltende Gesetze
@@ -56,10 +59,11 @@ letzten Drittel der Trächtigkeit zutrifft.
 
 Die Kälbchen sterben unter Zuckungen, ersticken unter heftigsten
 Abwehrreaktionen in ihrer Fruchtblase. Tierarzt Rupert Hildner spricht in der
-Panorama 3 Sendung des NDR vom 25. März [](#2) von einem untragbaren Zustand:
-„Jeder von uns Fachleuten weiß, dass die Kuh mit einem Bolzenschussgerät betäubt
-wird, auf das Kälbchen hat dies jedoch keine Wirkung. Der Fötus stirbt,
-erstickt, verreckt elendiglich in einem lange andauernden Prozess.“
+Panorama 3 Sendung des NDR vom 25. März [<sup>2</sup>](#2) von einem untragbaren
+Zustand: „Jeder von uns Fachleuten weiß, dass die Kuh mit einem
+Bolzenschussgerät betäubt wird, auf das Kälbchen hat dies jedoch keine Wirkung.
+Der Fötus stirbt, erstickt, verreckt elendiglich in einem lange andauernden
+Prozess.“
 
 Bedenkt man dabei, dass die Betäubung laut einer Umfrage von Bündnis 90/DIE
 GRÜNEN bei rund 4-9 Prozent der Rinder mangelhaft ist, oder sogar gänzlich
@@ -71,8 +75,13 @@ Mutterkühe und ihre ungeborenen Kinder in den Schlachthöfen erwartet.
 In einer Stellungnahme des Amtstierarztes D. Wolfgang Kulow zum Thema werden
 folgende Hauptgründe für die Schlachtung tragender Kühe genannt:
 
-<ul><li>„Fehlgeleitete Kühe“ (die Trächtigkeit war dem Landwirt nicht bekannt) Verletzungen, die eine „weitere Nutzung“ des Tieres ausschließen</li><li>Tiere, deren „Nutzung aus anderen Gründen unwirtschaftlich erscheint“, weil z. B. teure tierärztliche Behandlungen anstehen</li></ul>
-Lebewesen werden demnach auf den Müll geworfen, entsorgt, weil sich der Halter die Haltung des Nachwuchses und die ärztliche Versorgung nicht leisten kann oder sich schlicht nicht für seine Tiere interessiert.
+- „Fehlgeleitete Kühe“ (die Trächtigkeit war dem Landwirt nicht bekannt)
+  Verletzungen, die eine „weitere Nutzung“ des Tieres ausschließen
+- Tiere, deren „Nutzung aus anderen Gründen unwirtschaftlich erscheint“, weil z.
+  B. teure tierärztliche Behandlungen anstehen Lebewesen werden demnach auf den
+  Müll geworfen, entsorgt, weil sich der Halter die Haltung des Nachwuchses und
+  die ärztliche Versorgung nicht leisten kann oder sich schlicht nicht für seine
+  Tiere interessiert.
 
 Zwar wurde 1990 der § 90a im BGB eingefügt, nachdem Tiere keine Sachen sind, sie
 werden damit jedoch nur gedanklich von Sachen unterschieden und sind nach
@@ -94,7 +103,7 @@ glücklichen Kühen auf saftigen Weiden.
 
 In der Stellungnahme des Amtstierarztes heißt es weiter: „Die
 tierschutzrechtlichen Vorschriften schützen die Föten praktisch nicht. Nach dem
-Tod des Muttertieres sterben sie durch Hypoxie [](#3). Im normalen
+Tod des Muttertieres sterben sie durch Hypoxie [<sup>3</sup>](#3). Im normalen
 Schlachtprozess sind sie bei der Eviszeration bereits verendet. Das dürfte einer
 der Gründe sein, warum diese Problematik erst jetzt thematisiert wird. Ein
 tierschutzgerechtes Töten der Föten ist im herkömmlichen Schlachtprozess also
@@ -143,4 +152,14 @@ momentan, ob ein nationales Schlachtungsverbot für trächtige Rinder
 ausgesprochen werden darf. Eine Änderung der EU-Verordnung steht wohl auch
 weiterhin in den Sternen.
 
-### Quellen:</div><ul><li id="1">[1][stellungnahme des amtstierarztes dr. wolfgang kulow](http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf) </li></ul></div></div></div>
+### Quellen:</div>- [1][drucksache von bündnis 90/die grünen vom 08.05.2014](http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf)
+
+- [2][panorama 3,](https://nebenan.de/)
+  [NDR Sendung vom 25.03.2014](https://www.ardmediathek.de/ard/player/Y3JpZDovL25kci5kZS9mMzRlZDNlNS1iMWYxLTQ0OGItYTAwMC1mNzQzMjlmNWNkOGE/)
+- [3][begriffserklärung "hipoxie"](https://de.wikipedia.org/wiki/Hypoxie_(Medizin))
+- [4][erkenntnis zur schlachtung gravider tiere,](https://www.youtube.com/watch?time_continue=1225&amp;v=tNZXy6hfvhM)
+  [Stellungnahme des Amtstierarztes Dr. Wolfgang Kulow](https://www.amtstierarzt.de/)</div></div></div>
+
+-->
+
+  

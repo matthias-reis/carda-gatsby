@@ -4,11 +4,9 @@ seoTitle: Online-Marketing - neue Serie im Blog
 slug: online-marketing
 link: /2012/07/online-marketing/
 fileName: 2012-07---online-marketing.md
-description:
-  In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums Thema
-  Online-Marketing drehen.
-excerpt:
-  In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums Thema
+description: In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums
+  Thema Online-Marketing drehen.
+excerpt: In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums Thema
   Online-Marketing drehen.
 focusKeyword: Online-Marketing
 labels:
@@ -27,11 +25,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3153"
+image: /img/demo.jpg
+errors: []
 subTitle: Neue Serie im Blog
+  
 ---
-
-<strong>In einer neuen Serie in meinem Blog wird sich ab jetzt alles ums Thema
-Online-Marketing drehen.</strong>
 
 Da ich in Zukunft eine ganze Menge mit dem Thema Online-Marketing zu tun haben
 werde und es mir schon immer beim Lernen geholfen hat, Dinge aufzuschreiben,
@@ -46,5 +44,9 @@ wenn es sogar Kommentare zu den Beiträgen gibt.
 
 Ich bin schon sehr gespannt, was mir zu dem neuen Thema alles einfallen wird,
 sich ist schon mal, dass es auf jeden Fall Artikel über
-[Suchmaschinenwerbung](/2012/07/virales-marketing-2/) geben wird. Ganz bestimmt
-kommen aber noch eine ganze Menge weitere Ideen dazu.
+[Virales Marketing](/2012/07/virales-marketing-2/),
+[Suchmaschinenoptimierung](/2012/07/suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz/)
+und [Suchmaschinenwerbung](/2012/07/sea/) geben wird. Ganz bestimmt kommen aber
+noch eine ganze Menge weitere Ideen dazu.
+
+  

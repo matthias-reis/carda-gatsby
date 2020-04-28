@@ -4,12 +4,11 @@ seoTitle: 12 Songs für den Februar - frisch ausgesucht
 slug: 12-songs-fuer-den-februar
 link: /2020/01/12-songs-fuer-den-februar/
 fileName: 2020-01---12-songs-fuer-den-februar.md
-description:
-  Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder eine
-  starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
-excerpt:
-  Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder eine
-  starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
+description: Im Januar war ja musikalisch echt schon einiges los. Wir haben
+  wieder eine starke Hörliste für Euch zusammengestellt - mit ziemlich genialen
+  Songs.
+excerpt: Im Januar war ja musikalisch echt schon einiges los. Wir haben wieder
+  eine starke Hörliste für Euch zusammengestellt - mit ziemlich genialen Songs.
 focusKeyword: Songs
 labels:
   - Alcest
@@ -45,12 +44,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27415"
+image: /img/demo.jpg
+errors: []
 subTitle: Präsentiert von den drei von der Bande
+  
 ---
 
-<strong>Im Januar war ja musikalisch echt schon einiges los. Wir haben wie jeden
-Monat wieder eine starke Hörliste für Euch zusammengestellt - mit einigen echten
-Überraschungen.</strong>
+**Im Januar war ja musikalisch echt schon einiges los. Wir haben wie jeden Monat
+wieder eine starke Hörliste für Euch zusammengestellt - mit einigen echten
+Überraschungen.**
 
 Wie immer hat wieder jeder von uns dreien vier Songs zusammengestellt. Erlaubt
 war wie immer alles, was gefällt. Egal, welche Stilrichtung. Weiter unten findet
@@ -61,7 +63,7 @@ Playbutton drücken.
 
 ### Caspian - "Ishmael" vom Album "On Circles"
 
-<p class="p1"><span class="Apple-converted-space">Matze meint: "</span>Vor zwei Monaten hatte ich schon die erste Singleauskopplung  [in unserer Liste](/2019/11/13-songs-fuer-den-dezember/).  Jetzt ist das wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger "Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
+<p class="p1">Matze meint: "Vor zwei Monaten hatte ich schon die erste Singleauskopplung  [in unserer Liste](/2019/11/13-songs-fuer-den-dezember/).  Jetzt ist das wundervolle Album erschienen, das insgesamt fast an seinen genialen Vorgänger "Dust and Disquiet" heranreicht. 'Ishmael' ist der siebenminütige, gewaltige vorletzte Track. Er schaukelt sich über einige schräge Violinenklänge in altbekannte Post-Rock Höhen hoch und gewinnt mich damit bei jedem Hören mehr."
 <iframe src="https://www.youtube.com/embed/G4MR6_HvckU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 ### Alcest - "Protection" in der Ben Chisholm Version (Single)
@@ -71,14 +73,19 @@ Playbutton drücken.
 
 ### Pearl Jam - "Dance Of The Clairvoyants" - Vorauskopplung aus dem Album "Gigaton"
 
-<p class="p1"><span class="Apple-converted-space">Matze fehlen hier ein bisschen die Worte. Zu Recht. "</span>Wow. Der Vorgänger von 'Gigaton' 'Lightening Bolt' ist inzwischen schon acht Jahre alt. Wie schnell doch die Zeit vergeht. Umso gespannter war ich auf neues Material. Diese Vorauskopplung ist etwas anders, als wir es von früheren Pearl Jam Platten kennen. Obwohl man den geliebten Sound natürlich auch wieder heraushören kann - wie könnte es anders sein.</p>
+Matze fehlen hier ein bisschen die Worte. Zu Recht. "Wow. Der Vorgänger von
+'Gigaton' 'Lightening Bolt' ist inzwischen schon acht Jahre alt. Wie schnell
+doch die Zeit vergeht. Umso gespannter war ich auf neues Material. Diese
+Vorauskopplung ist etwas anders, als wir es von früheren Pearl Jam Platten
+kennen. Obwohl man den geliebten Sound natürlich auch wieder heraushören kann -
+wie könnte es anders sein.
 
 <p class="p1">Der Song startet mit nahezu Kasabian ähnlichen elektronischen Tunes bis Eddie Vedder und der Rest der Band  dann doch wieder ihr Ding machen. Was gut ist. Für sich genommen ist 'Dance Of The Clairvoyants' ein sehr gutes Stück Musik und für mich der perfekter Teaser für das kommende Album."
 <iframe src="https://www.youtube.com/embed/ss6mIGfyvXM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 ### Tindersticks - "See My Girls" von der EP "See my Girls"
 
-<p class="p1"><span class="Apple-converted-space">Matze hat sich über die neue Tindersticks EP sehr gefreut. "</span>Die Briten haben es mir mit ihrem komplett eigenen Mix aus Indie Pop und Avantgarde irgendwie angetan. Vielleicht ist es die düstere, aber dennoch nicht tiefe, melancholische Stimme von Stuart Staples oder ihre experimentellen Rhythmen, die mich sogar manchmal vage an die Neubauten erinnern - gepaart mit Leonard Cohen. Ich weiß es nicht. 'See My Girls' ist wie das Stück von Alcest ebenfalls ein alter, aber vollkommen neu gedachter Bekannter aus dem Vorgängeralbum. Und 'No Treasure But Hope' war ja an sich schon etwas ganz Besonderes. Verpackt wurde die EP mit zwei weiteren komplett neuen Songs, die es sich definitiv auch zu hören lohnt."
+<p class="p1">Matze hat sich über die neue Tindersticks EP sehr gefreut. "Die Briten haben es mir mit ihrem komplett eigenen Mix aus Indie Pop und Avantgarde irgendwie angetan. Vielleicht ist es die düstere, aber dennoch nicht tiefe, melancholische Stimme von Stuart Staples oder ihre experimentellen Rhythmen, die mich sogar manchmal vage an die Neubauten erinnern - gepaart mit Leonard Cohen. Ich weiß es nicht. 'See My Girls' ist wie das Stück von Alcest ebenfalls ein alter, aber vollkommen neu gedachter Bekannter aus dem Vorgängeralbum. Und 'No Treasure But Hope' war ja an sich schon etwas ganz Besonderes. Verpackt wurde die EP mit zwei weiteren komplett neuen Songs, die es sich definitiv auch zu hören lohnt."
 <iframe src="https://www.youtube.com/embed/8CWAtHcnNB0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 ## Meine Auswahl
@@ -134,9 +141,13 @@ Gelegenheit bietet.
 
 ### Fjørt - "Eden" vom Album "Colour"
 
-<p class="p2">"Von der sympathischen und wirklich einzigartigen Band aus Aachen Fjørt (die ich leider erst jetzt für mich entdeckt habe) habe ich den Song 'Eden' ausgewählt. Er wurde auf dem ihrem dritten Album 'Colour' aus dem Jahr 2017 verewigt.  Für mich ist er pure Emotion in Musikgestalt. Fjørt sind übrigens beim legendären Hamburger Label Grandhotel van Cleef zu Hause!"</p>
+"Von der sympathischen und wirklich einzigartigen Band aus Aachen Fjørt (die ich
+leider erst jetzt für mich entdeckt habe) habe ich den Song 'Eden' ausgewählt.
+Er wurde auf dem ihrem dritten Album 'Colour' aus dem Jahr 2017 verewigt.  Für
+mich ist er pure Emotion in Musikgestalt. Fjørt sind übrigens beim legendären
+Hamburger Label Grandhotel van Cleef zu Hause!"
 
-<p class="p4"><iframe src="https://www.youtube.com/embed/UqsDrvNz-N4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<iframe src="https://www.youtube.com/embed/UqsDrvNz-N4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <p class="p1">"Wunderbare Musik von einem Künstler aus Nashville, Tennessee, von dem ich unbedingt noch mehr hören möchte! Devon Gilfillian ist eine Empfehlung meines Vaters!"
 <iframe src="https://www.youtube.com/embed/-ahIUlfWiXA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
@@ -164,3 +175,5 @@ das im Jahr 2004 erschienen ist."
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-01-25-die-drei-von-der-bande/pl.u-jvM9ujekrkB" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
 ![12-songs | large](http://cardamonchai.com/wp-content/uploads/2020/01/12-songs-pinterest-520x780.png)
+
+  

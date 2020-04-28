@@ -4,12 +4,10 @@ seoTitle: Meine Festivalliste 2012 - das solltet Ihr dabei haben
 slug: die-ultimative-festivalliste-2012
 link: /2012/04/die-ultimative-festivalliste-2012/
 fileName: 2012-04---die-ultimative-festivalliste-2012.md
-description:
-  Auf vielfache Anfrage hin, habe ich mich entschlossen, auch in diesem Jahr
-  wieder meine allseits beliebte Festivalliste zu veröffentlichen.
-excerpt:
-  Auf vielfache Anfrage hin, habe ich mich entschlossen, auch in diesem Jahr
-  wieder meine allseits beliebte Festivalliste zu veröffentlichen.
+description: Auf vielfache Anfrage hin, habe ich mich entschlossen, auch in
+  diesem Jahr wieder meine allseits beliebte Festivalliste zu veröffentlichen.
+excerpt: Auf vielfache Anfrage hin, habe ich mich entschlossen, auch in diesem
+  Jahr wieder meine allseits beliebte Festivalliste zu veröffentlichen.
 focusKeyword: ""
 labels:
   - Bierdosen Festival
@@ -34,15 +32,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3000"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Festivalsaison rückt wieder näher
+  
 ---
-
-[](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf) <strong>Auf
-vielfache Anfrage hin, habe ich mich entschlossen, auch in diesem Jahr wieder
-meine allseits beliebte Festivalliste zu veröffentlichen. Sie wurde natürlich
-wieder durch Dinge, die sich als praktisch erweisen konnten ergänzt, dafür wurde
-Unnötiges gestrichen, um das Rucksackgewicht so gering wie möglich zu halten.
-</strong>
 
 Natürlich wurden Gegenstände, wie Bierfässer und Tische auch bei dieser neuen,
 überarbeiteten Version der Liste wieder weggelassen, wer jedoch mit dem Bully,
@@ -131,12 +125,12 @@ mitnehmen, was sicher auch einige Mitfahrer erfreuen wird, die morgens um 7 nach
 gefühlten 30 Minuten Schlaf von einem explodierenden Hmbessernichtdrandenken aus
 dem Schlaf gerissen wurden.
 
-### Viel Spaß beim Packen!</strong>
+### **Viel Spaß beim Packen!**
 
 Natürlich würde mich jetzt noch interessieren, auf welchen Festivals Ihr dieses
-Jahr so unterwegs sein werdet!<em><strong></strong></em>
+Jahr so unterwegs sein werdet! _ \_\_\_\_ _
 
-![Foto: cardamonchai Southside-Festival 2008 | full](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg " [](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg)  Foto: cardamonchai Southside-Festival 2008")
+![Foto: cardamonchai Southside-Festival 2008 | full](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg "[ ](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg)  Foto: cardamonchai Southside-Festival 2008")
 
 Hier noch ein interessanter Link, es geht um verschiedene "Festivaltypen":
 
@@ -150,4 +144,6 @@ live, unplugged und backstage vom Glastonbury Festival 2004
 
 [youtube=http://www.youtube.com/watch?v=mJqqkD5DRfw]
 
-<div><strong></strong></div>
+<div> ____ </div>
+
+  

@@ -1,16 +1,15 @@
 ---
 title: 10 Alben - Keine Erklärung - Teil 1/3
-seoTitle:
-  10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
+seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
 slug: meine-ultimative-lieblingsplatten-liste
 link: /2018/03/meine-ultimative-lieblingsplatten-liste/
 fileName: 2018-03---10-alben-keine-erklaerung-teil-1-3.md
-description:
-  Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben
-  haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
-excerpt:
-  Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese Alben
-  haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen werde.
+description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten.
+  Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie
+  vergessen werde.
+excerpt: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten. Diese
+  Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie vergessen
+  werde.
 focusKeyword: Lieblingsplatten
 labels:
   - A Perfect Circle
@@ -45,10 +44,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19946"
+image: /img/demo.jpg
+errors: []
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
+  
 ---
 
-<blockquote><strong>10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"</strong></blockquote>
+> **10 LPs that make the "favourites" playlist. Post a cover a day, no
+> explanation, nominate a person a day."  - 10 Alben, die Deine
+> All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine
+> andere Person"**
 
 So stand es an der Facebook-Pinnwand des Herrn Björn von Gartenbaukunst\*.
 Darunter war mein Name markiert. Klar, man könnte jetzt sagen: Wieder so ein
@@ -120,8 +125,8 @@ Lebenszeit verbracht habe. Hier kommt also meine Liste.
 
 ## Wegweiser "Alben - Keine Erklärung"
 
-<ol>
-    <li>Meine ultimative Lieblingsplattenliste</li>
-    <li> [Björns ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/) </li>
-    <li> [Matzes ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-teil-3/) </li>
-</ol>
+1.  Meine ultimative Lieblingsplattenliste
+1.  [Björns ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/)
+1.  [Matzes ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-teil-3/)
+
+  

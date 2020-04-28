@@ -4,12 +4,10 @@ seoTitle: Butternusskürbis aus dem Ofen - Herbstlich, bunt und saftig
 slug: butternusskurbis-aus-dem-ofen
 link: /2014/09/butternusskurbis-aus-dem-ofen/
 fileName: 2014-09---butternusskuerbis-aus-dem-ofen.md
-description:
-  Butternusskürbis könnt Ihr ganz leicht im Ofen zubereiten. In meinem Rezept
-  verrate ich Euch ganz genau, wies geht. Viel Spaß beim Kochen!
-excerpt:
-  Butternusskürbis könnt Ihr ganz leicht im Ofen zubereiten. In meinem Rezept
-  verrate ich Euch ganz genau, wies geht. Viel Spaß beim Kochen!
+description: Butternusskürbis könnt Ihr ganz leicht im Ofen zubereiten. In
+  meinem Rezept verrate ich Euch ganz genau, wies geht. Viel Spaß beim Kochen!
+excerpt: Butternusskürbis könnt Ihr ganz leicht im Ofen zubereiten. In meinem
+  Rezept verrate ich Euch ganz genau, wies geht. Viel Spaß beim Kochen!
 focusKeyword: Butternusskürbis
 labels:
   - Butternuss
@@ -47,13 +45,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8920"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <li> (12:185)"
 subTitle: Herbstlich bunt und saftig
+  
 ---
 
-<strong>Nachdem es nun tatsächlich soweit ist und der Herbst bei uns angekommen
-zu sein scheint, habe ich heute ein leckeres Rezept für Euch, das ausgesprochen
-gut zur Jahreszeit passt.</strong>
+## unknown: Expected corresponding JSX closing tag for <li> (12:185)
 
+<!--
 Nachdem der Herzmann und ich letztes Wochenende von unserem Ausflug ins Allgäu
 ein paar wunderbare Kürbisse mitgebracht haben, habe ich vorgestern das erste
 Experiment damit gewagt und siehe da: Es ist gelungen.
@@ -61,13 +63,14 @@ Experiment damit gewagt und siehe da: Es ist gelungen.
 Selbstverständlich möchte ich Euch gerne daran teilhaben lassen. Hier ist für
 Euch mein
 
-## Butternusskürbis aus dem Ofen<small>(Rezept für 2 Portionen)</small><strong>Zutaten</strong><ul><li>1 mittelgroßer, reifer Butternusskürbis
+## Butternusskürbis aus dem Ofen<small>(Rezept für 2 Portionen)</small> **Zutaten** <ul><li>1 mittelgroßer, reifer Butternusskürbis
 
-![Butternusskürbis](http://cardamonchai.com/wp-content/uploads/2014/09/ofenkc3bcrbis-14-640x853.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Herbstlich bunt und saftig")
+![Butternusskürbis](http://cardamonchai.com/wp-content/uploads/2014/09/ofenkc3bcrbis-14-640x853.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Herbstlich bunt und saftig")
 
 <small>(wir hatten einen mittleren und einen kleinen Kübis zu zweit, das war
 eindeutig zu
-viel)</small></li><li>Kokosfett</li><li>Meersalz</li><li>Rosmarin</li><li>Pfeffer</li><li>Backblech</li><li>Backpapier</li></ul><strong>Zubereitung</strong>
+viel)</small></li><li>Kokosfett</li><li>Meersalz</li><li>Rosmarin</li><li>Pfeffer</li><li>Backblech</li><li>Backpapier</li></ul>
+**Zubereitung**
 
 Zunächst den Kürbis sehr gut unter fließendem Wasser, am besten mit einer Bürste
 reinigen, die Schale wird nämlich später mitgegessen. Im Anschluss den Kürbis
@@ -105,3 +108,7 @@ Guten Appetit!
 Kussi Anne &lt;3
 
 [gallery link="none" type="rectangular" size="medium" ids="8922,8929,8937"]
+
+-->
+
+  

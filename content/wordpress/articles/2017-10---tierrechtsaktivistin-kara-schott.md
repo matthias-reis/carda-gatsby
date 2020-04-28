@@ -1,16 +1,15 @@
 ---
 title: Tierrechtsaktivistin Kara Schott
-seoTitle:
-  Die Tiertafel Hamburg stellt sich vor - Interview mit Kara Schott Teil 1/2
+seoTitle: Die Tiertafel Hamburg stellt sich vor - Interview mit Kara Schott Teil 1/2
 slug: die-tiertafel-hamburg-stellt-sich-vor
 link: /2017/10/die-tiertafel-hamburg-stellt-sich-vor/
 fileName: 2017-10---tierrechtsaktivistin-kara-schott.md
-description:
-  Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott, Leiterin der
-  Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen Mensch und Tier am Herzen.
-excerpt:
-  Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott, Leiterin der
-  Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen  Mensch und Tier am Herzen.
+description: Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott,
+  Leiterin der Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen Mensch und Tier
+  am Herzen.
+excerpt: Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott,
+  Leiterin der Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen  Mensch und
+  Tier am Herzen.
 focusKeyword: Tiertafel Hamburg
 labels:
   - Hamburg
@@ -38,13 +37,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18178"
+image: /img/demo.jpg
+errors: []
 subTitle: Teil 1/2 - Die Tiertafel Hamburg stellt sich vor
+  
 ---
 
-<b>Heute möchte ich Euch eine ganz besondere Frau vorstellen. Kara ist Leiterin
-der Tiertafel Hamburg (<em>Tiertafel Hamburg e. V.</em>) sowie Gründerin der
-Tierschutzorganisation <em>Puss in Boots Animal Rescue</em>, die sie gemeinsam
-mit Ihrer Mutter führt.</b>
+**Heute möchte ich Euch eine ganz besondere Frau vorstellen. Kara ist Leiterin
+der Tiertafel Hamburg ( _Tiertafel Hamburg e. V._ ) sowie Gründerin der
+Tierschutzorganisation _Puss in Boots Animal Rescue_ , die sie gemeinsam mit
+Ihrer Mutter führt.**
 
 Bereits seit 12 Jahren arbeitet die Tierschützerin bei der Tiertafel, die damals
 noch unter dem Dachverband Tiertafel Deutschland stand. Vor nunmehr drei Jahren
@@ -68,14 +70,14 @@ Hamburg verraten. In Teil zwei haben wir uns ganz den Puss In Boots gewidmet.
 Doch dazu demnächst mehr. Heute dreht sich erstmal alles um die Tiertafel
 Hamburg.
 
-<b>Anne:</b> Hallo, liebe Kara! Schön, dass Du Dir die Zeit für dieses Interview
+**Anne:** Hallo, liebe Kara! Schön, dass Du Dir die Zeit für dieses Interview
 nimmst!
 
-<b>Kara:</b> Ja, na klar! Ich freue mich, dass wir uns kennenlernen!
+**Kara:** Ja, na klar! Ich freue mich, dass wir uns kennenlernen!
 
-<b>Anne:</b> Was genau kann man sich denn unter einer Tiertafel vorstellen?
+**Anne:** Was genau kann man sich denn unter einer Tiertafel vorstellen?
 
-<b>Kara:</b> Im Prinzip funktioniert eine Tiertafel genau wie eine für Menschen.
+**Kara:** Im Prinzip funktioniert eine Tiertafel genau wie eine für Menschen.
 Bedürftige Menschen kommen zu uns und bekommen Futter für ihre Tiere. Wir hier
 in Hamburg haben wir das System noch ein Stück weit ausgebaut. Bei uns sind
 immer auch eine Physiotherapeutin, eine Tierheilpraktikerin, ein Tierarzt oder
@@ -100,45 +102,45 @@ Futterausgabe. Wir müssen immer dafür arbeiten, dass wir am Ende das dringend
 benötigte Futter auch verteilen können. Im Endeffekt ist das eine sich ständig
 wiederholende Dauerschleife.
 
-<b>Anne:</b> Habt Ihr dann Listen veröffentlicht, auf denen man als Spender
-sehen kann, was gebraucht wird?
+**Anne:** Habt Ihr dann Listen veröffentlicht, auf denen man als Spender sehen
+kann, was gebraucht wird?
 
-<b>Kara: </b>Ja, es gibt einen Amazon-Wunschzettel\* auf unserer Seite, auf dem
+**Kara:** Ja, es gibt einen Amazon-Wunschzettel\* auf unserer Seite, auf dem
 aufgelistet wird, was gerade am dringendsten gebraucht wird. Letztendlich sind
 es eigentlich immer die selben Dinge. Die Basics sind eigentlich immer
 Nassfutter für Hunde und Katzen, Diabetes-Futter und Nierenfutter.
 
-<b>Anne:</b> Kann man auch andere Dinge spenden, als Futter?
+**Anne:** Kann man auch andere Dinge spenden, als Futter?
 
-<b>Kara:</b> Was auch toll wäre, sind Sachen wir Kratzbäume, Hunde- und
+**Kara:** Was auch toll wäre, sind Sachen wir Kratzbäume, Hunde- und
 Katzenbetten sowie Spielzeug.
 
-<b>Anne: </b>Wie läuft denn eine Futterausgabe bei Euch ab?
+**Anne:** Wie läuft denn eine Futterausgabe bei Euch ab?
 
 ## „Wir schauen, wie es den Tieren geht“
 
 ![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image10-300x200.jpg)
 
-Um 15 Uhr geht die Ausgabe los. Meistens kommen ziemlich viele Leute gleich am
-Anfang. Man stellt sich an, für Neukunden wird dann eine Karteikarte ausgefüllt
-und geprüft, ob die Aufnahme möglich ist. Alle Kunden gehen dann mit ihrer
-Karteikarte nacheinander zur Futterausgabe. Dort stehe ich mit meiner Kollegin
-und gehe genauer auf alle Fälle ein. Wir schauen, wie es den Tieren geht, ob sie
-alt oder jung sind, krank oder gesund und teilen nach diesen Kriterien das
-Futter zu. Bis zu vier Tiere pro Person sind erlaubt.
+**Kara:** Um 15 Uhr geht die Ausgabe los. Meistens kommen ziemlich viele Leute
+gleich am Anfang. Man stellt sich an, für Neukunden wird dann eine Karteikarte
+ausgefüllt und geprüft, ob die Aufnahme möglich ist. Alle Kunden gehen dann mit
+ihrer Karteikarte nacheinander zur Futterausgabe. Dort stehe ich mit meiner
+Kollegin und gehe genauer auf alle Fälle ein. Wir schauen, wie es den Tieren
+geht, ob sie alt oder jung sind, krank oder gesund und teilen nach diesen
+Kriterien das Futter zu. Bis zu vier Tiere pro Person sind erlaubt.
 
 Im Anschluss können die Tierhalter mit ihren Vierbeinern dann je nach Bedarf
 noch der Physiotherapeutin, dem Tierarzt und dem Friseur einen Besuch abstatten.
 
-<b>Anne:</b> In welchem Rythmus finden die Futterausgaben statt?
+**Anne:** In welchem Rythmus finden die Futterausgaben statt?
 
-<b>Kara:</b> Alle 14 Tage. So lange brauchen wir auch, um das Futter zu
+**Kara:** Alle 14 Tage. So lange brauchen wir auch, um das Futter zu
 organisieren.
 
-<b>Anne:</b> Gibt es Voraussetzungen für die Futterspenden, außer, dass nichts
-über dem Verfallsdatum sein sollte?
+**Anne:** Gibt es Voraussetzungen für die Futterspenden, außer, dass nichts über
+dem Verfallsdatum sein sollte?
 
-<b>Kara:</b> Eigentlich kann jedes Futter vorbeigebracht werden. Trotzdem ist es
+**Kara:** Eigentlich kann jedes Futter vorbeigebracht werden. Trotzdem ist es
 gut, wenn man vor einer Spende Kontakt mit uns aufnimmt. Wir haben hier alle
 unsere Spezialfälle gelistet und wissen genau, was gebraucht wird. Wir nehmen
 aber durchaus auch das Futter an, das man zum Probieren gekauft hat, das dem
@@ -148,32 +150,32 @@ beispielsweise ein Hund umgestellt werden muss und es ist noch ein halber Sack
 Trockenfutter da, nehmen wir den gerne an. Denn auch damit bekommen wir noch
 viele Tiere satt.
 
-<b>Anne:</b> Arbeitet Ihr mit anderen Organisationen hier in Hamburg zusammen?
+**Anne:** Arbeitet Ihr mit anderen Organisationen hier in Hamburg zusammen?
 
 ## „Uns ist es wichtig, Organisationen mit aufzufangen, die keine Unterstützung bekommen“
 
 ![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image4-300x450.jpg)
 
-<b> Wenn es uns möglich ist, versorgen wir auch Obdachloseneinrichtungen mit
-Futter. Auch den Obdachlosenbus, der zweimal im Monat hier bei Karstadt in der
-Mönckebergstraße hält, der auch Haustiere mit versorgt, unterstützen wir. Uns
-ist es wichtig, Organisationen mit aufzufangen, die keine Unterstützung
+**Kara:** Wenn es uns möglich ist, versorgen wir auch Obdachloseneinrichtungen
+mit Futter. Auch den Obdachlosenbus, der zweimal im Monat hier bei Karstadt in
+der Mönckebergstraße hält, der auch Haustiere mit versorgt, unterstützen wir.
+Uns ist es wichtig, Organisationen mit aufzufangen, die keine Unterstützung
 bekommen.
 
-<b>Anne:</b> Wie finanziert sich die Tiertafel Hamburg?
+**Anne:** Wie finanziert sich die Tiertafel Hamburg?
 
-<b>Kara:</b> Komplett durch Spenden. Man kann wirklich sagen: Jeder Cent und
-jeder Krümel Futter ist gespendet.
+**Kara:** Komplett durch Spenden. Man kann wirklich sagen: Jeder Cent und jeder
+Krümel Futter ist gespendet.
 
-<b>Anne:</b> Warum ist es schwierig, an Stammspender zu kommen. Nehmen wir
+**Anne:** Warum ist es schwierig, an Stammspender zu kommen. Nehmen wir
 beispielsweise mal eine große Supermarktkette, die auch Futter verkauft.
 
-<b>Kara:</b> Das ist wirklich ein Problem. Ich finde, das kann man
-stellvertretend für den gesellschaftlichen Bruch sehen, der im Moment passiert.
-Früher haben die Geschäfte das Futter, das kurz vor dem Mindesthaltbarkeitsdatum
-stand, uns gegeben. Heute wird so lange immer wieder reduziert, bis alles
-verkauft ist. Es kommt mir so vor, als würden die Menschen inzwischen versuchen,
-alles zu Geld zu machen und aus jedem Rest noch etwas rauszuholen.
+**Kara:** Das ist wirklich ein Problem. Ich finde, das kann man stellvertretend
+für den gesellschaftlichen Bruch sehen, der im Moment passiert. Früher haben die
+Geschäfte das Futter, das kurz vor dem Mindesthaltbarkeitsdatum stand, uns
+gegeben. Heute wird so lange immer wieder reduziert, bis alles verkauft ist. Es
+kommt mir so vor, als würden die Menschen inzwischen versuchen, alles zu Geld zu
+machen und aus jedem Rest noch etwas rauszuholen.
 
 ## „Es scheint rentabler zu sein, Futter wegzuwerfen, als es zu spenden“
 
@@ -186,27 +188,27 @@ weil sie nicht mehr schön ist und sie gehen zurück an die Hersteller und werde
 dort weggeschmissen. Es scheint inzwischen rentabler zu sein, Futter
 wegzuwerfen, als es zu spenden.
 
-<b>Anne:</b> Genau wie bei Lebensmitteln. Das kann man ja vor Supermärkten jeden
+**Anne:** Genau wie bei Lebensmitteln. Das kann man ja vor Supermärkten jeden
 Abend beobachten.
 
-<b>Kara:</b> Ja, genau. Das ist wirklich schlimm. Einwandfreie Lebensmittel
-werden weggeworfen und es ist verboten, sie sich aus dem Container zu fischen,
-wenn man Hunger hat. Dieser Abwärtstrend zieht sich leider auch bis zur
-Tiernahrung durch.
+**Kara:** Ja, genau. Das ist wirklich schlimm. Einwandfreie Lebensmittel werden
+weggeworfen und es ist verboten, sie sich aus dem Container zu fischen, wenn man
+Hunger hat. Dieser Abwärtstrend zieht sich leider auch bis zur Tiernahrung
+durch.
 
-<b>Anne:</b> Habt Ihr bei den Spenden mit saisonalen Schwankungen zu tun? Wird
-zum Beispiel um die Weihnachtszeit viel gespendet und während der Sommerferien
+**Anne:** Habt Ihr bei den Spenden mit saisonalen Schwankungen zu tun? Wird zum
+Beispiel um die Weihnachtszeit viel gespendet und während der Sommerferien
 wenig?
 
 ## „Man darf sich auf nichts verlassen“
 
 ![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image5-300x225.jpg)
 
-<b> Man muss ganz klar sagen: Man darf sich auf nichts verlassen. Man muss immer
-bei der Sache bleiben und die Menschen daran erinnern, dass man noch da ist. Am
-besten hält man permanent Kontakt. Anfragen per Mail oder E-Mail beantworten wir
-zum Beispiel immer extrem schnell, damit wir uns auf keinen Fall eine Spende
-entgehen lassen.
+**Kara:** Man muss ganz klar sagen: Man darf sich auf nichts verlassen. Man muss
+immer bei der Sache bleiben und die Menschen daran erinnern, dass man noch da
+ist. Am besten hält man permanent Kontakt. Anfragen per Mail oder E-Mail
+beantworten wir zum Beispiel immer extrem schnell, damit wir uns auf keinen Fall
+eine Spende entgehen lassen.
 
 Viele spenden gerne in der Weihnachtszeit, das gehört auch zur Tradition. Aber
 es ist und bleibt eben ein Trugschluss, dass die Empfänger der Spenden davon ein
@@ -215,13 +217,13 @@ ganzes Jahr lang leben können. Viele denken sich auch kurz vor den Feiertagen
 was machen.“ Man sollte auf jeden Fall versuchen, das ganze Jahr über zumindest
 ab und zu an Bedürftige zu denken.
 
-<b>Anne:</b> Seit wann gibt es die Tiertafel Hamburg?
+**Anne:** Seit wann gibt es die Tiertafel Hamburg?
 
-<b>Kara:</b> Seit über 12 Jahren jetzt schon und wir sind wirklich stolz darauf!
+**Kara:** Seit über 12 Jahren jetzt schon und wir sind wirklich stolz darauf!
 
-<b>Anne:</b> Wie viele Kollegen seit Ihr insgesamt?
+**Anne:** Wie viele Kollegen seit Ihr insgesamt?
 
-<b>Kara:</b> Man muss unterscheiden zwischen der Anzahl der Leute, die bei der
+**Kara:** Man muss unterscheiden zwischen der Anzahl der Leute, die bei der
 Futterausgabe mit arbeiten und denen, die auch in der Zwischenzeit mit dabei
 sind. Die Ausgabe macht sehr viel Spaß. Es ist sehr viel Gefühl dabei. Die
 Arbeit ist sehr energetisch. Es tut sich viel und wir können damit aktiv Tieren
@@ -235,32 +237,32 @@ abgeholt und abgefüllt werden. Viele der Helfer haben einfach auch nicht so vie
 Zeit und daher ist die Anzahl der aktiven Mitarbeiter in diesen Phasen schon
 etwas geringer.
 
-<b>Anne: </b>Wie kann man die Tiertafel Hamburg unterstützen?
+**Anne:** Wie kann man die Tiertafel Hamburg unterstützen?
 
 ## „Wir freuen uns über jede Form der Unterstützung“
 
 ![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image7-300x405.jpg)
 
-<b> Vorrangig natürlich durch Futterspenden\*. Dazu kann man sich zum Beispiel
-im Vorfeld über den Wunschzettel auf unserer Homepage schlau machen, wie eben
-erwähnt. Außerdem kann man zur Ausgabe kommen und helfen oder Geld spenden: Zum
-Beispiel für Tierarztkosten, indem man einfach bei seiner Überweisung in den
-Betreff „Tierarztkosten“ schreibt. Das gilt auch für Spezialfutter. Wenn man
-unter dem Betreff „Diabetesfutter“ spendet, werden wir das Geld auch für
-Dieabetesfutter ausgeben. Außerdem suchen wir auch Mietpaten, natürlich bleibt
-uns das Zahlen der Miete auch nicht erspart (lacht). Wir freuen uns auf jeden
-Fall über jede Form der Unterstützung.
+**Kara:** Vorrangig natürlich durch Futterspenden\*. Dazu kann man sich zum
+Beispiel im Vorfeld über den Wunschzettel auf unserer Homepage schlau machen,
+wie eben erwähnt. Außerdem kann man zur Ausgabe kommen und helfen oder Geld
+spenden: Zum Beispiel für Tierarztkosten, indem man einfach bei seiner
+Überweisung in den Betreff „Tierarztkosten“ schreibt. Das gilt auch für
+Spezialfutter. Wenn man unter dem Betreff „Diabetesfutter“ spendet, werden wir
+das Geld auch für Dieabetesfutter ausgeben. Außerdem suchen wir auch Mietpaten,
+natürlich bleibt uns das Zahlen der Miete auch nicht erspart (lacht). Wir freuen
+uns auf jeden Fall über jede Form der Unterstützung.
 
-<b>Anne: </b>Gibt es auch in anderen Städten Tiertafeln?
+**Anne:** Gibt es auch in anderen Städten Tiertafeln?
 
-<b>Kara:</b> Leider nicht mehr so viele, wie noch vor ein paar Jahren, aber
-dennoch einige, ja. Wenn man seine Tiertafel vor Ort unterstützen möchte, schaut
-man am besten online nach. Sie freuen sich alle über Hilfe und Futter.
+**Kara:** Leider nicht mehr so viele, wie noch vor ein paar Jahren, aber dennoch
+einige, ja. Wenn man seine Tiertafel vor Ort unterstützen möchte, schaut man am
+besten online nach. Sie freuen sich alle über Hilfe und Futter.
 
-<b>Anne: </b>Wie kommt das, dass es eher weniger Tiertafeln werden, als mehr?
-Liegt das nur daran, dass weniger gespendet wird?
+**Anne:** Wie kommt das, dass es eher weniger Tiertafeln werden, als mehr? Liegt
+das nur daran, dass weniger gespendet wird?
 
-<b>Kara:</b> Zum einen das, zum anderen ist es auch sehr schwierig, Menschen zu
+**Kara:** Zum einen das, zum anderen ist es auch sehr schwierig, Menschen zu
 finden, die wirklich unermüdlich bei der Sache bleiben, Futter beschaffen und
 auf die Futtertafel aufmerksam machen. Ich persönlich habe auch lange gezögert,
 bis ich mich dafür entschieden habe, mal einen Merchandise-Stand zu machen. Aber
@@ -286,9 +288,9 @@ Stillstand ist Rückstand. Wir profitieren sehr von der Vielfältigkeit unseres
 Teams. Jeder kann seine Erfahrungen, sein berufliches Fachwissen und seine
 Talente mit einbringen.
 
-<b>Anne:</b> Was steht denn als nächstes auf dem Programm in Sachen Tiertafel?
+**Anne:** Was steht denn als nächstes auf dem Programm in Sachen Tiertafel?
 
-<b>Kara:</b> Am 13. Dezember findet unsere Weihnachtsausgabe statt. Wir machen
+**Kara:** Am 13. Dezember findet unsere Weihnachtsausgabe statt. Wir machen
 einmal im Jahr eine Weihnachtsausgabe in der Kirche zum „Zum guten Hirten“ im
 Försterweg in Hamburg Langenfelde. Für viele unserer Kunden gibt es keinen
 Grund, Weihnachten als Fest der Liebe zu feiern.
@@ -315,16 +317,18 @@ Gespendet werden kann über Paypal. Die Paypal E-Mail-Adresse lautet
 
 Natürlich könnt Ihr überweisen. Sendet Euer Geld bitte an folgendes Konto
 
-<b>tiertafelhamburg e.v. GLS Gemeinschaftsbank eG IBAN: DE95 4306 0967 2053 0658
-00 BIC: GENODEM1GLS</b>
+**tiertafelhamburg e.v. GLS Gemeinschaftsbank eG IBAN: DE95 4306 0967 2053 0658
+00 BIC: GENODEM1GLS**
 
 Den Amazon-Wunschzettel sowie alle Infos, wie Ihr mit Sachspenden am besten
 verfahrt und wie Ihr sonst noch helfen könnt,
 [wird unter diesem Link genau erklärt](http://www.tiertafelhamburg.de/HelfenSieuns).
 
-[](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
+[**Hier gehts zu Teil 2/2 des Interviews**](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
 
 Fotos: Mit freundlicher Genehmigung von Kara Schott
 
 [gallery type="rectangular" link="none" size="large"
 ids="18174,18166,18165,18164"]
+
+  

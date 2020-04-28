@@ -4,12 +4,10 @@ seoTitle: Sonnenpflege von Santaverde - Sehnsucht nach dem Sommer
 slug: sonnenpflege-von-santaverde
 link: /2020/03/sonnenpflege-von-santaverde/
 fileName: 2020-03---sonnenpflege-von-santaverde.md
-description:
-  Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon mal
-  getestet. Unter etwas anderen Umständen, als zuerst geplant.
-excerpt:
-  Werbung - Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon
+description: Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon
   mal getestet. Unter etwas anderen Umständen, als zuerst geplant.
+excerpt: Werbung - Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie
+  schon mal getestet. Unter etwas anderen Umständen, als zuerst geplant.
 focusKeyword: Santaverde
 labels:
   - Mode & Beauty
@@ -29,14 +27,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28764"
+image: /img/demo.jpg
+errors: []
 subTitle: Sehnsucht nach dem Sommer
+  
 ---
 
-<strong>Sehnt Ihr Euch auch so nach der Sonne? Dann geht es Euch wie mir. Nach
-sieben Tagen in der Wohnung scheint die Natur ziemlich weit entfernt zu
-sein.</strong>
+**Sehnt Ihr Euch auch so nach der Sonne? Dann geht es Euch wie mir. Nach sieben
+Tagen in der Wohnung scheint die Natur ziemlich weit entfernt zu sein.**
 
-<em>Werbung\*</em>
+_Werbung\*_
 
 Ich freue mich so sehr auf den Moment, wenn wir wieder draußen sein können, ohne
 darüber nachzudenken. Völlig sorglos und frei. Erst, wenn diese Möglichkeit mal
@@ -141,6 +141,8 @@ letzten Sommer besucht.
 
 [glry name="santaverdesunglry2"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

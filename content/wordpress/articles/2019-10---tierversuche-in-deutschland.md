@@ -4,12 +4,10 @@ seoTitle: Tierversuche in Deutschland - die grausame Realität
 slug: tierversuche-in-deutschland
 link: /2019/10/tierversuche-in-deutschland/
 fileName: 2019-10---tierversuche-in-deutschland.md
-description:
-  Noch heute finden in Deutschland täglich Tierversuche statt. In Hamburg
-  deckten die SOKO Tierschutz und Cruelty Free International jetzt Grausames
-  auf.
-excerpt:
-  Noch heute finden in Deutschland täglich Tierversuche statt. In Hamburg
+description: Noch heute finden in Deutschland täglich Tierversuche statt. In
+  Hamburg deckten die SOKO Tierschutz und Cruelty Free International jetzt
+  Grausames auf.
+excerpt: Noch heute finden in Deutschland täglich Tierversuche statt. In Hamburg
   deckten die SOKO Tierschutz und Cruelty Free International jetzt Grausames
   auf.
 focusKeyword: Tierversuche
@@ -31,12 +29,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26562"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: 'unknown: Unexpected token, expected "}" (15:21)'
 subTitle: Die traurige Realität
+  
 ---
 
-<strong>Noch heute finden in Deutschland täglich Tierversuche statt. Das ist
-traurige Realität. Im Jahr 2017 wurden in Deutschland fast drei Millionen Tiere
-im Namen der Wissenschaft missbraucht und getötet.</strong>
+## unknown: Unexpected token, expected "}" (15:21)
+
+<!--
+**Noch heute finden in Deutschland täglich Tierversuche statt. Das ist traurige
+Realität. Im Jahr 2017 wurden in Deutschland fast drei Millionen Tiere im Namen
+der Wissenschaft missbraucht und getötet.**
 
 Diese Zahl gab vor Kurzem PETA heraus. 2017 ist das letzte Jahr, aus dem der
 Tierrechts-Organisation vollständige Daten vom Bundesministerium für Ernährung
@@ -141,8 +147,10 @@ PETA)
 Und das ist nicht alles. Obwohl die Versuchsergebnisse nicht auf den Menschen
 übertragbar sind, werden immer neue grausame Ausmaße aufgedeckt. Erst kürzlich
 habe ich hier im Blog über die
-[Auch für Kosmetikprodukte](/2018/01/tierversuche-in-der-autoindustrie/) gibt es
-nach wie vor Versuche.
+[Abgasversuche in der Autoindustrie](/2018/01/tierversuche-in-der-autoindustrie/)
+berichtet.
+[Auch für Kosmetikprodukte](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
+gibt es nach wie vor Versuche.
 
 Am Samstag findet in Hamburg eine Großdemonstration gegen das hier ansässige
 größte Tierversuchslabor Deutschlands LPT (Laboratory of Pharmacology and
@@ -179,7 +187,12 @@ verheimlichen und die Nummer des alten Affen weiter zu verwenden.
 
 Friedrich Mülln von der SOKO Tierschutz kommentiert den Fall:
 
-<blockquote>"Wenn sich der akute Verdacht bestätigt, dass im LPT eine gewaltige Primatenstudie auf diese Art und Weise manipuliert wurde, dann stellt das alles in Frage, und dem Labor muss sofort die Betriebserlaubnis entzogen werden. Das bedeutet dann nicht nur Qualen für Tiere, sondern auch ein Medikament für Menschen, dessen Entwicklung auf unterschlagenen Daten und einem verfälschten Studienablauf beruht"</blockquote>
+> "Wenn sich der akute Verdacht bestätigt, dass im LPT eine gewaltige
+> Primatenstudie auf diese Art und Weise manipuliert wurde, dann stellt das
+> alles in Frage, und dem Labor muss sofort die Betriebserlaubnis entzogen
+> werden. Das bedeutet dann nicht nur Qualen für Tiere, sondern auch ein
+> Medikament für Menschen, dessen Entwicklung auf unterschlagenen Daten und
+> einem verfälschten Studienablauf beruht"
 
 ### Wer sich uns bei der Demo am Samstag anschließen möchte - hier sind die Infos:
 
@@ -189,8 +202,7 @@ LPT in der Oldendorfer Straße 41 in Neuwulmsdorf soll von 19 bis 21 Uhr gehen.
 Auf Facebook findet Ihr eine Veranstaltung unter dem Namen "Großdemo gegen das
 Todeslabor LPT", der ihr zusagen könnt, wenn Ihr teilnehmen möchtet.
 
-<strong>TRIGGERWARNUNG - VORSICHT! DAS FOLGENDE VIDEO ZEIGT VERSTÖRENDE
-BILDER!</strong>
+**TRIGGERWARNUNG - VORSICHT! DAS FOLGENDE VIDEO ZEIGT VERSTÖRENDE BILDER!**
 
 ## Hier die Bilder aus der verdeckten Ermittlung
 
@@ -199,7 +211,7 @@ BILDER!</strong>
 Dr. Zietek, Wissenschaftskoordinatorin bei den Ärzten gegen Tierversuche findet
 klare Worte:
 
-<blockquote>„Die verdeckten Ermittlungen müssen unbedingt rechtliche Konsequenzen haben“,</blockquote>
+> „Die verdeckten Ermittlungen müssen unbedingt rechtliche Konsequenzen haben“,
 
 sagt sie. Die Ärzte gegen Tierversuche hatten erst Anfang des Jahres schwere
 Missstände am Deutschen Krebsforschungszentrum (DKFZ) in Heidelberg aufgedeckt.
@@ -232,9 +244,13 @@ Wir hoffen die baldige Schließung.
 Bild im Header:
 [SOKO Tierschutz / Cruelty Free International](https://www.soko-tierschutz.org/chronik)
 
-[SOKO Tierschutz](https://www.soko-tierschutz.org/)
-[Ärzte gegen Tierversuche e. V.](https://www.aerzte-gegen-tierversuche.de/de/neuigkeiten/3020-hinter-verschlossenen-tueren-grausame-tierversuche-in-hamburg-aufgedeckt)
-[Tierbefreiung Hamburg](https://www.tierbefreiung-hamburg.org/)
+[SOKO Tierschutz](https://www.soko-tierschutz.org/)  
+[Ärzte gegen Tierversuche e. V.](https://www.aerzte-gegen-tierversuche.de/de/neuigkeiten/3020-hinter-verschlossenen-tueren-grausame-tierversuche-in-hamburg-aufgedeckt)  
+[Tierbefreiung Hamburg](https://www.tierbefreiung-hamburg.org/)  
 [PETA](https://www.peta.de/erneuter-tierskandal-nach-schock-bildern-aus-tierversuchslabor-fordert-peta)
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fanne.reko%2Fposts%2F2736265443062234&amp;width=500" width="500" height="779" frameborder="0" scrolling="no"></iframe>
+
+-->
+
+  

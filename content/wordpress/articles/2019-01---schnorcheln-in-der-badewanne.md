@@ -22,12 +22,15 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: null
+image: /img/demo.jpg
+errors: []
 subTitle: Schnuppertauchen am Roten Meer
+  
 ---
 
-<strong>2018 war ein spannendes Jahr. Eine Reise nach Skandinavien und eine ans
-Rote Meer, eine neue berufliche Aufgabe, viele neue Gesichter, spannende
-Blog-Projekte, Konzerte und Ausflüge.</strong>
+**2018 war ein spannendes Jahr. Eine Reise nach Skandinavien und eine ans Rote
+Meer, eine neue berufliche Aufgabe, viele neue Gesichter, spannende
+Blog-Projekte, Konzerte und Ausflüge.**
 
 Auch für nächstes Jahr ist schon einiges in Planung, anderes nimmt langsam Form
 an. Eine Sache will mir seit November nicht mehr aus dem Kopf gehen und ich bin
@@ -75,8 +78,8 @@ endlose.
 Ich sah mir You Tube Videos an, in denen Taucher\*innen Anfängern Einweisungen
 geben und "konnte", obwohl ich noch nie einen in der Hand gehalten hatte, meinen
 raus gefallenen Luftschlauch schon perfekt wieder zurück holen. Das gehört zu
-den Standard-Übungen, die jede/<em>r Taucher/</em>in immer wieder machen muss.
-Vor dem ersten Schnupperkurs und zum Auffrischen zwischen lange auseinander
+den Standard-Übungen, die jede/ _r Taucher/_ in immer wieder machen muss. Vor
+dem ersten Schnupperkurs und zum Auffrischen zwischen lange auseinander
 liegenden Tauchgängen.
 
 ## Top vorbereitet zum Schnuppertauchen
@@ -184,3 +187,5 @@ Euch? Hab Ihr auch mal so was erlebt? Wart Ihr schon mal in einer ähnlichen
 Situation?
 
 Die Fotos haben wir übrigens beim Schnorcheln gemacht. :-)
+
+  

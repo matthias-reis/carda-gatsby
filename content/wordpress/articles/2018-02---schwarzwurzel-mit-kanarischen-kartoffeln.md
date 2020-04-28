@@ -1,16 +1,13 @@
 ---
 title: Schwarzwurzel mit Kanarischen Kartoffeln
-seoTitle:
-  Schwarzwurzel mit Kanarischen Kartoffeln - Winterspargel frisch auf den Tisch
+seoTitle: Schwarzwurzel mit Kanarischen Kartoffeln - Winterspargel frisch auf den Tisch
 slug: schwarzwurzel-kanarischen-kartoffeln
 link: /2018/02/schwarzwurzel-kanarischen-kartoffeln/
 fileName: 2018-02---schwarzwurzel-mit-kanarischen-kartoffeln.md
-description:
-  Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich verrate Euch
-  jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
-excerpt:
-  Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich verrate Euch
-  jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
+description: Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich
+  verrate Euch jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
+excerpt: Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich verrate
+  Euch jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
 focusKeyword: Schwarzwurzel
 labels:
   - alte Sorten
@@ -33,12 +30,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19389"
+image: /img/demo.jpg
+errors: []
 subTitle: Winterspargel frisch auf den Tisch
+  
 ---
 
-<strong>Diese Woche gab es bei uns endlich mal wieder Schwarzwurzel. Ich freue
-mich jedes Jahr darauf, wenn es endlich soweit ist, denn ich liebe dieses
-Gemüse. </strong>
+**Diese Woche gab es bei uns endlich mal wieder Schwarzwurzel. Ich freue mich
+jedes Jahr darauf, wenn es endlich soweit ist, denn ich liebe dieses Gemüse.**
 
 Wobei "Gemüse" eigentlich nicht ganz richtig ist. Bei dem Gewächs handelt es
 sich um einen Asternartigen Korbblütler. Doch soviel zur Botanik.
@@ -49,19 +48,17 @@ leckeres, winterliches Gericht, dass Ihr ganz schnell zubereiten könnt.
 
 ## Zutaten für zwei Personen
 
-<ul>
-    <li>1 Pfund Schwarzwurzeln</li>
-    <li>Ungefähr 1 Kilo kleine Kartoffeln (Drillinge)</li>
-    <li>1 Handvoll Hefeflocken</li>
-    <li>rund 1 Prise Paprika Edelsüß</li>
-    <li>1 Zwiebel</li>
-    <li>Pfeffer grob gemahlen</li>
-    <li>1 Handvoll Cashew-Kerne</li>
-    <li>200 g Meersalz (+ etwas mehr)</li>
-    <li>Wasser</li>
-    <li>etwas süßer Senf</li>
-    <li>1 Tasse Sojamilch</li>
-</ul>
+- 1 Pfund Schwarzwurzeln
+- Ungefähr 1 Kilo kleine Kartoffeln (Drillinge)
+- 1 Handvoll Hefeflocken
+- rund 1 Prise Paprika Edelsüß
+- 1 Zwiebel
+- Pfeffer grob gemahlen
+- 1 Handvoll Cashew-Kerne
+- 200 g Meersalz (+ etwas mehr)
+- Wasser
+- etwas süßer Senf
+- 1 Tasse Sojamilch
 
 ## Zubereitung
 
@@ -88,3 +85,5 @@ tanzen.
 Angerichtet sieht das Ganze dann so aus, wie auf dem Bild oben.
 
 Weitere vegane Rezepte [findet Ihr hier](/category/vegan-2/rezepte/).
+
+  

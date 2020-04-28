@@ -4,13 +4,12 @@ seoTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!
 slug: dunkfestival-2016-wir-sind-auch-dabei
 link: /2017/02/dunkfestival-2016-wir-sind-auch-dabei/
 fileName: 2017-02---dunk-festival-2017-post-rock-in-belgien.md
-description:
-  "Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das Dunk!festival
-  statt. Das Geniale: Es ist ein Post-Rock Festival und wir sind dabei!"
-excerpt:
-  "Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das Dunk!festival
-  statt. Das Besondere: Es ist ein Post-Rock Festival. Das Beste: Wir sind
+description: "Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das
+  Dunk!festival statt. Das Geniale: Es ist ein Post-Rock Festival und wir sind
   dabei!"
+excerpt: "Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das
+  Dunk!festival statt. Das Besondere: Es ist ein Post-Rock Festival. Das Beste:
+  Wir sind dabei!"
 focusKeyword: Dunk!festival
 labels:
   - AIDAN BAKER & KAREN WILLEMS
@@ -95,24 +94,29 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16009"
+image: /img/demo.jpg
+errors: []
 subTitle: Wir sind auch dabei!
+  
 ---
 
 ![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/02/Dunk-1-von-5-640x400.jpg)
 
-<strong>
+**Das _Dunk!festival_ 2017 rückt  näher und wir sind auch dabei! Das Post-Rock
+Festival findet in Belgien und in Vermont statt. Wir haben uns für die Belgische
+Version entschieden.**
 
 Schon lange kein Festival-Content mehr hier auf der Seite, oder? Das hat heute
 endlich ein Ende. Es ist beschlossene Sache: Wir fahren aufs
-<em>Dunk!festival</em> 2017. Den Urlaub haben wir vorsorglich schon mal im
-Januar eingereicht. Jetzt haben wir den Ticketkauf getätigt und ich bin völlig
-aus dem Häuschen.
+_Dunk!festival_ 2017. Den Urlaub haben wir vorsorglich schon mal im Januar
+eingereicht. Jetzt haben wir den Ticketkauf getätigt und ich bin völlig aus dem
+Häuschen.
 
-Das <em>Dunk!festival</em> findet seit 2005 jedes Jahr in Velzeke-Ruddershove in
-Oost Vlaanderen, Belgien sowie seit Neuestem auch in Burlington, Vermont, USA
-statt. Das Besondere am Dunk! ist, dass sich dort alles nur um Post-Rock dreht.
-Kommerz bleibt also von vornherein schon mal draußen. Bumbum-Rocker
-interessieren sich nicht dafür, auf ihrem Radar taucht es gar nicht auf.
+Das _Dunk!festival_ findet seit 2005 jedes Jahr in Velzeke-Ruddershove in Oost
+Vlaanderen, Belgien sowie seit Neuestem auch in Burlington, Vermont, USA statt.
+Das Besondere am Dunk! ist, dass sich dort alles nur um Post-Rock dreht. Kommerz
+bleibt also von vornherein schon mal draußen. Bumbum-Rocker interessieren sich
+nicht dafür, auf ihrem Radar taucht es gar nicht auf.
 
 Ins Leben gerufen haben die Dunk!-Gründer nicht nur das Festival, sondern auch
 ein gleichnamiges Plattenlabel. Unter anderen sind dort Bands wie PELICAN, PRAY
@@ -122,7 +126,13 @@ Lieblingsbands der Dunk!-Truppe.
 
 ![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/02/Dunk-2-von-5-640x400.jpg)
 
-.
+Darunter sind auch einige Lieblinge aus meiner Plattenkiste zu finden. Um nur
+einige von ihnen zu nennen: BARONESS,
+[CULT OF LUNA](/2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/),
+[RUSSIAN CIRCLES](/2017/02/russian-circles-knust-hamburg-2017/),
+[SIGUR RÓS](/2013/06/are-you-ready-boots/), NICK CAVE, MONO, LYMBYC SYSTYM, 
+[ALCEST](/2015/09/alcest-live-logo-hamburg/), This Will Destroy You und
+[MOGWAI](/2014/03/mogwai-live-backstage-muenchen/).
 
 ## Dunk!festival - Die Bühnen
 
@@ -168,7 +178,7 @@ also weiterhin spannend!
 
 ## Dunk!festival - Wann?
 
-Das <em>Dunk!festival</em> findet vom 25. bis einschließlich 27. Mai statt.
+Das _Dunk!festival_ findet vom 25. bis einschließlich 27. Mai statt.
 
 ## Dunk!festival - Wieviel?
 
@@ -184,24 +194,23 @@ Champion.
 
 ## Wegweiser DUNK!festival
 
-<ol>
-    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
-    <li> [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/) </li>
-    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
-    <li> [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/) </li>
-    <li> [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/) </li>
-    <li> [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) </li>
-    <li>DUNK!festival 2019 - Das Line-up</li>
-</ol>
+1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
+1.  [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/)
+1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
+1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
+1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
+1.  [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
+1.  DUNK!festival 2019 - Das Line-up
 
 ### Mehr Infos
 
-<ul>
-    <li>Dunk!festival  [Homepage](https://www.dunkfestival.be/) </li>
-    <li>Dunk!festival bei  [Facebook](https://www.facebook.com/dunkfestival) </li>
-    <li>Dunk!  [Label und Online-Plattenladen](https://shop.dunkfestival.com/collections/dunk-records) </li>
-</ul>
+- Dunk!festival [Homepage](https://www.dunkfestival.be/)
+- Dunk!festival bei [Facebook](https://www.facebook.com/dunkfestival)
+- Dunk!
+  [Label und Online-Plattenladen](https://shop.dunkfestival.com/collections/dunk-records)
 
 Bilder: Screenshots dunkfestival.be
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

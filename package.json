@@ -32,6 +32,7 @@
     "gatsby-transformer-sharp": "^2.1.9",
     "gatsby-transformer-yaml": "^2.3.1",
     "glob": "^7.1.6",
+    "html-validator": "^5.1.8",
     "jest": "^25.3.0",
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.4",
@@ -69,9 +70,12 @@
     "develop": "npm run clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "jest",
-    "wordpress": "node ./src/wordpress"
+    "wordpress": "node ./src/wordpress",
+    "clear": "rm -rf ./content/wordpress/articles/*",
+    "p": "node ./src/wordpress/prettier"
   },
   "devDependencies": {
+    "eslint-plugin-mdx": "^1.6.9",
     "prettier": "^2.0.4",
     "rxjs": "^6.5.5"
   }

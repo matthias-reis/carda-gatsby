@@ -4,12 +4,10 @@ seoTitle: Get Well Soon live @ A Summer's Tale Festival 2015
 slug: get-well-soon-live-a-summers-tale-festival-2015
 link: /2015/08/get-well-soon-live-a-summers-tale-festival-2015/
 fileName: 2015-08---get-well-soon-live-a-summers-tale-festival-2015.md
-description:
-  Get Well Soon sorgten beim neuen A Summer's Tale Festival für Stimmung. Ich
-  habe ein paar Eindrücke fotografisch für Euch festgehalten.
-excerpt:
-  Get Well Soon - Normalerweise sind das Konstatin Gropper und seine Schwester
-  Verena zusammen mit ihrer Band.
+description: Get Well Soon sorgten beim neuen A Summer's Tale Festival für
+  Stimmung. Ich habe ein paar Eindrücke fotografisch für Euch festgehalten.
+excerpt: Get Well Soon - Normalerweise sind das Konstatin Gropper und seine
+  Schwester Verena zusammen mit ihrer Band.
 focusKeyword: Get Well Soon
 labels:
   - A Summer's Tale
@@ -28,16 +26,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12231"
+image: /img/demo.jpg
+errors: []
 subTitle: Von Feen und Harmonie
+  
 ---
 
 ![Get Well Soon - The Setlist](http://cardamonchai.com/wp-content/uploads/2015/08/IMG_0342-640x640.jpg "Get Well Soon - The Setlist")
 
-<strong>Get Well Soon - Normalerweise sind das Konstatin Gropper und seine
-Schwester Verena zusammen mit ihrer Band. Da sich Verena gerade in der Babypause
-befindet, brachte Konstantin seine nicht weniger begabte, wunderschöne Kollegin
-Alex Mayr mit, die Verena als Duettpartnerin und multiinstrumental begabte
-Unterstützung würdig vertrat.</strong>
+**Get Well Soon - Normalerweise sind das Konstatin Gropper und seine Schwester
+Verena zusammen mit ihrer Band. Da sich Verena gerade in der Babypause befindet,
+brachte Konstantin seine nicht weniger begabte, wunderschöne Kollegin Alex Mayr
+mit, die Verena als Duettpartnerin und multiinstrumental begabte Unterstützung
+würdig vertrat.**
 
 Nicht nur ihr sanftes, feenhaftes Auftreten, auch die wundervolle Atmosphäre
 sorgten für Harmonie und gute Laune unter den Fans vor der Bühne. Der Anfang
@@ -57,8 +58,15 @@ Weitere Berichte zum Festival von mir folgen...
 
 [myflickr tag="annegetwellsoonasummerstale2015"]
 
-## A Summer's Tale 2015 Wegweiser<ol><li> [](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
+## A Summer's Tale 2015 Wegweiser1. [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
+
+1.  [Hundreds live @ A Summer's Tale Festival 2015](/2015/08/hundreds-live-a-summers-tale-festival-2015/)
+1.  [Calexico live @ A Summer's Tale Festival 2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
+1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)
+    [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
 &nbsp;
 
 &nbsp;
+
+  

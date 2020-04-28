@@ -4,12 +4,10 @@ seoTitle: Tube Trip - London ohne Wachspuppen
 slug: tube-trip-london-ohne-wachspuppen
 link: /2012/03/tube-trip-london-ohne-wachspuppen/
 fileName: 2012-03---london-ohne-wachspuppen.md
-description:
-  Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt. Hier
-  sind einige Impressionen von meiner Reise.
-excerpt:
-  Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt. Hier
-  sind einige Impressionen von meiner Reise.
+description: Im März habe ich meine Freizeit für einen Kurztrip nach London
+  genutzt. Hier sind einige Impressionen von meiner Reise.
+excerpt: Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt.
+  Hier sind einige Impressionen von meiner Reise.
 focusKeyword: London
 labels:
   - Art
@@ -44,10 +42,12 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2902"
+image: /img/demo.jpg
+errors: []
 subTitle: Tube Trip
+  
 ---
 
-<strong>Im März habe ich meine Freizeit für einen Kurztrip nach London genutzt.
-Hier sind einige Impressionen von meiner Reise.</strong>
-
 [myflickr tag="annelondon2012"]
+
+  

@@ -4,12 +4,10 @@ seoTitle: Der Jenischpark in Hamburg - einfach mal die Seele baumeln lassen
 slug: jenischpark-hamburg
 link: /2019/07/jenischpark-hamburg/
 fileName: 2019-07---der-jenischpark-in-hamburg.md
-description:
-  Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft am
-  Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine gute
-  Idee.
-excerpt:
-  Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft am
+description: Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft
+  am Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine
+  gute Idee.
+excerpt: Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft am
   Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine gute
   Idee.
 focusKeyword: Jenischpark
@@ -34,12 +32,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24707"
+image: /img/demo.jpg
+errors: []
 subTitle: Einfach mal die Seele baumeln lassen
+  
 ---
 
-<strong>Wenn man in einer Großstadt wie Hamburg lebt, ist der Wunsch nach
-frischer Luft und grünen Wiesen und Bäumen am Wochenende oft groß - der
-Jenischpark ist in solchen Momenten immer eine gute Idee.</strong>
+**Wenn man in einer Großstadt wie Hamburg lebt, ist der Wunsch nach frischer
+Luft und grünen Wiesen und Bäumen am Wochenende oft groß - der Jenischpark ist
+in solchen Momenten immer eine gute Idee.**
 
 Es ist schon eine Weile her, seit ich das letzte Mal über unsere wunderbaren
 Hamburger Naherholungsgebiete geschrieben habe. Langsam wird es mal wieder Zeit,
@@ -82,3 +83,5 @@ sie umarmen.
 Die Bilder habe ich im April im Jenischpark aufgenommen.
 
 [glry name="annejenischpark042019"]
+
+  

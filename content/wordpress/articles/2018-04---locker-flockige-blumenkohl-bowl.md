@@ -4,11 +4,9 @@ seoTitle: Locker-flockige Blumenkohl-Bowl - Frisch, köstlich und vegan
 slug: locker-flockige-blumenkohl-bowl
 link: /2018/04/locker-flockige-blumenkohl-bowl/
 fileName: 2018-04---locker-flockige-blumenkohl-bowl.md
-description:
-  Blumenkohl gefällig? In einer schmackhaften Bowl? Es wird sowieso mal wieder
-  Zeit für ein schmackhaftes Rezept, oder? Viel Spaß beim Kochen!
-excerpt:
-  Na was meint Ihr? Es wird mal wieder Zeit für ein Rezept, oder? Meine
+description: Blumenkohl gefällig? In einer schmackhaften Bowl? Es wird sowieso
+  mal wieder Zeit für ein schmackhaftes Rezept, oder? Viel Spaß beim Kochen!
+excerpt: Na was meint Ihr? Es wird mal wieder Zeit für ein Rezept, oder? Meine
   Blumenkohl-Bowl ist ganz spontan entstanden. Sie ist ganz schnell zubereitet,
   leicht und lecker!
 focusKeyword: Blumenkohl
@@ -34,12 +32,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20445"
+image: /img/demo.jpg
+errors: []
 subTitle: Frisch, köstlich und vegan
+  
 ---
 
-<strong>Na was meint Ihr? Es wird mal wieder Zeit für ein Rezept, oder? Dieses
-hier habe ich mir gestern Abend ganz spontan ausgedacht, es ist ganz schnell
-zubereitet, leicht und schmackhaft.</strong>
+**Na was meint Ihr? Es wird mal wieder Zeit für ein Rezept, oder? Dieses hier
+habe ich mir gestern Abend ganz spontan ausgedacht, es ist ganz schnell
+zubereitet, leicht und schmackhaft.**
 
 Es handelt sich um die abgewandelte Form eines klassischen Blumenkohlensalats
 und passt, so finde ich, sehr schön in den Frühling. Frischen Blumenkohl bekommt
@@ -49,18 +50,16 @@ Zeit, tolle Variationen auszuprobieren.
 
 ## Zutaten (für 1 - 2 Personen)
 
-<ul>
-    <li>1 kleiner Blumenkohl</li>
-    <li>1/2 Stange Porree</li>
-    <li>1 Stück Räuchertofu</li>
-    <li>1/2 Limette</li>
-    <li>1 EL Apfelessig</li>
-    <li>Pfeffer</li>
-    <li>1 TL Süßer Senf</li>
-    <li>Evtl. etwas Salz (nach Geschmack)</li>
-    <li>1 - 2 Handvoll Sonnenblumenkerne</li>
-    <li>Olivenöl</li>
-</ul>
+- 1 kleiner Blumenkohl
+- 1/2 Stange Porree
+- 1 Stück Räuchertofu
+- 1/2 Limette
+- 1 EL Apfelessig
+- Pfeffer
+- 1 TL Süßer Senf
+- Evtl. etwas Salz (nach Geschmack)
+- 1 - 2 Handvoll Sonnenblumenkerne
+- Olivenöl
 
 ## Zubereitung
 
@@ -112,3 +111,5 @@ silvestris. Varianten sind unter anderem Romanesco sowie die in Frankreich sehr
 beliebten bunten Sorten.
 
 ![Blumenkohl](http://cardamonchai.com/wp-content/uploads/2018/04/41169032582_474ff2e2f0_z-400x267.jpg)
+
+  

@@ -4,12 +4,10 @@ seoTitle: Rijksmuseum Amsterdam - Museum und Monument
 slug: rijksmuseum-amsterdam
 link: /2018/03/rijksmuseum-amsterdam/
 fileName: 2018-03---rijksmuseum-amsterdam.md
-description:
-  Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum besucht und
-  uns die Klassiker von Rembrandt und Vermeer angeschaut.
-excerpt:
-  Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum besucht und
-  uns die Klassiker von Rembrandt und Vermeer angeschaut.
+description: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum
+  besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
+excerpt: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum
+  besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
 focusKeyword: Rijksmuseum
 labels:
   - Amsterdam
@@ -31,12 +29,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19864"
+image: /img/demo.jpg
+errors: []
 subTitle: Museum und Monument
+  
 ---
 
-<strong>Bei unserem Kurztrip nach Amsterdam im Januar haben wir nicht nur
-moderne und artgenössische Kunst genossen. Im Rijksmuseum durften wir die ganz
-großen Klassiker bewundern.</strong>
+**Bei unserem Kurztrip nach Amsterdam im Januar haben wir nicht nur moderne und
+artgenössische Kunst genossen. Im Rijksmuseum durften wir die ganz großen
+Klassiker bewundern.**
 
 Kennt Ihr das? Ihr kommt in einen Raum und werdet so von Ehrfurcht erfasst, dass
 Euch der Atem für einen Moment stockt.  Uns ging das so, als wir den Ehrensaal
@@ -58,10 +59,10 @@ tag="annerijksmuseumamsterdam201801"]
 
 ## Wegweiser Amsterdam
 
-<ol>
-    <li> [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/) </li>
-    <li> [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/) </li>
-    <li> [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/) </li>
-    <li>Rijksmuseum Amsterdam</li>
-    <li> [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/) </li>
-</ol>
+1.  [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/)
+1.  [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/)
+1.  [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/)
+1.  Rijksmuseum Amsterdam
+1.  [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
+
+  

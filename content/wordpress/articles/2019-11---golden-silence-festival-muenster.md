@@ -4,11 +4,10 @@ seoTitle: Das Golden Silence Festival in Münster - sanglos aber nicht klanglos
 slug: golden-silence-festival-muenster
 link: /2019/11/golden-silence-festival-muenster/
 fileName: 2019-11---golden-silence-festival-muenster.md
-description:
-  Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence
-  Festival, das am Samstag in Münster stattfand. Hier ist mein Nachbericht.
-excerpt:
-  Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence
+description: Musik ohne Gesang - unter diesem Motto stand das erste Golden
+  Silence Festival, das am Samstag in Münster stattfand. Hier ist mein
+  Nachbericht.
+excerpt: Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence
   Festival, das am Samstag in Münster stattfand.
 focusKeyword: Golden Silence Festival
 labels:
@@ -33,12 +32,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26697"
+image: /img/demo.jpg
+errors: []
 subTitle: Sanglos aber nicht klanglos
+  
 ---
 
-<strong>Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence
+**Musik ohne Gesang - unter diesem Motto stand das erste Golden Silence
 Festival, das am Samstag in Münster stattfand. Auch ich war dabei und habe ein
-paar Eindrücke mitgebracht.</strong>
+paar Eindrücke mitgebracht.**
 
 Veranstaltet wurde das Event im legendären Skater's Palace von der Münsteraner
 Band Long Distance Calling. Das besondere Highlight des Abends war ihr Auftritt,
@@ -52,8 +54,14 @@ natürlich auch nicht entgehen lassen.
 Die Türen des Skater's Palace öffneten um 16:00 Uhr. Als wir gegen 16:45
 eintrafen, war es noch relativ ruhig und wir konnten bequem auf den Sitzen im
 oberen Stockwerk Platz nehmen. Von dort aus konnten wir auch die Show des ersten
-Acts genießen.
-[Das Interview findet Ihr hier](/2019/11/curls-nods-im-interview/). )
+Acts genießen. [Curls &amp; Nods](/2019/11/curls-nods-im-interview/) lockerten
+auf der kleinen Nebenbühne die Stimmung mit ihren jazzigen und groovigen Vibes
+auf. Was für Abwechslung sorgte: Sie taten das auch in den Umbaupausen zwischen
+den weiteren Bands des Abends. Obwohl zur späteren Stunde der ein oder andere
+Song erneut gespielt wurde, machten sie das Warten damit um einiges
+kurzweiliger. (Mit Curls &amp; Nods habe ich mich im Anschluss an das Musikevent
+unterhalten. [Das Interview findet Ihr hier](/2019/11/curls-nods-im-interview/).
+)
 
 Auf ganzer Linie überzeugt haben mich Kuf mit ihren elektronischen Live-Sounds.
 Die Berliner lieferten auf den Punkt ab und konnten mich von der ersten Minute
@@ -102,3 +110,5 @@ Auswahl erhofft. Aber was nicht ist, kann ja noch werden. Es ist geplant, dass
 das Golden Silence Festival im nächsten Jahr erneut stattfindet. Für uns hat
 sich die Anreise aus Hamburg auf jeden Fall gelohnt und wir sind gespannt, wer
 nächstes Jahr dort auftreten wird.
+
+  

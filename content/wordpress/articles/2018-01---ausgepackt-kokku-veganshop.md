@@ -4,13 +4,11 @@ seoTitle: "Ausgepackt: Kokku Veganshop - Vegane Leckerein frei Haus"
 slug: kokku-veganshop
 link: /2018/01/kokku-veganshop/
 fileName: 2018-01---ausgepackt-kokku-veganshop.md
-description:
-  Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht
-  kennt? Ich habe mich über mein Testpaket von Kokku wie verrückt gefreut.
-excerpt:
-  Werbung - Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch
-  nicht kennt? Ich habe das getan und mich über mein Testpaket von Kokku wie
-  verrückt gefreut.
+description: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch
+  nicht kennt? Ich habe mich über mein Testpaket von Kokku wie verrückt gefreut.
+excerpt: Werbung - Was gibt es Tolleres, als leckere Sachen zu probieren, die
+  man noch nicht kennt? Ich habe das getan und mich über mein Testpaket von
+  Kokku wie verrückt gefreut.
 focusKeyword: Kokku
 labels:
   - auspacken
@@ -49,15 +47,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18964"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Leckereien frei Haus
+  
 ---
 
 Werbung\*
 
-<strong>Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch
-nicht kennt? Ich habe das getan und mich auf mein Testpaket von Kokku wie
-verrückt gefreut. Als es dann eintraf war ich überwältigt, von so vielen veganen
-Leckereien.</strong>
+**Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch nicht
+kennt? Ich habe das getan und mich auf mein Testpaket von Kokku wie verrückt
+gefreut. Als es dann eintraf war ich überwältigt, von so vielen veganen
+Leckereien.**
 
 Schon kurze Zeit nach meiner Bestellung traf das Paket bei mir ein. Der Versand
 war wirklich blitzschnell. Alles war gut verpackt, auf unnötiges Plastik war
@@ -209,6 +210,8 @@ was Ihr Euch gegönnt habt!
 
 Zum Onlineshop von Kokku [geht es hier entlang](https://kokku-online.de).
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

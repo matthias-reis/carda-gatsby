@@ -1,17 +1,16 @@
 ---
 title: 10 Alben - Keine Erklärung - Teil 3/3
-seoTitle:
-  10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz besonderen
-  Menschen
+seoTitle: 10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz
+  besonderen Menschen
 slug: 10-alben-keine-erklaerung-teil-3
 link: /2018/03/10-alben-keine-erklaerung-teil-3/
 fileName: 2018-03---10-alben-keine-erklaerung-teil-3-3.md
-description:
-  Vor sieben Jahren fing alles damit an, dass Du meine Lieblingsplatten in den
-  höchsten Tönen gelobt hast. Hier sind Deine liebsten 10 Alben aller Zeiten.
-excerpt:
-  Vor sieben Jahren fing alles damit an, dass Du meine Lieblingsplatten in den
-  höchsten Tönen gelobt hast. Hier sind Deine liebsten 10 Alben aller Zeiten.
+description: Vor sieben Jahren fing alles damit an, dass Du meine
+  Lieblingsplatten in den höchsten Tönen gelobt hast. Hier sind Deine liebsten
+  10 Alben aller Zeiten.
+excerpt: Vor sieben Jahren fing alles damit an, dass Du meine Lieblingsplatten
+  in den höchsten Tönen gelobt hast. Hier sind Deine liebsten 10 Alben aller
+  Zeiten.
 focusKeyword: 10 Alben
 labels:
   - A Perfect Circle
@@ -51,10 +50,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20205"
+image: /img/demo.jpg
+errors: []
 subTitle: Matzes ultimative Lieblingsplattenliste
+  
 ---
 
-<blockquote><strong>10 LPs that make the "favourites" playlist. Post a cover a day, no explanation, nominate a person a day."  - 10 Alben, die Deine All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine andere Person"</strong></blockquote>
+> **10 LPs that make the "favourites" playlist. Post a cover a day, no
+> explanation, nominate a person a day."  - 10 Alben, die Deine
+> All-Time-Favoritenliste ergeben. Keine Erklärung. Nominiere jeden Tag eine
+> andere Person"**
 
 So stand es an der Facebook-Pinnwand des Herrn Björn vom Blog Gartenbaukunst.
 Darunter war mein Name markiert.
@@ -63,13 +68,28 @@ Darunter war mein Name markiert.
 
 ![Wir beide und die Musik ](http://cardamonchai.com/wp-content/uploads/2018/03/9554808470_46ed6a2a3b_z-400x400.jpg)
 
-und die meines Erstnominierten Matze.
+Natürlich muss ich bei so einer schönen Herausforderung der musikalischen Art
+auf jeden Fall mitmachen und es wurde eine sehr spannende Liste daraus. Das
+heißt eigentlich sind es viele geniale Musiklisten unterschiedlichster Art. Ich
+beschränke mich in dieser Beitragsreihe jedoch auf drei:
+[Meine eigene](/2018/03/meine-ultimative-lieblingsplatten-liste/) sowie
+[Björns](/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/) und
+die meines Erstnominierten Matze.
 
 Wie ein paar von Euch wissen, ist Matze längst nicht nur das für mich. Darum
 möchte ich zu dieser speziellen Liste noch ein paar Worte loswerden, bevor es
 losgeht.
 
-<blockquote>Matze, vor sieben Jahren liefen wir uns das erste Mal über den Weg und kurz danach fing alles damit an, dass Du auf meiner  "[Lieblingsmusikliste](/cardamonchai-blick-hinter-die-kulissen/)  in den höchsten Tönen lobte. Von dem Moment an war sowieso alles klar. Wir beide und die Musik. Unsere Favoritenlisten überschnitten sich schon damals in großen Teilen und das tun sie heute noch mehr. Danke für die schöne Zeit mit Dir und die geniale Musik, die ich durch Dich und mit Dir entdeckt habe! Lass uns für immer so weitermachen.</blockquote>
+> Matze, vor sieben Jahren liefen wir uns das erste Mal über den Weg und kurz
+> danach fing alles damit an, dass Du auf meiner
+> "[About Me Seite](/cardamonchai-blick-hinter-die-kulissen/)" einen Kommentar
+> gepostet hast, der meine
+> [Lieblingsmusikliste](/cardamonchai-blick-hinter-die-kulissen/musik-buecher-und-filme/)
+>  in den höchsten Tönen lobte. Von dem Moment an war sowieso alles klar. Wir
+> beide und die Musik. Unsere Favoritenlisten überschnitten sich schon damals in
+> großen Teilen und das tun sie heute noch mehr. Danke für die schöne Zeit mit
+> Dir und die geniale Musik, die ich durch Dich und mit Dir entdeckt habe! Lass
+> uns für immer so weitermachen.
 
 In Matzes Liste werdet Ihr nicht nur Überschneidungen mit meiner Liste finden.
 Alle Platten, die darin vorkommen, kommen auch in meiner vor, wenn ich sie nach
@@ -120,8 +140,8 @@ mit der Musik.
 
 ## Wegweiser "10 Alben - Keine Erklärung"
 
-<ol>
-    <li> [Meine ultimative Lieblingsplattenliste](/2018/03/meine-ultimative-lieblingsplatten-liste/) </li>
-    <li> [Björns ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/) </li>
-    <li>Matzes ultimative Lieblingsplattenliste</li>
-</ol>
+1.  [Meine ultimative Lieblingsplattenliste](/2018/03/meine-ultimative-lieblingsplatten-liste/)
+1.  [Björns ultimative Lieblingsplattenliste](/2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/)
+1.  Matzes ultimative Lieblingsplattenliste
+
+  

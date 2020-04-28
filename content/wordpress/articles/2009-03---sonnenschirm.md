@@ -17,7 +17,12 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11152"
+image: /img/demo.jpg
+errors: []
 subTitle: Ausgefallener Sonnenschutz
+  
 ---
 
 &nbsp;
+
+  

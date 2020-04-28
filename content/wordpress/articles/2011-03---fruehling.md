@@ -4,12 +4,10 @@ seoTitle: Frühling - Tagebucheintrag
 slug: fruhling
 link: /2011/03/fruhling/
 fileName: 2011-03---fruehling.md
-description:
-  "Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die Blumen
-  blühen, die Meiler schmelzen. Armes Japan."
-excerpt:
-  "Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die Blumen
-  blühen, die Meiler schmelzen. Armes Japan."
+description: "Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die
+  Blumen blühen, die Meiler schmelzen. Armes Japan."
+excerpt: "Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die
+  Blumen blühen, die Meiler schmelzen. Armes Japan."
 focusKeyword: Frühling
 labels:
   - Klima & Umweltschutz
@@ -22,16 +20,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3079"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
-![Sonne, Mond und Wolken](http://cardamonchai.com/wp-content/uploads/2012/06/p1000340-640x480.jpg " [](/wp-content/uploads/2012/06/p1000340.jpg)  Sonne, Mond und Wolken")
+![Sonne, Mond und Wolken](http://cardamonchai.com/wp-content/uploads/2012/06/p1000340-640x480.jpg "[ ](/wp-content/uploads/2012/06/p1000340.jpg)  Sonne, Mond und Wolken")
 
-<strong>Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die Blumen
+**Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die Blumen
 blühen, die Meiler schmelzen. Armes Japan. Menschen werden vermisst, haben ihr
 Zuhause verloren. Sind auf der Flucht vor den Strahlen. Und vor einer erneuten
 Welle. Steht ein weiteres Beben bevor? Ein weiterer Tsunami? Der Supergau? Man
-weiß es nicht. </strong>
+weiß es nicht.**
 
 Das Ausmaß dieser Katastrophe ist uns allen noch nicht bewusst. Es ist wirklich
 schlimm, was da passiert ist. Und immer noch passiert. Man hat immer mehr das
@@ -53,6 +54,8 @@ hoffen.
 Heute Abend: Erster Auftritt. Um 18 Uhr geht´s los zum Aufbau und Soundcheck.
 Gesundheitlich sind alle etwas angeschlagen, aber dennoch guter Dinge.
 
-<strong>Song des Tages: </strong>Sonic Youth - Dirty Boots
+**Song des Tages:** Sonic Youth - Dirty Boots
 
 [youtube=http://www.youtube.com/watch?v=igwCSA0Es9Y]
+
+  

@@ -4,12 +4,10 @@ seoTitle: My Little Pony Verlosung - Die Gewinner stehen fest
 slug: little-pony-verlosung-die-gewinner-stehen-fest
 link: /2016/03/little-pony-verlosung-die-gewinner-stehen-fest/
 fileName: 2016-03---my-little-pony-ver-lo-sung.md
-description:
-  Die Gewinner meiner My Little Pony Verlosung stehen fest! Und weil Freitag so
-  ein schöner Tag ist, verrate ich Euch jetzt die Namen!
-excerpt:
-  Die Gewinner meiner My Little Pony Verlosung stehen fest! Und weil Freitag so
-  ein schöner Tag ist, verrate ich Euch jetzt die Namen!
+description: Die Gewinner meiner My Little Pony Verlosung stehen fest! Und weil
+  Freitag so ein schöner Tag ist, verrate ich Euch jetzt die Namen!
+excerpt: Die Gewinner meiner My Little Pony Verlosung stehen fest! Und weil
+  Freitag so ein schöner Tag ist, verrate ich Euch jetzt die Namen!
 focusKeyword: Little Pony
 labels:
   - Der Hund Marie
@@ -28,11 +26,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13977"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (43:31)"
 subTitle: Die Ge­win­ner stehen fest!
+  
 ---
 
-<strong>Freitag ist ein schöner Tag! Und weil das so ist, habe ich heute was
-wirklich Schönes für Euch!</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (43:31)
+
+<!--
+**Freitag ist ein schöner Tag! Und weil das so ist, habe ich heute was wirklich
+Schönes für Euch!**
 
 ![Little Pony](http://cardamonchai.com/wp-content/uploads/2016/03/24988699312_08b4c7bf9e_z-640x427.jpg "My Little Pony aus meiner Herde")
 
@@ -42,14 +48,12 @@ sobald ich Eure Post-Adressen habe, gehen die bunten Pferdchen Euch raus.
 
 ## Je ein My Little Pony aus meiner Herde haben gewonnen
 
-<ul>
-    <li>Iris</li>
-    <li>Nina</li>
-    <li>Jessi</li>
-    <li>Joanna</li>
-    <li>Falko</li>
-    <li>Andrea</li>
-</ul>
+- Iris
+- Nina
+- Jessi
+- Joanna
+- Falko
+- Andrea
 
 ![Little Pony](http://cardamonchai.com/wp-content/uploads/2016/03/25106861825_c9218b0139_z-640x427.jpg "Schon bald in einem neuen Zuhause")
 
@@ -84,3 +88,7 @@ besten an morgen, an morgen?
 
 Denkt man in Momenten wie diesen am besten an morgen? In Momenten wie diesen am
 besten an morgen, an morgen?</blockquote>
+
+-->
+
+  

@@ -4,12 +4,10 @@ seoTitle: Weltweiter Klimastreik am 20.09. - mit Fridaysforfuture auf die Straß
 slug: weltweiter-klimastreik-am-20-september
 link: /2019/09/weltweiter-klimastreik-am-20-september/
 fileName: 2019-09---weltweiter-klimastreik-am-20-september.md
-description:
-  "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
+description: "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
   Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu
   streiken. Kommt mit!"
-excerpt:
-  "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
+excerpt: "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
   Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu
   streiken. Kommt mit!"
 focusKeyword: Klimastreik
@@ -32,12 +30,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26294"
+image: /img/demo.jpg
+errors: []
 subTitle: Mit Fridaysforfuture auf die Straße
+  
 ---
 
-<strong>Morgen um 12 Uhr geht es los: Überall auf der Welt treffen sich
+**Morgen um 12 Uhr geht es los: Überall auf der Welt treffen sich
 Klima-Aktivist\*innen, um mit den Jugendlichen von Fridaysforfuture zu
-streiken.</strong>
+streiken.**
 
 Beim letzten weltweiten Streik waren allein in Hamburg 25.000 Menschen auf der
 Straße. Weltweit waren es mehr als 1,6 Millionen.
@@ -58,10 +59,15 @@ wichtig uns die Erde und die Zukunft unserer Nachfahren ist, wird sich etwas
 ändern!
 
 Neben Fridaysforfuture Hamburg sind in Hamburg auch das
-[klima-streik.org](/2019/08/animal-rights-march-2019/) und in den Nachrichten.
-Die Flyer und Plakate, die in den letzten Tagen verteilt wurden, dürften
-außerdem auch nicht übersehbar sein.
+[Tierrechtsaktivistenbündnis](/2019/08/animal-rights-march-2019/) und das PETA
+Street Team sowie zahlreiche NGOs dabei. Auch die Gewerkschaft Verdi hat
+inzwischen zur Teilnahme aufgerufen. Infos findet Ihr auf Facebook, unter
+[klima-streik.org](http://www.klima-streik.org/) und in den Nachrichten. Die
+Flyer und Plakate, die in den letzten Tagen verteilt wurden, dürften außerdem
+auch nicht übersehbar sein.
 
 In diesem Sinne: Bis morgen!
 
 <iframe src="https://www.youtube.com/embed/IB5RyvdRAcU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+  

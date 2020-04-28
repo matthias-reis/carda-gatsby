@@ -4,13 +4,12 @@ seoTitle: Isle Of Mind - Mein neues Yoga-Handtuch im Belastungstest
 slug: isle-of-mind
 link: /2020/01/isle-of-mind/
 fileName: 2020-01---isle-of-mind.md
-description:
-  Die Yoga-Tücher von Isle Of Mind bestehen zu 45 Prozent aus PET-Flaschen. Ich
-  habe jetzt eins ausprobiert und möchte es nie wieder hergeben.
-excerpt:
-  Werbung & Affiliate Links - Die Yoga-Tücher von Isle Of Mind bestehen zu 45
-  Prozent aus PET-Flaschen. Ich habe jetzt eins ausprobiert und möchte es nie
-  wieder hergeben.
+description: Die Yoga-Tücher von Isle Of Mind bestehen zu 45 Prozent aus
+  PET-Flaschen. Ich habe jetzt eins ausprobiert und möchte es nie wieder
+  hergeben.
+excerpt: Werbung & Affiliate Links - Die Yoga-Tücher von Isle Of Mind bestehen
+  zu 45 Prozent aus PET-Flaschen. Ich habe jetzt eins ausprobiert und möchte es
+  nie wieder hergeben.
 focusKeyword: Isle Of Mind
 labels:
   - Guppyfriend
@@ -33,14 +32,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27312"
+image: /img/demo.jpg
+errors: []
 subTitle: Mein neues Yoga-Handtuch im Belastungstest
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Bei Isle Of Mind glaubt man daran, dass jeder Mensch die Kraft besitzt,
-eine bessere Zukunft zu gestalten. Gründer Simon und sein Team setzen sich für
-soziale Projekte und mehr Nachhaltigkeit ein.</strong>
+**Bei Isle Of Mind glaubt man daran, dass jeder Mensch die Kraft besitzt, eine
+bessere Zukunft zu gestalten. Gründer Simon und sein Team setzen sich für
+soziale Projekte und mehr Nachhaltigkeit ein.**
 
 Die
 [Yoga-Tücher von Isle Of Mind](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products)
@@ -48,7 +50,11 @@ bestehen zu 45 Prozent aus recycelten PET-Flaschen und entsprechen dem GRS
 (Global Recycled Standard). Insgesamt werden für ein Handtuch acht
 Plastikflaschen wiederverwendet. Auf der Ilse Of Mind Homepage heißt es
 
-<blockquote>"Wir finden, es ist Zeit, Verantwortung zu übernehmen - Zeit, dass wir verstehen, dass wir mit allem, was wir tun und kaufen einen entscheidenden Unterschied machen können. Das Plastik, das wir zur Herstellung unserer Yoga-Handtücher verwenden, kann unsere Erde und die Ozeane nicht mehr verschmutzen."</blockquote>
+> "Wir finden, es ist Zeit, Verantwortung zu übernehmen - Zeit, dass wir
+> verstehen, dass wir mit allem, was wir tun und kaufen einen entscheidenden
+> Unterschied machen können. Das Plastik, das wir zur Herstellung unserer
+> Yoga-Handtücher verwenden, kann unsere Erde und die Ozeane nicht mehr
+> verschmutzen."
 
 Mit jeder Bestellung, die bei Isle Of Mind eingeht, gehen 50 Cent an die
 Surfrider Foundation Europe. Die Organisation setzt sich europaweit für den
@@ -58,7 +64,12 @@ recycelte Materialien verwendet. Der Versand erfolgt CO<sub>2</sub>-neutral.
 [glry name="isleofmindcardamonchaisw"]
 
 Ich habe mich für
-[meine geliebten Flip Flops](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Ftop-four-products%2Fproducts%2Fjoyful-jana),
+[das Modell "Joyful Jana"](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Ftop-four-products%2Fproducts%2Fjoyful-jana)
+entschieden. Ich finde das Motiv einfach wunderschön und die Farben passen
+perfekt zu mir. Schon ein paar Tage nach der Bestellung kam ein liebevoll
+verpacktes Paket bei mir an. Platzsparend und ohne unnötige Umverpackung, dafür
+mit einer schön gestalteten Grußkarte und einem praktischen Transportbeutel. Da
+passen [meine geliebten Flip Flops](/2018/03/gumbies-vegane-strandsandalen/),
 die ich beim Yoga auch immer dabei habe auch noch mit rein.
 
 Das Handtuch selbst ist wunderbar weich und passt genau auf meine Yogamatte.
@@ -74,17 +85,21 @@ Nähte fest und der Stoff peelt nicht. Die Tücher sind mit 59 Euro zwar nicht v
 der billigsten Sorte, aber die Ausgabe lohnt sich, wie ich finde,  auf jeden
 Fall. Mein Yogatuch lässt sich schön klein zusammenfalten und passt sogar in die
 Handtasche. Ich kann mir gut vorstellen, es auf
-[Laken](/category/unterwegs/reisen/)  kann man seinen morgendlichen Sonnengruß
-auch prima mal ohne Yogamatte machen. Ein weiterer Pluspunkt ist, dass es extrem
-schnell trocknet. Das ist besonders, wenn man jeden Tag auf einem anderen
-Campingplatz übernachtet, ein großer Vorteil. Nach dem Trocknen nimmt es dann im
-Rucksack so gut wie keinen Platz weg.
+[Reisen](/category/unterwegs/reisen/) mitzunehmen. Mit dem
+[Laken](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products)
+ kann man seinen morgendlichen Sonnengruß auch prima mal ohne Yogamatte machen.
+Ein weiterer Pluspunkt ist, dass es extrem schnell trocknet. Das ist besonders,
+wenn man jeden Tag auf einem anderen Campingplatz übernachtet, ein großer
+Vorteil. Nach dem Trocknen nimmt es dann im Rucksack so gut wie keinen Platz
+weg.
 
 ## Waschen mit dem Guppyfriend Washbag
 
 Neben farbenfrohen Handtüchern für Yoga und Surfsport gibt es bei Isle Of Mind
 auch noch etwas ganz Besonderes: Den
-[Isle Of Mind Onlineshop](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products%2Fproducts%2Fthe-guppyfriend-washing-bag)
+[Guppyfriend Washbag](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products%2Fproducts%2Fthe-guppyfriend-washing-bag).
+Dieser wird im
+[Isle Of Mind Onlineshop](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products)
 in Kooperation mit dem Hersteller des Waschbeutels verkauft. Hinter dem lustigen
 Namen steckt ein Beutel, der beim Waschen dafür sorgt, dass kein Mikroplastik
 ins Wasser kommt. Bei jedem Waschgang mit funktioneller Sport- und
@@ -104,7 +119,9 @@ Waschbeutel zu waschen. Das hat wunderbar geklappt und die Farben sind nach dem
 Waschen immer noch genauso schön, wie davor. Auf die Kooperation mit Guppyfriend
 ist man bei Isle Of Mind stolz:
 
-<blockquote>"Durch die Zusammenarbeit recyceln wir nicht nur bisher PET-Flaschen, wir verhindern auch, dass Plastifasern ins Wasser gelangen können. Darüber freuen wir uns."</blockquote>
+> "Durch die Zusammenarbeit recyceln wir nicht nur bisher PET-Flaschen, wir
+> verhindern auch, dass Plastifasern ins Wasser gelangen können. Darüber freuen
+> wir uns."
 
 Isle Of Mind wurde 2018 von Simon Vogt gegründet. Der Firmensitz befindet sich
 in München. Das Team besteht inzwischen aus acht Personen - Tendenz steigend.
@@ -117,7 +134,9 @@ jederzeit
 
 [glry name="isleofmindcardamonchaibunt"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

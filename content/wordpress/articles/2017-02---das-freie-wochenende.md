@@ -4,14 +4,12 @@ seoTitle: Das freie Wochenende - Fieber im Nebel - eine wahre Geschichte
 slug: das-freie-wochenende
 link: /2017/02/das-freie-wochenende/
 fileName: 2017-02---das-freie-wochenende.md
-description:
-  Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Wir wollten
-  Samstag und Sonntag am Meer also mal so richtig genießen. Doch es kam alles
-  anders.
-excerpt:
-  Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Wir wollten
-  Samstag und Sonntag am Meer also mal so richtig genießen. Doch es kam alles
-  anders.
+description: Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Wir
+  wollten Samstag und Sonntag am Meer also mal so richtig genießen. Doch es kam
+  alles anders.
+excerpt: Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Wir
+  wollten Samstag und Sonntag am Meer also mal so richtig genießen. Doch es kam
+  alles anders.
 focusKeyword: Wochenende
 labels:
   - Ausflug
@@ -33,12 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15917"
+image: /img/demo.jpg
+errors: []
 subTitle: Fieber im Nebel
+  
 ---
 
-<strong>Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Das war
-auch der Grund dafür, warum wir uns dazu entschieden hatten, Samstag und Sonntag
-in Husum zu verbringen. </strong>
+**Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Das war auch der
+Grund dafür, warum wir uns dazu entschieden hatten, Samstag und Sonntag in Husum
+zu verbringen.**
 
 Mein Dienstplan sagte "frei" und die Wettervorhersage erzählte von "mildem
 Frühlingsklima" an der Küste. Wir wollten also schön die Nordsee genießen,
@@ -54,7 +55,7 @@ ich mich nicht unterkriegen lassen und wir fuhren trotzdem.
 
 ![Wochenende | full](http://cardamonchai.com/wp-content/uploads/2017/02/Bildschirmfoto-2017-02-20-um-15.10.30.png)
 
-<a href="https://www.instagram.com/anne_reko/" target="_blank" rel="noopener">
+[](https://www.instagram.com/anne_reko/)
 
 Wegen meiner ständigen Schnäuzerei setzen sich im Zug nach und nach die Leute
 von uns weg. Durch das Fenster konnten wir indes beobachten, wie sich der Himmel
@@ -109,3 +110,5 @@ Personal ist einfach umwerfend freundlich.
 [Ihr findet es übrigens hier](http://www.hotel-rosenburg.de/).
 
 [myflickr tag="annehusum20170218"]
+
+  

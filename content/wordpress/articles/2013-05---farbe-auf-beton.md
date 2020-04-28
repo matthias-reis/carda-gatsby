@@ -4,12 +4,10 @@ seoTitle: Farbe auf Beton
 slug: farbe-auf-beton
 link: /2013/05/farbe-auf-beton/
 fileName: 2013-05---farbe-auf-beton.md
-description:
-  In München habe ich vor Kurzem ein paar bunte Momentaufnahmen gemacht, die ich
-  gerne mit Euch teilen möchte.
-excerpt:
-  In München habe ich vor Kurzem ein paar bunte Momentaufnahmen gemacht, die ich
-  gerne mit Euch teilen möchte.
+description: In München habe ich vor Kurzem ein paar bunte Momentaufnahmen
+  gemacht, die ich gerne mit Euch teilen möchte.
+excerpt: In München habe ich vor Kurzem ein paar bunte Momentaufnahmen gemacht,
+  die ich gerne mit Euch teilen möchte.
 focusKeyword: ""
 labels:
   - Anne Reko Bilder
@@ -37,11 +35,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5326"
+image: /img/demo.jpg
+errors: []
 subTitle: Gesehen und fotografiert in München
+  
 ---
 
 [gallery columns="1" type="square" link="none" size="medium"
 ids="5325,5326,5327,5328,5329,5330"]
 
-<strong>Noch mehr bunte Momentaufnahmen von mir findet Ihr
-[hier](http://instagram.com/anne_reko/) !</strong>
+**Noch mehr bunte Momentaufnahmen von mir findet Ihr
+[hier](http://instagram.com/anne_reko/) !**
+
+  

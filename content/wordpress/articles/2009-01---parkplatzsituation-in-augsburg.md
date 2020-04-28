@@ -18,7 +18,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "48"
+image: /img/demo.jpg
+errors: []
 subTitle: Ohne Worte
+  
 ---
 
-![Parkplatzsituation | large](http://cardamonchai.com/wp-content/uploads/2011/02/p1270146-800x1067.jpg)
+
+  

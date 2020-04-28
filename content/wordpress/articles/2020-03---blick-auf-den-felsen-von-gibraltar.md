@@ -4,11 +4,10 @@ seoTitle: Wie es war und wie es mit Corona ist
 slug: corona-blick-auf-den-felsen-von-gibraltar
 link: /2020/03/corona-blick-auf-den-felsen-von-gibraltar/
 fileName: 2020-03---blick-auf-den-felsen-von-gibraltar.md
-description:
-  Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht.
-  Langsames Reisen ohne Stress. Mit der Corona-Krise hat sich einiges geändert.
-excerpt:
-  Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht.
+description: Letzten Sommer haben wir eine wunderbare Zeit in Südspanien
+  verbracht. Langsames Reisen ohne Stress. Mit der Corona-Krise hat sich einiges
+  geändert.
+excerpt: Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht.
   Langsames Reisen ohne Stress. Mit der Corona-Krise hat sich einiges geändert.
 focusKeyword: Corona
 labels:
@@ -25,13 +24,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28675"
+image: /img/demo.jpg
+errors: []
 subTitle: Wie es war und wie es mit Corona ist
+  
 ---
 
-<strong>Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht.
+**Letzten Sommer haben wir eine wunderbare Zeit in Südspanien verbracht.
 Langsames Reisen ohne Stress, einfach mal treiben lassen. Mit im Gepäck war
-immer die Sonne - bei 35 bis 48 Grad wurde uns manchmal ganz schön
-warm.</strong>
+immer die Sonne - bei 35 bis 48 Grad wurde uns manchmal ganz schön warm.**
 
 Eigentlich hatte ich mir vorgenommen, einen klassischen Reisebericht zu
 veröffentlichen. Ganz, wie Ihr es von mir gewohnt seid. Vermutlich werden die
@@ -112,3 +113,5 @@ Wänden sicher wie im Flug.
 
 Bleibt gesund, passt auf Euch auf und schreibt mir gerne, wenn Euch zu Hause
 langweilig ist. Ich freue mich auf Eure Nachrichten.
+
+  

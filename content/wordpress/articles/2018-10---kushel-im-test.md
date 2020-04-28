@@ -4,12 +4,11 @@ seoTitle: Kushel im Test - Nachhaltige Handtücher aus Holz
 slug: kushel-im-test
 link: /2018/10/kushel-im-test/
 fileName: 2018-10---kushel-im-test.md
-description:
-  Dass ich immer neugierig auf interessante nachhaltige Start-ups bin, ist kein
-  Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
-excerpt:
-  Werbung - Dass ich immer neugierig auf interessante nachhaltige Start-ups bin,
-  ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
+description: Dass ich immer neugierig auf interessante nachhaltige Start-ups
+  bin, ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
+excerpt: Werbung - Dass ich immer neugierig auf interessante nachhaltige
+  Start-ups bin, ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich
+  entdeckt.
 focusKeyword: Kushel
 labels:
   - Baumwolle
@@ -27,14 +26,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22467"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (67:65)"
 subTitle: Nachhaltige Handtücher als Holz
+  
 ---
 
-<em>Werbung\*</em>
+## unknown: Expected corresponding JSX closing tag for <p> (67:65)
 
-<strong>Dass ich immer neugierig auf interessante neue Start-ups bin, ist kein
+<!--
+_Werbung\*_
+
+**Dass ich immer neugierig auf interessante neue Start-ups bin, ist kein
 Geheimnis. Spätestens, wenn sich ihre Ideen als nachhaltig erweisen, ist mein
-Interesse geweckt. So geschehen bei "Kushel".</strong>
+Interesse geweckt. So geschehen bei "Kushel".**
 
 Dabei handelt es sich um einen jungen Handtuch-Hersteller aus Hamburg. Das
 Besondere an den Towels? Sie sind nicht nur besonders weich, sie bestehen zu 30
@@ -50,18 +57,19 @@ vorzustellen und erzählte mir von seinem erklärten Ziel:
 
 <div class="wp-block-image">
 <figure class="alignright">
-</div>
 
-<blockquote class="wp-block-quote">Wir möchten das erste Carbon-negative Unternehmen der Welt werden!</blockquote>
+> Wir möchten das erste Carbon-negative Unternehmen der Welt werden!
 
-Klappen soll das, indem für jedes verkaufte
-[ökologische Fußabdruck](/2013/05/towel-day/) der gesamten "Kushel" Produktion
-soll dadurch mehr CO<sub>2</sub> binden, als sie ausstößt.
+Klappen soll das, indem für jedes verkaufte [Handtuch](/2013/05/towel-day/) neue
+Bäume gepflanzt werden. Der
+[ökologische Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
+der gesamten "Kushel" Produktion soll dadurch mehr CO<sub>2</sub> binden, als
+sie ausstößt.
 
 Um die neuen Handtücher bekannt zu machen, hat Mattias sich die
-<strong>#treefluencer</strong> ausgedacht. Das sind fleißige Blogger, Vlogger
-und Bilder-Teiler\*innen, die die "Kushel" Produkte testen um im Anschluss
-darüber berichten. Und was soll ich sagen? Ich bin stolz dazu zu gehören.
+**#treefluencer** ausgedacht. Das sind fleißige Blogger, Vlogger und
+Bilder-Teiler\*innen, die die "Kushel" Produkte testen um im Anschluss darüber
+berichten. Und was soll ich sagen? Ich bin stolz dazu zu gehören.
 
 ## Das hat mein Test ergeben
 
@@ -86,7 +94,6 @@ angenehm kuschelig. Der Name ist also schon mal Programm.
 
 <div class="wp-block-image">
 <figure class="alignright">
-</div>
 
 Besonders gut gefallen mir außerdem die Größen. Das Duschtuch ist etwas größer,
 als man das gewöhnt ist, es geht durchaus als Strandlaken durch und auch das
@@ -119,16 +126,24 @@ weitergeht und werde heute Abend gleich mal bei Kickstarter vorbeischauen. Ihr
 doch auch, oder?
 
 Ihr wollt mehr über spannende und nachhaltige Start-ups erfahren? Dann könnt Ihr
-gerne [T-Shirts aus Holz](#newsletter) habe ich schon getestet.
+gerne [meinen Newsletter abonnieren](#newsletter). Immer, wenn es mein Alltag
+zulässt, blogge ich. Übrigens auch über Musik, veganes Leben, Hamburg, Kunst und
+meine Ausflüge. Ich freue mich auf Euch. Auch
+[T-Shirts aus Holz](/2018/04/wijld-woodshirt-mode-aus-holz/) habe ich schon
+getestet.
 
 [gallery type="rectangular" size="medium" link="none"
 ids="22478,22477,22474,22473,22472,22471,22470,22469,22468,22466"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
 
 \*\* [Die Homepage von "Kushel" findet ihr hier.](https://www.kushel.de/)
 
 \*\*\* Nachtrag 28.10.2018 18:00 Uhr 
 [Auch das Kickstarter-Projekt ist inzwischen gestartet!](https://www.kickstarter.com/projects/kushel/kushel-the-towel-made-with-wood)
+
+-->
+
+  

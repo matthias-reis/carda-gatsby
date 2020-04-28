@@ -4,12 +4,10 @@ seoTitle: Veganes Bio-Eis aus Finnland - Jymy mit Zutaten aus dem Wald
 slug: veganes-bio-eis-jymy-finnland
 link: /2019/06/veganes-bio-eis-jymy-finnland/
 fileName: 2019-06---veganes-bio-eis-aus-finnland.md
-description:
-  "Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der Basis von
-  Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit."
-excerpt:
-  "Werbung - Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der
+description: "Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der
   Basis von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit."
+excerpt: "Werbung - Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf
+  der Basis von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit."
 focusKeyword: Veganes Bio-Eis
 labels:
   - Bio-Eis
@@ -36,17 +34,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24584"
+image: /img/demo.jpg
+errors: []
 subTitle: Jymy Speiseeis mit Zutaten aus dem Wald
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Aus Finnland kommt jetzt was ganz Neues: naturreines Speiseeis auf der
-Basis von Vollkornhafer und Ackerbohnen.</strong>
+**Aus Finnland kommt jetzt was ganz Neues: naturreines Speiseeis auf der Basis
+von Vollkornhafer und Ackerbohnen.**
 
 Nachdem das vegane Eis aus vom finnischen Hersteller Jymy in Finnland ein großer
 Erfolg war, ist es ab sofort auch in Deutschland verfügbar. Erworben werden kann
-es in ausgewählten <strong>Bio-Supermärkten</strong>.
+es in ausgewählten **Bio-Supermärkten** .
 
 ## Eiscreme aus Ackerbohnen und Vollkornhafer
 
@@ -54,11 +55,18 @@ Bei der Herstellung wird auf künstliche Farbstoffe, GVO und Konservierungsstoff
 ganz bewusst verzichtet. Das Speiseeis aus Finnland wird nach handwerklicher
 Tradition mit einer besonders schonenden Methode hergestellt.
 
-<blockquote>"Wir haben gemeinsam mit Veganer*innen eine völlig neue Eiscreme-Produktfamilie entwickelt. Der Vorteil, den wir als kleiner Hersteller haben, besteht darin, dass wir die Herkunft jedes Rohstoffs und die Art und Weise seines Anbaus genau können. Rückverfolgbarkeit, Herstellung und Qualität sind für uns einfach zu handhaben."</blockquote>
+> "Wir haben gemeinsam mit Veganer\*innen eine völlig neue
+> Eiscreme-Produktfamilie entwickelt. Der Vorteil, den wir als kleiner
+> Hersteller haben, besteht darin, dass wir die Herkunft jedes Rohstoffs und die
+> Art und Weise seines Anbaus genau können. Rückverfolgbarkeit, Herstellung und
+> Qualität sind für uns einfach zu handhaben."
 
 freut sich CEO Horst Neumann.
 
-<blockquote>"Uns ist bekannt, dass <strong>die Nachfrage nach Bioprodukten</strong> in Deutschland und Österreich permanent wächst. Wir sind stolz, dass Jymy Eis das bestehende Bio-Eis-Angebot in Zukunft ergänzen wird. Es ist das erste landesweit in Deutschland und Österreich erhältliche Lebensmittel aus Finnland."</blockquote>
+> "Uns ist bekannt, dass **die Nachfrage nach Bioprodukten** in Deutschland und
+> Österreich permanent wächst. Wir sind stolz, dass Jymy Eis das bestehende
+> Bio-Eis-Angebot in Zukunft ergänzen wird. Es ist das erste landesweit in
+> Deutschland und Österreich erhältliche Lebensmittel aus Finnland."
 
 berichtet der Direktor des Food from Finland Programms bei Business Finland Esa
 Wrang. Was den Geschmack betrifft, verspricht sie wilde Aromen, die an helle
@@ -69,8 +77,12 @@ Beeren, Mitternachtsssonne und Sauna?
 
 ## Veganes Bio-Eis Blaubeere und Kiefer
 
-Das Programm "Food from Finland "[](#1) handelt es sich um eine öffentliche
-Einrichtung, die Firmen Innovationsfinanzierung und Unterstützung anbietet.
+Das Programm "Food from Finland "[<sup>1</sup>](#1) unterstützt finnische
+Lebensmittelunternehmen sich am internationalen Lebensmittelmarkt zu
+integrieren. Innovative, gesunde und natürliche Lebensmittel stehen dabei im
+Vordergrund. Bei "Business Finland "[<sup>2</sup>](#2) handelt es sich um eine
+öffentliche Einrichtung, die Firmen Innovationsfinanzierung und Unterstützung
+anbietet.
 
 Maito Oy produziert das Jymy Eis. Die Eisfabrik Suomisen Maito eröffnete 2014
 und wurde seitdem bereits mehrfach mit Preisen ausgezeichnet. Alle Zutaten kauft
@@ -100,34 +112,33 @@ so dramatisch, wie hierzulande.
 
 ## Zutaten aus den finnischen Wäldern
 
-Rohstoffe wie <strong>Waldbeeren</strong> gedeihen im kühlen Klima Finnlands
-sehr gut. Etwa 30 Prozent des weltweiten Bio-Wildsammelareals befindet sich in
-Finnland. Wenn die Tage im Hochsommer bis zu 19 Stunden dauern, wachsen
-Heidelbeeren und Co. rund um den Polarkreis wie von selbst.
+Rohstoffe wie **Waldbeeren** gedeihen im kühlen Klima Finnlands sehr gut. Etwa
+30 Prozent des weltweiten Bio-Wildsammelareals befindet sich in Finnland. Wenn
+die Tage im Hochsommer bis zu 19 Stunden dauern, wachsen Heidelbeeren und Co.
+rund um den Polarkreis wie von selbst.
 
 [Auf der Jymy Homepage](http://www.jymy.fi) findet Ihr weitere Infos über das
 neue vegane Eis.
 
 ### Fußnoten
 
-<ul>
-    <li style="list-style-type: none;">
-<ul>
-    <li id="1">[1]  [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/) </li>
-    <li id="2">[2]  [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/) </li>
-</ul>
+- <ul>     <li id="1">[1]  [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
+- [2][business finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)
 </li>
 </ul>
 
 ### Quellen
 
-[Finnisches Institut für natürliche Ressourcen (Luke)](https://www.businessfinland.fi/en/do-business-with-finland/home/)
+[Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/),
+[Finnisches Institut für natürliche Ressourcen (Luke)](https://www.luke.fi/ruokafakta/de/titelseite/)
 
 ### Foto im Header
 
 © Suomisen Maito Oy 2019
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung
-gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog
-findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt
+oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr
+auf meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,12 +4,12 @@ seoTitle: Sommersonne - Tagebucheintrag an einem schönen Tag
 slug: sommersonne
 link: /2011/07/sommersonne/
 fileName: 2011-07---sommersonne.md
-description:
-  Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf
-  den Dächern, der Wind bleibt heute fern und singt sein Lied weiter südlich.
-excerpt:
-  Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen spielen auf
-  den Dächern, der Wind bleibt heute fern und singt sein Lied weiter südlich.
+description: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen
+  spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter
+  südlich.
+excerpt: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen
+  spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter
+  südlich.
 focusKeyword: Sommersonne
 labels:
   - abhauen
@@ -47,12 +47,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11583"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
-
-<strong>Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen
-spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied lieber
-weiter südlich.</strong>
 
 Das Fernweh ist wieder angekommen. Gründe zu bleiben gibt es einige, Gründe zu
 verreisen überwiegen jedoch. In Gedanken habe ich das in den letzten Tagen oft
@@ -67,10 +66,14 @@ Hauswand beeindruckt.
 Passend dazu der Song des Tages. Er kommt heute von einer Band namens Eagleowl,
 die ebenfalls aus Edinburg stammt.
 
-<strong>Song des Tages:</strong>
+**Song des Tages:**
 
 Eagleowl - Into The Fold
 
-[youtube=http://www.youtube.com/watch?v=xYUYxnhyyHM&amp;feature=related]
-<strong></strong><em>Eagleowl:</em>
-[http://de.wikipedia.org/wiki/Alexander_McCall_Smith](http://www.eagleowlattack.co.uk/)
+[youtube=http://www.youtube.com/watch?v=xYUYxnhyyHM&amp;feature=related] \__\_\_
+\_Eagleowl:_
+[http://www.eagleowlattack.co.uk/](http://www.eagleowlattack.co.uk/) _Alexander
+McCall Smith:_
+[http://de.wikipedia.org/wiki/Alexander_McCall_Smith](http://de.wikipedia.org/wiki/Alexander_McCall_Smith)
+
+  

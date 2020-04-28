@@ -4,11 +4,10 @@ seoTitle: Blues On Two Trees - Neues von Jack White
 slug: blues-on-two-trees
 link: /2012/10/blues-on-two-trees/
 fileName: 2012-10---blues-on-two-trees.md
-description:
-  Mit "Blues On Two Trees" stellt Jack White einen neuen B-Seiten-Song vor. Ich
-  habe schon mal reingehört. Hier geht's zum "Blues On Two Trees"-Snippet
-excerpt:
-  Jack White hat soeben eine neue Single vorgestellt! Da lacht das
+description: Mit "Blues On Two Trees" stellt Jack White einen neuen
+  B-Seiten-Song vor. Ich habe schon mal reingehört. Hier geht's zum "Blues On
+  Two Trees"-Snippet
+excerpt: Jack White hat soeben eine neue Single vorgestellt! Da lacht das
   grippegeplagte Winterherz.
 focusKeyword: Blues On Two Trees
 labels:
@@ -47,12 +46,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4414"
+image: /img/demo.jpg
+errors: []
 subTitle: Jack White stellt neuen B-Seiten-Song vor
+  
 ---
-
-<strong>Da ist man grade zurück aus dem Urlaub und hat den schlimmsten Jetlag
-überstanden, da liest man so etwas: Jack White hat soeben eine neue Single
-vorgestellt! Da lacht das grippegeplagte Winterherz. </strong>
 
 !["Blues On Two Trees" von Jack White erscheint auf der B-Seite von 'I´m Shakin'' | full](http://cardamonchai.com/wp-content/uploads/2012/10/51gysednnl-_sl500_aa240_.jpg
 '"Blues On Two Trees" von Jack White erscheint auf der B-Seite von 'I´m
@@ -81,6 +79,8 @@ verschiedensten Musikgenres, musikalisch auf dem absoluten Höhepunkt seines
 Schaffens. Seine bluesige Herkunft verleugnet er damit selbstverständlich nicht.
 Hört selbst. Und bestellt Euch die Platte. Ich lege sie Euch ans Herz.
 
-<em>Wer sich fragt, wo meine Blogeinträge zu meinem letztwöchigen Urlaub
-bleiben: Sind in Arbeit. Einige Erlebnisse müssen noch ein Wenig verarbeitet
-werden.</em><em>Wir lesen uns.</em>
+_Wer sich fragt, wo meine Blogeinträge zu meinem letztwöchigen Urlaub bleiben:
+Sind in Arbeit. Einige Erlebnisse müssen noch ein Wenig verarbeitet werden._
+_Wir lesen uns._
+
+  

@@ -4,13 +4,11 @@ seoTitle: Faire Klamotten - Diese Modelabels achten auf die Mitwelt
 slug: faire-klamotten
 link: /2018/02/faire-klamotten/
 fileName: 2018-02---faire-klamotten.md
-description:
-  Immer wieder werde ich nach Tipps für faire Klamotten gefragt. Ich habe sie
-  jetzt für Euch zusammengestellt und eine tolle Liste daraus gemacht.
-excerpt:
-  Anzeigen & Affiliate Links - Immer wieder werde ich nach Tipps für faire
-  Klamotten gefragt. Ich habe sie jetzt für Euch zusammengestellt und eine tolle
-  Liste daraus gemacht.
+description: Immer wieder werde ich nach Tipps für faire Klamotten gefragt. Ich
+  habe sie jetzt für Euch zusammengestellt und eine tolle Liste daraus gemacht.
+excerpt: Anzeigen & Affiliate Links - Immer wieder werde ich nach Tipps für
+  faire Klamotten gefragt. Ich habe sie jetzt für Euch zusammengestellt und eine
+  tolle Liste daraus gemacht.
 focusKeyword: Faire Klamotten
 labels:
   - Anifree Shoes
@@ -55,18 +53,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19580"
+image: /img/demo.jpg
+errors: []
 subTitle: Diese Modelabels achten auf die Mitwelt
+  
 ---
 
-<em>Anzeigen &amp; Affiliate Links</em>
+_Anzeigen &amp; Affiliate Links_
 
-<strong>Man fragt mich immer wieder, ob ich nicht mal Lust habe, eine Liste mit
-fairen und veganen Modelabels zusammenzustellen. "Du kennst Dich doch da aus! Du
-hast selbst immer so tolle Biobaumwoll-Sachen an!"</strong>
+**Man fragt mich immer wieder, ob ich nicht mal Lust habe, eine Liste mit fairen
+und veganen Modelabels zusammenzustellen. "Du kennst Dich doch da aus! Du hast
+selbst immer so tolle Biobaumwoll-Sachen an!"**
 
 Nachdem ich inzwischen tatsächlich eine kleine Sammlung in meinen
 Browserfavoriten liegen habe, möchte ich diese gerne mit Euch teilen.
 Selbstverständlich besteht dabei kein Anspruch auf Vollständigkeit.
+
+![Faire Klamotten](http://cardamonchai.com/wp-content/uploads/2018/02/11354894815_7b7d26bb30_z-300x450.jpg)
 
 ## Zu meinen Lieblingen gehören die folgenden Labels:
 
@@ -103,6 +106,10 @@ Hamburger Store vorbei, aber auch der große Onlineshop hat es in sich: 
 
 ![Faire Klamotten](http://cardamonchai.com/wp-content/uploads/2018/02/21771326770_2a5cf983af_z-300x452.jpg)
 
+Auch diese Brand kommt, Ihr ahnt es schon, aus Hamburg. Ich habe sie bei einem
+Pop-up-Verkauf in St. Pauli kennengelernt. Schaut Euch mal den Shop an: 
+[https://www.merijula.com](https://www.merijula.com)
+
 ### Save The Duck
 
 Der fiese Trend zu [Echtpelz](/2014/11/fakepelz-echtpelz/) und Daunen nimmt und
@@ -133,6 +140,9 @@ Ihr bei
 ### Zündstoff
 
 ![Faire Klamotten](http://cardamonchai.com/wp-content/uploads/2018/02/21316798924_cdc4bc83e7_z-300x452.jpg)
+
+Vegane Fair- und Ecomode, gibt es seit 2005 bei 
+[https://www.zuendstoff-clothing.de](https://www.zuendstoff-clothing.de)
 
 ### Grundstoff
 
@@ -224,11 +234,11 @@ Fantasievolles Schuhwerk in verschiedenen bunten Designs
 
 ![Grundstoff](https://www.adcell.de/promotion/image/promoId/36924/slotId/80259)
 
-<a href="https://www.adcell.de/promotion/click/promoId/36924/slotId/80259" target="_blank" rel="noopener">
+[](https://www.adcell.de/promotion/click/promoId/36924/slotId/80259)
 
-</a>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+  [Transparenz-Seite](/werbung/). _
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+  

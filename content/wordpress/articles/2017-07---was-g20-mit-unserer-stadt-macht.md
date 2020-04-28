@@ -4,14 +4,11 @@ seoTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
 slug: g20
 link: /2017/07/g20/
 fileName: 2017-07---was-g20-mit-unserer-stadt-macht.md
-description:
-  Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel vorzubereiten.
-  Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
-excerpt:
-  Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel vorzubereiten.
-  Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
-focusKeyword:
-  Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
+description: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel
+  vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
+excerpt: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel
+  vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
+focusKeyword: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
 labels:
   - Altona
   - Demonstration
@@ -34,14 +31,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17044"
+image: /img/demo.jpg
+errors: []
 subTitle: Bestandsaufnahme einer Hamburgerin
+  
 ---
 
 ![G20](http://cardamonchai.com/wp-content/uploads/2017/07/2017-07-05-G20-7-640x479.jpg "Schwarzer Block im Schaufenster")
 
-<strong>Lange Zeit habe ich hin und her überlegt, ob ich zu diesem Thema etwas
-bringen werde. Und ich muss etwas bringen. G20 macht etwas mit unserer Stadt und
-das muss ich versuchen, in Worte zu packen.</strong>
+**Lange Zeit habe ich hin und her überlegt, ob ich zu diesem Thema etwas bringen
+werde. Und ich muss etwas bringen. G20 macht etwas mit unserer Stadt und das
+muss ich versuchen, in Worte zu packen.**
 
 Schon Wochen vor dem Ereignis, welches sich am Wochenende in Hamburg abspielen
 wird, waren alle in heller Aufruhr. Polizeimannschaften aus den verschiedensten
@@ -57,12 +57,11 @@ Polizisten eingekreist wurden. Ein Wasserwerfer stand auch bereit.
 
 Nun, fast eine Woche später, kreisen die Hubschrauber permanent über der
 Schanze, Altona, der Neustadt und dem Kiez. Heute in der Schanze stieß man an
-jedem Hauseingang auf Hundertschaften. Die Bahnhöfe werden
-<span class="st">patrouilliert, Zäune wurden mit Natodraht abgesichert, auf
-Supermarktdächern liegen Scharfschützen. Rund um die Messehallen ist alles
-abgeriegelt, Mannschaftsbusse hinter Absperrgittern. Menschen werden
-kontrolliert und gebeten vom Fahrrad abzusteigen. Die Stimmung ist mehr als
-angespannt.</span>
+jedem Hauseingang auf Hundertschaften. Die Bahnhöfe werden patrouilliert, Zäune
+wurden mit Natodraht abgesichert, auf Supermarktdächern liegen Scharfschützen.
+Rund um die Messehallen ist alles abgeriegelt, Mannschaftsbusse hinter
+Absperrgittern. Menschen werden kontrolliert und gebeten vom Fahrrad
+abzusteigen. Die Stimmung ist mehr als angespannt.
 
 Gestern Abend waren wir bei einer kleinen Demoveranstaltung am
 Alma-Wartenberg-Platz hier in Altona. Ein paar hundert Menschen ravten gegen
@@ -153,12 +152,14 @@ zeigen. Wie es uns zusteht.
 [gallery link="none" size="large" type="rectangular"
 ids="17043,17041,17038,17037,17036,17035"]
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 104px; left: 1326px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 1068px; left: 1326px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 104px; left: 1326px;">Merken</span>
+Merken
+
+  

@@ -4,12 +4,12 @@ seoTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr
 slug: pangolin-ein-vergessenes-schuppentier
 link: /2016/05/pangolin-ein-vergessenes-schuppentier/
 fileName: 2016-05---pangolin.md
-description:
-  Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier wird von
-  Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe muss her.
-excerpt:
-  Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier wird von
-  Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe muss her.
+description: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier
+  wird von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe
+  muss her.
+excerpt: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier wird
+  von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe muss
+  her.
 focusKeyword: Pangolin
 labels:
   - aussterbende Arten
@@ -28,12 +28,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14865"
+image: /img/demo.jpg
+errors: []
 subTitle: Schuppentiere in Gefahr
+  
 ---
 
 ![Pangolin](http://cardamonchai.com/wp-content/uploads/2016/05/512px-Tree_Pangolin.jpg)
 
-<strong>
+**Das Pangolin, auch Tannenzapfentier oder Schuppentier (Mandiae) genannt, zählt
+zu den bedrohten Arten und ist akut vom Aussterben bedroht.**
 
 Die zahnlosen, einzelgängerischen Säugetiere gehen nachts auf die Jagd nach
 Ameisen, Termiten, Schaben und Würmern. Ihre Krallen und ihre spitze,
@@ -48,8 +52,8 @@ Höhlen.
 
 ## Das Pangolin - Ein faszinierendes Schuppentier
 
-Droht Gefahr, rollen sich das <strong>Pangolin</strong> wie ein Igel zusammen,
-der Feind sieht nur noch eine schuppige Kugel vor sich. Bis zu 33 kg kann ein
+Droht Gefahr, rollen sich das **Pangolin** wie ein Igel zusammen, der Feind
+sieht nur noch eine schuppige Kugel vor sich. Bis zu 33 kg kann ein
 ausgewachsenes Schuppentier je nach Gattung auf die Waage bringen, wenn es
 genügend Nahrung findet. Langschwanz- und Weißbauch-Schuppentiere werden
 zwischen 25 und 43 cm lang, ihre großen Verwandten, die Riesenschuppentiere
@@ -72,25 +76,28 @@ Am 20. Februar wird seit kurzem jedes Jahr zum Schutz des Pangolins aufgerufen.
 Er wurde zum Welttag des Pangolins erklärt.
 
 Wer sich für Pangoline einsetzen möchte, kann online eine
-[Chinesische Botschaft](https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen)
-in Berlin richten.
+[Petition mitzeichen](https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen)
+oder direkt einen Brief an die
+[Chinesische Botschaft](http://www.china-botschaft.de/det/) in Berlin richten.
 
 ## Hier klicken, um die Petition zu unterschreiben
 
 ![Pangolin | full](http://cardamonchai.com/wp-content/uploads/2016/05/Bildschirmfoto-2016-05-24-um-12.40.59.png)
 
-<a href="https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen" target="_blank" rel="noopener">
+[](https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen)
 
 ### Bildquellen:
 
-<em>Bild Pangolin auf Hand: By
+_Bild Pangolin auf Hand: By
 [Valerius Tygart](http://creativecommons.org/licenses/by-sa/3.0) (Own work) [CC
-BY-SA 3.0], via Wikimedia Commons</em>
+BY-SA 3.0], via Wikimedia Commons_
 
-<em>Bild Pangolin verteidigt sich vor Löwen: By
+_Bild Pangolin verteidigt sich vor Löwen: By
 [Sandip kumar](http://creativecommons.org/licenses/by-sa/3.0) (Own work) [CC
-BY-SA 3.0], via Wikimedia Commons</em>
+BY-SA 3.0], via Wikimedia Commons_
 
-<em>Bild unten: Screenshot der Petition auf
+_Bild unten: Screenshot der Petition auf
 [regenwald.org](https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen)
-</em>
+_
+
+  

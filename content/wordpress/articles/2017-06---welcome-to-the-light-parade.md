@@ -1,16 +1,15 @@
 ---
 title: Welcome to the light parade
-seoTitle:
-  Welcome to the light parade - Altona erstrahlt im Licht der "Weißen Parade"
+seoTitle: Welcome to the light parade - Altona erstrahlt im Licht der "Weißen Parade"
 slug: weisse-parade-stamp-festival-altona
 link: /2017/06/weisse-parade-stamp-festival-altona/
 fileName: 2017-06---welcome-to-the-light-parade.md
-description:
-  Hamburg - Mit einer leuchtenden Parade aus futuristischen Feen und Elfen fand
-  am Samstag der ersten Tag des Stamp Festivals in Altona seinen Ausklang.
-excerpt:
-  Hamburg - Mit einer leuchtenden Parade aus futuristischen Feen und Elfen fand
-  am Samstag der ersten Tag des Stamp Festivals in Altona seinen Ausklang.
+description: Hamburg - Mit einer leuchtenden Parade aus futuristischen Feen und
+  Elfen fand am Samstag der ersten Tag des Stamp Festivals in Altona seinen
+  Ausklang.
+excerpt: Hamburg - Mit einer leuchtenden Parade aus futuristischen Feen und
+  Elfen fand am Samstag der ersten Tag des Stamp Festivals in Altona seinen
+  Ausklang.
 focusKeyword: parade
 labels:
   - Altona
@@ -34,12 +33,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16833"
+image: /img/demo.jpg
+errors: []
 subTitle: Altona erstrahlt im Licht der "Weißen Parade"
+  
 ---
 
-<strong><em>Hamburg</em> - Mit einer leuchtenden Parade aus futuristischen Feen
-und Elfen fand am Samstag der ersten Tag des Stamp Festivals in Altona seinen
-Ausklang.</strong>
+**_Hamburg_ - Mit einer leuchtenden Parade aus futuristischen Feen und Elfen
+fand am Samstag der ersten Tag des Stamp Festivals in Altona seinen Ausklang.**
 
 Am Samstag ging als Auftakt der diesjährigen Altonale hier in Altona das Stamp
 Festival los. Bei dem Event dreht sich alles um Straßenkunst. Dazu zählt
@@ -62,3 +63,5 @@ gemacht habe.
 [myflickr tag="annelightparadestamp2017"]
 
 [Zeitgenössische afrikanische Künstlerinnen im CAAM in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
+
+  

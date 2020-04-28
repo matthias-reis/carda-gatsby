@@ -1,16 +1,13 @@
 ---
 title: Vegan setzt sich weiter durch
-seoTitle:
-  "Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen"
+seoTitle: "Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen"
 slug: produkteinfuehrungen-vegan
 link: /2018/07/produkteinfuehrungen-vegan/
 fileName: 2018-07---vegan-setzt-sich-weiter-durch.md
-description:
-  Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den größten Anteil
-  an veganen Lebensmitteleinführungen hat. Und das weltweit.
-excerpt:
-  Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den größten Anteil
-  an veganen Lebensmitteleinführungen hat. Und das weltweit.
+description: Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den
+  größten Anteil an veganen Lebensmitteleinführungen hat. Und das weltweit.
+excerpt: Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den größten
+  Anteil an veganen Lebensmitteleinführungen hat. Und das weltweit.
 focusKeyword: Produkteinführungen
 labels:
   - Analyse
@@ -34,12 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21489"
+image: /img/demo.jpg
+errors: []
 subTitle: Neue Studie
+  
 ---
 
-<strong>Heute Morgen erreichte mich eine frische Pressemitteilung aus dem Hause
+**Heute Morgen erreichte mich eine frische Pressemitteilung aus dem Hause
 Mintel.  Ihr zufolge hat sich Deutschland zu einer führenden Kraft in der
-"veganen Revolution" entwickelt.</strong>
+"veganen Revolution" entwickelt.**
 
 Eine neue Studie der Marktforschungsagentur beweist, dass Deutschland weiterhin
 den größten Anteil an veganen Lebensmitteleinführungen hat. Und das weltweit. So
@@ -47,10 +47,10 @@ kamen rund 15 Prozent der zwischen Juli 2017 und Juni 2018 auf den Markt
 gebrachten veganen Produkte aus der BRD.
 
 Noch vor fünf Jahren waren lediglich vier Prozent der neuen Lebensmittel und
-Getränke in Deutschland als <strong>vegan</strong> gekennzeichnet. Seitdem lässt
-sich eine exponentielle Steigerung beobachten: Zwischen Juli 2013 und Juni 2018
-hat sich die Zahl der veganen Produkteinführungen um 240 Prozent gesteigert,
-sprich mehr als verdreifacht.
+Getränke in Deutschland als **vegan** gekennzeichnet. Seitdem lässt sich eine
+exponentielle Steigerung beobachten: Zwischen Juli 2013 und Juni 2018 hat sich
+die Zahl der veganen Produkteinführungen um 240 Prozent gesteigert, sprich mehr
+als verdreifacht.
 
 ## Immer mehr vegane Produkteinführungen
 
@@ -72,18 +72,32 @@ Prozent weltweit mehr als verdoppelt.
 
 Zitat Katya Witham, Global Food &amp; Drink Analyst bei Mintel,:
 
-<blockquote>"In den letzten Jahren haben Verbraucher zunehmend Interesse an pflanzlichen Lebensmitteln gezeigt. Forschungserkenntnisse zeigen, dass eine strengere pflanzliche Ernährung zwar nur einen kleinen Teil der Bevölkerung anspricht, jedoch folgt ein viel höherer Prozentsatz von Verbrauchern einer ‘flexitarischen’ Ernährungsweise. Sie geben das Fleisch nicht ganz auf, nehmen jedoch zunehmend pflanzliche Produkte in Ihren Ernährungsplan auf. Dies eröffnet Möglichkeiten für Hersteller, mehr in innovative pflanzliche Lebensmittel und Getränke zu investieren. Darüber hinaus spiegelt das rasante Wachstum veganer Produkte in Deutschland auch den Anstieg des ethischen Konsums vor allem bei jüngeren Konsumenten wider."</blockquote>
+> "In den letzten Jahren haben Verbraucher zunehmend Interesse an pflanzlichen
+> Lebensmitteln gezeigt. Forschungserkenntnisse zeigen, dass eine strengere
+> pflanzliche Ernährung zwar nur einen kleinen Teil der Bevölkerung anspricht,
+> jedoch folgt ein viel höherer Prozentsatz von Verbrauchern einer
+> ‘flexitarischen’ Ernährungsweise. Sie geben das Fleisch nicht ganz auf, nehmen
+> jedoch zunehmend pflanzliche Produkte in Ihren Ernährungsplan auf. Dies
+> eröffnet Möglichkeiten für Hersteller, mehr in innovative pflanzliche
+> Lebensmittel und Getränke zu investieren. Darüber hinaus spiegelt das rasante
+> Wachstum veganer Produkte in Deutschland auch den Anstieg des ethischen
+> Konsums vor allem bei jüngeren Konsumenten wider."
 
 Ein Fünftel der 16- bis 24-Jährigen haben in Deutschland eigenen Angaben zufolge
 innerhalb des Jahres 2017 zu Fleischalternativen gegriffen. Insgesamt ist
 inzwischen die Hälfte aller Deutschen Konsumenten davon überzeugt, dass
 pflanzliches Protein genauso nahrhaft ist, wie tierisches. Immerhin jeder Fünfte
-findet sogar, <strong>dass Pflanzenprotein besser schmeckt, als
-tierisches</strong>.
+findet sogar, **dass Pflanzenprotein besser schmeckt, als tierisches** .
 
 ## Katya Witham findet hierzu klare Worte:
 
-<blockquote>"Produkte ohne tierische Inhaltsstoffe sind inzwischen nicht mehr nur bei Veganern und Vegetariern beliebt. Sie sind Teil einer allgemein anerkannten, gesunden und abwechslungsreichen Ernährung. Lebensmittel- und Getränkehersteller können den nächsten Schritt tun und die vegane Positionierung ihrer Produkte mit gesundheits- und umweltfreundlichen Beschreibungen erweitern. Dies wird Verbraucher ansprechen, die gerne mehr Transparenz sehen würden."</blockquote>
+> "Produkte ohne tierische Inhaltsstoffe sind inzwischen nicht mehr nur bei
+> Veganern und Vegetariern beliebt. Sie sind Teil einer allgemein anerkannten,
+> gesunden und abwechslungsreichen Ernährung. Lebensmittel- und
+> Getränkehersteller können den nächsten Schritt tun und die vegane
+> Positionierung ihrer Produkte mit gesundheits- und umweltfreundlichen
+> Beschreibungen erweitern. Dies wird Verbraucher ansprechen, die gerne mehr
+> Transparenz sehen würden."
 
 ## Herkunft der Studie
 
@@ -101,5 +115,7 @@ Bezug auf Alter, Geschlecht und Region repräsentativ für die Bevölkerung.
 Mehrfachnennungen werden dabei ausgeschlossen. Bei Mintel handelt es sich um die
 derzeit weltweit führende Agentur für Market Intelligence und Datenerfassung.
 
-<strong>Schaubild:</strong> Mintel <strong>Titelbild:</strong>
+**Schaubild:** Mintel **Titelbild:**
 [congerdesign](https://pixabay.com/de/users/congerdesign-509903/), pixabay
+
+  

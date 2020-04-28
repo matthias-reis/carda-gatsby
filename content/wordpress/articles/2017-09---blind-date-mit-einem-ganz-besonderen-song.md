@@ -1,16 +1,13 @@
 ---
 title: Blind Date mit einem ganz besonderen Song
-seoTitle:
-  '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
+seoTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
 slug: i-like-birds-blind-date-mit-einem-ganz-besonderen-song
 link: /2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/
 fileName: 2017-09---blind-date-mit-einem-ganz-besonderen-song.md
-description:
-  '"I like birds" ist ein ganz besonderer Song. Ein Song für ein Blind Date. Von
-  meiner Erfahrung damit möchte ich Euch heute berichten.'
-excerpt:
-  '"I like birds" ist ein ganz besonderer Song. Ein Song für ein Blind Date. Von
-  meiner Erfahrung damit möchte ich Euch heute berichten.'
+description: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein
+  Blind Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
+excerpt: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein Blind
+  Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
 focusKeyword: I like birds
 labels:
   - Achtsamkeit
@@ -29,21 +26,26 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17878"
+image: /img/demo.jpg
+errors: []
 subTitle: '"I like birds" von Eels'
+  
 ---
 
-<strong>"I like birds" von Eels war jahrelang mein Lieblingslied und das nicht
-nur, weil der Name des Songs ziemlich gut zu mir passt. Auch heute noch steht
-das Lied in den Listen meiner am häufigsten gehörten und am heißesten geliebten
+**"I like birds" von Eels war jahrelang mein Lieblingslied und das nicht nur,
+weil der Name des Songs ziemlich gut zu mir passt. Auch heute noch steht das
+Lied in den Listen meiner am häufigsten gehörten und am heißesten geliebten
 Songs ganz oben. Umso mehr habe ich mich gefreut, als sich herausstellte, dass
 beim aktuellen Bloggerevent "Blinddate mit einem Song" "mein" Song erwählt
-wurde. Und: Dass ich auch dieses Mal wieder dabei sein darf.</strong>
+wurde. Und: Dass ich auch dieses Mal wieder dabei sein darf.**
 
 Eels macht für mich schon immer Musik für die Seele. Besonders "I like birds"
 berührt diese eine unsichtbare Stelle sehr stark. Das ist zumindest meine
 Meinung. Ich werde wie bei meinem ersten Blind Date mit einem Song (Es ging um
-Nancy Sinatras "[wie Ihr sie von mir kennt](/2017/07/blind-date-summerwine/).
-Ich höre den Song an und erzähle Euch, was mir dabei durch den Kopf geht.
+Nancy Sinatras "[Summerwine](/2017/07/blind-date-summerwine/)" ) keine
+klassische Rezension schreiben,
+[wie Ihr sie von mir kennt](/2014/09/flucht-in-die-flucht/). Ich höre den Song
+an und erzähle Euch, was mir dabei durch den Kopf geht.
 
 ## Für alle, die die Bloggeraktion "Blind Date mit einem Song" noch nicht kennen, hier noch eine kurze Erklärung:
 
@@ -56,14 +58,13 @@ ganz frei und können ihrem Schreibstil und ihrer Fantasie freien Lauf lassen.
 Alle Blogger veröffentlichen Ihre Artikel am selben Tag zu selben Uhrzeit und
 verlinken sich untereinander.
 
-Ausgedacht haben sich das "Blind Date mit einem Song" Caro
-von Hauptstadtgarten<em>_ </em>und Björn von Gartenbaukunst_. Bis jetzt wurde es
-zwei mal veranstaltet. Für mich liegt der Reiz der Aktion in der Neugierde
-darauf, was die anderen wohl schreiben. Das letzte Mal fiel mir auf, dass
-wirklich jede/r der 11 Teilnehmer/innen etwas komplett Anderes über den Song
-geschrieben hatte, es sich aber dennoch alles sehr gut ineinanderfügte. Die
-Texte passten, obwohl sie unterschiedlich waren, sehr gut zusammen. Sie
-harmonierten.
+Ausgedacht haben sich das "Blind Date mit einem Song" Caro von Hauptstadtgarten
+_\*_ und Björn von Gartenbaukunst\*. Bis jetzt wurde es zwei mal veranstaltet.
+Für mich liegt der Reiz der Aktion in der Neugierde darauf, was die anderen wohl
+schreiben. Das letzte Mal fiel mir auf, dass wirklich jede/r der 11
+Teilnehmer/innen etwas komplett Anderes über den Song geschrieben hatte, es sich
+aber dennoch alles sehr gut ineinanderfügte. Die Texte passten, obwohl sie
+unterschiedlich waren, sehr gut zusammen. Sie harmonierten.
 
 ## Mein Blind Date mit "I like birds"
 
@@ -75,48 +76,54 @@ Oder, Ihr drückt einfach hier auf "play".
 
 <iframe style="float: right; margin: 6px 0 6px 6px;" src="https://www.youtube.com/embed/uh6Qla-OQ-M" width="300" height="169" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<strong>Er schlendert beschwingt durch die Herbstsonne. Den Kopf in den Wolken.
-Die Hände lässig in die Taschen seines ausgewaschenen Hoodies gesteckt. In
-seinen Mundwickeln wippt ein freundliches Lächeln. Er wirkt beseelt, als käme er
-von einer Reise. Ruhig. Fröhlich und durch nichts aus der Ruhe zu bringen. Sein
+**Er schlendert beschwingt durch die Herbstsonne. Den Kopf in den Wolken. Die
+Hände lässig in die Taschen seines ausgewaschenen Hoodies gesteckt. In seinen
+Mundwickeln wippt ein freundliches Lächeln. Er wirkt beseelt, als käme er von
+einer Reise. Ruhig. Fröhlich und durch nichts aus der Ruhe zu bringen. Sein
 rechter Schuh hat ein Loch, der Rucksack nur noch einen Träger. Die achtlos
 zusammengebundenen Haare wirken etwas ungewaschen. Aber das macht ihm nichts. Er
 freut sich über das schöne Wetter, das Vogelgezwitscher und die Tasse Kaffee,
-die er vorhin geschenkt bekam. </strong>
+die er vorhin geschenkt bekam.**
 
-<strong>Seine Habseligkeiten beschränken sich auf eine Matratze samt Bezug,
-Kissen und Decke, ein paar Kleidungsstücke in einem Regal aus Ziegelsteinen und
-Brettern, einen alten Plattenspieler und einige Platten, ganze vierzehn Bücher,
-sein Zahnputzzeug und ein paar Küchenartikel. Untergestellt hat er das alles in
-einer kleinen Dachwohnung, die er eigentlich nur zum Schlafen betritt. Den Rest
-der Zeit verbringt er draußen. Wenn er gerade kein Projekt hat, genießt er die
-Natur und lauscht dem Puls der Stadt.</strong>
+**Seine Habseligkeiten beschränken sich auf eine Matratze samt Bezug, Kissen und
+Decke, ein paar Kleidungsstücke in einem Regal aus Ziegelsteinen und Brettern,
+einen alten Plattenspieler und einige Platten, ganze vierzehn Bücher, sein
+Zahnputzzeug und ein paar Küchenartikel. Untergestellt hat er das alles in einer
+kleinen Dachwohnung, die er eigentlich nur zum Schlafen betritt. Den Rest der
+Zeit verbringt er draußen. Wenn er gerade kein Projekt hat, genießt er die Natur
+und lauscht dem Puls der Stadt.**
 
 ## "Das sind doch alles nur Gebrauchsgegenstände"
 
 ![I like birds](http://cardamonchai.com/wp-content/uploads/2017/09/17160873227_6048e2ba21_z-300x200.jpg)
 
-<strong>
+**Materielle Dinge bedeuten ihm nichts mehr. Wenn andere sich über einen Kratzer
+auf ihrem glänzenden Smartphone beschweren, kann er nur müde lächeln.
+"Gebrauchsgegenstände. Das sind doch alles Gebrauchsgegenstände. Was das Herz
+wirklich braucht, können sie Dir nicht geben.", denkt er sich und schlendert
+weiter. Eine Frau kniet auf einem Grünstreifen und fotografiert Pilze. Sie
+scheint sie alle im Detail katalogisieren zu wollen. Sie möchte sie mit nach
+Hause nehmen. Konservieren. Für immer für sich haben. Ins Regal stellen. Auf der
+Festplatte speichern. Jederzeit abrufbar.**
 
-<strong>Früher hatte er auch mal eine Sammlung begonnen. Sie war ihm sehr
-wichtig gewesen. Er hatte alles in sie gesteckt. Sein Geld. Seine Zeit. Seine
+**Früher hatte er auch mal eine Sammlung begonnen. Sie war ihm sehr wichtig
+gewesen. Er hatte alles in sie gesteckt. Sein Geld. Seine Zeit. Seine
 Vierzimmerwohnung war voll von Kleidung, Zeitschriften, Büchern, Elektrogeräten
 und zahllosen Symbolen des modernen menschlichen Dasein gewesen. Doch das alles
 hatte ihm nichts gegeben. Die Einsamkeit hatte sich eines Tages nicht mehr
 verbergen lassen. Er hatte inmitten einer Ausstellung seiner selbst gesessen.
 Jeden Abend. Bis die Wände angefangen hatten, sich auf ihn zu zu bewegen und er
-alles verschenkt und verkauft hatte und aufgebrochen war. </strong>
+alles verschenkt und verkauft hatte und aufgebrochen war.**
 
-<strong>Er hatte gelernt, anderen Dingen Wert beizumessen. Nicht den
-materiellen. Er hatte sich selbst kennengelernt und war dabei vielen
-interessanten Menschen begegnet. Individuen, die er heute nicht mehr missen
-möchte. Er hatte angefangen, sich selbst und den anderen zuzuhören. Nun war er
-nicht mehr einsam. Auch nicht an Tagen wie diesem, an denen er alleine durch die
-Stadt schlenderte, seine Gedanken kreisen lies und sich über das Wetter
-freute.</strong>
+**Er hatte gelernt, anderen Dingen Wert beizumessen. Nicht den materiellen. Er
+hatte sich selbst kennengelernt und war dabei vielen interessanten Menschen
+begegnet. Individuen, die er heute nicht mehr missen möchte. Er hatte
+angefangen, sich selbst und den anderen zuzuhören. Nun war er nicht mehr einsam.
+Auch nicht an Tagen wie diesem, an denen er alleine durch die Stadt schlenderte,
+seine Gedanken kreisen lies und sich über das Wetter freute.**
 
-<strong>Er ist frei. Und er ist hier. Mitten unter vielen. Alleine. Aber nicht
-einsam. Glücklich.</strong>
+**Er ist frei. Und er ist hier. Mitten unter vielen. Alleine. Aber nicht einsam.
+Glücklich.**
 
 ## Eels stellt sich vor - Die Musiker hinter "I like birds"
 
@@ -171,16 +178,18 @@ you to perch on I've got a feeder for you to perch on
 
 ## Teilnehmer beim Blind Date mit "I like birds"
 
-[\*Gartenbaukunst](https://gartenbaukunst.wordpress.com/)
-[Hauptstadtgarten](https://www.hauptstadtgarten.de/)
-[Beetkultur](https://www.beetkultur.de/)
-[Rienmakaefer](https://rienmakaefer.com/)
-[Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)
-[Ye olde Kitchen](http://yeoldekitchen.com/)
-[Laubenhausmädchen](https://laubenhausmaedchen.wordpress.com/)
+[\*Gartenbaukunst](https://gartenbaukunst.wordpress.com/)  
+[Hauptstadtgarten](https://www.hauptstadtgarten.de/)  
+[Beetkultur](https://www.beetkultur.de/)  
+[Rienmakaefer](https://rienmakaefer.com/)  
+[Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)  
+[Ye olde Kitchen](http://yeoldekitchen.com/)  
+[Laubenhausmädchen](https://laubenhausmaedchen.wordpress.com/)  
 [Karo-Tina Aldente](https://karotinasblog.wordpress.com/) Anne bloggt
 cardamonchai (aka ich :-) )
-[Sind im Garten](https://sindimgarten.wordpress.com/)
+[Sind im Garten](https://sindimgarten.wordpress.com/)  
 [Milli Bloom](http://millibloom.com/)
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+Merken
+
+  

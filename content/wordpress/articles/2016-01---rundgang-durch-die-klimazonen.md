@@ -4,12 +4,11 @@ seoTitle: Ein Rundgang durch die Klimazonen zum neuen Jahr
 slug: ein-rundgang-durch-die-klimazonen-zum-neuen-jahr
 link: /2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/
 fileName: 2016-01---rundgang-durch-die-klimazonen.md
-description:
-  Was hat das neue Jahr mit Klimazonen zu tun? Ich erkläre es Euch mit meinen
-  Bildern aus den Schaugewächshäusern bei Planen un Blomen in Hamburg.
-excerpt:
-  Was hat das neue Jahr mit Klimazonen zu tun? Ich erkläre es Euch mit meinen
-  Bildern aus den Schaugewächshäusern bei Planen un Blomen in Hamburg.
+description: Was hat das neue Jahr mit Klimazonen zu tun? Ich erkläre es Euch
+  mit meinen Bildern aus den Schaugewächshäusern bei Planen un Blomen in
+  Hamburg.
+excerpt: Was hat das neue Jahr mit Klimazonen zu tun? Ich erkläre es Euch mit
+  meinen Bildern aus den Schaugewächshäusern bei Planen un Blomen in Hamburg.
 focusKeyword: Klimazonen
 labels:
   - Ausflug
@@ -25,12 +24,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13625"
+image: /img/demo.jpg
+errors: []
 subTitle: Schaugewächshäuser bei Planten un Blomen
+  
 ---
 
 ![Klimazonen](http://cardamonchai.com/wp-content/uploads/2016/01/23738835919_9011258744_z-640x427.jpg)
 
-<strong>
+**Was das neue Jahr mit Klimazonen zu tun hat? Ich erkläre es Euch.**
 
 Ein frohes, gesundes und glückliches neues Jahr wünsche ich Euch allen! Ich
 drücke Euch die Daumen, dass 2016 alles so läuft, wie Ihr es Euch vorstellt!
@@ -71,12 +73,12 @@ Planten un Blomen.
 
 ## Wegweiser Planten un Blomen
 
-<ol>
-    <li> [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/) <a href="/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/">
-</a></li>
-    <li>Ein Rundgang durch die Klimazonen (Januar 2016)</li>
-    <li> [Blütenmeer im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/) </li>
-    <li> [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/) </li>
-    <li> [1. Mai bei Planten un Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/) </li>
-    <li> [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/) </li>
-</ol>
+1.  [Planten un Blomen - Hamburgs grüner Fluss (Juni 2015)](/2015/06/planten-un-blomen/)
+    [](/2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/)
+1.  Ein Rundgang durch die Klimazonen (Januar 2016)
+1.  [Blütenmeer im Winter (Januar 2016)](/2016/01/bluetenpracht-im-winter/)
+1.  [Möwen auf der Brücke (Januar 2016)](/2016/01/moewen-auf-der-bruecke/)
+1.  [1. Mai bei Planten un Blomen (Mai 2016)](/2016/05/1-mai-bei-planten-un-blomen/)
+1.  [Weihnachten bei Planten un Blomen (Dezember 2017)](/2017/12/weihnachten-bei-planten-un-blomen/)
+
+  

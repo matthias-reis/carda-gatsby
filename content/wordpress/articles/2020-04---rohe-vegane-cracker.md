@@ -16,7 +16,12 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28915"
+image: /img/demo.jpg
+errors: []
 subTitle: Aho im Test
+  
 ---
 
 [glry name="aho"]
+
+  

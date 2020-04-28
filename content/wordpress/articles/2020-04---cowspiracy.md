@@ -4,12 +4,12 @@ seoTitle: Cowspiracy - eine ganz besondere vegane Doku
 slug: cowspiracy-vegane-doku
 link: /2020/04/cowspiracy-vegane-doku/
 fileName: 2020-04---cowspiracy.md
-description:
-  Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer Bewegung
-  geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme seiner Art.
-excerpt:
-  Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer Bewegung
-  geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme seiner Art.
+description: Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer
+  Bewegung geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme
+  seiner Art.
+excerpt: Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer
+  Bewegung geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme
+  seiner Art.
 focusKeyword: vegane Doku
 labels:
   - Bücher & Filme
@@ -24,12 +24,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28889"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine vegane Doku
+  
 ---
 
-<strong>Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer Bewegung
-geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme seiner
-Art.</strong>
+**Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer Bewegung
+geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme seiner Art.**
 
 Filmemacher Kip Andersen deckt in Spielfilmlänge die zerstörerischste Industrie
 auf, die der Erde unserer Umwelt und uns gegenübersteht. Unter anderem
@@ -82,3 +84,5 @@ Movement A.U.M.
 <iframe src="https://www.youtube.com/embed/nV04zyfLyN4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 [Homepage Cowspiracy](https://www.cowspiracy.com/)
+
+  

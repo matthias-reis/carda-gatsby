@@ -4,14 +4,12 @@ seoTitle: Vegane Schoko-Walnuss-Cookies - Rezept für zwei Bleche
 slug: vegane-schoko-walnuss-cookies
 link: /2019/11/vegane-schoko-walnuss-cookies/
 fileName: 2019-11---vegane-schoko-walnuss-cookies.md
-description:
-  Draußen wird es langsam kühler - Zeit ein paar leckere vegane
+description: Draußen wird es langsam kühler - Zeit ein paar leckere vegane
   Schoko-Walnuss-Cookies zu backen. Mit diesem Rezept gelingen sie auf jeden
   Fall.
-excerpt:
-  Anzeige & Affiliate Links - Draußen wird es langsam kühler - Zeit ein paar
-  leckere vegane Schoko-Walnuss-Cookies zu backen. Mit diesem Rezept gelingen
-  sie auf jeden Fall.
+excerpt: Anzeige & Affiliate Links - Draußen wird es langsam kühler - Zeit ein
+  paar leckere vegane Schoko-Walnuss-Cookies zu backen. Mit diesem Rezept
+  gelingen sie auf jeden Fall.
 focusKeyword: Cookies
 labels:
   - Cookies
@@ -29,14 +27,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26787"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezept mit wenig Süße
+  
 ---
 
-<em>Anzeige &amp; Affiliate Links\*</em>
+_Anzeige &amp; Affiliate Links\*_
 
-<strong>Draußen wird es langsam kühler - Zeit ein paar Cookies zu backen. Die
-süße Küche ist nicht unbedingt Eure Stärke? Meine Schoko-Walnuss-Cookies
-gelingen ganz bestimmt!</strong>
+**Draußen wird es langsam kühler - Zeit ein paar Cookies zu backen. Die süße
+Küche ist nicht unbedingt Eure Stärke? Meine Schoko-Walnuss-Cookies gelingen
+ganz bestimmt!**
 
 Die Zutaten werdet Ihr zum größten Teil zu Hause haben. Für die Herstellung der
 leckeren Kekse braucht Ihr nicht mal eine Küchenwaage. Nur etwas Geduld und
@@ -44,19 +45,18 @@ einen Backofen - schon kann es losgehen.
 
 ## Zutaten für etwa 20 Cookies
 
-<ul>
-    <li>1 Tasse  [Schoko-Drops](http://tidd.ly/b9dd4b7e)  + ein paar für die Deko</li>
-    <li>2 Tassen kernige Haferflocken</li>
-    <li>1 Tasse frisch geschälte  [Walnüsse](/2019/09/hof-windkind-walnuss-baum-adoptieren/) </li>
-    <li>2 Tassen Dinkelmehl</li>
-    <li>1 Beutel (5 g) Vanille</li>
-    <li>2/3 Tasse Rapsöl</li>
-    <li>1 Tasse  [Sojadrink](/2014/12/diy-sojamilch/) </li>
-    <li>1/2 TL Backpulver</li>
-    <li>1 TL Natron</li>
-    <li>1/2 TL Salz</li>
-    <li>1 Tasse Rohrohrzucker</li>
-</ul>
+- 1 Tasse [Schoko-Drops](http://tidd.ly/b9dd4b7e) + ein paar für die Deko
+- 2 Tassen kernige Haferflocken
+- 1 Tasse frisch geschälte
+  [Walnüsse](/2019/09/hof-windkind-walnuss-baum-adoptieren/)
+- 2 Tassen Dinkelmehl
+- 1 Beutel (5 g) Vanille
+- 2/3 Tasse Rapsöl
+- 1 Tasse [Sojadrink](/2014/12/diy-sojamilch/)
+- 1/2 TL Backpulver
+- 1 TL Natron
+- 1/2 TL Salz
+- 1 Tasse Rohrohrzucker
 
 [glry name="cookiesvorher"]
 
@@ -103,17 +103,17 @@ Neben der Kakaomasse enthalten sie 23 Prozent zahnpflegendes Xylit als
 Süßungsmittel sowie Kakaobutter und Sonnenblumen-Lecithine als Emulgator. Als
 Aroma wird natürliche Bourbon Vanille zugesetzt.
 
-<em>\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der
-Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt
+und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
 
 <!-- START ADVERTISER: Xucker DE from awin.com -->
 
 ![null](https://www.awin1.com/cshow.php?s=2269518&v=11793&q=348986&r=632580)
 
-<a href="https://www.awin1.com/cread.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580" target="_blank" rel="noopener nofollow">
-
-</a>
+[](https://www.awin1.com/cread.php?s=2269518&v=11793&q=348986&r=632580)
 
 <!-- END ADVERTISER: Xucker DE from awin.com -->
+
+  

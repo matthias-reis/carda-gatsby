@@ -4,11 +4,9 @@ seoTitle: Die Post hat sich schon längst selbst abgeschafft - Erfahrungsbericht
 slug: die-post-hat-sich-schon-laengst-abgeschafft
 link: /2013/06/die-post-hat-sich-schon-laengst-abgeschafft
 fileName: 2013-06---die-post-hat-sich-schon-laengst-abgeschafft.md
-description:
-  Einen Bericht über die Zustände bei der Post und den dortigen (nicht
-  vorhandenen) Service, habe ich mir bis dato verkniffen.
-excerpt:
-  Einen Bericht über die Zustände bei der Post und den dortigen (nicht
+description: Einen Bericht über die Zustände bei der Post und den dortigen
+  (nicht vorhandenen) Service, habe ich mir bis dato verkniffen.
+excerpt: Einen Bericht über die Zustände bei der Post und den dortigen (nicht
   vorhandenen) Service, habe ich mir bis dato verkniffen.
 focusKeyword: Post
 labels:
@@ -26,11 +24,11 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5596"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues aus der Servicewüste
+  
 ---
-
-<strong>Einen Bericht über die Zustände bei der Post und den dortigen (nicht
-vorhandenen) Service, habe ich mir bis dato verkniffen. </strong>
 
 Nachdem ich gestern etwas gelesen habe, das mir fast die Socken ausgezogen hat
 und es dann nach meinem Erlebnis vom Freitag heute in der nächstgelegenen
@@ -261,3 +259,5 @@ Ich möchte hiermit noch darauf hinweisen, dass mit "Post" in diesem Text alles
 gemeint ist, was mit der Post und DHL in irgendeiner Weise zusammenhängt.
 
 ![Hermes - Flo Comics Florian Fiedler 2011 | full](http://cardamonchai.files.wordpress.com/2013/06/hermes.jpg "Hermes - Flo Comics Florian Fiedler 2011")
+
+  

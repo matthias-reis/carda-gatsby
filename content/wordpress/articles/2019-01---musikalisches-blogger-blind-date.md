@@ -4,12 +4,12 @@ seoTitle: Musikalisches Blogger Blind Date zum neuen Jahr - My Dear Acqaintance
 slug: musikalisches-blogger-blind-date-zum-neuen-jahr
 link: /2019/01/musikalisches-blogger-blind-date-zum-neuen-jahr/
 fileName: 2019-01---musikalisches-blogger-blind-date.md
-description:
-  Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe des Jahres
-  2019! Mein lieber Herr Gesangsverein - das ist eine interessante Nummer!
-excerpt:
-  Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe des Jahres
-  2019! Mein lieber Herr Gesangsverein - das ist eine interessante Nummer!
+description: Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe
+  des Jahres 2019! Mein lieber Herr Gesangsverein - das ist eine interessante
+  Nummer!
+excerpt: Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe des
+  Jahres 2019! Mein lieber Herr Gesangsverein - das ist eine interessante
+  Nummer!
 focusKeyword: blogger blind date
 labels:
   - Bands & Reviews
@@ -20,18 +20,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23156"
+image: /img/demo.jpg
+errors: []
 subTitle: "Mein*e liebe*r Bekannte*r oder: My dear mister singing club"
+  
 ---
 
-<strong>So viele tolle Songvorschläge wurden eingereicht von den
-Teilnehmer\*innen des aktuellen, inzwischen sechsten Blogger Blind Dates. Und
-welcher ist es geworden? Regina Spektors "My Dear Acqaintance".</strong>
+**So viele tolle Songvorschläge wurden eingereicht von den Teilnehmer\*innen des
+aktuellen, inzwischen sechsten Blogger Blind Dates. Und welcher ist es geworden?
+Regina Spektors "My Dear Acqaintance".**
 
 Was kommt dabei heraus, wenn sich eine Gruppe Blogger\*innen verabreden, einen
 Text über ein Lied zu verfassen und ihn gleichzeitig zu veröffentlichen? Diese
 Frage hat sich Björn vom Blog Gartenbaukunst* gestellt und das Gartenblogger
 Blind Date ins Leben gerufen. Das musikalische Blogger Blind Date war geboren.
-Auch dieses Mal sind wieder 10 Blogger*innen [](#1) dabei.
+Auch dieses Mal sind wieder 10 Blogger*innen [<sup>1</sup>](#1) dabei.
 
 ## Blogger Blind Date #6 - Die Songauswahl
 
@@ -73,9 +76,8 @@ oder? Dann lest mal weiter.
 
 ## Gut, das wir uns kennen
 
-<blockquote>My dear acquaintance, it's so good to know you
-For strength of your hand
-That is loving and giving</blockquote>
+> My dear acquaintance, it's so good to know you For strength of your hand That
+> is loving and giving
 
 Gut, dass wir uns begegnet sind. Für Deine Kraft. Lieben und geben. OK? Und wie
 geht es weiter? Insgesamt sehr schmalzig. Aber das passt ja traditionell auch
@@ -83,20 +85,16 @@ sehr gut zu Silvester und Neujahr, oder? Ein schönes Kontrastprogramm zu der
 ganzen Böllerei, den an Herzinfarkt gestorbenen Wildtieren, dem Feinstaub und
 den Verbrennungen durch Fondue-Unfälle.
 
-<blockquote>And a happy new year
-With love overflowing
-With joy in our hearts
-For the blessed new year</blockquote>
+> And a happy new year With love overflowing With joy in our hearts For the
+> blessed new year
 
 Weiter geht es locker flockig, das Glas wird feierlich erhoben. Es wird viel
 Dankbarkeit und Freunde gezeigt, gefeiert und gefiedelt.
 
-<blockquote>Raise your glass and we'll have a cheer
-For us all who are gathered here
-And a happy new year to all that is living
-To all that is gentle, kind, and forgiving
-Raise your glass and we'll have a cheer
-My dear acquaintance, a happy new year...</blockquote>
+> Raise your glass and we'll have a cheer For us all who are gathered here And a
+> happy new year to all that is living To all that is gentle, kind, and
+> forgiving Raise your glass and we'll have a cheer My dear acquaintance, a
+> happy new year...
 
 Und so weiter. Schön oder? OK, das war vielleicht nicht ganz mein Song. Macht
 aber nichts. Zum Abschluss möchte ich dann doch noch ein paar herzliche Worte
@@ -130,15 +128,15 @@ Prost Neujahr!
 
 ## Hier die Teilnehmerliste des musikalischen Blogger Blind Date #6
 
-<ul>
-    <li>Björn  [Gartenbaukunst](https://gartenbaukunst.net/) </li>
-    <li>Johanna  [Garteneuphorie](https://www.garteneuphorie.de/) </li>
-    <li>Anja  [Der kleine Horrorgarten](https://der-kleine-horror-garten.de/) </li>
-    <li>Franziska  [Laubenhausmädchen](https://laubenhausmaedchen.de/) </li>
-    <li>Elisa  [Rienmakaefer](https://rienmakaefer.com/) </li>
-    <li>Sandra  [Beetkultur](https://www.beetkultur.de/) </li>
-    <li>Daniela  [Garteninspektor](https://www.garteninspektor.com/) </li>
-    <li>Carla  [Faun &amp; Farn](https://faunundfarn.de/) </li>
-    <li>Laura und Sebastian  [Naturgartenideen](https://www.naturgartenideen.de/) </li>
-    <li>Anne bloggt cardamonchai</li>
-</ul>
+- Björn [Gartenbaukunst](https://gartenbaukunst.net/)
+- Johanna [Garteneuphorie](https://www.garteneuphorie.de/)
+- Anja [Der kleine Horrorgarten](https://der-kleine-horror-garten.de/)
+- Franziska [Laubenhausmädchen](https://laubenhausmaedchen.de/)
+- Elisa [Rienmakaefer](https://rienmakaefer.com/)
+- Sandra [Beetkultur](https://www.beetkultur.de/)
+- Daniela [Garteninspektor](https://www.garteninspektor.com/)
+- Carla [Faun &amp; Farn](https://faunundfarn.de/)
+- Laura und Sebastian [Naturgartenideen](https://www.naturgartenideen.de/)
+- Anne bloggt cardamonchai
+
+  

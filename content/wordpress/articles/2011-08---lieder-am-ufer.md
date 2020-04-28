@@ -4,12 +4,10 @@ seoTitle: Lieder am Ufer - mal wieder etwas Prosa
 slug: lieder-am-ufer
 link: /2011/08/lieder-am-ufer/
 fileName: 2011-08---lieder-am-ufer.md
-description:
-  Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf halb zwölf.
-  Die Philosophie der Kiesbagger.
-excerpt:
-  Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf halb zwölf.
-  Die Philosophie der Kiesbagger.
+description: Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf
+  halb zwölf. Die Philosophie der Kiesbagger.
+excerpt: Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf halb
+  zwölf. Die Philosophie der Kiesbagger.
 focusKeyword: ""
 labels:
   - Bagger
@@ -45,7 +43,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2334"
+image: /img/demo.jpg
+errors: []
 subTitle: Gedanken in der Sonne
+  
 ---
 
 Lama am Sonntag Limonade und Schokoladenkuchen Segelboote auf halb zwölf Die
@@ -65,8 +66,10 @@ Ergeben plötzlich einen Sinn
 [gallery link="none" size="medium" type="rectangular"
 ids="2339,2336,2335,2334,2325"]
 
-<strong>Musik zum Text:</strong>
+**Musik zum Text:**
 
 Beulah - If We Can Land A Man On The Moon, Then Surely I Can Win Your Heart
 
 [youtube=http://www.youtube.com/watch?v=SZKFyxCB2Is]
+
+  

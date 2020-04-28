@@ -4,12 +4,10 @@ seoTitle: Vegan Junk Food Bar Amsterdam - Kreative vegane Burger und mehr
 slug: vegan-junk-food-bar-amsterdam
 link: /2018/02/vegan-junk-food-bar-amsterdam/
 fileName: 2018-02---vegan-junk-food-bar-amsterdam.md
-description:
-  Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten Burger
-  meines Lebens gegessen. Und ich habe ihn aufgegessen!
-excerpt:
-  Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten Burger
-  meines Lebens gegessen. Und ich habe ihn aufgegessen!
+description: Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den
+  größten Burger meines Lebens gegessen. Und ich habe ihn aufgegessen!
+excerpt: Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten
+  Burger meines Lebens gegessen. Und ich habe ihn aufgegessen!
 focusKeyword: Vegan Junk Food Bar
 labels:
   - Amsterdam
@@ -29,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19879"
+image: /img/demo.jpg
+errors: []
 subTitle: Kreative vegane Burger und mehr
+  
 ---
 
-<strong>Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten
-Burger meines Lebens gegessen. Und ich habe ihn aufgegessen! Er war einfach zu
-lecker, um etwas liegen zu lassen.</strong>
+**Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den größten Burger
+meines Lebens gegessen. Und ich habe ihn aufgegessen! Er war einfach zu lecker,
+um etwas liegen zu lassen.**
 
 ![Vegan Junk Food Bar](http://cardamonchai.com/wp-content/uploads/2018/02/38472303600_7b58c24771_z-300x225.jpg)
 
@@ -66,11 +67,11 @@ ids="19878,19877,19876,19879"]
 
 ## Wegweiser Amsterdam
 
-<ol>
-    <li> [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/) </li>
-    <li> [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/) </li>
-    <li>Vegan Junk Food Bar Amsterdam</li>
-    <li> [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/) </li>
-    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
-    <li> [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/) </li>
-</ol>
+1.  [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/)
+1.  [Stedelijk Museum Amsterdam](/2018/02/stedelijk-museum-amsterdam/)
+1.  Vegan Junk Food Bar Amsterdam
+1.  [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
+1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
+1.  [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
+
+  

@@ -4,12 +4,11 @@ seoTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
 slug: tee-von-ashera-gut-fuer-die-augen
 link: /2018/04/tee-von-ashera-gut-fuer-die-augen/
 fileName: 2018-04---tee-von-ashera-im-test.md
-description:
-  Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die
-  Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
-excerpt:
-  Werbung - Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich
+description: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich
   die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
+excerpt: Werbung - Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte
+  ich die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier
+  erfahren.
 focusKeyword: Tee von Ashéra
 labels:
   - Ashera
@@ -31,18 +30,26 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20558"
+image: /img/demo.jpg
+errors: []
 subTitle: Juwel der klaren Augenkraft
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die
+**Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich die
 Gelegenheit. Gerne möchte ich Euch an meinem Fazit teilhaben lassen, daher habe
-ich es hier mal zusammengefasst.</strong>
+ich es hier mal zusammengefasst.**
 
 ![Tee von Ashéra](http://cardamonchai.com/wp-content/uploads/2018/04/39280301510_058a873b00_z-400x267.jpg)
 
-. Sie war von unserem Gespräch und meinen Artikeln hier im Blog so begeistert,
+Vor Kurzem hatte ich die Gelegenheit, die
+[ganzheitliche Kosmetik von Ashéra](/2018/01/ashera-yin-yang-balance/) zu
+testen. Ich wende sie nach wie vor an und mag sie wirklich gerne. Anschließend
+kam es dann zum großen
+[Interview mit Gründerin Jacqueline Heimgärtner](/2018/02/ashera-interview/).
+Sie war von unserem Gespräch und meinen Artikeln hier im Blog so begeistert,
 dass sie noch eine Überraschung für mich auf Lager hatte: Völlig überraschend
 erreichte mich ein Teepaket von Ashéra!
 
@@ -59,7 +66,8 @@ könnt Ihr es sehen, toll, oder?  Die enthaltenen Kräuter sollen trockenen Aug
 entgegenwirken und "den harmonischen Fluss des Leber-Chi unterstützen", wie es
 im Brief von Ashéra heißt.
 
-<blockquote>"Trinkt man ihn regelmäßig, können Gifte ausgespült werden und man regeneriert schneller.",</blockquote>
+> "Trinkt man ihn regelmäßig, können Gifte ausgespült werden und man regeneriert
+> schneller.",
 
 ![Tee von Ashéra](http://cardamonchai.com/wp-content/uploads/2018/04/40194925465_d935cc2e6e_z-400x267.jpg)
 
@@ -80,14 +88,18 @@ Augenkraft"! Das gilt, wenn der Kommentar vor dem 31.12.2018 hier gepostet wird.
 ![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
 
 Zum Onlineshop von Ashéra geht es
-[hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F).
+[hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
+.
 
 [gallery type="rectangular" size="medium" link="none"
 ids="20562,20561,20560,20559,20557,20554,20553"]
 
 ![Ashéra Naturkosmetik](https://www.adcell.de/promotion/image/promoId/172492/slotId/80259)
 
-<a href="https://www.adcell.de/promotion/click/promoId/172492/slotId/80259" target="_blank" rel="noopener">
+[](https://www.adcell.de/promotion/click/promoId/172492/slotId/80259)
 
-</a>
-*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

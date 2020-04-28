@@ -4,12 +4,11 @@ seoTitle: Bahnfahren am Wochenende - Es weihnachtet sehr - Achtsamkeit in Zügen
 slug: bahnfahren-am-wochenende-es-weihnachtet-sehr
 link: /2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/
 fileName: 2017-12---bahnfahren-am-wochenende-es-weihnachtet-sehr.md
-description:
-  Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten. Bedankt Euch
-  mal beim Paketboten. Streitet Euch nicht und habt eine schöne Zeit!
-excerpt:
-  Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten. Bedankt Euch
-  mal beim Paketboten. Streitet Euch nicht und habt eine schöne Zeit!
+description: Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten.
+  Bedankt Euch mal beim Paketboten. Streitet Euch nicht und habt eine schöne
+  Zeit!
+excerpt: Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten. Bedankt
+  Euch mal beim Paketboten. Streitet Euch nicht und habt eine schöne Zeit!
 focusKeyword: Bahnfahren
 labels:
   - Achtsamkeit
@@ -28,40 +27,38 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18717"
+image: /img/demo.jpg
+errors: []
 subTitle: Achtsamkeit in Zügen
+  
 ---
 
-<strong>Willkommen im Land der Dichter und Denker.</strong> <strong> Bahn fahren
-am Wochenende.</strong> <strong> Piktogramme und wackliges WLAN.</strong>
+**Willkommen im Land der Dichter und Denker.** **Bahn fahren am Wochenende.**
+**Piktogramme und wackliges WLAN.**
 
-<strong>Menschen am Rande des Irrsinns.</strong> <strong> Schieben sich
-gegenseitig aus dem Weg.</strong> <strong>Lassen sich keinen Platz und nehmen
-sich damit nur selbst den Raum.</strong> <strong> Raum sich zu
-entfalten.</strong>
+**Menschen am Rande des Irrsinns.** **Schieben sich gegenseitig aus dem Weg.**
+**Lassen sich keinen Platz und nehmen sich damit nur selbst den Raum.** **Raum
+sich zu entfalten.**
 
-<strong>Schmatzen.</strong> <strong> Schnaufen.</strong> <strong>
-Stöhnen.</strong> <strong> Verdrehen die Augen.</strong> <strong> Rümpfen die
-Nase.</strong>
+**Schmatzen.** **Schnaufen.** **Stöhnen.** **Verdrehen die Augen.** **Rümpfen
+die Nase.**
 
-<strong>Von Wien bis nach Altona.</strong> <strong> Der Zug verkehrt heute in
-umgekehrter Wagenreihenfolge.</strong> <strong>Leider nur mit der Hälfte der
-Waggons.</strong> <strong> Rücken Sie zusammen.</strong> <strong> Machen Sie
-Platz.</strong> <strong> Jemand ein Heißgetränk?</strong>
+**Von Wien bis nach Altona.** **Der Zug verkehrt heute in umgekehrter
+Wagenreihenfolge.** **Leider nur mit der Hälfte der Waggons.** **Rücken Sie
+zusammen.** **Machen Sie Platz.** **Jemand ein Heißgetränk?**
 
-<strong>Wir schwingen uns mit Lianen zwischen den Wipfeln herum.</strong>
-<strong> Versuchen uns dabei weitestgehend aus dem Weg zu gehen und prallen mit
-den Köpfen aufeinander.</strong> <strong>Im Bordmagazin ein völlig unsinniges
-Interview.</strong> <strong> Nebenan ein Leberwurstbrot.</strong>
+**Wir schwingen uns mit Lianen zwischen den Wipfeln herum.** **Versuchen uns
+dabei weitestgehend aus dem Weg zu gehen und prallen mit den Köpfen
+aufeinander.** **Im Bordmagazin ein völlig unsinniges Interview.** **Nebenan ein
+Leberwurstbrot.**
 
-<strong>Einer schreit seine Frau an.</strong> <strong> Und kippt dabei seine
-Bierdose um.</strong> <strong> Das Restaurant bleibt heute geschlossen.</strong>
-<strong> Genau wie die Toilette am Bahnhof von Freitag Abend bis Montag
-Früh.</strong>
+**Einer schreit seine Frau an.** **Und kippt dabei seine Bierdose um.** **Das
+Restaurant bleibt heute geschlossen.** **Genau wie die Toilette am Bahnhof von
+Freitag Abend bis Montag Früh.**
 
-<strong>Der Sitz ist bequem.</strong> <strong> Ob sich der Koffer, der darauf
-untergebracht wurde, das auch denkt?</strong> <strong> Unsere Weiterfahrt
-verzögert sich auf unbestimmte Zeit.</strong> <strong> Der Grund ist eine
-Signalstörung.</strong>
+**Der Sitz ist bequem.** **Ob sich der Koffer, der darauf untergebracht wurde,
+das auch denkt?** **Unsere Weiterfahrt verzögert sich auf unbestimmte Zeit.**
+**Der Grund ist eine Signalstörung.**
 
 Bitte achtet auf Euch, wenn Ihr Euch am Wochenende auf den Weg zu Euren Lieben
 macht. Lasst Euch nicht stressen und nehmt Euch Zeit. Behandelt Euch gegenseitig
@@ -76,3 +73,5 @@ und den Jahreswechsel alleine verbringen.
 
 In diesem Sinne wünsche ich Euch besinnliche, ruhige Feiertage. Viel gute Laune,
 tiefsinnige Gespräche und frische Luft um die Nase.
+
+  

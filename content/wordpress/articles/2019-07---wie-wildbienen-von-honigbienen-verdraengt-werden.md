@@ -4,11 +4,9 @@ seoTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen
 slug: wie-wildbienen-von-honigbienen-verdraengt-werden
 link: /2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/
 fileName: 2019-07---wie-wildbienen-von-honigbienen-verdraengt-werden.md
-description:
-  Dass die Bienen sterben wissen wir - doch welche Bienen sind eigentlich
-  gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
-excerpt:
-  Dass die Bienen sterben wissen wir - doch welche Bienen sind eigentlich
+description: Dass die Bienen sterben wissen wir - doch welche Bienen sind
+  eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
+excerpt: Dass die Bienen sterben wissen wir - doch welche Bienen sind eigentlich
   gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
 focusKeyword: Wildbienen
 labels:
@@ -33,12 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25545"
+image: /img/demo.jpg
+errors: []
 subTitle: Artenschutz durch Wissen
+  
 ---
 
-<strong>"Die Bienen sterben" - überall liest man im Moment diesen Satz. Doch
-welche Bienen sind eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist
-der Unterschied?</strong>
+**"Die Bienen sterben" - überall liest man im Moment diesen Satz. Doch welche
+Bienen sind eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist der
+Unterschied?**
 
 Über das weltweite Bienensterben habe ich hier im Blog bereits mehrfach
 berichtet. In zahlreichen Gesprächen in meinem Umfeld sowie diversen
@@ -134,9 +135,9 @@ weniger Pollen brauchen und kleiner sind.
 
 ## Die Wildbienen brauchen Schutz
 
-<strong>Es gilt: Wenn wir uns für die Wildbienen einsetzen, indem wir zum
-Beispiel Bienenhotels aufstellen, helfen wir auch den Honigbienen. Züchten wir
-jedoch Honigbienen, hilft das den Wildbienen leider nicht weiter.</strong>
+**Es gilt: Wenn wir uns für die Wildbienen einsetzen, indem wir zum Beispiel
+Bienenhotels aufstellen, helfen wir auch den Honigbienen. Züchten wir jedoch
+Honigbienen, hilft das den Wildbienen leider nicht weiter.**
 
 ![wildbienen](http://cardamonchai.com/wp-content/uploads/2019/07/biene3-400x301.jpg "Die Hummeln sind eine zu den Echten Bienen gehörende Gattung staatenbildender Insekten")
 
@@ -152,10 +153,16 @@ damit bewusst zu vermitteln, dass es nicht um den Erhalt von Zuchtbienen geht
 und wir wilde Insekten dringend an unserer Seite brauchen, wenn wir weiterhin
 Obst und Gemüse und vor allem ein funktionierendes Ökosystem haben wollen.
 
-<strong>Wichtiger Hinweis:</strong> Wenn Ihr etwas für den Schutz der Wildbienen
-tun wollt und ein Insektenhotel aufstellen möchtet, solltet Ihr nicht irgendeins
-kaufen. Leider sind jede Menge unbrauchbare Modelle auf dem Markt, die den
-Bienen im schlimmsten Fall das Leben kosten können.
+**Wichtiger Hinweis:** Wenn Ihr etwas für den Schutz der Wildbienen tun wollt
+und ein Insektenhotel aufstellen möchtet, solltet Ihr nicht irgendeins kaufen.
+Leider sind jede Menge unbrauchbare Modelle auf dem Markt, die den Bienen im
+schlimmsten Fall das Leben kosten können.
 [Tipps für das richtige Insektenhotel (Inklusive DIY-Hinweise) findet Ihr auch hier im Blog](/2019/05/insektenhotel-bienen-auf-dem-balkon/).
 
-Quellen: [NABU Schleswig-Holstein](https://amzn.to/2YxZls4)
+Quellen:
+[Wildbienenschutz - von der Wissenschaft zur Praxis](https://amzn.to/2YxZls4),
+"[The Honey Industry Explained In 5 Minutes](https://youtu.be/AvV_vGFJa6s)" ,
+"[More Than Honey](http://www.morethanhoney.ch/)" ,
+[NABU Schleswig-Holstein](https://schleswig-holstein.nabu.de/tiere-und-pflanzen/insekten/wespen/19172.html)
+
+  

@@ -4,12 +4,11 @@ seoTitle: 12 Songs für den April - frisch selektiert
 slug: 12-songs-fuer-den-april
 link: /2020/03/12-songs-fuer-den-april/
 fileName: 2020-03---12-songs-fuer-den-april.md
-description:
-  Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so viel
-  wie möglich Musik zu konsumieren. Hier kommen unsere Platten des Monats.
-excerpt:
-  Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so viel
-  wie möglich Musik zu konsumieren. Hier kommen unsere Platten des Monats.
+description: Im Moment ist alles anders. Das soll uns aber nicht davon abhalten,
+  so viel wie möglich Musik zu konsumieren. Hier kommen unsere Platten des
+  Monats.
+excerpt: Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so
+  viel wie möglich Musik zu konsumieren. Hier kommen unsere Platten des Monats.
 focusKeyword: Playlist
 labels:
   - Amanda Palmer
@@ -45,13 +44,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28700"
+image: /img/demo.jpg
+errors: []
 subTitle: Frisch selektiert von den drei von der Bande
+  
 ---
 
-<strong>Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so
-viel wie möglich Musik zu konsumieren und unsere Lieblingskünstler⋆innen mit dem
-ein oder anderen Plattenkauf auch in diesen harten Zeiten zu unterstützen, wenn
-wir schon keine Konzerte besuchen können.</strong>
+**Im Moment ist alles anders. Das soll uns aber nicht davon abhalten, so viel
+wie möglich Musik zu konsumieren und unsere Lieblingskünstler⋆innen mit dem ein
+oder anderen Plattenkauf auch in diesen harten Zeiten zu unterstützen, wenn wir
+schon keine Konzerte besuchen können.**
 
 Wir haben uns wieder besonders viel Mühe gegeben, eine vielseitige Musikliste
 für Euch zusammenzustellen. Weiter unten findet Ihr dieses Mal nicht nur die
@@ -218,3 +220,5 @@ Video.
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-03-25-die-drei-von-der-bande/pl.u-kMmLUv3dBdD" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
 ![playlist | large](http://cardamonchai.com/wp-content/uploads/2020/03/12-songs-pin-520x780.png)
+
+  

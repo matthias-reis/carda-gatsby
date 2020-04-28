@@ -4,13 +4,11 @@ seoTitle: Weltkatzentag - Tagebucheintrag bei 13 Grad im Schatten
 slug: weltkatzentag
 link: /2012/08/weltkatzentag/
 fileName: 2012-08---weltkatzentag.md
-description:
-  Eigentlich waren für heute über 30 Grad angesagt, inzwischen sind wir immerhin
-  schon bei 13 Grad angelangt - Weltkatzentag
-excerpt:
-  Eigentlich waren für heute über 30 Grad angesagt, inzwischen sind wir immerhin
-  schon bei 13 Grad angelangt. Ob das daran liegt, dass ich plane heute Abend an
-  den See zu gehen, ist nicht auszuschließen.
+description: Eigentlich waren für heute über 30 Grad angesagt, inzwischen sind
+  wir immerhin schon bei 13 Grad angelangt - Weltkatzentag
+excerpt: Eigentlich waren für heute über 30 Grad angesagt, inzwischen sind wir
+  immerhin schon bei 13 Grad angelangt. Ob das daran liegt, dass ich plane heute
+  Abend an den See zu gehen, ist nicht auszuschließen.
 focusKeyword: Weltkatzentag
 labels:
   - Blumentopf
@@ -43,12 +41,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3762"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
-
-<strong>Eigentlich waren für heute über 30 Grad angesagt, inzwischen sind wir
-immerhin schon bei 13 Grad angelangt. Ob das daran liegt, dass ich plane heute
-Abend an den See zu gehen, ist nicht auszuschließen.</strong>
 
 Vielleicht ist es bis dahin ja auch richtig schön. Oder es fängt an zu schneien.
 
@@ -80,7 +77,9 @@ Baum. Oder gar kein Beitrag, oder zwei.
 Recht herzlichen Dank für die Aufmerksamkeit, allen, die bis hier hin gelesen
 haben. Und allen Anderen auch.
 
-<strong>Hier kommt das Lied des Tages: NINE INCH NAILS live@ Woodstock 1994
--Terrible Lie</strong>
+**Hier kommt das Lied des Tages: NINE INCH NAILS live@ Woodstock 1994 -Terrible
+Lie**
 
 [youtube=http://www.youtube.com/watch?v=G-8VM9WLZmk&amp;list=PL7FCFCC210D46FDFF&amp;index=2&amp;feature=plpp_video]
+
+  

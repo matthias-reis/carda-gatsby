@@ -4,11 +4,9 @@ seoTitle: 12 Songs für den September - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-september
 link: /2019/08/12-songs-fuer-den-september/
 fileName: 2019-08---12-songs-fuer-den-september-2019.md
-description:
-  Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
+description: Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
   musikalischen Glücksmeldungen nicht ab - 12 Songs für Euch.
-excerpt:
-  Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
+excerpt: Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
   musikalischen Glücksmeldungen nicht ab - 12 Songs für Euch.
 focusKeyword: 12 Songs
 labels:
@@ -43,12 +41,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25825"
+image: /img/demo.jpg
+errors: []
 subTitle: Präsentiert von den drei von der Bande
+  
 ---
 
-<strong>Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
+**Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
 musikalischen Glücksmeldungen nicht ab. Eine wunderbare Platte nach der anderen
-wird veröffentlicht.</strong>
+wird veröffentlicht.**
 
 Insgesamt haben wir diesen Monat eine irre Liste zusammengetragen. Für Euch
 haben wir das Exzerpt aus 12 Songs herausgefiltert. Jeder von uns dreien hat
@@ -178,3 +179,5 @@ Soundtrack."
 <iframe src="https://open.spotify.com/embed/playlist/4t6teMeF1I5dTDWBxov5pl" width="300" height="380" frameborder="0"></iframe>
 
 ![12-songs-september-pinterest | large](http://cardamonchai.com/wp-content/uploads/2019/08/122-520x780.png)
+
+  

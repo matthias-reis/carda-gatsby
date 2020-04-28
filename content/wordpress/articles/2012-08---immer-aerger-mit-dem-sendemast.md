@@ -5,9 +5,8 @@ slug: immer-aerger-mit-dem-sendemast
 link: /2012/08/immer-aerger-mit-dem-sendemast/
 fileName: 2012-08---immer-aerger-mit-dem-sendemast.md
 description: ""
-excerpt:
-  Heute lasse ich Euch mal an meinem Alltagsfrust teilnehmen. Ihr dürft eine
-  höchstprivate, topaktuelle E-Mail lesen, die ich heute an ein paar meiner
+excerpt: Heute lasse ich Euch mal an meinem Alltagsfrust teilnehmen. Ihr dürft
+  eine höchstprivate, topaktuelle E-Mail lesen, die ich heute an ein paar meiner
   besten Freundinnen geschickt habe.
 focusKeyword: ""
 labels:
@@ -58,13 +57,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5020"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (44:11)"
 subTitle: Von Warteschleifen und Wutanfällen
+  
 ---
 
-<strong>Heute lasse ich Euch mal an meinem Alltagsfrust teilnehmen. Ihr dürft
-eine höchstprivate, topaktuelle E-Mail lesen, die ich heute an ein paar meiner
-besten Freundinnen geschickt habe.</strong><blockquote>Hallo meine Teuersten!
+## unknown: Expected corresponding JSX closing tag for <p> (44:11)
 
+<!--
 Erstmal zu meiner Verteidigung: Ich weiß, ich mache Euch verrückt, aber das tun
 die Mobilfunkanbieter auch mit mir. Ich habe nun 3 Wochen lang krampfhaft
 versucht, wieder zu Congstar zu wechseln (Deshalb hatte ich Euch ja vor Kurzem
@@ -94,25 +97,25 @@ Ich bin also bis auf Weiteres wieder unter der 01xxxxxxxxxx erreichbar, da mich
 1&amp;1 (sicherlich aus Gründen) auch nach 3maliger Kündigung plus
 Anwaltsschreiben (Alles per eingeschriebenem Einschreiben) nicht aus ihrem
 Vertrag lassen. Sie schwören nach wie vor Stein und Bein, niemals auch nur
-<strong>einen</strong> Brief von mir erhalten zu haben. Geschweige denn ein
-böses Schreiben oder gar die beglaubigten Belege über die Auslieferung der
-Einschreiben bei 1&amp;1. Von den nicht mehr zählbaren Telefonaten mit 1&amp;1,
-bei denen ich von einem Spezialisten zum nächsten verbunden wurde, die nicht
-selten mitten im Gespräch einfach auflegten, möchte ich hier gar nicht mehr
-anfangen, ich habe Euch schon oft genug damit die Ohren vollgeheult. Ich werde
-auf jeden Fall weiter am Ball bleiben, auch wenn ich eigentlich schon am Ende
-meiner Kräfte (und meiner Nerven) bin und gebe Euch umgehend Bescheid, sobald
-ich wieder eine neue Nummer habe. Derzeit verspüre ich allerdings die dunkle
-Vorahnung, dass das noch eine Weile dauern wird. Naja, wenigstens könnt Ihr mich
-jetzt wieder erreichen. Ich hoffe auf Euer Verständnis. Drückt mir die Daumen
-und stay tuned!
+**einen** Brief von mir erhalten zu haben. Geschweige denn ein böses Schreiben
+oder gar die beglaubigten Belege über die Auslieferung der Einschreiben bei
+1&amp;1. Von den nicht mehr zählbaren Telefonaten mit 1&amp;1, bei denen ich von
+einem Spezialisten zum nächsten verbunden wurde, die nicht selten mitten im
+Gespräch einfach auflegten, möchte ich hier gar nicht mehr anfangen, ich habe
+Euch schon oft genug damit die Ohren vollgeheult. Ich werde auf jeden Fall
+weiter am Ball bleiben, auch wenn ich eigentlich schon am Ende meiner Kräfte
+(und meiner Nerven) bin und gebe Euch umgehend Bescheid, sobald ich wieder eine
+neue Nummer habe. Derzeit verspüre ich allerdings die dunkle Vorahnung, dass das
+noch eine Weile dauern wird. Naja, wenigstens könnt Ihr mich jetzt wieder
+erreichen. Ich hoffe auf Euer Verständnis. Drückt mir die Daumen und stay tuned!
 
 Küsse an alle
 
-Anne</blockquote><strong>Nachtrag vom 9.10.2012:</strong>
+Anne</blockquote> **Nachtrag vom 9.10.2012:**
 
-Die Twitterin [taytomFFM](https://twitter.com/taytomFFM) </strong>hat mich
-soeben dazu inspiriert, an dieser Stelle einen Nachtrag zu schreiben.
+Die Twitterin [@](https://twitter.com/taytomFFM) **
+[taytomFFM](https://twitter.com/taytomFFM) ** hat mich soeben dazu inspiriert,
+an dieser Stelle einen Nachtrag zu schreiben.
 
 Inzwischen habe ich herausgefunden, dass eine Kündigung bei 1&amp;1 nur online
 funktioniert. Ich habe das von einer ehemaligen 1&amp;1-Mitarbeiterin erfahren,
@@ -146,4 +149,8 @@ April, aber man kann ja schließlich nicht alles haben.).
 Ich wünsche allen, die noch mit diesem Verein zu tun haben viel Glück. Haltet
 durch!
 
-[](/2012/10/immer-arger-mit-dem-sendemast-2/)
+[_ **Weiterlesen...** _](/2012/10/immer-arger-mit-dem-sendemast-2/)
+
+-->
+
+  

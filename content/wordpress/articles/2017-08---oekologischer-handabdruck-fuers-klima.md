@@ -4,13 +4,11 @@ seoTitle: Ökologischer Handabdruck fürs Klima - Optimismus und Nachhaltigkeit
 slug: oekologischer-handabdruck
 link: /2017/08/oekologischer-handabdruck/
 fileName: 2017-08---oekologischer-handabdruck-fuers-klima.md
-description:
-  Wissenschaftler basteln gerade am Konzept zum ökologischen Handabdruck. Er
-  soll anders als der Fußabdruck auch die ökonomische und soziale Seite
-  abbilden.
-excerpt:
-  Wissenschaftler basteln gerade am Konzept zum ökologischen Handabdruck. Er
-  soll anders als der Fußabdruck auch die ökonomische und soziale Seite
+description: Wissenschaftler basteln gerade am Konzept zum ökologischen
+  Handabdruck. Er soll anders als der Fußabdruck auch die ökonomische und
+  soziale Seite abbilden.
+excerpt: Wissenschaftler basteln gerade am Konzept zum ökologischen Handabdruck.
+  Er soll anders als der Fußabdruck auch die ökonomische und soziale Seite
   abbilden.
 focusKeyword: ökologischer Handabdruck
 labels:
@@ -31,12 +29,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17659"
+image: /img/demo.jpg
+errors: []
 subTitle: Mit Optimismus in Richtung Nachhaltigkeit
+  
 ---
 
-<strong>Neben dem ökologischen Fußabdruck gibt es inzwischen auch einen
-ökologischen Handabdruck. Wissenschaftler verschiedener Universitäten arbeiten
-an diesem Projekt.</strong>
+**Neben dem ökologischen Fußabdruck gibt es inzwischen auch einen ökologischen
+Handabdruck. Wissenschaftler verschiedener Universitäten arbeiten an diesem
+Projekt.**
 
 Für den [ökologischen Fußabdruck](/2017/02/klimaschutz-und-vegane-ernaehrung/)
 wird der Ressourcenverbrauch für eine Person, einen Haushalt oder ein Produkt in
@@ -89,3 +90,5 @@ Artwork und Logo: [Annette Jakobs](http://www.annettejacobs.com)
 
 [gallery columns="2" link="none" size="large" type="rectangular"
 ids="17657,17658"]
+
+  

@@ -1,16 +1,14 @@
 ---
 title: Bald kommt das neue Tool Album
-seoTitle:
-  Bald kommt das neue Tool Album "Fear Inoculum" - hier ist die erste Single
+seoTitle: Bald kommt das neue Tool Album "Fear Inoculum" - hier ist die erste Single
 slug: bald-kommt-das-neue-tool-album
 link: /2019/08/bald-kommt-das-neue-tool-album/
 fileName: 2019-08---bald-kommt-das-neue-tool-album.md
-description:
-  Es ist soweit! Tool haben für den 30. August nach 13 Jahren ihre neue Platte
-  "Fear Inoculum" angekündigt. Die erste Vorauskopplung ist schon da!
-excerpt:
-  Es ist soweit! Tool haben für den 30. August nach 13 Jahren ihre neue Platte
-  "Fear Inoculum" angekündigt. Die erste Vorauskopplung ist schon da!
+description: Es ist soweit! Tool haben für den 30. August nach 13 Jahren ihre
+  neue Platte "Fear Inoculum" angekündigt. Die erste Vorauskopplung ist schon
+  da!
+excerpt: Es ist soweit! Tool haben für den 30. August nach 13 Jahren ihre neue
+  Platte "Fear Inoculum" angekündigt. Die erste Vorauskopplung ist schon da!
 focusKeyword: Tool Album
 labels:
   - abundance
@@ -27,12 +25,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25722"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Fear Inoculum" ist die Vorauskopplung'
+  
 ---
 
-<strong>Es ist soweit! Tool haben für den 30. August nach 13 Jahren endlich eine
-neue Platte angekündigt. Die erste Vorauskopplung ist schon da und mit ihr die
-nächste Sensation: Sie kann online angehört werden!</strong>
+**Es ist soweit! Tool haben für den 30. August nach 13 Jahren endlich eine neue
+Platte angekündigt. Die erste Vorauskopplung ist schon da und mit ihr die
+nächste Sensation: Sie kann online angehört werden!**
 
 13 lange Jahre haben wir Tool Fans auf ein neues Album gewartet. Immer wieder
 gab es Gerüchte, die teilweise von der Band selbst gestreut worden waren - immer
@@ -100,4 +101,6 @@ Ausgabe vorbestellen.
 
 <iframe src="https://www.youtube.com/embed/q7DfQMPmJRI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<strong>Music &amp; Artwork:</strong> [Tool](https://toolband.com/)
+**Music &amp; Artwork:** [Tool](https://toolband.com/)
+
+  

@@ -4,13 +4,12 @@ seoTitle: Yoga mit dem Feetup Trainer - mein Perspektivwechsel
 slug: yoga-mit-dem-feetup-trainer
 link: /2020/02/yoga-mit-dem-feetup-trainer/
 fileName: 2020-02---yoga-mit-dem-feetup-trainer.md
-description:
-  Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für mich
-  völlig neue Asanas. Vertraute Übungen wie der Sonnengruß wurden spannender.
-excerpt:
-  Werbung - Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige
-  für mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß sind damit
-  anspruchsvoller und interessanter geworden
+description: Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige
+  für mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß wurden
+  spannender.
+excerpt: Werbung - Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga
+  einige für mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß sind
+  damit anspruchsvoller und interessanter geworden
 focusKeyword: Feetup
 labels:
   - Asana
@@ -37,14 +36,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27428"
+image: /img/demo.jpg
+errors: []
 subTitle: Mein Perspektivwechsel
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für
-mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß sind damit
-anspruchsvoller und interessanter geworden.</strong>
+**Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige für mich
+völlig neue Asanas. Vertraute Übungen wie der Sonnengruß sind damit
+anspruchsvoller und interessanter geworden.**
 
 Yoga ist für mich etwas ganz Besonderes. Es bereichert mein Leben und ich möchte
 nicht mehr darauf verzichten. Ich kann mich dabei entspannen und gleichzeitig
@@ -182,15 +184,17 @@ Wenn Ihr neugierig geworden seid und gerne mehr erfahren möchtet, schaut Ihr am
 besten auf der [Feetup Homepage](https://de.feetup.eu/) vorbei. Dort findet Ihr
 jede Menge weitere interessante Tipps und Infos.
 
-<strong>Leser⋆innen meines Blogs erhalten bis Ende März 2020 beim Kauf eines
-Feetup Trainers 10 Euro Rabatt. Gebt dazu einfach den folgenden Rabattcode
-an: feetup8393.</strong>
+**Leser⋆innen meines Blogs erhalten bis Ende März 2020 beim Kauf eines Feetup
+Trainers 10 Euro Rabatt. Gebt dazu einfach den folgenden Rabattcode
+an: feetup8393.**
 
 Hat Euch mein Testbericht gefallen? Das freut mich sehr! Wenn Ihr gerne weiter
 mitfiebern wollt, [abonniert am besten meinen Newsletter](#newsletter). Ich
 halte Euch über neue Beiträge auf dem Laufenden!
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenfrei
-zur Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
+_\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenfrei zur
+Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
-meiner  [Transparenz-Seite](/werbung/). </em>
+meiner  [Transparenz-Seite](/werbung/). _
+
+  

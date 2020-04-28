@@ -4,13 +4,11 @@ seoTitle: Wismar am Sonntag - Stadtbesichtigung mit Hafenfest
 slug: wismar-am-sonntag
 link: /2018/06/wismar-am-sonntag/
 fileName: 2018-06---wismar-am-sonntag.md
-description:
-  Was mir in Wismar gleich als allererstes auffällt sind die Rosen. Sie wachsen
-  überall an den Häuserwänden und blühen im schönen Rot und Pink.
-excerpt:
-  Was mir in Wismar gleich als allererstes auffällt sind die Rosen. Sie wachsen
-  überall an den Häuserwänden und blühen im schönen Rot und Pink. Weiter geht es
-  zum Hafenfest
+description: Was mir in Wismar gleich als allererstes auffällt sind die Rosen.
+  Sie wachsen überall an den Häuserwänden und blühen im schönen Rot und Pink.
+excerpt: Was mir in Wismar gleich als allererstes auffällt sind die Rosen. Sie
+  wachsen überall an den Häuserwänden und blühen im schönen Rot und Pink. Weiter
+  geht es zum Hafenfest
 focusKeyword: Wismar
 labels:
   - Ausflug
@@ -30,13 +28,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21262"
+image: /img/demo.jpg
+errors: []
 subTitle: Stadtbesichtigung mit Hafenfest
+  
 ---
 
-<strong>Was mir in Wismar gleich als Allererstes auffällt sind die Rosen. Sie
-wachsen überall an den Häuserwänden und blühen in den schönsten Rot- und
-Pink-Tönen. Außerdem ist alles unglaublich sauber. Man hat das Gefühl, ohne
-Probleme vom Boden essen zu können.</strong>
+**Was mir in Wismar gleich als Allererstes auffällt sind die Rosen. Sie wachsen
+überall an den Häuserwänden und blühen in den schönsten Rot- und Pink-Tönen.
+Außerdem ist alles unglaublich sauber. Man hat das Gefühl, ohne Probleme vom
+Boden essen zu können.**
 
 Gleich als Nächstes stechen mir die Autos ins Auge. Überall stehen geparkte
 Autos. Beim Entwickeln meiner Bilder werden dann später einige davon der
@@ -49,7 +50,11 @@ Wer jetzt glaubt, endlich die Erklärung für die weltberühmte Redewendung "alt
 Schwede" gefunden zu haben: Weit gefehlt. Die Online-Enzyklopädie deckt sich da
 mit dem Herkunftswörterbuch. Hier ein Auszug aus Wikipedia:
 
-<blockquote>"Nach Ende des Dreißigjährigen Krieges ließ Kurfürst Friedrich Wilhelm von Brandenburg bewährte und erfahrene Schwedische Soldaten für sein Heer als Ausbilder anwerben. Weil sie sich besonders gut auf den Drill verstanden, wurden sie meist als Unteroffiziere eingesetzt. In der Soldatensprache wurden diese Korporale dann kurzweg „die alten Schweden“ genannt."</blockquote>
+> "Nach Ende des Dreißigjährigen Krieges ließ Kurfürst Friedrich Wilhelm von
+> Brandenburg bewährte und erfahrene Schwedische Soldaten für sein Heer als
+> Ausbilder anwerben. Weil sie sich besonders gut auf den Drill verstanden,
+> wurden sie meist als Unteroffiziere eingesetzt. In der Soldatensprache wurden
+> diese Korporale dann kurzweg „die alten Schweden“ genannt."
 
 ## Damit wäre das auch geklärt.
 
@@ -80,3 +85,5 @@ Die Fotos zu diesem Artikel sind letzten Sonntag in der schönen Hansestadt
 Wismar entstanden.
 
 [myflickr tag="annewismartatarata201806"]
+
+  

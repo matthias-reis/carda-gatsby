@@ -4,14 +4,12 @@ seoTitle: Liebe Post von Sauberkunst aus Berlin - Poseidon und Rosenstolz
 slug: liebe-post-von-sauberkunst
 link: /2018/06/liebe-post-von-sauberkunst/
 fileName: 2018-06---liebe-post-von-sauberkunst-aus-berlin.md
-description:
-  "Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach Berlin
-  eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon &
-  Rosenstolz"
-excerpt:
-  "Werbung - Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach
+description: "Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach
   Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon
-  & Rosenstolz!"
+  & Rosenstolz"
+excerpt: "Werbung - Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst
+  nach Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt:
+  Poseidon & Rosenstolz!"
 focusKeyword: Sauberkunst
 labels:
   - Badebombe
@@ -51,16 +49,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21114"
+image: /img/demo.jpg
+errors: []
 subTitle: Poseidon und Rosenstolz
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Vor Kurzem war ich zum Bloggerevent von
+**Vor Kurzem war ich zum Bloggerevent von
 [Sauberkunst](/2018/02/unboxing-sauberkunst/) nach Berlin eingeladen. Leider war
 ich an diesem Wochenende schon komplett ausgebucht und konnte nicht kommen. Als
 Trostpflaster haben mich die Lieben mit einem tollen Paket überrascht. Den
-Inhalt möchte ich Euch heute zeigen.</strong>
+Inhalt möchte ich Euch heute zeigen.**
 
 Besonders toll finde ich wie immer die himmlisch duftenden Körperseifen. Ich
 liebe es, damit zu duschen. Ganz ohne Plastik und ganz ohne schlechtes Gewissen.
@@ -93,22 +94,31 @@ anderem Hanf- und Klettenwurzelöl, Brennnesselextrakt, Aloe Vera Gel und Sole.
 
 ![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/06/28366185638_9ea2ad9df3_k-400x300.jpg)
 
-aus. Nicht nur innen, sondern auch außen. Und natürlich sind alle Sachen vegan
-und cruelty free. Aber das muss ich hier ja nicht erwähnen. Ich bin verliebt!
-Und hülle mich in wundervollen Duft. &lt;3
+Und was soll ich sagen: Meiner vom Sport und Schwitzen gereizten Kopfhaut geht
+es wieder gut und meine Haare glänzen! Beim Duschen kann man es einfach über die
+feuchten Haare ziehen und schon schäumt es wie verrückt. Wie alle anderen
+Sauberkunst Produkte kommt es ohne
+[Plastik](/2018/05/mikroplastik-in-der-kosmetik/) aus. Nicht nur innen, sondern
+auch außen. Und natürlich sind alle Sachen vegan und cruelty free. Aber das muss
+ich hier ja nicht erwähnen. Ich bin verliebt! Und hülle mich in wundervollen
+Duft. &lt;3
 
 Jetzt hoffe ich mal schwer, dass ich beim nächsten Sauberkunst Event dabei sein
 kann. Vielen Dank an die Crew für das liebevoll persönlich zusammengestellte
 Päckchen mit dem tollen Inhalt. Ihr seid klasse!
 
 Kennt Ihr schon meinen letzten Sauberkunst Unboxing Artikel? Noch nicht? Dann
-lest mal [Homepage](/2018/02/unboxing-sauberkunst/) stöbern gehen. Viel Spaß!
+lest mal [hier rein](/2018/02/unboxing-sauberkunst/). Wer auch mal schnuppern
+möchte, kann direkt bei Sauberkunst auf [Homepage](http://www.sauberkunst.de)
+stöbern gehen. Viel Spaß!
 
 [gallery type="rectangular" link="none" size="large"
 ids="21118,21119,21117,21116"]
 
 ![Sauberkunst | full](http://cardamonchai.com/wp-content/uploads/2018/06/28366179488_bd2a44ad8a_k.jpg)
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

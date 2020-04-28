@@ -4,12 +4,10 @@ seoTitle: A Summer's Tale 2015 - Bildergalerie
 slug: a-summers-tale-festival-2015
 link: /2015/08/a-summers-tale-festival-2015/
 fileName: 2015-08---a-summers-tale-festival-2015.md
-description:
-  Mit dem A Summer's Tale haben wir in diesem Jahr ein ganz neues Festival
-  ausprobiert. Hier sind meine Bilder für Euch.
-excerpt:
-  Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A Summer's
-  Tale Festival in Luhmühlen.
+description: Mit dem A Summer's Tale haben wir in diesem Jahr ein ganz neues
+  Festival ausprobiert. Hier sind meine Bilder für Euch.
+excerpt: Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A
+  Summer's Tale Festival in Luhmühlen.
 focusKeyword: A Summer's Tale
 labels:
   - A Summer's Tale
@@ -29,15 +27,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12311"
+image: /img/demo.jpg
+errors: []
 subTitle: Bildergalerie und Fazit
+  
 ---
 
 ![Karten für das A Summer's Tale Festival 2015](http://cardamonchai.com/wp-content/uploads/2015/08/17540983524_354fbee986_z-640x640.jpg
 'Karten für das A Summer's Tale Festival 2015')
 
-<strong>Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A
-Summer's Tale Festival in Luhmühlen in der Lüneburger Heide ein neues Festival
-ausprobiert. </strong>
+**Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A Summer's
+Tale Festival in Luhmühlen in der Lüneburger Heide ein neues Festival
+ausprobiert.**
 
 Auch wenn an einigen Dingen noch ein Bisschen gearbeitet werden darf und es uns
 persönlich insgesamt ein Bisschen zu gemütlich dort zuging, hat es uns großen
@@ -48,7 +49,7 @@ Spaß gemacht.
 Auf meinen Bildern unten seht Ihr Alex Clare, Heinz Strunk, Young Rebel Set,
 Belle And Sebastian, Ride, Manuel Möglich, Nils Frevert, Get Well Soon, Hundreds
 und Calexico, die wir in dieser Reihenfolge über vier Tage verteilt live auf dem
-A Summer's Tale [](#1) erleben durften.
+A Summer's Tale [<sup>1</sup>](#1) erleben durften.
 
 Außerdem traten natürlich noch viele weitere Künstler auf, es gab Workshops und
 allerlei interessante Darbietungen und sogar eine Fotoausstellung und einige
@@ -136,4 +137,14 @@ Gepäck. Und mit einem Buch für die Pausen.
 
 [myflickr tag="galerieasummerstale15"]
 
-## Fußnoten<ul><li id="1">[1][](https://www.asummerstale.de/de)
+## A Summer's Tale 2015 Wegweiser1. [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
+
+1.  [Hundreds live @ A Summer's Tale Festival 2015](/2015/08/hundreds-live-a-summers-tale-festival-2015/)
+1.  [Calexico live @ A Summer's Tale Festival 2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
+1.  [Bildergalerie und Fazit A Summer's Tale Festival 2015](/2015/08/a-summers-tale-festival-2015/)##
+    Fußnoten- [1][homepage a summer's tale](https://www.asummerstale.de/de)
+
+- [2][homepage vincent vegan](http://vincent-vegan.com/)
+  [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

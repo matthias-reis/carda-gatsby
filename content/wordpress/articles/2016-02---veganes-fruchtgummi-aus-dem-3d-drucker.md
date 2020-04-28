@@ -4,11 +4,9 @@ seoTitle: Veganes Fruchtgummi aus dem 3D-Drucker - Katjes wird mit Preis geehrt
 slug: veganes-fruchtgummi-aus-dem-3d-drucker
 link: /2016/02/veganes-fruchtgummi-aus-dem-3d-drucker/
 fileName: 2016-02---veganes-fruchtgummi-aus-dem-3d-drucker.md
-description:
-  Die "Magic Candy Factory" von Katjes bietet die Möglichkeit, veganes
-  Fruchtgummi selbst zu gestalten und mit dem 3D-Drucker auszudrucken.
-excerpt:
-  Die "Magic Candy Factory" von Katjes bietet die Möglichkeit, veganes
+description: Die "Magic Candy Factory" von Katjes bietet die Möglichkeit,
+  veganes Fruchtgummi selbst zu gestalten und mit dem 3D-Drucker auszudrucken.
+excerpt: Die "Magic Candy Factory" von Katjes bietet die Möglichkeit, veganes
   Fruchtgummi selbst zu gestalten und mit dem 3D-Drucker auszudrucken.
 focusKeyword: veganes Fruchtgummi
 labels:
@@ -26,13 +24,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29187"
+image: /img/demo.jpg
+errors: []
 subTitle: Katjes wird mit Preis geehrt
+  
 ---
 
-<strong>Im Rahmen der Internationalen Süßwarenmesse in Köln wurde letzte Woche
-auch das innovativste Produkt gekürt. Als Gewinner ging der
-Süßigkeitenhersteller Katjes aus Emmerich hervor, der auf der Messe einen
-3D-Drucker für die Herstellung von Fruchtgummi präsentierte.</strong>
+**Im Rahmen der Internationalen Süßwarenmesse in Köln wurde letzte Woche auch
+das innovativste Produkt gekürt. Als Gewinner ging der Süßigkeitenhersteller
+Katjes aus Emmerich hervor, der auf der Messe einen 3D-Drucker für die
+Herstellung von Fruchtgummi präsentierte.**
 
 Die sogenannte "Magic Candy Factory" bietet die Möglichkeit, selbst völlig neue
 Fruchtgummis zu gestalten und zum Beispiel Namen oder selbst gestaltete Formen
@@ -83,3 +84,5 @@ Mehr Infos über die veganen Süßigkeiten zum Ausdrucken findet Ihr auf der
 [Seite des Herstellers](https://www.katjes.de/news-presse/pressemitteilungen/detail/beginn-einer-suessen-revolution-der-erste-3d-drucker-fuer-fruchtgummis-von-katjes.html).
 
 Bilder: Katjes
+
+  

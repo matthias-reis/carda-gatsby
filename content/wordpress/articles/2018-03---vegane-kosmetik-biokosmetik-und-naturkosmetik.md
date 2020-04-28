@@ -4,13 +4,11 @@ seoTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 slug: vegane-kosmetik-und-naturkosmetik
 link: /2018/03/vegane-kosmetik-und-naturkosmetik/
 fileName: 2018-03---vegane-kosmetik-biokosmetik-und-naturkosmetik.md
-description:
-  Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik, vegane
-  Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die
+description: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik,
+  vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die
   Unterschiede?
-excerpt:
-  Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik, vegane
-  Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die
+excerpt: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik,
+  vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die
   Unterschiede?
 focusKeyword: Vegane Kosmetik
 labels:
@@ -31,14 +29,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20261"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Unterschiede
+  
 ---
 
-<strong>"Du schreibst in Deinem Blog manchmal über Naturkosmetik und manchmal
-über vegane Kosmetik. Ab und zu geht es aber auch um vegane Naturkosmetik. Ich
-finde das ziemlich cool. Aber irgendwie bringt es mich auch ein Bisschen
+**"Du schreibst in Deinem Blog manchmal über Naturkosmetik und manchmal über
+vegane Kosmetik. Ab und zu geht es aber auch um vegane Naturkosmetik. Ich finde
+das ziemlich cool. Aber irgendwie bringt es mich auch ein Bisschen
 durcheinander. Kannst Du mir vielleicht mal erklären, wo da jetzt die
-Unterschiede liegen?"</strong>
+Unterschiede liegen?"**
 
 ![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14149909077_0d3e6f8a10_z-400x267.jpg)
 
@@ -50,9 +51,11 @@ schließlich könnte es Euch ja genauso interessieren.
 
 ## An meine Haut lasse ich nur vegane Kosmetik
 
-[hier](/category/vegan-2/vegan-beauty/)  bei der Shop Apotheke) damit eindecken.
-Man findet sie im Drogeriemarkt, in der Apotheke nebenan und sogar im
-Supermarkt. Überall sind plötzlich Veganlogos und Veganblumen zu sehen.
+[Vegane Kosmetik](/category/vegan-2/vegan-beauty/) wird immer beliebter. Längst
+kann man sich nicht mehr nur über das Internet (z. B.
+[hier](https://www.shop-apotheke.com/vegane-kosmetik/)  bei der Shop Apotheke)
+damit eindecken. Man findet sie im Drogeriemarkt, in der Apotheke nebenan und
+sogar im Supermarkt. Überall sind plötzlich Veganlogos und Veganblumen zu sehen.
 
 ![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14598683580_0f1b452d5a_z-400x300.jpg)
 
@@ -63,7 +66,12 @@ oder Wollwachs zum Einsatz.
 
 Bei "Cera Flava" (Bienenwachs) handelt es sich um die Ausscheidung der
 Honigbienen. Von den
-[Schuppen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/), Federn
+[Bienen](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/) wird es
+zur Produktion der Waben genutzt. Kosmetikhersteller geben es zum Beispiel gerne
+in Coldcreams oder andere reichhaltige Pflegeprodukte. Echtes "Karmin" wird aus
+weiblichen Schildläusen gewonnen, es gibt eine starke rote Farbe ab und wird
+daher gerne zu Färben (Rheumabäder, Mundspülung) verwendet. "Keratin" wird aus
+Horn, Hufen, [Schuppen](/2016/05/pangolin-ein-vergessenes-schuppentier/), Federn
 und Hörnern gewonnen. Es wird für Haarpflegeprodukte verwendet. "Lanolin", auch
 Wollwachs genannt, stammt aus den Talgdrüsen von Schafen und wird für Salben,
 Cremes und Lotionen verwendet.
@@ -90,10 +98,10 @@ sein. Das Siegel COSMOS ORGANIC tragen derzeit nur die Produkte sehr weniger
 Hersteller. Weitere Schattierungen sind "Naturkosmetik" und "Biokosmetik" mit
 vorgeschriebenen Mindestanteilen an Bio-Rohstoffen.
 
-Für vegane Kosmetik gibt es die Blume der <strong>Vegan Society</strong> sowie
-das V-Label des Vebu. Diese Logos sagen jedoch nichts darüber aus, ob es sich um
-Natur- oder Biokosmetik handelt, oder nicht. Vorsicht ist auch geboten bei
-Produkten, auf die der Hersteller selbst das Wort "vegan" aufdrucken lässt.
+Für vegane Kosmetik gibt es die Blume der **Vegan Society** sowie das V-Label
+des Vebu. Diese Logos sagen jedoch nichts darüber aus, ob es sich um Natur- oder
+Biokosmetik handelt, oder nicht. Vorsicht ist auch geboten bei Produkten, auf
+die der Hersteller selbst das Wort "vegan" aufdrucken lässt.
 
 ## Stichwort "Tierversuche"
 
@@ -179,6 +187,12 @@ hängen.
 
 ![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14322709506_7ba2db9861_z-400x267.jpg)
 
+Zum Glück gibt es aber auch einige, die es anders machen, sich bewusst für einen
+Verzicht entschieden haben, ihre Konsumenten aufklären, Tierschutzorganisationen
+im Kampf gegen Tierversuche unterstützen und auf schädliche Inhaltsstoffe
+bewusst verzichten. Wenn es sich dabei um vegane Natur- oder Biokosmetik handelt
+oder "schlicht" um
+[liebevolle vegan hergestellte Kosmetik](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)
 (Was nach meiner Erfahrung manchmal sogar noch viel toller sein kann :-) ),
 macht man nicht viel falsch. Besonders wichtig ist für mich, dass man Produkte
 bewusst verwendet, Tiegel, Tuben und Fläschchen immer komplett leer macht und
@@ -192,3 +206,5 @@ Wer ein paar davon kennenlernen möchte, ist herzlich dazu eingeladen,
 Foto "Blumen in Reagenzgläsern":
 [Rawpixel](https://pixabay.com/de/users/rawpixel-4283981/), Pixabay, Foto
 Reagenzgläser: CC, Pixabay, alle anderen Fotos: ich!
+
+  

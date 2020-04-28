@@ -4,11 +4,10 @@ seoTitle: Flarf - Poesie aus dem Internet spricht alle Sinne an
 slug: flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung
 link: /2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/
 fileName: 2016-03---flarf-ist-inspiration-aus-dem-internet.md
-description:
-  Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von Pipi
-  Langstrumpf. Wie Suchergebnisse die Phantasie anregen können - Ein Gedicht.
-excerpt:
-  Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von Pipi
+description: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von
+  Pipi Langstrumpf. Wie Suchergebnisse die Phantasie anregen können - Ein
+  Gedicht.
+excerpt: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von Pipi
   Langstrumpf. Wie Suchergebnisse die Phantasie anregen können - Ein Gedicht.
 focusKeyword: Flarf
 labels:
@@ -29,13 +28,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14253"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (41:20)"
 subTitle: Poesie der Vernetzung
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (41:20)
+
+<!--
 ![Flarf](http://cardamonchai.com/wp-content/uploads/2016/03/16277877741_01b8d8a4b5_z-640x426.jpg "Flarf regt die Phantasie an")
 
-<strong>Flarf - Kennt Ihr das? Nein, das ist kein Wort, das ich mir eben
-ausgedacht habe und es stammt auch nicht aus der Villa Kunterbunt. </strong>
+**Flarf - Kennt Ihr das? Nein, das ist kein Wort, das ich mir eben ausgedacht
+habe und es stammt auch nicht aus der Villa Kunterbunt.**
 
 Unter einem Flarf-Gedicht versteht man ein Gedicht, welches aus den
 Suchergebnissen einer Suchmaschine entstanden ist. Flarf spricht alle Sinne an.
@@ -94,28 +101,31 @@ trotzdem schön. Unter anderem geht es darin um frittierte Glückseligkeit.
 festgelegt, ich biete Euch Artikel zu den verschiedensten Themen. Findet Ihr das
 sperrig? Oder gefällt es Euch besonders gut? Auch Vorschläge könnt Ihr mir gerne
 jederzeit zukommen lassen! Gerne mache ich z. B. auch ein
-[Schreibt mir](/category/bleistift-2-0/interview/)
-<span style="line-height: 1.5em;"> gerne jederzeit.</span>
+[Interview](/category/bleistift-2-0/interview/) mit Euch, wenn Ihr etwas
+Spannendes zu berichten habt. [Schreibt mir](mailto:info@cardamonchai.com) gerne
+jederzeit.
 
 ## Flarf-Gedichte Wegweiser
 
-<ol>
-    <li>Die Poesie der Vernetzung</li>
-    <li> [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/) </li>
-    <li> [Sonne und Frieden](/2016/03/sonne-und-frieden/) </li>
-    <li> [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/) </li>
-    <li> [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/) </li>
-    <li> [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/) </li>
-    <li> [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/) </li>
-    <li> [Pizza und Backgammon](/2017/01/drei-koenige/) </li>
-    <li> [Liebe Sternschanze](/2017/01/liebe-sternschanze/) </li>
-    <li> [Haters rest in poetry](/2017/02/haters-rest-in-poetry/) </li>
-    <li> [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/) </li>
-    <li> [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/) </li>
-    <li> [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/) </li>
-    <li> [Möwe am Wasser](/2018/01/moewe-am-wasser/) </li>
-    <li> [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/) </li>
-    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
-    <li> [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/) </li>
-    <li> [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/) </li>
-</ol>
+1.  Die Poesie der Vernetzung
+1.  [Straßenlaternen der Welt](/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/)
+1.  [Sonne und Frieden](/2016/03/sonne-und-frieden/)
+1.  [Manieren der Boshaftigkeit](/2016/04/manieren-der-boshaftigkeit/)
+1.  [Das übersetzte Wetter im Spiegel](/2016/05/das-uebersetzte-wetter-im-spiegel/)
+1.  [Die seltsame Stimmung der knalligen Blüten](/2016/10/die-seltsame-stimmung-der-knalligen-blueten/)
+1.  [Elbe schwarz-weiß bunt](/2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/)
+1.  [Pizza und Backgammon](/2017/01/drei-koenige/)
+1.  [Liebe Sternschanze](/2017/01/liebe-sternschanze/)
+1.  [Haters rest in poetry](/2017/02/haters-rest-in-poetry/)
+1.  [Die Sehnsucht der Postmoderne](/2017/02/die-sehnsucht-der-postmoderne/)
+1.  [In den Straßen von St. Pauli](/2017/02/dauerregen-stpauli/)
+1.  [Elblicht](/2018/01/elblicht-flarfgedicht-zum-jahresanfang/)
+1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
+1.  [Jahreszeiten an der Brücke](/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/)
+1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
+1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
+1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
+
+-->
+
+  

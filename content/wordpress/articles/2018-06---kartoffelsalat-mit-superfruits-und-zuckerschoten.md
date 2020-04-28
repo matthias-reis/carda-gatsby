@@ -1,16 +1,15 @@
 ---
 title: Kartoffelsalat mit Superfruits und Zuckerschoten
-seoTitle:
-  Kartoffelsalat mit Superfruits und Zuckerschoten - Rezept für 4 Portionen
+seoTitle: Kartoffelsalat mit Superfruits und Zuckerschoten - Rezept für 4 Portionen
 slug: kartoffelsalat-mit-superfruits-und-zuckerschoten
 link: /2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/
 fileName: 2018-06---kartoffelsalat-mit-superfruits-und-zuckerschoten.md
-description:
-  Sommer bedeutet Picknick. Da ist es gut, wenn man Essen vorbereitet, das man
-  gut mitnehmen kann. Wie wäre es zum Beispiel mit Kartoffelsalat?
-excerpt:
-  Sommer bedeutet Picknick. Da ist es gut, wenn man Essen vorbereitet, das man
-  gut mitnehmen kann. Wie wäre es zum Beispiel mit einem tollen Kartoffelsalat?
+description: Sommer bedeutet Picknick. Da ist es gut, wenn man Essen
+  vorbereitet, das man gut mitnehmen kann. Wie wäre es zum Beispiel mit
+  Kartoffelsalat?
+excerpt: Sommer bedeutet Picknick. Da ist es gut, wenn man Essen vorbereitet,
+  das man gut mitnehmen kann. Wie wäre es zum Beispiel mit einem tollen
+  Kartoffelsalat?
 focusKeyword: Kartoffelsalat
 labels:
   - Acai
@@ -39,13 +38,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21195"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Unterminated JSX contents (40:16)"
 subTitle: Vegan, leicht und lecker
+  
 ---
 
-<strong>Der Sommer ist da und das bedeutet: Picknicks und Abende im Park oder
-auf dem Balkon stehen an. Da ist es gut, wenn man Essen vorbereitet, das man gut
+## unknown: Unterminated JSX contents (40:16)
+
+<!--
+**Der Sommer ist da und das bedeutet: Picknicks und Abende im Park oder auf dem
+Balkon stehen an. Da ist es gut, wenn man Essen vorbereitet, das man gut
 mitnehmen kann. Lecker schmecken sollte es natürlich nach Möglichkeit auch
-noch. </strong>
+noch.**
 
 Wie wäre es zur Feier des Tages zum Beispiel mal mit einem riesigen Pott
 Kartoffelsalat? Einem ganz besonderen Kartoffelsalat? Ich verrate Euch jetzt ein
@@ -57,21 +64,6 @@ Rezept.
 
 <ul>
     <li>
-    <li>250 g Zuckerschoten</li>
-    <li>100 g Dahl-Linsen</li>
-    <li>2 EL Balsamico-Essig</li>
-    <li>1 gehäufter EL Sanddornmarmelade</li>
-    <li>2 TL Senf</li>
-    <li>1 Zitrone</li>
-    <li>Olivenöl</li>
-    <li>Biber (Chiliflocken)</li>
-    <li>Wasser</li>
-    <li>1 - 2 TL Currypulver</li>
-    <li>100 g gemische Superfruits (Goji, Maulbeeren, Acai, Cranberrys)</li>
-    <li>Salz</li>
-    <li>Pfeffer</li>
-    <li>1 EL Sojasauce</li>
-</ul>
 
 ## Zubereitung
 
@@ -103,3 +95,7 @@ Superfruits unter und schmeckt den Salat mit Pfeffer und Salz ab.
 Guten Appetit! &lt;3
 
 ![Kartoffelsalat | full](http://cardamonchai.com/wp-content/uploads/2018/06/40724051130_bce9b9d453_z.jpg)
+
+-->
+
+  

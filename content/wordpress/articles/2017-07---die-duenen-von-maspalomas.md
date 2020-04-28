@@ -4,12 +4,10 @@ seoTitle: Die Dünen von Maspalomas - Ein Streifzug mit der Kamera
 slug: die-duenen-von-maspalomas
 link: /2017/07/die-duenen-von-maspalomas/
 fileName: 2017-07---die-duenen-von-maspalomas.md
-description:
-  Verlässt man die Strandpromenade von Playa del Inglés in Richtung Süden und
-  folgt man dem Strand ein Stück, sieht man die Dünen von Maspalomas.
-excerpt:
-  Verlässt man die Strandpromenade von Playa del Inglés in Richtung Süden und
-  folgt man dem Strand ein Stück, sieht man die Dünen von Maspalomas.
+description: Verlässt man die Strandpromenade von Playa del Inglés in Richtung
+  Süden und folgt man dem Strand ein Stück, sieht man die Dünen von Maspalomas.
+excerpt: Verlässt man die Strandpromenade von Playa del Inglés in Richtung Süden
+  und folgt man dem Strand ein Stück, sieht man die Dünen von Maspalomas.
 focusKeyword: Dünen von Maspalomas
 labels:
   - Dünen von Maspalomas
@@ -25,12 +23,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17213"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Meer aus Sand und über uns die Sonne
+  
 ---
 
 ![Dünen von Maspalomas](http://cardamonchai.com/wp-content/uploads/2017/07/36128628935_5c3c57ed39_z.jpg)
 
-<strong>
+**Verlässt man die Strandpromenade von Playa del Inglés in Richtung Süden und
+folgt dem Strand ein Stück, sieht man schon bald die beeindruckenden Dünen von
+Maspalomas vor sich. Bei unserem Aufenhalt auf Gran Canaria dieses Jahr, haben
+auch wir einen Streifzug durch die Hügellandschaft gewagt.**
 
 Bei strahlendem Sonnenschein und Temperaturen über 3o Grad ging es los. Im
 Rucksack hatten wir Sonnenschutz mit Lichtschutzfaktor 50 und unsere
@@ -66,15 +70,15 @@ Reichweite zu haben.
 
 ## Wegweiser Gran Canaria
 
-<ol>
-    <li> [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/) </li>
-    <li> [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/) </li>
-    <li> [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/) </li>
-    <li> [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/) </li>
-    <li>Die Dünen von Maspalomas</li>
-    <li> [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/) </li>
-    <li> [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/) </li>
-    <li> [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/) </li>
-    <li> [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/) </li>
-    <li> [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/) </li>
-</ol>
+1.  [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/)
+1.  [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/)
+1.  [Zeitgenössische Künstlerinnen Afrikas in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
+1.  [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/)
+1.  Die Dünen von Maspalomas
+1.  [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/)
+1.  [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/)
+1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
+1.  [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/)
+1.  [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/)
+
+  

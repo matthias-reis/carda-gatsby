@@ -4,12 +4,11 @@ seoTitle: Das neue Vinny Peculiar Album - ein Vorgeschmack
 slug: das-neue-vinny-peculiar-album-ein-vorgeschmack
 link: /2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/
 fileName: 2019-09---das-neue-vinny-peculiar-album-ein-vorgeschmack.md
-description:
-  Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr könnt jetzt
-  hier im Blog schon mal reinhören - hier kommen die Vorauskopplungen.
-excerpt:
-  Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr könnt jetzt
-  hier im Blog schon mal reinhören - hier kommen die Vorauskopplungen.
+description: Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr
+  könnt jetzt hier im Blog schon mal reinhören - hier kommen die
+  Vorauskopplungen.
+excerpt: Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr könnt
+  jetzt hier im Blog schon mal reinhören - hier kommen die Vorauskopplungen.
 focusKeyword: Vinny Peculiar
 labels:
   - Bands & Reviews
@@ -29,11 +28,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26171"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Pop Music For Ugly People" und "Vote For Me"'
+  
 ---
 
-<strong>Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr könnt
-jetzt schon mal reinhören.</strong>
+**Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr könnt jetzt
+schon mal reinhören.**
 
 Vinny Peculiar (aka Alan Wilkes) wuchs im britischen Worcestershire auf. Bevor
 der Musiker beim Kultlabel Ugly Man Records (Auch Elbow waren hier mal unter
@@ -48,7 +50,14 @@ wird in Kürze erhältlich sein.
 
 Aus der Pressemeldung geht unter anderem Folgendes hervor:
 
-<blockquote>"Das neue Vinny Peculiar Album 'While You Still Can' ist eine Noisy Hardrock Affäre mit Big Drums, wilden Gitarren-Soli und psychedelischen Pink Floyd Exkursionen. Zugleich ist es eine intensive und unsentimentale Platte - genau wie wir es von Vinny gewohnt sind. Hörbare Einflüsse auf der Scheibe sind Gang Of Four, Talking Heads und der Hard- und Glamrock der 70er Jahre. Lyrische Themen inklusive polititischen Nichtigkeiten, Nachrichten Blackouts, kulturellem Verrat und einem Song über hervorragende Drogen als Form der politischen Erpressung."</blockquote>
+> "Das neue Vinny Peculiar Album 'While You Still Can' ist eine Noisy Hardrock
+> Affäre mit Big Drums, wilden Gitarren-Soli und psychedelischen Pink Floyd
+> Exkursionen. Zugleich ist es eine intensive und unsentimentale Platte - genau
+> wie wir es von Vinny gewohnt sind. Hörbare Einflüsse auf der Scheibe sind Gang
+> Of Four, Talking Heads und der Hard- und Glamrock der 70er Jahre. Lyrische
+> Themen inklusive polititischen Nichtigkeiten, Nachrichten Blackouts,
+> kulturellem Verrat und einem Song über hervorragende Drogen als Form der
+> politischen Erpressung."
 
 Das klingt doch nach mehr, oder? Hier ist schon mal ein kleiner Vorgeschmack für
 Euch: Die Musikvideos der ersten beiden Auskopplungen.
@@ -82,5 +91,7 @@ spannend!
 
 - [Vinny Peculiar Bandcamp](https://vinnypeculiar.bandcamp.com/)
 
-<strong>Picture &amp; artwork:</strong>
+**Picture &amp; artwork:**
 [Vinny Peculiar](https://vinnypeculiar.com/?fbclid=IwAR1F-yhtN3DoZkDLO8P4xjMD3chrQA4sOLjYYIG4a4uEJSxe7QOaY5f_b4k)
+
+  

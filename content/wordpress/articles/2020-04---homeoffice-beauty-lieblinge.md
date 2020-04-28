@@ -4,12 +4,10 @@ seoTitle: Homeoffice Beauty-Lieblinge von Santaverde
 slug: homeoffice-beauty-lieblinge
 link: /2020/04/homeoffice-beauty-lieblinge/
 fileName: 2020-04---homeoffice-beauty-lieblinge.md
-description:
-  Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei habe
-  ich zwei neue Beauty Lieblinge für mich entdeckt.
-excerpt:
-  Werbung - Während der Zeit im Homeoffice verzichte ich komplett auf Make-up.
+description: Während der Zeit im Homeoffice verzichte ich komplett auf Make-up.
   Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt.
+excerpt: Werbung - Während der Zeit im Homeoffice verzichte ich komplett auf
+  Make-up. Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt.
 focusKeyword: Homeoffice
 labels:
   - Aloe Vera
@@ -37,15 +35,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28817"
+image: /img/demo.jpg
+errors: []
 subTitle: Age Protect Fluid und XINGU Age Perfect
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Wisst Ihr, was ich im Moment sehr genieße? Freiheit für die Haut!
-Während der Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei habe
-ich zwei neue Beauty Lieblinge für mich entdeckt, die ich Euch gerne vorstellen
-möchte.</strong>
+**Wisst Ihr, was ich im Moment sehr genieße? Freiheit für die Haut! Während der
+Zeit im Homeoffice verzichte ich komplett auf Make-up. Dabei habe ich zwei neue
+Beauty Lieblinge für mich entdeckt, die ich Euch gerne vorstellen möchte.**
 
 Meine neuen täglichen Begleiter in unseren zwei Zimmern mit Balkon sind die
 XINGU Age Perfect Creme und das Age Protect Fluid (leicht getönte Tagescreme mit
@@ -144,6 +144,8 @@ Natriumlevulinat, pflanzl. Anissäure, pflanzl. Natriumphytat, Galactoarabinan,
 Lavendelöl*, Alumina, Natriumhydroxid, natürliche Pigmente, ätherische Öle. *Aus
 kontrolliert biologischem Anbau</small>
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

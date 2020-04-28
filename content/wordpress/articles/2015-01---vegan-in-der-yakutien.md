@@ -4,12 +4,10 @@ seoTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde
 slug: vegan-in-der-kaelte
 link: /2015/01/vegan-in-der-kaelte/
 fileName: 2015-01---vegan-in-der-yakutien.md
-description:
-  Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in Yakutien
-  bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
-excerpt:
-  Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in Yakutien
-  bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
+description: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in
+  Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
+excerpt: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in
+  Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
 focusKeyword: Yakutien
 labels:
   - der kälteste Ort der Welt
@@ -26,12 +24,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "9401"
+image: /img/demo.jpg
+errors: []
 subTitle: Zu Besuch am kältesten Ort der Erde
+  
 ---
-
-<strong>Wer mich kennt weiß, dass ich gerne unterwegs bin. Aus diesem Grund bin
-ich auch in diversen Reiseforen und -Gruppen Mitglied. Auf einer dieser Seiten
-habe ich Sebastian kennengelernt.</strong>
 
 Sebastian berichtete dort von seiner Reise nach Yakutien (oder auch Jakutien
 oder Sacha genannt/geschrieben –
@@ -43,9 +40,8 @@ erzählte mir von seinem Abenteuer.
 Schon als Kind war ihm klar, dass er eines Tages diese Gegend bereisen würde.
 Von sich selbst sagt er, dass er ein Winterkind ist und ihn die Kälte schon
 immer magisch angezogen hat. Durch sein derzeitiges Studium der Flugmeterologie
-beim <strong>Deutschen Wetterdienst</strong> kommt er viel mit dem Thema Wetter
-in Berührung und weiß alles über meterologische Phänomene wie Eisnebel und
-Windscherungen.
+beim **Deutschen Wetterdienst** kommt er viel mit dem Thema Wetter in Berührung
+und weiß alles über meterologische Phänomene wie Eisnebel und Windscherungen.
 
 ## So fühlen sich -50 Grad Celsius an
 
@@ -55,11 +51,11 @@ Omjakon und spürte das erste Mal in seinem Leben am eigenen Leib, wie sich -50
 Grad Celsius anfühlen.
 
 Zwei Wochen bereiste er Yakutien und Sibirien und lernte Land und Leute kennen.
-Er reist am liebsten mit <strong>Couchsurfing</strong>, da er auf diese Art
-einen direkteren Bezug zu den Menschen und ihrem Alltag aufbauen kann. Strahlend
-berichtet er von der Wärme und Freundlichkeit, mit der ihm die Menschen im
-kältesten Landstrich der Welt begegneten. "Dort weiß man die kleinen Dinge noch
-zu schätzen, es wird einem klar, dass wir in Europa wirklich alles haben."
+Er reist am liebsten mit **Couchsurfing** , da er auf diese Art einen direkteren
+Bezug zu den Menschen und ihrem Alltag aufbauen kann. Strahlend berichtet er von
+der Wärme und Freundlichkeit, mit der ihm die Menschen im kältesten Landstrich
+der Welt begegneten. "Dort weiß man die kleinen Dinge noch zu schätzen, es wird
+einem klar, dass wir in Europa wirklich alles haben."
 
 ## Gemüse und Obst ist in Yakutien kaum bezahlbar
 
@@ -70,7 +66,7 @@ die Dauer seiner Reise auf vegetarisch umstellte. Ein Kilo Kartoffeln kostet
 umgerechnet rund sechs Euro. Einige vegane Produkte hatte er sich zudem von zu
 Hause mitgebracht, außerdem gab es fast immer Reis und Brot.
 
-<blockquote>"Ich habe die Einheimischen Tofu probieren lassen, sie waren begeistert!",</blockquote>
+> "Ich habe die Einheimischen Tofu probieren lassen, sie waren begeistert!",
 
 berichtet Sebastian. "Den Menschen, mit denen ich gerdet habe, war nicht mal
 bekannt, dass es ein russisches Wort für "vegan" gibt, sie können diese
@@ -103,3 +99,5 @@ wochenlang nur von Haferbrei mit Wasser und Äpfeln ernähren muss. Dafür erwar
 einen eine spannende Landschaft, warmherzige Menschen und jede Menge Abenteuer.
 
 [Mein Interview mit Sebastian findet Ihr hier](/2015/01/ich-hatte-noch-nie-heimweh/).
+
+  

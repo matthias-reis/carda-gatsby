@@ -4,12 +4,10 @@ seoTitle: DIY Upcycling Jeansrock - Anleitung
 slug: diy-upcycling-jeansrock
 link: /2015/08/diy-upcycling-jeansrock/
 fileName: 2015-08---diy-upcycling-jeansrock.md
-description:
-  Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock mit wenigen
-  Handgriffen zu einem echten Einzelstück gemacht habe.
-excerpt:
-  Am Wochenende geht es für uns wieder auf's Festival, denn ich habe Karten für
-  das Rock'n'Heim gewonnen.
+description: Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock
+  mit wenigen Handgriffen zu einem echten Einzelstück gemacht habe.
+excerpt: Am Wochenende geht es für uns wieder auf's Festival, denn ich habe
+  Karten für das Rock'n'Heim gewonnen.
 focusKeyword: Upcycling
 labels:
   - aus alt mach neu
@@ -29,20 +27,29 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12372"
+image: /img/demo.jpg
+errors: []
 subTitle: Kreiere Dein romantisches Einzelstück
+  
 ---
 
 ![Mein neuer Upcycling Jeansrock](http://cardamonchai.com/wp-content/uploads/2015/08/Upcycling-Jeansrock-12-640x427.jpg "Mein neuer Upcycling Jeansrock")
 
-<strong>Am Wochenende geht es für uns wieder auf's Festival, denn ich habe
-Karten für das Rock'n'Heim gewonnen. Natürlich freue ich mich wie verrückt auf
-das Event und da muss natürlich auch was Besonderes zum Anziehen mit. Was könnte
-es da geben, als ein tolles Upcycling-Teil</strong>?
+**Am Wochenende geht es für uns wieder auf's Festival, denn ich habe Karten für
+das Rock'n'Heim gewonnen. Natürlich freue ich mich wie verrückt auf das Event
+und da muss natürlich auch was Besonderes zum Anziehen mit. Was könnte es da
+geben, als ein tolles Upcycling-Teil** ?
 
 Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock mit wenigen
 Handgriffen zu einem echten Einzelstück gemacht habe.
 
-## Arbeitsaufwand
+## Ihr braucht- Lieblings-Jeansrock
+
+- Spitze von einem alten Nachthemd/Negligé/Unterrock
+- Garn in den Farben des Rocks und der Spitze
+- Stecknadeln
+- Nähmaschine
+- Spaß am Upcycling## Arbeitsaufwand
 
 15 - 30 Minuten
 
@@ -76,4 +83,6 @@ vergessen, die Stecknadeln herauszuziehen, nicht, dass Euch die Nadel bricht.
 
 Et voilà: Fertig ist Euer erster selbstgemachter Upcycling Rock.
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

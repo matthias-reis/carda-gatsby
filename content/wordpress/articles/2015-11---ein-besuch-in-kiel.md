@@ -4,12 +4,10 @@ seoTitle: Ein Besuch in Kiel - Fernweh und Wind
 slug: ein-besuch-in-kiel
 link: /2015/11/ein-besuch-in-kiel/
 fileName: 2015-11---ein-besuch-in-kiel.md
-description:
-  Der Wind im Hafen hatte es mir besonders angetan bei unserem gestrigen Besuch
-  in Kiel. Hier sind meine Bilder.
-excerpt:
-  Der Wind im Hafen hatte es mir besonders angetan bei unserem gestrigen Besuch
-  in Kiel. Hier sind meine Bilder.
+description: Der Wind im Hafen hatte es mir besonders angetan bei unserem
+  gestrigen Besuch in Kiel. Hier sind meine Bilder.
+excerpt: Der Wind im Hafen hatte es mir besonders angetan bei unserem gestrigen
+  Besuch in Kiel. Hier sind meine Bilder.
 focusKeyword: Kiel
 labels:
   - Ausflug
@@ -27,11 +25,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13141"
+image: /img/demo.jpg
+errors: []
 subTitle: Fernweh und Wind
+  
 ---
-
-<strong>Hier sind meine Eindrücke von unserem gestrigen Kiel-Besuch für Euch.
-Natürlich hatte es mir als alter Seefrau besonders der Hafen angetan.</strong>
 
 Als wir dann noch den Schwedenkai besuchten und dort ein Schiff in die Richtung
 ablegte, in die ich gerne so bald wie möglich wieder fahren möchte, war es
@@ -47,6 +45,11 @@ also stay tuned! &lt;3
 
 "Wind ist erst, wenn die Schafe keine Locken mehr haben" - Unbekannt
 
-## Unser Kiel-Besuch - Wegweiser<ol><li> [Noch mehr Kiel](/2015/11/ein-besuch-in-kiel/) </li></ol>
+## Unser Kiel-Besuch - Wegweiser1. [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
+
+1.  [Die Möwe](/2015/11/die-moewe/)
+1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)
 
 &nbsp;
+
+  

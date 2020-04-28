@@ -4,12 +4,12 @@ seoTitle: Hülsenfrüchte satt in Hamburg Ottensen - Power Of Veggie Love
 slug: huelsenfruechte-satt-in-hamburg-ottensen
 link: /2018/12/huelsenfruechte-satt-in-hamburg-ottensen/
 fileName: 2018-12---huelsenfruechte-satt-in-hamburg-ottensen.md
-description:
-  Bei einem Bloggerevent habe ich einige interessante Fakten über Hülsenfrüchte
-  kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles draufhaben.
-excerpt:
-  Bei einem Bloggerevent habe ich einige interessante Fakten über Hülsenfrüchte
-  kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles draufhaben.
+description: Bei einem Bloggerevent habe ich einige interessante Fakten über
+  Hülsenfrüchte kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles
+  draufhaben.
+excerpt: Bei einem Bloggerevent habe ich einige interessante Fakten über
+  Hülsenfrüchte kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles
+  draufhaben.
 focusKeyword: Hülsenfrüchte
 labels:
   - Ackerbohne Schweinsbohne
@@ -54,16 +54,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22966"
-subTitle: '"Power Of Veggie Love"</strong>'
+image: /img/demo.jpg
+errors: []
+subTitle: <strong>"Power Of Veggie Love"</strong>
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Beim Presse-Event "Power Of Veggie Love" von Iglo in meiner
-Nachbarschaft habe ich vor Kurzem spannende Fakten über Hülsenfrüchte erfahren.
-Obwohl sie für mich als Veganerin zu meinen Hauptnahrungsmitteln zählen und ich
-mich mit Ernährung viel beschäftige, gab es einiges, das auch mir bisher nicht
-bewusst war</strong>.
+**Beim Presse-Event "Power Of Veggie Love" von Iglo in meiner Nachbarschaft habe
+ich vor Kurzem spannende Fakten über Hülsenfrüchte erfahren. Obwohl sie für mich
+als Veganerin zu meinen Hauptnahrungsmitteln zählen und ich mich mit Ernährung
+viel beschäftige, gab es einiges, das auch mir bisher nicht bewusst war** .
 
 Während einem gemeinsamen Mittagessen mit Show-Küche erzählte eine
 Ernährungsberaterin genau, welche Vorteile sie haben und wie man sie am besten
@@ -74,10 +76,9 @@ die Möglichkeit, Fragen zu stellen.
 ![huelsenfruechte](http://cardamonchai.com/wp-content/uploads/2018/12/erbsen-400x300.jpg "Verschiedene Erbsen")
 
 Im Mittelpunkt der Veranstaltung standen die neuen
-<strong>TK-Hülsenfrucht-Mischungen</strong> "Mexican" mit Kidney Bohnen,
-schwarze Bohnen und Kichererbsen, "Country" mit Borlotti Bohnen, grüne Bohnen,
-Cannellini Bohnen und Kartoffeln und "Orient" mit Borlotti Bohnen, Erbsen,
-Kichererbsen, grüne Linsen.
+**TK-Hülsenfrucht-Mischungen** "Mexican" mit Kidney Bohnen, schwarze Bohnen und
+Kichererbsen, "Country" mit Borlotti Bohnen, grüne Bohnen, Cannellini Bohnen und
+Kartoffeln und "Orient" mit Borlotti Bohnen, Erbsen, Kichererbsen, grüne Linsen.
 
 Besonders thematisiert wurde dadurch auch, wie sehr sich zum Beispiel TK-Linsen
 von denen aus der Dose unterscheiden. Allein optisch machen sie schon einiges
@@ -112,11 +113,16 @@ enthalten sie etwas weniger Protein, als andere Hülsenfrüchte.
 Jetzt mal Margerine bei den Spargel: Was haben die viel gelobten Hülsenfrüchte
 denn nun eigentlich drauf? Machen sie wirklich glücklich und gesund?
 
-<ol>
-    <li>Hülsenfrüchte enthalten sehr viel <strong>Protein</strong>. Hier ein kleiner Vergleich: In 100 Gramm Mungobohnen stecken 24 Gramm Protein, in Erbsen 13, in Soja-Schnetzeln sogar 49. In Thunfisch 22, in Rinderfilet 21 Gramm.</li>
-    <li>Auch Vitalstoffe sind drin: Die Vitamine A und B, Mineralstoffe, Kalium, Kalzium und Magnesium sind besonders wichtig für die Zellerneuerung und -Teilung sowie das Nervensystem und das Blut.</li>
-    <li>Die kleinen Power-Pakete machen satt. Sie sind reich an gesunden Ballaststoffen, sekundären Pflanzenstoffen, frei von gesättigten Fettstoffen und regen den Stoffwechsel an. Ihre komplexen, hochwertigen <strong>Kohlenhydrate</strong> sorgen für ein lang anhaltendes Sättigungsgefühl.</li>
-</ol>
+1.  Hülsenfrüchte enthalten sehr viel **Protein** . Hier ein kleiner Vergleich:
+    In 100 Gramm Mungobohnen stecken 24 Gramm Protein, in Erbsen 13, in
+    Soja-Schnetzeln sogar 49. In Thunfisch 22, in Rinderfilet 21 Gramm.
+1.  Auch Vitalstoffe sind drin: Die Vitamine A und B, Mineralstoffe, Kalium,
+    Kalzium und Magnesium sind besonders wichtig für die Zellerneuerung und
+    -Teilung sowie das Nervensystem und das Blut.
+1.  Die kleinen Power-Pakete machen satt. Sie sind reich an gesunden
+    Ballaststoffen, sekundären Pflanzenstoffen, frei von gesättigten Fettstoffen
+    und regen den Stoffwechsel an. Ihre komplexen, hochwertigen
+    **Kohlenhydrate** sorgen für ein lang anhaltendes Sättigungsgefühl.
 
 ## Welche Hülsenfrüchte gibt es?
 
@@ -125,18 +131,42 @@ denn nun eigentlich drauf? Machen sie wirklich glücklich und gesund?
 Das klingt ja alles ziemlich fein! Dann mal her mit den gesunden
 Protein-Lieferanten! Welche gibt es denn?
 
-<ul>
-    <li>Sojabohnen sind weltweit besonders weit verbreitet. Sie werden nicht nur zu Tierfutter und Öl sondern auch zu leckerem Soja-Granulat und Tofu verarbeitet. Auch gekocht können sie sehr gut schmecken. Außerdem kann man aus ihnen schmackhaften  [Sojadrink](/2014/12/diy-sojamilch/)  herstellen.</li>
-    <li>Erbsen, dazu zählen unter anderem Pal-, Mark und Zuckererbsen, erfreuen sich hierzulande besonderer Beliebtheit. Sie schmecken meist süßlich und können sogar roh verzehrt werden.</li>
-    <li>Grüne Bohnen werden, anders als viele andere Bohnensorten, komplett mit Kernen und Hülsen gegessen. Zunächst nur in Mittel- und Südamerika bekannt, sind sie inzwischen auch unserer Esskultur bereits seit vielen Jahren nicht mehr wegzudenken.</li>
-    <li class="p1">Lupinen erobern langsam aber sicher die Küchen. Aus ihren Samen lässt sich hochwertiges Mehl herstellen. Inzwischen gibt es unter anderem auch Lupinen-Joghurt, -Drink und verschiedene Bratprodukte. Auch Eis kann man daraus herstellen. Erdnuss-Allergiker sollten sie nicht verzehren: Hier droht eine Kreuzallergie. Aus ökologischer Sicht haben sie einen hohen Wert, da sie als Bodenverbesserer gelten. Da die Pflanzen, ähnlich den Sojapflanzen sehr genügsam sind, können sie nahezu überall angebaut werden.</li>
-    <li>Canelli Bohnen kommen ursprünglich aus Italien. Die weißen <strong>Bohnen</strong> schmecken besonders mild und eignen sich hervorragend für Pürees und Suppen.</li>
-    <li>Kichererbsen sind keinesfalls mit Erbsen verwandt. Sie bestechen durch ihren leicht nussigen Geschmack. Traditionell werden sie vor allem in Indien, der Türkei sowie in Australien angebaut.</li>
-    <li class="p1">Borlotti Bohnen sind hell-gescheckt und mittelgroß. Sie stammen aus Mittel- und Südamerika und haben einen süßlichen Geschmack. Beim Kochen wechselt ihre Farbe ins Rötliche, darum nennt man sie in manchen Gegenden auch Cranberry Bohnen.</li>
-    <li>Kidney Bohnen sind die wohl bekanntesten Bohnen. Ihren Namen haben sie von Ihrer Nierenform (eng. "kidney" = "Niere"). Sie schmecken würzig-süßlich und haben ihren Ursprung in Peru.</li>
-    <li class="p1">Saubohnen sind auch unter den Namen Ackerbohne Schweinsbohne, Favabohne, Dicke Bohne, Große Bohne, Pferdebohne, Viehbohne oder Puffbohne bekannt. Die einjährigen Pflanzen bringen große, fleischige Bohnen hervor. Im Arabischen Raum werden sie gerne zu Ful und Falafeln weiterverarbeitet.</li>
-    <li class="p1">Schwarze Bohnen sind unter der Schale hell. Bekannt sind sie vor allem in Lateinamerika. Sie passen hervorragend in Taco- oder Fajita-Gerichte.</li>
-</ul>
+- Sojabohnen sind weltweit besonders weit verbreitet. Sie werden nicht nur zu
+  Tierfutter und Öl sondern auch zu leckerem Soja-Granulat und Tofu verarbeitet.
+  Auch gekocht können sie sehr gut schmecken. Außerdem kann man aus ihnen
+  schmackhaften [Sojadrink](/2014/12/diy-sojamilch/) herstellen.
+- Erbsen, dazu zählen unter anderem Pal-, Mark und Zuckererbsen, erfreuen sich
+  hierzulande besonderer Beliebtheit. Sie schmecken meist süßlich und können
+  sogar roh verzehrt werden.
+- Grüne Bohnen werden, anders als viele andere Bohnensorten, komplett mit Kernen
+  und Hülsen gegessen. Zunächst nur in Mittel- und Südamerika bekannt, sind sie
+  inzwischen auch unserer Esskultur bereits seit vielen Jahren nicht mehr
+  wegzudenken.
+- Lupinen erobern langsam aber sicher die Küchen. Aus ihren Samen lässt sich
+  hochwertiges Mehl herstellen. Inzwischen gibt es unter anderem auch
+  Lupinen-Joghurt, -Drink und verschiedene Bratprodukte. Auch Eis kann man
+  daraus herstellen. Erdnuss-Allergiker sollten sie nicht verzehren: Hier droht
+  eine Kreuzallergie. Aus ökologischer Sicht haben sie einen hohen Wert, da sie
+  als Bodenverbesserer gelten. Da die Pflanzen, ähnlich den Sojapflanzen sehr
+  genügsam sind, können sie nahezu überall angebaut werden.
+- Canelli Bohnen kommen ursprünglich aus Italien. Die weißen **Bohnen**
+  schmecken besonders mild und eignen sich hervorragend für Pürees und Suppen.
+- Kichererbsen sind keinesfalls mit Erbsen verwandt. Sie bestechen durch ihren
+  leicht nussigen Geschmack. Traditionell werden sie vor allem in Indien, der
+  Türkei sowie in Australien angebaut.
+- Borlotti Bohnen sind hell-gescheckt und mittelgroß. Sie stammen aus Mittel-
+  und Südamerika und haben einen süßlichen Geschmack. Beim Kochen wechselt ihre
+  Farbe ins Rötliche, darum nennt man sie in manchen Gegenden auch Cranberry
+  Bohnen.
+- Kidney Bohnen sind die wohl bekanntesten Bohnen. Ihren Namen haben sie von
+  Ihrer Nierenform (eng. "kidney" = "Niere"). Sie schmecken würzig-süßlich und
+  haben ihren Ursprung in Peru.
+- Saubohnen sind auch unter den Namen Ackerbohne Schweinsbohne, Favabohne, Dicke
+  Bohne, Große Bohne, Pferdebohne, Viehbohne oder Puffbohne bekannt. Die
+  einjährigen Pflanzen bringen große, fleischige Bohnen hervor. Im Arabischen
+  Raum werden sie gerne zu Ful und Falafeln weiterverarbeitet.
+- Schwarze Bohnen sind unter der Schale hell. Bekannt sind sie vor allem in
+  Lateinamerika. Sie passen hervorragend in Taco- oder Fajita-Gerichte.
 
 ## Fazit und Infos
 
@@ -148,6 +178,8 @@ Buchweizen".
 [gallery ids="22964,22963,22962,22959" type="rectangular" size="medium"
 link="none"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

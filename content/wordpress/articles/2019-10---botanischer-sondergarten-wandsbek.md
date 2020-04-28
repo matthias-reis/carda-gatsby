@@ -4,13 +4,12 @@ seoTitle: Botanischer Sondergarten Wandsbek - Hamburg im Herbst
 slug: botanischer-sondergarten-hamburg-wandsbek
 link: /2019/10/botanischer-sondergarten-hamburg-wandsbek/
 fileName: 2019-10---botanischer-sondergarten-wandsbek.md
-description:
-  Wenn man im Herbst ein paar Stunden Zeit hat, geht man am besten spazieren.
-  Der Botanische Sondergarten in Hamburg Wandsbek lockt mit bunten Farben.
-excerpt:
-  Wenn man im Herbst ein paar Stunden Zeit hat, geht man am besten im Park
-  spazieren. Der Botanische Sondergarten in Hamburg Wandsbek lockt mit frischer
-  Luft und bunten Farben.
+description: Wenn man im Herbst ein paar Stunden Zeit hat, geht man am besten
+  spazieren. Der Botanische Sondergarten in Hamburg Wandsbek lockt mit bunten
+  Farben.
+excerpt: Wenn man im Herbst ein paar Stunden Zeit hat, geht man am besten im
+  Park spazieren. Der Botanische Sondergarten in Hamburg Wandsbek lockt mit
+  frischer Luft und bunten Farben.
 focusKeyword: Botanischer Sondergarten
 labels:
   - Ausflug
@@ -31,12 +30,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26586"
+image: /img/demo.jpg
+errors: []
 subTitle: Hamburg im Herbst
+  
 ---
 
-<strong>Wenn man im Herbst ein paar Stunden Zeit hat, geht man am besten im Park
+**Wenn man im Herbst ein paar Stunden Zeit hat, geht man am besten im Park
 spazieren. Uns hat heute der Botanische Sondergarten in Hamburg Wandsbek
-angelockt.</strong>
+angelockt.**
 
 1923 legte der Wandsbeker Lehrerverein einen Garten an. Noch heute trägt die
 Straße, die an den Botanischen Sondergarten angrenzt, den Namen "Am
@@ -55,3 +57,5 @@ paar davon standen bei unserem heutigen Besuch noch in voller Blüte. Ein Meer
 aus bunten Herbstfarben säumte unseren Weg.
 
 [glry name="2019-10-20-wandsbek-botanischer-sondergarten"]
+
+  

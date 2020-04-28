@@ -4,12 +4,12 @@ seoTitle: Abschied - eine kurze Geschichte voller Schmerz und Hoffnung
 slug: abschied-kurzgeschichte
 link: /2012/12/abschied-kurzgeschichte/
 fileName: 2012-12---abschied.md
-description:
-  Er saß am Küchentisch und rührte den vierten Löffel Zucker in seinen schwarzen
-  Kaffee. Gedankenverloren zog er an seiner Zigarette. Der Abschied war nah.
-excerpt:
-  Er saß am Küchentisch und rührte den vierten Löffel Zucker in seinen schwarzen
-  Kaffee. Gedankenverloren zog er an seiner Zigarette. Der Abschied war nah.
+description: Er saß am Küchentisch und rührte den vierten Löffel Zucker in
+  seinen schwarzen Kaffee. Gedankenverloren zog er an seiner Zigarette. Der
+  Abschied war nah.
+excerpt: Er saß am Küchentisch und rührte den vierten Löffel Zucker in seinen
+  schwarzen Kaffee. Gedankenverloren zog er an seiner Zigarette. Der Abschied
+  war nah.
 focusKeyword: Abschied
 labels:
   - Alkohol
@@ -38,12 +38,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4714"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine Geschichte aus dem Leben
+  
 ---
 
-<hr /><strong>Hinweis: </strong>Hin und wieder schreibe ich Kurzgeschichten. Ab und an landet auch eine davon hier im Blog. Diese hier ist eine davon. Jede Ähnlichkeit der in dieser Geschichte vorkommenden Figuren und Handlungen mit real existierenden Personen oder Vorkommnissen ist rein zufällig und in keiner Weise beabsichtigt. Die Geschichte ist frei erfunden.
-
-<hr /><strong>Er saß am Küchentisch und rührte den vierten Löffel Zucker in seinen schwarzen Filterkaffee. Gedankenverloren zog er an seiner Zigarette.</strong>
+<hr /> __Er saß am Küchentisch und rührte den vierten Löffel Zucker in seinen schwarzen Filterkaffee. Gedankenverloren zog er an seiner Zigarette.__
 
 Vor ihm auf dem runden abgegriffenen Holztisch stand schon sein Proviant für den
 Tag bereit: Ein Energydrink und ein kleiner grüner Flachmann mit Kräuterlikör.
@@ -89,45 +90,47 @@ schon im Hausflur konnte er seinen Atem sehen.
 
 ![599460_450404824981652_1788614199_n1 | full](http://cardamonchai.files.wordpress.com/2012/12/599460_450404824981652_1788614199_n1.jpg)
 
-<em>Um halb acht stieg sie aus ihrem kleinen grünen Wagen. Sie hatte sich einen
-Tag Urlaub genommen und bei ihrer Freundin übernachtet. Ihm hatte sie gesagt,
-sie würde eine Doppelschicht in der Fabrik übernehmen, und deshalb später
-heimkommen.</em><em>Sie betrat die Küche, zog das Rollo hoch und öffnete das
-Fenster, um etwas von der frischen kühlen Morgenluft hereinzulassen. Sie konnte
+_Um halb acht stieg sie aus ihrem kleinen grünen Wagen. Sie hatte sich einen Tag
+Urlaub genommen und bei ihrer Freundin übernachtet. Ihm hatte sie gesagt, sie
+würde eine Doppelschicht in der Fabrik übernehmen, und deshalb später
+heimkommen._ _Sie betrat die Küche, zog das Rollo hoch und öffnete das Fenster,
+um etwas von der frischen kühlen Morgenluft hereinzulassen. Sie konnte
 regelrecht beobachten, wie sich dicke Schwaden kalten Rauchs langsam mit
-Sauerstoff vermischten.</em><em>Sie stellte einen mitgebrachten Karton auf dem
-Tisch ab, krempelte die Ärmel hoch und überlegte sich, womit sie anfangen
-sollte. Sie hatte diese marode alte Küchenzeile nie gemocht. Wie oft war sie
-damit beschäftigt gewesen, hier nach seinen Feten sauberzumachen. Dazu musste
-sie jedes Mal die Treppe rauf und heißes Wasser aus dem Badezimmer holen. Wenn
-sie das nach der Nachtschicht noch schnell erledigte, versuchte sie dabei immer
-so leise wie möglich zu sein, um ihn nicht zu wecken.</em><em>Diese Küche mit
-dem schmierigen Film aus Nikotin und Fett, der sich gar nicht mehr richtig
-entfernen ließ. Das Loch in einer der Türen stammte von ihrem Arm. Es war an
-einem dieser Tage passiert, an denen er sich nicht mehr unter Kontrolle hatte.
-Damals war es besonders schlimm gewesen. Seine Mutter war kurz danach noch
-vorbeigekommen und hatte ihn sogar noch verteidigt. Wie so oft war seine Mutter
-an diesem Abend betrunken gewesen. Genau wir er. Sie vom Weißwein, er vom
-Martini.</em><em>Dieses Laster hatte er von ihr geerbt. Der einzige Unterschied
-war, dass sie heimlich trank. Überall versteckte sie ihre Flaschen. Er hingegen
-verteilte seine offen überall in der Wohnung und lud jeden seiner Freunde, die
-ihn ständig besuchten um bei ihm zu feiern, dazu ein mit ihm zu trinken. Das war
-jetzt alles vorbei.</em><em>Sie schloss das Fenster wieder und begann ein paar
-Fotos und Unterlagen in den Karton zu packen. Weitere fünf Kartons folgten, in
-die sie ihre Musiksammlung, ihre Bücher und ihre Kleidung packte. Sie wollte
-nicht viel mitnehmen, das hatte sie sich vorgenommen. Nur ihre persönlichen
-Sachen. Bei ihrem Neuanfang wollte sie nicht von einem Schrank oder einer
-Blumenvase immer wieder an die Zeit erinnert werden, die nun endlich hinter ihr
-lag. Nachdem sie alles ins Auto geladen hatte, machte sie eine letzte Runde
-durch die Zimmer, die schon jetzt irgendwie fremd auf sie wirkten. Irgendwie
-hatte sie sich hier nie richtig wohl gefühlt. Sie hatte immer versucht alles
-wohnlich zu machen, war dabei aber immer wieder kläglich gescheitert. Ihm hatten
-Ihre Ideen sowieso nie gefallen. An allem hatte er etwas auszusetzen gehabt und
-irgendwann hatte sie es dann schließlich aufgegeben. Das war für sie der
-Abschied.</em><em>Erst hatte sie die Wohnung aufgegeben, dann hatte sie sich
-aufgegeben. Aber das hatte nun ein Ende. Sie legte ihren Schlüssel auf den
-Tisch, nahm ihren Mantel vom Haken und schloss zum letzten Mal die schwere
-Wohnungstür hinter sich. Als sie vor drei Stunden angekommen war, war es noch
-sehr kalt gewesen. Jetzt hatte sich der Nebel verzogen und der Raureif war
-verschwunden. Die noch etwas zaghaften Sonnenstrahlen wärmten sogar schon fast
-ein Bisschen. Man konnte es spüren, dass es nun bald Frühling werden würde.</em>
+Sauerstoff vermischten._ _Sie stellte einen mitgebrachten Karton auf dem Tisch
+ab, krempelte die Ärmel hoch und überlegte sich, womit sie anfangen sollte. Sie
+hatte diese marode alte Küchenzeile nie gemocht. Wie oft war sie damit
+beschäftigt gewesen, hier nach seinen Feten sauberzumachen. Dazu musste sie
+jedes Mal die Treppe rauf und heißes Wasser aus dem Badezimmer holen. Wenn sie
+das nach der Nachtschicht noch schnell erledigte, versuchte sie dabei immer so
+leise wie möglich zu sein, um ihn nicht zu wecken._ _Diese Küche mit dem
+schmierigen Film aus Nikotin und Fett, der sich gar nicht mehr richtig entfernen
+ließ. Das Loch in einer der Türen stammte von ihrem Arm. Es war an einem dieser
+Tage passiert, an denen er sich nicht mehr unter Kontrolle hatte. Damals war es
+besonders schlimm gewesen. Seine Mutter war kurz danach noch vorbeigekommen und
+hatte ihn sogar noch verteidigt. Wie so oft war seine Mutter an diesem Abend
+betrunken gewesen. Genau wir er. Sie vom Weißwein, er vom Martini._ _Dieses
+Laster hatte er von ihr geerbt. Der einzige Unterschied war, dass sie heimlich
+trank. Überall versteckte sie ihre Flaschen. Er hingegen verteilte seine offen
+überall in der Wohnung und lud jeden seiner Freunde, die ihn ständig besuchten
+um bei ihm zu feiern, dazu ein mit ihm zu trinken. Das war jetzt alles vorbei._
+_Sie schloss das Fenster wieder und begann ein paar Fotos und Unterlagen in den
+Karton zu packen. Weitere fünf Kartons folgten, in die sie ihre Musiksammlung,
+ihre Bücher und ihre Kleidung packte. Sie wollte nicht viel mitnehmen, das hatte
+sie sich vorgenommen. Nur ihre persönlichen Sachen. Bei ihrem Neuanfang wollte
+sie nicht von einem Schrank oder einer Blumenvase immer wieder an die Zeit
+erinnert werden, die nun endlich hinter ihr lag. Nachdem sie alles ins Auto
+geladen hatte, machte sie eine letzte Runde durch die Zimmer, die schon jetzt
+irgendwie fremd auf sie wirkten. Irgendwie hatte sie sich hier nie richtig wohl
+gefühlt. Sie hatte immer versucht alles wohnlich zu machen, war dabei aber immer
+wieder kläglich gescheitert. Ihm hatten Ihre Ideen sowieso nie gefallen. An
+allem hatte er etwas auszusetzen gehabt und irgendwann hatte sie es dann
+schließlich aufgegeben. Das war für sie der Abschied._ _Erst hatte sie die
+Wohnung aufgegeben, dann hatte sie sich aufgegeben. Aber das hatte nun ein Ende.
+Sie legte ihren Schlüssel auf den Tisch, nahm ihren Mantel vom Haken und schloss
+zum letzten Mal die schwere Wohnungstür hinter sich. Als sie vor drei Stunden
+angekommen war, war es noch sehr kalt gewesen. Jetzt hatte sich der Nebel
+verzogen und der Raureif war verschwunden. Die noch etwas zaghaften
+Sonnenstrahlen wärmten sogar schon fast ein Bisschen. Man konnte es spüren, dass
+es nun bald Frühling werden würde._
+
+  

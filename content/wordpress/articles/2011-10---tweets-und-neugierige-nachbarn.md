@@ -4,12 +4,12 @@ seoTitle: Tweets und Nachbarn - ist der Schachtelsatz vom Aussterben bedroht?
 slug: statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht
 link: /2011/10/statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht/
 fileName: 2011-10---tweets-und-neugierige-nachbarn.md
-description:
-  Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig ist.
-  Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner Zeit.
-excerpt:
-  Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig ist.
-  Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner Zeit.
+description: Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig
+  ist. Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner
+  Zeit.
+excerpt: Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig
+  ist. Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner
+  Zeit.
 focusKeyword: ""
 labels:
   - Bodrum
@@ -43,21 +43,25 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2724"
+image: /img/demo.jpg
+errors: []
 subTitle: Ist der Schachtelsatz vom Aussterben bedroht?
+  
 ---
-
-<strong>Eigentlich hatte ich vor, heute ein Rant über moderne Technik zu
-schreiben, da ich in den letzten Stunden mit Google-Konten, Synchronisierungen,
-Mobiltelefonen und diversen Netzwerkeinstellungen zu kämpfen hatte. Und
-natürlich auch mal wieder mit der Frage nach dem richtigen Betriebssystem. Doch
-ich denke, das überlasse ich lieber anderen.</strong><em> \*(Dies ist eine
-Fußnote, bitte folgen!)</em>
 
 Ich habe festgestellt, dass sich meine Aktivität, was das Blogschreiben
 betrifft, in der letzten Zeit ziemlich reduziert hat. Das mag am erhöhten
 Termindruck in den letzen Wochen liegen (Was mir, etwas reflektierend
 betrachtet, jedoch eher wie eine passende Ausrede vorkommt), vor allem aber an
-der steigenden Zahl meiner [Bücher.](http://twitter.com/#!/Carda_Mon)
+der steigenden Zahl meiner [Tweets](http://twitter.com/#!/Carda_Mon). Twitter
+läuft nebenbei, sobald mir etwas in den Sinn kommt, habe ich es auch schon
+geschrieben. Verschenke ich meine Ideen an Twitter? Oder handelt es sich dabei
+um das ideale Medium, meiner Schreibweise gerecht zu werden, meine Gedanken zum
+Ausdruck zu bringen? Auch einige meiner Blogeinträge bestehen aus einer
+Aneinanderreihung kurzer, scheinbar nicht zusammenhängender Sätze. Einige
+betrachten das Twittern ja auch als Kunst. In 140 Zeichen alles zu sagen, was
+man der Welt mitteilen möchte. Daraus entstehen sogar lesenswerte
+[Bücher.](http://haekelschwein.de/buch.htm)
 
 Aber ist es nicht genau das, was wir vermeiden sollten, um unsere Sprache zu
 erhalten? Kurze, abgehackte, "digitale" Sätze? Ist nicht genau das, was wir
@@ -79,12 +83,12 @@ hochgehen und mich an meinen Rechner setzen, der Nachbar kuckt schon ganz
 neugierig. Vielleicht werde ich ja als erstes einen Tweet über ihn schreiben,
 bevor ich diesen Text in mein Blog übertrage. Dann habe ich vielleicht auch die
 nötige Ruhe, den ein oder anderen Satz noch etwas auszuschmücken, zu
-verschachteln.<em></em><em><del>TWEET Die Frau im Wagen vor mir bohrt in der
-Nase und sieht sich das Ergebnis an. #Hall_of_Fame</del></em><del>TWEET Warum
-brauche ich für meinen Ausweis ein Biometrisches Bild, wenn Gesichtserkennung
-über facebook-Schnappschüsse möglich ist?</del><del>TWEET Sitze vorm Haus im
-Auto und schreibe. Der Nachbar scheint fasziniert zu sein. Mist, der Bleistift
-ist schon ganz stumpf. #Was_macht_die_da?</del>
+verschachteln. \_\_ _<del>TWEET Die Frau im Wagen vor mir bohrt in der Nase und
+sieht sich das Ergebnis an. #Hall_of_Fame</del>_ <del>TWEET Warum brauche ich
+für meinen Ausweis ein Biometrisches Bild, wenn Gesichtserkennung über
+facebook-Schnappschüsse möglich ist?</del><del>TWEET Sitze vorm Haus im Auto und
+schreibe. Der Nachbar scheint fasziniert zu sein. Mist, der Bleistift ist schon
+ganz stumpf. #Was_macht_die_da?</del>
 
 Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig ist. Lange,
 wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner Zeit. Beides
@@ -103,11 +107,7 @@ sich sieht und sie dann am Ende doch wieder ganz anders aussehen.
 Hier noch ein paar schöne Worte, die mich unlängst auf einer Postkarte
 erreichten, die schon als verloren geglaubt war:
 
-## The Unknown<em>Do you exist my pretty bird </em><em>Flying above the snow?
-
-</em><em>Are you actually flying </em><em>Or do I imagine it so? </em><em>Detail
-of wing and breast</em><em>Unquestionably there - </em><em>Or do I merely thing
-you</em><em>Perfect in Mid Air?</em><em>W. C. Williams</em>
+## The Unknown _Do you exist my pretty bird_ _Flying above the snow?_ _Are you actually flying_ _Or do I imagine it so?_ _Detail of wing and breast_ _Unquestionably there -_ _Or do I merely thing you_ _Perfect in Mid Air?_ _W. C. Williams_
 
 ![ | full](http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg "Die Postkarte")
 
@@ -119,11 +119,10 @@ ist, musste ich natürlich auch fotografisch festhalten:
 Und schließlich und endlich noch das Partywissen, welches ich mir, zwecks
 Aneignung vor ein paar Tagen auf dem Zettel notiert hatte:
 
-<em>Fulda 106.000 </em><em>Würzburg 133.000</em><em>Regensburg
-135.520</em><em>Augsburg 265.000</em><em>Nürnberg 500.000</em><em>Stuttgart
-600.000</em><em>Hamburg 1.800.000</em><em>München 2.600.000</em><em>Berlin
-3.500.000</em><em>Los Angeles 3.831.868</em><em>London
-7.825.200</em><em>Istanbul 13.200.000</em><em>New York 18.900.000 </em>
+_Fulda 106.000_ _Würzburg 133.000_ _Regensburg 135.520_ _Augsburg 265.000_
+_Nürnberg 500.000_ _Stuttgart 600.000_ _Hamburg 1.800.000_ _München 2.600.000_
+_Berlin 3.500.000_ _Los Angeles 3.831.868_ _London 7.825.200_ _Istanbul
+13.200.000_ _New York 18.900.000_
 
 Das war´s jetzt aber für heute, erst wochenlang nichts und dann so ein
 Redeschwall. Sicher ist das jetzt ein ziemliches Durcheinander, das sind die
@@ -136,6 +135,8 @@ Lesen gibt es noch die Musik, die mich in den letzen Tagen beschäftigt hat:
 
 STAR ANNA &amp; THE LAUGHING DOGS live on KEXP
 
-<em>\*Vielleicht wird zum Thema Technik sogar demnächst ein Gastbeitrag von
-einem versierten Softwareprogrammierer, passionierten Apple-User und
-Musikliebhaber hier in meinem Blog erscheinen, man darf gespannt sein.</em>
+_\*Vielleicht wird zum Thema Technik sogar demnächst ein Gastbeitrag von einem
+versierten Softwareprogrammierer, passionierten Apple-User und Musikliebhaber
+hier in meinem Blog erscheinen, man darf gespannt sein._
+
+  

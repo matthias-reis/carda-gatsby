@@ -4,12 +4,11 @@ seoTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
 slug: dunkfestival-2017-es-geht-los
 link: /2017/05/dunkfestival-2017-es-geht-los/
 fileName: 2017-05---dunk-festival-2017.md
-description:
-  Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns zum
-  Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
-excerpt:
-  Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns zum
-  Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
+description: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit
+  uns zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns
+  bevor!
+excerpt: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit uns
+  zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns bevor!
 focusKeyword: festival 2017
 labels:
   - ALL WE EXPECTED
@@ -75,17 +74,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16752"
+image: /img/demo.jpg
+errors: []
 subTitle: Der Rucksack ist gepackt!
+  
 ---
 
-<strong>Die Spannung steigt! Bald brechen wir auf! Der Rucksack ist schon
-gepackt und wartet darauf, mit uns zum <em>Dunk!Festival</em> 2017 zur
-reisen!</strong>
+**Die Spannung steigt! Bald brechen wir auf! Der Rucksack ist schon gepackt und
+wartet darauf, mit uns zum _Dunk!Festival_ 2017 zur reisen!**
 
 Wir freuen uns schon seit Monaten auf das musikalische Highlight des Jahres. Vor
 Kurzem hatte ich ja hier schon mal
 [einen kurzen Artikel](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) über das
-<em>Dunk!festival</em> veröffentlicht.
+_Dunk!festival_ veröffentlicht.
 
 Inzwischen steht natürlich auch das komplett Lineup fest, beeindruckend, oder?
 
@@ -110,16 +111,16 @@ Das DUNK!festival findet Ihr [hier](https://www.dunkfestival.be/).
 
 ## Wegweiser Dunk!Festival
 
-<ol>
-    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
-    <li>DUNK!festival 2017 - Wir kommen!</li>
-    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
-    <li> [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/) </li>
-    <li> [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/) </li>
-    <li> [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/) </li>
-    <li>DUNK!festival 2019 - Das Line-up</li>
-</ol>
+1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
+1.  DUNK!festival 2017 - Wir kommen!
+1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
+1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
+1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
+1.  [DUNK!festival 2018 - Liebe für immer](/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/)
+1.  DUNK!festival 2019 - Das Line-up
 
 Bilder &amp; Artwork: Dunk!Festival (Error Design)
 
 &nbsp;
+
+  

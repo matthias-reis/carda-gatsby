@@ -4,12 +4,10 @@ seoTitle: Stedelijk Museum Amsterdam - Moderne Kunst hautnah
 slug: stedelijk-museum-amsterdam
 link: /2018/02/stedelijk-museum-amsterdam/
 fileName: 2018-02---stedelijk-museum-amsterdam.md
-description:
-  Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen.
-  Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
-excerpt:
-  Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen.
-  Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
+description: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu
+  besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
+excerpt: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu
+  besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
 focusKeyword: Stedelijk Museum
 labels:
   - Amsterdam
@@ -39,12 +37,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19522"
+image: /img/demo.jpg
+errors: []
 subTitle: Moderne Kunst hautnah
+  
 ---
 
-<strong>Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu
-besuchen. Da wir beide von moderner Kunst magisch angezogen werden, war das für
-uns ein besonderes Highlight unserer Kurzreise nach Amsterdam.</strong>
+**Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu besuchen. Da
+wir beide von moderner Kunst magisch angezogen werden, war das für uns ein
+besonderes Highlight unserer Kurzreise nach Amsterdam.**
 
 Das Stedlijk Museum besteht aus einem historischen Gebäude aus dem Jahr 1895 und
 einem neuen Komplex. Dieser wurde vom Architekturbüro Benthem Crouwel entworfen.
@@ -71,11 +72,11 @@ davon berichten.
 
 ## Wegweiser Amsterdam
 
-<ol>
-    <li> [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/) </li>
-    <li>Stedelijk Museum Amsterdam</li>
-    <li> [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/) </li>
-    <li> [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/) </li>
-    <li> [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/) </li>
-    <li> [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/) </li>
-</ol>
+1.  [Banksy im Moco Amsterdam](/2018/01/banksy-im-moco-amsterdam/)
+1.  Stedelijk Museum Amsterdam
+1.  [Vegan Junk Food Bar Amsterdam](/2018/02/vegan-junk-food-bar-amsterdam/)
+1.  [Rijksmusem Amsterdam](/2018/03/rijksmuseum-amsterdam/)
+1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
+1.  [Raw Food Café Amsterdam](/2018/03/raw-food-cafe-amsterdam-zest-for-life/)
+
+  

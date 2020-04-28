@@ -4,12 +4,12 @@ seoTitle: ArcTanGent Festival Bristol 2019 - wir sind auch dabei!
 slug: arctangent-festival-2019
 link: /2019/05/arctangent-festival-2019/
 fileName: 2019-05---arctangent-festival-2019.md
-description:
-  Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent
-  Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol statt.
-excerpt:
-  Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent
-  Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol statt.
+description: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das
+  Independent Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol
+  statt.
+excerpt: Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das
+  Independent Festival findet seit 2013 jährlich 10 Meilen südlich von Bristol
+  statt.
 focusKeyword: ArcTanGent
 labels:
   - ArcTanGent
@@ -35,12 +35,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24131"
+image: /img/demo.jpg
+errors: []
 subTitle: Wir sind auch dabei!
+  
 ---
 
-<strong>Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent
-Festival findet seit 2013 jährlich zehn Meilen südlich von Bristol
-statt.</strong>
+**Das ArcTanGent 2019 rückt näher und wir sind auch dabei! Das Independent
+Festival findet seit 2013 jährlich zehn Meilen südlich von Bristol statt.**
 
 Das Event ist inzwischen fest in unseren diesjährigen Urlaubsplan integriert und
 wir freuen uns riesig darauf. Das Line-up ist ein ganz besonderes - weltweit
@@ -72,7 +74,9 @@ Erlebnis werden kann.
 
 ### Das sagt Metal Hammer
 
-<blockquote>"Three Days of expansive exhileration. A heaven of progressive music across the spectrum of all things heavy!" - "Drei Tage ausgiebiger Hochstimmung. Der Himmel der progressiven Musik im Heavy Spektrum"</blockquote>
+> "Three Days of expansive exhileration. A heaven of progressive music across
+> the spectrum of all things heavy!" - "Drei Tage ausgiebiger Hochstimmung. Der
+> Himmel der progressiven Musik im Heavy Spektrum"
 
 Auch, wenn das Zitat bereits auf der ArcTanGent Homepage zu finden ist: Ich
 musste es bringen, denn es gefällt mir einfach viel zu gut.
@@ -100,11 +104,13 @@ The Riots, Conjorer, Yvette Young, Ithaca, Big Lad
 
 ### Freitag
 
-Battles, [The Ocean](/2017/02/russian-circles-knust-hamburg-2017/), Thank You
-Scientist, Standards, Good Game, A. A. Williams, TThing, The Black Queen, Toska,
-The Algorithm, Puerto Austral, Slow Crush, We Never Learned To Live, Frontierer,
-Zu, Sleep Token, Birds In Row, All The Best Tapes, Dags!, CLT DRP, Brutus,
-Colossal Squid, Palm Reader, Sithu Aye, Too Piste, Rad Pitt, Cattle, Hexcut
+Battles, [Russian Circles](/2017/02/russian-circles-knust-hamburg-2017/), 65
+Days Of Static, [The Ocean](/2019/04/the-ocean-live-im-hamburger-logo/), Thank
+You Scientist, Standards, Good Game, A. A. Williams, TThing, The Black Queen,
+Toska, The Algorithm, Puerto Austral, Slow Crush, We Never Learned To Live,
+Frontierer, Zu, Sleep Token, Birds In Row, All The Best Tapes, Dags!, CLT DRP,
+Brutus, Colossal Squid, Palm Reader, Sithu Aye, Too Piste, Rad Pitt, Cattle,
+Hexcut
 
 ![arctangent-timetable-freitag | full](http://cardamonchai.com/wp-content/uploads/2019/05/arctangent-lineup-timetable-1.jpg "Der Freitag auf dem ArcTanGent")
 
@@ -156,4 +162,6 @@ finden.
 
 Pictures in this article: [ArcTanGent](https://arctangent.co.uk/)
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

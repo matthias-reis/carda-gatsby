@@ -4,12 +4,11 @@ seoTitle: Kuschelige und nachhaltige Windermode nicht nur für Veganer*innen
 slug: kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen
 link: /2018/11/kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen/
 fileName: 2018-11---kuschelige-nachhaltige-wintermode.md
-description:
-  Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab und an
-  schon etwas länger. Daher habe ich ein paar Tipps für Euch zusammengetragen.
-excerpt:
-  Werbung - Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab
+description: Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab
   und an schon etwas länger. Daher habe ich ein paar Tipps für Euch
+  zusammengetragen.
+excerpt: Werbung - Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt,
+  sucht ab und an schon etwas länger. Daher habe ich ein paar Tipps für Euch
   zusammengetragen.
 focusKeyword: nachhaltige Wintermode
 labels:
@@ -30,16 +29,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22663"
+image: /img/demo.jpg
+errors: []
 subTitle: Nicht nur für Veganer*innen
+  
 ---
 
-<em>Werbung</em>
+_Werbung_
 
-<strong>Meinen Artikel mit Tipps für
+**Meinen Artikel mit Tipps für
 [nachhaltige Modelabels](/2018/02/faire-klamotten/) findet Ihr ja ziemlich gut.
 Vielen Dank an dieser Stelle für das positive Feedback! Ich habe mir aus diesem
 Grund überlegt, eine neue Ausgabe zum Thema "nachhaltige Wintermode" zu
-veröffentlichen.</strong>
+veröffentlichen.**
 
 Zwar ist der Winter noch nicht ganz in unseren Gefilden angekommen, Wintermode
 wird jedoch schon fleißig geshoppt. Wer dabei auf Nachhaltigkeit wert legt,
@@ -53,10 +55,11 @@ zusammengetragen.
 Friert Ihr auch ständig wie ein Schneider? Dann geht es Euch wie mir. Besonders
 Zugluft kann ich absolut nicht ab. Ich mutiere zu einem echten Frostköttel, wenn
 ich keine warme Jacke habe. Dass ich beim Einkaufen auf
-[Wolle](/2014/11/fakepelz-echtpelz/) verzichte, ist für mich selbstverständlich.
-Eine Zeit lang war es gar nicht so einfach, Jacken ohne Pelzbesatz oder Federn
-im Futter zu finden. Inzwischen setzen glücklicherweise immer mehr Labels auf
-Kleidung, die frei von Tierleid ist.
+[Pelz](/2014/11/fakepelz-echtpelz/), Leder, Daunen und
+[Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/) verzichte, ist
+für mich selbstverständlich. Eine Zeit lang war es gar nicht so einfach, Jacken
+ohne Pelzbesatz oder Federn im Futter zu finden. Inzwischen setzen
+glücklicherweise immer mehr Labels auf Kleidung, die frei von Tierleid ist.
 
 ## Auf was kommt es an?
 
@@ -77,8 +80,13 @@ kommen.
 
 ## Pelz, nein danke!
 
-Wer wie ich auch auf
-[Pelzbommeln an winterlichen Kopfbedeckungen](/2014/11/fakepelz-echtpelz/)
+Wer wie ich auch auf [künstlichen Pelzbesatz](/2014/11/fakepelz-echtpelz/)
+verzichten möchte, um jedes falsche Statement auszuschließen, sucht vielleicht
+etwas länger, als Menschen, die damit leben können. Aber, wie schon gesagt: Ich
+bin guter Hoffnung, dass diese Modeerscheinung langsam aber sicher mehr und mehr
+in der Mottenkiste verschwindet. Ich glaube generell werden wieder mehr Schals
+als Pelzkragen getragen. Wie das mit den
+[Pelzbommeln an winterlichen Kopfbedeckungen](/2015/04/vegane-haekelmuetzen-mit-statement/)
 aussieht kann ich noch nicht genau einschätzen. Im Moment ist einfach noch kein
 richtiges Mützenwetter.
 
@@ -127,11 +135,18 @@ Doch jetzt mal Butter bei die Fische! Welche Wintersachen sind denn
 empfehlenswert?
 
 Sehr schöne Stücke findet man zum Beispiel im Sortiment des nachhaltigen
-Herstellers "[Schweden](https://www.planet-sports.de/marken/dedicated/damen/)
-gegründet.
+Herstellers "[Dedicated](https://www.planet-sports.de/marken/dedicated/damen/)"
+. Es reicht von coolen T-Shirts über Windjacken bis hin zu gemütlichen Hoodies
+und Pullis. Bei "Dedicated" wird auf Nachhaltigkeit gesetzt. Die Mode wird fair
+und nachhaltig hergestellt. Die T-Shirts werden aus Bio-Baumwolle herstellt. Das
+Label wurde 2006 in [Schweden](/?s=schweden) gegründet.
 
 Bei mir ist vor zwei Jahren ein Wintermantel des Herstellers
-"[Ragwear](https://www.planet-sports.de/marken/mazine/damen/). Der hat übrigens
+"[Mazine](https://www.planet-sports.de/marken/mazine/damen/)" eingezogen. Auch
+hier wird auf einen gesunden Umgang mit dem Planeten Wert gelegt. Mein Mantel
+ist genau wie alle Klamotten des Labels mit "fair &amp; vegan" gelabelt. Das
+gilt auch für die gesamte Produktpalette des Herstellers
+[Ragwear](https://www.planet-sports.de/marken/ragwear/damen/). Der hat übrigens
 auch gerade wieder richtig hübsche Winterjacken im Angebot.
 
 ## Darfs noch eine Mütze sein?
@@ -140,25 +155,41 @@ auch gerade wieder richtig hübsche Winterjacken im Angebot.
 
 Für mich ist eine gemütliche Kopfbedeckung mit das Wichtigste überhaupt in der
 kalten Jahreszeit. Eine
-[Carhartt](https://www.planet-sports.de/accessoires/damen/muetzen/)" über den
-Weg läuft.
+[warmen Mütze](https://www.planet-sports.de/accessoires/damen/muetzen/)  muss
+ich immer griffbereit haben. Besonders gerne mag ich meine
+"[WYOB](/2015/04/ueberraschungspost-von-wyob/)" . Inzwischen nenne ich mehrere
+Exemplare aus der kleinen Manufaktur in der Nähe von Augsburg mein Eigen.
+Außerdem kann ich leider selten nein sagen, wenn mir wieder ein hübches Beanie
+von "[Carhartt](https://www.planet-sports.de/marken/carhartt-wip/damen/)" über
+den Weg läuft.
 
 Selber häkeln und stricken ist in der kalten Jahreszeit natürlich auch immer
 eine tolle Option! Das gilt übrigens auch für
-[Handschuhe](https://www.planet-sports.de/accessoires/damen/schals/) ! Und wenn
-man selbst keine Zeit oder Muße hat: Vielleicht freut sich Mutti ja, wenn man
-rechtzeitig mit einem schönen Weihnachtsgeschenk-Wunsch um die Ecke kommt?
+[Schals](https://www.planet-sports.de/accessoires/damen/schals/)  und 
+[Handschuhe](https://www.planet-sports.de/accessoires/damen/handschuhe/) ! Und
+wenn man selbst keine Zeit oder Muße hat: Vielleicht freut sich Mutti ja, wenn
+man rechtzeitig mit einem schönen Weihnachtsgeschenk-Wunsch um die Ecke kommt?
 
 ## Das ist mein Hoodie, Baby!
 
 <!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
 
-[ersten Artikel zum Thema "vegane nachhaltige Mode"](https://www.planet-sports.de/streetwear/damen/pullover/hoodies/).
+[Hoodies](https://www.planet-sports.de/streetwear/damen/pullover/hoodies/)  mag
+ich vor allem im Winter sehr gerne. Sie passen nahezu zu jedem Outfit dazu und
+halten warm. Sie kratzen nicht und ihre kuschelige Kapuze bietet eine
+zusätzliche Wärmeschicht, wenn die Pudelmütze mal nicht reicht. Nachhalige
+Hersteller sind zum Beispiel die beiden Hamburger Labels "Bitches &amp; Sons"
+und "Merijula" sowie
+"[Armed Angels](https://www.planet-sports.de/marken/armedangels/damen/)" aus
+Köln. Weitere tolle nachhaltige Brands findet Ihr in meinem
+[ersten Artikel zum Thema "vegane nachhaltige Mode"](/2018/02/faire-klamotten/).
 
 Wie geht es Euch? Habt Ihr bestimmte Lieblings-Brands? Gibt es Klamotten, die
 Ihr auf keinen Fall anziehen würdet? Wie steht Ihr zum Lagenlook? Ich bin
 gespannt auf Ihre Nachrichten!
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

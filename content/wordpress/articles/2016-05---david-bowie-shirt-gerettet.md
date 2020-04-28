@@ -4,12 +4,12 @@ seoTitle: David Bowie Shirt gerettet - Upcycling Stickerei für Musikfans
 slug: david-bowie-shirt-upcycling-stickere
 link: /2016/05/david-bowie-shirt-upcycling-stickere/
 fileName: 2016-05---david-bowie-shirt-gerettet.md
-description:
-  Mein geliebtes David Bowie Shirt hat durch das häufige Waschen und Tragen ein
-  paar Löchlein bekommen. Ich habe es mit ein paar kleinen Stickereien gerettet.
-excerpt:
-  Mein geliebtes David Bowie Shirt hat durch das häufige Waschen und Tragen ein
-  paar Löchlein bekommen. Ich habe es mit ein paar kleinen Stickereien gerettet.
+description: Mein geliebtes David Bowie Shirt hat durch das häufige Waschen und
+  Tragen ein paar Löchlein bekommen. Ich habe es mit ein paar kleinen
+  Stickereien gerettet.
+excerpt: Mein geliebtes David Bowie Shirt hat durch das häufige Waschen und
+  Tragen ein paar Löchlein bekommen. Ich habe es mit ein paar kleinen
+  Stickereien gerettet.
 focusKeyword: David
 labels:
   - Bands & Reviews
@@ -25,12 +25,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14664"
+image: /img/demo.jpg
+errors: []
 subTitle: Upcycling Stickerei für Musikfans
+  
 ---
 
-<strong>Mein geliebtes David Bowie Shirt hat durch das häufige Waschen und
-Tragen ein paar Löchlein bekommen. Ich habe jetzt mit meiner neuen Nähmaschine
-einfach was Neues draus gemacht.</strong>
+**Mein geliebtes David Bowie Shirt hat durch das häufige Waschen und Tragen ein
+paar Löchlein bekommen. Ich habe jetzt mit meiner neuen Nähmaschine einfach was
+Neues draus gemacht.**
 
 Zack, ein paar Herzen drauf gestickt und schon sieht es wieder gut aus. Oder was
 meint Ihr?
@@ -44,4 +47,6 @@ schöne Erinnerung an
 
 ![David | full](http://cardamonchai.com/wp-content/uploads/2016/05/25817765024_43bf4e933e_b-2.jpg)
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

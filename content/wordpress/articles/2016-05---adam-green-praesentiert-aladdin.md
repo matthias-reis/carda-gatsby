@@ -4,12 +4,12 @@ seoTitle: Adam Green präsentiert seinen Aladdin im Hamburger Abaton
 slug: adam-greens-aladdin
 link: /2016/05/adam-greens-aladdin/
 fileName: 2016-05---adam-green-praesentiert-aladdin.md
-description:
-  Adam Green präsentierte am 30. April im Hamburger Indie-Kino Abaton seinen
-  neuen Film Aladdin. Auf diesen Abend hatte ich mich schon sehr lange gefreut.
-excerpt:
-  Adam Green präsentierte am 30. April im Hamburger Indie-Kino Abaton seinen
-  neuen Film Aladdin. Auf diesen Abend hatte ich mich schon sehr lange gefreut.
+description: Adam Green präsentierte am 30. April im Hamburger Indie-Kino Abaton
+  seinen neuen Film Aladdin. Auf diesen Abend hatte ich mich schon sehr lange
+  gefreut.
+excerpt: Adam Green präsentierte am 30. April im Hamburger Indie-Kino Abaton
+  seinen neuen Film Aladdin. Auf diesen Abend hatte ich mich schon sehr lange
+  gefreut.
 focusKeyword: Adam Green
 labels:
   - Abaton
@@ -30,17 +30,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14646"
+image: /img/demo.jpg
+errors: []
 subTitle: Der Antifolk Star zu Gast im Hamburger Abaton
+  
 ---
 
-<strong>Am 30. April stand eine Veranstaltung an, auf die ich mich schon Monate
-zuvor gefreut hatte: Adam Green präsentierte seinen neuen Film Aladdin im
-Hamburger Indie-Kino Abaton</strong>.
+**Am 30. April stand eine Veranstaltung an, auf die ich mich schon Monate zuvor
+gefreut hatte: Adam Green präsentierte seinen neuen Film Aladdin im Hamburger
+Indie-Kino Abaton** .
 
 Zuerst begrüßte er die Gäste, das Kino war natürlich ausverkauft. Gebannt
-schauten wir uns den Film an. Alle Kulissen hat <strong>Adam Green</strong>
-selbst aus Pappmaché hergestellt und natürlich stammt auch der komplette
-Soundtrack von ihm. Ein Kinoerlebnis der ganz besonderen Art.
+schauten wir uns den Film an. Alle Kulissen hat **Adam Green** selbst aus
+Pappmaché hergestellt und natürlich stammt auch der komplette Soundtrack von
+ihm. Ein Kinoerlebnis der ganz besonderen Art.
 
 ## Adam Green stellte sich unseren Fragen
 
@@ -53,4 +56,6 @@ alte Bekannte darin auf. Mehr wird aber noch nicht verraten! ;-)
 
 ![Adam Green | full](http://cardamonchai.com/wp-content/uploads/2016/05/26644858502_850a7a7e80_z.jpg)
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

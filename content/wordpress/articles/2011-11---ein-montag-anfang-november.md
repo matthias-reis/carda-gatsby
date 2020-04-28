@@ -4,11 +4,9 @@ seoTitle: Ein Montag Anfang November - kurzer Tagebucheintrag
 slug: ein-montag-anfang-november
 link: /2011/11/ein-montag-anfang-november/
 fileName: 2011-11---ein-montag-anfang-november.md
-description:
-  Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr zu
-  beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern?
-excerpt:
-  Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr zu
+description: Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr
+  zu beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern?
+excerpt: Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr zu
   beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern?
 focusKeyword: ""
 labels:
@@ -45,7 +43,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2744"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
 Durch den Nebel ins Büro. Der erste Tag nach einer Woche Urlaub auf Balkonien.
@@ -74,3 +75,5 @@ das Alte weg, wie ein Paar zertretene Schuhe. Sondermüll. Nach ein paar Monaten
 geht alles wieder von vorne los. Und die Zeit vergeht einfach so. Unbemerkt.
 
 Doch es gibt einen Ausweg. Der Reisepass ist beantragt.
+
+  

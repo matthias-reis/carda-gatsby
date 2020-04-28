@@ -4,12 +4,10 @@ seoTitle: Isle Of Wight Festival - Meine Eindrücke - Bildergalerie
 slug: isle-of-wight-festival-2012
 link: /2012/07/isle-of-wight-festival-2012/
 fileName: 2012-07---isle-of-wight-festival-2012.md
-description:
-  Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit Euch teilen.
-  Ich wünsche Euch viel Spaß mit der Bildergalerie.
-excerpt:
-  Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit Euch teilen.
-  Ich wünsche Euch viel Spaß mit der Bildergalerie.
+description: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit
+  Euch teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
+excerpt: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit Euch
+  teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
 focusKeyword: Isle Of Wight Festival
 labels:
   - Bier
@@ -39,17 +37,28 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3427"
+image: /img/demo.jpg
+errors: []
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 4/9
+  
 ---
-
-[Teil 3/9](/2012/07/glastonbury/) Impressionen vom Isle Of Wight Festival 2012
 
 [gallery type="rectangular" link="none" size="medium"
 ids="3445,3444,3443,3442,3441,3440,3439,3438,3437,3436,3435,3434,3433,3432,3431,3430,3429,3428,3427,3426,3425,3424,3423,3422,3421,3420,3419,3418,3417,3416,3415"]
 
-Hier geht's zu [](/2012/07/schnappschuss/) der Galerie "England 2012"
+Hier geht's zu [_Teil 5/9_](/2012/07/schnappschuss/) der Galerie "England 2012"
 
-## Song zu den Fotos: Pearl Jam - Yellow Ledbetter
+## England 2012 Wegweiser1. [Sonne im Hafen](http://wp.me/p533wO-Ry)
+
+1.  [Der Kater und der Leuchtturm](/2012/08/der-kater-und-der-leuchtturm/)
+1.  [Glastonbury](/2012/07/glastonbury/)
+1.  [Isle Of Wight Festival](/2012/07/isle-of-wight-festival-2012/)
+1.  [Schnappschuss](/2012/07/schnappschuss/)
+1.  [Aloha Cornwall](/2012/07/aloa-cornwall/)
+1.  [Eden Project](/2012/08/eden-project-2/)
+1.  [Fabelwesen](/2012/08/fabelwesen/)
+1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/)## Song zu
+    den Fotos: Pearl Jam - Yellow Ledbetter
 
 [youtube=http://www.youtube.com/watch?v=THgFV_kdhH4]
 
@@ -75,4 +84,6 @@ want to stay
 
 ♥
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

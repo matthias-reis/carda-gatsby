@@ -1,16 +1,15 @@
 ---
 title: Brautstrauß für immer und ewig
-seoTitle:
-  Brautstrauß für immer und ewig - Schöne Erinnerungen in Asche konservieren DIY
+seoTitle: Brautstrauß für immer und ewig - Schöne Erinnerungen in Asche konservieren DIY
 slug: diy-brautstrauss-fuer-immer-und-ewig
 link: /2017/07/diy-brautstrauss-fuer-immer-und-ewig/
 fileName: 2017-07---brautstrauss-fuer-immer-und-ewig.md
-description:
-  Vor genau vier Jahren, am 5. Juli 2013 gaben sich Matze und ich das Ja-Wort.
-  Für meinen Brautstrauß habe ich mir etwas ganz Besonderes einfallen lassen.
-excerpt:
-  Vor genau vier Jahren, am 5. Juli 2013 gaben sich Matze und ich das Ja-Wort.
-  Für meinen Brautstrauß habe ich mir etwas ganz Besonderes einfallen lassen.
+description: Vor genau vier Jahren, am 5. Juli 2013 gaben sich Matze und ich das
+  Ja-Wort. Für meinen Brautstrauß habe ich mir etwas ganz Besonderes einfallen
+  lassen.
+excerpt: Vor genau vier Jahren, am 5. Juli 2013 gaben sich Matze und ich das
+  Ja-Wort. Für meinen Brautstrauß habe ich mir etwas ganz Besonderes einfallen
+  lassen.
 focusKeyword: Brautstrauß
 labels:
   - Blumen
@@ -28,12 +27,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16802"
+image: /img/demo.jpg
+errors: []
 subTitle: Schöne Erinnerungen in Asche konserviert
+  
 ---
 
 ![Brautstrauß](http://cardamonchai.com/wp-content/uploads/2017/06/Brautstrauß-9-von-9-640x480.jpg)
 
-<strong>
+**Vor genau vier Jahren, am 5. Juli 2013, gaben Matze und ich uns
+[das Ja-Wort](http://hochzeit.smartr.de/). Wundervoll romantisch in einem großen
+Garten. Den wundervollen Brautstrauß stiftete meine Mutter.**
 
 Den Strauß habe ich nicht geworfen, sondern seitdem in einer Schachtel
 aufbewahrt. Weil er inzwischen nicht mehr besonders schön aussieht und die große
@@ -53,15 +57,13 @@ seht Ihr übrigens, wie mein Brautstrauß am Tag der Hochzeit ausgesehen hat.
 
 ## Das benötigt Ihr
 
-<ul>
-    <li>Euren Brautstrauß</li>
-    <li>Eine Schere</li>
-    <li>Ein Feuerzeug oder Streichhölzer</li>
-    <li>Einen großen Kochtopf oder ein anderes feuerfestes Gefäß</li>
-    <li>Frische Luft</li>
-    <li>Ein kleines Glas mit Korkverschluss</li>
-    <li>Einen Löffel</li>
-</ul>
+- Euren Brautstrauß
+- Eine Schere
+- Ein Feuerzeug oder Streichhölzer
+- Einen großen Kochtopf oder ein anderes feuerfestes Gefäß
+- Frische Luft
+- Ein kleines Glas mit Korkverschluss
+- Einen Löffel
 
 ## So wird Euer Brautstrauß unsterblich
 
@@ -101,4 +103,6 @@ Hochzeitstag! &lt;3
 
 &nbsp;
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 1789px; left: 134px;">Merken</span>
+Merken
+
+  

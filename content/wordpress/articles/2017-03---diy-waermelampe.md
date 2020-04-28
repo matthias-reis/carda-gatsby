@@ -4,12 +4,10 @@ seoTitle: DIY Wärmelampe zum Entspannen - Wellness für zu Hause
 slug: diy-waermelampe
 link: /2017/03/diy-waermelampe/
 fileName: 2017-03---diy-waermelampe.md
-description:
-  Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine hochwertige
-  Wärmelampe für zu Hause bauen könnt. Ihr werdet erstaunt sein, wie leicht es
-  geht.
-excerpt:
-  Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine hochwertige
+description: Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine
+  hochwertige Wärmelampe für zu Hause bauen könnt. Ihr werdet erstaunt sein, wie
+  leicht es geht.
+excerpt: Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine hochwertige
   Wärmelampe für zu Hause bauen könnt. Ihr werdet erstaunt sein, wie leicht es
   geht.
 focusKeyword: Wärmelampe
@@ -38,12 +36,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16163"
+image: /img/demo.jpg
+errors: []
 subTitle: Wellness für zu Hause
+  
 ---
 
 ![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33265715562_3bc6282887_z-640x427.jpg)
 
-<strong>
+**Heute möchte ich Euch gerne zeigen, wie Ihr Euch ganz leicht mit ein paar
+Handgriffen eine tolle Wärmelampe für zu Hause bauen könnt.**
 
 In den letzten Wochen habe ich mich aufgrund meiner Rückenprobleme mal wieder
 zur Physiotherapie begeben. Eingeleitet wurde meine halbstündige Behandlung
@@ -72,10 +74,8 @@ und mein neues Projekt war geboren.
 
 ## Das braucht Ihr
 
-<ul>
-    <li>Robuste Stehlampe oder Scheinwerfer mit E27-Fassung</li>
-    <li>Infrarot-Birne für die Landwirtschaft</li>
-</ul>
+- Robuste Stehlampe oder Scheinwerfer mit E27-Fassung
+- Infrarot-Birne für die Landwirtschaft
 
 ![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33265712062_77d9e31a90_z-640x427.jpg)
 
@@ -97,6 +97,9 @@ Wärmelampe. Super, oder?
 
 ![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33265705792_1898125e4c_z-640x427.jpg)
 
+Die Wärmetherapie gehört zu den ersten bekannten medizinischen Behandlungen. Sie
+kommt sowohl in der modernen westlichen Schulmedizin, wie auch in der
+[Traditionellen Chinesischen Medizin](/2014/11/auf-dem-weg-zur-tiefenentspannung/)
 zum Einsatz. Besonders gerne greift man zum Beispiel bei Zerrungen, Rücken- und
 Nackenschmerzen sowie Regelschmerzen zu Wärmebehandlungen.
 
@@ -110,19 +113,21 @@ in Kontakt kommt.
 
 ![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33265709822_e3079e1107_z-640x427.jpg)
 
-sich sonnt? So entspannt hat er schon lange nicht mehr geschaut. Vorsicht: Bitte
-lasst Eure Haustiere nur unter Aufsicht unter die Wärmelampe!
+Übrigens: Auch Katzen finden Wärmelampen toll. Ist es nicht schön, wie
+[Chili](/2012/08/ode-an-den-kater/) sich sonnt? So entspannt hat er schon lange
+nicht mehr geschaut. Vorsicht: Bitte lasst Eure Haustiere nur unter Aufsicht
+unter die Wärmelampe!
 
 Ich wünsche Euch viel Spaß beim Basteln!
 
-<em>Bitte setzt Eure Wärmelampe verantwortungsbewusst ein. Verlasst nicht das
+_Bitte setzt Eure Wärmelampe verantwortungsbewusst ein. Verlasst nicht das
 Zimmer, wenn sie eingeschaltet ist, verwendet sie nicht bei Fieber oder über
 offenen Wunden sowie entzündeten Hautpartien. Seid außerdem bitte vorsichtig,
 wenn Ihr die Wärmebirne nach Euren Wärmeanwendungen wieder durch das normale
 Leuchtmittel austauscht: Wartet, bis sie abgekühlt ist, sie wird heiß! Natürlich
 verbraucht sie auch eine Menge Strom und sie sollte auf keinen Fall permanent
 eingeschaltet sein. Kleine Sitzungen von 10 - 15 Minuten Dauer reichen für eine
-Behandlung mit Wärme allerdings ohnehin aus.</em>
+Behandlung mit Wärme allerdings ohnehin aus._
 
 [gallery type="rectangular" size="large" link="none"
 ids="16164,16163,16162,16160,16159,16152"]
@@ -132,4 +137,6 @@ schnell und ich finde es klasse, dass man im Shop auch so etwas Spezielles
 finden kann! Wenn Ihr auch mal stöbern möchtet:
 [Hier entlang](http://de.rs-online.com/web/).
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

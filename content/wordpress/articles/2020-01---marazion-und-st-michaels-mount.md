@@ -4,13 +4,11 @@ seoTitle: Marazion und der St. Michael's Mount - Fernweh nach Cornwall
 slug: st-michaels-mount-marazion
 link: /2020/01/st-michaels-mount-marazion/
 fileName: 2020-01---marazion-und-st-michaels-mount.md
-description:
-  Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den Bildern
-  von diesen Orten kann ich so richtig schön von der Ferne träumen.
-excerpt:
-  Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den Bildern
-  von dieser ganz besonderen Gegend kann ich so richtig schön von der Ferne
-  träumen.
+description: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit
+  den Bildern von diesen Orten kann ich so richtig schön von der Ferne träumen.
+excerpt: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den
+  Bildern von dieser ganz besonderen Gegend kann ich so richtig schön von der
+  Ferne träumen.
 focusKeyword: St. Michael's Mount
 labels:
   - Brititsche Inseln
@@ -33,13 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27347"
+image: /img/demo.jpg
+errors: []
 subTitle: Fernweh nach Cornwall
+  
 ---
 
-<strong>Langsam aber sicher wird es wieder Zeit für einen Fernweh-Artikel. Kennt
-Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit den Bildern von
-diesen ganz besonderen Orten kann ich so richtig schön von der Ferne
-träumen.</strong>
+**Langsam aber sicher wird es wieder Zeit für einen Fernweh-Artikel. Kennt Ihr
+schon Marazion und St. Michael's Mount in Cornwall? Mit den Bildern von diesen
+ganz besonderen Orten kann ich so richtig schön von der Ferne träumen.**
 
 Nach unserem Besuch auf dem
 [Arctangent Festival](/2019/09/arctangent-festival-2019-2/) letztes Jahr hatten
@@ -68,3 +68,5 @@ Die kurze Wanderung durch das Watt ist ein ganz besonderes Erlebnis.
 Haben Euch meine Bilder gefallen?
 [Abonniert gerne meine Newsletter](#newsletter), um in Zukunft nichts mehr auf
 cardamonchai.com zu verpassen.
+
+  

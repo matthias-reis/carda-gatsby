@@ -4,12 +4,10 @@ seoTitle: Dunk!festival 2018 - 36 Post-Rock Bands in 3 Tagen
 slug: dunkfestival-2018-postrock-liebe-fuer-immer
 link: /2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/
 fileName: 2018-05---dunk-festival-2018.md
-description:
-  Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag,
-  10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
-excerpt:
-  Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag,
-  10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
+description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
+  Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
+excerpt: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
+  Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
 focusKeyword: Postrock
 labels:
   - As We Keep Searching
@@ -59,14 +57,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20872"
+image: /img/demo.jpg
+errors: []
 subTitle: 36 Post-Rock Bands in drei Tagen
+  
 ---
 
-<strong>Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
-Donnerstag, den 10. Mai bis Samstag, den 12. Mai 36 Post-Rock Bands auf. 26
-davon haben wir live gesehen. Zwar konnte ich die Musik nicht mit nach Hause
-nehmen, es sind mir jedoch mit meiner kleinen Konzertklickse ein paar
-Schnappschüsse gelungen, die ich Euch gerne zeigen möchte.</strong>
+**Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von Donnerstag,
+den 10. Mai bis Samstag, den 12. Mai 36 Post-Rock Bands auf. 26 davon haben wir
+live gesehen. Zwar konnte ich die Musik nicht mit nach Hause nehmen, es sind mir
+jedoch mit meiner kleinen Konzertklickse ein paar Schnappschüsse gelungen, die
+ich Euch gerne zeigen möchte.**
 
 Im Titel seht Ihr schon mal mein Lieblingsbild. Es ist am Donnerstag beim
 Auftritt von Ef entstanden. Das Festival war, genau wie schon
@@ -78,7 +79,10 @@ Partytouristen und ein Gefühl von Familie und guter Laune.
 
 Meine Favoriten waren Ef aus Schweden, Besides, As We Keep Searching aus Indien,
 Soup aus Norwegen, die Chellistin Jo Quail und das Elektronik-Duo Worried About
-Satan aus [Russian Circles](/category/unterwegs/england/) aus den USA.
+Satan aus [Großbritannien](/category/unterwegs/england/), The Ills aus der
+Slowakei, Grails aus den USA, La Bestia De Gevaudan und Tortuganonima aus Chile,
+The Ocean aus Deutschland und der Schweiz und natürlich Caspian und <a>Russian
+Circles</a> aus den USA.
 
 Insgesamt war das Event auch in diesem Jahr wieder ein internationales. Bands
 und Zuschauer reisten aus den verschiedensten Winkeln der Erde von Japan bis
@@ -145,14 +149,14 @@ ids="20897,20896,20895,20894,20893,20891,20892,20890,20889,20888,20887"]
 
 ## Wegweiser DUNK!festival
 
-<ol>
-    <li> [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) </li>
-    <li> [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/) </li>
-    <li> [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/) </li>
-    <li> [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/) </li>
-    <li> [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/) </li>
-    <li>DUNK!festival 2018 - Liebe für immer</li>
-    <li>DUNK!festival 2019 - das Line-up</li>
-</ol>
+1.  [DUNK!festival 2017 - Post-Rock in Begien](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/)
+1.  [DUNK!festival 2017 - Wir kommen!](/2017/05/dunkfestival-2017-es-geht-los/)
+1.  [DUNK!festival 2017 - Liebe auf den ersten Blick](/2017/06/dunk-festival-2017-eindruecke-und-bilder/)
+1.  [DUNK!festival 2018 - Das Line-up](/2018/04/dunkfest-2018-wir-kommen/)
+1.  [Wir läuten die Festivalsaison ein - Kurze Auszeit](/2018/05/wir-laeuten-die-festivalsaison-ein/)
+1.  DUNK!festival 2018 - Liebe für immer
+1.  DUNK!festival 2019 - das Line-up
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

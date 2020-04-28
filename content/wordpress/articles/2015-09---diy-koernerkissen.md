@@ -4,12 +4,10 @@ seoTitle: DIY Körnerkissen - Meine Nähanleitung
 slug: diy-koernerkissen-naehanleitung
 link: /2015/09/diy-koernerkissen-naehanleitung/
 fileName: 2015-09---diy-koernerkissen.md
-description:
-  Heute möchte ich Euch zeigen, wie Ihr Euch im Handumdrehen ein
+description: Heute möchte ich Euch zeigen, wie Ihr Euch im Handumdrehen ein
   schmerzlinderndes, schlafförderdes Körnerkissen schneidern könnt.
-excerpt:
-  Mein geliebtes Körnerkissen hat vor Kurzem das Zeitliche gesegnet, also war es
-  an der Zeit, ein neues zu nähen.
+excerpt: Mein geliebtes Körnerkissen hat vor Kurzem das Zeitliche gesegnet, also
+  war es an der Zeit, ein neues zu nähen.
 focusKeyword: Körnerkissen
 labels:
   - Dinkelkissen
@@ -49,14 +47,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12762"
+image: /img/demo.jpg
+errors: []
 subTitle: Nähanleitung
+  
 ---
-
-<strong>Mein geliebtes Körnerkissen hat vor Kurzem das Zeitliche gesegnet, also
-war es an der Zeit, ein neues zu nähen. Wie ich das gemacht habe, habe ich
-Schritt für Schritt festgehalten, sicher ist auch unter Euch der/die ein oder
-andere, der/die ab und zu mit Verspannungen oder Bauchweh zu kämpfen
-hat.</strong>
 
 ![Meine neuen Körnerkissen](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-44-640x427.jpg "Meine neuen Körnerkissen")
 
@@ -68,7 +63,22 @@ tun möchtet, könnt Ihr zusätzlich zu den Körnern auch noch ein paar getrockn
 Lavendelblüten mit in die Füllung geben, die wirken beruhigend, schlaffördernd
 und riechen einfach unglaublich gut.
 
-## Los gehts
+## Ihr braucht- Nähmaschine
+
+- Garn
+- Stoff in ausreichender Menge für die von Euch gewünschte Kissengröße (nehmt am
+  besten naturbelassene Baumwolle oder einen frisch gewaschenen, unbedruckten
+  Jutebeutel)
+- Stoff für den Kissenbezug (Auch hier: Am besten Baumwolle, sucht Euch ein
+  schönes Design aus)
+- Knöpfe oder Reißverschluss
+- Nähgarn
+- Getreide (Am besten eignen sich Dinkel, Hafer und Roggen) oder Kirschkerne
+- Lavendelblüten (falls gewünscht)
+- Stecknadeln
+- Schnittbogen, Zeitungspapier oder Zeichenpapier
+- Schneiderkreide oder Bleistift
+- Schere## Los gehts
 
 ![Das braucht Ihr](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-11-640x408.jpg "Das braucht Ihr")
 
@@ -152,16 +162,21 @@ Ich wünsche Euch viel Spaß beim Nähen!
 [gallery type="columns" link="none" size="large"
 ids="12743,12745,12746,12747,12749,12741,12742"]
 
-<strong>Hinweise</strong><ul><li>Das Kissen kann in der Mikrowelle bei 600 Watt
-2 Minuten lang erhitzt werden. Wenn es nicht warm genug ist, könnt Ihr noch mal
-eine Minute drauflegen.</li><li>bleibt während das Kissen erwärmt wird neben der
-Mikrowelle stehen und kontrolliert zwischendurch die Wärme!&gt;</li><li>Bitte
-nehmt auf jeden Fall vor dem Erwärmen den Kissenbezug ab!</li><li>Das erwärmte
-Kissen bitte nur mit der aufgezogenen Außenhülle anwenden!</li><li>Das erhitzte
-Kissen nicht auf nackte Haut legen!</li><li>Keimbildung vermeidet Ihr, indem Ihr
-das Kissen trocken lagert!</li><li>Das Kissen kann ca. 1 Jahr lang verwendet
-werden, danach verliert es nach und nach seine Wirkung.</li><li>Das Kissen bitte
-nicht auf Haustiere legen!</li><li>Den Kisseninhalt bitte nicht mehr zur
-Zubereitung von Speisen verwenden!</li></ul>
+**Hinweise** - Das Kissen kann in der Mikrowelle bei 600 Watt 2 Minuten lang
+erhitzt werden. Wenn es nicht warm genug ist, könnt Ihr noch mal eine Minute
+drauflegen.
 
-![Die Maße](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-8-640x427.jpg " [](/wp-content/uploads/2015/09/Körnerkissen-8.jpg)  Die Maße")
+- bleibt während das Kissen erwärmt wird neben der Mikrowelle stehen und
+  kontrolliert zwischendurch die Wärme!&gt;
+- Bitte nehmt auf jeden Fall vor dem Erwärmen den Kissenbezug ab!
+- Das erwärmte Kissen bitte nur mit der aufgezogenen Außenhülle anwenden!
+- Das erhitzte Kissen nicht auf nackte Haut legen!
+- Keimbildung vermeidet Ihr, indem Ihr das Kissen trocken lagert!
+- Das Kissen kann ca. 1 Jahr lang verwendet werden, danach verliert es nach und
+  nach seine Wirkung.
+- Das Kissen bitte nicht auf Haustiere legen!
+- Den Kisseninhalt bitte nicht mehr zur Zubereitung von Speisen verwenden!
+
+![Die Maße](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-8-640x427.jpg "[ ](/wp-content/uploads/2015/09/Körnerkissen-8.jpg)  Die Maße")
+
+  

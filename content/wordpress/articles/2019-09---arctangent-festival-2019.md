@@ -4,12 +4,10 @@ seoTitle: ArcTanGent Festival 2019 - die ganz große Festival-Liebe
 slug: arctangent-festival-2019-2
 link: /2019/09/arctangent-festival-2019-2/
 fileName: 2019-09---arctangent-festival-2019.md
-description:
-  Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt
-  mein Nachbericht - in Form einer verliebten Lobhudelei.
-excerpt:
-  Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt
-  mein Nachbericht - in Form einer verliebten Lobhudelei.
+description: Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt.
+  Hier kommt mein Nachbericht - in Form einer verliebten Lobhudelei.
+excerpt: Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier
+  kommt mein Nachbericht - in Form einer verliebten Lobhudelei.
 focusKeyword: ArcTanGent
 labels:
   - ArcTanGent
@@ -27,11 +25,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25852"
+image: /img/demo.jpg
+errors: []
 subTitle: Die ganz große Festival-Liebe
+  
 ---
 
-<strong>Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier
-kommt mein Nachbericht - in Form einer verliebten Lobhudelei.</strong>
+**Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt
+mein Nachbericht - in Form einer verliebten Lobhudelei.**
 
 ![arctangent](http://cardamonchai.com/wp-content/uploads/2019/08/2019-08-28-arctangent-10-400x267.jpg "Silent Disco")
 
@@ -59,16 +60,15 @@ Bands auf.
 
 ## Meine Highlights waren
 
-<strong>And So I Watch You From Afar, Cult Of Luna, Caspian, Russian Circles,
+**And So I Watch You From Afar, Cult Of Luna, Caspian, Russian Circles,
 65daysofstatic, The Ocean, Midas Fall, Physics Houseband, Aiming For Enrike,
 Coheed &amp; Cambria, Zeal &amp; Ardor, Cultdreams, Ithaka, Bossk und Carpenter
-Brut.</strong>
+Brut.**
 
 ![arctangent](http://cardamonchai.com/wp-content/uploads/2019/08/2019-08-28-arctangent-15-400x533.jpg "Leckeres veganes Essen")
 
-Meine geliebten <strong>Toska</strong> und <strong>Sleep Token</strong> habe ich
-leider verpasst. Aber es gab auch einfach so wahnsinnig viel zu sehen, zu hören
-und zu entdecken!
+Meine geliebten **Toska** und **Sleep Token** habe ich leider verpasst. Aber es
+gab auch einfach so wahnsinnig viel zu sehen, zu hören und zu entdecken!
 
 ## Gemütliches Gelände, veganes Essen und nette Menschen
 
@@ -97,3 +97,5 @@ fotografiert. Ich denke, einen kleinen Eindruck bekommt Ihr auf jeden Fall
 trotzdem.
 
 [glry name="annearctangent2019"]
+
+  

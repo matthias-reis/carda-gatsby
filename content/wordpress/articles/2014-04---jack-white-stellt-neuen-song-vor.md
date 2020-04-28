@@ -4,12 +4,12 @@ seoTitle: Jack White stellt neuen Song "High Ball Stepper" vor
 slug: jack-white-stellt-neuen-song-vor
 link: /2014/04/jack-white-stellt-neuen-song-vor/
 fileName: 2014-04---jack-white-stellt-neuen-song-vor.md
-description:
-  'Jack White stellt seinen neuen Song "High Ball Stepper" vor. Die Gerüchte
-  wurden also bestätigt. Ich verrate Euch schon mal: Es lohnt sich, reinzuhören!'
-excerpt:
-  'Jack White stellt seinen neuen Song "High Ball Stepper" vor. Die Gerüchte
-  wurden also bestätigt. Ich verrate Euch schon mal: Es lohnt sich, reinzuhören!'
+description: 'Jack White stellt seinen neuen Song "High Ball Stepper" vor. Die
+  Gerüchte wurden also bestätigt. Ich verrate Euch schon mal: Es lohnt sich,
+  reinzuhören!'
+excerpt: 'Jack White stellt seinen neuen Song "High Ball Stepper" vor. Die
+  Gerüchte wurden also bestätigt. Ich verrate Euch schon mal: Es lohnt sich,
+  reinzuhören!'
 focusKeyword: Jack White
 labels:
   - Bands & Reviews
@@ -32,33 +32,36 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7922"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues Album  "Lazaretto" am 6. Juni
+  
 ---
 
-![Bild: Jack White Live Photos | full](http://cardamonchai.files.wordpress.com/2014/04/jack3.jpg " [](http://jackwhiteiii.com/live-photos/)  Bild: Jack White Live Photos")
+![Bild: Jack White Live Photos | full](http://cardamonchai.files.wordpress.com/2014/04/jack3.jpg "[ ](http://jackwhiteiii.com/live-photos/)  Bild: Jack White Live Photos")
 
-<strong>Schon vor einiger Zeit wurden mir Gerüchte zugetragen, Jack White würde
-an einem neuen musikalischen Werk schrauben, das schon sehr bald das Licht der
+**Schon vor einiger Zeit wurden mir Gerüchte zugetragen, Jack White würde an
+einem neuen musikalischen Werk schrauben, das schon sehr bald das Licht der
 Schallplattenläden erblicken sollte. Vor etwas über einer Woche zündete der
 Musiker dann die erste Stufe: Das neue Album wird den Namen Lazaretto tragen und
-ausgerechnet an meinem Geburtstag auf meinem Plattenteller landen!</strong>
+ausgerechnet an meinem Geburtstag auf meinem Plattenteller landen!**
 
 Doch damit nicht genug: Gestern war es dann soweit: Mit "High Ball Stepper"
 kletterte die erste Single aus "Lazaretto" aus dem Osternest. Natürlich habe ich
 sie nach dem sorgfältigen Entwirren meiner Kopfhörerkabel gleich mal ausgiebig
 angehört und bin dabei zu folgenden Erkenntnissen gekommen:
 
-![Stufe 1 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack.png " [](http://www.rollingstone.com/music/news/jack-white-hits-the-road-on-lazaretto-summer-tour-20140407)  Stufe 1 der Rakete")
+![Stufe 1 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack.png "[ ](http://www.rollingstone.com/music/news/jack-white-hits-the-road-on-lazaretto-summer-tour-20140407)  Stufe 1 der Rakete")
 
 Jack White schafft es immer wieder, mich zu überraschen und es war ganz klar die
 richtige Entscheidung, das neue Album schon mal vorzubestellen. Natürlich habe
 ich nichts anderes erwartet, doch es hier noch mal schwarz auf weiß zu verewigen
 gibt mir Bestätigung und ich kann einfach nicht darauf verzichten.
 
-<em>Es ist also Vorsicht geboten! Ab hier kann mein Text Spoiler enthalten, wer
+_Es ist also Vorsicht geboten! Ab hier kann mein Text Spoiler enthalten, wer
 diese nicht lesen möchte, sollte zuerst ganz nach unten scrollen und sich das
 Video ansehen und dann weiterlesen. Oder aber die Single runterladen und
-gleichzeitig hören. Das ist natürlich am spannendesten. ;-)</em>
+gleichzeitig hören. Das ist natürlich am spannendesten. ;-)_
 
 Überraschung No. 1: "High Ball Stepper" ist ein Instrumental. Man könnte es für
 ein klassisches Intro halten, doch dem ist nicht so: Es handelt sich dabei um
@@ -80,21 +83,31 @@ letzen Jahr erschienene "Blunderbuss" und auch musikalisch durchaus in eine
 komplett andere Richtung gehen kann, als die Vorauskopplung.
 
 Erscheinen wird die Scheibe natürlich auf Jacks Label
-[Jacks Homepage](http://thirdmanrecords.com/). Übrigens befindet sich Jack, was
-das Artwork und die vorab veröffentlichten Bilder angeht nach wie vor in seiner
-"Blauen Phase"...
+[Third Man Records](http://thirdmanrecords.com/). Aktuelle News dazu bekommt Ihr
+selbstverständlich auch auf [Jacks Homepage](http://jackwhiteiii.com/news/).
+Übrigens befindet sich Jack, was das Artwork und die vorab veröffentlichten
+Bilder angeht nach wie vor in seiner "Blauen Phase"...
 
-![Stufe 2 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack2.jpg?w=576 " [](https://itunes.apple.com/de/album/lazaretto/id857917614?ign-mpt=uo%3D4)  Stufe 2 der Rakete")
+![Stufe 2 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack2.jpg?w=576 "[ ](https://itunes.apple.com/de/album/lazaretto/id857917614?ign-mpt=uo%3D4)  Stufe 2 der Rakete")
 
-<strong>Hier die komplette Tracklist von "Lazaretto":</strong><ol><li>Three
-Women</li><li>Lazaretto</li><li>Temporary Ground</li><li>Would You Fight For My
-Love?</li><li>High Ball Stepper</li><li>Just One Drink</li><li>Alone In My
-Home</li><li>Entitlement</li><li>That Black Bat Licorice</li><li>I Think I Found
-The Culprit</li><li>Want And Able</li></ol>
+**Hier die komplette Tracklist von "Lazaretto":** 1. Three Women
+
+1.  Lazaretto
+1.  Temporary Ground
+1.  Would You Fight For My Love?
+1.  High Ball Stepper
+1.  Just One Drink
+1.  Alone In My Home
+1.  Entitlement
+1.  That Black Bat Licorice
+1.  I Think I Found The Culprit
+1.  Want And Able
 
 Und als Highlight das Video zu "High Ball Stepper". Viel Spaß damit! Wir dürfen
 gespannt sein, wie es weitergeht und welche Stufe der Rakete Herr White als
 nächstes zünden wird.
-[](//2014/04/22/sondermeldung-schnellste-platte-der-welt-veroffentlicht/)
+[_Weiterlesen! Hier geht's zur dritten Stufe der Rakete!_](//2014/04/22/sondermeldung-schnellste-platte-der-welt-veroffentlicht/)
 
 [youtube http://www.youtube.com/watch?v=sRbnAxrS3EM]
+
+  

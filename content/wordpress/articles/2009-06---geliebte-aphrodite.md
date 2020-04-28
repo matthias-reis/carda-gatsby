@@ -4,12 +4,10 @@ seoTitle: Geliebte Aphrodite?
 slug: geliebte-aphrodite
 link: /2009/06/geliebte-aphrodite/
 fileName: 2009-06---geliebte-aphrodite.md
-description:
-  Zwischen 2000 und 2002 erhitzte der "Kunstskandal" um die Aphrodite die
-  Gemüter der Augsburger Bürger.
-excerpt:
-  Zwischen 2000 und 2002 erhitzte ein kleiner "Kunstskandal" die Gemüter der
-  Augsburger Bürger.
+description: Zwischen 2000 und 2002 erhitzte der "Kunstskandal" um die Aphrodite
+  die Gemüter der Augsburger Bürger.
+excerpt: Zwischen 2000 und 2002 erhitzte ein kleiner "Kunstskandal" die Gemüter
+  der Augsburger Bürger.
 focusKeyword: Aphrodite
 labels:
   - Aphrodite
@@ -22,21 +20,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11385"
+image: /img/demo.jpg
+errors: []
 subTitle: Wegen dieser Dame stand die Augsburger Kunstwelt Kopf
+  
 ---
-
-<strong>Zwischen 2000 und 2002 erhitzte ein kleiner "Kunstskandal" die Gemüter
-der Augsburger Bürger.</strong>
 
 ![Umstrittene Statue](http://cardamonchai.com/wp-content/uploads/2009/06/Aphrodite2-640x480.jpg)
 
-Alles begann damit, dass die Verle<strong>" schenkte, eine Skulptur des
-deutschen Künstlers Markus Lüpertz. Die Bronzeplastik sollte zuerst den Platz
-vor den Ulrichskirchen zieren.
+Alles begann damit, dass die Verle \_**\_ gerin Ellinor Holland zum Gedenken an
+den hundertsten Geburtstag ihres Vaters der Stadt Augsburg die " **Aphrodite\_\_
+" schenkte, eine Skulptur des deutschen Künstlers Markus Lüpertz. Die
+Bronzeplastik sollte zuerst den Platz vor den Ulrichskirchen zieren.
 
 Einige Augsburger waren sofort begeistert, unter ihnen auch der damalige
-Oberbürgermeister der Stadt. Zuerst wurde die "<strong>Aphrodite</strong>" im
-Foyer des Augsburger Rathauses aufgestellt, wohl um die Bürger an die Statue zu
+Oberbürgermeister der Stadt. Zuerst wurde die " **Aphrodite** " im Foyer des
+Augsburger Rathauses aufgestellt, wohl um die Bürger an die Statue zu
 "gewöhnen". Mit ihrer molligen Figur und ihrem "vor Scham geröteten Gesicht",
 stellte sie jedoch nicht das dar, was man sich allgemein unter dem Namen
 "Aphrodite" vorstellt.
@@ -72,7 +71,13 @@ Historische Gebäude mit moderner Architektur (Siehe z. B. Berliner
 Gedächniskirche)? Oder habt ihr das Gefühl, diese Skulptur hat mit Kunst nichts
 zu tun?
 
-<strong>Quellen:</strong>
-[http://de.wikipedia.org/wiki/Aphrodite](http://de.wikipedia.org/wiki/Augsburg)
+**Quellen:**
+[http://de.wikipedia.org/wiki/Augsburg](http://de.wikipedia.org/wiki/Augsburg)
+[http://www2.augsburg.de/](http://www2.augsburg.de/)
+[http://www.augsburgwiki.de/index.php/AugsburgWiki/...](http://www.augsburgwiki.de/index.php/AugsburgWiki/Aphrodite-Kunstskandal)
+**Wer ist Aphrodite?**
+[http://de.wikipedia.org/wiki/Aphrodite](http://de.wikipedia.org/wiki/Aphrodite)
 
 &nbsp;
+
+  

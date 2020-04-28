@@ -4,11 +4,9 @@ seoTitle: Menschliche Abgründe - "Die Verlorene Tochter"
 slug: menschliche-abgrunde
 link: /2011/06/menschliche-abgrunde/
 fileName: 2011-06---menschliche-abgruende.md
-description:
-  Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
+description: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
   nachdenklich. Ein sehr brisantes, aktuelles Thema.
-excerpt:
-  Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
+excerpt: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
   nachdenklich. Ein sehr brisantes, aktuelles Thema.
 focusKeyword: Abgründe
 labels:
@@ -54,9 +52,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2046"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <div> (29:229)"
 subTitle: '"Die verlorene Tochter"'
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <div> (29:229)
+
+<!--
 Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt nachdenklich.
 Ein sehr brisantes, aktuelles Thema. Parallel dazu trugen im Privatfernsehen
 aufmerksamkeitsgeile C-Promis zur Klimaerwärmung bei, indem sie Fertigpudding
@@ -81,9 +87,13 @@ schützen? Hält es potentielle Straftäter von einem Gewaltdelikt ab? Oder brin
 sie manche sogar erst dazu? Was verleitet einen Menschen zu solch einem
 Verbrechen?
 
-<strong>Link zum Thema:
-</strong><span style="text-decoration: underline;">http://www.stern.de/panorama/suche-nach-mary-janes-moerder-1699735.html</span><div class="mceTemp"><div class="mceTemp">
+**Link zum Thema:**
+http://www.stern.de/panorama/suche-nach-mary-janes-moerder-1699735.html<div class="mceTemp"><div class="mceTemp">
 
 ![Bildquelle: M.E. pixelio.de | full](http://cardamonchai.files.wordpress.com/2011/06/neues-bild.jpg "Bildquelle: M.E. pixelio.de")
 
-</div></div><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Merken</span>
+</div></div>Merken
+
+-->
+
+  

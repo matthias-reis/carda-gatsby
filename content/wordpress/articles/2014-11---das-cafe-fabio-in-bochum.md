@@ -4,12 +4,10 @@ seoTitle: Das Café Fabio in Bochum - vegan essen im Ruhrgebiet
 slug: das-cafe-fabio-in-bochum
 link: /2014/11/das-cafe-fabio-in-bochum/
 fileName: 2014-11---das-cafe-fabio-in-bochum.md
-description:
-  Aus Liebe zu Mensch, Tier und Umwelt betreibt Nurcan Klossek das
+description: Aus Liebe zu Mensch, Tier und Umwelt betreibt Nurcan Klossek das
   vegan/vegetarische Café Fabio in der Brüderstraße 12 mitten im Herzen von
   Bochum.
-excerpt:
-  Aus Liebe zu Mensch, Tier und Umwelt betreibt Nurcan Klossek das
+excerpt: Aus Liebe zu Mensch, Tier und Umwelt betreibt Nurcan Klossek das
   vegan/vegetarische Café Fabio in der Brüderstraße 12 mitten im Herzen von
   Bochum.
 focusKeyword: Café Fabio
@@ -26,12 +24,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24478"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegan essen im Ruhrgebiet
+  
 ---
-
-<strong>Aus Liebe zu Mensch, Tier und Umwelt betreibt Nurcan Klossek das
-vegan/vegetarische Café Fabio in der Brüderstraße 12 mitten im Herzen von
-Bochum.</strong>
 
 "I have a dream" – so lautet ihr Motto, am 6. Januar wurde aus dem Traum
 Realität, als sie am Morgen die Tür des Fabio das erste Mal für ihre Gäste
@@ -64,3 +61,5 @@ Mit den Biospeisen aus eigener Produktion hebt sich das Fabio ganz klar ab vom
 einheitlichen Innenstadtbild aus Mode- und Restaurantketten. Das Team des Fabio
 hat es sich zum Ziel gemacht, den veganen Gedanken in Bochum zu verbreiten.
 Infos findet Ihr [auf der Homepages des Cafés](https://www.cafefabio.com).
+
+  

@@ -4,13 +4,11 @@ seoTitle: Roberts Teehaus im Test - hochwertiger Tee zum fairen Preis
 slug: roberts-teehaus-im-test
 link: /2019/12/roberts-teehaus-im-test/
 fileName: 2019-12---roberts-teehaus-im-test.md
-description:
-  Ich habe die Tees aus Roberts Teehaus getestet und möchte Euch ein paar
-  ausgewählte Sorten empfehlen - von Jasmin Pearls bis Silbernadeltee.
-excerpt:
-  Werbung & Affiliate Links  - Ich habe die Tees aus Roberts Teehaus getestet
-  und möchte Euch ein paar ausgewählte Sorten empfehlen - von Jasmin Pearls bis
-  Silbernadeltee.
+description: Ich habe die Tees aus Roberts Teehaus getestet und möchte Euch ein
+  paar ausgewählte Sorten empfehlen - von Jasmin Pearls bis Silbernadeltee.
+excerpt: Werbung & Affiliate Links  - Ich habe die Tees aus Roberts Teehaus
+  getestet und möchte Euch ein paar ausgewählte Sorten empfehlen - von Jasmin
+  Pearls bis Silbernadeltee.
 focusKeyword: Teehaus
 labels:
   - Cey
@@ -40,14 +38,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26844"
+image: /img/demo.jpg
+errors: []
 subTitle: Hochwertige Tees zum fairen Preis
+  
 ---
 
-<em>Werbung &amp; Affiliate Links\*</em>
+_Werbung &amp; Affiliate Links\*_
 
-<strong>Kennt Ihr schon Roberts Teehaus? Im Onlineshop könnt Ihr leckere
-Teesorten nach Hause bestellen. Ich habe getestet und kann das Teegeschäft aus
-Mittweida empfehlen.</strong>
+**Kennt Ihr schon Roberts Teehaus? Im Onlineshop könnt Ihr leckere Teesorten
+nach Hause bestellen. Ich habe getestet und kann das Teegeschäft aus Mittweida
+empfehlen.**
 
 Seid Ihr wie ich Teefreund\*innen? Dann solltet Ihr jetzt weiterlesen. Die
 Kund\*innen haben Roberts Teehaus schon mal mit "sehr gut" bewertet - warum dann
@@ -170,7 +171,7 @@ testen möchte, kann ganz einfach im Onlineshop seine Bestellung aufgeben.
 ## Gutscheincode für Euch
 
 Mit dem Gutscheincode WEIHNACHTEN erhalten meine Leser\*innen bis zum 26
-Dezember 19 <strong>20 Prozent Rabatt</strong>
+Dezember 19 **20 Prozent Rabatt**
 [auf alle Produkte im Roberts Teehaus Onlineshop](https://www.adcell.de/promotion/click/promoId/207071/slotId/80259).
 
 [glry name="robertsteehaus"]
@@ -179,7 +180,9 @@ Hat Euch mein Testbericht gefallen? Wenn Ihr in Zukunft nichts auf meinem Blog
 verpassen möchtet, [abonniert gerne meinen Newsletter](#newsletter), dann halte
 ich Euch auf dem Laufenden.
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

@@ -1,12 +1,11 @@
 const prettier = require('prettier');
 
-const s = `
-hier
-
-## kommt
-ein input
-
-<p>hallo sdfsdf sdfsdfsdf sdfsdfsdfsd sdfsdfsdfsd <strong> sdfsdfsdf sdfsdfsdf sdfsdfsdf sdfdsfsdfsdf sdfsdfsdf sdfsdfsdf </strong></p>
-`;
-
-console.log(prettier.format(s, { parser: 'mdx', proseWrap: 'always' }));
+module.exports = async (l, e, data, parser = 'mdx') => {
+  // we parse with the mdx option first to get well formed stuff
+  data.content = prettier.format(data.content, {
+    printWidth: 80,
+    parser: 'markdown',
+    proseWrap: 'always',
+  });
+  return data;
+};

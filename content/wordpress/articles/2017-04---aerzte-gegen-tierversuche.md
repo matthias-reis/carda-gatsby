@@ -1,17 +1,14 @@
 ---
 title: Ärzte gegen Tierversuche
-seoTitle:
-  Bundestagspetition der Ärzte gegen Tierversuche - Bitte bis zum 11. April
-  mitzeichnen!
+seoTitle: Bundestagspetition der Ärzte gegen Tierversuche - Bitte bis zum 11.
+  April mitzeichnen!
 slug: bundestagpetition-der-aerzte-gegen-tierversuche
 link: /2017/04/bundestagpetition-der-aerzte-gegen-tierversuche/
 fileName: 2017-04---aerzte-gegen-tierversuche.md
-description:
-  50.000 Unterschriften benötigen die Ärzte gegen Tierversuche, damit sie ihre
-  Argumente im Bundestag vorbringen dürfen. Bitte zeichnet jetzt mit!
-excerpt:
-  50.000 Unterschriften benötigen die Ärzte gegen Tierversuche, damit sie ihre
-  Argumente im Bundestag vorbringen dürfen. Bitte zeichnet jetzt mit!
+description: 50.000 Unterschriften benötigen die Ärzte gegen Tierversuche, damit
+  sie ihre Argumente im Bundestag vorbringen dürfen. Bitte zeichnet jetzt mit!
+excerpt: 50.000 Unterschriften benötigen die Ärzte gegen Tierversuche, damit sie
+  ihre Argumente im Bundestag vorbringen dürfen. Bitte zeichnet jetzt mit!
 focusKeyword: Ärzte gegen Tierversuche
 labels:
   - Ärzte gegen Tierversuche
@@ -31,17 +28,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16236"
+image: /img/demo.jpg
+errors: []
 subTitle: Bundestagspetition
+  
 ---
 
 ![Ärzte gegen Tierversuche](http://cardamonchai.com/wp-content/uploads/2017/04/004_.jpg)
 
-<strong>
+**Die  _Ärzte gegen Tierversuche_ benötigen 50.000 Unterschriften. Liegen diese
+bis zum 11. April vor, dürfen sie ihre Argumente bei einer offiziellen Anhörung
+im Petitionsausschuss des Bundestages vorbringen.**
 
-Die <em>Ärzte gegen Tierversuche </em>fordern die Überarbeitung des
-Tierschutzrechts und damit das Verbot von Tierversuchen mit dem
-Schweregrad <em>schwer</em> sowie die Beseitigung von Verstößen gegen die
-Tierversuchsrichtlinie.
+Die  _Ärzte gegen Tierversuche_ fordern die Überarbeitung des Tierschutzrechts
+und damit das Verbot von Tierversuchen mit dem Schweregrad  _schwer_  sowie die
+Beseitigung von Verstößen gegen die Tierversuchsrichtlinie.
 
 ## Das sinnlose Leid der Tiere muss ein Ende haben!
 
@@ -52,7 +53,10 @@ bis zum 11. April unter dem folgenden Link mitzeichnen:
 
 Im Text der Petition 69.364 heißt es
 
-<blockquote>Die Bundesregierung wird ersucht, die Regelungen zu Tierversuchen in Deutschland zu überarbeiten, um die per Rechtsgutachten dokumentierten tierschutzrelevanten Verstöße gegen die EU-Tierversuchsrichtlinie zu beseitigen.</blockquote>
+> Die Bundesregierung wird ersucht, die Regelungen zu Tierversuchen in
+> Deutschland zu überarbeiten, um die per Rechtsgutachten dokumentierten
+> tierschutzrelevanten Verstöße gegen die EU-Tierversuchsrichtlinie zu
+> beseitigen.
 
 Mittels eines Gutachtens belegt die Organisation 18 Verstöße des geltenden
 deutschen Tierschutzrechts gegen die Tierversuchsrichtlinie 2010/63/EU, die in
@@ -64,11 +68,13 @@ Die Petition findet Ihr, wie bereits oben angemerkt, unter
 
 [http://www.bundestagspetition.aerzte-gegen-tierversuche.de](http://www.bundestagspetition.aerzte-gegen-tierversuche.de/)
 
-Die Aktion der  [](https://www.aerzte-gegen-tierversuche.de/de/)  ist von großer
-Wichtigkeit. Es geht darum, das unermessliche Leid der Tiere so schnell  wie
-möglich zu beenden. Nur, wenn die Petition bis zum 11. April 50.000 Mitzeichner
-zählt, wird es zu einer offiziellen Anhörung kommen. Die Organisation kann nur
-dann ein Verbot besonders leidvoller Tierversuche erwirken.
+Die Aktion der 
+[_Ärzte gegen Tierversuche_](https://www.aerzte-gegen-tierversuche.de/de/)  ist
+von großer Wichtigkeit. Es geht darum, das unermessliche Leid der Tiere so
+schnell  wie möglich zu beenden. Nur, wenn die Petition bis zum 11. April 50.000
+Mitzeichner zählt, wird es zu einer offiziellen Anhörung kommen. Die
+Organisation kann nur dann ein Verbot besonders leidvoller Tierversuche
+erwirken.
 
 ## Tiere werden zum Schwimmen gezwungen, bis sie ertrinken
 
@@ -84,7 +90,12 @@ und müssen die Abstoßungsreaktionen von Implantaten über sich ergehen lassen.
 Ihnen werden Tumore und genetische Fehler angezüchtet.
 
 Ich bin der Meinung, dieses Thema geht jeden etwas an.
-[Legt am besten gleich los](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
+[Tierversuche](/2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/)
+sind unnötig und sinnlos. Sie sind durch nichts zu rechtfertigen und es wurde
+bereits oft genug bewiesen, dass die Ergebnisse nicht auf den Menschen
+übertragbar sind. Macht bitte alle mit, nur so können die 50.000 Stimmen
+erreicht werden!
+[Legt am besten gleich los](https://epetitionen.bundestag.de/content/petitionen/_2017/_01/_09/Petition_69364.html)
 !
 
 Wer jetzt noch juristische und wissenschaftliche Argumente benötigt, findet
@@ -92,7 +103,7 @@ diese mit dem Klick auf folgendes Banner.
 
 ![Ärzte gegen Tierversuche](http://cardamonchai.com/wp-content/uploads/2017/04/17553490_10155616921599796_7138675616111581720_n.jpg)
 
-<a href="http://www.schwimmen-bis-zur-verzweiflung.de/" target="_blank" rel="noopener">
+[](http://www.schwimmen-bis-zur-verzweiflung.de/)
 
 Bilder: [Ärzte gegen Tierversuche](https://www.aerzte-gegen-tierversuche.de/de/)
 
@@ -102,3 +113,5 @@ Bilder: [Ärzte gegen Tierversuche](https://www.aerzte-gegen-tierversuche.de/de/
 &nbsp;
 
 </div>
+
+  

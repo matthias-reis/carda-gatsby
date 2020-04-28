@@ -4,11 +4,10 @@ seoTitle: Make-up-Fasten - Einfach mal auf Schminke verzichten
 slug: make-up-fasten
 link: /2018/07/make-up-fasten/
 fileName: 2018-07---make-up-fasten.md
-description:
-  Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich.
-  Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu verzichten.
-excerpt:
-  Produktplatzierung - Ich liebe Make-up und trage es schon seit meiner
+description: Ich liebe Make-up und trage es schon seit meiner frühesten Jugend
+  täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu
+  verzichten.
+excerpt: Produktplatzierung - Ich liebe Make-up und trage es schon seit meiner
   frühesten Jugend täglich. Doch ab und zu genieße ich es auch, mal ein paar
   Tage darauf zu verzichten.
 focusKeyword: Make-up
@@ -42,14 +41,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21456"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Unterminated JSX contents (83:16)"
 subTitle: Einfach mal auf Schminke verzichten
+  
 ---
 
-<em>Produktplatzierung\*</em>
+## unknown: Unterminated JSX contents (83:16)
 
-<strong>Ich liebe Make-up und trage es schon seit meiner frühesten Jugend
-täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage lang darauf zu
-verzichten. Inzwischen macht mir das richtig Spaß.</strong>
+<!--
+_Produktplatzierung\*_
+
+**Ich liebe Make-up und trage es schon seit meiner frühesten Jugend täglich.
+Doch ab und zu genieße ich es auch, mal ein paar Tage lang darauf zu verzichten.
+Inzwischen macht mir das richtig Spaß.**
 
 ![Make-up](http://cardamonchai.com/wp-content/uploads/2018/07/17-09-08__335-400x600.jpg "Ungeschminkt auf Fototour")
 
@@ -69,7 +76,11 @@ Fältchen gehen etwas zurück, der Teint wirkt insgesamt ausgeglichener.
 Auf die gewohnte Reinigung sollte man jedoch auch während der Zeit des
 Make-up-Fastens nicht verzichten. Auch die zum Hauttyp passende Pflege sollte
 nicht zu kurz kommen. Am ersten Tag kann man
-[Santaverde](/2018/05/hej-organic-kosmetik-im-test/).
+[eine Feuchtigkeit spendende oder klärende Maske](/2018/05/hej-organic-kosmetik-im-test/)
+auflegen. Morgens sollte man das Gesicht wie gewohnt mit einem milden,
+seifenfreien Waschstück oder einer Emulsion reinigen. Mein Favorit ist auf
+diesem Gebiet im Moment die Aloe Vera Reinigungsemulsion von
+[Santaverde](/2018/01/santaverde/).
 
 Anschließend sprühe ich den Aloe Vera Toner aus der "Pure" Serie auf. Er beugt
 Hautunreinheiten vor und kühlt schön. Das ist übrigens auch mein absoluter
@@ -126,13 +137,6 @@ noch viele weitere tolle Effekte, die Ihr feststellen werdet:
 
 <ul>
     <li>
-    <li>Man kann seinen Freudentränen freien Lauf lassen, wenn man merkt, wie klasse es einem ohne Schminke geht. Ganz ohne Pandaaugen.</li>
-    <li>Die Pickel werden weniger und die Haut atmet insgesamt auf.</li>
-    <li>Dadurch, dass die Poren nicht mehr permanent verstopft werden, werden sie feiner, die Haut reguliert sich selbst, die Faltenbildung lässt nach.</li>
-    <li>Die Augen sind weniger gereizt. Klar, wenn nicht ständig Wimperntuschepartikel im Tränenkanal landen, bekommt man auch nicht so schnell rote Äuglein.</li>
-    <li>Allergische Reaktionen lassen nach und sind weniger heftig.</li>
-    <li>Irgendwann traut man sich dann auch ohne Make-up ins Stammcafé und erhält ein Kompliment von der Kellnerin. "Du siehst aber heute gut aus! So erholt!" Eins kann ich Euch verraten: Ein ungeschminkt empfangenes Kompliment von einer Person, die einen so gut wie jeden Tag sieht, geht runter wie Öl!</li>
-</ul>
 
 Wer jetzt neugierig geworden ist und das Make-up-Fasten auch mal ausprobieren
 möchte: Versucht es! Es lohnt sich! Vielleicht steht in Kürze eine längere
@@ -141,7 +145,11 @@ eine Abkühlung: Worauf wartet Ihr noch?
 
 [gallery link="none" size="medium" columns="2" ids="21453,21467,21454,21468"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Produktplatzierungen/Werbung. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Produktplatzierungen/Werbung. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
+
+-->
+
+  

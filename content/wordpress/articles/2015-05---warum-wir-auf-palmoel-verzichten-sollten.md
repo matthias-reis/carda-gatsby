@@ -4,12 +4,11 @@ seoTitle: Warum wir auf Palmöl besser verzichten sollten - Regenwaldabholzung
 slug: palmoel
 link: /2015/05/palmoel/
 fileName: 2015-05---warum-wir-auf-palmoel-verzichten-sollten.md
-description:
-  Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz für
-  Monoplantagen zu schaffen - Tiere werden aus ihren Lebensräumen vertrieben.
-excerpt:
-  Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz für
-  Monoplantagen zu schaffen - Tiere werden für immer aus ihren Lebensräumen
+description: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um
+  Platz für Monoplantagen zu schaffen - Tiere werden aus ihren Lebensräumen
+  vertrieben.
+excerpt: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz
+  für Monoplantagen zu schaffen - Tiere werden für immer aus ihren Lebensräumen
   vertrieben.
 focusKeyword: Palmöl
 labels:
@@ -29,15 +28,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27459"
+image: /img/demo.jpg
+errors: []
 subTitle: Von Regenwaldabholzung bis Cholesterin
+  
 ---
-
-<strong>Neulich war ich mit einer Freundin in der nächsten Filiale einer
-bekannten Drogeriemarktkette einkaufen. Sie sah, dass ich einige der dort auch
-zum Verkauf angebotenen, veganen Lebensmittel nach dem Durchlesen der
-Zutatenlisten wieder zurück ins Regal stellte, weil die Produkte Palmöl
-enthielten.</strong><blockquote>"Du bist doch Veganerin? Palmöl kannst Du doch
-essen?"</blockquote>
 
 Ich sehe das etwas anders, warum das genau so ist, darüber möchte ich gerne ein
 bisschen ausschweifen. Durch den Anbau von Palmöl werden nicht nur Urwälder
@@ -80,9 +75,8 @@ versenkt. Ölpalmen lassen sich nicht klimaneutral anbauen, da aus den
 Produktionsrückständen das Treibhausgas Methan entweicht und aus den für die
 Plantagen abgeholzten Wäldern und trockengelegten Zonen immense Mengen an
 Treibhausgasen entweichen. Der Palmöl-Anbau hat aus dem kleinen Land Indonesien
-den weltweit drittgrößten
-<span class="LrzXr kno-fv">CO<sub>2</sub></span>-Emittenten gemacht, gleich nach
-den Industriegiganten USA und China.
+den weltweit drittgrößten CO<sub>2</sub>-Emittenten gemacht, gleich nach den
+Industriegiganten USA und China.
 
 2004 begann man mit der Novellierung des EEG (Erneuerbare Energien Gesetz) in
 Deutschland Palmöl zu verheizen. Von den bereits genannten etwa 1,1 Millionen
@@ -138,7 +132,89 @@ Kosmetik- und Reinigungsmittelbranche wird es erst so richtig kompliziert, da
 die Hersteller hier zumeist nur ihr „Fachchinesisch“ auf die Verpackungen
 schreiben.
 
-## Namen für Palmöl (ohne Anspruch auf Vollständigkeit)<ul><li>Arachmide mea</li><li>Ascorbyl Palmitate</li><li>Betaine</li><li>Capric Triglyceride</li><li>Capryl Glucoside</li><li>Caprylic Triglyceride</li><li>Caprylyl Glucoside</li><li>Cetearyl Alcohol</li><li>Cetearyl Glucoside</li><li>Cetyl Alcohol</li><li>Cetyl Palmitate</li><li>Coconut Butter Equivalent (CBE)</li><li>Coconut Butter Substitute (CBS)</li><li>Elaeis Guineensis</li><li>Emulsifiers E471</li><li>Emulsifying Wax</li><li>Fatty Alcohol Sulphates</li><li>Fatty acid methyl esters ethoxylate</li><li>Fettalkohol (wird oft auch als “Cetearyl Alkohol” bezeichnet)</li><li>Fettsäureglycerid</li><li>Glycerin (wird für vegane Produkten entweder aus Palmöl oder aus Kokosöl hergestellt)</li><li>Glycerinfettsäureester</li><li>Glyceryl Caprylate</li><li>Glyceryl Laurate</li><li>Glyceryl Stearate</li><li>Glyceryl Stearate Citrate</li><li>Glyceryl Stearate SE</li><li>Hydrated Palm Glycerides</li><li>Hydrogenated Vegetable Oil</li><li>Hydrogenated Palm Glycerides</li><li>Hydrogenated Palm Glycerides Citrate</li><li>Isopropyl Octyl Palmitate (Auf palmitate-Endungen achten!)</li><li>Isoamyl Laurate</li><li>Lauroyl Lysine</li><li>Lauroyl Sarcosine</li><li>Lauryl Glucoside</li><li>Magnesium Stearate</li><li>Myristol</li><li>Myristyl Alcohol</li><li>Myristyl Myristate</li><li>Oleyl Betaine</li><li>Palmitic Acid</li><li>Palm Oil Kernal</li><li>Palm Olein</li><li>Palmöl</li><li>Palm Sterine</li><li>Palmate</li><li>Palmitate</li><li>Palmitinsäure</li><li>Palmkernöl</li><li>PEG-100 Stearate</li><li>Peptide Complex</li><li>Pflanzenfett/pflanzliches Fett</li><li>Pflanzenöl/pflanzliches Öl</li><li>Pflanzliches Glycerin (kann auch aus Kokosöl gewonnen sein!) Polyglyceryl-2-Caprate</li><li>Polyglyceryl-10 Laurate</li><li>Dodecyl Sulphate (auch SDS oder NaDS)</li><li>Sodium Cetearyl Sulfate</li><li>Sodium Coco Sulfate (oft aus Palmöl hergestellt)</li><li>Sodium Dodecyl Sulphate</li><li>Sodium Isostearoyl Lactylate</li><li>Sodium Lauroyl Lactylate</li><li>Sodium Laureth Sulphate</li><li>Sodium Lauryl Sulfoacetate /SLSA (meist aus Kokosöl gewonnen, kann jedoch auch mit Palmöl hergestellt werden)</li><li>Sodium Lauryl Sulfate (kann in seltenen Fällen auch nur aus Rizinusöl hergestellt sein) Sodium Palmate</li><li>Sodium Palm Kernelate</li><li>Sodium Stearoyl Glutamate</li><li>Sorbitan Caprylate</li><li>Steareth -2</li><li>Steareth -20</li><li>Steareth-21</li><li>Stearic Acid</li><li>Stearinsäure</li><li>Sucrose Laurate</li><li>Taxanomic</li><li>Tricaprylin</li><li>Vegetable Oil/Vegetable Fat (hoch gesättigtes Fett = Palmöl)</li><li>Zink Stearate</li></ul>
+## Namen für Palmöl (ohne Anspruch auf Vollständigkeit)- Arachmide mea
+
+- Ascorbyl Palmitate
+- Betaine
+- Capric Triglyceride
+- Capryl Glucoside
+- Caprylic Triglyceride
+- Caprylyl Glucoside
+- Cetearyl Alcohol
+- Cetearyl Glucoside
+- Cetyl Alcohol
+- Cetyl Palmitate
+- Coconut Butter Equivalent (CBE)
+- Coconut Butter Substitute (CBS)
+- Elaeis Guineensis
+- Emulsifiers E471
+- Emulsifying Wax
+- Fatty Alcohol Sulphates
+- Fatty acid methyl esters ethoxylate
+- Fettalkohol (wird oft auch als “Cetearyl Alkohol” bezeichnet)
+- Fettsäureglycerid
+- Glycerin (wird für vegane Produkten entweder aus Palmöl oder aus Kokosöl
+  hergestellt)
+- Glycerinfettsäureester
+- Glyceryl Caprylate
+- Glyceryl Laurate
+- Glyceryl Stearate
+- Glyceryl Stearate Citrate
+- Glyceryl Stearate SE
+- Hydrated Palm Glycerides
+- Hydrogenated Vegetable Oil
+- Hydrogenated Palm Glycerides
+- Hydrogenated Palm Glycerides Citrate
+- Isopropyl Octyl Palmitate (Auf palmitate-Endungen achten!)
+- Isoamyl Laurate
+- Lauroyl Lysine
+- Lauroyl Sarcosine
+- Lauryl Glucoside
+- Magnesium Stearate
+- Myristol
+- Myristyl Alcohol
+- Myristyl Myristate
+- Oleyl Betaine
+- Palmitic Acid
+- Palm Oil Kernal
+- Palm Olein
+- Palmöl
+- Palm Sterine
+- Palmate
+- Palmitate
+- Palmitinsäure
+- Palmkernöl
+- PEG-100 Stearate
+- Peptide Complex
+- Pflanzenfett/pflanzliches Fett
+- Pflanzenöl/pflanzliches Öl
+- Pflanzliches Glycerin (kann auch aus Kokosöl gewonnen sein!)
+  Polyglyceryl-2-Caprate
+- Polyglyceryl-10 Laurate
+- Dodecyl Sulphate (auch SDS oder NaDS)
+- Sodium Cetearyl Sulfate
+- Sodium Coco Sulfate (oft aus Palmöl hergestellt)
+- Sodium Dodecyl Sulphate
+- Sodium Isostearoyl Lactylate
+- Sodium Lauroyl Lactylate
+- Sodium Laureth Sulphate
+- Sodium Lauryl Sulfoacetate /SLSA (meist aus Kokosöl gewonnen, kann jedoch auch
+  mit Palmöl hergestellt werden)
+- Sodium Lauryl Sulfate (kann in seltenen Fällen auch nur aus Rizinusöl
+  hergestellt sein) Sodium Palmate
+- Sodium Palm Kernelate
+- Sodium Stearoyl Glutamate
+- Sorbitan Caprylate
+- Steareth -2
+- Steareth -20
+- Steareth-21
+- Stearic Acid
+- Stearinsäure
+- Sucrose Laurate
+- Taxanomic
+- Tricaprylin
+- Vegetable Oil/Vegetable Fat (hoch gesättigtes Fett = Palmöl)
+- Zink Stearate
 
 Da auch in vielen Bioprodukten Palmöl zum Einsatz kommt, ist es selbst bei
 bewusster Ernährung häufig schwierig, darauf zu verzichten. Viele bekannte
@@ -146,4 +222,6 @@ Hersteller, unter ihnen Alnatura, Allos und Rapunzel verwenden das billige Öl
 bei die Herstellung ihrer Produkte. Ob diesen Herstellern Siegel wie "Fairtrade"
 und "Bio" auch weiterhin zustehen, wird derzeit heiß diskutiert.
 
-### Quellen: [sarangib](http://www.umweltblick.de/), pixabay
+### Quellen: [Umweltblick](http://www.umweltblick.de/) [Tierrechts-Initiative Freiburg](http://tif.objectis.net/themen/palmoel) [Rettet den Regenwald e. V.](https://www.regenwald.org/petitionen) **Foto:** [sarangib](https://pixabay.com/de/users/sarangib-37542/), pixabay
+
+  

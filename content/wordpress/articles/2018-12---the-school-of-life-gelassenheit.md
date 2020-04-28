@@ -4,14 +4,13 @@ seoTitle: "The School of Life: Gelassenheit - Zeit für ein gutes Leben"
 slug: the-school-of-life-gelassenheit
 link: /2018/12/the-school-of-life-gelassenheit/
 fileName: 2018-12---the-school-of-life-gelassenheit.md
-description:
-  Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe
-  "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Meine Rezension.
-excerpt:
-  Affiliate Link - Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist
-  2018 in der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen.
-  Ich habe ihn zu Weihnachten bekommen und bin die letzten paar Tage in die
-  Seiten eingetaucht.
+description: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in
+  der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Meine
+  Rezension.
+excerpt: Affiliate Link - Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben"
+  ist 2018 in der Reihe "School Of Life" im Süddeutsche Zeitung Verlag
+  erschienen. Ich habe ihn zu Weihnachten bekommen und bin die letzten paar Tage
+  in die Seiten eingetaucht.
 focusKeyword: gelassenheit
 labels:
   - Angst
@@ -34,15 +33,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "23075"
+image: /img/demo.jpg
+errors: []
 subTitle: Mit mehr Ruhe ins neue Jahr
+  
 ---
 
-<em>Affiliate Link\*</em>
+_Affiliate Link\*_
 
-<strong>Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der
-Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Ich habe ihn zu
-Weihnachten bekommen und bin die letzten paar Tage in die Seiten
-eingetaucht.</strong>
+**Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe
+"School Of Life" im Süddeutsche Zeitung Verlag erschienen. Ich habe ihn zu
+Weihnachten bekommen und bin die letzten paar Tage in die Seiten eingetaucht.**
 
 Das klingt doch gut, oder? Mit mehr Gelassenheit ins neue Jahr starten, das wär
 doch was. Und wenn es dafür ein paar wirksame Tipps gibt: Her damit! Ich muss
@@ -63,7 +64,14 @@ Taipeh und Tel Aviv. Hier ein Zitat:
 
 ![gelassenheit](http://cardamonchai.com/wp-content/uploads/2018/12/mittagsrast-400x321.jpg)
 
-<blockquote>
+> "Die 'School of Life' widmet sich der Entwicklung emotionaler Intelligenz -
+> weil wir überzeugt sind, dass unsere größten Probleme durch fehlende
+> Selbstkenntnis, zu wenig Mitgefühl und den Mangel an Kommunikation entstehen.
+> Wir produzieren Filme, unterrichten, bieten Therapien an und erstellen eine
+> Reihe von Produkten zur Geistesbildung. 'The School' of Life veröffentlicht
+> Bücher zu den wichtigsten Themen unserer Gefühlswelt. Sie sind so konzipiert,
+> dass sie gleichzeitig unterhalten, erziehen, Trost spenden und das Leben
+> verändern."
 
 ## Gelassenheit lernen
 
@@ -75,11 +83,10 @@ Missverständnissen kommen. Doch wie schafft man es, das im Alltag umzusetzen?
 Neben dieser Frage klärt "Gelassenheit - Zeit für ein gutes Leben" unter anderem
 auch die folgenden:
 
-<ul>
-    <li>Warum sind wir zu unseren Kollegen nett und streiten uns mit unseren Partnern?</li>
-    <li>Wie kann man es schaffen, verborgene, gute Eigenschaften zu entdecken und sich dadurch weniger über Menschen zu ärgern?</li>
-    <li>Wie findet man Wege zu mehr Gelassenheit?</li>
-</ul>
+- Warum sind wir zu unseren Kollegen nett und streiten uns mit unseren Partnern?
+- Wie kann man es schaffen, verborgene, gute Eigenschaften zu entdecken und sich
+  dadurch weniger über Menschen zu ärgern?
+- Wie findet man Wege zu mehr Gelassenheit?
 
 Das Buch erklärt auf einfühlende Art, warum Pessimismus nicht immer etwas
 Schlechtes sein muss und warum wir alle auf unsere Art ein bisschen verrückt
@@ -118,7 +125,7 @@ Große Ganze empfohlen. Das kann beispielsweise durch einen Blick in den
 Nachthimmel, Spaziergänge in der Weite der Natur oder Reisen erreicht werden. 
 Zitat:
 
-<blockquote>"Ein Kratzer im Lack ist nichts gegen die Größe von Raum und Zeit."</blockquote>
+> "Ein Kratzer im Lack ist nichts gegen die Größe von Raum und Zeit."
 
 Dem/der Leser\*in wird außerdem ans Herz gelegt, sich mit Geschichte
 auseinanderzusetzen. Beschäftigt man sich mit der Kunst des Überlebens, wird man
@@ -154,8 +161,8 @@ Reihe bis jetzt auch noch die Bücher "Kleine Freuden - Großes Glück",
 Glücks", "Freundlichkeit - Eine vergessene Tugend" und "Sex - Sehnsucht und
 Erfüllung" erschienen.
 
-<strong> "[Gelassenheit - Zeit für ein gutes Leben](https://amzn.to/2VbMYR4)" -
-Süddeutsche Zeitung Verlag 2018,ISBN 978-3-86497-444-1</strong>
+** "[Gelassenheit - Zeit für ein gutes Leben](https://amzn.to/2VbMYR4)" -
+Süddeutsche Zeitung Verlag 2018,ISBN 978-3-86497-444-1**
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen
 Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
@@ -165,8 +172,10 @@ mehr möchte ich darüber berichten.
 
 ![gelassenheit | full](http://cardamonchai.com/wp-content/uploads/2018/12/vincent-van-gogh-89422_1280.jpg)
 
-<a href="https://amzn.to/2VbMYR4" target="_blank" rel="noopener nofollow">
+[](https://amzn.to/2VbMYR4)
 
-<em>\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
+_\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
-meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,11 +4,10 @@ seoTitle: Jederkanns-Brot - Veganes Vollkornbrot-Rezept
 slug: jeder-kanns-brot-veganes-vollkornbrot-rezept
 link: /2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/
 fileName: 2015-09---jederkanns-brot.md
-description:
-  Heute habe ich mir ein Vollkornbrot ausgedacht, das wirklich jeder innerhalb
-  kurzer Zeit mit geringem Aufwand nachbacken kann. Natürlich ist es vegan.
-excerpt:
-  Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein
+description: Heute habe ich mir ein Vollkornbrot ausgedacht, das wirklich jeder
+  innerhalb kurzer Zeit mit geringem Aufwand nachbacken kann. Natürlich ist es
+  vegan.
+excerpt: Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein
   kleines Vollkornbrot ausgedacht, das Ihr ganz schnell nachbacken könnt.
 focusKeyword: Vollkornbrot
 labels:
@@ -30,14 +29,31 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12523"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (25:10)"
 subTitle: Einfaches veganes Vollkornbrot
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (25:10)
+
+<!--
 ![Veganes Vollkornbrot aus meinem Ofen](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0345-640x640.jpg "Veganes Vollkornbrot aus meinem Ofen")
 
-<strong>Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein
+**Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein
 kleines Vollkornbrot ausgedacht, das Ihr ganz schnell nachbacken könnt. Ich habe
-ihm den klangvollen Namen Jederkanns-Brot gegeben.</strong>## Zutaten<ul><li>
+ihm den klangvollen Namen Jederkanns-Brot gegeben.** ## Ihr braucht-
+Hitzebeständige Form (Jenaer Glas, Römertopf, Kuchenform oder im Idealfall
+Brotform)
+
+- Löffel
+- Rührschüssel (Salatschüssel geht natürlich genau so)
+- Messbecher
+- Holzstäbchen, Zahnstocher oder chinesisches Essstäbchen
+- Ofen
+- Lust auf ein leckeres Vollkornbrot## Zutaten<ul><li>
 
 ![Alles gut vermischen](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0338-640x640.jpg "Alles gut vermischen")
 
@@ -75,3 +91,7 @@ Schmeckt natürlich nicht nur zu
 [Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/) gut. :-)
 
 Guten Appetit!
+
+-->
+
+  

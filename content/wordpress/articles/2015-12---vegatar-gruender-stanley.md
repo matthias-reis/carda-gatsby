@@ -4,12 +4,10 @@ seoTitle: Vegatar Gründer Stanley im Interview über veganes Leder
 slug: vegatar-gruender-stanley-interview
 link: /2015/12/vegatar-gruender-stanley-interview/
 fileName: 2015-12---vegatar-gruender-stanley.md
-description:
-  Vegatar Gründer Stanley betreibt sein Geschäft aus Überzeugung. Ich habe mich
-  mit ihm über veganes Leder und sein Leben unterhalten.
-excerpt:
-  Vegatar Gründer Stanley betreibt sein Geschäft aus Überzeugung. Ich habe mich
-  mit ihm über veganes Leder und sein Leben unterhalten.
+description: Vegatar Gründer Stanley betreibt sein Geschäft aus Überzeugung. Ich
+  habe mich mit ihm über veganes Leder und sein Leben unterhalten.
+excerpt: Vegatar Gründer Stanley betreibt sein Geschäft aus Überzeugung. Ich
+  habe mich mit ihm über veganes Leder und sein Leben unterhalten.
 focusKeyword: veganes Leder
 labels:
   - Ananasleder
@@ -30,48 +28,43 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29126"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Vegan bedeutet Respekt vor dem Leben"'
+  
 ---
 
-<strong>Sein Motto "Sei Du selbst die Veränderung, die Du Dir wünschst für die
-Welt" (Gandhi), seine Berufung: Vegane Lederalternativen. Vegatar Gründer
-Stanley betreibt sein Geschäft aus Überzeugung. Ich habe mich mit ihm über sein
-veganes Leben und seine Kollektion unterhalten.</strong><strong>Anne:</strong>
-Hallo Stanley! Vielen Dank, dass Du Dich meinem Interview stellst! Wie geht es
-Dir? Ihr steckt ja gerade mitten im Weihnachtsgeschäft. Gibt es viel zu tun?
+**Stanley:** Hi Anne, danke ebenfalls für die tolle Möglichkeit. Mir geht es
+ausgesprochen fantastisch. Es gibt viel zu tun und es wird immer mehr - das ist
+gut so! Es ist schön, zu sehen, dass die Nachfrage nach umweltschonenden und
+Tier- aber auch Menschenleid-freien Produkten zunimmt.
 
-<strong>Stanley:</strong> Hi Anne, danke ebenfalls für die tolle Möglichkeit.
-Mir geht es ausgesprochen fantastisch. Es gibt viel zu tun und es wird immer
-mehr - das ist gut so! Es ist schön, zu sehen, dass die Nachfrage nach
-umweltschonenden und Tier- aber auch Menschenleid-freien Produkten zunimmt.
-
-<strong>Anne:</strong> Wie bist Du auf die Idee gekommen, vegane Taschen
-herzustellen?
+**Anne:** Wie bist Du auf die Idee gekommen, vegane Taschen herzustellen?
 
 ![Vegatar Gründer Stanley | full](http://cardamonchai.com/wp-content/uploads/2020/04/DSC_9544_Fotor_small-373x250.jpg)
 
-## "Ich war auf der Suche nach Lederalternativen<strong> Irgendwann war ich auf der Suche nach Alternativen zu tierischem Leder. Das Material sollte auf Basis nachwachsender und pflanzlicher Ressourcen sein und ich bin auch fündig geworden. Heute bieten wir bei Vegatar verschiedenen Materialien an: Eukalyptusfasern, Bio-Baumwolle und sogar Ananasfasern.
+## "Ich war auf der Suche nach Lederalternativen **Stanley:** Irgendwann war ich auf der Suche nach Alternativen zu tierischem Leder. Das Material sollte auf Basis nachwachsender und pflanzlicher Ressourcen sein und ich bin auch fündig geworden. Heute bieten wir bei Vegatar verschiedenen Materialien an: Eukalyptusfasern, Bio-Baumwolle und sogar Ananasfasern.
 
 Neben den Materialien, die man direkt bei uns beziehen kann, gehen wir auch auf
 unsere Kundenwünsche ein. Diese sind vor allem auch Handtaschen, welche stylisch
 und schick sein sollen.
 
-<strong>Anne:</strong> Wer ist eigentlich Vegatar? Wie viele Menschen arbeiten
-derzeit an der Marke? Wer ist bei Euch für was zuständig?
+**Anne:** Wer ist eigentlich Vegatar? Wie viele Menschen arbeiten derzeit an der
+Marke? Wer ist bei Euch für was zuständig?
 
-<strong>Stanley:</strong> Als Gründer des Labels bin ich momentan verantwortlich
-für das Produktportfolio, das Marketing, die Onlinepräsenz und den Vertrieb.
-Einen großen kreativen Einfluss dabei hat meine Lebensgefährtin Sonja.
+**Stanley:** Als Gründer des Labels bin ich momentan verantwortlich für das
+Produktportfolio, das Marketing, die Onlinepräsenz und den Vertrieb. Einen
+großen kreativen Einfluss dabei hat meine Lebensgefährtin Sonja.
 
 Darüber hinaus ist meine Mom mit verantwortlich für den Versand in und aus
 Deutschland. Bei der Herstellung in Handarbeit greifen wir auf verschiedene,
 kleinere Familienbetriebe zurück, welche wir sorgfältig auswählen.
 
-## "Der Name spiegelt unsere Firmenphilosophie wider"<strong>Anne:</strong> Wie seid Ihr auf den tollen Namen Vegatar gekommen? Hat er eine besondere Bedeutung?
+## "Der Name spiegelt unsere Firmenphilosophie wider" **Anne:** Wie seid Ihr auf den tollen Namen Vegatar gekommen? Hat er eine besondere Bedeutung?
 
-<strong>Stanley:</strong> Auf der Suche nach einem universellen und
-allumfassenden Namen, der unsere Firmenphilosophie widerspiegelt, fiel mir die
-Bedeutung des Wortes "Avatar" aus dem Buch "Das Geheimnis der Avatare" ein.
+**Stanley:** Auf der Suche nach einem universellen und allumfassenden Namen, der
+unsere Firmenphilosophie widerspiegelt, fiel mir die Bedeutung des Wortes
+"Avatar" aus dem Buch "Das Geheimnis der Avatare" ein.
 
 "Avatar" ist ein Sanskritwort, zusammengesetzt aus den Silben "ava" mit der
 Bedeutung Herabsteigen und "tara" mit der Bedeutung heilen, wiederherstellen.
@@ -101,7 +94,7 @@ fühlen darf, der auch die Vision lebt, körperlich und geistig stets lebhaft,
 munter, und voller Freude zu sein, das Leben zu genießen und dazu beitragen zu
 wollen, diese Freude mit der Welt zu teilen.
 
-## "Mit dem wachsenden Bewusstsein wachsen die Möglichkeiten"<strong>Anne:</strong> Ich persönlich trage schon lange Zeit Schuhe und Taschen aus Stoff und Kunstleder, da ich das Tragen von Tierhaut schon immer sehr befremdlich fand. Erst seit Kurzem gibt es diese Dinge ja jetzt mit dem Label "vegan", sprich, es gibt Firmen, die garantieren, dass nicht nur das Obermaterial, sondern auch alle weiteren verarbeiteten Materialien, wie zum Beispiel der Kleber ohne tierische Stoffe auskommen.
+## "Mit dem wachsenden Bewusstsein wachsen die Möglichkeiten" **Anne:** Ich persönlich trage schon lange Zeit Schuhe und Taschen aus Stoff und Kunstleder, da ich das Tragen von Tierhaut schon immer sehr befremdlich fand. Erst seit Kurzem gibt es diese Dinge ja jetzt mit dem Label "vegan", sprich, es gibt Firmen, die garantieren, dass nicht nur das Obermaterial, sondern auch alle weiteren verarbeiteten Materialien, wie zum Beispiel der Kleber ohne tierische Stoffe auskommen.
 
 Einige dieser Produkte habe ich auch schon ausprobiert. Ein paar Mal musste ich
 leider feststellen, dass die Qualität nicht so toll war. Entweder war die
@@ -114,7 +107,7 @@ müssen?
 
 ![Vegatar Gründer Stanley | full](http://cardamonchai.com/wp-content/uploads/2020/04/IMG_4870_Fotor_small-333x250.jpg)
 
-## "Wir sollten die zukunftsweisenden Materialien tiefer erforschen"<strong> Zum einen liegt es sicherlich daran, dass an solchen zukunftsweisenden Materialien noch nicht sehr lang geforscht und entwickelt wird. Mit wachsendem Bewusstsein und der Nachfrage nach solchen Materialien, unseren heutigen Technologien und Möglichkeiten sind wir allerdings auf einem sehr guten Weg.
+## "Wir sollten die zukunftsweisenden Materialien tiefer erforschen" **Stanley:** Zum einen liegt es sicherlich daran, dass an solchen zukunftsweisenden Materialien noch nicht sehr lang geforscht und entwickelt wird. Mit wachsendem Bewusstsein und der Nachfrage nach solchen Materialien, unseren heutigen Technologien und Möglichkeiten sind wir allerdings auf einem sehr guten Weg.
 
 Bei Newcomern spielen die Erfahrungswerte bestimmt auch eine Rolle und positiv
 betrachtet kann man daran festhalten, dass diese dazulernen und sich auch
@@ -136,12 +129,12 @@ Preis. Gute Erfahrungen habe ich da meist nur gemacht, wenn ich tiefer in die
 Tasche gegriffen habe. Langfristig betrachtet lohnt sich meiner Meinung nach
 eine solche Einstellung eindeutig.
 
-<strong>Anne:</strong> Wie ist das bei Euren Taschen? Wodurch heben sie sich von
-denen anderer Marken ab?
+**Anne:** Wie ist das bei Euren Taschen? Wodurch heben sie sich von denen
+anderer Marken ab?
 
-<strong>Stanley:</strong> Zunächst mal rein oberflächlich betrachtet. Wir legen
-besonderen Wert auf eine sehr hohe Verarbeitungsqualität und moderne, stylische
-Designs, sowie die Alltagstauglichkeit der Produkte.
+**Stanley:** Zunächst mal rein oberflächlich betrachtet. Wir legen besonderen
+Wert auf eine sehr hohe Verarbeitungsqualität und moderne, stylische Designs,
+sowie die Alltagstauglichkeit der Produkte.
 
 ## "Vegan ist kein Trend"
 
@@ -157,10 +150,10 @@ Bewusstseinsentwicklung der Menschheit, einen Paradigmenwechsel. Wir alle
 wünschen uns Frieden und Harmonie und wir haben die Macht, das in allen
 Lebensbereichen zu verwirklichen.
 
-## "Über 80 Prozent natürliche Inhaltsstoffe"<strong>Anne:</strong> Du hast ja schon erzählt, dass bei Euch zum Beispiel Ananas- und Eukalyptusfasern verarbeitet. werden. Möchtest Du mir etwas über Eure Erfahrungen damit erzählen?
+## "Über 80 Prozent natürliche Inhaltsstoffe" **Anne:** Du hast ja schon erzählt, dass bei Euch zum Beispiel Ananas- und Eukalyptusfasern verarbeitet. werden. Möchtest Du mir etwas über Eure Erfahrungen damit erzählen?
 
-<strong>Stanley:</strong> Bei der ersten Kollektion der DiOsA Handtaschen setzen
-wir auf ein bewährtes Material aus Eukalyptusfaser. Bei der Entwicklung des
+**Stanley:** Bei der ersten Kollektion der DiOsA Handtaschen setzen wir auf ein
+bewährtes Material aus Eukalyptusfaser. Bei der Entwicklung des
 Eukalyptus-Materials hatten wir von Anfang an das ehrgeizige Ziel, die bewährten
 synthetischen oder tierischen Bezugstoffe durch natürliche und nachwachsende
 Inhaltsstoffe zu ersetzen.
@@ -188,26 +181,26 @@ von Kinderarbeit und Mindestlohn. Darüber hinaus arbeiten wir bereits an der
 nächsten Kollektion, für die wir Material aus Ananasfasern verwenden und die
 somit eine absolute Neuheit darstellt.
 
-<strong>Anne:</strong> Wo bezieht Ihr das Material?
+**Anne:** Wo bezieht Ihr das Material?
 
-## "Das Material wird in Deutschland hergestellt"<strong>Stanley:</strong> Das Material aus Eukalyptusfasern wird in Deutschland hergestellt und die Fasern selbst stammen aus verschiedenen Ländern. Das Material aus Ananasfasern wird in England und Spanien entwickelt und die Fasern stammen von den Philippinen.
+## "Das Material wird in Deutschland hergestellt" **Stanley:** Das Material aus Eukalyptusfasern wird in Deutschland hergestellt und die Fasern selbst stammen aus verschiedenen Ländern. Das Material aus Ananasfasern wird in England und Spanien entwickelt und die Fasern stammen von den Philippinen.
 
-<strong>Anne:</strong> Wo werden deine Taschen gefertigt?
+**Anne:** Wo werden deine Taschen gefertigt?
 
-<strong>Stanley:</strong> Unsere DiOsA Handtaschen werden in Spanien in einem
-Familienbetrieb hergestellt. Wir pflegen engen Kontakt zur Familie und haben
-Einsicht in jeden einzelnen Produktionsschritt.
+**Stanley:** Unsere DiOsA Handtaschen werden in Spanien in einem Familienbetrieb
+hergestellt. Wir pflegen engen Kontakt zur Familie und haben Einsicht in jeden
+einzelnen Produktionsschritt.
 
-<strong>Anne:</strong> In der Zusammenstellung sind ja nicht nur Naturfasern
-verarbeitet, sondern zudem auch Erdöl. Wie schreiten die Pläne voran, in Zukunft
-ganz auf Naturfasern zu setzen?
+**Anne:** In der Zusammenstellung sind ja nicht nur Naturfasern verarbeitet,
+sondern zudem auch Erdöl. Wie schreiten die Pläne voran, in Zukunft ganz auf
+Naturfasern zu setzen?
 
-## "Das Ananasleder ist frei von Erdöl"<strong>Stanley:</strong> Beim Eukalyptusmaterial sind noch knapp 20 Prozent erdölbasiert. Das Ziel sind eindeutig 100 Prozent nachwachsende und natürliche Ressourcen. Status quo zählt es zu den nachhaltigsten Materialien auf dem Markt, mit einer ausgesprochen hohen Qualität. Das Ananasfasermaterial beinhaltet sogar null Komma null Erdölanteil.
+## "Das Ananasleder ist frei von Erdöl" **Stanley:** Beim Eukalyptusmaterial sind noch knapp 20 Prozent erdölbasiert. Das Ziel sind eindeutig 100 Prozent nachwachsende und natürliche Ressourcen. Status quo zählt es zu den nachhaltigsten Materialien auf dem Markt, mit einer ausgesprochen hohen Qualität. Das Ananasfasermaterial beinhaltet sogar null Komma null Erdölanteil.
 
-<strong>Anne:</strong> Plant Ihr auch, Euer Geschäft irgendwann auszuweiten?
-Wird es vielleicht schon bald Schuhe oder Jacken aus veganem Leder geben?
+**Anne:** Plant Ihr auch, Euer Geschäft irgendwann auszuweiten? Wird es
+vielleicht schon bald Schuhe oder Jacken aus veganem Leder geben?
 
-## "Wir haben auch vegane Schuhe im Sortiment"<strong>Stanley:</strong> Pläne dazu gibt es, ja. Zum einen soll Vegatar der weltweit größte Zulieferer für vegane Materialen und Lederalternativen werden. Zum anderen soll auch die Palette an Produkten aus nachhaltigen Materialien zunehmen. Dabei orientieren wir uns an den Wünschen unserer Kund⋆innen.
+## "Wir haben auch vegane Schuhe im Sortiment" **Stanley:** Pläne dazu gibt es, ja. Zum einen soll Vegatar der weltweit größte Zulieferer für vegane Materialen und Lederalternativen werden. Zum anderen soll auch die Palette an Produkten aus nachhaltigen Materialien zunehmen. Dabei orientieren wir uns an den Wünschen unserer Kund⋆innen.
 
 Schuhe haben wir unter anderem schon im Sortiment. Jedoch ist hier der Aufwand
 noch mal ein anderer, da bekanntlich jeder Fuß ganz individuell ist und der
@@ -215,27 +208,26 @@ Schuh gut sitzen und passen soll. Diesen Herausforderungen möchten wir gerecht
 werden. Darum halten wir auch in dem Bereich gezielt Ausschau nach potenziellen
 Herstellern, die auf unsere Wünsche eingehen können.
 
-<strong>Anne:</strong> Eine Frage, die ich Dir gerne stellen möchte, ist: Wie
-erklärst du Dir, dass viele Menschen zwar
-[das Tragen von Pelzen](/2014/11/fakepelz-echtpelz/) <strong> ablehnen</strong>,
-aber bei Leder völlig zu vergessen scheinen, dass es sich dabei auch um die Haut
-von Tieren handelt und es komplett selbstverständlich am Körper tragen?
+**Anne:** Eine Frage, die ich Dir gerne stellen möchte, ist: Wie erklärst du
+Dir, dass viele Menschen zwar
+[das Tragen von Pelzen](/2014/11/fakepelz-echtpelz/) **ablehnen** , aber bei
+Leder völlig zu vergessen scheinen, dass es sich dabei auch um die Haut von
+Tieren handelt und es komplett selbstverständlich am Körper tragen?
 
-<strong>Stanley:</strong> Meiner Meinung nach ist es ein Prozess, indem man sich
-befindet. Zunächst begann es bei mir auch bei der Ernährung. Ziemlich schnell
-wurde mir dann bewusst, dass das Thema viel umfassender ist und ich gern in
-allen Lebensbereichen einen positiven Wandel bewirken möchte.
+**Stanley:** Meiner Meinung nach ist es ein Prozess, indem man sich befindet.
+Zunächst begann es bei mir auch bei der Ernährung. Ziemlich schnell wurde mir
+dann bewusst, dass das Thema viel umfassender ist und ich gern in allen
+Lebensbereichen einen positiven Wandel bewirken möchte.
 
 ![Vegatar Gründer Stanley | full](http://cardamonchai.com/wp-content/uploads/2020/04/DSC_9432_Fotor_small-373x250.jpg)
 
-## "Bevor wir Mitgefühl erwarten, sollten wir Mitgefühl zeigen"<strong> Wie kann man hier am besten aufklären?
+## "Bevor wir Mitgefühl erwarten, sollten wir Mitgefühl zeigen" **Anne:** Wie kann man hier am besten aufklären?
 
-<strong>Stanley:</strong> Die Motivation und Entscheidung steckt in jedem von
-uns. Meiner Meinung nach können wir nur mit Liebe und Fürsorge an das Thema
-herangehen. Das fällt vielleicht nicht jedem von uns zu jedem Zeitpunkt leicht.
-Doch nur, wenn wir im Kollektiv wieder einen Bezug zur Natur und dem Planeten
-als riesigem, lebenden Organismus bekommen, kann auch das Mitgefühl dahingehend
-wachsen.
+**Stanley:** Die Motivation und Entscheidung steckt in jedem von uns. Meiner
+Meinung nach können wir nur mit Liebe und Fürsorge an das Thema herangehen. Das
+fällt vielleicht nicht jedem von uns zu jedem Zeitpunkt leicht. Doch nur, wenn
+wir im Kollektiv wieder einen Bezug zur Natur und dem Planeten als riesigem,
+lebenden Organismus bekommen, kann auch das Mitgefühl dahingehend wachsen.
 
 Bevor wir also Mitgefühl erwarten können, sollten wir Mitgefühl zeigen. Für mich
 bedeutet der vegane Lifestyle unter anderem, Respekt vor dem Leben zu haben.
@@ -243,10 +235,10 @@ Dies schließt aber auch das Leben ein, welches eine abweichende Erkenntnis zu
 meiner besitzt. Wir können nur selbst Vorbilder sein, indem wir vorleben, was
 möglich ist. Das ist in meinen Augen die Beste Aufklärung.
 
-## "Viele inspirierende Menschen leben vegan"<strong>Anne:</strong> Du hast mir ja schon erzählt, dass auch Du vegan lebst. Wann hast Du Dich für die Umstellung entschieden? Du meintest, dass Du mit der Ernährung angefangen hast?
+## "Viele inspirierende Menschen leben vegan" **Anne:** Du hast mir ja schon erzählt, dass auch Du vegan lebst. Wann hast Du Dich für die Umstellung entschieden? Du meintest, dass Du mit der Ernährung angefangen hast?
 
-<strong>Stanley:</strong> 2010 rückte in mein Bewusstsein, dass viele für mich
-inspirierende Menschen vegan oder vegetarisch leben. Persönlichkeiten, die auf
+**Stanley:** 2010 rückte in mein Bewusstsein, dass viele für mich inspirierende
+Menschen vegan oder vegetarisch leben. Persönlichkeiten, die auf
 unterschiedliche Weise einen positiven Beitrag für unsere Welt leisten und eine
 pflanzliche Ernährungs- sowie Lebensweise als einen wichtigen Schritt in der
 Entwicklung der Menschheit und aus Respekt vor dem Leben sehen.
@@ -261,21 +253,21 @@ Getreu dem Motto: "Dein Kassenbon ist ein Stimmzettel!"
 anfing, Accessoires herzustellen. Als Folge dessen gewann ich im selben Jahr den
 Vegan Fashion Award von PETA für die Kategorie "Beste Accessoires Herren".
 
-<strong>Anne:</strong> Gab es einen bestimmten Auslöser für dich?
+**Anne:** Gab es einen bestimmten Auslöser für dich?
 
-<strong>Stanley:</strong> Den ersten Schlüsselmoment hatte ich 2009 bei der
-Dokumentation "Earthlings". Dieser Film brachte mich kräftig zum Nachdenken.
-Unter anderem darüber, welch großen Einfluss wir anhand unseres Essverhaltens
-auf unseren Planeten haben. Ich war am Heulen wie ein Schlosshund und rührte das
-erste Mal in meinem Leben wochenlang kein Fleisch an.
+**Stanley:** Den ersten Schlüsselmoment hatte ich 2009 bei der Dokumentation
+"Earthlings". Dieser Film brachte mich kräftig zum Nachdenken. Unter anderem
+darüber, welch großen Einfluss wir anhand unseres Essverhaltens auf unseren
+Planeten haben. Ich war am Heulen wie ein Schlosshund und rührte das erste Mal
+in meinem Leben wochenlang kein Fleisch an.
 
-<strong>Anne:</strong> Gerade läuft in Paris die Klimakonferenz. Unser täglicher
-Konsum tierischer Produkte ist einer der größten Treiber der Klimaerwärmung, der
-leider viel zu häufig vergessen wird. Ist unser Klima noch zu retten? Wie kann
-man deiner Meinung nach möglichst viele Menschen davon überzeugen, woran es
-wirklich hakt?
+**Anne:** Gerade läuft in Paris die Klimakonferenz. Unser täglicher Konsum
+tierischer Produkte ist einer der größten Treiber der Klimaerwärmung, der leider
+viel zu häufig vergessen wird. Ist unser Klima noch zu retten? Wie kann man
+deiner Meinung nach möglichst viele Menschen davon überzeugen, woran es wirklich
+hakt?
 
-## "Viele befinden sich in einem Zustand der Ohnmacht"<strong>Stanley:</strong> Meiner Meinung nach hakt es unter anderem daran, dass sich die meisten Menschen in einem Zustand der Ohnmacht befinden und nicht daran glauben, etwas bewirken zu können. Der einzelne Mensch trägt einen enormen Beitrag dazu bei, dass sich das Klima und die Natur verändern.
+## "Viele befinden sich in einem Zustand der Ohnmacht" **Stanley:** Meiner Meinung nach hakt es unter anderem daran, dass sich die meisten Menschen in einem Zustand der Ohnmacht befinden und nicht daran glauben, etwas bewirken zu können. Der einzelne Mensch trägt einen enormen Beitrag dazu bei, dass sich das Klima und die Natur verändern.
 
 Noch vor wenigen hundert Jahren waren noch etwa 98 Prozent der Tiere Wildtiere.
 Der Bestand an "Nutztieren", die sich die Menschen hielten war mit zwei Prozent
@@ -301,39 +293,39 @@ meiner Meinung nach die Überzeugungskraft darin, dass die Macht, einen positive
 Wandel zu bewirken, in jedem von uns steckt. So lassen sich am schnellsten
 Ergebnisse erzielen, ohne dass wir Jahre und Jahrzehnte debattieren müssen.
 
-## "Durch mein veganes Leben begegne ich wundervollen Menschen"<strong>Anne:</strong> Was ist für dich das Schönste am veganen Leben?
+## "Durch mein veganes Leben begegne ich wundervollen Menschen" **Anne:** Was ist für dich das Schönste am veganen Leben?
 
-<strong>Stanley:</strong> Die lieben und wundervollen Menschen, mit denen ich
-dadurch in Kontakt komme. Darüber hinaus natürlich mein fantastisches
-Wohlbefinden, körperlich und geistig.
+**Stanley:** Die lieben und wundervollen Menschen, mit denen ich dadurch in
+Kontakt komme. Darüber hinaus natürlich mein fantastisches Wohlbefinden,
+körperlich und geistig.
 
-<strong>Anne:</strong> Wo kann man Eure Taschen kaufen?
+**Anne:** Wo kann man Eure Taschen kaufen?
 
-<strong>Stanley:</strong> Erste Anlaufstelle für die DiOsA Handtaschen ist unser
-Onlineshop [](#1).
+**Stanley:** Erste Anlaufstelle für die DiOsA Handtaschen ist unser Onlineshop
+[<sup>1</sup>](#1).
 
-<strong>Anne:</strong> Ein Blick in die Zukunft von Vegatar. Wie geht es weiter?
-Was sind die nächsten Schritte? Was plant Ihr?
+**Anne:** Ein Blick in die Zukunft von Vegatar. Wie geht es weiter? Was sind die
+nächsten Schritte? Was plant Ihr?
 
-<strong>Stanley:</strong> Zum einen wird Vegatar den Blick weiter konzentriert
-auf neue und zukunftsweisende, vegane Alternativen zu Leder werfen. Wir möchten
-eine Anlaufstelle sein, über die Menschen einfach an sie herankommen. Zum
-anderen experimentieren wir selbst mit den Materialien, um einen positiven
-Einfluss auf die Entwicklung zu haben und die Qualitätsstandards weiter zu
-verbessern.
+**Stanley:** Zum einen wird Vegatar den Blick weiter konzentriert auf neue und
+zukunftsweisende, vegane Alternativen zu Leder werfen. Wir möchten eine
+Anlaufstelle sein, über die Menschen einfach an sie herankommen. Zum anderen
+experimentieren wir selbst mit den Materialien, um einen positiven Einfluss auf
+die Entwicklung zu haben und die Qualitätsstandards weiter zu verbessern.
 
 Darüber hinaus gibt es neben dem Bereich "Vegan Fashion" bei Vegatar den Bereich
 "Vegan Lifestyle". Dazu gehört das neue Projekt Natureletics, bei dem gezielt
 durch bewusste Übungen eine Einheit aus gesunder Ernährung und Bewegung
 geschaffen wird. "Natureletics" wird Anfang 2016 veröffentlicht.
 
-<strong>Anne:</strong> Vielen Dank für das nette Interview!
+**Anne:** Vielen Dank für das nette Interview!
 
-<strong>Stanley:</strong> Herzlichen Dank, liebe Anne! Es war mir eine große
-Freude.
+**Stanley:** Herzlichen Dank, liebe Anne! Es war mir eine große Freude.
 
 ## Fußnote
 
 [1][homepage und onlineshop vegatar](https://www.vegatar.com/)
 
 Bilder: Vegatar
+
+  

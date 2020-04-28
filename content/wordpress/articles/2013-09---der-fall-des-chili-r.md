@@ -31,18 +31,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: null
+image: /img/demo.jpg
+errors: []
 subTitle: Ein aufschlussreiches Gespräch mit einem Tierchirurgen
+  
 ---
 
-![Chili](http://cardamonchai.files.wordpress.com/2013/09/img_2106.jpg?w=300 "Chili")
-
-[](/2013/09/26/die-rehabilitation-eines-tapferen-katers/) <strong>Donnerstag,
-26.September 2013 </strong></p>
-
-<strong>20:18 Uhr </strong>Ich habe mal wieder Neuigkeiten für Euch. Als
-allererstes: Wir haben wieder einen kleinen Fortschritt zu verzeichnen. Oskar
-hat heute endlich wieder Futter angenommen. In der letzten Zeit hatte er ja
-nichts mehr gefressen, weil er Chili so schlimm vermisst.
+**20:18 Uhr** Ich habe mal wieder Neuigkeiten für Euch. Als allererstes: Wir
+haben wieder einen kleinen Fortschritt zu verzeichnen. Oskar hat heute endlich
+wieder Futter angenommen. In der letzten Zeit hatte er ja nichts mehr gefressen,
+weil er Chili so schlimm vermisst.
 
 Nun zu einem interessanten, aufschlussreichen Telefonat, das ich gerade geführt
 habe. Herr Dr. B., der Arzt, der Chili operiert hat, hat sich mit mir in
@@ -100,8 +98,10 @@ etwas ändern wird. Aber vielleicht hat der Fall des Chili R. ja zumindest einen
 der Mitarbeiter wachgerüttelt. Ich hätte mich an seiner Stelle ja schon längst
 nach einer anderen Stelle umgesehen.
 
-<em>Nun hoffen wir weiterhin das Beste. Ich halte Euch auf dem Laufenden, meine
+_Nun hoffen wir weiterhin das Beste. Ich halte Euch auf dem Laufenden, meine
 Lieben. Vielen Dank für die seelische Unterstützung! Eure Kommentare, Tweets,
 E-Mails, Postkarten, Anrufe und liebe Worte helfen uns im Moment wirklich sehr!
 [Hier geht es zu Teil 4 des Artikels](/2013/09/27/morgendlicher-anruf-eines-chirurgen/)
-</em>
+_
+
+  

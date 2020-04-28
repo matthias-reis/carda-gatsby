@@ -1,6 +1,5 @@
 const { pick } = require('ramda');
 const { bold, redBright, greenBright } = require('chalk');
-const prettier = require('prettier');
 
 const { slugify } = require('../gatsby/slugify');
 
@@ -81,6 +80,8 @@ module.exports = async (l, e, article) => {
     isAffiliate: false,
     // todo - create valid link url from thumbnail id
     thumbnailId: pickedWpPostMeta['_thumbnail_id'],
+    image: '/img/demo.jpg',
+    errors: [],
   };
 
   // description is usually empty. seoDescription is important
@@ -108,14 +109,13 @@ ${greenBright(article['wp:post_date_gmt'])}
   }
 
   // we parse with the mdx option first to get well formed stuff
-  const content = prettier.format(article['content:encoded'].join('\n\n'), {
-    printWidth: 80,
-    parser: 'mdx',
-    proseWrap: 'always',
-  });
+  // const content = article['content:encoded'].join('\n\n');
+
+  const lines = article['content:encoded'][0].split('\n\n').filter(Boolean);
 
   return {
     meta,
-    content,
+    lines,
+    content: article['content:encoded'],
   };
 };

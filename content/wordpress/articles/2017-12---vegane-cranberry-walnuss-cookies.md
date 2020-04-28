@@ -1,20 +1,16 @@
 ---
 title: Vegane Cranberry-Walnuss-Cookies
-seoTitle:
-  Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
+seoTitle: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
 slug: vegane-cranberry-walnuss-cookies
 link: /2017/12/vegane-cranberry-walnuss-cookies/
 fileName: 2017-12---vegane-cranberry-walnuss-cookies.md
-description:
-  Es weihnachtet sehr! Die Deko steht, die Heizung bollert und die ersten
-  Geschenke stehen auch schon. Zeit, ein paar Cranberry-Walnuss-Cookies zu
-  backen.
-excerpt:
-  Es weihnachtet sehr! Die Deko steht, die Heizung bollert und die ersten
+description: Es weihnachtet sehr! Die Deko steht, die Heizung bollert und die
+  ersten Geschenke stehen auch schon. Zeit, ein paar Cranberry-Walnuss-Cookies
+  zu backen.
+excerpt: Es weihnachtet sehr! Die Deko steht, die Heizung bollert und die ersten
   Geschenke sind auch schon verpackt. Zeit, ein paar köstliche
   Cranberry-Walnuss-Cookies zu backen.
-focusKeyword:
-  Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
+focusKeyword: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
 labels:
   - Advent
   - Cookies
@@ -34,14 +30,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18642"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezept nicht nur für Advents-Naschkatzen
+  
 ---
 
-<strong>Es weihnachtet sehr! Die Deko steht, der Baum glänzt und die Heizung
-bollert. Zeit für ein paar Plätzchen fanden wir und daher wurde unser Wohnzimmer
-heute zur Backstube. Heraus kamen unter anderem ein paar wirklich leckere
+**Es weihnachtet sehr! Die Deko steht, der Baum glänzt und die Heizung bollert.
+Zeit für ein paar Plätzchen fanden wir und daher wurde unser Wohnzimmer heute
+zur Backstube. Heraus kamen unter anderem ein paar wirklich leckere
 Cranberry-Walnuss-Cookies. Für Advents-Naschkatzen, gestresste Weihnachtsmuffel,
-die Nervennahrung brauchen und alle anderen Leckermäulchen.</strong>
+die Nervennahrung brauchen und alle anderen Leckermäulchen.**
 
 Vorsicht: Die Dinger sind richtig schön süß und man ist nach dem ersten süchtig.
 Aber sie sorgen auch für gute Laune und passen hervorragend zu Glühwein oder
@@ -55,21 +54,19 @@ Schwierigkeitsgrad: Leicht
 
 ## Zutaten
 
-<ul>
-    <li>1/2 Tasse Rapsöl</li>
-    <li>1/2 Tasse Zucker</li>
-    <li>1/3 Tasse brauner Zucker</li>
-    <li>1/4 Tasse Mandelmilch</li>
-    <li>Mark einer halben Vanilleschote oder 1 1/2 TL Vanillearoma</li>
-    <li>1/2 TL Ahornaroma</li>
-    <li>2 1/2 Tassen Weizenmehl</li>
-    <li>1/4 Tasse Maisstärke</li>
-    <li>1 TL Zimt</li>
-    <li>1 TL Backpulver</li>
-    <li>1/4 TL Salz</li>
-    <li>1 1/4 Tassen Walnüsse</li>
-    <li>Eingelegte Cranberries</li>
-</ul>
+- 1/2 Tasse Rapsöl
+- 1/2 Tasse Zucker
+- 1/3 Tasse brauner Zucker
+- 1/4 Tasse Mandelmilch
+- Mark einer halben Vanilleschote oder 1 1/2 TL Vanillearoma
+- 1/2 TL Ahornaroma
+- 2 1/2 Tassen Weizenmehl
+- 1/4 Tasse Maisstärke
+- 1 TL Zimt
+- 1 TL Backpulver
+- 1/4 TL Salz
+- 1 1/4 Tassen Walnüsse
+- Eingelegte Cranberries
 
 ## Zubereitung
 
@@ -101,3 +98,5 @@ Adventszeit. Falls Ihr noch auf der Suche nach einem tollen Geschenk seid,
 &nbsp;
 
 &nbsp;
+
+  

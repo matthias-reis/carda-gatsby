@@ -4,11 +4,9 @@ seoTitle: Schutz vor Sturmfluten - Das Eidersperrwerk bei Tönning
 slug: schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning
 link: /2015/08/schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning/
 fileName: 2015-08---das-eidersperrwerk-bei-toenning.md
-description:
-  Bei unserem kleinen Ausflug nach Tönning besuchten wir auch das berühmte
-  Eidersperrwerk, das die Küste vor Sturmfluten schützt.
-excerpt:
-  An der Nordseemündung der Eider, ganz in der Nähe des kleinen Örtchens
+description: Bei unserem kleinen Ausflug nach Tönning besuchten wir auch das
+  berühmte Eidersperrwerk, das die Küste vor Sturmfluten schützt.
+excerpt: An der Nordseemündung der Eider, ganz in der Nähe des kleinen Örtchens
   Tönning, befindet sich das Eidersperrwerk. Das Bollwerk schützt die
   Küstenlandschaft vor Sturmfluten.
 focusKeyword: Eidersperrwerk
@@ -21,16 +19,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12156"
+image: /img/demo.jpg
+errors: []
 subTitle: Schutz vor der Sturmflut
+  
 ---
 
 ![Nistplätze auf dem Eidersperrwerk](http://cardamonchai.com/wp-content/uploads/2015/08/20161111072_b86f62ee14_z-640x427.jpg "Nistplätze auf dem Eidersperrwerk")
 
-<strong>An der Nordseemündung der Eider, ganz in der Nähe des kleinen Örtchens
+**An der Nordseemündung der Eider, ganz in der Nähe des kleinen Örtchens
 Tönning, befindet sich das Eidersperrwerk. Das Bollwerk schützt die
 Küstenlandschaft vor Sturmfluten. Es besteht aus zwei stabilen Wänden, die
 jeweils mit fünf verschließbaren Metalltoren versehen sind. In der Mitte
-verläuft die Straße.</strong>
+verläuft die Straße.**
 
 Doch nicht nur auf dem Landweg ist das Eidersperrwerk befahrbar. Eine
 anschließende, 75 Meter lange Schleuse ermöglicht auch den Schiffverkehr.
@@ -57,4 +58,6 @@ Eidersperrwerk und seine Bewohner besucht. Hier sind meine Bilder:
 Weitere Bilder findet Ihr wie immer in meinem
 [Flickr](https://www.flickr.com/photos/99929697@N07/).
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

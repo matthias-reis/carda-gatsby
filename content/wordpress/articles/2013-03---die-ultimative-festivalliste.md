@@ -4,12 +4,11 @@ seoTitle: Die ultimative Festivalliste - So vergesst Ihr garantiert nichts!
 slug: die-ultimative-festivalliste
 link: /2013/03/die-ultimative-festivalliste/
 fileName: 2013-03---die-ultimative-festivalliste.md
-description:
-  Mit der ultimativen Festivalliste vergesst Ihr garantiert nie wieder was und
-  könnt das nächste Festival in vollen Zügen genießen. Bei jedem Wetter.
-excerpt:
-  Mit der ultimativen Festivalliste vergesst Ihr garantiert nie wieder was und
-  könnt das nächste Festival in vollen Zügen genießen. Bei jedem Wetter.
+description: Mit der ultimativen Festivalliste vergesst Ihr garantiert nie
+  wieder was und könnt das nächste Festival in vollen Zügen genießen. Bei jedem
+  Wetter.
+excerpt: Mit der ultimativen Festivalliste vergesst Ihr garantiert nie wieder
+  was und könnt das nächste Festival in vollen Zügen genießen. Bei jedem Wetter.
 focusKeyword: Festivalliste
 labels:
   - Anne Festivalliste
@@ -80,26 +79,31 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5040"
+image: /img/demo.jpg
+errors: []
 subTitle: Perfekt ausgerüstet durch die Festival-Saison
+  
 ---
 
-## Liebe Freunde der gepflegten Freiluft-Musikunterhaltung,<strong>auch wenn der Frühling vielerorts noch auf sich warten lässt, eines lässt sich nicht leugnen: Der Beginn der Festivalsaison rückt langsam aber sicher wieder in greifbare Nähe! Zeit, eine Festivalliste zu machen!
-
-</strong>
-
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg " [](/2012/06/05/rock-im-park-2012/)  Billy Talent (Rock im Park 2012)")
+![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg "[ ](/2012/06/05/rock-im-park-2012/)  Billy Talent (Rock im Park 2012)")
 
 Auch ich bin natürlich schon wieder fleißig am Planen und wie in jedem Jahr sind
 ein paar kostbare Urlaubstage auch wieder für Open Air Veranstaltungen
 reserviert. In der Vergangenheit wurde traditionell das
-[Isle Of Wight](http://www.southside.de/) habe ich schon bereist. Unter anderem.
-Böse Zungen bezeichnen mich auch als "Festival-Oma".
+[Southside](http://www.southside.de/) besucht. Auch das Taubertal Festival,
+[Rock im Park](/2012/06/rock-im-park-2012/), das
+[Rock´n`Heim](http://www.rock-n-heim.com), das
+[Herzberg Festival](/2012/08/burg-herzberg-festival-2012/), das
+[A Summer's Tale](/2015/08/a-summers-tale-festival-2015/), das
+[Whiley Open Air](/2009/08/wiley-open-air-2009-ulm/), das Hurricane und das
+[Isle Of Wight](/2012/07/isle-of-wight-festival-2012/) habe ich schon bereist.
+Unter anderem. Böse Zungen bezeichnen mich auch als "Festival-Oma".
 
 Welche Festivals werdet Ihr besuchen? Habt Ihr schon Tickets? Auf welche Bands
 freut Ihr Euch besonders? Einige Festivals sind ja bereits komplett ausgebucht.
 
 Weil ich immer alles in meinem Blog festhalte, werde ich Euch auch meine
-<strong>Festivalliste </strong>nicht vorenthalten.
+**Festivalliste** nicht vorenthalten.
 
 ## Mit der ultimativen Festivalliste steht Ihr nicht im Regen
 
@@ -115,22 +119,22 @@ trotzdem gerne mitnehmen, so lange ich Euch nicht beim Tragen helfen muss und
 ich ab und zu von Euch zu einem kühlschrankgekühlten Bier in Euren Zeltvorgarten
 eingeladen werde. ;-)
 
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000313-150x150.jpg " [](/2012/06/05/rock-im-park-2012/)  Metallica (Rock im Park 2012)")
+![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000313-150x150.jpg "[ ](/2012/06/05/rock-im-park-2012/)  Metallica (Rock im Park 2012)")
 
-Auch auf <strong>Konservendosen</strong> habe ich verzichtet, diese kleinen,
-billigen asiatischen Tütensuppen haben sich in den letzten Jahren wirklich
-bewährt. Und sie schmecken auch noch genau so schrecklich, nachdem man sie für
-den Transport im Rucksack auf ihr Mindestmaß zusammengequetscht hat.
+Auch auf **Konservendosen** habe ich verzichtet, diese kleinen, billigen
+asiatischen Tütensuppen haben sich in den letzten Jahren wirklich bewährt. Und
+sie schmecken auch noch genau so schrecklich, nachdem man sie für den Transport
+im Rucksack auf ihr Mindestmaß zusammengequetscht hat.
 
 ## Ballast war gestern
 
 Die Devise lautet also: Ballast war gestern. Auch die Bierpaletten, die man zu
 dosenpfandfreien Zeiten noch stapelweise vom Auto zum Zeltplatz geschleppt hat,
-dürften, spätestens, seitdem es auf jedem mittelgroßen <strong>Festival</strong>
-in Zeltplatznähe gekühltes Dosenbier für 1,50 € gibt, der Vergangenheit
-angehören. Da lohnt sich der Leistenbruch einfach nicht mehr.
+dürften, spätestens, seitdem es auf jedem mittelgroßen **Festival** in
+Zeltplatznähe gekühltes Dosenbier für 1,50 € gibt, der Vergangenheit angehören.
+Da lohnt sich der Leistenbruch einfach nicht mehr.
 
-![Festivalliste | thumbnail](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150 " [](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg)  Festivals 2012")
+![Festivalliste | thumbnail](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150 "[ ](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg)  Festivals 2012")
 
 An den kleinen Supermarktständen, die es mittlerweile auf jedem Open
 Air-Tanzvergnügen gibt, kann man auch so nützliche Dinge wie Einweggrills zum
@@ -141,16 +145,15 @@ Füße wärmen, Crushed Ice und Saft/Eistee/Granulatkaffee kostengünstig bekomm
 Denkt auch daran: Je mehr Ihr in Eurer Partymobil reinpackt, desto weniger
 Freunde bringt Ihr auf dem Rücksitz unter. Außerdem frisst die Karre dann
 einfach erheblich mehr Sprit. Das Geld legt Ihr besser in ein gekühltes Bier zur
-Feier des <strong>Zelt</strong>-Richtfests an.
+Feier des **Zelt** -Richtfests an.
 
 Doch genug geschwafelt. Kommen wir zur diesjährigen Liste. Ich habe sie, anders
 als in den Jahren zuvor, in 2 Kategorien aufgeteilt. Zuerst möchte ich Euch die
 "Trapperliste" vorstellen, im Anschluss folgt dann die "Cliquenliste", auf der
-ich Sachen notiert habe, die Euer bester Kumpel in seinem
-<strong>Wohnmobil</strong> für Euch mitnehmen kann (natürlich müsst Ihr ihm dann
-später auch beim Schleppen/Aufbauen helfen und ihn eventuell auf eine
-Hopfenlimonade einladen) und die den Komfort der Gruppe um ein Vielfaches
-erhöhen werden. Hier ist für Euch
+ich Sachen notiert habe, die Euer bester Kumpel in seinem **Wohnmobil** für Euch
+mitnehmen kann (natürlich müsst Ihr ihm dann später auch beim Schleppen/Aufbauen
+helfen und ihn eventuell auf eine Hopfenlimonade einladen) und die den Komfort
+der Gruppe um ein Vielfaches erhöhen werden. Hier ist für Euch
 
 ## Die Tramperliste
 
@@ -342,7 +345,7 @@ Ich habe hier mit voller Absicht nur Zwischenmahlzeiten mit reingepackt, da man,
 wie die Festivalbesuche in den letzten tausend Jahren bewiesen haben, sowieso
 wieder jeden Fressstand, an dem man vorbeikommt, ausprobieren möchte.
 
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p8150037-150x150.jpg " [](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg)  Whiley Open Air 2009")
+![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p8150037-150x150.jpg "[ ](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg)  Whiley Open Air 2009")
 
 Ich habe die Lebensmittel auch mit Absicht auf die Cliquenliste gesetzt. Es
 empfiehlt sich auf jeden Fall, ein Vortreffen mit allen Mitreisenden zu
@@ -357,8 +360,10 @@ zu besorgen, es gibt nicht mehr viele!
 Natürlich würde ich jetzt gerne von Euch erfahren: Was nehmt Ihr eigentlich mit?
 Und eine noch viel spannendere Frage: Welche Festivals bereist Ihr diesen
 Sommer? Schreibt mir! Hier unter diesem Artikel als Kommentar, per E-Mail unter
-[Twitter](mailto:info@cardamonchai.com). <strong> Ich freue mich wie immer sehr
-auf Eure Zuschriften! </strong>
+[info@cardamonchai.com](mailto:info@cardamonchai.com), auf
+[Facebook](https://www.facebook.com/cardamonchai), oder
+[Twitter](https://twitter.com/Anne_Reko). **Ich freue mich wie immer sehr auf
+Eure Zuschriften!**
 
 &lt;3 liche Grüße sendet Euch Eure Festivaloma Anne
 
@@ -380,4 +385,6 @@ dies gerne tun. Wenn Euch der nackte Link zu langweilig ist, sendet einfach eine
 kurze E-Mail an [info@cardamonchai.com](mailto:info@cardamonchai.com), dann
 sende ich Euch ein Banner zum Einbinden zu.
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

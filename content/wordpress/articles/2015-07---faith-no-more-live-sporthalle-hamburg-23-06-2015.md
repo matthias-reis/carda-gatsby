@@ -4,12 +4,11 @@ seoTitle: Faith No More live @ Sporthalle Hamburg
 slug: faith-no-more-live-sporthalle-hamburg-23-06-2015
 link: /2015/07/faith-no-more-live-sporthalle-hamburg-23-06-2015/
 fileName: 2015-07---faith-no-more-live-sporthalle-hamburg-23-06-2015.md
-description:
-  Ich habe Mike Patton getroffen! Am 23. Juni war es endlich soweit und es hat
-  sich gelohnt! Das Faith No More Konzert in Hamburg war wirklich genial!
-excerpt:
-  Ich habe Mike Patton getroffen! Natürlich nicht persönlich, aber ich habe es
-  in meinem hohen Alter endlich geschafft, ein Faith No More Konzert zu
+description: Ich habe Mike Patton getroffen! Am 23. Juni war es endlich soweit
+  und es hat sich gelohnt! Das Faith No More Konzert in Hamburg war wirklich
+  genial!
+excerpt: Ich habe Mike Patton getroffen! Natürlich nicht persönlich, aber ich
+  habe es in meinem hohen Alter endlich geschafft, ein Faith No More Konzert zu
   besuchen!
 focusKeyword: Faith No More
 labels:
@@ -29,15 +28,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12081"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine schöne Erinnerung
+  
 ---
 
 ![Unsere Faith No More Karten](http://cardamonchai.com/wp-content/uploads/2015/07/17295536976_02149f84df_z-640x640.jpg "Unsere Faith No More Karten")
 
-<strong>Ich habe Mike Patton getroffen! Natürlich nicht persönlich, aber ich
-habe es in meinem hohen Alter endlich geschafft, ein Faith No More Konzert zu
-besuchen! Nachdem die neue Platte angekündigt war und die Tour feststand, haben
-wir uns gleich Karten organisiert.</strong>
+**Ich habe Mike Patton getroffen! Natürlich nicht persönlich, aber ich habe es
+in meinem hohen Alter endlich geschafft, ein Faith No More Konzert zu besuchen!
+Nachdem die neue Platte angekündigt war und die Tour feststand, haben wir uns
+gleich Karten organisiert.**
 
 Und es hat sich gelohnt! Das Konzert war der helle Wahnsinn! Auf jeden Fall ein
 Highlight des Jahres 2015. Wir hatten, was bis jetzt für uns eher untypisch ist,
@@ -62,4 +64,6 @@ ersten Stunde wurden nicht enttäuscht an diesem Abend.
 
 [myflickr tag="annefaithnomore062015"]
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

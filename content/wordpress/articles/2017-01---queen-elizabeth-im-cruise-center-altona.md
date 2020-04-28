@@ -4,12 +4,11 @@ seoTitle: Queen Elizabeth im Cruise Center Altona - Königin der Meere in Hambur
 slug: queen-elizabeth-im-cruise-center-altona
 link: /2017/01/queen-elizabeth-im-cruise-center-altona
 fileName: 2017-01---queen-elizabeth-im-cruise-center-altona.md
-description:
-  Gestern war es dann soweit, keine Geringere, als die Königin der Meere Queen
-  Elizabeth gab sich die Ehre im Cruise Center Altona. Eine Bildergalerie
-excerpt:
-  Gestern war es dann soweit, keine Geringere, als die Königin der Meere Queen
-  Elizabeth gab sich die Ehre im Cruise Center Altona. Eine Bildergalerie
+description: Gestern war es dann soweit, keine Geringere, als die Königin der
+  Meere Queen Elizabeth gab sich die Ehre im Cruise Center Altona. Eine
+  Bildergalerie
+excerpt: Gestern war es dann soweit, keine Geringere, als die Königin der Meere
+  Queen Elizabeth gab sich die Ehre im Cruise Center Altona. Eine Bildergalerie
 focusKeyword: Queen Elizabeth
 labels:
   - Elbe
@@ -25,16 +24,19 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15633"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Königin der Meere zu Gast in Hamburg
+  
 ---
 
-<strong>Mit der Sonne aufgestanden, waren die Elbgängerin und meine Wenigkeit
-gestern um 10 Uhr bereit für unseren Spaziergang an die Elbe. Wir beide lieben
-es, dass der große Fluß sich jeden Tag in einem neuen Licht zeigt und Menschen
-aus aller Herren Länder nach Hamburg bringt.</strong>
+**Mit der Sonne aufgestanden, waren die Elbgängerin und meine Wenigkeit gestern
+um 10 Uhr bereit für unseren Spaziergang an die Elbe. Wir beide lieben es, dass
+der große Fluß sich jeden Tag in einem neuen Licht zeigt und Menschen aus aller
+Herren Länder nach Hamburg bringt.**
 
-Gestern war es dann soweit, keine Geringere als die Königin der Meere <em>Queen
-Elizabeth</em> gab sich die Ehre im Cruise Center Altona. Die paar Stufen von
+Gestern war es dann soweit, keine Geringere als die Königin der Meere _Queen
+Elizabeth_ gab sich die Ehre im Cruise Center Altona. Die paar Stufen von
 unserem Zuhause an den Fluss hatten wir schnell hinter uns gebracht, die
 Huldigung ihrer Hoheit verbanden wir mit einer schönen Runde im gleißenden
 Sonnenlicht. Ich würde sagen, wir haben Vitamin D für die ganze nächste Woche
@@ -61,3 +63,5 @@ eintreffen. Die günstigste Zweibett-Kabine für eine Weltreise auf der Queen
 Elizabeth ist für 16.890 Euro pro Person zu haben.
 
 Übrigens hat die Elbgängerin auch fleißig gebloggt zu unserem Königinnenbesuch.
+
+  

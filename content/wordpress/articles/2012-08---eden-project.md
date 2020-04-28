@@ -4,12 +4,12 @@ seoTitle: Eden Project - neue Impressionen
 slug: eden-project-2
 link: /2012/08/eden-project-2/
 fileName: 2012-08---eden-project.md
-description:
-  Auch in diesem Jahr war es wieder wunderbar, im Eden Project St. Austell durch
-  die verschiedenen Klimazonen zu wandern. Hier kommen meine Bilder.
-excerpt:
-  Auch in diesem Jahr war es wieder wunderbar, im Eden Project St. Austell durch
-  die verschiedenen Klimazonen zu wandern. Hier kommen meine Bilder.
+description: Auch in diesem Jahr war es wieder wunderbar, im Eden Project St.
+  Austell durch die verschiedenen Klimazonen zu wandern. Hier kommen meine
+  Bilder.
+excerpt: Auch in diesem Jahr war es wieder wunderbar, im Eden Project St.
+  Austell durch die verschiedenen Klimazonen zu wandern. Hier kommen meine
+  Bilder.
 focusKeyword: Eden Project
 labels:
   - aussterbende Arten
@@ -36,13 +36,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3661"
+image: /img/demo.jpg
+errors: []
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 7/9
+  
 ---
 
-[](/2012/07/aloa-cornwall/) Impressionen aus dem Eden Projekt
-
-<strong>Auch in diesem Jahr war es wieder wunderbar, im Eden Project St. Austell
-durch die verschiedenen Klimazonen zu wandern.</strong>
+**Auch in diesem Jahr war es wieder wunderbar, im Eden Project St. Austell durch
+die verschiedenen Klimazonen zu wandern.**
 
 Leider war es dieses Mal etwas voller - das hat vermutlich an der
 Wettervorhersage für unseren Besuchstag gelegen.
@@ -53,8 +54,21 @@ Wettervorhersage für unseren Besuchstag gelegen.
 ids="3698,3699,3697,3696,3695,3694,3693,3692,3691,3690,3689,3688,3687,3686,3685,3684,3683,3679,3678,3677,3676,3675,3674,3673,3672,3671,3670,3669,3668,3667,3666,3665,3664,3663,3662,3661,3660,3659,3658,3657,3656,3655,3654,3653,3652,3651,3650,3649"]
 
 2009 habe ich schon mal das Eden Project besucht und diesen
-[Link](//?s=eden+project).
+[Artikel](//?s=eden+project) dazu geschrieben. Wer mehr über das Projekt
+erfahren möchte, klicke bitte auf den [Link](//?s=eden+project).
 
-Hier geht's zu [](/2012/08/fabelwesen/) der Galerie "England 2012"
+Hier geht's zu [_Teil 8/9_](/2012/08/fabelwesen/) der Galerie "England 2012"
 
-## England 2012 Wegweiser<ol><li> [Schneeweißchen und Rosenrot](http://wp.me/p533wO-Ry) </li></ol><em><strong></strong></em>
+## England 2012 Wegweiser1. [Sonne im Hafen](http://wp.me/p533wO-Ry)
+
+1.  [Der Kater und der Leuchtturm](/2012/08/der-kater-und-der-leuchtturm/)
+1.  [Glastonbury](/2012/07/glastonbury/)
+1.  [Isle Of Wight Festival](/2012/07/isle-of-wight-festival-2012/)
+1.  [Schnappschuss](/2012/07/schnappschuss/)
+1.  [Aloha Cornwall](/2012/07/aloa-cornwall/)
+1.  [Eden Project](/2012/08/eden-project-2/)
+1.  [Fabelwesen](/2012/08/fabelwesen/)
+1.  [Schneeweißchen und Rosenrot](/2012/08/schneeweis-und-rosenrot/) _ \_\_\_\_
+    _
+
+  

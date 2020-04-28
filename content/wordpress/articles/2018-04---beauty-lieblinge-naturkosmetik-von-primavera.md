@@ -1,16 +1,14 @@
 ---
 title: Beauty-Lieblinge - Naturkosmetik von Primavera
-seoTitle:
-  Beauty-Lieblinge - Primavera Naturkosmetik - Sensitivpflege mit Borretsch
+seoTitle: Beauty-Lieblinge - Primavera Naturkosmetik - Sensitivpflege mit Borretsch
 slug: primavera-senstivpflege
 link: /2018/04/primavera-senstivpflege/
 fileName: 2018-04---beauty-lieblinge-naturkosmetik-von-primavera.md
-description:
-  Heute möchte ich Euch ein paar neue Beauty Lieblinge aus meinem Badschrank
-  vorstellen. Die Sensitivpflege von Primavera hat eine neue Rezeptur.
-excerpt:
-  Werbung - Heute möchte ich Euch ein paar neue Beauty Lieblinge aus meinem
+description: Heute möchte ich Euch ein paar neue Beauty Lieblinge aus meinem
   Badschrank vorstellen. Die Sensitivpflege von Primavera hat eine neue
+  Rezeptur.
+excerpt: Werbung - Heute möchte ich Euch ein paar neue Beauty Lieblinge aus
+  meinem Badschrank vorstellen. Die Sensitivpflege von Primavera hat eine neue
   Rezeptur.
 focusKeyword: Primavera
 labels:
@@ -50,15 +48,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20586"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (42:47)"
 subTitle: Sensitivpflege mit Manuka und Borretsch
+  
 ---
 
-<em>Werbung\*</em>
+## unknown: Expected corresponding JSX closing tag for <p> (42:47)
 
-<strong>Heute möchte ich Euch meine neuen Beauty Lieblinge vorstellen. Ich nutze
-sie im Moment jeden Tag, worüber sich meine Haut sehr freut. Es handelt sich um
-den Toner, die Reinigungsmilch sowie die Gesichtscreme und die Augencreme aus
-der neuen Sensitiv-Serie von Primavera.</strong>
+<!--
+_Werbung\*_
+
+**Heute möchte ich Euch meine neuen Beauty Lieblinge vorstellen. Ich nutze sie
+im Moment jeden Tag, worüber sich meine Haut sehr freut. Es handelt sich um den
+Toner, die Reinigungsmilch sowie die Gesichtscreme und die Augencreme aus der
+neuen Sensitiv-Serie von Primavera.**
 
 Die Rezeptur der Pflegeserie wurde zum 1. März 2018 umgestellt. Die neue
 Leitpflanze ist nun die, auch als Südseemyrthe bekannte, Manuka und nicht mehr
@@ -191,6 +197,10 @@ Wer jetzt neugierig geworden ist, kann sich auf der
 [Homepage](https://www.primaveralife.com/shop/gesichtspflege-sensitivpflege) von
 Primavera weiter informieren.
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+-->
+
+  

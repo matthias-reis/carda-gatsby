@@ -4,12 +4,10 @@ seoTitle: Heimweggedanken - "Ihr könnt mich mal", sagte der Igel
 slug: heimweggedanken
 link: /2011/09/heimweggedanken/
 fileName: 2011-09---heimweggedanken.md
-description:
-  Männer, die durch ihre defensive Fahrweise positiv auffallen, Wolkenbilder und
-  Lynch im Fernsehen - ein kurzer Tagebucheintrag
-excerpt:
-  Männer, die durch ihre defensive Fahrweise positiv auffallen, Wolkenbilder und
-  Lynch im Fernsehen - ein kurzer Tagebucheintrag
+description: Männer, die durch ihre defensive Fahrweise positiv auffallen,
+  Wolkenbilder und Lynch im Fernsehen - ein kurzer Tagebucheintrag
+excerpt: Männer, die durch ihre defensive Fahrweise positiv auffallen,
+  Wolkenbilder und Lynch im Fernsehen - ein kurzer Tagebucheintrag
 focusKeyword: ""
 labels:
   - ♥
@@ -37,25 +35,28 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2638"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Ihr könnt mich mal!", sagte der Igel und drehte sich um.'
+  
 ---
-
-<em>Heute</em>
 
 Ein Schlachtfeld des schlechten Geschmacks Laute Menschen, die durch
 Nichtaussagen auffallen Vorgetäuschte Reifenpannen Stop And Go in der Innenstadt
 Hide And Seek im Kühlschrank
 
-<em>Aber auch</em>
+_Aber auch_
 
 Männer, die durch ihre defensive Fahrweise positiv auffallen Wolkenbilder und
 Lynch im Fernsehen "Du bist so wunderbar" Seifenschaum und Puderzucker
 Frittierte Glückseeligkeit
 
-<em>Aber ob das auch glücklich macht?</em><strong> "Das wird vielleicht das
-letzte sonnige Wochenende!", sagt die ältere Frau, die im Drogeriemarkt an der
-Kasse sitzt, jede Woche zu mir.</strong>
+_Aber ob das auch glücklich macht?_ **"Das wird vielleicht das letzte sonnige
+Wochenende!", sagt die ältere Frau, die im Drogeriemarkt an der Kasse sitzt,
+jede Woche zu mir.**
 
 &nbsp;
 
-<strong></strong>
+---
+
+  

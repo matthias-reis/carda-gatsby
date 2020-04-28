@@ -4,12 +4,12 @@ seoTitle: 12 Songs für den März - frisch gehört und für gut befunden
 slug: 12-songs-fuer-den-maerz
 link: /2020/02/12-songs-fuer-den-maerz/
 fileName: 2020-02---12-songs-fuer-den-maerz.md
-description:
-  Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch
-  bringt er ganz schön was mit. Hinter jeder Ecke lauern Neuveröffentlichungen!
-excerpt:
-  Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch
-  bringt er ganz schön was mit. Hinter jeder Ecke lauern Neuveröffentlichungen!
+description: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
+  Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
+  Neuveröffentlichungen!
+excerpt: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
+  Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
+  Neuveröffentlichungen!
 focusKeyword: Songs für den März
 labels:
   - Alternative
@@ -61,13 +61,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27560"
+image: /img/demo.jpg
+errors: []
 subTitle: Frisch zusammengestellt von den drei von der Bande
+  
 ---
 
-<strong>Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
-Musikalisch bringt er ganz schön was mit. Ich für meinen Teil konnte beim Hören
-in den letzen Wochen gar nicht genug kriegen. Hinter jeder Ecke lauerte eine
-Neuveröffentlichung auf mich.</strong>
+**Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür! Musikalisch
+bringt er ganz schön was mit. Ich für meinen Teil konnte beim Hören in den
+letzen Wochen gar nicht genug kriegen. Hinter jeder Ecke lauerte eine
+Neuveröffentlichung auf mich.**
 
 Meine persönliche Playlist des Monats umfasst daher ganze 24 Stücke. Und das ist
 nur die Crème de la Crème der Platten, die ich insgesamt gehört habe. Neben
@@ -134,13 +137,24 @@ und haut mit Vollgas auf die Ohren!
 
 ### sleepmakeswaves - "Cascades" von der EP Trilogie "These Are Not Your Dreams"
 
-<p class="p1">"Dieser Song ist die erste Auskopplung aus der Triple EP 'These Are Not Your Dreams', die sleepmakeswaves demnächst herausbringen werden. Vorbestellungen werden bereits entgegengenommen. Beim Hören sollte man unbedingt über den für manche Ohren vielleicht etwas schwächelnden 'Durchschnitts-Post Rock' zu Beginn hinwegsehen. Der Song entfaltet seine Stärke zur Mitte hin und hat seine Höhepunkte am Ende - lasst Euch den gesungenen Chorus auf den Trommelfellen zergehen!"</p>
+"Dieser Song ist die erste Auskopplung aus der Triple EP 'These Are Not Your
+Dreams', die sleepmakeswaves demnächst herausbringen werden. Vorbestellungen
+werden bereits entgegengenommen. Beim Hören sollte man unbedingt über den für
+manche Ohren vielleicht etwas schwächelnden 'Durchschnitts-Post Rock' zu Beginn
+hinwegsehen. Der Song entfaltet seine Stärke zur Mitte hin und hat seine
+Höhepunkte am Ende - lasst Euch den gesungenen Chorus auf den Trommelfellen
+zergehen!"
 
 <iframe src="https://www.youtube.com/embed/LluWlHGvE2w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Katatonia - "Laquer" Vorauskopplung vom kommenden Album "City Burials"
 
-<p class="p1">"Vom einstigen Dark/Doom Metal der Band, ist seit Musiker wie Sänger Mikael Åkerfeld nicht mehr dabei ist, nichts mehr zu spüren. Katatonia kommen langsam aber sicher in der Progressive Rock Welt an. Doch anders als Åkerfelds Opeth haben Katatonia ihre Härte komplett abgelegt. 'Laquer' lässt uns die instrumentale Qualität spüren - es entwickelt sich zu einem ruhigen, tragenden und Effekt-geladenen Stück - inklusive starker Stimme und genialen Momenten."</p>
+"Vom einstigen Dark/Doom Metal der Band, ist seit Musiker wie Sänger Mikael
+Åkerfeld nicht mehr dabei ist, nichts mehr zu spüren. Katatonia kommen langsam
+aber sicher in der Progressive Rock Welt an. Doch anders als Åkerfelds Opeth
+haben Katatonia ihre Härte komplett abgelegt. 'Laquer' lässt uns die
+instrumentale Qualität spüren - es entwickelt sich zu einem ruhigen, tragenden
+und Effekt-geladenen Stück - inklusive starker Stimme und genialen Momenten."
 
 <iframe src="https://www.youtube.com/embed/zGvZhRFBQ_I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -156,7 +170,14 @@ lässt das Stück auf eine hörbare Platte hoffen."
 
 ### envy - "Statement Of Freedom" vom aktuellen Album "The Fallen Crimson"
 
-<p class="p1">"Japanischer und japanischsprachiger Post-Sludge/Metal fasziniert mich im Moment sehr. Für mich ist dieses Stück hier der Gegenpol zu den beiden ruhigeren oben. Vom envy Album 'The Fallen Crimson' hatte ich in der Liste für den Dezember bereits die Vorauskopplung dabei. Jetzt gibt es endlich die ganze Platte und sie läuft bei mir hoch und runter. Man muss es sich unbedingt komplett von vorne bis hinten anhören. 'Statement Of Freedom' ist treibend, Action-geladen, an manchen Stellen etwas kitischig und gar nicht so düster, wie man das vielleicht von einigen Kolleg⋆innen aus Europa erwarten würde."</p>
+"Japanischer und japanischsprachiger Post-Sludge/Metal fasziniert mich im Moment
+sehr. Für mich ist dieses Stück hier der Gegenpol zu den beiden ruhigeren oben.
+Vom envy Album 'The Fallen Crimson' hatte ich in der Liste für den Dezember
+bereits die Vorauskopplung dabei. Jetzt gibt es endlich die ganze Platte und sie
+läuft bei mir hoch und runter. Man muss es sich unbedingt komplett von vorne bis
+hinten anhören. 'Statement Of Freedom' ist treibend, Action-geladen, an manchen
+Stellen etwas kitischig und gar nicht so düster, wie man das vielleicht von
+einigen Kolleg⋆innen aus Europa erwarten würde."
 
 <iframe src="https://www.youtube.com/embed/MmvsnyfeSwg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -164,25 +185,39 @@ lässt das Stück auf eine hörbare Platte hoffen."
 
 ### Blacktop Mojo - "It Won't Last" vom Album "Unter The Sun" (2019)
 
-<p class="p1">"Blacktop Mojo aus Texas machen ehrlichen Hardrock. Bei 'It Won't Last'  vom 2019 erschienen Album 'Under The Sun' handelt es sich um ein wunderbares Blues-Stück."</p>
+"Blacktop Mojo aus Texas machen ehrlichen Hardrock. Bei 'It Won't Last'  vom
+2019 erschienen Album 'Under The Sun' handelt es sich um ein wunderbares
+Blues-Stück."
 
 <iframe src="https://www.youtube.com/embed/SrbRMvYOvLg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### The Slickee Boys - "Gotta Tell Me Why" vom Album "Uh Oh.. No Breaks!" (1985)
 
-<p class="p1"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">"Diesen Song und diese Band hab ich durch die einmalige HBO-Serie 'The Deuce' entdeckt. Ihr Autor David Simon (aus dessen Feder bereits 'The Wire' kommt) hat schon immer ein Gespür für gute Musik, die zeitlich perfekt zu den Ären passt, in denen seine Geschichten spielen. The Slickee Boys ist eine</span> fast vergessene Band aus Washington D.C., die von 75-91 existierte. Feinster Garage-Rock!"</p>
+"Diesen Song und diese Band hab ich durch die einmalige HBO-Serie 'The Deuce'
+entdeckt. Ihr Autor David Simon (aus dessen Feder bereits 'The Wire' kommt) hat
+schon immer ein Gespür für gute Musik, die zeitlich perfekt zu den Ären passt,
+in denen seine Geschichten spielen. The Slickee Boys ist eine fast vergessene
+Band aus Washington D.C., die von 75-91 existierte. Feinster Garage-Rock!"
 
 <iframe src="https://www.youtube.com/embed/DmiPajJU-Eo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Seether - "Betray And Degrade" - vom Album "Poison The Parish" (2017)
 
-<p class="p1">"Diese Band, die ursprünglich aus Südafrika kam und dann in die USA auswanderte, hatte ich in den letzten Jahren etwas aus den Augen verloren. Das erste Album 'Disclaimer' von 2002 ist immer noch eine meiner Lieblingsplatten. Ich liebe den charakteristischen Post-Grunge von Seether. Dieser Song kommt vom noch aktuellen Album von 2017 "Poison The Parish".</p>
+"Diese Band, die ursprünglich aus Südafrika kam und dann in die USA auswanderte,
+hatte ich in den letzten Jahren etwas aus den Augen verloren. Das erste Album
+'Disclaimer' von 2002 ist immer noch eine meiner Lieblingsplatten. Ich liebe den
+charakteristischen Post-Grunge von Seether. Dieser Song kommt vom noch aktuellen
+Album von 2017 "Poison The Parish".
 
 <iframe src="https://www.youtube.com/embed/TTYrY-PGNuM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### grandson - "Blood // Water" von der EP "A Modern Tragedy, Vol. 1" (2018)
 
-<p class="p1">"Zum Schluss habe ich noch ein (für unsere Verhältnisse) etwas poppigers Lied rausgesucht. grandson, bürgerlicher Name Jordan Edward Benjamin, ist ein kanadischer Sänger. Seine Texte sind oft politisch-aktivistisch. 'Blood // Water' von der EP 'A Modern Tragedy Vol. 1' aus dem Jahr 2018 ist beim Twenty One Pilots Label 'Fueled By Ramen' beheimatet."</p>
+"Zum Schluss habe ich noch ein (für unsere Verhältnisse) etwas poppigers Lied
+rausgesucht. grandson, bürgerlicher Name Jordan Edward Benjamin, ist ein
+kanadischer Sänger. Seine Texte sind oft politisch-aktivistisch. 'Blood //
+Water' von der EP 'A Modern Tragedy Vol. 1' aus dem Jahr 2018 ist beim Twenty
+One Pilots Label 'Fueled By Ramen' beheimatet."
 
 <iframe src="https://www.youtube.com/embed/Sk-U8ruIQyA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -196,3 +231,5 @@ Infos über frische Beiträge gibt es einmal pro Woche
 [in meinem Newsletter](#newsletter).
 
 ![12-songs-fuer-den-maerz | large](http://cardamonchai.com/wp-content/uploads/2020/02/12-songs-pin-520x780.jpg)
+
+  

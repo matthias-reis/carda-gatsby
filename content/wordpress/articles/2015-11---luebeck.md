@@ -4,12 +4,10 @@ seoTitle: Wunderschönes Lübeck - Fotostrecke
 slug: wunderschoenes-luebeck
 link: /2015/11/wunderschoenes-luebeck/
 fileName: 2015-11---luebeck.md
-description:
-  Die schöne Hafenstadt Lübeck zeigte sich am Sonntag im gleißenden Sonnenlicht.
-  Vom Aussichtsturm genossen wir einen genialen Blick.
-excerpt:
-  Nachdem wir nach unserem Ausflug an den Timmendorfer Strand am Sonntag noch
-  etwas Zeit hatten, machten wir uns auf den Weg nach Lübeck.
+description: Die schöne Hafenstadt Lübeck zeigte sich am Sonntag im gleißenden
+  Sonnenlicht. Vom Aussichtsturm genossen wir einen genialen Blick.
+excerpt: Nachdem wir nach unserem Ausflug an den Timmendorfer Strand am Sonntag
+  noch etwas Zeit hatten, machten wir uns auf den Weg nach Lübeck.
 focusKeyword: Lübeck
 labels:
   - Ausflug
@@ -26,18 +24,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13061"
+image: /img/demo.jpg
+errors: []
 subTitle: Geschichte einer Hafenstadt
+  
 ---
-
-<i>"Willst du immer weiter schweifen? Sieh, das Gute liegt so nah!" - Johann
-Wolfgang von Goethe</i>
 
 ![Wunderschönes Lübeck](http://cardamonchai.com/wp-content/uploads/2015/11/22717821986_0bfb81b7e0_z-640x427.jpg "Wunderschönes Lübeck")
 
-<strong>Nachdem wir nach
+**Nachdem wir nach
 [unserem Ausflug](/2015/11/birdwatching-am-timmendorfer-strand/) an den
 Timmendorfer Strand am Sonntag noch etwas Zeit hatten, machten wir uns auf den
-Weg nach Lübeck.</strong>
+Weg nach Lübeck.**
 
 Die schöne Hafenstadt zeigte sich im gleißenden Sonnenlicht, das wir bis in die
 Abendstunden hinein genossen. Als Erstes besichtigten wir den Dom, im Anschluss
@@ -93,7 +91,13 @@ Meine letzte Fotostrecke aus Travemünde
 [findet Ihr hier](/2015/05/ein-sonntag-in-travemuende/).
 
 Wer gerne mehr über Lübeck erfahren möchte:
-[Homepage der Stadt](https://de.wikipedia.org/wiki/Lübeck) wärmstens empfehlen.
+[Wikipedia](https://de.wikipedia.org/wiki/Lübeck) gibt hier wirklich eine ganze
+Menge her, auch was Religion, Politik und Sehenswürdigkeiten betrifft. Außerdem
+kann ich Euch die wirklich liebevoll angelegte
+[Homepage der Stadt](http://www.luebeck.de/tourismus/sightseeing/geschichte/)
+wärmstens empfehlen.
 
-<em>Weitere Bilder wie immer in meinem
-[Flickr](https://www.flickr.com/photos/99929697@N07/albums). </em>
+_Weitere Bilder wie immer in meinem
+[Flickr](https://www.flickr.com/photos/99929697@N07/albums). _
+
+  

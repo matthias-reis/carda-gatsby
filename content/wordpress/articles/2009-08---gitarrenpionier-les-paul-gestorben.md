@@ -4,12 +4,10 @@ seoTitle: Nachruf - Gitarrenpionier Les Paul gestorben
 slug: nachruf-gitarrenpionier-les-paul-gestorben
 link: /2009/08/nachruf-gitarrenpionier-les-paul-gestorben/
 fileName: 2009-08---gitarrenpionier-les-paul-gestorben.md
-description:
-  Am 13. August 2009 ist Les Paul von uns gegangen, der Erfinder der Les Paul
-  Gitarre.
-excerpt:
-  Am 13. August 2009 starb der Erfinder der Les Paul Gitarren Les Paul im Alter
-  von 94 Jahren - ein Nachruf
+description: Am 13. August 2009 ist Les Paul von uns gegangen, der Erfinder der
+  Les Paul Gitarre.
+excerpt: Am 13. August 2009 starb der Erfinder der Les Paul Gitarren Les Paul im
+  Alter von 94 Jahren - ein Nachruf
 focusKeyword: Les Paul
 labels:
   - Bands & Reviews
@@ -24,12 +22,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11437"
+image: /img/demo.jpg
+errors: []
 subTitle: Nachruf für einen Giganten
+  
 ---
-
-<strong><em>Plains, New York</em> Am 13. August 2009 starb der Erfinder der Les
-Paul Gitarren Les Paul im Alter von 94 Jahren an einer
-Lungenentzündung.</strong>
 
 Les Paul wurde am 9. Juni 1915 in der Kleinstadt Waukesha im US-Bundesstaat
 Wisconsin als Lester William Polsfuss geboren. Seine Familie vereinfachte den
@@ -91,12 +88,19 @@ auszuwirken, konnte ihn aufhalten.
 
 Ein berühmtes Les Paul-Zitat lautet:
 
-<blockquote>"Wenn man dickköpfig ist, geht alles, ich spiele mit den Fingern, die mir noch geblieben sind."</blockquote>
+> "Wenn man dickköpfig ist, geht alles, ich spiele mit den Fingern, die mir noch
+> geblieben sind."
 
 Die Welt trauert um einen genialen Musiker - den Gitarrenpionier Les Paul, der
 die von Musikern liebevoll "Paula" genannte, wohl berühmteste Gitarre der Welt
 erfand.
 
-<strong>Les Paul \*1915 +2009</strong>### Bild im Header:
+**Les Paul \*1915 +2009** ### Quellen:
+[http://www.mediabiz.de/musik/news/les-paul-gestorb...](http://www.mediabiz.de/musik/news/les-paul-gestorben/278216)
+[http://de.wikipedia.org/wiki/Les_Paul](http://de.wikipedia.org/wiki/Les_Paul)
+[http://www.spiegel.de/kultur/musik/0,1518,642358,0...](http://www.spiegel.de/kultur/musik/0,1518,642358,00.html) ###
+Bild im Header:
 
 Heiko Bragenitz Pixelio
+
+  

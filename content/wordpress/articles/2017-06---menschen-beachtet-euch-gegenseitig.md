@@ -4,12 +4,10 @@ seoTitle: Menschen beachtet Euch gegenseitig! Ich werde nie aufgeben
 slug: menschen-beachtet-euch-gegenseitig
 link: /2017/06/menschen-beachtet-euch-gegenseitig/
 fileName: 2017-06---menschen-beachtet-euch-gegenseitig.md
-description:
-  Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu und drehen
-  sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
-excerpt:
-  Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu und drehen
-  sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
+description: Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu
+  und drehen sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
+excerpt: Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu und
+  drehen sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
 focusKeyword: Menschen
 labels:
   - 9 Jahre bloggen
@@ -40,16 +38,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16924"
+image: /img/demo.jpg
+errors:
+  - type: noSubtitle
+    message: no h2 heading found - no sub title
+  
 ---
 
 ## Ich werde nie aufgeben
 
 ![Menschen](http://cardamonchai.com/wp-content/uploads/2017/06/2017-06-18-Stamp-Festival-45-640x853.jpg "Why are you wearing that stupid man suit?")
 
-<strong>Warum sehen Menschen anderen Menschen beim Scheitern zu? Warum fällt es
-den meisten so schwer, anderen auch mal unter die Arme zu greifen? Wenn wir
-sehen, dass es schwierig wird, drehen wir uns weg. Was läuft schief mit
-uns?</strong>
+**Warum sehen Menschen anderen Menschen beim Scheitern zu? Warum fällt es den
+meisten so schwer, anderen auch mal unter die Arme zu greifen? Wenn wir sehen,
+dass es schwierig wird, drehen wir uns weg. Was läuft schief mit uns?**
 
 Ganz oben seht Ihr ein Bild von der
 [Sonntags-Parade](/2017/06/stamp-festival-altona-2017-parade/) auf dem Stamp
@@ -131,7 +133,12 @@ kommentiere doch auch alle Bilder von seinen Hunden.
 
 ![Menschen](http://cardamonchai.com/wp-content/uploads/2017/06/2017-06-18-Stamp-Festival-39-640x480.jpg)
 
-an uns vorbeischwimmt. Doch ich möchte hier keine Analyse starten.
+Ich poste jeden einzelnen Artikel, den ich hier im Blog veröffentliche,
+feinsäuberlich in allen sozialen Netzwerken. Derzeit nutze ich sieben. Insgesamt
+habe ich dort 2.444 Follower, Friends, Likes, Fans, oder wie auch immer ihr es
+am liebsten nennt. Dennoch kommen meine Leser über die Suchmaschine. Wir lesen
+also gar nicht, was im **digitalen Sozialnetz** an uns vorbeischwimmt. Doch ich
+möchte hier keine Analyse starten.
 
 Der Punkt ist vermutlich auch ein ganz anderer: Wir (Menschen) merken nicht, was
 anderen wichtig ist. Nicht über E-Mails oder Facebook und nicht durch Notizen
@@ -169,3 +176,5 @@ Vielleicht sollten wir uns einfach ein Bisschen zurückbesinnen. Zu Büchern. Od
 uns einfach mal wieder in der Weinstube treffen und uns gegenseitig die Dinge
 vorlesen oder vorsingen, die uns wichtig sind. Damit die anderen sie mit uns
 fühlen können. Oder vielleicht bin ich auch einfach zu alt für diesen Scheiß.
+
+  

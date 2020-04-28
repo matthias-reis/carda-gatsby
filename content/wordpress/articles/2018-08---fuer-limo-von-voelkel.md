@@ -4,12 +4,10 @@ seoTitle: FÜR Limo von Voelkel im Test - Geschmack von Italien und Skandinavien
 slug: fuer-limo-von-voelkel-im-test
 link: /2018/08/fuer-limo-von-voelkel-im-test/
 fileName: 2018-08---fuer-limo-von-voelkel.md
-description:
-  Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue
+description: Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue
   Bio-Fairtrade-Limonaden. Ich war neugierig und habe alle drei Sorten probiert.
   Hier ist mein Fazit.
-excerpt:
-  Werbung - Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue
+excerpt: Werbung - Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue
   Bio-Fairtrade-Limonaden. Ich war neugierig und habe alle drei Sorten probiert.
   Hier ist mein Fazit.
 focusKeyword: Voelkel
@@ -31,15 +29,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21594"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Unterminated JSX contents (93:16)"
 subTitle: Geschmack von Italien und Skandinavien
+  
 ---
 
-<em>Werbung\*</em>
+## unknown: Unterminated JSX contents (93:16)
 
-<strong>Sommerzeit ist Limozeit. Von der Naturkostsafterei Voelkel gibt es jetzt
-ein paar ganz neue Biolimonaden. Ich war neugierig und habe alle drei Sorten
+<!--
+_Werbung\*_
+
+**Sommerzeit ist Limozeit. Von der Naturkostsafterei Voelkel gibt es jetzt ein
+paar ganz neue Biolimonaden. Ich war neugierig und habe alle drei Sorten
 ("Zitrone naturtrüb", "Blutorange" und "Himbeer-Cassis") probiert. Ihr bekommt
-heute mein Fazit zu lesen</strong>
+heute mein Fazit zu lesen**
 
 Das Motto, unter dem die Limos vertrieben werden, gefällt schon mal: "Gutes
 Trinken, Gutes tun". Die neue Marke wurde speziell für den
@@ -56,13 +62,6 @@ paar Zutaten.
 
 <ul>
     <li><small><sub>
-    <li><small><sub>Zitronenauszug (Natürliches Mineralwasser, Zitronen)</sub></small></li>
-    <li><small><sub>Rohrohrzucker*</sub></small></li>
-    <li><small><sub>Zitronensaft/small&gt;</sub></small></li>
-    <li><small><sub>Zitronenfruchtmarkt</sub></small></li>
-    <li><small><sub>Traubensüße&gt;</sub></small></li>
-    <li><small><sub>Kohlensäure</sub></small></li>
-</ul>
 
 <small><sub>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem
 Fairtrade Zucker Programm.</sub></small>
@@ -77,16 +76,7 @@ Mixen sommerlicher [Cocktails](/tag/cocktail/). Enthalten sind
 ![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/28964053667_890c25fc74_z-400x300.jpg)
 
 <ul>
-    <li><small> 
-    <li><small><sub>Blutorangensaft</sub></small></li>
-    <li><small><sub>Zitronensaft</sub></small></li>
-    <li><small><sub>Rohrohrzucker*</sub></small></li>
-    <li><small><sub>Blutorangenfruchtmark</sub></small></li>
-    <li><small><sub>Traubensüße</sub></small></li>
-    <li><small><sub>Heidelbeersaft</sub></small></li>
-    <li><small><sub>Orangenöl</sub></small></li>
-    <li><small><sub>Kohlensäure</sub></small></li>
-</ul>
+    <li><small>
 
 <small><sub>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem
 Fairtrade Zucker Programm.</sub></small>
@@ -98,13 +88,6 @@ Auch sie sind zu 100 Prozent natürlicher Herkunft:
 
 <ul>
     <li><small><sub>
-    <li><small><sub>Himbeersaft</sub></small></li>
-    <li><small><sub>Rohrohrzucker*</sub></small></li>
-    <li><small><sub>Schwarzer Johannisbeersaft</sub></small></li>
-    <li><small><sub>Traubensüße</sub></small></li>
-    <li><small><sub>Zitronensaft</sub></small></li>
-    <li><small><sub>Kohlensäure</sub></small></li>
-</ul>
 
 <small><sub>\*Aus kontrolliert biologischem Anbau. Rohrohrzucker aus dem
 Fairtrade Zucker Programm.</sub></small>
@@ -144,8 +127,12 @@ führt.
 
 ![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/28963908237_88ebe719d6_z-400x533.jpg)
 
-und bei meinen Lieblingsprodukten, der Matelimonade und dem Cold Brew Kaffee
-klappt es ja auch sehr gut.
+Das Einzige, was mir aufgefallen ist, was ich an dieser Stelle loswerden möchte,
+ist: Es wäre wirklich super, wenn die FÜR Limo in Zukunft, wie die anderen
+Produkte von Voelkel, in Glasflaschen abgefüllt würde.
+[PET muss echt nicht sein](/2018/07/glas-statt-plastik/) und bei meinen
+Lieblingsprodukten, der Matelimonade und dem Cold Brew Kaffee klappt es ja auch
+sehr gut.
 
 Dann würde das FÜR auch noch für nachhaltige Verpackung stehen. Für mich wäre
 das ein klares Statement für mehr Nachhaltigkeit und würde der Marke gut zu
@@ -160,10 +147,14 @@ auf einen Fahrrad-Gepäckträger und so hat die ganze Clique was davon. Außerde
 klingt es gleich viel schöner, wenn man mit Glasflaschen anstößt. ;-) In diesem
 Sinne: Prost!
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
 Vielen Dank an Voelkel für die freundliche Zurverfügungstellung der Produkte!
 [Hier gehts zur Homepage](https://voelkeljuice.de/startseite.html) der
 Naturkostsafterei.
+
+-->
+
+  

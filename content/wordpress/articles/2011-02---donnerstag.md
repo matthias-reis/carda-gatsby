@@ -4,14 +4,12 @@ seoTitle: Donnerstag - Umzug zu Wordpress - Tagebucheintrag
 slug: donnerstag
 link: /2011/02/donnerstag/
 fileName: 2011-02---donnerstag.md
-description:
-  Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es liegt also
-  noch eine ganze Menge vor mir. Es ist interessant, die alten Artikel nochmal
-  durchzugehen.
-excerpt:
-  Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es liegt also
-  noch eine ganze Menge vor mir. Es ist interessant, die alten Artikel nochmal
-  durchzugehen.
+description: Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es
+  liegt also noch eine ganze Menge vor mir. Es ist interessant, die alten
+  Artikel nochmal durchzugehen.
+excerpt: Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es liegt
+  also noch eine ganze Menge vor mir. Es ist interessant, die alten Artikel
+  nochmal durchzugehen.
 focusKeyword: Donnerstag
 labels:
   - Tagebuch
@@ -22,16 +20,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "655"
+image: /img/demo.jpg
+errors: []
 subTitle: Umzug zu Wordpress schreitet voran
+  
 ---
-
-![Donnerstag](http://cardamonchai.com/wp-content/uploads/2011/02/img_7594-640x427.jpg)
-
-<strong>Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es liegt
-also noch eine ganze Menge vor mir. Es ist interessant, die alten Artikel
-nochmal durchzugehen. Bei einigen habe ich Fotos aussortiert, andere habe ich
-sogar ganz gelöscht. Inzwischen sieht man einiges objektiver, manche Artikel
-benötigen einfach keine Bildergalerie aus 50 Fotos. </strong>
 
 Am besten gefällt mir bis jetzt der Beitrag über das Calexico-Konzert in Ulm im
 Januar 2009. Die Bilder sind eine Erinnerung an einen wirklich gelungenen Abend
@@ -47,3 +40,5 @@ Lechebene. Glücklicherweise soll es zum Wochenende hin milder werden. Warten wi
 es ab.
 
 Züge fahren vorbei, die Gedanken schweifen ab. Fernweh.
+
+  

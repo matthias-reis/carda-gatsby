@@ -14,13 +14,7 @@ ${YAML.stringify(meta)}
 ${content}
   `;
 
-    const output = prettier.format(md, {
-      printWidth: 80,
-      parser: 'mdx',
-      proseWrap: 'always',
-    });
-
-    writeFileSync(join(path, meta.fileName + suffix), output, {
+    writeFileSync(join(path, meta.fileName + suffix), md, {
       encoding: 'utf8',
     });
   } catch (err) {

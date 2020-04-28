@@ -4,12 +4,12 @@ seoTitle: Mogwai live @ Backstage München - Konzertbericht und Bildergalerie
 slug: mogwai-live-backstage-muenchen
 link: /2014/03/mogwai-live-backstage-muenchen/
 fileName: 2014-03---mogwai-live-backstage-muenchen.md
-description:
-  "Hier sind meine Eindrück vom Mogwai Konzert in München - Nur soviel sei
-  gesagt: Die Band war genial, laut und perfekt. Ein rundum gelungener Abend."
-excerpt:
-  "Hier sind meine Eindrück vom Mogwai Konzert in München - Nur soviel sei
-  gesagt: Die Band war genial, laut und perfekt. Ein rundum gelungener Abend."
+description: "Hier sind meine Eindrück vom Mogwai Konzert in München - Nur
+  soviel sei gesagt: Die Band war genial, laut und perfekt. Ein rundum
+  gelungener Abend."
+excerpt: "Hier sind meine Eindrück vom Mogwai Konzert in München - Nur soviel
+  sei gesagt: Die Band war genial, laut und perfekt. Ein rundum gelungener
+  Abend."
 focusKeyword: Mogwai
 labels:
   - Anne Reis
@@ -33,7 +33,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7769"
+image: /img/demo.jpg
+errors: []
 subTitle: Meine Lieben,
+  
 ---
 
 endlich bin ich dazu gekommen, die Bilder vom ersten Konzert des Jahres zu
@@ -52,3 +55,5 @@ Laut und toll hier für Euch: Das komplette Album "Rave Tapes"
 <iframe src="https://www.youtube.com/embed/cfdqzVYt8Do" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Hier könnt Ihr die Band [auf ihrer Homepage besuchen](http://www.mogwai.co.uk/)
+
+  

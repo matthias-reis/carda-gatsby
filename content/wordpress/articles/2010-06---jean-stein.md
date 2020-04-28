@@ -5,8 +5,7 @@ slug: jean-stein
 link: /2010/06/jean-stein/
 fileName: 2010-06---jean-stein.md
 description: Jean Stein - Augsburg
-excerpt:
-  In Augsburg gab es mal einen ganz besonderen Stein - nur Insider kennen ihn.
+excerpt: In Augsburg gab es mal einen ganz besonderen Stein - nur Insider kennen ihn.
 focusKeyword: Jean Stein
 labels:
   - alternativ
@@ -26,5 +25,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11527"
+image: /img/demo.jpg
+errors: []
 subTitle: Gesehen in Augsburg
+  
 ---
+
+
+  

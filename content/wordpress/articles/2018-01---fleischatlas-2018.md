@@ -4,12 +4,12 @@ seoTitle: Fleischatlas 2018 - Broschüre zeigt die ungeschönte Wahrheit
 slug: fleischatlas-2018
 link: /2018/01/fleischatlas-2018/
 fileName: 2018-01---fleischatlas-2018.md
-description:
-  Vor Kurzem veröffentlichte die Heinrich Böll Stiftung gemeinsam mit BUND und
-  der deutschen Ausgabe von Le Monde Diplomatique den aktuellen Fleischatlas.
-excerpt:
-  Vor Kurzem veröffentlichte die Heinricht Böll Stiftung gemeinsam mit BUND und
-  der deutschen Ausgabe von Le Monde Diplomatique den aktuellen Fleischatlas.
+description: Vor Kurzem veröffentlichte die Heinrich Böll Stiftung gemeinsam mit
+  BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen
+  Fleischatlas.
+excerpt: Vor Kurzem veröffentlichte die Heinricht Böll Stiftung gemeinsam mit
+  BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen
+  Fleischatlas.
 focusKeyword: Fleischatlas
 labels:
   - BUND
@@ -35,13 +35,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24373"
+image: /img/demo.jpg
+errors: []
 subTitle: Broschüre zeigt die ungeschönte Wahrheit
+  
 ---
 
-<strong>Vor Kurzem veröffentlichte die <em>Heinrich Böll Stiftung</em> gemeinsam
-<em>BUND</em> und der deutschen Ausgabe von <em>Le Monde Diplomatique</em>
-wieder den aktuellen Fleischatlas. Die Broschüre zeigt alle Daten und Fakten
-über Tiere als Nahrungsmittel. Ohne etwas wegzulassen oder zu schönen.</strong>
+**Vor Kurzem veröffentlichte die _Heinrich Böll Stiftung_ gemeinsam _BUND_ und
+der deutschen Ausgabe von _Le Monde Diplomatique_ wieder den aktuellen
+Fleischatlas. Die Broschüre zeigt alle Daten und Fakten über Tiere als
+Nahrungsmittel. Ohne etwas wegzulassen oder zu schönen.**
 
 Auf insgesamt 52 Seiten werden unter anderem Themen wie die fatalen Auswirkungen
 der Massentierhaltung auf den Welthunger, Marketinginstrumente,
@@ -56,7 +59,8 @@ Fleischesser sollten definitiv mal einen Blick hineinwerfen. Auch der Abschnitt
 zum Thema Biofleisch (Fleisch "vom Metzger des Vertrauens") gibt Aufschluss über
 so einiges. Und wie auf Seite 6 bereits einleitend erklärt wird:
 
-<blockquote>"Mittlerweile werden überall in der Gesellschaft die verschiedenen Aspekte der Fleischproduktion diskutiert."</blockquote>
+> "Mittlerweile werden überall in der Gesellschaft die verschiedenen Aspekte der
+> Fleischproduktion diskutiert."
 
 Und das ist auch gut so und sollte sich möglichst schnell weiter verbreiten. Um
 Tieren weitere Qualen zu ersparen, den Welthunger nicht noch weiter
@@ -70,7 +74,8 @@ Werbung. Hier im Bild sehr gut dargestellt:
 
 Hierzu wird ganz klar gesagt:
 
-<blockquote>"Der Markt bietet Anreize für mehr Fleischverzehr – der Staat sollte Anreize für mehr Fleischverzicht geben."</blockquote>
+> "Der Markt bietet Anreize für mehr Fleischverzehr – der Staat sollte Anreize
+> für mehr Fleischverzicht geben."
 
 ## Die Werbung manipuliert uns
 
@@ -119,7 +124,11 @@ und die Grafschaft Bentheim (2,55).
 Die "flächengebundene Tierhaltung" legt fest, wie viele Tiere eine Fläche gerade
 noch so verträgt, ohne einem Kollaps zu erliegen.
 
-<blockquote>"Zwei Großvieheinheiten auf einen Hektar. Zwei GVE – das entspricht zwei Kühen, zehn schlachtreifen Schweinen oder 666,6 Masthähnchen. Flächengebundene Tierhaltung für ganz Deutschland kann nur gelingen, wenn die Tierbestände reduziert werden. Diese Abstockung muss beginnen, wo die intensive Tierhaltung besonders verbreitet ist."</blockquote>
+> "Zwei Großvieheinheiten auf einen Hektar. Zwei GVE – das entspricht zwei
+> Kühen, zehn schlachtreifen Schweinen oder 666,6 Masthähnchen. Flächengebundene
+> Tierhaltung für ganz Deutschland kann nur gelingen, wenn die Tierbestände
+> reduziert werden. Diese Abstockung muss beginnen, wo die intensive Tierhaltung
+> besonders verbreitet ist."
 
 ![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas3.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
 
@@ -139,13 +148,19 @@ Wärme ihnen zusteht.
 Zugrunde liegt ihr eine Verordnung aus dem Tierschutzgesetz von 1972. Das Gebot
 der Neufassung von 2006 lautet:
 
-<blockquote>"Die Tiere müssen verhaltensgerecht untergebracht werden, sie dürfen keine Schmerzen haben, leiden oder sonst wie zu Schaden kommen."</blockquote>
+> "Die Tiere müssen verhaltensgerecht untergebracht werden, sie dürfen keine
+> Schmerzen haben, leiden oder sonst wie zu Schaden kommen."
 
 Das klingt richtig schön rund, doch die Realität sieht anders aus. Die Berichte
 der Tierschützer über verletzte, kranke und apathische Tiere sind kein Geheimnis
 mehr und werden auch im Fleischatlas erwähnt.
 
-<blockquote>"Bei Mastschweinen sind bis zu 80 Prozent der Tiere verletzt oder an den Atemwegen erkrankt. Bis zu einem Drittel der Milchkühe leidet an lahmen Gelenken – Störungen des Gangbildes –, 38 Prozent an Euterentzündungen. Bei bis zu zwei Dritteln der Masthühner haben sich die Fußballen verändert, ebenso viele leiden unter Kahlstellen wegen Federpickens. Brustbeinschäden weisen 40 Prozent auf, Knochenbrüche 53 Prozent."</blockquote>
+> "Bei Mastschweinen sind bis zu 80 Prozent der Tiere verletzt oder an den
+> Atemwegen erkrankt. Bis zu einem Drittel der Milchkühe leidet an lahmen
+> Gelenken – Störungen des Gangbildes –, 38 Prozent an Euterentzündungen. Bei
+> bis zu zwei Dritteln der Masthühner haben sich die Fußballen verändert, ebenso
+> viele leiden unter Kahlstellen wegen Federpickens. Brustbeinschäden weisen 40
+> Prozent auf, Knochenbrüche 53 Prozent."
 
 ![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas4.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
 
@@ -203,10 +218,12 @@ komplett lesen möchte, kann ihn jederzeit herunterladen:
 
 [Fleischatlas jetzt runterladen](https://www.bund.net/fileadmin/user_upload_bund/publikationen/massentierhaltung/massentierhaltung_fleischatlas_2018.pdf)
 
-<strong>HINWEIS: Bei den von mir verwendeten Bildern handelt es sich um
-Screenshots aus dem
+**HINWEIS: Bei den von mir verwendeten Bildern handelt es sich um Screenshots
+aus dem
 [Fleischatlas 2018](https://www.boell.de/de/2018/01/10/fleischatlas-2018-rezepte-fuer-eine-bessere-tierhaltung)
 Bartz/Stockmar, CC BY 4.0. Das Bild im Titel stammt von OpenClipart-Vectors
-(pixabay)</strong>
+(pixabay)**
 
-<strong>QUELLE: Fleischatlas 2018</strong>
+**QUELLE: Fleischatlas 2018**
+
+  

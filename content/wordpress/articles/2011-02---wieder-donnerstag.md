@@ -4,12 +4,12 @@ seoTitle: Wieder Donnerstag - Tagebucheintrag
 slug: wieder-donnerstag
 link: /2011/02/wieder-donnerstag/
 fileName: 2011-02---wieder-donnerstag.md
-description:
-  Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar schöne
-  Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön sonnig.
-excerpt:
-  Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar schöne
-  Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön sonnig.
+description: Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar
+  schöne Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön
+  sonnig.
+excerpt: Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar
+  schöne Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön
+  sonnig.
 focusKeyword: ""
 labels:
   - Blog
@@ -24,6 +24,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "379"
+image: /img/demo.jpg
+errors:
+  - type: noSubtitle
+    message: no h2 heading found - no sub title
+  
 ---
 
 Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar schöne Songs
@@ -32,8 +37,10 @@ am Wochenende auch so sein. Wunderbares Ausflugswetter. Schön, dass morgen
 Freitag ist. Nur noch ein Achtstundentag liegt zwischen mir und diesen zwei
 Tagen Freiheit.
 
-<strong>Song des Tages: </strong>Incubus - Wish You Where Here
+**Song des Tages:** Incubus - Wish You Where Here
 
 [youtube=http://www.youtube.com/watch?v=Nw382Q_6LgM]
 
-<strong></strong>
+---
+
+  

@@ -4,12 +4,10 @@ seoTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
 slug: el-iris-de-lucy-las-palmas
 link: /2017/06/el-iris-de-lucy-las-palmas/
 fileName: 2017-06---el-iris-de-lucy.md
-description:
-  "Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf dem
-  Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM."
-excerpt:
-  "Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf dem
-  Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM."
+description: "Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst
+  auf dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM."
+excerpt: "Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst auf
+  dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM."
 focusKeyword: El iris de Lucy
 labels:
   - Afrika
@@ -62,16 +60,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16781"
+image: /img/demo.jpg
+errors: []
 subTitle: Zeitgenössische Künstlerinnen Afrikas im CAAM in Las Palmas
+  
 ---
 
 ![El iris de Lucy](http://cardamonchai.com/wp-content/uploads/2017/06/34413328370_62c83da79c_o-640x425.jpg)
 
-<strong>
+**Bei unserem Aufenthalt in Las Palmas im Mai stand auch Kunst auf dem Programm.
+Genauer: Die packende Ausstellung _El iris de Lucy_ im Atlántico de Arte Moderno
+(CAAM).**
 
 ## El iris de Lucy - Zeitgenössische Künstlerinnen Afrikas
 
-<em>El iris de Lucy</em> (Lucys Iris) zeigte in Las Palmas vom 26. Januar bis
+_El iris de Lucy_ (Lucys Iris) zeigte in Las Palmas vom 26. Januar bis
 einschließlich 4. Juni 2017 die Werke von 25 zeitgenössischen Künstlerinnen aus
 Afrika. Alle Frauen, deren Kunstwerke ausgestellt wurden, bewohnen diesen
 Kontinent und verarbeiten ihre Erfahrungen in ihrer Kunst.
@@ -81,28 +84,29 @@ die auf die aufgezwungenen Denkmuster der Kolonialzeit anspielt. Damit richtete
 sie den Fokus auf die Notwendigkeit ihrer Überwindung und auf das
 Wiedererreichen der Blicke, die niemals hätten abgewendet werden dürfen.
 
-Dabei bezog man sich auf den <em>Australopithecus afarensis</em>, besser bekannt
-als <em>Lucy.</em> Sie galt für lange Zeit als Urahnin der Menschheit. Bei ihrer
-Entdeckung durch ein Team aus Anthropologen rund um Donald Johanson und Tom Gray
-im Jahr 1974 wurde ihr Alter auf 3,2 Millionen Jahre geschätzt. Der Name wurde
-ihr mehr zufällig gegeben, damals lief gerade "Lucy In The Sky With Diamonds"
-von den Beatles im Radio.
+Dabei bezog man sich auf den _Australopithecus afarensis_ , besser bekannt als
+_Lucy._ Sie galt für lange Zeit als Urahnin der Menschheit. Bei ihrer Entdeckung
+durch ein Team aus Anthropologen rund um Donald Johanson und Tom Gray im Jahr
+1974 wurde ihr Alter auf 3,2 Millionen Jahre geschätzt. Der Name wurde ihr mehr
+zufällig gegeben, damals lief gerade "Lucy In The Sky With Diamonds" von den
+Beatles im Radio.
 
 ## El iris de Lucy - Warum keine Afrikanerin als Namenspatin?
 
 ![El iris de Lucy](http://cardamonchai.com/wp-content/uploads/2017/06/34991752072_71f7ed661b_k-640x426.jpg)
 
-haben sich die berechtigte Frage gestellt, warum man sich damals nicht den Namen
-einer Frau aus der afrikanischen Kultur entschieden hatte. Warum hatten die
-Forscher die Verbindung des von ihnen entdeckten Hominiden zu seiner Identität
-und somit seinem Blick, also seiner Iris durchbrochen?
+Die Schöpfer von _El iris de Lucy_ haben sich die berechtigte Frage gestellt,
+warum man sich damals nicht den Namen einer Frau aus der afrikanischen Kultur
+entschieden hatte. Warum hatten die Forscher die Verbindung des von ihnen
+entdeckten Hominiden zu seiner Identität und somit seinem Blick, also seiner
+Iris durchbrochen?
 
 Kurze Zeit nach ihrer Taufe wurde sie durch die Ätiopier der Region Afar in
-<em>Dinkenesh</em> umbenannt, was so viel bedeutet, wie "Du bist wunderbar". Die
+_Dinkenesh_ umbenannt, was so viel bedeutet, wie "Du bist wunderbar". Die
 Entwendung jedoch bleibt eine Tatsache und lässt sich nicht mehr rückgängig
-machen. Die Ausstellung <em>El iris de Lucy</em> soll Lucy ihren Blick
-zurückgeben. Geführt wird ihr Auge dabei von den Werken großer zeitgenössischer
-afrikanischer Künstlerinnen.
+machen. Die Ausstellung _El iris de Lucy_ soll Lucy ihren Blick zurückgeben.
+Geführt wird ihr Auge dabei von den Werken großer zeitgenössischer afrikanischer
+Künstlerinnen.
 
 ## "Du bist wunderbar"
 
@@ -127,33 +131,33 @@ Williamson, Billie Zangewa und Amina Zoubir.
 
 ## El iris de Lucy - Eine Wanderausstellung
 
-Zuerst wurde <em>El iris des Lucy</em> im MUSAC in León gezeigt, wo auch die
-Idee enstand. Später zog die Ausstellung dann ins Musée departamental d'art in
+Zuerst wurde _El iris des Lucy_ im MUSAC in León gezeigt, wo auch die Idee
+enstand. Später zog die Ausstellung dann ins Musée departamental d'art in
 Rochechouart um, von woaus sie nach Las Palmas reiste. Die Wanderausstellung
 fand 2017 im CAAM und der Casa Àfrica, wo sie parallel gezeigt wurde, ihren
-Ausklang. Gewidmet wurde <em>El iris de Lucy</em> der ägyptischen Künstlerin
-Amal Kenawy.
+Ausklang. Gewidmet wurde _El iris de Lucy_ der ägyptischen Künstlerin Amal
+Kenawy.
 
 Wir danken dem Kurator Orlando Britto Jinorio für die wundervolle Ausstellung
 und den freundlichen Mitarbeitern des Museums dafür, dass sie uns unsere
 schweren Rucksäcke abgenommen und uns so liebevoll aufgenommen haben. Die
 Ausstellung hat uns beide in ihren Bann gezogen und schwer beeindruckt. Leider
 komme ich erst jetzt dazu, meine Bilder zu veröffentlichen, ich hoffe, dass man
-dadurch einen kleinen Eindruck von <em>El iris de Lucy</em> bekommt.
+dadurch einen kleinen Eindruck von _El iris de Lucy_ bekommt.
 
 [myflickr tag="anneelirisdelucy"]
 
 ## Wegweiser Gran Canaria
 
-<ol>
-    <li> [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/) </li>
-    <li> [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/) </li>
-    <li>Zeitgenössische Künstlerinnen Afrikas in Las Palmas</li>
-    <li> [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/) </li>
-    <li> [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/) </li>
-    <li> [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/) </li>
-    <li> [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/) </li>
-    <li> [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/) </li>
-    <li> [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/) </li>
-    <li> [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/) </li>
-</ol>
+1.  [Eine vegane Oase im Herzen von Las Palmas](/2017/05/la-hierba-luisa-cocina-de-la-huerta/)
+1.  [Vegan auf Gran Canaria](/2017/05/vegan-auf-gran-canaria/)
+1.  Zeitgenössische Künstlerinnen Afrikas in Las Palmas
+1.  [Rund um den Leuchtturm von Maspalomas](/2017/06/rund-um-den-leuchtturm-von-maspalomas/)
+1.  [Die Dünen von Maspalomas](/2017/07/die-duenen-von-maspalomas/)
+1.  [Mit dem Boot von Bucht zu Bucht](/2017/07/gran-canaria-der-sueden/)
+1.  [Stadtrundgang in Las Palmas de Gran Canaria](/2017/08/las-palmas-de-gran-canaria/)
+1.  [Die einzige Kaffeeplantage Europas](/2017/09/die-einzige-kaffeeplantage-europas/)
+1.  [Las Vegas auf Gran Canaria](/2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/)
+1.  [Jardín Canario – Grüne Oase in Tafira](/2017/09/jardin-canario-gruene-oase-in-tafira/)
+
+  

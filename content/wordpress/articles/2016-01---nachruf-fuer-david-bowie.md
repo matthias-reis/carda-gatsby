@@ -4,12 +4,10 @@ seoTitle: RIP David Bowie - Abschied von einer Ikone
 slug: rip-david-bowie-abschied-von-einer-ikone
 link: /2016/01/rip-david-bowie-abschied-von-einer-ikone/
 fileName: 2016-01---nachruf-fuer-david-bowie.md
-description:
-  RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene Ikone heute
-  von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
-excerpt:
-  RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene Ikone heute
-  von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
+description: RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene
+  Ikone heute von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
+excerpt: RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene Ikone
+  heute von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
 focusKeyword: RIP David Bowie
 labels:
   - Abschied
@@ -26,18 +24,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13687"
+image: /img/demo.jpg
+errors: []
 subTitle: Abschied von einer Ikone
+  
 ---
 
-<strong>Einer der Größten ist von uns gegangen. David Bowie hat uns im Alter von
-69 Jahren verlassen. Seinen 18-monatigen Kampf gegen den Krebs hat er
-verloren.</strong>
+**Einer der Größten ist von uns gegangen. David Bowie hat uns im Alter von 69
+Jahren verlassen. Seinen 18-monatigen Kampf gegen den Krebs hat er verloren.**
 
 Die Welt trauert um einen der einflussreichsten Musiker, Komponisten und
 Künstler aller Zeiten. Heute Morgen nahm er im Kreise seiner Familie Abschied.
 Sein Sohn Duncan Jones bestätigte die traurige Nachricht via Twitter.
 
-<blockquote>"Es tut mir sehr leid und ich bin sehr traurig es sagen zu müssen. Es ist wahr. Ich werde nun für eine Zeitlang offline sein. Liebe an alle."</blockquote>
+> "Es tut mir sehr leid und ich bin sehr traurig es sagen zu müssen. Es ist
+> wahr. Ich werde nun für eine Zeitlang offline sein. Liebe an alle."
 
 Auf dem Foto ist Duncan als Kleinkind zusammen mit seinem Vater zu sehen.
 
@@ -79,8 +80,10 @@ schon vor Jahren in Berlin gefunden hatte. Hier einige Bilder aus dem Netz.
 
 [gallery size="medium" type="rectangular" ids="13692,13693,13694"]
 
-<blockquote>I, I wish you could swim like the dolphins like the dolphins can swim.</blockquote>
+> I, I wish you could swim like the dolphins like the dolphins can swim.
 
 ## Hier ist für Euch David Bowie mit Ziggy Stardust
 
 <iframe src="https://www.youtube.com/embed/XXq5VvYAI1Q" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+  

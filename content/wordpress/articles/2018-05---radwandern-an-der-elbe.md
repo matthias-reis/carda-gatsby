@@ -4,12 +4,10 @@ seoTitle: Radwandern mit Badepausen an der Elbe - Nur Urlaub ist schöner
 slug: radwandern-an-der-elbe
 link: /2018/05/radwandern-an-der-elbe/
 fileName: 2018-05---radwandern-an-der-elbe.md
-description:
-  Wenn man einen freien Sonntag hat und das Wetter ist schön, sollte man sich
-  einen Ausflug an die Elbe gönnen. Wir haben das  heute getan.
-excerpt:
-  Wenn man einen freien Sonntag hat und das Wetter ist schön, sollte man sich
-  einen Ausflug an die Elbe gönnen. Wir haben das  heute getan.
+description: Wenn man einen freien Sonntag hat und das Wetter ist schön, sollte
+  man sich einen Ausflug an die Elbe gönnen. Wir haben das  heute getan.
+excerpt: Wenn man einen freien Sonntag hat und das Wetter ist schön, sollte man
+  sich einen Ausflug an die Elbe gönnen. Wir haben das  heute getan.
 focusKeyword: Elbe
 labels:
   - Ausflug
@@ -33,12 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21053"
+image: /img/demo.jpg
+errors: []
 subTitle: Nur Urlaub ist schöner
+  
 ---
 
-<strong>Wenn man einen freien Sonntag hat und das Wetter ist schön, sollte man
-sich einen Ausflug gönnen. Wir haben das  heute getan. Tasche gepackt, rein in
-die S-Bahn und ab nach Wedel.</strong>
+**Wenn man einen freien Sonntag hat und das Wetter ist schön, sollte man sich
+einen Ausflug gönnen. Wir haben das  heute getan. Tasche gepackt, rein in die
+S-Bahn und ab nach Wedel.**
 
 ![Elbe | small](http://cardamonchai.com/wp-content/uploads/2018/05/42341403842_58ebdcefb6_z-200x183.jpg)
 
@@ -58,3 +59,5 @@ stürzen.
 Schaut mal weiter unten: Wir haben ein lächelndes Schaf getroffen!
 
 [myflickr tag="annematze20180527"]
+
+  

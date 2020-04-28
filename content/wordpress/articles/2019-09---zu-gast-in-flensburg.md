@@ -4,12 +4,11 @@ seoTitle: Zu Gast in Flensburg - veganer Wochenendtripp in den hohen Norden
 slug: zu-gast-in-flensburg
 link: /2019/09/zu-gast-in-flensburg/
 fileName: 2019-09---zu-gast-in-flensburg.md
-description:
-  Flensburg ist auf jeden Fall eine Reise wert. Auch für Veganer*innen! Neben
-  tollen Sehenswürdigkeiten gibt es jede Menge gemütliche Cafés.
-excerpt:
-  Flensburg ist auf jeden Fall eine Reise wert. Auch für Veganer*innen! Neben
-  tollen Sehenswürdigkeiten gibt es jede Menge gemütliche Cafés.
+description: Flensburg ist auf jeden Fall eine Reise wert. Auch für
+  Veganer*innen! Neben tollen Sehenswürdigkeiten gibt es jede Menge gemütliche
+  Cafés.
+excerpt: Flensburg ist auf jeden Fall eine Reise wert. Auch für Veganer*innen!
+  Neben tollen Sehenswürdigkeiten gibt es jede Menge gemütliche Cafés.
 focusKeyword: Flensburg
 labels:
   - Ausflug
@@ -34,12 +33,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26109"
+image: /img/demo.jpg
+errors: []
 subTitle: Veganer Wochenendtripp in den hohen Norden
+  
 ---
 
-<strong>Vor ein paar Wochen waren wir mit dem Zug und unseren Fahrrädern in
-Flensburg. Die Anreise hat sich auf jeden Fall gelohnt. Ich habe ein paar meiner
-Eindrücke für Euch zusammengefasst.</strong>
+**Vor ein paar Wochen waren wir mit dem Zug und unseren Fahrrädern in Flensburg.
+Die Anreise hat sich auf jeden Fall gelohnt. Ich habe ein paar meiner Eindrücke
+für Euch zusammengefasst.**
 
 Was weiß man schon von Flensburg? Dass die Punktekartei für die Verkehrssünder
 dort beheimatet ist? Es dort einen Marinestützpunkt gibt? Dass es windig ist?
@@ -164,3 +166,5 @@ die Sonne. Oder, wie man in Flensburg sagt: Wat so kamen is, geiht ok so wedder
 weg!
 
 [glry name="anneflensburg072019"]
+
+  

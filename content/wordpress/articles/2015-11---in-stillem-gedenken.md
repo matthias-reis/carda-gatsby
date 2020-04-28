@@ -5,8 +5,7 @@ slug: in-stillem-gedenken
 link: /2015/11/in-stillem-gedenken/
 fileName: 2015-11---in-stillem-gedenken.md
 description: Eine Schweigeminute in stillem Gedenken.
-excerpt:
-  Worte wurden schon so viele gesagt, in den letzten Stunden. Daher eine
+excerpt: Worte wurden schon so viele gesagt, in den letzten Stunden. Daher eine
   Schweigeminute. In stillem Gedenken.
 focusKeyword: Gedenken
 labels:
@@ -24,10 +23,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13122"
+image: /img/demo.jpg
+errors: []
 subTitle: RIP
+  
 ---
 
-![In stillem Gedenken | large](http://cardamonchai.com/wp-content/uploads/2015/11/IMG_5021-800x533.jpg)
 
-<strong>Worte wurden schon so viele gesagt, in den letzten Stunden. Daher eine
-Schweigeminute. In stillem Gedenken.</strong>
+  

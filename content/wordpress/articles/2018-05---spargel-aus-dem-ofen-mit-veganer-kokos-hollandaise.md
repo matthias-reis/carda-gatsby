@@ -4,12 +4,12 @@ seoTitle: Spargel aus dem Ofen mit veganer Kokos-Hollandaise
 slug: spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise
 link: /2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/
 fileName: 2018-05---spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise.md
-description:
-  Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet. Beim Gedanken
-  an die vegane Hollandaise läuft mir schon wieder das Wasser im Mund zusammen.
-excerpt:
-  Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet. Beim Gedanken
-  an die vegane Hollandaise läuft mir schon wieder das Wasser im Mund zusammen.
+description: Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet.
+  Beim Gedanken an die vegane Hollandaise läuft mir schon wieder das Wasser im
+  Mund zusammen.
+excerpt: Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet. Beim
+  Gedanken an die vegane Hollandaise läuft mir schon wieder das Wasser im Mund
+  zusammen.
 focusKeyword: Hollandaise
 labels:
   - Erdbeeren
@@ -32,50 +32,49 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21072"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezept für zwei Personen
+  
 ---
 
-<strong>Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet. Matze
-hat es sich vor Kurzem ausgedacht und ich finde, es ist einfach himmlisch.
-Besonders die Sauce hat es mir angetan.</strong>
+**Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet. Matze hat es
+sich vor Kurzem ausgedacht und ich finde, es ist einfach himmlisch. Besonders
+die Sauce hat es mir angetan.**
 
 Bevor es ans Eingemachte geht, habe ich noch einen Hinweis für Euch: Überlegt
 Euch, die doppelte Menge Spargel zu garen. Ihr könnt ihn am nächsten Tag für
 einen leckeren Spargelsalat gut gebrauchen. Unser Rezept dafür
 [findet Ihr auch hier im Blog](/2018/06/spargelsalat-mit-erdbeeren/).
 
+![Hollandaise](http://cardamonchai.com/wp-content/uploads/2018/05/42239598271_5631e21f67_z-400x300.jpg)
+
 ## Zutaten Spargel
 
-<ul>
-    <li>1 kg Spargel (2, wenn Ihr am nächsten Tag Spargelsalat essen wollt)</li>
-    <li>Margarine</li>
-    <li>1 Zitrone</li>
-    <li>Salz</li>
-    <li>Zucker</li>
-</ul>
+- 1 kg Spargel (2, wenn Ihr am nächsten Tag Spargelsalat essen wollt)
+- Margarine
+- 1 Zitrone
+- Salz
+- Zucker
 
 ## Zutaten Sauce Hollandaise
 
-<ul>
-    <li>70 g Margarine</li>
-    <li>20 g Mehl</li>
-    <li>200 ml Kokos-Cuisine</li>
-    <li>20 ml Weißwein</li>
-    <li>200 ml kalte Gemüsebrühe</li>
-    <li>1 TL Senf</li>
-    <li>Salz</li>
-    <li>Pfeffer</li>
-    <li>1 TL Kurkuma-Pulver</li>
-</ul>
+- 70 g Margarine
+- 20 g Mehl
+- 200 ml Kokos-Cuisine
+- 20 ml Weißwein
+- 200 ml kalte Gemüsebrühe
+- 1 TL Senf
+- Salz
+- Pfeffer
+- 1 TL Kurkuma-Pulver
 
 ## Beilage/Dekoration
 
-<ul>
-    <li>200 Gramm Erdbeeren</li>
-    <li>Nüsse oder Samen</li>
-    <li>Kokosflocken</li>
-    <li>Chiliflocken</li>
-</ul>
+- 200 Gramm Erdbeeren
+- Nüsse oder Samen
+- Kokosflocken
+- Chiliflocken
 
 ## Zubereitung Sauce Hollandaise
 
@@ -105,3 +104,5 @@ guter
 [veganer Weißwein](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/).
 
 Matze &amp; Anne wünschen guten Appetit! &lt;3
+
+  

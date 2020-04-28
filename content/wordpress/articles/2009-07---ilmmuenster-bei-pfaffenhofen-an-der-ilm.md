@@ -1,16 +1,13 @@
 ---
 title: Ilmmünster bei Pfaffenhofen an der Ilm
-seoTitle:
-  Ilmmünster bei Pfaffenhofen an der Ilm - Hier ist die Welt noch in Ordnung
+seoTitle: Ilmmünster bei Pfaffenhofen an der Ilm - Hier ist die Welt noch in Ordnung
 slug: ilmmuenster-bei-pfaffenhofen-an-der-ilm
 link: /2009/07/ilmmuenster-bei-pfaffenhofen-an-der-ilm/
 fileName: 2009-07---ilmmuenster-bei-pfaffenhofen-an-der-ilm.md
-description:
-  Die Gemeinde Ilmmünster liegt im Landkreis Pfaffenhofen an der Ilm und gehörte
-  zum im 8. Jahrhundert gegründeten Stift Ilmmünster...
-excerpt:
-  Die Gemeinde Ilmmünster liegt im Landkreis Pfaffenhofen an der Ilm und gehörte
-  zum im 8. Jahrhundert gegründeten *Stift Ilmmünster.
+description: Die Gemeinde Ilmmünster liegt im Landkreis Pfaffenhofen an der Ilm
+  und gehörte zum im 8. Jahrhundert gegründeten Stift Ilmmünster...
+excerpt: Die Gemeinde Ilmmünster liegt im Landkreis Pfaffenhofen an der Ilm und
+  gehörte zum im 8. Jahrhundert gegründeten *Stift Ilmmünster.
 focusKeyword: Ilmmünster
 labels:
   - Ausflug
@@ -24,12 +21,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11399"
+image: /img/demo.jpg
+errors: []
 subTitle: Hier ist die Welt noch in Ordnung
+  
 ---
-
-![Ilmmünster](http://cardamonchai.com/wp-content/uploads/2009/07/11531187613_774b704f95_z.jpg)
-
-<p id="articleContent"><strong>Die Gemeinde Ilmmünster liegt im Landkreis Pfaffenhofen an der Ilm und gehörte zum im 8. Jahrhundert gegründeten *Stift Ilmmünster, einem ehemaliges Kollegiatstift in der Diözese Freising. </strong></p><strong>Ilmmünster war Teil des Kurfürstentums Bayern. Bis zur Auflösung 1803 bildete es eine geschlossene Hofmark, deren Sitz der Stift war. Durch die Verwaltungsreformen in Bayern mit dem Gemeindeedikt 1818 entstand die heutige Gemeinde.
 
 ## Die Geschichte von Ilmmünster
 
@@ -74,15 +70,16 @@ Ilmmünster verzichtet bewußt auf die Ausweisung eines Gewerbegebietes, um die
 Wertsetzung in vorhandene Strukturen zu legen. So wird das Verwaisen des
 Ortskerns, das man heute in einigen Gemeinden beobachten kann, verhindert.
 
-<strong>\*Stift Ilmmünster:</strong> Das Benediktiner-Kloster Ilmmünster wurde
-762 von Adalbert und Otker Huosi, einer einheimischen Adelsfamilie gegründet. Es
-wurde St. Arsatius und St. Quirinius geweiht. Seit 1060 war es Kollegiatsstift.
-1493 wurde das Kloster an das Münchner Frauenstift übergeben. Im 18. Jahrhundert
+**\*Stift Ilmmünster:** Das Benediktiner-Kloster Ilmmünster wurde 762 von
+Adalbert und Otker Huosi, einer einheimischen Adelsfamilie gegründet. Es wurde
+St. Arsatius und St. Quirinius geweiht. Seit 1060 war es Kollegiatsstift. 1493
+wurde das Kloster an das Münchner Frauenstift übergeben. Im 18. Jahrhundert
 diente es dann als Residenz des Münchner Kapital-Offizials. 1803 wurden dann die
 Güter im Zuge der Säkularisierung (Verweltlichung kirchlicher Güter im
 Kurfürstentum Bayern von 1802 bis 1803) verkauft.
 
-<strong>Quellen:</strong>
-[http://ilmmuenster.pfaffenhofen.de/](http://wikipedia.de/)
-<span style="text-decoration: underline;">[myflickr tag="anneilmmuenster2009"]
-</span>
+**Quellen:** [http://wikipedia.de/](http://wikipedia.de/)
+[http://ilmmuenster.pfaffenhofen.de/](http://ilmmuenster.pfaffenhofen.de/)
+[myflickr tag="anneilmmuenster2009"]
+
+  

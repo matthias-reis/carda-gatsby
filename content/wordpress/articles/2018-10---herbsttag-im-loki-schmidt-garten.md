@@ -4,11 +4,9 @@ seoTitle: Herbsttag im Loki Schmidt Garten - Astern, Bienen und Sonnenschein
 slug: herbsttag-im-loki-schmidt-garten
 link: /2018/10/herbsttag-im-loki-schmidt-garten/
 fileName: 2018-10---herbsttag-im-loki-schmidt-garten.md
-description:
-  Bei dem wunderbaren Herbstwetter war heute endlich mal wieder Zeit für einen
-  ausgedehnten Spaziergang im Hamburger Loki Schmidt Garten.
-excerpt:
-  Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da
+description: Bei dem wunderbaren Herbstwetter war heute endlich mal wieder Zeit
+  für einen ausgedehnten Spaziergang im Hamburger Loki Schmidt Garten.
+excerpt: Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da
   mussten wir uns einfach Zeit nehmen für einen kleinen Spaziergang. Ein
   Herbsttag im Loki Schmidt Garten.
 focusKeyword: Herbsttag
@@ -30,16 +28,24 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22345"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (31:15)"
 subTitle: Astern, Bienen und Sonnenschein
+  
 ---
 
-<em>Bildergalerie</em>
+## unknown: Expected corresponding JSX closing tag for <p> (31:15)
 
-<strong>Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da
-mussten wir uns einfach Zeit nehmen für einen kleinen Spaziergang. </strong>
+<!--
+_Bildergalerie_
 
-Also rein in die S-Bahn und die drei Stationen bis zum <em>Loki Schmidt
-Garten</em> mit dem Einstellen der Kamera und Vorfreude verbringen.
+**Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da
+mussten wir uns einfach Zeit nehmen für einen kleinen Spaziergang.**
+
+Also rein in die S-Bahn und die drei Stationen bis zum _Loki Schmidt Garten_ mit
+dem Einstellen der Kamera und Vorfreude verbringen.
 
 Dort angekommen, waren wir ziemlich überrascht. Soviel, wie wir zuerst vermutet
 hatten, war gar nicht los. Wir hatten also schön Zeit, zu zweit ein Bisschen zu
@@ -78,10 +84,12 @@ Generationen.</blockquote>
 
 ## Wegweiser Loki Schmidt Garten
 
-<ol>
-    <li> [Indian Summer im Loki Schmidt Garten](/2015/09/indian-summer-im-loki-schmidt-garten/) </li>
-    <li> [Spätsommer im Loki Schmidt Garten](/2016/08/spaetsommer-loki-schmidt-garten/) </li>
-    <li> [Frühlingsboten im Loki Schmidt Garten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/) </li>
-    <li> [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/) </li>
-    <li>Herbsttag im Loki Schmidt Garten</li>
-</ol>
+1.  [Indian Summer im Loki Schmidt Garten](/2015/09/indian-summer-im-loki-schmidt-garten/)
+1.  [Spätsommer im Loki Schmidt Garten](/2016/08/spaetsommer-loki-schmidt-garten/)
+1.  [Frühlingsboten im Loki Schmidt Garten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/)
+1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
+1.  Herbsttag im Loki Schmidt Garten
+
+-->
+
+  

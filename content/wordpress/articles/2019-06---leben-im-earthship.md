@@ -4,12 +4,10 @@ seoTitle: Leben im Earthship - ein Haus aus Recyclingmaterial
 slug: earthship
 link: /2019/06/earthship/
 fileName: 2019-06---leben-im-earthship.md
-description:
-  Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner völlig
-  autark als Selbstversorger leben - back to nature also.
-excerpt:
-  Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner völlig
-  autark als Selbstversorger leben - back to nature also.
+description: Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner
+  völlig autark als Selbstversorger leben - back to nature also.
+excerpt: Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner
+  völlig autark als Selbstversorger leben - back to nature also.
 focusKeyword: earthship
 labels:
   - Berlin Tempelhof
@@ -30,19 +28,22 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24613"
+image: /img/demo.jpg
+errors: []
 subTitle: Ein Haus aus Recyclingmaterial
+  
 ---
 
-<strong>"Es ist Zeit für echte Experiment", heißt es auf der Earthship Homepage.
-Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner völlig autark
-als Selbstversorger leben - back to nature also. </strong>
+**"Es ist Zeit für echte Experiment", heißt es auf der Earthship Homepage. Ein
+Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner völlig autark als
+Selbstversorger leben - back to nature also.**
 
 <hr />
 
-<strong>Info:</strong> Ich habe diesen Artikel ursprünglich für Vegan News
-geschrieben. Dort ist er bereits am 21. September 2015 erschienen. Da er an
-Brisanz seitdem nicht verloren hat und ich das vorgestellte Projekt nach wie vor
-gut finde, erscheint er heute frisch überarbeitet in meinem Blog.
+**Info:** Ich habe diesen Artikel ursprünglich für Vegan News geschrieben. Dort
+ist er bereits am 21. September 2015 erschienen. Da er an Brisanz seitdem nicht
+verloren hat und ich das vorgestellte Projekt nach wie vor gut finde, erscheint
+er heute frisch überarbeitet in meinem Blog.
 
 <hr />
 
@@ -63,10 +64,10 @@ Tempelhof.
 Meist bewohnen die Earthships Wohngemeinschaften aller Generationen. Jedes
 Mitglied hat eine Aufgabe im gemeinsamen Haus.
 
-In einem <strong>Earthship</strong> wird durch die Spezialbauweise weder ein
-Wasser- noch ein Strom-, Gas- oder Kanalisationsanschluss benötigt. Die
-Stromversorgung findet mithilfe von Sonne und Wind statt, benutztes Wasser in
-der hauseigenen Kläranlage gereinigt.
+In einem **Earthship** wird durch die Spezialbauweise weder ein Wasser- noch ein
+Strom-, Gas- oder Kanalisationsanschluss benötigt. Die Stromversorgung findet
+mithilfe von Sonne und Wind statt, benutztes Wasser in der hauseigenen
+Kläranlage gereinigt.
 
 Alles wird möglichst lange genutzt und die Umwelt somit geschont. Die
 Hausbewohner müssen weder auf einen Fernseher, noch auf Internet, warmes Wasser
@@ -82,7 +83,7 @@ Earthships sorgt dafür, dass das möglich ist. Die aus mit Erde gefüllten Reif
 gebauten Wände regeln die Innentemperatur perfekt. Es wird zu keiner Jahreszeit
 zu warm oder zu kalt im Wohnbereich des Hauses.
 
-<blockquote>"Anders bauen für ein anderes Leben",</blockquote>
+> "Anders bauen für ein anderes Leben",
 
 Für den Bau eines Earthsships fallen ca. 300.000 Euro an. Wenn man bedenkt, dass
 das Haus völlig ohne Nebenkosten auskommt, ist das keine besonders hohe Summe.
@@ -100,3 +101,5 @@ Die Bewohner freuen sich auch über Spenden. Auf dem Tempelhofer
 Earthship-Gelände finden regelmäßig Führungen für Neugierige statt.
 
 Fotos: Earthship Berlin Tempelhof
+
+  

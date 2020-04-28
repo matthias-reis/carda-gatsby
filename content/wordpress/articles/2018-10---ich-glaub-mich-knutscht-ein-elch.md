@@ -4,12 +4,10 @@ seoTitle: Ich glaub', mich knutscht ein Elch! Meine erste Elch-Begegnung
 slug: ich-glaub-mich-knutscht-ein-elch
 link: /2018/10/ich-glaub-mich-knutscht-ein-elch/
 fileName: 2018-10---ich-glaub-mich-knutscht-ein-elch.md
-description:
-  Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen. Diesen
-  Sommer habe ich das erste Mal Elche gesehen und fotografiert.
-excerpt:
-  Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen. Diesen
-  Sommer habe ich das erste Mal Elche gesehen und fotografiert.
+description: Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen.
+  Diesen Sommer habe ich das erste Mal Elche gesehen und fotografiert.
+excerpt: Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen.
+  Diesen Sommer habe ich das erste Mal Elche gesehen und fotografiert.
 focusKeyword: Elch
 labels:
   - der Elch
@@ -29,12 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22411"
+image: /img/demo.jpg
+errors: []
 subTitle: Meine erste Elch-Begegnung
+  
 ---
 
-<strong>Zwar häufen sich die Zusammenstöße mit Elchen laut Statistik in
+**Zwar häufen sich die Zusammenstöße mit Elchen laut Statistik in
 [Skandinavien](/category/unterwegs/skandinavien/), einem von ihnen wirklich
-vis-a-vis zu begegnen ist dennoch gar nicht so einfach.</strong>
+vis-a-vis zu begegnen ist dennoch gar nicht so einfach.**
 
 [Matze und ich](/2018/10/kurzgeschichte-die-vierte-welle/)  haben jahrelang die
 finnischen und schwedischen Wälder nach den gutmütig aussehenden Geweihträgern
@@ -56,7 +57,7 @@ nur aus diesem Grund ist die Ähnlichkeit mit einigen auf dem Zeichenbrett des
 Künstlers Walter Moers entstandenen Tierchen nicht von der Hand zu weisen.
 Findet Ihr nicht auch?
 
-<blockquote>"Die größten Kritiker der Elche waren früher selber welche"</blockquote>
+> "Die größten Kritiker der Elche waren früher selber welche"
 
 Was für ein wahrer Spruch, oder? Seit ich ihn im zarten Alter von circa drei
 Jahren das erste Mal bewusst gehört habe, glaube ich fest an dieses Credo F. W.
@@ -65,10 +66,12 @@ Bernsteins. Auch er ist Karikaturist, Grafiker und Lyriker.
 Besteht da ein Zusammenhang? Wohl kaum. Elche machen dennoch glücklich. Die
 sanften Riesen sind die wunderbarsten Tiere, denen ich bisher in meinem Leben
 begegnet bin und ich hege den festen Plan, ihnen weiter durch den Forst zu
-folgen. Sobald es uns das nächste Mal in Richtung [Schweden](/tag/finnland/),
-Norwegen oder Polen zieht, werde ich mich wieder mit meiner Kamera auf die Lauer
-legen. Weich gebettet auf Moosen und Heidelbeersträuchern lässt es sich
-entspannt warten.
+folgen. Sobald es uns das nächste Mal in Richtung [Finnland](/tag/finnland/),
+[Schweden](/?s=schweden), Norwegen oder Polen zieht, werde ich mich wieder mit
+meiner Kamera auf die Lauer legen. Weich gebettet auf Moosen und
+Heidelbeersträuchern lässt es sich entspannt warten.
 
 [gallery type="rectangular" size="large" link="none"
 ids="22411,22410,22409,22408,22407,22406,22405,22404,22403,22400,22401,22402,22399,22398,22397,22394,22395,22396"]
+
+  

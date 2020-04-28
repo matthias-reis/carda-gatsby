@@ -4,12 +4,10 @@ seoTitle: '"Kracht kocht" - vegane und vegetarische Küche statt "Traumschiff"'
 slug: kracht-kocht-vegetarisch-vegan
 link: /2015/04/kracht-kocht-vegetarisch-vegan/
 fileName: 2015-04---kracht-kocht-vegetarisch-vegan.md
-description:
-  Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und "Traumschiff".
-  Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
-excerpt:
-  Affiliate Link - Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst"
-  und "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch
+description: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und
+  "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
+excerpt: Affiliate Link - Marion Kracht wurde bekannt mit "Aktenzeichen XY
+  ungelöst" und "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch
   veröffentlicht.
 focusKeyword: Kracht kocht
 labels:
@@ -27,12 +25,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24486"
+image: /img/demo.jpg
+errors: []
 subTitle: Internationale Küche statt "Traumschiff"
+  
 ---
-
-<em>Affiliate Link\*</em><strong>Marion Kracht ist eine deutsche Schauspielerin.
-Bekannt wurde sie u. a. mit "Wer zuletzt lacht, lacht am besten", "Aktenzeichen
-XY ungelöst" und "Traumschiff".</strong>## Friends? Not food, OK?
 
 Jetzt hat die Münchnerin [ein Kochbuch veröffentlicht](https://amzn.to/2MLIK3k).
 "Kracht kocht vegetarisch vegan". Nimmt man das Buch zur Hand, sticht einem
@@ -43,11 +40,10 @@ Ihr T-Shirt ziert ein Schaf, versehen mit den Worten "Friends? Not food, OK?"
 
 ![kracht-kocht | full](http://cardamonchai.com/wp-content/uploads/2019/06/kracht-kocht1-219x250.jpg)
 
-<a href="https://amzn.to/2MLIK3k" target="_blank" rel="noopener nofollow">Mir
-stellte sich gleich als Erstes die Frage: Was bedeutet vegetarisch vegan? Kocht
-sie nun vegetarisch? Oder vegan? Oder beides? Das Kochbuch noch nicht wirklich
-aufgeblättert, gleich die nächste: Was macht Johann Lafer in einem veganen
-Kochbuch?
+[](https://amzn.to/2MLIK3k) Mir stellte sich gleich als Erstes die Frage: Was
+bedeutet vegetarisch vegan? Kocht sie nun vegetarisch? Oder vegan? Oder beides?
+Das Kochbuch noch nicht wirklich aufgeblättert, gleich die nächste: Was macht
+Johann Lafer in einem veganen Kochbuch?
 
 ## Johann Lafer in einem veganen Kochbuch
 
@@ -91,7 +87,8 @@ Bildern zu sehen.
 
 Nett ist die persönliche Note, die sie mit einbringt.
 
-<blockquote>"Bei meiner Ayurveda-Kur in Südindien vor einem Jahr kochte ein wahrer Meister namens Raj..."</blockquote>
+> "Bei meiner Ayurveda-Kur in Südindien vor einem Jahr kochte ein wahrer Meister
+> namens Raj..."
 
 Allerdings hätte ich mir bei dieser Art der Aufbereitung etwas mehr Text
 gewünscht, bis auf die Kurzzitate besteht das Buch aus einer Aneinanderreihung
@@ -116,7 +113,10 @@ kann sie auf ihrer Homepage besuchen.
 Wer gerne mehr über Marion Kracht und ihr Buch erfahren möchte, kann sie auf
 ihrer [Homepage](http://www.marionkracht.de/) besuchen.
 
-<strong>Bild Buch:</strong>
-[silviarita](https://www.cadmos.de/cadmos-der-verlag.html), pixabay
+**Bild Buch:** [Cadmos Verlag](https://www.cadmos.de/cadmos-der-verlag.html)
+**Bild im Header:**
+[silviarita](https://pixabay.com/de/users/silviarita-3142410/), pixabay
 
-<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3840470331&amp;asins=3840470331&amp;linkId=dc331a21b0374b444234a982f4dde30e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><em>*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=3840470331&amp;asins=3840470331&amp;linkId=dc331a21b0374b444234a982f4dde30e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> _*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

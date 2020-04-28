@@ -4,13 +4,11 @@ seoTitle: Gerstengras von Jomu im Test - Detox für das Wohlbefunden
 slug: gerstengras-jomu
 link: /2019/05/gerstengras-jomu/
 fileName: 2019-05---jomu-ist-test.md
-description:
-  Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren
-  Smoothie zubereitet. Ich verrate Euch heute einiges über das Produkt.
-excerpt:
-  Werbung - Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen
-  leckeren Smoothie zubereitet. Heute verrate ich Euch das Rezept und einiges
-  über den Hersteller.
+description: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen
+  leckeren Smoothie zubereitet. Ich verrate Euch heute einiges über das Produkt.
+excerpt: Werbung - Ich habe die Gerstengras-Produkte von Jomu getestet und damit
+  einen leckeren Smoothie zubereitet. Heute verrate ich Euch das Rezept und
+  einiges über den Hersteller.
 focusKeyword: Gerstengras
 labels:
   - basische Ernährung
@@ -35,14 +33,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24197"
+image: /img/demo.jpg
+errors: []
 subTitle: Gerstengras für das Wohlbefinden
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen
-leckeren Smoothie zubereitet. Heute verrate ich Euch das Rezept und erzähle ein
-paar Sachen, die ich über den Hersteller erfahren habe.</strong>
+**Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen leckeren
+Smoothie zubereitet. Heute verrate ich Euch das Rezept und erzähle ein paar
+Sachen, die ich über den Hersteller erfahren habe.**
 
 Jomu Gründer Johannes Roll wohnt in Steinhagen. Anfang 20 attestierte ihm sein
 Arzt 30 Kilo zu viel und es ging ihm gar nicht gut. Das Übergewicht und der
@@ -55,7 +56,7 @@ Eine Reihe glücklicher Umstände führten zum Glück dazu, dass es ihm heute mi
 Mitte 30 wieder besser geht. Sein Großvater war es, der ihm Kraft gab und ihm
 mit seiner Motivation half, sich neu zu fokussieren.
 
-<blockquote>"Was man nicht mit Freude macht, macht auch anderen keine Freude",</blockquote>
+> "Was man nicht mit Freude macht, macht auch anderen keine Freude",
 
 sagte dieser eines Tages zu seinem Enkel und "Gewonnen oder verloren hast Du
 zwischen Deinen Ohren." Heute ist Johannes mehr als klar, was sein Opa damit
@@ -84,7 +85,13 @@ Mut fassen. Auf Dauer ließen dann auch noch die Migräneschübe nach. Dadurch d
 er regelmäßig Gerstengras konsumierte, aß er weniger und es gelang ihm,
 innerhalb von zwei Jahren 25 Kilo abzunehmen.
 
-<blockquote>"Das Gerstengras hat mir mein Leben gerettet. Es ist stark basisch. Ein Teelöffel davon entspricht der Anzahl an Vitaminen von bis zu 17 frischen Äpfeln und je nachdem, wie stark der Körper übersäuert ist, kann das am Anfang zu leichten Kopfschmerzen führen. Ich hatte leider fast zwei Wochen Kopfschmerzen, aber ich war wirklich extrem übersäuert, da ich mich zuvor mehr als drei Jahre fast ausschließlich von Fertiggerichten und Currywurst ernährt hatte",</blockquote>
+> "Das Gerstengras hat mir mein Leben gerettet. Es ist stark basisch. Ein
+> Teelöffel davon entspricht der Anzahl an Vitaminen von bis zu 17 frischen
+> Äpfeln und je nachdem, wie stark der Körper übersäuert ist, kann das am Anfang
+> zu leichten Kopfschmerzen führen. Ich hatte leider fast zwei Wochen
+> Kopfschmerzen, aber ich war wirklich extrem übersäuert, da ich mich zuvor mehr
+> als drei Jahre fast ausschließlich von Fertiggerichten und Currywurst ernährt
+> hatte",
 
 berichtet Johannes und rät jedem dazu, es mal auszuprobieren. Wer nach vier
 Wochen keinen Effekt spürt, bekommt sein Geld zurück. "Ich kann nichts
@@ -113,7 +120,7 @@ zusammen mit einer
 [Achtsamkeitsübung](/2019/05/10-ideen-fuer-mehr-glueckliche-momente/)
 zugesendet, was ich eine schöne Idee finde.
 
-<blockquote>"Was war Dein heutiger Diamant? Was hast Du heute Schönes erlebt?"</blockquote>
+> "Was war Dein heutiger Diamant? Was hast Du heute Schönes erlebt?"
 
 Und nun zum Rezept, dass ich mir auf der Basis von Gerstengras ausgedacht habe.
 Das Ergebnis ist wirklich sehr schmackhaft und die Farbe sticht auch ins Auge.
@@ -121,12 +128,10 @@ Ihr könnt sie auf den Bildern bewundern.
 
 ## Gerstengras Smoothie
 
-<ul>
-    <li>1 Tasse Wasser</li>
-    <li>2 Kiwis</li>
-    <li>1 gefrorene Banane</li>
-    <li>1 Teelöffel Gerstengras</li>
-</ul>
+- 1 Tasse Wasser
+- 2 Kiwis
+- 1 gefrorene Banane
+- 1 Teelöffel Gerstengras
 
 ## Zubereitung
 
@@ -162,7 +167,7 @@ Liste.
 (entspricht einen gehäuften Teelöffel)</h4>
 </td>
 <td valign="top" width="279">
-### )
+### Recommended Daily Allowance (Von der DGE emfohlene Tagesmenge, Quelle:  [Deutsche Gesellschaft für Ernährung](http://www.dge.de) )
 </td>
 </tr>
 <tr>
@@ -233,7 +238,7 @@ Liste.
 </tr>
 <tr>
 <td valign="top" width="290">
-### Vitamine</b>
+###  __Vitamine__ 
 </td>
 <td valign="top"></td>
 <td valign="top"></td>
@@ -345,7 +350,7 @@ Liste.
 </tr>
 <tr>
 <td valign="top" width="290">
-### Mineralien</b>
+###  __Mineralien__ 
 </td>
 <td valign="top"></td>
 <td valign="top"></td>
@@ -438,7 +443,7 @@ Liste.
 </tr>
 <tr>
 <td valign="top" width="290">
-### Aminosäuren</b>
+###  __Aminosäuren__ 
 </td>
 <td valign="top"></td>
 <td valign="top"></td>
@@ -576,8 +581,10 @@ Liste.
 
 [Online findet Ihr Jomu hier](https://www.gerstengras-natur.de/).
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum Ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

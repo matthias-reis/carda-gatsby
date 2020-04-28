@@ -4,12 +4,10 @@ seoTitle: Blind Date mit einem Song - Presidents Of the United States -"Peaches"
 slug: presidents-of-the-united-states-peaches
 link: /2018/03/presidents-of-the-united-states-peaches/
 fileName: 2018-03---blind-date-mit-einem-song.md
-description:
-  'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel Good Hit Of
-  The Year: "Peaches" von den Presidents Of the United States.'
-excerpt:
-  'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel Good Hit Of
-  The Year: "Peaches" von den Presidents Of the United States.'
+description: 'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel
+  Good Hit Of The Year: "Peaches" von den Presidents Of the United States.'
+excerpt: 'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel Good
+  Hit Of The Year: "Peaches" von den Presidents Of the United States.'
 focusKeyword: Presidents Of the United States
 labels:
   - 90er
@@ -37,9 +35,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19617"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (21:61)"
 subTitle: '"Peaches" von Presidents Of The United States'
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (21:61)
+
+<!--
 Zum Jahresanfang gab es eine kleine Überraschung für mich: Björn vom Blog
 Gartenbaukunst kündigte das nächste Blind Date mit einem Song an. Das Tolle
 daran: Der Song! Ich darf über "Peaches" von den Presidents Of The United States
@@ -49,9 +55,9 @@ schreiben! Ich meine: Wie genial ist das denn?
 ## Für alle, die die Bloggeraktion „Blind Date mit einem Song“ noch nicht kennen, hier noch eine kurze Erklärung:
 Jede/r Blogger/in, der/die teilnimmt, hat ein Blind Date. Nicht mit einem Menschen, sondern mit einem Song. Alle Teilnehmer hören sich das selbe Lied an und schreiben ihre Assoziationen dazu auf. Dabei sind sie ganz frei und können ihrem Schreibstil und ihrer Fantasie freien Lauf lassen. Alle Blogger veröffentlichen Ihre Artikel am selben Tag zu selben Uhrzeit und verlinken sich untereinander.
 
-Ausgedacht haben sich das „Blind Date mit einem Song“ Caro
-von <em>Hauptstadtgarten* </em>und Björn von <em>Gartenbaukunst</em>*. Heute
-findet es zum vierten mal statt. Ich persönlich bin zum dritten mal dabei.
+Ausgedacht haben sich das „Blind Date mit einem Song“ Caro von 
+_Hauptstadtgarten\*_ und Björn von  _Gartenbaukunst_ \*. Heute findet es zum
+vierten mal statt. Ich persönlich bin zum dritten mal dabei.
 
 Für mich liegt der Reiz der Aktion in der Neugierde darauf, was die anderen
 schreiben. Die letzen Male fiel mir auf, dass wirklich jede/r der 11
@@ -82,7 +88,8 @@ Pfirsiche drapiert und groovt zu ihrer Huldigung. Und dann geht es los.
 Mehrstimmiger Gesang, Hüpferei, Eskalation. Fast. Dann ein kurzer Breaktdown.
 Man rappelt sich auf und
 
-<blockquote>"Millionen von Pfirsichen! Pfirsiche für mich! Millionen von Pfirsichen, Pfirsiche für mich!"</blockquote>
+> "Millionen von Pfirsichen! Pfirsiche für mich! Millionen von Pfirsichen,
+> Pfirsiche für mich!"
 
 ## Ninjas betreten die Szenerie
 
@@ -125,33 +132,35 @@ Ja, so war das damals. Ich werde alt.
 
 ## Teilnehmer am Blind Date mit "Peaches" von den Presidents Of The United States
 
-<ul>
-    <li> [Gartenbaukunst](https://gartenbaukunst.wordpress.com/) </li>
-    <li> [Hauptstadtgarten](https://www.hauptstadtgarten.de/) </li>
-    <li> [Beetkultur](https://www.beetkultur.de/) </li>
-    <li> [Der kleine Horrorgarten](http://der-kleine-horror-garten.de/) </li>
-    <li> [Karo-Tina Aldente](https://karotinasblog.wordpress.com/) </li>
-    <li> [Milli Blohm](http://millibloom.com/) </li>
-    <li> [Rienmakäfer](https://rienmakaefer.com/blog/) </li>
-    <li> [Garteneuphorie](https://garteneuphorie.wordpress.com/) </li>
-    <li> [Grünliebe](http://xn--grneliebe-r9a.de/) </li>
-    <li> [Garteninspektor](http://www.garteninspektor.com/) </li>
-    <li> [Faun &amp; Farn](http://faunundfarn.de/) </li>
-    <li> [Mrs. Greenhouse](https://mrsgreenhouse.de/) </li>
-    <li> [Buddenbohm &amp; Söhne](http://www.buddenbohm-und-soehne.de/) </li>
-    <li> [Syl Gervais](https://www.syl-gervais.com/) </li>
-    <li> [Anne bloggt cardamonchai - Rock 'n' Roll vegan]() </li>
-</ul>
+- [Gartenbaukunst](https://gartenbaukunst.wordpress.com/)
+- [Hauptstadtgarten](https://www.hauptstadtgarten.de/)
+- [Beetkultur](https://www.beetkultur.de/)
+- [Der kleine Horrorgarten](http://der-kleine-horror-garten.de/)
+- [Karo-Tina Aldente](https://karotinasblog.wordpress.com/)
+- [Milli Blohm](http://millibloom.com/)
+- [Rienmakäfer](https://rienmakaefer.com/blog/)
+- [Garteneuphorie](https://garteneuphorie.wordpress.com/)
+- [Grünliebe](http://xn--grneliebe-r9a.de/)
+- [Garteninspektor](http://www.garteninspektor.com/)
+- [Faun &amp; Farn](http://faunundfarn.de/)
+- [Mrs. Greenhouse](https://mrsgreenhouse.de/)
+- [Buddenbohm &amp; Söhne](http://www.buddenbohm-und-soehne.de/)
+- [Syl Gervais](https://www.syl-gervais.com/)
+- [Anne bloggt cardamonchai - Rock 'n' Roll vegan]()
 
 ## Wegweiser Blind Date mit einem Song
 
-<ol>
-    <li> [Eels - "I Like Birds"](/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/) </li>
-    <li> [Nancy Sinatra - "Summer Wine"](/2017/07/blind-date-summerwine/) </li>
-    <li>The Presidents Of the United States - "Peaches"</li>
-</ol>
+1.  [Eels - "I Like Birds"](/2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/)
+1.  [Nancy Sinatra - "Summer Wine"](/2017/07/blind-date-summerwine/)
+1.  The Presidents Of the United States - "Peaches"
 
-<em>To be continued...</em>
+_To be continued..._
 
-<b>Bilder: </b>Titel: Presidents Of The United States, Artwort; erstes Bild im
-Text: [Free Photos](https://pixabay.com/de/users/Couleur-1195798/), Pixabay
+**Bilder:** Titel: Presidents Of The United States, Artwort; erstes Bild im
+Text: [Coulour](https://pixabay.com/de/users/Couleur-1195798/), Pixabay; zweites
+Bild im Text; [Free Photos](https://pixabay.com/de/users/Free-Photos-242387/),
+Pixabay
+
+-->
+
+  

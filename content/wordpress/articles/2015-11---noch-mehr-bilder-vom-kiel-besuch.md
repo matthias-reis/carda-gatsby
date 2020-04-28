@@ -4,12 +4,11 @@ seoTitle: Noch mehr Bilder vom Kiel-Besuch - Instagram-Galerie
 slug: noch-mehr-bilder-vom-kiel-besuch
 link: /2015/11/noch-mehr-bilder-vom-kiel-besuch/
 fileName: 2015-11---noch-mehr-bilder-vom-kiel-besuch.md
-description:
-  Auf den Spuren von Kommissar Klaus Borowski - unser Kiel-Besuch letzte Woche.
-  Kiel dieses mal in Polaroids, ich bin gespannt, wie sie Euch gefallen.
-excerpt:
-  Auf den Spuren von Kommissar Klaus Borowski - unser Kiel-Besuch letzte Woche.
-  Kiel dieses mal in Polaroids, ich bin gespannt, wie sie Euch gefallen.
+description: Auf den Spuren von Kommissar Klaus Borowski - unser Kiel-Besuch
+  letzte Woche. Kiel dieses mal in Polaroids, ich bin gespannt, wie sie Euch
+  gefallen.
+excerpt: Auf den Spuren von Kommissar Klaus Borowski - unser Kiel-Besuch letzte
+  Woche. Kiel dieses mal in Polaroids, ich bin gespannt, wie sie Euch gefallen.
 focusKeyword: Kiel-Besuch
 labels:
   - Ausflug
@@ -24,14 +23,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13156"
+image: /img/demo.jpg
+errors: []
 subTitle: Instagram-Galerie
+  
 ---
-
-<strong>Vor Kurzem gab es an dieser Stelle schon mal eine
-[Galerie](/2015/11/ein-besuch-in-kiel/) von unserem Kiel-Besuch letzte Woche.
-Heute gibt es noch ein Bisschen mehr zu sehen. Die Bilder habe ich dieses Mal
-nicht mit meiner Kamera aufgenommen, sie stammen aus meinem Instagram-Account,
-sind also Mobiltelefon aufgenommen.</strong>
 
 Kiel demnach heute mal in Polaroids, ich bin gespannt, wie sie ankommen. Was
 haltet Ihr denn allgemein von der Idee, meine Instagram-Bilder hier
@@ -41,7 +37,7 @@ habe ich ein Bisschen geknipst.
 
 [myflickr tag="annekielinstagram2015"]
 
-<blockquote>Es gibt kein Wissen vor der Erfahrung. - Kommissar Klaus Borowski, Tatort Kiel</blockquote>
+> Es gibt kein Wissen vor der Erfahrung. - Kommissar Klaus Borowski, Tatort Kiel
 
 Das Kieler Schifffahrtsmuseum befindet sich direkt an der Förde in der
 denkmalgeschützten Fischhalle Kiel. Gezeigt werden die Seefahrt und der
@@ -52,4 +48,9 @@ Plant auch Ihr einen Kiel-Besuch? Das
 [Museum](http://www.kiel.de/kultur/museum/schifffahrtsmuseum/) ist täglich von
 10 - 18 Uhr geöffnet , der Eintritt kostet 3 Euro.
 
-## Unser Kiel-Besuch - Wegweiser<ol><li> [Noch mehr Kiel](/2015/11/ein-besuch-in-kiel/) </li></ol>
+## Unser Kiel-Besuch - Wegweiser1. [Ein Besuch in Kiel](/2015/11/ein-besuch-in-kiel/)
+
+1.  [Die Möwe](/2015/11/die-moewe/)
+1.  [Noch mehr Kiel](/2015/11/noch-mehr-kiel/)
+
+  

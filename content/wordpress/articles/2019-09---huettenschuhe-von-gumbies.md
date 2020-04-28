@@ -4,11 +4,10 @@ seoTitle: Hüttenschuhe von Gumbies - warme Füße in veganen Puschen
 slug: huettenschuhe-von-gumbies
 link: /2019/09/huettenschuhe-von-gumbies/
 fileName: 2019-09---huettenschuhe-von-gumbies.md
-description:
-  Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit neuestem gibt es
-  jetzt auch vegane Hüttenschuhe vom Bielefelder Upcycling Start-up.
-excerpt:
-  Werbung - Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit
+description: Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit
+  neuestem gibt es jetzt auch vegane Hüttenschuhe vom Bielefelder Upcycling
+  Start-up.
+excerpt: Werbung - Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit
   neuestem gibt es jetzt auch vegane Hüttenschuhe vom Bielefelder Upcycling
   Start-up.
 focusKeyword: Hüttenschuhe
@@ -35,14 +34,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26471"
-subTitle: Warme Füße in veganen Puschen</strong>
+image: /img/demo.jpg
+errors: []
+subTitle: <strong>Warme Füße in veganen Puschen</strong>
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Gumbies kennt Ihr ja schon. Die Flip Flops und Slipper habe ich Euch
-hier im Blog bereits vorgestellt. Seit neuestem gibt es jetzt auch vegane
-Hüttenschuhe vom Bielefelder Upcycling Start-up.</strong>
+**Gumbies kennt Ihr ja schon. Die Flip Flops und Slipper habe ich Euch hier im
+Blog bereits vorgestellt. Seit neuestem gibt es jetzt auch vegane Hüttenschuhe
+vom Bielefelder Upcycling Start-up.**
 
 Genau wie alle Schuhe von Gumbies, sind auch die Hüttenschuhe vegan und werden
 aus Recycling-Materialien gefertigt: Das Obermaterial besteht zu 100 Prozent aus
@@ -52,9 +54,11 @@ recycelten PET-Flaschen, die Sohle aus recyceltem Kautschuk.
 
 ![gumbies-anne-reis-cardamonchai.rock-n-roll-vegan](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-28-gumbies-5-400x533.jpg)
 
-, wenn jemand mal einen Zahn zulegen soll. Mit den Gumbies Puschen kann man sich
-hingegen schön Zeit lassen. Wenn man nach getaner Arbeit in die mollig warmen
-Hausschuhe schlüpft, weiß man ganz genau: Jetzt ist Ausruhen angesagt.
+"Komm in die Puschen" - das sagt man in meiner alten Heimat
+[Bielefeld](/2019/07/bielefeld/), wenn jemand mal einen Zahn zulegen soll. Mit
+den Gumbies Puschen kann man sich hingegen schön Zeit lassen. Wenn man nach
+getaner Arbeit in die mollig warmen Hausschuhe schlüpft, weiß man ganz genau:
+Jetzt ist Ausruhen angesagt.
 
 Das Fußbett unterstützt die natürliche Wölbung der Füße. Es ist herausnehmbar.
 Wer also vom Arzt Einlagen verschrieben bekommen hat, kann sie ohne Probleme
@@ -62,9 +66,10 @@ reinlegen. Das Sohlenprofil ist, wie wir es von Gumbies gewohnt sind, sehr
 robust. Man verliert somit auch auf Fliesen nicht den Halt.
 
 Nach dem Baden greife ich nach wie vor sehr gerne zu den
-[Flip Flops](/2018/12/gumbies-im-winter/), doch im heimischen Wohnzimmer sind
-die Gumbies Hüttenschuhe wirklich unschlagbar. Sie sind schön kuschelig und
-halten die Zehen wunderbar warm - nie wieder kalte Füße im Winter!
+[Slippers](/2018/12/gumbies-im-winter/) und beim Sport zu meinen geliebten
+[Flip Flops](/2018/03/gumbies-vegane-strandsandalen/), doch im heimischen
+Wohnzimmer sind die Gumbies Hüttenschuhe wirklich unschlagbar. Sie sind schön
+kuschelig und halten die Zehen wunderbar warm - nie wieder kalte Füße im Winter!
 
 ## Wer die Wahl hat...
 
@@ -136,8 +141,10 @@ Den Gumbies Onlineshop [findet Ihr hier](https://shop.gumbies.de/).
 Ein Verzeichnis der Einzelhändler, die die Strandschuhe im Sortiment haben
 [hier](https://www.gumbies.de/haendlerverzeichnis).
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
 &nbsp;
+
+  

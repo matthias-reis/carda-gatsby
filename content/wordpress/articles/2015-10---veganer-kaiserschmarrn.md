@@ -4,12 +4,10 @@ seoTitle: Veganer Kaiserschmarrn - Rezept zum Nachmachen
 slug: veganer-kaiserschmarrn
 link: /2015/10/veganer-kaiserschmarrn/
 fileName: 2015-10---veganer-kaiserschmarrn.md
-description:
-  Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für Euch. Auf
-  den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
-excerpt:
-  Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für Euch. Auf
-  den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
+description: Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für
+  Euch. Auf den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
+excerpt: Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für Euch.
+  Auf den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
 focusKeyword: Veganer Kaiserschmarrn
 labels:
   - Eiweiß
@@ -29,19 +27,35 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "12905"
+image: /img/demo.jpg
+errors: []
 subTitle: Vollwertig, lecker und eiweißreich
+  
 ---
 
 ![Veganer Kaiserschmarrn](http://cardamonchai.com/wp-content/uploads/2015/09/21835534795_27006697f2_z-1.jpg "Kaiserschmarrn mit frischem Obst")
 
-<strong>Heute habe ich mal wieder ein leckeres Frühstücksrezept für's Wochenende
-für Euch vorbereitet. Auf den Tisch kommt ein echter Klassiker mal ein Bisschen
-anders. Es gibt: Kaiserschmarrn.</strong>
+**Heute habe ich mal wieder ein leckeres Frühstücksrezept für's Wochenende für
+Euch vorbereitet. Auf den Tisch kommt ein echter Klassiker mal ein Bisschen
+anders. Es gibt: Kaiserschmarrn.**
 
 Er ist superleicht zuzubereiten, sehr schmackhaft und gibt Euch die nötige Power
 für Eure Wochenendaktivitäten.
 
-## Zubereitung
+## Das braucht Ihr- Schneebesen
+
+- Schüssel
+- Pfanne
+- Kochlöffel
+- Schöpflöffel## Zutaten für 4 Portionen- 200 g Dinkelvollkornmehl
+- 1 Päckchen Weinsteinbackpulver
+- 100 g Süßlupinenmehl
+- 1 EL Sojamehl (falls Ihr das nicht mögt/vertragt, packt einfach einen weiteren
+  Löffel Süßlupinenmehl rein)
+- 800 ml Reismilch (Ihr könnt auch Hafermilch nehmen)
+- 1 EL Agavendicksaft
+- 1 Prise Salz
+- Öl zum Braten## Zubereitung
 
 ![Veganer Kaiserschmarrn](http://cardamonchai.com/wp-content/uploads/2015/09/21823673392_e1a185d261_z-640x427.jpg "Gebt alle Zutaten in die Schüssel")
 
@@ -65,3 +79,5 @@ Kaiserschmarrn auch mit Puderzucker oder Mandelsplittern bestreuen.
 
 Lust auf Chiapudding?
 [Das ultimative Rezept findet Ihr hier](/2015/02/chiapudding/).
+
+  

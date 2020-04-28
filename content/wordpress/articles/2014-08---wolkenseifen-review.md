@@ -4,12 +4,11 @@ seoTitle: Wolkenseifen - Himmlische Düfte ganz ohne Plastik
 slug: wolkenseifen-himmlische-duefte-ganz-ohne-plastik
 link: /2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/
 fileName: 2014-08---wolkenseifen-review.md
-description:
-  Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe mal einen
-  kleinen Produkttest gemacht und mir die Sachen etwas genauer angeschaut.
-excerpt:
-  Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe mal einen
-  kleinen Produkttest gemacht und mir die Sachen etwas genauer angeschaut.
+description: Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe
+  mal einen kleinen Produkttest gemacht und mir die Sachen etwas genauer
+  angeschaut.
+excerpt: Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe mal
+  einen kleinen Produkttest gemacht und mir die Sachen etwas genauer angeschaut.
 focusKeyword: Wolkenseifen
 labels:
   - Badezusatz
@@ -54,17 +53,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8651"
+image: /img/demo.jpg
+errors: []
 subTitle: Himmlische Düfte ganz ohne Plastik
+  
 ---
 
-<em>Produktplatzierung\*</em><strong>Vor Kurzem berichtete ich hier im Blog über
-den [biologischen Fussabdruck](//2014/07/30/10-fakten-uber-vegane-ernahrung/)
-und wie man ihn mit der Umstellung auf eine vegane Ernährungsweise verkleinern
-kann. Der Verzicht auf Tierisches trägt einen großen Teil dazu bei, ist aber bei
-weitem nicht das Einzige, was man tun kann, um unseren blauen Planeten so
-bewusst wie möglich zu begehen.</strong>
-
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/produkttester-selfie-1-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Shoptester-Selfie")
+![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/produkttester-selfie-1-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Shoptester-Selfie")
 
 Schon seit einiger Zeit mache ich mir Gedanken, wie ich den Müllberg, der
 wöchentlich bei uns im Container landet verkleinern kann. Dass man Restmüll und
@@ -83,7 +78,7 @@ Mitarbeiter wie die Schaufensterdekoration austauschen.
 
 ## Wolkenseifen macht es möglich
 
-![Wolkenseifen](http://cardamonchai.files.wordpress.com/2014/08/img_1700-e1409308836538.jpg?w=300 " [](https://www.flickr.com/photos/99929697@N07/)  Liebevoll verpackt")
+![Wolkenseifen](http://cardamonchai.files.wordpress.com/2014/08/img_1700-e1409308836538.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevoll verpackt")
 
 Weil ich persönlich die kleinen Händler vorziehe, die mit ihren eigenen Händen
 etwas aufbauen, kam ich auf die
@@ -107,7 +102,7 @@ Besonders interessierte ich mich für die Haarseifen, ich habe mich für eine mi
 Rosmarin entschieden. Sie ist für empfindliche Kopfhaut geeignet. Im Shop wird
 sie folgendermaßen angepriesen:
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1693-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Rosmarin-Haarseife")
+![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1693-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Rosmarin-Haarseife")
 
 <small>"Alepposeife mit ätherischem Rosmarinöl für die Haarwäsche. Durch das
 Rosmarinöl kann es gegen Schuppen wirken. Die klassischen Inhaltsstoffe der
@@ -131,7 +126,7 @@ Duschen viel weniger Wasser den Abfluss runtergeht.
 
 ## Wolkenseifen Kokosöl
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1696-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/http://)  Duftet wie die Kokosmakronen meiner Oma")
+![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1696-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/http://)  Duftet wie die Kokosmakronen meiner Oma")
 
 Da ich sehr langes, pflegebedürftiges Haar habe, gebe ich anstelle von einer Kur
 1x pro Woche Kokosöl ins Haar und lasse es über Nacht einwirken. Nach dem
@@ -148,7 +143,7 @@ Kokosmakronen von meiner Oma und das ist so schön! &lt;3
 
 ## Das steht dazu auf der Produktseite:
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1699-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Liebevolle Produktbeschreibungen")
+![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1699-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevolle Produktbeschreibungen")
 
 <small>"Dieses Kokosöl aus kontrolliert biologischem Anbau duftet himmlisch nach
 Kokos. Wie ein Glas Kokosmilch am Strand, wie eine Handvoll frisch geraspelte
@@ -216,11 +211,11 @@ Ein kleines Bisschen Lavendelluxus durfte für mich natürlich auch nicht fehlen
 Ein pulverförmiges Schaumbad in der hübschesten Schaumbaddose, die ich jemals
 gesehen habe:
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1695-2-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Lavendel-Schaumbad")
+![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1695-2-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Lavendel-Schaumbad")
 
 Beigelegt wurden meinem Paket außerdem noch drei liebevoll verpackte Deoproben:
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1690-640x640.jpg " [](https://www.flickr.com/photos/99929697@N07/)  Liebevoll verpackte Deoproben")
+![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1690-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevoll verpackte Deoproben")
 
 ## Wolkenseifen Test-Fazit
 
@@ -239,7 +234,9 @@ und überzeugt Euch selbst!
 Wer jetzt Interesse bekommen hat: Hier geht es zur
 [Homepage](http://wolkenseifen.de) von Wolkenseifen.
 
-<em>\*Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine Meinung
+_\*Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Die Produkte habe ich in diesem Fall sogar
 selbst erworben. Infos zum Thema Produktplatzierungen findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

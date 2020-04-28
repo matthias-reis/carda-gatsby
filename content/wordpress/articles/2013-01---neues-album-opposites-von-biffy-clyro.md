@@ -4,11 +4,9 @@ seoTitle: Biffy Clyro bringen neues Album raus
 slug: melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt
 link: /2013/01/melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt/
 fileName: 2013-01---neues-album-opposites-von-biffy-clyro.md
-description:
-  Biffy Clyro haben ihr neues Album rausgebracht - Ich habe schon mal reingehört
-excerpt:
-  Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue Biffy Clyro
-  Album "Opposites" auf den Markt.
+description: Biffy Clyro haben ihr neues Album rausgebracht - Ich habe schon mal reingehört
+excerpt: Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue
+  Biffy Clyro Album "Opposites" auf den Markt.
 focusKeyword: Biffy Clyro
 labels:
   - Bands & Reviews
@@ -34,12 +32,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "4818"
+image: /img/demo.jpg
+errors: []
 subTitle: Melancholie meets gerechtes Brett
+  
 ---
-
-<strong>Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue
-[Biffy Clyro](http://www.biffyclyro.com) Album "Opposites" auf den Markt.
-</strong>
 
 Seit dem ich es aus seinem Versandkarton befreit habe, läuft es bei mir hoch und
 runter und ich kann nur so viel sagen: Ihr werdet es lieben. Melancholie meets
@@ -51,32 +48,30 @@ fünf. Mit Sternchen.
 
 ![IMG_2996 | full](http://cardamonchai.files.wordpress.com/2013/01/img_2996.jpg)
 
-## mit Black Chandelier:
+## Hier sind für Euch [Biffy Clyro](http://www.biffyclyro.com) mit Black Chandelier:
 
 [youtube=http://www.youtube.com/watch?v=dZjugcwPY6Y]
 
-<em>Drip, drip, drip</em><em>Drip, drip, drip</em><em>Drip, Drip,
-Drip</em><em>Drip, drip, drip</em><em>Drip, drip, drip</em><em>I shouldn’t
-laugh, but I know I’m a failure in your eyes</em><em>I know its daft, but I
-guess I know it deep inside</em><em>It feels like we’re ready to crack these
-days, you and I</em><em>When it’s just the two of us, only the two of us, I
-could die</em><em>You left my heart like an abandoned car</em><em>Old and worn
-and no use at all</em><em>But I used to be free</em><em>We’re gonna separate
-ourselves tonight</em><em>We’re always running scared but holding
-knives</em><em>But there’s a black chandelier</em><em>It’s casting shadows and
-lies</em><em>Drip, drip, drip</em><em>I’ll sit in silence for the rest of my
-life if you’d like</em><em>Dressing our wounds with industrial gloves made of
-wire</em><em>Feel it penetrating the skin, we begin to relax</em><em>When it’s
-just the two of us, and a cute little cup of cyanide</em><em>You left my heart
-like an abandoned car</em><em>Old and worn and no use at all</em><em>But I used
-to be free</em><em>We’re gonna separate ourselves tonight</em><em>We’re always
-running scared but holding knives</em><em>But there’s a black
-chandelier</em><em>It’s casting shadows and lies</em><em>We’re gonna separate
-ourselves tonight</em><em>We’re always running scared but holding
-knives</em><em>But there’s a black chandelier</em><em>You left my heart like an
-abandoned car</em><em>Old and worn and no use at all</em><em>But I used to be
-free</em><em>We’re gonna separate ourselves tonight</em><em>We’re always running
-scared but holding knives</em><em>But there’s a black chandelier</em><em>It’s
-casting shadows and lies</em><em>We’re gonna separate ourselves
-tonight</em><em>We’re always running scared but holding knives</em><em>But
-there’s a black chandelier</em><em>It’s casting shadows and lies</em>
+_Drip, drip, drip_ _Drip, drip, drip_ _Drip, Drip, Drip_ _Drip, drip, drip_
+_Drip, drip, drip_ _I shouldn’t laugh, but I know I’m a failure in your eyes_ _I
+know its daft, but I guess I know it deep inside_ _It feels like we’re ready to
+crack these days, you and I_ _When it’s just the two of us, only the two of us,
+I could die_ _You left my heart like an abandoned car_ _Old and worn and no use
+at all_ _But I used to be free_ _We’re gonna separate ourselves tonight_ _We’re
+always running scared but holding knives_ _But there’s a black chandelier_ _It’s
+casting shadows and lies_ _Drip, drip, drip_ _I’ll sit in silence for the rest
+of my life if you’d like_ _Dressing our wounds with industrial gloves made of
+wire_ _Feel it penetrating the skin, we begin to relax_ _When it’s just the two
+of us, and a cute little cup of cyanide_ _You left my heart like an abandoned
+car_ _Old and worn and no use at all_ _But I used to be free_ _We’re gonna
+separate ourselves tonight_ _We’re always running scared but holding knives_
+_But there’s a black chandelier_ _It’s casting shadows and lies_ _We’re gonna
+separate ourselves tonight_ _We’re always running scared but holding knives_
+_But there’s a black chandelier_ _You left my heart like an abandoned car_ _Old
+and worn and no use at all_ _But I used to be free_ _We’re gonna separate
+ourselves tonight_ _We’re always running scared but holding knives_ _But there’s
+a black chandelier_ _It’s casting shadows and lies_ _We’re gonna separate
+ourselves tonight_ _We’re always running scared but holding knives_ _But there’s
+a black chandelier_ _It’s casting shadows and lies_
+
+  

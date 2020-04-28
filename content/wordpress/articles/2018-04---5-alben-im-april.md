@@ -4,12 +4,12 @@ seoTitle: 5 Alben im April - Ich stelle Euch meine musikalischen Favoriten vor
 slug: 5-alben-im-april
 link: /2018/04/5-alben-im-april/
 fileName: 2018-04---5-alben-im-april.md
-description:
-  Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben haben das
-  Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten vor.
-excerpt:
-  Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben haben das
-  Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten vor.
+description: Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben
+  haben das Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten
+  vor.
+excerpt: Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben
+  haben das Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten
+  vor.
 focusKeyword: Alben
 labels:
   - A Perfect Circle
@@ -44,15 +44,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20638"
+image: /img/demo.jpg
+errors: []
 subTitle: Musikalischen Favoriten
+  
 ---
 
-<strong>Der April ist in diesem Jahr ein sehr musikalischer Monat. Viele Bands
-haben neue Alben veröffentlicht und einige stehen kurz davor. Eine davon zählt
-zu meinen absoluten Favoriten und hat zum Glück bereits zwei
-Vorveröffentlichungen ins Netz gestellt, die bei mir jetzt hoch und
-runterlaufen. Mit den Irischen Post-Rockern möchte ich auch gerne meine kleine
-aber feine Liste einläuten.</strong>
+**Der April ist in diesem Jahr ein sehr musikalischer Monat. Viele Bands haben
+neue Alben veröffentlicht und einige stehen kurz davor. Eine davon zählt zu
+meinen absoluten Favoriten und hat zum Glück bereits zwei Vorveröffentlichungen
+ins Netz gestellt, die bei mir jetzt hoch und runterlaufen. Mit den Irischen
+Post-Rockern möchte ich auch gerne meine kleine aber feine Liste einläuten.**
 
 ## God Is An Astronaut - "Epitaph"
 
@@ -81,11 +83,8 @@ und landet genau am Puls der Zeit.
 Eröffnet wird die Platte vom gleichnamigen Song "The Deconstruction". Eels ist
 nachdenklich. Und oh, diese Geigen!
 
-<blockquote>The deconstruction has begun
-Time for me to fall apart
-And if you think that it was rough
-I tell you nothing changes
-Till you start to break it down</blockquote>
+> The deconstruction has begun Time for me to fall apart And if you think that
+> it was rough I tell you nothing changes Till you start to break it down
 
 Weil bei Eeels jede Geschichte eine Moral hat, gibt es dann natürlich auch eine
 Reconstruction. Hört mal rein. Ihr werdet fasziniert sein. Wenn Euch die Melodie
@@ -143,4 +142,6 @@ You're on your own!"
 
 So long and thanks for all the fish...
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

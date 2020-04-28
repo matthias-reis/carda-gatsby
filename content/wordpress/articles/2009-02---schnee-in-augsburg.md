@@ -20,5 +20,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "111"
+image: /img/demo.jpg
+errors: []
 subTitle: Wunderschönes Schneegestöber
+  
 ---
+
+
+  

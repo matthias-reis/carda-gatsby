@@ -4,12 +4,10 @@ seoTitle: Wichtiger Nachtrag zur Musikliste - Danke für Euer Feedback!
 slug: wichtiger-nachtrag-zur-musikliste
 link: /2018/01/wichtiger-nachtrag-zur-musikliste/
 fileName: 2018-01---wichtiger-nachtrag-zur-musikliste.md
-description:
-  Vielen Dank für das umfangreiche Feedback, die vielen Mails und
+description: Vielen Dank für das umfangreiche Feedback, die vielen Mails und
   Chatnachrichten sowie die Kommentare, die bei mir eingegangen sind! Hier sind
   Eure Songs!
-excerpt:
-  Vielen Dank für das umfangreiche Feedback, die vielen Mails und
+excerpt: Vielen Dank für das umfangreiche Feedback, die vielen Mails und
   Chatnachrichten sowie die Kommentare, die bei mir eingegangen sind! Hier sind
   Eure Songs!
 focusKeyword: Musikliste
@@ -67,14 +65,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "19339"
+image: /img/demo.jpg
+errors: []
 subTitle: Danke für Euer Feedback!
+  
 ---
 
-<strong>Meine
+**Meine
 [Songliste 2017](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)
 hat Euch ja sehr gut gefallen. Vielen Dank für das umfangreiche Feedback, die
 vielen Mails und Chatnachrichten sowie die Kommentare, die bei mir eingegangen
-sind! Ihr seid klasse!</strong>
+sind! Ihr seid klasse!**
 
 Heute möchte ich gerne einen wichtigen Nachtrag veröffentlichen. Dieser setzt
 sich zum großen Teil aus den Songs und Interpreten zusammen, die Euch laut Euren
@@ -182,8 +183,11 @@ der Veröffentlichung im September 2017 bei mir rauf und runter.
 
 <iframe src="https://www.youtube.com/embed/zhTG2wM-r-g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Vielen Dank an dieser Stelle an Thomas von
-[ultimativen Songliste 2017](/2018/01/kokku-veganshop/) vergessen habe!
+Vielen Dank an dieser Stelle an Thomas von [Kokku](/2018/01/kokku-veganshop/),
+der so nett war, mich daran zu erinnern, dass ich Japandroids, The National und
+LCD Soundsystem in meiner
+[ultimativen Songliste 2017](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)
+vergessen habe!
 
 ## Mogwai "Coolverine" vom Album "Every Country's Sun"
 
@@ -213,3 +217,5 @@ darauf verzichten wollen.
 <iframe src="https://www.youtube.com/embed/ZSF0FF4yU1A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 [Hier geht's zur ultimativen Songliste 2017](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)
+
+  

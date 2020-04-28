@@ -4,12 +4,12 @@ seoTitle: Repeat Pattern aus meiner Werkstatt
 slug: mein-erstes-repeat-pattern
 link: /2016/02/mein-erstes-repeat-pattern/
 fileName: 2016-02---drei-neue-zentangles-und-mein-erstes-repeat-pattern.md
-description:
-  Gestern ist ganz spontan mein erstes richtiges Repeat Pattern entstanden!
-  Außerdem habe ich mit Aquarellfarben experimentiert. Hier das Ergebnis.
-excerpt:
-  Gestern ist ganz spontan mein erstes richtiges Repeat Pattern entstanden!
-  Außerdem habe ich mit Aquarellfarben experimentiert. Hier das Ergebnis.
+description: Gestern ist ganz spontan mein erstes richtiges Repeat Pattern
+  entstanden! Außerdem habe ich mit Aquarellfarben experimentiert. Hier das
+  Ergebnis.
+excerpt: Gestern ist ganz spontan mein erstes richtiges Repeat Pattern
+  entstanden! Außerdem habe ich mit Aquarellfarben experimentiert. Hier das
+  Ergebnis.
 focusKeyword: Repeat Pattern
 labels:
   - basteln
@@ -31,15 +31,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14001"
+image: /img/demo.jpg
+errors:
+  - type: noSubtitle
+    message: no h2 heading found - no sub title
+  
 ---
 
 ## Neue Bilder aus meinem Kelleratelier
 
 ![Repeat Pattern](http://cardamonchai.com/wp-content/uploads/2016/02/24541647974_6227d718cc_z-640x640.jpg "Mandala klassisch schwarz weiß")
 
-<strong>Vor Kurzem habe ich Euch von meinem Hobby, dem
+**Vor Kurzem habe ich Euch von meinem Hobby, dem
 [Tangeln](/2016/02/zentangle-malen-als-kreative-prokrastination/) erzählt und
-auch schon ein paar Bilder gezeigt. </strong>
+auch schon ein paar Bilder gezeigt.**
 
 In der Zwischenzeit sind wieder ein paar entstanden, die ich heute zeigen
 möchte.
@@ -51,8 +56,8 @@ schwarz weiß.
 ![Repeat Pattern](http://cardamonchai.com/wp-content/uploads/2016/02/25079081991_48665cac29_z-640x640.jpg 'Doodle mit "Teppichmuster"')
 
 Das dritte hat eine Art "Teppichmuster" und beim vierten habe ich mal etwas für
-mich ganz Neues ausprobiert: Mein erstes <strong>Repeat Pattern</strong> ist
-gestern ganz spontan entstanden und ich bin mächtig stolz darauf.
+mich ganz Neues ausprobiert: Mein erstes **Repeat Pattern** ist gestern ganz
+spontan entstanden und ich bin mächtig stolz darauf.
 
 ## Das erste Repeat Pattern ist fertig!
 
@@ -76,3 +81,5 @@ Tag noch mehr Spaß. Ich bin mal gespannt, was mir als nächstes einfällt.
 möchtest:
 [Klick doch einfach mal hier](/2016/02/my-little-pony-zu-gewinnen-verlosung/) !
 Bis zum 4. März 2016 hast Du Zeit! Ich wünsche Dir viel Glück!
+
+  

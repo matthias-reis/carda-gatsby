@@ -4,9 +4,8 @@ seoTitle: Da ist Musik drin - Die Post war da
 slug: "7599"
 link: /2013/11/7599/
 fileName: 2013-11---da-ist-musik-drin.md
-description:
-  Das ist Musik drin! - Heute bin ich meinem Kollegen um den Hals gefallen,
-  dabei kam er nur um die Ecke und meinte, er hätte Post für mich.
+description: Das ist Musik drin! - Heute bin ich meinem Kollegen um den Hals
+  gefallen, dabei kam er nur um die Ecke und meinte, er hätte Post für mich.
 excerpt: "\n               \ \n            "
 focusKeyword: Musik
 labels:
@@ -22,13 +21,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7597"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Post war da
+  
 ---
-
-<strong>Ich bin meinem Kollegen heute um den Hals gefallen. Dabei kam er einfach
-nur um die Ecke und meinte, er hätte Post für mich. Er wusste gar nicht, wie ihm
-geschieht, meinte wohl, es handelt sich nur um so ein langweiliges Paket mit
-irgendwelchem langweiligen Schnickschnack.</strong>
 
 Aber da hat er sich geirrt! Das Paket stammt vom Schallplattenhändler meines
 Vertrauens und ich freue mich schon seit Wochen auf den Inhalt. Und ich wurde
@@ -55,3 +52,5 @@ ids="7583,7584,7585,7586,7587,7589,7590,7591,7592,7594,7595,7596"]
 Dieser junge Mann hat meine Schallplatten übrigens bei Marleen eingepackt:
 
 ![Chico - Lieblingsschallplattenladen-Maskottchen | full](http://cardamonchai.files.wordpress.com/2013/11/chico.jpg "Chico - Lieblingsschallplattenladen-Maskottchen")
+
+  

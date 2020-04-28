@@ -1,17 +1,15 @@
 ---
 title: Mein Glasnudelsalat beim Otto Versand
-seoTitle:
-  Veganer Glasnudelsalat made by Anne goes Otto Versand - Mein Rezept bei Otto
+seoTitle: Veganer Glasnudelsalat made by Anne goes Otto Versand - Mein Rezept bei Otto
 slug: veganer-glasnudelsalat-made-by-anne-goes-otto-versand
 link: /2017/04/veganer-glasnudelsalat-made-by-anne-goes-otto-versand/
 fileName: 2017-04---mein-glasnudelsalat-beim-otto-versand.md
-description:
-  Mein Rezept ist soeben im Bloggerbereich beim Otto Versand erschienen! Schick
-  oder? Wenns darum geht, zu zeigen, wie gutes Essen geht, bin ich immer dabei.
-excerpt:
-  Mein Rezept ist soeben im Bloggerbereich beim Otto Versand erschienen! Schick
-  oder? Wenn es darum geht, zu zeigen, wie gutes Essen geht, bin ich immer gerne
-  dabei.
+description: Mein Rezept ist soeben im Bloggerbereich beim Otto Versand
+  erschienen! Schick oder? Wenns darum geht, zu zeigen, wie gutes Essen geht,
+  bin ich immer dabei.
+excerpt: Mein Rezept ist soeben im Bloggerbereich beim Otto Versand erschienen!
+  Schick oder? Wenn es darum geht, zu zeigen, wie gutes Essen geht, bin ich
+  immer gerne dabei.
 focusKeyword: Otto Versand
 labels:
   - Frühling
@@ -35,12 +33,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "16216"
+image: /img/demo.jpg
+errors: []
 subTitle: Mango, Chili &amp; Cashews
+  
 ---
 
-<strong>Was haben mein leckerer
+**Was haben mein leckerer
 [veganer Glasnudelsalat](/2017/03/glasnudelsalat-mit-mango-vegan/) mit Mango und
-der Otto Versand gemeinsam? Ernsthaft, das fragt Ihr Euch?</strong>
+der Otto Versand gemeinsam? Ernsthaft, das fragt Ihr Euch?**
 
 Ich erzähle Euch kurz, was passiert ist. Vor ein paar Tagen schrieb mich eine
 nette Dame an, ob ich nicht Lust hätte, ein frisches veganes Frühlingsrezept zum
@@ -51,10 +52,10 @@ Und genau dieses Rezept erscheint jetzt auch im Blog bei Otto. Schick, oder?
 ## Der Otto Versand hat mein Rezept veröffentlicht
 
 Klasse finde ich übrigens, dass auch im Bloggerbereich eines großen
-Modeversandhauses <strong>vegan </strong>offenbar kein Geheimnis mehr ist. Und
-wenn es darum geht, den veganen Gedanken noch ein kleines Bisschen weiter zu
-verbreiten, bin ich doch gerne immer dabei. Für Euch habe ich ein paar
-Screenshots gemacht. Seht mal:
+Modeversandhauses  **vegan** offenbar kein Geheimnis mehr ist. Und wenn es darum
+geht, den veganen Gedanken noch ein kleines Bisschen weiter zu verbreiten, bin
+ich doch gerne immer dabei. Für Euch habe ich ein paar Screenshots gemacht. Seht
+mal:
 
 ![Otto Versand | full](http://cardamonchai.com/wp-content/uploads/2017/04/Bildschirmfoto-2017-04-19-um-15.00.06.png)
 
@@ -68,3 +69,5 @@ Rezept, zu dem perfekt Glasnudeln als Beilage passen. Es ist natürlich vegan.
 
 Weitere Veröffentlichungen von mir auf anderen Seiten
 [findet Ihr hier](/andere-blogs/).
+
+  

@@ -4,12 +4,10 @@ seoTitle: Miniaturwunderland Hamburg - Festivalbilder mal anders
 slug: miniaturwunderland-hamburg
 link: /2016/07/miniaturwunderland-hamburg/
 fileName: 2016-07---mi-ni-a-tur-wun-der-land-ham-burg.md
-description:
-  Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland angeschaut.
-  Dabei sind sogar ein paar Festivalbilder entstanden.
-excerpt:
-  Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland angeschaut.
-  Dabei sind sogar ein paar Festivalbilder entstanden.
+description: Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland
+  angeschaut. Dabei sind sogar ein paar Festivalbilder entstanden.
+excerpt: Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland
+  angeschaut. Dabei sind sogar ein paar Festivalbilder entstanden.
 focusKeyword: Miniaturwunderland
 labels:
   - Festival
@@ -25,11 +23,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14992"
+image: /img/demo.jpg
+errors: []
 subTitle: Festivalbilder mal anders
+  
 ---
 
-<strong>Was haben Modelleisenbahnen mit Festivals zu tun? So allerhand, wie Ihr
-gleich merken werdet! </strong>
+**Was haben Modelleisenbahnen mit Festivals zu tun? So allerhand, wie Ihr gleich
+merken werdet!**
 
 Dass wir unser Festivalwochenende wegen "iss nich" nach einem Tag vor Ort
 abgeblasen haben, hatte ich in meinem
@@ -54,3 +55,5 @@ und die Verfilmung der Mond-Landung. Und selbstverständlich alles aus Hamburg,
 ich habe sogar Altona entdeckt! &lt;3
 
 [myflickr tag="anneminiaturwunderland2016"]
+
+  

@@ -4,12 +4,12 @@ seoTitle: Rock ´n´ Roll vegan im neuen Gewand
 slug: rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo
 link: /2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/
 fileName: 2017-08---rock-n-roll-vegan-im-neuen-gewand.md
-description:
-  Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Feierlich
-  enthülle ich heute das neue Design meines Blogs - Mehr Rock 'n' Roll vegan!
-excerpt:
-  Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Feierlich
-  enthülle ich heute das neue Design meines Blogs - Mehr Rock 'n' Roll vegan!
+description: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues
+  Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Rock
+  'n' Roll vegan!
+excerpt: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht.
+  Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Rock 'n' Roll
+  vegan!
 focusKeyword: Logo
 labels:
   - Blog Design
@@ -33,13 +33,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17458"
+image: /img/demo.jpg
+errors: []
 subTitle: Mein Blog sieht jetzt anders aus
+  
 ---
 
-<strong>Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht.
-Nachdem sich nach und nach herauskristallisiert hat, in welche Richtung es gehen
-wird mit [](), habe ich mich auch für ein neues Outfit inklusive Logo
-entschieden.</strong>
+**Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues Gesicht. Nachdem
+sich nach und nach herauskristallisiert hat, in welche Richtung es gehen wird
+mit [_Anne bloggt cardamonchai_](), habe ich mich auch für ein neues Outfit
+inklusive Logo entschieden.**
 
 Das alte Design mit seinen vielen technischen Spielereien und dem großen Zitat
 im Header hat mir auch sehr gut gefallen. Doch mit neuen Ideen kommt auch
@@ -75,7 +78,7 @@ In diesem Sinne: Bleibt mir gewogen!
 
 ![Logo | large](http://cardamonchai.com/wp-content/uploads/2017/08/facebook-title-image-2-800x330.png)
 
-<a href="http://cardamonchai.com">
+[]()
 
 ## Hier als Erinnerung noch mal ein paar Bilder vom alten Auftritt meines Blogs
 
@@ -85,8 +88,10 @@ In diesem Sinne: Bleibt mir gewogen!
 
 ![Logo | large](http://cardamonchai.com/wp-content/uploads/2017/08/4-800x831.png)
 
-<a href="/cardamonchai-blick-hinter-die-kulissen/">
+[](/cardamonchai-blick-hinter-die-kulissen/)
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 104px; left: 1584px;">Merken</span>
+Merken
 
-<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 104px; left: 1584px;">Merken</span>
+Merken
+
+  

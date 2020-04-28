@@ -4,14 +4,12 @@ seoTitle: "Keimling Geschenkidee: Schokocreme, Goldene Milch und Konfekt"
 slug: geschenkidee-leckeres-von-keimling
 link: /2018/12/geschenkidee-leckeres-von-keimling/
 fileName: 2018-12---keimling-im-test.md
-description:
-  "Bald ist Weihnachten. Darum habe ich ein paar spannende Geschenktipps für
-  Euch: Goldene Milch, Konfekt und Schokocreme von Keimling."
-excerpt:
-  "Werbung & Affiliate Links - Langsam aber sicher geht es ja ziemlich strack
-  auf Weihnachten zu. Darum findet Ihr auch bei mir im Blog etwas derzeit sehr
-  Beliebtes: Geschenktipps. Heute möchte ich Euch ein paar Köstlichkeiten aus
-  dem Hause Keimling vorstellen, die ich gerade selbst getestet habe."
+description: "Bald ist Weihnachten. Darum habe ich ein paar spannende
+  Geschenktipps für Euch: Goldene Milch, Konfekt und Schokocreme von Keimling."
+excerpt: "Werbung & Affiliate Links - Langsam aber sicher geht es ja ziemlich
+  strack auf Weihnachten zu. Darum findet Ihr auch bei mir im Blog etwas derzeit
+  sehr Beliebtes: Geschenktipps. Heute möchte ich Euch ein paar Köstlichkeiten
+  aus dem Hause Keimling vorstellen, die ich gerade selbst getestet habe."
 focusKeyword: Keimling
 labels:
   - Chufas
@@ -42,15 +40,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22883"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Geschenkidee
+  
 ---
 
-<em>Werbung &amp; Affiliate Links</em>
+_Werbung &amp; Affiliate Links_
 
-<strong>Langsam aber sicher geht es ja ziemlich strack auf Weihnachten zu. Darum
+**Langsam aber sicher geht es ja ziemlich strack auf Weihnachten zu. Darum
 findet Ihr auch bei mir im Blog etwas derzeit sehr Beliebtes: Geschenktipps.
 Heute möchte ich Euch ein paar Köstlichkeiten aus dem Hause Keimling vorstellen,
-die ich gerade selbst getestet habe.</strong>
+die ich gerade selbst getestet habe.**
 
 Wer Keimling Naturkost kennt, weiß dass dort gesunde Ernährung im Fokus steht.
 Der Geschmack soll dabei jedoch auch nicht zu kurz kommen. Keimling wurde vor 34
@@ -103,7 +104,11 @@ mit etwas Kokosblütenzucker,
 oder Sirup verfeinern. Die UVP liegt bei 8,95 Euro für 100 Gramm.
 
 Mir schmeckt sie am besten mit Hafermilch, sie kann aber ohne Probleme auch mit
-Mandeldrink, [direkt bei Keimling](/2014/12/diy-sojamilch/).
+Mandeldrink, [Sojadrink](/2014/12/diy-sojamilch/) oder
+[Kokosmilch](/2018/09/neue-kokosmilch-coco-milk-dr-martins/) zubereitet werden.
+Ich bevorzuge die warme Variante, viele trinken sie auch gerne gekühlt.
+Bestellen könnt Ihr das leckere Pülverchen
+[direkt bei Keimling](https://www.keimling.de/kurkuma-latte.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm).
 
 ## Roh-veganer Chufas-Zimt-Konfekt
 
@@ -127,7 +132,9 @@ hier im Blog noch ein paar weitere Tipps.
 
 [gallery type="rectangular" size="medium" link="none" ids="22883,22880,22879"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+  meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
+  [Transparenz-Seite](/werbung/). _
+
+  

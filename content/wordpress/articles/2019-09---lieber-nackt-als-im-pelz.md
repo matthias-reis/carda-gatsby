@@ -4,11 +4,9 @@ seoTitle: '"Lieber nackt als im Pelz" - 25 Jahre Lieblingsplakat'
 slug: lieber-nackt-als-im-pelz
 link: /2019/09/lieber-nackt-als-im-pelz/
 fileName: 2019-09---lieber-nackt-als-im-pelz.md
-description:
-  Es ist jetzt 25 Jahre her, seit mir zum ersten Mal die berühmte
+description: Es ist jetzt 25 Jahre her, seit mir zum ersten Mal die berühmte
   Pelzfrei-Kampagne "Lieber nackt als im Pelz" von PETA aufgefallen ist.
-excerpt:
-  Es ist jetzt 25 Jahre her, seit mir zum ersten Mal die berühmte
+excerpt: Es ist jetzt 25 Jahre her, seit mir zum ersten Mal die berühmte
   Pelzfrei-Kampagne "Lieber nackt als im Pelz" von PETA aufgefallen ist.
 focusKeyword: lieber nackt als im Pelz
 labels:
@@ -43,13 +41,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "25938"
+image: /img/demo.jpg
+errors: []
 subTitle: 25 Jahre Lieblingsplakat
+  
 ---
 
-<strong>Wahnsinn, oder? Es ist schon 25 Jahre her, seit mir zum ersten Mal die
+**Wahnsinn, oder? Es ist schon 25 Jahre her, seit mir zum ersten Mal die
 berühmte Pelzfrei-Kampagne von PETA aufgefallen ist. Damals sorgte ein ganz
 besonderes Plakat, auf dem unter anderen Naomi Campbell gegen Echtpelz posierte,
-für Furore.</strong>
+für Furore.**
 
 Ich weiß noch, dass ich seit ich das Plakat das erste Mal gesehen hatte, jeden
 Schnipsel zur Kampagne gesammelt habe. Die Message, die PETA damit aussendete,
@@ -130,13 +131,16 @@ mehr als wichtig.
 
 Übrigens war 1994 ein äußerst spannendes Jahr. Zu diesem Thema entsteht derzeit
 ein Artikel, den ich bald mit Euch teilen werde. Also bleibt am besten dran.
-<strong>Quelle</strong>
+**Quelle**
 
 [PETA](https://www.peta.de/lieber-nackt-als-im-pelz-neuauflage-kultmotiv-1994)
 
-<strong>Fotos</strong>
+**Fotos**
 
-<ul>
-    <li>Aktuelle Kampagne: Emily Lucia Harnack, Svenja Holtmann, Lara Koch, Roxi Heltriegel und Kathie Lam / © Nela König für  [PETA](https://www.peta.de/lieber-nackt-als-im-pelz-neuauflage-kultmotiv-1994) </li>
-    <li>Kampagne 2019: Emma Sjöberg, Tatjana Patitz, Heather Stewart-Whyte, Fabienne Terwinghe und Naomi Campbell / © Patrick Demarchelier für PETA</li>
-</ul>
+- Aktuelle Kampagne: Emily Lucia Harnack, Svenja Holtmann, Lara Koch, Roxi
+  Heltriegel und Kathie Lam / © Nela König für
+  [PETA](https://www.peta.de/lieber-nackt-als-im-pelz-neuauflage-kultmotiv-1994)
+- Kampagne 2019: Emma Sjöberg, Tatjana Patitz, Heather Stewart-Whyte, Fabienne
+  Terwinghe und Naomi Campbell / © Patrick Demarchelier für PETA
+
+  

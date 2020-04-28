@@ -4,12 +4,10 @@ seoTitle: Open Island 2.0 - Neuer Lebensraum auf Recyclingplattformen
 slug: open-island
 link: /2018/04/open-island/
 fileName: 2018-04---open-island-2-0.md
-description:
-  Habt Ihr schon mal was vom Open Island gehört? Es ist ein Projekt zur
-  Schaffung neuer Lebensräume. Auf dem Ferropolis Gelände entsteht eine
+description: Habt Ihr schon mal was vom Open Island gehört? Es ist ein Projekt
+  zur Schaffung neuer Lebensräume. Auf dem Ferropolis Gelände entsteht eine
   Forschungstation
-excerpt:
-  Habt Ihr schon mal was vom Open Island gehört? Es ist ein Projekt zur
+excerpt: Habt Ihr schon mal was vom Open Island gehört? Es ist ein Projekt zur
   Schaffung neuer Lebensräume. Auf dem Ferropolis Gelände entsteht jetzt eine
   Forschungstation.
 focusKeyword: Open Island
@@ -40,12 +38,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20572"
+image: /img/demo.jpg
+errors: []
 subTitle: Neuer Lebensraum auf Recyclinginseln
+  
 ---
 
-<strong>Habt Ihr den Namen Open Island schon mal gehört? Dabei handelt es sich
-um Schwimminseln zum selbst zusammenbauen. Sie werden aus Recyclingmaterialien
-hergestellt und können weltweit eingesetzt werden.</strong>
+**Habt Ihr den Namen Open Island schon mal gehört? Dabei handelt es sich um
+Schwimminseln zum selbst zusammenbauen. Sie werden aus Recyclingmaterialien
+hergestellt und können weltweit eingesetzt werden.**
 
 Am Gremminer See auf dem Ferropolis Festivalgelände soll jetzt über Pfingsten im
 Rahmen des Makers for Humanity Lab der Prototyp des Open Island 2.0 zu Wasser
@@ -120,3 +121,5 @@ gesellschaftlichen Wandel und Zukunftsorientierung.
 
 Weitere Infos findet Ihr auf der [Homepage](http://open-island.de/) des
 Projekts.
+
+  

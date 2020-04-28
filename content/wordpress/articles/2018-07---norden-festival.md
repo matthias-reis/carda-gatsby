@@ -4,11 +4,10 @@ seoTitle: Norden Festival - Neues Open Air Event in den Startlöchern!
 slug: norden-festival
 link: /2018/07/norden-festival/
 fileName: 2018-07---norden-festival.md
-description:
-  Vom 30. August bis einschließlich 16. September wird auf den Königswiesen
-  erstmalig das NORDEN Festival stattfinden. Ich verlose 4 Gästelistenplätze!
-excerpt:
-  Werbung -  Vom 30. August bis einschließlich 16. September wird auf den
+description: Vom 30. August bis einschließlich 16. September wird auf den
+  Königswiesen erstmalig das NORDEN Festival stattfinden. Ich verlose 4
+  Gästelistenplätze!
+excerpt: Werbung -  Vom 30. August bis einschließlich 16. September wird auf den
   Königswiesen erstmalig das NORDEN Festival stattfinden. Ich verlose 4
   Gästelistenplätze!
 focusKeyword: NORDEN Festival
@@ -38,10 +37,13 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21333"
+image: /img/demo.jpg
+errors: []
 subTitle: Neues Open Air Event steht in den Startlöchern
+  
 ---
 
-<em>\*Werbung</em>
+_\*Werbung_
 
 <hr />
 
@@ -50,10 +52,9 @@ Hinweis: Die Aktion ist beendet.
 
 <hr />
 
-<strong>Vom 30. August bis einschließlich 16. September wird auf den
-Königswiesen erstmalig das NORDEN Festival stattfinden. Drei Wochen lang sind
-dort Kunst und Kultur aus dem europäischen Ostseeraum und Schleswig-Holstein zu
-sehen.</strong>
+**Vom 30. August bis einschließlich 16. September wird auf den Königswiesen
+erstmalig das NORDEN Festival stattfinden. Drei Wochen lang sind dort Kunst und
+Kultur aus dem europäischen Ostseeraum und Schleswig-Holstein zu sehen.**
 
 ![NORDEN Festival](http://cardamonchai.com/wp-content/uploads/2018/07/Fintango-Duo-promo-by-Antti-Sepponen-400x267.jpeg "Das Fintango Duo Antti Sepponen")
 
@@ -115,6 +116,8 @@ ids="21331,21330,21328,21327"]
 
 <small>Fotos: NORDEN Festival</small>
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

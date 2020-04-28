@@ -4,12 +4,11 @@ seoTitle: Aubergine mit Bohnen-Bratkartoffeln - vegan
 slug: aubergine-mit-bohnen-bratkartoffeln
 link: /2020/02/aubergine-mit-bohnen-bratkartoffeln/
 fileName: 2020-02---aubergine-mit-bohnen-bratkartoffeln.md
-description:
-  Heute verrät uns Matze sein grandioses Rezept für geschmorte Aubergine mit mit
-  Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim Schlemmen.
-excerpt:
-  Heute verrät uns Matze sein grandioses Rezept für geschmorte Aubergine mit mit
-  Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim Schlemmen.
+description: Heute verrät uns Matze sein grandioses Rezept für geschmorte
+  Aubergine mit mit Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim
+  Schlemmen.
+excerpt: Heute verrät uns Matze sein grandioses Rezept für geschmorte Aubergine
+  mit mit Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim Schlemmen.
 focusKeyword: Aubergine
 labels:
   - Ackerbohnen
@@ -32,12 +31,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "27499"
+image: /img/demo.jpg
+errors: []
 subTitle: Veganes Rezept für zwei Personen
+  
 ---
 
-<strong>Vor Kurzem hat Matze mich mal wieder mit einem ganz wunderbaren Gericht
+**Vor Kurzem hat Matze mich mal wieder mit einem ganz wunderbaren Gericht
 beglückt. Im Anschluss musste ich ihn einfach darum bitten, das Rezept für mich
-aufzuschreiben. Ich möchte es heute mit Euch teilen.</strong>
+aufzuschreiben. Ich möchte es heute mit Euch teilen.**
 
 Alle Liebhaber⋆innen guter veganer Hausmannskost mit Bohnen, Kartoffeln,
 Auberginen und viel Liebe werden voll auf ihre Kosten kommen. Ich wünsche Euch
@@ -46,16 +48,14 @@ Komponenten: der geschmorten Aubergine und den Bohnen-Bratkartoffeln.
 
 ## Zutaten für die Bohnen-Bratkartoffeln
 
-<ul>
-    <li>500 g Kartoffeln</li>
-    <li>180 g getrocknete Ackerbohnen (auch "Saubohnen" genannt)</li>
-    <li>etwas Mehl</li>
-    <li> [Paprika Edelsüß](/2020/02/das-kraeuterkontor-im-test/) </li>
-    <li>Cayennepfeffer oder Chiliflocken (je nach gewünschtem Schärfegrad)</li>
-    <li>ein Schuss Essig</li>
-    <li>Salz</li>
-    <li>Kümmel</li>
-</ul>
+- 500 g Kartoffeln
+- 180 g getrocknete Ackerbohnen (auch "Saubohnen" genannt)
+- etwas Mehl
+- [Paprika Edelsüß](/2020/02/das-kraeuterkontor-im-test/)
+- Cayennepfeffer oder Chiliflocken (je nach gewünschtem Schärfegrad)
+- ein Schuss Essig
+- Salz
+- Kümmel
 
 In der fleischlosen Küche kann man sich heutzutage leicht mit Fleischersatz
 behelfen, um den täglichen Eiweißbedarf zu decken. Bohnen und andere
@@ -93,20 +93,21 @@ Kartoffel-Bohnen-Rösterei darf also durchaus etwas Farbe abbekommen.
 
 ## Zutaten Schmor-Aubergine
 
-<ul>
-    <li>Eine große Aubergine</li>
-    <li>400 g Dosentomaten (achtet beim Kauf auf gute Qualität - die Tomaten werden später mit geschmort)</li>
-    <li>1 kleine bis mittelgroße Speisezwiebel</li>
-    <li>2 Frische Tomaten</li>
-    <li>1 EL Tomatenmark</li>
-    <li>1 EL Paprikamark (das findet Ihr in großen Gläsern im türkischen Supermarkt Eures Vertrauens. Achtung: meistens ist es bereits leicht scharf)</li>
-    <li>Blattpetersilie</li>
-    <li>Basilikum (Der kann ruhig getrocknet sein. Es gilt aber: je frischer, desto mehr Aroma)</li>
-    <li>Balsamico-Essig</li>
-    <li>Sojasauce</li>
-    <li>Salz</li>
-    <li>Pfeffer</li>
-</ul>
+- Eine große Aubergine
+- 400 g Dosentomaten (achtet beim Kauf auf gute Qualität - die Tomaten werden
+  später mit geschmort)
+- 1 kleine bis mittelgroße Speisezwiebel
+- 2 Frische Tomaten
+- 1 EL Tomatenmark
+- 1 EL Paprikamark (das findet Ihr in großen Gläsern im türkischen Supermarkt
+  Eures Vertrauens. Achtung: meistens ist es bereits leicht scharf)
+- Blattpetersilie
+- Basilikum (Der kann ruhig getrocknet sein. Es gilt aber: je frischer, desto
+  mehr Aroma)
+- Balsamico-Essig
+- Sojasauce
+- Salz
+- Pfeffer
 
 ## Zubereitung Schmor-Aubergine
 
@@ -128,3 +129,5 @@ Minuten. Eventuell stellt Ihr den Herd während der letzten drei Minuten auf
 "grillen" um. Das sorgt für noch mehr Röstaroma. Guten Appetit!
 
 [glry name="auberginen-bohnen-bratkartoffeln"]
+
+  

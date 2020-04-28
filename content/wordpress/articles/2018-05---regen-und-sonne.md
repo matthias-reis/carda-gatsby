@@ -4,12 +4,11 @@ seoTitle: Regen und Sonne - Kleine Dystopie - Worte zum Klimawandel
 slug: regen-und-sonne
 link: /2018/05/regen-und-sonne/
 fileName: 2018-05---regen-und-sonne.md
-description:
-  Der Strom kommt aus Generatoren. Heute kein Regen. Keine Angst vor der Zukunft
-  im klimatisierten Wagen. Wie lange kann das noch so weitergehen?
-excerpt:
-  Der Strom kommt aus Generatoren. Scheibchen für Scheibchen. Keine Angst vor
+description: Der Strom kommt aus Generatoren. Heute kein Regen. Keine Angst vor
   der Zukunft im klimatisierten Wagen. Wie lange kann das noch so weitergehen?
+excerpt: Der Strom kommt aus Generatoren. Scheibchen für Scheibchen. Keine Angst
+  vor der Zukunft im klimatisierten Wagen. Wie lange kann das noch so
+  weitergehen?
 focusKeyword: Regen
 labels:
   - Atomkraft
@@ -35,7 +34,10 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21095"
+image: /img/demo.jpg
+errors: []
 subTitle: Kleine Dystopie
+  
 ---
 
 Treibstoff für die Zukunft Wunderbares Leben
@@ -70,3 +72,5 @@ Blätterdach
 Aus der grauen Wand des alten Meilers winden sich junge Ranken Saftig und grün
 
 Dort oben fliegt ein Vogel Erst rückwärts und dann vorwärts
+
+  

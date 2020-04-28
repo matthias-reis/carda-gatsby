@@ -4,12 +4,10 @@ seoTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
 slug: the-thread-that-keeps-us-calexico
 link: /2018/01/the-thread-that-keeps-us-calexico/
 fileName: 2018-01---the-thread-that-keeps-us-ist-da.md
-description:
-  Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico
-  schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig
-  gelungen!
-excerpt:
-  Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico
+description: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten
+  Calexico schaffen und das ist der Band mit "The Thread That Keeps Us"
+  eindeutig gelungen!
+excerpt: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico
   schaffen und das ist der Band mit "The Thread That Keeps Us" eindeutig
   gelungen!
 focusKeyword: The Thread That Keeps Us
@@ -39,13 +37,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18145"
+image: /img/demo.jpg
+errors: []
 subTitle: Die neue Platte von Calexico rockt!
+  
 ---
 
-<strong>Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico
+**Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten Calexico
 schaffen und das ist der Band mit "The Thread That Keeps Us" definitiv gelungen!
 Schon die Vorauskopplungen
-"[Tucson Dessert Rocker](/2017/10/calexico-the-thread-that-keeps-us/). </strong>
+"[End Of The World With You](/2017/10/calexico-the-thread-that-keeps-us/)" und
+"[Voices In The Field](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)"
+ließen die Herzen der Fans höher schlagen und machten Hoffnung auf ein weiteres
+sensationelles Album der
+[Tucson Dessert Rocker](/2009/07/calexico-live-muffathalle-munchen/). **
 
 ![The Thread That Keeps Us](http://cardamonchai.com/wp-content/uploads/2018/01/The-Thread-300x300.jpg)
 
@@ -67,7 +72,9 @@ Der erste Song ist die 2017 bereits als Teaser veröffentlichte Single "End Of
 The World With You". Ein Zitat aus meiner
 [Rezension](/2017/10/calexico-the-thread-that-keeps-us/) dazu:
 
-<blockquote>"Der Text zur wirklich eher locker flockig wirkenden Melodie ist streckenweise sehr nachdenklich. Von kalten Kriegen wird da erzählt, der Liebe im Zeitalter der Extreme und dem Ende der Welt. Doch am Ende gibt es einen Weg."</blockquote>
+> "Der Text zur wirklich eher locker flockig wirkenden Melodie ist streckenweise
+> sehr nachdenklich. Von kalten Kriegen wird da erzählt, der Liebe im Zeitalter
+> der Extreme und dem Ende der Welt. Doch am Ende gibt es einen Weg."
 
 ## "Voices In The Field" - Das Album nimmt Fahrt auf
 
@@ -153,20 +160,20 @@ teile sie hier mit Euch.
 
 ## Calexico Wegweiser
 
-<ol>
-    <li> [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/) </li>
-    <li> [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/) </li>
-    <li> [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/) </li>
-    <li> [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/) </li>
-    <li> [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/) </li>
-    <li> [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/) </li>
-    <li> [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/) </li>
-    <li> [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/) </li>
-    <li> [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/) </li>
-    <li> [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/) </li>
-    <li> [Calexico stellen neue Single "End Of The World With You vor](/2017/10/calexico-the-thread-that-keeps-us/) </li>
-    <li>"The Thread That Keeps Us" ist da - Das neue Calexico Album rockt!</li>
-</ol>
+1.  [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
+1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
+1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
+1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
+1.  [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/)
+1.  [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/)
+1.  [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/)
+1.  [bringen neues Album "Edge Of The Sun" raus 14.04.2015](/2015/04/calexico-edge-of-the-sun-ist-da/)
+1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
+1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
+1.  [Calexico stellen neue Single "End Of The World With You vor](/2017/10/calexico-the-thread-that-keeps-us/)
+1.  "The Thread That Keeps Us" ist da - Das neue Calexico Album rockt!
 
 Zur Homepage von Calexico geht es
 [hier entlang](http://www.casadecalexico.com/).
+
+  

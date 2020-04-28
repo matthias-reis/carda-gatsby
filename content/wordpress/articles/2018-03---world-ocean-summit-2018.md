@@ -4,12 +4,12 @@ seoTitle: World Ocean Summit 2018 - Aufruf zur Säuberung der Meere
 slug: world-ocean-summit-2018
 link: /2018/03/world-ocean-summit-2018/
 fileName: 2018-03---world-ocean-summit-2018.md
-description:
-  Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter erhitzt -
-  In Mexico trafen sich Aktivisten und Politiker zur World Ocean Summit 2018.
-excerpt:
-  Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter erhitzt -
-  In Mexico trafen sich Aktivisten und Politiker zur World Ocean Summit 2018.
+description: Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter
+  erhitzt - In Mexico trafen sich Aktivisten und Politiker zur World Ocean
+  Summit 2018.
+excerpt: Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter
+  erhitzt - In Mexico trafen sich Aktivisten und Politiker zur World Ocean
+  Summit 2018.
 focusKeyword: World Ocean Summit
 labels:
   - Klima & Umweltschutz
@@ -31,28 +31,31 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20136"
+image: /img/demo.jpg
+errors: []
 subTitle: Aufruf zur Säuberung der Meere
+  
 ---
 
-<strong>Mehr als 400 Entscheider, darunter Präsidenten, Konzernchefs und
+**Mehr als 400 Entscheider, darunter Präsidenten, Konzernchefs und
 Umweltaktivisten, haben sich in Mexico getroffen. Ihr erklärtes Ziel: Endlich
-den Weg zur einem nachhaltigeren Umgang mit den Weltmeeren
-einzuschlagen.</strong>
+den Weg zur einem nachhaltigeren Umgang mit den Weltmeeren einzuschlagen.**
 
-<em>Cancún, Mexiko -</em> Die Weltmeere leiden. Es muss dringend eine Lösung
-her, um sie von gefährlichen Kunststoffen zu befreien. Davon könnten schon bald
-mehr im Wasser schwimmen, als Fische. Deren Heimat ist durch unsere Abfälle seit
-Jahren stark bedroht. Acht Millionen Tonnen Plastik werden jedes Jahr in den
-Ozean geworfen oder gelangen auf Umwegen dorthin.
+_Cancún, Mexiko -_ Die Weltmeere leiden. Es muss dringend eine Lösung her, um
+sie von gefährlichen Kunststoffen zu befreien. Davon könnten schon bald mehr im
+Wasser schwimmen, als Fische. Deren Heimat ist durch unsere Abfälle seit Jahren
+stark bedroht. Acht Millionen Tonnen Plastik werden jedes Jahr in den Ozean
+geworfen oder gelangen auf Umwegen dorthin.
 
 ![World Ocean Summit](http://cardamonchai.com/wp-content/uploads/2018/03/plastic-1433138_960_720-400x300.jpg)
 
-vermutet, dass bereits 51 Milliarden Tonnen Mikroplastikpartikel im Meer
-schwimmen. Diese stammen beispielsweise aus Reinungsmitteln wie Duschgels und
-Zahnpasta sowie dem Abwasser aus unseren Waschmaschinen. Wäscht man zum Beispiel
-Kleidung aus Fleece oder Mikrofaser, lösen sich bei jedem Waschgang feinste
-Partikel, die sich in Gewässern mit anderen Mikroplastikpartikeln zu
-regelrechten Teppichen vereinigen.
+Das Umweltprogramm der **Vereinten Nationen** vermutet, dass bereits 51
+Milliarden Tonnen Mikroplastikpartikel im Meer schwimmen. Diese stammen
+beispielsweise aus Reinungsmitteln wie Duschgels und Zahnpasta sowie dem
+Abwasser aus unseren Waschmaschinen. Wäscht man zum Beispiel Kleidung aus Fleece
+oder Mikrofaser, lösen sich bei jedem Waschgang feinste Partikel, die sich in
+Gewässern mit anderen Mikroplastikpartikeln zu regelrechten Teppichen
+vereinigen.
 
 Vergleicht man Plastik mit anderen Materialien, wird schnell klar, warum davon
 eine so große Gefahr ausgeht. Angelschnur zersetzt sich beispielsweise erst nach
@@ -68,8 +71,8 @@ die Millionen Menschen, die in der Nähe der Ozeane leben und/oder Fisch
 konsumieren, sind betroffen.
 
 Angesichts dieser weiterhin zunehmenden Probleme versammelten sich auf dem
-<strong>World Ocean Summit</strong> in Playa del Carmen (Mexiko) führende
-Politiker und Entscheider. Darunter waren auch Präsidenten verschiedener Länder,
+**World Ocean Summit** in Playa del Carmen (Mexiko) führende Politiker und
+Entscheider. Darunter waren auch Präsidenten verschiedener Länder,
 Geschäftsführer von Unternehmen und Vertreter der Vereinten Nationen. Gemeinsam
 diskutieren sie, wie das offensichtliche Probleme anzugehen ist.
 
@@ -90,8 +93,11 @@ sowie den Aufruf, endlich zu handeln, bevor es zu spät ist.
 <iframe src="https://www.youtube.com/embed/CEkN1sXdnGk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Die Dokumentation steht in verschiedenen Formaten
-[bei YouTube verfügbar](https://www.digitalnewsagency.com/stories/12080).
+[zum Download bereit](https://www.digitalnewsagency.com/stories/12080) und ist
+auch [bei YouTube verfügbar](https://www.youtube.com/watch?v=CEkN1sXdnGk).
 
-<strong>Quelle:</strong> [TVC Group](https://tvcgroup.com/)
-<strong>Bilder:</strong> Titel: 
-[Sandra Altherr](https://pixabay.com/en/users/hhach-146898/), Pixabay
+**Quelle:** [TVC Group](https://tvcgroup.com/) **Bilder:** Titel: 
+[hhach](https://pixabay.com/en/users/hhach-146898/), Pixabay, rechts im Text: 
+[Sandra Altherr](https://pixabay.com/en/users/SandraAltherr-2687031/), Pixabay
+
+  

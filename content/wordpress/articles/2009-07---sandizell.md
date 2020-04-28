@@ -4,11 +4,9 @@ seoTitle: Sandizell - Wasserschloss in Altbayern
 slug: sandizell
 link: /2009/07/sandizell/
 fileName: 2009-07---sandizell.md
-description:
-  Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der
+description: Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der
   Benediktinerinnen aus Neuburg an der Donau erwähnt.
-excerpt:
-  Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der
+excerpt: Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der
   Benediktinerinnen aus Neuburg an der Donau erwähnt.
 focusKeyword: Sandizell
 labels:
@@ -25,18 +23,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11392"
+image: /img/demo.jpg
+errors: []
 subTitle: Wasserschloss in Altbayern
+  
 ---
 
-<p id="articleContent"><strong>Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der Benediktinerinnen aus Neuburg an der Donau erwähnt. Der Name war damals "Sandicelle". Das bedeutet soviel wie "Siedlung bei der sandigen Zelle". </strong></p>
-
-Mit <strong>Sandizell</strong> verbindet sich der Name eines alten bayerischen
+Mit **Sandizell** verbindet sich der Name eines alten bayerischen
 Adelsgeschlechts, dass sich bis auf das Mittelalter zurückverfolgen lässt und
 dessen Spuren man bis heute nachverfolgen kann.
 
 ![Schloss Sandizell](http://cardamonchai.com/wp-content/uploads/2009/07/11531355705_54d0ae0f07_z.jpg)
 
-## Altbayerischer Uradel in Sandizell<strong>.
+## Altbayerischer Uradel in Sandizell \_**\_ Die Herren von Sandizell gehören zum Altbayerischen Uradel. Sie gehören zu den ältesten noch blühenden Ministerialgeschlechtern aus der Zeit der **Grafen von Scheyern\_\_ .
 
 Das Wasserschloss Sandizell ist das Stammhaus der Grafen von Sandizell. Schloss
 Sandizell wurde um 1580 als Dreiflügelanlage im Renaissancestil ausgebaut, diese
@@ -72,12 +71,14 @@ Im Jahre 1971 wurde Sandizell von der Stadt Schrobenhausen eingemeindet. Zur
 Zeit hat Sandizell zusammen mit seinen ehemaligen Teilen Gollingkreut und Öd ca.
 950 Einwohner.
 
-<em><strong>\*Hofmark:</strong> Begriff aus dem mittelalterlichen Herzogtum
-Bayern und angrenzenden Gebieten. Er bezeichnet den abgegrenzten Bezirk einer
+_ **\*Hofmark:** Begriff aus dem mittelalterlichen Herzogtum Bayern und
+angrenzenden Gebieten. Er bezeichnet den abgegrenzten Bezirk einer
 Grundherrschaft, Rechtsgrundlage hierfür war die "Ottonische Handfeste" vom 5.
 Juni 1311, in der die niederbayerischen Stände dem Herzog Otto III. eine
 einmalige Steuer bewilligten, dafür aber die niedere Gerechtigkeit für ihre
-Besitzungen erhielten.</em><strong> Quellen:</strong>
-[http://www.sandizell-com.de/](http://www.wikipedia.de/)
-<span style="text-decoration: underline;">[glry name="annesandizell2009"]
-</span>
+Besitzungen erhielten._ **Quellen:**
+[http://www.wikipedia.de](http://www.wikipedia.de/)
+[http://www.sandizell-com.de/](http://www.sandizell-com.de/) [glry
+name="annesandizell2009"]
+
+  

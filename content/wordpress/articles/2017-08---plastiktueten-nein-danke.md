@@ -4,12 +4,11 @@ seoTitle: Plastiktüten - Nein danke! Kenia greift in Sachen Umweltschutz durch
 slug: kenia-sagt-plastiktueten-nein-danke
 link: /2017/08/kenia-sagt-plastiktueten-nein-danke/
 fileName: 2017-08---plastiktueten-nein-danke.md
-description:
-  Herstellern von Plastiktüten drohen in Kenia seit gestern bis zu vier Jahre
-  Gefängnis. Ein neues Gesetz verbietet Herstellung, Verkauf und Import.
-excerpt:
-  Herstellern von Plastiktüten drohen in Kenia seit gestern bis zu vier Jahre
-  Gefängnis. Ein neues Gesetz verbietet Herstellung, Verkauf und Import.
+description: Herstellern von Plastiktüten drohen in Kenia seit gestern bis zu
+  vier Jahre Gefängnis. Ein neues Gesetz verbietet Herstellung, Verkauf und
+  Import.
+excerpt: Herstellern von Plastiktüten drohen in Kenia seit gestern bis zu vier
+  Jahre Gefängnis. Ein neues Gesetz verbietet Herstellung, Verkauf und Import.
 focusKeyword: Plastiktüten
 labels:
   - Kenia
@@ -37,12 +36,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "17749"
+image: /img/demo.jpg
+errors: []
 subTitle: Kenia greift in Sachen Umweltschutz durch
+  
 ---
 
-<strong>Herstellern von Plastiktüten drohen in Kenia seit gestern bis zu vier
-Jahre Gefängnis. Ein neues Gesetz verbietet den Verkauf, die Herstellung und den
-Import rigoros.</strong>
+**Herstellern von Plastiktüten drohen in Kenia seit gestern bis zu vier Jahre
+Gefängnis. Ein neues Gesetz verbietet den Verkauf, die Herstellung und den
+Import rigoros.**
 
 Damit hat Kenia das weltweit schärfste Gesetz zur
 [Eindämmung der Plastikflut](/2017/04/interview-mit-zero-waste-aktivistin-vio/)
@@ -70,8 +72,8 @@ danken.
 ## 100.000 Meerestiere fallen jährlich dem Plastikmüll zum Opfer
 
 Wenn sie es schaffen, dass die Massen wirklich deutlich weniger werden. Laut
-<em>Sea Shepherd</em> sterben jährlich über eine Million Vögel und 100.000
-Meerestiere an Plastikmüll.
+_Sea Shepherd_ sterben jährlich über eine Million Vögel und 100.000 Meerestiere
+an Plastikmüll.
 
 Im Moment geht die Tierrechts- und Umweltschutzorganisation von 100 bis 150
 Millionen Tonnen Müll in den Weltmeeren aus. Zu den Plastiktüten kommen diverse
@@ -99,3 +101,5 @@ besten betreiben?
 [myflickr tag="annekeniamüll"]
 
 Sea Sheperd [findet Ihr online übrigens hier](http://www.seashepherd.org/).
+
+  

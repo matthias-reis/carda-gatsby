@@ -4,13 +4,11 @@ seoTitle: Metamorphose - Die Fliege - Prosa
 slug: metamorphose
 link: /2014/08/metamorphose/
 fileName: 2014-08---metamorphose.md
-description:
-  Metamorphose - Die Fliege - "Tage, an denen Du am Fenster gesessen und auf die
-  Straße gestarrt hast..." - Prosa für zwischendurch
-excerpt:
-  Und dann gibt es eines Tages plötzlich ein Gewitter und die Fliegen sind weg.
-  Spurlos verschwunden, als wären sie nie dagewesen. Die Luft ist klar. Wie
-  frisch gewaschen.
+description: Metamorphose - Die Fliege - "Tage, an denen Du am Fenster gesessen
+  und auf die Straße gestarrt hast..." - Prosa für zwischendurch
+excerpt: Und dann gibt es eines Tages plötzlich ein Gewitter und die Fliegen
+  sind weg. Spurlos verschwunden, als wären sie nie dagewesen. Die Luft ist
+  klar. Wie frisch gewaschen.
 focusKeyword: Metamorphose
 labels:
   - alleine
@@ -36,12 +34,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "8166"
+image: /img/demo.jpg
+errors: []
 subTitle: Die Fliege
+  
 ---
-
-<strong>Und dann gibt es eines Tages plötzlich ein Gewitter und die Fliegen sind
-weg. Spurlos verschwunden, als wären sie nie dagewesen. Die Luft ist klar. Wie
-frisch gewaschen.</strong>
 
 ![Metamorphose](http://cardamonchai.com/wp-content/uploads/2014/08/14895594333_2900fb7150_z-640x480.jpg)
 
@@ -62,4 +59,6 @@ nicht. Doch sie bewundern Dich für Deine innere Ruhe und Deine Ausgeglichenheit
 Oder sie werfen Dir nur fragende, verständnislose Blicke zu. Aber das stört Dich
 nun nicht mehr.
 
-<em>Bild und Text: Anne</em>
+_Bild und Text: Anne_
+
+  

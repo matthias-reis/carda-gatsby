@@ -4,12 +4,10 @@ seoTitle: Antworten aus einer Unterhaltung - Zwei Bücherwürmer im Gespräch
 slug: antworten-aus-einer-unterhaltung
 link: /2011/07/antworten-aus-einer-unterhaltung
 fileName: 2011-07---antworten-aus-einer-unterhaltung.md
-description:
-  Gespräche über Bücher können sich für außenstehende schon mal abstrakt
-  anhören. Was gibt es da alles zu kritisieren, zu bewerten und natürlich zu
-  bewundern!
-excerpt:
-  Gespräche über Bücher können sich für außenstehende schon mal abstrakt
+description: Gespräche über Bücher können sich für außenstehende schon mal
+  abstrakt anhören. Was gibt es da alles zu kritisieren, zu bewerten und
+  natürlich zu bewundern!
+excerpt: Gespräche über Bücher können sich für außenstehende schon mal abstrakt
   anhören. Was gibt es da alles zu kritisieren, zu bewerten und natürlich zu
   bewundern! Hier ein paar Antworten.
 focusKeyword: Antwort
@@ -42,10 +40,11 @@ status: draft
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11586"
+image: /img/demo.jpg
+errors: []
 subTitle: Wenn sich zwei Bücherwürmer austauschen
+  
 ---
-
-<table border="0" width="510" cellpadding="0"><tbody><tr><td width="32"><em>von</em></td><td>Anne</td></tr><tr><td width="32"><em>an</em></td><td>XXX</td></tr><tr><td width="32"><em>am</em></td><td>01.07.2011 11:10</td></tr><tr><td></td><td></td></tr></tbody></table>
 
 So ein paar ausgewählte Bücher gibt es schon, die ich noch ein zweites oder
 drittes Mal lesen würde. Da sind jetzt vielleicht nicht unbedingt Krimis. Das
@@ -61,7 +60,7 @@ ja auch gar nicht der Fall sein, mal sehen.
 Im Allgemeinen hast Du schon recht, Aufwärmen ist nicht immer toll. Aber es gibt
 einige Gerichte, die schmecken erst beim 2. Mal erwärmen richtig gut! ^^
 
-## Noch eine Antwort<table border="0" width="510" cellpadding="0"><tbody><tr><td width="32"><em>von</em></td><td>Anne</td></tr><tr><td width="32"><em>an</em></td><td>XXX</td></tr><tr><td width="32"><em>am</em></td><td>01.07.2011 11:31</td></tr><tr><td></td><td></td></tr></tbody></table>
+## Noch eine Antwort<table border="0" width="510" cellpadding="0"><tbody><tr><td width="32"> _von_ </td><td>Anne</td></tr><tr><td width="32"> _an_ </td><td>XXX</td></tr><tr><td width="32"> _am_ </td><td>01.07.2011 11:31</td></tr><tr><td></td><td></td></tr></tbody></table>
 
 Das stimmt, Tolkien hat es da teilweise mit seinen Beschreibungen und
 Ausführungen schon etwas übertrieben. Teilweise möchte man Seiten einfach
@@ -78,7 +77,7 @@ Schlimme ist, nachdem ich die Filmfigur gesehen habe, kann ich mich an mein
 Bild, das ich damals beim Lesen der Bücher von ihm hatte, nicht mehr richtig
 erinnern...
 
-<table border="0" width="510" cellpadding="0"><tbody><tr><td width="46"><em></em><em>von</em></td><td>Anne</td></tr><tr><td width="46"><em>an</em></td><td>XXX</td></tr><tr><td width="46"><em>am</em></td><td>01.07.2011 11:47</td></tr><tr><td></td><td></td></tr></tbody></table>
+<table border="0" width="510" cellpadding="0"><tbody><tr><td width="46"> __  _von_ </td><td>Anne</td></tr><tr><td width="46"> _an_ </td><td>XXX</td></tr><tr><td width="46"> _am_ </td><td>01.07.2011 11:47</td></tr><tr><td></td><td></td></tr></tbody></table>
 
 Das stimmt, so ging es mir auch, als ich den Schinken ("Der Schwarm" von Frank
 Schätzling, Anm. d. Aut.) gelesen habe. Ganz schlimm finde ich das persönlich
@@ -97,4 +96,6 @@ wieder! Das spitzt sich zu bis ins Absurde. Sowas entsteht, wenn Bücher nur noc
 geschrieben werden, um den Vertrag mit dem Verlag zu erfüllen. Von Stephen King
 gibt es auch einige Werke dieser Art...
 
-<em>Auszüge aus einer Konversation per E-Mail vom 1. Juli 2011</em>
+_Auszüge aus einer Konversation per E-Mail vom 1. Juli 2011_
+
+  

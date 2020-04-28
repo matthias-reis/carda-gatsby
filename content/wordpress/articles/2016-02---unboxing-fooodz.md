@@ -4,13 +4,12 @@ seoTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
 slug: unboxing-fooodz-de
 link: /2016/02/unboxing-fooodz-de/
 fileName: 2016-02---unboxing-fooodz.md
-description:
-  Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und damit die
-  Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier der Bericht.
-excerpt:
-  Werbung - Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage und
-  damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier mein
-  Bericht.
+description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage
+  und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier
+  der Bericht.
+excerpt: Werbung - Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine
+  Anfrage und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu
+  testen. Hier mein Bericht.
 focusKeyword: Unboxing
 labels:
   - Fooodz
@@ -36,15 +35,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13860"
+image: /img/demo.jpg
+errors: []
 subTitle: Vegane Lebensmittel bestellen
+  
 ---
 
 Werbung\*
 
 ![Unboxing Fooodz](http://cardamonchai.com/wp-content/uploads/2016/02/Fooodz-Unboxing-7-640x345.jpg "Unboxing Fooodz")
 
-<strong>Vor Kurzem bekam ich eine nette Anfrage für ein Unboxing und damit die
-Möglichkeit, den veganen Online-Shop Fooodz.de aus Münster zu testen. </strong>
+**Vor Kurzem bekam ich eine nette Anfrage für ein Unboxing und damit die
+Möglichkeit, den veganen Online-Shop Fooodz.de aus Münster zu testen.**
 
 Leckeres Essen probieren und dann auch noch darüber berichten? Das sind zwei
 Dinge, die ich gerne mache, da lasse ich mich natürlich nicht zweimal bitten.
@@ -116,8 +118,8 @@ davon, natürlich meinen Geschmack.
 
 [gallery size="medium" link="none" ids="13859,13858,13878"]
 
-<blockquote>Schöne Tage - Nicht weinen, dass sie vergangen, sondern lächeln, dass sie gewesen.
-(Rabindranath Tagore)</blockquote>
+> Schöne Tage - Nicht weinen, dass sie vergangen, sondern lächeln, dass sie
+> gewesen. (Rabindranath Tagore)
 
 Außerdem lagen noch Flyer vom Erdlingshof und von Peta sowie die neueste Ausgabe
 von Vegan World und ein Gutschein für die nächste Bestellung bei.
@@ -222,8 +224,10 @@ Wer jetzt neugierig geworden ist, kann seinen Einkaufskorb auf
 Mein Unboxing der Wolkenseifen
 [findet Ihr hier](/2014/08/himmlische-dufte-ganz-ohne-plastik/).
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet
-Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
+meiner [Transparenz-Seite](/werbung/). _
+
+  

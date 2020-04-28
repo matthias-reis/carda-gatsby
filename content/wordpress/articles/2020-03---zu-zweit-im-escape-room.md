@@ -4,12 +4,11 @@ seoTitle: Zu zweit im Escape Room - unsere Challenge
 slug: zu-zweit-im-escape-room
 link: /2020/03/zu-zweit-im-escape-room/
 fileName: 2020-03---zu-zweit-im-escape-room.md
-description:
-  "Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie ist es
-  eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?"
-excerpt:
-  "Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie ist es
-  eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?"
+description: "Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie
+  ist es eigentlich zu zweit in einem Escape Room? Schafft man es da wieder
+  raus?"
+excerpt: "Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie ist
+  es eigentlich zu zweit in einem Escape Room? Schafft man es da wieder raus?"
 focusKeyword: Escape Room
 labels:
   - Ausflug
@@ -25,14 +24,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28576"
+image: /img/demo.jpg
+errors: []
 subTitle: Unsere Challenge
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Es war eine Nachricht von Escape Berlin vor ein paar Monaten, die mich
-auf eine Idee brachte: Wie ist es eigentlich zu zweit in einem Escape Room?
-Schafft man es da wieder raus?</strong>
+**Es war eine Nachricht von Escape Berlin vor ein paar Monaten, die mich auf
+eine Idee brachte: Wie ist es eigentlich zu zweit in einem Escape Room? Schafft
+man es da wieder raus?**
 
 Der Einladung, mir das größte Live Escape Theater Europas mal genauer
 anzuschauen, wollte ich gerne folgen. Das Abenteuer ließ sich nur allzu gut mit
@@ -130,10 +132,14 @@ erstmal feste umarmen.
 
 Wer neugierig geworden ist und gerne wissen möchte, was man bei Escape Berlin
 noch so alles erleben kann, schaut am besten
-[findet hier eine Übersicht](https://www.escape-berlin.de).
+[auf der Webseite](https://www.escape-berlin.de) vorbei. Wer Lust auf ein Escape
+Game bei sich in der Nähe hat,
+[findet hier eine Übersicht](http://escape-game.org/).
 
 [glry name="sherlock"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

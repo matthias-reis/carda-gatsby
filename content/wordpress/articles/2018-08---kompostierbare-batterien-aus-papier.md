@@ -4,13 +4,12 @@ seoTitle: Kompostierbare Batterien aus Papier - Nachhaltige Entwicklung
 slug: batterien-aus-papier
 link: /2018/08/batterien-aus-papier/
 fileName: 2018-08---kompostierbare-batterien-aus-papier.md
-description:
-  "Forscher aus den USA haben Batterien aus Papier entwickelt. Der Clou: Sie
-  können sich im Wasser vollständig auflösen und sind vollkommen ungiftig."
-excerpt:
-  "Anzeige & Affiliate Link - Forscher aus den USA haben Batterien aus Papier
-  entwickelt. Der Clou: Sie können sich im Wasser vollständig auflösen und sind
-  vollkommen ungiftig."
+description: "Forscher aus den USA haben Batterien aus Papier entwickelt. Der
+  Clou: Sie können sich im Wasser vollständig auflösen und sind vollkommen
+  ungiftig."
+excerpt: "Anzeige & Affiliate Link - Forscher aus den USA haben Batterien aus
+  Papier entwickelt. Der Clou: Sie können sich im Wasser vollständig auflösen
+  und sind vollkommen ungiftig."
 focusKeyword: Batterien aus Papier
 labels:
   - Batterien
@@ -31,16 +30,19 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21742"
+image: /img/demo.jpg
+errors: []
 subTitle: Nachhaltige Entwicklung endlich da
+  
 ---
 
-<em>Anzeige &amp; Affiliate Links\*</em>
+_Anzeige &amp; Affiliate Links\*_
 
-<strong>Fernbedienungen, Taschenlampen, Hörgeräte, Handys, Uhren, Radios: Für
-alles braucht man Batterien. Diese belasten irgendwann die Umwelt. Egal, ob
+**Fernbedienungen, Taschenlampen, Hörgeräte, Handys, Uhren, Radios: Für alles
+braucht man Batterien. Diese belasten irgendwann die Umwelt. Egal, ob
 Einwegzelle oder Akku. Das Material ist hochgiftig und wird meist unter
 schlimmen Arbeitsbedingungen in großen Minen abgebaut. Die Vereinten Nationen
-warnten bereits vor immer bedenklicher werdenden Umständen.</strong>
+warnten bereits vor immer bedenklicher werdenden Umständen.**
 
 ![](https://www.adcell.de/promotion/view/promoId/169185/slotId/80259)
 
@@ -91,11 +93,14 @@ würde.
 ![](https://www.adcell.de/promotion/view/promoId/169185/slotId/80259)
 
 [Tolle Accessoires aus recyceltem Papier](https://www.adcell.de/promotion/click/promoId/169185/slotId/80259?param0=https%3A%2F%2Fmargreblue.de%2Fprodukt-kategorie%2Faccessoires-aus-recycelten-papier%2F)
+](https://www.adcell.de/promotion/click/promoId/169217/slotId/80259/subId/httpsmargreblue.deprodukt-kategorieaccessoires-aus-recycelten-papier)
 
-\*<em>Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der
-Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält eine Anzeige und Affiliate Links. Der Inhalt
+  und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
 
-<strong>Quelle:</strong> Pressetext.com <strong>Titelbild</strong>:
+**Quelle:** Pressetext.com **Titelbild** :
 [andreas160578](https://pixabay.com/de/users/andreas160578-2383079/), pixabay
+
+  

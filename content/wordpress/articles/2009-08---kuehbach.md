@@ -4,12 +4,10 @@ seoTitle: Die Marktgemeinde Kühbach im Wandel der Geschichte
 slug: bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte
 link: /2009/08/bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte/
 fileName: 2009-08---kuehbach.md
-description:
-  Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und dem Paartal.
-  Das Wahrzeichen von Kühbach das Schloss Kühbach
-excerpt:
-  Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und
-  dem Paartal.
+description: Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und
+  dem Paartal. Das Wahrzeichen von Kühbach das Schloss Kühbach
+excerpt: Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg
+  und dem Paartal.
 focusKeyword: Kühbach
 labels:
   - Ausflug
@@ -24,11 +22,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "10835"
+image: /img/demo.jpg
+errors: []
 subTitle: Bayerische Gemütlichkeit
+  
 ---
-
-<strong>Der Markt Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg
-und dem Paartal. </strong>
 
 Das Wahrzeichen des Ortes ist die barocke Magnuskirche, deren Zwiebelturm
 weithin sichtbar ist. Der malerische Ortskern zeugt von der reichen Geschichte
@@ -102,11 +100,11 @@ ist.
 Die Marktgemeinde Kühbach ist ein wirklich malerischer Ort, ein Ausflug dorthin
 lohnt sich auf jeden Fall!
 
-<em>Wer gerne mehr über die Marktgemeinde Kühbach erfahren möchte, kann einfach
-[hier](http://schiltberg.vg-kuehbach.de/?id=0,2) klicken.</em>
+_Wer gerne mehr über die Marktgemeinde Kühbach erfahren möchte, kann einfach
+[hier](http://schiltberg.vg-kuehbach.de/?id=0,2) klicken._
 
 [myflickr tag="kuehbachanne"]
 
 &nbsp;
 
-<span style="text-decoration: underline;"></span>
+  

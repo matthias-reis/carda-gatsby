@@ -23,13 +23,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: null
+image: /img/demo.jpg
+errors:
+  - type: noSubtitle
+    message: no h2 heading found - no sub title
+  
 ---
 
-[](/2013/09/26/der-fall-des-chili-r/) Heute Morgen, ich kam gerade aus dem Bad,
-als mein Telefon klingelt. Die Praxis der Klinik, in der Chili operiert wurde.
-Ich gehe ran. Ein wütender Dr. B. ist am Telefon. Von einem Freund hätte er
-erfahren, ich hätte da was ins Internet gestellt. Ihn und die Praxis betreffend.
-Ich solle das bitte sofort löschen.
+[Hier geht es zu Teil 3 des Artikels](/2013/09/26/der-fall-des-chili-r/) Heute
+Morgen, ich kam gerade aus dem Bad, als mein Telefon klingelt. Die Praxis der
+Klinik, in der Chili operiert wurde. Ich gehe ran. Ein wütender Dr. B. ist am
+Telefon. Von einem Freund hätte er erfahren, ich hätte da was ins Internet
+gestellt. Ihn und die Praxis betreffend. Ich solle das bitte sofort löschen.
 
 Ich versuche ihm zu erklären, dass ich weder Namens- noch Ortsangaben verwendet
 habe. Doch er beharrt darauf. Er hätte das gerade kurz überflogen, da stünde Dr.
@@ -58,6 +63,6 @@ mal mit ihm alleine sein. Es gibt dort einen Wintergarten, in dem wir mit ihm
 spielen können. Dr. Erben wird dann so nach einer halben Stunde dazu kommen und
 sich mit uns unterhalten und uns alles erklären. Übers Wochenende wird Chili auf
 jeden Fall noch in der Klinik bleiben, dann sehen wir weiter.
-<span style="text-decoration:underline;">
 [Hier geht es zu einem Tagebucheintrag ein paar Wochen später](/2013/10/17/dieser-song-ist-fur-dich-herbstliche-schreibblockade/)
-</span>
+
+  

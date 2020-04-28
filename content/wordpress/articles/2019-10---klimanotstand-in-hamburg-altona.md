@@ -1,16 +1,15 @@
 ---
 title: Klimanotstand in Hamburg Altona?
-seoTitle:
-  Klimanotstand in Hamburg Altona - Politiker*innen rufen zum Handeln auf
+seoTitle: Klimanotstand in Hamburg Altona - Politiker*innen rufen zum Handeln auf
 slug: hamburg-altona-klimanotstand
 link: /2019/10/hamburg-altona-klimanotstand/
 fileName: 2019-10---klimanotstand-in-hamburg-altona.md
-description:
-  In unserem schönen Hamburger Stadtteil Altona wurde jüngst ein Antrag zur
-  Erklärung des Klimanotstandes gestellt. Das geht aus einer Drucksache hervor.
-excerpt:
-  In unserem schönen Hamburger Stadtteil Altona wurde jüngst ein Antrag zur
-  Erklärung des Klimanotstandes gestellt. Das geht aus einer Drucksache hervor.
+description: In unserem schönen Hamburger Stadtteil Altona wurde jüngst ein
+  Antrag zur Erklärung des Klimanotstandes gestellt. Das geht aus einer
+  Drucksache hervor.
+excerpt: In unserem schönen Hamburger Stadtteil Altona wurde jüngst ein Antrag
+  zur Erklärung des Klimanotstandes gestellt. Das geht aus einer Drucksache
+  hervor.
 focusKeyword: Klimanotstand
 labels:
   - Altona
@@ -32,18 +31,25 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26655"
+image: /img/demo.jpg
+errors: []
 subTitle: Politiker*innen rufen zum Handeln auf
+  
 ---
 
-<strong>In unserem schönen Hamburger Stadtteil Altona wurde jüngst ein Antrag
-zur Erklärung des Klimanotstandes gestellt. Das geht aus einer Drucksache
-vom 24. Oktober hervor.</strong>
+**In unserem schönen Hamburger Stadtteil Altona wurde jüngst ein Antrag zur
+Erklärung des Klimanotstandes gestellt. Das geht aus einer Drucksache vom 24.
+Oktober hervor.**
 
 Der Bezirk Altona fordert die Bundesregierung und den Senat dazu auf, umfassend
 über den Klimawandel, seine Ursachen und Auswirkungen sowie die notwendigen
 Maßnahmen dagegen zu informieren.
 
-<blockquote>"Klimaschutz gelingt gemeinsam. Wir fordern daher den Senat sowie die beteiligten Fachbehörden auf, die Klimakrise mittels einer Resolution als Klimanotstand anzuerkennen. Der Senat übermittelt diese Aufforderung seinerseits als Empfehlung an die anderen Hamburger Bezirksversammlungen sowie an Städte und Gemeinden der Metropolregion Hamburg.",</blockquote>
+> "Klimaschutz gelingt gemeinsam. Wir fordern daher den Senat sowie die
+> beteiligten Fachbehörden auf, die Klimakrise mittels einer Resolution als
+> Klimanotstand anzuerkennen. Der Senat übermittelt diese Aufforderung
+> seinerseits als Empfehlung an die anderen Hamburger Bezirksversammlungen sowie
+> an Städte und Gemeinden der Metropolregion Hamburg.",
 
 heißt es in der Veröffentlichung von Ende Oktober.
 
@@ -123,11 +129,17 @@ Autos fahren können. Das ist definitiv alles andere als fair. Weder der Natur
 noch uns selbst gegenüber. Wir sollten unseren Planeten mit mehr Respekt
 behandeln. Soviel steht fest.
 
-[Klimanotstandes](/2019/08/feuer-im-regenwald-amazonas/) für Altona zum
-gewünschten Ziel führen wird. Ich hoffe, dass sich möglichst viele Menschen
-dafür stark machen. Es freut mich, dass in meiner Umgebung viele Menschen laut
-sind, sich einsetzen und auf die Straße gehen. Für das Klima, für die Tiere und
-für die Zukunft der nächsten Generationen.
+[Der Regenwald brennt](/2019/08/feuer-im-regenwald-amazonas/). Die Eisbären
+verhungern und ertrinken. Eigentlich sollte uns das doch schon Warnung genug
+sein, oder? Wie schaffen wir es sogar noch das Offensichtliche, vor unseren
+Augen liegende zu verdrängen? Ich hoffe sehr, dass der Antrag für die Ausrufung
+des  [Klimanotstandes](/2018/10/underwater-hoa/) für Altona zum gewünschten Ziel
+führen wird. Ich hoffe, dass sich möglichst viele Menschen dafür stark machen.
+Es freut mich, dass in meiner Umgebung viele Menschen laut sind, sich einsetzen
+und auf die Straße gehen. Für das Klima, für die Tiere und für die Zukunft der
+nächsten Generationen.
 
 Quelle:
 [Sitzungsdienst Altona](https://sitzungsdienst-altona.hamburg.de/bi/vo020.asp?VOLFDNR=1009320)
+
+  

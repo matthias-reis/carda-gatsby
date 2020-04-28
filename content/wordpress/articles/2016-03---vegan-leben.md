@@ -4,12 +4,10 @@ seoTitle: '"vegan leben" - die neue vegane Marke im Supermarkt'
 slug: vegan-leben
 link: /2016/03/vegan-leben/
 fileName: 2016-03---vegan-leben.md
-description:
-  Die Macher von "vegan leben" haben sich dazu entschlossen, ihre eigene vegane
-  Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
-excerpt:
-  Werbung - Die Macher von "vegan leben" haben sich dazu entschlossen, ihre
+description: Die Macher von "vegan leben" haben sich dazu entschlossen, ihre
   eigene vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
+excerpt: Werbung - Die Macher von "vegan leben" haben sich dazu entschlossen,
+  ihre eigene vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
 focusKeyword: vegan leben
 labels:
   - Vegan Leben
@@ -22,15 +20,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "28981"
+image: /img/demo.jpg
+errors: []
 subTitle: Die neue vegane Marke im Supermarkt
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Weil sich immer mehr Menschen für eine vegane Ernährungs- und
-Lebensweise entscheiden und weil das auch ihrer Einstellung entspricht, haben
-sich die Macher von "vegan leben" entschieden, ihre eigene vegane
-Lebensmittelmarke zu gründen.</strong>
+**Weil sich immer mehr Menschen für eine vegane Ernährungs- und Lebensweise
+entscheiden und weil das auch ihrer Einstellung entspricht, haben sich die
+Macher von "vegan leben" entschieden, ihre eigene vegane Lebensmittelmarke zu
+gründen.**
 
 Verkauft werden derzeit insgesamt über 150 Produkte. Den Verbrauchern soll eine
 breite Palette an pflanzenbasierten Artikeln angeboten werden. Das Sortiment
@@ -120,6 +121,8 @@ weggelassen wird, ist alles perfekt.
 
 Infos:  [vegan-leben.de](https://www.veganleben.de/)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner  [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
+
+  

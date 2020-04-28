@@ -1,16 +1,14 @@
 ---
 title: Earthling Ed zu Gast in Hamburg
-seoTitle:
-  Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
+seoTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
 slug: earthling-ed-zu-gast-in-hamburg
 link: /2019/11/earthling-ed-zu-gast-in-hamburg/
 fileName: 2019-11---earthling-ed-zu-gast-in-hamburg.md
-description:
-  Am Samstag hatten Anonymous For the Voiceless den veganen Aktivisten Earthling
-  Ed für einen Vortrag in einen Hamburger Coworking Space eingeladen.
-excerpt:
-  Am Samstag hatten Anonymous For the Voiceless den veganen Aktivisten Earthling
-  Ed für einen Vortrag in einen Hamburger Coworking Space eingeladen.
+description: Am Samstag hatten Anonymous For the Voiceless den veganen
+  Aktivisten Earthling Ed für einen Vortrag in einen Hamburger Coworking Space
+  eingeladen.
+excerpt: Am Samstag hatten Anonymous For the Voiceless den veganen Aktivisten
+  Earthling Ed für einen Vortrag in einen Hamburger Coworking Space eingeladen.
 focusKeyword: Earthling Ed
 labels:
   - Anonymous For The Voiceless
@@ -38,12 +36,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26968"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (26:39)"
 subTitle: '"Es ist OK, ein*e wütende Veganer*in zu sein!"'
+  
 ---
 
-<strong>Am Samstag hatten wir das große Glück bei einer ganz besonderen
-Veranstaltung dabei zu sein: Anonymous For the Voiceless hatten den veganen
-Aktivisten Earthling Ed in einen Hamburger Coworking Space eingeladen.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (26:39)
+
+<!--
+**Am Samstag hatten wir das große Glück bei einer ganz besonderen Veranstaltung
+dabei zu sein: Anonymous For the Voiceless hatten den veganen Aktivisten
+Earthling Ed in einen Hamburger Coworking Space eingeladen.**
 
 Um 12 Uhr ging es los: die Türen der Friendsfactory in der Hafencity schlossen
 sich und Earthling Ed betrat die Bühne. Zuerst nahm er sich jede Menge Zeit, uns
@@ -78,7 +84,16 @@ man es schafft, mit der Wut, die entsteht, wann man täglich Bilder sieht, die
 Gewalt gegenüber Tieren zeigen und gleichzeitig erlebt, wie der Großteil der
 Bevölkerung diese einfach ignoriert.
 
-<blockquote>"Es ist völlig OK, ein*e wütend*de Veganer*in zu sein. Wichtig ist nur, dass wir uns von unserer Wut nicht überwältigen lassen. Das können wir schaffen, indem wir unser Wissen jeden Tag weitergeben. Wir müssen stark bleiben und eine Stimme für die Tiere sein, die sich nicht wehren können. Rausgehen auf die Straße und zeigen, was hinter den Mauern von Schlachthöfen und in Milchbetrieben passiert. Wir müssen unsere Begeisterung, unsere Motivation und unsere Empathie nutzen und für die gute Sache kämpfen. So können wir es schaffen, einen Unterschied zu machen und die Welt auf Dauer nachhaltig zu verändern. Wir haben nur diese eine Zukunft und wir sollten dafür sorgen, sie für alle besser zu machen."</blockquote>
+> "Es ist völlig OK, ein*e wütend*de Veganer\*in zu sein. Wichtig ist nur, dass
+> wir uns von unserer Wut nicht überwältigen lassen. Das können wir schaffen,
+> indem wir unser Wissen jeden Tag weitergeben. Wir müssen stark bleiben und
+> eine Stimme für die Tiere sein, die sich nicht wehren können. Rausgehen auf
+> die Straße und zeigen, was hinter den Mauern von Schlachthöfen und in
+> Milchbetrieben passiert. Wir müssen unsere Begeisterung, unsere Motivation und
+> unsere Empathie nutzen und für die gute Sache kämpfen. So können wir es
+> schaffen, einen Unterschied zu machen und die Welt auf Dauer nachhaltig zu
+> verändern. Wir haben nur diese eine Zukunft und wir sollten dafür sorgen, sie
+> für alle besser zu machen."
 
 ## Wir sind alle nur Menschen
 
@@ -136,11 +151,16 @@ Da es sich um ein kostenloses Event handelte, an dem keiner was verdient, wurden
 im Anschluss an den Vortrag in Hamburg Spenden für die SOKO Tierschutz
 gesammelt.
 
-Vielen Dank an [Anonymous For The Voiceless](https://earthlinged.org/) Hamburg,
-Inbar, Liza Marie und alle anderen, die das Event möglich gemacht haben! Ihr
-seid großartig!
+Vielen Dank an [Earthling Ed](https://earthlinged.org/),
+[Anonymous For The Voiceless](https://www.anonymousforthevoiceless.org/)
+Hamburg, Inbar, Liza Marie und alle anderen, die das Event möglich gemacht
+haben! Ihr seid großartig!
 
 Hat Euch mein Beitrag neugierig gemacht? Das freut mich sehr! Hier ein Video zum
 Thema "wütende Veganer\*innen", das Ed vor einiger Zeit aufgenommen hat.
 
 <iframe src="https://www.youtube.com/embed/OMIsFajOCYk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+-->
+
+  

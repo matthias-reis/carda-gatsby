@@ -1,17 +1,15 @@
 ---
 title: Ab jetzt gelten neue Bauernregeln
-seoTitle:
-  Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft für
-  Gesetzänderungen
+seoTitle: Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft
+  für Gesetzänderungen
 slug: neue-bauernregeln
 link: /2017/02/neue-bauernregeln/
 fileName: 2017-02---ab-jetzt-gelten-neue-bauernregeln.md
-description:
-  Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche Tierschutzbüro für
-  Gesetzänderungen. Im Vordergrund der Kampagne stehen die Rechte der Tiere.
-excerpt:
-  Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche Tierschutzbüro für
-  Gesetzänderungen. Im Vordergrund der Kampagne stehen die Rechte der Tiere.
+description: Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche
+  Tierschutzbüro für Gesetzänderungen. Im Vordergrund der Kampagne stehen die
+  Rechte der Tiere.
+excerpt: Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche Tierschutzbüro
+  für Gesetzänderungen. Im Vordergrund der Kampagne stehen die Rechte der Tiere.
 focusKeyword: neue Bauernregeln
 labels:
   - Darum vegan
@@ -27,12 +25,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15875"
+image: /img/demo.jpg
+errors: []
 subTitle: Tierschutzbüro kämpft für Gesetzesänderungen
+  
 ---
 
 ![Neue Bauernregeln](http://cardamonchai.com/wp-content/uploads/2017/02/Deutsches-Tierschutzbüro-640x231.jpg)
 
-<strong>
+**Das Bundesumweltministerium (BMUB) hat in den letzten Wochen eine neue
+Kampagne mit dem Namen _Neue Bauernregeln_  auf die Strecke gebracht.**
 
 Damit sollte auf die Missstände in der Agrarwirtschaft und die ausufernde
 Massentierhaltung aufmerksam gemacht werden.  Leider wurde die Kampagne von
@@ -51,14 +53,18 @@ Angeprangert wird dabei vor allem, dass im Vordergrund der Gesetze nach wie vor
 die wirtschaftlichen Interessen der Lobby-Verbände der Lebensmittel- und
 Fleischindustrie stehen. Berufen wird sich dabei auf §1 des Tierschutzgesetzes.
 
-<blockquote>Zweck dieses Gesetzes ist es, aus der Verantwortung des Menschen für das Tier als Mitgeschöpf dessen Leben und Wohlbefinden zu schützen. Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.</blockquote>
+> Zweck dieses Gesetzes ist es, aus der Verantwortung des Menschen für das Tier
+> als Mitgeschöpf dessen Leben und Wohlbefinden zu schützen. Niemand darf einem
+> Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.
 
 Wie dieses Gesetz ausgelegt wird, wird auf
 [neue-bauernregeln.com](http://neue-bauernregeln.com) klar veranschaulicht.
 
-<blockquote>Ein Masthuhn hat in der Massentierhaltung Platz in der Größe eines DIN A4-Blattes. Nach 35 Tagen wird es geschlachtet.</blockquote>
+> Ein Masthuhn hat in der Massentierhaltung Platz in der Größe eines DIN
+> A4-Blattes. Nach 35 Tagen wird es geschlachtet.
 
-<blockquote>Kälber werden kurz nach der Geburt ohne Betäubung die Hörner ausgebrannt und sie werden in Kälberiglus von ihren Müttern isoliert.</blockquote>
+> Kälber werden kurz nach der Geburt ohne Betäubung die Hörner ausgebrannt und
+> sie werden in Kälberiglus von ihren Müttern isoliert.
 
 Auf der Seite wird immer aktuell über die Fortschritte und Erfolge der Kampagne
 berichtet. Wer helfen möchte, kann die Aktion mit einer Spende unterstützen.
@@ -76,13 +82,16 @@ einiger Zeit habe ich hier im Blog über die
 berichtet.
 
 Wer mehr erfahren möchte, findet das Deutsche Tierschutzbüro
-[hier geht es zur Homepage](https://www.facebook.com/Tierschutzbuero/?fref=ts).
+[hier auf Facebook](https://www.facebook.com/Tierschutzbuero/?fref=ts)  und 
+[hier geht es zur Homepage](https://www.tierschutzbuero.de/).
 
-Wenn Ihr die Aktion <em>Neue Bauernregeln </em>unterstützen wollt, klickt am
-besten einfach hier auf das Banner.
+Wenn Ihr die Aktion  _Neue Bauernregeln_ unterstützen wollt, klickt am besten
+einfach hier auf das Banner.
 
 ![Neue Bauernregeln | full](http://cardamonchai.com/wp-content/uploads/2017/02/steht-das-Schwein-auf-einem-Bein.jpg)
 
-<a href="http://neue-bauernregeln.com/" target="_blank" rel="noopener">
+[](http://neue-bauernregeln.com/)
 
-<strong>Bilder:</strong> Deutsches Tierschutzbüro
+**Bilder:** Deutsches Tierschutzbüro
+
+  

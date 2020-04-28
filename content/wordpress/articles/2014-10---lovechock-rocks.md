@@ -4,12 +4,10 @@ seoTitle: Lovechock Rocks im Test - richtig gute Schokolade
 slug: lovechock-rocks
 link: /2014/10/lovechock-rocks/
 fileName: 2014-10---lovechock-rocks.md
-description:
-  'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität
-  hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
-excerpt:
-  'Werbung - Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in
+description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in
   Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
+excerpt: 'Werbung - Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood
+  in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
 focusKeyword: Lovechock
 labels:
   - faire Schokolade
@@ -28,12 +26,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "24427"
+image: /img/demo.jpg
+errors: []
 subTitle: Rohe Schokolade mit dem gewissen Etwas
+  
 ---
-
-<em>Werbung\*</em><strong>Seit April sind die kleinen "Lovechock Rocks" aus
-roher Schokolade in ausgewählten Bioläden zu haben. Der Anspruch: Superfood in
-Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".</strong>
 
 Vor zwei Tagen traf ein kleines Paket bei uns zu Hause ein, auf das ich mich
 schon besonders gefreut hatte. Schokolade zum testen! Ich öffnete den Karton und
@@ -91,19 +88,31 @@ bio-zertifiziert.
 
 ![lovechock](http://cardamonchai.com/wp-content/uploads/2019/06/lovechock-7-400x267.jpg)
 
-, sie sind glutenfrei und enthalten weder Milch noch Soja. Was meinem Mann und
-mir auch gefällt: Man sieht, dass sie von Hand hergestellt werden, jeder "Rock"
-hat seine eigene Form.
+Gesüßt werden die "Lovechock Rocks" mit **Kokosblütennektar** , sie sind
+glutenfrei und enthalten weder Milch noch Soja. Was meinem Mann und mir auch
+gefällt: Man sieht, dass sie von Hand hergestellt werden, jeder "Rock" hat seine
+eigene Form.
 
 "Lovechock Rocks" gibt es in den Sorten
 
-<ul><li>"Maulbeere/Hanfsaat"</li><li>"Rosinen/Kokosnuss"</li><li>"Mandel/Zimt"</li></ul>
+- "Maulbeere/Hanfsaat"
+- "Rosinen/Kokosnuss"
+- "Mandel/Zimt"
 
 Außerdem gibt es auch noch Riegel in den Sorten
 
 ![lovechock](http://cardamonchai.com/wp-content/uploads/2019/06/lovechock-5-400x267.jpg)
 
-<ul><li>"Pur/Kakaosplitter"</li><li>"Mandel/Feige"</li><li>"Goji/Orange"</li><li>"Ananas/Inka-Beere"</li><li>"Maulbeere/Vanille"</li><li>"Cherry/Chili"</li></ul>Inspiriert wurde Laura auf einer Reise durch Brasilien und Mexiko, auf der sie die einheimischen Pflanzen kennenlernte und sich mit deren Wirkung auseinandersetzte. Gleich nach ihrer Heimkehr begann sie mit der Herstellung von Rohkostschokolade, die unter ihren Freunden sofort dankbare Abnehmer fand.
+- "Pur/Kakaosplitter"
+- "Mandel/Feige"
+- "Goji/Orange"
+- "Ananas/Inka-Beere"
+- "Maulbeere/Vanille"
+- "Cherry/Chili"Inspiriert wurde Laura auf einer Reise durch Brasilien und
+  Mexiko, auf der sie die einheimischen Pflanzen kennenlernte und sich mit deren
+  Wirkung auseinandersetzte. Gleich nach ihrer Heimkehr begann sie mit der
+  Herstellung von Rohkostschokolade, die unter ihren Freunden sofort dankbare
+  Abnehmer fand.
 
 Heute besteht ihr Team aus sechzehn Menschen, die so klangvolle
 Berufsbezeichnungen wie "Happiness Alchemist", "Happiness Director" und
@@ -123,6 +132,8 @@ als Chocoholic bezeichnen würde.
 
 [gallery type="rectangular" link="none" size="medium" ids="24426,24429,24428"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

@@ -4,14 +4,12 @@ seoTitle: Klimaschutz und vegane Ernährung mal wissenschaftlich betrachtet
 slug: klimaschutz-und-vegane-ernaehrung
 link: /2017/02/klimaschutz-und-vegane-ernaehrung/
 fileName: 2017-02---aber-es-schmeckt-doch-so-gut.md
-description:
-  Klimaschutz und vegan? Wieso hängt das zusammen? Warum ist es eigentlich gut
-  für die Umwelt, wenn ich vegan lebe? Ich habe das Thema mal genauer
-  betrachtet.
-excerpt:
-  Klimaschutz und vegan? Wieso hängt das zusammen? Warum ist es eigentlich gut
-  für die Umwelt, wenn ich vegan lebe? Ich habe das Thema mal genauer
-  betrachtet.
+description: Klimaschutz und vegan? Wieso hängt das zusammen? Warum ist es
+  eigentlich gut für die Umwelt, wenn ich vegan lebe? Ich habe das Thema mal
+  genauer betrachtet.
+excerpt: Klimaschutz und vegan? Wieso hängt das zusammen? Warum ist es
+  eigentlich gut für die Umwelt, wenn ich vegan lebe? Ich habe das Thema mal
+  genauer betrachtet.
 focusKeyword: Klimaschutz
 labels:
   - Darum vegan
@@ -27,13 +25,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "15887"
+image: /img/demo.jpg
+errors: []
 subTitle: Klimaschutz und vegane Ernährung
+  
 ---
 
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg "Biolandhof")
 
-<strong>"Klimaschutz und vegan? Wieso hängt das zusammen? Warum genau ist es
-eigentlich gut für die Umwelt, wenn ich vegan lebe?"</strong>
+**"Klimaschutz und vegan? Wieso hängt das zusammen? Warum genau ist es
+eigentlich gut für die Umwelt, wenn ich vegan lebe?"**
 
 Ich werde das sehr häufig gefragt. Daher habe ich mich entschieden, mal ein paar
 Fakten zum Thema zusammenzutragen.
@@ -82,8 +83,8 @@ Kalorie werden sieben (!) Kalorien aus Pflanzen benötigt. Wie viele Menschen
 keinen Hunger mehr leiden müssten, wenn man diese einfach direkt essen würde,
 kann man sich ganz leicht ausrechnen. Und sie würden nicht nur keinen Hunger
 mehr leiden, sondern sogar vermutlich sehr satt werden. Fleisch beinhaltet im
-Durchschnitt ca. 20 Prozent Eiweiß, Soja hingegen etwa 40 Prozent. (<em>
-[Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts) </em>)
+Durchschnitt ca. 20 Prozent Eiweiß, Soja hingegen etwa 40 Prozent. ( _
+[Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts) _ )
 
 Aus den Resten, die bei der Sojaölgewinnung entstehen, kann man perfekt
 Sojaschnetzel herstellen. Von vielen Veganern werden sie gerne gegessen. Sie
@@ -128,7 +129,11 @@ Kilogramm CO<sub>2</sub>. Das sind 19 bzw. 12 Kilometer auf der Autobahn.
 
 Kurt Schmidinger zieht folgende Bilanz aus seiner Studie:
 
-<blockquote>Pflanzliche Lebensmittel schneiden unter Einbeziehung aller ethischen Aspekte der Welternährung sowie aus <strong>Klimaschutz</strong>-Gründen tatsächlich wesentlich besser ab, als tierische Produkte. ( [VEBU](https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt) )</blockquote>
+> Pflanzliche Lebensmittel schneiden unter Einbeziehung aller ethischen Aspekte
+> der Welternährung sowie aus **Klimaschutz** -Gründen tatsächlich wesentlich
+> besser ab, als tierische Produkte. (
+> [VEBU](https://www.vebu.de/umwelt/klimawandel/1316-1-kg-rindfleisch-so-klimaschaedlich-wie-eine-1600-km-lange-autofahrt)
+> )
 
 Wenn man die Klima-Schädlichkeit verschiedener Ernährungsformen pro Kopf und
 Jahr betrachtet, sieht das folgendermaßen aus:
@@ -138,9 +143,8 @@ Jahr betrachtet, sieht das folgendermaßen aus:
 Menschen, die fleischliche Kost bevorzugen, haben somit durch ihre Ernährung
 einen 7,5 mal höheren CO<sub>2-</sub>Verbrauch, als Veganer. Den nicht
 unerheblichen Methan-Ausstoß erstmal außen vor gelassen. Das Treibhausgas
-<strong>Methan</strong> ist noch 30 mal schädlicher für das Klima, als
-CO<sub>2</sub>. Es ist mit rund 20 Prozent für den anthropogenen Treibhauseffekt
-verantwortlich.
+**Methan** ist noch 30 mal schädlicher für das Klima, als CO<sub>2</sub>. Es ist
+mit rund 20 Prozent für den anthropogenen Treibhauseffekt verantwortlich.
 
 ## Methan sollte man nicht unterschätzen
 
@@ -155,18 +159,18 @@ Rindern zurückzuführen. Der Transport ist hier noch gar nicht mit eingerechnet
 
 ![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg "Bio-Sojamilch")
 
-Jetzt gehts ans Eingemachte. Auf der Seite <em>
-[Footprint Deutschland](http://www.footprint-deutschland.de) </em> kann jeder
-seinen persönlichen ökologischen Fußabdruck ausrechnen. Ich rate das jedem auch
-mal zu tun. Als vegan lebende Fußgänger/Bahnfahrer waren wir sehr überrascht von
+Jetzt gehts ans Eingemachte. Auf der Seite  _
+[Footprint Deutschland](http://www.footprint-deutschland.de) _ kann jeder seinen
+persönlichen ökologischen Fußabdruck ausrechnen. Ich rate das jedem auch mal zu
+tun. Als vegan lebende Fußgänger/Bahnfahrer waren wir sehr überrascht von
 unserem Ergebnis.
 
 Für Euch habe ich mal zwei Fußabdrücke ausgerechnet. Meine Protagonisten, nennen
-wir sie mal <em>Omni </em>und <em>Vegani</em>, sind Nachbarn. Beide sind sich
-sicher, etwas für den Klimaschutz zu tun. <em>Omni </em>isst jeden zweiten Tag
-Fleisch, gelegentlich Fisch und nimmt täglich Milch, Butter und Eier zu
-sich. <em>Vegani </em>ernährt sich pflanzlich und kauft außerdem Lebensmittel in
-Bioqualität. Der einzige Unterschied zwischen den beiden ist ihr Ernährungsstil.
+wir sie mal  _Omni_ und  _Vegani_ , sind Nachbarn. Beide sind sich sicher, etwas
+für den Klimaschutz zu tun.  _Omni_ isst jeden zweiten Tag Fleisch, gelegentlich
+Fisch und nimmt täglich Milch, Butter und Eier zu sich.  _Vegani_ ernährt sich
+pflanzlich und kauft außerdem Lebensmittel in Bioqualität. Der einzige
+Unterschied zwischen den beiden ist ihr Ernährungsstil.
 
 ## So gleich und doch verschieden
 
@@ -199,33 +203,29 @@ Verkehrsmitteln zurück.
 
 ## Ihre Fußabdrücke sind dennoch grundverschieden
 
-<em>Omnis </em>Fußabdruck beträgt 4,78 Hektar. Die Fläche setzt sich zusammen
-aus:
+_Omnis_ Fußabdruck beträgt 4,78 Hektar. Die Fläche setzt sich zusammen aus:
 
-<ul>
-    <li>22 % Wohnen und Energie</li>
-    <li>19 % Konsum</li>
-    <li>43 % Ernährung</li>
-    <li>16 % Verkehr</li>
-</ul>
+- 22 % Wohnen und Energie
+- 19 % Konsum
+- 43 % Ernährung
+- 16 % Verkehr
 
 Der Kommentar darunter lautet:
 
-<blockquote>Ein fairer Fußabdruck sollte lediglich 1,8 Hektar groß sein. Wenn alle Deinen Lebensstil haben, benötigen wir 2,66 Erden.</blockquote>
+> Ein fairer Fußabdruck sollte lediglich 1,8 Hektar groß sein. Wenn alle Deinen
+> Lebensstil haben, benötigen wir 2,66 Erden.
 
-<em>Veganis </em>Fußabdruck beträgt 3,5 Hektar. Die Fläche setzt sich zusammen
-aus:
+_Veganis_ Fußabdruck beträgt 3,5 Hektar. Die Fläche setzt sich zusammen aus:
 
-<ul>
-    <li>38 % Wohnen und Energie</li>
-    <li>32 % Konsum</li>
-    <li>1 % Ernährung</li>
-    <li>29 % Verkehr</li>
-</ul>
+- 38 % Wohnen und Energie
+- 32 % Konsum
+- 1 % Ernährung
+- 29 % Verkehr
 
 Der Kommentar darunter lautet:
 
-<blockquote>Ein fairer Fußabdruck sollte 1,8 Hektar groß sein. Wenn alle Deinen Lebensstil haben, benötigen wir 1,94 Erden.</blockquote>
+> Ein fairer Fußabdruck sollte 1,8 Hektar groß sein. Wenn alle Deinen Lebensstil
+> haben, benötigen wir 1,94 Erden.
 
 Wir alle tragen selbst die Verantwortung für unseren ökologischen Fußabdruck.
 Jedem Fußabdruck wird noch ein kollektiver Fußabdruck zugeordnet. Dieser fasst
@@ -248,14 +248,18 @@ Prozent auf die Ernährung und 22 Prozent auf den Verkehr.
 
 <hr />
 
-<strong>Anmerkung: </strong>Diesen Artikel veröffentliche ich heute in etwas
-abgewandelter Form zum zweiten Mal. Zuletzt ist er hier im Blog am
+**Anmerkung:** Diesen Artikel veröffentliche ich heute in etwas abgewandelter
+Form zum zweiten Mal. Zuletzt ist er hier im Blog am
 [30. Juli 2014](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 erschienen. Das Thema hat seitdem nicht an Brisanz verloren. Auch die Zahlen
 sind nach wie vor aktuell. Der Klimawandel macht sich auf der Erde immer mehr
-bemerkbar. Es ist an der Zeit, zu handeln. <strong>Klimaschutz</strong> geht uns
-alle an!
+bemerkbar. Es ist an der Zeit, zu handeln. **Klimaschutz** geht uns alle an!
 
 <hr />
 
-<strong>Quellen:</strong> [Naturschutz Sylt](https://www.vebu.de)
+**Quellen:** [VEBU](https://www.vebu.de),
+[Der Artgenosse](https://www.facebook.com/artgenosse?fref=ts), Wikipedia,
+[Footprint Deutschland](http://www.footprint-deutschland.de),
+[Naturschutz Sylt](http://www.naturschutz-sylt.de)
+
+  

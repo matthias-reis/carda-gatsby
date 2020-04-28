@@ -4,12 +4,10 @@ seoTitle: 827. Hafengeburtstag in Hamburg - Die Eröffnung
 slug: hafengeburtstag-in-hamburg
 link: /2016/05/hafengeburtstag-in-hamburg/
 fileName: 2016-05---827-hafengeburtstag-in-hamburg.md
-description:
-  Am 5. Mai war es wieder soweit! Pünktlich zum Vatertag wurde in Hamburg der
-  827. Hafengeburtstag eröffnet und wir waren natürlich dabei.
-excerpt:
-  Am 5. Mai war es wieder soweit! Pünktlich zum Vatertag wurde in Hamburg der
-  827. Hafengeburtstag eröffnet und wir waren natürlich dabei.
+description: Am 5. Mai war es wieder soweit! Pünktlich zum Vatertag wurde in
+  Hamburg der 827. Hafengeburtstag eröffnet und wir waren natürlich dabei.
+excerpt: Am 5. Mai war es wieder soweit! Pünktlich zum Vatertag wurde in Hamburg
+  der 827. Hafengeburtstag eröffnet und wir waren natürlich dabei.
 focusKeyword: 827. Hafengeburtstag
 labels:
   - 827. Hafengeburtstag
@@ -24,9 +22,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14693"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (38:46)"
 subTitle: Eröffnung
+  
 ---
 
+## unknown: Expected corresponding JSX closing tag for <p> (38:46)
+
+<!--
 Am 5. Mai war es wieder soweit! Pünktlich zum Vatertag wurde in Hamburg der 827.
 Hafengeburtstag eröffnet und wir waren natürlich dabei.
 
@@ -73,4 +79,8 @@ will ich nicht, mit dir kann ich nicht sein.</blockquote>
 
 [2017](/2017/05/hafengeburtstag)
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+-->
+
+  

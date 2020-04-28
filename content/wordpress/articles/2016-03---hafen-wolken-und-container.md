@@ -4,12 +4,10 @@ seoTitle: Hafen, Wolken und Container - Stürmischer Januar in Hamburg
 slug: hafen-hamburg-januar-2016
 link: /2016/03/hafen-hamburg-januar-2016/
 fileName: 2016-03---hafen-wolken-und-container.md
-description:
-  Eines stürmischen Januartages haben wir mal wieder eine Hafenrundfahrt
-  gemacht. Der Hafen zeigte sich von seiner schönsten Seite. Hier ein paar
-  Bilder.
-excerpt:
-  Eines stürmischen Januartages haben wir mal wieder eine Hafenrundfahrt
+description: Eines stürmischen Januartages haben wir mal wieder eine
+  Hafenrundfahrt gemacht. Der Hafen zeigte sich von seiner schönsten Seite. Hier
+  ein paar Bilder.
+excerpt: Eines stürmischen Januartages haben wir mal wieder eine Hafenrundfahrt
   gemacht. Der Hafen zeigte sich von seiner schönsten Seite. Hier ein paar
   Bilder.
 focusKeyword: Hafen
@@ -36,12 +34,20 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "14192"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (48:45)"
 subTitle: Stürmischer Januar in Hamburg
+  
 ---
 
-<strong>Eines stürmischen Januartages waren meine Eltern bei uns in Hamburg zu
-Besuch und wie es sich gehört, haben wir natürlich eine Hafenrundfahrt in einer
-Barkasse gemacht.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (48:45)
+
+<!--
+**Eines stürmischen Januartages waren meine Eltern bei uns in Hamburg zu Besuch
+und wie es sich gehört, haben wir natürlich eine Hafenrundfahrt in einer
+Barkasse gemacht.**
 
 Ich hatte zur Sicherheit mal meine kleine Hosentaschenkamera eingepackt, falls
 mir etwas vor die Linse läuft. Und es gab sogar einiges zu fotografieren. Mir
@@ -93,3 +99,7 @@ Und sie bleiben Ohne Fragen Weil alles andere scheinbar besser ist Und deine
 Augen starren weiter Auf Fischer Auf den Hafen Und den Wind
 
 Auf Fischer Auf den Hafen Und den Wind</blockquote>
+
+-->
+
+  

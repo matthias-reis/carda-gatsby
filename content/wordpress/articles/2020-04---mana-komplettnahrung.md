@@ -4,13 +4,12 @@ seoTitle: Mana Komplettnahrung - die Flüssigmahlzeit im Test
 slug: mana-komplettnahrung
 link: /2020/04/mana-komplettnahrung/
 fileName: 2020-04---mana-komplettnahrung.md
-description:
-  Ich habe die Komplettnahrung von Mana ausprobiert. Damit kann man ganz elegant
-  einzelne Mahlzeiten ersetzen und soll dennoch Nährstoffe bekommen.
-excerpt:
-  Werbung & Affiliate Links - Ich habe die Komplettnahrung von Mana ausprobiert.
-  Damit kann man ganz elegant einzelne Mahlzeiten ersetzen und soll dennoch
-  Nährstoffe bekommen.
+description: Ich habe die Komplettnahrung von Mana ausprobiert. Damit kann man
+  ganz elegant einzelne Mahlzeiten ersetzen und soll dennoch Nährstoffe
+  bekommen.
+excerpt: Werbung & Affiliate Links - Ich habe die Komplettnahrung von Mana
+  ausprobiert. Damit kann man ganz elegant einzelne Mahlzeiten ersetzen und soll
+  dennoch Nährstoffe bekommen.
 focusKeyword: Mana
 labels:
   - Flüssignahrung
@@ -27,14 +26,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29090"
+image: /img/demo.jpg
+errors: []
 subTitle: Flüssigmahlzeit im Test
+  
 ---
 
-<em>Werbung &amp; Affiliate Links</em>\*
+_Werbung &amp; Affiliate Links_ \*
 
-<strong>Ich habe die Komplettnahrung von Mana ausprobiert. Damit kann man ganz
-elegant einzelne Mahlzeiten ersetzen und soll dennoch alle Vitamine und
-Nährstoffe bekommen. Hier ist mein Fazit.</strong>
+**Ich habe die Komplettnahrung von Mana ausprobiert. Damit kann man ganz elegant
+einzelne Mahlzeiten ersetzen und soll dennoch alle Vitamine und Nährstoffe
+bekommen. Hier ist mein Fazit.**
 
 Wir gehören zu den Menschen, die am liebsten abends kochen. Jobbedingt fehlt
 mittags oft die Zeit, etwas zuzubereiten und gerade jetzt in der Zeit im
@@ -121,14 +123,20 @@ wirklich nachhaltig sättigt. Ich brauche bis zum Abend keine weiteren Portionen
 mehr und esse zwischendurch maximal noch ein bisschen Obst.
 
 Neben dem von mir getesteten
-[vegane, Gluten-freie Burgerpatties](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmana-pulver).
+[Pulver zum Anrühren](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmana-pulver)
+und 
+[fertigen Drinks](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmana-drink)
+ in verschiedenen Geschmacksrichtungen gibt es von Mana auch noch 
+[vegane, Gluten-freie Burgerpatties](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmanaburger).
 Ich glaube fast, die muss ich auch noch probieren.
 
 [glry name="mana2"]
 
 [Homepage Mana](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2F)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt
-und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+_\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
+meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
-[Transparenz-Seite](/werbung/). </em>
+[Transparenz-Seite](/werbung/). _
+
+  

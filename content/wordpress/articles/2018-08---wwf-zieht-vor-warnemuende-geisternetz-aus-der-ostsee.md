@@ -4,14 +4,12 @@ seoTitle: WWF zieht vor Warnemünde Geisternetz aus dem Meer
 slug: wwf-geisternetz-warnemuende
 link: /2018/08/wwf-geisternetz-warnemuende/
 fileName: 2018-08---wwf-zieht-vor-warnemuende-geisternetz-aus-der-ostsee.md
-description:
-  Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem Meer
-  gezogen. Das meldete die Umweltschutzorganisation am 8. August.
-excerpt:
-  Anzeige & Affiliate Link - Taucher des WWF haben jetzt vor Warnemünde ein
-  Geisternetz aus dem Meer gezogen. Das meldete die Umweltschutzorganisation am
-  8. August. Für zahlreiche Tiere kam die Hilfe zu spät. Sie verendeten in dem
-  verlassenen Stellnetz.
+description: Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem
+  Meer gezogen. Das meldete die Umweltschutzorganisation am 8. August.
+excerpt: Anzeige & Affiliate Link - Taucher des WWF haben jetzt vor Warnemünde
+  ein Geisternetz aus dem Meer gezogen. Das meldete die Umweltschutzorganisation
+  am 8. August. Für zahlreiche Tiere kam die Hilfe zu spät. Sie verendeten in
+  dem verlassenen Stellnetz.
 focusKeyword: Geisternetz
 labels:
   - Geistenetze
@@ -30,15 +28,23 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21658"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: 'unknown: Unexpected token, expected "}" (55:13)'
 subTitle: Zwei Kormorane und zahlreiche Fische erstickt
+  
 ---
 
-<em>Anzeige &amp; Affiliate Link</em>
+## unknown: Unexpected token, expected "}" (55:13)
 
-<strong>Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem Meer
+<!--
+_Anzeige &amp; Affiliate Link_
+
+**Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem Meer
 gezogen. Das meldete die Umweltschutzorganisation am 8. August. Das rund 500
 Meter lange Stellnetz wurde 60 bis 70 Fischen, vor allem Schollen und Dorschen,
-sowie zwei Kormoranen zum Verhängnis. Sie erstickten qualvoll darin.</strong>
+sowie zwei Kormoranen zum Verhängnis. Sie erstickten qualvoll darin.**
 
 Geisternetze werden weltweit immer wieder zur Todesfalle für Seevögeln, Fische
 und Meeressäuger. Immer mehr davon schwimmen zusammen mit anderem
@@ -99,12 +105,15 @@ unter geisternetze@wwf.de.
     });
 </script>
 
-\*<em>Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
-Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
-Werbekennzeichnung in meinem Blog findet Ihr auf meiner
-[Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält eine Anzeige mit einem Affiliate Link. Der
+  Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
+  Werbekennzeichnung in meinem Blog findet Ihr auf meiner
+  [Transparenz-Seite](/werbung/). _
 
-<strong>Quelle:</strong> Pressemitteilung des WWF
+**Quelle:** Pressemitteilung des WWF
 [Link hier](https://www.wwf.de/2018/juli/500-meter-geisternetz-geborgen/)
-<strong>Titelbild:</strong>
-[HeidelX](https://pixabay.com/de/users/HeidelX-281649/), pixabay
+**Titelbild:** [HeidelX](https://pixabay.com/de/users/HeidelX-281649/), pixabay
+
+-->
+
+  

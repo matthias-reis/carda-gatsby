@@ -4,12 +4,10 @@ seoTitle: Herbstgedanken - kurzer Tagebucheintrag
 slug: herbstgedanken
 link: /2011/10/herbstgedanken/
 fileName: 2011-10---herbstgedanken.md
-description:
-  Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von ein paar
-  Tagen verkaufte der Hersteller mehr, als sonst in einem Jahr.
-excerpt:
-  Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von ein paar
-  Tagen verkaufte der Hersteller mehr, als sonst in einem Jahr.
+description: Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von
+  ein paar Tagen verkaufte der Hersteller mehr, als sonst in einem Jahr.
+excerpt: Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von ein
+  paar Tagen verkaufte der Hersteller mehr, als sonst in einem Jahr.
 focusKeyword: ""
 labels:
   - Arbeit
@@ -67,14 +65,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "2737"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
-
-<strong>Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von ein
-paar Tagen verkaufte der Hersteller die Menge, die sonst in einem Jahr verkauft
-wird. Sicher erleben die New Ballance Turnschuhe dann gerade auch ein modisches
-Revival. Obwohl sie ja nicht besonders hübsch sind. Man könnte das sicher
-recherchieren.</strong>
 
 Warum sollte sich ein Mann nicht darüber Gedanken machen dürfen, wie man Farben
 am besten kombiniert? Das zeugt doch nur von gutem Geschmack.
@@ -155,3 +150,5 @@ strange That's because I am
 
 But I know that you would like me If only you could see me If only you could
 meet me
+
+  

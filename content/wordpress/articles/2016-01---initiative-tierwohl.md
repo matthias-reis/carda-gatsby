@@ -4,12 +4,12 @@ seoTitle: Initiative Tierwohl - Tiere schützen und essen - geht das?
 slug: initiative-tierwohl
 link: /2016/01/initiative-tierwohl/
 fileName: 2016-01---initiative-tierwohl.md
-description:
-  Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere sollen trotzdem
-  gegessen werden und an Haltung und Schlachtung ändert sich auch nicht viel.
-excerpt:
-  Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere sollen trotzdem
-  gegessen werden und an Haltung und Schlachtung ändert sich auch nicht viel.
+description: Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere
+  sollen trotzdem gegessen werden und an Haltung und Schlachtung ändert sich
+  auch nicht viel.
+excerpt: Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere sollen
+  trotzdem gegessen werden und an Haltung und Schlachtung ändert sich auch nicht
+  viel.
 focusKeyword: Initiative Tierwohl
 labels:
   - Darum vegan
@@ -27,13 +27,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "29176"
+image: /img/demo.jpg
+errors: []
 subTitle: Tiere schützen und essen - geht das?
+  
 ---
 
-<strong>Seit Kurzem macht eine Organisation von sich reden, die es sich laut
-eigener Aussage zum Ziel gesetzt hat, Tiere zu schützen. Mit einigen Ausnahmen:
-Die Tiere sollen trotzdem gegessen werden und an ihrer Haltung und Schlachtung
-ändert sich auch nicht viel.</strong>
+**Seit Kurzem macht eine Organisation von sich reden, die es sich laut eigener
+Aussage zum Ziel gesetzt hat, Tiere zu schützen. Mit einigen Ausnahmen: Die
+Tiere sollen trotzdem gegessen werden und an ihrer Haltung und Schlachtung
+ändert sich auch nicht viel.**
 
 Die Initiative Tierwohl hat sich die Verbesserung des Tierwohls in der
 Fleischwirtschaft auf die Fahnen geschrieben. Das soll gelingen, indem die
@@ -109,7 +112,10 @@ Welches Fleisch nun wirklich aus Betrieben kommt, die von der Initiative
 kontrolliert werden, das kann man beim Einkauf nicht erkennen. Ein Label gibt es
 nicht und wird es auch nicht geben. Kommentiert wird das folgendermaßen:
 
-<blockquote>"Der Markt mit seiner Komplexität in der Zuliefererkette macht ein Labeling auf breiter Ebene schwierig, weil jeder einzelne Betrieb der Kette teilnehmen müsste. Das würde in der Rückverfolgung viel Geld kosten, das wir lieber für das Tierwohl ausgeben möchten."</blockquote>
+> "Der Markt mit seiner Komplexität in der Zuliefererkette macht ein Labeling
+> auf breiter Ebene schwierig, weil jeder einzelne Betrieb der Kette teilnehmen
+> müsste. Das würde in der Rückverfolgung viel Geld kosten, das wir lieber für
+> das Tierwohl ausgeben möchten."
 
 ## Für Transparenz fehlt bei der Initiative Tierwohl das Geld
 
@@ -149,3 +155,5 @@ leider sehr verschwimmen lässt.
 Umso wichtiger, sich täglich einzusetzen, für wirklichen Tierschutz zu kämpfen,
 sich stark zu machen und weiterhin auf den Konsum von tierischen Produkten zu
 verzichten.
+
+  

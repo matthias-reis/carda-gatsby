@@ -4,12 +4,10 @@ seoTitle: NORDEN Festival in Schleswig - Einfach mal in der Hängematte liegen
 slug: norden-festival-in-schleswig
 link: /2018/09/norden-festival-in-schleswig/
 fileName: 2018-09---norden-festival-in-schleswig.md
-description:
-  "Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit dem
-  30. August. Wir finden, der Besuch lohnt sich!"
-excerpt:
-  "Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit dem
-  30. August. Wir finden, der Besuch lohnt sich!"
+description: "Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft
+  seit dem 30. August. Wir finden, der Besuch lohnt sich!"
+excerpt: "Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit
+  dem 30. August. Wir finden, der Besuch lohnt sich!"
 focusKeyword: NORDEN Festival
 labels:
   - Dänemark
@@ -36,12 +34,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21925"
+image: /img/demo.jpg
+errors: []
 subTitle: Einfach mal in der Hängematte liegen
+  
 ---
 
-<strong>Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit
-dem 30. August. Am Wochenende haben wir uns die Zeit genommen, hinzufahren und
-uns das Event mal anzuschauen.</strong>
+**Es ist soweit. Das Warten hat ein Ende: Das NORDEN Festival läuft seit dem 30.
+August. Am Wochenende haben wir uns die Zeit genommen, hinzufahren und uns das
+Event mal anzuschauen.**
 
 Gleich beim Reinkommen fiel uns eines besonders auf: Das NORDEN Festival ist
 entspannt. Und das auf allen Ebenen. Das Gelände, im Schleswiger Stadtpark
@@ -126,3 +127,5 @@ für rund 21 Euro zu haben.
 [myflickr tag="annenordenfestival2018schleswigbilder"]
 
 &nbsp;
+
+  

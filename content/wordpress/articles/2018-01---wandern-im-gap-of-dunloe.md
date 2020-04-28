@@ -4,12 +4,12 @@ seoTitle: Wandern im Gap Of Dunloe - Schafe vor Filmkulisse
 slug: gap-of-dunloe
 link: /2018/01/gap-of-dunloe/
 fileName: 2018-01---wandern-im-gap-of-dunloe.md
-description:
-  Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres
-  einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer präsent.
-excerpt:
-  Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres
-  einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer präsent.
+description: Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten
+  Jahres einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer
+  präsent.
+excerpt: Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten
+  Jahres einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer
+  präsent.
 focusKeyword: Gap Of Dunloe
 labels:
   - Brititsche Inseln
@@ -36,13 +36,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18857"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (58:23)"
 subTitle: Schafe vor Filmkulisse
+  
 ---
 
-<strong>Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres
+## unknown: Expected corresponding JSX closing tag for <p> (58:23)
+
+<!--
+**Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres
 einige wunderschöne Stunden im Gap Of Dunloe. Während unserer Wanderung dort
 waren die Schafe immer präsent. Damit haben sie sich zum einem festen
-Bestandteil meiner Bildergalerie gemausert.</strong>
+Bestandteil meiner Bildergalerie gemausert.**
 
 Als Gap Of Dunloe bezeichnet man den Gebirgspass zwischen dem Purple Mountain im
 Osten und dem Macgillycuddy's Reeks Gebirgspass im Westen. Die beeindruckende
@@ -111,18 +119,20 @@ lay his head and rest</blockquote>
 
 ## Wegweiser Irland
 
-<ol>
-    <li> [Möwen in Dublin](/2017/10/moewen-in-dublin/) </li>
-    <li> [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/) </li>
-    <li> [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/) </li>
-    <li> [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/) </li>
-    <li> [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/) </li>
-    <li> [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/) </li>
-    <li> [Cork - Technik und Tradition](/2017/12/cork/) </li>
-    <li> [Abenteuer auf dem Ring Of Kerry](/2018/01/ring-of-kerry/) </li>
-    <li>Wandern im Gap Of Dunloe</li>
-</ol>
+1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
+1.  [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/)
+1.  [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/)
+1.  [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
+1.  [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/)
+1.  [Rock Of Cashel - Ein geschichtsträchtiger Ort](/2017/11/rock-of-cashel/)
+1.  [Cork - Technik und Tradition](/2017/12/cork/)
+1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/ring-of-kerry/)
+1.  Wandern im Gap Of Dunloe
 
-<em>To be continued...</em>
+_To be continued..._
 
 [Wer mehr über Pferde in Irland erfahren und Ihnen vielleicht sogar was Gutes tun möchte, sollte mal hier klicken.](/2017/11/herrenlose-pferde-heuspenden-puss-in-boots/)
+
+-->
+
+  

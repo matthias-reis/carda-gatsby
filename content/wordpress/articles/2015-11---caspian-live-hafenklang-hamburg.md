@@ -4,11 +4,9 @@ seoTitle: Caspian live @ Hafenklang Hamburg
 slug: caspian-live-hafenklang-hamburg
 link: /2015/11/caspian-live-hafenklang-hamburg/
 fileName: 2015-11---caspian-live-hafenklang-hamburg.md
-description:
-  "Gestern war der große Tag endlich gekommen: Caspian spielten live im
-  Hafenklang in Hamburg."
-excerpt:
-  "Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im
+description: "Gestern war der große Tag endlich gekommen: Caspian spielten live
+  im Hafenklang in Hamburg."
+excerpt: "Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im
   Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich
   war der Tag gekommen."
 focusKeyword: Caspian
@@ -27,12 +25,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "13074"
+image: /img/demo.jpg
+errors: []
 subTitle: Konzert ohne Kamera
+  
 ---
-
-<strong>Gestern stand für uns ein echtes Highlight an: Das Caspian Konzert im
-Hafenklang in Hamburg. Schon seit Wochen hatten wir uns drauf gefreut, endlich
-war der Tag gekommen.</strong>
 
 Und was soll ich sagen: Es war großartig. Auf jeden Fall eines der besten
 Konzerte der letzten Jahre. Und es war laut! Mein rechtes Ohr ist jetzt noch ein
@@ -60,3 +57,5 @@ Die komplette Session könnt Ihr Euch übrigens
 
 Ihr liebt Mark Lanegan?
 [Hier gehts zu seinem Konzert im Freiheiz](/2015/03/mark-lanegan-live-freiheiz-muenchen/).
+
+  

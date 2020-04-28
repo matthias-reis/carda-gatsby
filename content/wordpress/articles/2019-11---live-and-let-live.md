@@ -4,13 +4,11 @@ seoTitle: '"Live And Let Live" - eine vegane Dokumentation - Filmtipp'
 slug: live-and-let-live-film
 link: /2019/11/live-and-let-live-film/
 fileName: 2019-11---live-and-let-live.md
-description:
-  Heute möchte ich Euch einen ganz besonderen Film ans Herz legen. Die Doku
-  "Live And Let Live" wurde von Filmemacher und Regisseur Marc Pierschel
-  gedreht.
-excerpt:
-  Heute möchte ich Euch einen ganz besonderen Film ans Herz legen. Die Doku
-  "Live And Let Live" wurde von Filmemacher und Regisseur Marc Pierschel
+description: Heute möchte ich Euch einen ganz besonderen Film ans Herz legen.
+  Die Doku "Live And Let Live" wurde von Filmemacher und Regisseur Marc
+  Pierschel gedreht.
+excerpt: Heute möchte ich Euch einen ganz besonderen Film ans Herz legen. Die
+  Doku "Live And Let Live" wurde von Filmemacher und Regisseur Marc Pierschel
   gedreht.
 focusKeyword: Live And Let Live
 labels:
@@ -35,12 +33,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26822"
+image: /img/demo.jpg
+errors: []
 subTitle: Eine vegane Dokumentation
+  
 ---
 
-<strong>Heute möchte ich Euch einen ganz besonderen Film ans Herz legen. "Live
-And Let Live" wurde von Filmemacher und Regisseur Marc Pierschel gedreht. In der
-Doku zeigen Veganer\*innen ihre Gründe für ein Leben ohne Tierleid.</strong>
+**Heute möchte ich Euch einen ganz besonderen Film ans Herz legen. "Live And Let
+Live" wurde von Filmemacher und Regisseur Marc Pierschel gedreht. In der Doku
+zeigen Veganer\*innen ihre Gründe für ein Leben ohne Tierleid.**
 
 Es kommen unter anderen die Autorin des Buchs
 "[Warum wir Hunde lieben, Schweine essen und Kühe anziehen](/2019/03/warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen/)"
@@ -87,7 +88,8 @@ wurde, anders, als bei anderen Tierrechts-Dokumentationen, verzichtet.
 
 ### Ich möchte an dieser Stelle gerne kino-zeit.de zitieren:
 
-<blockquote>"Das alles ist so konkret wie logisch. Und hat letztlich weniger mit alternativen Lebensweisen, als vielmehr mit klarem Verstand zu tun."</blockquote>
+> "Das alles ist so konkret wie logisch. Und hat letztlich weniger mit
+> alternativen Lebensweisen, als vielmehr mit klarem Verstand zu tun."
 
 ## Auszeichnung
 
@@ -104,3 +106,5 @@ mehr auf meinem Blog verpassen wollt,
 ## Filmtrailer "Live And Let Live"
 
 <iframe src="https://www.youtube.com/embed/We5zOxfp7S0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+
+  

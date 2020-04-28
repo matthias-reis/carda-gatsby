@@ -4,12 +4,12 @@ seoTitle: Karnivool live in München - Hipsterclans und Türsteher
 slug: karnivool-muenchen
 link: /2013/10/karnivool-muenchen/
 fileName: 2013-10---karnivool-live-stroem-muenchen-27-oktober-2013.md
-description:
-  Karnivool spielten live in München und wir waren dabei. Seit 15 Jahren gehe
-  ich jetzt mit meiner Kamera auf Konzerte, doch dieses Mal war alles anders.
-excerpt:
-  Karnivool spielten live in München und wir waren dabei. Seit 15 Jahren gehe
-  ich jetzt mit meiner Kamera auf Konzerte, doch dieses Mal war alles anders.
+description: Karnivool spielten live in München und wir waren dabei. Seit 15
+  Jahren gehe ich jetzt mit meiner Kamera auf Konzerte, doch dieses Mal war
+  alles anders.
+excerpt: Karnivool spielten live in München und wir waren dabei. Seit 15 Jahren
+  gehe ich jetzt mit meiner Kamera auf Konzerte, doch dieses Mal war alles
+  anders.
 focusKeyword: Karnivool
 labels:
   - Hipster
@@ -32,13 +32,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7547"
+image: /img/demo.jpg
+errors: []
 subTitle: Diesmal ohne Nahaufnahmen
+  
 ---
-
-<strong>Ich habe da mal nachgerechnet: Ich gehe jetzt seit ziemlich genau 15
-Jahren mit Spiegelreflexkameras (wechselnder Fabrikate) auf Konzerte. Auch in
-München. Bisher hat es dabei nie Probleme gegeben. Auch ohne Presseausweis
-nicht.</strong>
 
 Am Sonntag dann: Hoffentlich nicht der Beginn einer neuen Ära. Zur Hochzeit
 schenkte uns mein Bruderherz die Karten für das Karnivool-Konzert im Strøm am
@@ -143,34 +141,30 @@ freuen uns schon auf Russian Circles mit Dir! &lt;3
 Hier noch ein paar Beweisbilder, die ich mit meinem Mobiltelefon aufgenommen
 habe, bitte nicht auf die Qualität achten. ;-)
 
-### PPS</em><em>Natürlich werde ich Euch auch nicht verraten, was "unser Lied" is</em>t.
+### _PS_ _Ähnlichkeiten mit lebenden Personen sind rein zufällig und nicht beabsichtigt. ;-)_ ### _PPS_ _Natürlich werde ich Euch auch nicht verraten, was "unser Lied" is_ t.
 
 [gallery columns="2" size="medium" ids="7547,7548,7549,7550"]
 
-<strong>Und hier sind für Euch Karnivool mit "All I Know"</strong>
+**Und hier sind für Euch Karnivool mit "All I Know"**
 
 [youtube=http://www.youtube.com/watch?v=18SUFbABxNQ&amp;w=560&amp;h=315]
 
-<em>This is my sense of reality</em><em> This is proof of my coming of
-age</em><em> This is truth in captivity</em><em> This is losing a theology,
-I</em><em> I'm a soul taker</em><em> I'm a cruel, witted mind</em><em> This is
-my sense of reality</em><em> This is proof of my coming of age</em><em> I'm a
-soul taker</em><em> I'm a cruel witted mime</em><em>Are you with me?</em><em>
-Are you of like mind?</em><em> Are you with me?</em><em> Are you of like
-mind?</em><em>We keep falling free of gravity</em><em> We just severed these
-umbilical wires</em><em> This is more than just affinity</em><em> We're moving
-further through an endless design</em><em> I'm a soul taker</em><em> I'm a cruel
-witted mime</em><em>Cold long ago</em><em> Cold long ago</em><em> Cold long
-ago</em><em> Cold long ago</em><em>Come again, I feel a breakdown</em><em> Let's
-go higher</em><em>This is the sound of your</em><em> Reason to wake</em><em>
-Have we forgotten now?</em><em> Can we relate?</em><em>It's backwards, it makes
-no sense</em><em> So real that we can't pretend</em><em> It's backwards, it
-makes no sense</em><em> It's harder to just pretend</em><em>Say it once
-more</em><em> Say it again</em><em> Hey is this the end</em><em> Of all I
-know</em><em>Say it once more</em><em> Say it again</em><em> Hey is this the
-end</em><em> Of all I know</em><em>Are you with me?</em><em> (Can we
-relate?)</em><em> Are you of like mind?</em><em> Are you with me?</em><em> (Can
-we relate?)</em><em> Are you of like mind?</em><em>Say it once more</em><em> Say
-it again</em><em> Hey is this the end</em><em> Of all I know</em><em>Say it once
-more</em><em> Say it again</em><em> Hey is this the end</em><em> Of all I
-know</em>
+_This is my sense of reality_ _This is proof of my coming of age_ _This is truth
+in captivity_ _This is losing a theology, I_ _I'm a soul taker_ _I'm a cruel,
+witted mind_ _This is my sense of reality_ _This is proof of my coming of age_
+_I'm a soul taker_ _I'm a cruel witted mime_ _Are you with me?_ _Are you of like
+mind?_ _Are you with me?_ _Are you of like mind?_ _We keep falling free of
+gravity_ _We just severed these umbilical wires_ _This is more than just
+affinity_ _We're moving further through an endless design_ _I'm a soul taker_
+_I'm a cruel witted mime_ _Cold long ago_ _Cold long ago_ _Cold long ago_ _Cold
+long ago_ _Come again, I feel a breakdown_ _Let's go higher_ _This is the sound
+of your_ _Reason to wake_ _Have we forgotten now?_ _Can we relate?_ _It's
+backwards, it makes no sense_ _So real that we can't pretend_ _It's backwards,
+it makes no sense_ _It's harder to just pretend_ _Say it once more_ _Say it
+again_ _Hey is this the end_ _Of all I know_ _Say it once more_ _Say it again_
+_Hey is this the end_ _Of all I know_ _Are you with me?_ _(Can we relate?)_ _Are
+you of like mind?_ _Are you with me?_ _(Can we relate?)_ _Are you of like mind?_
+_Say it once more_ _Say it again_ _Hey is this the end_ _Of all I know_ _Say it
+once more_ _Say it again_ _Hey is this the end_ _Of all I know_
+
+  

@@ -4,12 +4,10 @@ seoTitle: Vegablum startet Crowdfunding - Food Start-up Wettbewerb Next Level!
 slug: vegablum-startet-crowdfunding
 link: /2019/09/vegablum-startet-crowdfunding/
 fileName: 2019-09---vegablum-startet-crowdfunding.md
-description:
-  Vegablum aus Hagen ist beim Food Start-up Context Next Level! 2019 mit dabei.
-  Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.
-excerpt:
-  Werbung - Vegablum aus Hagen ist beim Food-Startup Context Next Level! 2019
-  mit dabei. Beim Wettbewerb treten insgesamt 19 Startups gegeneinander an.
+description: Vegablum aus Hagen ist beim Food Start-up Context Next Level! 2019
+  mit dabei. Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.
+excerpt: Werbung - Vegablum aus Hagen ist beim Food-Startup Context Next Level!
+  2019 mit dabei. Beim Wettbewerb treten insgesamt 19 Startups gegeneinander an.
 focusKeyword: Vegablum
 labels:
   - Next Level!
@@ -32,13 +30,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "26360"
+image: /img/demo.jpg
+errors: []
 subTitle: Food Start-up Wettbewerb Next Level!
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Vegablum aus Hagen ist beim Food Start-up Contest Next Level! 2019 mit
-dabei. Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.</strong>
+**Vegablum aus Hagen ist beim Food Start-up Contest Next Level! 2019 mit dabei.
+Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.**
 
 Vor einiger Zeit habe ich Euch
 [Vegablum](/2017/04/interview-mit-danny-von-vegablum/) hier im Blog ja bereits
@@ -74,8 +75,8 @@ werden.
 ## Vegablum unterstützen
 
 Wenn Ihr Euch für einen fairen und ökologischen Lebensstil begeistert, könnt Ihr
-Vegablum unterstützen. Alle Bienenfreund<em>innen, Veganer</em>innen und Fans
-von fairen veganen Alternativen zu Honig und Met sind herzlich willkommen.
+Vegablum unterstützen. Alle Bienenfreund _innen, Veganer_ innen und Fans von
+fairen veganen Alternativen zu Honig und Met sind herzlich willkommen.
 
 Vegablum wurde von Daniela Nowak und Stephan Weidtmann im Oktober 2015
 gegründet. Im Jahr 2017 stellten sie auf der Messe Veganfach in Köln zum ersten
@@ -87,13 +88,15 @@ Award ausgezeichnet.
 
 ## Infos:
 
-[Interview mit Vegablum Gründerin Danny](/2017/04/interview-mit-danny-von-vegablum/)
-[Produkttest Vegablum](/2017/04/veganer-honig-vegablum/)
-[Homepage Vegablum](https://vegablum.de/)
-[Crowdfunding Kampagne](https://www.startnext.com/vegablum)
+[Interview mit Vegablum Gründerin Danny](/2017/04/interview-mit-danny-von-vegablum/)  
+[Produkttest Vegablum](/2017/04/veganer-honig-vegablum/)  
+[Homepage Vegablum](https://vegablum.de/)  
+[Crowdfunding Kampagne](https://www.startnext.com/vegablum)  
 [Homepage Nextlevel! 2019](https://food-crowdfunding.de/)
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung
-gestellt oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog
-findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Man hat mir das Produkt nicht zur Verfügung gestellt
+oder mich bezahlt. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr
+auf meiner [Transparenz-Seite](/werbung/). _
+
+  

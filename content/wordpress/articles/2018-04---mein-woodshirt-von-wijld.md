@@ -4,12 +4,11 @@ seoTitle: Mein WoodShirt von wijld im Test - Nachhaltige Mode aus Holz
 slug: wijld-woodshirt-mode-aus-holz
 link: /2018/04/wijld-woodshirt-mode-aus-holz/
 fileName: 2018-04---mein-woodshirt-von-wijld.md
-description:
-  Nachhaltige, faire in der EU produzierte Mode, die gut aussieht, atmungsaktiv
-  ist und nicht zu teuer? Geht das? Ich habe wijld getestet.
-excerpt:
-  Werbung - Nachhaltige, faire in der EU produzierte Mode, die gut aussieht,
+description: Nachhaltige, faire in der EU produzierte Mode, die gut aussieht,
   atmungsaktiv ist und nicht zu teuer? Geht das? Ich habe wijld getestet.
+excerpt: Werbung - Nachhaltige, faire in der EU produzierte Mode, die gut
+  aussieht, atmungsaktiv ist und nicht zu teuer? Geht das? Ich habe wijld
+  getestet.
 focusKeyword: wijld
 labels:
   - atmungsaktiv
@@ -31,13 +30,18 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20427"
+image: /img/demo.jpg
+errors: []
 subTitle: Nachhaltige Mode aus Holz
+  
 ---
 
 \*Werbung
 
-<strong> [Mikroplastik](/2018/02/faire-klamotten/) belasten und auch noch
-atmungsaktiv sind gibt es nicht? Gibt es doch!</strong>
+** [Coole Klamotten](/2018/02/faire-klamotten/), die nicht nur toll aussehen,
+sondern aus nachwachsenden Rohstoffen hergestellt werden, das Grundwasser beim
+Waschen nicht mit [Mikroplastik](/2018/03/der-weltwassertag-2018/) belasten und
+auch noch atmungsaktiv sind gibt es nicht? Gibt es doch!**
 
 Ich hatte vor Kurzem die tolle Gelegenheit, mich näher mit den "WoodShirts" von
 wijld auseinanderzusetzen. Sie werden aus Holz hergestellt. Auf den ersten Blick
@@ -73,7 +77,8 @@ wird, wird ein Baum gepflanzt, um so klimaneutral wie möglich zu arbeiten.
 
 Aline, Timo und Angelo, die Gründer des Start-ups hatten einen Wunsch:
 
-<blockquote>"Kleidung fair, nachhaltig und innerhalb der EU zu fertigen, die gleichzeitig stylisch und nicht unbezahlbar ist!"</blockquote>
+> "Kleidung fair, nachhaltig und innerhalb der EU zu fertigen, die gleichzeitig
+> stylisch und nicht unbezahlbar ist!"
 
 Sie wollten unbedingt beweisen, dass das möglich ist - wijld war geboren. Der
 Gedanke kam Timo das erste mal, als er vor ein paar Jahren eine Spielwarenmesse
@@ -91,7 +96,11 @@ wijld inzwischen verlassen hat, auf die Suche nach nachhaltigen Materialien. Es
 dauerte nicht lange und sie waren fündig geworden: Holz sollte als Baumaterial
 für ihren Traum dienen.
 
-<blockquote>"Wir lieben die Natur und achten deswegen bei unseren WoodShirts auf eine sehr umweltverträgliche Produktion. Das Holz, das wir verwenden, stammt ausschließlich aus zertifiziert nachhaltiger Forstwirtschaft – es wird also immer mehr gepflanzt als geerntet und somit ist sichergestellt, dass unsere Wälder weiterwachsen.",</blockquote>
+> "Wir lieben die Natur und achten deswegen bei unseren WoodShirts auf eine sehr
+> umweltverträgliche Produktion. Das Holz, das wir verwenden, stammt
+> ausschließlich aus zertifiziert nachhaltiger Forstwirtschaft – es wird also
+> immer mehr gepflanzt als geerntet und somit ist sichergestellt, dass unsere
+> Wälder weiterwachsen.",
 
 heißt es auf ihrer Homepage<sup>1</sup> . Holzfasern sind im Vergleich mit
 konventioneller Baumwolle wesentlich ressourceneffizienter. Bei der Herstellung
@@ -103,7 +112,9 @@ verkürzten Transportwege gespart.
 Genauso wichtig wie das Klima, ist den Leuten bei wijld die faire Bezahlung der
 Mitarbeiter.
 
-<blockquote>"Faire Fertigung, sprich das jeder Mitarbeiter für seine Arbeit vernünftig bezahlt wird und in der Produktionsstätte gute Arbeitsbedingungen herrschen ist ein wichtiger Punkt für uns!",</blockquote>
+> "Faire Fertigung, sprich das jeder Mitarbeiter für seine Arbeit vernünftig
+> bezahlt wird und in der Produktionsstätte gute Arbeitsbedingungen herrschen
+> ist ein wichtiger Punkt für uns!",
 
 schreiben Aline und Timo auf der "Über uns" Seite ihres Webshops<sup>1</sup>.
 Und auch der Tragekomfort kommt nicht zu kurz. Die "WoodShirts" verfügen über
@@ -135,6 +146,8 @@ zum Shop von wijld.
 [gallery type="rectangular" link="none" size="large"
 ids="20418,20420,20422,20417"]
 
-<em>\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+_\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

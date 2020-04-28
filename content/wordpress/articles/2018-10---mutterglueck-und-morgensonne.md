@@ -4,12 +4,12 @@ seoTitle: Mutterglück & Morgensonne - Der Wasservogel-Kindergarten vom Vänern
 slug: mutterglueck-und-morgensonne-vaenern
 link: /2018/10/mutterglueck-und-morgensonne-vaenern/
 fileName: 2018-10---mutterglueck-und-morgensonne.md
-description:
-  So sieht perfektes Mutterglück aus, oder? Ein schöner Spaziergang durch die
-  Hood mit den Besten und den lieben Kleinen gefolgt von einem Bad im See.
-excerpt:
-  Ihr habt gedacht, Ihr habt schon alle Fotoserien gesehen, die ich im Juni am
-  Vänern aufgenommen habe? Eine fehlt noch.  Sie zeigt das perfekte Mutterglück.
+description: So sieht perfektes Mutterglück aus, oder? Ein schöner Spaziergang
+  durch die Hood mit den Besten und den lieben Kleinen gefolgt von einem Bad im
+  See.
+excerpt: Ihr habt gedacht, Ihr habt schon alle Fotoserien gesehen, die ich im
+  Juni am Vänern aufgenommen habe? Eine fehlt noch.  Sie zeigt das perfekte
+  Mutterglück.
 focusKeyword: Mutterglück
 labels:
   - Enten
@@ -28,12 +28,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22212"
+image: /img/demo.jpg
+errors: []
 subTitle: Der Wasservogel-Kindergarten vom Vänern
+  
 ---
 
-<strong>Ihr habt gedacht, Ihr habt alle Fotoserien gesehen, die ich diesen
-Sommer am Vänern aufgenommen habe? Weit gefehlt. Eine ganz wichtige fehlt noch.
-Entstanden ist sie am frühen Morgen des 29. Juni 2018.</strong>
+**Ihr habt gedacht, Ihr habt alle Fotoserien gesehen, die ich diesen Sommer am
+Vänern aufgenommen habe? Weit gefehlt. Eine ganz wichtige fehlt noch. Entstanden
+ist sie am frühen Morgen des 29. Juni 2018.**
 
 Die Sonne war gerade aufgegangen und in der ganzen Umgebung war alles ruhig. Der
 perfekte Moment, um den Wasservogel-Kindergarten mit der Kamera zu begleiten.
@@ -55,11 +58,15 @@ zu konservieren.
 [myflickr tag="20180628vaenernekuddenentenkindergarten"]
 
 Ihr wollt gerne mehr Bilder vom wunderschönen Vänern sehen? Dann könnt Ihr Euch
-ja mal [Fotoserie II](/2018/09/der-vaenern-am-abend/) ansehen.
+ja mal [Fotoserie I](/2018/09/der-vaenern-am-abend/) und
+[Fotoserie II](/2018/09/der-vaenern-am-morgen/) ansehen.
 
 Aber
-[meine bisher größte Reisereportage](/2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/)
-anschauen. Darin dreht sich alles um die grüne Insel Irland.
+[keine Panik](/2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/).
+Auch danach geht es natürlich bunt weiter hier im Blog. Wenn Euch in der
+Zwischenzeit langweilig wird, könnt Ihr gerne
+[meine bisher größte Reisereportage](/tag/irland2017/) anschauen. Darin dreht
+sich alles um die grüne Insel Irland.
 
 Neben der Reiserubrik findet Ihr auf meiner Seite auch Themen wie
 Nachhaltigkeit, veganes Leben, Musik und Hamburg. Lasst Euch überraschen. Ich
@@ -67,3 +74,5 @@ freue mich auf Euch!
 
 Last, but not least: Für alle, die Wasservögel mögen, habe ich noch
 [eine schöne Bilderstrecke, die vor zwei Jahren in Helsinki entstanden ist](/2016/08/gaense-helsinki/).
+
+  

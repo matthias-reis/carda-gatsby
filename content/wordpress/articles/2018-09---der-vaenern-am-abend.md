@@ -4,12 +4,12 @@ seoTitle: Der sommerliche Vänern am Abend - Romantisches Farbspiel
 slug: der-vaenern-am-abend
 link: /2018/09/der-vaenern-am-abend/
 fileName: 2018-09---der-vaenern-am-abend.md
-description:
-  Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir am
-  wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches Farbspiel.
-excerpt:
-  Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir am
-  wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches Farbspiel.
+description: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten
+  wir am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches
+  Farbspiel.
+excerpt: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir
+  am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches
+  Farbspiel.
 focusKeyword: Vänern
 labels:
   - Campervan
@@ -30,12 +30,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22053"
+image: /img/demo.jpg
+errors: []
 subTitle: Romantisches Farbspiel
+  
 ---
 
-<strong>Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir am
+**Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten wir am
 wunderschönen Vänern erreicht. Der See liegt im Südwesten zwischen den Provinzen
-Värmlands Län, Västra Götaland und Dalsland.</strong>
+Värmlands Län, Västra Götaland und Dalsland.**
 
 Am Abend des 26. Juni bot uns die Natur dort ein romantisches Farbspiel. Eine
 kleine Auswahl meiner Bilder von diesem wunderschönen Moment möchte ich Euch
@@ -66,3 +69,5 @@ Wasserratten.
 Übrigens ist vor kurzem meine bisher größte Reisereportage hier im Blog
 erschienen. Sie beschäftigt sich ausgiebig mit Irland.
 [Neugierige dürfen hier klicken](/tag/irland2017/).
+
+  

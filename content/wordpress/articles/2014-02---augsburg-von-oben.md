@@ -4,12 +4,12 @@ seoTitle: Augsburg aus der Vogelperspektive
 slug: augsburg-aus-der-vogelperspektive
 link: /2014/02/augsburg-aus-der-vogelperspektive/
 fileName: 2014-02---augsburg-von-oben.md
-description:
-  "Augsburg mal aus einer ganz anderen Perspektive: Letzte Woche hatte ich das
-  große Glück, die schwäbische Stadt mal aus dem 34. Stock zu betrachten."
-excerpt:
-  "Augsburg mal aus einer ganz anderen Perspektive: Letzte Woche hatte ich das
-  große Glück, die schwäbische Stadt mal aus dem 34. Stock zu betrachten."
+description: "Augsburg mal aus einer ganz anderen Perspektive: Letzte Woche
+  hatte ich das große Glück, die schwäbische Stadt mal aus dem 34. Stock zu
+  betrachten."
+excerpt: "Augsburg mal aus einer ganz anderen Perspektive: Letzte Woche hatte
+  ich das große Glück, die schwäbische Stadt mal aus dem 34. Stock zu
+  betrachten."
 focusKeyword: Augsburg
 labels:
   - Augsburg
@@ -38,12 +38,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "7751"
+image: /img/demo.jpg
+errors: []
 subTitle: So schön ist nur die Vogelperspektive
+  
 ---
-
-<strong>Letzte Woche hatte ich das große Glück, den 34. Stock des Hotelturms,
-von den Bewohnern auch liebevoll "Maiskolben" genannten Hotelturms betreten zu
-dürfen. Natürlich nicht ohne Kameraausrüstung. </strong>
 
 Das Spektakel wollte ich meiner Linse nun wirklich nicht entgehen lassen. Bei
 wunderbar sonnigem Wetter sind ein paar interessante Schnappschüsse entstanden,
@@ -60,3 +59,5 @@ ids="7755,7754,7753,7752,7751,7750,7749,7748"]
 &nbsp;
 
 &nbsp;
+
+  

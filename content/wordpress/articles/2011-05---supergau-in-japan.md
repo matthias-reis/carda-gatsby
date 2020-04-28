@@ -4,12 +4,12 @@ seoTitle: Supergau in Japan - Opium für's Volk
 slug: supergau-in-japan-und-opium-furs-volk
 link: /2011/05/supergau-in-japan-und-opium-furs-volk/
 fileName: 2011-05---supergau-in-japan.md
-description:
-  Wen interessiert es eigentlich wirklich, ob in Düsseldorf gerade ein Sack
-  Kartoffeln umfällt, oder ob eine schwäbische Provinzstadt nun ein Stadion hat?
-excerpt:
-  Wen interessiert es eigentlich wirklich, ob in Düsseldorf gerade ein Sack
-  Kartoffeln umfällt, oder ob eine schwäbische Provinzstadt nun ein Stadion hat?
+description: Wen interessiert es eigentlich wirklich, ob in Düsseldorf gerade
+  ein Sack Kartoffeln umfällt, oder ob eine schwäbische Provinzstadt nun ein
+  Stadion hat?
+excerpt: Wen interessiert es eigentlich wirklich, ob in Düsseldorf gerade ein
+  Sack Kartoffeln umfällt, oder ob eine schwäbische Provinzstadt nun ein Stadion
+  hat?
 focusKeyword: Supergau
 labels:
   - AKW
@@ -100,12 +100,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "1956"
+image: /img/demo.jpg
+errors: []
 subTitle: Opium für's Volk
+  
 ---
 
-![Foto: Gerd Altmann, pixelio.de](http://cardamonchai.com/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de-640x453.jpg " [](/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de.jpg)  Foto: Gerd Altmann, pixelio.de")
+![Foto: Gerd Altmann, pixelio.de](http://cardamonchai.com/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de-640x453.jpg "[ ](/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de.jpg)  Foto: Gerd Altmann, pixelio.de")
 
-## "Frankfurt ist abgestiegen, Augsburg spielt in der ersten Bundesliga, Lena singt beim Grand Prix!"</strong>
+## **"Frankfurt ist abgestiegen, Augsburg spielt in der ersten Bundesliga, Lena singt beim Grand Prix!"**
 
 Das waren die Themen, die Deutschland in den letzen Tagen zu bewegen schienen.
 Doch wen interessiert es eigentlich wirklich, ob in Düsseldorf gerade ein Sack
@@ -155,3 +158,5 @@ Fragen, die man sich täglich stellen muss!
 [gallery type="rectangular" link="none" ids="1956,1955,1954"]
 
 Fotos: Gerd Altmann, pixelio.de
+
+  

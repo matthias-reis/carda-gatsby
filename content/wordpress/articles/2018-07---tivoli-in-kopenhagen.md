@@ -4,12 +4,12 @@ seoTitle: Tivoli in Kopenhagen - Zuckerstangenbunte Wunderwelt
 slug: tivoli-in-kopenhagen
 link: /2018/07/tivoli-in-kopenhagen/
 fileName: 2018-07---tivoli-in-kopenhagen.md
-description:
-  Reist man durch Dänemark, sollte man auch dem weltberühmten Vergnügungspark
-  Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf jeden Fall.
-excerpt:
-  Reist man durch Dänemark, sollte man auch dem weltberühmten Vergnügungspark
-  Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf jeden Fall.
+description: Reist man durch Dänemark, sollte man auch dem weltberühmten
+  Vergnügungspark Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf
+  jeden Fall.
+excerpt: Reist man durch Dänemark, sollte man auch dem weltberühmten
+  Vergnügungspark Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf
+  jeden Fall.
 focusKeyword: Tivoli
 labels:
   - Dänemark
@@ -27,12 +27,14 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21364"
+image: /img/demo.jpg
+errors: []
 subTitle: Zuckerstangenbunte Wunderwelt
+  
 ---
 
-<strong>Reist man durch Dänemark, sollte man auch dem weltberühmten
-Vergnügungspark Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf
-jeden Fall.</strong>
+**Reist man durch Dänemark, sollte man auch dem weltberühmten Vergnügungspark
+Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf jeden Fall.**
 
 Die zuckerstangenbunte Wunderwelt befindet sich mitten im Zentrum von
 [Kopenhagen](/2018/07/radtour-durch-kopenhagen/)  ziemlich genau zwischen dem
@@ -78,6 +80,8 @@ Die Adresse ist Vesterbrogade 3, 1630 København V, Dänemark. Vor dem Park gibt
 es zahlreiche Fahrradparkmöglichkeiten, er ist durch seine zentrale Lage
 außerdem hervorragend mit öffentlichen Verkehrsmitteln erreichbar.
 
-<strong>Quellen:</strong> Tivoli, Wikipedia
+**Quellen:** Tivoli, Wikipedia
 
 [myflickr tag="annetivoli20180619buntewelt "]
+
+  

@@ -4,12 +4,11 @@ seoTitle: Rock Of Cashel - Ein geschichtsträchtiger Ort - Geschichte & Fotos
 slug: rock-of-cashel
 link: /2017/11/rock-of-cashel/
 fileName: 2017-11---rock-of-cashel.md
-description:
-  Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten, Macht und
-  Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
-excerpt:
-  Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten, Macht und
-  Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
+description: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene
+  Zeiten, Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre
+  Kreise.
+excerpt: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene Zeiten,
+  Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre Kreise.
 focusKeyword: Rock Of Cashel
 labels:
   - Brititsche Inseln
@@ -35,13 +34,21 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "18483"
+image: /img/demo.jpg
+errors:
+  - type: invalidMdx
+    message: "unknown: Expected corresponding JSX closing tag for <p> (84:83)"
 subTitle: Ein geschichtsträchtiger Ort
+  
 ---
 
-<strong>Raben kreisen um die Zinnen der alten Gemäuer. Ein kühles Lüftchen zieht
-durch die Nischen und Ecken. Der Rock Of Cashel ist ein mystischer Ort, von dem
-eine gewaltige Kraft auszugehen scheint. Längst vergangene Zeiten, Macht und
-Ohnmacht spiegeln sich in ihm wieder.</strong>
+## unknown: Expected corresponding JSX closing tag for <p> (84:83)
+
+<!--
+**Raben kreisen um die Zinnen der alten Gemäuer. Ein kühles Lüftchen zieht durch
+die Nischen und Ecken. Der Rock Of Cashel ist ein mystischer Ort, von dem eine
+gewaltige Kraft auszugehen scheint. Längst vergangene Zeiten, Macht und Ohnmacht
+spiegeln sich in ihm wieder.**
 
 Bei unserer Tour durch Irland diesen Herbst haben wir auch diesem sagenumwobenen
 Ort einen Besuch abgestattet. Dabei haben wir die Aussicht genossen, einiges
@@ -130,48 +137,50 @@ Ireland gehen. Besucht werden kann die Sehenswürdigkeit das ganze Jahr über. I
 empfehle Euch, gleich in den Morgenstunden dort aufzuschlagen, wenn noch nicht
 so viel los ist. Die Kasse öffnet jeden Tag um 9 Uhr.
 
-<blockquote><em>"Chaos isn't a pit. Chaos is a ladder. Many who try to climb it fail, and never get to try again. The fall breaks them. And some are given a chance to climb; they cling to the real or the gods or love. Only the ladder is real. The climb is all there is."</em>
+<blockquote> _"Chaos isn't a pit. Chaos is a ladder. Many who try to climb it fail, and never get to try again. The fall breaks them. And some are given a chance to climb; they cling to the real or the gods or love. Only the ladder is real. The climb is all there is."_
 
-<em>-</em>
+_-_
 
-<em>"Das Chaos ist keine Grube, in die man hineinfällt. Es ist eine Leiter.
-Viele, die versuchen, sie zu erklimmen, scheitern und versuchen es nie wieder.
-Der Sturz bricht sie für immer. Nur sehr wenige bekommen die Chance zu klettern.
-Sie klammern sich fest an die Wirklichkeit oder an die Götter oder an die Liebe.
-Nur die Leiter ist real. Der Aufstieg ist alles, was wir haben."</em>
+_"Das Chaos ist keine Grube, in die man hineinfällt. Es ist eine Leiter. Viele,
+die versuchen, sie zu erklimmen, scheitern und versuchen es nie wieder. Der
+Sturz bricht sie für immer. Nur sehr wenige bekommen die Chance zu klettern. Sie
+klammern sich fest an die Wirklichkeit oder an die Götter oder an die Liebe. Nur
+die Leiter ist real. Der Aufstieg ist alles, was wir haben."_
 
-<em>Petyr "Littlefinger" Baelish, "Game Of Thrones"</em></blockquote>
+_Petyr "Littlefinger" Baelish, "Game Of Thrones"_ </blockquote>
 
 ## Wegweiser Irland
 
-<ol>
-    <li> [Möwen in Dublin](/2017/10/moewen-in-dublin/) </li>
-    <li> [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/) </li>
-    <li> [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/) </li>
-    <li> [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/) </li>
-    <li> [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/) </li>
-    <li>Rock Of Cashel - Ein geschichtsträchtiger Ort</li>
-    <li> [Cork - Technik und Tradition](/2017/12/cork/) </li>
-    <li> [Abenteuer auf dem Ring Of Kerry](/2018/01/auf-dem-skellig-ring-in-richtung-dingle-halbinsel/) </li>
-    <li> [Muckross House und Torc Waterfalls](/2018/02/muckross-house-und-torc-waterfall-irland/) </li>
-    <li> [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/) </li>
-    <li> [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/) </li>
-    <li> [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/) </li>
-    <li> [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/) </li>
-    <li> [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/) </li>
-    <li> [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/) </li>
-    <li> [Bunratty Castle - Normannische Burg und Publikumsmagnet](/2018/03/bunratty-castle/) </li>
-    <li> [Cliffs Of Moher](/2018/04/cliffs-of-moher/) </li>
-    <li> [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/) </li>
-    <li> [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/) </li>
-    <li> [Burren und Poulnabrone Dolmen](/2018/04/poulnabrone-dolmen-burren/) </li>
-    <li> [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/) </li>
-    <li> [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/) </li>
-    <li> [Birds of Westport](/2018/05/birds-of-westport/) </li>
-    <li> [Sky Loop Road](/2018/05/sky-loop-road-clifden/) </li>
-    <li> [Irischer Traumstrand](/2018/05/irischer-traumstrand/) </li>
-    <li> [Connemara National Park](/2018/05/connemara-national-park/) </li>
-    <li> [Kylemore Abbey](/2018/05/kylemore-abbey/) </li>
-</ol>
+1.  [Möwen in Dublin](/2017/10/moewen-in-dublin/)
+1.  [Spaziergang durch Dublin](/2017/10/kleiner-spaziergang-durch-dublin/)
+1.  [Guinness ist vegan - Unser Besuch in der St. James Gate Brewery](/2017/10/guinness-ist-vegan-brauerei-besuch/)
+1.  [Bunte Insel Irland - Farbenfrohe Details in Kilkenny](/2017/11/kilkenny-bunte-insel-irland/)
+1.  [Kilkenny Castle - Ein Schloss mit vielen Gesichtern](/2017/11/kilkenny-castle/)
+1.  Rock Of Cashel - Ein geschichtsträchtiger Ort
+1.  [Cork - Technik und Tradition](/2017/12/cork/)
+1.  [Abenteuer auf dem Ring Of Kerry](/2018/01/auf-dem-skellig-ring-in-richtung-dingle-halbinsel/)
+1.  [Muckross House und Torc Waterfalls](/2018/02/muckross-house-und-torc-waterfall-irland/)
+1.  [Inch Beach - Traumstrand auf der Dingle Halbinsel](/2018/02/lieblingsstrand-inch-beach/)
+1.  [Limerick - Fünf Zeilen Spaß und eine Stadt in Irland](/2018/02/limerick/)
+1.  [Das Ende des Regenbogens - Eine Irische Sage](/2018/02/das-ende-des-regenbogens/)
+1.  [Da Vincenzo Limerick - Irlands beste vegane Steinofenpizza](/2018/03/da-vincenzo-limerick/)
+1.  [Dingle - Buntes Städtchen am Atlantik](/2018/03/dingle/)
+1.  [Curraghchase Caravan &amp; Camp Site - Kilcornan](/2018/03/curraghchase-caravan-camp-site/)
+1.  [Bunratty Castle - Normannische Burg und Publikumsmagnet](/2018/03/bunratty-castle/)
+1.  [Cliffs Of Moher](/2018/04/cliffs-of-moher/)
+1.  [Fitzpatrick's Pub Doolin](/2018/04/fitzpatricks-pub-doolin/)
+1.  [Doolin - Sehnsuchtsort am Atlantik](/2018/04/doolin/)
+1.  [Burren und Poulnabrone Dolmen](/2018/04/poulnabrone-dolmen-burren/)
+1.  [Galway - Kunst, Kultur und Livemusik](/2018/04/galway/)
+1.  [The Lighthouse Tea Room Galway](/2018/05/the-lighthouse-tea-room-galway/)
+1.  [Birds of Westport](/2018/05/birds-of-westport/)
+1.  [Sky Loop Road](/2018/05/sky-loop-road-clifden/)
+1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
+1.  [Connemara National Park](/2018/05/connemara-national-park/)
+1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
 
 [myflickr tag="annerockofcashel2017"]
+
+-->
+
+  

@@ -4,12 +4,10 @@ seoTitle: Von Bewerbungen, Neuerscheinungen und Katzen im Kühlschrank
 slug: von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank
 link: /2012/05/von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank/
 fileName: 2012-05---von-bewerbungen-neuerscheinungen-und-katzen-im-kuechenschrank.md
-description:
-  Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich schon
-  viel zu lange nicht mehr getan habe. Einem Blogeintrag.
-excerpt:
-  Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich schon
-  viel zu lange nicht mehr getan habe. Einem Blogeintrag.
+description: Das Wochenende werde ich heute mal wieder mit etwas einläuten, was
+  ich schon viel zu lange nicht mehr getan habe. Einem Blogeintrag.
+excerpt: Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich
+  schon viel zu lange nicht mehr getan habe. Einem Blogeintrag.
 focusKeyword: ""
 labels:
   - Arbeit
@@ -48,13 +46,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "3029"
+image: /img/demo.jpg
+errors: []
 subTitle: Tagebucheintrag
+  
 ---
 
-![Das Corpus Delicti](http://cardamonchai.com/wp-content/uploads/2012/05/img_20120518_095143-640x640.jpg " [](/wp-content/uploads/2012/05/img_20120518_095143.jpg)  Das Corpus Delicti")
+![Das Corpus Delicti](http://cardamonchai.com/wp-content/uploads/2012/05/img_20120518_095143-640x640.jpg "[ ](/wp-content/uploads/2012/05/img_20120518_095143.jpg)  Das Corpus Delicti")
 
-<strong>Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich
-schon viel zu lange nicht mehr getan habe. Einem Blogeintrag.</strong>
+**Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich schon
+viel zu lange nicht mehr getan habe. Einem Blogeintrag.**
 
 Man kennt das ja. Man schreibt Bewerbungen. Eine hier hin und eine dort hin. Die
 eine Stellenbeschreibung trifft mehr, die andere etwas weniger auf einen zu. Und
@@ -73,7 +74,7 @@ Perle. Ich empfehle Euch heute wärmstens:
 [BOWERBIRDS - Hymns For A Dark Horse](http://deadoceans.com/onesheet.php?cat=DOC017).
 Hört auf jeden Fall mal rein.
 
-![cardasport](http://cardamonchai.com/wp-content/uploads/2012/05/img_20120518_100356-640x640.jpg " [](/wp-content/uploads/2012/05/img_20120518_100356.jpg)  cardasport")
+![cardasport](http://cardamonchai.com/wp-content/uploads/2012/05/img_20120518_100356-640x640.jpg "[ ](/wp-content/uploads/2012/05/img_20120518_100356.jpg)  cardasport")
 
 Kater No. 1 kann jetzt von hinten in die Küchenschublade klettern. Kater No. 2,
 nicht ganz so schlau, versucht nun schmollend, selbige von außen zu öffnen. Nach
@@ -96,7 +97,7 @@ Festival No. 1 dieses Jahr rückt näher, es werden schon Pläne geschmiedet. Da
 Lineup ist großartig. Leider spielen wieder ein paar Bands parallel, daher heißt
 es Prioritäten setzen. Unser bisheriger Plan lautet:
 
-<strong>Freitag:</strong>
+**Freitag:**
 
 12:50 - 13:20 THE RIFLES 14:50 - 15:35 ENTER SHIKARI 15:35 - 16:20 THE MACCABEES
 16:00 - 17:00 REFUSED 17:25 - 18:35 TENACIOUS D 19:05 - 20:20 BILLY TALENT
@@ -105,13 +106,13 @@ es Prioritäten setzen. Unser bisheriger Plan lautet:
 (Wobei TENACIOUS D und Pete Doherty parallel spielen und ich eigentlich schon
 lieber Pete sehen würde, hm...)
 
-<strong>Samstag:</strong>
+**Samstag:**
 
 13:30 - 13:55 JAHCOUSTIX 16:30 - 17:00 WHILE SHE SLEEPS 17:25 - 18:35 DROPKICK
 MURPHYS 19:05 - 20:20 THE OFFSPRING 20:55 - 23:00 DIE TOTEN HOSEN 23:35 - 0:30
 AS I LAY DYING 1:00 - 2:00 OPETH
 
-<strong>Sonntag:</strong>
+**Sonntag:**
 
 14:05 - 14:50 THE SUBWAYS 14:35 - 15:15 ANTHRAX 15:10 - 15:55 CYPRESS HILL
 16:20 - 17:20 KASABIAN 19:30 - 20:40 SOUNDGARDEN 20:40 - 21:40 EVANESCENCE
@@ -126,7 +127,8 @@ es wird.
 Trotzdem wird es natürlich nächstes Jahr auch wieder toll, das traditionelle
 Southside-Festival zu bereisen, ich hoffe, dass viele von der alten Truppe
 wieder mit dabei sind, speziell natürlich
-[Tofutante](http://hoochi1107.wordpress.com/).
+[Hoochi](http://hoochi1107.wordpress.com/) und die
+[Tofutante](http://tofutante.wordpress.com/).
 
 Jetzt bleibt mir noch, allen ein tolles Wochenende und eine ebensolche
 Festivalsaison mit ganz viel Sonne und wunderbarer Musik zu wünschen. Bleibt mir
@@ -138,22 +140,21 @@ Viel Spaß damit.
 
 [youtube=http://www.youtube.com/watch?v=AiqhuYe_Z70]
 
-<strong>BOWERBIRDS - IN OUR TALONS</strong><em>And the warblers sing:
-deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!</em><em>And the sparrows
-sing: deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!</em><em>Through the
-wheels, through the wheels on the interstate,</em><em>And hear no
-refrain.</em><em>And the beetles creep
-(deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!)</em><em>On the crippled
-trees, (deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!)</em><em>And they
-look down to where the soil must have been, wondering.</em><em>And no, youre not
-alone. No, my cousins, youre not alone.</em><em>Youre in our talons now, and
-were never letting go.</em><em>And the branches bend
-(deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!)</em><em>To the growing sea.
-(deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!)</em><em>And they ask, and
-they ask it to spread their seeds, </em><em>For they know theyre
-drowning.</em><em>And no, youre not alone. No, my cousins, youre not
-alone.</em><em>Youre in our talons now, and were never letting go.</em><em>Youre
-in our headlights, frozen, and no, were not stopping.</em><em>You may not
-believe, but even we were scared at first.</em><em>It takes a lot of nerve to
-destroy this wondrous earth.</em><em>Were only human; this at least weve
-learned</em>
+**BOWERBIRDS - IN OUR TALONS** _And the warblers sing:
+deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!_ _And the sparrows sing:
+deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!_ _Through the wheels, through
+the wheels on the interstate,_ _And hear no refrain._ _And the beetles creep
+(deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!)_ _On the crippled trees,
+(deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!)_ _And they look down to
+where the soil must have been, wondering._ _And no, youre not alone. No, my
+cousins, youre not alone._ _Youre in our talons now, and were never letting go._
+_And the branches bend (deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!)_ _To
+the growing sea. (deet-deet-deet-deet-deet-deet-deet-deet-deet-deet!)_ _And they
+ask, and they ask it to spread their seeds,_ _For they know theyre drowning._
+_And no, youre not alone. No, my cousins, youre not alone._ _Youre in our talons
+now, and were never letting go._ _Youre in our headlights, frozen, and no, were
+not stopping._ _You may not believe, but even we were scared at first._ _It
+takes a lot of nerve to destroy this wondrous earth._ _Were only human; this at
+least weve learned_
+
+  

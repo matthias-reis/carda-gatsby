@@ -4,11 +4,9 @@ seoTitle: Regen am Freitag - Mit musikalischer Untermalung
 slug: regen-am-freitag
 link: /2013/05/regen-am-freitag/
 fileName: 2013-05---regen-am-freitag.md
-description:
-  Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh und
-  wünsche Euch ein tolles Wochenende!
-excerpt:
-  Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh und
+description: Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh
+  und wünsche Euch ein tolles Wochenende!
+excerpt: Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh und
   wünsche Euch ein tolles Wochenende!
 focusKeyword: Regen
 labels:
@@ -46,10 +44,11 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "5545"
+image: /img/demo.jpg
+errors: []
 subTitle: Mit musikalischer Untermalung
+  
 ---
-
-### Meine Lieben,<strong>ich wünsche Euch ein tolles Wochenende! Hierzulande regnet es, soweit das Auge reicht. Die Hoffnung, dass das diesen Sommer mit dem Wetter noch was wird, habe ich nur noch nicht verloren, weil mir Freunde aus dem Ausland immer wieder vom Sonnenbaden und anderen tollen Sommeraktivitäten berichten. Und irgendwann muss der blaue Himmel ja schließlich auch zu uns kommen.</strong>
 
 ![Die Nachbarn flüchten schon](http://cardamonchai.files.wordpress.com/2013/05/img_5504.jpg?w=300 "Die Nachbarn flüchten schon")
 
@@ -79,16 +78,15 @@ wundervolles Video mit einem Stück, das die drei für den Film
 [SOUND CITY](http://buy.soundcitymovie.com) aufgenommen haben. Ihr müsst es Euch
 einfach anhören/ansehen, es ist zu genial.
 
-<em><strong>Hier sind für Euch Josh Homme, Dave Grohl und Trent Reznor mit
-MANTRA</strong></em>
+_ **Hier sind für Euch Josh Homme, Dave Grohl und Trent Reznor mit MANTRA** _
 [[youtube http://www.youtube.com/watch?v=L2kGNdE0b5Q&amp;w=560&amp;h=315]](https://www.youtube.com/watch?v=L2kGNdE0b5Q&feature=player_detailpage)
-<em>Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der
+_Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der
 Musik von Dave, Trent und Josh in der Badewanne ab und lese ein paar Seiten in
-diesem wundervollen Buch:</em>
+diesem wundervollen Buch:_
 
 ![Stay home read a book | full](http://cardamonchai.files.wordpress.com/2013/05/img_5507.jpg "Stay home read a book")
 
-<em>Bis bald!
-Tschüss!</em><a class="banner banner-green" href="http://cardamonchai.com/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf" target="_blank" rel="noopener"><span class="head">Die
-ultimative Festivalliste</span><span class="text">Jetzt runterladen und
-ausdrucken </span></a>
+_Bis bald! Tschüss!_
+[Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
+
+  

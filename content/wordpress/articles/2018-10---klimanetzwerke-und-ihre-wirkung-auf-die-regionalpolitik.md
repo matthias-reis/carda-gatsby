@@ -4,13 +4,12 @@ seoTitle: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik
 slug: klimanetzwerke-universitaet-lund
 link: /2018/10/klimanetzwerke-universitaet-lund/
 fileName: 2018-10---klimanetzwerke-und-ihre-wirkung-auf-die-regionalpolitik.md
-description:
-  Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den Klimawandel
-  unterstützen. Ihre Vorteile müssen noch klarer kommuniziert werden.
-excerpt:
-  Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den Klimawandel
-  unterstützen. Nachforschungen der Universität Lund haben ergeben, dass ihre
-  Vorteile in Zukunft noch klarer kommuniziert werden müssen.
+description: Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den
+  Klimawandel unterstützen. Ihre Vorteile müssen noch klarer kommuniziert
+  werden.
+excerpt: Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den
+  Klimawandel unterstützen. Nachforschungen der Universität Lund haben ergeben,
+  dass ihre Vorteile in Zukunft noch klarer kommuniziert werden müssen.
 focusKeyword: Klimanetzwerke
 labels:
   - Henner Busch
@@ -28,13 +27,15 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "22423"
+image: /img/demo.jpg
+errors: []
 subTitle: Neue Forschungsergebnisse der Universität Lund
+  
 ---
 
-<em>Lund – </em><strong>Klimanetzwerke sollen in Zukunft die Kommunen im Kampf
-gegen den Klimawandel unterstützen. Um ihr volles Potential ausschöpfen zu
-können, müssen jedoch die Vorteile einer Mitgliedschaft deutlich klarer
-kommuniziert werden. </strong>
+_Lund –_ **Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den
+Klimawandel unterstützen. Um ihr volles Potential ausschöpfen zu können, müssen
+jedoch die Vorteile einer Mitgliedschaft deutlich klarer kommuniziert werden.**
 
 Um die Klimapolitik auch lokal schneller voranzutreiben, sollte die Bedeutung
 der Netzwerke noch weiter hervorgehoben werden. Das geht aus aktuellen
@@ -121,3 +122,5 @@ Pressemitteilung: Henner Busch,
 Geography
 
 ![Klimanetzwerke | full](http://cardamonchai.com/wp-content/uploads/2018/10/Lund.png)
+
+  

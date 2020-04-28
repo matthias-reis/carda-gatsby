@@ -4,11 +4,10 @@ seoTitle: Faire Taschen aus Teebeuteln - Upcycling Fashion von Ragbag
 slug: faire-taschen-aus-teesaecken-ragbag-im-test
 link: /2018/04/faire-taschen-aus-teesaecken-ragbag-im-test/
 fileName: 2018-04---ragbag-im-test.md
-description:
-  "Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen Upcycling Taschen
-  begeisterten mich sofort. Jetzt gibt es was Neues: Taschen aus Teesäcken."
-excerpt:
-  "Werbung - Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen
+description: "Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen
+  Upcycling Taschen begeisterten mich sofort. Jetzt gibt es was Neues: Taschen
+  aus Teesäcken."
+excerpt: "Werbung - Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen
   Upcycling Taschen begeisterten mich sofort. Jetzt gibt es was Neues: Taschen
   und Accessoires aus Teesäcken."
 focusKeyword: Ragbag
@@ -38,14 +37,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "20519"
+image: /img/demo.jpg
+errors: []
 subTitle: Faire Taschen aus Teesäcken
+  
 ---
 
-<em>Werbung\*</em>
+_Werbung\*_
 
-<strong>Ragbag habe ich vor etwa 10 Jahren kennengelernt. Damals sah ich im
-Dritten einen Bericht über die Taschen und Geldbörsen, die das Label in Indien
-aus gesammelten Plastiktüten herstellen lässt.</strong>
+**Ragbag habe ich vor etwa 10 Jahren kennengelernt. Damals sah ich im Dritten
+einen Bericht über die Taschen und Geldbörsen, die das Label in Indien aus
+gesammelten Plastiktüten herstellen lässt.**
 
 ![Ragbag](http://cardamonchai.com/wp-content/uploads/2018/04/41089336391_94e68fe6dd_z-400x267.jpg 'Mein "altes" Portemonnaie')
 
@@ -64,7 +66,9 @@ Name.
 Die Firmenphilosophie ist klar definiert. Die Arbeiter werden gut behandelt und
 fair bezahlt. Alle Materialien sind gebraucht und müssen nicht erst hergestellt
 werden. Das hält den
-[Müllproblem](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/) entgegen.
+[ökologischen Fußabdruck](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/)
+möglichst gering und wirkt dem
+[Müllproblem](/2017/08/kenia-sagt-plastiktueten-nein-danke/) entgegen.
 
 ![Ragbag](http://cardamonchai.com/wp-content/uploads/2018/04/26217748167_0021fbbd83_z-400x267.jpg)
 
@@ -116,6 +120,8 @@ Taschen gefallen. Eine gute Idee, oder?
 [gallery type="rectangular" size="medium" link="none"
 ids="20518,20517,20515,20514,20512,20511,20510,20505,20509,20508,20507"]
 
-\*<em>Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung
-wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
-Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). </em>
+- _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
+  dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
+  findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+  

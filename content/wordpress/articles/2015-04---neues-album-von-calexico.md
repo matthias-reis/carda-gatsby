@@ -4,12 +4,10 @@ seoTitle: Calexico - "Edge Of The Sun" ist da! - Rezension
 slug: calexico-edge-of-the-sun-ist-da
 link: /2015/04/calexico-edge-of-the-sun-ist-da/
 fileName: 2015-04---neues-album-von-calexico.md
-description:
-  Die neue Platte von Calexico "Edge Of The Sun" ist endlich da! Ich habe schon
-  mal reingehört!
-excerpt:
-  Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei der
-  neuen Platte etwas ganz besonderes sein.
+description: Die neue Platte von Calexico "Edge Of The Sun" ist endlich da! Ich
+  habe schon mal reingehört!
+excerpt: Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei
+  der neuen Platte etwas ganz besonderes sein.
 focusKeyword: Edge Of The Sun
 labels:
   - Bands & Reviews
@@ -34,15 +32,17 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "11730"
+image: /img/demo.jpg
+errors: []
 subTitle: '"Edge Of The Sun" ist da!'
+  
 ---
 
 ![Calexico - Edge Of The Sun ist da!](http://cardamonchai.com/wp-content/uploads/2015/04/Calexico-Edge-Of-The-Sun-3-640x480.jpg "Calexico - Edge Of The Sun ist da!")
 
-<strong>Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei
-der neuen Platte etwas ganz besonderes sein: Die Limited Deluxe Edition als
-Doppel-LP in Türkis und Babyblau mit 6 Bonus-Tracks, mp3-Album und
-T-Shirt.</strong>
+**Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei der
+neuen Platte etwas ganz besonderes sein: Die Limited Deluxe Edition als
+Doppel-LP in Türkis und Babyblau mit 6 Bonus-Tracks, mp3-Album und T-Shirt.**
 
 Weil ich das Ganze auch noch direkt bei Calexico bestellt habe, was viel
 romantischer ist, als das Ding irgendwo vorzubestellen und direkt am
@@ -139,6 +139,20 @@ einer Calexico-Plattenskala von 1 - 10, wobei eine 10 am besten ist, eine
 runde 8. Bei mir wird sie in den nächsten Tagen und Wochen auf jeden Fall rund
 laufen. Calexico - "Edge Of The Sun" - Ein Must-hear.
 
-## Calexico Wegweiser<ol><li> [Homepage](/2015/04/calexico-live-open-air-dachau-25-07-2007/) Calexico
+## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 
-[](/2015/03/die-ultimative-vegane-festivalliste)
+1.  [live @ Southside Festival Neuhausen ob Eck Juni 2008](/2015/04/calexico-live-southside-festival-2008/)
+1.  [live @ Muffathalle München 16.10.2008](/2015/04/calexico-live-muffathalle-muenchen-16-10-2008/)
+1.  [live @ Roxy Ulm 27.01.2009](/2009/01/calexico-live-roxy-ulm/)
+1.  [live @ Muffathalle München 8.07.2009](/2009/07/calexico-live-muffathalle-munchen/)
+1.  [stellen neue Single "Splitter" vor 31.07.2012](/2012/07/calexico-stellen-neue-singe-splitter-vor/)
+1.  [live @ Muffathalle München 29.11.2012](/2012/12/calexico-live-muffathalle-munchen-29-11-2012/)
+1.  bringen neues Album "Edge Of The Sun" raus 14.04.2015
+1.  [live @ Große Freiheit 36 Hamburg 15.04.2015](/2015/04/calexico-live-grosse-freiheit-36-15-04-2015/)
+1.  [live @ A Summer's Tale Festival 08.08.2015](/2015/08/calexico-live-a-summers-tale-festival-2015/)
+1.  [stellen neue Single "End Of The World With You" vor](/2017/10/calexico-the-thread-that-keeps-us/)
+    [Homepage](http://www.casadecalexico.com) Calexico
+
+[Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+  

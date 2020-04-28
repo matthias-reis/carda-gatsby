@@ -4,12 +4,12 @@ seoTitle: Veganes Chili mit selbst gebackenem Fladenbrot - Rezept für 2 Persone
 slug: veganes-chili-mit-fladenbrot
 link: /2018/06/veganes-chili-mit-fladenbrot/
 fileName: 2018-06---veganes-chili-mit-selbst-gebackenem-fladenbrot.md
-description:
-  "Ihr kommt ausgepowert vom Sport und habt Lust auf ein veganes Chili? Hier
-  kommt ein geniales Rezept. Ich verspreche Euch: Ihr werdet satt und glücklich!"
-excerpt:
-  "Ihr kommt ausgepowert vom Sport und habt Lust auf ein veganes Chili? Hier
-  kommt ein geniales Rezept. Ich verspreche Euch: Ihr werdet satt und glücklich!"
+description: "Ihr kommt ausgepowert vom Sport und habt Lust auf ein veganes
+  Chili? Hier kommt ein geniales Rezept. Ich verspreche Euch: Ihr werdet satt
+  und glücklich!"
+excerpt: "Ihr kommt ausgepowert vom Sport und habt Lust auf ein veganes Chili?
+  Hier kommt ein geniales Rezept. Ich verspreche Euch: Ihr werdet satt und
+  glücklich!"
 focusKeyword: Veganes Chili
 labels:
   - Chili Rezept
@@ -30,13 +30,16 @@ status: publish
 isWerbung: false
 isAffiliate: false
 thumbnailId: "21229"
+image: /img/demo.jpg
+errors: []
 subTitle: Rezept für zwei Personen
+  
 ---
 
-<strong>Wenn man so richtig schön ausgepowert vom Sport kommt, darf es gerne mal
-etwas richtig Kräftiges sein. Wie wäre es zum Beispiel mit einem tollen veganen
-Chili mit selbst gebackenem Fladenbrot? Matze hat sich da vor Kurzem ein tolles
-neues Rezept ausgedacht.</strong>
+**Wenn man so richtig schön ausgepowert vom Sport kommt, darf es gerne mal etwas
+richtig Kräftiges sein. Wie wäre es zum Beispiel mit einem tollen veganen Chili
+mit selbst gebackenem Fladenbrot? Matze hat sich da vor Kurzem ein tolles neues
+Rezept ausgedacht.**
 
 Wer nach einem aktiven Tag Hunger hat, holt sich gerne einen Nachschlag. So will
 es das Gesetz. Und aus diesem Grund sind die Portionen hier auch nicht knapp
@@ -50,14 +53,12 @@ vorbereiten. Der Teig muss auch ein Weilchen gehen.
 
 ## Zutaten Fladenbrot
 
-<ul>
-    <li>500 g helles Dinkel- oder Weizenmehl</li>
-    <li>350 ml Wasser</li>
-    <li>1 Packung Trockenhefe</li>
-    <li>1/2 TL Zucker</li>
-    <li>1 TL Salz</li>
-    <li>Sesam oder Schwarzkümmel</li>
-</ul>
+- 500 g helles Dinkel- oder Weizenmehl
+- 350 ml Wasser
+- 1 Packung Trockenhefe
+- 1/2 TL Zucker
+- 1 TL Salz
+- Sesam oder Schwarzkümmel
 
 ## Zubereitung Fladenbrot
 
@@ -77,19 +78,17 @@ auf einen Rost.
 
 ## Zutaten veganes Chili
 
-<ul>
-    <li>1/4 - 1/2 Gemüsezwiebel</li>
-    <li>100 g Sojagranulat</li>
-    <li>1 Spitzpaprika</li>
-    <li>1 Dose Mais</li>
-    <li>100 g getrocknete Bohnen (Black Eyed Beans)</li>
-    <li>1 große Dose geschälte Tomaten</li>
-    <li>1 - 2 Chilischoten</li>
-    <li>Sojasauce</li>
-    <li>Agavendicksaft</li>
-    <li>Paprikapulver</li>
-    <li>Raucharoma</li>
-</ul>
+- 1/4 - 1/2 Gemüsezwiebel
+- 100 g Sojagranulat
+- 1 Spitzpaprika
+- 1 Dose Mais
+- 100 g getrocknete Bohnen (Black Eyed Beans)
+- 1 große Dose geschälte Tomaten
+- 1 - 2 Chilischoten
+- Sojasauce
+- Agavendicksaft
+- Paprikapulver
+- Raucharoma
 
 ## Zubereitung veganes Chili
 
@@ -120,3 +119,5 @@ auf kleiner Flamme köcheln. Schmeckt es mit Paprikapulver ab und serviert es
 zusammen mit dem Brot.
 
 Matze &amp; Anne wünschen guten Appetit! &lt;3
+
+  
