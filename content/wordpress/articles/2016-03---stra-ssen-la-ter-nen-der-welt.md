@@ -39,7 +39,7 @@ subTitle: Gedicht und Bilder
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (29:43)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (29:43)
 
 <!--
 ![Straßenlaternen](http://cardamonchai.com/wp-content/uploads/2016/03/17181970449_87b4bc5eac_z-640x427.jpg)

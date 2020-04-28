@@ -60,7 +60,7 @@ subTitle: Zurück in die Zukunft
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (57:59)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (57:59)
 
 <!--
 **Sissi:** „Alles prima, Franzl. Ich habe mir gerade einen Kaffee geholt. Denke

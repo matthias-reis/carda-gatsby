@@ -42,7 +42,7 @@ subTitle: Ein geschichtsträchtiger Ort
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (84:83)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (84:83)
 
 <!--
 **Raben kreisen um die Zinnen der alten Gemäuer. Ein kühles Lüftchen zieht durch

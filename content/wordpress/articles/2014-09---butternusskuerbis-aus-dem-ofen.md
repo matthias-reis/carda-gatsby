@@ -53,7 +53,7 @@ subTitle: Herbstlich bunt und saftig
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <li> (12:185)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (12:185)
 
 <!--
 Nachdem der Herzmann und ich letztes Wochenende von unserem Ausflug ins Allgäu

@@ -41,7 +41,7 @@ subTitle: Science-Fiction aus dem Hause Reis
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (32:58)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (32:58)
 
 <!--
 _Werbung in eigener Sache / Affiliate Links\*_

@@ -70,7 +70,7 @@ subTitle: Von Thai Massage und traditioneller chinesischer Medizin
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (82:31)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (82:31)
 
 <!--
 ![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/14127413780_afc53cd050_z-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Auf dem Weg zur Tiefenentspannung")

@@ -45,7 +45,7 @@ subTitle: Ein perfektes Weihnachtsgeschenk
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <li> (66:106)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (66:106)
 
 <!--
 ![Denise Weber (rechts im Bild) mit ihrer Kollegin Maika Lapuschkin](http://cardamonchai.com/wp-content/uploads/2015/12/Maika-Lapuschkin-und-Denise-Weber-640x512.png "Denise Weber (rechts im Bild) mit ihrer Kollegin Maika Lapuschkin")

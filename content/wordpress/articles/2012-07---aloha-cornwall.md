@@ -54,7 +54,7 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 6/9
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (34:68)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (34:68)
 
 <!--
 [gallery link="none" type="rectangular"

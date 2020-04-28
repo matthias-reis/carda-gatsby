@@ -32,7 +32,7 @@ subTitle: Vegane Turnschuhe für alle
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (155:20)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (155:20)
 
 <!--
 Die Gruppe hat inzwischen sensationelle 3.540 Mitglieder. Vorgestellt werden die

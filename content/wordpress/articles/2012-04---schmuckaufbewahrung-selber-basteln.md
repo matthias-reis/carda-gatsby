@@ -46,7 +46,7 @@ subTitle: Bastelstunde
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (63:12)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (63:12)
 
 <!--
 ![Foto: cardamonchai 3/2012](https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg "Schmuckaufbewahrung selber basteln")

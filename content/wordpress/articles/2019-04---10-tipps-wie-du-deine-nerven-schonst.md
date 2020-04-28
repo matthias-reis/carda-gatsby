@@ -46,7 +46,7 @@ subTitle: <strong>Alltag für Fortgeschrittene</strong>
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (41:6)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (41:6)
 
 <!--
 **Ist das dieses Leben, von dem alle sprechen? Überall fliegen die Fetzen, es

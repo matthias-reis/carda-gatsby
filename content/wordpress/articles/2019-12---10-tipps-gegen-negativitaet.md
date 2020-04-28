@@ -35,7 +35,7 @@ subTitle: Eine Chance für gute Stimmung
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (59:46)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (59:46)
 
 <!--
 **Negativität ist etwas Fieses. Sie hält einen am Boden, bremst die Kreativität

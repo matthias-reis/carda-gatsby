@@ -41,7 +41,7 @@ subTitle: Neue Beauty-Lieblinge von Bioturm
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <li> (50:34)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (50:34)
 
 <!--
 _Werbung\*_

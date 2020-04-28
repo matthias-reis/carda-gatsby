@@ -34,7 +34,7 @@ subTitle: Grausame Hühnerzucht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (100:15)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (100:15)
 
 <!--
 **45 Millionen männliche Hühnerküken werden pro Jahr alleine in Deutschland

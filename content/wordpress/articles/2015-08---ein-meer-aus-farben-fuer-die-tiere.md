@@ -35,7 +35,7 @@ subTitle: Bilder von Denise Slapansky
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (32:9)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (32:9)
 
 <!--
 ![Denise auf dem Überlebenshof Scottmaring](http://cardamonchai.com/wp-content/uploads/2015/08/11913231_1009917619054983_262499720_n-640x853.jpg "Denise auf dem Überlebenshof Scottmaring")

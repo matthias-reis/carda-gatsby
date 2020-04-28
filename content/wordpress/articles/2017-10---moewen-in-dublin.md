@@ -35,7 +35,7 @@ subTitle: Bunte Bilderserie mit original Irischen Seevögeln
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (30:28)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (30:28)
 
 <!--
 **In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen! Ein paar Mal

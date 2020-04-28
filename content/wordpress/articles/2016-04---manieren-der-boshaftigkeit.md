@@ -36,7 +36,7 @@ subTitle: Ein Flarf-Gedicht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (22:25)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (22:25)
 
 <!--
 <blockquote>Je länger eine Operation dauert, umso risikoreicher ist sie.

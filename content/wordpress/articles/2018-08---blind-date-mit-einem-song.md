@@ -38,7 +38,7 @@ subTitle: '"I Build This Garden For Us" von Lenny Kravitz'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (59:47)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (59:47)
 
 <!--
 **Was kommt dabei heraus, wenn 15 Garten-affine Blogger\*innen verabreden, einen

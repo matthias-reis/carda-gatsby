@@ -50,7 +50,7 @@ subTitle: Nach allen Regeln der Kunst
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <div> (121:42)
+## unknown: Expected corresponding JSX closing tag for &lt;div> (121:42)
 
 <!--
 Die sogenannten „Gestaltgesetze der Wahrnehmung", die sich wie viele weitere

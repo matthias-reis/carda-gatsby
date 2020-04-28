@@ -34,7 +34,7 @@ subTitle: 16-jährige Schülerin demonstriert in China
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <sub> (12:86)
+## unknown: Expected corresponding JSX closing tag for &lt;sub> (12:86)
 
 <!--
 **Junge Menschen streiken derzeit weltweit für eine bessere Klimapolitik. Die

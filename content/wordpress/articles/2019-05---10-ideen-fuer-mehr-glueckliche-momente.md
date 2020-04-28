@@ -44,7 +44,7 @@ subTitle: Achtsamkeit im Alltag
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (42:40)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (42:40)
 
 <!--
 **Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach, glücklich zu sein.

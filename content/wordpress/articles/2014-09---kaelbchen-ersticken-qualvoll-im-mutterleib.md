@@ -31,7 +31,7 @@ subTitle: Das unfassbare Leid der Kühe
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <h3> (100:16)
+## unknown: Expected corresponding JSX closing tag for &lt;h3> (100:16)
 
 <!--
 Dies geht aus der Studie von Rhien et. al. (2011) hervor, in der Daten aus 53

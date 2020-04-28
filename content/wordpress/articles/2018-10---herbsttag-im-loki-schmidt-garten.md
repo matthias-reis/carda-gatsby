@@ -36,7 +36,7 @@ subTitle: Astern, Bienen und Sonnenschein
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (31:15)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (31:15)
 
 <!--
 _Bildergalerie_

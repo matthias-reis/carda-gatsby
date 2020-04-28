@@ -49,7 +49,7 @@ subTitle: Frühstück im Katzencafé
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <i> (182:95)
+## unknown: Expected corresponding JSX closing tag for &lt;i> (182:95)
 
 <!--
 **Im _Katzentempel_ am Kleinen Schäferkamp 24 in Hamburg kann man nicht nur

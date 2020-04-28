@@ -36,7 +36,7 @@ subTitle: Perle an der Nordsee
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (28:21)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (28:21)
 
 <!--
 Vielen Dank an Kurt Gerhard für die Inspiration und an den Herzmann für das

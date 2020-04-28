@@ -43,7 +43,7 @@ subTitle: Besuch der Guinness Brauerei in Dublin
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (56:40)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (56:40)
 
 <!--
 **Traditionell wurde Guiness schon früher ohne den Klärvorgang mit Hausenblase

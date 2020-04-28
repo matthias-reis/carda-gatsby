@@ -42,7 +42,7 @@ subTitle: Fotos digitalisieren mit Photoshop und Lightroom
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <div> (34:572)
+## unknown: Expected corresponding JSX closing tag for &lt;div> (34:572)
 
 <!--
 **Schon seit Jahren habe ich eine Kiste mit alten Fotos in meinem Kleiderschrank

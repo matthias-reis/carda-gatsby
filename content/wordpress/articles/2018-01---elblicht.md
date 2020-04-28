@@ -37,7 +37,7 @@ subTitle: Flarfgedicht zum Jahresanfang
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (28:24)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (28:24)
 
 <!--
 **Könnt Ihr Euch noch an meine Flarfgedichte erinnern? Das letzte ist im letzten

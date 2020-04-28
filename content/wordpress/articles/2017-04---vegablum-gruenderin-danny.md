@@ -63,7 +63,7 @@ subTitle: <span class="s1">„Wir möchten Gutes tun und keinen Benz kaufen“</
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <span> (188:120)
+## unknown: Expected corresponding JSX closing tag for &lt;span> (188:120)
 
 <!--
 ![Vegablum](http://cardamonchai.com/wp-content/uploads/2017/04/34095028076_7be27a02bd_z-640x480.jpg)

@@ -31,7 +31,7 @@ subTitle: Verkaufen im Amazon Marketplace
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (100:41)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (100:41)
 
 <!--
 ![Nächstes Mal lieber wieder zum Trödel](http://cardamonchai.com/wp-content/uploads/2015/03/14848064653_920a09fd73_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Nächstes Mal lieber wieder zum Trödel")

@@ -41,7 +41,7 @@ subTitle: Luxus ohne Tierversuche
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (29:8)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (29:8)
 
 <!--
 Werbung, Anzeige &amp; Affiliate Link\*

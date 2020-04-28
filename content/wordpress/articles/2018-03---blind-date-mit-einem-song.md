@@ -43,7 +43,7 @@ subTitle: '"Peaches" von Presidents Of The United States'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (21:61)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (21:61)
 
 <!--
 Zum Jahresanfang gab es eine kleine Überraschung für mich: Björn vom Blog

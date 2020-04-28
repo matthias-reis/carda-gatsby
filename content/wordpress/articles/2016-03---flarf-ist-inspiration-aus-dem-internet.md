@@ -36,7 +36,7 @@ subTitle: Poesie der Vernetzung
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (41:20)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (41:20)
 
 <!--
 ![Flarf](http://cardamonchai.com/wp-content/uploads/2016/03/16277877741_01b8d8a4b5_z-640x426.jpg "Flarf regt die Phantasie an")

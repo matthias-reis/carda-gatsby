@@ -33,7 +33,7 @@ subTitle: Wir werden Baumpaten!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (28:13)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (28:13)
 
 <!--
 Doch leider stellte sich nach mehrfachen verzweifelten, gescheiterten

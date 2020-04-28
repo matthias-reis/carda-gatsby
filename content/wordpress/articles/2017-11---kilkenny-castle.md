@@ -40,7 +40,7 @@ subTitle: Ein Schloss mit vielen Gesichtern
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (51:73)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (51:73)
 
 <!--
 **Das weltberühmte Kilkenny Castle steht auf einer leichten Anhöhe oberhalb der

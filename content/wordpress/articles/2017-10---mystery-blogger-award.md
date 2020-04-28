@@ -37,7 +37,7 @@ subTitle: Kohlrabi und Deichkind
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (32:13)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (32:13)
 
 <!--
 **Vor einigen Tagen wurde ich von Björn vom Blog

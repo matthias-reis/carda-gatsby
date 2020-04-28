@@ -65,7 +65,7 @@ subTitle: Von Warteschleifen und Wutanfällen
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (44:11)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (44:11)
 
 <!--
 Erstmal zu meiner Verteidigung: Ich weiß, ich mache Euch verrückt, aber das tun

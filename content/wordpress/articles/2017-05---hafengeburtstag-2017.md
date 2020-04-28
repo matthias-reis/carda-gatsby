@@ -54,7 +54,7 @@ subTitle: Ein Fest in Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (44:50)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (44:50)
 
 <!--
 **Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und der

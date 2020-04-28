@@ -36,7 +36,7 @@ subTitle: Die Bille in Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (23:8)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (23:8)
 
 <!--
 **Als wir ganz frisch in Hamburg angekommen sind, haben wir eine Zeitlang in

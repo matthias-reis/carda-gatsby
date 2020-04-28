@@ -43,7 +43,7 @@ subTitle: Nachhaltiger Tee aus Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (66:13)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (66:13)
 
 <!--
 _Werbung\*_

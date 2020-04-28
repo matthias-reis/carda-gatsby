@@ -84,7 +84,7 @@ subTitle: Von Jamie Oliver, Agatha Christie und  Kunst an der Themse
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <div> (73:83)
+## unknown: Expected corresponding JSX closing tag for &lt;div> (73:83)
 
 <!--
 **In diesem Jahr hatten wir uns für den Geburtstag meiner Mutter am St.

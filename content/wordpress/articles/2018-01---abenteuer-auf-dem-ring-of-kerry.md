@@ -32,7 +32,7 @@ subTitle: Irlands windigste Straße
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (53:55)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (53:55)
 
 <!--
 **Irland ist nicht nur grün und gemütlich. Die Insel ist auch windig. Die volle

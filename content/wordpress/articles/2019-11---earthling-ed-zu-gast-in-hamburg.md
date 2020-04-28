@@ -44,7 +44,7 @@ subTitle: '"Es ist OK, ein*e wütende Veganer*in zu sein!"'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (26:39)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (26:39)
 
 <!--
 **Am Samstag hatten wir das große Glück bei einer ganz besonderen Veranstaltung

@@ -42,7 +42,7 @@ subTitle: And the nominees are...
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (25:29)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (25:29)
 
 <!--
 Bereits am 18. Oktober erreichte mich die Nachricht von der lieben

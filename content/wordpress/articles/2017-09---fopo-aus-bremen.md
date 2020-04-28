@@ -45,7 +45,7 @@ subTitle: Trockenfrüchte fürs Klima
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <sub> (40:121)
+## unknown: Expected corresponding JSX closing tag for &lt;sub> (40:121)
 
 <!--
 Werbung\*

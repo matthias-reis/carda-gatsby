@@ -9,7 +9,7 @@ module.exports = async (l, e, data) => {
   } catch (error) {
     counter++;
     const message = error.message.split('\n')[0];
-    data.content = `## ${message}
+    data.content = `## ${message.replace(/</g, '&lt;')}
 
 <!--
 ${data.content}

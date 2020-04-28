@@ -60,7 +60,7 @@ subTitle: '"Die verlorene Tochter"'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <div> (29:229)
+## unknown: Expected corresponding JSX closing tag for &lt;div> (29:229)
 
 <!--
 Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt nachdenklich.

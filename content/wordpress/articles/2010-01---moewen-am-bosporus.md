@@ -31,7 +31,7 @@ subTitle: Artisten der Lüfte
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (17:42)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (17:42)
 
 <!--
 Diese Aufnahmen sind mir im Januar 2010 in Istanbul gelungen.

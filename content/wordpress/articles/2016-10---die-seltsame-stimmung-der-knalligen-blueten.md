@@ -34,7 +34,7 @@ subTitle: Gedicht zum Herbst
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (22:35)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (22:35)
 
 <!--
 ![30022683975_57e0e21cf7_z](http://cardamonchai.com/wp-content/uploads/2016/10/30022683975_57e0e21cf7_z-640x427.jpg)

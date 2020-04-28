@@ -94,7 +94,7 @@ subTitle: Werden wir überwacht?
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <div> (23:76)
+## unknown: Expected corresponding JSX closing tag for &lt;div> (23:76)
 
 <!--
 Facebook und Google+ haben eine Klarnamenpflicht in Ihre AGB aufgenommen. Die

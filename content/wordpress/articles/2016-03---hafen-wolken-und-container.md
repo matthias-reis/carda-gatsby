@@ -42,7 +42,7 @@ subTitle: Stürmischer Januar in Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (48:45)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (48:45)
 
 <!--
 **Eines stürmischen Januartages waren meine Eltern bei uns in Hamburg zu Besuch

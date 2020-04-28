@@ -40,7 +40,7 @@ subTitle: Gefiederte Besucher im Vergnügungspark
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (47:73)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (47:73)
 
 <!--
 **_"Birds, Birds, Birds"_ - Im Tivoli sind uns nicht nur jede Menge Menschen mit

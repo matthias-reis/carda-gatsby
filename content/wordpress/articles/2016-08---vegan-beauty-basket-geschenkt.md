@@ -33,7 +33,7 @@ subTitle: Box ab jetzt alle zwei Monate
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (45:95)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (45:95)
 
 <!--
 Werbung\*

@@ -38,7 +38,7 @@ subTitle: Vegane Schokolade aus Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <li> (89:105)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (89:105)
 
 <!--
 _Werbung\*_

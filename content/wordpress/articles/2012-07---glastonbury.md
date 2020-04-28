@@ -51,7 +51,7 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 3/12
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (44:23)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (44:23)
 
 <!--
 [gallery type="rectangular" size="large"

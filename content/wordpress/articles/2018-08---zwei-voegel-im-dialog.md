@@ -36,7 +36,7 @@ subTitle: Unterhaltung auf einem Straßenschild
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (14:64)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (14:64)
 
 <!--
 <blockquote>Evolution, Freiheit

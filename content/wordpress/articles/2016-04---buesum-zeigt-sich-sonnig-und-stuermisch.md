@@ -31,7 +31,7 @@ subTitle: Frühlingsausflug an die Nordsee
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (24:12)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (24:12)
 
 <!--
 **Büsum heißt auf Plattdeutsch "Büsen". 1140 wurde es unter dem Namen "Bivse"

@@ -34,7 +34,7 @@ subTitle: Die Ge­win­ner stehen fest!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (43:31)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (43:31)
 
 <!--
 **Freitag ist ein schöner Tag! Und weil das so ist, habe ich heute was wirklich

@@ -28,7 +28,7 @@ subTitle: Hamburg mit dem Fahrrad
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (23:19)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (23:19)
 
 <!--
 **Einige von Euch kennen bereits meine Bilder vom Meer und von der Elbe. Hin und

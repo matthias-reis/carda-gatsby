@@ -43,7 +43,7 @@ subTitle: Umweltkatastrophe durch Konsum
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (131:20)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (131:20)
 
 <!--
 **Brasilien, Paraguay und Bolivien befinden sich im Moment unter einer

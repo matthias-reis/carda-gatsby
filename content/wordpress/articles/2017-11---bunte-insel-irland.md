@@ -33,7 +33,7 @@ subTitle: Farbenfrohe Details in Kilkenny
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (20:30)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (20:30)
 
 <!--
 **Heute habe ich mal wieder ein paar Bilder von unserer Irlandreise für Euch

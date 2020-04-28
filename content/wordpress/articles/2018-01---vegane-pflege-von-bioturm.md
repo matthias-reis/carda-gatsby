@@ -42,7 +42,7 @@ subTitle: All Time Beauty-Favourites unter der Lupe
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (88:29)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (88:29)
 
 <!--
 Werbung\*

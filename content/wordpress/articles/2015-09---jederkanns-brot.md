@@ -37,7 +37,7 @@ subTitle: Einfaches veganes Vollkornbrot
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (25:10)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (25:10)
 
 <!--
 ![Veganes Vollkornbrot aus meinem Ofen](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0345-640x640.jpg "Veganes Vollkornbrot aus meinem Ofen")

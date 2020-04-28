@@ -36,7 +36,7 @@ subTitle: Ein Verein mit Herz für Tauben
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (97:50)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (97:50)
 
 <!--
 ![Stadttauben](http://cardamonchai.com/wp-content/uploads/2016/05/17160873227_6048e2ba21_z-640x427.jpg)

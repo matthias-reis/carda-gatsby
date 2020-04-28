@@ -56,7 +56,7 @@ subTitle: Sensitivpflege mit Manuka und Borretsch
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (42:47)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (42:47)
 
 <!--
 _Werbung\*_

@@ -40,7 +40,7 @@ subTitle: Neu ist gut
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (77:12)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (77:12)
 
 <!--
 **Progressivität ist ein Gewinn für uns alle. Würde sich die Welt nicht

@@ -30,7 +30,7 @@ subTitle: Eröffnung
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (38:46)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (38:46)
 
 <!--
 Am 5. Mai war es wieder soweit! Pünktlich zum Vatertag wurde in Hamburg der 827.

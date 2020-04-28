@@ -44,7 +44,7 @@ subTitle: Interview mit Marlin von Vegarn
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (125:65)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (125:65)
 
 <!--
 <hr />

@@ -47,7 +47,7 @@ subTitle: Fröhliche Menschen und altehrwürdige Bauten
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (68:5)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (68:5)
 
 <!--
 **Wie schon im letzten Beitrag erwähnt, starteten wir unseren diesjährigen

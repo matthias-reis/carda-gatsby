@@ -29,7 +29,7 @@ subTitle: Diese Bücher bringen wirklich was
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (137:53)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (137:53)
 
 <!--
 Ist man als Vegan-Einsteiger\*in noch "grün hinter den Ohren", strömen von allen

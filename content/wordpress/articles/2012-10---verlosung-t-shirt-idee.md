@@ -118,7 +118,7 @@ subTitle: Die Bildergalerie
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (7:15)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (7:15)
 
 <!--
 Hinweis:</strong> Die Aktion ist beendet.

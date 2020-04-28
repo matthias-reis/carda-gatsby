@@ -34,7 +34,7 @@ subTitle: Das neue Welt Vegan Magazin ist da!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (40:15)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (40:15)
 
 <!--
 ![Thomas D](http://cardamonchai.com/wp-content/uploads/2016/09/29692324905_60c6228021_z-640x427.jpg)

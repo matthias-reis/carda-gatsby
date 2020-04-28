@@ -41,7 +41,7 @@ subTitle: Unterstützt jetzt PETA!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (31:21)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (31:21)
 
 <!--
 _Werbung da Verlinkung (ohne Auftrag)\*_

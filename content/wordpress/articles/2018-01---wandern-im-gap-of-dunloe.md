@@ -44,7 +44,7 @@ subTitle: Schafe vor Filmkulisse
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (58:23)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (58:23)
 
 <!--
 **Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres

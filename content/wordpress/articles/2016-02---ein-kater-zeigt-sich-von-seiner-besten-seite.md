@@ -31,7 +31,7 @@ subTitle: Chili posiert im Lampenlicht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (37:48)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (37:48)
 
 <!--
 ![Kater Chili im Licht](http://cardamonchai.com/wp-content/uploads/2016/02/24601796815_b2a80497df_z-640x427.jpg "Kater Chili im Licht")

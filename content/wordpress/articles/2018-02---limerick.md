@@ -37,7 +37,7 @@ subTitle: Fünf Zeilen Spaß und eine Stadt in Irland
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (33:66)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (33:66)
 
 <!--
 **Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im Rahmen unserer

@@ -42,7 +42,7 @@ subTitle: Blumen und Schwerter an der Trelleborg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (22:57)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (22:57)
 
 <!--
 **Bei unserem Besuch der Schwedischen Trelleborg im Juni war das komplette

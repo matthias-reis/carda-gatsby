@@ -42,7 +42,7 @@ subTitle: Vegane Pflege bei Rosacea
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for <p> (86:32)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (86:32)
 
 <!--
 ![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27398831986_8557c0a6c2_z-640x427.jpg "Gladskin im Test")
