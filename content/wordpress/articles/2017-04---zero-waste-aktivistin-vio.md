@@ -3,7 +3,7 @@ title: Zero Waste Aktivistin Vio
 seoTitle: Interview mit Zero Waste Aktivistin Vio - "Wir müssen den Müll
   drastisch reduzieren"
 slug: interview-mit-zero-waste-aktivistin-vio
-link: /2017/04/interview-mit-zero-waste-aktivistin-vio/
+path: /2017/04/interview-mit-zero-waste-aktivistin-vio/
 fileName: 2017-04---zero-waste-aktivistin-vio.md
 description: Ich habe mich mit Zero Waste Aktivistin Vio über Müll unterhalten.
   Sie ist überzeugt davon, dass wir keine Verpackungen brauchen. Wir sind sie
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16449"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Wir müssen den Müll drastisch reduzieren!"'
   
 ---

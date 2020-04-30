@@ -2,7 +2,7 @@
 title: Keimling im Test
 seoTitle: "Keimling Geschenkidee: Schokocreme, Goldene Milch und Konfekt"
 slug: geschenkidee-leckeres-von-keimling
-link: /2018/12/geschenkidee-leckeres-von-keimling/
+path: /2018/12/geschenkidee-leckeres-von-keimling/
 fileName: 2018-12---keimling-im-test.md
 description: "Bald ist Weihnachten. Darum habe ich ein paar spannende
   Geschenktipps für Euch: Goldene Milch, Konfekt und Schokocreme von Keimling."
@@ -41,7 +41,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22883"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Geschenkidee
   
 ---

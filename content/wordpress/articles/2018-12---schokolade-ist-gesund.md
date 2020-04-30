@@ -2,7 +2,7 @@
 title: Schokolade ist gesund
 seoTitle: Schokolade ist gesund - Polyphenole in der Forschung
 slug: schokolade-ist-gesund
-link: /2018/12/schokolade-ist-gesund/
+path: /2018/12/schokolade-ist-gesund/
 fileName: 2018-12---schokolade-ist-gesund.md
 description: Der Wissenschaftliche Pressedienst brachte ein 11-seitiges Pamphlet
   zum Thema Schokolade heraus. Daraus geht hervor, dass sie gut für die
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22924"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Polyphenole in der Forschung
   
 ---

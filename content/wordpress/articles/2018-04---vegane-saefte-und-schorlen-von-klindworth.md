@@ -2,7 +2,7 @@
 title: Vegane Säfte und Schorlen von Klindworth
 seoTitle: "Getestet: Klindworth vegane Säfte - Niehoffs Vaihinger jetzt vegan"
 slug: vegane-saefte-und-schorlen-im-test
-link: /2018/04/vegane-saefte-und-schorlen-im-test/
+path: /2018/04/vegane-saefte-und-schorlen-im-test/
 fileName: 2018-04---vegane-saefte-und-schorlen-von-klindworth.md
 description: Ob ich Lust hätte, vegane Säfte und Schorlen von Klindworth zu
   testen wurde ich gefragt. Hersteller Niehoffs Vaihinger setzt jetzt komplett
@@ -49,7 +49,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20360"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Niehoffs Vaihinger ist jetzt vegan
   
 ---

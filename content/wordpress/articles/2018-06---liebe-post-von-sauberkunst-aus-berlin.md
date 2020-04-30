@@ -2,7 +2,7 @@
 title: Liebe Post von Sauberkunst aus Berlin
 seoTitle: Liebe Post von Sauberkunst aus Berlin - Poseidon und Rosenstolz
 slug: liebe-post-von-sauberkunst
-link: /2018/06/liebe-post-von-sauberkunst/
+path: /2018/06/liebe-post-von-sauberkunst/
 fileName: 2018-06---liebe-post-von-sauberkunst-aus-berlin.md
 description: "Vor Kurzem war ich zu einem Bloggerevent von Sauberkunst nach
   Berlin eingeladen. Dabei habe ich ein paar dufte Typen kennengelernt: Poseidon
@@ -50,7 +50,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21114"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Poseidon und Rosenstolz
   
 ---

@@ -2,7 +2,7 @@
 title: Matzes Songs 2018
 seoTitle: Matzes Songs 2018 - präsentiert von den drei von der Bande
 slug: matzes-songs-2018
-link: /2018/12/matzes-songs-2018/
+path: /2018/12/matzes-songs-2018/
 fileName: 2018-12---matzes-songs-2018.md
 description: Musikalisch hatte es 2018 definitiv in sich. Insgesamt hat Matze 30
   Songs zusammengestellt. Seine Songs 2018 könnt Ihr hier direkt anhören.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23148"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

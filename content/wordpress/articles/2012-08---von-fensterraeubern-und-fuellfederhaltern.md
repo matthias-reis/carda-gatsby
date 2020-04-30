@@ -2,7 +2,7 @@
 title: Von Fensterräubern und Füllfederhaltern
 seoTitle: Von Fenster, Kaffee und Won Kar Wai - Tagebucheintrag
 slug: von-fenstern-kaffee-und-won-kar-wai
-link: /2012/08/von-fenstern-kaffee-und-won-kar-wai/
+path: /2012/08/von-fenstern-kaffee-und-won-kar-wai/
 fileName: 2012-08---von-fensterraeubern-und-fuellfederhaltern.md
 description: Heute ist also der 1. August. Noch zehn Monate, dann ist wieder
   Sommer. Der Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen.
@@ -59,7 +59,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3540"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein ganz normaler Mittwoch
   
 ---

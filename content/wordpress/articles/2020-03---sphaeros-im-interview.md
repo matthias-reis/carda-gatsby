@@ -2,7 +2,7 @@
 title: Sphaèros im Interview
 seoTitle: Performance-Künstler Sphaèros im Interview
 slug: sphaeros-interview
-link: /2020/03/sphaeros-interview/
+path: /2020/03/sphaeros-interview/
 fileName: 2020-03---sphaeros-im-interview.md
 description: Der Pariser Underground-Künstler Sphaèros sagt "Nicht mal in einer
   Zelle würde ich aufhören kreativ zu sein". Ich habe mich jetzt mit ihm
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28533"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Musik besitzt eine meditative Kraft"'
   
 ---

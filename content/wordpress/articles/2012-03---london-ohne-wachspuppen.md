@@ -2,7 +2,7 @@
 title: London ohne Wachspuppen
 seoTitle: Tube Trip - London ohne Wachspuppen
 slug: tube-trip-london-ohne-wachspuppen
-link: /2012/03/tube-trip-london-ohne-wachspuppen/
+path: /2012/03/tube-trip-london-ohne-wachspuppen/
 fileName: 2012-03---london-ohne-wachspuppen.md
 description: Im März habe ich meine Freizeit für einen Kurztrip nach London
   genutzt. Hier sind einige Impressionen von meiner Reise.
@@ -43,7 +43,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2902"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tube Trip
   
 ---

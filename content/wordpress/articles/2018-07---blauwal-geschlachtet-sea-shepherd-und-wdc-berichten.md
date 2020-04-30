@@ -2,7 +2,7 @@
 title: Blauwal geschlachtet - Sea Shepherd und WDC berichten
 seoTitle: Blauwal geschlachtet - Sea Shepherd und WDC berichten
 slug: sea-shepherd-und-wdc-berichten-von-walschlachtung
-link: /2018/07/sea-shepherd-und-wdc-berichten-von-walschlachtung/
+path: /2018/07/sea-shepherd-und-wdc-berichten-von-walschlachtung/
 fileName: 2018-07---blauwal-geschlachtet-sea-shepherd-und-wdc-berichten.md
 description: "Eine sehr traurige Nachricht kam gestern von Sea Shepherd und der
   Walschutzorganisation WDC rein: In Island wurde ein Blauwal geschlachtet."
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21360"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Traurige Nachricht aus Island
   
 ---

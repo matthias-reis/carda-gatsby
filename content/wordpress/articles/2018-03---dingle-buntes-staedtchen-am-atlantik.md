@@ -2,7 +2,7 @@
 title: Dingle - Buntes Städtchen am Atlantik
 seoTitle: Dingle - Buntes Städtchen am Atlantik - Pubs und Meer
 slug: dingle
-link: /2018/03/dingle/
+path: /2018/03/dingle/
 fileName: 2018-03---dingle-buntes-staedtchen-am-atlantik.md
 description: Fährt man den Slea Head Drive im Anschluss an den Inch Beach immer
   weiter hoch in Richtung Norden, landet man irgendwann im gemütlichen Dingle.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19504"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Pubs und Meer
   
 ---

@@ -2,7 +2,7 @@
 title: Zurück nach St. Peter-Ording
 seoTitle: Zurück nach St. Peter-Ording - Ein Streifzug an der Nordsee
 slug: zurueck-nach-st-peter-ording
-link: /2015/07/zurueck-nach-st-peter-ording/
+path: /2015/07/zurueck-nach-st-peter-ording/
 fileName: 2015-07---zurueck-nach-st-peter-ording.md
 description: Bevor wir letzten Samstag in St. Peter Ording vom Orkan überrascht
   wurden, haben wir noch jede Menge Möwen getroffen und einiges gesehen.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12133"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Streifzug an der Nordsee
   
 ---

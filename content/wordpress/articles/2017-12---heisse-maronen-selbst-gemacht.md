@@ -2,7 +2,7 @@
 title: Heiße Maronen selbst gemacht
 seoTitle: Heiße Maronen selbstgemacht - Winterlicher Snack für zwischendurch
 slug: heisse-maronen-selbstgemacht
-link: /2017/12/heisse-maronen-selbstgemacht/
+path: /2017/12/heisse-maronen-selbstgemacht/
 fileName: 2017-12---heisse-maronen-selbst-gemacht.md
 description: Wer liebt heiße Maronen so sehr wie ich? Sie gehören für mich
   einfach zum Winter dazu. Ich zeige Euch heute, wie Ihr sie ganz leicht selbst
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18687"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Winterlicher Snack für zwischendurch
   
 ---

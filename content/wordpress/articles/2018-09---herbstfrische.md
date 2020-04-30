@@ -2,7 +2,7 @@
 title: Herbstfrische
 seoTitle: Herbstfrische - Neue Bio-Getränke aus der Naturkostsafterei Voelkel
 slug: voelkel-naturkostsafterei
-link: /2018/09/voelkel-naturkostsafterei/
+path: /2018/09/voelkel-naturkostsafterei/
 fileName: 2018-09---herbstfrische.md
 description: "Vor Kurzem kündigte sich ein neuer Produkttest bei mir an, auf den
   ich mich besonders gefreut habe: Das neuen Bio-Getränkesortiment von Voelkel."
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22000"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neue Bio-Getränke aus der Naturkostsafterei Voelkel
   
 ---

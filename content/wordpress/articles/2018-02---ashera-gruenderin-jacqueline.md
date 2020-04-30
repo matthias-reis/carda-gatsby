@@ -2,7 +2,7 @@
 title: Ashéra Gründerin Jacqueline
 seoTitle: Ashéra Gründerin Jacqueline Heimgärtner im Interview
 slug: ashera-interview
-link: /2018/02/ashera-interview/
+path: /2018/02/ashera-interview/
 fileName: 2018-02---ashera-gruenderin-jacqueline.md
 description: '"Nachhaltigkeit und Natürlichkeit ist mein Thema!", sagt Ashéra
   Gründerin Jacqueline Heimgärtner im Interview. Und sie hat mir noch mehr
@@ -53,7 +53,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19343"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Nachhaltigkeit und Natürlichkeit ist mein Thema!"'
   
 ---

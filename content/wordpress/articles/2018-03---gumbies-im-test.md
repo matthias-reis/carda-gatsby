@@ -2,7 +2,7 @@
 title: Gumbies im Test
 seoTitle: Gumbies - Vegane Strandsandalen - Nachhaltige Flip Flops im Test
 slug: gumbies-vegane-strandsandalen
-link: /2018/03/gumbies-vegane-strandsandalen/
+path: /2018/03/gumbies-vegane-strandsandalen/
 fileName: 2018-03---gumbies-im-test.md
 description: "Gumbies-Gründer Michael Maurer hatte eine Vision: Vegane
   Strandsandalen aus Recycling-Materialien, die gut aussehen und alles
@@ -41,7 +41,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20021"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Strandsandalen
   
 ---

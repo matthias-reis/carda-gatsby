@@ -2,7 +2,7 @@
 title: Pflanzenmilch? Wieso denn bloß?
 seoTitle: Pflanzenmilch? Wieso denn bloß? - warum Veganer auf Milch verzichten
 slug: pflanzenmilch-wieso-denn-blos
-link: /2014/09/pflanzenmilch-wieso-denn-blos/
+path: /2014/09/pflanzenmilch-wieso-denn-blos/
 fileName: 2014-09---pflanzenmilch-wieso-denn-bloss.md
 description: Veganer essen nicht nur kein Fleisch und keine Eier, verzichten auf
   Echtleder, Wolle und Honig, sie nehmen auch keine Milchprodukte zu sich. Und
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8836"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil V
   
 ---

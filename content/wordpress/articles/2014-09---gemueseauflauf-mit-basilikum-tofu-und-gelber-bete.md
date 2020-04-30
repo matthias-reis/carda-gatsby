@@ -2,7 +2,7 @@
 title: Gemüseauflauf mit Basilikum-Tofu und Gelber Bete
 seoTitle: Gemüseauflauf mit Basilikumtofu und Gelber Bete
 slug: gemuseauflauf-mit-basilikum-tofu-und-gelber-bete
-link: /2014/09/gemuseauflauf-mit-basilikum-tofu-und-gelber-bete/
+path: /2014/09/gemuseauflauf-mit-basilikum-tofu-und-gelber-bete/
 fileName: 2014-09---gemueseauflauf-mit-basilikum-tofu-und-gelber-bete.md
 description: Gemüseauflauf mit Gelber Bete ist herzhaft und saftig. Er ist
   vegan, leicht zuzubereiten und steckt voller wertvoller Vitamine und
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8780"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Herzhaft und saftig
   
 ---

@@ -2,7 +2,7 @@
 title: Rohveganes Herbstmenü
 seoTitle: Rohveganes Herbstmenü - Buntes für die kühle Jahreszeit
 slug: rohveganes-herbstmenue
-link: /2018/08/rohveganes-herbstmenue/
+path: /2018/08/rohveganes-herbstmenue/
 fileName: 2018-08---rohveganes-herbstmenue.md
 description: Lust auf etwas Buntes auf dem Teller? Ich auch! Darum habe ich mir
   ein rohveganes Herbstmenü ausgedacht, bei dem es so richtig farbenfroh wird!
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21912"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Buntes für die kühle Jahreszeit
   
 ---

@@ -2,7 +2,7 @@
 title: Silvester auf Böller verzichten
 seoTitle: Silverster auf Böller verzichten - Für Tiere und Menschen
 slug: silvester-auf-boeller-verzichten
-link: /2015/12/silvester-auf-boeller-verzichten/
+path: /2015/12/silvester-auf-boeller-verzichten/
 fileName: 2015-12---silvester-auf-boeller-verzichten.md
 description: Auf Böller verzichten bedeutet Mitgefühl und Empathie. Für die
   Tiere und die Menschen sollte man sich dies zu Herzen nehmen.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13604"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Für Tiere und Menschen
   
 ---

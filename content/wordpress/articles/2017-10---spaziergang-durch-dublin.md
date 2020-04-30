@@ -2,7 +2,7 @@
 title: Spaziergang durch Dublin
 seoTitle: Spaziergang durch Dublin - Fröhliche Menschen und altehrwürdige Bauten
 slug: kleiner-spaziergang-durch-dublin
-link: /2017/10/kleiner-spaziergang-durch-dublin/
+path: /2017/10/kleiner-spaziergang-durch-dublin/
 fileName: 2017-10---spaziergang-durch-dublin.md
 description: In Dublin fielen uns zuerst die fröhlichen Menschen auf. Überall in
   der Stadt wird man mit offenen Armen empfangen. Im Blog findet Ihr meine
@@ -41,8 +41,7 @@ isAffiliate: false
 thumbnailId: "18032"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (68:5)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (68:5)"
 subTitle: Fröhliche Menschen und altehrwürdige Bauten
   
 ---

@@ -2,7 +2,7 @@
 title: Ökologischer Handabdruck fürs Klima
 seoTitle: Ökologischer Handabdruck fürs Klima - Optimismus und Nachhaltigkeit
 slug: oekologischer-handabdruck
-link: /2017/08/oekologischer-handabdruck/
+path: /2017/08/oekologischer-handabdruck/
 fileName: 2017-08---oekologischer-handabdruck-fuers-klima.md
 description: Wissenschaftler basteln gerade am Konzept zum ökologischen
   Handabdruck. Er soll anders als der Fußabdruck auch die ökonomische und
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17659"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mit Optimismus in Richtung Nachhaltigkeit
   
 ---

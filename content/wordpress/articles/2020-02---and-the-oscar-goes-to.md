@@ -2,7 +2,7 @@
 title: And the Oscar goes to...
 seoTitle: Joaquin Phoenix und seine Oscar-Rede
 slug: joaquin-phoenix-oscar
-link: /2020/02/joaquin-phoenix-oscar/
+path: /2020/02/joaquin-phoenix-oscar/
 fileName: 2020-02---and-the-oscar-goes-to.md
 description: Joaquin Phoenix wurde der Oscar in der Kategorie "bester
   Hauptdarsteller" verliehen. In seiner Rede sprach er sich für mehr Mitgefühl
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27515"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Joaquin Phoenix spricht sich für mehr Empathie aus
   
 ---

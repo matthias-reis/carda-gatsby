@@ -2,7 +2,7 @@
 title: Die Affen von Gibraltar
 seoTitle: Die Affen von Gibraltar - unser Besuch
 slug: die-affen-von-gibraltar
-link: /2020/03/die-affen-von-gibraltar/
+path: /2020/03/die-affen-von-gibraltar/
 fileName: 2020-03---die-affen-von-gibraltar.md
 description: Unsere Reise durch Südspanien führte uns in die britische Enklave
   Gibraltar. Auf dem Felsen angekommen, lernten wir die wohl berühmtesten Affen
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28757"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unser Besuch auf dem berühmten Felsen
   
 ---

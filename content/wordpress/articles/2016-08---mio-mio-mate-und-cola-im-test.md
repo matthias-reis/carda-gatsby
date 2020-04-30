@@ -2,7 +2,7 @@
 title: MIO MIO MATE und Cola im Test
 seoTitle: MIO MIO MATE und COLA - Ich habe probiert
 slug: mio-mio-mate-und-cola-ich-habe-probiert
-link: /2016/08/mio-mio-mate-und-cola-ich-habe-probiert/
+path: /2016/08/mio-mio-mate-und-cola-ich-habe-probiert/
 fileName: 2016-08---mio-mio-mate-und-cola-im-test.md
 description: Die Jungs von MIO MIO haben mich gefragt, ob ich Lust habe, ihre
   neue Cola und die Mate zu testen. Da habe ich natürlich nicht nein gesagt -
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15061"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Limo mit Geschmack
   
 ---

@@ -2,7 +2,7 @@
 title: Spielt keine Rolle
 seoTitle: Spielt keine Rolle - Gedicht mit Fotocollage jetzt im Blog
 slug: spielt-keine-rolle
-link: /2018/11/spielt-keine-rolle/
+path: /2018/11/spielt-keine-rolle/
 fileName: 2018-11---spielt-keine-rolle.md
 description: Was bedeutet Glück auf Erden? Erdbeeren mit Sahne? Ist nicht alles
   dreckig und staubig? Spielt keine Rolle, ob Du es willst. Du kriegst es.
@@ -24,8 +24,7 @@ isAffiliate: false
 thumbnailId: "22668"
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

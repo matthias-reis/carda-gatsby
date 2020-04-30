@@ -2,7 +2,7 @@
 title: Das neue Welt Vegan Magazin ist da!
 seoTitle: Das neue Welt Vegan Magazin ist da - Mein Artikel
 slug: das-neue-welt-vegan-magazin-ist-da
-link: /2015/05/das-neue-welt-vegan-magazin-ist-da/
+path: /2015/05/das-neue-welt-vegan-magazin-ist-da/
 fileName: 2015-05---das-neue-welt-vegan-magazin-ist-da.md
 description: Die neue Welt Vegan Magazin Ausgabe ist da! Auch ich habe wieder
   einen Artikel dazu beigetragen, dieses Mal dreht sich darin alles um
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11955"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mein Artikel auf Seite 112
   
 ---

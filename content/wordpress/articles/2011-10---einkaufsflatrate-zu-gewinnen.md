@@ -2,7 +2,7 @@
 title: Einkaufsflatrate zu gewinnen
 seoTitle: Umweltschutz und Preisbewusstsein zum Weltspartag
 slug: umweltschutz-und-preisbewusstsein-zum-weltspartag
-link: /2011/10/umweltschutz-und-preisbewusstsein-zum-weltspartag/
+path: /2011/10/umweltschutz-und-preisbewusstsein-zum-weltspartag/
 fileName: 2011-10---einkaufsflatrate-zu-gewinnen.md
 description: Jeden Tag landet eine wahre Flut von Prospekten in unseren
   Briefkästen. Meistens werden diese Anzeigenblätter und Flyer ungelesen
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11624"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Umweltschutz und Preisbewusstsein zum Weltspartag
   
 ---

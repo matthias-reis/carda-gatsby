@@ -2,7 +2,7 @@
 title: Mana Komplettnahrung
 seoTitle: Mana Komplettnahrung - die Flüssigmahlzeit im Test
 slug: mana-komplettnahrung
-link: /2020/04/mana-komplettnahrung/
+path: /2020/04/mana-komplettnahrung/
 fileName: 2020-04---mana-komplettnahrung.md
 description: Ich habe die Komplettnahrung von Mana ausprobiert. Damit kann man
   ganz elegant einzelne Mahlzeiten ersetzen und soll dennoch Nährstoffe
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29090"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Flüssigmahlzeit im Test
   
 ---

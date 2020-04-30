@@ -2,7 +2,7 @@
 title: Bettina von Oakleaf Stelzenkunst
 seoTitle: Interview mit Bettina Eichblatt-Koenekoop von Oakleaf Stelzenkunst
 slug: interview-mit-bettina-eichblatt-koenekoop-gruenderin-der-kuenstlergruppe-oakleaf-stelzenkunst
-link: /2017/07/interview-mit-bettina-eichblatt-koenekoop-gruenderin-der-kuenstlergruppe-oakleaf-stelzenkunst/
+path: /2017/07/interview-mit-bettina-eichblatt-koenekoop-gruenderin-der-kuenstlergruppe-oakleaf-stelzenkunst/
 fileName: 2017-07---bettina-von-oakleaf-stelzenkunst.md
 description: Straßenkunst ist eine gute Arte, sich den öffentlichen Raum als
   Lebensraum zugänglich zu machen, sagt Bettina, Gründerin von Oakleaf
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17141"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Ich denke mir alle Kostüme selbst aus"'
   
 ---

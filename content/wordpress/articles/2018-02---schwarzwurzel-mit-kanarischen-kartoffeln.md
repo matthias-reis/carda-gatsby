@@ -2,7 +2,7 @@
 title: Schwarzwurzel mit Kanarischen Kartoffeln
 seoTitle: Schwarzwurzel mit Kanarischen Kartoffeln - Winterspargel frisch auf den Tisch
 slug: schwarzwurzel-kanarischen-kartoffeln
-link: /2018/02/schwarzwurzel-kanarischen-kartoffeln/
+path: /2018/02/schwarzwurzel-kanarischen-kartoffeln/
 fileName: 2018-02---schwarzwurzel-mit-kanarischen-kartoffeln.md
 description: Diese Woche gab es bei uns endlich wieder Schwarzwurzel. Ich
   verrate Euch jetzt mein Geheimrezept - Ihr werdet sehen, es geht ganz leicht!
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19389"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Winterspargel frisch auf den Tisch
   
 ---

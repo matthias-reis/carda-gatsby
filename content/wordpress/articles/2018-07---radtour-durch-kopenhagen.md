@@ -2,7 +2,7 @@
 title: Radtour durch Kopenhagen
 seoTitle: Radtour durch Kopenhagen - Dänische Fahrradstadt im Sonnenlicht
 slug: radtour-durch-kopenhagen
-link: /2018/07/radtour-durch-kopenhagen/
+path: /2018/07/radtour-durch-kopenhagen/
 fileName: 2018-07---radtour-durch-kopenhagen.md
 description: Wir haben Kopenhagen mit dem Fahrrad erkundet und haben uns sofort
   in die Dänische Hauptstadt verliebt. Ich habe Euch ein paar Eindrücke
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21342"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Dänische Fahrradstadt im Sonnenlicht
   
 ---

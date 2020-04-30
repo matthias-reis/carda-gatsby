@@ -2,7 +2,7 @@
 title: Soviel Müll produzieren wir
 seoTitle: Müll - So viel produzieren wir - da sollte man man drüber nachdenken
 slug: mull
-link: /2012/08/mull/
+path: /2012/08/mull/
 fileName: 2012-08---soviel-muell-produzieren-wir.md
 description: Das durchschnittliche Pro-Kopf-Aufkommen an Haushaltsabfällen in
   Deutschland liegt bei 450 Kilogramm. Das ist vielmehr, als die Umwelt
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3848"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Da sollte man mal drüber nachdenken
   
 ---

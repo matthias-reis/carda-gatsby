@@ -2,7 +2,7 @@
 title: Kampf gegen das Bienensterben
 seoTitle: Kampf gegen das Bienensterben - Milben, Pflanzenschutzmittel, Honig
 slug: kampf-gegen-das-bienensterben
-link: /2019/07/kampf-gegen-das-bienensterben/
+path: /2019/07/kampf-gegen-das-bienensterben/
 fileName: 2019-07---kampf-gegen-das-bienensterben.md
 description: "Eines lässt sich nicht mehr verleugnen: Die Bienen sterben. Wir
   sind diejenigen, die dafür die Verantwortung übernehmen sollten und die Zeit
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28924"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Milben, Pflanzenschutzmittel und Honigproduktion
   
 ---

@@ -2,7 +2,7 @@
 title: Dubai und Bali in Polaroids - Eine Instagram-Reise
 seoTitle: Dubai und Bali in Polaroids - Der Zauber des Augenblicks
 slug: dubai-und-bali-in-polaroids
-link: /2013/08/dubai-und-bali-in-polaroids/
+path: /2013/08/dubai-und-bali-in-polaroids/
 fileName: 2013-08---dubai-und-bali-in-polaroids-eine-instagram-reise.md
 description: Dubai und Bali in Polaroids - Der siebte Teil unserer großen Reise
   - Eine Bildergalerie zeigt Euch den Zauber des Augenblicks.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6581"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unsere große Reise - Teil VII
   
 ---

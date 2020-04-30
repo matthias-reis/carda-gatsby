@@ -2,7 +2,7 @@
 title: Tierrechtsaktivistin Kara Schott
 seoTitle: Die Tiertafel Hamburg stellt sich vor - Interview mit Kara Schott Teil 1/2
 slug: die-tiertafel-hamburg-stellt-sich-vor
-link: /2017/10/die-tiertafel-hamburg-stellt-sich-vor/
+path: /2017/10/die-tiertafel-hamburg-stellt-sich-vor/
 fileName: 2017-10---tierrechtsaktivistin-kara-schott.md
 description: Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott,
   Leiterin der Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen Mensch und Tier
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18178"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Teil 1/2 - Die Tiertafel Hamburg stellt sich vor
   
 ---

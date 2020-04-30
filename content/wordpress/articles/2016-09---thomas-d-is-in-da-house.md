@@ -2,7 +2,7 @@
 title: Thomas D is in da house
 seoTitle: Thomas D im Interview - Das neue Welt Vegan Magazin ist da
 slug: thomas-d-im-welt-vegan-magazin
-link: /2016/09/thomas-d-im-welt-vegan-magazin/
+path: /2016/09/thomas-d-im-welt-vegan-magazin/
 fileName: 2016-09---thomas-d-is-in-da-house.md
 description: Heute habe ich eine Sensation für Euch! Hip Hop-Legende Thomas D
   persönlich im Interview! Außerdem gibt es im neuen Welt Vegan Magazin noch
@@ -28,8 +28,7 @@ isAffiliate: false
 thumbnailId: "15156"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (40:15)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (40:15)"
 subTitle: Das neue Welt Vegan Magazin ist da!
   
 ---

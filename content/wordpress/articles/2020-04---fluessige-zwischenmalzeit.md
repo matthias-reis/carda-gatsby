@@ -2,7 +2,7 @@
 title: Flüssige Zwischenmalzeit
 seoTitle: Flüssige Zwischenmalzeit
 slug: __trashed
-link: /2020/04/__trashed/
+path: /2020/04/__trashed/
 fileName: 2020-04---fluessige-zwischenmalzeit.md
 description: ""
 excerpt: ""
@@ -17,7 +17,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28882"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mana im Test
   
 ---

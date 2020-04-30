@@ -2,7 +2,7 @@
 title: Singer-Songwriter Vinny Peculiar im Interview
 seoTitle: Singer-Songwriter Vinny Peculiar im Interview - "While You Still Can"
 slug: vinny-peculiar-interview
-link: /2019/09/vinny-peculiar-interview/
+path: /2019/09/vinny-peculiar-interview/
 fileName: 2019-09---singer-songwriter-vinny-peculiar-im-interview.md
 description: Ich habe mich mit Singer Songwriter Vinny Peculiar über sein neues
   Album While You Still Can" unterhalten, dass bald erscheinen wird.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26337"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Die Menschen sind frustriert und wütend"'
   
 ---

@@ -2,7 +2,7 @@
 title: Kunst für die Tiere von Mienenbüttel
 seoTitle: Kunst für die Tiere von Mienenbüttel - neues von Denise Hof
 slug: kunst-fuer-die-tiere-von-mienenbuettel
-link: /2019/12/kunst-fuer-die-tiere-von-mienenbuettel/
+path: /2019/12/kunst-fuer-die-tiere-von-mienenbuettel/
 fileName: 2019-12---kunst-fuer-die-tiere-von-mienenbuettel.md
 description: Künstlerin Denise Hof erfindet sich immer wieder neu. Jetzt hat sie
   ein neues Projekt. Die Bilder zeigen die Tiere im Versuchslabor Hamburg
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27118"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neues von der veganen Künstlerin Denise Hof
   
 ---

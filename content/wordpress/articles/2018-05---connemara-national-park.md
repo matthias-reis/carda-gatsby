@@ -2,7 +2,7 @@
 title: Connemara National Park
 seoTitle: Connemara National Park - Wandern und Naturschutz
 slug: connemara-national-park
-link: /2018/05/connemara-national-park/
+path: /2018/05/connemara-national-park/
 fileName: 2018-05---connemara-national-park.md
 description: Im Connemara National Park erlebten wir bei sonnigem Wetter eine
   der schönsten Wanderungen unserer Irlandreise. Hier ist meine Fotostrecke.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19858"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wandern und Naturschutz
   
 ---

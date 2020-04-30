@@ -2,7 +2,7 @@
 title: '"The Game Changers"'
 seoTitle: Filmtipp - "The Game Changers"
 slug: the-game-changers
-link: /2019/11/the-game-changers/
+path: /2019/11/the-game-changers/
 fileName: 2019-11---the-game-changers.md
 description: Am 16. September erschien eine ganz besondere Dokumentation. "The
   Game Changers" sollte meiner Meinung nach jede*r mal gesehen haben.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26831"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Athleten und Bodybuilder
   
 ---

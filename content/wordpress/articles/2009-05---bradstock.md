@@ -2,7 +2,7 @@
 title: Bradstock
 seoTitle: Bradstock - Anne bloggt cardamonchai
 slug: bradstock-19-05-2009
-link: /2009/05/bradstock-19-05-2009/
+path: /2009/05/bradstock-19-05-2009/
 fileName: 2009-05---bradstock.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Bradstock"
 excerpt: Bradstock ist ein gemütliches Örtchen mit einem tollen Pub - der Besuch
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11222"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 15/17
   
 ---

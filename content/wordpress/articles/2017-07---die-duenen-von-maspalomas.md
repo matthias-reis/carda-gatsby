@@ -2,7 +2,7 @@
 title: Die Dünen von Maspalomas
 seoTitle: Die Dünen von Maspalomas - Ein Streifzug mit der Kamera
 slug: die-duenen-von-maspalomas
-link: /2017/07/die-duenen-von-maspalomas/
+path: /2017/07/die-duenen-von-maspalomas/
 fileName: 2017-07---die-duenen-von-maspalomas.md
 description: Verlässt man die Strandpromenade von Playa del Inglés in Richtung
   Süden und folgt man dem Strand ein Stück, sieht man die Dünen von Maspalomas.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17213"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Meer aus Sand und über uns die Sonne
   
 ---

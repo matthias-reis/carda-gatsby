@@ -2,7 +2,7 @@
 title: Wie vegan ist möglich?
 seoTitle: Wie vegan ist möglich? Ein Leben, das kein Leid erzeugt - Geht das?
 slug: wie-vegan-ist-moeglich
-link: /2018/02/wie-vegan-ist-moeglich/
+path: /2018/02/wie-vegan-ist-moeglich/
 fileName: 2018-02---wie-vegan-ist-moeglich.md
 description: Ist es in unserer modernen Welt möglich, ein Leben zu führen, durch
   das kein Leid erzeugt wird, komplett vegan? Diese Frage wird mir immer wieder
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18138"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Leben, das kein Leid erzeugt - Geht das?
   
 ---

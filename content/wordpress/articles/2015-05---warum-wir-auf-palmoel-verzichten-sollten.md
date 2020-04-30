@@ -2,7 +2,7 @@
 title: Warum wir auf Palmöl verzichten sollten
 seoTitle: Warum wir auf Palmöl besser verzichten sollten - Regenwaldabholzung
 slug: palmoel
-link: /2015/05/palmoel/
+path: /2015/05/palmoel/
 fileName: 2015-05---warum-wir-auf-palmoel-verzichten-sollten.md
 description: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um
   Platz für Monoplantagen zu schaffen - Tiere werden aus ihren Lebensräumen
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27459"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Von Regenwaldabholzung bis Cholesterin
   
 ---

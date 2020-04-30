@@ -2,7 +2,7 @@
 title: Mein erster Artikel im Welt Vegan Magazin
 seoTitle: Mein erster Artikel im Welt Vegan Magazin - Premiere
 slug: mein-erster-artikel-im-welt-vegan-magazin
-link: /2015/04/mein-erster-artikel-im-welt-vegan-magazin/
+path: /2015/04/mein-erster-artikel-im-welt-vegan-magazin/
 fileName: 2015-04---mein-erster-artikel-im-welt-vegan-magazin.md
 description: Es gibt eine Premiere zu feiern! Letzte Woche erschien mein erster
   Artikel im Welt Vegan Magazin! Darin dreht sich alles um Superfoods...
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10983"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Printpremiere für Anne bloggt cardamonchai
   
 ---

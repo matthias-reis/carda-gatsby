@@ -2,7 +2,7 @@
 title: Antworten aus einer Unterhaltung
 seoTitle: Antworten aus einer Unterhaltung - Zwei Bücherwürmer im Gespräch
 slug: antworten-aus-einer-unterhaltung
-link: /2011/07/antworten-aus-einer-unterhaltung
+path: /2011/07/antworten-aus-einer-unterhaltung
 fileName: 2011-07---antworten-aus-einer-unterhaltung.md
 description: Gespräche über Bücher können sich für außenstehende schon mal
   abstrakt anhören. Was gibt es da alles zu kritisieren, zu bewerten und
@@ -41,7 +41,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11586"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wenn sich zwei Bücherwürmer austauschen
   
 ---

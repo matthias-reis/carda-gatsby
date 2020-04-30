@@ -2,7 +2,7 @@
 title: Frühling...
 seoTitle: Frühling - noch nicht ganz - ein warm-kaltes Gedicht
 slug: fruehling-gedicht
-link: /2019/04/fruehling-gedicht/
+path: /2019/04/fruehling-gedicht/
 fileName: 2019-04---fruehling.md
 description: Richtig warm ist es noch nicht draußen, das stimmt. Der Frühling
   steht vor der Tür und wartet auf Einlass. Wann wird es soweit sein?
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23922"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: ... noch nicht ganz
   
 ---

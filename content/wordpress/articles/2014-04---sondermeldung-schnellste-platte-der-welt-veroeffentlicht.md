@@ -2,7 +2,7 @@
 title: Sondermeldung! Schnellste Platte der Welt veröffentlicht!
 seoTitle: Schnellste Platte der Welt veröffentlicht! - Sondermeldung!
 slug: sondermeldung-schnellste-platte-der-welt-veroffentlicht
-link: /2014/04/sondermeldung-schnellste-platte-der-welt-veroffentlicht/
+path: /2014/04/sondermeldung-schnellste-platte-der-welt-veroffentlicht/
 fileName: 2014-04---sondermeldung-schnellste-platte-der-welt-veroeffentlicht.md
 description: Jack White setzt mal wieder noch eins obendrauf - Jetzt
   veröffentlichte er die schnellste Platte der Welt! Ich habe sie schon mal
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4414"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Jack White setzt noch eins obendrauf!
   
 ---

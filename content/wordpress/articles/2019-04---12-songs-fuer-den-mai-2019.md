@@ -2,7 +2,7 @@
 title: 12 Songs für den Mai 2019
 seoTitle: 12 Songs für den Mai - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-mai
-link: /2019/04/12-songs-fuer-den-mai/
+path: /2019/04/12-songs-fuer-den-mai/
 fileName: 2019-04---12-songs-fuer-den-mai-2019.md
 description: Rock in den Mai! Wir haben 12 Songs für den Mai für Euch
   zusammengestellt - Rock in den Mai kann somit also nichts mehr im Wege stehen.
@@ -80,7 +80,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24020"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

@@ -2,7 +2,7 @@
 title: Neue Schönheiten im Plattenregal
 seoTitle: Neue Schönheiten im Plattenregal - Morgen ist Feiertag!
 slug: neue-schonheiten-im-plattenregal
-link: /2013/05/neue-schonheiten-im-plattenregal/
+path: /2013/05/neue-schonheiten-im-plattenregal/
 fileName: 2013-05---neue-schoenheiten-im-plattenregal.md
 description: Es ist eine Teillieferung, einige Platten sind noch nicht
   erschienen oder waren noch nicht greifbar und müssen noch auf den Einzug ins
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5317"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Morgen ist Feiertag...
   
 ---

@@ -2,7 +2,7 @@
 title: Faire Klamotten
 seoTitle: Faire Klamotten - Diese Modelabels achten auf die Mitwelt
 slug: faire-klamotten
-link: /2018/02/faire-klamotten/
+path: /2018/02/faire-klamotten/
 fileName: 2018-02---faire-klamotten.md
 description: Immer wieder werde ich nach Tipps für faire Klamotten gefragt. Ich
   habe sie jetzt für Euch zusammengestellt und eine tolle Liste daraus gemacht.
@@ -54,7 +54,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19580"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Diese Modelabels achten auf die Mitwelt
   
 ---

@@ -2,7 +2,7 @@
 title: Die Post ist da!
 seoTitle: Die Post ist da - Mixtape-Tausch Teil 2
 slug: der-mixtape-tausch-2
-link: /2011/08/der-mixtape-tausch-2/
+path: /2011/08/der-mixtape-tausch-2/
 fileName: 2011-08---die-post-ist-da.md
 description: Die meisten Bands kannte ich noch nicht, also eine wunderbare
   Möglichkeit für mich neue Musik kennen zu lernen und meinen musikalischen
@@ -65,8 +65,7 @@ isAffiliate: false
 thumbnailId: "2556"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (57:41)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:41)"
 subTitle: Der Mixtape-Tausch Teil 2
   
 ---

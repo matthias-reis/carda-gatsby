@@ -2,7 +2,7 @@
 title: Natronfreie Cremedeos von Sauberkunst
 seoTitle: Natronfreie Cremedeos von Sauberkunst - zarter Duft für sensible Haut
 slug: natronfreie-cremedeos-von-sauberkunst
-link: /2019/01/natronfreie-cremedeos-von-sauberkunst/
+path: /2019/01/natronfreie-cremedeos-von-sauberkunst/
 fileName: 2019-01---natronfreie-cremedeos-von-sauberkunst.md
 description: "Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues:
   Deocremes ohne Natron! Ich habe sie getestet und möchte Euch heute darüber
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23212"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zarter Duft für sensible Haut
   
 ---

@@ -2,7 +2,7 @@
 title: Roh-Veganer Aufstrich Butternut-Mandarine
 seoTitle: Butternut Kürbis Mandarine Aufstrich roh-vegan - Rezept
 slug: butternut-kuerbis-mandarine-aufstrich-roh-vegan
-link: /2016/10/butternut-kuerbis-mandarine-aufstrich-roh-vegan/
+path: /2016/10/butternut-kuerbis-mandarine-aufstrich-roh-vegan/
 fileName: 2016-10---roh-veganer-aufstrich-butternut-mandarine.md
 description: Mein Rezept für Butternut Kürbis Mandarine Aufstrich habt Ihr Euch
   gewünscht, mein Rezept für Butternut Kürbis Mandarine Aufstrich sollt Ihr
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15300"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept für ein Glas
   
 ---

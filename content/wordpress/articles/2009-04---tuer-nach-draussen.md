@@ -2,7 +2,7 @@
 title: Tür nach draußen
 seoTitle: Tür nach draußen
 slug: tur-nach-draussen
-link: /2009/04/tur-nach-draussen/
+path: /2009/04/tur-nach-draussen/
 fileName: 2009-04---tuer-nach-draussen.md
 description: Eine Tür der besonderen Art habe ich in München gesehen.
 excerpt: Eine Tür der besonderen Art habe ich in München gesehen.
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11171"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Durchgang nur mit Fallschirm
   
 ---

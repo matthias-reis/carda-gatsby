@@ -2,7 +2,7 @@
 title: Von Mevagissey nach Port Mellon
 seoTitle: Von Mevagissey nach Port Melon
 slug: von-mevagissey-nach-port-mellon-18-05-2009
-link: /2009/05/von-mevagissey-nach-port-mellon-18-05-2009/
+path: /2009/05/von-mevagissey-nach-port-mellon-18-05-2009/
 fileName: 2009-05---von-mevagissey-nach-port-mellon.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Von
   Mevagissey nach Port Mellon"
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11232"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 14/17
   
 ---

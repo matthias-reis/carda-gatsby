@@ -2,7 +2,7 @@
 title: Ein Kater zeigt sich von seiner besten Seite
 seoTitle: Kater Chili zeigt sich von seiner besten Seite - Fotogalerie
 slug: kater-chili-zeigt-sich-von-seiner-besten-seite
-link: /2016/02/kater-chili-zeigt-sich-von-seiner-besten-seite/
+path: /2016/02/kater-chili-zeigt-sich-von-seiner-besten-seite/
 fileName: 2016-02---ein-kater-zeigt-sich-von-seiner-besten-seite.md
 description: Kater Chili posiert im Rampenlicht. Wie versprochen zeige ich Euch
   heute mal wieder ein paar richtig schöne Katzenbilder.
@@ -25,8 +25,7 @@ isAffiliate: false
 thumbnailId: "13902"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (37:48)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (37:48)"
 subTitle: Chili posiert im Lampenlicht
   
 ---

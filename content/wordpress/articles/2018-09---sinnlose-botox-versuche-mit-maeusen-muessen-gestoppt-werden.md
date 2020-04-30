@@ -2,7 +2,7 @@
 title: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden
 seoTitle: Sinnlose Botox-Versuche mit Mäusen müssen gestoppt werden
 slug: peta-sinnlose-botox-versuche-mit-maeusen-stoppen
-link: /2018/09/peta-sinnlose-botox-versuche-mit-maeusen-stoppen/
+path: /2018/09/peta-sinnlose-botox-versuche-mit-maeusen-stoppen/
 fileName: 2018-09---sinnlose-botox-versuche-mit-maeusen-muessen-gestoppt-werden.md
 description: '"Nur aufgrund von bürokratischer Gleichgültigkeit und
   unternehmerischer Gier lassen Mäuse in grausamen Botox-Versuchen Tag für Tag
@@ -35,8 +35,7 @@ isAffiliate: false
 thumbnailId: "22127"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (31:21)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (31:21)"
 subTitle: Unterstützt jetzt PETA!
   
 ---

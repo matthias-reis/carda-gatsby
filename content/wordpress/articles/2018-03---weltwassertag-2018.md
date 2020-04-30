@@ -2,7 +2,7 @@
 title: Weltwassertag 2018
 seoTitle: Weltwassertag 2018 - Naturbasierte Lösungen für das Wasser
 slug: der-weltwassertag-2018
-link: /2018/03/der-weltwassertag-2018/
+path: /2018/03/der-weltwassertag-2018/
 fileName: 2018-03---weltwassertag-2018.md
 description: In diesem Jahr dreht sich beim Weltwassertag alles um das Thema
   „Naturbasierte Lösungen für das Wasser“. Zeit, über unsere Wasserverschwendung
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16202"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Naturbasierte Lösungen für das Wasser
   
 ---

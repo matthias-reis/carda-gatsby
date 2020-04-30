@@ -2,7 +2,7 @@
 title: Junge Auswanderer in Istanbul
 seoTitle: Junge Auswanderer in Istanbul - Marie von Maviblau berichtet
 slug: junge-auswanderer-in-istanbul
-link: /2015/09/junge-auswanderer-in-istanbul/
+path: /2015/09/junge-auswanderer-in-istanbul/
 fileName: 2015-09---junge-auswanderer-in-istanbul.md
 description: Sicher könnt Ihr Euch noch an Marie erinnern. Die Filmemacherin
   lebt in Istanbul und hat jetzt ein Online-Magazin gegründet.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12498"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Marie von Maviblau berichtet
   
 ---

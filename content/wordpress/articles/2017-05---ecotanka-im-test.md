@@ -2,7 +2,7 @@
 title: Ecotanka im Test
 seoTitle: Ecotanka Trinkflasche aus Edelstahl - Mein Testbericht
 slug: ecotanka-mein-testbericht
-link: /2017/05/ecotanka-mein-testbericht/
+path: /2017/05/ecotanka-mein-testbericht/
 fileName: 2017-05---ecotanka-im-test.md
 description: Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen,
   als geplant. Statt Lauftraining, Wandern und Radtour gab es
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16612"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Im Bett mit einer Flasche
   
 ---

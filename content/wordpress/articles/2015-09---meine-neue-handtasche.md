@@ -2,7 +2,7 @@
 title: Meine neue Handtasche
 seoTitle: Meine neue Handtasche - Selbst genäht an einem Nachmittag
 slug: meine-neue-handtasche
-link: /2015/09/meine-neue-handtasche/
+path: /2015/09/meine-neue-handtasche/
 fileName: 2015-09---meine-neue-handtasche.md
 description: Hier kommt meine neue Handtasche! Sieht sie nicht schick aus? Ihr
   könnt Euch ganz leicht selbst so eine nähen!
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12652"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Selbstgemacht an nur einem Nachmittag
   
 ---

@@ -2,7 +2,7 @@
 title: Kälbchen ersticken qualvoll im Mutterleib
 seoTitle: Kälbchen ersticken qualvoll im Mutterleib - das unfassbare Leid der Kühe
 slug: kaelbchen-ersticken-qualvoll-im-mutterleib
-link: /2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/
+path: /2014/09/kaelbchen-ersticken-qualvoll-im-mutterleib/
 fileName: 2014-09---kaelbchen-ersticken-qualvoll-im-mutterleib.md
 description: Rund 10 Prozent der in Deutschland geschlachteten weiblichen Kühe
   sind trächtig - das Leid der älber und ihrer Mütter ist unermesslich.
@@ -25,8 +25,7 @@ isAffiliate: false
 thumbnailId: "24306"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <h3> (100:16)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <h3> (100:16)"
 subTitle: Das unfassbare Leid der Kühe
   
 ---

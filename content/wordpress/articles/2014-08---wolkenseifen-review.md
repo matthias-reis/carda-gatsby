@@ -2,7 +2,7 @@
 title: Wolkenseifen Review
 seoTitle: Wolkenseifen - Himmlische Düfte ganz ohne Plastik
 slug: wolkenseifen-himmlische-duefte-ganz-ohne-plastik
-link: /2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/
+path: /2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/
 fileName: 2014-08---wolkenseifen-review.md
 description: Wolkenseifen bietet himmlische Düfte ganz ohne Plastik an. Ich habe
   mal einen kleinen Produkttest gemacht und mir die Sachen etwas genauer
@@ -54,7 +54,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8651"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Himmlische Düfte ganz ohne Plastik
   
 ---

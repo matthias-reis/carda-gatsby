@@ -2,7 +2,7 @@
 title: Weltweiter Klimastreik am 20. September
 seoTitle: Weltweiter Klimastreik am 20.09. - mit Fridaysforfuture auf die Straße
 slug: weltweiter-klimastreik-am-20-september
-link: /2019/09/weltweiter-klimastreik-am-20-september/
+path: /2019/09/weltweiter-klimastreik-am-20-september/
 fileName: 2019-09---weltweiter-klimastreik-am-20-september.md
 description: "Morgen um 12 Uhr geht es los: Überall auf der Welt treffen ich
   Klima-Aktivist*innen, um mit den Jugendlichen von Fridaysforfuture zu
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26294"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mit Fridaysforfuture auf die Straße
   
 ---

@@ -2,7 +2,7 @@
 title: Wie die Seepferdchen das Schwimmen verlernten
 seoTitle: Wie die Seepferdchen das Schwimmen verlernten - Ein Gedicht
 slug: flarf-gedicht-an-die-klimaerwaermung
-link: /2017/03/flarf-gedicht-an-die-klimaerwaermung/
+path: /2017/03/flarf-gedicht-an-die-klimaerwaermung/
 fileName: 2017-03---wie-die-seepferdchen-das-schwimmen-verlernten.md
 description: Seepferdchen stehen für Freiheit, Gelassenheit und Unabhängigkeit.
   Die Klimaerwärmung bringt uns nur Schwefeldioxid, Stickoxide und Ammoniak.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15906"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Klimaerwärmung
   
 ---

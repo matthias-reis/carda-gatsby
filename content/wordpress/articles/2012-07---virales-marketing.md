@@ -2,7 +2,7 @@
 title: Virales Marketing
 seoTitle: Virales Marketing - Mundpropaganda 2.0
 slug: virales-marketing-2
-link: /2012/07/virales-marketing-2/
+path: /2012/07/virales-marketing-2/
 fileName: 2012-07---virales-marketing.md
 description: Virales Marketing läuft über die verschiedensten Medien. Besonders
   groß geschrieben werden beim viralen Marketing die sozialen Netzwerke
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10789"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mundpropaganda 2.0
   
 ---

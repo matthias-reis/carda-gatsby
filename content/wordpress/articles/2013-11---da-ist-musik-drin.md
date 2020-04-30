@@ -2,7 +2,7 @@
 title: Da ist Musik drin
 seoTitle: Da ist Musik drin - Die Post war da
 slug: "7599"
-link: /2013/11/7599/
+path: /2013/11/7599/
 fileName: 2013-11---da-ist-musik-drin.md
 description: Das ist Musik drin! - Heute bin ich meinem Kollegen um den Hals
   gefallen, dabei kam er nur um die Ecke und meinte, er hätte Post für mich.
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7597"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Post war da
   
 ---

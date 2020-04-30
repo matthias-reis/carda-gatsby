@@ -2,7 +2,7 @@
 title: '"Lieber nackt als im Pelz!"'
 seoTitle: '"Lieber nackt als im Pelz" - 25 Jahre Lieblingsplakat'
 slug: lieber-nackt-als-im-pelz
-link: /2019/09/lieber-nackt-als-im-pelz/
+path: /2019/09/lieber-nackt-als-im-pelz/
 fileName: 2019-09---lieber-nackt-als-im-pelz.md
 description: Es ist jetzt 25 Jahre her, seit mir zum ersten Mal die berühmte
   Pelzfrei-Kampagne "Lieber nackt als im Pelz" von PETA aufgefallen ist.
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25938"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 25 Jahre Lieblingsplakat
   
 ---

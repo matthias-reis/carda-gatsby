@@ -2,7 +2,7 @@
 title: Das Hermannsdenkmal
 seoTitle: Wandern rund um das Hermannsdenkmal - ein wirklich großer Kerl
 slug: wandern-rund-um-das-hermannsdenkmal
-link: /2019/08/wandern-rund-um-das-hermannsdenkmal/
+path: /2019/08/wandern-rund-um-das-hermannsdenkmal/
 fileName: 2019-08---das-hermannsdenkmal.md
 description: Kennt Ihr schon das Hermannsdenkmal? Es zählt zu den bekanntesten
   Dankmalen in ganz Europa und es lohnt sich sehr, es zu besuchen
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25363"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein wirklich großer Kerl
   
 ---

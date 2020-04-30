@@ -2,7 +2,7 @@
 title: Paulibird
 seoTitle: Paulibird - handgemachter Upcycling-Schmuck aus St. Pauli
 slug: paulibird
-link: /2015/12/paulibird/
+path: /2015/12/paulibird/
 fileName: 2015-12---paulibird.md
 description: "Bei Paulibird in Hamburg wird ganz individueller Schmuck
   hergestellt. Das Material: Alte Skateboarddecks in Kombination mit
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29046"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Handgemachter Upcycling-Schmuck aus St. Pauli
   
 ---

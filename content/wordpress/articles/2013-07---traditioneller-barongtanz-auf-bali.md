@@ -2,7 +2,7 @@
 title: Traditioneller Barongtanz auf Bali
 seoTitle: Traditioneller Barontanz auf Bali - Meine Bildergalerie
 slug: traditioneller-barongtanz-auf-bali
-link: /2013/07/traditioneller-barongtanz-auf-bali/
+path: /2013/07/traditioneller-barongtanz-auf-bali/
 fileName: 2013-07---traditioneller-barongtanz-auf-bali.md
 description: Auf unserer großen Reise haben wir einen Einblick in den
   traditionellen balinesischen Barongtanz bekommen. Hier sind meine Eindrücke.
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6141"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unsere große Reise - Teil II
   
 ---

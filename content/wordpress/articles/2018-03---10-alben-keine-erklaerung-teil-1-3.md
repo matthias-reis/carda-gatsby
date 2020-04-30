@@ -2,7 +2,7 @@
 title: 10 Alben - Keine Erklärung - Teil 1/3
 seoTitle: 10 Alben - Keine Erklärung - Die ultimative Lieblingsplattenliste aller Zeiten
 slug: meine-ultimative-lieblingsplatten-liste
-link: /2018/03/meine-ultimative-lieblingsplatten-liste/
+path: /2018/03/meine-ultimative-lieblingsplatten-liste/
 fileName: 2018-03---10-alben-keine-erklaerung-teil-1-3.md
 description: Hier kommt meine ultimative Lieblingsplattenliste aller Zeiten.
   Diese Alben haben mich so beeindruckt und beeinflusst, dass ich sie nie
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19946"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
   
 ---

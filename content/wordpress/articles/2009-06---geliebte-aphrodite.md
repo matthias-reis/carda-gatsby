@@ -2,7 +2,7 @@
 title: Geliebte Aphrodite?
 seoTitle: Geliebte Aphrodite?
 slug: geliebte-aphrodite
-link: /2009/06/geliebte-aphrodite/
+path: /2009/06/geliebte-aphrodite/
 fileName: 2009-06---geliebte-aphrodite.md
 description: Zwischen 2000 und 2002 erhitzte der "Kunstskandal" um die Aphrodite
   die Gemüter der Augsburger Bürger.
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11385"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wegen dieser Dame stand die Augsburger Kunstwelt Kopf
   
 ---

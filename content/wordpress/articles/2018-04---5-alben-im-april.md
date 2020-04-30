@@ -2,7 +2,7 @@
 title: 5 Alben im April
 seoTitle: 5 Alben im April - Ich stelle Euch meine musikalischen Favoriten vor
 slug: 5-alben-im-april
-link: /2018/04/5-alben-im-april/
+path: /2018/04/5-alben-im-april/
 fileName: 2018-04---5-alben-im-april.md
 description: Der April ist ein sehr musikalischer Monat. Zahlreiche tolle Alben
   haben das Licht der Welt erblickt. Ich stelle Euch heute meine fünf Favoriten
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20638"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Musikalischen Favoriten
   
 ---

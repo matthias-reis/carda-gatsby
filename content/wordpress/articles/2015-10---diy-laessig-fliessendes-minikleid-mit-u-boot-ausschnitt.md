@@ -2,7 +2,7 @@
 title: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 seoTitle: DIY lässig fließendes Minikleid mit U-Boot-Ausschnitt
 slug: diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt
-link: /2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/
+path: /2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/
 fileName: 2015-10---diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt.md
 description: Heute zeige ich Euch meine erste Nähanleitung für ein Minikleid.
   Ihr könnt es ganz leicht nachnähen. Ich bin gespannt, wie es Euch gefällt.
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13030"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nähanleitung One Size (34 - 42)
   
 ---

@@ -2,7 +2,7 @@
 title: Kuhmilch immer unbeliebter
 seoTitle: Kuhmilch immer unbeliebter - Markt für pflanzliche Alternativen nimmt zu
 slug: kuhmilch-immer-unbeliebter
-link: /2018/03/kuhmilch-immer-unbeliebter/
+path: /2018/03/kuhmilch-immer-unbeliebter/
 fileName: 2018-03---kuhmilch-immer-unbeliebter.md
 description: Einem Bericht der Albert Schweitzer Stiftung zufolge, nimmt das
   Interesse der Amerikaner an Kuhmilch immer mehr ab. Und wie sieht es bei uns
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20293"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Markt für pflanzliche Alternativen nimmt zu
   
 ---

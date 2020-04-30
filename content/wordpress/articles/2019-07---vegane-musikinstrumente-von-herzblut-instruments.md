@@ -2,7 +2,7 @@
 title: Vegane Musikinstrumente von Herzblut Instruments
 seoTitle: Vegane Musikinstrumente von Herzblut Instruments
 slug: herzblut-instruments-vegane-musikinstrumente
-link: /2019/07/herzblut-instruments-vegane-musikinstrumente/
+path: /2019/07/herzblut-instruments-vegane-musikinstrumente/
 fileName: 2019-07---vegane-musikinstrumente-von-herzblut-instruments.md
 description: Die Manufaktur Herzblut Instruments stellt im schönen Aach vegane
   Musikinstrumente her. Gründer Gernot ist stolz auf sein Vegan Friendly
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25622"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schlagzeug und Bass ohne Tier
   
 ---

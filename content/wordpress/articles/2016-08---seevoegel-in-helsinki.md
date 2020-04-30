@@ -2,7 +2,7 @@
 title: Seevögel in Helsinki
 seoTitle: Seevögel in Helsinki - Auf jeder Statue eine Möwe
 slug: auf-jeder-statue-eine-moewe
-link: /2016/08/auf-jeder-statue-eine-moewe/
+path: /2016/08/auf-jeder-statue-eine-moewe/
 fileName: 2016-08---seevoegel-in-helsinki.md
 description: Seevögel zu fotografieren macht in Helsinki besonders großen Spaß.
   Auf jeder Statue (u. davon gibt es viele) scheint sich eine Möwe
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15116"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Auf jeder Statue eine Möwe
   
 ---

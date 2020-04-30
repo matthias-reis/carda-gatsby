@@ -2,7 +2,7 @@
 title: Blog CO2-neutral machen - so geht's
 seoTitle: Blog Co2-neutral machen - so geht's!
 slug: blog-co2-neutral-machen
-link: /2011/04/blog-co2-neutral-machen/
+path: /2011/04/blog-co2-neutral-machen/
 fileName: 2011-04---blog-co2-neutral-machen-so-gehts.md
 description: Viele Blogger meinen, mit einem Blog kann man der Umwelt nicht
   schaden. Doch leider ist das nicht sehr weit gedacht.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10746"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Pflanze einen Baum
   
 ---

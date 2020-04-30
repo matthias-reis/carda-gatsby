@@ -2,7 +2,7 @@
 title: Morgendlicher Anruf eines Chirurgen
 seoTitle: Morgendlicher Anruf eines Chirurgen
 slug: morgendlicher-anruf-eines-chirurgen
-link: /2013/09/morgendlicher-anruf-eines-chirurgen/
+path: /2013/09/morgendlicher-anruf-eines-chirurgen/
 fileName: 2013-09---morgendlicher-anruf-eines-chirurgen.md
 description: ""
 excerpt: "\n               \ \n            "
@@ -25,8 +25,7 @@ isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

@@ -2,7 +2,7 @@
 title: Schnappschuss
 seoTitle: You are here - Ein Schnappschuss zum Schmunzeln - Aus England
 slug: schnappschuss
-link: /2012/07/schnappschuss/
+path: /2012/07/schnappschuss/
 fileName: 2012-07---schnappschuss.md
 description: You are here - Ein Schnappschuss zum Schmunzeln - Aus England -
   Wunderbar. Schön. Klasse. Unübertreflich und genial. Für gute Laune.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3452"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 5/9
   
 ---

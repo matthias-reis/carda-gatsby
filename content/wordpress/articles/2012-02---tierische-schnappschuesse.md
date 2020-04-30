@@ -2,7 +2,7 @@
 title: Tierische Schnappschüsse
 seoTitle: Tierische Schnappschüsse
 slug: tierisch
-link: /2012/02/tierisch/
+path: /2012/02/tierisch/
 fileName: 2012-02---tierische-schnappschuesse.md
 description: ""
 excerpt: Tiere haben es einfach drauf - sie zeigen sich immer von ihrer
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2785"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vögel, Säugetiere und Reptilien vor der Linse
   
 ---

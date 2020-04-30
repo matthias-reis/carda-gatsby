@@ -2,7 +2,7 @@
 title: Wo bleibt eigentlich der versprochene Artikel?
 seoTitle: Wo bleibt der versprochene Artikel? Tagebucheintrag
 slug: wo-bleibt-eigentlich-der-versprochene-artikel
-link: /2013/11/wo-bleibt-eigentlich-der-versprochene-artikel/
+path: /2013/11/wo-bleibt-eigentlich-der-versprochene-artikel/
 fileName: 2013-11---wo-bleibt-eigentlich-der-versprochene-artikel.md
 description: Nachdem ich ihn schon vor Tagen auf meiner Facebook-Seite so
   großspurig angekündigt habe, kommt hier endlich der Artikel, den ich Euch noch
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7571"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

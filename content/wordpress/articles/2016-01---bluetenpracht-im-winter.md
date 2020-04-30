@@ -2,7 +2,7 @@
 title: Blütenpracht im Winter
 seoTitle: Blütenpracht im Winter - Planten un Blomen im Dezemberlicht
 slug: bluetenpracht-im-winter
-link: /2016/01/bluetenpracht-im-winter/
+path: /2016/01/bluetenpracht-im-winter/
 fileName: 2016-01---bluetenpracht-im-winter.md
 description: Planten un Blomen im Winterlicht - Von einer ganz besonderen Seite
   zeigte sich der Hamburger Park am 24. Dezember - Ein Rundgang in Bildern.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13646"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Planten un Blomen im Winterlicht
   
 ---

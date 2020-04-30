@@ -2,7 +2,7 @@
 title: Flattr-Button in Wordpress-Blog einbinden
 seoTitle: Flattr-Button in Wordpress-Blog einbinden
 slug: flattr-button-in-wordpress-blog-einbinden
-link: /2012/11/flattr-button-in-wordpress-blog-einbinden
+path: /2012/11/flattr-button-in-wordpress-blog-einbinden
 fileName: 2012-11---flattr-button-in-wordpress-blog-einbinden.md
 description: Habt Ihr Euch schon immer gefragt, wie ihr einen Flattr-Button in
   Euer Wordpress-Blog einbinden könnt, ohne dabei ein Plugin zu verwenden?
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4439"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ohne nerviges Plugin
   
 ---

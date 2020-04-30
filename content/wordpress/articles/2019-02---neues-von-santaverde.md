@@ -2,7 +2,7 @@
 title: Neues von Santaverde
 seoTitle: Neues von Santaverde - pure Naturkosmetik gegen unreine Haut
 slug: santaverde-pure
-link: /2019/02/santaverde-pure/
+path: /2019/02/santaverde-pure/
 fileName: 2019-02---neues-von-santaverde.md
 description: Der Frühling ist da. Frische Blüten knospen auf, es duftet, die
   Sonne scheint und es gibt was Neues von Santaverde - pure Naturkosmetik gegen
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23669"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Pure Naturkosmetik für klare Haut
   
 ---

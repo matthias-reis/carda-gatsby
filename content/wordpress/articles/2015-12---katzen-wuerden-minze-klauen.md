@@ -2,7 +2,7 @@
 title: Katzen würden Minze klauen
 seoTitle: Katzen würden Minze klauen - Oskar und Chili vor der Kamera
 slug: katzen-wuerden-minze-klauen
-link: /2015/12/katzen-wuerden-minze-klauen/
+path: /2015/12/katzen-wuerden-minze-klauen/
 fileName: 2015-12---katzen-wuerden-minze-klauen.md
 description: Katzen - Wie sehr lieben wir unsere schmusigen, eigenwilligen
   Begleiter. Ein Leben ohne sie wäre möglich, aber sinnlos. Eine Bildergalerie.
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13532"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Oskar und Chili vor der Kamera
   
 ---

@@ -2,7 +2,7 @@
 title: DIY Curry Ketchup
 seoTitle: DIY Curry Ketchup - Vegan und zuckerfrei
 slug: diy-curry-ketchup
-link: /2017/04/diy-curry-ketchup/
+path: /2017/04/diy-curry-ketchup/
 fileName: 2017-04---diy-curry-ketchup.md
 description: Jeder liebt Ketchup. Leider ist der handelsübliche zumeist stark
   übersüßt. Ich verrate Euch heute mein heiß geliebtes Rezept für Curry Ketchup.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15460"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegan und zuckerfrei
   
 ---

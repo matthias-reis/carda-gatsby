@@ -2,7 +2,7 @@
 title: Das vegane Sortiment von Xucker im Test
 seoTitle: Das vegane Sortiment von Xucker im Test - weniger süß kann lecker sein!
 slug: das-vegane-sortiment-von-xucker-im-test
-link: /2019/11/das-vegane-sortiment-von-xucker-im-test/
+path: /2019/11/das-vegane-sortiment-von-xucker-im-test/
 fileName: 2019-11---das-vegane-sortiment-von-xucker-im-test.md
 description: Süß soll es ja schon sein. Aber trotzdem gesund. Und möglichst ohne
   unnötige Kalorien. Aber wie soll das gehen ohne Zucker? Ich habe jetzt Xucker
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26722"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Weniger süß kann lecker sein
   
 ---

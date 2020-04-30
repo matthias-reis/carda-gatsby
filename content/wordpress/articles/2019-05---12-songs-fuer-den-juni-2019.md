@@ -2,7 +2,7 @@
 title: 12 Songs für den Juni 2019
 seoTitle: 12 Songs für den Juni - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-juni
-link: /2019/05/12-songs-fuer-den-juni/
+path: /2019/05/12-songs-fuer-den-juni/
 fileName: 2019-05---12-songs-fuer-den-juni-2019.md
 description: 12 Songs, Sonne, gute Laune und Zeit - was braucht man mehr? Wir
   haben die Musik für Euren Juni zusammengestellt. Viel Freude damit.
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24630"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

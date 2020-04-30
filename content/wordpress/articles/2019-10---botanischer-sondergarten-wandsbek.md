@@ -2,7 +2,7 @@
 title: Botanischer Sondergarten Wandsbek
 seoTitle: Botanischer Sondergarten Wandsbek - Hamburg im Herbst
 slug: botanischer-sondergarten-hamburg-wandsbek
-link: /2019/10/botanischer-sondergarten-hamburg-wandsbek/
+path: /2019/10/botanischer-sondergarten-hamburg-wandsbek/
 fileName: 2019-10---botanischer-sondergarten-wandsbek.md
 description: Wenn man im Herbst ein paar Stunden Zeit hat, geht man am besten
   spazieren. Der Botanische Sondergarten in Hamburg Wandsbek lockt mit bunten
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26586"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Hamburg im Herbst
   
 ---

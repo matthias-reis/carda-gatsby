@@ -2,7 +2,7 @@
 title: Tofumanufaktur Berlin Soy Rebels
 seoTitle: Tofumanufaktur Berlin Soy Rebels - Interview - "Tofu ist nicht gleich Tofu"
 slug: tofumanufaktur-berlin-soy-rebels-interview
-link: /2015/12/tofumanufaktur-berlin-soy-rebels-interview/
+path: /2015/12/tofumanufaktur-berlin-soy-rebels-interview/
 fileName: 2015-12---tofumanufaktur-berlin-soy-rebels.md
 description: Ich habe mich mit Mateusz Wawrzyniak von der Tofumanufaktur über
   das Kollektiv unterhalten. Dabei habe ich einiges über Tofu erfahren.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29019"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Tofu ist nicht gleich Tofu"'
   
 ---

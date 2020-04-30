@@ -2,7 +2,7 @@
 title: Sloe Dancer
 seoTitle: Sloe Dancer - Kleiner feiner Vorglüh-Cocktail für coole Sommerabende
 slug: sloe-dancer
-link: /2018/06/sloe-dancer/
+path: /2018/06/sloe-dancer/
 fileName: 2018-06---sloe-dancer.md
 description: Tolles Wetter, oder? Wie wäre es vorher noch mit einem kleinen
   Vorglüh-Cocktail in gemütlicher Runde auf dem Balkon? Hier kommt unser Rezept!
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21137"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kleiner feiner Vorglüh-Cocktail für coole Sommerabende
   
 ---

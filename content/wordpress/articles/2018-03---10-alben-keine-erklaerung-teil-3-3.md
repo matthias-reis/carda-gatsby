@@ -3,7 +3,7 @@ title: 10 Alben - Keine Erklärung - Teil 3/3
 seoTitle: 10 Alben - Keine Erklärung - Lieblingsschallplatten eines ganz
   besonderen Menschen
 slug: 10-alben-keine-erklaerung-teil-3
-link: /2018/03/10-alben-keine-erklaerung-teil-3/
+path: /2018/03/10-alben-keine-erklaerung-teil-3/
 fileName: 2018-03---10-alben-keine-erklaerung-teil-3-3.md
 description: Vor sieben Jahren fing alles damit an, dass Du meine
   Lieblingsplatten in den höchsten Tönen gelobt hast. Hier sind Deine liebsten
@@ -51,7 +51,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20205"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Matzes ultimative Lieblingsplattenliste
   
 ---

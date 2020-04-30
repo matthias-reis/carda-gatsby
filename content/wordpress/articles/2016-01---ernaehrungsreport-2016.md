@@ -2,7 +2,7 @@
 title: Ernährungsreport 2016
 seoTitle: Ernährungsreport 2016 - Umfrageergebnisse falsch dargestellt
 slug: ernaehrungsreport-2016
-link: /2016/01/ernaehrungsreport-2016/
+path: /2016/01/ernaehrungsreport-2016/
 fileName: 2016-01---ernaehrungsreport-2016.md
 description: Nachforschungen von Foodwatch brachten ans Licht, dass im
   Ernährungsreport 2016 Umfrageergebnisse falsch dargestellt werden.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29181"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Umfrageergebnisse falsch dargestellt
   
 ---

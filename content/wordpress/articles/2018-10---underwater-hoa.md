@@ -2,7 +2,7 @@
 title: Underwater HOA
 seoTitle: Underwater HOA - Künstler Xavier Cortada kämpft gegen den Klimawandel
 slug: underwater-hoa
-link: /2018/10/underwater-hoa/
+path: /2018/10/underwater-hoa/
 fileName: 2018-10---underwater-hoa.md
 description: Der Umweltaktivist und Künstler Xavier Cortada möchte mit seinem
   Projekt Underwater HOA zum sofortigen Handeln gegen steigenden Meeresspiegel
@@ -49,7 +49,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22431"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Künstler Xavier Cortada für Klimaschutz ein
   
 ---

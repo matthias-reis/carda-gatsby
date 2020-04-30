@@ -2,7 +2,7 @@
 title: Fo­to­gra­fin Pe­tra Fritzi Hen­ne­mann
 seoTitle: Hochzeitsfotografin Petra Fritzi Hennemann im Interview
 slug: hochzeitsfotografin-petra-fritzi-hennemann-im-interview
-link: /2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/
+path: /2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/
 fileName: 2016-02---fo-to-gra-fin-pe-tra-fritzi-hen-ne-mann.md
 description: Hochzeitsfotografin Petra Fritzi Hennmann meint, dass Aufregung
   etwas ganz Normales ist. Im Interview hat sie mir noch vieles mehr verraten.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14052"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Aufregung ist etwas ganz Normales"'
   
 ---

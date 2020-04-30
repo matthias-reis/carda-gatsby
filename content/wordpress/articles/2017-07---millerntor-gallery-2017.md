@@ -2,7 +2,7 @@
 title: Millerntor Gallery 2017
 seoTitle: Millerntor Gallery 2017 - Rundgang durch die Ausstellung
 slug: millerntor-gallery-2017
-link: /2017/07/millerntor-gallery-2017/
+path: /2017/07/millerntor-gallery-2017/
 fileName: 2017-07---millerntor-gallery-2017.md
 description: Wir haben wundervolle Eindrücke mit nach Hause genommen von der
   Millerntor Gallery 2017, die ich heute gerne mit Euch teilen möchte.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17110"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rundgang durch die Ausstellung
   
 ---

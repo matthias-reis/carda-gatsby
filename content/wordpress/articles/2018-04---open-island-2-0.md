@@ -2,7 +2,7 @@
 title: Open Island 2.0
 seoTitle: Open Island 2.0 - Neuer Lebensraum auf Recyclingplattformen
 slug: open-island
-link: /2018/04/open-island/
+path: /2018/04/open-island/
 fileName: 2018-04---open-island-2-0.md
 description: Habt Ihr schon mal was vom Open Island gehört? Es ist ein Projekt
   zur Schaffung neuer Lebensräume. Auf dem Ferropolis Gelände entsteht eine
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20572"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neuer Lebensraum auf Recyclinginseln
   
 ---

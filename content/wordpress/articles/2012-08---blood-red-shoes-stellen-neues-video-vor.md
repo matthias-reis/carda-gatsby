@@ -2,7 +2,7 @@
 title: Blood Red Shoes stellen neues Video vor
 seoTitle: Blood Red Shoes stellen neues Video vor - Regen ist abgesagt
 slug: blood-red-shoes-stellen-neues-video-vor
-link: /2012/08/blood-red-shoes-stellen-neues-video-vor/
+path: /2012/08/blood-red-shoes-stellen-neues-video-vor/
 fileName: 2012-08---blood-red-shoes-stellen-neues-video-vor.md
 description: Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts
   aus, weil die BLOOD RED SHOES heute ihr neues Video vorgestellt haben.
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4081"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Regen am Freitag macht mir nichts aus
   
 ---

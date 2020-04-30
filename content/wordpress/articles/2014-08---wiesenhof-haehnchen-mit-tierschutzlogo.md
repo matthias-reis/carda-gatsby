@@ -2,7 +2,7 @@
 title: Wiesenhof-Hähnchen mit Tierschutzlogo
 seoTitle: Wiesenhof-Hähnchen mit Tierschutzlogo
 slug: wiesenhof-hahnchen-mit-tierschutzlogo
-link: /2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/
+path: /2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/
 fileName: 2014-08---wiesenhof-haehnchen-mit-tierschutzlogo.md
 description: Wiesenhof-Hähnchen mit Tierschutzlogo? Was hat das mit Tierschutz
   zu tun? Macht der Deutsche Tierschutzbund jetzt gemeinsame Sache mit
@@ -62,7 +62,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8140"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Skandal um Tierschutzbund
   
 ---

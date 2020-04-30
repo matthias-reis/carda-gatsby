@@ -2,7 +2,7 @@
 title: Soulfood von Alles vegetarisch
 seoTitle: Soulfood von Alles vegetarisch
 slug: soulfood-von-alles-vegetarisch
-link: /2020/04/soulfood-von-alles-vegetarisch
+path: /2020/04/soulfood-von-alles-vegetarisch
 fileName: 2020-04---soulfood-von-alles-vegetarisch.md
 description: ""
 excerpt: ""
@@ -17,7 +17,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29223"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Burger, Süßigkeiten &amp; Co.
   
 ---

@@ -2,7 +2,7 @@
 title: Neue Deocremes von Pony Hütchen
 seoTitle: Neue Deocremes von Pony Hütchen - Beauty-Lieblinge im neuen Kleid
 slug: neue-deocremes-von-pony-huetchen
-link: /2018/02/neue-deocremes-von-pony-huetchen/
+path: /2018/02/neue-deocremes-von-pony-huetchen/
 fileName: 2018-02---neue-deocremes-von-pony-huetchen.md
 description: Was bei mir im Bad niemals fehlen darf, sind meine
   Lieblings-Deocremes von Pony Hütchen. Jetzt gibt es davon eine Neuauflage, die
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19473"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Beauty-Lieblinge im neuen Kleid
   
 ---

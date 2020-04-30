@@ -2,7 +2,7 @@
 title: CJ Ramone in Augsburg
 seoTitle: Punk in der Kantine mit Stargast CJ Ramone
 slug: punk-in-der-kantine-in-augsburg-mit-stargast-cj-ramone
-link: /2009/08/punk-in-der-kantine-in-augsburg-mit-stargast-cj-ramone/
+path: /2009/08/punk-in-der-kantine-in-augsburg-mit-stargast-cj-ramone/
 fileName: 2009-08---cj-ramone-in-augsburg.md
 description: Am Dienstag gab sich Stargast CJ Ramone in der Kantine in Augsburg die Ehre
 excerpt: Am Dienstag, 25. August war in der Kantine in Augsburg wieder
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11452"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Stargast in der Kantine
   
 ---

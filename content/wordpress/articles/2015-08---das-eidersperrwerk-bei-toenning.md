@@ -2,7 +2,7 @@
 title: Das Eidersperrwerk bei Tönning
 seoTitle: Schutz vor Sturmfluten - Das Eidersperrwerk bei Tönning
 slug: schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning
-link: /2015/08/schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning/
+path: /2015/08/schutz-vor-sturmfluten-das-eidersperrwerk-bei-toenning/
 fileName: 2015-08---das-eidersperrwerk-bei-toenning.md
 description: Bei unserem kleinen Ausflug nach Tönning besuchten wir auch das
   berühmte Eidersperrwerk, das die Küste vor Sturmfluten schützt.
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12156"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schutz vor der Sturmflut
   
 ---

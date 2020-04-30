@@ -2,7 +2,7 @@
 title: Ein Besuch in Kiel
 seoTitle: Ein Besuch in Kiel - Fernweh und Wind
 slug: ein-besuch-in-kiel
-link: /2015/11/ein-besuch-in-kiel/
+path: /2015/11/ein-besuch-in-kiel/
 fileName: 2015-11---ein-besuch-in-kiel.md
 description: Der Wind im Hafen hatte es mir besonders angetan bei unserem
   gestrigen Besuch in Kiel. Hier sind meine Bilder.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13141"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fernweh und Wind
   
 ---

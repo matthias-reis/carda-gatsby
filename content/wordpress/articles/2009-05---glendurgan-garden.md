@@ -2,7 +2,7 @@
 title: Glendurgan Garden
 seoTitle: Glendurgan Garden - Anne bloggt cardamonchai
 slug: glendurgan-garden-15-05-2009-2
-link: /2009/05/glendurgan-garden-15-05-2009-2/
+path: /2009/05/glendurgan-garden-15-05-2009-2/
 fileName: 2009-05---glendurgan-garden.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Glendurgan Garden"
 excerpt: Die subtropische Gartenanlage von Glendurgan liegt etwa fünf Meilen
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11258"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 9/17
   
 ---

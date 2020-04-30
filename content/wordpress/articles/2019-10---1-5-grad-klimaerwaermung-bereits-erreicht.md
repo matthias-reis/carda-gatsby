@@ -2,7 +2,7 @@
 title: 1,5 Grad Klimaerwärmung bereits erreicht
 seoTitle: Der Klimawandel im Mittelmeerraum - neue Studie der UfM
 slug: klimawandel-mittelmeerraum
-link: /2019/10/klimawandel-mittelmeerraum/
+path: /2019/10/klimawandel-mittelmeerraum/
 fileName: 2019-10---1-5-grad-klimaerwaermung-bereits-erreicht.md
 description: Die Mittelmeerregion ist vom Klimawandel besonders stark bedroht.
   Das geht aus einer aktuellen Studie der Union für das Mittelmeer (UfM) hervor.
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26543"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Klimawandel im Mittelmeerraum
   
 ---

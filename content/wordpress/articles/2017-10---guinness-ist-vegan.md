@@ -2,7 +2,7 @@
 title: Guinness ist vegan!
 seoTitle: Guinness ist vegan! Wir haben die Brauerei in Dublin besucht
 slug: guinness-ist-vegan-brauerei-besuch
-link: /2017/10/guinness-ist-vegan-brauerei-besuch/
+path: /2017/10/guinness-ist-vegan-brauerei-besuch/
 fileName: 2017-10---guinness-ist-vegan.md
 description: "Heute habe ich ein paar Fakten über Guinness vorbereitet. Wir
   haben die Brauerei in Dublin besucht. Gute Nachricht: Guinness ist inzwischen
@@ -37,8 +37,7 @@ isAffiliate: false
 thumbnailId: "18122"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (56:40)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (56:40)"
 subTitle: Besuch der Guinness Brauerei in Dublin
   
 ---

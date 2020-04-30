@@ -2,7 +2,7 @@
 title: ArcTanGent Festival 2019
 seoTitle: ArcTanGent Festival 2019 - die ganz große Festival-Liebe
 slug: arctangent-festival-2019-2
-link: /2019/09/arctangent-festival-2019-2/
+path: /2019/09/arctangent-festival-2019-2/
 fileName: 2019-09---arctangent-festival-2019.md
 description: Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt.
   Hier kommt mein Nachbericht - in Form einer verliebten Lobhudelei.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25852"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die ganz große Festival-Liebe
   
 ---

@@ -2,7 +2,7 @@
 title: Grüner Kaffee
 seoTitle: Grüner Kaffee - gesund und gut für die Figur
 slug: gruener-kaffee
-link: /2015/10/gruener-kaffee/
+path: /2015/10/gruener-kaffee/
 fileName: 2015-10---gruener-kaffee.md
 description: Grüner Kaffee kann sich positiv auf die Gesundheit auswirken. Das
   haben Forscher herausgefunden. Ein Portrait über das natürliche
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28963"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesund und gut für die Figur
   
 ---

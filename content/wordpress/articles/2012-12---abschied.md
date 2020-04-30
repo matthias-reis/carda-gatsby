@@ -2,7 +2,7 @@
 title: Abschied
 seoTitle: Abschied - eine kurze Geschichte voller Schmerz und Hoffnung
 slug: abschied-kurzgeschichte
-link: /2012/12/abschied-kurzgeschichte/
+path: /2012/12/abschied-kurzgeschichte/
 fileName: 2012-12---abschied.md
 description: Er saß am Küchentisch und rührte den vierten Löffel Zucker in
   seinen schwarzen Kaffee. Gedankenverloren zog er an seiner Zigarette. Der
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4714"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Geschichte aus dem Leben
   
 ---

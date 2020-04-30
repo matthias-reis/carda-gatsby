@@ -2,7 +2,7 @@
 title: Russian Circles live @ Knust Hamburg 20. Februar 2017
 seoTitle: Russian Circles live @ Knust Hamburg - Post-Rock für die Seele
 slug: russian-circles-knust-hamburg-2017
-link: /2017/02/russian-circles-knust-hamburg-2017/
+path: /2017/02/russian-circles-knust-hamburg-2017/
 fileName: 2017-02---russian-circles-live-knust-hamburg-20-februar-2017.md
 description: Nach langer Zeit hatten wir gestern endlich mal wieder die Ehre
   Russian Circles live auf der Bühne zu erleben. Für uns war es ein gelungener
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15928"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Post-Rock für die Seele
   
 ---

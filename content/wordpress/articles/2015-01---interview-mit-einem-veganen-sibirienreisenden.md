@@ -2,7 +2,7 @@
 title: Interview mit einem veganen Sibirienreisenden
 seoTitle: '"Heimweh hatte ich noch nie!" - Interview mit Sebastian Frost'
 slug: ich-hatte-noch-nie-heimweh
-link: /2015/01/ich-hatte-noch-nie-heimweh/
+path: /2015/01/ich-hatte-noch-nie-heimweh/
 fileName: 2015-01---interview-mit-einem-veganen-sibirienreisenden.md
 description: Sebastian Frost reiste im Winter alleine durch Sibirien. "Heimweh
   hatte ich noch nie!" sagt er von sich. Veganes Essen zu finden war schwer.
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9384"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Ich hatte noch nie Heimweh!"'
   
 ---

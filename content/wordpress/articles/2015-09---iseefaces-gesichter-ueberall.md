@@ -2,7 +2,7 @@
 title: "#iseefaces - Gesichter überall"
 seoTitle: "#iseefaces - Gesichter überall - Bildergalerie"
 slug: iseefaces-gesichter-ueberall
-link: /2015/09/iseefaces-gesichter-ueberall/
+path: /2015/09/iseefaces-gesichter-ueberall/
 fileName: 2015-09---iseefaces-gesichter-ueberall.md
 description: "Unter dem Hashtag #iseefaces habe ich in den letzten Jahren eine
   stattliche Fotosammlung mit versteckten Gesichtern angelegt."
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12865"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

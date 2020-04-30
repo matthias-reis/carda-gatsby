@@ -2,7 +2,7 @@
 title: Was G20 mit unserer Stadt macht
 seoTitle: Was G20 mit unserer Stadt macht - Bestandsaufnahme einer Hamburgerin
 slug: g20
-link: /2017/07/g20/
+path: /2017/07/g20/
 fileName: 2017-07---was-g20-mit-unserer-stadt-macht.md
 description: Schon Wochen vor G20 fing Hamburg an, sich auf den Gipfel
   vorzubereiten. Inzwischen ist hier so einiges im Gange - Eine Bestandsaufnahme
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17044"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bestandsaufnahme einer Hamburgerin
   
 ---

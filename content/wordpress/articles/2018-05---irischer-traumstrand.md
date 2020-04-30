@@ -2,7 +2,7 @@
 title: Irischer Traumstrand
 seoTitle: Irischer Traumstrand - Location wird nicht verraten
 slug: irischer-traumstrand
-link: /2018/05/irischer-traumstrand/
+path: /2018/05/irischer-traumstrand/
 fileName: 2018-05---irischer-traumstrand.md
 description: Wo sich dieser Traumstrand befindet, wird nicht verraten. Ich lade
   Euch trotzdem dazu ein, die Aussicht mit mir zu genießen.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19831"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Ort der Ruhe
   
 ---

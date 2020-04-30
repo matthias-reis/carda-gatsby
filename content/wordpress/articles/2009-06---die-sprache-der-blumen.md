@@ -2,7 +2,7 @@
 title: Die Sprache der Blumen
 seoTitle: Die Sprache der Blumen
 slug: die-sprache-der-blumen
-link: /2009/06/die-sprache-der-blumen/
+path: /2009/06/die-sprache-der-blumen/
 fileName: 2009-06---die-sprache-der-blumen.md
 description: Warum verschenken wir Blumen? Wer spricht die Sprache der Blumen?
   Warum freuen wir uns, wenn wir welche geschenkt bekommen?
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "395"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Warum verschenken wir Blumen?
   
 ---

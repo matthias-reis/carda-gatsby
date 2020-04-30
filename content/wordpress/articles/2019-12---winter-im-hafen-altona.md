@@ -2,7 +2,7 @@
 title: Winter im Hafen Altona
 seoTitle: Winter im Hafen Altona - Hamburger Bildergalerie mit Möwen
 slug: winter-im-hafen-altona
-link: /2019/12/winter-im-hafen-altona/
+path: /2019/12/winter-im-hafen-altona/
 fileName: 2019-12---winter-im-hafen-altona.md
 description: Ein Spaziergang vom Altonaer Holzhafen in Richtung Altonaer Balkon
   passt sonntags einfach immer dazwischen. Hier bietet sich ein toller Blick auf
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27202"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <span class="s1">Bildergalerie mit Möwen</span>
   
 ---

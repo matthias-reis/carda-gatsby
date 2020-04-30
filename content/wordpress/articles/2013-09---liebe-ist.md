@@ -2,7 +2,7 @@
 title: Liebe ist
 seoTitle: Liebe ist
 slug: von-guten-freunden-und-fotos
-link: /2013/09/von-guten-freunden-und-fotos/
+path: /2013/09/von-guten-freunden-und-fotos/
 fileName: 2013-09---liebe-ist.md
 description: ""
 excerpt: Liebe ist, wenn Du dem Internet erzählst, dass es Deinem Kater schlecht
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7224"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gute Freunde und Fotos
   
 ---

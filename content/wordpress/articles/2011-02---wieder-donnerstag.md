@@ -2,7 +2,7 @@
 title: Wieder Donnerstag
 seoTitle: Wieder Donnerstag - Tagebucheintrag
 slug: wieder-donnerstag
-link: /2011/02/wieder-donnerstag/
+path: /2011/02/wieder-donnerstag/
 fileName: 2011-02---wieder-donnerstag.md
 description: Ein anstrengender Tag geht mit guter Musik zu Ende. Wieder ein paar
   schöne Songs entdeckt. Heute war es zwar kalt aber den ganzen Tag schön
@@ -26,8 +26,7 @@ isAffiliate: false
 thumbnailId: "379"
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

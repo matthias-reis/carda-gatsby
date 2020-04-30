@@ -2,7 +2,7 @@
 title: Von persönlichen Grußkarten, Versandkosten und Kontosperrung
 seoTitle: Von Versandkosten und Kontosperrung
 slug: von-persoenlichen-grusskarten-versandkosten-und-kontosperrung
-link: /2015/03/von-persoenlichen-grusskarten-versandkosten-und-kontosperrung
+path: /2015/03/von-persoenlichen-grusskarten-versandkosten-und-kontosperrung
 fileName: 2015-03---von-persoenlichen-grusskarten-versandkosten-und-kontosperrung.md
 description: Nicht nur mit den Versandkosten kommt es immer wieder zu Problemen,
   auch mit der Abwicklung geht einiges schief im Marketplace...
@@ -25,8 +25,7 @@ isAffiliate: false
 thumbnailId: "10455"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (100:41)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (100:41)"
 subTitle: Verkaufen im Amazon Marketplace
   
 ---

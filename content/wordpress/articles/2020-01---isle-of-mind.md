@@ -2,7 +2,7 @@
 title: Isle Of Mind
 seoTitle: Isle Of Mind - Mein neues Yoga-Handtuch im Belastungstest
 slug: isle-of-mind
-link: /2020/01/isle-of-mind/
+path: /2020/01/isle-of-mind/
 fileName: 2020-01---isle-of-mind.md
 description: Die Yoga-Tücher von Isle Of Mind bestehen zu 45 Prozent aus
   PET-Flaschen. Ich habe jetzt eins ausprobiert und möchte es nie wieder
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27312"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mein neues Yoga-Handtuch im Belastungstest
   
 ---

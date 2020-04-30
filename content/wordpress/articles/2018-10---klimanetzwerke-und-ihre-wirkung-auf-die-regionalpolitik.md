@@ -2,7 +2,7 @@
 title: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik
 seoTitle: Klimanetzwerke und ihre Wirkung auf die Regionalpolitik
 slug: klimanetzwerke-universitaet-lund
-link: /2018/10/klimanetzwerke-universitaet-lund/
+path: /2018/10/klimanetzwerke-universitaet-lund/
 fileName: 2018-10---klimanetzwerke-und-ihre-wirkung-auf-die-regionalpolitik.md
 description: Klimanetzwerke sollen in Zukunft die Kommunen im Kampf gegen den
   Klimawandel unterstützen. Ihre Vorteile müssen noch klarer kommuniziert
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22423"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neue Forschungsergebnisse der Universität Lund
   
 ---

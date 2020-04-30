@@ -2,7 +2,7 @@
 title: Farbe auf Beton
 seoTitle: Farbe auf Beton
 slug: farbe-auf-beton
-link: /2013/05/farbe-auf-beton/
+path: /2013/05/farbe-auf-beton/
 fileName: 2013-05---farbe-auf-beton.md
 description: In München habe ich vor Kurzem ein paar bunte Momentaufnahmen
   gemacht, die ich gerne mit Euch teilen möchte.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5326"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesehen und fotografiert in München
   
 ---

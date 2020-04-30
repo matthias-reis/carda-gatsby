@@ -2,7 +2,7 @@
 title: Möwe am Wasser
 seoTitle: Möwe am Wasser - Winter im Hafen - Flarfgedicht im Januar
 slug: moewe-am-wasser
-link: /2018/01/moewe-am-wasser/
+path: /2018/01/moewe-am-wasser/
 fileName: 2018-01---moewe-am-wasser.md
 description: Die Freiheit die Sonne das Wasser. Eiswasser. Frisch und klar.
   Winter-Ruhe, Mann! Bei diesem Text handelt es sich um ein ganz besonderes
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18977"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Winter im Hafen
   
 ---

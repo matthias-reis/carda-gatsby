@@ -2,7 +2,7 @@
 title: Vegane Zahnpasta von Happybrush
 seoTitle: Vegane Zahnpasta von Happybrush - Mein Produkttest mit Life Hack
 slug: zahnpasta-von-happybrush
-link: /2018/03/zahnpasta-von-happybrush/
+path: /2018/03/zahnpasta-von-happybrush/
 fileName: 2018-03---vegane-zahnpasta-von-happybrush.md
 description: Ich habe die vegane Zahnpasta von Happybrush getestet. Auf
   bedenkliche Inhaltsstoffe und Mikroplastik wird bei ihrer Herstellung aus
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19808"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Produkttest und Lifehack
   
 ---

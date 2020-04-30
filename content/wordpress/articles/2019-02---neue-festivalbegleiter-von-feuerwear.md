@@ -2,7 +2,7 @@
 title: Neue Festivalbegleiter von Feuerwear
 seoTitle: Neue Festivalbegleiter von Feuerwear - rot, heiß und robust
 slug: neue-festivalbegleiter-von-feuerwear
-link: /2019/02/neue-festivalbegleiter-von-feuerwear/
+path: /2019/02/neue-festivalbegleiter-von-feuerwear/
 fileName: 2019-02---neue-festivalbegleiter-von-feuerwear.md
 description: Die Festivalsaison rückt immer näher. Was mich dieses Jahr das
   erste Mal begleiten wird, sind die praktischen weil robusten Taschen von
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23513"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rot, heiß und robust
   
 ---

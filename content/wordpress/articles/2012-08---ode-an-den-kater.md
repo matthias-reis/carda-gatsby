@@ -2,7 +2,7 @@
 title: Ode an den Kater
 seoTitle: Ode an den Kater - Eine Kurzgeschichte zum Thema Katzenliebe
 slug: ode-an-den-kater
-link: /2012/08/ode-an-den-kater/
+path: /2012/08/ode-an-den-kater/
 fileName: 2012-08---ode-an-den-kater.md
 description: Kater - Du freust Dich jedes Mal, wenn jemand die Tür aufschließt.
   Du drehst Deine Runden um die Hosenbeine, bis diese ganz grau sind von Deinem
@@ -50,7 +50,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4116"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Geschichte zum Thema Katzenliebe
   
 ---

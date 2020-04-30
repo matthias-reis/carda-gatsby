@@ -2,7 +2,7 @@
 title: Schmuckaufbewahrung selber basteln
 seoTitle: Schmuckaufbewahrung selber basteln
 slug: schmuckaufbewahrung-selber-basteln
-link: /2012/04/schmuckaufbewahrung-selber-basteln/
+path: /2012/04/schmuckaufbewahrung-selber-basteln/
 fileName: 2012-04---schmuckaufbewahrung-selber-basteln.md
 description: Schmuckaufbewahrung selber basteln - Ich habe drei Anleitungen für
   Euch, wie Ihr Eure ganz einfach Schmuckaufbewahrung selber basteln könnt.
@@ -40,8 +40,7 @@ isAffiliate: false
 thumbnailId: "2978"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (63:12)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (63:12)"
 subTitle: Bastelstunde
   
 ---

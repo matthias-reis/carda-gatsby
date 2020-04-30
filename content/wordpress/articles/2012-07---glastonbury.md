@@ -2,7 +2,7 @@
 title: Glastonbury
 seoTitle: Glastonbury
 slug: glastonbury
-link: /2012/07/glastonbury/
+path: /2012/07/glastonbury/
 fileName: 2012-07---glastonbury.md
 description: Glastonbury - eine Bildergalerie Ich hatte endlich wieder Zeit,
   Glastonbury zu besuchen, eine meiner Lieblingsstädte
@@ -45,8 +45,7 @@ isAffiliate: false
 thumbnailId: "3375"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (44:23)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:23)"
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 3/12
   
 ---

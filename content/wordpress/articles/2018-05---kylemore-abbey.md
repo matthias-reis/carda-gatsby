@@ -2,7 +2,7 @@
 title: Kylemore Abbey
 seoTitle: Kylemore Abbey - Abtei und verwunschener Garten
 slug: kylemore-abbey
-link: /2018/05/kylemore-abbey/
+path: /2018/05/kylemore-abbey/
 fileName: 2018-05---kylemore-abbey.md
 description: Hinter den Toren von Kylemore Abbey befindet sich einer der
   schönsten verwunschenen Gärten der Welt. Wir haben ihn besucht.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19860"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Abtei und verschwunschener Garten
   
 ---

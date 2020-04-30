@@ -2,7 +2,7 @@
 title: Handwerk und Kunst auf Bali
 seoTitle: Handwerk und Kunst auf Bali - meine Bilderserie
 slug: handwerk-und-kunst-auf-bali
-link: /2013/08/handwerk-und-kunst-auf-bali/
+path: /2013/08/handwerk-und-kunst-auf-bali/
 fileName: 2013-08---handwerk-und-kunst-auf-bali.md
 description: Auf Bali habe ich ein paar wundervolle Eindrücke gesammelt. Hier
   kommt meine Bildergalerie zu Handwerk und Kunst.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6220"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unsere große Reise - Teil III
   
 ---

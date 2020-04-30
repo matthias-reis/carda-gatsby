@@ -2,7 +2,7 @@
 title: Wertach
 seoTitle: Die Wertach in Augsburg
 slug: wertach
-link: /2009/06/wertach/
+path: /2009/06/wertach/
 fileName: 2009-06---wertach.md
 description: Ein kurzer Spaziergang an der Wertach in Augsburg
 excerpt: Ein kurzer Spaziergang an der Wertach in Augsburg und schon habe ich
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11370"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Spaziergang in Augsburg
   
 ---

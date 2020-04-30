@@ -2,7 +2,7 @@
 title: Mark Lanegan live @ Freiheiz München
 seoTitle: Mark Lanegan live @ Freiheiz München Anne bloggt
 slug: mark-lanegan-live-freiheiz-muenchen
-link: /2015/03/mark-lanegan-live-freiheiz-muenchen/
+path: /2015/03/mark-lanegan-live-freiheiz-muenchen/
 fileName: 2015-03---mark-lanegan-live-freiheiz-muenchen.md
 description: Als Support brachte Mark Lanegan dieses Mal keinen geringeren als
   Duke Garwood mit.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10322"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Feat. Lyenn &amp; Duke Garwood
   
 ---

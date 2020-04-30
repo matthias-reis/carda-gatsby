@@ -2,7 +2,7 @@
 title: Chris Cornell ist tot
 seoTitle: Chris Cornell ist tot - Ausnahmemusiker stirbt im Alter von 52 Jahren
 slug: chris-cornell-nachruf
-link: /2017/05/chris-cornell-nachruf/
+path: /2017/05/chris-cornell-nachruf/
 fileName: 2017-05---chris-cornell-ist-tot.md
 description: Heute ist ein sehr trauriger Tag. Die Musikwelt befindet sich in
   einer Schockstarre. Chris Cornell ist tot. Er starb Mittwochnacht in Detroit.
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16680"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nachruf für eine Legende
   
 ---

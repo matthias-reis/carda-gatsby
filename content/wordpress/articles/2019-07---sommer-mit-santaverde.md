@@ -2,7 +2,7 @@
 title: Sommer mit Santaverde
 seoTitle: Sommer mit Santaverde - sanfte Pflege nach Wassersport und Sonnenbad
 slug: sommer-mit-santaverde
-link: /2019/07/sommer-mit-santaverde/
+path: /2019/07/sommer-mit-santaverde/
 fileName: 2019-07---sommer-mit-santaverde.md
 description: "Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und
   Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25307"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sanfte Pflege nach Sonnenbad und Wassersport
   
 ---

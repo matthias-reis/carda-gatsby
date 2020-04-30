@@ -2,7 +2,7 @@
 title: Pangolin
 seoTitle: Pangolin - Ein vergessenes Schuppentier in Gefahr
 slug: pangolin-ein-vergessenes-schuppentier
-link: /2016/05/pangolin-ein-vergessenes-schuppentier/
+path: /2016/05/pangolin-ein-vergessenes-schuppentier/
 fileName: 2016-05---pangolin.md
 description: Das Pangolin ist akut vom Aussterben bedroht. Das schuppige Tier
   wird von Menschen gejagt, die sein Fleisch für eine Delikatesse halten. Hilfe
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14865"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schuppentiere in Gefahr
   
 ---

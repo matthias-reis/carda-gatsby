@@ -2,7 +2,7 @@
 title: "Geschenkidee: Badesalz DIY Kit von Naissance"
 seoTitle: 'Geschenkidee: DIY Badesalz von Naissance - "Soak The Day Away"'
 slug: geschenkidee-badesalz-diy-kit-von-naissance
-link: /2018/12/geschenkidee-badesalz-diy-kit-von-naissance/
+path: /2018/12/geschenkidee-badesalz-diy-kit-von-naissance/
 fileName: 2018-12---geschenkidee-badesalz-diy-kit-von-naissance.md
 description: Heute möchte ich Euch das Badesalz DIY Kit von Naissance
   vorstellen. Eine wunderbare Geschenkidee, die ich sehr empfehlen kann!
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22904"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Soak The Day Away"'
   
 ---

@@ -2,7 +2,7 @@
 title: Manching
 seoTitle: Manching - Eine Gemeinde im Herzogtum Neuburg-Sulzbach
 slug: manching
-link: /2009/09/manching/
+path: /2009/09/manching/
 fileName: 2009-09---manching.md
 description: Die Marktgemeinde Manching liegt südöstlich von Ingolstadt im
   bayerischen Landkreis Pfaffenhofen an der Ilm - Geschichte und Wahrzeichen
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11480"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Gemeinde im Herzogtum Neuburg-Sulzbach
   
 ---

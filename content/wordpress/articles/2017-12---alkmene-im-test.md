@@ -2,7 +2,7 @@
 title: Alkmene im Test
 seoTitle: Alkmene - Natürliche Pflegeprodukte auf dem Prüfstand
 slug: alkmene-der-ultimative-produkttest
-link: /2017/12/alkmene-der-ultimative-produkttest/
+path: /2017/12/alkmene-der-ultimative-produkttest/
 fileName: 2017-12---alkmene-im-test.md
 description: Ich habe die natürlichen Pflegeprodukte aus dem Hause Alkmene jetzt
   einem Test unterzogen. Meinen Bericht möchte ich mit Euch teilen.
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18737"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Natürliche Pflege für Körper und Haar
   
 ---

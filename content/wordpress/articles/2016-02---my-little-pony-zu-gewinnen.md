@@ -2,7 +2,7 @@
 title: My Little Pony zu gewinnen!
 seoTitle: My Little Pony zu gewinnen! Neue Verlosung!
 slug: my-little-pony-zu-gewinnen-verlosung
-link: /2016/02/my-little-pony-zu-gewinnen-verlosung/
+path: /2016/02/my-little-pony-zu-gewinnen-verlosung/
 fileName: 2016-02---my-little-pony-zu-gewinnen.md
 description: Mach schnell mit bei meinem Gewinnspiel! Zu gewinnen gibt es jede
   Menge My Little Pony Pferdchen aus meiner Herde! Nostalgie natürlich
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13978"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ponys aus meiner Herde gehen auf Reisen
   
 ---

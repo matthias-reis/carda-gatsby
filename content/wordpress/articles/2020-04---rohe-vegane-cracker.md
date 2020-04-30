@@ -2,7 +2,7 @@
 title: Rohe vegane Cracker
 seoTitle: Rohe vegane Cracker
 slug: rohe-vegane-cracker
-link: /2020/04/rohe-vegane-cracker
+path: /2020/04/rohe-vegane-cracker
 fileName: 2020-04---rohe-vegane-cracker.md
 description: ""
 excerpt: ""
@@ -17,7 +17,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28915"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aho im Test
   
 ---

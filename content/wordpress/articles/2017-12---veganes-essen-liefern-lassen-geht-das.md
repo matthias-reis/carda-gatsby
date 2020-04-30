@@ -2,7 +2,7 @@
 title: Veganes Essen liefern lassen - Geht das?
 seoTitle: Veganes Essen liefern lassen - Geht das? Mein Erfahrungsbericht
 slug: veganes-essen-liefern-lassen
-link: /2017/12/veganes-essen-liefern-lassen/
+path: /2017/12/veganes-essen-liefern-lassen/
 fileName: 2017-12---veganes-essen-liefern-lassen-geht-das.md
 description: Veganes Essen liefern lassen - Geht das? Hier ist meine Antwort.
   Sie wird einige erstaunen und viele erfreuen. Ich wünsche Euch allen einen
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18651"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mein Erfahrungsbericht
   
 ---

@@ -2,7 +2,7 @@
 title: In stillem Gedenken
 seoTitle: In stillem Gedenken
 slug: in-stillem-gedenken
-link: /2015/11/in-stillem-gedenken/
+path: /2015/11/in-stillem-gedenken/
 fileName: 2015-11---in-stillem-gedenken.md
 description: Eine Schweigeminute in stillem Gedenken.
 excerpt: Worte wurden schon so viele gesagt, in den letzten Stunden. Daher eine
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13122"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: RIP
   
 ---

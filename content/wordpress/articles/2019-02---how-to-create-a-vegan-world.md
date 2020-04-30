@@ -2,7 +2,7 @@
 title: '"How To Create A Vegan World"'
 seoTitle: '"How To Create A Vegan World" von Tobias Leenaert'
 slug: how-to-create-a-vegan-world-von-tobias-leenaert
-link: /2019/02/how-to-create-a-vegan-world-von-tobias-leenaert/
+path: /2019/02/how-to-create-a-vegan-world-von-tobias-leenaert/
 fileName: 2019-02---how-to-create-a-vegan-world.md
 description: Heute möchte ich Euch das Buch "How To Create A Vegan World - A
   Pragmatic Approach" von Tobias Leenaert vorstellen. Es geht um Tierethik und
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23457"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Buch von Tobias Leenaert
   
 ---

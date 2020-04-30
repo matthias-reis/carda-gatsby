@@ -2,7 +2,7 @@
 title: Wer hat die Kokosnuss gegessen?
 seoTitle: Wer hat die Kokosnuss gegessen?
 slug: wer-hat-die-kokosnuss-gegessen
-link: /2013/10/wer-hat-die-kokosnuss-gegessen/
+path: /2013/10/wer-hat-die-kokosnuss-gegessen/
 fileName: 2013-10---wer-hat-die-kokosnuss-gegessen.md
 description: Am Samstag hatten wir endlich mal wieder Zeit für einen schönen
   Herbstspaziergang. Wer die Kokosnuss gegessen hat, haben wir dabei leider
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7434"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Herbstlicher Zoobesuch am Sonntag
   
 ---

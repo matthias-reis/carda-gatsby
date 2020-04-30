@@ -2,7 +2,7 @@
 title: Von Wut und Stolz
 seoTitle: Von Wut und Stolz
 slug: von-wut-und-stolz
-link: /2013/09/von-wut-und-stolz/
+path: /2013/09/von-wut-und-stolz/
 fileName: 2013-09---von-wut-und-stolz.md
 description: ""
 excerpt: Sechs Tage ist es her, seit ich das letzte Mal berichtet habe. Das
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7200"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die erste Etappe ist geschafft
   
 ---

@@ -2,7 +2,7 @@
 title: Feuer im Amazonas
 seoTitle: Feuer im Amazonas - Umweltkatastrophe durch Konsum
 slug: feuer-im-regenwald-amazonas
-link: /2019/08/feuer-im-regenwald-amazonas/
+path: /2019/08/feuer-im-regenwald-amazonas/
 fileName: 2019-08---feuer-im-amazonas.md
 description: Brasilien, Paraguay und Bolivien befinden sich unter einer
   Rauchglocke. Der Regenwald brennt. Es ist eine Naturkatastrophe von bisher
@@ -37,8 +37,7 @@ isAffiliate: false
 thumbnailId: "25779"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (131:20)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (131:20)"
 subTitle: Umweltkatastrophe durch Konsum
   
 ---

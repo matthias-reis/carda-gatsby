@@ -2,7 +2,7 @@
 title: Calexico live @ Große Freiheit 36 15.04.2015
 seoTitle: Calexico live @ Große Freiheit 36
 slug: calexico-live-grosse-freiheit-36-15-04-2015
-link: /2015/04/calexico-live-grosse-freiheit-36-15-04-2015/
+path: /2015/04/calexico-live-grosse-freiheit-36-15-04-2015/
 fileName: 2015-04---calexico-live-grosse-freiheit-36-15-04-2015.md
 description: Hier sind meine Eindrücke vom Calexico-Konzert gestern in der
   Großen Freiheit. Toll, die Große Freiheit, tolles Konzert!
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11846"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

@@ -2,7 +2,7 @@
 title: Gitarrenpionier Les Paul gestorben
 seoTitle: Nachruf - Gitarrenpionier Les Paul gestorben
 slug: nachruf-gitarrenpionier-les-paul-gestorben
-link: /2009/08/nachruf-gitarrenpionier-les-paul-gestorben/
+path: /2009/08/nachruf-gitarrenpionier-les-paul-gestorben/
 fileName: 2009-08---gitarrenpionier-les-paul-gestorben.md
 description: Am 13. August 2009 ist Les Paul von uns gegangen, der Erfinder der
   Les Paul Gitarre.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11437"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nachruf für einen Giganten
   
 ---

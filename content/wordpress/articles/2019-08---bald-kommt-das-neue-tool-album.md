@@ -2,7 +2,7 @@
 title: Bald kommt das neue Tool Album
 seoTitle: Bald kommt das neue Tool Album "Fear Inoculum" - hier ist die erste Single
 slug: bald-kommt-das-neue-tool-album
-link: /2019/08/bald-kommt-das-neue-tool-album/
+path: /2019/08/bald-kommt-das-neue-tool-album/
 fileName: 2019-08---bald-kommt-das-neue-tool-album.md
 description: Es ist soweit! Tool haben für den 30. August nach 13 Jahren ihre
   neue Platte "Fear Inoculum" angekündigt. Die erste Vorauskopplung ist schon
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25722"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Fear Inoculum" ist die Vorauskopplung'
   
 ---

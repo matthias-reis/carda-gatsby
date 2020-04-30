@@ -2,7 +2,7 @@
 title: Modelabel Umasan
 seoTitle: Umasan im Interview - "Der Trend der Saison ist Unisex"
 slug: umasan-interview
-link: /2015/07/umasan-interview/
+path: /2015/07/umasan-interview/
 fileName: 2015-07---modelabel-umasan.md
 description: Für seine Nachhaltigkeit wurde das junge vegane Modelabel Umasan
   mehrfach ausgezeichnet. Ich habe mich mit den beiden Gründerinnen unterhalten.
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28989"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Der Trend der Saison ist Unisex"'
   
 ---

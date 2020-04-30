@@ -2,7 +2,7 @@
 title: Veganer Schaumfestiger und herbe Duschgele
 seoTitle: Veganer Schaumfestiger und herbe Duschgele von Bioturm - Neue Beauty-Lieblinge
 slug: veganer-schaumfestiger-herbe-duschgele-bioturm
-link: /2018/08/veganer-schaumfestiger-herbe-duschgele-bioturm/
+path: /2018/08/veganer-schaumfestiger-herbe-duschgele-bioturm/
 fileName: 2018-08---veganer-schaumfestiger-und-herbe-duschgele.md
 description: Wie schön! Ein veganer Schaumfestiger! Und dazu tolle herbe
   Duschgele! Da muss ich doch gleich mal testen. Bioturm spricht sich klar gegen
@@ -35,8 +35,7 @@ isAffiliate: false
 thumbnailId: "21536"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <li> (50:34)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (50:34)"
 subTitle: Neue Beauty-Lieblinge von Bioturm
   
 ---

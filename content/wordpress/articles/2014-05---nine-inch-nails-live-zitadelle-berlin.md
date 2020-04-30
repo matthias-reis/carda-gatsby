@@ -2,7 +2,7 @@
 title: NINE INCH NAILS live @Zitadelle Berlin
 seoTitle: NINE INCH NAILS live @ Zitadelle Berlin - "We have a lotta shit für you!"
 slug: nine-inch-nails-live-zitadelle-berlin
-link: /2014/05/nine-inch-nails-live-zitadelle-berlin/
+path: /2014/05/nine-inch-nails-live-zitadelle-berlin/
 fileName: 2014-05---nine-inch-nails-live-zitadelle-berlin.md
 description: NINE INCH NAILS - Am 15. Mai war es endlich so weit und wir durften
   Trent Reznor und seine Band in Berlin live sehen. Für mich das Konzert des
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8024"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"We have a lotta shit for you!"'
   
 ---

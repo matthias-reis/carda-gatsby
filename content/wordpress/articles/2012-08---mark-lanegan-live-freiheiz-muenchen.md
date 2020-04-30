@@ -2,7 +2,7 @@
 title: Mark Lanegan live@Freiheiz München
 seoTitle: Mark Lanegan im Münchener Freiheiz - das ist mir noch nie passiert
 slug: mark-lenegan-live-freiheiz-munchen
-link: /2012/08/mark-lenegan-live-freiheiz-munchen/
+path: /2012/08/mark-lenegan-live-freiheiz-munchen/
 fileName: 2012-08---mark-lanegan-live-freiheiz-muenchen.md
 description: Gestern ist mir etwas passiert, was mir zuvor noch nie passiert ist
   und ich habe Mark Lanegan gesehen - insgesamt ein sehr gelungener Tag.
@@ -52,7 +52,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10335"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Oder: Die Geschichte mit der Dachterrasse"
   
 ---

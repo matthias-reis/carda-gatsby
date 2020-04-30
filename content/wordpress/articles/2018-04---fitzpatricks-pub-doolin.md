@@ -2,7 +2,7 @@
 title: Fitzpatrick's Pub Doolin
 seoTitle: Fitzpatrick's Pub Doolin - Veganes Essen und das beste Pale Ale
 slug: fitzpatricks-pub-doolin
-link: /2018/04/fitzpatricks-pub-doolin/
+path: /2018/04/fitzpatricks-pub-doolin/
 fileName: 2018-04---fitzpatricks-pub-doolin.md
 description: Mit Fitzpatrick's Pub Doolin fanden wir eine Kneipe, die wir am
   liebsten mit nach Hause genommen hätten - Veganes Essen und Pale Ale vom
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19785"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganes Essen und das beste Pale Ale
   
 ---

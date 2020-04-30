@@ -2,7 +2,7 @@
 title: Dahl-Linsen mit Kokos und Spinat an Tabulé
 seoTitle: Dahl-Linsen mit Kokos und Spinat an Tabulé
 slug: dahl-linsen-mit-kokos-und-spinat-an-tabule
-link: /2014/08/dahl-linsen-mit-kokos-und-spinat-an-tabule/
+path: /2014/08/dahl-linsen-mit-kokos-und-spinat-an-tabule/
 fileName: 2014-08---dahl-linsen-mit-kokos-und-spinat-an-tabule.md
 description: Dahl-Linsen mit Kokos und Spinat an Tabulé schmecken scharf und
   lecker fruchtig. Sie sind schnell zubereitet und stecken voller wertvoller
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8686"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Scharf und lecker
   
 ---

@@ -2,7 +2,7 @@
 title: Die Entstehung des Romans "Die Hermetiker"
 seoTitle: Die Hermetiker - in acht Schritten zu unserem ersten Roman
 slug: die-hermetiker-entstehung-des-romans
-link: /2019/04/die-hermetiker-entstehung-des-romans/
+path: /2019/04/die-hermetiker-entstehung-des-romans/
 fileName: 2019-04---die-entstehung-des-romans-die-hermetiker.md
 description: Der heutige Artikel dreht sich mal wieder um Matzes und meine
   gemeinsame Romanveröffentlichung. Knapp einen Monat ist "die Hermetiker" jetzt
@@ -49,7 +49,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23860"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: In acht Schritten zu unserem ersten Buch
   
 ---

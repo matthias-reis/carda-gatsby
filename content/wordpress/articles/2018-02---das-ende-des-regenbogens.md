@@ -2,7 +2,7 @@
 title: Das Ende des Regenbogens
 seoTitle: Das Ende des Regenbogens - Die Irische Sage um die Leprechauns
 slug: das-ende-des-regenbogens
-link: /2018/02/das-ende-des-regenbogens/
+path: /2018/02/das-ende-des-regenbogens/
 fileName: 2018-02---das-ende-des-regenbogens.md
 description: In Irland sagt man sich, dass am Ende eines Regenbogens ein Schatz
   verborgen ist. Regenbögen verbinden die Welt der Menschen mit der der der
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19737"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Irische Sage
   
 ---

@@ -2,7 +2,7 @@
 title: Regen am Freitag
 seoTitle: Regen am Freitag - Mit musikalischer Untermalung
 slug: regen-am-freitag
-link: /2013/05/regen-am-freitag/
+path: /2013/05/regen-am-freitag/
 fileName: 2013-05---regen-am-freitag.md
 description: Regen am Freitag - Ich tauche ein in Musik von Dave, Trent und Josh
   und wünsche Euch ein tolles Wochenende!
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5545"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mit musikalischer Untermalung
   
 ---

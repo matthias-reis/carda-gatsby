@@ -2,7 +2,7 @@
 title: Vega und das Chaos
 seoTitle: Vega und das Chaos - ein veganer Rapper auf dem Weg zum Erfolg
 slug: vega-und-das-chaos
-link: /2014/11/vega-und-das-chaos/
+path: /2014/11/vega-und-das-chaos/
 fileName: 2014-11---vega-und-das-chaos.md
 description: Immer mehr Künstler*innen und Berühmtheiten werden vegan,
   engagieren sich und sprechen öffentlich darüber. Einer von ihnen ist der
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25453"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein veganer Rapper auf dem Weg zum Erfolg
   
 ---

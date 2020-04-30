@@ -2,7 +2,7 @@
 title: Der Hamburger Gabenzaun
 seoTitle: Der Hamburger Gabenzaun - Ein Zaun für die Menschen
 slug: der-hamburger-gabenzaun
-link: /2017/02/der-hamburger-gabenzaun/
+path: /2017/02/der-hamburger-gabenzaun/
 fileName: 2017-02---der-hamburger-gabenzaun.md
 description: Am Hamburger Hauptbahnhof wurde ein Zaun gebaut, um Obdachlose zu
   vertreiben. Wär hätte gedacht, dass daraus über Nacht der Hamburger Gabenzaun
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15740"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Zaun für die Menschen
   
 ---

@@ -2,7 +2,7 @@
 title: Von unbekannten Songs und sonnigen Festivals
 seoTitle: Von unbekannten Songs und sonnigen Festivals - Tagebucheintrag
 slug: von-unbekannten-songs-und-sonnigen-festivals
-link: /2012/08/von-unbekannten-songs-und-sonnigen-festivals/
+path: /2012/08/von-unbekannten-songs-und-sonnigen-festivals/
 fileName: 2012-08---von-unbekannten-songs-und-sonnigen-festivals.md
 description: Leider hat es gestern mit dem Fotobeitrag nicht mehr geklappt.
   Dafür entschuldige ich mich hiermit.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3561"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein ganz normaler Donnerstag
   
 ---

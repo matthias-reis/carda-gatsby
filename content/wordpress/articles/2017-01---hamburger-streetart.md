@@ -2,7 +2,7 @@
 title: Hamburger Streetart
 seoTitle: Hamburger Streetart - Von Altona in die Schanze - Bildergalerie
 slug: hamburger-streetart
-link: /2017/01/hamburger-streetart/
+path: /2017/01/hamburger-streetart/
 fileName: 2017-01---hamburger-streetart.md
 description: Alle Straßenkunstwerke Hamburgs zu fotografieren und zu verbloggen
   ist Wahnsinn? Dann wartet es mal ab! Hier ist Teil I meiner
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15708"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Von Altona in die Schanze
   
 ---

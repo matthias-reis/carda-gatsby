@@ -2,7 +2,7 @@
 title: Die Sehnsucht der Postmoderne
 seoTitle: Die Sehnsucht der Postmoderne - Neidische Romantik-Diebe
 slug: die-sehnsucht-der-postmoderne
-link: /2017/02/die-sehnsucht-der-postmoderne/
+path: /2017/02/die-sehnsucht-der-postmoderne/
 fileName: 2017-02---die-sehnsucht-der-postmoderne.md
 description: Er war ein pathetische Romantiker. Romantisch und zugleich sehr
   modern. Sehnsucht ist nicht romantisch. Sie ist eine Droge. Wo am meisten
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15907"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neidische Romantik-Diebe
   
 ---

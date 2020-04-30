@@ -2,7 +2,7 @@
 title: Flugzeug
 seoTitle: Flugzeug - eine kurze Geschichte aus dem Leben
 slug: flugzeug
-link: /2012/03/flugzeug/
+path: /2012/03/flugzeug/
 fileName: 2012-03---flugzeug.md
 description: Vor Dir sitzt ein quengelndes, zappelndes, kauendes Kind und spielt
   bei voll aufgedrehter Lautstärke ein Kampfroboterspiel auf seiner
@@ -51,7 +51,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2877"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Geschichte aus dem Leben
   
 ---

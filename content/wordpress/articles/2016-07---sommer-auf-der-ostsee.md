@@ -2,7 +2,7 @@
 title: Sommer auf der Ostsee
 seoTitle: Sommer auf der Ostsee - Von Travemünde nach Helsinki
 slug: sommer-auf-der-ostsee-travemuende-helsinki
-link: /2016/07/sommer-auf-der-ostsee-travemuende-helsinki/
+path: /2016/07/sommer-auf-der-ostsee-travemuende-helsinki/
 fileName: 2016-07---sommer-auf-der-ostsee.md
 description: Vor kurzem durften wir den Sommer auf der Ostsee genießen. Bei
   unserer Überfahrt von Travemünde nach Helsinki hatten wir das schönste Wetter.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14985"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Überfahrt von Travemünde nach Helsinki
   
 ---

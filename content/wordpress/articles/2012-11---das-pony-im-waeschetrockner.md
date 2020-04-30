@@ -2,7 +2,7 @@
 title: Das Pony im Wäschetrockner
 seoTitle: Das Pony im Wäschetrockner - Die Einführung in die Gesellschaft
 slug: das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte
-link: /2012/11/das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte/
+path: /2012/11/das-pony-im-waschetrockner-oder-wie-ich-meine-eltern-in-die-gesellschaft-einfuhrte/
 fileName: 2012-11---das-pony-im-waeschetrockner.md
 description: Heute möchte ich Euch die Geschichte vom Pony im Wäschetrockner
   erzählen. Es ist eine sehr ernste Geschichte. Kein Auge wird trocken bleiben.
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4459"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Oder: Wie ich meine Eltern in die Gesellschaft einführte"
   
 ---

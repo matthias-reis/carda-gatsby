@@ -2,7 +2,7 @@
 title: Der Präsident
 seoTitle: Der Präsident - Fernsehen am Abend - Das kam dabei heraus
 slug: der-praesident
-link: /2018/11/der-praesident/
+path: /2018/11/der-praesident/
 fileName: 2018-11---der-praesident.md
 description: Wenn der Präsident sein Fazit zieht und die Gesellschaft das ganz
   anders sieht. Dann ist es Zeit für einen Rückblick im Fernsehen.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22642"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fernsehen am Abend
   
 ---

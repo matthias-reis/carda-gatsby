@@ -2,7 +2,7 @@
 title: Hof Windkind
 seoTitle: Hof Windkind - Baum adoptieren und bio-vegane Walnüsse genießen
 slug: hof-windkind-walnuss-baum-adoptieren
-link: /2019/09/hof-windkind-walnuss-baum-adoptieren/
+path: /2019/09/hof-windkind-walnuss-baum-adoptieren/
 fileName: 2019-09---hof-windkind.md
 description: "Silvia und David vom Hof Windkind haben ein gemeinsames Ziel: Sie
   wollen mit ihren bio-veganen Walnüssen die Welt ein bisschen besser machen."
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26280"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Baum adoptieren und bio-vegane Walnüsse genießen
   
 ---

@@ -2,7 +2,7 @@
 title: Bracenet macht Schmuck aus Geisternetzen
 seoTitle: Bracenet macht Schmuck aus Geisternetzen - Ein Statement für die Meere
 slug: bracenet-macht-schmuck-aus-geisternetzen
-link: /2018/08/bracenet-macht-schmuck-aus-geisternetzen/
+path: /2018/08/bracenet-macht-schmuck-aus-geisternetzen/
 fileName: 2018-08---bracenet-macht-schmuck-aus-geisternetzen.md
 description: Statement-Armbänder gibt es viele. Eines davon trage ich selbst aus
   voller Überzeugung. Es stammt von Bracenet aus Hamburg.
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21864"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Statement für die Meere
   
 ---

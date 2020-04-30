@@ -2,7 +2,7 @@
 title: Musikalisches Blogger Blind Date
 seoTitle: Musikalisches Blogger Blind Date zum neuen Jahr - My Dear Acqaintance
 slug: musikalisches-blogger-blind-date-zum-neuen-jahr
-link: /2019/01/musikalisches-blogger-blind-date-zum-neuen-jahr/
+path: /2019/01/musikalisches-blogger-blind-date-zum-neuen-jahr/
 fileName: 2019-01---musikalisches-blogger-blind-date.md
 description: Frohes neues Jahr! Hier kommt die erste Blogger Blind Date Ausgabe
   des Jahres 2019! Mein lieber Herr Gesangsverein - das ist eine interessante
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23156"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Mein*e liebe*r Bekannte*r oder: My dear mister singing club"
   
 ---

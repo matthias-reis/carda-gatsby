@@ -2,7 +2,7 @@
 title: Von Bewerbungen, Neuerscheinungen und Katzen im Küchenschrank
 seoTitle: Von Bewerbungen, Neuerscheinungen und Katzen im Kühlschrank
 slug: von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank
-link: /2012/05/von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank/
+path: /2012/05/von-bewerbungen-neuerscheinungen-und-katzen-im-kuchenschrank/
 fileName: 2012-05---von-bewerbungen-neuerscheinungen-und-katzen-im-kuechenschrank.md
 description: Das Wochenende werde ich heute mal wieder mit etwas einläuten, was
   ich schon viel zu lange nicht mehr getan habe. Einem Blogeintrag.
@@ -47,7 +47,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3029"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

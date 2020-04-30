@@ -2,7 +2,7 @@
 title: Blumen und Gewürze
 seoTitle: Blumen und Gewürze
 slug: blumen-und-gewuerze
-link: /2009/05/blumen-und-gewuerze/
+path: /2009/05/blumen-und-gewuerze/
 fileName: 2009-05---blumen-und-gewuerze.md
 description: Blumen und Gewürze, gesehen auf der Ausstellung "Lebensraum Garten"
   auf Gut Mergenthau bei Friedberg
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11359"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gärtnern macht glücklich
   
 ---

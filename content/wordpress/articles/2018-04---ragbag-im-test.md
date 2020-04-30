@@ -2,7 +2,7 @@
 title: Ragbag im Test
 seoTitle: Faire Taschen aus Teebeuteln - Upcycling Fashion von Ragbag
 slug: faire-taschen-aus-teesaecken-ragbag-im-test
-link: /2018/04/faire-taschen-aus-teesaecken-ragbag-im-test/
+path: /2018/04/faire-taschen-aus-teesaecken-ragbag-im-test/
 fileName: 2018-04---ragbag-im-test.md
 description: "Ragbag lernte ich vor ungefähr 10 Jahren kennen. Die fairen
   Upcycling Taschen begeisterten mich sofort. Jetzt gibt es was Neues: Taschen
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20519"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Faire Taschen aus Teesäcken
   
 ---

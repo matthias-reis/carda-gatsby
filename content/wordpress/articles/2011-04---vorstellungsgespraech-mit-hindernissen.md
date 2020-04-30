@@ -2,7 +2,7 @@
 title: Vorstellungsgespräch mit Hindernissen
 seoTitle: Vorstellungsgespräch mit Hindernissen - Eine Kurzgeschichte
 slug: vorstellungsgesprach-mit-hindernissen
-link: /2011/04/vorstellungsgesprach-mit-hindernissen/
+path: /2011/04/vorstellungsgesprach-mit-hindernissen/
 fileName: 2011-04---vorstellungsgespraech-mit-hindernissen.md
 description: Ein Tag Ende Januar. Es ist kalt, aber es liegt kein Schnee mehr.
   Überall liegt Rollsplitt. Sie ist unterwegs zu einem Vorstellungsgespräch.
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10646"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine kurze Geschichte aus dem Leben
   
 ---

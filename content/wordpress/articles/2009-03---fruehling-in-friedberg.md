@@ -2,7 +2,7 @@
 title: Frühling in Friedberg
 seoTitle: Frühling in Friedberg (Bay.)
 slug: fruehling-in-friedberg
-link: /2009/03/fruehling-in-friedberg/
+path: /2009/03/fruehling-in-friedberg/
 fileName: 2009-03---fruehling-in-friedberg.md
 description: Meine Bildergalerie vom Frühling in Friedbeg
 excerpt: Beim Beinevertreten im schönen Friedberg in Bayern habe ich ein paar
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11001"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein kleiner Frühlingsspaziergang durch Friedberg
   
 ---

@@ -2,7 +2,7 @@
 title: Chevelle - Sensationell seit 1995
 seoTitle: Chevelle - Sensationell seit 1995 - Neues Album und Konzert
 slug: chevelle-sensationell-seit-1995
-link: /2014/11/chevelle-sensationell-seit-1995/
+path: /2014/11/chevelle-sensationell-seit-1995/
 fileName: 2014-11---chevelle-sensationell-seit-1995.md
 description: Chevelle brachten mit "La Gargola" im April ihre elfte Platte auf
   den Markt. Elf musikalische Werke, eines besser als das andere. Ich habe sie
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9197"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Chevelle live @ Backstage Halle München
   
 ---

@@ -2,7 +2,7 @@
 title: Reise ins Blaue
 seoTitle: Reise ins Blaue - Kleine Landpartie - Eine Ode an den Sommer
 slug: reise-ins-blaue
-link: /2018/06/reise-ins-blaue/
+path: /2018/06/reise-ins-blaue/
 fileName: 2018-06---reise-ins-blaue.md
 description: Wir sind unterwegs. Auf einer Reise. Schimmerndes Türkis am
   Firmament. Vom Sonnenaufgang bis zur Blauen Stunde. Gerade hast Du uns noch
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21290"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kleine Landpartie
   
 ---

@@ -2,7 +2,7 @@
 title: Veganer Lieferdienst in Augsburg
 seoTitle: Veganer Lieferdienst in Augsburg - Ihlani vom Rastaround im Interview
 slug: veganer-lieferdienst-in-augsburg
-link: /2014/09/veganer-lieferdienst-in-augsburg/
+path: /2014/09/veganer-lieferdienst-in-augsburg/
 fileName: 2014-09---veganer-lieferdienst-in-augsburg.md
 description: Veganer Lieferdienst in Augsburg Ihlanis Rastaround - von der
   Lasagne, über den Döner und den Falafelspieß bis zum Tiramisu ist alles vegan.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24317"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ihlanis Rastaround
   
 ---

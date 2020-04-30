@@ -2,7 +2,7 @@
 title: Prora - Mahnmal und Badeort
 seoTitle: Prora - Mahnmal und Badeort - Beton und Sand auf Rügen im Wandel
 slug: prora-mahnmal-und-badeort
-link: /2018/06/prora-mahnmal-und-badeort/
+path: /2018/06/prora-mahnmal-und-badeort/
 fileName: 2018-06---prora-mahnmal-und-badeort.md
 description: '"Macht Urlaub!" prangt es in großen Lettern auf einer Wand
   gegenüber des Besucherparkplatzes. Daneben die "Diskothek Miami". Wir sind in
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21242"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Beton und Sand auf Rügen im Wandel
   
 ---

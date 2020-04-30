@@ -2,7 +2,7 @@
 title: Drei neue Zentangles und mein erstes Repeat Pattern
 seoTitle: Repeat Pattern aus meiner Werkstatt
 slug: mein-erstes-repeat-pattern
-link: /2016/02/mein-erstes-repeat-pattern/
+path: /2016/02/mein-erstes-repeat-pattern/
 fileName: 2016-02---drei-neue-zentangles-und-mein-erstes-repeat-pattern.md
 description: Gestern ist ganz spontan mein erstes richtiges Repeat Pattern
   entstanden! Außerdem habe ich mit Aquarellfarben experimentiert. Hier das
@@ -33,8 +33,7 @@ isAffiliate: false
 thumbnailId: "14001"
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

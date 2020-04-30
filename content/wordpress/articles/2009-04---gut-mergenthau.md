@@ -2,7 +2,7 @@
 title: Gut Mergenthau
 seoTitle: Gut Mergenthau
 slug: gut-mergenthau
-link: /2009/04/gut-mergenthau/
+path: /2009/04/gut-mergenthau/
 fileName: 2009-04---gut-mergenthau.md
 description: Circa 12 km von Augsburg, in der Nähe von Kissing, liegt das
   beliebte Ausflugsziel Gut Mergenthau.
@@ -19,7 +19,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11175"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Haus der Patrizier
   
 ---

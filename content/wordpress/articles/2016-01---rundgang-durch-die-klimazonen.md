@@ -2,7 +2,7 @@
 title: Rundgang durch die Klimazonen
 seoTitle: Ein Rundgang durch die Klimazonen zum neuen Jahr
 slug: ein-rundgang-durch-die-klimazonen-zum-neuen-jahr
-link: /2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/
+path: /2016/01/ein-rundgang-durch-die-klimazonen-zum-neuen-jahr/
 fileName: 2016-01---rundgang-durch-die-klimazonen.md
 description: Was hat das neue Jahr mit Klimazonen zu tun? Ich erkläre es Euch
   mit meinen Bildern aus den Schaugewächshäusern bei Planen un Blomen in
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13625"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schaugewächshäuser bei Planten un Blomen
   
 ---

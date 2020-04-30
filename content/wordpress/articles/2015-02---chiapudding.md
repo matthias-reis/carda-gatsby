@@ -2,7 +2,7 @@
 title: Chiapudding
 seoTitle: Chiapudding - Gesund und lecker schlemmen
 slug: chiapudding
-link: /2015/02/chiapudding/
+path: /2015/02/chiapudding/
 fileName: 2015-02---chiapudding.md
 description: Ihr würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr
   so richtig hemmungslos schlemmen könnt? Ich verrate Euch mein Rezept für
@@ -42,8 +42,7 @@ isAffiliate: false
 thumbnailId: "9493"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <li> (21:42)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (21:42)"
 subTitle: Gesund und lecker
   
 ---

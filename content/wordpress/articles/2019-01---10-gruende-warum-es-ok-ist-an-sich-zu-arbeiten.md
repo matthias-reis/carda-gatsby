@@ -2,7 +2,7 @@
 title: 10 Gründe, warum es OK ist, an sich zu arbeiten
 seoTitle: 10 Gründe, warum es OK ist, an sich zu arbeiten - Besser werden ist gut
 slug: 10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten
-link: /2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/
+path: /2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/
 fileName: 2019-01---10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten.md
 description: Immer mehr Magazine und Blogs titeln mit "Scheiß auf
   Selbstoptimierung" und "Ich bleib so, wie ich bin!" - macht das wirklich Sinn?
@@ -28,8 +28,7 @@ isAffiliate: false
 thumbnailId: "23256"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (32:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (32:16)"
 subTitle: Besser werden ist gut
   
 ---

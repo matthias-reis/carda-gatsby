@@ -2,7 +2,7 @@
 title: Meilenstein
 seoTitle: 10.000 Blog-Besucher - Meilenstein
 slug: meilenstein-3
-link: /2012/08/meilenstein-3/
+path: /2012/08/meilenstein-3/
 fileName: 2012-08---meilenstein.md
 description: Wenn man keinen Grund hat zu feiern, sucht man sich einen. Heute
   habe ich gleich zwei gefunden.
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3810"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10.000 Blog-Besucher
   
 ---

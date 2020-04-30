@@ -2,7 +2,7 @@
 title: Lovely Day Botanicals Gründerin Josy
 seoTitle: Lovely Day Botanicals Gründerin Josy im Interview - Kosmetik mit Liebe
 slug: interview-lovely-day-botanicals
-link: /2016/09/interview-lovely-day-botanicals/
+path: /2016/09/interview-lovely-day-botanicals/
 fileName: 2016-09---lovely-day-botanicals-gruenderin-josy.md
 description: Josy von Lovely Day Botanicals ist eine ganz besondere Frau. Sie
   stellt Kosmetik her, setzt sich gegen Tierquälerei ein und hat einen tollen
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15227"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: „Don't be Eye Candy, be Soul Food“
   
 ---

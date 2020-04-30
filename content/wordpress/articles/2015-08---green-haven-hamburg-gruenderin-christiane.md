@@ -2,7 +2,7 @@
 title: Green Haven Hamburg Gründerin Christiane
 seoTitle: Green Haven Hamburg Gründerin Christiane im Interview
 slug: green-haven-hamburg-gruenderin-christiane
-link: /2015/08/green-haven-hamburg-gruenderin-christiane/
+path: /2015/08/green-haven-hamburg-gruenderin-christiane/
 fileName: 2015-08---green-haven-hamburg-gruenderin-christiane.md
 description: Vor Kurzem eröffnete mit dem Green Haven Hamburgs erste rein vegane
   Unterkunft. Das Green Haven bietet auch veganes Frühstück an.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28967"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ganzheitlich vegan übernachten
   
 ---

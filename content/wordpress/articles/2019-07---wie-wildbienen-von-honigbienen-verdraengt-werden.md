@@ -2,7 +2,7 @@
 title: Wie Wildbienen von Honigbienen verdrängt werden
 seoTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen
 slug: wie-wildbienen-von-honigbienen-verdraengt-werden
-link: /2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/
+path: /2019/07/wie-wildbienen-von-honigbienen-verdraengt-werden/
 fileName: 2019-07---wie-wildbienen-von-honigbienen-verdraengt-werden.md
 description: Dass die Bienen sterben wissen wir - doch welche Bienen sind
   eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25545"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Artenschutz durch Wissen
   
 ---

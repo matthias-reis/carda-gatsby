@@ -2,7 +2,7 @@
 title: Von Blankenese nach Altona
 seoTitle: Von Blankenese nach Altona - Winterlicher Spaziergang an der Elbe
 slug: von-blankenese-nach-altona
-link: /2016/11/von-blankenese-nach-altona/
+path: /2016/11/von-blankenese-nach-altona/
 fileName: 2016-11---von-blankenese-nach-altona.md
 description: Was ich in Blankenese gemacht habe? Nicht so wichtig. Aber meinen
   Spaziergang an der Elbe möchte ich Euch nicht vorenthalten. Hier sind meine
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15345"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Winterliche Elbe
   
 ---

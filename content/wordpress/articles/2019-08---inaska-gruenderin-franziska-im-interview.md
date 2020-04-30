@@ -2,7 +2,7 @@
 title: INASKA Gründerin Franziska im Interview
 seoTitle: Interview mit INASKA Gründerin Franziska - nachhaltige Sportbikinis
 slug: interview-mit-inaska-gruenderin-franziska
-link: /2019/08/interview-mit-inaska-gruenderin-franziska/
+path: /2019/08/interview-mit-inaska-gruenderin-franziska/
 fileName: 2019-08---inaska-gruenderin-franziska-im-interview.md
 description: Ich durfte INASKA Gründerin Franziska interviewen. Sie hat mir
   unter anderem verraten, dass Fairness für sie schon immer an erster Stelle
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25753"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Nachhaltigkeit und Fairness sind uns wichtig"'
   
 ---

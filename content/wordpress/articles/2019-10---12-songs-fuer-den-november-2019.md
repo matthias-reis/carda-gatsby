@@ -2,7 +2,7 @@
 title: 12 Songs für den November 2019
 seoTitle: 12 Songs für den November - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-november
-link: /2019/10/12-songs-fuer-den-november/
+path: /2019/10/12-songs-fuer-den-november/
 fileName: 2019-10---12-songs-fuer-den-november-2019.md
 description: Es ist soweit! Die heiß ersehnte Musikliste für den November ist
   da! Der goldene Oktober hat gleich eine ganze Reihe Goldschätze mitgebracht.
@@ -47,7 +47,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26641"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

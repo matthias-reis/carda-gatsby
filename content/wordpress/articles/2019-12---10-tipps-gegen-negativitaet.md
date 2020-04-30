@@ -2,7 +2,7 @@
 title: 10 Tipps gegen Negativität
 seoTitle: 10 Tipps, wie Du Negativität loswirst
 slug: 10-tipps-gegen-negativitaet
-link: /2019/12/10-tipps-gegen-negativitaet/
+path: /2019/12/10-tipps-gegen-negativitaet/
 fileName: 2019-12---10-tipps-gegen-negativitaet.md
 description: Wie zur H.... schaffe ich es, meine Negativität abzulegen? Hast Du
   Dir diese Frage auch schon mal gestellt? Diese zehn Tipps helfen wirklich.
@@ -29,8 +29,7 @@ isAffiliate: false
 thumbnailId: "26862"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (59:46)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (59:46)"
 subTitle: Eine Chance für gute Stimmung
   
 ---

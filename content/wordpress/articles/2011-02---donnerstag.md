@@ -2,7 +2,7 @@
 title: Donnerstag
 seoTitle: Donnerstag - Umzug zu Wordpress - Tagebucheintrag
 slug: donnerstag
-link: /2011/02/donnerstag/
+path: /2011/02/donnerstag/
 fileName: 2011-02---donnerstag.md
 description: Inzwischen bin ich mit meinem Umzug bei April 2009 angelangt. Es
   liegt also noch eine ganze Menge vor mir. Es ist interessant, die alten
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "655"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Umzug zu Wordpress schreitet voran
   
 ---

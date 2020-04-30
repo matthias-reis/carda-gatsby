@@ -2,7 +2,7 @@
 title: Deftones stellen neuen Song "Tempest" vor
 seoTitle: Deftones stellen neuen Song "Tempest" vom Album "Koi No Yokan" vor
 slug: deftones-neuer-song
-link: /2012/10/deftones-neuer-song/
+path: /2012/10/deftones-neuer-song/
 fileName: 2012-10---deftones-stellen-neuen-song-tempest-vor.md
 description: Wie bereits angekündigt, wird am 9. November die neue Platte der
   Deftones erscheinen. Hier ist eine weitere Songauskopplung.
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4327"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Album "Koi No Yokan" am 9. November
   
 ---

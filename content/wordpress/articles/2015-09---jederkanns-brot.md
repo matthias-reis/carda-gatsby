@@ -2,7 +2,7 @@
 title: Jederkanns-Brot
 seoTitle: Jederkanns-Brot - Veganes Vollkornbrot-Rezept
 slug: jeder-kanns-brot-veganes-vollkornbrot-rezept
-link: /2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/
+path: /2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/
 fileName: 2015-09---jederkanns-brot.md
 description: Heute habe ich mir ein Vollkornbrot ausgedacht, das wirklich jeder
   innerhalb kurzer Zeit mit geringem Aufwand nachbacken kann. Natürlich ist es
@@ -31,8 +31,7 @@ isAffiliate: false
 thumbnailId: "12523"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (25:10)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (25:10)"
 subTitle: Einfaches veganes Vollkornbrot
   
 ---

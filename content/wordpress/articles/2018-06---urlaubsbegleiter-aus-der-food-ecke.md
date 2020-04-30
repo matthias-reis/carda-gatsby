@@ -2,7 +2,7 @@
 title: Urlaubsbegleiter aus der Food-Ecke
 seoTitle: Konjak-Nudeln von Vitanu - Urlaubsbegleiter aus der Food-Ecke
 slug: urlaubsbegleiter-aus-der-food-ecke
-link: /2018/06/urlaubsbegleiter-aus-der-food-ecke/
+path: /2018/06/urlaubsbegleiter-aus-der-food-ecke/
 fileName: 2018-06---urlaubsbegleiter-aus-der-food-ecke.md
 description: Wir fahren in Kürze in den Urlaub. Mit im Gepäck sind auch
   Konjak-Nudeln. Sie lassen sich ganz leicht zubereiten und passen so gut wie zu
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21295"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Konjak-Nudeln von Vitanu
   
 ---

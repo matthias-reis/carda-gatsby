@@ -2,7 +2,7 @@
 title: DIY Sojamilch
 seoTitle: DIY Sojamilch - Eine leckere pflanzliche Alternative
 slug: diy-sojamilch
-link: /2014/12/diy-sojamilch/
+path: /2014/12/diy-sojamilch/
 fileName: 2014-12---diy-sojamilch.md
 description: DIY Sojamilch ist eine leckere pflanzliche Alternative, die Ihr
   ganz leicht selbst herstellen könnt. Heute verrate ich Euch mein Rezept.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9363"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine leckere pflanzliche Alternative
   
 ---

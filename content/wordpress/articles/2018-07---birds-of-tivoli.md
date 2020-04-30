@@ -2,7 +2,7 @@
 title: Birds Of Tivoli
 seoTitle: Birds Of Tivoli - Gefiederte Besucher im Vergnügungspark
 slug: birds-of-tivoli
-link: /2018/07/birds-of-tivoli/
+path: /2018/07/birds-of-tivoli/
 fileName: 2018-07---birds-of-tivoli.md
 description: Im Tivoli sind uns jede Menge gefiederte Persönlichkeiten begegnet.
   Den Birds Of Tivoli möchte ich heute einen eigenen Beitrag widmen. Mit
@@ -34,8 +34,7 @@ isAffiliate: false
 thumbnailId: "21377"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (47:73)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (47:73)"
 subTitle: Gefiederte Besucher im Vergnügungspark
   
 ---

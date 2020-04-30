@@ -2,7 +2,7 @@
 title: Mit dem Nägelkauen aufhören
 seoTitle: Mit dem Nägelkauen aufhören - So habe ich es geschafft
 slug: mit-naegelkauen-aufhoeren
-link: /2018/09/mit-naegelkauen-aufhoeren/
+path: /2018/09/mit-naegelkauen-aufhoeren/
 fileName: 2018-09---mit-dem-naegelkauen-aufhoeren.md
 description: Mit dem Nägelkauen aufzuhören, kann ganz schön schwierig sein. Ich
   möchte Euch zeigen, wie ich es dieses Mal geschafft habe.
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22164"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: So habe ich es geschafft
   
 ---

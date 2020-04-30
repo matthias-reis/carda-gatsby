@@ -2,7 +2,7 @@
 title: Pepes Penthouse
 seoTitle: Interview mit der Augsburger Band Pepes Penthouse
 slug: interview-mit-der-augsburger-band-pepes-penthouse
-link: /2009/02/interview-mit-der-augsburger-band-pepes-penthouse/
+path: /2009/02/interview-mit-der-augsburger-band-pepes-penthouse/
 fileName: 2009-02---pepes-penthouse.md
 description: Am Sonntag, 08.02.2009 um 18:00 hatte ich eine Verabredung zum
   Interview mit den Jungs von der Augsburger Band Pepes Penthouse.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10972"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Wir wollten was ganz Eigenes machen!"'
   
 ---

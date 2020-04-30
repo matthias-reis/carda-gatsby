@@ -2,7 +2,7 @@
 title: Tag des Oberhafens in Hamburg
 seoTitle: Tag des Oberhafens in Hamburg - Kaffee, Ateliers, Film und Kuchen
 slug: tag-des-oberhafens-in-hamburg
-link: /2018/09/tag-des-oberhafens-in-hamburg/
+path: /2018/09/tag-des-oberhafens-in-hamburg/
 fileName: 2018-09---tag-des-oberhafens-in-hamburg.md
 description: Am heutigen Tag des Oberhafens haben wir die Gelegenheit genutzt,
   rund um die letzte Kaffeeklappe Hamburgs Kunst und Kultur live zu erleben.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21993"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kaffee, Ateliers, Film und Kuchen
   
 ---

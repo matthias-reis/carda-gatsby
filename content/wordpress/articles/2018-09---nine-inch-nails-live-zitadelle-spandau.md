@@ -2,7 +2,7 @@
 title: NINE INCH NAILS live @Zitadelle Spandau
 seoTitle: NINE INCH NAILS live @Zitadelle Spandau - Ein magischer Moment
 slug: nine-inch-nails-zitadelle-spandau
-link: /2018/09/nine-inch-nails-zitadelle-spandau/
+path: /2018/09/nine-inch-nails-zitadelle-spandau/
 fileName: 2018-09---nine-inch-nails-live-zitadelle-spandau.md
 description: "Wehmut und roher Industrial: Wir haben in der Zitadelle Spandau
   wieder mal ein perfektes NINE INCH NAILS Konzert erlebt. Hier ist mein
@@ -38,8 +38,7 @@ isAffiliate: false
 thumbnailId: "21955"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (77:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (77:16)"
 subTitle: Ein magischer Moment
   
 ---

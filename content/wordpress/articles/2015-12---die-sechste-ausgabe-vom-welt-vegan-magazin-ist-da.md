@@ -2,7 +2,7 @@
 title: Die sechste Ausgabe vom Welt Vegan Magazin ist da!
 seoTitle: Die 6. Ausgabe vom Welt Vegan Magazin ist da - Meine Artikel
 slug: die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da
-link: /2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/
+path: /2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/
 fileName: 2015-12---die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da.md
 description: Das neue Welt Vegan Magazin ist da - Auch aus meiner Feder sind
   wieder zwei Artikel mit dabei. Das Cover ziert dieses Mal ein Aktfoto von Nova
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13372"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zwei Artikel aus meiner Feder
   
 ---

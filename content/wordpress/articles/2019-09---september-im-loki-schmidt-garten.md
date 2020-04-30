@@ -2,7 +2,7 @@
 title: September im Loki Schmidt Garten
 seoTitle: September im Loki Schmidt Garten - Bienen und Blumen
 slug: september-im-loki-schmidt-garten
-link: /2019/09/september-im-loki-schmidt-garten/
+path: /2019/09/september-im-loki-schmidt-garten/
 fileName: 2019-09---september-im-loki-schmidt-garten.md
 description: Wenn in Hamburg an einem freien Tag die Sonne scheint, ist es eine
   gute Idee, gleich morgens in den Loki Schmidt Garten aufzubrechen.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26258"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bienen und Blumen
   
 ---

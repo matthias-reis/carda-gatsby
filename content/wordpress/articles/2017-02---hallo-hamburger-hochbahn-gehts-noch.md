@@ -2,7 +2,7 @@
 title: Hallo Hamburger Hochbahn! Gehts noch?
 seoTitle: Fahrgast aus dem Bus geschmissen - Hallo Hamburger Hochbahn! Geht's noch?
 slug: fahrgast-aus-dem-bus-geschmissen-hamburger-hochbahn
-link: /2017/02/fahrgast-aus-dem-bus-geschmissen-hamburger-hochbahn/
+path: /2017/02/fahrgast-aus-dem-bus-geschmissen-hamburger-hochbahn/
 fileName: 2017-02---hallo-hamburger-hochbahn-gehts-noch.md
 description: Einige von Euch kennen den Hamburger Michel Arriens. Ihm ist heute
   Unglaubliches widerfahren. Er wurde aus dem Bus der Hamburger Hochbahn
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15804"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fahrgast aus dem Bus geworfen
   
 ---

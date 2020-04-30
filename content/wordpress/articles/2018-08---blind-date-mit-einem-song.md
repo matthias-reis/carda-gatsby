@@ -2,7 +2,7 @@
 title: Blind Date mit einem Song
 seoTitle: Gartenblogger Blind Date Edition 5 - I Build This Garden For Us
 slug: gartenblogger-blind-date
-link: /2018/08/gartenblogger-blind-date/
+path: /2018/08/gartenblogger-blind-date/
 fileName: 2018-08---blind-date-mit-einem-song.md
 description: Was kommt dabei heraus, wenn sich 15 Blogger*innen verabreden,
   gleichzeitig einen Text über einen Song zu veröffentlichen? Das Gartenblogger
@@ -32,8 +32,7 @@ isAffiliate: false
 thumbnailId: "21805"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (59:47)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (59:47)"
 subTitle: '"I Build This Garden For Us" von Lenny Kravitz'
   
 ---

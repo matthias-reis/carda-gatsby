@@ -2,7 +2,7 @@
 title: Parkplatzsituation in Augsburg
 seoTitle: Parkplatzsituation - ohne Worte
 slug: parkplatzsituation-in-augsburg-ohne-worte
-link: /2009/01/parkplatzsituation-in-augsburg-ohne-worte/
+path: /2009/01/parkplatzsituation-in-augsburg-ohne-worte/
 fileName: 2009-01---parkplatzsituation-in-augsburg.md
 description: Die Parkplatzsituation in dieser Stadt mal wieder ohne Worte
 excerpt: Die Parkplatzsituation in Augsburg ist wieder mal ohne Worte.
@@ -19,7 +19,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "48"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ohne Worte
   
 ---

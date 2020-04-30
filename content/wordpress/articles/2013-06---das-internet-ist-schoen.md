@@ -2,7 +2,7 @@
 title: Das Internet ist schön
 seoTitle: Das Internet ist schön - es ist wirklich wahr, ich habe Beweise!
 slug: das-internet-ist-schoen
-link: /2013/06/das-internet-ist-schoen
+path: /2013/06/das-internet-ist-schoen
 fileName: 2013-06---das-internet-ist-schoen.md
 description: Das Internet ist schön. Dass das wirklich wahr ist, wurde mir
   gerade mal wieder eindrucksvoll bewiesen, als ich heute nach Hause kam und
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5666"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Geschichte vom Pfefferturm
   
 ---

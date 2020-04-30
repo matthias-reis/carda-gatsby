@@ -2,7 +2,7 @@
 title: Der Vänern am Abend
 seoTitle: Der sommerliche Vänern am Abend - Romantisches Farbspiel
 slug: der-vaenern-am-abend
-link: /2018/09/der-vaenern-am-abend/
+path: /2018/09/der-vaenern-am-abend/
 fileName: 2018-09---der-vaenern-am-abend.md
 description: Den nördlichsten Punkt unserer Schwedenreise diesen Sommer hatten
   wir am wunderschönen Vänern erreicht. Dort bot sich uns ein romantisches
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22053"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Romantisches Farbspiel
   
 ---

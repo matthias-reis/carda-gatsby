@@ -2,7 +2,7 @@
 title: Überfahrt von Duncerque nach Dover
 seoTitle: Überfahrt von Duncerque nach Dover
 slug: uberfahrt-von-duncerque-nach-dover-10-05-2009
-link: /2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/
+path: /2009/05/uberfahrt-von-duncerque-nach-dover-10-05-2009/
 fileName: 2009-05---ueberfahrt-von-duncerque-nach-dover.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Die
   Überfahrt von Duncerque nach Dover"
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11283"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 1/17
   
 ---

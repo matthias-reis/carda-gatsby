@@ -2,7 +2,7 @@
 title: Neue Säfte von Voelkel
 seoTitle: Neue Säfte von Voelkel - Vitamine für das Immunsystem
 slug: neue-saefte-von-voelkel
-link: /2018/11/neue-saefte-von-voelkel/
+path: /2018/11/neue-saefte-von-voelkel/
 fileName: 2018-11---neue-saefte-von-voelkel.md
 description: Von Voelkel gibt es derzeit neun verschiedene Muttersäfte. Drei
   davon habe ich getestet. Und noch drei andere Vitaminlieferanten.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22806"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vitamine für das Immunsystem
   
 ---

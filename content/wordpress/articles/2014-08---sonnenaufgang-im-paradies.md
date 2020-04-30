@@ -2,7 +2,7 @@
 title: Sonnenaufgang im Paradies
 seoTitle: Smoothie-Rezept - Sonnenaufgang im Paradies
 slug: sonnenaufgang-im-paradies
-link: /2014/08/sonnenaufgang-im-paradies/
+path: /2014/08/sonnenaufgang-im-paradies/
 fileName: 2014-08---sonnenaufgang-im-paradies.md
 description: Smoothie-Rezept gefällig? Das sollt Ihr bekommen, denn ich habe
   wieder ein sportliches Erfolgserlebnis zu verbuchen! Hier ist mein
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8691"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: After Workout Smoothie
   
 ---

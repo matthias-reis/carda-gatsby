@@ -2,7 +2,7 @@
 title: Hamburger Stadttauben e. V.
 seoTitle: Hamburger Stadttauben e. V. - Verein rettet Tauben
 slug: hamburger-stadttauben-e-v
-link: /2016/05/hamburger-stadttauben-e-v/
+path: /2016/05/hamburger-stadttauben-e-v/
 fileName: 2016-05---hamburger-stadttauben-e-v.md
 description: Stadttauben haben eine traurige Geschichte. Der Hamburger
   Stadttauben e. V. hat es sich zur Aufgabe gemacht sie um die verlassenen
@@ -30,8 +30,7 @@ isAffiliate: false
 thumbnailId: "14901"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (97:50)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (97:50)"
 subTitle: Ein Verein mit Herz für Tauben
   
 ---

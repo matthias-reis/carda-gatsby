@@ -2,7 +2,7 @@
 title: Appledore, Cornwall
 seoTitle: Appledore, Cornwall - Anne bloggt cardamonchai
 slug: appledore-cornwall-14-05-2009
-link: /2009/05/appledore-cornwall-14-05-2009/
+path: /2009/05/appledore-cornwall-14-05-2009/
 fileName: 2009-05---appledore-cornwall.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Appledore"
 excerpt: Appledore in Cornwall hält Puppenhäuser mit bunten Türen für seine
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11263"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 7/17
   
 ---

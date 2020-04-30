@@ -2,7 +2,7 @@
 title: Destreet und die Menschen
 seoTitle: Destreet und die Menschen - Ein Ugandischer Künstler in Hamburg
 slug: destreet
-link: /2017/07/destreet/
+path: /2017/07/destreet/
 fileName: 2017-07---destreet-und-die-menschen.md
 description: Heute möchte ich Euch Destreet vorstellen. Seine ganz besondere
   Kunst trage ich jetzt direkt auf der Haut. Bei der Millerntor Gallery habe ich
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17023"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kunst auf der Haut
   
 ---

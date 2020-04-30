@@ -2,7 +2,7 @@
 title: Bahatika Gründerin Sheila
 seoTitle: Bahatika Gründerin Sheila im Interview - vegane Schuhe
 slug: bahatika-gruenderin-sheila-interview
-link: /2016/02/bahatika-gruenderin-sheila-interview/
+path: /2016/02/bahatika-gruenderin-sheila-interview/
 fileName: 2016-02---bahatika-gruenderin-sheila.md
 description: Bahatika steht für vegane Schuhe, die zu 100 Prozent fair
   hergestellt werden. Ich habe mich mit Gründerin Sheila unterhalten.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29202"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Share Happiness
   
 ---

@@ -2,7 +2,7 @@
 title: Faith No More live @ Sporthalle Hamburg 23.06.2015
 seoTitle: Faith No More live @ Sporthalle Hamburg
 slug: faith-no-more-live-sporthalle-hamburg-23-06-2015
-link: /2015/07/faith-no-more-live-sporthalle-hamburg-23-06-2015/
+path: /2015/07/faith-no-more-live-sporthalle-hamburg-23-06-2015/
 fileName: 2015-07---faith-no-more-live-sporthalle-hamburg-23-06-2015.md
 description: Ich habe Mike Patton getroffen! Am 23. Juni war es endlich soweit
   und es hat sich gelohnt! Das Faith No More Konzert in Hamburg war wirklich
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12081"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine schöne Erinnerung
   
 ---

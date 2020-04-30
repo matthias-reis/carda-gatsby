@@ -2,7 +2,7 @@
 title: Beatsteaks live @Kantine Augsburg 13.08.2005
 seoTitle: Beatsteaks live in der Augsburger Kantine 13.08.2005
 slug: beatsteaks-live-kantine-augsburg-13-08-2005
-link: /2013/05/beatsteaks-live-kantine-augsburg-13-08-2005/
+path: /2013/05/beatsteaks-live-kantine-augsburg-13-08-2005/
 fileName: 2013-05---beatsteaks-live-kantine-augsburg-13-08-2005.md
 description: Was für ein Konzert! Schuhe im Gesicht und zu Schluss standen wir
   alle unter Wasser! Genial! Sagenhaft! Und überall blaue Flecken!
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5384"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Da kommen Erinnerungen hoch!
   
 ---

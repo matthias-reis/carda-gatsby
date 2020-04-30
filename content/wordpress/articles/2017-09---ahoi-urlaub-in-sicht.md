@@ -2,7 +2,7 @@
 title: Ahoi! Urlaub in Sicht!
 seoTitle: Ahoi! Urlaub in Sicht! Ich melde mich mal kurz ab...
 slug: ahoi-urlaub-in-sicht
-link: /2017/09/ahoi-urlaub-in-sicht/
+path: /2017/09/ahoi-urlaub-in-sicht/
 fileName: 2017-09---ahoi-urlaub-in-sicht.md
 description: ... komme aber bald wieder. Mit vielen Fotos und Geschichten im
   Gepäck. Versprochen! Um Euch die Wartezeit zu verkürzen, habe ich was Tolles
@@ -27,8 +27,7 @@ isAffiliate: false
 thumbnailId: "17846"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (83:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (83:16)"
 subTitle: Ich melde mich mal kurz ab...
   
 ---

@@ -2,7 +2,7 @@
 title: Augsburg von oben
 seoTitle: Augsburg aus der Vogelperspektive
 slug: augsburg-aus-der-vogelperspektive
-link: /2014/02/augsburg-aus-der-vogelperspektive/
+path: /2014/02/augsburg-aus-der-vogelperspektive/
 fileName: 2014-02---augsburg-von-oben.md
 description: "Augsburg mal aus einer ganz anderen Perspektive: Letzte Woche
   hatte ich das große Glück, die schwäbische Stadt mal aus dem 34. Stock zu
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7751"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: So schön ist nur die Vogelperspektive
   
 ---

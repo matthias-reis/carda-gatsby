@@ -2,7 +2,7 @@
 title: Mein neuer Newsletter
 seoTitle: Mein neuer Newsletter - jetzt anmelden
 slug: mein-neuer-newsletter
-link: /2018/02/mein-neuer-newsletter/
+path: /2018/02/mein-neuer-newsletter/
 fileName: 2018-02---mein-neuer-newsletter.md
 description: Es ist soweit! Mein Newsletter erstrahlt endlich im persönlichen
   Design! Meldet Euch am besten gleich an, damit Ihr in Zukunft nichts mehr
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19714"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ab jetzt verpasst Ihr nichts mehr!
   
 ---

@@ -2,7 +2,7 @@
 title: Calexico live @ Roxy Ulm
 seoTitle: Calexico live @ Roxy Ulm Anne bloggt cardamonchai
 slug: calexico-live-roxy-ulm
-link: /2009/01/calexico-live-roxy-ulm/
+path: /2009/01/calexico-live-roxy-ulm/
 fileName: 2009-01---calexico-live-roxy-ulm.md
 description: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm.
 excerpt: Am Dienstag, 27.01.2009 spielten Calexico live im Roxy in Ulm. Als
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11092"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Großartige Stimmung
   
 ---

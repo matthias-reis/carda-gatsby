@@ -2,7 +2,7 @@
 title: Cap San Diego
 seoTitle: Die Cap San Diego - Ein Museumsschiff mit Geschichte
 slug: cap-san-diego-ein-frachtschiff-mit-museum
-link: /2016/01/cap-san-diego-ein-frachtschiff-mit-museum/
+path: /2016/01/cap-san-diego-ein-frachtschiff-mit-museum/
 fileName: 2016-01---cap-san-diego.md
 description: Die Cap San Diego ist das älteste, seetüchtige Museumsschiff der
   Welt. Sie liegt im Hamburger Hafen und kann täglich besichtigt werden -
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13815"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Museumsschiff mit Geschichte
   
 ---

@@ -2,7 +2,7 @@
 title: Vegan Fashion Week in L.A.
 seoTitle: Vegan Fashion Week in Los Angeles - schöne vegane Modewelt
 slug: vegan-fashion-week-in-l-a
-link: /2019/02/vegan-fashion-week-in-l-a/
+path: /2019/02/vegan-fashion-week-in-l-a/
 fileName: 2019-02---vegan-fashion-week-in-l-a.md
 description: Bei der viertägigen „Vegan Fashion Week“ in Los Angeles traf
   Aktivismus auf Mode – das Event fand zu Ehren von Menschen, Tieren und Erde
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23561"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Modewelt
   
 ---

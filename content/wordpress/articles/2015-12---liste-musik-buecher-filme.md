@@ -2,7 +2,7 @@
 title: "Liste: Musik, Bücher, Filme"
 seoTitle: Musik, Bücher und Filme - Eine besondere Liste
 slug: musik-buecher-und-filme
-link: /2015/12/musik-buecher-und-filme/
+path: /2015/12/musik-buecher-und-filme/
 fileName: 2015-12---liste-musik-buecher-filme.md
 description: Sicher haben einige von Euch beim Lesen meines Blog schon gemerkt,
   dass ich wenn es um Musik, Bücher und Filme geht, keinen Spaß verstehe. Eine
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9236"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Keine Geschmacksache
   
 ---

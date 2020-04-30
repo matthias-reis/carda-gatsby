@@ -2,7 +2,7 @@
 title: Versteckte tierische Inhaltsstoffe in Lebensmitteln
 seoTitle: Versteckte tierische Inhaltsstoffe in Lebensmitteln
 slug: versteckte-tierische-inhaltsstoffe-in-lebensmitteln
-link: /2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/
+path: /2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/
 fileName: 2014-12---versteckte-tierische-inhaltsstoffe-in-lebensmitteln.md
 description: Man glaubt es wirklich kaum, in wie vielen Lebensmitteln sich
   versteckte tierische Inhaltsstoffe verbergen - eine Auflistung
@@ -41,7 +41,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9345"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil IX
   
 ---

@@ -2,7 +2,7 @@
 title: Ecosia - Regenwald schützen beim Googeln
 seoTitle: Ecosia - Regenwald schützen beim Googeln mit der grünen Suchmaschine
 slug: ecosia-regenwald-schuetzen-beim-googeln
-link: /2017/02/ecosia-regenwald-schuetzen-beim-googeln/
+path: /2017/02/ecosia-regenwald-schuetzen-beim-googeln/
 fileName: 2017-02---ecosia-regenwald-schuetzen-beim-googeln.md
 description: Kennt Ihr schon Ecosia? Die Eco-Suchmaschine hat es sich auf die
   Fahne geschrieben, Wälder aktiv zu schützen. Ich habe sie mir mal genauer
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15983"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eco-Suchmaschine pflanzt Bäume
   
 ---

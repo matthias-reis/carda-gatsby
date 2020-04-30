@@ -2,7 +2,7 @@
 title: Lieblingsstrand Inch Beach
 seoTitle: Lieblingsstrand Inch Beach - Traumstrand auf der Dingle Halbinsel
 slug: lieblingsstrand-inch-beach
-link: /2018/02/lieblingsstrand-inch-beach/
+path: /2018/02/lieblingsstrand-inch-beach/
 fileName: 2018-02---lieblingsstrand-inch-beach.md
 description: Bei unserem Besuch am Inch Beach Ende September war nicht mehr
   wirklich viel los, weshalb wir am Surf Spot schön für uns waren.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19486"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Traumstrand auf der Dingle Halbinsel
   
 ---

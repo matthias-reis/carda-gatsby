@@ -2,7 +2,7 @@
 title: Millerntor-Stadion St. Pauli
 seoTitle: Millerntor-Stadion Hamburg - Ein Rundgang
 slug: millerntor-stadion-hamburg
-link: /2016/05/millerntor-stadion-hamburg/
+path: /2016/05/millerntor-stadion-hamburg/
 fileName: 2016-05---millerntor-stadion-st-pauli.md
 description: Das Millerntor-Stadion auf dem Heiligengeistfeld in Hamburg St.
   Pauli ist etwas ganz Besonderes - "You'll never walk alone!"
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14636"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "\"You'll never walk alone!\""
   
 ---

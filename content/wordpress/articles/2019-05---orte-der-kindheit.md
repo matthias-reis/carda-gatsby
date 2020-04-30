@@ -2,7 +2,7 @@
 title: Orte der Kindheit
 seoTitle: Orte der Kindheit - zu Besuch in Bielefeld
 slug: orte-der-kindheit
-link: /2019/05/orte-der-kindheit/
+path: /2019/05/orte-der-kindheit/
 fileName: 2019-05---orte-der-kindheit.md
 description: "Warum ich erst jetzt nach Bielefeld gefahren bin, weiß ich nicht.
   Eines ist aber mehr als sicher: Es war die richtige Entscheidung, es zu tun."
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24170"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zu Besuch in Bielefeld
   
 ---

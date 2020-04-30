@@ -2,7 +2,7 @@
 title: Zwei Filmemacherinnen aus Istanbul
 seoTitle: '"Alles andere wirkt banal" - Interview mit zwei Filmemacherinnen'
 slug: alles-andere-wirkt-unwichtig-und-banal
-link: /2013/06/alles-andere-wirkt-unwichtig-und-banal/
+path: /2013/06/alles-andere-wirkt-unwichtig-und-banal/
 fileName: 2013-06---zwei-filmemacherinnen-aus-istanbul.md
 description: Interview zur aktuellen Lage in der Türkei mit den Filmemacherinnen
   Carolin Winterholler und Marie Hartlieb aus Istanbul
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5616"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Alles andere wirkt unwichtig und banal"'
   
 ---

@@ -2,7 +2,7 @@
 title: Es gibt eine Gewinnerin!
 seoTitle: Es gibt eine Gewinnerin - Das Los hat entschieden!
 slug: es-gibt-eine-gewinnerin
-link: /2018/02/es-gibt-eine-gewinnerin/
+path: /2018/02/es-gibt-eine-gewinnerin/
 fileName: 2018-02---es-gibt-eine-gewinnerin.md
 description: Ein hochwertiges Kosmetikset aus dem Hause Ashéra hat gewonnen
   *Trommelwirbel* - Lies den Artikel, dann findest Du es gleich heraus, wer die
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18800"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das Los hat entschieden...
   
 ---

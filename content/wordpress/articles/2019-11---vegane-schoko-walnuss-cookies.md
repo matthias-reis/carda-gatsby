@@ -2,7 +2,7 @@
 title: Vegane Schoko-Walnuss-Cookies
 seoTitle: Vegane Schoko-Walnuss-Cookies - Rezept für zwei Bleche
 slug: vegane-schoko-walnuss-cookies
-link: /2019/11/vegane-schoko-walnuss-cookies/
+path: /2019/11/vegane-schoko-walnuss-cookies/
 fileName: 2019-11---vegane-schoko-walnuss-cookies.md
 description: Draußen wird es langsam kühler - Zeit ein paar leckere vegane
   Schoko-Walnuss-Cookies zu backen. Mit diesem Rezept gelingen sie auf jeden
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26787"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept mit wenig Süße
   
 ---

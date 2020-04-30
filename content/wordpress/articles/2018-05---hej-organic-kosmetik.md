@@ -2,7 +2,7 @@
 title: Hej Organic Kosmetik
 seoTitle: Hej Organic Kosmetik im Test - Pflegeprodukte mit Kaktus und Herz
 slug: hej-organic-kosmetik-im-test
-link: /2018/05/hej-organic-kosmetik-im-test/
+path: /2018/05/hej-organic-kosmetik-im-test/
 fileName: 2018-05---hej-organic-kosmetik.md
 description: Vor Kurzem erreichte mich ein tolles Testpaket des Herstellers Hej
   Organic. "Wir glauben an Deine innere Schönheit" heißt es auf der Homepage.
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21064"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Pflegeprodukte mit Kaktus und Herz
   
 ---

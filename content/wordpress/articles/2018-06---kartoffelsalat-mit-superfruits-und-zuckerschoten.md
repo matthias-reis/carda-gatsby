@@ -2,7 +2,7 @@
 title: Kartoffelsalat mit Superfruits und Zuckerschoten
 seoTitle: Kartoffelsalat mit Superfruits und Zuckerschoten - Rezept für 4 Portionen
 slug: kartoffelsalat-mit-superfruits-und-zuckerschoten
-link: /2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/
+path: /2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/
 fileName: 2018-06---kartoffelsalat-mit-superfruits-und-zuckerschoten.md
 description: Sommer bedeutet Picknick. Da ist es gut, wenn man Essen
   vorbereitet, das man gut mitnehmen kann. Wie wäre es zum Beispiel mit
@@ -40,8 +40,7 @@ isAffiliate: false
 thumbnailId: "21195"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (40:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (40:16)"
 subTitle: Vegan, leicht und lecker
   
 ---

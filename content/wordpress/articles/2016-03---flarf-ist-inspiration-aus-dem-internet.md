@@ -2,7 +2,7 @@
 title: Flarf ist Inspiration aus dem Internet
 seoTitle: Flarf - Poesie aus dem Internet spricht alle Sinne an
 slug: flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung
-link: /2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/
+path: /2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/
 fileName: 2016-03---flarf-ist-inspiration-aus-dem-internet.md
 description: Flarf - Was ist das eigentlich? Klingt wie eine Wortschöpfung von
   Pipi Langstrumpf. Wie Suchergebnisse die Phantasie anregen können - Ein
@@ -30,8 +30,7 @@ isAffiliate: false
 thumbnailId: "14253"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (41:20)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:20)"
 subTitle: Poesie der Vernetzung
   
 ---

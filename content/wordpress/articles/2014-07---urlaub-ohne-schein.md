@@ -2,7 +2,7 @@
 title: Urlaub ohne Schein
 seoTitle: Urlaub ohne Schein - Ich melde mich zurück
 slug: urlaub-ohne-schein
-link: /2014/07/urlaub-ohne-schein/
+path: /2014/07/urlaub-ohne-schein/
 fileName: 2014-07---urlaub-ohne-schein.md
 description: Heute melde ich mich aus dem Urlaub zurück und teile meine
   Eindrücke mit Euch - Ich freue mich wie immer auf Eure Zuschriften!
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8061"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine treulose Tomate meldet sich zurück
   
 ---

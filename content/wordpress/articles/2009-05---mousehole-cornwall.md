@@ -2,7 +2,7 @@
 title: Mousehole, Cornwall
 seoTitle: Mousehole - Anne bloggt cardamonchai
 slug: mousehole-cornwall-16-05-2009
-link: /2009/05/mousehole-cornwall-16-05-2009/
+path: /2009/05/mousehole-cornwall-16-05-2009/
 fileName: 2009-05---mousehole-cornwall.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Mousehole"
 excerpt: Die weltberühmte Postkartenansicht von Mousehole - wer kennt sie nicht?
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11249"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 11/17
   
 ---

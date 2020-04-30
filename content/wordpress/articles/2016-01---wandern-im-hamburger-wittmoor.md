@@ -2,7 +2,7 @@
 title: Wandern im Hamburger Wittmoor
 seoTitle: Wandern im Hamburger Wittmoor - Es grünt am Wegesrand
 slug: wandern-im-hamburger-wittmoor
-link: /2016/01/wandern-im-hamburger-wittmoor/
+path: /2016/01/wandern-im-hamburger-wittmoor/
 fileName: 2016-01---wandern-im-hamburger-wittmoor.md
 description: Bei unserer Wanderung durch das Hamburger Wittmoor am 29. Dezember
   habe ich es mir nicht nehmen lassen, eine kleine Fotoserie aufzunehmen.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13657"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Es grünt am Wegesrand
   
 ---

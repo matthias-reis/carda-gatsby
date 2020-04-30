@@ -2,7 +2,7 @@
 title: '"The End Of Meat"'
 seoTitle: '"The End Of Meat" - eine Welt ohne Fleisch - Filmtipp'
 slug: the-end-of-meat
-link: /2020/02/the-end-of-meat/
+path: /2020/02/the-end-of-meat/
 fileName: 2020-02---the-end-of-meat.md
 description: '"The End Of Meat" ist ein Film, den ich Euch wirklich sehr
   empfehlen kann. Das Werk wurde nicht ohne Grund für zahlreiche Preise
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27574"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Welt ohne Fleisch
   
 ---

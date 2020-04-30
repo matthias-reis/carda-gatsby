@@ -2,7 +2,7 @@
 title: Die Sparrenburg
 seoTitle: Die Sparrenburg - Festungsanlage in Bielefelds Mitte
 slug: sparrenburg-bielefeld
-link: /2019/07/sparrenburg-bielefeld/
+path: /2019/07/sparrenburg-bielefeld/
 fileName: 2019-07---die-sparrenburg.md
 description: Dass wir einen Ausflug nach Bielefeld gemacht haben, wisst Ihr.
   Dort haben wir auch die Sparrenburg besucht - eine spannende Besichtigung.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25408"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Festungsanlage in Bielefelds Mitte
   
 ---

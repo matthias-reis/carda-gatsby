@@ -2,7 +2,7 @@
 title: Hafengeburtstag 2017
 seoTitle: Hafengeburtstag 2017 - Wir haben mitgefeiert und Fahnenflucht live erlebt
 slug: hafengeburtstag
-link: /2017/05/hafengeburtstag/
+path: /2017/05/hafengeburtstag/
 fileName: 2017-05---hafengeburtstag-2017.md
 description: 'Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause
   und der Hamburger Hafen feiert Geburtstag. Zeit für eine fette Bildergalerie.'
@@ -48,8 +48,7 @@ isAffiliate: false
 thumbnailId: "16549"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (44:50)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:50)"
 subTitle: Ein Fest in Hamburg
   
 ---

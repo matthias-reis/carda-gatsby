@@ -2,7 +2,7 @@
 title: Die Elbe in Altona
 seoTitle: Die Elbe in Altona - Winterlicher Spaziergang am Fluss
 slug: die-elbe-in-altona-winterlicher-spaziergang
-link: /2016/12/die-elbe-in-altona-winterlicher-spaziergang/
+path: /2016/12/die-elbe-in-altona-winterlicher-spaziergang/
 fileName: 2016-12---die-elbe-in-altona.md
 description: Vor Kurzem habe ich hier in Altona an der Elbe mal wieder eine
   kleine Runde mit meiner Kamera gedreht. Dabei sind ein paar winterliche Bilder
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15517"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Winterlicher Spaziergang am Fluss
   
 ---

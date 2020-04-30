@@ -2,7 +2,7 @@
 title: 10 Ideen für mehr glückliche Momente
 seoTitle: 10 Ideen für mehr glückliche Momente - den Alltag genießen
 slug: 10-ideen-fuer-mehr-glueckliche-momente
-link: /2019/05/10-ideen-fuer-mehr-glueckliche-momente/
+path: /2019/05/10-ideen-fuer-mehr-glueckliche-momente/
 fileName: 2019-05---10-ideen-fuer-mehr-glueckliche-momente.md
 description: "Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach,
   glücklich zu sein. Ich habe einige Ideen für mehr glückliche Momente
@@ -38,8 +38,7 @@ isAffiliate: false
 thumbnailId: "24078"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (42:40)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (42:40)"
 subTitle: Achtsamkeit im Alltag
   
 ---

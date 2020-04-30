@@ -2,7 +2,7 @@
 title: 10 Tipps, wie Du Deine Nerven schonst
 seoTitle: 10 Tipps, wie Du Deine Nerven schonst
 slug: 10-tipps-wie-du-deine-nerven-schonst
-link: /2019/04/10-tipps-wie-du-deine-nerven-schonst/
+path: /2019/04/10-tipps-wie-du-deine-nerven-schonst/
 fileName: 2019-04---10-tipps-wie-du-deine-nerven-schonst.md
 description: Kaum hat man sich was Tolles vorgenommen, kommt ein*e Kritiker*in
   daher und die Motivation ist weg - Ich habe 10 Tipps für Dich, was Du jetzt
@@ -40,8 +40,7 @@ isAffiliate: false
 thumbnailId: "23987"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (41:6)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:6)"
 subTitle: <strong>Alltag für Fortgeschrittene</strong>
   
 ---

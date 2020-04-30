@@ -3,7 +3,7 @@ title: tigovit Gründerin Tanja Hohenester
 seoTitle: tigovit Gründerin Tanja Hohenester im Interview - "Wir befinden uns
   mitten in einem Wandel"
 slug: tigovit-interview
-link: /2017/03/tigovit-interview/
+path: /2017/03/tigovit-interview/
 fileName: 2017-03---tigovit-gruenderin-tanja-hohenester.md
 description: tigovit Gründerin Tanja Hohenester hat sich meinem Interview
   gestellt. Das Gespräch war unglaublich interessant. Ich habe sehr viel über
@@ -50,7 +50,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16058"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <b></b><span class="s1">"Wir befinden uns mitten in einem Wandel"</span>
   
 ---

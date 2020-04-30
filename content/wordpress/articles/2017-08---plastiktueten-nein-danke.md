@@ -2,7 +2,7 @@
 title: Plastiktüten - Nein danke!
 seoTitle: Plastiktüten - Nein danke! Kenia greift in Sachen Umweltschutz durch
 slug: kenia-sagt-plastiktueten-nein-danke
-link: /2017/08/kenia-sagt-plastiktueten-nein-danke/
+path: /2017/08/kenia-sagt-plastiktueten-nein-danke/
 fileName: 2017-08---plastiktueten-nein-danke.md
 description: Herstellern von Plastiktüten drohen in Kenia seit gestern bis zu
   vier Jahre Gefängnis. Ein neues Gesetz verbietet Herstellung, Verkauf und
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17749"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kenia greift in Sachen Umweltschutz durch
   
 ---

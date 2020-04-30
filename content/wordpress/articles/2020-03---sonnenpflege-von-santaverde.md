@@ -2,7 +2,7 @@
 title: Sonnenpflege von Santaverde
 seoTitle: Sonnenpflege von Santaverde - Sehnsucht nach dem Sommer
 slug: sonnenpflege-von-santaverde
-link: /2020/03/sonnenpflege-von-santaverde/
+path: /2020/03/sonnenpflege-von-santaverde/
 fileName: 2020-03---sonnenpflege-von-santaverde.md
 description: Von Santaverde gibt es jetzt auch Sonnenpflege. Ich habe sie schon
   mal getestet. Unter etwas anderen Umständen, als zuerst geplant.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28764"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sehnsucht nach dem Sommer
   
 ---

@@ -2,7 +2,7 @@
 title: Bloggen und ich
 seoTitle: Bloggen und ich - Warum es manchmal gar nicht so leicht ist
 slug: bloggen-und-ich
-link: /2018/05/bloggen-und-ich/
+path: /2018/05/bloggen-und-ich/
 fileName: 2018-05---bloggen-und-ich.md
 description: „Blogger sollte man sein. Da hat man lauter Vorteile“. Solche Sätze
   höre ich immer wieder. Doch ist es echt so einfach? Mein Blog-Fazit nach 10
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21008"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Warum es manchmal nicht so einfach ist
   
 ---

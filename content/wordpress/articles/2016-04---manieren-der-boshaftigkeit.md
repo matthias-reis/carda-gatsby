@@ -2,7 +2,7 @@
 title: Manieren der Boshaftigkeit
 seoTitle: Manieren der Boshaftigkeit - Ein Flarf-Gedicht
 slug: manieren-der-boshaftigkeit
-link: /2016/04/manieren-der-boshaftigkeit/
+path: /2016/04/manieren-der-boshaftigkeit/
 fileName: 2016-04---manieren-der-boshaftigkeit.md
 description: Manieren zeigen - Manieren verlieren - Darum dreht sich alles in
   meinem neuen Flarf-Gedicht. Es hat sich ganz anders entwickelt, als
@@ -30,8 +30,7 @@ isAffiliate: false
 thumbnailId: "14411"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (22:25)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:25)"
 subTitle: Ein Flarf-Gedicht
   
 ---

@@ -2,7 +2,7 @@
 title: Die Geschichte der Frauenrechte
 seoTitle: Die Geschichte der Frauenrechte - Der Internationale Weltfrauentag
 slug: die-geschichte-der-frauenrechte
-link: /2013/03/die-geschichte-der-frauenrechte/
+path: /2013/03/die-geschichte-der-frauenrechte/
 fileName: 2013-03---die-geschichte-der-frauenrechte.md
 description: "Mein Artikel über die Geschichte der Frauenrechte ist am 8. März
   2013 erschienen. Zu diesem Zeitpunkt gingen gerade die #aufschrei-Tweets durch
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20011"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ist der Internationale Frauentag in Vergessenheit geraten?
   
 ---

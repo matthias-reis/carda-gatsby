@@ -2,7 +2,7 @@
 title: Bielefeld
 seoTitle: Bielefeld - eine kreative Stadt im Teutoburger Wald
 slug: bielefeld
-link: /2019/07/bielefeld/
+path: /2019/07/bielefeld/
 fileName: 2019-07---bielefeld.md
 description: Bielefeld ist schön - das lest Ihr bei mir immer wieder. Heute
   möchte ich der Stadt im Teutoburger Wald einen eigenen Artikel widmen.
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25420"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine kreative Stadt im Teutoburger Wald
   
 ---

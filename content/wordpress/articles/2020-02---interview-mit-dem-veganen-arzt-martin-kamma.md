@@ -2,7 +2,7 @@
 title: Interview mit dem veganen Arzt Martin Kamma
 seoTitle: Interview mit dem veganen Arzt Martin Kamma
 slug: interview-mit-dem-veganen-arzt-martin-kamma
-link: /2020/02/interview-mit-dem-veganen-arzt-martin-kamma/
+path: /2020/02/interview-mit-dem-veganen-arzt-martin-kamma/
 fileName: 2020-02---interview-mit-dem-veganen-arzt-martin-kamma.md
 description: Martin Kamma lebt seit 2012 vegan. In seinem Blog "Vegan auf
   Rezept" bringt er jede Menge Ernährungstipps. Ich habe den veganen Arzt
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27603"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Vegan auf Rezept"'
   
 ---

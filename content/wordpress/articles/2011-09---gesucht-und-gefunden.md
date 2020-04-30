@@ -2,7 +2,7 @@
 title: Gesucht und gefunden?
 seoTitle: Gesucht und gefunden? Wo ist mein Song nur geblieben?
 slug: gesucht-und-gefunden
-link: /2011/09/gesucht-und-gefunden/
+path: /2011/09/gesucht-und-gefunden/
 fileName: 2011-09---gesucht-und-gefunden.md
 description: Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte
   bei mir abgeben! Es ist mir wirklich ganz besonders wichtig!
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2633"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Lied gesucht
   
 ---

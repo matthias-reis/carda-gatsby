@@ -2,7 +2,7 @@
 title: Neue Mitte
 seoTitle: Neue Mitte Altona - ein paar Gedanken zum neuen Bezirk
 slug: neue-mitte-altona
-link: /2019/05/neue-mitte-altona/
+path: /2019/05/neue-mitte-altona/
 fileName: 2019-05---neue-mitte.md
 description: Die neue Mitte Altona erhebt sich nach und nach zwischen den
   Gleisen. Bis jetzt sind noch nicht alle Details erkennbar - ein paar Bewohner
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24121"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Stadtteil verändert sich
   
 ---

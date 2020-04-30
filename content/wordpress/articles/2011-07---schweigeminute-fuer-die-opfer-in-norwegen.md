@@ -2,7 +2,7 @@
 title: Schweigeminute für die Opfer in Norwegen
 seoTitle: Schweigeminute für die Opfer in Norwegen
 slug: schweigeminute-fur-die-opfer-in-norwegen
-link: /2011/07/schweigeminute-fur-die-opfer-in-norwegen/
+path: /2011/07/schweigeminute-fur-die-opfer-in-norwegen/
 fileName: 2011-07---schweigeminute-fuer-die-opfer-in-norwegen.md
 description: Heute werde ich bewusst keinen Text und keinen Song einstellen. Ich
   möchte nur jeden, der vorbeikommt, darum bitten, eine kurze Schweigeminute
@@ -73,7 +73,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2212"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: In stillem Gedenken
   
 ---

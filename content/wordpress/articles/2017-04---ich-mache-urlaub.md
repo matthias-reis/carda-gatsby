@@ -3,7 +3,7 @@ title: Ich mache Urlaub
 seoTitle: Urlaub wir kommen - Ich mache Pause - Kurze Auszeit auf Anne bloggt
   cardamonchai
 slug: ich-mache-urlaub
-link: /2017/04/ich-mache-urlaub/
+path: /2017/04/ich-mache-urlaub/
 fileName: 2017-04---ich-mache-urlaub.md
 description: Weil ich schon gar nicht mehr weiß, wie es sich anfühlt, richtig
   Urlaub zu machen, nehme ich mir eine kurze Auszeit. Natürlich könnt Ihr mir
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16334"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kurze Blog-Auszeit
   
 ---

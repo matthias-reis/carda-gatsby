@@ -2,7 +2,7 @@
 title: '"Vegan Models" - so ticken Veganer*innen'
 seoTitle: '"Vegan Models" - so ticken Veganer*innen - Interview mit Tobias Hess'
 slug: vegan-models-so-ticken-veganerinnen
-link: /2019/08/vegan-models-so-ticken-veganerinnen/
+path: /2019/08/vegan-models-so-ticken-veganerinnen/
 fileName: 2019-08---vegan-models-so-ticken-veganer-innen.md
 description: Der Hamburger Fotograf Tobias Hess fotografiert im Rahmen seines
   Projekts "Vegan Models" Veganer*innen und zeigt, wie sie so ticken.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25796"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fotograf Tobias Hess im Interview
   
 ---

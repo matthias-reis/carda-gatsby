@@ -2,7 +2,7 @@
 title: Marazion und St. Michael's Mount
 seoTitle: Marazion und der St. Michael's Mount - Fernweh nach Cornwall
 slug: st-michaels-mount-marazion
-link: /2020/01/st-michaels-mount-marazion/
+path: /2020/01/st-michaels-mount-marazion/
 fileName: 2020-01---marazion-und-st-michaels-mount.md
 description: Kennt Ihr schon Marazion und St. Michael's Mount in Cornwall? Mit
   den Bildern von diesen Orten kann ich so richtig schön von der Ferne träumen.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27347"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fernweh nach Cornwall
   
 ---

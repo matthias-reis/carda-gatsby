@@ -2,7 +2,7 @@
 title: Kater Oskar freut sich auf Altona
 seoTitle: Kater Oskar freut sich auf Altona - Meme
 slug: kater-oskar-freut-sich-auf-altona
-link: /2016/05/kater-oskar-freut-sich-auf-altona/
+path: /2016/05/kater-oskar-freut-sich-auf-altona/
 fileName: 2016-05---kater-oskar-freut-sich-auf-altona.md
 description: "Schon ganz bald ist es soweit: Die Kisten werden immer mehr. Kater
   Oskar freut sich schon sehr auf unseren Umzug nach Altona."
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14643"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Balkon und Fußgängerzone
   
 ---

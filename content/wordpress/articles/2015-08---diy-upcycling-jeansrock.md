@@ -2,7 +2,7 @@
 title: DIY Upcycling Jeansrock
 seoTitle: DIY Upcycling Jeansrock - Anleitung
 slug: diy-upcycling-jeansrock
-link: /2015/08/diy-upcycling-jeansrock/
+path: /2015/08/diy-upcycling-jeansrock/
 fileName: 2015-08---diy-upcycling-jeansrock.md
 description: Ich zeige Euch heute, wie ich meinen Lieblings-Festival-Minirock
   mit wenigen Handgriffen zu einem echten Einzelstück gemacht habe.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12372"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kreiere Dein romantisches Einzelstück
   
 ---

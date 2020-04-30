@@ -2,7 +2,7 @@
 title: Näher an die Elbe
 seoTitle: Näher an die Elbe - Wir ziehen wieder um
 slug: an-die-elbe-wir-ziehen-um
-link: /2016/05/an-die-elbe-wir-ziehen-um/
+path: /2016/05/an-die-elbe-wir-ziehen-um/
 fileName: 2016-05---naeher-an-die-elbe.md
 description: Es kann sein, dass ich eine kurze Zeit lang mal nicht zu erreichen
   sein werde, denn wir ziehen um - Ein Stückchen näher an die Elbe, wir bleiben
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14760"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Altona in Sicht
   
 ---

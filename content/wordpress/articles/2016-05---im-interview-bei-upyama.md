@@ -2,7 +2,7 @@
 title: Im Interview bei Upyama
 seoTitle: Upyama interviewt cardamonchai - Grüne Macher
 slug: upyama-interviewt-anne-von-cardamonchai-gruene-macher
-link: /2016/05/upyama-interviewt-anne-von-cardamonchai-gruene-macher/
+path: /2016/05/upyama-interviewt-anne-von-cardamonchai-gruene-macher/
 fileName: 2016-05---im-interview-bei-upyama.md
 description: Upyama hat ein Interview mit mir gemacht! In der Rubrik "Grüne
   Macher" findet Ihr jetzt alles über mich, mein Leben, mein Blog und mein neues
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14878"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Grüne Macher"'
   
 ---

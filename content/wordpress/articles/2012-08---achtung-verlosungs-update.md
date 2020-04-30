@@ -2,7 +2,7 @@
 title: Achtung! Verlosungs-Update!
 seoTitle: Burg Herzberg Festival T-Shirt Verlosung
 slug: achtung-verlosungs-update
-link: /2012/08/achtung-verlosungs-update/
+path: /2012/08/achtung-verlosungs-update/
 fileName: 2012-08---achtung-verlosungs-update.md
 description: Seit dem 16. August 2012 läuft jetzt hier auf meiner Seite eine
   Verlosung, bei der es tolle Sachen zu Gewinnen gibt.
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11800"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Offizielles Burg Herzberg Festival T-Shirt zu gewinnen!
   
 ---

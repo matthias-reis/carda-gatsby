@@ -2,7 +2,7 @@
 title: Veganes Essen von Deliveroo
 seoTitle: Veganes Essen von Deliveroo - Leckeres nach Hause bestellen
 slug: veganes-essen-von-deliveroo
-link: /2018/10/veganes-essen-von-deliveroo
+path: /2018/10/veganes-essen-von-deliveroo
 fileName: 2018-10---veganes-essen-von-deliveroo.md
 description: Veganes Essen von Deliveroo bestellen? Das klappt super! Und das
   Angebot wird in Zukunft immer größer! Heute erreichte mich eine
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22539"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Leckeres liefern lassen
   
 ---

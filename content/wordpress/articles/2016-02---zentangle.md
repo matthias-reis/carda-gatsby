@@ -2,7 +2,7 @@
 title: Zentangle
 seoTitle: Zentangle - Malen als kreative Prokrastination
 slug: zentangle-malen-als-kreative-prokrastination
-link: /2016/02/zentangle-malen-als-kreative-prokrastination/
+path: /2016/02/zentangle-malen-als-kreative-prokrastination/
 fileName: 2016-02---zentangle.md
 description: Zentangle ist genau das Richtige, um etwas Entspannung in den
   Alltag zu bringen. Dafür braucht man nur ein paar Stifte und ein weißes Blatt
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13946"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Malen als kreative Prokrastination
   
 ---

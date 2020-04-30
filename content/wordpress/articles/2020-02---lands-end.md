@@ -2,7 +2,7 @@
 title: Land's End
 seoTitle: Land's End - am westlichsten Punkt Englands
 slug: 2019-08-20-lands-end-england
-link: /2020/02/2019-08-20-lands-end-england/
+path: /2020/02/2019-08-20-lands-end-england/
 fileName: 2020-02---lands-end.md
 description: Land's End ist immer eine Reise wert. Der westlichste Punkt
   Englands lädt zum Träumen ein und ist Ausgangspunkt für tolle Wanderungen.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27345"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Am westlichsten Punkt Englands
   
 ---

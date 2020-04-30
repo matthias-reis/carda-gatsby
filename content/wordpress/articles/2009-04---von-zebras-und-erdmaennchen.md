@@ -2,7 +2,7 @@
 title: Von Zebras und Erdmännchen
 seoTitle: Von Zebras und Erdmännchen
 slug: von-zebras-und-erdmaennchen
-link: /2009/04/von-zebras-und-erdmaennchen/
+path: /2009/04/von-zebras-und-erdmaennchen/
 fileName: 2009-04---von-zebras-und-erdmaennchen.md
 description: Frühling, Zeit, den Erdmännchen einen Besuch abzustatten - Einige
   Impressionen aus dem Zoo in Augsburg.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11207"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Impressionen aus dem Augsburger Zoo
   
 ---

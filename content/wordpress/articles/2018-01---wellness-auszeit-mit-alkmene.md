@@ -2,7 +2,7 @@
 title: Wellness-Auszeit mit Alkmene
 seoTitle: Wellness-Auszeit mit Alkmene - Vegane Badezusätze & Lotions im Test
 slug: wellness-mit-alkmene
-link: /2018/01/wellness-mit-alkmene/
+path: /2018/01/wellness-mit-alkmene/
 fileName: 2018-01---wellness-auszeit-mit-alkmene.md
 description: Ich bin ein großer Badefan. Gerade wenn es draußen so richtig grau
   ist. Darum hatte ich sehr viel Spaß beim Testen der Alkmene Badezusätze und
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19128"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Badezusätze und Bodylotions
   
 ---

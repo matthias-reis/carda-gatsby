@@ -2,7 +2,7 @@
 title: Hitzefrei
 seoTitle: Hitzefrei - mal wieder eine kleine Gedankenansammlung
 slug: hitzefrei
-link: /2012/07/hitzefrei/
+path: /2012/07/hitzefrei/
 fileName: 2012-07---hitzefrei.md
 description: Immer ruhig bleiben. Die Katzenhaare ignorieren. Laute Musik.
   Chronisch pleite. Strafzettelsammlung. Kaffeesucht. Liebe zu Lavendel.
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3314"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gedankenansammlung
   
 ---

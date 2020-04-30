@@ -2,7 +2,7 @@
 title: Wahlsonntag
 seoTitle: Wahlsonntag - Statements und Prognosen - Lyrisch betrachtet
 slug: wahlsonntag
-link: /2018/10/wahlsonntag/
+path: /2018/10/wahlsonntag/
 fileName: 2018-10---wahlsonntag.md
 description: Ein Gedicht zum Wahlsonntag - Grenzen sind dazu da, sie zu
   überwinden. Sie abzureißen und durch Verbindungswege zu ersetzen.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22382"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Statements und Prognosen
   
 ---

@@ -2,7 +2,7 @@
 title: Perspektiven
 seoTitle: Perspektiven - meine Bildergalerie aus der Pinakothek der Moderne
 slug: perspektiven-pinakothek-der-moderne
-link: /2012/02/perspektiven-pinakothek-der-moderne/
+path: /2012/02/perspektiven-pinakothek-der-moderne/
 fileName: 2012-02---perspektiven.md
 description: Hier ist meine Technik-Galerie aus der Pinakothek der Moderne. Wart
   Ihr schon mal dort? Was hat Euch besonders gut gefallen?
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2851"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie aus der Pinakothek der Moderne
   
 ---

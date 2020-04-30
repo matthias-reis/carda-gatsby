@@ -2,7 +2,7 @@
 title: Individuell abgestimmte Lebensweisheiten
 seoTitle: Individuell abgestimmte Lebensweisheiten - Gedicht
 slug: individuell-abgestimmte-lebensweisheiten
-link: /2011/08/individuell-abgestimmte-lebensweisheiten/
+path: /2011/08/individuell-abgestimmte-lebensweisheiten/
 fileName: 2011-08---individuell-abgestimmte-lebensweisheiten.md
 description: Sie wollen uns erzählen. Ein Tag ist perfekt, wenn die Fledermaus
   draußen ist. Deshalb bringen alte Lebensweisheiten sowieso meistens nichts.
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2336"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nachgedacht
   
 ---

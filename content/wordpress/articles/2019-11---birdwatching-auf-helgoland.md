@@ -2,7 +2,7 @@
 title: Birdwatching auf Helgoland
 seoTitle: Birdwatching auf Helgoland - ein Tag an der Nordsee
 slug: helgoland-birdwatching
-link: /2019/11/helgoland-birdwatching/
+path: /2019/11/helgoland-birdwatching/
 fileName: 2019-11---birdwatching-auf-helgoland.md
 description: Vor ein paar Wochen haben wir Helgoland einen Besuch abgestattet.
   Dort sind uns zahlreiche Basstölpel mit ihren Jungen begegnet.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26870"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Tag an der Nordsee
   
 ---

@@ -2,7 +2,7 @@
 title: Ve­ga­ner Ba­na­nen­gu­gel­hupf Mar­mor­style
 seoTitle: Bananengugelhupf Marmorstyle vegan - Rezept
 slug: bananengugelhupf-marmorstyle-vegan
-link: /2014/10/bananengugelhupf-marmorstyle-vegan/
+path: /2014/10/bananengugelhupf-marmorstyle-vegan/
 fileName: 2014-10---ve-ga-ner-ba-na-nen-gu-gel-hupf-mar-mor-style.md
 description: Ihr wolltet schon immer wissen, wie man einen veganen
   Bananengugelhupf backt und möchtet ihn gerne wie einen Marmorkuchen gestalten?
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9119"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Freestyle-Backen mit Anne
   
 ---

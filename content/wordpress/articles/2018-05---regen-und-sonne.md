@@ -2,7 +2,7 @@
 title: Regen und Sonne
 seoTitle: Regen und Sonne - Kleine Dystopie - Worte zum Klimawandel
 slug: regen-und-sonne
-link: /2018/05/regen-und-sonne/
+path: /2018/05/regen-und-sonne/
 fileName: 2018-05---regen-und-sonne.md
 description: Der Strom kommt aus Generatoren. Heute kein Regen. Keine Angst vor
   der Zukunft im klimatisierten Wagen. Wie lange kann das noch so weitergehen?
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21095"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kleine Dystopie
   
 ---

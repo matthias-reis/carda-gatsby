@@ -2,7 +2,7 @@
 title: Die Post hat sich schon längst abgeschafft
 seoTitle: Die Post hat sich schon längst selbst abgeschafft - Erfahrungsbericht
 slug: die-post-hat-sich-schon-laengst-abgeschafft
-link: /2013/06/die-post-hat-sich-schon-laengst-abgeschafft
+path: /2013/06/die-post-hat-sich-schon-laengst-abgeschafft
 fileName: 2013-06---die-post-hat-sich-schon-laengst-abgeschafft.md
 description: Einen Bericht über die Zustände bei der Post und den dortigen
   (nicht vorhandenen) Service, habe ich mir bis dato verkniffen.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5596"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neues aus der Servicewüste
   
 ---

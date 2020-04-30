@@ -2,7 +2,7 @@
 title: Queen Elizabeth im Cruise Center Altona
 seoTitle: Queen Elizabeth im Cruise Center Altona - Königin der Meere in Hamburg
 slug: queen-elizabeth-im-cruise-center-altona
-link: /2017/01/queen-elizabeth-im-cruise-center-altona
+path: /2017/01/queen-elizabeth-im-cruise-center-altona
 fileName: 2017-01---queen-elizabeth-im-cruise-center-altona.md
 description: Gestern war es dann soweit, keine Geringere, als die Königin der
   Meere Queen Elizabeth gab sich die Ehre im Cruise Center Altona. Eine
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15633"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Königin der Meere zu Gast in Hamburg
   
 ---

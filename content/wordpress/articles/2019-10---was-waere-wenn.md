@@ -2,7 +2,7 @@
 title: Was wäre wenn?
 seoTitle: Was wäre wenn?
 slug: was-waere-wenn
-link: /2019/10/was-waere-wenn
+path: /2019/10/was-waere-wenn
 fileName: 2019-10---was-waere-wenn.md
 description: ""
 excerpt: ""
@@ -17,7 +17,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gedanken hinter dem Fenster
   
 ---

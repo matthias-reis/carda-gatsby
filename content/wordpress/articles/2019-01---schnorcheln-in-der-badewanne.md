@@ -2,7 +2,7 @@
 title: Schnorcheln in der Badewanne
 seoTitle: Schnorcheln in der Badewanne
 slug: schnorcheln-in-der-badewanne
-link: /2019/01/schnorcheln-in-der-badewanne
+path: /2019/01/schnorcheln-in-der-badewanne
 fileName: 2019-01---schnorcheln-in-der-badewanne.md
 description: ""
 excerpt: ""
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schnuppertauchen am Roten Meer
   
 ---

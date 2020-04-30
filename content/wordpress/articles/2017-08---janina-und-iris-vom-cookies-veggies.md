@@ -2,7 +2,7 @@
 title: Janina und Iris vom Cookie's Veggies
 seoTitle: Interview mit Janina und Iris vom Cookie's Veggies in Dorsten
 slug: cookies-veggies-interview
-link: /2017/08/cookies-veggies-interview/
+path: /2017/08/cookies-veggies-interview/
 fileName: 2017-08---janina-und-iris-vom-cookies-veggies.md
 description: Gutes essen - Gutes tun lautet das Motto von Iris und Janina vom
   Cookie's Veggies Café & Restaurant in Dorsten. Ich habe die beiden jetzt
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17515"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Gutes essen - Gutes tun!"'
   
 ---

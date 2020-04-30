@@ -2,7 +2,7 @@
 title: '"Vegan? Hamwa!"'
 seoTitle: Vegan? Hamwa! - Ökolatsche 2.0 - Ein Kommentar
 slug: vegan-hamwa
-link: /2015/02/vegan-hamwa/
+path: /2015/02/vegan-hamwa/
 fileName: 2015-02---vegan-hamwa.md
 description: Vegan ist auf dem Vormarsch. Es ist schön, dass sich was tut. Das
   Umdenken erfolgt Schritt für Schritt. Hier mein Kommentar zum Thema.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9510"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ökolatsche 2.0
   
 ---

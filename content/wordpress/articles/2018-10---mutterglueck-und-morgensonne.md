@@ -2,7 +2,7 @@
 title: Mutterglück und Morgensonne
 seoTitle: Mutterglück & Morgensonne - Der Wasservogel-Kindergarten vom Vänern
 slug: mutterglueck-und-morgensonne-vaenern
-link: /2018/10/mutterglueck-und-morgensonne-vaenern/
+path: /2018/10/mutterglueck-und-morgensonne-vaenern/
 fileName: 2018-10---mutterglueck-und-morgensonne.md
 description: So sieht perfektes Mutterglück aus, oder? Ein schöner Spaziergang
   durch die Hood mit den Besten und den lieben Kleinen gefolgt von einem Bad im
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22212"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der Wasservogel-Kindergarten vom Vänern
   
 ---

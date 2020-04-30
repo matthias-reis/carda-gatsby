@@ -2,7 +2,7 @@
 title: The Thread That Keeps Us ist da!
 seoTitle: '"The Thread That Keeps Us" ist da - Die neue Calexico Platte rockt!'
 slug: the-thread-that-keeps-us-calexico
-link: /2018/01/the-thread-that-keeps-us-calexico/
+path: /2018/01/the-thread-that-keeps-us-calexico/
 fileName: 2018-01---the-thread-that-keeps-us-ist-da.md
 description: Ein Bild der heutigen Gesellschaft und Ihrer Abgründe wollten
   Calexico schaffen und das ist der Band mit "The Thread That Keeps Us"
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18145"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die neue Platte von Calexico rockt!
   
 ---

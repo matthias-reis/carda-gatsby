@@ -2,7 +2,7 @@
 title: Der vegane Lonely Planet ist da!
 seoTitle: '"The Vegan Travel Handbook" - Vegan Lonely Planet'
 slug: vegan-travel-handbook-der-vegane-lonely-planet
-link: /2019/12/vegan-travel-handbook-der-vegane-lonely-planet/
+path: /2019/12/vegan-travel-handbook-der-vegane-lonely-planet/
 fileName: 2019-12---der-vegane-lonely-planet-ist-da.md
 description: 'Der Lonely Planet ist die wohl bekannteste und beliebteste
   Reiseführerreihe der Welt - jetzt gibt es eine vegane Ausgabe: das "Vegan
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27269"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"The Vegan Travel Handbook"'
   
 ---

@@ -2,7 +2,7 @@
 title: Braunbären
 seoTitle: Braunbären - Anne bloggt cardamonchai
 slug: braunbaeren
-link: /2009/04/braunbaeren/
+path: /2009/04/braunbaeren/
 fileName: 2009-04---braunbaeren.md
 description: Bei schönem Wetter wandern die Braunbären am Wasserrand entlang und
   lassen sich die Sonne auf den Pelz scheinen.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11201"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mythenumwobene Allesfresser
   
 ---

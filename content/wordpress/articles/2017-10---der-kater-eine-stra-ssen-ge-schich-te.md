@@ -2,7 +2,7 @@
 title: Der Kater - Eine Stra­ßen­ge­schich­te
 seoTitle: Der Kater - Kein verkehrter Kerl - Eine Geschichte von der Straße
 slug: der-kater-geschichte-von-der-strasse
-link: /2017/10/der-kater-geschichte-von-der-strasse/
+path: /2017/10/der-kater-geschichte-von-der-strasse/
 fileName: 2017-10---der-kater-eine-stra-ssen-ge-schich-te.md
 description: Die Haudegen auf der Strandpromenade spielen einem jungen Kater
   übel mit. Sein Leben ist alles andere als einfach. Doch dann begegnet er einem
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17988"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kein verkehrter Kerl
   
 ---

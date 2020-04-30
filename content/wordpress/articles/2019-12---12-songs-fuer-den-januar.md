@@ -2,7 +2,7 @@
 title: 12 Songs für den Januar
 seoTitle: 12 Songs für den Januar - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-januar
-link: /2019/12/12-songs-fuer-den-januar/
+path: /2019/12/12-songs-fuer-den-januar/
 fileName: 2019-12---12-songs-fuer-den-januar.md
 description: Auch im neuen Jahr möchten wir Euch regelmäßig mit neuer Musik
   versorgen. Für den Januar haben wir bereits 12 Songs für Euch
@@ -49,7 +49,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27244"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

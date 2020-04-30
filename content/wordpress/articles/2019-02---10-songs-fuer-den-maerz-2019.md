@@ -2,7 +2,7 @@
 title: 10 Songs für den März 2019
 seoTitle: 10 Songs für den März - präsentiert von den drei von der Bande
 slug: 10-songs-fuer-den-maerz
-link: /2019/02/10-songs-fuer-den-maerz/
+path: /2019/02/10-songs-fuer-den-maerz/
 fileName: 2019-02---10-songs-fuer-den-maerz-2019.md
 description: Die drei von der Bande präsentieren Euch heute 10 Songs für den
   März 2019. Auf die Ohren gibt es jede Menge Postrock, Postpunk, Post-Hardcore
@@ -69,7 +69,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23655"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

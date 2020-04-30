@@ -2,7 +2,7 @@
 title: Calexico live @Muffathalle München 29.11.2012
 seoTitle: Calexico live in der Münchener Muffathalle - mein Konzertbericht
 slug: calexico-live-muffathalle-munchen-29-11-2012
-link: /2012/12/calexico-live-muffathalle-munchen-29-11-2012/
+path: /2012/12/calexico-live-muffathalle-munchen-29-11-2012/
 fileName: 2012-12---calexico-live-muffathalle-muenchen-29-11-2012.md
 description: Hier nun endlich die langersehnten Bilder vom Calexico-Konzert
   letzten Donnerstag in der Münchner Muffathalle direkt aus meinem Fotolabor.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4596"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fotogalerie
   
 ---

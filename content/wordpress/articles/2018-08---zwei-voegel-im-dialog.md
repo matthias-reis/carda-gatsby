@@ -2,7 +2,7 @@
 title: Zwei Vögel im Dialog
 seoTitle: Zwei Vögel im Dialog - Unterhaltung auf einem Straßenschild
 slug: zwei-voegel-im-dialog
-link: /2018/08/zwei-voegel-im-dialog/
+path: /2018/08/zwei-voegel-im-dialog/
 fileName: 2018-08---zwei-voegel-im-dialog.md
 description: Evolution, Freiheit. Der Himmel ist blau. Intelligenz, Aufklärung.
   Zwei Vögel sitzen auf einem Schild. Wie es weitergeht, verrate ich Euch gerne.
@@ -30,8 +30,7 @@ isAffiliate: false
 thumbnailId: "21857"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (14:64)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (14:64)"
 subTitle: Unterhaltung auf einem Straßenschild
   
 ---

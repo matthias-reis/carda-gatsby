@@ -2,7 +2,7 @@
 title: Ein Königreich für eine Kartoffel
 seoTitle: Ein Königreich für eine Kartoffel - Kartoffelauflauf mit Pastinake
 slug: ein-koenigreich-fur-eine-kartoffel
-link: /2014/11/ein-koenigreich-fur-eine-kartoffel/
+path: /2014/11/ein-koenigreich-fur-eine-kartoffel/
 fileName: 2014-11---ein-koenigreich-fuer-eine-kartoffel.md
 description: Die Kartoffel - Eine wunderbare Knolle. Man kann so vieles damit
   anstellen. Ich verrate Euch heute mein Rezept für Kartoffelauflauf mit
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9271"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Auflauf mit Pastinaken und Kartoffeln
   
 ---

@@ -2,7 +2,7 @@
 title: Franka Potente kämpft mit PETA für die Rechte der Tiere
 seoTitle: Franka Potente kämpft mit PETA für die Rechte der Tiere
 slug: franka-potente-peta
-link: /2017/11/franka-potente-peta/
+path: /2017/11/franka-potente-peta/
 fileName: 2017-11---franka-potente-kaempft-mit-peta-fuer-die-rechte-der-tiere.md
 description: Franka Potente lebt vegan. Warum sie das tut, hat sie jetzt
   berichtet. Mit einem Film möchte sie auf das Leid der Schweine hinweisen.
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18543"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Arme Sau - So leiden die Schweine
   
 ---

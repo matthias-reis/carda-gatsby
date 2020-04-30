@@ -2,7 +2,7 @@
 title: Keine Panik! Am 25. Mai ist Towel Day!
 seoTitle: Keine Panik! Am 25. April ist Towel Day!
 slug: towel-day
-link: /2013/05/towel-day/
+path: /2013/05/towel-day/
 fileName: 2013-05---keine-panik-am-25-mai-ist-towel-day.md
 description: Der International Towel Day wird am 25. April wieder zu Ehren von
   Sir Douglas Adams gefeiert. Höchste Zeit, die Vorbereitungen dafür zu treffen!
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5442"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Sache mit den Handtüchern
   
 ---

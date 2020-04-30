@@ -2,7 +2,7 @@
 title: Kushel im Test
 seoTitle: Kushel im Test - Nachhaltige Handtücher aus Holz
 slug: kushel-im-test
-link: /2018/10/kushel-im-test/
+path: /2018/10/kushel-im-test/
 fileName: 2018-10---kushel-im-test.md
 description: Dass ich immer neugierig auf interessante nachhaltige Start-ups
   bin, ist kein Geheimnis. Vor Kurzem habe ich "Kushel" für mich entdeckt.
@@ -28,8 +28,7 @@ isAffiliate: false
 thumbnailId: "22467"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (67:65)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (67:65)"
 subTitle: Nachhaltige Handtücher als Holz
   
 ---

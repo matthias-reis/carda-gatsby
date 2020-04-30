@@ -2,7 +2,7 @@
 title: Zucchinisuppe - Herbstlich vegan
 seoTitle: Zucchinisuppe - Herbstlich vegan
 slug: zucchinisuppe-herbstlich-vegan
-link: /2015/09/zucchinisuppe-herbstlich-vegan/
+path: /2015/09/zucchinisuppe-herbstlich-vegan/
 fileName: 2015-09---zucchinisuppe-herbstlich-vegan.md
 description: Wir haben eine sehr große Zucchini geschenkt bekommen. Was ich
   daraus gemacht habe, zeige ich Euch heute. Die Zucchinisuppe könnt Ihr ganz
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12630"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept für eine große Zucchini
   
 ---

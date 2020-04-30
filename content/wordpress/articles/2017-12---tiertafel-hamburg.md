@@ -2,7 +2,7 @@
 title: Tiertafel Hamburg
 seoTitle: Weihnachts-Futterausgabe der Tiertafel Hamburg - Herz für Tier & Mensch
 slug: weihnachtsfutterausgabe-bei-der-tiertafel-hamburg
-link: /2017/12/weihnachtsfutterausgabe-bei-der-tiertafel-hamburg/
+path: /2017/12/weihnachtsfutterausgabe-bei-der-tiertafel-hamburg/
 fileName: 2017-12---tiertafel-hamburg.md
 description: Heute fand die Weihnachts-Futterausgabe der Tiertafel Hamburg
   statt. Vor allem Spezialfutter war sehr gefragt. Spendet für die nächste
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18666"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Weihnachts-Futterausgabe
   
 ---

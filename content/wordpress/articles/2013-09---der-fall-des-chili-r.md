@@ -2,7 +2,7 @@
 title: Der Fall des Chili R.
 seoTitle: Der Fall des Chili R.
 slug: der-fall-des-chili-r
-link: /2013/09/der-fall-des-chili-r/
+path: /2013/09/der-fall-des-chili-r/
 fileName: 2013-09---der-fall-des-chili-r.md
 description: ""
 excerpt: "\n               \ \n            "
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein aufschlussreiches Gespräch mit einem Tierchirurgen
   
 ---

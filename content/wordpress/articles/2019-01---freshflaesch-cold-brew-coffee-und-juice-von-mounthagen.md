@@ -2,7 +2,7 @@
 title: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen
 seoTitle: Freshfläsch - Cold Brew Coffee & Juice von Mounthagen im Test
 slug: freshflaesch-cold-brew-coffee-juice-von-mounthagen
-link: /2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/
+path: /2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/
 fileName: 2019-01---freshflaesch-cold-brew-coffee-und-juice-von-mounthagen.md
 description: 'Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee her.
   Jetzt gibt es etwas ganz Neues vom Hamburger Röster: "Coffee & Juice" in der
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23341"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neue Wachmacher aus Hamburg
   
 ---

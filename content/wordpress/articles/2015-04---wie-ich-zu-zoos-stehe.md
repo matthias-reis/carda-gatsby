@@ -2,7 +2,7 @@
 title: Wie ich zu Zoos stehe
 seoTitle: Wie ich als Veganerin zu Zoos stehe - Tierquälerei oder Artenerhalt?
 slug: wie-ich-zu-zoos-stehe
-link: /2015/04/wie-ich-zu-zoos-stehe/
+path: /2015/04/wie-ich-zu-zoos-stehe/
 fileName: 2015-04---wie-ich-zu-zoos-stehe.md
 description: "Vegan und jetzt? Wie stehst Du denn eigentlich zu Zoos? Eines ist
   mal sicher: Enge Gehege sind nicht der richtige Ort für Bären, Tiger und
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4885"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tierquälerei oder Artenerhalt?
   
 ---

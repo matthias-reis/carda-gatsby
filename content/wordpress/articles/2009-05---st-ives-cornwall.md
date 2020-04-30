@@ -2,7 +2,7 @@
 title: St. Ives, Cornwall
 seoTitle: St. Ives, Cornwall - Anne bloggt cardamonchai
 slug: st-ives-cornwall-16-05-2009
-link: /2009/05/st-ives-cornwall-16-05-2009/
+path: /2009/05/st-ives-cornwall-16-05-2009/
 fileName: 2009-05---st-ives-cornwall.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: St. Ives"
 excerpt: Der wohl berühmteste Surfspot Südenglands ist St. Ives - hier trifft
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11252"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 12/17
   
 ---

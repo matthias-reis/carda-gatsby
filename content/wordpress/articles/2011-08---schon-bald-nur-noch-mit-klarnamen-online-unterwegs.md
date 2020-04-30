@@ -2,7 +2,7 @@
 title: Schon bald nur noch mit Klarnamen online unterwegs
 seoTitle: Klarnamen im Internet - werden wir permanent überwacht?
 slug: klarnamen-internet
-link: /2011/08/klarnamen-internet/
+path: /2011/08/klarnamen-internet/
 fileName: 2011-08---schon-bald-nur-noch-mit-klarnamen-online-unterwegs.md
 description: Seitdem es das Internet gibt, kommt immer wieder die Diskussion
   über Klarnamen auf. Durch die Ereignisse in Norwegen kocht die Debatte nun
@@ -88,8 +88,7 @@ isAffiliate: false
 thumbnailId: "2296"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <div> (23:76)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (23:76)"
 subTitle: Werden wir überwacht?
   
 ---

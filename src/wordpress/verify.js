@@ -15,7 +15,7 @@ module.exports = async (l, e, data) => {
 ${data.content}
 -->
 `;
-    data.meta.errors.push({ type: 'invalidMdx', message });
+    data.meta.errors.invalidMdx = message;
     data.status = 'invalid';
     e(counter, bold(data.meta.fileName), message);
   }

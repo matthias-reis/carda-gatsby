@@ -2,7 +2,7 @@
 title: Burg Herzberg Festival 2012
 seoTitle: Burg Herzberg Festival 2012
 slug: burg-herzberg-festival-2012
-link: /2012/08/burg-herzberg-festival-2012/
+path: /2012/08/burg-herzberg-festival-2012/
 fileName: 2012-08---burg-herzberg-festival-2012.md
 description: Im Juli fand in Breitenbach am Herzberg das Burg Herzberg Festival
   statt. Nach 4 Stunden Wegzeit und 15 Stunden Stau konnten die tollen Bands
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3597"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sonne, Schlamm und gute Laune
   
 ---

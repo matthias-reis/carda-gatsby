@@ -2,7 +2,7 @@
 title: Cardagoogle
 seoTitle: Suchbegriffe auf cardamonchai
 slug: hitliste-der-suchbegriffe-die-auf-cardamonchai-gefuehrt-haben
-link: /2011/05/hitliste-der-suchbegriffe-die-auf-cardamonchai-gefuehrt-haben/
+path: /2011/05/hitliste-der-suchbegriffe-die-auf-cardamonchai-gefuehrt-haben/
 fileName: 2011-05---cardagoogle.md
 description: Eine Liste seltsamer Suchbegriffe, die Menschen auf meine Seite geleitet haben.
 excerpt: Eine Liste seltsamer Suchbegriffe, die Menschen auf meine Seite geleitet haben.
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10947"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Hitliste der Suchbegriffe, die auf cardamonchai.com führten
   
 ---

@@ -2,7 +2,7 @@
 title: Soja, Klimaschutz und ökologischer Fussabdruck
 seoTitle: Soja, Klimaschutz und ökologischer Fussabdruck
 slug: soja-klimaschutz-oekologischer-fussabdruck
-link: /2014/07/soja-klimaschutz-oekologischer-fussabdruck/
+path: /2014/07/soja-klimaschutz-oekologischer-fussabdruck/
 fileName: 2014-07---soja-klimaschutz-und-oekologischer-fussabdruck.md
 description: Ein fairer ökologischer Fussabdruck soll aber nur 1.8 Hektar groß
   sein. Denn wenn alle deinen Lebensstil haben, benötigen wir 2.66 Erden.
@@ -53,7 +53,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8113"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil I
   
 ---

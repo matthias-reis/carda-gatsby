@@ -65,8 +65,8 @@
   "main": "n/a",
   "scripts": {
     "clean": "gatsby clean",
-    "start": "npm run develop",
-    "build": "gatsby build",
+    "start": "yarn develop",
+    "build": "yarn clean && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "jest",
@@ -75,6 +75,7 @@
     "p": "node ./src/wordpress/prettier"
   },
   "devDependencies": {
+    "cypress": "^4.5.0",
     "eslint-plugin-mdx": "^1.6.9",
     "prettier": "^2.0.4",
     "rxjs": "^6.5.5"

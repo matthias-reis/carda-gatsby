@@ -2,7 +2,7 @@
 title: Fröhliche Weihnachten! Fröhliche Weihnachten?
 seoTitle: Fröhliche Weihnachten! Fröhliche Weihnachten? - Gedanken zum Fest
 slug: froehliche-weihnachten-froehliche-weihnachten
-link: /2016/12/froehliche-weihnachten-froehliche-weihnachten/
+path: /2016/12/froehliche-weihnachten-froehliche-weihnachten/
 fileName: 2016-12---froehliche-weihnachten-froehliche-weihnachten.md
 description: Seid Ihr auch so nachdenklich gerade? Ich habe versucht, die
   aktuelle Stimmung mal in Worte zu fassen. Bald ist Weihnachten - Und was ist
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15583"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gedanken zum Fest
   
 ---

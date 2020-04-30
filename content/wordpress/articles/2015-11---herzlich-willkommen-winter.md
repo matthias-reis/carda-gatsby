@@ -2,7 +2,7 @@
 title: Herzlich Willkommen, Winter!
 seoTitle: Herzlich Willkommen, Winter! - Instagram-Galerie
 slug: herzlich-willkommen-winter
-link: /2015/11/herzlich-willkommen-winter/
+path: /2015/11/herzlich-willkommen-winter/
 fileName: 2015-11---herzlich-willkommen-winter.md
 description: Am Sonntag haben wir bei einem kleinen Spaziergang den Winter
   standesgemäß begrüßt. Hier sind meine Bilder.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13148"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Instagram-Galerie
   
 ---

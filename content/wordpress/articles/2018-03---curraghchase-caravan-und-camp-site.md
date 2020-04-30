@@ -2,7 +2,7 @@
 title: Curraghchase Caravan & Camp Site
 seoTitle: Curraghchase Caravan & Camp Site - Ein Hauch von Twin Peaks
 slug: curraghchase-caravan-camp-site
-link: /2018/03/curraghchase-caravan-camp-site/
+path: /2018/03/curraghchase-caravan-camp-site/
 fileName: 2018-03---curraghchase-caravan-und-camp-site.md
 description: "Heute können die Camper unter Euch sich mal einen echten
   Geheimtipp bei mir abholen: Der Curraghchase Caravan & Camp Site ist etwas
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19756"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Hauch von Twin Peaks in Irland
   
 ---

@@ -2,7 +2,7 @@
 title: Earthlings Unity
 seoTitle: Earthlings Unity - der neue Film von Shaun Monson
 slug: earthlings-unity
-link: /2015/04/earthlings-unity/
+path: /2015/04/earthlings-unity/
 fileName: 2015-04---earthlings-unity.md
 description: Der neue Film von Shaun Monson "Earthlings Unity" knüpft dort an,
   wo der erste Teil des Films "Earthlings" von 2005 aufhört.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27452"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der neue Film von Shaun Monson
   
 ---

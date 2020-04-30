@@ -2,7 +2,7 @@
 title: Stadt der Autos
 seoTitle: Stadt der Autos - Impressionen aus Ingolstadt
 slug: ingolstadt-stadt-der-autos
-link: /2011/06/ingolstadt-stadt-der-autos/
+path: /2011/06/ingolstadt-stadt-der-autos/
 fileName: 2011-06---stadt-der-autos.md
 description: In der Stadt der Autos Ingolstadt habe ich nicht nur fahrbare
   Untersätze fotografiert. Seht am besten einfach selbst nach.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2009"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Impressionen aus Ingolstadt
   
 ---

@@ -2,7 +2,7 @@
 title: BLACKMAIL live @ Kantine Augsburg
 seoTitle: Blackmail live @ Kantine Augsburg - mein Konzertbericht
 slug: blackmail-live-kantine-augsburg
-link: /2008/12/blackmail-live-kantine-augsburg/
+path: /2008/12/blackmail-live-kantine-augsburg/
 fileName: 2008-12---blackmail-live-kantine-augsburg.md
 description: Blackmail rockten am Abend des 10. Dezember 2008 die Bühne in der
   Augsburger Kantine...
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11024"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aktuelle Songs und alte Hits
   
 ---

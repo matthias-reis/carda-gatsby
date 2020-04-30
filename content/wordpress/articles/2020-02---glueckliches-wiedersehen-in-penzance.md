@@ -2,7 +2,7 @@
 title: Glückliches Wiedersehen in Penzance
 seoTitle: Glückliches Wiedersehen in Penzance, Cornwall
 slug: penzance
-link: /2020/02/penzance/
+path: /2020/02/penzance/
 fileName: 2020-02---glueckliches-wiedersehen-in-penzance.md
 description: Nach Penzance zieht es mich immer wieder. Ich liebe das Flair des
   Piratenortes an der Küste von Cornwall. Das Klima ist dort mild und der Wind
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27341"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Cornwall meine große Liebe
   
 ---

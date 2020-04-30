@@ -2,7 +2,7 @@
 title: Die einzige Kaffeeplantage Europas
 seoTitle: Die einzige Kaffeeplantage Europas - Zu Besuch in der Finca La Laja
 slug: die-einzige-kaffeeplantage-europas
-link: /2017/09/die-einzige-kaffeeplantage-europas/
+path: /2017/09/die-einzige-kaffeeplantage-europas/
 fileName: 2017-09---die-einzige-kaffeeplantage-europas.md
 description: Bereist man Gran Canaria, lohnt sich auch ein Besuch auf der
   einzigen Kaffeeplantage Europas. Dort gibt es neben einer Rösterei noch vieles
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17911"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zu Besuch in der Finca La Laja in Agaete
   
 ---

@@ -2,7 +2,7 @@
 title: Ist Pelztierhaltung vielleicht schon bald verboten?
 seoTitle: Ist Pelztierhaltung schon bald flächendeckend verboten?
 slug: ist-pelztierhaltung-vielleicht-schon-bald-verboten
-link: /2016/03/ist-pelztierhaltung-vielleicht-schon-bald-verboten/
+path: /2016/03/ist-pelztierhaltung-vielleicht-schon-bald-verboten/
 fileName: 2016-03---ist-pelztierhaltung-vielleicht-schon-bald-verboten.md
 description: Die Haltung von Iltissen, Nerzen, Rotfüchsen, Chinchillas und
   Bibern zur Herstellung von Pelzen und auch Ölen soll erboten werden -
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25590"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesetzänderung mit Vorsicht zu genießen
   
 ---

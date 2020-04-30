@@ -3,7 +3,7 @@ title: Streetart und Schrebergarten
 seoTitle: Streetart und Schrebergarten - Die Unbeschwerte auf der Laubentür -
   Eine Kurzgeschichte
 slug: streetart-und-schrebergarten
-link: /2017/10/streetart-und-schrebergarten/
+path: /2017/10/streetart-und-schrebergarten/
 fileName: 2017-10---streetart-und-schrebergarten.md
 description: Mit Björn von Gartenbaukunst teile ich nicht nur die Liebe für
   Gärten. Auch Streetart fasziniert uns beide gleichermaßen. Er hat beides
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18051"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Unbeschwerte auf der Laubentür
   
 ---

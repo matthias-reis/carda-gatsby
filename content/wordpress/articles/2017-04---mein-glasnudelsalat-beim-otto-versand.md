@@ -2,7 +2,7 @@
 title: Mein Glasnudelsalat beim Otto Versand
 seoTitle: Veganer Glasnudelsalat made by Anne goes Otto Versand - Mein Rezept bei Otto
 slug: veganer-glasnudelsalat-made-by-anne-goes-otto-versand
-link: /2017/04/veganer-glasnudelsalat-made-by-anne-goes-otto-versand/
+path: /2017/04/veganer-glasnudelsalat-made-by-anne-goes-otto-versand/
 fileName: 2017-04---mein-glasnudelsalat-beim-otto-versand.md
 description: Mein Rezept ist soeben im Bloggerbereich beim Otto Versand
   erschienen! Schick oder? Wenns darum geht, zu zeigen, wie gutes Essen geht,
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16216"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mango, Chili &amp; Cashews
   
 ---

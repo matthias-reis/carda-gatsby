@@ -2,7 +2,7 @@
 title: Umweltaktivist Florian Früchel im Interview
 seoTitle: Der Wächter des Waldes im Interview - "Mir ist egal, was andere denken!"
 slug: umweltaktivist-waechter-des-waldes-florian-fruechel-interview
-link: /2019/09/umweltaktivist-waechter-des-waldes-florian-fruechel-interview/
+path: /2019/09/umweltaktivist-waechter-des-waldes-florian-fruechel-interview/
 fileName: 2019-09---umweltaktivist-florian-fruechel-im-interview.md
 description: Umweltaktivist Florian geht regelmäßig mit seinem Fahrradanhänger
   in den Wald und sammelt Müll ein. Ich habe den Wächter des Waldes jetzt
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26398"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Mir ist egal, was die Leute denken - ich versuche, die Welt zu retten!"'
   
 ---

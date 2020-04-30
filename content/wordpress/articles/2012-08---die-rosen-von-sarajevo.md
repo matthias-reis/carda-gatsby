@@ -2,7 +2,7 @@
 title: Die Rosen von Sarajevo
 seoTitle: Die Rosen von Sarajewo
 slug: die-rosen-von-sarajevo
-link: /2012/08/die-rosen-von-sarajevo/
+path: /2012/08/die-rosen-von-sarajevo/
 fileName: 2012-08---die-rosen-von-sarajevo.md
 description: Die Bürger von Sarajevo haben die Stellen, an denen Menschen von
   Granaten getötet wurden mit Rosen gekennzeichnet.
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4074"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Für die Granatenopfer des Bosnienkrieges
   
 ---

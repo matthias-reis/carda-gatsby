@@ -2,7 +2,7 @@
 title: Muckross House und Torc Waterfall
 seoTitle: Muckross House und Torc Waterfall - Herrenhaus und Nationalpark
 slug: muckross-house-und-torc-waterfall-irland
-link: /2018/02/muckross-house-und-torc-waterfall-irland/
+path: /2018/02/muckross-house-und-torc-waterfall-irland/
 fileName: 2018-02---muckross-house-und-torc-waterfall.md
 description: Muckross House und der Torc Waterfall am Torc Mountain laden zu
   ausgedehnten Wanderungen und Fototouren ein. Irland ist einfach etwas ganz
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19430"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Herrenhaus und Nationalpark in Irland
   
 ---

@@ -2,7 +2,7 @@
 title: Ein Hauch von Frühling in Cuxhaven
 seoTitle: Ein Hauch von Frühling in Cuxhaven - Besuch an der Nordsee
 slug: ein-hauch-von-fruehling-in-cuxhaven
-link: /2019/02/ein-hauch-von-fruehling-in-cuxhaven/
+path: /2019/02/ein-hauch-von-fruehling-in-cuxhaven/
 fileName: 2019-02---ein-hauch-von-fruehling-in-cuxhaven.md
 description: Am Sonntag hatten wir hier schon echtes Frühlingswetter. Wir haben
   das zum Anlass genommen, mal wieder einen Ausflug nach Cuxhaven zu machen.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23540"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ausflug ans Meer
   
 ---

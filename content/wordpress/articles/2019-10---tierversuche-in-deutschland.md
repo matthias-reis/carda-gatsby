@@ -2,7 +2,7 @@
 title: Tierversuche in Deutschland
 seoTitle: Tierversuche in Deutschland - die grausame Realität
 slug: tierversuche-in-deutschland
-link: /2019/10/tierversuche-in-deutschland/
+path: /2019/10/tierversuche-in-deutschland/
 fileName: 2019-10---tierversuche-in-deutschland.md
 description: Noch heute finden in Deutschland täglich Tierversuche statt. In
   Hamburg deckten die SOKO Tierschutz und Cruelty Free International jetzt
@@ -31,8 +31,7 @@ isAffiliate: false
 thumbnailId: "26562"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: 'unknown: Unexpected token, expected "}" (15:21)'
+  invalidMdx: 'unknown: Unexpected token, expected "}" (15:21)'
 subTitle: Die traurige Realität
   
 ---

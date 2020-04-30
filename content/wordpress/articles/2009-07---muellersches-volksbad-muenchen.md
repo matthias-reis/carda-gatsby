@@ -2,7 +2,7 @@
 title: Müllersches Volksbad München
 seoTitle: Müllersches Volksbad München
 slug: muellersches-volksbad-muenchen
-link: /2009/07/muellersches-volksbad-muenchen/
+path: /2009/07/muellersches-volksbad-muenchen/
 fileName: 2009-07---muellersches-volksbad-muenchen.md
 description: Das Müllersche Volksbad in München
 excerpt: Das Müllersche Volksbad in München ist auch mal ein Foto wert.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11415"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Auch mal ein Foto wert
   
 ---

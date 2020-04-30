@@ -2,7 +2,7 @@
 title: Matthias Oomen von Bündnis 90 / Die Grünen
 seoTitle: Interview mit Matthias Oomen von Bündnis 90 / Die Grünen
 slug: matthias-oomen-buendnis-90-die-gruenen-interview
-link: /2015/03/matthias-oomen-buendnis-90-die-gruenen-interview/
+path: /2015/03/matthias-oomen-buendnis-90-die-gruenen-interview/
 fileName: 2015-03---matthias-oomen-von-buendnis-90-die-gruenen.md
 description: Ich habe mich mit Matthias Oomen von Bündnis 90 / Die Grünen
   darüber unterhalten, warum es derzeit in deutschen Städten immer mehr
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10846"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Obdachlose wie Menschen behandeln!"'
   
 ---

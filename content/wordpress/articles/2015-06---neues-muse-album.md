@@ -2,7 +2,7 @@
 title: Neues Muse Album
 seoTitle: Muse - Drones ist endlich da - Rezension
 slug: muse-drones-ist-endlich-da
-link: /2015/06/muse-drones-ist-endlich-da/
+path: /2015/06/muse-drones-ist-endlich-da/
 fileName: 2015-06---neues-muse-album.md
 description: Ich weiß, ich habe Euch lange auf meine Rezension zum neuen
   Muse-Album "Drones" warten lassen. Sorry dafür - Hier ist sie nun endlich.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12009"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Drones" ist endlich da'
   
 ---

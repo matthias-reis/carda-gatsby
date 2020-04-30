@@ -2,7 +2,7 @@
 title: Die Alameda Gärten von Gibraltar
 seoTitle: Die Alameda Gärten von Gibraltar
 slug: die-alameda-gaerten-von-gibraltar
-link: /2020/03/die-alameda-gaerten-von-gibraltar/
+path: /2020/03/die-alameda-gaerten-von-gibraltar/
 fileName: 2020-03---die-alameda-gaerten-von-gibraltar.md
 description: In den Alameda Gärten am Fuße des Gibraltarfelsens gedeihen die
   schönsten Pflanzen. Sie werden bewusst torffrei betrieben. Auf Pestizide wird
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28770"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Botanische Vielfalt im Süden
   
 ---

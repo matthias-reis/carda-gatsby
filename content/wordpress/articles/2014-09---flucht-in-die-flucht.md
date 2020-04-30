@@ -2,7 +2,7 @@
 title: '"Flucht in die Flucht"'
 seoTitle: '"Flucht in die Flucht"'
 slug: flucht-in-die-flucht
-link: /2014/09/flucht-in-die-flucht/
+path: /2014/09/flucht-in-die-flucht/
 fileName: 2014-09---flucht-in-die-flucht.md
 description: Als ich das erste Mal DIE STERNE hörte, war ich 14 Jahre alt. Heut
   haben sie ihr neues Album "Flucht in die Flucht" veröffentlicht
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8725"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>Das neue DIE STERNE Album ist endlich da</strong>
   
 ---

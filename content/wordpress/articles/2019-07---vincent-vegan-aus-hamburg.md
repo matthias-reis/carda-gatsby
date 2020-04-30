@@ -2,7 +2,7 @@
 title: Vincent Vegan aus Hamburg
 seoTitle: Vincent Vegan - vom Geheimtipp zum Fastfood Superstar
 slug: vincent-vegan-aus-hamburg
-link: /2019/07/vincent-vegan-aus-hamburg/
+path: /2019/07/vincent-vegan-aus-hamburg/
 fileName: 2019-07---vincent-vegan-aus-hamburg.md
 description: Spricht sich ein Geheimtipp herum, kann es passieren, dass er bald
   in aller Munde ist. Genau so war das auch mit Vincent Vegan. Und das ist gut
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25572"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vom Geheimtipp zum Fastfood Superstar
   
 ---

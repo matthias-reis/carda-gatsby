@@ -2,7 +2,7 @@
 title: Die ultimative Festivalliste 2011
 seoTitle: Festivalliste 2011 - das solltet Ihr auf jeden Fall einpacken
 slug: die-ultimative-festivalliste-2011
-link: /2011/05/die-ultimative-festivalliste-2011/
+path: /2011/05/die-ultimative-festivalliste-2011/
 fileName: 2011-05---die-ultimative-festivalliste-2011.md
 description: "Die Tickets sind geordert, der Zeltplatz ausgesucht, die Bands auf
   dem Timetable markiert. Stellt sich nur noch die Frage: Was mitnehmen?"
@@ -56,7 +56,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "1983"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: So langsam rückt die Festivalsaison immer näher
   
 ---

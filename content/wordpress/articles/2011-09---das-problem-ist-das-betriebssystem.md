@@ -2,7 +2,7 @@
 title: Das Problem ist das Betriebssystem
 seoTitle: Das Problem ist das Betriebssystem
 slug: das-problem-ist-das-betriebssystem
-link: /2011/09/das-problem-ist-das-betriebssystem/
+path: /2011/09/das-problem-ist-das-betriebssystem/
 fileName: 2011-09---das-problem-ist-das-betriebssystem.md
 description: Das Problem ist das Betriebssystem - eine humoristische
   Unterhaltung zwischen Sissi uns ihrem Franzl.
@@ -54,8 +54,7 @@ isAffiliate: false
 thumbnailId: "11609"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (57:59)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:59)"
 subTitle: Zurück in die Zukunft
   
 ---

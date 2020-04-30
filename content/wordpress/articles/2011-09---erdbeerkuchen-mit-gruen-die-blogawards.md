@@ -2,7 +2,7 @@
 title: Erdbeerkuchen mit Grün - Die Blogawards
 seoTitle: Erdbeerkuchen mit Grün - ich bin beim Blogaward dabei
 slug: erdbeerkuchen-mit-gruen-die-blogawards
-link: /2011/09/erdbeerkuchen-mit-gruen-die-blogawards
+path: /2011/09/erdbeerkuchen-mit-gruen-die-blogawards
 fileName: 2011-09---erdbeerkuchen-mit-gruen-die-blogawards.md
 description: Einen "Erdbeerkuchen mit Grün" hätte ich für mein Blog verliehen
   bekommen, teilte mir erinnye von Störstoff, dem Schreibkombinat am Wochenende
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11616"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Preisverleihung
   
 ---

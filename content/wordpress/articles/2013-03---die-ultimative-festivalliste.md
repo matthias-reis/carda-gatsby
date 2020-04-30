@@ -2,7 +2,7 @@
 title: Die ultimative Festivalliste
 seoTitle: Die ultimative Festivalliste - So vergesst Ihr garantiert nichts!
 slug: die-ultimative-festivalliste
-link: /2013/03/die-ultimative-festivalliste/
+path: /2013/03/die-ultimative-festivalliste/
 fileName: 2013-03---die-ultimative-festivalliste.md
 description: Mit der ultimativen Festivalliste vergesst Ihr garantiert nie
   wieder was und könnt das nächste Festival in vollen Zügen genießen. Bei jedem
@@ -80,7 +80,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5040"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Perfekt ausgerüstet durch die Festival-Saison
   
 ---

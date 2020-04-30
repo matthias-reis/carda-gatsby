@@ -2,7 +2,7 @@
 title: Der Volkspark Altona im Januar
 seoTitle: Der Volkspark Altona im Januar - Streetart und Waldluft
 slug: der-volkspark-altona-im-januar
-link: /2019/01/der-volkspark-altona-im-januar/
+path: /2019/01/der-volkspark-altona-im-januar/
 fileName: 2019-01---der-volkspark-altona-im-januar.md
 description: Nach einer ruhigen ersten Januarwoche ging es heute raus an die
   frische Luft. Mit der S-Bahn nach Stellingen und von dort aus direkt in den
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23192"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Streetart und Waldluft
   
 ---

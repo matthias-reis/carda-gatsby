@@ -2,7 +2,7 @@
 title: Kilkenny Castle
 seoTitle: Kilkenny Castle - Ein Schloss mit vielen Gesichtern
 slug: kilkenny-castle
-link: /2017/11/kilkenny-castle/
+path: /2017/11/kilkenny-castle/
 fileName: 2017-11---kilkenny-castle.md
 description: Das weltberühmte Kilkenny Castle befindet sich auf einer leichten
   Anhöhe oberhalb der Stadt. Es blickt auf eine lange, bewegte Geschichte
@@ -34,8 +34,7 @@ isAffiliate: false
 thumbnailId: "18345"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (51:73)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (51:73)"
 subTitle: Ein Schloss mit vielen Gesichtern
   
 ---

@@ -2,7 +2,7 @@
 title: Wirsing-Kartoffelkuchen aus der Pfanne
 seoTitle: Kartoffelkuchen mit Wirsing aus der Pfanne - Veganes Rezept
 slug: wirsing-kartoffelkuchen-aus-der-pfanne
-link: /2014/11/wirsing-kartoffelkuchen-aus-der-pfanne/
+path: /2014/11/wirsing-kartoffelkuchen-aus-der-pfanne/
 fileName: 2014-11---wirsing-kartoffelkuchen-aus-der-pfanne.md
 description: Kartoffelkuchen mit Wirsing aus der Pfanne - Ein ganz
   traditionelles Rezept aus Andorra stelle ich Euch heute in der veganen
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9180"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nach einem traditionellen Rezept aus Andorra
   
 ---

@@ -2,7 +2,7 @@
 title: Mikroplastik in der Kosmetikindustrie
 seoTitle: Mikroplastik in der Kosmetikindustrie - Umweltsünden aus der Tube
 slug: mikroplastik-in-der-kosmetik
-link: /2018/05/mikroplastik-in-der-kosmetik/
+path: /2018/05/mikroplastik-in-der-kosmetik/
 fileName: 2018-05---mikroplastik-in-der-kosmetikindustrie.md
 description: Heute möchte ich mich dem Thema Mikroplastik in der
   Kosmetikindustrie widmen. Dabei ist es mir besonders wichtig, keinen Aspekt
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20855"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Umweltsünden aus der Tube
   
 ---

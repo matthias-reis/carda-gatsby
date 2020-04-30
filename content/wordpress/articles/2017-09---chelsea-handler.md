@@ -2,7 +2,7 @@
 title: Chelsea Handler
 seoTitle: 'Chelsea Handler sagt "Männer: Hört auf uns zu sagen, wir sollen lächeln!"'
 slug: chelsea-handler-maenner-frauen-laecheln
-link: /2017/09/chelsea-handler-maenner-frauen-laecheln/
+path: /2017/09/chelsea-handler-maenner-frauen-laecheln/
 fileName: 2017-09---chelsea-handler.md
 description: Chelsea Handler, Comedian und Talkmasterin macht Schluss mit
   lustig. Sie sieht es nicht mehr ein, dass Männer ständig fremde Frauen zum
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17949"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Männer: Hört auf uns zu sagen, wir sollen lächeln!"'
   
 ---

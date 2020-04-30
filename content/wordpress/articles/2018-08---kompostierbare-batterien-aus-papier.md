@@ -2,7 +2,7 @@
 title: Kompostierbare Batterien aus Papier
 seoTitle: Kompostierbare Batterien aus Papier - Nachhaltige Entwicklung
 slug: batterien-aus-papier
-link: /2018/08/batterien-aus-papier/
+path: /2018/08/batterien-aus-papier/
 fileName: 2018-08---kompostierbare-batterien-aus-papier.md
 description: "Forscher aus den USA haben Batterien aus Papier entwickelt. Der
   Clou: Sie können sich im Wasser vollständig auflösen und sind vollkommen
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21742"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nachhaltige Entwicklung endlich da
   
 ---

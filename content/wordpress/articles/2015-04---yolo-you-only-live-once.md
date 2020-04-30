@@ -2,7 +2,7 @@
 title: YOLO - You only live once
 seoTitle: YOLO - You only live once
 slug: yolo-you-only-live-once
-link: /2015/04/yolo-you-only-live-once/
+path: /2015/04/yolo-you-only-live-once/
 fileName: 2015-04---yolo-you-only-live-once.md
 description: YOLO - You only live once - Wo kommt dieser Ausdruck eigentlich
   her? Und was bedeutet er genau? Ich habe das mal aufgeschrieben...
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11898"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Einfach nicht lange überlegen!
   
 ---

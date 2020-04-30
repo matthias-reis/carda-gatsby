@@ -2,7 +2,7 @@
 title: Birdwatching am Timmendorfer Strand
 seoTitle: Birdwatching am Timmendorfer Strand
 slug: birdwatching-am-timmendorfer-strand
-link: /2015/11/birdwatching-am-timmendorfer-strand/
+path: /2015/11/birdwatching-am-timmendorfer-strand/
 fileName: 2015-11---birdwatching-am-timmendorfer-strand.md
 description: Bei strahlendem Sonnenschein sind uns gestern am Timmendorfer
   Strand unter anderem Kormorane und verschiedene Möwen begegnet. Hier sind
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13049"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sonne am 1. November
   
 ---

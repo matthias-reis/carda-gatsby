@@ -2,7 +2,7 @@
 title: El iris de Lucy
 seoTitle: El iris de Lucy - Eine packende Ausstellung in Las Palmas
 slug: el-iris-de-lucy-las-palmas
-link: /2017/06/el-iris-de-lucy-las-palmas/
+path: /2017/06/el-iris-de-lucy-las-palmas/
 fileName: 2017-06---el-iris-de-lucy.md
 description: "Bei unserem Aufenthalt in Las Palmas im Mai war stand auch Kunst
   auf dem Programm. Genauer: Die packende Ausstellung EL IRIS DE LUCY im CAAM."
@@ -61,7 +61,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16781"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zeitgenössische Künstlerinnen Afrikas im CAAM in Las Palmas
   
 ---

@@ -2,7 +2,7 @@
 title: Schneeweißchen und Rosenrot
 seoTitle: Schneeweißchen und Rosenrot - Erinnerungen an den Sommer in England
 slug: schneeweis-und-rosenrot
-link: /2012/08/schneeweis-und-rosenrot/
+path: /2012/08/schneeweis-und-rosenrot/
 fileName: 2012-08---schneeweisschen-und-rosenrot.md
 description: Im Eden Project in St. Austell habe ich einige der schönsten Rosen
   überhaubt gesehen. Natürlich habe ich sie fotografiert.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3732"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 9/9
   
 ---

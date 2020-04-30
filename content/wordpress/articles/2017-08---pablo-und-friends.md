@@ -2,7 +2,7 @@
 title: Pablo & Friends
 seoTitle: Pablo & Friends - Handgemachte Avocado-Postkarten aus Hamburg
 slug: pablo-friends-sympathische-avocados
-link: /2017/08/pablo-friends-sympathische-avocados/
+path: /2017/08/pablo-friends-sympathische-avocados/
 fileName: 2017-08---pablo-und-friends.md
 description: "Eines habe ich mit Ellen und Mario gemeinsam: Genau wie ich lieben
   sie Avocados. Darum haben sie Pablo & Friends gegründet und verkaufen
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17304"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Handgemachte Postkarten aus Hamburg
   
 ---

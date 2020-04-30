@@ -2,7 +2,7 @@
 title: Hüttenschuhe von Gumbies
 seoTitle: Hüttenschuhe von Gumbies - warme Füße in veganen Puschen
 slug: huettenschuhe-von-gumbies
-link: /2019/09/huettenschuhe-von-gumbies/
+path: /2019/09/huettenschuhe-von-gumbies/
 fileName: 2019-09---huettenschuhe-von-gumbies.md
 description: Gumbies habe ich Euch hier im Blog bereits vorgestellt. Seit
   neuestem gibt es jetzt auch vegane Hüttenschuhe vom Bielefelder Upcycling
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26471"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>Warme Füße in veganen Puschen</strong>
   
 ---

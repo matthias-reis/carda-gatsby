@@ -2,7 +2,7 @@
 title: Warum wir Veränderungen zulassen sollten
 seoTitle: Warum wir Veränderungen zulassen sollten - neu ist gut
 slug: veraenderungen-sind-gut
-link: /2019/06/veraenderungen-sind-gut/
+path: /2019/06/veraenderungen-sind-gut/
 fileName: 2019-06---warum-wir-veraenderungen-zulassen-sollten.md
 description: Veränderung ist wichtig. Wir sollten sie nicht nur zulassen,
   sondern aktiv danach verlangen und an ihr arbeiten. Nur so werden wir
@@ -34,8 +34,7 @@ isAffiliate: false
 thumbnailId: "24293"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (77:12)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (77:12)"
 subTitle: Neu ist gut
   
 ---

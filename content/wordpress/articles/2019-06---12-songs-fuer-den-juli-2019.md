@@ -2,7 +2,7 @@
 title: 12 Songs für den Juli 2019
 seoTitle: 12 Songs für den Juli - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-juli
-link: /2019/06/12-songs-fuer-den-juli/
+path: /2019/06/12-songs-fuer-den-juli/
 fileName: 2019-06---12-songs-fuer-den-juli-2019.md
 description: "Ich melde mich heute ganz kurz und knapp bei Euch, um Euch die
   zwölf Songs für den Juli mitzuteilen - mit dabei: Tool und Feine Sahne
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24631"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

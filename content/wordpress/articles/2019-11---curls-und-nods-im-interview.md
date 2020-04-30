@@ -2,7 +2,7 @@
 title: Curls & Nods im Interview
 seoTitle: Curls & Nods im Interview - jazzy Vibes aus Münster
 slug: curls-nods-im-interview
-link: /2019/11/curls-nods-im-interview/
+path: /2019/11/curls-nods-im-interview/
 fileName: 2019-11---curls-und-nods-im-interview.md
 description: Curls & Nods haben mich mit ihrem genialen Sound sofort in ihren
   Bann gezogen. Jetzt haben sich Baronski und derkalavier meinem Interview
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26907"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Jazzy Vibes aus Münster
   
 ---

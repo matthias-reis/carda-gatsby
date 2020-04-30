@@ -2,7 +2,7 @@
 title: Butternusskürbis aus dem Ofen
 seoTitle: Butternusskürbis aus dem Ofen - Herbstlich, bunt und saftig
 slug: butternusskurbis-aus-dem-ofen
-link: /2014/09/butternusskurbis-aus-dem-ofen/
+path: /2014/09/butternusskurbis-aus-dem-ofen/
 fileName: 2014-09---butternusskuerbis-aus-dem-ofen.md
 description: Butternusskürbis könnt Ihr ganz leicht im Ofen zubereiten. In
   meinem Rezept verrate ich Euch ganz genau, wies geht. Viel Spaß beim Kochen!
@@ -47,8 +47,7 @@ isAffiliate: false
 thumbnailId: "8920"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <li> (12:185)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (12:185)"
 subTitle: Herbstlich bunt und saftig
   
 ---

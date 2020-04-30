@@ -2,7 +2,7 @@
 title: Wandern im Gap Of Dunloe
 seoTitle: Wandern im Gap Of Dunloe - Schafe vor Filmkulisse
 slug: gap-of-dunloe
-link: /2018/01/gap-of-dunloe/
+path: /2018/01/gap-of-dunloe/
 fileName: 2018-01---wandern-im-gap-of-dunloe.md
 description: Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten
   Jahres einige wunderschöne Stunden im Gap Of Dunloe. Die Schafe waren immer
@@ -38,8 +38,7 @@ isAffiliate: false
 thumbnailId: "18857"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (58:23)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (58:23)"
 subTitle: Schafe vor Filmkulisse
   
 ---

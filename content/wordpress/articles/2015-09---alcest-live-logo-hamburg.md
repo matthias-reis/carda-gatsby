@@ -2,7 +2,7 @@
 title: Alcest live @ Logo Hamburg
 seoTitle: Alcest live @ Logo Hamburg - Meine Bilder
 slug: alcest-live-logo-hamburg
-link: /2015/09/alcest-live-logo-hamburg/
+path: /2015/09/alcest-live-logo-hamburg/
 fileName: 2015-09---alcest-live-logo-hamburg.md
 description: Hier sind meine Bilder vom Alcest-Konzert am Freitag im Hamburger
   Logo. Es war schön, die Band aus Frankreich endlich mal wieder live zu sehen.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12675"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

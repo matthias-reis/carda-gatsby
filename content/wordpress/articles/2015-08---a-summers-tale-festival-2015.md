@@ -2,7 +2,7 @@
 title: A Summer's Tale Festival 2015
 seoTitle: A Summer's Tale 2015 - Bildergalerie
 slug: a-summers-tale-festival-2015
-link: /2015/08/a-summers-tale-festival-2015/
+path: /2015/08/a-summers-tale-festival-2015/
 fileName: 2015-08---a-summers-tale-festival-2015.md
 description: Mit dem A Summer's Tale haben wir in diesem Jahr ein ganz neues
   Festival ausprobiert. Hier sind meine Bilder für Euch.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12311"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie und Fazit
   
 ---

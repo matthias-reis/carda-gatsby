@@ -2,7 +2,7 @@
 title: 10 Fragen, die Du Dir selbst stellen solltest
 seoTitle: 10 Fragen, die Du Dir selbst stellen solltest
 slug: 10-fragen-die-du-dir-selbst-stellen-solltest
-link: /2019/02/10-fragen-die-du-dir-selbst-stellen-solltest/
+path: /2019/02/10-fragen-die-du-dir-selbst-stellen-solltest/
 fileName: 2019-02---10-fragen-die-du-dir-selbst-stellen-solltest.md
 description: "Heute habe ich mal was ganz anderes für Dich: 10 Fragen, die Dich
   motivieren und Dein Selbstwertgefühl auf Dauer nachhaltig verbessern können."
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23590"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Achtsamkeit im Alltag
   
 ---

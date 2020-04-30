@@ -2,7 +2,7 @@
 title: Klimanotstand in Hamburg Altona?
 seoTitle: Klimanotstand in Hamburg Altona - Politiker*innen rufen zum Handeln auf
 slug: hamburg-altona-klimanotstand
-link: /2019/10/hamburg-altona-klimanotstand/
+path: /2019/10/hamburg-altona-klimanotstand/
 fileName: 2019-10---klimanotstand-in-hamburg-altona.md
 description: In unserem schönen Hamburger Stadtteil Altona wurde jüngst ein
   Antrag zur Erklärung des Klimanotstandes gestellt. Das geht aus einer
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26655"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Politiker*innen rufen zum Handeln auf
   
 ---

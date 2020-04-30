@@ -2,7 +2,7 @@
 title: Blog-Relaunch und Umzug nach Hamburg
 seoTitle: Blog-Relaunch und Umzug nach Hamburg
 slug: blog-relaunch-und-umzug-nach-hamburg
-link: /2015/02/blog-relaunch-und-umzug-nach-hamburg/
+path: /2015/02/blog-relaunch-und-umzug-nach-hamburg/
 fileName: 2015-02---blog-relaunch-und-umzug-nach-hamburg.md
 description: Der Umzug meines Blogs ist so gut wie abgeschlossen un auch unser
   Umzug nach Hamburg steht in den nächsten Tagen an...
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9464"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Teil III: Die Vorfreude"
   
 ---

@@ -2,7 +2,7 @@
 title: Liebster Blog Award
 seoTitle: Liebster Blog Award - Ich wurde interviewt - Hamburg und mein Blog
 slug: liebster-blog-award-2017-01
-link: /2017/01/liebster-blog-award-2017-01/
+path: /2017/01/liebster-blog-award-2017-01/
 fileName: 2017-01---liebster-blog-award.md
 description: Ich habe einen Award für meinen Blog bekommen! 11 Fragen hat mir
   die Elbgängerin im Interview gestellt. Wir haben uns nicht nur über Hamburg
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15659"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Hamburg und mein Blog
   
 ---

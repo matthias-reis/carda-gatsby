@@ -3,7 +3,7 @@ title: Ethnotek und Viva con Agua
 seoTitle: Ethnotek und Viva con Agua - Eine besondere Kooperation - Das steckt
   in meinem neuen Rucksack drin
 slug: ethnotek-viva-con-agua
-link: /2017/06/ethnotek-viva-con-agua/
+path: /2017/06/ethnotek-viva-con-agua/
 fileName: 2017-06---ethnotek-und-viva-con-agua.md
 description: Mein Ethnotek Rucksack ist etwas ganz Besonderes. Unterstützt
   werden durch den Kauf Künstler und Handwerker in Indien sowie der Verein Viva
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16998"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mein neuer Rucksack ist da
   
 ---

@@ -2,7 +2,7 @@
 title: '"Muhackl"'
 seoTitle: Hassliebe veröffentlichen neue Platte
 slug: hassliebe-veroffentlichen-am-3-september-ihre-neue-platte-muhackl-die-boarische-ep-ich-habe-schon-mal-reingehort
-link: /2010/08/hassliebe-veroffentlichen-am-3-september-ihre-neue-platte-muhackl-die-boarische-ep-ich-habe-schon-mal-reingehort/
+path: /2010/08/hassliebe-veroffentlichen-am-3-september-ihre-neue-platte-muhackl-die-boarische-ep-ich-habe-schon-mal-reingehort/
 fileName: 2010-08---muhackl.md
 description: Die neue Platte „Muhackl - Die boarische EP“ von Hassliebe kommt
   sehr kraftvoll und energiegeladen. Das Trio hat einige der Lieblingslieder.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11532"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neue EP von Hassliebe
   
 ---

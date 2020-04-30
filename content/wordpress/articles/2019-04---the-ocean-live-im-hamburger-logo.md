@@ -2,7 +2,7 @@
 title: The Ocean live im Hamburger Logo
 seoTitle: The Ocean live im Logo Hamburg - ein Konzert zum niemals vergessen
 slug: the-ocean-live-im-hamburger-logo
-link: /2019/04/the-ocean-live-im-hamburger-logo/
+path: /2019/04/the-ocean-live-im-hamburger-logo/
 fileName: 2019-04---the-ocean-live-im-hamburger-logo.md
 description: Wenn wir etwas hören, das uns gefällt, kann uns das sehr glücklich
   machen - die Musik von The Ocean schafft das mehr als gut.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23914"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Konzert zum niemals vergessen
   
 ---

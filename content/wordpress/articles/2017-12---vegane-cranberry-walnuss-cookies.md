@@ -2,7 +2,7 @@
 title: Vegane Cranberry-Walnuss-Cookies
 seoTitle: Vegane Cranberry-Walnuss-Cookies - Rezept nicht nur für Advents-Naschkatzen
 slug: vegane-cranberry-walnuss-cookies
-link: /2017/12/vegane-cranberry-walnuss-cookies/
+path: /2017/12/vegane-cranberry-walnuss-cookies/
 fileName: 2017-12---vegane-cranberry-walnuss-cookies.md
 description: Es weihnachtet sehr! Die Deko steht, die Heizung bollert und die
   ersten Geschenke stehen auch schon. Zeit, ein paar Cranberry-Walnuss-Cookies
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18642"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept nicht nur für Advents-Naschkatzen
   
 ---

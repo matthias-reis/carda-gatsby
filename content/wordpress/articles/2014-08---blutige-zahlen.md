@@ -2,7 +2,7 @@
 title: Blutige Zahlen
 seoTitle: Blutige Zahlen - Veganer retten Leben
 slug: blutige-zahlen
-link: /2014/08/blutige-zahlen/
+path: /2014/08/blutige-zahlen/
 fileName: 2014-08---blutige-zahlen.md
 description: Warum Veganer Leben retten - Blutige Zahlen geben Aufschluss - Eine
   Reportage in Zahlen und Fakten
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25255"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil III
   
 ---

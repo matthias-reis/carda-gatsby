@@ -2,7 +2,7 @@
 title: Sorbas Shoes
 seoTitle: Sorbas Shoes - faire vegane Schuhe aus Berlin
 slug: sorbas-shoes
-link: /2020/03/sorbas-shoes/
+path: /2020/03/sorbas-shoes/
 fileName: 2020-03---sorbas-shoes.md
 description: Sorbas Shoes werden in kleinen Schuhmacherbetrieben herstellen.
   Damit sollen die fairen Produktionsstrukturen in ärmeren Ländern unterstützt
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28784"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Faire vegane Schuhe aus Berlin
   
 ---

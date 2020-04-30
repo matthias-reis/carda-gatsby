@@ -2,7 +2,7 @@
 title: Schrobenhausen
 seoTitle: Schrobenhausen - Lenbachstadt im Spargelland
 slug: schrobenhausen-die-lenbachstadt-im-spargelland
-link: /2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/
+path: /2009/07/schrobenhausen-die-lenbachstadt-im-spargelland/
 fileName: 2009-07---schrobenhausen.md
 description: Durch das heutige Stadtgebiet von Schrobenhausen verlief die
   römische Straße Augsburg - Regensburg.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11408"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Lenbachstadt im Spargelland
   
 ---

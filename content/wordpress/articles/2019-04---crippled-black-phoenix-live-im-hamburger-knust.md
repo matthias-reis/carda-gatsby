@@ -2,7 +2,7 @@
 title: Crippled Black Phoenix live im Hamburger Knust
 seoTitle: Crippled Black Phoenix live im Hamburger Knust - "Echoes und Tiere"
 slug: crippled-black-phoenix-live-im-hamburger-knust
-link: /2019/04/crippled-black-phoenix-live-im-hamburger-knust/
+path: /2019/04/crippled-black-phoenix-live-im-hamburger-knust/
 fileName: 2019-04---crippled-black-phoenix-live-im-hamburger-knust.md
 description: Das Konzert des Jahres 2019 bisher lieferten Crippled Black Phoenix
   im Hamburger Club Knust ab. Für Euch habe ich einen kleinen Bericht
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23871"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Echoes" und Tiere'
   
 ---

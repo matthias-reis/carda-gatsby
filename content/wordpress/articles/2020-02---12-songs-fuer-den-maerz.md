@@ -2,7 +2,7 @@
 title: 12 Songs für den März
 seoTitle: 12 Songs für den März - frisch gehört und für gut befunden
 slug: 12-songs-fuer-den-maerz
-link: /2020/02/12-songs-fuer-den-maerz/
+path: /2020/02/12-songs-fuer-den-maerz/
 fileName: 2020-02---12-songs-fuer-den-maerz.md
 description: Habt Ihr es auch schon gehört? Der Frühling steht vor der Tür!
   Musikalisch bringt er ganz schön was mit. Hinter jeder Ecke lauern
@@ -62,7 +62,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27560"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Frisch zusammengestellt von den drei von der Bande
   
 ---

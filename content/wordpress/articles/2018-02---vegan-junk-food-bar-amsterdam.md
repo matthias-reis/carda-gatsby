@@ -2,7 +2,7 @@
 title: Vegan Junk Food Bar Amsterdam
 seoTitle: Vegan Junk Food Bar Amsterdam - Kreative vegane Burger und mehr
 slug: vegan-junk-food-bar-amsterdam
-link: /2018/02/vegan-junk-food-bar-amsterdam/
+path: /2018/02/vegan-junk-food-bar-amsterdam/
 fileName: 2018-02---vegan-junk-food-bar-amsterdam.md
 description: Vor Kurzem habe ich in der Vegan Junk Food Bar in Amsterdam den
   größten Burger meines Lebens gegessen. Und ich habe ihn aufgegessen!
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19879"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kreative vegane Burger und mehr
   
 ---

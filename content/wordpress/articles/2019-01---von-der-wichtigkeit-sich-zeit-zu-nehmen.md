@@ -2,7 +2,7 @@
 title: Von der Wichtigkeit, sich Zeit zu nehmen
 seoTitle: Warum ich meinen Kaffee nicht mehr so oft im Gehen trinke
 slug: von-der-wichtigkeit-sich-zeit-zu-nehmen
-link: /2019/01/von-der-wichtigkeit-sich-zeit-zu-nehmen/
+path: /2019/01/von-der-wichtigkeit-sich-zeit-zu-nehmen/
 fileName: 2019-01---von-der-wichtigkeit-sich-zeit-zu-nehmen.md
 description: Im Moment habe ich leider viel zu wenig Zeit. Ständig geht es
   hektisch zu und komme kaum zum Durchatmen. Trotzdem trinke ich meinen Kaffee
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23235"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Warum ich meinen Kaffee nicht mehr so oft im Gehen trinke
   
 ---

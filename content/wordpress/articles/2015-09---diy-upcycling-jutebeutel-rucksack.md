@@ -2,7 +2,7 @@
 title: DIY Upcycling Jutebeutel-Rucksack
 seoTitle: DIY Upcycling Jutebeutel-Rucksack - Schritt-für-Schritt-Anleitung
 slug: diy-jutebeutel-rucksack
-link: /2015/09/diy-jutebeutel-rucksack/
+path: /2015/09/diy-jutebeutel-rucksack/
 fileName: 2015-09---diy-upcycling-jutebeutel-rucksack.md
 description: Habt Ihr auch schon einen Jutebeutel-Rucksack? Die Dinger sind ja
   gerade richtig en vogue! Ich zeige Euch heute, wie Ihr schnell einen selber
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12781"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schritt-für-Schritt-Anleitung
   
 ---

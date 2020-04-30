@@ -2,7 +2,7 @@
 title: Auf dem Weg zur Tie­fen­ent­span­nung
 seoTitle: Tiefenentspannung mit Thai Massage und TCM
 slug: auf-dem-weg-zur-tiefenentspannung
-link: /2014/11/auf-dem-weg-zur-tiefenentspannung/
+path: /2014/11/auf-dem-weg-zur-tiefenentspannung/
 fileName: 2014-11---auf-dem-weg-zur-tie-fen-ent-span-nung.md
 description: Wie man Tiefenentspannung mit Hilfe von Thai Massage und
   Traditioneller Chinesischer Medizin erfahren kann - Ein Selbstversuch mit
@@ -64,8 +64,7 @@ isAffiliate: false
 thumbnailId: "9149"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (82:31)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (82:31)"
 subTitle: Von Thai Massage und traditioneller chinesischer Medizin
   
 ---

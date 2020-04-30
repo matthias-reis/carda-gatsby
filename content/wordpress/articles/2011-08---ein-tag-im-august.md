@@ -2,7 +2,7 @@
 title: Ein Tag im August
 seoTitle: Ein Tag im August - kurzer Tagebucheintrag
 slug: ein-tag-im-august
-link: /2011/08/ein-tag-im-august/
+path: /2011/08/ein-tag-im-august/
 fileName: 2011-08---ein-tag-im-august.md
 description: Neben mir ein Kleinlaster einer Möbelhauskette. Die mit dem völlig
   unsinnigen Werbeslogan, bei dem ich immer an Krankheiten denken muss.
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2269"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Auf dem Weg ins Büro
   
 ---

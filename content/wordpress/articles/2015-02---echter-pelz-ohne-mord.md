@@ -2,7 +2,7 @@
 title: Echter Pelz ohne Mord?
 seoTitle: Echter Pelz ohne Mord? "Petite Mort" stellt Pelze aus Roadkill her
 slug: petit-mort-kein-echter-pelz-ohne-mord
-link: /2015/02/petit-mort-kein-echter-pelz-ohne-mord/
+path: /2015/02/petit-mort-kein-echter-pelz-ohne-mord/
 fileName: 2015-02---echter-pelz-ohne-mord.md
 description: Die Gründerin von "Petite Mort", Pamela Paquin stellt Pelz aus
   Roadkill her. Kleidungsstücke aus überfahrenen Tieren - ganz schön makaber,
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25601"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Petit Mort" stellt Pelze aus Roadkill her'
   
 ---

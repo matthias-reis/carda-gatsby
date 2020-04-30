@@ -2,7 +2,7 @@
 title: Vegane Kosmetik von Pony Hütchen im Test
 seoTitle: Vegane Kosmetik von Pony Hütchen im Test
 slug: vegane-kosmetik-von-pony-huetchen-im-test
-link: /2016/03/vegane-kosmetik-von-pony-huetchen-im-test/
+path: /2016/03/vegane-kosmetik-von-pony-huetchen-im-test/
 fileName: 2016-03---vegane-kosmetik-von-pony-huetchen-im-test.md
 description: Wie angekündigt, habe ich die vegane Kosmetik aus dem Hause Pony
   Hütchen getestet. Hier ist mein Fazit zu den veganen Kosmetikprodukten für
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14210"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Natürliche Essenzen und traumhafte Düfte
   
 ---

@@ -2,7 +2,7 @@
 title: Sundowner in Ängelholm
 seoTitle: Sundowner in Ängelholm - Wehmut und Abendrot an der Ostsee
 slug: sundowner-in-aengelholm
-link: /2018/10/sundowner-in-aengelholm/
+path: /2018/10/sundowner-in-aengelholm/
 fileName: 2018-10---sundowner-in-aengelholm.md
 description: Einen perfekten Abschluss fand unsere Reise durch Schweden im
   wunderschönen Ängelholm an der Ostsee. Hier ein paar romantische Eindrücke.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22378"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wehmut und Abendrot an der Ostsee
   
 ---

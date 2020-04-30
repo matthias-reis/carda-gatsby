@@ -2,7 +2,7 @@
 title: So kann es weitergehen
 seoTitle: So kann es weitergehen - neuer Tagebucheintrag
 slug: so-kann-es-weitergehen
-link: /2011/03/so-kann-es-weitergehen/
+path: /2011/03/so-kann-es-weitergehen/
 fileName: 2011-03---so-kann-es-weitergehen.md
 description: Juhu! Probearbeiten ist gut gelaufen! Neuer Job ab 1. Mai! Jetzt
   geht´s gleich zum Fotoshooting und danach Bandprobe. Morgen wir gefeiert!
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11376"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

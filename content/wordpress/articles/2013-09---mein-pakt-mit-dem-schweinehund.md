@@ -2,7 +2,7 @@
 title: Mein Pakt mit dem Schweinehund
 seoTitle: Mein Pakt mit dem Schweinehund - Rauchen aufhören - Ein Selbstversuch
 slug: mein-pakt-mit-dem-schweinehund
-link: /2013/09/mein-pakt-mit-dem-schweinehund/
+path: /2013/09/mein-pakt-mit-dem-schweinehund/
 fileName: 2013-09---mein-pakt-mit-dem-schweinehund.md
 description: Ich bin Nichtraucherin! Ab heute! Ich lasse Euch alle an meinem
   Selbstversuch teilhaben. Ich werde es schaffen, oder? Was wohl der
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7087"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ich habe aufgehört zu rauchen...
   
 ---

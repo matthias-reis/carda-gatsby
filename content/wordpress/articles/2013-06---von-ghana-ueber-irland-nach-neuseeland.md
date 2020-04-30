@@ -2,7 +2,7 @@
 title: Von Ghana über Irland nach Neuseeland
 seoTitle: Von Ghana über Irland nach Neuseeland - Postkarten
 slug: von-ghana-uber-irland-nach-neuseeland
-link: /2013/06/von-ghana-uber-irland-nach-neuseeland/
+path: /2013/06/von-ghana-uber-irland-nach-neuseeland/
 fileName: 2013-06---von-ghana-ueber-irland-nach-neuseeland.md
 description: Nicht nur aus Ghana, Irland und Neuseeland haben mich in der
   letzten Zeit tolle Postkarten erreicht. Heute erfahrt Ihr ihre Geschichte.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5925"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Postkartengalerie
   
 ---

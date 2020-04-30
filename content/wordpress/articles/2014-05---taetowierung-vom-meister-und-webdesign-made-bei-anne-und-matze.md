@@ -2,7 +2,7 @@
 title: Tätowierung vom Meister und Webdesign made bei Anne & Matze
 seoTitle: Tätowierung vom Meister und Webdesign
 slug: tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne
-link: /2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/
+path: /2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/
 fileName: 2014-05---taetowierung-vom-meister-und-webdesign-made-bei-anne-und-matze.md
 description: Aus einer einer Tätowierung und ein paar hübschen Zutaten wird eine
   neue Homepage - Begleitet mich auf dem Weg von der Tätowierung bis zum
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7985"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Teil I: Die Idee"
   
 ---

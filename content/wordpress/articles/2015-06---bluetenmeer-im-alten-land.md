@@ -2,7 +2,7 @@
 title: Blütenmeer im Alten Land
 seoTitle: Blütenmeer im Alten Land
 slug: bluetenmeer-im-alten-land
-link: /2015/06/bluetenmeer-im-alten-land/
+path: /2015/06/bluetenmeer-im-alten-land/
 fileName: 2015-06---bluetenmeer-im-alten-land.md
 description: Vor Kurzem waren wir im Alten Land und haben dort die Obstblüten
   bewundert. Meine Eindrücke habe ich fotografisch festgehalten.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11982"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kirschblüten und Elbstrand
   
 ---

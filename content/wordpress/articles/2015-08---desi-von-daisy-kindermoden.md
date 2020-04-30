@@ -2,7 +2,7 @@
 title: Desi von Daisy Kindermoden
 seoTitle: Interview mit Desi von Daisy Kindermoden
 slug: interview-mit-desi-von-daisy-kindermoden
-link: /2015/08/interview-mit-desi-von-daisy-kindermoden/
+path: /2015/08/interview-mit-desi-von-daisy-kindermoden/
 fileName: 2015-08---desi-von-daisy-kindermoden.md
 description: Ich habe mich mit der Modeschöpferin Desi von Daisy Kindermoden zum
   Interview verabredet.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12193"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Ich möchte praktische und schicke Kleidung für Kinder machen!"'
   
 ---

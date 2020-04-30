@@ -2,7 +2,7 @@
 title: Die drei Alben des Jahres 2019
 seoTitle: Die drei Alben des Jahres - präsentiert von den drei von der Bande
 slug: die-drei-alben-des-jahres
-link: /2019/12/die-drei-alben-des-jahres/
+path: /2019/12/die-drei-alben-des-jahres/
 fileName: 2019-12---die-drei-alben-des-jahres-2019.md
 description: "Wie versprochen, werde ich heute den Vorhang lüften: Ihr erfahrt,
   welche Platten unsere Alben des Jahres sind. Die drei von der Bande haben
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27226"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

@@ -2,7 +2,7 @@
 title: Geocaching
 seoTitle: Geocaching
 slug: geocaching
-link: /2009/04/geocaching/
+path: /2009/04/geocaching/
 fileName: 2009-04---geocaching.md
 description: Geocaching sollte wirklich jeder mal ausprobiert haben
 excerpt: Geocaching sollte wirklich jeder mal ausprobiert haben - hier ein paar
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11210"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wanderimpressionen
   
 ---

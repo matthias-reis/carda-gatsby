@@ -2,7 +2,7 @@
 title: Gedanken am Fenster
 seoTitle: Gedanken am Fenster - hin und wieder etwas Prosa
 slug: gedanken-am-fenster
-link: /2011/09/gedanken-am-fenster/
+path: /2011/09/gedanken-am-fenster/
 fileName: 2011-09---gedanken-am-fenster.md
 description: Vom Leben gelernt, dachtest du. Aber eigentlich war es doch ganz
   anders, musste doch das Leben auch dich zunächst erst mal kennen lernen.
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2623"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>Erst bist du auf die Welt gekommen, dann hast du dich
   verliebt. </strong>
   

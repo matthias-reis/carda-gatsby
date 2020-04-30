@@ -2,7 +2,7 @@
 title: Mit CrowdFarming einen Orangenbaum adoptieren
 seoTitle: Mit Crowdfarming einen Orangenbaum adoptieren - Obst vom Erzeuger
 slug: mit-crowdfarming-einen-orangenbaum-adoptieren
-link: /2019/01/mit-crowdfarming-einen-orangenbaum-adoptieren/
+path: /2019/01/mit-crowdfarming-einen-orangenbaum-adoptieren/
 fileName: 2019-01---mit-crowdfarming-einen-orangenbaum-adoptieren.md
 description: Llum Querol ist Orangenfarmerin. Sie möchte sich für den
   biologischen Anbau einsetzen. Aus diesem Grund arbeitet sie jetzt mit
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23322"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bio-Früchte direkt vom Erzeuger
   
 ---

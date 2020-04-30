@@ -2,7 +2,7 @@
 title: '"A Dawn To Fear"'
 seoTitle: '"A Dawn To Fear" - Das neue Album von Cult Of Luna'
 slug: cult-of-luna-a-dawn-to-fear
-link: /2019/09/cult-of-luna-a-dawn-to-fear/
+path: /2019/09/cult-of-luna-a-dawn-to-fear/
 fileName: 2019-09---a-dawn-to-fear.md
 description: Das neue Album von Cult Of Luna heißt "A Dawn To Fear". Genauso
   eindrucksvoll, wie der Titel ist die Musik, die es auf der Scheibe zu hören
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26347"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das neue Album von Cult Of Luna
   
 ---

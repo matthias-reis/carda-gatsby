@@ -2,7 +2,7 @@
 title: Herbstlärm
 seoTitle: Herbstlärm - ein Eintrag ins Tagebuch
 slug: herbstlaerm-tagebuch
-link: /2012/09/herbstlaerm-tagebuch/
+path: /2012/09/herbstlaerm-tagebuch/
 fileName: 2012-09---herbstlaerm.md
 description: Nachdem ich lange Zeit nichts mehr zu Papier gebracht habe, möchte
   ich heute mal wieder ein paar Gedankenfragmente notieren.
@@ -73,7 +73,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4203"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

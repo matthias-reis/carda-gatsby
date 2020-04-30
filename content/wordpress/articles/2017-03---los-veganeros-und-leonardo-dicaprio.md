@@ -2,7 +2,7 @@
 title: Los Veganeros und Leonardo DiCaprio
 seoTitle: Los Veganeros 2 und Leonardo DiCaprio - Das neue Welt Vegan Magazin ist da!
 slug: los-veganeros-welt-vegan-magazin-1-2017
-link: /2017/03/los-veganeros-welt-vegan-magazin-1-2017/
+path: /2017/03/los-veganeros-welt-vegan-magazin-1-2017/
 fileName: 2017-03---los-veganeros-und-leonardo-dicaprio.md
 description: Der Frühling ist endlich da! Und mit ihm Los Veganeros 2! Im neuen
   Welt Vegan Magazin wartet daher ein exklusives Interview mit dem Macher des
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16028"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das neue Welt Vegan Magazin ist da!
   
 ---

@@ -2,7 +2,7 @@
 title: Stra­ßen­la­ter­nen der Welt
 seoTitle: Straßenlaternen der Welt - Eine romantische Bildergalerie
 slug: strassenlaternen-der-welt-eine-romantische-bildergalerie
-link: /2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/
+path: /2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/
 fileName: 2016-03---stra-ssen-la-ter-nen-der-welt.md
 description: Straßenlaternen sind faszinierend. Sie können Licht spenden, aber
   auch für eine besondere Stimmung sorgen - Eine Bildergalerie mit etwas Lyrik
@@ -33,8 +33,7 @@ isAffiliate: false
 thumbnailId: "14311"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (29:43)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (29:43)"
 subTitle: Gedicht und Bilder
   
 ---

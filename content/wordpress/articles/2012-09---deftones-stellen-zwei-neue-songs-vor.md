@@ -2,7 +2,7 @@
 title: Deftones stellen zwei neue Songs vor
 seoTitle: Deftones stellen zwei neue Songs vor
 slug: deftones-stellen-zwei-neue-songs-vor-album-im-november
-link: /2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/
+path: /2012/09/deftones-stellen-zwei-neue-songs-vor-album-im-november/
 fileName: 2012-09---deftones-stellen-zwei-neue-songs-vor.md
 description: Die Deftones stellen nicht ein, sondern gleich zwei neue Songs vor
   und kündigen gleich noch ein Album an!
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9238"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Album im November
   
 ---

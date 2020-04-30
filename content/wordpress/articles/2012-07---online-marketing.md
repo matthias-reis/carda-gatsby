@@ -2,7 +2,7 @@
 title: Online-Marketing
 seoTitle: Online-Marketing - neue Serie im Blog
 slug: online-marketing
-link: /2012/07/online-marketing/
+path: /2012/07/online-marketing/
 fileName: 2012-07---online-marketing.md
 description: In einer neuen Rubrik in meinem Blog wird sich ab jetzt alles ums
   Thema Online-Marketing drehen.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3153"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neue Serie im Blog
   
 ---

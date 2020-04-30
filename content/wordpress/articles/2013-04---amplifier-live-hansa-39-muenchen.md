@@ -2,7 +2,7 @@
 title: Amplifier live @Hansa 39 München
 seoTitle: Amplifier live in München
 slug: amplifier-live-hansa-39-munchen
-link: /2013/04/amplifier-live-hansa-39-munchen/
+path: /2013/04/amplifier-live-hansa-39-munchen/
 fileName: 2013-04---amplifier-live-hansa-39-muenchen.md
 description: Amplifier spielten gestern Abend live in München - Hier ist mein Konzertbericht
 excerpt: Am Mittwoch war es endlich mal wieder so weit und  Amplifier spielten
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5268"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vielleicht das beste Konzert aller Zeiten
   
 ---

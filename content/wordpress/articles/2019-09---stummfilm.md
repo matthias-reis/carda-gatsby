@@ -2,7 +2,7 @@
 title: '"Stummfilm"'
 seoTitle: '"Stummfilm" - Long Distance Calling veröffentlichen Konzert aus Altona'
 slug: stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona
-link: /2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/
+path: /2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/
 fileName: 2019-09---stummfilm.md
 description: Das Long Distance Calling Konzert in der Kulturkirche Altona wurde
   komplett aufgezeichnet und ist ab sofort auf Vinyl, CD und als Video
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26113"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Long Distance Calling veröffentlichen Konzert aus der Kulturkirche Altona
   
 ---

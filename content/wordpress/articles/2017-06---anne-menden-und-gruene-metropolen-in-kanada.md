@@ -2,7 +2,7 @@
 title: Anne Menden und grüne Metropolen in Kanada
 seoTitle: Anne Menden und grüne Metropolen in Kanada - Das Welt Vegan Magazin
 slug: welt-vegan-magazin-2-2017-anne-menden
-link: /2017/06/welt-vegan-magazin-2-2017-anne-menden/
+path: /2017/06/welt-vegan-magazin-2-2017-anne-menden/
 fileName: 2017-06---anne-menden-und-gruene-metropolen-in-kanada.md
 description: Keine geringere als Schauspielerin Anne Menden berichtet in der
   aktuellen Ausgabe des Welt Vegan Magazins von Ihrer Arbeit als Sea Shepherd
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16874"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das aktuelle Welt Vegan Magazin
   
 ---

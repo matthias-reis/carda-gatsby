@@ -2,7 +2,7 @@
 title: Die ultimative Festivalliste 2012
 seoTitle: Meine Festivalliste 2012 - das solltet Ihr dabei haben
 slug: die-ultimative-festivalliste-2012
-link: /2012/04/die-ultimative-festivalliste-2012/
+path: /2012/04/die-ultimative-festivalliste-2012/
 fileName: 2012-04---die-ultimative-festivalliste-2012.md
 description: Auf vielfache Anfrage hin, habe ich mich entschlossen, auch in
   diesem Jahr wieder meine allseits beliebte Festivalliste zu veröffentlichen.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3000"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Festivalsaison rückt wieder näher
   
 ---

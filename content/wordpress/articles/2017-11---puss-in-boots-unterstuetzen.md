@@ -2,7 +2,7 @@
 title: Puss in Boots unterstützen
 seoTitle: Heuspender für herrenlose Pferde gesucht - Unterstützt jetzt Puss in Boots!
 slug: herrenlose-pferde-heuspenden-puss-in-boots
-link: /2017/11/herrenlose-pferde-heuspenden-puss-in-boots/
+path: /2017/11/herrenlose-pferde-heuspenden-puss-in-boots/
 fileName: 2017-11---puss-in-boots-unterstuetzen.md
 description: Herrenlose Pferde freuen sich über Heuspenden. Ein Heuballen kostet
   lediglich 4 Euro und kann ein Leben retten. Unterstützt jetzt Puss in Boots!
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18534"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Herrenlose Pferde in Irland suchen Heuspender
   
 ---

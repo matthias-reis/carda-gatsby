@@ -2,7 +2,7 @@
 title: Pflege-Set zum Kennenlernen von Santaverde
 seoTitle: Pflege-Set zum Kennenlernen von Santaverde - veganer Geschenktipp
 slug: pflege-set-zum-kennenlernen-santaverde-geschenktipp
-link: /2019/12/pflege-set-zum-kennenlernen-santaverde-geschenktipp/
+path: /2019/12/pflege-set-zum-kennenlernen-santaverde-geschenktipp/
 fileName: 2019-12---pflege-set-zum-kennenlernen-von-santaverde.md
 description: Weihnachten steht vor der Tür - das Santaverde Pflegeset zum
   Kennenlernen ist eine schöne Geschenk-Idee für alle Vegan Beauties.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26848"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Geschenkidee
   
 ---

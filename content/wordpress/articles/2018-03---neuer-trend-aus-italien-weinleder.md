@@ -2,7 +2,7 @@
 title: "Neuer Trend aus Italien: Weinleder"
 seoTitle: Weinleder - veganes und nachhaltiges Leder ohne Kunststoff
 slug: weinleder-vegan-und-nachhaltig
-link: /2018/03/weinleder-vegan-und-nachhaltig/
+path: /2018/03/weinleder-vegan-und-nachhaltig/
 fileName: 2018-03---neuer-trend-aus-italien-weinleder.md
 description: Weinleder wird aus den Resten hergestellt, die bei der
   Weinproduktion anfallen. Auf Plastik und Wasser wird bei der Herstellung
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20232"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegan, nachhaltig und frei von Kunststoff
   
 ---

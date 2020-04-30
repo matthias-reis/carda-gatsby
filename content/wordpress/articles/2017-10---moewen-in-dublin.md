@@ -2,7 +2,7 @@
 title: Möwen in Dublin
 seoTitle: Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln
 slug: moewen-in-dublin
-link: /2017/10/moewen-in-dublin/
+path: /2017/10/moewen-in-dublin/
 fileName: 2017-10---moewen-in-dublin.md
 description: In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen!
   Dass ich die Seevögel liebe, ist kein Geheimnis. Die Dubliner Möwen sind
@@ -29,8 +29,7 @@ isAffiliate: false
 thumbnailId: "18003"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (30:28)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (30:28)"
 subTitle: Bunte Bilderserie mit original Irischen Seevögeln
   
 ---

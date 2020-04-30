@@ -2,7 +2,7 @@
 title: PEPES PENTHOUSE live @ Circus Augsburg
 seoTitle: Pepes Penthouse live @ Circus Augsburg
 slug: pepes-penthouse-live-circus-augsburg
-link: /2009/10/pepes-penthouse-live-circus-augsburg/
+path: /2009/10/pepes-penthouse-live-circus-augsburg/
 fileName: 2009-10---pepes-penthouse-live-circus-augsburg.md
 description: "Am Mittwoch, 30. September war es soweit: Pepes Penthouse live im Circus"
 excerpt: Am Mittwoch, 30. September starteten Pepes Penthouse wieder in die Live-Saison.
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11487"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Perfektes Zusammenspiel
   
 ---

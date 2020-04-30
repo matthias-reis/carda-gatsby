@@ -2,7 +2,7 @@
 title: Menschliche Abgründe
 seoTitle: Menschliche Abgründe - "Die Verlorene Tochter"
 slug: menschliche-abgrunde
-link: /2011/06/menschliche-abgrunde/
+path: /2011/06/menschliche-abgrunde/
 fileName: 2011-06---menschliche-abgruende.md
 description: Der Polizeiruf von gestern Abend ("Die verlorene Tochter") stimmt
   nachdenklich. Ein sehr brisantes, aktuelles Thema.
@@ -54,8 +54,7 @@ isAffiliate: false
 thumbnailId: "2046"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <div> (29:229)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (29:229)"
 subTitle: '"Die verlorene Tochter"'
   
 ---

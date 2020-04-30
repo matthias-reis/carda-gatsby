@@ -2,7 +2,7 @@
 title: 18 Schweinswale sterben bei Minensprengung
 seoTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet
 slug: 18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet
-link: /2019/11/18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet/
+path: /2019/11/18-schweinswale-bei-minensprengung-in-der-ostsee-getoetet/
 fileName: 2019-11---18-schweinswale-sterben-bei-minensprengung.md
 description: Die deutsche Marine hat bei einer Übung auf der Ostsee 39 Seeminen
   gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26963"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>Rücksichtsloses</strong> Militärmanöver in der Ostsee
   
 ---

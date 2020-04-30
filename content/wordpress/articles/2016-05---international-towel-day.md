@@ -2,7 +2,7 @@
 title: International Towel Day
 seoTitle: International Towel Day - Einmal im Jahr ist Handtuchtag
 slug: international-towel-day-einmal-im-jahr-ist-handtuchtag
-link: /2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/
+path: /2016/05/international-towel-day-einmal-im-jahr-ist-handtuchtag/
 fileName: 2016-05---international-towel-day.md
 description: Heute ist International Towel Day. Zu Ehren des großen
   Schriftstellers Douglas Adams werden weltweit die Handtücher gehisst. Alles
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14786"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Es ist wieder soweit
   
 ---

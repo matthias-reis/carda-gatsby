@@ -2,7 +2,7 @@
 title: elrojito - Solidarischer Kaffee im Hamburger Stadtteil Ottensen
 seoTitle: elrojito - Solidarischer Kaffee im Hamburger Stadtteil Ottensen
 slug: elrojito
-link: /2017/08/elrojito/
+path: /2017/08/elrojito/
 fileName: 2017-08---elrojito-solidarischer-kaffee-im-hamburger-stadtteil-ottensen.md
 description: Heute möchte ich das elrojito in Hamburg Ottensen vorstellen.
   Ausgeschenkt und verkauft wird dort ausschließlich solidarischer Kaffee.
@@ -43,7 +43,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17556"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Lieblingscafé mit Herz
   
 ---

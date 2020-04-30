@@ -2,7 +2,7 @@
 title: Second Life Fashion
 seoTitle: Second Life Fashion - Kleidung ein zweites Leben schenken
 slug: second-life-fashion
-link: /2020/04/second-life-fashion/
+path: /2020/04/second-life-fashion/
 fileName: 2020-04---second-life-fashion.md
 description: Das Second-Hand Start-up Second Life Fashion möchte mit bereits
   vorhandenen Ressourcen auskommen. Ich habe dort jetzt ein Outfit bestellt.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28810"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kleidung ein zweites Leben schenken
   
 ---

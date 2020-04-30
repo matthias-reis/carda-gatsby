@@ -2,7 +2,7 @@
 title: Die Bahn auf der Brücke
 seoTitle: Die Bahn auf der Brücke
 slug: die-bahn-auf-der-bruecke
-link: /2011/08/die-bahn-auf-der-bruecke
+path: /2011/08/die-bahn-auf-der-bruecke
 fileName: 2011-08---die-bahn-auf-der-bruecke.md
 description: ""
 excerpt: "\n               \ \n            "
@@ -18,8 +18,7 @@ isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

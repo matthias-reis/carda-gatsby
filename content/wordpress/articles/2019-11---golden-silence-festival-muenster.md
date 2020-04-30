@@ -2,7 +2,7 @@
 title: Golden Silence Festival Münster
 seoTitle: Das Golden Silence Festival in Münster - sanglos aber nicht klanglos
 slug: golden-silence-festival-muenster
-link: /2019/11/golden-silence-festival-muenster/
+path: /2019/11/golden-silence-festival-muenster/
 fileName: 2019-11---golden-silence-festival-muenster.md
 description: Musik ohne Gesang - unter diesem Motto stand das erste Golden
   Silence Festival, das am Samstag in Münster stattfand. Hier ist mein
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26697"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sanglos aber nicht klanglos
   
 ---

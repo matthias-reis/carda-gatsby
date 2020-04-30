@@ -3,7 +3,7 @@ title: Smecket Tee im Test
 seoTitle: Smecket Tee - Der ultimative Produkttest - Phantasievolle Heißgetränke
   für echte Genießer
 slug: smecket-tee
-link: /2017/04/smecket-tee/
+path: /2017/04/smecket-tee/
 fileName: 2017-04---smecket-tee-im-test.md
 description: Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause Smecket
   Tee. Ob ich Lust hätte, ein paar Teesorten zu testen. Natürlich sagte ich
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16373"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Phantasievolle Heißgetränke
   
 ---

@@ -2,7 +2,7 @@
 title: Karnivool live @Strøm München 27. Oktober 2013
 seoTitle: Karnivool live in München - Hipsterclans und Türsteher
 slug: karnivool-muenchen
-link: /2013/10/karnivool-muenchen/
+path: /2013/10/karnivool-muenchen/
 fileName: 2013-10---karnivool-live-stroem-muenchen-27-oktober-2013.md
 description: Karnivool spielten live in München und wir waren dabei. Seit 15
   Jahren gehe ich jetzt mit meiner Kamera auf Konzerte, doch dieses Mal war
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7547"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Diesmal ohne Nahaufnahmen
   
 ---

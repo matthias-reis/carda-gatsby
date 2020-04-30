@@ -2,7 +2,7 @@
 title: Duschgel von XAXX
 seoTitle: Von XAXX gibt es jetzt auch Duschgel - Vegan, duftig & sparsam duschen
 slug: von-xaxx-gibt-es-jetzt-auch-duschgele
-link: /2017/07/von-xaxx-gibt-es-jetzt-auch-duschgele/
+path: /2017/07/von-xaxx-gibt-es-jetzt-auch-duschgele/
 fileName: 2017-07---duschgel-von-xaxx.md
 description: Die neuen veganen Duschgele von XAXX sind durch einen Trick
   besonders sparsam. Ich habe sie getestet und einen kleinen Bericht
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17263"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegan und sparsam duschen
   
 ---

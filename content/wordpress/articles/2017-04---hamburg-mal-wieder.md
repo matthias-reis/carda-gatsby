@@ -2,7 +2,7 @@
 title: Hamburg mal wieder
 seoTitle: Hamburg mal wieder - Bilderserie mit Elbe, Sonne und Wolken
 slug: hamburg-mal-wieder-rundgang
-link: /2017/04/hamburg-mal-wieder-rundgang/
+path: /2017/04/hamburg-mal-wieder-rundgang/
 fileName: 2017-04---hamburg-mal-wieder.md
 description: Einen wunderschönen Rundgang haben wir vor ein paar Tagen gemacht.
   Dabei habe ich einige Bilder gemacht und ein cooles Zeitraffervideo
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16481"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Elbe, Sonne und Wolken
   
 ---

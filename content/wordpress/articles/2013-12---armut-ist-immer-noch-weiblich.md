@@ -2,7 +2,7 @@
 title: '"Armut ist immer noch weiblich"'
 seoTitle: '"Armut ist immer noch weiblich"'
 slug: armut-ist-immer-noch-weiblich
-link: /2013/12/armut-ist-immer-noch-weiblich/
+path: /2013/12/armut-ist-immer-noch-weiblich/
 fileName: 2013-12---armut-ist-immer-noch-weiblich.md
 description: Bei den Betriebsratstagen 2013 in München traf ich Gregor Gysi. In
   einem Vortrag erzählte er, warum Armut auch heute noch zumeist weiblich ist.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7723"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gregor Gysi zu Innenpolitik und Groko
   
 ---

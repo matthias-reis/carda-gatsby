@@ -2,7 +2,7 @@
 title: Stubentiger im Fokus
 seoTitle: Stubentiger im Fokus - Fotosession mit Chili und Oskar
 slug: stubentiger
-link: /2015/12/stubentiger/
+path: /2015/12/stubentiger/
 fileName: 2015-12---stubentiger-im-fokus.md
 description: Heute habe ich meine lieben Stubentiger fotografiert. Sie haben
   sich mal wieder von ihrer besten Seite gezeigt. Eine Bildergalerie
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13468"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fotosessin mit Oskar und Chili
   
 ---

@@ -2,7 +2,7 @@
 title: Bad Salzuflen
 seoTitle: Bad Salzuflen - Kurort und Wiege der Hamburger Schule
 slug: bad-salzuflen
-link: /2019/09/bad-salzuflen/
+path: /2019/09/bad-salzuflen/
 fileName: 2019-09---bad-salzuflen.md
 description: Vielen ist nicht bewusst, dass Bad Salzuflen die eigentliche Wiege
   der Hamburger Schule ist. Wir haben den Kurort besucht.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26216"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kurort und Wiege der Hamburger Schule
   
 ---

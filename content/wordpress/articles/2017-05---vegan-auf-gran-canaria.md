@@ -2,7 +2,7 @@
 title: Vegan auf Gran Canaria
 seoTitle: Vegan auf Gran Canaria - Willkommen im Paradies - Insel der süßen Früchte
 slug: vegan-auf-gran-canaria
-link: /2017/05/vegan-auf-gran-canaria/
+path: /2017/05/vegan-auf-gran-canaria/
 fileName: 2017-05---vegan-auf-gran-canaria.md
 description: Vegan auf Gran Canaria - Willkommen im Paradies! Die Früchte
   wachsen einem nur so in den Mund und überall wird man mit offenen Armen
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16629"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Insel der süßen Früchte
   
 ---

@@ -2,7 +2,7 @@
 title: Keine Panik! Today is International Towel Day
 seoTitle: Keine Panik! Today is International Towel Day!
 slug: keine-panik-today-is-international-towel-day
-link: /2013/05/keine-panik-today-is-international-towel-day/
+path: /2013/05/keine-panik-today-is-international-towel-day/
 fileName: 2013-05---keine-panik-today-is-international-towel-day.md
 description: Keine Panik! Das Handtuch ist gehisst! Heute ist der internationale
   Towel Day! Zeit, die Hyperraum-Expressroute zu verlassen und den Frühling zu
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5467"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das Handtuch ist gehisst!
   
 ---

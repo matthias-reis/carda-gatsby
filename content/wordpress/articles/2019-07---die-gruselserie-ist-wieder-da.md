@@ -2,7 +2,7 @@
 title: Die Gruselserie ist wieder da!
 seoTitle: Die Gruselserie ist wieder da - handsignierte CDs zu gewinnen!
 slug: die-gruselserie-ist-wieder-da
-link: /2019/07/die-gruselserie-ist-wieder-da/
+path: /2019/07/die-gruselserie-ist-wieder-da/
 fileName: 2019-07---die-gruselserie-ist-wieder-da.md
 description: "Alle, denen die Gruselserie etwas sagt, dürfen sich jetzt freuen:
   Die kultige Hörspielreihe ist jetzt wieder da! Ich verlose handsignierte
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24675"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Endlich wieder Spukgeschichten!
   
 ---

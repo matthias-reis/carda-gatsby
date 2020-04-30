@@ -2,7 +2,7 @@
 title: Tierpatenschaft verschenken und Kochbuch bekommen!
 seoTitle: Tierpatenschaft verschenken und Kochbuch bekommen
 slug: tierpatenschaft-verschenken-und-kochbuch-bekommen
-link: /2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/
+path: /2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/
 fileName: 2015-12---tierpatenschaft-verschenken-und-kochbuch-bekommen.md
 description: Beim Deutschen Tierschutzbüro hat man sich für Weihnachten was
   Besonderes ausgedacht! Wer eine Tierpatenschaft verschenkt, bekommt ein
@@ -39,8 +39,7 @@ isAffiliate: false
 thumbnailId: "13337"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <li> (66:106)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (66:106)"
 subTitle: Ein perfektes Weihnachtsgeschenk
   
 ---

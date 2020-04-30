@@ -2,7 +2,7 @@
 title: Speicherstadtmuseum Hamburg
 seoTitle: Das Speicherstadtmuseum in Hamburg - Klein aber fein
 slug: das-speicherstadtmuseum-in-hamburg-klein-aber-fein
-link: /2016/01/das-speicherstadtmuseum-in-hamburg-klein-aber-fein/
+path: /2016/01/das-speicherstadtmuseum-in-hamburg-klein-aber-fein/
 fileName: 2016-01---speicherstadtmuseum-hamburg.md
 description: Eingebettet zwischen Kaispeichern, Restaurants und weiteren Museen
   ist das gemütliche Hamburger Speicherstadtmuseum zu finden - Eine
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13729"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Lagerhaus zum Anfassen
   
 ---

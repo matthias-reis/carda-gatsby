@@ -2,7 +2,7 @@
 title: Veganer Adventskalender von Xucker
 seoTitle: Veganer Adventskalender von Xucker - Geschenktipp
 slug: veganer-adventskalender-von-xucker
-link: /2019/11/veganer-adventskalender-von-xucker/
+path: /2019/11/veganer-adventskalender-von-xucker/
 fileName: 2019-11---veganer-adventskalender-von-xucker.md
 description: Schön sieht er ja schon mal aus der vegane Adventskalender von
   Xucker. Hinter jedem Türchen steckt vegane Gentechnik-freie
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26727"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Geschenkidee
   
 ---

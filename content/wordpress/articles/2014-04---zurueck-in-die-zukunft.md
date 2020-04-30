@@ -2,7 +2,7 @@
 title: Zurück in die Zukunft
 seoTitle: Zurück in die Zukunft - Fotos digitalisieren - So funktionierts
 slug: zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts
-link: /2014/04/zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts/
+path: /2014/04/zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts/
 fileName: 2014-04---zurueck-in-die-zukunft.md
 description: Zurück in die Zukunft dank moderner Technik. Heute zeige ich Euch,
   wie Ihr mit Hilfe von Photoshop und Lightroom Eure alten Bilder digitalisieren
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: "7841"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <div> (34:572)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (34:572)"
 subTitle: Fotos digitalisieren mit Photoshop und Lightroom
   
 ---

@@ -2,7 +2,7 @@
 title: Brautstrauß für immer und ewig
 seoTitle: Brautstrauß für immer und ewig - Schöne Erinnerungen in Asche konservieren DIY
 slug: diy-brautstrauss-fuer-immer-und-ewig
-link: /2017/07/diy-brautstrauss-fuer-immer-und-ewig/
+path: /2017/07/diy-brautstrauss-fuer-immer-und-ewig/
 fileName: 2017-07---brautstrauss-fuer-immer-und-ewig.md
 description: Vor genau vier Jahren, am 5. Juli 2013 gaben sich Matze und ich das
   Ja-Wort. Für meinen Brautstrauß habe ich mir etwas ganz Besonderes einfallen
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16802"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schöne Erinnerungen in Asche konserviert
   
 ---

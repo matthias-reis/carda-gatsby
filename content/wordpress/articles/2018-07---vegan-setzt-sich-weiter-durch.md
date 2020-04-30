@@ -2,7 +2,7 @@
 title: Vegan setzt sich weiter durch
 seoTitle: "Neue Studie zeigt: Vegan setzt sich weiter durch - Produkteinführungen"
 slug: produkteinfuehrungen-vegan
-link: /2018/07/produkteinfuehrungen-vegan/
+path: /2018/07/produkteinfuehrungen-vegan/
 fileName: 2018-07---vegan-setzt-sich-weiter-durch.md
 description: Eine neue Mintel-Studie beweist, dass Deutschland weiterhin den
   größten Anteil an veganen Lebensmitteleinführungen hat. Und das weltweit.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21489"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neue Studie
   
 ---

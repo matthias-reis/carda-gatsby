@@ -2,7 +2,7 @@
 title: DIY Tisch
 seoTitle: DIY Tisch aus Weinkiste - So funktioniert es
 slug: diy-tisch-aus-weinkiste
-link: /2016/08/diy-tisch-aus-weinkiste/
+path: /2016/08/diy-tisch-aus-weinkiste/
 fileName: 2016-08---diy-tisch.md
 description: Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt
   sich dabei um einen Tisch aus einer Weinkiste, den ich gebaut habe.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15050"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aus Weinkiste wird Möbelstück
   
 ---

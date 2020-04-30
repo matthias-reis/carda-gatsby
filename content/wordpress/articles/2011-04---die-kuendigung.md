@@ -2,7 +2,7 @@
 title: Die Kündigung
 seoTitle: Die Kündigung - Eine Kurzgeschichte aus dem Leben
 slug: die-kuendigung
-link: /2011/04/die-kuendigung/
+path: /2011/04/die-kuendigung/
 fileName: 2011-04---die-kuendigung.md
 description: Seelisch war er bereits seit längerer Zeit auf die Kündigung
   vorbereitet. Man hatte ihm in der letzten Zeit systematisch den Spaß an der
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10464"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Kurzgeschichte
   
 ---

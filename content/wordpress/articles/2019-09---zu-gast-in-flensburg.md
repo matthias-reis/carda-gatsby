@@ -2,7 +2,7 @@
 title: Zu Gast in Flensburg
 seoTitle: Zu Gast in Flensburg - veganer Wochenendtripp in den hohen Norden
 slug: zu-gast-in-flensburg
-link: /2019/09/zu-gast-in-flensburg/
+path: /2019/09/zu-gast-in-flensburg/
 fileName: 2019-09---zu-gast-in-flensburg.md
 description: Flensburg ist auf jeden Fall eine Reise wert. Auch für
   Veganer*innen! Neben tollen Sehenswürdigkeiten gibt es jede Menge gemütliche
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26109"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganer Wochenendtripp in den hohen Norden
   
 ---

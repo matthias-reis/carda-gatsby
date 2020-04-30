@@ -2,7 +2,7 @@
 title: Dunk!festival 2017
 seoTitle: Dunk!festival 2017 - Liebe auf den ersten Blick - Unser Dunk!festival
 slug: dunk-festival-2017-eindruecke-und-bilder
-link: /2017/06/dunk-festival-2017-eindruecke-und-bilder/
+path: /2017/06/dunk-festival-2017-eindruecke-und-bilder/
 fileName: 2017-06---dunk-festival-2017.md
 description: Schon ewig liege ich Euch mit den Dunk!festival in den Ohren. Heute
   sind endlich meine Fotos fertig geworden und ich möchte ein paar Eindrücke
@@ -58,7 +58,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16763"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Liebe auf den ersten Blick
   
 ---

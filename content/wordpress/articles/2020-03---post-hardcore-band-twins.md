@@ -2,7 +2,7 @@
 title: Post-Hardcore Band Twins
 seoTitle: Post-Hardcore Band Twins - Interview
 slug: post-hardcore-band-twins
-link: /2020/03/post-hardcore-band-twins/
+path: /2020/03/post-hardcore-band-twins/
 fileName: 2020-03---post-hardcore-band-twins.md
 description: Wer Bands wie Fugazi, Touché Amoré und Title Fight mag, wird sich
   mit der Musik der Post-Hardcore Band Twins wohl fühlen. Ich habe sie
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28723"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Mit Faschisten verhandelt man nicht"'
   
 ---

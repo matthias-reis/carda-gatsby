@@ -2,7 +2,7 @@
 title: Der Stra­ßen­mu­si­kant
 seoTitle: Der Straßenmusikant - Eine Moritat von der Straße
 slug: der-strassenmusikant
-link: /2017/02/der-strassenmusikant/
+path: /2017/02/der-strassenmusikant/
 fileName: 2017-02---der-stra-ssen-mu-si-kant.md
 description: Er packt seine Gitarre aus. Zum Stimmen fehlt ihm heute die Zeit.
   20 Euro soll er morgen früh abliefern. Das bedeutet harte Arbeit. Menschen
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15728"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Moritat von der Straße
   
 ---

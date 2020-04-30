@@ -3,7 +3,7 @@ title: Veganica Bio Manufaktur
 seoTitle: Unterstützt die Veganica Biomanufaktur bis zum 15.12. - Neues veganes
   Crowdfunding!
 slug: veganica-biomanufaktur-crowdfunding
-link: /2017/12/veganica-biomanufaktur-crowdfunding/
+path: /2017/12/veganica-biomanufaktur-crowdfunding/
 fileName: 2017-12---veganica-bio-manufaktur.md
 description: Wenn Ihr bis zum 15.12. die Veganica Biomanufaktur unterstützt,
   könnt ihr geniale Aufstriche und andere schöne Dinge abstauben! Worauf wartet
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18624"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neues Crowdfunding
   
 ---

@@ -2,7 +2,7 @@
 title: Cult Of Luna, The Ocean & Lo live @Feierwerk München
 seoTitle: Cult Of Luna, The Ocean & Lo live @Feierwerk München
 slug: cult-of-luna-the-ocean-lo-live-feierwerk-munchen
-link: /2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/
+path: /2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/
 fileName: 2013-05---cult-of-luna-the-ocean-und-lo-live-feierwerk-muenchen.md
 description: Hier sind meine Aufnahmen vom Treffen der Giganten am 5. Mai in der
   Kranhalle/Feierwerk München. Cult Of Luna & The Ocean live!
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5354"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Treffen der Giganten am 5. Mai 2013 in München
   
 ---

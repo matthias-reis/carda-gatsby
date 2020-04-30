@@ -2,7 +2,7 @@
 title: '"The School of Life: Gelassenheit"'
 seoTitle: "The School of Life: Gelassenheit - Zeit für ein gutes Leben"
 slug: the-school-of-life-gelassenheit
-link: /2018/12/the-school-of-life-gelassenheit/
+path: /2018/12/the-school-of-life-gelassenheit/
 fileName: 2018-12---the-school-of-life-gelassenheit.md
 description: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in
   der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Meine
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23075"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mit mehr Ruhe ins neue Jahr
   
 ---

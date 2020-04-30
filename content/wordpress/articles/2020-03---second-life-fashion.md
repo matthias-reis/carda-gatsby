@@ -2,7 +2,7 @@
 title: Second Life Fashion
 seoTitle: Second Life Fashion
 slug: second-life-fashion
-link: /2020/03/second-life-fashion
+path: /2020/03/second-life-fashion
 fileName: 2020-03---second-life-fashion.md
 description: ""
 excerpt: ""
@@ -18,8 +18,7 @@ isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

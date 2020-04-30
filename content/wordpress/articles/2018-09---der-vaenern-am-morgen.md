@@ -2,7 +2,7 @@
 title: Der Vänern am Morgen
 seoTitle: Der Vänern am Morgen - Der frühe Vogel badet in Ruhe
 slug: der-vaenern-am-morgen
-link: /2018/09/der-vaenern-am-morgen/
+path: /2018/09/der-vaenern-am-morgen/
 fileName: 2018-09---der-vaenern-am-morgen.md
 description: Der Vänern ist nicht nur am Abend eine echte Augenweide. Auch
   morgens kann man hier ein Naturschauspiel erleben. Wenn man etwas früher
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22142"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der frühe Vogel badet in Ruhe
   
 ---

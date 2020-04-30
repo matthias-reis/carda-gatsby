@@ -2,7 +2,7 @@
 title: "Latte Macchiato Muttis oder: Wie sich zwei Tee-Tanten fanden"
 seoTitle: "Latte Macchiato Muttis oder: Wie sich zwei Tee-Tanten fanden"
 slug: latte-macchiato-muttis
-link: /2017/02/latte-macchiato-muttis/
+path: /2017/02/latte-macchiato-muttis/
 fileName: 2017-02---latte-macchiato-muttis-oder-wie-sich-zwei-tee-tanten-fanden.md
 description: Latte Macchiato Muttis lassen überall ihre Sachen liegen. Außerdem
   denken sie nur an sich. Ob das wirklich stimmt, erfahrt Ihr in meiner
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15768"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Frau von nebenan
   
 ---

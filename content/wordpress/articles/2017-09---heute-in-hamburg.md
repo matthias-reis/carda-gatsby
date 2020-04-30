@@ -2,7 +2,7 @@
 title: Heute in Hamburg
 seoTitle: Heute in Hamburg - Ein sonniger Tag - Gedanken und Bilder
 slug: heute-in-hamburg
-link: /2017/09/heute-in-hamburg/
+path: /2017/09/heute-in-hamburg/
 fileName: 2017-09---heute-in-hamburg.md
 description: Von Altona ging es heute in Richtung Sternschanze zu Flohmarkt.
   Ganz nebenbei schlenderten wir noch in ein Atelier, bevor es zum Reeperbahn
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17904"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein sonniger Tag
   
 ---

@@ -2,7 +2,7 @@
 title: Haters rest in poetry - Der Traum, den Anker zu lichten
 seoTitle: Haters rest in poetry - Der Traum, den Anker zu lichten
 slug: haters-rest-in-poetry
-link: /2017/02/haters-rest-in-poetry/
+path: /2017/02/haters-rest-in-poetry/
 fileName: 2017-02---haters-rest-in-poetry-der-traum-den-anker-zu-lichten.md
 description: Haters - Was für ein mächtiges Wort und eigentlich doch kein Wort.
   Die Kunst ist, den Hass in Liebe umzuwandeln, den Anker zu lichten und Poesie
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15834"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aus Hass wird Liebe
   
 ---

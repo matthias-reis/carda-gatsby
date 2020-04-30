@@ -2,7 +2,7 @@
 title: DIY Upcycling Armstulpen
 seoTitle: DIY Upcycling Armstulpen
 slug: diy-upcycling-armstulpen
-link: /2015/11/diy-upcycling-armstulpen/
+path: /2015/11/diy-upcycling-armstulpen/
 fileName: 2015-11---diy-upcycling-armstulpen.md
 description: Wie versprochen zeige ich Euch heute, wie Ihr mit ganz wenig
   Aufwand ein paar tolle Armstulpen herstellen könnt
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13111"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Strick mit bunten Manschetten
   
 ---

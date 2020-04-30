@@ -2,7 +2,7 @@
 title: Vögel auf dem Eis
 seoTitle: Vögel auf dem Eis - Birdwatching in der Nachbarschaft
 slug: voegel-auf-dem-eis
-link: /2016/02/voegel-auf-dem-eis/
+path: /2016/02/voegel-auf-dem-eis/
 fileName: 2016-02---voegel-auf-dem-eis.md
 description: Bei einem kleinen Abendspaziergang durch die Nachbarschaft sind mir
   vor ein paar Tagen einige interessante Gesellen begegnet. Vögel auf dem Eis.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13917"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Birdwatching in der Nachbarschaft
   
 ---

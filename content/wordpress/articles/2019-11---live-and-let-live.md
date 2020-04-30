@@ -2,7 +2,7 @@
 title: '"Live And Let Live"'
 seoTitle: '"Live And Let Live" - eine vegane Dokumentation - Filmtipp'
 slug: live-and-let-live-film
-link: /2019/11/live-and-let-live-film/
+path: /2019/11/live-and-let-live-film/
 fileName: 2019-11---live-and-let-live.md
 description: Heute möchte ich Euch einen ganz besonderen Film ans Herz legen.
   Die Doku "Live And Let Live" wurde von Filmemacher und Regisseur Marc
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26822"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine vegane Dokumentation
   
 ---

@@ -2,7 +2,7 @@
 title: Laura-Mary Carter von Blood Red Shoes ist die beste Alternative Gitarristin
 seoTitle: Laura-Mary Carter von Blood Red Shoes ist die beste Alternative Gitarristin
 slug: laura-mary-carter-von-blood-red-shoes-ist-die-beste-alternative-gitarristin
-link: /2019/12/laura-mary-carter-von-blood-red-shoes-ist-die-beste-alternative-gitarristin/
+path: /2019/12/laura-mary-carter-von-blood-red-shoes-ist-die-beste-alternative-gitarristin/
 fileName: 2019-12---laura-mary-carter-von-blood-red-shoes-ist-die-beste-alternative-gitarristin.md
 description: "MusicRadar hat entschieden: Laura-Mary Carter von den Blood Red
   Shoes wurde zur besten Alternative Gitarristin der Welt gekürt."
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27223"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: MusicRadar veröffentlicht Liste
   
 ---

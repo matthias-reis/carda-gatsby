@@ -2,7 +2,7 @@
 title: Lieder am Ufer
 seoTitle: Lieder am Ufer - mal wieder etwas Prosa
 slug: lieder-am-ufer
-link: /2011/08/lieder-am-ufer/
+path: /2011/08/lieder-am-ufer/
 fileName: 2011-08---lieder-am-ufer.md
 description: Lama am Sonntag. Limonade und Schokoladenkuchen. Segelboote auf
   halb zwölf. Die Philosophie der Kiesbagger.
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2334"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gedanken in der Sonne
   
 ---

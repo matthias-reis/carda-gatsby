@@ -2,7 +2,7 @@
 title: Tweets und neugierige Nachbarn
 seoTitle: Tweets und Nachbarn - ist der Schachtelsatz vom Aussterben bedroht?
 slug: statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht
-link: /2011/10/statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht/
+path: /2011/10/statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht/
 fileName: 2011-10---tweets-und-neugierige-nachbarn.md
 description: Alles in Allem bin ich zu dem Schluss gekommen, dass beides wichtig
   ist. Lange, wohlüberlegte Sätze und kurze Statusnachrichten. Beides zu seiner
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2724"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ist der Schachtelsatz vom Aussterben bedroht?
   
 ---

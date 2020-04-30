@@ -2,7 +2,7 @@
 title: Supergau in Japan
 seoTitle: Supergau in Japan - Opium für's Volk
 slug: supergau-in-japan-und-opium-furs-volk
-link: /2011/05/supergau-in-japan-und-opium-furs-volk/
+path: /2011/05/supergau-in-japan-und-opium-furs-volk/
 fileName: 2011-05---supergau-in-japan.md
 description: Wen interessiert es eigentlich wirklich, ob in Düsseldorf gerade
   ein Sack Kartoffeln umfällt, oder ob eine schwäbische Provinzstadt nun ein
@@ -101,7 +101,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "1956"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Opium für's Volk
   
 ---

@@ -2,7 +2,7 @@
 title: Die vierte Welle
 seoTitle: Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
 slug: kurzgeschichte-die-vierte-welle
-link: /2018/10/kurzgeschichte-die-vierte-welle/
+path: /2018/10/kurzgeschichte-die-vierte-welle/
 fileName: 2018-10---die-vierte-welle.md
 description: 'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine
   Science-Fiction Kurzgeschichte veröffentlicht. Doch: "Die vierte Welle" ist
@@ -35,8 +35,7 @@ isAffiliate: false
 thumbnailId: "22233"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (32:58)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:58)"
 subTitle: Science-Fiction aus dem Hause Reis
   
 ---

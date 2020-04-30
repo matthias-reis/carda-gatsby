@@ -2,7 +2,7 @@
 title: Mystery Blogger Award
 seoTitle: Mystery Blogger Award - Mein Blog ist dabei - Ein Interview mit mir
 slug: mystery-blogger-award-mein-blog-ist-dabei
-link: /2017/10/mystery-blogger-award-mein-blog-ist-dabei/
+path: /2017/10/mystery-blogger-award-mein-blog-ist-dabei/
 fileName: 2017-10---mystery-blogger-award.md
 description: Vor ein paar Tagen hat mich Björn vom Blog Gartenbaukunst für den
   Mystery Blogger Award nominiert. Vielen Dank! Hier meine Antworten auf seine
@@ -31,8 +31,7 @@ isAffiliate: false
 thumbnailId: "18216"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (32:13)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:13)"
 subTitle: Kohlrabi und Deichkind
   
 ---

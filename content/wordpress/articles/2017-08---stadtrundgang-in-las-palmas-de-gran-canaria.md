@@ -2,7 +2,7 @@
 title: Stadtrundgang in Las Palmas de Gran Canaria
 seoTitle: Stadtrundgang in Las Palmas - Jugendstilhäuser und verwinkelte Gassen
 slug: las-palmas-de-gran-canaria
-link: /2017/08/las-palmas-de-gran-canaria/
+path: /2017/08/las-palmas-de-gran-canaria/
 fileName: 2017-08---stadtrundgang-in-las-palmas-de-gran-canaria.md
 description: In Las Palmas de Gran Canaria gibt es viel zu entdecken. Ihr
   solltet auf jeden Fall ein Bisschen Zeit mitbringen. Ich berichte Euch von
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17767"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Jugendstilhäuser und verwinkelte Gassen
   
 ---

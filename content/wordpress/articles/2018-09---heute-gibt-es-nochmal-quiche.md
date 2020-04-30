@@ -2,7 +2,7 @@
 title: Heute gibt es nochmal Quiche
 seoTitle: Heute gibt es nochmal Quiche - Veganes Rezept für vier Portionen
 slug: heute-gibt-es-nochmal-quiche
-link: /2018/09/heute-gibt-es-nochmal-quiche/
+path: /2018/09/heute-gibt-es-nochmal-quiche/
 fileName: 2018-09---heute-gibt-es-nochmal-quiche.md
 description: "Erwähnte ich bereits, dass ich Quiche liebe? Ganz ehrlich: Ich
   kann einfach nicht genug davon kriegen. Darum präsentiere ich Euch heute ein
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21934"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganes Rezept für vier Portionen
   
 ---

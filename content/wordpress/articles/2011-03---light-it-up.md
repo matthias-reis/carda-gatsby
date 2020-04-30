@@ -2,7 +2,7 @@
 title: Light It Up
 seoTitle: Song des Tages - Blood Red Shoes - "Light It Up"
 slug: light-it-up-blood-red-shoes
-link: /2011/03/light-it-up-blood-red-shoes/
+path: /2011/03/light-it-up-blood-red-shoes/
 fileName: 2011-03---light-it-up.md
 description: Mein Song des Tages ist heute "Light It Up" von den Blood Red Shoes.
 excerpt: Mein Song des Tages ist heute "Light It Up" von den Blood Red Shoes.
@@ -17,7 +17,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3804"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Song des Tages
   
 ---

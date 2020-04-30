@@ -2,7 +2,7 @@
 title: St. Peter Ording
 seoTitle: St. Peter-Ording - Perle an der Nordsee
 slug: st-peter-ording
-link: /2015/08/st-peter-ording/
+path: /2015/08/st-peter-ording/
 fileName: 2015-08---st-peter-ording.md
 description: Wie versprochen, hier eine kleine Auswahl meiner Bilder von unserem
   Besuch in St. Peter Ording letztes Jahr im Oktober. Ich hoffe, sie gefallen
@@ -30,8 +30,7 @@ isAffiliate: false
 thumbnailId: "12455"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (28:21)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:21)"
 subTitle: Perle an der Nordsee
   
 ---

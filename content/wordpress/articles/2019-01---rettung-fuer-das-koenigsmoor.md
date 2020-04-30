@@ -2,7 +2,7 @@
 title: Rettung für das Königsmoor
 seoTitle: Rettung für das Königsmoor MoorFutures® - Klimaschutz durch Ausgleich
 slug: koenigsmoor-moorfutures
-link: /2019/01/koenigsmoor-moorfutures/
+path: /2019/01/koenigsmoor-moorfutures/
 fileName: 2019-01---rettung-fuer-das-koenigsmoor.md
 description: Moore spielen eine tragende Rolle im Klimaschutz. Aus diesem Grund
   wird das Königsmoor renaturiert. Ich erkläre Euch, wie Ihr dabei helfen könnt.
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23357"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Klimaschutz durch Ausgleich mit "MoorFutures"
   
 ---

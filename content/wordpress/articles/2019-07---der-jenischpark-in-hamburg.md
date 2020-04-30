@@ -2,7 +2,7 @@
 title: Der Jenischpark in Hamburg
 seoTitle: Der Jenischpark in Hamburg - einfach mal die Seele baumeln lassen
 slug: jenischpark-hamburg
-link: /2019/07/jenischpark-hamburg/
+path: /2019/07/jenischpark-hamburg/
 fileName: 2019-07---der-jenischpark-in-hamburg.md
 description: Wenn man in der Großstadt lebt, ist der Wunsch nach frischer Luft
   am Wochenende oft groß - der Jenischpark ist in solchen Momenten immer eine
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24707"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Einfach mal die Seele baumeln lassen
   
 ---

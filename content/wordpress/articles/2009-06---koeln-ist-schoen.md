@@ -2,7 +2,7 @@
 title: Köln ist schön
 seoTitle: Köln
 slug: cologne
-link: /2009/06/cologne/
+path: /2009/06/cologne/
 fileName: 2009-06---koeln-ist-schoen.md
 description: Kurzer Zwischenstopp am Bahnhof in Köln
 excerpt: Ein Kurzer Zwischenstopp am Bahnhof in Köln
@@ -19,7 +19,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11365"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>Zwischenstopp am Bahnhof Köln</strong>
   
 ---

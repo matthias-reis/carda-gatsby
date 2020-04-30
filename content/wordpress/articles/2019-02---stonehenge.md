@@ -2,7 +2,7 @@
 title: Stonehenge
 seoTitle: Stonehenge - mystische Megalithen im Süden Englands
 slug: stonehenge-11-05-2009
-link: /2019/02/stonehenge-11-05-2009/
+path: /2019/02/stonehenge-11-05-2009/
 fileName: 2019-02---stonehenge.md
 description: Während meiner Reise durch Südengland bin ich auch an Stonehenge
   vorbeigekommen. Das mystische Bauwerk zieht mich jedes Mal aufs Neue in seinen
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23402"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mystische Megalithen
   
 ---

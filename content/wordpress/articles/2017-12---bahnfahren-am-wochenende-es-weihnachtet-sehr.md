@@ -2,7 +2,7 @@
 title: Bahnfahren am Wochenende - Es weihnachtet sehr
 seoTitle: Bahnfahren am Wochenende - Es weihnachtet sehr - Achtsamkeit in Zügen
 slug: bahnfahren-am-wochenende-es-weihnachtet-sehr
-link: /2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/
+path: /2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/
 fileName: 2017-12---bahnfahren-am-wochenende-es-weihnachtet-sehr.md
 description: Ärgert Euch nicht übers Bahnfahren, das gibt nur Sorgenfalten.
   Bedankt Euch mal beim Paketboten. Streitet Euch nicht und habt eine schöne
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18717"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Achtsamkeit in Zügen
   
 ---

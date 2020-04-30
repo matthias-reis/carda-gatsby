@@ -2,7 +2,7 @@
 title: Jetzt wird's weiblich!
 seoTitle: Die neue feminine Kollektion von Feuerwear - jetzt wird's weiblich!
 slug: feuerwear-feminine-kollektion
-link: /2019/09/feuerwear-feminine-kollektion/
+path: /2019/09/feuerwear-feminine-kollektion/
 fileName: 2019-09---jetzt-wirds-weiblich.md
 description: Von Feuerwear gibt es jetzt verschiedene Handtaschen und
   Schlüsselanhänger aus Feuerwehrschläuchen - die feminine Kollektion ist da!
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26439"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die neue feminine Kollektion von Feuerwear
   
 ---

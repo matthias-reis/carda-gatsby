@@ -2,7 +2,7 @@
 title: Naturschutzgebiet Boberger Niederung
 seoTitle: Naturschutzgebiet Boberger Niederung
 slug: naturschutzgebiet-boberger-niederung
-link: /2016/05/naturschutzgebiet-boberger-niederung/
+path: /2016/05/naturschutzgebiet-boberger-niederung/
 fileName: 2016-05---naturschutzgebiet-boberger-niederung.md
 description: Im Naturschutzgebiet Boberger Niederung haben wir am Pfingstmontag
   ein paar wunderschöne Stunden verbracht. Dabei sind mir ein paar schöne Fotos
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14743"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wanderung am Pfingstmontag
   
 ---

@@ -2,7 +2,7 @@
 title: Welt Vegan Magazin 4/2016
 seoTitle: Welt Vegan Magazin 4/2016 - Ratet mal, wer die neue Textchefin ist...
 slug: welt-vegan-magazin-42016-textchefin
-link: /2016/11/welt-vegan-magazin-42016-textchefin/
+path: /2016/11/welt-vegan-magazin-42016-textchefin/
 fileName: 2016-11---welt-vegan-magazin-4-2016.md
 description: Das Welt Vegan Magazin ist wieder da! Die neue Ausgabe liegt ab
   sofort in den Regalen der Zeitschriftenläden. Ratet mal, wer die neue
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15367"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ratet mal, wer die neue Textchefin ist...
   
 ---

@@ -2,7 +2,7 @@
 title: Arbeitsplatz in Hamburg gesucht
 seoTitle: Arbeitsplatz in Hamburg gesucht - Redakteurin / Texterin
 slug: arbeitsplatz-in-hamburg-gesucht
-link: /2015/09/arbeitsplatz-in-hamburg-gesucht/
+path: /2015/09/arbeitsplatz-in-hamburg-gesucht/
 fileName: 2015-09---arbeitsplatz-in-hamburg-gesucht.md
 description: Heute wende ich mich in eigener Sache an Euch. Ich bin auf der
   Suche nach einem Arbeitsplatz als Content Managerin/Texterin/Redakteurin in
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12475"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Content Managerin / Online Redakteurin / Texterin - ab sofort
   
 ---

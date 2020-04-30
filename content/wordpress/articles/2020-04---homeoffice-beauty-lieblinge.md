@@ -2,7 +2,7 @@
 title: Homeoffice Beauty-Lieblinge
 seoTitle: Homeoffice Beauty-Lieblinge von Santaverde
 slug: homeoffice-beauty-lieblinge
-link: /2020/04/homeoffice-beauty-lieblinge/
+path: /2020/04/homeoffice-beauty-lieblinge/
 fileName: 2020-04---homeoffice-beauty-lieblinge.md
 description: Während der Zeit im Homeoffice verzichte ich komplett auf Make-up.
   Dabei habe ich zwei neue Beauty Lieblinge für mich entdeckt.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28817"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Age Protect Fluid und XINGU Age Perfect
   
 ---

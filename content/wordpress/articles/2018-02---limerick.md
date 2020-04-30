@@ -2,7 +2,7 @@
 title: Limerick
 seoTitle: Limerick - fünf Zeilen Spaß und eine Stadt in Irland
 slug: limerick
-link: /2018/02/limerick/
+path: /2018/02/limerick/
 fileName: 2018-02---limerick.md
 description: Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im
   Rahmen unserer Irlandreise im letzten Herbst, habe ich mir mal was Neues
@@ -31,8 +31,7 @@ isAffiliate: false
 thumbnailId: "19730"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (33:66)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (33:66)"
 subTitle: Fünf Zeilen Spaß und eine Stadt in Irland
   
 ---

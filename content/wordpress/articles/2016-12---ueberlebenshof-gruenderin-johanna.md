@@ -2,7 +2,7 @@
 title: Überlebenshof-Gründerin Johanna
 seoTitle: Interview mit Johanna vom Katzen-Überlebenshof AMOA
 slug: johanna-tierhof-amoa-interview
-link: /2016/12/johanna-tierhof-amoa-interview/
+path: /2016/12/johanna-tierhof-amoa-interview/
 fileName: 2016-12---ueberlebenshof-gruenderin-johanna.md
 description: Der Katzen-Überlebenshof AMOA braucht dringend Eure Unterstützung.
   Futterspenden sind jederzeit willkommen! Ich habe mit Johanna über die Zukunft
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15480"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Was macht eigentlich AMOA?
   
 ---

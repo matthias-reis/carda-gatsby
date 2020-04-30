@@ -2,7 +2,7 @@
 title: Drei Jahre Blog-Jubiläum
 seoTitle: Drei Jahre Blog-Jubiläum
 slug: hoch-die-tassen-jubilaum
-link: /2013/04/hoch-die-tassen-jubilaum/
+path: /2013/04/hoch-die-tassen-jubilaum/
 fileName: 2013-04---drei-jahre-blog-jubilaeum.md
 description: Mein Blog wird heute drei Jahre alt! Das ist für mich natürlich ein
   Grund zum Feiern und einen Rückblick für Euch gibt es auch!
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5058"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Es gibt was zu feiern
   
 ---

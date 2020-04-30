@@ -2,7 +2,7 @@
 title: Ein ganz normaler Donnerstag
 seoTitle: QR-Codes einbinden
 slug: qr-codes
-link: /2012/08/qr-codes/
+path: /2012/08/qr-codes/
 fileName: 2012-08---ein-ganz-normaler-donnerstag.md
 description: So leicht könnt Ihr Eure eigenen QR-Codes bauen. QR-Codes für meine
   Visitenkarte. QR-Code für mein Weblog
@@ -43,7 +43,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3770"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Von Sommersonne, Gipfelkreuzen und QR- Codes
   
 ---

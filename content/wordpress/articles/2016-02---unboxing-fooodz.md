@@ -2,7 +2,7 @@
 title: Unboxing Fooodz
 seoTitle: Unboxing Fooodz.de - Vegane Lebensmittel an die Haustür
 slug: unboxing-fooodz-de
-link: /2016/02/unboxing-fooodz-de/
+path: /2016/02/unboxing-fooodz-de/
 fileName: 2016-02---unboxing-fooodz.md
 description: Unboxing ist toll - Vor Kurzem bekam ich wieder mal eine Anfrage
   und damit die Möglichkeit, den veganen Online-Shop Fooodz.de zu testen. Hier
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13860"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Lebensmittel bestellen
   
 ---

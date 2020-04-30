@@ -2,7 +2,7 @@
 title: Ich habe gewonnen
 seoTitle: Meine neue vegane Handtasche von Matt&Nat - Danke, liebe zauberisch!
 slug: meine-neue-vegane-handtasche-von-mattnat
-link: /2016/12/meine-neue-vegane-handtasche-von-mattnat/
+path: /2016/12/meine-neue-vegane-handtasche-von-mattnat/
 fileName: 2016-12---ich-habe-gewonnen.md
 description: Kürzlich habe ich mal wieder bei einem Instagram-Gewinnspiel
   mitgemacht und habe, Ihr werdet es kaum glauben, eine Matt&Nat Handtasche
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15394"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Meine neue vegane Handtasche von Matt&amp;Nat
   
 ---

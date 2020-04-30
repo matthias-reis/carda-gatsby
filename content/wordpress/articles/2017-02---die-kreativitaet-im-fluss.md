@@ -2,7 +2,7 @@
 title: Die Kreativität im Fluss
 seoTitle: Die Kreativität im Fluss - Eine Autorin bei der Arbeit
 slug: die-kreativitaet-im-fluss
-link: /2017/02/die-kreativitaet-im-fluss/
+path: /2017/02/die-kreativitaet-im-fluss/
 fileName: 2017-02---die-kreativitaet-im-fluss.md
 description: Wer schreibt, schreibt an vielen Fronten. Die Kreativität in den
   richtigen Momenten zu nutzen, ist die Kunst, sie nicht zu verlieren ist die
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15972"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Autorin bei der Arbeit
   
 ---

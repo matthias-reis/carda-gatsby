@@ -2,7 +2,7 @@
 title: NORDEN Festival
 seoTitle: Norden Festival - Neues Open Air Event in den Startlöchern!
 slug: norden-festival
-link: /2018/07/norden-festival/
+path: /2018/07/norden-festival/
 fileName: 2018-07---norden-festival.md
 description: Vom 30. August bis einschließlich 16. September wird auf den
   Königswiesen erstmalig das NORDEN Festival stattfinden. Ich verlose 4
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21333"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neues Open Air Event steht in den Startlöchern
   
 ---

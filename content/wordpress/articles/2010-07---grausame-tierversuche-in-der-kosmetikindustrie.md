@@ -2,7 +2,7 @@
 title: Grausame Tierversuche in der Kosmetikindustrie
 seoTitle: Tierversuche in der Kosmetikindustrie - diese Produkte sind qualfrei
 slug: grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden
-link: /2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/
+path: /2010/07/grausame-tierversuche-in-der-kosmetikindustrie-wie-kann-ich-erkennen-welche-produkte-nicht-an-tieren-getestet-wurden/
 fileName: 2010-07---grausame-tierversuche-in-der-kosmetikindustrie.md
 description: Tierversuche sind grausam und unnötig. So lässt sich herausfinden,
   welche Produkte und Zusatzstoffe wirklich nicht an Tieren getestet werden.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "309"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wie kann ich erkennen, welche Produkte nicht an Tieren getestet wurden?
   
 ---

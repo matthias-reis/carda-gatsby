@@ -2,7 +2,7 @@
 title: Lani vom Katzentempel Hamburg
 seoTitle: Interview mit Lani vom Katzentempel Hamburg - Frühstück im Katzencafé
 slug: katzentempel-hamburg-interview
-link: /2017/08/katzentempel-hamburg-interview/
+path: /2017/08/katzentempel-hamburg-interview/
 fileName: 2017-08---lani-vom-katzentempel-hamburg.md
 description: Ich habe mich mit Lani vom Katzentempel Hamburg zum Frühstück
   getroffen. Im Interview hat Sie mir einiges zum Thema Tierschutz und
@@ -43,8 +43,7 @@ isAffiliate: false
 thumbnailId: "17714"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <i> (182:95)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <i> (182:95)"
 subTitle: Frühstück im Katzencafé
   
 ---

@@ -2,7 +2,7 @@
 title: Veganes Hochzeitscatering
 seoTitle: Veganes Hochzeitscatering - Alohachérie Hamburg
 slug: veganes-hochzeitscatering
-link: /2016/02/veganes-hochzeitscatering/
+path: /2016/02/veganes-hochzeitscatering/
 fileName: 2016-02---veganes-hochzeitscatering.md
 description: Das Alohachérie ist Hamburgs erster veganer Cateringservice. Es
   gibt unter anderem veganes Hochzeitscatering. Ich habe mit einem der Gründer
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29193"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Alohachérie Hamburg
   
 ---

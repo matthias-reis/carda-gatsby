@@ -2,7 +2,7 @@
 title: Emil Nolde in der Hamburger Kunsthalle
 seoTitle: Emil Nolde in der Hamburger Kunsthalle
 slug: emil-nolde-in-der-hamburger-kunsthalle
-link: /2015/11/emil-nolde-in-der-hamburger-kunsthalle/
+path: /2015/11/emil-nolde-in-der-hamburger-kunsthalle/
 fileName: 2015-11---emil-nolde-in-der-hamburger-kunsthalle.md
 description: Derzeit läuft in der Hamburger Kunsthalle eine Sonderausstellung
   mit den Werken des norddeutschen Künstlers Emil Nolde - Hier sind meine
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13145"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Instagram-Galerie
   
 ---

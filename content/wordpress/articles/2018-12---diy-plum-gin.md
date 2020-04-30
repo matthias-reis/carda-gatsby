@@ -2,7 +2,7 @@
 title: DIY Plum Gin
 seoTitle: DIY Plum Gin - Selbst gemachter Likör - Rezept & Geschenkidee
 slug: diy-plum-gin
-link: /2018/12/diy-plum-gin/
+path: /2018/12/diy-plum-gin/
 fileName: 2018-12---diy-plum-gin.md
 description: In einem Gastbeitrag verrät Matze heute sein Rezept für selbst
   gemachten Pflaumen-Gin. Er eignet sich perfekt als Basis für Cockails. Und als
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22996"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Likör selbst gemacht
   
 ---

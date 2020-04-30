@@ -2,7 +2,7 @@
 title: Teutoburger Wald
 seoTitle: Der Teutoburger Wald - Sehnsuchtsort und Wanderparadies
 slug: teutoburger-wald
-link: /2019/08/teutoburger-wald/
+path: /2019/08/teutoburger-wald/
 fileName: 2019-08---teutoburger-wald.md
 description: Der Teutoburger Wald ist für viele ein beliebtes Ausflugsziel. Das
   Mittelgebirge ist nicht nur besonders geschichtsträchtig. Es ist ein wares
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25348"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sehnsuchtsort und Wanderparadies
   
 ---

@@ -2,7 +2,7 @@
 title: Archive live @ Docks Hamburg 22.11.2016
 seoTitle: Archive live @ Docks Hamburg - Kings Of The False Foundation Tour
 slug: archive-live-docks-hamburg
-link: /2016/11/archive-live-docks-hamburg/
+path: /2016/11/archive-live-docks-hamburg/
 fileName: 2016-11---archive-live-docks-hamburg-22-11-2016.md
 description: Archive spielten gestern Abend live im Docks auf der Reeperbahn und
   wir waren live dabei. Das Konzert war wirklich großartig. Hier ein paar Fotos
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15314"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kings Of The False Foundation Tour
   
 ---

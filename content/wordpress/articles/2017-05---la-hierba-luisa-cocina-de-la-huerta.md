@@ -3,7 +3,7 @@ title: La Hierba Luisa - Cocina de la Huerta
 seoTitle: La Hierba Luisa - Cocina de la Huerta - Eine vegane Oase im Herzen von
   Las Palmas
 slug: la-hierba-luisa-cocina-de-la-huerta
-link: /2017/05/la-hierba-luisa-cocina-de-la-huerta/
+path: /2017/05/la-hierba-luisa-cocina-de-la-huerta/
 fileName: 2017-05---la-hierba-luisa-cocina-de-la-huerta.md
 description: Heute möchte ich Euch das La Hierba Luisa vorstellen. Eine
   gemütliche Oase in Gran Canarias Hauptstadt. Hier gibt es unter anderem
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16694"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine vegane Oase im Herzen von Las Palmas
   
 ---

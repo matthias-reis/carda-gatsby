@@ -2,7 +2,7 @@
 title: Indian Summer im Loki Schmidt Garten
 seoTitle: Indian Summer im Loki Schmidt Garten in Hamburg
 slug: indian-summer-im-loki-schmidt-garten
-link: /2015/09/indian-summer-im-loki-schmidt-garten/
+path: /2015/09/indian-summer-im-loki-schmidt-garten/
 fileName: 2015-09---indian-summer-im-loki-schmidt-garten.md
 description: Bei einem herbstlichen Rundgang durch den Hamburger Loki Schmidt
   Garten kann man zahlreiche Blumen und Insekten bewundern. Hier sind meine
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12886"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bienen und Hagebutten im Sonnenlicht
   
 ---

@@ -2,7 +2,7 @@
 title: '"Vegan, aber günstig"'
 seoTitle: Buchtipp - "Vegan, aber günstig"
 slug: vegan-aber-guenstig-patrick-bolk
-link: /2019/07/vegan-aber-guenstig-patrick-bolk/
+path: /2019/07/vegan-aber-guenstig-patrick-bolk/
 fileName: 2019-07---vegan-aber-guenstig.md
 description: 'Ich möchte Euch zwei ganz besondere Bücher von Patrick Bolk
   zeigen: "Vegan, aber günstig - spar Dir das Tier" und "Vegan, aber günstig -
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25335"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Spartipps und Kochbuch von Patrick Bolk
   
 ---

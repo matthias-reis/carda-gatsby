@@ -2,7 +2,7 @@
 title: Navy stellt gefährliche Sonartests ein
 seoTitle: Navy stellt gefährliche Sonartests ein Erfolg für NDRC
 slug: sonartests-eingestellt-ndrc-erfolg
-link: /2015/09/sonartests-eingestellt-ndrc-erfolg/
+path: /2015/09/sonartests-eingestellt-ndrc-erfolg/
 fileName: 2015-09---navy-stellt-gefaehrliche-sonartests-ein.md
 description: Seit vielen Jahren führt die US Navy ihre Sonartests in ökologisch
   sensiblen Bereichen des Meeres durch. Das hat zumRückzug der Meerestiere
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26958"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erfolg für NRDC
   
 ---

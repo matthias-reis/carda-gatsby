@@ -2,7 +2,7 @@
 title: Bunratty Castle
 seoTitle: Bunratty Castle - Normannische Burg und Publikumsmagnet
 slug: bunratty-castle
-link: /2018/03/bunratty-castle/
+path: /2018/03/bunratty-castle/
 fileName: 2018-03---bunratty-castle.md
 description: Bunratty Castle wird in nahezu jedem Reiseführer als legendär
   beschrieben Vermutlich ist genau das das Problem. Es blickt auf eine wilde
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19762"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Normannische Burg und Publikumsmagnet
   
 ---

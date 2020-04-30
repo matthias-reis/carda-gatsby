@@ -2,7 +2,7 @@
 title: Long Distance Calling live in Hamburg
 seoTitle: Long Distance Calling @ Kulturkirche Altona - Post-Rock im Gotteshaus
 slug: long-distance-calling-kulturkirche-altona
-link: /2019/04/long-distance-calling-kulturkirche-altona/
+path: /2019/04/long-distance-calling-kulturkirche-altona/
 fileName: 2019-04---long-distance-calling-live-in-hamburg.md
 description: Long Distance Calling haben am 6. April in der Kulturkirche Altona
   zum 10. Geburtstag von "Avoid The Light" eine DVD aufgenommen. Wir waren
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23961"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Post-Rock in der Kulturkirche Altona
   
 ---

@@ -2,7 +2,7 @@
 title: Ich habe Saal Digital getestet
 seoTitle: Ich habe Saal Digital getestet - Endlich ein perfektes Wandbild
 slug: saal-digital
-link: /2018/02/saal-digital/
+path: /2018/02/saal-digital/
 fileName: 2018-02---ich-habe-saal-digital-getestet.md
 description: Ich habe jetzt den Service von Saal Digital getestet und ein
   Wandbild aus einem meiner Lieblingsfotos erstellen lassen. Hier mein
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19843"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Endlich ein perfektes Wandbild
   
 ---

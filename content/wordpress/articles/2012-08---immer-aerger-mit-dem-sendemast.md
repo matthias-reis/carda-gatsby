@@ -2,7 +2,7 @@
 title: Immer Ärger mit dem Sendemast
 seoTitle: Immer Ärger mit dem Sendemast - Von Warteschleifen und Wutanfällen
 slug: immer-aerger-mit-dem-sendemast
-link: /2012/08/immer-aerger-mit-dem-sendemast/
+path: /2012/08/immer-aerger-mit-dem-sendemast/
 fileName: 2012-08---immer-aerger-mit-dem-sendemast.md
 description: ""
 excerpt: Heute lasse ich Euch mal an meinem Alltagsfrust teilnehmen. Ihr dürft
@@ -59,8 +59,7 @@ isAffiliate: false
 thumbnailId: "5020"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (44:11)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:11)"
 subTitle: Von Warteschleifen und Wutanfällen
   
 ---

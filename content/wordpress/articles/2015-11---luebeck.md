@@ -2,7 +2,7 @@
 title: Lübeck
 seoTitle: Wunderschönes Lübeck - Fotostrecke
 slug: wunderschoenes-luebeck
-link: /2015/11/wunderschoenes-luebeck/
+path: /2015/11/wunderschoenes-luebeck/
 fileName: 2015-11---luebeck.md
 description: Die schöne Hafenstadt Lübeck zeigte sich am Sonntag im gleißenden
   Sonnenlicht. Vom Aussichtsturm genossen wir einen genialen Blick.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13061"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Geschichte einer Hafenstadt
   
 ---

@@ -2,7 +2,7 @@
 title: Wolle? Das kann doch gar nicht so schlimm sein!
 seoTitle: Wolle und vegane Alternativen - darum verzichte ich auf Wolle
 slug: wolle-das-kann-doch-gar-nicht-so-schlimm-sein
-link: /2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/
+path: /2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/
 fileName: 2014-10---wolle-das-kann-doch-gar-nicht-so-schlimm-sein.md
 description: Wolle? Das kann doch gar nicht so schlimm sein? Alles über die
   Gewinnung von Wolle für unsere Kleidung und warum Veganer*innen auf Wolle
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9028"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil VI
   
 ---

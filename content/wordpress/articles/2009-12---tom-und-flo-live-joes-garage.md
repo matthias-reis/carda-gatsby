@@ -2,7 +2,7 @@
 title: TOM & FLO live @ Joe's Garage
 seoTitle: Tom & Flo live @ Joe's Garage
 slug: tom-flo-live-joes-garage
-link: /2009/12/tom-flo-live-joes-garage/
+path: /2009/12/tom-flo-live-joes-garage/
 fileName: 2009-12---tom-und-flo-live-joes-garage.md
 description: "Am Samstag, 19. Dezember war es so weit: Tom & Flo spielten live
   und unplugged in Lothars alter Nähfabrik in Schrobenhausen."
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11494"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Lothars alte Nähfabrik Schrobenhausen
   
 ---

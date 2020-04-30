@@ -2,7 +2,7 @@
 title: Eden Project
 seoTitle: Eden Project - Anne bloggt cardamonchai
 slug: eden-project
-link: /2009/05/eden-project/
+path: /2009/05/eden-project/
 fileName: 2009-05---eden-project.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Eden Project"
 excerpt: 1995 hatte der britische Archäologe und Gärtner Tim Smith die Idee, in
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11239"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 13/17
   
 ---

@@ -2,7 +2,7 @@
 title: Zu Gast in Estepona
 seoTitle: Zu Gast in Estepona - Tapas und Geschichte an der Costa del Sol
 slug: estepona-andalusien
-link: /2019/09/estepona-andalusien/
+path: /2019/09/estepona-andalusien/
 fileName: 2019-09---zu-gast-in-estepona.md
 description: Estepona liegt an der spanischen Costa del Sol in der Provinz
   Málaga in Andalusien. Wir haben der Stadt einen Besuch abgestattet und uns mal
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26478"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tapas und Geschichte
   
 ---

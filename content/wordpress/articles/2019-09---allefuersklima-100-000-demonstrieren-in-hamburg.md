@@ -2,7 +2,7 @@
 title: "#allefuersklima - 100.000 demonstrieren in Hamburg"
 seoTitle: "#allefuersklima - 100.000 Menschen streiken in Hamburg fürs Klima"
 slug: allefuersklima-hamburg
-link: /2019/09/allefuersklima-hamburg/
+path: /2019/09/allefuersklima-hamburg/
 fileName: 2019-09---allefuersklima-100-000-demonstrieren-in-hamburg.md
 description: "100.000 Menschen streiken heute unter dem Motto #allefuersklima in
   Hamburg. Das macht Mut und lässt auf Änderungen hoffen."
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26299"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Globaler Klimastreik gut besucht
   
 ---

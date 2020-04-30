@@ -2,7 +2,7 @@
 title: Lovechock Rocks
 seoTitle: Lovechock Rocks im Test - richtig gute Schokolade
 slug: lovechock-rocks
-link: /2014/10/lovechock-rocks/
+path: /2014/10/lovechock-rocks/
 fileName: 2014-10---lovechock-rocks.md
 description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in
   Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24427"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rohe Schokolade mit dem gewissen Etwas
   
 ---

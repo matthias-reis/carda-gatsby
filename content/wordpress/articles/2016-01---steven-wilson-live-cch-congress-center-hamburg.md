@@ -2,7 +2,7 @@
 title: Steven Wilson live @ CCH Congress Center Hamburg
 seoTitle: Steven Wilson live @ CCH Congress Center Hamburg
 slug: steven-wilson-live-cch-congress-center-hamburg
-link: /2016/01/steven-wilson-live-cch-congress-center-hamburg/
+path: /2016/01/steven-wilson-live-cch-congress-center-hamburg/
 fileName: 2016-01---steven-wilson-live-cch-congress-center-hamburg.md
 description: Das komplette Hand. Cannot. Erase. Album spielte Steven Wilson mit
   Band kurz vor der Veröffentlichung seines neuen Albums auf seinem Konzert in
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13763"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Perfekt. Nachdenklich. Unvergesslich.
   
 ---

@@ -2,7 +2,7 @@
 title: Umzug zu Wordpress
 seoTitle: Mein Blog zieht um zu Wordpress - Tagebucheintrag
 slug: umzug-zu-wordpress
-link: /2011/02/umzug-zu-wordpress/
+path: /2011/02/umzug-zu-wordpress/
 fileName: 2011-02---umzug-zu-wordpress.md
 description: Ich möchte nicht alles auf meiner Festplatte speichern, und ich
   würde mich auch freuen würde, wenn Sie ab und an der Ein oder Andere liest.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "271"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <img class="alignright size-medium wp-image-271"
   src="http://cardamonchai.com/wp-content/uploads/2011/02/img_4857-640x427.jpg"
   alt="Umzug zu Wordpress" width="300" height="200" />Alte und neue Beiträge

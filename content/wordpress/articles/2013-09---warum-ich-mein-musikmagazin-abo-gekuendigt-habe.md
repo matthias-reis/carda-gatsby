@@ -2,7 +2,7 @@
 title: Warum ich mein Musikmagazin-Abo gekündigt habe
 seoTitle: Warum ich mein Musikmagazin-Abo gekündigt habe
 slug: musikmagazin-abo-kuendigung
-link: /2013/09/musikmagazin-abo-kuendigung/
+path: /2013/09/musikmagazin-abo-kuendigung/
 fileName: 2013-09---warum-ich-mein-musikmagazin-abo-gekuendigt-habe.md
 description: Seit einiger Zeit ist alles anders. Meiner Meinung nach hat sich
   die Zeitschrift, genau wie die gesamte Musiklandschaft in den letzen Jahren
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7060"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Enttäuschung ist nicht immer gleich Griesgrämigkeit
   
 ---

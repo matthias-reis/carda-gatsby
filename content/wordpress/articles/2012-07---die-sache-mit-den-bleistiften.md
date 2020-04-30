@@ -2,7 +2,7 @@
 title: Die Sache mit den Bleistiften
 seoTitle: Die Sache mit den Bleistiften - Tagebucheintrag
 slug: die-sache-mit-den-bleistiften
-link: /2012/07/die-sache-mit-den-bleistiften/
+path: /2012/07/die-sache-mit-den-bleistiften/
 fileName: 2012-07---die-sache-mit-den-bleistiften.md
 description: "Große Veränderungen werfen ihre Strahlen voraus. Im Urlaub eine
   Nachricht: Sie haben den Job. Die Freude ist groß."
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3229"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

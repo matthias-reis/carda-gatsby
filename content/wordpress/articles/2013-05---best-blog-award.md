@@ -2,7 +2,7 @@
 title: Best Blog Award
 seoTitle: Best Blog Award - Wie jetzt, ich habe gewonnen?!
 slug: best-blog-award-wie-jetzt-ich-habe-was-gewonnen
-link: /2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/
+path: /2013/05/best-blog-award-wie-jetzt-ich-habe-was-gewonnen/
 fileName: 2013-05---best-blog-award.md
 description: Unlängst bekam ich für mein Blog doch tatsächlich einen Blog Award
   verliehen! Nun ist es an der Zeit, dass ich selbst meine Lieblingsblogs
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5493"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bloggründung und Vorbilder
   
 ---

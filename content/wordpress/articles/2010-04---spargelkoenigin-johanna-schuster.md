@@ -2,7 +2,7 @@
 title: Spargelkönigin Johanna Schuster
 seoTitle: Interview mit der Schrobenhausener Spargelkönigin
 slug: interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster
-link: /2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/
+path: /2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/
 fileName: 2010-04---spargelkoenigin-johanna-schuster.md
 description: Interview mit der Spargelkönigin Johanna Schuster - Ihren Spargel
   mag Johanna am liebsten ganz klassisch mit Kartoffeln und Butter.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10957"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Der Spargel ist für Schrobenhausen von großer Bedeutung"'
   
 ---

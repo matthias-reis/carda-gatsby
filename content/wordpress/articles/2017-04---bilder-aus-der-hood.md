@@ -2,7 +2,7 @@
 title: Bilder aus der Hood
 seoTitle: Bilder aus der Hood - Kleine Fotorunde Altona und Sankt Pauli
 slug: bilder-aus-der-hood
-link: /2017/04/bilder-aus-der-hood/
+path: /2017/04/bilder-aus-der-hood/
 fileName: 2017-04---bilder-aus-der-hood.md
 description: Meine Kamera und ich haben eine kleine Runde durch die Hood
   gedreht. Dabei sind ein paar spannende Momentaufnahmen entstanden. Finde ich
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16431"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kleine Fotorunde Altona und Sankt Pauli
   
 ---

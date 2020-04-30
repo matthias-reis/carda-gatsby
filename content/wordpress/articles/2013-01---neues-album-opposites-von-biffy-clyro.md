@@ -2,7 +2,7 @@
 title: Neues Album "Opposites" von Biffy Clyro
 seoTitle: Biffy Clyro bringen neues Album raus
 slug: melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt
-link: /2013/01/melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt/
+path: /2013/01/melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt/
 fileName: 2013-01---neues-album-opposites-von-biffy-clyro.md
 description: Biffy Clyro haben ihr neues Album rausgebracht - Ich habe schon mal reingehört
 excerpt: Das sehnsüchtige Warten hat endlich ein Ende. Gestern kam das neue
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4818"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Melancholie meets gerechtes Brett
   
 ---

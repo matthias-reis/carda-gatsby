@@ -2,7 +2,7 @@
 title: Gesucht und gefunden
 seoTitle: Suchmaschinenoptimierung und Suchmaschinen im Netz
 slug: suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz
-link: /2012/07/suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz/
+path: /2012/07/suchmaschinenoptimierung-und-suchmoeglichkeiten-im-netz/
 fileName: 2012-07---gesucht-und-gefunden.md
 description: Die Bewertungsverfahren werden immer umfangreicher. Bei Google
   spricht man von über 200 verschiedenen Faktoren. Viel Spaß bei der
@@ -74,7 +74,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3478"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Such­ma­schi­nen­op­ti­mie­rung und Such­mög­lich­kei­ten im Netz
   
 ---

@@ -2,7 +2,7 @@
 title: Vegan Beauty Basket
 seoTitle: Vegan Beauty Basket - meine Unboxing Story
 slug: vegan-beauty-basket
-link: /2015/11/vegan-beauty-basket/
+path: /2015/11/vegan-beauty-basket/
 fileName: 2015-11---vegan-beauty-basket.md
 description: Letzte Woche stand für mich ein besonderes Highlight an. Ich hatte
   das große Vergnügen, den Vegan Beauty Basket zu testen.
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29010"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Meine Unboxing Story
   
 ---

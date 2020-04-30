@@ -2,7 +2,7 @@
 title: Grün, wann kommst Du?
 seoTitle: Grün, wann kommst Du? Vorfreude auf den Frühling
 slug: gruen-wann-kommst-du
-link: /2018/02/gruen-wann-kommst-du/
+path: /2018/02/gruen-wann-kommst-du/
 fileName: 2018-02---gruen-wann-kommst-du.md
 description: Wie durch Zauberhand wurde das Wasser plötzlich grün. Das Laub
   spiegelt sich im Wasser. Das Wasser ist im Winter knapp. Grün, wann kommst Du?
@@ -33,8 +33,7 @@ isAffiliate: false
 thumbnailId: "19410"
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

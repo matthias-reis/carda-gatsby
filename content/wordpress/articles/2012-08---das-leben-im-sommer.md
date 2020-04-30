@@ -2,7 +2,7 @@
 title: Das Leben im Sommer
 seoTitle: Kernzeitverkürzung - das Leben im Sommer ist schön
 slug: kernzeitverkuerzung-das-leben-im-sommer
-link: /2012/08/kernzeitverkuerzung-das-leben-im-sommer/
+path: /2012/08/kernzeitverkuerzung-das-leben-im-sommer/
 fileName: 2012-08---das-leben-im-sommer.md
 description: '"Kernzeitverkürzung". Das bedeutet so viel wie "Hitzefrei" und
   schreit nach einem Picknick am See. Im Büro wird es im Winter sicher wieder
@@ -57,7 +57,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4030"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "<strong>Oder: Strände lassen sich nicht in Schubladen einordnen.</strong>"
   
 ---

@@ -2,7 +2,7 @@
 title: Die Rehabilitation eines tapferen Katers
 seoTitle: Die Rehabilitation eines tapferen Katers
 slug: die-rehabilitation-eines-tapferen-katers
-link: /2013/09/die-rehabilitation-eines-tapferen-katers/
+path: /2013/09/die-rehabilitation-eines-tapferen-katers/
 fileName: 2013-09---die-rehabilitation-eines-tapferen-katers.md
 description: ""
 excerpt: "\n               \ \n            "
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Von Genesungswünschen, guten Nachrichten und Erfahrungsberichten
   
 ---

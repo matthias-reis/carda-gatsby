@@ -2,7 +2,7 @@
 title: Träumer
 seoTitle: Träumer - Stadtprosa
 slug: traeumer
-link: /2011/05/traeumer/
+path: /2011/05/traeumer/
 fileName: 2011-05---traeumer.md
 description: Die Sonne scheint durch die zartgrünen Zweige. Im Fluss schwimmt
   Müll. Schwerer Rauch steigt aus den Fabrikschloten auf.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "1793"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Stadtprosa
   
 ---

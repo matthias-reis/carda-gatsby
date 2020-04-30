@@ -2,7 +2,7 @@
 title: Das übersetzte Wetter im Spiegel
 seoTitle: Das übersetzte Wetter im Spiegel - Suchmaschinengedicht
 slug: das-uebersetzte-wetter-im-spiegel
-link: /2016/05/das-uebersetzte-wetter-im-spiegel/
+path: /2016/05/das-uebersetzte-wetter-im-spiegel/
 fileName: 2016-05---das-uebersetzte-wetter-im-spiegel.md
 description: Wetter, Spiegel und Übersetzer sind Begriffe, die gerne in die
   Suchmaschine eingegeben werden. Ich habe daraus ein Gedicht gemacht.
@@ -19,7 +19,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14708"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ode an die Wetterlage
   
 ---

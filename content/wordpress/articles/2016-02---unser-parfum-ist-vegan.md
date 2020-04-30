@@ -2,7 +2,7 @@
 title: '"Unser Parfum ist vegan"'
 seoTitle: '"Unser Parfum ist vegan" - XAXX bietet 24 vegane Düfte an'
 slug: unser-parfum-ist-vegan
-link: /2016/02/unser-parfum-ist-vegan/
+path: /2016/02/unser-parfum-ist-vegan/
 fileName: 2016-02---unser-parfum-ist-vegan.md
 description: Gestern gab der Geschäftsführer von XAXX bekannt, dass ab sofort
   alle 24 Düfte der Parfum-Manufaktur als zu 100 Prozent vegan gekennzeichnet
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28943"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: XAXX bietet 24 vegane Düfte an
   
 ---

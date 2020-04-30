@@ -2,7 +2,7 @@
 title: Gruß aus Cuxhafen
 seoTitle: Gruß aus Cuxhafen - Bildergalerie
 slug: gruss-aus-cuxhafen
-link: /2015/11/gruss-aus-cuxhafen/
+path: /2015/11/gruss-aus-cuxhafen/
 fileName: 2015-11---gruss-aus-cuxhafen.md
 description: Letzen Sonntag stand uns bei dem herrlichen Wetter der Sinn nach
   Wattwandern, also brachen wir nach Cuxhafen auf. Hier sind meine Eindrücke.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13127"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

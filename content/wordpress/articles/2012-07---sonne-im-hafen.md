@@ -2,7 +2,7 @@
 title: Sonne im Hafen
 seoTitle: Sonne im Hafen - Bilder aus Calais
 slug: sonne-im-hafen
-link: /2012/07/sonne-im-hafen/
+path: /2012/07/sonne-im-hafen/
 fileName: 2012-07---sonne-im-hafen.md
 description: Sonne im Hafen - Meine Bilder aus Calais - Erinnerungen an den
   Sommer in England 2012 - Artikel 1 von 9
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3332"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 1/9
   
 ---

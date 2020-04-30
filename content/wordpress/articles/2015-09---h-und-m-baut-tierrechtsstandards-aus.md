@@ -2,7 +2,7 @@
 title: H&M baut Tierrechtsstandards aus
 seoTitle: H&M startet Kampagne gegen Tierversuche und Mulesing
 slug: hm-baut-tierrechtsstandards-aus
-link: /2015/09/hm-baut-tierrechtsstandards-aus/
+path: /2015/09/hm-baut-tierrechtsstandards-aus/
 fileName: 2015-09---h-und-m-baut-tierrechtsstandards-aus.md
 description: In einer neugegründeten Partnerschaft mit der Humane Society
   International (HSI) möchte H&M nun für das Wohl von Tieren in der
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28958"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Konzern startet Kampagne gegen Tierversuche und Mulesing
   
 ---

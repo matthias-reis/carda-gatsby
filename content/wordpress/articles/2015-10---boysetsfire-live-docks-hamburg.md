@@ -2,7 +2,7 @@
 title: Boysetsfire live @ Docks Hamburg
 seoTitle: Boysetsfire live @ Docks Hamburg
 slug: boysetsfire-live-docks-hamburg
-link: /2015/10/boysetsfire-live-docks-hamburg/
+path: /2015/10/boysetsfire-live-docks-hamburg/
 fileName: 2015-10---boysetsfire-live-docks-hamburg.md
 description: Gestern Abend im Docks hatten wir eine tolle Zeit mit Boysetsfire.
   Hier sind meine Eindrücke.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12938"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein wundervoller Abend
   
 ---

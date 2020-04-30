@@ -2,7 +2,7 @@
 title: Hundreds live A Summer's Tale Festival 2015
 seoTitle: Hundreds live @ A Summer's Tale Festival 2015
 slug: hundreds-live-a-summers-tale-festival-2015
-link: /2015/08/hundreds-live-a-summers-tale-festival-2015/
+path: /2015/08/hundreds-live-a-summers-tale-festival-2015/
 fileName: 2015-08---hundreds-live-a-summers-tale-festival-2015.md
 description: Die fröhliche Hundreds Sängerin Eva Milner sorgte am Samstag
   Nachmittag für gute Laune auf dem A Summer's Tale Festival 2015. Hier sind
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12240"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tanzen, zappeln und abhotten...
   
 ---

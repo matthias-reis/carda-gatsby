@@ -2,7 +2,7 @@
 title: Zero Waste City Curitiba
 seoTitle: Zero Waste City Curitiba - Brasiliens grünste Stadt
 slug: zero-waste-city-curitiba
-link: /2018/05/zero-waste-city-curitiba/
+path: /2018/05/zero-waste-city-curitiba/
 fileName: 2018-05---zero-waste-city-curitiba.md
 description: Im Brasilianischen Curitiba wird Recycling wirklich gelebt. Seit
   1989 geht die Stadt mit gutem Beispiel voran und hat dadurch bis jetzt nur
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21081"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Brasiliens grünste Stadt
   
 ---

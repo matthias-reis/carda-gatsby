@@ -2,7 +2,7 @@
 title: Quality Time mit Kater
 seoTitle: Quality Time - Zeit für ein paar Minuten Ruhe
 slug: quality-time-mit-kater
-link: /2018/05/quality-time-mit-kater/
+path: /2018/05/quality-time-mit-kater/
 fileName: 2018-05---quality-time-mit-kater.md
 description: Kater Oskar genießt seine Quality Time sichtlich. Er findet es
   besonders gut, wenn zwischendurch mal Ruhe einkehrt und er die volle
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20747"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zeit für Bilder
   
 ---

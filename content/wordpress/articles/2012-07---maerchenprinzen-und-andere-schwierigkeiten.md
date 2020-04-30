@@ -2,7 +2,7 @@
 title: Märchenprinzen und andere Schwierigkeiten
 seoTitle: Märchenprinzen und andere Schwierigkeiten - Tagebucheintrag
 slug: marchenprinzen-und-andere-schwierigkeiten
-link: /2012/07/marchenprinzen-und-andere-schwierigkeiten/
+path: /2012/07/marchenprinzen-und-andere-schwierigkeiten/
 fileName: 2012-07---maerchenprinzen-und-andere-schwierigkeiten.md
 description: Wer ist das eigentlich der Märchenprinz? Und was hat er in unserer
   heutigen Zeit verloren? Ist er denn überhaupt noch auf dem neuesten Stand?
@@ -43,7 +43,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3301"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

@@ -2,7 +2,7 @@
 title: 15 Lesetipps für Vegan-Einsteiger
 seoTitle: 15 Lesetipps für Vegan-Neulinge - so gelingt der Einstieg ganz leicht
 slug: 15-lesetipps-fuer-vegan-einsteiger
-link: /2014/09/15-lesetipps-fuer-vegan-einsteiger/
+path: /2014/09/15-lesetipps-fuer-vegan-einsteiger/
 fileName: 2014-09---15-lesetipps-fuer-vegan-einsteiger.md
 description: Für Dich habe ich mal ein paar Lesetipps zusammengestellt, die
   jeder Vegan-Einsteiger auf dem Zettel haben sollte - sie machen nämlich das
@@ -23,8 +23,7 @@ isAffiliate: false
 thumbnailId: "20267"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (137:53)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (137:53)"
 subTitle: Diese Bücher bringen wirklich was
   
 ---

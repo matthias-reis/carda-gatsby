@@ -2,7 +2,7 @@
 title: Ein Sonntag in Travemünde
 seoTitle: Ein Sonntag in Travemünde
 slug: ein-sonntag-in-travemuende
-link: /2015/05/ein-sonntag-in-travemuende/
+path: /2015/05/ein-sonntag-in-travemuende/
 fileName: 2015-05---ein-sonntag-in-travemuende.md
 description: Letzten Sonntag machten wir einen Tagesausflug nach Travemünde. Das
   Wetter war ein einziger Traum und das Fernweh vorprogrammiert. Hier sind meine
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11967"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie aus der Hafenstadt an der Ostsee
   
 ---

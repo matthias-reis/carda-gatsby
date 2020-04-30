@@ -2,7 +2,7 @@
 title: Phlox und Flieder immer wieder
 seoTitle: Phlox und Flieder immer wieder 6 Balkontipps für den Hochsommer
 slug: phlox-und-flieder-immer-wieder
-link: /2018/08/phlox-und-flieder-immer-wieder/
+path: /2018/08/phlox-und-flieder-immer-wieder/
 fileName: 2018-08---phlox-und-flieder-immer-wieder.md
 description: Heute habe ich sechs heiße Tipps für Euch, mit denen Ihr die
   Pflanzen auf Eurem Balkon auch bei höheren Temperaturen bei Laune halten
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21648"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 6 Tipps für den Hochsommer auf dem Balkon
   
 ---

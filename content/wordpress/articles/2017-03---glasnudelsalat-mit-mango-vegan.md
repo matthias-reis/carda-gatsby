@@ -2,7 +2,7 @@
 title: Glasnudelsalat mit Mango - Vegan
 seoTitle: Glasnudelsalat mit Mango - vegan - Rezept für vier Portionen
 slug: glasnudelsalat-mit-mango-vegan
-link: /2017/03/glasnudelsalat-mit-mango-vegan/
+path: /2017/03/glasnudelsalat-mit-mango-vegan/
 fileName: 2017-03---glasnudelsalat-mit-mango-vegan.md
 description: Glasnudelsalat gehört zu meinen absoluten Lieblingsgerichten. Heute
   verrate ich Euch mein Rezept. Ich wünsche Euch guten Appetit!
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16216"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Leicht und frühlingshaft
   
 ---

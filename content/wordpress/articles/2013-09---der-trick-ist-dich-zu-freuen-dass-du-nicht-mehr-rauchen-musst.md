@@ -2,7 +2,7 @@
 title: '"Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!"'
 seoTitle: Der Trick ist, Dich zu freuen, dass Du nicht mehr rauchen musst!
 slug: der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst
-link: /2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/
+path: /2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/
 fileName: 2013-09---der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst.md
 description: Die Sache mit der Motiviation - Wie funktioniert Rauchen aufhören?
   Ich habe ein paar echt heiße Tipps für alle, die es wirklich ernst meinen.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7168"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Sache mit der Motivation
   
 ---

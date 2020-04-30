@@ -2,7 +2,7 @@
 title: Vegane Fischbrötchen-Alternative
 seoTitle: Fischbrötchen For Future in der Kurkuma Kochschule - SoFine im Test
 slug: vegane-fischbroetchen-for-future
-link: /2019/12/vegane-fischbroetchen-for-future/
+path: /2019/12/vegane-fischbroetchen-for-future/
 fileName: 2019-12---vegane-fischbroetchen-alternative.md
 description: "Am 18. November war ich in die vegane Kochschule Kurkuma in
   Eimsbüttel eingeladen: SoFine brachte seine vegane Alternative für
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27108"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: SoFine in der Kurkuma Kochschule
   
 ---

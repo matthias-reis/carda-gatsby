@@ -2,7 +2,7 @@
 title: Neue Kokosmilch im Kühlschrank
 seoTitle: Neue Kokosmilch im Kühlschrank - "Coco Milk" von Dr. Martins im Test
 slug: neue-kokosmilch-coco-milk-dr-martins
-link: /2018/09/neue-kokosmilch-coco-milk-dr-martins/
+path: /2018/09/neue-kokosmilch-coco-milk-dr-martins/
 fileName: 2018-09---neue-kokosmilch-im-kuehlschrank.md
 description: Ich habe die neuen Kokosmilch-Sorten  "Klassisch", "Calzium" und
   "Matcha" von Dr. Martins getestet und mir einen tollen Kokos-Cappuccino
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22192"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Coco Milk For Drinking" von Dr. Martins im Test'
   
 ---

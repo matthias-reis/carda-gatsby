@@ -2,7 +2,7 @@
 title: Happy Cashew
 seoTitle: Happy Cashew - "Wir legen Wert auf traditionelles Handwerk"
 slug: happy-cashew
-link: /2019/02/happy-cashew/
+path: /2019/02/happy-cashew/
 fileName: 2019-02---happy-cashew.md
 description: Heute möchte ich Euch die veganen Käse-, Joghurt- und
   Buttermilch-Alternativen von "Happy Cashew" vorstellen. Hier kommt mein
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23419"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Wir legen Wert auf traditionelles Handwerk"'
   
 ---

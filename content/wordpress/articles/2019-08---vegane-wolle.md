@@ -2,7 +2,7 @@
 title: Vegane Wolle
 seoTitle: Vegane Wolle - Interview mit Vegarn - "Keine Angst vor dem Auftrennen"
 slug: vegane-wolle-vegarn-interview
-link: /2019/08/vegane-wolle-vegarn-interview/
+path: /2019/08/vegane-wolle-vegarn-interview/
 fileName: 2019-08---vegane-wolle.md
 description: "Vegan lebende Handarbeitsfans bekommen bei Vegarn, was sie sich
   wünschen: Fair gehandelte, schonend hergestellte vegane Wolle."
@@ -38,8 +38,7 @@ isAffiliate: false
 thumbnailId: "25673"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (125:65)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (125:65)"
 subTitle: Interview mit Marlin von Vegarn
   
 ---

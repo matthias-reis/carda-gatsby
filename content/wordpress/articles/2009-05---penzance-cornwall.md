@@ -2,7 +2,7 @@
 title: Penzance, Cornwall
 seoTitle: Penzance, Cornwall - Anne bloggt cardamonchai
 slug: penzance-cornwall-15-05-2009
-link: /2009/05/penzance-cornwall-15-05-2009/
+path: /2009/05/penzance-cornwall-15-05-2009/
 fileName: 2009-05---penzance-cornwall.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Penzance"
 excerpt: Das wohl urigste Pub der Insel und den größte Meerwasserpool findet man
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11254"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 10/17
   
 ---

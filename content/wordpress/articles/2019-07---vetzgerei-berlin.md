@@ -2,7 +2,7 @@
 title: Vetzgerei Berlin
 seoTitle: Vetzgerei Berlin - die vegane Metzgerei der Hauptstadt
 slug: vegane-metzgerei-vetzgerei-berlin
-link: /2019/07/vegane-metzgerei-vetzgerei-berlin/
+path: /2019/07/vegane-metzgerei-vetzgerei-berlin/
 fileName: 2019-07---vetzgerei-berlin.md
 description: Kennt Ihr schon die Vetzgerei? So heißt die vegane Metzgerei in
   Berlin. Alle Zutaten sind dort rein pflanzlich. Der Besuch lohnt sich.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25558"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die vegane Metzgerei in der Hauptstadt
   
 ---

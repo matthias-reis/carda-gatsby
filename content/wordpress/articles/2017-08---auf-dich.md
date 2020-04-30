@@ -2,7 +2,7 @@
 title: Auf Dich!
 seoTitle: Auf Dich! Danke, dass Du da bist! Du toller Mensch!
 slug: auf-dich
-link: /2017/08/auf-dich/
+path: /2017/08/auf-dich/
 fileName: 2017-08---auf-dich.md
 description: Danke, dass Du da bist. Für den Menschen, der Dich am meisten
   braucht, in diesem Moment. Für die Unterstützung und die Liebe. Prost! Auf
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17746"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Danke, dass Du da bist!
   
 ---

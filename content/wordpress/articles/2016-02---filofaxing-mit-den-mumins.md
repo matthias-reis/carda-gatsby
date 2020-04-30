@@ -2,7 +2,7 @@
 title: Filofaxing mit den Mumins
 seoTitle: Filofaxing mit den Mumins - Fotolovestory
 slug: filofaxing-mit-den-mumins
-link: /2016/02/filofaxing-mit-den-mumins/
+path: /2016/02/filofaxing-mit-den-mumins/
 fileName: 2016-02---filofaxing-mit-den-mumins.md
 description: Filofaxing mit den Comichelden meiner Jugend - Dank einer lieben
   Dame in Nippon ist das jetzt möglich. Mein Tagebuch wird ab sofort von den
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13830"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Finnische Comic-Helden
   
 ---

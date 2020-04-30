@@ -2,7 +2,7 @@
 title: Wanderung zum Königsstuhl
 seoTitle: Wanderung zum Königsstuhl - Besuch im Rügener Nationalpark Jasmund
 slug: wanderung-zum-koenigsstuhl
-link: /2018/06/wanderung-zum-koenigsstuhl/
+path: /2018/06/wanderung-zum-koenigsstuhl/
 fileName: 2018-06---wanderung-zum-koenigsstuhl.md
 description: Direkt am berühmten Königsstuhl mit seinen Kreidefelsen auf Rügen
   liegt der Nationalpark Jasmund mit seinen sagenumwobenen Buchenwäldern.
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21254"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Besuch im Nationalpark Jasmund auf Rügen
   
 ---

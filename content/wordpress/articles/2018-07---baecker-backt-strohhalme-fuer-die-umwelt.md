@@ -2,7 +2,7 @@
 title: Bäcker backt Strohhalme für die Umwelt
 seoTitle: Bäcker backt Strohhalme für die Umwelt - Nudeln statt Plastik
 slug: baecker-backt-strohhalme-fuer-die-umwelt
-link: /2018/07/baecker-backt-strohhalme-fuer-die-umwelt/
+path: /2018/07/baecker-backt-strohhalme-fuer-die-umwelt/
 fileName: 2018-07---baecker-backt-strohhalme-fuer-die-umwelt.md
 description: In einer Bäckerei in Bielefeld hat man sich jetzt etwas ganz
   Besonderes für die Kunden ausgedacht, die ihren Kaffee gerne durch Strohhalme
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21384"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nudeln statt Plastik
   
 ---

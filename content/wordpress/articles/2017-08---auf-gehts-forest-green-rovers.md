@@ -2,7 +2,7 @@
 title: Auf geht's, Forest Green Rovers!
 seoTitle: Auf geht's, Forest Green Rovers - Englands grüne Fußballer kicken vegan
 slug: forest-green-rovers
-link: /2017/08/forest-green-rovers/
+path: /2017/08/forest-green-rovers/
 fileName: 2017-08---auf-gehts-forest-green-rovers.md
 description: Im Stadion der Forest Green Rovers gibt es ausschließlich vegane
   Speisen. Auf Chemie wird verzichtet auf dem Parkplatz kann man sein
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17646"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Englands grüne Fußballer kicken vegan
   
 ---

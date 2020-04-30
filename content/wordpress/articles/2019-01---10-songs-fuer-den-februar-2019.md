@@ -2,7 +2,7 @@
 title: 10 Songs für den Februar 2019
 seoTitle: 10 Songs für den Februar - präsentiert von den drei von der Bande
 slug: 10-songs-fuer-den-februar
-link: /2019/01/10-songs-fuer-den-februar/
+path: /2019/01/10-songs-fuer-den-februar/
 fileName: 2019-01---10-songs-fuer-den-februar-2019.md
 description: Die drei von der Bande präsentieren Euch heute die 10 Songs für den
   Februar 2019. Die Auswahl haben wir uns nicht leicht gemacht.
@@ -27,8 +27,7 @@ isAffiliate: false
 thumbnailId: "23276"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (51:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (51:16)"
 subTitle: Präsentiert von den drei von der Bande
   
 ---

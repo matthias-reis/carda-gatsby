@@ -2,7 +2,7 @@
 title: Vegan-Aktivistin Inbar Schütte-Perez
 seoTitle: Vegan-Aktivistin Inbar Schütte-Perez im Interview
 slug: inbar-schuette-perez-interview
-link: /2020/03/inbar-schuette-perez-interview/
+path: /2020/03/inbar-schuette-perez-interview/
 fileName: 2020-03---vegan-aktivistin-inbar-schuette-perez.md
 description: Inbar Schütte-Perez ist in der veganen Hamburger Szene bekannt, wie
   keine andere. Ich habe mit der Aktivistin über ihr Leben und ihre Demos
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28596"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Wir müssen groß sein, wenn wir Großes erreichen wollen"'
   
 ---

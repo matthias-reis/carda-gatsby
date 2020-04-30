@@ -2,7 +2,7 @@
 title: DIY Upcycling Umhängetasche
 seoTitle: DIY Upcycling Umhängetasche
 slug: diy-upcycling-umhaengetasche
-link: /2015/09/diy-upcycling-umhaengetasche/
+path: /2015/09/diy-upcycling-umhaengetasche/
 fileName: 2015-09---diy-upcycling-umhaengetasche.md
 description: Wie versprochen teile ich heute mit Euch meine zweite Anleitung zur
   Herstellung einer schicken DIY-Tasche aus einem alten T-Shirt.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12851"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aus T-Shirt mach Tasche Teil 2
   
 ---

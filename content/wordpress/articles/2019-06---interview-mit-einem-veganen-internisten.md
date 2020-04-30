@@ -2,7 +2,7 @@
 title: Interview mit einem veganen Internisten
 seoTitle: Interview mit einem veganen Internisten - im Gespräch mit Dr. Hanno Platz
 slug: veganer-arzt-interview-dr-hanno-platz
-link: /2019/06/veganer-arzt-interview-dr-hanno-platz/
+path: /2019/06/veganer-arzt-interview-dr-hanno-platz/
 fileName: 2019-06---interview-mit-einem-veganen-internisten.md
 description: Vor einiger Zeit habe ich mich mit dem vegan lebenden Internisten
   Dr. Hanno Platz zum Interview verabredet. Die vegane Ernährung ist für ihn die
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24541"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Im Gespräch mit Dr. Hanno Platz
   
 ---

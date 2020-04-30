@@ -2,7 +2,7 @@
 title: Planet Backpack
 seoTitle: Planet Backpack - Interview mit einer digitalen Nomadin
 slug: planet-backpack-interview
-link: /2015/12/planet-backpack-interview/
+path: /2015/12/planet-backpack-interview/
 fileName: 2015-12---planet-backpack.md
 description: Ich habe mich heute mit der veganen Reisebloggerin Conni von Planet
   Backpack unterhalten. Das Interview war sehr aufschlussreich.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29032"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Interview mit einer digitalen Nomadin
   
 ---

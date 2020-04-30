@@ -2,7 +2,7 @@
 title: Biobrush Berlin - Zahnbürsten aus Holzresten
 seoTitle: Biobrush Berlin - Zahnbürsten aus Holzresten im Test
 slug: biobrush-berlin-zahnbuersten-aus-holzresten
-link: /2019/04/biobrush-berlin-zahnbuersten-aus-holzresten/
+path: /2019/04/biobrush-berlin-zahnbuersten-aus-holzresten/
 fileName: 2019-04---biobrush-berlin-zahnbuersten-aus-holzresten.md
 description: Vor Kurzem bin ich durch einen lustigen Zufall auf die Zahnbürsten
   von Biobrush Berlin gestoßen - jetzt habe ich sie getestet.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23933"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bunte  Biobürsten für Groß und Klein im Test
   
 ---

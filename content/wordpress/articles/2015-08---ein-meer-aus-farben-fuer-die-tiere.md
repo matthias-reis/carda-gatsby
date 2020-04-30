@@ -2,7 +2,7 @@
 title: Ein Meer aus Farben für die Tiere
 seoTitle: Ein Meer aus Farben für die Tiere Bilder von Denise Slapansky
 slug: ein-meer-aus-farben-fuer-die-tiere
-link: /2015/08/ein-meer-aus-farben-fuer-die-tiere/
+path: /2015/08/ein-meer-aus-farben-fuer-die-tiere/
 fileName: 2015-08---ein-meer-aus-farben-fuer-die-tiere.md
 description: Denise Slapansky setzt sich für die Rechte sogeannter "Nutztiere"
   ein. Ihre Kunstwerke zeigen sie in einem Meer aus Farben.
@@ -29,8 +29,7 @@ isAffiliate: false
 thumbnailId: "12288"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (32:9)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:9)"
 subTitle: Bilder von Denise Slapansky
   
 ---

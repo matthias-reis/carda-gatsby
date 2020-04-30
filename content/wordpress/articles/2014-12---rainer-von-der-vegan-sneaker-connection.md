@@ -2,7 +2,7 @@
 title: Rainer von der Vegan Sneaker Connection
 seoTitle: Rainer von der Vegan Sneaker Connection im Interview
 slug: rainer-von-der-vegan-sneaker-connection-im-interview
-link: /2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/
+path: /2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/
 fileName: 2014-12---rainer-von-der-vegan-sneaker-connection.md
 description: Ich habe mich mit Rainer von der Vegan Sneaker Connection zum
   Interview verabredet und er hat mir einiges über vegane Schuhe verraten.
@@ -26,8 +26,7 @@ isAffiliate: false
 thumbnailId: "25538"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (155:20)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (155:20)"
 subTitle: Vegane Turnschuhe für alle
   
 ---

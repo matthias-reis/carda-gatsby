@@ -2,7 +2,7 @@
 title: '"vegan leben"'
 seoTitle: '"vegan leben" - die neue vegane Marke im Supermarkt'
 slug: vegan-leben
-link: /2016/03/vegan-leben/
+path: /2016/03/vegan-leben/
 fileName: 2016-03---vegan-leben.md
 description: Die Macher von "vegan leben" haben sich dazu entschlossen, ihre
   eigene vegane Lebensmittelmarke zu gründen. Ich habe schon mal probiert.
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28981"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die neue vegane Marke im Supermarkt
   
 ---

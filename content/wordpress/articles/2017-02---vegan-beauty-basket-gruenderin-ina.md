@@ -3,7 +3,7 @@ title: Vegan Beauty Basket Gründerin Ina
 seoTitle: '"Die kleinen Manufakturen sind besonders spannend" - Interview mit
   Vegan Beauty Basket Gründerin Ina'
 slug: vegan-beauty-basket-interview
-link: /2017/02/vegan-beauty-basket-interview/
+path: /2017/02/vegan-beauty-basket-interview/
 fileName: 2017-02---vegan-beauty-basket-gruenderin-ina.md
 description: Nach meinem Produkttest war ich sehr angetan vom Vegan Beauty
   Basket und wollte Gründerin Ina unbedingt kennenlernen. Wir haben uns
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15787"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Die kleinen Manufakturen sind besonders spannend"'
   
 ---

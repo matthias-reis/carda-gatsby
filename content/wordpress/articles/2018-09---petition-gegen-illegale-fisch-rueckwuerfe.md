@@ -2,7 +2,7 @@
 title: Petition gegen illegale Fisch-Rückwürfe
 seoTitle: Deutsche Umwelthilfe e. V. - Petition gegen illegale Fisch-Rückwürfe
 slug: deutsche-umwelthilfe-petition-gegen-illegale-fisch-rueckwuerfe
-link: /2018/09/deutsche-umwelthilfe-petition-gegen-illegale-fisch-rueckwuerfe/
+path: /2018/09/deutsche-umwelthilfe-petition-gegen-illegale-fisch-rueckwuerfe/
 fileName: 2018-09---petition-gegen-illegale-fisch-rueckwuerfe.md
 description: Die Deutsche Umwelthilfe e. V. macht sich seit vielen Jahren für
   die Meere stark. Aktuell hat sie eine Petition gegen illegale Fisch-Rückwürfe
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22094"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Deutsche Umwelthilfe e. V. ruft zum Mitzeichnen auf
   
 ---

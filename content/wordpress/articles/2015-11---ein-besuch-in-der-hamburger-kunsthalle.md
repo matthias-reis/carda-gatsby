@@ -2,7 +2,7 @@
 title: Ein Besuch in der Hamburger Kunsthalle
 seoTitle: Ein Besuch in der Hamburger Kunsthalle - Instagram-Galerie
 slug: ein-besuch-in-der-hamburger-kunsthalle
-link: /2015/11/ein-besuch-in-der-hamburger-kunsthalle/
+path: /2015/11/ein-besuch-in-der-hamburger-kunsthalle/
 fileName: 2015-11---ein-besuch-in-der-hamburger-kunsthalle.md
 description: Bei unserem Besuch in der Hamburger Kunsthalle ist eine kleine
   Instagram-Galerie entstanden, die ich Euch nicht vorenthalten möchte.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13168"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Instagram-Galerie
   
 ---

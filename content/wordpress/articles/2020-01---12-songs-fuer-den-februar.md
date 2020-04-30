@@ -2,7 +2,7 @@
 title: 12 Songs für den Februar
 seoTitle: 12 Songs für den Februar - frisch ausgesucht
 slug: 12-songs-fuer-den-februar
-link: /2020/01/12-songs-fuer-den-februar/
+path: /2020/01/12-songs-fuer-den-februar/
 fileName: 2020-01---12-songs-fuer-den-februar.md
 description: Im Januar war ja musikalisch echt schon einiges los. Wir haben
   wieder eine starke Hörliste für Euch zusammengestellt - mit ziemlich genialen
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27415"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

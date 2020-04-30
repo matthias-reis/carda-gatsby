@@ -2,7 +2,7 @@
 title: Das neue Album von Vinny Peculiar
 seoTitle: '"While You Still Can" - das neue Album von Vinny Peculiar'
 slug: while-you-still-can-vinny-peculiar
-link: /2019/10/while-you-still-can-vinny-peculiar/
+path: /2019/10/while-you-still-can-vinny-peculiar/
 fileName: 2019-10---das-neue-album-von-vinny-peculiar.md
 description: '"While You Still Can" - das neue Vinny Peculiar Album kann ab
   sofort vorbestellt werden. Ich habe es schon angehört und lege es Euch hiermit
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26500"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"While You Still Can"'
   
 ---

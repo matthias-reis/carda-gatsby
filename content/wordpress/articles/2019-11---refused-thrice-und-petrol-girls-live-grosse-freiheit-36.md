@@ -2,7 +2,7 @@
 title: Refused, Thrice & Petrol Girls live @ Große Freiheit 36
 seoTitle: Refused, Thrice & Petrol Girls live @ Große Freiheit 36
 slug: refused-thrice-petrol-girls-live-grosse-freiheit-36
-link: /2019/11/refused-thrice-petrol-girls-live-grosse-freiheit-36/
+path: /2019/11/refused-thrice-petrol-girls-live-grosse-freiheit-36/
 fileName: 2019-11---refused-thrice-und-petrol-girls-live-grosse-freiheit-36.md
 description: Am 05. November war es endlich soweit - Refused, Thrice und die
   Petrol Girls hatten in die Große Freiheit 36 geladen - ein genialer Abend.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26755"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: (Post-)Hardcore in Hamburg
   
 ---

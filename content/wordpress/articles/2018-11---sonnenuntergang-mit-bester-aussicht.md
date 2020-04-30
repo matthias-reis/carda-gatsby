@@ -2,7 +2,7 @@
 title: Sonnenuntergang mit bester Aussicht
 seoTitle: Sonnenuntergang mit bester Aussicht in Hamburg - Ein Gedicht
 slug: sonnenuntergang-mit-bester-aussicht
-link: /2018/11/sonnenuntergang-mit-bester-aussicht/
+path: /2018/11/sonnenuntergang-mit-bester-aussicht/
 fileName: 2018-11---sonnenuntergang-mit-bester-aussicht.md
 description: Hamburg, Du bist atemberaubend. Nimmst uns den Schlaf und zeigst
   uns, wie Seefahrerromantik geht. Selbst vor Stahlbeton machst Du nicht halt...
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22536"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>Hamburg, Du bist atemberaubend.</strong>
   
 ---

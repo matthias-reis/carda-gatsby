@@ -2,7 +2,7 @@
 title: Katjes? Yes!
 seoTitle: Wie der neue Werbespot von Katjes die Lobbyisten stresst
 slug: wie-ein-suessigkeitenhersteller-die-lobbyisten-stresst
-link: /2019/10/wie-ein-suessigkeitenhersteller-die-lobbyisten-stresst/
+path: /2019/10/wie-ein-suessigkeitenhersteller-die-lobbyisten-stresst/
 fileName: 2019-10---katjes-yes.md
 description: Seit Tagen sorgt im Internet ein neuer Werbespot für Aufsehen.
   Katjes thematisiert darin die Ausbeutung in der Massentierhaltung und
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26625"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Süßigkeitenhersteller stresst die Lobbyisten
   
 ---

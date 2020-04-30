@@ -2,7 +2,7 @@
 title: In Hamburg angekommen
 seoTitle: Hamburg ist schön und ich bin endlich wieder da!
 slug: hamburg-ist-schoen-und-ich-bin-wieder-da
-link: /2015/05/hamburg-ist-schoen-und-ich-bin-wieder-da/
+path: /2015/05/hamburg-ist-schoen-und-ich-bin-wieder-da/
 fileName: 2015-05---in-hamburg-angekommen.md
 description: Hamburg ist so schön! Ich möchte hier nie wieder weg! Ich habe auch
   schon mein Lieblingscafé und meinen Lieblingsklamottenladen entdeckt!
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11944"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ich bin endlich wieder da!
   
 ---

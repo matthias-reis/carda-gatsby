@@ -2,7 +2,7 @@
 title: Bio Eistee Konzentrate von TeaTime
 seoTitle: Bio-Eisteekonzentrat von TeaTime im Test - Pur, vegan und lecker
 slug: bio-eistee-konzentrate-von-teatime-im-test
-link: /2018/05/bio-eistee-konzentrate-von-teatime-im-test/
+path: /2018/05/bio-eistee-konzentrate-von-teatime-im-test/
 fileName: 2018-05---bio-eistee-konzentrate-von-teatime.md
 description: Vor Kurzem erreichte mich ein Testpaket, auf das ich ganz besonders
   gespannt gewartet hatte. Enthalten waren die Bio-Teekonzentrate von TeaTime.
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20736"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Pur, vegan und lecker
   
 ---

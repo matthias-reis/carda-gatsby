@@ -2,7 +2,7 @@
 title: Vitamin B12 - Mythos und Wahrheit
 seoTitle: Vitamin B12 - Mythos und Wahrheit - das müssen Veganer beachten
 slug: vitamin-b12-mythos-und-wahrheit
-link: /2014/08/vitamin-b12-mythos-und-wahrheit/
+path: /2014/08/vitamin-b12-mythos-und-wahrheit/
 fileName: 2014-08---vitamin-b12-mythos-und-wahrheit.md
 description: Die DGE (Deutsche Gesellschaft für Ernährung) empfiehlt 3 µg
   (schwangere Frauen 4 µg) Vitamin B12 pro Tag - Veganer*innen müssen es
@@ -51,7 +51,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20268"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus- Teil IV
   
 ---

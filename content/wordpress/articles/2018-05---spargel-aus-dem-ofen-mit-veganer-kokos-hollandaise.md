@@ -2,7 +2,7 @@
 title: Spargel aus dem Ofen mit veganer Kokos Hollandaise
 seoTitle: Spargel aus dem Ofen mit veganer Kokos-Hollandaise
 slug: spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise
-link: /2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/
+path: /2018/05/spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise/
 fileName: 2018-05---spargel-aus-dem-ofen-mit-veganer-kokos-hollandaise.md
 description: Heute habe ich ein ganz besonderes Rezept für Euch vorbereitet.
   Beim Gedanken an die vegane Hollandaise läuft mir schon wieder das Wasser im
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21072"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept für zwei Personen
   
 ---

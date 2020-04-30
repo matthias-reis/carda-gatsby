@@ -2,7 +2,7 @@
 title: Nachruf für Stéphane Frédéric Hessel
 seoTitle: Nachruf für Stéphane Frédéric Hessel
 slug: stephane-frederic-hessel-nachruf
-link: /2013/02/stephane-frederic-hessel-nachruf/
+path: /2013/02/stephane-frederic-hessel-nachruf/
 fileName: 2013-02---nachruf-fuer-stephane-frederic-hessel.md
 description: Der Poet des Widerstands Stéphane Frédéric Hessel ist heute im
   Alter von 95 Jahren gestorben. Stéphane Frédéric Hessel kämpfte für die
@@ -64,7 +64,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10808"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Poet des Widerstands im Alter von 95 Jahren gestorben
   
 ---

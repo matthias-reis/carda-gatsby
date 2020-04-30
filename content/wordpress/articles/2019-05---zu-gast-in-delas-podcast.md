@@ -2,7 +2,7 @@
 title: Zu Gast in Delas Podcast
 seoTitle: '"Die Hermetiker" zu Gast in Delas Podcast'
 slug: zu-gast-in-delas-podcast
-link: /2019/05/zu-gast-in-delas-podcast/
+path: /2019/05/zu-gast-in-delas-podcast/
 fileName: 2019-05---zu-gast-in-delas-podcast.md
 description: 'Am letzten Samstag war es soweit: Matze und ich waren zu Gast im
   Podcast von Marlen und haben unseren Roman "Die Hermetiker" vorgestellt.'
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24106"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unser Roman-Erstling kritisch hinterfragt
   
 ---

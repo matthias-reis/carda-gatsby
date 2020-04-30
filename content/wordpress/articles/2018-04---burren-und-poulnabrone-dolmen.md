@@ -2,7 +2,7 @@
 title: Burren und Poulnabrone Dolmen
 seoTitle: Burren und Poulnabrone Dolmen - Mondlandschaft mit mystischen Steinen
 slug: poulnabrone-dolmen-burren
-link: /2018/04/poulnabrone-dolmen-burren/
+path: /2018/04/poulnabrone-dolmen-burren/
 fileName: 2018-04---burren-und-poulnabrone-dolmen.md
 description: Der Poulnabrone-Dolmen inmitten des Burren ist ein sogenannter
   Portal Tomb. Er wird auch "Hole Of Sorrows" (Loch der Sorgen) genannt.
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19793"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mondlandschaft mit mystischen Steinen
   
 ---

@@ -2,7 +2,7 @@
 title: Videotipps am Donnerstag
 seoTitle: Videotipps am Donnerstag
 slug: videotipps-am-donnerstag
-link: /2012/10/videotipps-am-donnerstag/
+path: /2012/10/videotipps-am-donnerstag/
 fileName: 2012-10---videotipps-am-donnerstag.md
 description: Heute habe ich zwei ganz besondere Videotipps für Euch, Song No. 1
   stammt von keinem Geringeren, als Jack White...
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4406"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Geschichte von der tanzenden Redaktion
   
 ---

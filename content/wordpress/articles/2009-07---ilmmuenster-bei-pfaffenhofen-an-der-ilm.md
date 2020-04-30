@@ -2,7 +2,7 @@
 title: Ilmmünster bei Pfaffenhofen an der Ilm
 seoTitle: Ilmmünster bei Pfaffenhofen an der Ilm - Hier ist die Welt noch in Ordnung
 slug: ilmmuenster-bei-pfaffenhofen-an-der-ilm
-link: /2009/07/ilmmuenster-bei-pfaffenhofen-an-der-ilm/
+path: /2009/07/ilmmuenster-bei-pfaffenhofen-an-der-ilm/
 fileName: 2009-07---ilmmuenster-bei-pfaffenhofen-an-der-ilm.md
 description: Die Gemeinde Ilmmünster liegt im Landkreis Pfaffenhofen an der Ilm
   und gehörte zum im 8. Jahrhundert gegründeten Stift Ilmmünster...
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11399"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Hier ist die Welt noch in Ordnung
   
 ---

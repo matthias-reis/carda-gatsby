@@ -2,7 +2,7 @@
 title: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
 seoTitle: '"Die Hermetiker" - unser Roman ist jetzt bestellbar!'
 slug: die-hermetiker-unser-roman-ist-jetzt-bestellbar
-link: /2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/
+path: /2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/
 fileName: 2019-03---die-hermetiker-unser-roman-ist-jetzt-bestellbar.md
 description: Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort
   bestellt werden! Wir sind stolz und freuen uns, Euch "die Hermetiker" zu
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23530"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unsere erste Buchveröffentlichung
   
 ---

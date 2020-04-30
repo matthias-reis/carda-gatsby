@@ -2,7 +2,7 @@
 title: Gegensätze ziehen sich an
 seoTitle: Gegensätze ziehen sich an - Kontraste im Hamburger Stadtpark
 slug: gegensaetze-hamburger-stadpark
-link: /2016/05/gegensaetze-hamburger-stadpark/
+path: /2016/05/gegensaetze-hamburger-stadpark/
 fileName: 2016-05---gegensaetze-ziehen-sich-an.md
 description: "Bei einem kleinen Spaziergang durch den Hamburger Stadtpark ist
   mir mal wieder aufgefallen: Gegensätze ziehen sich an. Schöne Kontraste,
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14690"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schnappschüsse aus dem Hamburger Stadtpark
   
 ---

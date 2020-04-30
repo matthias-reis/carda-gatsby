@@ -2,7 +2,7 @@
 title: '"Von Beruf Schriftsteller"'
 seoTitle: Haruki Murakami - Von Beruf Schriftsteller - Aus meinem Bücherregal
 slug: haruki-murakami-von-beruf-schriftsteller
-link: /2018/11/haruki-murakami-von-beruf-schriftsteller/
+path: /2018/11/haruki-murakami-von-beruf-schriftsteller/
 fileName: 2018-11---von-beruf-schriftsteller.md
 description: Haruki Murakami ist einer meiner absoluten Lieblings-Autoren. Ich
   liebe seine Bücher. Besonders "Von Beruf Schrifsteller" hat mich sehr
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22650"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Buch von Haruki Murakami
   
 ---

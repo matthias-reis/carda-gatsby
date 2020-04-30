@@ -2,7 +2,7 @@
 title: Cork - Technik und Tradition
 seoTitle: Cork - Technik und Tradition - Rundgang durch eine jugendliche Stadt
 slug: cork
-link: /2017/12/cork/
+path: /2017/12/cork/
 fileName: 2017-12---cork-technik-und-tradition.md
 description: Durch die Anwesenheit groß New Media Konzerne wie Apple und
   Blizzard wirkt die Stadt Cork, deren Geschichte ins 7. Jahrhundert
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18608"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rundgang durch eine jugendliche Stadt
   
 ---

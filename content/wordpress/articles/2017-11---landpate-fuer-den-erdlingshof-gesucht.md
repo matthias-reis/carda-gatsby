@@ -2,7 +2,7 @@
 title: Landpate für den Erdlingshof gesucht
 seoTitle: Landpate für den Erdlingshof werden und Tieren in Not helfen
 slug: landpatenschaft-erdlingshof
-link: /2017/11/landpatenschaft-erdlingshof/
+path: /2017/11/landpatenschaft-erdlingshof/
 fileName: 2017-11---landpate-fuer-den-erdlingshof-gesucht.md
 description: Der Erdlingshof ist auf der Suche nach Landpaten. Jeder Euro zählt,
   die geretteten Tiere sollen für immer ein sicheres Zuhause bekommen.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18514"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Spendet Tieren eine Heimat
   
 ---

@@ -2,7 +2,7 @@
 title: Birds of Westport
 seoTitle: Birds of Westport - Begegnungen in einer Regenpause
 slug: birds-of-westport
-link: /2018/05/birds-of-westport/
+path: /2018/05/birds-of-westport/
 fileName: 2018-05---birds-of-westport.md
 description: Möwen und ein Fischreiher waren die einzigen Lebewesen, die uns
   eines verregneten Nachmittags in Westport begegneten. Ich habe sie
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19824"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Begegnungen in einer Regenpause
   
 ---

@@ -2,7 +2,7 @@
 title: Noch mehr Bilder vom Kiel-Besuch
 seoTitle: Noch mehr Bilder vom Kiel-Besuch - Instagram-Galerie
 slug: noch-mehr-bilder-vom-kiel-besuch
-link: /2015/11/noch-mehr-bilder-vom-kiel-besuch/
+path: /2015/11/noch-mehr-bilder-vom-kiel-besuch/
 fileName: 2015-11---noch-mehr-bilder-vom-kiel-besuch.md
 description: Auf den Spuren von Kommissar Klaus Borowski - unser Kiel-Besuch
   letzte Woche. Kiel dieses mal in Polaroids, ich bin gespannt, wie sie Euch
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13156"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Instagram-Galerie
   
 ---

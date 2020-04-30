@@ -2,7 +2,7 @@
 title: CrowdFarming - Anbau auf Bestellung
 seoTitle: CrowdFarming - Anbau auf Bestellung - Eine neue Lieferkette
 slug: crowdfarming
-link: /2018/11/crowdfarming/
+path: /2018/11/crowdfarming/
 fileName: 2018-11---crowdfarming-anbau-auf-bestellung.md
 description: '"Wenn Du frische Lebensmittel möchtest, dann bitte die Landwirte
   darum, sie für Dich anzubauen", sagen die Leute von Crowdfarming.'
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22702"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine neue Lieferkette
   
 ---

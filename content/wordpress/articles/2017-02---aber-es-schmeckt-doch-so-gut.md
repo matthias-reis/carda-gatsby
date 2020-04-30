@@ -2,7 +2,7 @@
 title: Aber es schmeckt doch so gut!
 seoTitle: Klimaschutz und vegane Ernährung mal wissenschaftlich betrachtet
 slug: klimaschutz-und-vegane-ernaehrung
-link: /2017/02/klimaschutz-und-vegane-ernaehrung/
+path: /2017/02/klimaschutz-und-vegane-ernaehrung/
 fileName: 2017-02---aber-es-schmeckt-doch-so-gut.md
 description: Klimaschutz und vegan? Wieso hängt das zusammen? Warum ist es
   eigentlich gut für die Umwelt, wenn ich vegan lebe? Ich habe das Thema mal
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15887"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Klimaschutz und vegane Ernährung
   
 ---

@@ -2,7 +2,7 @@
 title: 1994 - ein musikalisches Jahr
 seoTitle: 1994 war ein musikalisches Jahr - ein ganz besonderer Rückblick
 slug: 1994-musik-veroeffentlichungen
-link: /2019/09/1994-musik-veroeffentlichungen/
+path: /2019/09/1994-musik-veroeffentlichungen/
 fileName: 2019-09---1994-ein-musikalisches-jahr.md
 description: '"1994 war ein wichtiges Jahr" - immer wieder höre ich diesen Satz
   und habe in selbst auch schon das ein oder andere Mal ausgesprochen.'
@@ -101,7 +101,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26147"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nirvana, Pearl Jam und was noch?
   
 ---

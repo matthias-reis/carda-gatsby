@@ -2,7 +2,7 @@
 title: Cowspiracy
 seoTitle: Cowspiracy - eine ganz besondere vegane Doku
 slug: cowspiracy-vegane-doku
-link: /2020/04/cowspiracy-vegane-doku/
+path: /2020/04/cowspiracy-vegane-doku/
 fileName: 2020-04---cowspiracy.md
 description: Heute möchte ich Euch eine vegane Doku vorstellen, die zu einer
   Bewegung geworden ist. Cowspiracy ist für mich eine der wichtigsten Filme
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28889"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine vegane Doku
   
 ---

@@ -2,7 +2,7 @@
 title: Die Sterne auf dem Sommer in Altona 11. August 2018
 seoTitle: Die Sterne auf dem Sommer in Altona 11. August 2018 - Live und in echt
 slug: die-sterne-live-sommer-in-altona-11-august-2018
-link: /2018/08/die-sterne-live-sommer-in-altona-11-august-2018/
+path: /2018/08/die-sterne-live-sommer-in-altona-11-august-2018/
 fileName: 2018-08---die-sterne-auf-dem-sommer-in-altona-11-august-2018.md
 description: Gestern war es soweit. Nach langer Zeit konnte ich endlich die
   Sterne wieder live auf der Bühne erleben. Was soll ich sagen? Es war ein
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21701"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Live und <em>in echt</em>
   
 ---

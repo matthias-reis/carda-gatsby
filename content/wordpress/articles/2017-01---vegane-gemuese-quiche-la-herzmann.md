@@ -2,7 +2,7 @@
 title: Vegane Gemüse-Quiche à la Herzmann
 seoTitle: Vegane Gemüse-Quiche à la Herzmann - Foodblog? Sollt Ihr haben!
 slug: vegane-gemuese-quiche-a-la-herzmann
-link: /2017/01/vegane-gemuese-quiche-a-la-herzmann/
+path: /2017/01/vegane-gemuese-quiche-a-la-herzmann/
 fileName: 2017-01---vegane-gemuese-quiche-la-herzmann.md
 description: Eine mit viel Liebe gebackene vegane Gemüse-Quiche wartete am
   Sonntag nach der Arbeit auf mich. Hier kommt das Rezept. Foodblog? Sollt Ihr
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23303"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Foodblog? Sollt Ihr haben!
   
 ---

@@ -2,7 +2,7 @@
 title: Spiegelbild
 seoTitle: Spiegelbild - ein Gedicht
 slug: spiegelbild
-link: /2011/08/spiegelbild/
+path: /2011/08/spiegelbild/
 fileName: 2011-08---spiegelbild.md
 description: Sternenregen. Sternklarer Himmel. Sternennacht. In der anderen
   Stadt Regen. Wolkenverhangener Himmel. Nachgedacht.
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2325"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Gedicht
   
 ---

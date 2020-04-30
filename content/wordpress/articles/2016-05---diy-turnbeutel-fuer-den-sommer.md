@@ -2,7 +2,7 @@
 title: DIY Turnbeutel für den Sommer
 seoTitle: Turnbeutel - Neu in meiner Sammlung
 slug: turnbeutel-diy
-link: /2016/05/turnbeutel-diy/
+path: /2016/05/turnbeutel-diy/
 fileName: 2016-05---diy-turnbeutel-fuer-den-sommer.md
 description: Heute zeige ich Euch, wie mein neuer Turnbeutel aus einem
   weggeworfenen Stoff aus dem Sperrmüll entstanden ist. Mit Nähanleitung und
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14720"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aus alt mach neu
   
 ---

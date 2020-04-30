@@ -2,7 +2,7 @@
 title: Margit Ricarda Rolf von der SoLaWi
 seoTitle: Veganer sind unglaublich kreativ! - Interview mit Ricarda aus Hamburg
 slug: veganer-sind-unglaublich-kreativ
-link: /2015/02/veganer-sind-unglaublich-kreativ/
+path: /2015/02/veganer-sind-unglaublich-kreativ/
 fileName: 2015-02---margit-ricarda-rolf-von-der-solawi.md
 description: Was es mit der Kreativität der Veganer auf sich hat, hat mir
   Ricarda von der SoLaWi Hamburg im Interview erzählt.
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9432"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Veganer*innen sind unglaublich kreativ!"'
   
 ---

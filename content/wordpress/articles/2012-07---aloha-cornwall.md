@@ -2,7 +2,7 @@
 title: Aloha Cornwall
 seoTitle: St. Ives - Aloha Cornwall
 slug: st-ives-aloha-cornwall
-link: /2012/07/st-ives-aloha-cornwall/
+path: /2012/07/st-ives-aloha-cornwall/
 fileName: 2012-07---aloha-cornwall.md
 description: Erwähnte ich schon, dass ich Cornwall liebe? St. Ives ist ein ganz
   besonders bunter Teil davon. Hier treffen sich Surfer und Künstler - ein Hauch
@@ -48,8 +48,7 @@ isAffiliate: false
 thumbnailId: "3508"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (34:68)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (34:68)"
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 6/9
   
 ---

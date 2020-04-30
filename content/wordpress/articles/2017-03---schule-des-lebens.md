@@ -2,7 +2,7 @@
 title: Schule des Lebens
 seoTitle: Schule des Lebens - Eines Tages sehen wir uns wieder und dann ist alles anders
 slug: schule-des-lebens
-link: /2017/03/schule-des-lebens/
+path: /2017/03/schule-des-lebens/
 fileName: 2017-03---schule-des-lebens.md
 description: Das mit der Schule war so eine Sache. Kennt Ihr? Dann solltet Ihr
   weiterlesen. Es hat sich nämlich bewiesen. Es kommt immer anders, als man
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16127"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eines Tages sehen wir uns wieder und dann ist alles anders
   
 ---

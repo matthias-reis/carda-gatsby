@@ -2,7 +2,7 @@
 title: Schönes Wetter und Picknick im Park
 seoTitle: Sonntag, 17. April 2011 Schönes Wetter und Picknick im Park
 slug: sonntag-17-04-2011
-link: /2011/04/sonntag-17-04-2011/
+path: /2011/04/sonntag-17-04-2011/
 fileName: 2011-04---schoenes-wetter-und-picknick-im-park.md
 description: Sonntag, 17. April 2011 Schönes Wetter, Frühling, gute Laune und
   Picknick und Sonne im Park - Ein Bild mit Kirschblüten und blauem Himmel.
@@ -27,10 +27,8 @@ isAffiliate: false
 thumbnailId: "1798"
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (9:16)"
+  noSubtitle: no h2 heading found - no sub title
+  invalidMdx: "unknown: Unterminated JSX contents (9:16)"
   
 ---
 

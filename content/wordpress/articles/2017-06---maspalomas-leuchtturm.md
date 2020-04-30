@@ -2,7 +2,7 @@
 title: Maspalomas Leuchtturm
 seoTitle: Rund um den Leuchtturm von Maspalomas - Tauben, Warane und Rhodotentron
 slug: rund-um-den-leuchtturm-von-maspalomas
-link: /2017/06/rund-um-den-leuchtturm-von-maspalomas/
+path: /2017/06/rund-um-den-leuchtturm-von-maspalomas/
 fileName: 2017-06---maspalomas-leuchtturm.md
 description: Rund um den Leuchtturm von Maspalomas summt, flattert u. flaniert
   es. Ich möchte Euch gern eine paar Details verraten. Und meine große
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16827"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tauben, Warane und Rhododentronblüten
   
 ---

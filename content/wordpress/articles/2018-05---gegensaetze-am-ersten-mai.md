@@ -2,7 +2,7 @@
 title: Gegensätze am ersten Mai
 seoTitle: Erster Mai - Gegensätze - Worte und Bilder - Dunkel und hell
 slug: erster-mai-gegensaetze
-link: /2018/05/erster-mai-gegensaetze/
+path: /2018/05/erster-mai-gegensaetze/
 fileName: 2018-05---gegensaetze-am-ersten-mai.md
 description: Erster Mai - Ein Tag der Gegensätze. Konzerte und Bilder von Blumen
   und auf der anderen Seite? Brennende Barrikaden und wachsende Wut.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20672"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Worte und Bilder
   
 ---

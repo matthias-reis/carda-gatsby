@@ -2,7 +2,7 @@
 title: Thomas Laschyk (Volksverpetzer)
 seoTitle: Thomas Laschyk vom "Volksverpetzer" im Interview
 slug: thomas-laschyk-volksverpetzer
-link: /2014/10/thomas-laschyk-volksverpetzer/
+path: /2014/10/thomas-laschyk-volksverpetzer/
 fileName: 2014-10---thomas-laschyk-volksverpetzer.md
 description: Bei "Augsburg Pelzfrei" habe ich mich mit Thomas Laschyk vom
   "Volksverpetzer" zum Interview verabredet und mit ihm über Tierrechte
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24458"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fragestunde mit dem TiA Aktivisten
   
 ---

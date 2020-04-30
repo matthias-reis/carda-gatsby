@@ -2,7 +2,7 @@
 title: Elbe schwarz-weiß
 seoTitle: Elbe schwarz-weiß - ein sonniger Samstagsspaziergang in Altona
 slug: elbe-schwarz-weiss
-link: /2019/04/elbe-schwarz-weiss/
+path: /2019/04/elbe-schwarz-weiss/
 fileName: 2019-04---elbe-schwarz-weiss.md
 description: Hier bei uns in Altona sieht alles schon ganz anders aus, wenn am
   Wochenende die Sonne scheint. Dann zieht es alle an die Ufer der Elbe.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23880"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein sonniger Samstagsspaziergang
   
 ---

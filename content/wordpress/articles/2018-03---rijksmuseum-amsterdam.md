@@ -2,7 +2,7 @@
 title: Rijksmuseum Amsterdam
 seoTitle: Rijksmuseum Amsterdam - Museum und Monument
 slug: rijksmuseum-amsterdam
-link: /2018/03/rijksmuseum-amsterdam/
+path: /2018/03/rijksmuseum-amsterdam/
 fileName: 2018-03---rijksmuseum-amsterdam.md
 description: Bei unserem Kurztrip nach Amsterdam haben wir auch das Rijksmuseum
   besucht und uns die Klassiker von Rembrandt und Vermeer angeschaut.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19864"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Museum und Monument
   
 ---

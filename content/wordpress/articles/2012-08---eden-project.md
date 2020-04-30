@@ -2,7 +2,7 @@
 title: Eden Project
 seoTitle: Eden Project - neue Impressionen
 slug: eden-project-2
-link: /2012/08/eden-project-2/
+path: /2012/08/eden-project-2/
 fileName: 2012-08---eden-project.md
 description: Auch in diesem Jahr war es wieder wunderbar, im Eden Project St.
   Austell durch die verschiedenen Klimazonen zu wandern. Hier kommen meine
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3661"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 7/9
   
 ---

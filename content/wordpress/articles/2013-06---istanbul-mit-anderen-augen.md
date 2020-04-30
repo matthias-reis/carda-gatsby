@@ -2,7 +2,7 @@
 title: Istanbul mit anderen Augen
 seoTitle: Istanbul mit anderen Augen - Mehr als eine Liebesgeschichte
 slug: istanbul-mit-anderen-augen
-link: /2013/06/istanbul-mit-anderen-augen/
+path: /2013/06/istanbul-mit-anderen-augen/
 fileName: 2013-06---istanbul-mit-anderen-augen.md
 description: Die beiden Filmemacherinnen Marie und Caro zeigen uns ihr Istanbul
 excerpt: '"Istanbul mit anderen Augen" ist ein Filmprojekt der beiden
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5624"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Filmprojekt von Carolin Winterholler und Marie Hartlieb
   
 ---

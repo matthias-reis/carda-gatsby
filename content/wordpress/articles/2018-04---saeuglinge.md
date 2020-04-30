@@ -2,7 +2,7 @@
 title: Säuglinge
 seoTitle: Säuglinge - Eine Bildergalerie, die zum Nachdenken anregt
 slug: saeuglinge
-link: /2018/04/saeuglinge/
+path: /2018/04/saeuglinge/
 fileName: 2018-04---saeuglinge.md
 description: Säuglinge sind glücklich, wenn sie bei Ihrer Mutter sind. Diese
   Bildergalerie bestätigt das. Außerdem soll sie zum Nachdenken anregen. Ist mir
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20328"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Bildergalerie zum Nachdenken
   
 ---

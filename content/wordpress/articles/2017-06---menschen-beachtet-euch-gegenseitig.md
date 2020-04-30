@@ -2,7 +2,7 @@
 title: Menschen beachtet Euch gegenseitig!
 seoTitle: Menschen beachtet Euch gegenseitig! Ich werde nie aufgeben
 slug: menschen-beachtet-euch-gegenseitig
-link: /2017/06/menschen-beachtet-euch-gegenseitig/
+path: /2017/06/menschen-beachtet-euch-gegenseitig/
 fileName: 2017-06---menschen-beachtet-euch-gegenseitig.md
 description: Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu
   und drehen sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
@@ -40,8 +40,7 @@ isAffiliate: false
 thumbnailId: "16924"
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

@@ -2,7 +2,7 @@
 title: Weltkatzentag
 seoTitle: Weltkatzentag - Tagebucheintrag bei 13 Grad im Schatten
 slug: weltkatzentag
-link: /2012/08/weltkatzentag/
+path: /2012/08/weltkatzentag/
 fileName: 2012-08---weltkatzentag.md
 description: Eigentlich waren für heute über 30 Grad angesagt, inzwischen sind
   wir immerhin schon bei 13 Grad angelangt - Weltkatzentag
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3762"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

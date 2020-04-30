@@ -2,7 +2,7 @@
 title: Tee von Ashéra im Test
 seoTitle: Tee von Ashéra - "Juwel der klaren Augenkraft" ist gut für die Augen
 slug: tee-von-ashera-gut-fuer-die-augen
-link: /2018/04/tee-von-ashera-gut-fuer-die-augen/
+path: /2018/04/tee-von-ashera-gut-fuer-die-augen/
 fileName: 2018-04---tee-von-ashera-im-test.md
 description: Tee von Ashéra wollte ich schon immer mal testen. Jetzt hatte ich
   die Gelegenheit und Ihr könnt sie auch bekommen! Wie, könnt Ihr hier erfahren.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20558"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Juwel der klaren Augenkraft
   
 ---

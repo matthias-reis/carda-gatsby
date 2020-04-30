@@ -2,7 +2,7 @@
 title: Gänse in Helsinki
 seoTitle: Gänse in Helsinki - gefiederte Finnland-Einwanderer
 slug: gaense-helsinki
-link: /2016/08/gaense-helsinki/
+path: /2016/08/gaense-helsinki/
 fileName: 2016-08---gaense-in-helsinki.md
 description: Weißwangengänse sind in Finnland seit den 80er-Jahren heimisch.
   Besonders wohl scheinen sie sich in Helsinkis Parks zu fühlen. Gänse trifft
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15119"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Weißwangengänse - Gefiederte Finnland-Einwanderer
   
 ---

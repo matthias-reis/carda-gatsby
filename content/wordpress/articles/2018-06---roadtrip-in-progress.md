@@ -2,7 +2,7 @@
 title: Roadtrip in progress...
 seoTitle: Roadtrip in Progress - Meine sommerliche Auszeit
 slug: roadtrip-in-progress
-link: /2018/06/roadtrip-in-progress/
+path: /2018/06/roadtrip-in-progress/
 fileName: 2018-06---roadtrip-in-progress.md
 description: Ich befinde mich zur Zeit auf einem Roadtrip. Wir lesen uns schon
   bald wieder. Dann gibt es viele neue spannende und interessante Geschichten.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21183"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sommerliche Auszeit
   
 ---

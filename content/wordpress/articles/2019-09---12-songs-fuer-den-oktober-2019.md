@@ -2,7 +2,7 @@
 title: 12 Songs für den Oktober 2019
 seoTitle: 12 Songs für den Oktober - Präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-oktober
-link: /2019/09/12-songs-fuer-den-oktober/
+path: /2019/09/12-songs-fuer-den-oktober/
 fileName: 2019-09---12-songs-fuer-den-oktober-2019.md
 description: Auch musikalisch bedeutet der Herbst noch mehr bunte Vielfalt. Wir
   haben wieder ein paar geniale Platten für Euch zusammengestellt.
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26385"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

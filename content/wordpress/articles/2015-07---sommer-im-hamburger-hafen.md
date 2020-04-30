@@ -2,7 +2,7 @@
 title: Sommer im Hamburger Hafen
 seoTitle: Sommer im Hamburger Hafen
 slug: sommer-im-hamburger-hafen
-link: /2015/07/sommer-im-hamburger-hafen/
+path: /2015/07/sommer-im-hamburger-hafen/
 fileName: 2015-07---sommer-im-hamburger-hafen.md
 description: Die Elbphilharmonie hat endlich ihre Kräne abgelegt - Höchste Zeit,
   bei schönem Wetter mal wieder den Hamburger Hafen unsicher zu machen
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12078"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sonne und Möwen
   
 ---

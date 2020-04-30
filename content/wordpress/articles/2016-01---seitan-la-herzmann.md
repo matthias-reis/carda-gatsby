@@ -2,7 +2,7 @@
 title: Seitan à la Herzmann
 seoTitle: Seitan à la Herzmann - Vleisch für Braten und mehr
 slug: seitan-a-la-herzmann
-link: /2016/01/seitan-a-la-herzmann/
+path: /2016/01/seitan-a-la-herzmann/
 fileName: 2016-01---seitan-la-herzmann.md
 description: Immer wieder bekomme ich Anfragen, wie wir unseren leckeren Seitan
   herstellen. Heute lüfte ich das Geheimnis und verrate Euch ein Rezept.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13750"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vleisch für Braten oder mehr
   
 ---

@@ -2,7 +2,7 @@
 title: Neues von Santaverde
 seoTitle: Neues von Santaverde - XINGU Age Perfect Toner
 slug: neues-von-santaverde
-link: /2018/12/neues-von-santaverde/
+path: /2018/12/neues-von-santaverde/
 fileName: 2018-12---neues-von-santaverde.md
 description: Die neue XINGU Age Perfect Reihe von Santaverde ist mit Extrakten
   aus dem brasilianischen Regenwald angereichert. Den Toner habe ich getestet.
@@ -32,8 +32,7 @@ isAffiliate: false
 thumbnailId: "22909"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (63:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (63:16)"
 subTitle: XINGU Age Perfect Toner
   
 ---

@@ -2,7 +2,7 @@
 title: DIY Körnerkissen
 seoTitle: DIY Körnerkissen - Meine Nähanleitung
 slug: diy-koernerkissen-naehanleitung
-link: /2015/09/diy-koernerkissen-naehanleitung/
+path: /2015/09/diy-koernerkissen-naehanleitung/
 fileName: 2015-09---diy-koernerkissen.md
 description: Heute möchte ich Euch zeigen, wie Ihr Euch im Handumdrehen ein
   schmerzlinderndes, schlafförderdes Körnerkissen schneidern könnt.
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12762"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nähanleitung
   
 ---

@@ -2,7 +2,7 @@
 title: Immer Ärger mit dem Sendemast
 seoTitle: Immer Ärger mit dem Sendemast
 slug: immer-arger-mit-dem-sendemast-2
-link: /2012/10/immer-arger-mit-dem-sendemast-2/
+path: /2012/10/immer-arger-mit-dem-sendemast-2/
 fileName: 2012-10---immer-aerger-mit-dem-sendemast.md
 description: Inzwischen habe ich herausgefunden, dass eine Kündigung bei 1&1 nur
   online möglich ist.
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5020"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nachtrag
   
 ---

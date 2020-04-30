@@ -2,7 +2,7 @@
 title: PEPES PENTHOUSE
 seoTitle: Pepes Penthouse - Geniale Akustik-Session im Cinemaxx
 slug: pepes-penthouse-genial-akustiksession-im-cinemaxx
-link: /2010/04/pepes-penthouse-genial-akustiksession-im-cinemaxx/
+path: /2010/04/pepes-penthouse-genial-akustiksession-im-cinemaxx/
 fileName: 2010-04---pepes-penthouse.md
 description: Gestern Abend wurde in Augsburg mit einem Auftritt von Pepes
   Penthouse der Startschuss für das Modular-Festival 2010 gegeben.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11509"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Akustik-Session im Kino
   
 ---

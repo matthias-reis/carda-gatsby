@@ -2,7 +2,7 @@
 title: Tierische Bilder
 seoTitle: Tierische Bilder
 slug: zoo-3
-link: /2009/09/zoo-3/
+path: /2009/09/zoo-3/
 fileName: 2009-09---tierische-bilder.md
 description: ""
 excerpt: Ich habe Euch mal wieder ein paar tierische Schnappschüsse mitgebracht.
@@ -18,7 +18,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11484"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Impressionen aus dem Zoo Augsburg
   
 ---

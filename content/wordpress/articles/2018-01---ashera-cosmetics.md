@@ -2,7 +2,7 @@
 title: Ashéra Cosmetics
 seoTitle: Ashéra Cosmetics - Mein Produkttest - Luxus ohne Tierversuche
 slug: ashera-yin-yang-balance
-link: /2018/01/ashera-yin-yang-balance/
+path: /2018/01/ashera-yin-yang-balance/
 fileName: 2018-01---ashera-cosmetics.md
 description: "Ich habe jetzt die Ashéra Yin Yang Balance Produkte getestet. Der
   Clou: Ihr könnt ein luxuriöses Pflegeset gewinnen. Kommentiert am besten
@@ -35,8 +35,7 @@ isAffiliate: false
 thumbnailId: "18799"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (29:8)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (29:8)"
 subTitle: Luxus ohne Tierversuche
   
 ---

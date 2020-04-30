@@ -2,7 +2,7 @@
 title: Anton Corbijn im Bucerius Kunst Forum in Hamburg
 seoTitle: Anton Corbijn zeigt seine Werke im Bucerius Kunst Forum Hamburg
 slug: anton-corbijn-im-bucerius-kunst-forum-in-hamburg
-link: /2018/07/anton-corbijn-im-bucerius-kunst-forum-in-hamburg/
+path: /2018/07/anton-corbijn-im-bucerius-kunst-forum-in-hamburg/
 fileName: 2018-07---anton-corbijn-im-bucerius-kunst-forum-in-hamburg.md
 description: "Heute möchte ich Euch eines meiner größten Vorbilder vorstellen:
   Den Fotografen Anton Corbijn. Seine Bilder sind gerade im Bucerius Kunst Forum
@@ -49,7 +49,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21440"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: The Living And The Dead
   
 ---

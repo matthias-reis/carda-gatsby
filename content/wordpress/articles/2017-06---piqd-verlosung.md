@@ -2,7 +2,7 @@
 title: piqd Verlosung
 seoTitle: Piqd Abo zu gewinnen! Erlebe guten Journalismus so lang Du lebst!
 slug: piqd-abo-verlosung
-link: /2017/06/piqd-abo-verlosung/
+path: /2017/06/piqd-abo-verlosung/
 fileName: 2017-06---piqd-verlosung.md
 description: Heute habe ich etwas ganz Besonderes für meine Leser vorbereitet.
   Ich verlose ein lebenslanges piqd-Abo im Wert von 299,00 €. Wie das geht,
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16860"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Lebenslanges Abo gewinnen
   
 ---

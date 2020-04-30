@@ -2,7 +2,7 @@
 title: Planten un Blomen
 seoTitle: Planten un Blomen - Hamburgs grüner Fluss
 slug: planten-un-blomen
-link: /2015/06/planten-un-blomen/
+path: /2015/06/planten-un-blomen/
 fileName: 2015-06---planten-un-blomen.md
 description: Planten un Blomen - Zwischen St. Pauli und der Neustadt befindet
   sich Hamburg grüner Fluss
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12022"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Hamburgs grüner Fluss
   
 ---

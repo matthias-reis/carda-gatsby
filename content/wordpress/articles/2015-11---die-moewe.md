@@ -2,7 +2,7 @@
 title: Die Möwe
 seoTitle: Die Möwe - Bildergalerie
 slug: die-moewe
-link: /2015/11/die-moewe/
+path: /2015/11/die-moewe/
 fileName: 2015-11---die-moewe.md
 description: Es ist nicht leicht, eine Möwe im perfekten Licht zu erwischen. Um
   so stolzer ist man natürlich, wenn einem dann der ein oder andere
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13139"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

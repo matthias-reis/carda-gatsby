@@ -2,7 +2,7 @@
 title: Adam Green präsentiert Aladdin
 seoTitle: Adam Green präsentiert seinen Aladdin im Hamburger Abaton
 slug: adam-greens-aladdin
-link: /2016/05/adam-greens-aladdin/
+path: /2016/05/adam-greens-aladdin/
 fileName: 2016-05---adam-green-praesentiert-aladdin.md
 description: Adam Green präsentierte am 30. April im Hamburger Indie-Kino Abaton
   seinen neuen Film Aladdin. Auf diesen Abend hatte ich mich schon sehr lange
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14646"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der Antifolk Star zu Gast im Hamburger Abaton
   
 ---

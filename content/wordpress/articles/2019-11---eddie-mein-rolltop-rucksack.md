@@ -2,7 +2,7 @@
 title: Eddie mein Rolltop-Rucksack
 seoTitle: '"Eddie" - mein neuer Rolltop-Rucksack von Feuerwear'
 slug: eddie-mein-neuer-rolltop-rucksack-von-feuerwear
-link: /2019/11/eddie-mein-neuer-rolltop-rucksack-von-feuerwear/
+path: /2019/11/eddie-mein-neuer-rolltop-rucksack-von-feuerwear/
 fileName: 2019-11---eddie-mein-rolltop-rucksack.md
 description: Vor Kurzem ist "Eddie" der Rolltop-Rucksack von Feuerwear bei mir
   eingezogen - für meine Fototouren bringt er einige Vorteile mit.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26789"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fototouren mit Feuerwear
   
 ---

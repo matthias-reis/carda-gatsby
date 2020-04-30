@@ -2,7 +2,7 @@
 title: Animal Rights March 2019
 seoTitle: Animal Rights March 2019 - Erfolg für das Tierrechtsaktivistenbündnis
 slug: animal-rights-march-2019
-link: /2019/08/animal-rights-march-2019/
+path: /2019/08/animal-rights-march-2019/
 fileName: 2019-08---animal-rights-march-2019.md
 description: Der diesjährige offizielle Animal Rights March brach mit seinen
   Teilnehmerzahlen alle Rekorde. Alleine in Berlin gingen rund 5.500 Menschen
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25870"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erfolg für das Tierrechtskaktivistenbündnis
   
 ---

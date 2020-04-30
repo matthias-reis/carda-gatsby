@@ -2,7 +2,7 @@
 title: Dau­er­re­gen an der Glas­fens­ter­front
 seoTitle: Dauerregen an der Glasfensterfront - In den Straßen von St. Pauli
 slug: dauerregen-stpauli
-link: /2017/02/dauerregen-stpauli/
+path: /2017/02/dauerregen-stpauli/
 fileName: 2017-02---dau-er-re-gen-an-der-glas-fens-ter-front.md
 description: Dauerregen prasselt seit Tagen gegen die Glasfensterfront. Mal
   bringt er Staub mit, mal reinigt er sie. Heute ist wieder ein Flarf-Gedicht
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15905"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: In den Straßen von St. Pauli
   
 ---

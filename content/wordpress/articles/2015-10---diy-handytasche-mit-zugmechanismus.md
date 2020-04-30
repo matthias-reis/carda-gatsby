@@ -2,7 +2,7 @@
 title: DIY Handytasche mit Zugmechanismus
 seoTitle: Handytasche mit Zugmechanismus selber nähen
 slug: diy-handytasche-mit-zugmechanismus
-link: /2015/10/diy-handytasche-mit-zugmechanismus/
+path: /2015/10/diy-handytasche-mit-zugmechanismus/
 fileName: 2015-10---diy-handytasche-mit-zugmechanismus.md
 description: Wie versprochen zeige ich Euch heute, wie meine neue Handytasche
   entstanden ist. Ihr könnt Euch auch ganz leicht selbst eine nähen.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12924"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zum Schutz vor Kratzern und aus Stylegründen
   
 ---

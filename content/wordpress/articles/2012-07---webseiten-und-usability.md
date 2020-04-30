@@ -2,7 +2,7 @@
 title: Webseiten und Usability
 seoTitle: Webseiten und Usability - nach allen Regeln der Kunst
 slug: webseiten-und-usability
-link: /2012/07/webseiten-und-usability/
+path: /2012/07/webseiten-und-usability/
 fileName: 2012-07---webseiten-und-usability.md
 description: Usability steht für die Ergonomie, Alltagstauglichkeit /
   Bedienerfreundlichkeit einer Seite, Anwendung oder Software. Ein Beitrag über
@@ -44,8 +44,7 @@ isAffiliate: false
 thumbnailId: "9458"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <div> (121:42)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (121:42)"
 subTitle: Nach allen Regeln der Kunst
   
 ---

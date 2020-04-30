@@ -2,7 +2,7 @@
 title: Herbstgedanken
 seoTitle: Herbstgedanken - kurzer Tagebucheintrag
 slug: herbstgedanken
-link: /2011/10/herbstgedanken/
+path: /2011/10/herbstgedanken/
 fileName: 2011-10---herbstgedanken.md
 description: Steve Jobs Lieblingsrollis sind nicht mehr lieferbar. Innerhalb von
   ein paar Tagen verkaufte der Hersteller mehr, als sonst in einem Jahr.
@@ -66,7 +66,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2737"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

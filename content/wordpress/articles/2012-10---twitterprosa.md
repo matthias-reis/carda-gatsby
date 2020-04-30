@@ -2,7 +2,7 @@
 title: Twitterprosa
 seoTitle: Twitterprosa - Goldener Herbstschein folgt auf gewaltige Regengüsse
 slug: twitterprosa
-link: /2012/10/twitterprosa/
+path: /2012/10/twitterprosa/
 fileName: 2012-10---twitterprosa.md
 description: Goldener Herbstschein folgt auf gewaltige Regengüsse. Laubbilder am
   Freitag. Kaffee mit Zucker. Phoshorsäurehaltige Limonade mit Farbstoffen.
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4334"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Zusammenfassung
   
 ---

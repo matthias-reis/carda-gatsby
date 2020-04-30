@@ -2,7 +2,7 @@
 title: Schichtkartoffeln & Kürbis
 seoTitle: Schichtkartoffeln und Kürbis aus dem Ofen - winterliches Rezept
 slug: schichtkartoffeln-kuerbis-aus-dem-ofen
-link: /2019/11/schichtkartoffeln-kuerbis-aus-dem-ofen/
+path: /2019/11/schichtkartoffeln-kuerbis-aus-dem-ofen/
 fileName: 2019-11---schichtkartoffeln-und-kuerbis.md
 description: Winter ist Kartoffelzeit. Besonders lecker sind zum Beispiel
   Schichtkartoffeln aus dem Ofen. Sie schmecken besonders mit Kürbis gut - hier
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26743"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Winterliches Ofenrezept
   
 ---

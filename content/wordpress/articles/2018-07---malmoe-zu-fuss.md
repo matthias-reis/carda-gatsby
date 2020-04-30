@@ -2,7 +2,7 @@
 title: Malmö zu Fuß
 seoTitle: Malmö zu Fuß - Eine gemütliche Stadt mit dem gewissen Etwas
 slug: malmoe-zu-fuss
-link: /2018/07/malmoe-zu-fuss/
+path: /2018/07/malmoe-zu-fuss/
 fileName: 2018-07---malmoe-zu-fuss.md
 description: Kennt Ihr schon Malmö? Wir sind dort auf unserer Fahrt von
   Kopenhagen nach Trelleborg vorbeigekommen und haben uns gleich wohlgefühlt.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21498"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine gemütliche Stadt mit dem gewissen Etwas
   
 ---

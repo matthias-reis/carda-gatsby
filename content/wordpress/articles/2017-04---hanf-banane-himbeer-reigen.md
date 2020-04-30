@@ -2,7 +2,7 @@
 title: Hanf Banane Himbeer Reigen
 seoTitle: Hanf Banane Himbeer Reigen - Kräftigender Smoothie für Naschkatzen
 slug: hanf-banane-himbeer-smoothie
-link: /2017/04/hanf-banane-himbeer-smoothie/
+path: /2017/04/hanf-banane-himbeer-smoothie/
 fileName: 2017-04---hanf-banane-himbeer-reigen.md
 description: Ihr habt nicht viel Zeit für die Mittagspause? Wie wäre es mit
   einem leckeren Smoothie? Mein Hanf Banane Himbeer Reigen gibt Euch die Power,
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16818"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kräftigender Smoothie für Naschkatzen
   
 ---

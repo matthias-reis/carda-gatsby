@@ -2,7 +2,7 @@
 title: Calexico kündigen neue Platte "The Thread That Keeps Us" an
 seoTitle: Calexico kündigen neue Platte an - "The Tread That Keeps Us"
 slug: calexico-the-thread-that-keeps-us
-link: /2017/10/calexico-the-thread-that-keeps-us/
+path: /2017/10/calexico-the-thread-that-keeps-us/
 fileName: 2017-10---calexico-kuendigen-neue-platte-the-thread-that-keeps-us-an.md
 description: Die erste Auskopplung der neuen Calexico Platte "The Thread That
   Keeps Us" ist da. Und was soll man sagen? "End Of The World With You" macht
@@ -39,8 +39,7 @@ isAffiliate: false
 thumbnailId: "18143"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (81:7)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (81:7)"
 subTitle: Auskopplung "End Of The World With You"
   
 ---

@@ -2,7 +2,7 @@
 title: Dunk!festival 2018
 seoTitle: Dunk!festival 2018 - 36 Post-Rock Bands in 3 Tagen
 slug: dunkfestival-2018-postrock-liebe-fuer-immer
-link: /2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/
+path: /2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/
 fileName: 2018-05---dunk-festival-2018.md
 description: Insgesamt traten auf dem Dunk!festival im Belgischen Zottegem von
   Donnerstag, 10. Mai bis Samstag, 12. Mai 36 Post-Rock Bands auf.
@@ -58,7 +58,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20872"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 36 Post-Rock Bands in drei Tagen
   
 ---

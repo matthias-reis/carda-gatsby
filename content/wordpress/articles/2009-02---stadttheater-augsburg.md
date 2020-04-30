@@ -2,7 +2,7 @@
 title: Stadttheater Augsburg
 seoTitle: Stadttheater Augsburg
 slug: stadttheater-augsburg
-link: /2009/02/stadttheater-augsburg/
+path: /2009/02/stadttheater-augsburg/
 fileName: 2009-02---stadttheater-augsburg.md
 description: Kunst in Stein am Stadttheater Augsburg
 excerpt: Hinter dem Augsburger Stadttheater verbirgt sich ein wunderschönes Bild
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "116"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kunst in Stein
   
 ---

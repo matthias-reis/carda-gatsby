@@ -2,7 +2,7 @@
 title: Baumwipfelpfad Heidehimmel
 seoTitle: Baumwipfelpfad Heidehimmel - über den Bäumen wandeln
 slug: baumwipfelpfad-heidehimmel
-link: /2020/04/baumwipfelpfad-heidehimmel/
+path: /2020/04/baumwipfelpfad-heidehimmel/
 fileName: 2020-04---baumwipfelpfad-heidehimmel.md
 description: Habt Ihr auch bestimmte Ziele im Kopf, die Ihr unbedingt entdecken
   wollt? Eines davon ist für mich der Baumwipfelpfad Heidehimmel in der
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28833"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Über dem Wald wandeln
   
 ---

@@ -2,7 +2,7 @@
 title: Richtfest, Hebauf oder Firstbier
 seoTitle: Richtfest, Hebauf oder Firstbier - Tradition auf dem Bau
 slug: richtfest
-link: /2009/05/richtfest/
+path: /2009/05/richtfest/
 fileName: 2009-05---richtfest-hebauf-oder-firstbier.md
 description: Das Richtfest wird auch als Firstbier, Hebefest, Weihefest,
   Bauheben, Fensterbeer oder Aufschlagfest bezeichnet. Regional ist das ganz
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11362"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tradition auf dem Bau
   
 ---

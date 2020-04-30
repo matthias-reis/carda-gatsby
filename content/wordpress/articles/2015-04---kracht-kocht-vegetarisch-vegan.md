@@ -2,7 +2,7 @@
 title: '"Kracht kocht vegetarisch vegan"'
 seoTitle: '"Kracht kocht" - vegane und vegetarische Küche statt "Traumschiff"'
 slug: kracht-kocht-vegetarisch-vegan
-link: /2015/04/kracht-kocht-vegetarisch-vegan/
+path: /2015/04/kracht-kocht-vegetarisch-vegan/
 fileName: 2015-04---kracht-kocht-vegetarisch-vegan.md
 description: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und
   "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24486"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Internationale Küche statt "Traumschiff"
   
 ---

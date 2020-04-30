@@ -2,7 +2,7 @@
 title: DIY Paranuss-Tomaten-Brotaufstrich
 seoTitle: DIY Paranuss-Tomaten-Brotaufstrich - Veganes Rezept
 slug: diy-paranuss-tomaten-brotaufstrich
-link: /2015/09/diy-paranuss-tomaten-brotaufstrich/
+path: /2015/09/diy-paranuss-tomaten-brotaufstrich/
 fileName: 2015-09---diy-paranuss-tomaten-brotaufstrich.md
 description: "Bei einem perfekten Frühstück am Wochenende darf eins auf keinen
   Fall fehlen: Der perfekte Paranuss-Tomaten Brotaufstrich. Hier ist mein Rezept
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12641"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganer Frühstücksaufstrich zum Selbermachen
   
 ---

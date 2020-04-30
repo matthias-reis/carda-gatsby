@@ -2,7 +2,7 @@
 title: Matze bloggt über den G20 Gipfel
 seoTitle: Matze bloggt über den G20 Gipfel - So haben wir den G20 Gipfel erlebt
 slug: g20-gipfel
-link: /2017/07/g20-gipfel/
+path: /2017/07/g20-gipfel/
 fileName: 2017-07---matze-bloggt-ueber-den-g20-gipfel.md
 description: Matze hat für den Volksverpetzer einen Artikel über den G20 Gipfel
   hier in Hamburg verfasst. Darin schildert er nicht nur unsere Erlebnisse.
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17121"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: So erlebten wir Hamburger die Krawalle
   
 ---

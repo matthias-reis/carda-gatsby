@@ -2,7 +2,7 @@
 title: Mein veganes Tagebuch
 seoTitle: My Vegan Diary - Mein veganes Tagebuch
 slug: my-vegan-diary-mein-veganes-tagebuch
-link: /2014/07/my-vegan-diary-mein-veganes-tagebuch/
+path: /2014/07/my-vegan-diary-mein-veganes-tagebuch/
 fileName: 2014-07---mein-veganes-tagebuch.md
 description: My Vegan Diary - In dieser Rubrik zeige ich Euch mein Essen und
   berichte aus meinem veganen Leben. Das Tiereessen habe ich schon früh an den
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8079"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Esst Blumen und keine Hühnerbabies
   
 ---

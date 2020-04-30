@@ -2,7 +2,7 @@
 title: Hier kommt die Parade
 seoTitle: Stamp Festival Hamburg Altona - Der Sonntag - Fabelwesen im Sonnenlicht
 slug: stamp-festival-altona-2017-parade
-link: /2017/06/stamp-festival-altona-2017-parade/
+path: /2017/06/stamp-festival-altona-2017-parade/
 fileName: 2017-06---hier-kommt-die-parade.md
 description: Stamp Festival - Altona zeigte sich bunt und vielfältig, laut und
   kreativ. Genau so, wie es ist und wie wir es lieben. Hier kommt die Parade.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16908"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fabelwesen im Sonnenlicht
   
 ---

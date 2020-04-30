@@ -2,7 +2,7 @@
 title: Elblicht
 seoTitle: Elblicht - Flarfgedicht zum Jahresanfang an der Elbe
 slug: elblicht-flarfgedicht-zum-jahresanfang
-link: /2018/01/elblicht-flarfgedicht-zum-jahresanfang/
+path: /2018/01/elblicht-flarfgedicht-zum-jahresanfang/
 fileName: 2018-01---elblicht.md
 description: Elbenlichter sind Steine. Schirm für Lampen. Lichtblick. Der
   historische Eisbrecher. Winterlicht auf der Elbe. Frohes neues Jahr und alles
@@ -31,8 +31,7 @@ isAffiliate: false
 thumbnailId: "18844"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (28:24)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:24)"
 subTitle: Flarfgedicht zum Jahresanfang
   
 ---

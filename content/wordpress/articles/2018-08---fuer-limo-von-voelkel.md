@@ -2,7 +2,7 @@
 title: FÜR Limo von Voelkel
 seoTitle: FÜR Limo von Voelkel im Test - Geschmack von Italien und Skandinavien
 slug: fuer-limo-von-voelkel-im-test
-link: /2018/08/fuer-limo-von-voelkel-im-test/
+path: /2018/08/fuer-limo-von-voelkel-im-test/
 fileName: 2018-08---fuer-limo-von-voelkel.md
 description: Aus dem Hause Voelkel gibt es jetzt ein paar ganz neue
   Bio-Fairtrade-Limonaden. Ich war neugierig und habe alle drei Sorten probiert.
@@ -31,8 +31,7 @@ isAffiliate: false
 thumbnailId: "21594"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (93:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (93:16)"
 subTitle: Geschmack von Italien und Skandinavien
   
 ---

@@ -2,7 +2,7 @@
 title: 26. März 2010 Equal Pay Day
 seoTitle: 26. März 2010 Equal Pay Day
 slug: 26-marz-2010-equal-pay-day-der-tag-der-roten-handtaschen
-link: /2010/03/26-marz-2010-equal-pay-day-der-tag-der-roten-handtaschen/
+path: /2010/03/26-marz-2010-equal-pay-day-der-tag-der-roten-handtaschen/
 fileName: 2010-03---26-maerz-2010-equal-pay-day.md
 description: Frauen verdienen im Schnitt in Deutschland 23 Prozent weniger
   Brutto als Ihre männlichen Kollegen mit der gleichen Qualifikation (Gender Pay
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10763"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der Tag der roten Handtaschen
   
 ---

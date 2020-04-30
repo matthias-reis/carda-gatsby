@@ -2,7 +2,7 @@
 title: Mein Istanbul
 seoTitle: Mein Istanbul
 slug: mein-istanbul
-link: /2010/01/mein-istanbul/
+path: /2010/01/mein-istanbul/
 fileName: 2010-01---mein-istanbul.md
 description: Auf den Spuren von Fatih Akin habe ich eine Fotostrecke in Istanbul
   aufgenommen - Istanbul ist einfach eine Lieblingsstadt
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10826"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Januar 2010: 4 Tage Istanbul"
   
 ---

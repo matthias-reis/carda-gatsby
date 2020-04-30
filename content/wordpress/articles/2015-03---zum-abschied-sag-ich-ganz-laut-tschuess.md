@@ -2,7 +2,7 @@
 title: Zum Abschied sag' ich ganz laut tschüss!
 seoTitle: Abschied von Wordpress
 slug: zum-abschied-sag-ich-ganz-laut-tschuess
-link: /2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/
+path: /2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/
 fileName: 2015-03---zum-abschied-sag-ich-ganz-laut-tschuess.md
 description: Zum Abschied sage ich tschüss, wie man das in Hamburg eben so tut -
   Doch es ist kein richtiger Abschied...
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10394"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Teil IV: Der Abschied"
   
 ---

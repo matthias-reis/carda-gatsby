@@ -2,7 +2,7 @@
 title: Veganes Kürbisrisotto
 seoTitle: Veganes Kürbisrisotto - Rezept
 slug: veganes-kuerbisrisotto
-link: /2015/10/veganes-kuerbisrisotto/
+path: /2015/10/veganes-kuerbisrisotto/
 fileName: 2015-10---veganes-kuerbisrisotto.md
 description: Als wir am Freitag über den Markt liefen, kam mir die Idee, ein
   Kürbisrisotto zu kochen. Mein Rezept habe ich für Euch aufgeschrieben.
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12954"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept für 4 Portionen
   
 ---

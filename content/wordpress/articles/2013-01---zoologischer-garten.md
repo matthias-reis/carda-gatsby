@@ -2,7 +2,7 @@
 title: Zoologischer Garten
 seoTitle: Zoologischer Garten
 slug: zoologischer-garten
-link: /2013/01/zoologischer-garten/
+path: /2013/01/zoologischer-garten/
 fileName: 2013-01---zoologischer-garten.md
 description: ""
 excerpt: "Am 2. Januar war endlich mal wieder schönes Wetter und in den
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4755"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

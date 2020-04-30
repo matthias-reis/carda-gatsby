@@ -2,7 +2,7 @@
 title: Abenteuer auf dem Ring Of Kerry
 seoTitle: Ring Of Kerry - Irlands windigste Straße - wild und schön
 slug: ring-of-kerry
-link: /2018/01/ring-of-kerry/
+path: /2018/01/ring-of-kerry/
 fileName: 2018-01---abenteuer-auf-dem-ring-of-kerry.md
 description: Bei unserer Fahrt über den Ring Of Kerry zeigte sich uns die grüne
   Insel von ihrer wildschönen Seite. Rau und eindrucksvoll.
@@ -26,8 +26,7 @@ isAffiliate: false
 thumbnailId: "18770"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (53:55)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (53:55)"
 subTitle: Irlands windigste Straße
   
 ---

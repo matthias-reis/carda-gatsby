@@ -2,7 +2,7 @@
 title: Ich bleib dabei! Vegan macht Spaß!
 seoTitle: Warum ich für immer vegan leben möchte - ich bleibe dabei!
 slug: ich-bleib-dabei-vegan-macht-spass
-link: /2015/09/ich-bleib-dabei-vegan-macht-spass/
+path: /2015/09/ich-bleib-dabei-vegan-macht-spass/
 fileName: 2015-09---ich-bleib-dabei-vegan-macht-spass.md
 description: Im letzten Teil meiner Serie "10 Fakten über Veganismus" möchte ich
   mich bei allen bedanken, die sich mit mir über das Thema vegan unterhalten
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8429"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil X
   
 ---

@@ -2,7 +2,7 @@
 title: Stromanbieter wechseln!
 seoTitle: Atomkraft, nein danke! Stromanbieter jetzt wechseln!
 slug: stromanbieter-wechseln
-link: /2011/04/stromanbieter-wechseln/
+path: /2011/04/stromanbieter-wechseln/
 fileName: 2011-04---stromanbieter-wechseln.md
 description: "Die Mehrheit ist inzwischen dafür, doch viele fragen sich auch:
   Was kann ich persönlich dafür tun, damit der Wandel beschleunigt wird?"
@@ -94,7 +94,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10735"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Atomausstieg jetzt!
   
 ---

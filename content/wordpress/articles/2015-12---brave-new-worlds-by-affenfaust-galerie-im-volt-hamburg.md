@@ -2,7 +2,7 @@
 title: '"Brave New Worlds" by Affenfaust Galerie im Volt Hamburg'
 seoTitle: '"Brave New Worlds" by Affenfaust Galerie im Volt Hamburg'
 slug: brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg
-link: /2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/
+path: /2015/12/brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg/
 fileName: 2015-12---brave-new-worlds-by-affenfaust-galerie-im-volt-hamburg.md
 description: '"Brave New Worlds" - eine Galerie mit Kunstwerken, die sich mit
   Science-fiction auseinandersetzen - Hier sind meine Eindrücke für Euch.'
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13610"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Instagram-Galerie
   
 ---

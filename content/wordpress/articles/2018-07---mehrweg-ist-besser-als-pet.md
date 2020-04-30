@@ -2,7 +2,7 @@
 title: Mehrweg ist besser als PET!
 seoTitle: Mehrweg ist besser als PET! Glas- statt Plastikflaschen!
 slug: glas-statt-plastik
-link: /2018/07/glas-statt-plastik/
+path: /2018/07/glas-statt-plastik/
 fileName: 2018-07---mehrweg-ist-besser-als-pet.md
 description: Rund 16 Milliarden PET-Flaschen werden Jahr für Jahr in Deutschland
   entsorgt. "Einwegpfand ist Augenwischerei" sagen Umweltschützer und fordern
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21400"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Glas statt Plastik!
   
 ---

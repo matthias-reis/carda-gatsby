@@ -15,10 +15,7 @@ module.exports = async (l, e, data) => {
     }
   }
   if (!hasMatch) {
-    data.meta.errors.push({
-      type: 'noSubtitle',
-      message: 'no h2 heading found - no sub title',
-    });
+    data.meta.errors.noSubtitle = 'no h2 heading found - no sub title';
     e(bold(data.meta.fileName), 'no h2 heading found - no sub title');
   }
 

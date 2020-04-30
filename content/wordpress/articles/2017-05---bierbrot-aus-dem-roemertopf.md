@@ -2,7 +2,7 @@
 title: Bierbrot aus dem Römertopf
 seoTitle: Bierbrot aus dem Römertopf - "This looks fuckin' awesome!"
 slug: vollkornbrot-aus-dem-roemertopf
-link: /2017/05/vollkornbrot-aus-dem-roemertopf/
+path: /2017/05/vollkornbrot-aus-dem-roemertopf/
 fileName: 2017-05---bierbrot-aus-dem-roemertopf.md
 description: Wollt Ihr wissen, wie Ihr das Brot für Euer nächstes Picknick so
   richtig schön kross hinbekommt? Römertopf heißt das Zauberwort! Hier kommt
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16565"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "\"This looks fuckin' awesome!\"..."
   
 ---

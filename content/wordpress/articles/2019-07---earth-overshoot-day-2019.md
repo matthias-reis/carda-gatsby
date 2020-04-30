@@ -2,7 +2,7 @@
 title: Earth Overshoot Day 2019
 seoTitle: "Earth Overshoot Day 2019 - #MoveTheDate - wir müssen jetzt handeln!"
 slug: earth-overshoot-day-2019
-link: /2019/07/earth-overshoot-day-2019/
+path: /2019/07/earth-overshoot-day-2019/
 fileName: 2019-07---earth-overshoot-day-2019.md
 description: "Jedes Jahr findet der Earth Overshoot Day früher statt - das
   sollte uns Sorgen bereiten. Unter dem Hashtag #MoveTheDate gibt es 2019
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25522"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "#MoveTheDate - Wir müssen jetzt handeln!"
   
 ---

@@ -29,7 +29,7 @@ export const Article = ({ children, meta }) => {
         <Link to="/">〈 Homepage</Link>
       </p>
       <p>
-        <a href={`https://cardamonchai.com${meta.link}`}>〉Cardamonchai now</a>
+        <a href={`https://cardamonchai.com${meta.path}`}>〉Cardamonchai now</a>
       </p>
       <Title>{meta.title}</Title>
       {meta.subTitle && <Subtitle>{meta.subTitle}</Subtitle>}

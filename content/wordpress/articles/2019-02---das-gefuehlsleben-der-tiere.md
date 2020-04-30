@@ -2,7 +2,7 @@
 title: '"Das Gefühlsleben der Tiere"'
 seoTitle: Buchtipp - "Das Gefühlsleben der Tiere"
 slug: das-gefuehlsleben-der-tiere-marc-bekoff
-link: /2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/
+path: /2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/
 fileName: 2019-02---das-gefuehlsleben-der-tiere.md
 description: Heute möchte ich Euch das Buch "Das Gefühlsleben der Tiere" von
   Marc Bekoff vorstellen. Es ist am 1. Mai 2008 im Verlag "animal learn"
@@ -63,7 +63,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23380"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Buch von Marc Bekoff
   
 ---

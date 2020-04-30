@@ -2,7 +2,7 @@
 title: Blind Date mit einem Song
 seoTitle: Papa Was A Rolling Stone - Blind Date mit einem Song
 slug: papa-was-a-rolling-stone
-link: /2019/05/papa-was-a-rolling-stone/
+path: /2019/05/papa-was-a-rolling-stone/
 fileName: 2019-05---blind-date-mit-einem-song.md
 description: 'Es ist soweit: Das siebte Blogger Blind Date mit einem Song geht
   an den Start. Dieses Mal mit dem Klassiker "Papa Was A Rolling Stone" von The
@@ -57,7 +57,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24231"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Papa Was A Rolling Stone" von The Temptations'
   
 ---

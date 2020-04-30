@@ -2,7 +2,7 @@
 title: Veganer "Honig" von Vegablum
 seoTitle: Veganer Honig und Met von Vegablum - Der ultimative Test
 slug: veganer-honig-vegablum
-link: /2017/04/veganer-honig-vegablum/
+path: /2017/04/veganer-honig-vegablum/
 fileName: 2017-04---veganer-honig-von-vegablum.md
 description: Veganer Honig und Met geht nicht? Geht eben doch! Danny von
   Vegablum aus Meerbusch beweist das mit ihren Produkten Vonig und Vet
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16276"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das fleißige Blümchen aus Meerbusch
   
 ---

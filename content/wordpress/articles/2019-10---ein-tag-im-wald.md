@@ -2,7 +2,7 @@
 title: Ein Tag im Wald
 seoTitle: Ein Tag im Wald - einfach mal abschalten und die Natur genießen
 slug: ein-tag-im-wald
-link: /2019/10/ein-tag-im-wald/
+path: /2019/10/ein-tag-im-wald/
 fileName: 2019-10---ein-tag-im-wald.md
 description: '"Was machst Du am Wochenende?" - die logische Antwort war für mich
   dieses Mal "Ich gehe in den Wald". Fazit nach Planumsetzung: Das sollte ich
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26506"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Einfach mal abschalten
   
 ---

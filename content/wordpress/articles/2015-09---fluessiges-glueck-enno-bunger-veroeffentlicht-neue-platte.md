@@ -2,7 +2,7 @@
 title: '"Flüssiges Glück" - Enno Bunger veröffentlicht neue Platte'
 seoTitle: '"Flüssiges Glück" - Enno Bunger veröffentlicht neue Platte'
 slug: fluessiges-glueck-enno-bunger-veroeffentlicht-neue-platte
-link: /2015/09/fluessiges-glueck-enno-bunger-veroeffentlicht-neue-platte/
+path: /2015/09/fluessiges-glueck-enno-bunger-veroeffentlicht-neue-platte/
 fileName: 2015-09---fluessiges-glueck-enno-bunger-veroeffentlicht-neue-platte.md
 description: Endlich ist es soweit! Enno Bunger bringt eine neue Platte auf den
   Markt! Ich habe für Euch schon mal reingehört.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12662"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: So klingt die Vorauskopplung "Renn!"
   
 ---

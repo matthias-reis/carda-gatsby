@@ -2,7 +2,7 @@
 title: Der Herbst im April
 seoTitle: Der Herbst im April - Bild ohne Seerosen
 slug: der-herbst-im-april-ein-bild-ohne-seerosen
-link: /2013/04/der-herbst-im-april-ein-bild-ohne-seerosen/
+path: /2013/04/der-herbst-im-april-ein-bild-ohne-seerosen/
 fileName: 2013-04---der-herbst-im-april.md
 description: Dieser April treibt schon die verrücktesten Spitzen. Einige träumen
   sogar schon davon, ihre Wolldurch merkwürdige metallene Behältnisse zu
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5111"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Bild ohne Seerosen
   
 ---

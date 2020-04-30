@@ -2,7 +2,7 @@
 title: 1.000 Klicks in 93 Tagen
 seoTitle: 1.000 Klicks in 93 Tagen - cardamonchai kommt an
 slug: 1000-klicks
-link: /2011/05/1000-klicks/
+path: /2011/05/1000-klicks/
 fileName: 2011-05---1-000-klicks-in-93-tagen.md
 description: 1.000 Klicks gab es für cardamonchai in den ersten 93 Tagen. Das
   Experiment ist geglückt, die Seite wird gut angenommen. Meine Geschichten
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "1837"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der erste Erfolg
   
 ---

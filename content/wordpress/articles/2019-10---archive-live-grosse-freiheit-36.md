@@ -2,7 +2,7 @@
 title: Archive live @ Große Freiheit 36
 seoTitle: Archive live @ Große Freiheit 36 - zarte Töne auf dem Kiez
 slug: archive-live-grosse-freiheit-36
-link: /2019/10/archive-live-grosse-freiheit-36/
+path: /2019/10/archive-live-grosse-freiheit-36/
 fileName: 2019-10---archive-live-grosse-freiheit-36.md
 description: Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir
   uns natürlich nicht entgehen lassen und haben uns das Konzert angehört.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26608"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zarte Töne auf dem Kiez
   
 ---

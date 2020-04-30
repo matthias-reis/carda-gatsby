@@ -2,7 +2,7 @@
 title: Fritzi aus Preußen
 seoTitle: Fritzi aus Preußen - Mein Interview mit Senior Manager Daniela Engelke
 slug: fritzi-aus-preussen-mein-interview
-link: /2017/08/fritzi-aus-preussen-mein-interview/
+path: /2017/08/fritzi-aus-preussen-mein-interview/
 fileName: 2017-08---fritzi-aus-preussen.md
 description: Daniela Engelke von Fritzi aus Preußen hat mir einiges über die
   Geschichte des Fashion Labels und die kommende Kollektion verraten. Seid
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17806"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: “Für jede Frau die passende Fritzi”
   
 ---

@@ -2,7 +2,7 @@
 title: Mi­ni­a­tur­wun­der­land Ham­burg
 seoTitle: Miniaturwunderland Hamburg - Festivalbilder mal anders
 slug: miniaturwunderland-hamburg
-link: /2016/07/miniaturwunderland-hamburg/
+path: /2016/07/miniaturwunderland-hamburg/
 fileName: 2016-07---mi-ni-a-tur-wun-der-land-ham-burg.md
 description: Mit unseren Hamburg-Besuchern haben wir uns das Miniaturwunderland
   angeschaut. Dabei sind sogar ein paar Festivalbilder entstanden.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14992"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Festivalbilder mal anders
   
 ---

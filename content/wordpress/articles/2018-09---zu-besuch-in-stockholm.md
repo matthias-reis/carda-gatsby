@@ -2,7 +2,7 @@
 title: Zu Besuch in Stockholm
 seoTitle: Zu Besuch in Stockholm - Sonne, Kunst und Geschichte
 slug: zu-besuch-in-stockholm
-link: /2018/09/zu-besuch-in-stockholm/
+path: /2018/09/zu-besuch-in-stockholm/
 fileName: 2018-09---zu-besuch-in-stockholm.md
 description: Bei unserem Besuch in Stockholm konnten wir Sonnenschein und
   strahlend blauen Himmel genießen. Und wir haben einiges entdeckt.
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21972"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sonne, Kunst und Geschichte
   
 ---

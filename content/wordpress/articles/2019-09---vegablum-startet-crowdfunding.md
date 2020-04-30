@@ -2,7 +2,7 @@
 title: Vegablum startet Crowdfunding
 seoTitle: Vegablum startet Crowdfunding - Food Start-up Wettbewerb Next Level!
 slug: vegablum-startet-crowdfunding
-link: /2019/09/vegablum-startet-crowdfunding/
+path: /2019/09/vegablum-startet-crowdfunding/
 fileName: 2019-09---vegablum-startet-crowdfunding.md
 description: Vegablum aus Hagen ist beim Food Start-up Context Next Level! 2019
   mit dabei. Beim Wettbewerb treten insgesamt 19 Start-ups gegeneinander an.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26360"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Food Start-up Wettbewerb Next Level!
   
 ---

@@ -2,7 +2,7 @@
 title: naturmädchen im Test
 seoTitle: Naturmädchen Kosmetik im Test - Mizellenwasser, Creme & Serum
 slug: naturmaedchen-kosmetik
-link: /2020/01/naturmaedchen-kosmetik/
+path: /2020/01/naturmaedchen-kosmetik/
 fileName: 2020-01---naturmaedchen-im-test.md
 description: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau
   das Richtige für mich, dachte ich mir - die musste ich einfach testen.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27294"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mizellenwasser, Gesichtscreme und Serum
   
 ---

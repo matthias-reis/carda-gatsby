@@ -2,7 +2,7 @@
 title: 10 Alben - Keine Erklärung - Teil 2/3
 seoTitle: 10 Alben - Keine Erklärung - Die Lieblingsplattenliste eines Gartenbloggers
 slug: 10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste
-link: /2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/
+path: /2018/03/10-alben-keine-erklaerung-bjoerns-lieblingsplattenliste/
 fileName: 2018-03---10-alben-keine-erklaerung-teil-2-3.md
 description: Im zweiten Teil meiner Blogserie "10 Songs - Keine Erklärung"
   stelle ich Euch die Lieblingsplatten eines beliebten Gartenbloggers vor. Seid
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20077"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Lieblingsplattenliste eines Gartenbloggers
   
 ---

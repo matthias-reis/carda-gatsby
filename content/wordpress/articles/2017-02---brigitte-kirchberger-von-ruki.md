@@ -3,7 +3,7 @@ title: Brigitte Kirchberger von RuKi
 seoTitle: "Startnext Kampagne: Glutenfreie und Vegane Spätzle für alle -
   Interview mit Brigitte von RuKi"
 slug: glutenfreie-vegane-spaetzle-interview-ruki
-link: /2017/02/glutenfreie-vegane-spaetzle-interview-ruki/
+path: /2017/02/glutenfreie-vegane-spaetzle-interview-ruki/
 fileName: 2017-02---brigitte-kirchberger-von-ruki.md
 description: Die Lebensmittelmanufaktur RuKi aus Peißenberg in Oberbayern hat
   eine Startnext Kampagne gestartet. Sie dreht sich um glutenfreie und vegane
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15797"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Glutenfreie und vegane Spätzle für alle
   
 ---

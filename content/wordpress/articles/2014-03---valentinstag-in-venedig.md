@@ -2,7 +2,7 @@
 title: Valentinstag in Venedig
 seoTitle: Valentinstag in Venedig - Sonne, Kunst und bunte Masken
 slug: valentinstag-in-venedig
-link: /2014/03/valentinstag-in-venedig/
+path: /2014/03/valentinstag-in-venedig/
 fileName: 2014-03---valentinstag-in-venedig.md
 description: Zum 14. Februar reisten wir nach Italien. Genauer gesagt nach
   Venedig. Mit dem Wassertaxi haben wir jeden Winkel der Stadt erkundet
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7790"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: von Sonne, Kunst und bunten Masken
   
 ---

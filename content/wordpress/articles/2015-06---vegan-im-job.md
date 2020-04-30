@@ -2,7 +2,7 @@
 title: '"Vegan im Job"'
 seoTitle: '"Vegan im Job" - das neue Buch von Patrick Bolk ist da'
 slug: vegan-im-job-das-neue-buch-von-patrick-bolk-ist-da
-link: /2015/06/vegan-im-job-das-neue-buch-von-patrick-bolk-ist-da/
+path: /2015/06/vegan-im-job-das-neue-buch-von-patrick-bolk-ist-da/
 fileName: 2015-06---vegan-im-job.md
 description: '"Vegan im Job", das neue Buch von Patrick Bolk macht Lust, neue
   Wege zu gehen. Warum nicht mal selbstgemachte Nussecken oder Salate mit ins
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24492"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das neue Buch von Patrick Bolk
   
 ---

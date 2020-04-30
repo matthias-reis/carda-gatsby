@@ -2,7 +2,7 @@
 title: So ist es mir ergangen
 seoTitle: Tagebuch - So ist es mir ergangen - Arbeit und Vergnügen
 slug: tagebuch-dezember-2016
-link: /2016/11/tagebuch-dezember-2016/
+path: /2016/11/tagebuch-dezember-2016/
 fileName: 2016-11---so-ist-es-mir-ergangen.md
 description: Dass ich kurz weg war, hat verschiedene Gründe. Einer davon ist,
   dass ich wieder in meinem alten Job arbeite. Ich freue mich auf Eure
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15327"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Seite aus dem Tagebuch
   
 ---

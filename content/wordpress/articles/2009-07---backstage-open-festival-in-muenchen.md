@@ -2,7 +2,7 @@
 title: Backstage Open Festival in München
 seoTitle: Backstage Open Festival 2009 in München mit Anajo
 slug: backstage-open-festival-in-munchen
-link: /2009/07/backstage-open-festival-in-munchen/
+path: /2009/07/backstage-open-festival-in-munchen/
 fileName: 2009-07---backstage-open-festival-in-muenchen.md
 description: Am Freitag, 3. Juli und Samstag 4. Juli 2009 fand auf dem Backstage
   Werksgelände wieder das BACKSTAGE OPEN-Festival statt.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11419"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Von Anajo bis Tito And Tarantula
   
 ---

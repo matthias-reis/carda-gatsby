@@ -2,7 +2,7 @@
 title: Unser Dörrautomat
 seoTitle: Unser Dörrautomat - Neueste Errungenschaft in der Küche
 slug: doerrautomat
-link: /2017/08/doerrautomat/
+path: /2017/08/doerrautomat/
 fileName: 2017-08---unser-doerrautomat.md
 description: Ein Dörrautomat - Was ist das eigentlich? Ich habe mir jetzt selbst
   einen zugelegt und lüfte das Geheimnis hiermit für Euch. Spannend, oder?
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17597"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neueste Errungenschaft in der Küche
   
 ---

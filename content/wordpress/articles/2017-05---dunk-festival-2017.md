@@ -2,7 +2,7 @@
 title: Dunk!festival 2017
 seoTitle: Dunk!festival 2017 wir kommen! Der Rucksack ist gepackt!
 slug: dunkfestival-2017-es-geht-los
-link: /2017/05/dunkfestival-2017-es-geht-los/
+path: /2017/05/dunkfestival-2017-es-geht-los/
 fileName: 2017-05---dunk-festival-2017.md
 description: Es geht los! Der Rucksack ist schon gepackt und wartet darauf, mit
   uns zum Dunk!festival 2017 aufzubrechen! Drei Tage Post-Rock pur stehen uns
@@ -75,7 +75,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16752"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der Rucksack ist gepackt!
   
 ---

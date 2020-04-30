@@ -2,7 +2,7 @@
 title: "#NoG20 - Was hier in Hamburg los ist"
 seoTitle: NoG20 - Was hier in Hamburg los ist - Statusmeldung einer Anwohnerin
 slug: nog20
-link: /2017/07/nog20/
+path: /2017/07/nog20/
 fileName: 2017-07---nog20-was-hier-in-hamburg-los-ist.md
 description: NoG20 ist letzte Nacht aus dem Ruder gelaufen. Ich gebe hiermit
   eine kleine Statusnachricht ab und erzähle Euch, wie sich das für uns Anwohner
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17062"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Statusmeldung einer Anwohnerin
   
 ---

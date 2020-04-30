@@ -2,7 +2,7 @@
 title: Flora und Fauna auf Bali
 seoTitle: Flora und Fauna auf Bali
 slug: flora-und-fauna-auf-bali
-link: /2013/08/flora-und-fauna-auf-bali/
+path: /2013/08/flora-und-fauna-auf-bali/
 fileName: 2013-08---flora-und-fauna-auf-bali.md
 description: Die Tier- und Planzenwelt auf Bali ist wirklich faszinierend - Eine
   Bildergalerie
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6340"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unsere große Reise - Teil V
   
 ---

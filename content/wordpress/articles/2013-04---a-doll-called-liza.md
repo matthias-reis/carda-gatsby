@@ -2,7 +2,7 @@
 title: A Doll Called Liza
 seoTitle: A Doll Called Liza
 slug: a-doll-called-liza
-link: /2013/04/a-doll-called-liza
+path: /2013/04/a-doll-called-liza
 fileName: 2013-04---a-doll-called-liza.md
 description: ""
 excerpt: "\n               \ \n            "
@@ -21,8 +21,7 @@ isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

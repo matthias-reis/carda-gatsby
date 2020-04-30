@@ -2,7 +2,7 @@
 title: Jardín Canario - Grüne Oase in Tafira
 seoTitle: Jardín Canario - Grüne Oase in Tafira - Botanischer Garten der Kanaren
 slug: jardin-canario-gruene-oase-in-tafira
-link: /2017/09/jardin-canario-gruene-oase-in-tafira/
+path: /2017/09/jardin-canario-gruene-oase-in-tafira/
 fileName: 2017-09---jard-n-canario-gruene-oase-in-tafira.md
 description: Im Botanischen Garten Jardín Canario auf Gran Canaria beeindrucken
   Kakteen, Sukkulenten, Drachenbäume, Kiefernhaine, Loorbeerbäume und Palmen die
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17945"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Botanischer Garten auf Gran Canaria
   
 ---

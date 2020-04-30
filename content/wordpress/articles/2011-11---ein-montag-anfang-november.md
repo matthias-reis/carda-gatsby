@@ -2,7 +2,7 @@
 title: Ein Montag Anfang November
 seoTitle: Ein Montag Anfang November - kurzer Tagebucheintrag
 slug: ein-montag-anfang-november
-link: /2011/11/ein-montag-anfang-november/
+path: /2011/11/ein-montag-anfang-november/
 fileName: 2011-11---ein-montag-anfang-november.md
 description: Warum scheinen es eigentlich immer alle so eilig zu haben, ein Jahr
   zu beenden? Sollte man das nicht vielleicht lieber noch etwas herauszögern?
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2744"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

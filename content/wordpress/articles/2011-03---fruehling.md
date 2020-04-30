@@ -2,7 +2,7 @@
 title: Frühling
 seoTitle: Frühling - Tagebucheintrag
 slug: fruhling
-link: /2011/03/fruhling/
+path: /2011/03/fruhling/
 fileName: 2011-03---fruehling.md
 description: "Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die
   Blumen blühen, die Meiler schmelzen. Armes Japan."
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3079"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

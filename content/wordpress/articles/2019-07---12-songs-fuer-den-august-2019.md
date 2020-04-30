@@ -2,7 +2,7 @@
 title: 12 Songs für den August 2019
 seoTitle: 12 Songs für den August - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-august
-link: /2019/07/12-songs-fuer-den-august/
+path: /2019/07/12-songs-fuer-den-august/
 fileName: 2019-07---12-songs-fuer-den-august-2019.md
 description: Was für ein musikalischer Sommer! Wöchentlich gibt es neue Platten
   zu entdecken - eine interessanter, als die andere! Wir haben 12 Songs
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25461"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

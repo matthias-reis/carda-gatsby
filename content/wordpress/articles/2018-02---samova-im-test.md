@@ -2,7 +2,7 @@
 title: Samova im Test
 seoTitle: Samova - Nachhaltiger Tee aus Hamburg - Teetesterin für eine Woche
 slug: samova
-link: /2018/02/samova/
+path: /2018/02/samova/
 fileName: 2018-02---samova-im-test.md
 description: Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen
   Teesorten von Samova aus Hamburg. Gerade im richtigen Moment!
@@ -37,8 +37,7 @@ isAffiliate: false
 thumbnailId: "19674"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (66:13)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (66:13)"
 subTitle: Nachhaltiger Tee aus Hamburg
   
 ---

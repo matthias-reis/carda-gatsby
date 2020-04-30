@@ -2,7 +2,7 @@
 title: Ein schönes Wochenende
 seoTitle: Ein schönes Wochenende - Der Frühling ist da - Denk mal drüber nach!
 slug: ein-schoenes-wochenende
-link: /2017/03/ein-schoenes-wochenende/
+path: /2017/03/ein-schoenes-wochenende/
 fileName: 2017-03---ein-schoenes-wochenende.md
 description: '"Ein schönes Wochenende!", sagst Du zu der Verkäuferin und sie
   lächelt Dich freundlich an. Weißt Du eigentlich, wie sehr sie sich freut?'
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16073"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der Frühling ist da
   
 ---

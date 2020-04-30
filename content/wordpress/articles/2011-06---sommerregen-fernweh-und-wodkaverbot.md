@@ -2,7 +2,7 @@
 title: Sommerregen, Fernweh und Wodkaverbot
 seoTitle: Sommerregen, Fernweh und Wodkaverbot - Tagebucheintrag
 slug: sommerregen-fernweh-und-wodkaverbot
-link: /2011/06/sommerregen-fernweh-und-wodkaverbot/
+path: /2011/06/sommerregen-fernweh-und-wodkaverbot/
 fileName: 2011-06---sommerregen-fernweh-und-wodkaverbot.md
 description: Sommerregen auf warmem Asphalt. Musik im Kopf, ein Gefühl wie in
   Watte verpackt. Wasser auf Staub. Kaum zurück in der Zivilisation, schon
@@ -66,7 +66,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2221"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

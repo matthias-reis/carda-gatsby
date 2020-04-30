@@ -2,7 +2,7 @@
 title: Blues On Two Trees
 seoTitle: Blues On Two Trees - Neues von Jack White
 slug: blues-on-two-trees
-link: /2012/10/blues-on-two-trees/
+path: /2012/10/blues-on-two-trees/
 fileName: 2012-10---blues-on-two-trees.md
 description: Mit "Blues On Two Trees" stellt Jack White einen neuen
   B-Seiten-Song vor. Ich habe schon mal reingehört. Hier geht's zum "Blues On
@@ -47,7 +47,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4414"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Jack White stellt neuen B-Seiten-Song vor
   
 ---

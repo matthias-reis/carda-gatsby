@@ -3,7 +3,7 @@ title: Ab jetzt gelten neue Bauernregeln
 seoTitle: Ab jetzt gelten neue Bauernregeln - Das Deutsche Tierschutzbüro kämpft
   für Gesetzänderungen
 slug: neue-bauernregeln
-link: /2017/02/neue-bauernregeln/
+path: /2017/02/neue-bauernregeln/
 fileName: 2017-02---ab-jetzt-gelten-neue-bauernregeln.md
 description: Mit der Aktion "Neue Bauernregeln" kämpft das Deutsche
   Tierschutzbüro für Gesetzänderungen. Im Vordergrund der Kampagne stehen die
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15875"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tierschutzbüro kämpft für Gesetzesänderungen
   
 ---

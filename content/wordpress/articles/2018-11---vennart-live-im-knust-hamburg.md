@@ -2,7 +2,7 @@
 title: Vennart live im Knust Hamburg
 seoTitle: Vennart live im Knust Hamburg - Ein traumhaftes Konzert
 slug: vennart-knust-hamburg
-link: /2018/11/vennart-knust-hamburg/
+path: /2018/11/vennart-knust-hamburg/
 fileName: 2018-11---vennart-live-im-knust-hamburg.md
 description: "Mike Vennart gab sich am 14. Oktober mit seiner Band im Hamburger
   Knust die Ehre. Was habe ich auf diesen Moment gewartet und dann: Was für ein
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22750"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: To Cure A Blizzard Upon A Plastic Sea
   
 ---

@@ -2,7 +2,7 @@
 title: Ich glaub', mich knutscht ein Elch!
 seoTitle: Ich glaub', mich knutscht ein Elch! Meine erste Elch-Begegnung
 slug: ich-glaub-mich-knutscht-ein-elch
-link: /2018/10/ich-glaub-mich-knutscht-ein-elch/
+path: /2018/10/ich-glaub-mich-knutscht-ein-elch/
 fileName: 2018-10---ich-glaub-mich-knutscht-ein-elch.md
 description: Ich möchte Euch heute von einer ganz besonderen Begegnung erzählen.
   Diesen Sommer habe ich das erste Mal Elche gesehen und fotografiert.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22411"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Meine erste Elch-Begegnung
   
 ---

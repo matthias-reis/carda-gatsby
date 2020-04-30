@@ -2,7 +2,7 @@
 title: Das Glücksferkel von Hof Butenland
 seoTitle: Sprung vom Tiertransporter - das Glücksferkel von Hof Butenland
 slug: das-gluecksferkel-von-hof-butenland
-link: /2019/08/das-gluecksferkel-von-hof-butenland/
+path: /2019/08/das-gluecksferkel-von-hof-butenland/
 fileName: 2019-08---das-gluecksferkel-von-hof-butenland.md
 description: "Frederik brachte ein Abenteuer auf Hof Butenland: Das Ferkel
   rettete sich durch einen Sprung vom Tiertransporter - bei 90 km/h auf der
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25733"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Frederiks Sprung vom Tiertransporter
   
 ---

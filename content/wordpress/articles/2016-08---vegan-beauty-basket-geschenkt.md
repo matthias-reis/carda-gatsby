@@ -2,7 +2,7 @@
 title: Vegan Beauty Basket geschenkt*
 seoTitle: Vegan Beauty Basket verschenkt Gratis Box zum 3er Abo
 slug: vegan-beauty-basket-gratis-aktion
-link: /2016/08/vegan-beauty-basket-gratis-aktion/
+path: /2016/08/vegan-beauty-basket-gratis-aktion/
 fileName: 2016-08---vegan-beauty-basket-geschenkt.md
 description: Es gibt Neuigkeiten rund um den Vegan Beauty Basket! Als besondere
   Geburtstagsüberraschung gibt es zum 3er-Abo eine Gratisbox dazu!
@@ -27,8 +27,7 @@ isAffiliate: false
 thumbnailId: "15082"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (45:95)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (45:95)"
 subTitle: Box ab jetzt alle zwei Monate
   
 ---

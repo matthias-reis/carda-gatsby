@@ -2,7 +2,7 @@
 title: Erbsensuppe wie bei Oma
 seoTitle: Erbsensuppe wie bei Oma - Grünes Protein für alle
 slug: erbsensuppe-wie-bei-oma
-link: /2017/04/erbsensuppe-wie-bei-oma/
+path: /2017/04/erbsensuppe-wie-bei-oma/
 fileName: 2017-04---erbsensuppe-wie-bei-oma.md
 description: Meine Erbsensuppe hat bei Instagram voll abgeräumt. Deshalb
   präsentiere ich Euch heute das Rezept. Die Suppe ist lecker, Kalorien-arm und
@@ -43,7 +43,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16520"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Grünes Protein für alle
   
 ---

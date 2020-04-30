@@ -2,7 +2,7 @@
 title: Caspian live @ Hafenklang Hamburg
 seoTitle: Caspian live @ Hafenklang Hamburg
 slug: caspian-live-hafenklang-hamburg
-link: /2015/11/caspian-live-hafenklang-hamburg/
+path: /2015/11/caspian-live-hafenklang-hamburg/
 fileName: 2015-11---caspian-live-hafenklang-hamburg.md
 description: "Gestern war der große Tag endlich gekommen: Caspian spielten live
   im Hafenklang in Hamburg."
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13074"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Konzert ohne Kamera
   
 ---

@@ -2,7 +2,7 @@
 title: Reparieren statt wegwerfen
 seoTitle: Reparieren statt wegwerfen - Neue Kooperation der Repair Cafés
 slug: repair-cafes-reparieren-statt-wegwerfen
-link: /2018/09/repair-cafes-reparieren-statt-wegwerfen/
+path: /2018/09/repair-cafes-reparieren-statt-wegwerfen/
 fileName: 2018-09---reparieren-statt-wegwerfen.md
 description: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt
   den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22104"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die nachhaltige Kooperation von SOS Zubehör mit Repair Cafés
   
 ---

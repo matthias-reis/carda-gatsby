@@ -2,7 +2,7 @@
 title: Frühstück à la Wilder Westen
 seoTitle: Frühstück à la Wilder Westen
 slug: fruehstueck-a-la-wilder-westen
-link: /2015/03/fruehstueck-a-la-wilder-westen/
+path: /2015/03/fruehstueck-a-la-wilder-westen/
 fileName: 2015-03---fruehstueck-la-wilder-westen.md
 description: Ein schnelles Rezept zum selbst kochen auf dem Festival - Das
   perfekte Frühstück um Energie für den Tag zu tanken...
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10447"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Festivalküche
   
 ---

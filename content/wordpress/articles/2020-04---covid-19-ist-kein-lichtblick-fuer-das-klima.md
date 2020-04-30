@@ -2,7 +2,7 @@
 title: '"COVID-19 ist kein Lichtblick für das Klima"'
 seoTitle: Inger Andersen zu Corona - kein Lichtblick
 slug: inger-andersen-un-covid-19
-link: /2020/04/inger-andersen-un-covid-19/
+path: /2020/04/inger-andersen-un-covid-19/
 fileName: 2020-04---covid-19-ist-kein-lichtblick-fuer-das-klima.md
 description: Durch die Reaktionen der Regierungen auf die COVID-19 Pandemie hat
   sich die Luft verbessert. Inger Andersen warnt davor, das als Lichtblick zu
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29112"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: UN Umweltchefin Inger Andersen zu Corona
   
 ---

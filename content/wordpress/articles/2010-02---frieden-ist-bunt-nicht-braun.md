@@ -2,7 +2,7 @@
 title: '"Frieden ist bunt, nicht braun"'
 seoTitle: '"Frieden ist bunt, nicht braun"'
 slug: frieden-ist-bunt-nicht-braun-grose-demonstration-gegen-neonazis-in-augsburg
-link: /2010/02/frieden-ist-bunt-nicht-braun-grose-demonstration-gegen-neonazis-in-augsburg/
+path: /2010/02/frieden-ist-bunt-nicht-braun-grose-demonstration-gegen-neonazis-in-augsburg/
 fileName: 2010-02---frieden-ist-bunt-nicht-braun.md
 description: Große Friedensdemonstration in Augsburg anlässlich der des
   Jahrestages der Bombenangriffe
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10756"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Großdemonstration gegen Neonazis in Augsburg
   
 ---

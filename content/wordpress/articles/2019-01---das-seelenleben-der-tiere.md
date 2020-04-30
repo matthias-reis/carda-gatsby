@@ -2,7 +2,7 @@
 title: '"Das Seelenleben der Tiere"'
 seoTitle: Das Seelenleben der Tiere von Peter Wohlleben - meine Kritik
 slug: das-seelenleben-der-tiere-peter-wohlleben
-link: /2019/01/das-seelenleben-der-tiere-peter-wohlleben/
+path: /2019/01/das-seelenleben-der-tiere-peter-wohlleben/
 fileName: 2019-01---das-seelenleben-der-tiere.md
 description: Empfinden Tiere Liebe, Trauer und Mitgefühl? Dieser Frage geht
   Autor Peter Wohlleben in seinem Buch "Das Seelenleben der Tiere nach". Ich
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23183"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Buch von Peter Wohlleben
   
 ---

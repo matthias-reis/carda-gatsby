@@ -2,7 +2,7 @@
 title: Roberts Teehaus im Test
 seoTitle: Roberts Teehaus im Test - hochwertiger Tee zum fairen Preis
 slug: roberts-teehaus-im-test
-link: /2019/12/roberts-teehaus-im-test/
+path: /2019/12/roberts-teehaus-im-test/
 fileName: 2019-12---roberts-teehaus-im-test.md
 description: Ich habe die Tees aus Roberts Teehaus getestet und möchte Euch ein
   paar ausgewählte Sorten empfehlen - von Jasmin Pearls bis Silbernadeltee.
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26844"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Hochwertige Tees zum fairen Preis
   
 ---

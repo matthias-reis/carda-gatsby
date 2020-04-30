@@ -2,7 +2,7 @@
 title: Wir läuten die Festivalsaison ein
 seoTitle: Wir läuten die Festivalsaison ein - Kurze Auszeit im Blog
 slug: wir-laeuten-die-festivalsaison-ein
-link: /2018/05/wir-laeuten-die-festivalsaison-ein/
+path: /2018/05/wir-laeuten-die-festivalsaison-ein/
 fileName: 2018-05---wir-laeuten-die-festivalsaison-ein.md
 description: Wir werden morgen die Festivalsaison einläuten, indem wir uns auf
   den Weg zum DUNK!festival machen. Für Euch gibt es was Spannendes.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5062"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kurze Auszeit
   
 ---

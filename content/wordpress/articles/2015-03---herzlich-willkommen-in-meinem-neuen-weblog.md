@@ -2,7 +2,7 @@
 title: Herzlich Willkommen in meinem neuen Weblog!
 seoTitle: Herzlich Willkommen bei Anne bloggt cardamonchai
 slug: herzlich-willkommen-in-meinem-neuen-weblog
-link: /2015/03/herzlich-willkommen-in-meinem-neuen-weblog/
+path: /2015/03/herzlich-willkommen-in-meinem-neuen-weblog/
 fileName: 2015-03---herzlich-willkommen-in-meinem-neuen-weblog.md
 description: Herzlich Willkommen in meinem neuen Weblog! Ich hoffe, es gefällt Euch!
 excerpt: Wie recht der Fox Peter doch hat! Man fühlt sich schon viel wohler, mit
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10540"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Teil V: Der Livegang"
   
 ---

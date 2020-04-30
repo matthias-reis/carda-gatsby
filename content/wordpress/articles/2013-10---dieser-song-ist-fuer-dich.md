@@ -2,7 +2,7 @@
 title: Dieser Song ist für Dich
 seoTitle: Herbstliche Schreibblockade - Dieser Song ist für Dich
 slug: dieser-song-ist-fur-dich-herbstliche-schreibblockade
-link: /2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/
+path: /2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/
 fileName: 2013-10---dieser-song-ist-fuer-dich.md
 description: Im Moment scheine ich an einer echten Schreibblockade zu leiden.
   Doch woher kommt Sie und wie geht sie wieder weg? Dieser Song ist für Dich,
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7391"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Herbstliche Schreibblockade
   
 ---

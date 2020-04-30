@@ -2,7 +2,7 @@
 title: Weise Worte
 seoTitle: Weise Worte - Zitate in meinem Blog
 slug: zitate
-link: /2015/09/zitate/
+path: /2015/09/zitate/
 fileName: 2015-09---weise-worte.md
 description: Sicher ist Euch schon die Rubrik "Weise Worte" in meinem Blog
   aufgefallen. Hier teile ich Zitate berühmter und weniger berühmter Menschen
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12484"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zitate in meinem Blog
   
 ---

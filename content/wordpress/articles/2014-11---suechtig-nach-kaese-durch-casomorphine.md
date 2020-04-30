@@ -2,7 +2,7 @@
 title: Süchtig nach Käse durch Casomorphine
 seoTitle: Süchtig nach Käse durch Casomorphine - wie ich meine Sucht erkannte
 slug: suechtig-nach-kaese-casomorphine
-link: /2014/11/suechtig-nach-kaese-casomorphine/
+path: /2014/11/suechtig-nach-kaese-casomorphine/
 fileName: 2014-11---suechtig-nach-kaese-durch-casomorphine.md
 description: Wusstet Ihr, dass man nach Käse richtig süchtig sein kann? Das ist
   sogar wissenschaftlich erwiesen. Darum fällt es vielen so schwer, darauf zu
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9271"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wie ich meine Sucht erkannte
   
 ---

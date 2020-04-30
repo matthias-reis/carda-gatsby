@@ -2,7 +2,7 @@
 title: Verwunschen
 seoTitle: Verwunschen
 slug: verwunschen
-link: /2009/07/verwunschen/
+path: /2009/07/verwunschen/
 fileName: 2009-07---verwunschen.md
 description: Verwunschen - Gesehen in Mering bei Augsburg
 excerpt: In Mering bei Augsburg habe ich ein verwunschenes Schloss entdeckt.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11388"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesehen in <a
   href="http://cardamonchai.com/2009/07/mering/">Mering</a> bei Augsburg
   

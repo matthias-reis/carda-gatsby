@@ -2,7 +2,7 @@
 title: Ein perfekter Sonntag auf dem Sofa
 seoTitle: Ein perfekter Sonntag auf dem Sofa - Entspannung pur
 slug: ein-perfekter-sonntag-auf-dem-sofa
-link: /2018/02/ein-perfekter-sonntag-auf-dem-sofa/
+path: /2018/02/ein-perfekter-sonntag-auf-dem-sofa/
 fileName: 2018-02---ein-perfekter-sonntag-auf-dem-sofa.md
 description: Was gehört für Euch zu einem perfekten Sonntag auf dem Sofa dazu?
   Wein? Pralinen? Bunte Gossip-Magazine? Bücher? Ich habe ein paar Anregungen.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19649"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Entspannung pur
   
 ---

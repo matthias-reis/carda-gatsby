@@ -2,7 +2,7 @@
 title: Newpharma im Vegan-Test
 seoTitle: Newpharma - Eine neue Onlineapotheke aus Belgien im Vegan-Test
 slug: newpharma-eine-neue-onlineapotheke-im-vegan-test
-link: /2018/05/newpharma-eine-neue-onlineapotheke-im-vegan-test/
+path: /2018/05/newpharma-eine-neue-onlineapotheke-im-vegan-test/
 fileName: 2018-05---newpharma-im-vegan-test.md
 description: Ich habe jetzt die Belgische Onlineapotheke Newpharma dem
   Vegan-Test unterzogen. Kann man dort vegan und cruelty free bestellen?
@@ -55,7 +55,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20981"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Onlineapotheke ausprobiert
   
 ---

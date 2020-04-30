@@ -2,7 +2,7 @@
 title: Fakepelz = Echtpelz
 seoTitle: Fakepelz = Echtpelz - warum Veganer auf Tierhaut verzichten
 slug: fakepelz-echtpelz
-link: /2014/11/fakepelz-echtpelz/
+path: /2014/11/fakepelz-echtpelz/
 fileName: 2014-11---fakepelz-echtpelz.md
 description: Über die finsteren Machenschaften der Modeindustrie und warum es
   sich bei sogenanntem "Fakepelz" in den meisten Fällen um Echtpelz handelt.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9303"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus – Teil VIII
   
 ---

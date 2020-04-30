@@ -2,7 +2,7 @@
 title: Das Moccaklatsch in Bielefeld
 seoTitle: Das Moccaklatsch in Bielefeld - "Kann ich bitte einfach hierbleiben?"
 slug: das-moccaklatsch-in-bielefeld
-link: /2019/08/das-moccaklatsch-in-bielefeld/
+path: /2019/08/das-moccaklatsch-in-bielefeld/
 fileName: 2019-08---das-moccaklatsch-in-bielefeld.md
 description: Heute möchte ich Euch das Café Moccaklatsch in Bielefeld
   vorstellen. Es gibt dort jede Menge köstliche vegane Gerichte und tolles
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25442"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Kann ich bitte einfach hierbleiben?"'
   
 ---

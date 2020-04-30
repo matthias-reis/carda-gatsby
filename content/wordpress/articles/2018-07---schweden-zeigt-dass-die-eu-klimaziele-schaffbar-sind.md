@@ -2,7 +2,7 @@
 title: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 seoTitle: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 slug: schweden-klimaziele
-link: /2018/07/schweden-klimaziele/
+path: /2018/07/schweden-klimaziele/
 fileName: 2018-07---schweden-zeigt-dass-die-eu-klimaziele-schaffbar-sind.md
 description: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein
   nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21418"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 2018 statt 2030
   
 ---

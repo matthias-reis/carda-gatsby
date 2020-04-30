@@ -2,7 +2,7 @@
 title: Aufbau meines Blogs in Screenshots
 seoTitle: Der Aufbau meines Blogs in Screenshots - Jetzt wird's übersichtlich!
 slug: aufbau-meines-blogs-in-screenshots
-link: /2017/11/aufbau-meines-blogs-in-screenshots
+path: /2017/11/aufbau-meines-blogs-in-screenshots
 fileName: 2017-11---aufbau-meines-blogs-in-screenshots.md
 description: Eigentlicht bin ich ja schon ziemlich stolz auf meine Seite. Heute
   zeige ich Euch mal den genauen in Aufbau in Screenshots. Da ist einiges dabei.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18415"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Von A wie "Architektur" bis W wie "Webdesign"
   
 ---

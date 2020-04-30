@@ -2,7 +2,7 @@
 title: March Against Monsanto 2017
 seoTitle: March Against Monsanto 2017 - Hamburg geht gegen Konzerngiganten auf die Straße
 slug: march-against-monsanto-2017
-link: /2017/05/march-against-monsanto-2017/
+path: /2017/05/march-against-monsanto-2017/
 fileName: 2017-05---march-against-monsanto-2017.md
 description: Gestern fand weltweit wieder in vielen Städten der jährliche March
   Against Monsanto statt. Auch in Hamburg wurde demonstriert. Bei perfektem
@@ -50,7 +50,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16732"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Hamburg geht gegen Konzerngiganten auf die Straße
   
 ---

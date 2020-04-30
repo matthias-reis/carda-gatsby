@@ -2,7 +2,7 @@
 title: 1. Mai bei Planten un Blomen
 seoTitle: 1. Mai bei Planten un Blomen in Hamburg
 slug: 1-mai-bei-planten-un-blomen
-link: /2016/05/1-mai-bei-planten-un-blomen/
+path: /2016/05/1-mai-bei-planten-un-blomen/
 fileName: 2016-05---1-mai-bei-planten-un-blomen.md
 description: 1. Mai und schönes Wetter - Was könnte man da schöneres machen, als
   einen wundervollen Garten zu besuchen? Der Frühling zeigte sich in seiner
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14687"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Duft und Remidemi
   
 ---

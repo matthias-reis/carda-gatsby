@@ -2,7 +2,7 @@
 title: Pfaffenhofen an der Ilm
 seoTitle: Pfaffenhofen an der Ilm
 slug: pfaffenhofen-an-der-ilm
-link: /2009/07/pfaffenhofen-an-der-ilm/
+path: /2009/07/pfaffenhofen-an-der-ilm/
 fileName: 2009-07---pfaffenhofen-an-der-ilm.md
 description: Über die Gründung der Stadt Pfaffenhofen an der Ilm gibt es
   unterschiedliche Theorien.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11426"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kreisstadt in der Hallertau
   
 ---

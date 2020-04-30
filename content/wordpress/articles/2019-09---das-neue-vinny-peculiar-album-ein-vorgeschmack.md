@@ -2,7 +2,7 @@
 title: Das neue Vinny Peculiar Album - ein Vorgeschmack
 seoTitle: Das neue Vinny Peculiar Album - ein Vorgeschmack
 slug: das-neue-vinny-peculiar-album-ein-vorgeschmack
-link: /2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/
+path: /2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/
 fileName: 2019-09---das-neue-vinny-peculiar-album-ein-vorgeschmack.md
 description: Das neue Album von Vinny Peculiar erscheint am 28. Oktober. Ihr
   könnt jetzt hier im Blog schon mal reinhören - hier kommen die
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26171"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Pop Music For Ugly People" und "Vote For Me"'
   
 ---

@@ -2,7 +2,7 @@
 title: Boldking im Test
 seoTitle: Boldking im Test - Minimalistisch rasieren mit Recycling-Programm
 slug: boldking-im-test-minimalistisch-rasieren-mit-recycling-programm
-link: /2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/
+path: /2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/
 fileName: 2018-08---boldking-im-test.md
 description: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
   umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21838"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Minimalistisch rasieren mit Recycling-Programm
   
 ---

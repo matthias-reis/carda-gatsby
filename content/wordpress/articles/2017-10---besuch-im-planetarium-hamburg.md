@@ -2,7 +2,7 @@
 title: Besuch im Planetarium Hamburg
 seoTitle: Besuch im Planetarium Hamburg - Reich mir die Sterne!
 slug: "18187"
-link: /2017/10/18187/
+path: /2017/10/18187/
 fileName: 2017-10---besuch-im-planetarium-hamburg.md
 description: Ein Besuch im Planetarium Hamburg lohnt sich. Neben klassischen
   Vorstellungen gibt es dort auch jede Menge moderne 3D-Filme zu sehen.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18192"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Reich mir die Sterne!
   
 ---

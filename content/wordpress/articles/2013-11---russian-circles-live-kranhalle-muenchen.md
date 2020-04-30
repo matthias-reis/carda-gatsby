@@ -2,7 +2,7 @@
 title: Russian Circles live @Kranhalle München
 seoTitle: Russian Circles live @ Kranhalle München
 slug: russian-circles-live-kranhalle-munchen
-link: /2013/11/russian-circles-live-kranhalle-munchen/
+path: /2013/11/russian-circles-live-kranhalle-munchen/
 fileName: 2013-11---russian-circles-live-kranhalle-muenchen.md
 description: Einen perfekten Auftritt legten Russian Circles in München hin
 excerpt: Es war ein perfektes Konzert - mehr braucht man über das Russian
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7642"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein perfektes Konzert
   
 ---

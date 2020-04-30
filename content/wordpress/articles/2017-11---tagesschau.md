@@ -2,7 +2,7 @@
 title: Tagesschau
 seoTitle: Tagesschau - Die Welt in Worten - Heute, morgen, übermorgen
 slug: tagesschau-welt-in-worten
-link: /2017/11/tagesschau-welt-in-worten/
+path: /2017/11/tagesschau-welt-in-worten/
 fileName: 2017-11---tagesschau.md
 description: Tagesschau - Modernisierung bedeutet nicht gleichzeitig auch
   Demokratie. Verbundenheit durch Wut und Bedeutungslosigkeit. Zweieinhalb
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18329"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Welt in Worten
   
 ---

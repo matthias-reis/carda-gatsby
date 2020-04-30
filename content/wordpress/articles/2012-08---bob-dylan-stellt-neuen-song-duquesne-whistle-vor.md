@@ -2,7 +2,7 @@
 title: Bob Dylan stellt neuen Song "Duquesne Whistle" vor
 seoTitle: Bob Dylan stellt neuen Song vor
 slug: bob-dylan-stellt-neuen-song-duquesne-whistle-vor
-link: /2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/
+path: /2012/08/bob-dylan-stellt-neuen-song-duquesne-whistle-vor/
 fileName: 2012-08---bob-dylan-stellt-neuen-song-duquesne-whistle-vor.md
 description: Seit mehr als 50 Jahren ist Bob Dylan nun als Musiker unterwegs.
   Eine lange Zeit, in der er musikalisch die verschiedensten Stile durchlaufen
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4106"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Album "Tempest" im September
   
 ---

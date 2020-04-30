@@ -2,7 +2,7 @@
 title: Maritimer Radausflug an der Elbe
 seoTitle: Maritimer Radausflug an der Elbe - Der Sonntag ist gerettet
 slug: maritimer-radausflug
-link: /2016/08/maritimer-radausflug/
+path: /2016/08/maritimer-radausflug/
 fileName: 2016-08---maritimer-radausflug-an-der-elbe.md
 description: '"Mal wieder so ein maritimer Moment in Deinem Blog! Das wäre
   toll!" Solche Mails erreichen mich immer wieder. Heute möchte ich Euch Euren
@@ -22,8 +22,7 @@ isAffiliate: false
 thumbnailId: "15140"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (23:19)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (23:19)"
 subTitle: Hamburg mit dem Fahrrad
   
 ---

@@ -2,7 +2,7 @@
 title: Neues Album von Calexico
 seoTitle: Calexico - "Edge Of The Sun" ist da! - Rezension
 slug: calexico-edge-of-the-sun-ist-da
-link: /2015/04/calexico-edge-of-the-sun-ist-da/
+path: /2015/04/calexico-edge-of-the-sun-ist-da/
 fileName: 2015-04---neues-album-von-calexico.md
 description: Die neue Platte von Calexico "Edge Of The Sun" ist endlich da! Ich
   habe schon mal reingehört!
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11730"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Edge Of The Sun" ist da!'
   
 ---

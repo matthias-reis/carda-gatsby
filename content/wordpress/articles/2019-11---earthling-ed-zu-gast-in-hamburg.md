@@ -2,7 +2,7 @@
 title: Earthling Ed zu Gast in Hamburg
 seoTitle: Earthling Ed in Hamburg - "Es ist OK, ein*e wütende*r Veganer*in zu sein"
 slug: earthling-ed-zu-gast-in-hamburg
-link: /2019/11/earthling-ed-zu-gast-in-hamburg/
+path: /2019/11/earthling-ed-zu-gast-in-hamburg/
 fileName: 2019-11---earthling-ed-zu-gast-in-hamburg.md
 description: Am Samstag hatten Anonymous For the Voiceless den veganen
   Aktivisten Earthling Ed für einen Vortrag in einen Hamburger Coworking Space
@@ -38,8 +38,7 @@ isAffiliate: false
 thumbnailId: "26968"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (26:39)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (26:39)"
 subTitle: '"Es ist OK, ein*e wütende Veganer*in zu sein!"'
   
 ---

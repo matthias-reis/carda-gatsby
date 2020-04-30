@@ -2,7 +2,7 @@
 title: Die Post ist da!
 seoTitle: Die Post ist da!
 slug: die-post-ist-da-neue-schallplatten-in-meiner-sammlung
-link: /2013/06/die-post-ist-da-neue-schallplatten-in-meiner-sammlung/
+path: /2013/06/die-post-ist-da-neue-schallplatten-in-meiner-sammlung/
 fileName: 2013-06---die-post-ist-da.md
 description: ""
 excerpt: Bereits letzte Woche Mittwoch hatte der Schallplattenhändler meines
@@ -52,7 +52,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5560"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neue Schallplatten in meiner Sammlung
   
 ---

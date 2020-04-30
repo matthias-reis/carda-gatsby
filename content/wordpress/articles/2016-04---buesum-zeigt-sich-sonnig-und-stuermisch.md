@@ -2,7 +2,7 @@
 title: Büsum zeigt sich sonnig und stürmisch
 seoTitle: Büsum zeigt sich sonnig und stürmisch - Frühling an der Norsee
 slug: buesum-zeigt-sich-sonnig-und-stuermisch
-link: /2016/04/buesum-zeigt-sich-sonnig-und-stuermisch/
+path: /2016/04/buesum-zeigt-sich-sonnig-und-stuermisch/
 fileName: 2016-04---buesum-zeigt-sich-sonnig-und-stuermisch.md
 description: Büsum heißt auf Plattdeutsch "Büsen". Am 28. März haben wir das
   gemütliche Nordsee-Örtchen im Kreis Dithmarschen bei stürmisch-sonnigem Wetter
@@ -25,8 +25,7 @@ isAffiliate: false
 thumbnailId: "14366"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (24:12)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (24:12)"
 subTitle: Frühlingsausflug an die Nordsee
   
 ---

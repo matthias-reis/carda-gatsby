@@ -2,7 +2,7 @@
 title: Ein Fleet im Verlauf der Jahreszeiten
 seoTitle: Ein Fleet im Verlauf der Jahreszeiten - Die Bille in Hamburg
 slug: ein-fleet-im-verlauf-der-jahreszeiten
-link: /2018/02/ein-fleet-im-verlauf-der-jahreszeiten/
+path: /2018/02/ein-fleet-im-verlauf-der-jahreszeiten/
 fileName: 2018-02---ein-fleet-im-verlauf-der-jahreszeiten.md
 description: Als wir ganz frisch in Hamburg angekommen sind, haben wir eine
   Zeitlang in Hamm an der Bille gewohnt. Dort sind diese Jahreszeitenbilder
@@ -30,8 +30,7 @@ isAffiliate: false
 thumbnailId: "19896"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (23:8)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (23:8)"
 subTitle: Die Bille in Hamburg
   
 ---

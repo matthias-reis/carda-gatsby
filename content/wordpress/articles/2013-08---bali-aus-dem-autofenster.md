@@ -2,7 +2,7 @@
 title: Bali aus dem Autofenster
 seoTitle: Bali aus dem Autofenster
 slug: bali-aus-dem-autofenster
-link: /2013/08/bali-aus-dem-autofenster/
+path: /2013/08/bali-aus-dem-autofenster/
 fileName: 2013-08---bali-aus-dem-autofenster.md
 description: Heute geht es weiter mit den Bildern unserer Bali-Reise. Aus dem
   Fenster eines fahrenden Wagens ergibt sich eine interessante Fotoperspektive.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6263"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: "Unsere große Reise - Teil IV: Bali aus dem Autofenster"
   
 ---

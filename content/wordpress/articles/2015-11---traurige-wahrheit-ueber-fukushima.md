@@ -2,7 +2,7 @@
 title: Traurige Wahrheit über Fukushima
 seoTitle: Traurige Wahrheit über Fukushima - Kontamination nach wie vor stark
 slug: traurige-wahrheit-ueber-fukushima
-link: /2015/11/traurige-wahrheit-ueber-fukushima/
+path: /2015/11/traurige-wahrheit-ueber-fukushima/
 fileName: 2015-11---traurige-wahrheit-ueber-fukushima.md
 description: Wir alle erinnern uns mit Schrecken an den Supergau im
   Atomkraftwerk von Fukushima im März 2011. Noch heute ist die Landschaft vor
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28995"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kontamination nach wie vor dramatisch
   
 ---

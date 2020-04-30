@@ -2,7 +2,7 @@
 title: Pony Hütchen Gründerin Hendrike
 seoTitle: Pony Hütchen - Interview mit der Gründerin Hendrike
 slug: pony-huetchen-interview-mit-der-gruenderin-hendrike
-link: /2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/
+path: /2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/
 fileName: 2016-03---pony-huetchen-gruenderin-hendrike.md
 description: Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne
   schädliche Inhaltsstoffe. Ich habe mit jetzt mit der Gründerin Hendrike
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14284"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: „Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist!“
   
 ---

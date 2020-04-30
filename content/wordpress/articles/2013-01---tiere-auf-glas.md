@@ -2,7 +2,7 @@
 title: Tiere auf Glas
 seoTitle: Tiere auf Glas - Pfoten und Fell
 slug: tiere-auf-glas
-link: /2013/01/tiere-auf-glas/
+path: /2013/01/tiere-auf-glas/
 fileName: 2013-01---tiere-auf-glas.md
 description: "Zwei ganz besondere Tierfotos haben mich auf eine Idee gebracht:
   Wie sehen Tiere eigentlich von unten aus? Einfach über eine Glasplatte laufen
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4800"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Pfoten und Fell
   
 ---

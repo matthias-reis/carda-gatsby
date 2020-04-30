@@ -2,7 +2,7 @@
 title: Farben wirken
 seoTitle: Farben wirken - Was Rot und Grün im Gehirn auslösen
 slug: farben-wirken
-link: /2017/08/farben-wirken/
+path: /2017/08/farben-wirken/
 fileName: 2017-08---farben-wirken.md
 description: Heute möchte ich der Frage auf den Grund gehen, was Farben bei uns
   auslösen und was sie bewirken. Stimmt es, dass Grün glücklich macht?
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17625"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Was Rot und Grün im Gehirn auslösen
   
 ---

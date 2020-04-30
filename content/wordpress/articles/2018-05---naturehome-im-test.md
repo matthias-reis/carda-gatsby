@@ -2,7 +2,7 @@
 title: Naturehome im Test
 seoTitle: Beauty-Liebling - Rosenseife von Naturehome - Bio Damaszener Rosen
 slug: naturehome-rosenseife
-link: /2018/05/naturehome-rosenseife/
+path: /2018/05/naturehome-rosenseife/
 fileName: 2018-05---naturehome-im-test.md
 description: Habt Ihr auch solche Beauty-Lieblinge, an denen ihr Euch jeden Tag
   neu erfreuen könnt? Für mich ist die Rosenhandseife aus dem Hause Naturehome
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20585"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Rosenseife
   
 ---

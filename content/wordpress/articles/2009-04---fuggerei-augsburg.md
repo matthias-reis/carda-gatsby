@@ -2,7 +2,7 @@
 title: Fuggerei Augsburg
 seoTitle: Fuggerei Augsburg - Eine Sozialbausiedlung mit Geschichte
 slug: fuggerei-augsburg-eine-sozialbausiedlung-mit-geschichte
-link: /2009/04/fuggerei-augsburg-eine-sozialbausiedlung-mit-geschichte/
+path: /2009/04/fuggerei-augsburg-eine-sozialbausiedlung-mit-geschichte/
 fileName: 2009-04---fuggerei-augsburg.md
 description: 1521 wurde die Fuggerei von Jakob Fugger als Wohnsiedlung für
   Bedürftige gegründet. Die Miete für ein Haus beträgt dort auch heute noch 88
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11197"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Sozialbausiedlung mit Geschichte
   
 ---

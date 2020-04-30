@@ -2,7 +2,7 @@
 title: Bio-vegane Haselnüsse
 seoTitle: Bio-vegane Hasenüsse - Baumpatenschaft
 slug: haselnuesse-hof-windkind
-link: /2020/03/haselnuesse-hof-windkind/
+path: /2020/03/haselnuesse-hof-windkind/
 fileName: 2020-03---bio-vegane-haselnuesse.md
 description: Vor den Toren Berlins liegt der bio-vegane Hof Windkind. Seit
   kurzem kann man dort eine Patenschaft für einen Haselnussbaum übernehmen.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28558"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neues von Hof Windkind
   
 ---

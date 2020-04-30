@@ -2,7 +2,7 @@
 title: Big in Berlin
 seoTitle: Big in Berlin - "Wir sind viele und wir sind zu zweit"
 slug: big-in-berlin
-link: /2020/03/big-in-berlin/
+path: /2020/03/big-in-berlin/
 fileName: 2020-03---big-in-berlin.md
 description: Wie ihr vielleicht schon mitbekommen habt, waren wir bevor die
   Corona-Krise losging mal wieder in Berlin. Dort habe ich ein paar bunte Bilder
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28713"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Wir sind viele und wir sind zu zweit"'
   
 ---

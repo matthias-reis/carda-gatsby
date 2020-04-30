@@ -2,7 +2,7 @@
 title: Mein WoodShirt von wijld
 seoTitle: Mein WoodShirt von wijld im Test - Nachhaltige Mode aus Holz
 slug: wijld-woodshirt-mode-aus-holz
-link: /2018/04/wijld-woodshirt-mode-aus-holz/
+path: /2018/04/wijld-woodshirt-mode-aus-holz/
 fileName: 2018-04---mein-woodshirt-von-wijld.md
 description: Nachhaltige, faire in der EU produzierte Mode, die gut aussieht,
   atmungsaktiv ist und nicht zu teuer? Geht das? Ich habe wijld getestet.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20427"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nachhaltige Mode aus Holz
   
 ---

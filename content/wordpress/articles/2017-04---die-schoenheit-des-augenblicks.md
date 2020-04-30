@@ -2,7 +2,7 @@
 title: Die Schönheit des Augenblicks
 seoTitle: Die Schönheit des Augenblicks - Vergänglichkeit gehört dazu
 slug: vergaenglichkeit-des-augenblicks
-link: /2017/04/vergaenglichkeit-des-augenblicks/
+path: /2017/04/vergaenglichkeit-des-augenblicks/
 fileName: 2017-04---die-schoenheit-des-augenblicks.md
 description: Vergänglichkeit ist Schönheit - Schicht für Schicht stapelt sich
   hier das Leben. Auch Du wirst nicht mehr lange hier sein. Deine Tage sind
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16423"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vergänglichkeit gehört dazu
   
 ---

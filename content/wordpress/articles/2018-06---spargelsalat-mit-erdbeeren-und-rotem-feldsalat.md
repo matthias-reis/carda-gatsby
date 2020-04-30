@@ -2,7 +2,7 @@
 title: Spargelsalat mit Erdbeeren und rotem Feldsalat
 seoTitle: Spargelsalat mit Erdbeeren und rotem Feldsalat - Rezept für 2 Personen
 slug: spargelsalat-mit-erdbeeren
-link: /2018/06/spargelsalat-mit-erdbeeren/
+path: /2018/06/spargelsalat-mit-erdbeeren/
 fileName: 2018-06---spargelsalat-mit-erdbeeren-und-rotem-feldsalat.md
 description: Heute habe ich wieder ein ganz wunderbares Spargelrezept für Euch.
   Den Spargelsalat mit Erdbeeren könnt Ihr ganz leicht selbst zubereiten.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21155"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept für zwei Personen
   
 ---

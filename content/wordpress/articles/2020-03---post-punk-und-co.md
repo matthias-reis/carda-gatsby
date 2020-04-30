@@ -2,7 +2,7 @@
 title: Post-Punk & Co.
 seoTitle: Post-Punk und Co. - Playlist von Joy Division bis Idles
 slug: post-punk
-link: /2020/03/post-punk/
+path: /2020/03/post-punk/
 fileName: 2020-03---post-punk-und-co.md
 description: Habt Ihr Lust auf ein bisschen Post-Punk, No-Wave und New-Wave? Ich
   habe eine umfangreiche Playlist zusammengestellt, die keine Wünsche offen
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28515"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Von Joy Division bis Idles
   
 ---

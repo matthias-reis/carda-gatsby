@@ -2,7 +2,7 @@
 title: Radio Rock Revolution
 seoTitle: Radio Rock Revolution - Radio Paradise aus Kalifornien sorgt für Furore
 slug: radio-paradise
-link: /2018/01/radio-paradise/
+path: /2018/01/radio-paradise/
 fileName: 2018-01---radio-rock-revolution.md
 description: "Ich rege mich ja gerne mal übers Radio auf. Doch nörgeln kann
   jeder. Heute möchte ich Euch mal einen ganz besonderen Radiosender empfehlen:
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18942"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Internet-Radiosender zeigt, wie Musik geht
   
 ---

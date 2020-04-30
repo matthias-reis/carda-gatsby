@@ -2,7 +2,7 @@
 title: Heimweggedanken
 seoTitle: Heimweggedanken - "Ihr könnt mich mal", sagte der Igel
 slug: heimweggedanken
-link: /2011/09/heimweggedanken/
+path: /2011/09/heimweggedanken/
 fileName: 2011-09---heimweggedanken.md
 description: Männer, die durch ihre defensive Fahrweise positiv auffallen,
   Wolkenbilder und Lynch im Fernsehen - ein kurzer Tagebucheintrag
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2638"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Ihr könnt mich mal!", sagte der Igel und drehte sich um.'
   
 ---

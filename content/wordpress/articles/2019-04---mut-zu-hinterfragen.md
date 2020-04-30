@@ -2,7 +2,7 @@
 title: Mut zu hinterfragen
 seoTitle: Mut zu hinterfragen - ein Gedicht über eine Löwin und ihre Jungen
 slug: mut-zu-hinterfragen
-link: /2019/04/mut-zu-hinterfragen/
+path: /2019/04/mut-zu-hinterfragen/
 fileName: 2019-04---mut-zu-hinterfragen.md
 description: Mut zu hinterfragen - darauf kommt es an. Von der essentiellen
   Wichtigkeit, nicht alles als gegeben hinzunehmen und weiterzumachen.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23909"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gedicht über eine Löwin und ihre Jungen - oder?
   
 ---

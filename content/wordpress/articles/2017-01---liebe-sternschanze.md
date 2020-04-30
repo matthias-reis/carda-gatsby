@@ -2,7 +2,7 @@
 title: Liebe Sternschanze
 seoTitle: Liebe Sternschanze - Gedicht für einen Hamburger Stadtteil
 slug: liebe-sternschanze
-link: /2017/01/liebe-sternschanze/
+path: /2017/01/liebe-sternschanze/
 fileName: 2017-01---liebe-sternschanze.md
 description: Meine Flarf-Gedichte kennt Ihr nun ja schon. Auch um Hamburg ging
   es darin schon. Heute ist es an der Zeit, mal etwas über die Sternschanze zu
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15688"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gedicht für einen Stadtteil
   
 ---

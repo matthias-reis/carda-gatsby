@@ -2,7 +2,7 @@
 title: Panoptikum Hamburg
 seoTitle: Das Panoptikum - Deutschlands ältestes Wachsfigurenkabinett
 slug: wachsfiguren-in-hamburg
-link: /2016/01/wachsfiguren-in-hamburg/
+path: /2016/01/wachsfiguren-in-hamburg/
 fileName: 2016-01---panoptikum-hamburg.md
 description: Seit über 130 Jahren gibt es in Hamburg das Panoptikum - In
   Deutschlands ältestem Wachsfigurenkabinett habe ich unter anderem die Beatles
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13709"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Deutschlands ältestes Wachsfigurenkabinett
   
 ---

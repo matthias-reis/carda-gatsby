@@ -2,7 +2,7 @@
 title: Sandizell
 seoTitle: Sandizell - Wasserschloss in Altbayern
 slug: sandizell
-link: /2009/07/sandizell/
+path: /2009/07/sandizell/
 fileName: 2009-07---sandizell.md
 description: Sandizell wurde urkundlich erstmals 916 als Wirtschaftshof der
   Benediktinerinnen aus Neuburg an der Donau erwähnt.
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11392"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wasserschloss in Altbayern
   
 ---

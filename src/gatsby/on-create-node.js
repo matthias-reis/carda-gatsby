@@ -15,7 +15,7 @@ module.exports = ({ node, actions, getNode }) => {
     if (type === 'article' || type === 'wordpress') {
       const date = value.split('---')[0];
       const [year, month] = date.split('-');
-      path = `/${year}/${month}/${slug}`;
+      path = node.frontmatter.path || `/${year}/${month}/${slug}/`;
       const labels = [
         ...node.frontmatter.labels,
         `${year}`,

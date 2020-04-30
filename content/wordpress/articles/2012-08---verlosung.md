@@ -2,7 +2,7 @@
 title: Verlosung
 seoTitle: Verlosung! Exklusives Vinyl zu gewinnen!
 slug: verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen
-link: /2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/
+path: /2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/
 fileName: 2012-08---verlosung.md
 description: Heute gibt es auf meiner Seite eine ganz besondere Verlosung und es
   gibt tolle Platten zu gewinnen!
@@ -82,7 +82,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3997"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
   
 ---

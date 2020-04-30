@@ -2,7 +2,7 @@
 title: All That Glitter And All That Glitter
 seoTitle: All That Glitter And All That Glitter - Veganer Bio-Glitter von Naissance
 slug: veganer-bio-glitter-naissance
-link: /2018/08/veganer-bio-glitter-naissance/
+path: /2018/08/veganer-bio-glitter-naissance/
 fileName: 2018-08---all-that-glitter-and-all-that-glitter.md
 description: Glitter ist toll! Glitter macht alles schöner und nicht nur
   Einhörner glücklich. Ich habe jetzt die biologisch abbaubare Variante
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21688"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganer Bio-Glitter von Naissance im Test
   
 ---

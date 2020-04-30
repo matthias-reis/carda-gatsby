@@ -2,7 +2,7 @@
 title: Blind Pilot live @Muffathalle München 29.11.2012
 seoTitle: Blind Pilot live @ Muffathalle
 slug: blind-pilot-live-muffathalle-munchen-29-11-2012
-link: /2012/11/blind-pilot-live-muffathalle-munchen-29-11-2012/
+path: /2012/11/blind-pilot-live-muffathalle-munchen-29-11-2012/
 fileName: 2012-11---blind-pilot-live-muffathalle-muenchen-29-11-2012.md
 description: "Eine tolle Überraschung: Blind Pilot als Vorband von Calexico! Ich
   liebe die Band und meine Erwartungen wurden bei weitem übertroffen..."
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4487"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Konzert mit Calexico
   
 ---

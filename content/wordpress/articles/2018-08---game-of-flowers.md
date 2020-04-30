@@ -2,7 +2,7 @@
 title: Game Of Flowers
 seoTitle: Game Of Flowers - Blumen und Schwerter an der Trelleborg
 slug: trelleborg
-link: /2018/08/trelleborg/
+path: /2018/08/trelleborg/
 fileName: 2018-08---game-of-flowers.md
 description: Bei unserem Besuch der Schwedischen Trelleborg im Juni war das
   komplette Gelände von blühenden Wildblumen übersät. Zeit für Fotos und etwas
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: "21584"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (22:57)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:57)"
 subTitle: Blumen und Schwerter an der Trelleborg
   
 ---

@@ -2,7 +2,7 @@
 title: Happybrush im Test
 seoTitle: happybrush - Der ultimative Produkttest - Meine neue Schallzahnbürste
 slug: happybrush-der-ultimative-produkttest
-link: /2017/08/happybrush-der-ultimative-produkttest/
+path: /2017/08/happybrush-der-ultimative-produkttest/
 fileName: 2017-08---happybrush-im-test.md
 description: Heute möchte ich mit Euch meine Erfahrungen mit der happybrush
   teilen. Bilder vom Unboxing sowie einen umfassenden Testbericht gibt es
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17484"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schallzahnbürste unter der Lupe
   
 ---

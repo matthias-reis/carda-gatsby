@@ -2,7 +2,7 @@
 title: DIY Lippenpflege
 seoTitle: DIY Lippenpflege - Peeling aus Kokosöl und Rohrzucker
 slug: diy-lippenpflege
-link: /2015/10/diy-lippenpflege/
+path: /2015/10/diy-lippenpflege/
 fileName: 2015-10---diy-lippenpflege.md
 description: "Heute verrate ich Euch ein echtes Beautygeheimnis: Meine DIY
   Lippenpflege aus Kokosöl und Rohrzucker wirkt bei spröden Lippen einfach
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12977"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Peeling aus Kokosöl und Rohrzucker
   
 ---

@@ -2,7 +2,7 @@
 title: 50 Jahre Earth Day
 seoTitle: 50 Jahre Earth Day am 22. April 2020 - Stadtnatur
 slug: 50-jahre-earth-day
-link: /2020/04/50-jahre-earth-day/
+path: /2020/04/50-jahre-earth-day/
 fileName: 2020-04---50-jahre-earth-day.md
 description: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr
   findet der Aktionstag unter dem Motto "Stadtnatur" statt.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29232"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Stadtnatur
   
 ---

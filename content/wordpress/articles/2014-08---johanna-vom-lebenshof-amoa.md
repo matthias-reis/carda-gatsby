@@ -2,7 +2,7 @@
 title: Johanna vom Lebenshof Amoa
 seoTitle: Lebenshof und Zuhause - AMOA - Interview mit einer Tierschützerin
 slug: amoa-lebenshof-und-zuhause
-link: /2014/08/amoa-lebenshof-und-zuhause/
+path: /2014/08/amoa-lebenshof-und-zuhause/
 fileName: 2014-08---johanna-vom-lebenshof-amoa.md
 description: AMOA ist ein Lebenshof für Tiere und das Zuhause von Johanna und
   ihrer Familie. Ich habe mich mit der fröhlichen Buddhistin unterhalten - Ein
@@ -43,7 +43,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8386"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Der Schutz und die Rechte der Tiere stehen an erster Stelle"'
   
 ---

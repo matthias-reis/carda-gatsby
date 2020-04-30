@@ -2,7 +2,7 @@
 title: Wellness für die Hände
 seoTitle: Handcreme von Santaverde - Wellness für die Hände
 slug: wellness-fuer-die-haende
-link: /2020/04/wellness-fuer-die-haende
+path: /2020/04/wellness-fuer-die-haende
 fileName: 2020-04---wellness-fuer-die-haende.md
 description: Häufiges Händewaschen schützt nicht nur vor Corona. Leider leidet
   die Haut unter dieser Praktik. Ich habe jetzt die Handcreme von Santaverde
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28877"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Handcreme von Santaverde
   
 ---

@@ -2,7 +2,7 @@
 title: Mein Jahresrückblick
 seoTitle: Mein Jahresrückblick 2013 - Anne bloggt cardamonchai
 slug: mein-jahresruckblick-2013
-link: /2014/01/mein-jahresruckblick-2013/
+path: /2014/01/mein-jahresruckblick-2013/
 fileName: 2014-01---mein-jahresrueckblick.md
 description: Mein Jahresrückblick 2013 ist fertig - Ihr Lieben, ich hoffe, Ihr
   seid alle gut im neuen Jahr angekommen. Heute habe ich meinen Jahresrückblick
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10310"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das war 2013
   
 ---

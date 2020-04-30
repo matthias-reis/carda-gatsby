@@ -2,7 +2,7 @@
 title: Bunte Insel Irland
 seoTitle: Bunte Insel Irland - Farbenfrohe Details in Kilkenny
 slug: kilkenny-bunte-insel-irland
-link: /2017/11/kilkenny-bunte-insel-irland/
+path: /2017/11/kilkenny-bunte-insel-irland/
 fileName: 2017-11---bunte-insel-irland.md
 description: Ich liebe farbenfrohe Details. Diese bunten Schnappschüsse sind mir
   in der schönen Irischen Stadt Kilkenny gelungen. Die machen Lust auf mehr,
@@ -27,8 +27,7 @@ isAffiliate: false
 thumbnailId: "18304"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (20:30)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (20:30)"
 subTitle: Farbenfrohe Details in Kilkenny
   
 ---

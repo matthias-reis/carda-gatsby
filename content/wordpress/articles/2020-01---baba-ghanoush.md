@@ -2,7 +2,7 @@
 title: Baba Ghanoush
 seoTitle: Baba Ghanoush - veganes Rezept für eine große Schale
 slug: baba-ghanoush
-link: /2020/01/baba-ghanoush/
+path: /2020/01/baba-ghanoush/
 fileName: 2020-01---baba-ghanoush.md
 description: Heute möchte ich Euch eines meiner absoluten Lieblingsrezepte
   verraten. Das vegane Auberginen- Püree Baba Ghanoush stammt aus der arabischen
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27402"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganes Auberginen-Püree
   
 ---

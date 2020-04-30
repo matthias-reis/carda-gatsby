@@ -2,7 +2,7 @@
 title: Ba­na­nen­waf­feln
 seoTitle: Ba­na­nen­waf­feln
 slug: bananenwaffeln
-link: /2015/03/bananenwaffeln/
+path: /2015/03/bananenwaffeln/
 fileName: 2015-03---ba-na-nen-waf-feln.md
 description: "Ein veganer Alltime-Favorite zum Frühstück: Bananenwaffeln"
 excerpt: Ein absoluter Frühstücks-Alltime-Favorite von mir sind Waffeln. Waffeln
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10299"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mit Zimtzucker und warmen Erdbeeren
   
 ---

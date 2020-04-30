@@ -2,7 +2,7 @@
 title: Welt Vegan Magazin Ausgabe 1/2016
 seoTitle: Welt Vegan Magazin - Die Ausgabe 1/2016 ist da!
 slug: welt-vegan-magazin-die-ausgabe-12016-ist-da
-link: /2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/
+path: /2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/
 fileName: 2016-03---welt-vegan-magazin-ausgabe-1-2016.md
 description: Das neue Welt Vegan Magazin ist da - Ihr findet es ab sofort im
   Kiosk Eures Vertrauens. Auch ich habe wieder zwei Artikel dazu beigetragen.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14139"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zwei Artikel sind von mir
   
 ---

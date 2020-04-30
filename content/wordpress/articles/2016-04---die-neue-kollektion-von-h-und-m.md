@@ -2,7 +2,7 @@
 title: Die neue Kollektion von H&M
 seoTitle: Leder und Seide unter dem Label "Conscious" bei H&M
 slug: die-neue-kollektion-von-hm
-link: /2016/04/die-neue-kollektion-von-hm/
+path: /2016/04/die-neue-kollektion-von-hm/
 fileName: 2016-04---die-neue-kollektion-von-h-und-m.md
 description: H&M möchte Mode nachhaltiger und Nachhaltigkeit modischer machen.
   Allerdings kommen dabei Produkte tierischen Ursprungs zum Einsatz.
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28954"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Leder und Seide unter dem Label "Conscious"
   
 ---

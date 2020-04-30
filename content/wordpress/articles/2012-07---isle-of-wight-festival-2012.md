@@ -2,7 +2,7 @@
 title: Isle Of Wight Festival 2012
 seoTitle: Isle Of Wight Festival - Meine Eindrücke - Bildergalerie
 slug: isle-of-wight-festival-2012
-link: /2012/07/isle-of-wight-festival-2012/
+path: /2012/07/isle-of-wight-festival-2012/
 fileName: 2012-07---isle-of-wight-festival-2012.md
 description: Heute möchte ich meine Eindrücke vom Isle Of Wight Festival mit
   Euch teilen. Ich wünsche Euch viel Spaß mit der Bildergalerie.
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3427"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 4/9
   
 ---

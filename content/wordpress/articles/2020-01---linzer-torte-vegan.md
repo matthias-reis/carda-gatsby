@@ -2,7 +2,7 @@
 title: Linzer Torte vegan
 seoTitle: Linzer Torte vegan - Lieblingskuchen der Familie - Rezept
 slug: linzer-torte-vegan
-link: /2020/01/linzer-torte-vegan/
+path: /2020/01/linzer-torte-vegan/
 fileName: 2020-01---linzer-torte-vegan.md
 description: Wenn bei uns die ganze Familie zusammenkommt, backt meine Mutter
   ein vegane Linzer Torte - ein ganz wunderbarer Kuchen. Ich verrate Euch das
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27315"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Lieblingskuchen der Familie
   
 ---

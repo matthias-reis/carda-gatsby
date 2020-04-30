@@ -2,7 +2,7 @@
 title: Zwischenstopp in Skåne
 seoTitle: Zwischenstop in Skåne - Glitzernde Ostsee am weißen Strand
 slug: zwischenstopp-in-skane
-link: /2018/07/zwischenstopp-in-skane/
+path: /2018/07/zwischenstopp-in-skane/
 fileName: 2018-07---zwischenstopp-in-sk-ne.md
 description: Nach unserer Anreise über Dänemark hatten wir am 20. Juni einen
   wundervollen entspannten Tag am Strand in der Schwedischen Provinz Skåne.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21475"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Glitzernde Ostsee am weißen Strand
   
 ---

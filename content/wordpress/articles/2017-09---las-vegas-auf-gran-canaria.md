@@ -2,7 +2,7 @@
 title: Las Vegas auf Gran Canaria
 seoTitle: Las Vegas auf Gran Canaria - Bananen, Papayas und Esel
 slug: bananen-papayas-und-esel-las-vegas-auf-gran-canaria
-link: /2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/
+path: /2017/09/bananen-papayas-und-esel-las-vegas-auf-gran-canaria/
 fileName: 2017-09---las-vegas-auf-gran-canaria.md
 description: Las Vegas auf Gran Canaria ist keine Spielerstadt, sondern eine
   Finka, auf der man nicht nur leckere Bananen probieren kann. Wir haben sie
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17934"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bananen, Papayas und Esel
   
 ---

@@ -2,7 +2,7 @@
 title: "Ausgepackt: Kokku Veganshop"
 seoTitle: "Ausgepackt: Kokku Veganshop - Vegane Leckerein frei Haus"
 slug: kokku-veganshop
-link: /2018/01/kokku-veganshop/
+path: /2018/01/kokku-veganshop/
 fileName: 2018-01---ausgepackt-kokku-veganshop.md
 description: Was gibt es Tolleres, als leckere Sachen zu probieren, die man noch
   nicht kennt? Ich habe mich über mein Testpaket von Kokku wie verrückt gefreut.
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18964"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Leckereien frei Haus
   
 ---

@@ -2,7 +2,7 @@
 title: Abschalten
 seoTitle: Abschalten - Tagebucheintrag
 slug: abschalten
-link: /2011/06/abschalten/
+path: /2011/06/abschalten/
 fileName: 2011-06---abschalten.md
 description: Ein Stück Rollrasen auf dem Asphalt. Du denkst Dir eine Stunde lang
   "Schnäuzen soll helfen", aber Du sagst es ihm nicht. Das Amt will eine
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2075"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

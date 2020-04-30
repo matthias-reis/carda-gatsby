@@ -2,7 +2,7 @@
 title: Locker-flockige Blumenkohl-Bowl
 seoTitle: Locker-flockige Blumenkohl-Bowl - Frisch, köstlich und vegan
 slug: locker-flockige-blumenkohl-bowl
-link: /2018/04/locker-flockige-blumenkohl-bowl/
+path: /2018/04/locker-flockige-blumenkohl-bowl/
 fileName: 2018-04---locker-flockige-blumenkohl-bowl.md
 description: Blumenkohl gefällig? In einer schmackhaften Bowl? Es wird sowieso
   mal wieder Zeit für ein schmackhaftes Rezept, oder? Viel Spaß beim Kochen!
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20445"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Frisch, köstlich und vegan
   
 ---

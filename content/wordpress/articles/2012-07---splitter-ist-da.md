@@ -2,7 +2,7 @@
 title: '"Splitter" ist da'
 seoTitle: Calexico stellen neue Single "Splitter" vor - Rezension
 slug: calexico-stellen-neue-singe-splitter-vor
-link: /2012/07/calexico-stellen-neue-singe-splitter-vor/
+path: /2012/07/calexico-stellen-neue-singe-splitter-vor/
 fileName: 2012-07---splitter-ist-da.md
 description: Calexico haben gestern die zweite Auskopplung Ihres neuen Albums
   "Algiers" vorgestellt, das im September auf den Markt kommt.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11067"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neue Single von Calexico
   
 ---

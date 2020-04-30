@@ -2,7 +2,7 @@
 title: Nebengeräusche
 seoTitle: Nebengeräusche - Menschen in der Bahn - Prosa auf dem Heimweg
 slug: nebengerausche
-link: /2012/08/nebengerausche/
+path: /2012/08/nebengerausche/
 fileName: 2012-08---nebengeraeusche.md
 description: Regentropfen an der Scheibe. Ein Falter hängt in einem Spinnennetz
   kopfunter an der Decke. Menschen reden. Lesen. Streiten. Nebengeräusche aus
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3752"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Prosa des Alltags
   
 ---

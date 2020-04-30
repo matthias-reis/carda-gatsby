@@ -2,7 +2,7 @@
 title: Die Kartenmacherei im Test
 seoTitle: "Ich habe die Kartenmacherei getestet - Erstes Weihnachtsgeschenk: Done!"
 slug: kartenmacherei
-link: /2017/11/kartenmacherei/
+path: /2017/11/kartenmacherei/
 fileName: 2017-11---die-kartenmacherei-im-test.md
 description: Ich habe jetzt die Kartenmacherei getestet. Weil ich zu Weihnachten
   schon immer gerne selbstgemachte Dinge verschenkt habe. Vor allem natürlich
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18588"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Weihnachtsgeschenk Nummer 1
   
 ---

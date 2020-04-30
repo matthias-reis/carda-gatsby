@@ -2,7 +2,7 @@
 title: Badetag
 seoTitle: Badetag - Tagebucheintrag
 slug: badetag
-link: /2011/06/badetag/
+path: /2011/06/badetag/
 fileName: 2011-06---badetag.md
 description: Leckeres selbst gekochtes Essen, Heu im Haar, Konservengeigen,
   Hundegebell und 0:0 in der 54 Minute. Wir haben Spaß am Leben.
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2058"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

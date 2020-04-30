@@ -2,7 +2,7 @@
 title: Hamburg Harley Days 2016
 seoTitle: Hamburg Harley Days 2016 - Bildergalerie
 slug: hamburg-harley-days-2016
-link: /2016/07/hamburg-harley-days-2016/
+path: /2016/07/hamburg-harley-days-2016/
 fileName: 2016-07---hamburg-harley-days-2016.md
 description: Vor Kurzem fanden hier in Hamburg wieder die Harley Days statt und
   ich habe natürlich wieder jede Menge Aufnahmen gemacht.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14987"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Biker rocken die Reeperbahn
   
 ---

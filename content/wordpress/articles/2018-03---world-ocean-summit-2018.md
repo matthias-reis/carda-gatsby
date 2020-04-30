@@ -2,7 +2,7 @@
 title: World Ocean Summit 2018
 seoTitle: World Ocean Summit 2018 - Aufruf zur Säuberung der Meere
 slug: world-ocean-summit-2018
-link: /2018/03/world-ocean-summit-2018/
+path: /2018/03/world-ocean-summit-2018/
 fileName: 2018-03---world-ocean-summit-2018.md
 description: Neuer Dokumentarfilm zeigt, wie der Kampf gegen Plastik die Gemüter
   erhitzt - In Mexico trafen sich Aktivisten und Politiker zur World Ocean
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20136"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aufruf zur Säuberung der Meere
   
 ---

@@ -2,7 +2,7 @@
 title: Piraten, Dauerregen und Netzfundstücke
 seoTitle: Piraten, Dauerregen und Netzfundstücke - Tagebucheintrag
 slug: kalte-piraten-und-ein-netzfundstuck
-link: /2011/09/kalte-piraten-und-ein-netzfundstuck/
+path: /2011/09/kalte-piraten-und-ein-netzfundstuck/
 fileName: 2011-09---piraten-dauerregen-und-netzfundstuecke.md
 description: Heute ist internationaler "Talk Like A Pirate Day" - Zeit, über das
   Wahlergebnis zu reden. Und für einen sehr persönlichen Tagebucheintrag.
@@ -50,7 +50,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11621"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

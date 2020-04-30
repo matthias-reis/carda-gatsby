@@ -2,7 +2,7 @@
 title: Wie funktioniert ein Insektenhotel?
 seoTitle: So funktioniert ein Insektenhotel - Bienen auf dem Balkon
 slug: insektenhotel-bienen-auf-dem-balkon
-link: /2019/05/insektenhotel-bienen-auf-dem-balkon/
+path: /2019/05/insektenhotel-bienen-auf-dem-balkon/
 fileName: 2019-05---wie-funktioniert-ein-insektenhotel.md
 description: Insektenhotels sieht man inzwischen überall. Man kann sie fertig
   kaufen oder selbst bauen. Bienenschutz setzt sich langsam durch und das ist
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24056"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bienen auf dem Balkon
   
 ---

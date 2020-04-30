@@ -2,7 +2,7 @@
 title: Kathrin Eva Schmid vom Tierschutztheater im Interview
 seoTitle: Kathrin Eva Schmidt vom Tierschutztheater im Interview
 slug: kathrin-eva-schmid-vom-tierschutztheater-im-interview
-link: /2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/
+path: /2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/
 fileName: 2019-09---kathrin-eva-schmid-vom-tierschutztheater-im-interview.md
 description: Das Tierschutztheater ist ein Zusammenschluss aus Menschen, die
   gerne Theater spielen und sich für die Rechte der Tiere einsetzen wollen.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25898"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Ensemble für den Tierschutz
   
 ---

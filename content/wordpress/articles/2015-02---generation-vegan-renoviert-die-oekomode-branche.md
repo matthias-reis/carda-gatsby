@@ -2,7 +2,7 @@
 title: Generation Vegan renoviert die Ökomode-Branche
 seoTitle: Generation Vegan renoviert die Modebranche - vegane Mode gesucht!
 slug: generation-vegan-renoviert-die-oekomode-branche
-link: /2015/02/generation-vegan-renoviert-die-oekomode-branche/
+path: /2015/02/generation-vegan-renoviert-die-oekomode-branche/
 fileName: 2015-02---generation-vegan-renoviert-die-oekomode-branche.md
 description: Ökomode gibt es schon ziemlich lange. Leider kommen hier immernoch
   Materialien wie Leder, Wolle und Daunen zum Einsatz - vegane Mode braucht das
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25606"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Mode braucht das Land
   
 ---

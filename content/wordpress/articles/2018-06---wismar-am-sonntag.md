@@ -2,7 +2,7 @@
 title: Wismar am Sonntag
 seoTitle: Wismar am Sonntag - Stadtbesichtigung mit Hafenfest
 slug: wismar-am-sonntag
-link: /2018/06/wismar-am-sonntag/
+path: /2018/06/wismar-am-sonntag/
 fileName: 2018-06---wismar-am-sonntag.md
 description: Was mir in Wismar gleich als allererstes auffällt sind die Rosen.
   Sie wachsen überall an den Häuserwänden und blühen im schönen Rot und Pink.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21262"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Stadtbesichtigung mit Hafenfest
   
 ---

@@ -2,7 +2,7 @@
 title: Marwood Hill Gardens
 seoTitle: Marwood Hill Gardens - Verwunschene Hortensienhaine
 slug: marwood-hill-gardens
-link: /2020/02/marwood-hill-gardens/
+path: /2020/02/marwood-hill-gardens/
 fileName: 2020-02---marwood-hill-gardens.md
 description: In einem Tal im Norden von Devon liegt der zauberhafte Garten von
   Marwood Hill. Er ist ein echter Geheimtipp und auf jeden Fall einen Besuch
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27912"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Verwunschene Hortensienhaine
   
 ---

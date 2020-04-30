@@ -2,7 +2,7 @@
 title: Der Kater und der Leuchtturm
 seoTitle: Der Kater und der Leuchtturm - Erinnerungen an den Sommer in England
 slug: der-kater-und-der-leuchtturm
-link: /2012/07/der-kater-und-der-leuchtturm/
+path: /2012/07/der-kater-und-der-leuchtturm/
 fileName: 2012-07---der-kater-und-der-leuchtturm.md
 description: Teil 1/9 Impressionen aus Mevagissey, Cornwall 6/12 - Ein Kater,
   ein Leuchtturm und ein paar schöne Requisiten in der Sonne
@@ -43,7 +43,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3870"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 2/9
   
 ---

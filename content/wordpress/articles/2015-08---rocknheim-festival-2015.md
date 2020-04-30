@@ -2,7 +2,7 @@
 title: Rock'n'Heim Festival 2015
 seoTitle: Rock'n'Heim 2015 - Wir haben den Hockenheim gerockt
 slug: rocknheim-festival-2015
-link: /2015/08/rocknheim-festival-2015/
+path: /2015/08/rocknheim-festival-2015/
 fileName: 2015-08---rocknheim-festival-2015.md
 description: Wie schon kurz berichtet, habe ich vor kurzem bei einem Gewinnspiel
   Tickets für das Rock'n'Heim 2015 gewonnen. Ein actionreiches Wochenende liegt
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12391"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wir haben den Hockenheimring gerockt
   
 ---

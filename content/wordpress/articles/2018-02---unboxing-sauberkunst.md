@@ -2,7 +2,7 @@
 title: Unboxing Sauberkunst
 seoTitle: Unboxing Sauberkunst - Handgefertigte vegane Kosmetik mit Zauberduft
 slug: unboxing-sauberkunst
-link: /2018/02/unboxing-sauberkunst/
+path: /2018/02/unboxing-sauberkunst/
 fileName: 2018-02---unboxing-sauberkunst.md
 description: Sauberkunst ist eine vegane Seifenmanufaktur mit Sitz in Berlin.
   Die Naturseifen und Kosmetikprodukte betören die Nase und sind gut für Haut
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19309"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Handgefertigte vegane Kosmetik mit Zauberduft
   
 ---

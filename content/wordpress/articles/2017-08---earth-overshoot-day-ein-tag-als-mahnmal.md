@@ -2,7 +2,7 @@
 title: Earth Overshoot Day - Ein Tag als Mahnmal
 seoTitle: Earth Overshoot Day - Ein Tag als Mahnmal - Wir beuten unsere Erde aus
 slug: earth-overshoot-day-ein-tag-als-mahnmal
-link: /2017/08/earth-overshoot-day-ein-tag-als-mahnmal/
+path: /2017/08/earth-overshoot-day-ein-tag-als-mahnmal/
 fileName: 2017-08---earth-overshoot-day-ein-tag-als-mahnmal.md
 description: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten
   nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17278"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wir beuten unsere Erde aus
   
 ---

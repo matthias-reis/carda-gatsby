@@ -2,7 +2,7 @@
 title: Das Herz des Leuchtturms
 seoTitle: Das Herz des Leuchtturms - Lieber Besuch in Hamburg - Gedicht
 slug: lieber-besuch-in-hamburg
-link: /2018/01/lieber-besuch-in-hamburg/
+path: /2018/01/lieber-besuch-in-hamburg/
 fileName: 2018-01---das-herz-des-leuchtturms.md
 description: Neulich hatten wir lieben Besuch bei uns in Hamburg. Gemeinsam
   haben wir das Herz der Stadt erkundet. Das hat mich zu einem neuen Gedicht
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19034"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Lieber Besuch in Hamburg
   
 ---

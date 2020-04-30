@@ -2,7 +2,7 @@
 title: Grüner Tee in hohen Dosen
 seoTitle: tigovit - Grüner Tee in hohen Dosen - Hier ist mein Testbericht
 slug: tigovit-gruener-tee-in-hohen-dosen
-link: /2017/02/tigovit-gruener-tee-in-hohen-dosen/
+path: /2017/02/tigovit-gruener-tee-in-hohen-dosen/
 fileName: 2017-02---gruener-tee-in-hohen-dosen.md
 description: tigovit enthält Stoffe aus Grünem Tee, die für ihre positive
   Wirkung auf die Gesundheit bekannt sind, in besonders hoher Dosierung. Ich die
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15752"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mein Testbericht
   
 ---

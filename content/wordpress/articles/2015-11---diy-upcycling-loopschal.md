@@ -2,7 +2,7 @@
 title: DIY Upcycling Loopschal
 seoTitle: DIY Upcycling Loopschal
 slug: diy-upcycling-loopschal
-link: /2015/11/diy-upcycling-loopschal/
+path: /2015/11/diy-upcycling-loopschal/
 fileName: 2015-11---diy-upcycling-loopschal.md
 description: Wie Ihr im Handumdrehen aus einer alten Strickjacke einen trendy
   Loopschal machen könnt, zeige ich Euch heute in meiner Nähanleitung.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13096"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kuschelig und angesagt
   
 ---

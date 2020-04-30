@@ -2,7 +2,7 @@
 title: Yoga mit dem Feetup Trainer
 seoTitle: Yoga mit dem Feetup Trainer - mein Perspektivwechsel
 slug: yoga-mit-dem-feetup-trainer
-link: /2020/02/yoga-mit-dem-feetup-trainer/
+path: /2020/02/yoga-mit-dem-feetup-trainer/
 fileName: 2020-02---yoga-mit-dem-feetup-trainer.md
 description: Mit dem Feetup Trainer praktiziere ich seit Kurzem beim Yoga einige
   für mich völlig neue Asanas. Vertraute Übungen wie der Sonnengruß wurden
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27428"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mein Perspektivwechsel
   
 ---

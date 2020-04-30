@@ -2,7 +2,7 @@
 title: Rote Tinte
 seoTitle: Rote Tinte
 slug: rote-tinte
-link: /2012/05/rote-tinte/
+path: /2012/05/rote-tinte/
 fileName: 2012-05---rote-tinte.md
 description: Du sitzt in der Badewanne und weinst. Wäschst Dir den Staub aus den
   Haaren. Du hast immer gekämpft dafür - Rote Tinte
@@ -53,7 +53,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3047"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Heute mal wieder Prosa
   
 ---

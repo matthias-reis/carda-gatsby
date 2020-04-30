@@ -2,7 +2,7 @@
 title: Zuckersüßes Lächeln und saurer Regen
 seoTitle: Zuckersüßes Lächeln und saurer Regen - Wir sind nette Menschen - und Du?
 slug: nette-menschen
-link: /2018/05/nette-menschen/
+path: /2018/05/nette-menschen/
 fileName: 2018-05---zuckersuesses-laecheln-und-saurer-regen.md
 description: Frieden und Liebe. Wir sind nette Menschen. Und wir sind viele. Ich
   bin auch dabei. Und Du? Wie siehst Du das? Nimm diese Blume...
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20918"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wir sind nette Menschen - und Du?
   
 ---

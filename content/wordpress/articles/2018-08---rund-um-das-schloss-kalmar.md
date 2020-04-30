@@ -2,7 +2,7 @@
 title: Rund um das Schloss Kalmar
 seoTitle: Rund um das Schloss Kalmar - Schwäne, Ostsee-Sund und alte Gemäuer
 slug: rund-um-das-schloss-kalmar
-link: /2018/08/rund-um-das-schloss-kalmar/
+path: /2018/08/rund-um-das-schloss-kalmar/
 fileName: 2018-08---rund-um-das-schloss-kalmar.md
 description: Das Schoss von Kalmar erhielt sein heutiges Aussehen, als die
   Wasa-Könige im 16. Jahrhundert aus der Festung einen Renaissance-Palast
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21709"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schwäne, Ostsee-Sund und alte Gemäuer
   
 ---

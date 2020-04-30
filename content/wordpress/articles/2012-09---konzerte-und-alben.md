@@ -2,7 +2,7 @@
 title: Konzerte und Alben
 seoTitle: Konzerte und Alben
 slug: konzerte-und-alben
-link: /2012/09/konzerte-und-alben/
+path: /2012/09/konzerte-und-alben/
 fileName: 2012-09---konzerte-und-alben.md
 description: ""
 excerpt: Heute ist ein guter Tag. Ich freue mich auf tolle, neue Musik. Leider
@@ -53,7 +53,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4137"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Konzertplanung &amp; Plattenkauf
   
 ---

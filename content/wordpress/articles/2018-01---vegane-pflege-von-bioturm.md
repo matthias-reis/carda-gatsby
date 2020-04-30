@@ -2,7 +2,7 @@
 title: Vegane Pflege von Bioturm
 seoTitle: Vegane Pflege von Bioturm - All Time Favorites unter der Lupe
 slug: bioturm
-link: /2018/01/bioturm/
+path: /2018/01/bioturm/
 fileName: 2018-01---vegane-pflege-von-bioturm.md
 description: Heute möchte ich Euch mit Bioturm einen All Time Favourite
   vorstellen. Das habe ich mit einem interessanten Testbericht verbunden. Viele
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: "19169"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (88:29)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (88:29)"
 subTitle: All Time Beauty-Favourites unter der Lupe
   
 ---

@@ -2,7 +2,7 @@
 title: Liebster Blog Award
 seoTitle: Liebster Blog Award - die Nominierungen stehen fest
 slug: liebster-blog-award
-link: /2014/11/liebster-blog-award/
+path: /2014/11/liebster-blog-award/
 fileName: 2014-11---liebster-blog-award.md
 description: Gleich zweimal wurde ich für den "Liebster Blog Award" nominiert.
   Ich kann es kaum glauben! Was für eine Ehre!
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: "9236"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (25:29)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (25:29)"
 subTitle: And the nominees are...
   
 ---

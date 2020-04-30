@@ -3,7 +3,7 @@ title: Vegablum Gründerin Danny
 seoTitle: Vegablum Gründerin Danny im Interview - "Wir möchten etwas Gutes tun,
   keinen Benz kaufen"
 slug: interview-mit-danny-von-vegablum
-link: /2017/04/interview-mit-danny-von-vegablum/
+path: /2017/04/interview-mit-danny-von-vegablum/
 fileName: 2017-04---vegablum-gruenderin-danny.md
 description: Wie verrückt habt Ihr meinen Blog gestürmt, als der Produkttest zu
   Vegablum (veganer Honig) erschien. Daher gibt es heute ein Interview mit
@@ -57,8 +57,7 @@ isAffiliate: false
 thumbnailId: "16486"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <span> (188:120)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <span> (188:120)"
 subTitle: <span class="s1">„Wir möchten Gutes tun und keinen Benz kaufen“</span>
   
 ---

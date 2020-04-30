@@ -2,7 +2,7 @@
 title: All Glamour No Guts
 seoTitle: All Glamour No Guts - Schmuck & Accessoires von Veganern für Veganer
 slug: all-glamour-no-guts-schmuck-fuer-veganer
-link: /2016/12/all-glamour-no-guts-schmuck-fuer-veganer/
+path: /2016/12/all-glamour-no-guts-schmuck-fuer-veganer/
 fileName: 2016-12---all-glamour-no-guts.md
 description: All Glamour No Guts - Das ist Schmuck von Veganern für Veganer,
   made in Norwich, England. Für die Auswahl der Materialien lässt sich Gründerin
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15436"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schmuck und Accessoires von Veganern für Veganer
   
 ---

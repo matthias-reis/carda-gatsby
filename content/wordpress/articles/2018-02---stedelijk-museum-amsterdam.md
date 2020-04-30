@@ -2,7 +2,7 @@
 title: Stedelijk Museum Amsterdam
 seoTitle: Stedelijk Museum Amsterdam - Moderne Kunst hautnah
 slug: stedelijk-museum-amsterdam
-link: /2018/02/stedelijk-museum-amsterdam/
+path: /2018/02/stedelijk-museum-amsterdam/
 fileName: 2018-02---stedelijk-museum-amsterdam.md
 description: Am 18. Januar hatten wir die Gelegenheit, das Stedelijk Museum zu
   besuchen. Für uns ein echtes Highlight unseres Kurztripps nach Amsterdam.
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19522"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Moderne Kunst hautnah
   
 ---

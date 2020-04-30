@@ -2,7 +2,7 @@
 title: Smecket Gründer Daniel
 seoTitle: Interview mit Daniel Weiss von Smecket Tee - "Der Geschmack steht im Fokus"
 slug: interview-mit-daniel-weiss-von-smecket
-link: /2017/05/interview-mit-daniel-weiss-von-smecket/
+path: /2017/05/interview-mit-daniel-weiss-von-smecket/
 fileName: 2017-05---smecket-gruender-daniel.md
 description: Daniel von Smecket hat mir so einiges über die Teemanufaktur und
   sein Leben verraten. Klimaschutz ist für ihn ein besonders wichtiges Thema -
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16554"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Der Geschmack steht im Vordergrund"'
   
 ---

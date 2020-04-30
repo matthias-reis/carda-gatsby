@@ -2,7 +2,7 @@
 title: Earth Overshoot Day 2018
 seoTitle: Earth Overshoot Day 2018 - Der Menschheit ist die Sicherung durchgebrannt
 slug: earth-overshoot-day-2018
-link: /2018/07/earth-overshoot-day-2018/
+path: /2018/07/earth-overshoot-day-2018/
 fileName: 2018-07---earth-overshoot-day-2018.md
 description: Ich erinnere mich an den Earth Overshoot Day 2017. Der Tag fiel auf
   den 2. August. 2018 haben wir unsere Ressourcen schon einen Tag früher
@@ -40,8 +40,7 @@ isAffiliate: false
 thumbnailId: "21509"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (84:49)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (84:49)"
 subTitle: Der Menschheit ist die Sicherung durchgebrannt
   
 ---

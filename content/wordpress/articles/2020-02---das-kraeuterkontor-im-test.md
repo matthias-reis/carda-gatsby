@@ -2,7 +2,7 @@
 title: Das Kräuterkontor im Test
 seoTitle: Das Kräuterkontor im Test - Tee und Kräuter in Bio-Qualität
 slug: das-kraeuterkontor-im-test
-link: /2020/02/das-kraeuterkontor-im-test/
+path: /2020/02/das-kraeuterkontor-im-test/
 fileName: 2020-02---das-kraeuterkontor-im-test.md
 description: Das Kräuterkontor hat Bio-Heilkräuter, Tees,
   Nahrungsergänzungsmittel und verschiedene Pflegeprodukte im Angebot. Ich habe
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27495"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tee und Kräuter in Bio-Qualität
   
 ---

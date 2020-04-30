@@ -2,7 +2,7 @@
 title: '"Vegan frühstücken kann jeder"'
 seoTitle: '"Vegan frühstücken kann jeder" - der neue vegane Bestseller'
 slug: vegan-fruehstuecken-kann-jeder
-link: /2015/09/vegan-fruehstuecken-kann-jeder/
+path: /2015/09/vegan-fruehstuecken-kann-jeder/
 fileName: 2015-09---vegan-fruehstuecken-kann-jeder.md
 description: Das Werk "Vegan frühstücken kann jeder mausert sich nach dem Hit
   "Vegan kann jeder" zum zweiten Bestseller von Nadine Horn und Jörg Mayer.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24515"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der neue vegane Bestseller
   
 ---

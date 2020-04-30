@@ -2,7 +2,7 @@
 title: Vegan in der Yakutien
 seoTitle: Vegan in Yakutien - zu Besuch am kältesten Ort der Erde
 slug: vegan-in-der-kaelte
-link: /2015/01/vegan-in-der-kaelte/
+path: /2015/01/vegan-in-der-kaelte/
 fileName: 2015-01---vegan-in-der-yakutien.md
 description: Sebastian ist der 333ste Mensch, der den kältesten Ort der Erde in
   Yakutien bereist hat. Das Wort "vegan" ist dort vollkommen unbekannt.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9401"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zu Besuch am kältesten Ort der Erde
   
 ---

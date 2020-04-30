@@ -2,7 +2,7 @@
 title: '"Gute Argumente, Fleisch zu essen"'
 seoTitle: '"Gute Argumente, Fleisch zu essen" - Interview'
 slug: unstumm-film-interview
-link: /2020/02/unstumm-film-interview/
+path: /2020/02/unstumm-film-interview/
 fileName: 2020-02---gute-argumente-fleisch-zu-essen.md
 description: Alice und Hendrik von Unstumm Film machen Aufklärungsfilme zum
   Thema Tierschutz - ohne dabei ein Blatt vor den Mund zu nehmen.
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27502"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Interview mit Alice und Hendrik von Unstumm Film
   
 ---

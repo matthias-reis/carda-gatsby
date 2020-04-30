@@ -2,7 +2,7 @@
 title: Wenn die Hölle zufriert
 seoTitle: Wenn die Hölle zufriert - ein winterlicher Tagebucheintrag
 slug: wenn-die-holle-zufriert
-link: /2012/02/wenn-die-holle-zufriert/
+path: /2012/02/wenn-die-holle-zufriert/
 fileName: 2012-02---wenn-die-hoelle-zufriert.md
 description: Draußen sind es gefühlte - 21 ° C. Drinnen wird es Zeit für einen
   neuen Blogeintrag. Die Katzen liegen zusammengerollt unter dem Heizkörper.
@@ -52,7 +52,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2762"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

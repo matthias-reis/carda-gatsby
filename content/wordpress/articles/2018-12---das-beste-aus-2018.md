@@ -2,7 +2,7 @@
 title: Das Beste aus 2018
 seoTitle: Das Beste aus 2018 - mein Jahresrückblick
 slug: das-beste-aus-2018
-link: /2018/12/das-beste-aus-2018/
+path: /2018/12/das-beste-aus-2018/
 fileName: 2018-12---das-beste-aus-2018.md
 description: Es ist soweit. Mein Jahresrückblick ist da. Der Aufbau ist dieses
   Mal ein kleines bisschen anders, als Ihr es aus den letzten Jahren kennt.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23143"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mein Jahresrückblick
   
 ---

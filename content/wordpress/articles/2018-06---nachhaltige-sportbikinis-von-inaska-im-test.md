@@ -2,7 +2,7 @@
 title: Nachhaltige Sportbikinis von Inaska im Test
 seoTitle: Nachhaltige Sportbinikis aus Fischernetzen von Inaska im Test
 slug: inaska-sportbikinis
-link: /2018/06/inaska-sportbikinis/
+path: /2018/06/inaska-sportbikinis/
 fileName: 2018-06---nachhaltige-sportbikinis-von-inaska-im-test.md
 description: Kennt Ihr schon Inaska? Der Name steht für nachhaltige Sportbikinis
   aus Fischernetzen. Ich hatte jetzt Gelegenheit, mein Lieblingsmodell zu
@@ -47,7 +47,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21166"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bademode aus Fischernetzen
   
 ---

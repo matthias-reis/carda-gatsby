@@ -2,7 +2,7 @@
 title: Initiative Tierwohl
 seoTitle: Initiative Tierwohl - Tiere schützen und essen - geht das?
 slug: initiative-tierwohl
-link: /2016/01/initiative-tierwohl/
+path: /2016/01/initiative-tierwohl/
 fileName: 2016-01---initiative-tierwohl.md
 description: Seit Kurzem gibt es eine neue Tierschutzinitiative. Die Tiere
   sollen trotzdem gegessen werden und an Haltung und Schlachtung ändert sich
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29176"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tiere schützen und essen - geht das?
   
 ---

@@ -2,7 +2,7 @@
 title: Frühlingsboten im Hamburger Loki Schmidt Garten
 seoTitle: Frühlingsboten im Hamburger Loki Schmidt Garten - Der Winter verabschiedet sich
 slug: fruehlingsboten-im-hamburger-loki-schmidt-garten
-link: /2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/
+path: /2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/
 fileName: 2017-03---fruehlingsboten-im-hamburger-loki-schmidt-garten.md
 description: Frühlingsboten zeigen sich im Hamburger Loki Schmidt Garten. Alles
   scheint in zarte Pastelltöne getaucht zu sein und die Vögel bauen ihre Nester
@@ -39,7 +39,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16082"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der Winter verabschiedet sich
   
 ---

@@ -2,7 +2,7 @@
 title: Tierversuche in der Autoindustrie
 seoTitle: Tierversuche in der Autoindustrie - Affen mit Abgasen vergiftet
 slug: tierversuche-in-der-autoindustrie
-link: /2018/01/tierversuche-in-der-autoindustrie/
+path: /2018/01/tierversuche-in-der-autoindustrie/
 fileName: 2018-01---tierversuche-in-der-autoindustrie.md
 description: Um sicher zu gehen, dass die vorgeschriebenen Umweltstandards
   erfüllt werden, testete VW Abgasanlagen an hilflosen Affen.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19269"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Affen mit Abgasen systematisch vergiftet
   
 ---

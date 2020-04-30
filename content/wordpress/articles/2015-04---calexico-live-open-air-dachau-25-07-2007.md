@@ -2,7 +2,7 @@
 title: Calexico live @ Open Air Dachau 25.07.2007
 seoTitle: Calexico live @ Open Air Dachau 25.07.2007
 slug: calexico-live-open-air-dachau-25-07-2007
-link: /2015/04/calexico-live-open-air-dachau-25-07-2007/
+path: /2015/04/calexico-live-open-air-dachau-25-07-2007/
 fileName: 2015-04---calexico-live-open-air-dachau-25-07-2007.md
 description: Hier sind meine Eindrücke vom Calexico-Auftritt auf dem Open Air in
   Dachau 2007.
@@ -20,7 +20,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11809"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

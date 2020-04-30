@@ -2,7 +2,7 @@
 title: Gumbies im Winter
 seoTitle: "Gumbies im Winter - Strandsandalen als Hausschuhe: Das geht!"
 slug: gumbies-im-winter
-link: /2018/12/gumbies-im-winter/
+path: /2018/12/gumbies-im-winter/
 fileName: 2018-12---gumbies-im-winter.md
 description: "Wie lange habe ich sie gesucht: Meine Hausschuhe. Fündig geworden
   bin ich vor ein paar Wochen beim Hersteller veganer Strandsandalen Gumbies."
@@ -43,7 +43,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22874"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Perfekte Hausschuhe für gemütliche Stunden
   
 ---

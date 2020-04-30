@@ -2,7 +2,7 @@
 title: Alte Tagebucheinträge und Urlaub auf Inseln
 seoTitle: Alte Tagebucheinträge und Urlaub auf Inseln
 slug: alte-tagebucheintrage-und-urlaub-auf-inseln
-link: /2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/
+path: /2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/
 fileName: 2012-06---alte-tagebucheintraege-und-urlaub-auf-inseln.md
 description: Interessant, was ich früher so alles in meinem Tagebuch
   festgehalten habe. Wirklich spannend sind die ersten Aufzeichnungen über das
@@ -57,7 +57,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3118"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

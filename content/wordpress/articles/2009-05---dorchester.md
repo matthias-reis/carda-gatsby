@@ -2,7 +2,7 @@
 title: Dorchester
 seoTitle: Dorchester
 slug: dorchester
-link: /2009/05/dorchester/
+path: /2009/05/dorchester/
 fileName: 2009-05---dorchester.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Dorchester"
 excerpt: In Dorchester setzte sich die Sonne durch - Zeit für ein paar Bilder.
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11229"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 16/17
   
 ---

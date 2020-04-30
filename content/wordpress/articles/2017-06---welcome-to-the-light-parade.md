@@ -2,7 +2,7 @@
 title: Welcome to the light parade
 seoTitle: Welcome to the light parade - Altona erstrahlt im Licht der "Weißen Parade"
 slug: weisse-parade-stamp-festival-altona
-link: /2017/06/weisse-parade-stamp-festival-altona/
+path: /2017/06/weisse-parade-stamp-festival-altona/
 fileName: 2017-06---welcome-to-the-light-parade.md
 description: Hamburg - Mit einer leuchtenden Parade aus futuristischen Feen und
   Elfen fand am Samstag der ersten Tag des Stamp Festivals in Altona seinen
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16833"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Altona erstrahlt im Licht der "Weißen Parade"
   
 ---

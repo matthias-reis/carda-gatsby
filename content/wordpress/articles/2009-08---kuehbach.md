@@ -2,7 +2,7 @@
 title: Kühbach
 seoTitle: Die Marktgemeinde Kühbach im Wandel der Geschichte
 slug: bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte
-link: /2009/08/bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte/
+path: /2009/08/bayerische-gmiatlichkeit-die-marktgemeinde-kuhbach-im-wandel-der-geschichte/
 fileName: 2009-08---kuehbach.md
 description: Kühbach liegt zwischen den Wäldern von Aichach und Schiltberg und
   dem Paartal. Das Wahrzeichen von Kühbach das Schloss Kühbach
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10835"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bayerische Gemütlichkeit
   
 ---

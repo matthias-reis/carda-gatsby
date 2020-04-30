@@ -2,7 +2,7 @@
 title: Die 12 Songs des Jahres 2019
 seoTitle: Die 12 Songs des Jahres 2019 - präsentiert von den drei von der Bande
 slug: die-12-songs-des-jahres-2019
-link: /2019/12/die-12-songs-des-jahres-2019/
+path: /2019/12/die-12-songs-des-jahres-2019/
 fileName: 2019-12---die-12-songs-des-jahres-2019.md
 description: "Es ist so weit: die Songs 2019 stehen fest. Diese 12 Stücke sind
   die besten des Jahres. Wir haben sie exklusiv für Euch zusammengestellt."
@@ -58,7 +58,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27169"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

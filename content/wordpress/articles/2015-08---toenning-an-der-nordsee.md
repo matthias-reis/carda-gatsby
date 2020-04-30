@@ -2,7 +2,7 @@
 title: Tönning an der Nordsee
 seoTitle: Tönning - Ein verdammt guter Kaffee an der Nordsee
 slug: toenning-an-der-nordsee
-link: /2015/08/toenning-an-der-nordsee/
+path: /2015/08/toenning-an-der-nordsee/
 fileName: 2015-08---toenning-an-der-nordsee.md
 description: Hier sind meine Bilder von unserem Ausflug nach Tönning in Nordfriesland
 excerpt: Am 26. Juli führte uns unser Weg in den kleinen Nordseeküsten-Ort
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12150"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein verdammt guter Kaffee in Nordfriesland
   
 ---

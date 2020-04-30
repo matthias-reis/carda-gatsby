@@ -2,7 +2,7 @@
 title: Calexico live @ Muffathalle München 16.10.2008
 seoTitle: Calexico live @ Muffathalle
 slug: calexico-live-muffathalle-muenchen-16-10-2008
-link: /2015/04/calexico-live-muffathalle-muenchen-16-10-2008/
+path: /2015/04/calexico-live-muffathalle-muenchen-16-10-2008/
 fileName: 2015-04---calexico-live-muffathalle-muenchen-16-10-2008.md
 description: Hier sind meine Eindrücke vom Calexico-Konzert in der Muffathalle
 excerpt: Anlässlich der neuen Platte und des tollen Konzerts gestern in der
@@ -19,7 +19,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11810"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

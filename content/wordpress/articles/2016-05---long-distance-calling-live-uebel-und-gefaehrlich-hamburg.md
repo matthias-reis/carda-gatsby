@@ -2,7 +2,7 @@
 title: Long Distance Calling live @ Übel & Gefährlich Hamburg
 seoTitle: Long Distance Calling live @ Übel & Gefährlich Hamburg
 slug: long-distance-calling-uebel-und-gefaehrlich
-link: /2016/05/long-distance-calling-uebel-und-gefaehrlich/
+path: /2016/05/long-distance-calling-uebel-und-gefaehrlich/
 fileName: 2016-05---long-distance-calling-live-uebel-und-gefaehrlich-hamburg.md
 description: "Vorletzten Freitag stand wieder mal ein Highlight für uns an: Long
   Distance Calling spielten im legendären Bunkerclub Übel und Gefährlich in
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14645"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Konzert und Plattenrelease
   
 ---

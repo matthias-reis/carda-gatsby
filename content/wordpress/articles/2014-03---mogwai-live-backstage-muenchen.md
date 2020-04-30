@@ -2,7 +2,7 @@
 title: Mogwai live @Backstage München
 seoTitle: Mogwai live @ Backstage München - Konzertbericht und Bildergalerie
 slug: mogwai-live-backstage-muenchen
-link: /2014/03/mogwai-live-backstage-muenchen/
+path: /2014/03/mogwai-live-backstage-muenchen/
 fileName: 2014-03---mogwai-live-backstage-muenchen.md
 description: "Hier sind meine Eindrück vom Mogwai Konzert in München - Nur
   soviel sei gesagt: Die Band war genial, laut und perfekt. Ein rundum
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7769"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Meine Lieben,
   
 ---

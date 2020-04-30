@@ -2,7 +2,7 @@
 title: Mortehoe, Cornwall
 seoTitle: Mortehoe, Cornwall - Anne bloggt cardamonchai
 slug: mortehoe-cornwall-12-05-2009
-link: /2009/05/mortehoe-cornwall-12-05-2009/
+path: /2009/05/mortehoe-cornwall-12-05-2009/
 fileName: 2009-05---mortehoe-cornwall.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Mortehoe"
 excerpt: Der Küstenpfad ist bei Mortehoe besonders schön, in Laufnähe gibt es
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11271"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 5/17
   
 ---

@@ -2,7 +2,7 @@
 title: 12 Songs für den September 2019
 seoTitle: 12 Songs für den September - präsentiert von den drei von der Bande
 slug: 12-songs-fuer-den-september
-link: /2019/08/12-songs-fuer-den-september/
+path: /2019/08/12-songs-fuer-den-september/
 fileName: 2019-08---12-songs-fuer-den-september-2019.md
 description: Der Sommer ist nach wie vor in vollem Gange und mit ihm brechen die
   musikalischen Glücksmeldungen nicht ab - 12 Songs für Euch.
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25825"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

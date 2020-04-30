@@ -2,7 +2,7 @@
 title: Tierisch hintergründig
 seoTitle: Tierisch hintergründig - Bilder von Denise Slapansky
 slug: tierisch-hintergruendig-bilder-von-denise-slapansky
-link: /2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/
+path: /2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/
 fileName: 2015-12---tierisch-hintergruendig.md
 description: Die vegane Künstlerin Denise Slapansky zeigte in ihrer Ausstellung
   "Tierisch hintergründig" sogenannte "Nutztiere" wie sie wirklich sind.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13248"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die neue Ausstellung von Denise Slapansky
   
 ---

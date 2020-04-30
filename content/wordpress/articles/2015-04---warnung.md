@@ -2,7 +2,7 @@
 title: Warnung
 seoTitle: Strand Warnung - Gezeiten
 slug: warnung
-link: /2015/04/warnung/
+path: /2015/04/warnung/
 fileName: 2015-04---warnung.md
 description: Bitte beachten Sie die Gezeiten - Strand Warnung
 excerpt: Diesen Schnappschuss habe ich in England gemacht.
@@ -19,7 +19,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11889"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesehen in England 2009
   
 ---

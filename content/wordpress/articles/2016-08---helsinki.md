@@ -2,7 +2,7 @@
 title: Helsinki
 seoTitle: Helsinki - Schönheit an der Ostsee - Bildergalerie
 slug: helsinki-schoenheit-an-der-ostsee
-link: /2016/08/helsinki-schoenheit-an-der-ostsee/
+path: /2016/08/helsinki-schoenheit-an-der-ostsee/
 fileName: 2016-08---helsinki.md
 description: Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe
   weiter. Helsinki ist nicht nur die Hauptstadt des Landes. Kulturell ist
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15111"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schönheit an der Ostsee
   
 ---

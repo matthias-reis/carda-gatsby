@@ -2,7 +2,7 @@
 title: Vegane Geldbörsen
 seoTitle: Vegane Geldbörsen von Borderdog aus Hamburg - Der ultimative Produkttest
 slug: vegane-geldboersen-von-borderdog
-link: /2017/06/vegane-geldboersen-von-borderdog/
+path: /2017/06/vegane-geldboersen-von-borderdog/
 fileName: 2017-06---vegane-geldboersen.md
 description: Kennt Ihr schon Borderdog? Das kleine Hamburger Start-up stellt
   vegane Geldbörsen her. Sie sind nicht nur schlank und schick, sondern auch
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16949"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Borderdog aus Hamburg
   
 ---

@@ -2,7 +2,7 @@
 title: Verlosung läuft noch bis einschließlich 30. September
 seoTitle: Verlosung läuft noch bis einschließlich 30. September
 slug: verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen
-link: /2012/09/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/
+path: /2012/09/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/
 fileName: 2012-09---verlosung-laeuft-noch-bis-einschliesslich-30-september.md
 description: Hiermit möchte ich nochmal offiziell auf mein Gewinnspiel
   hinweisen. Die Verlosung läuft noch bis einschließlich 30. September.
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11800"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tolle Goodies zu gewinnen!
   
 ---

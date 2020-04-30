@@ -2,7 +2,7 @@
 title: Die Bastelei
 seoTitle: Der Mixtape-Tausch Teil 1 - Die Bastelei
 slug: der-mixtape-tausch
-link: /2011/08/der-mixtape-tausch/
+path: /2011/08/der-mixtape-tausch/
 fileName: 2011-08---die-bastelei.md
 description: Mit einem anderen Blogger ein Mixtape tauschen. Was für eine geniale Idee!
 excerpt: Nachdem ich mich mit einem anderen Blogger eine ganze Zeit lang über
@@ -60,7 +60,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2520"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Der Mixtape-Tausch Teil 1
   
 ---

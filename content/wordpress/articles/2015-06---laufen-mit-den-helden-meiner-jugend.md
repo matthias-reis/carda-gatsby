@@ -2,7 +2,7 @@
 title: Laufen mit den Helden meiner Jugend
 seoTitle: Laufen mit den Helden meiner Jugend
 slug: laufen-mit-den-helden-meiner-jugend
-link: /2015/06/laufen-mit-den-helden-meiner-jugend/
+path: /2015/06/laufen-mit-den-helden-meiner-jugend/
 fileName: 2015-06---laufen-mit-den-helden-meiner-jugend.md
 description: Ich bin nach mehreren Monaten Pause endlich wieder angelaufen. Und
   was soll ich sagen? Ich fühle mich super! Laufen sollte jeder mal probieren.
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11989"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Feuert mich an!
   
 ---

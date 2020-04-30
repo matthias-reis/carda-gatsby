@@ -2,7 +2,7 @@
 title: Die vegane Ärztin Dr. Barbara Gorißen
 seoTitle: Die vegane Ärztin Dr. Barbara Gorißen im Interview
 slug: die-vegane-aerztin-dr-barbara-gorissen-im-interview
-link: /2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/
+path: /2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/
 fileName: 2015-07---die-vegane-aerztin-dr-barbara-gorissen.md
 description: Vor Kurzem habe ich die vegane Ärztin Dr. Barbara Gorißen
   kennengelernt und mich mit ihr zum Interview verabredet. Ein sehr
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12056"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Es war ein langer Reifungsprozess!"'
   
 ---

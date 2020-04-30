@@ -2,7 +2,7 @@
 title: Ü­ber­rasch­ungs­post von WYOB
 seoTitle: Überraschungspost von WYOB - faire und vegane Mützen
 slug: ue-ber-rasch-ungs-post-von-wyob
-link: /2015/04/ue-ber-rasch-ungs-post-von-wyob
+path: /2015/04/ue-ber-rasch-ungs-post-von-wyob
 fileName: 2015-04---ue-ber-rasch-ungs-post-von-wyob.md
 description: Ich trage jetzt auch meine WYOB! Wear Your Own Bommel - Save lives!
   Vegane Mützen von Denise Slapansky aus Friedberg bei Augsburg - WYOB
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11341"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: So trage ich meine WYOB
   
 ---

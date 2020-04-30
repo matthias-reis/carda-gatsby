@@ -2,7 +2,7 @@
 title: Blind Date mit einem Song
 seoTitle: Blind Date mit einem Song - Presidents Of the United States -"Peaches"
 slug: presidents-of-the-united-states-peaches
-link: /2018/03/presidents-of-the-united-states-peaches/
+path: /2018/03/presidents-of-the-united-states-peaches/
 fileName: 2018-03---blind-date-mit-einem-song.md
 description: 'Ich hatte ein Blind Date mit keinem Geringeren als diesem Feel
   Good Hit Of The Year: "Peaches" von den Presidents Of the United States.'
@@ -37,8 +37,7 @@ isAffiliate: false
 thumbnailId: "19617"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (21:61)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (21:61)"
 subTitle: '"Peaches" von Presidents Of The United States'
   
 ---

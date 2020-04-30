@@ -2,7 +2,7 @@
 title: Hafen, Wolken und Container
 seoTitle: Hafen, Wolken und Container - Stürmischer Januar in Hamburg
 slug: hafen-hamburg-januar-2016
-link: /2016/03/hafen-hamburg-januar-2016/
+path: /2016/03/hafen-hamburg-januar-2016/
 fileName: 2016-03---hafen-wolken-und-container.md
 description: Eines stürmischen Januartages haben wir mal wieder eine
   Hafenrundfahrt gemacht. Der Hafen zeigte sich von seiner schönsten Seite. Hier
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: "14192"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (48:45)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (48:45)"
 subTitle: Stürmischer Januar in Hamburg
   
 ---

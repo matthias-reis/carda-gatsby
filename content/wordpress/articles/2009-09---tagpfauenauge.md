@@ -2,7 +2,7 @@
 title: Tagpfauenauge
 seoTitle: Tagpfauenauge - Anne bloggt cardamonchai
 slug: tagpfauenauge
-link: /2009/09/tagpfauenauge/
+path: /2009/09/tagpfauenauge/
 fileName: 2009-09---tagpfauenauge.md
 description: Tagpfauenauge - Gesehen in Friedberg
 excerpt: Dieses wunderbare Tagpfauenauge habe ich in Friedberg in Bayern gesehen.
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11464"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesehen in Friedberg
   
 ---

@@ -2,7 +2,7 @@
 title: '"Butenland der Film"'
 seoTitle: '"Butenland der Film" - die Geschichte des Kuhaltersheims'
 slug: butenland-der-film
-link: /2020/01/butenland-der-film/
+path: /2020/01/butenland-der-film/
 fileName: 2020-01---butenland-der-film.md
 description: Es ist soweit. Ende Januar kommt endlich "Hof Butenland der Film"
   ins Kino. Es geht darin um die Geschichte des Kuhaltersheims und seiner beiden
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27431"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Geschichte des Kuhaltersheims
   
 ---

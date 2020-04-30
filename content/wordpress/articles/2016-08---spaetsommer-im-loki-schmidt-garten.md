@@ -2,7 +2,7 @@
 title: Spätsommer im Loki Schmidt Garten
 seoTitle: Spätsommer im Hamburger Loki Schmidt Garten
 slug: spaetsommer-loki-schmidt-garten
-link: /2016/08/spaetsommer-loki-schmidt-garten/
+path: /2016/08/spaetsommer-loki-schmidt-garten/
 fileName: 2016-08---spaetsommer-im-loki-schmidt-garten.md
 description: Der Spätsommer ist in Hamburg die schönste Jahreszeit. Zeit für
   einen Ausflug in den Loki Schmidt Garten mit seiner Vielfalt an Pflanzen.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15135"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kakteen, Feigen, Sonne und Wind
   
 ---

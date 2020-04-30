@@ -2,7 +2,7 @@
 title: '"Tiere essen"'
 seoTitle: Buchtipp - "Tiere essen" von Jonathan Safran Foer
 slug: tiere-essen-von-jonathan-safran-foer
-link: /2019/02/tiere-essen-von-jonathan-safran-foer/
+path: /2019/02/tiere-essen-von-jonathan-safran-foer/
 fileName: 2019-02---tiere-essen.md
 description: In meinem Bücherregal darf eine Ausgabe von Jonathan Safran Foers
   "Tiere essen" nicht fehlen. Das Buch bietet jede Menge Anreize, Fakten und
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23614"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Buch von Jonathan Safran Foer
   
 ---

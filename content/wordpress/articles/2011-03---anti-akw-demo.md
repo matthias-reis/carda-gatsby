@@ -2,7 +2,7 @@
 title: Anti AKW Demo
 seoTitle: Anti AKW Demo in München - Atomkraft, nein Danke!
 slug: anti-akw-demo-26-03-2011-munchen
-link: /2011/03/anti-akw-demo-26-03-2011-munchen/
+path: /2011/03/anti-akw-demo-26-03-2011-munchen/
 fileName: 2011-03---anti-akw-demo.md
 description: Insgesamt 250.000 Menschen gingen gestern in Berlin, Hamburg, Köln
   und München auf die Straße - ich war auf der Anti AKW Demo in München.
@@ -84,7 +84,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "853"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 26.03.2011 München
   
 ---

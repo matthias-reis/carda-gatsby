@@ -2,7 +2,7 @@
 title: '"Die Paleo Diät ist ein Mythos"'
 seoTitle: '"Die Paleo Diät ist ein Mythos" - Forscher decken auf'
 slug: die-paleo-diaet-ist-ein-mythos
-link: /2015/09/die-paleo-diaet-ist-ein-mythos/
+path: /2015/09/die-paleo-diaet-ist-ein-mythos/
 fileName: 2015-09---die-paleo-diaet-ist-ein-mythos.md
 description: '"Unsere Vorfahren haben Getreide statt Fleisch gegessen!" Das
   haben jetzt Forscher in Italien herausgefunden. Der New Scientist berichtet.'
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27511"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Forscher decken auf
   
 ---

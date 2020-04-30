@@ -2,7 +2,7 @@
 title: Virtueller Klimastreik am 24. April
 seoTitle: Virtueller Klimastreik am 24. April - Fridays For Future
 slug: fridays-for-future-virtueller-klimastreik
-link: /2020/04/fridays-for-future-virtueller-klimastreik/
+path: /2020/04/fridays-for-future-virtueller-klimastreik/
 fileName: 2020-04---virtueller-klimastreik-am-24-april.md
 description: Auch in Zeiten von Corona schläft Fridays for future nicht. Am 24.
   April ab 12 Uhr mittags findet der erste virtuelle globale Klimastreik statt.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29211"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fridays For Future goes Livestream
   
 ---

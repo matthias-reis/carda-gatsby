@@ -2,7 +2,7 @@
 title: Anjas Siegesmund
 seoTitle: Anjas Klimaretter-Sparbuch - Grüne Politikerin stellt neues Projekt vor
 slug: klimaretter-sparbuch
-link: /2017/08/klimaretter-sparbuch/
+path: /2017/08/klimaretter-sparbuch/
 fileName: 2017-08---anjas-siegesmund.md
 description: Anja Siegesmund von Bündnis 90/Die Grünen stellte jetzt das
   Klimaretter-Sparbuch vor. Sie möchte damit einen Einreiz bieten und die
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17738"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das Klimaretter-Sparbuch
   
 ---

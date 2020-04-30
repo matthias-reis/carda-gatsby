@@ -2,7 +2,7 @@
 title: Ranges planen neues Album
 seoTitle: Ranges planen neues Album - "Babel" kommt im September
 slug: ranges-planen-neues-album
-link: /2019/04/ranges-planen-neues-album/
+path: /2019/04/ranges-planen-neues-album/
 fileName: 2019-04---ranges-planen-neues-album.md
 description: Die Instrumental Post-Rock Band Ranges aus Montana hat pünktlich
   zum Record Store Day am Samstag ein neues Album mit dem Titel "Babel"
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23954"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Babel" kommt im September'
   
 ---

@@ -2,7 +2,7 @@
 title: Cliffs Of Moher
 seoTitle: Cliffs Of Moher - Klippen mit Aussicht - Meine große Bildergalerie
 slug: cliffs-of-moher
-link: /2018/04/cliffs-of-moher/
+path: /2018/04/cliffs-of-moher/
 fileName: 2018-04---cliffs-of-moher.md
 description: Die Cliffs Of Moher sind eine der bekanntesten Klippenlandschaften
   der Welt. In den Klippen leben mehr als 30 verschiedene Vogelarten.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19780"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Klippen mit Aussicht
   
 ---

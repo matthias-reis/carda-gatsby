@@ -2,7 +2,7 @@
 title: Wichtiger Nachtrag zur Musikliste
 seoTitle: Wichtiger Nachtrag zur Musikliste - Danke für Euer Feedback!
 slug: wichtiger-nachtrag-zur-musikliste
-link: /2018/01/wichtiger-nachtrag-zur-musikliste/
+path: /2018/01/wichtiger-nachtrag-zur-musikliste/
 fileName: 2018-01---wichtiger-nachtrag-zur-musikliste.md
 description: Vielen Dank für das umfangreiche Feedback, die vielen Mails und
   Chatnachrichten sowie die Kommentare, die bei mir eingegangen sind! Hier sind
@@ -66,7 +66,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19339"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Danke für Euer Feedback!
   
 ---

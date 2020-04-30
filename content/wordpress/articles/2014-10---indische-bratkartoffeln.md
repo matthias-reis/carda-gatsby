@@ -2,7 +2,7 @@
 title: Indische Bratkartoffeln
 seoTitle: Indische Bratkartoffeln - Scharf und lecker
 slug: indische-bratkartoffeln
-link: /2014/10/indische-bratkartoffeln/
+path: /2014/10/indische-bratkartoffeln/
 fileName: 2014-10---indische-bratkartoffeln.md
 description: Heute möchte ich Euch ein ganz besonderes Rezept aus meiner Küche
   verraten - Auf den Tisch kommen schmackhafte, leckere Indische Bratkartoffeln.
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8999"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Scharf und lecker
   
 ---

@@ -2,7 +2,7 @@
 title: Banksy im Moco Amsterdam
 seoTitle: Banksy im Moco in Amsterdam - Sagenumwobene Streetart hautnah
 slug: banksy-im-moco-amsterdam
-link: /2018/01/banksy-im-moco-amsterdam/
+path: /2018/01/banksy-im-moco-amsterdam/
 fileName: 2018-01---banksy-im-moco-amsterdam.md
 description: Um keinen anderen Künstler ranken sich so viele Mythen, wie um
   Banksy. Wir hatten jetzt in Amsterdam die Gelegenheit seine Werke hautnah zu
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19019"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sagenumwobene Streetart hautnah
   
 ---

@@ -2,7 +2,7 @@
 title: Möwen am Bosporus
 seoTitle: Möwen am Bosporus - Anne bloggt cardamonchai
 slug: moewen-am-bosporus
-link: /2010/01/moewen-am-bosporus/
+path: /2010/01/moewen-am-bosporus/
 fileName: 2010-01---moewen-am-bosporus.md
 description: Geschickt gleiten die Möwen durch die Lüfte. Immer auf der Suche
   nach einem Leckerbissen. Diese Aufnahmen sind mir am Bosporus gelungen.
@@ -25,8 +25,7 @@ isAffiliate: false
 thumbnailId: "5630"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (17:42)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (17:42)"
 subTitle: Artisten der Lüfte
   
 ---

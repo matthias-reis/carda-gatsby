@@ -2,7 +2,7 @@
 title: Wie Picasso - nur mit Strom
 seoTitle: Wie Picasso - nur mit Strom
 slug: wie-picasso-nur-mit-strom
-link: /2014/08/wie-picasso-nur-mit-strom/
+path: /2014/08/wie-picasso-nur-mit-strom/
 fileName: 2014-08---wie-picasso-nur-mit-strom.md
 description: Genau so habe ich mir immer Picasso bei der Arbeit vorgestellt -
   Voll konzentriert überträgt Mat Reeseman der Tätowierer das Gemälde vom Papier
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8475"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Teil II - Die Tattoo Session
   
 ---

@@ -2,7 +2,7 @@
 title: Interview mit IPL-Profi und sanshair Gründerin Tahmina Klasing
 seoTitle: Interview mit IPL-Profi und sanshair Gründerin Tahmina Klasing
 slug: interview-mit-ipl-profi-und-sanshair-gruenderin-tahmina-klasing
-link: /2016/12/interview-mit-ipl-profi-und-sanshair-gruenderin-tahmina-klasing
+path: /2016/12/interview-mit-ipl-profi-und-sanshair-gruenderin-tahmina-klasing
 fileName: 2016-12---interview-mit-ipl-profi-und-sanshair-gruenderin-tahmina-klasing.md
 description: '"Meine Aufgabe ist es, die innere Schönheit nach außen hin
   sichtbar zu machen" sagt IPL-Profi Tahmina. Im Interview hat sie mir noch mehr
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15596"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Meine Aufgabe ist es, die innere Schönheit nach außen hin sichtbar
   zu machen"'
   

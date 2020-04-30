@@ -2,7 +2,7 @@
 title: "Drei Könige oder: Pizza und Backgammon"
 seoTitle: "Drei Könige oder: Pizza und Backgammon - Die Moral von der Geschicht"
 slug: drei-koenige
-link: /2017/01/drei-koenige/
+path: /2017/01/drei-koenige/
 fileName: 2017-01---drei-koenige-oder-pizza-und-backgammon.md
 description: Drei Könige gingen über die Straße in eine Bar und spielten
   zusammen Backgammon. Es kam ein Sturm auf und so mussten sie austrinken und
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15627"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Moral von der Geschicht
   
 ---

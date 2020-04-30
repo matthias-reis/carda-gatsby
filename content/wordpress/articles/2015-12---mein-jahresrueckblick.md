@@ -2,7 +2,7 @@
 title: Mein Jahresrückblick
 seoTitle: Jahresrückblick - Anne bloggt cardamonchai
 slug: jahresrueckblick
-link: /2015/12/jahresrueckblick/
+path: /2015/12/jahresrueckblick/
 fileName: 2015-12---mein-jahresrueckblick.md
 description: Das Jahr 2015 war ein ganz besonders spannendes mit vielen Artikeln
   und Erlebnissen. Zeit für einen umfassenden Jahresrückblick und einen Ausblick
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13583"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das war 2015
   
 ---

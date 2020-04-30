@@ -2,7 +2,7 @@
 title: Dunk!festival 2019
 seoTitle: Dunk!festival 2019 - das Line-up steht fest - diese Band sind dabei
 slug: dunkfestival-2019
-link: /2019/05/dunkfestival-2019/
+path: /2019/05/dunkfestival-2019/
 fileName: 2019-05---dunk-festival-2019.md
 description: "Das Line-up für das diesjährige Dunk!festival steht fest und eins
   verspreche ich Euch: Das wird wieder ganz schön spannend!"
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20887"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das Line-up steht fest
   
 ---

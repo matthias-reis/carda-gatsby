@@ -2,7 +2,7 @@
 title: WWF zieht vor Warnemünde Geisternetz aus der Ostsee
 seoTitle: WWF zieht vor Warnemünde Geisternetz aus dem Meer
 slug: wwf-geisternetz-warnemuende
-link: /2018/08/wwf-geisternetz-warnemuende/
+path: /2018/08/wwf-geisternetz-warnemuende/
 fileName: 2018-08---wwf-zieht-vor-warnemuende-geisternetz-aus-der-ostsee.md
 description: Taucher des WWF haben jetzt vor Warnemünde ein Geisternetz aus dem
   Meer gezogen. Das meldete die Umweltschutzorganisation am 8. August.
@@ -30,8 +30,7 @@ isAffiliate: false
 thumbnailId: "21658"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: 'unknown: Unexpected token, expected "}" (55:13)'
+  invalidMdx: 'unknown: Unexpected token, expected "}" (55:13)'
 subTitle: Zwei Kormorane und zahlreiche Fische erstickt
   
 ---

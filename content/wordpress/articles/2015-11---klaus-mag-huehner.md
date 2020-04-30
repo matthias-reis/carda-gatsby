@@ -2,7 +2,7 @@
 title: '"Klaus mag Hühner"'
 seoTitle: '"Klaus mag Hühner" - ein veganes Kinderbuch für Kinder im Fragealter'
 slug: klaus-mag-huehner
-link: /2015/11/klaus-mag-huehner/
+path: /2015/11/klaus-mag-huehner/
 fileName: 2015-11---klaus-mag-huehner.md
 description: '"Klaus mag Hühner" ist ein veganes Kinderbuch für Kinder im
   Fragealter. Auf einfühlende und liebevolle Art und Weise werden Kinderfragen
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24524"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein veganes Kinderbuch für Kinder im Fragealter
   
 ---

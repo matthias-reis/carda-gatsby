@@ -2,7 +2,7 @@
 title: Sissinghurst Castle
 seoTitle: Sissinghurst Castle - Anne bloggt cardamonchai
 slug: sissinghurst-castle
-link: /2009/05/sissinghurst-castle/
+path: /2009/05/sissinghurst-castle/
 fileName: 2009-05---sissinghurst-castle.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Sissinghurst Castle"
 excerpt: Sissinghurst liegt ca. 40 km südwestlich von Canterbury. Der Garten um
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11280"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 2/17
   
 ---

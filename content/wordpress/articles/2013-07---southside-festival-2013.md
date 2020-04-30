@@ -2,7 +2,7 @@
 title: Southside Festival 2013
 seoTitle: Southside Festival 2013 - Die Bildergalerie ist fertig
 slug: southside-festival-2013
-link: /2013/07/southside-festival-2013/
+path: /2013/07/southside-festival-2013/
 fileName: 2013-07---southside-festival-2013.md
 description: "Zeit, meine Schnappschüsse vom diesjährigen Southside-Festival zu
   zeigen. Es sei nur soviel gesagt: Wir hatten dieses Jahr extremes Glück mit
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5989"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Bildergalerie
   
 ---

@@ -2,7 +2,7 @@
 title: Trail Of Dead Live @Strøm München 12. April 2013
 seoTitle: Trail Of Dead live in München - Konzertbericht vom 12. April 2013
 slug: trail-of-dead-live-strom-munchen-12-april-2013
-link: /2013/04/trail-of-dead-live-strom-munchen-12-april-2013/
+path: /2013/04/trail-of-dead-live-strom-munchen-12-april-2013/
 fileName: 2013-04---trail-of-dead-live-stroem-muenchen-12-april-2013.md
 description: Bereits seit Wochen hatten wir die Karten für das And You Will Know
   Us By The Trail Of Dead Konzert an unserem Kalender hängen - Gestern war es
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5156"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Konzertbericht
   
 ---

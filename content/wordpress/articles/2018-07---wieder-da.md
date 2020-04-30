@@ -2,7 +2,7 @@
 title: Wieder da
 seoTitle: Wieder da! Jetzt geht es richtig los! Ich melde mich zurück
 slug: wieder-da
-link: /2018/07/wieder-da/
+path: /2018/07/wieder-da/
 fileName: 2018-07---wieder-da.md
 description: Es ist soweit! Ich bin wieder zurück in Hamburg! Jetzt geht es so
   richtig los hier! Hier schon mal ein paar Bilder aus Kopenhagen, Stockholm und
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21320"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Jetzt geht es richtig los!
   
 ---

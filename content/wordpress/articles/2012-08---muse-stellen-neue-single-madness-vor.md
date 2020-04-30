@@ -2,7 +2,7 @@
 title: Muse stellen neue Single "Madness" vor
 seoTitle: Muse stellen neue Single vor
 slug: muse-stellen-neue-single-madness-vor
-link: /2012/08/muse-stellen-neue-single-madness-vor/
+path: /2012/08/muse-stellen-neue-single-madness-vor/
 fileName: 2012-08---muse-stellen-neue-single-madness-vor.md
 description: Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen,
   dass die Band mit ihrer neuen Platte "The 2nd Law" die elektronische Seite des
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11700"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>Album "The 2nd Law" am 1. Oktober </strong>
   
 ---

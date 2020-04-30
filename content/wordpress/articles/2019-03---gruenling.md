@@ -2,7 +2,7 @@
 title: Grünling
 seoTitle: Grünling - frischer Smoothie mit Twist - mein Rezept für Dich
 slug: smoothie-gruenling
-link: /2019/03/smoothie-gruenling/
+path: /2019/03/smoothie-gruenling/
 fileName: 2019-03---gruenling.md
 description: Lust auf einen Smoothie? So eine leckere Vitaminbombe passt doch
   eigentlich immer gut, oder? Magst Du Kiwis? Super! Hier kommt mein Rezept für
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23741"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Smoothie mit Twist
   
 ---

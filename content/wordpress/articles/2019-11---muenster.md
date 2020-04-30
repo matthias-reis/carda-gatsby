@@ -2,7 +2,7 @@
 title: Münster
 seoTitle: Münster - musikalische Krimistadt in Nordrhein-Westfalen
 slug: muenster
-link: /2019/11/muenster/
+path: /2019/11/muenster/
 fileName: 2019-11---muenster.md
 description: Neulich haben wir die musikalische Krimistadt Münster erkundet.
   Dabei habe ich paar Bilder gemacht, die ich gerne mit Euch teilen möchte.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26707"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Musikalische Krimistadt in NRW
   
 ---

@@ -2,7 +2,7 @@
 title: Jean Stein
 seoTitle: Jean Stein - Anne bloggt cardamonchai
 slug: jean-stein
-link: /2010/06/jean-stein/
+path: /2010/06/jean-stein/
 fileName: 2010-06---jean-stein.md
 description: Jean Stein - Augsburg
 excerpt: In Augsburg gab es mal einen ganz besonderen Stein - nur Insider kennen ihn.
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11527"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesehen in Augsburg
   
 ---

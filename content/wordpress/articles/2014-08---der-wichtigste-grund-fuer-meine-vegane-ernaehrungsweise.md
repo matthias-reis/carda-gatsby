@@ -2,7 +2,7 @@
 title: Der wichtigste Grund für meine vegane Ernährungsweise
 seoTitle: Vegane Ernährungsweise - Mein wichtigster Grund dafür
 slug: der-wichtigste-grund-fur-meine-vegane-ernahrungsweise
-link: /2014/08/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/
+path: /2014/08/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/
 fileName: 2014-08---der-wichtigste-grund-fuer-meine-vegane-ernaehrungsweise.md
 description: Den wichtigsten Grund für meine vegane Ernährungsweise sollte ich
   nennen und schon hatte ich gewonnen! Ich freue mich wirklich sehr! Dank an
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8611"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ich habe was gewonnen!
   
 ---

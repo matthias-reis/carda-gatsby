@@ -2,7 +2,7 @@
 title: Auf der Startseite bei jetzt.de
 seoTitle: Meine Kurzgeschichte auf der Startseite bei jetzt.de
 slug: auf-der-startseite
-link: /2011/04/auf-der-startseite/
+path: /2011/04/auf-der-startseite/
 fileName: 2011-04---auf-der-startseite-bei-jetzt-de.md
 description: Heute ist das erste Mal eine meiner Kurzgeschichten auf der
   Startseite von jetzt.de gelandet! Ich bin natürlich stolz, wie Bolle. Hier
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "1753"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Meine Kurzgeschichte hat Erfolg
   
 ---

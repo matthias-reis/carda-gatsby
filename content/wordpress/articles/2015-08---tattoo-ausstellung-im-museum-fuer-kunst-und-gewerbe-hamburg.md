@@ -2,7 +2,7 @@
 title: Tattoo - Ausstellung im Museum für Kunst und Gewerbe Hamburg
 seoTitle: Tattoo - Museum für Kunst und Gewerbe Hamburg
 slug: tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg
-link: /2015/08/tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg/
+path: /2015/08/tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg/
 fileName: 2015-08---tattoo-ausstellung-im-museum-fuer-kunst-und-gewerbe-hamburg.md
 description: Gezeigt wird das Tattoo im Wandel der Zeit, verschiedene
   Stilrichtungen und Handwerkszeug von Tattoo-Artists verschiedener Epochen.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12323"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen und Tätowiernadeln
   
 ---

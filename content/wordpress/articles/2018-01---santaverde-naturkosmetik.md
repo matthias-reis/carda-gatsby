@@ -3,7 +3,7 @@ title: Santaverde Naturkosmetik
 seoTitle: Santaverde Naturkosmetik - Zertifizierte vegane Schönheitspflege auf
   Aloe Vera Basis
 slug: santaverde
-link: /2018/01/santaverde/
+path: /2018/01/santaverde/
 fileName: 2018-01---santaverde-naturkosmetik.md
 description: Santaverde bietet Naturkosmetik auf Basis wertvoller Aloe Vera. Ich
   habe die Produkte jetzt genau untersucht und ausprobiert. Hier ist mein
@@ -53,7 +53,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18999"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zertifizierte vegane Schönheitspflege auf Aloe Vera Basis
   
 ---

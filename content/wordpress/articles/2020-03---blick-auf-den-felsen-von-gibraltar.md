@@ -2,7 +2,7 @@
 title: Blick auf den Felsen von Gibraltar
 seoTitle: Wie es war und wie es mit Corona ist
 slug: corona-blick-auf-den-felsen-von-gibraltar
-link: /2020/03/corona-blick-auf-den-felsen-von-gibraltar/
+path: /2020/03/corona-blick-auf-den-felsen-von-gibraltar/
 fileName: 2020-03---blick-auf-den-felsen-von-gibraltar.md
 description: Letzten Sommer haben wir eine wunderbare Zeit in Südspanien
   verbracht. Langsames Reisen ohne Stress. Mit der Corona-Krise hat sich einiges
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28675"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wie es war und wie es mit Corona ist
   
 ---

@@ -2,7 +2,7 @@
 title: Dredg live @ Theaterfabrik München
 seoTitle: Dredg live @ Theaterfabrik München - Etwas Nostalgie
 slug: fast-ein-bisschen-nostalgie
-link: /2014/05/fast-ein-bisschen-nostalgie/
+path: /2014/05/fast-ein-bisschen-nostalgie/
 fileName: 2014-05---dredg-live-theaterfabrik-muenchen.md
 description: Am Dienstag wurden wir endlich für unsere Geduld belohnt. Dredg
   gaben sich in München die Ehre und da mussten wir natürlich dabei sein.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7976"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fast ein bisschen Nostalgie
   
 ---

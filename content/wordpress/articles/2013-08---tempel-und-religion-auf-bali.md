@@ -2,7 +2,7 @@
 title: Tempel und Religion auf Bali
 seoTitle: Tempel und Religion auf Bali - Eine Bildergalerie
 slug: tempel-und-religion-auf-bali
-link: /2013/08/tempel-und-religion-auf-bali/
+path: /2013/08/tempel-und-religion-auf-bali/
 fileName: 2013-08---tempel-und-religion-auf-bali.md
 description: Wer Bali besucht, sollte auf jeden Fall in den Tempel gehen - Auf
   unserer Reise durch das Land habe ich einige Eindrücke fotografisch
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6403"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unsere große Reise - Teil VI
   
 ---

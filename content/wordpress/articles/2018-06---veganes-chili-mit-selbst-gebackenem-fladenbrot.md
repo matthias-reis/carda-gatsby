@@ -2,7 +2,7 @@
 title: Veganes Chili mit selbst gebackenem Fladenbrot
 seoTitle: Veganes Chili mit selbst gebackenem Fladenbrot - Rezept für 2 Personen
 slug: veganes-chili-mit-fladenbrot
-link: /2018/06/veganes-chili-mit-fladenbrot/
+path: /2018/06/veganes-chili-mit-fladenbrot/
 fileName: 2018-06---veganes-chili-mit-selbst-gebackenem-fladenbrot.md
 description: "Ihr kommt ausgepowert vom Sport und habt Lust auf ein veganes
   Chili? Hier kommt ein geniales Rezept. Ich verspreche Euch: Ihr werdet satt
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21229"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept für zwei Personen
   
 ---

@@ -2,7 +2,7 @@
 title: Das Cradle-to-Cradle-Prinzip
 seoTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"
 slug: cradle-to-cradle-prinzip
-link: /2019/08/cradle-to-cradle-prinzip/
+path: /2019/08/cradle-to-cradle-prinzip/
 fileName: 2019-08---das-cradle-to-cradle-prinzip.md
 description: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie
   der konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25706"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Die Natur kennt keinen Müll"'
   
 ---

@@ -2,7 +2,7 @@
 title: Fischratgeber hinterfragt
 seoTitle: Fischratgeber hinterfragt - Überfischung und Kochrezepte
 slug: fischratgeber-hinterfragt
-link: /2020/04/fischratgeber-hinterfragt/
+path: /2020/04/fischratgeber-hinterfragt/
 fileName: 2020-04---fischratgeber-hinterfragt.md
 description: Die großen Umweltschutzorganisationen veröffentlichen jedes Jahr
   aufs neue sogenannte Fischratgeber. Ich habe sie kritisch hinterfragt.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29067"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Überfischung und Kochrezepte
   
 ---

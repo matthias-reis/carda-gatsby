@@ -2,7 +2,7 @@
 title: Fleischatlas 2018
 seoTitle: Fleischatlas 2018 - Broschüre zeigt die ungeschönte Wahrheit
 slug: fleischatlas-2018
-link: /2018/01/fleischatlas-2018/
+path: /2018/01/fleischatlas-2018/
 fileName: 2018-01---fleischatlas-2018.md
 description: Vor Kurzem veröffentlichte die Heinrich Böll Stiftung gemeinsam mit
   BUND und der deutschen Ausgabe von Le Monde Diplomatique den aktuellen
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24373"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Broschüre zeigt die ungeschönte Wahrheit
   
 ---

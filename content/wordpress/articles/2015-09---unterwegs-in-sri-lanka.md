@@ -2,7 +2,7 @@
 title: Unterwegs in Sri Lanka
 seoTitle: Unterwegs in Sri Lanka - Unser Reisebericht mit Bildern
 slug: unterwegs-in-sri-lanka
-link: /2015/09/unterwegs-in-sri-lanka/
+path: /2015/09/unterwegs-in-sri-lanka/
 fileName: 2015-09---unterwegs-in-sri-lanka.md
 description: Im Dezember und Januar reisten Matze und ich durch Sri Lanka. Dabei
   habe ich jede Menge Bilder aufgenommen, die ich Euch nicht vorenthalten
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12114"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unser Reisebericht mit Bildern
   
 ---

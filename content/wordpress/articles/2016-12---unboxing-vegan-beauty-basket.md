@@ -2,7 +2,7 @@
 title: Unboxing Vegan Beauty Basket
 seoTitle: Unboxing Vegan Beauty Basket - Die Weihnachtsedition
 slug: unboxing-vegan-beauty-basket-weihnachtsedition
-link: /2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/
+path: /2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/
 fileName: 2016-12---unboxing-vegan-beauty-basket.md
 description: Ein himmlischer Duft liegt in der Luft beim Unboxing der
   Weihnachtsedition des Vegan Beauty Basket. Jede Menge Überraschungen für jeden
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15532"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Weihnachtsedition
   
 ---

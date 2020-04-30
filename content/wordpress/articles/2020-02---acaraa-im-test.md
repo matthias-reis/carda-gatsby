@@ -2,7 +2,7 @@
 title: Acaraa im Test
 seoTitle: Acaraa im Test - natürliche Pflegeöle für Haut und Haar
 slug: acaraa-im-test
-link: /2020/02/acaraa-im-test/
+path: /2020/02/acaraa-im-test/
 fileName: 2020-02---acaraa-im-test.md
 description: Ich habe das Haaröl und der Hautöl von Acaraa getestet. Die
   Naturkosmetikprodukte aus München habe ich genau im richtigen Moment für mich
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27425"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Natürliche Pflegeöle für Haut und Haar
   
 ---

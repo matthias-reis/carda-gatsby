@@ -2,7 +2,7 @@
 title: Are you ready boots?
 seoTitle: Are your ready boots? Auf zum Southside Festival!
 slug: are-you-ready-boots
-link: /2013/06/are-you-ready-boots/
+path: /2013/06/are-you-ready-boots/
 fileName: 2013-06---are-you-ready-boots.md
 description: Are you ready boots? Der Rucksack ist gepackt! Morgen geht es auf
   das Southside Festival und die Vorfreude ist extrem groß!
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5980"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Southside Festival wir kommen!
   
 ---

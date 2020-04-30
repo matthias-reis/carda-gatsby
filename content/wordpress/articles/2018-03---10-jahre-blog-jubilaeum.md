@@ -2,7 +2,7 @@
 title: 10 Jahre Blog-Jubiläum
 seoTitle: 10 Jahre Blog-Jubiläum
 slug: 10-jahre-bloggen-jubilaeum
-link: /2018/03/10-jahre-bloggen-jubilaeum/
+path: /2018/03/10-jahre-bloggen-jubilaeum/
 fileName: 2018-03---10-jahre-blog-jubilaeum.md
 description: Jubiläum! Mein Blog wird in diesem Jahr 10 Jahre alt! Zeit für
   einen Rückblick, eine Bestandsaufnahme und einen kleinen Ausblick auf die
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20148"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rückblick und Bestandsaufnahme
   
 ---

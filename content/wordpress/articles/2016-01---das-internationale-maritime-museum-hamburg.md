@@ -2,7 +2,7 @@
 title: Das Internationale Maritime Museum Hamburg
 seoTitle: Das Internationale Maritime Museum in Hamburg
 slug: das-internationale-maritime-museum-hamburg
-link: /2016/01/das-internationale-maritime-museum-hamburg/
+path: /2016/01/das-internationale-maritime-museum-hamburg/
 fileName: 2016-01---das-internationale-maritime-museum-hamburg.md
 description: Vor ein paar Tagen haben wir uns das Internationale Maritime Museum
   in Hamburg angesehen. Ein wirklich lohnender Besuch, im Museum kann man alles
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13718"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Geschichte der Seefahrt
   
 ---

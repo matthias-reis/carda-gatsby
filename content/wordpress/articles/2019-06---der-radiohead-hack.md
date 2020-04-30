@@ -2,7 +2,7 @@
 title: Der Radiohead Hack
 seoTitle: Der Radiohead Hack - unveröffentlichtes OK Computer Material gestohlen
 slug: der-radiohead-hack
-link: /2019/06/der-radiohead-hack/
+path: /2019/06/der-radiohead-hack/
 fileName: 2019-06---der-radiohead-hack.md
 description: Nachdem ein Hacker der Band Radiohead unveröffentlichte Aufnahmen
   gestohlen hatte, entschied sich die Band die 18 Stunden Material zu
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24568"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"OK Computer" Material gestohlen'
   
 ---

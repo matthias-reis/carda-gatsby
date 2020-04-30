@@ -2,7 +2,7 @@
 title: Lukas von Kalle Kuul im Interview
 seoTitle: Lukas von Kalle Kuul im Interview - pünktlich zur Single Release
 slug: lukas-von-kalle-kuul-im-interview
-link: /2019/10/lukas-von-kalle-kuul-im-interview/
+path: /2019/10/lukas-von-kalle-kuul-im-interview/
 fileName: 2019-10---lukas-von-kalle-kuul-im-interview.md
 description: Pünktlich zur heutigen Release der Single "Die Prinzessin von
   Osnabrück" möchte ich Euch mein Interview mit Lukas von Kalle Kuul
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26578"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Als Erstes ist die Melodie da"'
   
 ---

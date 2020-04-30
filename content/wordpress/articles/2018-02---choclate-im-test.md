@@ -2,7 +2,7 @@
 title: Choclate im Test
 seoTitle: Choclate - Vegane Schokolade aus Hamburg - Ich habe getestet
 slug: choclate-vegane-schokolade-aus-hamburg
-link: /2018/02/choclate-vegane-schokolade-aus-hamburg/
+path: /2018/02/choclate-vegane-schokolade-aus-hamburg/
 fileName: 2018-02---choclate-im-test.md
 description: Christina Löbel stellt unter dem Namen Choclate in Hamburg vegane
   Bio-Fairtrade-Schokolade her. Ich habe sie jetzt probiert.
@@ -32,8 +32,7 @@ isAffiliate: false
 thumbnailId: "19805"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <li> (89:105)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (89:105)"
 subTitle: Vegane Schokolade aus Hamburg
   
 ---

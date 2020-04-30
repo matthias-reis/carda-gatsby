@@ -2,7 +2,7 @@
 title: Fabelwesen
 seoTitle: Wilde Fabelwesen im Eden Project im englischen St. Austell
 slug: fabelwesen
-link: /2012/08/fabelwesen/
+path: /2012/08/fabelwesen/
 fileName: 2012-08---fabelwesen.md
 description: Im Eden Projekt in St. Austell sind mir ein paar sehr interessante
   Fabelwesen begegnet. Sie haben sich sogar fotografieren lassen.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3724"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 8/9
   
 ---

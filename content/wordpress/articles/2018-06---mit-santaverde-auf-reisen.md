@@ -2,7 +2,7 @@
 title: Mit Santaverde auf Reisen
 seoTitle: Mit Santaverde auf Reisen - Urlaubsbegleiter aus der Beauty-Ecke
 slug: mit-santaverde-auf-reisen
-link: /2018/06/mit-santaverde-auf-reisen/
+path: /2018/06/mit-santaverde-auf-reisen/
 fileName: 2018-06---mit-santaverde-auf-reisen.md
 description: Wir gehen in Kürze wieder auf Reisen. Heute stelle ich Euch zwei
   meiner Urlaubsbegleiter vor. sie sind von Santaverde und besonders reizarm.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21280"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Urlaubsbegleiter aus der Beauty-Ecke
   
 ---

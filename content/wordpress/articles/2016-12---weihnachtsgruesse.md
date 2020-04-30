@@ -2,7 +2,7 @@
 title: Weihnachtsgrüße
 seoTitle: Weihnachtsgrüße - Frohe Festtage wünsche ich Euch allen
 slug: weihnachtsgruesse
-link: /2016/12/weihnachtsgruesse/
+path: /2016/12/weihnachtsgruesse/
 fileName: 2016-12---weihnachtsgruesse.md
 description: "Ich wünsche Euch allen frohe Festtage! Ich habe für Euch eine
   kleine Galerie gebastelt: Eure lieben Weihnachtsgrüße in meinem Blog. Auf ein
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15605"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Frohe Festtage...
   
 ---

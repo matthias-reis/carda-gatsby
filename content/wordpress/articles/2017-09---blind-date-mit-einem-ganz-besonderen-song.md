@@ -2,7 +2,7 @@
 title: Blind Date mit einem ganz besonderen Song
 seoTitle: '"I like birds" - Blind Date mit einem besonderen Song - Eels für die Seele'
 slug: i-like-birds-blind-date-mit-einem-ganz-besonderen-song
-link: /2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/
+path: /2017/09/i-like-birds-blind-date-mit-einem-ganz-besonderen-song/
 fileName: 2017-09---blind-date-mit-einem-ganz-besonderen-song.md
 description: '"I like birds" ist ein ganz besonderer Song. Ein Song für ein
   Blind Date. Von meiner Erfahrung damit möchte ich Euch heute berichten.'
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17878"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"I like birds" von Eels'
   
 ---

@@ -2,7 +2,7 @@
 title: Rote Bete Burgerbrötchen
 seoTitle: Rote Bete Burgerbrötchen - vegan, leicht und lecker
 slug: rote-bete-burgerbroetchen
-link: /2019/12/rote-bete-burgerbroetchen/
+path: /2019/12/rote-bete-burgerbroetchen/
 fileName: 2019-12---rote-bete-burgerbroetchen.md
 description: Heute möchte ich ein wunderbares Rezept für Burgerbrötchen mit Euch
   teilen. Sie sehen nicht nur toll aus - sie sind auch unglaublich lecker!
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27191"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nach einem Rezept aus der Kurkuma Kochschule
   
 ---

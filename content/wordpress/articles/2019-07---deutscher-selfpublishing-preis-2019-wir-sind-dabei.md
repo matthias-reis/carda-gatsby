@@ -2,7 +2,7 @@
 title: Deutscher Selfpublishing Preis 2019 - wir sind dabei!
 seoTitle: Deutscher Selfpublishing Preis 2019 - "Die Hermetiker" ist dabei!
 slug: deutscher-selfpublishing-preis-2019-wir-sind-dabei
-link: /2019/07/deutscher-selfpublishing-preis-2019-wir-sind-dabei/
+path: /2019/07/deutscher-selfpublishing-preis-2019-wir-sind-dabei/
 fileName: 2019-07---deutscher-selfpublishing-preis-2019-wir-sind-dabei.md
 description: Insgesamt 1.810 Titel wurden für den Deutschen Selfpublishing Preis
   angemeldet. Um so stolzer wir mit unserem Roman "Die Hermetiker" dabei zu
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24693"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Die Hermetiker" unter den Grafik-Finalist*innen im Juni'
   
 ---

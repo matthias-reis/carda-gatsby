@@ -2,7 +2,7 @@
 title: Mein Blog bei Facebook
 seoTitle: Anne bloggt cardamonchai auf Facebook - Klickt mal rein!
 slug: anne-bloggt-cardamonchai-auf-facebook
-link: /2011/05/anne-bloggt-cardamonchai-auf-facebook/
+path: /2011/05/anne-bloggt-cardamonchai-auf-facebook/
 fileName: 2011-05---mein-blog-bei-facebook.md
 description: Anne bloggt cardamonchai gibt es ab sofort auch auf Facebook! Ihr
   werdet dort regelmäßig über neue Artikel informiert. Klickt doch mal rein!
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "1831"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Klickt doch mal rein
   
 ---

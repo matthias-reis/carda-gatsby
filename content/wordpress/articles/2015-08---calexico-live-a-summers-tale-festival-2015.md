@@ -2,7 +2,7 @@
 title: Calexico live @ A Summer's Tale Festival 2015
 seoTitle: Calexico live @ A Summer's Tale Festival 2015
 slug: calexico-live-a-summers-tale-festival-2015
-link: /2015/08/calexico-live-a-summers-tale-festival-2015/
+path: /2015/08/calexico-live-a-summers-tale-festival-2015/
 fileName: 2015-08---calexico-live-a-summers-tale-festival-2015.md
 description: Endlich war es wieder soweit! Calexico spielten live auf dem A
   Summer's Tale Festival 2015. Dieses Mal habe ich ein paar ganz besondere
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12247"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein krönender Abschluss
   
 ---

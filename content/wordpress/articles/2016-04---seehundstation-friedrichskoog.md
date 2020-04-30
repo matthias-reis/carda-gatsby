@@ -2,7 +2,7 @@
 title: Seehundstation Friedrichskoog
 seoTitle: Seehundstation Friedrichskoog - Die Retter von der Nordsee
 slug: seehundstation-friedrichskoog
-link: /2016/04/seehundstation-friedrichskoog/
+path: /2016/04/seehundstation-friedrichskoog/
 fileName: 2016-04---seehundstation-friedrichskoog.md
 description: In der Seehundstation Friedrichskoog kümmert man sich um
   Weisenkinder und verletzte Tiere. Die Seehunde und Robben werden dort gepflegt
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14380"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Tierretter von der Nordseeküste
   
 ---

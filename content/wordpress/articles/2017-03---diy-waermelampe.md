@@ -2,7 +2,7 @@
 title: DIY Wärmelampe
 seoTitle: DIY Wärmelampe zum Entspannen - Wellness für zu Hause
 slug: diy-waermelampe
-link: /2017/03/diy-waermelampe/
+path: /2017/03/diy-waermelampe/
 fileName: 2017-03---diy-waermelampe.md
 description: Heute möchte ich Euch zeigen, wie Ihr Euch ganz leicht eine
   hochwertige Wärmelampe für zu Hause bauen könnt. Ihr werdet erstaunt sein, wie
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16163"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wellness für zu Hause
   
 ---

@@ -2,7 +2,7 @@
 title: 13 Songs für den Dezember 2019
 seoTitle: 13 Songs für den Dezember - präsentiert von den drei von der Bande
 slug: 13-songs-fuer-den-dezember
-link: /2019/11/13-songs-fuer-den-dezember/
+path: /2019/11/13-songs-fuer-den-dezember/
 fileName: 2019-11---13-songs-fuer-den-dezember-2019.md
 description: Das Jahr neigt sich dem Ende zu - die gute Musik zum Glück nicht.
   Wir haben heute 12 Songs für Euren Dezember für Euch auf Lager.
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27012"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

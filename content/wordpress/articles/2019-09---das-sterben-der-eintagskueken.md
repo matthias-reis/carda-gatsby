@@ -2,7 +2,7 @@
 title: Das Sterben der Eintagsküken
 seoTitle: 100.000 Küken werden pro Tag getötet - Grausame Hühnerzucht
 slug: das-sterben-der-eintagskueken
-link: /2019/09/das-sterben-der-eintagskueken/
+path: /2019/09/das-sterben-der-eintagskueken/
 fileName: 2019-09---das-sterben-der-eintagskueken.md
 description: 45 Millionen männliche Hühnerküken werden pro Jahr alleine in
   Deutschland getötet. Weltweit sind es mehr als 100.000 pro Tag.
@@ -28,8 +28,7 @@ isAffiliate: false
 thumbnailId: "26192"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (100:15)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (100:15)"
 subTitle: Grausame Hühnerzucht
   
 ---

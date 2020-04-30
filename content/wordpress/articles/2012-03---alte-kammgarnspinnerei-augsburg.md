@@ -2,7 +2,7 @@
 title: Alte Kammgarnspinnerei Augsburg
 seoTitle: Fotos aus der alten Kammgarnspinnerei Augsburg
 slug: kammgarnspinnerei-augsburg
-link: /2012/03/kammgarnspinnerei-augsburg/
+path: /2012/03/kammgarnspinnerei-augsburg/
 fileName: 2012-03---alte-kammgarnspinnerei-augsburg.md
 description: Hier ist meine Bildergalerie aus der nächtlichen Kammgarnspinnerei
   Augsburg - Habt Ihr schon mal Nachtaufnahmen gemacht? Was sind Eure
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2950"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das nächtliche Klettern in den Ruinen ist strengstens untersagt
   
 ---

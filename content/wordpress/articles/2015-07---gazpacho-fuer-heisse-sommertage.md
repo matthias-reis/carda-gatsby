@@ -2,7 +2,7 @@
 title: Gazpacho für heiße Sommertage
 seoTitle: Gazpacho für heiße Sommertage
 slug: gazpacho-fuer-heisse-sommertage
-link: /2015/07/gazpacho-fuer-heisse-sommertage/
+path: /2015/07/gazpacho-fuer-heisse-sommertage/
 fileName: 2015-07---gazpacho-fuer-heisse-sommertage.md
 description: Die liebe Frau Tofuwunder hat mir lieb und toll wie sie ist eines
   ihrer leckeren, veganen Rezepte zur Verfügung gestellt. Jetzt nachkochen!
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12100"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ice Ice Suppe!
   
 ---

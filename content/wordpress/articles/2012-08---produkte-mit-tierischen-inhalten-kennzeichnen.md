@@ -2,7 +2,7 @@
 title: Produkte mit tierischen Inhalten kennzeichnen
 seoTitle: Produkte mit tierischen Inhalten kennzeichnen - Aktion von Foodwatch
 slug: produkte-mit-tierischen-inhalten-kennzeichnen
-link: /2012/08/produkte-mit-tierischen-inhalten-kennzeichnen/
+path: /2012/08/produkte-mit-tierischen-inhalten-kennzeichnen/
 fileName: 2012-08---produkte-mit-tierischen-inhalten-kennzeichnen.md
 description: Foodwatch hat eine Mitmach-Aktion ins Leben gerufen, damit Produkte
   mit tierischen Inhalten in Zukunft gekennzeichnet werden.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11703"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Food-Watch ruft Mitmach-Aktion ins Leben
   
 ---

@@ -2,7 +2,7 @@
 title: Die seltsame Stimmung der knalligen Blüten
 seoTitle: Die seltsame Stimmung der knalligen Blüten - Flarf-Gedicht
 slug: die-seltsame-stimmung-der-knalligen-blueten
-link: /2016/10/die-seltsame-stimmung-der-knalligen-blueten/
+path: /2016/10/die-seltsame-stimmung-der-knalligen-blueten/
 fileName: 2016-10---die-seltsame-stimmung-der-knalligen-blueten.md
 description: Einige von Euch können sich vielleicht noch an meine Flarf-Gedichte
   erinnern. Stimmung, die durch aneinandergereihte Suchergebnisse entsteht -
@@ -28,8 +28,7 @@ isAffiliate: false
 thumbnailId: "15259"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (22:35)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:35)"
 subTitle: Gedicht zum Herbst
   
 ---

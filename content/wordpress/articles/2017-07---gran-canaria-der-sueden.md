@@ -2,7 +2,7 @@
 title: Gran Canaria - der Süden
 seoTitle: Gran Canaria - der Süden - Mit dem Boot von Bucht zu Bucht
 slug: gran-canaria-der-sueden
-link: /2017/07/gran-canaria-der-sueden/
+path: /2017/07/gran-canaria-der-sueden/
 fileName: 2017-07---gran-canaria-der-sueden.md
 description: Gran Canaria ist spannend und vielfältig. Wir haben mit dem Boot
   den Süden erkundet und dabei von Arguineguín bis Puerto de Mogan so einiges
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17237"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mit dem Boot von Bucht zu Bucht
   
 ---

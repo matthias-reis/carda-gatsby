@@ -2,7 +2,7 @@
 title: '"The 2nd Law" ist da!'
 seoTitle: Muse - The 2nd Law ist da - hier kommt meine Rezension
 slug: muse-the-second-law-ist-da
-link: /2012/09/muse-the-second-law-ist-da/
+path: /2012/09/muse-the-second-law-ist-da/
 fileName: 2012-09---the-2nd-law-ist-da.md
 description: Wie der Fürst der Finsternis auf Reifen bin ich zur Packing-Station
   gefahren und habe mein Fach gelehrt. Die neue Muse-Platte "The 2nd Law" ist
@@ -93,7 +93,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4222"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neues Album von Muse
   
 ---

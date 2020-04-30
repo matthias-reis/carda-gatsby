@@ -2,7 +2,7 @@
 title: Die fünfte Ausgabe vom Welt Vegan Magazin ist da!
 seoTitle: Das neue Welt Vegan Magazin - Wieder zwei Artikel von mir
 slug: die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da
-link: /2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/
+path: /2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/
 fileName: 2015-10---die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da.md
 description: Das neue Welt Vegan Magazin liegt ab sofort druckfrisch beim Eurem
   Zeitschriftenhändler. Auch von mir sind wieder zwei Artikel dabei.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13392"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zwei Artikel sind von mir
   
 ---

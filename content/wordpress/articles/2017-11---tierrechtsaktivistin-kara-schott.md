@@ -2,7 +2,7 @@
 title: Tierrechtsaktivistin Kara Schott
 seoTitle: Puss In Boots Animal Rescue And Adoption stellt sich vor - Interview
 slug: puss-in-boots-animal-rescue-and-adoption
-link: /2017/11/puss-in-boots-animal-rescue-and-adoption/
+path: /2017/11/puss-in-boots-animal-rescue-and-adoption/
 fileName: 2017-11---tierrechtsaktivistin-kara-schott.md
 description: Im zweiten Teil meines Interview mit Kara erfahrt Ihr heute alles
   über die Irische Tier-Auffangstation Puss in Boots Animal Rescue and Adoption.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18373"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Teil 2/2 - Puss In Boots Animal Rescue &amp; Adoption stellt sich vor
   
 ---

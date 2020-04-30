@@ -2,7 +2,7 @@
 title: Rock Of Cashel
 seoTitle: Rock Of Cashel - Ein geschichtsträchtiger Ort - Geschichte & Fotos
 slug: rock-of-cashel
-link: /2017/11/rock-of-cashel/
+path: /2017/11/rock-of-cashel/
 fileName: 2017-11---rock-of-cashel.md
 description: Der Rock Of Cashel ist ein mystischer Ort. Längst vergangene
   Zeiten, Macht und Ohnmacht spiegeln sich in ihm wieder. Raben ziehen ihre
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: "18483"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (84:83)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (84:83)"
 subTitle: Ein geschichtsträchtiger Ort
   
 ---

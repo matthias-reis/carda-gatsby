@@ -2,7 +2,7 @@
 title: Amsterdam
 seoTitle: Amsterdam - Grachten, Gassen und Poesie
 slug: amsterdam
-link: /2018/03/amsterdam/
+path: /2018/03/amsterdam/
 fileName: 2018-03---amsterdam.md
 description: Hier sind meine Fotos von unserer Stadtbesichtigung in Amsterdam im
   Januar. Wir hatten großes Glück mit dem Wetter - daher gibt es auch Sonne zu
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20095"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Grachten, Gassen und Poesie
   
 ---

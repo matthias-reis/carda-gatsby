@@ -2,7 +2,7 @@
 title: Kosmetiktasche zum Selbernähen
 seoTitle: Kosmetiktasche zum Selbernähen - DIY-Anleitung für Dich
 slug: kosmetiktasche-zum-selbernaehen
-link: /2017/02/kosmetiktasche-zum-selbernaehen/
+path: /2017/02/kosmetiktasche-zum-selbernaehen/
 fileName: 2017-02---kosmetiktasche-zum-selbernaehen.md
 description: Heute habe ich eine tolle Nähanleitung für Euch, mit der Ihr ganz
   schnell Eure individuell gestaltete Kosmetiktasche schneidern könnt.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15868"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nähanleitung
   
 ---

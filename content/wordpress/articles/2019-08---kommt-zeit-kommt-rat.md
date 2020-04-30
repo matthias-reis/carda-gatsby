@@ -2,7 +2,7 @@
 title: Kommt Zeit, kommt Rat
 seoTitle: Kommt Zeit, kommt Rat - so ist das mit der Gewissheit
 slug: kommt-zeit-kommt-rat
-link: /2019/08/kommt-zeit-kommt-rat/
+path: /2019/08/kommt-zeit-kommt-rat/
 fileName: 2019-08---kommt-zeit-kommt-rat.md
 description: Kommt Zeit, kommt Rat - Gewissheit kehrt häufig erst dann ein, wenn
   etwas Unvorhergesehenes passiert und sich die Gesamtsituation ändert.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25744"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Alles Ansichtssache
   
 ---

@@ -2,7 +2,7 @@
 title: Zwischen den Zeilen lesen
 seoTitle: Zwischen den Zeilen lesen - Prosa im Vorbeifahren
 slug: zwischen-den-zeilen-lesen
-link: /2011/07/zwischen-den-zeilen-lesen/
+path: /2011/07/zwischen-den-zeilen-lesen/
 fileName: 2011-07---zwischen-den-zeilen-lesen.md
 description: Manchmal muss man einfach rechts blinken und links abbiegen.
   Würdest du jetzt im Bus sitzen, würdest du das alles aufschreiben.
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2223"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Prosa im Vorbeifahren
   
 ---

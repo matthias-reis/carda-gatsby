@@ -2,7 +2,7 @@
 title: Abschied von Dir
 seoTitle: Abschied von Dir - Tschüss, mach es gut - Ein Gedicht
 slug: abschied-von-dir
-link: /2018/04/abschied-von-dir/
+path: /2018/04/abschied-von-dir/
 fileName: 2018-04---abschied-von-dir.md
 description: Tanz noch einmal. Schließe Deine Augen. In der Stille. Die Sonne
   färbt den Himmel. Wir nehmen Abschied von Dir. Liegen im goldenen Licht.
@@ -32,8 +32,7 @@ isAffiliate: false
 thumbnailId: "20479"
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

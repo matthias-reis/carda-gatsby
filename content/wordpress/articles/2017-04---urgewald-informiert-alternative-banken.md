@@ -2,7 +2,7 @@
 title: "urgewald informiert: Alternative Banken"
 seoTitle: Alternative Banken - urgewald informiert - Diese Banken machen es anders
 slug: alternative-banken-urgewald-informiert
-link: /2017/04/alternative-banken-urgewald-informiert/
+path: /2017/04/alternative-banken-urgewald-informiert/
 fileName: 2017-04---urgewald-informiert-alternative-banken.md
 description: Heute möchte ich wie versprochen ein paar alternative Banken
   vorstellen. Diese vier Banken machen es anders. Sie stecken das Geld in
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16352"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Teil 2/2 Diese Banken machen es anders
   
 ---

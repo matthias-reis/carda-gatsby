@@ -2,7 +2,7 @@
 title: Beauty-Lieblinge - Naturkosmetik von Primavera
 seoTitle: Beauty-Lieblinge - Primavera Naturkosmetik - Sensitivpflege mit Borretsch
 slug: primavera-senstivpflege
-link: /2018/04/primavera-senstivpflege/
+path: /2018/04/primavera-senstivpflege/
 fileName: 2018-04---beauty-lieblinge-naturkosmetik-von-primavera.md
 description: Heute möchte ich Euch ein paar neue Beauty Lieblinge aus meinem
   Badschrank vorstellen. Die Sensitivpflege von Primavera hat eine neue
@@ -50,8 +50,7 @@ isAffiliate: false
 thumbnailId: "20586"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (42:47)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (42:47)"
 subTitle: Sensitivpflege mit Manuka und Borretsch
   
 ---

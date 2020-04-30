@@ -2,7 +2,7 @@
 title: Das freie Wochenende
 seoTitle: Das freie Wochenende - Fieber im Nebel - eine wahre Geschichte
 slug: das-freie-wochenende
-link: /2017/02/das-freie-wochenende/
+path: /2017/02/das-freie-wochenende/
 fileName: 2017-02---das-freie-wochenende.md
 description: Ein freies Wochenende hatte ich schon sehr lange nicht mehr. Wir
   wollten Samstag und Sonntag am Meer also mal so richtig genießen. Doch es kam
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15917"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fieber im Nebel
   
 ---

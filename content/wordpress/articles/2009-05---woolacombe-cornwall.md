@@ -2,7 +2,7 @@
 title: Woolacombe, Cornwall
 seoTitle: Woolacombe, Cornwall - Anne bloggt cardamonchai
 slug: woolacombe-cornwall-13-05-2009
-link: /2009/05/woolacombe-cornwall-13-05-2009/
+path: /2009/05/woolacombe-cornwall-13-05-2009/
 fileName: 2009-05---woolacombe-cornwall.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Woolacombe"
 excerpt: In Woolacombe in Cornwall kann man nicht nur wunderbar surfen. Auch
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11269"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009- Teil 6/17
   
 ---

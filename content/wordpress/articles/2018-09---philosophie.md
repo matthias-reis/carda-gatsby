@@ -2,7 +2,7 @@
 title: Philosophie
 seoTitle: Philosophie - Die Kunst des Nachdenkens - Von Nietzsche bis Precht
 slug: philosophie
-link: /2018/09/philosophie/
+path: /2018/09/philosophie/
 fileName: 2018-09---philosophie.md
 description: Philosophie - Was ist das eigentlich genau? Der Versuch, die
   menschliche Existenz zu begründen - warum ist er im digitalen Zeitalter so
@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22067"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Kunst des Nachdenkens
   
 ---

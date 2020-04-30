@@ -2,7 +2,7 @@
 title: Das abgesagte Konzert
 seoTitle: Konzert abgesagt - Ticketshop überfordert - Neues aus der Servicewüste
 slug: konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste
-link: /2013/03/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/
+path: /2013/03/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/
 fileName: 2013-03---das-abgesagte-konzert.md
 description: Konzert abgesagt - Zwei Wörter. Wäre nett, wenn man sie mit den
   Menschen, welche die Veranstaltung besuchen wollten, geteilt hätte.
@@ -55,7 +55,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5006"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nächstes Mal wird es dafür doppelt schön
   
 ---

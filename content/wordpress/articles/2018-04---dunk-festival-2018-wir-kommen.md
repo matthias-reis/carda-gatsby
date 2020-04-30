@@ -2,7 +2,7 @@
 title: Dunk!festival 2018 wir kommen!
 seoTitle: Dunk!festival 2018 wir kommen - Post-Rock rund um die Uhr
 slug: dunkfest-2018-wir-kommen
-link: /2018/04/dunkfest-2018-wir-kommen/
+path: /2018/04/dunkfest-2018-wir-kommen/
 fileName: 2018-04---dunk-festival-2018-wir-kommen.md
 description: Auch in diesem Jahr werden wir wieder das Dunk!festival im
   Belgischen Zottegem bereisen. Die Vorfreude steigt. Bald geht es los!
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16753"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Post-Rock rund um die Uhr
   
 ---

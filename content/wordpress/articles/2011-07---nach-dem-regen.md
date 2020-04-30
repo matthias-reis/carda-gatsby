@@ -2,7 +2,7 @@
 title: Nach dem Regen
 seoTitle: Nach dem Regen - Prosa ohne Wolken
 slug: nach-dem-regen
-link: /2011/07/nach-dem-regen/
+path: /2011/07/nach-dem-regen/
 fileName: 2011-07---nach-dem-regen.md
 description: Es hat aufgehört zu regnen. Alles ist viel klarer jetzt. Ganz
   anders, als wenn es langsam nachlässt.
@@ -55,7 +55,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11578"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Prosa ohne Wolken
   
 ---

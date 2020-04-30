@@ -2,7 +2,7 @@
 title: Verein Küste gegen Plastik
 seoTitle: Replace Plastic App soll Plastikmüllflut stoppen - Küste gegen Plastik
 slug: replace-plastic-app-kueste-gegen-plastik
-link: /2018/08/replace-plastic-app-kueste-gegen-plastik/
+path: /2018/08/replace-plastic-app-kueste-gegen-plastik/
 fileName: 2018-08---verein-kueste-gegen-plastik.md
 description: Mit der vom Verein "Küste gegen Plastik" entwickelten App "Replace
   Plastic" kann man Firmen den Wunsch nach nachhaltigeren Verpackungen
@@ -40,7 +40,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12133"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Replace Plastic App soll Plastikflut stoppen
   
 ---

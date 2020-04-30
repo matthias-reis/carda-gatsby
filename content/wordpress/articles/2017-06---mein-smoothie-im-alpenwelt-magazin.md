@@ -2,7 +2,7 @@
 title: Mein Smoothie im Alpenwelt Magazin
 seoTitle: Mein Smoothie im Alpenwelt Magazin - Rock'n'Roll vegan goes Berge
 slug: mein-smoothie-im-alpenwelt-magazin
-link: /2017/06/mein-smoothie-im-alpenwelt-magazin/
+path: /2017/06/mein-smoothie-im-alpenwelt-magazin/
 fileName: 2017-06---mein-smoothie-im-alpenwelt-magazin.md
 description: Das Alpenwelt Magazin hat an meine digitale Tür geklopft und
   gefragt, ob ich einen Smoothie zu ihrem aktuellen Artikel beitragen möchte.
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17006"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rock'n'Roll vegan goes Berge
   
 ---

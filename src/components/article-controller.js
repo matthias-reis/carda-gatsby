@@ -39,7 +39,7 @@ export const query = graphql`
       frontmatter {
         title
         subTitle
-        link
+        path
         description
         image {
           childImageSharp {

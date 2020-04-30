@@ -2,7 +2,7 @@
 title: Verlosung - T-Shirt-Idee
 seoTitle: Verlosung - T-Shirt-Idee - Die Bildergalerie
 slug: verlosung-t-shirt-idee-die-bildergalerie
-link: /2012/10/verlosung-t-shirt-idee-die-bildergalerie/
+path: /2012/10/verlosung-t-shirt-idee-die-bildergalerie/
 fileName: 2012-10---verlosung-t-shirt-idee.md
 description: Die Gewinner meiner Verlosung haben sich mit ihren Shirts fotografiert
 excerpt: Wie inzwischen alle mitbekommen haben sollten, war gestern der
@@ -112,8 +112,7 @@ isAffiliate: false
 thumbnailId: "4238"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (7:15)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (7:15)"
 subTitle: Die Bildergalerie
   
 ---

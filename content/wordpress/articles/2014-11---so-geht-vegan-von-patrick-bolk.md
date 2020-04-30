@@ -2,7 +2,7 @@
 title: '"So geht vegan" von Patrick Bolk'
 seoTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
 slug: so-geht-vegan-von-patrick-bolk
-link: /2014/11/so-geht-vegan-von-patrick-bolk/
+path: /2014/11/so-geht-vegan-von-patrick-bolk/
 fileName: 2014-11---so-geht-vegan-von-patrick-bolk.md
 description: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen
   persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24390"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Buch für Vegan-Einsteiger
   
 ---

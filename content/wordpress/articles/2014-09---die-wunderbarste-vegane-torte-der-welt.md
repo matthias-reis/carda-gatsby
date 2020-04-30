@@ -2,7 +2,7 @@
 title: Die wunderbarste vegane Torte der Welt
 seoTitle: Die wunderbarste vegane Torte der Welt - Vegane Sahnetorte
 slug: die-wunderbarste-vegane-torte-der-welt
-link: /2014/09/die-wunderbarste-vegane-torte-der-welt/
+path: /2014/09/die-wunderbarste-vegane-torte-der-welt/
 fileName: 2014-09---die-wunderbarste-vegane-torte-der-welt.md
 description: Vegane Torte - wunderbar lecker und saftige - Ich verrate Euch
   heute ein Rezept, dass Ihr immer wieder verwenden werdet - Vegane Torte vom
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8794"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Sahnetorte
   
 ---

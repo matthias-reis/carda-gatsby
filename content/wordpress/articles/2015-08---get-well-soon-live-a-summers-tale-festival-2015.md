@@ -2,7 +2,7 @@
 title: Get Well Soon live @ A Summer's Tale Festival 2015
 seoTitle: Get Well Soon live @ A Summer's Tale Festival 2015
 slug: get-well-soon-live-a-summers-tale-festival-2015
-link: /2015/08/get-well-soon-live-a-summers-tale-festival-2015/
+path: /2015/08/get-well-soon-live-a-summers-tale-festival-2015/
 fileName: 2015-08---get-well-soon-live-a-summers-tale-festival-2015.md
 description: Get Well Soon sorgten beim neuen A Summer's Tale Festival für
   Stimmung. Ich habe ein paar Eindrücke fotografisch für Euch festgehalten.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12231"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Von Feen und Harmonie
   
 ---

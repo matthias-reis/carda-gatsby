@@ -2,7 +2,7 @@
 title: Calexico live @ Southside Festival 2008
 seoTitle: Calexico live @ Southside Festival 2008
 slug: calexico-live-southside-festival-2008
-link: /2015/04/calexico-live-southside-festival-2008/
+path: /2015/04/calexico-live-southside-festival-2008/
 fileName: 2015-04---calexico-live-southside-festival-2008.md
 description: Hier sind meine Eindrücke vom Calexico-Konzert auf dem Southside Festival 2008
 excerpt: Anlässlich der neuen Platte und des tollen Konzerts gestern in der
@@ -19,7 +19,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11830"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

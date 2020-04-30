@@ -2,7 +2,7 @@
 title: Aubergine mit Bohnen-Bratkartoffeln
 seoTitle: Aubergine mit Bohnen-Bratkartoffeln - vegan
 slug: aubergine-mit-bohnen-bratkartoffeln
-link: /2020/02/aubergine-mit-bohnen-bratkartoffeln/
+path: /2020/02/aubergine-mit-bohnen-bratkartoffeln/
 fileName: 2020-02---aubergine-mit-bohnen-bratkartoffeln.md
 description: Heute verrät uns Matze sein grandioses Rezept für geschmorte
   Aubergine mit mit Bohnen-Bratkartoffeln. Ich wünsche Euch viel Spaß beim
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27499"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganes Rezept für zwei Personen
   
 ---

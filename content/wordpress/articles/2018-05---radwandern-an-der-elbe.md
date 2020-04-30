@@ -2,7 +2,7 @@
 title: Radwandern an der Elbe
 seoTitle: Radwandern mit Badepausen an der Elbe - Nur Urlaub ist schöner
 slug: radwandern-an-der-elbe
-link: /2018/05/radwandern-an-der-elbe/
+path: /2018/05/radwandern-an-der-elbe/
 fileName: 2018-05---radwandern-an-der-elbe.md
 description: Wenn man einen freien Sonntag hat und das Wetter ist schön, sollte
   man sich einen Ausflug an die Elbe gönnen. Wir haben das  heute getan.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21053"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nur Urlaub ist schöner
   
 ---

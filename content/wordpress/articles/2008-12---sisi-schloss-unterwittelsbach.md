@@ -2,7 +2,7 @@
 title: Sisi-Schloss Unterwittelsbach
 seoTitle: Sisi-Schloss bei Unterwittelsbach
 slug: sisi-schloss-unterwittelsbach
-link: /2008/12/sisi-schloss-unterwittelsbach/
+path: /2008/12/sisi-schloss-unterwittelsbach/
 fileName: 2008-12---sisi-schloss-unterwittelsbach.md
 description: Das Sisi-Schloss bei Unterwittelsbach ist ein echtes Märchenschloss...
 excerpt: Das Wasserschloss in Aichacher Stadtteil Unterwittelsbach ist den
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11013"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Märchenschloss bei Aichach
   
 ---

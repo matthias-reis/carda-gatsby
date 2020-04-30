@@ -2,7 +2,7 @@
 title: Blind Date mit einem Song
 seoTitle: Blind Date mit einem Song - Summerwine von Nancy Sinatra
 slug: blind-date-summerwine
-link: /2017/07/blind-date-summerwine/
+path: /2017/07/blind-date-summerwine/
 fileName: 2017-07---blind-date-mit-einem-song.md
 description: Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es
   dazu kam? Man lud mich ein, einen Song zu hören und eine Geschichte darüber zu
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17157"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Summerwine" von Nancy Sinatra'
   
 ---

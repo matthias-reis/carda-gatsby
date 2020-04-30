@@ -2,7 +2,7 @@
 title: Metamorphose
 seoTitle: Metamorphose - Die Fliege - Prosa
 slug: metamorphose
-link: /2014/08/metamorphose/
+path: /2014/08/metamorphose/
 fileName: 2014-08---metamorphose.md
 description: Metamorphose - Die Fliege - "Tage, an denen Du am Fenster gesessen
   und auf die Straße gestarrt hast..." - Prosa für zwischendurch
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8166"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Fliege
   
 ---

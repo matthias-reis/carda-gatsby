@@ -2,7 +2,7 @@
 title: Jomu ist Test
 seoTitle: Gerstengras von Jomu im Test - Detox für das Wohlbefunden
 slug: gerstengras-jomu
-link: /2019/05/gerstengras-jomu/
+path: /2019/05/gerstengras-jomu/
 fileName: 2019-05---jomu-ist-test.md
 description: Ich habe die Gerstengras-Produkte von Jomu getestet und damit einen
   leckeren Smoothie zubereitet. Ich verrate Euch heute einiges über das Produkt.
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24197"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gerstengras für das Wohlbefinden
   
 ---

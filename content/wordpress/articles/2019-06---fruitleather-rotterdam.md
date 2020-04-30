@@ -2,7 +2,7 @@
 title: Fruitleather Rotterdam
 seoTitle: Leder aus aussortierten Früchten - Fruitleather Rotterdam
 slug: fruitleather-rotterdam
-link: /2019/06/fruitleather-rotterdam/
+path: /2019/06/fruitleather-rotterdam/
 fileName: 2019-06---fruitleather-rotterdam.md
 description: In Rotterdam gibt es eine Firma, die aus aussortierten Früchten
   Leder herstellt. Anschließend können daraus Handtaschen und Schuhe hergestellt
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24591"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganes Leder aus aussortierten Früchten
   
 ---

@@ -2,7 +2,7 @@
 title: Valentins 11 Alben des Jahres 2018
 seoTitle: Valentins 11 Alben des Jahres - Die drei von der Bande präsentieren
 slug: valentins-11-alben-des-jahres-2018
-link: /2018/12/valentins-11-alben-des-jahres-2018/
+path: /2018/12/valentins-11-alben-des-jahres-2018/
 fileName: 2018-12---valentins-11-alben-des-jahres-2018.md
 description: Heute möchte ich Euch 11 ganz besondere Alben aus dem Jahr 2018
   vorspielen. Sie wurden von dem wohl musikbegeistertsten Menschen ausgewählt,
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23097"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Präsentiert von den drei von der Bande
   
 ---

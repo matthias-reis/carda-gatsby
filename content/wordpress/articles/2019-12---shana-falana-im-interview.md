@@ -2,7 +2,7 @@
 title: Shana Falana im Interview
 seoTitle: Shana Falana im Interview - "Druggy Music By Sober People"
 slug: shana-falana-interview
-link: /2019/12/shana-falana-interview/
+path: /2019/12/shana-falana-interview/
 fileName: 2019-12---shana-falana-im-interview.md
 description: Shana Falana hat vor Kurzem ihr Album "Darkest Light"
   veröffentlicht. Jetzt habe ich mich mit der New Yorker Musikerin zum Interview
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27070"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Druggy music by sober people"'
   
 ---

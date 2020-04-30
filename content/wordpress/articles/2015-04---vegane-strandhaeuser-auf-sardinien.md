@@ -2,7 +2,7 @@
 title: Vegane Strandhäuser auf Sardinien
 seoTitle: Vegane Strandhäuser auf Sardinien - ein Interview
 slug: vegane-strandhaeuser-auf-sardinien
-link: /2015/04/vegane-strandhaeuser-auf-sardinien/
+path: /2015/04/vegane-strandhaeuser-auf-sardinien/
 fileName: 2015-04---vegane-strandhaeuser-auf-sardinien.md
 description: Ich habe mich mit Matteo Mureddu, dem Gründer von "Vegan Travel
   Sardinia" unterhalten. Er hat mir viele Details über Sardinien und seine
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24358"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegan Holiday Sardinia
   
 ---

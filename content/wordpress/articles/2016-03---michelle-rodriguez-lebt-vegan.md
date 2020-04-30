@@ -2,7 +2,7 @@
 title: Michelle Rodriguez lebt vegan
 seoTitle: Michelle Rodriguez lebt vegan - Fast And Furious Star setzt auf pflanzlich
 slug: michelle-rodriguez-lebt-vegan
-link: /2016/03/michelle-rodriguez-lebt-vegan/
+path: /2016/03/michelle-rodriguez-lebt-vegan/
 fileName: 2016-03---michelle-rodriguez-lebt-vegan.md
 description: Der weibliche Star der Filmreihe "Fast and Furious" Michelle
   Rodriguez hat auf vegane Ernährung umgestellt. Eine Dokumentation war bei ihr
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28949"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fast And Furious Star setzt auf pflanzliche Ernährung
   
 ---

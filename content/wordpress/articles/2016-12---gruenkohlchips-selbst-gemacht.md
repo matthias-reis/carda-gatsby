@@ -2,7 +2,7 @@
 title: Grünkohlchips selbst gemacht
 seoTitle: Grünkohlchips selbst gemacht - Rezept für Kale Chips aus dem Ofen
 slug: gruenkohlchips-selbst-gemacht
-link: /2016/12/gruenkohlchips-selbst-gemacht/
+path: /2016/12/gruenkohlchips-selbst-gemacht/
 fileName: 2016-12---gruenkohlchips-selbst-gemacht.md
 description: Winterzeit ist Grünkohlzeit. Ich verrate Euch heute mein Rezept für
   leckere Grünkohlchips. Im Ofen gelingen die beliebten Kale Chips ganz leicht.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15466"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezept für Kale Chips aus dem Ofen
   
 ---

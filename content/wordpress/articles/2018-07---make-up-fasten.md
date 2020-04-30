@@ -2,7 +2,7 @@
 title: Make-up-Fasten
 seoTitle: Make-up-Fasten - Einfach mal auf Schminke verzichten
 slug: make-up-fasten
-link: /2018/07/make-up-fasten/
+path: /2018/07/make-up-fasten/
 fileName: 2018-07---make-up-fasten.md
 description: Ich liebe Make-up und trage es schon seit meiner frühesten Jugend
   täglich. Doch ab und zu genieße ich es auch, mal ein paar Tage darauf zu
@@ -43,8 +43,7 @@ isAffiliate: false
 thumbnailId: "21456"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (83:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (83:16)"
 subTitle: Einfach mal auf Schminke verzichten
   
 ---

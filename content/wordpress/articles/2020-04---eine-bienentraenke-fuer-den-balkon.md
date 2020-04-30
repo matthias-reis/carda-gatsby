@@ -2,7 +2,7 @@
 title: Eine Bienentränke für den Balkon
 seoTitle: Bienentränke für den Balkon DIY
 slug: bienentraenke
-link: /2020/04/bienentraenke/
+path: /2020/04/bienentraenke/
 fileName: 2020-04---eine-bienentraenke-fuer-den-balkon.md
 description: Wer aktiven Bienenschutz betreiben möchte, sollte an eine
   Bienentränke denken. Sie kann mit ein paar Handgriffen ganz leicht selbst
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28909"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Wildbienen sind wieder da
   
 ---

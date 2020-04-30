@@ -2,7 +2,7 @@
 title: Honig? Das ist jetzt aber wirklich übertrieben, oder?
 seoTitle: Warum Veganer auf Honig verzichten und das nicht übertrieben ist
 slug: honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder
-link: /2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/
+path: /2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/
 fileName: 2014-10---honig-das-ist-jetzt-aber-wirklich-uebertrieben-oder.md
 description: Bienen sterben, weil wir ihren natürlich Lebensraum zerstören und
   sie ausbeuten, auch indem wir ihnen ihren Honig wegnehmen.
@@ -51,7 +51,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9057"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil VII
   
 ---

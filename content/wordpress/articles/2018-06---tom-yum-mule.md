@@ -2,7 +2,7 @@
 title: Tom Yum Mule
 seoTitle: Tom Yum Mule - Cocktailrezept - Ein feuriger Highball
 slug: tom-yum-mule
-link: /2018/06/tom-yum-mule/
+path: /2018/06/tom-yum-mule/
 fileName: 2018-06---tom-yum-mule.md
 description: Zum Wochenende habe ich ein weiteres Cocktail-Rezept für Euch
   vorbereitet. Der Tom Yum Mule ist ein ganz besonderer Highball.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21307"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Feuriger Highball
   
 ---

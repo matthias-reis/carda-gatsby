@@ -2,7 +2,7 @@
 title: Herzhaftes Rührtofu
 seoTitle: Rührtofu - Vegan, herzhaft und lecker
 slug: ruehrtofu-vegan-herzhaft-und-lecker
-link: /2017/10/ruehrtofu-vegan-herzhaft-und-lecker/
+path: /2017/10/ruehrtofu-vegan-herzhaft-und-lecker/
 fileName: 2017-10---herzhaftes-ruehrtofu.md
 description: Rührtofu - Wie Ihr es am besten zubereitet erfahrt Ihr in meinem
   Rezept - Vegan herzhaft und lecker ist dieses Frühstück für jeden ein Genuss.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8950"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Veganes Sonntagsfrühstück für zwei
   
 ---

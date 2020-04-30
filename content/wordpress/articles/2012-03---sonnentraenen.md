@@ -2,7 +2,7 @@
 title: Sonnentränen
 seoTitle: Sonnentraenen - mal wieder etwas Prosa
 slug: sonnentraenen
-link: /2012/03/sonnentraenen/
+path: /2012/03/sonnentraenen/
 fileName: 2012-03---sonnentraenen.md
 description: Menschen sitzen auf dem Gehsteig in der Sonne und entspannen sich.
   Sie haben Eis und Getränke dabei, lesen Zeitung, blicken einfach so ins Weite,
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2884"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mal wieder etwas Prosa
   
 ---

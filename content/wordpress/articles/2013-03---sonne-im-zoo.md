@@ -2,7 +2,7 @@
 title: Sonne im Zoo
 seoTitle: Sonne im Zoo
 slug: sonne-im-zoo
-link: /2013/03/sonne-im-zoo/
+path: /2013/03/sonne-im-zoo/
 fileName: 2013-03---sonne-im-zoo.md
 description: ""
 excerpt: Nachdem sich gestern das erste Mal seit Wochen die Sonne ein Bisschen
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4873"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Bildergalerie
   
 ---

@@ -2,7 +2,7 @@
 title: Veganes Bio-Eis aus Finnland
 seoTitle: Veganes Bio-Eis aus Finnland - Jymy mit Zutaten aus dem Wald
 slug: veganes-bio-eis-jymy-finnland
-link: /2019/06/veganes-bio-eis-jymy-finnland/
+path: /2019/06/veganes-bio-eis-jymy-finnland/
 fileName: 2019-06---veganes-bio-eis-aus-finnland.md
 description: "Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der
   Basis von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit."
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24584"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Jymy Speiseeis mit Zutaten aus dem Wald
   
 ---

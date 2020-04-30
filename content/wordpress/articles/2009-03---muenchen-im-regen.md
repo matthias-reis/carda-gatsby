@@ -2,7 +2,7 @@
 title: München im Regen
 seoTitle: München im Regen
 slug: muenchen-im-regen
-link: /2009/03/muenchen-im-regen/
+path: /2009/03/muenchen-im-regen/
 fileName: 2009-03---muenchen-im-regen.md
 description: München im Regen - Eine Bildergalerie
 excerpt: Bei einer kleinen Fototour durch München sind mir im März ein paar
@@ -22,7 +22,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11164"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Eine Bildergalerie aus der Bayerischen Hauptstadt
   
 ---

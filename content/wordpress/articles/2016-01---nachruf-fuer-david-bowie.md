@@ -2,7 +2,7 @@
 title: Nachruf für David Bowie
 seoTitle: RIP David Bowie - Abschied von einer Ikone
 slug: rip-david-bowie-abschied-von-einer-ikone
-link: /2016/01/rip-david-bowie-abschied-von-einer-ikone/
+path: /2016/01/rip-david-bowie-abschied-von-einer-ikone/
 fileName: 2016-01---nachruf-fuer-david-bowie.md
 description: RIP David Bowie - Im Alter von nur 69 Jahren ist die unvergessene
   Ikone heute von uns gegangen. Seinen Kampf gegen den Krebs hat er verloren.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13687"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Abschied von einer Ikone
   
 ---

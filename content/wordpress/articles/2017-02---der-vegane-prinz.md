@@ -2,7 +2,7 @@
 title: Der vegane Prinz
 seoTitle: Der vegane Prinz Khaled bin Alwaleed kämpft für Solarstrom
 slug: prinz-vegan-khaled-bin-alwaleed
-link: /2017/02/prinz-vegan-khaled-bin-alwaleed/
+path: /2017/02/prinz-vegan-khaled-bin-alwaleed/
 fileName: 2017-02---der-vegane-prinz.md
 description: Prinz Vegan hat mit der Familientradition gebrochen und das
   Erdölgeschäft hinter sich gelassen. Khaled bin Alwaleed setzt sich für
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15813"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: LED-Lichter und Solarstrom statt Öl und Überfluss
   
 ---

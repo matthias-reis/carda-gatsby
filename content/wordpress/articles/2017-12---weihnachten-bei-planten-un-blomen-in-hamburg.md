@@ -2,7 +2,7 @@
 title: Weihnachten bei Planten un Blomen in Hamburg
 seoTitle: Weihnachten bei Planten un Blomen - Zarte Blüten im Winterlicht
 slug: weihnachten-bei-planten-un-blomen
-link: /2017/12/weihnachten-bei-planten-un-blomen/
+path: /2017/12/weihnachten-bei-planten-un-blomen/
 fileName: 2017-12---weihnachten-bei-planten-un-blomen-in-hamburg.md
 description: Zarte Blüten im Winterlicht zeigten sich uns bei unserem
   weihnachtlichen Spaziergang die Hamburger Parkanlage Planten un Blomen.
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18723"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zarte Blüten im Winterlicht
   
 ---

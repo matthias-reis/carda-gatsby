@@ -2,7 +2,7 @@
 title: Who the f*** is Mister Mandrill?
 seoTitle: Who the f*** is Mister Mandrill? - Hamburgs neue Szene-Barkeeper
 slug: mister-mandrill-interview
-link: /2017/10/mister-mandrill-interview/
+path: /2017/10/mister-mandrill-interview/
 fileName: 2017-10---who-the-f-is-mister-mandrill.md
 description: Ich habe Szene-Barkeeper Kevin Hartjen von Mister Mandrill 10
   Fragen gestellt. Und Licht ins Dunkel um die Frage gebracht "Who the f*** is
@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18094"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fragen an Hamburgs neue Szene-Barkeeper
   
 ---

@@ -2,7 +2,7 @@
 title: Erwartungsgebügel -  Menschen untereinander
 seoTitle: Erwartungsgebügel - Menschen untereinander - Nicht wertend gemeint
 slug: erwartungsgebuegel-menschen-untereinander
-link: /2017/08/erwartungsgebuegel-menschen-untereinander/
+path: /2017/08/erwartungsgebuegel-menschen-untereinander/
 fileName: 2017-08---erwartungsgebuegel-menschen-untereinander.md
 description: Runterziehen lassen vom Wetter. Es ist ja nicht mehr so warm, wie
   früher. Und so kalt erst recht nicht. Die anderen müssen sich Gedanken machen.
@@ -25,8 +25,7 @@ isAffiliate: false
 thumbnailId: "17327"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (44:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (44:16)"
 subTitle: <span class="s1">Nicht wertend gemeint</span>
   
 ---

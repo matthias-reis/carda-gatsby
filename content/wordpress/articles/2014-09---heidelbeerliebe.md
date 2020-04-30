@@ -2,7 +2,7 @@
 title: Heidelbeerliebe
 seoTitle: Smoothie für den Sommer - Heidelbeerliebe
 slug: smoothie-fuer-den-sommer-heidelbeerliebe
-link: /2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/
+path: /2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/
 fileName: 2014-09---heidelbeerliebe.md
 description: Ein Smoothie so süß wie der Sommer - Wie Ihr meine Heidelbeerliebe
   ganz leicht selbst herstellen könnt, zeige ich Euch in meinem heutigen
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8697"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sommerlicher Smoothie
   
 ---

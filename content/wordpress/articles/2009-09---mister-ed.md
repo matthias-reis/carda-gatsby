@@ -2,7 +2,7 @@
 title: Mister Ed
 seoTitle: Mister Ed - Anne bloggt cardamonchai
 slug: mister-ed
-link: /2009/09/mister-ed/
+path: /2009/09/mister-ed/
 fileName: 2009-09---mister-ed.md
 description: Mister Ed - Gesehen in Schrobenhausen
 excerpt: In Schrobenhausen steht in Pferd auf dem Flur - manchmal schaut es aber
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11461"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesehen in Schrobenhausen
   
 ---

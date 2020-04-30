@@ -2,7 +2,7 @@
 title: Denise Slapansky von WYOB
 seoTitle: Vegane Häkelmützen mit Statement - Denise Slapansky im Interview
 slug: vegane-haekelmuetzen-mit-statement
-link: /2015/04/vegane-haekelmuetzen-mit-statement/
+path: /2015/04/vegane-haekelmuetzen-mit-statement/
 fileName: 2015-04---denise-slapansky-von-wyob.md
 description: Ganz aktuell macht Denise Slapansky unter dem Logo WYOB vegane
   Häkelmützen und Accessoires für Jung und Alt. Dabei stehen "Nutztiere" im
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10889"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Häkelmützen mit Statement
   
 ---

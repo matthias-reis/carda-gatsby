@@ -2,7 +2,7 @@
 title: My Little Pony Ver­lo­sung
 seoTitle: My Little Pony Verlosung - Die Gewinner stehen fest
 slug: little-pony-verlosung-die-gewinner-stehen-fest
-link: /2016/03/little-pony-verlosung-die-gewinner-stehen-fest/
+path: /2016/03/little-pony-verlosung-die-gewinner-stehen-fest/
 fileName: 2016-03---my-little-pony-ver-lo-sung.md
 description: Die Gewinner meiner My Little Pony Verlosung stehen fest! Und weil
   Freitag so ein schöner Tag ist, verrate ich Euch jetzt die Namen!
@@ -28,8 +28,7 @@ isAffiliate: false
 thumbnailId: "13977"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (43:31)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (43:31)"
 subTitle: Die Ge­win­ner stehen fest!
   
 ---

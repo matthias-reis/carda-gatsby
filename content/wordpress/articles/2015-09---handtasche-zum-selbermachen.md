@@ -2,7 +2,7 @@
 title: Handtasche zum Selbermachen
 seoTitle: Kleine Handtasche zum Selbermachen
 slug: kleine-handtasche-zum-selbermachen
-link: /2015/09/kleine-handtasche-zum-selbermachen/
+path: /2015/09/kleine-handtasche-zum-selbermachen/
 fileName: 2015-09---handtasche-zum-selbermachen.md
 description: Vor kurzem habe ich eine tolle Handtasche zum Selbermachen
   entdeckt. Ihr könnt Sie ganz leicht nachnähen.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12893"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Kleiner Schulterbag im Patchwork-Style
   
 ---

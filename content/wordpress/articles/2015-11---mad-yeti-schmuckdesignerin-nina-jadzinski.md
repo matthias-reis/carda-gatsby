@@ -2,7 +2,7 @@
 title: Mad Yeti Schmuckdesignerin Nina Jadzinski
 seoTitle: Mad Yeti Creations - Interview mit einer Schmuckdesignerin
 slug: schmuck-fuer-veganer-von-mad-yeti-creations
-link: /2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/
+path: /2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/
 fileName: 2015-11---mad-yeti-schmuckdesignerin-nina-jadzinski.md
 description: Die junge Schmuckdesignerin und Gründerin von Mad Yeti Creations
   Nina Yadzinski stellt Schmuck für Veganer her. Ich habe mich mit ihr
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13234"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Ich möchte Schmuck für Veganer machen!"'
   
 ---

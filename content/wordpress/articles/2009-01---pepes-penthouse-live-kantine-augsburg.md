@@ -2,7 +2,7 @@
 title: Pepes Penthouse live @ Kantine Augsburg
 seoTitle: Pepes Penthouse live @ Kantine Augsburg
 slug: pepes-penthouse-live-band-des-jahres-2009-kantine-augsburg
-link: /2009/01/pepes-penthouse-live-band-des-jahres-2009-kantine-augsburg/
+path: /2009/01/pepes-penthouse-live-band-des-jahres-2009-kantine-augsburg/
 fileName: 2009-01---pepes-penthouse-live-kantine-augsburg.md
 description: "Gestern Abend war es soweit: Pepes Penthouse hatten ihren großen
   Auftritt bei Band des Jahres 2009 in der Kantine."
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11104"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Band des Jahres 2009
   
 ---

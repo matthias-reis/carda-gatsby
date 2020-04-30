@@ -2,7 +2,7 @@
 title: FoPo aus Bremen
 seoTitle: FoPo aus Bremen rettet aussortierte Früchte - Ich habe getestet
 slug: fopo-rettet-aussortierte-fruechte
-link: /2017/09/fopo-rettet-aussortierte-fruechte/
+path: /2017/09/fopo-rettet-aussortierte-fruechte/
 fileName: 2017-09---fopo-aus-bremen.md
 description: Die Gründer von FoPo retten aussortierte Früchte. Aus ihnen stellen
   sie leckere Produkte her. Ich habe sie getestet und habe auch für Euch welche!
@@ -39,8 +39,7 @@ isAffiliate: false
 thumbnailId: "17824"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <sub> (40:121)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (40:121)"
 subTitle: Trockenfrüchte fürs Klima
   
 ---

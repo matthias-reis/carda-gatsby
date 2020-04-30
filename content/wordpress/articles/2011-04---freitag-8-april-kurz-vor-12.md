@@ -2,7 +2,7 @@
 title: Freitag, 8. April kurz vor 12
 seoTitle: Freitag kurz vor 12 - Tagebucheintrag
 slug: freitag-8-april-kurz-vor-12
-link: /2011/04/freitag-8-april-kurz-vor-12/
+path: /2011/04/freitag-8-april-kurz-vor-12/
 fileName: 2011-04---freitag-8-april-kurz-vor-12.md
 description: Das Wochenende steht vor der Tür. In ein paar Stunden geht es in
   Richtung Berge. Das Wetter ist schön. Gute Aussichten auch für die nächsten
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "1801"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

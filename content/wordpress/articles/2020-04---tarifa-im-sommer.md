@@ -2,7 +2,7 @@
 title: Tarifa im Sommer
 seoTitle: Tarifa im Sommer - Erinnerung an Andalusien
 slug: tarifa-im-sommer
-link: /2020/04/tarifa-im-sommer/
+path: /2020/04/tarifa-im-sommer/
 fileName: 2020-04---tarifa-im-sommer.md
 description: In Tarifa habe ich einige der entspanntesten Stunden meines ganzen
   Lebens verbracht. Wenn ich mich heute daran erinnere, geht es mir gut.
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28932"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerung an Andalusien
   
 ---

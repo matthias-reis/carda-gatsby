@@ -2,7 +2,7 @@
 title: Welt Vegan Magazin 2/2016
 seoTitle: Welt Vegan Magazin 2/2016
 slug: welt-vegan-magazin-22016
-link: /2016/08/welt-vegan-magazin-22016/
+path: /2016/08/welt-vegan-magazin-22016/
 fileName: 2016-08---welt-vegan-magazin-2-2016.md
 description: Für das Welt Vegan Magazin 2/2016 habe ich wieder einen Artikel
   geschrieben! Darin dreht sich alles um Animal Rights Watch, auch als ARIWA
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15032"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Artikel "Animal Rights Watch" aus meiner Feder
   
 ---

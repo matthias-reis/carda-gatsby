@@ -2,7 +2,7 @@
 title: ethice Gründerin Petra Mazur
 seoTitle: Interview mit Tierschutzaktivistin und ethice Gründerin Petra Mazur
 slug: interview-mit-petra-mazur-von-ethice
-link: /2015/08/interview-mit-petra-mazur-von-ethice/
+path: /2015/08/interview-mit-petra-mazur-von-ethice/
 fileName: 2015-08---ethice-gruenderin-petra-mazur.md
 description: Ich habe mich mit Petra Mazur, der Tierrechtlerin und Gründerin des
   veganen Online-Shops ethice zum Interview verabredet und wir haben uns toll
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12139"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <span class="s1">„Es ist Zeit, dem Leiden der Tiere ein Gesicht zu
   geben!“</span>
   

@@ -2,7 +2,7 @@
 title: Zu Besuch auf der Santaverde Finca
 seoTitle: Zu Besuch auf der Santaverde Finca in Andalusien
 slug: santaverde-finca-aloe-vera
-link: /2019/07/santaverde-finca-aloe-vera/
+path: /2019/07/santaverde-finca-aloe-vera/
 fileName: 2019-07---zu-besuch-auf-der-santaverde-finca.md
 description: Vor Kurzem haben wir die Aloe Vera Finca von Santaverde in
   Andalusien besucht. Dabei haben wir einiges über den Anbau der beliebten
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25501"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aloe Vera Pflanzen im Herzen von Andalusien
   
 ---

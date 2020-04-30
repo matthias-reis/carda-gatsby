@@ -2,7 +2,7 @@
 title: St. Patrick's Day in London
 seoTitle: St. Patrick's Day in London - Kunst und Kultur an der Themse
 slug: st-patricks-day-in-london
-link: /2014/04/st-patricks-day-in-london/
+path: /2014/04/st-patricks-day-in-london/
 fileName: 2014-04---st-patricks-day-in-london.md
 description: St. Patrick's Day in London - Das war schon immer ein Trau. Zum
   Geburtstag meiner Mutter haben wir ihn erfüllt und wir haben einiges erlebt!
@@ -78,8 +78,7 @@ isAffiliate: false
 thumbnailId: "7906"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <div> (73:83)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (73:83)"
 subTitle: Von Jamie Oliver, Agatha Christie und  Kunst an der Themse
   
 ---

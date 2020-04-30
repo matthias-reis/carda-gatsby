@@ -2,7 +2,7 @@
 title: Voll­korn­spa­ghet­ti mit Radicchio und Cashew-Kernen
 seoTitle: Vollkornspaghetti mit Radicchio und Cashew-Kernen
 slug: vollkornspaghetti-mit-radicchio-und-cashew-kernen
-link: /2017/01/vollkornspaghetti-mit-radicchio-und-cashew-kernen/
+path: /2017/01/vollkornspaghetti-mit-radicchio-und-cashew-kernen/
 fileName: 2017-01---voll-korn-spa-ghet-ti-mit-radicchio-und-cashew-kernen.md
 description: Vollkornspaghetti mit Radicchio und Cashew-Kernen gehören zu meinen
   Alltime-Favorites. Nachdem mein Bild neulich so gut ankam, poste ich heute
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15715"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Post-Spätschicht-Lieblingsessen
   
 ---

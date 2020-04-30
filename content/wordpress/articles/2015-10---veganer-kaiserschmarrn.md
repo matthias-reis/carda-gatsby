@@ -2,7 +2,7 @@
 title: Veganer Kaiserschmarrn
 seoTitle: Veganer Kaiserschmarrn - Rezept zum Nachmachen
 slug: veganer-kaiserschmarrn
-link: /2015/10/veganer-kaiserschmarrn/
+path: /2015/10/veganer-kaiserschmarrn/
 fileName: 2015-10---veganer-kaiserschmarrn.md
 description: Für's Wochenende habe ich wieder ein schönes Frühstücksrezept für
   Euch. Auf den Tisch kommt veganer Kaiserschmarrn mit Lupinenmehl
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12905"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vollwertig, lecker und eiweißreich
   
 ---

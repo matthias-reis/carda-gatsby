@@ -2,7 +2,7 @@
 title: Einmal im Leben einen Baum pflanzen 2.0
 seoTitle: Einmal im Leben einen Baum pflanzen 2.0
 slug: einmal-im-leben-einen-baum-pflanzen-2-0
-link: /2013/08/einmal-im-leben-einen-baum-pflanzen-2-0/
+path: /2013/08/einmal-im-leben-einen-baum-pflanzen-2-0/
 fileName: 2013-08---einmal-im-leben-einen-baum-pflanzen-2-0.md
 description: Wir werden jetzt Baumpaten! Wo unser Baum steht, wissen wir noch nicht
 excerpt: Einmal im Leben soll man ja einen Baum pflanzen. Grundsätzlich ja ein
@@ -27,8 +27,7 @@ isAffiliate: false
 thumbnailId: "6837"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (28:13)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:13)"
 subTitle: Wir werden Baumpaten!
   
 ---

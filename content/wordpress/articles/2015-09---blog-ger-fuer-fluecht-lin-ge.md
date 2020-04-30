@@ -2,7 +2,7 @@
 title: "#Blog­ger­fuer­Fluecht­lin­ge"
 seoTitle: "#Bloggerfuerfluechtlinge - Werdet aktiv!"
 slug: bloggerfuerfluechtlinge
-link: /2015/09/bloggerfuerfluechtlinge/
+path: /2015/09/bloggerfuerfluechtlinge/
 fileName: 2015-09---blog-ger-fuer-fluecht-lin-ge.md
 description: "Sicher ist Euch in den letzten Tagen beim Stöbern durch die Blogs
   auch immer wieder der Hashtag #BloggerfuerFluechtlinge aufgefallen. Helft
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12690"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Werdet aktiv!
   
 ---

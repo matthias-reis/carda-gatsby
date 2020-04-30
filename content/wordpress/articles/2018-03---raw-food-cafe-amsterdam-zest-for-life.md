@@ -2,7 +2,7 @@
 title: Raw Food Café Amsterdam - Zest For Life
 seoTitle: Raw Food Café Amsterdam - roh-vegane Köstlichkeiten für Körper & Seele
 slug: raw-food-cafe-amsterdam-zest-for-life
-link: /2018/03/raw-food-cafe-amsterdam-zest-for-life/
+path: /2018/03/raw-food-cafe-amsterdam-zest-for-life/
 fileName: 2018-03---raw-food-cafe-amsterdam-zest-for-life.md
 description: Unter den vielen veganen Locations in Amsterdam sticht das Raw Food
   Café im Museumsviertel besonders hervor. Die Speisen streicheln den Gaumen.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19540"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Roh-vegane Köstlichkeiten für Körper und Seele
   
 ---

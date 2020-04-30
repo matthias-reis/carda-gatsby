@@ -2,7 +2,7 @@
 title: Kalle Kuul - "Die Prinzessin von Osnabrück"
 seoTitle: Kalle Kuul mit neuem Video zu "Die Prinzessin von Osnabrück"
 slug: kalle-kuul-die-prinzessin-von-osnabrueck
-link: /2019/09/kalle-kuul-die-prinzessin-von-osnabrueck/
+path: /2019/09/kalle-kuul-die-prinzessin-von-osnabrueck/
 fileName: 2019-09---kalle-kuul-die-prinzessin-von-osnabrueck.md
 description: Vor ziemlich genau drei Jahren wurde das Singer-Songwriter Projekt
   Kalle Kuul gegründet. Jetzt haben die Kölner ihr neues Video vorgestellt.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26246"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neues Video der Kölner Singer-Songwriter
   
 ---

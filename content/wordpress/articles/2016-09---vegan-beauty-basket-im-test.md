@@ -2,7 +2,7 @@
 title: Vegan Beauty Basket im Test
 seoTitle: Vegan Beauty Basket im Test - Unboxing Wellness
 slug: vegan-beauty-basket-im-test
-link: /2016/09/vegan-beauty-basket-im-test/
+path: /2016/09/vegan-beauty-basket-im-test/
 fileName: 2016-09---vegan-beauty-basket-im-test.md
 description: Heute habe ich ein ganz besonderes Paket bekommen. Der aktuelle
   Vegan Beauty Basket kam bei mir an und ich bin begeistert - Ich zeige Euch,
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15196"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unboxing Wellness
   
 ---

@@ -2,7 +2,7 @@
 title: Die traurige Geschichte eines tapferen Katers
 seoTitle: Die traurige Geschichte eines tapferen Katers
 slug: die-traurige-geschichte-eines-tapferen-katers
-link: /2013/09/die-traurige-geschichte-eines-tapferen-katers/
+path: /2013/09/die-traurige-geschichte-eines-tapferen-katers/
 fileName: 2013-09---die-traurige-geschichte-eines-tapferen-katers.md
 description: ""
 excerpt: "\n               \ \n            "
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: null
 image: /img/demo.jpg
 errors:
-  - type: noSubtitle
-    message: no h2 heading found - no sub title
+  noSubtitle: no h2 heading found - no sub title
   
 ---
 

@@ -2,7 +2,7 @@
 title: '"Animal Liberation"'
 seoTitle: '"Animal Liberation" - das Tierethikbuch von Peter Singer'
 slug: animal-liberation
-link: /2020/01/animal-liberation/
+path: /2020/01/animal-liberation/
 fileName: 2020-01---animal-liberation.md
 description: Heute möchte ich Euch das Buch "Animal Liberation" von Peter Singer
   empfehlen. Es bietet einen guten Überblick über die Geschichte der Tierethik.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27284"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das Tierrechtsbuch von Peter Singer
   
 ---

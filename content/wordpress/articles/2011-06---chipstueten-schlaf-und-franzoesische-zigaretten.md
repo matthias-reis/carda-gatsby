@@ -2,7 +2,7 @@
 title: Chipstüten, Schlaf und französische Zigaretten
 seoTitle: Chipstüten, Schlaf und französische Zigaretten - Tagebucheintrag
 slug: chipstuten-schlaf-und-franzosische-zigaretten
-link: /2011/06/chipstuten-schlaf-und-franzosische-zigaretten/
+path: /2011/06/chipstuten-schlaf-und-franzosische-zigaretten/
 fileName: 2011-06---chipstueten-schlaf-und-franzoesische-zigaretten.md
 description: Es ist ein wunderbar warmer Tag. Genau so darf es bis nächsten
   Montag bleiben. Alles eingepackt. Rucksack beim Zumachen geplatzt.
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6915"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

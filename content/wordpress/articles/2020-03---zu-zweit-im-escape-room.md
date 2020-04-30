@@ -2,7 +2,7 @@
 title: Zu zweit im Escape Room
 seoTitle: Zu zweit im Escape Room - unsere Challenge
 slug: zu-zweit-im-escape-room
-link: /2020/03/zu-zweit-im-escape-room/
+path: /2020/03/zu-zweit-im-escape-room/
 fileName: 2020-03---zu-zweit-im-escape-room.md
 description: "Eine Nachricht von Escape Berlin brachte mich auf eine Idee: Wie
   ist es eigentlich zu zweit in einem Escape Room? Schafft man es da wieder
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28576"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unsere Challenge
   
 ---

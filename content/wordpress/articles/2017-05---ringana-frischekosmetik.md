@@ -3,7 +3,7 @@ title: Ringana Frischekosmetik
 seoTitle: Ringana - Ganzheitliche Schönheit aus der Steiermark - Der ultimative
   Produkttest
 slug: ringana-frischekosmetik
-link: /2017/05/ringana-frischekosmetik
+path: /2017/05/ringana-frischekosmetik
 fileName: 2017-05---ringana-frischekosmetik.md
 description: Die Macher von Ringana haben sich ein ganz besonderes Konzept
   überlegt. Ihr Ansatz ist ganzheitlich. Ihre Produkte wirken besonders durch
@@ -60,8 +60,7 @@ isAffiliate: false
 thumbnailId: "16647"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (127:27)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (127:27)"
 subTitle: '"Wir möchten Europas Badezimmer Erdöl-frei machen"'
   
 ---

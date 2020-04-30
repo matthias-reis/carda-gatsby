@@ -2,7 +2,7 @@
 title: Die ultimative vegane Festivalliste
 seoTitle: Die ultimative vegane Festivalliste - mit Gratis-Download
 slug: die-ultimative-vegane-festivalliste
-link: /2015/03/die-ultimative-vegane-festivalliste/
+path: /2015/03/die-ultimative-vegane-festivalliste/
 fileName: 2015-03---die-ultimative-vegane-festivalliste.md
 description: Einige vegan lebende Musikfans haben mich darauf aufmerksam
   gemacht, es ist Zeit für die ultimative vegane Festivalliste! Viel Spaß beim
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: "10367"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Unterminated JSX contents (265:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (265:16)"
 subTitle: Mit Gratis-Download zum Ausdrucken
   
 ---

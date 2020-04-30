@@ -2,7 +2,7 @@
 title: Kuopion Korttelimuseo
 seoTitle: Korttelimuseo Kuopio - Finnische Kultur am Regentag
 slug: kuopion-korttelimuseo
-link: /2016/10/kuopion-korttelimuseo/
+path: /2016/10/kuopion-korttelimuseo/
 fileName: 2016-10---kuopion-korttelimuseo.md
 description: Am 7. Juli machten wir von unserem gemieteten finnischen Mökki aus
   einen Tagesausflug nach Kuopio und statteten dem Kuopion Korttelimuseo einen
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15276"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Finnische Kultur am Regentag
   
 ---

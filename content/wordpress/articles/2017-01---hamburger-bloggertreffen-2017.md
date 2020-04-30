@@ -2,7 +2,7 @@
 title: Hamburger Bloggertreffen 2017
 seoTitle: Hamburger Bloggertreffen - Klappe die erste - Mein erstes Bloggertreffen
 slug: hamburger-bloggertreffen-2017-klappe-die-erste
-link: /2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/
+path: /2017/01/hamburger-bloggertreffen-2017-klappe-die-erste/
 fileName: 2017-01---hamburger-bloggertreffen-2017.md
 description: Am 26. Januar findet das erste Hamburger Bloggertreffen in diesem
   Jahr statt. Auch ich werde dabei sein und bin schon sehr gespannt. Hier ein
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15640"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Klappe die erste
   
 ---

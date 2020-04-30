@@ -2,7 +2,7 @@
 title: Lovely Day Botanicals im Test
 seoTitle: Lovely Day Botanicals - Kosmetiktest
 slug: lovely-day-botanicals-kosmetiktest
-link: /2016/07/lovely-day-botanicals-kosmetiktest/
+path: /2016/07/lovely-day-botanicals-kosmetiktest/
 fileName: 2016-07---lovely-day-botanicals-im-test.md
 description: Lovely Day Botanicals ist ein junges Beauty Start-up aus Berlin,
   das ausschließlich vegane Naturkosmetik herstellt. Ich habe die Produkte für
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14942"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Naturkosmetik aus Berlin
   
 ---

@@ -2,7 +2,7 @@
 title: Sphaèros ist zurück...
 seoTitle: Sphaèros ist zurück und hat den Teufel mitgebracht
 slug: sphaeros-lucifero
-link: /2020/02/sphaeros-lucifero/
+path: /2020/02/sphaeros-lucifero/
 fileName: 2020-02---sphaeros-ist-zurueck.md
 description: Der Ausnahmekünstler Sphaèros wurde durch das Projekt Aqua Nebula
   Oscillator bekannt. Jetzt ist der Musiker aus Paris mit "Lucifero" zurück.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27618"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>... und hat den Teufel  mitgebracht</strong>
   
 ---

@@ -2,7 +2,7 @@
 title: Unboxing Vegan Beauty Basket März
 seoTitle: Unboxing Vegan Beauty Basket März - Frühling aus dem Karton
 slug: unboxing-vegan-beauty-basket-maerz
-link: /2018/03/unboxing-vegan-beauty-basket-maerz/
+path: /2018/03/unboxing-vegan-beauty-basket-maerz/
 fileName: 2018-03---unboxing-vegan-beauty-basket-maerz.md
 description: Ich durfte mal wieder den Vegan Beauty Basket auspacken. Heraus
   purzelte unter anderem ein Eyeliner, der komplett ohne Plastik auskommt.
@@ -46,7 +46,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20175"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Frühling aus dem Karton
   
 ---

@@ -2,7 +2,7 @@
 title: DIY Upcycling Nerdbag
 seoTitle: DIY Upcycling Nerdbag
 slug: diy-upcycling-nerdbag
-link: /2015/09/diy-upcycling-nerdbag/
+path: /2015/09/diy-upcycling-nerdbag/
 fileName: 2015-09---diy-upcycling-nerdbag.md
 description: Habt Ihr auch so viele T-Shirts zu Hause liegen, die Ihr nicht
   wegwerfen wollt? Ich zeige Euch, wie Ihr mit Upcycling noch was Schönes daraus
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12840"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Aus T-Shirt mach Tasche Teil 1
   
 ---

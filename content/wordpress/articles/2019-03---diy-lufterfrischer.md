@@ -2,7 +2,7 @@
 title: DIY Lufterfrischer
 seoTitle: DIY Lufterfrischer - Raumduft mit ätherischen Ölen
 slug: diy-lufterfrischer
-link: /2019/03/diy-lufterfrischer/
+path: /2019/03/diy-lufterfrischer/
 fileName: 2019-03---diy-lufterfrischer.md
 description: "Heute habe ich mal wieder einen kleinen Lifehack für Euch: Meinen
   DIY Lufterfrischer könnt Ihr ganz leicht selbst herstellen. Raumduft für
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23765"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Raumduft mit ätherischen Ölen
   
 ---

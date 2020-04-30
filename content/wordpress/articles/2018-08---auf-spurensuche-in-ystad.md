@@ -2,7 +2,7 @@
 title: Auf Spurensuche in Ystad
 seoTitle: Auf Spurensuche in Ystad - Rosen, Sommerregen und Krimifeeling
 slug: auf-spurensuche-in-ystad
-link: /2018/08/auf-spurensuche-in-ystad/
+path: /2018/08/auf-spurensuche-in-ystad/
 fileName: 2018-08---auf-spurensuche-in-ystad.md
 description: Auf der Durchreise machten wir einen Kaffeehalt in der Krimistadt
   Ystad. Auf den Spuren von Kommissar Wallander schlenderten wir durch die
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21810"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rosen, Sommerregen und Krimifeeling
   
 ---

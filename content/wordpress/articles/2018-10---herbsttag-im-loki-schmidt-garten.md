@@ -2,7 +2,7 @@
 title: Herbsttag im Loki Schmidt Garten
 seoTitle: Herbsttag im Loki Schmidt Garten - Astern, Bienen und Sonnenschein
 slug: herbsttag-im-loki-schmidt-garten
-link: /2018/10/herbsttag-im-loki-schmidt-garten/
+path: /2018/10/herbsttag-im-loki-schmidt-garten/
 fileName: 2018-10---herbsttag-im-loki-schmidt-garten.md
 description: Bei dem wunderbaren Herbstwetter war heute endlich mal wieder Zeit
   für einen ausgedehnten Spaziergang im Hamburger Loki Schmidt Garten.
@@ -30,8 +30,7 @@ isAffiliate: false
 thumbnailId: "22345"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (31:15)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (31:15)"
 subTitle: Astern, Bienen und Sonnenschein
   
 ---

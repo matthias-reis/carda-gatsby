@@ -2,7 +2,7 @@
 title: Jack White stellt neuen Song vor
 seoTitle: Jack White stellt neuen Song "High Ball Stepper" vor
 slug: jack-white-stellt-neuen-song-vor
-link: /2014/04/jack-white-stellt-neuen-song-vor/
+path: /2014/04/jack-white-stellt-neuen-song-vor/
 fileName: 2014-04---jack-white-stellt-neuen-song-vor.md
 description: 'Jack White stellt seinen neuen Song "High Ball Stepper" vor. Die
   Gerüchte wurden also bestätigt. Ich verrate Euch schon mal: Es lohnt sich,
@@ -33,7 +33,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7922"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neues Album  "Lazaretto" am 6. Juni
   
 ---

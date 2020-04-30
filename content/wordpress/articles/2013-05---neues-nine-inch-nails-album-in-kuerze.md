@@ -2,7 +2,7 @@
 title: Neues Nine Inch Nails Album in Kürze
 seoTitle: Nine Inch Nails Album in Kürze!
 slug: neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg
-link: /2013/05/neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg/
+path: /2013/05/neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg/
 fileName: 2013-05---neues-nine-inch-nails-album-in-kuerze.md
 description: In Kürze bringen Nine Inch Nails ein neues Album raus! Dazu gibt es
   schon jetzt eine Geschichte zu erzählen!
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5524"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Queens Of The Stone Age schon auf dem Weg!
   
 ---

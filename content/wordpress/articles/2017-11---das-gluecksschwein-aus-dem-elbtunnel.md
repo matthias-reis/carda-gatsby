@@ -2,7 +2,7 @@
 title: Das Glücksschwein aus dem Elbtunnel
 seoTitle: Das Glücksschwein aus dem Elbtunnel - Viktorias Weg auf den Erdlingshof
 slug: das-gluecksschwein-aus-dem-elbtunnel
-link: /2017/11/das-gluecksschwein-aus-dem-elbtunnel/
+path: /2017/11/das-gluecksschwein-aus-dem-elbtunnel/
 fileName: 2017-11---das-gluecksschwein-aus-dem-elbtunnel.md
 description: Viktorias Geschichte gleicht einer steinigen, gewundenen Straße.
   Wie das Glücksschwein aus dem Elbtunnel seinen Weg in ein glückliches Leben
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18569"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Viktorias Weg auf den Erdlingshof
   
 ---

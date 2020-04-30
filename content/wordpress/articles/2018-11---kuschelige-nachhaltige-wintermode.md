@@ -2,7 +2,7 @@
 title: Kuschelige nachhaltige Wintermode
 seoTitle: Kuschelige und nachhaltige Windermode nicht nur für Veganer*innen
 slug: kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen
-link: /2018/11/kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen/
+path: /2018/11/kuschelige-nachhaltige-wintermode-nicht-nur-fuer-veganerinnen/
 fileName: 2018-11---kuschelige-nachhaltige-wintermode.md
 description: Wer beim Wintermode Shoppen Wert auf Nachhaltigkeit legt, sucht ab
   und an schon etwas länger. Daher habe ich ein paar Tipps für Euch
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22663"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nicht nur für Veganer*innen
   
 ---

@@ -2,7 +2,7 @@
 title: Themen gesucht
 seoTitle: Themen gesucht - Aufruf an meine Leser - Interviewpartner gesucht!
 slug: aufruf-themen-gesucht
-link: /2016/11/aufruf-themen-gesucht/
+path: /2016/11/aufruf-themen-gesucht/
 fileName: 2016-11---themen-gesucht.md
 description: Jetzt seid Ihr dran! Ich suche Interviewpartner, Themen und
   frisches Seemannsgarn für mein Blog cardamonchai! Ich freue mich auf Eure
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15321"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Leseraufruf
   
 ---

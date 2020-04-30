@@ -2,7 +2,7 @@
 title: Die Waffe der Frau
 seoTitle: Die Waffe der Frau - Dieser Umschlag war heute im Briefkasten
 slug: die-waffe-der-frau
-link: /2017/11/die-waffe-der-frau/
+path: /2017/11/die-waffe-der-frau/
 fileName: 2017-11---die-waffe-der-frau.md
 description: Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin
   verbergen? Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn
@@ -24,7 +24,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18294"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein mysteriöser Umschlag
   
 ---

@@ -2,7 +2,7 @@
 title: Berlin an einem Dienstag Anfang Juli
 seoTitle: Berlin an einem Dienstag Anfang Juli - Wunderbare Stadt an der Spree
 slug: berlin-an-einem-dienstag
-link: /2018/07/berlin-an-einem-dienstag/
+path: /2018/07/berlin-an-einem-dienstag/
 fileName: 2018-07---berlin-an-einem-dienstag-anfang-juli.md
 description: Die Sonne scheint erbarmungslos. Der Asphalt wirft blasen. In den
   Brunnen spielen Kinder. Es ist Sommer in Berlin. Guck mal, da vorne! Der
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21351"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wunderbare Stadt an der Spree
   
 ---

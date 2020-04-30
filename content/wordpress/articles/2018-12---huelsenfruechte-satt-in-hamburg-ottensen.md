@@ -2,7 +2,7 @@
 title: Hülsenfrüchte satt in Hamburg Ottensen
 seoTitle: Hülsenfrüchte satt in Hamburg Ottensen - Power Of Veggie Love
 slug: huelsenfruechte-satt-in-hamburg-ottensen
-link: /2018/12/huelsenfruechte-satt-in-hamburg-ottensen/
+path: /2018/12/huelsenfruechte-satt-in-hamburg-ottensen/
 fileName: 2018-12---huelsenfruechte-satt-in-hamburg-ottensen.md
 description: Bei einem Bloggerevent habe ich einige interessante Fakten über
   Hülsenfrüchte kennengelernt. Heute erfahrt Ihr, was Linsen und Bohnen so alles
@@ -55,7 +55,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22966"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>"Power Of Veggie Love"</strong>
   
 ---

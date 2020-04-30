@@ -59,7 +59,7 @@ module.exports = async (l, e, article) => {
     title,
     seoTitle: pickedWpPostMeta['_yoast_wpseo_title'] || title,
     slug,
-    link,
+    path: link,
     fileName,
     description: pickedWpPostMeta['_yoast_wpseo_metadesc'] || '',
     excerpt:
@@ -81,35 +81,21 @@ module.exports = async (l, e, article) => {
     // todo - create valid link url from thumbnail id
     thumbnailId: pickedWpPostMeta['_thumbnail_id'],
     image: '/img/demo.jpg',
-    errors: [],
+    errors: {},
   };
 
   // description is usually empty. seoDescription is important
   if (article.description[0] !== '') {
-    e(
-      meta.fileName,
-      `${bold('has description')}
-${redBright(article.description[0])}
-${greenBright(pickedWpPostMeta['_yoast_wpseo_metadesc'])}
-
-`
-    );
+    meta.errors.hasDescription = article.description[0];
   }
 
   if (isNaN(date.getFullYear())) {
-    e(
-      meta.fileName,
-      `${bold('has no pub date')}
-${redBright(article['wp:post_date'])}
-${greenBright(article.pubDate)}
-${greenBright(article['wp:post_date_gmt'])}
-
-`
-    );
+    meta.errors.noPubDate = {
+      wpPostDate: article['wp:post_date'],
+      pubDate: article.pubDate,
+      wpPostDateGmt: article['wp:post_date_gmt'],
+    };
   }
-
-  // we parse with the mdx option first to get well formed stuff
-  // const content = article['content:encoded'].join('\n\n');
 
   const lines = article['content:encoded'][0].split('\n\n').filter(Boolean);
 

@@ -2,7 +2,7 @@
 title: Jubiläum
 seoTitle: 100 Beiträge auf cardamonchai - das ist ein Jubiläum!
 slug: jubilaum
-link: /2011/05/jubilaum/
+path: /2011/05/jubilaum/
 fileName: 2011-05---jubilaeum.md
 description: Dies ist der 100ste Beitrag in meinem Blog, gerade wurde er das
   666ste Mal angeklickt. Wenn das kein Grund ist, ein Jubiläum zu feiern!
@@ -31,7 +31,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "1837"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 666 Klicks
   
 ---

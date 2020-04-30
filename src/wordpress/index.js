@@ -1,5 +1,7 @@
 const { resolve } = require('path');
 const { yellow } = require('chalk');
+const { writeFileSync } = require('fs');
+const { join } = require('path');
 
 const activity = require('./activity');
 const findXml = require('./findXml');
@@ -34,13 +36,10 @@ activity('wordpress', async (l) => {
   });
   const articles = (await Promise.all(filePromises)).flat();
   l(`found ${yellow(articles.length)} articles`);
-  // const articlePromises = articles.slice(-10).map(async (article) => {
   const articlePromises = articles.map(async (article) => {
     /** ARTICLE PIPELINE **/
-    // const articlePromises = articles.map(async (article) => {
     let m = await activity('extractMeta', extractMeta, false)(article);
 
-    // await activity('write', write, false)(m, OUTPUT_FOLDER, '.raw.md');
     m = await activity('subTitle', subTitle, false)(m);
     for (const i in m.lines) {
       /** LINE PIPELINE **/
@@ -56,9 +55,30 @@ activity('wordpress', async (l) => {
     m = await activity('prettier', prettier)(m);
     m = await activity('verify', verify, false)(m);
     await activity('write', write, false)(m, OUTPUT_FOLDER);
+    return m;
   });
 
-  await Promise.all(articlePromises);
+  const parsedArticles = await Promise.all(articlePromises);
+  l(`parsed ${yellow(articles.length)} articles`);
+
+  const paths = parsedArticles.map((a) => a.meta.link);
+  const errors = parsedArticles.reduce((ret, a) => {
+    for (const eType in a.meta.errors) {
+      if (!ret[eType]) {
+        ret[eType] = [];
+      }
+      ret[eType].push(a.meta.link);
+    }
+    return ret;
+  }, {});
+
+  writeFileSync(
+    join(__dirname, '../../content/wordpress/metadata/meta.json'),
+    JSON.stringify({ paths, errors }, null, 2),
+    {
+      encoding: 'utf8',
+    }
+  );
 
   l(`✅ all done`);
 })();

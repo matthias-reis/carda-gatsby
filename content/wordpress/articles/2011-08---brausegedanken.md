@@ -2,7 +2,7 @@
 title: Brausegedanken
 seoTitle: Brausegedanken - was der Alltag so mitbringt
 slug: brausegedanken
-link: /2011/08/brausegedanken/
+path: /2011/08/brausegedanken/
 fileName: 2011-08---brausegedanken.md
 description: Gemütliches Kino statt matschiger Bühnen. Nanamintchai statt grüner
   Dosen. Retrorock und Fahrradgespräche. Bleistift und Papier.
@@ -57,7 +57,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2237"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Was der Alltag so mitbringt
   
 ---

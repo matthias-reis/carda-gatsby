@@ -2,7 +2,7 @@
 title: Leben im Earthship
 seoTitle: Leben im Earthship - ein Haus aus Recyclingmaterial
 slug: earthship
-link: /2019/06/earthship/
+path: /2019/06/earthship/
 fileName: 2019-06---leben-im-earthship.md
 description: Ein Earthship ist ein Haus aus Recyclingmaterial, dessen Bewohner
   völlig autark als Selbstversorger leben - back to nature also.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "24613"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein Haus aus Recyclingmaterial
   
 ---

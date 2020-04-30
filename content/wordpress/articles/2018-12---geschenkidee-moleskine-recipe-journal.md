@@ -2,7 +2,7 @@
 title: "Geschenkidee: Moleskine Recipe Journal"
 seoTitle: "Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung"
 slug: geschenkidee-moleskine-recipe-journal
-link: /2018/12/geschenkidee-moleskine-recipe-journal/
+path: /2018/12/geschenkidee-moleskine-recipe-journal/
 fileName: 2018-12---geschenkidee-moleskine-recipe-journal.md
 description: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet.
   Das Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22897"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Rezepte sammeln wie die Profis
   
 ---

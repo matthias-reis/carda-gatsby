@@ -2,7 +2,7 @@
 title: Die ultimative Songliste 2017
 seoTitle: Die ultimative Songliste 2017 - Musikalischer Jahresrückblick
 slug: die-ultimative-songliste-2017-musikalischer-jahresrueckblick
-link: /2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/
+path: /2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/
 fileName: 2017-12---die-ultimative-songliste-2017.md
 description: Ich möchte Euch den musikalischen Jahresrückblick der besonderen
   Art bieten. Musik abseits von Airplay-Listen und Charts. Die ultimative
@@ -78,7 +78,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18710"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Musikalischer Jahresrückblick
   
 ---

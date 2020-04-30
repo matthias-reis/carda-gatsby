@@ -2,7 +2,7 @@
 title: Sonnenbad am Sonnentag
 seoTitle: Sonnenbad am Sonnentag
 slug: sonnenbad-am-sonnentag
-link: /2012/08/sonnenbad-am-sonnentag/
+path: /2012/08/sonnenbad-am-sonnentag/
 fileName: 2012-08---sonnenbad-am-sonnentag.md
 description: "Feiertage sind was Schönes: Man kann den ganzen Tag sinnlos in der
   Gegend rumliegen, ohne sich Gedanken zu machen, dass man draußen was verpassen
@@ -54,7 +54,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18195"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

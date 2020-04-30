@@ -2,7 +2,7 @@
 title: Herbstliches Lieblingsoutfit
 seoTitle: Herbstliches Lieblingsoutfit - die Herbst-Winter-Kollektion von Living Crafts
 slug: living-crafts
-link: /2019/10/living-crafts/
+path: /2019/10/living-crafts/
 fileName: 2019-10---herbstliches-lieblingsoutfit.md
 description: Der Herbst ist da - Zeit für ein gemütliches Outfit aus kuscheliger
   Bio-Baumwolle. Ich habe mir die Herbst-Winter-Kollektion von Living Crafts
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "26494"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Herbst-Winter-Kollektion von Living Crafts
   
 ---

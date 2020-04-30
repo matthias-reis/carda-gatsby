@@ -2,7 +2,7 @@
 title: Der Stift
 seoTitle: Der Stift - Anfang einer Geschichte, die spannend werden könnte
 slug: der-stift
-link: /2019/01/der-stift/
+path: /2019/01/der-stift/
 fileName: 2019-01---der-stift.md
 description: Aus einer Laune heraus kaufte sie sich einen schwarzen Stift, den
   sie sehr liebte und alsbald verlor. Der alte blaue Stift konnte ihn nicht
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23209"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Anfang einer Geschichte
   
 ---

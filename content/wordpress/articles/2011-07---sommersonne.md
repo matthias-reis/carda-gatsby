@@ -2,7 +2,7 @@
 title: Sommersonne
 seoTitle: Sommersonne - Tagebucheintrag an einem schönen Tag
 slug: sommersonne
-link: /2011/07/sommersonne/
+path: /2011/07/sommersonne/
 fileName: 2011-07---sommersonne.md
 description: Ein schöner Tag. Die Sommersonne beleuchtet die Stadt, die Katzen
   spielen auf den Dächern, der Wind bleibt heute fern und singt sein Lied weiter
@@ -48,7 +48,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11583"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

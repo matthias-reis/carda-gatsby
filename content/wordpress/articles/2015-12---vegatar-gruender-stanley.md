@@ -2,7 +2,7 @@
 title: Vegatar Gründer Stanley
 seoTitle: Vegatar Gründer Stanley im Interview über veganes Leder
 slug: vegatar-gruender-stanley-interview
-link: /2015/12/vegatar-gruender-stanley-interview/
+path: /2015/12/vegatar-gruender-stanley-interview/
 fileName: 2015-12---vegatar-gruender-stanley.md
 description: Vegatar Gründer Stanley betreibt sein Geschäft aus Überzeugung. Ich
   habe mich mit ihm über veganes Leder und sein Leben unterhalten.
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "29126"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: '"Vegan bedeutet Respekt vor dem Leben"'
   
 ---

@@ -2,7 +2,7 @@
 title: Futurium Berlin
 seoTitle: Futurium Berlin - das Haus der Zukünfte
 slug: futurium-berlin
-link: /2020/03/futurium-berlin/
+path: /2020/03/futurium-berlin/
 fileName: 2020-03---futurium-berlin.md
 description: Vor Kurzem haben wir in Berlin das Futurium besucht. Die
   Ausstellungen des interaktiven Museums zeigen verschiedene Zukünfte.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28655"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Das Haus der Zukünfte
   
 ---

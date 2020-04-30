@@ -2,7 +2,7 @@
 title: Die Alsterschwäne sind wieder da
 seoTitle: Die Alsterschwäne sind wieder da - Frühling in Hamburg
 slug: alsterschwaene
-link: /2016/05/alsterschwaene/
+path: /2016/05/alsterschwaene/
 fileName: 2016-05---die-alsterschwaene-sind-wieder-da.md
 description: Die Alsterschwäne werden ja den Winter über "eingetuppert". Sie
   werden eingesammelt und ins Winterquartier gebracht. Jetzt sind sie wieder da.
@@ -23,7 +23,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14671"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Pas de trois am Schwanensee
   
 ---

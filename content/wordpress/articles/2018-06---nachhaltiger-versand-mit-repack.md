@@ -2,7 +2,7 @@
 title: Nachhaltiger Versand mit RePack
 seoTitle: Nachhaltiger Versand mit RePack - Dinge verschicken - immer wieder
 slug: nachhaltiger-versand-mit-repack
-link: /2018/06/nachhaltiger-versand-mit-repack/
+path: /2018/06/nachhaltiger-versand-mit-repack/
 fileName: 2018-06---nachhaltiger-versand-mit-repack.md
 description: "Wie wäre es, wenn man eine Versandtasche einfach immer wieder
   verwenden könnte? Eine clevere Erfindung macht das jetzt möglich: RePack"
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21203"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Dinge verschicken - wieder und wieder und wieder...
   
 ---

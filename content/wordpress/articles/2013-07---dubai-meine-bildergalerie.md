@@ -2,7 +2,7 @@
 title: Dubai - Meine Bildergalerie
 seoTitle: Dubai - Meine Bildergalerie von unserer großen Reise
 slug: dubai
-link: /2013/07/dubai/
+path: /2013/07/dubai/
 fileName: 2013-07---dubai-meine-bildergalerie.md
 description: Auf unserer großen Reise haben wir auch Dubai bereist. Hier sind
   meine Eindrücke.
@@ -25,7 +25,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6094"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Unsere große Reise - Teil I
   
 ---

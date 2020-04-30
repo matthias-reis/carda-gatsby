@@ -2,7 +2,7 @@
 title: Vegane Kosmetik, Biokosmetik und Naturkosmetik
 seoTitle: Vegane Kosmetik, Naturkosmetik und Biokosmetik - Die Unterschiede
 slug: vegane-kosmetik-und-naturkosmetik
-link: /2018/03/vegane-kosmetik-und-naturkosmetik/
+path: /2018/03/vegane-kosmetik-und-naturkosmetik/
 fileName: 2018-03---vegane-kosmetik-biokosmetik-und-naturkosmetik.md
 description: Vegane Kosmetik, Naturkosmetik, Biokosmetik, vegane Naturkosmetik,
   vegane Biokosmetik, vegane, herkömmliche Kosmetik. Was sind eigentlich die
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20261"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Die Unterschiede
   
 ---

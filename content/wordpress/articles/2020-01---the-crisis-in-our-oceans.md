@@ -2,7 +2,7 @@
 title: '"The crisis in our oceans"'
 seoTitle: Greenpeace Kurzfilm "The crisis in our oceans"
 slug: the-crisis-in-our-oceans
-link: /2020/01/the-crisis-in-our-oceans/
+path: /2020/01/the-crisis-in-our-oceans/
 fileName: 2020-01---the-crisis-in-our-oceans.md
 description: Greenpeace produzierte jetzt gemeinsam mit dem Animationsstudio
   Aardmann ("Wallace & Gromit" und "Shaun das Schaf") den Kurzfilm "The crisis
@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "27361"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Neuer Film von Greenpeace und Wallace &amp; Gromit Machern
   
 ---

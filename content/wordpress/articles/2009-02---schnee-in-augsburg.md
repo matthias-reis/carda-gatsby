@@ -2,7 +2,7 @@
 title: Schnee in Augsburg
 seoTitle: Schnee in Augsburg
 slug: schnee-in-augsburg
-link: /2009/02/schnee-in-augsburg/
+path: /2009/02/schnee-in-augsburg/
 fileName: 2009-02---schnee-in-augsburg.md
 description: Wunderschönes Schneegestöber in Augsburg
 excerpt: Einfach zu schön war das Schneegestöber an diesem Morgen in Augsburg.
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "111"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wunderschönes Schneegestöber
   
 ---

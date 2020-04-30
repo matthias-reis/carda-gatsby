@@ -2,7 +2,7 @@
 title: Rock 'n' Roll vegan im neuen Gewand
 seoTitle: Rock ´n´ Roll vegan im neuen Gewand
 slug: rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo
-link: /2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/
+path: /2017/08/rocknroll-vegan-im-neuen-gewand-neuer-blog-und-neues-logo/
 fileName: 2017-08---rock-n-roll-vegan-im-neuen-gewand.md
 description: Heute ist ein ganz besonderer Tag - Mein Blog hat ein neues
   Gesicht. Feierlich enthülle ich heute das neue Design meines Blogs - Mehr Rock
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17458"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Mein Blog sieht jetzt anders aus
   
 ---

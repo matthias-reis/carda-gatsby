@@ -2,7 +2,7 @@
 title: '"Ein anderer Kapitalismus ist machbar"'
 seoTitle: '"Ein anderer Kapitalismus ist machbar" von Muhammad Yunus'
 slug: ein-anderer-kapitalismus-ist-machbar-von-muhammad-yunus
-link: /2018/11/ein-anderer-kapitalismus-ist-machbar-von-muhammad-yunus/
+path: /2018/11/ein-anderer-kapitalismus-ist-machbar-von-muhammad-yunus/
 fileName: 2018-11---ein-anderer-kapitalismus-ist-machbar.md
 description: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der
   Krise wichtiger den je, das Konzept des Kapitalismus zu überdenken. Sein neues
@@ -41,7 +41,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22513"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Buch von Muhammad Yunus
   
 ---

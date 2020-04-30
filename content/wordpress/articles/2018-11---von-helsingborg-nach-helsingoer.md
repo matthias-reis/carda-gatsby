@@ -2,7 +2,7 @@
 title: Von Helsingborg nach Helsingör
 seoTitle: Von Helsingborg nach Helsingör - Finale am Öresund
 slug: von-helsingborg-nach-helsingoer
-link: /2018/11/von-helsingborg-nach-helsingoer/
+path: /2018/11/von-helsingborg-nach-helsingoer/
 fileName: 2018-11---von-helsingborg-nach-helsingoer.md
 description: Irgendwann geht jede Reise zu Ende. Das war auch mit unserem
   Schwedentrip so. Am 30. Juni traten wir unsere Reise von Helsingborg nach
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22830"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Finale am Öresund
   
 ---

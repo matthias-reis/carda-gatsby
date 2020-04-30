@@ -2,7 +2,7 @@
 title: Möwen auf der Brücke
 seoTitle: Möwen auf der Brücke - Fotogalerie
 slug: moewen-auf-der-bruecke
-link: /2016/01/moewen-auf-der-bruecke/
+path: /2016/01/moewen-auf-der-bruecke/
 fileName: 2016-01---moewen-auf-der-bruecke.md
 description: Sind sie nicht hübsch die Möwen, wie sie alle nebeneinander auf dem
   Geländer der Brücke sitzen und eine nach der anderen losziehen?
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13669"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Fotogalerie und Gedicht
   
 ---

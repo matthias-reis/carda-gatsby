@@ -2,7 +2,7 @@
 title: Indojunkie Gründerin Petra Hess
 seoTitle: Sulawesi - On The Road And Inside Indonesia - Interview
 slug: sulawesi-on-the-road-and-inside-indonesia
-link: /2014/09/sulawesi-on-the-road-and-inside-indonesia/
+path: /2014/09/sulawesi-on-the-road-and-inside-indonesia/
 fileName: 2014-09---indojunkie-gruenderin-petra-hess.md
 description: Sulawesi - Die Liebe zu dieser ganz besonderen Insel in Indonesien
   verbindet die beiden Reisebloggerinnen Petra und Melissa. Ich habe sie
@@ -37,7 +37,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8886"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: <strong>Sulawesi - On The Road And Inside Indonesia</strong>
   
 ---

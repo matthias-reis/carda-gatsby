@@ -2,7 +2,7 @@
 title: Sonne und Frieden
 seoTitle: Sonne und Frieden - Flarf-Gedicht zum Frühling
 slug: sonne-und-frieden
-link: /2016/03/sonne-und-frieden/
+path: /2016/03/sonne-und-frieden/
 fileName: 2016-03---sonne-und-frieden.md
 description: Sonne und Frieden. Das sind die beiden Wörter, die ich dieses Mal
   als Gerüst für mein Gedicht verwendet habe. Traurig, was sich derzeit
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14352"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Flarf-Gedicht zum Frühling
   
 ---

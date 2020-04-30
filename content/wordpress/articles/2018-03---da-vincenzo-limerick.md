@@ -2,7 +2,7 @@
 title: Da Vincenzo Limerick
 seoTitle: Da Vincenzo Limerick - Wir haben Irlands beste vegane Pizza probiert
 slug: da-vincenzo-limerick
-link: /2018/03/da-vincenzo-limerick/
+path: /2018/03/da-vincenzo-limerick/
 fileName: 2018-03---da-vincenzo-limerick.md
 description: Ich wage zu behaupten, dass wir im Da Vincenzo in Limerick in den
   Genuss von Irlands bester veganer Steinofenpizza gekommen sind.
@@ -32,7 +32,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19742"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Irlands vegane Pizza mit Herz
   
 ---

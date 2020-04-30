@@ -2,7 +2,7 @@
 title: Glastonbury
 seoTitle: Glastonbury - Anne bloggt cardamonchai
 slug: glastonbury-11-05-2009
-link: /2009/05/glastonbury-11-05-2009/
+path: /2009/05/glastonbury-11-05-2009/
 fileName: 2009-05---glastonbury.md
 description: "Erinnerungen an den Frühling in England 2009 - Heute: Glastonbury"
 excerpt: Glastonbury ist eine Kleinstadt in Somerset. Bekannt ist die Stadt
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11273"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 3/17
   
 ---

@@ -2,7 +2,7 @@
 title: 12 Songs für den April
 seoTitle: 12 Songs für den April - frisch selektiert
 slug: 12-songs-fuer-den-april
-link: /2020/03/12-songs-fuer-den-april/
+path: /2020/03/12-songs-fuer-den-april/
 fileName: 2020-03---12-songs-fuer-den-april.md
 description: Im Moment ist alles anders. Das soll uns aber nicht davon abhalten,
   so viel wie möglich Musik zu konsumieren. Hier kommen unsere Platten des
@@ -45,7 +45,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "28700"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Frisch selektiert von den drei von der Bande
   
 ---

@@ -2,7 +2,7 @@
 title: Ich bin wieder da!
 seoTitle: Ich bin wieder da! Es geht wieder los! Viele neue Bilder für Euch!
 slug: ich-bin-wieder-da
-link: /2017/09/ich-bin-wieder-da/
+path: /2017/09/ich-bin-wieder-da/
 fileName: 2017-09---ich-bin-wieder-da.md
 description: Es geht wieder los! Ich bin wieder da! Von meiner Reise habe ich
   Euch viele Bilder und Geschichten mitgebracht, die ich hier mit Euch teilen
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17897"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Es geht wieder los
   
 ---

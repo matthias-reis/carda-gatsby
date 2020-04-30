@@ -2,7 +2,7 @@
 title: Calexico live @ Muffathalle München
 seoTitle: CALEXICO live @ Muffathalle München
 slug: calexico-live-muffathalle-munchen
-link: /2009/07/calexico-live-muffathalle-munchen/
+path: /2009/07/calexico-live-muffathalle-munchen/
 fileName: 2009-07---calexico-live-muffathalle-muenchen.md
 description: Calexico spielten ein tolles Konzert gestern Abend in der Muffathalle
 excerpt: CALEXICO spielten wieder mal ein tolles Konzert gestern Abend in der
@@ -21,7 +21,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11430"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ein gelungener Auftritt
   
 ---

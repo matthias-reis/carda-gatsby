@@ -2,7 +2,7 @@
 title: Elbe schwarz-weiß bunt
 seoTitle: Elbe schwarz-weiß bunt - Bildergalerie mit Flarfgedicht
 slug: elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht
-link: /2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/
+path: /2017/01/elbe-schwarz-weiss-bunt-bildergalerie-mit-flarfgedicht/
 fileName: 2017-01---elbe-schwarz-weiss-bunt.md
 description: Heute habe ich mal wieder eine Bildergalerie von der Elbe für Euch.
   Stilecht mit Nebel und allem was dazu gehört und obendrauf noch ein Gedicht.
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15612"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Spaziergang an der Elbe
   
 ---

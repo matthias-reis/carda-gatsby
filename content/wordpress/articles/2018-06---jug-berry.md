@@ -2,7 +2,7 @@
 title: Jug Berry
 seoTitle: Jug Berry - Beeriger Cocktail-Genuss aus dem Becher
 slug: jug-berry
-link: /2018/06/jug-berry/
+path: /2018/06/jug-berry/
 fileName: 2018-06---jug-berry.md
 description: Endlich gibt es wieder Erdbeeren. Sie passen einfach überall dazu.
   In Nachspeisen, Salate und Cocktails. Mein Jug Berry schmeckt besonders gut.
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21217"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Beeriger Cocktail-Genuss aus dem Becher
   
 ---

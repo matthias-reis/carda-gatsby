@@ -2,7 +2,7 @@
 title: Tivoli in Kopenhagen
 seoTitle: Tivoli in Kopenhagen - Zuckerstangenbunte Wunderwelt
 slug: tivoli-in-kopenhagen
-link: /2018/07/tivoli-in-kopenhagen/
+path: /2018/07/tivoli-in-kopenhagen/
 fileName: 2018-07---tivoli-in-kopenhagen.md
 description: Reist man durch Dänemark, sollte man auch dem weltberühmten
   Vergnügungspark Tivoli in Kopenhagen einen Besuch abstatten. Es lohnt sich auf
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21364"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Zuckerstangenbunte Wunderwelt
   
 ---

@@ -2,7 +2,7 @@
 title: Ich war so müde!
 seoTitle: Ich war so müde - sind Veganer wirklich gesünder?
 slug: ich-war-so-muede
-link: /2014/08/ich-war-so-muede/
+path: /2014/08/ich-war-so-muede/
 fileName: 2014-08---ich-war-so-muede.md
 description: Immer wieder werden Gerüchte wach, Veganer würden sich ungesund
   ernähren. Selbst große, angesehene Zeitungen und Magazine berichten darüber.
@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8429"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: 10 Fakten über Veganismus - Teil II
   
 ---

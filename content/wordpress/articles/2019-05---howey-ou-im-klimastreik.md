@@ -2,7 +2,7 @@
 title: Howey Ou im Klimastreik
 seoTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China
 slug: howey-ou-klimastreik
-link: /2019/05/howey-ou-klimastreik/
+path: /2019/05/howey-ou-klimastreik/
 fileName: 2019-05---howey-ou-im-klimastreik.md
 description: "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für
   Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die
@@ -28,8 +28,7 @@ isAffiliate: false
 thumbnailId: "24254"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <sub> (12:86)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (12:86)"
 subTitle: 16-jährige Schülerin demonstriert in China
   
 ---

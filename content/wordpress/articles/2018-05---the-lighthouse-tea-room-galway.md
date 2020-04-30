@@ -2,7 +2,7 @@
 title: The Lighthouse Tea Room Galway
 seoTitle: The Lighthouse Tea Room Galway - Vegane Küche vom Feinsten
 slug: the-lighthouse-tea-room-galway
-link: /2018/05/the-lighthouse-tea-room-galway/
+path: /2018/05/the-lighthouse-tea-room-galway/
 fileName: 2018-05---the-lighthouse-tea-room-galway.md
 description: Der vegane und vegetarische Lighthouse Tea Room in Galway zählt zu
   den besonderen Entdeckungen, die wir während unserer Irlandreise gemacht
@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19800"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Vegane Küche vom Feinsten
   
 ---

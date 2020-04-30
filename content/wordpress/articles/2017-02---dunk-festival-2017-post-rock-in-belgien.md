@@ -2,7 +2,7 @@
 title: Dunk!festival 2017 - Post-Rock in Belgien
 seoTitle: Dunk!festival 2017 - Post-Rock in Belgien - Wir sind auch dabei!
 slug: dunkfestival-2016-wir-sind-auch-dabei
-link: /2017/02/dunkfestival-2016-wir-sind-auch-dabei/
+path: /2017/02/dunkfestival-2016-wir-sind-auch-dabei/
 fileName: 2017-02---dunk-festival-2017-post-rock-in-belgien.md
 description: "Vom 25. bis zum 27.5. findet Velzeke-Ruddershove in Belgien das
   Dunk!festival statt. Das Geniale: Es ist ein Post-Rock Festival und wir sind
@@ -95,7 +95,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16009"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Wir sind auch dabei!
   
 ---

@@ -2,7 +2,7 @@
 title: Katzen der Welt
 seoTitle: Katzen der Welt
 slug: katzen-der-welt
-link: /2015/03/katzen-der-welt/
+path: /2015/03/katzen-der-welt/
 fileName: 2015-03---katzen-der-welt.md
 description: Auf meinen Ausflügen u. Reisen habe ich Bilder von Katzen
   gesammelt. Katzen sind für mich schon immer ganz besondere Wesen, schon als
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "10347"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Nachts grau und tagsüber mit Krallen
   
 ---

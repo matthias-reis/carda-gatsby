@@ -2,7 +2,7 @@
 title: I'm sitting in a bubble, trying to get out
 seoTitle: I'm sitting in a bubble, trying to get out
 slug: im-sitting-in-a-bubble-trying-to-get-out
-link: /2011/07/im-sitting-in-a-bubble-trying-to-get-out/
+path: /2011/07/im-sitting-in-a-bubble-trying-to-get-out/
 fileName: 2011-07---im-sitting-in-a-bubble-trying-to-get-out.md
 description: Erst kündigt sich das Gewitter lautstark an, dann zieht es vorbei.
   Der Song des Tages kommt heute von der schwedischen Band JUNIP mit ihrem
@@ -30,7 +30,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11580"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Tagebucheintrag
   
 ---

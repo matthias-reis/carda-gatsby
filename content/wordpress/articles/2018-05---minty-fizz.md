@@ -2,7 +2,7 @@
 title: Minty Fizz
 seoTitle: Minty Fizz - Sommerliches Aperitif-Rezept für Euch - Prost!
 slug: minty-fizz
-link: /2018/05/minty-fizz/
+path: /2018/05/minty-fizz/
 fileName: 2018-05---minty-fizz.md
 description: Liebt Ihr einen guten Fizz? Dann werdet Ihr heute auf jeden Fall
   auf Eure Kosten kommen. Viel Spaß mit meinem Minty Fizz! Hier kommt das
@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20936"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Sommerlicher Aperitif
   
 ---

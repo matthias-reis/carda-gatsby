@@ -2,7 +2,7 @@
 title: FreiVon Gründer Sarah und Paul
 seoTitle: FreiVon Schuhe - vegan, nachhaltig und aus Deutschland
 slug: frei-von-schuhe
-link: /2014/11/frei-von-schuhe/
+path: /2014/11/frei-von-schuhe/
 fileName: 2014-11---freivon-gruender-sarah-und-paul.md
 description: Sarah und Paul von FreiVon sind zwei Menschen, die eine Vision
   teilen - die Vision von fairem, veganem Schuhwerk, das in Deutschland
@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25324"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Schuhe - vegan, nachhaltig und aus Deutschland
   
 ---

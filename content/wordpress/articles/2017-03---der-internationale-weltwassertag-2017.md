@@ -2,7 +2,7 @@
 title: Der Internationale Weltwassertag 2017
 seoTitle: Der Internationale Weltwassertag 2017 - Abwasser als Ressource
 slug: der-internationale-weltwassertag-2017
-link: /2017/03/der-internationale-weltwassertag-2017/
+path: /2017/03/der-internationale-weltwassertag-2017/
 fileName: 2017-03---der-internationale-weltwassertag-2017.md
 description: Jedes Jahr findet am 22. März der Internationale Weltwassertag
   statt. Der diesjährige Weltwassertag steht unter dem Motto "Abwasser als
@@ -34,7 +34,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16201"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Abwasser als Ressource
   
 ---

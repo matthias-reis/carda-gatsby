@@ -2,7 +2,7 @@
 title: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 seoTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 slug: die-geschichte-von-herrn-sommer-von-patrick-sueskind
-link: /2019/03/die-geschichte-von-herrn-sommer-von-patrick-sueskind/
+path: /2019/03/die-geschichte-von-herrn-sommer-von-patrick-sueskind/
 fileName: 2019-03---die-geschichte-von-herrn-sommer-von-patrick-sueskind.md
 description: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein
   besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer
@@ -44,7 +44,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23787"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Illustriert von Jean-Jaques Sempé
   
 ---

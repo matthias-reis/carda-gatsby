@@ -2,7 +2,7 @@
 title: Sonnenschein
 seoTitle: Sonnenschein - Anne bloggt cardamonchai
 slug: sonnenschein
-link: /2009/08/sonnenschein/
+path: /2009/08/sonnenschein/
 fileName: 2009-08---sonnenschein.md
 description: Sonnenschein in Augsburg
 excerpt: In Augsburg ist mir doch neulich tatsächlich die Sonne begegnet!
@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11448"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Gesehen in Augsburg
   
 ---

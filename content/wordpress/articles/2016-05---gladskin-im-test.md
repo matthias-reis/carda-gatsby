@@ -2,7 +2,7 @@
 title: Gladskin im Test
 seoTitle: Gladskin - Vegane Pflege bei Rosacea im Test - Meine Rosen sind weg
 slug: gladskin-vegane-pflege-bei-rosacea
-link: /2016/05/gladskin-vegane-pflege-bei-rosacea/
+path: /2016/05/gladskin-vegane-pflege-bei-rosacea/
 fileName: 2016-05---gladskin-im-test.md
 description: Gute Pflege für von Rosacea geplagte Haut zu finden ist nicht
   leicht. Besonders, wenn sie auch noch vegan sein soll. Ich habe jetzt Gladskin
@@ -36,8 +36,7 @@ isAffiliate: false
 thumbnailId: "14915"
 image: /img/demo.jpg
 errors:
-  - type: invalidMdx
-    message: "unknown: Expected corresponding JSX closing tag for <p> (86:32)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (86:32)"
 subTitle: Vegane Pflege bei Rosacea
   
 ---

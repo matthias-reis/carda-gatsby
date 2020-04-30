@@ -2,7 +2,7 @@
 title: 10 Songs für den April 2019
 seoTitle: 10 Songs für den April - Ausgewählt von den drei von der Bande
 slug: 10-songs-fuer-den-april
-link: /2019/03/10-songs-fuer-den-april/
+path: /2019/03/10-songs-fuer-den-april/
 fileName: 2019-03---10-songs-fuer-den-april-2019.md
 description: Bevor der April um die Ecke kommt, gibt es erstmal was auf die
   Ohren Hier kommen unsere 10 Songs für Euch - liebevoll ausgewählt und
@@ -62,7 +62,7 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23817"
 image: /img/demo.jpg
-errors: []
+errors: {}
 subTitle: Ausgewählt und präsentiert von den drei von der Bande
   
 ---
