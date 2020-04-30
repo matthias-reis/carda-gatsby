@@ -61,13 +61,13 @@ activity('wordpress', async (l) => {
   const parsedArticles = await Promise.all(articlePromises);
   l(`parsed ${yellow(articles.length)} articles`);
 
-  const paths = parsedArticles.map((a) => a.meta.link);
+  const paths = parsedArticles.map((a) => a.meta.path);
   const errors = parsedArticles.reduce((ret, a) => {
     for (const eType in a.meta.errors) {
       if (!ret[eType]) {
         ret[eType] = [];
       }
-      ret[eType].push(a.meta.link);
+      ret[eType].push(a.meta.path);
     }
     return ret;
   }, {});
