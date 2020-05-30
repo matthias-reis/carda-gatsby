@@ -19,8 +19,8 @@ type: Standard
 
 <strong>BOLD</strong>
 
-- a task
-- a checked task
+- [ ] a task
+- [x] a checked task
 
 **Vorgeschlagen** wurde der Tag im Rahmen der _Agenda 21_ der UN-Konferenz für
 **Umwelt und Entwicklung** (UNCED). Die
