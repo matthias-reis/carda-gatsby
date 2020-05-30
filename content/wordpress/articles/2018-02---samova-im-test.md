@@ -37,6 +37,7 @@ isAffiliate: false
 thumbnailId: "19674"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (66:13)"
 subTitle: Nachhaltiger Tee aus Hamburg
   

@@ -31,7 +31,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15436"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Schmuck und Accessoires von Veganern für Veganer
   
 ---

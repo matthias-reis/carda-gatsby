@@ -33,7 +33,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18373"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Teil 2/2 - Puss In Boots Animal Rescue &amp; Adoption stellt sich vor
   
 ---

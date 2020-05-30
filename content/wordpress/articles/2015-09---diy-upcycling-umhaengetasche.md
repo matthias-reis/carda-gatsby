@@ -30,7 +30,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12851"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Aus T-Shirt mach Tasche Teil 2
   
 ---

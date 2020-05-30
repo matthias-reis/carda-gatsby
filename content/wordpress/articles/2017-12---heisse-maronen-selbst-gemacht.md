@@ -21,7 +21,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18687"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Winterlicher Snack für zwischendurch
   
 ---

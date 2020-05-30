@@ -36,7 +36,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7723"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Gregor Gysi zu Innenpolitik und Groko
   
 ---

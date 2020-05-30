@@ -26,7 +26,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13096"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Kuschelig und angesagt
   
 ---

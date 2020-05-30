@@ -19,7 +19,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14708"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Ode an die Wetterlage
   
 ---

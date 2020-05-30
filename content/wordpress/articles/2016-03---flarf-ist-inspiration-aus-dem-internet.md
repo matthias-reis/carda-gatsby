@@ -30,6 +30,7 @@ isAffiliate: false
 thumbnailId: "14253"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:20)"
 subTitle: Poesie der Vernetzung
   

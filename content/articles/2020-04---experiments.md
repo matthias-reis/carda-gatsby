@@ -1,7 +1,7 @@
 ---
 slug: experimente-individual-slug
 title: Experimentierseite
-subtitle:
+subTitle:
   'Mit einem Untertitel. Wo soll der angezeigt werden? Über dem Bild, oder?'
 description: >-
   Dies ist eine laengere Beschreinbung. Sie muss am Ende als meta description im
@@ -78,3 +78,23 @@ veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 ## Playlists
 
 <Playlist spotify="spotify ..." itunes="itunes ..." />
+
+## Headline 2
+
+Text dazwischen
+
+### Headline 3
+
+Text dazwischen
+
+#### Headline 4
+
+Text dazwischen
+
+##### Headline 5
+
+Text dazwischen
+
+###### Headline 6
+
+Text dazwischen

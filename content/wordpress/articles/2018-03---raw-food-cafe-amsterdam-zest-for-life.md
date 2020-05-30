@@ -27,7 +27,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19540"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Roh-vegane Köstlichkeiten für Körper und Seele
   
 ---

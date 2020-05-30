@@ -33,7 +33,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12781"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Schritt-für-Schritt-Anleitung
   
 ---

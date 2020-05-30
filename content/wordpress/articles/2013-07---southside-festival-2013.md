@@ -30,7 +30,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5989"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Die Bildergalerie
   
 ---

@@ -31,7 +31,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12391"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Wir haben den Hockenheimring gerockt
   
 ---

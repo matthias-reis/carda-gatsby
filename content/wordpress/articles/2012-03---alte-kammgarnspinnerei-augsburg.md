@@ -34,7 +34,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "2950"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Das nächtliche Klettern in den Ruinen ist strengstens untersagt
   
 ---

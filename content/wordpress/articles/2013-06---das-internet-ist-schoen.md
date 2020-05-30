@@ -33,7 +33,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5666"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Die Geschichte vom Pfefferturm
   
 ---

@@ -28,6 +28,7 @@ isAffiliate: false
 thumbnailId: "22467"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (67:65)"
 subTitle: Nachhaltige Handtücher als Holz
   

@@ -34,7 +34,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19309"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Handgefertigte vegane Kosmetik mit Zauberduft
   
 ---

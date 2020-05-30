@@ -36,7 +36,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20918"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Wir sind nette Menschen - und Du?
   
 ---

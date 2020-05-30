@@ -32,7 +32,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8950"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Veganes Sonntagsfrühstück für zwei
   
 ---

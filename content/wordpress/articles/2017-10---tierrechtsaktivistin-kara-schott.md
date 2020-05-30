@@ -38,7 +38,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18178"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Teil 1/2 - Die Tiertafel Hamburg stellt sich vor
   
 ---

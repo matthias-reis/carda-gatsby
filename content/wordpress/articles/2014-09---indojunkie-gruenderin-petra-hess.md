@@ -37,7 +37,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "8886"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: <strong>Sulawesi - On The Road And Inside Indonesia</strong>
   
 ---

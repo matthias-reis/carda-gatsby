@@ -34,7 +34,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21688"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Veganer Bio-Glitter von Naissance im Test
   
 ---

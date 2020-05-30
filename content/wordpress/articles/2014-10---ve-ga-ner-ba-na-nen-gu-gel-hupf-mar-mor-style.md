@@ -48,7 +48,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9119"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Freestyle-Backen mit Anne
   
 ---

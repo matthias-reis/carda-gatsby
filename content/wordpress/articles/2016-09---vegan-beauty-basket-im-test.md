@@ -30,7 +30,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15196"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Unboxing Wellness
   
 ---

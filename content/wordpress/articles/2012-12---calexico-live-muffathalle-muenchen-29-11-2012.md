@@ -31,7 +31,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4596"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Fotogalerie
   
 ---

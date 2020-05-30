@@ -11,9 +11,27 @@ import { Playlist } from './playlist';
 import Image from './image';
 import { Link } from './link';
 import { Frame } from './frame';
+import { H1, H2, H3, H4, H5, H6, P, Ul, Ol, Li, BlockQuote } from './typo';
+import { HR } from './hr';
 
 const shortcodes = { Meme, Youtube, Playlist };
-const defaults = { a: Link, img: Image };
+
+const defaults = {
+  a: Link,
+  img: Image,
+  h1: H1,
+  h2: H2,
+  h3: H3,
+  h4: H4,
+  h5: H5,
+  h6: H6,
+  p: P,
+  ul: Ul,
+  ol: Ol,
+  li: Li,
+  hr: HR,
+  blockquote: BlockQuote,
+};
 
 export default function ArticleController({ data }) {
   return (
@@ -35,11 +53,11 @@ export const query = graphql`
       body
       fields {
         labels
+        path
       }
       frontmatter {
         title
         subTitle
-        path
         description
         image {
           childImageSharp {

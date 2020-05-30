@@ -32,7 +32,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14645"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Konzert und Plattenrelease
   
 ---

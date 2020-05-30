@@ -28,7 +28,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14352"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Flarf-Gedicht zum Frühling
   
 ---

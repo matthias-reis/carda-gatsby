@@ -27,7 +27,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5354"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Treffen der Giganten am 5. Mai 2013 in München
   
 ---

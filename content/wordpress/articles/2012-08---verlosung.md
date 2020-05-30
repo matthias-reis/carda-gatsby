@@ -82,7 +82,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3997"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
   
 ---

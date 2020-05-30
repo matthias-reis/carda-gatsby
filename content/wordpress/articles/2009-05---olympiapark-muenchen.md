@@ -22,7 +22,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11214"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Impressionen aus dem Olympiapark München
   
 ---

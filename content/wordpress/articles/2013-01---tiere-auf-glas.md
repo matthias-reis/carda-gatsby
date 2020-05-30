@@ -37,7 +37,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "4800"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Pfoten und Fell
   
 ---

@@ -35,7 +35,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5980"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Southside Festival wir kommen!
   
 ---

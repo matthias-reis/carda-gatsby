@@ -30,7 +30,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18415"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Von A wie "Architektur" bis W wie "Webdesign"
   
 ---

@@ -36,7 +36,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9363"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Eine leckere pflanzliche Alternative
   
 ---

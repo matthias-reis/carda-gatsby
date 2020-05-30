@@ -27,7 +27,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3732"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 9/9
   
 ---

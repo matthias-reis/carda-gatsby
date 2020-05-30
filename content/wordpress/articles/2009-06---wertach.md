@@ -20,7 +20,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11370"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Spaziergang in Augsburg
   
 ---

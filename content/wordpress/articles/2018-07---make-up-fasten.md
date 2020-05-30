@@ -43,6 +43,7 @@ isAffiliate: false
 thumbnailId: "21456"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Unterminated JSX contents (83:16)"
 subTitle: Einfach mal auf Schminke verzichten
   

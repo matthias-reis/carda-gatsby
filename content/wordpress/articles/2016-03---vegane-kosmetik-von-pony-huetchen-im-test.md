@@ -27,7 +27,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14210"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Natürliche Essenzen und traumhafte Düfte
   
 ---

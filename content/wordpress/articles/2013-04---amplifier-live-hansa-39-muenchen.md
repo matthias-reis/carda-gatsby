@@ -34,7 +34,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "5268"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Vielleicht das beste Konzert aller Zeiten
   
 ---

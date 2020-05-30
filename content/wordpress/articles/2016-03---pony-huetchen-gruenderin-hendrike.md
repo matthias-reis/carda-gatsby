@@ -31,7 +31,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14284"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: „Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist!“
   
 ---

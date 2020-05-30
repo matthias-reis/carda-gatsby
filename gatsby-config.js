@@ -29,13 +29,13 @@ module.exports = {
         name: 'article',
       },
     },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/content/wordpress/articles`,
-        name: 'wordpress',
-      },
-    },
+    // {
+    //   resolve: 'gatsby-source-filesystem',
+    //   options: {
+    //     path: `${__dirname}/content/wordpress/articles`,
+    //     name: 'wordpress',
+    //   },
+    // },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -109,12 +109,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-emotion`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/typography.js`,
-      },
-    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 };

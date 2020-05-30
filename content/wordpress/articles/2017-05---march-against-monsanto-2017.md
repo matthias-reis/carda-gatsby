@@ -50,7 +50,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16732"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Hamburg geht gegen Konzerngiganten auf die Straße
   
 ---

@@ -30,6 +30,7 @@ isAffiliate: false
 thumbnailId: "14411"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:25)"
 subTitle: Ein Flarf-Gedicht
   

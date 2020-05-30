@@ -47,6 +47,7 @@ isAffiliate: false
 thumbnailId: "8920"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (12:185)"
 subTitle: Herbstlich bunt und saftig
   

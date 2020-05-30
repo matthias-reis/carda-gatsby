@@ -28,7 +28,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21217"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Beeriger Cocktail-Genuss aus dem Becher
   
 ---

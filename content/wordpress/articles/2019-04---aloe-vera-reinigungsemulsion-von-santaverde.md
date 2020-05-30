@@ -32,7 +32,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23901"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Beauty-Liebling für frische Gesichtshaut
   
 ---

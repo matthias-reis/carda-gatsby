@@ -28,7 +28,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "22411"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Meine erste Elch-Begegnung
   
 ---

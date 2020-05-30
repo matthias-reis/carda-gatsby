@@ -31,7 +31,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13234"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: '"Ich möchte Schmuck für Veganer machen!"'
   
 ---

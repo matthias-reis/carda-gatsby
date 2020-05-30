@@ -33,7 +33,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16276"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Das fleißige Blümchen aus Meerbusch
   
 ---

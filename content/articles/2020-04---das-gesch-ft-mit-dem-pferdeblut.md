@@ -1,7 +1,7 @@
 ---
 templateKey: article
 title: Das Geschäft mit dem Pferdeblut
-subtitle: Tierschützer zeigen Tierquälerei auf Blutfarmen
+subTitle: Tierschützer zeigen Tierquälerei auf Blutfarmen
 description: >-
   Erst vor Kurzem haben Tierschützer aufgedeckt wie in Uruguay und Argentinien
   trächtige Pferde grausam gequält werden.
@@ -66,7 +66,6 @@ vorzuschieben und so schnell wie nur möglich die notwendigen Gesetze zu
 verabschieden.
 
 [^1]:
-
   [Bericht aus der Süddeutschen Zeitung vom 29. September 2015](http://www.sueddeutsche.de/wirtschaft/handel-grausamer-bluttransfer-1.2668283)
 
 [^2]: Animal [Welfare Foundation](http://animal-welfare-foundation.org/)

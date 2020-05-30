@@ -65,6 +65,7 @@ isAffiliate: false
 thumbnailId: "2556"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:41)"
 subTitle: Der Mixtape-Tausch Teil 2
   

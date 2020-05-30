@@ -30,7 +30,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12193"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: '"Ich möchte praktische und schicke Kleidung für Kinder machen!"'
   
 ---

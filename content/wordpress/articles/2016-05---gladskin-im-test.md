@@ -36,6 +36,7 @@ isAffiliate: false
 thumbnailId: "14915"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (86:32)"
 subTitle: Vegane Pflege bei Rosacea
   

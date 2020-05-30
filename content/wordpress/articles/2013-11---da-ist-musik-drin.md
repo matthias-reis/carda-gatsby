@@ -22,7 +22,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7597"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Die Post war da
   
 ---

@@ -34,7 +34,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "23212"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Zarter Duft für sensible Haut
   
 ---

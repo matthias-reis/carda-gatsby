@@ -31,6 +31,7 @@ isAffiliate: false
 thumbnailId: "18844"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:24)"
 subTitle: Flarfgedicht zum Jahresanfang
   

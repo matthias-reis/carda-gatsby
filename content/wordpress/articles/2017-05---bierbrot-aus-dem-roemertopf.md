@@ -31,7 +31,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16565"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: "\"This looks fuckin' awesome!\"..."
   
 ---

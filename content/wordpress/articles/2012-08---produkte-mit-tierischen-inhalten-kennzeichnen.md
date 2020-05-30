@@ -33,7 +33,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11703"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Food-Watch ruft Mitmach-Aktion ins Leben
   
 ---

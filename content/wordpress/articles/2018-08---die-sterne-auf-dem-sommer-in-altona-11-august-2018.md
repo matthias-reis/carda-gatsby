@@ -34,7 +34,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21701"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Live und <em>in echt</em>
   
 ---

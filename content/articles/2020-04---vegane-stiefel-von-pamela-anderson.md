@@ -1,7 +1,7 @@
 ---
 templateKey: article
 title: Vegane Stiefel von Pamela Anderson
-subtitle: Pammie Boots
+subTitle: Pammie Boots
 description: >-
   Pamela Anderson kämpft bei PETA an vorderster Front. Jetzt hat die
   Tierrechtsaktivistin das vegane Schuhlabel "Pammies" gegründet.

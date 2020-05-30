@@ -42,7 +42,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "18094"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: 10 Fragen an Hamburgs neue Szene-Barkeeper
   
 ---

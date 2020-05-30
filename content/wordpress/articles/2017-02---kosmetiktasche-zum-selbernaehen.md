@@ -29,7 +29,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15868"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Nähanleitung
   
 ---

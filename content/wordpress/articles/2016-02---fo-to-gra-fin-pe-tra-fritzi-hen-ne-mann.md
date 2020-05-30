@@ -32,7 +32,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "14052"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: '"Aufregung ist etwas ganz Normales"'
   
 ---

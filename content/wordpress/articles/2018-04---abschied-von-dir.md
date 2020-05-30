@@ -33,6 +33,7 @@ thumbnailId: "20479"
 image: /img/demo.jpg
 errors:
   noSubtitle: no h2 heading found - no sub title
+  oldGallery: article has an old wordpress gallery
   
 ---
 

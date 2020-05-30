@@ -1,5 +1,5 @@
 const { resolve } = require('path');
-const { yellow } = require('chalk');
+const { bold, yellow } = require('chalk');
 const { writeFileSync } = require('fs');
 const { join } = require('path');
 
@@ -19,6 +19,7 @@ const links = require('./links');
 const blockquote = require('./blockquote');
 const lists = require('./lists');
 const cleanup = require('./cleanup');
+const gallery = require('./gallery');
 const verify = require('./verify');
 const write = require('./write');
 
@@ -49,6 +50,7 @@ activity('wordpress', async (l) => {
       m.lines[i] = await activity('links', links)(m.lines[i]);
       m.lines[i] = await activity('images', images)(m.lines[i]);
       m.lines[i] = await activity('lists', lists)(m.lines[i]);
+      m.lines[i] = await activity('gallery', gallery)(m.lines[i], m);
       // metadata = await activity('cleanup', cleanup, false)(metadata);
     }
     m = await activity('concat', concat, false)(m);
@@ -67,10 +69,29 @@ activity('wordpress', async (l) => {
       if (!ret[eType]) {
         ret[eType] = [];
       }
-      ret[eType].push(a.meta.path);
+      ret[eType].push({
+        path: `https://cardamonchai.com${a.meta.path}`,
+        message: a.meta.errors[eType],
+      });
     }
     return ret;
   }, {});
+
+  let errorOutput = '';
+  for (const type in errors) {
+    errorOutput += `
+    <h2>${type}</h2>
+    `;
+    for (const error of errors[type]) {
+      errorOutput += `
+<p>
+  <a href="${error.path}">
+    <strong>${error.path}</strong><br />
+    ${error.message}
+  </a>
+</p>`;
+    }
+  }
 
   writeFileSync(
     join(__dirname, '../../content/wordpress/metadata/meta.json'),
@@ -79,6 +100,17 @@ activity('wordpress', async (l) => {
       encoding: 'utf8',
     }
   );
+  writeFileSync(
+    join(__dirname, '../../content/wordpress/metadata/errors.html'),
+    errorOutput,
+    {
+      encoding: 'utf8',
+    }
+  );
+
+  for (const type in errors) {
+    l(`found ${yellow(errors[type].length)} errors of type ${bold(type)}`);
+  }
 
   l(`✅ all done`);
 })();

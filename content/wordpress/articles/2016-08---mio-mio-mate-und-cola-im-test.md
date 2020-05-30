@@ -31,7 +31,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "15061"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Vegane Limo mit Geschmack
   
 ---

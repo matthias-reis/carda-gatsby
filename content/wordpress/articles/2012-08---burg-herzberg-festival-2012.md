@@ -32,7 +32,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "3597"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Sonne, Schlamm und gute Laune
   
 ---

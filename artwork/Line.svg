@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="24px" viewBox="0 0 500 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line</title>
+    <g id="Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="0" y1="12.5" x2="500" y2="12.5" id="Path" stroke="#000000"></line>
+        <polygon id="Path-2" stroke="#000000" points="250.5 12 234 4 234 20 267 4 267 20"></polygon>
+        <polygon id="Path-3" stroke="#000000" points="283 4 218 20 218 4 283 20"></polygon>
+        <line x1="234" y1="8.5" x2="25" y2="8.5" id="Path-4" stroke="#000000"></line>
+        <line x1="25" y1="16.5" x2="234" y2="16.5" id="Path-5" stroke="#000000"></line>
+        <line x1="267" y1="16.5" x2="475" y2="16.5" id="Path-6" stroke="#000000"></line>
+        <line x1="475" y1="8.5" x2="267" y2="8.5" id="Path-7" stroke="#000000"></line>
+    </g>
+</svg>

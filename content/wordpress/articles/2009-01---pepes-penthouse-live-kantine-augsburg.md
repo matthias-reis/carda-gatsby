@@ -32,7 +32,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11104"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Band des Jahres 2009
   
 ---

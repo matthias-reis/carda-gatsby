@@ -38,7 +38,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20519"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Faire Taschen aus Teesäcken
   
 ---

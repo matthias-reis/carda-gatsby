@@ -28,6 +28,7 @@ isAffiliate: false
 thumbnailId: "23256"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Unterminated JSX contents (32:16)"
 subTitle: Besser werden ist gut
   

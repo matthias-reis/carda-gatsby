@@ -25,7 +25,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "6094"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Unsere große Reise - Teil I
   
 ---

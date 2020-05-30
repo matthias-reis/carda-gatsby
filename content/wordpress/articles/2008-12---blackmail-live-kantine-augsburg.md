@@ -27,7 +27,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11024"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Aktuelle Songs und alte Hits
   
 ---

@@ -38,7 +38,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21333"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Neues Open Air Event steht in den Startlöchern
   
 ---

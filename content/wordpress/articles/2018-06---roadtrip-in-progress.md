@@ -27,7 +27,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21183"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Sommerliche Auszeit
   
 ---

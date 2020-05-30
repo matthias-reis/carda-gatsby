@@ -39,6 +39,7 @@ isAffiliate: false
 thumbnailId: "13337"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (66:106)"
 subTitle: Ein perfektes Weihnachtsgeschenk
   

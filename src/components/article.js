@@ -1,11 +1,13 @@
 import React from 'react';
-import { Link } from '@reach/router';
 import styled from '@emotion/styled';
 import Image from 'gatsby-image';
 
-import { Title, Subtitle } from './headline';
+import { Link } from './link';
+import { Title, Subtitle } from './typo';
+import { HR } from './hr';
+
 import { getPath } from '../gatsby/slugify';
-import { space } from '../style';
+import { space, color } from '../style';
 
 const ImageContainer = styled.div`
   margin-top: ${space[2]};
@@ -22,15 +24,26 @@ const Label = styled(Link)`
   text-decoration: none;
 `;
 
+const Meta = styled.p`
+  margin: 0 0 ${space[2]} 0;
+  color: ${color.neutral[3]};
+  text-align: center;
+`;
+
+const CurrentLink = styled.a`
+  color: ${color.cold[0]};
+`;
+
 export const Article = ({ children, meta }) => {
   return (
     <>
-      <p>
-        <Link to="/">〈 Homepage</Link>
-      </p>
-      <p>
-        <a href={`https://cardamonchai.com${meta.path}`}>〉Cardamonchai now</a>
-      </p>
+      <Meta>
+        Beitrag vom 21.12.2022 ·{' '}
+        <CurrentLink href={`https://cardamonchai.com${meta.path}`}>
+          jetzt
+        </CurrentLink>
+      </Meta>
+      <HR />
       <Title>{meta.title}</Title>
       {meta.subTitle && <Subtitle>{meta.subTitle}</Subtitle>}
       <ImageContainer>

@@ -36,7 +36,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "9271"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Auflauf mit Pastinaken und Kartoffeln
   
 ---

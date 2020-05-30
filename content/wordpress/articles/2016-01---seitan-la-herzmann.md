@@ -29,7 +29,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "13750"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Vleisch für Braten oder mehr
   
 ---

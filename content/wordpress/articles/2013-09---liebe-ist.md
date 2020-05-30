@@ -21,7 +21,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "7224"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Gute Freunde und Fotos
   
 ---

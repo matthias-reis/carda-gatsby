@@ -35,7 +35,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "17062"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Statusmeldung einer Anwohnerin
   
 ---

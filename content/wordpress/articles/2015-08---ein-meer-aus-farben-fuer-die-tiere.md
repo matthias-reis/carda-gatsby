@@ -29,6 +29,7 @@ isAffiliate: false
 thumbnailId: "12288"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:9)"
 subTitle: Bilder von Denise Slapansky
   

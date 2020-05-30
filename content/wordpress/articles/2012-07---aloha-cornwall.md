@@ -48,6 +48,7 @@ isAffiliate: false
 thumbnailId: "3508"
 image: /img/demo.jpg
 errors:
+  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (34:68)"
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 6/9
   

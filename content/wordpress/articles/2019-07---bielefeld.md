@@ -22,7 +22,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "25420"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Eine kreative Stadt im Teutoburger Wald
   
 ---

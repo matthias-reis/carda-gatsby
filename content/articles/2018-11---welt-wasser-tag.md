@@ -1,7 +1,7 @@
 ---
 slug: welt-wasser-tag
 title: NUR ZUM EXPERIMENTIEREN Weltwassertag 2018
-subtitle: Naturbasierte Lösungen für das Wasser
+subTitle: Naturbasierte Lösungen für das Wasser
 description: >-
   Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag
   statt. Er soll daran erinnern, dass Wasser die Grundlage für das Leben auf der

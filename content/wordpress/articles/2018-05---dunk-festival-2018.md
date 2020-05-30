@@ -58,7 +58,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "20872"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: 36 Post-Rock Bands in drei Tagen
   
 ---

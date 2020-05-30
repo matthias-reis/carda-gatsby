@@ -28,7 +28,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "19879"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Kreative vegane Burger und mehr
   
 ---

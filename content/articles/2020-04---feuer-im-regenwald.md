@@ -1,7 +1,7 @@
 ---
 templateKey: article
 title: Feuer im Regenwald
-subtitle: Das traurige Los der Orang-Utans
+subTitle: Das traurige Los der Orang-Utans
 description: >-
   Die Orang-Utans sterben aus. Niemand scheint sich darum zu kümmern. Schuld ist
   ein Produkt, mit dem sich viele noch nie beschäftigt haben: Palmöl.

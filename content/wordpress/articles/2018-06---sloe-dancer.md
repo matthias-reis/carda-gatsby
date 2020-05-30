@@ -31,7 +31,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "21137"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Kleiner feiner Vorglüh-Cocktail für coole Sommerabende
   
 ---

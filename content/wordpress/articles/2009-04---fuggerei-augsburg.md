@@ -28,7 +28,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "11197"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Eine Sozialbausiedlung mit Geschichte
   
 ---

@@ -24,7 +24,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "12652"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Selbstgemacht an nur einem Nachmittag
   
 ---

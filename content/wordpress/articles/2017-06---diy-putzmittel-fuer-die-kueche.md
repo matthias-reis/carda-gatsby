@@ -36,7 +36,8 @@ isWerbung: false
 isAffiliate: false
 thumbnailId: "16905"
 image: /img/demo.jpg
-errors: {}
+errors:
+  oldGallery: article has an old wordpress gallery
 subTitle: Putzen ohne Gift
   
 ---
