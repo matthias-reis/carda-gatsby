@@ -7,25 +7,16 @@ import { Interactions } from './interactions';
 import { Title, Subtitle } from './typo';
 import { HR } from './hr';
 import { Container } from './container';
+import { CrossLinkSection } from './crosslink-section';
+import { FooterNavigation } from './footer-navigation';
+import { InteractionDetails } from './interaction-details';
 
 import { getPath } from '../gatsby/slugify';
-import { space, color, width } from '../style';
+import { space, color } from '../style';
 import { Article as ArticleMeta } from '../types';
 
 const ArticleFooter = styled.div`
   margin-top: ${space[4]};
-`;
-
-const InteractionDetails = styled.aside`
-  background: ${color.cold[3]};
-`;
-
-const CrossLinkSection = styled.nav`
-  background: ${color.neutral[5]};
-`;
-
-const FooterNavigation = styled.footer`
-  background: ${color.neutral[2]};
 `;
 
 const ImageContainer = styled.div`
@@ -83,17 +74,9 @@ export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
         )}
       </ArticleContainer>
       <ArticleFooter>
-        <InteractionDetails>
-          <Container large>Interaction Details</Container>
-        </InteractionDetails>
-
-        <CrossLinkSection>
-          <Container large>Crosslink Section</Container>
-        </CrossLinkSection>
-
-        <FooterNavigation>
-          <Container large>FooterNavigation</Container>
-        </FooterNavigation>
+        <InteractionDetails />
+        <CrossLinkSection />
+        <FooterNavigation />
       </ArticleFooter>
     </div>
   );
