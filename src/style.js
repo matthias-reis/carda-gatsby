@@ -15,7 +15,15 @@ export const fontSize = [
 ];
 
 export const color = {
-  neutral: ['#111111', '#444444', '#666666', '#999999', '#CCCCCC', '#EEEEEE'],
+  neutral: [
+    '#111111',
+    '#444444',
+    '#666666',
+    '#999999',
+    '#CCCCCC',
+    '#DDDDDD',
+    '#EEEEEE',
+  ],
   warm: ['#FE4365', '#FC9D9A', '#F9CDAD'],
   cold: ['#477761', '#83AF9B', '#a2bfb2', '#c9ded5', '#C8C8A9'],
   border: ['#AAAAAA', '#CCCCCC'],

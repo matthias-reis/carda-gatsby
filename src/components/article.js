@@ -3,11 +3,29 @@ import styled from '@emotion/styled';
 import Image from 'gatsby-image';
 
 import { Link } from './link';
+import { Interactions } from './interactions';
 import { Title, Subtitle } from './typo';
 import { HR } from './hr';
+import { Container } from './container';
 
 import { getPath } from '../gatsby/slugify';
-import { space, color } from '../style';
+import { space, color, width } from '../style';
+
+const ArticleFooter = styled.div`
+  margin-top: ${space[4]};
+`;
+
+const InteractionDetails = styled.aside`
+  background: ${color.cold[3]};
+`;
+
+const CrossLinkSection = styled.nav`
+  background: ${color.neutral[5]};
+`;
+
+const FooterNavigation = styled.footer`
+  background: ${color.neutral[2]};
+`;
 
 const ImageContainer = styled.div`
   margin-top: ${space[2]};
@@ -36,28 +54,44 @@ const CurrentLink = styled.a`
 
 export const Article = ({ children, meta }) => {
   return (
-    <>
-      <Meta>
-        Beitrag vom 21.12.2022 ·{' '}
-        <CurrentLink href={`https://cardamonchai.com${meta.path}`}>
-          jetzt
-        </CurrentLink>
-      </Meta>
-      <HR />
-      <Title>{meta.title}</Title>
-      {meta.subTitle && <Subtitle>{meta.subTitle}</Subtitle>}
-      <ImageContainer>
-        {meta.image && <Image fluid={meta.image.childImageSharp.fluid} />}
-      </ImageContainer>
-      <div>{children}</div>
-      {meta.labels && (
-        <nav>
-          {meta.labels.map((label) => {
-            const destination = getPath(label);
-            return <Label to={destination}>{label}</Label>;
-          })}
-        </nav>
-      )}
-    </>
+    <div>
+      <Container as="article">
+        <Interactions meta={meta} />
+        <Meta>
+          Beitrag vom 21.12.2022 ·{' '}
+          <CurrentLink href={`https://cardamonchai.com${meta.path}`}>
+            jetzt
+          </CurrentLink>
+        </Meta>
+        <HR />
+        <Title>{meta.title}</Title>
+        {meta.subTitle && <Subtitle>{meta.subTitle}</Subtitle>}
+        <ImageContainer>
+          {meta.image && <Image fluid={meta.image.childImageSharp.fluid} />}
+        </ImageContainer>
+        <div>{children}</div>
+        {meta.labels && (
+          <nav>
+            {meta.labels.map((label) => {
+              const destination = getPath(label);
+              return <Label to={destination}>{label}</Label>;
+            })}
+          </nav>
+        )}
+      </Container>
+      <ArticleFooter>
+        <InteractionDetails>
+          <Container large>Interaction Details</Container>
+        </InteractionDetails>
+
+        <CrossLinkSection>
+          <Container large>Crosslink Section</Container>
+        </CrossLinkSection>
+
+        <FooterNavigation>
+          <Container large>FooterNavigation</Container>
+        </FooterNavigation>
+      </ArticleFooter>
+    </div>
   );
 };

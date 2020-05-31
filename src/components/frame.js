@@ -13,9 +13,7 @@ const PageContainer = styled.div`
   margin: 0;
 `;
 const ContentContainer = styled.div`
-  margin: ${space[3]} auto;
-  max-width: ${width[4]};
-  padding: ${space[1]};
+  margin: ${space[3]} 0 0 0;
 `;
 
 export const Frame = ({ children }) => {
