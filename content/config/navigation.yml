@@ -1,2 +1,41 @@
 mainNavigation:
-  -
+  - label: Buch kaufen
+    url: https://amreis.de/ha118
+  - label: Rock'n'Roll
+    url: /tags/musik
+    children:
+      - { url: /tags/interview, label: Interview }
+      - { url: /tags/bands-reviews, label: Bands & Reviews }
+      - { url: /tags/konzerte, label: Konzerte }
+      - { url: /tags/festivals, label: Festivals }
+      - { url: /tags/buecher-und-filme, label: Bücher & Filme }
+  - label: Vegan
+    url: /tags/vegan
+    children:
+      - { url: /tags/rezepte, label: Vegane Rezepte }
+      - { url: /tags/go-vegan, label: Darum vegan }
+      - { url: /tags/vegane-lokale, label: Vegane Lokale }
+      - { url: /tags/vegan-beauty, label: Mode & Beauty vegan }
+      - { url: /tags/produkte, label: Vegane Produkte }
+  - label: Gesellschaft
+    url: /tags/gesellschaft
+    children:
+      - { url: /tags/tierrechte, label: Tierrechte }
+      - { url: /tags/klima-umweltschutz, label: Klima & Umweltschutz }
+      - { url: /tags/politik-soziales, label: Politik & Soziales }
+      - { url: /tags/kunst, label: Kunst }
+  - label: Unterwegs
+    url: /tags/unterwegs
+    children:
+      - { url: /tags/reisen, label: Reisen }
+      - { url: /tags/hamburg, label: Hamburg }
+      - { url: /tags/ausflug, label: Ausflug }
+      - { url: /tags/skandinavien, label: Skandinavien }
+      - { url: /tags/england, label: Britische Inseln }
+  - label: Kreatives
+    url: /tags/kreatives
+    children:
+      - { url: /tags/diy, label: DIY }
+      - { url: /tags/prosa, label: Prosa }
+      - { url: /tags/lyrik, label: Lyrik }
+      - { url: /tags/tagebuch, label: Tagebuch }
