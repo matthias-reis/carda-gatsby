@@ -1,7 +1,7 @@
-import { fmImagesToRelative } from 'gatsby-remark-relative-images';
-import { createFilePath } from 'gatsby-source-filesystem';
-import { slugify } from './slugify';
-import { CreateNodeArgs } from 'gatsby';
+import { fmImagesToRelative } from "gatsby-remark-relative-images";
+import { createFilePath } from "gatsby-source-filesystem";
+import { slugify } from "./slugify";
+import { CreateNodeArgs } from "gatsby";
 
 export const onCreateNode = ({
   node,
@@ -11,16 +11,16 @@ export const onCreateNode = ({
   const { createNodeField } = actions;
   fmImagesToRelative(node);
   if (node.internal.type === `Mdx`) {
-    console.log('XXXXXXXX', node?.frontmatter ?? {}); // convert image paths for gatsby images
+    // convert image paths for gatsby images
     const parent = getNode(node.parent);
     const type = parent.sourceInstanceName;
-    const value = createFilePath({ node, getNode }).replace(/\//g, '');
-    const slug = slugify(node?.frontmatter?.title ?? '');
+    const value = createFilePath({ node, getNode }).replace(/\//g, "");
+    const slug = slugify(node?.frontmatter?.title ?? "");
 
-    let path = '';
-    if (type === 'article' || type === 'wordpress') {
-      const date = value.split('---')[0];
-      const [year, month] = date.split('-');
+    let path = "";
+    if (type === "article" || type === "wordpress") {
+      const date = value.split("---")[0];
+      const [year, month] = date.split("-");
       path = node?.frontmatter?.path || `/${year}/${month}/${slug}/`;
       const labels = [
         ...(node?.frontmatter?.labels || []),
@@ -42,7 +42,7 @@ export const onCreateNode = ({
         name: `month`,
         value: month,
       });
-    } else if (type === 'page') {
+    } else if (type === "page") {
       path = `/pages/${slug}`;
     }
 

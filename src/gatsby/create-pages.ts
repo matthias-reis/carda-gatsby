@@ -1,6 +1,9 @@
-import { resolve } from 'path';
-import { getPath } from './slugify';
-import { CreatePagesArgs } from 'gatsby';
+import { resolve } from "path";
+import { getPath } from "./slugify";
+import { createHash } from "crypto";
+import { CreatePagesArgs } from "gatsby";
+
+import { recommend, ArticleTeaser, MdxArticle, Labels } from "./recommend";
 
 const ALL_PAGE_QUERY = `
 query MyQuery {
@@ -16,7 +19,10 @@ query MyQuery {
           labels
         }
         frontmatter {
-          labels
+          title
+          subTitle
+          date
+          description
         }
       }
     }
@@ -24,23 +30,27 @@ query MyQuery {
 }
 `;
 
-export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
-  const { createPage } = actions;
+export const createPages = async ({
+  actions,
+  graphql,
+  getNode,
+}: CreatePagesArgs) => {
+  const { createPage, createNodeField } = actions;
 
   const { errors, data } = await graphql<AllPageQuery>(ALL_PAGE_QUERY);
   if (errors) {
     errors.forEach((e: Error) => console.error(e.toString()));
-    throw new Error(`All page query ended with errors: ${errors.join(', ')}`);
+    throw new Error(`All page query ended with errors: ${errors.join(", ")}`);
   }
 
   const edges = data!.allMdx.edges;
-  let labels: string[] = [];
+  const labels: Labels = {};
 
   for (const edge of edges) {
-    const { id, fields } = edge.node;
+    const { id, fields, frontmatter } = edge.node;
     const component = resolve(
       __dirname,
-      '../components',
+      "../components",
       `article-controller.tsx`
     );
     createPage({
@@ -51,22 +61,52 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
       },
     });
 
-    labels = [...labels, ...(fields.labels || [])];
+    for (const label of fields.labels || []) {
+      if (!labels[label]) {
+        labels[label] = [];
+      }
+      labels[label].push({
+        path: fields.path,
+        date: frontmatter.date,
+        title: frontmatter.title,
+        subTitle: frontmatter.subTitle,
+        description: frontmatter.description,
+        image: frontmatter.image,
+      });
+    }
   }
 
   // create label pages
-  labels = Array.from(new Set(labels));
-  for (const label of labels) {
+  for (const label in labels) {
     const path = getPath(label);
     if (path) {
       const component = resolve(
         __dirname,
-        '../components',
+        "../components",
         `label-controller.tsx`
       );
       createPage({ path, component, context: { label } });
     }
   }
+
+  // fire the recommender engine
+  for (const edge of edges) {
+    const article = edge.node;
+    const recommendations = recommend(article, labels);
+
+    const node = getNode(edge.node.id);
+    // save recos to article
+    createNodeField({
+      node,
+      name: "recommendations",
+      value: recommendations,
+    });
+
+    // console.log(article.frontmatter.title, recommendations.length);
+    // recommendations.forEach((r) => console.log(r.vote, r.article.title));
+  }
+
+  // process.exit(0);
 };
 
 type AllPageQuery = {
@@ -76,17 +116,5 @@ type AllPageQuery = {
 };
 
 type AllPageQueryNode = {
-  node: {
-    id: string;
-    fields: {
-      path: string;
-      month: string;
-      year: string;
-      type: string;
-      labels: string[];
-    };
-    frontmatter: {
-      labels: string[];
-    };
-  };
+  node: MdxArticle;
 };
