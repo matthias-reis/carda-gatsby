@@ -1,19 +1,19 @@
-import React from 'react';
-import styled from '@emotion/styled';
-import Image from 'gatsby-image';
+import React from "react";
+import styled from "@emotion/styled";
+import Image from "gatsby-image";
 
-import { Link } from './link';
-import { Interactions } from './interactions';
-import { Title, Subtitle } from './typo';
-import { HR } from './hr';
-import { Container } from './container';
-import { CrossLinkSection } from './crosslink-section';
-import { FooterNavigation } from './footer-navigation';
-import { InteractionDetails } from './interaction-details';
+import { Link } from "./link";
+import { Interactions } from "./interactions";
+import { Title, Subtitle } from "./typo";
+import { HR } from "./hr";
+import { Container } from "./container";
+import { ArticleCrossLinkSection } from "./article-crosslink-section";
+import { FooterNavigation } from "./footer-navigation";
+import { InteractionDetails } from "./interaction-details";
 
-import { getPath } from '../gatsby/slugify';
-import { space, color } from '../style';
-import { Article as ArticleMeta } from '../types';
+import { getPath } from "../gatsby/slugify";
+import { space, color } from "../style";
+import { Article as ArticleMeta } from "../types";
 
 const ArticleFooter = styled.div`
   margin-top: ${space[4]};
@@ -44,7 +44,7 @@ const CurrentLink = styled.a`
   color: ${color.cold[0]};
 `;
 
-const ArticleContainer = Container.withComponent('article');
+const ArticleContainer = Container.withComponent("article");
 
 export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
   return (
@@ -52,7 +52,7 @@ export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
       <ArticleContainer>
         <Interactions meta={meta} />
         <Meta>
-          Beitrag vom 21.12.2022 ·{' '}
+          Beitrag vom 21.12.2022 ·{" "}
           <CurrentLink href={`https://cardamonchai.com${meta.path}`}>
             jetzt
           </CurrentLink>
@@ -75,7 +75,7 @@ export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
       </ArticleContainer>
       <ArticleFooter>
         <InteractionDetails />
-        <CrossLinkSection />
+        <ArticleCrossLinkSection meta={meta} />
         <FooterNavigation />
       </ArticleFooter>
     </div>
