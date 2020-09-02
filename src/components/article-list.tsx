@@ -26,12 +26,12 @@ const ItemLink = styled(Link)`
   width: 200px;
   display: block;
   border: 1px solid ${color.border[0]};
-  padding: ${space[1]};
   background: #fff8;
+  border-radius: ${space[0]};
+  padding: ${space[1]};
   position: relative;
   color: ${color.neutral[1]};
   text-decoration: none;
-  border-radius: ${space[0]};
 `;
 
 const Date = styled.div`

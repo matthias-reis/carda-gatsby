@@ -46,15 +46,34 @@ const CurrentLink = styled.a`
 
 const ArticleContainer = Container.withComponent("article");
 
+const zeroPad = (val: string | number, digits: number) =>
+  `${Array(digits).fill(0).join()}${val}`.slice(-digits);
+
+const getType = (meta: ArticleMeta) => {
+  let ret = "Beitrag";
+  if (meta.type && meta.type !== "Artikel" && meta.type !== "Standard") {
+    ret = meta.type;
+  }
+  if (meta.typeName) {
+    ret = meta.typeName;
+  }
+  return ret;
+};
+
 export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
+  const date = new Date(meta.date);
+  const formattedDate = `${zeroPad(date.getDate(), 2)}.${zeroPad(
+    date.getMonth() + 1,
+    2
+  )}.${date.getFullYear()}`;
   return (
     <div>
       <ArticleContainer>
         <Interactions meta={meta} />
         <Meta>
-          Beitrag vom 21.12.2022 ·{" "}
+          {getType(meta)} vom {formattedDate} ·{" "}
           <CurrentLink href={`https://cardamonchai.com${meta.path}`}>
-            jetzt
+            im alten Blog
           </CurrentLink>
         </Meta>
         <HR />
@@ -64,14 +83,6 @@ export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
           {meta.image && <Image fluid={meta.image.childImageSharp.fluid} />}
         </ImageContainer>
         <div>{children}</div>
-        {meta.labels && (
-          <nav>
-            {meta.labels.map((label: string) => {
-              const destination = getPath(label);
-              return <Label href={destination}>{label}</Label>;
-            })}
-          </nav>
-        )}
       </ArticleContainer>
       <ArticleFooter>
         <InteractionDetails />

@@ -24,6 +24,9 @@ type Fields = {
 type Frontmatter = {
   title: string;
   subTitle: string;
+  date: string;
+  type: string;
+  typeName: string;
   description: string;
   image: { childImageSharp: { fluid: FluidObject } };
   labels: string[];

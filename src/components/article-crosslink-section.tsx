@@ -6,6 +6,7 @@ import { Article } from "../types";
 
 import { Container } from "./container";
 import { ArticleList } from "./article-list";
+import { LabelList } from "./label-list";
 
 const Section = styled.nav`
   background: ${color.cold[2]};
@@ -20,21 +21,8 @@ export const ArticleCrossLinkSection: React.FC<{ meta: Article }> = ({
       <Container large>
         <h2>Interessante Beiträge</h2>
         <ArticleList articles={recos.map((a) => a.article)} />
-        <h2>Getaggt mit</h2>
-        <ul>
-          <li>
-            <a href="/">Tag 1</a>
-          </li>
-          <li>
-            <a href="/">Tag 2</a>
-          </li>
-          <li>
-            <a href="/">Tag 3</a>
-          </li>
-          <li>
-            <a href="/">Tag 4</a>
-          </li>
-        </ul>
+        <h2>Themen</h2>
+        {meta.labels && <LabelList labels={meta.labels} />}
       </Container>
     </Section>
   );

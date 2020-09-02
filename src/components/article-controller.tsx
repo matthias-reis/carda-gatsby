@@ -72,6 +72,9 @@ export const query = graphql`
       frontmatter {
         title
         subTitle
+        date
+        type
+        typeName
         description
         image {
           childImageSharp {
