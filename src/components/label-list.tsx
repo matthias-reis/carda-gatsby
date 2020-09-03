@@ -33,7 +33,11 @@ export const LabelList: React.FC<{ labels: string[] }> = ({ labels }) => {
     <StyledList>
       {normalisedLabels.map((label: string) => {
         const destination = getPath(label);
-        return <StyledLabel to={destination}>{label}</StyledLabel>;
+        return (
+          <StyledLabel key={label} to={destination}>
+            {label}
+          </StyledLabel>
+        );
       })}
     </StyledList>
   );

@@ -85,7 +85,7 @@ export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
         <div>{children}</div>
       </ArticleContainer>
       <ArticleFooter>
-        <InteractionDetails />
+        <InteractionDetails meta={meta} />
         <ArticleCrossLinkSection meta={meta} />
         <FooterNavigation />
       </ArticleFooter>
