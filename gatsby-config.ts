@@ -91,6 +91,7 @@ export default {
     {
       resolve: "gatsby-plugin-netlify-cms",
       options: {
+        checkSupportedExtensions: false,
         modulePath: `${__dirname}/src/cms.ts`,
       },
     },
