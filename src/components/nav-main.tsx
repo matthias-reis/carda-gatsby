@@ -1,10 +1,15 @@
 import * as React from "react";
 import styled from "@emotion/styled";
 
-import Link from "gatsby-link";
 import { useStaticQuery, graphql } from "gatsby";
 
 import { color, space, font, fontSize, width } from "../style";
+
+import { HeaderSheet } from "./header-sheet";
+import { IconBurger } from "./icons";
+import { IconButton } from "./button-icon";
+
+const BREAKPOINT = 900;
 
 const Children = styled.ul`
   display: none;
@@ -19,7 +24,15 @@ const Children = styled.ul`
   box-shadow: 0 12px 12px -6px #0004;
 `;
 
-const Nav = styled.ul`
+const MobileChildren = styled.ul`
+  background: #fff;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+`;
+
+const DesktopNav = styled.ul`
   display: flex;
   align-items: center;
   height: 4rem;
@@ -28,8 +41,28 @@ const Nav = styled.ul`
   font-family: ${font.title};
   font-size: ${fontSize[4]};
   font-weight: 300;
+
+  @media (max-width: ${BREAKPOINT - 1}px) {
+    display: none;
+  }
 `;
 
+const MobileNavTrigger = styled(IconButton)`
+  @media (min-width: ${BREAKPOINT}px) {
+    display: none;
+  }
+`;
+
+const MobileNav = styled.ul`
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: ${font.title};
+  font-size: ${fontSize[3]};
+  font-weight: 300;
+`;
 const Item = styled.li`
   position: relative;
   height: 4rem;
@@ -52,10 +85,34 @@ const Item = styled.li`
   }
 `;
 
+const MobileItem = styled.li`
+  padding: 0 ${space[1]};
+  display: inline-block;
+  width: 160px;
+  line-height: 1.1;
+  margin-bottom: ${space[3]};
+
+  & a {
+    text-decoration: none;
+    color: ${color.neutral[3]};
+
+    &:hover {
+      text-decoration: underline;
+      color: ${color.neutral[1]};
+    }
+  }
+`;
+
 const Child = styled.li`
   margin: ${space[0]} ${space[1]};
   font-size: ${fontSize[2]};
   text-align: right;
+  width: ${width[1]};
+`;
+
+const MobileChild = styled.li`
+  margin: ${space[1]} ${space[0]};
+  font-size: ${fontSize[2]};
   width: ${width[1]};
 `;
 
@@ -89,22 +146,49 @@ export const MainNav: React.FC = () => {
   `);
   const nav = data.configYaml.mainNavigation;
 
+  const [isOpen, setIsOpen] = React.useState(false);
+
+  const handleToggle = () => {
+    setIsOpen(!isOpen);
+  };
+
   return (
-    <Nav>
-      {nav.map((item: MainNavItem) => (
-        <Item key={item.url}>
-          <a href={item.url}>{item.label}</a>
-          {item.children && (
-            <Children>
-              {item.children.map((child: NavItem) => (
-                <Child key={child.url}>
-                  <a href={child.url}>{child.label}</a>
-                </Child>
-              ))}
-            </Children>
-          )}
-        </Item>
-      ))}
-    </Nav>
+    <React.Fragment>
+      <DesktopNav>
+        {nav.map((item: MainNavItem) => (
+          <Item key={item.url}>
+            <a href={item.url}>{item.label}</a>
+            {item.children && (
+              <Children>
+                {item.children.map((child: NavItem) => (
+                  <Child key={child.url}>
+                    <a href={child.url}>{child.label}</a>
+                  </Child>
+                ))}
+              </Children>
+            )}
+          </Item>
+        ))}
+      </DesktopNav>
+      <MobileNavTrigger Icon={IconBurger} onClick={handleToggle} />
+      <HeaderSheet isVisible={isOpen} heightInVh={80}>
+        <MobileNav>
+          {nav.map((item: MainNavItem) => (
+            <MobileItem key={item.url}>
+              <a href={item.url}>{item.label}</a>
+              {item.children && (
+                <MobileChildren>
+                  {item.children.map((child: NavItem) => (
+                    <MobileChild key={child.url}>
+                      <a href={child.url}>{child.label}</a>
+                    </MobileChild>
+                  ))}
+                </MobileChildren>
+              )}
+            </MobileItem>
+          ))}
+        </MobileNav>
+      </HeaderSheet>
+    </React.Fragment>
   );
 };

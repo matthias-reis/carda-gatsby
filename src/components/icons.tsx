@@ -1,6 +1,6 @@
-import * as React from 'react';
+import * as React from "react";
 
-export const IconApplause = (props: object) => {
+export const IconApplause: React.FC = (props) => {
   return (
     <svg width={48} height={48} viewBox="0 0 72 72" {...props}>
       <path
@@ -12,7 +12,7 @@ export const IconApplause = (props: object) => {
   );
 };
 
-export const IconComment = (props: object) => {
+export const IconComment: React.FC = (props) => {
   return (
     <svg width={48} height={48} viewBox="0 0 72 72" {...props}>
       <g fill="currentColor" fillRule="nonzero">
@@ -23,13 +23,37 @@ export const IconComment = (props: object) => {
   );
 };
 
-export const IconNewsletter = (props: object) => {
+export const IconNewsletter: React.FC = (props) => {
   return (
     <svg width={48} height={48} viewBox="0 0 72 72" {...props}>
       <g fill="currentColor" fillRule="nonzero">
         <path d="M35.115 7.535A1.54 1.54 0 0136 7.26c.312 0 .625.092.885.275l.895.627h5.151l-4.346-3.05a4.513 4.513 0 00-5.17 0l-4.346 3.05h5.152l.894-.627zM62.095 21.607l4.057 2.846L68 27.974v35.392c0 2.39-1.988 4.335-4.433 4.335H8.433C5.988 67.7 4 65.756 4 63.366V27.974c0-1.393.69-2.71 1.848-3.521l4.057-2.846v3.614l-1.85 1.298L36 46.125l27.945-19.606-1.85-1.297v-3.615zm2.86 7.757L36 49.769 6.81 29.364v34.002c0 .76.66 1.376 1.473 1.376h55.098c1.041 0 1.574-.472 1.574-1.376V29.364z" />
         <path d="M14.343 12.6h43.314v16.523l2.96-2.075V11.12a1.48 1.48 0 00-1.48-1.48H12.864a1.48 1.48 0 00-1.48 1.48v15.927l2.96 2.075V12.6h-.001z" />
         <path d="M22.64 34.945l3.013 2.113h7.81c.584 0 1.058-.473 1.058-1.057V24.086c0-.583-.474-1.057-1.057-1.057H18.91c-.583 0-1.057.474-1.057 1.057v7.503l2.114 1.479v-7.925h12.439v9.802h-9.768zM53.219 23.028H38.536a1.057 1.057 0 000 2.114H53.22a1.057 1.057 0 000-2.114zM53.219 16.91H18.916a1.057 1.057 0 000 2.115h34.303a1.057 1.057 0 000-2.114zM53.219 27H38.536a1.057 1.057 0 000 2.114H53.22a1.057 1.057 0 000-2.114zM54.168 31.572a1.07 1.07 0 00-.2-.289 1.052 1.052 0 00-.749-.311H38.536a1.055 1.055 0 00-1.056 1.057c0 .583.473 1.056 1.057 1.056H52.01l2.157-1.513zM49.361 34.944H38.536a1.057 1.057 0 000 2.113h7.813l3.012-2.113z" />
+      </g>
+    </svg>
+  );
+};
+
+export const IconSearch: React.FC = (props) => {
+  return (
+    <svg width={32} height={32} viewBox="0 0 32 32" {...props}>
+      <path
+        fill="currentColor"
+        d="M31.008 27.231l-7.58-6.447c-.784-.705-1.622-1.029-2.299-.998a11.954 11.954 0 002.87-7.787c0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-.031.677.293 1.515.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007.23s.997-2.903-.23-4.007zM12 20a8 8 0 110-16 8 8 0 010 16z"
+      />
+    </svg>
+  );
+};
+
+export const IconBurger: React.FC = (props) => {
+  return (
+    <svg width={32} height={32} viewBox="0 0 32 32" {...props}>
+      <title>{"icon"}</title>
+      <g fill="currentColor" fillRule="evenodd">
+        <rect x={3} y={6} width={26} height={4} rx={2} />
+        <rect x={3} y={14} width={26} height={4} rx={2} />
+        <rect x={3} y={22} width={26} height={4} rx={2} />
       </g>
     </svg>
   );
