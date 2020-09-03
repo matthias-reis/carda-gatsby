@@ -2,6 +2,7 @@ export default {
   siteMetadata: {
     title: "Cardamonchai.com",
     description: "Rock'n'Roll vegan.",
+    siteUrl: `https://cardamonchai.com`,
   },
   plugins: [
     {
@@ -11,6 +12,13 @@ export default {
         allExtensions: true, // defaults to false
       },
     },
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        createLinkInHead: true,
+      },
+    },
+    "gatsby-plugin-webpack-size",
     "gatsby-plugin-react-helmet",
     `gatsby-transformer-yaml`,
     {

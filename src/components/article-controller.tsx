@@ -64,7 +64,7 @@ export const query = graphql`
             subTitle
             description
             path
-            date(fromNow: true, locale: "DE")
+            date
           }
           vote
         }

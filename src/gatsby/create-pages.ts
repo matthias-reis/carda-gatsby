@@ -95,18 +95,14 @@ export const createPages = async ({
     const recommendations = recommend(article, labels);
 
     const node = getNode(edge.node.id);
+
     // save recos to article
     createNodeField({
       node,
       name: "recommendations",
       value: recommendations,
     });
-
-    // console.log(article.frontmatter.title, recommendations.length);
-    // recommendations.forEach((r) => console.log(r.vote, r.article.title));
   }
-
-  // process.exit(0);
 };
 
 type AllPageQuery = {
