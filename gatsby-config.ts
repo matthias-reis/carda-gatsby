@@ -87,11 +87,15 @@ export default {
       },
     },
     "gatsby-plugin-sharp",
-    "gatsby-transformer-sharp",
+    {
+      resolve: "gatsby-transformer-sharp",
+      options: {
+        checkSupportedExtensions: false,
+      },
+    },
     {
       resolve: "gatsby-plugin-netlify-cms",
       options: {
-        checkSupportedExtensions: false,
         modulePath: `${__dirname}/src/cms.ts`,
       },
     },
