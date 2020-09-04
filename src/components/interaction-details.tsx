@@ -11,7 +11,7 @@ const Section = styled.aside`
 
 const Comments: React.FC<{ meta: Article }> = ({ meta }) => (
   <DiscussionEmbed
-    shortname="example"
+    shortname="cardamonchai"
     config={{
       url: `https://cardamonchai.com${meta.path}`,
       identifier: `https://cardamonchai.com${meta.path}`,
