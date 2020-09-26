@@ -13,7 +13,7 @@ import { InteractionDetails } from "./interaction-details";
 
 import { getPath } from "../gatsby/slugify";
 import { space, color } from "../style";
-import { Article as ArticleMeta } from "../types";
+import { Article as ArticleMeta, RawArticle } from "../types";
 
 const ArticleFooter = styled.div`
   margin-top: ${space[4]};
@@ -60,7 +60,11 @@ const getType = (meta: ArticleMeta) => {
   return ret;
 };
 
-export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
+export const ArticlePage: React.FC<ArticleProps> = ({
+  children,
+  meta,
+  recommendations,
+}) => {
   const date = new Date(meta.date);
   const formattedDate = `${zeroPad(date.getDate(), 2)}.${zeroPad(
     date.getMonth() + 1,
@@ -86,7 +90,10 @@ export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
       </ArticleContainer>
       <ArticleFooter>
         <InteractionDetails meta={meta} />
-        <ArticleCrossLinkSection meta={meta} />
+        <ArticleCrossLinkSection
+          meta={meta}
+          recommendations={recommendations}
+        />
         <FooterNavigation />
       </ArticleFooter>
     </div>
@@ -95,4 +102,5 @@ export const Article: React.FC<ArticleProps> = ({ children, meta }) => {
 
 type ArticleProps = {
   meta: ArticleMeta;
+  recommendations: RawArticle[];
 };

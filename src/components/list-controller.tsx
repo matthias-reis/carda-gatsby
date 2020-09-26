@@ -1,12 +1,15 @@
 import * as React from "react";
 import { graphql } from "gatsby";
-import { Frame } from "../components/frame";
-import { ErrorBoundary } from "../components/error-boundary";
-import { HomePage } from "../components/home-page";
-import { ListQuery, RawArticle, CompactArticle } from "../types";
+import { RawArticle, CompactArticle, ListQuery } from "../types";
+import { Frame } from "./frame";
+import { ErrorBoundary } from "./error-boundary";
+import ListPage from "./list-page";
 
-const HomePageController: React.FC<{ data: ListQuery }> = ({ data }) => {
-  const rawArticles: { node: RawArticle }[] = data?.allMdx.edges ?? [];
+const ListController: React.FC<{
+  data: ListQuery;
+  pageContext: { label: string };
+}> = ({ data, pageContext }) => {
+  const rawArticles: { node: RawArticle }[] = data.allMdx.edges;
 
   const articles: CompactArticle[] = rawArticles.map(({ node }) => ({
     title: node.frontmatter.title,
@@ -16,25 +19,20 @@ const HomePageController: React.FC<{ data: ListQuery }> = ({ data }) => {
     path: node.fields.path,
     date: new Date(node.frontmatter.date),
   }));
-
   return (
     <Frame>
       <ErrorBoundary>
-        <HomePage articles={articles} />
+        <ListPage articles={articles} title={pageContext.label} />
       </ErrorBoundary>
     </Frame>
   );
 };
 
-export default HomePageController;
+export default ListController;
 
 export const query = graphql`
-  query HomeQuery {
-    allMdx(
-      limit: 23
-      sort: { fields: frontmatter___date, order: DESC }
-      filter: { fields: { type: { in: ["article", "wordpress"] } } }
-    ) {
+  query ListQuery($label: String!) {
+    allMdx(filter: { fields: { labels: { eq: $label } } }) {
       edges {
         node {
           fields {

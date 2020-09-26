@@ -5,7 +5,7 @@ import { graphql } from "gatsby";
 
 import { RawArticle } from "../types";
 
-import { Article } from "./article";
+import { ArticlePage } from "./article-page";
 import { ErrorBoundary } from "./error-boundary";
 import { Meme } from "./meme";
 import { Youtube } from "./youtube";
@@ -35,14 +35,21 @@ const defaults = {
   blockquote: BlockQuote,
 };
 
-const ArticleController: React.FC<{ data: ArticleQuery }> = ({ data }) => {
+const ArticleController: React.FC<{ data: ArticleQuery; pageContext: any }> = ({
+  data,
+  pageContext,
+}) => {
+  console.log(data, pageContext);
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
       <Frame>
         <ErrorBoundary>
-          <Article meta={{ ...data.mdx.frontmatter, ...data.mdx.fields }}>
+          <ArticlePage
+            meta={{ ...data.mdx.frontmatter, ...data.mdx.fields }}
+            recommendations={data.allMdx.nodes}
+          >
             <MDXRenderer>{data.mdx.body}</MDXRenderer>
-          </Article>
+          </ArticlePage>
         </ErrorBoundary>
       </Frame>
     </MDXProvider>
@@ -52,22 +59,12 @@ const ArticleController: React.FC<{ data: ArticleQuery }> = ({ data }) => {
 export default ArticleController;
 
 export const query = graphql`
-  query ArticleQuery($id: String!) {
+  query ArticleQuery($id: String!, $recommendations: [String]) {
     mdx(id: { eq: $id }) {
       body
       fields {
         labels
         path
-        recommendations {
-          article {
-            title
-            subTitle
-            description
-            path
-            date
-          }
-          vote
-        }
       }
       frontmatter {
         title
@@ -86,9 +83,32 @@ export const query = graphql`
       }
       id
     }
+    allMdx(filter: { id: { in: $recommendations } }) {
+      nodes {
+        fields {
+          path
+        }
+        frontmatter {
+          title
+          subTitle
+          description
+          date
+          image {
+            childImageSharp {
+              fluid(maxWidth: 900, quality: 70) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
+      }
+    }
   }
 `;
 
 type ArticleQuery = {
   mdx: RawArticle;
+  allMdx: {
+    nodes: RawArticle[];
+  };
 };
