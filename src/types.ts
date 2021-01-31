@@ -1,27 +1,13 @@
-import { FluidObject } from "gatsby-image";
+import { FluidObject } from 'gatsby-image';
 
 export type ArticleImage = {
-  absolutePath?: string;
   childImageSharp: { fluid: FluidObject };
 };
 
-export type CompactArticle = {
-  title: string;
-  subTitle: string;
-  description: string;
-  image: ArticleImage;
-  path: string;
-  date: string | Date;
-};
-
-export type Recommendation = {
-  article: CompactArticle;
-  vote: number;
-};
-
 export type Fields = {
-  label: string;
+  labels: string[];
   path: string;
+  type: 'page' | 'article' | 'wordpress';
   recommendations: Recommendation[];
 };
 
@@ -33,16 +19,20 @@ export type Frontmatter = {
   typeName: string;
   description: string;
   image: ArticleImage;
-  labels: string[];
+  labels: string[] | null;
 };
 
-export type RawArticle = {
-  body: string;
+export type Article = {
+  id?: string;
+  body?: string;
   fields: Fields;
   frontmatter: Frontmatter;
 };
 
-export type Article = Fields & Frontmatter;
+export type CompactArticle = Pick<
+  Fields & Frontmatter,
+  'title' | 'subTitle' | 'description' | 'image' | 'path' | 'date'
+>;
 
 export type ListQuery = {
   allMdx: {
@@ -51,5 +41,13 @@ export type ListQuery = {
 };
 
 export type ListQueryNode = {
-  node: RawArticle;
+  node: Article;
+};
+
+export type Labels = { [label: string]: Article[] };
+
+export type Recommendation = {
+  vote: number;
+  article?: Article;
+  articleId: string;
 };

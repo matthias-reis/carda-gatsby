@@ -1,21 +1,17 @@
-import * as React from "react";
-import { graphql } from "gatsby";
-import { Frame } from "../components/frame";
-import { ErrorBoundary } from "../components/error-boundary";
-import { HomePage } from "../components/home-page";
-import { ListQuery, RawArticle, CompactArticle } from "../types";
+import * as React from 'react';
+import { graphql } from 'gatsby';
+import { Frame } from '../components/frame';
+import { ErrorBoundary } from '../components/error-boundary';
+import { HomePage } from '../components/home-page';
+import { ListQuery, Article, CompactArticle } from '../types';
+import { toCompactArticle } from '../to-compact-article';
 
 const HomePageController: React.FC<{ data: ListQuery }> = ({ data }) => {
-  const rawArticles: { node: RawArticle }[] = data?.allMdx.edges ?? [];
+  const rawArticles: { node: Article }[] = data?.allMdx.edges ?? [];
 
-  const articles: CompactArticle[] = rawArticles.map(({ node }) => ({
-    title: node.frontmatter.title,
-    subTitle: node.frontmatter.subTitle,
-    description: node.frontmatter.description,
-    image: node.frontmatter.image,
-    path: node.fields.path,
-    date: new Date(node.frontmatter.date),
-  }));
+  const articles: CompactArticle[] = rawArticles
+    .map(({ node }) => node)
+    .map(toCompactArticle);
 
   return (
     <Frame>

@@ -1,16 +1,16 @@
-import React from "react";
-import styled from "@emotion/styled";
-import { Link } from "gatsby";
-import UnstyledImage from "gatsby-image";
-import moment from "moment";
-import "moment/locale/de";
+import React from 'react';
+import styled from '@emotion/styled';
+import { Link } from 'gatsby';
+import UnstyledImage from 'gatsby-image';
+import moment from 'moment';
+import 'moment/locale/de';
 
-import type { CompactArticle } from "../types";
-import { color, space, fontSize } from "../style";
+import type { CompactArticle } from '../types';
+import { color, space, fontSize } from '../style';
 
-import { CompactTitle, CompactSubtitle, P, S } from "./typo";
+import { CompactTitle, CompactSubtitle, P, S } from './typo';
 
-moment.locale("de");
+moment.locale('de');
 
 const List = styled.ul`
   display: grid;
@@ -63,7 +63,6 @@ export const ArticleList: React.FC<{
   if (maxArticles) {
     articles = articles.slice(0, maxArticles);
   }
-  console.log(articles);
   return (
     <List>
       {articles.map((article) => {

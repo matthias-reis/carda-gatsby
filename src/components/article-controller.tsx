@@ -1,20 +1,20 @@
-import * as React from "react";
-import { MDXProvider } from "@mdx-js/react";
-import { MDXRenderer } from "gatsby-plugin-mdx";
-import { graphql } from "gatsby";
+import * as React from 'react';
+import { MDXProvider } from '@mdx-js/react';
+import { MDXRenderer } from 'gatsby-plugin-mdx';
+import { graphql } from 'gatsby';
 
-import { RawArticle } from "../types";
+import { RawArticle } from '../types';
 
-import { ArticlePage } from "./article-page";
-import { ErrorBoundary } from "./error-boundary";
-import { Meme } from "./meme";
-import { Youtube } from "./youtube";
-import { Playlist } from "./playlist";
-import Image from "./image";
-import { Link } from "./link";
-import { Frame } from "./frame";
-import { H1, H2, H3, H4, H5, H6, P, Ul, Ol, Li, BlockQuote } from "./typo";
-import { HR } from "./hr";
+import { ArticlePage } from './article-page';
+import { ErrorBoundary } from './error-boundary';
+import { Meme } from './meme';
+import { Youtube } from './youtube';
+import { Playlist } from './playlist';
+import Image from './image';
+import { Link } from './link';
+import { Frame } from './frame';
+import { H1, H2, H3, H4, H5, H6, P, Ul, Ol, Li, BlockQuote } from './typo';
+import { HR } from './hr';
 
 const shortcodes = { Meme, Youtube, Playlist };
 
@@ -39,7 +39,6 @@ const ArticleController: React.FC<{ data: ArticleQuery; pageContext: any }> = ({
   data,
   pageContext,
 }) => {
-  console.log(data, pageContext);
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
       <Frame>

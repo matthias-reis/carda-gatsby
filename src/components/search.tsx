@@ -1,11 +1,11 @@
-import * as React from "react";
-import styled from "@emotion/styled";
+import * as React from 'react';
+import styled from '@emotion/styled';
 
-import { IconSearch } from "./icons";
-import { IconButton } from "./button-icon";
-import { HeaderSheet } from "./header-sheet";
+import { IconSearch } from './icons';
+import { IconButton } from './button-icon';
+import { HeaderSheet } from './header-sheet';
 
-import { color, space, width, fontSize, font } from "../style";
+import { color, space, width, fontSize, font } from '../style';
 
 const Wrapper = styled.header`
   box-shadow: 0 13px 30px -25px #0004;
@@ -68,7 +68,6 @@ export const Search: React.FC = () => {
 
   const handleSubmit = (ev: React.FormEvent<HTMLFormElement>) => {
     ev.preventDefault();
-    console.log(inputRef.current?.value);
     setIsVisible(false);
   };
   return (

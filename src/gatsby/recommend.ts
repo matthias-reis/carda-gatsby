@@ -1,6 +1,6 @@
-import type {} from "../types";
+import type { Article, Labels, Recommendation } from '../types';
 
-export const recommend = (article: MdxArticle, labels: Labels) => {
+export const recommend = (article: Article, labels: Labels) => {
   const recommendations: {
     [path: string]: Recommendation;
   } = {};
@@ -12,7 +12,7 @@ export const recommend = (article: MdxArticle, labels: Labels) => {
       if (!recommendations[a.fields.path]) {
         recommendations[a.fields.path] = {
           article: a,
-          articleId: a.id,
+          articleId: a.id!,
           vote: 1,
         };
       } else {
@@ -40,39 +40,4 @@ export const recommend = (article: MdxArticle, labels: Labels) => {
       delete a.article;
       return a;
     });
-};
-
-export type ArticleTeaser = {
-  path: string;
-  date: string;
-  title: string;
-  subTitle: string;
-  description: string;
-  image: string;
-};
-
-export type Labels = { [label: string]: MdxArticle[] };
-
-export type MdxArticle = {
-  id: string;
-  fields: {
-    path: string;
-    type: string;
-    labels: string[];
-  };
-  frontmatter: {
-    date: string;
-    title: string;
-    subTitle: string;
-    description: string;
-    image: {
-      absolutePath: string;
-    };
-  };
-};
-
-export type Recommendation = {
-  vote: number;
-  article?: MdxArticle;
-  articleId: string;
 };
