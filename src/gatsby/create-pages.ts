@@ -133,20 +133,25 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
   };
   const packs = getSliced(articles, 50);
 
+  const allArticlesPageComponent = resolve(
+    __dirname,
+    '../components',
+    `all-articles-controller.tsx`
+  );
   packs.forEach((pack, i) => {
     // RAW PAGINATION DATA
     writePackToJson(pack, i + 1, packs.length);
 
     // PAGINATED FOLLOW UPS OF HOMEPAGE
-
-    // createPage({
-    //   path: `/all-articles/${i + 1}`,
-    //   component,
-    //   context: {
-    //     id: edge.node.id,
-    //     recommendations: recommendations.map((r) => r.articleId), // recos are now in context and can be used in the query
-    //   },
-    // });
+    createPage({
+      path: `/all-articles/${i + 2}`,
+      component: allArticlesPageComponent,
+      context: {
+        pageNumber: i + 2,
+        articles: pack,
+        maxPageNumber: packs.length + 1,
+      },
+    });
   });
 };
 

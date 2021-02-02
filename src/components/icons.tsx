@@ -1,6 +1,8 @@
-import * as React from "react";
+import * as React from 'react';
 
-export const IconApplause: React.FC = (props) => {
+export const IconApplause: React.FC = (
+  props: React.SVGProps<SVGSVGElement>
+) => {
   return (
     <svg width={48} height={48} viewBox="0 0 72 72" {...props}>
       <path
@@ -12,7 +14,7 @@ export const IconApplause: React.FC = (props) => {
   );
 };
 
-export const IconComment: React.FC = (props) => {
+export const IconComment: React.FC = (props: React.SVGProps<SVGSVGElement>) => {
   return (
     <svg width={48} height={48} viewBox="0 0 72 72" {...props}>
       <g fill="currentColor" fillRule="nonzero">
@@ -23,7 +25,9 @@ export const IconComment: React.FC = (props) => {
   );
 };
 
-export const IconNewsletter: React.FC = (props) => {
+export const IconNewsletter: React.FC = (
+  props: React.SVGProps<SVGSVGElement>
+) => {
   return (
     <svg width={48} height={48} viewBox="0 0 72 72" {...props}>
       <g fill="currentColor" fillRule="nonzero">
@@ -35,7 +39,7 @@ export const IconNewsletter: React.FC = (props) => {
   );
 };
 
-export const IconSearch: React.FC = (props) => {
+export const IconSearch: React.FC = (props: React.SVGProps<SVGSVGElement>) => {
   return (
     <svg width={32} height={32} viewBox="0 0 32 32" {...props}>
       <path
@@ -46,15 +50,46 @@ export const IconSearch: React.FC = (props) => {
   );
 };
 
-export const IconBurger: React.FC = (props) => {
+export const IconBurger: React.FC = (props: React.SVGProps<SVGSVGElement>) => {
   return (
     <svg width={32} height={32} viewBox="0 0 32 32" {...props}>
-      <title>{"icon"}</title>
+      <title>{'icon'}</title>
       <g fill="currentColor" fillRule="evenodd">
         <rect x={3} y={6} width={26} height={4} rx={2} />
         <rect x={3} y={14} width={26} height={4} rx={2} />
         <rect x={3} y={22} width={26} height={4} rx={2} />
       </g>
+    </svg>
+  );
+};
+
+export const IconChevronLeft = (props: React.SVGProps<SVGSVGElement>) => {
+  return (
+    <svg width={32} height={32} viewBox="0 0 32 32" {...props}>
+      <path
+        stroke="currentColor"
+        strokeWidth={2}
+        d="M21.629 5.569L9.629 16l12 10.483"
+        fill="none"
+        fillRule="evenodd"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+};
+export const IconChevronRight = (props: React.SVGProps<SVGSVGElement>) => {
+  return (
+    <svg width={32} height={32} viewBox="0 0 32 32" {...props}>
+      <path
+        stroke="currentColor"
+        strokeWidth={2}
+        d="M9.629 5.569l12 10.431-12 10.483"
+        fill="none"
+        fillRule="evenodd"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
     </svg>
   );
 };

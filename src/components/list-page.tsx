@@ -1,12 +1,11 @@
-import * as React from "react";
-import styled from "@emotion/styled";
+import * as React from 'react';
+import styled from '@emotion/styled';
 
-import { CompactArticle } from "../types";
-import { space } from "../style";
+import { CompactArticle } from '../types';
+import { space } from '../style';
 
-import { Title, Subtitle } from "./typo";
-import { ArticleList } from "./article-list";
-import { FooterNavigation } from "./footer-navigation";
+import { Title, Subtitle } from './typo';
+import { ArticleList } from './article-list';
 
 const ContentSection = styled.div`
   margin: 0 ${space[4]};
@@ -19,22 +18,22 @@ const Hd = styled.div`
   margin: ${space[4]} 0;
 `;
 
-const ListPage: React.FC<{ articles: CompactArticle[]; title: string }> = ({
-  articles,
-  title,
-}) => {
+const ListPage: React.FC<{
+  articles: CompactArticle[];
+  topic: string;
+  title: string;
+}> = ({ articles, topic, title }) => {
   return (
     <div>
       <ContentSection>
         <Hd>
           <Title>
-            «Thema: <strong>{title}</strong>»
+            {topic} «<strong>{title}</strong>»
           </Title>
           <Subtitle>{articles.length} Artikel</Subtitle>
         </Hd>
         <ArticleList articles={articles} />
       </ContentSection>
-      <FooterNavigation />
     </div>
   );
 };

@@ -1,9 +1,10 @@
-import * as React from "react";
-import { graphql } from "gatsby";
-import { RawArticle, CompactArticle, ListQuery } from "../types";
-import { Frame } from "./frame";
-import { ErrorBoundary } from "./error-boundary";
-import ListPage from "./list-page";
+import * as React from 'react';
+import { graphql } from 'gatsby';
+import { RawArticle, CompactArticle, ListQuery } from '../types';
+import { Frame } from './frame';
+import { ErrorBoundary } from './error-boundary';
+import ListPage from './list-page';
+import { FooterNavigation } from './footer-navigation';
 
 const ListController: React.FC<{
   data: ListQuery;
@@ -22,7 +23,12 @@ const ListController: React.FC<{
   return (
     <Frame>
       <ErrorBoundary>
-        <ListPage articles={articles} title={pageContext.label} />
+        <ListPage
+          topic="Stichwort"
+          articles={articles}
+          title={pageContext.label}
+        />
+        <FooterNavigation />
       </ErrorBoundary>
     </Frame>
   );

@@ -29,7 +29,6 @@ type NextContent = {
 
 const fetchNextContent = async (nextPageId: number) => {
   const url = `/homepage-data/homepage-pagination-${nextPageId}.json`;
-  console.log(`INFINITE fetching from <${url}>`);
   const res = await fetch(url);
   const data: NextContent = await res.json();
 
@@ -47,11 +46,8 @@ export const HomePage: React.FC<{
   const [maxPages, setMaxPages] = React.useState<number>(100);
   const [isLoading, setIsLoading] = React.useState<boolean>(false);
 
-  console.log('INFINITE render', nextPage);
-
   React.useEffect(() => {
     (async () => {
-      console.log('INFINITE handle load', nextPage);
       if (nextPage > 0 && nextPage < maxPages) {
         setIsLoading(true);
 
