@@ -8,18 +8,7 @@ import { HomeLogo } from './home-logo';
 import { ArticleList } from './article-list';
 import { HomePagination } from './home-pagination';
 import { FooterNavigation } from './footer-navigation';
-
-const ContentSection = styled.div`
-  margin: 0 ${space[4]};
-  @media (max-width: 899px) {
-    margin: 0 ${space[1]};
-  }
-`;
-
-const Hd = styled.div`
-  margin: ${space[4]} 0;
-  text-align: center;
-`;
+import { FooterContent } from './footer-content';
 
 type NextContent = {
   articles: CompactArticle[];
@@ -67,7 +56,7 @@ export const HomePage: React.FC<{
         </Hd>
         <ArticleList articles={availableArticles.slice(0, 3)} />
       </ContentSection>
-      <h1>Splitter</h1>
+      <FooterContent />
       <FooterNavigation />
       <ContentSection>
         <ArticleList articles={availableArticles.slice(3)} />
@@ -79,3 +68,18 @@ export const HomePage: React.FC<{
     </div>
   );
 };
+
+const ContentSection = styled.div`
+  margin: 0 ${space[4]};
+  @media (max-width: 899px) {
+    margin: 0 ${space[1]};
+  }
+`;
+
+const Hd = styled.div`
+  margin: ${space[4]} 0;
+  text-align: center;
+  & > svg {
+    max-width: 100%;
+  }
+`;

@@ -1,0 +1,157 @@
+import * as React from 'react';
+import styled from '@emotion/styled';
+import { color, space, font, width, fontSize } from '../style';
+import { H3Deco } from './typo';
+import visual from '../assets/visual.jpg';
+import {
+  IconPinterest,
+  IconTwitter,
+  IconInstagram,
+  IconFacebook,
+  IconBloglovin,
+} from './icons';
+
+export const FooterContent: React.FC = () => (
+  <Section>
+    <Wrapper>
+      <div>
+        <Image src={visual} />
+      </div>
+      <div>
+        <H3Deco>Über mich</H3Deco>
+        <p>
+          Rock 'n' Roll vegan ist für mich zum Lebensmotto geworden. In meinem
+          Blog dreht sich alles um veganen Lifestyle, Musik, Nach­hal­tig­keit,
+          Reisen und meine Wahlheimat Hamburg.
+        </p>
+      </div>
+      <div>
+        <H3Deco>Newsletter</H3Deco>
+        <p>
+          Dir gefällt, was ich schreibe und möchtest ab jetzt nichts mehr
+          verpassen? Hier kannst Du Dich zu meinem Newsletter anmelden.
+        </p>
+        <CTA
+          href="https://mailchi.mp/94bdbb6fded3/cardamonchai"
+          target="_blank"
+        >
+          Jetzt zur Anmeldung
+        </CTA>
+      </div>
+      <div>
+        <H3Deco>Netzwerk</H3Deco>
+        <NetworkList>
+          <li>
+            <NetworkItem href="http://pinterest.com/annereko/boards/">
+              <IconPinterest />
+              Pinterest
+            </NetworkItem>
+          </li>
+          <li>
+            <NetworkItem href="https://twitter.com/Anne_Reko">
+              <IconTwitter />
+              Twitter
+            </NetworkItem>
+          </li>
+          <li>
+            <NetworkItem href="https://www.instagram.com/anne_reko/">
+              <IconInstagram />
+              Instagram
+            </NetworkItem>
+          </li>
+          <li>
+            <NetworkItem href="https://www.facebook.com/cardamonchai">
+              <IconFacebook />
+              Facebook
+            </NetworkItem>
+          </li>
+          <li>
+            <NetworkItem href="http://www.bloglovin.com/blog/2889954/cardamonchai">
+              <IconBloglovin />
+              Bloglovin
+            </NetworkItem>
+          </li>
+        </NetworkList>
+      </div>
+    </Wrapper>
+  </Section>
+);
+
+const Section = styled.footer`
+  background: ${color.cold[1]};
+  padding: ${space[2]};
+`;
+
+const Wrapper = styled.div`
+  max-width: ${width[5]};
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: ${space[2]};
+  justify-content: center;
+
+  @media (max-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
+
+    & > div:last-of-type {
+      display: none;
+    }
+  }
+  @media (max-width: 800px) {
+    grid-template-columns: 1fr;
+
+    & > div:last-of-type {
+      display: block;
+    }
+    & > div:first-of-type {
+      max-width: 300px;
+      justify-self: center;
+    }
+  }
+`;
+
+const Image = styled.img`
+  width: 100%;
+`;
+
+const CTA = styled.a`
+  font-family: ${font.title};
+  font-size: ${fontSize[4]};
+  border-radius: ${space[0]};
+  background: ${color.cold[0]};
+  text-decoration: none;
+  color: ${color.cold[3]};
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: ${space[0]} 0;
+
+  &:hover {
+    text-decoration: underline;
+    background: ${color.warm[0]};
+  }
+`;
+
+const NetworkList = styled.ul`
+  list-style: none;
+  padding: 0;
+`;
+
+const NetworkItem = styled.a`
+  display: flex;
+  align-items: center;
+  font-size: ${fontSize[3]};
+  color: ${color.neutral[2]};
+  text-decoration: none;
+  margin-bottom: ${space[1]};
+
+  & svg {
+    margin-right: ${space[0]};
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+
+  &:hover {
+    color: #fff;
+  }
+`;

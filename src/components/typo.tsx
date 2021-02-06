@@ -1,5 +1,5 @@
-import styled from "@emotion/styled";
-import { font, fontSize, space, color, line } from "../style";
+import styled from '@emotion/styled';
+import { font, fontSize, space, color, line } from '../style';
 
 const BaseTitle = styled.h1`
   text-align: center;
@@ -19,7 +19,7 @@ export const Subtitle = styled(BaseTitle)`
   color: ${color.neutral[3]};
   font-weight: 300;
   margin: 0 0 ${space[3]} 0;
-`.withComponent("p");
+`.withComponent('p');
 
 export const CompactTitle = styled(BaseTitle)`
   font-size: ${fontSize[5]};
@@ -33,7 +33,7 @@ export const CompactSubtitle = styled(BaseTitle)`
   font-weight: 300;
   margin: ${space[1]} 0 ${space[2]} 0;
   text-align: left;
-`.withComponent("p");
+`.withComponent('p');
 
 export const H1 = styled.h2`
   font-family: ${font.heading};
@@ -56,6 +56,14 @@ export const H3 = styled.h3`
   line-height: ${line.dense};
   font-size: ${fontSize[4]};
   margin-top: ${space[3]};
+  margin-bottom: ${space[1]};
+`;
+
+export const H3Deco = styled.h3`
+  font-family: ${font.title};
+  line-height: ${line.dense};
+  font-size: ${fontSize[6]};
+  margin-top: ${space[2]};
   margin-bottom: ${space[1]};
 `;
 

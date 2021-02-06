@@ -28,6 +28,7 @@ const Item = styled.li`
 
 const ItemLink = styled(Link)`
   display: block;
+  width: 100%;
   border: 1px solid ${color.border[0]};
   background: #fff8;
   border-radius: ${space[0]};
