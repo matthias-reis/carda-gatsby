@@ -28,7 +28,7 @@ const INPUT_FOLDER = resolve(BASE_FOLDER, 'source');
 const OUTPUT_FOLDER = resolve(BASE_FOLDER, 'articles');
 
 activity('wordpress', async (l) => {
-  const files = await activity('findXml', findXml)(INPUT_FOLDER);
+  const files = await activity('findXml', findXml)(INPUT_FOLDER, 'wp*.xml');
   const filePromises = files.map(async (file) => {
     const content = await activity('read', read)(file);
     const json = await activity('toJson', toJson)(content);
