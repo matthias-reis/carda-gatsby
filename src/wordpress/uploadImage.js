@@ -1,20 +1,41 @@
-const { resolve } = require('path');
-const { writeFileSync } = require('fs');
+const { Storage } = require('@google-cloud/storage');
+const toBucketSlug = require('./to-bucket-slug');
 
-const BASE_PATH = '/Users/matthias.reis/Documents/imagetest';
+const BUCKET = 'cardamonchai-images';
+const BUCKET_BASE_URL = `https://storage.googleapis.com/${BUCKET}/`;
 
-module.exports = async (
-  l,
-  e,
-  { smallBuffer, mediumBuffer, largeBuffer, base64Buffer, ...image }
-) => {
-  const smallFile = resolve(BASE_PATH, `${image.id}-small.jpg`);
-  const mediumFile = resolve(BASE_PATH, `${image.id}-medium.jpg`);
-  const largeFile = resolve(BASE_PATH, `${image.id}-large.jpg`);
+module.exports = async (l, e, image, media) => {
+  if (!image.error) {
+    const name = toBucketSlug(image.sourceUrl);
 
-  writeFileSync(smallFile, smallBuffer);
-  writeFileSync(mediumFile, mediumBuffer);
-  writeFileSync(largeFile, largeBuffer);
+    try {
+      const storage = new Storage();
+      const bucket = storage.bucket(BUCKET);
 
-  return { ...image, base64: base64Buffer.toString('base64') };
+      const largeFileName = `${name}__l.jpg`;
+      const mediumFileName = `${name}__m.jpg`;
+      const smallFileName = `${name}__s.jpg`;
+
+      const largeFile = bucket.file(largeFileName);
+      const mediumFile = bucket.file(mediumFileName);
+      const smallFile = bucket.file(smallFileName);
+
+      await largeFile.save(image.largeBuffer);
+      await mediumFile.save(image.mediumBuffer);
+      await smallFile.save(image.smallBuffer);
+
+      image.largeUrl = `${BUCKET_BASE_URL}${largeFileName}`;
+      image.mediumUrl = `${BUCKET_BASE_URL}${mediumFileName}`;
+      image.smallUrl = `${BUCKET_BASE_URL}${smallFileName}`;
+
+      delete image.largeBuffer;
+      delete image.mediumBuffer;
+      delete image.smallBuffer;
+      image.processed = true;
+    } catch (err) {
+      e(err.message);
+      image.error = err.message;
+      media.errors[image.id] = err.message;
+    }
+  }
 };

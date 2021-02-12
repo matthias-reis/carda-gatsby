@@ -1,7 +1,10 @@
-const { pick } = require('ramda');
+const { pick, indexBy, prop } = require('ramda');
 const { bold, redBright, greenBright } = require('chalk');
 
 const { slugify } = require('../gatsby/slugify');
+
+const imagesArray = require('../../content/wordpress/media/images.json');
+const images = indexBy(prop('id'), imagesArray);
 
 const getLabels = (e, cat, link) => {
   if (cat.domain[0] === 'post_tag' || cat.domain[0] === 'category') {
@@ -78,9 +81,10 @@ module.exports = async (l, e, article) => {
     status: article['wp:status'][0],
     isWerbung: false,
     isAffiliate: false,
-    // todo - create valid link url from thumbnail id
     thumbnailId: pickedWpPostMeta['_thumbnail_id'],
-    image: '/img/demo.jpg',
+    remoteLoadingImage: images[pickedWpPostMeta['_thumbnail_id']]?.base64String,
+    remoteThumbnailImage: images[pickedWpPostMeta['_thumbnail_id']]?.smallUrl,
+    remoteImage: images[pickedWpPostMeta['_thumbnail_id']]?.largeUrl,
     errors: {},
   };
 

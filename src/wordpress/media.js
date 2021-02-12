@@ -12,6 +12,7 @@ const wait = require('./wait');
 const downloadImage = require('./downloadImage');
 const processImage = require('./processImage');
 const uploadImage = require('./uploadImage');
+const media = require('../../content/wordpress/media/images.json');
 
 const BASE_FOLDER = resolve(__dirname, '../..', 'content/wordpress');
 const INPUT_FOLDER = resolve(BASE_FOLDER, 'source');
@@ -25,23 +26,38 @@ activity('wordpress-media', async (l) => {
   const filePromises = files.map(async (file) => {
     const content = await activity('read', read)(file);
     const json = await activity('toJson', toJson)(content);
-    const media = await activity('pickMedia', pickMedia)(json);
-    return media;
+    const pickedMedia = await activity('pickMedia', pickMedia)(json);
+    return pickedMedia;
   });
   const rawImages = (await Promise.all(filePromises)).flat();
 
-  const images = await activity(
-    'extractMediaData',
-    extractMediaData
-  )(rawImages);
+  const filledMedia = await activity('extractMediaData', extractMediaData)(
+    rawImages,
+    media
+  );
 
-  const relevantImages = images.slice(0, 40);
+  l(
+    `found <${Object.keys(filledMedia.images).length} images> / <${
+      Object.keys(filledMedia.unprocessedImages).length
+    } unprocessed>`
+  );
+
+  let relevantImages = Object.entries(filledMedia.unprocessedImages)
+    .map(([id, isUnprocessed]) => {
+      if (isUnprocessed) {
+        return filledMedia.images[id];
+      } else {
+        return false;
+      }
+    })
+    .filter(Boolean);
+
+  relevantImages = relevantImages.slice(0, 500); // for testing
+
   const chunks = splitEvery(10, relevantImages);
 
   let counter = chunks.length;
-  l(`working on <${relevantImages.length} images> in <${counter} chunks>`);
-
-  const processedImages = [];
+  l(`processing <${relevantImages.length} images> in <${counter} chunks>`);
 
   for (const chunk of chunks) {
     await activity(
@@ -51,28 +67,20 @@ activity('wordpress-media', async (l) => {
         l(`start chunk: <${id}> chunks left`);
         const chunkPromises = chunk.map(async (image) => {
           // download images from origin
-          const imageWithBuffer = await activity(
-            'downloadImage',
-            downloadImage
-          )(image);
-
+          await activity('downloadImage', downloadImage)(image, media);
           // refine / recalculate into 3 sizes
-          const imageWithPipeline = await activity(
-            'processImage',
-            processImage
-          )(imageWithBuffer);
-
+          await activity('processImage', processImage)(image, media);
           // upload to google cloud
-          const imageWithUrls = await activity(
-            'uploadImage',
-            uploadImage
-          )(imageWithPipeline);
+          await activity('uploadImage', uploadImage)(image, media);
         });
-        await wait(100); // delay 50ms
+        await Promise.all(chunkPromises);
+        await wait(500); // delay to let the servers rest
         counter--;
-        const chunkResults = await Promise.all(chunkPromises);
-        processedImages.push(chunkResults);
-        l(`end chunk: <${id}>`);
+        l(
+          `end chunk: <${id}>, cumulated errors: <${
+            Object.keys(media.errors).length
+          }>`
+        );
       },
       true
     )();
@@ -81,5 +89,5 @@ activity('wordpress-media', async (l) => {
   // wait 100 ms
 
   // save images
-  await activity('writeImageData', writeImageData)(images, OUTPUT_FILE);
+  await activity('writeImageData', writeImageData)(media, OUTPUT_FILE);
 })();
