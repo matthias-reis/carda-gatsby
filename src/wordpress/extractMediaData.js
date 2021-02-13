@@ -11,13 +11,6 @@ module.exports = async (l, e, images, media) => {
         processed: false,
         error: null,
       };
-
-      // all images that are not processed yet will be added to the
-      // unprocessed list so we can add additional raw xml files
-      media.unprocessedImages[id] = true;
-    }
-    if (!media.images[id].processed) {
-      media.unprocessedImages[id] = true;
     }
   }
   return media;

@@ -32,6 +32,7 @@ module.exports = async (l, e, image, media) => {
       delete image.mediumBuffer;
       delete image.smallBuffer;
       image.processed = true;
+      image.error = false;
     } catch (err) {
       e(err.message);
       image.error = err.message;

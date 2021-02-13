@@ -44,6 +44,8 @@ module.exports = async (l, e, image, media) => {
           progressive: true,
         })
         .toBuffer();
+      image.error = null;
+      image.processed = true;
     } catch (err) {
       e(err.message);
       image.error = err.message;

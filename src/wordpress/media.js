@@ -36,23 +36,18 @@ activity('wordpress-media', async (l) => {
     media
   );
 
+  let relevantImages = Object.values(filledMedia.images).filter(
+    (i) => !i.processed
+  );
+
   l(
     `found <${Object.keys(filledMedia.images).length} images> / <${
-      Object.keys(filledMedia.unprocessedImages).length
+      Object.keys(relevantImages).length
     } unprocessed>`
   );
 
-  let relevantImages = Object.entries(filledMedia.unprocessedImages)
-    .map(([id, isUnprocessed]) => {
-      if (isUnprocessed) {
-        return filledMedia.images[id];
-      } else {
-        return false;
-      }
-    })
-    .filter(Boolean);
-
-  relevantImages = relevantImages.slice(0, 500); // for testing
+  // relevantImages = relevantImages.slice(0, 10); // for testing
+  console.log(relevantImages.map((i) => i.id));
 
   const chunks = splitEvery(10, relevantImages);
 
@@ -75,6 +70,8 @@ activity('wordpress-media', async (l) => {
         });
         await Promise.all(chunkPromises);
         await wait(500); // delay to let the servers rest
+        // save images after every chunk
+        await activity('writeImageData', writeImageData)(media, OUTPUT_FILE);
         counter--;
         l(
           `end chunk: <${id}>, cumulated errors: <${
@@ -85,9 +82,4 @@ activity('wordpress-media', async (l) => {
       true
     )();
   }
-
-  // wait 100 ms
-
-  // save images
-  await activity('writeImageData', writeImageData)(media, OUTPUT_FILE);
 })();
