@@ -42,9 +42,11 @@ date: 2019-03-19T14:31:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23787"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23787"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABBAgG/8QAJhAAAgICAgIBAwUAAAAAAAAAAQIDEQQFACESMUEGIoETFFFh4f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAeEQACAQQDAQAAAAAAAAAAAAABAgADBBEhEhMiQf/aAAwDAQACEQMRAD8AMNHMZsrBxYXuWRkYoGJUASBSAfz67vvjdLr5p8qR4JYoIvOQIpAJcBq8gP44NfTeMR9RarCzGiuLIiaAtGUYlpASgv4uyff9cXMyOOGVgKaWLyeMFQQt35UbsdD45JaKDy+GawAxNL6kxpotJnKjxfqxwmRSiqCxDAgf764da1sjXmV5axsyeN4fJO5EB7NDuiQR2O64nbLGw9hqtlFGrrLJiyxESV3cZo++AGduUnzEMQSAACNiTf3gD49kdHr44F1Ty4ZTEuudzpLaazVDSS7FcSOLY4E5byT7VPi4tivq/FhRFHrnn8ib9wiuiO0gNgggDvly5ZcHrfUfS9LuYhzTHNHBM0ZjLUwLqtWO+c75+1zsKRxjTCJiWikIRbLKaPZFixR/J5cuJU9h9CE6AT//2Q==
 subTitle: Illustriert von Jean-Jaques Sempé
   
 ---

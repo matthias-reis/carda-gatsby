@@ -24,10 +24,12 @@ date: 2013-08-14T12:17:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "6837"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:13)"
+thumbnailId: "6837"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQFESEABhITFDEjQRUyUVJiM3GRofD/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgEDBAX/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIRAyEi/9oADAMBAAIRAxEAPwAlumt1xNcqvQqlSI7t4WTMWCPUVYW5f1pLtCbVzRWCdwF+U6VEtmpEqQouFIbN1fMbXAB8Z1g1OHDk12pl8ISRMkKUtXMgDqqNyE/QXwMnSHZPZRjFcpsmBOVGmLdE9hp5KQVIACUIVbiU3+3Oc659vyaJXY2SioVJpxEB+a44trqAdysFCcclX5e2f50DdVVKVu6jMM1msSW3X4q3Cl9wtJ5KRdHLkb2vm/1101MmqUxESrJYaEeSeipSHAAGy2s8yk+bkYscEe+uaTHSnesMs/oOzmFJOADdabj97jVfG3o9I1q1sl8Sq30qo2nm++Mxb25LP5+c6R7e2OKFt8Ros5Nks9QnoW5LB+Yjl5yf8NWrUVTzBJZoVvbkqbt+Cz8TCERmz009vcD1Fp+6/i3vjROPtKVJ3DAccqjdu7aWU9sbYcH56tWiWDbP/9k=
 subTitle: Wir werden Baumpaten!
   
 ---

@@ -28,9 +28,11 @@ date: 2017-01-06T10:59:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15627"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "15627"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31988512212_a9c65ba3c8_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31988512212_a9c65ba3c8_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAwUE/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFEzFBURSBkSIyYXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AHC4tpDfR2tqqCQpzZJGXUEXJAwO5JB67DGd9qt9EQSrzNKcZKsij4wBTJ6WCGOa7IfXysuQeoQEgD5NZ0kTy3fqZI1iAiCKobUTvkk428DH7oFbiPDAk3jPiimXikamRPpJ2ooO20vjcPPbvChjTTG2WJ1BkBO2PBI9qpuZwl+sULao+US466TnC/Izt+Kx7O5lSQTx6SWUK6s33Yzg57EZPtUXnE1iBMmlAT2YE/wUFvF75RKg1dAaKWru5W4k1jOO2DRQf//Z
 subTitle: Die Moral von der Geschicht
   
 ---

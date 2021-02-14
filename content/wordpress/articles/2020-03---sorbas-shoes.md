@@ -24,9 +24,11 @@ date: 2020-03-25T07:00:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "28784"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "28784"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-sorbas-second-life-fashion-82__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-20-sorbas-second-life-fashion-82__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALRAAAgECBgAEBAcAAAAAAAAAAQIDBBEABQYSITFBUWGBBwgTkRQVIjQ1QnH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAgMFBv/EACQRAAICAQMCBwAAAAAAAAAAAAECAxEABCHwBTESE0FRYYGh/9oADAMBAAIRAxEAPwC9pNb0ECxmGkrJISwvIFUBOe73P2widUUc1RqvOnZQIqwyyIhYMxP1Lra3jZjh70OXZfUXzBaGMVDfuAFYLuP9gOrHv0PB8DjKV2VUuW54tT+YStfdKsBjUhVsRywsb+2LTqDI5Ru44ckNGsMQnjrwn5P139c0vy9CGP4ZUattaRaupDi4uh39EeBtzzhkSiNwbBT7Y5z0hqLPaaqkGUMy0DzNNLFBArF2J5PR4sBzhtZPqWtqf5DKjSxG9pUnVjx3uTv7YUk6LQY1gZenzvciLY/ecrMVJWyyBJaMmCaIWDOfqCx7G3gc+tziXNslXVUEcUs7UkwiSYzRLcspuNhv2Bbg9+d8GDBdfGsQ8xNjeO6IxmlMMm61dH3FZdafyWm05BSRZc0iSTI5aYNZ/wBC88+t/wDB5X5xaR2rnKlUin/CirLoLIQT1s8/UH2wYMZl2LOdQQF2Gf/Z
 subTitle: Faire vegane Schuhe aus Berlin
   
 ---

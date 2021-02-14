@@ -31,10 +31,12 @@ date: 2017-11-05T19:48:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18345"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (51:73)"
+thumbnailId: "18345"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAIDBf/EACgQAAIBAgUDAwUAAAAAAAAAAAECBAMRAAUGEiExQVEUIuETMmGB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgQF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAAECAwQREjGRFCEy/9oADAMBAAIRAxEAPwCXtLy8rgRGWM1I0Tep9W4YbR1N/A84Z1zKm9IOjKVPIIPFuxxTLTuXal9VA2tDWFRcs9BpPBVuGWy9VPcYdtOUNYxGmvPzWmzyGV91KUw3WFgPt4AFrDtir5+Ovqa7HoWDzGejBQ7MjOwVCeNzHoB5PHTCZq6dFy+E8nM8wFKlYkhha9uw7k/gYjOZC1JIzChMrTKLtRsabGSzPTIN/adotziO9Q5Pqd65ecvqfcam95gaxJF7A9zYfwGE8+jiMl2LazDK83kJt2EqPF/jDJSz6ZSpg7wR4wYMYF9cdeCRrrallsxHnjr8Y5M/M5NVSzMP1gwYK64J+kB//9k=
 subTitle: Ein Schloss mit vielen Gesichtern
   
 ---

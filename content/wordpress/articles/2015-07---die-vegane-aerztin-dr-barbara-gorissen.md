@@ -28,9 +28,11 @@ date: 2015-07-23T14:38:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "12056"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "12056"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgMFCP/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABREGEiEHMUETFCKBCFEjcZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMSIRETMUEEMjT/2gAMAwEAAhEDEQA/AGRpbUUW5Wl1mZDHumQhyS0scDOBuGeCMjuKSfVvS8eFeHbpY2PRtshW5bfGGFnuEgeD3H67VC6R6tuhlvW4OvzoxjOhEcJStxR25w3uIIPGeD4re6hkpkQ34z8knORhxhKM4WEgglXGc5HHYGlgdxhDuQtH55gW+pTS6K65nXLSEaK++w4/AV7dxUhR3qRjKDn+uPqrtqO+tS4iIDfouvPnaUoXn/a5w6TIeW7eYjk5uzhsJcEmWsIZcCSRjIVkn5Dx2zVv6f6jhNaolt3O6wVmNIU36wdBS5tOMoPkGouaVPKB5AZuFzDhVjoJo9/UkiPdHFtQrXBdB3No/mfUOdoPhPbJ7+BWD8sbkHtd25oEkR42B9nNFFHoGx47QZJC+U69JNqmhScYT9iorsxQHxVjH6oopfQK5OF//9k=
 subTitle: '"Es war ein langer Reifungsprozess!"'
   
 ---

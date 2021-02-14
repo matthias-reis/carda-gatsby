@@ -36,10 +36,12 @@ date: 2012-11-30T15:25:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "4487"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "4487"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_11_dsc3216__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_11_dsc3216__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABAUREiExQVEGB2ETMnGxwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAQMFBv/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMRBCFBBSKxMVFhcYH/2gAMAwEAAhEDEQA/AOEwR1p43HTZTIW1jbAfWnfYvgd9aThAHcAfNP4fJw43IxXLxLLtJBDjcNpBB478U2chSVG85+sCy0BzgZ3MVzOJjtVmEV4s0sDFZYjGUZfkcnWpqVfNXgwOW9RGbIY+ASM7tojOFZ+NeNfA/AFRF5E8EzxTIySISrK3UGiUhlzzzHFqNTFckjgn1x+TXOqxgg/dWz7f2UGV9ZY62vUWS33NI8bDUPtUsFPxqBrRRVN7FamI9j4gaFQ1yBhyPMus5KtrlmitIxGBeFpz1M+6JioPhV7L071xnMSGSYynhixB/f8AaKKjp29D/SzW1w7gPkz/2Q==
 subTitle: Konzert mit Calexico
   
 ---

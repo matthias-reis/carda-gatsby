@@ -38,10 +38,12 @@ date: 2013-05-08T15:54:10.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "5317"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "5317"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQECA//EAC0QAAEEAQMDAgMJAAAAAAAAAAECAwQRBQASIQYxQRNRByIyFCMlYXGBobHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgMRIjEh/9oADAMBAAIRAxEAPwBExExOK6GjLhtLQXEbQo2LUrur/a/TUjpNl5nIxW5U2axBUoKeeVvUraT2Tzxd1fi/Guj4Q5IVCafZixIrSUhYSSQT9KUpH1HgH386vul8RFmyi0J71qHyuSEbUtk9ipNX3B9v40leMZYZdG/PYhnJtxWsFipJa2ja6xJK3nV8DstXzNnkbrFV51W/ZnsTMk42S5UuMsBRW4ldkpCqJHFi/Gp6+p38CmbiunEw0CQB6jzbhcSihSg2aSSSVXQHFDuSdKOGyH43kIsoIDqkoX94orJNUTZ9+Dp7FqCPREm5SVjpypjIYXRNNuIJF1V8Ec1/etFfECdcl1iMy08tj0TRJTVk9v399GjWeEm0VaQ2xhMdxuHXJmBZlEMMoRHbQhCUp3Wsgb1q8Ahaa7/lrMfClrJDLJlu3tDfo7RtPayT3J0aNWseosV6f//Z
 subTitle: Morgen ist Feiertag...
   
 ---

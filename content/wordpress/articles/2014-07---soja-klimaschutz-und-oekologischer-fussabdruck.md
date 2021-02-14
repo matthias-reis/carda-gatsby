@@ -51,9 +51,11 @@ date: 2014-07-30T07:11:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "8113"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "8113"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_07_biogemc3bcseanbau__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFIRIxQRMiUQYUcQcVMmGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACARAAICAgAHAAAAAAAAAAAAAAECABEDBAUSFEFRkcH/2gAMAwEAAhEDEQA/AOz7b+1WUVvvq0ecYSVwjHOPB57ka2bW2U6ak2JokA75yT/gGuMHa9hr7lWmN14IoiWlQN1j+lB8ZOPnjVfP9R7dYhjU75Kjys3pxCyEZmHIyoHfjzoX4gVYqT6iseoCtkSklXbWZVEnLnC+3Oc/jSdraIpELwlXXscePzqK3TffQgW7LutmgErySNFYsZfrODGxGAB2I6T5OsXdP1MrbTe2+zHbLWHm9KVHsepGw6AehguccEfJB05N5wfMB9TGwuSFf6g6FaetJA9ZZszFgemMgZVmGOBgfz7cHyNUtLfbh2E0a9GAlCWWQqkkRB9wIUEMec+R20aNZrO3T0VF2O9/KlDMYhfvVZZWl3im0n2yyF3kYsZCwGCqAnpHPc/Gk5ZqFRY026hDH6mZMisB0Enn3EZz30aNTZcjFea4kz//2Q==
 subTitle: 10 Fakten über Veganismus - Teil I
   
 ---

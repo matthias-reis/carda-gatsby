@@ -34,9 +34,11 @@ date: 2018-06-15T15:53:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21290"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21290"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28904317688_df84da44d5_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28904317688_df84da44d5_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAEAgb/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiExUQYUIkFxBxMkMmGBkfD/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAAF/8QAIBEAAgMAAQQDAAAAAAAAAAAAAQIAAxESBCExQVGh8P/aAAwDAQACEQMRAD8ACoKFZOEMqliAUDkg/tjt/Olz6TeHrRebmtnuFvWCrWFmjrZpztkcEeggn3HAx0HTOjy21NJ+CMNGY3aRzOhKHAGF4Hv/AFpRstztVqpo0tFTbZI5nBqGnfDQrsI9II7nIA9+eBqCtrhavFSe/wC+oTqB5njfFXhmKmgr6l5YZPLSLGwhdpQzYIy7nBAzwMDnjR5NRK1sMsciGRHZXTk8bVIIPT30oXuvt7WWKJK2JKiM4alp+YU3ZYksAA5yeSR8aMZ54R50ffiVD+gLzub05wMdCM6em17NZhhmRfibbVSGoRppH8vRR8yTEcfCj3OupatXYrTs6QA+hSecdz3OrVrvYFAyADsziZGbbNIVHRZAOU+e6/4aw3Cn2SFZgN/B3DowPQgjqD31atSdTWM5+4ikgz//2Q==
 subTitle: Kleine Landpartie
   
 ---

@@ -37,9 +37,11 @@ date: 2019-01-31T16:52:50.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23357"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23357"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Moorfrosch__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Moorfrosch__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAJxAAAQQBAwQCAgMAAAAAAAAAAQIDBBEABhIhBSIxgRMUQXFRYfH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxESIdExkbH/2gAMAwEAAhEDEQA/AM4j9EjzdolT5DiCBtttS/H8cnzjdvTOnQhKvvSBQoFSLO7n+uP1inSzEeQ0h1+YYUVmilYBLjqgK2ISkezdAZraNOwl9LiLE1UlaFbluuMLbX8YJUpSN5G4WNtkAebuhmc9pUnJ+dRyUbDIEz13S+ni6SiZLTuAtIANn2PBzjk6b6L8QLUqV2gi0lAv92MZag1D0eS8tvp7H1DGItTzwLjhP5AT2gWPA9cYhkT3G4u914K2k0FUe3g3R8k3hBHcbBiPXUU6hG1zKZBmpW4OQ6lF1dpHPnzXOXSRrVyXp9rpktwbGEqQhbi1B1CDxs3A9yfzRB9YYY+ytWPMJHK+JUos2DHQ6ER/sBw7CtQs8c3/ALkcvqpS4kM/EhquBtF8esMMtQDWTty0/9k=
 subTitle: Klimaschutz durch Ausgleich mit "MoorFutures"
   
 ---

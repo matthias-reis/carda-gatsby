@@ -26,9 +26,11 @@ date: 2019-12-05T18:10:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27118"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27118"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-12__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-12__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKxAAAgIBAgUDAgcAAAAAAAAAAQIDBBEABQYSEyExBzJRQXEVIkJSYYHh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMCBAUH/8QAIhEAAQMCBgMAAAAAAAAAAAAAAQACAwQhBRESEzFhMpGh/9oADAMBAAIRAxEAPwBu2+x+IM9ZKyVkKe8MWPn3DHck/JIA/nVJ9m2jaWkMt8iwTzMGlVpW+5OSPsMa1dn4atcSUqe9C5Jtwmj6fIiHlcgnJU/t+NRRenF2tcms271WzHylQOn+YD5HYDP3Om6UpxSfevbVPXsvHXl6aAl5XiK5x9AfJOnLhHhF5ttgmvyy1BKvavA3KyD4Z8ElsecHA8aX+JtlubfspUSmxFFIk/NIQoZVcP0wB+ohSMAfUa24vUGGbfdr2raI3nW03N1CMsoPdsr2IC4Of9GTtki3Ki14JvwueXeIb8qrLBuF+myAdNKspjVcAL2Xx4A1Db9R+Ialisi7rcmTlKyJaRDzZGAQQuRjz/WjRrCFRKzxcV2WrwagmZm+FuZ6v75SvufFO7XLbtZuRlQoVQB27fXB8HWzwzx5NUvQx7hHA9N5MytEORxzEBmzg5wB7RjPzo0aDKyZh1Byoy4FQSDa2gOxY/F//9k=
 subTitle: Neues von der veganen Künstlerin Denise Hof
   
 ---

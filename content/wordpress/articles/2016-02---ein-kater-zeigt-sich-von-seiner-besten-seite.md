@@ -22,10 +22,12 @@ date: 2016-02-11T12:50:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13902"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (37:48)"
+thumbnailId: "13902"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAnEAABAgUEAgIDAQAAAAAAAAABAgMABAURIQYSE0EHMSJhFDJDUf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBBMhIv/aAAwDAQACEQMRAD8AW5Gm2RyPJs2Bu3dWELDVfmZaoPJSW3JdK1FCnW03Kbm1vq1vcUqiEyqUsOnc6T8k/sDcej/mOjmN7Tnj7StarVRM0627MPy5Bpzt0pZUv+gV2ewOjEulZ9LyvePCWadqj9UrXBPrZaZ2HjShAAWrq593+sRr1amhsEpGIeNXeJ3GKp+XQpFpmUQhtPEZk/EpsLt4zjonswq6snHafNvSb8k9yN2BKlAdfeYPbHRpoRTLeLTOlPbl56RlZxDS2HFp3OpQ6drhBGbdHMXijVMsaeZLbDe1CLAHPUEENbYAX9YaxdoiKQ6iUS8ieK2HW1LsLpAIUMHPsRM/IzzdQnG53iLbq7trG64NvR9QQQS9/I3jrB//2Q==
 subTitle: Chili posiert im Lampenlicht
   
 ---

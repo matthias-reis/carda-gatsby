@@ -35,10 +35,12 @@ date: 2013-01-08T14:03:51.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "4800"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "4800"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgCBQcE/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDAAQRBQYhMRIHE3FRYRQVFiIjMoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8AW84+5pm/Srdej3SvpO2raeySeFffENukSqQOSCMMXI/aTyMDI5pZO61L0Q11dG1VgkCPLOQnkVyVGecVFkw0m3NPj0mC0/JrcwIRIsMShQhIIPXwfnNFT3hujT9HggilvEhupcOUIJIXB7x13RWelOlO9N5dswa+8m8FZrQQkQExGWNZc/2dRyQB0Os913buaytNwJe7fw1nIikMkJhTI4JVT0D3j71R7Ks9IvdxQR7jvFtNMVWeQmT2zIR0gbHGSeT9Acc1ab9/SiXUS7SdMK0ok9gSe2R5/wAeGkAJPjjPfOa0ZeRfahr7bl0uxuWngbVLcG3njeTDOgJKyH/D4/AFFZx+IbAyW8vrnGaKim3/2Q==
 subTitle: Pfoten und Fell
   
 ---

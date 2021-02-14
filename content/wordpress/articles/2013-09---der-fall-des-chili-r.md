@@ -30,9 +30,11 @@ date: 2013-09-26T18:53:13.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: null
-image: /img/demo.jpg
 errors: {}
+thumbnailId: null
+remoteThumbnailImage: null
+remoteImage: null
+remoteLoadingImage: null
 subTitle: Ein aufschlussreiches Gespräch mit einem Tierchirurgen
   
 ---

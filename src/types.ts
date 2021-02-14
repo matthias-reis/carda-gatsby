@@ -18,7 +18,10 @@ export type Frontmatter = {
   type: string;
   typeName: string;
   description: string;
-  image: ArticleImage;
+  image?: ArticleImage;
+  remoteImage?: string;
+  remoteLoadingImage?: string;
+  remoteThumbnailImage?: string;
   labels: string[] | null;
 };
 
@@ -29,9 +32,19 @@ export type Article = {
   frontmatter: Frontmatter;
 };
 
+export type DetailArticle = { id?: string; body?: string } & Fields &
+  Frontmatter;
+
 export type CompactArticle = Pick<
-  Fields & Frontmatter,
-  'title' | 'subTitle' | 'description' | 'image' | 'path' | 'date'
+  DetailArticle,
+  | 'title'
+  | 'subTitle'
+  | 'description'
+  | 'image'
+  | 'remoteLoadingImage'
+  | 'remoteThumbnailImage'
+  | 'path'
+  | 'date'
 >;
 
 export type ListQuery = {

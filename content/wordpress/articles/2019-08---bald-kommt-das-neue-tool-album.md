@@ -24,9 +24,11 @@ date: 2019-08-07T16:35:50.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25722"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25722"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tool-fear-inoculum-single-980x518__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tool-fear-inoculum-single-980x518__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYH/8QALhAAAQMCAwUGBwAAAAAAAAAAAQIDBAARBTFxBgcSE4EhIzNRobEyQURzgoSy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABgRAQEBAQEAAAAAAAAAAAAAAAEAETFB/9oADAMBAAIRAxEAPwDgqcKgxIyV4pPixVqF0tJQVuH8Re3W1LJL8Voq5CFOIyu7HAB9af7vZuy0NMl3aaDiU2as91yuDgF/PiN71WxGchE2W/hzamo7oKkIIvZF7DXP0q6GWC7KY0iG5w85ktpyKmmbj3pocLgTWFKwyfFkOJFyypBbcGiVZ9L1EGaHJMRychTjLIClIAzQDY6eenbVzeBK2XnJjv7NRMSiTUdjqXOWWz8wQUm4NAMiu2MY+B3Qe9Mfpv10f0aKKl5dFKPAH2XqXHwutFFDkv/Z
 subTitle: '"Fear Inoculum" ist die Vorauskopplung'
   
 ---

@@ -3,8 +3,7 @@ const { bold, redBright, greenBright } = require('chalk');
 
 const { slugify } = require('../gatsby/slugify');
 
-const imagesArray = require('../../content/wordpress/media/images.json');
-const images = indexBy(prop('id'), imagesArray);
+const { images } = require('../../content/wordpress/media/images.json');
 
 const getLabels = (e, cat, link) => {
   if (cat.domain[0] === 'post_tag' || cat.domain[0] === 'category') {
@@ -81,11 +80,11 @@ module.exports = async (l, e, article) => {
     status: article['wp:status'][0],
     isWerbung: false,
     isAffiliate: false,
-    thumbnailId: pickedWpPostMeta['_thumbnail_id'],
-    remoteLoadingImage: images[pickedWpPostMeta['_thumbnail_id']]?.base64String,
-    remoteThumbnailImage: images[pickedWpPostMeta['_thumbnail_id']]?.smallUrl,
-    remoteImage: images[pickedWpPostMeta['_thumbnail_id']]?.largeUrl,
     errors: {},
+    thumbnailId: pickedWpPostMeta['_thumbnail_id'],
+    remoteThumbnailImage: images[pickedWpPostMeta['_thumbnail_id']]?.mediumUrl,
+    remoteImage: images[pickedWpPostMeta['_thumbnail_id']]?.largeUrl,
+    remoteLoadingImage: images[pickedWpPostMeta['_thumbnail_id']]?.base64String,
   };
 
   // description is usually empty. seoDescription is important

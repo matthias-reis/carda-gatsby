@@ -26,9 +26,11 @@ date: 2012-07-31T10:14:47.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11067"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11067"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1484__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1484__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAUGBwECAwQI/8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIDAAQRBRIhBjFBExRRMkJhcaH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUB/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAAxFB8AQhMYGR/9oADAMBAAIRAxEAPwDmOwgDTxmSJ5IwwLKDtyPIz4qQLjpwdLavoNxrGmQT2s0MN+IJJxi5gZsjcUJK5AI/HxUcxMdw5Jrf9cl09R3wBwFPNIYurBlMt9HZUiHK5McnWXUN7riw6XFAYNI06W4ksLCNN3tElfcy78bnHblvimeIFaRQXCISAZGBIHyeOcCnRol4L64S2nSGOYxkRFs4YjnB/fekWW1aG4likiMbgkGNjyD3/tCLSWKkYPmZfULSGG+c+xLh+qr5pGMjDgfb28UUU7cm5Ir9zKiCMq8ZZZE5DA9iKq9xPe3D3FxKzzYMjMfOPFFFDjcEkjsJ/9k=
 subTitle: Neue Single von Calexico
   
 ---

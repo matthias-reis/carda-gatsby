@@ -32,9 +32,11 @@ date: 2020-04-15T14:14:54.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "29112"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "29112"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_inger-andersen-un__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_inger-andersen-un__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggE/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSIUETMVEUFSJxMmGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACMRAAIBAgUFAQAAAAAAAAAAAAECAAMEERITQdEiMWGBweH/2gAMAwEAAhEDEQA/AHquSQB5OM6Uz36q3ZuM/R1CxUMUrQxoASGUZwzcT+ROCceM/wBaYm4KkU1iuE3Ljxp5MHkF7KkDBPQ71n/ak8R3FVUsrBHhQqsELlTIq+5Htn4z+9SunIGAl7SmGbExqyST7XrbfOK15qSaoSGricdYI6ZQD+JwCPjvTWtiWe4QRVVFIrJIgK5bsg+cHWd79NRRbMrauONUmWnThVByZFk9QCMZPYbv+PgLq77EvFTV2Km+r4x44okwXiq9ZKj/AEfvS2ztjlJhvKQXqAlqqKNbpSzUjBWjkXiwPxpXW/Z1sg3FdfTM/wB4pyYJYJXyUQnkGToZDdMCPGR7g6NGq1kDq7HbkD7EoMUdQN+PySbotCCwPNWvOKW3kVDBoxMG74k8GIBwDnXNbbqlnpqQ0rNUUFZAFjmdSiTpkgDifYoSR75HQPjRo1mY6drrL3DAeiDFu2Orl8T/2Q==
 subTitle: UN Umweltchefin Inger Andersen zu Corona
   
 ---

@@ -23,10 +23,12 @@ date: 2014-12-17T10:33:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25538"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (155:20)"
+thumbnailId: "25538"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Rainer3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Rainer3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAtEAACAgECBAUBCQAAAAAAAAABAgMEEQAFBhIhMQcTIkFhkRQjM1FxgYKhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMRIRIiMfD/2gAMAwEAAhEDEQA/ANE4QSlJNPVSYyywxwuefqzIUGGJ98n+9V96attW027z1rFhK0TStDVi8yVwB1Cr0yfjXPfhv4hXK9mWtugZ1dTISCXbnACgZJ7ekfHUnVHP4p7ikrxrRp+W2VwZGYAYwcuCBn/dPhOXhq4DvbfEfaOKeMdop0qO9VPsoszyRSQhjYQw8q8qxs3MQxBwe3fTvfK+93kcbdQh2yEj8fcpfMk/UQx9v5N+2sG4O4in4b4hpbhHXWV1LwKmVUFSvrUsffA9vy1Q8YeNG6xSmCtBXqdcjn+8Zl9snt1+NK6myKTS0ZCde0ZvwrYevGrRZUk4ODpjZ3WaCnCq8x81xn1nA9Y0aNUqeMAktE3u88qbmj87Ma8ysuWJzzdCPjodL+K7LSyVJiBmSJgVPUd8j6En66NGr3PrJfekYLaP/9k=
 subTitle: Vegane Turnschuhe für alle
   
 ---

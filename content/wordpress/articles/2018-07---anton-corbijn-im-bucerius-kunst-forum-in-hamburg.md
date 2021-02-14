@@ -47,9 +47,11 @@ date: 2018-07-25T14:06:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21440"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21440"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Anne-Reis-angeschnitten-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Anne-Reis-angeschnitten-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBAUGCP/EAC0QAAEDAgUDAgUFAAAAAAAAAAECAwQFEQAGEiExBxNBMlEUFSIzQmFxgZHC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AF/kSiNZyziimSZ0qBAZbcfcdZOjS2i316uN7+dsNrp/BpkDqJSaNBqDlTZTrnR5DyLL7S47wKVGwuL6SD7Kwvulb0zLGYZk9KQ5HixltEJcG6VqvpSvey7p4O2384YDGY2WesVKqM56S4yiOYzaVqC1tDtLKuNjYk+ffAYnrmzF+a5gjhBafLiVIdacVpKktot3BawIBUbg8W2ONe6mZQp9BylCn0punQ5MENhEiK4suvawSNZKbElBv+ijYbYbNQo0DO9bzKJlWJp6pTTTbLSUlztobQtQBPpBUrkAnnFrNuVqFUqI7AeMllhQa0oQ99vt206QbjwL++A5qnZkNNgIYisw0G4Kgj1OCwulRHNxcG/JVx7QoeaWmZVLmvNvufCLcQtCSFL0lBSnc2BIvY/tgwYBt5N6w0SmF5p6i1N8ODUCiMypYV5/K9iLf1i7Wet9JcbW2zlytJv5VFaH+8GDAf/Z
 subTitle: The Living And The Dead
   
 ---

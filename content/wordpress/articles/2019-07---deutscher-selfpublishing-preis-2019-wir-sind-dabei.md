@@ -31,9 +31,11 @@ date: 2019-07-16T12:45:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24693"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24693"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-06-die-hermetiker__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-06-die-hermetiker__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBAMHCP/EACUQAAICAQQBBAMBAAAAAAAAAAECAwQABQYRIRITIjFhI0FRkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABwRAAMBAAIDAAAAAAAAAAAAAAABAhEiYTFRkf/aAAwDAQACEQMRAD8A5uroOBjbtrTbViFHg0rTr0ckjIosxoWZgByFJYH9j/cRop2A6OO+0NyxUtHejLFM7mw0p8VSVWUqo4Mbqw68T2OPn6GbhzL21q+BUVayKUv21pc3VQSDQHeztenpFgWYRDZgWQeqpEnkPczKelHwcQ7CDjnHve+4at/Z9OpUlIaK96jxCqIFX8RAPTEE9kdAfGa6kmZsKct8Fi7KZuVltN9eCKZajdBCw8E9RTyrgsG7+weMMMBMbu7A+cjPyefcee/7ldzhhkR//9k=
 subTitle: '"Die Hermetiker" unter den Grafik-Finalist*innen im Juni'
   
 ---

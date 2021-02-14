@@ -31,9 +31,11 @@ date: 2013-10-17T10:49:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "7391"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "7391"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_p1000534__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQEDCP/EACcQAAIBAwEIAgMAAAAAAAAAAAECAwAEERIFEyExQVFhcQYjFKHw/8QAGAEBAAMBAAAAAAAAAAAAAAAABAECAwX/xAAiEQACAgEDBAMAAAAAAAAAAAABAgARAwQTMSEiQbESUcH/2gAMAwEAAhEDEQA/AOeLC4e0u4Z4WKyRkMCDTDcwy7dWS8C/ZnJx+zSxHx5An0Kc/hF7HahjMAIjw1H+910cuIhd7GtsPXmP0Dh22Mh7T7ipcWzRSFWXiKzDatM+AMe6v9qXVptZvyLSJ4YA5B1nJx381STz7pSI+XInvTKBT5V1hnxoj82siPJ9LhSFDkdSBjpUtb5RbQRhoTofUxIbUcdCeRHoUUVidS69B5FfsMEF39TZdbUe9u2lnmU63LkRrhVzgYA7YAqHK8Txk7xS3M6QfHiiioGcqoFcy57uZ//Z
 subTitle: Herbstliche Schreibblockade
   
 ---

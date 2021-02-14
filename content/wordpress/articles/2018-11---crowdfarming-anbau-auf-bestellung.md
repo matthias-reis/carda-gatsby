@@ -21,9 +21,11 @@ date: 2018-11-15T19:12:10.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22702"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22702"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-oranges-Gonzalo-picks-oranges__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-oranges-Gonzalo-picks-oranges__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAArEAACAgEEAAUCBwEAAAAAAAABAgMRBAAFEiEGEyIxUUFxBxQyNUJhgZH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIEBf/EACARAAICAQMFAAAAAAAAAAAAAAABAhEDMTJxEiEiYbH/2gAMAwEAAhEDEQA/AMQVCQkZLvDIpVI/Kb1hTYWnqyaDdiq9+9J5GYscfmMfy9RGOeAEuTGDcTerprrvuzfwNX4IJZd1TCxcOJFlV+bzRedFMePGqU3yJJJs9cB0dJ5OBkT7s6TRMqSRgvGAewGawE+QLAIJ+taxoyV9+SVVoKvijb84Y+fBKsWZjJPjk+x599NfEjphQNgjvXPfMaCHOXOcTSwwReXMDISqhlB8wXZYWar68T2dW/A8Q3ncvDm0btOuRt0suRJBjSMWQyi2UGz3dAA9XXd6v53gXC3SfOfcXmXDGS740ETlJVTmQp+K79IHsBpk6ilK/QF5PpSI07sYMpixLJjM6kn9LEuSR8H+9QvEjsceK2P7VO/v/Lmxv733ejRpGPVDWa/8CMPGl27ZZ5ceF54SWikZAWjPIi1PuP8ANbHwsTPve8LOTIqz9B+wPW/z9h/zRo1Yz7Vy/oMO8//Z
 subTitle: Eine neue Lieferkette
   
 ---

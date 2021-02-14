@@ -27,10 +27,12 @@ date: 2015-09-09T16:38:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "8429"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "8429"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_vegan__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_vegan__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACsQAAEEAQMDAgcAAwAAAAAAAAECAwQRBQAGIRIxQRNRBxQVIjNhcSOBwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAdEQACAgMBAQEAAAAAAAAAAAABAgADBBESEyIx/9oADAMBAAIRAxEAPwCO7RbcTJlRWh+Udd+RQ05xNqzJ8JXyaXpUp3hLKRZJ/wCf06X8Oo4zONutpCrQU1q57MdJ2G7IhMpVIluuNuvkm0JFp6APbm7971m7Va20HehHpSbLOBA2J+HeXx+xJCMllsdBbLXDRdKiFKNJCyBSQbq+a/mtWIkqweyG42SjJRKZPpOISoK6Vdu/YjzY76D76ejQMEtxSPRdEcRFqZUf89qBSCO1iuD7aBT5kh/Y2254fDiUofiO2pVkNOfZdjwlVXejsReCyRmRjeAlGc+DOIjKTPk5qYlltAdMQNILoSeKK7HmuekaNZqaxh8GgoS3EhR2zSECwhtI7D3Pez5OnfdsZrJYxp2OHVuHqS26ynqrqHKVeQD2/Wpfkm/WCWnisJ6ejoXyKrVV6BTyssw1GvQ/sh+7d+zc9GejwscyiICXEnq63CAQQSRwOOfP91pfkOnHQcM6HEJx0X07UfyLcUXFKr92kf6/eqVH287j4rv0mHFcjLT0uhTKRXPH3eavS058PtwfWXnfly4gU59h4r20iw/PIGpJmWMx00//2Q==
 subTitle: 10 Fakten über Veganismus - Teil X
   
 ---

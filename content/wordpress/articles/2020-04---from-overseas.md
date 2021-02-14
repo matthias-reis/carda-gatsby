@@ -33,9 +33,11 @@ date: 2020-04-05T12:07:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "28845"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "28845"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgj/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABiESMQcTIjJxFEFRYSORof/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAP/EACERAAEEAQQDAQAAAAAAAAAAAAEAAgMRISIxQWESMlFx/9oADAMBAAIRAxEAPwDmNMYhqipCXSoAtm+r9cf7rT4DCxXMnATlkp+loBxN0FVz34ri/k6Uw2SqSy0w04sqR5xJABUOkn7nsAFf1ppiJ0iaphlEYyFqcAbQhJUpZvhIA5v41J7PPTshOnfG4PaLA+rRbmTj8luU43bWBLUVqKHCqOkNKlDp9alIKuLUQAAbFXRutTiU+w57WlNqoAt1wkjvR78/Gq0Z+KhSJZyZkxsyWRDWyqOoPMr6QfTyCk3x2/GspI8PJeHiR8nu+WiBDkEpQ21/LKec7ltKPsoWLKiALAu+NGixK5psAVXeM/qeGiaNst6jd1xnGOEoy0dxssOKeCgYyQEhtKKSTVemvzq6+DeRwr7UV+JtjHwsi9EWTJaJPSUqCFUDyOq79360aNUk9r7UogCACNwpzvPfM/DbvyogRYLWTWtCXciGreKQhICUE35YAAHHPF3epzNycuctp6VIfekN+1511S1gCqAJNijZ+SdGjSaFkrMOkBf/2Q==
 subTitle: Post-Rock aus La Réunion
   
 ---

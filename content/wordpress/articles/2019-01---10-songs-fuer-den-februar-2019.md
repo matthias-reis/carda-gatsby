@@ -24,10 +24,12 @@ date: 2019-01-25T14:27:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23276"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Unterminated JSX contents (51:16)"
+thumbnailId: "23276"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKBAAAgEDAwMDBQEAAAAAAAAAAQIDBAURABIhBiIxBxRREyNBYYFS/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAwQhEhNBYcH/2gAMAwEAAhEDEQA/ANx6iV1NHb2t4w7To311gG+dIiDyiL3FicAY+c+NWXTVCtf0va46i1TrshSJ4qiFmYFceSwyQeD/AHSVSWnvfqJDd4veQyTXCnlChkYJ3oNobg4411vXrVmc+3EmzaCCAhGecju5+NSUTUpOrKopa5I7fHWtVTsIo5YYW+y5I2u3GdufIwcjI1D0hcjWW12u8tOtwaRpWhiz2KcYGOT+CNaC2rU/VBqQ5GweVQAN+tpzpL1nWNvo71VUbfZnWokAUyqpZtxH+eM/vWWdETpIjGvrPsP3A1AcUff2KbpKugpLnDJVgtErhjg44GrbqXqh6u5RSWuvuMFM0iMkYrZQcEjz3fOjRonmAjBrLZWpXOsfUF0LM7EAzt2/wHwNZ+vs1PQ++FRUQPJUzgySPGGcbwADk8jwcjz+dGjSTKByI22zlyCnNz//2Q==
 subTitle: Präsentiert von den drei von der Bande
   
 ---

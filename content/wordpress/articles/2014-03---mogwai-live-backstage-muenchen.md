@@ -32,9 +32,11 @@ date: 2014-03-01T13:04:00.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "7769"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "7769"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_03_img_0742__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_03_img_0742__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAQQH/8QAJxAAAgEDAwMFAAMAAAAAAAAAAQIDAAQRBRIxEyFRBhQiQWEjkbH/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYC/8QAJBEAAgICAAQHAAAAAAAAAAAAAQIAAwQREjFh8DJBcZHR4fH/2gAMAwEAAhEDEQA/APDfT66RLps0WpafK7q+73sE3zQEYClD2K5BORgjPc8U1sPTumzrOu5riBwOnNG2HhOeSh7MD458VJ2nVtJlki7eGzjFOoblrfUrSb2xVztlQbdyMxPBXIGD4q7OPbXu1WIDeXf50jDHspKBLEBI75/PvMuNCudJvI54SrBTlJFAZf6I/wBpammN1DjOKr1uriG2JvF/jkTeivlWYHggEcftb7e2e3WWFlLbQcfv3R9RU18JA9Zq/Cq3tRo85L6R6ghsrW+trmwWVruBYllcDMHzDF1GMFiF25+gTil93ebZYhazztDE+5RI3YEHkAdqKKnqMm1vExMVM5Mp9Z19tYuIpfjHFbr0ohuyUXsAuecDGBXJb3hhBBOQQaKKZ49h2YY9znTdPqf/2Q==
 subTitle: Meine Lieben,
   
 ---

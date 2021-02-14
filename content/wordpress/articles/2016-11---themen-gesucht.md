@@ -27,9 +27,11 @@ date: 2016-11-24T11:07:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15321"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "15321"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30090473655_3c92758a3b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30090473655_3c92758a3b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAcIAgMEBf/EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQASIQYxBxMiURRBYXHBFkKRsfD/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgD/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAMCETEhE//aAAwDAQACEQMRAD8A4ehOpLVS9B09RVGnKQwRxzRv5akKI5csMc/vPbngjWFR1681wrpf1BU0azy7/JobhJDGh99vkMdxGM5Py1vqOjFs/hHfkqHQzRW53Vwx3DaMgZ/kY+v10haH4pT5kZbYhJ4LEH7qDoaq/mrrsSzNyA3G/dr3FUVsVVL1DcGniIKTzXRywUHPpzT5/vTvsNzuNx6cWru/TVbSySU+/e8i+oeXneQANuTk4789h21Gcj10KZJqSqqVRn34GeOM8DV019QGtJVwCxgCn77MacN8gvkT/X1xqajw0ubRFIjIkaMCCwKtIgI7j376mdbsyytvhR2U/PBHB9iPzo0auwBk1qns9Sz3L4q40tM1JTLDNNFE6KpUFS4BGAR/hqvpqx5KQIoC49IzzwOPxo0a2HJWXZ//2Q==
 subTitle: Leseraufruf
   
 ---

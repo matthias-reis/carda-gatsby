@@ -29,9 +29,11 @@ date: 2017-07-27T11:27:40.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17237"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "17237"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35393139313_ae535773b8_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwcG/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAAFIQYREhMxIjJBUWGhB0KBkdH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgECA//EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMRBBIhMUH/2gAMAwEAAhEDEQA/AM+RZFnPD6q0WNe/k+qYRdUvqQCmBFIPwv8A2rXtUPBHER4LSifMCSf6JNMu4HxLnSfVEPR8yUypxlhStiBx4nP80+smlJ8BaHFzI8QKO6kEFavjAx90tb1ZLcjFKVpQvsVN7gnFJVzJUhtxt+7z1cjuSXNiPgUOlmkdYpEoY4xRtRZtDaivCWCsIgxCArrTnCCsnuUoyoj0GAMV0SNB2qA2Bdbup1bfFKksp6Y6hV4UgHcq5Hvj2Aoooa7Mlc4sugFeOBm3QrtQfjB6O26bFcRJ3X4W5KumpIz+wwfb09Kza5G6WRx2NdY8iO834wHUghScA7HbYjtkGiipxcl8hLX9WZaB0L//2Q==
 subTitle: Mit dem Boot von Bucht zu Bucht
   
 ---

@@ -21,9 +21,11 @@ date: 2009-04-19T19:42:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11201"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11201"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_04_Der-Braunb%C3%A4r__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_04_Der-Braunb%C3%A4r__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUBA//EACgQAAEDAwQBAwUBAAAAAAAAAAECAwQFESEABhIxUUFhcQcTFCMykf/EABcBAQADAAAAAAAAAAAAAAAAAAQAAQP/xAAdEQACAQUBAQAAAAAAAAAAAAABAgADERITITGR/9oADAMBAAIRAxEAPwCNFfXB/FkvIiSGHQWw4LlIPmysjzc++uVnckCCI0sohlBQllaG3QkpUkDPr3a/+6xtqT2aS+5IqNSjoZzdllPNCicn9f8AITbGO9e056kzhJmQZi2YKUFSI8W2XBcqBSUkpBGRbAt40ZqCt0fJljbyWxX29xS4ioEdbyGOTr6EPE80AkjvrsDF/jVeobmYistOQ4qlJfJeSgOKu1fimwNvY30rUDcrkOty32lNpRNSeAeYb5MnFuPfds+e8aZaXUm6/AbqkmlNOrcUeYLhabUpNrKxj5GOtTBUAJlsda3MjPoFOj1BuKY4XdHIKv1k4sb36067e+j1MqSo7iJrkYKJNm2hgWFwM+oNtGjR9jWHYaiOxT3ZsSiUdmuMPJkvKVLL7K2nQ19oJwEkEK5YB8d+2sDZtSkwYceFShHjJW4tCn3GEvPdcu1gpHjCRo0aewCjkU0//9k=
 subTitle: Mythenumwobene Allesfresser
   
 ---

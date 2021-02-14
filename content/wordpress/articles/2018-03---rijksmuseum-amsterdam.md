@@ -28,9 +28,11 @@ date: 2018-03-05T17:13:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19864"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "19864"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40282444201_f44c296af1_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40282444201_f44c296af1_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgME/8QAKxAAAgEDAgIJBQAAAAAAAAAAAQIDAAQRBiEFEhMxMlFSYXGRoSMzQYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMFFDEiQVH/2gAMAwEAAhEDEQA/AFKcHU7gk9+RimPC9PwXkpRrmOHA8DOT6Bako9WXVvA6q0cyKOZ2A7J8OR+/jrotNT3jmWSzmtYG6IhfqElT37YOdxt5Ui2wAXx7hy68lrfqWV5pfoeyyuuM5KlD7GlEvCYQCMsW6sAY/lKrrW/E0QQBkVwp6Sd3OCceH8Hy3rbxnX9paQolqsk7kAnYKFzvjPWT6bVLnuRRluAgNiS1gBeRzrIqCCOIyuoAwcbD5IrHMKgc6RMMDB5Bn3xRRRufEq4jXqalYloO9sB9tT6Yrine1wSIk9qKKNW/srP/2Q==
 subTitle: Museum und Monument
   
 ---

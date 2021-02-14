@@ -36,10 +36,12 @@ date: 2017-10-21T11:29:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18178"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "18178"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_image3-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_image3-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACsQAAIBAwMDAgUFAAAAAAAAAAECAwQFEQASIQYTMRRBBzJRYXEWIiOBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQP/xAAiEQABAwIGAwAAAAAAAAAAAAABAAIDESEEEhMxYXEiUZH/2gAMAwEAAhEDEQA/ALOw3KGvkcTxLTBfBd/mP0GmNwu1poKqOmmkLSsu7+OMuFH3I8fjzqdtqU0NUskdSjRSEE5OCpAAIx/WqC8+lkopZIgsrg5U7N2M8EjPg6VNgQG1YhwY4udSQfFN3+4wtHUy0T96mJM5b06707aklQzMGGNvsCOdKpOsLPcOmrbX09dBTPUuqxwyFWdXJI2FecnJ84xjnTqeNai1PSiCAVojlWCUSbQC6kD9uOQSRx9dY58OqaGs6xpxX0gSSGmLIsnJM4G0MoBxkAN/g99RzEY3OzdqtqNla3L0mFdLFaGqJTHNUyU9QwXuVD7WUMRtYZ5GtBmtSDpmpqzIwlqKQTdtGYRJkbsBd3tjGc/fRo0h0sgbZxvytZDGXHxFh6HKnor5+rIpLdc4XSuhjFOLhTy7JHXB+ZcFT50g2Wnpw1twttpQ1EEQIM8pkyc8Hxwc4OR+NGjQZRSXTG1rLvBePOd1/9k=
 subTitle: Teil 1/2 - Die Tiertafel Hamburg stellt sich vor
   
 ---

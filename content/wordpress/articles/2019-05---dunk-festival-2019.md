@@ -31,9 +31,11 @@ date: 2019-05-21T05:55:35.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20887"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "20887"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-44__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-44__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EACkQAAIBAwMCBQUBAAAAAAAAAAECAwQFEQASIRMxQVFhYnEGFSSRwYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECAzH/2gAMAwEAAhEDEQA/AKeem+39WuEYeIrkpnAb00zWW3Q09oa5tDsgqVURRtyd7DPHwOdLdwaar+kaKuA6kUdQ8Ux7BW425H71N2G5NcLFaLXTUrtNTdcF5NpiG45Vl9wGRg+QPbjVtqB5quMjK23xCNoJ+T3if+aS6+AxOwIxqwa2kL18aN1TG+ERnYEF8geH+fvSre4WjlninlXfHwPHdz4EempQ0aSXhwrdqh7M1EJPxo36xTI7jPr7jrNHdKiCnkSNmUFhghsAEjPb40aNN7ZnWUjdLfqpoI1aSMxqdyhGxg+fbvxqKr7i9S7PhVJ8m/mjRoUdP//Z
 subTitle: Das Line-up steht fest
   
 ---

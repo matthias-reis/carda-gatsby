@@ -23,10 +23,12 @@ date: 2011-02-24T20:21:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "379"
-image: /img/demo.jpg
 errors:
   noSubtitle: no h2 heading found - no sub title
+thumbnailId: "379"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_9852__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_9852__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAgT/xAAoEAACAQMEAQQBBQAAAAAAAAABAgMEBREABhIhQRMxUWEyBxQVcZH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EACQRAAIBAwIGAwAAAAAAAAAAAAECAAMRIQUSBBMiM0FxgaHw/9oADAMBAAIRAxEAPwCwU9O80KwuJOsZOASP6OtXYtBZjNdqxVWmkdFliURO0ZHJVAOQWBBH3rvsdVTXGgp6qlyscsYdQVwwB+dTr9dGijmsTS1Cqo9QhGYdMrIVYAn8u+j9aHcRlfqWihiBGW099Bv5Va95ZqCKL1EhEBDQqzNhC/EKT0p/InJPQ86oJLlcaa4tbPQL4U5Zg4BLDro59uz9jGpTYy9UK3040NKImQSgc1WQA8VfJODjlgnyfOdWLb7Dbm0+c8avWyOC8SN2WY5BKjJUH3xgEe2hRb0OdVPVkfh6m/FJTSoSmF8X9RFt6+VNB6UKBXiLgBT1xHkD60m3RBT37e1dQXqFaqGmMbRrjC5kXole8lfHg/GjRotAqMxZScRVSdsUvsmhte5TLbitNDFKglgiQhJeYyfcnHxjsfQ1TNgUcSWGC6BV/d1il2YDHEAkcR/mdGjT2p9ymvixPziS12E//9k=
   
 ---
 

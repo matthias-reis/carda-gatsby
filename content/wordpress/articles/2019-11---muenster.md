@@ -29,9 +29,11 @@ date: 2019-11-11T17:41:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26707"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26707"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_IMG_5609__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_IMG_5609__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBAwQFB//EACoQAAIBAwMCBQQDAAAAAAAAAAECAwQFEQASIQYxEyIyQVEHFJGxJGFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhEDEiH/2gAMAwEAAhEDEQA/AFl7FWTPGKeA7dnAHJJA5Gm3p63xzWmolrlEMcCbpZc4CqASTzq2h6iqLPPLTx5kZYgZJJVUFCMnyAHHIIHOlPqL6hVVyS50VIkMdrr44xl48SLt2lufYM2c8dhxrREpXWSY3cIyW+K1XGwy11rkTwqdGknhmI8WDC5yy/Hwex1yjqi7rcLTDA0SJU4/kbVBLnuCuPT8H96nwqkiM0zSQvgoJE8oZCPMD2JyTj+xnVVespptyxRU8RUkKvLd8c/g6n6dfZgRteflm86h6vpa7pyOOOaOWWWYEPjEiKB6T24JxjSr98IkjCRhQ3OWPf5P70aNJVfrGAExjcSGY/cJuZEcAEH0g4Pvn8/7oqrksjylmUox3IQfY6NGh2FP/9k=
 subTitle: Musikalische Krimistadt in NRW
   
 ---

@@ -30,9 +30,11 @@ date: 2018-03-15T14:00:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20136"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "20136"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_garbage-2369821_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_garbage-2369821_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYD/8QALBAAAQMDAgQDCQAAAAAAAAAAAQIDEQAEEgUhBiIxcRNBURQVI0JScpGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBAP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhNBUf/aAAwDAQACEQMRAD8A1aOIXFN5+DaskkpAKlHm9Oorm5xDeAABtlW5GSCe/mZrGe9GpQEJBXISotvBe8/SAO0TJ9RU7WWXLG6Z8V1ppKkg4peSsgdYEKJP20NaFki/VrWouIJSppAHU5nbv/KqLviC6TklWoW8id0FRntI3pUtXOKmEQhAIzbEqMHcAiYH4mm9lcSssvYFZcOainGIE45D5Rt5GtpXpVCG09u2cLaEMBu2QJSymEiYgE4gT0qQ9prbmnsuoSw0VxkW2ubm3G5J6UUUOC6TzZp0gWpCpVc/ByZAaUCeqid8v1WN424luNO1q40+zbCGmbggkqklRTzKHpJEkb0UVZYWj//Z
 subTitle: Aufruf zur Säuberung der Meere
   
 ---

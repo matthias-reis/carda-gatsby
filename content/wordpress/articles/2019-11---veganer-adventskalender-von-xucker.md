@@ -25,9 +25,11 @@ date: 2019-11-21T17:35:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26727"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26727"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYH/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURABIhBjETIjJBUWEUM0Jxof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAhEQABBAICAgMAAAAAAAAAAAABAgMRIQAEMUEScRORwf/aAAwDAQACEQMRAD8AVdMWRJNrugKqN2fjjnTalsD1Jju9RcKSCSFi3g+YGNFBKKBuGSffj+XvqNLDLXWpKGiqKanlqXWIPLJ+9ApLhAAc9ufr4zpzZulrs17aS63bxLYsZCwU4wXO1QAd3pHmPz6fvOkPB023HB5xrbiEUqbix+2MdTW5IdrmEruG4KeMcA8/HfWcuVBBK43RorjIXkc57gad9eV5t9kp7VQl/wAqrBj8VjudIUXMjdj5mACg47t9alWTCpMc+KdYZkV4lUHIJ5yScYIB7Y7++iSolUTxGASB1nBumaqe2uklBVTQyKCAwVGK5GDjK8ca18N+vkaGSnvNa8yLmON2QIzYxg+Tto0a0jeqyoWkfWZfZ23wsq8zPvE0F86rm6hqJ69namlGJHeQBI9wySgB75X04x/WrLt1Bdipja6TvEMjYYk24K7e2Pj/AHnRo1O1psoKx4zffrKXd99/4yoxXVZ//9k=
 subTitle: Vegane Geschenkidee
   
 ---

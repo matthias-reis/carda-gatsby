@@ -29,9 +29,11 @@ date: 2015-12-16T16:26:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "29046"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "29046"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACgQAAICAQIGAQQDAAAAAAAAAAECAwQRAAUGEhMhMUFRIjJhgUKRof/EABUBAQEAAAAAAAAAAAAAAAAAAAQC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAESExAxKx8f/aAAwDAQACEQMRAD8A4uteBrFcR5bqyBemp7hcgZzpgu7HtkV9q8MtmQnPJyFSAR8k4wNVO11bMktkRVBYaMDEajJx+P70LcaVQ7dRZYXCsr+vXv2CO+ihiWxqKKgLnckXdsq1wxWViVVQyFgWDnOfHbAAz86ncOtd225WkkqpJUvZRVmx05MEgjJ7AjHg6XpzZYxFkcdQ8ykj7/Xb/NPnAHG1rZKk1Kxt9fcKE9hS8NmMOqZOGZTj6W8EfJHjVPcgETZwVNHs+7VHiCObTlJEkXLNGAGP474Gk/b9su7+L9+GdElJex0Sr5cE5OMAgedGjQkYr2cbx6YzkQMwU6+TOtXjg6bW7DuYVMaKtOZuT9lQM/v41d7rxDw9aqrDDW3evN1VedayRxxSkfy5WJKtn2Ox+NGjSwLNkwpahU//2Q==
 subTitle: Handgemachter Upcycling-Schmuck aus St. Pauli
   
 ---

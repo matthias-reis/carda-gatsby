@@ -33,10 +33,12 @@ date: 2018-08-07T14:32:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21584"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:57)"
+thumbnailId: "21584"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43182891864_bf05c0427a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43182891864_bf05c0427a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwECBP/EACoQAAICAQIFAgYDAAAAAAAAAAECAxEEACEFBhIxURMyByJBQoHRI2GR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAxJx/9oADAMBAAIRAxEAPwBxlwvJw3pxluZSsiKPuIJNC/8APzquZ8NJcBnzIpC0vsjaEOImkNAEkij2uth2vzZk1pw6RIoGnPSIyqOFeiCCQSavwNKeB8t4ORiZOPzRxOKCPKiUQxSukBcIRtbHoDBaPcHxVbZLhV9DyTqItyRyzcedJnxnH9CYLjwSJfQVJoW17MCLA2qh51YMeMkWOikhaQXX0IA1jhmRy7l4855Us4qtWRII+hJJytsVFnsOmz9f7760ymH8ZLDt287D96JWcLQslHTgdBUlty1kntvqG/FvM9DlSf16GKJ4gCkYkI9w+7YN48WTo0ap6quMV9TQfCqWVOWslMmVHmjyijlWBohF+XYd1BA/Gn+ROPTiPuAYfrRo1KR4WQj/2Q==
 subTitle: Blumen und Schwerter an der Trelleborg
   
 ---

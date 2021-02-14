@@ -36,9 +36,11 @@ date: 2011-04-02T13:16:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "10646"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "10646"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_16282996591_cd8d21c6a1_o-e1582812580559__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEDAwMCBQMFAAAAAAAAAAECAwQABhEFEiETMRQiQUJhFnGBMkNRcpH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDERIhQVH/2gAMAwEAAhEDEQA/AIctbKJTghupdj7j017Bkj07052DbmqXHrKImnxlPulJyVowlkHguKOMJ+D/AJzWpa2i6RcctCdVkoTufcW6ttzphI6KNuEhI9+4cdsfk2uI9Bs2Ahu24UCK46gIdlqQtzrAHynOeTySc454q5MwGvc1WsngjZYdgaZajCHDiZqRHmkuDO34QPaPnuacQgJO4J+M4qD6jdFzywpKLkcjoUohPhmWEcAevBUM/fisFfgpMRH1Zq13ajKJUVCJM3N7c8cDtWbo+wHFazuzJlbuI0hKsAqJznGKsGiawDEDLyUutKGFIV2NFFPmNx7TP1u309MydIeBbP7TvKM98Z/Ug/bI/ik2VNeiOCNKcfhv58qHyHW1f1J7/g0UUVDp0yVWf//Z
 subTitle: Eine kurze Geschichte aus dem Leben
   
 ---

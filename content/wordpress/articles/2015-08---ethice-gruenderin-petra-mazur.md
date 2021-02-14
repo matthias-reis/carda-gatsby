@@ -26,9 +26,11 @@ date: 2015-08-01T10:17:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "12139"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "12139"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAKhAAAgIABQMCBgMAAAAAAAAAAQIDBAAFERIhMUFxE2EGBxUiUfAUM0L/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIEBf/EAB0RAAICAwEBAQAAAAAAAAAAAAECABEDEiEEMXH/2gAMAwEAAhEDEQA/AEanGk6LtkDAcFlOo8YsZVYbMqVloYVC1ozI+8nfp2A89fxjMtWVhj3RMBIq8Kv2j3PHnzjMyXMs/wDpd3LMnhtW4X5kEMbSNGGIBAI7Hpp05OmMxFJsxvjRWtn/ACMDsHjlWGpPJ/HjaxKRFqUjGhZm/AHcnFL6nUsRhalmNww10WQdT+9MM/yg+IbVfNrWT5lWYz2hopkZgq7SU2SRj+wFn02Eck89sbef/LDJqmk3ptlcPoOjg212151Q+mShH3I4U8hiQR74fj8qkXsbldsWhq7iPUNdL4a8kNlE6xy66E/51APT2x1msNDeazRWKmAoAWk5iAGp66Hnr3wYMJKdIuAOyjUHkjUsSw3kuQSSLbB3u6ux3uNDqdx/ecTz3OM2zYSnMbs8kUiqXjLgBu4JA6nk+MGDAXHR+mRrs//Z
 subTitle: <span class="s1">„Es ist Zeit, dem Leiden der Tiere ein Gesicht zu
   geben!“</span>
   

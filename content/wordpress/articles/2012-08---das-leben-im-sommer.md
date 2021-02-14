@@ -55,9 +55,11 @@ date: 2012-08-20T10:00:34.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "4030"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "4030"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QAMBAAAQMCAwUECwAAAAAAAAAAAQIDEQAEBRIhBhMiMUEUFRahJEJSYYGSsbLB0dL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAcEQACAgIDAAAAAAAAAAAAAAAAEQEhAhMDBDH/2gAMAwEAAhEDEQA/AN9OP4qE6t25jSShQ/NR4ixM8kWszEZVfutxT+HpAItrlwknhlMDyFKud3upOZu+bMweBBAB+MmlbkE0M5+w2wv8QFybcW3o9w5bLlBHGgwY11Hvq5W0GLHpa/If6pzA8G2cwy1eZsXbpthT7jp3jG8UFKOuoPLQedM9gwxxOZF9ZlXsLbWk/bUx53HpcuvdCbbxTlUUpVHqkmPrRvSNRmE9M3KiijwKKLRxRSYUoSs9dedWrQVTxa0UVlqKNJyf/9k=
 subTitle: "<strong>Oder: Strände lassen sich nicht in Schubladen einordnen.</strong>"
   
 ---

@@ -30,9 +30,11 @@ date: 2018-05-14T05:34:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19851"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "19851"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25392225977_19bddc7e2e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25392225977_19bddc7e2e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAqEAABAwMDAgUFAQAAAAAAAAABAgMEAAURBhIhEzEiYXGhsRVBQ1Fygf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgUG/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMhMRJBUf/aAAwDAQACEQMRAD8As4Nht0pTgWtlwoUUlRbHOO+KeGnbE6yI6YYUckLU2NvvSTtvZjkPx7fMnqSASWVOZJ8kgHNZyr/ao73TlW6/Q5GQelseB9dvGfUCnF1HTF0x4I9dtEafTGCmoyWXs+FS3SM/7moPU2g4be10XVAZ/IcqJT/PHzV79QjSI7i2xPQ2EklM5DraMeZWjHvXPdSa2tzSnIqwRhPLkR9DqDnt2x80fJPZgpjwTnluadYS0tuZKSQM+Be3Jx34qgK5rcJ59VymLLLO4BbpOf2MntRRWcfI11ctVRfkx5klayjrAPJA3lLilEHPPbNTk64rUyNrTKEONHwJQMDnz+9FFPx7O5B9T//Z
 subTitle: Panoramastraße über dem Meer
   
 ---

@@ -40,10 +40,12 @@ date: 2013-05-17T13:13:59.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "5384"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "5384"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_peterarnim__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_peterarnim__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEABQYhEhNBByJRMWGBFCNxkcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwD/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADESEEEhPBQVFh/9oADAMBAAIRAxEAPwDKw5yUXg2kJTR8VnVwdqwNN3PHh7lnNiJ3O26uK+g1xYPXZAF1ZztdY2uiNttGh7flRXpDyi43IkdtJkos9TaFVwbKfPPzxWQNdcEeZTTLzoXpnETbLSXCvrUUnptNJsXYq/gffLHVIjsfTdOLqWA0oE9SDa/r5/HIxu6v6RJ1Ta8rVdKlxosmBHWpyEFKdU+UjqPuNdP0IFjn7Yk2Hw2R1pC+CmlE1RBH+3lA24XEzoaZKmXn6EjS4kpSlrkS3SlpkC/2wAL/AJKjwMnHSiwicqSnuohNgPrT7kslV0Afm/jzhhhDWW/3ubjG6w9dXmk/TSG5A2NEM1Y769OShSaHtJTfJ88Ef0cye8+hyS85EQmPRHtSABfn8cYYYjk3MKgAYn//2Q==
 subTitle: Da kommen Erinnerungen hoch!
   
 ---

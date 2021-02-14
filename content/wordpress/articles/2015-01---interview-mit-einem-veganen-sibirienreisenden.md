@@ -40,10 +40,12 @@ date: 2015-01-20T16:21:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "9384"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "9384"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQIDBv/EACoQAAIBAgYAAwkAAAAAAAAAAAECAwARBAUGEiFREyIxJEFCYXGBkZKx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHREAAwABBQEAAAAAAAAAAAAAAAECEQMEExQxYf/aAAwDAQACEQMRAD8AYeHKMm4EA9g1Luw9JG/JpXR6gxkEY9pjt144P8FVud6nz5Ew7ZMVaTxQZSTuBT3jnihdS/RfPLG480gPDt+1anxzhSLqfqKXj6izI3tKEueLqCTWKagzBn2mWNiODuUDnqqW1v4S9aTl8AEPmKsSfidrn7CrGOSJfS5b5miinZbCpYBZ0Vt27zG/J6qtkxASaQM19y3J6oorSCbP/9k=
 subTitle: '"Ich hatte noch nie Heimweh!"'
   
 ---

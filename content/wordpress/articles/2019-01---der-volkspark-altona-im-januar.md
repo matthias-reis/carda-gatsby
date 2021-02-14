@@ -25,9 +25,11 @@ date: 2019-01-06T17:04:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23192"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23192"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-06-volkspark_28__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-06-volkspark_28__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACkQAAEEAQQABQQDAAAAAAAAAAECAwQRBQASITEGIkFhoRMUFYEyUXH/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQME/8QAIhEAAgECBQUAAAAAAAAAAAAAAQIAAxIEBREU0SEiMVHB/9oADAMBAAIRAxEAPwBHivFs1UR1qZLdU2rhDSUik36g3wO+OdWHA52arO491p54vEllKS5yd6h+r82ucwH4amqKJy/LZUkJ5F/5p20ptz7ZTTExtJcRS3SKI3ew741jGYG4AmWbUkdolr8SZ2c94rluvOBK0Orb/lwnaaA9uvjVZy+YmLclJfyCnXApW9e4HffFC/TjWeQjBqXMT+PmPhLi6cS5wRZqhV3Wkk9IBJOLm3W6yo8/GoOYrcVuj2baan7xJ+DgMIiJOZyWQeWLU4pqQplCRXVd/vTDw4n6s9nNR5K0QjuQiHJWt4CrTZJPfr7aNGhicPSULaoHX1HQJZtWM0ZuDCbyz+ZyTrkmO6754rdooEgWlQN8d/Gouaw+IfiK/FOuMchSH2nlr3A3VpKjYP8AfY0aNLDUkZWBA88Q1wFYET//2Q==
 subTitle: Streetart und Waldluft
   
 ---

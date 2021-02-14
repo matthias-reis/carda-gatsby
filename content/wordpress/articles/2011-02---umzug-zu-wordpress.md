@@ -22,9 +22,11 @@ date: 2011-02-16T14:19:37.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "271"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "271"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_4857__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_img_4857__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAJxAAAgICAQQCAgIDAAAAAAAAAQIDBAURAAYSITETFCJBMlFCYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMhMRIi/9oADAMBAAIRAxEAPwDHsWuOtWYksyzRwGGcyTQMGaJlQlCAf5ehsD2D49ceJb1bBdNYC5coxw3a8P21rR2AZ3DMTHMe38O3TBQjf2detFM6RFfH5rHzZlFgx113b5JKomDqSQGSP1sNvz/j5Ojx/wAR1Ngls2cWcdXihFpxG5VVjaQSkwy9zbZVHyH8T+K/78cyxtLpcKILkl+30jOgwFJL2Nk+rNHeIeWR3CyS9gOhth5b961ojfE7EZPMW8rfexYlggnryNPUjdQhgWI9sY2G0ANDQ86OgR750eqJky3U0lrGwRzy2uyeSr8omYGNip2Neio2QPQ88WM3N8eRmlosa9eeP8FjVkV43A3GNhSUHkE+iRxSbvQpsoRSQ4y1Ye1WS8DG0aJIzKI313BwAfJ8a0fHk80U4tLFah1ReZTHk37ZaNSMV0jVkc6jYb15H7B/5w4ceNeuhBWInTmRhx0f2rVGG/FFHIjQSsVDga1sro+N8mvdSxSY+1WyWO+7kJYn7chJYYSRkgMNL/HQI/r0T+zvhw5EX9UTdaP/2Q==
 subTitle: <img class="alignright size-medium wp-image-271"
   src="http://cardamonchai.com/wp-content/uploads/2011/02/img_4857-640x427.jpg"
   alt="Umzug zu Wordpress" width="300" height="200" />Alte und neue Beiträge

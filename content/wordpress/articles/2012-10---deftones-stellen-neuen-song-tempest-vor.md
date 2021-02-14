@@ -35,9 +35,11 @@ date: 2012-10-04T09:49:40.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "4327"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "4327"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_koi-no-yokan__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_koi-no-yokan__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAtEAABAwMBBAkFAAAAAAAAAAABAgMEAAURMQYSQWETFSEiQ1FxkbEUMjRCkv/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAfEQACAgICAwEAAAAAAAAAAAABAgARAxIhQSIxgfD/2gAMAwEAAhEDEQA/AO3WaEw5bWFFpJJSOFHC3xuLKfasdncm0xQNSkCkSdprJ9UhpuchG+t3od5Dud5oZcB5JGM1IANbMrCO96gmUnV0c+Cn2oC9wozdrkrDSchBOnKg2bza0vocXNYCAEOJCXHASFZwcH1HKmm0nZZZeD4Z+KQMjXqQYCrKfIVBrZNiW+xxnZ0lmO3uDvOrCc+nnTgBtxCVpDa0KBKVAAhQVqQeOePnXKL8qctyFLttri3cNx0tNIfk4baJzvlTWRvcOOPaq7Y1KbTbV9YzIypkhfSuIZG421kfYlIOBjlTK/U3yYFXGHDcnr96+yoDDJ8FrQAdwaDQaaCgdo+2yy+PcPxWvW0ED8lv+qWbQ3aCbPKSJLeSg/tyotVcSYXP/9k=
 subTitle: Album "Koi No Yokan" am 9. November
   
 ---

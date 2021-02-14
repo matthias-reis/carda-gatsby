@@ -29,9 +29,11 @@ date: 2018-09-14T13:57:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22053"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22053"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29737761437_cf2b7e0b6d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29737761437_cf2b7e0b6d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcDAgQFBgj/xAApEAACAQMDAgYCAwAAAAAAAAABAgMABBEFBiESMQcTIkFRgRVxYZGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAf/EACERAAEEAQMFAAAAAAAAAAAAAAEAAgMRBDGB0QUSE2Gx/9oADAMBAAIRAxEAPwBX7n3KNb1BL2GNkt2iES2rHqERAwSeOc5zkAdh8Ux/CXQG1bXTaXUd0ktvGb0SEL0lCoXBypOTlT3/AM5T51HRYoQrOQ5X0MqZYfse1NXR9/W9oUuJdyajBIbaOAyQ20DARoMheWJI+qmHIlMwkfr72Tpx4mx+NpFJy6Z4fwafpdvZK3mrACquw5IySM/RxVre7NSPJCitAg8UrSVLDG5dR67hgjiWSKNk+WwEIx2H7rKvuc3CytBuK8uBgno8yJsf0ox91TZ1GctAZVb8Kc7Agu3H5yuW21BQnpiD8e6iqPyEagARdKgYx25/iiig9gTBJpQy3gdmIRQSAMioJLl8elyM/HFFFaGgIeq//9k=
 subTitle: Romantisches Farbspiel
   
 ---

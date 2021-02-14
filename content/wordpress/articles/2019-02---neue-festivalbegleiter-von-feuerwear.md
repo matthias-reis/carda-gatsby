@@ -34,9 +34,11 @@ date: 2019-02-15T07:51:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23513"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23513"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EACkQAAEDAwMCBQUAAAAAAAAAAAECAwQABREGEiETMRVBcYGRIiMyQmH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFBv/EACIRAAIBAwQCAwAAAAAAAAAAAAECAAMEMRESIaFRcZGx0f/aAAwDAQACEQMRAD8A81hacbElMV2fIcdJwoxIYKEHAPK1E8c4zimqNP21ABW1OeURkB2TsB9kAV3I1NHQyS1BnOYwdzaAUoAHJKs8D28qpzr6wmCZLt3ssZlWNiGHVTHz/AhOzB9eKiLV6mD3+ToStjbHRgCfRP3rEdyhB29txLchDQeIQ2hx1RSFZx+RyRnIqtedNahjdQuWjqIQCSph0Odu/bmoPFYyry3cGZs+SlpaFJbdgpa3fUCcbVEY79zW1nahtU6LLdanslQaWstO/bXkJOOFYz2HbNO31EAGfmSrQtrhnbXb45A65iW7agsqrBKNtkxZ0k7G0svRljIUoA5JSPLP7VmChuQ3C60aI2YzXT3MtbVOnJO5wkkqV5egoop6oq4mUGJzJOshHAA+KXzXkqBBA+KKKKFuIE//2Q==
 subTitle: Rot, heiß und robust
   
 ---

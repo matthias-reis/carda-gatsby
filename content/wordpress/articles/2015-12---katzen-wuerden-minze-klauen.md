@@ -20,9 +20,11 @@ date: 2015-12-28T16:04:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13532"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "13532"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23907635985_134ef2390d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23907635985_134ef2390d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBAEFB//EACwQAAIBAwEGBAcBAAAAAAAAAAECAwAEEQUGEhMhInExQVFhFBUjMjNCkdH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAEC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwBH2sWaDRNuI51Eb3IXgqWGZM3Snl2AyaRytvPNEOKd9ViXdDqMkIqnAPjjBq7tJrmq6xo7SzWgjknlZHiSJyQB1Zz/AD+0r2Vxc6e0c8aTxzqc7wDKynP3A+uPDvQn2UPN1uzspb5JdUWSCLT0upJI3lfDSuZlygXyPLAqF3K9vsxH9QNBMvRiUZzxHJyuPf1pZuNsWn0DTpLzSorjUIZyPiXY70m6o62A/bJHP2rcm+m1fZK2uZwIoSxt1QtvcAqTgEYBGRkg0Wu4Hsgen5XItl7K1iYRDmPMrWflK4/Kcdj/ALRRUOtNTkKMmn7qECZ8CqTLwuk4YdsUUVgrdcv/2Q==
 subTitle: Oskar und Chili vor der Kamera
   
 ---

@@ -37,9 +37,11 @@ date: 2018-04-24T06:40:31.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20572"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "20572"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Open-Island-Berlin-Joy__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Open-Island-Berlin-Joy__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUHCAIEBv/EACcQAAEEAgIBBAEFAAAAAAAAAAECAwQRBRIAIQYHEzFBUTJSgaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMBBAX/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADITEEERIi/9oADAMBAAIRAxEAPwCwMea+2tSkpbUVEEgo+TQH+cj70+9Ul5nyfyDx6RkYGQlYmS46xJSAymTHvWk0a2Qo6n6VYI++aXkUPCysdIjwmCHy4lu2FqSoWRtRUSP0lRuujVd8gHA46A155lZ+O2gR8Y67DZiwkOLcSQkttuqsbqSVDZXQJV1SbFLTvZMM+ThRLuY/ORpsX3W1N7WUlJVVK/Bv4PGyDskGqJ/nlNPBvJsjg8lKR2hxRbY9jRzR57oKKllKgpV7Wo0TfE/q36veXLy7+EYebxsGOAPYQhDq7KbsuEE9hXwKHHfOu8wCrrkiN8x5TlkefyYOJxiFYtlYQlaGVkqQUp2G5Ooq6+vxxBKl4tcia4wVolzXC49IdO7qlFQN38g7C7sd0fq+HDmfexUelx3K5tK6mWHyMlhLzj2dcf2Wd2krW3rfz1tX9X8985PyiJElyvekSvdeANrSgJ2P7TXRquq4cORxWZ7GJMdXe1u5/9k=
 subTitle: Neuer Lebensraum auf Recyclinginseln
   
 ---

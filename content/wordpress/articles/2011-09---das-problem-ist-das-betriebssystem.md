@@ -51,10 +51,12 @@ date: 2011-09-02T10:46:34.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11609"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:59)"
+thumbnailId: "11609"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_sissi1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_sissi1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHCP/EACwQAAEDAwMDAwIHAAAAAAAAAAECAwQFBhEAEiEHMVETIkEUcQgVFjIzQmH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUBBP/EABwRAQACAwEBAQAAAAAAAAAAAAEAAgMRIWFB4f/aAAwDAQACEQMRAD8AXOlt0WbbtJjqrNHT+oC8pYqMqL9ShCf6hA52EAcnafPPw1UDqNVRYj9RvixYVXoj5K0uxmW0kNKcIAUjZtIGeCDnjJ750jUvpncVdnw4LMP6VK8rckrBWhlO08kDuTnAHGT409XlQZ9vdP4VItguuU1iOoSHFqAkhWfcE4I4UdxIwSOManOZpoJUrgrdVi31O6f2XHpj9VsuuCH6WxS4E8rSlW5QGGlqGcpzkp92PIxo1Iq5UHkuth5x11WDgvKKsfbPbRo+26Eyo1NLNZ0K72YlSKKe44sKSpDgXlKfYD2I7nII03XbU4tMoX5imDElXAuKt+FGS3vede2bwAkDPcZJx8aiP4abNqFTkm6pkt1EZhxxERC0BSHXz+5YHygZPPHu+2rrKt+Em64VdQwWam2s7vT/AIndycFR4yDg4/3RY6WDyJy2xjru/PvjMYG+JMl0LrtKjTEpVuQNiGSlRHnacjB7Y0asPVW7qtZ8ypUqbUJS2U4kxVBpCwplbqgkYPGU42nPjjRpXVQozp3TQtjvv5P/2Q==
 subTitle: Zurück in die Zukunft
   
 ---

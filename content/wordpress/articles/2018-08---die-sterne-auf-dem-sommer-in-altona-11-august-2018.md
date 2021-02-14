@@ -32,10 +32,12 @@ date: 2018-08-12T18:18:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21701"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "21701"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30116228288_f1d3042e77_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30116228288_f1d3042e77_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAACAgEEAQIFBQEAAAAAAAABAgMEEQAFEiFBBjEHE1FhcRQjM4GRof/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAED/8QAIBEAAQQBBAMAAAAAAAAAAAAAAQACAxEhBDFBwRIiUf/aAAwDAQACEQMRAD8AzD4a+hNz9XXRbrbWbWz1JgttjYWENheXBe8kkY9h59xpfuW3R7fLv9N6tqpOr8oIp1I4RZ5d5ye1xg+c++tr+Bu4iGPcNm9MwLcg22eWdZLE/wAiW3HNgqRFx/kAQKe8Y/Oor4yVpr3rTetzlm/StwigerPGQ8f7AZFP05Lkj/DoB7GloD4jNd/FnM+wWK9yetLPV5RUxc5o5ZCpjEgXOOmwcYPn7aVQfMkbjXDs3EsRGCTxA7PXjHvq89G7vPLdgjlsM8kUCLEGRRhU6H5wvk9+O9S+93Z23K3FIFjjFhw6wxrEzjkQQxAyevrkfbUa510U3LpomwNma/JvHIzznpOA1YXd4moELXMTyIwJyCPYqT2Oz0ddlu4iw26tieRrNiCvBJLaJIjKqSHz2xwCB3339NGjVt3SR2pc7bW+zS7ZYjkW0LO3fPKp2oWVDgZ84OR/Wpm4stm9YdI5HLOWPFSx/wCaNGgaTVpiUAAAL//Z
 subTitle: Live und <em>in echt</em>
   
 ---

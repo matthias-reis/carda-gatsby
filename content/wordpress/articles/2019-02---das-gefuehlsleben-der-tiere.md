@@ -61,9 +61,11 @@ date: 2019-02-05T12:54:00.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23380"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23380"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAuEAACAgEDAgMFCQAAAAAAAAABAgMEEQAFIRIxIkFhBgdRkaETFCMyQlJxsdH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMRMQQFEiEioeH/2gAMAwEAAhEDEQA/AOR7ZZtV7MxhRbNaMFuYlkbpHc4IzwO58tWNB9zG3T3du3CWheqzhJQg6YZEZguDgeEjIHw51We6J9ls7e1+AOk7s0cllolXn9UZGeMj54057ypKk277ZV2+It9vaimu2Ivy+FwR1HseB/udIJI7TbB8Vj0tkvCQJHZjWT9sUrO+B6Ip1s071yrthrUt3jdeuVvxiXySnPL4P01q7fD90SZqltbaHrevafplki6vEAQBgYPGT37Y41K24AVsS1GrZZpJJ3iAjBZuAWBxg9xqdJNJwJa6iEdJt0MMzXO7zk389JXZ9yqSIGURgry6MMHH09efTVRX3VBybPgwxCswOQT5Lj+PmdGjVArkCcrmPc7jQyyU1ZWUs7FctnGACRgnv56Y9p7lDYvZ56e32Kywyk5ESAOOeSek8gH+z8NGjWm4tA5pf//Z
 subTitle: Buch von Marc Bekoff
   
 ---

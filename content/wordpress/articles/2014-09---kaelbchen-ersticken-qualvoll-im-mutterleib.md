@@ -22,10 +22,12 @@ date: 2014-09-03T10:46:43.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24306"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <h3> (100:16)"
+thumbnailId: "24306"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_kuehe-333x250__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_kuehe-333x250__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwIDBP/EACcQAAIBAwQCAgEFAAAAAAAAAAECAwQFEQAGEiExQRNRYSIyUnGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIRAAICAQQBBQAAAAAAAAAAAAECAAMRBBIhMQUTQWGB0f/aAAwDAQACEQMRAD8A6rHuC6PEZJ7PVQxDPJpKdUUY85Jb1jTPZ9w1FfdqO2wUEK1NSSEErxr0BljjJOAO9VDbbSlxrbgbr8knGeZIVkkYhVYg5CnrvJ1YrXWotlLPXUwCzpAwj4RBiHK8c8Rj0WHfjz61kWeQdWALnvmHYm/01UTde7vMLlU0UdRUS1kMjI0NFMpxxHfSoeuxqE3DS7jqVWOKGWBZG4pmpSF2wMkftyeu9VxX3a40e8qiqoknpnSVRCFDKAQF7I/PWc/Yzou8+4rjBcrvcqtYknpi9OokMhUMR0v8CR0T5GTp733BsLYcfJMatWn2guvP1+TK3bmrqSZGhjnuMRQIyPOF4jA6z+PRGOvOnnbl4hmiaWS1rSSu/FonqPlLr76zgdEjRo1m6nB5xgyViWOT3I653Gkidq+piKpKjiSRpwVx+kcS33gKT/WlW5b8twp5KKnVFiZubYlJGQc4+seP80aNXVUrYxLe0A7n/9k=
 subTitle: Das unfassbare Leid der Kühe
   
 ---

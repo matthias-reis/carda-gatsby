@@ -24,9 +24,11 @@ date: 2015-03-11T09:23:22.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "10347"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "10347"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16139989860_d657bc2b40_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_16139989860_d657bc2b40_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQRBRIhBhMxQUJRoRVhcSL/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERIhA//aAAwDAQACEQMRAD8A4zZ9PBkd3jIQDPnP3VmDpUzW80vYKiEs0u3BKoPdg+nIH9IrY9ISwTa3p9vdxb7J51WfP+d6kcqv78fynX5UXGlXWmxWsqwSzQ3IYPxHuIBDHgshKg/ojNHGqtjSXaRhenOku891l0geNUOT4bk584PxUNb0e67JbHcjj3ANuyMVo9RZITOd4EcgxlDnHPrSe4vXtbcoZdyOHzu8kc4rcJLKsP0i9Mhod7LbT29xCQJEZZEyM4YHI+xTbXNSuJtNiaRlzM5iYIoQYUmQcKB7mP18UUUSGaEHelReJD4pVqMhlQq5OOfBxRRVIj6f/9k=
 subTitle: Nachts grau und tagsüber mit Krallen
   
 ---

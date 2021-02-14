@@ -21,10 +21,12 @@ date: 2009-01-29T16:26:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11092"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "11092"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1669__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1669__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBgcF/8QAKBAAAQQBBAEDBAMAAAAAAAAAAQIDBBEFAAYSITEHIlETFEFhUnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAJREAAgEDAwIHAAAAAAAAAAAAAQIDABEhBBJBYYEiMTJRkcHw/9oADAMBAAIRAxEAPwDE9zbdwsPE7ffhSpEmbJKjkGmSgtsCxxQ38qq7vq60jujbDeDkPIKJgbW6TFEmOUOOMlPJLho1+QKFiwe+td3KSFwsW4cFAW7JWtIMpDXItX/H4Uf0Ov8ANU+XKyU15tzJPS330p+iFSFrWpKRfQKvwDfX9611LR+SnxXzbjp99Kv67TQwzlY1JFu3zbJ/Zq57b9K5Wd2MjPx/vQkPONulLHNCONEHr3VRNkA1qm5DBIx8mQzJk+5KbaU2kLQ4rkOib9ook332AK7sav6V+sUrZ2Fe25L+0DUp0FE4tl0REkUolpJSHD4och+/FazHe+QTN3HJloErk4rktcsguuH5WlICUnx7QKHjSGngaOypkWznvepT6ZV3MGNhb2vSEV91+RSXFNqKTSkkgiheoqcemSmVPSHlLpKOSlWQPgaNGpcvqJ6UlXZwATzUIeReY5luu6Ivvj8aUlvrkPLddJUtXZJPnRo0ncdgXigvIzKATX//2Q==
 subTitle: Großartige Stimmung
   
 ---

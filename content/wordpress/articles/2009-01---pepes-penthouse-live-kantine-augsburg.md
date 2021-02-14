@@ -30,10 +30,12 @@ date: 2009-01-08T22:02:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11104"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "11104"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_01_Band-des-Jahres-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBQMGCP/EACoQAAECBQIEBgMAAAAAAAAAAAECAwAEBQYREjETISJBByNRYYGxFFLh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACERAAIBBAAHAAAAAAAAAAAAAAECAAMREiEEIjFBUXHR/9oADAMBAAIRAxEAPwDmHik7E52GTtEg+vB7/EWll245c9dZpjLhbefSvhE91AZ+vqNr8SZ6nTdbkqZT5dDcrSUCUUpskBWFdXbVyOrfnkmEL82IhFEFciYvlLJxqBKj6j+RiKj+o+ofdEVal23LVqSzSGXQ80h2UfcaCepCNCiVAghONKie+Cd4UlwWvN2+/JNVYttCaQHEKSvVpSVYJPxg+m0BaoJsdGO/DlRkpuJOyJVU5cUuwiYfleh5fEl1aVp0MrX0ntnTjPvFeicWuZ/LmdT7ivNdLiiS6dzk78/X3ggh+8lfUasy7btueKvDatmXm2ESaHm2Jh8qbQoS3FJ046idurI3OMwvKs86u41F1Q88hvSgFKUNr5cNIJOEpCsAewggiSdR6muoowY+G+z/2Q==
 subTitle: Band des Jahres 2009
   
 ---

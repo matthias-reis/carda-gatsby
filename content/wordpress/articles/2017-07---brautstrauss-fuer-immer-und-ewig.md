@@ -26,10 +26,12 @@ date: 2017-07-05T08:00:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16802"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "16802"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAABBAEEAQMEAwAAAAAAAAABAgMEEQAFBhIhMRNBQhQVUaFhcYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAgEF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAERIxBEEhUYH/2gAMAwEAAhEDEQA/AL7p7KX4Om8SkluO2SKsik50aquT6HFiEXyCFlAWAoDwfPXj+cn6p8/S2XYeoTF6VNWy07BS4m74C1mh110Dfi+8y2zN/wCuakrWXJzDAjQnVyFc3FI4jshPi1poH2oVQJziNyWxNLXXXutfIxEyO5ao66StNUQCKOcuqISpBFfEj9Yh2buFL232ZWpKZQ0sEtBw08G765AeTXf9ZofrYEttRYdQ4K+CuVf4O/1jFIZfBkMpVtSG793mjdzX22TpbbHpuBbUlDyi60bF8VUKuqP5xBHZS1OMlanH18Q2Q8rlyAJIBPkgX7n2F3hhgiSxsxgRV0I5hy3pGoRy8qwlVADoDrNVu5CY+iTZbQKXWmVrSQaIIBrvDDKQCjMc6n//2Q==
 subTitle: Schöne Erinnerungen in Asche konserviert
   
 ---

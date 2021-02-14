@@ -49,9 +49,11 @@ date: 2012-03-04T16:51:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2877"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "2877"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-26__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-26__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIFBAYH/8QAKxAAAQMCBAQFBQAAAAAAAAAAAQIDBAARBQYSIQcTMUEUYXGBsRUjMlFj/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAIREBAAECBgMBAAAAAAAAAAAAAQACAwQREiEikRMxQVL/2gAMAwEAAhEDEQA/AKsnAcvKiseIRmbdDZ5jLssJJIuSDoNxa49R+qlO4Fl5YHLfzM2kk2SXZV++xVy/TtW5T5MiLE0rmOlxKAgNIhaiNraRcAAAXBN+vS9Q5+JyUBa1S5qikAkMQQSq4BOncdOm/e/XagqKU+d5ReVLGwuHDbwxttqHOkNF08p2ZEdfWtsXFybg/ltuKgJMBt95T8EpbV91PMgvKBQCbkAdBbzqovFnWIamVT1hCd7+ESFEa1GwCh22J39KgysXfU2nTioStIWUgMNheonTY27EXPlRGis4xRR3nI2eKWceWEu5jxVwDoC6D8g3pF8Ts160qGLSFWBB5iUHY+1FFVOHtVG9B0ScuVnpZjReI+aYkdLDWKvFCRYFY1q9ydzTL4mZsWkj6sux/mg/IooonCWM89B0TXmufpn/2Q==
 subTitle: Eine Geschichte aus dem Leben
   
 ---

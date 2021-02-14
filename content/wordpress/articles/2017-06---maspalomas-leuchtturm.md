@@ -34,9 +34,11 @@ date: 2017-06-20T07:56:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16827"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16827"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34579820584_5575b7ec2c_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_34579820584_5575b7ec2c_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAJhAAAgECBQQDAQEAAAAAAAAAAQIDBBEABRIhMQYTIoFBUWEHof/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERMVH/2gAMAwEAAhEDEQA/AM+p3XHjA5H2dhjmqpqgb2i08XB1WxP0mR53n8ki5dllQ6RgFmchEQXt8m1/znEjmfRiZZCqZlK/fK6tSupU7X5FwB7wZ6u8JEUNRV1lPT6yDPIsanjk2v6vi/Mvyh6anhSihLLAjLHTMwOnSfHx43Hl7OKqkoUpKujBM0RlYLFqhuraiALEfuNB1BahlkLxzyP2wkUIUszICBcfYIsb7YKYTM/6Sz2jyhTkOcS1siSmVqdYhFsOCBfcj99Yj+mun+oahTUVfT9JWSWvGcwtEQCb3PkP9X6wYMVUMVf/AD6CpoKaTvUlAqSCSSl198JZrkI4A2PxcbYa1qFESalVpLsWZLgHna3ztgwYLdOY/9k=
 subTitle: Tauben, Warane und Rhododentronblüten
   
 ---

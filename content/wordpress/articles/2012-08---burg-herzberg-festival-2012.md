@@ -30,10 +30,12 @@ date: 2012-08-02T19:31:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "3597"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "3597"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_p2240030__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_p2240030__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgf/xAArEAACAQMEAQIEBwAAAAAAAAABAgMEBREAEiFBBiIxBxNRoRUjMnGBkfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAGxEBAQEAAgMAAAAAAAAAAAAAAQARA0ECEiH/2gAMAwEAAhEDEQA/AHfCa+3WW4VV0oJbVPMiyl4ZqgwyVBPIwvII5yCSBzzjVm1eZ3KsuRtHk13oPwqciWuSKQrLTqVLhchcZLKFKgk8nH11yXxyuqPHrtdDbYY3illSkQshyI8L6lIxnnvvbplphuVLcmqChM9yf8zfl8AFjg7gR/utT0FNqnGeo53aLzSwPBUvcaK40dfaqwyS09U1UqMY1ba25Sc8HjjPGP2GbgtDVgWmnr7RQrJEKlKqsd1G0g+jcFPOSMjo450yax1IVzJST1caQyOiNIVaB153AAdAFvfH8aleVVCVtQtHbH+UwfbJH6m2gkNlWJyQoGMd40vlgmdyvGfbXwhKiMwGNo422/pl9yOR9xqxDXRiojk+XkJuJ+hyOTgHPWjRqbaSZLUwzUU8aq4DekgKSCnY547/AKHeotdCafLFaiNSgzlQB7nrH1P30aNMMJf/2Q==
 subTitle: Sonne, Schlamm und gute Laune
   
 ---

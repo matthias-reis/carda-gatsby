@@ -22,9 +22,11 @@ date: 2017-11-19T13:10:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18514"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "18514"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_26835754480_fdee382bc3_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_26835754480_fdee382bc3_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAApEAACAQQCAQIFBQAAAAAAAAABAgMABBESBSFBEzEGIlFxgRQyYZHh/8QAGQEAAQUAAAAAAAAAAAAAAAAAAgEDBAUG/8QAHhEAAgICAgMAAAAAAAAAAAAAAAEDEQISBEEhMWH/2gAMAwEAAhEDEQA/AGcXDyzWwgaSyWEg51d1Xs99Yx5/utUnBJPGGvLCwuLvHptLJIQGUEFTkDJP16GKbZRWkKbFstqFLNMfYeOuqgfEnxLd2N00fCX9rFC51l02Zy2pHZA7Az0PzWdh5Ek0mt19oYtdlqCxt4rJXSNIreNvTD294PTUH9xViwx8wH+1E5qZeOgS6S7YQowUJFf7kFiBtjGfAJ+ndcZy4imt5Y42DGVw+wGuuG2IH5J8VLuJtLdYykRIBO5Ylj35OPerC/C1bBeePRat+bvdSHUOgOQcjGfsaVyHPmeNWZFCqdffOc+56AooqNjHjfoGjLNyUP6Qy+gGkfOME+fvUO5uJ5gXYFFGflbBJ7/iiijiSQiSP//Z
 subTitle: Spendet Tieren eine Heimat
   
 ---

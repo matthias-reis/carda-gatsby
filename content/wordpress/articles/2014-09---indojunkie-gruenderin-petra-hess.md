@@ -35,10 +35,12 @@ date: 2014-09-10T07:14:18.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "8886"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "8886"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_img_6860__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_img_6860__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBgcF/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRIGIUEHFDEiIzJRYXGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMFAv/EACYRAAECAgkFAAAAAAAAAAAAAAEAAgNxBBESEyEzYYHBMkGx0fD/2gAMAwEAAhEDEQA/ALnZq79WWJ9oo2rSMgZhLLHyRiewxxyxHz/GdZ5J6mXozDJLQlaWxlqyQPGC6g/UeQjPfzjxpuj17ZtxK098115gfngk98Y+dO16Ow2aa9QxWZKsgDU5oMq4y6ZaVFYHGWw2MDJ7HUa1d4OH2yoQgIpKbtesCx7ZEu27PbaNFEsstmcBpYsgDgUVvqZiRg4A7asPTG5WuqtuS/faXb66yyJJQgSMtlSuPujschvkAH5HbVN6q27puPbUr7IKlnaHgXjMzF7UUyEBQG7FQwLdx5GNTv7nNU6W9ztrSBqcwjdRkgJwDFuRzyOTknwM/rRW2IGluFeiHCwDosgusyMQhKgoSQDjJ7a1Do+GKOToaWONElkuWubqoBbiX45PnHj9aNGm0vLO/gpNC6zLkLs+qteCr75qsMcLSGmzmNQpYmUZJx8nTVXv6SQufzM0ZLeSTIqn/VJH9EjRo1mHltl7Tn958Bf/2Q==
 subTitle: <strong>Sulawesi - On The Road And Inside Indonesia</strong>
   
 ---

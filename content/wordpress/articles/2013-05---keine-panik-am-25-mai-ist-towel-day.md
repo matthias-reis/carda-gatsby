@@ -31,10 +31,12 @@ date: 2013-05-24T07:00:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "5442"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "5442"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDEQQABSESEzEGQVEiYYEycXKx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAQGB//EACMRAAEEAQQBBQAAAAAAAAAAAAEAAgMRMQQFIUESUXGBsdH/2gAMAwEAAhEDEQA/AEWFj5eTK0OBgrlCHHGRJ0qSwWhbHn5I8DTAYOenQJdmylJCsKVyaIsHwfbVXYt3Ozbg2QMZMh3xowgZygR1dXVuAbAZBxxfzrQT+sMjJ2vOwMfC7QzFZnZJWZlkZ+tnWhwLJoewJFnVA+PNldI0u2slgiIgaQWt5weQLPBv9SyaGWBpFysDNgeMhXVozakiwCCBVgWPkDUDduX6R3A1Hh468Amr092/1Jm4WTlTR4FrkyJM6P1VSxFALq656vwPbUW/eo232bG6sbsGJX4WXqVrVuSK/V9/3+dSh6pWs2WARvcIappNh2CBeCT2seixTdpjMyssYQqsdmwT9xq9CkUZtZ5gfH0qAT+erRo0CBdrPQ79roo2xMfQArA69wrAWA+87fykH+a5YwxcpGAaIssSRY5/vRo0BlJn3jWzNLXyGj8fVL//2Q==
 subTitle: Die Sache mit den Handtüchern
   
 ---

@@ -26,9 +26,11 @@ date: 2018-11-19T07:00:30.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22830"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22830"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_11_2018-06-30-Helsingborg-Helsingoer-20__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_11_2018-06-30-Helsingborg-Helsingoer-20__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EAC8QAAIBAwEGBAQHAAAAAAAAAAECAwQFEQAGBxITMWEhIkFRFCNx0UJEVIGRktL/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQABA//EACARAAICAQQDAQAAAAAAAAAAAAECAAMRBBIhMhMxQWH/2gAMAwEAAhEDEQA/AHiTbq5wAj4Zc4/GGYH76rqneReUJ4aakI7wP99KlnqUe30/LKkGNSGHr4DWq83GpieKCmqBC08hUysxyg4ckjv9dOSiVruIitQ9z7FbEYZd5l6H5K3/AL08n+tQJ9599Qtw0luXI/TSdP7aqrXWV1PWzW+a8SVBwJVlyvMQAjKkex99NhuBl3e3F2+YYqhlQN5ipLKfKT0PcapbEYdPySzT2Vt3zxn1OFc7afZ0CKKV5aRfCNmh5sePTB6r9D01Fr9sbrVwyRVEFC0LKFYFXBJwASCGGMnRo0ytoQkgiCaTUuyh/syo9s7rCsnJp7cGcksxSQsfH34unbThatrZp91l/L8la+CqjcxjPCQwIBxnODj+Ro0awehFHAhflZydxzP/2Q==
 subTitle: Finale am Öresund
   
 ---

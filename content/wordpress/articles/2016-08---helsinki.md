@@ -25,9 +25,11 @@ date: 2016-08-12T15:01:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15111"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "15111"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28806570922_b9ce3538a7_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_28806570922_b9ce3538a7_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcC/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDAAQRBRIhBjGBFCJBYRNRcXKCof/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EABsRAAICAwEAAAAAAAAAAAAAAAECABEDEiEi/9oADAMBAAIRAxEAPwB2j9Va2iBb2Rb6GTIJmTBb+3Y+RV00Tqn1TCEk2m0DIlixGB/LO2qPHEISxZjhVwigEYY/p9U14bTUJYZ5rFPUCIJJhQysBnnYcc8/B5pMuyi1FzOwuGPo1NNfUNOuwI9Tg0q8BB/GAiFyvbPt5+a4j6R6UuJt1tE1s5O/aoDxg/txjxWY3pbTgr2Lyw3kcbASywbGBOPd85IAAA4AFJtur9Wjk2y2a3TqQJJIGMUrDwMf5RpuwthUoZ0B52Mu9RkMG0IgBAHA55NJjMckkxaMho4jJlWxn6OKKKpJqZuPpkHf6lcyud8hOR2JJUY7YHmoWS+ZUDwKyPjJYtk45GAcZooo5Us//9k=
 subTitle: Schönheit an der Ostsee
   
 ---

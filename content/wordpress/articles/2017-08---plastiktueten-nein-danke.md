@@ -35,9 +35,11 @@ date: 2017-08-29T14:43:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17749"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "17749"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_14603456664_a9ff002cf1_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_14603456664_a9ff002cf1_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBggH/8QAJRAAAQQBBAICAwEAAAAAAAAAAQIDBBEABRIhMQZBEzIiYYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAEQMFMVEEEiGhQYHw/9oADAMBAAIRAxEAPwDNTalL2NNI2to4HPZ9k5fNF0zRzE05WprmLdmEkOx0pKGtqq5v7H2RYoZQI5K1pqzYvq6y+eDTZjceVEiOLdQopK424EKSeFK2ns0K/ovCdQDDHamq+vfuJdHTPRF3JjyLTYLCXdPRFdecjslxOoMKPwhVWkVVFJ67u+us5r5D8jpDrrRbUPx59nNAS9U0hPir8SMG3kMoO1q9xSRz/mZ58i1GTPnLMl1Tm00L4FeqA4A/QzFouV8pPcCK5/fPG006pjGMDzvxF9MdUkuISSLHYx5malHTA3jkK3dYYY66gk3CkYgCPaFrMiK8UI+rlir6vIvVFtzHFPJZDSrIpJscHDDJLjVchYDzKs7Mnadp/9k=
 subTitle: Kenia greift in Sachen Umweltschutz durch
   
 ---

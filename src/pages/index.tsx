@@ -41,6 +41,8 @@ export const query = graphql`
             subTitle
             description
             date
+            remoteLoadingImage
+            remoteThumbnailImage
             image {
               childImageSharp {
                 fluid(maxWidth: 400, quality: 70) {

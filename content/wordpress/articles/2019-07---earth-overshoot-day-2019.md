@@ -27,9 +27,11 @@ date: 2019-07-28T15:47:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25522"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25522"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-51__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-51__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUD/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFABIhBjETFCIyQRVRFjNhgaGx4f/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAcEQACAwADAQAAAAAAAAAAAAABAgARIRITMUH/2gAMAwEAAhEDEQA/AEbI9PN9PQmZ8luSpMhS2I7TqqQ6ujQpJCu9Ue1iidX8R0w06/5jNS5L74G+TuUCXVq7poD1Gyf251lRs3kM7Ki5CXFS75BS2IryW/SolX5lHjcigLHzZ06hGU+jvSM/j3XHNxEdxhratkDjcocbgfvqBu3jnsPBTgivnX2sxmnET3W4TaSmm0qADO0EAJv3Aih+mqGE6fwDmbaYkTJMlpayra2+EggJJ91cdh21gSlJ88+6s9lUlYSa5uwq+f8ARqYk2JHbcTIYaaJQUB5KjfPexf20zrISlPyYAo7KfR/UmTwNFqTPHhD0JRIWlCU82AkcfP8AOn/OdYS8a5EYiMpTIZDhkp8wuSFlJFJJUS2qhfCAKo82NGjT203CDk6NqZ6wxylZOS2zk/EDy48ZlDUdhoi9xT7lr+eOBdcaWPwdBnmY03mFpkRk70pVGKfFRXB91D++NGjSyxW6lKKrAEj2f//Z
 subTitle: "#MoveTheDate - Wir müssen jetzt handeln!"
   
 ---

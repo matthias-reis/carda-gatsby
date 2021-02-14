@@ -31,10 +31,12 @@ date: 2019-02-21T16:42:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23561"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "23561"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-05__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-05__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQUI/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAUGEQASIQcTMRQiQWFxgRVRof/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABoRAQACAwEAAAAAAAAAAAAAAAEAIQIRMRL/2gAMAwEAAhEDEQA/ANxdl4UyzIlNUiBLqk+c/wBlmM076fwASdxSrnKkgDHz9aeo93tS6GwKfFmJkPNoW53VHuMlQBLZKU4OORkaQL8oNHuKZQhU5T8WREW68wIyQpSwAnd7fJwQnkAnn70k9SbplSIFuUvp/wB1TNQp/fWIzShJVtUWkhWOUg7SSfnznQO6j80MrsFMysVtT86c+02y04gNrc9xJScYURkD+/z51n+IhOIXsjR1rVxvUN5B/PJ1D6IJEMiLKkKddRTpan97m8F30692P2r/ADVW6LTvW27LguIyYLwLaynyhYJxn6IP6I0/Fdhaiz1mleisuPVGElM+FOZXFeSopLalZCvHkEDBHzqN1e6avclH7apCILAGHWYjYbQ7udxzjnHuJwSRnJ0aNVxF2ymSGpU7As52LfBgVOpifDRSkzFsiKlpLiXT2S2cEnACicgjOuj7atyC3TA3Cabhsbie2yjAzxz5ydGjWjRM3s//2Q==
 subTitle: Vegane Modewelt
   
 ---

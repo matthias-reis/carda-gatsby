@@ -40,9 +40,11 @@ date: 2019-09-04T13:22:51.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25938"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25938"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBBEhAAUSBjFhExRxByJBUYGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDp6vYU8clRJUNHGq5BZVUebkef60r3SvnpaSu9oTPUQALGklQkYkZiO7cTxt8G+cHGpup52ipYvSkEbGVVduJYhD3wP3b486pgMr1fukoHp53qKaU1EEiSSmNbmSN1BZbjiASMH1FtlToGPUvV8nTe3VlbuNPOIYRDHCBWQB5pJBdgeQCrxHKxJzwPi9yo2WeGGeOeSSKSNWXlbIIuD286wb6l10lbHsXv9jqpoIVaeohekmIFQyC6CwCknkPu5WBD98DWudBPHT7DRbarFPa08aQwuSWEKqFUgnLrjDfwcjQWCZpAfsKgW/K3/wB1CfVLsS0Nxi/p5tf50aNAg3/etxoa+OCE0bRPGGYSQsTlrWw4/HjTKGneTffcTPE8cQdIU9EBosAGz97HNx27foaNGg//2Q==
 subTitle: 25 Jahre Lieblingsplakat
   
 ---

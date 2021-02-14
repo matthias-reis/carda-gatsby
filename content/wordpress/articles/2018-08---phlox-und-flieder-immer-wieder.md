@@ -33,9 +33,11 @@ date: 2018-08-08T14:30:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21648"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21648"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_Balkon__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_Balkon__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKxAAAQQBAwIFAwUAAAAAAAAAAQIDBBEFABIhBjETFCIyQVFhgRUjQmJx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwECBAX/xAAiEQACAgEDBAMAAAAAAAAAAAABAgARAzFRcQQSISIk8PH/2gAMAwEAAhEDEQA/AGxrpvGQsK1n81i47jscbpsR5wEN9tqwm+do7gWTQrkao88/GVBhogQITUuC6hLEhZVEcZbKgd52nng+037vrqDkMgsz2Y+XfiB2KHTLTG5PtFpFjmx2v54GqzPOYyZnce9HAVEVJZB80olsK3Dskm6H9ux51xcvWsXo0ADX3iWdu211me47oKVMlzZq2EupZlqUuneC2VKCVgd6BHJ+41oUbER48JDBQtT7vrBF7ShIqh/pN8/jXDD491jzCMpFcb8+48UFtafEQELNpIWPQr+Vd6ojTph8QxjcXKYZ8+kBKXSuSsLUQncn01XYbSBWtmLN8kI+tGuP2S4FWRvMUeQ7+gMFD6w4kOIccUNynPDG8Ek82br8DURc1xjGYRtlboalSG3nELWFDcHUgVx9PrejRojjUspraDQPkxz6d6kmxn+q/wB58K88qUPCd2Aq3lICrBJT9rF/N6dIECa5lMfGTklpbCFSAothSwRvAF3wK47c/OjRpyis6EjQx0Htkn//2Q==
 subTitle: 6 Tipps für den Hochsommer auf dem Balkon
   
 ---

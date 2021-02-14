@@ -64,9 +64,11 @@ date: 2011-06-22T12:09:37.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2221"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "2221"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_cool-car-prinz-karl-15-06__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_cool-car-prinz-karl-15-06__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECBQcDBgj/xAAoEAACAQMDAwMFAQAAAAAAAAABAgMABBEFEiEGE0FRYXEUIkOCseH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwC3unuu7LW5JY0ia2kQAgPIrbs+BjzUk+tWyybTMgb0LAGua7e8+hk3wRCRyMYLMuPcYIrPNqTT5uXjbucL2t+7j1yeaS0NNF89U9RC20ZmtZ9sjuEDI3IHnFVZqXUF8O88Wp3kWc8JcPj+1q5upWhEqOYgSfsPOKirmaUsSx3Z85qWq9VcN1Twj2upwThIF+STTRdXOeHhB9kJooqsJUVru6bhriP42YpO7O354T+v+0UUQKf/2Q==
 subTitle: Tagebucheintrag
   
 ---

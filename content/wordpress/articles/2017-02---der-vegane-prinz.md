@@ -26,9 +26,11 @@ date: 2017-02-14T11:30:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15813"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "15813"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_7137900271_cb10614b34_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_7137900271_cb10614b34_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgABBAUH/8QAKhAAAQIFAgUDBQAAAAAAAAAAAQIDAAQFESESEwYiMUFRFGFxIzJTsdH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABBv/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEBREhMbEiMmH/2gAMAwEAAhEDEQA/ADdHpzDyUrb9IvAFw3npnKTCRihyboBWywtdhbbbVf8Ado8vo/FtQ2yr0Tkz1stllaR7DlCgfnrCeQ45qzZ1Iosw4nSb3Q9g+304XVDLgPTab07bYR5aP0JE/RJFDRA07iSUq27gBQOQBm3bvB2r0uWQ2tadwLGRYkXjTm+NKkEpC6Y4jJJ3Eu91E45B5g/OcYvPoJDUosG+A4rz82gkDK3l/aHOy34wzpcOQqDw03JV0+5RMd1iorUgqKEkp85iijQSAFKInELDtWetygpvnCiDB2pzKHNWuVlybfjH8iiim64UkOeV/9k=
 subTitle: LED-Lichter und Solarstrom statt Öl und Überfluss
   
 ---

@@ -34,10 +34,12 @@ date: 2017-10-17T15:42:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18122"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (56:40)"
+thumbnailId: "18122"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCCP/EACwQAAEDAgUCBQQDAAAAAAAAAAECAwQFEQAGEiExBxMUIkFCUTJhcYGRorH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AnoPR2kSu3Iq0yQ+7YeVtpCU/21HHXUfphQ6dlMO00hnRMYLxdaSVFsr0qHlAHuHIwlofXFM20SJRX/FBslLbkoELI5AsPje3rim5z6k1vNsuNTV9iLSvElKmYwUQ9p4Klnc25sLDAem4uW6FEgJiQoccMoKilIbQNiTsbJvYDYfjFL6gZVgros9TUOKVFlQTqaSbG3PGMEy51Gz1T4S4lOqr8tMdOgNPtIfKANhYqGq23zhnm7NuaKpeKuoSmYa1glu6WtaQNRSU/UQCNzxuMBmLdQXT3kmIGFBJ1IccYSVJJ55++GdNq8iXUUyp0gudpJCQsgBJVt5UjYevHxgwYBdVHkt1J9aLbr7if3viKPLLTTq0Ks65dJsPadz/ACf8wYMB/9k=
 subTitle: Besuch der Guinness Brauerei in Dublin
   
 ---

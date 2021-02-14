@@ -29,9 +29,11 @@ date: 2019-02-08T14:03:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23419"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23419"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBggH/8QAKhAAAgEDBAIABAcAAAAAAAAAAQIDBAURABIhMQYTByJRcRQyM2FygbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EACARAAICAQQDAQAAAAAAAAAAAAECABEDBBIhMSIykdH/2gAMAwEAAhEDEQA/AKGvwSvlMriW52Qzqm8QJLKXf6BcxgZODgZ1W7d4rd66phghoZEeRZCPdE4X5Ad3IGexjPWdaEr/ACqAUdJc6Gro6r1pDK1KzL7dmwligPI5w3XP9akeB+TWryJqhqSWSiSGihpYlnbbvVnZpmxk8Fxjk57/AG0uzkbass0+pTEpFAsZxy7/AAbvFJaKq4LcbRUxU0DTyJT+9mwFLEDMYGeMffvXJa2imiyZKaeP+cLL/o1tDx281lG8kNzpxHLLUxwxmObKtH7P1Dj8uB0MknPONM8ouEVOaprpLJ+EdWdt08hUjHSjd3x19+tdfIcQBycX1fH39krqym2ExnSVrIEaN3jdRwykgjUyCvlU59zqduwbPlwPpxo0abQmR2Q7lNGOW6ujKfZKSvI+c8aVWeR13rKxV1Yi4I2+5iOe+CdGjQuiv7C4LeXc/9k=
 subTitle: '"Wir legen Wert auf traditionelles Handwerk"'
   
 ---

@@ -27,10 +27,12 @@ date: 2018-02-26T17:07:42.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19896"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (23:8)"
+thumbnailId: "19896"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Bille__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Bille__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMEBREABhITITEHQRQVIjJhcZGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAUE/8QAHhEAAgEEAwEAAAAAAAAAAAAAAQMAAhEhkQQSE0H/2gAMAwEAAhEDEQA/AOza91y7irp0pbTRUcMLRx8uKMFATMjN3GfqPbIzpA3xu6+W+5LFJDTUarIfh2iUETDkCCTgjwQMfv8Aeitz7rt08VHLt6KZ1iRYX68PWLgD7ixJJAGBj+tKG4NyfN5KdaqGmQBkXhDGEweQ9v8ANJcdDAvLKtmRMrX3sFjQlCsvrVfYbpJT09HHdOZEaxzxhG6hZshSgGfYd9Ybx9Y93QM0L2yG1yknI5FjggYwPYee/wCfxqWUN3WjvMlSGVnXKDCKoHFyfAA/nydGblvCXqGOSVh1olIRvfvjQnj9vGg0DFp//9k=
 subTitle: Die Bille in Hamburg
   
 ---

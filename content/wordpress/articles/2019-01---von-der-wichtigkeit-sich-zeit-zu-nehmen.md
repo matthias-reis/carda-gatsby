@@ -24,9 +24,11 @@ date: 2019-01-19T16:03:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23235"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23235"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_kaffee__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_kaffee__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAnEAACAgIBBAAGAwAAAAAAAAABAgMEBREABhIhMQcTQVGBkSJhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAgP/xAAhEQACAQMEAwEAAAAAAAAAAAABAgADERIEISJBUcHR8P/aAAwDAQACEQMRAD8AoeHtRX7VSszEQtE8sjk+VVQAP2zAfvmrfFKti7s0UZeaKIsimTuLH/B75g/DUgvkrrKCB8uqmxv0O99fl1H45tdbZmKh0pk7k6MK8Ij+Z2+T2mVFOgP6JPNUeSAt3DaxylbBOrffdor4/E3+oLluR75oUoHZI0jRGkcAlSzFgfB0fA9DX14q9WdKFsRas1pFsCu7RyaUfzUAEsNfUD3xo6xvTY6qmQxNWtksfYUOsgduw79kMpHg/Y+uTW715ka1W9Nl6uPAeB4aMIiKmFmUqRFptne9szbGh53ocM1Lni52/Wj0qErkkofR3VnTWLwVandzlStcPdNNHIHBV3JbRIXXrQ/HOT4n9V4O/wBEXaWMzNG5aszQIsULkuVEgJOiAfpw4c6ZkJYeIdtOrVsydybycX8XdggL4jIW6ayDckcEzIrH7kA63xSkxskVj5tkNNJvy8pLH9nhw5OzYmxMrBRP/9k=
 subTitle: Warum ich meinen Kaffee nicht mehr so oft im Gehen trinke
   
 ---

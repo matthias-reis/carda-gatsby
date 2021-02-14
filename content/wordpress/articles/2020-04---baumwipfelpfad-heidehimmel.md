@@ -28,9 +28,11 @@ date: 2020-04-03T15:57:13.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "28833"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "28833"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_heidehimmel2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_heidehimmel2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMEBREAEgYHEyEiMUFRYRUjJDJScYGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAwQSIf/aAAwDAQACEQMRAD8Ae7BBb51jRD90DxYXIP8AB01RWhWAJXufX11NLLzf4WqZzHSx3B5Au9gtIFwPnvrtHOG3LKyVVFURNuYDpyKcKPLPkc49s6c2+inktEDXv0CUNbQqKTHlGGTu37QNYl9tNNHF4pVllceLam/J+SdK9z5wQwwHqcP3GRCfEY9uFU/pbv5ZGD/Y886QuMubF9FNUparTPCGnUwTND1GWMAZRh3BOQct7H30BvJdgwnASKqSLh27v+U7PlmfeR3BIwB/mAdOX0spSwXK+1UVttphYKmzfV1GTkdOM9xn9z4HqAdGjWWcKByal1fRKjwvV1lVHH1Rsghfp01PnqbVUEFnOBucgfAHoBrK46qqhKZ3dAKZtocPCjIO4GCp7EHJ+R76NGpMx6qOVRxc/9k=
 subTitle: Über dem Wald wandeln
   
 ---

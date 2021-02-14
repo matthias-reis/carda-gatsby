@@ -109,10 +109,12 @@ date: 2012-10-01T09:54:37.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "4238"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (7:15)"
+thumbnailId: "4238"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_annett1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_annett1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAFAQj/xAArEAABAwMDAwQABwAAAAAAAAABAgMEBRESAAYhBxMxFCJBURUWMkJxgZH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDIRJhMUGh/9oADAMBAAIRAxEAPwBY2q9ZpnBab8gkWNtec+qaZVI3LVPSzkyw5IQ5liCpCVgEBXwPj2825GlTos/CJqx9QzImtQkSo0Np0dtwhB7lwkcnK39HQX1K3DNre6pSXIlPbwXgEQmC3kPAB5PA+L+LDUba3CIoBKmJu0IclfTWm1iLOTCnMrecQou4s4F5dkkgG+WKU/XP8atYVRq06l7H21TlLLcdUBsrBXjmrG5B48puP91awNDUA4PIzH6QfiitxMOtxXEONRXWwtxwN4KwKEqF7cgKv55IGufl6TVt0U9+u9lcdySllLTbjJytdRBw8ZYng886VHafTtobXBrjAWiW16aYthXbUm9j7CQf3AeRa19Eex0QXOqNHbTEmpcUtS2jJUiwHbWUkBAAINvP18avZx8o2HC5AKvs37ruvkVeoApru3IynICX5LRW2hpoK7qsrWP6cSkAWsSDf78atbNTR7cVGwA+7atLl2MOAg8Cf//Z
 subTitle: Die Bildergalerie
   
 ---

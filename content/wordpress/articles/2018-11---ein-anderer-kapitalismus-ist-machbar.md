@@ -39,9 +39,11 @@ date: 2018-11-01T11:00:43.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22513"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22513"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_kapitalismus__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_kapitalismus__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYI/8QAJhAAAgEDBAEEAwEAAAAAAAAAAQIDAAQRBRIhMQZBUWFxEyKR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAQEBAQEBAAAAAAAAAAAAAAEAAhEhQf/aAAwDAQACEQMRAD8A6aYMz/Rqjf3BhJAhd8LyeeeM8e/FXg/BOOqX6q9wtvE0UskY2fttU45Hqf8AKkiz+t6rNb235EjZGV4h1kEGRVIPzhquyzmOQFj60t155m8fuGnklcq0TDeuBkSp0T3/ACp523Bkbl1PVOvkFqJGIBHxSHyO80qXTRFqVq16IiJFt1gkky4HGcD774ooqHTkeWcmvGQ6tPYyeMyWejwyRIQNkBt5EZTvDHhh908ktjJKHHWfeiisPQ85Uqqr1v/Z
 subTitle: Buch von Muhammad Yunus
   
 ---

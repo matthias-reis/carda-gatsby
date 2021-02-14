@@ -38,9 +38,11 @@ date: 2014-11-26T16:24:13.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25453"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25453"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_vega-pressefoto__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_vega-pressefoto__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBggFB//EACcQAAIBBAEDBAIDAAAAAAAAAAECAwAEBREhEjFBBhMiYVGBFBZx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEiQTH/2gAMAwEAAhEDEQA/AM3ensTPkb+3t7eEzPM4VVGhv89/AGyfoVd/6PaWmEvGe7mnzRlkjtsZBCDuNDtpWk2QV6Q5AXnjvS3oXLy+l8zZ5zHvu4s2aRYWUFWRlKuP2pIr1/L57HZmwyq4iOK0a9P86Ccgp1BmXqUaICHoDJ/hPnmhPZ0BEqnMzxe2juX96BISvx6VQL0/oeeKXjsWWNXBIDLvgeKu1xlbXO3c8aJFG7qx9yMb2AOxJ5J42D33VeyeYmEtniLqzxqJYlrczwQhJJVOtF2B+WuCN/k1lVdY3BGEeRFtSJjKdE49tOTC6MoKsOdmo765kkjW2dmMcQ+I6joeSdfdFFOUfYInyL295cWr9cErxuR3U6+qhZ2YlmJLE8k0UVeDdk6cyf/Z
 subTitle: Ein veganer Rapper auf dem Weg zum Erfolg
   
 ---

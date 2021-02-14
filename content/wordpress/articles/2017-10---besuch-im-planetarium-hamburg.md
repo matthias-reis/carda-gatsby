@@ -31,9 +31,11 @@ date: 2017-10-21T17:10:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18192"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "18192"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37835150111_349536316c_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37835150111_349536316c_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAmEAACAQMEAQMFAAAAAAAAAAABAgMABBEFEiFBIgYxMgcTFHGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQIA/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAwQREkH/2gAMAwEAAhEDEQA/AFJ0UMfhXObR441JKqMDJJ6qj3WkG3U5U5HuSMAVKvW+qTyvqVhaSWzwIpR12+WARk7uuQaabSiJ6gy5nsbyItmj06eYQwXVvJKxICI4JJxmlt5pmzPjxWVju/xryG5jZPuQyBhsHHHVVS8hilt0ljIZZEDj9EZFVmuGgHo4RI1UnORw9Bmgj+qdlc2t02ouwkiG5WRCRORnHA9ucVDtX1QXd1PM5Ikfl9rYyTyf7RRQvssAD8jQQKSR9iYSxrGwZlTy4A8uq22hesoEsLSwuIXcRwsqyqwy7Kfjjrg++eqKKy3PSCyGTZSl3A4n/9k=
 subTitle: Reich mir die Sterne!
   
 ---

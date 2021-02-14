@@ -27,10 +27,12 @@ date: 2018-10-08T07:15:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22345"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (31:15)"
+thumbnailId: "22345"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-07-Loki-Schmidt-Garten-115__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-07-Loki-Schmidt-Garten-115__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAnEAACAgEEAQMEAwAAAAAAAAABAgMEEQAFEiExBkFhExQVMiIj4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAIF/8QAJhEAAgIAAwcFAAAAAAAAAAAAAQIAEQMSQQQFEyExUcFhcYGRof/aAAwDAQACEQMRAD8AzOtsduKKHb7AWG1KypJTUsHCkZYkjIAbI8Hr3GlLvph66ySUobP00l4O8i5jUkkBeWMex78a79fTkd+uDWsLBaiKoGJ48/A7+CNP/ht6v7LulV3WSuqFvpNjisvL+JBPQyM5x7DWU+0IjAJQBIuz38yHDN0x16yA2w2KtKjFV/rsFwWf7gcJI1wS3LwwIXGO/cahblQTcLlmssUiQ1q4EMKEMWP7HGfjPXnrWhVJgm1faPUmeFECRV45VVWclhI6MAej2QMj41ycu0tSvyRuzmqzNDIHA5gHLhiffHXjQsN8uIVfT163+/cvj5gcvblFvTfqFxv0RbEqBuLF3KhQvnHz2NaJevVbG1/kWgX7EuyLI1kKvJif2XvOAcAefPjRo0vvJuGyBdSBAs5r5kuCQpVEtGcwNA/Ji8ZQSRdAtg++MnB/3S3q6bbX3KnJFElivHC/1EmJDcsjiej5wMeT5OcaNGlG5vfv4h2FKTP/2Q==
 subTitle: Astern, Bienen und Sonnenschein
   
 ---

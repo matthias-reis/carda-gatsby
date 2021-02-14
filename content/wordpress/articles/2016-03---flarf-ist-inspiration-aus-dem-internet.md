@@ -27,11 +27,13 @@ date: 2016-03-11T11:18:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14253"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:20)"
+thumbnailId: "14253"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgf/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFRFGEiMkFxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAhEQACAgIABwEAAAAAAAAAAAABAgAEETEFEhUhcZHw0f/aAAwDAQACEQMRAD8A5yXrHsrrC9RUJJDFFSoSAyKW5CgrhOcnOfOfR1uqazdNw26nRqmmoayGVnfFaszSZQAlt5JDbhn8do+tZ2HrSWk6WudDdacUsdyVE2Q0QjCDYNyIrMCuGCnOGByfHGmae2U1whWaWRUdkA5QNhhwcn+SSNVVqzWSQp1D711aYVmGzj7sY/cLL0xUU5Vr1SoxlMzFaheXJ5OM4GfJAGNQrrYLFDA89NWU1cyo5aOGtQFQT5PIJHraM/Wnp7RRwU3cqaqniijABkkTCgE8/wBedJVwssUCCKSjeYRje6SKdze9WdLIOGbH3mHjjfMpZEz7/IrFa7bI6b6aYdxgPwqXAB59k+tUoeiqOp78kNbXxTGKV0YyghW2lgSABnBHvRo0TqPkA7mWunT81vpnuPz+8QG3I0X7khuSd31nxqFaLTFdpIq2pYBfkbDEiAAgbfB/3Ro10kzAY1P/2Q==
 subTitle: Poesie der Vernetzung
   
 ---

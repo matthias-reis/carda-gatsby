@@ -21,9 +21,11 @@ date: 2019-07-30T14:16:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25408"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25408"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-20__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-20__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwIE/8QAKBAAAgEDAgYCAgMAAAAAAAAAAQIDBAURAAYSEyEiMUFRYQcUMlJx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAJhEAAgEDAgQHAAAAAAAAAAAAAQIDAAQRBTEGEhMhIjJBYXGB8P/aAAwDAQACEQMRAD8AQ2yiDFRjVFQU0DiXltxmF+XIVUlVb+pbGM/WdcWOm4pohjyRqw2JEku1biG5aiolq2RWGeI4kbC9eh7c/wCA61+q35sumFAPMQD8Vi9MtBedQsfKM/dKYaLIAA1pLapOAloyq4ySRgDXm3He0tNHDTUpU3WrXEIYHhiBB72Pz0IA9n4A1G2u1yXu311vpp5qa6T03PLyzkc0FQrRuQwyAeEgeACemNEvdYS2kMYGcb0qx0p7lBIW5Qdvf96U4uFdNaNrXW5UjKlTTUxeJnXiAfIA6e/OpK0bzu1po4xR3eq/Uy444zkEfakYzk4+OujRqLxS7GaNc9qZw+AsLkbk1nur8k01wq7eiUhdKNUpp6le0NI38iB6UMpx8931pdLvNbVvGh/XAZISGaQdB3dGHnwVJ8+8aNGgMxk8TnJNV4kEQCp2Ar//2Q==
 subTitle: Festungsanlage in Bielefelds Mitte
   
 ---

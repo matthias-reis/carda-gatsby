@@ -26,9 +26,11 @@ date: 2018-07-31T06:21:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21498"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21498"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Malm%C3%B6-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Malm%C3%B6-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYABP/EACkQAAEEAQQBAwMFAAAAAAAAAAECAwQRBQAGEiExBxMiCEFhFCMzUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AbYinHTarrRX9QuVexGHxzGNyTsR9+SoPpjK/cICQUgkdp7N11ekedlW8bt+ZPJ/haJSAL+R6T1/XIi/xoZfmLywk5qS1Fiy8i6ZLy4rIc7TwbSEqXdddmwezoIpjfe8oTbQffDzSmS6k5GKOK0pqgldJNkfk67Y/qnFeKV5LDhSEjlyiPBSb+xKF11/ur7OZ+ditlwJzL8p9aZclh0ENrLiQ6QOQUkg0ABQA86mdyHBTZkeJKxeLkOPstF5ws8HAtRVyUnibAoX2Kv76BH9T3UY7YziWZ/T0pllV0n42VG+z18QTonTupnD7KxkmXHbmrUtSXFuPEEFZ5iwlJsHjfixffnW1tBRp3lhnNoY+RkmYrrbqS4YaEg8VLVfKiUkix58351Hbs3NgvfxspuA48z+nWGlNuewpvk6fiaNGqIo31WtraD//2Q==
 subTitle: Eine gemütliche Stadt mit dem gewissen Etwas
   
 ---

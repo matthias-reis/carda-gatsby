@@ -20,9 +20,11 @@ date: 2015-09-17T17:01:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27511"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27511"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_oats-8946_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_oats-8946_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUC/8QAKBAAAgIBAwIFBQEAAAAAAAAAAQIDBBEABRITMSEiQVFhFDIzgZFx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACBQb/xAAZEQADAQEBAAAAAAAAAAAAAAAAAREhMUH/2gAMAwEAAhEDEQA/AGJZoE6cF0tLUMrSKq9zheSk/s+Pvq6J3tvVVpE6cyRIZGj8ygleJx6jJABGkLcMUtvcMTD6KCGK0J4vEmKX8jjP3DBAz37eo1l1Zodt3zabRnktQN1NvcSMeBUyARlfVSAMfBGdcut6bchtbnUqVqixPM5gnlfk5PEuB4gj+jSiCxZmSGS0BPHG8bzKpHJIxklgP8A/en4p7NTadwhtyR7jItYKmYznJKszZ9j5VGPjU7NbcbXStt9HFbsxLUnR8ckbzkkk+GGXAPyBqJwq0Jyx8tooblAgcrCYDApADxnIKrjsvHjj5x2Ouneg816HbKrzxMhlDunjgeZx/F79++jRoeCXQXoqytQsKywBOhXV0JKD7kZR6+VgBn1A1O2pRl29hDXUz9SKKUzRhVaQhT1AD2YsHHtnvo0aPKJ//9k=
 subTitle: Forscher decken auf
   
 ---

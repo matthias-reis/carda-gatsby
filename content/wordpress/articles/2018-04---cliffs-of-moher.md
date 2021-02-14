@@ -27,9 +27,11 @@ date: 2018-04-10T05:16:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19780"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "19780"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40225370141_a1c38498fb_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40225370141_a1c38498fb_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYBAv/EACkQAAICAgEDAgUFAAAAAAAAAAECAwQFEQASITFBUQYHExSiMjNScYH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUA/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECEQMhIkFx/9oADAMBAAIRAxEAPwCbHS4GtJtLNtAO/QYQR+TDlpB8ZYNfua8STqqL1Gb7SN969P1HXEvYxjR/Ss05o0x7gFopQoaN9+4G9eO3pyXHZJIo71KVY2JiMgdSfY6P9bA3wfHe9t78M1g9MVncDlUTqnVXZigSWo/n3JG1A529U+Fl63mnSNu37MLDf48XfydyaW6lhERWsy1o5m6Sd6Vj1DQ9O4PNJm7UPQ3he38t747Mpgm2hTZPCRY/6FitK4isHqWNhsx+fX17bHj155qYCvYriatPZgsVyG6mYOraPjRHj/Tw4ckVdQ/FjVpbhrcfcnxGKoz4wpVq36qSPWhQIAwJUkkeSSCfbvrXKTLZezJIwkIbhw5Xl9IU9s//2Q==
 subTitle: Klippen mit Aussicht
   
 ---

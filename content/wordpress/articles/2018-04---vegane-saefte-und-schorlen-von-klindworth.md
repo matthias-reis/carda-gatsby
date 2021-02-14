@@ -47,10 +47,12 @@ date: 2018-04-01T15:17:15.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20360"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "20360"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgADBwT/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEAAURBhIhIjFRExRBYQckgaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQMAAhESBCEFMeH/2gAMAwEAAhEDEQA/AOI+3C+Pk8UzYtFsnaovKG5X66LepxtaXx1ObUgJye/OeKIW2Sl65RmgCfUcCeFbTz9/FOtG2mVHuj8ZB9whbLanXNyGi2CsjIHOfOM1F5F9krJqcH7KOOrehsRnsQXdoEVGmLI+28lUlwves3vB2DI28DkZHmvBqHS71nslsuMmQ0TcEhxthKTuSnbnKiePHbzSqRpoN2+PLwHXJTpbUlzYEKJUQMBPIx/tYfmeWk3+LAaWlTMGOGkbD0jsOP4kU7jOq6ptU57Mn01zBTC3GH232VbXW1BaSRkZH1XRLS5eIMlx5q5M7loCCDETjAOR8+TVVTWoW4asGRGLZeoIqeppAauMabb3JlxTLixXvWDHt0o3HnHUDnuc0G1845J1XOdcWcrKTjx0jiqqha6LGKDAmLep/9k=
 subTitle: Niehoffs Vaihinger ist jetzt vegan
   
 ---

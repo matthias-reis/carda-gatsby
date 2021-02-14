@@ -31,10 +31,12 @@ date: 2012-08-03T12:04:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11703"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "11703"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mccartney__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mccartney__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcBAgT/xAAqEAABAwIEBgICAwAAAAAAAAABAgMEBREABhIhBxQxQVFhEyIVwSNCgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMSITFh/9oADAMBAAIRAxEAPwCvsicO5+aKRzsaQ3HgrcWCtxBIBQq229zf9YdZnDKVBniLUKghsHcLDerUk9FD7ecPPCnNBo+UIUaVT3HISUKeS60TcalqNzfbxtiRz6wahND621sslAbRHWShSB11XOyiT5sMc0tEvpXFj2flormFw7nO1BiD+WiNqW4f5ZDWtsG1+5FjtYDucZzDw+NHyxV6y/VI78qC/wAuGm2gGlWWlKlBSj1sbgAbd+mJu7JjzV8rFToZZJ5h9X0FgewJJJPk4Q0Umr5WzI8qEmUUsklaUhLpSEBVkqN9B+p3AxqCi7VdCcEkmuIp6n57rFIjMRIbVL+JhpCUfJCStR9knqcLy+IFdfZUkppragtR1txbK3sT/bp6wYMOyN0cUrOtbW0pgrhBsqtZMUD9+saOZqqi4b7Lkhaea0pUY6iykD2lJsf9wYMFuhuTP//Z
 subTitle: Food-Watch ruft Mitmach-Aktion ins Leben
   
 ---

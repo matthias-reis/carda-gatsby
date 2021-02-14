@@ -37,9 +37,11 @@ date: 2017-03-05T19:02:10.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16082"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16082"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33226265836_3f9ac8b17a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33226265836_3f9ac8b17a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgIBAwIFBAMAAAAAAAAAAQIDBBEABSESQQYTIjFhBxRxgTJRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIDESExEkH/2gAMAwEAAhEDEQA/AM226JJWJ+3Chic8YVcnt8DTZ4e2/ZZadyPcYbslxkAox0kD9b8n1Z5OMew9xnS1uj1NuvzbdXt17Z60UTV3DRyKQDkdx3BHbVz4c8R3tmsC/tk6LuTKywgw+YQCMcDscA8/nUL7spnKLhk5au1tuciVaVSaW3JkpCkZLkAEkYxntqlm22WxMKtSGSayxPTGikuxHuMDk4wePg6bNl8Sbxc8WR39oMk+8WGPmCJMtL6QzKFX+8fH8TzquvbxLte5/f0b1qLeup47fmQCN4pWHqAH7I/K51kV9FesvCaE/a5Um8xkrwIVJUkoCThST/uNTS3pmdRGxiMLEIUOMZ50aNFbrgVu4DP9HYZb++7nOtyzUlhpkxvWKqyu56erkEcYJxjnPvrP7V+xflsPYkZpvOYPKxLM5yeSf1o0acopVxJq1s//2Q==
 subTitle: Der Winter verabschiedet sich
   
 ---

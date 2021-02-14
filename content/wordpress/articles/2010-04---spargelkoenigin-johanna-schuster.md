@@ -23,10 +23,12 @@ date: 2010-04-27T15:31:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "10957"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "10957"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAAmEAACAgEEAgICAwEAAAAAAAABAgMEBQAGESESUTFBE3EUI2Ei/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHhEBAAICAQUAAAAAAAAAAAAAAQACAxEhEiIxQbH/2gAMAwEAAhEDEQA/AOKzu7Y917QXGzX4LDVZI7LzwxNXWTpgInQ+jwQy9H0OO+Xt7jy9/Yt/CyXp58YJIGjrWZgRXZGY/wBY49HsAgcd8E/GdthIY8ZlIjaYzS+LCMghejyCB9npu/170lizOb1ho6tadGDIySkAeJB57P3wPr1pLPBMVJbJ8TFmqLZOnbjWOzI00XnAwZlfsc8jketMbmy2UvYSOPM1Kld0suUFVyyNGAoQnyPJPbg/XIGkNt7lv3ohXGMsyIhWXzrgyKF8egoC/QHvWrurdlrNYeHFR4oJXL/yopBH+P8ArPAiABJLfDAt8cjQ5u+rUYmEd714kRqZMTbqkihqxVkku/mUxdMnAZPEH0S3l+xraxGChuZG+XYFKzfiCuvl5Ag889/5+/8AdGjVmM3VGTZFHZKJey0kW3KVGnGKoxNOWJXiYgS/B5YDrvgcjU+wW7cvaxK1DNGC1s2oZGQN+EliJFUdf8MSG8fojkfJ0aNB0lVD3v5GxrY5n//Z
 subTitle: '"Der Spargel ist für Schrobenhausen von großer Bedeutung"'
   
 ---

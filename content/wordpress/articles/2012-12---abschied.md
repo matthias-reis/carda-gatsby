@@ -37,9 +37,11 @@ date: 2012-12-29T19:28:31.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "4714"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "4714"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_12_599460_450404824981652_1788614199_n1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_12_599460_450404824981652_1788614199_n1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYC/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBQYSEzEHISJBYRVRgSRCcZHC/8QAFwEBAQEBAAAAAAAAAAAAAAAABAEAAv/EABoRAQEAAgMAAAAAAAAAAAAAAAEAAlEREjH/2gAMAwEAAhEDEQA/AGi/CFQFaQN5ghhkj57YroXjsgjKyFQe4znFY9PEHbDkD6xEoP3ikH+ayfixvrRZNqC30nUZpr2aZVVrWWSIxqPUxJ8s5xj370HplqSoeziiaAxkytJ8Ae1RSMDIemuEHYd6XW1/FHRLvbFhcandyQah0+nPEULszr5FsgY9Xf8ANXj4nbXEgQ3865/d0GwPzU6ZasJ7zKeHaaSFv0ICcefJpWxj+6raxsRrtIYrbjbShuRHqbkCPnt96KKa5sDl3W7PZKxxLFLaxBY085C7En59u9SXm2dMtLTr3TwoqgniWwcgH+ffAooqmS3Ku7//2Q==
 subTitle: Eine Geschichte aus dem Leben
   
 ---

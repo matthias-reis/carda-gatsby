@@ -31,9 +31,11 @@ date: 2015-03-29T15:05:37.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "10846"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "10846"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAJBAAAgICAgICAwEBAAAAAAAAAQIDBAURACEGEkFRExQxB1L/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AbYg8dr1zavSokSMAzsSvZOhv1XlLM+Y4PHYt1wT057TnSLGz9fPsxKb11r+/PFzm/OshkcRLjs1jY2aNRaaT9ZoA6xhmIVixGzrR66B650/CYfGPI72PqymWvalDTTwPNr0jkQNCFcrpvkfex/OAwKfl3i8sP7c1qGvYKlikweQofrtdE8vX7EjwkJJYWF0B9oVRAdga64qM/D41jKddfeWe1O81QxwzruGYylYmca6HoGOj/euTj/0bK2KzHGVaSV6EQgmhap7aKoOw3sN/H8631wFdg5Dcv38NJGgaGt+1CxYyGRGQD8RYD52QT1vY+uahKGcfFLcx0NmpIjhBjotJ7LpV2GA6Gvr/AJHXDhwKWax+fisfgq1xNWjhS0LNiBnnax/Sux9EkD75nLtnPx0rDS454wwKSB2ddx7C9AdEneyD8Dhw4H//2Q==
 subTitle: '"Obdachlose wie Menschen behandeln!"'
   
 ---

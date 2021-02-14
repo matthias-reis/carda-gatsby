@@ -19,9 +19,11 @@ date: 2019-03-11T15:23:31.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23530"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23530"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_photo_2019-02-16-17.42.54.jpeg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_photo_2019-02-16-17.42.54.jpeg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUC/8QAKhAAAQMDAwIGAgMAAAAAAAAAAQIDBAAFEQYSIRMxByJBUWFxFDNygZH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgAD/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEIZEFFNEVIjFxgf/aAAwDAQACEQMRAD8AVby9ZLclpMK4WuTIUopUkSM9MY4UeAMZxVa36qjQiqRIMB6Kyyl9TSkALcSrsAQeDyB/XaopF2NolNqm6LjuNpSV/jykhCVJPGSCc4ya4naugRFFMrwzsLZccKkhRHsBgY9K696hOxEfT7AMkHH0fEuL1TvlzOhcIzSWkhwIbaaUOe6QSPT75ppsl6tM9pyPfptqMhLm1spH7R/EA9vfPOe1Ja9Y2+LJSmR4bWZvqAbW0KHBPqPv5q3bdQNT7oGYWlHGXnDlLEcEpSABk8HGPU/dI1q/ORMenWZwQR+HxNrV1xiXSMGblbGJASkpSvepC0g4zgpx7ClFxmG+8HelI3gBKdzwUEj4BT/tFFVZWjNuo4lJfag9rGSMRIypKnVmUpw583WAxx3Hl4ratMtqy5Vb4+xTg2qUpe4kZzjJ+eaKKa6q03CjgRfUWuMMx5n/2Q==
 subTitle: Unsere erste Buchveröffentlichung
   
 ---

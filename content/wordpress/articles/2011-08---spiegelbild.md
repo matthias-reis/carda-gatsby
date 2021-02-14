@@ -44,9 +44,11 @@ date: 2011-08-12T11:36:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2325"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "2325"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACYQAAIBBAIBBAIDAAAAAAAAAAECAwAEBRESITEGE0GBI1EiMmH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAwT/xAAdEQACAQQDAAAAAAAAAAAAAAAAAQIREiExAwQi/9oADAMBAAIRAxEAPwCVsWOxVHj2LOiIOUsjBFXYBJJ0B3SSwglSJLgwsYOfHmRtdjvVVkMFhPixkLfHZCa2tIvytyVfylgeQI7YL+u+j8appyoF21NnxHprC41rJ2sIlyacXZnlZ2jYeSDvQ+qZZSBchJ7VtJEwLaHM9qdd6qfx+Ut8/YCeCUF2LEkA/wANHoH/AHWj90ovLmeKYGNm0p/sW3v6+KLlc362IRolgwyMtDKCraKtvrrseKdY+/uwdLO5iJZjC55RHfZ2njRNFFLPKD9MYejLie2vpClzdRW6tt4reT2w2zrokHXn4FaniHgkNzbNCzpHGsxkkflI4PhS2h4/eqKKzdhJsvwM/9k=
 subTitle: Ein Gedicht
   
 ---

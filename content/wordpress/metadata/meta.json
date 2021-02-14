@@ -16,10 +16,6 @@
     "/2009/04/geocaching/",
     "/2009/04/von-zebras-und-erdmaennchen/",
     "/2009/03/sonnenschirm/",
-    "/2011/07/antworten-aus-einer-unterhaltung",
-    "/2011/08/die-bahn-auf-der-bruecke",
-    "/2011/09/erdbeerkuchen-mit-gruen-die-blogawards",
-    "/2012/11/flattr-button-in-wordpress-blog-einbinden",
     "/2009/04/braunbaeren/",
     "/2009/04/fuggerei-augsburg-eine-sozialbausiedlung-mit-geschichte/",
     "/2009/04/gut-mergenthau/",
@@ -213,7 +209,6 @@
     "/2012/12/blood-red-shoes-stellen-neue-ep-vor/",
     "/2012/12/mosaik/",
     "/2012/12/abschied-kurzgeschichte/",
-    "/2013/04/a-doll-called-liza",
     "/2013/01/zoologischer-garten/",
     "/2013/01/tiere-auf-glas/",
     "/2013/01/melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt/",
@@ -229,10 +224,6 @@
     "/2013/04/amplifier-live-hansa-39-munchen/",
     "/2013/05/neue-schonheiten-im-plattenregal/",
     "/2013/05/farbe-auf-beton/",
-    "/2013/06/die-post-hat-sich-schon-laengst-abgeschafft",
-    "/2013/06/das-internet-ist-schoen",
-    "/2015/03/von-persoenlichen-grusskarten-versandkosten-und-kontosperrung",
-    "/2015/04/ue-ber-rasch-ungs-post-von-wyob",
     "/2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/",
     "/2013/05/beatsteaks-live-kantine-augsburg-13-08-2005/",
     "/2013/05/towel-day/",
@@ -461,10 +452,6 @@
     "/2016/02/unboxing-fooodz-de/",
     "/2016/01/cap-san-diego-ein-frachtschiff-mit-museum/",
     "/2016/02/filofaxing-mit-den-mumins/",
-    "/2016/12/interview-mit-ipl-profi-und-sanshair-gruenderin-tahmina-klasing",
-    "/2017/01/queen-elizabeth-im-cruise-center-altona",
-    "/2017/05/ringana-frischekosmetik",
-    "/2017/11/aufbau-meines-blogs-in-screenshots",
     "/2016/01/initiative-tierwohl/",
     "/2016/01/ernaehrungsreport-2016/",
     "/2016/02/kater-chili-zeigt-sich-von-seiner-besten-seite/",
@@ -692,7 +679,6 @@
     "/2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/",
     "/2017/12/weihnachten-bei-planten-un-blomen/",
     "/2017/12/alkmene-der-ultimative-produkttest/",
-    "/2019/10/was-waere-wenn",
     "/2018/01/ashera-yin-yang-balance/",
     "/2018/01/ring-of-kerry/",
     "/2018/01/elblicht-flarfgedicht-zum-jahresanfang/",
@@ -710,8 +696,6 @@
     "/2018/01/the-thread-that-keeps-us-calexico/",
     "/2018/01/tierversuche-in-der-autoindustrie/",
     "/2018/02/wie-vegan-ist-moeglich/",
-    "/2019/01/schnorcheln-in-der-badewanne",
-    "/2018/10/veganes-essen-von-deliveroo",
     "/2018/02/unboxing-sauberkunst/",
     "/2018/02/ashera-interview/",
     "/2018/02/schwarzwurzel-kanarischen-kartoffeln/",
@@ -1038,8 +1022,6 @@
     "/2019/12/laura-mary-carter-von-blood-red-shoes-ist-die-beste-alternative-gitarristin/",
     "/2019/12/12-songs-fuer-den-januar/",
     "/2019/12/vegan-travel-handbook-der-vegane-lonely-planet/",
-    "/2019/10/was-waere-wenn",
-    "/2019/01/schnorcheln-in-der-badewanne",
     "/2019/01/das-seelenleben-der-tiere-peter-wohlleben/",
     "/2019/01/musikalisches-blogger-blind-date-zum-neuen-jahr/",
     "/2019/01/der-volkspark-altona-im-januar/",
@@ -1052,12 +1034,6 @@
     "/2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/",
     "/2019/01/koenigsmoor-moorfutures/",
     "/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/",
-    "/2020/01/2019-08-23-mortehoe",
-    "/2020/02/12-songs-fuer-den-maerz",
-    "/2020/03/second-life-fashion",
-    "/2020/04/wellness-fuer-die-haende",
-    "/2020/04/rohe-vegane-cracker",
-    "/2020/04/soulfood-von-alles-vegetarisch",
     "/2019/02/stonehenge-11-05-2009/",
     "/2019/02/happy-cashew/",
     "/2019/02/how-to-create-a-vegan-world-von-tobias-leenaert/",
@@ -1238,7 +1214,6 @@
     "/2020/04/from-overseas-interview/",
     "/2020/04/cowspiracy-vegane-doku/",
     "/2020/04/bienentraenke/",
-    "/2020/04/__trashed/",
     "/2020/04/tarifa-im-sommer/",
     "/2020/04/fischratgeber-hinterfragt/",
     "/2020/04/mana-komplettnahrung/",
@@ -1274,10 +1249,6 @@
       },
       {
         "path": "https://cardamonchai.com/2009/03/muenchen-im-regen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/09/erdbeerkuchen-mit-gruen-die-blogawards",
         "message": "article has an old wordpress gallery"
       },
       {
@@ -1430,14 +1401,6 @@
       },
       {
         "path": "https://cardamonchai.com/2013/05/farbe-auf-beton/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/06/das-internet-ist-schoen",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/04/ue-ber-rasch-ungs-post-von-wyob",
         "message": "article has an old wordpress gallery"
       },
       {
@@ -1690,10 +1653,6 @@
       },
       {
         "path": "https://cardamonchai.com/2016/02/unboxing-fooodz-de/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/11/aufbau-meines-blogs-in-screenshots",
         "message": "article has an old wordpress gallery"
       },
       {
@@ -2097,64 +2056,6 @@
         "message": "article has an old wordpress gallery"
       }
     ],
-    "noSubtitle": [
-      {
-        "path": "https://cardamonchai.com/2011/08/die-bahn-auf-der-bruecke",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/02/wieder-donnerstag/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/04/sonntag-17-04-2011/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/04/a-doll-called-liza",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/09/die-traurige-geschichte-eines-tapferen-katers/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/09/morgendlicher-anruf-eines-chirurgen/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/02/mein-erstes-repeat-pattern/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/06/menschen-beachtet-euch-gegenseitig/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/02/gruen-wann-kommst-du/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/04/abschied-von-dir/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/11/spielt-keine-rolle/",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/01/2019-08-23-mortehoe",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/02/12-songs-fuer-den-maerz",
-        "message": "no h2 heading found - no sub title"
-      },
-      {
-        "path": "https://cardamonchai.com/2020/03/second-life-fashion",
-        "message": "no h2 heading found - no sub title"
-      }
-    ],
     "invalidMdx": [
       {
         "path": "https://cardamonchai.com/2010/01/moewen-am-bosporus/",
@@ -2203,10 +2104,6 @@
       {
         "path": "https://cardamonchai.com/2012/10/verlosung-t-shirt-idee-die-bildergalerie/",
         "message": "unknown: Expected corresponding JSX closing tag for <p> (7:15)"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/03/von-persoenlichen-grusskarten-versandkosten-und-kontosperrung",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (100:41)"
       },
       {
         "path": "https://cardamonchai.com/2013/08/einmal-im-leben-einen-baum-pflanzen-2-0/",
@@ -2267,10 +2164,6 @@
       {
         "path": "https://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/",
         "message": "unknown: Expected corresponding JSX closing tag for <li> (66:106)"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/05/ringana-frischekosmetik",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (127:27)"
       },
       {
         "path": "https://cardamonchai.com/2016/02/kater-chili-zeigt-sich-von-seiner-besten-seite/",
@@ -2591,6 +2484,44 @@
       {
         "path": "https://cardamonchai.com/2019/11/earthling-ed-zu-gast-in-hamburg/",
         "message": "unknown: Expected corresponding JSX closing tag for <p> (26:39)"
+      }
+    ],
+    "noSubtitle": [
+      {
+        "path": "https://cardamonchai.com/2011/02/wieder-donnerstag/",
+        "message": "no h2 heading found - no sub title"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/04/sonntag-17-04-2011/",
+        "message": "no h2 heading found - no sub title"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/die-traurige-geschichte-eines-tapferen-katers/",
+        "message": "no h2 heading found - no sub title"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/morgendlicher-anruf-eines-chirurgen/",
+        "message": "no h2 heading found - no sub title"
+      },
+      {
+        "path": "https://cardamonchai.com/2016/02/mein-erstes-repeat-pattern/",
+        "message": "no h2 heading found - no sub title"
+      },
+      {
+        "path": "https://cardamonchai.com/2017/06/menschen-beachtet-euch-gegenseitig/",
+        "message": "no h2 heading found - no sub title"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/02/gruen-wann-kommst-du/",
+        "message": "no h2 heading found - no sub title"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/04/abschied-von-dir/",
+        "message": "no h2 heading found - no sub title"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/11/spielt-keine-rolle/",
+        "message": "no h2 heading found - no sub title"
       }
     ]
   }

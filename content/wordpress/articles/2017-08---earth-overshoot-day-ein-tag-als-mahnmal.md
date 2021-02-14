@@ -26,9 +26,11 @@ date: 2017-08-02T14:50:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17278"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "17278"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_7356eaa87c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_7356eaa87c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMHBgUI/8QALBAAAgIBBAEDAgUFAAAAAAAAAQIDEQQABRIhMQYTQQdRFBUiI3EzQmGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBAH/xAAgEQACAQIHAQAAAAAAAAAAAAABAgADBBESEyEiMUHw/9oADAMBAAIRAxEAPwDzvgbPPmRR/uqhkBKRtYsfHfjvv+KJPjXSm9MssqAO7K7cxIsdK0Nf1E+4JBA++rhNsPpn03JFj7heWshJ4wkBxyAjTsCgOHK/HZBrs3kt9gxtvzHEUkkuHEQyOzEc1quJ+QRXHrxWpa1fT4rhj95HDTPbP9Nc/OjV0hR1yFLKGJHsx8lqVj8X/wB+9DVDk+jG1SQti7PI+Xm46c8iampnIYgBR0BYoEMe/tVFuw7/AJmJtkMeFBHinITl7zI0zceuhYsKGBurvx8aNq3ncY5chcjccSOci44poDBGRyJNMK66Bo14A7rS293TJys3KIWMf6DjXHg/O5wuVlhmaMTAMqsP7iDfI/zpHqLfW3b1HmSZ2LBI2ExEZqiSqnyR5Fm6/wAaNGpCMtJQPYJuZRMFkXbpsf209oRxo6BQFZQWIUCv0rXVD/eonvW+wYma65eB+LgNq0XvcFstQK0LFXo0at0UcgsOpq7z/9k=
 subTitle: Wir beuten unsere Erde aus
   
 ---

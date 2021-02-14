@@ -34,10 +34,12 @@ date: 2018-06-07T07:06:55.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21203"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "21203"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_40724892360_897fb6a64b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_40724892360_897fb6a64b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAACAADBQf/xAAqEAACAgEEAQIEBwAAAAAAAAABAgMEBQAGBxEhEjFBYXGxEyIjM1Ghwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAAEFBv/EACERAAICAgICAwEAAAAAAAAAAAECAxEABAUGMUEhUbGB/9oADAMBAAIRAxEAPwAyF2AJ79gTpQ7c4X2pJhMfJk4sg9uWpFLM4tsihygZuvHQHk/HRppU3u24KkP7liRIV+rMF/3Tf5Agjh493NFGvUceItIo/gCFgPtrkO4b8+s2vDBIVLk3Rr6A/cZ0kVgzMLrOW7g4Y2yMTkWxUGajtR1pZK8rzhoS6oWXs/FSR/ejGHJAPy06OOq8VrjXa8Uqho5cRWjYde4MQU6EWQpPj71mnOP1a8rwv9VYqftqdS5CfZfYgnkLFCKv+g/mXtxqoVlFXm/2HcoY7emEu5iRo6FW3HYlZYy56Q+oDoeT5AGkdurlnZGX2pmcdXzhSxdoz10MtKcKrvGVHqIQ9Ds/PVq1vcp17W5SZJ5mYFPFEV5v2DikOy0SlV95h2XytsrCbOwmLu54NapU468hip2GUso68Exjxo6ciW8fkN8Z29hZvx8fbtvYik9DJ36/zHwwBHTEj21atBx3X9fjJ32IWYl/NkV8m/QGFJsNKoVh4z//2Q==
 subTitle: Dinge verschicken - wieder und wieder und wieder...
   
 ---

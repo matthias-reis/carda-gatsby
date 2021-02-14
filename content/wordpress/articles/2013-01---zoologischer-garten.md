@@ -35,10 +35,12 @@ date: 2013-01-06T16:42:13.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "4755"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "4755"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_3722__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_01_img_3722__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYD/8QAKxAAAQQBAwMCBQUAAAAAAAAAAQIDBBEABRIhEzFRQWEGBxUigTJxkaHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAIBETFBUf/aAAwDAQACEQMRAD8AQadDZUkJIBI57UPx/GPEaVNkSYI00NOM2oyuoCnptgWVj3T45u8R6fIjICUpkAKSRYJHrzmjYfW/p8+OwlElwsKW22uzuUj7wDyLBNGr5oDCkXJThE2Np7enmaHFvx0/qKGykrH7n0/vM7Ojoca68VDamVgKBTyCPbzWUPl78S6e5L1PTNUe6MeXF4jvAinAfu2gk7ByaHm/GW9QmNNgjSkMfTk2lpPU20nxXbvfv3xMvhVYn0xSkqAZCU0N53DddemaPSZTkNbEhBtV1ZAuiSCL/OGGS6KcFC7kxdZglDI+lLMhl0tgrO4jcD6c8c1xWdpboVDZ4VRF1u7E/wCXhhifhi9P/9k=
 subTitle: Bildergalerie
   
 ---

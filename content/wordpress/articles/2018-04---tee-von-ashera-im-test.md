@@ -29,10 +29,12 @@ date: 2018-04-21T11:55:15.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20558"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "20558"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41045840562_186eb626e7_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAApEAABBAIBAQYHAAAAAAAAAAABAgMEEQAFIRIHExQiMWEGMkFCUZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAIQMxBBESE//aAAwDAQACEQMRAD8Am2p06tpNjwmXENuSFhAUokAH3I5F5pN72dbTWQHXm1x0oQgqsSVrJoX6VmQ0G68PsIT4TXdPtr/SheV3e7hqWxPfi7MOMNKQ24FR1IKj1BIIJURVC7A59sxlT0exFwcj5gpVyUbnVSdUiKqWtt0SEBYCDZTd/NwKPH9xM7HDralpTVfnLp23TEn4Zd8OtC1PvISnp6PMOq7BHJyEvSCzH7uufqcSxuEyhanHCdUhfFY3alvDzBV8fdzhhkCQahMitTCDq+7AqzQNWfTFElwukgiqOGGW5oAChP/Z
 subTitle: Juwel der klaren Augenkraft
   
 ---

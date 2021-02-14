@@ -19,9 +19,11 @@ date: 2011-05-25T10:05:12.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "10947"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "10947"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_05_14253849274_ab20a010a0_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_05_14253849274_ab20a010a0_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcCAwj/xAAoEAACAgEDAwMEAwAAAAAAAAABAgMEEQAFEgYhMRNBUQgUcYEiMmH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EAB8RAAICAQQDAAAAAAAAAAAAAAECACERIlGBkaGx8P/aAAwDAQACEQMRAD8A6Y3zeKuz05J7Jd2VCywxKXkk7gAKB8syj4yw0zVNp3TdIkt7rvdqu8g5rW21lSGIHwOZUtIfliQD7KPGlO77Rbm3+G/XaGSs0Ucc8UhKsvpyiRHQ4IJzkFTjPY57YOUdG9OI5ZrsJdisnrQg+OBUqvypOG/Z/wA1bqFUFbhNRIY4m+j97t9qOtcsvdqzHjFPIqrIjAZ4vxABBAOGAHcYOcg6cNuu19xpQ26cnqV5l5I+CMj8HvqKdUrIsleMetJJ6kNgV4TgMEljY8Dj+/8AA9jgEEjIznSrpfp+3tUsAuyQzpDEEidHdTGcYZePhlOAwz4JP51BDAK2+fuYW3IzQHmq99d119Ve9bntPSG1R7XenqLauFJjC/BnVYmcDI745AHHv79tWDRZq3T+yy1yYmmqxF1jPFM8F8KOw/QGjRpEktKvHDHyRTzkAZ2JLMxx7k99KNGjSJ//2Q==
 subTitle: Hitliste der Suchbegriffe, die auf cardamonchai.com führten
   
 ---

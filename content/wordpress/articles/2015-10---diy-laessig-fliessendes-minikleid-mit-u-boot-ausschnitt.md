@@ -36,10 +36,12 @@ date: 2015-10-21T14:26:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13030"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "13030"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYI/8QAKhAAAQMDAgUCBwAAAAAAAAAAAQIDBAAFEQYhBxIxYXETFBUiQUNRgcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDmWIJb6gG1ueQcCmJw8tNwTOuiY0Jq5vOxSwptchLawhWchJUdiRtnBx2rE2yQUgAKwK0Ma7e0acKIsaUXUBpbbgxtkHmB+iu/mgC1VmTpqBcJGjBCQ5p+G8zHWy07NRh7mBIT8wVgkfnlPehtq3sMoiThEZmJZCTKbdS6h9wDc4AHLnfHepOGDt1vlpuMa3psyUQ3kuFtbDa1qCk43BRzYJBOU7ZB6HrU1jFunpr+IWZqKB9yNFwlX7Kv5U9E+dSFacUnpVpuSvlIooqpTtTw31RN05qyJJiEqTIPtXm+bAWhZHXwcEeKa+qL3JmpV6uw80UUuov/2Q==
 subTitle: Nähanleitung One Size (34 - 42)
   
 ---

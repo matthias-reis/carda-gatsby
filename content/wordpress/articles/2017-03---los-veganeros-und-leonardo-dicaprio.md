@@ -37,9 +37,11 @@ date: 2017-03-03T18:37:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16028"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16028"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGAgUH/8QAJxAAAgIBBAICAgIDAAAAAAAAAQIDBBEABRIhBjFBURNhIjJxkcH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAwEAAgIDAAAAAAAAAAAAAQIRAAMSIjGR8PH/2gAMAwEAAhEDEQA/AF9m8ZgWqz0zYa0Y2WIyqnGMsDx7b0M9dfeTrO+x79tlXbIa8dR5bEbSRV9sp17HJVYAuea4VcnHR9560hs3l9q5vm01okWKFrMSSmQjkVV+TsT6QYHyf+6q/LN+qWrFG/tqvI1KMwS2KrGdYg7BlyY/vDD0cdfrUArcaFiKdoAD8ioxgzfhrR7n4RvJ3V413aqXVI2qpDPBiLkq8UXiMkEqe+veMEai983zaa+3lNqF2xYdRiPqLi598mPo/wCM++tXPg9g1rm/NXpWlsWGro1JAjWFh/GWV5RLIpUMZCq+z0cgZGvI9y2+bM7zMTEIuDsvRWQddn9EH7+dMB3VSRDj4ozLaB9/fnSvi+4hL8ks8bSw83MqBwrycgy/3wcYznofGrnxrf4NqKLDVtSVq1hbaxSWgSyqpVYi3DJUZz/r60aNVViTLgeNYDNmxvAi8otb4i2WsyB1MUkqNGisQcIPx/xxhfR+O9cq7ZkvbhY/JJIFm5zgBv65JPH94zo0aa33poo7Tf/Z
 subTitle: Das neue Welt Vegan Magazin ist da!
   
 ---

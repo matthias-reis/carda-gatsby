@@ -25,10 +25,12 @@ date: 2013-05-08T16:48:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "5354"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "5354"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4864__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4864__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUHBv/EACUQAAEDBAICAgMBAAAAAAAAAAECAwQABRESITEGYRNBIjJxof/EABkBAAIDAQAAAAAAAAAAAAAAAAUGAgMEB//EACIRAAEEAQMFAQAAAAAAAAAAAAEAAgMRBBIhIgUTMUFx8P/aAAwDAQACEQMRAD8AwKOWm8re/Qd/dauInj0XwiO+u3BcmQw3IS4XAr5MlQ224KRkEY9H3WLSH1ZKc/hnocZruPPPLo16lMP2i3NWy3Nw2ozURtW2iUDCdlcbEZVzj7rqHWszvTaIRxb5P70gcsBNG9yqKQlcyQtMdGAOVK7wKKrGrvJati4bSwltxz5FkJGxOMYKu8evdFLBkLt7r4trWEClEm6fKdM64HfHOOf9qRa7dJuTMgQ2lumOwt9wAjCEJxsr+VAeXsrmksulsK1PYxROTMiOW58g4m1MNOmgkDpWaKbJopeMzRtSupf/2Q==
 subTitle: Treffen der Giganten am 5. Mai 2013 in München
   
 ---

@@ -25,9 +25,11 @@ date: 2017-01-04T15:41:35.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15612"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "15612"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31951423352_b59d7c51e6_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_01_31951423352_b59d7c51e6_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcE/8QAKRAAAQMDAwMDBQEAAAAAAAAAAQIDBAARIQUGEiIxQQdCURMUYYGRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRAyESEzH/2gAMAwEAAhEDEQA/AOyB6i7TismQ01PT9Q2WG4WU28GxtTuH6lbXkPJaMiVHTbkXZEcpbGL2KgTYmqjp2zNHLZJiSh3HTIeAI8+6oahtvbmlx3ZM7SNRYgx2ypyUH1rSOoDslRVbzyIt/tdDsdbMPBXo1abMhMhSnZLKEJbLhKlgAJ73/lYrvfdMKTOlo09xD8QyOa3krIK0/bhCQgWyOQNyfxarS5sjRiQoR53HHUZTwBB+OqkuobE2+rkpyJLUSkkXkOkm2B3N6ccjT8BLGmqbLrCcUUNKR03scE+f3Td0IVGWhTaVMrCkqbOQoEZv83zRRUioPKJQze4wALEiwGKVz2A7cc1pAPtOaKKaCz//2Q==
 subTitle: Spaziergang an der Elbe
   
 ---

@@ -26,9 +26,11 @@ date: 2015-08-18T09:18:58.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "12311"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "12311"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20521813401_8f1989d2bb_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_20521813401_8f1989d2bb_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAmEAACAgEDBAICAwAAAAAAAAABAgMEEQAFIQYSEzEiUQcUYWJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIXpfpyGF5GvtLudOSI+NHwMEMOVJ5B4+/vTpI4Ond6pxbcyWEnrGwYLUZPjj8bSB1kwRj4ng6XdD7oWoXKspHxikljPOQc5wP5zyNWlivSm6q6S8pMFWXaVDDOMo8csYUE+yAGOPfGg7ds/IO3dohtiaeZGRVWCv3HtYBgcjAPDDBHvT89bbet/9GjZtS3I1Hnhr1RLYRfhjuD4UZ7uSeRrNbUVStPuKwQxR1tuuGJU8vzatHWiw/d/YsDn7YayDct43K1utm/ZltQXLSdkzLI0fkXgfY44HHrgaBn0ptnUHUDwSVoJpoY++ZrEx8UIYKSvJwCQygjtBPOnu4dXrFW6Dt1Sl2xtm3Is0IlI7XRpAqscH2rk496NGghtw36zdhgh3BhYFaJYY+7gBVVUGQPZ7UUZP0NLJLJKrGoQIGLg4y2SAPfvHHr/AHRo0H//2Q==
 subTitle: Bildergalerie und Fazit
   
 ---

@@ -35,9 +35,11 @@ date: 2009-05-13T15:39:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11269"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11269"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11501728246_beb89fdcd1_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11501728246_beb89fdcd1_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAqEAACAQQBAwIFBQAAAAAAAAABAhEAAwQSBQYhMTKBBxMicXIVI1Fhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAIREAAQQABgMAAAAAAAAAAAAAAQACAxEEEhMhIpExgfD/2gAMAwEAAhEDEQA/AOcxOu+pEuPZa6t28vqW5jLI+/YR71Ux+vOoNgHxcdyRIQ47KW/mIPf2pzB43G0wlybaEhJymtswLuAAmp86+ZB80xd6f45rbrj4loTZLJuz/RkSNSIPZIkFRXK1JWvyiT3ZpbmIBodXntTm+IvJO+36dh/KjuJfz+U9qyyPiHEDI4p0aJOl2f8AR4q1mcJxdwnfEaEaLTIzBtNIAYn1fVPtFQ8np7Bd1a7acGbe+l1ojQ7gAzA3gj+pp48RPvy+6QdA26pVbOfbEE34H4mm15S2FH7zn7LRRUpVYCxvcrbI7XHPePFSsrkkJ9Td6KKZqBC//9k=
 subTitle: Erinnerungen an den Frühling in England 2009- Teil 6/17
   
 ---

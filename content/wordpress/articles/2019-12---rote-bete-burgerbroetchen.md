@@ -29,9 +29,11 @@ date: 2019-12-16T18:50:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27191"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27191"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAoEAABAwMDBAEFAQAAAAAAAAABAgMRBAUSAAYhEzFBUSIHFFJxkYH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQb/xAAeEQACAgICAwAAAAAAAAAAAAACAwABBCERMSJBUf/aAAwDAQACEQMRAD8AmFjttA1QIqXEAqDgSnqmQoxzx5gGY012zoKYARTvVIgJcyV0kEg9sR3j/dc7djVIjcdZR2qnapKKjUltDTIgAwMzHtR1stFaAwglnPNWCQHCPlPI450i3x7nUYQgSqMvcybwtKGrWivttMhpzhJQk5TJAAVA78ggx2mdL+4rJVUwAZUw62EDEdTkj8zx3mf1xp7uN0wedp4eZfyxUhJKVkmQQSfPPf0dS+/Nll1aTcmnlhS2l5EJUlSDHMH+HzoSzstXK5IUO5Qd22gXZJvljcIrQkGoaQeVxHySPJ9jSlS3ZhL+VQnpYzLWMJyPcj0Z5g+dGjTr11cw8N5hqo47WtDl5qmXG6R/7YQXKyrlLfJlRkwVH0B57nXT+pG2Nm1SHF0lOaB+Sc6YyDPtJkfyNGjUpUIjz9g8nJYw+Lvqf//Z
 subTitle: Nach einem Rezept aus der Kurkuma Kochschule
   
 ---

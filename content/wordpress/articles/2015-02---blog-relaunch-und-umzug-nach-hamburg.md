@@ -27,10 +27,12 @@ date: 2015-02-11T11:59:34.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "9464"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "9464"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwUI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDAAQRBRIhBhQxE1GRIiNBcTJSgf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQL/xAAbEQADAQADAQAAAAAAAAAAAAAAAQIRBCFBA//aAAwDAQACEQMRAD8AUtekGESByqljypwMexBz+6pdP0We1hkdlt57eJBv3xKQFHI5x4rMX1i3SNhNLKSBub1NwBAP58+Ca6+ialpdx9I7dN/BAuFdWA9wSDxVO+Y6WPCbHCmK1aaL2+n2t3PFcW1tPfMDI+VEnG3IGFHHAqpg6cghtkj7cqwwPUGRnJ9v94qB0yGyLNNHawFm4MigqTnjzmqa2EEQLR2bNJ5JibJ85/tnzQr+jfo2IleHmmDqG9g2JfRRX8Q4DEBHA/f8T8CnobzpvUGX1WazucAYl+18Zypooo7XWid7xj1zos7iNtI1RbdVYMqSAshIHBBU+/PxRE3W2lsJYH71gGG6C43l845KsQQRj8CiiuFTNco//9k=
 subTitle: "Teil III: Die Vorfreude"
   
 ---

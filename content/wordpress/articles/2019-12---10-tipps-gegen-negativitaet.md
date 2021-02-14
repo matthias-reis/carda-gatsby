@@ -26,10 +26,12 @@ date: 2019-12-02T08:25:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26862"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (59:46)"
+thumbnailId: "26862"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBgP/xAAoEAABAwMDBAICAwAAAAAAAAABAgMEBREhAAYSBxMxQSJhFBVRcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAdEQEAAgMAAwEAAAAAAAAAAAABABECAyExQXGx/9oADAMBAAIRAxEAPwCZ40IKF13ta51WfSPpDQ4e04Uyp09iZVJjKJDi5CA4G+YuEJBwLAi58k6nih7Zq1RaQY8B7tOWSHHE8E2Pu59Z1UP7fe1H27TosDb8SX24zbCZP5BUHClAHIIxxyPBPrR28Bj1otHmYDrZ0tpDFHkVKlxY8KVGSXClhHBLiRkggYva9j9am2RECDi5Gqmq8/d25NuSzXYcCJSn21odmIcKVN/E4CCTyJOLDOdJOX0/3OYsqQxRJj8VjKnUIGU2vcJvc+fQ9HU1tkuwpr3HZ0KrtLmbfgrq8ovVeWlcfku12+JVcj7KQM+dM+bQpy09zbVbREHgx5KeaB/R8jRo07Zi4Y8Dnzn5MfVto1V9zv7mrrL6WyeDTCyflggAWAT6zk/7rlN3rSaNREshAjNFJbCblXFR9fzbF9GjRW2osMDEsn//2Q==
 subTitle: Eine Chance für gute Stimmung
   
 ---

@@ -22,9 +22,11 @@ date: 2017-07-24T09:47:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17213"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "17213"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35995042691_702d9715fe_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35995042691_702d9715fe_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYH/8QAJhAAAQMEAQMEAwAAAAAAAAAAAgEDEQAEBQYSIWFxEzE0QWKSof/EABgBAAIDAAAAAAAAAAAAAAAAAAIGAAMF/8QAIBEAAgECBwEAAAAAAAAAAAAAAAECAwQFERUxMrHRBv/aAAwDAQACEQMRAD8Ay9tqV04iL6CxUo9QugD48+KusTs+7OPMC1jIZIk5OO49ZFPCIn8q4y+c3BDMLXHEQD0FxbUS594+q3NfpJ8Rffz9Zrmc+uNWfSZty/Wqi71x1uZaJE8Vr3Nm3MXTC4aS3VFiSx/QvCo2tIfzmfu1ISeukfVI5DatIE9lJsYo9at5brvwrWC3UNpdemkttldBER1pYiZ5pTl2QSSRJsSj2JyiikpLMdWxI7JI8if4/jPWol1n2jnk65HcqKKiiDmf/9k=
 subTitle: Ein Meer aus Sand und über uns die Sonne
   
 ---

@@ -25,9 +25,11 @@ date: 2013-11-18T18:10:35.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "7642"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "7642"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_11_img_6338__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_11_img_6338__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQf/xAAmEAACAAUEAQQDAAAAAAAAAAABAgADBBEhEiIxYQUTQVFxFDKx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUDBP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgMRITES/9oADAMBAAIRAxEAPwDhEs2dCQCNQGQD/cRD5bQtXM9I7DuHHv8AWIczoAt9TZBYA2x1Etc8qZUOZQZJRN1DEE27ilfe/WM6DXUlDmxDZUfUSzuLjmH6ri2cQ6d42oXxYrnCLIZtKguNTdgc2ifKeOnR4bWjPUJYwlzdxf3EEEKbCuFUpUp6D8yYiznMwykR/wBRgZPzz1mx6iOrrqibJEuYwbaQXtuI+IIIyQpNpaP/2Q==
 subTitle: Ein perfektes Konzert
   
 ---

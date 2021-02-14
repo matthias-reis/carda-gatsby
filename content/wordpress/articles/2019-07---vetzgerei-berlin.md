@@ -25,9 +25,11 @@ date: 2019-07-30T10:32:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25558"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25558"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_vetzgerei_03__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_vetzgerei_03__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAKBAAAgEDAwQCAQUAAAAAAAAAAQIDBAURAAYSFCExQRNRBxUiMjOB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUE/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAxESITEEEyKx4f/aAAwDAQACEQMRAD8A57bbjuaesNPNU2/qOb56jmsgcKCeQH396Vpt/Xx45nFHTNHTgM7hHIUE8c/zGtKbbT3rc0stzJ/UiwXqeSLGCAqYfOV7KD2AHjzpqh/H9no6uN4KqlSRQRzW4qsre8kAHGfPbxoVcZEXiOuhqUNm3FuK9GeWlS208cUUjh52ZOXADKqOR79xqOHbFyvttoLvd6xY7dPKwSCNuwYuxbH+51ZXTaFHa62tls9VQh3pZFKx1izcxjxnAPInwPetFQ0Tz7f2+lmr4HhSeSSCFaYP8a/K2GLF8tkY9a0UFyc5cQ2IC+PMx1BsmqVo2W9srElzikTyTn2T96kqtqV8dWSL62R3z0cejRqD3GJ36Es4AD6YvDteoa4x/Ndmcc/3AU0a5HsZ10Lacw23ALpQL/XNPG0LHKsglYAZPjsB30aNU+lN1N5jrixE/9k=
 subTitle: Die vegane Metzgerei in der Hauptstadt
   
 ---

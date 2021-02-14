@@ -33,10 +33,12 @@ date: 2017-07-17T18:06:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17141"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "17141"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_11__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_11__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB4DASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQMEBgf/xAApEAACAQMDBQABBAMAAAAAAAABAgMEBREAEiEGExQxQWEHFRYiUVJx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAIhEAAQQBBAIDAAAAAAAAAAAAAwABAgQhERKRoSIxQcHw/9oADAMBAAIRAxEAPwA1YizKo9sQoBIGSfQ0b1Dc6fp80a3JJY5Kth2l2EZQ4/vn6vI5HvS09pt10nip7xBNUUqo8iQxe5peFVAA6ksQzYA/xn5gkWWn/kf6W3yyXiaQ3npyona2tUKQ8RjXd28t6VkVl24ABVT70vZuSHNxxZYq1SBIMSXCbultltkNvlq3gEdfnxmSUPvON2OPuOdVO3qvEam59E9F08VRHMtPVea+5MPTxAPtBPAO4nGBngZONKGL8avUNM0N020UrgIAJsg+v77WOa73aCkkoAJf3LyI17iuFdH3ZfJ5wSpBB/DY0jY600lzmoqkuzSgrK4IIfJbORj1jIPv6NK9U9N1ldOKu0VEcFSyrHIsuQvHqQEchgCRj7rI0FNdUv8ALblih79K+wT0ydwyEEEk4H0c8/Rok4iBdtfTYZ+0kIzWHlL5fLt0ul1Fvkt8nizQeOyKMR7QBtxwRjgjHojjUJj/ABqXpKTrdovDutjFxsZUtG9SO29M2PUTEq2CfmSPfGnbrYzTTL4rrLE67trSJvjP+rYOD/0cHSQLsSYlh+lgPTmPyjlu+F//2Q==
 subTitle: '"Ich denke mir alle Kostüme selbst aus"'
   
 ---

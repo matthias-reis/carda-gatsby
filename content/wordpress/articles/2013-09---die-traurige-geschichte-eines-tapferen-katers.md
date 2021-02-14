@@ -33,10 +33,12 @@ date: 2013-09-25T19:27:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: null
-image: /img/demo.jpg
 errors:
   noSubtitle: no h2 heading found - no sub title
+thumbnailId: null
+remoteThumbnailImage: null
+remoteImage: null
+remoteLoadingImage: null
   
 ---
 

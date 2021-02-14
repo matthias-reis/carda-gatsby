@@ -30,10 +30,12 @@ date: 2016-03-15T11:22:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14311"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (29:43)"
+thumbnailId: "14311"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBAYI/8QAKRAAAgEDAgYBBAMAAAAAAAAAAQIDBAURAAYSEyExQVEHFCMycSKBwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDoi/1sttsdwrqaBKialp3mSF5OWJCozw8WDjOO+h+2d02vc22lvdnn5tGULMHHC0bhclHz2PUD116asbviWfat3idJ3VqZwVp14pP2q+SO+POMaQm4NiXmS3USWOzXtKAnncVVdoqaOckDDCCNyFwO2f5e9A8ae4vdNv2e4yU70z1UazNCWzyyQMrnzg6WvxSzNc7gx78l2xjsS41htuXPcHx3dJGudovE1pjpzPU06V/1EMKM+OeFBYDBBBPT/dMb4qpswVFcoi4KiDMf3Mu6l/z4fC5GM+9A4E/Nf2NCoKeGstFtaVHPBCoCtkdQMdR/WiynDA+jrGTbxtlvMlvENyrqulleKaOho3mMZ4iQCRgZwR0Ge+grpQU6bov04HSkt9NCARnJZpZCD77jQL4xrY6qhYmGRKinpFhaRpAVZTM8nQYznLd8+NT2fc9tvFTukUjzRVssvGaaphaKTkxwBOLDDw+QfR0G+IEYxXEtwj7MQwpHsnQf/9k=
 subTitle: Gedicht und Bilder
   
 ---

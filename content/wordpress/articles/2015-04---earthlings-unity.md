@@ -30,9 +30,11 @@ date: 2015-04-22T09:00:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27452"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27452"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Movie-Header__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Movie-Header__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAMF/8QALBAAAgIBAwIEBAcAAAAAAAAAAQIDBBEABTESIQYTYXEzUXKxFCJBgZHR8P/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEDESH/2gAMAwEAAhEDEQA/AJZN8GT6G+x0k1SxUNHYZWIx2AHy+Z1RJaKybFDu1OdLW3Tq2HA6WXBKnqU9wMgjPGlOqYDF58MMK117eY7AE+w/vGutcaYecOdDw/uO9TpBQimuWHwiKjrk8/799UCCtagp09rievtkl+uZF3JpEMwlibDwqjMBxycj35BXqd2vtNdN1kiobhV6ypgitSwWEA79asmBkehPtr0NtvCqySPBFfVXeaH8evnNH184J9PTnvzpZGYROmzxAYtvseIre6VY4LFhUoU2gsmcPCqkdbgZwT0p3wByOkcmdwwVUjis0pC8gP54JI8qjfoQQe/8aNGlZXMG4F3kkeRVV2HfpTpHGOMDT1B8CL6F+w0aNSwKf//Z
 subTitle: Der neue Film von Shaun Monson
   
 ---

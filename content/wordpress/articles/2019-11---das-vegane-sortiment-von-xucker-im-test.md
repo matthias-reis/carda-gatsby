@@ -32,9 +32,11 @@ date: 2019-11-10T17:48:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26722"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26722"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-23__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-04-xucker-23__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMFBgcIBP/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwQREgAFIQYTIjFBoRUjMkJRYWJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAgEQACAgIABwAAAAAAAAAAAAABAgARAwQSITJRYbHR/9oADAMBAAIRAxEAPwCk6HawYWUEEOADzj7+n96c6bZauJ5qenhDRF83DRhcUtkTz+/L83NjqRdE0e3T71Rru1xQlj3A3K3t4cv45Wv76tPqSm21NnrBvNXT1TTwPBTJFDGzk4nG5UXAFgb8Aal1QXSz3+SvYWnAAmf6XYKyoqzDSwd6Ry8o7fiFj9xF+PL1/WuGXZoIO6EmWYqFYPa2WQvax/Bv/mtD9IQUUHT23fDqyjonSmjFSsigSPJiCxcsRdSfKxtbVXddGhqupayfbQvYlgRiVjMas6llYqD6HjR2QVQm5jX5vVRm2urOAVJCuXB8dr6fqu8cTPFU/NJZfrIyGPHr7aNGqNM8GIEefcbkYlqikTJPSRNLUBWEcV1LX+0A+Z4tqJb3OI6xD3DJGI5EyVsrcgjRo0vM1oQYvH1Cf//Z
 subTitle: Weniger süß kann lecker sein
   
 ---

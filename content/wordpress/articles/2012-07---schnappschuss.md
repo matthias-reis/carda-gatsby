@@ -27,9 +27,11 @@ date: 2012-07-29T18:06:08.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "3452"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "3452"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1000559-e1587461163291__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_p1000559-e1587461163291__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcC/8QALRAAAgEDAgQCCwEAAAAAAAAAAQIDAAQRBRIGIUFhB6EiJDFRY4KEkbHBwtH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSURP/2gAMAwEAAhEDEQA/AMxvuAtHly0IuoCeiSAj7EVB3fh/GuTBqDr2kiB8wav2p2t+7sbGdYRvJO44z6Ix0PXPKo+5h1McjeWTfSsP7qZcl+juixPTP5eDb+I745raVR3ZT5iuHjWJcYztODjnzq8FNRyFaayIHvgcf1VbvJLBLO7ikj9eMh2tGGVQd3P2se9FW6zQSSHdR8S1MjrYadvj6PNIQT8o/wBqEuOPtTlJ2QWcY7Izfk0UVX8p8FaxRuK9Xmlw1yqL8OJR+qUF3JJKWmcuWOSTRRSrhGkz/9k=
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 5/9
   
 ---

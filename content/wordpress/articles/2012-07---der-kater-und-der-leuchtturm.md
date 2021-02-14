@@ -41,10 +41,12 @@ date: 2012-07-29T11:28:31.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "3870"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "3870"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0308__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0308__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwIGAQMDBQAAAAAAAAABAgMEBREABhITITEiFCNhB0FxFTKBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQISITEyQVH/2gAMAwEAAhEDEQA/AN1eQKJNdVIW9UWpC2dkuJf50/FxbC7n3LMuJAoVHiS5VRgynfRBLrKFuoVcrQ7rSNR08gg8FI+MU6ltpfW2l0uIbPGsX8fnkc4XfqS2WoOwVe/FLkmyTzpSjsfB1DBum1oUJJ7JzU8s5qosWYlxIbi7Z3QmOlSVJAIPkOiev8xPKrTazEgsM6nWmJkv0iWkC246Ui4uOxZSRb74uORcvpkZbqDFTckoecloWPd1hKdpCkEc2PCz31jhnKLCpzUKmwWEhxtxuYZO4dwOoJ0mwNgejik1kgVOLGF7NH6JD1tQytZ/bZ9QAP4IN/6wrZ9W9UzDqct0qlLSlBIFvHkpH8YMGJcNC+jfkxO3luIvUSXAXFA9XJtwPsLAYx8905CXm56FWU54LTbsjgG/4wYMNdjPD//Z
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 2/9
   
 ---

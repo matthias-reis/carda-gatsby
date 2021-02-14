@@ -54,10 +54,12 @@ date: 2017-04-19T09:40:43.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16486"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <span> (188:120)"
+thumbnailId: "16486"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAgX/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGIjEHE1EVQWEjMpGh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAgEQABAwQCAwAAAAAAAAAAAAABAAIDERIh0TGxQYGh/9oADAMBAAIRAxEAPwAZF0kl6MiWa22iV4EVpKWCICRhuUHJJDDkEeDzr1OqenuiOnqmqpp6OKRkpX9oSIY2Zy+EbdgFiD5xxjHwTrZLYL3NcnrZ6uB5nYuQ1ZVSNuJOcd4OT4xofX3aK53VPrFSyPT9lUlQqvBNjJVWcg7SM/c4PzxqGaOQEEuPo6VkD43EkN+bW2l9Pun7vNItNXJb4+JYleF5d6iMGTJyD2kNnHBxxrNcPTygold1rEkgK5VolmifdjJ4YlQB8ZzpNa556qkp6qO900COMJHJC0uNoxx+pwDjyFAP51xdbhPKns1XUMRZmGAlMFLHzjlif80xkUxzf1pKc+OtLe9o7brlS01VBUx2yEyQlir1Fc7/ALvOQFAP3xkcZ40Dr71cayurKzAAkBRkK+F7nA/J88+eNWrW2moygcYCS0XqHdjTIDXSGaIHB2byq7RjuPKoMYx/GlNqudZdJI54aierVFZmQbIpGUZyUOzIxyc/1zq1aXO8sFQhxbTyV//Z
 subTitle: <span class="s1">„Wir möchten Gutes tun und keinen Benz kaufen“</span>
   
 ---

@@ -55,9 +55,11 @@ date: 2012-06-15T09:10:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "3118"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "3118"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EACoQAAIBAwMCBQQDAAAAAAAAAAECAwAEEQUSMSFBEyJRYXEUIzJSgZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAgAEBwAAAAAAAAAAAAABAgARAwQFEiEiMUFhwfD/2gAMAwEAAhEDEQA/AOo6zqrQ3Rjht5H2sUJHGcj0+f8AKrrvVjCgM0PhE46ODz8+1Leu7ahcG2lZB477/tFgWGOme3p703JKrxeI9vJL5sYYMgHTnBJpcxsmFcw7yM2pxygSRh2Gdp2ocZ7jOKcjMYkeRZJCXHDMSB8DgVT3rzRQMEs59xbduRhkjsD0/im7S8lZwk0LQjkbjnvUYblDUvvsTRGTnp3BrNalLFLe3VwySh4CuQsgAbgfrkf3RRQmlKDuvx7hOcYrVfdJRavDb6nLc3sn1KFyMoswx+J48vtU7TNFhtWaSKWUtIBnec4GQfaiimDoAeEwR2n/2Q==
 subTitle: Tagebucheintrag
   
 ---

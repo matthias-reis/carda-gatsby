@@ -32,9 +32,11 @@ date: 2018-06-13T05:09:43.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21242"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21242"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27860666027_13e67c1f41_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27860666027_13e67c1f41_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFAwT/xAApEAACAgEEAQIFBQAAAAAAAAABAgMEEQAFEiEGIlETI0FhcRUygYKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAMB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIDIQARBBITMWFx4f/aAAwDAQACEQMRAD8Az9v8Vglas5sTA1wFj7GMci3fv2TpJL41VtOskkkiMiSRgIQAQw4n/NCqtq626bXGsFk02SD4z8G4Bsnlk/brOm28ySx7jQEauUdZRIVBIX0HiT/bGrssvkAL3d7yKmPxkhKqtZzp+M1KFOSCFpGjdifmNkgkYODoxe8Kq15KkqWbJeqoVCWXGASexjv9x0g8Le9JBP8AqqOtro+rIyOx9dEd+s7kaKLHBccrPPG4UN2gKlT+O2H8HRUkLsvcfN+8M8YRW6fVes2KHkNWCaKNpcuwUqoU5wwBH09jpMu814pK8DvlpmKoB2M6tWj8VRIqbN4Tks0bPoVnng8jo3WdK0xfivMkrxA9h+dHN+8wowrZEsj/ACJRBKFjJw5BIH36B1atDxlExj2dD8zRyGMQk1Zz/9k=
 subTitle: Beton und Sand auf Rügen im Wandel
   
 ---

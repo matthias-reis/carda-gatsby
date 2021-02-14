@@ -25,9 +25,11 @@ date: 2017-04-04T06:33:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16245"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16245"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_23612322742_075bd0233c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_23612322742_075bd0233c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAgQF/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBBESAAUhMQYTFSJBcfFRcoGRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAgT/xAAeEQADAAIBBQAAAAAAAAAAAAAAAQIEEgMRISJBcf/aAAwDAQACEQMRAD8AfIdroqCjWZ4pJJJW9NUV3lkZiL2VQOeAeTawHY1dKTZpKGapMFZnSOiSwuZYpI8ytibsOLMGuCQQD3q29bnsawWn3ClbF1fEKXYlQb2MZBU2+o/o30sVXl9BPHPDR+9blHKQFVgYY0QMDhlI3yBI7KlubXtrgnH4/cITWRliXZ/UjipoJpi8qoryzOVJIJZBdi2QUXsR/msPktfFtPiwb2hYN9dCsirE03o48F8bfL9QoNyCDyNKO++U+STzRwQmPZ4nOSmKT1ZiL9mU9d24A++qbTtz0cL1MdbPT1coOcqOzmX9/YfvnLSxiwp8ZSfxEWvXsZaNIwyjDkMLkHk3/OtW7UKNRyyhmxhkYYHkMR9fvz/GjRpkYOTmZJsQSGVByfl0bAc6h6+TF41UJi3JXi9/xo0aQp//2Q==
 subTitle: Bauunternehmer regt sich auf
   
 ---

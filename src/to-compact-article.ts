@@ -10,6 +10,8 @@ export const toCompactArticle: ToCompactArticleFn = ({
   subTitle: frontmatter.subTitle,
   description: frontmatter.description,
   image: frontmatter.image,
+  remoteLoadingImage: frontmatter.remoteLoadingImage,
+  remoteThumbnailImage: frontmatter.remoteThumbnailImage,
   path: fields.path,
   date: frontmatter.date,
 });

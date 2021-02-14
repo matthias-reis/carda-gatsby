@@ -22,9 +22,11 @@ date: 2017-11-04T15:49:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18294"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "18294"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01921__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01921__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACwQAAIBAwIDBgcBAAAAAAAAAAECAwAEEQUSBgchExQxQVFhIjKBkaGx0eH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHxEAAQMEAwEAAAAAAAAAAAAAAQACAxIhMUERInHR/9oADAMBAAIRAxEAPwBD2VsGwx8DTH5Z6Baahqlybq3jmhhtz8Eihl3MwA6evQ1RNOcMqgH/AGm7ywXuuhatqG3LGRUUeoRcn8vUMQqlAOuVW6zLZKnLjgLh6cHOmxIT5xsyfo1WNa5baWiFrZruL2EgbH3FXdNZkDxZh3I4z4qMHqME56HoD9ayX1yslj2rrsypO0nNNLWnSFzJIxcrl6xnZeox44p38CXAXhK1heNXjlDu4Pnuc/wUUUUA7nz4lyE0j1TskkHZbe6Q7R1wRmtGa/aExMI0aOJg3ZH5SAc4PtRRRkBZU45K/9k=
 subTitle: Ein mysteriöser Umschlag
   
 ---

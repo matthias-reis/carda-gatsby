@@ -29,9 +29,11 @@ date: 2018-07-09T06:10:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21342"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21342"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_29423357478_b319cb9d0f_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_29423357478_b319cb9d0f_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBAYCBQf/xAArEAACAgEEAAQEBwAAAAAAAAABAgMEEQAFEiEGEyJRMTRhkUFSYnFygaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAGAgP/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBREhkQYxYf/aAAwDAQACEQMRAD8AptPZ5Jj6EJ1MXbK0cojnt1IpPyPMgb7E510jxJsO3VKNNIJZZo7EjZR17HBOWesZ7YDH7ao++bJtle3tq1qNRebO3y+XYhvfPtk/0dIrfI13qlO4fpwDEbvfn5Eg2WpMAYtwqN/GVT39/qNTrHg25AnMwyED3GNQINnp23jiv0YmgxCChrgAF4ycAg+n4Z6/DTFzcafhWRTVEk6LK8SVXmfgFIIBIwcAFh1qKs+zMA46mlmBrCkoZvdus0a0rt5lgM8jylZpzjk2MnBA79I0/eg267drW3aRZYV4rwkwCDy+Ix+o6NGipGjFA5mJNOJwyRuSphOTJkHylKp/hOffVS3jw/t12xNNI91ZXbkzCz3n6DHWjRqkJHqSwBn/2Q==
 subTitle: Dänische Fahrradstadt im Sonnenlicht
   
 ---

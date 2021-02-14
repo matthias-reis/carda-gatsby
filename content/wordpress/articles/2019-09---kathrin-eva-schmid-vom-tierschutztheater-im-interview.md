@@ -28,9 +28,11 @@ date: 2019-09-02T12:57:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25898"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25898"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFBwP/xAArEAACAQMDAwIFBQAAAAAAAAABAgMABBEFEiEGEzEUIgcjQWGBMlFxkaH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEB//EACIRAAEDAwMFAAAAAAAAAAAAAAEAAgMEETETIaFhcYGx0f/aAAwDAQACEQMRAD8A4dHPFBaC5cN2gyghgVJG4A0t0nTPVJNMkUvphO8cUjIQHUcgg+Dwf8otNsS+03uQpPH3MtG/hvAAP910bpe6WS+i097c28YU/KaMrtkBIyP2DDHB+o/FdklqJRK8A7MAFvFyeeFQ1DEDYYWXd6SEQkCj93b7M0z6kkez6ihtmnxaytCVT2DhxIhGSdxw6g4APnkij+rxRxn3uq8fU4p9DW6uU2GXWbusCS3jmUNOCyfLTaODy4BOf4NK43ntbqyRrmW4ltZZUWSY7iVQghcfiqqhnja2VzgN7fUMjRnovH4l3kkWoWUwLbuxMoCnHKSIwPjxnHFEerr2LUbtGmtVz2Jgnu/S2QQfvjnj71VVDna0wTAjBZ7CzMNmkdl//9k=
 subTitle: Ein Ensemble für den Tierschutz
   
 ---

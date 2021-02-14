@@ -30,10 +30,12 @@ date: 2017-07-05T15:01:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17044"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "17044"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-8__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-8__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAAtEAACAgECBAMHBQAAAAAAAAABAgMRBAASBSExQSJhgRMUMlFxofBDcpGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAwT/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDEQQh8CIxURJBYYHB/9oADAMBAAIRAxEAPwCEzMqbikEGXPlpJkCNESFZApAHQk9z9NT8uRk4WQHMEUrMhVTIC1dbI5g6Z4MhfFiKFRGpZ2kI7k0qn17+fbXcq02XIrQGNiJBGiR/A2ygCfkfOhZ7aYhNdO/hAyj1dWvtRU+BlSBWSMMjg81rlRrmOx8tBZXB8gGQCWCQoapX8VVd16VWmnGo51ljjyY82KNVC0yqfEOVijXP7eeluXHEzAb8llVQF3BBX8aLmuaacKKTS1wsGwrOXEbDw5HbLYR7uSxgDcxNivXn6aGHEciNQw8NdCrEH7ao3gw8xFXiDbkVrURsQynp1HTQeRwSkb3XJWVR+nMLofuH+HXXhZUUYIfYJ9+4WGVjPkILACEkfNMk6sQXil+JWHfuT9OuiPdcfIwzIBTq21gOdH8rWYuGTx5ciZEfs4yd25GDX5Cv70WZEij2wIFReqlQa/PnqzshktBuz5/OdlYkDo7vQ8c4V//Z
 subTitle: Bestandsaufnahme einer Hamburgerin
   
 ---

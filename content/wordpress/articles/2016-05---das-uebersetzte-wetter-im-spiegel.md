@@ -17,10 +17,12 @@ date: 2016-05-17T08:00:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14708"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "14708"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_13544000085_a21768659d_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_13544000085_a21768659d_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgFBgcD/8QAKxAAAQMDAgMHBQAAAAAAAAAAAQIDEQAEBRIhMUFxBgcTUWGBkQgjobHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAAhESQf/aAAwDAQACEQMRAD8AW3EW/iOhRG8wnaY8z+vmmS+ndVraHIpWjU46RA06lKICSD67BVLzglJ0QoAyI3JHPp0rYu6DOtYnONNXJIS44HDoSVaUJSoLKuEDSeJNQ6RuqdKY7/QzeZ9IUwAlq2bTCkAHcqV7cRS+5q1DTpUnrPmPX1FbZ3o5m1zeaub6wUVWlylt1hakFIW2WwEnj5gj8VkPaA/bAIQICthM8q30u5k5kovFvqYeOkmIJ2MH5q5MXzllhskhjZzZpa54gpKoA5D+NFFUxuVjerc7PsMuDV4a0tNrBgpBJHv04VVs0+tx3SqABtAmBBiAOQ50UU+wv//Z
 subTitle: Ode an die Wetterlage
   
 ---

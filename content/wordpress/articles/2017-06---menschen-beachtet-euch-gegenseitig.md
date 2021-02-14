@@ -37,10 +37,12 @@ date: 2017-06-26T06:14:22.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16924"
-image: /img/demo.jpg
 errors:
   noSubtitle: no h2 heading found - no sub title
+thumbnailId: "16924"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-35__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-35__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGEzEiQVEHFLEjMjNhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCa+nfRN0u8M1wobyy0vphjldmRpRwSTgluCBkeD+E7fZagVVzhZ1LUcUUkyJVkOwb0fu3E7gx9vbVD0PcKOLou8VdvVqWcGYblO3mKBSpGMcbmJ/s86w/pMFqaySqq3Weont/8kpLDCsvLHPnkDPydBqT2rqC4xT22GnZmpi1LVSiSOWKMIiMSGfyxJxj/AHUNEa2aCluslvb7V5VEc01OhWTt8sucHBBUDPke2edUtwugtvUtwltS1dPBU12REE3NNIgXu4PPoO0vz4xqNnpLtd+k5YbQ9PNQUkCV1QiykEFGYMm08MQX3Y+PGg6hb6CGktzW+ExrRsCDHjJOQBySDxgY07S2+jp6Gqp4KSD9dVUkHGAGz4A+caNGgQulqp5LitfLHMahecI4ZcnGSFI9yAdZv3dRNNSd+lggaAvHJItN2zMpyAzBfT45P40aNB//2Q==
   
 ---
 

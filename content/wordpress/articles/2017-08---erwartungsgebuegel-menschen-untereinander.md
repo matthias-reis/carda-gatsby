@@ -22,10 +22,12 @@ date: 2017-08-04T15:30:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17327"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Unterminated JSX contents (44:16)"
+thumbnailId: "17327"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_29394420074_a1e126428e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_29394420074_a1e126428e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEEAQMCBAUFAAAAAAAAAAECAwQRBQASIQYHExUiMRQjJEGBMkJykbH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAQIEBf/EACERAAICAQQCAwAAAAAAAAAAAAECAAMhEhMiMQRBEYHw/9oADAMBAAIRAxEAPwCJw2Q2wpbTVtpAG4Dgat2K7bQ8Pgo2R6qZZkvSWQ4tL8pUeNHvlLVI9bjh9zRofjWbjGO3uPd8WRCzr3wwSoOynmyFKBFJCAaujd8abu4CnuqcZBVGkRnfhSt1ptCw2l+O4ElDibV6lDaQocEfjWbVglR8kTpVViy1K7G0qfcWch23iZkF/pxexZClNrxLin2NqQAtCw762l82CTzdbeb0gDB4nHFLriEOObgQuUrcojn2Tz/mqj2+kz+j5EpxbsZO76iWHndzcZhtJJWvafc3QAN3tH7hqRYvq6PKfyLs9YO9YWwwhv8ATZJqgCTwQOdG+tlDAfUZlqpueoMGA6Pfr91MiDkZGQlyUNFDAZNXt3n3+18D+jqh9OZLM42MGfMW5cNw+KIkyMl5pKuPUN3qSf4qGjRqlzFDxk+Ki2rzzFvul1Plcm/5fIdZZiK+a8xEZDLTyyokKUkcqo2RZNE8VrMx+a8gxcVlphS1L+cVJc8OyR96FmuPvo0aRRuKobMFztOxTE//2Q==
 subTitle: <span class="s1">Nicht wertend gemeint</span>
   
 ---

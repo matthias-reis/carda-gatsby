@@ -26,10 +26,12 @@ date: 2018-02-25T14:55:18.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19879"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "19879"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40237376952_3769f23f31_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40237376952_3769f23f31_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAJxAAAgEDBAEDBQEAAAAAAAAAAQIDAAQRBRITITEUMlEjQWFxgZH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwYB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMhMf/aAAwDAQACEQMRAD8AylxoavqDRHshtvuBGf5Xa20aIxcwsLtoSuFlwu1m87Qc+7BBx8EGrOgXIklV2/f+Vai1J7Sy9Dd3l56CSBbuK3hTcFdkC5JHeDg5H4qVu6UvPpRRE0zK6paQIwCwEAuqn6ill3HAyvkd0ml09UnYY6p0LZri8vbiHmdImt1CyIxcjeDnvsLgGpahGY72RWQggd9Yp8W1grpC3wU6RrHCMMRggj4psk/PDGkt/u44xGrG3j3bR4GQO6KKLtKl+CorVjINKsCkRXm0HG4JEiFsHIyQM/aqmo6k1xcF3bc58knJNFFDzWvWbTzxH//Z
 subTitle: Kreative vegane Burger und mehr
   
 ---

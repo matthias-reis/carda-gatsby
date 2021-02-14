@@ -23,9 +23,11 @@ date: 2020-03-18T10:10:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "28675"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "28675"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAEAv/EACYQAAIABQMEAgMAAAAAAAAAAAECAAMEBRESITEiQVGhEzJhcoH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAgAB/8QAGhEBAQADAQEAAAAAAAAAAAAAAQACBEEUUf/aAAwDAQACEQMRAD8A12+2oQCEx7hmTaxpGFjNba6ToBEmqP4Ek59wtUVtQaQLb5ExJzMAXmqq6B5AJ57Qy7AdifOvLJOtfTukC3G2DSen1CyVF+p5jt8UurWaxZkmTFwpxyMEaRtjbzxGe43KatPrnWatVz2lskxc/sDt/REu1idKzVy+RturtSqC+Yap6kEfYYHJzFFATK3T16lels+STtBNxryUws047k7RRRi7f//Z
 subTitle: Wie es war und wie es mit Corona ist
   
 ---

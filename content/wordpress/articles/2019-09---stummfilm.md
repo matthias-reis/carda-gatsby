@@ -27,9 +27,11 @@ date: 2019-09-06T07:19:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26113"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26113"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAQMDAwMEAwEAAAAAAAAAAQIDEQAEBRIhMQZBgQcTImEUUXHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABsRAAMAAwEBAAAAAAAAAAAAAAABAgMRISIx/9oADAMBAAIRAxEAPwDnrp6wXdOONpTJCNR24+6kXeIeRdaAlJJVHxUCJ/Var0tsRc5RAWmUuKCFT2B2/wBraZXpL2HQ2lBBTeLK5E/KpqtvQ2hQXWIuGnQhbK0mO4qG/ZFEiONyaeuX6Tbx7xlmXtaENoCdyAePO9LDrC3asUqtGlhbgMuLHBM8D6HHimXTC/8ATDN46ybsEvlsulay8qYKUgjSCT/TFOjIdTYReWvF3OjQ0yLkoWsIK1DbxMgfe9FFXx4Zr0wdP4Z3JdYYrMPvu/n2zN5crGjU8JS3BkjsJ3Ec9u9JzrjK45GSWnHI9xJSCHFH4nsYG87zyfFFFFSlPAP/2Q==
 subTitle: Long Distance Calling veröffentlichen Konzert aus der Kulturkirche Altona
   
 ---

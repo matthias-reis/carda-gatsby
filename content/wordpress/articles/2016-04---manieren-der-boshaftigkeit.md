@@ -27,11 +27,13 @@ date: 2016-04-11T14:53:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14411"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:25)"
+thumbnailId: "14411"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26288299651_396f57d6c2_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26288299651_396f57d6c2_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcCBQYD/8QALhAAAgECBQMBBgcAAAAAAAAAAQIDBBEABRIhMQYTQQciMlFhcYEIFBVykbHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAIREAAgIBAwUBAAAAAAAAAAAAAQIAERIDBEETISIx8PH/2gAMAwEAAhEDEQA/ACsoov038MsFPmEPttnbLLGya/aWrK2I87pjNLl9NNl1M1NlaNGyGdpGmAQOqgOAp2D3BsBzxba+GRns6t6E5JNLBoE+YCZ1kbY3mlckt87Xwt8ozCGizCqioqgVVISsgIvdb8jcC/A3HOGihmKTUeKAk8yrkhSTQILQqovBIlyL3IJI8A+V++KrMIxKXYWgrIzpdeQfh+5T4xqusaWgrKRKqmtFVst1KjYkcg23+/8AOF5mMlVFPG7ywrUAAoe4LzRkbAryf8PGJtxs8Gy4P37N1e7Bj39UZY4PQzo2n1xl0rabvoNwtopmOofIjjAWW5F01PEmb529R2IIfbHf7cLhQTqsNz9L2O2M11pXio6K6ao4+3KxqxPJbWgYimcE2ce8de7DYkYXFdRZsVZAZzQr7sRmuEW+wA88fAYeYU9zJcGYWBDqLqCoenuwQKrMQNlIB/rE6XPZanKwII1dqOmVrdknU2vRzqvwQTbbb6440GV1Ecw/PNTRUYuRTsyyamte1yLgecWGSUUj9PVEtAUgapY2MwJEiK20ZtY9th8N+flhNuerSX65lOhoOpuf/9k=
 subTitle: Ein Flarf-Gedicht
   
 ---

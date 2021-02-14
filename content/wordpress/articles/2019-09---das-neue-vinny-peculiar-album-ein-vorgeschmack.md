@@ -27,9 +27,11 @@ date: 2019-09-13T11:31:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26171"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26171"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.jpeg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar.jpeg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQGCP/EACQQAAIBBAEEAgMAAAAAAAAAAAECEQADBCEFEjFBUQZxE2GB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOabcKjncgSPVaT5gmHiNxWDhWLdr8WJbuvd6WD3zdRH6mJ7xJAgDUd6yt1tKPHeo7hd1Dt1MI6QxkjXgGgutseT/aiZYSN/c96VWBtqfJFIzamghYyhBH6q/wAvz3I8tj4lnkMg3Ux0W2kjcAQJ9wKKKCozR9UxmoooP//Z
 subTitle: '"Pop Music For Ugly People" und "Vote For Me"'
   
 ---

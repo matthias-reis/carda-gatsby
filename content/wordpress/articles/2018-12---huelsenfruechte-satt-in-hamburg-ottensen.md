@@ -53,10 +53,12 @@ date: 2018-12-14T16:07:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22966"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "22966"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_verbunden__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_verbunden__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAnEAACAQMEAQQCAwAAAAAAAAABAgMEBREABhIhQRMiMXEyUUJhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EACURAAEEAQMCBwAAAAAAAAAAAAEAAgMRBBIh8CIxMkFRYXGx8f/aAAwDAQACEQMRAD8AYp7BZd2UEdvt9sFrt1FKJBJGgMnuxyDtg5ZgB5yundybY2rXyrR0Vrpqee3yRieSCPgU5Y4qzfDHoZ8jI/eupXNXw2yO2bctlTTUoHE1TMqTA47dYzkkk+T386jrnepLdbJ6cek1ZPXww1MiMvtYAOVIH8vxz+s96Hh5D3TsF3v991SyIIjE+RvTVADzJ53WZQB6+/UgrKioeR6iTkRKO0IIwWOFIzxyD9dau6LclBRPX2ipldbq0iPSGiqHCREquIymGRgR2wbtexnrU1fbZBZrxK1DNVPG+WMTJz9QFzyjYMSCucePOfGqDbG3rSLvenalRqqN0kikiZsJDIvXHJJBBVwfrxrSXJ0DUbH77/KHHHY0jnN1FV+9tyXSlWlrr1WywY7UOEz9lQCf9OkLVNJJW0UDSSGGKRRHGWJVMsM8R8DOjRqsyJjPCAEdxJWj1sYndw5Ifm3Flx7Tk/1pbZUktDXvGWWV6llWVmXA4qDxCjx8nPZznRo1MyGhzHA+i1jNOFL/2Q==
 subTitle: <strong>"Power Of Veggie Love"</strong>
   
 ---

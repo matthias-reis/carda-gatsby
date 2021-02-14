@@ -30,9 +30,11 @@ date: 2019-12-29T19:47:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27269"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27269"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-13__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-13__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgUI/8QAJxAAAgEEAQIGAwEAAAAAAAAAAQIDAAQFESESEwYUIjFBUUJhcYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHREBAAMAAQUAAAAAAAAAAAAAAQACEQMSITFBof/aAAwDAQACEQMRAD8A6Z8Q3kmOwt5eRJI7wRNIFjj7jNob0F2Nn/aSpPGV2uEkyMTvcQAAIIrVhKx+VKf3jY2OCad85H3MPeL0M5MTaVGKsTrgAjkH91MYEv1x0SyR3sLMzda3EhaRiDoMT87XVSivZmfLbprufZurXNZ05iLznl0x0kh7LBm7jArtVZd637kn+ADdUFD1Ip+xUpOSGPubCK/efvXUhRR2+vr9ShSzEenRY6G96Y8GqlaN1W0Z/VM9kOJ02Y5CNprG4jTfU8bKNfZBqJ+E7XxzZYuWK/wN08zXAl1LcIxCNJ6kB6vhPbnXGqKKGo+Y7V1GN+ZwWYuvKnH2lvI0UsbMLwADgkM29n8dcAe9P9pGYrdUb3FFFAY7KqFTCf/Z
 subTitle: '"The Vegan Travel Handbook"'
   
 ---

@@ -21,9 +21,11 @@ date: 2016-02-26T12:04:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "29202"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "29202"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024@2x__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_ASILIA_MARY_JANE_Green_1_1024x1024@2x__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgBBgcD/8QAJBAAAQMDBAIDAQAAAAAAAAAAAQIDEQAEBQYSITEHQSJRUmH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwAC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIgMREjH/2gAMAwEAAhEDEQA/AGprEvJ2qNTW2rLxnB3gaaxgbW0yjgOrKN6g7+gQQI9T981tppXtVZi6TndQ3CEJDrl08AFqTylK9sEEgiAkc/3rmpZuuaenUXFOxbvHOrdQDW9lb5++U6xlEuJdZcMpaf7SG/yBtUmOuvfNbnSuahyV7bZzIXSGQm5s8q86hW5MIS2+opSAPZMA00SFbkAkFJImD2KcXWrBJpupNUfO+NsNmM4ck65ds73A5cWzSkhp8iCZBBInaJgiYooqgHS68dYW61MvMPKuzvdD67MOAMLd4+RTEmSkEiYJHVXSiisB/9k=
 subTitle: Share Happiness
   
 ---

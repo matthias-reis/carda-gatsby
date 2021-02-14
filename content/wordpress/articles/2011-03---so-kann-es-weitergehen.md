@@ -20,9 +20,11 @@ date: 2011-03-01T16:59:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11376"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11376"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABQACAwYE/8QAJRAAAgIBAwMFAQEAAAAAAAAAAQIDESEABBIFIjETFFFhkUGB/8QAGQEAAQUAAAAAAAAAAAAAAAAAAgABAwQF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMSITEEQVHR8P/aAAwDAQACEQMRAD8A4/aPuI4lVmjt7IZRRGKBOTemNhNv1n3UTNFIipSg45lRkt8nB1n7OBOMichCsQamFlRki6xpLY9Kb0xIjKFl2/IK4I7hhjf+H91g6WJoDmDoECM++iicOsftyGYIrAFsXZxQs4vRR3U0k0nqwJDZAD3fHGTrrm2kq9PZHibmcgAWQv8AfvydCyRrFuEnKgB7URk13CxQsedJWo0RBIFz27CTcOvBozJEG4yRg2zKM2L/AChnS21nY9LnaVlUQsYlFCy1eK+fPn41atRY8zq9Dt6gqxG81blljj4IJj2kM90BITgfV+L0H1Bz6SEM6PJ3BiC3GmqvwHOrVq11CAN955jsN5//2Q==
 subTitle: Tagebucheintrag
   
 ---

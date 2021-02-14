@@ -31,10 +31,12 @@ date: 2013-10-30T17:04:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "7547"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "7547"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBAMGCP/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUhQQYSMRMiI2EUodH/xAAZAQABBQAAAAAAAAAAAAAAAAABAAMEBQb/xAAiEQABAwQBBQEAAAAAAAAAAAABAAIRAwQTIRIiQlFxwfD/2gAMAwEAAhEDEQA/AOdbTSruWKB7SVZTKHLRoTmMKcZbIxvxgmsdzbXiF+53IjHc3uxir3SmrrY3DGc+wrvtxmnlve6FqralLfRahClvhop7Yoyb7AyIykkZx4I2NLI7JBHT+haRtrZOsG1W1DkPbPgbP3fobWm3DMYk7x3MowSTvjgfuirDxRv6vzKpXdQVI7v5RTsmASqqtRJMhLpnZ1OTzmm3RX4C9R2zavazXdgqyerFCXDH42CnKAkYYqfB+9qSt4qQWQ5Qlcjg0HCRChlx5clf18Rx6pPFb5ESkBdycjyNzvz9UUvxnzRRa2BCD3F5lf/Z
 subTitle: Diesmal ohne Nahaufnahmen
   
 ---

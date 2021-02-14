@@ -21,9 +21,11 @@ date: 2015-09-12T15:48:30.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "28958"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "28958"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_scarf-255515_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_scarf-255515_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EACsQAAIBAwMDAgUFAAAAAAAAAAECAwAEEQUGIRMxURIiFEFhgaEycZPB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAQX/xAAlEQAABQMDBAMAAAAAAAAAAAAAAQIDEQQhURIx8AUTIzNxodH/2gAMAwEAAhEDEQA/AFNt7bgdZUklWMqOp1m7AY8farltS20+aeS0uDbSAPlWjlX3gDOQQe3NPdzJaaFBZyG0tmnu3MEcxmIHSEZDvgA9gQOce5lGeazLtT4i71++uI7gW7xGQqVXPdFUEeODUooEuulBx9gST7aNS7wNJXUVnYSXHxAQZPtLOCD+aLDWNJuNMd5I7R3tsq4lHpc8Zxj58c1mTccUket3BmneVhCuJCoByF+n35qeszdrtfVLlL5h6LWRCuPkTF9fDH8UWp6aho53vGBLVQl1SSIo1cwLzv7cd/rc85uzEI9LsZbQIileo0hDmTg8EGOPA5/SfNcw2k5jvJSoGZjIW/kA/qiiu5Rl5VcwNqfSfx+hpuidm1B4hhfVCGJ/csKldTmaDbcsceAsgZWHkEr/AIKKKPV3UU5AGLLZjmw//9k=
 subTitle: Konzern startet Kampagne gegen Tierversuche und Mulesing
   
 ---

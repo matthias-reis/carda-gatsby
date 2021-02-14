@@ -30,10 +30,12 @@ date: 2017-04-03T14:23:27.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16818"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "16818"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_35362413535_6f31420067_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_35362413535_6f31420067_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAnEAACAgICAQMDBQAAAAAAAAABAgMEABEFIRIGE2EVkdExQVGBof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAdEQACAwACAwAAAAAAAAAAAAABAgADESExEhPh/9oADAMBAAIRAxEAPwCqhgmZQGtSA/v0Pxk9zXL3qdlkswrEqzBAIJCxdNjTdqOzsbGuu8dx0L5isGeWCZUiJ2ilWRtHWu8yqxdm+sUWsWJXT3k2ruSD8YAbxzRKqqRcjMG6lzyp4+1NDRqwxSW08fcL+REanv8AnsnZzn5Hg1jLJFadUB3qOVgB9jk56luuLNcLI8bLAw6bR15df5jT0Zx31XhpjNdnDtOVP6sAoAOyfvgsdOAQvSEpFpPc0WTzHHOHfZkILkDx2WP4AH9ZFWvS1GtzdqzG9gtAVeJXk2qHy11hhlFvWzLqdl0Axdz3AU7NyerIZlEaecTxSFSgYna/I2NjeNuD4teIoapWJxGrncbv5BjoEk/OGGJbg7GsxIK7x9n/2Q==
 subTitle: Kräftigender Smoothie für Naschkatzen
   
 ---

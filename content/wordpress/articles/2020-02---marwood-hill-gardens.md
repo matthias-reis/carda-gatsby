@@ -26,9 +26,11 @@ date: 2020-02-28T07:05:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27912"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27912"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2019-08-22-marwood-hill-gardens-123__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2019-08-22-marwood-hill-gardens-123__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgIHCP/EACgQAAICAQMEAAYDAAAAAAAAAAECAxEEAAUhBhIxURMiMjNhcUKBsf/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAAID/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAyEEETFBYf/aAAwDAQACEQMRAD8A1piYKzxTRrDJCkY+dm4F+tQtB8Ggsa9oFW3OrxtvTHUc2w4e4x7fLk4mQitGInDy9pFh2QcgH3pPskE+4blNj7fitNnCNjG5u42XkjxSkgEC65/OkdlZHQEA21wpwGZ43Su9Q4wzztWY2NxcwgpUF1Xvzxf50nmgOVn4jMtBmI8cH+Q/zXRHQ+45J2HETKlknkRKPbZeNibPk2RVcDj1WkXWvS2HPC+5Yu2umZGvcwjZvnIB7SavkGuRz51DWFAZfUJfjBVKrLDBky9iQwMsUSgKBGPpAHA/QHGjZcvIg3rNaGGPFgjZrRB96R6Pe1fUT5s+NGjTKxfBl1kc2bJDFMyCGKaRiioqcRknyR7Olm9bm4he8r4ihG7gI6PAo0Dxf9frRo0Co0/Jqxyf/9k=
 subTitle: Verwunschene Hortensienhaine
   
 ---

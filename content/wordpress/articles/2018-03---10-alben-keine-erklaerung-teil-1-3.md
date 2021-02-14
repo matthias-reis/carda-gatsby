@@ -43,9 +43,11 @@ date: 2018-03-02T08:08:35.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19946"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "19946"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_10-Alben-keine-Erkl%C3%A4rung__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_10-Alben-keine-Erkl%C3%A4rung__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACgQAAIBAwMEAgEFAAAAAAAAAAEDAgQFEQAGEgcTITEiQWEUI0KBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACMRAAEDAwQCAwAAAAAAAAAAAAEAAgMEESEFEjHwE0GBkbH/2gAMAwEAAhEDEQA/ALfe0Vx3NZRSTR23RYZManlJIhEH4nkM+TkAg+c/Qxqa9YqG51e8YRooPaoUisCEc+fln696XkdW91inssnKo6+6VXcnKnVQypo0uAMDkzzISjIZIwBiQ841kbv3jK+opL3dqUyEUyU1aXuRElbZxGOMh7wDnGlopDRv8zm3HHyVmagfqcZiYbWyfWAnLpqx+27he6+7NNKKe0tMu/AwC5Fi+P15zjTJ0kq6HdSWLVWNqf0U4lnJ74S4SBMcAED3+PIOpj0f3HOq3be50CFpp3W6YVBrGPIjJiozEiZAk5/A96q9ludXZO5G2Kt6VtMO4AiWTwgID+fvjED+tHWVzJJS94ziy1S6eaeIRtOPvvfSgD722qs97peEohVIeUg2QM8GefIwfOACM6XYVIqtlUC2KEEsyyK1kgLBe08RnJxo0aJjRsv3lVaVI5o2jgg/i2endU+00r7lSTAZNJp+Jj9BtPI/7yxpjlu27wuzKiNVIx5H9mXlYBwMCP1j3o0amqAC9Uxm7V//2Q==
 subTitle: Meine ultimative Lieblingsplatten-Liste aller Zeiten
   
 ---

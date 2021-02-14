@@ -27,9 +27,11 @@ date: 2019-11-08T06:58:50.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26755"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26755"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls-8__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls-8__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKBAAAQQBBAEEAQUAAAAAAAAAAQIDBBEABRIhQRMGIjFhFkJRcYGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABoRAAMBAQEBAAAAAAAAAAAAAAABAhEhEzH/2gAMAwEAAhEDEQA/AMNgRZkjTVyGHWUstgb90lIJJ+KCkfXWJJpdEjastqKhdBaSK/mhmpelpMIwdOjcrVpzSnWb4BJQQSod98dHFnqHTIH5Cma68EuJSErbr2qNcGvoH4zBWk+o1c8+lE06OuRK2eNtW7ityRV/3nRrelyNFdchzmPG8k8gAKr/AHNSa0SKrTgwUx9z3g2LSgApC1GrIHW3KN60lNTJAksqSp1CbUUoATRPFjs3lek0+LEKozuieDrr8FxPjKNlKSULTwQoUQe+R95JquuHUpqpbjbbK1myhu9ooAdk/thhjxE6M43rSSxBZYaajoW0GwHSkqV7N1XZr9R6yuzJvm3BVc1Z+PjDDBSkG6f/2Q==
 subTitle: (Post-)Hardcore in Hamburg
   
 ---

@@ -32,9 +32,11 @@ date: 2019-07-26T11:45:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25501"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25501"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIjJhgRRxUZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAAH/xAAfEQABAwQDAQAAAAAAAAAAAAAAAQIREhQhoQQFMYH/2gAMAwEAAhEDEQA/AGNqtLsqERttxwxHB+9aOC0SbRtjBUfxydc6tlkucVBttF+rWuEQhl2d14oWQoDsBGdpXjB/zTe133qSi3U13uH4EzIojNSVnVsDb6SQpzjnPOTzp1Oyl1NORCyWJk3D0JKFAs5UgFlLAAkeOBrG3noigq3eWsaukJ8I9S5Uc54GeB+tSpe+pqPe8lzoq9JJe4A1N7VwBtXbjA4+fJ1DW9YXR/QLXbd5J9zSqAP3g6O7Y7Dk0CnGemUKFtu1dTQxxQxRJCo9KCLAH9adx9QTSQmKqpKeWM+VdCQfo6NGpRUE90orXXIvbpmt0inPcoZGiz8EeCPrSGsstKuCl1uUaqpyDOSD8nJ0aNb7tTnh/9k=
 subTitle: Aloe Vera Pflanzen im Herzen von Andalusien
   
 ---

@@ -28,9 +28,11 @@ date: 2018-03-15T08:00:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20095"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "20095"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_38472618030_65476601c2_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_38472618030_65476601c2_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwMECP/EACwQAAICAQMDAQYHAAAAAAAAAAECAxEEAAUhBhIxQRMVIjJRgQcUQmFxscH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIxERIhQVH/2gAMAwEAAhEDEQA/AEzp3qf8ljR4u6zt7HFmWXFZ3eXss/Eqt81ccX4J1cW0YcO9bTt+67eoLhSj+3AIN2CSfBIB8/5rnua8gxuwuSQoSpYM3y+L4/rT7+G3Vm57cudhYeB7zx2xZW7GkC9gUEqzXx2iqrjUSxZqbo3t36hztr3WSHKzckQK4gETKDdHk0F5sA/bUR1N1ZjOq+5VE0jP8TSQ0q2QKCmgLJ+Y/b66Vc/e5c/cEysx3EyFnWMgsq+KAP7cn76xSRwZ0M2TlZiuqMS/6l4ogfSvTStqfOA4rXsRcKSWdwvcShvuPrWrr6GysPaNuaNSqNJjMjG+SW82fXRo0E/BkV91dktHlvPhSoVeS2Qpd16g+l6iBmF4jPi0ikkSxXXFUfH86NGrqiFR/9k=
 subTitle: Grachten, Gassen und Poesie
   
 ---

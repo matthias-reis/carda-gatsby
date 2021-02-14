@@ -36,9 +36,11 @@ date: 2019-05-05T13:08:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24056"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24056"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-05-05-bees-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-05-05-bees-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQAhMRITBhQiUWFBgZEVMnGhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAMGAQQF/8QAJREAAQIFBAEFAAAAAAAAAAAAAQIDAAQFESESMUFR8AYiMnGB/9oADAMBAAIRAxEAPwCVdKCltVo/UaiWAvJKixij7iAdX7gVfIwRngr99RKGie6RTS0aZWLdurYhcDf85H21e7zFZrv4eNretgiglIaJ3JEisoypw3Cg7Z9s/GuVrFd6GtVaImG4Uzqs1NMVMckeRn4OQcg/HPGqKq5OUoBLITpPe1/vgRD9Hl6kdbhNwOOoeTJbaGld7hMqOPd+n8f1prBaJZKYNbI1DlASzjG+M4yf9+dLPEtSlNXQvbqKjrquSQJAkyqV7g5AQtnkrvxtzzq4SXUzSk+YWpljWNZTEqhASoOBg/J0u1P1NVyguIcOlRvbGL7Du37BpSnSKFBKGxdOL8mMW9LZHLBUNb0STYIWJf0jg4Oc/XS/xpcLdJGlSVbuZ8uroqxJ0ernbleQPYn30aNbE8kLl1pUIO2SlQIil2ispaumt9XIho3lmdUrpFUd3pADBFJw4YtyQR/J31ts/djuMtXZZYomfMdVEqKohi57iEnk+oEgbHG310aNLMw0GllA+OMHbJ88vBmve0XDvH//2Q==
 subTitle: Bienen auf dem Balkon
   
 ---

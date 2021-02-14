@@ -56,10 +56,12 @@ date: 2018-05-16T15:40:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20872"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "20872"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAgEDAgUEAgMAAAAAAAAAAQIDBAURABITITFBUQYiYXEUMlKB4f/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAIDBf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMRIUGREvD/2gAMAwEAAhEDEQA/AMJtVkNTTxyNLCplJ2IXBbA6nb1Gmeg9IolOJ2j9rZCvJyDY641zKD1fbkuMLy0MkdLFnYwILAkBdzD6HbT5cLhT0UEFXWIyQTkiPhe5nwAc5PLuD/ejirsV/EtnsDUp2HvfkWpPTUQUsY9w84wv+6oVVhG3CKGP8UGtBtVPHcbZFVtUKlE2QskjdcE5AHkHr86juN1tdqjdqZnmcrtbifry7gedbmI1t4irld/NeWYJC6JKiOqeyQHL5II7gjxpqNZBc7HR2+Ztn4m8Qz8RjuJbkCpOAoUYH3nno0aSyKV4Z0sBW1wsSnDdIqOkEKTVTKCSsXFIEZ79OoJ58tVGrI5ZS1W0pQMu5VODt+Cc47aNGoVgtbrU/9k=
 subTitle: 36 Post-Rock Bands in drei Tagen
   
 ---

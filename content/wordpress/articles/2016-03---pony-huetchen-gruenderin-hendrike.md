@@ -29,10 +29,12 @@ date: 2016-03-14T12:13:59.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14284"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "14284"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAECBgj/xAAlEAABBAEDBAIDAAAAAAAAAAABAgMEEQAFEiETMUFRYZEGFfD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAIBEAAQMEAgMAAAAAAAAAAAAAAAEREgIDE0EhIjGx8P/aAAwDAQACEQMRAD8A9PKISmz2Hc+siafaeSS0reBYNAggjuD68ZiRKjIthx1reoEdMkEkebGIddityoTTaEBbAcLjjbzfU3euLHx9DCqro1GHEibGipC5chDaVGhuNV/e8s0CARyCLvOFlNvLdcfeK3lpaAaaDYFgqHFKKvV1xYv4x/8AjWufsUhqRs66itSQgEUkHyDyKsfeBLnaKl8D25068/ex4EijQSL78d80djtu11Eg12wwypzlGZomnSkFL8ewQUnatSLBFEGiMkgaTB05ZXCjIaWUhBULJoCgLJwwwxR3YeSpovwf/9k=
 subTitle: „Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist!“
   
 ---

@@ -25,9 +25,11 @@ date: 2017-09-30T07:00:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17878"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "17878"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_swallows-2637187_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_swallows-2637187_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAKBAAAQMCBAYCAwAAAAAAAAAAAQIDBAURAAYSIRMUIjFBYQcjJFFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAhETYTEyM0GB/9oADAMBAAIRAxEAPwBxhJAJtsBck9gPeONOzHCjo/DS/VHtzw4CQ4AASCVLvoSAQbknwdjbC2+S5dbTR4LlYeYb5x3mmWC4ppbLegfUtjTayV9lqUokgCw8a9VJpsalx5efV0uKtDinGYzcgtxUoISE2a2C1Hz0nvbfDXnKTiugLaSTZRn12ZV5EByn802pbpYQKUjmFN3UA4HZF+CiwAPTqI33840Ay3JMx8pqKmIC0LS8ppJVMfSb24kpRukC/ZIA2xWi5jkS9UXKWW5Tsds6DIlI5GOgkdJCSNa0/uwBsPYxXdybUa6y0c5Vt6TsrXCpt48dJ8AHusbb6hv63vtcna0wLjOVTbqbMpDDDkeRHrMmLJkrfLrktTbSLLVcWSLLICQLAAYb+VMs06A0zU+GqVUJLTLwlS1F95ocNNkpWq5A/lhfwMGDAQ5ZeCy2I0bhKj1KKj7N8Qt7wYMUk7P/2Q==
 subTitle: '"I like birds" von Eels'
   
 ---

@@ -32,9 +32,11 @@ date: 2020-03-23T15:23:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "28757"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "28757"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-36__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-25-gibraltar-36__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKRAAAQMDAgQGAwAAAAAAAAAAAQIDBAAFESFBBiIjMRITMlFxkRVCYf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEBv/EACARAAICAQQDAQAAAAAAAAAAAAECAAMhBBESEwUxUZH/2gAMAwEAAhEDEQA/AKy4w9b33X3WiplYSpzyQUrSSMabKBJ3x87VJ4atD715kTkoVGieIF12QrmaOcHl3OwGdq0WzswLtFTGuDYPTI8DgycdtMd9BSdyy2/iLia5Wq4PvtWe0oHlJ80pC3ykHQ/uoJwcHPehxV2Pn9iyMApA9yzSrclNggPJSQGumTupKtQfvT5NIJ8JDjZ5NMd85zTHgKcqTw0/a8OPNxASytQBIKVnpZJwSAB97gVMnsocsbdxiPutdQNutrSknUe4rSeO1ChOpjkGA66luZsAxKcGZFjdYulumNTUOqDKmX+mQCM5yMgq09ta5i5OxQ7Mt6JqFq8Mh2AHU4MjUKcQo+sEY0GP4KKKDZ+BwIrWSRvFvCN0mW6E9PXyNuXBWG+yighOVBPsDkE6ZNaVIkwvwEGJMQMKy8pKiR6dBnBB3P1RRVdChbzt9k+oPKoEz//Z
 subTitle: Unser Besuch auf dem berühmten Felsen
   
 ---

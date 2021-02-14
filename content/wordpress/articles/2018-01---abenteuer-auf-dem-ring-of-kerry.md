@@ -23,10 +23,12 @@ date: 2018-01-03T22:42:42.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18770"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (53:55)"
+thumbnailId: "18770"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAgEDAwIGAwEBAAAAAAAAAQIDBAURABIhBjEHEyJBUWEUI3GRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAbEQEBAAIDAQAAAAAAAAAAAAABAAIREiExQf/aAAwDAQACEQMRAD8AzG2+Jt4jIK01CEzwnln/ADOc6bOn/FW4NfKZa6BDQvGY3hiJU79ww6knvzjBODrHOnKG43irSltlM1TKOSq8YHyzdgPs6ZOqLHWdN1UNNcjC8ckQeN4Msu7JypyB9/8ADqxkPUmvt1ItYkkaPDUnY6hlKyMSQffA51W1092jRpKGS6be+9WaNP7knWX2br56TwyMMdVLFVwSC3iYr+3DKW3KAcZVfSCfo6h2iupq+xRuJaiVQPIEdbn9aIFXYuDgjA799SckfZ9CUXoqdLFaI6emgjZiBJLIeGkY+5/g402VVyo615fzbZFNuhEZy5GFJB4+Dkdxo0ayK8qlQ1MFMwp0t8clHTqzzTJ5nmNKSuMbiPTwvt86K/qaR6H8YUkCxIPSAOAPjGNGjSuTC3//2Q==
 subTitle: Irlands windigste Straße
   
 ---

@@ -35,30 +35,33 @@ activity('wordpress', async (l) => {
     const picked = await activity('pickArticles', pickArticles)(json);
     return picked;
   });
-  const articles = (await Promise.all(filePromises)).flat();
+  let articles = (await Promise.all(filePromises)).flat();
   l(`found ${yellow(articles.length)} articles`);
-  const articlePromises = articles.map(async (article) => {
-    /** ARTICLE PIPELINE **/
-    let m = await activity('extractMeta', extractMeta, false)(article);
+  const articlePromises = articles
+    // we only want the published ones.
+    .filter((article) => article['wp:status'][0] === 'publish')
+    .map(async (article) => {
+      /** ARTICLE PIPELINE **/
+      let m = await activity('extractMeta', extractMeta, false)(article);
 
-    m = await activity('subTitle', subTitle, false)(m);
-    for (const i in m.lines) {
-      /** LINE PIPELINE **/
-      m.lines[i] = await activity('headlines', headlines)(m.lines[i]);
-      m.lines[i] = await activity('inline', inline)(m.lines[i]);
-      m.lines[i] = await activity('blockquote', blockquote)(m.lines[i]);
-      m.lines[i] = await activity('links', links)(m.lines[i]);
-      m.lines[i] = await activity('images', images)(m.lines[i]);
-      m.lines[i] = await activity('lists', lists)(m.lines[i]);
-      m.lines[i] = await activity('gallery', gallery)(m.lines[i], m);
-      // metadata = await activity('cleanup', cleanup, false)(metadata);
-    }
-    m = await activity('concat', concat, false)(m);
-    m = await activity('prettier', prettier)(m);
-    m = await activity('verify', verify, false)(m);
-    await activity('write', write, false)(m, OUTPUT_FOLDER);
-    return m;
-  });
+      m = await activity('subTitle', subTitle, false)(m);
+      for (const i in m.lines) {
+        /** LINE PIPELINE **/
+        m.lines[i] = await activity('headlines', headlines)(m.lines[i]);
+        m.lines[i] = await activity('inline', inline)(m.lines[i]);
+        m.lines[i] = await activity('blockquote', blockquote)(m.lines[i]);
+        m.lines[i] = await activity('links', links)(m.lines[i]);
+        m.lines[i] = await activity('images', images)(m.lines[i]);
+        m.lines[i] = await activity('lists', lists)(m.lines[i]);
+        m.lines[i] = await activity('gallery', gallery)(m.lines[i], m);
+        // metadata = await activity('cleanup', cleanup, false)(metadata);
+      }
+      m = await activity('concat', concat, false)(m);
+      m = await activity('prettier', prettier)(m);
+      m = await activity('verify', verify, false)(m);
+      await activity('write', write, false)(m, OUTPUT_FOLDER);
+      return m;
+    });
 
   const parsedArticles = await Promise.all(articlePromises);
   l(`parsed ${yellow(articles.length)} articles`);

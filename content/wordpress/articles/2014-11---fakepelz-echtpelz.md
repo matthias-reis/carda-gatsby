@@ -30,9 +30,11 @@ date: 2014-11-28T10:22:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "9303"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "9303"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACsQAAICAQMCBAUFAAAAAAAAAAECAwQRAAUSEyEGMTJBFCIjYXFRgZGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAf/EABsRAQACAwEBAAAAAAAAAAAAAAEAEQIDMSFB/9oADAMBAAIRAxEAPwBB8P8Ah2O9at0tyshfiJRZaSuCp5A4CAkk47Zz28tNmzSNe5xSpdiTEiw2GQ9MMpIDMWAJBx7d8HS9ItmcPKVsxLgj6bdPkv3AIzqTb9iK1Uc85rdW18pc9VnWQDGex5YIPb76TFDpCRb9qXEO47w6y0LNGsltgQjrCqKxXzCn9T7Z1HY22rfpSSXlEq5HFTj6RwCVb5iWAPkcD7jW3e2638PNbvySqwYN1GUBkYYAIH7DuBjWZvMsAs9LmztxngJ6eXA9an2JHf8AnUbDK6i66CK1KV5oissjkFiuFPEYyR7DP96s/D0zJut2JCwDQI+eRJBBI/3Ro1ePSHG+2Z7ex3LU7wkRoR0xGQH9XqPLvjtjyx+Nc9NmUSdN5ZWVVCsA3EPjHnj86NGn3dJj9n//2Q==
 subTitle: 10 Fakten über Veganismus – Teil VIII
   
 ---

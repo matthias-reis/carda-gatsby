@@ -29,9 +29,11 @@ date: 2018-07-04T15:12:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21320"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21320"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Urlaub__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Urlaub__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QAKBAAAgEDBAEEAQUAAAAAAAAAAQIDBAURAAYSITETFCJBUQdCYYGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIRAzESMkGR/9oADAMBAAIRAxEAPwCN2U9xud0joKFKKZ2TkDNIYxkLkrnB7/rVhcaG4Wya3tebetDTS1cMPuYJ45l5FxgdEEDzk8dJ/wBJa6ntV5q5IqVKyvQZCZIfjxPP0hnBI/B8jxq8n3PFuhHhobTV14aEYh9MxdvKilgST2vHIx/J03i09GlTqh7bN0NWTTRXOjkt1UrNy7EsTfI9qynOPHkDTV6unwGMsJH5K62MsXuZOKKoLsOlA+zqX2u92nq9xvc6dqekkuBNGHC5ZAOJOB4BwpGcnz3pUcslsF479OAU1GktzsoDyRNP6TM8bcWBYqTg/Xk416H3htC2S21zyrFemmSSNvcuxDK47+RIycYJ0aNU5O306tD+dQ00uR+9v9OswiEeVDMQWzljk9460aNRBn//2Q==
 subTitle: Jetzt geht es richtig los!
   
 ---

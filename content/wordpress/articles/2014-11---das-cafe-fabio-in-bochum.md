@@ -23,9 +23,11 @@ date: 2014-11-15T15:50:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24478"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24478"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_cafe-fabio__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_cafe-fabio__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYBCP/EACsQAAICAgIBAwMCBwAAAAAAAAECAwQFEQAGEgchURQxQROBJFJhcaGx4f/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAgT/xAAeEQADAAEEAwAAAAAAAAAAAAAAAQIhAwQRQRIysf/aAAwDAQACEQMRAD8Akdv792vH5XK16K4yKvTtzQhvpfNyiOVBJYn30B+OZTA+oHZsp27FVMjnFenPaSN4IqqRq4J14khd/wCeW/qTery3st+pI4DWZgAihN6c/H7/AL+/FxgJ2j7Ph5UMwVbkLHy029OuvfmIXPRS8M9O37tw5GSvJmbFYtK6r/ESALon43/znJ8fn61NsjH2CaxUjniGoLrybUuAxJ3oa39uWHYOufR5f62uXkqPOf14/clAW2Sv9P8AXFj6T57sk3bWxuRW/NRhmmrMjEtF4A+Kl1A0v2YgnW/b+5CmKVNX9Fq1V4pwuV3gh5z0wzuRvWJTl8YySyPIABKrDbFvgj88z7+knYqVutOt+jKI5kdtyNvQcH+X4HDhxyLYRaHrls33arPZir9RS+olcxypfii8l8j47DMde2vtxX5GTvmS7/Qr3cBFTWSeuZI61qNdoTvZYSbbQB9iPwdAcOHILbw/bJ0vc1GYSR//2Q==
 subTitle: Vegan essen im Ruhrgebiet
   
 ---

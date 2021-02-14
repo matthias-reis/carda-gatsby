@@ -22,10 +22,12 @@ date: 2016-04-06T14:05:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14366"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (24:12)"
+thumbnailId: "14366"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26245592326_95d83b2957_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26245592326_95d83b2957_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBgEEB//EACsQAAEDAgUCBAcAAAAAAAAAAAECAwQAEQUSITFRBiIycaHRExVBkbGy8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABwRAAIBBQEAAAAAAAAAAAAAAAABAgMREyFBMf/aAAwDAQACEQMRAD8AsWHdKtR2kgLSSBv3e9b6cBAGjvofesYhic5h/B24ESO829MDMpZuS0yULOYgHQ5gkZtvvT9iUjOn4kdvKB3WJud9vSlmk+hwxXCvuYBcaPkeQNKcU6RMhpQMtQvykkV0lpyH8vbdfgozKsNFHkjW9uOBVVT1HgT84JZw+QH3ilm5JsPHa4zWHgP04pRnUe0F04+MjFcdfQFLbia8tKJ/amrKUqbOVtkJF7DJcfmiisKkzbZWJyguMyhlLhUytSnAkjVJ0NgeO46UomKKEdoSPIAf25ooqzIn/9k=
 subTitle: Frühlingsausflug an die Nordsee
   
 ---

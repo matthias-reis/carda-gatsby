@@ -29,9 +29,11 @@ date: 2017-11-20T17:54:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18534"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "18534"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Heu-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Heu-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QALBAAAQMCBQMDAwUAAAAAAAAAAQIDBAURAAYHEiExQXETFCIIYYEWMkORsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDMRMhQf/aAAwDAQACEQMRAD8A3qfT851Ge6aLCoblL+K2pUmQ4gqQQDtKU3O4cjoBhSRqTmB6emmwKI0qeX1RSwGFl1Lo5CShSgeRc3+2Oj6e1dDtMDTawC0n9nS4tfxjA1FVGTnnJeYUyExnROTGkPE/xHuojk7RuHg4uaTWyhijdNCZHy5nXUp9mqofhQkMqCUpWVI+SVWsEJ3dD1JsL8eNHOOWcz0hcr9R15uVGTHLjcaIAgLVzt9QbQbAi/Xm2GL6fZTcPJkksWJ94/uUo3JsohJ8AdvucLOoVbC4slTy1OSpLylKdPBsLAC3i/HYDGUssl1ezVY43oTtPNSYUFUSI+t1lZ2t7nRdHYckdAfHnFfVesCRT00u6FBuWHErQb2SSeT/AHbBgwmqYUyvkHNK6DSPY+slIeU8Ugq22sq3P+/nEMzVczokcsLSfUK3Cb/njBgwJJN2NPw//9k=
 subTitle: Herrenlose Pferde in Irland suchen Heuspender
   
 ---

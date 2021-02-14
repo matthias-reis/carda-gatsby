@@ -29,9 +29,11 @@ date: 2019-02-19T15:49:51.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23540"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23540"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAoEAABAwMEAQMFAQAAAAAAAAABAgMEABESBRMhMQYiQVEyYXGRodH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgT/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADESEFMZHBEhMU/9oADAMBAAIRAxEAPwDaxIwsOKooji3VcYnQqj9LSlYqViL4oFyfsBS5hgiS2293auNzDcx98b2v+6nzooKTxV/ZZWEvNMyUSFtoDu6pCgCL8DG/RPzUbVtQ02G4pmbPix3gArBxwJVY9G1SHAF2xK8CTZczHxvK9TUn0M6YyT0TuuW/qaTk6p5jKcmuM63Hhp3LR2kRxipPHqvypI79Nzz+aKK0ehW3vzMv0Ou1uIw+w1JChqOveQTFKPIK0JQR7DCxH+1j/MJDDetstRi9stx2Wwp5WbiseyT8miij9SoolIMozfoxLSqz1KxVji3Yn//Z
 subTitle: Ausflug ans Meer
   
 ---

@@ -37,9 +37,11 @@ date: 2011-09-07T07:34:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2623"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "2623"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBwgG/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBBxMUURVhcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESIRMigf/aAAwDAQACEQMRAD8A09XU3zKKopjLNCJo2j92FtrpkY3KfBHg6jOj7Z+LsFNCa6urmdRK01bMZXJIHAJ7D6A1NjuNK2wAW+mQHJSNVP6wNByuSoazWo8Sfq+/ozo0AhgCCCD5GjTAKNWBLqlGy4MkLTI33tYBh/W5f91nX1Avc/RfqBfqG01dOguKL8n5UoBZJQxYJyMOvGCewbVz+oNzt1BTUwnqZobor+7SNTAGRDjBYg8bCMgg8HxyMij7/wBPx3vqWS+3eaCrknf3BTGHbGj7FXgljlTtB2nzqdw60Vx9PZdfpPT0VH0FaZaSqMsVdEtbl2A2mRQdoGeAO385OuzBBGQQR9jnWZKgsiqiMCwwOAMAeBxqV6ZuNdbLgtRRTyRbRhkLEhh9FexGqqUlpGcuns//2Q==
 subTitle: <strong>Erst bist du auf die Welt gekommen, dann hast du dich
   verliebt. </strong>
   

@@ -24,9 +24,11 @@ date: 2009-05-19T15:36:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11222"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11222"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Bradstock__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Bradstock__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QAKRAAAQMDBAAGAgMAAAAAAAAAAQIDBAAFEQYSITETIkFRYYEHFHGhsv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABwRAAMAAgMBAAAAAAAAAAAAAAABAgMxBBIhEf/aAAwDAQACEQMRAD8ARVoZkTJiIsCO7IkrQVBttOSQOzWutNh1LHcUpFomKSe0q2gfPaqyunrubHe4dxS0Xg0VJU2CElSVJ2nGeM85+qcNp13p+dC3LmJjkpwWpSSg/wAcZB+jULwxftFYzXja6mQlaSvzVmduSrcsQmUF1bqn2sBIzk4Cs8e1PDQ7Zb0fbIT6m/3YTAjyWkrCi2sE8HHxiqCfqCJN0y8LE824JHk8dGFbcd5J7PeAfar3Q80SrXKcU0AsuJ3vJAAdXt8xz2SOO/ejh08dtBzZ7wn9OSZNwdajuRUlHgyEhS9w5yDwQfSo7evMR7KckZwR6UUVZ6MLYz9K3jb+Ly4op3RA+dilYDhSSof6/qqvUGq7ta7sYltny4keMEFCGHMJUtSEr3KB77AwcjAoorNSl6Cb0f/Z
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 15/17
   
 ---

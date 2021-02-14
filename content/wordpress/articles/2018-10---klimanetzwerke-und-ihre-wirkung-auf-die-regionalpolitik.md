@@ -26,9 +26,11 @@ date: 2018-10-16T15:50:06.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22423"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22423"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_11669229234_dfef7df904_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_11669229234_dfef7df904_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQj/xAAsEAABAwMCBAMJAAAAAAAAAAABAAIDBBEhBxIGIjFBBRMUMkJRYXGBobHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMFBP/EAB8RAAEEAgIDAAAAAAAAAAAAAAIAAQMRBDESUSFBkf/aAAwDAQACEQMRAD8A14RPMGk3Pa9gtCCileMWNuvMMKSmqYg2zj/FZFUwd5hY9iAqEueTNQJA41+SVEdFd23zGbuuHg4ThRAe0oYnwM8SDoAwAwc2xliebBwPktSOS2Qx33UqbMlva1BCHtcxR6kcSMJ2y0QHw9MLD8qiPVLiSMXJoHY705H6chCZd7SWJ2TG6v8AjbHmR9LRueWeWLbwOt79Uip1T4nmaQyajhDh7lOCR9C4lCEeI9N8RYy7X//Z
 subTitle: Neue Forschungsergebnisse der Universität Lund
   
 ---

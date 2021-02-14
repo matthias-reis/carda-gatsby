@@ -26,10 +26,12 @@ date: 2016-11-27T19:26:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15367"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "15367"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30456563464_a16fb6791b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30456563464_a16fb6791b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQIE/8QAJRAAAgEEAQMEAwAAAAAAAAAAAQIDAAQFERIGEzEhMlFhFVKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxEhMUEy/9oADAMBAAIRAxEAPwBfgsUJOJYelUtxFjcTaGXJ994ZFSNUWIjbtoAIVGyxP3WnT/DtLrVSfWAml6nhs7WG55pcRXjiaXaBR6cgObAAhvPEe7wKyyVtbRWVVN89S1tEsMlBZz4tClsWeN1dSr7BIKsCPQggil+bxSrGSAPFY6H7lraNDexyPdfkJJpJYW4x6k2y63rajxrXkGmeduEEJBI8UYhGxZ9g/TqR2Nv5Y7div6/NMLmxtcpkL25uY3R5So5RSFGGgR7h87/g+KKK3hOmyhhxFu6WSyad+4xllZyToDyT9UjzWRmYEE0UVOja+so6Cf/Z
 subTitle: Ratet mal, wer die neue Textchefin ist...
   
 ---

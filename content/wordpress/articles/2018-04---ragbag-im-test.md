@@ -36,10 +36,12 @@ date: 2018-04-17T08:11:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20519"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "20519"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41472283612_5a6c8b5255_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41472283612_5a6c8b5255_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgMI/8QALBAAAgEDAwIEBQUAAAAAAAAAAQIDBAURABIhBjETIjJBBxQVYYEWQlFxgv/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACQRAAEDAwIHAQAAAAAAAAAAAAEAAgQDERIhQRMiUYGRwfDh/9oADAMBAAIRAxEAPwC49Q9O/qczUU8jQR08SGOSNQ+JWbcSVPsFRB/o686dY2Cht99ktF6q6bbC3h/MquxkI43Ad8HPbJGf61Vuqb8KPqi4RVVY0Mfitty5RMAKBkj37aQ3S708sBEFbQvMf2Sqx3cnPm757c/bUb51iQG/eFsta0Xy7fFZb4a2+G31Vxlttf45jjQo/h+VZkmWSJsj1L5CDwOG1Yrz1dUy1maQ0RtklODHCzFZ0LMUDMNvbcCOCc4HbU++tUU1NGJnppWJ2s0UbKA3PGfxpz8Rr2On6qSGoprclJbpYlgen3jw43DHY659RyTk57ZwM50seU6sTkLWWK/DDAWnUpT1XUvV3ua5UtFNXUVVyJY0V1jfaAwPPHIzpFUdR0tHOI6hDFtCiQTTQxOueeVPPI5++jRqeRGZmT19qijUdZdbneWtlpF1lpKuKlLK0c0iBo2z6cFfc/zrG9R9aNU26Cnpn+UBLPIzKXdjgMODk7icksTg5/GjRpI1MU2cu6CWczrt+L//2Q==
 subTitle: Faire Taschen aus Teesäcken
   
 ---

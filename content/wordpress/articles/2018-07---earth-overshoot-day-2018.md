@@ -37,10 +37,12 @@ date: 2018-07-31T16:30:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21509"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (84:49)"
+thumbnailId: "21509"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_forest-fire-432870_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_forest-fire-432870_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwH/xAAqEAACAQIFAwMEAwAAAAAAAAABAgMEEQAFEiExBkFRExQiIzJhcYGh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMRMUEhEv/aAAwDAQACEQMRAD8AS5Zl0tHTGeZXDyxPJptwLiw8X3xYJLTL0/IJI2JQF1s5uO9hhHTdX5fTZRBDmEcslWsBV9LRoDsPsN9z+sIT1Vl0FA9ND6ksciEWnspRydwTxwTvidd4JYHUbalVVxvs0PP+oRneW5hJR63p0YhbjQ19Ci24HFuTzjF85p5Y6BaxwPrfDi25sTf87+cUVHnj0lNXR0tLU1D1T3QNZkBJIG9+LHz4wk6kroKfKJsojEsjPJFUEtuYnAYOpHHcDY9sZtvB+QvsKq1IYscGQ7TNHCC7PJ6a2TUx2/1/xhnFRe+yz3TMiNDIgKLH8XDrqsf5H94MGIWEr6InU5T11RVmQTyH00Q6Y0AVVsL7AfrDfLmirSlDFTQw6lZmlZdbWHbfbBgxOwAA45Dk/9k=
 subTitle: Der Menschheit ist die Sicherung durchgebrannt
   
 ---

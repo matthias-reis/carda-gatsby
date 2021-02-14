@@ -33,9 +33,11 @@ date: 2020-02-05T08:15:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27502"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27502"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Design-ohne-Titel-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAwIEBQUAAAAAAAAAAAECAwAEBQYREhMhMUFRYXGBByIzQpH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEEIiH/2gAMAwEAAhEDEQA/ALvp7T1u8K8Sr28RU6+GtIQAIwfXbpRaGCyt+aZU4QPOpJM/i5tP3TLLG/IgaeQDfwcL7ePfuKFL2sGgyPzLWcIjMYCB4w5gKof226V0fS8BiJCKR7Uu51fj7bEXc8kjcELLE0rfjXcfaoPmQQdvKqnkPq1iLW1ISbmMB2UVcM5hslazKNLapu8rYRR3swPGvXh6VcobKO2tpVtLho1uIuXKqt0ZSQSD8gH4oooX8Ni/BFT2NaNsliYZraXmzF+LYsu/QkAAbj02H8rGtW38VlkFgUgqh37UUVp5GLE7B6EGif/Z
 subTitle: Interview mit Alice und Hendrik von Unstumm Film
   
 ---

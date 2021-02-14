@@ -28,10 +28,12 @@ date: 2017-09-23T14:22:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17904"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "17904"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAgME/8QALRAAAgEDAgQFAgcAAAAAAAAAAQIDBAURABIGEyExBxQjQZFRoRZhYnGBkrH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAdEQADAQABBQAAAAAAAAAAAAAAAQIDERIxMmGR/9oADAMBAAIRAxEAPwCN2uPbCxGB6IH5EYOrH4C8LUF9s9QbqJ5oRVuvl/MyJCfRQ5KKygn26+2pJZzHLSlDkjlgE47dwDp68NuJKWzWrbO8ylpTMNikgZQAdQR10Z0cc8IppCuUmWziDg61pwBd7daLfa7fLVrLSJOtOibS8+wFmALEAH69hqJv4QlHZG4mt2VODiinxpoq+L45reIvMVh3SiVdyEg+puBOWxnv86XJuN69ZXC22lYBiASp6/fTjbR+K+k3nHZsmJut6NUtRcLZBVMECtsi5XMx1BblYyc9c+/vrKC/0cRKSWKSJCclYq2QY/YMDrfSeYjx5S4SL+icCVfnvoslyrVi211shrIfd6chj/U9dbMSJ2wY1+sc0YDR3mncYwOdHIo+Qp0Oa627ccS1ZH1KR5/nRyWXheuBSaNKac9xIrRMD/n31y/hyxt1WdsHqMSrpqPYeo//2Q==
 subTitle: Ein sonniger Tag
   
 ---

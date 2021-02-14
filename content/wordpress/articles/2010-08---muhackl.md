@@ -27,9 +27,11 @@ date: 2010-08-06T15:27:18.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11532"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11532"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_08_hassliebe__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_08_hassliebe__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEFBgcICf/EACsQAAIBAwMDAgYDAQAAAAAAAAECAwQFEQAGIQcSMRNRCBQiMkFhJHFy8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCvOoW76Pdu79yXOeqhbFVLFQSsjF4IolAjeNgw7c4JHHLNzrTXw6b9k3z0+pnuMwkvVB/HqyfufH2SH/Q8n3DawFLKXLEZHccsP3qa9L+oN82TeRJZKmKBZ19GVZYRKjAkYJXIJwfHPGT+8h0Z1QHxc3uIdOaKnttXC8st09KQxyAleyGQsv0nhuVGD4z/AFqi6HqpvPbt99C3Xp5lnWV3NUhlQtMQ7uEZiOCvHt9XudQG63admq0mYOamY1cnbEsaeo4IOFHCjB/GPGPbQP1m3ltylskFJXbHt9ZWw0/oGs+YKM5y572XtILfUBnzhRzpg3ReLfdtwQ1lnssFmpgka/KxSGRe4eWyQDzo0aBbg5eqojIS8pDAufJwf+6arg/qyliACFGcfnnRo0H/2Q==
 subTitle: Neue EP von Hassliebe
   
 ---

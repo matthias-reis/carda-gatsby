@@ -19,9 +19,11 @@ date: 2009-06-08T15:15:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11385"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11385"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite21__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite21__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAQIFAwMFAQAAAAAAAAABAgMEEQAFBiExEiJBBxNRFBUjMnFh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAAICAgMAAAAAAAAAAAAAAAABAiEDERIiMf/aAAwDAQACEQMRAD8A0jK5mlmIJ2COd/4cRHqVmz0tFp2mghinFZJYLDIHLMVAVVHNmDNZuNsVdBmuW04kDUuoomIMYMmUSMASOe0m4xi3rVR0k+e0NfR1dZJI9IsMjyUj0qLJHt2K6i22+xNri2LNqTo5wpWMZ4ZZa6IULI9axY0z9oWMXBmqmuNlspCE8Bb+MR88TakzKDTWk0IyqnKmeqKke+VJ/M/wo6mCL8H5Js/mgzLUFQ+TZdMoeWGJ83zFl6IYowo/EpsOwebfsRbgXLnTkFNmEE2RaHVvtsLdNVX8NUt5Yt4X+bnxYcxA6jWOuIKelnSbKnjmXZmoxufPD7eMTurk1RrCWOXOTQ1UCRutL0k05gDkdyrfnbbqvzgwYkuvhrEuTsrm9UdSwP8AT1+S5VKqgrc1MnU1lNr8gk2F/wCnEvqD1Wz+vy36fKMtpsmUyJ7r0x9xnDX47QF/Xc8/7gwYBrTP/9k=
 subTitle: Wegen dieser Dame stand die Augsburger Kunstwelt Kopf
   
 ---

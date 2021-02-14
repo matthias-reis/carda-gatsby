@@ -22,9 +22,11 @@ date: 2009-07-05T20:19:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11419"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11419"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_07_9825435906_7ea22de70b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_07_9825435906_7ea22de70b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYI/8QAJxAAAgEDBAECBwAAAAAAAAAAAQIDAAQREiExQQUTFBYyUWFxweH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQADBv/EACARAAICAQMFAAAAAAAAAAAAAAEDAAIRBDHxEhMhIlH/2gAMAwEAAhEDEQA/AOe7a3DsABvWr+HIIvAwXzXsHuXlZGtCpDqoAIfPBB3GOdqq7Fo4iNgz9Cnb25YRq4USMDj5cgDH8rcKRRdD9gdmWtcAbRNrJ0cTRwN6BchDIgYHHR6J3Gae8b4gtbtM7RKFdV0s4DtnO4XkgY3PWRUkZeXycrQDTaoiqwycatAyADvzmnRJHHvkZH3plogtleuU6pbRY1G0x9qyiVyOSBk/Xmrm0lt3UQ3MywiR1XWWwQMNnBOw63NFFKWEhBI8cwtGO6MjPErbe5lkuvXbCR4ICq3X7/NMPeADqiiitNchWBIwe2Z//9k=
 subTitle: Von Anajo bis Tito And Tarantula
   
 ---

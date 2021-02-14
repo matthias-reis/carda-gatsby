@@ -29,6 +29,8 @@ query MyQuery {
           subTitle
           date
           description
+          remoteLoadingImage
+          remoteThumbnailImage
           image { 
             childImageSharp {
               fluid(maxWidth: 400, quality: 70) {

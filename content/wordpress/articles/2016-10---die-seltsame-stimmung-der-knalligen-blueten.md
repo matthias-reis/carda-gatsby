@@ -25,11 +25,13 @@ date: 2016-10-02T12:59:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15259"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:35)"
+thumbnailId: "15259"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcI/8QAKBAAAgEDBAECBwEAAAAAAAAAAQIDABEhBAUGEjETFSJBQlFSYaGx/8QAGAEBAAMBAAAAAAAAAAAAAAAABAIDBQb/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQIDBAURFSEx/9oADAMBAAIRAxEAPwC6Hi2oiQlkV0x9v8pul2aNRfoIm8diCB/azrRct1un5ZPyGX22WabTiAwpJOEsABhbH8Rmo/l/MeS7luy7lsm/LtqiJYRo4nfoDYhmyljfzkXFM7mKXoLq8kvlG0HZVmjQsV7LkspvepWCBYoUDNZQLeK56j5ly0RpG/JPUmFuzJc48AYUZx5tmpfZ+bcyhjnX3mKdGk7K2r0PrWAHhcqQDe/z8Ue9yxV9ERo8k+lETUDp8JMpI/QANPjkjRD6knUkXIJB/lFFc855NF02hkm46TSspCKSfqW1jY0uTfy6OQ5BGFxbH7ooqSxordM//9k=
 subTitle: Gedicht zum Herbst
   
 ---

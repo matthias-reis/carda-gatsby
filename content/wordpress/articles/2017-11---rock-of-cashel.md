@@ -33,10 +33,12 @@ date: 2017-11-16T08:01:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18483"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (84:83)"
+thumbnailId: "18483"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgEFCP/EACkQAAEEAAUDBAIDAAAAAAAAAAECAwQRAAUGEiEiMUEUMlFxExUjgZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAEQQDEiFxMbHB/9oADAMBAAIRAxEAPwBq5fIh/r4qVTGGX5kj07CF8KecA9iSe5q/gcYsq8uddgNxpJaQ04tPG8KJN+2q8jyDYwlddnUMfU+WrnlLUSO6h3L3QXLcd2kKPQD1bjXk1soUVHDo01PXmem8uezR+KuW4hv1AjnpQ4UhSkfKeDyPvxhmajUNRYuc56i0IliWrNYLe7KnXiV0D/CSo3fgJs0MRntFxnHpDgcZCENpc4Vu3WCD37cj+sMPTmpZC9MxMtTCZnMJZ/AVlzqeqwTR88HjGIyYEhAC4LAQ/ACm0mk1tWD0q4smzx5rDJmhmVe7+QmxSoZuor9XZ3EkIyVl5ZeUiQVqTJfXJURae4UTxV8cXjTaq1jl8R9EDIkiWynMDIW4uOmOiiaDaAOraO3J7cVgwY42km5EYknz7lTGjQkzQWogdXxcvlkvoL5bYVQIaVsUgn64P+4vDE15qG27DkRW5jaHOlbe9ujxtAChQvBgxSeCCJocggz/2Q==
 subTitle: Ein geschichtsträchtiger Ort
   
 ---

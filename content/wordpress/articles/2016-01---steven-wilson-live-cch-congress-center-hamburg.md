@@ -34,9 +34,11 @@ date: 2016-01-27T10:27:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13763"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "13763"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24263494609_f6f826725a_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24263494609_f6f826725a_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYI/8QAKRAAAQMDAwMCBwAAAAAAAAAAAQIDBAAFERIhMQYTQRQyIiNRYYGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB8RAAEEAQUBAAAAAAAAAAAAAAEAAgMRIQQSMVHwQf/aAAwDAQACEQMRAD8A5fA+GoEb70wtdvdnuNtM6e4o4AJxqJOAB++a2L9nskK2xkLfWHRKUHHgCl1aMDCVIOyVA8aSRyT4rSZpnSixgIweUr6S6Uk3Sa02Yr61qAUGw0onSeDjnB8fWt91TY4HSMCSxe7ypMxxnDdot6kl1KvHqHPahPnSnKjxSGd19coUiPGsN1mw4fa0F5Q0OqQVEhJUCcpGTuMe47YAqi5IigtPrkd9bgd1N6xk6k+c7kb/AJyeK14YWtBYw1XJ989aN+tEbBtbk+5SG1IajwXZXaQ44hAOHCSDkZ3GaoXB5brSSo8AKH2zRRUDcQGukswotUNXyWVEBRA0778Hah2S420SjSCo4JxyNv7RRSPNR2OgpQLOe1//2Q==
 subTitle: Perfekt. Nachdenklich. Unvergesslich.
   
 ---

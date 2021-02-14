@@ -28,9 +28,11 @@ date: 2019-09-17T14:51:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26216"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26216"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-37__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-37__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAJRAAAQQBBAEFAQEAAAAAAAAAAQIDBBEFAAYSITEHEyJBYRRx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM127thU5cZmFGLr6g4tbtqbpBUUgCvAPE8R9+dW7u2jCya481t9imeYdcB48k+QspTfA9G+6N99HTn6cb4xO08DHjRMdMkJQyJEyQlfC3jfMkEdoT8Uiq6rThi95wp2Pnz52KORxbRVLjtiMGgl7oUpV1XZu7Pg0dArYvDQcH6dDKZXiHJRVIahtpIWR4FJPfdXZ/NVe6NololPtfIjuh1f53+jUc7nchuDKOyXUNqnOALISoobQOQSUjlQI+Q8d9a6N37pfZ2wiLiWMjGkFQb/ALnUNFCUEFKkjs0roEEfWgSdpzpOQeitOzZcBttsoKr+KU3YCUE+L+r860HCY/HMI9iTmHZOPSKEJphDaFd2eV3d+fr/AHRo0FI5P2vF3FIhOYaKuU04aLbv86VC0rQQSRagQm6rsdXpZ35uqI1GjR8Pjwtour9+PNU6pKVXYUFc6Hdj868aNGg//9k=
 subTitle: Kurort und Wiege der Hamburger Schule
   
 ---

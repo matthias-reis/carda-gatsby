@@ -25,9 +25,11 @@ date: 2019-04-09T08:48:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23914"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23914"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-the-ocean-logo-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-the-ocean-logo-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAsEAABAwIEBAQHAAAAAAAAAAABAgMRAAQFBhIhIjFBYQcTM1EUFUJxgZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFvDsAKrhBLZmfatTNOBu2WXLl+2UG3ZSkLjcSenenWzs27dtVw+dLTY1KMdKQc85lurwOW9oFsWKgAplUK1EGZmNvwaDP8ACgJdzN8HwOtvsqWSoFSgUiZ+9V+6y+ny9UTIkbVCsr2oS1f3GH4k5bYk2iEsBGkusH1dK+hG23MiYroXImIu45k63ub51Dt0hSmXD9XDyKh7kb96DJzaQzhTLKSIec37gb/0ipXjzAUpQAoooF35bdoBuWEL0plJWkcpER+pq2+GT5TlOzWrgcaUu2VA9RA4kz3SSYPsYoooP//Z
 subTitle: Ein Konzert zum niemals vergessen
   
 ---

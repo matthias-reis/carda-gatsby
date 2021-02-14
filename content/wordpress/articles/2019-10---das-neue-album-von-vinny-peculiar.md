@@ -25,9 +25,11 @@ date: 2019-10-08T17:13:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26500"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26500"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAsEAACAQMDAgMIAwAAAAAAAAABAgMEBREABhIhMQcTgRQVIiMyUWGRcbHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAAH/xAAfEQACAQQCAwAAAAAAAAAAAAAAAQIEERITMUEhUeH/2gAMAwEAAhEDEQA/AOKbc2fHX0dPO00ymROWAFwP3qsp9gUyqeU0z/wyj/NTtqvdVRW+0GmqhGvUGMJy6AnJIx6apKbddRzrfNuM3GKNWQpSrHl2zkYweQHTr01Pnsb5CrEesnhza7nfKG2T+3RmoZgZY50+EBS3bh+PvqX8XNh0O0GoxQVFXMZmZW8/iewzkYA1u7a3+lm3fbKy419dWLTyMssaxKqPyjZcgAZABYH00n46b4tW57jbo7SkvCnWRpHdcZLYx/R/elbVKqoJXx79d/Ay16pN8nOLZcZacBVHJc9i2Brd9/StDw8tO2Pq0aNU5xVxVMw6j5swfKxsG5c0Y8tJXCQSStIxJc92J76NGuxXkx//2Q==
 subTitle: '"While You Still Can"'
   
 ---

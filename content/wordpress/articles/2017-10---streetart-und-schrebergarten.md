@@ -34,9 +34,11 @@ date: 2017-10-13T06:07:27.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18051"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "18051"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAb/xAAsEAACAQMCBQIFBQAAAAAAAAABAgMABBEFBgcSEyExFEEIFSJR8BZxgbHh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAL/xAAiEQABAwIGAwAAAAAAAAAAAAABAAIDBBESEyEzYbFBUYH/2gAMAwEAAhEDEQA/AMXAq3Rdu7nhj5QnzOAc2CQMQv7efc0ybO1W+F4wv7OSJYQzyXVsI1jj++ccvbv3IBGPNLz4d72TUNu63dzJEkj6ra5Ea8qjEBHj+Kbm7NR0/b+i3d3dzQ2ts8qGc9Lq/SzAMemAS2R2wB5P7mopZ3wue0cdI0tLTzueZQS7S1jYD3ceUreN94y7Emyzxy+ttYwWAXwXYEYOCMLkGpzYFjkHm+/1ZqhuOkgfYVjexlFefUbYAKMrydGd1xkZ8EVP0rOztmZWx4/MUeA3bfk9lKpmhsQATc4K6v8AIp32+LdbiO+n9SZicFSiMuOXBBBH4abG57Ftw6gQtw9rHa6VMlumA4jlmbpmXHYErGCqg+Cc+1FFDhmfmHVGxnMIXJ8fpV/SVnhXSNtYACo2CALeUAZwf6qeLghYJGBbABOCf8oopVLtj72UqDbC/9k=
 subTitle: Die Unbeschwerte auf der Laubentür
   
 ---

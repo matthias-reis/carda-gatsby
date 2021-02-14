@@ -24,10 +24,12 @@ date: 2013-08-01T16:30:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "6263"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "6263"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5143__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5143__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgBBv/EACsQAAEDAwMDAgYDAAAAAAAAAAECAwQABRESITEGB0ETYRQVIjJCUXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIREjGRscH/2gAMAwEAAhEDEQA/AEj2v6NvvWc6YzY47chUZoOLS66EZydgknYnYnGRsDTF6L7SX3qu0N3KE5CiwnMaHJa1tawdgU4QQdwRznI4rzPaLuDN6KuMxxqO3Itb60OLik6VeqgHQpKvHlJ8YUds0xemu+Uaw2ePA+Uy347DjriG9SMNgrK0AZO5GceP3U85ptY9C1opGuyN6k3yZbn5TzPwwWS8m2SPSXpHCHFJCVknAAHPjikgy5L1OFeUBtQQpKk7hRzsffY1rS2d/LdfGRHbbuDd0UwpwMFGlKiPx1pPHvj281nTqNlb7klbJjes9KVJkBTqUfUr+TnlRpQcpK3GuPA2UkXaS6kcEBX91KcTgA5ooqhiNEccYmoWy4pBw62dJxkFOcVwJTq+1P8AlFFE6j//2Q==
 subTitle: "Unsere große Reise - Teil IV: Bali aus dem Autofenster"
   
 ---

@@ -80,10 +80,12 @@ date: 2012-08-16T16:35:12.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "3997"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "3997"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgIBAwIEBgMAAAAAAAAAAQIDBBEABSEGEgcTMVEUIjJBcYEjYZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAhEQACAQMDBQAAAAAAAAAAAAABAgADBCEREjIiUWFx4f/aAAwDAQACEQMRAD8A9dinu6yXJl3O+wM8ihEuycDvPp83r+OOMZ0vlrbrBWkdN2vrYUCVWa7I7KgdQcoW9mHrqkYietJMIbDh2lWRC+XGGPIPHP8AY0l2LFjqmvBPt0Nem0c0EKuql5Pkz392Tn6cYH50drVFUED7JFxUY6Ey/wDDeHcN82a1at3Lcky2TGW+LcDiNDwOcDn00aqvDeg+1bVeq1SssQuMRngrmNMqffHv7Y0aPtQcRj3N97nkczI47FWJG83uAEkqqG55727jxx9wP3rjSgjSxV3HbHiZK9geZGnAcfccc57SdMr/AIS9bTW5mjTphoAzLArWZk7ELE5wI/qOeTnSObwM6/kMnlW+nawkcSERXLHysue0r/HxjJ049SAdsQgpsHPmav0BvLTbfuDPJEXW4yMxcKWKoi5I/X+Y0alejfCvrTa6Vxd23WhYsz2TMZFtSHI7EXk+WOcqdGhG2YnEargDQz//2Q==
 subTitle: Exklusives Vinyl, CD und T-Shirt zu gewinnen
   
 ---

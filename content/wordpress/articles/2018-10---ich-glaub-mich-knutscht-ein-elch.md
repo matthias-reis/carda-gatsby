@@ -26,10 +26,12 @@ date: 2018-10-17T06:00:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22411"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "22411"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-06-24-Skullaryd-A%CC%88lgpark-158__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-06-24-Skullaryd-A%CC%88lgpark-158__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgIEB//EAC4QAAEDAwMBBgUFAAAAAAAAAAECAwQFESEAEjEGEyIjQVGBBxQVkfAzYWJxof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQEAAwABBQAAAAAAAAAAAAABAAIRAwQSIjGR/9oADAMBAAIRAxEAPwBQih1CUEKdpLTUcZWO17PYP5LB+/lqGHD6ZiuufVJ29ZGWKWpToR6qW4Tk8YSftpb1NW51QqEiM8VIhpdSlmGu6SUg2K1D15NzxqL5SAyPCe8N0DaSO9a/kPzGkcVCptn5COnF2NTO6ccTCQaa3Ip5uXZC2C1JJByQAq20Yx/usl0NpcxKqHJirSCLIacSlYuCCDu2lSSPy+k1WktRkmGGQOwSNxUClfngpPGtqM5TFstvuM1CXKAK3GWy2hvdfBybnFj76Ox312sK3DTcZeKxRoPUcWOzUXX0JbXfwl7SoHlJJHBt/erPDagR2Wm40OMhtoAICUJ7oHGSL++jRqJsoDM2U74mUKFJo0ipR0JaqDTpdK7/AKwUQCg++R+9/XXLWnnIjjReQtPGFYunjGjRqjgu+owPHZ//2Q==
 subTitle: Meine erste Elch-Begegnung
   
 ---

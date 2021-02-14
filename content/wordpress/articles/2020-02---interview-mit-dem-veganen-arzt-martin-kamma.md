@@ -29,9 +29,11 @@ date: 2020-02-19T19:22:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27603"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27603"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Portrait__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_Portrait__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAYF/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDBAAFEQYSIRQxUQciMkETI2GBkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwQF/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAwQSIRExQVHB8P/aAAwDAQACEQMRAD8Aoaol3VV7RMZuctt5vJadDpy0PCfHeu16ewJU21XWUqe91r7yGOpc/VPxKl9+x5Tz35rOXZwKitpbKlKdwRxk5P1VzTzjMG0uszFXRmRudUkxlnYkEoOTg8EbcecGii9zBbtmwBMl9S7IrTemGn4dzTOabdHUsy2ElxzfxkL8Dx/tLZotPtR3G2dra05OecU5brboN+0bClS5kp+Kh8r/ADPJ942hY9wAyQSAKSDMpuU6RGQpuMM7GyfiM8CqPuWqAJ0jA15quHPgTkJ09b4k9RRtlx1uJKPeM4Ru28jI/msfou8yI97ZtyEoLdyfaZUo5y2rdgLH7jcaKK2Ud0jOcDi4Ijl9TL2qxabuMaFEjBEgqSVbSCFrVgr8Zzz2xmlToa3QL5dOkuTckNuBSd8Z4NrBCAe5SoH+vuiilaKGpuG+1K3pIdePHuf/2Q==
 subTitle: '"Vegan auf Rezept"'
   
 ---

@@ -30,9 +30,11 @@ date: 2019-04-17T10:30:00.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23961"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23961"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAMBAAAgEDAQYEAwkAAAAAAAAAAQIDBAURAAYSEyFBURQycZEHFaEiMUNSYWKBgsH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgQDBf/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRBCES/9oADAMBAAIRAxEAPwDnlYSyboYc8HWw2St7XC6wZXKxxMxz0ULz/wA1SPHuwrCAvlAU55Z00/hpbkTZ+7VbRnjyLHQxDHMu5ywH9VPvqRrCBs5vV2rQv20r7ZaxBsrWV4gU1VylFFRLj7WF6j31F21tcdiWl2dp8PWhQaplP4h5kHTXt1TSUMvi5ESSg2bh8JRIRylqjzd/QNvEnsF76VW3s4s8E9RMeJfbrmRmZsmmhbnz/e/0XHfWivvkoq6Fc4D7FLT3QrV8STeZD5kH5eoHbPP31pYttpUtzUW/PwvECSLdbHCHVh3Y4A/TB76NGmNamF3LVb642SE+INw+Wz0gRODIS5TOSzkklj6kkn+NUm0l7N1qzKYzxCfMCct6g9fu+ujRoCAHRFq46a3+0GGf/9k=
 subTitle: Post-Rock in der Kulturkirche Altona
   
 ---

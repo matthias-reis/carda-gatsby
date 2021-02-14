@@ -25,9 +25,11 @@ date: 2019-09-23T15:48:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26347"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26347"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-anne-reis-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-anne-reis-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EACgQAAEDAwMCBgMAAAAAAAAAAAECAwQABREGEiETMRQVIkFRcSOx8P/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQIDBBEhEhMx/9oADAMBAAIRAxEAPwDzvMty2wcgg5qCuG5uAxyauL1qVmVMcMWHtYzxvXyofOB2rtsGXDiT2PxbXiyoE8hWAc/WD+67H658iQ8px7Io3YbqDhSFD7FRnGyk8inzN0cyLCq49ZDgS6GVtpGSDgk/wpU36A21Ic6eVDPwRWbakuoartvTM202p11LSE5cWraOfc8U37w7EZ0/Etdv8rgMMyOuoRmFOOFwtBJy64fUPT7JABNFFOPFNNhkP4jaRdaw42nfLAtlXJX4jYlK1r4ySR847dqVmqLq3LeeK1BZUe9FFVslpEa1tn//2Q==
 subTitle: Das neue Album von Cult Of Luna
   
 ---

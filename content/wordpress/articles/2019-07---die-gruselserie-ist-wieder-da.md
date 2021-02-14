@@ -35,10 +35,12 @@ date: 2019-07-15T14:44:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24675"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "24675"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEERIABSEGEzEUIkFRYQczcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEABCESMUETUWEycaGx8P/aAAwDAQACEQMRAD8A450z0NW7zske509XTrCzOmBjkdgVYA3xBt5v/Gm8/wCn81IlH6rcqeI1BZQJIXXEr5uDYj/NTe0bvSw9IVW3ztWJW95pKd4v27MFvl7gfg2Fj5v8aw0k2+GX1NKtY6kEZuncBHzbIEf3pbPWDmtxY0ycRvvGZ9qcpgvI0sAlfgTGc1Y0vQ9PVhgm8IhC5AyUzDPzewy/H3pV1F0cu1bHJuB3OCUpIkfZ7eLNl8r7jwPnUzT1tZHuec01WjZh5ApxYkHIfQ886ZdW7om8TmoVJYpmYEq2JUcc2t9m2tuVuqfT0TCOeee/n4qe3ZW2gh9UqntH7mp4SntkDzbT5uoEp3RIp5pQqraRSyc4i/B54PH5to0aNbaV+oVba3z9oSWVRO+x+6W19f62pRlRkjRMVLnlubknWaWW486NGiSkJECkvvruHC64ZJr/2Q==
 subTitle: Endlich wieder Spukgeschichten!
   
 ---

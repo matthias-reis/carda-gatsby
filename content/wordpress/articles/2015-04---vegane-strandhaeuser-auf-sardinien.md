@@ -20,10 +20,12 @@ date: 2015-04-07T08:02:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24358"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "24358"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAJhAAAQQBAwMEAwAAAAAAAAAAAQACAxEEBRIhMWFxBgcUoVGR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EABwRAAICAwEBAAAAAAAAAAAAAAACAQMEETEFIf/aAAwDAQACEQMRAD8Ay/HkyCOYW9qaDf2rDF+RIaMLW9y3+q8xMSI1bfpWsGHE1u4ih2VH9RoDpgS3ZF6PAy5ntjidiMe87QZQQL89FJqnt/rsmHNM92PPOwW3Hik27/BNN/ZWj6R6bgmhZkZYcYzy2PoD5TDORGwNDQBVAfgI9mVZd2RSYqVmU4Z3NHhNuhaZDNKx8xL6NgHohCDqNi1+KN27jaBQHAC552i3GrdXJKEK8GJP/9k=
 subTitle: Vegan Holiday Sardinia
   
 ---

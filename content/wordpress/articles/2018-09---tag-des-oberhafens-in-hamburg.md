@@ -34,9 +34,11 @@ date: 2018-09-09T15:10:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21993"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21993"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_Tag-des-Oberhafens__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_Tag-des-Oberhafens__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAcF/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURACExBhITIkFRUhRhgaHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAECABEDMQQSIUGBkf/aAAwDAQACEQMRAD8AQ7v0nYprYahagmoLDCpcC8gyfqdv71HSN1qrRWRWyjRpKUzRkqpLNJhgpOAQBjHO+rtzv9zns4pjW1ZhMSt4Vt4CnGMb42451x6OqrhLVLQNTfls0RzhVkCZHdgj94/nOiE3PqKammvV5uVdM5jpkWRzMhTvONgMgfGBxzpC6mjo7dbXWaad5pu/0ynPqVt0UrgMowTp364t1PUVFxpqmVobfOY1J8ZAYqTsCCcjjPzxpGeipJrZWUMLy1tLR1DJDNKp8jB8McZ34A54xpcfSEF6oTdxOXlpkCki2AJ1e/QHcADz9mX1FyQRxQ+GVmKdhLVL9u/v2/5nGqkjyQXanZHIeGojCsuxGSujRpphjjSdY3+gs88MNzm8UckxVGRGAPePspON+M6WZeuL/C0nirVUSSB3AhjwSBge3xo0amoqXV2UUDuf/9k=
 subTitle: Kaffee, Ateliers, Film und Kuchen
   
 ---

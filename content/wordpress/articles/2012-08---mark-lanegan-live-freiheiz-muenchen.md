@@ -50,9 +50,11 @@ date: 2012-08-14T23:17:54.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "10335"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "10335"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_9918517073_1c699d6bcc_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_9918517073_1c699d6bcc_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEDBQYCBAj/xAAmEAACAQQCAgIBBQAAAAAAAAABAgMABAUREiExQQZRBxNigdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAIxEAAgIABAcBAAAAAAAAAAAAAQIAAwQREiETFDFRYYGxwf/aAAwDAQACEQMRAD8A5cQbIAGz9VLWuMcwCSXSB+k37/jyf95rUtCgJkTRYb8jx/dXCxvbf4lmcZeRNi806xrO8ToZYDyUajdTrtdkEeiOiawsc9FjnBUIx1OdpO/jn47is7mks8pkbfF2vA85ZetcQSF799VTPl0cMeQmjgkEsaMVRv2jxqsJL+Z2muY0KIW7ZQeK79bqGu7gyuSTyNDU0uLNZPqOMfjaOW4KD55377/kLbI3ltZXVnBczR2l1w/XhVyEl4Ha8h4OiSR9bpkOfuiij8hOXVzFaVmVVJJUEkDfQpomiirAZSHYmf/Z
 subTitle: "Oder: Die Geschichte mit der Dachterrasse"
   
 ---

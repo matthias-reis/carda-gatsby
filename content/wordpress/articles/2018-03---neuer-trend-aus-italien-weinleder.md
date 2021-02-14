@@ -29,9 +29,11 @@ date: 2018-03-23T09:19:12.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20232"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "20232"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_12906906605_f67125dfb5_z-e1521795708216__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_12906906605_f67125dfb5_z-e1521795708216__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABwABAwQGCP/EACQQAAIBBAAGAwEAAAAAAAAAAAECAwAEBREGEhMhMVEiQWFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EAB0RAAICAgMBAAAAAAAAAAAAAAABAgMEERIiQXH/2gAMAwEAAhEDEQA/AF+yIKA6rbLxDgLGUWuQy1nDdN4iLczD+geKLuJ+MbqUDH4J+mwYrJMBsjt9UISJLJk75ciiCbqMshnjL7X0p0e+/Xc+6znPiXYOJHJk1LzxHsmC6tryIS2k0U0R8PGdiuJkGURMTQBwFksphsYslrNLFCzfAS7POObYB/dff7Spa8TwZiJ0XSXCMQ6bplLZNfWq7HFPegr4el3KYXHMWI0++4Nd7xVnaXc8sUsLBUdVlKSFTOuvDexVVQNjrcn8MZmwtba3L20XTjU6EZOxR9JcSWGShu4GIMnxZaqqGI12Z//Z
 subTitle: Vegan, nachhaltig und frei von Kunststoff
   
 ---

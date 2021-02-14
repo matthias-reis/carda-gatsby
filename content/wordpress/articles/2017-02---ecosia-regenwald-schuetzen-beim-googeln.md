@@ -34,9 +34,11 @@ date: 2017-02-28T10:54:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15983"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "15983"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ecosia-logo__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_ecosia-logo__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACQQAAICAQQBBQEBAAAAAAAAAAECAxEEAAUSITEGEyJRcUGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECESExAxJB/9oADAMBAAIRAxEAPwDqnUfk7hxRmhMHAMqiSSXipIenX7sAH9OoT1zl7lhT7S2Dkyw480kuPKY05VI0TGJj8GJAZaoUCWFmhRp+9R71k+lsYwR7qrqDG4y2HvsQQSCxohbJAJpiFU96l01wiPI3MusbxdLtmn4eYZ5pUdFUciYijcw8YociQKBu+r8D/Hmsscbzj4e3HCxc9pYxLKsEUpo/AhWkpgWIIWrDK3yHmjqy+gs/dc6fdxuRyBjY0sWPipkxBJCqxKTIx8kuTy78XVdHRF+8qms34XmFu0wytu9x5ZMbImxZXjZLiriCSCX41RboCz/NGjWieBUquGOkhCzSSFmYt4DUQvQFD6BoH90ro0aBw//Z
 subTitle: Eco-Suchmaschine pflanzt Bäume
   
 ---

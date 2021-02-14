@@ -31,9 +31,11 @@ date: 2015-07-20T12:32:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "12078"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "12078"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_19233819943_46a258f5b9_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_19233819943_46a258f5b9_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAgEH/8QAKBAAAgEDAwIFBQAAAAAAAAAAAQIDAAQRBRIhE1EGFCIxQTIzYXHh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAYBAgX/xAAcEQACAwADAQAAAAAAAAAAAAACAwABEQQSITH/2gAMAwEAAhEDEQA/AO6R4XPVdbtfWjFWX4BFUo0ixtIg03SiTIXc5AGT7cmn1zcWlzN1YFKu31HGAf7WwisuGVWU8FWGQR2I7UzXyDOt+RZXw1qvrXsTSaFbEfaXP6qh8K2i28NzBkt7bcsTx8ADtSbSY5bW6vLKTy628RWS0SFNu2Js8Ec8hgR2xim1rqsGlvJLKgYngH5FDMInKzPYYoAQzZ5zBqlzbNHiRnDZzuNUlpq0rRKSg5/NFFHkA9avJkqYXe62Zu9SKydcQR9YIUEmPUFJyRntkA4qZ1bU55ydxwO1FFXUFV7kjkMLM2f/2Q==
 subTitle: Sonne und Möwen
   
 ---

@@ -23,9 +23,11 @@ date: 2009-08-16T18:24:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11457"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11457"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_08_9914469843_d4bb3ef343_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_08_9914469843_d4bb3ef343_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDEQQAEiEFEzEGIjJBUWFxFIGRseH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFBv/EAB8RAAIBBAIDAAAAAAAAAAAAAAABAgMFESEEQSJRcf/aAAwDAQACEQMRAD8A6MGPBm4eLMSs2VvEQ2k2VAJH24/rTCTpywwvK+0Rxgu7H5KBZOsT0jPzA7ZLPlmbHSXtM5EgiUkbiL+IbSnI4POtHmepPUGXhT4eS+CsYxjvkhxIyVFksDtFN7fb9KN+edVK5dk7t8vYxXBhmw48qIgwvGJQ/gbSLu9V36ZuUsFpQLs0AR9fxpDD6yyk6WnTsZelZeK8Qx1iXEUnZtrtgqb+YBbzz++k6+s+pYqQY8TYscWMRGyzRkbKAHbbkV+Ls6JXDOmA+C86YphZs+TKimmO5N9PR7RkUm0Oz4SbNcVz5HOpMCKeLDniy53VmY7XjmZ6HG0lS1UKoqRXj76NGudqSdJtL4aMV4qRHjSdoTieSpXpiYlUKW4IFVwBzVfzqh1D9LJuaeOL3tubuEAubuyPmf8ANGjSlOU3hsV2f//Z
 subTitle: Die Toten Hosen als Headliner
   
 ---

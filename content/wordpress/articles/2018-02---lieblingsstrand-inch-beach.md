@@ -27,9 +27,11 @@ date: 2018-02-12T13:04:35.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19486"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "19486"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39309823955_b7840a3701_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39309823955_b7840a3701_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAAsEAACAgEDAwEGBwAAAAAAAAABAgMEAAUREgYhMRMiQVFxkaE0QmGBgrHC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEFBP/EABwRAAMAAwADAAAAAAAAAAAAAAABAgQREyFBUf/aAAwDAQACEQMRAD8A26JpjESRTRLqCofZm5hWj+G+3dh98ctHqVdFWLU4akZHFkjjd9h/LcY6fSrtlPTs6vqDcPAa+gB/Yx9z787Clarj8RbPu5NYR/8AGUqyXS02Y+OvRGvSmllaWxetTyL2QsyxA/owYePlifUblmF+VGpp/AL3YyqR2+B32y+t07Ftl9S1ZkIO5LSRnf6rkzrfS9G2HFlrgJ78YbUcQPz4qN/rjnJ0HJvw0TNPrq+jEtJE5J/MuaX61sSDdnVBsdio8ffDDI9XRSUIzSdY2d2As+R5ZRscWXep7jpu00PkezxG/wDWGGJXX0blH//Z
 subTitle: Traumstrand auf der Dingle Halbinsel
   
 ---

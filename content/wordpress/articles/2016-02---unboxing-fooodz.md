@@ -34,10 +34,12 @@ date: 2016-02-03T12:29:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13860"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "13860"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_Fooodz-Unboxing-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABAwYF/8QAJhAAAgEDBAEDBQAAAAAAAAAAAQIDAAQRBQYhMRMSIkEyUVJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwDOxNDEkaSOileO6T7XTI0QAQpR/s6eK6tbdQqMUyeSRjIxnj5Fdxa2kyxqfN6m4B9UjcD+Uhotq1bSIp4WVrdSSDQtv3QRbiQrCQvPRFM+rWiujO3iDc8+44Jxzz+sH70Yb3u1htJY2l8nZBYkmishbldoa3cW6xsg7+M0padue5aBS0YJx+VVVQpeXuLdN0I3CxqPj6qH93a1cTK7Pg9juqqizzf/2Q==
 subTitle: Vegane Lebensmittel bestellen
   
 ---

@@ -25,9 +25,11 @@ date: 2015-09-14T08:09:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "12662"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "12662"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_790x790xEnno_Bunger_Fluessiges_Glueck_Cover_lo-790x790.pagespeed.ic_.TXm8av8_Qs.jpg__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_790x790xEnno_Bunger_Fluessiges_Glueck_Cover_lo-790x790.pagespeed.ic_.TXm8av8_Qs.jpg__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwgCBQb/xAApEAABBAEDBAEDBQAAAAAAAAABAgMEEQUABiEHEjFBYRNRcRQjMlKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AJkKedUF006T4TIbFiT80H3J2QR+pSptfaGkH+CR9+OTfs/Gp+c5Cj6r1qm4QXE2ztnHHOSWn8xHhpQmMe0MtpQnv7OeAbAvjVqwKdVdqN7VzqUxJDr0Z4A/uUVJv0T78H1riVp8GxRANjS91zxMTHSYzKsg7MnOJSCpQ7QAD5Is/evOivLMsRZ78eG8JDDZCQ7/AGNc18XerEYFNDSlgszAG2sQMrJyIfaSFIMaX2FtLfDfaKu6J9j4vRU4qjXk6c+g2y4WYwuQyuVYjSWlfTisoea7gFC1L5qrpSBf50oJNwZSfn5zz0h52UokAuLAs0KF/JrWhUCPI8aqSX0uxsR5KYzLLMdbneW0JUonmhzX5OgPqXEYib+zkaKAllqQUAAVRCQD/t6aP//Z
 subTitle: So klingt die Vorauskopplung "Renn!"
   
 ---

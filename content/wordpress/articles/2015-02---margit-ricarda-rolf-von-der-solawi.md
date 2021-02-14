@@ -35,9 +35,11 @@ date: 2015-02-06T16:31:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "9432"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "9432"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGAQf/xAApEAABBAEDAgQHAAAAAAAAAAABAgMEEQUAEiEHIgYxQYETFDJhcZHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACIQMRkaH/2gAMAwEAAhEDEQA/AMgdc80pguyoMBzggBplSaV+Sr+6NhOv2dcmlC8fAcb71KaQ2vckUdtKv09bGoBteKUsb3p1E3Y2176dxI+N+SeYiuOIcloI+PXeU3RrjjWNeZtg/ZB0uSsjdUfF6oSAvNIEpaQ6CqI3WwmhYCPfTyF16nSIrTowLDlilFD5qxwa48tcbzXhpKYkcwo8jIgnuSXUt7RX1dxon7aDhcKy4VKi5V9aW+FIUwAR5gEc153+tK3sZnkNJ//Z
 subTitle: '"Veganer*innen sind unglaublich kreativ!"'
   
 ---

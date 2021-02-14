@@ -43,9 +43,11 @@ date: 2014-10-10T19:20:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "9028"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "9028"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUHBv/EACgQAAIBAwQBAwQDAAAAAAAAAAECAwQFEQASITEGFCJBBxNRYRWBkf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwEBAAMAAAAAAAAAAAAAAAECESEDIjH/2gAMAwEAAhEDEQA/AIngNst5r/X36T7EFDLHKw35UHBLO6EYZAqnj8gaW7+QwXzy6CWSoart4WTZHTlFZYpMBdxI9zBSSA3R+M6kWOqp6r6fX6VJX9W4idCnBdF3Y/rJORrnq6a3fy87WoQpEFVS6A44Ubjk/OcnWd463jQxL100OPxjw1YFeGvuswX3tFJPHuK55GAhP+azvzOwUkN0SqtFXVemOA0VVThgg7AABGRgYzxp8l1DssayAsirucjG7THlWulcSzSZAU7i3Y6C/oDTKmVOoFvhXWOrEEs1NBIYYWXLxM2FwRgbSPzjOi5W9oo41pqmRZWw26SPI3c5GB0AMc/OdGjVOdT0FfCiWgucNznWWpjkLbQz8gDsHjHfHX71PpXmp1qHijkneduCcAoo6wNGjTnbc9IP/9k=
 subTitle: 10 Fakten über Veganismus - Teil VI
   
 ---

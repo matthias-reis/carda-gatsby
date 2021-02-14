@@ -50,10 +50,12 @@ date: 2013-06-03T15:50:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "5560"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "5560"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQMCAAQRBQYhEiIxE0GBUXGhUmGRweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAEEBf/EACgRAAICAAQCCwAAAAAAAAAAAAECAAMEBREhYXESExQiIzFBUbHB8P/aAAwDAQACEQMRAD8A03Wdy22jWjF28ZRnG261jHgmPb8ZpVp28tQuytLZaeuU+wMZ2jP7kkD2/mp3fF+ldqyM2gXD1QitZ8mIlz+KgdavwLa3UMFjGAQB9zj/AEUdh76qPWdnBVJ2C291GqnTU8hw4y717cU5X95BDLK46JgFsIHuGByAZED6H7Gn+19xLu9qFeoTRb+kxsZNDIqGeOkcnziX4rE0Ofaaktd0piS6BAE44yMkZHzEj7ginOl3PSbiPGSQaFmNT6iOErxOW9Z0QGU7kD97iebXHNZKzayfUemWB7c4NRu7rhy3WFwqYjNUuuGRkCUSJfPtRRUU+IIiKDlNnP7WdNV3dc6/eac5luu3imbJwWviMfUcZkDjxkmntq+UXNI/T/dFFXiNyJny7bBXKPLb5n//2Q==
 subTitle: Neue Schallplatten in meiner Sammlung
   
 ---

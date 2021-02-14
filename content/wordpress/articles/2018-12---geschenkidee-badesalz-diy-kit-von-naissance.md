@@ -34,9 +34,11 @@ date: 2018-12-12T13:30:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22904"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22904"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-023__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-023__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAKhAAAQQABQMEAQUAAAAAAAAAAQIDBBEABRIhQQYTMSIyUXHBFEJhcqH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxEhBBMxQf/aAAwDAQACEQMRAD8AVdHdLByTDfKu0sJLi21GiBRoffyMdx0S00+qPKR2mm1harI06RX7ieePvCrJczy8Qgp1zWwkhnT2zqB43oGv92wwmT8pEX9GvMURghVvJdSQVEEG/jevI+MQyWtsLP8AJf5CvZsiYGW2HJsmDJStt5pJIdHJKiBvzfFcDCDOMhjHu6fXXkX7j/Ufx5rDjM85YecbEBSTFSUBLtEa1CxdHcitt+BijNZ4by4OuNstuNpoB1KlICiavbivxhSxWWzCQXQ2NiU5KlE6emTKmokREj0Ri2mgar3g2a3xGaonMTHFJTNcYJ1J7bXeBPgUQDX0ecGDGisrV/RNAyAjMwQ47slwtTniyu/SmQ8lD1nxSRRG3yOcYeq3Y2XJbW7HfnLUT63HjoQfobWfxgwYLXxqw669itjFaXZfRP/Z
 subTitle: '"Soak The Day Away"'
   
 ---

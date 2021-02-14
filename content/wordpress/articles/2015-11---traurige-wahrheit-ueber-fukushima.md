@@ -22,9 +22,11 @@ date: 2015-11-06T14:06:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "28995"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "28995"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_fukushima__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_fukushima__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREABiESEwcxMkFhIlGRIzOBoeH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwDi21LFJXWS43eN4BTULIk0bEhz1eXTxj+xp+2PDJCB25JpCMlIV6savNq2aK2+Glzp8dVRVBpZRnhynp+McaR8F7hbrXe55LhVw0SGkYBppAisxdDgEe/Hl8aC1lI1tHD2HBTofHAcdDDWTvPZ81ht9BVVE6yS1LOroAQUIwRwf5/GrbxKaju266uogqoVjEIcSM46HZU4UE489Jb63DQXXbFBSr3Hr/0pf28BPowwP3OTrNRJAYzds3UsFPS0eA8Lx9PdQkqG44b7Z50lQ3yajWVpmhmiBMarMQ6jng4YDH5GjRpZHZS8VkNZLTu9LRu6cx4Y4A+MHHt86mLlGXRVijpocZOPUc+/P+aNGrmm/9k=
 subTitle: Kontamination nach wie vor dramatisch
   
 ---

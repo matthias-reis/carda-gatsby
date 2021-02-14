@@ -26,10 +26,12 @@ date: 2008-12-26T14:49:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11013"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "11013"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC260044__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC260044__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBQcE/8QAKRAAAgEEAgEDAgcAAAAAAAAAAQIDAAQFERIhBgcxQRMVIjJxgZGisf/EABgBAAIDAAAAAAAAAAAAAAAAAAEEAAMF/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAwQRIUIFoeGx/9oADAMBAAIRAxEAPwCum9Us1lcZJYXuRxskEoAbVuitoHetg00werWTeRJZY8RK6EkaBX3Gvh6yWGXjm7WDSBXRmIKjRHfX9aaXeGGwmlSGEsiM+ig70Cde1JW+RKdPfyaNWCG7+vsYPKPPLryO2x1jNb2kKpcoC8DsS4YFSO96/WkmK7F15nkCIoo+VpFsR+34VUf5qryBIsjhMbKxjjmWRJyY1UHag6BriixVnZ3LXEEQWYpwLD5HXx+woLmi6hlI0SfyK5GMa7Ro7HEzTxPIXIaSWVhIHI1zJOtfNNs3kC28a8vojvWiCd0UVc2NW/JEi5NinQMnGeWRz3MSSlFjZtlwoXvXWz/NWGLvbpsav3JgblWfkRrteR4nrr8uqKKWepaxpRC9jOdsZ//Z
 subTitle: Märchenschloss bei Aichach
   
 ---

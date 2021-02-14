@@ -46,10 +46,12 @@ date: 2013-03-08T13:30:13.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20011"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "20011"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_neu2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAmEAACAQMDBAMAAwAAAAAAAAABAgMEBREAEiEGEzFBIiNhFIGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUBBP/EACARAAAFBAMBAAAAAAAAAAAAAAABAgMRBBIhMRRBYcH/2gAMAwEAAhEDEQA/ANVU2V5qX+bPe7gisrSt9zBUGSTzu8DUa5o1BQJVwXavmQSRAE1DFSC4Ho/uq1VNHWWGK3TglJ4JFl2+Qm5lyB7IJB/rUq/0ENP0fJHTvJM0fa+2QgM+2VMk449f7qXxmzbmMwKpVbhPWzifov3SnmitLXW4dQNR0zSugDSSk53kAALyxOPABOl7UFqY3q6O/mqWkmjEse+ZXB3qMFWwR5zyOR410rb9LabLbu3OkEgmmk7ojDMi91txUH8yOCDjOsjaurJ7lWVMddUmslqJ0ijnBHxxIpKKSSSmeRz7OBoW6FpTRKjMTvwIuudS8aJxMa9DtsvElvnlaqpro2EeLYlBIcHuscg45GNKXjqU11uqaMWm89ydtiMaJ9o+YKknRo10JcMytGKYTN/ew5epDUW6iNMLhBdqJ51xJb5JYJUeRjg4wQeeGH6OdZ/pmmEdzp5rna5YJEdUpoKC3yBN7MF3ySPyQM+AMe/WjRoGqhcEjrQRdK2ZmvvY/9k=
 subTitle: Ist der Internationale Frauentag in Vergessenheit geraten?
   
 ---

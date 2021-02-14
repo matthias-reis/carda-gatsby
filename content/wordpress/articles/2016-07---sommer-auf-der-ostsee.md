@@ -31,9 +31,11 @@ date: 2016-07-29T10:52:43.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14985"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "14985"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28551390516_98f008b738_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_28551390516_98f008b738_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwEECP/EACkQAAEDBAEBBwUAAAAAAAAAAAECAwQABREhEgYTIjEygZGhUWGSseH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAAEC/8QAHBEAAgEFAQAAAAAAAAAAAAAAAAECBBEUITFB/9oADAMBAAIRAxEAPwCxbXFDiQo4INO0R20p8o9q5ygTutF8CXLgpAHlblBAx9BjwqTJfvq4YdMjqdqcAo9iHELZJx3QF8wrZ8SRr70o6aXQ2NXF8Rcj0dCknXxUeu0PilRSdVVDrvWKsKbTckKG93BWvyVv0pVcbj1gwVEv3JOdkqe5Z+asdo3KT8NODcpDRHFX6p5HvMgp72/WiikkC3sYmXh/syRn3/lIJc198nkvAooqZ0ts/9k=
 subTitle: Überfahrt von Travemünde nach Helsinki
   
 ---

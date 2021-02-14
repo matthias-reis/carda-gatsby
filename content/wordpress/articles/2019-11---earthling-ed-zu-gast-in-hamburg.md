@@ -35,10 +35,12 @@ date: 2019-11-25T07:08:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26968"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (26:39)"
+thumbnailId: "26968"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwMDAQcFAQAAAAAAAAABAgMEAAURBhIhEyIxQWGBkaEHIyRCUfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AiGmbGxKWQ7FiOBCUqUXAvnJxjg0+W7SsVxmzhNstCFXEJUkbHT0wUqVk9rnhPzShpualmI+vPJAHsCaobd7j2520vvn7VvhqWQO/stEY91Y9aDg3oHTMjTV2lTBCZuDIeKFN9UJZ6TYWBszzuyO/PiOMVJ7zaBHEbDMdKn0hWEJI25BP9qtfS/WkZybcGJse1t3i7NPxrbKkNdRMd1bYQltYVlIQshIyeDyDgYqVy37g3dF2+9Idblw1KbW08kJW0pIIKSKDFhXAtM7M/wCximOY9NuFvmPNOJZjsx9ylOA4cBKRsT5nHxRRQK6pf4xbBxlSVbh3jAOMH1ra1jrSdqyXb5dzaZEyLGEdyQhPbkEfss+PGB5c0UUH/9k=
 subTitle: '"Es ist OK, ein*e wütende Veganer*in zu sein!"'
   
 ---

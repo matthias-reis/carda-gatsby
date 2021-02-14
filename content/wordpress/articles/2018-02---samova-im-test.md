@@ -34,11 +34,13 @@ date: 2018-02-19T17:24:15.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19674"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (66:13)"
+thumbnailId: "19674"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBwID/8QAJRAAAgEDBAICAwEAAAAAAAAAAQIDAAQRBRIhMQZRIkETFBZx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIRBDEDEyH/2gAMAwEAAhEDEQA/AJmG5RVDbhWl2Lxtoam7fSLi6ZSDC7IrEjgcn32eOfqsGa/cssajJb4jJ98Vdap4ZrN3rcl9FplskbTwTFS0BcGIAYDbsgHHqhSk/SQO77U45ruWUpFES2CkWNoxxxjj6pV7+E5UMM491KavcSafql3Z3IWKSGVlZQ4O05JxkcHulf3t6DaRx3g0bEZ6QwKzBjgMhDAgeuarriKwupJLiSO+DSsZCFu8AFjnA+HXNFFJJJ7NOPmc2K30yq9in97e6LcTKtpaPDLIWUrGqSqOgGfB3ddkUhrHlr+QWwtpbCBWB3fncK0v+Bgq0UUUiiU29n//2Q==
 subTitle: Nachhaltiger Tee aus Hamburg
   
 ---

@@ -30,10 +30,12 @@ date: 2016-02-24T12:40:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14052"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "14052"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_25205156946_95777fe967_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_25205156946_95777fe967_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBwgCBAb/xAAqEAABBAEDAwMDBQAAAAAAAAABAgMEEQUABjESISITQVEjgZEHFUJhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AddvbNiRIoUWm0oQnqUpVAJA5JPsNPWJjYnJeqnFy4Uws0XBHdSsoB4JA4B+dQExu3I7vgQ4uZ3T9EqJkRFRw2lISe6z0CliqoKvvfYVesGo0zD5OBnsdk3Ykd19TUadGBAJ6q+o4oBIQa4oir5q9KLI/sbZFekk/bTHntsNPMLBZSbHxpPHfqIGno8HdSMYGH1CPImQpvQWbB6luIrxSB/JKux4o6281vR2AwlLmCPoI7F52enyQLpaQEkq7C+f9Ogppi8hJxk5qXCcLbzagQeQf6I4IPBB7Ealvb8ReVwMPM55xubEHUI+PQ0GW49BVdJHt4AVX50aNBwjW6X5OPOPejtOKS6XI0pYBeY5JHVXl9+D+NLP5/MbxlxImXnqccZAS28UAqFmiT8ny5v2GjRoP/9k=
 subTitle: '"Aufregung ist etwas ganz Normales"'
   
 ---

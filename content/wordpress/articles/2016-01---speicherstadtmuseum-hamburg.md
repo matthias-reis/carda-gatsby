@@ -23,9 +23,11 @@ date: 2016-01-25T13:55:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13729"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "13729"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24576682226_d0ef972e9e_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_24576682226_d0ef972e9e_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKxAAAgECBQIGAQUAAAAAAAAAAQIDBBEABQYSIQcxEyIyQWFxUVKRobHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AF1kHTbO8wiDlaeA7dwWUsW+uB3xeU3TSvO9TUxhkYo2yhqHAIIB52gHk+18NbJC+UZRTtTUU1bUSSpH4cS2ZyblnPBA7E/jsMTZtQKvivVPmkQjmijeOPb5VkU2P0rDZce/PY4BSN0wqjBK75hEoj9W+hnTjzc8r28p/j84xes9I1unHgFWI5I593hyxg7Tttcc/Y/fHSmYalioYZL5hXqIaiSF2WIPf0sl/N6WUkA/B7HFV1Fo8r1hlFTSrMyVeX1FtygBgbEXt7o4vY/HxgM3pHXMIKwyHy27Fu+GZR6ky9oVZ6iNT+lmBODBgKXOuo+SUDvFLULI9uQFvxb3ws9R9T6WulaOCMJE3dhwbX/r/cGDAf/Z
 subTitle: Ein Lagerhaus zum Anfassen
   
 ---

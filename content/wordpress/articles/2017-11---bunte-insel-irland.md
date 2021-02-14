@@ -24,10 +24,12 @@ date: 2017-11-04T17:58:47.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18304"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (20:30)"
+thumbnailId: "18304"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313512948_2071e5c5c4_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313512948_2071e5c5c4_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQgG/8QAKRAAAQQBBAEDAwUAAAAAAAAAAQIDBBEFAAYSITETQWEHIlEUI1Jxof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EACURAAIBAwMCBwAAAAAAAAAAAAECAwARMRJBwQSxFCEiceHw8f/aAAwDAQACEQMRAD8AWmzGH8njQ9NSXT6wjNKb+xRBA5WQfIJSr571peBmsLhdlxMgDybDCODSE8FLIpPQI6AN9+OjrOGzn/0+GhNNrLTEqaoOkexbFpWPkXR77BI/GnHgdxZTF4JqNDnylRIySkLitodaaN9oPMBXuewKPtesjTiGQBsH3+i+3Y4q7RGSM6T58823Haxq739uJqbspkYZSiuaUucFt2pJSQUooija68WCAdL3fRgqyqWpTdiLEW65yHFLii7zSVH3SAq/7Hxq83TlJMrK4adLycuQpttQCw2OLClINlKegCAO77odXpe/VOciZJ9OU8uUzDlsiqIbDS6NAdA8qJs/j21BOsSaUaN77HF/jneq+HeJDrP6M0vsdklxoWPYQ0g2+/a/f7hx/wArXaYfe02M7HjFhl0+kUpccJKkg2Oj8dV+NGjWiaFHX1CjGxxUUrOO5GRD/YZjtyEqC0sWntIUkGrrx141Ub5nOSY7pc8rhw3TX8uKho0aCoqONIpF2dSWN6//2Q==
 subTitle: Farbenfrohe Details in Kilkenny
   
 ---

@@ -22,9 +22,11 @@ date: 2015-02-12T13:10:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25606"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25606"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_girl-1026246_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_girl-1026246_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAnEAABAwQBAwQDAQAAAAAAAAABAgMEAAUREgYTIXEUMUGBIlFhkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABwRAQEBAAEFAAAAAAAAAAAAAAECAAMREiExgf/aAAwDAQACEQMRAD8AzTjlwisraK7THOSBlcogDJ+TrVhyG6R3LFLitWS1IU8jppU04VqyFD2IT3P3UtaIbDsVxtcLrtuKClNtqQFHHwCa7vVW7i8G6SZDTqbwpvrsIUEdNlBVonQA5BycZ8/qhyUxPcPzZxBdButURPHuNOqcjxHpJkYLSFa6A/w9+39rM+RXUy3kF6K7DcAIKUIwkj77mthtFttnMbauQ7Kedeby1I0VqVKzgLPkJ+8VLco4PDhsqGXJLaclAdeUNSfnIqcXWoHK2ZtNOWy5BrGWArys0v51KjyW4zhiBMpwBHV6ijqhOTgJ9u5PuaKK2fWIec14PdHeO2lU2EnL8oaObEkajYDA/fznxTG7cqW/GQH2pCncfkr1GAo+Ne3+0UUJVNEF3//Z
 subTitle: Vegane Mode braucht das Land
   
 ---

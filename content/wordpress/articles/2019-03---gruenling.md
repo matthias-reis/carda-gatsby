@@ -26,9 +26,11 @@ date: 2019-03-07T16:49:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23741"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23741"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBv/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwAEEQUSIRMxQRQiUWEyQlJxgbL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQREiIx8CFBof/aAAwDAQACEQMRAD8A7u9JnguLq2aO3t7J+iIChAywBL5H6ue/PYUdZxyXDAzyhysmxY29xZduSCT2GOcnt4rdveQXWiol0ZVCmJzLbgb22cDcDw2O3ziizcQW5MUer9RSQHD27BnOMAE5wO/epRat2U78wZ6kg/U0+qzRMwsbV5IYA7BiQjFcqdxYkAfXfOfHaq4Fvr2sJdROYJpIYzKsi7WLcjK/uzxyKLu9b9JcBYYjKIbf1TCT8Qwwsft8nc2ceM/QqtrdhYo1wnUmcid2k53SFMj/AEg/s00+KtiFR8e+/sNi5Bqs5AbisQFsWMMgHyjHj7o7VLGaaKUxWszbl9vTwyk+c1VVJZQTqULsWuzufMNtNE1SaO7fU12pJCItodRMyhw2M/wCMn5pi/nJ1KKJElWNEyQkZcrljtAA8kBcZ4G3PiqqnqLnZWVjvQmGx0r4lZ//2Q==
 subTitle: Smoothie mit Twist
   
 ---

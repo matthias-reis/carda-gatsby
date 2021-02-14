@@ -29,10 +29,12 @@ date: 2018-08-20T15:27:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21805"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (59:47)"
+thumbnailId: "21805"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDCAQGB//EACwQAAIBAgUDAwIHAAAAAAAAAAECAwQRAAUGEyESFDEHQVEiYRUyQoGx8PH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxEhEiJBUTFCgf/aAAwDAQACEQMRAD8AyfT/AEtQRadoquqpY6yrnj3WmkQN0sTwAPAt8+b4S6h0+8WtMty/LY446atjZhC8qoN8tZRdvY+3PyMLdH6mzGhhaiSNJqSMsyb4IK8EkCx8X/nDrQ2pqWDXi5hqiekFPPQtDLvws0KCwZQUAN+R4+/ycR2rUKqikBuxx4+yaiMXzGS+jOowJ6vcp+4hqGmlje57h+ogBT4K9Njc2H1EG1uOZZ9TR96sUU6i7CNljKushFwwAFx/eMW4WR6SSfNu8SbL9ndG2rFjGykj6PJAAJsDew4F+MVf9R5KbM9V5xU5XWiSklk34ayxkUh0AIUn6m59zgzK1tTpoIJAub3HDY76i61JEIKtfEbaZo9Lw0VKs09X3b0/U4W7L4IPkfb/AHDWXLdJkRsz1dim2LoD1KfY3GDBjszqCu0ZHUKQQ2DJvxPIZImpTneeSRzpGGVpGsyr+Qftfj4xrubUmjRltTLSy1G+YGaMvFxcKej9J4vgwYVtHqJpkze5n//Z
 subTitle: '"I Build This Garden For Us" von Lenny Kravitz'
   
 ---

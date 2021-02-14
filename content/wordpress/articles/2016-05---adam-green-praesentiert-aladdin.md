@@ -29,9 +29,11 @@ date: 2016-05-10T17:59:08.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14646"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "14646"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26644858502_850a7a7e80_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26644858502_850a7a7e80_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgEDBQcIBP/EACwQAAIBAgQDBgcAAAAAAAAAAAECAwARBAUSIRQxQQYTIlGRklRigaGisdH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQACBAb/xAAjEQABAgQGAwAAAAAAAAAAAAABAAIDESFhBAUGEhNBUdHh/9oADAMBAAIRAxEAPwDNkWBOhDboD60gwR2262/Ef2jOPLV4ONrco4T6xk0i5WC6C22pr+1aX85XcDIwQAEGJhiJSLbhh+6c4dhRQuWhpMa4UgIEIBFjvYj7MD9alGyFSx8PWg6MQVIGScjZsMx9PpdGZYlMsyCbFSRO4SOBQq7bmOw36c6jR2ryqFYjOMQsjrrKJGG0XUWvuL+dVycTOY2jM0pja2pdZsbeYpslmNySTyua0DDN7S6PqaMTOANol3Wta9WVvZTm+TZllGcwYTXx6cM8Q7kgGJYhG41XJPiVDuBzNEnd/I3pWfkkkjJKOykixINrineMxPxE3vNB+G3GYKvlepBgIAguYXSvcnxdf//Z
 subTitle: Der Antifolk Star zu Gast im Hamburger Abaton
   
 ---

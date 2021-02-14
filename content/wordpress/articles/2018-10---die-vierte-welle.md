@@ -32,10 +32,12 @@ date: 2018-10-09T05:04:51.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22233"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:58)"
+thumbnailId: "22233"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAqEAACAQMDAwQABwAAAAAAAAABAgMEBREAEiEHMVEGEyJBFCNhYnGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEEAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAjFBAxETUf/aAAwDAQACEQMRAD8AXsPTFJmRri8kUf2Ef5D/ADVmo6W2/wBnNLUS7weznIYeP0OrXu3alp5Zz6jgaB2Gyompw8UYOcKVA+J+9xJGAOfKS/jaiouTNIKqKmbdUGC4PGzoUAJQ7uQTkgD+O3Gq27eyVKPhJTpjET8m/pjrtL0tjUExzbuM4yRqxBcppJkWavutFRoEXLU53sMDJBCnsQR3Pn70nTXKGmSeomvdwrYVnKx1O90iz5YZBY/tAwMcA5J0L0eRb41gzNne5LX0UENqr6WZ/wAiNBCQrMQQAWIAGeeTxrb2+mtsLlYo2uVZT07s1PRyt7UTMNmxY9gOMMxBDDnJAxjRo03TYRKQxZ6i9UEFO88lyhSOIRR0TRxSRqxbLOx3ByMdgTx9Z1k7z6Tlq5Y5RTTNtqGljaleKH2A7HfmNyd4xtIAYY86NGtK2FZ6P//Z
 subTitle: Science-Fiction aus dem Hause Reis
   
 ---

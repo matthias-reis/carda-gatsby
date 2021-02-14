@@ -44,11 +44,13 @@ date: 2014-09-12T10:24:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "8920"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (12:185)"
+thumbnailId: "8920"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAFBgj/xAAqEAABAwMCBgEEAwAAAAAAAAABAgMEBREhAAYHEhMxQWEiCBQjcVGRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQf/xAApEQABAgQEBAcAAAAAAAAAAAABAhEAAwQFEiExYRMiQZEGM3Gx4fDx/9oADAMBAAIRAxEAPwDhuDe2o+8q3LM8ON0mC2FKbSop6yycAqHYAC5A/kZ0/wBHoW3aWyURoECOUC6uk0kED35/vRj9MdPMlyq1V+QShlLcNqO38WxdPMpSkjBPYZ83OmLdu2YtfojtPKlxCr5IdYPIUqza9u4z21nt3rGrFS35UsD2B06/RF6mUEoGWZjDrlVojBjMvtJUiQSlpYAIKxaycZuQf1oA4tzGodQbZajhpYVhoo5bItk57/vSFwtpCqfR5wqj7r1WZqL8d4qUeVHTASLJ7ZGb+9cXxpdizafGeSj8rcgIbWLEqQpCiberpGjW2alFfwU8w0J9m2/YJUhSpBXpGDws325tCZJbkNdelywgPttn5gi9lovgkC4sbXHnGvQmyt502qwLRavElNoQbpUoNOtC/wAQptWRjF+2NWrTniS3SeCqqTkosDv0z3hainq8o5iC2fxDpMfe26mEyEiFIkIcakIy2tYZS25ke03B7Gx0Uburoq84Ijlf2EcdJhKj48rPs/4Bq1asW+2SKbDMQ74UjsGf1+YWnVC1DAdHj//Z
 subTitle: Herbstlich bunt und saftig
   
 ---

@@ -31,9 +31,11 @@ date: 2012-07-28T11:26:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "3332"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "3332"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1018__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1018__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAHhABAAIDAAMBAQAAAAAAAAAAAQACAwQREiExQnH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwYAAf/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEx/9oADAMBAAIRAxEAPwB+xVkdirKMlyzBhts564sbUtb55PCcuTgoWLB66d4zS0tumtp7TW6bD4lKPxF9v9JmZ7l7titaD+anAgQ6dPeIZUypWdZfIYQhixLSm5CE6Y//2Q==
 subTitle: Erinnerungen an den Sommer in England 2012 - Teil 1/9
   
 ---

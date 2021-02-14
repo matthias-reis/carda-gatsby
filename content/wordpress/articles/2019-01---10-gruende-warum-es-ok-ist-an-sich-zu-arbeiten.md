@@ -25,11 +25,13 @@ date: 2019-01-20T12:10:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23256"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Unterminated JSX contents (32:16)"
+thumbnailId: "23256"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Sri-Lanka-340__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Sri-Lanka-340__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQF/8QAKBAAAQQBBAIBAwUAAAAAAAAAAQIDBAURAAYSIRMxFAdRcSJBYaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABwRAQADAAMBAQAAAAAAAAAAAAEAAhEDEiEEMf/aAAwDAQACEQMRAD8AUtu0i76DErGULbk2Ti1Nl14llKP1YyACegD3n0NbMHZ9PSVd05Os6+fIZW0llmDKCvMtQASAACrrKySD1gatm166qh7WYTZO16JDEAtqZDjfmUPFj1yGCR0B171ynr7ZMFJvYiiuOh0yGvFGUFqWpsYCVY45QVY45wMfxqKObK77kR2dozIjUh2tnTFrQ2lTLfnyCcAqSCo/3+B++lS0k2cJvhKffhPpI5/MjIUniAc4UPYHXY++qleb3ql01ta18dEkuOktNeRDbqU4Hagc47H+aTvqruCPebc2/AVEkLW4wbAJbaQ8pCOJSjKh6BOevf30tORbddjWDruSi7btbmWwpIXTNMuKKktis5BIz6JK8noezpsiRrNYIDtGnkQVEVWOX5w4NGjVKKkOSoPkyWm15O4KCwpFTK+ExMQULVErgjBzyzjmc9jS7JgT3LOBNnWDMlMRKjJZ+GhIlBwpByfaSMDBGfXrRo1l+mzW1E/fYUBEn//Z
 subTitle: Besser werden ist gut
   
 ---

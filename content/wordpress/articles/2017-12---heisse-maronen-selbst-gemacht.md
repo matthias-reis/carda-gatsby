@@ -19,10 +19,12 @@ date: 2017-12-14T07:59:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18687"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "18687"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKBAAAQMDAwIGAwAAAAAAAAAAAQIDBAURIQAGEjFBBxMiUWFxFDKR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEAP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIQQxEkFR/9oADAMBAAIRAxEAPwCsyXoVJp7k6pveTGbAuQkqJv0AA66n3invJtpmit0KRNisvLS7JUpktFxBIKRy+grF76wd7eILVRoL8GHBUGg+kJkuZ5uWVwJ9uhsMjUv3RupyRHhU+RKWYbDDbDilq5FxZA8x04vyuSAfZIGp7HJIC7EpqqHbyhUnfyhWksMPGpwZLxbYivLUXWEhRCVqdI/ZWDbIAsMab6xCj1CjonQ+LkZ5skJc+LhST1FwQR9jXOimqTNc50hLkFph1LbCVulyRJubAkDvjkeyb2F9X/YlQRDpLW2pkf8AHfY5oClTEuLkLUVKS6GyAUpVewtcHB+0TH2G1MbAitU/Dh0wnkyKw0zRTyW88GVKcaKQSAtI79uQNv7pDoUGmsGU7UZLKUPISFl1jznFZxYHoB3yL/OjRo8gBVXHuNxiXJ8t4xNDKpBh1hUmjCzST6HWeXFK7+njfIva4Bzq3bbZmzTBrW4Yy4SoqSY6HkhK3VC3J4p6pGCAO5Vjpo0ayqGCuexFtcqxRejP/9k=
 subTitle: Winterlicher Snack für zwischendurch
   
 ---

@@ -32,9 +32,11 @@ date: 2018-12-28T10:33:18.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23075"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23075"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_gelassenheit__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_gelassenheit__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwADBQYI/8QAKRAAAgEEAQIEBwEAAAAAAAAAAQIDAAQFESEGEhMUMXEHMkFRYoGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgX/xAAeEQACAgICAwAAAAAAAAAAAAACAwABBCEREiIxQf/aAAwDAQACEQMRAD8A8+4/Gm4Xje9ce9NmKw+HgtIo7y0QyRoqbVEG9Afged75op6bkD3MMYPLMqj3JAH9p6a0x4ZlFspAJA27f7XOdkCoq7cywpJleM5PqmwxQwGQ8jahZfAfTntIHH27FoaymN8AnXoKfuo7exXp7KFIArLayMCHb6D3oUzsqENo1RT6bsYWq16Kazpe+it8vaTXJKwQSrNIwBPaqnZ4H6pTsviFhHiPmcjD4vcfljlUEb49V9aqqWYwOK7L5EG2FamLOda4W5w2Rht7+FpJLaRFALbYleByKJL28MpPNVVaSkVaGDGWfuf/2Q==
 subTitle: Mit mehr Ruhe ins neue Jahr
   
 ---

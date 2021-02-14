@@ -39,10 +39,12 @@ date: 2018-12-09T14:03:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22883"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "22883"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0012__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0012__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EACcQAAICAgIBAwQDAQAAAAAAAAECAwQFEQAhBhITMSJBUXEUYWLw/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAJBEAAgICAQEJAAAAAAAAAAAAAQIAEQMEEnETITEyQVFhkcH/2gAMAwEAAhEDEQA/ALmxcxeLrxtkslRrF1JWJ5NyfHW111vrR5n6+NrZTzBstVAmpBXllaI+tUlUCNgG6BOyp1/rlrawOM8g8Zlyc6NK6yvAnqneJTr2++v69XFxEdTBeF5lakSKkstcyJ/JLDenOl9X3Ohv9frmdt1lNuaUd/WUw6i8VYeaxHc/49bs4gxURCWndGRJlJBAcFlIG99Ag8k1/G7MeLZJb1eaWpGfdKo4HQPS7A60NcdyWfanQxE0NSZnjWRTCHWNvqT8nr4b55Ai8yWWtYD1LDPJE8TEWUl9skdFhv8A4cnpZcWMMwNeP5L7GocjWRZoeo9zfWYzIecTYTDDGLSM6Gw8/rKerYYL0D9j1zvxLzqxawPklW1TUV7ixIuwVZSvqOxod/PDhwru3YD6jUVeVV8xrJZmCzja9VxYKIGViq66P45R1zUgsCcWLE03tiIGb6dD4/ABPDhwWE8V4iIcWbn/2Q==
 subTitle: Vegane Geschenkidee
   
 ---

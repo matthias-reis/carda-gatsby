@@ -43,9 +43,11 @@ date: 2018-09-27T04:59:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22164"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22164"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_43118769590_4b43635502_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_43118769590_4b43635502_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwYF/8QAKhAAAgECBQMDBAMAAAAAAAAAAQIDBBEABRIhMQYTFBVBUSJhcYEjQvD/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAgIDAAMBAAAAAAAAAAAAAQMAAgQREiEiUTH/2gAMAwEAAhEDEQA/AKun8j0yRSMdIVhrGxKnkEfbGg6gFHkqw+VDIO64VexEXAJ/H+vi3JyBCqiwY7AkX3+ccvq+qjzOWnii7z1MaeJIrgmNpDugUXvcH+1vxhLHqQNttoR2Pj3ffmg3M51lnUkkPlUE0sMEClFbSqmRyL6Tfnkbe1jfF/hTyZcvq/jyVJ/kSSIWV0IBG3sRe3vxhbqClkrqKefNaXToUEGnLLErBivbdW4YIF+rbfDOTRaPUAvkBURFWOpYs+rTz8cW4+MUHRHVPI+/ZpqeKxzI84XsJHJISSu5U2ufxhiaGSaZjRPSstQgV2kchlYEFWAHuOMGDEOTjLeOWDYhxsi6D1STzqiNRTSxzZnFI8japX7NwDa1l+r7nm/JxkUj9MzKtLyPOjRo6TStdri4K/rY/vBgxUv0oFV8VGgBFsbdhJsf2f/Z
 subTitle: So habe ich es geschafft
   
 ---

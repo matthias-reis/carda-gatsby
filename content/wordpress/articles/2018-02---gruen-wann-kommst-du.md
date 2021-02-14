@@ -30,10 +30,12 @@ date: 2018-02-06T08:58:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19410"
-image: /img/demo.jpg
 errors:
   noSubtitle: no h2 heading found - no sub title
+thumbnailId: "19410"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwAFBgj/xAAqEAABBAEDAgYBBQAAAAAAAAABAgMEEQUAEiEGUQcTFDFBYXEiMoGhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAAF/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECAxEhBDH/2gAMAwEAAhEDEQA/AADBqcSF7FbABa75Ne1UeDpd6A6ibxw2+mK3FJCGykKOwK7DkAnvodisuSmG22I5W+k0l1IUoqHbaP50hdEdGdU5BtuVCwsuQm6bVu8pIUFDn9Q9h2PyPrUPowvKtISp2KPXuSiSsYyztEfam1L2kOr5Firrtz+NFGWjoUhSxvU1VFSlUVH472ef81tviF01nOn4XrJwmvkNbXFtxnKbAI4UaqvsHmvjRjmso9FcZZMtTxS3SkBO2iR+0cHnnU8Yck8o0prg2dMoZkuxMNmGhJ3xUPOPxUohqcUq7JLab+O/N6X8PAx0PH+TCiGMyTtKGnVC+bv86tWuxSHRlcpBg5nErhTovmshJRTjiiSD9gg/3rnPxW8N8YJTL+MWITJQGEsBG8Dn3smzq1aH19Do/9k=
   
 ---
 

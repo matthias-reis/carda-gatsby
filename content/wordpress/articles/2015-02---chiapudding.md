@@ -39,10 +39,12 @@ date: 2015-02-13T10:16:27.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "9493"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (21:42)"
+thumbnailId: "9493"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgP/xAAtEAABAwIEBAMJAAAAAAAAAAABAgMRAAQFByFBBhIxkRNRgRQVIiMyQqHC8f/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQb/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBESMQWB8P/aAAwDAQACEQMRAD8A55g4xf4Mm0VZliH1KbK3UlRbIE6AEDpuanl1jOKO3BcOJXQdVBIbdKEg7wAYitVmw869jVqxy/LbaW4mPuJVB/CaxyUBKIASW1HrAHN67bVApUcAdTYWEljGTjWMBBScUvzy6wblXbrVYyc9svbK6ury7Xdw94LBdUVLECVSfUVIkfUQlMNmAQVA6z5f2qhkfehprE7MwnldQ8kTsoEfqO9C5Rx6gG5oOJMqrviC6YfcuH7ZbaVJMJSQQTO503pZjI5ZQB7zdBA3CI7a0UUmlzgAAyS/kLN9D73OLmSNwEJLeIu8yJ+INIiPLQinOEOCHOFMZuF3d5cP+I2G1DwgI1BB6me9FFB7XI0TGsPJa5irAT//2Q==
 subTitle: Gesund und lecker
   
 ---

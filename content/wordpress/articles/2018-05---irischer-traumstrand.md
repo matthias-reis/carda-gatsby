@@ -25,9 +25,11 @@ date: 2018-05-20T15:57:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19831"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "19831"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38453921960_1db9feb646_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38453921960_1db9feb646_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALRAAAgECBQEFCQEAAAAAAAAAAQIDAAQFBhESITETIiNBgRRCYXGRobHB0eH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGhEBAQACAwAAAAAAAAAAAAAAAAECQRESgf/aAAwDAQACEQMRAD8Au+DZKtJYFHZRl9vBYkH7dKe2GTVszqqqwPmJVP6rJ8Oz3cpaxpYWlyp0Gpmk0A9F6/Wm0Gd8Ycjwo3B8jI39p/StaGHIiASXRTTy7p/BrniWJwRxFfaIyoHIY81kkmbcZeXlIgSOnbf7SvFMx47sJVLJdBqfe4+etGTHdbtdRCwFLWS2R2tItV5q32kMDzHwtvA4Vyq8fAGiio8KJLRhUXZHBoD3d0ZYj1JpBi+9VlmC2yv0JW3QEj11ooowY//Z
 subTitle: Ein Ort der Ruhe
   
 ---

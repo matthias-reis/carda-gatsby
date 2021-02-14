@@ -44,9 +44,11 @@ date: 2019-02-08T11:10:30.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23402"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23402"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge-2012__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge-2012__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIEBwMFCP/EACkQAAICAQMDAwMFAAAAAAAAAAECAwQRAAUSBhMxByGRQXGBFCJCgtH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgAEBv/EABwRAAICAwEBAAAAAAAAAAAAAAABAhETFEExsf/aAAwDAQACEQMRAD8AviWtWszNI+4AKfKkKDj401fb6kbkraeYEZ4Fs5P2GNURH111Ym+zy9661Mu7QpLS5Rxq3IIrBUBJX9pLZ+dNsHWnU6bVvVe/a3CzYniVKkzwSBoG54Z1OAQeBJAx5A1N2HifwTF06BghVhiDuxDyeXEAY+x1jsRIrBm4u/0aTJGPxqgL3Uu82/TCxRsWN6tb1Ne76txkWVK6j2HP24nkPHn51K2f1C36GTpitL+oWjFL2NwLU5CzxBuIJLAktj3yCM6Xbj1hx0aepSDBl70wAI/kP81NO3qgOZ5m/t40aNZGUmWB1pxyAkS2VVPoJfJH40RSywxue9K4PtxkbI0aNLbsKZ//2Q==
 subTitle: Mystische Megalithen
   
 ---

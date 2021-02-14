@@ -35,10 +35,12 @@ date: 2018-09-05T10:30:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21955"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Unterminated JSX contents (77:16)"
+thumbnailId: "21955"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQcG/8QAKRAAAgIBAwMCBgMAAAAAAAAAAQIDBAUABhESEyEHMRQiQVFhcRUjof/EABYBAQEBAAAAAAAAAAAAAAAAAAUABP/EABsRAAICAwEAAAAAAAAAAAAAAAACAREDBBIh/9oADAMBAAIRAxEAPwDsJbmLxO/Gwr4upNbtVPjoHn7kbqSRyjAeQ3SHI+/sdMxW6KWG9SqlO/NFDEU7UMhLrH3JGTheD7llK/otz7DWMWd6WdwbkGSzssVWZY/ls1IlWYMoAX+wgt7ePHB1BxdpbnqNhpIrFmxAcrUEbWJWkYr3o/ct51Ea7vTBmjmL71klmriZi0xA+V2JJHH25PHOo+yctbw+Vjggg78VluwEeQqIi5AZ1+nUQAOSPprItzZPdbbpzxo27T1v5K1Gh7xHgTuOP1+NU8u5N1YyWH4vIW6wkYr1pPweBwT50+u2r4uHiwmdN1ydJNCddN6YQJY9SNrxyjlDkoG4/Kt1D/VGjRoAWFbuoxVM9lgjSssuQnslWc8LJ33AYcce2qK9DCtlY3hWRe4COsk9JZeWI8/UgHRo1rvyCqPT/9k=
 subTitle: Ein magischer Moment
   
 ---

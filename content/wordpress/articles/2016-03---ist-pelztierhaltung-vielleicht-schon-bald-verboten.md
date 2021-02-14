@@ -27,9 +27,11 @@ date: 2016-03-16T11:36:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25590"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25590"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_pelztierhaltung__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_pelztierhaltung__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAAHAwb/xAApEAABAwQABAUFAAAAAAAAAAABAgMEAAURIQYSIkEHEzE0YTJCUYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBA0EC/9oADAMBAAIRAxEAPwBU0QJLVv8ANdjLWwEDClsrPIAnOd5wMfNL81hrngtbpcmQ7Ouj6VOJBaQ0AAlIyOsnPMD060NVlbhpXKZgXEHEcqy2l+1Q2AuOwp1tLgKkKU2VKUhWQfp2PT1AG6dUX27e89I3+qCnGlgkWm+TLa9IkvMQYmHQllQBUDkJSo9ikpPyKdkbbDesdI/lFUJsu7EdKwKPcIXlS5cdBYkSApTnKSlSz3yO2SKqqbMJq087xZGMixz71xMlYZWnnQl1R8yUoDpAB+3AAye3p+aTUX27WgOkaHbVVVPEE9yz/9k=
 subTitle: Gesetzänderung mit Vorsicht zu genießen
   
 ---

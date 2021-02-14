@@ -42,9 +42,11 @@ date: 2018-04-18T16:15:42.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20541"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "20541"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_11355109883_b10e2b2963_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_11355109883_b10e2b2963_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EACkQAAIBAwQBAgYDAAAAAAAAAAECAwQREgAFITFBBiITFBVCcYFRYtH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwIEBf/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDEiExUZHR/9oADAMBAAIRAxEAPwB1PCsTwpnIEQqEUMBb+p7ybjk66eRJFiZHMhU5K2WBa1r2HRGo6qQT0p+UkiSeNzGFcN5PJWwNzfoG/eo6TaqitjlpIEieekxvNKgSJC5PvtyCbC3P7GmOUVbY1EDYngRTvzPVinp5Yw6FsiGF7m3QN+blh+hrMz0Uwqt4o46ZxU/Jj3M9zI5OQBA4U2448EaebvvS+md6edUhrKqAFMgfZkCMj13Zh+OdK6Devrv1SrnkDJAokeWUjNSDmVaw+1QbfkDvTMG24rqu/chlrU+b+T0hdipopfie263XhACV7sT/AJbx51l29URJOMNuCyFsA/xQx46JyU3OjRo1B7ELMrVXo1N8mbcZdyq0llNyrWZRY+Bx/J1VO2LsFNS7XTSs77jKwlqTw+Ma5kcc3IXG9+ATxo0a0mxImIMooyimRnzFWNif/9k=
 subTitle: Serendipity vielleicht Retter der Weltmeere
   
 ---

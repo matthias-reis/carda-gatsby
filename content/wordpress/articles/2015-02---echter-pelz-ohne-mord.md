@@ -24,9 +24,11 @@ date: 2015-02-07T12:28:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25601"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25601"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_animal-skins-454357_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_animal-skins-454357_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQHAQIDBv/EACwQAAICAAUCBAUFAAAAAAAAAAECAwQABRESIQZBEzFRcQcUIjJhFiMzUpH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAHREBAAICAgMAAAAAAAAAAAAAAQADAhFCkRIhI//aAAwDAQACEQMRAD8AntaFoMvEHytQ1y3iRNPD+247HcvI9/8ARhyDLcqt15VnyyzVZmVy5UzIAByI5FBIHfQ4Syro/MWlP6fuXLAK6mmgVvwfpLAkewJx6noTpnqi3mTvZy6pllWsWla5cDrD4SaFwNPMgEkE6Dg4h42cTZ1L/Pko9zGXZNReosmVwStNEu5plkZCug4Ljjb30Og5GE2tray2y1t5ZRFGskc5qF5EJBBDn7mXnUHU/ZqOMNdXZ9BTkhs1Sss9rLiw8FiYwJHKgk8jQhQwU9zifpdlEaRxzOI0BVSHYEKeNp58vMafkjBWZLti5uJ6JS8lZ2sxznYHZxLuVdrKRz9JGmmN/jJ1vmWZ3k6V/hy5KsNi2UY7rbuu4BvRB/XufP0wYMPSoM28Nkl1yKRifFnkfaqxrqeAijRV9gMcI4wpJXjT0wYMPIT/2Q==
 subTitle: '"Petit Mort" stellt Pelze aus Roadkill her'
   
 ---

@@ -22,10 +22,12 @@ date: 2019-08-02T13:24:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25442"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "25442"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_moccaklatsch__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_moccaklatsch__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcG/8QAJhAAAQQBAgYDAQEAAAAAAAAAAQIDBAURACEGEhQiMUETM3FhUf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQL/xAAkEQEAAQMCBQUAAAAAAAAAAAABAgADEQQTEiExofBBUWGR0f/aAAwDAQACEQMRAD8AuUlrZVNOJnExYYCkJTGiM97zg9beBkeB/PGlsKHCtrhmWzMXWhyQ24+maEqWlJUCn41nwc+sY3/NdTO42qa1c2HZBqJMYjqW08lBLEjCD2gndKvWMnzsdZfwbRx+IZtRaz5nRF+WPiKWudsuAg94CgrJPMkHJ3xtvqPpd+5fkzOFH155Pbt1+qbd4Y2gOj553p9ct2dFYSI1ktszUrMhDac860LcUEkYOD72J9Z0nsZUp9DSw26S6nDxQ0OZjBOygVDOxJGM6ZS3513J6h5hie7WulmOhElHcA6vlC8K5jgE4z+batcRSW3pVoq2bahNuKJbSWlDqQSQfj32KQjOM423P+1y1MMpyriMYYwjn4T8qeTUMX6zFm/W4dzjJH5pzZ1sepqakxU4bas4KEI8YHUtjRo1sYjcVo81IBWA2MVt2xlJI5T1T+48/YrUtSyoSVLU+8sNskJSpZIHMpIOM/zRo0O8u3KmaYN2Nf/Z
 subTitle: '"Kann ich bitte einfach hierbleiben?"'
   
 ---

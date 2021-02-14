@@ -68,11 +68,10 @@
     "start": "yarn tsc && gatsby develop",
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true yarn tsc && yarn clean && gatsby build",
     "serve": "gatsby serve",
-    "media": "GOOGLE_APPLICATION_CREDENTIALS='/Users/matthias.reis/carda-credentials.json' node ./src/wordpress/media",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "jest",
+    "media": "GOOGLE_APPLICATION_CREDENTIALS='/Users/matthias.reis/carda-credentials.json' node ./src/wordpress/media",
     "wordpress": "node ./src/wordpress",
-    "wordpress-media": "node ./src/wordpress/media",
     "clear": "rm -rf ./content/wordpress/articles/*",
     "p": "node ./src/wordpress/prettier",
     "tsc": "tsc --project tsconfig-gatsby.json"

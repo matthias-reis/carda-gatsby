@@ -27,9 +27,11 @@ date: 2016-05-24T10:45:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14865"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "14865"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Pangolin_defending_itself_from_lions_Gir_Forest_Gujarat_India-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_Pangolin_defending_itself_from_lions_Gir_Forest_Gujarat_India-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAYHBf/EACsQAAICAQMCBQIHAAAAAAAAAAECAwQRAAUxEiEGEyJBURQVMkJhcYGhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECAxIRIjH/2gAMAwEAAhEDEQA/AKfS8VVOkKm3yg+xjUFh+2rR4akm3uWvFTh3B3MyQuHIUqD+YgngZznWc7dvcqWAJJpol7dTRVgGBxzx84/g60vwVvduC1RkcNcD1bVp5p4z6OgMEJ4PIwF9wc6z8uNJdUXotv06S1q/3Oet9NI6xT+S06N6CQcHB+M55+NQKMlKXfty2yKKystHs8kjBgO+AAc+/Ix2xnS95F2DefuHnrNtU1iJ5IBCVldWCNKSoOBnLY/3VU8Tbgu6X0tUr8Mzzosdr6Zh1FwWYHpAGFCMi5PDBhpKjYbtwaHXQGInsMDPYDTZLSdHWzeo9wDjjGjRpYQ1ajiaF/MhjdSvdWXIP6ajJ5daPprwV41A/CkSqP6GjRqKCR//2Q==
 subTitle: Schuppentiere in Gefahr
   
 ---

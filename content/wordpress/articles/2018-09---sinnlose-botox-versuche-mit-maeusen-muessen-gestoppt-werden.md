@@ -32,10 +32,12 @@ date: 2018-09-26T06:14:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22127"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (31:21)"
+thumbnailId: "22127"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_animal-1554745_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_animal-1554745_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFAAYhEhMUFTFBUQciCCMyYXGRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAIDAAMBAAAAAAAAAAAAAAARAQIDEiJRMf/aAAwDAQACEQMRAD8ATv0u2I3vWXksY7mfL0tqbQwSz3Apayekq+4Un7aJF8kat9yfh831icjJbgQWcnDaotyWpDaC4DVflqV1A81VeoNXxbL21itq4OBGahiYnImvEBlTYdURzdlJ6v4vV9uHeUvzbFToeSkToTSkNutqjhCwL5Kik8j/AHnU1dUymc+SEng/pLm8fvNiJu3FOMRWyhYFhbchSv0tpWk0eQbo8AHXZw25hpOBi4rM4zHyYSCjtx3I6ChCx6dKaoV+2k9ufJT9w54HHEEx3z4c9woS6ogDuEc1QsD+/etbx/ewxGz3J+4PDeaR3PDISy8lQdWb6eRwDQJPwBrdL9p8Ma0UR6KWMFtMhyKssdhYKQjg9Xzesw/CMKWllt90ha1qSSeUgm6v3q9GjQfEh4htkxnvR02FKUpINEqOk7vfdszcUhplaRHhxVK7bKVFVqPqtR91GgPTgCvmzRp84JbSf//Z
 subTitle: Unterstützt jetzt PETA!
   
 ---

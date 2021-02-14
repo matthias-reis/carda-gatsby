@@ -59,9 +59,11 @@ date: 2017-06-07T12:22:37.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16781"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16781"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35025778881_060fbca8d4_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQj/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMABBEFBhIhMUEUURVDYXKBwYSxsv/EABcBAAMBAAAAAAAAAAAAAAAAAAADBQH/xAAhEQABBAEEAwEAAAAAAAAAAAABAAIDETEEBWFxEhMhwf/aAAwDAQACEQMRAD8A83bft0udb06GVQ0clzEjKR0ILgEGnNlDauCwtNLIHh7KP3+2he1WA3FpOe3rIf8AYptp0g4gANhejEdSPrS5ZTG2wLVPatDFrZ/XM/xHGT0tNxZ2npS/wvTVfBI42iE/nAwPFB922kdpuG9ihjSKNWUhEXCrlFPQeO5p9M8Txzm3iVHdBmKBAitxXHIr7nGSfJ60Q34Au6tRHsYx2x8pKIpTI2yEbpt8ehe1rH2SPouyOyKznA/UXsblrS7guUALwyLKAexKnP6rvRbqtkxz0dH/AJUg/dVVNUzlbBve1CcV0JAcY5C8lB/uuNrWpPq+pXF/JGsTTsG4KSQuFAAyep6AVVViF//Z
 subTitle: Zeitgenössische Künstlerinnen Afrikas im CAAM in Las Palmas
   
 ---

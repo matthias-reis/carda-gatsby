@@ -40,9 +40,11 @@ date: 2013-09-09T15:45:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "7087"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "7087"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_foto__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_foto__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAQP/xAAuEAACAgIBAwIDBwUAAAAAAAABAgMEBREGACExEiIHE1EUFSMyQWKBQ2FxkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAID/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQRREkFh/9oADAMBAAIRAxEAPwDvw14dgrPHcLZsYPEWV+y1lsfNqq8ssksYf278kKQxABLbIHjql1eDcWmaKCDh+IR2/q2MTHGn/V2x/br+R0T+Dk1ZOF0lz0VewKlenkKzTqrLARCiKy7G1IGiW/cdeD09gy+Dy/IsZHOtexcrSSyVXevLG1eZV/EUhh2b0EH6j6dx1A/kWMpamVmNU4NxfIYmvZfiuCiklUllWhFoEMV7e3wdb/nqb/FnguEx/Es1apYbH15IazOskVZUKkEeCB26pGL5VbXGV5lp1/ukNNHHJI5id0WRgjA9wSRrsASd7+uhnxUho8q4byDJeudVo0TJDDIgHf3+7RHb3L5HkDpQsGzqNXjNTy2hPLAm3i+IcYzVWMT1fuepDPEWADsFXXq2DsD+/bsO3Wk/IGt4+OKjSqVZZa6q89GEEwI3zI0UCNQQfUFI/MQH1r3dFeDc+w0PBsZjZc7jqlhKUcLfaAJBGQADtG7HtsaPSOLk/HZnYTcy4/HA6NHIkcVdWlX1Bk9RI/TWu2v99+uhFtibTkCwDC9vfyOKubw9PCvQx8tZZKMRVaWQkWu4AJI9at+UHRPj/PUl5VPffjXJrhj3TsYuVHlFVovnb0Vcu7Ev32B40P0G+tTOZfiV6qtaTmOIFVVUfKgjrr33tiGHuHq7+ob0d9CeW8i43T4TlsThstHZ+dEyxh5zK+iRpQfGhropp1B61MIQoye8z//Z
 subTitle: Ich habe aufgehört zu rauchen...
   
 ---

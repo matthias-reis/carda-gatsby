@@ -31,9 +31,11 @@ date: 2014-03-13T17:00:08.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "7790"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "7790"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_03_12598441075_52a347b6d9_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_03_12598441075_52a347b6d9_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBP/EACkQAAIBAgUCBgMBAAAAAAAAAAECAwQRAAUGEiETMQcUI0FRkSIyYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDBBIT/9oADAMBAAIRAxEAPwBtioHI/U/WNsOWMxA2Pc/FsMsVMtuFH0caoolS1o0v/cO9lgrAiaU1TltdVQ5vTZtOMopEq46k3RacNGVDFyw3XBK7bd/bubvFLlSFEeNN6MAysCCCDyCCO4xH/EnVcWntd+QzOtPl4KWobpOjSxypUlSu4bSt0ABsQR6fe7cXqllhFNCIGDQiNemQtgV2ixtbji3GCeW2L5wKsmuNNwx1DSZhJeESEqIZCWCC5tx7jte3+YVJfEbo6orGgjatynbsgjHpMbG++5B55Isbe3xgwY3EoxbFnXuYaP1BrdKioghqIWywBpKima+5ZV+OeF3C+K9FrLSbJItLmgjjiIiVfLS/gOyi23sOMGDFwXR//9k=
 subTitle: von Sonne, Kunst und bunten Masken
   
 ---

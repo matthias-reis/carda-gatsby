@@ -30,9 +30,11 @@ date: 2018-02-27T18:03:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19737"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "19737"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39326545305_838c55ffba_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39326545305_838c55ffba_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBAv/EAC8QAAIBAwMCAwUJAAAAAAAAAAECAwAEEQUSIQZRB0FhExUiMUJDRHKBkaGiscH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EAB8RAAICAgEFAAAAAAAAAAAAAAABAgMEMSEUIkGh0f/aAAwDAQACEQMRAD8Aa9FDbFL9s4FM1vNGkal9q57nms16d8Q9JuxKk6S6ekag7p14c9htz8v9q3brbp0pEy6okiyH7CJpCg7sOMD9/ShlmVbckQq5Du93EeDIeewqJdXMSDKyNn8NIl74j9PWV77EJqk6DgyqixjPoGyTVTrvijpZtHNhaXhuVH3l02Ac8/CMnyP60PVw8MNVSM6hsbK3yXjnLLld0U5jJ9fOurqOlh1X3ZdOB9MmoOVJ74AH90UVmYkVdzZyN2duifHdWMzqg0m3G84y0kjY/kK93ljaRRsTaW5+obQwI/Mk0UU+8WqOl7f0rU2z/9k=
 subTitle: Eine Irische Sage
   
 ---

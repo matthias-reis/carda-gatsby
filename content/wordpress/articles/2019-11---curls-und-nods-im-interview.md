@@ -46,9 +46,11 @@ date: 2019-11-20T17:27:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26907"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26907"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAcI/8QAKRAAAgEDAwQBAwUAAAAAAAAAAQIDBAURABIhBhMxQWEHFCIWI2LB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgID/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAESEDBBNRIqHB/9oADAMBAAIRAxEAPwDJ6WjoNiiSBJJHP4govnHjkat1FniKOEoIw4wSoVCy++VHI00wolohrrjAFnlmVqCBl3bkkkQHaV2nb3F4D8gAEZGdL3SNqpm6ZrIIqAG80skkz1qR/vRyoeIwxIJ3cYHsMeDoZ9wVN11NaO05FGc5ifBDIzE4Z5N5z7ydTX0y9slEBHv+Pxp7u3046pttinvlVZ3joSveenWUGohQ4/J4xyFHv2PYGkSc/cCOODAMjKgAPGTx/enIYPkRKyOrUZ1LZ7X+mTW1VddaSP7mBaWnmgjfb3PybDj1xkA+DyNM1xlsd2vFskqZlq1tWySlCklDIYwNzgeMc43YGT8aNGp7Raiw7H2UxJ4FrFE+5bu1zJlgnp6mFChIBYcMD5BHn/fOsc6x6E6ZlqJq21FbbWGQzL2uIlf4X0M849aNGunIynxMBZQwoz//2Q==
 subTitle: Jazzy Vibes aus Münster
   
 ---

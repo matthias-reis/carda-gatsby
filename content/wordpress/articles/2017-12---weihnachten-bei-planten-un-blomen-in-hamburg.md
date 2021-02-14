@@ -29,9 +29,11 @@ date: 2017-12-25T15:43:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18723"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "18723"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Planten-un-Blomen-1-von-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Planten-un-Blomen-1-von-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBggH/8QAKxAAAgIBAwMCBAcAAAAAAAAAAQIDBBEABRIGITETYRRBgaEHIlJxkcHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRUQP/2gAMAwEAAhEDEQA/AKpf3fqPquEQw17tlWsIAtcHi7BSFUp8jjsPYH301NW6j6Sr1KG9puW2TX7MbiMWIkieHmgIPc5bxn6dtWj8PNzr1OlKsez2FS9NNieNpAJWschxbzkoQMY9z89QPV3WUu57xtlC8Hb4eyFcSR4dZjIE4qVbxgeftqVel0+8Ec4tNEw1kSWUkDJdj9zpeXc9vawteOdHkeETpw78k/Vnxj69/GmhJy9QoRks3c+POq/cpRUYjaiEQlqO7+s45qBhhh1Z1CpgnHH21UGYzpWF+KiX0VAJBUgkMv1/cab2+3JLvNLnguLMJLHJyS4H+/zo0aKZQjNK1OprZnnpKMGMsyy8st27/wB65r1L1jue77larXmU1bVIo8cQ44/L5BOcHKZ7fMnRo0oZ/9k=
 subTitle: Zarte Blüten im Winterlicht
   
 ---

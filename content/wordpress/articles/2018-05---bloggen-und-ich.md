@@ -33,9 +33,11 @@ date: 2018-05-24T06:00:58.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21008"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21008"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_Anne-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_Anne-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAIBAwMDAgYDAAAAAAAAAAECAwQFEQASIQYTMUFRBxQiQmFxkcHR/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAAoEQACAQMBBQkAAAAAAAAAAAABAgMABBESFCExwfAiIzJBUXGBofH/2gAMAwEAAhEDEQA/AEulpUNJEiE7xnwce34/erb03bYap54oJ6RHgkIjVHLZRCFDjPB58kDA4GpM0YNr3DG4xk7h4B2nGfU6zbH1PV9MdUWY1Bnwixr2pQ3MMqhmJyeA2d3tnGh3tNpjJB7Q4e/6MfNbmZl8I8uY5Vfp+jqA1oqUb6yS7KznaGYAMQPH2j+NTv4kWO1dPdO1CxQUi1Fe/bRYlxuOdxcj1xjz7kabL/8AEK221CsEi1kvKjY2EBzjk/5qcVSXbri6Codz2kAR5HXEcIJ8KP6HJ1OQNI3eSDSo9d3XWK4iJidUlYtHWD5NRhSwGfGcD31n11gkuqTV9PTmplg2kPJIVDCMAhOScjAxjHGdGjTm7ma3QSJxyKIuJCiZFPFoorcsiVF2hi+YlVZRTNF244sjIGz8Z9TpgqL9TrAAYVi2qCuz6UH6A8aNGpi6ZmuCrHO8j7pXK7FyCc4Nf//Z
 subTitle: Warum es manchmal nicht so einfach ist
   
 ---

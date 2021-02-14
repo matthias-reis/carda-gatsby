@@ -9,6 +9,7 @@ import type { CompactArticle } from '../types';
 import { color, space, fontSize } from '../style';
 
 import { CompactTitle, CompactSubtitle, P, S } from './typo';
+import { CardaImage } from './carda-image';
 
 moment.locale('de');
 
@@ -64,6 +65,7 @@ export const ArticleList: React.FC<{
   if (maxArticles) {
     articles = articles.slice(0, maxArticles);
   }
+
   return (
     <List>
       {articles.map((article) => {
@@ -71,13 +73,22 @@ export const ArticleList: React.FC<{
           <Item key={article.path}>
             <ItemLink to={article.path}>
               <Date>{moment(article.date).fromNow()}</Date>
-              {(article.image?.childImageSharp ?? null) && (
-                <Image
-                  Tag="div"
-                  alt={article.title}
-                  fluid={article.image.childImageSharp.fluid}
-                />
-              )}
+              <ImageContainer>
+                {article.image?.childImageSharp && (
+                  <Image
+                    Tag="div"
+                    alt={article.title}
+                    fluid={article.image!.childImageSharp.fluid}
+                  />
+                )}
+                {(article.remoteLoadingImage ?? null) && (
+                  <CardaImage
+                    alt={article.title}
+                    src={article.remoteThumbnailImage || ''}
+                    loading={article.remoteLoadingImage || ''}
+                  />
+                )}
+              </ImageContainer>
               <Text>
                 <CompactTitle>{article.title}</CompactTitle>
                 <CompactSubtitle>{article.subTitle}</CompactSubtitle>
@@ -90,3 +101,11 @@ export const ArticleList: React.FC<{
     </List>
   );
 };
+
+const ImageContainer = styled.div`
+  width: 100%;
+  height: 0;
+  padding-bottom: 62.5%;
+  overflow: hidden;
+  position: relative;
+`;

@@ -36,9 +36,11 @@ date: 2020-02-16T15:21:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27495"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27495"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgj/xAAtEAABAgQFAwIGAwAAAAAAAAABAgMEBQYRABIhMUEHE2EjURQiMjNCkVJx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxIhBBETMTJBYf/aAAwDAQACEQMRAD8Am0BKDnSl1GTOjOkrFsyf5DxvivdNachIiXqd+QOFQQ9dWpF/blOgtbS+H6Sg4CawDcFGQ3eQpKEtIcSMySBYZbbf1+8Pzil5rSkTDxktU496gzOApLakG10nnbg7ca64jCmyG85EqrUSqlpwfsaqinWp12IKFhe8E5syQcpsRa+bg6C2Obq2pt6STB5Lt1NqUe2vLa/gjhQ5GOsKWqaWTeDiWGCpmYMrIdYWmyioe4Oug29xqOcZTqjJoadQ7zoLfxCkXdBISHQBcHwoDUHkb4f4w63oYnyGk1jiTOhq4VT8a0uLhlRcG3dILZ9RkHS4H5AfsecX+U1xKJtJ2zBRDUVDuCxuMwJJ+kjg73HAGDBgWkqHKHqZqkAF47kQ6z1fKpDUMJDU6lSpgiy4hwK+yL3CARrqdbcW03xla66kxEZLW2k3VEPJzOJItcnlf+DQ7+MGDHXi+y+4QAMgJyRP/9k=
 subTitle: Tee und Kräuter in Bio-Qualität
   
 ---

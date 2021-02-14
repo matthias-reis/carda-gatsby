@@ -27,9 +27,11 @@ date: 2018-06-14T16:02:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21262"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21262"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42741149922_94a334ffb4_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42741149922_94a334ffb4_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgIEB//EACwQAAIBAwQBAgMJAAAAAAAAAAECAwQFEQAGEiExIkETFbEyQlFhcYGCodH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMFESESIv/aAAwDAQACEQMRAD8Ab0WwbPPiWQTQkkdI2Bk+2Nb9TseERlKaSQ9YBk7H0zqq2671t1kqaWtvlvp1DPC8ciJGeWMAKejkgnHWmdy3Vd2qKeKz3W0XDsGRaSSPmoGOjyJzn8tKJkbgeGG2Y2hx9ASYNmIKiY1KNKIjxdTyiJOMhkbB5L7Zx50pvu2FkGJEr6dT91USQfuRg/1pncd2bmwggtHwpD25QCZT14+3nz+mqzf96XxoAWjqKAjPJEoy/L+TeMaq+SsPWEhXi6UHlTMa6np7i6yTRRrVxcWiqQzKVZTlQxHkA6o8l7pbDeXSrorjS1bZw0EgkV+We0Pp9Ofpo0aFotZDoRu6sMNmdA+exFAVeXGPL4Unr3H+aTXW9fGX0MSPxGjRpEnUOWf/2Q==
 subTitle: Stadtbesichtigung mit Hafenfest
   
 ---

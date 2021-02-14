@@ -24,9 +24,11 @@ date: 2018-10-19T08:13:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22444"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22444"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_Vorab-Cover-Per-Anhalter-durch-die-Galaxis-Universum-Film__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_Vorab-Cover-Per-Anhalter-durch-die-Galaxis-Universum-Film__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwT/xAAkEAABAwQBBAMBAAAAAAAAAAABAgMEAAUGETEHEhNBFCFRcf/EABYBAQEBAAAAAAAAAAAAAAAAAAECBP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEESExEkFx/9oADAMBAAIRAxEAPwCqTwal/PbxlMXOcmdbyO5RbRCkFzsRKUhDbYSnaQB+kgAD9qoDwawzOIMc3HJ3EMQZr3yG1uMyZAaSnQSQknXJHH7vVK5CUEF+jMuTW9rVons8/IvYTOyN/J7C9MyS9qQ/MQXIa5BW2Ek/bajv70KpQcVgXSKNDk27HJMGJBhtmUX/ABRZHeEKPKVAgaWNaI9VvtSMhbifE70dSqa3rZ1YaG+IUnXbpniN2mTZVwtHlfmL8kg/JeSHFDRBICwPQ9eqKKZonNaOkuEWe5x7jbbC2xMYdDzbgfdPascK0V6J/tPVFFJJPcSxPZn/2Q==
 subTitle: Neues von Arthur Dent &amp; Co.
   
 ---

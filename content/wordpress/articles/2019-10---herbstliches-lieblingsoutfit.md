@@ -32,9 +32,11 @@ date: 2019-10-11T15:46:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26494"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26494"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-101__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-101__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAArEAABBAIBAwIEBwAAAAAAAAABAgMEEQUhAAYSQSIxEzJRcRQzYYGRweH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQEDBv/EACQRAAIBAwIGAwAAAAAAAAAAAAECAAMEEQUxEyEiUYGxYfDx/9oADAMBAAIRAxEAPwDCYkZmKs/jFGxtKG1WpX0+w5bdCMYzMS2MLk2Y8J6S6DEyHYT2rOvhOi/UlXg6KT+ljnE/gWs223LiS2YsrtDag9+UaF+4sp1e9+1cXsQp8dEqMpUZ9LbhSy4y6L7gfmT3VaT/ALwjT6FtdIyEEtjn8ff2Lbus9Fg5xjtNghYCXhW5McqciSGXexbSFdtitXW6Ozd1xTn46pXT0pqQ7JkFxxD7tK9RUQqtmyQNefrypw/UEvJ4BCZSWWJZT8Mg2ntcAApQI8ner+YcjOqsi7Ajpg00XAoFYCrBNavQtNDx5J4hVKlCoaediYbRZWAI2MzbAZuREaWptIILS0nu2a7T/dH9uJDOdW4iydC/fzw4c0Gn9KtjvKLpQWGZX4zKzV40huU+0pHqQUr0CKHt9iP4HEmVzmUXt2YtxDg0k+NXs+Tw4cHvwDdHx6kWgHBHn3P/2Q==
 subTitle: Die Herbst-Winter-Kollektion von Living Crafts
   
 ---

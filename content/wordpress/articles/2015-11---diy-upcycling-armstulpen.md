@@ -23,10 +23,12 @@ date: 2015-11-18T19:32:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13111"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "13111"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAmEAABAwQCAgICAwAAAAAAAAABAgMEAAURIRIxBhNBcRRRIoGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAgEQACAgICAgMAAAAAAAAAAAABAgADBBESIQVBExQx/9oADAMBAAIRAxEAPwDn4/b2ZGGygLUcDgBmmaUbdZfSzPkR4T7xPBD6whRx3o/6dVi2K5Q4cYvXB1hqMn+K1rZU4kZ1sJIP9/FTPz+6++7Xp+P6PWy4I0ZbQUQGQRjZJyN57+alsbG+w2mMr8m74ELgfkrdyjsSYvuYIebcJ4rSQoKHQ2O6S/MWoluYSZDrbPMHilR2fod0nQrrJtUFxmDNdZSo8FcFHBJ7P3j5H7pduTw4KAWpRwdqOScnJOfs0hX4wq2y3ULfy210F7lNtVxdbbSU6yDqs7yqzN3dS5iXVsOqZQ2sABSVJSMJ1rBAooo5WNdnJOjFiosr4v2IuOeOlnx/84TXFLacKQko1s9996pOluuZIKs8R+u6KKVxbXctyPuEZdFagaHqf//Z
 subTitle: Strick mit bunten Manschetten
   
 ---

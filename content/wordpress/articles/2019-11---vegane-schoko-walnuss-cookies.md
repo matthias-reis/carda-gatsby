@@ -26,9 +26,11 @@ date: 2019-11-28T06:55:37.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26787"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26787"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-10-walnuss-schoko-cookies-post-baking-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-10-walnuss-schoko-cookies-post-baking-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKxAAAQQBAgUEAAcAAAAAAAAAAQIDBBEFACEGEjFBYRMUIlEjJDJxcoGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAQP/xAAlEQABAwMCBgMAAAAAAAAAAAABAgMRAGHwBBITISIxQeEyscH/2gAMAwEAAhEDEQA/AI3E8Nt4h9a+IVNBsBCQ3zbAKuiop+iP09/8LVEmVj3m3sfI9rVKbcjMIaSjmJCudxSjymhRNi/26458Yx50R+c4uQw6Qsl8qUa2oK3G52rwdtb0peIfS77SJFTMSkJQhSQpJIJIFE15333231GcUrTOmUH8tna1WGdr7Q6hme6pns3LnYQN5J2PPbfQgFEiN8FquuYKq+Umt+wIPnUTneBZ8+K9kMIzIaYaNvQHHucoPWkrJ+R70T076okZJ98H2/qSVFwggBSUc6rKUqI6WKG21jbVRw9hpOIaCspMVFTkWfyq45Q4wlw2PTcVVBe4oGgfu9tctG88tfDXzTfJztW6tpltO9EBVsip3h/LPOxUodSlTkYfFfe2nOUHwSldf0NO2VxJGUlx5mNhSvetvIU66yn1EKbIAUFADchVH+IP3Zo00+IAPmTSTBmRYU8wrDTEhhgpK4U1txt2IT+FaD1Ce3S6FVt9a5rxhxTOwcXPRY61uwi9yei6oKsGwQTXi9q0aNCkdahnyj6oXSdgV59V/9k=
 subTitle: Rezept mit wenig Süße
   
 ---

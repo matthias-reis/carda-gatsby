@@ -72,9 +72,11 @@ date: 2012-07-30T10:46:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "3478"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "3478"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_418948_web_r_b_by_dieter-schc3bctz_pixelio-de__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_418948_web_r_b_by_dieter-schc3bctz_pixelio-de__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAJRAAAgEDAwMFAQAAAAAAAAAAAQIDAAQRBRIxEyFBBlFhcYGS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EABsRAAMBAQADAAAAAAAAAAAAAAABAgMRBBIh/9oADAMBAAIRAxEAPwDd2OGkABYgkYBOcU31sxLNCHRztTGV28fZ71n9CnElzCD5IzU9fvt+osFfeoABUMMA+2AM1Jzh8bK10vh2nuLcEjoH+uKTag8KwvLJBIigjzyDwRVC8vRk9UZweWX3qkJkWCZZgmwgZKn78D8oNtyzS4xt6auM3WfCqTS3X9USO4llQ5BYd07g/Pbmiiqmcr1E9KfTI3mtguwAbPzn85qNnqKOrFSwkOOGGefFFFJeRCQfGmz/2Q==
 subTitle: Such­ma­schi­nen­op­ti­mie­rung und Such­mög­lich­kei­ten im Netz
   
 ---

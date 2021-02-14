@@ -26,9 +26,11 @@ date: 2015-06-26T10:23:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24492"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24492"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwL/xAAtEAABAwMCBAQGAwAAAAAAAAABAgMEAAUREiEGEzFBFTJhcQcUIiMkUXKBkf/EABgBAQADAQAAAAAAAAAAAAAAAAQBAwUG/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAAxEEEjEiMkFRYYGh/9oADAMBAAIRAxEAPwDNLO34o84w+4pFvh/ZELJHM+kAKUUkHJwfQHFWfCrbzdulCSy+iPGXqYac1OvKAWE6dZA1JxnHqM1w3w3DRITdIdwXGD6Uqfi5CkuZ6gdx+9u9XsTwBsoRHS0ppKBhWVk5BwBv6d65/U3WLYRkY+fuaVS7cHHUPMx6/wACE5e73mKxIUlLcptx6YI6dIA1JSMZWVA4wMEH1qNkW8v26ZJYtK18pYcdf5hU202tOwKdt+4V/taB8X4seBxnI+YZWhLrLL7aE7EJKU5Kc532UMHvUXcJpnXJabWzNkQWUDlNSkZPLA8rgRgFIUdid+lKpZuTAXWGy1nPs/pJjSJxIWStxcZSykEJw7p7e29MWOPxH06barI6fkDHX+FFFKfT12d4zFl2ii+8Vzb1xA7eUBDb7jIZUmQA/sBjPQY9sVPCVcGXgGrg62S2GNSAEnlk+XP9+9FFVcNgSVrVhuM//9k=
 subTitle: Das neue Buch von Patrick Bolk
   
 ---

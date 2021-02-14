@@ -29,9 +29,11 @@ date: 2019-05-10T11:02:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24106"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24106"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_anne-matze-die-hermetiker-amreis__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_anne-matze-die-hermetiker-amreis__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYE/8QAKhAAAgEDBAIABAcAAAAAAAAAAQIDBAURAAYSIRMxIlFhkRQjMkGBwdH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAECA//EACMRAAECBQMFAAAAAAAAAAAAAAEAEQIDBBIhQYGhEyIxYfD/2gAMAwEAAhEDEQA/AFFohmtNvr2u0MSQGNsKK1ctjsH3ke8/PWdntlXUXGiqrZE00D1EWJYplYEc1znDZ++m29l8VuoI62qp57pTP+JYIh5cH+HgrDI6C+j339O47ba5parbT0kMTtFUgzRqV/S7hw3Id8gDg5/rR4BNk04mgC8+Ro3rP2UXpubGyEzq7BSxyT8YJzCKiRxGHLpIwZjjkBkZGf8AdZqLZ9Pcooq5Z5kBlJeJo8gEN0AfeCMe9P8Ad91otrXCVaSir6qqqhL4i0/5KguV4hAMkg9+/wBxpft+4VF4hjFHijlp0CSJK+Y5+JyQqkZ5KSPv9NcxT1EqmMUEfe/G6sw5tZZW/wC6KurvEVLNT0YWnPFZEjKO3IAnkQRy/nV+17pVy7voqTyBKfzLlEQDIDKQD189GjTNNkjVXb53Jd4r/LbnrPPRxSs0cc0Mb8CWPr4dctq3BdK3dVNR1FXmESSRgiJFZVBboEL16GjRqOeFgZK//9k=
 subTitle: Unser Roman-Erstling kritisch hinterfragt
   
 ---

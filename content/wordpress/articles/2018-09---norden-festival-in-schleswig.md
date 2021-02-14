@@ -33,9 +33,11 @@ date: 2018-09-03T08:20:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21925"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21925"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29504059357_49e24defe7_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29504059357_49e24defe7_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYBBP/EACwQAAIBAwMDAgUFAQAAAAAAAAECAwQFEQASIQYTMQdRIjJBgZEUF2GhweH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMF/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMhBAUSFEH/2gAMAwEAAhEDEQA/ANf0hBbqqJ6aPppqOt2NGGjhYbwffcffBznPGtpa4bbUUK2/ud+WMiWSNzsB2E4V8e2fGkL+4l6a9U/YGKY/p1VWpEJDsGDEqctzt4OeD/B1KnqL1ZVW6YrTIKlDC8jQ24RvG4fLRqSfjHAz54J85A0J9lie22RjhpVqhx3ylo4bQ9vq5Y6aGRGlhcAyPGScna3Hn5ftqCz0VLS9N1CyVEt0tjn4opKYp2ygzkYJbPPkD76Wlw9QOr6hzF2zS0qViBjTUoRjGWYHBbcGG3ad2MAn8eyD1M6qnWZaugosx4+NsxlxluRgnkAJnH1z76m+2wJX5AeNC7tl07ZYrtVR9Rjj+9W0d9kEahanPkeCxH/NGjWBLjwlJ2hzjXpsMZZW+Xzn8fXVbXXfcmFqcge7Z/3Ro1P14KWhfp//2Q==
 subTitle: Einfach mal in der Hängematte liegen
   
 ---

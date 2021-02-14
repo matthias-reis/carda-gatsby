@@ -32,10 +32,12 @@ date: 2018-01-04T19:45:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18799"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (29:8)"
+thumbnailId: "18799"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcA/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBjFBBxNhUXGBFCIyocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABBP/EAB4RAAICAwADAQAAAAAAAAAAAAECAAQDESESIjFR/9oADAMBAAIRAxEAPwCX25dtJTs3faAfxx/mqP6eUEF3uSwtCJIVQ+8SoOzIO08/I0E6bnoLvEtGsrQSMskwmZcqqrywI8eedVf0vpn6cuNyp5BLUmpip5I3VdqkEOec9uCD+RpHWTysBXHOxtZKribR9oJvyz0/UVTQRUpDLlhGq9lwSPj+Izol1pGauKhSM4VQzsfngY+/B1dbjJTydSXORigkaKJdpIDKMNgn6jzz2GftqIepE/6e/wAsK+/ErBJHV1wHOM7wMnx/emCUQMhbfNmEqqlhQr85C9luk1sXbSCNjIhjIYYYDzz85xqhdM+oJhV47y5hysZp5I0LYKEYBC4IG1SMjJz+dbW1QUK3mPs1NXTMvsIeuvVlVH1DPVWyumMbRQwv7q594IoGXHOSef25+vOjF8vMtfLvkWEEcDYmML48nsDjvra2ih2/ZGVcK6Qan//Z
 subTitle: Luxus ohne Tierversuche
   
 ---

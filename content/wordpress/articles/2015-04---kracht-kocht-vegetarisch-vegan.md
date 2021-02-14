@@ -24,9 +24,11 @@ date: 2015-04-17T09:05:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24486"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24486"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_soup-2897649_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_soup-2897649_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECA//EACYQAAICAgICAgICAwAAAAAAAAECAwQFEQASBiExQRMiUYFSYcH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAIFBv/EACQRAAICAQIFBQAAAAAAAAAAAAECAAMRBBITITFB4WGBodHw/9oADAMBAAIRAxEAPwB+ku4W7EBANE84+YY/IXMN43UqOyzVactmRAnc9JJO6g/YHRd/XyORbWbw2LASGxBn8kXCQ1ajMapkJ9GWYgBlHyVT517YDlYxdvzFvPLVmeeCzesokhaW3GkMiuevQjemQ60QAdAa16HMxp6XCtvOP2fqAUcE5cdY1wseTnSaKvXjsvDGzFUlKdvY6gMQR2O9dSdn+uZjzMMV1qlmrZrXA4jNaePqwf8AxI/7yR5eMrg8LPPisrXW1YeQ38VSY94h2/Qwx6DEBTog+wdkHR9aeTYrJ1YMd5FYs0MhFajhgaeu25U0ml79gd+gRsaOwB/vi1qKEDZ5npCWauxDmoch7xX4fi4IJTkrlcS1KAEjRE+ppGVlji/sks38KjH+OQrGGuW8ktuGZEURhBHohQoJICb2fs/O/ne+HDk+O9e3afX58S5trWzO4Zls8MzdelPdTLKe7Rj8M8EZdmKr+ySkfHoAjfogjetcZzPFZxeNendWXH5ANLdo/gTuku/QZhplCE/B398OHFHqVLA47+YkaEDg4n//2Q==
 subTitle: Internationale Küche statt "Traumschiff"
   
 ---

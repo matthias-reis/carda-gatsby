@@ -29,9 +29,11 @@ date: 2020-04-16T07:02:47.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "29067"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "29067"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-1624jpg_14603385914_o__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-1624jpg_14603385914_o__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EACoQAAEDAwMDAgcBAAAAAAAAAAECAwQABREGEiETMUEHkRUjJFFhcYLB/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAdEQABBQEAAwAAAAAAAAAAAAABAAIDESESBCIx/9oADAMBAAIRAxEAPwDzigZAzW79L9Px7ndHJ9xa6sKGRtaKCoOO4yMgeEjkjycCsTbIsi4zGYkJlb8l07W2kd1HGePambpS5J01A+E3NSIE0lTi2ZC1IWFqAwSkD7BOOaT5D+I7CLCzqTVa+p7KGNFyn7AzHityZiTdihkJdeBHy8nwncDkDGSoE0hnEjeec80+9aXxd80JNhttoRcEKbS8tS0pCmN4VvKj35HHnCjx3pLPRo7aFu9UugKxtR4B85Pf2ozXgtF/VYt9jSh7qtbZfZsAbWug6jOdshoOAH8E8j3oopLhY1TrVFvF4m3Nf1To2Ds22kIQP5H+10+0noNDHJ5z+qKKLJlUrNGL/9k=
 subTitle: Überfischung und Kochrezepte
   
 ---

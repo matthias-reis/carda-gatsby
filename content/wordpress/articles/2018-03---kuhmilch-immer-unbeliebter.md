@@ -32,9 +32,11 @@ date: 2018-03-27T08:15:50.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20293"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "20293"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_udder-562980_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_udder-562980_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EAC0QAAIBAwIFAgQHAAAAAAAAAAECAwQFEQASBhMhMUFRYRQVUnEXIiNCYoGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBBf/EACARAQACAgEEAwAAAAAAAAAAAAEAEQIDEwQhMVESsfD/2gAMAwEAAhEDEQA/AIFyvdHbFRZamOSRjtVVJKg+51pqe3UlZw7Q3aku0lQHncTT8twqbVzy1jyCvY9Tk9vGuV0PDiMk0jSzc6UfnQsSpz/HtqTaxeeHRMlBJLUUXWV6LBdXO3bkDw2D3Hga5mnLt8gv1HbNRkUNM6lMrUccS1DAvJ1Gf3fb7edUt0gSeJg4XJHY6VFdpeKLBQwR0nw1TFNzJ3GSsSouAc++SOn06qLnBV0sSwUEhZ5ACWm6hRnx/WqNqlV4lYaK8tTafh/dk2yURoq/PRhC/LZR64fA/wB0xc+DuIqChlq1tk6xA/qpDJHJJj6gqnO31wc6NGlcJgXiwnKrTFWumhgpTBQ0i7VVTy1AUN3yfTydPXejpPliCEESKxcBnBKjAG0e3oPbRo0PpMlMl9n3N3KZFfu0/9k=
 subTitle: Markt für pflanzliche Alternativen nimmt zu
   
 ---

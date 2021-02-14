@@ -31,9 +31,11 @@ date: 2013-09-10T15:45:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "7168"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "7168"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QALhAAAgEDAgEKBwEAAAAAAAAAAQIRAAMEBSESBhMUIjFBcZGSoRUWQlKxwdHS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEwQhMf/aAAwDAQACEQMRAD8A3l1/VAN0xmjaSjD90fMWqHsTFmYjhb+1ute05QDzGTcknqgLt47ilLo066pnptszBmypAHqk+VVbqJNDZz+Dywz8/pQxxjTjZFzFcFGHXQwY37KtblBqx7sX0n/VOaFoXJzS8bIs4WVeWy+RcvMb1guwZiJEju2/NNfDtOurxW87T2P2txKfcUI5rXoZcd30J2siAGKcQH08RAPvNTzrCSGfwJmiikFRRhu7B4dhLnzmrbyNDMX3FFFLUmkbaVn/2Q==
 subTitle: Die Sache mit der Motivation
   
 ---

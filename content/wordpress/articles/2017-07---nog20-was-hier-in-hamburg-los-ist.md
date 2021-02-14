@@ -33,10 +33,12 @@ date: 2017-07-07T16:45:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17062"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "17062"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QALBAAAQMDAwMCBQUAAAAAAAAAAgEDBAAREgUGIRMxQRRhIiU1UoGDkqLR0v/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAiEQABAwMDBQAAAAAAAAAAAAABAAIDBBESBRMxFCFBYfD/2gAMAwEAAhEDEQA/AOfRdF3Pl9Ke/aCov86cFt7cbcGO8EEXXXCJCji0nUaROxF8VrL4tUoqTW9EIXZMwZRsPWH1Qgt+mmHcuOVWrjYaiWx9ESUUo5rc4lcRt4TW2JWU1ReB7cL5VL96WMEQF7KozWa8uDd090hf0bc/PyR9f0h/3TGXou6tvaW89Ac02QkxBBxgGAU8VFb8ucJa6otl8+1W9RYMWmndSDV8uvZPRvJlj01tfn7sfP4rYbmkR4enRnpJMFiw+jfUjJJFx3BLDbxkt0y/usCONrcwEz1lbUTilfKXA+r+L8LMbb22/F0J2FMYZF155DNxggUxEURBxcJLp25S1MZu0okxgYrqunHUT6gnIHIsrInP4WiijZKHik+59lnqMWCEZiADsEBZaNXBBTb8qeKcle3K380buA4OxdBhGTSvRU6biNHdLoC9vaiihym7CFR0okVkZ+4K/9k=
 subTitle: Statusmeldung einer Anwohnerin
   
 ---

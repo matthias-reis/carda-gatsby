@@ -29,9 +29,11 @@ date: 2019-10-20T17:15:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26586"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "26586"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-20-wandsbek-botanischer-sondergarten-39__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-20-wandsbek-botanischer-sondergarten-39__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAJRAAAQQBAwQDAQEAAAAAAAAAAQIDBBEhAAUSEzFBUSIjYRQy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAb/xAAhEQACAgEDBQEAAAAAAAAAAAABAgADEQRBURMUISIxcf/aAAwDAQACEQMRAD8A5/tiEpamAx5T8hhIKGiABWcpIsggEH138nU4bbs+Ahtgn6scCo/MqJGMYOfJHbzqnAnsKdW84X3FvIUoJW5fFzvysEWLvv7860cNeeMORI6JQs9RRJ4LoUSm8gHOB+H3rK6lyik8QaeruLBWc4i5LKA+8HXlJSEgulSrUogZGRnj5rSyREZTHWSPr6HwTzyb7m7yar3rTb2869vJRFcdcdZKFrU8QEOgookCr42CTkVeNJ9y6EJLAjf2KBbQHEOJADLpNGs5A498EYB0nTs7qH/N+Yq6vp2FQd5RhSmXOpyjtOvIT11JQnBBAxQHEHBPbF/mnkmPt22Khy4O6MuSXVFQb6R4MJIo2sn5EEhJHEWb9Xo0av2IpyCMxy+pyDKcifEWyqU+p93cAvhGDYCGgmyOPGjSs8rvAsVpY68mPtjUYthx9RQpxxw/6zdtmxQvBP7+aNGjVWoAAEgxL+W+z//Z
 subTitle: Hamburg im Herbst
   
 ---

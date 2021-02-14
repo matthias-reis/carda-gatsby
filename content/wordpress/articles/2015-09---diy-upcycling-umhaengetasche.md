@@ -28,10 +28,12 @@ date: 2015-09-25T15:00:18.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "12851"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "12851"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Umh%C3%A4ngetasche-23-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Umh%C3%A4ngetasche-23-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QALxAAAgEDAQUGBQUAAAAAAAAAAQIDBAURAAYHEiExFCMyQVFhcZGiscETIkKBof/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAgT/xAAfEQACAgMAAgMAAAAAAAAAAAABAgADERIhE0FhofD/2gAMAwEAAhEDEQA/AC3aKiFdY2oqiNnhudRFRSKJCFMbSMWAA8Jwvi0s95ezdLf7t3889MtPEI4BHw8Pn1B9Ao+Wj7b/AGrNotcgt7RPdk7qCNuaqSwy7egAzy6/5pLXm93C51TtcqhZEwT+jCnAhx0GM8Rzz89GJW7HZeARZ766xo/WPqcm7fZqOo3iWqgjkFTF20SNIowDBF3hPtkqBrWjQKyguueZPUj7aR+4+3JV3G8XM08UKQRR0yBMnEjDifB+GAfjpxWeoKCWjlYlky8ZPmh8v6P31trhvqZJKT4y4iH3llW2tSTgDSSIgZF5HxNn6RnQfWsk0CQgQxKZC5K5LMxzjr0Crq43xQC27Qwz08zM9YO1EN1RgeHl7chjQtRNJcKulpKCDiqZmRIwcli3z5+vwXVU7WpB5iczjW19h3P16/fM0lutt0VFsNbWSMRtUp2hx7nkPpUalvdTLQyw1sLfup2yyn+S9GHX01YUU0dvoqekQkxU8SxJgeSgD8aE9qrjEs8i8bAOM84z+NEWPscrHakIGGn/2Q==
 subTitle: Aus T-Shirt mach Tasche Teil 2
   
 ---

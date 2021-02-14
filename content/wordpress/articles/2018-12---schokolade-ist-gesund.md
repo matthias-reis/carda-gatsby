@@ -32,9 +32,11 @@ date: 2018-12-10T14:00:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22924"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22924"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_chocolate-183543_1280__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_chocolate-183543_1280__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QALBAAAgECBAUCBgMAAAAAAAAAAQIDBBEABRIhBhMxQVEicRQkMkJhgVKx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMREiFB/9oADAMBAAIRAxEAPwDBzkGZxyERx6wDp9Kld++522774svDNDRUcDT1wIqpbqkjx61iXbov8jfr2FrYj+TeheV8xiUfSGnLLpY9hGAWJ2+3CWtpHo5UMLVyOyX1TsYFZR4QkuRfza/jBCS4zYvOTNJpMryGoAUpSSsw6j0t7kWP9DFU4+4fy/LaWpraOKeARuiLGRYMCbFgd9v9GKq+cZqtU7uRUR3sCyqp/X4w/os1mzHKWjqKeSFXflltOpSu3c3tuB0xHDVnonRK0P5Osmy16oKFrZ6dVszcg6Wa4P3dR+vOHsfCmXvBzZFZpVsOaWYyG/kk229sGDAb7nVsBjK61I0iMqjh2i+CmlikqogpIAEuo7De5IN74ip1hhymEQwppIt61XUPYqF/PnBgwdXZh6fs0KgHyf/Z
 subTitle: Polyphenole in der Forschung
   
 ---

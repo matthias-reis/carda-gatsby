@@ -23,9 +23,11 @@ date: 2019-01-16T07:16:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23209"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "23209"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2018-11-00-aegypten-92__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2018-11-00-aegypten-92__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAqEAACAQMDAgMJAAAAAAAAAAABAgMABBEFEiEGMUFhkQcTFCIjM1GBof/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgID/8QAJREAAAUBCAMBAAAAAAAAAAAAAAECAwQRBSEiQXGBodESFDGx/9oADAMBAAIRAxEAPwCY9mWjxQdOWFyYF+KmR33KSu5CxwGHj2710O1to3T7TcDB3VFdN9XWum6DptqUuJVtoI4WkFs+NwAzzjtmnq9fWb/TFrcyvgfIsBDehI/INAeytOfIqSjsGkrq7H0NWoWIbLNhvIc4qb1HTY5gS4VcnAAGeabv1vp7RuUtJsLkDMWN3GcDJ7+RpBqfWVg0zwtZPHIcgGQBcY/fHh610XMUoqJO/UYaiR0qqo/3oTFhrGiXMSBJZomXYHaNSPeZ7rgA8j+1T23UUFpBKC8+Flj2EqH3qCvgOcYB70UU5hRGpDfk4Vdz7EdNtKRGWZNKpsXQxXeuLJHOoDSszyEBpmUEHsfI0q1LW9Lltr1mZIwSN5VwzJgDK5PJziiijpEKO0nCgs+AtiWrMdXjcM/nOg//2Q==
 subTitle: Anfang einer Geschichte
   
 ---

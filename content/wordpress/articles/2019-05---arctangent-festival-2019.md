@@ -34,9 +34,11 @@ date: 2019-05-20T12:36:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24131"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24131"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_Arctangent-2019__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_Arctangent-2019__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAjEAABBAEEAgMBAAAAAAAAAAABAAIDEQQSEyExBVEGImFB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADEQQSIf/aAAwDAQACEQMRAD8AkSJ59oOOh8lAHSzlzrcG6WgAkuN8Cvaeqvj0mVj+chnlmjHj9xg2yKcXizWqjTeQT2eB7Ku0kLqzi8ta2WeWnMw82HNEj8ZsgjbI5lPrUKNUa6KpUOXHLL8pyczYiZBPJLKJYnfWS3UKANdVyRzSuTrJK6Yumta7CqwSpYhIxzTel3YBq69oQrIBGGYBih1T9mcfHjxxphGlnQb/AAfg/E9CEZgwQLFjpn//2Q==
 subTitle: Wir sind auch dabei!
   
 ---

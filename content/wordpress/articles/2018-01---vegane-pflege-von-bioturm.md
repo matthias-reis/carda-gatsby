@@ -33,10 +33,12 @@ date: 2018-01-28T18:09:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19169"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (88:29)"
+thumbnailId: "19169"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwb/xAAmEAACAQQABgEFAAAAAAAAAAABAgMABAURBhIhMUFhExQVIlGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDETEEE1FxIUHw/9oADAMBAAIRAxEAPwCU8NxR2+ZsZ5iGjjmUsNA7UnR7+jVO4/xkcHCaj4bdJZJ0jLqgB6EnsB6qKRzuYjyEqxGgN+at/wByw/FkAt83eW1pJFFHcFjOPyZQA0fQbB2xOvVIa2J5ljlaCQM0ePOPaY08lMdHYF8j6lMVsYQSJOXf7phbYRGj5vkjA7966vibAcPYTAQ55Q01pPcLaKkU5kB2GJb0V5f72qay5VhNKIC6wliUD+F8U7DMJWh1EdikCSPbNEg9JFbsVO/NM8Zkpcffh0AYzbQHsVJO9iiitnCGMrfI5m5v4vp3Zlt43LLFzEqGOttrts6HWlL+9miirUK//9k=
 subTitle: All Time Beauty-Favourites unter der Lupe
   
 ---

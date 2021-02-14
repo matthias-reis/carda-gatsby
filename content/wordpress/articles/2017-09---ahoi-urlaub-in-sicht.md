@@ -24,11 +24,13 @@ date: 2017-09-03T16:14:59.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "17846"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Unterminated JSX contents (83:16)"
+thumbnailId: "17846"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIkFRgRQyQlJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxESEzFR8P/aAAwDAQACEQMRAD8AQ9RPN1VWpW11L+G6jNRPSbGmk2gdvg8HBAJAHONQ2qnmTiy1EEMIiVGdTsWQlV3HGPcrn71U6fvk1e0XducqzUbrO0clGMl12hQpi9hz5HIJ1YVo7lViolmeN5wx7qFgnczk5P34IHt40vWN1AWtmThhn77GvZro0LVdTSTIo4BQlvgeoYPkj3+dXD1LdLPSiRLhI8arlo5QJ08A8bjuHn+2lDWdZKBp7dcKWvb9SKar3OzHjHbbBJ8j0k86yt7lkSF6ekd3lmk2ypIcbSFxjJJ/lxrDYx9RUXlRhnWLT0zaaCBiKKKV1JQswwWHwSPP3rOdS2W209RTzpRQlArN2myQx+Tk86NGp9bHyZKNqjiLZKS3Cl7cNqt0T1DoWkWmXcDkDzj/ADOtTeuj6SjsfdpZXinSHJYD0twSfTnHOjRprnZWXDApUMhJn//Z
 subTitle: Ich melde mich mal kurz ab...
   
 ---

@@ -23,9 +23,11 @@ date: 2015-09-05T18:31:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "12498"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "12498"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Fotoausstellung-Perspektivenwechsel-bei-Maviblau__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_Fotoausstellung-Perspektivenwechsel-bei-Maviblau__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDAAQRBQYhEyIHEjFBURQVFmFSYoH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8A0FtratnpVi8AeWeByHjWRy3RGBlFP8cjIHtk1S7m0O1WVsQgD+oqNtvTNH3VoEmVuocMQJLa9lVvNjnuBpBatPbxQ2sUmp7i+5zIW6a6i6q2GIzyOB6CpHVecooUz7rLHxu0OL8Nup4iEW3kWRwACxGfKPb2LZ/ys26jZyWN9NbyMjtG2PMjBlYexBHyKY+9dSng064jF/qZRlMYS4u+sGLDkcDjt5/eaV5J5NPHT9oKucxGvfDWeVdu3l59LpTlSZO+0JY4bnJDhSf2VpG7+v31HeUF+8ccZnWM9JB2rjPz80UUcpdCa8OO1q9muLm/t3EYRJGIITnggYzVIfWiinQLP//Z
 subTitle: Marie von Maviblau berichtet
   
 ---

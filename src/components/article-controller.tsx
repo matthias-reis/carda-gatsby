@@ -15,6 +15,7 @@ import { Link } from './link';
 import { Frame } from './frame';
 import { H1, H2, H3, H4, H5, H6, P, Ul, Ol, Li, BlockQuote } from './typo';
 import { HR } from './hr';
+import { toCompactArticle } from '../to-compact-article';
 
 const shortcodes = { Meme, Youtube, Playlist };
 
@@ -39,14 +40,13 @@ const ArticleController: React.FC<{ data: ArticleQuery; pageContext: any }> = ({
   data,
   pageContext,
 }) => {
+  console.log(data);
+  const recommendations = data.allMdx.nodes.map(toCompactArticle);
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
       <Frame>
         <ErrorBoundary>
-          <ArticlePage
-            meta={{ ...data.mdx.frontmatter, ...data.mdx.fields }}
-            recommendations={data.allMdx.nodes}
-          >
+          <ArticlePage meta={data.mdx} recommendations={recommendations}>
             <MDXRenderer>{data.mdx.body}</MDXRenderer>
           </ArticlePage>
         </ErrorBoundary>
@@ -72,6 +72,8 @@ export const query = graphql`
         type
         typeName
         description
+        remoteImage
+        remoteLoadingImage
         image {
           childImageSharp {
             fluid(maxWidth: 900, quality: 70) {
@@ -92,6 +94,8 @@ export const query = graphql`
           subTitle
           description
           date
+          remoteThumbnailImage
+          remoteLoadingImage
           image {
             childImageSharp {
               fluid(maxWidth: 900, quality: 70) {

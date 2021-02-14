@@ -37,10 +37,12 @@ date: 2014-02-23T18:38:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "7751"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "7751"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9803__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9803__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUIBAf/xAAnEAACAQMDBAICAwAAAAAAAAABAgMABBEFEiEGEzFRIoEUJEFhof/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQJRAxESITET/9oADAMBAAIRAxEAPwDp9t1XpQAzdID9U1g6n0ogftJg+DkVKtpqt1JJMsPdJVQU2smFBxyWI9n/AGtket3UiH8d3nUKPmm0qWwCV4Hkeqo4WQ8ngquPqXTO+kQuAzuhkG3DDaCAeR48it0PUOmk4/JGak+y6lliB7qtNK2ADkqUI9D7++PQplb9TyrH8rlolOdzF8knnhQBn1R+ayZ28HLAydy2Yq5lB3hy+T/QOfOCMg+acabNd3l0NOmuSYxK7tLtzKzEHksSfX8e6KKV9Rujun3WzHEtjaPplqttCYrkqJJJ3beTkA8DgDHNK7iBwzyGUs275MRlmJPJJooqWnTfo7lLw//Z
 subTitle: So schön ist nur die Vogelperspektive
   
 ---

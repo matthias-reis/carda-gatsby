@@ -26,9 +26,11 @@ date: 2016-01-26T09:19:47.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "29176"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "29176"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl-2__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl-2__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIDBf/EACwQAAIBAwIDBwQDAAAAAAAAAAECAwAEEQUSBiExBxMiUWFxoRQyM0FCscH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8At2PSokAzbwYP8sAjHvUhLKOGSJO5UvJlVJAPQZ61xeItXtn0C5nKxpbwqQ+eSkHAz80lvfatDw8beTVGVO+ElmjxomEXB25UAnPix0oLP+hllD/mg5spUAITg4zy88cvStM+mXEkYQXOzDZOEGSvl6e9LnZvxPLqdtNBrN0BqMb9zjeCkxUAloz1Y4ZSQPinZbhJVJjcn0Kkf2KCqrC4sOILK64fFxJBIdrEOmHdcg5Tn5qB/lTuLo7bR7C9M7QXd1BBJLY2WwM0rctm1Orc2Siigy7KbG0k0pNalZ571pZ1jkc+FFLD7U6K2BtLDBIGKepZwqkuSxH7IoooP//Z
 subTitle: Tiere schützen und essen - geht das?
   
 ---

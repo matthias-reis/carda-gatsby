@@ -35,10 +35,12 @@ date: 2019-08-06T11:40:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25673"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (125:65)"
+thumbnailId: "25673"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACcQAAEDAwMCBwEAAAAAAAAAAAECAxEABAUGEiEHMRMUQVFhcaEi/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEhETMUH/2gAMAwEAAhEDEQA/AOi9XNZZjTwxWK0rZNXWcypcLS3xLbLaI3KjsVc9jxTDpbqTMZtGRxmrbJmy1BjyhxaWRDbzK52OJ5Pqkgxx9dq11/py0yzlnkdtw7kbJCmrcIXtQ0HFAFZ+ZCfyrNpTE2Ns+/fsAeacR5Z1QMg7VlcA/BWagnLZXw0OENNvclwoqG+7csOqIbDrRgJgwQSYis77pTzW5gJbn+iHJjj696uZxT4Kbm2WEpEwop59eYqVirfwbNlJAGxASBHb3/aKKeF0Nnwb0UUUBH//2Q==
 subTitle: Interview mit Marlin von Vegarn
   
 ---

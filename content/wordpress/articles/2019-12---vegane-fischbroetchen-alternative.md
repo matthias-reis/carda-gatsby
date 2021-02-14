@@ -34,9 +34,11 @@ date: 2019-12-06T13:02:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27108"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27108"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-27__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-27__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QALxAAAQMDAgUCAwkAAAAAAAAAAQIDBAAFEQYhEhMiMUEHYRRygSNRUmJxgpGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAjEQACAgECBgMAAAAAAAAAAAABAgADEQQSBSEiUYHwMmGx/9oADAMBAAIRAxEAPwBDGhpPNiKtEKRcUtqDiXW1ctI/KePhJ7d8eaabPphqzXWTcb/bRG6BhLjwUyVfiUnJHjAzjzWlaUjtPx2n5jpS2dkgecfefFRfUnR8O93CG43JjxfsS2S82VtqUN0g4IJOCrFC8RrDVHacY7dpZprAr9Qz74iVfrgi5w3iH4bMNnZTpfbIB8JCQSSfas/kxra8y8iOlAeeCk8a08LjgG5OfbI2Oaarjo4wVLR8XZlhPSpxiJsB86s4+lWmmbBp64WFxu6wG1hBKWh1BWDuVgk577bZ2FH8O2LbtRvfuV6yxdoGCfHL9kG2eoE6xKStphM2CoDjZ4uFaTjulX+EY/Sm1j1L0RfIxauRMJaxhaJkYjB+dGR9dqKKcZFclWGYeOQBE48/QHMS8LzbZASCUokS+ckfsWrH9VQXXV2kLPHcTEuEd1W/TGSVZ9gEjA/miiuVaapDlRiZ7Hf5Gf/Z
 subTitle: SoFine in der Kurkuma Kochschule
   
 ---

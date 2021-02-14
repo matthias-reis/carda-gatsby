@@ -56,9 +56,11 @@ date: 2017-06-05T14:23:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16763"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16763"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35114934275_5fcb6939a7_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIQYTMXEiUUFhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAgEQABBAIBBQAAAAAAAAAAAAABAAIDESExBBJBUYHB/9oADAMBAAIRAxEAPwDzPHGWIBPir8FoJASCchedv145qW006SVQwDAAZz44rS6T0s11bLM1wiITjkZPP9FUvicwXW1lJyI4hbzXo/FkpLVV4wc5NVZotjAjB9V1JOhhIvyu8gKCMRheM+TuYYP6rJdT6XDYRMYpe7tYKGBBBHsVKCSSPCVvMheQBedYKQW+rTwOjQsFKjByoOaaz9VXl1NGZuysUY2qiRhcL780UUxe4kOvIVVYI7KPUuoJbqUDuExKQV45/GTSi7u2lYgM2z63HFFFEyOLekpBG0aX/9k=
 subTitle: Liebe auf den ersten Blick
   
 ---

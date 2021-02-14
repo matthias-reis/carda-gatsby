@@ -23,9 +23,11 @@ date: 2015-01-24T11:55:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "9401"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "9401"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAQMF/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQRBSEGEjFxFBZhkSMyQVFywdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAjEDEyFR/9oADAMBAAIRAxEAPwCnDi2f6tAT2P8Aa0ycVXLHaWEdlqbBuRmImZgdsY6VydT1OayvbC2QyzG7mMXMBsu2f37A1fpirIdkmVaXiS8YHFwg7KKX8x3Y+aWN/wAlqXDW5BqD2jxHlTOZ2kULkDJ26054ySUcwQgDOMPnPtRLFHwFzYytwXG3K2PTpSl1bC6uLaaQgNbuXTYY3GKKKeuiKMPp9pIzPLZ2sjnq5QEmldViiMKQmXw8THHwSE6A7Z+3pRRWlxHVZ//Z
 subTitle: Zu Besuch am kältesten Ort der Erde
   
 ---

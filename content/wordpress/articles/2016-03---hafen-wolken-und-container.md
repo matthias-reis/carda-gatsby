@@ -33,10 +33,12 @@ date: 2016-03-09T16:22:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14192"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (48:45)"
+thumbnailId: "14192"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Hafenrundfahrt-Januar-2016-Anne-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Hafenrundfahrt-Januar-2016-Anne-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAABBAEDAwMDBQAAAAAAAAABAgMEEQUABiESMVEHE0EVJGEWIkJicf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIRMQMS/9oADAMBAAIRAxEAPwCRM7Szak2rFvlPz9rF8V51p/R2dKwfoslSFXyYcUnmu37tNsf1Gx/vNtKgzQtVCitqwPNdV1pky+4cVBUsPZhhtfKTSwVIKfIFnmqH51Rx5LtCKrfETFeyM0UEnCSCTZP2Ebnm/h78a5rm18mFJP0SYrrJCbxaaKgew6XfOqBM9SMMwHExxLlqU4f4BDft8eRfV3F6WpPq5Lh4qHAw+OZZTDRTTklxTqwTRJI4BNg9z86jTnckqpvNaE1vcpf3VFzGVAm+1XWytqkrFEVX+HTANz7Meap7bi4i1AdZiSFAEj+psVo0aOLgutcMKHNqPmT15WdFSpZ9ltUYvJbT8EmxyeLoDt8650rFwJD3RiclGnOL5S0GnG18CzwRXYE99GjW+UFUz//Z
 subTitle: Stürmischer Januar in Hamburg
   
 ---

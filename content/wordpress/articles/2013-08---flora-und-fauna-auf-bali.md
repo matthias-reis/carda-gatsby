@@ -40,10 +40,12 @@ date: 2013-08-02T15:24:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "6340"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "6340"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5380__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_img_5380__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAUI/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURAAYSITEHE0EUMlFhcYGh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIREiEDE//aAAwDAQACEQMRAD8AdNzeoN3udYy2h/pqWIkliPgZ/HZ/rS/FdLos7+68kjsxemqamoPEDiSWABwMHrxrJR0zIHDx+1TQMVlySD35z8/5rXXKsbUEjV8lHGsvAzQxiXKH7cDxg4wfxnU4tlzGoHSLlXvKWas4xX9aYsg5rHL7nOQMAGXHRGC3ZI1RvTve12sNqqZ99XGhkp43MfKByxUjz+5OR0M6l++Z7JdbpBEtWU9unMStTxgO8nM8AylR0SzE/wAa6O3ruRXQ2qe1CGej5OfosGCZZeixRh0x/Ts4Peleu9Q+bNaNlno7cO07Zc6aflEIXfLM0Yxk48nUy3ZtBYLdDDT10kccUQIURjB+Pz5+c6NGq8disxTtXp3FdLzBUXC61MzmRWOUHeNXHbOy7TaSlQsQnqOiJJBkjGjRodRt2HsleT//2Q==
 subTitle: Unsere große Reise - Teil V
   
 ---

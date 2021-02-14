@@ -29,9 +29,11 @@ date: 2018-08-14T15:47:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21742"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21742"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_canvas-1340211_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_canvas-1340211_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIFBgcIA//EACgQAAIBAwQBBAEFAAAAAAAAAAECAwQFEQAGITESBxMiQWEIMlFxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIRITFB/9oADAMBAAIRAxEAPwDQNFtSjSBA0ShgM5A01X2s25tumWmr4ad1HHgy4UHvGAOT0dT3641lr9Q1l3BNffdoKeeqiQuzwwgs/gzlkkCjllwSpx0V5+tPW3hpL3svWwX2w7iAFNHACx8Q0fHy7weAQf4z3pN9sULQsVQcEDJGPxqivQW0XymuOa+nqKV6qSIQwTAq/gjh3lKnlVAGATjJbjWmq1fdUqOvyONOaynI6SzRopb7J4nMQP3+7UF9W90LSW+lmkt0E5jmCjzbnDA9HHHQ0aNVXC0j067FvixW5ZqegpoJJ8M7RjBb+z2f9OpHcdwTCBgIgMjn5aNGiUDbP//Z
 subTitle: Nachhaltige Entwicklung endlich da
   
 ---

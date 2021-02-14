@@ -33,9 +33,11 @@ date: 2018-05-30T06:25:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21095"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21095"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_42390697981_2a586a1e8b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_42390697981_2a586a1e8b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAmEAABAwUAAQIHAAAAAAAAAAABAgMRAAQFEiExBiITFSVBUZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBv/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEERIhIlFh/9oADAMBAAIRAxEAPwDNcNhkrAChTpeEZZguAAnwAJJrow6RqmKvvTWIbyyk2zzjbIcPw0uLiEk+f5Nap9VoWMzdYNrhRMs+XW7rYcZkhQCkyIkHs1PZPHlsqOtbNmsIzjkuWLLrTos1qt9kEHg6D+iKgc1aj3CJpJqxA0dgNdhX1OzCvJQEhQpkM6ly63tlGGErLKztqNQrdR533BIEd55E0UVF7HQErHHZaDmY+roS9MXrDZK4MFzXkfjwod7JHmk2ZdKSqfv0TRRRQx4kQyB5Bvk//9k=
 subTitle: Kleine Dystopie
   
 ---

@@ -34,9 +34,11 @@ date: 2012-03-07T17:18:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2884"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "2884"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_03_img_8944__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_03_img_8944__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACoQAAIBAwQBAgUFAAAAAAAAAAECAwQFEQASITEGE1EHQVJhcRUiM5HB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUC/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAxESIQQTMv/aAAwDAQACEQMRAD8AsS2z5o2pamJhTGkLeoV7BP7gCeD+PtpDera9reOW0xGqp6j1DHAinEe1AwG4A7RgHg+4C/TrspL9bJauK2LcLdURR04O5ZQUc9FQ3ufuMY7450xkjkU0ctFO0LPOA8QO+J8x425XIwAAP70OprKG3XkTYqWjVuxFaKyjuUk8VHOkk9OAZ4lzuiycYbI98jT+20EtXKEpk9RueAR8u+9QPwgJRfGHzpHeKleow5TO5G/jfB/IZjk9E6mfhd/orjSyVUJqKeMSNteZQCTuIwSCRnK9avVe76AbcJkazy6NzolTXAGFoouGSQpkEdAuF/3TH9Vint8Txy3tJPUWmBNxGFLg4cYjByCAcEn5++jRoDMScGKUDUmaLtc5Ka5RXVooZLtUwgPVlcO64Aw/1dDk9Y1h4Vf6iCKppEXbT1FTKzorY4JLAA9gAk6NGh2/rE1SSUyZ/9k=
 subTitle: Mal wieder etwas Prosa
   
 ---

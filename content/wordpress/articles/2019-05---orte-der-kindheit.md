@@ -24,9 +24,11 @@ date: 2019-05-21T05:45:08.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24170"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24170"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-11__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-11__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFBP/EACcQAAIBAwMDBAMBAAAAAAAAAAECAwQFEQASIRMxQQYiUcFhYpFx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMABAb/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARBQMEURIhMTJC/9oADAMBAAIRAxEAPwCsVjj6akxjt+NbtwgprVbWqZEQhTtxx8E/Wh9uo6GOlgkhqadYWUBZulgFz+/Ct/eNdV7hLWmhpXkgUVdbEhMeA+CCpOPjkH4/untk19b7xK436PiNKm1RFcBI8EcdtDvUtiBU7pYKeA5BO4BmJHAyfrW9XelbvKahmp3mYZCKknS6oGPcAxx2PjH3oFfRA9MBFAC4L7m65I9px7c8E8fPnUORXpgpsQzUCDUOQ1EkhVaiVntMMpEYjYlgnhuTnnnjHGtkoatzU01bDFSvhQgiO7Cjzz3wM99WrWVXULmiOZfVySBxOy8eoqx3ggnuDybY2AbfgbSRn/PGil1vMeXiiEanbtJXuxBz38atWmqgYgmEXKmhP//Z
 subTitle: Zu Besuch in Bielefeld
   
 ---

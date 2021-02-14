@@ -36,11 +36,13 @@ date: 2015-12-02T13:08:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13337"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (66:106)"
+thumbnailId: "13337"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_jan_mit_kuerbis-366x366__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_jan_mit_kuerbis-366x366__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwH/xAAsEAACAQIEBQMDBQAAAAAAAAABAgMEEQAFEiEUMUFRYQYTIgdxgRUjMkKR/8QAFwEBAAMAAAAAAAAAAAAAAAAABAEFBv/EACIRAAEDAgYDAAAAAAAAAAAAAAEAAgMEEQUSE0FxgSFR0f/aAAwDAQACEQMRAD8A7leXQz0AzCWodYYqgxPAYhqnCjURGSw6fG52B+2G9bkVBmMCyZJNwdWNpKOacTLqteyy9x5FjbCYTvmmUVGRQRK889Iqja9wZfmg6jUmoX84wyiOH6fUUy0FSd1Eft6roWOzs4Nza9rDa2BtbFpgH12ojhzgCyV1tTHR54uUStJ+okMzxgfwUcyT08d8E2Yf3e3nA1PwU0rVNBA0Zce0JXOt3C92O5F9gOlsEyX0izm/L5Lz+2BSWDrNR3tsbDZVnoWppGjkMDMle6vFGyJ8lO7AX7cv8woyj0BS5tAxzGT2zHHHxEwQmSUbGytfmdwTiSoc5rMoqGZPfKNubLa1r72/PTDlPqlUJFwdU9WwsF/dW6sB2Kjc4BUx1GrniPhaakdTyQNY4gW63+Kx9SSUPAvltPHFCtLEroqIdUZ6L4BAOIXXK7CwYItiS1+WBJPUlfVCqpqampoqKcDXOkTK8gO9tyPztjOIOCUIIueRcnSPGEUzJA0mXrhVuJvhkkBj4X//2Q==
 subTitle: Ein perfektes Weihnachtsgeschenk
   
 ---

@@ -45,10 +45,12 @@ date: 2017-05-09T16:07:00.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16549"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:50)"
+thumbnailId: "16549"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34171350760_8d27df5e08_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34171350760_8d27df5e08_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQME/8QAKhAAAQMDAwEHBQAAAAAAAAAAAQIDBAAFEQYSITEHFCIyQVFxE2GhwdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQC/8QAHBEAAgMAAwEAAAAAAAAAAAAAAAECAzEREhNB/9oADAMBAAIRAxEAPwBxt1gStIUFAg+mKYY1iQS0SnAB5GP3UD0ter6u8OSrUq4SFrRsV9eRsbPJO7Kj7/b1ql6W1FqR+I07drpHjqcZ8iGklSXMnqCMfmqfWbwmdUFo9al1G5o7T8q4IgIl4UG9hVs6gnr8A8VGr/qiJq23quUl3uECO8ppph15KlKWEgleB5j4sDjgZ9TWntquMmMzYo7t1uMtuSHzvdWk7SnaMAJCcZCzyc+wqQtw7i7EK4sSY5HS6lAdaaUpJAHi5HU9KnVjVjQ9181pjDHfUcEjNMFokFTg8CetFFalgI5e2e4ux7fp19sALQt9HyClH8rOgp7kvRCy7knvj2OenCaKKR8Hdnh//9k=
 subTitle: Ein Fest in Hamburg
   
 ---

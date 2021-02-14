@@ -71,9 +71,11 @@ date: 2011-07-25T14:20:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2212"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "2212"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_img_0036i__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_img_0036i__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBQcI/8QAJhAAAQMCBgEFAQAAAAAAAAAAAQIDEQAEBRITIUFRMQgUIjJxYf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAbEQADAQADAQAAAAAAAAAAAAAAAQIRAxIhMf/aAAwDAQACEQMRAD8A5mVukz3TPbK0tSDl7ioK+u/da3e3+HJ9OOGodtgnEDjbqGVlBBKNOVKzREbAfqf4anqmsxFUQq3TImLdTy8iFspIBMuOBA45MUUpZ8bc0Uz0T4NWZB6mrBnGrlNmzbLunUt2Kg7atBtK29TNuVBRjwVGYMmBHNVBdzJgiCTSwfkd6zqn9DnlqN6vNWMmoyB+mio8DcUUYo//2Q==
 subTitle: In stillem Gedenken
   
 ---

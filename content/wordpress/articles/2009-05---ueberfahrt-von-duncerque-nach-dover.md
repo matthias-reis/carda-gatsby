@@ -37,9 +37,11 @@ date: 2009-05-10T09:42:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11283"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11283"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11469201823_2a65c4cfa2_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_11469201823_2a65c4cfa2_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAKxAAAgEDAgUDAwUAAAAAAAAAAQIDAAQRBRIGEyExQQdRcTJhgRQiQqHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AIx+itVBaCJ5CpZYlCB3ABPTPwaaaXq+lbFdtMucPjBWOM4/ax8N3wP7H3rMk9Q9KnkUXWjpPtXo0rq2B7dvmmEXqNohKRrw/bIeYJGZVjO4DowwUx1Bxn2NHeaTD227h6ew1ISrYHUIWiGXVuZHjx5JU/FQ8R8N2kllcXUaIl1Gu4TxZt5R1H84tufyDWbWPqnwfa3ME40O+t5IX5iGCVWVGxt+neB26dqsUnrDwhf6fdQm+mtpnhYIlxAUDNjIG4blGe3U1PoauNy1aafqN1YXF9bwM9rbsqSyblAUt2HU58+Kf8MKrwQc6Mk88ksr4xjb3+3+UUVugg1X1CVl1C5AJwJXx7fUaLRmlkYNn80UUl//2Q==
 subTitle: Erinnerungen an den Frühling in England 2009 - Teil 1/17
   
 ---

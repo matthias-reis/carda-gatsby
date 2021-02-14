@@ -30,10 +30,12 @@ date: 2019-04-05T09:41:40.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23901"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "23901"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgIDB//EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYxQQciYRMUUXGBobHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUCBAb/xAAhEQACAQMDBQAAAAAAAAAAAAABAgADERIEITEFEyJx0f/aAAwDAQACEQMRAD8AUbhJDUZRHLUjYT8KBT/mrt0Nh8fPhOPORIqpTD6mXHFMhaqICk9+BwSP21WEWYKy4UIUQ25RUBSklJP9HU76d5NDPUWVhIebLbzIe9yTVoV2HztX/GhJbLeExJUkTnWds9d5iMNrj7s3c23RBIUUpoVwKA80NRWRkMGI5SGYbjyCpxSiUchexICiSFqoWarv+mnupWkSPUufvlFpO9DyUKRbavYTauQfGqhkZciNj24zUh4Bnem7FEK7gJN121RYnuHePKXS9ZUpLWRPC3Nx99zd1Lm4uUzbEXFyNgS+pLqr2AeTRvgElXOscz1dIhmDIZkLbl19wQ06UlR7c1f4J+QfHbRo0fG7xG+z4xTI9UuZTqpM92K3FLkdCfpIWVV7SRZPmlajspJBbUb8aNGoMoyBm00dd10bIOAZ/9k=
 subTitle: Beauty-Liebling für frische Gesichtshaut
   
 ---

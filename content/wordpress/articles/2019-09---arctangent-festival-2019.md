@@ -24,9 +24,11 @@ date: 2019-09-02T09:35:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25852"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25852"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-49__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-49__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAII/8QAKRAAAQMDAgUDBQAAAAAAAAAAAQIDBAAFESExBhJRYXEiMpETFCOxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFBv/EACIRAAEDAgYDAAAAAAAAAAAAAAEAAgMEEQUSITEyYaHR8P/aAAwDAQACEQMRAD8A8zttZrW1EKthnxT120x48cPvOFDeQNcDOen7qgsdht8a4yI/EiZ0VaEAobaaBWScEZzsOUg99Ota84U6Pn41Kjmsa7iVEmIoD0Nqz3FMrRaHJ77bTSR9QkJIJxvVle4VphlqRbEvJhk8inJQTkE7HAzpprvS3iH7i2tPlFzhkNEpCUO+/XH4wB6vOmlLGGRwxmUnshDkrXynIy19r9qYnSy6qIXVhSG1klB17/zFdi8AB1SxzOqwEqKvaPHxjpiiijVFVI1xsd/Sa2BjgAR9dL5dyW8cqVk6D4rI9KL3OpxRUo7ZNFFSJ6mR4sTolxxNbsF//9k=
 subTitle: Die ganz große Festival-Liebe
   
 ---

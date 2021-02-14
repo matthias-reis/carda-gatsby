@@ -53,9 +53,11 @@ date: 2011-07-20T15:16:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11578"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11578"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAkEAACAgICAQQDAQAAAAAAAAABAgMEABEFEiEGMUFRBxNhIv/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAZEQADAQEBAAAAAAAAAAAAAAAAAhEBEjH/2gAMAwEAAhEDEQA/AOp1YMuxifl4Vn7ePBzXYu06c9WC1bhimsllgR3AMhVSxC/egCcV89zvGcfSsyvdq/sjjZkRpB/pgDoffvi9T02Ugn5t9QCibHAVI2Wd0U2Jj40rDYVdfJ+T9HWc+8ipG9e7ZR/yHy9jn+ds8lZiSKabqvSMHqoVQBrfn2GTvk1Y6Cqd69v7k3fXajqvOFH5b1Vcv2qNgzCSWq7sHlJYjsvU6OYbPPzz9jJMWPxhhk4VEtm8zMdyN/POK7E/be28/OGGAH//2Q==
 subTitle: Prosa ohne Wolken
   
 ---

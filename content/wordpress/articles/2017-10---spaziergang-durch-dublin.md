@@ -38,10 +38,12 @@ date: 2017-10-06T15:03:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "18032"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (68:5)"
+thumbnailId: "18032"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIQYTMRQiQTJRYQcjQpGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKGOSop+jikNIaqNIonqFcEBEJJBH593BGdeFFdrZdKyzU9ZULRUlvjKyRbgZpSxypBYc4JG7bgDU231dVcOhqmkWKVJPTwhlZWBZRgYHGfPwP61nAqkTqONFpEkRpTF21cqjhgVZSPJBPHnQbVU2uhlX0tJb7lOMM5EKMzccbjtjP4Hj50rXujoun6SSoqrTdgJj6dUmpuSPq3ATBQCNuMrk886WEuV3pry1JS3apM8UskcG4tltgHHAzg+MEfxzptud6unUPT5k6gh9dXKxlikiAA98Z25Rhjgjkg87sDGNAzWTr2RgkcduRGLFN/dLEfGRkcHVVSfo7SDbcoL3WCWDdPGJY0f3J7huPGeRz40aNBE6Yt8dyulSGd4KeCXuyQQnaszuDlvuvBIO3Gfvru4Xymu92u9nqLZGILardv9zcpwVX6SMDz/AJo0aD//2Q==
 subTitle: Fröhliche Menschen und altehrwürdige Bauten
   
 ---

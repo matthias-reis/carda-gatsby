@@ -31,9 +31,11 @@ date: 2017-04-21T13:28:55.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16334"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16334"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_16155095629_d3e1dd7dd2_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_16155095629_d3e1dd7dd2_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCAwUE/8QAKBAAAgEEAQIFBQEAAAAAAAAAAQIDAAQRIRIFYQcTFDFRBhUjUnEy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIFA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMEESFREjGR/9oADAMBAAIRAxEAPwB99KWJUH+T3xW9B5XHeKRlp9eQpG5S6YuEJSOW14gsBkKWBOMnWca+Kpj8Sup3Ntbv02zjcmMyzzTr+KDBwyOynIZcHeDnIAWpa2lfbCWbsYudjfyP5hGF9s1mdRubeKMlyo/tKW28Q4xEfu19FbPjl5ttAZ4T29g6kdwR3qm88Q+kYGOqgj9vSSEH+YWhZc9nCERK8XxO33EVbEoh4MwLDZ5H4rhjtT62W5WVllkYFv1LZxyx7Z70UVqI5J4mh6y88yQNODwJXcY3rdQN/ecgJZUcuuCQnEnGdtvZ1s0UUQi9QF27n//Z
 subTitle: Kurze Blog-Auszeit
   
 ---

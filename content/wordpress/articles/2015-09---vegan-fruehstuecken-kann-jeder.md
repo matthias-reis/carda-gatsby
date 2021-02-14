@@ -25,9 +25,11 @@ date: 2015-09-15T14:50:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24515"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24515"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcBBQIEBv/EACwQAAICAQQAAwcFAQAAAAAAAAECAwQRAAUSIRMxQQYUIlFhcYEkMoKRobH/xAAYAQADAQEAAAAAAAAAAAAAAAADBQYBBP/EAB4RAAICAgIDAAAAAAAAAAAAAAERAAIDIQQFIjFR/9oADAMBAAIRAxEAPwC0ahsMV9KlwXrd08eU9izYZstnj8asFUnicAY/5reh3SHa94Ss8888cFRhEssniTNyeM8cntiMdZ7x9tLWp7WyQTu1xFs+KQXaRiHx3+1h5efp8tRum67mYFh2l4ve+LPFNIvN0BIDBfx39cfjU8ASUZY5+syYcZuVr5GjDuMsN61bWhc/UlTKO8fCMAqGbiDxxkjr/dXlO0stcSdqHAbBIJGR9NIyXe22/wBpIr3vMz/GqzZmcrJH5MCp6PRPWP602djs1rNSRaUnNIpCgJXivzwPQ+fnrGw1F9qmp2YibNYQWBG/GQg4Bxj1++ugtUJtk36aNLbStFCGDeGoGCvLABzjy8xo0aLf1OvlczNbwNtGZby80kPi2ZBKeh0vDr+ONWmxbtc2ahPFSlwhnLHmA5yVX1bJ0aNAqSQjFqRc/9k=
 subTitle: Der neue vegane Bestseller
   
 ---

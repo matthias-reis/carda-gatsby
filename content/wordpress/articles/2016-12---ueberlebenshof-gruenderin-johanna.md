@@ -34,9 +34,11 @@ date: 2016-12-07T08:26:40.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15480"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "15480"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_Johanna-Strand-1-von-1-e1582793260269__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_Johanna-Strand-1-von-1-e1582793260269__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAoEAACAQQABQMFAQAAAAAAAAABAgMABAURBhITIVEiMXEHFDJBYYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUE/8QAIREAAgEDAwUAAAAAAAAAAAAAAQIAAwQRITFRBRJxwfD/2gAMAwEAAhEDEQA/AKtc5+K1tprm5ilS3hQySPsEKoGyahtz9ZpoepcTTX9zGMuXVOnCqC0GiISg9zrfdid/o+9d3NBmw2Riikcc9tIp/QPpPipFwlw1HmLXie6uWaY4+APbwQtrrzMw1vWzpQSfB80xrgMuYtKQRvPMu3A3Fl6ehbXTxNj5DL9ptS1w4OpFVvUQvKpI0fge26c2ziD8o5h8rURxuUOLk4YiuVRb43sk08A2emHARdnzrR/2qImW32njUd9elj2+ao1GSkqA6ZAk6kGqs7DkxaYi4jeFt8kilD/Ae1bcHHItg2tbIWcEuAtYnaQ7JYGRwWQ67Fh+QIIHKNeaKKiU0D6NNl6M9i8n0TE3NY5rfj+0tG6IVZ+djGDtyW5yST38fFOhmYHY99b/AJRRQZiyJk/Ziuka24Y7nef/2Q==
 subTitle: Was macht eigentlich AMOA?
   
 ---

@@ -30,9 +30,11 @@ date: 2015-11-02T14:35:40.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13049"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "13049"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22696830462_70cedc18cc_z-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22696830462_70cedc18cc_z-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QAKhAAAgEDBAEBCAMAAAAAAAAAAQIDAAQRBRIhMQYHExUiMkFRUoFhkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBQb/xAAhEQABAwQBBQAAAAAAAAAAAAABAAIDBBEhMQUSE1Fx0f/aAAwDAQACEQMRAD8AUrO13nriisVkoHIrqwjAQVdmkjt4JJpmCRRqXdj9ABk1sXOWNjjFlQlslI6oVd22zPHFaOumWz+nNpq4LpdXN2rlHGGEZQ7UIPXW44xnP8Un38QKniignEoJbq6aenMVgd2U2kRyXJEcC73AyQCBgffmiupeM6hf6e9srWsIlIVnkkJwuQTwoOesUjN5fd+KzxTWunpeLc4iYs2NhU7gOj3z/VGbT1J1q4s5W91pZ3BYYEkLPnAAydxH+VLrKqYPdEwY+qpQ00Lo2yuOfHpaTJ47fv4+lu+qRTvao0qwpEwErAc8k/Njris+vnGw4PBoPceSeVahvWTU50jKn4YgIgMjHGzo/upJJn9iiyPvdVAZvyIGCf3Tcd3A0teMDSLkuguDmnJ2v//Z
 subTitle: Sonne am 1. November
   
 ---

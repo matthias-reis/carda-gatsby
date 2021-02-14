@@ -51,10 +51,12 @@ date: 2011-06-27T07:57:47.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2046"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (29:229)"
+thumbnailId: "2046"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_neues-bild__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMEBf/EACoQAAEEAQMDAgYDAAAAAAAAAAECAwQRBQAGIQcSEzFhFCMyQVFxkbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AELt/bErLsyHITXeWSO5A9Td+n8ajHj4mPlFQ81KkQ+wlK/kWpCvfg8frTG6Vdsba+ZlNhxcmM4XkNtceSmFgIJHNdygeOeNLvGbU3Vvt6XlsVjH5yVvFK3ErSAFUD22oi6BGstVmyMDB2tWIyipbbaUlZW12m1KoBI4KvehrXzO2peNiMSJaQ0l9RS2gkBRoXdX766TfTPe2JmsPP7fkJ8DiXfrQocEH7K03usbONbwmOefbCQ68tVg0b7U/wCE8e2oFRsndkvCMvtxm2ymQKXZP3BFj8cHVn6Sbyk7Pwj0GNGbktrkfEWtZTRU03Y4/WjRqi45bqlNkEFWOjhVevkV/Wk9vzdmUyUwsvOpTFSfI2wE2lsqABq/zWjRqFf/2Q==
 subTitle: '"Die verlorene Tochter"'
   
 ---

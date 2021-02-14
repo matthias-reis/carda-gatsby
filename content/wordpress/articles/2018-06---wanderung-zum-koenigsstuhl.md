@@ -37,9 +37,11 @@ date: 2018-06-14T06:04:58.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21254"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21254"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28887742388_d0c48089c5_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_28887742388_d0c48089c5_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGMUEiMlEHE2EUgZPR8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQED/8QAHhEAAgMBAAIDAAAAAAAAAAAAAQIAAxEhBAUTMVH/2gAMAwEAAhEDEQA/AGv6YQx3ax/duNZTyMjBFZiEGNo4BOCcf7OnkWe1heKij/mX+9RbphhDSCJNshYhgQOBkD5HHOddDqO9LaKWOGN0e51WUp4ohvcdsvtx4zxnjP4B09RYa/GV7nw5sjFlawqi7Gbq+/8AS9grv0FTI9RWlQ7RU0W/Yp7Mze0Dt586h/1H6ohuNTNFZ6mvio2AX7JjQAsPnB55/OmRrubpUVkattWJ0O1szhmwQUnPsxuIG0H3c+NSDqSterqZWbY2WLegbASTkgDwOeNTLvYNdYaq21eRquhRjZ2UmzdQpLCGFTjc+wRGZY2Zvja2D+/bWi4C41Zasi6buVa6ElmjhMqKpA2sWjJyQAcc+M6NGh8uv5hjMc/BwTrXSiHgiBd7rcgY6doJ6SPaXLCnaIkHPOSOcjz50r3BmIHowDn1Hvo0awVLUQFEIfc//9k=
 subTitle: Besuch im Nationalpark Jasmund auf Rügen
   
 ---

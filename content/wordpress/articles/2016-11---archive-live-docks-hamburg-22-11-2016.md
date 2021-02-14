@@ -28,10 +28,12 @@ date: 2016-11-23T16:22:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "15314"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "15314"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQEEBgcCAwj/xAAtEAACAQIFAgQFBQAAAAAAAAABAgMFEQAEBiExEhMUIkFRFjJhcYEjQpGSof/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAwYH/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMEBRIUITFRgf/aAAwDAQACEQMRAD8A5w0xR5Kpm7/LDGOp3tfpG29vXkYn1VpsEFFzOXLiCJDIwJBbh0sPuTthdK5PsUGmCJVHfiMkp2v5mIv/AIuCGoo3zNMmSBHkkcAhFFybuhOEufMXyj6Bmg8foprahFWzCz+i6lS52ImUWH7eB+cN+x9V/tiydH6CGpJstJmqiuVgcp5Io+uToLEFtyF9DYXJNuMGfgnSK+VqzTI2GxTMVpY5FPs69ryt7j0OCjuoh6/JEqubWBckyN03UZgpWShhgjLQwLEXZi38Abc74aZrUNQUER5loeoH5B0mxttf8DEEBtjYJ5ALCR/tfEniLdwgc9lKBCKoV6hupVbM+AyUKdcfhW/TlUkG9ywsRbgm49cDJc/JNK8s4jlmclnkkQMzseSSeSffDVpGYWbf64xucELjCiKcuwXfsJ//2Q==
 subTitle: Kings Of The False Foundation Tour
   
 ---

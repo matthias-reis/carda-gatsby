@@ -36,9 +36,11 @@ date: 2018-09-17T13:54:51.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "22067"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "22067"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_12834745223_1a642a3bbc_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_12834745223_1a642a3bbc_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMECP/EACkQAAICAQMDAgYDAAAAAAAAAAECAwQRABIhBQYxB1ETFGFxkaEiMrH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwBJQvKeoQzx8guDk8+V55/I0/PR7uSereSDqFidK7BslSSxPgA/TGMe2q3W9K7VTqnbsdiUV69uy9UmxtjOUjZxj7hDj7gadHaPph0roskL2rE1mysY3oGwgPgngZ5OdOd1VsK7vrvK5cs3lAcxyIYh8SQkjHAJxgZx/ulx1LqM8vTvl3QsGTd8Vic/ywP1tPOuhe7vTGhdpy2+lzTtKWkBRW3DduC4454II9/xqo2fS0fIWVezbjtIsWyFVVt4DqpbOPGGJ49tLrJYesnT6Uohe1Ur2WrZeJpolcoceVJB2njyNbdQk1Ukbb8SRFdioxkkDRo1SUKI2SW4VChVmLjAx/cBz+2PP11kkOCff30aNB//2Q==
 subTitle: Die Kunst des Nachdenkens
   
 ---

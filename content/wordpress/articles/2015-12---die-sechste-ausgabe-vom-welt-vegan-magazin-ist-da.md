@@ -25,10 +25,12 @@ date: 2015-12-05T18:43:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13372"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "13372"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACYQAAIBAwQCAQUBAAAAAAAAAAECAwQFEQAGEiETMVEHIjJCYUH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIFBv/EAB8RAAICAgIDAQAAAAAAAAAAAAECABESIQNRMUGRwf/aAAwDAQACEQMRAD8AlW3KCmlqWe6T+GiSNnZgjNjrC9AZ/IjTtt+y7XvEdQlve6V01PgTtTQDjHnOM8gCPXydJ1UFXbcohDszyRRt41DHGS3o+/w1QfpdaKXb+27lfKu5PBUV0Aljo2ZYgEVjwZwe8swPHBHWf81icYDcZYjdzocsXCBb+/hESLbT0lRc5+MEcyU1wCxdHjNCC5Xkpb2fH2OveNM31ek2dVWkNZqZoLlHJwjh8PjCIW5M2FPHHsd571k17Ub7o3Q9DE4iZY5CYowYshl+7mP2JZuv4dKl4IHkJLFnOWJbJJ/uk9BwAOjIUNjZPYmptuOluEE0FwjmkjSWOQCORV/Vxg8lb51QLFcIo9rLZqyB6s+QE1DyDlxGAqjKnAAAAGesaNGi61Aebi3WpLa6G7xxzs8NRyZl4hT6woJHRx79fOp/XyM2STo0aoHJrMTOzLR9an//2Q==
 subTitle: Zwei Artikel aus meiner Feder
   
 ---

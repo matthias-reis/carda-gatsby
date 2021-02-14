@@ -27,10 +27,12 @@ date: 2018-08-10T15:08:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21658"
-image: /img/demo.jpg
 errors:
   invalidMdx: 'unknown: Unexpected token, expected "}" (55:13)'
+thumbnailId: "21658"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_fishing-net-1583702_640__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_fishing-net-1583702_640__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEESEABRIxE0FRYQYiMnEUYoH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQIDBv/EACYRAAECBQMDBQAAAAAAAAAAAAEDEQACEiFRBEFhE4HwIjEyocL/2gAMAwEAAhEDEQA/AE9Fu5qI4qjmg8sHlRpLN9vHAt8dY12QBZYYkFRTyPAPKAvIMQRcmxwbqOs5GpWmnnoaRW8sNbQ+YiNqK7tGLCynHQA9MADTLaNyrHjes2yOWRYioVRCoVUPrm7WsT1a5/Wl/oF8Q2mRVnlpAuXPtljYw+bfKfb45KOmpYtvhiRRBGqgcVsbjibdkH/c31tQfV0cUE/OH81XjHHxZlYnBx6k8evfS7dIqHfp3qzMYJlQiQEfZfsi1vtJNv3e/wAGWndqBkZ9tm8SqDOAMotvzBBI49ZOO720cmggppy3yGz8+d4FUWXkWkcNKd24zwfqKHaXgqaKmgRHPkjweBRTxxjHfrn21r9Pw/xtyqVknUUoJic8bByw6F8HPWjRpATSZwPLxrmr6b5/JML9ynohNNNt8xW6hGEjh2/rdR2fYe2uPY4K6ileeaURiYCEtGAjPc9WHx36fGjRq5NedAGne14gvoktYwUDU3t3j//Z
 subTitle: Zwei Kormorane und zahlreiche Fische erstickt
   
 ---

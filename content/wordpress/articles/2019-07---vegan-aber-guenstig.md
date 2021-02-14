@@ -31,9 +31,11 @@ date: 2019-07-19T10:32:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25335"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25335"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAwT/xAAxEAABAwMCAwUGBwAAAAAAAAABAgMEAAURBiESEzEiMkFhcQcUFRckQlNkcoGRocH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDERIhIlFx/9oADAMBAAIRAxEAPwCb9NWpy8XqDb44bLsh0ISHFcKT44J9AadPy1tTizyrbbEpODh24KCgDnqM+lKb2bv8rXen1fnWx/Jx/tVdFsVmDf1UWG4skleJB7W5Pdz5/wBCq223TqHkbB5IoJWgLPGfYbm2uI2l9Ki0piWtWcEDfP6h0pMXuO1HvVyZjp4GWpLiEJznCQogVVGoFw7bc7PADTS+e057upB4g1wrbOPHG23lipSuL3NnynPxHVqz6qJosdluixAOM6dKykQtT2eS8sNtMzGXFrPRKQsEk/tTsjX3TyNSO3T49FVxqUQ2t0fcMbkjdOCdsUUVq5M2x0unI3p2fsz1Nrqyx7pa5CZaJSW2X0BTKg+tBUpB7RBG5x3j1waQe569aKKqUD19iWsvU//Z
 subTitle: Spartipps und Kochbuch von Patrick Bolk
   
 ---

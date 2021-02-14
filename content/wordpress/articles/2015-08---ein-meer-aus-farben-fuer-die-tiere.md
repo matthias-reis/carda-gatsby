@@ -26,11 +26,13 @@ date: 2015-08-17T09:39:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "12288"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:9)"
+thumbnailId: "12288"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAsEAABBAAFAgUDBQAAAAAAAAABAgMEEQAFBhIhEzEUMlFhkQcVQRciI0Ji/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQCBQYH/8QAKxEAAgADBQUJAAAAAAAAAAAAAQIAETEDBCFB0QUSE1GRFCJhcYGiwfDx/9oADAMBAAIRAxEAPwDs2sM6cy98BtTheLW5tHUKUlQs/uIxNoz6Y9ODMVyUVNJSp5Tq3CgnmwkDkgjmx24w51S2zK1GyhbjltRd5aTwFWSLv8mrFdsQeoJr2R6mlTIp3LkMspS2TRcUAsUCB3pPxjmd9mb9aqGM5kjE8xhLl9pFyrFbEMKT+NZwwXquVJYklmY9DlOsnYlTwcS2sCyRZFiiPnDLRuZuSs9ZblZvKkT/AAKVvRlKIaCSBSgntd/m+cRP3FyPEktyVIZkpBStrppWFFY5Cu57ivc4Z/TNQGqY5LSG3Pt6m17E0m07eAfXmyB2v3w5s9G7TZkMZTGdeuUoFagIm+alSPcMqZ+cXmoNPLn59HzRucphTbHR6Yb3BQ55u/8AWE+b6KOcrjKk5htMcf1Y8x2FF+bjgn5wYMbEbKulq3FdO9zmdfGFCx3eHlrGD9Mm/HrmnNnC6tvpq/hHqST5vQkYZ6a0ejT8pl1qYp1DKFoQ2W9tb6vm/YfGDBgq7LutmQ6piKYnL1iDMXM2r+aDpH//2Q==
 subTitle: Bilder von Denise Slapansky
   
 ---

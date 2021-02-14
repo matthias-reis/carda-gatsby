@@ -35,10 +35,12 @@ date: 2019-05-07T19:03:13.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24078"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (42:40)"
+thumbnailId: "24078"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_bielefeld-022__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_bielefeld-022__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcB/8QAJxAAAgIBAwQBBAMAAAAAAAAAAQIDEQQABRIGITFRExQiQZEHcoH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAIREAAgIABQUAAAAAAAAAAAAAAQIAAwQFESExIjJhcbH/2gAMAwEAAhEDEQA/AEAdXbft2Zj40u1zt8lfeJFAAJr1p1xt5gc8MXbC5AJPOUKK/Wsf6riR2gmg5MEZo1IFWKtTX+WdaJgD6P6SWeRI8jKSX5MaVuEkSgKVYg3QYtQFfi79HZmN4UaHmJTAVMx6eJbZ3UrY+LLMdnVRGpamkIuh/XXJZzlYME8sUUPyorEKGcCwDV0PdapepchhseWhlR41hkINxkg17Xv+xqKDc8LGkxnnxFaAqFaJjL3Wh4JJAPYnv7rQJmFw7m1hthKQdlkmwph7bmYGW+M+RxyIQ6PJ2YFxY8drr141X7tntuP8pPt8qU3JXlnB+6RaY8B6A50PNV+dGjWVQaSffyNLEOAPEZ9w6ZhSN8lZ2aMEFopF5Bh5omxpZzHD4YlAIvvV2L0aNQrKGE//2Q==
 subTitle: Achtsamkeit im Alltag
   
 ---

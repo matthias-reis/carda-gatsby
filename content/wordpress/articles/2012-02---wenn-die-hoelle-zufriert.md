@@ -50,9 +50,11 @@ date: 2012-02-02T10:30:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2762"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "2762"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_02_download__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_02_download__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAMHCAECBAUG/8QALhAAAQMDAQUFCQAAAAAAAAAAAQIDBQAEESEGEhMiMTJRcYGhFCMkM0FhwcLR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQAAgP/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDEUFC/9oADAMBAAIRAxEAPwB3trJOUejHWbG2u3+N7tYZSVkJ6k+mPOuAkLGUeU4tULM5Vrk2aeU6aDKumlR9utrm9w8KWvMqOeR5zKftqcUi3tikOBS7q8XoAQXlf2lq2+DOPGl6Q9V/BSDxBVEzaSDn5CBp3aq6Vo5LZm6uN7ixEqM9DwGsp89+myVtY2pKR8esgEdo4PrVYfaRTEjYLDUgUNPoWo8xBG8M5H10FCZb4XqFPolCxGxLZBTFxySddLRofrSh9mbXhLFunuwygfiiitmLy9FjjyE5CUoHgkVgvPnHaI8KKKKRKZ//2Q==
 subTitle: Tagebucheintrag
   
 ---

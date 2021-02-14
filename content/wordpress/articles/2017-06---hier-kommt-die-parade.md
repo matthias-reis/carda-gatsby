@@ -30,9 +30,11 @@ date: 2017-06-22T09:09:43.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16908"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16908"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35075398600_7c99ca6421_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35075398600_7c99ca6421_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACgQAAICAQIFBAIDAAAAAAAAAAECAwQRACEFBhIxQSIyUWEjcUKBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAERAiEDUf/aAAwDAQACEQMRAD8A43y9DSmpUoLNhHnWXqjihUuQcZ9e+wwT41qeLcs07t+e481YSSTyDqgYzkl2yroV2ODn/M+NV3LEsFx7MyrKpr1vW6VFQpHsDuNmOM77bHydTaXLdU3jcsGxLFE64COCPb7Sf1vj4ztqs5rdL9NLiU58QzwuvIttaMds/mQPLYWXoSXGcY/kG8d/J+dNwURBwRuJvxSNhCzRGusj9WSp7Z9OO5+t86j8Y4Rbu20uRo4MaxxxoOoZAHuGf6znyB86VLBJBbRp/TXjhdysuTG0pzsR2yQe+hZVrZDakSNAjM9GWrDJDXSXpyRArHKnI+Mj67anU6thIo0XiFKJBOZmMVch2BCjoOWIAHT3G+50aNNJLWxfhVT1MpP1rPcTtrMG6ScfvRo0gf/Z
 subTitle: Fabelwesen im Sonnenlicht
   
 ---

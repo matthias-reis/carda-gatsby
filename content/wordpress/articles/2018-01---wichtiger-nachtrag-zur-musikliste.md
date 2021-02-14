@@ -64,9 +64,11 @@ date: 2018-01-31T18:34:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "19339"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "19339"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Nachtrag-Songliste-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Nachtrag-Songliste-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAUDAQQGBwj/xAArEAACAgEEAAQFBQEAAAAAAAABAgMEEQAFEiEHMUFRBhMUImEVMnGBkeH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/8QAHBEAAgICAwAAAAAAAAAAAAAAAAIREwESITFR/9oADAMBAAIRAxEAPwDm3YabXbkUfIImSzMfIAf91JvtFqG5PFyDxkq6OucEE/n86abFXa1tW6XaFNxW26JZrBN1VIVm4jAKd9+g1R47F3YzvD7Xal2qKyKzWPqlwshAbjjjnyx3jHY1XJBlEaX1NySzzeNZZC4U565H0986U/D+4VH3pxbKVqssPFfX7gf3N7E4Op/0uHct3eBazxF534ySWuKj7iSc8OsDv+tWt/a4YcF6ssihiDItkHBHnkhO+sH+DpK28CvTqTZnhFsdC34IeJW5bhQimeGJFiZh2GRWbkPYjkDrA9r3etT+GbO0T1Ft17EwnAa1LGsUvELy4ocMB0RnHajJI60aNYFE++3VSeSGFisnz3ZyvWOyMH3Pn/uo9svQiC7Balc/MKPGSSVLKewQPcHGfTRo0uWztIFa6Qf/2Q==
 subTitle: Danke für Euer Feedback!
   
 ---

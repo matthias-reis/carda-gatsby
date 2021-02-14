@@ -48,10 +48,12 @@ date: 2018-06-01T06:23:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21114"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "21114"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQIDAAQRIQUxEhMUYSIyQVGRobH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBAEC/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIDAAQRIRIUMaFBYYGxwf/aAAwDAQACEQMRAD8AXrG284wT13Wktoo8VVSWPQA2da/yrPHcNd+2RmWNAUDKGbZOtYAJ67PzTbdTW0fo+2iEfpr6JfxJZFHQPwf3VlzfpChZd4+PzzQ0djLJt9CsfleIiThB9KQ3BVFyqDIP53/NLNtx7PaySzDI8QfGT7lyOjinnkeTs7OySK6iVruZD4xCMuQwGQSM6GcGsuIWA4xJIQ+ZNspz93Rz3jf4qCKd3YMx9Ow9/IpQwoEwo+qXLDnpZVcXyK4JypVzsd4/Y3UhyfIy38t2ZoII30I8FiABgb/uiikBax8uWNmi5L2Xjxz2rnb3l1BczS3UsExZQA6MVOAc4qlHyklq07zPG5kYsUA0p+D3RRXPSRK5cDZrFupGGCa//9k=
 subTitle: Poseidon und Rosenstolz
   
 ---

@@ -32,9 +32,11 @@ date: 2018-08-30T07:38:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21864"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21864"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-29-Bracenet-25__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-29-Bracenet-25__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcECP/EACsQAAEDAwMCAwkAAAAAAAAAAAECAwQABREGEiExQRMiURQVI2FxgZHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDIRIxwSJR/9oADAMBAAIRAxEAPwCylXOZp21pk+9bglKuofDbxKQRk7dp46d8n5V32uVqe+WGNOXcYXsb+xxoCEjeoEg9eOOcZ70nTbderzbXBMhyHIvhbStvyEHaTxgnuaeLTf2IOmLbGU0psMsstoG3g4wPxj91M5ZF0dzSxriyubAqo+Qtd6b8KVNDr6GGgreS0B0P169qmVqawyUPramMIc6LQSAUrTwQT3/ledtT2zVLtjnxW9MXZiK6VIcKIi8Y3K5IAORz39KVlXOVHuSJDhc8Bx9T4UElKF4JIwPTIHGacfSk9SB14OoBvW9ezdtHTViEG1JBTjI7VV6ukqTJS2keUuIBBOcgkUUUlbg3oTaYcxTafKnG9asYPTCiPueKhniPJhJhyIkd2KpB+C42lSAPTBGKKKOaXBe6/fZ//9k=
 subTitle: Ein Statement für die Meere
   
 ---

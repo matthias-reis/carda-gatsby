@@ -18,9 +18,11 @@ date: 2009-12-21T16:59:51.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "11494"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "11494"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_12_9915416113_9591e14d3c_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_12_9915416113_9591e14d3c_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQECCP/EACIQAAICAgIBBQEAAAAAAAAAAAECABEDIQQSBQYTIjFhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAMAAgIDAAAAAAAAAAAAAAABAgMEETESIYH/2gAMAwEAAhEDEQA/AOVpvixZMz9MKM7VdKLMdk4nRAwz4Ws1pxLT0goXz3H9x0XCT82NmlGz9CTu/GXSL6WKdnNONv02kUUJO8xxG43k+YiEPiTKwV1UqGWzRAOwCNyIqKV7NkC/lWYlSa5QLxVFOGuvguZGoQiJjjkY4wWJZrq2N63FF7xqnVQASbA2f7CExIdU32f/2Q==
 subTitle: Lothars alte Nähfabrik Schrobenhausen
   
 ---

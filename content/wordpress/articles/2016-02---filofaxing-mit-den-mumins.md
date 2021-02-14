@@ -24,9 +24,11 @@ date: 2016-02-02T11:23:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "13830"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "13830"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24664700516_0b26de710b_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24664700516_0b26de710b_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBAUH/8QAJhAAAgEEAgEEAgMAAAAAAAAAAQIDAAQFERIhBiIxUWETQRRCgf/EABcBAQEBAQAAAAAAAAAAAAAAAAECAAP/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRQSExUf/aAAwDAQACEQMRAD8AHZmY4DHRXMlqbjm/DgG4/on30fimVp4lezvG9sLLTxq+jP0Qw316fcfsUf8AN4zeY/GwR8C0lyIkDsFDOyMANnrZPVPI89ifG1tE8jaezuVijjUvoRyFVCng2xvWu6ONNTfRgwGAix1xJc5c2wiC6KMgn5dbBHHfHX1ve9UTykeMbGtl4mS1xshZozKSulBI0d976PVOrDyDHXF9d2mJWTIT2fqk/jTqQO+O9Fvjr/O68wx2Kw+WyGWvITLcQW2RlezEu2iVHAb0qw1sEsKppYEZXfoixk+zGWRXCkNxYBgSPo127hbfJSBsjaW90wTiPzRq+h76Gx81VVB1Tw0+cVpFIlla21uGb8JMcQU8T7jY119Vzb+8kdWU/wBeuqqqQpI//9k=
 subTitle: Finnische Comic-Helden
   
 ---

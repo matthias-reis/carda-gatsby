@@ -32,10 +32,12 @@ date: 2013-04-26T13:15:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "5268"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "5268"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_4580__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_04_img_4580__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCBAYD/8QALRAAAgEDAwMBBgcAAAAAAAAAAQIDBAURAAYSITFxIgcTIzJBYSQzUYGEkvD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAYC/8QAHhEAAgEFAQEBAAAAAAAAAAAAAQIAAwQFEUEhEjH/2gAMAwEAAhEDEQA/ABtZIxyQ/QaFVEsrHJfr4GtNUbRvssSNR1dsYcmjfnBUn1KcHHBTgZz31WTYe6HcK8+3w2QODyzqT9scP9nUzTsHUe6lG+QpDsyU8jY9LA+ADodUSyjPqX+unLv3aF3vdXE1phtMSKzs0lTIUkOcAIAiEcFC9M9ep7ax0Xs0vspkWae1q6tj4crkY/dRpoW/z+aMFTv0cbPkadJGsSAMaaRZ5pZEfhyAUtnHcYOi6xz8zII5Ecn6uMDp5PjSNkv9zTBW41vcn8wgDP6fQa4ybpveMLeK8fyG1kXQbkXfHOeiPStroaJkNbOKdWHRpHABx9h5Goe/gDSZquXuvnBOQvbvpAVW6744Aa83AgHI/EnodUpt438c8Xy5Hn83xz10ZWDcgxj3Xs//2Q==
 subTitle: Vielleicht das beste Konzert aller Zeiten
   
 ---

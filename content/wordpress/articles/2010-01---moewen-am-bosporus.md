@@ -22,10 +22,12 @@ date: 2010-01-09T18:23:12.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "5630"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (17:42)"
+thumbnailId: "5630"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_0232__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_0232__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgMEBf/EACsQAAEDAgQFAgcAAAAAAAAAAAECAwQABQYRITEHEhNRYUFxIiQykaHR4f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAYEQEBAAMAAAAAAAAAAAAAAAAAEQExMv/aAAwDAQACEQMRAD8Acwd81JK86qV/kYmZCTh+JZ5YO6ZjrjSk+2Wh+4qkyZ3F15ammotpi8uR6rDCFA+ylrUPxVLCmViHFdmsFoeuNwmtdBtSmwhpYUt1xO7aQN1Z6Ht65UuMDrufELEreJsQK6Ntti/koDeYbS5uM8/qIGSir1+EaDSqbbcNqbxY3b8d87qgsv8AViOghx13Xp7ZklR1AG/in/CiMwYjUSI0hmOyOVCEbD++aXrI6YAT3qQUe9FFUK10wYhnynlRWFOvtIS6pTYPOAVZZ/vwOwroKUSdTRRQZ//Z
 subTitle: Artisten der Lüfte
   
 ---

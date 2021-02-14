@@ -26,10 +26,12 @@ date: 2016-03-24T13:31:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "14352"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "14352"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-3-von-4__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-3-von-4__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMABBEGEjEFEyEUQVFhIjNxgeH/xAAaAQABBQEAAAAAAAAAAAAAAAACAAEDBAUH/8QAJREAAgEDAwIHAAAAAAAAAAAAAQIAAwQRBRIxE0EhIlFhkbHw/9oADAMBAAIRAxEAPwCN6e7RXkDxqXZXBCgc/Vbzp+SDfDJcXECTGLb6cyDcUxk4B8n5z81gFvKEdWwGAOfND3nXbgag9TExNwjrtCnggcCqVZVdARO26zZC6C5bb2m16h1uthqSHpiRGWM43Sh/KluMA8gDBP8AlR2vdRpf7ILWSQ4/YxPg1HXN/eXPU4ruSTEqqF3D+CMUPcTquS5qAU0pgt3HEVjpFC3K1CMFR8n1giq8MZknkVEQZPnikXSpo2vVe5m7YBJJx5z/AH90Rd3purYqxREfGzuHO4/JxxSNIZZSSrK2DgkcCjFJkHnGJmX2oK9ROh4gff7iVMly0bq/d3L9HOaHle4uVkmjjPaQ4ZyPxBxxmllpG0SMCpkJPspIFcLpl8gghh7EUG3JjXF/UKbuPbM//9k=
 subTitle: Flarf-Gedicht zum Frühling
   
 ---

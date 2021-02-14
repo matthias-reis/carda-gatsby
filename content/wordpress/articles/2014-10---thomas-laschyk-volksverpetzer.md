@@ -26,9 +26,11 @@ date: 2014-10-22T13:27:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "24458"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "24458"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-5__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-5__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQCAwEFBgf/xAApEAACAQMEAgECBwAAAAAAAAABAgMEBREABhIhEzFRByIUMkFScXKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMb0qXuW+rPO9OsbzIs5i5cuJLu2Mkd4wB6131TXUyyxSTU7VEhdcRhMjOc4/KMDon0NeO2m6yVd8p6KaaaouFDJVustSFZlQDiisU6bsBuj8jS2+923YX6zxrUyrEpiZgyr45H83o4UZXHpT86BGkt2LtUu9PEyNJNMcl8hkZwQCQCesN10NJ362V1GyS1EkEJaVJlVhjkvZJOM4HQx/YDU669Tje10jS4LSxQfiKeNvHlFzyz9uDy7IP8AIGtr9N4op3mhv90pJ1iAZoKgNI0UasVXgffInOV/aQe89AxssFIKGlhnt9LGkU6Sy1KDDIGAVest2f1z86ne92XWDeMdsgqbZHTuYOLUtOGjPr7sN3kAY/zRo0FNQtLcLpP5bYJsSygO0QXGXPfrOq9tWCrqGM9wV6Otj8aK7x5EsaqVdWOfRGDnPsaNGg//2Q==
 subTitle: Fragestunde mit dem TiA Aktivisten
   
 ---

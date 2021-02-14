@@ -31,10 +31,12 @@ date: 2014-08-21T10:08:27.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "8475"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "8475"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-222-e1582811858196__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-222-e1582811858196__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAtEAACAQMDAgQEBwAAAAAAAAABAgMEBREABiESMQcTMlEUIkGRI2GBgqGx0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDD4dwzztJWG5SP8O5i8gjD9uSzZxj24zjTBuDxOu207tb6Sljp5hPG0hjdixkII/CxnjqUNg49WB76yR0EVg37BBTqIrdeoWUIB8qTx8gD2BGfvpK8b6eGnuFpr4m8ySWJ1DKwOWicOhz+5hoFbfVXbKTcNbcLBHFbIZJw0MCyh2GeeuED0IfUAeQGA+mmLbJuu47ZULR+QaenkUxs+QFcjqYhccE9X3+vOp/cRTT0TyTHFQjlo3xy2Tkg+4/M9uNU/Y1slbYaSRV6QVUAkr1QTMkhwvPQMFWwoBKnkgHHYaDqeMN1eK1WGto2C1FPW/EIxB46Vz/YGpdvevkr6uirg/VFMXKgrgLkDIxk9uB/ujRoOJDRyVs4USdJZT8xGcfpqp7Yp4qmz0lstbMLjRyecJZRgVBbOUIHbA9P86NGg//Z
 subTitle: Teil II - Die Tattoo Session
   
 ---

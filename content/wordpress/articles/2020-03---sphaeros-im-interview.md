@@ -30,9 +30,11 @@ date: 2020-03-05T08:00:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "28533"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "28533"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYHAgMEBQj/xAAnEAACAQQBAwQCAwAAAAAAAAABAgMABAUREgYhMRMiQVEHcTKSof/EABcBAQADAAAAAAAAAAAAAAAAAAIAAQP/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAIDETEh/9oADAMBAAIRAxEAPwDlZF5OqkhdnWz4FP8A009lZT4GO9tBLBNcnuIwTLFy48hsd9sCN/sa7VH48ipJs8Tay4rB3K3WRS8CvDdRSQLHFAgVp19KTZ/mG3rQ0Sd/G8snSWpXHZmX+Wulsfhup8jYWkSQiHV17H5ARMoIUH9sAKiyReDsv0dUxdS5Ka8uppLm6a4nkHH1lYqrqTyJ1/Ua8DVLrEsxJ8mlQSE4G96lNMuQzEzYTGi0uUie3ZlkEcjcmfiFEmj49gC9vkH7ooqXqKMY+JNDc3Es/BZmLemvBd+QNnt/pqxRRTgAOT//2Q==
 subTitle: '"Musik besitzt eine meditative Kraft"'
   
 ---

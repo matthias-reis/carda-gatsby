@@ -25,10 +25,12 @@ date: 2018-06-17T10:14:35.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21183"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "21183"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_Anne-on-tour__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_Anne-on-tour__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACgQAAIBAwQCAQQDAQAAAAAAAAECAwQFEQASITEGQRMHFBZhIlFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAf/EACIRAAICAQIHAQAAAAAAAAAAAAECABEDIjEEEyFBUYGh4f/aAAwDAQACEQMRAD8AttLfqexW+K4Xa1VlJThGilUBWCkOo3A8bhlseuc6tM9wolrI1raGeNFkQhiYix5XnYCW7I9a558Rqofyy+0V0kSqpK+ukpZ3KKwWNWBBT1wQD12PZ036ax2vyWltd1tlQjNFckln2KEjqXiPx4Zf0NpHvgZ/SOabswy4VOkbiLC7WeGmnrpIQZdss0hh+QKOGboYye/Wda9FKa+KCSBoREoBcTRllYYAO3I55yD0M6kPqPbRLZameCYR/ays8r72DMnyDOB0D/zWHxO018HjlIJAGi+PMMLT4cKTnOcY5/rOiYQqqxbr4uJ4gs5QJ7+/kXEF6uVVcYZ/tnjlMgyYgsSKuWJxt4H8jnOO9ND6c+V/iXj8q3eGtZK69ZpUijDjDbM5bOFyecZ9HRo1Rh3kcNDK0i7rfYahLtS1QUEtUQuvphuYcH/caLVepUsVuWZiHECoVPZOOjo0aytNS53uf//Z
 subTitle: Sommerliche Auszeit
   
 ---

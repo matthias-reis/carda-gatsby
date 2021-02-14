@@ -29,11 +29,13 @@ date: 2018-04-16T15:27:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "20479"
-image: /img/demo.jpg
 errors:
   noSubtitle: no h2 heading found - no sub title
   oldGallery: article has an old wordpress gallery
+thumbnailId: "20479"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Abschied-1-von-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Abschied-1-von-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgMHCP/EACwQAAIBAwIEAwkBAAAAAAAAAAECAwAEEQUGEiExURMicQcUMkFCRYGDkaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxEhQQQx/9oADAMBAAIRAxEAPwCSsZ5SAfeZz+yp+2uJVjJNyygAkkyjAAqoWU6qo4nhQDueh/NZdbunfbmpx2dwr3L2sqxBMDzFSB0z3q0+k9mcKzHNq70i3FqmpW9jrcckaNm1RVZWaNQA7cxz8x/hFWKae9T7lIPQmucPZPqA03Uxdl5AkMEqEcWPj4QMD1FbMuNy3hiDq8pRunEBz/yirnpjbK96laG6rC2lKRRPcMo5eCnEP7UnY7yW5LIun3rNnkscAGB3LZFFFQNUoGZWpyYht/blho8EoYxahPI/iYKMojB+jHcHOT0p2a44V4RGkagcgFAxz+WKKKUtjN9Mayjk/9k=
   
 ---
 

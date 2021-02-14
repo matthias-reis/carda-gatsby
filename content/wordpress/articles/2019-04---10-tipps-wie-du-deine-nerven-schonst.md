@@ -37,10 +37,12 @@ date: 2019-04-24T14:30:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "23987"
-image: /img/demo.jpg
 errors:
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:6)"
+thumbnailId: "23987"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQIEB//EACoQAAEDAwIFBAIDAAAAAAAAAAECAwQFBhEAIRITMUFxByJhgRQVM1Fi/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAyEEEUEFEqEiMXGx0f/aAAwDAQACEQMRAD8ArXa3bMFD7rtMmJbZjcwLVLXhTnFwJScHbiIPTO2+NLl9ypVEq1Mag1aXNEtlEgPxlNqipyrGEtEFRQMEZUrORvprqttzItoT5bsZUduKyqU4oBClLVgICRkEABKid+mBjfXI6Lbxltfhw3JcirOOjko4+FtKVKIXk56n2b/J+NObSoVJVFxzsMeIPutqcCxmG/BJz5xNe4PUCt1HlxIa40drGAuHGS248T3JxxfQxqO3Llq0GeI9SjCospVh6LLZBWAepCiMpPnbUFryo9uXe3Jq0WSlMZbjLrLZHMZUAU7Z7g9vPTVt6k3nGrdfYk0VLyW2Y5YW++gJXIJWVZUB/WcDJzoigLYAw9MUxJQ9pzH6u06szEL5VZmVJhY9yHHlIV4KFK4T9H61j6eR3KVLqMiTBf8AyFJSyw44gpQ2QpKjxZ37AbaNGjP1fUNQwwNtuJovT6luViSfky0vS2aLd0x2dMBgVJX8kmNk84/7QrYnHcYPnSnTrSt635YmOyP2clr3NolYQ2FDoeFJ3Pk4+NGjUtdZe5y31+SgaK19ln//2Q==
 subTitle: <strong>Alltag für Fortgeschrittene</strong>
   
 ---

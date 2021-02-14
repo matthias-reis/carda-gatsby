@@ -31,9 +31,11 @@ date: 2017-04-13T05:53:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "16352"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "16352"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_19548358703_3424a3edf5_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_19548358703_3424a3edf5_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAKhAAAgEEAQEGBwEAAAAAAAAAAQIDAAQRIQUSBjFBUYGhEyQzcXOR0bH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECEQMT/9oADAMBAAIRAxEAPwDUcfxtrHbxNaWd9BKo0yysT6qdfqmtonJQZZIHYMcgyFiQfPAOPaqXH9qrhowpvlLfihz7Cmi87cv0/MnXcRDH/KrPacJ+VE2n5mZsYYDCjSsOkLnGD57pR2hs7iaB3dOQEmyAjkgE+OBrFOxzNx1BhcMMY18JP5VC9525CFkvWOifpREHX2orrKepDedZhz/iUeSNWjZI9Z1Ep9O6ngYogLkOSO/pAx7UUVkRZEp7lreJ2UZZBkZxSGbkDOmXTQ8M6/yiiiOj/9k=
 subTitle: Teil 2/2 Diese Banken machen es anders
   
 ---

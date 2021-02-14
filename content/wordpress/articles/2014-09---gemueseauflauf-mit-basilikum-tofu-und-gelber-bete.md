@@ -35,10 +35,12 @@ date: 2014-09-03T11:12:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "8780"
-image: /img/demo.jpg
 errors:
   oldGallery: article has an old wordpress gallery
+thumbnailId: "8780"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAApEAACAgEEAQMCBwAAAAAAAAABAgMRBAAFIUESExQxIoEGMkJRcZHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAkEQABBAAFBAMAAAAAAAAAAAABAAIEEQMSITFRQnGh8WGRwf/aAAwDAQACEQMRAD8Aw+Ft2DuedLG2RLjwwq/mzQg2AB38j/d6o4+2bUYAcjOnzWjVVCeuI0AH5QFHJ67PwNT19rjbLLPjI8oyHX1eDfpDiwByKJJr+Ndbyx5sGPKoM5XGKk+ZKtV8CwDQu+K+9a5EuW6NloXfOwVWDHdIcW5stcVfnun5OJDKuOvg3t1Ab0JVIVl/fiur5F98amHH2WDPdTEuNMG+nzfyBUjgktxWrORuEuNtccORHkyY8kivDKG8+ApFVXHfN8js8jRH7T25MiokcqMqepILZLsKEIv55B+2iLLMnortt7+FoxTgGnvzDz6/Vg8DdT4JDDEYZ4z9LAj57tTQII4I1Wj3WGSJoZ8bKjLAgrit5X8/pvyH9nRo1U9oNWLSiLs3qqz75lZOyxYcMbeEJVF9eNVcsFpPoU2eBzZUdm9Jx86ef8N5KyCN4ZJ6mjWPymYWAVtqF3VdAHqtGjRHY1gpgrW9E0UcIuOp5+1//9k=
 subTitle: Herzhaft und saftig
   
 ---

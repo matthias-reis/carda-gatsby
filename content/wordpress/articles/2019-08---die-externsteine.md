@@ -24,9 +24,11 @@ date: 2019-08-06T11:26:27.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "25404"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "25404"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-3__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-3__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHCP/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQASIQYTMSJBcYEHUhRRkf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQAE/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAwQREjEhwf/aAAwDAQACEQMRAD8AtfTf5KqZ7oIrhDE0Mp2IFQAbwM4UjnByPOrtD1baJIiak7HydojUvkDHJx454+tczxVhlt1RJG7iaF0likVgMkY4x5yBjwcamrRfjBRyxQw7l3nLcFVYjjHI8g/WlLfpSoKPre/vE4Wz1k8kTcOs62jPSFbU0FwWmmlXswy7tjo+5QcE+CAfJ45/rWPxdbV9trpKDqWF64KcOyqiyxgcHkABiCPGPvTmppoqi0QwV2+fbV7QACxClYwQ36+WwefOqbJJLb/4UzdtlV2h9KjKkExkN7n0sG/zT8+61gLQfsxxVhSjDmSNLRWlaaFpaZ4iVILCRgMAZPAJIHwPb30uLpS3PSymzXIQsfUFmHcAIAIOcA4HwdGjUAaLQOwaXBSjeiOqejucV1lq46uiqop8OIxIY+3+zAMB545B51FXO2XSeCtgloFjV4+6NrIV7iZGAQScsCfnGjRol22IeoAgvlT2f//Z
 subTitle: Mystisches Naturdenkmal im Teutoburger Wald
   
 ---

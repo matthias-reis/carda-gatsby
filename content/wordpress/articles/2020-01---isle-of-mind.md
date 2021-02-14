@@ -31,9 +31,11 @@ date: 2020-01-20T17:41:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "27312"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "27312"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2020-01-12-yoga-56-1__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_2020-01-12-yoga-56-1__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAJxAAAQMDBAEEAwEAAAAAAAAAAQIEEQADBQYSITFBEyJRYQcjgZH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGxEAAQUBAQAAAAAAAAAAAAAAAQACERIhMQP/2gAMAwEAAhEDEQA/AMswqWDdt6iwtdlqV3SrmQO5mB99d9VP5bWNzUeGBeXLbDFpQUNrSdxJKYSbnBAK/ABMDwO6sP450+3VYF/KIB3D2WCAQmeisHs/X+0i60iNQOr2PvvmePcIurspsLgC7tUSICRtSYH9jqo2cG7kqwaJzYSDPVmRxOlLrf0E32G8NVLUFQPUBCVj4JIAPjyBWWaiw75OWWtbUotFSeiCAIArftIMruPvhthsjjHLpQhF5aibSQiZAQRyZPChxxPVVfVouJuXVuWmQsPVLlaFs/0rBPhSBH98z4pA70LbN2E5DA6rsld9N5a4LCSE8HiN3PP3VnxjVi1eJdWWiRe5T7jKeZMxET1z9CiitJAPVmsRxMFLRDxbwNEFyTu3KM8zMj4PAj4qD1BnXItK2yAfAUaKKIEcQJJ6v//Z
 subTitle: Mein neues Yoga-Handtuch im Belastungstest
   
 ---

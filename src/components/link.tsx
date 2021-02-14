@@ -1,7 +1,8 @@
 import * as React from 'react';
 import { Link as GatsbyLink } from 'gatsby';
 import styled from '@emotion/styled';
-import { color } from '../style';
+import { color, space } from '../style';
+import { IconExternalLink } from './icons';
 
 const link = `
   position: relative;
@@ -13,17 +14,23 @@ const link = `
 const InternalLink = styled(GatsbyLink)`
   ${link}
 `;
-const ExternalLink = styled.a`
+const StyledExternalLink = styled.a`
   ${link}
-  margin-right: 1em;
-  &:after {
-    content: '⬆';
-    position: absolute;
-    font-size: 60%;
-    right: -1em;
-    top: -0.3em;
+  & svg {
+    margin-left: ${space[0]};
+    width: 0.65em;
+    height: 0.65em;
+    position: relative;
+    top: -${space[0]};
   }
 `;
+
+const ExternalLink: React.FC = ({ children, ...props }) => (
+  <StyledExternalLink {...props}>
+    {children}
+    <IconExternalLink />
+  </StyledExternalLink>
+);
 
 export const Link: React.FC<{ href: string }> = ({ href, children }) => {
   if ((href || '').startsWith('http')) {
@@ -31,7 +38,8 @@ export const Link: React.FC<{ href: string }> = ({ href, children }) => {
       <ExternalLink
         href={href}
         target="_blank"
-        rel="noreferrer, noopener, nofollow">
+        rel="noreferrer, noopener, nofollow"
+      >
         {children}
       </ExternalLink>
     );

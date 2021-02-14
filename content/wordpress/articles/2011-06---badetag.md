@@ -37,9 +37,11 @@ date: 2011-06-28T16:19:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "2058"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "2058"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_pa290001__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_pa290001__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QAKBAAAQMDAgUFAQEAAAAAAAAAAQIDEQAEBRMhBhIUMUEiMmFxgVGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUC/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECAwQREhMh/9oADAMBAAIRAxEAPwC2OYsQdqVZDHIaaW44AlCRJJ8CrY5xTwiHtE8S4XV0y7HWIjlHmZj8maW8S3HD+QxF02nK2CwW1eti7bKk7T4PanvlKU2TvSzDuKslbdZdMC4W4ysBKAgewg+r7BE70VR8o2tm7WvUSspUQk9x2kH7NFSK2rV+TYyc0l0dHLz9iVlWgyFKTykaSRt/lJs1ncfdYy5Q0xaha0GDpJmfwbfdZa7mnAACoNyJkbkfNRHMk8sAIUoQfcdpn47/ADS9NJSMzlTF+Z5UXIDgBlUkHyKKgXp6lrn50rX5MR38/wAooER0volT0f/Z
 subTitle: Tagebucheintrag
   
 ---

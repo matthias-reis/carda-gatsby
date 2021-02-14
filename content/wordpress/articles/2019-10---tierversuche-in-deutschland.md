@@ -28,10 +28,12 @@ date: 2019-10-17T11:34:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "26562"
-image: /img/demo.jpg
 errors:
   invalidMdx: 'unknown: Unexpected token, expected "}" (15:21)'
+thumbnailId: "26562"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_tierversuche__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_tierversuche__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwECBAj/xAAmEAACAQMDAwQDAAAAAAAAAAABAgMABBEFEiEGEzEHFEFRgZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIABP/EACERAAIBAQkBAAAAAAAAAAAAAAABAiEDBBExMkFxocHw/9oADAMBAAIRAxEAPwCd9NLtdE6Ehvrlp5tlsbplABYLjcEQDHhcACu7SfV1ru/KxaYTZLlnk9wA8cY8uQeDxzgfuqzhnvrboB7gapJcC1tRJGoiWNkGwDgrkEjOQSPiluHSrwabZvpd3bmJ4wjtJjuOpXlQMjJ2k/X9oprFnVF0PVsXU6Xmgx6hB3UiuLVbiNZBtcB0DLkfBwRxVf3uruoKI5G3itJdTddBjRigGxEXYwIKYGPHjgDilGe+3t585NDBqVVVEtvcTOkbmV+iLkO5Yeycc/Ww1D9MkzKO6S2UT5x4j4ooprb7su76ZceoddNu5zaC3Mh7KW6Oq/RIIJrNqxa7gUnIMigj8iiisgZZn//Z
 subTitle: Die traurige Realität
   
 ---

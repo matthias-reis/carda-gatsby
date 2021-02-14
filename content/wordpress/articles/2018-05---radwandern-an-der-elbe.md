@@ -30,9 +30,11 @@ date: 2018-05-27T17:08:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-thumbnailId: "21053"
-image: /img/demo.jpg
 errors: {}
+thumbnailId: "21053"
+remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_41667070274_c51d3aa7fe_z__m.jpg
+remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_41667070274_c51d3aa7fe_z__l.jpg
+remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcB/8QALRAAAgEDAgQDCAMAAAAAAAAAAQIDAAQRBQYHEiExEyJBIyVSVGFjcYGRscL/xAAXAQADAQAAAAAAAAAAAAAAAAABBQYC/8QAHhEAAQQCAwEAAAAAAAAAAAAAAQACAxEFgRIhI1H/2gAMAwEAAhEDEQA/AIG29m3d7GGjjIT07daebLh4DErSmQP6jw8irrS+IOzbW3DW6ySPnBVVVWH1PMQB/NMMPEjbLOyRTx5A6DxU6/jBp/JnjdMIGwpePCRHuV1lI91w+jKkgEnGOgx1pI3Fs97FnJiZ0wTkKa2274j7bhX2rNjtnOBn84qg1nf+zriBhLJAwx8zGP7oxZt108g7CEmFiA8nUdrDdOjtndENvqvLgeVLlwP2C/apMm3tQuLjntpFCDszRkOgx8QYnFFFQbnkGgn3ALsm3NaEY95so9VHP3/bVRaht3Uz5jdLg/Z5v9UUVpjnfURGF//Z
 subTitle: Nur Urlaub ist schöner
   
 ---
