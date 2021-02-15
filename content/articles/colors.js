@@ -12,7 +12,6 @@ const Line = styled.div`
 
 export const Colors = ({ palette }) => {
   const colors = color[palette];
-  console.log(color, colors);
   return (
     <Line>
       {colors.map((color) => (

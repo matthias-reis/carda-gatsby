@@ -12,7 +12,6 @@ export const RemoteImage: React.FC<{
   mediumUrl?: string;
   largeUrl?: string;
 }> = ({ alt, title, size, loadingUrl, largeUrl, mediumUrl }) => {
-  console.log(loadingUrl, mediumUrl);
   const Container =
     size === 'large' ? FixedImageContainer : FloatingImageContainer;
   const src = size === 'large' ? largeUrl : mediumUrl;
