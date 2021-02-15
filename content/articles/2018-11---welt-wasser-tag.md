@@ -15,7 +15,7 @@ labels:
 type: Standard
 ---
 
-![Weltwassertag](./img/welt-wasser-tag.jpg)
+![Beispielbild](/img/high-heel-abbott-.jpg)
 
 <strong>BOLD</strong>
 
@@ -34,9 +34,10 @@ Lösungen für das Wasser“.
 
 ## Natürliche **Wasserspeicher** nutzen
 
-Weltwassertag2018 soll für ein stärkeres Bewusstsein für die Berücksichtigung
-naturnaher und natürlicher Wasserspeicher geworben werden. Zu den natürlichen
-Wasserspeichern zählen unter anderem Wälder, Wiesen und Feuchtgebiete.
+Der Weltwassertag 2018 soll für ein stärkeres Bewusstsein für die
+Berücksichtigung naturnaher und natürlicher Wasserspeicher geworben werden. Zu
+den natürlichen Wasserspeichern zählen unter anderem Wälder, Wiesen und
+Feuchtgebiete.
 
 <Layout typ="drei-spalten">
   <Spalte>
@@ -112,7 +113,7 @@ landen im Müll. Das dafür verbrauchte Wasser ist ganz klar verloren.
 
 ## Sollte man mal drüber nachdenken, oder?
 
-<span style='color: red'> roter <small>text</small> </span>
+<span style='color: red'> roter <sub>text</sub> </span>
 
 ---
 
@@ -121,6 +122,6 @@ landen im Müll. Das dafür verbrauchte Wasser ist ganz klar verloren.
 
 | Tables        | Are           | Cool   |
 | ------------- | ------------- | ------ |
-| col 3 is      | right-aligned | \$1600 |
-| col 2 is      | centered      | \$12   |
-| zebra stripes | are neat      | \$1    |
+| col 3 is      | right-aligned | 1600 € |
+| col 2 is      | centered      | 12 €   |
+| zebra stripes | are neat      | 1 €    |

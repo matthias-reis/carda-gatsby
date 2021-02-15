@@ -54,7 +54,13 @@ recycelten PET-Flaschen, die Sohle aus recyceltem Kautschuk.
 
 ## In die Puschen kommen
 
-![gumbies-anne-reis-cardamonchai.rock-n-roll-vegan](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-28-gumbies-5-400x533.jpg)
+<RemoteImage
+  alt="gumbies-anne-reis-cardamonchai.rock-n-roll-vegan"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-5__l.jpg"
+  loadingUrl="undefined" />
 
 "Komm in die Puschen" - das sagt man in meiner alten Heimat
 [Bielefeld](/2019/07/bielefeld/), wenn jemand mal einen Zahn zulegen soll. Mit
@@ -86,7 +92,13 @@ noch nie gemütlichere Hausschuhe und freue mich schon auf die kalte Jahreszeit
 mit ihnen. Die Heizung muss ich dieses Jahr ganz sicher erst ein paar Tage
 später einschalten.
 
-![gumbies-anne-reis-cardamonchai.rock-n-roll-vegan](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-28-gumbies-9-400x300.jpg)
+<RemoteImage
+  alt="gumbies-anne-reis-cardamonchai.rock-n-roll-vegan"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-9__l.jpg"
+  loadingUrl="undefined" />
 
 Was mich am Anfang ein bisschen irritiert hat, ist der niedrige Steg, der sich
 an der Ferse befindet. Von meinen anderen Gumbies war ich das nicht gewohnt.
@@ -112,7 +124,13 @@ Wie immer bei Gumbies, habe ich auch die Puschen eine Nummer größer bestellt,
 als bei anderen Schuhen. Sie passen wie angegossen und sollten keinen Millimeter
 kleiner oder größer sein.
 
-![gumbies-anne-reis-cardamonchai-rock-n-roll-vegan](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-28-gumbies-6-400x300.jpg)
+<RemoteImage
+  alt="gumbies-anne-reis-cardamonchai-rock-n-roll-vegan"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-gumbies-6__l.jpg"
+  loadingUrl="undefined" />
 
 Das Filzmaterial trägt sich sehr angenehm - auch wenn man die Hüttenschuhe ohne
 Socken anzieht, werden die Füße nicht unangenehm schwitzig. Im Gegensatz zu

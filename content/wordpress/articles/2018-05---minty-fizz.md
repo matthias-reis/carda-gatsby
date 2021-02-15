@@ -42,7 +42,13 @@ Eure Kosten kommen.**
 Gespannt? Dann nichts wie ran an den Shaker. Ich wünsche Euch viel Spaß mit
 meinem Minty Fizz.
 
-![Minty Fizz](http://cardamonchai.com/wp-content/uploads/2018/05/41066737704_b6aa5b838b_z-400x300.jpg)
+<RemoteImage
+  alt="Minty Fizz"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41066737704_b6aa5b838b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41066737704_b6aa5b838b_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Zutaten für 2 Gläser
 

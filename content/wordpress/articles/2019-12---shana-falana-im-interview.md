@@ -42,7 +42,8 @@ date: 2019-12-03T06:55:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (257:5)"
 thumbnailId: "27070"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-6__l.jpg
@@ -51,6 +52,9 @@ subTitle: '"Druggy music by sober people"'
   
 ---
 
+## unknown: Unexpected token (257:5)
+
+<!--
 _English version below_
 
 **Shana Falana habe ich erst vor Kurzem für mich entdeckt. In der
@@ -76,7 +80,13 @@ Webseite.
 > Sexindustrie gearbeitet. Während dieser finsteren Zeit habe ich gelernt, dass
 > selbst in den dunkelsten Lebensphasen jeder noch irgendwo sein Licht hat."
 
-![shana-falana](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-7-400x300.jpg "Shana Falana. Bild / picture: Monik Giesel")
+<RemoteImage
+  alt="shana-falana"
+  size="medium"
+  title="Shana Falana. Bild / picture: Monik Giesel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-7__l.jpg"
+  loadingUrl="undefined" />
 
 Darauf beruft sie sich auch im neuen Albumtitel. "Darkest Light" ist für sie ein
 Album der Mantras. Die Künstlerin hatte in den 1990er Jahren bereits in der
@@ -112,7 +122,13 @@ unterschiedlichsten Musiker٭innen gespielt. Je nachdem, aus welcher Ecke sie
 kamen, klang es elektronischer oder mehr nach Heavy Metal. Ich finde es lustig,
 dass sie auf so viele unterschiedliche Arten interpretiert werden können.
 
-![shana-falana](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-4-400x300.png "Shana Falana. Bild / picture: Monik Giesel")
+<RemoteImage
+  alt="shana-falana"
+  size="medium"
+  title="Shana Falana. Bild / picture: Monik Giesel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-4.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-4.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Du gibst auf Deiner Webseite **Sonic Youth** als erklärtes Vorbild an.
 Da haben wir einiges gemeinsam - Kim Gordon - was für eine Frau! Am Ende des
@@ -153,7 +169,13 @@ war sehr spannend, endlich hinter den Vorhang blicken zu dürfen.
 **Anne:** Aus Deiner Erfahrung heraus: Welchen Tipp würdest Du Frauen in Bands
 geben?
 
-![shana-falana](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-3-400x300.png "Shana Falana. Bild / picture: Monik Giesel")
+<RemoteImage
+  alt="shana-falana"
+  size="medium"
+  title="Shana Falana. Bild / picture: Monik Giesel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-3.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Shana:** Nur um das klar zu stellen: Wenn ich heute das Wort "Frau" höre,
 denke ich an alle Menschen, die sich selbst als Frauen identifizieren. Ich
@@ -208,7 +230,13 @@ hinzugehen, war es, wie sich in die größte Kunsthochschule der Welt
 einzuschreiben. Der Unterricht war Dein Unterhalt. Ich habe damals Witze darüber
 gemacht, dass sogar der Müll auf den Straßen bunt war. Und er war es wirklich!
 
-![shana-falana](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-10-400x300.jpg "Shana Falana. Bild / picture: Monik Giesel")
+<RemoteImage
+  alt="shana-falana"
+  size="medium"
+  title="Shana Falana. Bild / picture: Monik Giesel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-10__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-10__l.jpg"
+  loadingUrl="undefined" />
 
 Nach und nach wurden die Mieten höher und viele von uns zogen up State nach
 Hudson Valley. Auch ich lebe jetzt dort. Einige von uns schafften es auch, in
@@ -300,7 +328,13 @@ She herself has experienced a lot, she writes on the Shana Falana website.
 > industry. During this dark period, I learned that even in the darkest phases
 > of life, everyone still has their light somewhere."
 
-![shana-falana](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-9-400x300.jpg "Shana Falana. Bild / picture: Monik Giesel")
+<RemoteImage
+  alt="shana-falana"
+  size="medium"
+  title="Shana Falana. Bild / picture: Monik Giesel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-9__l.jpg"
+  loadingUrl="undefined" />
 
 That's what she refers to in the new album title. For her, "Darkest Light" is an
 album of mantras. In the 1990s, the artist already had success in the
@@ -333,7 +367,11 @@ songs with various musicians over the years, depending on the group they've been
 more heavy metal or more electronic! I think they can be interpreted in many
 ways, which is so fun.
 
-![shana-falana](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-5-400x300.png 'Shana Falana - "Darkes Light"')
+<RemoteImage alt="shana-falana" size="medium" title="Shana Falana - "Darkes
+Light""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-5.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-5.png__l.jpg"
+loadingUrl="undefined" />
 
 **Anne:** On your website you mention **Sonic Youth** as a role model. I think,
 we have a lot in common - Kim Gordon - what a woman! At the end of the title
@@ -367,7 +405,13 @@ curtain felt really rewarding.
 
 **Anne:** From your experience: What advice would you give women in bands?
 
-![shana-falana](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-8-400x300.jpg "Shana Falana. Bild / picture: Monik Giesel")
+<RemoteImage
+  alt="shana-falana"
+  size="medium"
+  title="Shana Falana. Bild / picture: Monik Giesel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-8__l.jpg"
+  loadingUrl="undefined" />
 
 **Shana:** Today when I hear the word "women" just to be clear, I think of
 anyone that identifies as a woman. I think maybe you're asking because there is
@@ -414,7 +458,13 @@ Williamsburg was bursting with art. If you lived there, it was like enrolling in
 the greatest creative college and the tuition was your cost of living. I even
 joked that the trash in the street was colorful, and it was.
 
-![shana-falana](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-11-400x300.jpg "Shana Falana. Bild / picture: Monik Giesel")
+<RemoteImage
+  alt="shana-falana"
+  size="medium"
+  title="Shana Falana. Bild / picture: Monik Giesel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-11__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-11__l.jpg"
+  loadingUrl="undefined" />
 
 Slowly we started getting priced out, many folks moved up state to the Hudson
 Valley (where I live now) and some managed to stay. I still go to Brooklyn to
@@ -464,5 +514,7 @@ and all the best for the future!
 get to reflect and share, it's my greatest honor!
 
 [Shana Falana Homepage](http://www.shanafalana.com/) Pictures: Monik Giesel
+
+-->
 
   

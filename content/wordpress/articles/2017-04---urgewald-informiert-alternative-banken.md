@@ -40,7 +40,13 @@ subTitle: Teil 2/2 Diese Banken machen es anders
   
 ---
 
-![Alternative Banken](http://cardamonchai.com/wp-content/uploads/2017/04/11156640815_011f38a715_z.jpg)
+<RemoteImage
+  alt="Alternative Banken"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11156640815_011f38a715_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11156640815_011f38a715_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Wie gestern in [Teil 1](/2017/04/urgewald/) meines Artikels bereits
 angekündigt, möchte ich Euch heute ein paar alternative Banken vorstellen. Meine
@@ -65,7 +71,13 @@ von ihnen. Diese möchte ich heute gerne vorstellen.
 
 ## UmweltBank
 
-![Alternative Banken | full](http://cardamonchai.com/wp-content/uploads/2017/04/Umwelt-Bank.jpg)
+<RemoteImage
+  alt="Alternative Banken"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Umwelt-Bank__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Umwelt-Bank__l.jpg"
+  loadingUrl="undefined" />
 
 Die _UmweltBank_ ist eine an der Börse notierte Aktiengesellschaft. Auch wenn
 ihr Geschäft das Geld ist, ist sie anders, als andere Banken. In ihrer Satzung
@@ -107,7 +119,13 @@ _urgewald_ zitiert Hedwig Tarner, Geografin und Regionalpolitikerin
 
 ## Ethik Bank
 
-![Alternative Banken | full](http://cardamonchai.com/wp-content/uploads/2017/04/Ethik-Bank.jpg)
+<RemoteImage
+  alt="Alternative Banken"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Ethik-Bank__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Ethik-Bank__l.jpg"
+  loadingUrl="undefined" />
 
 Ganz oben auf der Agenda der _Ethik Bank_ steht, dass weder in Rüstung noch in
 Atomkraft investiert wird. Es werden außerdem keine Kredite an Unternehmen
@@ -150,7 +168,13 @@ _urgewald_ zitiert dazu in der Broschüre Ester Yücel, Studentin
 
 ## Triodos Bank
 
-![Alternative Banken](http://cardamonchai.com/wp-content/uploads/2017/04/Triodos-Bank.png)
+<RemoteImage
+  alt="Alternative Banken"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Triodos-Bank.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Triodos-Bank.png__l.jpg"
+  loadingUrl="undefined" />
 
 Mensch, Umwelt und Wirtschaft. Das sind die drei Wege, welche die _Triodos Bank_
 (Tri hodos = Griechisch "drei Wege") geht.
@@ -194,7 +218,13 @@ _urgewald_ zitiert hier Ludger Kotulla, Technischer Redakteur und Feuerwehrmann
 
 ## GLS Bank
 
-![Alternative Banken | full](http://cardamonchai.com/wp-content/uploads/2017/04/gls-bank.jpg)
+<RemoteImage
+  alt="Alternative Banken"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_gls-bank__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_gls-bank__l.jpg"
+  loadingUrl="undefined" />
 
 Das Motto der _GLS Bank_ ist "Geld ist für die Menschen da". Sie versteht sich
 als Universalbank und möchte alle Geschäfte von Anfang bis Ende so nachhaltig
@@ -228,7 +258,13 @@ _urgewald_ zitiert Olaf Schettler, Mediengestalter
 
 ## Alternative Banken sind auf dem Vormarsch
 
-![Alternative Banken](http://cardamonchai.com/wp-content/uploads/2017/04/15029722732_b595e639c6_z-640x486.jpg)
+<RemoteImage
+  alt="Alternative Banken"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_15029722732_b595e639c6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_15029722732_b595e639c6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Alternative Banken erfreuen sich heute immer größerer Beliebtheit. In Zeiten, in
 denen die Menschen anfangen, bewußter zu leben, möchte man auch wissen, was mit

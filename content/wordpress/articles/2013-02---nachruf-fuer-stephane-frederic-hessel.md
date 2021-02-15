@@ -101,7 +101,13 @@ Rottleberode und kurz darauf nach Mittelbau-Dora gebracht. Als er am 6. April
 1945 nach Bergen-Belsen deportiert werden sollte, gelang ihm die Flucht aus dem
 Zug.
 
-![Bild: Anne Reko 6/2012](http://cardamonchai.files.wordpress.com/2013/02/mg_01931.jpg?w=200 "Bild: Anne Reko 6/2012")
+<RemoteImage
+  alt="Bild: Anne Reko 6/2012"
+  size="medium"
+  title="Bild: Anne Reko 6/2012"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/02/mg_01931.jpg?w=200"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/02/mg_01931.jpg?w=200"
+  loadingUrl="undefined" />
 
 In seinem Leben begegnete Stéphane Frédéric Hessel immer wieder interessanten
 und einflussreichen Menschen. Unter anderen durfte er Picasso, Max Ernst, Walter
@@ -142,7 +148,13 @@ ich mich freue."
 - "Empört Euch!" von Stéphane Hessel, ISBN-10: 3550088833, Ullstein-Verlag,
   broschiert, 3,99, ins Deutsche übersetzt von Michael Korgon
 
-![Bild: Anne Reko 6/2012 | full](http://cardamonchai.files.wordpress.com/2013/02/nikon-1124.jpg?w=480 "Bild: Anne Reko 6/2012")
+<RemoteImage
+  alt="Bild: Anne Reko 6/2012"
+  size="full"
+  title="Bild: Anne Reko 6/2012"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/02/nikon-1124.jpg?w=480"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/02/nikon-1124.jpg?w=480"
+  loadingUrl="undefined" />
 
 _Quellen: Wikipedia, Süddeutsche Zeitung, Tagesspiegel_
 

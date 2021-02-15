@@ -153,7 +153,13 @@ habe ich selbst ihm auch keinerlei Beachtung geschenkt. Es war Bestandteil jedes
 verklebten Gewürzregals in jeder Gelsenkirchener Barock Standardküche und für
 mich genauso spießig wie Saucenbinder und Kittelschürzen.
 
-![Kräuterkontor](https://www.adcell.de/promotion/image/promoId/209308/slotId/80259)
+<RemoteImage
+  alt="Kräuterkontor"
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/image/promoId/209308/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/image/promoId/209308/slotId/80259"
+  loadingUrl="undefined" />
 
 Dass ich mich da ziemlich verschätzt hatte, bewies mir Matze, der damit in der
 Küche die tollsten Dinge anstellt. Er fügt es so gut wie jedem Gericht hinzu und

@@ -87,7 +87,13 @@ subTitle: Perfekt ausgerüstet durch die Festival-Saison
   
 ---
 
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg "[ ](/2012/06/05/rock-im-park-2012/)  Billy Talent (Rock im Park 2012)")
+<RemoteImage
+  alt="Festivalliste"
+  size="thumbnail"
+  title="[ ](/2012/06/05/rock-im-park-2012/)  Billy Talent (Rock im Park 2012)"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2013/03/p1000273-150x150.jpg"
+  loadingUrl="undefined" />
 
 Auch ich bin natürlich schon wieder fleißig am Planen und wie in jedem Jahr sind
 ein paar kostbare Urlaubstage auch wieder für Open Air Veranstaltungen
@@ -121,7 +127,13 @@ trotzdem gerne mitnehmen, so lange ich Euch nicht beim Tragen helfen muss und
 ich ab und zu von Euch zu einem kühlschrankgekühlten Bier in Euren Zeltvorgarten
 eingeladen werde. ;-)
 
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p1000313-150x150.jpg "[ ](/2012/06/05/rock-im-park-2012/)  Metallica (Rock im Park 2012)")
+<RemoteImage
+  alt="Festivalliste"
+  size="thumbnail"
+  title="[ ](/2012/06/05/rock-im-park-2012/)  Metallica (Rock im Park 2012)"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000313__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000313__l.jpg"
+  loadingUrl="undefined" />
 
 Auch auf **Konservendosen** habe ich verzichtet, diese kleinen, billigen
 asiatischen Tütensuppen haben sich in den letzten Jahren wirklich bewährt. Und
@@ -136,7 +148,13 @@ dürften, spätestens, seitdem es auf jedem mittelgroßen **Festival** in
 Zeltplatznähe gekühltes Dosenbier für 1,50 € gibt, der Vergangenheit angehören.
 Da lohnt sich der Leistenbruch einfach nicht mehr.
 
-![Festivalliste | thumbnail](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150 "[ ](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg)  Festivals 2012")
+<RemoteImage
+  alt="Festivalliste"
+  size="thumbnail"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg)  Festivals 2012"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/03/p2250036.jpg?w=150"
+  loadingUrl="undefined" />
 
 An den kleinen Supermarktständen, die es mittlerweile auf jedem Open
 Air-Tanzvergnügen gibt, kann man auch so nützliche Dinge wie Einweggrills zum
@@ -347,7 +365,13 @@ Ich habe hier mit voller Absicht nur Zwischenmahlzeiten mit reingepackt, da man,
 wie die Festivalbesuche in den letzten tausend Jahren bewiesen haben, sowieso
 wieder jeden Fressstand, an dem man vorbeikommt, ausprobieren möchte.
 
-![Festivalliste | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/03/p8150037-150x150.jpg "[ ](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg)  Whiley Open Air 2009")
+<RemoteImage
+  alt="Festivalliste"
+  size="thumbnail"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg)  Whiley Open Air 2009"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe die Lebensmittel auch mit Absicht auf die Cliquenliste gesetzt. Es
 empfiehlt sich auf jeden Fall, ein Vortreffen mit allen Mitreisenden zu
@@ -369,7 +393,13 @@ Eure Zuschriften!**
 
 &lt;3 liche Grüße sendet Euch Eure Festivaloma Anne
 
-![Festivalliste | full](http://cardamonchai.com/wp-content/uploads/2013/03/p1260039.jpg "Impression vom Isle Of Wight Festival 2013 - Dieses Jahr wird das Wetter definitiv besser!")
+<RemoteImage
+  alt="Festivalliste"
+  size="full"
+  title="Impression vom Isle Of Wight Festival 2013 - Dieses Jahr wird das Wetter definitiv besser!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__l.jpg"
+  loadingUrl="undefined" />
 
 Weitere Bilder von der Isle Of Wight findet Ihr
 [hier](//2012/07/29/isle-of-wight-festival-2012/) in meinem Blog. Natürlich

@@ -33,7 +33,13 @@ subTitle: Gedanken zum Fest
   
 ---
 
-![Weihnachten](http://cardamonchai.com/wp-content/uploads/2016/12/31276685365_778c95b603_o-640x640.jpg)
+<RemoteImage
+  alt="Weihnachten"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31276685365_778c95b603_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31276685365_778c95b603_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Kurz vor Jahresende. Menschen haben Muße zu schreiben. Briefe, Postkarten,
 Grüße und sogar Reden. Entstehen, werden verschickt, gelesen, vorgetragen,
@@ -74,7 +80,13 @@ Jahr.
 Auf dem Balkon blüht ein kleiner Krokus. Gestern noch zart und zögerlich, heute
 schon kräftiger. Hofft auf das Frühjahr und verkühlt sich.
 
-![Weihnachten | full](http://cardamonchai.com/wp-content/uploads/2016/12/31117999676_031983210c_z-1.jpg)
+<RemoteImage
+  alt="Weihnachten"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31117999676_031983210c_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31117999676_031983210c_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 &nbsp;
 

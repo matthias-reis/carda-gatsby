@@ -50,7 +50,13 @@ Wahrzeichen von Irland.
 
 ## Der Regenbogen und der Schatz
 
-![Regenbogen](http://cardamonchai.com/wp-content/uploads/2018/02/40224300371_ce2a1edc82_z-300x225.jpg)
+<RemoteImage
+  alt="Regenbogen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224300371_ce2a1edc82_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224300371_ce2a1edc82_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ein Leprechaun übergibt seinen Topf mit Gold dem Menschen, der es schafft, ihm
 das Geheimnis des Ortes zu entlocken, an dem sich der Schatz genau befindet. Die

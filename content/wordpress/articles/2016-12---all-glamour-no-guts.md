@@ -41,7 +41,13 @@ subTitle: Schmuck und Accessoires von Veganern für Veganer
 
 Werbung\*
 
-![All Glamour No Guts](http://cardamonchai.com/wp-content/uploads/2016/12/All-Glamour-No-Guts-1-von-1-640x640.jpg)
+<RemoteImage
+  alt="All Glamour No Guts"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Schon eine gefühlte Ewigkeit folge ich All Glamour No Guts auf Instagram. Der
 vegane Bekleidungs- und Accessoire-Hersteller mit Sitz in Norwich, England ist
@@ -66,7 +72,13 @@ Schmuckstück? Vor ein paar Wochen war es dann so weit. Der Tag war gekommen, ic
 wollte mir was Besonderes gönnen und bestellte mir zwei Ketten mit
 Statement-Anhängern bei **All Glamour No Guts** .
 
-![All Glamour No Guts](http://cardamonchai.com/wp-content/uploads/2016/12/All-Glamour-No-Guts-1-von-1-2-640x640.jpg)
+<RemoteImage
+  alt="All Glamour No Guts"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_All-Glamour-No-Guts-1-von-1-2__l.jpg"
+  loadingUrl="undefined" />
 
 Obwohl die Sachen direkt aus England eingeflogen wurden, ging der Versand sehr
 schnell vonstatten. Schon kurze Zeit nachdem ich die Bestellung aufgegeben

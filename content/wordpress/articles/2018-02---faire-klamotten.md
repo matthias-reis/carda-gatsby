@@ -71,7 +71,13 @@ Nachdem ich inzwischen tatsächlich eine kleine Sammlung in meinen
 Browserfavoriten liegen habe, möchte ich diese gerne mit Euch teilen.
 Selbstverständlich besteht dabei kein Anspruch auf Vollständigkeit.
 
-![Faire Klamotten](http://cardamonchai.com/wp-content/uploads/2018/02/11354894815_7b7d26bb30_z-300x450.jpg)
+<RemoteImage
+  alt="Faire Klamotten"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_11354894815_7b7d26bb30_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_11354894815_7b7d26bb30_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Zu meinen Lieblingen gehören die folgenden Labels:
 
@@ -106,7 +112,13 @@ Hamburger Store vorbei, aber auch der große Onlineshop hat es in sich: 
 
 ### Merijula
 
-![Faire Klamotten](http://cardamonchai.com/wp-content/uploads/2018/02/21771326770_2a5cf983af_z-300x452.jpg)
+<RemoteImage
+  alt="Faire Klamotten"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21771326770_2a5cf983af_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21771326770_2a5cf983af_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch diese Brand kommt, Ihr ahnt es schon, aus Hamburg. Ich habe sie bei einem
 Pop-up-Verkauf in St. Pauli kennengelernt. Schaut Euch mal den Shop an: 
@@ -133,7 +145,13 @@ bleibt ganz" ist definitiv unterstützenswert. Hier gibt's was zu sehen: 
 
 ### Fairshion
 
-![](https://www.adcell.de/promotion/view/promoId/103298/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/103298/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/103298/slotId/80259"
+  loadingUrl="undefined" />
 
 Vegane Mode aus Baumwolle, die unter fairen Bedingungen produziert wird findet
 Ihr bei
@@ -141,14 +159,26 @@ Ihr bei
 
 ### Zündstoff
 
-![Faire Klamotten](http://cardamonchai.com/wp-content/uploads/2018/02/21316798924_cdc4bc83e7_z-300x452.jpg)
+<RemoteImage
+  alt="Faire Klamotten"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21316798924_cdc4bc83e7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21316798924_cdc4bc83e7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Vegane Fair- und Ecomode, gibt es seit 2005 bei 
 [https://www.zuendstoff-clothing.de](https://www.zuendstoff-clothing.de)
 
 ### Grundstoff
 
-![](https://www.adcell.de/promotion/view/promoId/35310/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/35310/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/35310/slotId/80259"
+  loadingUrl="undefined" />
 
 Basic-Kleidung aus fairer Produktion 
 [https://www.grundstoff.net/](https://www.adcell.de/promotion/click/promoId/35310/slotId/80259)
@@ -182,7 +212,13 @@ Onlineshop mit ökologischer Mode mit Sitz in Bremen
 
 ### Roots Of Compassion
 
-![So trage ich Pelz!](http://cardamonchai.com/wp-content/uploads/2014/07/11501151886_22baaaa304_o-640x963.jpg "So trage ich Pelz!")
+<RemoteImage
+  alt="So trage ich Pelz!"
+  size="medium"
+  title="So trage ich Pelz!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__l.jpg"
+  loadingUrl="undefined" />
 
 Ich liebe diesen Onlineshop. Hier findet man einfach alles, von Trinkflaschen
 über T-Shirts und Schuhe bis hin zu Tierfutter, Kondomen und Zahnbürsten aus
@@ -234,7 +270,13 @@ Faire vegane Schuhe und Accessoires
 Fantasievolles Schuhwerk in verschiedenen bunten Designs
 [https://www.dogo-shoes.com](https://www.dogo-shoes.com)
 
-![Grundstoff](https://www.adcell.de/promotion/image/promoId/36924/slotId/80259)
+<RemoteImage
+  alt="Grundstoff"
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/image/promoId/36924/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/image/promoId/36924/slotId/80259"
+  loadingUrl="undefined" />
 
 [](https://www.adcell.de/promotion/click/promoId/36924/slotId/80259)
 

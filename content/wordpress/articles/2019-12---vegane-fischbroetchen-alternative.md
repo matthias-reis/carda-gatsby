@@ -59,7 +59,13 @@ Intelligenz und dem Lernvermögen von Fischen.
 
 ## Tofu-Pioniere aus den Niederlanden
 
-![vegane-fischbroetchen-for-future](http://cardamonchai.com/wp-content/uploads/2019/12/2019-12-03-so-fine-1-400x300.jpg)
+<RemoteImage
+  alt="vegane-fischbroetchen-for-future"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__l.jpg"
+  loadingUrl="undefined" />
 
 SoFine [<sup>2</sup>](#2) gehört zu den Pionieren im Tofugeschäft. Das
 Unternehmen wurde 1963 in den Niederlanden gegründet. Die Mission lautete:

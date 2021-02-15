@@ -29,7 +29,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (93:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (123:16)"
 thumbnailId: "21594"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30031079918_8994a630e7_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30031079918_8994a630e7_z__l.jpg
@@ -38,7 +38,7 @@ subTitle: Geschmack von Italien und Skandinavien
   
 ---
 
-## unknown: Unterminated JSX contents (93:16)
+## unknown: Unterminated JSX contents (123:16)
 
 <!--
 _Werbung\*_
@@ -59,7 +59,13 @@ getrunken habe. Sie schmeckt herb, erfrischend und spritzig. Genau, wie die
 anderen Geschmacksrichtungen, ist sie sehr natürlich. Enthalten sind nur ein
 paar Zutaten.
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/30031081808_245c757aaf_z-400x300.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30031081808_245c757aaf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30031081808_245c757aaf_z__l.jpg"
+  loadingUrl="undefined" />
 
 <ul>
     <li><small><sub>
@@ -74,7 +80,13 @@ der Toscana. Einzig das künstliche Aroma glänzt durch Abwesenheit und das ist
 auch gut so. Sie erfrischt gut und eignet sich sicher auch gut als Grundlage zum
 Mixen sommerlicher [Cocktails](/tag/cocktail/). Enthalten sind
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/28964053667_890c25fc74_z-400x300.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28964053667_890c25fc74_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28964053667_890c25fc74_z__l.jpg"
+  loadingUrl="undefined" />
 
 <ul>
     <li><small>
@@ -85,7 +97,13 @@ Fairtrade Zucker Programm.</sub></small>
 Mit sogar noch etwas weniger Ingredienzien kommt die Sorte "Himbeer-Cassis" aus.
 Auch sie sind zu 100 Prozent natürlicher Herkunft:
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/42996018735_1193c31873_z-400x300.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42996018735_1193c31873_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42996018735_1193c31873_z__l.jpg"
+  loadingUrl="undefined" />
 
 <ul>
     <li><small><sub>
@@ -101,7 +119,13 @@ Nummer ab. Die Süße der Himbeeren wird angenehm abgefedert und tritt nicht zu
 stark in den Vordergrund. Erinnerungen kommen dabei eher ans Beerensammeln in
 [Skandinavischen Wäldern](/category/unterwegs/skandinavien/) hoch.
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/42091575930_298b2d00e5_z-400x300.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42091575930_298b2d00e5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42091575930_298b2d00e5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Für meinen Geschmack enthalten die FÜR Limos genau die richtige Menge
 Kohlensäure. Sie prickeln schön, haben aber keinen zu starken "Auftrieb". Ich
@@ -126,7 +150,13 @@ führt.
 
 ## Kasten Limo auf den Gepäckträger und ab an den Baggersee
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/08/28963908237_88ebe719d6_z-400x533.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28963908237_88ebe719d6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28963908237_88ebe719d6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das Einzige, was mir aufgefallen ist, was ich an dieser Stelle loswerden möchte,
 ist: Es wäre wirklich super, wenn die FÜR Limo in Zukunft, wie die anderen

@@ -54,7 +54,13 @@ gleichzeitig zum Urlauben untergebracht werden. So der Plan. Oder doch nicht?
 
 ## Prora - ein Bauungetüm
 
-![Prora](http://cardamonchai.com/wp-content/uploads/2018/06/42011913974_90feb1c623_z-400x300.jpg)
+<RemoteImage
+  alt="Prora"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42011913974_90feb1c623_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42011913974_90feb1c623_z__l.jpg"
+  loadingUrl="undefined" />
 
 Man wird nicht sofort schlau aus den Aufzeichnungen, die man im Internet findet.
 Klar ist, dass es sich bei dem grauen Ungetüm um einen ehemaligen Propagandabau
@@ -73,7 +79,13 @@ verschiedenen Investoren übernommen und zu Hotel- und Wohnanlagen umgewandelt.
 
 ## Der Komplex soll attraktiver werden
 
-![Prora](http://cardamonchai.com/wp-content/uploads/2018/06/41829888405_93d7a8cff2_z-400x300.jpg)
+<RemoteImage
+  alt="Prora"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41829888405_93d7a8cff2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41829888405_93d7a8cff2_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Gebäude am wunderschönen Sassnitzer Strand sollen attraktiver werden. Ein
 Publikumsmagnet. Bis jetzt sieht man davon noch nicht viel. Anonyme Modernität,

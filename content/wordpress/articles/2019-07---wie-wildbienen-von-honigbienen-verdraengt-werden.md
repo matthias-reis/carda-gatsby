@@ -51,7 +51,13 @@ sich einen Bienenstock aufs Dach oder in den Garten zu stellen. Auch zu diesem
 speziellen Thema habe ich einige Informationen zusammengetragen, die ich hiermit
 mit Euch teilen möchte.
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-17-400x300.jpg "Biene im Nestbaubetrieb")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Biene im Nestbaubetrieb"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-17__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-17__l.jpg"
+  loadingUrl="undefined" />
 
 Menschen sehen Bienen schon seit Jahrtausenden als Nutztiere. In unseren Köpfen
 ist es daher fest verankert, dass sie unserem Willen folgen müssen und wir sie
@@ -67,7 +73,13 @@ auch die Vegetation nach und nach aussterben.
 
 ## Vorsicht Verwechslungsgefahr
 
-![wildbienen](http://cardamonchai.com/wp-content/uploads/2019/07/biene2-400x300.jpg "Biene im Spätsommer")
+<RemoteImage
+  alt="wildbienen"
+  size="medium"
+  title="Biene im Spätsommer"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_biene2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_biene2__l.jpg"
+  loadingUrl="undefined" />
 
 Die meisten Menschen denken beim Wort "Bienen" sofort an Honigbienen - sprich
 Zuchtbienen und nicht an Wildbienen. Dass es allein hierzulande etwa 560
@@ -89,7 +101,13 @@ Aufmerksamkeit schenken.
 
 ## Nesträuber und Schwierigkeiten bei der Brut
 
-![Biene sammelt Nektar](http://cardamonchai.com/wp-content/uploads/2014/10/14357441908_09b3d46f87_z-640x427.jpg "Biene sammelt Nektar")
+<RemoteImage
+  alt="Biene sammelt Nektar"
+  size="medium"
+  title="Biene sammelt Nektar"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__l.jpg"
+  loadingUrl="undefined" />
 
 In meinem Artikel
 "[Wie funktioniert ein Insektenhotel](/2019/05/insektenhotel-bienen-auf-dem-balkon/)"
@@ -113,7 +131,13 @@ Wildbienen.
 
 ## Schutzzonen für Wildbienen
 
-![Wildbienen](http://cardamonchai.com/wp-content/uploads/2019/07/biene1-400x300.jpg "Etwa 30 Prozent der Bienen sind oligolektisch - sie bevorzugen eine bestimmte Blütenpflanzengattung oder sogar -Art")
+<RemoteImage
+  alt="Wildbienen"
+  size="medium"
+  title="Etwa 30 Prozent der Bienen sind oligolektisch - sie bevorzugen eine bestimmte Blütenpflanzengattung oder sogar -Art"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_biene1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_biene1__l.jpg"
+  loadingUrl="undefined" />
 
 Besonders Bienen, die auf eine besondere Blütenpflanzengattung oder sogar -Art
 spezialisiert sind (oligolektische) bekommen dadurch ein Problem. Die Nahrung
@@ -141,7 +165,13 @@ weniger Pollen brauchen und kleiner sind.
 Bienenhotels aufstellen, helfen wir auch den Honigbienen. Züchten wir jedoch
 Honigbienen, hilft das den Wildbienen leider nicht weiter.**
 
-![wildbienen](http://cardamonchai.com/wp-content/uploads/2019/07/biene3-400x301.jpg "Die Hummeln sind eine zu den Echten Bienen gehörende Gattung staatenbildender Insekten")
+<RemoteImage
+  alt="wildbienen"
+  size="medium"
+  title="Die Hummeln sind eine zu den Echten Bienen gehörende Gattung staatenbildender Insekten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_biene3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_biene3__l.jpg"
+  loadingUrl="undefined" />
 
 Wildbienen (auch Hummeln!) bestäuben Pflanzen effizienter, als Zuchtbienen und
 sind zudem robuster. Das haben Wissenschaftler inzwischen mithilfe umfangreicher

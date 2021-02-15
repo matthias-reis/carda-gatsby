@@ -36,7 +36,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (66:13)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (78:13)"
 thumbnailId: "19674"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__l.jpg
@@ -45,7 +45,7 @@ subTitle: Nachhaltiger Tee aus Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (66:13)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (78:13)
 
 <!--
 _Werbung\*_
@@ -59,7 +59,13 @@ vom Doc Bettruhe verordnet bekommen hat und höchstens alle paar Stunden mit
 schwerem Kopf in die Küche stapft. So wird man also zur Teetesterin für eine
 Woche.
 
-![Samova](http://cardamonchai.com/wp-content/uploads/2018/02/25408627967_19f227b681_z-300x243.jpg)
+<RemoteImage
+  alt="Samova"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25408627967_19f227b681_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25408627967_19f227b681_z__l.jpg"
+  loadingUrl="undefined" />
 
 Für mich als Teeliebhaberin ist es immer besonders spannend, neue Tees
 auszuprobieren. Oder, mal ganz ehrlich: Welcher Teefan hat nicht zumindest mal
@@ -93,7 +99,13 @@ Kümmel,  **Kardamom** , Pfeffer und Koriander.
 
 ## Mein Favorit
 
-![Samova](http://cardamonchai.com/wp-content/uploads/2018/02/25408639947_b6b35ecec5_z-300x200.jpg)
+<RemoteImage
+  alt="Samova"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25408639947_b6b35ecec5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25408639947_b6b35ecec5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Geschmack ist durch die Kombination aus Schwarztee, verschiedenen Gewürzen
 und Hibiskus gleichzeitig kräftig und fruchtig. Die Krauseminze sorgt für
@@ -131,7 +143,13 @@ Ingwer, Zimt, und Kakaoschale. Insgesamt eine tolle Sorte für kalten Tage, sie
 wärmt perfekt von innen. Sie ist frei von Teein und kann daher auch vor dem
 Zubettgehen bedenkenlos getrunken werden.
 
-![Samova](http://cardamonchai.com/wp-content/uploads/2018/02/38469622070_02bf0099c7_z-300x200.jpg)
+<RemoteImage
+  alt="Samova"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38469622070_02bf0099c7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38469622070_02bf0099c7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Team Spirit Tee lockt einen hingegen morgens mit Grünem und Weißem Tee aus
 den Federn. Die Kombination mit Karottenflocken, Lemongras, Basilikum,
@@ -155,7 +173,13 @@ Teebeutel stammen aus Hamburg!
 
 ## Komplett kompostiert innerhalb von sechs Wochen
 
-![Samova](http://cardamonchai.com/wp-content/uploads/2018/02/40279453951_106e2aef34_z-300x200.jpg)
+<RemoteImage
+  alt="Samova"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40279453951_106e2aef34_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40279453951_106e2aef34_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Teebeutel sowie die Einzelverpackungen werden aus dem gartenkompostierbaren
 Material NatureFlex hergestellt. Dieses wird aus nachhaltig produzierten
@@ -194,7 +218,13 @@ in Hamburg, um hier nur mal ein paar Namen einzustreuen.
 
 ## Musik ist auch im Spiel
 
-![Samova](http://cardamonchai.com/wp-content/uploads/2018/02/40235043172_2ff74e5848_z-300x200.jpg)
+<RemoteImage
+  alt="Samova"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40235043172_2ff74e5848_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40235043172_2ff74e5848_z__l.jpg"
+  loadingUrl="undefined" />
 
 Was mich besonders begeistert hat, ist Esins Aussage zum Thema Tee und Musik. Da
 hat die Liebe wirklich einiges mit mir gemeinsam:

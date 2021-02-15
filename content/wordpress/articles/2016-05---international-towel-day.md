@@ -34,7 +34,13 @@ subTitle: Es ist wieder soweit
   
 ---
 
-![Towel Day](http://cardamonchai.com/wp-content/uploads/2013/05/img_5386-640x857.jpg "Das Handtuch ist gehisst!")
+<RemoteImage
+  alt="Towel Day"
+  size="medium"
+  title="Das Handtuch ist gehisst!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__l.jpg"
+  loadingUrl="undefined" />
 
 **Viele haben schon mal davon gehört: Der International Towel Day. Jedes Jahr
 am 25. Mai wird er gefeiert. Doch was steckt eigentlich dahinter?**
@@ -51,7 +57,13 @@ jedes Jahr am 25. Mai wird es dann feierlich gehisst.
 
 ## Towel Day - Das Datum
 
-![Towel Day](http://cardamonchai.com/wp-content/uploads/2013/05/douglas-adams-640x610.jpg "Douglas Adams - der Mann mit der Antwort")
+<RemoteImage
+  alt="Towel Day"
+  size="medium"
+  title="Douglas Adams - der Mann mit der Antwort"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_douglas-adams__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_douglas-adams__l.jpg"
+  loadingUrl="undefined" />
 
 Das Datum ist ein Kompromiss. Sehr bald nach dem Tod Douglas Adams sollte ein
 regelmäßiger Gedenktag zu seinen Ehren festgelegt werden. Es sollte aber auch
@@ -67,7 +79,13 @@ Handtücher.
 
 ## Die Antwort auf alle Fragen
 
-![Towel Day](http://cardamonchai.com/wp-content/uploads/2013/05/img_4203-640x960.jpg "Festival-Handtuch")
+<RemoteImage
+  alt="Towel Day"
+  size="medium"
+  title="Festival-Handtuch"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4203__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4203__l.jpg"
+  loadingUrl="undefined" />
 
 Wer jetzt vor dem großen Rätsel des Lebens steht, sollte auf jeden Fall "Per
 Anhalter durch die Galaxis lesen, Ihr werdet es nicht bereuen. Vor allem werdet

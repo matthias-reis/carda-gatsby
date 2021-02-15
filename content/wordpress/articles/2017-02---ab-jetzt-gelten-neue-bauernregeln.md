@@ -33,7 +33,13 @@ subTitle: Tierschutzbüro kämpft für Gesetzesänderungen
   
 ---
 
-![Neue Bauernregeln](http://cardamonchai.com/wp-content/uploads/2017/02/Deutsches-Tierschutzbüro-640x231.jpg)
+<RemoteImage
+  alt="Neue Bauernregeln"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Deutsches-Tierschutzbu%CC%88ro__l.jpg"
+  loadingUrl="undefined" />
 
 **Das Bundesumweltministerium (BMUB) hat in den letzten Wochen eine neue
 Kampagne mit dem Namen _Neue Bauernregeln_  auf die Strecke gebracht.**
@@ -90,7 +96,13 @@ Wer mehr erfahren möchte, findet das Deutsche Tierschutzbüro
 Wenn Ihr die Aktion  _Neue Bauernregeln_ unterstützen wollt, klickt am besten
 einfach hier auf das Banner.
 
-![Neue Bauernregeln | full](http://cardamonchai.com/wp-content/uploads/2017/02/steht-das-Schwein-auf-einem-Bein.jpg)
+<RemoteImage
+  alt="Neue Bauernregeln"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_steht-das-Schwein-auf-einem-Bein__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://neue-bauernregeln.com/)
 

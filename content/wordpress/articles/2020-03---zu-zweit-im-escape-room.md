@@ -51,7 +51,13 @@ Prenzlauer Berg.
 
 ## Auf der Suche nach Sherlock Holmes
 
-![escape-room](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-07-escape-berlin-8-400x533.jpg "Wie es im Inneren des Raums aussieht, verrate ich Euch natürlich nicht.")
+<RemoteImage
+  alt="escape-room"
+  size="medium"
+  title="Wie es im Inneren des Raums aussieht, verrate ich Euch natürlich nicht."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-07-escape-berlin-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-07-escape-berlin-8__l.jpg"
+  loadingUrl="undefined" />
 
 Ich hatte bei Escape Berlin die Wahl zwischen verschiedenen Escape Rooms und
 habe mich natürlich voller Überzeugung für "Sherlock Holmes" entschieden. Rätsel
@@ -104,7 +110,13 @@ der Fürchtefaktor im Nachhinein betrachtet tatsächlich in Grenzen.
 
 ## Ein liebevoll eingerichteter Escape Room
 
-![escape-room](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-07-escape-berlin-4-400x300.jpg "Liebevolle Details")
+<RemoteImage
+  alt="escape-room"
+  size="medium"
+  title="Liebevolle Details"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-07-escape-berlin-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-07-escape-berlin-4__l.jpg"
+  loadingUrl="undefined" />
 
 Dafür war es super spannend, die einzelnen Rätsel waren sehr durchdacht und der
 Escape Room an sich sehr liebevoll und detailreich eingerichtet.

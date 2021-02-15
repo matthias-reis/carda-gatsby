@@ -44,7 +44,13 @@ Werbung\*
 zu steigern, bin ich immer neugierig auf die neuesten Errungenschaften der
 Heilkunst.**
 
-![tigovit](http://cardamonchai.com/wp-content/uploads/2017/02/tigovit-640x668.jpg)
+<RemoteImage
+  alt="tigovit"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigovit__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigovit__l.jpg"
+  loadingUrl="undefined" />
 
 Das habe ich nicht erst bewiesen, als ich mich
 [auf dem Weg zur Tiefenentspannung](/2014/11/auf-dem-weg-zur-tiefenentspannung/)
@@ -75,7 +81,13 @@ der Stoff einen starke antiangiogenetische Wirkung besitzt. Dadurch ist es
 möglich, dass EGCG dazu in der Lage ist, das Wachstum von Tumorgewebe
 abzuschwächen, oder sogar aufzuhalten.
 
-![tigovit | full](http://cardamonchai.com/wp-content/uploads/2017/02/tigofit3.png)
+<RemoteImage
+  alt="tigovit"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit3.png__l.jpg"
+  loadingUrl="undefined" />
 
 Die Wirkung wird derzeit noch genauer erforscht. Eine positive Beeinflussung der
 Elastizität der Blutgefäße, welche eine zentrale Rolle bei der Entstehung von
@@ -111,7 +123,13 @@ modernen Wissenschaft an. Er enthält außer EGCG noch einige weitere sogenannte
 Catechine (Flavonoide), die für ihr hohes antioxidatives Potential bekannt sind,
 was besonders für die Behandlung von Autoimmunerkrankungen interessant ist.
 
-![tigovit](http://cardamonchai.com/wp-content/uploads/2017/02/tigofit.png)
+<RemoteImage
+  alt="tigovit"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit.png__l.jpg"
+  loadingUrl="undefined" />
 
 Nimmt man Grünen Tee in Form von handelsüblichem Aufguss-Tee zu sich, kommen nur
 sehr wenige von ihnen auch wirklich im Körper an (Bei 300 mg sind das am Ende
@@ -163,7 +181,13 @@ Das ist das Einzige, was man sich meiner Meinung nach überlegen muss, wenn man
 überlegt, es mal zu probieren.
 [Hier gehts zum Interview mit Tanja Hohenester, der Gründerin von tigovit](/2017/03/tigovit-interview/).
 
-![tigovit | full](http://cardamonchai.com/wp-content/uploads/2017/02/tigofit2.png)
+<RemoteImage
+  alt="tigovit"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Bilder und Grafiken:** Mit [freundlicher Genehmigung](https://tigovit.com) von
 tigovit.

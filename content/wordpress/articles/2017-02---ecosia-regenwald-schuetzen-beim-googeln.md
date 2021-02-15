@@ -85,7 +85,13 @@ Die erarbeiteten Spenden gingen von 2010 bis 2013 an ein Regenwald-Schutzprojekt
 des _WWF_ . Insgesamt sollen dabei 1.271.557,05 Euro zusammengekommen sein. Im
 August 2013 wurde die Zusammenarbeit mit dem WWF beendet.
 
-![Ecosia | large](http://cardamonchai.com/wp-content/uploads/2017/02/Bildschirmfoto-2017-02-28-um-10.41.42-800x564.png "Die Ecosia-Bilanz Dezember 2016")
+<RemoteImage
+  alt="Ecosia"
+  size="large"
+  title="Die Ecosia-Bilanz Dezember 2016"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-28-um-10.41.42.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-28-um-10.41.42.png__l.jpg"
+  loadingUrl="undefined" />
 
 2013 bis 2014 wurde das Programm  _Plant A Billion Trees_ der gemeinnützigen
 Umweltorganisation  _The Nature Conservancy_ unterstützt. Das Projekt
@@ -123,7 +129,13 @@ Euro. 137.000 Euro gingen direkt an Aufforstungsprojekte, 110.000 an den
 Baumpflanzfonds. Das Ziel, eine Million Bäume zu pflanzen, wurde bereits im
 November 2014 erreicht.
 
-![Ecosia | large](http://cardamonchai.com/wp-content/uploads/2017/02/Bildschirmfoto-2017-02-28-um-09.38.44-800x352.png "Ecosia-Förderbescheinigung Dezember 2016")
+<RemoteImage
+  alt="Ecosia"
+  size="large"
+  title="Ecosia-Förderbescheinigung Dezember 2016"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-28-um-09.38.44.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-28-um-09.38.44.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Wie funktioniert es?
 

@@ -46,7 +46,13 @@ Hersteller war bislang besonders für seine Getränke mit Kokoswasser bekannt.
 Jetzt wurde das Sortiment erweitert. Ich habe die neuen Kokosmilch-Sorten 
 "Klassisch", "Calzium" und "Matcha" getestet.**
 
-![](https://www.adcell.de/promotion/view/promoId/118963/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
+  loadingUrl="undefined" />
 
 Alle, die keine Kuhmilch trinken, finden ab Oktober eine neue Alternative im
 Bio-Regal. Die neuen Kokosmilchvarianten von Dr. Antonio Martins. Die bisherige
@@ -58,7 +64,13 @@ Vorgängervariante. Diese hatte lediglich 33 Prozent.
 
 ## Vegan, bio und ohne Gentechnik
 
-![Kokosmilch](http://cardamonchai.com/wp-content/uploads/2018/09/P9261588-400x300.jpg)
+<RemoteImage
+  alt="Kokosmilch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_P9261588__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_P9261588__l.jpg"
+  loadingUrl="undefined" />
 
 Hinzu kommen zwei komplett neue Sorten: "Calzium" und "Matcha". Die "Calzium"
 Variante liefert ganze 120 mg Calcium pro 100 Milliliter, das ist genau doppelt
@@ -74,7 +86,13 @@ einfach mit der "Coco Milk Matcha" von Dr. Martins tun.
 
 ## Was ist eigentlich Matcha?
 
-![Kokosmilch](http://cardamonchai.com/wp-content/uploads/2018/09/P9261591-400x300.jpg)
+<RemoteImage
+  alt="Kokosmilch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_P9261591__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_P9261591__l.jpg"
+  loadingUrl="undefined" />
 
 Über [grünen Tee](/2017/03/tigovit-interview/) habe ich hier schon einige Male
 berichtet. Doch was genau ist eigentlich Matcha? Der Name stammt aus dem
@@ -102,7 +120,13 @@ einfach mal so.
 
 ## Kokosmilch vom Sportmediziner
 
-![Kokosmilch](http://cardamonchai.com/wp-content/uploads/2018/09/P9261587-400x533.jpg)
+<RemoteImage
+  alt="Kokosmilch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_P9261587__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_P9261587__l.jpg"
+  loadingUrl="undefined" />
 
 Der Sportmediziner Dr. Antonio Martins ist übrigens seit 15 Jahren
 Kategorieführer für Bio-Kokosgetränke. Der Brasilianer brachte das
@@ -126,7 +150,13 @@ süßlich ist, ist das meiner Meinung nach auch nicht nötig.
 
 ## Nachtisch, Cappucciono und Erfrischungsgetränke
 
-![Kokosmilch](http://cardamonchai.com/wp-content/uploads/2018/09/P9261586-400x300.jpg)
+<RemoteImage
+  alt="Kokosmilch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_P9261586__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_P9261586__l.jpg"
+  loadingUrl="undefined" />
 
 Mir ist gleich mal ein leckerer Nachtisch eingefallen: Einfach eine Kugel Eis in
 ein Glas, die Matcha-Kokosmilch drüber geben und genießen. Die klassische und
@@ -143,7 +173,13 @@ sehr erfrischend.
 
 ## Auch für Cappuccino geeignet
 
-![Kokosmilch](http://cardamonchai.com/wp-content/uploads/2018/09/44968940361_5a10b7d2a7_z-400x300.jpg "Mein Kokos-Cappuccino")
+<RemoteImage
+  alt="Kokosmilch"
+  size="medium"
+  title="Mein Kokos-Cappuccino"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44968940361_5a10b7d2a7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44968940361_5a10b7d2a7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Konsistenz gefällt mir bei allen drei Sorten gut. Die Milch ist nicht zu
 dickflüssig, aber auch nicht zu dünn. Auch was mir mit Kokosmilch-Produkten
@@ -152,14 +188,26 @@ einem kleinen Experiment ist es mir sogar gelungen, sie aufzuschäumen und ich
 muss zugeben: So ein Kokos-Cappuccino ist schon etwas wirklich Feines.
 Vielleicht probiert Ihr den ja auch mal.
 
-![](https://www.adcell.de/promotion/view/promoId/118963/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/118963/slotId/80259"
+  loadingUrl="undefined" />
 
 Übrigens habe ich im Sortiment von Dr. Martins auch
 [Kokosmilch zum Kochen](https://www.adcell.de/promotion/click/promoId/118963/slotId/80259?param0=https%3A%2F%2Fvekoop.de%2FCoco-Kokosmilch-zum-Kochen-Bio-500ml-Kokosnussmilch-vegan)
 entdeckt. Die komplette Produktübersicht findet Ihr auf der
 [Homepage](http://dr-martins.com/de/produkte/).
 
-![vekoop](https://www.adcell.de/promotion/image/promoId/118938/slotId/80259)
+<RemoteImage
+  alt="vekoop"
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/image/promoId/118938/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/image/promoId/118938/slotId/80259"
+  loadingUrl="undefined" />
 
 [](https://www.adcell.de/promotion/click/promoId/118938/slotId/80259)
 

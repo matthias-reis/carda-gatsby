@@ -36,7 +36,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (77:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (95:16)"
 thumbnailId: "21955"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_nin__l.jpg
@@ -45,7 +45,7 @@ subTitle: Ein magischer Moment
   
 ---
 
-## unknown: Unterminated JSX contents (77:16)
+## unknown: Unterminated JSX contents (95:16)
 
 <!--
 **Auch, wenn er schon ein paar Tage zurückliegt, möchte ich diesen besonderen
@@ -59,7 +59,13 @@ nochmal an den Schenker. Das Konzert fand am 2. Juli statt. Viel Zeit für
 Vorfreude also. An dieser Stelle wechsle ich mal (künstlerische Freiheit und so)
 die Zeitform. Ich möchte, dass Ihr live dabei seid.
 
-![Zitadelle](http://cardamonchai.com/wp-content/uploads/2018/09/42747649815_ed88f31d08_z-400x533.jpg)
+<RemoteImage
+  alt="Zitadelle"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747649815_ed88f31d08_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747649815_ed88f31d08_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bei traumhaftem Wetter finden wir uns am Ort des Geschehens ein. Erster Stopp:
 Der Merch-Stand. Erstmal T-Shirts für die, die zu Hause bleiben mussten,
@@ -93,7 +99,13 @@ Phasen mit durchlebt haben. Ob an seiner Seite, oder aus der Ferne.
 
 ## Raves und Rockkonzerte
 
-![Zitadelle](http://cardamonchai.com/wp-content/uploads/2018/09/43604224802_1f0af66c9d_z-400x500.jpg)
+<RemoteImage
+  alt="Zitadelle"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43604224802_1f0af66c9d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43604224802_1f0af66c9d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch für etwas Wehmut ist dabei Platz. Die abgewickelten Musikkassetten an Ross
 Keyboard erinnern uns an damals. Damals, als wir zwischen Raves und
@@ -128,7 +140,13 @@ Konzerts:
 
 ## Setlist NINE INCH NAILS Zitadelle Spandau 2. Juli 2018
 
-![Zitadelle](http://cardamonchai.com/wp-content/uploads/2018/09/42747651245_ea2781fd77_z-400x500.jpg)
+<RemoteImage
+  alt="Zitadelle"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747651245_ea2781fd77_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42747651245_ea2781fd77_z__l.jpg"
+  loadingUrl="undefined" />
 
 <ol>
     <li>

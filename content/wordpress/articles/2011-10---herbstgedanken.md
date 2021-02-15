@@ -127,7 +127,13 @@ die Straße in der ich wohne. Fahre auf den Hof, stelle den Motor ab, ziehe eine
 Zettel aus dem Handschuhfach und eine Bleistift aus meiner Handtasche und
 beginne zu schreiben.
 
-![Bild: cardamonchai | full](http://cardamonchai.files.wordpress.com/2011/10/getimage.jpg "Bild: cardamonchai")
+<RemoteImage
+  alt="Bild: cardamonchai"
+  size="full"
+  title="Bild: cardamonchai"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/getimage.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/10/getimage.jpg"
+  loadingUrl="undefined" />
 
 [youtube=http://www.youtube.com/watch?v=owyNxZsz1hE]
 

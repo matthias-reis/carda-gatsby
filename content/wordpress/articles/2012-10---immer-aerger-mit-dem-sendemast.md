@@ -47,9 +47,13 @@ subTitle: Nachtrag
   
 ---
 
-![](http://cardamonchai.files.wordpress.com/2012/10/gemaltes-phone.jpg?w=300
-''Die Nummer gegen Kummer' gibt es bei 1&amp;1 leider nicht. Man wird aus der
-Leitung geworfen und im Notfall ist nicht mal der Notruf erreichbar.')
+<RemoteImage
+  alt=""
+  size="medium"
+  title="'Die Nummer gegen Kummer' gibt es bei 1&amp;1 leider nicht. Man wird aus der Leitung geworfen und im Notfall ist nicht mal der Notruf erreichbar."
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/10/gemaltes-phone.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/10/gemaltes-phone.jpg?w=300"
+  loadingUrl="undefined" />
 
 Inzwischen habe ich herausgefunden, dass eine Kündigung bei 1&amp;1 nur online
 möglich ist. Ich habe das von einer ehemaligen 1&amp;1-Mitarbeiterin erfahren,

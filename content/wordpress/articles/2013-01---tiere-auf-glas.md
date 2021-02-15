@@ -45,7 +45,13 @@ subTitle: Pfoten und Fell
   
 ---
 
-![Oskar | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/01/img_0004-150x150.jpeg "Oskar")
+<RemoteImage
+  alt="Oskar"
+  size="thumbnail"
+  title="Oskar"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Die Bilder haben mich auf eine Idee gebracht. Es wäre schön, wenn Ihr mich bei
 der Umsetzung unterstützen könntet. Setzt doch bitte alle mal Eure Haustiere auf
@@ -74,7 +80,13 @@ Nicht mal 5 Minuten hat´s gedauert schon kam der erste Beitrag von einer
 liebgewonnenen Twitterin, der
 [@StrassenKatze](https://twitter.com/StrassenKatze). Hier ist ihr Foto:
 
-![@StrassenKatze](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130105_135852-800x1067.jpg "@StrassenKatze")
+<RemoteImage
+  alt="@StrassenKatze"
+  size="medium"
+  title="@StrassenKatze"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_20130105_135852__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_20130105_135852__l.jpg"
+  loadingUrl="undefined" />
 
 Weitere drei Minuten zogen ins Land und schon bekam ich den nächsten Beitrag
 zugeschickt. Diesmal von [@laschnalle](https://twitter.com/laschnalle). Es
@@ -85,15 +97,33 @@ gescannten Katzen. Zu finden unter diesem
 Und noch ein Beitrag von [@StrassenKatze](https://twitter.com/StrassenKatze).
 Hier ein Foto von Fürst, Ihrer Bartagame:
 
-![Der Fürst](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130108_152214-800x1067.jpg "Der Fürst")
+<RemoteImage
+  alt="Der Fürst"
+  size="medium"
+  title="Der Fürst"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_20130108_152214__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_20130108_152214__l.jpg"
+  loadingUrl="undefined" />
 
 Und noch ein Beitrag, dieses Mal von Sarah:
 
-![Sarahs nächtlicher Besucher](http://cardamonchai.com/wp-content/uploads/2013/01/image_1357661187707817.jpg "Sarahs nächtlicher Besucher")
+<RemoteImage
+  alt="Sarahs nächtlicher Besucher"
+  size="medium"
+  title="Sarahs nächtlicher Besucher"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_image_1357661187707817__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_image_1357661187707817__l.jpg"
+  loadingUrl="undefined" />
 
 Hier ist Jessies [@Sir_Smokie](https://twitter.com/Sir_Smokie)
 
-![@Sir_Smokie ](http://cardamonchai.com/wp-content/uploads/2013/01/img_20130108_162457-800x800.jpg "[@Sir_Smokie](https://twitter.com/Sir_Smokie)")
+<RemoteImage
+  alt="@Sir_Smokie "
+  size="medium"
+  title="[@Sir_Smokie](https://twitter.com/Sir_Smokie)"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_20130108_162457__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_20130108_162457__l.jpg"
+  loadingUrl="undefined" />
 
 ## Nachtrag vom 10.Januar 2013
 
@@ -101,19 +131,43 @@ Nachdem ich die letzen beiden Tage leider krank im Bett verbracht habe, führe
 ich den Beitrag heute endlich weiter. Den Anfang macht heute
 [Aithirs](http://aithir.de) Hund Daddy
 
-![Daddy](http://cardamonchai.com/wp-content/uploads/2013/01/img_0008.jpeg "Daddy")
+<RemoteImage
+  alt="Daddy"
+  size="medium"
+  title="Daddy"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_0008.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_0008.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Auch meine beiden Lieblinge Oskar und Chili möchte ich Euch nicht vorenthalten:
 
-![Oskar](http://cardamonchai.com/wp-content/uploads/2013/01/img_0004.jpeg "Oskar")
+<RemoteImage
+  alt="Oskar"
+  size="medium"
+  title="Oskar"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_0004.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
-![IMG_0003](http://cardamonchai.com/wp-content/uploads/2013/01/img_0003.jpeg "Chili")
+<RemoteImage
+  alt="IMG_0003"
+  size="medium"
+  title="Chili"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_0003.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_0003.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 &nbsp;
 
 Don Brillare das Pony:
 
-![Don Brillare](http://cardamonchai.com/wp-content/uploads/2013/01/img_00021.jpeg "Don Brillare")
+<RemoteImage
+  alt="Don Brillare"
+  size="medium"
+  title="Don Brillare"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_00021.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_img_00021.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 ## Nachtrag vom 23.01.2013
 
@@ -122,7 +176,13 @@ ein kleines Kunstwerk geworden, wie ich finde. Der Kleine wollte nicht still
 sitzen bleiben, daher kann man auf dem Bild genau seinen Weg über den Scanner
 zurückverfolgen:
 
-![Scan](http://cardamonchai.com/wp-content/uploads/2013/01/scan-800x1100.jpg "[ ](/wp-content/uploads/2013/01/scan.jpg)  Koki")
+<RemoteImage
+  alt="Scan"
+  size="medium"
+  title="[ ](/wp-content/uploads/2013/01/scan.jpg)  Koki"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_scan__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_01_scan__l.jpg"
+  loadingUrl="undefined" />
 
 _Natürlich soll das noch lange nicht das Ende des Beitrags sein. Wer mir noch
 ein Bild seiner Katze, Ratte, seines Hundes oder Elefanten schicken möchte, kann

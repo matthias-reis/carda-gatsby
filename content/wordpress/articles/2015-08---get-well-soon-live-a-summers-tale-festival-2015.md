@@ -34,7 +34,13 @@ subTitle: Von Feen und Harmonie
   
 ---
 
-![Get Well Soon - The Setlist](http://cardamonchai.com/wp-content/uploads/2015/08/IMG_0342-640x640.jpg "Get Well Soon - The Setlist")
+<RemoteImage
+  alt="Get Well Soon - The Setlist"
+  size="medium"
+  title="Get Well Soon - The Setlist"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_IMG_0342__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_IMG_0342__l.jpg"
+  loadingUrl="undefined" />
 
 **Get Well Soon - Normalerweise sind das Konstatin Gropper und seine Schwester
 Verena zusammen mit ihrer Band. Da sich Verena gerade in der Babypause befindet,

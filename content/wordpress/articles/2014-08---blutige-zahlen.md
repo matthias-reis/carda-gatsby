@@ -66,7 +66,13 @@ und 3,2 Millionen Rinder. In den USA schlachtet alleine die Gesellschaft "Tyson
 Foods" mehr als 42 Millionen Tiere in einer einzigen Woche, in China werden über
 660 Millionen Schweine pro Jahr geschlachtet. (**, \***)
 
-![Geschlachtete Tiere in Deutschland - bund.net | large](http://cardamonchai.files.wordpress.com/2014/08/infografik_-geschlachtete_tiere_in_deutschland.jpg?w=646 "[ ](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf)  Geschlachtete Tiere in Deutschland - bund.net")
+<RemoteImage
+  alt="Geschlachtete Tiere in Deutschland - bund.net"
+  size="large"
+  title="[ ](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf)  Geschlachtete Tiere in Deutschland - bund.net"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/infografik_-geschlachtete_tiere_in_deutschland.jpg?w=646"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/infografik_-geschlachtete_tiere_in_deutschland.jpg?w=646"
+  loadingUrl="undefined" />
 
 Mit 58 Millionen getöteten Schweinen im Jahr steht Deutschland bei der
 Schweineschlachtung in Europa auf Platz 1. Auch bei den Hühnern sind wir in der
@@ -75,7 +81,13 @@ Top 5 dabei.
 > Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben, als
 > ebenbürtig zu betrachten. (Charles Darwin)### Billigfleisch durch Dumpinglöhne
 
-![Zutritt verboten](http://cardamonchai.files.wordpress.com/2014/08/11337775535_483b28d0f8_z.jpg?w=200 "[ ](https://www.flickr.com/photos/99929697@N07/)  Zutritt verboten")
+<RemoteImage
+  alt="Zutritt verboten"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Zutritt verboten"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/11337775535_483b28d0f8_z.jpg?w=200"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/11337775535_483b28d0f8_z.jpg?w=200"
+  loadingUrl="undefined" />
 
 Bundesweit gibt es rund 350 Schlachthöfe, 2012 waren fast 28.000 Menschen in
 Deutschland im Bereich Schlachtung sozialversicherungspflichtig beschäftigt.
@@ -95,7 +107,13 @@ zum Schlachten nach Deutschland bringen. Lebende Tiere werden in Transportern
 hunderte von Kilometern durch Europa transportiert, geschlachtet und zerkleinert
 in **Kühlwagen** wieder zurückgebracht.
 
-![Hinter der Wand leben die Artgenossen](http://cardamonchai.files.wordpress.com/2014/08/11337870944_520300ede0_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Hinter der Wand leben die Artgenossen")
+<RemoteImage
+  alt="Hinter der Wand leben die Artgenossen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Hinter der Wand leben die Artgenossen"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/11337870944_520300ede0_z.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/11337870944_520300ede0_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Rinder werden meist mit Bolzenschussgeräten betäubt, Schweine mit Gas oder einer
 Elektrozange. Häufig geht ein Schuss oder eine Betäubung daneben und die Tiere
@@ -119,7 +137,13 @@ hier werden Videos gezeigt, Zahlen genannt, Vergleiche angestellt zwischen z.B.
 Naturland und Demeter, Beispiele gezeigt und über die Hintergründe und die
 Tierhaltung aufgeklärt.
 
-![Weideland](http://cardamonchai.files.wordpress.com/2014/08/9647416442_6111074c8a_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Weideland")
+<RemoteImage
+  alt="Weideland"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Weideland"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/9647416442_6111074c8a_z.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/9647416442_6111074c8a_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Rund zehn Prozent der geschlachteten weiblichen Kühe in Deutschland sind
 trächtig,
@@ -134,9 +158,21 @@ größten Schlachtkonzerne, Westfleisch, Tönnies und Vion, bei Geflügel führt
 PHW-Gruppe, bekannt durch "Wiesenhof"die Branche an, es lässt sich also durchaus
 von einer Zentralisierung sprechen. (\*)
 
-![Weltweite Schlachtungen bund.net | full](http://cardamonchai.files.wordpress.com/2014/08/aef9d6a669.jpg "[ ](http://www.bund.net/fleischatlas)  Weltweite Schlachtungen bund.net")
+<RemoteImage
+  alt="Weltweite Schlachtungen bund.net"
+  size="full"
+  title="[ ](http://www.bund.net/fleischatlas)  Weltweite Schlachtungen bund.net"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/aef9d6a669.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/aef9d6a669.jpg"
+  loadingUrl="undefined" />
 
-![Bild: Occupy For Animals](http://cardamonchai.files.wordpress.com/2014/08/occupy-for-animals.jpg?w=225 "[ ](http://www.occupyforanimals.org/animal-kill-counter.html)  Bild: Occupy For Animals")
+<RemoteImage
+  alt="Bild: Occupy For Animals"
+  size="medium"
+  title="[ ](http://www.occupyforanimals.org/animal-kill-counter.html)  Bild: Occupy For Animals"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/occupy-for-animals.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/occupy-for-animals.jpg?w=225"
+  loadingUrl="undefined" />
 
 Wer sich diese unfassbaren Zahlen nicht vorstellen kann, besucht den
 [Animal Kill Counter](http://www.occupyforanimals.org/animal-kill-counter.html)
@@ -163,7 +199,13 @@ Auf diese boomenden Länder werden laut dem aktuellen
 [Fleischatlas](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf)
 bis 2022 rund 80 Prozent des Wachstums im Fleischsektor entfallen.
 
-![Trends der Fleischerzeugung in Millionen Tonnen bund.net](http://cardamonchai.files.wordpress.com/2014/08/fleischatlas_2014_grafik1.jpg?w=300 "[ ](http://www.bund.net/fleischatlas)  Trends der Fleischerzeugung in Millionen Tonnen bund.net")
+<RemoteImage
+  alt="Trends der Fleischerzeugung in Millionen Tonnen bund.net"
+  size="medium"
+  title="[ ](http://www.bund.net/fleischatlas)  Trends der Fleischerzeugung in Millionen Tonnen bund.net"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/fleischatlas_2014_grafik1.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/fleischatlas_2014_grafik1.jpg?w=300"
+  loadingUrl="undefined" />
 
 In Indien boomt der Handel mit Büffelfleisch, hier hat sich das Wachstum von
 2010 bis 2013 so gut wie verdoppelt. 25 Prozent des auf dem Weltmarkt

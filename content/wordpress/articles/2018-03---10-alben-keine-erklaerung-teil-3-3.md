@@ -68,7 +68,13 @@ Darunter war mein Name markiert.
 
 ## 10 Alben - viele spannende Listen
 
-![Wir beide und die Musik ](http://cardamonchai.com/wp-content/uploads/2018/03/9554808470_46ed6a2a3b_z-400x400.jpg)
+<RemoteImage
+  alt="Wir beide und die Musik "
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_9554808470_46ed6a2a3b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_9554808470_46ed6a2a3b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Natürlich muss ich bei so einer schönen Herausforderung der musikalischen Art
 auf jeden Fall mitmachen und es wurde eine sehr spannende Liste daraus. Das
@@ -102,43 +108,103 @@ mit der Musik.
 
 1.) Worlds Apart - Trail Of Dead
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/500x500-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_500x500__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_500x500__l.jpg"
+  loadingUrl="undefined" />
 
 2.) El Cielo -Dredg
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/dredg-400x394.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_dredg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_dredg__l.jpg"
+  loadingUrl="undefined" />
 
 3.) Deloused In The Comatorium - The Mars Volta
 
-![12 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/deloused-400x400.jpg)
+<RemoteImage
+  alt="12 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_deloused__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_deloused__l.jpg"
+  loadingUrl="undefined" />
 
 4.) Master Of Puppets - Metallica
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/metallica-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_metallica__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_metallica__l.jpg"
+  loadingUrl="undefined" />
 
 5.) The Fragile - Nine Inch Nails
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/NIN-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_NIN__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_NIN__l.jpg"
+  loadingUrl="undefined" />
 
 6.) Frames - Oceansize
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Oceansize-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Oceansize__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Oceansize__l.jpg"
+  loadingUrl="undefined" />
 
 7.) Ghost Reveries - Opeth
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Opeth-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Opeth__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Opeth__l.jpg"
+  loadingUrl="undefined" />
 
 8.) Ten - Pearl Jam
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/02/R-1171114-1224256201.jpeg-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-1171114-1224256201.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-1171114-1224256201.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 9.) Mer De Noms - A Perfect Circle
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/02/R-1384995-1264936851.jpeg-400x397.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-1384995-1264936851.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-1384995-1264936851.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 10.) Fear Of A Blank Planet - Porcupine Tree
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Fear_of_a_blank_planet-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Fear_of_a_blank_planet__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Fear_of_a_blank_planet__l.jpg"
+  loadingUrl="undefined" />
 
 ## Wegweiser "10 Alben - Keine Erklärung"
 

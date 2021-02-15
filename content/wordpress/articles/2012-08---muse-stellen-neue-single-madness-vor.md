@@ -55,7 +55,13 @@ subTitle: <strong>Album "The 2nd Law" am 1. Oktober </strong>
   
 ---
 
-![Muse - Foto: starpulse.com](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg "[ ](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg)  Muse - Foto: starpulse.com")
+<RemoteImage
+  alt="Muse - Foto: starpulse.com"
+  size="medium"
+  title="[ ](http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg)  Muse - Foto: starpulse.com"
+  mediumUrl="http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg"
+  largeUrl="http://images.starpulse.com/Photos/Previews/Muse-band-m13.jpg"
+  loadingUrl="undefined" />
 
 **Glamourös klingt es, das neueste Werk von Muse. Es lässt erahnen, dass die
 Band mit ihrer neuen Platte "The 2nd Law", das nun am 1. Oktober erscheinen

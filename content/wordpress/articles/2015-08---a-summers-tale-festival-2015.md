@@ -35,8 +35,13 @@ subTitle: Bildergalerie und Fazit
   
 ---
 
-![Karten für das A Summer's Tale Festival 2015](http://cardamonchai.com/wp-content/uploads/2015/08/17540983524_354fbee986_z-640x640.jpg
-'Karten für das A Summer's Tale Festival 2015')
+<RemoteImage
+  alt="Karten für das A Summer's Tale Festival 2015"
+  size="medium"
+  title="Karten für das A Summer's Tale Festival 2015"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_17540983524_354fbee986_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_17540983524_354fbee986_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Wie in den letzten Tagen berichtet, haben wir dieses Jahr mit dem A Summer's
 Tale Festival in Luhmühlen in der Lüneburger Heide ein neues Festival
@@ -70,7 +75,13 @@ der Hunger packt. Vielen herzlichen Dank an dieser Stelle an unsere mobile
 Lieblings-Burgerbude Vincent Vegan<sup> [2](#2) </sup>aus Hamburg, dass Ihr uns
 vor dem Verhungern gerettet habt!
 
-![Vincent Vegan rettete uns](http://cardamonchai.com/wp-content/uploads/2015/08/20411972525_6eb31688e2_z-640x640.jpg "Vincent Vegan rettete uns")
+<RemoteImage
+  alt="Vincent Vegan rettete uns"
+  size="medium"
+  title="Vincent Vegan rettete uns"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20411972525_6eb31688e2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20411972525_6eb31688e2_z__l.jpg"
+  loadingUrl="undefined" />
 
 An zwei Tagen sah es mit dem veganen Essensangebot auf dem Festival richtig mau
 aus, weshalb wir leider auf den örtlichen (3,5 km entfernten) Supermarkt
@@ -102,8 +113,13 @@ also alle ihre Burger und Süßkartoffelfritten und wenn sie nicht gestorben sin
 dann leben sie noch heute. Und mit vollem Bauch feiert es sich bekanntlich
 gleich noch viel schöner.
 
-![Wir auf dem A Summer's Tale ](http://cardamonchai.com/wp-content/uploads/2015/08/Bildschirmfoto-2015-08-18-um-10.18.56.png
-'Wir auf dem A Summer's Tale')
+<RemoteImage
+  alt="Wir auf dem A Summer's Tale "
+  size="medium"
+  title="Wir auf dem A Summer's Tale"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Bildschirmfoto-2015-08-18-um-10.18.56.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Bildschirmfoto-2015-08-18-um-10.18.56.png__l.jpg"
+  loadingUrl="undefined" />
 
 Ich denke, dass man sich bei der Planung des Festivals sehr auf das Thema
 Komfort konzentriert hat (3-Gang Dinner im bestuhlten Zelt mit Tischdecken und

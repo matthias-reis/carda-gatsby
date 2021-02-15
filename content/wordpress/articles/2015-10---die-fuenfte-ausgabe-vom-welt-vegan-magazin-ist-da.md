@@ -33,7 +33,13 @@ subTitle: Zwei Artikel sind von mir
   
 ---
 
-![Mein Interview mit Frau Mehrer vom BUND Hamburg](http://cardamonchai.com/wp-content/uploads/2015/12/23561697616_a4fe3f4373_z-640x427.jpg "Mein Interview mit Frau Mehrer vom BUND Hamburg")
+<RemoteImage
+  alt="Mein Interview mit Frau Mehrer vom BUND Hamburg"
+  size="medium"
+  title="Mein Interview mit Frau Mehrer vom BUND Hamburg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23561697616_a4fe3f4373_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23561697616_a4fe3f4373_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Die neue Ausgabe des Welt Vegan Magazins ist da! Dieses Mal habe ich wieder
 zwei Artikel beigesteuert.**
@@ -50,7 +56,13 @@ selbst.
 
 ## Ein Einblick in TTIP
 
-![Mein Artikel zum Thema TTIP](http://cardamonchai.com/wp-content/uploads/2015/12/23587734615_889ec5ec80_z-640x427.jpg "Mein Artikel zum Thema TTIP")
+<RemoteImage
+  alt="Mein Artikel zum Thema TTIP"
+  size="medium"
+  title="Mein Artikel zum Thema TTIP"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23587734615_889ec5ec80_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23587734615_889ec5ec80_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Beitrag zum Thema [TTIP](/2015/02/veganer-sind-unglaublich-kreativ/) gibt
 einen Überblick und bietet Einblicke in den Kampf der Umweltschützer und

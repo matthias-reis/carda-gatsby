@@ -60,7 +60,13 @@ Office und stimmen uns ständig miteinander ab.
 
 ## INASKA wurde 2016 gegründet
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2019/08/inaska-team-400x600.jpg "Franziska und das Inaska Team")
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title="Franziska und das Inaska Team"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Was bedeutet der Name INASKA?
 
@@ -93,7 +99,13 @@ nachhaltigen Lebensstil.
 
 ## Nachhaltige Produktion in Portugal
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2019/08/inaska-team-2-400x600.jpg "Das fröhlich bunte Inaska Team")
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title="Das fröhlich bunte Inaska Team"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_inaska-team-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Die Bikinis werden im Surferparadies Portugal hergestellt. Wo genau
 und warum?
@@ -155,7 +167,13 @@ sind, kann sich jede\*r individuell einbringen.
 
 ## "Arctic und Lava sind die Farben des Sommers 2019"
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2019/08/INASKA-Swimwear-Sportbikini-FREE-Lava-Sand-2-400x400.jpg "Sport mit Inaska")
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title="Sport mit Inaska"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-FREE-Lava-Sand-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_INASKA-Swimwear-Sportbikini-FREE-Lava-Sand-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Franziska:** Für mich sind die Farben Arctic (Königsblau) und Lava (Rostrot)
 der Trend des Sommers 2019. Arctic ist die Farbe für alle, die sich dem Wasser

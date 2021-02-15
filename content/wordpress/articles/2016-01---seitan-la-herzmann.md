@@ -37,7 +37,13 @@ subTitle: Vleisch für Braten oder mehr
   
 ---
 
-![Seitan - Hier als Braten mit Reis und Gemüse](http://cardamonchai.com/wp-content/uploads/2016/01/23461561951_66cd8e83b5_z-640x640.jpg "Seitan - Hier als Braten mit Reis und Gemüse")
+<RemoteImage
+  alt="Seitan - Hier als Braten mit Reis und Gemüse"
+  size="medium"
+  title="Seitan - Hier als Braten mit Reis und Gemüse"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23461561951_66cd8e83b5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23461561951_66cd8e83b5_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Immer wieder bekomme ich Anfragen, wie wir unsere tollen Seitan-Gerichte
 herstellen, die wir ständig auf Instagram teilen.**
@@ -60,7 +66,13 @@ Variationen.
 - 1 Vorratsdose mit Deckel (Falls Ihr nicht alle 4 Portionen gleich am ersten
   Tag verputzt)
 
-![Seitan mit schwarzem Reis und Gemüse](http://cardamonchai.com/wp-content/uploads/2016/01/23925131661_bb9c501331_z-640x640.jpg "Seitan mit schwarzem Reis und Gemüse")
+<RemoteImage
+  alt="Seitan mit schwarzem Reis und Gemüse"
+  size="medium"
+  title="Seitan mit schwarzem Reis und Gemüse"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23925131661_bb9c501331_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23925131661_bb9c501331_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Zutaten für 4 Portionen
 
@@ -77,7 +89,13 @@ Variationen.
 
 ## Zubereitung
 
-![Seitan mit scharfer Orangensauce, selbstgemachten Pommes und Salat](http://cardamonchai.com/wp-content/uploads/2016/01/23981683206_47c4aea481_z-640x640.jpg "Seitan mit scharfer Orangensauce, selbstgemachten Pommes und Salat")
+<RemoteImage
+  alt="Seitan mit scharfer Orangensauce, selbstgemachten Pommes und Salat"
+  size="medium"
+  title="Seitan mit scharfer Orangensauce, selbstgemachten Pommes und Salat"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23981683206_47c4aea481_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23981683206_47c4aea481_z__l.jpg"
+  loadingUrl="undefined" />
 
 Mischt das Gluten, das Lupinenmehl, das Salz und das Rote Bete Pulver mit dem
 Löffel in der Teigschüssel. Kleine Klümpchen zerdrückt Ihr dabei feinsäuberlich.
@@ -99,7 +117,13 @@ immer noch ein Bisschen mit Wasser, der Topf sollte gut halbvoll sein.
 > Tipp: Gebt die restlichen 50 ml von der Sojasauce mit ins Kochwasser, dann
 > verliert Euer Seitan beim Kochen nicht die Farbe!
 
-![Seitan auf Glasnudelsalat](http://cardamonchai.com/wp-content/uploads/2016/01/23458430682_1bd03ffb4a_z-640x640.jpg)
+<RemoteImage
+  alt="Seitan auf Glasnudelsalat"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23458430682_1bd03ffb4a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23458430682_1bd03ffb4a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Schneidet Euer Vleisch auf dem Brett in gleichmäßige Scheiben und lasst sie in
 die kochende Flüssigkeit gleiten. Es sollte jetzt 20 Minuten sprudelnd kochen.

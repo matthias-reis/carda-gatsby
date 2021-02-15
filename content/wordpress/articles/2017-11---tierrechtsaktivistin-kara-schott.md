@@ -67,7 +67,13 @@ Situation vieler Tiere in Irland aufmerksam zu machen.
 
 ## „Tiere sind so pur! Sie gehen mit Dir durch dick und dünn!“
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Kara-auf-dem-Hof-1-von-1-300x400.jpg "Kara auf dem Hof")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Kara auf dem Hof"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-auf-dem-Hof-1-von-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kara-auf-dem-Hof-1-von-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Ich kenne es nicht anders. Als ich auf die Welt gekommen bin, hatten
 wir schon Katzen und Hunde aus dem Tierschutz. Ich habe sehr viel von meiner
@@ -90,7 +96,13 @@ Irland gegründet. Wie kam es dazu?
 
 ## „In Irland gibt es eine sehr aktive Hunderenn-Szene“
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Einfahrt-der-Station-300x225.jpg "Einfahrt der Station")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Einfahrt der Station"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Einfahrt-der-Station__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Einfahrt-der-Station__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Wir sind beide große Windhundfreunde. Wegen ihnen ist meine Mutter
 nach Irland gegangen. Ich bin mit den verschiedensten Windhunden groß geworden.
@@ -115,7 +127,13 @@ Auffangstation von _Puss In Boots_ in Irland?
 
 ## „Meine Mutter kümmert sich bei Puss In Boots in Irland alleine um 50 Tiere“
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/So-wurde-ein-Katzenbaby-auf-dem-Hof-abgegegen-300x225.jpg "So werden manchmal Katzenbaby auf dem Hof abgegeben")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="So werden manchmal Katzenbaby auf dem Hof abgegeben"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_So-wurde-ein-Katzenbaby-auf-dem-Hof-abgegegen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_So-wurde-ein-Katzenbaby-auf-dem-Hof-abgegegen__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Ja, sie lebt ganz alleine dort und kümmert sich vor Ort um die Tiere.
 Das heißt natürlich, dass wir immer nur eine bestimmte Zahl an Tieren aufnehmen
@@ -145,7 +163,13 @@ läuft die Frist nach 24 Stunden ab. Da ist schnelles Handeln gefragt.
 
 ## „Es gibt jede Menge Handlungs- und Aufklärungsbedarf“
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/22519352_1670423856355290_8082388805347579265_n-300x225.jpg "Bei Sturm dürfen sich die Hunde bei Puss In Boots unter der Decke verkriechen")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Bei Sturm dürfen sich die Hunde bei Puss In Boots unter der Decke verkriechen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_22519352_1670423856355290_8082388805347579265_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_22519352_1670423856355290_8082388805347579265_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Man muss dazu sagen: Die Tötungsstationen müssen keinen Tierschutz
 machen. Sie müssen keine Bilder von den Tieren auf Facebook posten und einen
@@ -180,7 +204,13 @@ finden nicht mal mehr Gras. Dann wird es kritisch.
 
 ## „Sogar mit den ärmsten Lebewesen versuchen Menschen noch Kohle zu machen“
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Sheila-wird-Ende-des-Jahres-39-300x225.jpg "Sheila wird Ende des Jahres 39")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Sheila wird Ende des Jahres 39"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Sheila-wird-Ende-des-Jahres-39__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Sheila-wird-Ende-des-Jahres-39__l.jpg"
+  loadingUrl="undefined" />
 
 Inzwischen kommt noch ein weiteres Problem hinzu: Es gibt Banden, die die Pferde
 von den Wiesen einsammeln und als Schlachtpferde zum Beispiel nach Italien
@@ -202,7 +232,13 @@ Greyhound mitnehmen?
 
 ## Die Besitzer unterschreiben das Todesurteil der Greyhounds
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Typisches-Rennhund-Foto-aus-einer-Tötungsstation-So-sah-Milli-aus-als-sie-abgeholt-wurde-300x228.jpg "Typisches Bild eine Rennhundes in einer Tötungsstation (Milli)")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Typisches Bild eine Rennhundes in einer Tötungsstation (Milli)"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Typisches-Rennhund-Foto-aus-einer-T%C3%B6tungsstation-So-sah-Milli-aus-als-sie-abgeholt-wurde__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Typisches-Rennhund-Foto-aus-einer-T%C3%B6tungsstation-So-sah-Milli-aus-als-sie-abgeholt-wurde__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Das ist tatsächlich leider speziell bei den Greyhounds so, dass die
 Besitzer beim Abgeben in der Station ein Schreiben unterzeichnen können, das
@@ -240,7 +276,13 @@ können?
 
 ## „Vermutlich hat Puss In Boots bis jetzt nur an der Oberfläche gekratzt“
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Der-aktuelle-Sorgenfall-Bumblebee-300x533.jpg "Der aktuelle Sorgenfall Bumblebee")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Der aktuelle Sorgenfall Bumblebee"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Der-aktuelle-Sorgenfall-Bumblebee__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Der-aktuelle-Sorgenfall-Bumblebee__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** In Irland zählen Hunde als Haustiere. Rennhunde jedoch als
 landwirtschaftliche Nutztiere. Man darf sie genauso halten wie Schweine, Schafe
@@ -268,7 +310,13 @@ Greyhound-Welpen sieht?
 
 ## „Die Trainer sorgen für das schlechte Image der Greyhounds in der Bevölkerung“
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Blue-Mouse-am-Tag-ihrer-Ankunft-300x225.jpg "Blue Mouse am Tag ihrer Ankunft")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Blue Mouse am Tag ihrer Ankunft"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-am-Tag-ihrer-Ankunft__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-am-Tag-ihrer-Ankunft__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Ganz genau. Das und die Tatsache, dass der Renn-Industrie nach wir vor
 etwas daran gelegen ist, die Angst vor diesen Hunden in der Bevölkerung zu
@@ -290,7 +338,13 @@ Deutschland kommt?
 
 ## Puss In Boots bringt die Tiere direkt nach Hamburg
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Blue-Mouse-heute-300x225.jpg "Blue Mouse heute")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Blue Mouse heute"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-heute__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Blue-Mouse-heute__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Als erstes muss das Tier ausreisefertig gemacht werden. Das bedeutet,
 dass am Abreisetag ein Amtstierarzt da sein muss, der das Tier und seinen Chip
@@ -310,7 +364,13 @@ hat das Dein Leben mit dem Tierschutz mit sich gebracht?
 
 ## „Mit 11 habe ich beschlossen, kein Fleisch mehr zu essen“
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Monkey-300x400.jpg "Hier wurde Monkey gefunden")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Hier wurde Monkey gefunden"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Eines Tages im Alter von 11 Jahren lief ich aus der Schule nach Hause.
 Bei uns im Ort gab es einen Schlachter, der noch selbst geschlachtet hat. Ich
@@ -337,7 +397,13 @@ Kleinigkeit, die jeder dazu beitragen kann, dass es den Tieren besser geht.
 
 ## "Es ist ein Mythos, dass es keinen Lebendrupf gibt"
 
-![Puss In Boots](http://cardamonchai.com/wp-content/uploads/2017/11/Monkey-heute-e1510485774962-300x400.jpg "Monkey heute")
+<RemoteImage
+  alt="Puss In Boots"
+  size="medium"
+  title="Monkey heute"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey-heute-e1510485774962__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Monkey-heute-e1510485774962__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Es wäre zum Beispiel toll, wenn alle darauf verzichten würden, in
 Daunenbettwäsche zu schlafen. Das ist wirklich eine Kleinigkeit. Für die Gänse

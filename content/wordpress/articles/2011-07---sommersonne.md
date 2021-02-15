@@ -63,7 +63,13 @@ Das Bild des Tages habe ich 2010 in Edinburgh aufgenommen. Mich hat das
 Lichtspiel in Kombination mit den Worten von Alexander McCall Smith auf der
 Hauswand beeindruckt.
 
-![Sommersonne | full](http://cardamonchai.com/wp-content/uploads/2011/07/img_2207.jpg "Foto: Edinburgh Mai 2010 cardamon82")
+<RemoteImage
+  alt="Sommersonne"
+  size="full"
+  title="Foto: Edinburgh Mai 2010 cardamon82"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_07_img_2207__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_07_img_2207__l.jpg"
+  loadingUrl="undefined" />
 
 Passend dazu der Song des Tages. Er kommt heute von einer Band namens Eagleowl,
 die ebenfalls aus Edinburg stammt.

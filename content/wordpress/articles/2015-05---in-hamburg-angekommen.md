@@ -37,7 +37,13 @@ subTitle: Ich bin endlich wieder da!
   
 ---
 
-![Hamburg ist schön und ich bin wieder da!](http://cardamonchai.com/wp-content/uploads/2015/05/17130880761_0e31d84d6b_z.jpg "Ich bin wieder da!")
+<RemoteImage
+  alt="Hamburg ist schön und ich bin wieder da!"
+  size="medium"
+  title="Ich bin wieder da!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Sicher haben ein paar von Euch gemerkt, dass mein Blog in den letzten Tagen
 nicht zu erreichen war. Finstere Mächte hatten sich in den Server gehackt und
@@ -54,7 +60,13 @@ kurz danach auch noch meinen Redaktionsplan lahmgelegt.
 
 ## Neue Artikel aus Hamburg in Kürze
 
-![Hamburg Binnenalster](http://cardamonchai.com/wp-content/uploads/2015/05/17130873791_7903cc11d5_z.jpg "An der Binnenalster")
+<RemoteImage
+  alt="Hamburg Binnenalster"
+  size="medium"
+  title="An der Binnenalster"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130873791_7903cc11d5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17130873791_7903cc11d5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Es wird wohl ein Bisschen dauern, die Artikel, die ich für Euch geplant habe, zu
 rekapitulieren. Ich muss Euch also um ein kleines Bisschen Geduld bitten.
@@ -70,7 +82,13 @@ Team zu sitzen, die Leute sind nett und ich lerne jeden Tag etwas Neues.
 
 ## Offiziell in Hamburg angekommen
 
-![Offiziell in Hamburg angekommen](http://cardamonchai.com/wp-content/uploads/2015/05/17056468917_0fa3c78de7_z.jpg "Offiziell in Hamburg angekommen")
+<RemoteImage
+  alt="Offiziell in Hamburg angekommen"
+  size="medium"
+  title="Offiziell in Hamburg angekommen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17056468917_0fa3c78de7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_17056468917_0fa3c78de7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Nach einigen Anläufen haben wir es letzte Woche auch geschafft, unser Auto
 umzumelden, in unseren Pässen steht schon seit ein paar Wochen die neue Adresse.
@@ -94,7 +112,13 @@ auch schon wie ein Zuhause an.
 
 ## Hamburger Wände dekoriert
 
-![Radtour durch Hamburg](http://cardamonchai.com/wp-content/uploads/2015/05/16711504734_bbf097b072_z.jpg "Radtour durch Hamburg")
+<RemoteImage
+  alt="Radtour durch Hamburg"
+  size="medium"
+  title="Radtour durch Hamburg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_16711504734_bbf097b072_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_16711504734_bbf097b072_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Bilder von unseren Entdeckungstouren haben ich schon bearbeitet und
 sortiert, ich werde Sie einfach nach und nach in den nächsten Tagen hier

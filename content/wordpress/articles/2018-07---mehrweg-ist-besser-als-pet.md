@@ -47,7 +47,13 @@ statt Einweg-Pfandflaschen aus Plastik. Rund 16 Milliarden PET-Flaschen, die
 deutschlandweit innerhalb eines Jahres verbraucht. Daraus ergeben sich 450.000
 Tonnen Plastikmüll.**
 
-![PET](http://cardamonchai.com/wp-content/uploads/2018/07/river-3528344_640-400x266.jpg)
+<RemoteImage
+  alt="PET"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_river-3528344_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_river-3528344_640__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn wir wollen, dass diese unglaubliche Masse in Zukunft kleiner wird, müssen
 wir etwas tun. Leitungswasser trinken zum Beispiel. Die Trinkwasserqualität ist
@@ -69,7 +75,13 @@ Mehrweg-Pfandsystem erhielt durch die Schwemme an PET-Einwegpfandflaschen sehr
 starke Konkurrenz.  Inzwischen nehmen sogar schon große Getränkekonzerne die
 Glasflaschen nach und nach aus dem Sortiment. Ein gefährlicher Trend.
 
-![PET](http://cardamonchai.com/wp-content/uploads/2018/07/beer-1465153_640-400x297.jpg)
+<RemoteImage
+  alt="PET"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_beer-1465153_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_beer-1465153_640__l.jpg"
+  loadingUrl="undefined" />
 
 Seit im Jahr 2003 das neue Pfandsystem in Deutschland eingeführt wurde, lassen
 sich umweltfreundliche Mehrwegflaschen nicht mehr klar daran erkennen, dass beim

@@ -41,7 +41,13 @@ subTitle: "Teil V: Der Livegang"
   
 ---
 
-![Herzlich Willkommen](http://cardamonchai.com/wp-content/uploads/2015/03/14931910137_e0e4ceee85_o-640x640.jpg "[ ]()  Herzlich Willkommen")
+<RemoteImage
+  alt="Herzlich Willkommen"
+  size="medium"
+  title="[ ]()  Herzlich Willkommen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14931910137_e0e4ceee85_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14931910137_e0e4ceee85_o__l.jpg"
+  loadingUrl="undefined" />
 
 **
 [_(Hier geht es zum vierten Teil des Artikels)_](/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/)
@@ -78,7 +84,13 @@ soeben den Schalter umgelegt. Weil ich gerne mal zur Nostalgie neige, hier ein
 kleiner Erinnerungs-Screenshot für Euch (und für mich :-P ). Hat sich ganz schön
 was geändert, ne?
 
-![Die alte Seite ist Geschichte | large](http://cardamonchai.com/wp-content/uploads/2015/03/Bildschirmfoto-2015-03-04-um-19.02.37-800x319.png "[ ]()  Die alte Seite ist Geschichte")
+<RemoteImage
+  alt="Die alte Seite ist Geschichte"
+  size="large"
+  title="[ ]()  Die alte Seite ist Geschichte"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_Bildschirmfoto-2015-03-04-um-19.02.37.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_Bildschirmfoto-2015-03-04-um-19.02.37.png__l.jpg"
+  loadingUrl="undefined" />
 
 Hoch die Tassen! Auf viele weitere Artikel, **Fotostrecken** , Konzertberichte,
 Tagebuchseiten, Glossen und Rezepte! Wie schon im Abschieds-Artikel erwähnt,

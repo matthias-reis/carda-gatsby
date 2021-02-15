@@ -45,7 +45,13 @@ subTitle: <strong>Sulawesi - On The Road And Inside Indonesia</strong>
   
 ---
 
-![Petra in Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_6766.jpg?w=300 "Petra auf Sulawesi")
+<RemoteImage
+  alt="Petra in Sulawesi"
+  size="medium"
+  title="Petra auf Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6766.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6766.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Petra und Melissa sind zwei Bloggerinnen, die eine große Schwäche für
 Indonesien vereint. Sie haben das Land bereist, seine Natur, die Leute und die
@@ -59,7 +65,13 @@ Ein Buch mit einer Dokumentation." So schreiben es die beiden auf ihrer Seite
 "Das Buch soll alles andere, als 0-8-15 werden. Es wird , wie die Insel selbst:
 Abwechslungsreich, verspielt und überraschend."
 
-![Petra in lernte in Sulawesi Land und Leute kennen](http://cardamonchai.files.wordpress.com/2014/09/petra-indonesia.jpg?w=300 "Petra lernte in Sulawesi Land und Leute kennen")
+<RemoteImage
+  alt="Petra in lernte in Sulawesi Land und Leute kennen"
+  size="medium"
+  title="Petra lernte in Sulawesi Land und Leute kennen"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/petra-indonesia.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/petra-indonesia.jpg?w=300"
+  loadingUrl="undefined" />
 
 Petra kenne ich schon sehr lange. Sie wuchs nur ein paar Häuser weiter auf und
 ging in die gleiche Schule wie ich. Während meiner Ausbildungszeit und auch
@@ -75,7 +87,13 @@ mit [Caro](//2013/06/11/alles-andere-wirkt-unwichtig-und-banal/) bei ihrem
 Zwischenstop in Paris besuchte. Von diesem sogenannten "Interrail-Event" habe
 ich heute noch ein T-Shirt als Andenken.
 
-![Traditionelle Musik](http://cardamonchai.files.wordpress.com/2014/09/img_7902.jpg?w=300 "Traditionelle Musik")
+<RemoteImage
+  alt="Traditionelle Musik"
+  size="medium"
+  title="Traditionelle Musik"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7902.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7902.jpg?w=300"
+  loadingUrl="undefined" />
 
 Schon kurze Zeit danach begann Petra ihr Studium in Düsseldorf und wir verloren
 uns, bis auf den losen Kontakt über Facebook, ein Bisschen aus den Augen. Erst
@@ -94,7 +112,13 @@ aufbrachen, postete ich einen Link an meiner Facebook-Pinnwand, irgendwas mit
 "Bald geht’s los nach Bali!". Es dauerte keine zwei Sekunden und Petra schrieb
 mich an und schwärmte über Bali und Indonesien.
 
-![Petra und Melissa auf Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_6533.jpg?w=300 "Petra und Melissa auf Sulawesi")
+<RemoteImage
+  alt="Petra und Melissa auf Sulawesi"
+  size="medium"
+  title="Petra und Melissa auf Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6533.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6533.jpg?w=300"
+  loadingUrl="undefined" />
 
 Leider war sie just zu der Zeit, zu der wir uns auf der
 [Insel der Götter](//2013/08/03/unsere-grose-reise-6/) befanden, nicht im Lande,
@@ -114,7 +138,13 @@ nimmst!
 **Anne:** Wie bist du auf Malaysia gekommen? Warum wolltest du dein
 Auslandssemester gerade dort verbringen?
 
-![Fischer](http://cardamonchai.files.wordpress.com/2014/09/fischer.jpg?w=300 "Fischer")
+<RemoteImage
+  alt="Fischer"
+  size="medium"
+  title="Fischer"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/fischer.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/fischer.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Petra:** Malaysia hat mich sehr gereizt, da ich Lust hatte, längere Zeit in
 einem ganz anderen Teil dieser Welt zu leben. Dort Neues zu entdecken, anders zu
@@ -129,7 +159,13 @@ lange gedauert.
 **Anne:** Eine sehr gute Idee, ein Buchprojekt mit Crowdfunding auf die Beine zu
 stellen. Wie kamt Ihr drauf?
 
-![Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_4481.jpg?w=300 "Sulawesi")
+<RemoteImage
+  alt="Sulawesi"
+  size="medium"
+  title="Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_4481.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_4481.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Petra:** Melissa und ich sind Anfang diesen Jahres für 8 Wochen nach Sulawesi
 aufgebrochen. Ich hatte die Insel, die mit ihrem nördlichen Teil auf dem Äquator
@@ -151,7 +187,13 @@ haben wir viele großartige Menschen getroffen. Die Zeit auf Sulawesi war
 wunderbar. Einfach phantastisch. Wir sind nicht vielen Touristen begegnet und
 dachten uns warum?
 
-![Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_6650.jpg?w=300 "Sulawesi")
+<RemoteImage
+  alt="Sulawesi"
+  size="medium"
+  title="Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6650.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6650.jpg?w=300"
+  loadingUrl="undefined" />
 
 Es gibt bis jetzt kaum Literatur über Sulawesi und das möchten wir gerne ändern.
 Da wir beide Studentinnen sind, konnten wir uns die Kosten für Design und Druck
@@ -184,7 +226,13 @@ Burgerstände oder Cocktailbars. Es ist nicht alles auf die Bedürfnisse der
 Touristen eingestellt, es spielt sich noch "das echte Leben" dort ab, was die
 Insel unglaublich spannend macht.
 
-![Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_5687.jpg?w=300 "Sulawesi")
+<RemoteImage
+  alt="Sulawesi"
+  size="medium"
+  title="Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_5687.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_5687.jpg?w=300"
+  loadingUrl="undefined" />
 
 Du kannst in ein Microlet in Manado steigen und durch die kleinen Gassen
 brausen, lokale Märkte, Malls und Warungs besuchen. Du kannst auf den Togian
@@ -215,7 +263,13 @@ mal wieder Heimweh. Was hilft dir dagegen?
 melancholische Gedanken hinweg. Da wird dann schon mal "Heute hier, morgen dort"
 von Hannes Wader geschmettert (lacht).
 
-![Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_5211.jpg?w=300 "Sulawesi")
+<RemoteImage
+  alt="Sulawesi"
+  size="medium"
+  title="Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_5211.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_5211.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Anne:** Derzeit weilst du im schönen Aachen. Gibt es schon Reisepläne, die
 nähere Zukunft betreffend?
@@ -236,7 +290,13 @@ Buch zu schreiben. In den nächsten Wochen stellen wir alle Inhalte fertig,
 reichern sie mit unseren Bildern und einem tollen Design an und Ende Dezember
 2014 gibt es dann ein druckfrisches Sulawesi-Buch zu kaufen.
 
-![Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_6860.jpg?w=300 "Sulawesi")
+<RemoteImage
+  alt="Sulawesi"
+  size="medium"
+  title="Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6860.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6860.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Anne:** Was unterscheidet "Sulawesi – On The Road And Inside Indonesia" vom
 handelsüblichen Lonely Planet? **Petra:** Im Lonely Planet kann man sich
@@ -255,7 +315,13 @@ zur einfachen Verständigung mit den Locals geben. Außerdem schreiben wir auch
 über die Probleme auf der Insel und die, die dagegen kämpfen. Wir möchten mit
 unserem Buch den Menschen und der Kultur auf Sulawesi ein Gesicht geben.
 
-![Unterwegs auf Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_6982.jpg?w=300 "Unterwegs auf Sulawesi")
+<RemoteImage
+  alt="Unterwegs auf Sulawesi"
+  size="medium"
+  title="Unterwegs auf Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6982.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_6982.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Anne:** Wie können meine Leser das Projekt unterstützen?
 
@@ -278,7 +344,13 @@ zu einer Doku zusammengefügt werden. Damit werde ich mich im Anschluss an die
 Fertigstellung des Buches beschäftigen. Die Doku soll vor allem Lust machen,
 nach Sulawesi zu reisen.
 
-![Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_7061.jpg?w=300 "Sulawesi")
+<RemoteImage
+  alt="Sulawesi"
+  size="medium"
+  title="Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7061.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7061.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Anne:** Macht ihr eigentlich alle Fotos, die auf eurer Homepage und später
 auch im Buch auftauchen, selbst?
@@ -302,7 +374,13 @@ Indonesisch-Kurse über Skype an.
 ich könnte mir vorstellen, ein paar Monate im Jahr dort zu verbringen. Aber
 nicht komplett, nein.
 
-![Sulawesi](http://cardamonchai.files.wordpress.com/2014/09/img_7685.jpg?w=300 "Sulawesi")
+<RemoteImage
+  alt="Sulawesi"
+  size="medium"
+  title="Sulawesi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7685.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_7685.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Anne:** Gerade erst las ich wieder von den Korruptionsproblemen in Indonesien.
 Auch unser Guide erzählte uns auf unserer Bali-Reise davon, außerdem musste
@@ -327,7 +405,13 @@ Telefon. Ein Traum!
 **Anne:** Du hast lange Zeit aus dem Rucksack gelebt: 5 Dinge, die man in
 Sulawesi immer dabei haben sollte?
 
-![Die nächste Reise kommt bestimmt](http://cardamonchai.files.wordpress.com/2014/09/img_4333.jpg?w=300 "Die nächste Reise kommt bestimmt")
+<RemoteImage
+  alt="Die nächste Reise kommt bestimmt"
+  size="medium"
+  title="Die nächste Reise kommt bestimmt"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/09/img_4333.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/09/img_4333.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Petra:** Kamera, Ukulele, Mückenspray, Pflaster und Jod.
 

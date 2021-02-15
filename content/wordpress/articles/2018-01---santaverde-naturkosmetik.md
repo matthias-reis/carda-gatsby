@@ -70,7 +70,13 @@ Frage: Wie stellt man das an, ohne die Haut dabei zu reizen, zu übersättigen u
 damit fettig zu machen oder so zu stressen, dass es noch schlimmer wird, als
 vorher?
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/01/2018-01-13-Santaverde-10-300x200.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-10__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-10__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe mir ein paar Produkte angesehen und mich schlussendlich dazu
 entschieden, die Naturkosmetik von Santaverde aus Hamburg mal zu testen. Auf den
@@ -112,7 +118,13 @@ verwenden. Vielleicht wollt Ihr es ja auch so versuchen, wie ich es während
 meiner kleinen Testphase gemacht habe: Abends das Gel, um die Haut nachts schön
 atmen zu lassen und morgens die Creme unter dem Make-up.
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/01/2018-01-13-Santaverde-3-300x200.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-3__l.jpg"
+  loadingUrl="undefined" />
 
 Das Santaverde-Konzept beinhaltet immer ein Reinigungsprodukt, ein tonisierendes
 Produkt, eine Basispflege sowie eine Spezialpflege. Durch die Zertifizierung
@@ -147,7 +159,13 @@ weltweit wirksam ausgeschlossen.
 
 ## Komplett vegan
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/01/2018-01-13-Santaverde-19-300x200.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-19__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-19__l.jpg"
+  loadingUrl="undefined" />
 
 Das Label der Vegan Society garantiert, dass alle Produkte von Beginn an vegan
 sind. Die Santaverde Produkte tragen das Label mit der bekannten Veganblume
@@ -176,7 +194,13 @@ Pflanzen werden auf der Santa Verde Farm "Finca Verde" in Andalusien angebaut.
 Das Produktionslabor befindet sich inmitten der Aloe Vera Felder. Die Pflanzen
 können somit an Ort und Stelle untersucht werden.
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/01/2018-01-13-Santaverde-15-300x200.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-15__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-15__l.jpg"
+  loadingUrl="undefined" />
 
 Das Besondere ist, dass auf die sonst in Kosmetik verwendete Hauptkomponente
 Wasser komplett verzichtet wird, und an seiner Stelle der Saft zum Einsatz
@@ -191,7 +215,13 @@ ein Blatt der Heilpflanze Aloe Vera geschenkt. Mit dem Saft schaffte sie es,
 ihre Rötungen zu lindern und ihr Hautbild zu verbessern. Entzündungen und
 Trockenheit ließen nach und die Haut entspannte sich.
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/01/2018-01-13-Santaverde-12-300x200.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-12__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-12__l.jpg"
+  loadingUrl="undefined" />
 
 Aloe Vera wird seit Jahrhunderten für ihre regenerierenden, Feuchtigkeit
 spendenden und heilenden Fähigkeiten geschätzt. In der Pflanze sind über 200
@@ -211,7 +241,13 @@ Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen
 interessant ist. [Ihr findet es hier](http://www.santaverde.de/inhaltsstoffe).
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/01/2018-01-13-Santaverde-13-300x200.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2018-01-13-Santaverde-13__l.jpg"
+  loadingUrl="undefined" />
 
 Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
 möchte,

@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (67:65)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (79:65)"
 thumbnailId: "22467"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__l.jpg
@@ -36,7 +36,7 @@ subTitle: Nachhaltige Handtücher als Holz
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (67:65)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (79:65)
 
 <!--
 _Werbung\*_
@@ -55,7 +55,13 @@ auch und schickte eine Anfrage an Gründer Mattias.
 Er war sofort Feuer und Flamme von meinem Angebot, "Kushel" auf meiner Seite
 vorzustellen und erzählte mir von seinem erklärten Ziel:
 
-![Kushel](https://cardamonchai.com/wp-content/uploads/2018/10/2018-10-28-kushell-027-400x668.jpg)
+<RemoteImage
+  alt="Kushel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-027__l.jpg"
+  loadingUrl="undefined" />
 
 <div class="wp-block-image">
 <figure class="alignright">
@@ -92,7 +98,13 @@ Baumwoll-Frotteetücher können da schon mal etwas fester werden. Bei den
 "Kuschel" Tüchern ist das nicht der Fall. Sie sind auch nach dem Waschen wieder
 angenehm kuschelig. Der Name ist also schon mal Programm.
 
-![Kushel](https://cardamonchai.com/wp-content/uploads/2018/10/2018-10-28-kushell-029-400x651.jpg)
+<RemoteImage
+  alt="Kushel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-029__l.jpg"
+  loadingUrl="undefined" />
 
 <div class="wp-block-image">
 <figure class="alignright">

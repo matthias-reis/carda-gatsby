@@ -93,6 +93,12 @@ Monats.
 
 <iframe src="https://open.spotify.com/embed/playlist/7g5r96NzhAA2vE9HonQUDh" width="300" height="380" frameborder="0"></iframe>
 
-![12-songs | large](http://cardamonchai.com/wp-content/uploads/2019/09/12-songs-fuer-den-oktober-anne-reis-cardamonchai-rock-n-roll-vegan-pin-520x780.png)
+<RemoteImage
+  alt="12-songs"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_12-songs-fuer-den-oktober-anne-reis-cardamonchai-rock-n-roll-vegan-pin.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_12-songs-fuer-den-oktober-anne-reis-cardamonchai-rock-n-roll-vegan-pin.png__l.jpg"
+  loadingUrl="undefined" />
 
   

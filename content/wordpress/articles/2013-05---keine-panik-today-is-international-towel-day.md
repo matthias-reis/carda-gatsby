@@ -44,7 +44,13 @@ genippt. oder? Das wäre unverzeihlich!
 
 ## Keine Panik! Genießt das Wochenende!
 
-![Auch der Kater feiert heute Towel Day](http://cardamonchai.files.wordpress.com/2013/05/img_5387.jpg?w=224 "Auch der Kater feiert heute Towel Day")
+<RemoteImage
+  alt="Auch der Kater feiert heute Towel Day"
+  size="medium"
+  title="Auch der Kater feiert heute Towel Day"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5387.jpg?w=224"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5387.jpg?w=224"
+  loadingUrl="undefined" />
 
 Ich wünsche Euch einen tollen Tag! Die Sonne ist auch schon da. Anscheinend hat
 sich das Wetter pünktlich zu diesem hohen Feiertag doch noch dazu entschieden,
@@ -54,7 +60,13 @@ verlassen und endlich den Frühling über das Universum zu verstreuen!
 
 Mit intergalaktischen Grüßen
 
-![Keine Panik! Das Handtuch ist gehisst! | large](http://cardamonchai.com/wp-content/uploads/2013/05/img_5386-800x1071.jpg "Das Handtuch ist gehisst! Seht, wie schön es von der Sonne beleuchtet wird!")
+<RemoteImage
+  alt="Keine Panik! Das Handtuch ist gehisst!"
+  size="large"
+  title="Das Handtuch ist gehisst! Seht, wie schön es von der Sonne beleuchtet wird!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__l.jpg"
+  loadingUrl="undefined" />
 
 [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
 

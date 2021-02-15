@@ -43,7 +43,13 @@ Vinny Peculiar (aka Alan Wilkes) wuchs im britischen Worcestershire auf. Bevor
 der Musiker beim Kultlabel Ugly Man Records (Auch Elbow waren hier mal unter
 Vertrag) unterschrieb, machte er eine Ausbildung als Pfleger.
 
-![vinny-peculiar-while-you-still-can](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-while-you-still-can-400x400.jpeg)
+<RemoteImage
+  alt="vinny-peculiar-while-you-still-can"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-while-you-still-can.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-while-you-still-can.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Inzwischen hat Vinny bereits 12 Alben veröffentlicht und schon mit Größen wie
 Bill Drummond, Luke Haines und Paul Arthurs "Bonehead" von Oasis

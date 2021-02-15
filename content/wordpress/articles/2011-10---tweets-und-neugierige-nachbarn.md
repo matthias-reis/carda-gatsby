@@ -111,12 +111,24 @@ erreichten, die schon als verloren geglaubt war:
 
 ## The Unknown _Do you exist my pretty bird_ _Flying above the snow?_ _Are you actually flying_ _Or do I imagine it so?_ _Detail of wing and breast_ _Unquestionably there -_ _Or do I merely thing you_ _Perfect in Mid Air?_ _W. C. Williams_
 
-![ | full](http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg "Die Postkarte")
+<RemoteImage
+  alt=""
+  size="full"
+  title="Die Postkarte"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522744788.jpg"
+  loadingUrl="undefined" />
 
 Den Zettel, auf dem dieser, zugegeben etwas emotionale, Schachtelsatz entstanden
 ist, musste ich natürlich auch fotografisch festhalten:
 
-![Der Zettel | full](http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg "Der Zettel")
+<RemoteImage
+  alt="Der Zettel"
+  size="full"
+  title="Der Zettel"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/10/shot_1318522691267.jpg"
+  loadingUrl="undefined" />
 
 Und schließlich und endlich noch das Partywissen, welches ich mir, zwecks
 Aneignung vor ein paar Tagen auf dem Zettel notiert hatte:

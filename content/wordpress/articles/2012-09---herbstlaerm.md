@@ -87,7 +87,13 @@ Wetterleute führte dazu, dass ich schon den ganzen Tag frierend in der Gegend
 herumlaufe, das das Thermometer leider beim Erreichen der 6°C-Marke abrupt das
 Klettern einstellte.
 
-![IMG_0162](http://cardamonchai.com/wp-content/uploads/2012/09/img_01621-640x640.jpg)
+<RemoteImage
+  alt="IMG_0162"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_img_01621__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_img_01621__l.jpg"
+  loadingUrl="undefined" />
 
 Letzte Woche durfte ich für zwei Tage einen
 [Workshop](http://www.websiteboosting.com/) in Frankfurt besuchen. Er war sehr
@@ -100,7 +106,13 @@ Die neuen Platten sind toll. Wenn ich nur mehr Zeit hätte, sie zu hören, im
 Moment könnte ich mal wieder ganze Tage mit Musik ausfüllen. Auch einige
 Konzerte, auf die ich schon sehr gespannt bin, stehen in der nächsten Zeit an.
 
-![IMG_0177](http://cardamonchai.com/wp-content/uploads/2012/09/img_0177-640x640.jpg)
+<RemoteImage
+  alt="IMG_0177"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_img_0177__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_img_0177__l.jpg"
+  loadingUrl="undefined" />
 
 In diesem Kontext möchte ich auch sehr gerne nochmal auf
 [mein Gewinnspiel](//2012/09/06/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/)
@@ -112,7 +124,13 @@ schicken. Ein Kollege möchte seinen gerne verkaufen. Er hat ihn mir heute zum
 Testen mitgebracht, bis morgen werde ich mich entscheiden. Eigentlich gäbe es ja
 nicht mehr viel zu entscheiden, denn das Ding ist TOLL.
 
-![IMG_0169](http://cardamonchai.com/wp-content/uploads/2012/09/img_0169-640x640.jpg)
+<RemoteImage
+  alt="IMG_0169"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_img_0169__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_img_0169__l.jpg"
+  loadingUrl="undefined" />
 
 Gestern mal wieder ein Kaffeekränzchen mit den Damen nach Geschäftsschluss.
 Wunderbar erfrischend.
@@ -127,7 +145,13 @@ keinen Wecker. Und die Kater hört man morgens auch nicht mehr an der Tür
 kratzen. Kein Wunder, wenn das komplette Haus wackelt. Lärm, Gebrüll, der Geruch
 von Halböl und Teer liegen schwer in der Luft.
 
-![IMG_0180](http://cardamonchai.com/wp-content/uploads/2012/09/img_0180-640x640.jpg)
+<RemoteImage
+  alt="IMG_0180"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_img_0180__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_img_0180__l.jpg"
+  loadingUrl="undefined" />
 
 Die beste E-Mail des Tages endete mit den Worten 'Diese Mail hat keine Bedeutung
 und kann bedenkenlos gelöscht werden.'. Ich finde das zauberhaft. Das muss ich

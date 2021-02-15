@@ -55,7 +55,13 @@ Königsmoors unterstützen und dabei aktiven Klimaschutz betreiben könnt.
 Libellen, Schmetterlingen, Vögeln, Gräsern und Moosen ihren angestammten
 Lebensraum zurückzuerobern, klingt nach einer Heldentat? Das ist es auch.
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Bekassine-400x267.jpg "Bekassine im Köngismoor")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Bekassine im Köngismoor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Bekassine__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Bekassine__l.jpg"
+  loadingUrl="undefined" />
 
 Helfen könnt Ihr, indem Ihr "MoorFutures®" kauft. Eins der
 **Klimaschutz-Zertifikate** entspricht einer Tonne CO<sub>2</sub>. Sie können
@@ -88,7 +94,13 @@ Klimaschutz-Projekten wie den "MoorFutures®" einen Ausgleich schaffen.
 
 ## So viel CO<sub>2</sub> erzeugen wir
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Wollgras-400x266.jpg "Wollgras")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Wollgras"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Wollgras__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Wollgras__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe hier mal ein paar Beispiele für Euch, die mir die Ausgleichsagentur
 Schleswig-Holstein zur Verfügung gestellt hat: Durch den Flug einer Person von
@@ -112,7 +124,13 @@ arbeiten, den Treibhausgas-Ausstoß zu verringern – also zum Beispiel in
 
 ## Naturbelassene Moore speichern CO<sub>2</sub>
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Moorpegel-400x267.jpg "Der Moorpegel")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Der Moorpegel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Moorpegel__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Moorpegel__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt erstreckt sich das Königsmoor heute noch über eine Fläche von 1.200
 Hektar. Das "MoorFutures®" Gebiet nimmt eine 68 Hektar große Teilfläche des
@@ -134,7 +152,13 @@ des Projekts inzwischen um 660 Tonnen pro Jahr reduziert.
 
 ## Moore wiederbeleben
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Koenigsmoor_Winter_1-400x300.jpg "Rohrkolben im winterlichen Königsmoor")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Rohrkolben im winterlichen Königsmoor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Koenigsmoor_Winter_1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Koenigsmoor_Winter_1__l.jpg"
+  loadingUrl="undefined" />
 
 Nach 20 Jahren wird sich daraus eine Zahl von 1.037 Tonnen pro Jahr ergeben
 haben. Bis dahin sollte sich laut Experten wieder eine mit **Torfmoos**
@@ -150,7 +174,13 @@ Treibhausgas ablagert – es wird dauerhaft darin gespeichert.
 
 ## Aus trockengelegten Mooren entweichen Treibhausgase
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Koenigsmoor_1-400x300.jpg "So schön ist das Köngismoor")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="So schön ist das Köngismoor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Koenigsmoor_1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Koenigsmoor_1__l.jpg"
+  loadingUrl="undefined" />
 
 Fast ein Fünftel (!) der Treibhausgas-Emissionen, die wir Menschen verursachen,
 entweicht aus trockengelegten **Moorgebieten** . Sollte es uns gelingen, diese
@@ -169,7 +199,13 @@ erklärt das so
 
 ## Zerstörung der Natur durch Torfabbau
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Wiesenschaumkraut-400x300.jpg "Wiesenschaumkraut im Königsmoor")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Wiesenschaumkraut im Königsmoor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Wiesenschaumkraut__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Wiesenschaumkraut__l.jpg"
+  loadingUrl="undefined" />
 
 Anfang des 19. Jahrhunderts war noch rund ein Zehntel der Fläche von
 Schleswig-Holstein von Mooren bedeckt. Die wertvolle Substanz der Böden
@@ -206,7 +242,13 @@ Rückhaltung an Treibhausgasen und unser erstes Ziel erreicht."
 
 ## Der Ökologische Fußabdruck
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2019/01/Königsmoor_Winter-400x300.jpg "Winter im Königsmoor")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Winter im Königsmoor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_K%C3%B6nigsmoor_Winter__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_K%C3%B6nigsmoor_Winter__l.jpg"
+  loadingUrl="undefined" />
 
 Jeder Bürger der EU verursacht im Durchschnitt CO<sub>2</sub>-Emissionen von
 rund 11 Tonnen pro Jahr. Studien zur Folge liegt der klimaverträgliche Wert bei

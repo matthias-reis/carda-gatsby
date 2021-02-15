@@ -33,7 +33,13 @@ subTitle: Finnische Comic-Helden
   
 ---
 
-![Filofaxing mit den Mumins](http://cardamonchai.com/wp-content/uploads/2016/02/24664587156_867877258d_z-640x427.jpg "Muminspaket aus Nippon")
+<RemoteImage
+  alt="Filofaxing mit den Mumins"
+  size="medium"
+  title="Muminspaket aus Nippon"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute nennt man es Filofaxing oder Scrapbooking und es hat sich zu einem
 echten Trend etabliert. Kennt Ihr das auch? Ich habe ja mein Leben lang schon 

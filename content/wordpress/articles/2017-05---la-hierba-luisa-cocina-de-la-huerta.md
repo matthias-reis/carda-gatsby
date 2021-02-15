@@ -47,7 +47,13 @@ subTitle: Eine vegane Oase im Herzen von Las Palmas
   
 ---
 
-![La Hierba Luisa](http://cardamonchai.com/wp-content/uploads/2017/05/33941107653_3464444646_k-640x426.jpg)
+<RemoteImage
+  alt="La Hierba Luisa"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_33941107653_3464444646_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_33941107653_3464444646_k__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute möchte ich Euch das Café _La Hierba Luisa_ vorstellen. Eine gemütliche
 Oase in Gran Canarias Hauptstadt.**
@@ -59,7 +65,13 @@ mit veganen Optionen. Und wurden sofort fündig.
 
 ## La Hierba Luisa - Nichts wie hin
 
-![La Hierba Luisa](http://cardamonchai.com/wp-content/uploads/2017/05/34709979926_a2d77ae774_k-640x426.jpg)
+<RemoteImage
+  alt="La Hierba Luisa"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34709979926_a2d77ae774_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34709979926_a2d77ae774_k__l.jpg"
+  loadingUrl="undefined" />
 
 Nur 50 Meter von unserem Standort entfernt wurde das vegane Café _La Hierba
 Luisa_ angezeigt. Nichts wie hin also.
@@ -77,7 +89,13 @@ Joghurt sogar selbst hergestellt.
 
 ## Ein verdammt guter Kaffee
 
-![La Hierba Luisa](http://cardamonchai.com/wp-content/uploads/2017/05/34365409100_4277715245_k-640x426.jpg)
+<RemoteImage
+  alt="La Hierba Luisa"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34365409100_4277715245_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34365409100_4277715245_k__l.jpg"
+  loadingUrl="undefined" />
 
 Zur Feier des Tages teilten wir uns noch ein fantastisches Tiramisu. Abgerundet
 wurde das kulinarische Highlight unserer Reise von einem verdammt guten Kaffee.
@@ -92,7 +110,13 @@ Uhr, Mittwochs von 20:00 Uhr bis 22:30 Uhr sowie Donnerstags bis Samstags von
 
 ## Selbstgemachte Pasta und vegane Weine
 
-![La Hierba Luisa](http://cardamonchai.com/wp-content/uploads/2017/05/34750165095_4103dbcc62_k-640x961.jpg)
+<RemoteImage
+  alt="La Hierba Luisa"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34750165095_4103dbcc62_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34750165095_4103dbcc62_k__l.jpg"
+  loadingUrl="undefined" />
 
 Neben veganem Frühstück, Sandwiches, Tapas, Desserts und warmen Speisen wie
 hausgemachter Pasta und verschiedenen Seitan-Spezialitäten, gibt es auch eine
@@ -120,7 +144,13 @@ Ihr findet das _La Hierba Luisa_ bei
 
 [Willkommen im ParadiesMehr Infos zum Thema _Vegan reisen auf Gran Canaria_ findet Ihr in meinem großen Bericht](/2017/05/vegan-auf-gran-canaria/)
 
-![La Hierba Luisa | large](http://cardamonchai.com/wp-content/uploads/2017/05/34587993052_495603d943_k-800x431.jpg)
+<RemoteImage
+  alt="La Hierba Luisa"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34587993052_495603d943_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34587993052_495603d943_k__l.jpg"
+  loadingUrl="undefined" />
 
 ## Wegweiser Gran Canaria
 

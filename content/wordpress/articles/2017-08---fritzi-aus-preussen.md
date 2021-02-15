@@ -54,7 +54,13 @@ nicht mehr "nur" Handtaschen. Die Marke ist bekannt geworden und das Team wächs
 stetig. Ich habe Daniela Engelke interviewt. Sie ist Senior Manager bei _Fritzi
 aus Preußen_ .**
 
-![Fritzi aus Preußen](http://cardamonchai.com/wp-content/uploads/2017/08/Calida-GeccoVintage-Black-frontal-300x363.jpg "Die Calida Gecco in Vintage Black")
+<RemoteImage
+  alt="Fritzi aus Preußen"
+  size="medium"
+  title="Die Calida Gecco in Vintage Black"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Calida-GeccoVintage-Black-frontal__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Calida-GeccoVintage-Black-frontal__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Hallo Daniela, vielen Dank, dass Du Dir die Zeit für das Interview
 nimmst! Ich fühle mich sehr geehrt, dass ich die Möglichkeit habe, Euch näher
@@ -101,7 +107,13 @@ anzubieten, waren beide sofort überzeugt.
 
 ## “Der Look aus einem Guss”
 
-![Fritzi aus Preußen](http://cardamonchai.com/wp-content/uploads/2017/08/FaP_AnneMenden_sundown3_HW17-300x424.jpg "Anne Menden trägt Fritzi aus Preußen")
+<RemoteImage
+  alt="Fritzi aus Preußen"
+  size="medium"
+  title="Anne Menden trägt Fritzi aus Preußen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_sundown3_HW17__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_sundown3_HW17__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniela:** Die Taschen und auch die Mode sind alltagstauglich, aber immer mit
 dem gewissen Etwas. In Hinblick auf die Optik gibt es eine große Auswahl.
@@ -148,7 +160,13 @@ geben wird?
 
 ## Liebe zu den Produkten
 
-![Fritzi aus Preußen](http://cardamonchai.com/wp-content/uploads/2017/08/FaP_AnneMenden_bridge_HW17-300x424.jpg "Anne Menden trägt Fritzi aus Preußen")
+<RemoteImage
+  alt="Fritzi aus Preußen"
+  size="medium"
+  title="Anne Menden trägt Fritzi aus Preußen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_bridge_HW17__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_bridge_HW17__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniela:** _Fritzi aus Preußen Apparel_ steht für hohe Qualitätsstandards und
 Liebe zu unseren Produkten bis ins Detail zu mittellagigen Preisen. Wir arbeiten
@@ -186,7 +204,13 @@ immer spannend und man trifft die Kollegen aus der Branche.
 
 **Anne:** Lebst Du selbst auch vegan?
 
-![Fritzi aus Preußen](http://cardamonchai.com/wp-content/uploads/2017/08/FJ17FAP10-Sneak02-Silver-01-300x363.jpg "Glamouröse Sneakers aus dem Hause Fritzi")
+<RemoteImage
+  alt="Fritzi aus Preußen"
+  size="medium"
+  title="Glamouröse Sneakers aus dem Hause Fritzi"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FJ17FAP10-Sneak02-Silver-01__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FJ17FAP10-Sneak02-Silver-01__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniela:** Nein, ich lebe nicht vegan, achte aber sehr auf gesunde,
 ausgewogene Ernährung. Interne Healthy Food Challenges unter uns Kollegen finden

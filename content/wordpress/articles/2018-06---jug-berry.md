@@ -40,7 +40,13 @@ subTitle: Beeriger Cocktail-Genuss aus dem Becher
 Nachtisch, im Salat oder im Cocktail. Die roten Dinger machen Laune und sorgen
 für Geschmack.**
 
-![Jug Berry](http://cardamonchai.com/wp-content/uploads/2018/06/39977156640_a9b17b3d87_z-1-400x300.jpg)
+<RemoteImage
+  alt="Jug Berry"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_39977156640_a9b17b3d87_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_39977156640_a9b17b3d87_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Heute verrate ich Euch eines meiner allerliebsten Cocktail-Rezepte. Es geht in
 Richtung Limes, hat aber etwas mehr Rock ´n` Roll im Blut. Meine Damen und

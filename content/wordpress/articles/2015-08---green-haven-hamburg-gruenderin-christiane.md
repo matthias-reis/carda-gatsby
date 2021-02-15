@@ -41,7 +41,13 @@ Und nicht nur Upcycling ist ein großes Thema im Green Haven. Alles, was neu
 angeschafft werden musste, wie Bettwäsche, Handtücher, Reinigungsmittel ist bio,
 Fairtrade und aus natürlichen, veganen Materialien hergestellt.
 
-![green-haven-gruenderin-christiane-kajuete](http://cardamonchai.com/wp-content/uploads/2020/04/Kajüte-400x277.jpg)
+<RemoteImage
+  alt="green-haven-gruenderin-christiane-kajuete"
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Kajüte-400x277.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Kajüte-400x277.jpg"
+  loadingUrl="undefined" />
 
 ## Eine eigene SolaranlageDie hauseigene Solaranlage versorgt das Haus bei Sonnenschein mit Strom, wenn das Wetter schlecht ist, wird Ökostrom bezogen. Das Green Haven ist ein Bed &amp; Breakfast der besonderen Art. So werden zum Beispiel auch in regelmäßigen Abständen Veranstaltungen wie Kochkurse und Tauschpartys angeboten.
 
@@ -64,7 +70,13 @@ Würstchen und Vollkorntoast. Es ist wegen des hohen Eiweißanteils sehr sättig
 und schmeckt dank des Kala Namak Salzes sogar ein Bisschen nach Ei. Dazu ein
 Soja-Latte mit Espresso vom Hamburger Kaffee Kollektiv Aroma Zapatista.
 
-![green-haven-gruenderin-christiane-kajuete](http://cardamonchai.com/wp-content/uploads/2020/04/Blumenpalette-400x578.jpg)
+<RemoteImage
+  alt="green-haven-gruenderin-christiane-kajuete"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Blumenpalette__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Blumenpalette__l.jpg"
+  loadingUrl="undefined" />
 
 ## Veganes Full English Breakfast **Anne:** Was gehört im Green Haven zu einem Standard-Frühstück dazu?
 
@@ -109,7 +121,13 @@ der Woche unterstützt. Alles andere schaffe ich derzeit noch alleine.
 
 **Anne:** Wo bezieht Ihr Eure Lebensmittel?
 
-![Kojegreen-haven-gruenderin-christiane-kajuete-koje](http://cardamonchai.com/wp-content/uploads/2020/04/Koje-400x267.jpg)
+<RemoteImage
+  alt="Kojegreen-haven-gruenderin-christiane-kajuete-koje"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Koje__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Koje__l.jpg"
+  loadingUrl="undefined" />
 
 ## Bio, regional und fair soll es sein **Christiane:** Haltbare Lebensmittel kommen von einem Naturkosthändler aus dem Hamburger Umland. Frische Lebensmittel vom Biosupermarkt um die Ecke oder vom Markt. Die Lebensmittel sollen nach Möglichkeit regional, bio und fair gehandelt beziehungsweise hergestellt sein.
 

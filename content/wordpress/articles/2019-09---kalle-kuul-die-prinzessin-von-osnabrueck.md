@@ -60,7 +60,13 @@ Anschließend wird gemeinsam geübt, bis alles sitzt.
 
 ## Kalle Kuul haben sich gefunden
 
-![kalle-kuul](http://cardamonchai.com/wp-content/uploads/2019/09/kalle-kuul-1-400x266.jpg "Lukas von Kalle Kuul mit seiner Hündin Otti. Foto: Kalle Kuul")
+<RemoteImage
+  alt="kalle-kuul"
+  size="medium"
+  title="Lukas von Kalle Kuul mit seiner Hündin Otti. Foto: Kalle Kuul"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul-1__l.jpg"
+  loadingUrl="undefined" />
 
 Das Quintett geht ganz unterschiedlichen Berufen nach. David ist studierter
 Bild- und Toningenieur, Martin Inhaber eines nachhaltigen Modelabels, Marcel

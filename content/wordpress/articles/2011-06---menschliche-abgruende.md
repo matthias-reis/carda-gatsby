@@ -91,7 +91,13 @@ Verbrechen?
 **Link zum Thema:**
 http://www.stern.de/panorama/suche-nach-mary-janes-moerder-1699735.html<div class="mceTemp"><div class="mceTemp">
 
-![Bildquelle: M.E. pixelio.de | full](http://cardamonchai.files.wordpress.com/2011/06/neues-bild.jpg "Bildquelle: M.E. pixelio.de")
+<RemoteImage
+  alt="Bildquelle: M.E. pixelio.de"
+  size="full"
+  title="Bildquelle: M.E. pixelio.de"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/06/neues-bild.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/06/neues-bild.jpg"
+  loadingUrl="undefined" />
 
 </div></div>Merken
 

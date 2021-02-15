@@ -49,7 +49,13 @@ gefüllten Wrap.
 
 ## Banana Pancakes im Raw Food Café
 
-![Raw Food Café](http://cardamonchai.com/wp-content/uploads/2018/02/38471452810_af6d2e26c5_z-300x225.jpg)
+<RemoteImage
+  alt="Raw Food Café"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wir waren zum Frühstück dort und haben uns für Raw Banana Pancakes mit Bananen,
 Cashews, Kokos, frischen Früchten und Schokoladensauce für neun Euro enschieden.

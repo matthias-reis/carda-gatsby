@@ -144,7 +144,13 @@ To be continued...
 **Link des Tages:**
 [http://de.wiktionary.org/wiki/Klarname](http://de.wiktionary.org/wiki/Klarname)
 
-![Foto: Gerd Altmann pixelio.de | full](http://cardamonchai.files.wordpress.com/2011/08/508873_r_k_b_by_gerd-altmann_pixelio-de.jpg "Foto: Gerd Altmann pixelio.de")
+<RemoteImage
+  alt="Foto: Gerd Altmann pixelio.de"
+  size="full"
+  title="Foto: Gerd Altmann pixelio.de"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/08/508873_r_k_b_by_gerd-altmann_pixelio-de.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/08/508873_r_k_b_by_gerd-altmann_pixelio-de.jpg"
+  loadingUrl="undefined" />
 
 **Nachricht von Anonymus: Operation Facebook, Nov 5 2011**
 

@@ -41,7 +41,13 @@ Lied des Abends ausgepackt und schlug sofort wie eine Bombe ein. Spätestens
 jetzt war auch die letzte Unterhaltung im Club beendet und alle lauschten
 gebannt der Musik.
 
-![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/10/IMG_9136-640x960.jpg)
+<RemoteImage
+  alt="Pepes Penthouse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_IMG_9136__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_IMG_9136__l.jpg"
+  loadingUrl="undefined" />
 
 [](/wp-content/uploads/2009/10/IMG_9136.jpg) Im Laufe des Abends wurde noch ein
 neuer Song vorgestellt: "Du bist es mir wert", beide neuen Songs wurden vom
@@ -59,7 +65,13 @@ uns auf den nächsten Auftritt am 19. November in der legendären Mahagoni Bar!
 
 [myspace](http://www.myspace.com/pepespenthouse) Pepes Penthouse
 
-![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/10/MG_9178-800x533.jpg)
+<RemoteImage
+  alt="Pepes Penthouse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9178__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9178__l.jpg"
+  loadingUrl="undefined" />
 
 **Setlist des Abends:** 1. Eigentlich
 

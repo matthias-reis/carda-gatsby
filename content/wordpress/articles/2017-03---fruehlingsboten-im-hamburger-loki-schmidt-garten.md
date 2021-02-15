@@ -46,7 +46,13 @@ subTitle: Der Winter verabschiedet sich
   
 ---
 
-![Frühlingsboten](http://cardamonchai.com/wp-content/uploads/2017/03/33267695745_52dc39f3f7_z.jpg)
+<RemoteImage
+  alt="Frühlingsboten"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33267695745_52dc39f3f7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33267695745_52dc39f3f7_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Die ersten zarten Frühlingsboten zeigen sich. Unermüdlich drängen zarte
 Pflänzchen in Richtung Erdoberfläche. Der Sonne entgegen.**
@@ -61,7 +67,13 @@ hat, kann vielleicht ungefähr erahnen, wie sehr ich mich gerade nach der Sonne
 sehne. Unser heutiger Ausflug in den ein paar Stationen entfernten Loki Schmidt
 Garten hat mich daher sehr glücklich gemacht.
 
-![Frühlingsboten](http://cardamonchai.com/wp-content/uploads/2017/03/33111986962_297b8223c3_z-640x427.jpg "Der Reiher")
+<RemoteImage
+  alt="Frühlingsboten"
+  size="medium"
+  title="Der Reiher"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33111986962_297b8223c3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33111986962_297b8223c3_z__l.jpg"
+  loadingUrl="undefined" />
 
 Dieses Glück möchte ich gerne mit Euch teilen, daher geht heute endlich meine
 Loki Schmidt Garten Reihe hier im Blog weiter. Ich wünsche Euch viel Freude mit

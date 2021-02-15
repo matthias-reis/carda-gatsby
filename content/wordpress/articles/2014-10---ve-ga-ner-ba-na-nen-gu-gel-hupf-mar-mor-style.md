@@ -135,7 +135,13 @@ ids="9091,9096,9095,9094,9092,9099,9097,9093,9090,9098"]
 Zum Bananengugelhupf passt übrigens auch hervorragend Kakao oder heißes
 Ingwerwasser.
 
-![Veganer Bananengugelhupf-7](http://cardamonchai.com/wp-content/uploads/2014/10/veganer-bananengugelhupf-7-640x427.jpg)
+<RemoteImage
+  alt="Veganer Bananengugelhupf-7"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__l.jpg"
+  loadingUrl="undefined" />
 
 Lasst es Euch schmecken!
 

@@ -51,7 +51,13 @@ noch täglich neue [Rezepte](/category/vegan-2/rezepte/) aus, aber ab und zu,
 schleicht sich dann auch mal die Faulheit ein oder der Stress ist zu groß und
 dann greifen wir auch mal zum Laptop und suchen uns online was Leckeres aus.
 
-![Veganes Essen liefern lassen](http://cardamonchai.com/wp-content/uploads/2017/12/25094607418_03a4fb2681_z-300x375.jpg "Pho - Vegan, heiß und lecker")
+<RemoteImage
+  alt="Veganes Essen liefern lassen"
+  size="medium"
+  title="Pho - Vegan, heiß und lecker"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25094607418_03a4fb2681_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25094607418_03a4fb2681_z__l.jpg"
+  loadingUrl="undefined" />
 
 Anfangs muss man ein Bisschen suchen, aber nach und nach tun sich einem immer
 mehr Optionen auf. Als wir noch in Augsburg wohnten, waren wir mit einem
@@ -78,7 +84,13 @@ komplett selbst belegen kann. Traditionell mindestens ein rein pflanzliches
 Gericht auf der Karte haben zum Beispiel auch die meisten Vietnamesischen
 Imbisse.
 
-![Veganes Essen liefern lassen](http://cardamonchai.com/wp-content/uploads/2017/12/38769249361_5f1da205af_z-300x374.jpg "Vegane Pizza")
+<RemoteImage
+  alt="Veganes Essen liefern lassen"
+  size="medium"
+  title="Vegane Pizza"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_38769249361_5f1da205af_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_38769249361_5f1da205af_z__l.jpg"
+  loadingUrl="undefined" />
 
 Somit wären die Grundlagen schon mal sicher. Lieferdienste gibt es ja in den
 meisten Städten wie Sand am Meer. Neue Anbieter wie zum Beispiel Foodora liefern

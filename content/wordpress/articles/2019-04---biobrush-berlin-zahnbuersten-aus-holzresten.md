@@ -56,7 +56,13 @@ nette Antwort noch etwas größer.
 
 ## Biokunststoff statt Bambus
 
-![biobrush](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-biobrush-berlin-8-400x300.jpg "Biobrush Berlin im Test")
+<RemoteImage
+  alt="biobrush"
+  size="medium"
+  title="Biobrush Berlin im Test"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-8__l.jpg"
+  loadingUrl="undefined" />
 
 Die **Biobrush Berlin** Bürsten samt Verpackung werden im Gegensatz zu den
 Bambusbürsten, die ich normalerweise verwende, aus Holzresten aus nachhaltiger
@@ -70,7 +76,13 @@ dass sie zudem ziemlich robust sind.
 
 ## Die Biobrush Verpackung kann kompostiert werden
 
-![biobrush](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-biobrush-berlin-2-400x300.jpg "Keine Panik - die Verpackung kann kompostiert werden.")
+<RemoteImage
+  alt="biobrush"
+  size="medium"
+  title="Keine Panik - die Verpackung kann kompostiert werden."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-2__l.jpg"
+  loadingUrl="undefined" />
 
 Die Folienverpackung soll nach 42 Tagen im Blumentopf verrotten und ist somit
 kompostierbar. Die CO<sub>2 </sub>-Bilanz ist laut Biobrush Berlin sehr gering.
@@ -89,7 +101,13 @@ Backenzähne optimal erreicht werden können.
 
 ## Ungiftiger Kunststoff aus Holzresten
 
-![biobrush](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-biobrush-berlin-5-400x300.jpg "Der Kunststoff ist aus Holzresten.")
+<RemoteImage
+  alt="biobrush"
+  size="medium"
+  title="Der Kunststoff ist aus Holzresten."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-5__l.jpg"
+  loadingUrl="undefined" />
 
 Und wie entsteht das Plastik? Wie Holzreste sehen die fertigen Bürsten ja
 schließlich nicht aus. Auf der Homepage von Biobrush Berlin steht dazu
@@ -112,7 +130,13 @@ gängigen DIN EN 13432. Hergestellt wird in Deutschland.
 
 ## Eine gute Alternative
 
-![biobrush](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-biobrush-berlin-400x300.jpg "Biobrush Berlin - eine gute Alternative")
+<RemoteImage
+  alt="biobrush"
+  size="medium"
+  title="Biobrush Berlin - eine gute Alternative"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin__l.jpg"
+  loadingUrl="undefined" />
 
 Zu herkömmlichen Bürsten aus
 [Erdöl-Plastik](/2017/08/kenia-sagt-plastiktueten-nein-danke/) sind sie auf
@@ -129,7 +153,13 @@ verwendete Nylon wird aus Zuckerrohr hergestellt.
 
 ## Was passiert, wenn ich meine Biobrush wegwerfe?
 
-![biobrush](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-biobrush-berlin-6-400x300.jpg "Zu 94 Prozent biologisch abbaubar.")
+<RemoteImage
+  alt="biobrush"
+  size="medium"
+  title="Zu 94 Prozent biologisch abbaubar."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-6__l.jpg"
+  loadingUrl="undefined" />
 
 Wirft man seine Biobrush weg, gibt man sie derzeit am besten in den Hausmüll.
 Hier wird sie dann der thermischen Verwertung, sprich Verbrennung, zugeführt.
@@ -147,7 +177,13 @@ würden somit als Fremdkörper in der Umwelt landen.
 
 ## Die Suche nach biologisch abbaubaren Borsten geht weiter
 
-![biobrush](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-biobrush-berlin-3-400x300.jpg "Hoffentlich sind auch die Borsten bald kompostierbar.")
+<RemoteImage
+  alt="biobrush"
+  size="medium"
+  title="Hoffentlich sind auch die Borsten bald kompostierbar."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-3__l.jpg"
+  loadingUrl="undefined" />
 
 Biobrush Berlin forscht und entwickelt permanent weiter. Es wird eine
 nachhaltige Alternative zu den derzeit verwendeten Borsten zum Einsatz kommen,
@@ -162,7 +198,13 @@ einem definitiv sofort ins Auge.
 
 ## Transparenz und faire Preise
 
-![biobrush](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-biobrush-berlin-4-400x300.jpg)
+<RemoteImage
+  alt="biobrush"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-biobrush-berlin-4__l.jpg"
+  loadingUrl="undefined" />
 
 Was mir neben der wirklich guten Haptik, Optik und Alltagstauglichkeit der
 Berlin Biobrush besonders gefällt ist, dass das Startup in seiner Kommunikation

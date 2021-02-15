@@ -34,7 +34,13 @@ subTitle: Der neue vegane Bestseller
   
 ---
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-4-400x267.jpg "[ ](https://amzn.to/2MLMzp8)  Blaubeer-Blondies")
+<RemoteImage
+  alt="vegan-fruehstuecken"
+  size="medium"
+  title="[ ](https://amzn.to/2MLMzp8)  Blaubeer-Blondies"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-4__l.jpg"
+  loadingUrl="undefined" />
 
 "Das Frühstück ist die wichtigste Mahlzeit des Tages!" – das haben uns unsere
 Erziehungsberechtigten immer wieder eingebläut. Mal mehr, mal weniger haben wir
@@ -49,7 +55,13 @@ bin immer offen für neue Ideen und Rezepte.
 
 ## Die Bestsellerautoren von "Vegan kann jeder" sind wieder da!
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-2-400x600.jpg "[ ](https://amzn.to/2MLMzp8)  Amaranth-Cracker")
+<RemoteImage
+  alt="vegan-fruehstuecken"
+  size="medium"
+  title="[ ](https://amzn.to/2MLMzp8)  Amaranth-Cracker"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-2__l.jpg"
+  loadingUrl="undefined" />
 
 "Vegan frühstücken kann jeder" von Nadine Horn und Jörg Mayer, den
 Bestsellerautoren von "Vegan kann jeder" ist da genau das Richtige für mich.
@@ -74,7 +86,13 @@ zahlreiche tolle Variationsmöglichkeiten bietet.
 
 ## Und am Wochenende?
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-3-400x267.jpg "[ ](https://amzn.to/2MLMzp8)  Green Smoothie Bowl")
+<RemoteImage
+  alt="vegan-fruehstuecken"
+  size="medium"
+  title="[ ](https://amzn.to/2MLMzp8)  Green Smoothie Bowl"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-3__l.jpg"
+  loadingUrl="undefined" />
 
 Wer sich am Wochenende gerne mehr Zeit fürs Frühstück nimmt, einen tollen
 Sonntagsbrunch mit Freunden plant oder die Familie mit einem ausgedehnten
@@ -90,7 +108,13 @@ die ständig auf der Suche nach ihnen ist. Die "Vollkorn-Mischbrötchen" und die
 
 ## "Vegan frühstücken kann jeder" zeigt sich zeitgemäß
 
-![vegan-fruehstuecken](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-fruehstuecken-1-400x267.jpg "[ ](https://amzn.to/2MLMzp8)  Rohe Käsekuchentörtchen")
+<RemoteImage
+  alt="vegan-fruehstuecken"
+  size="medium"
+  title="[ ](https://amzn.to/2MLMzp8)  Rohe Käsekuchentörtchen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-fruehstuecken-1__l.jpg"
+  loadingUrl="undefined" />
 
 Eine Komponente, die mir bei Kochbüchern auch immer ziemlich wichtig ist, ist
 das Design. Das Layout von

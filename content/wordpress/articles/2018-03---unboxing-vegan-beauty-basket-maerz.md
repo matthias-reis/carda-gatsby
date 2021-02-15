@@ -66,7 +66,13 @@ Eyeliner. Soviel in Kürze.
 
 ## Ein Produkt zum Aussuchen
 
-![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/27013367728_35b8fff359_z-400x267.jpg)
+<RemoteImage
+  alt="vegan beauty basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_27013367728_35b8fff359_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_27013367728_35b8fff359_z__l.jpg"
+  loadingUrl="undefined" />
 
 Was den Vegan Beauty Basket von allen anderen Beauty Boxen unterscheidet: Eines
 der Produkte, wird einem kurz vor dem Versand verraten und man kann sich eine
@@ -79,7 +85,13 @@ schönen Farbe. Hoffentlich kann man schon bald wieder
 Der Lack stammt aus England. Er lässt sich prima auftragen und trocknet sehr
 schnell. Ich kann mir gut vorstellen, ihn auch in andere Farben auszuprobieren.
 
-![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/27013371208_1edea74e10_z-400x267.jpg)
+<RemoteImage
+  alt="vegan beauty basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_27013371208_1edea74e10_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_27013371208_1edea74e10_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Vorfreude auf den Frühling, der ja hoffentlich hinter der nächsten
 Straßenecke lauert und bald losgeht, wurde noch verstärkt, als ich das Hair Care
@@ -93,7 +105,13 @@ Alle Inhaltsstoffe sind natürlichen Ursprungs. Das gilt natürlich auch für di
 Duftmischung. Es wurden natürliche ätherische Öle verarbeitet. Für die
 notwendige Pflege sorgen Kamille-Extrakt und Olivenöl.
 
-![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/40841814562_cc245f01ba_z-400x267.jpg)
+<RemoteImage
+  alt="vegan beauty basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40841814562_cc245f01ba_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40841814562_cc245f01ba_z__l.jpg"
+  loadingUrl="undefined" />
 
 Nachdem mein [Lieblingstoner](/2018/01/santaverde/) gerade zur Neige geht und
 ich mir eigentlich gerade eine neue Flasche besorgen wollte, kam der Daily
@@ -111,7 +129,13 @@ Ein Fläschchen davon wird mit mir auf das nächste
 aufgetragen werden und da es so angenehm kühlt, ist es ein willkommener
 Frischekick für zwischendurch.
 
-![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/40883544741_c55b776bc6_z-400x267.jpg)
+<RemoteImage
+  alt="vegan beauty basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40883544741_c55b776bc6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40883544741_c55b776bc6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Eine Lobhudelei hat definitiv die Handcreme aus dem Hause Studio Botanic
 verdient. Wow, ist die klasse! Sieh pflegt die vom Winter strapazierte Haut
@@ -131,7 +155,13 @@ auch gut ohne geht. Doch nicht nur dafür möchte ich den Boho Green Eyeliner
 positiv erwähnen. Er glänzt nicht zu stark, hält irre lange, lässt sich gut
 auftragen und bröckelt nicht. Ich würde ihn auf jeden Fall wieder kaufen.
 
-![vegan beauty basket](http://cardamonchai.com/wp-content/uploads/2018/03/39989999435_6fd07b6b29_z-400x267.jpg)
+<RemoteImage
+  alt="vegan beauty basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39989999435_6fd07b6b29_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39989999435_6fd07b6b29_z__l.jpg"
+  loadingUrl="undefined" />
 
 Neben erwähnten Produkten lag noch eine Probe Hair Care Volumen Haarspülung von
 I+M Berlin nebst einem 5 Euro Rabattcode für den nächsten Einkauf bei I+M sowie

@@ -53,30 +53,60 @@ subTitle: Ich habe was gewonnen!
   
 ---
 
-![Vegane Ernährungsweise | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/08/397483_566813963392434_746328727_n-150x150.jpg "[ ](https://www.facebook.com/AnimalEqualityGermany?fref=ts)  Animal Equality")
+<RemoteImage
+  alt="Vegane Ernährungsweise"
+  size="thumbnail"
+  title="[ ](https://www.facebook.com/AnimalEqualityGermany?fref=ts)  Animal Equality"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_397483_566813963392434_746328727_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_397483_566813963392434_746328727_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor kurzem veranstalteten
 [Animal Equality](https://www.facebook.com/AnimalEqualityGermany?fref=ts) auf
 ihrer Facebook-Seite ein kleines Gewinnspiel, bei dem es darum ging, in einem
 Kommentar den wichtigsten Grund für eine vegane Ernährungsweise zu nennen.**
 
-![Das Gewinnspiel | full](http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-21-um-11-05-26.png "[ ](https://www.flickr.com/photos/99929697@N07/)  Das Gewinnspiel")
+<RemoteImage
+  alt="Das Gewinnspiel"
+  size="full"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Gewinnspiel"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-21-um-11-05-26.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-21-um-11-05-26.png"
+  loadingUrl="undefined" />
 
 Da musste ich natürlich mitmachen. Einfach nur so auf gut Glück und um meinen
 Senf dazuzugeben.
 
-![Vegane Ernährungsweise | full](http://cardamonchai.com/wp-content/uploads/2014/08/bildschirmfoto-2014-08-27-um-12-10-15.png "[ ](https://www.flickr.com/photos/99929697@N07/)  Der wichtigste Grund für meine vegane Ernährungsweise")
+<RemoteImage
+  alt="Vegane Ernährungsweise"
+  size="full"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Der wichtigste Grund für meine vegane Ernährungsweise"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-27-um-12-10-15.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-27-um-12-10-15.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Vegane Ernährungsweise - Gewinnspiel
 
 Um so überraschter war ich natürlich, als die Meldung kam, dass ich tatsächlich
 eines der Pakete gewonnen habe!
 
-![Vegane Ernährungsweise | full](http://cardamonchai.com/wp-content/uploads/2014/08/bildschirmfoto-2014-08-27-um-11-57-44.png "[ ](https://www.flickr.com/photos/99929697@N07/)  Die Gewinner stehen fest!")
+<RemoteImage
+  alt="Vegane Ernährungsweise"
+  size="full"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Die Gewinner stehen fest!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-27-um-11-57-44.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-27-um-11-57-44.png__l.jpg"
+  loadingUrl="undefined" />
 
 Juhu, was für eine Freude! Ich konnte mein Glück kaum glauben.
 
-![Vegane Ernährungsweise | full](http://cardamonchai.com/wp-content/uploads/2014/08/bildschirmfoto-2014-08-21-um-11-02-46.png "[ ](https://www.flickr.com/photos/99929697@N07/)  Hoffentlich der Beginn einer Glückssträhne")
+<RemoteImage
+  alt="Vegane Ernährungsweise"
+  size="full"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Hoffentlich der Beginn einer Glückssträhne"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-21-um-11-02-46.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bildschirmfoto-2014-08-21-um-11-02-46.png__l.jpg"
+  loadingUrl="undefined" />
 
 Heute morgen klingelte dann der Postbote und überreichte mir mein Paket, aus
 mich lauter geniale Sachen anlächelten:

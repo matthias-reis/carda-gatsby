@@ -76,7 +76,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (73:83)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (97:83)"
 thumbnailId: "7906"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13543507523_7cf0cfa41d__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13543507523_7cf0cfa41d__l.jpg
@@ -85,7 +85,7 @@ subTitle: Von Jamie Oliver, Agatha Christie und  Kunst an der Themse
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;div> (73:83)
+## unknown: Expected corresponding JSX closing tag for &lt;div> (97:83)
 
 <!--
 **In diesem Jahr hatten wir uns für den Geburtstag meiner Mutter am St.
@@ -103,7 +103,13 @@ dass wir es uns dieses Mal endlich fest vorgenommen hatten, denn es hat sich
 sehr gelohnt. Ihr könnt Euch nicht vorstellen, was für tolle Fotos man dort
 machen kann!
 
-![Mit Wolverine](http://cardamonchai.files.wordpress.com/2014/04/tussauds-261.jpg?w=199 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Wolverine")
+<RemoteImage
+  alt="Mit Wolverine"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Wolverine"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-261.jpg?w=199"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-261.jpg?w=199"
+  loadingUrl="undefined" />
 
 Die Eintrittspreise für das Wachsfigurenkabinett kommen einem im erstem Moment
 hoch vor, sind aber auf jeden Fall gerechtfertigt, denn der Besuch dort ist
@@ -126,7 +132,13 @@ Fluss ein ums andere Mal überquert hatten, um keine Perspektive zu verpassen,
 gelangten wir schließlich zur Hauptanttraktion des Tages, dem
 [Tate Modern](http://www.tate.org.uk/).
 
-![Fernweh am London Eye](http://cardamonchai.files.wordpress.com/2014/04/13543507523_7cf0cfa41d.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Fernweh am London Eye")
+<RemoteImage
+  alt="Fernweh am London Eye"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Fernweh am London Eye"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/13543507523_7cf0cfa41d.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/13543507523_7cf0cfa41d.jpg?w=300"
+  loadingUrl="undefined" />
 
 Den Abend verbrachten wir in einer Kneipe in Sheperds Bush. Es gab richtig
 leckeren Cider und weniger gutes Essen.
@@ -141,7 +153,13 @@ glühten und es Zeit für ein leckeres Mahl in
 hatte einen unfassbar guten Fruchtcocktail und den besten Veggie-Burger, den ich
 jemals zu mir genommen habe, kombiniert mit Avocado-Pommes.
 
-![Joseph Beuys im Tate Modern ](http://cardamonchai.files.wordpress.com/2014/04/13544765734_8cf7d73e17.jpg?w=199 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Joseph Beuys im Tate Modern")
+<RemoteImage
+  alt="Joseph Beuys im Tate Modern "
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Joseph Beuys im Tate Modern"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/13544765734_8cf7d73e17.jpg?w=199"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/13544765734_8cf7d73e17.jpg?w=199"
+  loadingUrl="undefined" />
 
 Das Abendprogramm hatte mein Vater organisiert. Es sollte ins Theater gehen.
 [The Mousetrap](https://www.the-mousetrap.co.uk/Online/) von Agatha Christie
@@ -157,7 +175,13 @@ China Town gehört, in der er unbedingt ihren Geburtstag begehen wollte. Sie
 vor dem Theater plötzlich die Tickets in die Hand drückte, das könnt Ihr mir
 glauben.
 
-![Ganesha im British Museum](http://cardamonchai.files.wordpress.com/2014/04/13545359663_341bdc4734.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Ganesha im British Museum")
+<RemoteImage
+  alt="Ganesha im British Museum"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Ganesha im British Museum"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/13545359663_341bdc4734.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/13545359663_341bdc4734.jpg?w=300"
+  loadingUrl="undefined" />
 
 Fazit der Reise: Unsere Erwartungen wurden voll erfüllt und sogar noch
 übertroffen. Ich habe ein paar tolle neue Stiefel, die wahrscheinlich jedes
@@ -176,27 +200,63 @@ komplette London-Galerie findet Ihr wie immer in meinem
 
 _Eure Anne_ <div style="width: 45%; float: left;">
 
-![Mit George Clooney](http://cardamonchai.files.wordpress.com/2014/04/tussauds-167.jpg?w=199 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit George Clooney")
+<RemoteImage
+  alt="Mit George Clooney"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit George Clooney"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-167.jpg?w=199"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-167.jpg?w=199"
+  loadingUrl="undefined" />
 
 </div><div style="width: 45%; float: left;">
 
-![Mit Sha Rukh Khan](http://cardamonchai.files.wordpress.com/2014/04/tussauds-171.jpg?w=199 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Sha Rukh Khan")
+<RemoteImage
+  alt="Mit Sha Rukh Khan"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Sha Rukh Khan"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-171.jpg?w=199"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-171.jpg?w=199"
+  loadingUrl="undefined" />
 
 </div><div style="clear: both;"></div><div style="width: 45%; float: left;">
 
-![Mit Oscar Wilde](http://cardamonchai.files.wordpress.com/2014/04/tussauds-216.jpg?w=199 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Oscar Wilde")
+<RemoteImage
+  alt="Mit Oscar Wilde"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Oscar Wilde"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-216.jpg?w=199"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-216.jpg?w=199"
+  loadingUrl="undefined" />
 
 </div><div style="width: 45%; float: left;">
 
-![Mit Jimi Hendrix](http://cardamonchai.files.wordpress.com/2014/04/tussauds-240.jpg?w=199 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Jimi Hendrix")
+<RemoteImage
+  alt="Mit Jimi Hendrix"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Jimi Hendrix"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-240.jpg?w=199"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-240.jpg?w=199"
+  loadingUrl="undefined" />
 
 </div><div style="clear: both;"></div><div style="width: 45%; float: left;">
 
-![Mit Muhammad Ali](http://cardamonchai.files.wordpress.com/2014/04/tussauds-201.jpg?w=199 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Muhammad Ali")
+<RemoteImage
+  alt="Mit Muhammad Ali"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Muhammad Ali"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-201.jpg?w=199"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds-201.jpg?w=199"
+  loadingUrl="undefined" />
 
 </div><div style="width: 45%; float: left;">
 
-![Mit Holly Golightly <3](http://cardamonchai.files.wordpress.com/2014/04/tussauds.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Holly Golightly <3")
+<RemoteImage
+  alt="Mit Holly Golightly &lt;3"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157643221992364/)  Mit Holly Golightly &lt;3"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/tussauds.jpg?w=300"
+  loadingUrl="undefined" />
 
 </div><div style="clear: both;"></div>
 

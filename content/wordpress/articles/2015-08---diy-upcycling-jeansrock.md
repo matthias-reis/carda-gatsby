@@ -35,7 +35,13 @@ subTitle: Kreiere Dein romantisches Einzelstück
   
 ---
 
-![Mein neuer Upcycling Jeansrock](http://cardamonchai.com/wp-content/uploads/2015/08/Upcycling-Jeansrock-12-640x427.jpg "Mein neuer Upcycling Jeansrock")
+<RemoteImage
+  alt="Mein neuer Upcycling Jeansrock"
+  size="medium"
+  title="Mein neuer Upcycling Jeansrock"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-12__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-12__l.jpg"
+  loadingUrl="undefined" />
 
 **Am Wochenende geht es für uns wieder auf's Festival, denn ich habe Karten für
 das Rock'n'Heim gewonnen. Natürlich freue ich mich wie verrückt auf das Event
@@ -61,7 +67,13 @@ Leicht bis mittel
 
 ## Nähanleitung
 
-![Sieht gut aus mit schwarzen Leggings](http://cardamonchai.com/wp-content/uploads/2015/08/Upcycling-Jeansrock-14-640x427.jpg "Sieht gut aus mit schwarzen Leggings")
+<RemoteImage
+  alt="Sieht gut aus mit schwarzen Leggings"
+  size="medium"
+  title="Sieht gut aus mit schwarzen Leggings"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-14__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-14__l.jpg"
+  loadingUrl="undefined" />
 
 Trennt die Spitze von dem Kleidungsstück, das sie bis jetzt geziert hat, ab.
 Achtet dabei darauf, dass die Naht, mit der sie an dem Teil befestigt ist, nicht

@@ -32,7 +32,13 @@ subTitle: Ein Lagerhaus zum Anfassen
   
 ---
 
-![Speicherstadtmuseum](http://cardamonchai.com/wp-content/uploads/2016/01/24494461322_6ea951b9d2_z-640x480.jpg)
+<RemoteImage
+  alt="Speicherstadtmuseum"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24494461322_6ea951b9d2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24494461322_6ea951b9d2_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Klein aber fein ist das Speicherstadtmuseum, das mitten zwischen Kaispeichern,
 Restaurants und weiteren Museen eingebettet am Hamburger Sandtorkai 36 zu finden

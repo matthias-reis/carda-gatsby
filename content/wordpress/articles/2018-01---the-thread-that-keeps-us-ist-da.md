@@ -54,7 +54,13 @@ ließen die Herzen der Fans höher schlagen und machten Hoffnung auf ein weitere
 sensationelles Album der
 [Tucson Dessert Rocker](/2009/07/calexico-live-muffathalle-munchen/). **
 
-![The Thread That Keeps Us](http://cardamonchai.com/wp-content/uploads/2018/01/The-Thread-300x300.jpg)
+<RemoteImage
+  alt="The Thread That Keeps Us"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_The-Thread__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_The-Thread__l.jpg"
+  loadingUrl="undefined" />
 
 Doch was heute aus der Zellophan-Hülle hüpfte, stellte alle Wünsche in den
 Schatten. Erst ein Rascheln, dann ein Seufzen. Die Platte wird aus der Hülle
@@ -80,7 +86,13 @@ The World With You". Ein Zitat aus meiner
 
 ## "Voices In The Field" - Das Album nimmt Fahrt auf
 
-![Calexico](http://cardamonchai.com/wp-content/uploads/2015/08/19944984023_35d6de4f85_z-640x480.jpg)
+<RemoteImage
+  alt="Calexico"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_19944984023_35d6de4f85_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_19944984023_35d6de4f85_z__l.jpg"
+  loadingUrl="undefined" />
 
 Weiter geht es mit "Voices In The Field". Für mich klingt das Stück noch etwas
 knackiger, als "End Of The World With You". Mit dem zweiten Song beginnt das
@@ -117,7 +129,13 @@ und tanzen mit. Lasst uns in einer anderen Zeit wieder zurückkehren!
 
 ## Oder sind diese Zeiten gar nicht vergangen?
 
-![Calexico](http://cardamonchai.com/wp-content/uploads/2015/08/20539667646_20c509de4d_z-640x480.jpg)
+<RemoteImage
+  alt="Calexico"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn man die ersten Töne von "Unconditional Waltz" auf sich wirken lässt, fühlt
 man sich an Westerfilme längst vergangener Zeiten erinnert. Oder sind diese

@@ -33,7 +33,13 @@ subTitle: Planten un Blomen im Winterlicht
   
 ---
 
-![Winter bei Planten un Blomen](http://cardamonchai.com/wp-content/uploads/2016/01/23568568724_f673694ce4_z-640x427.jpg)
+<RemoteImage
+  alt="Winter bei Planten un Blomen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23568568724_f673694ce4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23568568724_f673694ce4_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Am 24. Dezember machten wir einen kleinen Spaziergang durch
 [Planten un Blomen](/2015/06/planten-un-blomen/). **

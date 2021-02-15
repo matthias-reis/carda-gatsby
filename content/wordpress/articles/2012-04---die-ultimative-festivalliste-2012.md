@@ -132,7 +132,13 @@ dem Schlaf gerissen wurden.
 Natürlich würde mich jetzt noch interessieren, auf welchen Festivals Ihr dieses
 Jahr so unterwegs sein werdet! _ \_\_\_\_ _
 
-![Foto: cardamonchai Southside-Festival 2008 | full](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg "[ ](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg)  Foto: cardamonchai Southside-Festival 2008")
+<RemoteImage
+  alt="Foto: cardamonchai Southside-Festival 2008"
+  size="full"
+  title="[ ](http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg)  Foto: cardamonchai Southside-Festival 2008"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/04/p6210084.jpg"
+  loadingUrl="undefined" />
 
 Hier noch ein interessanter Link, es geht um verschiedene "Festivaltypen":
 

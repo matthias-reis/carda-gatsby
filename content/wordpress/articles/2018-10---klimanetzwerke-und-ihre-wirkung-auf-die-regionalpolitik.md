@@ -123,6 +123,12 @@ Pressemitteilung: Henner Busch,
 [Universität Lund](https://www.lunduniversity.lu.se/), Department of Human
 Geography
 
-![Klimanetzwerke | full](http://cardamonchai.com/wp-content/uploads/2018/10/Lund.png)
+<RemoteImage
+  alt="Klimanetzwerke"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_Lund.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_Lund.png__l.jpg"
+  loadingUrl="undefined" />
 
   

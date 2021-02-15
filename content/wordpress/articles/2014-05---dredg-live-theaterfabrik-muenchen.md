@@ -37,7 +37,13 @@ subTitle: Fast ein bisschen Nostalgie
   
 ---
 
-![Das Ticket](http://cardamonchai.files.wordpress.com/2014/05/dredg-1146.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/)  Das Ticket")
+<RemoteImage
+  alt="Das Ticket"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/)  Das Ticket"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1146.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1146.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Am Dienstag wurden wir endlich für unsere Geduld belohnt. Dredg gaben sich in
 München die Ehre und da durften wir natürlich nicht durch Abwesenheit
@@ -58,7 +64,13 @@ Lieblingsstücke, wie _Spitshine_ und _Jamais Vu_ gespielt wurden.
 
 ## Dredg auf Tour
 
-![Catch Without Arms](http://cardamonchai.files.wordpress.com/2014/05/dredg-1102.jpg?w=225 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/)  Dredg")
+<RemoteImage
+  alt="Catch Without Arms"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/)  Dredg"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1102.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1102.jpg?w=225"
+  loadingUrl="undefined" />
 
 Dredg befinden sich derzeit auf einer sehr interessanten Tour, die Band spielt
 von Stadt zu Stadt immer abwechselnd das _Catch Without Arms_ (2005) und das _El
@@ -70,7 +82,13 @@ Seiten auf _Chuckles &amp; Mr. Squeezy_ einprasselten für Mutmaßungen und
 Vermutungen jeder Art geradezu wie gemacht. Aber wie schon gesagt: Ich werde die
 Finger davon lassen, mich an dieser Stelle zu weit aus dem Fenster zu lehnen.
 
-![The Intersphere](http://cardamonchai.files.wordpress.com/2014/05/dredg-1071.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/)  The Intersphere")
+<RemoteImage
+  alt="The Intersphere"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644064411807/with/13902413749/)  The Intersphere"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1071.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/dredg-1071.jpg?w=300"
+  loadingUrl="undefined" />
 
 Als Vorband wärmten mal wieder
 [_The Intersphere_](http://www.theintersphere.com) aus Mannheim die Bühne an.

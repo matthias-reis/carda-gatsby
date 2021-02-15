@@ -51,7 +51,13 @@ uneingeschränkte Verzehrempfehlungen für verschiedene Fischarten gegeben.
 
 ## Fischratgeber teilt Fisch in Kategorien ein
 
-![Fischratgeber](http://cardamonchai.com/wp-content/uploads/2020/04/sri-lanka_16076408329_o-400x267.jpg "Fischmarkt in Sri Lanka")
+<RemoteImage
+  alt="Fischratgeber"
+  size="medium"
+  title="Fischmarkt in Sri Lanka"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_sri-lanka_16076408329_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_sri-lanka_16076408329_o__l.jpg"
+  loadingUrl="undefined" />
 
 Die Liste ist inzwischen eingeteilt in "Wenn Fisch, dann diesen" und "Finger
 weg, nicht nachhaltig". Noch vor ein paar Jahren waren es die Kategorien "Noch
@@ -94,7 +100,13 @@ Fische auf der roten Liste.
 
 ## Was bedeutet nachhaltig?
 
-![Fischratgeber](http://cardamonchai.com/wp-content/uploads/2020/04/botanischer-garten-augsburg_16652571941_o-400x400.jpg "Fisch im Aquarium")
+<RemoteImage
+  alt="Fischratgeber"
+  size="medium"
+  title="Fisch im Aquarium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_botanischer-garten-augsburg_16652571941_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_botanischer-garten-augsburg_16652571941_o__l.jpg"
+  loadingUrl="undefined" />
 
 In Zusammenarbeit mit Wissenschaftler⋆innen hat Greenpeace eine Methode
 entwickelt, bei der unter bestimmten Kriterien Wildfischerei und Fischzucht in
@@ -144,7 +156,13 @@ WWF sogar Fischrezepte zu finden sind.
 
 ## Zucht ist nicht die Lösung
 
-![Fischratgeber](http://cardamonchai.com/wp-content/uploads/2020/04/sealife-munchen-aquarium-2014-07-05-1728jpg_14605512845_o-400x267.jpg "Fisch im Aquarium")
+<RemoteImage
+  alt="Fischratgeber"
+  size="medium"
+  title="Fisch im Aquarium"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-2014-07-05-1728jpg_14605512845_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-2014-07-05-1728jpg_14605512845_o__l.jpg"
+  loadingUrl="undefined" />
 
 Was die Zucht bringt, kann man am Beispiel Shrimpszucht sehr plastisch belegen.
 Ganze Landstriche sind durch sogenannte Shrimpsfarmen unbewohnbar geworden. Den
@@ -187,7 +205,13 @@ Sehvermögen. Besonders für Schwangere, Stillende und Kinder ist eine gute
 Versorgung mit EPA und DHA daher sehr wichtig. Die Fischereibiologin Dr. Rini
 Kulke rät jedoch zu veganen Alternativen.
 
-![Fischratgeber](http://cardamonchai.com/wp-content/uploads/2020/04/2018-11-00-aegypten-unterwasserwelt-106-400x300.jpg "Barsche im Roten Meer")
+<RemoteImage
+  alt="Fischratgeber"
+  size="medium"
+  title="Barsche im Roten Meer"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2018-11-00-aegypten-unterwasserwelt-106__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2018-11-00-aegypten-unterwasserwelt-106__l.jpg"
+  loadingUrl="undefined" />
 
 > "Im Fisch stecken zahlreiche Schadstoffe. Sie sind deshalb so gefährlich, weil
 > sie nicht oder nur sehr langsam abgebaut werden können. Sie reichern sich im
@@ -214,7 +238,13 @@ Ich für meinen Teil habe mich für vegan entschieden. Wer immer noch Zweifel ha
 dem rate ich dazu, ganz schnell den Krimi "Rotes Gold" zu lesen. Er spielt im
 Milieu der Fischhändler, ist sehr gut recherchiert und öffnet einem die Augen.
 
-![Fischratgeber](http://cardamonchai.com/wp-content/uploads/2020/04/fischratgeber-roth-cartoons-400x313.jpg "Bild: Roth Cartoons")
+<RemoteImage
+  alt="Fischratgeber"
+  size="medium"
+  title="Bild: Roth Cartoons"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_fischratgeber-roth-cartoons__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_fischratgeber-roth-cartoons__l.jpg"
+  loadingUrl="undefined" />
 
 Der Roman von Tom Hillenbrand ist nicht nur die Geschichte eines Luxemburger
 Kochs mit einer Ader für Detektivarbeit, er zeigt auch die dunkle Seite des

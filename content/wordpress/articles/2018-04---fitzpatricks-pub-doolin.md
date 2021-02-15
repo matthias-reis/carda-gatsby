@@ -47,7 +47,13 @@ gegen Abend der Hunger. Und was soll man sagen? In dem kleinen Örtchen am Ende
 der Welt fanden wir ein Pub, das wir am liebsten mit nach Hause genommen
 hätten.**
 
-![Fitzpatrick's Pub Doolin](http://cardamonchai.com/wp-content/uploads/2018/02/26373194158_ab65204817_z-300x400.jpg)
+<RemoteImage
+  alt="Fitzpatrick's Pub Doolin"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26373194158_ab65204817_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26373194158_ab65204817_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ein paar Minuten Fußweg von unserem Campingplatz entfernt, entdeckten
 wir Fitzpatrick's Pub. Kaum dort, wurden wir sofort freundlich begrüßt. Zuerst

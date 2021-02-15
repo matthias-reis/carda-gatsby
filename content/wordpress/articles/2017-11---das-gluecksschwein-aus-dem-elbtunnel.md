@@ -47,7 +47,13 @@ subTitle: Viktorias Weg auf den Erdlingshof
 Straße. Heute möchte ich Euch erzählen, wie sie ihren Weg vom Zuchtbetrieb in
 Dänmark, in dem sie geboren wurde, auf den Erdlingshof fand.**
 
-![Elbtunnel](http://cardamonchai.com/wp-content/uploads/2017/11/24727066438_4047f74be7_z-1-300x169.jpg)
+<RemoteImage
+  alt="Elbtunnel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_24727066438_4047f74be7_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_24727066438_4047f74be7_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Die ersten zwölf Wochen ihres Lebens verbrachte Viktoria
 [getrennt von ihrer Mutter](/2014/09/pflanzenmilch-wieso-denn-blos/) ohne
@@ -63,7 +69,13 @@ Tunnels, wo sie von der Polizei in Empfang genommen wurde.
 
 ## Viktoria schaffte es durch den Elbtunnel
 
-![Elbtunnel](http://cardamonchai.com/wp-content/uploads/2017/11/37881986324_e4fc1f3cc0_z-1-300x225.jpg)
+<RemoteImage
+  alt="Elbtunnel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_37881986324_e4fc1f3cc0_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_37881986324_e4fc1f3cc0_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Die Beamten brachten sie in das Tierheim in der Hamburger Süderstraße, wo ihre
 Wunden versorgt wurden. Weil ein Tierheim kein Ort für ein Schwein ist, zog sie

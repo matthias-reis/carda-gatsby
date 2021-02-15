@@ -66,7 +66,13 @@ subTitle: Ein ganz normaler Mittwoch
   
 ---
 
-![Neuer Füllfederhalter Anne Reko 8/2012](http://cardamonchai.com/wp-content/uploads/2012/08/img_20120801_094736-640x640.jpg "Neuer Füllfederhalter Anne Reko 8/2012")
+<RemoteImage
+  alt="Neuer Füllfederhalter Anne Reko 8/2012"
+  size="medium"
+  title="Neuer Füllfederhalter Anne Reko 8/2012"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120801_094736__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute ist also der 1. August. Noch zehn Monate, dann ist wieder Sommer. Der
 Tag hat heute endlich mal wieder mit einem Milchkaffee angefangen. Da habe ich

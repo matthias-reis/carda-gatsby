@@ -32,7 +32,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (77:12)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (89:12)"
 thumbnailId: "24293"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__l.jpg
@@ -41,7 +41,7 @@ subTitle: Neu ist gut
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (77:12)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (89:12)
 
 <!--
 **Progressivität ist ein Gewinn für uns alle. Würde sich die Welt nicht
@@ -58,7 +58,13 @@ dass wir dazu tendieren, uns an der Vergangenheit festzuhalten.
 
 ## Früher war nicht alles besser
 
-![veraenderungen](http://cardamonchai.com/wp-content/uploads/2019/06/veraenderungen-2-400x602.jpg "Modernes zulassen.")
+<RemoteImage
+  alt="veraenderungen"
+  size="medium"
+  title="Modernes zulassen."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-2__l.jpg"
+  loadingUrl="undefined" />
 
 Ich selbst nehme mich dabei nicht aus. Ganz im Gegenteil. Wenn es um Partys in
 den 90ern und Anfang der 2000er, Mode und die Überfüllung diverser touristischer
@@ -90,7 +96,13 @@ Finde ich. Oder, was meint Ihr?
 
 ## Veränderungen können uns das Leben retten
 
-![veraenderungen](http://cardamonchai.com/wp-content/uploads/2019/06/veraenderungen-1-400x266.jpg "Neues ist nicht gleich schlecht.")
+<RemoteImage
+  alt="veraenderungen"
+  size="medium"
+  title="Neues ist nicht gleich schlecht."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-1__l.jpg"
+  loadingUrl="undefined" />
 
 Es gibt durchaus ein paar Dinge, bei denen wir uns dringend beeilen sollten, von
 unserem hohen Ross runterzukommen. Klimaschutz zum Beispiel. Youtuber Rezo
@@ -142,7 +154,13 @@ aufräumen. Nein Leute, so nicht! Veränderung ist wichtig. Lebenswichtig sogar.
 
 ## Wir sollten uns mit Neuerungen auseinandersetzen
 
-![veraenderungen](http://cardamonchai.com/wp-content/uploads/2019/06/veraenderungen-400x603.jpg "Eigentlich ganz gut, dass Computer weiterentwickelt wurden, oder?")
+<RemoteImage
+  alt="veraenderungen"
+  size="medium"
+  title="Eigentlich ganz gut, dass Computer weiterentwickelt wurden, oder?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen__l.jpg"
+  loadingUrl="undefined" />
 
 Was hier als drastisches Beispiel genannt wird, gilt nicht nur für
 Politiker\*innen - wenn uns etwas nicht gefällt, sollten wir uns besser
@@ -187,7 +205,13 @@ Damit ist doch eigentlich alles gesagt, oder?
 
 ## Musik entwickelt sich fortwährend weiter
 
-![veraenderungen](http://cardamonchai.com/wp-content/uploads/2019/06/veraenderungen-3-400x304.jpg "Forschung und Fortschritt bringen uns weiter.")
+<RemoteImage
+  alt="veraenderungen"
+  size="medium"
+  title="Forschung und Fortschritt bringen uns weiter."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-3__l.jpg"
+  loadingUrl="undefined" />
 
 Musik befindet sich permanent im Fluss, sie verändert sich ständig weiter. Es
 ist ganz natürlich, dass da auch mal was dabei sein muss, das einem persönlich

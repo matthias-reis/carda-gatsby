@@ -29,7 +29,8 @@ date: 2019-02-08T14:03:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (56:66)"
 thumbnailId: "23419"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew__l.jpg
@@ -38,6 +39,9 @@ subTitle: '"Wir legen Wert auf traditionelles Handwerk"'
   
 ---
 
+## unknown: Unexpected token (56:66)
+
+<!--
 _Werbung\*_
 
 **Heute möchte ich Euch veganen die Käse-, Joghurt- und Buttermilch-Alternativen
@@ -70,7 +74,13 @@ für einen neuen Namen entschied: "Happy Cashew" war geboren.
 
 ## Gesunde Produkte
 
-![happy-cashew](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-08-happy-cashew-4-400x286.jpg "So sehen die Joghurt-Alternativen aus")
+<RemoteImage
+  alt="happy-cashew"
+  size="medium"
+  title="So sehen die Joghurt-Alternativen aus"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-4__l.jpg"
+  loadingUrl="undefined" />
 
 In der "Käsealternativerei" (ich glaube, "vegane Käserei" darf man nicht mehr
 sagen, danke lieber Gesetzgeber) werden ausschließlich Rohstoffe in Bio-Qualität
@@ -92,7 +102,11 @@ hat:
 
 ## Im März werden die Cashews ausgesucht
 
-![happy-cashew](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-08-happy-cashew-5-400x300.jpg '"Happy White - der Gereifte"')
+<RemoteImage alt="happy-cashew" size="medium" title=""Happy White - der
+Gereifte""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-5__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-5__l.jpg"
+loadingUrl="undefined" />
 
 Auch beim Einkauf der Zutaten wird Wert auf Qualität gelegt. Jedes Jahr im März
 werden die Cashews für die nächsten 365 Tage ausgesucht. Gearbeitet wird mit
@@ -146,7 +160,11 @@ dem herzhaften Seelenfutter? Machen wir es wie beim Frühstück: Erst das Süße
 
 ## Frische Buttermilch-Alternativen
 
-![happy-cashew](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-08-happy-cashew-7-400x300.jpg 'Die Buttermilch-Alternativen von "Happy Cashew"')
+<RemoteImage alt="happy-cashew" size="medium" title="Die
+Buttermilch-Alternativen von "Happy Cashew""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-7__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-7__l.jpg"
+loadingUrl="undefined" />
 
 Was soll ich sagen: Matze und ich waren beide keine **Buttermilch** -Fans, bevor
 wir uns auf vegan umgestellt haben. Inzwischen ist daraus schon fast eine
@@ -189,7 +207,10 @@ Cocktail-Sause!
 
 ## Cashewsan rockt mein Pasta!
 
-![happy-cashew](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-08-happy-cashew-6-400x300.jpg 'Happy mit "Cashewsan"')
+<RemoteImage alt="happy-cashew" size="medium" title="Happy mit "Cashewsan""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-6__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-6__l.jpg"
+loadingUrl="undefined" />
 
 Wisst Ihr, was mich happy macht? Ein guter Teller leckere Pasta. Gerne mit ein
 paar geriebenen Cashew-Kernen und einer Prise Hefeflocken obendrauf. "Cashewsan"
@@ -208,5 +229,7 @@ _\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
 Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
 meiner [Transparenz-Seite](/werbung/). _
+
+-->
 
   

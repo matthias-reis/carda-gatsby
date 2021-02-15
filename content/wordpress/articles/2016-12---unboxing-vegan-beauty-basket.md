@@ -41,7 +41,13 @@ subTitle: Die Weihnachtsedition
 
 _Werbung\*_
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/12/31409457770_7b64f61164_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31409457770_7b64f61164_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31409457770_7b64f61164_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Als mir die liebe Ina von
 [Vegan Beauty Basket](/2016/09/vegan-beauty-basket-im-test/) von ihrer
@@ -68,7 +74,13 @@ spannend, oder?
 
 ## HURRAW! - Lippenpflege für jeden Geschmack
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/12/31666002111_b6757f04a9_z.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31666002111_b6757f04a9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31666002111_b6757f04a9_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bis vor Kurzem hatte ich auch schon eine Lippenpflege von HURRAW! im Gebrauch,
 die Sorte war speziell auf meinen Ayurveda-Typen "Vata" abgestimmt. Wenn der
@@ -86,7 +98,13 @@ kühlt leicht und dann ist da noch etwas: Dieser traumhafte Duft! Ich bin ein
 großer Fan von Produkten mit Granatapfel, die Body Creme von Bioturm hat für
 mich bis jetzt den angenehmsten, natürlichsten und leckersten Granatapfelduft.
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/12/31665664111_770944f76e_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31665664111_770944f76e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31665664111_770944f76e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ein kleines schwarzes Döschen mit einer liebevollen Aufschrift darauf fällt mir
 als nächstes in die Hände. "Kiss The Moon", was für ein schöner Name! Das
@@ -98,7 +116,13 @@ gut ist. Die Beschreibung lautet:
 
 ## Endlich mal wieder durchschlafen
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/12/31782068175_a23f47df9e_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31782068175_a23f47df9e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31782068175_a23f47df9e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der britische Hersteller rät dazu, den Balsam vor dem Einschlafen auf die
 Handgelenke und auf die Schläfen aufzutragen. Das soll dann für ein ruhigeres
@@ -112,7 +136,13 @@ genossen habe, schlafe ich ein und die erste Nacht seit drei Wochen sogar durc
 Von mir bekommt Ihr auch hier eine Kaufempfehlung. Ich finde der Balsam in der
 hübschen Verpackung eignet sich auch prima als Geschenk für liebe Freunde.
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/12/31782069325_1d70a60e38_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31782069325_1d70a60e38_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31782069325_1d70a60e38_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ein Bisschen gewöhnungsbedürftig finde ich zunächst die Gesichtscreme "Golden
 Glow" aus dem Hause Nourish. "Glitzer im Gesicht, wie so ein Teeny-Vampir?",
@@ -124,7 +154,13 @@ aufgepeppelt und frischer. Ist gekauft!
 
 ## Der Vegan Beauty Basket duftet herrlich
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/12/31665662051_f5924a25b3_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31665662051_f5924a25b3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31665662051_f5924a25b3_z__l.jpg"
+  loadingUrl="undefined" />
 
 Jetzt kann ich es nicht mehr abwarten, endlich die wunderhübsche Papiertüte, die
 so aussieht, als wäre sie für gebrannte Mandeln gemacht, zu öffnen. Als ich sie
@@ -141,7 +177,13 @@ Kokosöl und Sheabutter. In der Produktkarte ist noch ein Gutscheincode für den
 Seifendealer-Onlineshop abgedruckt, aus dem die Pralinen stammen. Ich denke,
 dass ich davon auf jeden Fall Gebrauch machen werde.
 
-![anneveganbeautybasketweihnachten2016](http://cardamonchai.com/wp-content/uploads/2016/12/31744882786_98fce00583_z-640x427.jpg)
+<RemoteImage
+  alt="anneveganbeautybasketweihnachten2016"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31744882786_98fce00583_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31744882786_98fce00583_z__l.jpg"
+  loadingUrl="undefined" />
 
 Last but not least finde ich im Päckchen noch ein zauberhaft verpacktes Reiseset
 von SHANTI. Dazu gehören ein Gesichtsöl aus Traubenkern,- Aprikosenkern-,

@@ -51,7 +51,13 @@ Katzen und Hunde. Auch Pferde werden von ihnen umsorgt.
 
 ## Pferde wurden vor ihren Augen ausgesetzt
 
-![Herrenlose Pferde](http://cardamonchai.com/wp-content/uploads/2017/11/Sheila-wird-Ende-des-Jahres-39-1-300x225.jpg "Sheila wird Ende des Jahres 39")
+<RemoteImage
+  alt="Herrenlose Pferde"
+  size="medium"
+  title="Sheila wird Ende des Jahres 39"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Sheila-wird-Ende-des-Jahres-39-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Sheila-wird-Ende-des-Jahres-39-1__l.jpg"
+  loadingUrl="undefined" />
 
 Nachdem die beiden Tierethik-Aktivistinnnen immer wieder mitbekommen hatten, wie
 in Irland Pferde, Mulis, Pony und Esel sogar direkt vor ihren Augen ausgesetzt
@@ -65,7 +71,13 @@ sich nicht einfach von Moos und Kletten ernähren können.
 
 ## Herrenlose Pferde brauchen Eure Hilfe
 
-![Herrenlose Pferde](http://cardamonchai.com/wp-content/uploads/2017/11/image61-300x225.jpg "So sieht es aus, wenn einem in Irland herrenlose Pferde begegnen")
+<RemoteImage
+  alt="Herrenlose Pferde"
+  size="medium"
+  title="So sieht es aus, wenn einem in Irland herrenlose Pferde begegnen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_image61__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_image61__l.jpg"
+  loadingUrl="undefined" />
 
 Oft sind sie gesundheitlich bereits stark angeschlagen, wenn sie ihrem Schicksal
 überlassen werden und verhungern kläglich. Nicht nur die Tierarztkosten für ein
@@ -83,7 +95,13 @@ oft noch kilometerweit, bis sie merken, was mit ihnen passiert. Zitat Kara:
 
 ## Puss In Boots kümmert sich um die Pferde
 
-![Herrenlose Pferde](http://cardamonchai.com/wp-content/uploads/2017/11/Eseldame-Molly-1-300x225.jpg "Eseldame Molly")
+<RemoteImage
+  alt="Herrenlose Pferde"
+  size="medium"
+  title="Eseldame Molly"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Eseldame-Molly-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Eseldame-Molly-1__l.jpg"
+  loadingUrl="undefined" />
 
 Auch auf dem _Puss In Boots_ Hof kommen immer wieder Pferde an. Sie versuchen
 sich den in der Gegend lebendenen Pferdegruppen anzuschließen. Wobei es auch

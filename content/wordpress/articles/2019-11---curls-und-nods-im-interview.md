@@ -67,7 +67,13 @@ Tour. Zuletzt sorgten sie auf
 für Furore. Ich habe mich mit ihnen über ihre Musik, ihre Pläne und ihre Heimat
 unterhalten.
 
-![Curls & Nods](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-4-1-400x300.jpg)
+<RemoteImage
+  alt="Curls &amp; Nods"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-4-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-4-1__l.jpg"
+  loadingUrl="undefined" />
 
 "Lass nicken" lautet das Motto der beiden Exzentriker - das passt zum
 instrumentalen Hip-Hop mit jazzy Vibes auf crunchy Drums, den Curls &amp; Nods
@@ -96,7 +102,13 @@ ausgedient hatte. Ich habe nach etwas gesucht, das meine Wurzeln am Klavier
 transportiert und dabei trotzdem möglichst Genre-frei bleibt. Am Ende hat
 derkalavier dann zu mir gefunden - ein Shoutout an Flo an dieser Stelle.
 
-![Curls & Nods](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-3-1-400x300.jpg)
+<RemoteImage
+  alt="Curls &amp; Nods"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-3-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-3-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Baronski:** Hi Anne, ein Kumpel hat mir während meiner Jugend den Spitznamen
 "Aaronski" verpasst. Eigentlich heiße ich Aaron und hatte mich früher mal
@@ -124,7 +136,13 @@ Tropfsteinhöhlen bis hin zu verrauchten Hip-Hop Clubs haben wir allerdings auf
 unserem bisherigen gemeinsamen Weg schon einige "Exotencredits" gesammelt. Das
 ist auch für uns immer wieder aufs Neue ein Erlebnis.
 
-![Curls & Nods](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-1-400x300.png)
+<RemoteImage
+  alt="Curls &amp; Nods"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Welche Band hat Euch persönlich auf dem Golden Silence Festival am
 besten gefallen?
@@ -170,7 +188,13 @@ eingespielt.  Die Spielzeit der Platte ist im Grunde auch die Zeit, die wir auf
 dem Dach verbracht haben. Es war eine ziemlich spontane Idee, da hochzukraxeln.
 1.578 Stunden Nacharbeit später lag dann die fertige Scheibe vor uns.
 
-![Curls & Nods](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-2-1-400x300.jpg)
+<RemoteImage
+  alt="Curls &amp; Nods"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-2-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-2-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie lange macht Ihr schon zusammen Musik?
 
@@ -193,7 +217,13 @@ so ein besonderer Ort sein.
 Im Rahmen unserer Hip-Hop Band spielen wir aber alle paar Wochen zusammen mit
 einem Bassisten und einem Gitarristen auf den "Hello My Name is" Events.
 
-![Curls & Nods](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-5-400x300.jpg)
+<RemoteImage
+  alt="Curls &amp; Nods"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-5__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Die Platte ist da und Ihr spielt regelmäßig Konzerte. Alles scheint
 also ziemlich gut zu laufen. Was ist als Nächstes geplant? Fasst Ihr schon die

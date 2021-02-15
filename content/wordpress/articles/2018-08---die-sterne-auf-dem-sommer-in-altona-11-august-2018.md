@@ -52,7 +52,13 @@ mal mehr als eine Stunde zu früh da. Was sich auszahlte. Im Biergarten vor dem
 für den Sommer in Altona aufgebauten Zirkuszelt konnten wir Sänger Frank Spilker
 beim Smalltalk mit Kollegen sehen.
 
-![Sommer in Altona](http://cardamonchai.com/wp-content/uploads/2018/08/30115547608_2941d0316b_z-400x500.jpg "Frank Spilker")
+<RemoteImage
+  alt="Sommer in Altona"
+  size="medium"
+  title="Frank Spilker"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30115547608_2941d0316b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30115547608_2941d0316b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch den Soundcheck konnten wir durch die Zeltwand hören. So konnte ich schon
 mitsingen, bevor das Konzert überhaupt losging. Als wir dann auch noch einen
@@ -91,7 +97,13 @@ Stück, auf das alle gehofft hatten.
 
 ## Geniale Stimmung
 
-![Sommer in Altona](http://cardamonchai.com/wp-content/uploads/2018/08/43936324242_a3a89ae139_z-400x500.jpg "Thomas Wenzel")
+<RemoteImage
+  alt="Sommer in Altona"
+  size="medium"
+  title="Thomas Wenzel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43936324242_a3a89ae139_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43936324242_a3a89ae139_z__l.jpg"
+  loadingUrl="undefined" />
 
 Stimmungsmäßig war das Konzert eines der besten, die ich je besucht habe.
 Eingefleischte Fans, die zusammen feierten und sich freuten, dass die anderen

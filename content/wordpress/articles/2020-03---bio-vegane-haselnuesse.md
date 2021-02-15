@@ -47,7 +47,13 @@ behandelt.
 
 ## Faire Bedingungen und natürlicher Anbau
 
-![haselnuesse-hof-windkind](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-04-hof-windkind-haselnuesse-3-400x300.jpg)
+<RemoteImage
+  alt="haselnuesse-hof-windkind"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse-3__l.jpg"
+  loadingUrl="undefined" />
 
 Silvia und David wollen dem etwas entgegensetzen. Sie möchten gute Produkte
 liefern, die zu 100 Prozent fair hergestellt werden. Dabei ist es dem Paar
@@ -88,7 +94,13 @@ denn, Ihr möchtet Eure Patenschaft verlängern.
 
 ## So könnt Ihr Baumpat⋆innen werden
 
-![haselnuesse-hof-windkind](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-04-hof-windkind-haselnuesse-5-400x300.jpg)
+<RemoteImage
+  alt="haselnuesse-hof-windkind"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse-5__l.jpg"
+  loadingUrl="undefined" />
 
 Jetzt fragt Ihr Euch vielleicht, wie lange es überhaupt dauert, bis so ein
 Haselnussbäumchen die ersten Nüsse trägt. Keine Sorge: Ihr bekommt bereits in
@@ -120,7 +132,13 @@ Anschließend könnt Ihr sie dann auf Wunsch immer wieder um ein Jahr verlänger
 
 ## Haselnüsse von Eurem eigenen Baum
 
-![haselnuesse-hof-windkind](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-04-hof-windkind-haselnuesse-2-400x300.jpg)
+<RemoteImage
+  alt="haselnuesse-hof-windkind"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse-2__l.jpg"
+  loadingUrl="undefined" />
 
 Im ersten Jahr übernehmt Ihr die Patenschaft für Euren Haselnussbaum zum Preis
 von 78 Euro. Damit unterstützt Ihr Silvia und David bei der langfristigen
@@ -155,7 +173,13 @@ von Plastik. Auch die Druckertinte ist umweltfreundlich.
 
 ## Haselnüsse sind gesund
 
-![haselnuesse-hof-windkind](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-04-hof-windkind-haselnuesse-4-400x300.jpg)
+<RemoteImage
+  alt="haselnuesse-hof-windkind"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-04-hof-windkind-haselnuesse-4__l.jpg"
+  loadingUrl="undefined" />
 
 Haselnüsse sind übrigens wahre Powerpakete. Bereits eine große Handvoll deckt
 zum Beispiel den Tagesbedarf an Vitamin E (Tocepherol).

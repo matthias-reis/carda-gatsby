@@ -38,7 +38,13 @@ subTitle: Jugendstilhäuser und verwinkelte Gassen
   
 ---
 
-![Las Palmas](http://cardamonchai.com/wp-content/uploads/2017/08/36912834425_94a67096c3_z-300x400.jpg)
+<RemoteImage
+  alt="Las Palmas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36912834425_94a67096c3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36912834425_94a67096c3_z__l.jpg"
+  loadingUrl="undefined" />
 
 **_Las Palmas de Gran Canaria Mai 2017 -_ Es ist jetzt schon eine ganze Weile
 her, seit ich meinen letzten Artikel über Gran Canaria veröffentlicht habe. Ich

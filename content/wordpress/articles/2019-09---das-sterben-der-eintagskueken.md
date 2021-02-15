@@ -26,7 +26,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (100:15)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (118:15)"
 thumbnailId: "26192"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-4__l.jpg
@@ -35,7 +35,7 @@ subTitle: Grausame Hühnerzucht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (100:15)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (118:15)
 
 <!--
 **45 Millionen männliche Hühnerküken werden pro Jahr alleine in Deutschland
@@ -51,7 +51,13 @@ drastische Folge der gewinnfixierten Arbeitsweise des Systems.
 
 ## Tiere dürfen nicht "ohne vernünftigen Grund" gequält oder getötet werden
 
-![kueken-timo-stammberger-albert-schweitzer-stiftung](http://cardamonchai.com/wp-content/uploads/2019/09/kueken-timo-stammberger-albert-schweitzer-stiftung-400x266.jpg "Foto: Timo Stammberger / Albert Schweitzer Stiftung für unsere Mitwelt")
+<RemoteImage
+  alt="kueken-timo-stammberger-albert-schweitzer-stiftung"
+  size="medium"
+  title="Foto: Timo Stammberger / Albert Schweitzer Stiftung für unsere Mitwelt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung__l.jpg"
+  loadingUrl="undefined" />
 
 Das Bundesverwaltungsgericht in Leipzig entschied am 13. Juni 2019, dass die
 wirtschaftlichen Interessen der Hühnerzuchtbetriebe keinen "vernünftigen Grund"
@@ -75,7 +81,13 @@ sofortige Einstellung des Tötens wurde nicht beschlossen.
 
 ## Küken werden weiter geschreddert
 
-![kueken-timo-stammberger-albert-schweitzer-stiftung](http://cardamonchai.com/wp-content/uploads/2019/09/kueken-timo-stammberger-albert-schweitzer-stiftung-1-400x266.jpg "Foto: Timo Stammberger / Albert Schweitzer Stiftung für unsere Mitwelt")
+<RemoteImage
+  alt="kueken-timo-stammberger-albert-schweitzer-stiftung"
+  size="medium"
+  title="Foto: Timo Stammberger / Albert Schweitzer Stiftung für unsere Mitwelt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-1__l.jpg"
+  loadingUrl="undefined" />
 
 Das Bundeslandwirtschaftsministerium befindet sich jetzt unter dem Druck, auf
 Dauer eine Lösung finden zu müssen. Bis diese da ist, agieren die Züchter jedoch
@@ -106,7 +118,13 @@ Zeitpunkt werden noch zahlreiche Eintagsküken ihr Leben lassen.
 
 ## Zweifelhafte Entwicklungen
 
-![kueken-timo-stammberger-albert-schweitzer-stiftung 2](http://cardamonchai.com/wp-content/uploads/2019/09/kueken-timo-stammberger-albert-schweitzer-stiftung-2-400x266.jpg "Foto: Timo Stammberger / Albert Schweitzer Stiftung für unsere Mitwelt")
+<RemoteImage
+  alt="kueken-timo-stammberger-albert-schweitzer-stiftung 2"
+  size="medium"
+  title="Foto: Timo Stammberger / Albert Schweitzer Stiftung für unsere Mitwelt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-2__l.jpg"
+  loadingUrl="undefined" />
 
 Neben den Forschungen zur Geschlechtsbestimmung vor dem Schlüpfen beschäftigen
 sich Wissenschaftler unter anderem auch mit dem sogenannten "Zweitnutzungshuhn".

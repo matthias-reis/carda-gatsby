@@ -78,7 +78,13 @@ vegane Ernährung".
 
 ### Vegane Ernährung ist gut für das Klima und für unsere Umwelt
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/kc3bchlschrank-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Vegane Zone")
+<RemoteImage
+  alt="ökologischer Fußabdruck"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Vegane Zone"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bchlschrank__l.jpg"
+  loadingUrl="undefined" />
 
 Sicher haben viele von Euch schon mal das Plakat gesehen, auf dem Thomas D sich
 für eine pflanzenbasierte Ernährung ausspricht "Vegetarier sind Klimaschützer".
@@ -101,7 +107,13 @@ für Menschen hergestellt. Dazu zählt nicht nur Tofu und Sojamilch, sondern auc
 Margarine und Sojaöl, welches vielfach in Großküchen zum Braten und Frittieren
 eingesetzt wird.
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/biosojamilch-1-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Biosojamilch")
+<RemoteImage
+  alt="ökologischer Fußabdruck"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Biosojamilch"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_biosojamilch-1__l.jpg"
+  loadingUrl="undefined" />
 
 Die Sojamilch, die hierzulande in den Regalen der Geschäfte steht, stammt aus
 europäischem Anbau, man kann sich also sicher sein, dass hierfür kein Regenwald
@@ -130,7 +142,13 @@ Tierfutter verwendet.
 
 ### 1 kg Rindfleisch erzeugt so viele Treibhausgase, wie über 1.600 km Autobahnfahrt
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/regenwaldkc3bche-1-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Kühe im Regenwald")
+<RemoteImage
+  alt="ökologischer Fußabdruck"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Kühe im Regenwald"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldkc3bche-1__l.jpg"
+  loadingUrl="undefined" />
 
 Eine
 [aktuelle Studie](https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-)
@@ -165,9 +183,21 @@ Tierprodukte.“(Quelle:
 Betrachtet man die Klimaschädlichkeit der verschiedenen Ernährungsweisen pro
 Kopf und Jahr, kommt man zu folgendem Ergebnis:
 
-![ökologischer Fußabdruck | large](http://cardamonchai.com/wp-content/uploads/2014/07/schaubild-1-800x454.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schaubild: Veggie Times April 2014")
+<RemoteImage
+  alt="ökologischer Fußabdruck"
+  size="large"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schaubild: Veggie Times April 2014"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_schaubild-1__l.jpg"
+  loadingUrl="undefined" />
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/kc3bche-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Rinder stoßen Methan aus")
+<RemoteImage
+  alt="ökologischer Fußabdruck"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Rinder stoßen Methan aus"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_kc3bche__l.jpg"
+  loadingUrl="undefined" />
 
 Fleischesser haben also einen 7,5 x höheren CO<sub>2</sub>-Verbrauch für ihre
 Ernährung, als Veganer\*innen. Ein ganz schöne Unterschied. Wobei man dazu sagen
@@ -199,7 +229,13 @@ Vegani unterscheidet. Ansonsten haben beide den gleichen Lebensstandard.
 
 ### Fleischesser und Veganer\*innen im Vergleich
 
-![ökologischer Fußabdruck](http://cardamonchai.com/wp-content/uploads/2014/07/fahrrad-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Einfach mal wieder Fahrrad fahren")
+<RemoteImage
+  alt="ökologischer Fußabdruck"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Einfach mal wieder Fahrrad fahren"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_fahrrad__l.jpg"
+  loadingUrl="undefined" />
 
 Beide leben in einem Wohnblock mit mehr als vier Wohnungen. Sie haben 80
 Quadratmeter Wohnfläche, führen einen 2 Personen Haushalt, heizen mit Erdgas und
@@ -259,7 +295,13 @@ wollen.
 
 ### Der durschnittliche ökologische Fußabdruck in Deutschland
 
-![ökologischer Fußabdruck](http://cardamonchai.files.wordpress.com/2014/07/fussabdruck-naturschutz-sylt.png "Bild: naturschutz-sylt.de")
+<RemoteImage
+  alt="ökologischer Fußabdruck"
+  size="medium"
+  title="Bild: naturschutz-sylt.de"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/07/fussabdruck-naturschutz-sylt.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/07/fussabdruck-naturschutz-sylt.png"
+  loadingUrl="undefined" />
 
 Der deutsche Durchschnittsabdruck beträgt übrigens 5,1 Hektar und setzt sich
 zusammen aus Wohnen und Energie 25 Prozent, Konsum 18 Prozent, Ernährung 35

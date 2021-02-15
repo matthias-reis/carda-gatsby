@@ -44,7 +44,13 @@ subTitle: Jack White setzt noch eins obendrauf!
   
 ---
 
-![Bild: Jack White Interview Magazine That Eric Alper](http://cardamonchai.files.wordpress.com/2014/04/jack-white-interview-magazine-02-700x904.jpg?w=232 "[ ](http://www.google.de/imgres?imgurl=http%3A%2F%2Fwww.thatericalper.com%2Fwp-content%2Fuploads%2F2014%2F04%2FJack-White-Interview-Magazine-02.jpg&imgrefurl=http%3A%2F%2Fwww.thatericalper.com%2F2014%2F04%2F07%2Fjack-white-announces-headlining-tour-dates%2F&h=1600&w=1238&tbnid=oPRi6DO3D07_5M%3A&zoom=1&docid=96jHXz6LoCOvXM&ei=c6hWU_6zB4LQtAb5s4DgCA&tbm=isch&client=safari&iact=rc&uact=3&dur=226&page=1&start=0&ndsp=23&ved=0CF8QrQMwAAhttp://)  Bild: Jack White Interview Magazine That Eric Alper")
+<RemoteImage
+  alt="Bild: Jack White Interview Magazine That Eric Alper"
+  size="medium"
+  title="[ ](http://www.google.de/imgres?imgurl=http%3A%2F%2Fwww.thatericalper.com%2Fwp-content%2Fuploads%2F2014%2F04%2FJack-White-Interview-Magazine-02.jpg&amp;imgrefurl=http%3A%2F%2Fwww.thatericalper.com%2F2014%2F04%2F07%2Fjack-white-announces-headlining-tour-dates%2F&amp;h=1600&amp;w=1238&amp;tbnid=oPRi6DO3D07_5M%3A&amp;zoom=1&amp;docid=96jHXz6LoCOvXM&amp;ei=c6hWU_6zB4LQtAb5s4DgCA&amp;tbm=isch&amp;client=safari&amp;iact=rc&amp;uact=3&amp;dur=226&amp;page=1&amp;start=0&amp;ndsp=23&amp;ved=0CF8QrQMwAAhttp://)  Bild: Jack White Interview Magazine That Eric Alper"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/jack-white-interview-magazine-02-700x904.jpg?w=232"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/jack-white-interview-magazine-02-700x904.jpg?w=232"
+  loadingUrl="undefined" />
 
 **Bereits vor ein paar Stunden
 [titelte ich mit Jack White](//2014/04/22/jack-white-stellt-neuen-song-vor/).

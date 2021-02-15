@@ -73,7 +73,13 @@ durch den Zusatz von Rohrzucker genießbarer zu machen.
 
 ## Die Azteken wussten, wie gesund Schokolade ist
 
-![Schokolade](http://cardamonchai.com/wp-content/uploads/2018/12/cacao-beans-91083_1280-400x300.jpg)
+<RemoteImage
+  alt="Schokolade"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_cacao-beans-91083_1280__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_cacao-beans-91083_1280__l.jpg"
+  loadingUrl="undefined" />
 
 Aus Schriften, die zwischen dem 16. und dem 19. Jahrhundert entstanden sind,
 gehen über 100 medizinische Anwendungsmöglichkeiten für Schokolade, Kakaobohnen

@@ -29,7 +29,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (33:66)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (39:66)"
 thumbnailId: "19730"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25353494967_37e19b2ae5_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25353494967_37e19b2ae5_z__l.jpg
@@ -38,7 +38,7 @@ subTitle: Fünf Zeilen Spaß und eine Stadt in Irland
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (33:66)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (39:66)
 
 <!--
 **Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im Rahmen unserer
@@ -58,7 +58,13 @@ herausstellte.**
 Das sagt die Online-Enzyklopädie. Schaut mal, was ich daraus gemacht habe. Die
 Bilder habe ich bei unserem Besuch dort am 12.11.2017 aufgenommen.
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/39326731695_cbf529dc1e_z-300x225.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39326731695_cbf529dc1e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39326731695_cbf529dc1e_z__l.jpg"
+  loadingUrl="undefined" />
 
 <blockquote>
 ## Des Burschen Trick
@@ -89,7 +95,13 @@ behaltet beim Texten immer den Rhythmus im Kopf:
 - Amphibrachisches Metrum - eine lange, betonte Silbe "eingerahmt" von zwei
   kurzen: da-DAHM-da, da-DAHM-da
 
-![Limerick](http://cardamonchai.com/wp-content/uploads/2018/02/40224475451_68f0dffe8d_z-300x225.jpg)
+<RemoteImage
+  alt="Limerick"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224475451_68f0dffe8d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224475451_68f0dffe8d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Dann müsst Ihr nur noch kreativ sein und das Gerüst mit Eurem Text füllen. Am
 Ende der ersten Zeile setzt Ihr einfach einen Ort Eurer Wahl (z. B. Ham/burg,

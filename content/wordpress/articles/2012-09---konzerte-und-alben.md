@@ -60,7 +60,13 @@ subTitle: Konzertplanung &amp; Plattenkauf
   
 ---
 
-![Die MS Musikindustrie](http://cardamonchai.com/wp-content/uploads/2012/09/c01007fcf69211e1ab6722000a1d0369_7.jpg "Die MS Musikindustrie")
+<RemoteImage
+  alt="Die MS Musikindustrie"
+  size="medium"
+  title="Die MS Musikindustrie"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_c01007fcf69211e1ab6722000a1d0369_7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_c01007fcf69211e1ab6722000a1d0369_7__l.jpg"
+  loadingUrl="undefined" />
 
 Aber ich freue mich trotzdem. Dann muss ich eben kurzzeitig mit diesem
 neumodischen grüngefärbten Player, den sich inzwischen jeder runtergeladen haben
@@ -70,7 +76,13 @@ Untergang der MS Musikindustrie, aber in so einem Fall durchaus praktisch. Und:
 Je länger es dauert, desto länger kann ich mich freuen, die Platten endlich "in
 meine Arme zu schließen". Und das sind wirklich ein paar Schätzchen:
 
-![ | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/09/p7090053-150x150.jpg "Calexico live @ Muffathalle München Anne Reko 7/2009")
+<RemoteImage
+  alt=""
+  size="thumbnail"
+  title="Calexico live @ Muffathalle München Anne Reko 7/2009"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2012/09/p7090053-150x150.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2012/09/p7090053-150x150.jpg"
+  loadingUrl="undefined" />
 
 - "Awakened" von As I Lay Dying ist vorbestellt, erscheint am 21.9.
 - "Mirage Rock" von Band Of Horses ist vorbestellt, erscheint am 14.9.
@@ -98,6 +110,12 @@ allerdings werde ich Ihr in einem weiteren Artikel meine Aufmerksamkeit widmen.
 
 Bis dahin: Musikalische Grüße und eine wundervolle Woche.
 
-![](http://cardamonchai.files.wordpress.com/2012/09/unbenannt-2.png "cardakonzerte")
+<RemoteImage
+  alt=""
+  size="medium"
+  title="cardakonzerte"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/unbenannt-2.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/unbenannt-2.png"
+  loadingUrl="undefined" />
 
   

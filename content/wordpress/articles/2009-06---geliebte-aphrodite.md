@@ -28,7 +28,13 @@ subTitle: Wegen dieser Dame stand die Augsburger Kunstwelt Kopf
   
 ---
 
-![Umstrittene Statue](http://cardamonchai.com/wp-content/uploads/2009/06/Aphrodite2-640x480.jpg)
+<RemoteImage
+  alt="Umstrittene Statue"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite2__l.jpg"
+  loadingUrl="undefined" />
 
 Alles begann damit, dass die Verle \_**\_ gerin Ellinor Holland zum Gedenken an
 den hundertsten Geburtstag ihres Vaters der Stadt Augsburg die " **Aphrodite\_\_
@@ -48,7 +54,13 @@ stellte sie jedoch nicht das dar, was man sich allgemein unter dem Namen
 Bürgerentscheid dagegen, die Statue vor den Ulrichskirchen aufzustellen. Sie
 wurde für "zu hässlich" erklärt. Sie würde das Stadtbild zerstören.
 
-![Umstrittene Statue](http://cardamonchai.com/wp-content/uploads/2009/06/Aphrodite21-640x480.jpg)
+<RemoteImage
+  alt="Umstrittene Statue"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite21__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_06_Aphrodite21__l.jpg"
+  loadingUrl="undefined" />
 
 Die Bürger konnten die Art des Künstlers, die "Aphrodite" darzustellen, nicht
 verstehen. Der Blick sei zu ernst, hieß es, die Figur nicht hübsch genug. Er

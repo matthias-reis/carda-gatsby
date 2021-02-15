@@ -66,7 +66,13 @@ Strahlender Himmel Liebevoller Blick
 
 Lass uns am Wasser Erholung suchen Grün, wann kommst Du?
 
-![Grün | full](http://cardamonchai.com/wp-content/uploads/2018/02/Wasserfall-1-von-1.jpg)
+<RemoteImage
+  alt="Grün"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__l.jpg"
+  loadingUrl="undefined" />
 
 Das Foto habe ich letztes Jahr während einer Wanderung in Irland aufgenommen.
 

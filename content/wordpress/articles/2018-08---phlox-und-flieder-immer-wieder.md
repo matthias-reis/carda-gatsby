@@ -46,7 +46,13 @@ subTitle: 6 Tipps für den Hochsommer auf dem Balkon
 blüht es jetzt bei uns auf dem Balkon wieder richtig schön. Auch Pflanzen
 brauchen Pflege. Heute teile ich meine Erfahrungen mit Euch.**
 
-![Phlox](http://cardamonchai.com/wp-content/uploads/2018/08/43878139922_58c2865a93_z-400x533.jpg)
+<RemoteImage
+  alt="Phlox"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43878139922_58c2865a93_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43878139922_58c2865a93_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das heiße Wetter hatte die Pflanzen in unserem Minigarten im fünften Stock ganz
 schön mitgenommen. Heute morgen hieß es dann: Zupfen. Zuerst kamen die
@@ -78,7 +84,13 @@ Und nun zu meinen Tipps für die heiße Jahreszeit auf dem Balkon.
 
 ## Tipp 1: Heimat für Insekten
 
-![Phlox](http://cardamonchai.com/wp-content/uploads/2018/08/28990142497_5651ab6d0e_z-400x300.jpg "Rastplatz für Insekten")
+<RemoteImage
+  alt="Phlox"
+  size="medium"
+  title="Rastplatz für Insekten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28990142497_5651ab6d0e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28990142497_5651ab6d0e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Duftende, stark blühende Pflanzen, wie Lavendel, Phlox und Flieder, erfreuen
 nicht nur Herz und Nase. Sie bieten auch Schmetterlingen, Wildbienen und anderen
@@ -95,7 +107,13 @@ Euer Hotel einziehen.
 
 ## Tipp 2: Pflanzen spenden Pflanzen Schatten
 
-![Phlox](http://cardamonchai.com/wp-content/uploads/2018/08/42118045170_d417fd97e3_z-400x300.jpg "Nelken")
+<RemoteImage
+  alt="Phlox"
+  size="medium"
+  title="Nelken"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42118045170_d417fd97e3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42118045170_d417fd97e3_z__l.jpg"
+  loadingUrl="undefined" />
 
 Große Pflanzen spenden kleinen Pflanzen Schatten. Bei uns steht zum Beispiel der
 große Phlox direkt vorne am Geländer und schützt die etwas empfindlicheren
@@ -112,7 +130,13 @@ auch noch sparen.
 
 ## Tipp 4 Gießen, gießen, gießen
 
-![Phlox](http://cardamonchai.com/wp-content/uploads/2018/08/30057576698_8de0ba2e5c_z-400x300.jpg "Insektentränke")
+<RemoteImage
+  alt="Phlox"
+  size="medium"
+  title="Insektentränke"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30057576698_8de0ba2e5c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30057576698_8de0ba2e5c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn möglich, solltet Ihr jeden Morgen UND jeden Abend einen Blick auf Eure
 Pflanzen werfen. Es kann bei dem Wetter schon mal passieren, dass ihr zweimal
@@ -142,7 +166,13 @@ Notlösung und geht auf keinen Fall über einen längeren Zeitraum.
 
 ## 6. Tipp: Bepflanzung mit Köpfchen
 
-![Phlox](http://cardamonchai.com/wp-content/uploads/2018/08/43926541081_8694d147db_z-400x300.jpg "Sonnenanbeter")
+<RemoteImage
+  alt="Phlox"
+  size="medium"
+  title="Sonnenanbeter"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43926541081_8694d147db_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43926541081_8694d147db_z__l.jpg"
+  loadingUrl="undefined" />
 
 Folgende Pflanzen fühlen sich auch bei 25 bis 35 Grad noch wohl:
 
@@ -178,7 +208,13 @@ Blätter eine geringe Verdunstung. Harte Blätter, wie die von Disteln, verfüge
 über zusätzliche schützende Zellschichten. Sukkulenten speichern Wasser in ihren
 dicken Blättern. Außerdem sind sie auch sonst sehr pflegeleicht.
 
-![Phlox](http://cardamonchai.com/wp-content/uploads/2018/08/30057529648_3c66b38aee_z-400x300.jpg)
+<RemoteImage
+  alt="Phlox"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30057529648_3c66b38aee_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30057529648_3c66b38aee_z__l.jpg"
+  loadingUrl="undefined" />
 
 Es gibt doch nichts Schöneres, als sich abends nach getaner Arbeit mit einem
 schönen kalten

@@ -60,6 +60,12 @@ bringen Glück. Anschließend wird der Bauherr dazu aufgerufen, den letzten Nage
 einzuschlagen. Dabei wird ihm gerne ein Streich gespielt. Im Anschluss wird
 ausgelassen gefeiert.
 
-![Richtfest | large](http://cardamonchai.com/wp-content/uploads/2011/02/img_5087-800x533.jpg "Richtfest")
+<RemoteImage
+  alt="Richtfest"
+  size="large"
+  title="Richtfest"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_img_5087__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_img_5087__l.jpg"
+  loadingUrl="undefined" />
 
   

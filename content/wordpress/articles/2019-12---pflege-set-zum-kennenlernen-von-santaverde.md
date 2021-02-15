@@ -56,7 +56,13 @@ Im Set enthalten sind
 
 ## Ein frisches Hautgefühl
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2019/11/2019-11-17-santaverde-1-400x533.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-santaverde-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-santaverde-1__l.jpg"
+  loadingUrl="undefined" />
 
 Die Santaverde Produkte sorgen für ein angenehmes Hautgefühl. Die
 [Cleansing Emulsion](/2019/04/santaverde-aloe-vera-reinigungsemulsion/) habe ich

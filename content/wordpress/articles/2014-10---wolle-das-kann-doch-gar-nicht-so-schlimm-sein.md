@@ -58,7 +58,13 @@ aber viel weitgreifender und betrifft nicht nur die Ernährung.
 
 ### Jeden Tag neue Erkenntnisse
 
-![Glückliche Schafe?](http://cardamonchai.com/wp-content/uploads/2014/10/11501753853_8ce53b76af_b-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Glückliche Schafe?")
+<RemoteImage
+  alt="Glückliche Schafe?"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Glückliche Schafe?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501753853_8ce53b76af_b__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501753853_8ce53b76af_b__l.jpg"
+  loadingUrl="undefined" />
 
 Doch auch das gehört sicherlich zu dem Prozess dazu, in dem man sich als
 "Neu-Veganer\*innen" befindet. Jeden Tag kommt man zu neuen Erkenntnissen und
@@ -81,7 +87,13 @@ Kosmetik.
 
 ### Romantisierte Beiträge im Fernsehen
 
-![Schafe](http://cardamonchai.com/wp-content/uploads/2014/10/11354273536_d4beb822f5_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe.")
+<RemoteImage
+  alt="Schafe"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354273536_d4beb822f5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354273536_d4beb822f5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Seit meiner Ausbildung in einem klassischen Modegeschäft habe ich mich nicht
 mehr wirklich eingehend mit der Herkunft von Wolle beschäftigt, einfach auch,
@@ -118,7 +130,13 @@ Tieren und wie wird diese Wolle gewonnen?
 
 ### Schurwolle
 
-![Schafe am Wegesrand](http://cardamonchai.com/wp-content/uploads/2014/10/14259833145_d42874d205_z-640x479.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe am Wegesrand.")
+<RemoteImage
+  alt="Schafe am Wegesrand"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe am Wegesrand."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14259833145_d42874d205_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14259833145_d42874d205_z__l.jpg"
+  loadingUrl="undefined" />
 
 "Schurwolle", das klingt zunächst nicht mal nach Tierquälerei, denn schließlich
 werden die **Schafe** , von denen diese Wolle stammt, ja "nur" geschoren. Oder?
@@ -155,7 +173,13 @@ Pflanzenfasern, ab diesem Zeitpunkt nahm die Entwicklung ihren Lauf.
 
 ### Moderne Wollproduktion in Deutschland
 
-![Schaf | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/10/13873616033_2496f567af_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schaf.")
+<RemoteImage
+  alt="Schaf"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schaf."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_13873616033_2496f567af_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_13873616033_2496f567af_z__l.jpg"
+  loadingUrl="undefined" />
 
 "Blutige Massenzucht von Wollschafen? Das gibts doch nur in Australien. Bei uns
 gehts den Tieren doch gut!" Natürlich kann man diesen Eindruck bekommen, wenn
@@ -178,7 +202,13 @@ Transportkosten zur Sammelstelle.
 
 ### Schwerpunkt auf der Fleischproduktion
 
-![Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen](http://cardamonchai.com/wp-content/uploads/2014/10/11501550486_c0fb2d0090_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen.")
+<RemoteImage
+  alt="Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Wenn ihre Zuchtleistung nachgelassen hat, wird sie ihren Kindern in den Tod folgen."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501550486_c0fb2d0090_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501550486_c0fb2d0090_z__l.jpg"
+  loadingUrl="undefined" />
 
 Rund 1,6 Millionen Schafe werden derzeit in Deutschland gehalten, 10.700 davon
 sind Milchschafe (Zahlen: Statistisches Bundesamt 2013). Der Schwerpunkt liegt
@@ -201,7 +231,13 @@ Pellets verarbeitet. Der größte Abnehmer ist hier China.
 
 ### Wolle für die Bekleidungsindustrie stammt aus Australien, China und Neuseeland
 
-![Merinoschaf](http://cardamonchai.com/wp-content/uploads/2014/10/11501556376_ce12a81f12_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Merinoschaf.")
+<RemoteImage
+  alt="Merinoschaf"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Merinoschaf."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501556376_ce12a81f12_z__l.jpg"
+  loadingUrl="undefined" />
 
 Selbst die Wolle der in Deutschland gezüchteten Merinoschafe kommt von ihrer
 Feinheit nicht an die ihrer australischen Verwandten ran, daher wird auch sie
@@ -239,7 +275,13 @@ Zuchtleistung nachgelassen hat.
 
 ### Tierkinder sterben, um Tierarztkosten zu sparen
 
-![Schafe am Glastonbury Tor](http://cardamonchai.com/wp-content/uploads/2014/10/11354464146_bb430f9a5c_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe am Glastonbury Tor.")
+<RemoteImage
+  alt="Schafe am Glastonbury Tor"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe am Glastonbury Tor."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354464146_bb430f9a5c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11354464146_bb430f9a5c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Deutsche Schäfer haben sehr hohe Verlustraten bei Lämmern (sechs bis 13 Prozent)
 zu verzeichnen, diese sterben bei Geburtskomplikationen oder kurz nach der
@@ -272,7 +314,13 @@ Massen an Wolle sterben diese Tiere in den Sommermonaten oft an Überhitzung.
 
 ### Verstümmelung beim Mulesing
 
-![Mulesing Bild: Peta | full](http://cardamonchai.com/wp-content/uploads/2014/10/mulesing-peta.jpg "Mulesing. Bild: Peta")
+<RemoteImage
+  alt="Mulesing Bild: Peta"
+  size="full"
+  title="Mulesing. Bild: Peta"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_mulesing-peta__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_mulesing-peta__l.jpg"
+  loadingUrl="undefined" />
 
 In den Körperfalten sammelt sich jede Feuchtigkeit, mit der sie in Berührung
 kommen, Regen und Urin. Fliegen legen darin ihre Larven ab, die Larven ernähren
@@ -300,7 +348,13 @@ Doch Wolle stammt nicht nur von Schafen. Als Wolle bezeichnet man nach dem
 Textilkennzeichnungsgesetz grundsätzlich die weichen Haare des Fells von
 Säugetieren. <sup> [5](#5) </sup>### Angorakaninchen
 
-![Angora Kaninchen Bild: Peta | full](http://cardamonchai.com/wp-content/uploads/2014/10/angora-kaninchen-bild-peta.jpg "Angora Kaninchen. Bild: Peta")
+<RemoteImage
+  alt="Angora Kaninchen Bild: Peta"
+  size="full"
+  title="Angora Kaninchen. Bild: Peta"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_angora-kaninchen-bild-peta__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_angora-kaninchen-bild-peta__l.jpg"
+  loadingUrl="undefined" />
 
 Beim Angorakaninchen handelt es sich um eine langhaarige Kaninchenrasse. Die
 Wolle dieser Tiere wird vor allem für Unterwäsche, Bettwäsche, Schals und Decken
@@ -324,7 +378,13 @@ aufgehängt und ihnen wird mit dem Messer die Kehle durchtrennt.
 
 ### Weitere Wollsorten
 
-![Schafe auf der Weide in Cornwall](http://cardamonchai.com/wp-content/uploads/2014/10/11501524574_3c0c341e5c_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe auf der Weide in Cornwall.")
+<RemoteImage
+  alt="Schafe auf der Weide in Cornwall"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schafe auf der Weide in Cornwall."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501524574_3c0c341e5c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11501524574_3c0c341e5c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Außer Schafwolle (Hierzu zählen Schurwolle und Merinowolle) und Angorawolle gibt
 es unter anderem Mohair, welches von der Angoraziege stammt, die von der
@@ -347,7 +407,13 @@ Polyacryl, Sojaseide und Baumwollflanell, um hier nur einige zu nennen.
 
 ### Herbst- und Winterzeit ist Wollzeit
 
-![Schafe auf dem Weg zum Schlachthof A99 Richtung Österreich Bild: Monika München](http://cardamonchai.com/wp-content/uploads/2014/10/schafe-auf-dem-weg-zum-schlachthof-a99-richtung-c3b6sterreich-monika-mc3bcnchen-640x960.jpg "Schafe auf dem Weg zum Schlachthof A99 Richtung Österreich. Bild: Monika München")
+<RemoteImage
+  alt="Schafe auf dem Weg zum Schlachthof A99 Richtung Österreich Bild: Monika München"
+  size="medium"
+  title="Schafe auf dem Weg zum Schlachthof A99 Richtung Österreich. Bild: Monika München"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_schafe-auf-dem-weg-zum-schlachthof-a99-richtung-c3b6sterreich-monika-mc3bcnchen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_schafe-auf-dem-weg-zum-schlachthof-a99-richtung-c3b6sterreich-monika-mc3bcnchen__l.jpg"
+  loadingUrl="undefined" />
 
 Schon seit einigen Wochen sieht man sie wieder in den Auslagen der Modegeschäfte
 liegen: Pullis, Schals und Socken aus Schurwolle, feine Merinounterwäsche und

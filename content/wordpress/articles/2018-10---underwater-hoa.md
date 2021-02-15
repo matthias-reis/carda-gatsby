@@ -175,7 +175,13 @@ Mehr über das Projekt "Underwater HOA" erfahrt Ihr unter
 [www.underwaterhoa.com](http://www.underwaterhoa.com.). Ich bedanke mich bei
 Rachel Pinzur für die Übersendung der Pressemitteilung.
 
-![Underwater HOA | full](http://cardamonchai.com/wp-content/uploads/2018/10/ShowImage-960x355.jpeg)
+<RemoteImage
+  alt="Underwater HOA"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_ShowImage.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_ShowImage.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Bilder / Pictures:** Underwater HOA
 

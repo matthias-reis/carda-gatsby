@@ -30,7 +30,13 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
   
 ---
 
-![spielt-keine-rolle | large](http://cardamonchai.com/wp-content/uploads/2018/11/experiment-schmetteraffe-in-wasserraum_11844120086_o-520x416.jpg)
+<RemoteImage
+  alt="spielt-keine-rolle"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_experiment-schmetteraffe-in-wasserraum_11844120086_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_experiment-schmetteraffe-in-wasserraum_11844120086_o__l.jpg"
+  loadingUrl="undefined" />
 
 > Glück auf Erden Kummer und Sorgen Erdbeeren mit Sahne Dreck und Staub
 

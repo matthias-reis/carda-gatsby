@@ -44,7 +44,13 @@ subTitle: Lied gesucht
   
 ---
 
-![Bild: brit-berlin pixelio.de](http://cardamonchai.com/wp-content/uploads/2011/09/28076_r_by_brit-berlin_pixelio-de-640x431.jpg "Bild: brit-berlin pixelio.de")
+<RemoteImage
+  alt="Bild: brit-berlin pixelio.de"
+  size="medium"
+  title="Bild: brit-berlin pixelio.de"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_28076_r_by_brit-berlin_pixelio-de__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_28076_r_by_brit-berlin_pixelio-de__l.jpg"
+  loadingUrl="undefined" />
 
 **Gesucht wird ein wundervoller Song. Falls ihn jemand findet, bitte bei mir
 abgeben!**

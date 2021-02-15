@@ -45,7 +45,13 @@ besuchen wollte. Erst war es lange Zeit wegen Renovierungsarbeiten geschlossen
 und dann kamen immer wieder andere Dinge dazwischen. Man kennt das ja. Wir haben
 es jetzt endlich mal geschafft.**
 
-![Planetarium](http://cardamonchai.com/wp-content/uploads/2017/10/37124998024_91afdcef60_k-300x400.jpg)
+<RemoteImage
+  alt="Planetarium"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37124998024_91afdcef60_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37124998024_91afdcef60_k__l.jpg"
+  loadingUrl="undefined" />
 
 Die Aussichtsplattform ist zwar nach wie vor im Status "Wegen Umbau
 geschlossen", aber das Sternen-Theater an sich kann jederzeit besucht werden. Es

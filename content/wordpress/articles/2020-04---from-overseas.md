@@ -74,7 +74,13 @@ verbringst Du Deine Zeit? Machst Du viel Musik?
 
 ## Ambient Musik ist der beste Soundtrack für die Isolation
 
-![from-overseas](http://cardamonchai.com/wp-content/uploads/2020/04/from-overseas-3-400x267.jpg)
+<RemoteImage
+  alt="from-overseas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-3__l.jpg"
+  loadingUrl="undefined" />
 
 **Kévin:** Ich arbeite von daheim, also hat sich meine Routine nicht wirklich
 verändert. Ich arbeite an Musik, ich höre Musik, ich koche und ich kümmere mich
@@ -119,7 +125,13 @@ Maloya Musik. Gibt es auf der Platte noch weitere Tribute dieser Art?
 
 ## "'Home' spiegelt meine Reiseerfahrungen wider"
 
-![from-overseas](http://cardamonchai.com/wp-content/uploads/2020/04/from-overseas-2-400x267.jpg)
+<RemoteImage
+  alt="from-overseas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Kévin:** Die Hauptinspiration hinter "Home" sind meine Reisen, die ich
 unternommen habe, seit ich Réunion Anfang Zwanzig verlassen habe. Dieses Album
@@ -176,7 +188,13 @@ habe.
 
 ## "Ich bin ein Luftfahrt-Ingenieur"
 
-![from-overseas](http://cardamonchai.com/wp-content/uploads/2020/04/from-overseas-1-400x265.jpg)
+<RemoteImage
+  alt="from-overseas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-1__l.jpg"
+  loadingUrl="undefined" />
 
 Davor habe ich in Toulouse für Airbus gearbeitet. Ich bin/war ein
 Luftfahrt-Ingenieur. Inzwischen arbeite ich nur noch an Musik. Ich beteilige
@@ -228,7 +246,13 @@ wieder beruhigt hat.
 
 ## Live Stream am Release Tag
 
-![from-overseas](http://cardamonchai.com/wp-content/uploads/2020/04/from-overseas-4-400x267.jpg)
+<RemoteImage
+  alt="from-overseas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-4__l.jpg"
+  loadingUrl="undefined" />
 
 **Kévin:** Ich würde das auch so gerne tun. Ein Festival klingt im Moment
 wirklich gut. Kannst Du Dich noch an die erinnern (lacht)? Aber im Ernst, diese
@@ -309,7 +333,13 @@ do you spend it? Do you make a lot of music?
 
 ### "Ambient music is the best soundtrack for isolation"
 
-![from-overseas](http://cardamonchai.com/wp-content/uploads/2020/04/from-overseas-6-400x267.jpg)
+<RemoteImage
+  alt="from-overseas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-6__l.jpg"
+  loadingUrl="undefined" />
 
 **Kévin:** I am working from home so this situation doesn't really change my
 routine. I work on music, I listen to music, I cook and I take care of my dog.
@@ -347,7 +377,13 @@ the fourth piece "Maloya Tales" is a homage to La Réunion. You even get a littl
 impression of the typical Maloya music of La Réunion. Are there any other
 tributes of this kind on the record?
 
-![from-overseas](http://cardamonchai.com/wp-content/uploads/2020/04/from-overseas-7-400x267.jpg)
+<RemoteImage
+  alt="from-overseas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-7__l.jpg"
+  loadingUrl="undefined" />
 
 ### "'Home' reflects my travelling experiences"
 
@@ -402,7 +438,13 @@ plan about it until I moved to the US four years ago and started this project.
 
 ### "I am an aerospace engineer"
 
-![from-overseas](http://cardamonchai.com/wp-content/uploads/2020/04/from-overseas-8-400x267.jpg)
+<RemoteImage
+  alt="from-overseas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-8__l.jpg"
+  loadingUrl="undefined" />
 
 ---
 
@@ -437,7 +479,13 @@ inspired and enthusiastic about what this community brings to the world.
 
 ### No live gigs these times
 
-![from-overseas](http://cardamonchai.com/wp-content/uploads/2020/04/from-overseas-9-400x265.jpg)
+<RemoteImage
+  alt="from-overseas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-9__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Oh, I love Sigur Rós and Sonic Youth and... I know what you're talking
 about. There is so much great music out there. I'm also fascinated about

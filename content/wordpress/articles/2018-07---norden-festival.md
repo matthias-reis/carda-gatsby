@@ -59,7 +59,13 @@ Hinweis: Die Aktion ist beendet.
 erstmalig das NORDEN Festival stattfinden. Drei Wochen lang sind dort Kunst und
 Kultur aus dem europäischen Ostseeraum und Schleswig-Holstein zu sehen.**
 
-![NORDEN Festival](http://cardamonchai.com/wp-content/uploads/2018/07/Fintango-Duo-promo-by-Antti-Sepponen-400x267.jpeg "Das Fintango Duo Antti Sepponen")
+<RemoteImage
+  alt="NORDEN Festival"
+  size="medium"
+  title="Das Fintango Duo Antti Sepponen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Fintango-Duo-promo-by-Antti-Sepponen.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Fintango-Duo-promo-by-Antti-Sepponen.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Auf fünf Bühnen werden Live Musik, DJ-Sets, Poetry Slams, Open Air
 Kinoveranstaltungen, Lesungen, Straßentheater, Tanz, Kurzfilme sowie Spiel und
@@ -76,7 +82,13 @@ Sauna auf dem Festivalgelände! Außerdem erwarten uns Fintango,
 Streetart-Workshops, Standup Paddling, diverse kulinarische Highlights und
 natürlich Musik, Musik, Musik!
 
-![NORDEN Festival](http://cardamonchai.com/wp-content/uploads/2018/07/Urban-Art-Workshop-Vandkant-400x560.jpeg "Urban Art Workshop Vandkant")
+<RemoteImage
+  alt="NORDEN Festival"
+  size="medium"
+  title="Urban Art Workshop Vandkant"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Urban-Art-Workshop-Vandkant.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Urban-Art-Workshop-Vandkant.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Veranstalter Manfred Pakusius möchte die Schleswiger Königswiesen zu einem ganz
 besonderen Ort machen, indem er das breite Kulturangebot aller

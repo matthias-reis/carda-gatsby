@@ -32,7 +32,13 @@ subTitle: Geschichte einer Hafenstadt
   
 ---
 
-![Wunderschönes Lübeck](http://cardamonchai.com/wp-content/uploads/2015/11/22717821986_0bfb81b7e0_z-640x427.jpg "Wunderschönes Lübeck")
+<RemoteImage
+  alt="Wunderschönes Lübeck"
+  size="medium"
+  title="Wunderschönes Lübeck"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22717821986_0bfb81b7e0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22717821986_0bfb81b7e0_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Nachdem wir nach
 [unserem Ausflug](/2015/11/birdwatching-am-timmendorfer-strand/) an den
@@ -53,7 +59,13 @@ zählt sie 214.420 Einwohner. Die Stadt der sieben Türme gehört seit 2012 zur
 Europäischen Metropolregion Hamburg, der mittelalterliche Stadtkern ist seit
 1987 Teil des UNESCO-Weltkulturerbes.
 
-![Blick auf das Holstentor](http://cardamonchai.com/wp-content/uploads/2015/11/22121232544_b19aabeb3a_z-640x427.jpg "Blick auf das Holstentor")
+<RemoteImage
+  alt="Blick auf das Holstentor"
+  size="medium"
+  title="Blick auf das Holstentor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121232544_b19aabeb3a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121232544_b19aabeb3a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Zu den Wahrzeichen von Lübeck zählen neben dem weltberühmten Holstentor und der
 Marienkirche, der Dom, die Petrikirche sowie ein vollständig erhaltenes Viertel
@@ -71,7 +83,13 @@ Handelsstadt im Ostseeraum bekannt.
 
 ## Zerstörung und Wiederaufbau
 
-![Rundgang durch die Altstadt von Lübeck](http://cardamonchai.com/wp-content/uploads/2015/11/22121105134_51ec73c251_z-640x427.jpg "Rundgang durch die Altstadt von Lübeck")
+<RemoteImage
+  alt="Rundgang durch die Altstadt von Lübeck"
+  size="medium"
+  title="Rundgang durch die Altstadt von Lübeck"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121105134_51ec73c251_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22121105134_51ec73c251_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch nach ihrer blühenden Fernhandelszeit verlor die Stadt Lübeck nicht an
 Bedeutung. Der 30jährige Krieg wurde genauso überstanden, wie der Einmarsch

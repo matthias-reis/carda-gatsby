@@ -63,7 +63,13 @@ Vegan- und Rohkosthändlern in ganz Europa. Neben veganen Bio-Lebensmitteln
 findet man dort auch jede Menge tolle Rezepte, Küchengeräte und andere nützliche
 Accessoires für die Küche.
 
-![Keimling](http://cardamonchai.com/wp-content/uploads/2018/12/2018-11-18-keimling0014-400x300.jpg "Roh rockt")
+<RemoteImage
+  alt="Keimling"
+  size="medium"
+  title="Roh rockt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0014__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0014__l.jpg"
+  loadingUrl="undefined" />
 
 Bei der Herstellung der Produkte wird auf Palmöl, tierische und synthetische
 Inhaltsstoffe aus Prinzip verzichtet. Alles stammt aus zertifiziertem und
@@ -79,7 +85,13 @@ Chufas-Zimt-Konfekt.
 
 ## Vegane und Palmöl-freie Schokocreme mit knackigen Nuss-Stücken
 
-![Keimling](http://cardamonchai.com/wp-content/uploads/2018/12/2018-11-18-keimling0013-400x300.jpg "Vegane Schokocreme ohne Palmöl")
+<RemoteImage
+  alt="Keimling"
+  size="medium"
+  title="Vegane Schokocreme ohne Palmöl"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0013__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0013__l.jpg"
+  loadingUrl="undefined" />
 
 "Hm, ist die lecker!", das war mein erster Gedanke beim Probieren. Die Creme war
 dann auch ziemlich schnell leer. Meine Freundin, die früher gerne die bekannte
@@ -97,7 +109,13 @@ Die unverbindliche Preisempfehlung für ein Glas mit 350 Gramm liegt bei 8,95.
 
 ## Kurkuma-Latte-Mischung für Goldene Milch
 
-![Keimling](http://cardamonchai.com/wp-content/uploads/2018/12/2018-11-18-keimling0010-400x300.jpg "Kurkuma Latte")
+<RemoteImage
+  alt="Keimling"
+  size="medium"
+  title="Kurkuma Latte"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0010__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0010__l.jpg"
+  loadingUrl="undefined" />
 
 Goldene Milch ist nicht nur gut für das Immunsystem, sie ist obendrein auch noch
 mehr als lecker. Mit der Mischung von Keimling kann man das aromatisch-süßliche
@@ -115,7 +133,13 @@ Bestellen könnt Ihr das leckere Pülverchen
 
 ## Roh-veganer Chufas-Zimt-Konfekt
 
-![Keimling](http://cardamonchai.com/wp-content/uploads/2018/12/2018-11-18-keimling0011-400x300.jpg "Roh-veganer Chufas-Zimt-Konfekt")
+<RemoteImage
+  alt="Keimling"
+  size="medium"
+  title="Roh-veganer Chufas-Zimt-Konfekt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0011__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-11-18-keimling0011__l.jpg"
+  loadingUrl="undefined" />
 
 Bei Chufas, vielen auch unter dem Namen "Erdmandel" bekannt, handelt es sich um
 Ballaststoff- und Eiweiß-haltige Wurzelknollen. Im schmackhaften Konfekt von

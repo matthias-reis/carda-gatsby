@@ -49,7 +49,13 @@ Wasser schwimmen, als Fische. Deren Heimat ist durch unsere Abfälle seit Jahren
 stark bedroht. Acht Millionen Tonnen Plastik werden jedes Jahr in den Ozean
 geworfen oder gelangen auf Umwegen dorthin.
 
-![World Ocean Summit](http://cardamonchai.com/wp-content/uploads/2018/03/plastic-1433138_960_720-400x300.jpg)
+<RemoteImage
+  alt="World Ocean Summit"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_plastic-1433138_960_720__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_plastic-1433138_960_720__l.jpg"
+  loadingUrl="undefined" />
 
 Das Umweltprogramm der **Vereinten Nationen** vermutet, dass bereits 51
 Milliarden Tonnen Mikroplastikpartikel im Meer schwimmen. Diese stammen

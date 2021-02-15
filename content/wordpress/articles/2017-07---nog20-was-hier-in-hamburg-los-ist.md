@@ -61,11 +61,23 @@ kommt:
 > uns nicht in die Arbeit und in die Schule und ihr zieht unseren friedlichen
 > Protest in den Dreck."
 
-![nog20](http://cardamonchai.com/wp-content/uploads/2017/07/unbenannt-166-640x800.jpg)
+<RemoteImage
+  alt="nog20"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-166__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-166__l.jpg"
+  loadingUrl="undefined" />
 
 ## Mein Tweet folgte:
 
-![nog20 | full](http://cardamonchai.com/wp-content/uploads/2017/07/Bildschirmfoto-2017-07-07-um-18.25.42.png)
+<RemoteImage
+  alt="nog20"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-07-um-18.25.42.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-07-um-18.25.42.png__l.jpg"
+  loadingUrl="undefined" />
 
 Gestern Abend und heute Morgen wurde die Straße, in der wir wohnen, zerlegt. Von
 vermummten Gestalten. Mit Rauchbomben, Pyro, Feuerwerk, Wackersteinen, Hämmern
@@ -96,7 +108,13 @@ Rauch. Das Video, das wir gedreht haben, als der schwarze Block heute Morgen um
 sieben hier in Altona eintraf, erspare ich Euch an dieser Stelle. Alle, die
 Internet haben, wird es demnächst sowieso auf einem anderen Weg erreichen.
 
-![nog20](http://cardamonchai.com/wp-content/uploads/2017/07/unbenannt-91-640x853.jpg)
+<RemoteImage
+  alt="nog20"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-91__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-91__l.jpg"
+  loadingUrl="undefined" />
 
 Wie mein Tag heute gelaufen ist? Nun, ich bin nach einer kurzen Nacht aus dem
 Bett gefallen, habe mich fertig gemacht und wurde von meinem Mann in die Arbeit

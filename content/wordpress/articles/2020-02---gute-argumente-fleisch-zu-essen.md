@@ -95,7 +95,13 @@ schließlich übernommen habe.
 **Anne:** Was sind Eure Hauptthemen? Geht es nur um Tierschutz/Veganismus, oder
 gibt es auch andere Bereiche, über die Ihr berichtet?
 
-![unstumm | full](http://cardamonchai.com/wp-content/uploads/2020/02/csDUAC3N-250x250.jpeg "Hendrik von Unstumm Film. Bild: Unstumm Film")
+<RemoteImage
+  alt="unstumm"
+  size="full"
+  title="Hendrik von Unstumm Film. Bild: Unstumm Film"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_csDUAC3N-250x250.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_csDUAC3N-250x250.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Hendrik:** Es geht um Veränderung. Das sagt ja auch schon der Name. Unstumm
 steht für "Gehör verschaffen". Ob sich immer alles um Tierrechte drehen wird,
@@ -187,7 +193,13 @@ er für Dich, Alice?
 
 ## "'Unstumm' bedeutet Lust auf Veränderung und Widerstand"
 
-![unstumm-film | full](http://cardamonchai.com/wp-content/uploads/2020/02/10923249_921232874556238_959193218667817530_n-250x250.jpg "Alice von Unstumm Film. Bild: Unstumm Film")
+<RemoteImage
+  alt="unstumm-film"
+  size="full"
+  title="Alice von Unstumm Film. Bild: Unstumm Film"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10923249_921232874556238_959193218667817530_n-250x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10923249_921232874556238_959193218667817530_n-250x250__l.jpg"
+  loadingUrl="undefined" />
 
 **Alice:** Hendriks Begeisterung gegenüber meinem Vorschlag, uns "Unstumm Film"
 zu nennen, hielt sich zu Anfang noch sehr in Grenzen. Der Name ist eben schon
@@ -281,7 +293,13 @@ Menschheit den Tieren auf Dauer nachhaltig respektvoller begegnen wird?
 
 ## "Ohne Aufklärung kann es keinen Wandel geben"
 
-![unstumm | full](http://cardamonchai.com/wp-content/uploads/2020/02/megaphone_profilbild-248x250.jpg "Unstumm Film. Bild: Unstumm Film")
+<RemoteImage
+  alt="unstumm"
+  size="full"
+  title="Unstumm Film. Bild: Unstumm Film"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_megaphone_profilbild-248x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_megaphone_profilbild-248x250__l.jpg"
+  loadingUrl="undefined" />
 
 **Hendrik:** Absolut! Ohne Aufklärung kann kein gesellschaftlicher Wandel
 stattfinden. Ich bin davon überzeugt, das sich für die Tiere in den nächsten

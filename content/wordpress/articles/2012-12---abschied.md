@@ -90,7 +90,13 @@ Arbeitsschuhe, streifte den dicken grünen Bundeswehrpulli über und ließ die
 Wohnungstür hinter sich ins Schloss fallen. Es war sehr kalt an diesem Morgen,
 schon im Hausflur konnte er seinen Atem sehen.
 
-![599460_450404824981652_1788614199_n1 | full](http://cardamonchai.files.wordpress.com/2012/12/599460_450404824981652_1788614199_n1.jpg)
+<RemoteImage
+  alt="599460_450404824981652_1788614199_n1"
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/12/599460_450404824981652_1788614199_n1.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/12/599460_450404824981652_1788614199_n1.jpg"
+  loadingUrl="undefined" />
 
 _Um halb acht stieg sie aus ihrem kleinen grünen Wagen. Sie hatte sich einen Tag
 Urlaub genommen und bei ihrer Freundin übernachtet. Ihm hatte sie gesagt, sie

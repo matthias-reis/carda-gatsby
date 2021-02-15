@@ -180,6 +180,12 @@ Soundtrack."
 
 <iframe src="https://open.spotify.com/embed/playlist/4t6teMeF1I5dTDWBxov5pl" width="300" height="380" frameborder="0"></iframe>
 
-![12-songs-september-pinterest | large](http://cardamonchai.com/wp-content/uploads/2019/08/122-520x780.png)
+<RemoteImage
+  alt="12-songs-september-pinterest"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_122.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_122.png__l.jpg"
+  loadingUrl="undefined" />
 
   

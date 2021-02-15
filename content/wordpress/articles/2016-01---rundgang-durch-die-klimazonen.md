@@ -32,7 +32,13 @@ subTitle: Schaugewächshäuser bei Planten un Blomen
   
 ---
 
-![Klimazonen](http://cardamonchai.com/wp-content/uploads/2016/01/23738835919_9011258744_z-640x427.jpg)
+<RemoteImage
+  alt="Klimazonen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23738835919_9011258744_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23738835919_9011258744_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Was das neue Jahr mit Klimazonen zu tun hat? Ich erkläre es Euch.**
 

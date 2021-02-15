@@ -67,7 +67,13 @@ Dadurch kann man ganz nach Figurtyp und persönlichen Vorzügen kombinieren.
 
 ## Verschiedene Tops und Höschen
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2018/06/42533727991_67d70a3cb6_z-400x300.jpg)
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42533727991_67d70a3cb6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42533727991_67d70a3cb6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Zur Auswahl stehen die Tops "Free", die hohe Stabilität für alle Strand- und
 Wassersportarten bieten sollen, "Strong", welche stärkste Halt bieten, sowie
@@ -85,7 +91,13 @@ variablen Anpassung entlastet den Nacken: Auf Bindebänder wurde verzichtet.
 
 ## Inaska produziert fair in Portugal
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2018/06/27662943337_e6554c84dc_z-400x300.jpg)
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_27662943337_e6554c84dc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_27662943337_e6554c84dc_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Stoff, aus dem die Bikinis hergestellt werden, besteht zu 78 Prozent aus
 recyceltem Polyamid (ECONYL® Garn). Hinzu kommen 22 Prozent Elasthan für die
@@ -100,7 +112,13 @@ Verpackungsmaterial ist recycelt und kann wiederverwendet werden.
 
 ## Mein Test
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2018/06/41631456165_f9851efcbe_z-400x300.jpg)
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41631456165_f9851efcbe_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41631456165_f9851efcbe_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das hat mein Test ergeben:
 
@@ -119,7 +137,13 @@ schwarz) entschieden.
 
 ## Umweltfreundlich verpackt und schnell verschickt
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2018/06/42533738911_8847fcdeb6_z-400x300.jpg)
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42533738911_8847fcdeb6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42533738911_8847fcdeb6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bereits zwei Tage nach meiner Bestellung kam das platzsparend verpackte Paket
 nach freundlicher persönlicher Beratung per E-Mail bei mir an. Zum Bikini gab es
@@ -139,7 +163,13 @@ Beides glänzt nämlich durch Nichtanwesenheit, was ich sehr begrüße.
 
 ## Passt gut
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2018/06/41631467815_c72362e389_z-400x300.jpg)
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41631467815_c72362e389_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41631467815_c72362e389_z__l.jpg"
+  loadingUrl="undefined" />
 
 Was mich wirklich überrascht hat: Oberteil und Hose saßen gleich auf Anhieb
 perfekt und ich musste nichts umtauschen. Für mich ist das eine echte Premiere:
@@ -153,7 +183,13 @@ irgendwo rumzuppeln zu müssen, weil ja was verrutschen könnte.
 
 ## Frei schwimmen ohne Druck im Nacken
 
-![Inaska](http://cardamonchai.com/wp-content/uploads/2018/06/41631463225_10ce673721_z-400x300.jpg)
+<RemoteImage
+  alt="Inaska"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41631463225_10ce673721_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41631463225_10ce673721_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich fühle mich beim Schwimmen ganz frei. Und das ohne das eingesperrte Gefühl,
 dass ich von Badeanzügen bekomme oder die Kopfschmerzen und den Druck im Nacken,

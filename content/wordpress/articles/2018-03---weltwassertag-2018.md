@@ -49,7 +49,13 @@ Der Weltwassertag steht jedes Jahr unter einem bestimmten Motto.
 
 ## Natürliche Wasserspeicher nutzen
 
-![Weltwassertag](http://cardamonchai.com/wp-content/uploads/2017/03/WWD-GENERIQ-CMJN_ger_2017_square-01-640x626.png)
+<RemoteImage
+  alt="Weltwassertag"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_WWD-GENERIQ-CMJN_ger_2017_square-01.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_WWD-GENERIQ-CMJN_ger_2017_square-01.png__l.jpg"
+  loadingUrl="undefined" />
 
 2018 soll für ein stärkeres Bewusstsein für die Berücksichtigung naturnaher und
 natürlicher Wasserspeicher geworben werden. Zu den natürlichen Wasserspeichern
@@ -67,7 +73,13 @@ Weltwassertag abzuhalten und ihn bekannt zu machen.
 
 ## Wasser sparen - Tipps weitergeben!
 
-![Weltwassertag](http://cardamonchai.com/wp-content/uploads/2017/03/16280045135_1e37efae08_z-640x427.jpg "Überschwemmung in Sri Lanka")
+<RemoteImage
+  alt="Weltwassertag"
+  size="medium"
+  title="Überschwemmung in Sri Lanka"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_16280045135_1e37efae08_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_16280045135_1e37efae08_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch, wenn sie für viele von uns vielleicht schon fester Bestandteil des
 Tagesablaufs sind: Es ist wichtig, Wasserspartipps zu beachten und an andere
@@ -94,7 +106,13 @@ verbraucht. Zum Vergleich: Ein durchschnittlicher Westeuropäer verbraucht am Ta
 rund 130 Liter Wasser. Wäschewaschen und Duschen eingeschlossen. Von der Unesco
 gibt es dazu eine grafische Darstellung:
 
-![ | full](http://cardamonchai.com/wp-content/uploads/2017/03/wasserverbrauch_nahrungsmitteln_unesco_ihe_instforwatereducation.jpg "Quelle: http://www.vegetarismus.ch/wasser/index.php")
+<RemoteImage
+  alt=""
+  size="full"
+  title="Quelle: http://www.vegetarismus.ch/wasser/index.php"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_wasserverbrauch_nahrungsmitteln_unesco_ihe_instforwatereducation__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_wasserverbrauch_nahrungsmitteln_unesco_ihe_instforwatereducation__l.jpg"
+  loadingUrl="undefined" />
 
 Hinzu kommt, dass in den reichen Industrieländern Lebensmittel im Überfluss
 produziert werden. Rund 30 Prozent der weltweit hergestellten Lebensmittel

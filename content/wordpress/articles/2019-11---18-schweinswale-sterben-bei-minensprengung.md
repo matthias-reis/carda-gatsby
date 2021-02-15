@@ -47,7 +47,13 @@ Leben. Das wurde vor Kurzem bekannt.
 
 ## Sprengung im Schutzgebiet
 
-![Schweinswale](http://cardamonchai.com/wp-content/uploads/2019/11/schweinswale-ecomare-Sytske-dijksen-400x266.jpg "Schweinswale. Bild: harbour porpoises Michael & Jose in 2012, Ecomare")
+<RemoteImage
+  alt="Schweinswale"
+  size="medium"
+  title="Schweinswale. Bild: harbour porpoises Michael &amp; Jose in 2012, Ecomare"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_schweinswale-ecomare-Sytske-dijksen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_schweinswale-ecomare-Sytske-dijksen__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt lagen noch 42 britische Seeminen aus dem Ersten Weltkrieg im
 baltischen Meer - ausgerechnet innerhalb einer Schutzzone auf dem Grund des

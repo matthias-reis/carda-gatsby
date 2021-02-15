@@ -52,7 +52,13 @@ etwas anderes hinein, verschickt es und so weiter... Das klingt fast ein
 bisschen romantisch, wenn man so drüber nachdenkt und ist vor allem eins:
 Nachhaltig.**
 
-![RePack](http://cardamonchai.com/wp-content/uploads/2018/05/27662416557_4708d44f5f_z-400x300.jpg)
+<RemoteImage
+  alt="RePack"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_27662416557_4708d44f5f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_27662416557_4708d44f5f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das Schöne ist: Das ist keine Utopie mehr. Die unkaputtbaren Versandtaschen zum
 immer und immer wieder verschicken gibt es wirklich. Und wer hat sie erfunden?
@@ -70,7 +76,13 @@ werden.
 
 ## Den CO2-Ausstoß um bis zu 80 Prozent verringern
 
-![RePack](http://cardamonchai.com/wp-content/uploads/2018/05/40724900670_d45ff4df6f_z-400x300.jpg)
+<RemoteImage
+  alt="RePack"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40724900670_d45ff4df6f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40724900670_d45ff4df6f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das Beste am RePack-Konzept ist, dass sich damit der CO2-Ausstoß für den Versand
 bis zu 80 Prozent verringern lässt, da einfach kein Müll mehr anfällt. Nicht
@@ -96,7 +108,13 @@ meine Kamera bestellt habe.
 
 ## RePack auf die Reise schicken
 
-![RePack](http://cardamonchai.com/wp-content/uploads/2018/06/41810312564_aed1f76163_z-400x300.jpg)
+<RemoteImage
+  alt="RePack"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41810312564_aed1f76163_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41810312564_aed1f76163_z__l.jpg"
+  loadingUrl="undefined" />
 
 Dabei ist mir noch ein weiterer Clou aufgefallen: Wenn man das RePack nach dem
 Auspacken flach zusammenfaltet und mit dem angebrachten Klettband verschließt,

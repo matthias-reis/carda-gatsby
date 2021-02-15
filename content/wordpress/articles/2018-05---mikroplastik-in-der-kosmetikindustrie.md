@@ -53,7 +53,13 @@ ein möglichst vollständiges Bild der Lage zu zeichnen.
 
 ## Zwei Arten von Mikroplastik
 
-![Mikroplastik](http://cardamonchai.com/wp-content/uploads/2018/05/soap-dispenser-2337697_640-400x252.jpg)
+<RemoteImage
+  alt="Mikroplastik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_soap-dispenser-2337697_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_soap-dispenser-2337697_640__l.jpg"
+  loadingUrl="undefined" />
 
 Laut Online-Enzyklopädie bezeichnet man als Mikroplastik kleine
 Kunststoffteilchen mit einer Größe von unter fünf Millimetern Durchmesser. Das
@@ -102,7 +108,13 @@ Sandra Schötter, Meeresbiologin bei Greenpeace berichtete gegenüber ARD:
 
 ## Rund 250 Kunststoffe in der Kosmetikindustrie
 
-![Mikroplastik](http://cardamonchai.com/wp-content/uploads/2018/05/safety-net-3289548_640-400x266.jpg)
+<RemoteImage
+  alt="Mikroplastik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_safety-net-3289548_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_safety-net-3289548_640__l.jpg"
+  loadingUrl="undefined" />
 
 Die festen Kunststoffe werden also zwar inzwischen nach und nach durch Stoffe
 ersetzt, die sich schneller auflösen (z. B. Carnaubawachs, Reiswachs,

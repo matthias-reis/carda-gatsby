@@ -53,7 +53,13 @@ Toilette oder die Küchentheke stellen.
 
 ## Mein besonderer Tipp:
 
-![lufterfrischer](http://cardamonchai.com/wp-content/uploads/2019/03/2019-03-07-diy-lufterfrischer-1-400x300.jpg "Raumduft einfach selbst herstellen")
+<RemoteImage
+  alt="lufterfrischer"
+  size="medium"
+  title="Raumduft einfach selbst herstellen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-diy-lufterfrischer-1__l.jpg"
+  loadingUrl="undefined" />
 
 Saugt eine Portion Lufterfrischer mit Eurem Staubsauger auf. Jedes Mal, wenn Ihr
 dann mit dem Ding Eure Runden durch die Wohnung dreht, hinterlasst Ihr eine

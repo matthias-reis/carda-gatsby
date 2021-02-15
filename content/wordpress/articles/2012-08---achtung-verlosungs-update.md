@@ -61,7 +61,13 @@ meines Vertrauens zur Verfügung gestellt. Es handelt sich dabei um wirklich
 heiße, ausgewählte Teile. Das komplette [Gewinnspiel](//?s=verlosung) findet Ihr
 [&gt;HIER UNTER DIESEM LINK&lt;](//?s=verlosung).
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg "[ ](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg)  Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!")
+<RemoteImage
+  alt=""
+  size="full"
+  title="[ ](http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg)  Offizelles Burg Herzberg Festival T-Shirt zu gewinnen!"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/08/mysticrot.jpg"
+  loadingUrl="undefined" />
 
 Nun gibt es etwas Tolles zu Berichten: Gunter vom
 [Herzberg-Festival-Veranstaltungsteam](http://www.burgherzberg-festival.de/)
@@ -89,6 +95,12 @@ Das komplette Gewinnspiel findet Ihr [HIER UNTER DIESEM LINK](//?s=verlosung)
 
 ♥Make love Work♥
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/08/Herzberg-Flyer-640x897.jpg)
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg"
+  loadingUrl="undefined" />
 
   

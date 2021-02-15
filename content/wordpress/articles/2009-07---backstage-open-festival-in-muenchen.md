@@ -43,7 +43,13 @@ haben sie für Oktober angekündigt. Wer schonmal reinhören möchte, kann dies 
 der [myspace-Seite](http://www.myspace.com/ennobunger) der Band, oder auf der
 offiziellen [Bandseite](http://www.ennobunger.de/) tun.
 
-![Enno Bunger](http://cardamonchai.com/wp-content/uploads/2009/07/9825441026_d0361ee00d_z-640x480.jpg)
+<RemoteImage
+  alt="Enno Bunger"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_9825441026_d0361ee00d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_9825441026_d0361ee00d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Hauptacts des Abends waren ANAJO aus Augsburg und SLUT aus Ingolstadt.
 

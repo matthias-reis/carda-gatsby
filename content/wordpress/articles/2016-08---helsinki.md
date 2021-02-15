@@ -34,7 +34,13 @@ subTitle: Schönheit an der Ostsee
   
 ---
 
-![Helsinki](http://cardamonchai.com/wp-content/uploads/2016/08/28880459596_565382f28a_z.jpg "In Helsinki leben zahlreiche Möwen")
+<RemoteImage
+  alt="Helsinki"
+  size="medium"
+  title="In Helsinki leben zahlreiche Möwen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28880459596_565382f28a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28880459596_565382f28a_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Wie versprochen, geht es heute mit meiner kleinen Finnland-Reihe weiter. Nach
 unserer [Überfahrt](/2016/07/sommer-auf-der-ostsee-travemuende-helsinki/) von

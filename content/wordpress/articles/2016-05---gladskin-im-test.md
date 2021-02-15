@@ -35,7 +35,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (86:32)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (104:32)"
 thumbnailId: "14915"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_27361046801_01f643209d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_27361046801_01f643209d_z__l.jpg
@@ -44,10 +44,16 @@ subTitle: Vegane Pflege bei Rosacea
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (86:32)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (104:32)
 
 <!--
-![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27398831986_8557c0a6c2_z-640x427.jpg "Gladskin im Test")
+<RemoteImage
+  alt="Gladskin"
+  size="medium"
+  title="Gladskin im Test"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398831986_8557c0a6c2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398831986_8557c0a6c2_z__l.jpg"
+  loadingUrl="undefined" />
 
 _Werbung\*_
 
@@ -97,11 +103,23 @@ noch dünner macht. Ich möchte sie auch nicht mehr verwenden, da sie nicht veg
 ist. Außerdem brauche ich jedes Mal ein neues Rezept vom Arzt für eine neue Tube
 und das kann ziemlich nervig sein.
 
-![gladskin | full](http://cardamonchai.com/wp-content/uploads/2016/05/Bildschirmfoto-2016-05-23-um-18.20.36.png)
+<RemoteImage
+  alt="gladskin"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-23-um-18.20.36.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-23-um-18.20.36.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Beim Hautarzt werden keine Tests gemacht
 
-![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27398828946_0dbf772469_z-640x427.jpg "Post von Gladskin")
+<RemoteImage
+  alt="Gladskin"
+  size="medium"
+  title="Post von Gladskin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398828946_0dbf772469_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398828946_0dbf772469_z__l.jpg"
+  loadingUrl="undefined" />
 
 Rosacea scheint auch unter Ärzten wenig interessant zu sein oder einfach noch
 nicht wirklich erforscht. Es werden keine Tests gemacht (Es ist zwar ein
@@ -268,7 +286,13 @@ Steffi O.
 
 ## Erster Tag
 
-![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27398849606_28a591e01c_z.jpg "Hautgel von Gladskin")
+<RemoteImage
+  alt="Gladskin"
+  size="medium"
+  title="Hautgel von Gladskin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398849606_28a591e01c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398849606_28a591e01c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Zwei Tage später finde ich einen Umschlag mit dem Gladskin Logo im Briefkasten.
 Neugierig öffne ich ihn sofort. Wie versprochen, liegen zwei Produkte von
@@ -298,7 +322,13 @@ und abends.
 
 **Zweiter Tag**
 
-![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27156272160_92737b61ef_z-640x427.jpg "Creme von Gladskin")
+<RemoteImage
+  alt="Gladskin"
+  size="medium"
+  title="Creme von Gladskin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27156272160_92737b61ef_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27156272160_92737b61ef_z__l.jpg"
+  loadingUrl="undefined" />
 
 Am Morgen spannt meine Haut etwas. In der Nacht habe ich kein unangenehmes
 Brennen gespürt, wie sonst bei einem Schub mit anderen Pflegeprodukten. Die
@@ -332,7 +362,13 @@ Gel ohne die Creme auf. Jetzt wieder drei Mal täglich.
 
 ## Zehnter Tag
 
-![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27432883125_04f4ae759f_z-640x427.jpg "Hilft bei Rosacea")
+<RemoteImage
+  alt="Gladskin"
+  size="medium"
+  title="Hilft bei Rosacea"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27432883125_04f4ae759f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27432883125_04f4ae759f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die letzten fünf Tage habe ich das Gel ohne die Creme aufgetragen. Es sind
 einige Pickel dazu gekommen, allerdings vermute ich, dass die definitiv dem
@@ -360,7 +396,13 @@ steht
 > bis sechs Wochen dauern, bevor Rötungen, kleine Beulen und Pusteln sichtbar
 > zurückgehen.
 
-![Gladskin](http://cardamonchai.com/wp-content/uploads/2016/05/27156283280_004ef42a46_z.jpg "Bei mir hat es geholfen")
+<RemoteImage
+  alt="Gladskin"
+  size="medium"
+  title="Bei mir hat es geholfen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27156283280_004ef42a46_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27156283280_004ef42a46_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bei mir haben die Symptome schon nach kurzer Zeit nachgelassen und mein Hautbild
 hat sich verbessert. Für mich ein Zeichen dafür, dass bei mir das

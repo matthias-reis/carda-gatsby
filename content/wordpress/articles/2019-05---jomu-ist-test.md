@@ -52,7 +52,13 @@ Arzt 30 Kilo zu viel und es ging ihm gar nicht gut. Das Übergewicht und der
 Stress im Alltag lasteten so stark auf seiner Seele, dass er irgendwann sogar an
 Selbstmord dachte. Eine dramatische Geschichte.
 
-![gerstengras](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-23-gerstengras-jomu-400x300.jpg "Gerstengras von Jomu")
+<RemoteImage
+  alt="gerstengras"
+  size="medium"
+  title="Gerstengras von Jomu"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu__l.jpg"
+  loadingUrl="undefined" />
 
 Eine Reihe glücklicher Umstände führten zum Glück dazu, dass es ihm heute mit
 Mitte 30 wieder besser geht. Sein Großvater war es, der ihm Kraft gab und ihm
@@ -70,7 +76,13 @@ auf die Suche nach einer Lösung zu machen.
 
 ## "Mein Freund Klaus hat mir Gerstengras empfohlen"
 
-![gerstengras](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-23-gerstengras-jomu-3-400x533.jpg "Gerstengras ist gesund")
+<RemoteImage
+  alt="gerstengras"
+  size="medium"
+  title="Gerstengras ist gesund"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-3__l.jpg"
+  loadingUrl="undefined" />
 
 Irgendwann stieß er beim Stöbern im Internet auf Gerstengras und begann sich
 immer weiter einzulesen. Im Laufe seiner Recherche wurde ihm bewusst, wie viele
@@ -106,7 +118,13 @@ inzwischen sogar einige Mitarbeiter\*innen.
 
 ## Bio-Gerstengras
 
-![gerstengras](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-23-gerstengras-jomu-4-400x300.jpg "Gerstengras in Bio-Qualität")
+<RemoteImage
+  alt="gerstengras"
+  size="medium"
+  title="Gerstengras in Bio-Qualität"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-4__l.jpg"
+  loadingUrl="undefined" />
 
 Das Gerstengras aus dem Hause Jomu ist Bio-zertifiziert, wird in Deutschland
 produziert und ist nachgewiesenermaßen glutenfrei. Als Verzehrempfehlung hat
@@ -137,7 +155,13 @@ Ihr könnt sie auf den Bildern bewundern.
 
 ## Zubereitung
 
-![gerstengras](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-23-gerstengras-jomu-2-400x533.jpg "Smoothie mit Gerstengras")
+<RemoteImage
+  alt="gerstengras"
+  size="medium"
+  title="Smoothie mit Gerstengras"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-23-gerstengras-jomu-2__l.jpg"
+  loadingUrl="undefined" />
 
 Alles zusammen in den Mixer geben und auf höchster Stufe zwei Minuten mixen.
 Cheers!

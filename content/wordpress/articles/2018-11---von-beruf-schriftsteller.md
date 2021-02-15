@@ -196,7 +196,13 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-![haruki-murakami | full](http://cardamonchai.com/wp-content/uploads/2018/11/PB060199-960x719.jpg)
+<RemoteImage
+  alt="haruki-murakami"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_PB060199__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_PB060199__l.jpg"
+  loadingUrl="undefined" />
 
 _\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in

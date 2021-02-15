@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:25)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:25)"
 thumbnailId: "14411"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26288299651_396f57d6c2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26288299651_396f57d6c2_z__l.jpg
@@ -38,13 +38,19 @@ subTitle: Ein Flarf-Gedicht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (22:25)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (28:25)
 
 <!--
 <blockquote>Je länger eine Operation dauert, umso risikoreicher ist sie.
 Niemand redet gerne über Risiken.
 
-![Manieren](http://cardamonchai.com/wp-content/uploads/2016/04/11631221176_b1b054c800_z.jpg)
+<RemoteImage
+  alt="Manieren"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_11631221176_b1b054c800_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_11631221176_b1b054c800_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wo sind meine Manieren? Aber meine Augen können Deine Schönheit nicht erkennen.
 

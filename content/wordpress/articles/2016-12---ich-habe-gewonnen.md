@@ -39,7 +39,13 @@ liebste @zauberisch hat eine wundervolle Handtasche aus dem Hause Matt&amp;Nat
 verlost. Da musste ich einfach mitmachen! Wie lange wünsche ich mir schon eines
 dieser wunderschönen Stücke!**
 
-![Matt&Nat](http://cardamonchai.com/wp-content/uploads/2016/12/31273625532_7fc9722131_z-640x427.jpg)
+<RemoteImage
+  alt="Matt&amp;Nat"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31273625532_7fc9722131_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31273625532_7fc9722131_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich konnte mein Glück kaum fassen, als ich letzten Montag auf Instagram klickte
 und auf dem Profil von [@zauberisch](https://zauberisch.wordpress.com/)  aka
@@ -73,7 +79,13 @@ Promo-Aktion verlost, sondern alles auf eigene Kosten eingekauft und verlost.
 
 ## Die Matt&amp;Nat hat doch noch ein Zuhause gefunden
 
-![Matt&Nat](http://cardamonchai.com/wp-content/uploads/2016/12/31382193756_825e798671_z-640x427.jpg)
+<RemoteImage
+  alt="Matt&amp;Nat"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31382193756_825e798671_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31382193756_825e798671_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wundervoll, sie freut sich total, dass ich mich so freue. Sie hatte sich die
 Tasche für eine Hochzeit gekauft und sie nie getragen, weil sie für ihren

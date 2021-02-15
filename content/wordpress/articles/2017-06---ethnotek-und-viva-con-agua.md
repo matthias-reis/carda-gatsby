@@ -49,7 +49,13 @@ subTitle: Mein neuer Rucksack ist da
 
 _Werbung - selbst gekauft\*_
 
-![Ethnotek](http://cardamonchai.com/wp-content/uploads/2017/06/35375058272_c8fd42b964_k-640x960.jpg)
+<RemoteImage
+  alt="Ethnotek"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35375058272_c8fd42b964_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35375058272_c8fd42b964_k__l.jpg"
+  loadingUrl="undefined" />
 
 **"Dein neuer Rucksack? Musst Du jetzt wirklich alles im Internet posten?" -
 Nein. Aber weil es sich bei diesem Rucksack um ein ganz besonderes Stück, besser
@@ -67,7 +73,13 @@ Würdigung und Weiterverbreitung verschiedener Kulturen beitragen.
 
 ## Ethnotek unterstützt Handwerker und Künstler
 
-![Ethnotek](http://cardamonchai.com/wp-content/uploads/2017/06/34733219753_20abdd994d_k-640x960.jpg)
+<RemoteImage
+  alt="Ethnotek"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34733219753_20abdd994d_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34733219753_20abdd994d_k__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn Ihr eine Tasche oder einen Rucksack aus aus dem Hause _Ethnotek_ kauft,
 unterstützt Ihr damit direkt Handwerker und Künstler in Ghana, Guatemala,
@@ -92,7 +104,13 @@ auch für bewusstes, faires Einkaufen sowie faire Produktion und fairen Handel.
 
 ## Viva con Agua grey - mein Rucksack
 
-![Ethnotek](http://cardamonchai.com/wp-content/uploads/2017/06/34701106804_d43fad1a24_k-640x960.jpg)
+<RemoteImage
+  alt="Ethnotek"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701106804_d43fad1a24_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701106804_d43fad1a24_k__l.jpg"
+  loadingUrl="undefined" />
 
 Nachdem ich zum Geburtstag ein Bisschen Extrageld geschenkt bekommen hatte, war
 es für mich endlich soweit: Ich bestellte meinen persönlichen Ethnotek Rucksack.
@@ -115,7 +133,13 @@ anzuschließen, um dort die Handwerkstraditionen seiner Familie weiterzuführen.
 
 ## Unter dem Hashtag #etktribe stehen die Weber in Kontakt mit den Endkunden
 
-![Ethnotek](http://cardamonchai.com/wp-content/uploads/2017/06/34701105364_50238d3615_k-640x960.jpg)
+<RemoteImage
+  alt="Ethnotek"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701105364_50238d3615_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34701105364_50238d3615_k__l.jpg"
+  loadingUrl="undefined" />
 
 Über den Hashtag **#etktribe** bleiben Suresh und Sanjay mit _Ethnotek_ Kunden
 auf der ganzen Welt verbunden. Von jedem verkauften Produkt ihrer Kollektion

@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Unterminated JSX contents (32:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (38:16)"
 thumbnailId: "23256"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Sri-Lanka-340__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Sri-Lanka-340__l.jpg
@@ -36,7 +36,7 @@ subTitle: Besser werden ist gut
   
 ---
 
-## unknown: Unterminated JSX contents (32:16)
+## unknown: Unterminated JSX contents (38:16)
 
 <!--
 **Immer mehr Magazine und Blogs titeln mit "Scheiß auf Selbstoptimierung", "Die
@@ -48,7 +48,13 @@ ist, wenn man an sich arbeitet. Das muss übrigens gar nichts mit krankhaftem
 Ehrgeiz, Silikon, Extrem-Waschbrettbauch oder gar Selbsthass zu tun haben. Lest
 selbst.
 
-![an-sich-zu-arbeiten](http://cardamonchai.com/wp-content/uploads/2019/01/Sri-Lanka-276-400x600.jpg)
+<RemoteImage
+  alt="an-sich-zu-arbeiten"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Sri-Lanka-276__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Sri-Lanka-276__l.jpg"
+  loadingUrl="undefined" />
 
 <ol>
     <li> __

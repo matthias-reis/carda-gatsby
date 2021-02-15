@@ -36,7 +36,13 @@ subTitle: Wanderung am Pfingstmontag
   
 ---
 
-![Boberger Niederung](http://cardamonchai.com/wp-content/uploads/2016/05/26506130043_84ea04dd6d_z.jpg)
+<RemoteImage
+  alt="Boberger Niederung"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26506130043_84ea04dd6d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26506130043_84ea04dd6d_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Am Pfingstmontag haben wir ein paar wunderschöne Stunden im Naturschutzgebiet
 Boberger Niederung verbracht. Unsere Wanderung führte uns durch das komplette

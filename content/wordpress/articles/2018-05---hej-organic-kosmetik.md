@@ -64,7 +64,13 @@ sollen eine wertvolle Kombination essentieller Fettsäuren liefern, 85 Prozent
 davon ungesättigt. Der Kaktus liefert von Natur aus Taurin, welches die
 Zellregeneration schützt und somit der Hautalterung vorbeugt.
 
-![Hej Organic](http://cardamonchai.com/wp-content/uploads/2018/05/28366155898_85332d094b_z-400x300.jpg)
+<RemoteImage
+  alt="Hej Organic"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366155898_85332d094b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Für alle Hej Produkte wird garantiert, dass sie zu 100 Prozent vegan und
 natürlich sind, frei von PEG, SLS, Parabenen, Paraffinen, Silikonen, Mineralöl,
@@ -100,7 +106,13 @@ entspannt sich.
 
 ## Hej Organic - Die Haut entspannt sich
 
-![Hej Organic](http://cardamonchai.com/wp-content/uploads/2018/05/41517648754_74eb8cf8a2_z-400x300.jpg)
+<RemoteImage
+  alt="Hej Organic"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41517648754_74eb8cf8a2_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Maske bleibt 10-15 Minuten auf dem Gesicht, bevor sie mit lauwarmem Wasser
 abgespült wird: Das Ergebnis: Kleine Rötungen sind zurückgegangen. Das Gesicht
@@ -130,7 +142,13 @@ müden Beine auf. Es wird mich aber auf jeden Fall auch auf unserer nächsten
 Reise begleiten. Genau wie die anderen Produkte, die sich in dem liebevoll in
 einem Jutetäschchen verpackten Travelbag befinden.
 
-![Hej Organic](http://cardamonchai.com/wp-content/uploads/2018/05/40431695480_0742f4f1e0_z-400x300.jpg)
+<RemoteImage
+  alt="Hej Organic"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431695480_0742f4f1e0_z__l.jpg"
+  loadingUrl="undefined" />
 
 Neben den Produkten findet man darin übrigens auch noch einen von diesen
 durchsichtigen Beuteln, die fürs Flugzeug vorgeschrieben sind, sowie einen

@@ -65,7 +65,13 @@ zu schön. Ein strahlender Herbsttag ist wie geschaffen für
 [Blogger\*innen, die nicht schon wieder die selben langweiligen Produktfotos machen möchten](/2018/05/bloggen-und-ich/).
 Findet Ihr nicht auch?
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/09/42844533840_b4183875ce_z-400x533.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42844533840_b4183875ce_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42844533840_b4183875ce_z__l.jpg"
+  loadingUrl="undefined" />
 
 Im Anschluss an das kleine Shooting nahm ich mir Zeit für den Test. Als alte
 Limonaden-Tante schicke ich eins gleich mal vorneweg: Erfrischend sind sie alle.
@@ -95,7 +101,13 @@ verflogen war. Die Switchel erinnern mich kein Bisschen an die
 Apfelessig-Mischungen, die mir eine frühere Kollegin ab und an zum Frühstück
 kredenzte. Ganz im Gegenteil: Sie schmecken sogar ziemlich interessant.
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/09/44604719792_8dfc509fa6_z-400x300.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44604719792_8dfc509fa6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44604719792_8dfc509fa6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Mein Favorit ist ganz klar "Himbeer-Minze", aber auch "Original" ist lecker.
 Beide Sorten sind leicht scharf und schmecken gekühlt am besten. Zu Beginn
@@ -117,7 +129,13 @@ zertifizierten Bio-Mineralwasser oder den zugesetzten Obst- und Gemüsesäften
 liegt? Ich weiß es nicht. Die Infused Water schmecken auf jeden Fall und werden
 sicher noch häufiger in unserem Getränkefach landen.
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/09/43745365935_449f64cbf2_z-400x300.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43745365935_449f64cbf2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43745365935_449f64cbf2_z__l.jpg"
+  loadingUrl="undefined" />
 
 Getestet habe ich alle drei Sorten: "Pink Grapefruit &amp; Rosmarin", "Gurke
 &amp; Zitrone" und "Orange &amp; Ingwer". Alle Varianten löschen wunderbar den
@@ -141,7 +159,13 @@ Ingwersaft und Orangenmark. Eine Flasche kostet circa 1,50 Euro.
 
 ## Juiced Water - auch was für Limonaden-Tanten
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/09/44654665171_ac7c605639_z-400x300.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44654665171_ac7c605639_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44654665171_ac7c605639_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wie schon erwähnt, bin ich eine alte Limonaden-Tante. Die Juiced Water kommen
 wohl meinem Suchtstoff am nächsten. Laut Voelkel sind sie besonders gut für
@@ -167,7 +191,13 @@ pro Flasche liegt bei rund 1,50 Euro, der Wasseranteil bei 80 bis 85 Prozent.
 
 ## In diesem Sinne: Prost!
 
-![Voelkel](http://cardamonchai.com/wp-content/uploads/2018/09/43745359195_e518cfcd46_z-400x300.jpg)
+<RemoteImage
+  alt="Voelkel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43745359195_e518cfcd46_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43745359195_e518cfcd46_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ihr seid auf der Suche nach leckeren veganen Getränke?
 [In meinem Artikel zum Thema "Versteckte tierische Inhaltsstoffe in Lebensmitteln"](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)

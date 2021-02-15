@@ -45,7 +45,13 @@ Wein? Bunte Gossip-Magazine? Nagellack? Pralinen? Ich denke, jede/r hat seine
 eigene Lieblingskombination, die es schafft, ihn/sie so richtig schön aus dem
 Alltag zu holen.**
 
-![Sonntag auf dem Sofa](http://cardamonchai.com/wp-content/uploads/2018/02/13542419453_ea42d21831_z-300x169.jpg "Gemütliche Kissen dürfen nicht fehlen")
+<RemoteImage
+  alt="Sonntag auf dem Sofa"
+  size="medium"
+  title="Gemütliche Kissen dürfen nicht fehlen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_13542419453_ea42d21831_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_13542419453_ea42d21831_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gerade jetzt in dieser Übergangszeit, wo draußen alles wunderbar grau ist, man
 nicht das Gefühl hat, etwas zu verpassen (Denn schließlich ist der Winter schon
@@ -75,7 +81,13 @@ kommt noch
 [die ultimative Lieblingsplaylist](/2017/12/die-ultimative-songliste-2017-musikalischer-jahresrueckblick/)
 auf die Ohren und das Relaxen kann losgehen.
 
-![Sonntag auf dem Sofa](http://cardamonchai.com/wp-content/uploads/2018/02/pulli-300x404.png "Gemütlicher Pulli von Armed Angels")
+<RemoteImage
+  alt="Sonntag auf dem Sofa"
+  size="medium"
+  title="Gemütlicher Pulli von Armed Angels"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_pulli.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_pulli.png__l.jpg"
+  loadingUrl="undefined" />
 
 Bei so einer gemütlichen Auszeit darf kleidungstechnisch natürlich nichts
 zwicken oder zwacken. Das Motto lautet deshalb: So bequem, wie möglich. Es darf
@@ -121,7 +133,13 @@ verfolgen.
 
 ## Kuscheln und aufs Wesentliche besinnen
 
-![Chili und Oskar](http://cardamonchai.com/wp-content/uploads/2013/09/9461961351_4c595b35d9_o.jpg "Chili und Oskar")
+<RemoteImage
+  alt="Chili und Oskar"
+  size="medium"
+  title="Chili und Oskar"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461961351_4c595b35d9_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9461961351_4c595b35d9_o__l.jpg"
+  loadingUrl="undefined" />
 
 Was bei dem ganzen Chi Chi natürlich nicht fehlen darf, sind meine zwei treuen
 Sofabewohner Oskar und die Chili. Die beiden Kater freuen sich jedes Mal ganz

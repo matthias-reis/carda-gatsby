@@ -42,7 +42,13 @@ ich nicht alles alleine wegnaschen wollte, durfte mein Mann mit mir gemeinsam
 testen. Sein Statement dazu: "Cooles Design! Die Schachteln und Beutelchen kann
 man wunderbar aufheben und kleine Sachen darin sammeln!"
 
-![lovechock](http://cardamonchai.com/wp-content/uploads/2019/06/lovechock-8-400x267.jpg)
+<RemoteImage
+  alt="lovechock"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-8__l.jpg"
+  loadingUrl="undefined" />
 
 ## Ein Paket von LovechockIm Paket enthalten waren zwei Päckchen "Lovechock Rocks Raw Chocolate" in der Sorte "Maulbeere und Hanfsaat", sowie ein kleines Beutelchen mit rohen Schokoladenbohnen.
 
@@ -58,7 +64,13 @@ Die Maulbeeren an sich kamen uns beiden leicht "rosinig" vor, wir mögen beide
 gerne Trockenfrüchte und auch Rohriegel, an diese hat uns der Geschmack ein
 Bisschen erinnert.
 
-![lovechock](http://cardamonchai.com/wp-content/uploads/2019/06/lovechock-6-400x267.jpg)
+<RemoteImage
+  alt="lovechock"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-6__l.jpg"
+  loadingUrl="undefined" />
 
 ## "Der Pilz der Unsterblichkeit"Der Reishi-Pilz soll das Immunsystem stärken, gut für die Leber sein und den Stoffwechsel anregen, in China wird er "Pilz der Unsterblichkeit" genannt und steht auf einer Stufe mit dem Ginseng.
 
@@ -71,7 +83,13 @@ empfunden, ich bilde mir ein, dass sie sehr gut gegen mittägliche Müdigkeit
 helfen. Wir werden den Rest mit in die Kaffeemühle geben und zusammen mit Kaffee
 aufbrühen, sicher geben sie ein interessantes Aroma ab.
 
-![lovechock](http://cardamonchai.com/wp-content/uploads/2019/06/lovechock-400x267.jpg)
+<RemoteImage
+  alt="lovechock"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock__l.jpg"
+  loadingUrl="undefined" />
 
 ## Nur fairer Kakao für LovechockGegründet wurde "Lovechock" von Laura de Nooijer. Die Niederländerin will mit ihrer Schokolade die Herzen der Menschen öffnen. Ihr selbst hat die Zubereitung und das Erfinden neuer Sorten lange Zeit Trost gespendet.
 
@@ -89,7 +107,13 @@ möglichst klein zu halten. So werden in ihrer Küche und im Büro beispielsweis
 nur ökologische Reinigungsmittel verwendet. Sämtliche Zulieferer sind zudem
 bio-zertifiziert.
 
-![lovechock](http://cardamonchai.com/wp-content/uploads/2019/06/lovechock-7-400x267.jpg)
+<RemoteImage
+  alt="lovechock"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-7__l.jpg"
+  loadingUrl="undefined" />
 
 Gesüßt werden die "Lovechock Rocks" mit **Kokosblütennektar** , sie sind
 glutenfrei und enthalten weder Milch noch Soja. Was meinem Mann und mir auch
@@ -104,7 +128,13 @@ eigene Form.
 
 Außerdem gibt es auch noch Riegel in den Sorten
 
-![lovechock](http://cardamonchai.com/wp-content/uploads/2019/06/lovechock-5-400x267.jpg)
+<RemoteImage
+  alt="lovechock"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-5__l.jpg"
+  loadingUrl="undefined" />
 
 - "Pur/Kakaosplitter"
 - "Mandel/Feige"

@@ -102,7 +102,13 @@ Pigs Pigs Pigs Pigs Pigs Pigs, Cocaine Piss, Floral, AK/DK, Raketkanon, Møl,
 Bats, Mammoth Weed Wizard Bastard, Cultdreams, Memory Of Elephants, Pun, Lost In
 The Riots, Conjorer, Yvette Young, Ithaca, Big Lad
 
-![arctangent-timetable-donnerstag | full](http://cardamonchai.com/wp-content/uploads/2019/05/arctangent-lineup-timetable.jpg "Der Donnerstag auf dem ArcTanGent 2019")
+<RemoteImage
+  alt="arctangent-timetable-donnerstag"
+  size="full"
+  title="Der Donnerstag auf dem ArcTanGent 2019"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_arctangent-lineup-timetable__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_arctangent-lineup-timetable__l.jpg"
+  loadingUrl="undefined" />
 
 ### Freitag
 
@@ -114,7 +120,13 @@ Frontierer, Zu, Sleep Token, Birds In Row, All The Best Tapes, Dags!, CLT DRP,
 Brutus, Colossal Squid, Palm Reader, Sithu Aye, Too Piste, Rad Pitt, Cattle,
 Hexcut
 
-![arctangent-timetable-freitag | full](http://cardamonchai.com/wp-content/uploads/2019/05/arctangent-lineup-timetable-1.jpg "Der Freitag auf dem ArcTanGent")
+<RemoteImage
+  alt="arctangent-timetable-freitag"
+  size="full"
+  title="Der Freitag auf dem ArcTanGent"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_arctangent-lineup-timetable-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_arctangent-lineup-timetable-1__l.jpg"
+  loadingUrl="undefined" />
 
 ### Samstag
 
@@ -126,7 +138,13 @@ Car Bomb, Elephant Gym, Azusa, Aming For Enrike, Gender Roles, Ogives Big Band,
 Doblecapa, Voronoi, Letters From The Colony, Puppy, Llnn, Amnt, Mids Fall, Sugar
 Horse
 
-![arctangent-timetable-samstag | full](http://cardamonchai.com/wp-content/uploads/2019/05/arctangent-lineup-timetable-2.jpg "Der Samstag auf dem ArcTanGent")
+<RemoteImage
+  alt="arctangent-timetable-samstag"
+  size="full"
+  title="Der Samstag auf dem ArcTanGent"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_arctangent-lineup-timetable-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_arctangent-lineup-timetable-2__l.jpg"
+  loadingUrl="undefined" />
 
 ## ArcTanGent - Kulinarik und Organisation
 

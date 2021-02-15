@@ -109,7 +109,13 @@ subTitle: Opium für's Volk
   
 ---
 
-![Foto: Gerd Altmann, pixelio.de](http://cardamonchai.com/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de-640x453.jpg "[ ](/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de.jpg)  Foto: Gerd Altmann, pixelio.de")
+<RemoteImage
+  alt="Foto: Gerd Altmann, pixelio.de"
+  size="medium"
+  title="[ ](/wp-content/uploads/2011/05/505947_r_k_b_by_gerd-altmann_pixelio-de.jpg)  Foto: Gerd Altmann, pixelio.de"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_505947_r_k_b_by_gerd-altmann_pixelio-de__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_05_505947_r_k_b_by_gerd-altmann_pixelio-de__l.jpg"
+  loadingUrl="undefined" />
 
 ## **"Frankfurt ist abgestiegen, Augsburg spielt in der ersten Bundesliga, Lena singt beim Grand Prix!"**
 

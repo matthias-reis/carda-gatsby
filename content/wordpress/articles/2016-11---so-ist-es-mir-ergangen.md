@@ -34,7 +34,13 @@ subTitle: Eine Seite aus dem Tagebuch
   
 ---
 
-![Tagebuch](http://cardamonchai.com/wp-content/uploads/2016/11/29611318381_0d404d3b27_z-1-640x427.jpg)
+<RemoteImage
+  alt="Tagebuch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29611318381_0d404d3b27_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Euch ist vielleicht aufgefallen, dass ich lange Zeit nicht besonders viel
 gebloggt habe.**

@@ -26,7 +26,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (40:15)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (58:15)"
 thumbnailId: "15156"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29611318381_0d404d3b27_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29611318381_0d404d3b27_z__l.jpg
@@ -35,10 +35,16 @@ subTitle: Das neue Welt Vegan Magazin ist da!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (40:15)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (58:15)
 
 <!--
-![Thomas D](http://cardamonchai.com/wp-content/uploads/2016/09/29692324905_60c6228021_z-640x427.jpg)
+<RemoteImage
+  alt="Thomas D"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29692324905_60c6228021_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29692324905_60c6228021_z__l.jpg"
+  loadingUrl="undefined" />
 
 **"Tja, Thomas, da ham' wir beide viel gemeinsam!" Thomas D ist Veganer aus
 Überzeugung. In der brandaktuellen Ausgabe des Welt Vegan Magazins könnt Ihr
@@ -51,7 +57,13 @@ ist nicht der einzige Grund, das Magazin käuflich zu erwerben. In der dritten
 Ausgabe dieses Jahr ist ab Seite 100 auch wieder ein Artikel aus meiner Feder zu
 finden.
 
-![Thomas D](http://cardamonchai.com/wp-content/uploads/2016/09/29611314481_006fcf112a_z-640x427.jpg)
+<RemoteImage
+  alt="Thomas D"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29611314481_006fcf112a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29611314481_006fcf112a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Hier im Blog habe ich Euch ja schon vom
 [Pangolin](/2016/05/pangolin-ein-vergessenes-schuppentier/) erzählt, das vom
@@ -67,7 +79,13 @@ die Menschen sich mit diesem Thema beschäftigen, auch wenn es zunächst weit
 entfernt scheint. Auf dem Schwarzmarkt werden derzeit mehr Geschäfte mit
 bedrohten Arten gemacht, als je zuvor.
 
-![Thomas D](http://cardamonchai.com/wp-content/uploads/2016/09/29692326545_fae12ce6bf_z-640x427.jpg)
+<RemoteImage
+  alt="Thomas D"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29692326545_fae12ce6bf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29692326545_fae12ce6bf_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auf Seite 52 teilt Gesundheits-Koryphäe Niko Rittenau sein Fachwissen und deckt
 unter anderem auf, warum Paleo nicht funktionieren kann. Ab Seite 28 gibt es

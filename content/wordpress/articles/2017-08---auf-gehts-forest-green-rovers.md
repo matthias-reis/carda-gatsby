@@ -51,7 +51,13 @@ Trainings- und Spieltagen ernähren sich die Spieler der Mannschaft
 
 ## Bei den Forest Green Rovers verzichtet man auf Fleisch und Chemie
 
-![Forest Green Rovers](http://cardamonchai.com/wp-content/uploads/2017/08/Forest_Green_Rovers_crest.svg_-300x300.png)
+<RemoteImage
+  alt="Forest Green Rovers"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Forest_Green_Rovers_crest.svg_.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Forest_Green_Rovers_crest.svg_.png__l.jpg"
+  loadingUrl="undefined" />
 
 Der Fußballplatz wird mit Regenwasser gewässert und bei den
 Spielfeldmarkierungen wird auf Chemie verzichtet. Auf dem Parkplatz davor findet

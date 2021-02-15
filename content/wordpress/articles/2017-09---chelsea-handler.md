@@ -54,7 +54,13 @@ Unbeteiligtes.
 
 ## "Hey, warum so finster?"
 
-![Chelsea Handler](http://cardamonchai.com/wp-content/uploads/2017/09/Chelsea-Handler-300x426.jpg)
+<RemoteImage
+  alt="Chelsea Handler"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Chelsea-Handler__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Chelsea-Handler__l.jpg"
+  loadingUrl="undefined" />
 
 Man starrt in der Bahn vor sich hin und plötzlich kommt jemand auf einen zu und
 sagt "Hey, warum so finster?". An der Bar im Club scheint es seit Jahrzehnten

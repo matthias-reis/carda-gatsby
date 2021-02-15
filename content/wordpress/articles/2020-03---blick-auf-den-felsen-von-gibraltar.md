@@ -43,7 +43,13 @@ inspirieren. Doch diese Bilder, die ich kurz vor Gibraltar aufgenommen habe,
 haben mich nachdenklich gestimmt. Wie weit das plötzlich alles entfernt zu sein
 scheint - nicht nur räumlich.
 
-![corona](http://cardamonchai.com/wp-content/uploads/2020/03/2019-06-24-gibraltar-5-400x300.jpg)
+<RemoteImage
+  alt="corona"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-5__l.jpg"
+  loadingUrl="undefined" />
 
 Die Welt ist aus den Fugen geraten. Im Moment ist an Reisen nicht zu denken. Die
 Corona-Krise hat uns fest im Griff. Alles ist anders. Matze und ich gehen nur
@@ -84,7 +90,13 @@ Zugriffe zu verbuchen, als vor dem Ausbruch. Das ist auch ganz normal: Jeder
 versucht, so viele Infos wie möglich über die Corona-Krise zu sammeln und nichts
 zu verpassen. Für andere Themen bleibt da kaum noch Zeit.
 
-![corona](http://cardamonchai.com/wp-content/uploads/2020/03/2019-06-24-gibraltar-4-400x300.jpg)
+<RemoteImage
+  alt="corona"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-4__l.jpg"
+  loadingUrl="undefined" />
 
 Für den Fall, dass Ihr Euch trotzdem auf meine Seite verirrt, möchte ich in den
 nächsten Tagen und Wochen gerne viel Positives mit Euch teilen. Fotos,

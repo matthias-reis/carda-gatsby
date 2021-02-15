@@ -31,7 +31,13 @@ subTitle: Ein Meer aus Sand und über uns die Sonne
   
 ---
 
-![Dünen von Maspalomas](http://cardamonchai.com/wp-content/uploads/2017/07/36128628935_5c3c57ed39_z.jpg)
+<RemoteImage
+  alt="Dünen von Maspalomas"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36128628935_5c3c57ed39_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36128628935_5c3c57ed39_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Verlässt man die Strandpromenade von Playa del Inglés in Richtung Süden und
 folgt dem Strand ein Stück, sieht man schon bald die beeindruckenden Dünen von

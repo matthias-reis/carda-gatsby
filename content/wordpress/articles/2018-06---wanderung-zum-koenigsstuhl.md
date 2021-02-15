@@ -59,7 +59,13 @@ funkelnde Beerlauchpflanzen und Scharen an Vögeln.
 
 ## Der Königsstuhl und seine Wälder
 
-![Königsstuhl](http://cardamonchai.com/wp-content/uploads/2018/06/40950562500_d6b2005d1a_z-400x533.jpg)
+<RemoteImage
+  alt="Königsstuhl"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40950562500_d6b2005d1a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40950562500_d6b2005d1a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Buchenwälder rund um den Königsstuhl gehören zum UNESCO-Welterbe. Sie sind
 von Menschenhand so gut wie unberührt und ein Überbleibsel einer riesigen

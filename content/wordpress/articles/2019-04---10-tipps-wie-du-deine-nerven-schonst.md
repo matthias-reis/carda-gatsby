@@ -38,7 +38,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:6)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (47:6)"
 thumbnailId: "23987"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_wildling-sandale-windlass-effekt__l.jpg
@@ -47,7 +47,7 @@ subTitle: <strong>Alltag für Fortgeschrittene</strong>
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (41:6)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (47:6)
 
 <!--
 **Ist das dieses Leben, von dem alle sprechen? Überall fliegen die Fetzen, es
@@ -85,7 +85,13 @@ ist. Vermutlich wirst Du feststellen, dass er\*sie nur seine Missgunst oder
 seine schlechte Laune loswerden wollte und Du baust automatisch Distanz zu
 seiner Kritik auf.
 
-![nerven](http://cardamonchai.com/wp-content/uploads/2019/04/nerven-1-1-400x533.jpg)
+<RemoteImage
+  alt="nerven"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_nerven-1-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_nerven-1-1__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn das alles nicht hilft, schütte jemandem Dein Herz aus (siehe Punkt 3) oder
 schreib es auf. Das hilft Dir, Deine Gedanken zu sammeln. Im Anschluss kannst Du

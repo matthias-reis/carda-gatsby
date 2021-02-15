@@ -48,7 +48,13 @@ Vorsicht: Die Dinger sind richtig schön süß und man ist nach dem ersten süch
 Aber sie sorgen auch für gute Laune und passen hervorragend zu Glühwein oder
 Grog.
 
-![Cranberry-Wanuss-Cookies](http://cardamonchai.com/wp-content/uploads/2017/12/Kalender-2-von-3-300x400.jpg "So sehen die Cranberry-Wanuss-Cookies vor dem Backen aus.")
+<RemoteImage
+  alt="Cranberry-Wanuss-Cookies"
+  size="medium"
+  title="So sehen die Cranberry-Wanuss-Cookies vor dem Backen aus."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-2-von-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-2-von-3__l.jpg"
+  loadingUrl="undefined" />
 
 ## Rezept für ein Blech
 
@@ -72,7 +78,13 @@ Schwierigkeitsgrad: Leicht
 
 ## Zubereitung
 
-![Cranberry-Wanuss-Cookies](http://cardamonchai.com/wp-content/uploads/2017/12/Kalender-1-von-3-300x400.jpg "Die Deko steht.")
+<RemoteImage
+  alt="Cranberry-Wanuss-Cookies"
+  size="medium"
+  title="Die Deko steht."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-1-von-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Kalender-1-von-3__l.jpg"
+  loadingUrl="undefined" />
 
 Als Erstes heizt Ihr den Backofen auf 180 Grad vor und legt Euer Backblech mit
 Backpapier aus. Dann schüttet ihr alle Zutaten bis auf die Nüsse in eine

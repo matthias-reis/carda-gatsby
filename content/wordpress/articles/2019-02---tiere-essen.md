@@ -33,7 +33,8 @@ date: 2019-02-25T10:56:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (167:12)"
 thumbnailId: "23614"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-1__l.jpg
@@ -42,6 +43,9 @@ subTitle: Buch von Jonathan Safran Foer
   
 ---
 
+## unknown: Unexpected token (167:12)
+
+<!--
 _Affiliate Link\*_
 
 **In meinem Bücherregal darf natürlich auch eine Ausgabe von Jonathan Safran
@@ -233,10 +237,16 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-![tiere-essen | large](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-17-cuxhaven-3-520x390.jpg '[ ](https://amzn.to/2EcpLXZ)  "Tiere essen" von Jonathan Safran Foer')
+<RemoteImage alt="tiere-essen" size="large" title="[ ](https://amzn.to/2EcpLXZ)
+"Tiere essen" von Jonathan Safran Foer"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-3__l.jpg"
+loadingUrl="undefined" />
 
 _\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
 meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+-->
 
   

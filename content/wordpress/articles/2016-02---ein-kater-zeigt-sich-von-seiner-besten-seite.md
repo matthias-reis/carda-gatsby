@@ -23,7 +23,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (37:48)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (43:48)"
 thumbnailId: "13902"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__l.jpg
@@ -32,10 +32,16 @@ subTitle: Chili posiert im Lampenlicht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (37:48)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (43:48)
 
 <!--
-![Kater Chili im Licht](http://cardamonchai.com/wp-content/uploads/2016/02/24601796815_b2a80497df_z-640x427.jpg "Kater Chili im Licht")
+<RemoteImage
+  alt="Kater Chili im Licht"
+  size="medium"
+  title="Kater Chili im Licht"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24601796815_b2a80497df_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24601796815_b2a80497df_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Nach meiner [letzten Bildegalerie](/2015/12/stubentiger/) von meinen beiden
 Katern Oskar und Chili vor ein paar Wochen, habe ich gleich ein paar Nachrichten

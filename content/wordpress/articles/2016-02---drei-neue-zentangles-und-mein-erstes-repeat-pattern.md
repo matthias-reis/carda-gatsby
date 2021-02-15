@@ -32,6 +32,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   noSubtitle: no h2 heading found - no sub title
+  invalidMdx: "unknown: Unexpected token (24:14)"
 thumbnailId: "14001"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24541644074_89e2b01576_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24541644074_89e2b01576_z__l.jpg
@@ -39,9 +40,18 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
   
 ---
 
+## unknown: Unexpected token (24:14)
+
+<!--
 ## Neue Bilder aus meinem Kelleratelier
 
-![Repeat Pattern](http://cardamonchai.com/wp-content/uploads/2016/02/24541647974_6227d718cc_z-640x640.jpg "Mandala klassisch schwarz weiß")
+<RemoteImage
+  alt="Repeat Pattern"
+  size="medium"
+  title="Mandala klassisch schwarz weiß"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24541647974_6227d718cc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24541647974_6227d718cc_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor Kurzem habe ich Euch von meinem Hobby, dem
 [Tangeln](/2016/02/zentangle-malen-als-kreative-prokrastination/) erzählt und
@@ -54,7 +64,11 @@ Bei einem habe ich mit einem Hintergrund aus Aquarellfarben experimentiert. Ihr
 seht es oben im Header. Eins hat die Form eines Mandalas und ist klassisch
 schwarz weiß.
 
-![Repeat Pattern](http://cardamonchai.com/wp-content/uploads/2016/02/25079081991_48665cac29_z-640x640.jpg 'Doodle mit "Teppichmuster"')
+<RemoteImage alt="Repeat Pattern" size="medium" title="Doodle mit
+"Teppichmuster""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25079081991_48665cac29_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25079081991_48665cac29_z__l.jpg"
+loadingUrl="undefined" />
 
 Das dritte hat eine Art "Teppichmuster" und beim vierten habe ich mal etwas für
 mich ganz Neues ausprobiert: Mein erstes **Repeat Pattern** ist gestern ganz
@@ -74,7 +88,13 @@ Habt Ihr sowas schon mal gemacht? Ich bin gespannt, was Ihr zu berichten habt!
 Ich komme ja gerade so richtig auf den Geschmack und das Malen macht mir jeden
 Tag noch mehr Spaß. Ich bin mal gespannt, was mir als nächstes einfällt.
 
-![Repeat Pattern | full](http://cardamonchai.com/wp-content/uploads/2016/02/25054073102_2296930126_z.jpg "Mein erstes Repeat Pattern")
+<RemoteImage
+  alt="Repeat Pattern"
+  size="full"
+  title="Mein erstes Repeat Pattern"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25054073102_2296930126_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25054073102_2296930126_z__l.jpg"
+  loadingUrl="undefined" />
 
 <iframe src="https://www.youtube.com/embed/SHpxy4bxpBU" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -82,5 +102,7 @@ Tag noch mehr Spaß. Ich bin mal gespannt, was mir als nächstes einfällt.
 möchtest:
 [Klick doch einfach mal hier](/2016/02/my-little-pony-zu-gewinnen-verlosung/) !
 Bis zum 4. März 2016 hast Du Zeit! Ich wünsche Dir viel Glück!
+
+-->
 
   

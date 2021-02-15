@@ -73,7 +73,13 @@ keine Milch drin. :-)
 
 ### Mürbeteig
 
-![Vegane Gemüse-Quiche](http://cardamonchai.com/wp-content/uploads/2017/01/32251663760_6f2db50b5c_k-640x853.jpg)
+<RemoteImage
+  alt="Vegane Gemüse-Quiche"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_32251663760_6f2db50b5c_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_32251663760_6f2db50b5c_k__l.jpg"
+  loadingUrl="undefined" />
 
 Das Mehl zusammen mit dem Kokosöl zu einem bröseligen Teig vermischen. Das
 Wasser hinzugeben und alles zusammen zu einer homogenen Masse verkneten.

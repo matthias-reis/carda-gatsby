@@ -64,7 +64,13 @@ werden können, damit alles reibungslos abläuft.
 
 ## Alles über die Tiertafel Hamburg
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image6-300x300.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image6__l.jpg"
+  loadingUrl="undefined" />
 
 Als das Teammitglied, das am längsten bei der Tiertafel Hamburg dabei ist,
 fungiert sie zudem auch als Hauptansprechpartnerin für die Sorgen und Nöte der
@@ -94,7 +100,13 @@ auch anbieten können.
 
 ## „Nach der Futterausgabe ist vor der Futterausgabe“
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image9-300x200.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image9__l.jpg"
+  loadingUrl="undefined" />
 
 Die Basis bleibt natürlich die Ernährung, im Speziellen die artgerechte
 Ernährung der Tiere. Es kommen zum Beispiel viele Diabetes-Katzen und Hunde mit
@@ -122,7 +134,13 @@ Katzenbetten sowie Spielzeug.
 
 ## „Wir schauen, wie es den Tieren geht“
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image10-300x200.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image10__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image10__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Um 15 Uhr geht die Ausgabe los. Meistens kommen ziemlich viele Leute
 gleich am Anfang. Man stellt sich an, für Neukunden wird dann eine Karteikarte
@@ -157,7 +175,13 @@ viele Tiere satt.
 
 ## „Uns ist es wichtig, Organisationen mit aufzufangen, die keine Unterstützung bekommen“
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image4-300x450.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image4__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Wenn es uns möglich ist, versorgen wir auch Obdachloseneinrichtungen
 mit Futter. Auch den Obdachlosenbus, der zweimal im Monat hier bei Karstadt in
@@ -205,7 +229,13 @@ wenig?
 
 ## „Man darf sich auf nichts verlassen“
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image5-300x225.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image5__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Man muss ganz klar sagen: Man darf sich auf nichts verlassen. Man muss
 immer bei der Sache bleiben und die Menschen daran erinnern, dass man noch da
@@ -244,7 +274,13 @@ etwas geringer.
 
 ## „Wir freuen uns über jede Form der Unterstützung“
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image7-300x405.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image7__l.jpg"
+  loadingUrl="undefined" />
 
 **Kara:** Vorrangig natürlich durch Futterspenden\*. Dazu kann man sich zum
 Beispiel im Vorfeld über den Wunschzettel auf unserer Homepage schlau machen,
@@ -278,7 +314,13 @@ die sozialen Medien nutzen.
 
 ## „Stillstand ist Rückstand“
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/10/image8-300x200.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image8__l.jpg"
+  loadingUrl="undefined" />
 
 Viele Tiertafler möchten im Grunde ihres Herzens einfach nur für die bedürftigen
 Menschen und Tiere da sein. Wir haben für uns entschieden, dass wir auf die

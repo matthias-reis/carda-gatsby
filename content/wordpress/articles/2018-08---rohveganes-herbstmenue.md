@@ -48,7 +48,13 @@ Kohl, Kürbissen und
 [Trockenfrüchten](https://www.keimling.de/trockenfruechte-nuesse.html?acc=598b3e71ec378bd83e0a727608b5db01&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 steht kurz bevor.
 
-![Rohveganes](http://cardamonchai.com/wp-content/uploads/2018/08/27956500381_6a15ebdb9d_z-400x400.jpg)
+<RemoteImage
+  alt="Rohveganes"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_27956500381_6a15ebdb9d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_27956500381_6a15ebdb9d_z__l.jpg"
+  loadingUrl="undefined" />
 
 .
 
@@ -91,7 +97,13 @@ schon die Grundlage für einen schmackhaften Quiche-Teig:
 
 ### Zubereitung
 
-![Rohveganes](http://cardamonchai.com/wp-content/uploads/2018/08/14660340635_232b34323b_z-400x400.jpg)
+<RemoteImage
+  alt="Rohveganes"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14660340635_232b34323b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14660340635_232b34323b_z__l.jpg"
+  loadingUrl="undefined" />
 
 bei 40 Grad rund sechs Stunden lang trocknen lassen.
 
@@ -151,7 +163,13 @@ Als Nachtisch gibt es dann einen schmackhaften Obstsalat
 
 ### Zubereitung
 
-![Rohveganes](http://cardamonchai.com/wp-content/uploads/2018/08/14417306289_474ba0459b_z-400x400.jpg)
+<RemoteImage
+  alt="Rohveganes"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14417306289_474ba0459b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_14417306289_474ba0459b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Den Apfel in feine Stückchen scheiden und sofort mit dem Saft der halben Zitrone
 übergießen. Die Brombeeren, die Heidelbeeren und die Kürbiskerne hinzugeben und
@@ -169,7 +187,13 @@ können so besser erhalten und dem Körper in größerer Menge zugeführt werden
 Lust auf was Warmes? Hier findet Ihr ein
 [tolles Rezept für eine herbstliche Zucchinisuppe](/2015/09/zucchinisuppe-herbstlich-vegan/).
 
-![null](//www.keimling.de/js/magestore/affiliateplus/banner.php?id=167&account_id=502&store_id=1)
+<RemoteImage
+  alt="null"
+  size="medium"
+  title=""
+  mediumUrl="//www.keimling.de/js/magestore/affiliateplus/banner.php?id=167&amp;account_id=502&amp;store_id=1"
+  largeUrl="//www.keimling.de/js/magestore/affiliateplus/banner.php?id=167&amp;account_id=502&amp;store_id=1"
+  loadingUrl="undefined" />
 
 [](https://www.keimling.de/catalogsearch/result/?q=Vitamix&acc=598b3e71ec378bd83e0a727608b5db01&bannerid=167&utm_source=dynamic&utm_medium=affiliate&utm_campaign=affiliate-programm)
 

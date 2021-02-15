@@ -43,7 +43,13 @@ subTitle: Das Line-up steht fest
 **Das Line-up für das diesjährige Dunk!festival steht fest und eins verspreche
 ich Euch: Das wird wieder ganz schön spannend!**
 
-![dunkfestival2019](http://cardamonchai.com/wp-content/uploads/2019/05/dunk2019-400x400.jpeg "Diese Bands spielen 2019 auf dem Dunk! (u.a.)")
+<RemoteImage
+  alt="dunkfestival2019"
+  size="medium"
+  title="Diese Bands spielen 2019 auf dem Dunk! (u.a.)"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_dunk2019.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_dunk2019.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Zwar fahren wir dieses Jahr mal nicht aufs Dunk, weil es zeitlich nicht klappt
 und wir, was Open Airs betrifft,
@@ -68,7 +74,13 @@ Osorezan, Sistemas Inestables, Jean D. L. &amp; Karen Willems, Statue, Baulta,
 Go March, Paint The Sky Red, Mantis, Am Fost La Munte Și Mi-A PlĂcut, Welcome To
 Holyland, Black Narcissus, Summit, Wanheda**
 
-![dunk-festival-2019-timetable | full](http://cardamonchai.com/wp-content/uploads/2019/05/Bildschirmfoto-2019-05-20-um-17.34.22-960x1196.png "So sieht der Timetable für das Dunk!festival dieses Jahr aus.")
+<RemoteImage
+  alt="dunk-festival-2019-timetable"
+  size="full"
+  title="So sieht der Timetable für das Dunk!festival dieses Jahr aus."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Bildschirmfoto-2019-05-20-um-17.34.22.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Bildschirmfoto-2019-05-20-um-17.34.22.png__l.jpg"
+  loadingUrl="undefined" />
 
 Der Timetable macht wieder ganz schön was her, oder? Ich bin jedenfalls schon
 etwas traurig, dass es dieses Mal nichts wird. Aber man kann eben nicht auf

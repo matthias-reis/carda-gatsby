@@ -53,7 +53,13 @@ Das erste schickte mir [@Ulle](http://thatgirlthere.wordpress.com/) heute über
 Twitter. Sie ist ein genau so großer Muse-Fan wie ich und musste sofort an mich
 denken, als sie es sah.
 
-![Videotipps auf cardamonchai.com](http://cardamonchai.files.wordpress.com/2012/10/videotipps2.jpg?w=300 "Videotipps auf cardamonchai.com")
+<RemoteImage
+  alt="Videotipps auf cardamonchai.com"
+  size="medium"
+  title="Videotipps auf cardamonchai.com"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/10/videotipps2.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/10/videotipps2.jpg?w=300"
+  loadingUrl="undefined" />
 
 Übrigens möchte ich an dieser Stelle nochmal bemerken, wie wundervoll ich es
 finde, wie viele musikalisch interessierte Leute man über so ein Weblog und auch

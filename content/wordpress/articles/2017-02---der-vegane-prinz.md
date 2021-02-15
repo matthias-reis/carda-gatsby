@@ -133,7 +133,13 @@ als Fan gewonnen, vielleicht wollt Ihr ihm ja auch folgen?
 Mehr erfahrt Ihr auf der Seite des National Observer. Dazu könnt Ihr einfach auf
 den Screenshot klicken.
 
-![Prinz Vegan | large](http://cardamonchai.com/wp-content/uploads/2017/02/Bildschirmfoto-2017-02-14-um-09.49.57-800x462.png)
+<RemoteImage
+  alt="Prinz Vegan"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-14-um-09.49.57.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-14-um-09.49.57.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://www.nationalobserver.com/2017/02/10/news/meet-vegan-saudi-prince-whos-turning-lights-jordan)
 

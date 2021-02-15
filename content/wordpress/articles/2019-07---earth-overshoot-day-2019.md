@@ -68,12 +68,24 @@ leben würden, wie es dem Standard bestimmter Länder entspricht. Bei den USA
 wären es 5, bei Deutschland 3, bei [England](/category/unterwegs/england/) 2,7
 und bei Spanien 2,5.
 
-![earth-overshoot-day-2019](http://cardamonchai.com/wp-content/uploads/2019/07/How_many_Earths_2019_German_update-medium-768x1261.jpg)
+<RemoteImage
+  alt="earth-overshoot-day-2019"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_How_many_Earths_2019_German_update-medium-768x1261__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_How_many_Earths_2019_German_update-medium-768x1261__l.jpg"
+  loadingUrl="undefined" />
 
 Weltweit finden am morgigen Earth Overshoot Day 2019 Veranstaltungen statt, um
 auf das Problem aufmerksam zu machen. So auch bei uns in Hamburg:
 
-![earth-overshoot-day-2019](http://cardamonchai.com/wp-content/uploads/2019/07/photo_2019-07-28_17-31-44-520x390.jpg)
+<RemoteImage
+  alt="earth-overshoot-day-2019"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-44__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-31-44__l.jpg"
+  loadingUrl="undefined" />
 
 Informiert Euch am besten direkt beim Global Footprint Network, was in Eurer
 Stadt los ist und schließt Euch den Demos und Vorträgen an. Je mehr Menschen
@@ -116,7 +128,13 @@ wirklich jedem\*r ans Herz legen. Es hilft sehr dabei, sich in Richtung
 nachhaltigerer Lebenswandel zu orientieren und das eigene Verhalten zu
 hinterfragen.
 
-![earth-overshoot-day-2019 | full](http://cardamonchai.com/wp-content/uploads/2019/07/photo_2019-07-28_17-36-23.jpg)
+<RemoteImage
+  alt="earth-overshoot-day-2019"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-36-23__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_photo_2019-07-28_17-36-23__l.jpg"
+  loadingUrl="undefined" />
 
 Schaubilder im Artikel / pictures in this article:
 [Global Footprint Network, overshootday.org](https://www.overshootday.org/newsroom/press-release-june-2019-german/)

@@ -42,7 +42,8 @@ date: 2019-03-19T14:31:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (24:68)"
 thumbnailId: "23787"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__l.jpg
@@ -51,6 +52,9 @@ subTitle: Illustriert von Jean-Jaques Sempé
   
 ---
 
+## unknown: Unexpected token (24:68)
+
+<!--
 _Affiliate Link\*_
 
 **Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein ganz besonderes
@@ -73,7 +77,12 @@ von Dorf zu Dorf, ohne dabei auch nur eine Atempause einzulegen.
 
 ## Das Rätsel um den aktiven Herrn Sommer
 
-![die-geschichte-von-herrn-sommer](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-400x533.jpg '[ ](https://amzn.to/2HvCs4m)  "Die Geschichte von Herrn Sommer" - eine Novelle von Patrick Süskind')
+<RemoteImage alt="die-geschichte-von-herrn-sommer" size="medium"
+title="[ ](https://amzn.to/2HvCs4m) "Die Geschichte von Herrn Sommer" - eine
+Novelle von Patrick Süskind"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer__l.jpg"
+loadingUrl="undefined" />
 
 Der Junge kommt dem Rästel um den aktiven Herrn nach und nach auf die Spur,
 erkennt dessen Einsamkeit und ist gebannt von der Tragik seines Daseins. Ganz
@@ -125,10 +134,17 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-![die-geschichte-von-herrn-sommer | full](http://cardamonchai.com/wp-content/uploads/2019/03/2019-13-19-die-geschichte-von-herrn-sommer-1-960x720.jpg '[ ](https://amzn.to/2HvCs4m)  "Die Geschichte von Herrn Sommer" - meine Empfehlung')
+<RemoteImage alt="die-geschichte-von-herrn-sommer" size="full"
+title="[ ](https://amzn.to/2HvCs4m) "Die Geschichte von Herrn Sommer" - meine
+Empfehlung"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-1__l.jpg"
+loadingUrl="undefined" />
 
 _\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in
 meinem Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+-->
 
   

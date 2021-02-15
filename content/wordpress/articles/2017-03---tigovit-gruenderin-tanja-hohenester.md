@@ -62,7 +62,13 @@ subTitle: <b></b><span class="s1">"Wir befinden uns mitten in einem Wandel"</spa
 mit seiner extrem hohen Dosierung an EGCG, das aus Grünem Tee gewonnen wird,
 aktiv freie Radikale ab und stärkt das Immunsystem.**
 
-![tigovit](http://cardamonchai.com/wp-content/uploads/2017/03/b2d461f3-75ed-498f-b170-d7cf49409a89-640x853.jpeg "Tanja stellt tigovit vor")
+<RemoteImage
+  alt="tigovit"
+  size="medium"
+  title="Tanja stellt tigovit vor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_b2d461f3-75ed-498f-b170-d7cf49409a89.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_b2d461f3-75ed-498f-b170-d7cf49409a89.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe es selbst an mir getestet und für gut befunden. Nachdem mein
 Testbericht bei Euch gut angekommen ist, gehe ich davon aus, dass Ihr genau wie
@@ -99,7 +105,13 @@ gekommen, die Kraft aus Grünem Tee zu nutzen?
 
 ## "Ich habe mich selbst mit Grünem Tee therapiert"
 
-![tigovit](http://cardamonchai.com/wp-content/uploads/2017/03/7d98184e-2e08-419c-bfbc-bec028431be7-640x736.jpeg "Tanja auf einer Messe")
+<RemoteImage
+  alt="tigovit"
+  size="medium"
+  title="Tanja auf einer Messe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_7d98184e-2e08-419c-bfbc-bec028431be7.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_7d98184e-2e08-419c-bfbc-bec028431be7.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Tanja:** Ich habe mich besonders auf die Zusammenarbeit mit Gynäkologen
 spezialisiert. Dabei geht es in erster Linie um das Thema Myome, sprich
@@ -197,7 +209,13 @@ anerkannt wird?
 
 ## "Ich arbeite auf der Grundlage wissenschaftlicher Daten"
 
-![tigovit](http://cardamonchai.com/wp-content/uploads/2017/03/9be1f28e-428d-4fda-ad8b-88d770fbf0db-640x853.jpeg "Tanja mit einem Kunden aus Mykonos")
+<RemoteImage
+  alt="tigovit"
+  size="medium"
+  title="Tanja mit einem Kunden aus Mykonos"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_9be1f28e-428d-4fda-ad8b-88d770fbf0db.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_9be1f28e-428d-4fda-ad8b-88d770fbf0db.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Tanja:** Ich arbeite komplett auf der Grundlage wissenschaftlicher Daten.
 Derzeit lasse ich eine Studie an der Charité durchführen, was für tigovit
@@ -299,7 +317,13 @@ Zu Tanjas Instagram-Album geht es
 
 [Hier findet Ihr die Homepage](https://tigovit.com/) von tigovit.
 
-![tigovit | full](http://cardamonchai.com/wp-content/uploads/2017/02/tigofit2.png)
+<RemoteImage
+  alt="tigovit"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_tigofit2.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Fotos:** Mit freundlicher Genehmigung von Tanja Hohenester
 

@@ -48,7 +48,13 @@ trotzdem nach wie vor. Auch nach 20 Sitzungen wachsen noch einige Härchen an
 Stellen, an denen ich keine haben möchte. Ob sie irgendwann ganz verschwinden
 werden, ist unklar, also heißt es weiter die Klinge zücken.
 
-![Boldking](http://cardamonchai.com/wp-content/uploads/2018/08/44172030492_21724b3653_z-400x300.jpg)
+<RemoteImage
+  alt="Boldking"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44172030492_21724b3653_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44172030492_21724b3653_z__l.jpg"
+  loadingUrl="undefined" />
 
 Dabei kann man eine ganz schöne Menge Müll produzieren. Das würde ich gerne in
 Zukunft vermeiden. Aber wie? Einige würden sicher jetzt zum  **Rasierhobel**
@@ -69,7 +75,13 @@ kann nicht so schnell zerbrechen, ist langlebig und landet somit erst später in
 der Mülltonne. Menschenskinder, was sind mir schon Nassrasierer in den Händen
 zerbröselt. Irgendwie scheinen die immer eine fiese Sollbruchstelle zu haben.
 
-![Boldking](http://cardamonchai.com/wp-content/uploads/2018/08/42412405780_2a81ba5a51_z-400x300.jpg)
+<RemoteImage
+  alt="Boldking"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42412405780_2a81ba5a51_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42412405780_2a81ba5a51_z__l.jpg"
+  loadingUrl="undefined" />
 
 Neben der robusten Bauart sind beim Boldking auch die Klingen anders, als bei
 Rasierern von anderen Herstellern. Durch ihre geschwungene Form sollen sie
@@ -87,7 +99,13 @@ bei Dauerbenutzung und Ganzkörperrasur, langlebig und können ganz leicht
 gewechselt werden. Im Lieferumfang war auch eine praktische Wandhalterung
 inbegriffen.
 
-![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B076PQLT7X)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
+  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
+  loadingUrl="undefined" />
 
 Auf unnötige Verpackung aus Plastik wurde bewusst verzichtet, der Boldking kommt
 in einem Karton. Im Gegensatz zu Rasierern gängiger Marken, die im Durchschnitt
@@ -99,7 +117,13 @@ Kulturbeutel und Boxershorts von Boldking zu kaufen.
 
 ## Maskuline Optik
 
-![](https://www.adcell.de/promotion/view/promoId/173067/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/173067/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/173067/slotId/80259"
+  loadingUrl="undefined" />
 
 Insgesamt ist das Outfit der Marke und damit auch die Homepage sehr maskulin.
 Für meinen Geschmack könnte sie etwas geschlechtsneutraler sein. Also bitte
@@ -112,7 +136,13 @@ schon
 [Rückenrasierer](https://www.adcell.de/promotion/click/promoId/173067/slotId/80259)
 !
 
-![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B076Q7C4LD)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076Q7C4LD"
+  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076Q7C4LD"
+  loadingUrl="undefined" />
 
 Insgesamt bin ich rundum zufrieden mit meinem Boldking. Mir gefällt die Optik,
 die Qualität überzeugt mich und das Rasurergebnis kann sich echt sehen lassen.
@@ -122,7 +152,13 @@ Empfehlung.
 [gallery type="rectangular" size="medium" link="none"
 ids="21842,21841,21840,21837,21836"]
 
-![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B076PQLT7X)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
+  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B076PQLT7X"
+  loadingUrl="undefined" />
 
 Online findet Ihr Boldking
 [hier](https://www.boldking.com/de?gclid=CjwKCAjwtvnbBRA5EiwAcRvnpnM0kMcWhsOzkva7IMEGUq7_mFi7JN46rYs9KL9Sy4NYs8tj7JEMjBoC3hoQAvD_BwE).

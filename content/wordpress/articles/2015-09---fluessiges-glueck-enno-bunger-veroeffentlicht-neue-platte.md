@@ -34,7 +34,13 @@ subTitle: So klingt die Vorauskopplung "Renn!"
   
 ---
 
-![Enno Bunger beim Backstage Open Festival in München 2009](http://cardamonchai.com/wp-content/uploads/2015/09/9825441026_d0361ee00d_z-1-640x480.jpg "Enno Bunger mit seiner Band beim Backstage Open Festival in München 2009")
+<RemoteImage
+  alt="Enno Bunger beim Backstage Open Festival in München 2009"
+  size="medium"
+  title="Enno Bunger mit seiner Band beim Backstage Open Festival in München 2009"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_9825441026_d0361ee00d_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_9825441026_d0361ee00d_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Enno Bunger begegnete mir zum ersten Mal auf dem Backstage Open Festival in
 München 2009. Seither habe ich den Musiker, das muss ich leider zugeben, ein

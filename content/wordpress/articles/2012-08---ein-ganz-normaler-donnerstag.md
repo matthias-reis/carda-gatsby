@@ -50,7 +50,13 @@ subTitle: Von Sommersonne, Gipfelkreuzen und QR- Codes
   
 ---
 
-![QR-Codes | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/08/248853_214502818571855_3833814_n-150x150.jpg "Ein Bild von einer tollen Party Anne 2009 oder so")
+<RemoteImage
+  alt="QR-Codes"
+  size="thumbnail"
+  title="Ein Bild von einer tollen Party Anne 2009 oder so"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_248853_214502818571855_3833814_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_248853_214502818571855_3833814_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Ich fliege in den Süden! Am 21. Oktober geht es los. Eine Woche Türkei mit
 [Hoochi](https://hoochi1107.wordpress.com/). Ich freue mich sehr. Jetzt kann das
@@ -73,7 +79,13 @@ habe ich treulose Tomate Euch kein Foto mitgebracht. Dafür habe ich aber noch
 bis spät in die Nacht an neuen Ideen gefeilt. Und als kleines Trostpflaster gibt
 es eben jetzt ein Bild von einer tollen Party.
 
-![QR-Codes](http://cardamonchai.com/wp-content/uploads/2012/08/img_20120809_103929-640x640.jpg "Die Stimmung und das Wetter sind am Gipfelkreuz angekommen.")
+<RemoteImage
+  alt="QR-Codes"
+  size="medium"
+  title="Die Stimmung und das Wetter sind am Gipfelkreuz angekommen."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120809_103929__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120809_103929__l.jpg"
+  loadingUrl="undefined" />
 
 Irgendwie erschreckend, wie Wetter und Stimmung _immer_ zusammenpassen. Wobei
 das Eine das Andere selbstverständlich niemals beeinflussen würde. Heute hat man
@@ -94,6 +106,12 @@ mein Blog zu erstellen. Er ist auf dem Bild zu sehen. Ich überlege ihn, für
 meine Visitenkarten zu verwenden. Wer auch gerne QR-Codes bauen möchte: Ihr
 könnt das ganz einfach [hier](http://goqr.me/de/) nachmachen._
 
-![QR-Codes | full](http://cardamonchai.com/wp-content/uploads/2012/08/p853a7ff47b5d43e12e5a130a9d32972da.png "cardaqr")
+<RemoteImage
+  alt="QR-Codes"
+  size="full"
+  title="cardaqr"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_p853a7ff47b5d43e12e5a130a9d32972da.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_p853a7ff47b5d43e12e5a130a9d32972da.png__l.jpg"
+  loadingUrl="undefined" />
 
   

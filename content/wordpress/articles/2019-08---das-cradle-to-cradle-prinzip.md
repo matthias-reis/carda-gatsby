@@ -48,7 +48,13 @@ dauerhaft in technischen Kreisläufen eingebunden werden.
 
 ## Vom Kreislauf zurück in den Kreislauf – das ist Cradle-to-Cradle
 
-![cradle-to-cradle](http://cardamonchai.com/wp-content/uploads/2019/08/cradle-to-cradle-3-400x266.jpg)
+<RemoteImage
+  alt="cradle-to-cradle"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-3__l.jpg"
+  loadingUrl="undefined" />
 
 Was zunächst ziemlich abstrakt klingt, ist es nicht. Im Grunde bedeutet es, dass
 innerhalb eines geschlossenen Kreislaufs Ressourcen weiterverwendet anstatt
@@ -68,7 +74,13 @@ Samen entstehen neue Bäume.
 
 ## Der Verein Cradle to Cradle e. V.
 
-![cradle-to-cradle | large](http://cardamonchai.com/wp-content/uploads/2019/08/cradle-to-cradle-1-520x276.jpg "Biologischer und technischer Zyklus. Grafik: Wikipedia Commons, Rex banditor")
+<RemoteImage
+  alt="cradle-to-cradle"
+  size="large"
+  title="Biologischer und technischer Zyklus. Grafik: Wikipedia Commons, Rex banditor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-1__l.jpg"
+  loadingUrl="undefined" />
 
 In Deutschland gibt es seit 2012 den gemeinnützigen Verein Cradle to Cradle e.
 V. [<sup>1</sup>](#1) Sein Ziel ist es, Cradle-to-Cradle in die Mitte der
@@ -78,7 +90,13 @@ Damit sollen die enormen ökologischen und ökonomischen Herausforderungen von
 heute und morgen gelöst werden – gesellschaftlicher und kultureller Wandel für
 eine nachhaltige Zukunft also.
 
-![cradle-to-cradle](http://cardamonchai.com/wp-content/uploads/2019/08/cradle-to-cradle-2-400x601.jpg)
+<RemoteImage
+  alt="cradle-to-cradle"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-2__l.jpg"
+  loadingUrl="undefined" />
 
 Der Cradle to Cradle e. V. wünscht sich, dass das Prinzip für die Menschen
 selbstverständlich wird. Um dieses Ziel zu erreichen, werden regelmäßig Vorträge
@@ -112,7 +130,13 @@ Part of Drees &amp; Sommer ursprünglich unter dem Namen EPEA Internationale
 Umweltforschung GmbH von keinem geringeren als Prof. Dr. Michael Braungart
 persönlich. 2019 erfolgte dann die Neugründung.
 
-![cradle-to-cradle](http://cardamonchai.com/wp-content/uploads/2019/08/cradle-to-cradle-4-400x266.jpg)
+<RemoteImage
+  alt="cradle-to-cradle"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle-4__l.jpg"
+  loadingUrl="undefined" />
 
 Seit 2010 ist eine C2C-Zertifizierung möglich. Der Cradle-to-Cradle certified
 Produktstandart bewertet die Kreislauffähigkeit, die Materialgesundheit, den

@@ -65,7 +65,13 @@ zwischen 45 und 48 Grad) ein echter Härtetest.
 
 ## Die Ampullenkur Age Protect Intensive Treatment
 
-![pflege-santaverde](http://cardamonchai.com/wp-content/uploads/2019/07/2019-06-23-santaverde-7-400x300.jpg "Die Ampullenkur")
+<RemoteImage
+  alt="pflege-santaverde"
+  size="medium"
+  title="Die Ampullenkur"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-7__l.jpg"
+  loadingUrl="undefined" />
 
 Zur Ampullenkur riet mir die liebe Caro von Santaverde im Vorfeld
 
@@ -96,7 +102,13 @@ Natriumlevulinat, Glucose, pflanzl. Emulgator, Natriumhydroxid, Zitronensäure,
 
 ## Die Age Protect Cream
 
-![pflege-santaverde](http://cardamonchai.com/wp-content/uploads/2019/07/2019-06-23-santaverde-9-400x300.jpg "Die Age Protect Creme")
+<RemoteImage
+  alt="pflege-santaverde"
+  size="medium"
+  title="Die Age Protect Creme"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-9__l.jpg"
+  loadingUrl="undefined" />
 
 Nach der Gesichtsreinigung trug ich abends die reichhaltige Age Protect Cream
 auf das Gesicht auf. Und was soll ich sagen? Ich bin begeistert von dieser
@@ -123,7 +135,13 @@ Anbau</small>
 
 ## Bodylotion Sensitive
 
-![pflege-santaverde](http://cardamonchai.com/wp-content/uploads/2019/07/2019-06-23-santaverde-4-400x300.jpg "Die Bodylotion Sensitive")
+<RemoteImage
+  alt="pflege-santaverde"
+  size="medium"
+  title="Die Bodylotion Sensitive"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-4__l.jpg"
+  loadingUrl="undefined" />
 
 Abends nach dem Duschen habe ich die Bodylotion Sensitive aufgetragen. Meine
 sonnenverwöhnte Haut nahm sie dankbar an. Sie zieht schnell ein, reizt die Haut
@@ -144,7 +162,13 @@ Natriumhydroxid, ätherische Öle. ⋆Aus kontrolliert biologischem Anbau</small
 
 ## Aloe Vera Gel Pur
 
-![pflege-santaverde](http://cardamonchai.com/wp-content/uploads/2019/07/2019-06-23-santaverde-6-400x300.jpg "Das Aloe Vera Gel Pur und die Bodylotion Sensitive")
+<RemoteImage
+  alt="pflege-santaverde"
+  size="medium"
+  title="Das Aloe Vera Gel Pur und die Bodylotion Sensitive"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-6__l.jpg"
+  loadingUrl="undefined" />
 
 Für Sonnenbrand-Notfälle hatte ich das Aloe Vera Gel Pur eingepackt. Tatsächlich
 hat es uns nicht erwischt, weil wir rundum auf starken Sonnenschutz gesetzt
@@ -171,7 +195,13 @@ biologischem Anbau</small>
 
 ## Gesamtfazit
 
-![pflege-santaverde](http://cardamonchai.com/wp-content/uploads/2019/07/2019-06-23-santaverde-10-400x300.jpg "Diese Produkte haben mich begleitet")
+<RemoteImage
+  alt="pflege-santaverde"
+  size="medium"
+  title="Diese Produkte haben mich begleitet"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-10__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-10__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt waren alle Produkte wirklich toll und haben sich im Test bewährt.
 Nichtmal die wirklich hohen Temperaturen konnten ihnen etwas anhaben und das
@@ -193,7 +223,13 @@ eigentlich in der Spülwanne mit mir herumtrage. ;-)
 
 ## [1] Verlosung
 
-![pflege-santaverde](http://cardamonchai.com/wp-content/uploads/2019/07/2019-06-23-santaverde-8-400x300.jpg "Das Aloe Vera Gel Pur und die Ampulenkur")
+<RemoteImage
+  alt="pflege-santaverde"
+  size="medium"
+  title="Das Aloe Vera Gel Pur und die Ampulenkur"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-8__l.jpg"
+  loadingUrl="undefined" />
 
 Für alle, die das Aloe Vera Gel Pur auch mal testen möchten, habe ich eine
 kleine Verlosung vorbereitet. Zu gewinnen gibt es ein Aloe Vera Gel Pur. Sendet

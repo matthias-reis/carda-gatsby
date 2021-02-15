@@ -66,7 +66,13 @@ haben sie definitiv schon einen Platz gefunden.
 
 ## Feuerwear produziert Einzelstücke
 
-![Feuerwear](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-14-feuerwear-9-400x286.jpg "Geldbörse in Hip Bag")
+<RemoteImage
+  alt="Feuerwear"
+  size="medium"
+  title="Geldbörse in Hip Bag"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear-9__l.jpg"
+  loadingUrl="undefined" />
 
 Bei allen Produkten aus dem Hause Feuerwear handelt es sich um echte
 Einzelstücke. Sie können über den Feuerwear Onlineshop bestellt werden. Alle
@@ -94,7 +100,13 @@ Bauchtasche zu einem neuen Hype verholfen. Getragen werden muss sie nicht
 klassisch um die Hüfte, auch schräg über die Schulter oder als Handtasche
 eingesetzt verfehlt sie ihre Wirkung nicht.
 
-![Feuerwear](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-14-feuerwear-3-400x286.jpg "Da geht einiges rein!")
+<RemoteImage
+  alt="Feuerwear"
+  size="medium"
+  title="Da geht einiges rein!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear-3__l.jpg"
+  loadingUrl="undefined" />
 
 Außerdem, was braucht man denn schließlich viel, wenn man da vorne an der Bande
 steht und auf die **Lieblingsband** wartet? Doch wohl maximal ein paar
@@ -117,7 +129,13 @@ keine Probleme.
 
 ## Platz für alles, was wirklich wichtig ist
 
-![Feuerwear](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-14-feuerwear-4-400x286.jpg "Meine Feuerwear Börse")
+<RemoteImage
+  alt="Feuerwear"
+  size="medium"
+  title="Meine Feuerwear Börse"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear-4__l.jpg"
+  loadingUrl="undefined" />
 
 Neben dem Hauptfach gibt es noch ein kleines Nebenfach, in dem Ihr zum Beispiel
 Euren Schlüssel getrennt vom Handy einlagern könnt. Oder den Schutz für heiße
@@ -137,7 +155,13 @@ den Führerschein, den Personalausweis und die Versicherungskarte.
 
 ## Fairness und Nachhaltigkeit
 
-![Feuerwear](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-14-feuerwear-10-400x286.jpg "Auch Konzertkarten passen perfekt rein!")
+<RemoteImage
+  alt="Feuerwear"
+  size="medium"
+  title="Auch Konzertkarten passen perfekt rein!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear-10__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-14-feuerwear-10__l.jpg"
+  loadingUrl="undefined" />
 
 Gegründet wurde Feuerwear von den Brüdern Martin und Robert Klüsener. Die beiden
 sind begeistert davon, nachhaltige Mode zu erschaffen. Martin ist im

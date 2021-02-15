@@ -36,7 +36,13 @@ bisschen Angst hatte, ihn aufzumachen. "Die Waffe der Frau" stand darauf. In der
 Mitte konnte ich etwas Stabiles ertasten. Was konnte das wohl sein? Ein
 Giftpfeil? Eine Mini-Pistole?**
 
-![Die Waffe der Frau](http://cardamonchai.com/wp-content/uploads/2017/11/DSC01929-300x200.jpg)
+<RemoteImage
+  alt="Die Waffe der Frau"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01929__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01929__l.jpg"
+  loadingUrl="undefined" />
 
 Meine Schüchternheit in Bezug auf den Umschlag mag mit meinem Pazifismus
 zusammenhängen. Am Schluss siegte dann doch die Neugierde, was sich wohl darin
@@ -58,7 +64,13 @@ habe: Woher haben die meine Adresse? Bei dieser speziellen Organisation hatte
 ich mich schon mal für einen Job beworben, woraus nichts wurde. Aber die werden
 doch sicher nicht ihre Bewerber anschreiben?
 
-![Die Waffe der Frau](http://cardamonchai.com/wp-content/uploads/2017/11/DSC01928-300x200.jpg)
+<RemoteImage
+  alt="Die Waffe der Frau"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01928__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01928__l.jpg"
+  loadingUrl="undefined" />
 
 ## Am geschmacklosesten war bis jetzt eine Geldklammer
 

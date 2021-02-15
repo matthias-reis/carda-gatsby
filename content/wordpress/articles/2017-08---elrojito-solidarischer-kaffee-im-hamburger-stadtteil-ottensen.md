@@ -51,7 +51,13 @@ subTitle: Lieblingscafé mit Herz
   
 ---
 
-![elrojito](http://cardamonchai.com/wp-content/uploads/2017/08/36452318776_7ac0ea3a57_z-300x400.jpg)
+<RemoteImage
+  alt="elrojito"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute möchte ich Euch eines meiner Lieblingscafés hier in Hamburg vorstellen.
 Es befindet sich sehr zentral in der Großen Brunnenstraße 68 in Ottensen.**
@@ -80,7 +86,13 @@ ungerechte Welthandelsstrukturen.
 
 ## Solidarität und Gerechtigkeit
 
-![elrojito](http://cardamonchai.com/wp-content/uploads/2017/08/36498656565_27d82581fb_z-300x400.jpg)
+<RemoteImage
+  alt="elrojito"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36498656565_27d82581fb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36498656565_27d82581fb_z__l.jpg"
+  loadingUrl="undefined" />
 
 Solidarität und Gerechtigkeit stehen im Handel mit den ParterInnen immer im
 Vordergrund. Der _El Rojito e. V._ möchte seinen HandelspartnerInnen die Chance
@@ -118,7 +130,13 @@ Damit kann man die Menschen beim Kampf um Ihr Land unterstützen.
 
 ## Eigenröstungen aus Hamburg
 
-![elrojito](http://cardamonchai.com/wp-content/uploads/2017/08/36452318776_7ac0ea3a57_z-300x400.jpg)
+<RemoteImage
+  alt="elrojito"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Kaffeekirschen für den _elrojito_ Kaffee werden handverlesen. Bei allen
 Sorten handelt es sich um Hochlandkaffee. Er wird im Langzeitverfahren schonend

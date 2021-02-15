@@ -87,43 +87,103 @@ Lebenszeit verbracht habe. Hier kommt also meine Liste.
 
 1.) "Downward Spiral" - Nine Inch Nails
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/615xwaChPHL-1-400x350.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_615xwaChPHL-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_615xwaChPHL-1__l.jpg"
+  loadingUrl="undefined" />
 
 2.) "Ceremonies" - EF
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/R-4904018-1378990482-2247.jpeg-1-400x400.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-4904018-1378990482-2247.jpeg-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-4904018-1378990482-2247.jpeg-1__l.jpg"
+  loadingUrl="undefined" />
 
 3.) "Feast Of Wire" - [Calexico](/category/musik/calexico/)
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/4027795500825-300x300.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_4027795500825__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_4027795500825__l.jpg"
+  loadingUrl="undefined" />
 
 4.) "Mellon Collie And The Infinite Sadness" The Smashing Pumpkins
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/R-367739-1258474651.jpeg-1-400x311.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-367739-1258474651.jpeg-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-367739-1258474651.jpeg-1__l.jpg"
+  loadingUrl="undefined" />
 
 5.) Experimental Jet Set Trash And No Star Sonic Youth
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/experimental-jet-set-trash-and-no-star-50042a46eab9b-560x560-1-400x400.jpeg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2018/02/experimental-jet-set-trash-and-no-star-50042a46eab9b-560x560-1-400x400.jpeg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2018/02/experimental-jet-set-trash-and-no-star-50042a46eab9b-560x560-1-400x400.jpeg"
+  loadingUrl="undefined" />
 
 6.) "In Utero" - Nirvana
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/51l2kFk6CnL-400x398.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_51l2kFk6CnL__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_51l2kFk6CnL__l.jpg"
+  loadingUrl="undefined" />
 
 7.) "After The Eulogy" - Boysetsfire
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/boysetsfire-after_the_eulogy_a-400x400.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_boysetsfire-after_the_eulogy_a__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_boysetsfire-after_the_eulogy_a__l.jpg"
+  loadingUrl="undefined" />
 
 8.) "Ten" - Pearl Jam
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/R-1171114-1224256201.jpeg-400x400.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-1171114-1224256201.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-1171114-1224256201.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 9.) "Mer Des Noms" - A Perfect Circle
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/R-1384995-1264936851.jpeg-400x397.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-1384995-1264936851.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_R-1384995-1264936851.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 10.) "The Great Escape" - Blur
 
-![](http://cardamonchai.com/wp-content/uploads/2018/02/blur-greatescape-640x640-400x400.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2018/02/blur-greatescape-640x640-400x400.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2018/02/blur-greatescape-640x640-400x400.jpg"
+  loadingUrl="undefined" />
 
 ## Wegweiser "Alben - Keine Erklärung"
 

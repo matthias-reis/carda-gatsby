@@ -60,7 +60,13 @@ Mit „Space Oddity“ startete er 1969 seinem beispiellose Werdegang, kurze Zei
 später durchbrach sein Album „The Rise And Fall Of Ziggy Dardust And The Spiders
 From Mars“ bei den Verkaufszahlen die Schallmauer.
 
-![RIP David Bowie](http://cardamonchai.com/wp-content/uploads/2016/01/David-Bowie-640x640.png "RIP David Bowie")
+<RemoteImage
+  alt="RIP David Bowie"
+  size="medium"
+  title="RIP David Bowie"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_David-Bowie.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_David-Bowie.png__l.jpg"
+  loadingUrl="undefined" />
 
 Im Jahr 1976 startete David seine Schauspielkarriere, indem er die Hauptrolle im
 Film „Der Mann, der vom Himmel fiel“ spielte.

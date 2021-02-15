@@ -40,7 +40,13 @@ subTitle: Kreative vegane Burger und mehr
 meines Lebens gegessen. Und ich habe ihn aufgegessen! Er war einfach zu lecker,
 um etwas liegen zu lassen.**
 
-![Vegan Junk Food Bar](http://cardamonchai.com/wp-content/uploads/2018/02/38472303600_7b58c24771_z-300x225.jpg)
+<RemoteImage
+  alt="Vegan Junk Food Bar"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38472303600_7b58c24771_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38472303600_7b58c24771_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Speisekarte ist, wie der Name schon vermuten lässt, komplett vegan. Es gibt
 einfach für jeden Geschmack einen Burger und auch sonst noch jede Menge

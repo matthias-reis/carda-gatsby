@@ -53,7 +53,13 @@ Geschehens, der gleich hier bei uns um die Ecke liegt, betraten.
 
 ## Herausragende Akustik
 
-![long-distance-calling](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-06-long-distance-calling-kulturkirche-altona-400x533.jpg)
+<RemoteImage
+  alt="long-distance-calling"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona__l.jpg"
+  loadingUrl="undefined" />
 
 Was uns gleich als Erstes auffiel, war die grandiose Akustik - wie gemacht für
 ein **Long Distance Calling** Konzert. Die Band hatte sich die Location nicht
@@ -73,7 +79,13 @@ Ludwigsburg und in der Kölner Kulturkirche statt.
 
 ## Ein Bad in Licht und Sound
 
-![long-distance-calling](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-06-long-distance-calling-kulturkirche-altona-3-400x533.jpg)
+<RemoteImage
+  alt="long-distance-calling"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__l.jpg"
+  loadingUrl="undefined" />
 
 Neben dem sagenhaften Klang im Bauch des Gotteshauses und der offenen Sicht über
 die Köpfe der sitzenden Zuschauer, wurde uns an diesem Abend eine beeindruckende

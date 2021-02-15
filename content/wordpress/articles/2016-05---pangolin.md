@@ -36,7 +36,13 @@ subTitle: Schuppentiere in Gefahr
   
 ---
 
-![Pangolin](http://cardamonchai.com/wp-content/uploads/2016/05/512px-Tree_Pangolin.jpg)
+<RemoteImage
+  alt="Pangolin"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_512px-Tree_Pangolin__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_512px-Tree_Pangolin__l.jpg"
+  loadingUrl="undefined" />
 
 **Das Pangolin, auch Tannenzapfentier oder Schuppentier (Mandiae) genannt, zählt
 zu den bedrohten Arten und ist akut vom Aussterben bedroht.**
@@ -84,7 +90,13 @@ oder direkt einen Brief an die
 
 ## Hier klicken, um die Petition zu unterschreiben
 
-![Pangolin | full](http://cardamonchai.com/wp-content/uploads/2016/05/Bildschirmfoto-2016-05-24-um-12.40.59.png)
+<RemoteImage
+  alt="Pangolin"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-12.40.59.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-12.40.59.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://www.regenwald.org/aktion/963/bitte-unterschreibt-das-pangolin-nicht-essen)
 

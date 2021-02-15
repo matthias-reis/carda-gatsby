@@ -69,7 +69,13 @@ noch ein paar leckere eisgekühlte Getränke, die im Halbschatten genossen wurde
 während wir fleißig die Wakeboarder kritisierten, die laut uns einer schlechter
 als der Andere waren.
 
-![](http://cardamonchai.files.wordpress.com/2012/08/faef41fee6ec11e1ad6322000a1e89b2_7.jpg?w=300)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/08/faef41fee6ec11e1ad6322000a1e89b2_7.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/08/faef41fee6ec11e1ad6322000a1e89b2_7.jpg?w=300"
+  loadingUrl="undefined" />
 
 Morgen ist morgen schon Freitag, also sind es nur noch 2 Tage (laut Milchkaffe
 1,5), bis das Wochenende vor der Tür steht. Ein Kinobesuch steht an. Und

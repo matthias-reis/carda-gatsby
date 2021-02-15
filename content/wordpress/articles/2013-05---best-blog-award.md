@@ -35,7 +35,13 @@ subTitle: Bloggründung und Vorbilder
   
 ---
 
-![Der Best Blog Award - verliehen von der lieben queenofnerds - <3lichen Dank! | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/05/best-blog-150x150.jpg "Der Best Blog Award - verliehen von der lieben queenofnerds - Danke schön! <3")
+<RemoteImage
+  alt="Der Best Blog Award - verliehen von der lieben queenofnerds - &lt;3lichen Dank!"
+  size="thumbnail"
+  title="Der Best Blog Award - verliehen von der lieben queenofnerds - Danke schön! &lt;3"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_best-blog__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_best-blog__l.jpg"
+  loadingUrl="undefined" />
 
 Unlängst bekam ich von der lieben queenofnerds den Best Blog Award verliehen.
 Jetzt wollt Ihr sicher wissen, was es damit auf sich hat und wie man diesen
@@ -115,7 +121,13 @@ Ich liebe nach wie vor Nagellack in allen Farben und Formen. Gerade trage ich
 einen mit Namen "green meets mint". Der ist richtig toll und vor allem gut
 kombinierbar.
 
-![Passt auch gut zu Bier: green meets mint | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/05/970838_583043475051119_441578466_n-150x150.jpg "Passt auch gut zu Bier: green meets mint")
+<RemoteImage
+  alt="Passt auch gut zu Bier: green meets mint"
+  size="thumbnail"
+  title="Passt auch gut zu Bier: green meets mint"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_970838_583043475051119_441578466_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_970838_583043475051119_441578466_n__l.jpg"
+  loadingUrl="undefined" />
 
 _ **7.) Welchen Kussmundabdruck hinterlässt Du auf Papier?** _
 

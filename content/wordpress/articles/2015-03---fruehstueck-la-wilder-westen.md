@@ -44,7 +44,13 @@ subTitle: Vegane Festivalküche
   
 ---
 
-![Frühstück à la Wilder Westen](http://cardamonchai.com/wp-content/uploads/2015/03/IMG_4095-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Frühstück à la Wilder Westen")
+<RemoteImage
+  alt="Frühstück à la Wilder Westen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Frühstück à la Wilder Westen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__l.jpg"
+  loadingUrl="undefined" />
 
 **Gestern habe ich an dieser Stelle meine
 [ultimative vegane Festivalliste](http://wp.me/p533wO-2GU) veröffentlicht. Darin
@@ -76,7 +82,13 @@ leckeres warmes **Frühstück** daraus zubereiten.
 - Becher (Punkt 17)
 - Taschenmesser (Punkt 4)### Zubereitung
 
-![Die Zubereitung](http://cardamonchai.com/wp-content/uploads/2015/03/IMG_4094-640x640.jpg "[ ](/wp-content/uploads/2015/03/IMG_4094.jpg)  Die Zubereitung")
+<RemoteImage
+  alt="Die Zubereitung"
+  size="medium"
+  title="[ ](/wp-content/uploads/2015/03/IMG_4094.jpg)  Die Zubereitung"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4094__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4094__l.jpg"
+  loadingUrl="undefined" />
 
 Die Sojaschnetzel mit dem **Suppenwürfel** in den Becher geben und mit dem
 Wasser (vorher im Kochtopf heiß machen) übergießen. Umrühren und auf die Seite

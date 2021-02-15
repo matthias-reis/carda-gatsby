@@ -51,7 +51,13 @@ subTitle: Vegane Häkelmützen mit Statement
   
 ---
 
-![Denise in Aktion - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/Denise-action-640x960.jpg "Denise in Aktion - Foto: Norbert Zawe")
+<RemoteImage
+  alt="Denise in Aktion - Foto: Norbert Zawe"
+  size="medium"
+  title="Denise in Aktion - Foto: Norbert Zawe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__l.jpg"
+  loadingUrl="undefined" />
 
 **Denise lernte ich vor ziemlich genau einem Jahr über eine vegane
 Facebook-Gruppe kennen. Damals unterhielt ich mich mit ihr über ihre Arbeit als
@@ -74,7 +80,13 @@ zum Interview verabredet.
 Wie geht es dir heute? Bei dir geht es ja immer sehr turbulent zu. Wo kommst du
 gerade her?
 
-![WYOB - Häkelmütze mit Kuhaufnäher](http://cardamonchai.com/wp-content/uploads/2015/04/11088258_924554010924678_1871320469_n-640x853.jpg "WYOB - Häkelmütze mit Kuhaufnäher")
+<RemoteImage
+  alt="WYOB - Häkelmütze mit Kuhaufnäher"
+  size="medium"
+  title="WYOB - Häkelmütze mit Kuhaufnäher"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Denise:** Es geht mir gut, ich bin voller Tatendrang! Ich komme aus meinem
 WYOB-Zimmer, wo ich neue Mützen mit dem Label versehen habe
@@ -91,7 +103,13 @@ bedeutet der Name genau?
 Deinen eigenen Bommel und rette Leben. Das ist entstanden, weil ich diesen
 unsäglichen Echtpelzbommeln ein Zeichen entgegensetzen wollte.
 
-![WYOB - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/11130325_980268688672783_3126736224858087273_o-640x427.jpg "WYOB - Foto: Norbert Zawe")
+<RemoteImage
+  alt="WYOB - Foto: Norbert Zawe"
+  size="medium"
+  title="WYOB - Foto: Norbert Zawe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Das Fell des Marderhundes, der das Logotier von WYOB ist, wird ja sehr
 gerne für die Herstellung von Pelzbommeln und Pelzbesätzen verwendet. Anstelle
@@ -114,7 +132,13 @@ geprüft werden. Manche Mützen häkeln wir vier-, fünf Mal, bis alles passt.
 
 **Anne:** Dann arbeitet ihr derzeit zu zweit an **WYOB** ?
 
-![WYOB - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/ZAWE2508-640x427.jpg "WYOB - Foto: Norbert Zawe")
+<RemoteImage
+  alt="WYOB - Foto: Norbert Zawe"
+  size="medium"
+  title="WYOB - Foto: Norbert Zawe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__l.jpg"
+  loadingUrl="undefined" />
 
 **Denise:** Momentan zu zweit, ich hoffe natürlich auf steigende Tendenz.
 
@@ -135,7 +159,13 @@ die meist aus Baumwolle bestehen.
 **Anne:** Denise, du bist ja selbst auch Veganerin. Wie lange lebst du schon
 vegan und was waren deine Gründe? Hattest du bei deiner Umstellung Vorbilder?
 
-![Polarfuchs - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/11130489_980262822006703_5414786716132520222_o-640x427.jpg "Polarfuchs - Foto: Norbert Zawe")
+<RemoteImage
+  alt="Polarfuchs - Foto: Norbert Zawe"
+  size="medium"
+  title="Polarfuchs - Foto: Norbert Zawe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Denise:** Ich bin – muss ich leider sagen – erst seit drei Jahren vegan.
 Direkte Vorbilder hatte ich keine, ich bin ja von jetzt auf nachher vegan
@@ -159,7 +189,13 @@ Hunde bei dir. Bleibt da ab und an auch noch Zeit zum Durchatmen?
 
 > ## "'Die werden ja sowieso geschlachtet' ist keine Ausrede!" **Anne:** Eine Frage, die ich schon einigen Tierrechtsaktivisten gestellt habe, heute auch an dich: Wie erklärst du dir den Widerspruch, dass ein Großteil der Menschen das Tragen von Pelzen ablehnt, Leder aber für selbstverständlich gehalten wird? Leder ist doch auch Tierhaut!
 
-![Gut be(hütet)mützt](http://cardamonchai.com/wp-content/uploads/2015/04/10156985_924554094258003_1421355744_n-640x853.jpg "Gut be(hütet)mützt")
+<RemoteImage
+  alt="Gut be(hütet)mützt"
+  size="medium"
+  title="Gut be(hütet)mützt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Denise:** Ja, da kommt wieder mal der Satz zum Tragen: Die werden ja sowieso
 geschlachtet. Nach dem Motto: Wenn sie schon ihr Leben geben, ist das in
@@ -189,7 +225,13 @@ tragen, da das von der Pelzindustrie
 
 > ## "Gegen Pelze!" **Denise:** Ich denke, dass wer wirklich GEGEN Pelz ist, bzw. das Tragen von Pelzen ablehnt, es wissen kann, egal wie geschickt die Industrie das zu Verschleiern versucht. Wir müssen einfach unsere Sinne einschalten: Im Sinne von Wear your own BRAIN!
 
-![WYOB - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/ZAWE2555-640x427.jpg "WYOB - Foto: Norbert Zawe")
+<RemoteImage
+  alt="WYOB - Foto: Norbert Zawe"
+  size="medium"
+  title="WYOB - Foto: Norbert Zawe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Vor Kurzem berichtete ich für Vegan News über eine Jungdesignerin, die
 Pelzmode aus "Roadkill", also aus überfahrenen Tieren herstellt, die sie selbst
@@ -205,7 +247,13 @@ ganze Bewegung entwickelt, während meiner Zeit in Augsburg habe ich davon
 einiges mitbekommen. Möchtest du uns erzählen, wie es dazu kam und wie sich das
 (aus Sicht der Gründerin) entwickelt hat?
 
-![Huhn - Wear Your Own Bommel](http://cardamonchai.com/wp-content/uploads/2015/04/11121140_924554274257985_544938426_n-640x852.jpg "Huhn - Wear Your Own Bommel")
+<RemoteImage
+  alt="Huhn - Wear Your Own Bommel"
+  size="medium"
+  title="Huhn - Wear Your Own Bommel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Denise:** Die oben erwähnte Tierrechtlerin Elke Skiba und ich haben vor allem
 diesen Schweigemarsch mit mehreren Kundgebungen ins Leben gerufen. Jedes Jahr
@@ -231,7 +279,13 @@ werden?
 
 **Anne:** Erzähl uns etwas über Paul!
 
-![Paul - Foto: Thomas Zinnecker](http://cardamonchai.com/wp-content/uploads/2015/04/15423985063_8be34150d1_k-640x427.jpg "Paul - Foto: Thomas Zinnecker")
+<RemoteImage
+  alt="Paul - Foto: Thomas Zinnecker"
+  size="medium"
+  title="Paul - Foto: Thomas Zinnecker"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__l.jpg"
+  loadingUrl="undefined" />
 
 **Denise:** Ich habe eine Freundin, vegan und **Tierärztin** , die Abläufe im
 Schlachthof überwacht. Sie rettet regelmässig Tiere. Am 15.Dezember 2014 rief
@@ -256,7 +310,13 @@ ist für jedes gerettete Tier ein absoluter Hauptgewinn.
 
 > ## "Wir sollten alle mehr nachdenken!" **Anne:** Eine Sache, die jeder für den Tierschutz tun sollte?
 
-![WYOB - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/ZAWE2579-640x427.jpg "WYOB - Foto: Norbert Zawe")
+<RemoteImage
+  alt="WYOB - Foto: Norbert Zawe"
+  size="medium"
+  title="WYOB - Foto: Norbert Zawe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__l.jpg"
+  loadingUrl="undefined" />
 
 **Denise:** In erster Linie: Nachdenken im Sinne von Lebenserhaltung für ALLE
 

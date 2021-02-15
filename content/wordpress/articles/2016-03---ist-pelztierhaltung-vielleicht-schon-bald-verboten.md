@@ -50,7 +50,13 @@ bestehen, beispielsweise noch für weitere zehn Jahre produzieren.
 
 ## Pelztierhaltung ist qualvoll
 
-![In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten](http://cardamonchai.com/wp-content/uploads/2014/11/tierrechtsdemo-640x963.jpg "In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten")
+<RemoteImage
+  alt="In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten"
+  size="medium"
+  title="In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo__l.jpg"
+  loadingUrl="undefined" />
 
 Pelztierhaltung ist äußerst qualvoll, die Tiere werden wider ihrer Natur in
 kleinen Käfigen gehalten und unter unvorstellbaren Schmerzen getötet. Die

@@ -112,7 +112,13 @@ Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
 
 <!-- START ADVERTISER: Xucker DE from awin.com -->
 
-![null](https://www.awin1.com/cshow.php?s=2269518&v=11793&q=348986&r=632580)
+<RemoteImage
+  alt="null"
+  size="medium"
+  title=""
+  mediumUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
+  largeUrl="https://www.awin1.com/cshow.php?s=2269518&amp;v=11793&amp;q=348986&amp;r=632580"
+  loadingUrl="undefined" />
 
 [](https://www.awin1.com/cread.php?s=2269518&v=11793&q=348986&r=632580)
 

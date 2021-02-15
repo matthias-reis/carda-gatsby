@@ -80,7 +80,13 @@ anderem der Sprecher im wohl berühmtesten Tierrechtsfilm der Welt
 
 <iframe src="https://www.youtube.com/embed/1uxo2PtOWpA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![watch-earthlings](http://cardamonchai.com/wp-content/uploads/2020/02/10430898_866199213402209_1317136732098446538_n.jpg)
+<RemoteImage
+  alt="watch-earthlings"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_10430898_866199213402209_1317136732098446538_n__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://www.earthlings.de/)
 

@@ -42,7 +42,13 @@ Vinny Peculiar kennt Ihr schon. Vor ein paar Tagen haben ich
 [ein Interview mit ihm](/2019/09/vinny-peculiar-interview/) veröffentlicht.
 Heute habe ich eine kleine Review für Euch - inklusive Kaufempfehlung.
 
-![while-you-still-can](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-07-vinny-peculiar-while-you-still-can-5-400x300.jpg)
+<RemoteImage
+  alt="while-you-still-can"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-5__l.jpg"
+  loadingUrl="undefined" />
 
 "While You Still Can" kommt wütend daher. Der Singer-Songwriter aus
 Worcestershire ist geladen. Seine Stimme ist lauter als sonst, direkter. Er
@@ -71,7 +77,13 @@ läuft.
 
 ## "Diane Abott Takes A Selfie"
 
-![while-you-still-can](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-07-vinny-peculiar-while-you-still-can-9-400x300.jpg)
+<RemoteImage
+  alt="while-you-still-can"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-9__l.jpg"
+  loadingUrl="undefined" />
 
 Er singt über die Menschheit, die Armut, den Kummer und die Drogen, die Politik,
 das Volk, die Vergangenheit und die Zukunft - dabei gelingt es ihm, stets in der
@@ -93,7 +105,13 @@ und die harmonischen Dire Straights Gitarrensounds.
 
 ## Von Britpop bis Country
 
-![while-you-still-can](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-07-vinny-peculiar-while-you-still-can-4-400x300.jpg)
+<RemoteImage
+  alt="while-you-still-can"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-4__l.jpg"
+  loadingUrl="undefined" />
 
 "Scarecrows" ist ein schönes Stück Britpop. Es klingt funky und schmiegt sich
 elegant an "Man Out Of Time", die Country-Nummer auf der Scheibe. "Let Them Take

@@ -31,7 +31,13 @@ subTitle: Eine Gemeinde mit vielen Teilen
 Sie besteht aus den Gemeindeteilen Karlshuld, Grasheim, Kleinhohenried,
 Kochheim, Nazibühl und Neuschwetzingen.
 
-![Karlshuld](http://cardamonchai.com/wp-content/uploads/2009/09/14363362189_9fb833d389_z-640x427.jpg)
+<RemoteImage
+  alt="Karlshuld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_09_14363362189_9fb833d389_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_09_14363362189_9fb833d389_z__l.jpg"
+  loadingUrl="undefined" />
 
 Karlshuld wurde Jahre 1795 als Kolonie von Karl Freiherr v. Eckart gegründet.
 Dies geschah im Zuge der Donautrockenlegung, mit der man 1790 begonnen hatte.
@@ -46,7 +52,13 @@ gründete man eine Spinnerei, die kurze Zeit später wieder geschlossen wurde.
 1888 gab es bereits 1.227 Einwohner. Erst nach dem 2. Weltkrieg kam der
 Aufschwung ..
 
-![Karlshuld](http://cardamonchai.com/wp-content/uploads/2009/09/14549052092_4894433fa8_z-640x427.jpg)
+<RemoteImage
+  alt="Karlshuld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_09_14549052092_4894433fa8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_09_14549052092_4894433fa8_z__l.jpg"
+  loadingUrl="undefined" />
 
 Zwischen 1970 und 1985 wurden die Ortsteile Grasheim, Kochheim, Nazibühl und
 Neuschwetzingen eingemeindet.

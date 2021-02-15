@@ -48,7 +48,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (42:47)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (48:47)"
 thumbnailId: "20586"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40957055114_f035127450_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40957055114_f035127450_z__l.jpg
@@ -57,7 +57,7 @@ subTitle: Sensitivpflege mit Manuka und Borretsch
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (42:47)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (48:47)
 
 <!--
 _Werbung\*_
@@ -79,7 +79,13 @@ verstärken und Stress und Nervosität entgegenzuwirken.
 
 ## Borretsch für die Haut
 
-![Primavera](http://cardamonchai.com/wp-content/uploads/2018/04/26799815277_0c9650310c_z-400x300.jpg)
+<RemoteImage
+  alt="Primavera"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26799815277_0c9650310c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26799815277_0c9650310c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die zweite Leitpflanze bleibt wie bisher Borretsch. Mir war das Kraut bisher nur
 aus der Küche bekannt und ich bin freudig überrascht von der positiven Wirkung,
@@ -110,7 +116,13 @@ Bestandteil unserer Unternehmensphilosophie."</blockquote>
 
 ## Green Brand Siegel für Primavera
 
-![Primavera](http://cardamonchai.com/wp-content/uploads/2018/04/26799820897_ab12276b66_z-400x300.jpg)
+<RemoteImage
+  alt="Primavera"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26799820897_ab12276b66_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26799820897_ab12276b66_z__l.jpg"
+  loadingUrl="undefined" />
 
 Seit 2013 wurde Primavera für 2017/2018 bereits zum dritten Mal in Folge das
 renommierte Green Brand Germany Siegel verliehen. Die international agierende
@@ -134,7 +146,13 @@ auf Tierversuche für Inhaltsstoffe und Produkte wird generell verzichtet. Alle
 
 ## Milde Reinigungscreme Manuka Borretsch
 
-![Primavera](http://cardamonchai.com/wp-content/uploads/2018/04/40957051404_752e15f3a7_z-400x300.jpg)
+<RemoteImage
+  alt="Primavera"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40957051404_752e15f3a7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40957051404_752e15f3a7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Reinigungscreme Manuka Borretsch nutze ich abends zum Abschminken. Sie
 stellt so einige Produkte, die ich bisher verwendet habe, in den Schatten. Sie
@@ -152,7 +170,13 @@ Feuchtigkeitshaushalt.
 
 ## Sanft tonisierende Gesichtslotion Manuka Borretsch
 
-![Primavera](http://cardamonchai.com/wp-content/uploads/2018/04/40776713135_2bf05e5392_z-400x533.jpg)
+<RemoteImage
+  alt="Primavera"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40776713135_2bf05e5392_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40776713135_2bf05e5392_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Lotion ist anders als andere Toner von gallertartiger Konsistenz. Enthalten
 sind Manukaöl, Bio-Jasminwasser, Bio-Borretschsamenöl, Bio Aloe Vera Extrakt
@@ -178,7 +202,13 @@ welches die Haut straffer und elastischer macht.
 
 ## Hautberuhigende Creme Manuka Borretsch
 
-![Primavera](http://cardamonchai.com/wp-content/uploads/2018/04/41666594581_23311da70d_z-400x300.jpg)
+<RemoteImage
+  alt="Primavera"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41666594581_23311da70d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41666594581_23311da70d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Creme trage ich am liebsten direkt nach dem Sport und der Sauna auf, wenn
 die Haut so richtig schön hungrig ist. Auch in ihr sind Bio-Tigergrasextrakt,

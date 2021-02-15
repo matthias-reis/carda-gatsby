@@ -72,7 +72,13 @@ Phasen oder Zeiten des gespannten Wartens und der Ungeduld.
 
 ## Schritt 1: Das Schreiben
 
-![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-1-400x533.jpg)
+<RemoteImage
+  alt="die-hermetiker"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-1__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amreis.de/ha128) Klar, sein erstes Buch fertiggestellt zu haben, gibt
 einem ein wahnsinnig gutes Gefühl - am euphorischsten war ich persönlich jedoch
@@ -99,7 +105,13 @@ hinzuführen.
 
 ## Schritt 2: Findung der Schauplätze und Charaktere
 
-![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-7-400x533.jpg)
+<RemoteImage
+  alt="die-hermetiker"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-7__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amreis.de/ha128) Doch vorerst konzentrierten wir uns gemeinsam auf
 die Erkundung der einzelnen Schauplätze. Wir recherchierten Bräuche und
@@ -130,7 +142,13 @@ Charaktereigenschaften und die detaillierten Szenenbeschreibungen hinzu.
 
 ## Schritt 3: Korrigieren und Redigieren
 
-![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-15-400x533.jpg)
+<RemoteImage
+  alt="die-hermetiker"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-15__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-15__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amreis.de/ha128) Durch unsere Arbeitsweise war die erste
 Korrekturschleife also bereits in den Schreibprozess integriert. Wir
@@ -155,7 +173,13 @@ wir in Gedanken schon mit neuen Ideen beschäftigt waren.
 
 ## Schritt 4: Die Suche nach einem Verlag
 
-![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-13-400x533.jpg)
+<RemoteImage
+  alt="die-hermetiker"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-13__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-13__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amreis.de/ha128) Mit unserem Manuskript wollten wir schließlich an
 eine Agentur oder einen Verlag herantreten, aber schon nach zwei Versuchen und
@@ -200,7 +224,13 @@ Grafikinteressierten unter Euch).
 
 ## Schritt 6: Das Cover
 
-![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-29-die-hermetiker-2-400x533.jpg)
+<RemoteImage
+  alt="die-hermetiker"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-29-die-hermetiker-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-29-die-hermetiker-2__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amreis.de/ha128) Zu guter Letzt fehlte uns noch ein passender
 Einband. Dieser beschäftigte uns ziemlich lange. Immer wieder stellten wir
@@ -222,7 +252,13 @@ und Fahlblau, wie die Nebelschwaden bei Stonehenge.
 
 ## Schritt 7: Publikation mit zweiter Schleife
 
-![die-hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-29-die-hermetiker-5-400x533.jpg)
+<RemoteImage
+  alt="die-hermetiker"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-29-die-hermetiker-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-29-die-hermetiker-5__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amreis.de/ha128) Das Buch war fertig. Cover, Textsatz und Manuskript
 passten zueinander. Nun mussten wir nur noch etwas Geld in unseren Print On
@@ -246,7 +282,13 @@ sind irgendwann sicher Millionen wert :-).
 
 ## Schritt 8: Die Vermarktung - "Die Hermetiker" im Buchhandel
 
-![Die Hermetiker](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-11-400x533.jpg)
+<RemoteImage
+  alt="Die Hermetiker"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-11__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-11__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amreis.de/ha128) Das letzte Kapitel des Buches, nein nicht des Buches
 selbst, sondern seiner Entstehungsgeschichte, ist das für uns unsicherste. Ich
@@ -270,6 +312,12 @@ Vielen Dank für Eure Aufmerksamkeit.
 
 LG, Matze
 
-![die-hermetiker | large](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-22-520x390.jpg "[ ](https://amreis.de/ha128)  Die Hermetiker")
+<RemoteImage
+  alt="die-hermetiker"
+  size="large"
+  title="[ ](https://amreis.de/ha128)  Die Hermetiker"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-22__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-22__l.jpg"
+  loadingUrl="undefined" />
 
   

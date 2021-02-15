@@ -36,7 +36,13 @@ subTitle: Ab jetzt verpasst Ihr nichts mehr!
 meines Blogs! Ich bin schon sehr gespannt, was Ihr dazu sagt. Meldet Euch am
 besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!**
 
-![Newsletter](http://cardamonchai.com/wp-content/uploads/2018/02/newsletter-cut-2.jpg)
+<RemoteImage
+  alt="Newsletter"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_newsletter-cut-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_newsletter-cut-2__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://cardamonchai.us17.list-manage.com/subscribe/post?u=56cabb4dfeee2ca03948f964f&id=3f01062ef5)
 Ihr findet den Anmelde-Button direkt auf der Startseite (rechts unter meinem

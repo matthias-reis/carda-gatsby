@@ -36,7 +36,13 @@ subTitle: Pflanze einen Baum
 Natürlich verbrauchen die **Server** , auf denen die Blogs laufen Strom, was
 automatisch zur Freisetzung von Kohlenmonoxyd (CO2) führt.
 
-![CO2-neutral-weiss-125x125 | full](http://cardamonchai.com/wp-content/uploads/2011/04/co2-neutral-weiss-125x125.jpg)
+<RemoteImage
+  alt="CO2-neutral-weiss-125x125"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_co2-neutral-weiss-125x125__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_co2-neutral-weiss-125x125__l.jpg"
+  loadingUrl="undefined" />
 
 ## Blog für 50 Jahre neutralisieren
 

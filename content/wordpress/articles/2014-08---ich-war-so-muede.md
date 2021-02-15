@@ -58,7 +58,13 @@ Ein Fehler, den zu machen man sich als **Veganer\*in** nicht erlauben darf.
 Keine zwei Minuten dauert es und die aufgebrachten Online-Nachbarn stehen mit
 brennenden Fackeln an der Pinnwand-Haustüre und prangern an.
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/eichblattsalat-mit-tomaten-hagebutten-scharfer-grc3bcner-spitzpaprika-radieschensprossen-chiasamen-und-maracuja-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Eichblattsalat mit Tomaten, Hagebutten, scharfer grüner Spitzpaprika, Radieschensprossen, Chiasamen und Maracuja. Dazu: Lupinensteak")
+<RemoteImage
+  alt="müde"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Eichblattsalat mit Tomaten, Hagebutten, scharfer grüner Spitzpaprika, Radieschensprossen, Chiasamen und Maracuja. Dazu: Lupinensteak"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_eichblattsalat-mit-tomaten-hagebutten-scharfer-grc3bcner-spitzpaprika-radieschensprossen-chiasamen-und-maracuja__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_eichblattsalat-mit-tomaten-hagebutten-scharfer-grc3bcner-spitzpaprika-radieschensprossen-chiasamen-und-maracuja__l.jpg"
+  loadingUrl="undefined" />
 
 Die "fleischliche" Denke ist in unserer Gesellschaft sehr stark verankert. Es
 reicht leider nicht aus, zu sagen, dass das Eisen ja nicht erst von der Kuh
@@ -86,7 +92,13 @@ in der man zu (fast) jeder typischen Bombadierungsfrage eine Pauschalantwort
 findet. Sehr praktisch. Kann ich jedem Neu-Veganer\*innen in den ersten drei bis
 sechs Tagen auf jeden Fall empfehlen.
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/schaschlikspiec39fe-mit-tofu-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Schaschlikspieße mit Tofu")
+<RemoteImage
+  alt="müde"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Schaschlikspieße mit Tofu"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_schaschlikspiec39fe-mit-tofu__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_schaschlikspiec39fe-mit-tofu__l.jpg"
+  loadingUrl="undefined" />
 
 Ein Geheimrezept gibt es jedoch nicht. Jeder muss die für sich beste Lösung
 selbst finden. Ich ziehe eine Mischung aus harten Fakten (nicht aus dem
@@ -125,11 +137,23 @@ unser Vitamin B12, unseren Sex und wir müssen auch nicht barfuß rumlaufen.
 
 ### Dazu zumindest ein paar kurze Bespiele:
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/salat-mit-spitzkohl-pastinaken-sprossen-netzmelone-und-falafeln-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Salat mit Spitzkohl, Pastinaken, Sprossen, Netzmelone und Falafeln")
+<RemoteImage
+  alt="müde"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Salat mit Spitzkohl, Pastinaken, Sprossen, Netzmelone und Falafeln"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_salat-mit-spitzkohl-pastinaken-sprossen-netzmelone-und-falafeln__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_salat-mit-spitzkohl-pastinaken-sprossen-netzmelone-und-falafeln__l.jpg"
+  loadingUrl="undefined" />
 
 <blockquote>"Unter Insulinresistenz versteht man ein vermindertes Ansprechen der Körperzellen auf das Hormon Insulin. Den Daten einer vor Kurzem in der Fachzeitschrift 'Diabetes Care' veröffentlichte Studie mit 518 gesunden Probanden im Alter von 15 bis 20 Jahren zufolge, kann eine fettarme, ballaststoffreiche Ernährung die Insulinempfindlichkeit erhöhen. Die Teilnehmer waren seit ihrer frühen Kindheit an dieser Studie beteiligt und wurden im Hinblick auf ihre Herzgesundheit kontinuierlich über erforderliche Veränderungen ihrer Ernährungsgewohnheiten informiert. Die Wissenschaftler ermunterten sie dazu, mehr Obst, Gemüse und Vollkornprodukte zu sich zu nehmen. Sie bewerteten die Insulinresistenz der Teilnehmer und überwachten ihren allgemeinen Gesundheitszustand. Probanden, deren Ernährung einen höheren Ballaststoffgehalt und weniger gesättigte Fettsäuren aufwies, zeigten eine bessere Insulinempfindlichkeit.
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/wokgemc3bcse-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Wokgemüse")
+<RemoteImage
+  alt="müde"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Wokgemüse"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wokgemc3bcse__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wokgemc3bcse__l.jpg"
+  loadingUrl="undefined" />
 
 Da Fleisch, Eier und Milchprodukte in der Regel nicht nur einen hohen Gehalt an
 gesättigten Fettsäuren und Kalorien aufweisen, sondern auch frei von
@@ -160,7 +184,13 @@ Sterberisiko durch Herz-Kreislauf-Erkrankungen erhöhte sich mit zunehmendem
 Konsum von Fleisch, Käse, Eiern und tierischen Fetten."
 [<small>Oxford Vegetarian Study, vebu.de</small>](https://www.vebu.de/gesundheit/studien)
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/ofengemc3bcse-mit-frikadellen-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Ofengemüse mit Frikadellen")
+<RemoteImage
+  alt="müde"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Ofengemüse mit Frikadellen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_ofengemc3bcse-mit-frikadellen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_ofengemc3bcse-mit-frikadellen__l.jpg"
+  loadingUrl="undefined" />
 
 ### Gute Eisenwerte
 
@@ -182,7 +212,13 @@ Huhn, Rind etc. enthalten, nachdem das Tier es gegessen hat) beinhalten viel
 Eisen. "Lebensmittel", die die meisten Fleischesser gar nicht zu sich nehmen,
 weil sie sich davor ekeln.
 
-![](http://cardamonchai.com/wp-content/uploads/2015/02/16438175890_d90e66deed_o-640x640.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16438175890_d90e66deed_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16438175890_d90e66deed_o__l.jpg"
+  loadingUrl="undefined" />
 
 ### Zahlen und FaktenDazu hier ein paar Zahlen, die Zahlen hinter den Lebensmitteln stehen für den Eisengehalt mg pro 100 Gramm. Als Vergleich zu den verschiedenen Fleischsorten habe ich ein paar typische vegane Nahrungsmittel mitangeführt.
 
@@ -214,7 +250,13 @@ Kuhmilch im Vergleich zu einigen typischen veganen Nahrungsmitteln:
 
 (Quelle: [vebu.de](https://www.vebu.de/gesundheit/naehrstoffe/kalzium) )
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/kunterbunter-linsensalat-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/http://)  kunterbunter Linsensalat")
+<RemoteImage
+  alt="müde"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/http://)  kunterbunter Linsensalat"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_kunterbunter-linsensalat__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_kunterbunter-linsensalat__l.jpg"
+  loadingUrl="undefined" />
 
 Meine persönlichen Kalziumwerte dürften sich, seitdem ich mich vegan ernähre,
 stark verbessert haben. Da ich Milch nie wirklich mochte, nahm ich diese maximal
@@ -243,7 +285,13 @@ Suppentopf oder in der Pfanne zu landen. Hierzu habe ich mich vor ein paar Tagen
 
 ### Veganer\*innen sind nicht ständig müde
 
-![müde](http://cardamonchai.com/wp-content/uploads/2014/08/grc3bcne-bohnen-mit-tomaten-jalapenc3b5s-und-gewc3bcrzen-mit-ofenkartoffeln-und-sc3bcc39fkartoffeln-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Grüne Bohnen mit Tomaten, Jalapenõs und Gewürzen mit Ofenkartoffeln und Süßkartoffeln")
+<RemoteImage
+  alt="müde"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Grüne Bohnen mit Tomaten, Jalapenõs und Gewürzen mit Ofenkartoffeln und Süßkartoffeln"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grc3bcne-bohnen-mit-tomaten-jalapenc3b5s-und-gewc3bcrzen-mit-ofenkartoffeln-und-sc3bcc39fkartoffeln__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grc3bcne-bohnen-mit-tomaten-jalapenc3b5s-und-gewc3bcrzen-mit-ofenkartoffeln-und-sc3bcc39fkartoffeln__l.jpg"
+  loadingUrl="undefined" />
 
 Dass Veganer\*innen keine **Mangelerscheinungen** haben, bestätigen übrigens u.
 A. [Alexander Dargatz](http://www.kryptonite.veganstrength.de), seines Zeichens

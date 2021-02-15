@@ -87,7 +87,12 @@ Ein Roman! Für die Neugierigen unter Euch hat Matze
 [eine eigene Homepage für unsere Bücher](https://amreis.de/) gebaut. Dort findet
 Ihr unter anderem auch schon eine Leseprobe von "Die Hermetiker".
 
-![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/die-vierte-Welle.png '[ ](https://amreis.de/)  "Die vierte Welle" - Eine Science-Fiction Kurzgeschichte von A. M. Reis -  [Jetzt Webseite besuchen](https://amreis.de/)')
+<RemoteImage alt="Science-Fiction Kurzgeschichte" size="full"
+title="[ ](https://amreis.de/) "Die vierte Welle" - Eine Science-Fiction
+Kurzgeschichte von A. M. Reis - [Jetzt Webseite besuchen](https://amreis.de/)"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_die-vierte-Welle.png__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_die-vierte-Welle.png__l.jpg"
+loadingUrl="undefined" />
 
 Wie gefällt Euch die Seite? Und vor allem, wie gefällt Euch das
 [unsere Kurzgeschichte](https://amzn.to/2RjhgjP) ? Ich bin schon sehr gespannt!
@@ -105,7 +110,13 @@ Hermetiker". Doch dazu bald mehr...
 
 [📖 Jetzt Buch auf Amazon ansehen](https://amzn.to/2RjhgjP)
 
-![Science-Fiction Kurzgeschichte | full](http://cardamonchai.com/wp-content/uploads/2018/10/amreis.png "[ ](https://amreis.de/)  A. M. Reis - Das Schriftsteller-Ehepaar -  [Jetzt Webseite besuchen](https://amreis.de/)")
+<RemoteImage
+  alt="Science-Fiction Kurzgeschichte"
+  size="full"
+  title="[ ](https://amreis.de/)  A. M. Reis - Das Schriftsteller-Ehepaar -  [Jetzt Webseite besuchen](https://amreis.de/)"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_amreis.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_10_amreis.png__l.jpg"
+  loadingUrl="undefined" />
 
 - _Hinweis: Dieser Beitrag enthält Werbung (in diesem Fall in eigener Sache) und
   Affiliate Links. Der Inhalt und meine Meinung wurden dadurch nicht

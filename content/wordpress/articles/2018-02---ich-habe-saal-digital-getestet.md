@@ -47,7 +47,13 @@ in unserem Schlafzimmer verschönern könnten. Ein Bild malen? Einen Wandbehang
 kaufen? Irgendwann kam dann der Entschluss: Ein Urlaubsfoto richtig
 professionell ausdrucken lassen und aufhängen.**
 
-![Saal Digital](http://cardamonchai.com/wp-content/uploads/2018/02/16261603421_1b513bf868_z-300x300.jpg "Das Originalbild")
+<RemoteImage
+  alt="Saal Digital"
+  size="medium"
+  title="Das Originalbild"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_16261603421_1b513bf868_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_16261603421_1b513bf868_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das Bild war schnell gefunden: Ein Beo, den ich bei unserer
 [Sri Lanka Reise](/2015/09/unterwegs-in-sri-lanka/) fotografiert hatte. Es
@@ -70,7 +76,13 @@ Ergebnis an!
 
 ## Eigene Software und Versand mit DHL
 
-![Saal Digital](http://cardamonchai.com/wp-content/uploads/2018/02/38611109260_8df9577056_z-1-300x200.jpg "Das Bild auf unserer Staffelei")
+<RemoteImage
+  alt="Saal Digital"
+  size="medium"
+  title="Das Bild auf unserer Staffelei"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38611109260_8df9577056_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38611109260_8df9577056_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Beim Bearbeiten in der Software sind mir ein kleiner Punkt aufgefallen: Hat man
 mal ein Projekt fertig angelegt, kann man im Nachgang das Format nicht mehr
@@ -98,7 +110,13 @@ Fotoleinwand ab 15,00 Euro. Nimmt man wie ich ein quadratisches Bild auf
 Hartschaumplatte in der Größe 60 x 60 cm zahlt man 40,95 Euro. Hinzu kommen
 Versandkosten in Höhe von 5,95 Euro.
 
-![Saal Digital](http://cardamonchai.com/wp-content/uploads/2018/02/39525980575_f9cf637476_z-1-300x200.jpg "Das Bild auf unserer Staffelei")
+<RemoteImage
+  alt="Saal Digital"
+  size="medium"
+  title="Das Bild auf unserer Staffelei"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525980575_f9cf637476_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525980575_f9cf637476_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Auf die professionelle Aufhängung für 17,95 Euro habe ich verzichtet, da wir
 unsere eigenen Aufhängungen haben. Dafür war dann ein größeres Bild im Budget.
@@ -121,7 +139,13 @@ kommen richtig schön raus. Ich freue mich sehr, dass mein Shot von unserer
 [Sri Lanka Reise](/2015/09/unterwegs-in-sri-lanka/) nun so schön zur Geltung
 kommt und muss jedes Mal lächeln, wenn ich an dem Bild vorbeikomme.
 
-![Saal Digital](http://cardamonchai.com/wp-content/uploads/2018/02/40377890952_21955bf9cf_z-1-300x200.jpg "Das Bild auf unserer Staffelei")
+<RemoteImage
+  alt="Saal Digital"
+  size="medium"
+  title="Das Bild auf unserer Staffelei"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40377890952_21955bf9cf_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40377890952_21955bf9cf_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Für Euch habe ich ein paar Fotos auf unserer Staffelei gemacht, so kommt es
 schöner raus, als platt an der Wand. Nicht schlecht, oder? Ich muss sagen, dass

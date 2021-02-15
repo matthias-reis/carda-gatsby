@@ -49,7 +49,13 @@ Euch, die doppelte Menge Spargel zu garen. Ihr könnt ihn am nächsten Tag für
 einen leckeren Spargelsalat gut gebrauchen. Unser Rezept dafür
 [findet Ihr auch hier im Blog](/2018/06/spargelsalat-mit-erdbeeren/).
 
-![Hollandaise](http://cardamonchai.com/wp-content/uploads/2018/05/42239598271_5631e21f67_z-400x300.jpg)
+<RemoteImage
+  alt="Hollandaise"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42239598271_5631e21f67_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42239598271_5631e21f67_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Zutaten Spargel
 
@@ -89,7 +95,13 @@ Kurkumapulver hinzugeben und unter ständigem Rühren erneut kurz aufkochen.
 
 ## Zubereitung Spargel
 
-![Hollandaise](http://cardamonchai.com/wp-content/uploads/2018/05/28366344238_1bb89e6776_z-400x300.jpg)
+<RemoteImage
+  alt="Hollandaise"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366344238_1bb89e6776_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_28366344238_1bb89e6776_z__l.jpg"
+  loadingUrl="undefined" />
 
 Den Ofen auf 200 Grad vorheizen und den Spargel schälen. Den Spargel in eine
 Kasserole legen und mit dem Saft der Zitrone sowie Wasser aufgießen, bis er

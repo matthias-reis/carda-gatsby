@@ -77,7 +77,13 @@ oder allgemein an ihren Fingern.
 
 ## Mit dem Nägelkauen aufhören - Motivation ist wichtig
 
-![Nagelhaut kauen aufhören](http://cardamonchai.com/wp-content/uploads/2018/09/44881587502_e09684ba60_z-400x300.jpg)
+<RemoteImage
+  alt="Nagelhaut kauen aufhören"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44881587502_e09684ba60_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44881587502_e09684ba60_z__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2Oep9Ij) Mein wunderschöner Verlobungsring hat mich das
 letzte Mal motiviert, aufzuhören. Jahrelang ging das gut. Bis ich vor Kurzem in
@@ -105,7 +111,13 @@ zum allgemeinen Wohlbefinden beiträgt?
 
 ## Belohnung statt Bestrafung
 
-![Nagelhaut kauen aufhören](http://cardamonchai.com/wp-content/uploads/2018/09/31058090388_cb73ae0320_z-400x300.jpg)
+<RemoteImage
+  alt="Nagelhaut kauen aufhören"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_31058090388_cb73ae0320_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_31058090388_cb73ae0320_z__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2Oep9Ij) Klar, wenn man etwas mit einer negativen Erfahrung
 verbindet, macht man es vielleicht irgendwann nicht mehr. Aber dieses System war
@@ -132,7 +144,13 @@ Wochen nicht unbedingt beherzigt habe. Das gebe ich offen zu.
 
 ## Schönere Hände mit Öl
 
-![Nagelhaut kauen aufhören](http://cardamonchai.com/wp-content/uploads/2018/09/44210869634_c0bdd45a8b_z-400x300.jpg)
+<RemoteImage
+  alt="Nagelhaut kauen aufhören"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44210869634_c0bdd45a8b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44210869634_c0bdd45a8b_z__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2Oep9Ij) Und was soll ich sagen? Das Öl aus dem Testpaket
 nutze ich im Moment ausschließlich für meine Nagelhaut. Mit der praktischen
@@ -141,7 +159,13 @@ nicht fettet, ist für mich ein großer Vorteil. Auf meiner Computertastatur sie
 man zumindest keine Spuren. Jedes Mal, wenn ich wieder Gefahr laufe,
 loszuzupfen, weil ich meine, "dass was absteht", schmiere ich nach.
 
-![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B004RPKAMM)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B004RPKAMM"
+  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B004RPKAMM"
+  loadingUrl="undefined" />
 
 Die Nagelhaut ist schon nach einigen Tagen viel geschmeidiger geworden und ich
 rühre sie nicht mehr an. Es gibt ja auch mindestens eine Million
@@ -182,7 +206,13 @@ Naissance findet Ihr auf der [Homepage](https://www.enaissance.de/good-on-you).
 
 ## #loveyourself und Deine Hände
 
-![Nagelhaut kauen aufhören](http://cardamonchai.com/wp-content/uploads/2018/09/44931534301_73b36ab3fb_z-400x300.jpg)
+<RemoteImage
+  alt="Nagelhaut kauen aufhören"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44931534301_73b36ab3fb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44931534301_73b36ab3fb_z__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2Oep9Ij) Meine Hände kann ich übrigens im Moment auch wieder
 besser leiden. Ich bin zwar noch nicht so weit, Euch ein Bild davon zu zeigen
@@ -198,7 +228,13 @@ finden. Wir werden es leider nicht sein lassen, wenn Ihr es uns sagt. Das klappt
 nicht. Wir haben es mindestens schon eine Million Male versucht. Eure Hinweise
 tragen nicht zu unserem Wohlbefinden bei. Vielen Dank für Euer Verständnis.
 
-![Nagelhaut kauen aufhören | full](http://cardamonchai.com/wp-content/uploads/2018/09/44881590282_daff22e130_z.jpg)
+<RemoteImage
+  alt="Nagelhaut kauen aufhören"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44881590282_daff22e130_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44881590282_daff22e130_z__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2Oep9Ij)
 

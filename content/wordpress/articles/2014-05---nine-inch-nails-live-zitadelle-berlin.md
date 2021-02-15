@@ -40,7 +40,13 @@ subTitle: '"We have a lotta shit for you!"'
   
 ---
 
-![Das Ticket](http://cardamonchai.files.wordpress.com/2014/05/nin-ticket-1553.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Das Ticket")
+<RemoteImage
+  alt="Das Ticket"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Das Ticket"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/nin-ticket-1553.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/nin-ticket-1553.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Bereits im November letzten Jahres hatten der Herzmann, mein Bruder und ich
 uns über den N** **INE IN** **CH N** **AILS Fanclub Tickets für den Auftritt auf
@@ -50,7 +56,13 @@ Am 15. Mai, zwei Tage nach dem Geburtstag meines Bruders brachen wir dann in
 aller Frühe auf nach Berlin. Unser Ziel: Ein kleines Hotel in Spandau. Dort
 angekommen luden wir unsere Sachen ab und machten uns auf den Weg zur Zitadelle.
 
-![Die drei vom Wellenbrecher](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Die drei vom Wellenbrecher")
+<RemoteImage
+  alt="Die drei vom Wellenbrecher"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Die drei vom Wellenbrecher"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin.jpg?w=300"
+  loadingUrl="undefined" />
 
 Wir holten uns unsere Bändchen und Tickets ab und nahmen unseren Platz in der
 Schlange ein. Nachdem wir uns mit T-Shirts und Speis und Trank versorgt hatten
@@ -65,7 +77,13 @@ Kapelle die Bühne betrat.
 
 ## NINE INCH NAILS betraten endlich die Bühne
 
-![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1292.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
+<RemoteImage
+  alt="Nine Inch Nails"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1292.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1292.jpg?w=300"
+  loadingUrl="undefined" />
 
 Alle feierten ausgelassen, die Fans waren aus ganz Europa angereist, Spanier,
 Polen, Schweden, Deutsche, Italiener, Ungarn begegneten uns, verbunden durch die
@@ -77,7 +95,13 @@ Dienst und die Location schien ihm besonders gut zu gefallen.
 
 Zitat Trent: _"We have a lotta shit for you!"_
 
-![Nine Inch Nails](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1291.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
+<RemoteImage
+  alt="Nine Inch Nails"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1291.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1291.jpg?w=300"
+  loadingUrl="undefined" />
 
 Als kleine Wiedergutmachung, da wir ob der etwas klein ausgefallenen Bühne,
 nicht die komplette Lightshow geboten bekamen, spielten NINE INCH NAILS anstatt
@@ -94,7 +118,13 @@ mehr im nächsten Blogeintrag.
 
 ## Die Setlist des Abends
 
-![Nine Inch Nails ](http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1277.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails")
+<RemoteImage
+  alt="Nine Inch Nails "
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644745726325/)  Nine Inch Nails"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1277.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/nine-inch-nails-citadel-music-festival-berlin-1277.jpg?w=300"
+  loadingUrl="undefined" />
 
 Im Anschluss findet ihr noch die Setlist des Abends. Meine komplette
 Bildergalerie steht wie immer in meinem

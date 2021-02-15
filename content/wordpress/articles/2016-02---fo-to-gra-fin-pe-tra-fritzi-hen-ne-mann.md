@@ -40,7 +40,13 @@ subTitle: '"Aufregung ist etwas ganz Normales"'
   
 ---
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/Petra-640x952.jpg "Petra - Hochzeitsfotografin aus Leidenschaft")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Petra - Hochzeitsfotografin aus Leidenschaft"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_Petra__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_Petra__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra Fritzi Hennemann hat sich als Fotografin längst einen Namen gemacht. Das
 Braut &amp; Bräutigam Magazin, Wedding Style, Hochzeitsgezwitscher, Frieda
@@ -65,7 +71,13 @@ Homepage gearbeitet, die mit den Hochzeitsreportagen der vergangenen Saison neu
 bestückt werden soll. Dann war ich mit meinem Hund spazieren und jetzt komme ich
 gerade vom Libertines-Konzert. Es war genial (lacht)!
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24604659143_71847c8016_z-640x426.jpg "Auch Matze und mich hat Petra fotografiert")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Auch Matze und mich hat Petra fotografiert"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604659143_71847c8016_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604659143_71847c8016_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bei "Down in Albion" habe ich natürlich an Dich und Matze denken müssen.
 
@@ -89,7 +101,13 @@ Voraussetzung dafür, dass meine Bilder ganz natürlich werden. Wenn dann noch d
 Sympathie stimmt und alle Spaß miteinander haben, ist das ein perfektes Rezept
 für ECHTE Bilder.
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24604632903_b3ea0c9f3a_z-640x426.jpg "Ein Bräutigam bereitet sich auf die Hochzeit vor")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Ein Bräutigam bereitet sich auf die Hochzeit vor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604632903_b3ea0c9f3a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604632903_b3ea0c9f3a_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Konntest Du das schon immer so gut? Kann mann das lernen, oder muss
 man da einfach der Typ dafür sein?
@@ -113,7 +131,13 @@ Gebiet.
 
 > ## Unser Fotostudio wurde gesprengt!
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24863761819_34c2008ac2_z-640x426.jpg "Spaß beim Fotografieren")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Spaß beim Fotografieren"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863761819_34c2008ac2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863761819_34c2008ac2_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Das war ein relativ langer Prozess. Als ich mich 2003 selbständig
 machte, fotografierte ich sämtliche Themen aus der Portraitfotografie wie
@@ -132,7 +156,13 @@ Portraitaufnahmen zu machen. Auch wurden es immer mehr Hochzeiten. Diese Freude,
 diese Emotionen festzuhalten, ganz dicht dabei zu sein und sehr viel Glück und
 Gefühle mitzubekommen, ist genau das, worin ich aufgehe, was mich mitreißt.
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24863751099_1214dce52d_z-640x426.jpg "Die Sonne kommt raus")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Die Sonne kommt raus"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863751099_1214dce52d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863751099_1214dce52d_z__l.jpg"
+  loadingUrl="undefined" />
 
 So war es dann irgendwann klar, dass ich mich auf Hochzeiten spezialisierte. Das
 war noch lange, bevor der Hype mit den Hochzeitsreportagen losging.
@@ -154,7 +184,13 @@ machte, arbeitete ich nebenher als Fitness-Trainerin, Skilehrerin und
 Aerobic-Instructor. Heute mache ich nach wie vor unheimlich gerne Sport - aber
 eben nur noch als Hobby.
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24604627443_8a91cac279_z-640x426.jpg "Hochzeitsvorbereitungen")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Hochzeitsvorbereitungen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604627443_8a91cac279_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604627443_8a91cac279_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Das ist ganz schön abwechslungsreich! Und Du hast dich auf jeden Fall
 richtig entschieden. Es hat sich gelohnt! Du hast Dir einen Namen gemacht und
@@ -176,7 +212,13 @@ nächstes Jahr schon Hochzeitsbuchungen.
 all meine Brautpaaren übergesprungen. Sonst hätte ich die Aufträge nicht
 angenommen. Frag mich am Ende der Hochzeitssaison noch mal (grinst).
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24863749189_5b8d22bc44_z-640x426.jpg "Hochzeit in der Natur")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Hochzeit in der Natur"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863749189_5b8d22bc44_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863749189_5b8d22bc44_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Was war Deine persönliche Lieblings-Hochzeit?
 
@@ -201,7 +243,13 @@ Bands sind Dir die liebsten?
 
 > ## Dark Wave und Grunge haben mein Musikbild geprägt
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24935840470_aa6df711c2_z-640x426.jpg "Brautpaar im Regen")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Brautpaar im Regen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24935840470_aa6df711c2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24935840470_aa6df711c2_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Ui, diese Frage ist ist natürlich ganz nach meinem Geschmack! Ich bin
 mit Indie, Britpop und Grunge groß geworden, aber auch Dark Wave und Synthie-Pop
@@ -229,7 +277,13 @@ ja nach wie vor noch eher zu Schlagern oder Popmusik gegriffen.
 
 Welchen typischen Hochzeitssong würdest Du am liebsten nie wieder hören?
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24604443643_a1c51209a3_z-640x426.jpg "Gute Musik bedeutet Petra alles")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Gute Musik bedeutet Petra alles"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604443643_a1c51209a3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604443643_a1c51209a3_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Definitiv "Love is in the air"! Dieser Song kommt zu 99% als erstes
 nach dem Brauttanz. Das ist so schrecklich.
@@ -251,7 +305,13 @@ Fotos, Musik, Blumen, Hochzeitsblog [<sup>1</sup>](#1), Torte, Kleid, Schuhe,
 Haare, Make-up, Getränke, die Liste der Dinge, die auf einer Hochzeit
 organisiert werden müssen, ist schier endlos. Was ist für Dich das Wichtigste?
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/25204990636_cc980631b8_z-640x480.jpg "Stimmungsvolles Bild vom The Hives Konzert")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Stimmungsvolles Bild vom The Hives Konzert"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25204990636_cc980631b8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25204990636_cc980631b8_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Diese Dinge gehören alle zu einer guten Hochzeit und wenn das
 Gesamtbild stimmig ist, ist das natürlich auch für mich als Fotografin ein
@@ -268,7 +328,13 @@ Insider-Witz!
 
 > ## Die schönste Pose nimmt das Brautpaar von selbst ein
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24604662573_c82bb02e14_z-640x426.jpg "Die schönste Pose nimmt das Brautpaar ganz von selbst ein, meint Petra")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Die schönste Pose nimmt das Brautpaar ganz von selbst ein, meint Petra"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604662573_c82bb02e14_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604662573_c82bb02e14_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Die schönste Pose ist die, die das Brautpaar ganz spontan einnimmt,
 wenn es miteinander lacht, herum albert, sich aneinander kuschelt oder innig
@@ -302,7 +368,13 @@ schön, wenn wir miteinander telefonieren, erzählen, uns beschnuppern.
 
 > ## Vor dem großen Tag möchte ich das Brautpaar kennenlernen
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/25231429075_c9c67a084d_z-640x426.jpg "Märchenhafte Aufnahme")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Märchenhafte Aufnahme"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25231429075_c9c67a084d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25231429075_c9c67a084d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Da merkt man dann gleich, wie man sich versteht und ob man den Hochzeitstag
 miteinander verbringen möchte. Ich finde das ist eine wichtige Grundlage, damit
@@ -332,7 +404,13 @@ ohne liebe Freunde und Kollegen nicht zu schaffen gewesen wäre.
 
 > ## Ich bin mit einem Brautkleid durch Neuseeland gereist
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/25138253481_970007c0fc_z-640x426.jpg "Ein Brautkleid reist durch Neuseeland")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Ein Brautkleid reist durch Neuseeland"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25138253481_970007c0fc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25138253481_970007c0fc_z__l.jpg"
+  loadingUrl="undefined" />
 
 Von emotionaler Seite war mein größtes Projekt die Reise mit dem Brautkleid
 durch Neuseeland [<sup>1</sup>](#1). Ich hatte mir ein knitterfreies "one size
@@ -369,7 +447,13 @@ Hennemann aus?
 
 > ## Mit meinen Bildern möchte ich in Richtung analoge Zeit gehen
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24863765089_e7acb1b6de_z-640x426.jpg "Ein Hochzeitskleid vor der Hochzeit")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Ein Hochzeitskleid vor der Hochzeit"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863765089_e7acb1b6de_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863765089_e7acb1b6de_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Momentan bin ich recht zufrieden, aber ich muss immer am Ball
 bleiben. Ich möchte zum Beispiel weiter an mir und meiner Bildsprache arbeiten.
@@ -407,7 +491,13 @@ Bisschen die Frau Schokolinse.
 
 > ## Ich würde vor der Hochzeit eine Bergtour machen
 
-![Hochzeitsfotografin](http://cardamonchai.com/wp-content/uploads/2016/02/24935834550_baf02cf92e_z-640x426.jpg "Unsere Hochzeitstorte hat Petra auch fotografiert")
+<RemoteImage
+  alt="Hochzeitsfotografin"
+  size="medium"
+  title="Unsere Hochzeitstorte hat Petra auch fotografiert"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24935834550_baf02cf92e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24935834550_baf02cf92e_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Aufregung ist etwas ganz Normales. Sicherheitshalber sollte die Braut
 an ihrem großen Tag noch einmal durchgehen, ob alles soweit vorbereitet und

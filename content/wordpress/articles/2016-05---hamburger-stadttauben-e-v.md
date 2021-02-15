@@ -28,7 +28,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (97:50)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (115:50)"
 thumbnailId: "14901"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__l.jpg
@@ -37,10 +37,16 @@ subTitle: Ein Verein mit Herz für Tauben
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (97:50)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (115:50)
 
 <!--
-![Stadttauben](http://cardamonchai.com/wp-content/uploads/2016/05/17160873227_6048e2ba21_z-640x427.jpg)
+<RemoteImage
+  alt="Stadttauben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_17160873227_6048e2ba21_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Wie einige von Euch schon wissen, liegen mir aus verschiedenen Gründen Tauben
 sehr am Herzen. Besonders die Stadttauben, die immer um uns herumfliegen, aber
@@ -66,7 +72,13 @@ Stadttauben an und verpaaren sich sogar mit ihnen. Zu unterscheiden sind sie
 durch ihre Gefiederzeichnungen. Oft stehen sie das harte Straßenleben nicht
 lange durch und finden ein trauriges Ende.
 
-![Stadttauben](http://cardamonchai.com/wp-content/uploads/2016/05/21447371659_0f24700ac2_z-640x640.jpg)
+<RemoteImage
+  alt="Stadttauben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_21447371659_0f24700ac2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_21447371659_0f24700ac2_z__l.jpg"
+  loadingUrl="undefined" />
 
 Unsere heutigen **Stadttauben** stammen von der Felsentaube ab. Die verwilderten
 Haustiere, die wir als Stadttauben kennen, suchen sich daher auch gerne
@@ -94,7 +106,13 @@ Minimum reduziert werden. Parallel zur Gründung wurde die Gemeinnützigkeit der
 Institution erreicht. Das ist besonders wichtig, zum Beispiel für den Umgang mit
 den Behörden sowie die Geltendmachung von Spenden.
 
-![Stadttauben](http://cardamonchai.com/wp-content/uploads/2016/05/26755742482_b080212427_z-640x427.jpg)
+<RemoteImage
+  alt="Stadttauben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26755742482_b080212427_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26755742482_b080212427_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Verein hat ein Notruftelefon eingerichtet. Findet man in Hamburg eine
 verletzte oder eingesperrte Taube, kann man dort anrufen, die Helfer kümmern
@@ -171,7 +189,13 @@ außerdem auch jede Menge Wissenswertes über Tauben zu lesen. Auf der
 anderen Städten gibt es ähnliche Vereine, Infos findet Ihr bei Eurer
 Stadtverwaltung oder im Internet.
 
-![Stadttauben | full](http://cardamonchai.com/wp-content/uploads/2016/05/Hamburger-Stadttauben.png)
+<RemoteImage
+  alt="Stadttauben"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Hamburger-Stadttauben.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://www.hamburgerstadttauben.de/)
 

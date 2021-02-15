@@ -39,7 +39,13 @@ subTitle: Sommerliche Auszeit
 bei Euch. Aufgetankt mit neuer Kraft, frischen Ideen und hoffentlich ganz vielen
 Geschichten von unserem Roadtrip, der morgen losgeht.**
 
-![Roadtrip](http://cardamonchai.com/wp-content/uploads/2018/06/15647786664_de0906f5ab_z-400x267.jpg)
+<RemoteImage
+  alt="Roadtrip"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_15647786664_de0906f5ab_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_15647786664_de0906f5ab_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wo genau es hingeht, erfahrt Ihr schon bald. Vielleicht klickt Ihr ja mal auf
 Instagram oder Facebook rein, dort werde ich mit Sicherheit den ein oder anderen

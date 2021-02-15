@@ -32,7 +32,13 @@ subTitle: Marie von Maviblau berichtet
   
 ---
 
-![Marie lebt in ihrer Traumstadt IstanbulMarie lebt in ihrer Traumstadt Istanbul](http://cardamonchai.com/wp-content/uploads/2015/09/10446223_818332548185608_1397833157808390565_o1-640x427.jpg "Marie lebt in ihrer Traumstadt Istanbul")
+<RemoteImage
+  alt="Marie lebt in ihrer Traumstadt IstanbulMarie lebt in ihrer Traumstadt Istanbul"
+  size="medium"
+  title="Marie lebt in ihrer Traumstadt Istanbul"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_10446223_818332548185608_1397833157808390565_o1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_10446223_818332548185608_1397833157808390565_o1__l.jpg"
+  loadingUrl="undefined" />
 
 **Sicher können sich einige von Euch noch an Marie erinnern. Vor Kurzem habe ich
 mich wieder mit Marie unterhalten und sie hatte Interessantes zu berichten.**
@@ -55,7 +61,13 @@ Maviblau gegründet, das sich mit Geschichten zwischen der Türkei und der
 deutschsprachigen Welt beschäftigt. Themen sind vor allem Kunst, Kultur und
 Gesellschaft.
 
-![Blick auf den Bosporus | full](http://cardamonchai.com/wp-content/uploads/2015/09/Luftballons1.png "Blick auf den Bosporus")
+<RemoteImage
+  alt="Blick auf den Bosporus"
+  size="full"
+  title="Blick auf den Bosporus"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Luftballons1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Luftballons1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Das Ziel der Maviblau-Leute ist es, die Vielfalt und Lebendigkeit des türkischen
 und deutschsprachigen Lebens zu erforschen und dokumentarisch festzuhalten. Sie
@@ -79,7 +91,13 @@ Portionen davon anbietet. Es gibt lustige und nachdenkliche Berichte, wie
 beispielsweise der über das Überleben im Straßenverkehr der Megametropole
 Istanbul, oder die Frage, wie es sich anfühlt, „auf türkisch“ älter zu werden.
 
-![Hadi Tschüss - Dokumentarfilm über Istanbul bei Maviblau | full](http://cardamonchai.com/wp-content/uploads/2015/09/Hadi-Tschüss-Dokumentarfilm-über-Istanbul-bei-Maviblau1.jpg "Hadi Tschüss - Dokumentarfilm über Istanbul")
+<RemoteImage
+  alt="Hadi Tschüss - Dokumentarfilm über Istanbul bei Maviblau"
+  size="full"
+  title="Hadi Tschüss - Dokumentarfilm über Istanbul"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Hadi-Tsch%C3%BCss-Dokumentarfilm-%C3%BCber-Istanbul-bei-Maviblau1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Hadi-Tsch%C3%BCss-Dokumentarfilm-%C3%BCber-Istanbul-bei-Maviblau1__l.jpg"
+  loadingUrl="undefined" />
 
 Es werden Filme und Performances von deutsch-türkischen Künstlern vorgestellt,
 Fragen nach Heimat und Identität werden behandelt und mal ernsthaft, mal

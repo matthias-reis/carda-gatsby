@@ -39,7 +39,13 @@ subTitle: Konzertbericht
   
 ---
 
-![Trail Of Dead | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/04/img_4321-150x150.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="thumbnail"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4321__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4321__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4321.jpg) Wir hatten
 Glück und fanden ziemlich schnell einen Parkplatz in der Nähe, was am Freitag
@@ -49,7 +55,13 @@ Wir waren beide schwer beeindruckt von der Location. Ein winziger gemütlicher
 Club mit 2 Bars und einer kleinen Bühne. Wir versorgten uns an der Bar und am
 T-Shirt-Stand und warteten vorne an der Bande auf die Band.
 
-![Trail Of Dead | small](http://cardamonchai.com/wp-content/uploads/2013/04/img_4322-320x320.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4322__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4322__l.jpg"
+  loadingUrl="undefined" />
 
 Von einer Vorband hatten wir nichts gehört, so waren wir einigermaßen
 überrascht, als eine Mädchenpunkband aus England als Support die Bühne betrat.
@@ -62,7 +74,13 @@ wie verrückt begannen, ihre Instrumente zu tauschen, bereute die junge Dame das
 Ablegen ihres Schuhwerks ein Wenig und fluchte unüberhörbar. Herzig, dachte ich
 mir. Genau das möchte ich auch machen!
 
-![Trail Of Dead | small](http://cardamonchai.com/wp-content/uploads/2013/04/img_4336-320x320.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4336__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4336__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4336.jpg) Im Anschluss
 entpuppten sich die Roadies als norwegische Pseudohardcoreband, die auch noch
@@ -70,7 +88,13 @@ ein Bisschen über die Bühne schrabbeln durfte, ehe es ernst wurde. Die ganze
 Zeit flossen Jägermeister, Rum und Augustiner in Strömen, alle drei Bands hatten
 sich sichtlich lieb und prosteten sich permanent zu.
 
-![Trail Of Dead | small](http://cardamonchai.com/wp-content/uploads/2013/04/img_4314-320x428.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4314__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4314__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4314.jpg) Schließlich
 betraten Trail Of Dead die Bühne und eins muss ich ihnen lassen: Die Jungs
@@ -78,7 +102,13 @@ schaffen es jedes Mal auf's Neue, mich derartig zu überraschen, dass ich immer
 wieder neu kennenlerne. Auch gestern zeigten sie mal wieder eine ganz neue
 Facette ihrer schillernd bunten Lebensart.
 
-![Trail Of Dead | small](http://cardamonchai.com/wp-content/uploads/2013/04/img_4306-320x428.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4306__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4306__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4306.jpg) Bereits bei den
 ersten Akkorden konnte man ihnen ein Wenig anmerken, dass sie bereits eine ganze
@@ -87,7 +117,13 @@ noch mit vollem Elan. Ab Song 3 wurden dann die Späße immer wilder, die Männe
 stolperten über ihre Kabel, vergaßen einfach mal, ob die Verstärker nun an waren
 oder aus, oder gar sich selbst und das Publikum.
 
-![Trail Of Dead | small](http://cardamonchai.com/wp-content/uploads/2013/04/img_4269-320x320.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4269__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4269__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4269.jpg) Besonders bunt
 trieb es Jason Reece, der es ca. ab der Mitte von 'Aged Dolls' nicht mehr
@@ -105,14 +141,26 @@ kaum noch als Song erkennbare Zugabe zum Besten zu geben, die in einem
 Purzelbaum des Bassisten, dem völligen Kontrollverlust des Schlagzeugers (nun
 wieder Jason Reece) und dröhnendem Applaus der Audience gipfelte.
 
-![Trail Of Dead | small](http://cardamonchai.com/wp-content/uploads/2013/04/img_4296-320x428.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4296__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4296__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4296.jpg) Auch wenn von
 der unten abgebildeten Playlist, die sich die Band offensichtlich irgendwann mal
 vorgenommen haben muss, nicht mehr viel erkennbar war: Ein toller Konzertabend.
 Ich bereue nichts. Toll, Trail Of Dead mal wieder ganz neu entdeckt zu haben.
 
-![Trail Of Dead | small](http://cardamonchai.com/wp-content/uploads/2013/04/img_4290-320x428.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4290__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4290__l.jpg"
+  loadingUrl="undefined" />
 
 I [](http://cardamonchai.files.wordpress.com/2013/04/img_4290.jpg) ch muss auch
 zugeben, dass ich bereits einen flüchtigen Gedanken mit der Idee verschwendet
@@ -128,7 +176,13 @@ Spaß. Back to the roots oder so. Natürlich brauche ich dazu einen Roadie, auf
 den ich mich zu 498 Prozent verlassen kann, den ich im Anschluss gleich als
 neues Bandmitglied begrüßen kann.'
 
-![Trail Of Dead | small](http://cardamonchai.com/wp-content/uploads/2013/04/img_4288-320x428.jpg)
+<RemoteImage
+  alt="Trail Of Dead"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4288__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4288__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4288.jpg) Klar ist das
 ein Hirngespinst, aber eine schöne Vorstellung. Denn genau so konnte ich mir
@@ -148,6 +202,12 @@ _PS: Ich habe mir einfach mal rausgenommen, diesen Artikel mal etwas
 ungeordneter erscheinen zu lassen, als Ihr es sonst von mir gewohnt seid. Und es
 tut mir nicht leid. Skøl!_
 
-![Trail Of Dead | large](http://cardamonchai.com/wp-content/uploads/2013/04/playlist-800x921.jpg "[ ](http://cardamonchai.files.wordpress.com/2013/04/playlist.jpg)  Die ursprünglich geplante Playlist")
+<RemoteImage
+  alt="Trail Of Dead"
+  size="large"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/playlist.jpg)  Die ursprünglich geplante Playlist"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_playlist__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_playlist__l.jpg"
+  loadingUrl="undefined" />
 
   

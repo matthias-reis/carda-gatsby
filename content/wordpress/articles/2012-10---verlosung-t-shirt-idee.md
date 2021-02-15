@@ -139,72 +139,197 @@ Gewinnspiel! Ich muss sagen, es hat mir wirklich großen Spaß gemacht!
 für alle, die die Gewinne nochmal sehen wollen. Und nun viel Spaß mit der
 T-Shirt-Galerie!
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/annett1-640x853.jpg "Annett bemalte dieses T-Shirt für Ihren Sohn für das diesjährige Burg Herzberg Festival. Das selbst entworfene Logo befindet sich auch auf Ihrem Auto.")
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="Annett bemalte dieses T-Shirt für Ihren Sohn für das diesjährige Burg Herzberg Festival. Das selbst entworfene Logo befindet sich auch auf Ihrem Auto."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_annett1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_annett1__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/franky-640x480.jpg "Franky aus Berlin bekam dieses selbst gestaltete Madonna-T-Shirt von einem Freund für das Madonna-Konzert im Juni geschenkt.")
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="Franky aus Berlin bekam dieses selbst gestaltete Madonna-T-Shirt von einem Freund für das Madonna-Konzert im Juni geschenkt."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_franky__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_franky__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/08102012-010flkl-640x480.jpg 'Bernd hat dieses Shirt vor Jahren selbst bedruckt. Die Aufschrift "this is not a FUGAZI T-Shirt" trägt es, da es von der Band Fugazi keine Band-Shirts gibt, weil die Jungs auf Kommerz lieber verzichten möchten.')
+<RemoteImage alt="Verlosung" size="medium" title="Bernd hat dieses Shirt vor
+Jahren selbst bedruckt. Die Aufschrift "this is not a FUGAZI T-Shirt" trägt es,
+da es von der Band Fugazi keine Band-Shirts gibt, weil die Jungs auf Kommerz
+lieber verzichten möchten."
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_08102012-010flkl__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_08102012-010flkl__l.jpg"
+loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/olli-640x480.jpg
-'Olli setzte alle Hebel in Bewegung, um an dieses Original-T-Shirt aus dem Film
-'Hangover' zu kommen. Das gute Stück trägt den Namen 'Human Tree'.')
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="Olli setzte alle Hebel in Bewegung, um an dieses Original-T-Shirt aus dem Film 'Hangover' zu kommen. Das gute Stück trägt den Namen 'Human Tree'."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_olli__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_olli__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | full](http://cardamonchai.com/wp-content/uploads/2012/10/olli-original.jpg "Hier ist das Bild nochmal an Zack, dem Protagonisten des Films zu sehen.")
+<RemoteImage
+  alt="Verlosung"
+  size="full"
+  title="Hier ist das Bild nochmal an Zack, dem Protagonisten des Films zu sehen."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_olli-original__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_olli-original__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/qotsa-640x402.jpeg
-'[Aithir](http://aithir.de/) schreibt folgendes über sein Lieblings-T-Shirt: 'Es
-ist inzwischen ungefähr 10 Jahre alt und seitdem trage ich es fast jede Woche -
-das macht über 500 Waschgänge und ein tolles Grau, wie es Modedesigner bei ihren
-Vintagestyles gerne hinbekommen würden. Außerdem hat es das coolste Motiv, das
-ich je auf einem T-Shirt gesehen habe. Und schließlich ist es von den Queens Of
-The Stoneage.'')
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="[Aithir](http://aithir.de/)  schreibt folgendes über sein Lieblings-T-Shirt: 'Es ist inzwischen ungefähr 10 Jahre alt und seitdem trage ich es fast jede Woche - das macht über 500 Waschgänge und ein tolles Grau, wie es Modedesigner bei ihren Vintagestyles gerne hinbekommen würden. Außerdem hat es das coolste Motiv, das ich je auf einem T-Shirt gesehen habe. Und schließlich ist es von den Queens Of The Stoneage.'"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_qotsa.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_qotsa.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/susanne-haun1-640x667.jpg "Mit diesem T-Shirt hat  [Susanne Haun](http://susannehaun.wordpress.com/)  bereits New York, San Francisco, Boston und viele weitere beeindruckende Orte bereist.")
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="Mit diesem T-Shirt hat  [Susanne Haun](http://susannehaun.wordpress.com/)  bereits New York, San Francisco, Boston und viele weitere beeindruckende Orte bereist."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_susanne-haun1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_susanne-haun1__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/susanne-haun2-640x713.jpg "Ein weiteres Lieblings-T-Shirt von  [Susanne Haun](http://susannehaun.wordpress.com/).  Sie hat es von einer lieben Freundin geschenkt bekommen.")
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="Ein weiteres Lieblings-T-Shirt von  [Susanne Haun](http://susannehaun.wordpress.com/).  Sie hat es von einer lieben Freundin geschenkt bekommen."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_susanne-haun2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_susanne-haun2__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/dominic-320x320.jpg
-'Die Idee zu Dominics T-Shirt stammt aus der Serie 'Die Wilden 70er'.')
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="Die Idee zu Dominics T-Shirt stammt aus der Serie 'Die Wilden 70er'."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_dominic__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_dominic__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/tommi-320x378.jpg
-'Tommis Lieblings-T-Shirt entstand, als seine Freundin langsam eine schwere
-Zunge bekam. Er entwirft sehr gerne T-Shirts mit 'Insider'-Sprüchen zusammen mit
-seinen Freunden.')
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="Tommis Lieblings-T-Shirt entstand, als seine Freundin langsam eine schwere Zunge bekam. Er entwirft sehr gerne T-Shirts mit 'Insider'-Sprüchen zusammen mit seinen Freunden."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_tommi__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_tommi__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | full](http://cardamonchai.com/wp-content/uploads/2012/10/peter.png
-'Peter entwirft gerne T-Shirts für seine Freunde. Dieses hier ziert ein Zitat
-aus dem Film 'Life of Brian'.')
+<RemoteImage
+  alt="Verlosung"
+  size="full"
+  title="Peter entwirft gerne T-Shirts für seine Freunde. Dieses hier ziert ein Zitat aus dem Film 'Life of Brian'."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_peter.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_peter.png__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/ulrike-640x425.jpg "[Ulle](http://thatgirlthere.wordpress.com/),  vielen auch bekannt als  [@isntfamous](https://twitter.com/isntfamous)  besitzt ihr Lieblings-T-Shirt bereits seit rund 10 Jahren. Sie hat es auf einem Thrice-Konzert in Hamburg erstanden.")
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="[Ulle](http://thatgirlthere.wordpress.com/),  vielen auch bekannt als  [@isntfamous](https://twitter.com/isntfamous)  besitzt ihr Lieblings-T-Shirt bereits seit rund 10 Jahren. Sie hat es auf einem Thrice-Konzert in Hamburg erstanden."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_ulrike__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_ulrike__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/flo1-640x480.jpg "Flo hat...")
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="Flo hat..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo1__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/flo3-640x480.jpg "...gleich eine ganze Reihe...")
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="...gleich eine ganze Reihe..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo3__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/flo4-640x480.jpg "tolle Lieblings-T-Shirts eingesendet. Unter anderem dieses Opeth-T-Shirt, das ich ganz besonders schön finde...")
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="tolle Lieblings-T-Shirts eingesendet. Unter anderem dieses Opeth-T-Shirt, das ich ganz besonders schön finde..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo4__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung](http://cardamonchai.com/wp-content/uploads/2012/10/flo2-640x480.jpg
-'... zu diesem T-Shirt gibt es eine besondere Geschichte zu erzählen. Zusammen
-mit einigen Studienkollegen in Eichstädt, die alle aus dem bayerischen Wald
-stammten, wurde der Begriff 'Woidcoast' kreiert. Gemeinsam tröstete man sich
-damit über die Ferne des Waldes ('Woid') hinweg. Bei seinem T-Shirt, das er von
-eben jenen Studienfreunden geschenkt bekam, handelt es sich um ein Unikat.')
+<RemoteImage
+  alt="Verlosung"
+  size="medium"
+  title="... zu diesem T-Shirt gibt es eine besondere Geschichte zu erzählen. Zusammen mit einigen Studienkollegen in Eichstädt, die alle aus dem bayerischen Wald stammten, wurde der Begriff 'Woidcoast' kreiert. Gemeinsam tröstete man sich damit über die Ferne des Waldes ('Woid') hinweg. Bei seinem T-Shirt, das er von eben jenen Studienfreunden geschenkt bekam, handelt es sich um ein Unikat."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_flo2__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/sandra1-320x427.jpg "Auch Sandra, aka  [Hoochi1107](http://hoochi1107.wordpress.com/). ..")
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="Auch Sandra, aka  [Hoochi1107](http://hoochi1107.wordpress.com/). .."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra1__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/sandra2-320x427.jpg "... hat...")
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="... hat..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra2__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/sandra3-320x390.jpg "... bunt und farbenfroh, wie sie ist...")
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="... bunt und farbenfroh, wie sie ist..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra3__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/sandra4-320x336.jpg "... gleich eine...")
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="... gleich eine..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra4__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/sandra5-320x427.jpg "... ganze Menge...")
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="... ganze Menge..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra5__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/sandra6-320x326.jpg "... wunderbar farbenfrohe,...")
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="... wunderbar farbenfrohe,..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra6__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/sandra7-320x313.jpg "... fröhliche...")
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="... fröhliche..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra7__l.jpg"
+  loadingUrl="undefined" />
 
-![Verlosung | small](http://cardamonchai.com/wp-content/uploads/2012/10/sandra8-320x323.jpg "... Lieblings-T-Shirts eingesendet. Vielen Dank dafür!")
+<RemoteImage
+  alt="Verlosung"
+  size="small"
+  title="... Lieblings-T-Shirts eingesendet. Vielen Dank dafür!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_sandra8__l.jpg"
+  loadingUrl="undefined" />
 
 ## Danke an alle Teilnehmer meiner Verlosung!
 

@@ -43,7 +43,13 @@ subTitle: Nach einem traditionellen Rezept aus Andorra
   
 ---
 
-![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-16-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Wirsing-Kartoffelkuchen")
+<RemoteImage
+  alt="Kartoffelkuchen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Wirsing-Kartoffelkuchen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-16__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-16__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor Kurzem sah ich im Fernsehen eine Sendung über die Bewohner von Andorra, in
 der unter Anderem auch gekocht wurde. Ein Rezept für Kartoffelkuchen hat mich
@@ -68,7 +74,13 @@ zeigen, das ich hiermit liebevoll auf den Namen Wirsing-Kartoffelkuchen taufe.
 - Distelöl
 - Wasser## Zubereitung
 
-![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Die Zutaten")
+<RemoteImage
+  alt="Kartoffelkuchen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Die Zutaten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen__l.jpg"
+  loadingUrl="undefined" />
 
 Den Topf ca. bis zur Hälfte mit Wasser füllen und etwas Salz hinzugeben. Den
 Wirsing und die Kartoffeln waschen, in mittelgroße Stücke schneiden und diese
@@ -89,7 +101,13 @@ anbraten, dabei alles schön flach andrücken und nicht umrühren!
 > Zugabe von etwas Hafersahne daraus eine leckere Kartoffelcremesuppe für die
 > Mittagspause zubereiten.
 
-![Kartoffelkuchen](http://cardamonchai.com/wp-content/uploads/2014/11/wirsing-kartoffelkuchen-5-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Das Gemüse auf mittlerer Stufe kochen")
+<RemoteImage
+  alt="Kartoffelkuchen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Gemüse auf mittlerer Stufe kochen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-5__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn alles schön kross gebraten ist, den Kartoffelkuchen mit Wirsing zusammen
 mit der Beilage auf den Tellern anrichten.

@@ -28,7 +28,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:9)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:9)"
 thumbnailId: "12288"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__l.jpg
@@ -37,10 +37,16 @@ subTitle: Bilder von Denise Slapansky
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (32:9)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (44:9)
 
 <!--
-![Denise auf dem Überlebenshof Scottmaring](http://cardamonchai.com/wp-content/uploads/2015/08/11913231_1009917619054983_262499720_n-640x853.jpg "Denise auf dem Überlebenshof Scottmaring")
+<RemoteImage
+  alt="Denise auf dem Überlebenshof Scottmaring"
+  size="medium"
+  title="Denise auf dem Überlebenshof Scottmaring"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11913231_1009917619054983_262499720_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11913231_1009917619054983_262499720_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die vegane
 Häkelmützen mit Statement [<sup>1</sup>](#1) herstellt und sich für die Rechte
@@ -59,7 +65,13 @@ zum Einsatz.
 
 <blockquote>Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden. [<sup>2</sup>](#2)  So muss das für sie sein, wenn sie befreit werden.
 
-![Denise beim Zaunbau auf dem Überlebenshof](http://cardamonchai.com/wp-content/uploads/2015/08/11910611_1009917545721657_897681080_n-640x853.jpg "Denise beim Zaunbau auf dem Überlebenshof")
+<RemoteImage
+  alt="Denise beim Zaunbau auf dem Überlebenshof"
+  size="medium"
+  title="Denise beim Zaunbau auf dem Überlebenshof"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11910611_1009917545721657_897681080_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11910611_1009917545721657_897681080_n__l.jpg"
+  loadingUrl="undefined" />
 
 Licht, nur durch das Licht entstehende Farben, Luft, Freiheit, Liebe. Das fängt
 schon beim Futter an: Der Einheitsfraß, den z. B. Schweine bekommen: Ein grauer
@@ -76,7 +88,13 @@ die Tiere in einen Kontext, in dem sie sein sollten: Mitten im Leben, das bunt
 und schön ist, das man genießen muss, es ist das Einzige, das uns allen wirklich
 gehört.</blockquote>
 
-![Bild aus dem Atelier von Denise](http://cardamonchai.com/wp-content/uploads/2015/08/11846215_1006376552742423_1526749849_n-640x480.jpg "Bild aus dem Atelier von Denise")
+<RemoteImage
+  alt="Bild aus dem Atelier von Denise"
+  size="medium"
+  title="Bild aus dem Atelier von Denise"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11846215_1006376552742423_1526749849_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11846215_1006376552742423_1526749849_n__l.jpg"
+  loadingUrl="undefined" />
 
 Denise geht es um die Stimmung, den Ausdruck und den Kontext. Sie möchte, dass
 ihre Bilder immer wieder gerne angesehen werden.
@@ -92,7 +110,13 @@ beitragen können.
 
 ## Sissi und Franz
 
-![Sissi und Franz](http://cardamonchai.com/wp-content/uploads/2015/08/11872662_1009917649054980_786126211_n-640x360.jpg "Sissi und Franz")
+<RemoteImage
+  alt="Sissi und Franz"
+  size="medium"
+  title="Sissi und Franz"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11872662_1009917649054980_786126211_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11872662_1009917649054980_786126211_n__l.jpg"
+  loadingUrl="undefined" />
 
 Während mir Denise von ihren Kunstwerken erzählte, berichtete sie mir auch von
 Sissi und Franz. Sissi wurde von einer Tierärztin entdeckt, die ihn auf einen
@@ -103,7 +127,13 @@ Sissis Retterin ist so verliebt in das Schweinekind, dass sie fand, Sissi müsse
 Gesellschaft bekommen. Die Betreiberin des Hofes bekam dann Franz geschenkt, der
 aufgrund eines Hodendurchbruchs für den Bauern "wertlos" geworden war.
 
-![Franz](http://cardamonchai.com/wp-content/uploads/2015/08/11882296_1007471632632915_4177767694622563308_o-640x853.jpg "Franz")
+<RemoteImage
+  alt="Franz"
+  size="medium"
+  title="Franz"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11882296_1007471632632915_4177767694622563308_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11882296_1007471632632915_4177767694622563308_o__l.jpg"
+  loadingUrl="undefined" />
 
 Die beiden waren von Anfang an ein Herz und eine Seele, Sissi kümmert sich ganz
 rührend um den kleinen Mann. Wenn es die Zeit zulässt, besucht Denise die beiden

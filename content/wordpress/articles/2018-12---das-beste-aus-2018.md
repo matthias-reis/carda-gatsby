@@ -55,7 +55,13 @@ Euch viel Spaß beim Stöbern.
 ganz besonderen Radiosenders erzählt, bei dem man andere Wege geht: "Radio
 Paradise" aus Kalifornien.
 
-![radio-paradiese | large](http://cardamonchai.com/wp-content/uploads/2018/12/Radio-Paradise-2-520x436.png)
+<RemoteImage
+  alt="radio-paradiese"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Radio-Paradise-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Radio-Paradise-2.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/01/radio-paradise/)
 
@@ -66,7 +72,13 @@ gereist. Dabei habt Ihr so einiges über Kobolde gelernt. Der Artikel hat sich
 übrigens zum am häufigsten gelesenen Beitrag in meinem Blog gemausert. Vielen
 Dank dafür!
 
-![das-ende-des-regenbogens | large](http://cardamonchai.com/wp-content/uploads/2018/12/Vigilatte-Cafe-520x436.png)
+<RemoteImage
+  alt="das-ende-des-regenbogens"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Vigilatte-Cafe.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Vigilatte-Cafe.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/02/das-ende-des-regenbogens/)
 
@@ -75,7 +87,13 @@ Dank dafür!
 Alles über vegane Kosmetik, Biokosmetik und Naturkosmetik habt Ihr im März
 erfahren.
 
-![vegane-schoenheit | large](http://cardamonchai.com/wp-content/uploads/2018/12/Vegane-Kosmetik-Biokosmetik-Naturkosmetik-520x436.png)
+<RemoteImage
+  alt="vegane-schoenheit"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Vegane-Kosmetik-Biokosmetik-Naturkosmetik.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Vegane-Kosmetik-Biokosmetik-Naturkosmetik.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/03/vegane-kosmetik-und-naturkosmetik/)
 
@@ -83,7 +101,13 @@ erfahren.
 
 Der April brachte fünf neue Schallplatten, die wir gemeinsam gehört haben.
 
-![april | large](http://cardamonchai.com/wp-content/uploads/2018/12/Musikalische-Perlen-520x436.png)
+<RemoteImage
+  alt="april"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Musikalische-Perlen.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Musikalische-Perlen.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/04/5-alben-im-april/)
 
@@ -92,7 +116,13 @@ Der April brachte fünf neue Schallplatten, die wir gemeinsam gehört haben.
 Der Mai hat Euch unter anderem schmackhafte Spargelrezepte beschert. Dieses hier
 mochtet Ihr besonders.
 
-![spargelsalat | large](http://cardamonchai.com/wp-content/uploads/2018/12/Spargelsalat-1-520x436.png)
+<RemoteImage
+  alt="spargelsalat"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Spargelsalat-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Spargelsalat-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/06/spargelsalat-mit-erdbeeren/)
 
@@ -101,7 +131,13 @@ mochtet Ihr besonders.
 Im Juni war ich viel unterwegs. Unter anderem habe ich Euch mit auf die schöne
 Insel Rügen genommen.
 
-![ruegen | large](http://cardamonchai.com/wp-content/uploads/2018/12/Wanderung-zum-Königsstuhl-520x436.png)
+<RemoteImage
+  alt="ruegen"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Wanderung-zum-K%C3%B6nigsstuhl.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Wanderung-zum-K%C3%B6nigsstuhl.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/06/wanderung-zum-koenigsstuhl/)
 
@@ -110,7 +146,13 @@ Insel Rügen genommen.
 Im Juli hatte ich im Bucerius Kunst Forum in Hamburg eine Begegnung mit Anton
 Corbijn. Ihr habt mich begleitet.
 
-![anton-corbijn | large](http://cardamonchai.com/wp-content/uploads/2018/12/STEPHANIE-ADAMS-520x436.png)
+<RemoteImage
+  alt="anton-corbijn"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_STEPHANIE-ADAMS.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_STEPHANIE-ADAMS.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/07/anton-corbijn-im-bucerius-kunst-forum-in-hamburg/)
 
@@ -118,7 +160,13 @@ Corbijn. Ihr habt mich begleitet.
 
 Im August waren wir zusammen in der Krimistadt Ystad auf Spurensuche unterwegs.
 
-![ystad | large](http://cardamonchai.com/wp-content/uploads/2018/12/Schweden-2018-520x436.png)
+<RemoteImage
+  alt="ystad"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Schweden-2018.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Schweden-2018.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/08/auf-spurensuche-in-ystad/)
 
@@ -127,7 +175,13 @@ Im August waren wir zusammen in der Krimistadt Ystad auf Spurensuche unterwegs.
 Meine romantische Bilderstrecke vom Vänern hat Euch im September besonders gut
 gefallen.
 
-![vaenern | large](http://cardamonchai.com/wp-content/uploads/2018/12/Der-Vänern-am-Abend-1-520x436.png)
+<RemoteImage
+  alt="vaenern"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Der-V%C3%A4nern-am-Abend-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Der-V%C3%A4nern-am-Abend-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/09/der-vaenern-am-abend/)
 
@@ -136,7 +190,13 @@ gefallen.
 Im Oktober habe ich Euch erzählt, wie es war, als mir zum ersten Mal in meinem
 Leben ein Elch begegnet ist.
 
-![elch | large](http://cardamonchai.com/wp-content/uploads/2018/12/Ich-Glaub-mich-knutscht-ein-Elch-2-520x436.png)
+<RemoteImage
+  alt="elch"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Ich-Glaub-mich-knutscht-ein-Elch-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Ich-Glaub-mich-knutscht-ein-Elch-2.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/10/ich-glaub-mich-knutscht-ein-elch/)
 
@@ -144,7 +204,13 @@ Leben ein Elch begegnet ist.
 
 Im November durftet Ihr mit mir Vennart im Knust in Hamburg live erleben.
 
-![vennart | large](http://cardamonchai.com/wp-content/uploads/2018/12/Vennart-520x436.png)
+<RemoteImage
+  alt="vennart"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Vennart.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_Vennart.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/11/vennart-knust-hamburg/)
 
@@ -152,7 +218,13 @@ Im November durftet Ihr mit mir Vennart im Knust in Hamburg live erleben.
 
 Im Dezember habe ich Euch meine 10 Songs des Jahres präsentiert.
 
-![10-songs-2018 | large](http://cardamonchai.com/wp-content/uploads/2018/12/10-Songs-2018-520x436.png)
+<RemoteImage
+  alt="10-songs-2018"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_10-Songs-2018.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_10-Songs-2018.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/2018/12/meine-10-songs-2018/)
 

@@ -71,7 +71,13 @@ Animal Rights March erhofft hatten, ist in vollem Gange.
 
 ## Der Animal Rights March 2019 lockte zahlreiche Demonstrant\*innen an
 
-![animalrightsmarchberlintobiashess2019](http://cardamonchai.com/wp-content/uploads/2019/08/animal-rights-march-2019-tobias-hess-photography-400x279.jpg "Andreas, Caro, Markus, Inga (v.l.n.r) vom Tierrechtsaktivistenbündnis Hamburg")
+<RemoteImage
+  alt="animalrightsmarchberlintobiashess2019"
+  size="medium"
+  title="Andreas, Caro, Markus, Inga (v.l.n.r) vom Tierrechtsaktivistenbündnis Hamburg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography__l.jpg"
+  loadingUrl="undefined" />
 
 Der March wurde in Berlin [<sup>2</sup>](#2) vom Hamburger
 Tierrechtsaktivistenbündnis [<sup>3</sup>](#3) veranstaltet. Im Nachklang

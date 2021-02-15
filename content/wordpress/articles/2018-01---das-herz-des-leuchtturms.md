@@ -52,7 +52,13 @@ die ich während der Streifzüge mit den Besuchern aufgenommen habe.**
 Begegnungen, die das Herz berühren. Kommt mit an Bord. Der Blick ist
 spektakulär.
 
-![Herz](http://cardamonchai.com/wp-content/uploads/2018/01/39748264511_5d5828c5c6_z-300x200.jpg)
+<RemoteImage
+  alt="Herz"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39748264511_5d5828c5c6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39748264511_5d5828c5c6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wir besuchen das Herz. Wandern Sandstrände entlang. Das Wetter ändert sich fast
 minütlich. Nachrichten, Neuigkeiten und schöne Geschichten.
@@ -60,7 +66,13 @@ minütlich. Nachrichten, Neuigkeiten und schöne Geschichten.
 Das Leben auf Schiffen ist anders. Viele Schiffsliebhaber schwärmen davon. Das
 äußere und das innere Schiffsleben. Schiff und Kapitän dulden keinen Streit.
 
-![Herz](http://cardamonchai.com/wp-content/uploads/2018/01/24832309767_b4e1e0f0e4_z-300x225.jpg)
+<RemoteImage
+  alt="Herz"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24832309767_b4e1e0f0e4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24832309767_b4e1e0f0e4_z__l.jpg"
+  loadingUrl="undefined" />
 
 Langsam gleitet das Schiff übers Wasser. Familie und Freunde an Bord. Ein
 einzigartiges Ambiente. Ankerplatz am Hafenholz.

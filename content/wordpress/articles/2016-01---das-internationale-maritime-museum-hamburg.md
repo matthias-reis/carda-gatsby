@@ -36,7 +36,13 @@ subTitle: Die Geschichte der Seefahrt
   
 ---
 
-![Das Internationale Maritime Museum Hamburg zeigt auch die Geschichte der Piraten](http://cardamonchai.com/wp-content/uploads/2016/01/23854147664_0649fda667_z-640x427.jpg "Das Internationale Maritime Museum Hamburg zeigt auch die Geschichte der Piraten")
+<RemoteImage
+  alt="Das Internationale Maritime Museum Hamburg zeigt auch die Geschichte der Piraten"
+  size="medium"
+  title="Das Internationale Maritime Museum Hamburg zeigt auch die Geschichte der Piraten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23854147664_0649fda667_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23854147664_0649fda667_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor ein paar Tagen haben wir uns das Internationale Maritime Museum in der
 Hamburger Speicherstadt angesehen. Ein wirklich lohnender Besuch, im Museum kann
@@ -48,7 +54,13 @@ vorenthalten werde. Wir haben fast einen kompletten Tag im Museum verbracht,
 
 ## Das Internationale Maritime Museum zeigt Seefahrtsgeschichte
 
-![Das Internationale Maritime Museum Hamburg](http://cardamonchai.com/wp-content/uploads/2016/01/24114552989_65dc2b0c31_z-640x427.jpg "Auch ein Boot namens Alf ist ausgestellt")
+<RemoteImage
+  alt="Das Internationale Maritime Museum Hamburg"
+  size="medium"
+  title="Auch ein Boot namens Alf ist ausgestellt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24114552989_65dc2b0c31_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24114552989_65dc2b0c31_z__l.jpg"
+  loadingUrl="undefined" />
 
 Vom Einbaum bis zum modernen Kreuzfahrtschiff zeigt das Internationale Maritime
 Museum alles, was die Geschichte der Seefahrt zu bieten hat. Durch die

@@ -56,9 +56,21 @@ sie von anderen Festivals gewohnt ist, gibt es nicht.
 
 ## Hier mal die Übersicht:
 
-![Dunk!festival | full](http://cardamonchai.com/wp-content/uploads/2018/04/Teil1-960x621.png)
+<RemoteImage
+  alt="Dunk!festival"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Teil1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Teil1.png__l.jpg"
+  loadingUrl="undefined" />
 
-![Dunk!festival | full](http://cardamonchai.com/wp-content/uploads/2018/04/Teil2-960x554.png)
+<RemoteImage
+  alt="Dunk!festival"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Teil2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Teil2.png__l.jpg"
+  loadingUrl="undefined" />
 
 Das ist schon was Besonderes, oder? Ich jedenfalls freue mich wie fünfjährige
 Drillinge ein paar Tage vor Weihnachten und bin jeden Tag noch ein Bisschen
@@ -73,7 +85,13 @@ wenn man bei Freiluft-Festivitäten die ganze Zeit im T-Shirt rumlaufen kann.
 
 ## Speis und Trank
 
-![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2018/04/Dunk-400x560.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Dunk__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Dunk__l.jpg"
+  loadingUrl="undefined" />
 
 Da das Gelände zu einer Jugendherberge gehört, wird das Essen im Speisesaal
 serviert. Für jeden Geschmack ist etwas geboten und vor allem wir Veganer kommen

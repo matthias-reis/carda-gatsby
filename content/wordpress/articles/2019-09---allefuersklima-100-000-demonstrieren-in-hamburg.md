@@ -44,7 +44,13 @@ In den sozialen Medien brechen die Schlagzeilen mit Teilnehmerrekorden nicht ab.
 Das ist wirklich ganz großes Kino! Ein solch lauter Ruf nach echtem Klimaschutz
 kann von der Politik definitiv nicht mehr überhört werden.
 
-![allefuersklima](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-20-allefuersklima-13-400x300.jpg "Mit dem Tierrechtsaktivistenbündnis in Hamburg fürs Klima auf der Straße")
+<RemoteImage
+  alt="allefuersklima"
+  size="medium"
+  title="Mit dem Tierrechtsaktivistenbündnis in Hamburg fürs Klima auf der Straße"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-13__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-13__l.jpg"
+  loadingUrl="undefined" />
 
 In Hamburg mit dabei waren neben dem
 [Tierrechtsaktivistenbündnis](/2019/08/animal-rights-march-2019/), dem PETA zwei

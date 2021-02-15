@@ -68,7 +68,13 @@ unterschiedlich waren, sehr gut zusammen. Sie harmonierten.</blockquote>
 
 ## Mein Blind Date mit "Peaches" von den Presidents Of The United States
 
-![Presidents Of the United States](http://cardamonchai.com/wp-content/uploads/2018/02/peach-2573836_640-300x200.jpg)
+<RemoteImage
+  alt="Presidents Of the United States"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peach-2573836_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peach-2573836_640__l.jpg"
+  loadingUrl="undefined" />
 
 Ihre große Zeit hatten die Presidents Of The United States von 1994 - 1998 und
 ihr Song begleitete mich damals länger, als nur einen Sommer. Er kam auf nahezu
@@ -94,7 +100,13 @@ Man rappelt sich auf und
 
 ## Ninjas betreten die Szenerie
 
-![Presidents Of The United States](http://cardamonchai.com/wp-content/uploads/2018/02/peaches-869386_640-300x200.jpg)
+<RemoteImage
+  alt="Presidents Of The United States"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peaches-869386_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_peaches-869386_640__l.jpg"
+  loadingUrl="undefined" />
 
 Plötzlich tauchen aus den Büschen schwarz gekleidete Ninja-Kämpfer auf und
 greifen die Band an. Ein paar Schreie und Gummitwist-Spezialeffekte später,

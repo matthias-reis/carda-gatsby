@@ -35,7 +35,13 @@ subTitle: Das neue Buch von Patrick Bolk
   
 ---
 
-![vegan-im-job](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-im-job-400x267.jpg)
+<RemoteImage
+  alt="vegan-im-job"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2RcsTJC)" Vegan im Job“ macht Lust, neue Wege zu gehen. Etwas
 Neues auszuprobieren. Wir kennen das doch alle: Die Kollegen machen sich Ihre
@@ -54,7 +60,13 @@ nämlich schon ein Bisschen leid, immer den Geruch von aufgewärmtem Hackbraten
 ertragen zu müssen. Den werde ich in Zukunft einfach mit dem verlockenden Duft
 meines scharfen Reisnudelsalats übertünchen.
 
-![vegan-im-job](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-im-job-4-400x267.jpg)
+<RemoteImage
+  alt="vegan-im-job"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-4__l.jpg"
+  loadingUrl="undefined" />
 
 ## Vegan im Job lässt die Kollegen alt aussehen [](https://amzn.to/2RcsTJC) Neben den Mengenangaben und den Zubereitungsschritten enthält jedes Rezept zusätzlich kleine Icons mit Minutenangaben und der Anzahl der Portionen. Alle Rezepte sind natürlich "To-go“. Hier hat Patrick Bolk gleich noch ein paar tolle Tipps für geeignete Transportgefäße parat. Es macht tatsächlich auch noch ganz schön was her, wenn ich meinen hübsch geschichteten Chiasamenpudding im Einmachglas mit Schleife auspacke. Dagegen sieht der Kollege mit seiner Fertig-Currywurst mit Folie zum Einstechen schon ziemlich alt aus.
 
@@ -64,7 +76,13 @@ ernähren. Dabei kommen auch Punkte wie die Lagerung frischer Lebensmittel und
 das Einfrieren von Gerichten nicht zu kurz. Er zeigt zeitsparende Küchenhelfer
 und zeigt, wie man am besten vorkocht.
 
-![vegan-im-job](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-im-job-3-400x267.jpg)
+<RemoteImage
+  alt="vegan-im-job"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-3__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2RcsTJC) Sehr gut gefallen hat mir sein Tipp im Umgang mit
 neugierigen Kollegen, die Fragen stellen. Er rät ganz klar, sich als Veganer zu
@@ -88,7 +106,13 @@ Buch mit modernen Gerichten, die sich ganz leicht und in kurzer Zeit zubereiten
 lassen. Auch Leute, die bereits Selbstgemachtes mit ins Büro nehmen, dürften
 darin noch den ein oder andern tollen Tipp finden.
 
-![vegan-im-job](http://cardamonchai.com/wp-content/uploads/2019/06/vegan-im-job-2-400x267.jpg)
+<RemoteImage
+  alt="vegan-im-job"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegan-im-job-2__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2RcsTJC) Meine Lieblingsrezepte sind neben dem Saltimbocca
 und dem scharfen Reisnudelsalat ganz klar das Tomate- Tofurella-Baguette und die

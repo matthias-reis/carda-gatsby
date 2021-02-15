@@ -37,7 +37,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (40:121)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <sub> (46:121)"
 thumbnailId: "17824"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_36120796434_a5e06c5c5e_k__l.jpg
@@ -46,7 +46,7 @@ subTitle: Trockenfrüchte fürs Klima
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;sub> (40:121)
+## unknown: Expected corresponding JSX closing tag for &lt;sub> (46:121)
 
 <!--
 Werbung\*
@@ -70,7 +70,13 @@ _FoPo_ . Die Produkte gibt es im Online-Shop oder im Supermarkt.
 
 ## Ein Projekt von Studienkollegen
 
-![FoPo](http://cardamonchai.com/wp-content/uploads/2017/09/36146928163_15f28fcbe8_z-300x200.jpg)
+<RemoteImage
+  alt="FoPo"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146928163_15f28fcbe8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146928163_15f28fcbe8_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das internationale Team von _FoPo_ traf sich während eines Erasmus Mundus
 Masterprogramms in Lebensmittelinnovation und Produktdesign. _FoPo_ entwickelten
@@ -94,7 +100,13 @@ Mit jeder Packung eines _FoPo_ Produkts wird die Emission von 265 Gramm CO<sub>2
 
 ## FoPo im Test
 
-![FoPo](http://cardamonchai.com/wp-content/uploads/2017/09/36146929993_21f53f63dc_z-300x200.jpg)
+<RemoteImage
+  alt="FoPo"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146929993_21f53f63dc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36146929993_21f53f63dc_z__l.jpg"
+  loadingUrl="undefined" />
 
 Für mich hörte sich das gleich so an, als müsste ich es mal probieren mit _FoPo_
 . Und ich bin zu folgendem Schluss gekommen:

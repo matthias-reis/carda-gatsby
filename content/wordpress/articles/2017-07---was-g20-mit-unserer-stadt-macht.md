@@ -40,7 +40,13 @@ subTitle: Bestandsaufnahme einer Hamburgerin
   
 ---
 
-![G20](http://cardamonchai.com/wp-content/uploads/2017/07/2017-07-05-G20-7-640x479.jpg "Schwarzer Block im Schaufenster")
+<RemoteImage
+  alt="G20"
+  size="medium"
+  title="Schwarzer Block im Schaufenster"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-7__l.jpg"
+  loadingUrl="undefined" />
 
 **Lange Zeit habe ich hin und her überlegt, ob ich zu diesem Thema etwas bringen
 werde. Und ich muss etwas bringen. G20 macht etwas mit unserer Stadt und das
@@ -76,7 +82,13 @@ schienen.
 
 ## Gespenstisch Szenerie
 
-![G20](http://cardamonchai.com/wp-content/uploads/2017/07/2017-07-05-G20-4-640x853.jpg "Tanzveranstaltung gegen G20")
+<RemoteImage
+  alt="G20"
+  size="medium"
+  title="Tanzveranstaltung gegen G20"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-4__l.jpg"
+  loadingUrl="undefined" />
 
 Gespenstisch ob der Nachrichten der letzten Tage. Ein genehmigtes
 Übernachtungscamp war in der Nacht zum Mittwoch mit Gewalt geräumt worden. Ein
@@ -125,7 +137,13 @@ verschwinden, wachsen am nächsten Tag neue nach.
 
 ## G20 - Tut das Not?
 
-![G20](http://cardamonchai.com/wp-content/uploads/2017/07/2017-07-05-G20-5-640x480.jpg "Vernageltes Schaufenster")
+<RemoteImage
+  alt="G20"
+  size="medium"
+  title="Vernageltes Schaufenster"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_2017-07-05-G20-5__l.jpg"
+  loadingUrl="undefined" />
 
 Die Stadt ist in Aufruhr. Gestern Abend wurden in der Schanze Wasserwerfer gegen
 ein paar friedlich auf der Straße sitzende Menschen eingesetzt. Wieder wurde ein

@@ -36,7 +36,13 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 5/9
   
 ---
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/07/p1000559.jpg "You are here")
+<RemoteImage
+  alt=""
+  size="full"
+  title="You are here"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/07/p1000559.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/07/p1000559.jpg"
+  loadingUrl="undefined" />
 
 Hier geht's zu [_Teil 6/9_](/2012/07/aloa-cornwall/) der Galerie "England 2012"
 

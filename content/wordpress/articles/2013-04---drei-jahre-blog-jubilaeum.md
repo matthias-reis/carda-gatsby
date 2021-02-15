@@ -50,7 +50,13 @@ subTitle: Es gibt was zu feiern
   
 ---
 
-![3 Jahre cardamonchai | full](http://cardamonchai.com/wp-content/uploads/2013/04/3-jahre-cardamonchai1.png "3 Jahre cardamonchai")
+<RemoteImage
+  alt="3 Jahre cardamonchai"
+  size="full"
+  title="3 Jahre cardamonchai"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_3-jahre-cardamonchai1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_3-jahre-cardamonchai1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Ich bin damals mit meinen älteren Beiträgen umgezogen, weil ich unabhängiger
 werden wollte und meine komplett eigene Seite aufbauen wollte. Daher sind meine
@@ -58,7 +64,13 @@ Beiträge auch zurückdatiert bis [November 2008](//2008/11/). Interessant, was
 ich damals so geschrieben habe. Ich habe mir heute mal die Zeit genommen ein
 Bisschen im Archiv zu stöbern.
 
-![Jubiläums-Duckface | thumbnail](http://cardamonchai.files.wordpress.com/2013/04/521321_558557654166368_410771033_n.jpg?w=138 "Jubiläums-Duckface")
+<RemoteImage
+  alt="Jubiläums-Duckface"
+  size="thumbnail"
+  title="Jubiläums-Duckface"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/521321_558557654166368_410771033_n.jpg?w=138"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/521321_558557654166368_410771033_n.jpg?w=138"
+  loadingUrl="undefined" />
 
 Besonders lustig:
 [Das Interview mit der Spargelkönigin](//2010/04/27/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/),
@@ -73,7 +85,13 @@ kleine [Mixtape-Tauschaktion](//?s=mixtape) ? Wer Lust hat, mich dabei zu
 unterstützen, kann mir natürlich jederzeit eine
 [E-Mail](mailto:info@cardamonchai.com) zukommen lassen.
 
-![Jubiläums-Luftsprung](http://cardamonchai.files.wordpress.com/2013/04/542296_460562973965837_258537226_n.jpg?w=200 "Jubiläums-Luftsprung")
+<RemoteImage
+  alt="Jubiläums-Luftsprung"
+  size="medium"
+  title="Jubiläums-Luftsprung"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/542296_460562973965837_258537226_n.jpg?w=200"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/542296_460562973965837_258537226_n.jpg?w=200"
+  loadingUrl="undefined" />
 
 Ganz sicher werde ich aber auch im nächsten Jahr wieder meine berühmte,
 [ultimative Festivalliste](//2013/03/28/die-ultimative-festivalliste-2013/)
@@ -88,7 +106,13 @@ später mal wieder durch mein Blog stöbere, diese 'Tagebucheinträge' lese und
 dabei gelegentlich schon mal Tränen lachen muss, weil ich mir nicht mehr
 vorstellen kann, wie ich denn nur auf so einen Unsinn gekommen bin. :-)
 
-![Jubiläums-Sonnenuntergang](http://cardamonchai.files.wordpress.com/2013/04/294501_463496133672521_2123941963_n.jpg?w=186 "Jubiläums-Sonnenuntergang")
+<RemoteImage
+  alt="Jubiläums-Sonnenuntergang"
+  size="medium"
+  title="Jubiläums-Sonnenuntergang"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/294501_463496133672521_2123941963_n.jpg?w=186"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/294501_463496133672521_2123941963_n.jpg?w=186"
+  loadingUrl="undefined" />
 
 Fazit der 3 Jahre: 77 Follower auf meinem Blog, die regelmäßig vorbeischauen und
 gerne auch mal eine tolle Nachricht in meinem Postfach hinterlassen, eine liebe
@@ -102,7 +126,13 @@ Tagebuch, das mir immer zuhört, auch wenn alle anderen schon schlafen. Außerde
 kann ich nach wie vor weder mit HTML noch mit Kommata umgehen. Ja und das hier
 ist mein 242ster Artikel auf cardamonchai.
 
-![Jubiläums-Spiegelung](http://cardamonchai.files.wordpress.com/2013/04/558411_448935428461925_421215232_n.jpg?w=300 "Jubiläums-Spiegelung")
+<RemoteImage
+  alt="Jubiläums-Spiegelung"
+  size="medium"
+  title="Jubiläums-Spiegelung"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/558411_448935428461925_421215232_n.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/558411_448935428461925_421215232_n.jpg?w=300"
+  loadingUrl="undefined" />
 
 Ich würde mich freuen, wenn Ihr mir trotzdem gewogen bleibt und meine Beiträge
 lest, kommentiert und weiterteilt. Ich habe hier in Kürze eine tolle

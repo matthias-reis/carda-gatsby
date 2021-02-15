@@ -33,7 +33,13 @@ subTitle: Klimaschutz und vegane Ernährung
   
 ---
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg "Biolandhof")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Biolandhof"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biogemc3bcseanbau-640x480-640x480.jpg"
+  loadingUrl="undefined" />
 
 **"Klimaschutz und vegan? Wieso hängt das zusammen? Warum genau ist es
 eigentlich gut für die Umwelt, wenn ich vegan lebe?"**
@@ -51,7 +57,13 @@ betrachten.
 
 ## Auch regionales Fleisch sorgt für Wasserknappheit und Hunger in Entwicklungsländern
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg "Veganer betreiben aktiv Klimaschutz")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Veganer betreiben aktiv Klimaschutz"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bchlschrank-640x640-640x640.jpg"
+  loadingUrl="undefined" />
 
 Gleich mal vorneweg: Über 80 Prozent der weltweit angebauten Sojabohnen werden
 zu Viehfutter verarbeitet. Hinzu kommen Biodiesel, Kosmetika, Farben und
@@ -97,7 +109,13 @@ Futtermittelindustrie zugeführt.
 
 ## 1 kg Rindfleisch erzeugt so viel Treibgas, wie 1.600 km Fahren auf der Autobahn
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg "Kühe im Regenwald")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Kühe im Regenwald"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/regenwaldkc3bche-1-640x427-640x427.jpg"
+  loadingUrl="undefined" />
 
 In einer
 [Studie](https://www.vebu.de/aktuelles/pressemitteilungen/1310--aktuelle-studie-der-universitaet-wien-zeigt-rindfleisch-ist-25-mal-klimaschaedlicher-als-bisher-angenommen-)
@@ -120,7 +138,13 @@ einen sehr kleinen Teil, dem Anbau von Futtermitteln zu.
 
 ## Irische Rinder belegen Platz zwei
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg "Methan-Quelle Nummer eins")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Methan-Quelle Nummer eins"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/kc3bche-640x480-640x480.jpg"
+  loadingUrl="undefined" />
 
 Die Irischen Rinder belegen auf dieser traurigen Liste Platz zwei. Gefolgt von
 den Niederländischen mit 2,1 Kilogramm CO<sub>2 </sub>pro Kilo auf Platz vier.
@@ -140,7 +164,13 @@ Kurt Schmidinger zieht folgende Bilanz aus seiner Studie:
 Wenn man die Klima-Schädlichkeit verschiedener Ernährungsformen pro Kopf und
 Jahr betrachtet, sieht das folgendermaßen aus:
 
-![Klimaschutz | large](http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg "Veggie Times, 4/2014")
+<RemoteImage
+  alt="Klimaschutz"
+  size="large"
+  title="Veggie Times, 4/2014"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
+  loadingUrl="undefined" />
 
 Menschen, die fleischliche Kost bevorzugen, haben somit durch ihre Ernährung
 einen 7,5 mal höheren CO<sub>2-</sub>Verbrauch, als Veganer. Den nicht
@@ -159,7 +189,13 @@ Rindern zurückzuführen. Der Transport ist hier noch gar nicht mit eingerechnet
 
 ## Den ökologischen Fußabdruck berechnen
 
-![Klimaschutz](http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg "Bio-Sojamilch")
+<RemoteImage
+  alt="Klimaschutz"
+  size="medium"
+  title="Bio-Sojamilch"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/biosojamilch-1-640x480-640x480.jpg"
+  loadingUrl="undefined" />
 
 Jetzt gehts ans Eingemachte. Auf der Seite  _
 [Footprint Deutschland](http://www.footprint-deutschland.de) _ kann jeder seinen
@@ -236,7 +272,13 @@ Krankenhäuser, Straßen etc.) zusammen.
 
 ## Wie erziele ich einen fairen ökologischen Fußabdruck?
 
-![Klimaschutz | full](http://cardamonchai.com/wp-content/uploads/2017/02/fussabdruck-naturschutz-sylt-2.png)
+<RemoteImage
+  alt="Klimaschutz"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_fussabdruck-naturschutz-sylt-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_fussabdruck-naturschutz-sylt-2.png__l.jpg"
+  loadingUrl="undefined" />
 
 Allein schon durch den kollektiven ökologischen Fußabdruck ist des hierzulande
 nicht möglich, einen fairen Fußabdruck zu erzielen. Es ist somit nicht nur ein

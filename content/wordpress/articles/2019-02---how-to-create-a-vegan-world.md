@@ -177,7 +177,13 @@ komplett zu verändern. Hier setzt das Buch an.
 
 ## Tobias Leenaert - ein engagierter Aktivist
 
-![how-to-create-a-vegan-world](http://cardamonchai.com/wp-content/uploads/2019/02/How-To-create-A-Vegan-World-400x225.png)
+<RemoteImage
+  alt="how-to-create-a-vegan-world"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_How-To-create-A-Vegan-World.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_How-To-create-A-Vegan-World.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://www.amazon.de/gp/product/1590565703/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1590565703&linkCode=as2&tag=cardamonchai-21&linkId=5eb11934c2deaf10ce12f7d140248b78)
 Tobias Leenaert ist Mitbegründer der belgischen Organisation " **Ethical

@@ -27,7 +27,13 @@ subTitle: Schutz vor der Sturmflut
   
 ---
 
-![Nistplätze auf dem Eidersperrwerk](http://cardamonchai.com/wp-content/uploads/2015/08/20161111072_b86f62ee14_z-640x427.jpg "Nistplätze auf dem Eidersperrwerk")
+<RemoteImage
+  alt="Nistplätze auf dem Eidersperrwerk"
+  size="medium"
+  title="Nistplätze auf dem Eidersperrwerk"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20161111072_b86f62ee14_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20161111072_b86f62ee14_z__l.jpg"
+  loadingUrl="undefined" />
 
 **An der Nordseemündung der Eider, ganz in der Nähe des kleinen Örtchens
 Tönning, befindet sich das Eidersperrwerk. Das Bollwerk schützt die

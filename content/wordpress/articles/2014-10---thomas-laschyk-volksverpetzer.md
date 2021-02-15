@@ -51,7 +51,13 @@ seit zwei Jahren aktiv mit dabei.
 
 **Anne:** Was genau ist deine Aufgabe bei der TiA?
 
-![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-2-400x602.jpg)
+<RemoteImage
+  alt="thomas-laschyk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Thomas:** Ich kümmere mich vor allem um Social Media, PR, Werbung und
 Vernetzung.
@@ -77,7 +83,13 @@ Pelze, alles andere ist für dich aber OK?".
 Pelz zu tragen. Nun ist es ja so, dass die Nachfrage den Markt bestimmt. Wie
 kann es sein, dass es in der heutigen Zeit noch ein Nachfrage für Pelz gibt?
 
-![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-400x602.jpg)
+<RemoteImage
+  alt="thomas-laschyk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Die Nachfrage wird künstlich aufrechterhalten" **Thomas:** Die Nachfrage wird vor allem von der Industrie künstlich aufrechterhalten, durch Werbung und Marketing wird suggeriert, es sei natürlich, notwenig und nützlich. Oft passiert es auch, dass, wie zum Beispiel durch die Pelzkragen, die derzeit in Mode sind, der Pelz aus dem Vordergrund rückt, sprich, die Menschen wollen heute nicht mehr wie zu Großmutters Zeiten einen Pelzmantel tragen, sondern einfach nur eine schicke Jacke haben, der Pelz wird dabei einfach mit gekauft. Sehr oft ist Pelz fälschlicherweise als Kunstpelz deklariert, nur so können die Händler ihre Industrie, die sie reich macht, weiter am laufen halten.
 
@@ -96,7 +108,13 @@ Gleichzeitig setzen wir uns dafür ein, dass Pelz bzw. Kunstpelz in Zukunft klar
 deklariert wird. Es sollte auf jeden Fall immer ein Thema sein und in den Köpfen
 bleiben.
 
-![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-1-400x602.jpg)
+<RemoteImage
+  alt="thomas-laschyk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-1__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Viele Menschen denken gar nicht, dass es sich um Echtpelz handeln könnte" **Anne:** Das Hauptproblem ist ja, dass es heutzutage noch keine klare Auszeichnungspflicht gibt, der Pelz ist als Kunstpelz ausgezeichnet und es kann aber sein, dass es sich dabei um das Fell eines Hundes oder einer Katze handelt.
 
@@ -116,7 +134,13 @@ wissen zum Großteil gar nicht, dass sie beim Verzehren dieser Lebensmittel
 Tierisches zu sich nehmen. Was kann man tun, um hier in Zukunft für mehr
 Aufklärung zu sorgen und die Menschen besser zu sensibilisieren?
 
-![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-4-400x600.jpg)
+<RemoteImage
+  alt="thomas-laschyk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-4__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Es muss ein Bewusstsein geschaffen werden" **Thomas:** Auch hier muss ein Bewusstsein dafür geschaffen werden, dass Tiere auch versteckt auf unseren Tellern und in unseren Lebensmitteln landen, weil die Industrie jeden Abfall aus der Tierproduktion noch zu Geld machen möchte. Frei nach dem Motto "Das merkt doch sowieso keiner.". Es handelt sich dabei nicht um essentielle Bestandteile, was ja auch viele vegane Produkte beweisen, die mindestens gleichwertig sind.
 
@@ -160,7 +184,13 @@ jegliche Tierausbeutung zu verhindern und zu beenden.
 **Anne:** Wie lange bist Du selbst schon Veganer und hattest Du dabei ein
 besonderes Vorbild?
 
-![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-3-400x600.jpg)
+<RemoteImage
+  alt="thomas-laschyk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-3__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Mit den Argumenten habe ich mich nach und nach beschäftigt" **Thomas:** Ich lebe jetzt seit fast zwei Jahren vegan, seitdem bin ich auch im Tierschutz aktiv. Die einzige vegan lebende Person, die ich zu dem Zeitpunkt kannte, hatte mich nach nur drei Monaten überzeugt, es ihr gleichzutun. Die vegane Szene lernte ich erst später richtig kennen. Auch mit den Argumenten habe ich mich nach und nach erst beschäftigt und eins nach dem anderen hat mich weiter in meiner Entscheidung bestärkt. Spezielle Vorbilder hatte ich am Anfang eigentlich nicht, die sind erst im Laufe der Zeit aufgetaucht. Das sind unter anderen Melanie Joy, die den Begriff des Karnismus geprägt hat, Nick Cooney und besonders auch die amerikanische Philosophin, Tierrechtsaktivistin und Feministin [Lisa Kemmerer.](http://www.lisakemmerer.com/) **Anne:** Ich persönlich frage mich ja heute oft, warum ich nicht schon früher die Entscheidung getroffen habe, vegan zu leben. Wie ist das bei dir, kennst du das auch? Falls ja, ärgerst du dich darüber?
 
@@ -192,7 +222,13 @@ Schilder, Plakate, Flyer etc. kosten ja auch einiges. Außerdem freuen wir uns
 natürlich sehr, wenn man die Tierrechte selbstständig vorantreibt und den
 Gedanken in die Welt trägt, das hilft den Tieren natürlich besonders.
 
-![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-5-1-400x600.jpg)
+<RemoteImage
+  alt="thomas-laschyk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-5-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-5-1__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Die Stimmung hat sich in der letzten Zeit stark verändert" **Anne:** Liest man sich durch die Facebook-Gruppen und veganen Foren, stößt man auf einige, die von Umbruchstimmung reden. Ich finde schon, dass sich in den letzten Jahren einiges getan hat, Discounter bieten Sojamilch an, überall stehen vegane Kochbücher in den Regalen der Buchläden. Auf der anderen Seite wird man als Veganer auch noch häufig belächelt. Wie siehst du das?
 
@@ -241,7 +277,13 @@ betrifft. Die Presse und auch die Polizei berichten immer gut, wir hatten in der
 Hinsicht noch nie Probleme, das läuft alles immer sehr friedlich und freundlich
 ab.
 
-![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-7-400x267.jpg)
+<RemoteImage
+  alt="thomas-laschyk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-7__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Veganismus nicht als Widerspruch betrachten" **Anne:** Jeder Veganer kennt das: Man sitzt mit Bekannten oder der Familie am Tisch. Eigentlich will man sich nur über den letzten Urlaub oder über das Wetter austauschen. Es ist aber Omni-Bingo angesagt. Aus dem schlechten Gewissen oder der versteckten Neugierde der anwesenden Fleischesser resultieren Fragen wie "Was isst du denn dann überhaupt noch?" und "Was sollen wir denn dann mit den ganzen Kühen machen?". Was ist deine persönliche Lieblings-Omni-Bingo-Frage und wie antwortest du darauf?
 
@@ -281,7 +323,13 @@ ich meine Zeit eben gerne mit Schreiben und Vorträgen. Ansonsten lese ich auch
 gerne Bücher, wenn ich mal einen Nachmittag für mich finde, denn immerhin
 studiere ich ja Literaturwissenschaft (grinst).
 
-![thomas-laschyk](http://cardamonchai.com/wp-content/uploads/2019/06/thomas-laschyk-6-400x267.jpg)
+<RemoteImage
+  alt="thomas-laschyk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_thomas-laschyk-6__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Wenn man sympathisch bleibt, kann man selbst ein gutes Vorbild sein" **Anne:** Welchen Tipp würdest du unseren Lesern geben, um den Tierschutzgedanken und den Veganismus noch weiter zu verbreiten?
 

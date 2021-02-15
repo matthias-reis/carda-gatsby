@@ -40,7 +40,13 @@ subTitle: Neues Album  "Lazaretto" am 6. Juni
   
 ---
 
-![Bild: Jack White Live Photos | full](http://cardamonchai.files.wordpress.com/2014/04/jack3.jpg "[ ](http://jackwhiteiii.com/live-photos/)  Bild: Jack White Live Photos")
+<RemoteImage
+  alt="Bild: Jack White Live Photos"
+  size="full"
+  title="[ ](http://jackwhiteiii.com/live-photos/)  Bild: Jack White Live Photos"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/jack3.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/jack3.jpg"
+  loadingUrl="undefined" />
 
 **Schon vor einiger Zeit wurden mir Gerüchte zugetragen, Jack White würde an
 einem neuen musikalischen Werk schrauben, das schon sehr bald das Licht der
@@ -53,7 +59,13 @@ kletterte die erste Single aus "Lazaretto" aus dem Osternest. Natürlich habe ic
 sie nach dem sorgfältigen Entwirren meiner Kopfhörerkabel gleich mal ausgiebig
 angehört und bin dabei zu folgenden Erkenntnissen gekommen:
 
-![Stufe 1 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack.png "[ ](http://www.rollingstone.com/music/news/jack-white-hits-the-road-on-lazaretto-summer-tour-20140407)  Stufe 1 der Rakete")
+<RemoteImage
+  alt="Stufe 1 der Rakete"
+  size="medium"
+  title="[ ](http://www.rollingstone.com/music/news/jack-white-hits-the-road-on-lazaretto-summer-tour-20140407)  Stufe 1 der Rakete"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/jack.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/jack.png"
+  loadingUrl="undefined" />
 
 Jack White schafft es immer wieder, mich zu überraschen und es war ganz klar die
 richtige Entscheidung, das neue Album schon mal vorzubestellen. Natürlich habe
@@ -90,7 +102,13 @@ selbstverständlich auch auf [Jacks Homepage](http://jackwhiteiii.com/news/).
 Übrigens befindet sich Jack, was das Artwork und die vorab veröffentlichten
 Bilder angeht nach wie vor in seiner "Blauen Phase"...
 
-![Stufe 2 der Rakete](http://cardamonchai.files.wordpress.com/2014/04/jack2.jpg?w=576 "[ ](https://itunes.apple.com/de/album/lazaretto/id857917614?ign-mpt=uo%3D4)  Stufe 2 der Rakete")
+<RemoteImage
+  alt="Stufe 2 der Rakete"
+  size="medium"
+  title="[ ](https://itunes.apple.com/de/album/lazaretto/id857917614?ign-mpt=uo%3D4)  Stufe 2 der Rakete"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/jack2.jpg?w=576"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/jack2.jpg?w=576"
+  loadingUrl="undefined" />
 
 **Hier die komplette Tracklist von "Lazaretto":** 1. Three Women
 

@@ -56,7 +56,13 @@ könnt.
 
 ## Das Insektenhotel - das steckt drin
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-1-400x300.jpg "Insektenhotel mit Bienentränke")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Insektenhotel mit Bienentränke"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-1__l.jpg"
+  loadingUrl="undefined" />
 
 Ein Insektenhotel besteht in der Regel aus Holz und ist mit verschiedenen
 Naturmaterialien gefüllt. Das können zum Beispiel Bambusröhren, Schilf,
@@ -77,7 +83,13 @@ schützen, nicht nur das Hotel aufstellt - doch dazu später.
 
 ## Futter für den Nachwuchs
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/04/2019-05-05-bees-400x300.jpg "Bienen lieben Löwenzahn")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Bienen lieben Löwenzahn"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-05-05-bees__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-05-05-bees__l.jpg"
+  loadingUrl="undefined" />
 
 Aus den Pollen und dem Nektar stellen die Bienenweibchen einen sogenannte
 "Pollenkuchen" her. Auf ihm wird dann das Ei abgelegt. Die Speisekammer für die
@@ -99,7 +111,13 @@ sehr gut selbst hin und sie kennen im Gegensatz zu Euch den idealen Zeitpunkt.
 
 ## Der Frühling ist da - die Bienen schwärmen aus
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-2-400x300.jpg "Auch Lavendel kommt bei Bienen gut an.")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Auch Lavendel kommt bei Bienen gut an."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-2__l.jpg"
+  loadingUrl="undefined" />
 
 Im Frühjahr arbeiten sich die inzwischen vollständig entwickelten Bienen dann
 durch die Lehmschichten hindurch ins Freie. Die Männchen begatten die Weibchen
@@ -114,7 +132,13 @@ Vogel zum Opfer fallen.
 
 ## Bienen leiden Hunger - was kann ich tun, um ihnen zu helfen?
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-28-400x300.jpg "Eine Biene kurz vor dem Abflug")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Eine Biene kurz vor dem Abflug"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-28__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-28__l.jpg"
+  loadingUrl="undefined" />
 
 Wer sicher gehen möchte, dass die Bienen in seiner Umgebung einen reich
 gedeckten Tisch vorfinden, Sollte sie so gut es geht versorgen. Neben
@@ -170,7 +194,13 @@ keine großen Bienenmagneten.
 
 ## Das solltet Ihr lieber sein lassen
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-17-400x300.jpg "Biene im Nestbaubetrieb")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Biene im Nestbaubetrieb"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-17__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-17__l.jpg"
+  loadingUrl="undefined" />
 
 Für Bienen oder andere Insekten unbrauchbare Nisthilfen sind ein No-Go und
 können ihnen unter Umständen ihr Leben kosten. Achtet darauf, bei Eurem
@@ -190,7 +220,13 @@ Insektenhotel auf folgende Bauteile zu verzichten:
 
 ## Das perfekte Insektenhotel - das kommt rein
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-13-400x300.jpg "Biene auf dem Weg ins Insektenhotel")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Biene auf dem Weg ins Insektenhotel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-13__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-13__l.jpg"
+  loadingUrl="undefined" />
 
 Für die eben genannten nicht geeigneten Materialien gibt es zum Glück zahlreiche
 tolle Alternativen, die von Bienen und anderen Insekten gut angenommen werden.
@@ -209,7 +245,13 @@ Heim für Nützlinge geschaffen.
 
 ### Marienkäfer
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-3-400x300.jpg "Nahrungsquelle für Wildbienen")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Nahrungsquelle für Wildbienen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-3__l.jpg"
+  loadingUrl="undefined" />
 
 Wusstet Ihr, dass allein bei uns in Deutschland über 70 verschiedene
 Marienkäferarten heimisch sind? Sie ernähren sich von Blattläusen, Spinnmilben
@@ -244,7 +286,13 @@ nicht.
 
 ## Wohin mit dem Insektenhotel?
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-11-400x533.jpg "Das Insektenhotel stellt man am besten in einer windgeschützen Ecke auf.")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Das Insektenhotel stellt man am besten in einer windgeschützen Ecke auf."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-11__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-11__l.jpg"
+  loadingUrl="undefined" />
 
 Ihr könnt Euer Insektenhotel auf dem Balkon im Garten oder auf der Terasse
 platzieren. Auf der Wiese empfiehlt es sich, es auf einem Pfeiler oder an einem
@@ -269,7 +317,13 @@ optimalerweise in greifbarer Nähe.
 
 ## Guerilla Gardening
 
-![insektenhotel](http://cardamonchai.com/wp-content/uploads/2019/05/2019-05-05-bees-20-400x300.jpg "Guten Flug!")
+<RemoteImage
+  alt="insektenhotel"
+  size="medium"
+  title="Guten Flug!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-20__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-20__l.jpg"
+  loadingUrl="undefined" />
 
 Das Wort " **Saatbombe** " habe ich weiter oben bereits erwähnt. Nutzt sie auch
 in freier Natur und auf Grünflächen, um die für Bienen so wichtigen

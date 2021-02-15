@@ -59,7 +59,13 @@ Hintergrund auf lebendige Weise.
 
 ## Echte Banksy-Stücke
 
-![Banksy](http://cardamonchai.com/wp-content/uploads/2018/01/39852074431_8acc13a1c9_z-300x393.jpg)
+<RemoteImage
+  alt="Banksy"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39852074431_8acc13a1c9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39852074431_8acc13a1c9_z__l.jpg"
+  loadingUrl="undefined" />
 
 Im Moco sind nicht nur Drucke ausgestellt, sondern echte Banksy-Stücke. Da kann
 auch mal ein Stück Mauer oder ein Verkehrschild dabei sein. Die meisten Exponate
@@ -86,7 +92,13 @@ Künstler selbst.
 
 ## Von der Dry BreadZ Crew bis zu Exit Trough The Gift Shop
 
-![Banksy](http://cardamonchai.com/wp-content/uploads/2018/01/38953010235_9061d85902_z-300x371.jpg)
+<RemoteImage
+  alt="Banksy"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38953010235_9061d85902_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38953010235_9061d85902_z__l.jpg"
+  loadingUrl="undefined" />
 
 In den frühen 90er Jahren begann Banksy gemeinsam mit der Dry BreadZ Crew in
 Bristol Graffitis zu sprühen. Etwa zehn Jahre später spezialisierte er sich auf

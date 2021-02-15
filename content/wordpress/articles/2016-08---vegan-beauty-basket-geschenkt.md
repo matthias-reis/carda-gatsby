@@ -25,7 +25,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (45:95)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:95)"
 thumbnailId: "15082"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_13735606_660201287462253_6990305577054252335_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_13735606_660201287462253_6990305577054252335_o__l.jpg
@@ -34,12 +34,18 @@ subTitle: Box ab jetzt alle zwei Monate
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (45:95)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (57:95)
 
 <!--
 Werbung\*
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/08/vegan_beauty_basket_kosmetik_box-angebot-instagram.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vegan_beauty_basket_kosmetik_box-angebot-instagram__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vegan_beauty_basket_kosmetik_box-angebot-instagram__l.jpg"
+  loadingUrl="undefined" />
 
 **Vielleicht haben es einige ja schon mitbekommen – es gibt Neuigkeiten rund um
 den Vegan Beauty Basket! Die vegane Kosmetik-Box erscheint ab sofort alle zwei
@@ -84,7 +90,13 @@ Zum Vegan Beauty Basket und zum Angebot geht es
 
 _\*Das Angebot gilt solange der Vorrat reicht._
 
-![Vegan Beauty Basket | full](http://cardamonchai.com/wp-content/uploads/2016/08/vbb.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__l.jpg"
+  loadingUrl="undefined" />
 
 Zum Vegan Beauty Basket geht es
 [hier entlang.](https://www.veganbeautybasket.com/)

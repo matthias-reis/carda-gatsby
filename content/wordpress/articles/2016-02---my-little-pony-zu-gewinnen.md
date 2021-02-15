@@ -50,7 +50,13 @@ Kennt Ihr noch die Comichefte aus den 80ern, in denen die kleinen Ponys die
 Helden waren? Und die später folgende TV-Serie "My Little Pony - Freundschaft
 ist Magie"? Was haben wir sie geliebt!
 
-![My Little Pony Gewinnspiel](http://cardamonchai.com/wp-content/uploads/2016/02/24476198774_eee27d7c6e_z-640x427.jpg "My Little Pony Gewinnspiel")
+<RemoteImage
+  alt="My Little Pony Gewinnspiel"
+  size="medium"
+  title="My Little Pony Gewinnspiel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Habe ich ein Gefühl von Nostalgie in Dir geweckt? Eines der kleinen,
 farbenfrohen Wesen macht sich vielleicht schon bald auf den Weg zu Dir. Alles,

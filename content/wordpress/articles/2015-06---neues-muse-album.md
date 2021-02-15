@@ -27,7 +27,8 @@ date: 2015-06-16T15:33:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (8:28)"
 thumbnailId: "12009"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg
@@ -36,7 +37,14 @@ subTitle: '"Drones" ist endlich da'
   
 ---
 
-!["Drones" - Das neue Album von Muse ist da!](http://cardamonchai.com/wp-content/uploads/2015/06/vscocam-photo-2-640x640.jpg '"Drones" - Das neue Album von Muse ist da!')
+## unknown: Unexpected token (8:28)
+
+<!--
+<RemoteImage alt="&quot;Drones&quot; - Das neue Album von Muse ist da!"
+size="medium" title=""Drones" - Das neue Album von Muse ist da!"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-2__l.jpg"
+loadingUrl="undefined" />
 
 **Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was
 das neue Musealbum zu bieten hat.**
@@ -65,7 +73,12 @@ findet man hier und da Anlehnungen. Boysetsfire wären stolz auf einen Song wie
 "The Handler", einem Zusammenspiel sollte demnach, falls Anfragen kommen in
 Zukunft nichts mehr im Wege stehen.
 
-![Rotzig frech, roh und verrockt: "Drones"Rotzig frech, roh und verrockt: "Drones"](http://cardamonchai.com/wp-content/uploads/2015/06/vscocam-photo-3-640x640.jpg 'Rotzig frech, roh und verrockt: "Drones"')
+<RemoteImage alt="Rotzig frech, roh und verrockt: &quot;Drones&quot;Rotzig
+frech, roh und verrockt: &quot;Drones&quot;" size="medium" title="Rotzig frech,
+roh und verrockt: "Drones""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-3__l.jpg"
+loadingUrl="undefined" />
 
 Aber ich möchte nicht vorgreifen. Beginnen wir mit dem Opener. "Dead Inside"
 kommt wild daher, verspielt, täuscht alte The 2nd Law-Manieren an und bricht
@@ -85,7 +98,11 @@ möchte dieses Ding live hören! Ich stelle mir den sandigen Boden eines fies
 großen Festivals vor, auf dem getanzt wird, bist kein Staub mehr da ist.
 Rock´n`Roll, aber so richtig!
 
-![Verspielt: "Drones"](http://cardamonchai.com/wp-content/uploads/2015/06/vscocam-photo-4-640x640.jpg 'Verspielt: "Drones"')
+<RemoteImage alt="Verspielt: &quot;Drones&quot;" size="medium" title="Verspielt:
+"Drones""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-4__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-4__l.jpg"
+loadingUrl="undefined" />
 
 Im Anschluss das schon beschriebene "The Handler", das mit harten Passagen
 aufwartet, teilweise roh, teilweise verspielt ins Ohr kriecht und endlich mal
@@ -102,7 +119,11 @@ oder?
 
 ## Hört es Euch selbst an!
 
-![Elektrisch: "Drones"](http://cardamonchai.com/wp-content/uploads/2015/06/vscocam-photo-5-640x640.jpg 'Elektrisch: "Drones"')
+<RemoteImage alt="Elektrisch: &quot;Drones&quot;" size="medium"
+title="Elektrisch: "Drones""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg"
+loadingUrl="undefined" />
 
 Was ich zu "Aftermath" zu sagen habe? Ich neige ein Wenig dazu, Euch zu sagen:
 Bildet Euch selbst Eure Meinung. Im selben Atemzug bitte ich Euch aber auch
@@ -135,5 +156,7 @@ Hier sind für Euch Muse mit "Psycho"
 
 <iframe src="https://www.youtube.com/embed/UqLRqzTp6Rk?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe> _If you do not do what you're told to do when you're told to do it, you will be punished. Do you understand?_  _(Aye, sir)_  _If you leave my base without proper authorisation, I will hunt you down and throw your ass in jail. Do you understand?_  _(Aye, sir)_  _I can't hear you!_  _(Aye, sir!)_  _Scream it!_  _(Aye, sir!)_  _Your ass belongs to me now!_  _(Aye, sir!)_  _Love, it will get you nowhere_  _You're on your own_  _Lost in the wild_  _So come to me now_  _I could use someone like you_  _Someone who'll kill on my command_  _And asks no questions_  _I'm gonna make you_  _I'm gonna break you_  _I'm gonna make you_  _A fucking psycho_  _A fucking psycho_  _A fucking psycho_  _Your ass belongs to me now_  _Are you a human drone?_  _(Aye, sir!)_  _Are you a killing machine?_  _(Aye, sir!)_  _I'm in control, motherfucker, do you understand?_  _(Aye, sir!)_  _Your mind is just a program_  _And I'm the virus_  _I'm changing the station_  _I'll improve your thresholds_  _I'll turn you into a super drone (super drone)_  _And you will kill on my command_  _And I won't be responsible_  _I'm gonna make you_  _I'm gonna break you_  _I'm gonna make you_  _A fucking psycho_  _A fucking psycho_  _A fucking psycho_  _Your ass belongs to me now_  _Are you a psycho killer? Say "I'm a psycho killer!"_  _(I am a psycho killer!)_  _Scream it!_  _(I am a psycho killer!)_  _Show me your war face!_  _(AHHHH!)_  _You are a pussy! I said show me your war face!_  _(AHHHH!)_  _I'm gonna make you_  _I'm gonna break you_  _I'm gonna make you_  _A fucking psycho_  _A fucking psycho_  _A fucking psycho_  _Your ass belongs to me now_  _I will break you, do you understand?_  _I will break you, do you understand?_  _I will break you, do you understand?_  _I will break you, do you understand?_  _(Aye, sir!)_  _You fucking psycho_  _Your ass belongs to me now_  _Your ass belongs to me now_ ## Muse Wegweiser1.  [Muse stellen neue Single "Madness" vor](/2012/08/muse-stellen-neue-single-madness-vor/)
 1.  [Muse - "The 2nd Law" ist da](/2012/09/muse-the-second-law-ist-da/) [Hier geht's zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
+
+-->
 
   

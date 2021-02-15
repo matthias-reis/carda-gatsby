@@ -36,7 +36,13 @@ subTitle: "Teil IV: Der Abschied"
   
 ---
 
-![Abschied von Wordpress](http://cardamonchai.com/wp-content/uploads/2015/03/anne-1-2-640x640.jpg "[ ]()  Abschied von Wordpress")
+<RemoteImage
+  alt="Abschied von Wordpress"
+  size="medium"
+  title="[ ]()  Abschied von Wordpress"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_anne-1-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Mit diesem Zitat von Heinrich Heine verabschiede ich mich. Und wie recht er
 hat: Würde es sich um einen echten Abschied handeln, würde ich nicht so

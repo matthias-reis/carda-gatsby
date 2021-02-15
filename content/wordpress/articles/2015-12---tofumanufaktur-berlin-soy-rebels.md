@@ -67,7 +67,13 @@ dem gängigen Tofu, den ich in Kühltheke im Supermarkt finde?
 einfach viel zu häufig in Verbindung gebracht mit Allergien, Impotenz und
 Genmalipulation. Wir sorgen da für einen besseren Ruf.
 
-![Tofumanufaktur](http://cardamonchai.com/wp-content/uploads/2020/04/Tofumanufaktur-400x300.jpg)
+<RemoteImage
+  alt="Tofumanufaktur"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur__l.jpg"
+  loadingUrl="undefined" />
 
 ## 100 Prozent regional und unverpackt-neutrale Lieferung mit dem Fahrrad und 100 Prozent regionale Zutaten.
 

@@ -84,7 +84,13 @@ die gesündeste Ernährungsweise herausgestellt.
 
 ## "Ernährung gibt es nicht als Studienfach"
 
-![martin-kamma-veganen-arzt](http://cardamonchai.com/wp-content/uploads/2020/02/Praxisteam-400x300.jpg "Das Praxisteam")
+<RemoteImage
+  alt="martin-kamma-veganen-arzt"
+  size="medium"
+  title="Das Praxisteam"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Praxisteam__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Praxisteam__l.jpg"
+  loadingUrl="undefined" />
 
 **Martin:** Das wird in der akademischen Medizin in Deutschland, Österreich und
 der Schweiz bisher anders kommuniziert. Ernährung kommt als Fach im Studium gar
@@ -241,7 +247,13 @@ führte, dass Sie gesagt haben "Jetzt höre ich auf!"?
 
 ## Mit der China-Study kam das Umdenken
 
-![martin-kamma-veganen-arzt](http://cardamonchai.com/wp-content/uploads/2020/02/Sprchzimmer-2-400x300.jpg "Ein Sprechzimmer in Martin Kammas Praxis")
+<RemoteImage
+  alt="martin-kamma-veganen-arzt"
+  size="medium"
+  title="Ein Sprechzimmer in Martin Kammas Praxis"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Sprchzimmer-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Sprchzimmer-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Martin:** Ich war schon seit einiger Zeit dabei, mich intensiver mit veganer
 Ernährung zu beschäftigen. Ich hatte die China-Study gelesen und den Film "Gabel
@@ -381,7 +393,13 @@ heraus empfehlen können?
 
 ## "PETA leistet weltweit effektive Arbeit"
 
-![martin-kamma-veganen-arzt](http://cardamonchai.com/wp-content/uploads/2020/02/Anmeldung-400x300.jpg "Hier sind Veganer⋆innen herzlich willkommen.")
+<RemoteImage
+  alt="martin-kamma-veganen-arzt"
+  size="medium"
+  title="Hier sind Veganer⋆innen herzlich willkommen."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Anmeldung__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Anmeldung__l.jpg"
+  loadingUrl="undefined" />
 
 **Martin:** Die weltweit effektivste Arbeit leistet für mich PETA. Die können
 aber auch nicht immer und überall sein, deshalb finde ich jede noch so kleine

@@ -48,7 +48,13 @@ hingefahren.
 
 ## Warum nicht einfach hinfahren?
 
-![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/05/2019-04-21-externsteine-teutoburger-wald-36-400x533.jpg "Zu Besuch in Bielefeld")
+<RemoteImage
+  alt="bielefeld"
+  size="medium"
+  title="Zu Besuch in Bielefeld"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-36__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-36__l.jpg"
+  loadingUrl="undefined" />
 
 Ein Bekannter, der in Bielefeld lebt, machte dann vor Kurzem eine Bemerkung, die
 mir zu Denken gab:
@@ -81,7 +87,13 @@ ausgeblendet.
 
 ## Wir idealisieren unsere Kindheit
 
-![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/05/2019-04-19-bielefeld-10-400x300.jpg "Das Bielefelder Rathaus")
+<RemoteImage
+  alt="bielefeld"
+  size="medium"
+  title="Das Bielefelder Rathaus"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-bielefeld-10__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-bielefeld-10__l.jpg"
+  loadingUrl="undefined" />
 
 Forscher\*innen haben herausgefunden, dass Menschen die Kindheit in ihrer
 Erinnerung stark idealisieren. Dieses Gefühl der Freiheit und Zwanglosigkeit
@@ -107,7 +119,13 @@ Folgendes geschrieben:
 > sind! Und dann: Totale Reizüberflutung! Es riecht sogar noch genauso wie
 > damals!"
 
-![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/05/2019-04-21-externsteine-teutoburger-wald-43-400x533.jpg "Bielefeld ist zum Glück gar nicht so weit weg!")
+<RemoteImage
+  alt="bielefeld"
+  size="medium"
+  title="Bielefeld ist zum Glück gar nicht so weit weg!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-43__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-21-externsteine-teutoburger-wald-43__l.jpg"
+  loadingUrl="undefined" />
 
 In unseren insgesamt drei Tagen in Bielefeld und Umgebung haben wir einiges
 gesehen und erlebt und ich habe jede Menge Bilder gemacht. Einige davon bekommt

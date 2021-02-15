@@ -49,7 +49,13 @@ Im Vorfeld unserer Spanienreise im Juni hatte ich bei Santaverde angefragt, ob
 ich mit meiner Kamera mal vorbeikommen könnte. Ich nutze die Pflege von
 Santaverde ja schon ziemlich lange und wenn man schon mal in der Nähe ist...
 
-![santaverde-finca](http://cardamonchai.com/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-1-400x300.jpg)
+<RemoteImage
+  alt="santaverde-finca"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-1__l.jpg"
+  loadingUrl="undefined" />
 
 [](/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-1.jpg) Die liebe Caro
 von Santaverde war sofort begeistert von meinem Vorschlag und knüpfte den
@@ -79,7 +85,13 @@ stellte sich uns als Carmen vor.
 
 ## Führung durch das Santaverde Produktionslabor
 
-![santaverde-finca](http://cardamonchai.com/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-400x300.jpg)
+<RemoteImage
+  alt="santaverde-finca"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca__l.jpg"
+  loadingUrl="undefined" />
 
 Gleich zuerst bekamen wir von Carmen eine Führung durch die Pre-Production, die
 sich direkt vor Ort auf der Finca befindet. Die frisch geernteten Aloe Pflanzen
@@ -105,7 +117,13 @@ und mit Handgepäck unterwegs waren, mussten wir leider ablehnen.
 
 ## Eine Fototour über die Aloe Vera Felder der Santaverde Finca
 
-![santaverde-finca](http://cardamonchai.com/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-2-400x533.jpg)
+<RemoteImage
+  alt="santaverde-finca"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-2__l.jpg"
+  loadingUrl="undefined" />
 
 Nach einer Fototour über die Felder, bei der wir unter anderem noch Hibiskus,
 Granatäpfel, Feigen und Orangen entdeckten, war es Zeit für eine kleine
@@ -127,7 +145,13 @@ Entwicklung von natürlichen Pflegeprodukten für empfindliche Haut.
 
 ## Ein Besuch auf der Santaverde Finca lohnt sich
 
-![santaverde-finca](http://cardamonchai.com/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-3-400x300.jpg)
+<RemoteImage
+  alt="santaverde-finca"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-3__l.jpg"
+  loadingUrl="undefined" />
 
 Wer auch in Spanien unterwegs ist und gerne mal einen Abstecher zur Santaverde
 Finca machen möchte, kann das (aus in den besonders heißen Monaten Juli und im

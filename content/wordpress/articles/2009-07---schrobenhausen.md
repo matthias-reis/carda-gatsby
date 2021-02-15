@@ -47,7 +47,13 @@ Gemeindeordnung, die Maße und Gewichte, sowie die Markt- und Schrannenrechte\*
 an. Er ließ eine ringförmige Wehr mit Gräben und Wachtürmen um die Stadt
 errichten.
 
-![Schrobenhausen](http://cardamonchai.com/wp-content/uploads/2009/07/11531862523_0c2c9a5e87_z-640x427.jpg)
+<RemoteImage
+  alt="Schrobenhausen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531862523_0c2c9a5e87_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531862523_0c2c9a5e87_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Erneut vollständige Zerstörung 1388 [](/wp-content/uploads/2009/07/11531862523_0c2c9a5e87_z.jpg) 1388 wurde Schrobenhausen erneut vollständig zerstört, als Augsburgs Truppen im Bayerischen Städtekrieg in die Gemeinde einfielen. Schrobenhausen wurde von Herzog Ludwig im Bart beim Wiederaufbau durch Steuerfreiheit und Bauholz unterstützt. Damals wurde auch die Stadterweiterung Richtung Nordosten und Nordwesten vorgenommen, der bis heute erhaltene Stadtgrundriss wurde geschaffen. Die neue Wehranlage ist teilweise heute noch erhalten. Sie wurde aus gebrannten Ziegeln erreichtet. Im wiederaufgebauten Rathaus befinden sich die Schranne und Verkaufsräume für Brot und Fleisch.
 
@@ -87,7 +93,13 @@ Rund 600 Spargelbauern haben ihre Felder rund um Schrobenhausen. Christian
 Schadt aus Großgerau brachte 1913 als erster das Edelgemüse mit und pflanzte es
 in den Paarauen an. Heute umfasst das Spargelanbaugebiet rund 600 Hektar.
 
-![Schrobenhausen](http://cardamonchai.com/wp-content/uploads/2009/07/11531810823_7eab6c42d7_z-640x427.jpg)
+<RemoteImage
+  alt="Schrobenhausen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531810823_7eab6c42d7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531810823_7eab6c42d7_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Geburtsort von Franz Seraph LenbachDer berühmt Maler Franz Seraph Lenbach wurde 1836 in Schrobenhausen geboren. Bekannt wurde er vor allem durch seine Potraits, er stellte unter anderem Otto von Bismarck und die beiden deutschen Kaiser Wilhelm I. und Wilhelm II dar.
 

@@ -40,7 +40,13 @@ Fleischermesser in der Hand. Darauf aufgespießt: Eine rote Paprikaschote. Die
 andere Hand hat die Mimin in die Hüfte gestemmt. Sie wirkt wild entschlossen.
 Ihr T-Shirt ziert ein Schaf, versehen mit den Worten "Friends? Not food, OK?"
 
-![kracht-kocht | full](http://cardamonchai.com/wp-content/uploads/2019/06/kracht-kocht1-219x250.jpg)
+<RemoteImage
+  alt="kracht-kocht"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2MLIK3k) Mir stellte sich gleich als Erstes die Frage: Was
 bedeutet vegetarisch vegan? Kocht sie nun vegetarisch? Oder vegan? Oder beides?

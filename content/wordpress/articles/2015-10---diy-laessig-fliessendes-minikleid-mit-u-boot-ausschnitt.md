@@ -38,6 +38,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
+  invalidMdx: "unknown: Unexpected token (117:13)"
 thumbnailId: "13030"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
@@ -46,7 +47,16 @@ subTitle: Nähanleitung One Size (34 - 42)
   
 ---
 
-![Minikleid Nähanleitung](http://cardamonchai.com/wp-content/uploads/2015/10/Minikleid-Nähanleitung-19-2-640x1038.jpg "Minikleid Nähanleitung")
+## unknown: Unexpected token (117:13)
+
+<!--
+<RemoteImage
+  alt="Minikleid Nähanleitung"
+  size="medium"
+  title="Minikleid Nähanleitung"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für
 ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie
@@ -64,7 +74,13 @@ Andere etwas "hemdsärmlig" vorkommt.
     [<sup>1</sup>](#1) findet Ihr ganz unten unter dem Text. Ihr könnt es durch
     Anklicken vergrößern und Euch gerne mit Eurer Zeichnung danach richten.
 
-![Stecknadeln und Schneiderkreide](http://cardamonchai.com/wp-content/uploads/2015/10/22170621608_7ef814e580_z-640x427.jpg "Stecknadeln und Schneiderkreide")
+<RemoteImage
+  alt="Stecknadeln und Schneiderkreide"
+  size="medium"
+  title="Stecknadeln und Schneiderkreide"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22170621608_7ef814e580_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22170621608_7ef814e580_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Das braucht Ihr für Euer Minikleid- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette [<sup>2</sup>](#2) bestellt.
 
@@ -101,7 +117,13 @@ Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschi
 auf den Saumstich. Umsäumt alle Ränder feinsäuberlich und verriegelt dabei Eure
 Nähte (An den Anfängen und Enden jeweils ein paar Stiche vor und zurück nähen).
 
-![Hier kommen die Säume hin](http://cardamonchai.com/wp-content/uploads/2015/10/21735559864_4129d12356_z-640x640.jpg "[ ](/wp-content/uploads/2015/10/21735559864_4129d12356_z.jpg)  Hier kommen die Säume hin")
+<RemoteImage
+  alt="Hier kommen die Säume hin"
+  size="medium"
+  title="[ ](/wp-content/uploads/2015/10/21735559864_4129d12356_z.jpg)  Hier kommen die Säume hin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__l.jpg"
+  loadingUrl="undefined" />
 
 Im nächsten Schritt werden die Säume umgenäht. Dazu faltet Ihr den
 Halsausschnitt und die Armlöcher sowie den unteren Saum (siehe Markierungen in
@@ -120,7 +142,13 @@ es verzieht sich nichts. Richtet Euch ungefähr nach den eingezeichneten
 Markierungen in meinem Foto, am besten übertragt Ihr Euch die mit der
 Schneiderkreide auf den Stoff.
 
-![Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen](http://cardamonchai.com/wp-content/uploads/2015/10/22369023911_661039e377_z-640x427.jpg "Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen")
+<RemoteImage
+  alt="Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen"
+  size="medium"
+  title="Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22369023911_661039e377_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22369023911_661039e377_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn Eure Säume fertig sind, legt Ihr die beiden Teile wieder rechts auf rechts
 übereinander und steckt sie feinsäuberlich zusammen. Achtet dabei darauf, dass
@@ -146,11 +174,19 @@ Schickt mal ein Bild, wenn es fertig ist, ich bin gepannt! &lt;3
 
 ### Fußnoten- [1] Der "Schnittbogen"
 
-![Mein "Schnittbogen" - zum Vergrößern bitte anklicken! | large](http://cardamonchai.com/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17-800x800.jpg '[ ](/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17.jpg)  Mein "Schnittbogen" - zum Vergrößern bitte anklicken!')
+<RemoteImage alt="Mein &quot;Schnittbogen&quot; - zum Vergrößern bitte
+anklicken!" size="large"
+title="[ ](/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17.jpg) Mein
+"Schnittbogen" - zum Vergrößern bitte anklicken!"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__l.jpg"
+loadingUrl="undefined" />
 
 - [2] Die [Buttinette](https://basteln-de.buttinette.com/shop/start)
 
 Meine Schritt-für-Schritt-Anleitung für ein wärmendes Körnerkissen
 [findet Ihr hier](/2015/09/diy-koernerkissen-naehanleitung/).
+
+-->
 
   

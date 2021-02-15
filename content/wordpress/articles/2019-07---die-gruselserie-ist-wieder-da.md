@@ -64,7 +64,13 @@ heutigen Horrorfilme treiben es da ja leider schon mal auf die Spitze. Perfekt
 ausgefeilt war hingegen **die Gruselserie** . Viele von uns kennen sie noch aus
 Kindertagen.
 
-![die-gruselserie](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-15-gruselserie-4-400x300.jpg)
+<RemoteImage
+  alt="die-gruselserie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-4__l.jpg"
+  loadingUrl="undefined" />
 
 Spannung von der ersten bis zur letzten Minute - mit den Kopfhörern auf den
 Ohren war man live dabei, wenn es wieder eine neue Gruselgeschichte gab. Die
@@ -95,7 +101,13 @@ Geschichten auf Lager, als die Entscheidung für die neue Auflage fiel.
 
 ## Killerinsekten und Yeti
 
-![die-gruselserie](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-15-gruselserie-2-400x533.jpg)
+<RemoteImage
+  alt="die-gruselserie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-2__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt sind bisher drei neue Folgen erschienen "Polterabend - Nacht des
 Entsetzens", "Moskitos - Anflug der Killer-Insekten" und "Yeti - Kreatur aus dem

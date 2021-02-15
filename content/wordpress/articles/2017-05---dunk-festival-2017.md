@@ -92,7 +92,13 @@ _Dunk!festival_ veröffentlicht.
 
 Inzwischen steht natürlich auch das komplett Lineup fest, beeindruckend, oder?
 
-![Dunk!Festival | full](http://cardamonchai.com/wp-content/uploads/2017/05/17966573_10154140072511887_6065221029203399504_o.jpg)
+<RemoteImage
+  alt="Dunk!Festival"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_17966573_10154140072511887_6065221029203399504_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_17966573_10154140072511887_6065221029203399504_o__l.jpg"
+  loadingUrl="undefined" />
 
 Drei Tage Post-Rock pur stehen uns bevor und ich bin gespannt wie zwei
 Regenschirme.
@@ -107,7 +113,13 @@ und losplanen!
 
 Viel Spaß, rock on und bis bald! &lt;3
 
-![Dunk!festival | full](http://cardamonchai.com/wp-content/uploads/2017/05/18556485_10154236337136887_6452039886214141882_o.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__l.jpg"
+  loadingUrl="undefined" />
 
 Das DUNK!festival findet Ihr [hier](https://www.dunkfestival.be/).
 

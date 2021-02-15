@@ -43,7 +43,13 @@ subTitle: Das fleißige Blümchen aus Meerbusch
 
 Werbung\*
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33815275706_00eb7e2b15_z.jpg)
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815275706_00eb7e2b15_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815275706_00eb7e2b15_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Ein paar von Euch können sich vielleicht noch an meinen
 [Honigartikel](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
@@ -71,7 +77,13 @@ Blitzversand sowie den vielen tollen Variationen. Doch mehr dazu später
 
 ## Veganer Honig im Test - Vonig auf dem Probierlöffel
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33042970013_c6c5d3a2fc_z-640x427.jpg)
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042970013_c6c5d3a2fc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042970013_c6c5d3a2fc_z__l.jpg"
+  loadingUrl="undefined" />
 
 Zusammen mit den süß gefüllten Fläschchen und Gläschen sendete mir Danny eine
 Liste ihrer Kostbarkeiten zu. Derzeit gibt es insgesamt 60 verschiedene Liköre,
@@ -85,7 +97,13 @@ probiert und dann in der Liste nachgesehen, um welche Sorte es sich handelt. Fü
 den Geschmack von  _Vonig_ spricht sicher schon mal, dass ich nur ein einziges
 Mal daneben gelegen habe.
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33700142882_5e3a3439f3_z-640x640.jpg "Apfel-Vonig")
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title="Apfel-Vonig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33700142882_5e3a3439f3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33700142882_5e3a3439f3_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Apfel - Sorte 410
 
@@ -95,7 +113,13 @@ nur toll. Kein Bisschen künstlich oder übertrieben, einfach nur schön nach
 Apfel. Er ist nicht zu süß und schön goldgelb. Von mir gibt es **9/10
 Geschmackspunkten** .
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33042975453_0d7ca33bf5_z-640x640.jpg "Apfel-Vonig")
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title="Apfel-Vonig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042975453_0d7ca33bf5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042975453_0d7ca33bf5_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Chili - Sorte 414
 
@@ -109,7 +133,13 @@ aber denke ich dennoch gut zu einem süßen Frühstück. Ich kann ihn mir sehr g
 zu meinen heiß geliebten Ayurveda-Pfannkuchen vorstellen. Ich gebe **10/10
 Geschmackspunkten** .
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33042985173_846b4fc58a_z-640x640.jpg "Ringelblumen-Vonig")
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title="Ringelblumen-Vonig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042985173_846b4fc58a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042985173_846b4fc58a_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Ringelblume - Sorte 420
 
@@ -118,7 +148,13 @@ geschmeckt habe. Das tut allerdings der Freude keinen Abbruch. Der Ringelblumen-
 _Vonig_ passt perfekt auf einen leckeren, frischen Frühstückstoast. Mir gefällt
 besonders die etwas herbere Note, daher gebe ich **10/10 Geschmackspunkten** .
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33042982713_7f81590086_z-640x640.jpg "Minze-Vonig")
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title="Minze-Vonig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042982713_7f81590086_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042982713_7f81590086_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Minze - Sorte 416
 
@@ -127,7 +163,13 @@ frisch und harmoniert sicher sehr gut mit Tee. Er ist keine Spur zu minzig, der
 Geschmack ist harmonisch und ausgeglichen. Von mir gibt es  **8/10
 Geschmackspunkten** .
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33700146122_913f0e20b4_z-640x640.jpg "Apfelkuchen-Vonig")
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title="Apfelkuchen-Vonig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33700146122_913f0e20b4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33700146122_913f0e20b4_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Apfelkuchen - Sorte 413
 
@@ -154,7 +196,13 @@ Bei der Sorte 214 schmeckte ich zuerst Nelke und Ingwer, am Ende dann Muskat.
 Mir gefällt die leicht bittere Note sehr gut. Ich denke, dieser  _Vet_ verträgt
 sich sicher mit einem guten Tonic-Water. **7/10 Geschmackpunkten**
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33815278446_c84aa4a956_z-640x427.jpg "Verschiedene Vet-Sorten")
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title="Verschiedene Vet-Sorten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815278446_c84aa4a956_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815278446_c84aa4a956_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Rosen - Sorte 217
 
@@ -171,7 +219,13 @@ Holunderblüten-Likör ist er jedoch sicher das Highlight. Lässt sich sicher se
 gut mit Soda, Eis und ein paar Minzblättern genießen. **7** **/10
 Geschmackspunkten**
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33042991233_e027a953b4_z.jpg "Auch Chili wollte probieren")
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title="Auch Chili wollte probieren"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042991233_e027a953b4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042991233_e027a953b4_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Pur - Sorte 250
 
@@ -194,7 +248,13 @@ Danny auf veganen Honig, Met und Likör spezialisiert. Alle Früchte für die
 Weiterverarbeitung bezieht sie, wenn es möglich ist, aus der Region. Alle
 eingesetzten Gewürze und Pflanzen sind unbehandelt und fair produziert.
 
-![Veganer Honig](http://cardamonchai.com/wp-content/uploads/2017/04/33856458255_a5da406727_z.jpg "Vielen Dank! <3")
+<RemoteImage
+  alt="Veganer Honig"
+  size="medium"
+  title="Vielen Dank! &lt;3"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33856458255_a5da406727_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33856458255_a5da406727_z__l.jpg"
+  loadingUrl="undefined" />
 
 Neben dem Standard-Sortiment, das man ganzjährig beziehen kann, gibt es noch
 eine große Palette saisonaler Produkte und Sonder-Editionen. So gibt es zum

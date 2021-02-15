@@ -50,7 +50,13 @@ hat über Jahrzehnte für das glänzende Image von Kuhmilch gesorgt. So betrug d
 Pro-Kopf-Verbrauch in Amerika in den 70ern ganze 113,5 Liter, berichtet die
 Albert Schweitzer Stiftung. Seit den 90ern geht der Konsum allerdings zurück.
 
-![Kuhmilch](http://cardamonchai.com/wp-content/uploads/2018/03/cow-2802838_1280-400x400.jpg)
+<RemoteImage
+  alt="Kuhmilch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_cow-2802838_1280__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_cow-2802838_1280__l.jpg"
+  loadingUrl="undefined" />
 
 Milch gerät zunehmend in die Kritik zahlreicher Ernährungswissenschaftler.
 Nachrichten über Gentechnik, Antibiotikamissbrauch in der Massentierhaltung und
@@ -78,7 +84,13 @@ Milchmacht"?
 
 ## Konzerne reagieren
 
-![Kuhmilch](http://cardamonchai.com/wp-content/uploads/2018/03/udder-7481_640-400x300.jpg)
+<RemoteImage
+  alt="Kuhmilch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-7481_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-7481_640__l.jpg"
+  loadingUrl="undefined" />
 
 Einige große Konzerne reagieren jetzt auf die geänderte Nachfrage. So kündigte
 Amerikas größter Milchkonzern Dean Foods vor kurzem einigen Milchlieferanten.
@@ -115,7 +127,13 @@ gesünderen Alternativen.
 
 ## Milch und die Gesundheit
 
-![Kuhmilch](http://cardamonchai.com/wp-content/uploads/2018/03/udder-168821_640-400x266.jpg)
+<RemoteImage
+  alt="Kuhmilch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-168821_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_udder-168821_640__l.jpg"
+  loadingUrl="undefined" />
 
 Tatsache ist auch: die Länder mit den höchsten Osteoporose-Raten haben
 gleichzeitig den höchsten Pro-Kopf-Milchkonsum. Wissenschaftliche Studien, u. a.

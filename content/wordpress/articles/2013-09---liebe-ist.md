@@ -39,12 +39,24 @@ subTitle: Gute Freunde und Fotos
 
 Wenn Dein Vater Dir aus dem Urlaub das schickt:
 
-![IMG_7731 | full](http://cardamonchai.com/wp-content/uploads/2013/09/img_7731.jpg)
+<RemoteImage
+  alt="IMG_7731"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7731__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_img_7731__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn Du dem Internet erzählst, dass es Deinem Kater schlecht geht und Twitter
 Dir Eulen schickt.
 
-![Eulencontent Olenso | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/09/eulencontent-olenso-150x150.jpg)
+<RemoteImage
+  alt="Eulencontent Olenso"
+  size="thumbnail"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_eulencontent-olenso__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_eulencontent-olenso__l.jpg"
+  loadingUrl="undefined" />
 
 Vielen Dank an dieser Stelle an alle, die uns derzeit unterstützen, mit Rat und
 Tat zur Seite stehen und uns zuhören, wenn wir mal wieder unser Herz ausschütten

@@ -41,7 +41,13 @@ subTitle: Sehnsuchtsort und Wanderparadies
 Mittelgebirge ist nicht nur besonders geschichtsträchtig. Es ist Wanderparadies
 und Sehnsuchtsort zugleich.**
 
-![teutoburger-wald](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-19-bielefeld-8-400x300.jpg)
+<RemoteImage
+  alt="teutoburger-wald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-8__l.jpg"
+  loadingUrl="undefined" />
 
 Wie ein paar von Euch wissen, war ich vor Kurzem endlich mal wieder in
 [Bielefeld](/2019/07/bielefeld/) und habe mir ein paar
@@ -57,7 +63,13 @@ Tecklenburger Land und Bielefeld. Viele kennen ihn vor allem aus dem
 Geschichtsunterricht: Die Römer und Germanen trugen hier einst die
 Hermannsschlacht oder Varusschlacht (Schlacht vom Teutoburger Wald) aus.
 
-![teutoburger-wald](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-19-bielefeld-9-400x300.jpg)
+<RemoteImage
+  alt="teutoburger-wald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-9__l.jpg"
+  loadingUrl="undefined" />
 
 Fast die komplette Fläche des Teutoburger Waldes gehört zu den Naturparks
 „Naturpark Teutoburger Wald / Eggegebirge“ und „Natur- und Geopark TERRA.vita.
@@ -75,7 +87,13 @@ Der Teutoburger Wald verfügt über eine sehr reichhaltige Fauna.
 Naturliebhaber\*innen können am Wegesrand neben Leberblümchen und Stechpalmen
 Galmeiveilchen und andere seltene Pflanzen bewundern.
 
-![teutoburger-wald](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-19-bielefeld-6-400x300.jpg)
+<RemoteImage
+  alt="teutoburger-wald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-6__l.jpg"
+  loadingUrl="undefined" />
 
 Das Gebiet gilt als besonders abwechslungsreich, da dort zwei unterschiedliche
 Klimazonen aufeinandertreffen. Im Westen herrscht atlantisches Klima und im

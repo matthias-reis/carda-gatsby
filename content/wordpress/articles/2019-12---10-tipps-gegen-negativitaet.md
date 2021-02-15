@@ -27,7 +27,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (59:46)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (77:46)"
 thumbnailId: "26862"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel__l.jpg
@@ -36,7 +36,7 @@ subTitle: Eine Chance für gute Stimmung
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (59:46)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (77:46)
 
 <!--
 **Negativität ist etwas Fieses. Sie hält einen am Boden, bremst die Kreativität
@@ -63,7 +63,13 @@ mich damit zu beschäftigen.
 
 ## Wenn Fluchen nicht hilft
 
-![Negativität](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-2-400x300.jpg "Es kann nicht immer alles eitel Sonnenschein sein...")
+<RemoteImage
+  alt="Negativität"
+  size="medium"
+  title="Es kann nicht immer alles eitel Sonnenschein sein..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-2__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn es mit einmal kräftig fluchen nicht getan ist (ja, das kann wirklich ab und
 zu Wunder bewirken!) und ich danach immer noch eine graue Wolke über dem Kopf
@@ -75,7 +81,13 @@ möglich gehen lassen. Das klappt am besten mit guter Laune und positiver
 Energie. Wenn Du ihr eine Chance geben möchtest, könnten Dir  die folgenden zehn
 Punkte helfen.
 
-![Negativität](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-5-400x300.png "Du musst nicht immer gleich in die Ferne schweifen...")
+<RemoteImage
+  alt="Negativität"
+  size="medium"
+  title="Du musst nicht immer gleich in die Ferne schweifen..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-5.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-5.png__l.jpg"
+  loadingUrl="undefined" />
 
 <ol>
     <li>
@@ -93,7 +105,13 @@ Du bist echt ne Marke! Deine Stärken und kleinen Macken machen Dich zu jemand g
     <li>
 ## Gönn Dir einen Tapetenwechsel
 
-![Negativität](http://cardamonchai.com/wp-content/uploads/2019/11/Design-ohne-Titel-1-400x300.jpg "Erfreue Dich an schönen Dingen...")
+<RemoteImage
+  alt="Negativität"
+  size="medium"
+  title="Erfreue Dich an schönen Dingen..."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-1__l.jpg"
+  loadingUrl="undefined" />
 
 Seit Tagen regnet es nur. Die Fenster müssten schon längst mal wieder geputzt
 werden und der Nachbar hört schon wieder laut Eurodance-Kacke. Soll ich Dir was
@@ -166,7 +184,13 @@ Es ist schon wieder einer dieser Tage. Mittelfinger-Mittwoch oder noch
 schlimmer: ein Montag, wie er im Buche steht. Da lässt sich jetzt sowieso nichts
 mehr dran ändern. Doch! Kopf hoch und freu Dich auf den Abend!
 
-![10-tipps-gegen-negativitaet-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin | large](http://cardamonchai.com/wp-content/uploads/2019/12/Tipps-gegen-Negativität-2-520x780.png)
+<RemoteImage
+  alt="10-tipps-gegen-negativitaet-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Tipps-gegen-Negativita%CC%88t-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Tipps-gegen-Negativita%CC%88t-2.png__l.jpg"
+  loadingUrl="undefined" />
 
 Hat Dir mein Artikel gefallen? Das freut mich! Wenn Du in Zukunft nichts mehr
 auf meiner Seite verpassen möchtest,

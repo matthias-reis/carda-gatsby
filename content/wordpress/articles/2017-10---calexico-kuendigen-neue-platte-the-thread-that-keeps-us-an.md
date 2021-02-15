@@ -37,7 +37,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (81:7)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (99:7)"
 thumbnailId: "18143"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__l.jpg
@@ -46,7 +46,7 @@ subTitle: Auskopplung "End Of The World With You"
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (81:7)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (99:7)
 
 <!--
 **_Calexico_ habe ich als produktive Band kennengelernt. Kaum hatte man sich an
@@ -55,7 +55,13 @@ schon wieder ein neues vorgestellt. Das ist auch jetzt wieder der Fall. In Kürz
 soll "The Thread That Keeps Us" in die Plattenregale einziehen. Die
 Vorab-Auskopplung "End Of The World With You" verspricht einiges.**
 
-![End Of The World With You](http://cardamonchai.com/wp-content/uploads/2017/10/9917203896_a04e9ce147_k-300x199.jpg "Sänger und Gitarrist Joey Burns")
+<RemoteImage
+  alt="End Of The World With You"
+  size="medium"
+  title="Sänger und Gitarrist Joey Burns"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917203896_a04e9ce147_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917203896_a04e9ce147_k__l.jpg"
+  loadingUrl="undefined" />
 
 "It's Rocktober everyone and we are super excited to announce that we have a new
 album! It's titled "The Thread That Keeps Us" and will be released January 26th,
@@ -76,7 +82,13 @@ Studio_ \*\*  who came with us on our travels to studios from El Paso to the
 Northern California coast.", kündigt Joey weiter auf der _Calexico_
 Facebook-Seite an.
 
-![The Thread That Keeps Us](http://cardamonchai.com/wp-content/uploads/2017/10/The-Thread-That-Keeps-Us-300x300.jpg "So wird das neue Album aussehen")
+<RemoteImage
+  alt="The Thread That Keeps Us"
+  size="medium"
+  title="So wird das neue Album aussehen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us__l.jpg"
+  loadingUrl="undefined" />
 
 Neugierige können also schon einen ersten Einblick bekommen, indem sie sich den
 ersten Song "End Of The World With You" nicht nur anhören, sondern auch noch
@@ -105,7 +117,13 @@ extremes." Hope you enjoy!", freut sich Joey.
 
 ## "Eine durchgeprügelte, verzerrte Gitarre"
 
-![End Of The World With You](http://cardamonchai.com/wp-content/uploads/2017/10/9917639354_af1d05b7b6_k-300x199.jpg "Schlagzeuger und Mitbegründer von Calexico John Convertino")
+<RemoteImage
+  alt="End Of The World With You"
+  size="medium"
+  title="Schlagzeuger und Mitbegründer von Calexico John Convertino"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_9917639354_af1d05b7b6_k__l.jpg"
+  loadingUrl="undefined" />
 
 "Es ist Klirren zu hören und eine durchgprügelte, verzerrte Gitarre. Dazu kommt
 eine süße Melodie, die an Liebe und Licht erinnern soll  im "Zeitalter der der

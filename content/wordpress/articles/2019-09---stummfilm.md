@@ -27,7 +27,8 @@ date: 2019-09-06T07:19:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (28:22)"
 thumbnailId: "26113"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-04-06-long-distance-calling-kulturkirche-altona-6__l.jpg
@@ -36,6 +37,9 @@ subTitle: Long Distance Calling veröffentlichen Konzert aus der Kulturkirche Al
   
 ---
 
+## unknown: Unexpected token (28:22)
+
+<!--
 **Könnt Ihr Euch noch an
 [meinen Konzertbericht](/2019/04/long-distance-calling-kulturkirche-altona/) vom
 Abend mit Long Distance Calling in der Kulturkirche Altona erinnern? Jetzt hat
@@ -63,7 +67,11 @@ Das Video wurde von Simon von der Gathen aufgenommen.
 Edition Blue-Ray plus zwei CDs, als Gatefold  LP Vinyl Set sowie in Form eines
 digitalen Audio-Downloads.
 
-![long-distance-calling](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-06-long-distance-calling-kulturkirche-altona-3-400x533.jpg '"Hier findet eine Liveaufzeichnung statt!"')
+<RemoteImage alt="long-distance-calling" size="medium" title=""Hier findet eine
+Liveaufzeichnung statt!""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__l.jpg"
+loadingUrl="undefined" />
 
 Das Konzert in der Kulturkirche fand am 6. April 2019 statt. Es wurde komplett
 aufgezeichnet. Eine sensationelle Leistung der Band, wenn man bedenkt, wie
@@ -99,5 +107,7 @@ Hier das Line-up:
 
 [Golden Silence Festival](https://www.facebook.com/goldensilencefestival/?__tn__=K-R&eid=ARCKKjGCau5Jb4dXXJXi1NPTs3vKHJljJzfiFsXVLEz-PDBu6HeuOFz8nRDB3TqilWD3a9lna84wJI82&fref=mentions&__xts__%5B0%5D=68.ARCrdjdbMgd45XkSMVxaJRh0XPZG92Odc1iRoCDkjGadBzBI0hgjw1DxqcRGdixdrx2HULci2IQNv9wImYWW-oU6yed82a8pAAUZlHes0D6ABKCr3o5V1OoZbS0tanpiTqddwWxk_aWrZXQBFMPqJhR-urWSwPQnDmJpxMn5J7UbZuAY_ddEVT6_Efv3wNcs6N2StwqKSMJrY-nt3KvJSOiCfw9C2GajUhETpOeVbcC4hQHekX39T8bAZPMLA3i6EVWV_P6N0OXFFyH5R0cQSM2ulVzrkxYuJ-B-nFv-lTwBwf7jnw3iQbWJ-VSz-k0fWiM9P8cNCqw-Yl1nsj454NKVpg)
 </div>
+
+-->
 
   

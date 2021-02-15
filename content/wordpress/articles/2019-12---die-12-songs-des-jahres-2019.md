@@ -193,6 +193,12 @@ möchte, kann das über meinen Paypal Me Link tun:
 
 Danke schön!
 
-![songs-des-jahres-anne-bloggt-cardamonchai-rock-n-roll-vegan-cardamonchai-2019 | large](http://cardamonchai.com/wp-content/uploads/2019/12/12-1-520x780.png)
+<RemoteImage
+  alt="songs-des-jahres-anne-bloggt-cardamonchai-rock-n-roll-vegan-cardamonchai-2019"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_12-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_12-1.png__l.jpg"
+  loadingUrl="undefined" />
 
   

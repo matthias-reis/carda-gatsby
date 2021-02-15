@@ -43,7 +43,13 @@ subTitle: '"Ich denke mir alle Kostüme selbst aus"'
   
 ---
 
-![Oakleaf](http://cardamonchai.com/wp-content/uploads/2017/07/34620395124_e9c96586e7_z1.jpg)
+<RemoteImage
+  alt="Oakleaf"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34620395124_e9c96586e7_z1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34620395124_e9c96586e7_z1__l.jpg"
+  loadingUrl="undefined" />
 
 **Viele haben applaudiert, als ich hier im Blog meine Aufnahmen von der
 Künstlergruppe Oakleaf Stelzenkunst präsentiert habe. Noch mehr haben beim
@@ -70,7 +76,13 @@ vielen kleinen Events
 
 ## "Ich habe einfach angefangen, Stelzen und ein Kostüm zu bauen"
 
-![Oakleaf](http://cardamonchai.com/wp-content/uploads/2017/07/34631673053_4ed188c507_z.jpg)
+<RemoteImage
+  alt="Oakleaf"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34631673053_4ed188c507_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34631673053_4ed188c507_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Bettina:** Ich fand die Stelzenläufer bei verschiedenen Veranstaltungen immer
 besonders toll und habe dann einfach irgendwann angefangen, mir selbst ein paar
@@ -101,7 +113,13 @@ bleiben. Ja es war ein wunderschönes Wochenende.
 
 ## "Es war wunderbar, fünf Tage lang auf Stelzen zu tanzen"
 
-![Oakleaf](http://cardamonchai.com/wp-content/uploads/2017/07/35075399910_06e3b12e2f_z.jpg)
+<RemoteImage
+  alt="Oakleaf"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35075399910_06e3b12e2f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35075399910_06e3b12e2f_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Bettina:** Es war unser erstes großes Musik Festival, es ist im Süden und es
 war wunderbar, fünf Tage lang auf unseren Stelzen zu tanzen.
@@ -144,7 +162,13 @@ Oakleaf-Truppe denn insgesamt?
 
 ## "Wir suchen ständig Leute, die sich uns anschließen"
 
-![Oakleaf](http://cardamonchai.com/wp-content/uploads/2017/07/34599807284_7441d5dea4_z-640x626.jpg)
+<RemoteImage
+  alt="Oakleaf"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34599807284_7441d5dea4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34599807284_7441d5dea4_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Bettina:** Jeder, der ein bisschen sportlich und nicht allzu ängstlich ist. Im
 Übrigen suchen wir ständig neue Performer. Wer also Lust hat, aufzutreten und
@@ -176,7 +200,13 @@ zu tun: Feiern, Essen, Kunst und so weiter.
 
 ## "Ich bin fast immer mit Oakleaf unterwegs"
 
-![Oakleaf](http://cardamonchai.com/wp-content/uploads/2017/07/34599803234_74e0383afd_z.jpg)
+<RemoteImage
+  alt="Oakleaf"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34599803234_74e0383afd_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_34599803234_74e0383afd_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Bettina:** Ich bin ein bisschen besessen und deshalb fast immer in Sachen
 Oakleaf unterwegs, aber ich gehe gerne paddeln. Außerdem lebe ich am Rand

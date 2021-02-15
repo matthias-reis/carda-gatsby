@@ -87,7 +87,13 @@ Stencil-Ideen arbeitet.
 
 ### Eine Kurzgeschichte
 
-![Streetart](http://cardamonchai.com/wp-content/uploads/2017/10/C292D52E-5864-4FAA-8128-E10189A06778-300x200.jpg)
+<RemoteImage
+  alt="Streetart"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_C292D52E-5864-4FAA-8128-E10189A06778__l.jpg"
+  loadingUrl="undefined" />
 
 Janet lief durch den Park. Ganz unbeschwert. Das Wetter war schön. Es war
 angenehm warm. Ein mildes Lüftchen wehte durch die Pappeln am Wegesrand. In der
@@ -218,6 +224,12 @@ Bilder entstanden. Bewundern kann man sie
 \*\*\*\*Auch die [Zonenkinder](https://www.instagram.com/zonenkinder/) sind auf
 Instagram vertreten.
 
-![Streetart | full](http://cardamonchai.com/wp-content/uploads/2017/10/werkzeuge-960x515.jpg)
+<RemoteImage
+  alt="Streetart"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_werkzeuge__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_werkzeuge__l.jpg"
+  loadingUrl="undefined" />
 
   

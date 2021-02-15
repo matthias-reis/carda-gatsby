@@ -35,7 +35,13 @@ subTitle: Weißwangengänse - Gefiederte Finnland-Einwanderer
   
 ---
 
-![Gänse](http://cardamonchai.com/wp-content/uploads/2016/08/28294041574_4f64075959_z-640x427.jpg "Im Gänsemarsch geht es durch den Park")
+<RemoteImage
+  alt="Gänse"
+  size="medium"
+  title="Im Gänsemarsch geht es durch den Park"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28294041574_4f64075959_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28294041574_4f64075959_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute geht es weiter mit meiner Fotoserie aus Finnland. Gestern habe ich Euch
 meine Möwenbilder gezeigt, heute stelle ich Euch ein paar

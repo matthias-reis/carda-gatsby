@@ -49,7 +49,13 @@ Was weiß man schon von Flensburg? Dass die Punktekartei für die Verkehrssünde
 dort beheimatet ist? Es dort einen Marinestützpunkt gibt? Dass es windig ist?
 Und weiter? Das ist ganz schön wenig, oder?
 
-![flensburg](http://cardamonchai.com/wp-content/uploads/2019/09/fruehstück-flensburg-400x533.jpg "Geniales veganes Frühstück im Marien-Café")
+<RemoteImage
+  alt="flensburg"
+  size="medium"
+  title="Geniales veganes Frühstück im Marien-Café"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_fruehstu%CC%88ck-flensburg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_fruehstu%CC%88ck-flensburg__l.jpg"
+  loadingUrl="undefined" />
 
 Wir hatten uns vorgenommen, die Stadt ein bisschen genauer unter die Lupe zu
 nehmen. Also packten wir die Kamera ein, nahmen uns ein Wochenende Zeit und
@@ -80,7 +86,13 @@ einen wunderbar aromatischen Kaffee.
 
 ## Kännchen nur draußen war gestern!
 
-![flensburg](http://cardamonchai.com/wp-content/uploads/2019/09/tekannen-flensburg-400x533.jpg "Tolle Teekannen")
+<RemoteImage
+  alt="flensburg"
+  size="medium"
+  title="Tolle Teekannen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_tekannen-flensburg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_tekannen-flensburg__l.jpg"
+  loadingUrl="undefined" />
 
 Ein kleiner Tipp am Rande: Wer im Garten speist, sollte auch auf jeden Fall mal
 einen Blick ins Innere des Cafés riskieren. Das komplette Lokal ist von oben bis
@@ -107,7 +119,13 @@ Auf dem Weg von der Phaenomenta zurück in die Innenstadt fiel uns im
 Vorbeiradeln etwas Seltsames auf: auf einem Kabel über der Norderstraße
 baumelten Dutzende Schuhe über unseren Köpfen.
 
-![flensburg](http://cardamonchai.com/wp-content/uploads/2019/09/schuhe-flensburg-400x533.jpg "Luftige Schuhe")
+<RemoteImage
+  alt="flensburg"
+  size="medium"
+  title="Luftige Schuhe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_schuhe-flensburg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_schuhe-flensburg__l.jpg"
+  loadingUrl="undefined" />
 
 "Shoefiti" ist echte Straßenkunst. Auch bei uns in Hamburg findet man hin und
 wieder kleinere Schuhinstallationen im öffentlichen Raum. In verschiedenen
@@ -134,7 +152,13 @@ sind, der Hunger groß ist und wir keine Lust oder Zeit hatten, einen Tisch zu
 reservieren. Bei PP findet man immer einen Platz und die veganen Menüs sind eine
 sichere Bank.
 
-![Flensburg](http://cardamonchai.com/wp-content/uploads/2019/09/tau-flensburg-400x533.jpg "Armdickes Tau im Schifffahrtsmuseum")
+<RemoteImage
+  alt="Flensburg"
+  size="medium"
+  title="Armdickes Tau im Schifffahrtsmuseum"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_tau-flensburg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_tau-flensburg__l.jpg"
+  loadingUrl="undefined" />
 
 Am Sonntag gab es dann noch ein tolles Frühstück im Café Central (Große Straße
 83). Kredenzt wurde uns hier unter anderem veganes Smørrebrød (dänisches

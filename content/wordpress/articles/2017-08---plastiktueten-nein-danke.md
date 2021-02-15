@@ -57,7 +57,13 @@ drohen bei schwerwiegenden Verstößen. Ottonormalbürger, die bereits erworbene
 Tüten verwenden, wird nichts geschehen, äußerte man sich gegenüber der
 Nachrichtenagentur Reuters.
 
-![Plastiktüten](http://cardamonchai.com/wp-content/uploads/2017/08/31623226645_cf9554d7ea_z-300x450.jpg "Müllbaum an der Hamburger Hafenkante - Ein Mahnmal")
+<RemoteImage
+  alt="Plastiktüten"
+  size="medium"
+  title="Müllbaum an der Hamburger Hafenkante - Ein Mahnmal"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_31623226645_cf9554d7ea_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_31623226645_cf9554d7ea_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## 100 Millionen Plastiktüten jeden Tag
 
@@ -83,7 +89,13 @@ Verpackungen, Luftballons, Netze und das verheerende Mikroplastik, welches wir
 mit Duschgels, Shampoos, Peelings und durch das Waschen von Kunststoffen in der
 Waschmaschine ins Grundwasser und damit ins Meer spülen.
 
-![Plastiktüten](http://cardamonchai.com/wp-content/uploads/2017/08/9571496974_8050b05bd2_z-300x196.jpg "Meeresbewohner")
+<RemoteImage
+  alt="Plastiktüten"
+  size="medium"
+  title="Meeresbewohner"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_9571496974_8050b05bd2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_9571496974_8050b05bd2_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch hierzulande hat man die Problematik inzwischen erfasst. Immer mehr
 Geschäfte setzen auf Recyclingtüten, Stoffbeutel oder Pfandtaschen statt auf die

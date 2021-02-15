@@ -55,7 +55,8 @@ date: 2012-06-15T09:10:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (17:65)"
 thumbnailId: "3118"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__l.jpg
@@ -64,6 +65,9 @@ subTitle: Tagebucheintrag
   
 ---
 
+## unknown: Unexpected token (17:65)
+
+<!--
 Dabei habe ich auch in alten Tagebüchern geblättert, in denen ich schon als Kind
 jeden Urlaub minutiös genau aufgezeichnet habe, mit den Namen der Campingplätze,
 Sehenswürdigkeiten usw.
@@ -77,7 +81,11 @@ bekommen habe, werde ich diese schöne Tradition so gut ich es noch, kann
 fortsetzen. Das letzte Mal gab es hier im Blog ein Reisetagebuch in Bildern,
 vielleicht kann ich dann dieses Jahr auch etwas mehr an Text mitbringen.
 
-![Tagebuch | full](http://cardamonchai.com/wp-content/uploads/2012/06/img_9291.jpg '"Der Schmetterling" cardamonchai 1992')
+<RemoteImage alt="Tagebuch" size="full" title=""Der Schmetterling" cardamonchai
+1992"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9291__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9291__l.jpg"
+loadingUrl="undefined" />
 
 Sehr interessant, mit was man sich noch vor ein paar Jahren beschäftigt hat. "In
 Textverarbeitung wäre ich heute beinahe verzweifelt." Ein Eintrag von 1996, ein
@@ -97,7 +105,11 @@ Ferienreisen mit uns Kindern ausgaben als für Luxusgüter wie Computer. Irgendw
 habe ich mich ja diesem mir völlig fremdem Mysterium dann, zwar Jahre später als
 meine Altersgenossen, doch noch genähert.
 
-![Tagebuch | full](http://cardamonchai.files.wordpress.com/2012/06/img_9297.jpg '"Die Reiseschreibmaschine" cardamonchai 1996')
+<RemoteImage alt="Tagebuch" size="full" title=""Die Reiseschreibmaschine"
+cardamonchai 1996"
+mediumUrl="http://cardamonchai.files.wordpress.com/2012/06/img_9297.jpg"
+largeUrl="http://cardamonchai.files.wordpress.com/2012/06/img_9297.jpg"
+loadingUrl="undefined" />
 
 "Vorgestern hat mich "S" gefragt, ob ich mit ihm gehen will." Darauf folgt dann
 ein 5-seitiger Text, in dem ich die Vor- und Nachteile einer Beziehung abwiege
@@ -105,7 +117,11 @@ und mir überlege, ob ich nun auf dem Zettel "ja", "nein" oder "vielleicht"
 ankreuze. Das war 1996, kurz vor meinem ersten "richtigen" Konzertbesuch. Oasis
 in der Olympiahalle, die Eintrittskarte besitze ich heute noch.
 
-![Tagebuch | full](http://cardamonchai.com/wp-content/uploads/2012/06/img_9296.jpg '"Die Eintrittskarte" cardamonchai 1997')
+<RemoteImage alt="Tagebuch" size="full" title=""Die Eintrittskarte" cardamonchai
+1997"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__l.jpg"
+loadingUrl="undefined" />
 
 Morgen geht es nach England, eine Station wird unter anderen auch Tintagel sein.
 Dort war ich auch zu dieser Zeit schon mit meinen Eltern. Ich bin gespannt, ob
@@ -121,5 +137,7 @@ Auskopplung: "Para". Für alle, die es wie ich nicht mehr erwarten können: Das
 Album kann bereits vorbestellt werden.
 
 [youtube=http://www.youtube.com/watch?feature=player_embedded&amp;v=qM_Euc5saPI]
+
+-->
 
   

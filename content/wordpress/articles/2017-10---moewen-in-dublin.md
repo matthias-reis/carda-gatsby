@@ -27,7 +27,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (30:28)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (36:28)"
 thumbnailId: "18003"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__l.jpg
@@ -36,7 +36,7 @@ subTitle: Bunte Bilderserie mit original Irischen Seevögeln
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (30:28)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (36:28)
 
 <!--
 **In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen! Ein paar Mal
@@ -44,7 +44,13 @@ musste ich sogar aufpassen, dass ich vor lauter Möwenfotografie nicht die tolle
 Sehenswürdigkeiten übersehe. Aus lieber Tradition und weil die Dubliner Möwen
 einfach etwas ganz Besonders sind, ist eine lustige Bildergalerie entstanden.**
 
-![Möwen](http://cardamonchai.com/wp-content/uploads/2017/10/37239585240_9e5d04507e_k-300x200.jpg)
+<RemoteImage
+  alt="Möwen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__l.jpg"
+  loadingUrl="undefined" />
 
 Zurück von unserer Irlandreise war ich erstmal noch eine ganze Zeitlang mit
 anderen Dingen beschäftigt. Doch nun komme ich endlich dazu, meine Fotos zu

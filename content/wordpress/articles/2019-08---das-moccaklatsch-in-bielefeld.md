@@ -38,7 +38,13 @@ subTitle: '"Kann ich bitte einfach hierbleiben?"'
 [Bad Salzuflen](/2019/09/bad-salzuflen/) ging, gab es erstmal ein leckeres
 Frühstück im schönen Café "Moccaklatsch" in Bielefeld.**
 
-![moccaklatsch](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-21-400x533.jpg)
+<RemoteImage
+  alt="moccaklatsch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-21__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-21__l.jpg"
+  loadingUrl="undefined" />
 
 Weil es dort so gemütlich ist, mussten wir aufpassen, dass wir nicht einfach den
 ganzen Tag dort sitzenblieben. Insgesamt haben wir das Café in drei Tagen
@@ -62,6 +68,12 @@ Viel Spaß und lasst Euch unbedingt eine große Tasse Cappuccino mit
 
 [gallery type="rectangular" link="none" size="medium" ids="25423,25422,25421"]
 
-![moccaklatsch-bielefeld | full](http://cardamonchai.com/wp-content/uploads/2019/08/moccaklatsch-bielefeld.png)
+<RemoteImage
+  alt="moccaklatsch-bielefeld"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_moccaklatsch-bielefeld.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_moccaklatsch-bielefeld.png__l.jpg"
+  loadingUrl="undefined" />
 
   

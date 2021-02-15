@@ -88,7 +88,13 @@ breathe_ _You don´t care_ _You don´t care_ _Life is left inside the rock_ _Stu
 in day by day_ _You don´t care_ _You don´t care_ _Presence boroughs the colour_
 _From the world to low less gray_ _You don´t care_ _You don´t care_
 
-![Foto: cardamon82 Cornwall 2009 | full](http://cardamonchai.files.wordpress.com/2011/07/p51900171.jpg "Foto: cardamon82 Cornwall 2009")
+<RemoteImage
+  alt="Foto: cardamon82 Cornwall 2009"
+  size="full"
+  title="Foto: cardamon82 Cornwall 2009"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/07/p51900171.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/07/p51900171.jpg"
+  loadingUrl="undefined" />
 
 \_\_ <pre></pre>
 

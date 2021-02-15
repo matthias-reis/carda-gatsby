@@ -36,7 +36,13 @@ subTitle: '"Wir wollten was ganz Eigenes machen!"'
 Unser Treffen fand im Übungsraum der Band in der der alten Reese-Kaserne in
 Augsburg statt
 
-![Interview mit der Augsburger Band Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/02/IMG_22971-640x427.jpg)
+<RemoteImage
+  alt="Interview mit der Augsburger Band Pepes Penthouse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22971__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22971__l.jpg"
+  loadingUrl="undefined" />
 
 \_**\_ **Anne: Wie und wann habt ihr Euch kennengelernt?\_\_ **Quincy:** 2006
 lernte ich Chris in dem Musikgeschäft in Augsburg kennen, in dem er wir heute
@@ -61,7 +67,13 @@ bei unserem nächsten Auftritt sicher wieder was neues vorstellen!
 **Anne: Wann gibt es PEPES PENTHOUSE das nächste Mal live zu sehen?**
 **Quincy:** Wir spielen am 02.04.2009 im Irish-Pub Flannigans Post in Augsburg.
 
-![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/02/IMG_22871-640x427.jpg)
+<RemoteImage
+  alt="Pepes Penthouse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22871__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22871__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne: Wie lange macht ihr schon Musik?** **Quincy:** Ich habe schon früh
 angefangen Gitarre zu spielen. Mit 15 gründete ich meine erste
@@ -94,7 +106,13 @@ Konzert an, oder setzen uns einfach so zusammen.
 **Chris:** Wir treffen uns halt nicht mehr alle 2-3 Tage. Wir haben unsere
 festen Bandabende ca. alle 2 Wochen.
 
-![Interview mit der Augsburger Band Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/02/IMG_22961-640x427.jpg)
+<RemoteImage
+  alt="Interview mit der Augsburger Band Pepes Penthouse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22961__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22961__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne: Kommt es auch mal vor, dass ihr Euch gegenseitig auf die Nerven geht?
 Was macht ihr, wenn das passiert?** **Chris:** Sicher kommt das beim proben ab
@@ -125,7 +143,13 @@ eine Erzählung der Jungs oder ein Gespräch mit den anderen auf eine Idee für
 einen Song bringt. Ich schreibe nicht nur über meine Erlebnisse und Gedanken,
 sondern über die der Band.
 
-![Pepes Penthouse im Proberaum in Augsburg](http://cardamonchai.com/wp-content/uploads/2009/02/IMG_22901-640x427.jpg)
+<RemoteImage
+  alt="Pepes Penthouse im Proberaum in Augsburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22901__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_22901__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne: Wovon handelt der Song „Wie lange“, der momentan auf Eurer myspace-Seite
 zu hören ist?** **Quincy:** Der Song handelt von Situation und Zuständen aus
@@ -169,7 +193,13 @@ Tonstudio arbeiten, Musik hören
 
 **David:** skaten, Musik machen, Musik hören, meine Freundin ärgern.
 
-![Pepes Penthouse](http://cardamonchai.com/wp-content/uploads/2009/02/IMG_2301-640x427.jpg)
+<RemoteImage
+  alt="Pepes Penthouse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_2301__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_02_IMG_2301__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne: Mit euren deutschen Texten, zeigt ihr, wo eure Heimat ist. Wie geht ihr
 selbst mit dem Begriff Heimat um? Was bedeutet Heimat für euch?** **Chris:**

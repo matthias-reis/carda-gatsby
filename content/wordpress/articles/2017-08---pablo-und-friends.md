@@ -39,7 +39,13 @@ subTitle: Handgemachte Postkarten aus Hamburg
 
 Werbung\*
 
-![Pablo & Friends](http://cardamonchai.com/wp-content/uploads/2017/08/36179205732_a4a2a4a1ab_z-640x427.jpg)
+<RemoteImage
+  alt="Pablo &amp; Friends"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36179205732_a4a2a4a1ab_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36179205732_a4a2a4a1ab_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Ich bin ein großer Fan von Avocados. Vielleicht der größte überhaupt. Wenn ich
 nicht regelmäßig meine Avocados bekomme, fehlt mir etwas. Ich liebe sie. Schon
@@ -55,7 +61,13 @@ Einhorn-Avocado, eine Modeschöpfer-Avocado und eine Mankini-Avocado.
 
 ## Pablo &amp; Friends stellen sich vor
 
-![Pablo & Friends](http://cardamonchai.com/wp-content/uploads/2017/08/36303518866_5140b44d6d_z-640x427.jpg)
+<RemoteImage
+  alt="Pablo &amp; Friends"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36303518866_5140b44d6d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36303518866_5140b44d6d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ganze zehn verschiedene Motive habe ich mir im _Pablo &amp; Friends_ Onlineshop
 herausgesucht und möchte sie Euch heute präsentieren, weil ich sie so extrem
@@ -73,7 +85,13 @@ planen sie eine Sortimentserweiterung. Neben Karten möchten die beiden auch
 Textilien mit Avocados anbieten. Derzeit gibt es online auch schon eine
 Pablo-Baumwolltasche.
 
-![Pablo & Friends](http://cardamonchai.com/wp-content/uploads/2017/08/36348125135_9a2b23254e_z-640x427.jpg)
+<RemoteImage
+  alt="Pablo &amp; Friends"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36348125135_9a2b23254e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36348125135_9a2b23254e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wir dürfen also gespannt sein. Ich freue mich schon sehr auf die neuen Sachen.
 Ein T-Shirt oder ein Kleid von _Pablo &amp; Friends_ fände ich schon richtig

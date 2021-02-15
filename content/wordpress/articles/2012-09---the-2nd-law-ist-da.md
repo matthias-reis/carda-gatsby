@@ -100,7 +100,13 @@ subTitle: Neues Album von Muse
   
 ---
 
-![Muse - The 2nd Law ist da! | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/09/427d6774096811e283fe22000a1d0cf6_7-150x150.jpg "Muse - The 2nd Law ist da!")
+<RemoteImage
+  alt="Muse - The 2nd Law ist da!"
+  size="thumbnail"
+  title="Muse - The 2nd Law ist da!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_427d6774096811e283fe22000a1d0cf6_7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_427d6774096811e283fe22000a1d0cf6_7__l.jpg"
+  loadingUrl="undefined" />
 
 Jetzt liegt sie im Player und ich genieße dieses geniale Werk in voller
 Lautstärke. Eines konnte ich sofort nach den ersten drei Songs sagen: Das Album

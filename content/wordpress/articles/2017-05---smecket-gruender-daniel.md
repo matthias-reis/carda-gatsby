@@ -49,7 +49,13 @@ subTitle: '"Der Geschmack steht im Vordergrund"'
   
 ---
 
-![ | full](http://cardamonchai.com/wp-content/uploads/2017/05/daniel-weiss_800x800-1.jpg)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_daniel-weiss_800x800-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_daniel-weiss_800x800-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Mein Testbericht zu den tollen Bio-Tees von _Smecket_ fand hier regen Anklang.
 Somit bin nicht nur ich neugierig, wer genau die Manufaktur in Seelze betreibt
@@ -73,7 +79,13 @@ geantwortet. Wie ist es bei Dir? Überraschst Du mich auch?
 
 ## "Morgens trinke ich Schwarzen Tee"
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/05/biotee-mischungen_800x800-640x320.jpg "Bild: Smecket")
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title="Bild: Smecket"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_biotee-mischungen_800x800__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_biotee-mischungen_800x800__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniel:** Nein (lacht). Ich trinke morgens gerne schwarzen Tee mit etwas
 Milch. Das habe ich so von meiner Frau übernommen. Auf die Milch würde ich gerne
@@ -108,7 +120,13 @@ Teesorten?
 
 ## Alle Zutaten stammen von bio-zertifizierten Händlern
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33996398955_59e7c7dbb5_z-640x427.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996398955_59e7c7dbb5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996398955_59e7c7dbb5_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniel:** Ich beziehe alle Zutaten von bio-zertifizierten Händlern aus
 Deutschland. Direkt vom Produzenten beziehe ich keine Waren, dazu sind die
@@ -132,7 +150,13 @@ gekennzeichnet. War es schwierig, an diese Siegel ranzukommen?
 
 ## Vegan und bio
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33996381365_b76c3867ee_z-640x427.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996381365_b76c3867ee_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996381365_b76c3867ee_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniel:** Ein spezielles vegan-Siegel verwende ich nicht. Die
 Biozertifizierung ist schon etwas aufwändiger, dauert und kostet Geld, aber das
@@ -149,7 +173,13 @@ tätig. Ein klassischer Bürojob, den ganzen Tag vorm Rechner.
 
 ## "Trinkt mehr Tee!"
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33611025270_3983f85033_z-640x427.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611025270_3983f85033_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611025270_3983f85033_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniel:** Aktuell gibt es noch kein Team. Also trinkt mehr Tee (lacht
 fröhlich).
@@ -174,7 +204,13 @@ dem Mittagstief raus?
 
 ## Minze &amp; Lemongras ist besonders erfrischend
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33996377795_f9503693e6_z-640x427.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996377795_f9503693e6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996377795_f9503693e6_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniel:** Die Grünen und Weißen Tees enthalten Koffein und machen
 dementsprechend munter. Allerdings sind sie in ihrer Wirkung etwas milder als
@@ -206,7 +242,13 @@ kleine Plastiktüten. Das ließ sich leider nicht anders lösen.
 
 ## "Klimaschutz beeinflusst mein Denken und Handeln"
 
-![Zero Waste](http://cardamonchai.com/wp-content/uploads/2017/04/11354713785_68c5b41684_z-640x427.jpg)
+<RemoteImage
+  alt="Zero Waste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354713785_68c5b41684_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354713785_68c5b41684_z__l.jpg"
+  loadingUrl="undefined" />
 
 Umwelt- und Klimaschutz beeinflussen mein Denken und Handeln. Früher bin ich zum
 Beispiel oft die 20 Kilometer mit dem Rad zur Arbeit gefahren.
@@ -228,7 +270,13 @@ soweit es geht, Fleisch ganz. Das reicht mir aktuell.
 
 ## "Am Anfang von Smecket haben wir viele Tees getestet"
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33611000980_c93e03a3e0_z-640x427.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Daniel:** In der Anfangsphase von _Smecket_ haben meine Frau und ich viele
 Tees getestet. Die Verpackung vieler Tees ist sehr gelungen, der Geschmack

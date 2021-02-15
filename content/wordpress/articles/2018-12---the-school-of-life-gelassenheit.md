@@ -64,7 +64,13 @@ mitgegründet und hat inzwischen Niederlassungen in London, Antwerpen, Amsterdam
 Berlin, Istanbul, Melbourne, Mexiko City, Paris, São Paulo, Sydney, Seoul,
 Taipeh und Tel Aviv. Hier ein Zitat:
 
-![gelassenheit](http://cardamonchai.com/wp-content/uploads/2018/12/mittagsrast-400x321.jpg)
+<RemoteImage
+  alt="gelassenheit"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_mittagsrast__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_mittagsrast__l.jpg"
+  loadingUrl="undefined" />
 
 > "Die 'School of Life' widmet sich der Entwicklung emotionaler Intelligenz -
 > weil wir überzeugt sind, dass unsere größten Probleme durch fehlende
@@ -111,7 +117,13 @@ ihnen schließlich, das Schiff in Sicherheit zu bringen. Es wäre jedoch
 wesentlich schneller außerhalb der Gefahrenzone gewesen, wenn die Passagiere auf
 das Können der Besatzung vertraut hätten und gelassen geblieben wären.
 
-![gelassenheit](http://cardamonchai.com/wp-content/uploads/2018/12/post-impressionist-1428129_1280-400x308.jpg)
+<RemoteImage
+  alt="gelassenheit"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_post-impressionist-1428129_1280__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_post-impressionist-1428129_1280__l.jpg"
+  loadingUrl="undefined" />
 
 Ein Kapitel trägt den Namen "Über die Wichtigkeit höflichen Verhaltens". Darin
 wird unter anderem auch erklärt, dass es nicht immer toll ist, direkt und
@@ -172,7 +184,13 @@ Bestandteil meines Blogs etablieren. Meine Lesewut hat sich
 sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto
 mehr möchte ich darüber berichten.
 
-![gelassenheit | full](http://cardamonchai.com/wp-content/uploads/2018/12/vincent-van-gogh-89422_1280.jpg)
+<RemoteImage
+  alt="gelassenheit"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://amzn.to/2VbMYR4)
 

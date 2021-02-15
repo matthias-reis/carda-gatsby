@@ -36,7 +36,13 @@ subTitle: Bundestagspetition
   
 ---
 
-![Ärzte gegen Tierversuche](http://cardamonchai.com/wp-content/uploads/2017/04/004_.jpg)
+<RemoteImage
+  alt="Ärzte gegen Tierversuche"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_004___m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_004___l.jpg"
+  loadingUrl="undefined" />
 
 **Die  _Ärzte gegen Tierversuche_ benötigen 50.000 Unterschriften. Liegen diese
 bis zum 11. April vor, dürfen sie ihre Argumente bei einer offiziellen Anhörung
@@ -103,7 +109,13 @@ erreicht werden!
 Wer jetzt noch juristische und wissenschaftliche Argumente benötigt, findet
 diese mit dem Klick auf folgendes Banner.
 
-![Ärzte gegen Tierversuche](http://cardamonchai.com/wp-content/uploads/2017/04/17553490_10155616921599796_7138675616111581720_n.jpg)
+<RemoteImage
+  alt="Ärzte gegen Tierversuche"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_17553490_10155616921599796_7138675616111581720_n__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://www.schwimmen-bis-zur-verzweiflung.de/)
 

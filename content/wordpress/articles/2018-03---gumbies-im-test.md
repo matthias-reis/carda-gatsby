@@ -60,7 +60,13 @@ Der Australien-Auswanderer stellte sich die Frage
 > "Zwei bis vier Mal in unserem Leben laufen wir um die ganze Erde. Wie schön
 > wäre es, einen Teil davon in Strandsandalen zu gehen?"
 
-![Gumbies](http://cardamonchai.com/wp-content/uploads/2018/03/39720943915_f9432d3838_z-400x267.jpg)
+<RemoteImage
+  alt="Gumbies"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39720943915_f9432d3838_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39720943915_f9432d3838_z__l.jpg"
+  loadingUrl="undefined" />
 
 In diesem Moment waren Gumbies geboren. Inspiriert von der schroffen und
 bezaubernden Natur Australiens. Getrieben von seiner Leidenschaft und
@@ -89,7 +95,13 @@ neidische Blicke erntete.
 
 > "Wo kann man die denn kaufen?",
 
-![Gumbies](http://cardamonchai.com/wp-content/uploads/2018/03/40574308322_a1729de6c1_z-400x267.jpg)
+<RemoteImage
+  alt="Gumbies"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574308322_a1729de6c1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574308322_a1729de6c1_z__l.jpg"
+  loadingUrl="undefined" />
 
 wurde ich gefragt und schickte gleich mal Links rum. Von der Umkleide in die
 Turnhalle und wieder zurück ist jetzt kein großer Weg, aber ich fühlte mich gut
@@ -120,7 +132,13 @@ Fall begleiten.
 
 ## Fazit: Sie werden mich noch lange begleiten
 
-![Gumbies](http://cardamonchai.com/wp-content/uploads/2018/03/40574298002_0dafffba75_z-400x267.jpg)
+<RemoteImage
+  alt="Gumbies"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574298002_0dafffba75_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574298002_0dafffba75_z__l.jpg"
+  loadingUrl="undefined" />
 
 Von mir bekommen die Gumbies 10 von 10 Punkten und Ihr meine Empfehlung.
 Besonders mag ich den nachhaltigen Gedanken dahinter. Ich kann mir nach der

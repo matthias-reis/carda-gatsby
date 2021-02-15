@@ -61,7 +61,13 @@ sich selbst hineinwachsen wird.
 
 ## "Ich mag meine Gitarrensoli in "'Pop Music For Ugly People'"
 
-![vinny-peculiar-on-stage](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-on-stage-400x300.png)
+<RemoteImage
+  alt="vinny-peculiar-on-stage"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-on-stage.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-on-stage.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Welches Stück gefällt Dir am besten?
 
@@ -127,7 +133,13 @@ der Stadt besonders gut gefällt?
 
 ## "Ich gehe gerne in Worcester am Fluss spazieren"
 
-![vinny-peculiar-on-stage](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-1-400x533.png)
+<RemoteImage
+  alt="vinny-peculiar-on-stage"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Vinny:** Ich bin 2015 nach vielen Jahren in Manchester und Liverpool nach
 Worcestershire zurückgekehrt. Viele meiner musikalischen Verbindungen liegen
@@ -172,7 +184,13 @@ erscheinen. Bis jetzt sind mit "Pop Music For Ugly People" und "Vote For Me"
 bereits zwei Vorauskopplungen erschienen.
 [Ihr könnt die Videos hier im Blog anschauen](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/).
 
-![vinny-peculiar-on-stage | full](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-while-you-still-can.jpg)
+<RemoteImage
+  alt="vinny-peculiar-on-stage"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-while-you-still-can__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-while-you-still-can__l.jpg"
+  loadingUrl="undefined" />
 
 Hat Euch mein Interview gefallen? Wie schön! 
 [Meldet Euch gerne](mailto:info@cardamonchai.com), wenn Ihr auch ein tolles
@@ -198,7 +216,13 @@ grow into itself.
 
 ### "I like my guitar solos in 'Pop Music For Ugly People'"
 
-![vinny-peculiar-on-stage](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-on-stage-400x300.png)
+<RemoteImage
+  alt="vinny-peculiar-on-stage"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-on-stage.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-on-stage.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Which Song do you like best?
 
@@ -255,7 +279,13 @@ finished legacy, I’ll go for Parlour Flames as the project I liked best.
 
 ### "I like to walk by the riverside"
 
-![vinny-peculiar-on-stage](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-1-400x533.png)
+<RemoteImage
+  alt="vinny-peculiar-on-stage"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** You are originally from Worcestershire. Is there something that you
 like most about the city?
@@ -303,7 +333,13 @@ The new Vinny Peculiar album "While You Still Can" will be released on October,
 For Me".
 [You can watch the videos here on this blog](/2019/09/das-neue-vinny-peculiar-album-ein-vorgeschmack/).
 
-![vinny-peculiar-on-stage | full](http://cardamonchai.com/wp-content/uploads/2019/09/vinny-peculiar-while-you-still-can.jpg)
+<RemoteImage
+  alt="vinny-peculiar-on-stage"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-while-you-still-can__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_vinny-peculiar-while-you-still-can__l.jpg"
+  loadingUrl="undefined" />
 
 **Pictures:** [Vinny Peculiar](https://vinnypeculiar.com)
 

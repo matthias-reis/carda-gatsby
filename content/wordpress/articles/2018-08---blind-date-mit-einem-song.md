@@ -139,7 +139,13 @@ Badeschaum. Geigen. Show. Was für ein Macho. Sorry, Lenny.
   [Frau Meise](https://fraumeise.de/i-build-this-garden-for-us/), und 
 [Mrs. Greenhouse](https://mrsgreenhouse.de/ein-apfelglueck-zum-blind-date-edition-5-i-build-a-garden-for-us)
 
-![Gartenbloggerblinddate | full](http://cardamonchai.com/wp-content/uploads/2018/08/HANG-IN.jpg)
+<RemoteImage
+  alt="Gartenbloggerblinddate"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__l.jpg"
+  loadingUrl="undefined" />
 
 -->
 

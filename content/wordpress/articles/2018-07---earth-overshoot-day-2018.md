@@ -38,7 +38,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (84:49)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (96:49)"
 thumbnailId: "21509"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_forest-fire-432870_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_forest-fire-432870_640__l.jpg
@@ -47,7 +47,7 @@ subTitle: Der Menschheit ist die Sicherung durchgebrannt
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (84:49)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (96:49)
 
 <!--
 **Ich erinnere mich noch sehr gut an den
@@ -108,12 +108,24 @@ Jahr. Es wird Zeit, dass sich Nachahmer finden. Im Moment belegen Australien,
 die USA, Südkorea, Russland und Deutschland im Rennen um den Pokal für den
 größten Umweltsünder die ersten Plätze.
 
-![Earth Overshoot Day | large](http://cardamonchai.com/wp-content/uploads/2018/07/Schaubild1-520x722.jpg)
+<RemoteImage
+  alt="Earth Overshoot Day"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Schaubild1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Schaubild1__l.jpg"
+  loadingUrl="undefined" />
 
 **So viele Erden wären nötig, wenn wir weltweit so leben würden, wie in den
 jeweiligen Nationen:**
 
-![Earth Overshoot Day | large](http://cardamonchai.com/wp-content/uploads/2018/07/schaubild2-520x590.jpg)
+<RemoteImage
+  alt="Earth Overshoot Day"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_schaubild2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_schaubild2__l.jpg"
+  loadingUrl="undefined" />
 
 **Diese zweite Darstellung von der Global Footprint Organisation wiederum zeigt,
 wie oft es die jeweiligen Länder geben müsste, damit sie den dortigen

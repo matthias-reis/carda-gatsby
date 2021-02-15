@@ -41,7 +41,13 @@ Bei unserem Kurzurlaub in [Bielefeld](/2019/07/bielefeld/) planten wir auch eine
 kleine Wanderung rund um das Hermannsdenkmal mit ein. Jährlich kommen mehr als
 500.000 Besucher hin - die können ja schließlich nicht alle schiefliegen.
 
-![hermannsdenkmal](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-34-400x533.jpg)
+<RemoteImage
+  alt="hermannsdenkmal"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-34__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-34__l.jpg"
+  loadingUrl="undefined" />
 
 Im Vorfeld hatten wir natürlich gelesen, wie groß das Denkmal ist und waren
 schon mehr als gespannt, wann wir es wohl das erste Mal zu Gesicht bekommen
@@ -62,7 +68,13 @@ Umgebung.
 
 ## Kolossal groß - das Hermannsdenkmal
 
-![hermannsdenkmal](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-36-400x533.jpg)
+<RemoteImage
+  alt="hermannsdenkmal"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-36__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-36__l.jpg"
+  loadingUrl="undefined" />
 
 Sein Anblick ließ uns dann schließlich staunen. Er sah tatsächlich noch viel
 größer aus, als wir ihn uns vorgestellt hatten. Die Kolossalstatue ist komplett

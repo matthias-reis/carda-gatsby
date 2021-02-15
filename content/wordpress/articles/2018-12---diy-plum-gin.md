@@ -59,7 +59,13 @@ Schlehen muss man nämlich selbst in “freier Wildbahn” ernten. Die Früchte 
 gegen Ende November reif und da man den Liköransatz mindestens sechs Wochen
 ziehen lassen muss, würde sich der ganze Prozess bis nach Weihnachten hinziehen.
 
-![Likoer](http://cardamonchai.com/wp-content/uploads/2018/12/8-400x600.jpg "Die Grundlage für den Likör")
+<RemoteImage
+  alt="Likoer"
+  size="medium"
+  title="Die Grundlage für den Likör"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_8__l.jpg"
+  loadingUrl="undefined" />
 
 Findet man keine Schlehen, bieten sich  als Alternative alle möglichen anderen
 Früchte an - von Brombeeren und Kirschen bis hin zu Blaubeeren. Wir haben uns an
@@ -91,7 +97,13 @@ kann.
 
 ## Ansetzen
 
-![Likör](http://cardamonchai.com/wp-content/uploads/2018/12/12-400x599.jpg "Der Ansatz")
+<RemoteImage
+  alt="Likör"
+  size="medium"
+  title="Der Ansatz"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_12__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_12__l.jpg"
+  loadingUrl="undefined" />
 
 Für den Ansatz füllt man die Früchte zusammen mit dem Gin und der Vanille in
 Einweckgläser oder vergleichbare Gefäße ab. Die Behälter müssen dicht sein und
@@ -136,7 +148,13 @@ verbliebenen Schwebstoffe am Boden absetzen.
 
 ## Großes Finale
 
-![Likör](http://cardamonchai.com/wp-content/uploads/2018/12/5-400x600.jpg "Das große Finale")
+<RemoteImage
+  alt="Likör"
+  size="medium"
+  title="Das große Finale"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_5__l.jpg"
+  loadingUrl="undefined" />
 
 Dann ging es endlich ans Probieren. Ein paar Minuten Arbeit und zwei Monate
 Wartezeit später stand ein “Plum-Gin and Tonic” vor uns. Wir haben in ein halbes

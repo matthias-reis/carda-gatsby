@@ -33,7 +33,13 @@ subTitle: Der Tag der roten Handtaschen
 Bereits das dritte Mal findet deshalb heute in Deutschland der **Equal Pay Day**
 statt.
 
-![Der Tag mit den roten Handtaschen](http://cardamonchai.com/wp-content/uploads/2010/03/11510981946_dbdd40b662_z.jpg "Der Tag mit den roten Handtaschen")
+<RemoteImage
+  alt="Der Tag mit den roten Handtaschen"
+  size="medium"
+  title="Der Tag mit den roten Handtaschen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2010_03_11510981946_dbdd40b662_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2010_03_11510981946_dbdd40b662_z__l.jpg"
+  loadingUrl="undefined" />
 
 Anfang 2009 hat sich ein Deutschland ein Aktionsbündnis zusammengeschlossen, daß
 sich für den Abbau der Lohnunterschiede zwischen Männern und Frauen einsetzt.

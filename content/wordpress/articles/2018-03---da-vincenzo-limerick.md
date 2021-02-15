@@ -44,7 +44,13 @@ subTitle: Irlands vegane Pizza mit Herz
 sind. Eines verregneten Abends kehrten wir mit nassen Wanderklamotten dort ein
 und wurden hofiert wie König und Königin.**
 
-![Da Vincenzo Limerick](http://cardamonchai.com/wp-content/uploads/2018/02/40224375811_473ae7ca4c_z-300x300.jpg)
+<RemoteImage
+  alt="Da Vincenzo Limerick"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224375811_473ae7ca4c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224375811_473ae7ca4c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das Dinner begann sehr spannend mit einer Fahrt im Aufzug, der uns direkt ins
 Restaurant führte. Was uns dort oben wohl erwarten würde? Empfangen wurden wir
@@ -60,7 +66,13 @@ enttäuscht.
 
 ## Da Vincenzo Limerick - Glückseeligkeit bis zum letzten Krümel
 
-![Da Vincenzo Limerick | small](http://cardamonchai.com/wp-content/uploads/2018/02/25353373347_b6ea5f0c27_z-200x267.jpg)
+<RemoteImage
+  alt="Da Vincenzo Limerick"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25353373347_b6ea5f0c27_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25353373347_b6ea5f0c27_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bis auf den letzten Krümel aßen wir auf und wären dem Wirt danach vor satter
 Glückseeligkeit fast in die Arme gefallen. Nach einer guten Tasse Espresso

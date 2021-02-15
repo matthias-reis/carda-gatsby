@@ -221,6 +221,12 @@ Video.
 
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-03-25-die-drei-von-der-bande/pl.u-kMmLUv3dBdD" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
-![playlist | large](http://cardamonchai.com/wp-content/uploads/2020/03/12-songs-pin-520x780.png)
+<RemoteImage
+  alt="playlist"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_12-songs-pin.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_12-songs-pin.png__l.jpg"
+  loadingUrl="undefined" />
 
   

@@ -59,7 +59,13 @@ geht, den veganen Gedanken noch ein kleines Bisschen weiter zu verbreiten, bin
 ich doch gerne immer dabei. Für Euch habe ich ein paar Screenshots gemacht. Seht
 mal:
 
-![Otto Versand | full](http://cardamonchai.com/wp-content/uploads/2017/04/Bildschirmfoto-2017-04-19-um-15.00.06.png)
+<RemoteImage
+  alt="Otto Versand"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Bildschirmfoto-2017-04-19-um-15.00.06.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Bildschirmfoto-2017-04-19-um-15.00.06.png__l.jpg"
+  loadingUrl="undefined" />
 
 Beim Otto Versand findet Ihr das Rezept
 [hier](http://www.ottoversand.at/magazin/fruehlingsleichte-rezepte/#vegan). Viel

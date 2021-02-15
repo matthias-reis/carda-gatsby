@@ -50,7 +50,13 @@ zwei Monate. Von anderen Beauty Boxen unterscheidet er sich nicht nur dadurch,
 dass man sich als KundIn bei jeder Ausgabe mindestens ein Produkt selbst
 aussuchen kann.
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2017/02/veganbeautybasket_web-640x640.jpg "Der Vegan Beauty Basket")
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title="Der Vegan Beauty Basket"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_veganbeautybasket_web__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_veganbeautybasket_web__l.jpg"
+  loadingUrl="undefined" />
 
 Nachdem auch mein zweiter Vegan Beauty Basket
 [Produkttest](/2016/12/unboxing-vegan-beauty-basket-weihnachtsedition/) hier im
@@ -75,7 +81,13 @@ Inzwischen sind wir seit fast 1,5 Jahren am Start und ich kann kaum fassen, was
 für großen Spaß es macht. Wir sind immer noch mit genauso viel Energie und
 Herzblut dabei, wie am Anfang.
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2017/02/studi-78-paris-640x640.jpg "Studi 78 Paris")
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title="Studi 78 Paris"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_studi-78-paris__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_studi-78-paris__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Hast Du beruflich schon immer mit Kosmetik zu tun?
 
@@ -104,7 +116,13 @@ Ende hat. Durch den Vegan Beauty Basket versuchen wir auf dieses wichtige Thema
 aufmerksam zu machen, indem wir gelegentlich Informationsmaterial zum Thema
 Tierschutz und vegane Ernährung beilegen.
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2017/02/hurraw-fb.jpg "Hurraw!")
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title="Hurraw!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_hurraw-fb__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_hurraw-fb__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie viele Leute arbeiten für Vegan Beauty Basket?
 
@@ -142,7 +160,13 @@ entdeckt hast, dessen Linie zum Vegan Beauty Basket passen könnte? Wie stellst
 Du sicher, dass alles zu 100 Prozent vegan, frei von Tierversuchen und fair
 hergestellt ist?
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2017/02/im-naturkosmetik-berlin.jpg "i+m Naturkosmetik")
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title="i+m Naturkosmetik"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_im-naturkosmetik-berlin__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_im-naturkosmetik-berlin__l.jpg"
+  loadingUrl="undefined" />
 
 **Ina:** Bevor ein Produkt in die Box aufgenommen wird, werden umfangreiche
 Recherchen durchgeführt und die Produkte werden ausgiebig getestet. Zudem müssen
@@ -170,7 +194,13 @@ interessieren.
 
 **Anne:** Wie kann man Freunde und Bekannte dahingehend sensibilisieren?
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2017/02/cremekampagne-640x640.jpg "Cremekampagne")
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title="Cremekampagne"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_cremekampagne__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_cremekampagne__l.jpg"
+  loadingUrl="undefined" />
 
 **Ina:** Viele wissen leider nicht, dass Kosmetik unter anderem auch tierische
 Inhaltsstoffe enthalten kann, da ist mehr Aufklärung gefragt. Es gibt inzwischen
@@ -212,7 +242,13 @@ Die Produkte kommen dann, wie zum Beispiel bei i+m Naturkosmetik Berlin,
 Cremekampagne, Lovely Day Botanicals und Eskay entweder direkt aus Berlin oder
 aus der Umgebung.
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2017/02/lovely-day-haarserum-640x640.jpg "Lovely Day Botanicals")
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title="Lovely Day Botanicals"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_lovely-day-haarserum__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_lovely-day-haarserum__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie sehen Deine Pläne für die nähere Zukunft aus? Was steht Neues an
 bei Vegan Beauty Basket?

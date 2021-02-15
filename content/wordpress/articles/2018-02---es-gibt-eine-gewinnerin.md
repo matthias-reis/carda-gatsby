@@ -48,18 +48,36 @@ Teilnehmer/innen. Danke, dass Ihr dabei wart!
 
 ## Das bekommt Gewinnerin Lara
 
-![Ashéra | large](http://cardamonchai.com/wp-content/uploads/2018/01/2-520x345.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__l.jpg"
+  loadingUrl="undefined" />
 
 Ein wertvolles Duo aus 24-Stunden Gesichtscreme und Reinigungsschaum von Ashéra
 mit TCM-Wirkstoffen.
 
-![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
+  loadingUrl="undefined" />
 
 Zum Onlineshop von Ashera geht es
 [hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
 .
 
-![Ashéra Naturkosmetik](https://www.adcell.de/promotion/image/promoId/172494/slotId/80259)
+<RemoteImage
+  alt="Ashéra Naturkosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/image/promoId/172494/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/image/promoId/172494/slotId/80259"
+  loadingUrl="undefined" />
 
 [](https://www.adcell.de/promotion/click/promoId/172494/slotId/80259)
 

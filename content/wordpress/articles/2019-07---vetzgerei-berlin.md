@@ -45,7 +45,13 @@ erste Mal erschienen. Ich habe ihn ein bisschen aufgehübscht und aktualisiert.
 
 ## Veganes Steak aus der Vetzgerei
 
-![vegane-metzgerei](http://cardamonchai.com/wp-content/uploads/2019/07/vetzgerei_12-400x263.jpg)
+<RemoteImage
+  alt="vegane-metzgerei"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_vetzgerei_12__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_vetzgerei_12__l.jpg"
+  loadingUrl="undefined" />
 
 Paul und Sarah Pollinger, Gründer der Vetzgerei möchten in ihrer veganen
 Metzgerei Vurst und Vleisch verkaufen, das sich von anderen Produkten, die wir
@@ -61,7 +67,13 @@ Dazu gibt es immer eine leckere Scheibe Brot.
 
 ## Mittagsimbiss und Catering
 
-![vegane-metzgerei](http://cardamonchai.com/wp-content/uploads/2019/07/vetzgerei_11-400x263.jpg)
+<RemoteImage
+  alt="vegane-metzgerei"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_vetzgerei_11__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_vetzgerei_11__l.jpg"
+  loadingUrl="undefined" />
 
 Neben dem klassischen Mittagsimbiss mit veganer Metzgertheke gibt es auch ein
 umfangreiches Catering-Angebot bei der Vetzgerei. Wer also in Berlin arbeitet
@@ -72,7 +84,13 @@ fündig werden.
 > "Wir verzichten komplett auf industrielle Herstellung und arbeiten, soweit wie möglich, mit unverarbeiteten Zutaten.",
 heißt es auf der Webseite der Vetzgerei.
 
-![vegane-metzgerei](http://cardamonchai.com/wp-content/uploads/2019/07/vetzgerei_13-400x263.jpg)
+<RemoteImage
+  alt="vegane-metzgerei"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_vetzgerei_13__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_vetzgerei_13__l.jpg"
+  loadingUrl="undefined" />
 
 Nachhaltigkeit ist den beiden sehr wichtig und sie versuchen sie in allen
 Bereichen ihres Unternehmens zu leben. Verpackt wird in Pfandgläser und

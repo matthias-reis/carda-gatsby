@@ -57,7 +57,13 @@ Fragestellungen. Sie kann in verschiedene Epochen unterteilt werden. Im
 digitalen Zeitalter ist sie ebenso wichtig, wie in der Antike, oder zu Beginn
 des 19. Jahrhunderts.
 
-![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12835184404_98f71faab6_z-400x267.jpg)
+<RemoteImage
+  alt="Philosophie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835184404_98f71faab6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835184404_98f71faab6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Warum das so ist? Das Denken und uns selbst Ergründen, lässt uns Zusammenhänge
 besser erkennen und kann uns langfristig vor Fehlentscheidungen mit großer
@@ -70,7 +76,13 @@ Aber sie können sie uns erklären und uns zeigen, wie wir selbst es zumindest
 versuchen können, sie zu begreifen. Und wer hat uns überhaupt beigebracht, dass
 Philosophen Bücherwürmer sind?
 
-![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B00NTQ6K7E)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00NTQ6K7E"
+  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00NTQ6K7E"
+  loadingUrl="undefined" />
 
 Nehmen wir Friedrich Nietzsche.
 "[Wo selbst die Wege nachdenklich werden - Friedrich Nietzsche und der Berg"](https://www.audible.de/pd/Wo-selbst-die-Wege-nachdenklich-werden-Hoerbuch/8711952555?)
@@ -86,7 +98,13 @@ Zwar war Nietzsche ein Denker, aber keinesfalls das, was wir heute als
 schenken, der nicht im Freien geboren ist". Zeit seines Lebens war es ihm immer
 wichtig, in Bewegung zu bleiben.
 
-![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12834842573_b2be547655_z-400x267.jpg)
+<RemoteImage
+  alt="Philosophie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834842573_b2be547655_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834842573_b2be547655_z__l.jpg"
+  loadingUrl="undefined" />
 
 Seine Wege führten ihn ans Meer und in die Berge. Seinen Gedanken ging er am
 liebsten in der freien Natur nach. Das von mir erwähnte Buch ist eine Art
@@ -107,7 +125,13 @@ Bestseller
 "[Wer bin ich und wenn ja, wie viele?](https://www.audible.de/pd/Wer-bin-ich-und-wenn-ja-wie-viele-Hoerbuch/B007I3AD9K?)"
 dürfte einigen zumindest vom Titel her ein Begriff sein.
 
-![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12835036544_0c88897a95_z-400x267.jpg)
+<RemoteImage
+  alt="Philosophie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835036544_0c88897a95_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835036544_0c88897a95_z__l.jpg"
+  loadingUrl="undefined" />
 
 Er wuchs in einer siebenköpfigen Familie auf. Zwei seiner Geschwister sind
 Adoptivkinder aus Vietnam, die seine Eltern als Zeichen des Protest gegen den
@@ -129,7 +153,13 @@ Werk
 . Herausgebracht wurde es in vier Teilen: "Das Menschentier", "Das Tier im Auge
 des Menschen", "Eine neue Tierethik" und "Was tun?".
 
-![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12835050734_41e45a91fb_z-400x273.jpg)
+<RemoteImage
+  alt="Philosophie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835050734_41e45a91fb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835050734_41e45a91fb_z__l.jpg"
+  loadingUrl="undefined" />
 
 Fehlende Empathie reibt ihn genauso auf, wie die Fehlentscheidungen von
 Machtträgern in Bezug auf
@@ -161,7 +191,13 @@ gewordenen echten Mischwaldes niederstrecken zu lassen.
 
 ## Philosophie hilft
 
-![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12834775203_3cb667892b_z-400x267.jpg)
+<RemoteImage
+  alt="Philosophie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834775203_3cb667892b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834775203_3cb667892b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Durchgesetzt von 15.000 Polizisten, von denen sich einige sicher in diesem
 Moment auf die andere Seite wünschen. Da auch sie den Unsinn klar erkennen und
@@ -182,7 +218,13 @@ der finstere Abgrund.
 
 ## Wir brauchen Denker und Aktivisten
 
-![Philosophie](http://cardamonchai.com/wp-content/uploads/2018/09/12834641775_e09bf427d6_z-400x267.jpg)
+<RemoteImage
+  alt="Philosophie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834641775_e09bf427d6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834641775_e09bf427d6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Um ihm zu entkommen, brauchen wir Denker und Aktivisten, Menschen mit
 Zivilcourage, Macher und Schreiber. Entschlossene, die sich dem Mainstream

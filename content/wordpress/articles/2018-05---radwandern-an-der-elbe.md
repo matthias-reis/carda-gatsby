@@ -43,7 +43,13 @@ subTitle: Nur Urlaub ist schöner
 einen Ausflug gönnen. Wir haben das  heute getan. Tasche gepackt, rein in die
 S-Bahn und ab nach Wedel.**
 
-![Elbe | small](http://cardamonchai.com/wp-content/uploads/2018/05/42341403842_58ebdcefb6_z-200x183.jpg)
+<RemoteImage
+  alt="Elbe"
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42341403842_58ebdcefb6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42341403842_58ebdcefb6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Von dort aus kann man entlang des Elbweges wunderbar radwandern. Bei 30 Grad im
 Schatten macht das natürlich besonders viel Spaß. Vor allem, wenn man die

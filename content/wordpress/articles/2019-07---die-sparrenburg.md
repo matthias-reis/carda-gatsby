@@ -40,7 +40,13 @@ sie so unfassbar groß, weil man selbst noch so niedlich klein war. Bei der
 Bielefelder Sparrenburg war das bei mir nicht so - sie sah noch genauso aus, wie
 ich sie in Erinnerung hatte.
 
-![sparrenburg](http://cardamonchai.com/wp-content/uploads/2019/07/sparrenburg-anne-400x600.jpg)
+<RemoteImage
+  alt="sparrenburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sparrenburg-anne__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sparrenburg-anne__l.jpg"
+  loadingUrl="undefined" />
 
 Von der Burg aus hat meinen einen wunderbaren Blick über die Stadt Bielefeld.
 Ihr konntet ihn auch schon in meinem Artikel "Orte aus der Kindheit" bewundern.

@@ -36,7 +36,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (42:40)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (54:40)"
 thumbnailId: "24078"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_bielefeld-022__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_bielefeld-022__l.jpg
@@ -45,7 +45,7 @@ subTitle: Achtsamkeit im Alltag
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (42:40)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (54:40)
 
 <!--
 **Eins haben wir wohl alle gemeinsam: Wir sehnen uns danach, glücklich zu sein.
@@ -56,7 +56,13 @@ Du kennst das sicher auch: Du kommst am Ende der Woche von der Arbeit nach Hause
 und freust Dich, dass sie endlich zu Ende ist. Ab ins Wochenende. Jetzt sollen
 ein paar richtig glückliche Stunden folgen.
 
-![glueckliche-momente](http://cardamonchai.com/wp-content/uploads/2019/05/2019-04-19-21-bielefeld-matze-1-400x600.jpg)
+<RemoteImage
+  alt="glueckliche-momente"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-21-bielefeld-matze-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-04-19-21-bielefeld-matze-1__l.jpg"
+  loadingUrl="undefined" />
 
 Am Samstagmittag stehst Du dann im Supermarkt in einer langen Schlange. Der Mann
 mit den vielen Milchpackungen im Einkaufswagen hinter Dir fährt Dir ständig mit
@@ -72,7 +78,13 @@ Frage. Das bedeutet Überstunden, Stress und wieder keine Zeit, mit Deiner Chefi
 zu sprechen. Was für ein Teufelskreis, oder? Zum Glück gibt es ein paar
 Deeskalationsmöglichkeiten, die den Alltag wesentlich glücklicher machen.
 
-![glueckliche-momente | large](http://cardamonchai.com/wp-content/uploads/2019/05/Dankbarkeit-520x780.png)
+<RemoteImage
+  alt="glueckliche-momente"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit.png__l.jpg"
+  loadingUrl="undefined" />
 
 <ol>
     <li>
@@ -104,7 +116,13 @@ eigene Schönheit zu erkennen. Wenn man es geschafft hat, kann es mehr als nur
 befreiend sein. Was dabei hilft, ist eine Liste zu schreiben. Darauf notierst Du
 alles, was Dir an Deinem Äußeren gefällt.
 
-![glueckliche-momente | large](http://cardamonchai.com/wp-content/uploads/2019/05/Dankbarkeit1-520x780.png)
+<RemoteImage
+  alt="glueckliche-momente"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_Dankbarkeit1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Keine Sorge, falls Du nicht gleich zehn onder fünfzehn Dinge findest, die Du an
 Deinem Körper schön findest. Füge einfach ein paar positive Eigenschaften und

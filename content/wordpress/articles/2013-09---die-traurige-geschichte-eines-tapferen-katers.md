@@ -44,7 +44,13 @@ remoteLoadingImage: null
 
 <h2> __Eine Tierarztodyssee__ </h2>
 
-![Chili und ich](http://cardamonchai.files.wordpress.com/2013/09/9588574715_b8fb54fbc8_o.jpg?w=300 "Chili und ich")
+<RemoteImage
+  alt="Chili und ich"
+  size="medium"
+  title="Chili und ich"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9588574715_b8fb54fbc8_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9588574715_b8fb54fbc8_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Wie aus unserem stolzen Feliden innerhalb einer Woche ein Häufchen Elend
 wurde**
@@ -61,7 +67,13 @@ Zusammen mit dem Herzmann sind wir eine glückliche Familie geworden. Die beiden
 blühten in der letzten Zeit regelrecht auf und wurden immer zutraulicher. Man
 konnte genau sehen, dass sie das Zuhause ihrer Herzen gefunden haben.
 
-![Chili und Oskar](http://cardamonchai.files.wordpress.com/2013/09/9461961351_4c595b35d9_o.jpg?w=300 "Chili und Oskar")
+<RemoteImage
+  alt="Chili und Oskar"
+  size="medium"
+  title="Chili und Oskar"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9461961351_4c595b35d9_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9461961351_4c595b35d9_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 Alles war harmonisch, zwei vierjährige Wollknäule, die auf bestem Wege waren,
 die Weltherrschaft an sich zu reißen. Niemand konnte sich ihnen in den Weg
@@ -74,7 +86,13 @@ sollte.
 Chili der Kater kommt beim Springen schief auf, er heult auf und verhält sich
 anders als sonst, nach ein paar Minuten scheint aber alles wieder gut zu sein.
 
-![Chili will mit zum Sport](http://cardamonchai.files.wordpress.com/2013/09/9461958087_d86c6344af_o.jpg?w=300 "Chili will mit zum Sport")
+<RemoteImage
+  alt="Chili will mit zum Sport"
+  size="medium"
+  title="Chili will mit zum Sport"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9461958087_d86c6344af_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9461958087_d86c6344af_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Mittwoch, 18.09.2013**
 
@@ -86,7 +104,13 @@ aufgefallen ist. Wir bekommen ein Schmerzmittel für Chili und werden wieder nac
 Hause geschickt. Wir machen einen Termin beim Chirurgen der Tierklinik für den
 nächsten Abend.
 
-![Chili in der Tüte](http://cardamonchai.files.wordpress.com/2013/09/9582794617_93964572ed_o.jpg?w=300 "Chili in der Tüte")
+<RemoteImage
+  alt="Chili in der Tüte"
+  size="medium"
+  title="Chili in der Tüte"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9582794617_93964572ed_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9582794617_93964572ed_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Donnerstag, 19.09.2013**
 
@@ -97,7 +121,13 @@ gleich dort behalten, er würde am nächsten Morgen gleich als zweites drankomme
 Ich würde am nächsten Tag einen Anruf von ihm erhalten, wann ich Chili abholen
 kommen könnte.
 
-![Chili passt auf meine Schuhe auf](http://cardamonchai.files.wordpress.com/2013/09/9477925432_2dd15fa91e_o.jpg?w=300 "Chili passt auf meine Schuhe auf")
+<RemoteImage
+  alt="Chili passt auf meine Schuhe auf"
+  size="medium"
+  title="Chili passt auf meine Schuhe auf"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9477925432_2dd15fa91e_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9477925432_2dd15fa91e_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Freitag, 20.09.2013** **11:00** Anruf des Herrn Dr., Chili wurde operiert, es
 sei alles gut verlaufen, während der OP sein noch eine angeborene Hüftdisplasie
@@ -111,7 +141,13 @@ aufgewacht sei, er sei noch sehr schwach, ich solle später noch mal anrufen, es
 wäre besser, wenn sie ihn noch eine Weile am Tropf behalten, bis er wieder ganz
 aus der Narkose zurückgekommen ist.
 
-![Dieser Rock ist jetzt meiner!](http://cardamonchai.files.wordpress.com/2013/09/9574655457_768d6ed1f6_o.jpg?w=300 "Dieser Rock ist jetzt meiner!")
+<RemoteImage
+  alt="Dieser Rock ist jetzt meiner!"
+  size="medium"
+  title="Dieser Rock ist jetzt meiner!"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9574655457_768d6ed1f6_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9574655457_768d6ed1f6_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **16:50** Anruf bei der Tierklinik, eine andere Dame am Telefon sagt mir, Chili
 hätte die Narkose nicht so gut vertragen, sie würden ihn gerne über Nacht in der
@@ -126,7 +162,13 @@ Anruf von der dienst habenden Ärztin erhalten. Infos: Leider keine.
 **19:39** Erneuter Anruf in der Tierklinik vom Herzmann, nachdem meine Unruhe
 immer größer wird. Wieder die selbe kurze Antwort, keine Informationen
 
-![Chili bei seiner Lieblingsbeschäftigung](http://cardamonchai.files.wordpress.com/2013/09/9462183733_fbb71b1ed7_o.jpg?w=300 "Chili bei seiner Lieblingsbeschäftigung")
+<RemoteImage
+  alt="Chili bei seiner Lieblingsbeschäftigung"
+  size="medium"
+  title="Chili bei seiner Lieblingsbeschäftigung"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9462183733_fbb71b1ed7_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9462183733_fbb71b1ed7_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Samstag, 21.09.2013** **10:21** Anruf bei der Tierklinik. Eine kurzangebundene
 Dame teilt mir mit, ich solle nicht mehr anrufen, die Ärztin sei noch mit der
@@ -136,7 +178,13 @@ Visite beschäftigt, sie würde sich danach mit mir in Verbindung setzen.
 geworden. Das sei eine normale Reaktion, er müsse auf jeden Fall noch am Tropf
 bleiben, bis er stabiler sei, ich soll doch in einer Stunde noch mal anrufen.
 
-![IMG_7635](http://cardamonchai.files.wordpress.com/2013/09/img_76351.jpg?w=225)
+<RemoteImage
+  alt="IMG_7635"
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_76351.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_76351.jpg?w=225"
+  loadingUrl="undefined" />
 
 **12:51** Anruf bei der Tierklinik. Die Dame am Telefon sagt nur, dass es Chili
 noch nicht besser geht und dass ich gegen Nachmittag noch mal anrufen kann.
@@ -156,7 +204,13 @@ Frage, ob ich noch sehen kann, wo mein Kleiner die Nacht verbringen wird,
 bekomme ich ein klares Nein zu hören. Wir verlassen die Tierklinik. Eine weitere
 schlaflose Nacht liegt vor uns.
 
-![Chili passt auf die Kamera auf](http://cardamonchai.files.wordpress.com/2013/09/9461983325_feb4bae5c5_o.jpg?w=300 "Chili passt auf die Kamera auf")
+<RemoteImage
+  alt="Chili passt auf die Kamera auf"
+  size="medium"
+  title="Chili passt auf die Kamera auf"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9461983325_feb4bae5c5_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9461983325_feb4bae5c5_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Sonntag, 22.09.2013** **11:00** Anruf der diensthabenden Tierärztin. Chili
 kann nicht mehr laufen. Lähmungserscheinungen in den Beinen. Es sei außerdem
@@ -169,7 +223,13 @@ weitere Auskünfte oder Hinweise.
 
 **13:10** Nachfrage bei der Aufnahme, nein, wir müssen noch 5 Minuten warten.
 
-![Bringt ihr mir was mit?](http://cardamonchai.files.wordpress.com/2013/09/9464722296_f129eedb6a_o.jpg?w=300 "Bringt ihr mir was mit?")
+<RemoteImage
+  alt="Bringt ihr mir was mit?"
+  size="medium"
+  title="Bringt ihr mir was mit?"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9464722296_f129eedb6a_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9464722296_f129eedb6a_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **13:20** Die diensthabende Ärztin bittet uns herein. Chili liegt in seiner Box,
 ist immer noch sehr apatisch. Die Ärztin gibt auch jetzt keine Prognose ab,
@@ -190,7 +250,13 @@ weil er Pipi auf seine Decke gemacht hat. Ich mache ihn trocken, gebe ihm eine
 frische Decke und spiele ihm Katzenschnurren vor. Streichle ihn in den Schlaf.
 1x wacht er auf, weil er Angst hat, Matze kümmert sich um ihn.
 
-![Der Käfig vor Chilis Einzug](http://cardamonchai.files.wordpress.com/2013/09/img_7721.jpg?w=300 "Der Käfig vor Chilis Einzug")
+<RemoteImage
+  alt="Der Käfig vor Chilis Einzug"
+  size="medium"
+  title="Der Käfig vor Chilis Einzug"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7721.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7721.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Montag, 23.09.2013** Ich bin selbst krank geworden und muss nun das Bett
 hüten. Eine echte Krankenstation ist das hier in unserem Umzugschaos. Oskar,
@@ -205,7 +271,13 @@ ihm so viel Angst macht. Ich kann es nicht mit ansehen, wie er, geschwächt, wie
 er ohnehin schon ist, immer wieder damit hängen bleibt. Er nimmt wieder etwas
 Brei, weint ein Bisschen, ich streichle ihn, er schläft weiter.
 
-![Chili nach dem Eingriff](http://cardamonchai.files.wordpress.com/2013/09/img_7737.jpg?w=225 "Chili nach dem Eingriff")
+<RemoteImage
+  alt="Chili nach dem Eingriff"
+  size="medium"
+  title="Chili nach dem Eingriff"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7737.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7737.jpg?w=225"
+  loadingUrl="undefined" />
 
 **12:00** Ich habe Chili auch eine Wärmeflasche gemacht und sie zu ihm auf seine
 Decke gelegt. Er scheint sie zu mögen, macht sogar kurz die Augen auf, lässt
@@ -231,7 +303,13 @@ mal über die Risiken aufgeklärt. Inzwischen bin ich mir nicht mal mehr sicher,
 ob die Knie-OP nötig gewesen wäre. Momentan kann Chili weder hören, noch sehen,
 noch mich erkennen, noch selbstständig essen oder auf die Toilette gehen.
 
-![Chili geht es schlecht](http://cardamonchai.files.wordpress.com/2013/09/img_7753.jpg?w=225 "Chili geht es schlecht")
+<RemoteImage
+  alt="Chili geht es schlecht"
+  size="medium"
+  title="Chili geht es schlecht"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7753.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_7753.jpg?w=225"
+  loadingUrl="undefined" />
 
 **14:45** Ich war gerade bei Chili und habe seine Wärmeflasche ausgetauscht. Er
 scheint etwas fitter zu sein, seine Augen sind schon wieder etwas wacher. Er hat
@@ -248,7 +326,13 @@ telefoniert. Die diensthabende Ärztin hat ihm gesagt, dass Chili beim Aufwachen
 aus der Narkose die Sauerstoffzufuhr abgeschnitten war und er dadurch einen
 Schlaganfall erlitten hat.
 
-![Wir haben ihm die Halskrause abgenommen](http://cardamonchai.files.wordpress.com/2013/09/img_77601.jpg?w=225 "Wir haben ihm die Halskrause abgenommen")
+<RemoteImage
+  alt="Wir haben ihm die Halskrause abgenommen"
+  size="medium"
+  title="Wir haben ihm die Halskrause abgenommen"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_77601.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_77601.jpg?w=225"
+  loadingUrl="undefined" />
 
 Komisch, man hat uns zwar in der Klinik jede Menge erzählt und uns auch eine
 ganze Menge Angst eingejagt, aber das hat man uns vorenthalten. Wir waren
@@ -262,7 +346,13 @@ können. Es funktioniert gut, es schmeckt ihm. Inzwischen hat er zwei Portionen
 davon gegessen, außerdem drei Spritzen Wasser und eine Spritze von der
 Vitaminpaste, die ich ihm schon als Baby immer zur Beruhigung gegeben habe.
 
-![Schmusen?](http://cardamonchai.files.wordpress.com/2013/09/9461962885_0371c151d7_o.jpg?w=300 "Schmusen?")
+<RemoteImage
+  alt="Schmusen?"
+  size="medium"
+  title="Schmusen?"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9461962885_0371c151d7_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9461962885_0371c151d7_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 Die Wärmeflasche, die er nun in seinem "Käfig" hat scheint auch gut anzukommen.
 Er benutzt sie als Kopfkissen. Momentan scheint er beim Einatmen Schmerzen zu
@@ -273,7 +363,13 @@ dass den Ärzten in der Klinik ein Fehler bei der Beatmung unterlaufen ist. Ich
 werde jedenfalls morgen in der Klinik anrufen, den Termin für Mittwoch absagen
 und Bescheid geben, dass wir mit Chili den Arzt gewechselt haben.
 
-![Seine Majestät Flauscheball](http://cardamonchai.files.wordpress.com/2013/09/9461950925_40ba96df19_o.jpg?w=300 "Seine Majestät Flauscheball")
+<RemoteImage
+  alt="Seine Majestät Flauscheball"
+  size="medium"
+  title="Seine Majestät Flauscheball"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9461950925_40ba96df19_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9461950925_40ba96df19_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 Ich bin ja mal gespannt, was da für eine Rechnung auf uns zukommen wird. Ich
 denke auch, wären wir sofort zu Dr. Wolf gegangen, wäre Chili vielleicht auch um
@@ -291,7 +387,13 @@ lange muss er in der Hundebox ausharren. Und wir verharren davor. Ich hoffe, es
 geht alles gut. Vor allem auch, da ja am Montag unser Umzug in die neue Wohnung
 bevorsteht. Haltet uns die Daumen.
 
-![Chili in der Badewanne](http://cardamonchai.files.wordpress.com/2013/09/9461933741_6cf61fdf03_o.jpg?w=300 "Chili in der Badewanne")
+<RemoteImage
+  alt="Chili in der Badewanne"
+  size="medium"
+  title="Chili in der Badewanne"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9461933741_6cf61fdf03_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9461933741_6cf61fdf03_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **20:45** Chili hat nach uns gerufen. Eine Spritze mit Astronautenfutter, eine
 mit Vitaminpaste und zwei mit Wasser hat er dankend angenommen und ist gleich
@@ -313,7 +415,13 @@ und verwirrt, weil wir so viele Aussagen bekommen haben und dass sie uns hätten
 sagen müssen, dass Chili die Sauerstoffzufuhr abgeschnitten wurde, auch wenn das
 nichts ändern wird. Nun pflegen wir ihn weiter und hoffen das Beste für ihn.
 
-![Chili auf seinem Thron ](http://cardamonchai.files.wordpress.com/2013/09/img-20120118-wa0000.jpg?w=223 "Chili auf seinem Thron")
+<RemoteImage
+  alt="Chili auf seinem Thron "
+  size="medium"
+  title="Chili auf seinem Thron"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img-20120118-wa0000.jpg?w=223"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img-20120118-wa0000.jpg?w=223"
+  loadingUrl="undefined" />
 
 **9:49** Chili hat gerade nach mir geschrien. Er hat das zweite Drittel aus dem
 Hipp Gläschen verputzt und eine Spritze Wasser getrunken. Danach habe ich ihn
@@ -326,7 +434,13 @@ Mittagspause nach ihm sehen und vor fünf schaffe ich es auf keinen Fall zu Haus
 zu sein. Mal sehen, wie wir das machen… Im Moment liegt Chili wieder in seiner
 Box, er scheint ziemlich erschöpft, schläft aber nicht.
 
-![Chili mit seinen Enten](http://cardamonchai.files.wordpress.com/2013/09/img-20120424-wa0000.jpg?w=223 "Chili mit seinen Enten")
+<RemoteImage
+  alt="Chili mit seinen Enten"
+  size="medium"
+  title="Chili mit seinen Enten"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img-20120424-wa0000.jpg?w=223"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img-20120424-wa0000.jpg?w=223"
+  loadingUrl="undefined" />
 
 **10:48** Als ich gerade aus meinem Erkältungsbad gestiegen bin, hat Chili an
 mir geschnüffelt. Ein gutes Zeichen. Er scheint zu riechen. Eukaypthus liebt er
@@ -340,7 +454,13 @@ hoffe…
 eine Spritze Wasser, Chili sitzt ruhig im Ställchen, sein Blick ist klar, aber
 gesenkt…
 
-![Das Dreamteam](http://cardamonchai.files.wordpress.com/2013/09/img-20111124-wa0006.jpg?w=300 "Das Dreamteam")
+<RemoteImage
+  alt="Das Dreamteam"
+  size="medium"
+  title="Das Dreamteam"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img-20111124-wa0006.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img-20111124-wa0006.jpg?w=300"
+  loadingUrl="undefined" />
 
 **12:19** Chili liegt in der Sonne. Es scheint ihm gut zu tun. Eben ist er kurz
 aufgewacht. Ich habe ihn ein Bisschen gewaschen, nach und nach muss er den
@@ -351,7 +471,13 @@ die Wohnung folgt (diesen Part hat nun Oskar für ihn übernommen, als würde er
 merken, dass mir das so sehr fehlt) und mit seinem Bruder und den Staubmäusen
 durch die Wohnung tobt.
 
-![Chili als Baby](http://cardamonchai.files.wordpress.com/2013/09/36642569.jpg?w=300 "Chili als Baby")
+<RemoteImage
+  alt="Chili als Baby"
+  size="medium"
+  title="Chili als Baby"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/36642569.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/36642569.jpg?w=300"
+  loadingUrl="undefined" />
 
 **12:27** Chili schreit. Er hat Hunger. Eine Spritze Hipp Bio Pute.
 
@@ -362,7 +488,13 @@ aus der Schüssel sondern nur aus der Hand und dabei beißt er so feste in die
 Fingerkuppen, dass sie anfangen zu bluten. Autsch! :-) Ach, es ist so schön! Er
 frisst! Ich liebe meinen kleinen Racker.
 
-![Müde](http://cardamonchai.files.wordpress.com/2013/09/img_0414-kopie.jpg?w=300 "Müde")
+<RemoteImage
+  alt="Müde"
+  size="medium"
+  title="Müde"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_0414-kopie.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_0414-kopie.jpg?w=300"
+  loadingUrl="undefined" />
 
 **13:43** Chili hat erbrochen (nur Flüssigkeit), weint, weil er sich nicht aus
 eigener Kraft aus seiner misslichen Lage befreien kann. Lege ihn auf ein
@@ -374,7 +506,13 @@ frisches Handtuch und mache ihn sauber. Scheint dankbar zu sein.
 ausspuckt. Momentan ist er wieder schwach. Es bleibt uns weiter zu hoffen. Er
 hat seine Höhen und Tiefen.
 
-![Mit dem Wärmebär](http://cardamonchai.files.wordpress.com/2013/09/img_1065.jpg?w=300 "Mit dem Wärmebär")
+<RemoteImage
+  alt="Mit dem Wärmebär"
+  size="medium"
+  title="Mit dem Wärmebär"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_1065.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_1065.jpg?w=300"
+  loadingUrl="undefined" />
 
 **16:15** Chili versucht sich aus seinem Gefängnis zu befreien, kratzt am
 Gitter, schreit lauthals, lässt sich kaum beruhigen. Erst als ich ihm wieder was
@@ -396,14 +534,26 @@ sie dir nicht genommen haben. Sie kommt sicher ganz bald zurück. Zur Sicherheit
 habe ich ihm mal seinem "Trichter" wieder angezogen, damit er sich selbst nicht
 wehtut, wenn wieder einen Energieschub hat.
 
-![Am Kucken](http://cardamonchai.files.wordpress.com/2013/09/img_0801.jpg?w=300 "Am Kucken")
+<RemoteImage
+  alt="Am Kucken"
+  size="medium"
+  title="Am Kucken"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_0801.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_0801.jpg?w=300"
+  loadingUrl="undefined" />
 
 **16:44** Er hat wieder geschrien. Kam wieder Wasser aus seinem Hals raus. Ich
 habe ihn abgetrocknet und ihm Vitaminpaste gegeben. Nun spiele ich ihm auf dem
 Laptop schnurrende Katzen vor. Das scheint ihm zu gefallen. Zum Glück gibt es
 davon auf Youtube jede Menge.
 
-![Chili auf dem Balkon](http://cardamonchai.files.wordpress.com/2013/09/img_1551.jpg?w=300 "Chili auf dem Balkon")
+<RemoteImage
+  alt="Chili auf dem Balkon"
+  size="medium"
+  title="Chili auf dem Balkon"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_1551.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_1551.jpg?w=300"
+  loadingUrl="undefined" />
 
 **22:14** Wir kommen gerade aus der Tierklinik in Gessertshausen zurück. Chili
 hat über den Abend schlimme epileptische Anfälle bekommen. Er hat sich gewunden,
@@ -420,7 +570,13 @@ den Anfällen lag er in meinen Armen und hat mich ganz lieb aus großen Augen
 angeschaut. Bevor er wieder anfing zu heulen und die Zuckungen wieder losgingen
 und sich all seine Gliedmaßen verbogen.
 
-![Chili bewacht den Eingang](http://cardamonchai.files.wordpress.com/2013/09/img_2184.jpg?w=300 "Chili bewacht den Eingang")
+<RemoteImage
+  alt="Chili bewacht den Eingang"
+  size="medium"
+  title="Chili bewacht den Eingang"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_2184.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_2184.jpg?w=300"
+  loadingUrl="undefined" />
 
 Der Doktor in der Tierklinik in Gessertshausen hat sich sehr viel Zeit für uns
 genommen, sich Chili genau angesehen und uns ganz geduldig zugehört. Er hat
@@ -448,7 +604,13 @@ weicht keinen Zentimeter von meiner Seite. Nachts schläft er auf meinem
 Kopfkissen. Wir hoffen, dass ihm der Ortswechsel in die neue Wohnung nicht allzu
 viel ausmacht.
 
-![Leseratte](http://cardamonchai.files.wordpress.com/2013/09/img_2237.jpg?w=300 "Leseratte")
+<RemoteImage
+  alt="Leseratte"
+  size="medium"
+  title="Leseratte"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_2237.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_2237.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Mittwoch, 25.09.2013**
 
@@ -494,7 +656,13 @@ Fall weiter auf dem Laufenden halten.
 > dann.</div><div></div><div>Vielen Dank und herzliche
 > Grüße</div><div></div><div>Anne &amp; Matthias R.</div>
 
-![Zwei Brüder <3](http://cardamonchai.files.wordpress.com/2013/09/img_0078-kopie.jpg?w=300 "Zwei Brüder <3")
+<RemoteImage
+  alt="Zwei Brüder &lt;3"
+  size="medium"
+  title="Zwei Brüder &lt;3"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_0078-kopie.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_0078-kopie.jpg?w=300"
+  loadingUrl="undefined" />
 
 Was ich mit diesem Bericht bezwecken möchte? Ich möchte Euch um etwas bitten:
 Passt auf Eure kleinen Lieblinge auf. Holt Euch bitte immer eine zweite Meinung

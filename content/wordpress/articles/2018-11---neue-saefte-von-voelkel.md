@@ -53,7 +53,13 @@ also wir natürlich geteilt.
 
 ## Superfood zum trinken
 
-![Säfte](http://cardamonchai.com/wp-content/uploads/2018/11/2018-11-18-voelkel-muttersaefte0007-400x533.jpg "Gut für das Immunsystem")
+<RemoteImage
+  alt="Säfte"
+  size="medium"
+  title="Gut für das Immunsystem"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0007__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0007__l.jpg"
+  loadingUrl="undefined" />
 
 Als Erstes landet "Immunkraft" in unseren Saftgläsern. Hm, sehr lecker. Und das
 auch ungekühlt direkt aus dem Karton. Die Zutaten versprechen Vitamine pur.
@@ -91,7 +97,13 @@ Johannisbeersaft* 6 Prozent, Passionsfruchtsaft* 1,5 Prozent, Curryblattextrakt*
 
 ## Stark und ungefiltert
 
-![Säfte](http://cardamonchai.com/wp-content/uploads/2018/11/2018-11-18-voelkel-muttersaefte0005-400x533.jpg "Stark und ungefiltert")
+<RemoteImage
+  alt="Säfte"
+  size="medium"
+  title="Stark und ungefiltert"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0005__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_2018-11-18-voelkel-muttersaefte0005__l.jpg"
+  loadingUrl="undefined" />
 
 Richtig "stark" und ungefiltert schmecken der Cranberry- und der Holundersaft.
 Ich kenne das schon von anderen Produkten, doch hier habe ich wirklich ein

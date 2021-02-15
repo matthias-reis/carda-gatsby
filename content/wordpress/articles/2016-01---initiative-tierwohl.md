@@ -69,7 +69,13 @@ bestanden.
 
 ## "Die Unternehmen der Fleischwirtschaft sind ein wichtiger Baustein"
 
-![Initiative Tierwohl](http://cardamonchai.com/wp-content/uploads/2020/04/Initiative-Tierwohl-400x299.jpg)
+<RemoteImage
+  alt="Initiative Tierwohl"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Initiative-Tierwohl__l.jpg"
+  loadingUrl="undefined" />
 
 Die Unternehmen der Fleischwirtschaft sind ein wichtiger Baustein der Initiative
 Tierwohl. Wie sich das wirtschaftlich auf die Organisation auswirkt, darüber

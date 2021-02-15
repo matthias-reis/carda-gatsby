@@ -91,7 +91,13 @@ und den Nieren angesammelt, in Pflanzen ist es nur spurenweise vorhanden.
 
 ### **Wie wird es aufgenommen?**
 
-![Grüner Smoothie mit Superfood](http://cardamonchai.com/wp-content/uploads/2014/08/img_1535-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Grüner Smoothie mit Superfood")
+<RemoteImage
+  alt="Grüner Smoothie mit Superfood"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Grüner Smoothie mit Superfood"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1535__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1535__l.jpg"
+  loadingUrl="undefined" />
 
 Raubtiere decken ihren Bedarf durch Fleisch, besonders durch die Innereien.
 Ovo-Lacto-Vegetarier, Lacto-Vegetarier und Ovo-Vegetarier nehmen Vitamin
@@ -119,7 +125,13 @@ Dickdarm gebildet wird, jedoch vor dem Dickdarm absorbiert werden muss.
 
 ### Wozu brauche ich Vitamin B<small>12</small>?
 
-![Coenzym B12 | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/08/270px-cobalamin-svg-150x150.png "Coenzym B12")
+<RemoteImage
+  alt="Coenzym B12"
+  size="thumbnail"
+  title="Coenzym B12"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_270px-cobalamin-svg.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_270px-cobalamin-svg.png__l.jpg"
+  loadingUrl="undefined" />
 
 Vitamin B<small>12</small> ist in erster Linie für die Blutbildung, die
 Zellteilung und einige Funktionen des Nervensystems verantwortlich. Liegt ein
@@ -186,7 +198,13 @@ Organismus aufgenommen.
 
 ### Leide ich jetzt unter einem Mangel?
 
-![Superfood](http://cardamonchai.com/wp-content/uploads/2014/08/img_1552-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Superfood")
+<RemoteImage
+  alt="Superfood"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Superfood"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1552__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1552__l.jpg"
+  loadingUrl="undefined" />
 
 Der menschliche Körper speichert Vitamin B<small>12</small> bis zu 5 Jahre. Ob
 man gut mit Vitamin B<small>12</small> versorgt ist, kann man jedoch schon sehr

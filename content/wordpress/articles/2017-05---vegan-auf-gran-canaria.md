@@ -52,7 +52,13 @@ subTitle: Insel der süßen Früchte
   
 ---
 
-![Vegan auf Gran Canaria](http://cardamonchai.com/wp-content/uploads/2017/05/IMG_2035-640x853.jpg)
+<RemoteImage
+  alt="Vegan auf Gran Canaria"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2035__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2035__l.jpg"
+  loadingUrl="undefined" />
 
 **Gran Canaria ist ein echtes Paradies für VeganerInnen. Die Früchte wachsen
 einem nur so in den Mund, alles ist frisch und jede/r weiß genau, was gemeint
@@ -74,7 +80,13 @@ satt, bevor wir uns mit dem Überlandbus auf den Weg in den Süden machten.
 
 ## Vegan auf Gran Canaria - Wir sind im Schlaraffenland angekommen
 
-![Vegan auf Gran Canaria](http://cardamonchai.com/wp-content/uploads/2017/05/IMG_2039-640x853.jpg)
+<RemoteImage
+  alt="Vegan auf Gran Canaria"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2039__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2039__l.jpg"
+  loadingUrl="undefined" />
 
 Dort angekommen, stiegen wir in dem kleinen aber feinen Hotel 
 [_Labranda Marieta_](https://www.labranda.com/de/hotel/marieta.html) in Playa
@@ -117,7 +129,13 @@ zwei von uns!" :-P
 
 ## Vegane Menüs
 
-![Vegan auf Gran Canaria](http://cardamonchai.com/wp-content/uploads/2017/05/IMG_2040-640x853.jpg)
+<RemoteImage
+  alt="Vegan auf Gran Canaria"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2040__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2040__l.jpg"
+  loadingUrl="undefined" />
 
 Weil ich geschrieben hatte, dass ich besonders gespannt war auf die typischen
 Avocados, die in Gran Canaria angebaut werden, bekamen wir fast jeden Abend als
@@ -148,7 +166,13 @@ Biogemüse und Waren des täglichen Bedarfs zu kaufen. Doch auch in gängigen
 Supermärkten, Minimärkten und Spätis entdeckten wir überall vegane Lebensmittel,
 die auch als solche deklariert waren.
 
-![Vegan in Gran Canaria](http://cardamonchai.com/wp-content/uploads/2017/05/unnamed-640x640.jpg)
+<RemoteImage
+  alt="Vegan in Gran Canaria"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_unnamed__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_unnamed__l.jpg"
+  loadingUrl="undefined" />
 
 Was mir besonders gut gefällt: In Spanien scheint großer Wert darauf gelegt zu
 werden, dass Kosmetikprodukte ohne
@@ -158,7 +182,13 @@ suchten, fand Matze gleich auf der ersten Flasche, die er in die Hand nahm,
 einen Stempel mit den Worten "No animal testing". Auch auf der Suche nach
 Sonnencreme, Haaröl und Deo erging es uns ähnlich.
 
-![Vegan auf Gran Canaria](http://cardamonchai.com/wp-content/uploads/2017/05/IMG_2031-640x480.jpg)
+<RemoteImage
+  alt="Vegan auf Gran Canaria"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2031__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2031__l.jpg"
+  loadingUrl="undefined" />
 
 Irgendwann machte ich mir einen Sport daraus, im Supermarkt Tuben und Tiegel
 umzudrehen und war jedes Mal begeistert, wie viele Produkte sich als vegan
@@ -172,7 +202,13 @@ ernährungstechnisch möglich.
 
 ## Vegan auf Gran Canaria - Eine echte Schlemmerreise
 
-![Vegan auf Gran Canaria](http://cardamonchai.com/wp-content/uploads/2017/05/IMG_2037-640x480.jpg)
+<RemoteImage
+  alt="Vegan auf Gran Canaria"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2037__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_IMG_2037__l.jpg"
+  loadingUrl="undefined" />
 
 Bei unseren Streifzügen über die Insel besuchten wir unter anderem eine Finka,
 in der Bananen und Wein angebaut werden. Dort wurden wir mit leckersten Bananen

@@ -44,7 +44,13 @@ subTitle: Nachruf für eine Legende
   
 ---
 
-![Chris Cornell](http://cardamonchai.com/wp-content/uploads/2017/05/Chris-640x480.jpg)
+<RemoteImage
+  alt="Chris Cornell"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Chris__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Chris__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute ist ein sehr trauriger Tag. Die Musikwelt befindet sich in Schockstarre.
 Auch ich kann die Tränen nicht zurückhalten, während ich diese Zeilen tippe.**
@@ -56,7 +62,13 @@ ungeklärt. In den letzen Jahren hatte der Künstler, der viele Jahre das raue
 Leben eines tourenden Musikers geführt hatte, einen sehr gesunden Lebensstil
 gepflegt.
 
-![Chris Cornell](http://cardamonchai.com/wp-content/uploads/2017/05/Bildschirmfoto-2017-05-18-um-17.08.34-640x402.png)
+<RemoteImage
+  alt="Chris Cornell"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Bildschirmfoto-2017-05-18-um-17.08.34.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Bildschirmfoto-2017-05-18-um-17.08.34.png__l.jpg"
+  loadingUrl="undefined" />
 
 Zum ersten Mal sahen mein Bruder und ich _Chris_ , als wir im britischen
 Fernsehen "Black Hole Sun" vom _Soundgarden_ -Album "Superunknown" lauschten.
@@ -69,7 +81,13 @@ hörten. Dazwischen lagen zahlreiche Konzerte, Platten und Live-Aufzeichnungen.
 
 ## Chris Cornell - Seine Songtexte erzählen Geschichten
 
-![Chris Cornell | full](http://cardamonchai.com/wp-content/uploads/2017/05/Bildschirmfoto-2017-05-18-um-16.37.20.png)
+<RemoteImage
+  alt="Chris Cornell"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Bildschirmfoto-2017-05-18-um-16.37.20.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Bildschirmfoto-2017-05-18-um-16.37.20.png__l.jpg"
+  loadingUrl="undefined" />
 
 _Chris_ sorgte mit seiner charakteristischen, vier Oktaven abdeckenden Stimme
 sein Leben lang für Furore. Schon in der frühen _Soundgarden_ -Zeit, Anfang der
@@ -93,7 +111,13 @@ wurde 2012 "King Animal" veröffentlich.
 
 ## Temple Of The Dog und Rage Against The Machine
 
-![Chris Cornell | full](http://cardamonchai.com/wp-content/uploads/2017/05/Bildschirmfoto-2017-05-18-um-17.12.47.png)
+<RemoteImage
+  alt="Chris Cornell"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Bildschirmfoto-2017-05-18-um-17.12.47.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Bildschirmfoto-2017-05-18-um-17.12.47.png__l.jpg"
+  loadingUrl="undefined" />
 
 In Gedenken an seinen besten Freund _Andrew Wood_ , der Frontmann bei  _Mother
 Love Bone_ gewesen war, rief er 1991 die Band  _Temple Of The Dog_ ins Leben. Im
@@ -112,7 +136,13 @@ Tool nahm er einen Song auf. "What's so funny 'bout" erschien im Jahr 2004 auf
 
 ## 2001 wurde Audioslave geboren
 
-![Chris Cornell | full](http://cardamonchai.com/wp-content/uploads/2017/05/Bildschirmfoto-2017-05-18-um-16.37.45.png)
+<RemoteImage
+  alt="Chris Cornell"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Bildschirmfoto-2017-05-18-um-16.37.45.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_Bildschirmfoto-2017-05-18-um-16.37.45.png__l.jpg"
+  loadingUrl="undefined" />
 
 Aus der Kooperation mit  _Rage Against The Machine_ , die Anfangs nur für einen
 kurzen Zeitraum vorgesehen war, ging 2001 im kalifornischen Glendale 

@@ -41,7 +41,13 @@ subTitle: Abwasser als Ressource
   
 ---
 
-![Weltwassertag](http://cardamonchai.com/wp-content/uploads/2017/03/11153925974_fe91f672d3_z-640x425.jpg "Junge spielt im Wasser - München")
+<RemoteImage
+  alt="Weltwassertag"
+  size="medium"
+  title="Junge spielt im Wasser - München"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_11153925974_fe91f672d3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_11153925974_fe91f672d3_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Seit 1993 findet jedes Jahr am 22. März der Internationale Weltwassertag
 statt. Damit soll daran erinnert werden, dass Wasser die Grundlage für das Leben
@@ -60,7 +66,13 @@ für Rohstoffe.
 
 ## Optimierung der Abwasserentsorgung
 
-![Weltwassertag](http://cardamonchai.com/wp-content/uploads/2017/03/16280045135_1e37efae08_z-640x427.jpg "Wasserfall in Sri Lanka")
+<RemoteImage
+  alt="Weltwassertag"
+  size="medium"
+  title="Wasserfall in Sri Lanka"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_16280045135_1e37efae08_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_16280045135_1e37efae08_z__l.jpg"
+  loadingUrl="undefined" />
 
 Mit einer Optimierung der Abwasserentsorgung können Infektionskrankheiten
 weltweit nachhaltig eingedämmt werden. In vielen Ländern gibt es auch heute noch
@@ -95,7 +107,13 @@ Schlüssel in der Bekämpfung extremer Armut.
 
 ## Tipps zum Wassersparen
 
-![Weltwassertag](http://cardamonchai.com/wp-content/uploads/2017/03/11626836573_824099e77e_z-640x427.jpg "Wasser in Bad Kissingen")
+<RemoteImage
+  alt="Weltwassertag"
+  size="medium"
+  title="Wasser in Bad Kissingen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_11626836573_824099e77e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_11626836573_824099e77e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch, wenn sie für viele von uns vielleicht schon in Fleisch und Blut
 übergegangen sind: Es ist wichtig, Wasserspartipps weiterzugeben. Wir sollten
@@ -119,7 +137,13 @@ Vergleich dazu: Ein durchschnittlicher Westeuropäer verbraucht am Tag rund 130
 Liter Wasser. Wäschewaschen und Duschen eingeschlossen. Die Unesco hat das mal
 grafisch dargestellt:
 
-![null | full](http://cardamonchai.com/wp-content/uploads/2017/03/wasserverbrauch_nahrungsmitteln_unesco_ihe_instforwatereducation.jpg)
+<RemoteImage
+  alt="null"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_wasserverbrauch_nahrungsmitteln_unesco_ihe_instforwatereducation__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_wasserverbrauch_nahrungsmitteln_unesco_ihe_instforwatereducation__l.jpg"
+  loadingUrl="undefined" />
 
 Sollte der Internationale Weltwassertag also nicht jedes Jahr, neben dem jeweils
 gewählten Hauptthema, immer zwingend auch unter diesem Motto stehen?
@@ -133,7 +157,13 @@ Das berichtet UN-Water.
 
 ## Veranstaltungen im Rahmen des Internationalen Weltwassertages
 
-![Weltwassertag](http://cardamonchai.com/wp-content/uploads/2017/03/WWD-GENERIQ-CMJN_ger_2017_square-01-640x626.png)
+<RemoteImage
+  alt="Weltwassertag"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_WWD-GENERIQ-CMJN_ger_2017_square-01.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_WWD-GENERIQ-CMJN_ger_2017_square-01.png__l.jpg"
+  loadingUrl="undefined" />
 
 An der Universität in Kassel findet heute eine Retrospektive zum Thema
 Wasserversorgung statt. Das Motto ist „Vergangenheit, Gegenwart und Zukunft“.

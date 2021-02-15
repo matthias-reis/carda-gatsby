@@ -41,7 +41,13 @@ subTitle: Naturkosmetik aus Berlin
 
 Werbung\*
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/07/28558089645_51e988deef_z-640x427.jpg "Lovely Day Botanicals im Test")
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title="Lovely Day Botanicals im Test"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28558089645_51e988deef_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28558089645_51e988deef_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Kennt Ihr schon Lovely Day Botanicals? Die Gründerin Josy und ich folgen uns
 schon länger auf Instagram. Sie macht Furore mit ihren selbst hergestellten
@@ -65,7 +71,13 @@ Botanicals** und die Philosophie hinter der jungen Beauty Marke.
 
 ## Lovely Day Botanicals - Die Philosophie
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/07/27941065674_7e955c3c0f_z-640x427.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_27941065674_7e955c3c0f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_27941065674_7e955c3c0f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Alle Produkte aus dem Hause Lovely Day sind vollständig vegan und werden nicht
 an Tieren getestet. Das trifft auch auf alle Inhaltsstoffe zu. Josy verzichtet
@@ -90,7 +102,13 @@ werden.
 
 ## Ich öffnete das Überraschungspaket
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/07/28525902296_9008fc1ca3_z-640x427.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28525902296_9008fc1ca3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28525902296_9008fc1ca3_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich selbst hatte mich für meinen Produkttest für ein Überraschungspaket
 entschieden und war dementsprechend gespannt, als ich den Karton öffnete. Heraus
@@ -108,7 +126,13 @@ Gloss", ein Haarserum mit Kokos.
 
 ## Der Produkttest
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/07/28480259571_251ae912a9_z-640x427.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28480259571_251ae912a9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28480259571_251ae912a9_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe mir Zeit genommen, alles zu testen und auszuprobieren. Vorab schon mal:
 Einige haben ja mitbekommen, dass ich eine echte
@@ -136,7 +160,13 @@ wieder meint, sie muss für ein paar Tage "Vulkanausbruch" spielen.
 
 ## Meine persönlichen Favoriten
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/07/28480265131_f46f45d540_z.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28480265131_f46f45d540_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28480265131_f46f45d540_z__l.jpg"
+  loadingUrl="undefined" />
 
 Meine persönlichen Favoriten sind das Haarserum und das After Sun. Das Serum
 gibt man auf das gewaschene Haar, am besten über Nacht. Am nächsten Morgen kämmt

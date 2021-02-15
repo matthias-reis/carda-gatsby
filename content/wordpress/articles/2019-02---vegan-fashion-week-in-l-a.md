@@ -49,7 +49,13 @@ Zukunft regelmäßig geplanten Veranstaltung ist es, vegane Mode weltweit zu
 etablieren. Raus aus der „veganen Welt“, rauf auf die Laufstege und damit auf
 den breiten Markt.
 
-![vegan-fashion-week](http://cardamonchai.com/wp-content/uploads/2019/02/vegan-fashion-week-2019-01-400x267.jpg "Copyright: Vegan Fashion Week")
+<RemoteImage
+  alt="vegan-fashion-week"
+  size="medium"
+  title="Copyright: Vegan Fashion Week"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-01__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-01__l.jpg"
+  loadingUrl="undefined" />
 
 Das Debüt der Modemesse war laut den Veranstaltern ein voller Erfolg. Die „Vegan
 Fashion Week“ setzte ein großes Statement innerhalb der Modewelt. Eingeladen
@@ -77,7 +83,13 @@ Designerstücken zu entdecken.
 
 ## Aktivisten und Stars
 
-![vegan-fashion-week](http://cardamonchai.com/wp-content/uploads/2019/02/vegan-fashion-week-2019-07-400x267.jpg "Copyright: Vegan Fashion Week")
+<RemoteImage
+  alt="vegan-fashion-week"
+  size="medium"
+  title="Copyright: Vegan Fashion Week"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-07__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-07__l.jpg"
+  loadingUrl="undefined" />
 
 Neben dem Modezirkus fand ein reger Austausch zwischen den Teilnehmer _innen
 sowie zahlreichen Tierrechtsaktivist_ innen, die ebenfalls zum Event geladen
@@ -112,7 +124,13 @@ in unserer Branche gibt“, sagt sie.
 <ul>
     <li>
 
-![vegan-fashion-week](http://cardamonchai.com/wp-content/uploads/2019/02/vegan-fashion-week-2019-02-400x400.jpg "Copyright: Vegan Fashion Week")
+<RemoteImage
+  alt="vegan-fashion-week"
+  size="medium"
+  title="Copyright: Vegan Fashion Week"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-02__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_vegan-fashion-week-2019-02__l.jpg"
+  loadingUrl="undefined" />
 
 <small>Dr. Martens</small></li> <li><small>Matea Benedetti</small></li>
 <li><small>Noemie Devime, Altiir</small></li> <li><small>Bayem</small></li>

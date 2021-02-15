@@ -46,7 +46,13 @@ notwendigen Respekt behandelt werden.
 
 ## Auch Upcycling ist ein großes Thema
 
-![vegane-mode | full](http://cardamonchai.com/wp-content/uploads/2019/07/Pro-V-Bamboo-Shirt-green-265x250.jpg "T-Shirt aus Bambus-Fasern von Avenging Animals")
+<RemoteImage
+  alt="vegane-mode"
+  size="full"
+  title="T-Shirt aus Bambus-Fasern von Avenging Animals"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Pro-V-Bamboo-Shirt-green-265x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Pro-V-Bamboo-Shirt-green-265x250__l.jpg"
+  loadingUrl="undefined" />
 
 Wir lernen dazu und das ist auch gut so. Wo noch vor ein paar Jahren Leder,
 Wolle und Felle verarbeitet wurden, lernen wir heute für uns ganz neue
@@ -68,7 +74,13 @@ Mode.
 
 ## Auf schädliche Substanzen wird verzichtet
 
-![vegane-mode | full](http://cardamonchai.com/wp-content/uploads/2019/07/14918158780_5622ecf25d_o-250x250.jpg "Kompostierbare Jogging-Schuhe von Brooks")
+<RemoteImage
+  alt="vegane-mode"
+  size="full"
+  title="Kompostierbare Jogging-Schuhe von Brooks"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_14918158780_5622ecf25d_o-250x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_14918158780_5622ecf25d_o-250x250__l.jpg"
+  loadingUrl="undefined" />
 
 Ganz selbstverständlich scheint es zu sein, Bekleidung nicht einfach statt aus
 Wolle aus Akryl herzustellen, sondern neue, umweltschonende Wege zu finden. Auf

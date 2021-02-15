@@ -52,7 +52,13 @@ subTitle: Eine Zusammenfassung
   
 ---
 
-![85f9201cf33611e19cf61231381321cd_7](http://cardamonchai.com/wp-content/uploads/2012/10/85f9201cf33611e19cf61231381321cd_7.jpg)
+<RemoteImage
+  alt="85f9201cf33611e19cf61231381321cd_7"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_85f9201cf33611e19cf61231381321cd_7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_85f9201cf33611e19cf61231381321cd_7__l.jpg"
+  loadingUrl="undefined" />
 
 Wer Honig um den Bart trägt, sollte besser das Rauchen sein lassen.
 Türengeschäfte folgen nassen Tischen. Geplänkel mit Tiefgang. Geniale Erfinder,
@@ -64,7 +70,13 @@ Wir melden uns. Einhornkatzen. So läuft das im Internet. Sterne. Worte.
 Satzfragmente. Die Karusselfahrt durch die Zeilen der Zeit. Die nicht mehr
 aufzuhalten ist. Tatort Montag.
 
-![ad1e88eac6a311e1b00112313800c5e4_7](http://cardamonchai.com/wp-content/uploads/2012/10/ad1e88eac6a311e1b00112313800c5e4_7.jpg)
+<RemoteImage
+  alt="ad1e88eac6a311e1b00112313800c5e4_7"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_ad1e88eac6a311e1b00112313800c5e4_7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_ad1e88eac6a311e1b00112313800c5e4_7__l.jpg"
+  loadingUrl="undefined" />
 
 Matetee aus Schwaben. Sprücheklopfer aus Berlin. Bubbletee aus Jutesäckchen. Wir
 sollten alle viel mehr volle Münder küssen.
@@ -80,7 +92,13 @@ aber immer mit Herz.
 Wer wissen möchte, wie es weitergeht, kann dies gerne auf
 [Twitter](https://twitter.com/Anne_Reko) nachlesen.
 
-![ | small](http://cardamonchai.com/wp-content/uploads/2012/10/519079845-320x239.jpg)
+<RemoteImage
+  alt=""
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_519079845__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_519079845__l.jpg"
+  loadingUrl="undefined" />
 
 ## [Twitterer, die mir am Herzen liegen](https://twitter.com/Anne_Reko/following) _ \_\_\_\_ _ _May the force be with you! &lt;3_
 

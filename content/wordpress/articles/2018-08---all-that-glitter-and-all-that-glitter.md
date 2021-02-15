@@ -57,7 +57,13 @@ Glitter haben.
 
 ## Und hier mein Testbericht
 
-![Glitter](http://cardamonchai.com/wp-content/uploads/2018/08/2018-08-12-Naissance-Glitter-60-400x300.jpg)
+<RemoteImage
+  alt="Glitter"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-60__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-60__l.jpg"
+  loadingUrl="undefined" />
 
 auf meine grundierte Haut aufgepinselt, um ihm so mehr Halt zu geben.
 
@@ -65,7 +71,13 @@ Und siehe da: Plötzlich klappte es perfekt. Ein bisschen ist trotzdem daneben
 gegangen. Ich kann dazu raten, das Auftragen über einem Waschbecken zu machen.
 Ihr müsst Euch dabei auch keine Sorgen machen: Die Partikel sind wasserlöslich.
 
-![](https://www.adcell.de/promotion/view/promoId/170417/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/170417/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/170417/slotId/80259"
+  loadingUrl="undefined" />
 
 Für den "Hausgebrauch", sprich für ein glänzendes Party Make-up kann ich ganz
 klar empfehlen, das gewünschte Muster vorab mit einem feinen Pinsel und etwas
@@ -75,7 +87,13 @@ Glitterpuder aufzutupfen.
 
 ## Der Glitter hält bis in die frühen Morgenstunden
 
-![Glitter](http://cardamonchai.com/wp-content/uploads/2018/08/2018-08-12-Naissance-Glitter-7-400x300.jpg)
+<RemoteImage
+  alt="Glitter"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-7__l.jpg"
+  loadingUrl="undefined" />
 
 Der Glitter ist sehr haltbar und hält beim Feiern auf jeden Fall mit Euch bis in
 die Morgenstunden durch. Das Abschminken gestaltet sich leichter, als zunächst
@@ -97,7 +115,13 @@ sechs verschiedenen Farben: Dunkelrosa, Fuchsia, Himmelblau, Silber, Türkis,
 Violett und in drei verschiedene Varianten: fein, mittel und grob. Für meine
 Bilderserie habe ich mich für den feinen Glitter in himmelblau entschieden.
 
-![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=am2&o=3&a=B00E4OLCEG)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00E4OLCEG"
+  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00E4OLCEG"
+  loadingUrl="undefined" />
 
 Zum Befestigen könnt Ihr wie ich einfach Gesichtscreme nehmen, oder Ihr macht es
 so, wie der Hersteller es empfiehlt und nehmt das

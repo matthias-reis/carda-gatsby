@@ -55,7 +55,13 @@ Schon den kompletten Freitag wurde ich von schlimmen Niesanfällen geschüttelt.
 Davon und auch, dass am Samstagmorgen auch noch Husten dazugekommen war, wollte
 ich mich nicht unterkriegen lassen und wir fuhren trotzdem.
 
-![Wochenende | full](http://cardamonchai.com/wp-content/uploads/2017/02/Bildschirmfoto-2017-02-20-um-15.10.30.png)
+<RemoteImage
+  alt="Wochenende"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-20-um-15.10.30.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-20-um-15.10.30.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://www.instagram.com/anne_reko/)
 
@@ -63,7 +69,13 @@ Wegen meiner ständigen Schnäuzerei setzen sich im Zug nach und nach die Leute
 von uns weg. Durch das Fenster konnten wir indes beobachten, wie sich der Himmel
 immer mehr zuzog und das Wetter trüber und trüber wurde.
 
-![Wochenende | full](http://cardamonchai.com/wp-content/uploads/2017/02/Bildschirmfoto-2017-02-20-um-15.08.32.png)
+<RemoteImage
+  alt="Wochenende"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-20-um-15.08.32.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-20-um-15.08.32.png__l.jpg"
+  loadingUrl="undefined" />
 
 In Husum angekommen, regnete es zum Glück nicht. Wir packten unsere Rucksäcke in
 ein Schließfach, nahmen bei "Tante Jenny" einen Friesentee zu uns und machten
@@ -82,7 +94,13 @@ gelaufen.
 Tee trinken, Schlafen im Hotelbett und Fieber rausschwitzen waren angesagt.
 Draußen brach in der Zwischenzeit das Wetter vollkommen zusammen.
 
-![Wochenende | full](http://cardamonchai.com/wp-content/uploads/2017/02/Bildschirmfoto-2017-02-20-um-15.08.22.png)
+<RemoteImage
+  alt="Wochenende"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-20-um-15.08.22.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Bildschirmfoto-2017-02-20-um-15.08.22.png__l.jpg"
+  loadingUrl="undefined" />
 
 Nach gefühlten zehn Tassen Tee und ein paar Stunden Schlaf schaffte ich es sogar
 noch ins Hotelrestaurant. Was sich echt gelohnt hat. Man hatte sehr liebevoll

@@ -35,7 +35,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (131:20)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (143:20)"
 thumbnailId: "25779"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_fire-2197606_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_fire-2197606_1280__l.jpg
@@ -44,7 +44,7 @@ subTitle: Umweltkatastrophe durch Konsum
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (131:20)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (143:20)
 
 <!--
 **Brasilien, Paraguay und Bolivien befinden sich im Moment unter einer
@@ -80,7 +80,13 @@ prognostiziert. 2017 waren es noch 1,86 Millionen Tonnen (Statista
 
 Im Internet machen traurige Bilder die Runde.
 
-![feuer-im-amazonas | large](http://cardamonchai.com/wp-content/uploads/2019/08/Bildschirmfoto-2019-08-26-um-13.00.16-520x460.png)
+<RemoteImage
+  alt="feuer-im-amazonas"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-26-um-13.00.16.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-26-um-13.00.16.png__l.jpg"
+  loadingUrl="undefined" />
 
 Der Hashtag #prayforamazonia mobilisiert Menschen, auf die schlimmen Zustände
 aufmerksam zu machen. Immer wieder auch verbunden mit der Frage, warum dem Notre
@@ -88,7 +94,13 @@ Dame Brand sofort so viel mediale Aufmerksamkeit zuteil wurde, der brennenden
 Lunge der Erde jedoch nicht. Erschütternd ist nämlich, dass erst etwa drei
 Wochen, nach dem Ausbruch des Infernos weltweit darüber berichtet wurde.
 
-![feuer-im-amazonas | large](http://cardamonchai.com/wp-content/uploads/2019/08/Bildschirmfoto-2019-08-26-um-13.00.26-520x747.png)
+<RemoteImage
+  alt="feuer-im-amazonas"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-26-um-13.00.26.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-26-um-13.00.26.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Das Ausmaß der Katastrophe
 

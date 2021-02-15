@@ -69,7 +69,13 @@ ist so ziemlich alles dabei, was man sich vorstellen kann.
 
 ## Hoodie und Shirt von Living Crafts
 
-![living-crafts](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-06-waldpark-marienhoehe-suelldorf-35-400x267.jpg)
+<RemoteImage
+  alt="living-crafts"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-35__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-35__l.jpg"
+  loadingUrl="undefined" />
 
 Nachdem mir gefiel, was ich im Onlineshop entdeckte, entschied ich mich zum
 Ausprobieren für zwei schöne Teile aus der neuen Herbst-Winter-Kollektion: den
@@ -113,7 +119,13 @@ heißt es
 > glauben, dass nur unter dieser Maxime Transparenz und Nachhaltigkeit entstehen
 > kann."
 
-![living-crafts](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-06-waldpark-marienhoehe-suelldorf-15-400x600.jpg)
+<RemoteImage
+  alt="living-crafts"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-15__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-06-waldpark-marienhoehe-suelldorf-15__l.jpg"
+  loadingUrl="undefined" />
 
 Die Veredelung der Stoffe erfolgt statt mit Chemie mit mechanisch-thermischem
 Wege. Alle verwendeten Farben sind frei von Giftstoffen und auch beim Transport

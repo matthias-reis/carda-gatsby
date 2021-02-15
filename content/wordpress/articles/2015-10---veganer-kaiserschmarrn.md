@@ -35,7 +35,13 @@ subTitle: Vollwertig, lecker und eiweißreich
   
 ---
 
-![Veganer Kaiserschmarrn](http://cardamonchai.com/wp-content/uploads/2015/09/21835534795_27006697f2_z-1.jpg "Kaiserschmarrn mit frischem Obst")
+<RemoteImage
+  alt="Veganer Kaiserschmarrn"
+  size="medium"
+  title="Kaiserschmarrn mit frischem Obst"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21835534795_27006697f2_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21835534795_27006697f2_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute habe ich mal wieder ein leckeres Frühstücksrezept für's Wochenende für
 Euch vorbereitet. Auf den Tisch kommt ein echter Klassiker mal ein Bisschen
@@ -59,7 +65,13 @@ für Eure Wochenendaktivitäten.
 - 1 Prise Salz
 - Öl zum Braten## Zubereitung
 
-![Veganer Kaiserschmarrn](http://cardamonchai.com/wp-content/uploads/2015/09/21823673392_e1a185d261_z-640x427.jpg "Gebt alle Zutaten in die Schüssel")
+<RemoteImage
+  alt="Veganer Kaiserschmarrn"
+  size="medium"
+  title="Gebt alle Zutaten in die Schüssel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21823673392_e1a185d261_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21823673392_e1a185d261_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gebt alle Zutaten in die Schüssel, rührt sie mit dem Schneebesen gut durch und
 lasst den Teig im Anschluss ca. 20 min ruhen. Dann lasst Ihr eine Pfanne mit Öl

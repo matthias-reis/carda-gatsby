@@ -34,6 +34,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
+  invalidMdx: "unknown: Unexpected token (15:15)"
 thumbnailId: "23212"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_1__l.jpg
@@ -42,6 +43,9 @@ subTitle: Zarter Duft für sensible Haut
   
 ---
 
+## unknown: Unexpected token (15:15)
+
+<!--
 _Werbung\*_
 
 **Aus dem Hause Sauberkunst gibt es jetzt etwas ganz Neues: Deocremes ohne
@@ -52,7 +56,11 @@ Insgesamt gibt es vier spannende Duftrichtungen: "Zeus &amp; Aphrodite",
 Spa, Entspannung und Erholung erinnern und Name "Grapefruit rosé" spricht für
 sich, denke ich.
 
-![natronfreie-cremedeos](http://cardamonchai.com/wp-content/uploads/2019/01/2019-01-15-sauberkunst_6-400x300.jpg 'Rasierseife und Cremedeo "Zeus & Aphrodite"')
+<RemoteImage alt="natronfreie-cremedeos" size="medium" title="Rasierseife und
+Cremedeo "Zeus &amp; Aphrodite""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_6__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_6__l.jpg"
+loadingUrl="undefined" />
 
 Ich habe mich für meinen Test für die maritime Note "Blaue Lagune" sowie die an 
 eine Babycreme erinnernde "Zeus &amp; Aphrodite" Variante entschieden.
@@ -83,7 +91,11 @@ lange durch. Noch am Abend kann man den feinen Duft wahrnehmen.
 
 ## Sauberkunst produziert plastikfrei
 
-![natronfreie-cremedeos](http://cardamonchai.com/wp-content/uploads/2019/01/2019-01-15-sauberkunst_9-400x300.jpg 'Seife und Cremedeo "Blaue Lagune"')
+<RemoteImage alt="natronfreie-cremedeos" size="medium" title="Seife und Cremedeo
+"Blaue Lagune""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_9__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_9__l.jpg"
+loadingUrl="undefined" />
 
 Einen weiteren Pluspunkt gibt es mal wieder für die plastikfreie Verpackung.
 Hier denkt man bei Sauberkunst wirklich mit. Klasse! Die hübschen Döschen kann
@@ -144,5 +156,7 @@ möchte, kann gerne [hier klicken](/2018/02/unboxing-sauberkunst/).
   findet Ihr auf meiner  [Transparenz-Seite](/werbung/). _
 
 &nbsp;
+
+-->
 
   

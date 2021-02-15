@@ -38,7 +38,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (66:106)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (78:106)"
 thumbnailId: "13337"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_jan_mit_kuerbis-366x366__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_jan_mit_kuerbis-366x366__l.jpg
@@ -47,10 +47,16 @@ subTitle: Ein perfektes Weihnachtsgeschenk
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (66:106)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (78:106)
 
 <!--
-![Denise Weber (rechts im Bild) mit ihrer Kollegin Maika Lapuschkin](http://cardamonchai.com/wp-content/uploads/2015/12/Maika-Lapuschkin-und-Denise-Weber-640x512.png "Denise Weber (rechts im Bild) mit ihrer Kollegin Maika Lapuschkin")
+<RemoteImage
+  alt="Denise Weber (rechts im Bild) mit ihrer Kollegin Maika Lapuschkin"
+  size="medium"
+  title="Denise Weber (rechts im Bild) mit ihrer Kollegin Maika Lapuschkin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_Maika-Lapuschkin-und-Denise-Weber.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_Maika-Lapuschkin-und-Denise-Weber.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Über XING lernte ich die Patentierbetreuerin des Deutschen Tierschutzbüros
 Denise Weber kennen. Sie stellte mir direkt ihr Projekt „Tierpatenschaft mit
@@ -103,7 +109,13 @@ Lieblingsrezepte, saisonal und zu jedem Anlass passend. Kleiner Geheimtipp: Es
 werden darin auch tolle Ideen für ein leckeres und pflanzliches Weihnachtsmenü
 verraten.
 
-![Vegan Passion von Stina Spiegelberg](http://cardamonchai.com/wp-content/uploads/2015/12/Veganpassion_Das-Kochbuch-838x1024-640x782.jpg "Vegan Passion von Stina Spiegelberg")
+<RemoteImage
+  alt="Vegan Passion von Stina Spiegelberg"
+  size="medium"
+  title="Vegan Passion von Stina Spiegelberg"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2015/12/Veganpassion_Das-Kochbuch-838x1024-640x782.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2015/12/Veganpassion_Das-Kochbuch-838x1024-640x782.jpg"
+  loadingUrl="undefined" />
 
 <div style="border: solid 2px #ff66cc; padding: 30px;">## Alle Infos zur Weihnachtsaktion
 

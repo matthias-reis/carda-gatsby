@@ -46,7 +46,13 @@ Anlehnung an den
 [ökologischen Handabdruck](/2017/08/oekologischer-handabdruck/) etwas ganz Neues
 vor: Das Klimaretter-Sparbuch.**
 
-![Klimaretter-Sparbuch](http://cardamonchai.com/wp-content/uploads/2017/08/Bildschirmfoto-2017-08-24-um-13.12.11-300x426.png)
+<RemoteImage
+  alt="Klimaretter-Sparbuch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Bildschirmfoto-2017-08-24-um-13.12.11.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Bildschirmfoto-2017-08-24-um-13.12.11.png__l.jpg"
+  loadingUrl="undefined" />
 
 Mit dem Klimaretter-Sparbuch soll Konsumenten gezeigt werden, dass mit
 nachhaltigen Produkten und Angeboten ein anderes Wirtschaften möglich ist. Neben
@@ -76,7 +82,13 @@ sondern auch genau das Gegenteil.
 
 ## "Klimaschutz kann Spaß machen"
 
-![Klimaretter-Sparbuch](http://cardamonchai.com/wp-content/uploads/2017/08/Bildschirmfoto-2017-08-24-um-13.12.38-300x426.png)
+<RemoteImage
+  alt="Klimaretter-Sparbuch"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Bildschirmfoto-2017-08-24-um-13.12.38.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Bildschirmfoto-2017-08-24-um-13.12.38.png__l.jpg"
+  loadingUrl="undefined" />
 
 Dass Bio, Öko und Nachhaltigkeit Spaß machen können und man damit obendrein noch
 bares Geld sparen kann, möchte sie beweisen. Ihr Klimaretter-Sparbuch soll als

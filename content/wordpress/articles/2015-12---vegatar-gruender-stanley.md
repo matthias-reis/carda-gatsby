@@ -43,7 +43,13 @@ Tier- aber auch Menschenleid-freien Produkten zunimmt.
 
 **Anne:** Wie bist Du auf die Idee gekommen, vegane Taschen herzustellen?
 
-![Vegatar Gründer Stanley | full](http://cardamonchai.com/wp-content/uploads/2020/04/DSC_9544_Fotor_small-373x250.jpg)
+<RemoteImage
+  alt="Vegatar Gründer Stanley"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9544_Fotor_small-373x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9544_Fotor_small-373x250__l.jpg"
+  loadingUrl="undefined" />
 
 ## "Ich war auf der Suche nach Lederalternativen **Stanley:** Irgendwann war ich auf der Suche nach Alternativen zu tierischem Leder. Das Material sollte auf Basis nachwachsender und pflanzlicher Ressourcen sein und ich bin auch fündig geworden. Heute bieten wir bei Vegatar verschiedenen Materialien an: Eukalyptusfasern, Bio-Baumwolle und sogar Ananasfasern.
 
@@ -107,7 +113,13 @@ Nähte waren aufgegangen. Wie erklärst du Dir das? Liegt das daran, dass die
 veganen Produkte oft von Newcomern hergestellt werden, die noch dazulernen
 müssen?
 
-![Vegatar Gründer Stanley | full](http://cardamonchai.com/wp-content/uploads/2020/04/IMG_4870_Fotor_small-333x250.jpg)
+<RemoteImage
+  alt="Vegatar Gründer Stanley"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_IMG_4870_Fotor_small-333x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_IMG_4870_Fotor_small-333x250__l.jpg"
+  loadingUrl="undefined" />
 
 ## "Wir sollten die zukunftsweisenden Materialien tiefer erforschen" **Stanley:** Zum einen liegt es sicherlich daran, dass an solchen zukunftsweisenden Materialien noch nicht sehr lang geforscht und entwickelt wird. Mit wachsendem Bewusstsein und der Nachfrage nach solchen Materialien, unseren heutigen Technologien und Möglichkeiten sind wir allerdings auf einem sehr guten Weg.
 
@@ -221,7 +233,13 @@ Zunächst begann es bei mir auch bei der Ernährung. Ziemlich schnell wurde mir
 dann bewusst, dass das Thema viel umfassender ist und ich gern in allen
 Lebensbereichen einen positiven Wandel bewirken möchte.
 
-![Vegatar Gründer Stanley | full](http://cardamonchai.com/wp-content/uploads/2020/04/DSC_9432_Fotor_small-373x250.jpg)
+<RemoteImage
+  alt="Vegatar Gründer Stanley"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9432_Fotor_small-373x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_DSC_9432_Fotor_small-373x250__l.jpg"
+  loadingUrl="undefined" />
 
 ## "Bevor wir Mitgefühl erwarten, sollten wir Mitgefühl zeigen" **Anne:** Wie kann man hier am besten aufklären?
 

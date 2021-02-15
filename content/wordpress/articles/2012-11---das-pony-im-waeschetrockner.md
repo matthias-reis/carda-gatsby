@@ -60,7 +60,13 @@ traue mich inzwischen nicht mal mehr vor meinen liebsten Menschen zu singen.
 Kommt jemand um die Ecke, so verstumme ich sofort. Eventuell sollte ich wohl
 über eine Gesangstherapie nachdenken. ;-)
 
-![Wäschetrockner](http://cardamonchai.com/wp-content/uploads/2012/11/img_1239-640x640.jpg)
+<RemoteImage
+  alt="Wäschetrockner"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_11_img_1239__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_11_img_1239__l.jpg"
+  loadingUrl="undefined" />
 
 Heute ist übrigens mal wieder einer dieser Herbsttage, an denen man sich am
 liebsten zusammen mit der Katze in einer staubigen Ecke unter dem Bett
@@ -81,7 +87,13 @@ Besuch in einem mongolischen Restaurant an. Ich bin schon sehr gespannt. Ich
 habe schon so einiges gehört, über die Mongolische Küche, doch probiert habe ich
 sie bis heute noch nicht.
 
-![Wäschetrockner](http://cardamonchai.com/wp-content/uploads/2012/11/img_1116-640x640.jpg)
+<RemoteImage
+  alt="Wäschetrockner"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_11_img_1116__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_11_img_1116__l.jpg"
+  loadingUrl="undefined" />
 
 Der Reisebericht über meinen Kurztripp in die Türkei verzögert sich leider noch
 ein Wenig. Es gibt verschiedenstes zu berichten, leider war nicht alles so, wie

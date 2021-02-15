@@ -36,7 +36,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (125:65)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (137:65)"
 thumbnailId: "25673"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__l.jpg
@@ -45,7 +45,7 @@ subTitle: Interview mit Marlin von Vegarn
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (125:65)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (137:65)
 
 <!--
 <hr />
@@ -87,7 +87,13 @@ allerdings lieber weiterhin meiner Mutter.
 
 ## Vegarn gibt es seit 2015
 
-![vegane-wolle](http://cardamonchai.com/wp-content/uploads/2019/08/Vegarn_Sojawachskerze-GOTS-Baumwolle-Bambusnadeln-Vegarn-400x230.jpg "Sojawachskerze, GOTS-Baumwolle und Bambusnadeln von Vegarn. Bild: Vegarn")
+<RemoteImage
+  alt="vegane-wolle"
+  size="medium"
+  title="Sojawachskerze, GOTS-Baumwolle und Bambusnadeln von Vegarn. Bild: Vegarn"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Vegarn_Sojawachskerze-GOTS-Baumwolle-Bambusnadeln-Vegarn__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Vegarn_Sojawachskerze-GOTS-Baumwolle-Bambusnadeln-Vegarn__l.jpg"
+  loadingUrl="undefined" />
 
 **Marlin:** Anfang 2014 entstand die Idee durch ein Strickprojekt meiner Mutter
 und im September 2015 ging dann der Shop online.
@@ -138,7 +144,13 @@ Liebling aber von einem der Neuankömmlinge abgelöst!
 ich im Mai wohl mal Deinen Shop besuchen! Woher stammen denn die Rohstoffe für
 die Garne?
 
-![vegane-wolle](http://cardamonchai.com/wp-content/uploads/2019/08/Vegarn_Bestellung-mit-Lavendelsackchen-400x267.jpg "Vegane Wolle mit Lavendelsäckchen. Bild: Vegarn")
+<RemoteImage
+  alt="vegane-wolle"
+  size="medium"
+  title="Vegane Wolle mit Lavendelsäckchen. Bild: Vegarn"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Vegarn_Bestellung-mit-Lavendelsackchen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Vegarn_Bestellung-mit-Lavendelsackchen__l.jpg"
+  loadingUrl="undefined" />
 
 **Marlin:** Der Bambus und die Sojaproteine stammen aus China, die Baumwolle aus
 Ägypten, Hanf und Nessel aus Nepal und das Tencel aus Österreich.

@@ -53,7 +53,13 @@ Sie sind nämlich nicht nur im Urlaub praktische Begleiter, sondern auch auf
 
 ## Jetzt schnell etwas essen!
 
-![Konjak-Nudeln](http://cardamonchai.com/wp-content/uploads/2018/06/42761115832_bac9c75890_z-400x300.jpg)
+<RemoteImage
+  alt="Konjak-Nudeln"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42761115832_bac9c75890_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42761115832_bac9c75890_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wisst Ihr, was ich besonders gerne mag, wenn ich nach einer langen Fahrt endlich
 auf dem ersten Campingplatz des Urlaubs ankomme? Schnell etwas essen, für das
@@ -82,7 +88,13 @@ schon mal nicht meckern.
 
 ## Teufelszunge auf dem Teller
 
-![Konjak-Nudeln](http://cardamonchai.com/wp-content/uploads/2018/06/41909468735_9f0c7a76a0_z-400x300.jpg)
+<RemoteImage
+  alt="Konjak-Nudeln"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41909468735_9f0c7a76a0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41909468735_9f0c7a76a0_z__l.jpg"
+  loadingUrl="undefined" />
 
 "Nudeln? Aus dem Beutel. Na toll!", denkt Ihr Euch jetzt vielleicht. Und was ist
 jetzt der Clou? Die Nudeln werden nicht wie gewöhnlich aus Hartweizengrieß oder
@@ -123,7 +135,13 @@ das ist ja eigentlich genau das, was ich mir von Nudeln wünsche.
 
 ## Vom der Reiskorn-Form bis zu Spaghetti
 
-![Konjak-Nudeln](http://cardamonchai.com/wp-content/uploads/2018/06/28936661648_370d190e9d_z-400x300.jpg)
+<RemoteImage
+  alt="Konjak-Nudeln"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936661648_370d190e9d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936661648_370d190e9d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Hergestellt wird das Produkt übrigens in China für die Niederländische Firma
 Nutri-Dynamics Health Products B. V. In Deutschland werden sie durch

@@ -83,7 +83,13 @@ Musik zu Gewinnen. Ich würde mich sehr freuen, wenn Ihr mitmacht und das
 womöglich auch noch weitererzählt._ _Liebe Grüße aus der Mittagspausensonne
 hinter dem Bürofenster._
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/08/255337_448938665128268_1765079901_n-foto-auf-sandstein1.jpg "Bild: Foto auf Sandstein Anne Reko Rockham Beach/Mortehoe/Woolacombe/North Devon/England 6/2012 Modell: Anne Reko")
+<RemoteImage
+  alt=""
+  size="full"
+  title="Bild: Foto auf Sandstein Anne Reko Rockham Beach/Mortehoe/Woolacombe/North Devon/England 6/2012 Modell: Anne Reko"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/08/255337_448938665128268_1765079901_n-foto-auf-sandstein1.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/08/255337_448938665128268_1765079901_n-foto-auf-sandstein1.jpg"
+  loadingUrl="undefined" />
 
 **Der Song des Tages kommt heute von Weezer: "Island In The Sun"** **RIP Mikey
 Welsh ♥** [youtube=http://www.youtube.com/watch?v=w5PG3yiSx-E] _hip hip_ _hip

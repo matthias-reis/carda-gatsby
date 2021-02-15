@@ -37,7 +37,13 @@ subTitle: '"Summerwine" von Nancy Sinatra'
   
 ---
 
-![Blind Date](http://cardamonchai.com/wp-content/uploads/2017/07/16153910860_3c6733963e_z-640x480.jpg)
+<RemoteImage
+  alt="Blind Date"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16153910860_3c6733963e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16153910860_3c6733963e_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Während ich diese Zeilen schreibe, habe ich ein Blind Date. Wie es dazu kam?
 Jüngst wurde ich von Björn von Gartenbaukunst _\*_ eingeladen, bei einer ganz
@@ -56,7 +62,13 @@ daran besonders spannend finde, ist, dass man natürlich vorher nicht weiß, was
 die anderen Teilnehmer schreiben. Glaubt mir, ich platze gerade fast vor
 Neugierde.
 
-![Blind Date](http://cardamonchai.com/wp-content/uploads/2017/07/16339546391_634f708ef3_z-640x427.jpg)
+<RemoteImage
+  alt="Blind Date"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339546391_634f708ef3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339546391_634f708ef3_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ist dann alles notiert, veröffentlichen alle BloggerInnen, die dabei sind, am
 selben Tag um die selbe Uhrzeit ihre Artikel. Ich habe mir die Artikel vom
@@ -83,7 +95,13 @@ sitzt auf einer Schaukel, an deren langen Bändern Blumengirlanden befestigt
 sind. Das wirre Haar und die luftige Kleidung der Person flattert im Wind. Fast
 feenhaft. Leicht. Beschwingt.**
 
-![](http://cardamonchai.com/wp-content/uploads/2017/07/16339551251_a0008bf3fa_z-640x427.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339551251_a0008bf3fa_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_16339551251_a0008bf3fa_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Der Sonnenuntergang spielt mit dem Meeresspiegel. Farben von gelb über orange
 bis violett mischen sich in die leichten Wellen. Grillen zirpen in den Dünen.

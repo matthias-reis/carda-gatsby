@@ -57,7 +57,13 @@ Dabei können sie auch noch sehr viel Geld sparen."
 
 ## Repair Cafés - Das steckt dahinter
 
-![Repair Cafés | full](http://cardamonchai.com/wp-content/uploads/2018/09/unnamed-1.jpg)
+<RemoteImage
+  alt="Repair Cafés"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_unnamed-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_unnamed-1__l.jpg"
+  loadingUrl="undefined" />
 
 Am 18. Oktober 2009 wurde von Martine Postma in [Amsterdam](/2018/03/amsterdam/)
 das erste Repair Café gegründet. Gedacht war es nicht als Café im klassischen
@@ -77,7 +83,13 @@ Fahrrädern und Elektrogeräten.
 
 ## Ehrenamtliche Helfer stellen ihre Fachkenntnisse zur Verfügung
 
-![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=ur2&o=3&camp=1638)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
+  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
+  loadingUrl="undefined" />
 
 Ehrenamtliche Helfer mit speziellen Fachkenntnissen unterstützen die Besucher
 bei ihren Projekten. Auch hier möchte SOS Zubehör in Zukunft Rückhalt bieten:
@@ -104,7 +116,13 @@ Ländern kommen zusammen, um als alt neu zu machen.
 hat jeder die Möglichkeit, seine Elektro-Geräte zu warten und zu reparieren –
 auch wenn er kein Heimwerker-Profi ist.“, so Martine Postma.
 
-![](//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&l=ur2&o=3&camp=1638)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
+  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=ur2&amp;o=3&amp;camp=1638"
+  loadingUrl="undefined" />
 
 SOS Zubehör wurde 2008 unter dem Namen SOS Accessoire SAS von Olivier de
 Montlivault in La Verrière, Yvelines in Frankreich gegründet. Das Unternehmen

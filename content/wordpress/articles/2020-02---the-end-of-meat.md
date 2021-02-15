@@ -44,7 +44,13 @@ Lebensmitteln tierischer Herkunft aussehen würde und was eigentlich mit den
 ganzen "Nutztieren" passieren würde, wenn wir alle Veganer⋆innen wären, sollte
 Ihr diesen Film auf jeden Fall sehen.
 
-![the-end-of-meat-esther-the-wonderpig](http://cardamonchai.com/wp-content/uploads/2020/02/the-end-of-meat-esther-the-wonderpig-400x300.jpg "Esther The Wonderpig und ihre Familie")
+<RemoteImage
+  alt="the-end-of-meat-esther-the-wonderpig"
+  size="medium"
+  title="Esther The Wonderpig und ihre Familie"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_the-end-of-meat-esther-the-wonderpig__l.jpg"
+  loadingUrl="undefined" />
 
 Genau wie "[Live And Let Live](/2019/11/live-and-let-live-film/)" stammt "The
 End Of Meat" aus Marc Pierschels Filmschmiede. Der gebürtig aus Hildesheim

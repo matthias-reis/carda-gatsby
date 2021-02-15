@@ -36,7 +36,13 @@ subTitle: Schöne Erinnerungen in Asche konserviert
   
 ---
 
-![Brautstrauß](http://cardamonchai.com/wp-content/uploads/2017/06/Brautstrauß-9-von-9-640x480.jpg)
+<RemoteImage
+  alt="Brautstrauß"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor genau vier Jahren, am 5. Juli 2013, gaben Matze und ich uns
 [das Ja-Wort](http://hochzeit.smartr.de/). Wundervoll romantisch in einem großen

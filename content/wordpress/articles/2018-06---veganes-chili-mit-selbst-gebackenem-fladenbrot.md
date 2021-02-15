@@ -94,7 +94,13 @@ auf einen Rost.
 
 ## Zubereitung veganes Chili
 
-![Veganes Chili](http://cardamonchai.com/wp-content/uploads/2018/06/41338279775_721e48f258_z-400x300.jpg)
+<RemoteImage
+  alt="Veganes Chili"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41338279775_721e48f258_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41338279775_721e48f258_z__l.jpg"
+  loadingUrl="undefined" />
 
 Weicht die Bohnen für rund sechs Stunden in der dreifachen Menge Wasser ein.
 Gebt einen guten Schuss Essig dazu. Wenn Ihr größere Bohnen verwendet, als wir

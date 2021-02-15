@@ -34,7 +34,13 @@ subTitle: Aus Weinkiste wird Möbelstück
   
 ---
 
-![Weinkiste](http://cardamonchai.com/wp-content/uploads/2016/08/28496347930_5c38653871_z-640x427.jpg "Ist er nicht schön, mein kleiner Tisch?")
+<RemoteImage
+  alt="Weinkiste"
+  size="medium"
+  title="Ist er nicht schön, mein kleiner Tisch?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28496347930_5c38653871_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28496347930_5c38653871_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute zeige ich Euch mal meine neueste Errungenschaft. Es handelt sich dabei
 um einen Tisch aus einer Weinkiste, den ich gestern mal eben schnell gebaut
@@ -46,7 +52,13 @@ Sideboard nimmt einfach zu viel Platz weg, also muss eine andere Lösung her.
 
 ## Eine Weinkiste - vielmehr braucht man nicht
 
-![Weinkiste](http://cardamonchai.com/wp-content/uploads/2016/08/28165933193_b5a9e0bc09_z.jpg "Gerade war es noch eine alte Weinkiste")
+<RemoteImage
+  alt="Weinkiste"
+  size="medium"
+  title="Gerade war es noch eine alte Weinkiste"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28165933193_b5a9e0bc09_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28165933193_b5a9e0bc09_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die habe ich mir jetzt einfallen lassen: Aus einer alten Weinkiste (Die war noch
 vom [Umzug](/2016/05/an-die-elbe-wir-ziehen-um/) übrig) und vier Füßen (die

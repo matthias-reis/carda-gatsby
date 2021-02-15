@@ -69,7 +69,13 @@ gilt es zu vergessen, aufzuheben und im geeigneten Moment wieder auszugraben.
 Denn Erinnerungen, die nur noch auf dem Papier existieren, können die Grundlage
 für die Ferien Deines Lebens sein.
 
-![Bild: cardamonchai 9/2009 | full](http://cardamonchai.files.wordpress.com/2012/07/img_9855.jpg "Rose, Anne 9/2009")
+<RemoteImage
+  alt="Bild: cardamonchai 9/2009"
+  size="full"
+  title="Rose, Anne 9/2009"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/07/img_9855.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/07/img_9855.jpg"
+  loadingUrl="undefined" />
 
 **Song des Tages**
 

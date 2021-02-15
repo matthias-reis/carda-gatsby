@@ -55,7 +55,13 @@ Meeresbewohner oft einen schmerzhaften Todeskampf.
 
 ## Respektloser Umgang mit Meeresbewohnern
 
-![Deutsche Umwelthilfe](http://cardamonchai.com/wp-content/uploads/2018/09/29821426297_2c8cb31349_z-400x300.jpg)
+<RemoteImage
+  alt="Deutsche Umwelthilfe"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29821426297_2c8cb31349_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29821426297_2c8cb31349_z__l.jpg"
+  loadingUrl="undefined" />
 
 Dadurch, dass vermehrt junge Fische auf diese Art und Weise sterben, stehen
 durch diesen respektlosen Umgang mit der marinen Tierwelt die Fischbestände der
@@ -78,7 +84,13 @@ mitzeichnet. Ihr könnt das ganz leicht unter dem folgenden Link tun:
 
 > [PETITION JETZT MITZEICHNEN](http://www.change.org/stopptrueckwuerfe/?&wc=FA)
 
-![Deutsche Umwelthilfe](http://cardamonchai.com/wp-content/uploads/2018/09/29821427417_6cc79d3df4_z-400x300.jpg)
+<RemoteImage
+  alt="Deutsche Umwelthilfe"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29821427417_6cc79d3df4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29821427417_6cc79d3df4_z__l.jpg"
+  loadingUrl="undefined" />
 
 Was Ihr noch zum Schutz der Meere tun könnt? Sammelt jedes Mal, wenn Ihr am
 Strand seid, soviel Müll auf, wie Ihr tragen könnt. Und verzichtet am besten

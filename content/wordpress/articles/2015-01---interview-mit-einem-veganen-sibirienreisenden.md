@@ -50,7 +50,13 @@ subTitle: '"Ich hatte noch nie Heimweh!"'
   
 ---
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-23-640x480.jpg "Sebastian Frost")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Sebastian Frost"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg"
+  loadingUrl="undefined" />
 
 **Sebastian Frost ist ein Reisender. Als Mitarbeiter des Deutschen
 Wetterdienstes kommt er sehr viel herum und auch seine Freizeit verbringt er mit
@@ -65,7 +71,13 @@ Interview nimmst!
 
 **Sebastian:** Hallo Anne, das tu ich doch gerne.
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-19-640x480.jpg "Sebastian Frost vor dem -71,2 Grad Denkmal in Omjakon")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Sebastian Frost vor dem -71,2 Grad Denkmal in Omjakon"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-19__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-19__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** „Sebastian Frost“ - Ist das ein Pseudonym oder Künstlername? Wie kam
 es dazu? Was bedeutet er? Möchtest Du uns Deinen echten Namen verraten?
@@ -83,7 +95,13 @@ warst Du unterwegs?
 
 **Sebastian:** Ich war insgesamt 15 Tage unterwegs.
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-18-640x480.jpg "Temperaturen bis zu unter -50 Grad Celsius")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Temperaturen bis zu unter -50 Grad Celsius"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-18__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-18__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie hast Du Dich dort fortbewegt? Mit dem Auto? Zu Fuß?
 
@@ -102,7 +120,13 @@ eine dicke Schicht. Ich trug 3 Paar Socken, gefütterte Winterstiefel, T-Shirt,
 Pullover, eine dicke Fleecejacke und darüber noch eine dicke Winterjacke. Anders
 würde man die extreme Kälte nicht aushalten.
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-31-640x480.jpg "Die gefährlichste Straße der Welt im Werchojansker Gebirge - Weit und breit ist nichts")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Die gefährlichste Straße der Welt im Werchojansker Gebirge - Weit und breit ist nichts"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-31__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-31__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie kam es zu Deiner Reise nach Yakutien und Sibirien?
 
@@ -126,7 +150,13 @@ unterwegs bin und fremde Kulturen kennenlerne, fotografiere ich aber auch immer
 gerne Menschen. Hin und wieder spiele ich außerdem auch gerne Fußball oder
 Badminton.
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-24-640x480.jpg "Frau im T-Shirt bei -55 Grad Celsius")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Frau im T-Shirt bei -55 Grad Celsius"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-24__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-24__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Du arbeitetest beim Deutschen Wetterdienst. Möchtest Du uns erzählen,
 was genau dort Deine Aufgabe ist?
@@ -150,7 +180,13 @@ genauer hinsehen. Aus diesem Grund verreise ich immer mit Couchsurfing. Auf
 diese Art bekommt man viel tiefgründigere Einblicke in den Alltag der
 verschiedenen Kulturen.
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-9-640x480.jpg "Gefrorene Wimpern nach 20 min Kälte")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Gefrorene Wimpern nach 20 min Kälte"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-9__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-9__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Eine tolle Idee, einen Reisefilm zu machen, er ist im Internet zu
 sehen. Hast Du noch mehr in diese Richtung geplant? Wird es Vorträge geben oder
@@ -168,7 +204,13 @@ entgegengekommen.
 
 **Anne:** Was genau ist eigentlich Eisnebel?
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-640x480.jpg "Eisnebel in Yakutsk")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Eisnebel in Yakutsk"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt__l.jpg"
+  loadingUrl="undefined" />
 
 **Sebastian:** Eisnebel kommt in Europa kaum bis gar nicht vor. Er entsteht erst
 ab etwa -30 Grad Celsius. In der Luft sind dann nur noch Eiskristalle enthalten
@@ -195,7 +237,13 @@ von Haferbrei und Äpfeln ernähren. Ich bin daher für die Dauer meines
 Aufenthalts auf vegetarisch umgestiegen. Einige vegane Produkte habe ich zudem
 aus Deutschland mitgebracht.
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-2-640x360.jpg "Flug über das Werchojansker Gebirge und zugefrorene Flüsse")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Flug über das Werchojansker Gebirge und zugefrorene Flüsse"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie wurde Dein Veganismus angenommen? Wie reagierten die Menschen?
 
@@ -211,7 +259,13 @@ Heimweh hatte. Man sollte sich glücklich schätzen und jeden Moment genießen,
 wenn man gerade an einem anderen Ort ist. Und gegen Fernweh hilft nur eins: Auf
 Reisen gehen.
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-4-640x853.jpg "Außentoilette im Schnee")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Außentoilette im Schnee"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-4__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wo kann man Deine Bilder bewundern?
 
@@ -229,7 +283,13 @@ und müssten aufgefrischt werden.
 **Sebastian:** Das ist eine schwierige Frage. Ich möchte gerne nach Südamerika!
 Wer weiß...
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-5-640x480.jpg "Denkmal an den Rekord von -71,2 Grad Celsius in Tomtor")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Denkmal an den Rekord von -71,2 Grad Celsius in Tomtor"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-5__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Was unterscheidet Yakutien/Sibirien von unseren Breitengraden? Gibt es
 Dinge, von denen Du sagst, dass wir sie auf jeden Fall übernehmen sollten?
@@ -249,7 +309,13 @@ generell würde ich sagen, dass ich mich auf dieser Reise meist auf mein Gefühl
 verlassen habe. Ich hatte keinen Schimmer wie sich -50 Grad anfühlen werden und
 bin einfach mit meinem Koffer dorthin geflogen...
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-20-640x480.jpg "Am kältesten Ort der Welt")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Am kältesten Ort der Welt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-20__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-20__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Würdest Du wieder nach Yakutien/Sibirien reisen?
 
@@ -265,7 +331,13 @@ Englisch. Ohne Übersetzer wäre so eine Reise fast undenkbar bzw. sehr schwieri
 **Anne:** Gerade erst las ich wieder über die Probleme der Klimaveränderung in
 Sibirien. Hast Du davon bei deinem Besuch etwas mitbekommen?
 
-![Heimweh](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-22-640x480.jpg "Im Werchojansker Gebirge")
+<RemoteImage
+  alt="Heimweh"
+  size="medium"
+  title="Im Werchojansker Gebirge"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-22__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-22__l.jpg"
+  loadingUrl="undefined" />
 
 **Sebastian:** Die Menschen behaupten, dass es nicht mehr so kalt sei, wie
 früher. Früher waren Temperaturen von -60 Grad Standard, heute sind es die -50

@@ -33,7 +33,13 @@ subTitle: Bildergalerie
   
 ---
 
-![Joey](http://cardamonchai.com/wp-content/uploads/2015/04/16959318267_fe6f1b6bd0_z-640x476.jpg "Joey")
+<RemoteImage
+  alt="Joey"
+  size="medium"
+  title="Joey"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Hier sind meine Eindrücke vom gestrigen Calexico-Konzert in der Großen
 Freiheit in Hamburg.**

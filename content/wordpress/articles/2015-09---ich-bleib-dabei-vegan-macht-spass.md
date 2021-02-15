@@ -37,7 +37,13 @@ subTitle: 10 Fakten über Veganismus - Teil X
   
 ---
 
-![Ich bleibe vegan!](http://cardamonchai.com/wp-content/uploads/2015/09/14783170858_21a50b64ff_z.jpg "Ich bleibe vegan!")
+<RemoteImage
+  alt="Ich bleibe vegan!"
+  size="medium"
+  title="Ich bleibe vegan!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__l.jpg"
+  loadingUrl="undefined" />
 
 **
 [_Hier gehts zu Teil 9 des Artikels_](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
@@ -60,7 +66,13 @@ kennenlernen durfte, die mir ihre Geschichten über das vegan werden erzählten.
 ich finde, er hat recht. Wir haben beide unser Hobby, das Kochen ganz neu
 entdeckt, probieren tägliche neue Gerichte aus, experimentieren und testen.
 
-![Johanna Schlitzkus vom Tierhof Amoa | full](http://cardamonchai.com/wp-content/uploads/2014/08/johanna.jpg "Johanna Schlitzkus vom Tierhof Amoa")
+<RemoteImage
+  alt="Johanna Schlitzkus vom Tierhof Amoa"
+  size="full"
+  title="Johanna Schlitzkus vom Tierhof Amoa"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_johanna__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_johanna__l.jpg"
+  loadingUrl="undefined" />
 
 Wir haben viel über das Thema Tierrechte [<sup>1</sup>](#1) gelernt, haben uns
 mit Umweltschutz und dem ökologischen Fussabdruck [<sup>2</sup>](#2) beschäftigt
@@ -77,7 +89,13 @@ besser als je zuvor.
 
 ## Wir bleiben vegan!
 
-![Sebastian Frost](http://cardamonchai.com/wp-content/uploads/2015/01/unbenannt-23-640x480.jpg "Sebastian Frost")
+<RemoteImage
+  alt="Sebastian Frost"
+  size="medium"
+  title="Sebastian Frost"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg"
+  loadingUrl="undefined" />
 
 Ein Zurück kommt für uns beide heute nicht mehr in Frage und das nicht nur, weil
 wir inzwischen die Wahrheit über Milch [<sup>4</sup>](#4) kennen und gegen die
@@ -104,7 +122,13 @@ die Einnahmen spendet? Margit [<sup>8</sup>](#8) von der veganen, solidarischen
 Landwirtschaft Hamburg? Petra [<sup>9</sup>](#9), die mit ihrer
 Taschenkollektion Aufsehen erregt?
 
-![Denise in Aktion - Foto: Norbert Zawe](http://cardamonchai.com/wp-content/uploads/2015/04/Denise-action-640x960.jpg "Denise in Aktion - Foto: Norbert Zawe")
+<RemoteImage
+  alt="Denise in Aktion - Foto: Norbert Zawe"
+  size="medium"
+  title="Denise in Aktion - Foto: Norbert Zawe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__l.jpg"
+  loadingUrl="undefined" />
 
 Und nicht nur hier in meinem persönlichen Blog sind Interviews mit tollen
 Veganer\*innen erschienen. Auch im Welt Vegan Magazin [<sup>10</sup>](#10) und
@@ -126,7 +150,13 @@ Barbara Gorißen [<sup>20</sup>](#20) in meinem Blog. Diese beiden Artikel fande
 übrigens auch auch den größten Anklang in der Online-Gemeinde, sie wurden heiß
 diskutiert, geteilt, getwittert und gepinnt, was das Zeug hält.
 
-![Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk](http://cardamonchai.com/wp-content/uploads/2015/09/14962182673_1ce3fc866e_z.jpg "Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk")
+<RemoteImage
+  alt="Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk"
+  size="medium"
+  title="Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14962182673_1ce3fc866e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14962182673_1ce3fc866e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auf der Suche nach veganen und tierversuchsfreien Pflegeprodukten habe ich die
 Naturkosmetik entdeckt, tolle neue Sachen [<sup>21</sup>](#21) gefunden und zum
@@ -153,7 +183,13 @@ was darüber. :-)
 
 ## Was für immer bleibt
 
-![Christiane Bors vom Green Haven Hamburg](http://cardamonchai.com/wp-content/uploads/2015/09/Christiane-Bors-640x461.jpg "Christiane Bors vom Green Haven Hamburg")
+<RemoteImage
+  alt="Christiane Bors vom Green Haven Hamburg"
+  size="medium"
+  title="Christiane Bors vom Green Haven Hamburg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Christiane-Bors__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Christiane-Bors__l.jpg"
+  loadingUrl="undefined" />
 
 Den von mir zu Beginn gewählte Titel der Serie "10 Fakten über vegane Ernährung"
 habe ich schnell durch "10 Fakten über Veganismus" ausgetauscht, da sich nach

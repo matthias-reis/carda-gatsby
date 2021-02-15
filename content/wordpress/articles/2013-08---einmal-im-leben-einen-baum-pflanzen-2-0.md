@@ -25,7 +25,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:13)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (34:13)"
 thumbnailId: "6837"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__l.jpg
@@ -34,7 +34,7 @@ subTitle: Wir werden Baumpaten!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (28:13)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (34:13)
 
 <!--
 Doch leider stellte sich nach mehrfachen verzweifelten, gescheiterten
@@ -42,7 +42,13 @@ Buddelversuchen im Gleiskörper der Tram und im Asphalt der vor unserem Haus
 befindlichen Straße heraus, dass das mitten in der Stadt leider nicht
 durchführbar ist.
 
-![Anne und der Herzmann werden jetzt Baumpaten](http://cardamonchai.files.wordpress.com/2013/08/foto.jpg?w=300 "Anne und der Herzmann werden jetzt Baumpaten")
+<RemoteImage
+  alt="Anne und der Herzmann werden jetzt Baumpaten"
+  size="medium"
+  title="Anne und der Herzmann werden jetzt Baumpaten"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/08/foto.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/08/foto.jpg?w=300"
+  loadingUrl="undefined" />
 
 Nun las ich schon vor einiger Zeit in meinem monatlichen Greenpeace-Magazin,
 dass die Möglichkeit besteht, eine Baumpatenschaft abzuschließen und damit auch

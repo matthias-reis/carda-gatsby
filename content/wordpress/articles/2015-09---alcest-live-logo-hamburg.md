@@ -54,7 +54,13 @@ auch zwei von ihrem Sänger
 
 [Hier lang](http://www.alcest-music.com/) zur Homepage von Alcest
 
-![Blogger für Flüchtlinge | full](http://cardamonchai.com/wp-content/uploads/2015/09/BFF_1508_HeaderSW2-300x111.jpg)
+<RemoteImage
+  alt="Blogger für Flüchtlinge"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_BFF_1508_HeaderSW2-300x111__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_BFF_1508_HeaderSW2-300x111__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://www.blogger-fuer-fluechtlinge.de/)
 

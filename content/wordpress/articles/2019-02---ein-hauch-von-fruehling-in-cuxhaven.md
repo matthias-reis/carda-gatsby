@@ -56,7 +56,13 @@ sonnenhungrige, blasse Großstädter\*innen, auf dem Pilgerweg in Richtung
 Frühling. Birdwatching war trotzdem möglich. Im **Watt** und am Strand sind mir
 sogar ein paar Schnappschüsse gelungen.
 
-![cuxhaven](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-17-cuxhaven-2-400x286.jpg)
+<RemoteImage
+  alt="cuxhaven"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-2__l.jpg"
+  loadingUrl="undefined" />
 
 Von Hamburg aus ist Cuxhaven ein gutes Ausflugsziel. Mit dem Regionalzug ist man
 in gut zwei Stunden da, es gilt das Niedersachsen-Ticket. Die Kreisstadt an der
@@ -86,7 +92,13 @@ Die heutige Kugelbake von **Cuxhaven** ist nicht die erste. Diese war etwas
 kleiner (24,4 Meter) und wurde im Jahr 1703 erbaut. Damals musste man sie alle
 30 Jahre austauschen, da sie durch das raue Klima verwitterte.
 
-![cuxhaven](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-17-cuxhaven-6-400x286.jpg)
+<RemoteImage
+  alt="cuxhaven"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-17-cuxhaven-6__l.jpg"
+  loadingUrl="undefined" />
 
 Heute ist sie mit einem Wall verbunden. Diesen gibt es seit 1782. 1853 richtete
 man das sogenannte "Kugelbakenlicht" auf ihr ein. 1878 wurde es durch

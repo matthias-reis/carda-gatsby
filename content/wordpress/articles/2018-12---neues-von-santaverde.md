@@ -30,7 +30,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (63:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (75:16)"
 thumbnailId: "22909"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-05__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-05__l.jpg
@@ -39,7 +39,7 @@ subTitle: XINGU Age Perfect Toner
   
 ---
 
-## unknown: Unterminated JSX contents (63:16)
+## unknown: Unterminated JSX contents (75:16)
 
 <!--
 _Werbung\*_
@@ -49,7 +49,13 @@ der Basis natürlicher Aloe Vera sehr gerne und habe schon diverse Male darüber
 berichtet. Jetzt gibt es eine neue Age Perfect Reihe mit Extrakten aus dem
 brasilianischen Regenwald. Den Toner habe ich getestet.**
 
-![santaverde-xingu](http://cardamonchai.com/wp-content/uploads/2018/12/2018-12-09-santaverde-xingu-age-perfect-toner-07-400x300.jpg)
+<RemoteImage
+  alt="santaverde-xingu"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-07__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-07__l.jpg"
+  loadingUrl="undefined" />
 
 Meinen [Lieblingstoner](/2018/01/santaverde/) gibt es jetzt in einer neuen
 Ausführung! Das war ja klar, dass ich den ausprobieren muss. In der Produktlinie
@@ -93,7 +99,13 @@ Wie in allen Santaverde-Produkten stecken auch im "XINGU Age Perfect Toner"
 ausschließlich ausgewählte Zutaten aus biologischem Anbau. Hier die komplette
 Liste
 
-![santaverde-xingu](http://cardamonchai.com/wp-content/uploads/2018/12/2018-12-09-santaverde-xingu-age-perfect-toner-08-400x300.jpg)
+<RemoteImage
+  alt="santaverde-xingu"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-08__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-08__l.jpg"
+  loadingUrl="undefined" />
 
 <ul>
     <li>Aloe Vera Saft*

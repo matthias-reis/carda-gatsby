@@ -58,7 +58,13 @@ subTitle: Hamburg geht gegen Konzerngiganten auf die Straße
   
 ---
 
-![March Against Monsanto](http://cardamonchai.com/wp-content/uploads/2017/05/33956790264_8189787d84_b-640x853.jpg "So sehen wir aus, wenn wir in die Sonne kucken")
+<RemoteImage
+  alt="March Against Monsanto"
+  size="medium"
+  title="So sehen wir aus, wenn wir in die Sonne kucken"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_33956790264_8189787d84_b__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_33956790264_8189787d84_b__l.jpg"
+  loadingUrl="undefined" />
 
 **Gestern fand wieder weltweit der _March Against Monsanto_ statt. Auch in
 Hamburg wurde demonstriert.**
@@ -82,7 +88,13 @@ in alle Richtungen.
 
 ## "Monsanto - You have to go!"
 
-![Monsanto](http://cardamonchai.com/wp-content/uploads/2017/05/34759540956_4ffdf55600_k-640x853.jpg)
+<RemoteImage
+  alt="Monsanto"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34759540956_4ffdf55600_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34759540956_4ffdf55600_k__l.jpg"
+  loadingUrl="undefined" />
 
 "Monsanto - You have to go!" und "Ihr solltet wissen, dass sie uns vergiften"
 schalte es durch die Einkaufsstraßen der Hansestadt.

@@ -41,7 +41,13 @@ subTitle: Schritt-für-Schritt-Anleitung
   
 ---
 
-![Jutebeutel-Rucksack](http://cardamonchai.com/wp-content/uploads/2015/09/DIY-Turnbeutel-640x427.jpg "Da war es noch ein Jutesack")
+<RemoteImage
+  alt="Jutebeutel-Rucksack"
+  size="medium"
+  title="Da war es noch ein Jutesack"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel__l.jpg"
+  loadingUrl="undefined" />
 
 **Was haben Nerds, Hipster, Rocker, Hip Hopper, Althippies, Models,
 Kaffeetanten, Banker, Sportler und Schulkinder gemeinsam? Ganz genau, sie alle
@@ -98,7 +104,13 @@ zwei kleineren Knoten sitzen.
 
 Voilá: Fertig ist der Jutebeutel-Rucksack. Überziehen und losrocken!
 
-![Fertig ist der Turnbeutel! | large](http://cardamonchai.com/wp-content/uploads/2015/09/DIY-Turnbeutel-21-800x533.jpg)
+<RemoteImage
+  alt="Fertig ist der Turnbeutel!"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-21__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-21__l.jpg"
+  loadingUrl="undefined" />
 
 Und weil ich lustige Dinge liebe, an dieser Stelle noch ein tolles Video für
 Euch. Kuckt Euch das unbedingt an! Selbstironie und so. :-P

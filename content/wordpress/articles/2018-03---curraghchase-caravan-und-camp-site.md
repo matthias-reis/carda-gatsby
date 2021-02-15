@@ -43,7 +43,13 @@ subTitle: Ein Hauch von Twin Peaks in Irland
 abholen: Der Curraghchase Caravan &amp; Camp Site liegt eingebettet inmitten des
 609 Morgen großen Curraghchase Forest Park bei Kilcornan im County Limerick.**
 
-![Curraghchase](http://cardamonchai.com/wp-content/uploads/2018/02/40191781452_80849a6968_z-300x225.jpg)
+<RemoteImage
+  alt="Curraghchase"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40191781452_80849a6968_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40191781452_80849a6968_z__l.jpg"
+  loadingUrl="undefined" />
 
 Nachts hört man dort nichts außer ein paar Wildtieren und dem Wind, der durch
 die Bäume streicht. Fährt man den Campingplatz an, passiert man nach langer

@@ -47,7 +47,13 @@ subTitle: Post-Rock im Skaters Palace Münster
 an: das Golden Silence Festival in Münster findet am 2. November im Skaters
 Palace in Münster statt.**
 
-![golden-silence-festival](http://cardamonchai.com/wp-content/uploads/2019/10/golden-silence-festival-400x565.jpeg)
+<RemoteImage
+  alt="golden-silence-festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_golden-silence-festival.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_golden-silence-festival.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Wo sonst eher Punk läuft, werden am 2. November nachdenkliche Töne
 angeschlagen - beim Golden Silence Festival ist der Name Programm - es wird

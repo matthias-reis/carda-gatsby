@@ -34,7 +34,13 @@ Aber da hat er sich geirrt! Das Paket stammt vom Schallplattenhändler meines
 Vertrauens und ich freue mich schon seit Wochen auf den Inhalt. Und ich wurde
 nicht enttäuscht! So viele großartige Dinge. Vielen Dank!
 
-![the verve](http://cardamonchai.com/wp-content/uploads/2013/11/the-verve-640x640.jpg)
+<RemoteImage
+  alt="the verve"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_the-verve__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_the-verve__l.jpg"
+  loadingUrl="undefined" />
 
 ## Musik ist zum Hören da!
 
@@ -54,6 +60,12 @@ ids="7583,7584,7585,7586,7587,7589,7590,7591,7592,7594,7595,7596"]
 
 Dieser junge Mann hat meine Schallplatten übrigens bei Marleen eingepackt:
 
-![Chico - Lieblingsschallplattenladen-Maskottchen | full](http://cardamonchai.files.wordpress.com/2013/11/chico.jpg "Chico - Lieblingsschallplattenladen-Maskottchen")
+<RemoteImage
+  alt="Chico - Lieblingsschallplattenladen-Maskottchen"
+  size="full"
+  title="Chico - Lieblingsschallplattenladen-Maskottchen"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/11/chico.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/11/chico.jpg"
+  loadingUrl="undefined" />
 
   

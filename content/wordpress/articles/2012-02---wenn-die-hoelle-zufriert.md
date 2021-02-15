@@ -87,7 +87,13 @@ ausmachen.
 
 Vielleicht ist es ja dann draußen schon wieder ein kleines Bisschen wärmer.
 
-![Foto: cardamonchai 12/2011 | full](http://cardamonchai.files.wordpress.com/2012/02/download.jpg "[ ](http://cardamonchai.files.wordpress.com/2012/02/download.jpg)  Foto: cardamonchai 12/2011")
+<RemoteImage
+  alt="Foto: cardamonchai 12/2011"
+  size="full"
+  title="[ ](http://cardamonchai.files.wordpress.com/2012/02/download.jpg)  Foto: cardamonchai 12/2011"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/02/download.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/02/download.jpg"
+  loadingUrl="undefined" />
 
 ## Song des Tages: PJ Harvey/Tom Yorke - This Mess We´re In **[youtube=http://www.youtube.com/watch?v=GbYIiGu8duk]** <h1 id="watch-headline-title"></h1>
 

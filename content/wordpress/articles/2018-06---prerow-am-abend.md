@@ -42,7 +42,13 @@ subTitle: Sommerliche Impressionen von der Ostsee
 Auf zum Darß - Dem Mittelteil der Halbinsel Fischland-Darß-Zingst. Den
 Sonnenuntergang erleben.
 
-![Prerow](http://cardamonchai.com/wp-content/uploads/2018/06/42679607012_5bf03463f1_z-400x533.jpg)
+<RemoteImage
+  alt="Prerow"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42679607012_5bf03463f1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42679607012_5bf03463f1_z__l.jpg"
+  loadingUrl="undefined" />
 
 Spuren im weißen Sand. Impressionen aus Prerow an der Ostsee.
 

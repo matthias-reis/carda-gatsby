@@ -56,6 +56,12 @@ viele, nie passieren wird. Nicht nur Du wirst dann gehen, Deine Nachbarn, Eure
 Nachfahren und Ahnen. Auch die Seele dieses Ortes wird sich dann für immer
 verabschieden.
 
-![Vergänglichkeit | full](http://cardamonchai.com/wp-content/uploads/2017/04/33234406364_95da4daecf_z.jpg)
+<RemoteImage
+  alt="Vergänglichkeit"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33234406364_95da4daecf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33234406364_95da4daecf_z__l.jpg"
+  loadingUrl="undefined" />
 
   

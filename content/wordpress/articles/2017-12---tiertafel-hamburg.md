@@ -45,7 +45,13 @@ die Tiertafel Hamburg gespendet haben und damit die Weihnachts-Futterausgabe
 möglich gemacht haben. Zahlreiche freiwillige HelferInnen packten mit an und
 verteilten Futter, Spielzeug, Decken, Leckerlis und Streicheleinheiten.**
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/12/25166298298_0666acfa9f_z-300x400.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25166298298_0666acfa9f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_25166298298_0666acfa9f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Mit vor Ort in der Kirche "Zum Guten Hirten" in Hamburg Langenfelde waren auch
 zwei Veterinäre sowie eine Tierfriseurin. Von Morgens bis spät in die
@@ -78,7 +84,13 @@ in 22179 Hamburg statt.
 
 ## Nach der Futterausgabe ist vor der Futterausgabe
 
-![Tiertafel Hamburg](http://cardamonchai.com/wp-content/uploads/2017/12/39037505831_64da422659_z-300x400.jpg)
+<RemoteImage
+  alt="Tiertafel Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_39037505831_64da422659_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_39037505831_64da422659_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Weihnachts-Futterausgabe ist gut gelaufen und es konnte damit vielen
 Menschen und ihren tierischen Begleitern ein glückliches Weihnachtsfest

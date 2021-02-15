@@ -50,7 +50,13 @@ Beim Lunch berichteten uns die beiden von ihren Plänen und erzählten uns alles
 
 ## Feuerwear setzt stylische Akzente
 
-![feuerwear](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-28-feuerwear-400x600.jpg)
+<RemoteImage
+  alt="feuerwear"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear__l.jpg"
+  loadingUrl="undefined" />
 
 Für das Design bereisten die beiden unter anderem eine klassische Sattlermesse,
 bei der sie sich vor allem über Metall-Accessoires informierten. Bis jetzt kamen
@@ -90,7 +96,13 @@ Einzelhandel wird man ihn bereits Anfang Oktober erstehen können.
 
 ## "Phil" die Handtasche
 
-![feuerwear](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-28-feuerwear-23-400x600.jpg)
+<RemoteImage
+  alt="feuerwear"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear-23__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear-23__l.jpg"
+  loadingUrl="undefined" />
 
 Die Handtasche "Phil" begeistert mich persönlich. Sie ist inzwischen bei
 spontanen Fotoshootings zu meiner festen Begleiterin geworden: meine
@@ -118,7 +130,13 @@ Auch die große Öffnung gefällt mir gut. Wenn man die Tasche aufmacht, hat man
 sofort alles gut im Blick. Kein hektisches Ausleeren vor der Haustür auf der
 Suche nach dem Schlüssel, wie bei anderen Handtaschen also.
 
-![feuerwear](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-28-feuerwear-6-400x600.jpg)
+<RemoteImage
+  alt="feuerwear"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-28-feuerwear-6__l.jpg"
+  loadingUrl="undefined" />
 
 Das klingt doch schon mal gut, oder? Zusammengehalten wird sie übrigens von
 einem stabilen Magnetverschluss. Innen findet man ein Einsteckfach für den

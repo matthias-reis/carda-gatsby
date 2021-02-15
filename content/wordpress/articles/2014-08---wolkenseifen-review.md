@@ -62,7 +62,13 @@ subTitle: Himmlische Düfte ganz ohne Plastik
   
 ---
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/produkttester-selfie-1-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Shoptester-Selfie")
+<RemoteImage
+  alt="Wolkenseifen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Shoptester-Selfie"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_produkttester-selfie-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_produkttester-selfie-1__l.jpg"
+  loadingUrl="undefined" />
 
 Schon seit einiger Zeit mache ich mir Gedanken, wie ich den Müllberg, der
 wöchentlich bei uns im Container landet verkleinern kann. Dass man Restmüll und
@@ -81,7 +87,13 @@ Mitarbeiter wie die Schaufensterdekoration austauschen.
 
 ## Wolkenseifen macht es möglich
 
-![Wolkenseifen](http://cardamonchai.files.wordpress.com/2014/08/img_1700-e1409308836538.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevoll verpackt")
+<RemoteImage
+  alt="Wolkenseifen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevoll verpackt"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/img_1700-e1409308836538.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/img_1700-e1409308836538.jpg?w=300"
+  loadingUrl="undefined" />
 
 Weil ich persönlich die kleinen Händler vorziehe, die mit ihren eigenen Händen
 etwas aufbauen, kam ich auf die
@@ -105,7 +117,13 @@ Besonders interessierte ich mich für die Haarseifen, ich habe mich für eine mi
 Rosmarin entschieden. Sie ist für empfindliche Kopfhaut geeignet. Im Shop wird
 sie folgendermaßen angepriesen:
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1693-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Rosmarin-Haarseife")
+<RemoteImage
+  alt="Wolkenseifen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Rosmarin-Haarseife"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1693__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1693__l.jpg"
+  loadingUrl="undefined" />
 
 <small>"Alepposeife mit ätherischem Rosmarinöl für die Haarwäsche. Durch das
 Rosmarinöl kann es gegen Schuppen wirken. Die klassischen Inhaltsstoffe der
@@ -129,7 +147,13 @@ Duschen viel weniger Wasser den Abfluss runtergeht.
 
 ## Wolkenseifen Kokosöl
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1696-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/http://)  Duftet wie die Kokosmakronen meiner Oma")
+<RemoteImage
+  alt="Wolkenseifen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/http://)  Duftet wie die Kokosmakronen meiner Oma"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1696__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1696__l.jpg"
+  loadingUrl="undefined" />
 
 Da ich sehr langes, pflegebedürftiges Haar habe, gebe ich anstelle von einer Kur
 1x pro Woche Kokosöl ins Haar und lasse es über Nacht einwirken. Nach dem
@@ -146,7 +170,13 @@ Kokosmakronen von meiner Oma und das ist so schön! &lt;3
 
 ## Das steht dazu auf der Produktseite:
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1699-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevolle Produktbeschreibungen")
+<RemoteImage
+  alt="Wolkenseifen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevolle Produktbeschreibungen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1699__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1699__l.jpg"
+  loadingUrl="undefined" />
 
 <small>"Dieses Kokosöl aus kontrolliert biologischem Anbau duftet himmlisch nach
 Kokos. Wie ein Glas Kokosmilch am Strand, wie eine Handvoll frisch geraspelte
@@ -214,11 +244,23 @@ Ein kleines Bisschen Lavendelluxus durfte für mich natürlich auch nicht fehlen
 Ein pulverförmiges Schaumbad in der hübschesten Schaumbaddose, die ich jemals
 gesehen habe:
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1695-2-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Lavendel-Schaumbad")
+<RemoteImage
+  alt="Wolkenseifen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Lavendel-Schaumbad"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1695-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1695-2__l.jpg"
+  loadingUrl="undefined" />
 
 Beigelegt wurden meinem Paket außerdem noch drei liebevoll verpackte Deoproben:
 
-![Wolkenseifen](http://cardamonchai.com/wp-content/uploads/2014/08/img_1690-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevoll verpackte Deoproben")
+<RemoteImage
+  alt="Wolkenseifen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Liebevoll verpackte Deoproben"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1690__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_img_1690__l.jpg"
+  loadingUrl="undefined" />
 
 ## Wolkenseifen Test-Fazit
 

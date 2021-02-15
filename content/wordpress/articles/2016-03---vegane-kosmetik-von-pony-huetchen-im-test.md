@@ -37,7 +37,13 @@ subTitle: Natürliche Essenzen und traumhafte Düfte
 
 Werbung\*
 
-![Vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2016/03/25370638110_0639602f6a_z.jpg "Pony Hütchen im Test")
+<RemoteImage
+  alt="Vegane Kosmetik"
+  size="medium"
+  title="Pony Hütchen im Test"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25370638110_0639602f6a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25370638110_0639602f6a_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor Kurzem habe ich die liebe Hendrike von Pony Hütchen kennengelernt. Im
 [Interview](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)

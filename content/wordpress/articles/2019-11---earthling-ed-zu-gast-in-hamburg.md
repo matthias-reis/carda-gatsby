@@ -36,7 +36,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (26:39)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:39)"
 thumbnailId: "26968"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__l.jpg
@@ -45,7 +45,7 @@ subTitle: '"Es ist OK, ein*e wütende Veganer*in zu sein!"'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (26:39)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (32:39)
 
 <!--
 **Am Samstag hatten wir das große Glück bei einer ganz besonderen Veranstaltung
@@ -61,7 +61,13 @@ ich habe eine gestellt:
 trotzdem immer wieder in nicht-vegane Locations einladen oder Dir zum Beispiel
 Milchschokolade anbieten?"
 
-![2019-11-23-earthling-ed](http://cardamonchai.com/wp-content/uploads/2019/11/2019-11-23-earthling-ed-1-400x300.jpg)
+<RemoteImage
+  alt="2019-11-23-earthling-ed"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-1__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe Eds Antwort mitgeschrieben und werde versuchen, seinen Rat in Zukunft
 zu beherzigen:
@@ -98,7 +104,13 @@ Bevölkerung diese einfach ignoriert.
 
 ## Wir sind alle nur Menschen
 
-![2019-11-23-earthling-ed](http://cardamonchai.com/wp-content/uploads/2019/11/2019-11-23-earthling-ed-2-400x300.jpg)
+<RemoteImage
+  alt="2019-11-23-earthling-ed"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt habe ich sehr viel mitgenommen und eine ganze Menge gelernt und jede
 Menge tolle Tipps für den Alltag bekommen. Besonders begeistert haben mich Eds

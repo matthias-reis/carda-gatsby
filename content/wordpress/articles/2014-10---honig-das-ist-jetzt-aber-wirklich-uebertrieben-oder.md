@@ -58,7 +58,13 @@ subTitle: 10 Fakten über Veganismus - Teil VII
   
 ---
 
-![Biene sammelt Nektar](http://cardamonchai.com/wp-content/uploads/2014/10/14357441908_09b3d46f87_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Biene sammelt Nektar")
+<RemoteImage
+  alt="Biene sammelt Nektar"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Biene sammelt Nektar"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__l.jpg"
+  loadingUrl="undefined" />
 
 _ **
 [Hier gehts zu Teil 6 des Artikels](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
@@ -76,7 +82,13 @@ ausbeuten, auch indem wir ihnen _ihren_ **Honig** wegnehmen.
 > zerstören, dann wird er beständig zunehmen." - Buddha### Was ist eigentlich
 > Honig?
 
-![Arbeiterbiene in Aktion](http://cardamonchai.com/wp-content/uploads/2014/10/14805231703_25f28379f0_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbiene in Aktion")
+<RemoteImage
+  alt="Arbeiterbiene in Aktion"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbiene in Aktion"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14805231703_25f28379f0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14805231703_25f28379f0_z__l.jpg"
+  loadingUrl="undefined" />
 
 Zunächst ein paar Grundlagen. _Natürliche_ Vorgänge, wie sie von Mutter Natur
 vorgesehen sind.
@@ -94,7 +106,13 @@ maßgeblich am Bienensterben beteiligt sind. [<sup>1</sup>](#1) In der Imkerei
 erhalten die Bienen als Ersatz meist Zuckerwasser, wodurch sie
 krankheitsanfällig werden.
 
-![Emsige Biene](https://cardamonchai.files.wordpress.com/2014/10/14357114080_6107bf707a_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Emsige Biene")
+<RemoteImage
+  alt="Emsige Biene"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Emsige Biene"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/10/14357114080_6107bf707a_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/10/14357114080_6107bf707a_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Die Bienen nehmen süße Säfte auf, reichern sie mit ihren körpereigenen Säften
 an, verändern sie innerhalb ihres Körpers, speichern sie in Waben und lassen sie
@@ -112,7 +130,13 @@ nebenbei kommt es dabei zur Bestäubung der Blüten und die Spermazelle der Poll
 wird von der Biene auf die empfänglichen, weiblichen Blütenteile getragen.
 [<sup>6</sup>](#6)
 
-![Bienen saugen den Nektar über den Rüssel auf](http://cardamonchai.com/wp-content/uploads/2014/10/11532124213_650108a210_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bienen saugen den Nektar über den Rüssel auf")
+<RemoteImage
+  alt="Bienen saugen den Nektar über den Rüssel auf"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bienen saugen den Nektar über den Rüssel auf"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11532124213_650108a210_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11532124213_650108a210_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Bienen saugen den Nektar über den Rüssel auf und transportieren ihn in ihrer
 **Honigblase** in den Bienenstock, wo sie ihn an die Stockbienen übergeben, die
@@ -129,7 +153,13 @@ Honig darf laut Honigverordnung vor allem Fructose, Glucose und Enzyme,
 organische Säuren und sonstige, feste Partikel, die die Bienen beim Sammeln
 aufnehmen, enthalten. [<sup>4</sup>](#4) ### Die Geschichte der Imkerei
 
-![Honig ist die Nahrung der Bienen](https://cardamonchai.files.wordpress.com/2014/10/14357129270_f2319edbbf_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Honig ist die Nahrung der Bienen")
+<RemoteImage
+  alt="Honig ist die Nahrung der Bienen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Honig ist die Nahrung der Bienen"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/10/14357129270_f2319edbbf_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/10/14357129270_f2319edbbf_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 In der Steinzeit begannen die Menschen Honig als Nahrungsmittel zu nutzen. Die
 Haltung von Hausbienen geht auf das 7. Jahrhundert v. Chr. (Anatolien) zurück.
@@ -145,7 +175,13 @@ United Nations). Die Deutschen nehmen rund 85.000 Tonnen Honig pro Jahr zu sich
 (Bundeswirtschaftsministerium), das ist mehr als 1 Kilo pro Einwohner. Davon
 wird nur ca. 1/5 durch deutschen Honig gedeckt. [<sup>4</sup>](#4)
 
-![Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt siehe Quellen](http://cardamonchai.com/wp-content/uploads/2014/10/bildschirmfoto-2014-10-16-um-09-26-02-640x419.png "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt, siehe Quellen")
+<RemoteImage
+  alt="Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt siehe Quellen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt, siehe Quellen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_bildschirmfoto-2014-10-16-um-09-26-02.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_bildschirmfoto-2014-10-16-um-09-26-02.png__l.jpg"
+  loadingUrl="undefined" />
 
 Hauptimportländer sind hierzulande Mexico und Argentinien. 2012 wurden u. a.
 15.000 Tonnen aus Mexico und 13.000 Tonnen aus Argentinien nach Deutschland
@@ -170,7 +206,13 @@ immer seltener.
 
 ### Manipulation der Bienen
 
-![Arbeiterbienen am Magazin](https://cardamonchai.files.wordpress.com/2014/10/14357307880_6532fa01ac_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen am Magazin")
+<RemoteImage
+  alt="Arbeiterbienen am Magazin"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen am Magazin"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/10/14357307880_6532fa01ac_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/10/14357307880_6532fa01ac_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Um einen möglichst hohen Gewinn zu erzielen, kommt es, genau wie bei
 [Milchproduktion](//2014/09/09/pflanzenmilch-wieso-denn-blos/), auch bei der
@@ -191,7 +233,13 @@ zu Quetschungen.
 
 ### Das Einräuchern
 
-![Arbeiterbienen](http://cardamonchai.com/wp-content/uploads/2014/10/14564080433_c18a3b84d1_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen")
+<RemoteImage
+  alt="Arbeiterbienen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14564080433_c18a3b84d1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14564080433_c18a3b84d1_z__l.jpg"
+  loadingUrl="undefined" />
 
 Dabei benutzt der Imker einen Smoker (oder auch eine Pfeife), mit dessen Hilfe
 Rauch in den Bienenstock geblasen wird. [<sup>5</sup>](#5) Dadurch werden die
@@ -210,7 +258,13 @@ erfolgt, sobald in einem Bienenstock mehr als eine Königin sitzt. Imker
 versuchen dies zu verhindern, um sich nicht den Honig dieser besonders
 ertragsreichen Zeit entgehen zu lassen.
 
-![Biene im Flug | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/10/14357107300_1a0c8fb2a7_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Biene im Flug")
+<RemoteImage
+  alt="Biene im Flug"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Biene im Flug"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357107300_1a0c8fb2a7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357107300_1a0c8fb2a7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Um das Ausschwärmen zu unterbinden, werden verschiedene Praktiken angewendet.
 Einige Imker trennen das Bienenvolk und stellen einen Teil davon mit der Brut
@@ -232,7 +286,13 @@ Imkereibetrieb wird sie nach einem Jahr getötet.
 
 ### Wenn die Bienen sterben, stirbt die Natur
 
-![Bienen beim Verlassen des Bienenstocks](http://cardamonchai.com/wp-content/uploads/2014/10/14357358519_ded7209989_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bienen beim Verlassen des Bienenstocks")
+<RemoteImage
+  alt="Bienen beim Verlassen des Bienenstocks"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bienen beim Verlassen des Bienenstocks"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357358519_ded7209989_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357358519_ded7209989_z__l.jpg"
+  loadingUrl="undefined" />
 
 Seit Jahrzehnten warnen Wissenschaftler vor dem Bienensterben. Sterben die
 Bienen, findet keine Bestäubung mehr statt, was verheerende Folgen für die Natur
@@ -250,7 +310,13 @@ so oft der Mensch.
 
 ### Frieden für die Honigbienen
 
-![Fleißige Sammlerin](http://cardamonchai.com/wp-content/uploads/2014/10/14357302757_1a1bb3e83b_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Fleißige Sammlerin")
+<RemoteImage
+  alt="Fleißige Sammlerin"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Fleißige Sammlerin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357302757_1a1bb3e83b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357302757_1a1bb3e83b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Nur wenn wir die Bienen in Ruhe lassen und ihnen ihre natürliche Lebensart
 zurückgeben, können wir ihnen auf Dauer helfen. An dieser Stelle ein berühmtes
@@ -265,7 +331,13 @@ möchte, verzichtet man daher am besten auf Honig.
 
 ### Tolle Alternativen
 
-![Für Euch getestet: Tolle Alternativen](http://cardamonchai.com/wp-content/uploads/2014/10/honigalternativen-1-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Für Euch getestet: Tolle Alternativen")
+<RemoteImage
+  alt="Für Euch getestet: Tolle Alternativen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Für Euch getestet: Tolle Alternativen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_honigalternativen-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_honigalternativen-1__l.jpg"
+  loadingUrl="undefined" />
 
 Tolle Alternativen sind übrigens u. a. Ahornsirup oder für alle, die es etwas
 weniger würzig mögen, **Agavendicksaft** . Etwas fruchtiger und sehr lecker ist
@@ -287,7 +359,13 @@ kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig. &lt;
 
 [_ **Hier gehts zu Teil 8 des Artikels** _](/2014/11/28/fakepelz-echtpelz/)
 
-![Sie fliegt von Blüte zu Blüte | full](http://cardamonchai.com/wp-content/uploads/2014/10/14258998664_220bda64c4_z.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Sie fliegt von Blüte zu Blüte")
+<RemoteImage
+  alt="Sie fliegt von Blüte zu Blüte"
+  size="full"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Sie fliegt von Blüte zu Blüte"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14258998664_220bda64c4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14258998664_220bda64c4_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Inhaltsverzeichnis "10 Fakten über Veganismus"1. [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 

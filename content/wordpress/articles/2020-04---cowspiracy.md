@@ -49,7 +49,13 @@ weitere Umweltkrankheiten. Sie ist für mehr Treibhausgase verantwortlich, als
 die Transportindustrie. Dennoch wird dieses Handeln bis heute kaum hinterfragt
 und ungebremst weitergeführt.
 
-![vegane-doku](http://cardamonchai.com/wp-content/uploads/2020/04/cowspiracy219-400x278.jpg)
+<RemoteImage
+  alt="vegane-doku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy219__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_cowspiracy219__l.jpg"
+  loadingUrl="undefined" />
 
 Während seiner Recherche spricht Andersen mit den führenden Persönlichkeiten der
 Umweltbewegung und findet dabei heraus, dass sie sich vehement weigern, mit ihm

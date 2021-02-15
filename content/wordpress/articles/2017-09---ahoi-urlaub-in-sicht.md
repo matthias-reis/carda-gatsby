@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Unterminated JSX contents (83:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (101:16)"
 thumbnailId: "17846"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg
@@ -35,7 +35,7 @@ subTitle: Ich melde mich mal kurz ab...
   
 ---
 
-## unknown: Unterminated JSX contents (83:16)
+## unknown: Unterminated JSX contents (101:16)
 
 <!--
 **... bin aber bald wieder da. Versprochen! Wir werden die nächsten beiden
@@ -54,7 +54,13 @@ richtige Rubrik dabei, versprochen!
 
 ## Einfach hier klicken und stöbern:
 
-![Urlaub | large](http://cardamonchai.com/wp-content/uploads/2017/09/36831266332_6858ed43aa_z-520x347.jpg)
+<RemoteImage
+  alt="Urlaub"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36831266332_6858ed43aa_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36831266332_6858ed43aa_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Rock 'n' Roll
 
@@ -71,7 +77,13 @@ richtige Rubrik dabei, versprochen!
 - [Vegane Produkte](/category/vegan-2/produkte/)
 - [Vegane Rezepte](/category/vegan-2/rezepte/)
 
-![Urlaub | large](http://cardamonchai.com/wp-content/uploads/2017/09/Für-Blog-1-von-1-520x347.jpg)
+<RemoteImage
+  alt="Urlaub"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg"
+  loadingUrl="undefined" />
 
 ### Gesellschaft
 
@@ -84,7 +96,13 @@ richtige Rubrik dabei, versprochen!
 
 ### Unterwegs
 
-![Urlaub | large](http://cardamonchai.com/wp-content/uploads/2017/09/Für-Blog-1-von-1-2-520x347.jpg)
+<RemoteImage
+  alt="Urlaub"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1-2__l.jpg"
+  loadingUrl="undefined" />
 
 <ul>
     <li> [Hamburg](/category/unterwegs/hamburg/) </li>

@@ -56,7 +56,13 @@ schön sauber bleiben.
 
 ## Englischer Rasen und Klassizismus
 
-![jenischpark](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-27-jenisch-park-10-400x533.jpg)
+<RemoteImage
+  alt="jenischpark"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-27-jenisch-park-10__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-27-jenisch-park-10__l.jpg"
+  loadingUrl="undefined" />
 
 Inmitten des Parks am Gipfel eines Hügels, von dem aus man einen fantastischen
 Blick über englischen Rasen auf die Elbe hat, liegt das strahlend weiß getünchte

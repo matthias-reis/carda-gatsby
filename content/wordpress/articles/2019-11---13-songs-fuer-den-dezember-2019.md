@@ -145,7 +145,13 @@ Reise gehen.
 ## Somnambulist - "nêiyawak" vom Album "nipiy"
 Obgleich er aus einem komplett anderen Genre stammt, schmiegt sich dieser Song perfekt an seinen Vorgänger von Amadou &amp; Mariam an. Es lohnt sich also auf jeden Fall, sie hintereinander zu hören. Um das zu tun, müsst Ihr nur in der unten angefügten Playlist bei iTunes oder Spotify auf den Playbutton klicken und schon kann es losgehen.
 
-![somnambulist](http://cardamonchai.com/wp-content/uploads/2019/11/somnambulist-400x400.jpg)
+<RemoteImage
+  alt="somnambulist"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_somnambulist__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_somnambulist__l.jpg"
+  loadingUrl="undefined" />
 
 "Somnambulist" bedeutet auf deutsch übersetzt "Schlafwandler". Der Name passt
 perfekt zum mystischen und düsteren Sound des Projekts von Alustrium und
@@ -194,6 +200,12 @@ aufgenommen.
 
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2019-11-25-die-drei-von-der-bande/pl.u-85b1iXeGBGJ?l=en" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
-![Songs für den Dezember | large](http://cardamonchai.com/wp-content/uploads/2019/11/12-520x780.png)
+<RemoteImage
+  alt="Songs für den Dezember"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_12.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_12.png__l.jpg"
+  loadingUrl="undefined" />
 
   

@@ -56,7 +56,13 @@ subTitle: Nähanleitung
   
 ---
 
-![Meine neuen Körnerkissen](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-44-640x427.jpg "Meine neuen Körnerkissen")
+<RemoteImage
+  alt="Meine neuen Körnerkissen"
+  size="medium"
+  title="Meine neuen Körnerkissen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__l.jpg"
+  loadingUrl="undefined" />
 
 Da kann ein angewärmtes Körnerkissen oft Wunder wirken und mein Hausmittelchen
 möchte ich Euch natürlich nicht vorenthalten. Natürlich müsst Ihr das Kissen
@@ -83,7 +89,13 @@ und riechen einfach unglaublich gut.
 - Schneiderkreide oder Bleistift
 - Schere## Los gehts
 
-![Das braucht Ihr](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-11-640x408.jpg "Das braucht Ihr")
+<RemoteImage
+  alt="Das braucht Ihr"
+  size="medium"
+  title="Das braucht Ihr"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-11__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-11__l.jpg"
+  loadingUrl="undefined" />
 
 Als erstes müsst Ihr Euch überlegen, welche Form Euer Kissen später haben soll.
 Zeichnet die Form auf Euer vorbereitetes Papier. Ich habe einfach mal freihand
@@ -180,6 +192,12 @@ drauflegen.
 - Das Kissen bitte nicht auf Haustiere legen!
 - Den Kisseninhalt bitte nicht mehr zur Zubereitung von Speisen verwenden!
 
-![Die Maße](http://cardamonchai.com/wp-content/uploads/2015/09/Körnerkissen-8-640x427.jpg "[ ](/wp-content/uploads/2015/09/Körnerkissen-8.jpg)  Die Maße")
+<RemoteImage
+  alt="Die Maße"
+  size="medium"
+  title="[ ](/wp-content/uploads/2015/09/Körnerkissen-8.jpg)  Die Maße"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__l.jpg"
+  loadingUrl="undefined" />
 
   

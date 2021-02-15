@@ -27,6 +27,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
+  invalidMdx: "unknown: Unexpected token (7:66)"
 thumbnailId: "15345"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__l.jpg
@@ -35,7 +36,14 @@ subTitle: Winterliche Elbe
   
 ---
 
-![Blankenese](http://cardamonchai.com/wp-content/uploads/2016/11/31047545891_118f076322_z-640x640.jpg '"Unten am Fluss, die Füße im Sand und den Blick auf die gewaltigen Tiere..."')
+## unknown: Unexpected token (7:66)
+
+<!--
+<RemoteImage alt="Blankenese" size="medium" title=""Unten am Fluss, die Füße im
+Sand und den Blick auf die gewaltigen Tiere...""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31047545891_118f076322_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31047545891_118f076322_z__l.jpg"
+loadingUrl="undefined" />
 
 **"Was macht Anne in Blankenese? Ist sie jetzt unter die Reichen und Schönen
 gegangen?" - Ihr müsst mich jetzt nicht stalken, ich gehöre nach wie vor zum
@@ -55,5 +63,7 @@ Ich wünsche Euch viel Spaß mit den Bildern.
 
 [gallery size="large" type="rectangular" link="none"
 ids="15341,15342,15343,15344,15345,15346,15347,15348,15335,15338,15336,15337,15339"]
+
+-->
 
   

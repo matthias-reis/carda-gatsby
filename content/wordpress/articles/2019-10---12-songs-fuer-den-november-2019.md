@@ -236,6 +236,12 @@ Jam, Boris, ...
 
 <iframe src="https://open.spotify.com/embed/playlist/1mMeJKGqzImH7oKZzBj5Cu" width="300" height="380" frameborder="0"></iframe>
 
-![12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin | large](http://cardamonchai.com/wp-content/uploads/2019/10/12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin-520x780.png)
+<RemoteImage
+  alt="12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_12-songs-fuer-den-november-anne-bloggt-cardamonchai-rock-n-roll-vegan-pin.png__l.jpg"
+  loadingUrl="undefined" />
 
   

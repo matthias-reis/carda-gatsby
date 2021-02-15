@@ -50,7 +50,13 @@ Das alte Design mit seinen vielen technischen Spielereien und dem großen Zitat
 im Header hat mir auch sehr gut gefallen. Doch mit neuen Ideen kommt auch
 frischer Style und den möchte ich Euch gerne ab heute bieten.
 
-![Logo](http://cardamonchai.com/wp-content/uploads/2017/08/Logo-grau.png)
+<RemoteImage
+  alt="Logo"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Logo-grau.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Logo-grau.png__l.jpg"
+  loadingUrl="undefined" />
 
 Um meine Seite für Euch übersichtlicher und zugänglicher zu machen, hat sich
 einiges geändert. So gibt es zum Beispiel wieder eine Seitenleiste. Und noch
@@ -78,17 +84,35 @@ In diesem Sinne: Bleibt mir gewogen!
 
 [Hier gehts zur Startseite]()
 
-![Logo | large](http://cardamonchai.com/wp-content/uploads/2017/08/facebook-title-image-2-800x330.png)
+<RemoteImage
+  alt="Logo"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_facebook-title-image-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_facebook-title-image-2.png__l.jpg"
+  loadingUrl="undefined" />
 
 []()
 
 ## Hier als Erinnerung noch mal ein paar Bilder vom alten Auftritt meines Blogs
 
-![Logo | large](http://cardamonchai.com/wp-content/uploads/2017/08/1-800x459.png)
+<RemoteImage
+  alt="Logo"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_1.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Das war meine "Über mich" Seite
 
-![Logo | large](http://cardamonchai.com/wp-content/uploads/2017/08/4-800x831.png)
+<RemoteImage
+  alt="Logo"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_4.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_4.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/cardamonchai-blick-hinter-die-kulissen/)
 

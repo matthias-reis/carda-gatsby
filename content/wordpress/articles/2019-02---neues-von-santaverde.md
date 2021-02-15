@@ -63,7 +63,13 @@ Pure-Reihe, reicht im Anschluss vollkommen aus. Zumindest ist das bei meiner
 
 ## Zertifizierte Naturkosmetik ohne Duftstoffe
 
-![santaverde](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-27-santaverde-pure-2-400x300.jpg)
+<RemoteImage
+  alt="santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-2__l.jpg"
+  loadingUrl="undefined" />
 
 Das **Anti-Pickel-Gel** (Anti-Spot Gel) wirkt antibakteriell und
 entzündungshemmend. Außerdem soll es die Narbenbildung minimieren. Es kann
@@ -89,7 +95,13 @@ frei von Tierversuchen und natürlich vegan.
 
 ## Das steckt drin in den Pure Produkten von Santaverde
 
-![santaverde](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-27-santaverde-pure-7-400x300.jpg)
+<RemoteImage
+  alt="santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-7__l.jpg"
+  loadingUrl="undefined" />
 
 Für die Produkte aus der Pure-Linie von Santaverde werden neben der Grundzutat
 **Aloe Vera** außerdem Stiefmütterchenblütenextrakt und Salicylsäure aus
@@ -132,7 +144,13 @@ empfindlichen Haut empfehlen.
 
 ## Der Duft der Orangen
 
-![](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-27-santaverde-pure-5-400x300.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-27-santaverde-pure-5__l.jpg"
+  loadingUrl="undefined" />
 
 Mit meinem Testpaket habe ich dieses Mal noch etwas erhalten, über das ich mich
 ganz besonders gefreut habe: Das Buch "Der Duft der Orangen oder wie man lernt,

@@ -212,6 +212,12 @@ Hat Euch unsere Liste gefallen? Klasse!
 [Abonniert gerne meinen Newsletter](#newsletter), um in Zukunft auf meiner Seite
 nichts mehr zu verpassen!
 
-![12-songs-pin | large](http://cardamonchai.com/wp-content/uploads/2019/12/12-Songs-Pinterest-2-520x780.png)
+<RemoteImage
+  alt="12-songs-pin"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_12-Songs-Pinterest-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_12-Songs-Pinterest-2.png__l.jpg"
+  loadingUrl="undefined" />
 
   

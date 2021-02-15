@@ -61,7 +61,13 @@ Auf den Spuren der Königsdynastie Vasa begaben wir uns auch ins gleichnamige
 Museum. Nach einer Wartezeit von etwa 15 Minuten bekamen wir die Gelegenheit,
 das einzige verbliebene Schiff aus dieser Zeit zu bewundern.
 
-![Stockholm](http://cardamonchai.com/wp-content/uploads/2018/09/30661713628_7509263380_z-400x300.jpg "Hier wird restauriert")
+<RemoteImage
+  alt="Stockholm"
+  size="medium"
+  title="Hier wird restauriert"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_30661713628_7509263380_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_30661713628_7509263380_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das Museum wurde zu Ehren des restaurierten Wracks errichtet. Dabei wurde der
 sperrige Betonkomplex kurzerhand um die Galeone herumgebaut. Durchläuft man die
@@ -83,7 +89,13 @@ der Arbeit an einzelnen Fragmenten sehen. Das Museum liegt in Ost-Stockholm auf
 der Insel Djurgården (Galärvarvsvägen 14). Der Eintritt ins Museum kostet für
 Erwachsene 13 Euro.
 
-![Stockholm](http://cardamonchai.com/wp-content/uploads/2018/09/29594119257_9300cbf032_z-400x300.jpg "U-Bahnhof in Stockholm")
+<RemoteImage
+  alt="Stockholm"
+  size="medium"
+  title="U-Bahnhof in Stockholm"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29594119257_9300cbf032_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29594119257_9300cbf032_z__l.jpg"
+  loadingUrl="undefined" />
 
 Genau, wie in vielen anderen Europäischen Städten, wie beispielsweise Amsterdam
 oder Kopenhagen, gibt es auch in Stockholm die Möglichkeit, die Stadt vom Boot
@@ -104,7 +116,13 @@ zuverlässig alle paar Minuten und sind sauber und klimatisiert. Auch fürs Auge
 ist einiges geboten. Einige der in den Fels geschlagenen unterirdischen Bahnhöfe
 wurden von Künstler\*innen liebevoll gestaltet.
 
-![Stockholm](http://cardamonchai.com/wp-content/uploads/2018/09/42722750290_f0aa8a91ea_z-400x300.jpg "Wir kommen wieder!")
+<RemoteImage
+  alt="Stockholm"
+  size="medium"
+  title="Wir kommen wieder!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42722750290_f0aa8a91ea_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42722750290_f0aa8a91ea_z__l.jpg"
+  loadingUrl="undefined" />
 
 Besonders berühmt für ihre schönen Haltestellen ist die sogenannte "Blaue Linie"
 (Blå linjen). Es lohnt sich, entlang der 25,51 Kilometer langen Strecke immer
@@ -126,7 +144,13 @@ kehrten wir zum Mittagessen in einem ganz wunderbaren Lokal ein. Leider habe ich
 das Essen nicht fotografiert, ich war leider einfach zu hungrig. Dennoch möchte
 ich es Euch an dieser Stelle wärmstens empfehlen.
 
-![Stockholm](http://cardamonchai.com/wp-content/uploads/2018/09/44481859082_634bf4c8de_z-400x300.jpg "Boot im Hafen von Stockholm")
+<RemoteImage
+  alt="Stockholm"
+  size="medium"
+  title="Boot im Hafen von Stockholm"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44481859082_634bf4c8de_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44481859082_634bf4c8de_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das "Hermans" wird unter dem Motto "Give Peas A Chance" betrieben. Zwischen 11
 und 15 Uhr gibt es hier veganes Buffet satt für rund 14 Euro. Wer noch einen

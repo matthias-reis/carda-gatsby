@@ -102,7 +102,13 @@ subTitle: Wir sind auch dabei!
   
 ---
 
-![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/02/Dunk-1-von-5-640x400.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-1-von-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-1-von-5__l.jpg"
+  loadingUrl="undefined" />
 
 **Das _Dunk!festival_ 2017 rückt  näher und wir sind auch dabei! Das Post-Rock
 Festival findet in Belgien und in Vermont statt. Wir haben uns für die Belgische
@@ -126,7 +132,13 @@ FOR SOUND, LOST IN KIEV, KOKOMO, TERRAFORMER, SKY ARCHITECTS und STORIES FROM
 THE LOST zu Hause. Außerdem gibt es einen Online-Plattenladen mit allen
 Lieblingsbands der Dunk!-Truppe.
 
-![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/02/Dunk-2-von-5-640x400.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-2-von-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-2-von-5__l.jpg"
+  loadingUrl="undefined" />
 
 Darunter sind auch einige Lieblinge aus meiner Plattenkiste zu finden. Um nur
 einige von ihnen zu nennen: BARONESS,
@@ -144,7 +156,13 @@ es noch zwei weitere Bühnen.
 
 ## Dunk!festival - Die Kulinarik
 
-![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/02/Dunk-4-von-5-640x400.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-4-von-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-4-von-5__l.jpg"
+  loadingUrl="undefined" />
 
 An den Essständen erwarten uns typisch Belgische Spezialitäten sowie exotische
 Gerichte wie Paella und Co. Auf der Festival-Homepage werden außerdem besonders
@@ -159,7 +177,13 @@ sich während des gesamten Festivals kostenlosen Kaffee holen.
 
 ## Dunk!festival - Das Lineup
 
-![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/02/Dunk-3-von-5-640x640.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-3-von-5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Dunk-3-von-5__l.jpg"
+  loadingUrl="undefined" />
 
 Jetzt gehts ans Eingemachte. Das Spannendste am ganzen Festival ist natürlich
 das Line-up. 2017 treten auf:

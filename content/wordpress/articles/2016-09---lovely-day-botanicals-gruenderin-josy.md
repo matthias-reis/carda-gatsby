@@ -40,7 +40,13 @@ subTitle: „Don't be Eye Candy, be Soul Food“
   
 ---
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/hibiskusboom_1024x1024-640x640.png)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_hibiskusboom_1024x1024.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_hibiskusboom_1024x1024.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Josy von Lovely Day Botanicals aus Berlin ist eine ganz besondere Frau. Sie
 stellt ihre eigene Kosmetik her und lässt sich dabei nicht reinreden. Sie setzt
@@ -63,7 +69,13 @@ gemacht?
 
 ## Lovely Day Botanicals bekommt ein eigenes Studio
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/lovely-day-botanicals-skincare-berlin-08-1280x853-640x427.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2016/09/lovely-day-botanicals-skincare-berlin-08-1280x853-640x427.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2016/09/lovely-day-botanicals-skincare-berlin-08-1280x853-640x427.jpg"
+  loadingUrl="undefined" />
 
 **Josy:** Mir geht es super liebe Anne, ich bin gerade frisch aus dem Surfurlaub
 in Portugal zurück und fühle mich gut erholt. Ich habe seit ein paar Tagen
@@ -90,7 +102,13 @@ Kommst Du aus der Branche?
 
 ## "Ich habe schon als Teenie Naturkosmetik hergestellt"
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/eukalyptus_1024x1024-640x427.png)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_eukalyptus_1024x1024.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_eukalyptus_1024x1024.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Josy:**  Eigentlich gar nicht. Ich mache aber hobbymäßig schon seit dem
 Teeniealter Naturkosmetik. Irgendwann habe ich dann angefangen, die Sachen auch
@@ -112,7 +130,13 @@ Somit sieht man quasi sofort etwas glatt gebügelter aus (lacht).
 
 ## Veganes Hyaluron ist das Besondere
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/eveningsun_1024x1024-640x522.png)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_eveningsun_1024x1024.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_eveningsun_1024x1024.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Normalerweise ist Hyalorn nicht vegan? Wie wird es denn hergestellt?
 
@@ -135,7 +159,13 @@ Webseite. Ansonsten mache ich bei Lovely Day Botanicals alles im Alleingang.
 
 ## "Vegane Kosmetik ist leider immer noch eine Nische"
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/toniparfum_1024x1024-640x466.png)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_toniparfum_1024x1024.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_toniparfum_1024x1024.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Ist es leichter, konventionelle Kosmetik herzustellen, als vegane,
 oder ist das bei den vielen Herstellern, die noch kein veganes Sortiment
@@ -163,7 +193,13 @@ Zukunftsmusik?
 
 ## Viele kaufen nach wie vor lieber Hype-Produkte
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/lovely-day-botanicals-skincare-berlin-02-640x427.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_lovely-day-botanicals-skincare-berlin-02__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_lovely-day-botanicals-skincare-berlin-02__l.jpg"
+  loadingUrl="undefined" />
 
 **Josy:** Wie schon gerade beschrieben, kann ich mir das nicht vorstellen. Dafür
 müssten einfach noch viel mehr Kunden dahingehend ein Zeichen setzen. Die
@@ -191,7 +227,13 @@ Leute zeigen, dass sie nicht damit einverstanden sind, um so besser.
 
 ## "Ich teste meine Produkte an mir"
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/hautpflege-lovely-day-botanicals-640x336.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_hautpflege-lovely-day-botanicals__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_hautpflege-lovely-day-botanicals__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie werden Deine Produkte getestet?
 
@@ -223,7 +265,13 @@ filtriert und abgefüllt.
 
 ## Mit zehn wurde ich Vegetarierin
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/1629d248053b3bb1261ce5e53af829d3.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_1629d248053b3bb1261ce5e53af829d3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_1629d248053b3bb1261ce5e53af829d3__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie lange lebst Du selbst denn schon vegan? Wie kam es zu Deiner
 Umstellung?
@@ -269,7 +317,13 @@ vegane Alternativen.
 
 ## Bald gibt es neue Produkte aus dem Hause Lovely Day Botanicals
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/hyluron-bloom-toner-maske-lovely-day-botanicals-PHA-Skincare-Natural-Naturkosmetik-ShadesofIvory-2-640x427.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_hyluron-bloom-toner-maske-lovely-day-botanicals-PHA-Skincare-Natural-Naturkosmetik-ShadesofIvory-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_hyluron-bloom-toner-maske-lovely-day-botanicals-PHA-Skincare-Natural-Naturkosmetik-ShadesofIvory-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Arbeitest Du derzeit an neuen Produkten? Gibt es vielleicht schon
 konkrete Pläne? Möchtest Du dazu schon etwas verraten?
@@ -288,7 +342,13 @@ soll die Haut gesund pflegen.
 
 ## Die Haut gesund pflegen
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/vegan-beauty-basket-3-640x424.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_vegan-beauty-basket-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_vegan-beauty-basket-3__l.jpg"
+  loadingUrl="undefined" />
 
 Viele Produkte für fettige Haut entziehen der Haut zum Beispiel vorübergehend
 Fett, dann reagiert die Haut aus "Trotz" damit, noch mehr Fett zu produzieren.
@@ -309,7 +369,13 @@ sie für Allergiker irrelevant sind.
 
 ## Lovely Day Botanicals gibt es seit Februar 2016
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/hyluron-bloom-toner-lovely-day-botanicals-PHA-Skincare-Natural-Naturkosmetik-ShadesofIvory-640x960.jpg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_hyluron-bloom-toner-lovely-day-botanicals-PHA-Skincare-Natural-Naturkosmetik-ShadesofIvory__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_hyluron-bloom-toner-lovely-day-botanicals-PHA-Skincare-Natural-Naturkosmetik-ShadesofIvory__l.jpg"
+  loadingUrl="undefined" />
 
 **Josy:** Seit Februar 2016.
 
@@ -339,7 +405,13 @@ gerne auf Konzerte? Wenn ja, was war Dein letztes?
 
 ## Auch Josy liebt Explosions In The Sky
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/rettung-fur-unreine-haut-lovely-day-botanical-L-JEvGim.jpeg)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_rettung-fur-unreine-haut-lovely-day-botanical-L-JEvGim.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_rettung-fur-unreine-haut-lovely-day-botanical-L-JEvGim.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Josy:** Ja total, in letzter Zeit aber viel zu selten leider. Das letzte Mal
 war ich bei Explosions in the Sky, das war irgendwann im frühen Sommer.
@@ -372,7 +444,13 @@ glaube das wird mich ziemlich anspornen das Geschäft weiter voranzutreiben.
 
 ## "Reizarme Kosmetik ist die Zukunft"
 
-![Lovely Day Botanicals](http://cardamonchai.com/wp-content/uploads/2016/09/rescuewebneuneuneu_grande.png)
+<RemoteImage
+  alt="Lovely Day Botanicals"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_rescuewebneuneuneu_grande.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_rescuewebneuneuneu_grande.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Was wird der Schönheits-Trend für die nächsten Jahre?
 

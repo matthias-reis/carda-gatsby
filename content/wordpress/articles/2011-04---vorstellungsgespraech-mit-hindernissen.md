@@ -57,7 +57,13 @@ Deinen Lieblingsplatz im Café und stehen morgens, wenn Du verschlafen aus der
 Tür kommst vor Deinem Haus, um dieses baufällige, denkmalgeschütze Gebäude zu
 fotografieren.
 
-![Überall liegt Rollsplit](http://cardamonchai.com/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o-640x640.jpg "[ ](/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o.jpg)  Überall liegt Rollsplit")
+<RemoteImage
+  alt="Überall liegt Rollsplit"
+  size="medium"
+  title="[ ](/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o.jpg)  Überall liegt Rollsplit"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o-640x640.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2011/04/16282996591_cd8d21c6a1_o-640x640.jpg"
+  loadingUrl="undefined" />
 
 Wieder mal bist Du viel zu früh am Bahnhof. Noch eine Viertelstunde, bis der Zug
 kommt, aber Du hattest ja mal wieder Angst, zu spät zu kommen. Man muss sich ja

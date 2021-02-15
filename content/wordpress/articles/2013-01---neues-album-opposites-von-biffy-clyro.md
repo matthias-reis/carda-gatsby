@@ -48,7 +48,13 @@ fünf. Mit Sternchen.
 
 ♥♥♥♥♥☆
 
-![IMG_2996 | full](http://cardamonchai.files.wordpress.com/2013/01/img_2996.jpg)
+<RemoteImage
+  alt="IMG_2996"
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/01/img_2996.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/01/img_2996.jpg"
+  loadingUrl="undefined" />
 
 ## Hier sind für Euch [Biffy Clyro](http://www.biffyclyro.com) mit Black Chandelier:
 

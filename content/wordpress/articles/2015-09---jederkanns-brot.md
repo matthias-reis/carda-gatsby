@@ -29,7 +29,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (25:10)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (37:10)"
 thumbnailId: "12523"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0343__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0343__l.jpg
@@ -38,10 +38,16 @@ subTitle: Einfaches veganes Vollkornbrot
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (25:10)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (37:10)
 
 <!--
-![Veganes Vollkornbrot aus meinem Ofen](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0345-640x640.jpg "Veganes Vollkornbrot aus meinem Ofen")
+<RemoteImage
+  alt="Veganes Vollkornbrot aus meinem Ofen"
+  size="medium"
+  title="Veganes Vollkornbrot aus meinem Ofen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0345__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0345__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute Abend gibt es bei uns Zucchinisuppe. Als Beilage habe ich mir ein
 kleines Vollkornbrot ausgedacht, das Ihr ganz schnell nachbacken könnt. Ich habe
@@ -56,7 +62,13 @@ Brotform)
 - Ofen
 - Lust auf ein leckeres Vollkornbrot## Zutaten<ul><li>
 
-![Alles gut vermischen](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0338-640x640.jpg "Alles gut vermischen")
+<RemoteImage
+  alt="Alles gut vermischen"
+  size="medium"
+  title="Alles gut vermischen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0338__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0338__l.jpg"
+  loadingUrl="undefined" />
 
 500 g Vollkornmehl (Ich habe mit meiner Kornmühle 400 g Roggenmehl und 100 g
 Buchweizenmehl hergestellt und beide Sorten gemischt, die Spelzen habe ich im
@@ -75,7 +87,13 @@ zusammenhängende Masse ergeben hat. Der Teig sollte ein Bisschen klebrig
 bleiben, ist das nicht der Fall, könnt Ihr ruhig noch ein paar Tropfen Wasser
 hinzugeben.
 
-![In die Form geben](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0339-640x640.jpg "In die Form geben")
+<RemoteImage
+  alt="In die Form geben"
+  size="medium"
+  title="In die Form geben"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0339__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0339__l.jpg"
+  loadingUrl="undefined" />
 
 Die Masse in die bereits eingefettete, hitzebeständige Form geben und 20 Minuten
 bei 50 Grad im Ofen gehen lassen. Nach Ablauf der Zeit die Temperatur auf 180

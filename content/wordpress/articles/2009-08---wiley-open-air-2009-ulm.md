@@ -41,7 +41,13 @@ sogar mit einigen bayerischen Texten. Mit einer fröhlichen Mischung aus
 deutschem Heavy-Rock und Ska sorgten sie für Stimmung. Der Fanclub der Band, war
 eigens mit einem Bus angereist.
 
-![Wiley Open Air](http://cardamonchai.com/wp-content/uploads/2009/08/9914371534_6e3a029102_z-640x523.jpg "Wiley Open Air")
+<RemoteImage
+  alt="Wiley Open Air"
+  size="medium"
+  title="Wiley Open Air"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914371534_6e3a029102_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914371534_6e3a029102_z__l.jpg"
+  loadingUrl="undefined" />
 
 Im Anschluss spielten dann die MAD CADDIES aus Solvang/Califonien. Ihre perfekte
 Fusion aus Ska-Punk mit Jazz- und Dixie-Elementen und Pop und Hardcore Punk

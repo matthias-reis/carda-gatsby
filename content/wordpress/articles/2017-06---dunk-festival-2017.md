@@ -65,7 +65,13 @@ subTitle: Liebe auf den ersten Blick
   
 ---
 
-![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/06/34984055891_3adae7c598_k-640x480.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984055891_3adae7c598_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984055891_3adae7c598_k__l.jpg"
+  loadingUrl="undefined" />
 
 **Schon ewig liege ich Euch mit dem
 [Dunk!festival](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) in den Ohren.
@@ -99,7 +105,13 @@ Bisschen befangen bin.
 
 ## Von Mooncake bis And So I Watch You From Afar
 
-![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/06/34984028381_15860917b1_k-640x426.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__l.jpg"
+  loadingUrl="undefined" />
 
 Dicht auf den Fersen sind der russischen Band, die sich nach einem chinesischen
 Gebäck benannt hat, AND SO I WATCH YOU FROM AFAR, ARMS AND SLEEPERS, PG.LOST,

@@ -39,7 +39,13 @@ Auf der Suche nach veganen Schuhen stellten die beiden immer wieder fest, dass
 immer irgendeine Komponente nicht passte. Entweder stammten die Schuhe aus dem
 Sweatshop oder sie waren aus Leder. Irgendwie haute das nie ganz hin.
 
-![freivon](http://cardamonchai.com/wp-content/uploads/2019/07/rot-400x533.jpeg)
+<RemoteImage
+  alt="freivon"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_rot.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_rot.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 Sie kamen auf die Idee, einen eigenen Schuh herzustellen. Vegan und
 umweltfreundlich sollte er sein und natürlich auch noch fair. Sie machten sich
@@ -81,7 +87,13 @@ Bericht über die Tötung von Küken gesehen habe, ich fand das alles völlig
 pervers. Das ist jetzt ziemlich genau vier Jahre her, der Rest kam nach und
 nach.
 
-![freivon](http://cardamonchai.com/wp-content/uploads/2019/07/sarah_mit_schuh-400x533.jpeg)
+<RemoteImage
+  alt="freivon"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sarah_mit_schuh.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_sarah_mit_schuh.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Sarah:** Ich wurde von der Fleischesserin direkt zur Veganerin. Um die selbe
 Zeit habe ich auch noch aufgehört zu rauchen. Das war nicht einfach (lacht).
@@ -165,7 +177,13 @@ Materialien in aller Ausführlichkeit auf unserer Homepage offen dar.
 
 ## Im Moment läuft noch alles über Startnext **Anne:** Euer erster Schuh ist ja bereits fertig, Sarah, Du hast ihn an, es handelt sich um ein wirklich hübsches Damenmodell. Kann man es schon käuflich erwerben?
 
-![freivon](http://cardamonchai.com/wp-content/uploads/2019/07/profil-400x300.jpeg)
+<RemoteImage
+  alt="freivon"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_profil.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_profil.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Sarah:** Nein, wir sind damit noch nicht in die Produktion gegangen. Im Moment
 machen wir die Crowdfunding- Kampagne bei Startnext, um damit die Herstellung zu
@@ -216,7 +234,13 @@ Nur wir beide.
 **Anne:** Derzeit habt ihr sicher sehr viel mit FreiVon zu tun. Mit was
 beschäftigt ihr euch sonst noch so? Wie verbringt ihr eure Freizeit?
 
-![freivon](http://cardamonchai.com/wp-content/uploads/2019/07/paul_mit_schuh-400x533.jpeg)
+<RemoteImage
+  alt="freivon"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_paul_mit_schuh.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_paul_mit_schuh.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 ## "Wir trinken gerne Tee!" **Sarah:** Wir sind leider relativ langweilig. Gerade im Winter sind wir gerne zu Hause, trinken Tee und schauen uns Reportagen und Filme an. Eher unspektakulär, also.
 

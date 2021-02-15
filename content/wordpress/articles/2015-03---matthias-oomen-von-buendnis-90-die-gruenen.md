@@ -40,7 +40,13 @@ subTitle: '"Obdachlose wie Menschen behandeln!"'
   
 ---
 
-![Matthias Oomen - Politiker aus Berlin](http://cardamonchai.com/wp-content/uploads/2015/03/11012011557-640x480.jpg "Matthias Oomen - Politiker aus Berlin")
+<RemoteImage
+  alt="Matthias Oomen - Politiker aus Berlin"
+  size="medium"
+  title="Matthias Oomen - Politiker aus Berlin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_11012011557__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_11012011557__l.jpg"
+  loadingUrl="undefined" />
 
 **Matthias Oomen lebt in Berlin-Wilmersdorf zwischen der Pariser Straße und dem
 Kurfürstendamm. Der aus Ettenheim in Baden-Württemberg stammende Nichtschwabe
@@ -81,7 +87,13 @@ man uns Badener als Schwaben bezeichnet, ist das in etwa so, als ob man Franken
 Bayern schimpft. In Berlin passiert mir das ständig, deshalb baue ich schon
 gleich mal vor. (lacht)
 
-![Berlin - Heimat von Matthias Oomen](http://cardamonchai.com/wp-content/uploads/2015/03/14214740646_0f53e5d1fd_z-640x480.jpg "Berlin - Heimat von Matthias Oomen")
+<RemoteImage
+  alt="Berlin - Heimat von Matthias Oomen"
+  size="medium"
+  title="Berlin - Heimat von Matthias Oomen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14214740646_0f53e5d1fd_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14214740646_0f53e5d1fd_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Du fühlst dich ja in Berlin sehr wohl, bist dort angekommen, es ist
 deine Heimat. Hat das lange gedauert, bis es dir so ging? Wie lange lebst du
@@ -144,7 +156,13 @@ Gleichzeitig ist es wichtig, gerade bei frostigen Temperaturen nicht wegzusehen,
 wenn Menschen im Freien übernachten müssen. Hier droht Lebensgefahr, man sollte
 unbedingt einen Notruf absetzen.
 
-![Obdachlosigkeit ist heute allgegenwärtig](http://cardamonchai.com/wp-content/uploads/2015/03/30032011791-640x480.jpg "Obdachlosigkeit ist heute allgegenwärtig")
+<RemoteImage
+  alt="Obdachlosigkeit ist heute allgegenwärtig"
+  size="medium"
+  title="Obdachlosigkeit ist heute allgegenwärtig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_30032011791__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_30032011791__l.jpg"
+  loadingUrl="undefined" />
 
 In jeder Stadt gibt es diverse Obdachlosenhilfen, wie etwa die Stadtmissionen
 oder die Bahnhofsmissionen. Diese freuen sich nicht nur über Sachspenden – wie
@@ -209,7 +227,13 @@ geplaudert. Wenn du ein Interessenmagazin gründen würdest, das nur ein
 bestimmtes Thema behandelt, welches der vorhin genannten würdest du dir
 herausgreifen?
 
-![Das Brandenburger Tor in Berlin](http://cardamonchai.com/wp-content/uploads/2015/03/14235215002_e11b7d247f_z-640x480.jpg "Das Brandenburger Tor in Berlin")
+<RemoteImage
+  alt="Das Brandenburger Tor in Berlin"
+  size="medium"
+  title="Das Brandenburger Tor in Berlin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Matthias:** Eine Fachzeitung zur ökosozialen Stadtentwicklung. Eine solche
 Zeitschrift, die sich streng am Machbaren orientiert und gleichzeitig eben nicht

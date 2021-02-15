@@ -42,7 +42,13 @@ subTitle: Kurze Auszeit
 [DUNK!festival 2018](/2018/04/dunkfest-2018-wir-kommen/) machen. Für den Blog
 bedeutet das eine kurze Auszeit.**
 
-![Dunk!festival](http://cardamonchai.com/wp-content/uploads/2017/06/34984028381_15860917b1_k-640x426.jpg)
+<RemoteImage
+  alt="Dunk!festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__l.jpg"
+  loadingUrl="undefined" />
 
 Seid Ihr auch so glücklich, dass der Sommer endlich da ist? Das schöne Wetter
 bringt ein paar wundervolle Aktivitäten mit sich, auf die wir über den Winter

@@ -55,7 +55,13 @@ finde, erscheint er heute frisch aktualisiert auf meinem Blog.
 Bodensees. Der Name Herzblut** **Instruments ist Programm. Gründer Gernot Wegele
 steckt Herzblut in seine Arbeit und das sieht man auch.**
 
-![vegane-musikinstrumente](http://cardamonchai.com/wp-content/uploads/2019/07/Custom-Light-400x353.jpg "Custom Light von Herzblut Instruments")
+<RemoteImage
+  alt="vegane-musikinstrumente"
+  size="medium"
+  title="Custom Light von Herzblut Instruments"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Custom-Light__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Custom-Light__l.jpg"
+  loadingUrl="undefined" />
 
 Alle Instrumente werden in sorgfältiger Handarbeit hergestellt und sind
 obendrein auch noch tierleidfrei. Gefertigt wird auf Bestellung, nach der
@@ -82,7 +88,13 @@ herausragendes Talent und seine vorangehende Ausbildung zum Werkzeugmacher
 machte er dabei sehr schnell Fortschritte. 2013 kam es dann zur Gründung von
 Herzblut Instruments.
 
-![vegane-musikinstrumente](http://cardamonchai.com/wp-content/uploads/2019/07/Gernot-als-Kind-400x218.png)
+<RemoteImage
+  alt="vegane-musikinstrumente"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Gernot-als-Kind.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Gernot-als-Kind.png__l.jpg"
+  loadingUrl="undefined" />
 
 Gernot hat sein Hobby zum Beruf gemacht und dabei seine Berufung gefunden. In
 diversen Fachzeitschriften bekommen seine Instrumente immer wieder positive

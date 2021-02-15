@@ -39,7 +39,13 @@ subTitle: Wir haben den Hockenheimring gerockt
   
 ---
 
-![Wir haben den Hockenheimring gerockt](http://cardamonchai.com/wp-content/uploads/2015/08/20922701385_03b978826e_z.jpg "Wir haben den Hockenheimring gerockt")
+<RemoteImage
+  alt="Wir haben den Hockenheimring gerockt"
+  size="medium"
+  title="Wir haben den Hockenheimring gerockt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20922701385_03b978826e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20922701385_03b978826e_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Wie schon kurz berichtet, habe ich vor Kurzem bei einem Seat-Gewinnspiel
 Tickets für das Rock'n'Heim 2015 gewonnen.**

@@ -58,7 +58,13 @@ Blogs verlinkt, aufgeklärt, informiert und zum Spenden animiert.
 
 ## Unterstützt auch Ihr #BloggerfuerFluechtlinge
 
-![Flüchtlingen helfen](http://cardamonchai.com/wp-content/uploads/2015/09/20540844673_5164aac8fe_o1.jpg "Flüchtlingen helfen")
+<RemoteImage
+  alt="Flüchtlingen helfen"
+  size="medium"
+  title="Flüchtlingen helfen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_20540844673_5164aac8fe_o1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_20540844673_5164aac8fe_o1__l.jpg"
+  loadingUrl="undefined" />
 
 Auch Ihr könnt **#BloggerfuerFluechtlinge** <sup> [5](#5) </sup>ganz einfach
 unterstützen. Dazu müsst Ihr Euch nur als Blogger auf der Seite von
@@ -87,9 +93,21 @@ Tage: Jeder ist willkommen und kann einen Beitrag leisten. Das gilt natürlich
 auch für alle anderen Städte und Gemeinden, für Kleiderkammern, Bahnhöfe und
 Unterkünfte. #refugeeswelcome!
 
-![#BloggerfuerFluechtlinge | large](http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg "[ ](/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-e1442239162466.jpg)  #BloggerfuerFluechtlinge")
+<RemoteImage
+  alt="#BloggerfuerFluechtlinge"
+  size="large"
+  title="[ ](/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-e1442239162466.jpg)  #BloggerfuerFluechtlinge"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2015/09/11144488_10207688042865199_8063703920232044845_n-800x296.jpg"
+  loadingUrl="undefined" />
 
-![#BloggerfuerFluechtlinge - Jetzt spenden! | full](http://cardamonchai.com/wp-content/uploads/2015/09/Bildschirmfoto-2015-09-14-um-15.42.29.png "[ ](/wp-content/uploads/2015/09/Bildschirmfoto-2015-09-14-um-15.42.29.png)  #BloggerfuerFluechtlinge - Jetzt spenden!")
+<RemoteImage
+  alt="#BloggerfuerFluechtlinge - Jetzt spenden!"
+  size="full"
+  title="[ ](/wp-content/uploads/2015/09/Bildschirmfoto-2015-09-14-um-15.42.29.png)  #BloggerfuerFluechtlinge - Jetzt spenden!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bildschirmfoto-2015-09-14-um-15.42.29.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bildschirmfoto-2015-09-14-um-15.42.29.png__l.jpg"
+  loadingUrl="undefined" />
 
 &nbsp;
 

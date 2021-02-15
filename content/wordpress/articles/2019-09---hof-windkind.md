@@ -62,7 +62,13 @@ Laub, Gras, Kräuter und Stroh reichen völlig aus, um diesen Job zu erledigen.
 Und wo keine "Nutztiere" sind, müssen auch keine Exkremente entsorgt werden. Das
 ist nicht nur gut für das Grundwasser.
 
-![hof-windkind-walnuesse](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-19-hof-windkind-walnuesse-4-400x300.jpg)
+<RemoteImage
+  alt="hof-windkind-walnuesse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-4__l.jpg"
+  loadingUrl="undefined" />
 
 Mit ihrem Walnussanbau unterstützen die beiden Veganer\*innen soziale Projekt
 und pflegen langfristige Partnerschaften mit verschiedenen Organisationen. Der
@@ -95,7 +101,13 @@ und Schulen übergeben.
 
 ## Ich möchte Baumpate\*in werden. Was muss ich tun?
 
-![hof-windkind-walnuesse](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-19-hof-windkind-walnuesse-3-400x300.jpg)
+<RemoteImage
+  alt="hof-windkind-walnuesse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-3__l.jpg"
+  loadingUrl="undefined" />
 
 Wer Baumpate wird, unterstützt Silvia und David dabei, dass aus einem kleinen
 Walnussbäumchen ein stattlicher Baum werden kann. Dem Baum, den man adoptiert,
@@ -123,7 +135,13 @@ Kilo kerngesunde, leckere Walnüsse!
 
 ## Walnüsse sind gesund!
 
-![hof-windkind-walnuesse](http://cardamonchai.com/wp-content/uploads/2019/09/2019-09-19-hof-windkind-walnuesse-2-400x300.jpg)
+<RemoteImage
+  alt="hof-windkind-walnuesse"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-2__l.jpg"
+  loadingUrl="undefined" />
 
 In regelmäßigen Abständen gibt es Besucherführungen auf Hof Windkind. Die
 Termine werden auf der Windkind Hompage angekündigt. Dort kann man unter anderem

@@ -67,7 +67,13 @@ Hamburger Agentur PMA.
 
 ## "Lieber nackt als im Pelz" ist ein voller Erfolg
 
-![lieber-nackt-als-im-pelz](http://cardamonchai.com/wp-content/uploads/2019/09/naomi-Models-rather-go-naked_A3_300-400x266.jpg "Originalplakat von 1994. Emma Sjöberg, Tatjana Patitz, Heather Stewart-Whyte, Fabienne Terwinghe und Naomi Campbell (von links nach rechts) zogen sich für das Wohl der Tiere aus. / © Patrick Demarchelier für PETA")
+<RemoteImage
+  alt="lieber-nackt-als-im-pelz"
+  size="medium"
+  title="Originalplakat von 1994. Emma Sjöberg, Tatjana Patitz, Heather Stewart-Whyte, Fabienne Terwinghe und Naomi Campbell (von links nach rechts) zogen sich für das Wohl der Tiere aus. / © Patrick Demarchelier für PETA"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_naomi-Models-rather-go-naked_A3_300__l.jpg"
+  loadingUrl="undefined" />
 
 In den 25 Jahren, die seit der spektakulären PETA Kampagne vergangen sind, hat
 sich einiges getan. Die Aufklärungsarbeit der Aktivisten hat dafür gesorgt, dass
@@ -106,7 +112,13 @@ d’Asie, Bio-Wolf, Corsac Fox und Gaewolf stehen für Hundefell und Hundeleder.
 
 ## Auch Wolle und Leder sind nicht frei von Tierleid
 
-![lieber-nackt-als-im-pelz](http://cardamonchai.com/wp-content/uploads/2019/09/PETA-Lieber-nackt-als-im-Pelz-Models-25jahre-Ansicht-2019-03__-400x266.jpg "Kampagne 2019. Emily Lucia Harnack, Svenja Holtmann, Lara Koch, Roxi Heltriegel und Kathie Lam (von links nach rechts) machen sich gegen Tierleid stark. / © Nela König für PETA")
+<RemoteImage
+  alt="lieber-nackt-als-im-pelz"
+  size="medium"
+  title="Kampagne 2019. Emily Lucia Harnack, Svenja Holtmann, Lara Koch, Roxi Heltriegel und Kathie Lam (von links nach rechts) machen sich gegen Tierleid stark. / © Nela König für PETA"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_PETA-Lieber-nackt-als-im-Pelz-Models-25jahre-Ansicht-2019-03____m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_PETA-Lieber-nackt-als-im-Pelz-Models-25jahre-Ansicht-2019-03____l.jpg"
+  loadingUrl="undefined" />
 
 Vom Pelz einmal abgesehen: Natürlich handelt es sich auch bei Leder um die Haut
 von Tieren. Dabei handelt es sich übrigens nicht, wie häufig behauptet wird, um

@@ -60,7 +60,13 @@ keine Verletzungen davontrug.
 
 ## Ein gefährlicher Sprung in die Freiheit
 
-![Frederik kann sich jetzt entspannen.](http://cardamonchai.com/wp-content/uploads/2019/08/frederik-gaehnt-400x247.jpg)
+<RemoteImage
+  alt="Frederik kann sich jetzt entspannen."
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_frederik-gaehnt__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_frederik-gaehnt__l.jpg"
+  loadingUrl="undefined" />
 
 Eine Frau, die mit ihrem Auto hinter dem Transporter fuhr, nahm die nächste
 Ausfahrt und machte sich gemeinsam mit der Polizei auf die Suche nach dem
@@ -96,7 +102,13 @@ Aus diesem Grund habe ich heute auch eine Tierpatenschaft für Frederik
 gut geht. Wer weiß: Vielleicht kann ich ihn ja sogar eines Tages mal besuchen.
 Ich würde mich sehr freuen, ihn persönlich kennenzulernen.
 
-![Frederik ist jetzt mein Pate | full](http://cardamonchai.com/wp-content/uploads/2019/08/Bildschirmfoto-2019-08-13-um-10.20.30.png)
+<RemoteImage
+  alt="Frederik ist jetzt mein Pate"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-13-um-10.20.30.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Bildschirmfoto-2019-08-13-um-10.20.30.png__l.jpg"
+  loadingUrl="undefined" />
 
 Wer auch Interesse an einer Patenschaft hat, findet auf der Seite von Hof
 Butenland noch viele weitere Tiere mit ähnlichen Schicksalen. Auf dem Hof können

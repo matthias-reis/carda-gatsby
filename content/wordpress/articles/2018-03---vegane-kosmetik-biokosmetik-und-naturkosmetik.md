@@ -43,7 +43,13 @@ das ziemlich cool. Aber irgendwie bringt es mich auch ein Bisschen
 durcheinander. Kannst Du mir vielleicht mal erklären, wo da jetzt die
 Unterschiede liegen?"**
 
-![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14149909077_0d3e6f8a10_z-400x267.jpg)
+<RemoteImage
+  alt="vegane Kosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14149909077_0d3e6f8a10_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14149909077_0d3e6f8a10_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das wurde ich vor Kurzem gefragt. Eigentlich muss ich dem Fragesteller recht
 geben. Was ich da für so selbstverständlich halte, ist es in Wirklichkeit gar
@@ -59,7 +65,13 @@ kann man sich nicht mehr nur über das Internet (z. B.
 damit eindecken. Man findet sie im Drogeriemarkt, in der Apotheke nebenan und
 sogar im Supermarkt. Überall sind plötzlich Veganlogos und Veganblumen zu sehen.
 
-![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14598683580_0f1b452d5a_z-400x300.jpg)
+<RemoteImage
+  alt="vegane Kosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14598683580_0f1b452d5a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14598683580_0f1b452d5a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Doch das bedeutet nicht immer auch, dass es sich um Naturkosmetik handelt und
 umgekehrt ist das genau so. Naturkosmetik kann auch durchaus nicht vegane
@@ -85,7 +97,13 @@ Unterschiede?
 
 ## Stichwort "Abstufungen"
 
-![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14313236626_d7bfbcab1e_z-400x267.jpg)
+<RemoteImage
+  alt="vegane Kosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14313236626_d7bfbcab1e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14313236626_d7bfbcab1e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gesetzlich sind die Begriffe "Naturkosmetik", "Biokosmetik" und "vegane
 Kosmetik" bislang nicht geschützt. Als Verbraucher sollte man daher bewusst auf
@@ -107,7 +125,13 @@ die der Hersteller selbst das Wort "vegan" aufdrucken lässt.
 
 ## Stichwort "Tierversuche"
 
-![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/lab-217043_640-400x264.jpg)
+<RemoteImage
+  alt="vegane Kosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_lab-217043_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_lab-217043_640__l.jpg"
+  loadingUrl="undefined" />
 
 Das schließt nicht aus, dass für die Konzerne oder die Entwicklung der Produkte
 sowie die Rohstoffe Tierversuche gemacht werden. Diese sind zwar in Deutschland
@@ -126,7 +150,13 @@ Segment in ihr Sortiment auf.
 
 ## Stichwort "Werbung"
 
-![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/19979356639_6068f2b18b_z-400x267.jpg)
+<RemoteImage
+  alt="vegane Kosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_19979356639_6068f2b18b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_19979356639_6068f2b18b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die großen Konzerne halten also ihre Augen offen. Auch sie bekommen mit, dass
 Bio boomt. Das grüne Image ist ganz groß im Kommen und es zieht ungemein, wenn
@@ -145,7 +175,13 @@ bewusst, sein, was man möchte.
 
 ## Stichwort "Qualität"
 
-![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/28490750663_1a99b9c8fe_z-400x300.jpg)
+<RemoteImage
+  alt="vegane Kosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_28490750663_1a99b9c8fe_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_28490750663_1a99b9c8fe_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch zum Thema Qualität gibt es einige Unterschiede zu beachten. Der
 Verarbeitungsprozess kann im Bereich der Naturkosmetik nur sehr wenig
@@ -168,7 +204,13 @@ schon etwas leichter.
 
 ## Stichwort "Profit"
 
-![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14159474387_ab9c25b129_z-400x267.jpg)
+<RemoteImage
+  alt="vegane Kosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14159474387_ab9c25b129_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14159474387_ab9c25b129_z__l.jpg"
+  loadingUrl="undefined" />
 
 Warum entzieht man denn nun den Ölen die Persönlichkeit und verwendet nur noch
 das, was übrig bleibt? Und warum nehmen einige Hersteller in Kauf, dass ihre
@@ -187,7 +229,13 @@ testen lassen. Die Frage "Möchten wir uns diesen gewinnbringenden Markt wirklic
 entgehen lassen?" scheint wie ein Damoklesschwert über vielen Kosmetikfirmen zu
 hängen.
 
-![vegane Kosmetik](http://cardamonchai.com/wp-content/uploads/2018/03/14322709506_7ba2db9861_z-400x267.jpg)
+<RemoteImage
+  alt="vegane Kosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14322709506_7ba2db9861_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14322709506_7ba2db9861_z__l.jpg"
+  loadingUrl="undefined" />
 
 Zum Glück gibt es aber auch einige, die es anders machen, sich bewusst für einen
 Verzicht entschieden haben, ihre Konsumenten aufklären, Tierschutzorganisationen

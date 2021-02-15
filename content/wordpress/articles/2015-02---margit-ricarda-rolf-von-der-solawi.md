@@ -44,7 +44,13 @@ subTitle: '"Veganer*innen sind unglaublich kreativ!"'
   
 ---
 
-![Margit Ricarda Rolf](https://cardamonchai.files.wordpress.com/2015/02/1016809_626965250655757_993245008_n.jpg?w=267 "Margit Ricarda Rolf")
+<RemoteImage
+  alt="Margit Ricarda Rolf"
+  size="medium"
+  title="Margit Ricarda Rolf"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/1016809_626965250655757_993245008_n.jpg?w=267"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/1016809_626965250655757_993245008_n.jpg?w=267"
+  loadingUrl="undefined" />
 
 **In Zeiten von Globalisierung und TTIP werden regionale Produkte f** **ü** **r
 die Menschen immer wichtiger. Wir wollen einfach wissen, was da auf unserem
@@ -59,7 +65,13 @@ Acht **Bio-Gärtner** sollen in der SoLaWi arbeiten, außerdem werden 300 Genoss
 gesucht, die sich auch als Erntehelfer einbringen dürfen. Es sollen jede Menge
 Arbeitsplätze geschaffen werden, faire Bezahlung ist dabei einer der Grundsätze.
 
-![Hier entsteht die SoLaWi Hamburg](https://cardamonchai.files.wordpress.com/2015/02/altes-land-2012.jpg?w=300 "Hier entsteht die SoLaWi Hamburg")
+<RemoteImage
+  alt="Hier entsteht die SoLaWi Hamburg"
+  size="medium"
+  title="Hier entsteht die SoLaWi Hamburg"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/altes-land-2012.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/altes-land-2012.jpg?w=300"
+  loadingUrl="undefined" />
 
 Die **Hamburger SoLaWi** wird eine von wenigen bioveganen SoLaWis, die es
 derzeit weltweit gibt, sein. Mit dieser Marktlücke soll ein fester Kundenstamm
@@ -84,7 +96,13 @@ nimmst! Es freut mich sehr, deine Bekanntschaft zu machen!
 
 **Anne:** Ricarda, wie seid ihr auf die Idee gekommen, eine SoLaWi zu gründen?
 
-![Der Hummel](https://cardamonchai.files.wordpress.com/2015/02/cropped-hh-wappen-derhummel-2013c.jpg?w=300 "Der Hummel")
+<RemoteImage
+  alt="Der Hummel"
+  size="medium"
+  title="Der Hummel"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/cropped-hh-wappen-derhummel-2013c.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/cropped-hh-wappen-derhummel-2013c.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Ricarda:** Wir wollen in Hamburg eine Regiowährung einführen, den Hummel.
 **Regiowährungen** sind kein Selbstzweck. Zunächst habe ich mich mit anderen
@@ -98,7 +116,13 @@ vorhanden. Damit haben wir gute Chancen unsere Waren auch zu verkaufen.
 
 **Ricarda:** Solawi Hamburg
 
-![Zurzeit arbeiten 12 Personen am Projekt SoLaWi Hamburg](https://cardamonchai.files.wordpress.com/2015/02/14159340218_160988f645_z.jpg?w=200 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Zurzeit arbeiten 12 Personen am Projekt SoLaWi Hamburg")
+<RemoteImage
+  alt="Zurzeit arbeiten 12 Personen am Projekt SoLaWi Hamburg"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Zurzeit arbeiten 12 Personen am Projekt SoLaWi Hamburg"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/14159340218_160988f645_z.jpg?w=200"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/14159340218_160988f645_z.jpg?w=200"
+  loadingUrl="undefined" />
 
 **Anne:** Wie viele Menschen arbeiten derzeit an dem Projekt? Wer ist für was
 zuständig?
@@ -121,7 +145,13 @@ Personen bestehen wird und eben 300 Genossen.
 
 **Anne:** Wie viele Menschen sollen in der SoLaWi wohnen und arbeiten?
 
-![Obst aus ökologischem Landbau](https://cardamonchai.files.wordpress.com/2015/02/14466324839_93bd03eab5_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Obst aus ökologischem Landbau")
+<RemoteImage
+  alt="Obst aus ökologischem Landbau"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Obst aus ökologischem Landbau"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/14466324839_93bd03eab5_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/14466324839_93bd03eab5_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Ricarda:** Es werden zwischen \_\_\_\_ 11 und 13 Personen sein.
 
@@ -144,7 +174,13 @@ ist in jedem Fall, dass Gewinne dem Satzungszweck zugeführt werden. Das ist die
 Förderung regionaler Wirtschaftskreisläufe. Die **Genossenschaft** wird als
 gemeinnütziger Zweckbetrieb des Hummel e.V. gegründet.
 
-![Nach der Sommerpause soll es losgehen](https://cardamonchai.files.wordpress.com/2015/02/14466355108_57ac9ea4e1_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Nach der Sommerpause soll es losgehen")
+<RemoteImage
+  alt="Nach der Sommerpause soll es losgehen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Nach der Sommerpause soll es losgehen"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/14466355108_57ac9ea4e1_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/14466355108_57ac9ea4e1_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Anne:** Die Arbeiter bzw. Bewohner der SoLaWi müssen/können also Kapital
 einbringen?
@@ -162,7 +198,13 @@ mehr in Deutschland?
 **Anne:** Du bist ja selbst auch **Veganerin** . Seit wann? Hattest du dabei ein
 besonderes Vorbild?
 
-![Ricarda ist ganz frisch auf vegan umgestiegen](https://cardamonchai.files.wordpress.com/2015/02/14466357488_0377960c95_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Ricarda ist ganz frisch auf vegan umgestiegen")
+<RemoteImage
+  alt="Ricarda ist ganz frisch auf vegan umgestiegen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Ricarda ist ganz frisch auf vegan umgestiegen"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/14466357488_0377960c95_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/14466357488_0377960c95_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Ricarda:** Ich bin ganz frisch umgestiegen seit 17.01.2015. Ich habe gedacht,
 das wäre nicht nötig. Wenn man sich aber mit der Materie befasst, ist das wohl
@@ -193,7 +235,13 @@ Heute führt dort die Autobahn drüber.
 **Anne:** Wie zufrieden bist du mit dem derzeitigen veganen Angebot in Hamburg?
 Inwiefern unterscheidet es sich von anderen Städten?
 
-![Vegane Produkte sollten gekennzeichnet werden](https://cardamonchai.files.wordpress.com/2014/08/img_1641.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Vegane Produkte sollten gekennzeichnet werden")
+<RemoteImage
+  alt="Vegane Produkte sollten gekennzeichnet werden"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Vegane Produkte sollten gekennzeichnet werden"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/08/img_1641.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/08/img_1641.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Ricarda:** Da geht noch mehr. Noch viel mehr! Ärgerlich ist es, wenn **vegane
 Produkte** nicht
@@ -217,7 +265,13 @@ Deine Lieblingssorte?
 **Ricarda:** Gurken, Tomaten, Champignons… Wir werden mit den Genossen
 Wunschlisten machen und die Gärtner sagen uns dann, was machbar ist.
 
-![Alte Sorten retten](https://cardamonchai.files.wordpress.com/2015/02/15770378701_129f393550_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Alte Sorten retten")
+<RemoteImage
+  alt="Alte Sorten retten"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Alte Sorten retten"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/15770378701_129f393550_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/15770378701_129f393550_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Anne:** Vor kurzem las ich einen faszinierenden Artikel über die Rettung alter
 Sorten. Steht das auch auf eurer Agenda?
@@ -235,7 +289,13 @@ oder eine Tomate. Die halten den Geschmack der heutigen Gemüse für normal. Woh
 sollen sie auch. Kleine Kinder wissen nicht, dass das **Würstchen** ein totes
 Schwein ist. Milch kommt aus der Tüte und Kühe sind lila.
 
-![Selbst entscheiden, was auf den Teller kommt](https://cardamonchai.files.wordpress.com/2015/02/15773826082_2fd1f57bec_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/)  Selbst entscheiden, was auf den Teller kommt")
+<RemoteImage
+  alt="Selbst entscheiden, was auf den Teller kommt"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/)  Selbst entscheiden, was auf den Teller kommt"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/15773826082_2fd1f57bec_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/15773826082_2fd1f57bec_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Anne:** Womit wird auf der SoLaWi eigentlich gedüngt werden? Werdet ihr im
 großen Stil **Kompostwirtschaft** betreiben? Wenn ja, wie organisiert ihr das?
@@ -275,7 +335,13 @@ Veganer⋆innen sind unglaublich kreativ.
 fast täglich neue Hiobsbotschaften, vom **Chlorhuhn** bis zum Gen-Soja. Müssen
 wir uns große Sorgen machen?
 
-![Ricarda braucht im Winter keine Erdbeeren](https://cardamonchai.files.wordpress.com/2015/02/14159273189_ac81c52fda_z.jpg?w=200 "Ricarda braucht im Winter keine Erdbeeren")
+<RemoteImage
+  alt="Ricarda braucht im Winter keine Erdbeeren"
+  size="medium"
+  title="Ricarda braucht im Winter keine Erdbeeren"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/14159273189_ac81c52fda_z.jpg?w=200"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/14159273189_ac81c52fda_z.jpg?w=200"
+  loadingUrl="undefined" />
 
 **Ricarda:** Ich bevorzuge regionale Produkte und bin ein Gegner von TTIP. Ich
 brauche weder Erdbeeren im Dezember, noch Spargel aus Peru und auch keine

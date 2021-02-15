@@ -34,7 +34,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (25:29)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (37:29)"
 thumbnailId: "9236"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__l.jpg
@@ -43,14 +43,20 @@ subTitle: And the nominees are...
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (25:29)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (37:29)
 
 <!--
 Bereits am 18. Oktober erreichte mich die Nachricht von der lieben
 [Dela](http://delanjiplush.de/?p=841), ich sei für den Lieblingsblog-Award
 nominiert. Lieben Dank noch mal an dieser Stelle, Dela!
 
-![Als Award muss diese Tiki-Figur aus dem British Museum herhalten | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/13545735034_fbbc8c72df_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Als Award muss diese Tiki-Figur, die ich im British Museum entdeckt habe, herhalten")
+<RemoteImage
+  alt="Als Award muss diese Tiki-Figur aus dem British Museum herhalten"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Als Award muss diese Tiki-Figur, die ich im British Museum entdeckt habe, herhalten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_13545735034_fbbc8c72df_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_13545735034_fbbc8c72df_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Die Regeln für den Lieblingsblog-Award:** - Verlinke die Person, die Dich
 nominiert hat,
@@ -64,7 +70,13 @@ Kommen wir also zum Interview. Folgendes wollte Dela von mir wissen:
 <ol><li> __Was war als Kind Dein Lieblingsplüschtier? Hast Du es noch?__ 
 Mein Lieblingsplüschtier in meiner Kindheit war ein kleiner von meiner Mama selbstgemachter Teddy, den ich auf den Namen Tedda getauft hatte. Ich habe ihn immer noch, er wohnt in meinem Kleiderschrank. Ich habe ihn überall mit hingeschleift und weil Tedda dadurch sehr stark abgenutzt wurde, bekam er über die Jahre immer wieder eine neue Haut aus verschiedenen Stoffen. Ursprünglich war er mal rot, inzwischen ist er blau, den letzten Stoffüberzug habe ich ihm im Grundschulalter selbst genäht, damals habe ich ihm auch ein neues Gesicht gestickt, was mich ein paar Tage später in eine tiefe Krise gestürzt hat, weil ich meinen Tedda nicht mehr erkannt habe.</li><li>
 
-![Vegan sollte es sein](http://cardamonchai.com/wp-content/uploads/2014/11/15404266657_07b64b83e6_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Vegan sollte es sein")
+<RemoteImage
+  alt="Vegan sollte es sein"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Vegan sollte es sein"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15404266657_07b64b83e6_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15404266657_07b64b83e6_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Welche Küche ist Dir die liebste? Mediteran? Asiatisch? Hausmannskost?
 Alles?** Grundsätzlich esse ich alles sehr gerne, besonders Indisch und
@@ -86,7 +98,13 @@ lassen?** Das kann ich Dir ziemlich genau beantworten, Dela, das war vor 3
 Jahren in meiner vorletzten Wohnung. Den Putzlappen habe ich selbst geschwungen.
 ;-)</li><li>
 
-![Auf Festivals lernt man improvisieren | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/11351937553_a519932b85_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Auf Festivals lernt man improvisieren")
+<RemoteImage
+  alt="Auf Festivals lernt man improvisieren"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Auf Festivals lernt man improvisieren"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_11351937553_a519932b85_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_11351937553_a519932b85_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Welches Deiner Talente wäre in einer Zombieapokalypse fürs Überleben am
 hilfreichsten? Wärst Du eher dafür, sich in Banden zusammenzuschließen, oder
@@ -110,7 +128,13 @@ Blogrubrik. Ich nehme einfach jedes Konzert von denen mit, das in meiner Nähe
 ist. Die [Deftones](//?s=deftones) sind außerdem ganz besonders wichtig für mich
 und [Nine Inch Nails](/?s=Nine+inch+nails).
 
-![Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim Festival | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/9557898428_86a39a2997_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim Festival")
+<RemoteImage
+  alt="Chino Moreno von den Deftones auf dem letztjährigen Rock´n&#96;Heim Festival"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim Festival"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__l.jpg"
+  loadingUrl="undefined" />
 
 Es gibt viele viele Bands, die aus meinem Plattenschrank nicht wegzudenken sind,
 Trail Of Dead z. B., Boysetsfire, Death Cab, ach, ich kann sie nicht alle
@@ -139,7 +163,13 @@ Grundsätzlich bin ich eher Realistin. Ich grusele mich nur ab und zu im Dunklen
 wenn ich einen fiesen Film angesehen habe, aber ich denke, das zählt nicht. ;-)
 Also eher der Sternschnuppen-Typ.</li><li>
 
-![Lieblingsschallplatten | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/9694670444_068ec34ffa_o-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Lieblingsschallplatten")
+<RemoteImage
+  alt="Lieblingsschallplatten"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Lieblingsschallplatten"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2014/11/9694670444_068ec34ffa_o-150x150.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2014/11/9694670444_068ec34ffa_o-150x150.jpg"
+  loadingUrl="undefined" />
 
 **Wein, Bier oder Schnaps? Lieblingszigarettenmarke? Oder völlig gesund und
 lasterfrei?**
@@ -180,7 +210,13 @@ Folgende Fragen hat Andi mir gestellt:
 
 <ol><li> __Du hast Gäste und legst Musik auf, welche ist das?__ Beginnen würde ich mit was ruhigem, wie Calexico, ich steigere es langsam zu Boysetsfire und gegen 4 Uhr morgens klingt meine Playlist aus mit Portishead. Dazwischen: Jede Menge Raritäten aus meinem Plattenregal.</li><li>
 
-![Zuletzt gelesen: Tiere essen](http://cardamonchai.com/wp-content/uploads/2014/11/15276340291_3b9a42efea_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Zuletzt gelesen: Tiere essen")
+<RemoteImage
+  alt="Zuletzt gelesen: Tiere essen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Zuletzt gelesen: Tiere essen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15276340291_3b9a42efea_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15276340291_3b9a42efea_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Welches Buch hast Du zuletzt gelesen?** "Tiere essen" von Jonathan Safran
 Foer.</li><li> **Von wem ist der Song, den Du für immer mit Deiner Kindheit
@@ -193,7 +229,13 @@ Deftones, "Terrible Lie" von Nine Inch Nails, "Release The Dogs" von
 Boysetsfire, "High Hopes" von Pink Floyd, "Space Cadet" von Kyuss, "One Armed
 Scissor" von At The Drive In und "The Mentalist" von Blackmail.</li><li>
 
-![Akupunkturtermin](http://cardamonchai.com/wp-content/uploads/2014/11/15787786672_8ff1203c42_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Akupunkturtermin")
+<RemoteImage
+  alt="Akupunkturtermin"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Akupunkturtermin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15787786672_8ff1203c42_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15787786672_8ff1203c42_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Bei welcher Gelegenheit fiel Dir zuletzt auf, dass Du älter geworden bist?**
 Als ich einen [Akupunkturtermin](/2014/11/11/auf-dem-weg-zur-tiefenentspannung/)

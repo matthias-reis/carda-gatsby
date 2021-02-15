@@ -42,7 +42,13 @@ angesprochen. Vor lauter Aufregung und Freude vergisst Du, den ISO-Wert und die
 Blende Deiner Kamera richtig einzustellen und kein einziges Foto wird was. Und
 es ist kein Traum.
 
-![Calexico](http://cardamonchai.com/wp-content/uploads/2015/08/20539667646_20c509de4d_z-640x480.jpg)
+<RemoteImage
+  alt="Calexico"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Calexico mit Unterwasserwelt-EffektenDas Konzert war wirklich mal wieder richtig klasse, alte Hasen kamen voll auf ihre Kosten und auch ein paar neue Fans dürften Calexico an diesem Abend gewonnen haben. Die Band sorgte für den krönenden Abschluss des A Summer's Tale Festivals und brachten noch mal richtig Schwung in die gemütliche Bude.
 

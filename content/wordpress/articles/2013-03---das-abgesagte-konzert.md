@@ -62,7 +62,13 @@ subTitle: Nächstes Mal wird es dafür doppelt schön
   
 ---
 
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda5-640x640.jpg "[ ](/wp-content/uploads/2013/03/amanda5.jpg)  Two tickets to paradise")
+<RemoteImage
+  alt="Konzert abgesagt"
+  size="medium"
+  title="[ ](/wp-content/uploads/2013/03/amanda5.jpg)  Two tickets to paradise"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda5__l.jpg"
+  loadingUrl="undefined" />
 
 Gleich an erster Stelle: Lieber Antony, ich wünsche Dir alles Gute, wir hoffen,
 dass es Dir bald besser gehen wird. Amanda soll Dich von uns drücken. Wir denken
@@ -83,7 +89,13 @@ war. Ein Mitarbeiter wies uns darauf hin, dass das Konzert in die benachbarte
 Muffathalle verlegt worden war. Wir wunderten uns kurz, dass uns niemand per
 E-Mail informiert hatte und gingen rüber.
 
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda4-640x640.jpg "[ ](/wp-content/uploads/2013/03/amanda4.jpg)  Amanda-Look")
+<RemoteImage
+  alt="Konzert abgesagt"
+  size="medium"
+  title="[ ](/wp-content/uploads/2013/03/amanda4.jpg)  Amanda-Look"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda4__l.jpg"
+  loadingUrl="undefined" />
 
 Wir gaben unsere Jacken ab und wurden darauf hingewiesen, dass sich das Konzert
 noch etwas verzögern würde, also nahmen wir im angeschlossenen Café Platz, um
@@ -108,7 +120,13 @@ auch die ursprünglich für März geplanten deutschen Konzerte in München, Köl
 Berlin und Hamburg betroffen. Bereits im Vorverkauf erworbene Karten können bei
 den jeweiligen Vorverkaufsstellen zurückerstattet werden.'_
 
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda1.png "Amanda Palmer And The Grand Theft Orchestra")
+<RemoteImage
+  alt="Konzert abgesagt"
+  size="medium"
+  title="Amanda Palmer And The Grand Theft Orchestra"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Ersatzweise fand nun die Benefizveranstaltung im Ampere statt, in der
 Muffathalle war für den Abend eine Art Jam geplant, was die Mischung des
@@ -132,7 +150,13 @@ unternehmen sollten, schickte man uns zur Abendkasse. Die uns wieder zurück zum
 Ampere schickte, wo wir nun freundlich darauf hingewiesen wurden, uns doch an
 den Kartenvorverkauf zu wenden.
 
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/amanda3.png "Morgen ist es soweit!")
+<RemoteImage
+  alt="Konzert abgesagt"
+  size="medium"
+  title="Morgen ist es soweit!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_amanda3.png__l.jpg"
+  loadingUrl="undefined" />
 
 Mit hängenden Köpfen traten wir nun den Rückweg zum Parkhaus an. Dort angekommen
 steckten wir das Parkticket in den dafür vorgesehenen Automaten. 56 Minuten.
@@ -155,7 +179,13 @@ vorstellen kann, voller Lautstärke. Zu Hause angekommen, schafften wir es, als
 kleine Wiedergutmachung wenigstens noch, uns die Wiederholung des neuen
 Hamburger Tatorts anzusehen.
 
-![](http://cardamonchai.com/wp-content/uploads/2013/03/billy.png "Billy Talent Texte üben")
+<RemoteImage
+  alt=""
+  size="medium"
+  title="Billy Talent Texte üben"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_billy.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_billy.png__l.jpg"
+  loadingUrl="undefined" />
 
 Nach einer unruhigen Nacht, in der ich von Antony, verlorenen Tickets und bösen
 Mails träumte, wählte ich heute Morgen die Servicenummer des Kartenshops.
@@ -173,7 +203,13 @@ Datum in der Vergangenheit datiert sind? Aber gut. Man muss nicht alles
 verstehen. Bürokratie. Frau kennt das ja. Aber zumindest ein klitzekleines
 Bisschen Verständnis und Kulanz hätte ich mir dann doch erwartet.
 
-![Konzert abgesagt](http://cardamonchai.com/wp-content/uploads/2013/03/gemaltes-phone.jpg "Die nette Dame am Telefon")
+<RemoteImage
+  alt="Konzert abgesagt"
+  size="medium"
+  title="Die nette Dame am Telefon"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__l.jpg"
+  loadingUrl="undefined" />
 
 Ob dieser telefonischen Begegnung, ließ ich es mir nicht nehmen, dem
 Einschreiben mit den Tickets einen kurzen Brief beizulegen. Ich bin nun sehr

@@ -31,7 +31,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (29:43)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (35:43)"
 thumbnailId: "14311"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__l.jpg
@@ -40,10 +40,16 @@ subTitle: Gedicht und Bilder
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (29:43)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (35:43)
 
 <!--
-![Straßenlaternen](http://cardamonchai.com/wp-content/uploads/2016/03/17181970449_87b4bc5eac_z-640x427.jpg)
+<RemoteImage
+  alt="Straßenlaternen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_17181970449_87b4bc5eac_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_17181970449_87b4bc5eac_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Seit ich denken kann, lege ich zu verschiedenen Themen Fotoordner an. Unter
 Anderem habe ich in den letzten Jahren Fotos von Straßenlaternen gesammelt.**

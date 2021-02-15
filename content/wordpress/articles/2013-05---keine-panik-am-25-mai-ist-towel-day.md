@@ -45,7 +45,13 @@ Natürlich wissen seine Jünger (zu denen auch ich mich zähle) ganz genau, dass
 man, nicht nur an diesem Tag, das so ziemlich Nützlichste, was es überhaupt
 gibt, stets mit sich führen sollte: Ein Handtuch.
 
-![Douglas Adams - der Mann mit der Antwort](http://cardamonchai.files.wordpress.com/2013/05/douglas-adams.jpg?w=300 "Douglas Adams - der Mann mit der Antwort")
+<RemoteImage
+  alt="Douglas Adams - der Mann mit der Antwort"
+  size="medium"
+  title="Douglas Adams - der Mann mit der Antwort"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/douglas-adams.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/douglas-adams.jpg?w=300"
+  loadingUrl="undefined" />
 
 Das tat schließlich auch schon Arthur Dent, der Protagonist, des
 [besten Buchs aller Zeiten](http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis).
@@ -57,7 +63,13 @@ haben, um auch wirklich in jedem Winkel der Galaxis anzukommen.
 
 ## Vorbereitungen für den Towel Day
 
-![Die Antwort auf alle Fragen](http://cardamonchai.files.wordpress.com/2013/05/img_4208.jpg?w=300 "Die Antwort auf alle Fragen")
+<RemoteImage
+  alt="Die Antwort auf alle Fragen"
+  size="medium"
+  title="Die Antwort auf alle Fragen"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4208.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4208.jpg?w=300"
+  loadingUrl="undefined" />
 
 Nachdem der Tag einmal am 25. Mai gefeiert worden war, wollte niemand mehr ein
 anderes Datum (beispielsweise an seinem Geburtstag, dem 11. März, seinem
@@ -72,13 +84,25 @@ große Sammlung, um jeden Tag perfekt ausgestattet zu bestreiten
 
 Das Original Fan-Towel
 
-![Das original Fan-Towel | full](http://cardamonchai.com/wp-content/uploads/2013/05/towel_day-e1425405110473.jpg "Das original Fan-Towel")
+<RemoteImage
+  alt="Das original Fan-Towel"
+  size="full"
+  title="Das original Fan-Towel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__l.jpg"
+  loadingUrl="undefined" />
 
 ## Handtuch No. 2
 
 Ein Urlaubsmitbringsel aus einem meiner [Lieblingsländer](/category/turkei/).
 
-![Mitbringsel- Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4199.jpg?w=490 "Mitbringsel- Handtuch")
+<RemoteImage
+  alt="Mitbringsel- Handtuch"
+  size="medium"
+  title="Mitbringsel- Handtuch"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4199.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4199.jpg?w=490"
+  loadingUrl="undefined" />
 
 ## Handtuch No. 3
 
@@ -99,7 +123,13 @@ dem Festival-Handtuch eine Nest aus ihrer eigenen Wolle, Papierschnipseln und
 sonstigem Kram gebastelt. Seit diesem Zeitpunkt vergesse ich nie wieder mein
 Handtuch
 
-![Sündhaft teures Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4201.jpg?w=490 "Sündhaft teures Handtuch")
+<RemoteImage
+  alt="Sündhaft teures Handtuch"
+  size="medium"
+  title="Sündhaft teures Handtuch"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4201.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4201.jpg?w=490"
+  loadingUrl="undefined" />
 
 ## Handtuch No. 4
 
@@ -115,7 +145,13 @@ Festivals durchaus von Vorteil ist. Trotzdem ist es groß genug, um es als Turba
 zu benutzen, es als Sonnenschutz um die Schultern zu schlingen oder als
 Sonnensegel über das Vordach des Iglu-Zelts zu legen.
 
-![Festival-Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4203.jpg?w=490 "Festival-Handtuch")
+<RemoteImage
+  alt="Festival-Handtuch"
+  size="medium"
+  title="Festival-Handtuch"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4203.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4203.jpg?w=490"
+  loadingUrl="undefined" />
 
 ## Handtuch No. 5
 
@@ -129,7 +165,13 @@ glaubt mir: Spätestens nach dem ersten
 [Baggersee-Besuch](/2011/08/15/lieder-am-ufer/) wird es schon was zu erzählen
 haben
 
-![Kauf-Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_4198.jpg?w=490 "Kauf-Handtuch")
+<RemoteImage
+  alt="Kauf-Handtuch"
+  size="medium"
+  title="Kauf-Handtuch"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4198.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_4198.jpg?w=490"
+  loadingUrl="undefined" />
 
 ## Nun denn:
 
@@ -137,7 +179,13 @@ Ich wünsche Euch einen wundervollen Towel Day. Feiert schön! Lasst Euch nicht
 unterkriegen! Nehmt Euch in acht vor dem pangalaktischen Donnergurgler und was
 am wichtigsten ist: Vergesst im Namen der 42 Euer Handtuch nicht!
 
-![Pangalaktischer Donnergurgler](http://cardamonchai.files.wordpress.com/2013/05/img_5144.jpg?w=490 "Pangalaktischer Donnergurgler")
+<RemoteImage
+  alt="Pangalaktischer Donnergurgler"
+  size="medium"
+  title="Pangalaktischer Donnergurgler"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5144.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5144.jpg?w=490"
+  loadingUrl="undefined" />
 
 Für alle, die meinen Text nicht verstanden haben (gibt es solche Leute
 überhaupt?): **Lest verdammt nochmal das Buch!** Ich rede sonst nicht mehr mit

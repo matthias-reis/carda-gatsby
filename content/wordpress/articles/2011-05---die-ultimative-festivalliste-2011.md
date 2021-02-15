@@ -114,7 +114,13 @@ Ausreichend Zigaretten/Tabak, Rauchwaren sind auf dem Festivalgelände teurer
 
 ### Viel Spaß beim Packen!
 
-![Foto: Taubertal Festival 2010 cardamon82 | full](http://cardamonchai.files.wordpress.com/2011/05/40699_145559535466184_100000364159291_308244_6342374_n.jpg "Foto: Taubertal Festival 2010 cardamonchai")
+<RemoteImage
+  alt="Foto: Taubertal Festival 2010 cardamon82"
+  size="full"
+  title="Foto: Taubertal Festival 2010 cardamonchai"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/05/40699_145559535466184_100000364159291_308244_6342374_n.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/05/40699_145559535466184_100000364159291_308244_6342374_n.jpg"
+  loadingUrl="undefined" />
 
 ---
 

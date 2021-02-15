@@ -40,7 +40,13 @@ subTitle: Die Postkartengalerie
   
 ---
 
-![Eine Postkarte tritt ihre Reise an](http://cardamonchai.files.wordpress.com/2013/06/p5180016.jpg?w=225 "[ ](//2009/05/18/von-mevagissey-nach-port-mellon-18-05-2009/)  Eine Postkarte tritt ihre Reise an")
+<RemoteImage
+  alt="Eine Postkarte tritt ihre Reise an"
+  size="medium"
+  title="[ ](//2009/05/18/von-mevagissey-nach-port-mellon-18-05-2009/)  Eine Postkarte tritt ihre Reise an"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/p5180016.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/p5180016.jpg?w=225"
+  loadingUrl="undefined" />
 
 ## Ihr Lieben, **in den letzten Wochen hatte ich ständig tolle Post im Briefkasten, wenn ich nach Hause kam. Über Twitter und Facebook habe ich eine kleine Postkartenaktion ins Leben gerufen. Wer mir eine schickt, bekommt auch eine von mir. Dass sich so viele von Euch melden würden, hätte ich nicht gedacht. Heute möchte ich Euch die erste Bildergalerie präsentieren, die aus Euren Karten entstanden ist. Von Euch und für Euch. Denn sie besteht ja schließlich aus Euren tollen Postkarten.** ## _Mein Dank geht an:_ _Sarah, Ali, Angelika, Ortwin, Kristina, Annett, Florian, Caro, [Sandra](http://hoochi1107.wordpress.com) die mir regelmäßig tolle Karten schickt, Karin, Rainer, Wolfgang, Lore, Resi, Salome, Christine, Erk, Ulla, Birgitt, Mattze, Melissa, Moni aka [@nahlinse](https://twitter.com/nahlinse), Chris aka [@chrismarquardt](https://twitter.com/chrismarquardt), die [@Frau_mitKatze](https://twitter.com/Frau_mitKatze), [@Loewenkram](https://twitter.com/Loewenkram), [@timmytommy](https://twitter.com/timmythommy), der mir gleich an ganzes Potpourri aus Karten schickte und noch weitere Lieferungen angekündigt hat, Daniel, Theresa, meine Oma, Annette aka [@a_g_p](https://twitter.com/a_g_p), [Wirre Welt Berlin](http://wirre-welt-berlin.com), der mir gleich auch noch [den Berliner Fernsehturm](//2013/06/07/das-internet-ist-schon/) mitschickte, [@wholehearted](https://twitter.com/_wholehearted_), Andi, Lui, Michele, Toni und [aithir](https://twitter.com/aithir). Ihr seid großartig!\_ **Natürlich läuft die Postkartenaktion weiter. Und es gilt natürlich weiterhin: Wer mir eine Karte schickt und mir im Idealfall auch noch seine Adresse mitteilt, bekommt auch eine von mir. Hierzu sei erwähnt: Ich plane in diesem Jahr eine besonders tolle Urlaubsreise, wohin, wird noch nicht verraten. Es sei nur so viel verraten: Die Postkarten werden sicher wunderschön aussehen.**
 
@@ -66,7 +72,13 @@ sein? :-P
 
 **_Aus diesen Winkeln der Erde haben mich Eure Postkarten erreicht:_**
 
-![Die Karte der Karten | full](http://cardamonchai.files.wordpress.com/2013/06/bildschirmfoto-2013-06-14-um-17-04-131.png "[ ](https://mapsengine.google.com/map/edit?mid=z4hrjwmhEvHs.kkNUf9E2BJ44)  Die Karte der Karten")
+<RemoteImage
+  alt="Die Karte der Karten"
+  size="full"
+  title="[ ](https://mapsengine.google.com/map/edit?mid=z4hrjwmhEvHs.kkNUf9E2BJ44)  Die Karte der Karten"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/bildschirmfoto-2013-06-14-um-17-04-131.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/bildschirmfoto-2013-06-14-um-17-04-131.png"
+  loadingUrl="undefined" />
 
 _ **Die Galerie der Karten** _
 

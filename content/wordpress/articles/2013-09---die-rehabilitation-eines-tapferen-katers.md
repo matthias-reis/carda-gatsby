@@ -42,7 +42,13 @@ subTitle: Von Genesungswünschen, guten Nachrichten und Erfahrungsberichten
   
 ---
 
-![Chili und ich](http://cardamonchai.files.wordpress.com/2013/09/9588574715_b8fb54fbc8_o.jpg?w=300 "Chili und ich")
+<RemoteImage
+  alt="Chili und ich"
+  size="medium"
+  title="Chili und ich"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9588574715_b8fb54fbc8_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9588574715_b8fb54fbc8_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 Heute Vormittag habe ich wieder mit der Klinik telefoniert, inzwischen geht es
 dem Kleinen etwas besser. Er hat ganz selbstständig gefressen und war auf
@@ -63,7 +69,13 @@ Telefon zu mir, dass er es in seiner jetzigen Lage mit Sicherheit nicht besser
 treffen könnte, weshalb ich mir jetzt auch versuche weniger Vorwürfe zu machen,
 dass ich im Augenblick nichts für ihn tun kann.
 
-![Bild: Michael Bührke pixelio.de](http://cardamonchai.files.wordpress.com/2013/09/227315_web_r_k_b_by_michael-bc3bchrke_pixelio-de.jpg?w=300 "Bild: Michael Bührke pixelio.de")
+<RemoteImage
+  alt="Bild: Michael Bührke pixelio.de"
+  size="medium"
+  title="Bild: Michael Bührke pixelio.de"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/227315_web_r_k_b_by_michael-bc3bchrke_pixelio-de.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/227315_web_r_k_b_by_michael-bc3bchrke_pixelio-de.jpg?w=300"
+  loadingUrl="undefined" />
 
 Momentan fiebere ich den Moment herbei, wenn mich Herr Dr. Erben wieder anruft,
 der nette Arzt, der Chili vorgestern Abend so gut aufgenommen hat. Er hat morgen
@@ -75,7 +87,13 @@ Was mich schwer beeindruckt hat: Seit gestern Abend haben sich unglaublich viele
 Menschen mit mir in Verbindung gesetzt, die zum Teil von ähnlich schaurigen
 Erlebnissen zu berichten haben. Manche sogar in der gleichen Klinik.
 
-![Da war Chili noch glücklich](http://cardamonchai.files.wordpress.com/2013/09/9574655057_79040e2c03_o.jpg?w=225 "Da war Chili noch glücklich")
+<RemoteImage
+  alt="Da war Chili noch glücklich"
+  size="medium"
+  title="Da war Chili noch glücklich"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9574655057_79040e2c03_o.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9574655057_79040e2c03_o.jpg?w=225"
+  loadingUrl="undefined" />
 
 Meine Kollegin erzählte mir, dass ihr Kater dort eingeschläfert worden sei.
 Damals ist man ihr in der Klinik auch mit keinerlei Empathie begegnet. Meine
@@ -103,7 +121,13 @@ Sandra schreibt:
 Doch damit nicht genug. Auf einem bekannten Ärzte-Bewertungsportal las ich
 (unter vielen anderen Kommentaren!) diese beiden hier:
 
-![Bild: PeterFranz pixelio.de](http://cardamonchai.files.wordpress.com/2013/09/664812_web_r_b_by_peterfranz_pixelio-de.jpg?w=300 "Bild: PeterFranz pixelio.de")
+<RemoteImage
+  alt="Bild: PeterFranz pixelio.de"
+  size="medium"
+  title="Bild: PeterFranz pixelio.de"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/664812_web_r_b_by_peterfranz_pixelio-de.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/664812_web_r_b_by_peterfranz_pixelio-de.jpg?w=300"
+  loadingUrl="undefined" />
 
 _"Ich kann diese Klinik auf gar keinen Fall empfehlen. Die behandelden Ärzte_
 _schläferten eine Katze ein, weil deren Besitzer nicht für die Behandlung_ _bzw.
@@ -129,7 +153,13 @@ Außerdem wird von verlangten Anzahlungen, nicht erkannten Knochenbrüchen und
 schiefgelaufenen OPs, für die die Klinik hinterher nicht aufkommt, berichtet.
 Ich musste irgendwann aufhören zu lesen, weil mir so schlecht wurde.
 
-![Wartet zu Hause sehnsüchtig auf Chili: Bruder Oskar](http://cardamonchai.files.wordpress.com/2013/09/9577449670_ae720a57fe_o.jpg?w=300 "Wartet zu Hause sehnsüchtig auf Chili: Bruder Oskar")
+<RemoteImage
+  alt="Wartet zu Hause sehnsüchtig auf Chili: Bruder Oskar"
+  size="medium"
+  title="Wartet zu Hause sehnsüchtig auf Chili: Bruder Oskar"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9577449670_ae720a57fe_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9577449670_ae720a57fe_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 _Hiermit möchte ich mich nochmal bei allen bedanken, die uns derzeit
 unterstützen! Silva, Caro, Sandra, Uschi, Eva, Rita, Iris, Pinkpetzie, Bina,

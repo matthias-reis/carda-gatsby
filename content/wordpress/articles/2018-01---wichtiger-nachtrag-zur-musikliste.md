@@ -115,7 +115,13 @@ nicht, dass seine Songs auf YouTube veröffentlicht werden, daher findet hier an
 Stelle eines Video nur einen Screenshot der Platte. Unseren Respekt hat er
 allemal und das Album habt Ihr hoffentlich alle im Schrank stehen.
 
-![Musikliste](http://cardamonchai.com/wp-content/uploads/2018/01/mqdefault-300x169.jpg)
+<RemoteImage
+  alt="Musikliste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_mqdefault__l.jpg"
+  loadingUrl="undefined" />
 
 <h4>Das komplette Album von Japandroids "Near To The Wild Heart Of Life"
 <iframe src="https://www.youtube.com/embed/pSkrhQiwFcE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h4>

@@ -2063,7 +2063,7 @@
       },
       {
         "path": "https://cardamonchai.com/2011/04/sonntag-17-04-2011/",
-        "message": "unknown: Unterminated JSX contents (9:16)"
+        "message": "unknown: Unterminated JSX contents (15:16)"
       },
       {
         "path": "https://cardamonchai.com/2011/06/menschliche-abgrunde/",
@@ -2083,11 +2083,15 @@
       },
       {
         "path": "https://cardamonchai.com/2012/04/schmuckaufbewahrung-selber-basteln/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (63:12)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (87:12)"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/",
+        "message": "unknown: Unexpected token (17:65)"
       },
       {
         "path": "https://cardamonchai.com/2012/07/webseiten-und-usability/",
-        "message": "unknown: Expected corresponding JSX closing tag for <div> (121:42)"
+        "message": "unknown: Unexpected token (75:61)"
       },
       {
         "path": "https://cardamonchai.com/2012/07/glastonbury/",
@@ -2099,23 +2103,39 @@
       },
       {
         "path": "https://cardamonchai.com/2012/08/immer-aerger-mit-dem-sendemast/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (44:11)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (56:11)"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/08/ode-an-den-kater/",
+        "message": "unknown: Unexpected token (81:9)"
       },
       {
         "path": "https://cardamonchai.com/2012/10/verlosung-t-shirt-idee-die-bildergalerie/",
         "message": "unknown: Expected corresponding JSX closing tag for <p> (7:15)"
       },
       {
+        "path": "https://cardamonchai.com/2012/10/blues-on-two-trees/",
+        "message": "unknown: Unexpected token (8:69)"
+      },
+      {
         "path": "https://cardamonchai.com/2013/08/einmal-im-leben-einen-baum-pflanzen-2-0/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (28:13)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (34:13)"
       },
       {
         "path": "https://cardamonchai.com/2014/04/zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts/",
-        "message": "unknown: Expected corresponding JSX closing tag for <div> (34:572)"
+        "message": "unknown: Expected corresponding JSX closing tag for <div> (40:572)"
       },
       {
         "path": "https://cardamonchai.com/2014/04/st-patricks-day-in-london/",
-        "message": "unknown: Expected corresponding JSX closing tag for <div> (73:83)"
+        "message": "unknown: Expected corresponding JSX closing tag for <div> (97:83)"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/",
+        "message": "unknown: Unexpected token (11:14)"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/09/flucht-in-die-flucht/",
+        "message": "unknown: Unexpected token (9:21)"
       },
       {
         "path": "https://cardamonchai.com/2014/09/butternusskurbis-aus-dem-ofen/",
@@ -2131,27 +2151,39 @@
       },
       {
         "path": "https://cardamonchai.com/2014/11/auf-dem-weg-zur-tiefenentspannung/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (82:31)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (112:31)"
       },
       {
         "path": "https://cardamonchai.com/2014/11/liebster-blog-award/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (25:29)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (37:29)"
       },
       {
         "path": "https://cardamonchai.com/2015/02/chiapudding/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (21:42)"
+        "message": "unknown: Expected corresponding JSX closing tag for <li> (27:42)"
       },
       {
         "path": "https://cardamonchai.com/2014/12/rainer-von-der-vegan-sneaker-connection-im-interview/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (155:20)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (167:20)"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/04/sem-suchmaschinenmarketing/",
+        "message": "unknown: Unexpected token (58:22)"
       },
       {
         "path": "https://cardamonchai.com/2015/03/die-ultimative-vegane-festivalliste/",
-        "message": "unknown: Unterminated JSX contents (265:16)"
+        "message": "unknown: Unterminated JSX contents (283:16)"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/06/muse-drones-ist-endlich-da/",
+        "message": "unknown: Unexpected token (8:28)"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/",
+        "message": "unknown: Unexpected token (126:49)"
       },
       {
         "path": "https://cardamonchai.com/2015/08/ein-meer-aus-farben-fuer-die-tiere/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (32:9)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (44:9)"
       },
       {
         "path": "https://cardamonchai.com/2015/08/st-peter-ording/",
@@ -2159,19 +2191,31 @@
       },
       {
         "path": "https://cardamonchai.com/2015/09/jeder-kanns-brot-veganes-vollkornbrot-rezept/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (25:10)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (37:10)"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/",
+        "message": "unknown: Unexpected token (117:13)"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/",
+        "message": "unknown: Unexpected token (80:51)"
       },
       {
         "path": "https://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (66:106)"
+        "message": "unknown: Expected corresponding JSX closing tag for <li> (78:106)"
       },
       {
         "path": "https://cardamonchai.com/2016/02/kater-chili-zeigt-sich-von-seiner-besten-seite/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (37:48)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (43:48)"
+      },
+      {
+        "path": "https://cardamonchai.com/2016/02/mein-erstes-repeat-pattern/",
+        "message": "unknown: Unexpected token (24:14)"
       },
       {
         "path": "https://cardamonchai.com/2016/03/little-pony-verlosung-die-gewinner-stehen-fest/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (43:31)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (55:31)"
       },
       {
         "path": "https://cardamonchai.com/2016/03/hafen-hamburg-januar-2016/",
@@ -2179,11 +2223,11 @@
       },
       {
         "path": "https://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (41:20)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (53:20)"
       },
       {
         "path": "https://cardamonchai.com/2016/03/strassenlaternen-der-welt-eine-romantische-bildergalerie/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (29:43)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (35:43)"
       },
       {
         "path": "https://cardamonchai.com/2016/04/buesum-zeigt-sich-sonnig-und-stuermisch/",
@@ -2191,7 +2235,7 @@
       },
       {
         "path": "https://cardamonchai.com/2016/04/manieren-der-boshaftigkeit/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (22:25)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (28:25)"
       },
       {
         "path": "https://cardamonchai.com/2016/05/hafengeburtstag-in-hamburg/",
@@ -2199,15 +2243,15 @@
       },
       {
         "path": "https://cardamonchai.com/2016/05/gladskin-vegane-pflege-bei-rosacea/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (86:32)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (104:32)"
       },
       {
         "path": "https://cardamonchai.com/2016/05/hamburger-stadttauben-e-v/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (97:50)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (115:50)"
       },
       {
         "path": "https://cardamonchai.com/2016/08/vegan-beauty-basket-gratis-aktion/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (45:95)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (57:95)"
       },
       {
         "path": "https://cardamonchai.com/2016/08/maritimer-radausflug/",
@@ -2215,15 +2259,19 @@
       },
       {
         "path": "https://cardamonchai.com/2016/09/thomas-d-im-welt-vegan-magazin/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (40:15)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (58:15)"
       },
       {
         "path": "https://cardamonchai.com/2016/10/die-seltsame-stimmung-der-knalligen-blueten/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (22:35)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (28:35)"
+      },
+      {
+        "path": "https://cardamonchai.com/2016/11/von-blankenese-nach-altona/",
+        "message": "unknown: Unexpected token (7:66)"
       },
       {
         "path": "https://cardamonchai.com/2017/04/interview-mit-danny-von-vegablum/",
-        "message": "unknown: Expected corresponding JSX closing tag for <span> (188:120)"
+        "message": "unknown: Expected corresponding JSX closing tag for <span> (224:120)"
       },
       {
         "path": "https://cardamonchai.com/2017/05/hafengeburtstag/",
@@ -2231,23 +2279,23 @@
       },
       {
         "path": "https://cardamonchai.com/2017/08/erwartungsgebuegel-menschen-untereinander/",
-        "message": "unknown: Unterminated JSX contents (44:16)"
+        "message": "unknown: Unterminated JSX contents (56:16)"
       },
       {
         "path": "https://cardamonchai.com/2017/08/katzentempel-hamburg-interview/",
-        "message": "unknown: Expected corresponding JSX closing tag for <i> (182:95)"
+        "message": "unknown: Expected corresponding JSX closing tag for <i> (230:95)"
       },
       {
         "path": "https://cardamonchai.com/2017/09/fopo-rettet-aussortierte-fruechte/",
-        "message": "unknown: Expected corresponding JSX closing tag for <sub> (40:121)"
+        "message": "unknown: Expected corresponding JSX closing tag for <sub> (46:121)"
       },
       {
         "path": "https://cardamonchai.com/2017/09/ahoi-urlaub-in-sicht/",
-        "message": "unknown: Unterminated JSX contents (83:16)"
+        "message": "unknown: Unterminated JSX contents (101:16)"
       },
       {
         "path": "https://cardamonchai.com/2017/10/moewen-in-dublin/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (30:28)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (36:28)"
       },
       {
         "path": "https://cardamonchai.com/2017/10/kleiner-spaziergang-durch-dublin/",
@@ -2255,15 +2303,15 @@
       },
       {
         "path": "https://cardamonchai.com/2017/10/guinness-ist-vegan-brauerei-besuch/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (56:40)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (68:40)"
       },
       {
         "path": "https://cardamonchai.com/2017/10/calexico-the-thread-that-keeps-us/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (81:7)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (99:7)"
       },
       {
         "path": "https://cardamonchai.com/2017/10/mystery-blogger-award-mein-blog-ist-dabei/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (32:13)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (38:13)"
       },
       {
         "path": "https://cardamonchai.com/2017/11/kilkenny-bunte-insel-irland/",
@@ -2279,7 +2327,7 @@
       },
       {
         "path": "https://cardamonchai.com/2018/01/ashera-yin-yang-balance/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (29:8)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (35:8)"
       },
       {
         "path": "https://cardamonchai.com/2018/01/ring-of-kerry/",
@@ -2295,15 +2343,15 @@
       },
       {
         "path": "https://cardamonchai.com/2018/01/bioturm/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (88:29)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (118:29)"
       },
       {
         "path": "https://cardamonchai.com/2018/02/samova/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (66:13)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (78:13)"
       },
       {
         "path": "https://cardamonchai.com/2018/02/limerick/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (33:66)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (39:66)"
       },
       {
         "path": "https://cardamonchai.com/2018/02/ein-fleet-im-verlauf-der-jahreszeiten/",
@@ -2311,19 +2359,23 @@
       },
       {
         "path": "https://cardamonchai.com/2018/02/choclate-vegane-schokolade-aus-hamburg/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (89:105)"
+        "message": "unknown: Expected corresponding JSX closing tag for <li> (114:0)"
       },
       {
         "path": "https://cardamonchai.com/2018/03/presidents-of-the-united-states-peaches/",
         "message": "unknown: Expected corresponding JSX closing tag for <p> (21:61)"
       },
       {
+        "path": "https://cardamonchai.com/2018/04/faire-taschen-aus-teesaecken-ragbag-im-test/",
+        "message": "unknown: Unexpected token (11:58)"
+      },
+      {
         "path": "https://cardamonchai.com/2018/04/primavera-senstivpflege/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (42:47)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (48:47)"
       },
       {
         "path": "https://cardamonchai.com/2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/",
-        "message": "unknown: Unterminated JSX contents (40:16)"
+        "message": "unknown: Unterminated JSX contents (58:16)"
       },
       {
         "path": "https://cardamonchai.com/2018/07/birds-of-tivoli/",
@@ -2331,15 +2383,15 @@
       },
       {
         "path": "https://cardamonchai.com/2018/07/make-up-fasten/",
-        "message": "unknown: Unterminated JSX contents (83:16)"
+        "message": "unknown: Unterminated JSX contents (107:16)"
       },
       {
         "path": "https://cardamonchai.com/2018/07/earth-overshoot-day-2018/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (84:49)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (96:49)"
       },
       {
         "path": "https://cardamonchai.com/2018/08/veganer-schaumfestiger-herbe-duschgele-bioturm/",
-        "message": "unknown: Expected corresponding JSX closing tag for <li> (50:34)"
+        "message": "unknown: Expected corresponding JSX closing tag for <li> (62:34)"
       },
       {
         "path": "https://cardamonchai.com/2018/08/trelleborg/",
@@ -2347,7 +2399,7 @@
       },
       {
         "path": "https://cardamonchai.com/2018/08/fuer-limo-von-voelkel-im-test/",
-        "message": "unknown: Unterminated JSX contents (93:16)"
+        "message": "unknown: Unterminated JSX contents (123:16)"
       },
       {
         "path": "https://cardamonchai.com/2018/08/wwf-geisternetz-warnemuende/",
@@ -2363,7 +2415,7 @@
       },
       {
         "path": "https://cardamonchai.com/2018/09/nine-inch-nails-zitadelle-spandau/",
-        "message": "unknown: Unterminated JSX contents (77:16)"
+        "message": "unknown: Unterminated JSX contents (95:16)"
       },
       {
         "path": "https://cardamonchai.com/2018/09/peta-sinnlose-botox-versuche-mit-maeusen-stoppen/",
@@ -2379,31 +2431,51 @@
       },
       {
         "path": "https://cardamonchai.com/2018/10/kushel-im-test/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (67:65)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (79:65)"
       },
       {
         "path": "https://cardamonchai.com/2018/12/neues-von-santaverde/",
-        "message": "unknown: Unterminated JSX contents (63:16)"
+        "message": "unknown: Unterminated JSX contents (75:16)"
       },
       {
         "path": "https://cardamonchai.com/2018/12/musik-2018/",
-        "message": "unknown: Unterminated JSX contents (125:16)"
+        "message": "unknown: Unterminated JSX contents (143:16)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/01/natronfreie-cremedeos-von-sauberkunst/",
+        "message": "unknown: Unexpected token (15:15)"
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/",
-        "message": "unknown: Unterminated JSX contents (32:16)"
+        "message": "unknown: Unterminated JSX contents (38:16)"
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-songs-fuer-den-februar/",
-        "message": "unknown: Unterminated JSX contents (51:16)"
+        "message": "unknown: Unterminated JSX contents (57:16)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/",
+        "message": "unknown: Unexpected token (29:30)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/02/happy-cashew/",
+        "message": "unknown: Unexpected token (56:66)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/02/tiere-essen-von-jonathan-safran-foer/",
+        "message": "unknown: Unexpected token (167:12)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/03/die-geschichte-von-herrn-sommer-von-patrick-sueskind/",
+        "message": "unknown: Unexpected token (24:68)"
       },
       {
         "path": "https://cardamonchai.com/2019/04/10-tipps-wie-du-deine-nerven-schonst/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (41:6)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (47:6)"
       },
       {
         "path": "https://cardamonchai.com/2019/05/10-ideen-fuer-mehr-glueckliche-momente/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (42:40)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (54:40)"
       },
       {
         "path": "https://cardamonchai.com/2019/05/howey-ou-klimastreik/",
@@ -2411,47 +2483,91 @@
       },
       {
         "path": "https://cardamonchai.com/2019/06/veraenderungen-sind-gut/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (77:12)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (89:12)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/07/vegan-aber-guenstig-patrick-bolk/",
+        "message": "unknown: Unexpected token (25:42)"
       },
       {
         "path": "https://cardamonchai.com/2019/08/vegane-wolle-vegarn-interview/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (125:65)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (137:65)"
       },
       {
         "path": "https://cardamonchai.com/2019/08/feuer-im-regenwald-amazonas/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (131:20)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (143:20)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/08/vegan-models-so-ticken-veganerinnen/",
+        "message": "unknown: Unexpected token (87:14)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/",
+        "message": "unknown: Unexpected token (148:45)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/",
+        "message": "unknown: Unexpected token (28:22)"
       },
       {
         "path": "https://cardamonchai.com/2019/09/das-sterben-der-eintagskueken/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (100:15)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (118:15)"
       },
       {
         "path": "https://cardamonchai.com/2019/10/tierversuche-in-deutschland/",
         "message": "unknown: Unexpected token, expected \"}\" (15:21)"
       },
       {
+        "path": "https://cardamonchai.com/2019/12/roberts-teehaus-im-test/",
+        "message": "unknown: Unexpected token (74:68)"
+      },
+      {
         "path": "https://cardamonchai.com/2019/12/10-tipps-gegen-negativitaet/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (59:46)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (77:46)"
       },
       {
         "path": "https://cardamonchai.com/2019/11/earthling-ed-zu-gast-in-hamburg/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (26:39)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (32:39)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/12/shana-falana-interview/",
+        "message": "unknown: Unexpected token (257:5)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/01/natronfreie-cremedeos-von-sauberkunst/",
+        "message": "unknown: Unexpected token (15:15)"
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/",
-        "message": "unknown: Unterminated JSX contents (32:16)"
+        "message": "unknown: Unterminated JSX contents (38:16)"
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-songs-fuer-den-februar/",
-        "message": "unknown: Unterminated JSX contents (51:16)"
+        "message": "unknown: Unterminated JSX contents (57:16)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/01/freshflaesch-cold-brew-coffee-juice-von-mounthagen/",
+        "message": "unknown: Unexpected token (29:30)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/02/happy-cashew/",
+        "message": "unknown: Unexpected token (56:66)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/02/tiere-essen-von-jonathan-safran-foer/",
+        "message": "unknown: Unexpected token (167:12)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/03/die-geschichte-von-herrn-sommer-von-patrick-sueskind/",
+        "message": "unknown: Unexpected token (24:68)"
       },
       {
         "path": "https://cardamonchai.com/2019/04/10-tipps-wie-du-deine-nerven-schonst/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (41:6)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (47:6)"
       },
       {
         "path": "https://cardamonchai.com/2019/05/10-ideen-fuer-mehr-glueckliche-momente/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (42:40)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (54:40)"
       },
       {
         "path": "https://cardamonchai.com/2019/05/howey-ou-klimastreik/",
@@ -2459,31 +2575,59 @@
       },
       {
         "path": "https://cardamonchai.com/2019/06/veraenderungen-sind-gut/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (77:12)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (89:12)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/07/vegan-aber-guenstig-patrick-bolk/",
+        "message": "unknown: Unexpected token (25:42)"
       },
       {
         "path": "https://cardamonchai.com/2019/08/vegane-wolle-vegarn-interview/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (125:65)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (137:65)"
       },
       {
         "path": "https://cardamonchai.com/2019/08/feuer-im-regenwald-amazonas/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (131:20)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (143:20)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/08/vegan-models-so-ticken-veganerinnen/",
+        "message": "unknown: Unexpected token (87:14)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/09/kathrin-eva-schmid-vom-tierschutztheater-im-interview/",
+        "message": "unknown: Unexpected token (148:45)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/09/stummfilm-long-distance-calling-veroeffentlichen-konzert-aus-altona/",
+        "message": "unknown: Unexpected token (28:22)"
       },
       {
         "path": "https://cardamonchai.com/2019/09/das-sterben-der-eintagskueken/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (100:15)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (118:15)"
       },
       {
         "path": "https://cardamonchai.com/2019/10/tierversuche-in-deutschland/",
         "message": "unknown: Unexpected token, expected \"}\" (15:21)"
       },
       {
+        "path": "https://cardamonchai.com/2019/12/roberts-teehaus-im-test/",
+        "message": "unknown: Unexpected token (74:68)"
+      },
+      {
         "path": "https://cardamonchai.com/2019/12/10-tipps-gegen-negativitaet/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (59:46)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (77:46)"
       },
       {
         "path": "https://cardamonchai.com/2019/11/earthling-ed-zu-gast-in-hamburg/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (26:39)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (32:39)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/12/shana-falana-interview/",
+        "message": "unknown: Unexpected token (257:5)"
+      },
+      {
+        "path": "https://cardamonchai.com/2020/03/post-hardcore-band-twins/",
+        "message": "unknown: Unexpected token (27:75)"
       }
     ],
     "noSubtitle": [

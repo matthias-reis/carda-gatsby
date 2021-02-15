@@ -39,7 +39,13 @@ subTitle: „Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist
   
 ---
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2016/03/11781613_662141737220093_5706785569758475977_n-640x640.jpg "Hendrike von Pony Hütchen")
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title="Hendrike von Pony Hütchen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11781613_662141737220093_5706785569758475977_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11781613_662141737220093_5706785569758475977_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne schädliche
 Inhaltsstoffe. Unter Veganern hat sich die Marke längst einen Namen gemacht.
@@ -63,7 +69,13 @@ natürlich dazu.
 
 ## Pony Hütchen – Der Name stammt aus „Emil und die Detektive“
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2016/03/480447_10151472274868907_1763719173_n-640x959.jpg "Hendrike bei der Kosmetikherstellung")
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title="Hendrike bei der Kosmetikherstellung"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_480447_10151472274868907_1763719173_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_480447_10151472274868907_1763719173_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Pony Hütchen. Was für ein toller Name. Wie bist Du darauf gekommen?
 
@@ -92,7 +104,13 @@ etwas an ihren Produktionsgewohnheiten zu ändern?
 
 ## „Auch große Hersteller werden mittelfristig ihre Rezepturen ändern“
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2016/03/12249690_10153255169378907_3522408955063816251_n-640x640.jpg "Hendrike am Pony Hütchen Messestand")
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title="Hendrike am Pony Hütchen Messestand"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_12249690_10153255169378907_3522408955063816251_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_12249690_10153255169378907_3522408955063816251_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Hendrike:** Ich gehe davon aus, dass mittelfristig auch große Hersteller ihre
 Rezepturen ändern werden. „Vegan“ ist als Thema mitten in der Gesellschaft
@@ -131,7 +149,13 @@ entscheidenden Einfluss gehabt.
 
 ## „Nachhaltigkeit und Ressourcenschonung steht im Vordergrund“
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2016/03/Seifentorte-640x640.jpg "Cupcakes aus der Pony Hütchen Manufaktur")
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title="Cupcakes aus der Pony Hütchen Manufaktur"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Seifentorte__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Seifentorte__l.jpg"
+  loadingUrl="undefined" />
 
 **Hendrike:** Für mich steht eigentlich die Nachhaltigkeit und
 Ressourcenschonung im Vordergrund. Das ist die Hauptmotivation.
@@ -172,7 +196,13 @@ hast?
 
 ## Ponyhütchen bringt bald wieder Lidschatten heraus
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2016/03/7058_10151472274898907_1573139495_n-640x959.jpg "Schönes aus dem Hause Pony Hütchen")
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title="Schönes aus dem Hause Pony Hütchen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_7058_10151472274898907_1573139495_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_7058_10151472274898907_1573139495_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Hendrike:** Das war ein Lidschatten. Und die Lidschatten werden dieses Jahr
 auch wiederkommen. Von vielen Kundinnen werden sie schon sehnsüchtig erwartet.
@@ -222,7 +252,13 @@ versendet. Wie kommt das?
 
 ## 95 Prozent der Pony Hütchen Kunden kommen aus Deutschland
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2016/03/Seifencupcakes.jpg "Die Produkte können auch bei verschiedenen Händlern erworben werden")
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title="Die Produkte können auch bei verschiedenen Händlern erworben werden"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Seifencupcakes__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Seifencupcakes__l.jpg"
+  loadingUrl="undefined" />
 
 **Hendrike:** 95 Prozent meiner Kunden kommen aus Deutschland. Da ist es
 sinnvoller, den Versand direkt in Deutschland abzuwickeln statt die Pakete aus
@@ -247,7 +283,13 @@ Was ist geplant für Pony Hütchen? Wird es Filialen geben? Eine neue Linie?
 
 ## 2016 wird ein spannendes Jahr für Pony Hütchen
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2016/03/12809760_10153447142048907_3043917774165851389_n-640x640.jpg "Bald gibt es auch Pflegeprodukte für Babys")
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title="Bald gibt es auch Pflegeprodukte für Babys"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_12809760_10153447142048907_3043917774165851389_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_12809760_10153447142048907_3043917774165851389_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Hendrike:** Oh, 2016 wird definitiv ein spannendes und aufregendes Jahr für
 mein kleines Unternehmen. Wir sind jetzt gerade in unser Loft umgezogen, wo wir

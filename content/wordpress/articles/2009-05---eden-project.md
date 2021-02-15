@@ -53,7 +53,13 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 13/17
   
 ---
 
-![Eden Project](http://cardamonchai.com/wp-content/uploads/2009/05/11503038676_01cd4d6690_z-640x480.jpg)
+<RemoteImage
+  alt="Eden Project"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_11503038676_01cd4d6690_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_11503038676_01cd4d6690_z__l.jpg"
+  loadingUrl="undefined" />
 
 Im Herzen des G \_\_\_\_ artens befinden sich zwei riesige kuppelförmige
 Gewächshäuser, in denen der Besucher verschiedene Klimazonen durchwandert. Die

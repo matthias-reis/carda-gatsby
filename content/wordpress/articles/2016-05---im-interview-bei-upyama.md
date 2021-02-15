@@ -35,7 +35,13 @@ subTitle: '"Grüne Macher"'
   
 ---
 
-![Upyama](http://cardamonchai.com/wp-content/uploads/2016/05/Selbstgenähter-Umschlag-640x640.jpg)
+<RemoteImage
+  alt="Upyama"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Selbstgena%CC%88hter-Umschlag__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Selbstgena%CC%88hter-Umschlag__l.jpg"
+  loadingUrl="undefined" />
 
 **Was für eine Ehre! Letzte Woche schrieb mich die liebe Anja von Upyama an, ob
 ich Lust hätte, mich für die Rubrik "Grüne Macher" interviewen zu lassen.**
@@ -72,7 +78,13 @@ _Herzlichen Dank an dieser Stelle an Anja und Denise! &lt;3_
 
 ## Auf das Bild klicken um zum Interview bei Upyama zu gelangen
 
-![Upyama | large](http://cardamonchai.com/wp-content/uploads/2016/05/Bildschirmfoto-2016-05-24-um-15.45.28-800x853.png)
+<RemoteImage
+  alt="Upyama"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-15.45.28.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-24-um-15.45.28.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://www.upyama.de/anne-reis-cardamonchai/)
 

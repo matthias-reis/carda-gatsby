@@ -72,7 +72,13 @@ Dem Paket lagen die Sorten "Lindenblüte", "Poseidon" und "Hautnah" bei.
 
 ## Pflege für empfindliche Haut - ohne Plastik
 
-![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/06/42192710602_352fcc4517_k-400x300.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42192710602_352fcc4517_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42192710602_352fcc4517_k__l.jpg"
+  loadingUrl="undefined" />
 
 "Hautnah" ist ohne Duftstoffe und daher besonders für die Pflege frischer
 Tattoos und empfindlicher Gesichtshaut geeignet (Finde ich! :-) ). "Poseidon"
@@ -95,7 +101,13 @@ anderem Hanf- und Klettenwurzelöl, Brennnesselextrakt, Aloe Vera Gel und Sole.
 
 ## Sauberkunst ist vegan
 
-![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/06/28366185638_9ea2ad9df3_k-400x300.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366185638_9ea2ad9df3_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366185638_9ea2ad9df3_k__l.jpg"
+  loadingUrl="undefined" />
 
 Und was soll ich sagen: Meiner vom Sport und Schwitzen gereizten Kopfhaut geht
 es wieder gut und meine Haare glänzen! Beim Duschen kann man es einfach über die
@@ -118,7 +130,13 @@ stöbern gehen. Viel Spaß!
 [gallery type="rectangular" link="none" size="large"
 ids="21118,21119,21117,21116"]
 
-![Sauberkunst | full](http://cardamonchai.com/wp-content/uploads/2018/06/28366179488_bd2a44ad8a_k.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366179488_bd2a44ad8a_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366179488_bd2a44ad8a_k__l.jpg"
+  loadingUrl="undefined" />
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

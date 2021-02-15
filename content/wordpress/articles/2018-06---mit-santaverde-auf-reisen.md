@@ -60,7 +60,13 @@ Gesicht schmieren.
 
 ## Santaverde gegen Rötungen
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/06/40999488340_4064a5bbdb_z-400x300.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40999488340_4064a5bbdb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40999488340_4064a5bbdb_z__l.jpg"
+  loadingUrl="undefined" />
 
 Besonders wenn man im Urlaub jeden Tag an der frischen Luft ist und viel Sonne
 abbekommt, ist gute Hautpflege essentiell. Für mich ist in diesen Phasen neben
@@ -81,7 +87,13 @@ nicht schön.
 
 ## Keine beschwerenden Inhaltsstoffe
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/06/42092634124_1b6520cefa_z-1-400x300.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42092634124_1b6520cefa_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42092634124_1b6520cefa_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Bei den rein natürlichen Produkten von Santaverde passiert mir so etwas nicht.
 Sie kommen ohne beschwerende Inhaltsstoffe aus und die schützende Aloe Vera
@@ -98,7 +110,13 @@ vorbeugen. Enthalten sind reiner Aloe Vera Saft sowie pflanzliches Hyaluron.
 
 ## Stiefmütterchen und Weidenextrakt
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/06/27941347907_752bb99248_z-400x300.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_27941347907_752bb99248_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_27941347907_752bb99248_z__l.jpg"
+  loadingUrl="undefined" />
 
 Da ich in der Sommerzeit besonders rund um die Kinnpartie gerne mal zu Ansätzen
 unreiner Haut neige, kommt es für mich gerade richtig. Das enthaltene
@@ -115,7 +133,13 @@ eine verständliche Volldeklaration aller Inhaltsstoffe gibt.
 
 ## Vegane Naturkosmetik
 
-![Santaverde](http://cardamonchai.com/wp-content/uploads/2018/06/28936664758_578e18efd5_z-400x300.jpg)
+<RemoteImage
+  alt="Santaverde"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936664758_578e18efd5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936664758_578e18efd5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Alle Produkt sind vegan und werden in Deutschland hergestellt. Sie tragen das
 Siegel der Vegan Society, das Leaping Bunny Siegel sowie das NATRUE Siegel für

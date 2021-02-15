@@ -35,7 +35,13 @@ subTitle: Zwei Artikel aus meiner Feder
   
 ---
 
-![Der Wohlfühl-Guide aus meiner Feder](http://cardamonchai.com/wp-content/uploads/2015/12/23541526255_c611b222df_z-640x427.jpg "Der Wohlfühl-Guide aus meiner Feder")
+<RemoteImage
+  alt="Der Wohlfühl-Guide aus meiner Feder"
+  size="medium"
+  title="Der Wohlfühl-Guide aus meiner Feder"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23541526255_c611b222df_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23541526255_c611b222df_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Die neue Ausgabe vom Welt Vegan Magazin ist da! Das Cover ziert dieses Mal
 Nova Meierhenrich, die derzeit PETA bei der Anti-Pelzkampagne unterstützt. Und
@@ -48,7 +54,13 @@ erwarten Euch.
 
 ## Ein Wohlfühl-Guide für die kalte Jahreszeit
 
-![Die Klimakonferenz in Paris](http://cardamonchai.com/wp-content/uploads/2015/12/23515469656_e92f3c09fc_z-640x427.jpg "Die Klimakonferenz in Paris")
+<RemoteImage
+  alt="Die Klimakonferenz in Paris"
+  size="medium"
+  title="Die Klimakonferenz in Paris"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23515469656_e92f3c09fc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23515469656_e92f3c09fc_z__l.jpg"
+  loadingUrl="undefined" />
 
 Aus meiner Feder stammt ein Wellness-Sonderteil mit dem Titel "Kleine Auszeit
 für die Seele - Ein Wohlfühl-Guide für die Kalte Jahreszeit" (Ab Seite 80) sowie

@@ -51,7 +51,13 @@ an und erzähle Euch, was mir dabei durch den Kopf geht.
 
 ## Für alle, die die Bloggeraktion "Blind Date mit einem Song" noch nicht kennen, hier noch eine kurze Erklärung:
 
-![I like birds](http://cardamonchai.com/wp-content/uploads/2017/09/11354436373_f3f2ca7133_z-300x200.jpg)
+<RemoteImage
+  alt="I like birds"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_11354436373_f3f2ca7133_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_11354436373_f3f2ca7133_z__l.jpg"
+  loadingUrl="undefined" />
 
 Jede/r Blogger/in, der/die teilnimmt, hat ein Blind Date. Nicht mit einem
 Menschen, sondern mit einem Song. Alle Teilnehmer hören am selben Tag zur selben
@@ -97,7 +103,13 @@ und lauscht dem Puls der Stadt.**
 
 ## "Das sind doch alles nur Gebrauchsgegenstände"
 
-![I like birds](http://cardamonchai.com/wp-content/uploads/2017/09/17160873227_6048e2ba21_z-300x200.jpg)
+<RemoteImage
+  alt="I like birds"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_17160873227_6048e2ba21_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_17160873227_6048e2ba21_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Materielle Dinge bedeuten ihm nichts mehr. Wenn andere sich über einen Kratzer
 auf ihrem glänzenden Smartphone beschweren, kann er nur müde lächeln.
@@ -129,7 +141,13 @@ Glücklich.**
 
 ## Eels stellt sich vor - Die Musiker hinter "I like birds"
 
-![I like birds](http://cardamonchai.com/wp-content/uploads/2017/09/18121182520_4a4479afb9_z-300x200.jpg)
+<RemoteImage
+  alt="I like birds"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_18121182520_4a4479afb9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_18121182520_4a4479afb9_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wer Eels nicht kennt und gerne mehr über die Band erfahren möchte, für den habe
 ich hier eine Kurzbeschreibung: Mark Oliver Everett, auch E genannt, gründete

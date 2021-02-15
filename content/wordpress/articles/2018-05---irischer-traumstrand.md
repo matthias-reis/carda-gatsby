@@ -37,9 +37,21 @@ subTitle: Ein Ort der Ruhe
 Wo in Irland sich dieser Strand befindet, wird nicht verraten. Ihr dürft
 trotzdem die Aussicht mit mir genießen.
 
-![Traumstrand | full](http://cardamonchai.com/wp-content/uploads/2018/02/38452580050_15f56bbc2d_k-960x283.jpg)
+<RemoteImage
+  alt="Traumstrand"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38452580050_15f56bbc2d_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38452580050_15f56bbc2d_k__l.jpg"
+  loadingUrl="undefined" />
 
-![Traumstrand | full](http://cardamonchai.com/wp-content/uploads/2018/02/26390516718_9a860e911a_k-960x223.jpg)
+<RemoteImage
+  alt="Traumstrand"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26390516718_9a860e911a_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26390516718_9a860e911a_k__l.jpg"
+  loadingUrl="undefined" />
 
 ## Wegweiser Irland 2017
 

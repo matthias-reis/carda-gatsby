@@ -30,7 +30,8 @@ date: 2019-01-31T11:55:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (29:30)"
 thumbnailId: "23341"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_5__l.jpg
@@ -39,6 +40,9 @@ subTitle: Neue Wachmacher aus Hamburg
   
 ---
 
+## unknown: Unexpected token (29:30)
+
+<!--
 _Werbung\*_
 
 **Mounthagen stellt seit 1986 biologisch-dynamischen Kaffee in Demeter-Qualität
@@ -67,7 +71,11 @@ aufbereitet mit einem Hauch Kohlensäure. Das klingt ja alles schon mal ganz gut
 aber was ist das eigentlich **Cold Brew Kaffee** ? Das hört man ja im Moment
 überall - aber was muss man sich darunter vorstellen?
 
-![Cold Brew Kaffee](http://cardamonchai.com/wp-content/uploads/2019/01/2019-01-15-mounthagen-cold-brew-kaffee-2-400x533.jpg 'Cold Brew Kaffee von Mounthagen aus der "Frehfläsch"')
+<RemoteImage alt="Cold Brew Kaffee" size="medium" title="Cold Brew Kaffee von
+Mounthagen aus der "Frehfläsch""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-mounthagen-cold-brew-kaffee-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-mounthagen-cold-brew-kaffee-2__l.jpg"
+loadingUrl="undefined" />
 
 Es gibt etwas, das sich in unserer heutigen Zeit großer Beliebtheit erfreut:
 Alte Sachen ausgraben, abstauben und einen Trend daraus zaubern. Wir besinnen
@@ -131,5 +139,7 @@ _\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
 Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog findet Ihr auf
 meiner Transparenz-Seite._
+
+-->
 
   

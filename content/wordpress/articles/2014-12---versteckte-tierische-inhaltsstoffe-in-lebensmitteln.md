@@ -48,7 +48,13 @@ subTitle: 10 Fakten über Veganismus - Teil IX
   
 ---
 
-![Wer hätte gedacht, dass sich in Chips Wild versteckt?](http://cardamonchai.com/wp-content/uploads/2014/12/14434716447_d5a4470f5e_z-640x427.jpg "Wer hätte gedacht, dass sich in Chips Wild versteckt?")
+<RemoteImage
+  alt="Wer hätte gedacht, dass sich in Chips Wild versteckt?"
+  size="medium"
+  title="Wer hätte gedacht, dass sich in Chips Wild versteckt?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_14434716447_d5a4470f5e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_14434716447_d5a4470f5e_z__l.jpg"
+  loadingUrl="undefined" />
 
 ** [_Hier gehts zu Teil 8 des Artikels_](/2014/11/28/fakepelz-echtpelz/) "Die
 kannst Du doch essen! Sind doch nur Kartoffelchips!" Kartoffelchips mit
@@ -105,7 +111,13 @@ finde ich raus, ob auf meiner **Schokolade** Schellack ist?
 
 ## Tierische Abfallprodukte sind einfach billiger
 
-![Schweineborsten im Brot - kaum zu glauben, aber wahr](http://cardamonchai.com/wp-content/uploads/2014/12/14434428510_0995434b45_z-640x427.jpg "Schweineborsten im Brot - kaum zu glauben, aber wahr")
+<RemoteImage
+  alt="Schweineborsten im Brot - kaum zu glauben, aber wahr"
+  size="medium"
+  title="Schweineborsten im Brot - kaum zu glauben, aber wahr"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_14434428510_0995434b45_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_14434428510_0995434b45_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Warum-Frage lässt sich hier wieder mal schnell klären: Weil tierische
 Abfallprodukte wie das **Schweinefett** , aus dem die Gelatine hergestellt wird,
@@ -177,7 +189,13 @@ sind inzwischen vegan. Dazu gehören
 - Milford Tees (Hersteller gibt keine Garantie, dass die Produkte auf allen
   Produktionsstufen ohne zur Hilfenahme tierischer Stoffe hergestellt werden)
 
-![Veganes kennzeichnen!](http://cardamonchai.com/wp-content/uploads/2014/12/veganes-kennzeichnen-640x427.jpg "Veganes kennzeichnen!")
+<RemoteImage
+  alt="Veganes kennzeichnen!"
+  size="medium"
+  title="Veganes kennzeichnen!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_veganes-kennzeichnen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_veganes-kennzeichnen__l.jpg"
+  loadingUrl="undefined" />
 
 Unter meinen Quellenangaben findet Ihr vollständige Listen. (PETA2
 [<sup>4</sup>](#4), FitForVegan [<sup>7</sup>](#7) ).Bei gelben **Limonaden**
@@ -199,7 +217,13 @@ zum Beispiel in Fertigprodukten eine ganz gute Entscheidungshilfe sein.
 
 ## Bewusster Einkaufen macht Spaß!
 
-![Proteinreiche Kost ganz ohne Tierisches](http://cardamonchai.com/wp-content/uploads/2014/12/15719443362_2dcbb26798_z-640x427.jpg "Proteinreiche Kost ganz ohne Tierisches")
+<RemoteImage
+  alt="Proteinreiche Kost ganz ohne Tierisches"
+  size="medium"
+  title="Proteinreiche Kost ganz ohne Tierisches"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_15719443362_2dcbb26798_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_12_15719443362_2dcbb26798_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bewusster Einkaufen macht Spaß und hält jung, ansonsten gilt: Googeln, googeln,
 googeln, Produktanfragen bei Herstellern stellen und die Antworten in Foren und

@@ -47,7 +47,13 @@ Höchstleistungen.
 
 ## "The Game Changers" zeigt, wie es wirklich ist
 
-![the-game-changers](http://cardamonchai.com/wp-content/uploads/2019/11/the-game-changers-release-netflix-400x400.jpg)
+<RemoteImage
+  alt="the-game-changers"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers-release-netflix__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_the-game-changers-release-netflix__l.jpg"
+  loadingUrl="undefined" />
 
 Schauspieler und Bodybuilder Arnold Schwarzenegger, Rekord-Gewichtheber Patrick
 Baboumian, Formel 1 Fahrer Lewis Hamilton, Radrennfahrerin Dotsie Bausch und

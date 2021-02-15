@@ -79,7 +79,13 @@ lebst Du eigentlich schon vegan?
 
 ## "Ich bereue, dass ich nicht schon früher Veganerin wurde"
 
-![inbar-schuette-perez](http://cardamonchai.com/wp-content/uploads/2020/03/inbar-schuette-perez-1-400x533.png)
+<RemoteImage
+  alt="inbar-schuette-perez"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_inbar-schuette-perez-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Inbar:** Ich lebe jetzt seit über zehn Jahren vegan. Zuerst habe ich mich
 zwanzig Jahre lang vegetarisch ernährt. Eines der Dinge, die ich in meinem Leben
@@ -212,7 +218,13 @@ einzusetzen. Genau, wie vorher.
 
 ## "Du musst nur die Teilnahme bestätigen!"
 
-![inbar-schuette-perez](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-14-inbar-1-400x262.jpg)
+<RemoteImage
+  alt="inbar-schuette-perez"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Inbar:** Es ist total einfach: Klicke einfach in der Facebook-Gruppe auf
 "teilnehmen" und lese Dir die Infos durch!
@@ -372,7 +384,13 @@ Jetzt.
 
 ## Jeden Samstag ist Demotag
 
-![inbar-schuette-perez](http://cardamonchai.com/wp-content/uploads/2020/03/2020-03-14-inbar-400x238.jpg)
+<RemoteImage
+  alt="inbar-schuette-perez"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-14-inbar__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie geht es weiter? Was steht als Nächstes auf dem Plan für Dich und
 für die Aktive Vegans Hamburg?

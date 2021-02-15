@@ -36,7 +36,13 @@ subTitle: Ratet mal, wer die neue Textchefin ist...
   
 ---
 
-![Textchefin](http://cardamonchai.com/wp-content/uploads/2016/11/31133773622_280b12ace6_z-640x427.jpg)
+<RemoteImage
+  alt="Textchefin"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31133773622_280b12ace6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31133773622_280b12ace6_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Das neue Welt Vegan Magazin ist da! Die Ausgabe 4/2016 liegt ab sofort in den
 Regalen der Zeitschriftenläden.**
@@ -55,7 +61,13 @@ verraten.
 
 ## Als Textchefin habe ich alles schon gelesen
 
-![Textchefin](http://cardamonchai.com/wp-content/uploads/2016/11/30456585984_191f2b0128_z-640x427.jpg)
+<RemoteImage
+  alt="Textchefin"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_30456585984_191f2b0128_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_30456585984_191f2b0128_z__l.jpg"
+  loadingUrl="undefined" />
 
 Besonders beeindruckt hat mich auch der Text der vegan lebenden
 Ernährungsberaterin Carmen Hercegfi. Sie berichtet über ihre Schwangerschaft und

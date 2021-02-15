@@ -51,7 +51,13 @@ isst. Auf der Speisekarte findet man jede Menge** **vorwiegend vegane
 Köstlichekeiten, die stets frisch zubereitet werden. Ich habe die Gründerinnen**
 **Iris Koczwara und Janina Braconier jetzt interviewt.**
 
-![Cookie's Veggies](http://cardamonchai.com/wp-content/uploads/2017/08/Janina-300x371.jpg "Janina")
+<RemoteImage
+  alt="Cookie's Veggies"
+  size="medium"
+  title="Janina"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Janina__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Janina__l.jpg"
+  loadingUrl="undefined" />
 
 In gemütlicher Atmosphäre genießt man im Cookie's Veggies in der Halterner
 Straße 93 in Dorsten vegane und vegetarische Gerichte. Das Lokal ist ein Projekt
@@ -81,7 +87,13 @@ immer wieder interessant und eine Herausforderung ist.
 
 ## "Schon als Kind war mir der Respekt vor Tieren wichtig"
 
-![Cookie's Veggies](http://cardamonchai.com/wp-content/uploads/2017/08/cookie-300x200.jpg)
+<RemoteImage
+  alt="Cookie's Veggies"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_cookie__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_cookie__l.jpg"
+  loadingUrl="undefined" />
 
 **Iris:** Das ist eine lange Geschichte. Ich versuche, es mal kurz zu fassen.
 Schon als Kind war mir ein Leben mit Tieren und Respekt vor dem Leben als
@@ -122,7 +134,13 @@ kommt besser an?
 
 ## "Unsere Stammgäste lieben die veganen Gerichte"
 
-![Cookie's Veggies](http://cardamonchai.com/wp-content/uploads/2017/08/Iris-300x217.jpg "Iris")
+<RemoteImage
+  alt="Cookie's Veggies"
+  size="medium"
+  title="Iris"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Iris__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Iris__l.jpg"
+  loadingUrl="undefined" />
 
 **Iris:** Ehrlich gesagt, bieten wir fast ausschließlich vegane Küche an. Das
 gilt auch für unser Brot, die Torten und alles andere. Es gibt inzwischen
@@ -187,8 +205,13 @@ verteilt sich das gleichmäßig?
 
 ## "Hier treffen sich die Generationen"
 
-![Cookie's Veggies | full](http://cardamonchai.com/wp-content/uploads/2017/08/Cookies.png
-'Cookie's Veggies')
+<RemoteImage
+  alt="Cookie's Veggies"
+  size="full"
+  title="Cookie's Veggies"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Cookies.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Cookies.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Janina:** Es gibt keine Altersgruppe, die besonders hervorsticht. Hier treffen
 sich die Generationen. Was ich aber beobachte ist die Tatsache, dass es deutlich
@@ -241,8 +264,13 @@ dem Lebewesen zu vermitteln.
 
 ## "Der Tierschutz ist für uns von zentraler Bedeutung
 
-![Cookie's Veggies](http://cardamonchai.com/wp-content/uploads/2017/08/20707241_1570174443049754_1887003101_o-300x242.jpg
-'Lecker essen im Cookie's Veggie's')
+<RemoteImage
+  alt="Cookie's Veggies"
+  size="medium"
+  title="Lecker essen im Cookie's Veggie's"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_20707241_1570174443049754_1887003101_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_20707241_1570174443049754_1887003101_o__l.jpg"
+  loadingUrl="undefined" />
 
 Der Tierschutz ist für den Verein von zentraler Bedeutung und beinhaltet viele
 Facetten. Training von Hunden zum Umgang mit Menschen ist genauso dabei, wie

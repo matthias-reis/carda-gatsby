@@ -56,7 +56,13 @@ Hier noch eine Regel, sie gilt ab sofort für die Treffen der Hamburger Blogger
 > nachrücken. Eine Abmeldung muss 48 Stunden VOR dem Termin erfolgen, damit
 > andere noch planen können.
 
-![Hamburger Bloggertreffen | large](http://cardamonchai.com/wp-content/uploads/2017/01/24196669955_612eada51f_k-800x307.jpg)
+<RemoteImage
+  alt="Hamburger Bloggertreffen"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_24196669955_612eada51f_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_24196669955_612eada51f_k__l.jpg"
+  loadingUrl="undefined" />
 
 Merken
 

@@ -91,6 +91,12 @@ Spotify und iTunes findet Ihr im Anschluss an den Artikel.
 
 <iframe src="https://open.spotify.com/embed/user/1121757456/playlist/6v9gj9LjXWDL43U7Vijx4F" width="300" height="380" frameborder="0"></iframe>
 
-![12-songs-august-pinterest](http://cardamonchai.com/wp-content/uploads/2019/07/121.png)
+<RemoteImage
+  alt="12-songs-august-pinterest"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_121.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_121.png__l.jpg"
+  loadingUrl="undefined" />
 
   

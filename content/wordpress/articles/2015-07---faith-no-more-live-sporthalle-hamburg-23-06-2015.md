@@ -36,7 +36,13 @@ subTitle: Eine schöne Erinnerung
   
 ---
 
-![Unsere Faith No More Karten](http://cardamonchai.com/wp-content/uploads/2015/07/17295536976_02149f84df_z-640x640.jpg "Unsere Faith No More Karten")
+<RemoteImage
+  alt="Unsere Faith No More Karten"
+  size="medium"
+  title="Unsere Faith No More Karten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Ich habe Mike Patton getroffen! Natürlich nicht persönlich, aber ich habe es
 in meinem hohen Alter endlich geschafft, ein Faith No More Konzert zu besuchen!

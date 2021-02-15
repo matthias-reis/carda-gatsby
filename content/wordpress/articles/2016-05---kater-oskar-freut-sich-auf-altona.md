@@ -43,7 +43,13 @@ Umzug nach Altona.
 Endlich geht es mitten rein ins Geschehen und er kann wieder Menschen in der
 Fußgängerzone beobachten. Vom Balkon aus!
 
-![Kater Oskar | full](http://cardamonchai.com/wp-content/uploads/2016/05/26505764212_cf69b03d83_z.jpg)
+<RemoteImage
+  alt="Kater Oskar"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26505764212_cf69b03d83_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26505764212_cf69b03d83_z__l.jpg"
+  loadingUrl="undefined" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

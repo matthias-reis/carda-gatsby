@@ -36,7 +36,13 @@ subTitle: Die ganz große Festival-Liebe
 **Vom ArcTanGent Festival habe ich Euch vor Kurzem schon erzählt. Hier kommt
 mein Nachbericht - in Form einer verliebten Lobhudelei.**
 
-![arctangent](http://cardamonchai.com/wp-content/uploads/2019/08/2019-08-28-arctangent-10-400x267.jpg "Silent Disco")
+<RemoteImage
+  alt="arctangent"
+  size="medium"
+  title="Silent Disco"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-10__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-10__l.jpg"
+  loadingUrl="undefined" />
 
 Das [ArcTanGent Festival](/2019/05/arctangent-festival-2019/) fand vom 15.
 bis 17. August in der Nähe von Bristol in England statt. Wir waren auch dabei
@@ -67,7 +73,13 @@ Bands auf.
 Coheed &amp; Cambria, Zeal &amp; Ardor, Cultdreams, Ithaka, Bossk und Carpenter
 Brut.**
 
-![arctangent](http://cardamonchai.com/wp-content/uploads/2019/08/2019-08-28-arctangent-15-400x533.jpg "Leckeres veganes Essen")
+<RemoteImage
+  alt="arctangent"
+  size="medium"
+  title="Leckeres veganes Essen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-15__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_2019-08-28-arctangent-15__l.jpg"
+  loadingUrl="undefined" />
 
 Meine geliebten **Toska** und **Sleep Token** habe ich leider verpasst. Aber es
 gab auch einfach so wahnsinnig viel zu sehen, zu hören und zu entdecken!

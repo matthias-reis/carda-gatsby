@@ -25,7 +25,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (51:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (57:16)"
 thumbnailId: "23276"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_01_Top-10-Winter-Destinations__l.jpg
@@ -34,7 +34,7 @@ subTitle: Präsentiert von den drei von der Bande
   
 ---
 
-## unknown: Unterminated JSX contents (51:16)
+## unknown: Unterminated JSX contents (57:16)
 
 <!--
 **Die drei von der Bande präsentieren Euch heute die 10 Songs für den
@@ -61,7 +61,13 @@ hoch und runter spielt.
 
 ## 10 Songs, die Ihr nicht mehr vergesst
 
-![10-songs](http://cardamonchai.com/wp-content/uploads/2019/01/Bildschirmfoto-2019-01-25-um-14.58.27-400x127.png)
+<RemoteImage
+  alt="10-songs"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Bildschirmfoto-2019-01-25-um-14.58.27.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Bildschirmfoto-2019-01-25-um-14.58.27.png__l.jpg"
+  loadingUrl="undefined" />
 
 <ol>
     <li> __Mono - "Nowhere, Now Here"__ Das neue Mono-Album ist das musikalische Werk, auf das wir alle sehnsüchtig gewartet haben. "Nowhere, Now Here" ist eines von vielen nachdenklichen, kreativen und hochmusikalischen Stücken, die uns auf der gleichnamigen LP beschert wurden. Ein Juwel.

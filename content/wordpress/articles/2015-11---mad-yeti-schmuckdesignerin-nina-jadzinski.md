@@ -39,7 +39,13 @@ subTitle: '"Ich möchte Schmuck für Veganer machen!"'
   
 ---
 
-![Brokkoli von Mad Yeti Creations](http://cardamonchai.com/wp-content/uploads/2015/11/image2-640x625.jpg "Brokkoli von Mad Yeti Creations")
+<RemoteImage
+  alt="Brokkoli von Mad Yeti Creations"
+  size="medium"
+  title="Brokkoli von Mad Yeti Creations"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image2__l.jpg"
+  loadingUrl="undefined" />
 
 **Nina:** Ich lebe jetzt seit rund 10 Jahren vegetarisch und habe immer weiter
 auch tierische Produkte wie Milch und Eier weggelassen. Seit diesem Jahr habe
@@ -62,7 +68,13 @@ Gemüse, das du als Kind nicht mochtest aber heute am liebsten jeden Tag essen
 würdest? Mir geht es ja mit Grünkohl und Spargel so, ich bin neugierig, ob
 andere das auch kennen.
 
-![Avocado von Mad Yeti Creations](http://cardamonchai.com/wp-content/uploads/2015/11/image1-640x620.jpg "Avocado von Mad Yeti Creations")
+<RemoteImage
+  alt="Avocado von Mad Yeti Creations"
+  size="medium"
+  title="Avocado von Mad Yeti Creations"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image1__l.jpg"
+  loadingUrl="undefined" />
 
 **Nina:** Tatsächlich habe ich erst vor einigen Wochen genau diese Erfahrung
 gemacht. Ich habe als Kind Rosenkohl gehasst! Mir wurde immer schlecht davon und
@@ -96,7 +108,13 @@ noch witzige Bilder von mir, in denen ich mir Brillen und Zahnspangen aus Knete
 gebastelt habe, da war ich noch im Kindergartenalter.## Das erste Schmuckstück
 war ein Burger
 
-![Das erste Schmuckstück war ein Burger](http://cardamonchai.com/wp-content/uploads/2015/11/image2-1-640x619.jpg "Das erste Schmuckstück war ein Burger")
+<RemoteImage
+  alt="Das erste Schmuckstück war ein Burger"
+  size="medium"
+  title="Das erste Schmuckstück war ein Burger"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image2-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image2-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Was war denn das erste Schmuckstück, dass du gemacht hast? **Nina:**
 Ich glaube, es war ein kleiner Burger. Realistisch aussehendes Essen
@@ -112,7 +130,13 @@ gefällt es total.
 
 </p> __Anne:__  Demnach stellst du nicht nur Anhänger her, sondern auch andere Dinge? __Nina:__  Ich habe schon allerhand an Schmuckstücken gemacht; Ringe, Ketten, Ohrringe, Armbänder etc. Außerdem mache ich auch Handy- und Schlüsselanhänger und diese kleinen Charms für die Kopfhörerbuchsen von Handys. Meine ganzen Portemonnaies, Planer und mein Handy sind voll mit meinen Kreationen. Die von meinen Freunden und meiner Familie übrigens auch (grinst bis über beide Ohren). __Anne:__  Kann man auf Wunsch auch Sonderanfertigungen bei dir bestellen? __Nina:__  Ja, ich nehme sehr gerne Wünsche und Ideen an und versuche immer, sie umzusetzen! __Anne:__  Wie bist du auf den wunderschönen Namen Mad Yeti Creations gekommen? __Nina:__  Es ist vielleicht etwas stumpf, aber ich stehe total auf verrückte Dinge und finde Yetis sehr niedlich. Ich zeichnete an einem Tag einen Yeti (den, der auch mein Profilbild und mein Banner auf Facebook [<sup>1</sup>](#1)  schmückt) und kam dann spontan auf diesen Namen, den ich echt cool finde!## Der Schmuck ist online bestellbar
 
-![Jede Menge Kohlköpfchen](http://cardamonchai.com/wp-content/uploads/2015/11/image3-640x631.jpg "Jede Menge Kohlköpfchen")
+<RemoteImage
+  alt="Jede Menge Kohlköpfchen"
+  size="medium"
+  title="Jede Menge Kohlköpfchen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image3__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Das kann ist nur bestätigen, das ist er definitiv! Wo kann man deine
 Sachen käuflich erwerben? Ich kann mir gut vorstellen, dass das den/die ein oder

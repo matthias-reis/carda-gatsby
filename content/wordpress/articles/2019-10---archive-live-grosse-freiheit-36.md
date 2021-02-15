@@ -46,7 +46,13 @@ Dabei war doch noch so viel Zeit!
 
 ## Warm-up in der Menge
 
-![[glry name="2019-10-21-archive-grosse-freiheit"]](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-21-archive-grosse-freiheit-36-3-400x300.jpg)
+<RemoteImage
+  alt="[glry name=&quot;2019-10-21-archive-grosse-freiheit&quot;]"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__l.jpg"
+  loadingUrl="undefined" />
 
 Um 20 Uhr sollte es losgehen. Als wir etwa zwanzig Minuten vorher im Club
 eintrafen, war schon gut was los. Das Publikum keilte sich um die besten Plätze.
@@ -75,7 +81,13 @@ gelungenes Konzert voller guter alter bekannter Melodiespiele und frischer
 
 ## Eine Band, die mich schon lange begleitet
 
-![[glry name="2019-10-21-archive-grosse-freiheit"]](http://cardamonchai.com/wp-content/uploads/2019/10/2019-10-21-archive-grosse-freiheit-36-6-400x300.jpg)
+<RemoteImage
+  alt="[glry name=&quot;2019-10-21-archive-grosse-freiheit&quot;]"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__l.jpg"
+  loadingUrl="undefined" />
 
 20 Jahre und viele Konzerte ist es her, seit ich die Band das erste Mal erlebt
 habe und sie scheinen keine Sekunde gealtert zu sein. Genau wie damals scheint

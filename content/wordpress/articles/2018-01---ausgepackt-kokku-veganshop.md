@@ -69,7 +69,13 @@ Bonuspunkt.
 
 ## Vegane Schokolade satt
 
-![Kokku](http://cardamonchai.com/wp-content/uploads/2018/01/39674627051_9a8822bd32_z-300x200.jpg)
+<RemoteImage
+  alt="Kokku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39674627051_9a8822bd32_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39674627051_9a8822bd32_z__l.jpg"
+  loadingUrl="undefined" />
 
 Aus dem Paket purzelten Protein-Schokolade von Pumpin Panda, Powerriegel von Go
 4 Raw, eine tolle Lippenpflege, eine Flasche Glühwein, Instant Cappuccino
@@ -88,7 +94,13 @@ sucht, ist sie genau das Richtige.
 
 ## Protein Choc von Pumpin Panda
 
-![Kokku](http://cardamonchai.com/wp-content/uploads/2018/01/39643577162_c835378670_z-300x200.jpg)
+<RemoteImage
+  alt="Kokku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39643577162_c835378670_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39643577162_c835378670_z__l.jpg"
+  loadingUrl="undefined" />
 
 Kennt Ihr das, wenn Ihr vor dem Workout nochmal so einen richtig schönen Mund
 voll Protein braucht? Ich kann Euch empfehlen, mal die Protein Choc von Pumpin
@@ -106,7 +118,13 @@ Grundlagen sind Kokosöl und Maisstärke.
 
 ## Roh-Riegel für unterwegs
 
-![Kokku](http://cardamonchai.com/wp-content/uploads/2018/01/38776969655_c241b73f11_z-300x200.jpg)
+<RemoteImage
+  alt="Kokku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38776969655_c241b73f11_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38776969655_c241b73f11_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Raw Riegel von Go 4 Raw habe ich noch nicht probiert, ich hebe sie mir für 
 den nächsten Städtetrip auf, der schon in Kürze ansteht. Sowas habe ich einfach
@@ -128,7 +146,13 @@ Sheabutter und Olivenöl zum Einsatz. Sie pflegt spröde Lippen ohne zu Kleben.
 
 ## Bio-Glühwein und Nougat
 
-![Kokku](http://cardamonchai.com/wp-content/uploads/2018/01/38965284074_a190391c5d_z-300x200.jpg)
+<RemoteImage
+  alt="Kokku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38965284074_a190391c5d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38965284074_a190391c5d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Bio-Glühwein "Heißer Hirsch" ist eine tolle Sache, ich habe ihn diesen
 Winter bereits käuflich erworben, es gab ihn bei uns an Weihnachten. Er schmeckt
@@ -144,7 +168,13 @@ nicht. Wir werden davon alle kugelrund und Nougat-süchtig.
 
 ## Jackfruit aus der Dose
 
-![Kokku](http://cardamonchai.com/wp-content/uploads/2018/01/24805523227_9cb8a5b345_z-300x200.jpg)
+<RemoteImage
+  alt="Kokku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24805523227_9cb8a5b345_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24805523227_9cb8a5b345_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Jackfrucht lasse ich persönlich gerne abtropfen, brate sie kross an und
 zupfe sie über meinen Glasnudelsalat. Natürlich könnt Ihr auch schön Pulled
@@ -159,7 +189,13 @@ genießen.
 
 ## Kokku - Vom Traum zur Erfüllung
 
-![Kokku](http://cardamonchai.com/wp-content/uploads/2018/01/39674633011_fce86e58e5_z-300x451.jpg)
+<RemoteImage
+  alt="Kokku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39674633011_fce86e58e5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39674633011_fce86e58e5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Hinter Kokku stecken  Scarlett, Dieter und Manja. Die drei kennen sich schon
 seit vielen Jahren und haben ihren Traum, einen eigenen Onlineshop zu betreiben,
@@ -177,7 +213,13 @@ Verpackung wird verzichtet.
 
 ## Im Kokku Onlineshop findet man auch die Herstelleradressen
 
-![Kokku](http://cardamonchai.com/wp-content/uploads/2018/01/24805516947_6de5d5430a_z-300x200.jpg)
+<RemoteImage
+  alt="Kokku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24805516947_6de5d5430a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24805516947_6de5d5430a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ziemlich gut finde ich, dass man unter jedem Produkt im Shop nicht nur alle
 Inhaltsangaben sondern auch Informationen zum jeweiligen Hersteller inklusive
@@ -192,7 +234,13 @@ genauso wie Hundefutter und Geliermittel.
 
 ## Erlesene Produkte und keine unnötige Verpackung
 
-![Kokku](http://cardamonchai.com/wp-content/uploads/2018/01/38965281314_6008228888_z-300x200.jpg)
+<RemoteImage
+  alt="Kokku"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38965281314_6008228888_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38965281314_6008228888_z__l.jpg"
+  loadingUrl="undefined" />
 
 Mir hat das Unboxing und das anschließende Aufessen sehr großen Spaß gemacht.
 Die Produkte sind toll, der Service stimmt und der persönliche Kontakt zu Kokku

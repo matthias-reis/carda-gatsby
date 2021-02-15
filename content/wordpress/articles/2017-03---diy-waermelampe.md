@@ -45,7 +45,13 @@ subTitle: Wellness für zu Hause
   
 ---
 
-![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33265715562_3bc6282887_z-640x427.jpg)
+<RemoteImage
+  alt="Wärmelampe"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265715562_3bc6282887_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265715562_3bc6282887_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute möchte ich Euch gerne zeigen, wie Ihr Euch ganz leicht mit ein paar
 Handgriffen eine tolle Wärmelampe für zu Hause bauen könnt.**
@@ -63,7 +69,13 @@ Das Ergebnis war ernüchternd. Entweder waren die Lampen winzig, stammten von
 windigen Herstellern, die darin verbauten Infrarot-Birnen waren mir zu schwach
 auf der Brust, oder sie waren schlichtweg einfach zu teuer.
 
-![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33293076691_4c267e843d_z-640x427.jpg)
+<RemoteImage
+  alt="Wärmelampe"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33293076691_4c267e843d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33293076691_4c267e843d_z__l.jpg"
+  loadingUrl="undefined" />
 
 "Du baust doch sonst auch immer alles selbst", meinte mein Mann. Bastel Dir doch
 selbst eine. Dass just in diesem Moment auch noch eine Anfrage von RS Components
@@ -80,7 +92,13 @@ und mein neues Projekt war geboren.
 - Robuste Stehlampe oder Scheinwerfer mit E27-Fassung
 - Infrarot-Birne für die Landwirtschaft
 
-![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33265712062_77d9e31a90_z-640x427.jpg)
+<RemoteImage
+  alt="Wärmelampe"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265712062_77d9e31a90_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265712062_77d9e31a90_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe eine meiner Studiolampen genommen, die ich immer zu Fotografieren
 verwende. Ihr könnt natürlich auch jede andere Stehlampe nehmen, die eine hohe
@@ -98,7 +116,13 @@ Wärmelampe. Super, oder?
 
 ## Wärmebehandlungen - So wirken sie
 
-![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33265705792_1898125e4c_z-640x427.jpg)
+<RemoteImage
+  alt="Wärmelampe"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265705792_1898125e4c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265705792_1898125e4c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Wärmetherapie gehört zu den ersten bekannten medizinischen Behandlungen. Sie
 kommt sowohl in der modernen westlichen Schulmedizin, wie auch in der
@@ -114,7 +138,13 @@ in Kontakt kommt.
 
 ## Belastungstest - Der Kater findet die neue Wärmelampe toll
 
-![Wärmelampe](http://cardamonchai.com/wp-content/uploads/2017/03/33265709822_e3079e1107_z-640x427.jpg)
+<RemoteImage
+  alt="Wärmelampe"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265709822_e3079e1107_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265709822_e3079e1107_z__l.jpg"
+  loadingUrl="undefined" />
 
 Übrigens: Auch Katzen finden Wärmelampen toll. Ist es nicht schön, wie
 [Chili](/2012/08/ode-an-den-kater/) sich sonnt? So entspannt hat er schon lange

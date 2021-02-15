@@ -74,7 +74,13 @@ Mineralöl und Silikonen und werden in Deutschland produziert. Die Verpackungen
 werden aus Recycling-Material hergestellt, die Zutaten stammen aus kontrolliert
 biologischem Anbau. Klingt doch schon mal ganz gut, oder?
 
-![Alkmene | large](http://cardamonchai.com/wp-content/uploads/2017/12/Alkmene-520x191.png)
+<RemoteImage
+  alt="Alkmene"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Alkmene.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Alkmene.png__l.jpg"
+  loadingUrl="undefined" />
 
 Von [Codecheck](https://www.codecheck.info/product.search?q=alkmene&OK=Suchen)
 werden alle Produkte mit ihren Inhaltsstoffen als unbedenklich bewertet. Einen
@@ -85,7 +91,13 @@ dafür für die Herstellung von Produkten auf Palmöl verzichtet wird.
 
 ## Alkmene - Mein Produkttest
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2017/12/DSC01977_0__A5.6_T1-40s-1-300x300.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01977_0__A5.6_T1-40s-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01977_0__A5.6_T1-40s-1__l.jpg"
+  loadingUrl="undefined" />
 
 Ausprobiert habe ich zunächst vier Produkte: Das Bio-Kamille Glanzshampoo mit
 der passenden Spülung sowie das Aloe Vera Pflegeduschgel und die Intensiv
@@ -101,7 +113,13 @@ Die Haare habe ich wie gewohnt an der Luft getrocknet.
 
 ## Glänzendes Haar
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2017/12/DSC01980_0__A5.6_T1-50s-1-300x300.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01980_0__A5.6_T1-50s-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01980_0__A5.6_T1-50s-1__l.jpg"
+  loadingUrl="undefined" />
 
 Vor dem Waschen habe ich mein sehr langes Haar nicht gekämmt. Trotzdem waren sie
 nach dem Waschen kaum verknotet und ließen sich problemlos durchkämmen. Der Duft
@@ -129,7 +147,13 @@ sich bringt.
 
 ## Duschgel mit Aloe Vera
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2017/12/DSC01976_0__A5.6_T1-40s-1-300x300.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01976_0__A5.6_T1-40s-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01976_0__A5.6_T1-40s-1__l.jpg"
+  loadingUrl="undefined" />
 
 Das Aloe Vera Duschgel trocknet die Haut nicht aus. Das ist bei mir im Moment
 besonders wichtig, da ich ein großflächiges, noch recht frisches Tattoo
@@ -144,7 +168,13 @@ hier aus etwas leichter zu beziehen ist.
 
 ## Alkemene wirbt mit Heilpflanzen
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2017/12/DSC01982_0__A5.6_T1-60s-1-300x300.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01982_0__A5.6_T1-60s-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_DSC01982_0__A5.6_T1-60s-1__l.jpg"
+  loadingUrl="undefined" />
 
 Alkmene wirbt damit, dass die Produkte durch die enthaltenen Heilpflanzen Haut
 und Haar schonend pflegen. Nach einigen Tagen mit der Intensive Handcreme

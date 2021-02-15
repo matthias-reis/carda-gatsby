@@ -46,7 +46,13 @@ subTitle: Peeling aus Kokosöl und Rohrzucker
   
 ---
 
-![DIY Lippenpflege - Die Zutaten](http://cardamonchai.com/wp-content/uploads/2015/10/DIY-Lippenpflege-640x640.jpg "DIY Lippenpflege - Die Zutaten")
+<RemoteImage
+  alt="DIY Lippenpflege - Die Zutaten"
+  size="medium"
+  title="DIY Lippenpflege - Die Zutaten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege__l.jpg"
+  loadingUrl="undefined" />
 
 **Ihr kennt das: Kaum wird es draußen kalt und man dreht die Heizung wieder auf,
 bekommt man spröde Lippen.**

@@ -48,7 +48,13 @@ Werbung\*
 Geldbörsen her. Das Material: Papier. Dennoch sind die Portemonnaies stabil und
 belastbar.**
 
-![vegane Geldbörsen](http://cardamonchai.com/wp-content/uploads/2017/06/35322426656_3991a4bd77_k-640x427.jpg)
+<RemoteImage
+  alt="vegane Geldbörsen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35322426656_3991a4bd77_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35322426656_3991a4bd77_k__l.jpg"
+  loadingUrl="undefined" />
 
 Den Näherinnen und Nähern unter Euch ist das hochrobuste
 [Snap-Pap](http://snap-pap.de/) bestimmt bereits ein Begriff. Es kann genäht,
@@ -69,7 +75,13 @@ und kleine Lust hat, nur für das Portemonnaie eine Handtasche oder einen
 Rucksack mitzuschleifen, ist sie durchaus sehr praktisch. Sie zeichnet sich in
 der Jeanstasche auch nicht ab.
 
-![vegane Geldbörsen](http://cardamonchai.com/wp-content/uploads/2017/06/34518811064_01eabb3e03_k-640x427.jpg)
+<RemoteImage
+  alt="vegane Geldbörsen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34518811064_01eabb3e03_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34518811064_01eabb3e03_k__l.jpg"
+  loadingUrl="undefined" />
 
 Ich nehme sie von jetzt ab immer auf Konzerte mit. Vom Format her passt genau
 eine Eintrittskarte rein. Viel mehr als das, mein T-Shirt- und Getränke-Geld

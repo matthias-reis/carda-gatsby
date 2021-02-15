@@ -38,7 +38,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (40:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (58:16)"
 thumbnailId: "21195"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42532458091_fd8e1ed41c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_42532458091_fd8e1ed41c_z__l.jpg
@@ -47,7 +47,7 @@ subTitle: Vegan, leicht und lecker
   
 ---
 
-## unknown: Unterminated JSX contents (40:16)
+## unknown: Unterminated JSX contents (58:16)
 
 <!--
 **Der Sommer ist da und das bedeutet: Picknicks und Abende im Park oder auf dem
@@ -61,14 +61,26 @@ Rezept.
 
 ## Zutaten für 4 Portionen Kartoffelsalat mit Superfruits und Zuckerschoten
 
-![Kartoffelsalat](http://cardamonchai.com/wp-content/uploads/2018/06/28658850088_67d2d66e1c_z-400x300.jpg)
+<RemoteImage
+  alt="Kartoffelsalat"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28658850088_67d2d66e1c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28658850088_67d2d66e1c_z__l.jpg"
+  loadingUrl="undefined" />
 
 <ul>
     <li>
 
 ## Zubereitung
 
-![Kartoffelsalat](http://cardamonchai.com/wp-content/uploads/2018/06/41630176465_58a5d979b4_z-400x300.jpg)
+<RemoteImage
+  alt="Kartoffelsalat"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41630176465_58a5d979b4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41630176465_58a5d979b4_z__l.jpg"
+  loadingUrl="undefined" />
 
 Schneidet die Kartoffeln in nicht allzu kleine Stücke. Die Schale lasst Ihr
 dran. Gebt sie in einen Topf und kocht sie so lange, bis sie noch gut bissfest
@@ -95,7 +107,13 @@ Superfruits unter und schmeckt den Salat mit Pfeffer und Salz ab.
 
 Guten Appetit! &lt;3
 
-![Kartoffelsalat | full](http://cardamonchai.com/wp-content/uploads/2018/06/40724051130_bce9b9d453_z.jpg)
+<RemoteImage
+  alt="Kartoffelsalat"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40724051130_bce9b9d453_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40724051130_bce9b9d453_z__l.jpg"
+  loadingUrl="undefined" />
 
 -->
 

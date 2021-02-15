@@ -48,7 +48,13 @@ untereinander Positives weitergeben, um eine positive Sache voranzubringen und
 das hat Patrick Bolk verstanden. Vom Einstieg an macht er alles richtig. Als
 Neuling hätte ich mir ein solches Buch auf jeden Fall gewünscht.
 
-![patrick-bolk](http://cardamonchai.com/wp-content/uploads/2019/06/patrick-bolk-2-400x600.jpg)
+<RemoteImage
+  alt="patrick-bolk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__l.jpg"
+  loadingUrl="undefined" />
 
 ## Der Autor berichtet von seinen Erfolgserlebnissen [](https://amzn.to/31ngUxz) Im Buch berichtet der Autor von seinen Erfolgserlebnissen, z. B. wie er mal nebenbei 25 Kilo abnahm, stellt sich dabei jedoch nicht in den Mittelpunkt oder arbeitet dies hervor, was sehr angenehm ist.
 
@@ -102,7 +108,13 @@ praktisch ist. Zu jedem Kapitel gibt es zunächst eine Erklärung z. B. "Warum
 soll ich überhaupt ohne Eier kochen?", im Anschluss folgen Alternativen und
 Rezepte zum Ausprobieren.
 
-![patrick-bolk](http://cardamonchai.com/wp-content/uploads/2019/06/patrick-bolk-4-400x267.jpg)
+<RemoteImage
+  alt="patrick-bolk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__l.jpg"
+  loadingUrl="undefined" />
 
 ## "Ich habe das in meiner Küche gemacht, das schaffst du auch! "[](https://amzn.to/31ngUxz) Besonders positiv fielen mir beim Lesen des Buches die Bilder auf. Sie wirken nicht inszeniert oder künstlich, man kann sich gut vorstellen, die Rezepte zu Hause nach zu kochen und im Anschluss ein ähnliches Foto auf Instagram zu posten. Die Aussage "Hallo, ich habe das in meiner kleinen, privaten Küche gemacht, das schaffst du auch!" finde ich toll.
 
@@ -135,7 +147,13 @@ verstehen, sind sie sehr schnell und mit voller Motivation dabei. Auch im
 Kapitel "Vegan mit Kindern" gibt es Rezeptvorschläge, die sich auch gemeinsam
 mit den Kids nach kochen lassen.
 
-![patrick-bolk](http://cardamonchai.com/wp-content/uploads/2019/06/patrick-bolk-1-400x600.jpg)
+<RemoteImage
+  alt="patrick-bolk"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__l.jpg"
+  loadingUrl="undefined" />
 
 ## Grundrezepte für Sojadrink und Seitan [](https://amzn.to/31ngUxz) Mit Rezepten, die neugierig machen, werden auch Superfoods und das Thema Rohkost kurz gestreift, die "Zweierlei Rabbit Balls mit Feige, Kokos und Limette" werde ich definitiv ausprobieren.
 

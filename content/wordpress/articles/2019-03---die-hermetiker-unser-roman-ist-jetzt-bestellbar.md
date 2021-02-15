@@ -34,7 +34,13 @@ _Werbung in eigener Sache\*_
 werden! Wir sind sehr stolz und freuen uns! Alle Fans von Thriller und Urban
 Fantasy sollten jetzt in den Buchladen gehen!**
 
-![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=DE&ASIN=3748126522&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=cardamonchai-21)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=cardamonchai-21"
+  largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=cardamonchai-21"
+  loadingUrl="undefined" />
 
 Die letzten Tage waren sehr spannend für Matze und mich. Am Sonntag, den 3.
 Februar haben wir unser Buch bei BOD veröffentlicht. Das bedeutet: An diesem Tag

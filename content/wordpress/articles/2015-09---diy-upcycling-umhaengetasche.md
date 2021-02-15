@@ -38,7 +38,13 @@ subTitle: Aus T-Shirt mach Tasche Teil 2
   
 ---
 
-![Meine DIY Upcycling Umhängetasche](http://cardamonchai.com/wp-content/uploads/2015/09/DIY-Umhängetasche-23-640x960.jpg "Meine DIY Upcycling Umhängetasche")
+<RemoteImage
+  alt="Meine DIY Upcycling Umhängetasche"
+  size="medium"
+  title="Meine DIY Upcycling Umhängetasche"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Umh%C3%A4ngetasche-23__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Umh%C3%A4ngetasche-23__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor Kurzem habe ich an dieser Stelle mit Euch meine Anleitung für einen höchst
 eleganten DIY Upcycling Nerdbag geteilt. Wie versprochen habe ich heute Teil 2

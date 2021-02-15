@@ -57,7 +57,13 @@ ersetzt werden.
 
 ## Eine Bienentränke selber bauen
 
-![bienetraenke](http://cardamonchai.com/wp-content/uploads/2020/04/bienentraenke-3-400x300.jpg)
+<RemoteImage
+  alt="bienetraenke"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_bienentraenke-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_bienentraenke-3__l.jpg"
+  loadingUrl="undefined" />
 
 In der Natur trinken Bienen am Ufer von Bächen oder Teichen. In der Stadt finden
 sie diese nur selten. Darum ist es gut, wenn sie hier und da Wassertränken

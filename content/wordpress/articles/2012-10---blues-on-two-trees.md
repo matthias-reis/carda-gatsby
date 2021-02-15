@@ -45,7 +45,8 @@ date: 2012-10-30T14:21:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (8:69)"
 thumbnailId: "4414"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___l.jpg
@@ -54,9 +55,15 @@ subTitle: Jack White stellt neuen B-Seiten-Song vor
   
 ---
 
-!["Blues On Two Trees" von Jack White erscheint auf der B-Seite von 'I´m Shakin'' | full](http://cardamonchai.com/wp-content/uploads/2012/10/51gysednnl-_sl500_aa240_.jpg
-'"Blues On Two Trees" von Jack White erscheint auf der B-Seite von 'I´m
-Shakin''')
+## unknown: Unexpected token (8:69)
+
+<!--
+<RemoteImage alt="&quot;Blues On Two Trees&quot; von Jack White erscheint auf
+der B-Seite von 'I´m Shakin''" size="full" title=""Blues On Two Trees" von Jack
+White erscheint auf der B-Seite von 'I´m Shakin''"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___l.jpg"
+loadingUrl="undefined" />
 
 Das Lied nennt sich "Blues On Two Trees" und entstammt der B-Seite der Single
 "I´m Shakin''. Ein schönes Stück Musik, das es zu ähnlichem Ruhm bringen könnte
@@ -84,5 +91,7 @@ Hört selbst. Und bestellt Euch die Platte. Ich lege sie Euch ans Herz.
 _Wer sich fragt, wo meine Blogeinträge zu meinem letztwöchigen Urlaub bleiben:
 Sind in Arbeit. Einige Erlebnisse müssen noch ein Wenig verarbeitet werden._
 _Wir lesen uns._
+
+-->
 
   

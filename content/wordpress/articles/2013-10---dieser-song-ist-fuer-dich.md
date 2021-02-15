@@ -40,7 +40,13 @@ subTitle: Herbstliche Schreibblockade
   
 ---
 
-![Jeden Tag kommen Päckchen an](http://cardamonchai.files.wordpress.com/2013/10/foto.jpg?w=300 "Jeden Tag kommen Päckchen an")
+<RemoteImage
+  alt="Jeden Tag kommen Päckchen an"
+  size="medium"
+  title="Jeden Tag kommen Päckchen an"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/10/foto.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/10/foto.jpg?w=300"
+  loadingUrl="undefined" />
 
 Wir sind inzwischen umgezogen. Da ich inzwischen nicht mehr viel Lust auf
 Möbelhäuser habe, lasse ich mir so einiges ins Büro liefern. Jeden Tag kommen
@@ -62,7 +68,13 @@ Er kann uns sehen! Und er freut sich jedes Mal, wenn wir ihn auf den Arm nehmen,
 um ihn für ein Stündchen aus seiner Höhle zu befreien, damit er seine Runden mit
 den Staubmäusen drehen kann.
 
-![Dem Kater geht es wieder besser](http://cardamonchai.files.wordpress.com/2013/10/9817_643714558984010_654150013_n.jpg?w=300 "Dem Kater geht es wieder besser")
+<RemoteImage
+  alt="Dem Kater geht es wieder besser"
+  size="medium"
+  title="Dem Kater geht es wieder besser"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/10/9817_643714558984010_654150013_n.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/10/9817_643714558984010_654150013_n.jpg?w=300"
+  loadingUrl="undefined" />
 
 Wir sind wirklich froh, dass sich alles so zum Guten gewendet hat. Die Ärzte in
 der Rehaklinik sagen, es grenzt an ein Wunder. Chili hat viele Fans dort. Am
@@ -95,7 +107,13 @@ funkelnden Lichts voraus:
 > CD ist raus, Vinyl ist aber verschoben worden, Lanegan LP ist da,
 > Russian/Pelican/Arcade kommen erst Ende Oktober raus. Gruß Martin"_
 
-![Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann](http://cardamonchai.files.wordpress.com/2013/10/p1000534.jpg?w=300 "Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann")
+<RemoteImage
+  alt="Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann"
+  size="medium"
+  title="Eddie Vedder Pearl Jam Isle Of Wight Festival 2012 mit dem Herzmann"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/10/p1000534.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/10/p1000534.jpg?w=300"
+  loadingUrl="undefined" />
 
 Ich bin schon unglaublich gespannt, Ihr auch? Einen kleinen Teaser hat mir
 Martin ja schon geschickt, Ihr findet Ihn

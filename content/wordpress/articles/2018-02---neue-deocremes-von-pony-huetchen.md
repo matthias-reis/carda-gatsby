@@ -57,7 +57,13 @@ sogar nachgefüllt werden. Low Waste bei vollem Vernügen also.
 
 ## Rock-A-Hula regt die Sinne an
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2018/02/26290453788_faf376db9f_z-300x200.jpg)
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26290453788_faf376db9f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26290453788_faf376db9f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Was mich natürlich besonders gefreut hat, ist, dass es auch meine
 Lieblings-Duftnote "Rock-a-Hula" nach wie vor gibt. Sie duftet wie gewohnt
@@ -76,7 +82,13 @@ ist unterwegs auf Festivals und Co. sicher sehr praktisch.
 
 ## Pony Hütchen stellt sich vor
 
-![Pony Hütchen](http://cardamonchai.com/wp-content/uploads/2018/02/40130850192_3ea14a607a_z-1-300x200.jpg)
+<RemoteImage
+  alt="Pony Hütchen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40130850192_3ea14a607a_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40130850192_3ea14a607a_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Mit Gründerin
 [Hendrike](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)  hatte

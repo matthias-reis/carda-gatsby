@@ -42,7 +42,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (121:42)"
+  invalidMdx: "unknown: Unexpected token (75:61)"
 thumbnailId: "9458"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_15868435754_dc31171cdd_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_15868435754_dc31171cdd_o__l.jpg
@@ -51,7 +51,7 @@ subTitle: Nach allen Regeln der Kunst
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;div> (121:42)
+## unknown: Unexpected token (75:61)
 
 <!--
 Die sogenannten „Gestaltgesetze der Wahrnehmung", die sich wie viele weitere
@@ -71,7 +71,13 @@ Beim **Layout** ist es sehr wichtig, dieses Gesetz zu beachten, „Verstöße“
 dagegen können eine verheerende Wirkung haben. Dies betrifft Texte und Grafiken
 gleichermaßen wie Buttons und Links.
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/das-gesetz-der-nc3a4he.jpg "Das Gesetz der Nähe: Nah beieinander liegende Objekte werden als zusammengehörig angesehen.")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="Das Gesetz der Nähe: Nah beieinander liegende Objekte werden als zusammengehörig angesehen."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_das-gesetz-der-nc3a4he__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_das-gesetz-der-nc3a4he__l.jpg"
+  loadingUrl="undefined" />
 
 ## Das Gesetz der Ähnlichkeit
 
@@ -84,7 +90,13 @@ Gestaltet man die Elemente einer Website ähnlich, werden sie schnell in
 Zusammenhang miteinander gebracht, auch wenn sie weit voneinander entfernt
 platziert sind.
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/gesetz-der-c3a4hnlichkeit.jpg "Das Gesetz der Ähnlichkeit: Dinge, die sich ähnlich sind, werden als zusammengehörig aufgefasst.")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="Das Gesetz der Ähnlichkeit: Dinge, die sich ähnlich sind, werden als zusammengehörig aufgefasst."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-c3a4hnlichkeit__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-c3a4hnlichkeit__l.jpg"
+  loadingUrl="undefined" />
 
 ## Das Gesetz der Geschlossenheit
 
@@ -93,7 +105,13 @@ geschlossene Einheit betrachtet. Fehlende Informationen ergänzt das menschliche
 Gehirn durch gesammelte **Erfahrungswerte** . In der Gestaltung werden komplexe
 Designs mit Hilfe dieses Gesetzes vereinfacht.
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/gesetz-der-geschlossenheit.jpg "Das Gesetz der Geschlossenheit: Fehlende Informationen ergänzt das Gehirn durch Erfahrungswerte.")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="Das Gesetz der Geschlossenheit: Fehlende Informationen ergänzt das Gehirn durch Erfahrungswerte."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-geschlossenheit__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-geschlossenheit__l.jpg"
+  loadingUrl="undefined" />
 
 ## Das Gesetz der Prägnanz
 
@@ -102,7 +120,13 @@ Objekt, welches sich durch ein bestimmtes Merkmal von den anderen Objekten
 abhebt. Bei der **Gestaltung** einer Seite kann mit Hilfe dieses Gesetzes das
 Auge des Users bewusst auf ein bestimmtes Objekt gelenkt werden (z. B. Störer)
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/gesetz-der-prc3a4gnanz.jpg "Das Gesetz der Prägnanz: Das Objekt, welches sich durch ein besonderes Merkmal von der Masse abhebt, wird erfasst.")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="Das Gesetz der Prägnanz: Das Objekt, welches sich durch ein besonderes Merkmal von der Masse abhebt, wird erfasst."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-prc3a4gnanz__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-prc3a4gnanz__l.jpg"
+  loadingUrl="undefined" />
 
 ## Das Gesetz der guten Fortsetzung
 
@@ -114,7 +138,11 @@ Wir setzen sie fort. Deshalb wird auch sehr oft vom „Gesetz der fortgesetzt
 durchgehenden Linie“ gesprochen. Befinden sich mehrere **Elemente** auf einer
 Linie, nehmen wir sie als zusammengehörig wahr.
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/das-gesetz-der-fortgesetzt-durchgehenden-linie.jpg 'Das Gesetz der guten Fortsetzung wird auch als das "Gesetz der fortgesetzt durchgehenden Linie" bezeichnet.')
+<RemoteImage alt="Usability" size="full" title="Das Gesetz der guten Fortsetzung
+wird auch als das "Gesetz der fortgesetzt durchgehenden Linie" bezeichnet."
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_das-gesetz-der-fortgesetzt-durchgehenden-linie__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_das-gesetz-der-fortgesetzt-durchgehenden-linie__l.jpg"
+loadingUrl="undefined" />
 
 ## Das Gesetz der Symmetrie
 
@@ -123,7 +151,13 @@ schlechter wahr, als solche, die einander **symmetrisch** zugeordnet wurden.
 Objekte auf einer Homepage sollten also nach Möglichkeit als symmetrische Form
 abgebildet, bzw. in einer solchen angeordnet werden.
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/gesetz-der-symmetrie.jpg "Gesetz der Symmetrie: Elemente, die ohne erkennbare Struktur angeordnet sind, nehmen wir wesentlich schlechter wahr.")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="Gesetz der Symmetrie: Elemente, die ohne erkennbare Struktur angeordnet sind, nehmen wir wesentlich schlechter wahr."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-symmetrie__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-symmetrie__l.jpg"
+  loadingUrl="undefined" />
 
 ## Das Gesetz der Erfahrung
 
@@ -135,7 +169,13 @@ Bilder komplett zu erkennen.
 Im Webdesign kann dieses Gesetz bei der **Gestaltung** von Bildern und Logos
 genutzt werden. Dadurch kann die Spannung deutlich gesteigert werden.
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/gesetz-der-erfahrung.jpg "Das Gesetz der Erfahrung: Bekannte Objekte und Eindrücke werden abgerufen und dargestellt.")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="Das Gesetz der Erfahrung: Bekannte Objekte und Eindrücke werden abgerufen und dargestellt."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-erfahrung__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_gesetz-der-erfahrung__l.jpg"
+  loadingUrl="undefined" />
 
 ## Schrift
 
@@ -145,7 +185,13 @@ unterschiedliche Schriftarten, natürlich sollten auch nur bestimmte Schriftarte
 zum Einsatz kommen. Der **Kontrast** zwischen Schrift und Hintergrund sollte
 ausreichend sein.
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/565415_web_r_by_birgith_pixelio-de.jpg "_Bild: birgitH pixelio.de_")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="_Bild: birgitH pixelio.de_"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_565415_web_r_by_birgith_pixelio-de__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_565415_web_r_by_birgith_pixelio-de__l.jpg"
+  loadingUrl="undefined" />
 
 ## Text
 
@@ -163,7 +209,13 @@ erkennbar sein.
 Jede **Homepage** sollte eine vernünftige, gut funktionierende, auf einen Blick
 zu erkennende Suchfunktion beinhalten.
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/suche.png "Suchfunktion")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="Suchfunktion"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_suche.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_suche.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Feedback
 
@@ -211,7 +263,13 @@ die Formularinhalte per E-Mail haben.
 - Basislinks, wie „Kontakt“, „Impressum“, „Startseite“, etc. sollten auch auf
   jeder Unterseite gut sichtbar sein.<div>
 
-![Usability | full](http://cardamonchai.com/wp-content/uploads/2012/07/499226_web_r_k_by_thomas-siepmann_pixelio-de.jpg "_Bild Thomas Siepmann pixelio.de_")
+<RemoteImage
+  alt="Usability"
+  size="full"
+  title="_Bild Thomas Siepmann pixelio.de_"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_499226_web_r_k_by_thomas-siepmann_pixelio-de__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_499226_web_r_k_by_thomas-siepmann_pixelio-de__l.jpg"
+  loadingUrl="undefined" />
 
 </div>## Größenanpassung
 

@@ -45,7 +45,13 @@ Seitdem hat sich einiges getan. Inzwischen gibt es nicht nur verschiedene
 Modelle der Happybrush. Das Startup hat auch verschiedene vegane Zahnpasten im
 Angebot.**
 
-![Vegane Zahnpasta von Happybrush](http://cardamonchai.com/wp-content/uploads/2018/02/39525964385_622dc2e8dc_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Zahnpasta von Happybrush"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525964385_622dc2e8dc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525964385_622dc2e8dc_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn sich einige jetzt fragen: Was kann denn an Zahnpasta nicht vegan sein?
 Herkömmlichen Zahnpasten wird beispielsweise Lactoferin zugesetzt. Dieser Stoff
@@ -65,7 +71,13 @@ Bei Happybrush verzichtet man auf all dieses Gedöns. In die Zahnpasta kommen nu
 Dinge rein, die man auch bedenkenlos runterschlucken könnte. Alle Zutaten sind
 transparent aufgelistet und ergeben wirklich Sinn.
 
-![Vegane Zahnpasta von Happybrush](http://cardamonchai.com/wp-content/uploads/2018/02/26550793028_7d557222a9_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Zahnpasta von Happybrush"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26550793028_7d557222a9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26550793028_7d557222a9_z__l.jpg"
+  loadingUrl="undefined" />
 
 ". "Supermint" enthält Xylitol, Minzöl, Cerbamid und Zink. Xilitol und Minöl
 reinigen und sorgen für frischen Atem, während Cerbamid und Zink Beläge sanft
@@ -83,7 +95,13 @@ den Pasten herkömmlicher Hersteller, kommt in den Tuben von Happybrush jedoch
 zusätzlich nichts vor, was die Zähne angreifen würde. Ganz im Gegenteil: Calcium
 soll die Remineranilisierung der Zähne unterstützen.
 
-![Vegane Zahnpasta von Happybrush](http://cardamonchai.com/wp-content/uploads/2018/02/25550459097_2fdd182be1_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Zahnpasta von Happybrush"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25550459097_2fdd182be1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_25550459097_2fdd182be1_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe alle drei Sorten getestet und bin zu folgendem Fazit gekommen: Die
 Zähne werden mit allen drei Sorten schön sauber. Vom Geschmack her mag ich die
@@ -103,7 +121,13 @@ nicht zu. Mich stört das Salz in den Sorten anderer Hersteller nicht, aber
 sollte das jemandem, der sich eine vegane Zahnpasta wünscht, unangenehm sein,
 würde ich vielleicht mal die Happybrush Sorten ausprobieren.
 
-![Vegane Zahnpasta von Happybrush](http://cardamonchai.com/wp-content/uploads/2018/02/40377874972_635dfe9bc6_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Zahnpasta von Happybrush"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40377874972_635dfe9bc6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40377874972_635dfe9bc6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich persönlich finde es toll, dass die Firma um die beiden sympathischen Gründer
 Flo und Stefan so einen Erfolg hat und sie inzwischen so viele schöne Dinge für
@@ -119,7 +143,13 @@ Inhaltsstoffe wird aus Überzeugung verzichtet.
 
 ## Kooperation mit Viva Con Agua St. Pauli
 
-![Vegane Zahnpasta von Happybrush](http://cardamonchai.com/wp-content/uploads/2018/02/39711209944_bf42962db3_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Zahnpasta von Happybrush"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39711209944_bf42962db3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39711209944_bf42962db3_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das neueste Projekt bei Happybrush: Brush For Water. Dabei handelt es sich um
 eine Kooperation mit **Viva Con Agua St. Pauli** . Mit dem Kauf einer Zahnbürste
@@ -133,7 +163,13 @@ letzte Bisschen Zahnpasta leer machen. Nicht schlecht, oder?
 
 [Hier findet Ihr meinen Testbericht zur Schallzahnbürste von Happybrush](/2017/08/happybrush-der-ultimative-produkttest/).
 
-![](https://www.adcell.de/promotion/view/promoId/169537/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
+  loadingUrl="undefined" />
 
 Zur Homepage von Happybrush geht es
 [hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F)

@@ -86,24 +86,54 @@ werden per Post versendet. Der Rechtsweg ist ausgeschlossen.
 
 I. Preis: Was Aktuelles - CD TRAIN - "California 37"
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/09/51brzls6u2l-_sl500_aa240_.jpg)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51brzls6u2l-_sl500_aa240_.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51brzls6u2l-_sl500_aa240_.jpg"
+  loadingUrl="undefined" />
 
 II. Preis: Was Lustiges - CD HASENSCHEISSE - "Für ein paar Köttel mehr"
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/09/51aqjni6uql-_sl500_aa240_.jpg)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51aqjni6uql-_sl500_aa240_.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51aqjni6uql-_sl500_aa240_.jpg"
+  loadingUrl="undefined" />
 
 III. Preis: Vinyl - 12" Die Ärzte - M+F (3 Tracks auf der A-Seite, B-Seite mit
 Etching)
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/09/51uwqgbnctl-_sl500_aa240_.jpg)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/51uwqgbnctl-_sl500_aa240_.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/51uwqgbnctl-_sl500_aa240_.jpg"
+  loadingUrl="undefined" />
 
 IV. Preis: T-Shirt von INDICA (kommt als Girl-Shirt oder Men-Shirt)
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/09/41nknvbkztl-_sl246_sx190_cr00190246_.jpg)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/41nknvbkztl-_sl246_sx190_cr00190246_.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/41nknvbkztl-_sl246_sx190_cr00190246_.jpg"
+  loadingUrl="undefined" />
 
 V. Preis (aber noch lange nicht Trostpreis): Make Love Work - Herzberg Festival
 2012 T-Shirt
 
-![ | full](http://cardamonchai.files.wordpress.com/2012/09/mysticrot.jpg)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/09/mysticrot.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/09/mysticrot.jpg"
+  loadingUrl="undefined" />
 
   

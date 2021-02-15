@@ -51,7 +51,13 @@ Stell Dir nicht alle Fragen auf einmal, sondern setze sie lieber einzeln und
 situationsbezogen ein. Außerdem ist es durchaus OK, mal einen schlechten Tag
 oder eine schlechte Woche zu haben.
 
-![10-fragen](http://cardamonchai.com/wp-content/uploads/2019/02/10-Fragen-die-Du-Dir-selbst-stellen-Solltest1-400x286.png "Achtsamkeit")
+<RemoteImage
+  alt="10-fragen"
+  size="medium"
+  title="Achtsamkeit"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-die-Du-Dir-selbst-stellen-Solltest1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-die-Du-Dir-selbst-stellen-Solltest1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn Du aber auf der Suche nach **Motivation** , Auftrieb und neuen Ideen bist,
 dann können Dir diese 10 Fragen neuen Schwung geben und Dir dabei helfen, Dein
@@ -93,7 +99,13 @@ Stimmung positiv zu beeinflussen und Deinem Alltag neuen Drive zu geben.
 
 ## Schalte ab und zu mal einen Gang runter
 
-![10-fragen](http://cardamonchai.com/wp-content/uploads/2019/02/10-Fragen-die-Du-Dir-selbst-stellen-Solltest3-400x286.png "Innere Ruhe")
+<RemoteImage
+  alt="10-fragen"
+  size="medium"
+  title="Innere Ruhe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-die-Du-Dir-selbst-stellen-Solltest3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-die-Du-Dir-selbst-stellen-Solltest3.png__l.jpg"
+  loadingUrl="undefined" />
 
 Wenn Du zusätzlich noch lernst, in Stresssituationen auf Deine Atmung zu achten,
 ab und zu (auch, wenn die Arbeit noch so viel Spaß macht!) mal einen Gang
@@ -116,7 +128,13 @@ Denke immer daran: Sich selbst unter Druck zu setzen, bringt gar nichts.
 
 ## Man lernt sich nicht von heute auf morgen selbst kennen
 
-![10-fragen](http://cardamonchai.com/wp-content/uploads/2019/02/10-Fragen-die-Du-Dir-selbst-stellen-Solltest4-400x286.png "Selbstliebe")
+<RemoteImage
+  alt="10-fragen"
+  size="medium"
+  title="Selbstliebe"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-die-Du-Dir-selbst-stellen-Solltest4.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-die-Du-Dir-selbst-stellen-Solltest4.png__l.jpg"
+  loadingUrl="undefined" />
 
 Für die meisten Menschen bedeutet **sich selbst kennenzulernen** einen
 lebenslangen Prozess. Niemand wird 18 Jahre alt und weiß alles über sich.
@@ -138,7 +156,13 @@ Wenn etwas Dir nicht gut tut, ändere es Stück für Stück. Du hast es in der H
 Wenn Du auf das Bild klickst, kann Du Dir ein PDF der Liste runterladen und
 ausdrucken!
 
-![10-fragen | full](http://cardamonchai.com/wp-content/uploads/2019/02/10-Fragen-an-Dich-selbst1.png)
+<RemoteImage
+  alt="10-fragen"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-an-Dich-selbst1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_10-Fragen-an-Dich-selbst1.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](/wp-content/uploads/2019/02/10-Fragen-an-Dich-selbst1.pdf)
 

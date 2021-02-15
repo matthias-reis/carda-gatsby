@@ -47,7 +47,13 @@ sehen. Matze war vorher schon mal dort gewesen hatte und nur Gutes zu berichten
 gehabt. Also wurden flugs 2 Tage Urlaub eingereicht und schon konnte es
 losgehen.
 
-![Valentinstag in Venedig](http://cardamonchai.files.wordpress.com/2014/03/12592322183_aaf4a48dfd_z.jpg?w=225)
+<RemoteImage
+  alt="Valentinstag in Venedig"
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12592322183_aaf4a48dfd_z.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12592322183_aaf4a48dfd_z.jpg?w=225"
+  loadingUrl="undefined" />
 
 [](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/) Nachdem
 uns die Zugfahrt zu beschwerlich erschien und wir gehört hatten, dass man kurz
@@ -63,7 +69,13 @@ zum [Piazza San Marco](http://de.wikipedia.org/wiki/Markusplatz) und somit ins
 Zentrum Venedigs brachte. Natürlich fotografierten wir bereits auf dem Weg dort
 hin als würde es kein Morgen geben.
 
-![Valentinstag in Venedig](http://cardamonchai.files.wordpress.com/2014/03/12598643153_7fb1731ece_z.jpg?w=200)
+<RemoteImage
+  alt="Valentinstag in Venedig"
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12598643153_7fb1731ece_z.jpg?w=200"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12598643153_7fb1731ece_z.jpg?w=200"
+  loadingUrl="undefined" />
 
 In einer kleinen Gasse direkt an der Piazza ist das
 [Hotel Commercio e Pellegrino](http://www.commercioepellegrino.com/de/) gelegen,
@@ -88,7 +100,13 @@ Ich hatte mir spannend vorgestellt. Wie in
 "[Wenn die Gondeln Trauer tragen](http://de.wikipedia.org/wiki/Wenn_die_Gondeln_Trauer_tragen)"
 , zugig, dunkel und zugleich wunderschön.
 
-![Valentinstag in Venedig](http://cardamonchai.files.wordpress.com/2014/03/12599167784_f2c965442b_z.jpg?w=200)
+<RemoteImage
+  alt="Valentinstag in Venedig"
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12599167784_f2c965442b_z.jpg?w=200"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12599167784_f2c965442b_z.jpg?w=200"
+  loadingUrl="undefined" />
 
 [](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/) Umso
 überraschter war ich natürlich, als sich mir die Stadt als eine lärmende,
@@ -113,7 +131,13 @@ könnt Ihr wie immer in meinem
 [Flickr](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
 sehen.
 
-![Valentinstag in Venedig | large](http://cardamonchai.files.wordpress.com/2014/03/12600525393_45fac95355_z.jpg?w=490)
+<RemoteImage
+  alt="Valentinstag in Venedig"
+  size="large"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/03/12600525393_45fac95355_z.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/03/12600525393_45fac95355_z.jpg?w=490"
+  loadingUrl="undefined" />
 
 [](http://www.flickr.com/photos/99929697@N07/sets/72157641119189463/)
 

@@ -69,7 +69,13 @@ Tieren weitere Qualen zu ersparen, den Welthunger nicht noch weiter
 voranzutreiben und unser Klima und unsere Gesundheit zu retten, bevor es zu spät
 ist.
 
-![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas1.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
+<RemoteImage
+  alt="Fleischatlas"
+  size="full"
+  title="Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Besonders herausgearbeitet wurde unter anderem das Thema Beeinflussung durch
 Werbung. Hier im Bild sehr gut dargestellt:
@@ -92,7 +98,13 @@ deren Fleisch sie verzehren. Jedoch gibt es einen schieren Dschungel aus Labels,
 an der Haltung ändert sich jedoch nichts oder nicht viel. So findet bei der
 Haltung von Legehennen in Käfigen beispielsweise keine Veränderung mehr statt.
 
-![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas2.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
+<RemoteImage
+  alt="Fleischatlas"
+  size="full"
+  title="Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas2.png__l.jpg"
+  loadingUrl="undefined" />
 
 Hier stellt sich für mich ganz klar die Frage: Wenn immer alle berichten, sie
 äßen nur Eier vom Biolandhof und Fleisch vom Metzger nebenan: Wer verzehrt dann
@@ -132,7 +144,13 @@ noch so verträgt, ohne einem Kollaps zu erliegen.
 > reduziert werden. Diese Abstockung muss beginnen, wo die intensive Tierhaltung
 > besonders verbreitet ist."
 
-![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas3.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
+<RemoteImage
+  alt="Fleischatlas"
+  size="full"
+  title="Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas3.png__l.jpg"
+  loadingUrl="undefined" />
 
 Auf Seite 24 kommen Fakten zum Thema Tierhaltung auf den Tisch. Es wird
 angesprochen, dass die Haltung von Tieren auf dem Papier seit 2001 klar geregelt
@@ -164,7 +182,13 @@ mehr und werden auch im Fleischatlas erwähnt.
 > viele leiden unter Kahlstellen wegen Federpickens. Brustbeinschäden weisen 40
 > Prozent auf, Knochenbrüche 53 Prozent."
 
-![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas4.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
+<RemoteImage
+  alt="Fleischatlas"
+  size="full"
+  title="Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas4.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas4.png__l.jpg"
+  loadingUrl="undefined" />
 
 Es wird gezeigt, dass deutlich weniger als die Hälfte der in Deutschland
 gehaltenen Rinder Zugang zu Weideland haben.
@@ -180,7 +204,13 @@ tatsächliche Deutschland-weite Zahl liegt bei 14.900, die in Niedersachsen bei
 Damit nochmal kurz zum Thema Trinkwasserverschmutzung. Ich lasse in diesem Fall
 das Bild für sich sprechen:
 
-![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas5.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
+<RemoteImage
+  alt="Fleischatlas"
+  size="full"
+  title="Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas5.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas5.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Antibiotika und multiresistente Keime
 
@@ -200,11 +230,23 @@ Regierung unterstützt diesen Trend aus wirtschaftlichem Interesse und verstrick
 sich damit weiter in einem ihrer größten Konflikte: Größere Exportmengen und
 gleichzeitig ein geringerer Ausstoß von Schadstoffen? Das geht nicht.
 
-![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas6.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
+<RemoteImage
+  alt="Fleischatlas"
+  size="full"
+  title="Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas6.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas6.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Gentechnik - Und was kommt als nächstes?
 
-![Fleischatlas | full](http://cardamonchai.com/wp-content/uploads/2018/01/Fleischatlas7.png "Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0")
+<RemoteImage
+  alt="Fleischatlas"
+  size="full"
+  title="Quelle: Fleischatlas 2018 - Bartz/Stockmar, CC BY 4.0"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas7.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Fleischatlas7.png__l.jpg"
+  loadingUrl="undefined" />
 
 Ein weiteres Mittel zur Ertragssteigerung ist die Gentechnik. Weltweit arbeiten
 Firmen daran, das Genmaterial von "Nutztieren" zu verändern und sie den

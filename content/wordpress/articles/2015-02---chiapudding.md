@@ -40,7 +40,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (21:42)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (27:42)"
 thumbnailId: "9493"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__l.jpg
@@ -49,10 +49,16 @@ subTitle: Gesund und lecker
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (21:42)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (27:42)
 
 <!--
-![Chiapudding mit Blaubeeren](http://cardamonchai.com/wp-content/uploads/2015/02/img_3668-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets/)  Chiapudding mit Blaubeeren")
+<RemoteImage
+  alt="Chiapudding mit Blaubeeren"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/)  Chiapudding mit Blaubeeren"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3668__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3668__l.jpg"
+  loadingUrl="undefined" />
 
 **Ihr seid auf der Suche nach einem leckeren Frühstück, das lange vorhält? Ihr
 würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr so richtig
@@ -72,7 +78,13 @@ Vegan-Onlinehandel, im Reformhaus und im gut sortierten Supermarkt.
 
 ## Zutaten (für 2 Portionen):<ul><li>
 
-![Chiasamen](https://cardamonchai.files.wordpress.com/2015/02/img_3673.jpg?w=225 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Chiasamen")
+<RemoteImage
+  alt="Chiasamen"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Chiasamen"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/img_3673.jpg?w=225"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/img_3673.jpg?w=225"
+  loadingUrl="undefined" />
 
 2 Tassen Chiasamen</li><li>ca. 1/2 Liter Mandelmilch, Kokosmilch, Reismilch,
 kalter Kakao, Vanillemilch oder Fruchtsaft (je nach Gusto)</li><li>Früchte,
@@ -86,7 +98,13 @@ verschiedenen Früchten einen tollen Fruchtspiegel zaubern.
 
 ## Chiapudding Zubereitung
 
-![Ein Grundnahrungsmittel der Azteken](https://cardamonchai.files.wordpress.com/2015/02/img_3672.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Ein Grundnahrungsmittel der Azteken")
+<RemoteImage
+  alt="Ein Grundnahrungsmittel der Azteken"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Ein Grundnahrungsmittel der Azteken"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/img_3672.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/img_3672.jpg?w=300"
+  loadingUrl="undefined" />
 
 Die Chia-Samen zusammen mit der Pflanzenmilch oder dem Saft in eine
 verschließbare Plastikdose oder ein Glas mit Deckel geben und in den Kühlschrank

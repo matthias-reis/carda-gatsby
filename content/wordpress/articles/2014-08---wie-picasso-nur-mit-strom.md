@@ -41,7 +41,13 @@ subTitle: Teil II - Die Tattoo Session
   
 ---
 
-![Stencil Stuff](http://cardamonchai.com/wp-content/uploads/2014/08/14793812307_71c9482f9b_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Stencil Stuff")
+<RemoteImage
+  alt="Stencil Stuff"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Stencil Stuff"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_14793812307_71c9482f9b_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_14793812307_71c9482f9b_o__l.jpg"
+  loadingUrl="undefined" />
 
 Meine neueste Tattooerrungenschaft soll nicht nur meinen Oberarm, sondern auch
 meinen Blog zieren. Das Kunstwerk ist die Grundlage für alles, was
@@ -64,7 +70,13 @@ Wir hatten einen Doppeltermin vereinbart, denn Matze hatte ja auch ein Tattoo
 geplant, wenn auch ein etwas kleineres, auch dieses spielt in meinem neuen
 Homepagedesign eine Rolle.
 
-![Starker Kaffee im Stehcafé nebenan](http://cardamonchai.files.wordpress.com/2014/08/14791294977_c2fb5027e9_o.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Starker Kaffee im Stehcafé nebenan")
+<RemoteImage
+  alt="Starker Kaffee im Stehcafé nebenan"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Starker Kaffee im Stehcafé nebenan"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/14791294977_c2fb5027e9_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/14791294977_c2fb5027e9_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 Pünktlich um 10 Uhr standen wir im Laden und staunten nicht schlecht, als uns
 Mat seine Entwürfe zeigte, die aus unseren Zeichnungen entstanden waren. Genau
@@ -95,7 +107,13 @@ meinen Freudentränen zu durchtränken. :-P
 > awesome! We're looking forward to seeing you in January an we're so glad,
 > you're staying here in Augsburg! :-)
 
-![Picasso](http://cardamonchai.com/wp-content/uploads/2014/08/tattoo-session-213-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Brand Ink Tattoo")
+<RemoteImage
+  alt="Picasso"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Brand Ink Tattoo"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-213__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-213__l.jpg"
+  loadingUrl="undefined" />
 
 Nach einer einstündigen Pause, war Matze dran und seine Eule wurde auf seinen
 Arm übertragen. Matze hatte sich im Gegensatz zu mir für eine
@@ -127,7 +145,13 @@ müssen. Also vereinbarten wir einen weiteren Termin für Ende Januar.
 
 ### "Das ist herausragend schön!"
 
-![Brand Ink Tattoo](http://cardamonchai.com/wp-content/uploads/2014/08/tattoo-session-207-640x480.jpg "Brand Ink Tattoo")
+<RemoteImage
+  alt="Brand Ink Tattoo"
+  size="medium"
+  title="Brand Ink Tattoo"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-207__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tattoo-session-207__l.jpg"
+  loadingUrl="undefined" />
 
 Wir plauderten noch ein Bisschen mit Matt, bedankten uns für seine tolle Arbeit
 und machten uns auf den Heimweg. An der Ampelkreuzung vor unserem Haus sprach

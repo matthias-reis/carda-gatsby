@@ -32,7 +32,13 @@ subTitle: Teil 1/2 - Fair Trade, Fair Banking? Was macht eigentlich mein Geld?
   
 ---
 
-![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33146502834_4ca7d2758c_z-640x427.jpg)
+<RemoteImage
+  alt="urgewald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33146502834_4ca7d2758c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33146502834_4ca7d2758c_z__l.jpg"
+  loadingUrl="undefined" />
 
 **"Was macht eigentlich mein Geld?" - Das hatten sich die Aktivisten von
 urgewald schon sehr lange gefragt und gründeten deshalb 1992 den Verein. Mit
@@ -52,7 +58,13 @@ so wohl überlegt aussuchen?
 
 ## urgewald legt schmutzige Geschäfte offen
 
-![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33146509374_9fb85e754a_z-640x427.jpg)
+<RemoteImage
+  alt="urgewald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33146509374_9fb85e754a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33146509374_9fb85e754a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bei _urgewald_ hat man es sich zur Aufgabe gemacht, schmutzige Geschäfte offen
 zu legen. Bekanntheit erlangte der Verein, als er 2010 die Broschüre "Wie
@@ -73,7 +85,13 @@ stellen und durchleuchtet für uns die dunkle Welt der Finanzgeschäfte.
 
 ## Banken besitzen einen immensen Einfluss auf Rüstungsgeschäfte, Klimawandel und Entwicklung
 
-![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33604807880_11fd30ff9c_z-640x427.jpg)
+<RemoteImage
+  alt="urgewald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33604807880_11fd30ff9c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33604807880_11fd30ff9c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Liest man die Broschüre und beschäftigt man sich mit dem Thema, wird einem klar,
 was Banken und auch Versicherungen für einen Einfluss besitzen auf
@@ -92,7 +110,13 @@ heute bei vielen Banken und Versicherungen tabu.
 
 ## Opfer und Betroffene kommen zu Wort
 
-![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33146508594_383360feab_z-640x427.jpg)
+<RemoteImage
+  alt="urgewald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33146508594_383360feab_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33146508594_383360feab_z__l.jpg"
+  loadingUrl="undefined" />
 
 Was noch mehr Licht ins Dunkel bringt: Opfer und Betroffene kommen bei
 _urgewald_ zu Wort. Als "Anwalt für Umwelt- und Menschenrechte" möchte
@@ -112,7 +136,13 @@ _Umweltversand Waschbär_ , der von der _Tridios Bank_ unterstützt wird.
 
 ## Wie radioaktiv ist meine Bank?
 
-![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33832614512_6440fa8a61_z-640x427.jpg)
+<RemoteImage
+  alt="urgewald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33832614512_6440fa8a61_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33832614512_6440fa8a61_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auf den Seiten 64 bis 74 warten dann knallharte Fakten. Eine detaillierte
 Reportage klärt hier über folgende Punkte auf
@@ -128,7 +158,13 @@ Braunkohle auf unsere Umwelt haben mit Zahlen belegt.
 
 ## Aufklärungsarbeit im Kampf für mehr Menschlichkeit
 
-![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33604806660_a7b2533ef1_z-640x427.jpg)
+<RemoteImage
+  alt="urgewald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33604806660_a7b2533ef1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33604806660_a7b2533ef1_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Journalist Wolfgang Uchatius hatte 2011 die "Riester-Bombe" "zum Platzen
 gebracht". Als er selbst 2011 einen Riester-Vertrag unterschrieb, bekam er einen
@@ -145,7 +181,13 @@ Riester-Förderung auch noch zusätzlich mit Steuergeldern unterstützt.
 
 ## Deutsche Versicherungen finanzieren Atomwaffen
 
-![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33832616792_88fbae430e_z-640x640.jpg)
+<RemoteImage
+  alt="urgewald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33832616792_88fbae430e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33832616792_88fbae430e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Umwelt- und Verbraucherschutzorganisationen kämpfen dafür, dass Banken und
 Versicherungen zum Einlenken gezwungen werden. Allerdings führte das bis heute
@@ -163,7 +205,13 @@ Waffengewalt aus ihrer Heimat vertrieben werden, um der Kohleeindustrie neues
 Land für ihren Raubbau und die Zerstörung der Umwelt zuzuschanzen, sollte sich
 nach Alternativen umsehen.
 
-![urgewald](http://cardamonchai.com/wp-content/uploads/2017/04/33832611862_b8ea5fdbb1_z-640x427.jpg)
+<RemoteImage
+  alt="urgewald"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33832611862_b8ea5fdbb1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33832611862_b8ea5fdbb1_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der staatliche indische, weltweit größte Kohlekonzern _Coal India_ vertreibt
 nach wie vor Menschen, lässt Kinderarbeit zu und vernichtet den Lebensraum

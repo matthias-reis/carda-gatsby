@@ -47,7 +47,13 @@ Wir haben uns vor Kurzem das passende Rezept für solche Gelegenheiten
 ausgedacht. Voilà: Hier kommt der Sloe Dancer. Oder soll ich besser sagen Slow
 Dancer? Ihr tanzt damit nämlich ziemlich gediegen in den Abend.
 
-![Sloe Dancer - Vorglüh-Cocktail](http://cardamonchai.com/wp-content/uploads/2018/06/41782985481_7d3681cbd1_z-400x600.jpg)
+<RemoteImage
+  alt="Sloe Dancer - Vorglüh-Cocktail"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41782985481_7d3681cbd1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41782985481_7d3681cbd1_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Zutaten für 2 Gläser Sloe Dancer
 

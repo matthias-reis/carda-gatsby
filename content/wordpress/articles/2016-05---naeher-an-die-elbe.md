@@ -49,7 +49,13 @@ zukünftigen Bleibe ist uns diese Stadttaube begegnet. Natürlich kommen auch
 [Oskar und Chili](/2016/05/kater-oskar-freut-sich-auf-altona/) mit. Sie sind
 schon genau so gespannt wie wir.
 
-![An die Elbe](http://cardamonchai.com/wp-content/uploads/2016/05/26505263893_df896de413_o-1-640x521.jpg)
+<RemoteImage
+  alt="An die Elbe"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26505263893_df896de413_o-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26505263893_df896de413_o-1__l.jpg"
+  loadingUrl="undefined" />
 
 > Hamburg ist ein schönes Städtchen, siehste wohl, weil es an der Elbe liegt,
 > siehste wohl! (Alte Weise)

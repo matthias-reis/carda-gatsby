@@ -53,7 +53,13 @@ ein Nordsee-Band, Matze trägt Ostsee. Auch ein Adria-Band, ein Rotes Meer Band,
 ein Pazifik-Band und ein Atlantik-Band findet man unter anderem im Onlineshop
 von Bracenet.
 
-![Bracenet](http://cardamonchai.com/wp-content/uploads/2018/08/44359416061_73afc6e1ec_z-400x300.jpg)
+<RemoteImage
+  alt="Bracenet"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44359416061_73afc6e1ec_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44359416061_73afc6e1ec_z__l.jpg"
+  loadingUrl="undefined" />
 
 10 Prozent der Verkaufserlöse gehen an die Meeresschutz-Organisation Healthy
 Seas. Weitere Partner sind NoFir und Ghost Fishing. Zusammen mit Ghost Fishing
@@ -74,7 +80,13 @@ Verwendung.
 
 Bezogen werden können die Bracenet-Produkte direkt über bracenet.de.
 
-![Bracenet | full](http://cardamonchai.com/wp-content/uploads/2018/08/43643438844_6ea5692271_z.jpg)
+<RemoteImage
+  alt="Bracenet"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43643438844_6ea5692271_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43643438844_6ea5692271_z__l.jpg"
+  loadingUrl="undefined" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall selbst erworben.

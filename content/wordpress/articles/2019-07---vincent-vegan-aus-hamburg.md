@@ -46,7 +46,13 @@ geboren.
 
 ## Vincent Vegan – Die Erfolgsgeschichte
 
-![vincent-vegan | full](http://cardamonchai.com/wp-content/uploads/2019/07/VV_Fuchsbau_145.jpg)
+<RemoteImage
+  alt="vincent-vegan"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_145__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_145__l.jpg"
+  loadingUrl="undefined" />
 
 Schon mit den ersten Schritten zeichnete sich Erfolg ab. Christian Kuper wollte
 sein Konzept prüfen und setzte auf das Foodtruck-Prinzip. Auf der Straße kam der
@@ -71,7 +77,13 @@ vegane Events und einige Musikfestivals im norddeutschen Raum werden angefahren.
 
 ## Rock 'n' Roll - Vincent Vegan on tour
 
-![vincent-vegan | full](http://cardamonchai.com/wp-content/uploads/2019/07/VV_Fuchsbau_138.jpg)
+<RemoteImage
+  alt="vincent-vegan"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_138__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_138__l.jpg"
+  loadingUrl="undefined" />
 
 Vincent Vegan sieht sich als Straßenkind. "On the road" ist das Zuhause der
 rebellischen Burgerbrater, an Stil fehlt es dabei nie. Von der Speisekarte im
@@ -89,7 +101,13 @@ auch für zu Hause erstehen kann.
 
 ## Vincent Vegan – The Base
 
-![vincent-vegan | full](http://cardamonchai.com/wp-content/uploads/2019/07/VV_Fuchsbau_76.jpg)
+<RemoteImage
+  alt="vincent-vegan"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_76__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_76__l.jpg"
+  loadingUrl="undefined" />
 
 2015 hatte sich Vincent Vegan dann ein weiteres Standbein erarbeitet: Das Pop-up
 "The Base" im Herzen von Hamburg Altona fungierte bis 2017 nicht nur als
@@ -113,7 +131,13 @@ bei den St. Pauli Spielen außerdem schon fest zum Programm.
 
 ## Vincent Vegan goes Berlin - neue Erfolge
 
-![vincent-vegan | full](http://cardamonchai.com/wp-content/uploads/2019/07/VV_Fuchsbau_31.jpg)
+<RemoteImage
+  alt="vincent-vegan"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_31__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_VV_Fuchsbau_31__l.jpg"
+  loadingUrl="undefined" />
 
 Nachdem dem großen Erfolg der Base in Altona, gibt es inzwischen, neben dem im
 [Millerntor Stadion](/2016/05/millerntor-stadion-hamburg/)  noch drei weitere

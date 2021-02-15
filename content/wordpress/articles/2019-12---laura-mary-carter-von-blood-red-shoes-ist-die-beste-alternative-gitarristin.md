@@ -46,7 +46,13 @@ ihrer überzeugenden und seit Jahren erstklassigen Technik wohlverdient auf Plat
 
 ## Laura-Mary Carter legt ihre Seele offen
 
-![laura-mary-carter](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-13-400x300.png "Blood Red Shoes. Bild / Picture: Sonic PR")
+<RemoteImage
+  alt="laura-mary-carter"
+  size="medium"
+  title="Blood Red Shoes. Bild / Picture: Sonic PR"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-13.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-13.png__l.jpg"
+  loadingUrl="undefined" />
 
 In Projekten mit zwei Musikern sind die Anforderungen an den⋆die Gitarrist⋆in um
 ein Vielfaches höher, als in Bands mit klassischer Besetzung. Es gibt keine

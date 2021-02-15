@@ -46,7 +46,13 @@ subTitle: Putzen ohne Gift
 
 _Produktplatzierung / selbst gekauft\*_
 
-![DIY Putzmittel](http://cardamonchai.com/wp-content/uploads/2017/06/35061369660_961475a666_k-640x640.jpg)
+<RemoteImage
+  alt="DIY Putzmittel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35061369660_961475a666_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35061369660_961475a666_k__l.jpg"
+  loadingUrl="undefined" />
 
 **Seit ungefähr zwei Jahren stelle ich jetzt das Putzmittel für unsere Küche
 selbst her. Und ich möchte mal behaupten: In unseren Fliesen kann man sich

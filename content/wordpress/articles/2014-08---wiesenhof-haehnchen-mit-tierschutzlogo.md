@@ -60,7 +60,8 @@ date: 2014-08-06T14:35:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (11:14)"
 thumbnailId: "8140"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__l.jpg
@@ -69,11 +70,18 @@ subTitle: Skandal um Tierschutzbund
   
 ---
 
+## unknown: Unexpected token (11:14)
+
+<!--
 Zuerst glaubte ich an einen bösen Scherz, doch es stellte sich ziemlich schnell
 heraus, dass es keiner war. Ein Gruppenmitglied hatte einen Ausschnitt aus einem
 Werbeblättchen gepostet:
 
-![Wiesenhof | large](http://cardamonchai.com/wp-content/uploads/2014/08/wiesenhof-800x470.jpg 'Tierschutz-Chlorhähnchen aus dem "Privathof" - Ob das die Verbraucher glauben?')
+<RemoteImage alt="Wiesenhof" size="large" title="Tierschutz-Chlorhähnchen aus
+dem "Privathof" - Ob das die Verbraucher glauben?"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wiesenhof__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wiesenhof__l.jpg"
+loadingUrl="undefined" />
 
 ## Wiesenhof wirbt mit dem Tierschutzbund
 
@@ -88,7 +96,13 @@ und Begrenzung der Transportdauer auf 4 Stunden"._
 Nachdem ich den ersten Schock verdaut hatte, begab ich mich zunächst mal auf die
 Seite des Deutschen Tierschutzbundes und fand folgendes vor:
 
-![Wiesenhof | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/08/peta-hc3bchnermast-wiesenhof-150x150.jpg "Hühnermast Wiesenhof Bild: PETA")
+<RemoteImage
+  alt="Wiesenhof"
+  size="thumbnail"
+  title="Hühnermast Wiesenhof Bild: PETA"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_peta-hc3bchnermast-wiesenhof__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_peta-hc3bchnermast-wiesenhof__l.jpg"
+  loadingUrl="undefined" />
 
 _"Mit dem Tierschutzlabel 'Für Mehr Tierschutz' des Deutschen Tierschutzbundes
 werden Produkte tierischen Ursprungs gekennzeichnet, denen Tierschutzstandards
@@ -110,14 +124,26 @@ Unter dem Text prangen zwei Logos, denn von dem sogenannten "Tierschutzlabel",
 das offensichtlich Teil einer großangelegte Imagekampagne der PHW-Gruppe (dazu
 zählt unter anderem Wiesenhof) gehört, gibt es zwei Stufen:
 
-![Wiesenhof | full](http://cardamonchai.com/wp-content/uploads/2014/08/tierschutzlabel_mit_internetadresse_01.jpg "Fragwürdiger Tierschutz in zwei Abstufungen")
+<RemoteImage
+  alt="Wiesenhof"
+  size="full"
+  title="Fragwürdiger Tierschutz in zwei Abstufungen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tierschutzlabel_mit_internetadresse_01__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tierschutzlabel_mit_internetadresse_01__l.jpg"
+  loadingUrl="undefined" />
 
 Immer noch ganz baff, ging ich zurück auf die Facebook-Seite, wo
 [die Diskussion unter dem Bild](https://www.facebook.com/groups/663824773653889/permalink/711147608921605/)
 inzwischen in vollem Gange war. Mir fehlen nach wie vor die Worte, Ihr müsst mir
 bitte verzeihen, wenn es mir gerade etwas schwerfällt, mich auszudrücken.
 
-![Schweinetransporter Bild: PETA](http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300 "Schweinetransporter Bild: PETA")
+<RemoteImage
+  alt="Schweinetransporter Bild: PETA"
+  size="medium"
+  title="Schweinetransporter Bild: PETA"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/schweinetransporter-peta.jpg?w=300"
+  loadingUrl="undefined" />
 
 Hier werden ganz bewusst Verbraucher getäuscht. Menschen, die der Meinung sind,
 noch Fleisch essen zu müssen, aber gerne auf die Herkunft achten möchten. Es
@@ -175,7 +201,13 @@ Bereits vorgestern war einem andere Gruppenmitglied in einer Kaisers-Filiale
 [etwas Ähnliches](https://www.facebook.com/photo.php?fbid=1458259771099644&set=gm.710465795656453&type=1&theater)
 aufgefallen:
 
-![Wiesenhof | large](http://cardamonchai.com/wp-content/uploads/2014/08/grillfleisch-800x1415.jpg "Grillfleisch von zweifelhafter Herkunft")
+<RemoteImage
+  alt="Wiesenhof"
+  size="large"
+  title="Grillfleisch von zweifelhafter Herkunft"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grillfleisch__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grillfleisch__l.jpg"
+  loadingUrl="undefined" />
 
 Hier hatten wir noch gerätselt und daran gedacht, dass das evtl. ein böser
 Fauxpas des Filialleiters sein könnte. Dass es sich dabei um das nächste Große
@@ -191,7 +223,11 @@ anzulocken, ähnliches gilt für Kooperationen, die derzeit vom WWF und dem Vere
 [Vier Pfoten](http://www.vier-pfoten.de/kampagnen/nutztiere/kaninchen/mastkaninchen/zertifikat/)
 gefahren werden.
 
-![Bild: "WWF-Scheiss" Quelle: Der Artgenosse | large](http://cardamonchai.files.wordpress.com/2014/08/wwf-scheiss.jpg?w=646 'Bild: "WWF-Scheiss" Quelle: Der Artgenosse')
+<RemoteImage alt="Bild: &quot;WWF-Scheiss&quot; Quelle: Der Artgenosse"
+size="large" title="Bild: "WWF-Scheiss" Quelle: Der Artgenosse"
+mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/wwf-scheiss.jpg?w=646"
+largeUrl="http://cardamonchai.files.wordpress.com/2014/08/wwf-scheiss.jpg?w=646"
+loadingUrl="undefined" />
 
 Ich habe noch heute Vormittag meine Mitgliedschaft beim Deutschen Tierschutzbund
 mit den folgenden Worten gekündigt:
@@ -231,7 +267,13 @@ Ich möchte Euch bitten
 zu folgen, die Petition zu unterschreiben und an alle Eure Bekannten, Freunde,
 Facebook-Fans und Twitter-Follower weiterzugeben!
 
-![Petition für ehrlichen Tierschutz | large](http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646 "[ ](https://www.openpetition.de/petition/online/ehrlicher-tierschutz)  Petition für ehrlichen Tierschutz")
+<RemoteImage
+  alt="Petition für ehrlichen Tierschutz"
+  size="large"
+  title="[ ](https://www.openpetition.de/petition/online/ehrlicher-tierschutz)  Petition für ehrlichen Tierschutz"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bildschirmfoto-2014-08-06-um-16-47-26.png?w=646"
+  loadingUrl="undefined" />
 
 Mit PETA habe ich auch Kontakt aufgenommen, ich gebe Euch Bescheid, sobald ich
 eine Antwort bekomme:
@@ -245,7 +287,13 @@ Verbrauchern handelt. Meine Frage wäre nun, ob sich PETA hier schon
 eingeschaltet, hat, was man machen kann, um diese Misssände aufzudecken und ob
 es möglich wäre, hier eine Petition etc zu starten? Beste Grüße Anne Reis"_
 
-![Wiesenhof | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/08/biohc3bchnerfar-edeka-twistringen-peta-150x150.jpg "Biohühnerfarm Edeka Twistringen Bild: PETA")
+<RemoteImage
+  alt="Wiesenhof"
+  size="thumbnail"
+  title="Biohühnerfarm Edeka Twistringen Bild: PETA"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_biohc3bchnerfar-edeka-twistringen-peta__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_biohc3bchnerfar-edeka-twistringen-peta__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe natürlich alle wichtigen Links uns Fotos mit angehängt, obwohl ich mir
 ziemlich sicher bin, dass das Problem dort schon längst auf dem Tisch liegt.
@@ -275,9 +323,21 @@ PETA, Deutscher Tierschutzbund, WWF_ ## **Nachtrag (18:45)**
 Hier einige Kommentare, die unter meinem Link zum Artikel auf Facebook
 aufgetaucht sind:
 
-![Neuland und der Tierschutzbund | large](http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646 "Neuland und der Tierschutzbund")
+<RemoteImage
+  alt="Neuland und der Tierschutzbund"
+  size="large"
+  title="Neuland und der Tierschutzbund"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/neuland-33.jpg?w=646"
+  loadingUrl="undefined" />
 
-![Wiesenhof | large](http://cardamonchai.com/wp-content/uploads/2014/08/vier-pfoten1-49-800x980.jpg "Abgründe tun sich auf")
+<RemoteImage
+  alt="Wiesenhof"
+  size="large"
+  title="Abgründe tun sich auf"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__l.jpg"
+  loadingUrl="undefined" />
 
 Für mich tun sich gerade ganz neue Abgründe auf. Sicher haben das einige außer
 mir auch noch nicht gewusst, oder? ODER?!
@@ -341,5 +401,7 @@ und Ihr Engagement für die Tiere und verbleiben_ _mit freundlichen Grüßen_
 &nbsp;
 
 &nbsp;
+
+-->
 
   

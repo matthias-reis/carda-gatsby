@@ -76,7 +76,13 @@ zubereitet. Von Erbsen über Kichererbsen bis hin zu den ausgefallensten
 Bohnensorten gab es einiges zu probieren. Zwischendurch hatte man immer wieder
 die Möglichkeit, Fragen zu stellen.
 
-![huelsenfruechte](http://cardamonchai.com/wp-content/uploads/2018/12/erbsen-400x300.jpg "Verschiedene Erbsen")
+<RemoteImage
+  alt="huelsenfruechte"
+  size="medium"
+  title="Verschiedene Erbsen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_erbsen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_erbsen__l.jpg"
+  loadingUrl="undefined" />
 
 Im Mittelpunkt der Veranstaltung standen die neuen
 **TK-Hülsenfrucht-Mischungen** "Mexican" mit Kidney Bohnen, schwarze Bohnen und
@@ -101,7 +107,13 @@ Konservendose schmeißt man nur eine kleine Kartonbox weg.
 
 ## Was sind eigentlich Hülsenfrüchte?
 
-![huelsenfruechte](http://cardamonchai.com/wp-content/uploads/2018/12/taco-400x533.jpg "Schmackhafter Taco")
+<RemoteImage
+  alt="huelsenfruechte"
+  size="medium"
+  title="Schmackhafter Taco"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_taco__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_taco__l.jpg"
+  loadingUrl="undefined" />
 
 Hülsenfrüchte nennt man die Samen von Pflanzen, die in einer Hülse heranreifen.
 Dazu zählen unter anderem Erbsen, Bohnen, Linsen, Lupinen und Kichererbsen. Ist
@@ -129,7 +141,13 @@ denn nun eigentlich drauf? Machen sie wirklich glücklich und gesund?
 
 ## Welche Hülsenfrüchte gibt es?
 
-![huelsenfruechte](http://cardamonchai.com/wp-content/uploads/2018/12/brotsalat-400x533.jpg "Warmer Brotsalat mit Bohnen")
+<RemoteImage
+  alt="huelsenfruechte"
+  size="medium"
+  title="Warmer Brotsalat mit Bohnen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_brotsalat__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_brotsalat__l.jpg"
+  loadingUrl="undefined" />
 
 Das klingt ja alles ziemlich fein! Dann mal her mit den gesunden
 Protein-Lieferanten! Welche gibt es denn?

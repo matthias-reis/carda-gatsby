@@ -36,7 +36,13 @@ subTitle: Flarf-Gedicht zum Frühling
   
 ---
 
-![Sonne](http://cardamonchai.com/wp-content/uploads/2016/03/Sonne-und-Frieden-1-von-4-640x427.jpg "Sonne und Frieden")
+<RemoteImage
+  alt="Sonne"
+  size="medium"
+  title="Sonne und Frieden"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__l.jpg"
+  loadingUrl="undefined" />
 
 **Sonne und Frieden. Das sind die beiden Wörter, die ich dieses Mal als Gerüst
 für mein Gedicht verwendet habe. Dabei ist ein sehr nachdenklicher Text

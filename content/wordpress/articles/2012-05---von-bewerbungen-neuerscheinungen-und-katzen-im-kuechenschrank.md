@@ -54,7 +54,13 @@ subTitle: Tagebucheintrag
   
 ---
 
-![Das Corpus Delicti](http://cardamonchai.com/wp-content/uploads/2012/05/img_20120518_095143-640x640.jpg "[ ](/wp-content/uploads/2012/05/img_20120518_095143.jpg)  Das Corpus Delicti")
+<RemoteImage
+  alt="Das Corpus Delicti"
+  size="medium"
+  title="[ ](/wp-content/uploads/2012/05/img_20120518_095143.jpg)  Das Corpus Delicti"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__l.jpg"
+  loadingUrl="undefined" />
 
 **Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich schon
 viel zu lange nicht mehr getan habe. Einem Blogeintrag.**
@@ -76,7 +82,13 @@ Perle. Ich empfehle Euch heute wärmstens:
 [BOWERBIRDS - Hymns For A Dark Horse](http://deadoceans.com/onesheet.php?cat=DOC017).
 Hört auf jeden Fall mal rein.
 
-![cardasport](http://cardamonchai.com/wp-content/uploads/2012/05/img_20120518_100356-640x640.jpg "[ ](/wp-content/uploads/2012/05/img_20120518_100356.jpg)  cardasport")
+<RemoteImage
+  alt="cardasport"
+  size="medium"
+  title="[ ](/wp-content/uploads/2012/05/img_20120518_100356.jpg)  cardasport"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_100356__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_100356__l.jpg"
+  loadingUrl="undefined" />
 
 Kater No. 1 kann jetzt von hinten in die Küchenschublade klettern. Kater No. 2,
 nicht ganz so schlau, versucht nun schmollend, selbige von außen zu öffnen. Nach

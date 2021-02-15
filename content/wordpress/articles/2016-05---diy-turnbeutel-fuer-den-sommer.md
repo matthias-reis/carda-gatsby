@@ -34,7 +34,13 @@ subTitle: Aus alt mach neu
   
 ---
 
-![Turnbeutel](http://cardamonchai.com/wp-content/uploads/2016/05/26332007734_abb994932c_z-640x640.jpg "Mein neuer Turnbeutel")
+<RemoteImage
+  alt="Turnbeutel"
+  size="medium"
+  title="Mein neuer Turnbeutel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26332007734_abb994932c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26332007734_abb994932c_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Wie einige unter Euch schon wissen, bin ich ein Fan von Turnbeuteln. Die
 Dinger sehen nicht nur toll aus, sie sind auch noch super praktisch.**

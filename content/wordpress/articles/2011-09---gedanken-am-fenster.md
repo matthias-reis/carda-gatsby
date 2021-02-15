@@ -47,7 +47,13 @@ subTitle: <strong>Erst bist du auf die Welt gekommen, dann hast du dich
   
 ---
 
-![Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078](http://cardamonchai.com/wp-content/uploads/2011/09/frederick2.jpg "Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078")
+<RemoteImage
+  alt="Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078"
+  size="medium"
+  title="Frederick von Leo Lionni Verlag Beltz ISBN-10: 3407760078"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_09_frederick2__l.jpg"
+  loadingUrl="undefined" />
 
 Es hat eine ganze Weile gedauert, bis du das verstanden hast. Da war diese Mauer
 aus kaltem Stein. Der Stein, der sich löste. Er traf dich hart. Verletzte dich.

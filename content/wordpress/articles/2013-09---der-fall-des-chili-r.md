@@ -58,7 +58,13 @@ Sie kommt zurück. "Moment, der Herr Dr. B. ist gleich da!" Weitere zwei Minuten
 später geht Herr Dr. B. ans Telefon. Ich brülle ihm alles entgegen. Die ganzen
 Schmerzen der letzten Woche. Alles was ich sich angestaut hat.
 
-![Ganz entspannt](http://cardamonchai.files.wordpress.com/2013/09/img_0077-kopie.jpg?w=300 "Ganz entspannt")
+<RemoteImage
+  alt="Ganz entspannt"
+  size="medium"
+  title="Ganz entspannt"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/img_0077-kopie.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/img_0077-kopie.jpg?w=300"
+  loadingUrl="undefined" />
 
 Wie durch ein Wunder schaffe ich es, trotz allem irgendwie ansatzweise sachlich
 zu bleiben, komme auch zu Wort und kann ihm einiges schildern. Herr Dr. B.
@@ -90,7 +96,13 @@ Klinik und Chilis Rehabilitation erstattet bekommen. Wir sind im Moment einfach
 zu schwach, darum zu kämpfen. Uns geht es nicht ums Geld. Wir möchten, dass
 Chili wieder gesund wird.
 
-![Bild: PeterFranz pixelio.de](http://cardamonchai.files.wordpress.com/2013/09/664812_web_r_b_by_peterfranz_pixelio-de.jpg?w=300 "Bild: PeterFranz pixelio.de")
+<RemoteImage
+  alt="Bild: PeterFranz pixelio.de"
+  size="medium"
+  title="Bild: PeterFranz pixelio.de"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/664812_web_r_b_by_peterfranz_pixelio-de.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/664812_web_r_b_by_peterfranz_pixelio-de.jpg?w=300"
+  loadingUrl="undefined" />
 
 Zum Schluss bitte ich in noch darum, doch mal mit dem Team zu sprechen. Immerhin
 meinte ja eine Tierarzthelferin zu mir, sie hätten alle selbst Tiere und könnten

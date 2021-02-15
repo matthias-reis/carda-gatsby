@@ -49,7 +49,13 @@ er heute frisch überarbeitet in meinem Blog.
 
 <hr />
 
-![earthship | full](http://cardamonchai.com/wp-content/uploads/2019/06/Toilet_2-200x300.jpg "Auf fließendes Wasser muss im Earthship nicht verzichtet werden. Foto: Earthship Berlin Tempelhof")
+<RemoteImage
+  alt="earthship"
+  size="full"
+  title="Auf fließendes Wasser muss im Earthship nicht verzichtet werden. Foto: Earthship Berlin Tempelhof"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Toilet_2-200x300__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Toilet_2-200x300__l.jpg"
+  loadingUrl="undefined" />
 
 "Tiny House" war gestern. Wisst Ihr, was wirklich cool ist? Ein Haus, das
 vollständig aus Recyclingmaterial besteht und von Freunden gemeinsam bewohnt
@@ -77,7 +83,13 @@ oder eine Stereoanlage verzichten
 
 ## Anbau von Obst und Gemüse im Earthship
 
-![earthship | full](http://cardamonchai.com/wp-content/uploads/2019/06/global_greenhouse5-300x200.jpg "Hier wird Obst und Gemüse angebaut. Foto: Eartship Berlin Tempelhof")
+<RemoteImage
+  alt="earthship"
+  size="full"
+  title="Hier wird Obst und Gemüse angebaut. Foto: Eartship Berlin Tempelhof"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_global_greenhouse5-300x200__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_global_greenhouse5-300x200__l.jpg"
+  loadingUrl="undefined" />
 
 Im Haus können das ganze Jahr über Lebensmittel angebaut werden. Zu diesem Zweck
 wird die Wärme der Sonne genutzt. Eine große Glasfront an der Südseite jedes

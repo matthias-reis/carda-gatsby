@@ -33,7 +33,13 @@ subTitle: Das aktuelle Welt Vegan Magazin
   
 ---
 
-![Anne Menden](http://cardamonchai.com/wp-content/uploads/2017/06/34605728674_f80099782f_k-640x640.jpg)
+<RemoteImage
+  alt="Anne Menden"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34605728674_f80099782f_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34605728674_f80099782f_k__l.jpg"
+  loadingUrl="undefined" />
 
 **Nicht nur der Vollständigkeit halber, poste ich nun endlich meinen Beitrag zum
 aktuellen Welt Vegan Magazin. Auch, wenn es schon eine Weile in den Ladenregalen

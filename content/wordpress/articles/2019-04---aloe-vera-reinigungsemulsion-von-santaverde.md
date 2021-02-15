@@ -57,7 +57,13 @@ anschließende Pflege vorbereitet.
 
 ## Make-up einfach abwaschen
 
-![aloe-vera-reinigungsemulsion](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-santaverde-4-400x300.jpg)
+<RemoteImage
+  alt="aloe-vera-reinigungsemulsion"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-4__l.jpg"
+  loadingUrl="undefined" />
 
 Genauso toll klappt das übrigens auch mit dem
 [Pure Puryfying Cleanser](/2019/02/santaverde-pure/) für unreine Haut. Doch
@@ -107,7 +113,13 @@ mit dem **Leaping Bunny** Siegel, dem Label der Vegan Society und die Biosiegel
 ausgezeichnet sind. Das gibt mir im Hinblick auf die veganen und verträglichen
 Inhaltsstoffe sowie den Verzicht auf Tierversuche Sicherheit.
 
-![aloe-vera-reinigungsemulsion](http://cardamonchai.com/wp-content/uploads/2019/04/2019-04-05-santaverde-2-400x300.jpg)
+<RemoteImage
+  alt="aloe-vera-reinigungsemulsion"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-2__l.jpg"
+  loadingUrl="undefined" />
 
 ## Die Wirkungsweise der Aloe Vera Reinigungsemulsion
 

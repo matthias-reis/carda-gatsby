@@ -32,7 +32,13 @@ subTitle: Selbstgemacht an nur einem Nachmittag
   
 ---
 
-![Daraus ist meine neue Handtasche entstanden](http://cardamonchai.com/wp-content/uploads/2015/09/Meine-neue-Handtasche-3-640x480.jpg "Daraus ist meine neue Handtasche entstanden")
+<RemoteImage
+  alt="Daraus ist meine neue Handtasche entstanden"
+  size="medium"
+  title="Daraus ist meine neue Handtasche entstanden"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Meine-neue-Handtasche-3__l.jpg"
+  loadingUrl="undefined" />
 
 **Neulich fiel mir die Decke ein Bisschen auf den Kopf und ich begann nach
 Stoffen und Schnittmustern zu googeln. Ziemlich schnell stand fest: Eine neue

@@ -38,7 +38,13 @@ subTitle: '"Ich möchte praktische und schicke Kleidung für Kinder machen!"'
   
 ---
 
-![Modeschöpferin Desi von Daisy Kindermoden](http://cardamonchai.com/wp-content/uploads/2015/08/11053116_955034747861012_5276487313995891046_n-640x640.jpg "Modeschöpferin Desi von Daisy Kindermoden")
+<RemoteImage
+  alt="Modeschöpferin Desi von Daisy Kindermoden"
+  size="medium"
+  title="Modeschöpferin Desi von Daisy Kindermoden"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11053116_955034747861012_5276487313995891046_n__l.jpg"
+  loadingUrl="undefined" />
 
 Desi lernte ich vor ein paar Jahren über meine damalige Clique auf einem
 Festival kennen. Wir sind uns danach immer wieder auf sommerlichen
@@ -61,7 +67,13 @@ frisiert, mal offen. Und genau so ist auch Desis Kindermoden-Kollektion Daisy:
 Bunt, verträumt, verspielt und fröhlich. Ich habe mich mit ihr über ihr neues
 Standbein als Modeschöpferin unterhalten.
 
-![Daisy Kindermoden](http://cardamonchai.com/wp-content/uploads/2015/08/11755777_844080739017166_1301161287130147372_n-640x960.jpg)
+<RemoteImage
+  alt="Daisy Kindermoden"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11755777_844080739017166_1301161287130147372_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11755777_844080739017166_1301161287130147372_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Liebe Desi, schön, mit dir zu plaudern! Wie geht es dir? Wie war dein
 Tag bis jetzt?
@@ -81,7 +93,13 @@ Da sind wirklich farbenfrohe, ausgefallene Stücke dabei! Wann kam die Idee,
 Kleidung für Kinder selbst zu entwerfen und zu nähen? Woher kam der Bezug dazu?
 Hast Du eine Schneiderlehre oder Ähnliches gemacht?
 
-![Daisy Kindermoden](http://cardamonchai.com/wp-content/uploads/2015/08/11209709_844077105684196_3994169960035473163_n-640x427.jpg)
+<RemoteImage
+  alt="Daisy Kindermoden"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11209709_844077105684196_3994169960035473163_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11209709_844077105684196_3994169960035473163_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Desi:** Eigentlich wollte ich Modedesign erlernen, aber irgendwie kam das
 Leben anders. Als meine Tochter Luisa fünf Monate alt war, sah ich eine Hose,
@@ -97,7 +115,13 @@ einwandfrei, manches erst beim zweiten Anlauf.
 
 **Anne:** Wo kann man die Kleidungsstücke aus deiner Kollektion erwerben?
 
-![Daisy Kindermoden](http://cardamonchai.com/wp-content/uploads/2015/08/11750686_844080762350497_4336511498211923625_n-640x715.jpg)
+<RemoteImage
+  alt="Daisy Kindermoden"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11750686_844080762350497_4336511498211923625_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11750686_844080762350497_4336511498211923625_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Desi:** Über Facebook und persönlich. Ich veranstalte auch Treffen, ähnlich
 wie Tupperabende. Ab ca. vier bis fünf Interessierten kann man mich einladen.
@@ -129,7 +153,13 @@ größten, deshalb verarbeite ich sie auch recht häufig.
 **Desi:** Am liebsten nähe ich Hosen und Kleider, dicht gefolgt von Accessoires
 wie z.B. Windeltaschen, Mützen und Loopschals.
 
-![Daisy Kindermoden](http://cardamonchai.com/wp-content/uploads/2015/08/11834683_850059278419312_2009857018805545104_o-640x478.jpg)
+<RemoteImage
+  alt="Daisy Kindermoden"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11834683_850059278419312_2009857018805545104_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11834683_850059278419312_2009857018805545104_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Was war das erste Teil, dass du genäht hast?
 
@@ -157,7 +187,13 @@ Hauptinteresse ist praktische, bequeme, schicke Kleidung für die Kleinen.
 
 **Anne:** Planst du, irgendwann eine Boutique zu eröffnen?
 
-![Daisy Kindermoden](http://cardamonchai.com/wp-content/uploads/2015/08/11802682_850059365085970_6879001709015702894_o-640x862.jpg)
+<RemoteImage
+  alt="Daisy Kindermoden"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11802682_850059365085970_6879001709015702894_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11802682_850059365085970_6879001709015702894_o__l.jpg"
+  loadingUrl="undefined" />
 
 ## Ein Café für Mütter und Kinder **Desi:** Mein langfristiger Wunsch, bzw. mein Ziel ist es, eine Art modernes Café zu eröffnen, in dem sich Mütter mit ihren Kindern aufhalten und spielen und ganz nebenbei schöne, handgefertigte Einzelstücke erwerben können. Handmade-Kleidung, Kunst und diverse andere schöne Dinge. Bislang ist mein Wunsch allerdings noch nicht weiter durchdacht.
 

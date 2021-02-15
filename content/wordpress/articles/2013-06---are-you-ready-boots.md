@@ -48,7 +48,13 @@ Festival. Die Vorfreude ist groß!
 
 ## Die Wettervorhersage wird auch immer besser:
 
-![Wetterchen | full](http://cardamonchai.files.wordpress.com/2013/06/wetterchen.png "[ ](http://www.daswetter.com/wetter_Neuhausen+Ob+Eck-Europa-Deutschland-Baden+Wurttemberg--1-95768.html)  Wetterchen")
+<RemoteImage
+  alt="Wetterchen"
+  size="full"
+  title="[ ](http://www.daswetter.com/wetter_Neuhausen+Ob+Eck-Europa-Deutschland-Baden+Wurttemberg--1-95768.html)  Wetterchen"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/wetterchen.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/wetterchen.png"
+  loadingUrl="undefined" />
 
 ## Das sind unsere "Wir freuen uns wie verrückt-Gesichter": \_\_
 
@@ -60,11 +66,23 @@ der Schlamm vom
 [Herzberg Festival](//2012/08/02/burg-herzberg-festival-2012/) dran. Das wird
 sicher ein Schlammbad erster Klasse.
 
-![Are you ready boots? | full](http://cardamonchai.files.wordpress.com/2013/06/img_5951.jpg "Are you ready boots?")
+<RemoteImage
+  alt="Are you ready boots?"
+  size="full"
+  title="Are you ready boots?"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_5951.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_5951.jpg"
+  loadingUrl="undefined" />
 
 ## Hier sind übrigens meine Highlights für das Southside:
 
-![Meine Highlights](http://cardamonchai.files.wordpress.com/2013/06/adfsdf.jpg?w=300 "[ ](gh)  Meine Highlights")
+<RemoteImage
+  alt="Meine Highlights"
+  size="medium"
+  title="[ ](gh)  Meine Highlights"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/adfsdf.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/adfsdf.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Queens Of The Stone Age** **Billy Talent** **Sigur Rós** **Portishead** **The
 Hives** **Of Monsters And Men** **Kasabian** **Gogol Bordello** **Johnossi**
@@ -84,6 +102,12 @@ ids="5970,5935,5936,5937,5938,5939,5940,5971,5972,5973,5974,5975"]
 **Was ich auch ziemlich cool finde: Das diesjährige Festival-Maskottchen ist
 eine Eule:**
 
-![Das Festival-Maskottchen | full](http://cardamonchai.files.wordpress.com/2013/06/8682_518004858259316_1266237018_n.jpg "[ ](http://www.southside.de/de)  Das Festival-Maskottchen")
+<RemoteImage
+  alt="Das Festival-Maskottchen"
+  size="full"
+  title="[ ](http://www.southside.de/de)  Das Festival-Maskottchen"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/8682_518004858259316_1266237018_n.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/8682_518004858259316_1266237018_n.jpg"
+  loadingUrl="undefined" />
 
   

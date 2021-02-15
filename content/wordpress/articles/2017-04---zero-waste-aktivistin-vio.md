@@ -63,7 +63,13 @@ unter unserer Mülldecke.
 
 ## Zero Waste - Im Kampf gegen den Müll
 
-![null](http://cardamonchai.com/wp-content/uploads/2017/04/Bildschirmfoto-2017-04-18-um-10.22.32-1.png)
+<RemoteImage
+  alt="null"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Bildschirmfoto-2017-04-18-um-10.22.32-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_Bildschirmfoto-2017-04-18-um-10.22.32-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Zero Waste Aktivisten haben den Müllmassen den Kampf angesagt. Vieles stellen
 sie selbst her. Gehen sie einkaufen, versuchen sie auf Verpackung weitestgehend
@@ -89,7 +95,13 @@ Auslöser?
 
 ## "Es ist nicht richtig, dass wir so viel Müll produzieren"
 
-![Zero Waste](http://cardamonchai.com/wp-content/uploads/2017/04/11503022256_d2e285e4b7_z.jpg)
+<RemoteImage
+  alt="Zero Waste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11503022256_d2e285e4b7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11503022256_d2e285e4b7_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vio:**   Ich finde es einfach nicht richtig, dass wir so viel Müll produzieren
 und ihn dann abladen, wo wir ihn nicht mehr sehen können. Ich konsumiere zwar
@@ -132,7 +144,13 @@ Plastik. Was soll das?
 **Anne:** Wie kann man diese Einstellung flächendeckend verbreiten? Also, die
 Leute dazu bringen, dass sie weniger Müll produzieren?
 
-![Zero Waste](http://cardamonchai.com/wp-content/uploads/2017/04/11354713785_68c5b41684_z-640x427.jpg)
+<RemoteImage
+  alt="Zero Waste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354713785_68c5b41684_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354713785_68c5b41684_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vio:** Das ist eine schwierige Aufgabe. Die Menschen sind leider ein
 Gewohnheitstiere.  Sobald sie sich bevormundet fühlen, oder ihr Verhalten als
@@ -150,7 +168,13 @@ arbeiten. Ich finde, eine gute Strategie ist wichtig.
 
 ## Geht es nicht eigentlich um den Inhalt?
 
-![Zero Waste](http://cardamonchai.com/wp-content/uploads/2017/04/11354761873_2f0126e461_z.jpg)
+<RemoteImage
+  alt="Zero Waste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354761873_2f0126e461_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354761873_2f0126e461_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Ich erlebe das bei meinem Job im Laden oft. Kunden lassen sich (Obwohl
 wir von allen Artikeln ausgepackte Beispiele präsentieren) etwas auspacken, weil
@@ -205,7 +229,13 @@ nicht unmöglich seinen Müll beim Einkaufen, zu reduzieren.
 
 ## "Sich vegan zu ernähren, ist ein guter erster Schritt in Richtung Nachhaltigkeit"
 
-![Zero Waste](http://cardamonchai.com/wp-content/uploads/2017/04/11354711264_1c1b346d6e_z-640x427.jpg)
+<RemoteImage
+  alt="Zero Waste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354711264_1c1b346d6e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354711264_1c1b346d6e_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Ich finde, dass es dazugehört, vegan zu leben, wenn man
 [ernsthaften Umweltschutz](/2017/02/klimaschutz-und-vegane-ernaehrung/)
@@ -244,7 +274,13 @@ Dich, weiterzumachen und dranzubleiben?
 
 ## "Ich möchte, dass es zukünftigen Generationen möglich sein wird, den Planeten zu bewohnen"
 
-![Zero Waste](http://cardamonchai.com/wp-content/uploads/2017/04/11354874794_c995a71943_z-640x427.jpg)
+<RemoteImage
+  alt="Zero Waste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354874794_c995a71943_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354874794_c995a71943_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vio:** Ich möchte einfach, dass es zukünftigen Generationen möglich sein wird,
 den Planeten zu bewohnen. Ich finde es ungeheuerlich, dass wir die Erde so
@@ -271,7 +307,13 @@ im Alltag Müll vermeiden?
 
 ## "Nimm einen Jutebeutel zum Einkaufen mit!"
 
-![Zero Waste](http://cardamonchai.com/wp-content/uploads/2017/04/11354674366_7f68b9cffc_z.jpg)
+<RemoteImage
+  alt="Zero Waste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354674366_7f68b9cffc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354674366_7f68b9cffc_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vio:** Kauf loses Obst und Gemüse ein. Nimm dazu einen Jutebeutel oder andere
 Stofftasche mit.

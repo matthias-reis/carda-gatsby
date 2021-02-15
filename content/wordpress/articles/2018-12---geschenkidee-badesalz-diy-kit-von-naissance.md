@@ -56,7 +56,13 @@ Produkte. Zuletzt hatte ich hier im Blog den
 Artikel freut sich auch heute noch täglich großer Beliebtheit. Ja, Glitter
 braucht die Welt! So sieht es aus.
 
-![Badesalz](http://cardamonchai.com/wp-content/uploads/2018/12/2018-12-09-naissance-badesalz-013-400x300.jpg "Selbst gemachtes Badesalz Bergamotte-Lavendel")
+<RemoteImage
+  alt="Badesalz"
+  size="medium"
+  title="Selbst gemachtes Badesalz Bergamotte-Lavendel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-013__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-013__l.jpg"
+  loadingUrl="undefined" />
 
 Bekannt wurde Naissance vor allem mit seinen hochwertigen Ölen.
 [Hier ein Beispiel](/2018/09/mit-naegelkauen-aufhoeren/). Die kommen in
@@ -65,7 +71,13 @@ her.
 
 ## Badesalz wäscht den Tag ab
 
-![Badesalz](http://cardamonchai.com/wp-content/uploads/2018/12/2018-12-09-naissance-badesalz-002-400x300.jpg "Die Zutaten für das DIY-Badesalz")
+<RemoteImage
+  alt="Badesalz"
+  size="medium"
+  title="Die Zutaten für das DIY-Badesalz"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-002__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-002__l.jpg"
+  loadingUrl="undefined" />
 
 Dazu braucht Ihr das DIY Kit für Badezusätze "Soak The Day Away" (dt. "Wasche
 den Tag ab"), einen Löffel und eine Rührschüssel und schon kann es losgehen.

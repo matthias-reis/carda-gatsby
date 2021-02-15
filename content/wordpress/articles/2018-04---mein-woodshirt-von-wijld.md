@@ -53,7 +53,13 @@ darauf, sie zu testen.
 
 ## Ein Langarm Shirt mit Meisenprint
 
-![wijld](http://cardamonchai.com/wp-content/uploads/2018/04/26217717497_5bd22f0d72_z-400x267.jpg)
+<RemoteImage
+  alt="wijld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217717497_5bd22f0d72_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217717497_5bd22f0d72_z__l.jpg"
+  loadingUrl="undefined" />
 
 Meine Wahl fiel auf ein Langarm-Shirt mit Vogelprint. Passend zu meinen Tattoos
 natürlich. Ihr könnt es auf den Bildern sehen. Sitzt gut, oder? Ich mag es
@@ -73,7 +79,13 @@ und Nähen bekommen sie ihre unverwechselbaren, umweltfreundlichen Aufdrucke.
 
 ## wijld pflanzt Bäume
 
-![wijld](http://cardamonchai.com/wp-content/uploads/2018/04/27014976208_5d261ba1a2_z-400x600.jpg)
+<RemoteImage
+  alt="wijld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_27014976208_5d261ba1a2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_27014976208_5d261ba1a2_z__l.jpg"
+  loadingUrl="undefined" />
 
 Und damit nicht genug: Für jede Bestellung, die im wijld Onlineshop aufgegeben
 wird, wird ein Baum gepflanzt, um so klimaneutral wie möglich zu arbeiten.
@@ -92,7 +104,13 @@ spielen sowieso nur kurze Zeit damit und dann wird es weggeworfen."
 
 ## Holz dient als Baumaterial für ihren Traum
 
-![wijld](http://cardamonchai.com/wp-content/uploads/2018/04/40177293734_88b6fe7ca8_z-400x600.jpg)
+<RemoteImage
+  alt="wijld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40177293734_88b6fe7ca8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40177293734_88b6fe7ca8_z__l.jpg"
+  loadingUrl="undefined" />
 
 Geschockt von dieser Aussage machte er sich gemeinsam mit Aline und Angelo, der
 wijld inzwischen verlassen hat, auf die Suche nach nachhaltigen Materialien. Es
@@ -126,7 +144,13 @@ oder aus dem Sportgeschäft gewohnt sind.
 
 ## Atmungsaktiver Tragekomfort
 
-![wijld](http://cardamonchai.com/wp-content/uploads/2018/04/26217728047_1a1a5586ce_z-400x267.jpg)
+<RemoteImage
+  alt="wijld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217728047_1a1a5586ce_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217728047_1a1a5586ce_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Stoff kann Feuchtigkeit gut aufnehmen und auch schnell wieder abgeben. Das
 gleicht die Temperatur aus und sorgt für eine antibakterielle Wirkung. Auf

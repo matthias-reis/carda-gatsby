@@ -27,7 +27,13 @@ subTitle: Ode an die Wetterlage
   
 ---
 
-![Wetter](http://cardamonchai.com/wp-content/uploads/2016/05/22555934110_718c3aecdf_z.jpg)
+<RemoteImage
+  alt="Wetter"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Was hat das Wetter mit einem Spiegel und einem Übersetzer gemeinsam? Es wird
 gesucht.**

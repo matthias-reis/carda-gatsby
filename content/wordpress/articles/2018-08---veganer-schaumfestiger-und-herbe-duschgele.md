@@ -33,7 +33,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (50:34)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (62:34)"
 thumbnailId: "21536"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43772535472_041cfe37d4_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43772535472_041cfe37d4_z__l.jpg
@@ -42,7 +42,7 @@ subTitle: Neue Beauty-Lieblinge von Bioturm
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (50:34)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (62:34)
 
 <!--
 _Werbung\*_
@@ -63,7 +63,13 @@ Wandmosaik aus Thailand.
 
 ## Veganer Schaumfestiger
 
-![veganer Schaumfestiger](http://cardamonchai.com/wp-content/uploads/2018/08/43104110834_95d690bd02_z-1-400x300.jpg)
+<RemoteImage
+  alt="veganer Schaumfestiger"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43104110834_95d690bd02_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43104110834_95d690bd02_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe mich für den Festiger mit leichtem Halt entschieden, es gibt auch noch
 die Stufe "starker Halt". Außerdem ist auch ein veganes Haarspray neu im
@@ -88,7 +94,13 @@ arbeitet sie schön heraus, ohne, dass sie zu gestylt wirken. Auch am Abend
 fallen sie noch schön. Man muss nur ein bisschen aufpassen, dass man nicht zu
 viel von dem Produkt verwendet, damit die Haare nicht beschwert werden.
 
-![veganer Schaumfestiger](http://cardamonchai.com/wp-content/uploads/2018/08/43104109554_4d5ea7caf6_z-1-400x533.jpg)
+<RemoteImage
+  alt="veganer Schaumfestiger"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43104109554_4d5ea7caf6_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43104109554_4d5ea7caf6_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Mein Fazit ist also auf jeden Fall positiv. Für mich ist der Schaum eine
 willkommene Abwechslung zu meinem Salzwasserspray, das die Haare ja auf Dauer
@@ -122,7 +134,13 @@ weltberühmten [Longdrink](/2018/06/tom-yum-mule/). Doch ich schweife ab.
 Das Zitronenduschgel duftet sommerlich und anregend. Die natürlichen
 Zitrusaromen überfordern die Nase nicht und wirken auf keinen Fall zu fruchtig.
 
-![veganer Schaumfestiger](http://cardamonchai.com/wp-content/uploads/2018/08/28884414977_24929262e6_z-1-400x300.jpg)
+<RemoteImage
+  alt="veganer Schaumfestiger"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28884414977_24929262e6_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28884414977_24929262e6_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 <small> \_\_<sub>
 
@@ -133,7 +151,13 @@ verwendet habe und sehr gerne mochte.
 Vielleicht würden manche das Duschgel eher abends nach dem Sport verwenden und
 die Zitronenvariante morgens vor dem Frühstück.
 
-![veganer Schaumfestiger](http://cardamonchai.com/wp-content/uploads/2018/08/43772542812_72f23f49ef_z-1-400x300.jpg)
+<RemoteImage
+  alt="veganer Schaumfestiger"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43772542812_72f23f49ef_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43772542812_72f23f49ef_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 ## Newcomer aus der Tube
 
@@ -152,7 +176,13 @@ Haarspray und -Festiger in Glasflaschen zu verpacken.
 
 ## Was bringt die Zukunft?
 
-![veganer Schaumfestiger](http://cardamonchai.com/wp-content/uploads/2018/08/42917272255_56ab253d51_z-1-400x300.jpg)
+<RemoteImage
+  alt="veganer Schaumfestiger"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42917272255_56ab253d51_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42917272255_56ab253d51_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Was ich außerdem auf jeden Fall kaufen würde, sind feste Duschgele oder Seifen
 in den beiden tollen Duftrichtungen. Mal sehen, was die Zukunft noch so bringt!

@@ -41,7 +41,13 @@ subTitle: Queens Of The Stone Age schon auf dem Weg!
 ist der Tag der guten Nachrichten. Die Vorfreude steigt langsam aber sicher ins
 Unermessliche.
 
-![Schlange vor der Philipshalle in Düsseldorf Nine Inch Nails Wave Goodbye Tour 29.06.2009](http://cardamonchai.files.wordpress.com/2013/05/32228_124040054284799_3542655_n.jpg?w=300 "Schlange vor der Philipshalle in Düsseldorf Nine Inch Nails Wave Goodbye Tour 29.06.2009")
+<RemoteImage
+  alt="Schlange vor der Philipshalle in Düsseldorf Nine Inch Nails Wave Goodbye Tour 29.06.2009"
+  size="medium"
+  title="Schlange vor der Philipshalle in Düsseldorf Nine Inch Nails Wave Goodbye Tour 29.06.2009"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/32228_124040054284799_3542655_n.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/32228_124040054284799_3542655_n.jpg?w=300"
+  loadingUrl="undefined" />
 
 Ich freue mich wie verrückt! Vor allem über Nachricht No. 1! Trent Reznor
 kündigte heute an, dass es schon sehr bald eine neue Nine Inch Nails Platte
@@ -79,21 +85,45 @@ geahnt, dass es irgendwann weitergehen würde.
 Natürlich musste ich die gute Nachricht heute gleich mal über alle Kanäle
 teilen. Hier eine kleine Bildergeschichte für Euch:
 
-![Mein Bruder wusste zuerst Bescheid | full](http://cardamonchai.files.wordpress.com/2013/05/1-mail.png)
+<RemoteImage
+  alt="Mein Bruder wusste zuerst Bescheid"
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/1-mail.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/1-mail.png"
+  loadingUrl="undefined" />
 
 ## Mein Bruder wusste zuerst Bescheid## Auch das musste ich natürlich sofort [mit Euch teilen](https://twitter.com/Anne_Reko).
 
-![Auch das musste ich natürlich sofort mit Euch teilen. | full](http://cardamonchai.files.wordpress.com/2013/05/teilen.png "Auch das musste ich natürlich sofort  [mit Euch teilen](https://twitter.com/Anne_Reko).")
+<RemoteImage
+  alt="Auch das musste ich natürlich sofort mit Euch teilen."
+  size="full"
+  title="Auch das musste ich natürlich sofort  [mit Euch teilen](https://twitter.com/Anne_Reko)."
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/teilen.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/teilen.png"
+  loadingUrl="undefined" />
 
 ### Hier nochmal die komplette, offizielle Meldung, die Trend Reznor heute veröffentlichte:> “I’ve been less than honest about what I’ve really been up to lately. For the last year I’ve been secretly working non-stop with Atticus Ross and Alan Moulder on a new, full-length Nine Inch Nails record, which I am happy to say is finished and frankly fucking great. This is the real impetus and motivation behind the decision to assemble a new band and [tour](http://tour.nin.com/) again. My forays into [film](http://nullco.net/), [HTDA](http://howtodestroyangels.com/) and other projects really stimulated me creatively and I decided to focus that energy on taking Nine Inch Nails to a new place. Here we go!”
 
-![Jetzt schlägt es 2013 auf NIN.com | full](http://cardamonchai.files.wordpress.com/2013/05/nin.png "Jetzt schlägt es 2013 auf NIN.com")
+<RemoteImage
+  alt="Jetzt schlägt es 2013 auf NIN.com"
+  size="full"
+  title="Jetzt schlägt es 2013 auf NIN.com"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/nin.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/nin.png"
+  loadingUrl="undefined" />
 
 Nun zu Nachricht No. 2, auch hier habe ich ein Bild für Euch. Seht selbst, was
 heute schon beim Schallplattenhändler meines Vertrauens aus dem Karton
 geklettert ist:
 
-![Frisch gepresst und schon wieder verpackt | full](http://cardamonchai.files.wordpress.com/2013/05/425240_560691403982004_20891008_n.jpg "Frisch gepresst und schon wieder verpackt")
+<RemoteImage
+  alt="Frisch gepresst und schon wieder verpackt"
+  size="full"
+  title="Frisch gepresst und schon wieder verpackt"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/425240_560691403982004_20891008_n.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/425240_560691403982004_20891008_n.jpg"
+  loadingUrl="undefined" />
 
 Eine von diesen kleinen schönen Vinylwundern ist übrigens schon wieder (zusammen
 mit einigen anderen tollen Platten) verpackt und derzeit unterwegs zu mir. Der

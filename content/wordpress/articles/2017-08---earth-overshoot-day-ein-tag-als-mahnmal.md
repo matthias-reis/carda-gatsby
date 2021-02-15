@@ -35,7 +35,13 @@ subTitle: Wir beuten unsere Erde aus
   
 ---
 
-![Earth Overshoot Day](http://cardamonchai.com/wp-content/uploads/2017/08/EOD_GRADIENT_LOGO-640x136.png)
+<RemoteImage
+  alt="Earth Overshoot Day"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_EOD_GRADIENT_LOGO.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_EOD_GRADIENT_LOGO.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Die Menschheit lebt, als hätte sie 1,7 Erden zur Verfügung. Am heutigen Earth
 Overshoot Day überschreitet die globale Nachfrage nach Ressourcen die
@@ -70,7 +76,13 @@ würden. Mit Australien als "Verwalter" bräuchten wir ganze 5,2 Erden. Mit den
 USA 5,0 und mit Südkorea 3,4. Russland und Deutschland folgen mit 3,4 und 3,2.
 Mit Großbritannien wären es 3,0.
 
-![Earth Overshoot Day | large](http://cardamonchai.com/wp-content/uploads/2017/08/How_many_earths_2017_german-800x1313.jpg)
+<RemoteImage
+  alt="Earth Overshoot Day"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_How_many_earths_2017_german__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_How_many_earths_2017_german__l.jpg"
+  loadingUrl="undefined" />
 
 Es ist also besonders wichtig, dass die großen Industrienationen anfangen, sich
 mit der Thematik auseinanderzusetzen und drastische Veränderungen einleiten.
@@ -129,13 +141,25 @@ Denken geben:
 
 > ## 1 kg Rindfleisch erzeugt so viel Treibhausgas, wie 1.600 km Fahren auf der Autobahn
 
-![Klimaschutz | large](http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg)
+<RemoteImage
+  alt="Klimaschutz"
+  size="large"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/02/schaubild-1-800x454-800x454.jpg"
+  loadingUrl="undefined" />
 
 Wichtig ist vor allem, dass wir bewusst leben, nicht alles als gegeben hinnehmen
 und die Entscheidungen unserer gewählten Vertreter kritisch hinterfragen.
 Veränderungen sind dringend notwendig und das am besten gestern.
 
-![Earth Overshoot Day | large](http://cardamonchai.com/wp-content/uploads/2017/08/Food-Infographic-EN-medium-800x2021.jpg)
+<RemoteImage
+  alt="Earth Overshoot Day"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Food-Infographic-EN-medium__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Food-Infographic-EN-medium__l.jpg"
+  loadingUrl="undefined" />
 
 ## Kann ich meinen persönlichen Overshoot berechnen?
 

@@ -42,7 +42,13 @@ Höchste Zeit, Euch endlich meine Schnappschüsse vom diesjährigen
 Southside-Festival zu präsentieren. Es sei nur soviel gesagt: Wir hatten dieses
 Jahr extremes Glück mit dem Wetter!
 
-![Southside](http://cardamonchai.com/wp-content/uploads/2013/07/foto-640x640.jpg "Eulenaugenbändchen")
+<RemoteImage
+  alt="Southside"
+  size="medium"
+  title="Eulenaugenbändchen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_foto__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_07_foto__l.jpg"
+  loadingUrl="undefined" />
 
 Ein kleines Highlight für Hoochi und mich: Wie wir es uns gewünscht hatten gab
 es passend zur neuen Southside-Hompage in diesem Jahr lila Bändchen mit

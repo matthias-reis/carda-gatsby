@@ -30,7 +30,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (89:105)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (114:0)"
 thumbnailId: "19805"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40377842352_2678c05c4c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40377842352_2678c05c4c_z__l.jpg
@@ -39,7 +39,7 @@ subTitle: Vegane Schokolade aus Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;li> (89:105)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (114:0)
 
 <!--
 _Werbung\*_
@@ -49,7 +49,13 @@ Bio-Fairtrade-Schokolade her. Choclate - Die Schreibweise ergab sich so: Das C
 und das L in der Mitte sind ihre Initialen und auch sonst alles sehr stimmig bei
 der kleinen Schokoladenmanufaktur.**
 
-![Vegane Schokolade](http://cardamonchai.com/wp-content/uploads/2018/02/40421760931_81ea6a2242_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Schokolade"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40421760931_81ea6a2242_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40421760931_81ea6a2242_z__l.jpg"
+  loadingUrl="undefined" />
 
 Kennengelernt habe ich Christina und ihre Schokolade hier in Hamburg Altona auf
 der Marktzeit in der Fabrik. Das ist ein Markt, der jeden Samstag stattfindet.
@@ -64,7 +70,13 @@ Rosinen und Nüssen.
 
 ## Jede Schokoladentafel ist ein Unikat
 
-![Vegane Schokolade](http://cardamonchai.com/wp-content/uploads/2018/02/39711164394_9f48286f2a_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Schokolade"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39711164394_9f48286f2a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39711164394_9f48286f2a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Was mir als Erstes aufgefallen ist: Alles ist sehr liebevoll und von Hand
 verpackt und jede Schokoladentafel hat je nach Geschmacksrichtung und Topping
@@ -84,7 +96,13 @@ zu süß.
 
 ## "Kirsch Chili" ist richtig schön scharf
 
-![Vegane Schokolade](http://cardamonchai.com/wp-content/uploads/2018/02/40421752661_79c4fdded5_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Schokolade"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40421752661_79c4fdded5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40421752661_79c4fdded5_z__l.jpg"
+  loadingUrl="undefined" />
 
 "Kirsch Chili" ist nicht nur etwas scharf , sondern so richtig. Also voll nach
 meinem Geschmack. Das kommt daher, dass das Aroma der Chilifäden zusätzlich von
@@ -121,7 +139,13 @@ Milchpulver oder künstliche Aromen wird komplett verzichtet.
 
 ## Fairtrade-Schokolade aus Bali
 
-![Vegane Schokolade](http://cardamonchai.com/wp-content/uploads/2018/02/39525945325_52b0284ca4_z-300x200.jpg)
+<RemoteImage
+  alt="Vegane Schokolade"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525945325_52b0284ca4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525945325_52b0284ca4_z__l.jpg"
+  loadingUrl="undefined" />
 
 Zum Einsatz kommt ausschließlich Bio-Fairtrade-Schokolade von den Big Tree Farms
 aus [Bali](/?s=bali). Die Kakaobäume wachsen dort in ihrer natürlichen Umgebung

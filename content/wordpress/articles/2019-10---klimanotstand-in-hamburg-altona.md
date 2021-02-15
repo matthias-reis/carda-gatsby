@@ -63,7 +63,13 @@ Klimaneutralität erreicht haben.
 
 ## Bäume dürfen nicht mehr einfach gefällt werden
 
-![klimanotstand](http://cardamonchai.com/wp-content/uploads/2019/10/Design-ohne-Titel-2-400x300.png "Bald soll es bei uns neue Grünflächen geben.")
+<RemoteImage
+  alt="klimanotstand"
+  size="medium"
+  title="Bald soll es bei uns neue Grünflächen geben."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel-2.png__l.jpg"
+  loadingUrl="undefined" />
 
 Beschlossen werden soll unter anderem der Erhalt und Ausbau der Parkanlagen. Das
 Fällen von Bäumen soll nur noch bei eindeutiger Gefahr der Verkehrssicherheit
@@ -114,7 +120,13 @@ Fitnessstudio sparen.
 
 ## Das alltägliche Verkehrschaos
 
-![klimanotstand](http://cardamonchai.com/wp-content/uploads/2019/10/Design-ohne-Titel-1-400x300.png "In Altona bröckelt das Ufer.")
+<RemoteImage
+  alt="klimanotstand"
+  size="medium"
+  title="In Altona bröckelt das Ufer."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_Design-ohne-Titel-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Ich habe keine Lust mehr, dass in den 100 Metern Fußgängerzone, die wir hier in
 Altona vor Kurzem (zum Glück - ein Anfang) bekommen haben, jedes Mal doch wieder

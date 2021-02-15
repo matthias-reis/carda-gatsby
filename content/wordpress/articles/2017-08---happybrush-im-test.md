@@ -50,7 +50,13 @@ Testberichte auch jedes Mal fleißig lest und weitergebt, möchte ich auch diese
 Test mit Euch teilen. Auf dem Prüfstand stand dieses Mal die Schallzahnbürste
 samt Zahncreme aus dem Hause Happybrush.**
 
-![happybrush](http://cardamonchai.com/wp-content/uploads/2017/08/36258950832_fce116d5ce_z-300x450.jpg)
+<RemoteImage
+  alt="happybrush"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36258950832_fce116d5ce_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36258950832_fce116d5ce_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Leute von Happybrush versprechen auf ihrer Homepage effektive Reinigung
 durch moderne Schall-Technologie und effektive Vibrationen. Einen fairen Preis
@@ -97,7 +103,13 @@ der Zahnpasta habe ich das Gefühl "es tut sich was". Demnächst steht ein
 Zahnarztbesuch an, ich bin mal gespannt, was mir zum Zustand meiner Zähne gesagt
 wird.
 
-![happybrush](http://cardamonchai.com/wp-content/uploads/2017/08/vegan-300x240.png)
+<RemoteImage
+  alt="happybrush"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_vegan.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_vegan.png__l.jpg"
+  loadingUrl="undefined" />
 
 Die Zahnpasta gefällt mir vom Geschmack her sehr gut. Sie schmeckt nicht
 künstlich oder süß, aber auch nicht salzig, wie viele natürliche Zahncremes. Der
@@ -140,7 +152,13 @@ bei. Der Mindestbestellwert ist 40 Euro. Der Gutschein ist gültig bis zum
 30.09.2017. Wer mir als erstes einen Kommentar hier im Blog hinterlässt, dass er
 ihn gerne haben möchte, staubt ihn ab.
 
-![](https://www.adcell.de/promotion/view/promoId/169537/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/169537/slotId/80259"
+  loadingUrl="undefined" />
 
 Zur Homepage von Happybrush geht es
 [hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F)

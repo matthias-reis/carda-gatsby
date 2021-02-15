@@ -37,7 +37,13 @@ subTitle: "Teil III: Die Vorfreude"
   
 ---
 
-![Oskar fragt sich, was los ist](https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Oskar fragt sich, was los ist")
+<RemoteImage
+  alt="Oskar fragt sich, was los ist"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Oskar fragt sich, was los ist"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/16427078811_31c1a4b20c_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 **So formulierte es einst Aristoteles. (
 [_Hier gehts zum zweiten Teil des Artikels_](/2014/08/21/wie-picasso-nur-mit-strom/)
@@ -66,7 +72,13 @@ nicht ganz sicher, dass das unser letzter Besuch dort war.
 
 ### Auch die Stubentiger kommen mit
 
-![Chili schläft gerne im Auto](https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/)  Chili schläft gerne im Auto")
+<RemoteImage
+  alt="Chili schläft gerne im Auto"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Chili schläft gerne im Auto"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/16304443177_47613ca2b5_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Natürlich kommen auch unsere beiden Stubentiger mit, die gewöhnen sich gerade
 schon an einen großen, bequemen Hundekorb, der bei uns im Wohnzimmer zum festen
@@ -84,7 +96,13 @@ neuem Glanz.
 
 ### Die Tätowierung ist endlich fertig [Einen kleinen Vorgeschmack](/2014/05/20/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/) hatte ich Euch ja letztes Jahr schon gegeben, der Herzmann hat mit seinen Programmier- und Designkünsten wahre Wunder bewirkt und eine ganz tolle, neue Seite ist entstanden, schon bald wird sie unter [cardamonchai.com](http://www.cardamonchai.com) zu erreichen sein. Ich bin selbst schon ganz aufgeregt und kann es kaum noch erwarten.
 
-![Das Tattoo ist endlich vollständig](https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225 "[ ](https://www.flickr.com/photos/99929697@N07/)  Das Tattoo ist endlich vollständig")
+<RemoteImage
+  alt="Das Tattoo ist endlich vollständig"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Tattoo ist endlich vollständig"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225"
+  largeUrl="https://cardamonchai.files.wordpress.com/2015/02/10959249_906589656029831_7547401194000002658_o.jpg?w=225"
+  loadingUrl="undefined" />
 
 Inzwischen ist die ursprünglich geplante Designvorlage, mein **Tattoo** auch
 fertig, [Mat](http://instagram.com/matstache) hat es letzte Woche noch mit einem

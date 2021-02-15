@@ -51,7 +51,13 @@ Fäustchen. Miese Karmapunkte für den Musikräuber.
 Minidiscs aufgenommen worden waren. Das schrieb Gitarrist Jonny Greenwood auf
 Twitter.
 
-![radiohead | full](http://cardamonchai.com/wp-content/uploads/2019/06/Bildschirmfoto-2019-06-17-um-10.19.50.png)
+<RemoteImage
+  alt="radiohead"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Bildschirmfoto-2019-06-17-um-10.19.50.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Bildschirmfoto-2019-06-17-um-10.19.50.png__l.jpg"
+  loadingUrl="undefined" />
 
 Anstatt zu zahlen, veröffentlichten Radiohead die Aufnahmen online.
 
@@ -65,7 +71,13 @@ Herunterladen und sein Eigen nennen kann man sie dann für den genannten Betrag.
 
 ## Was steckt drin?
 
-![radiohead](http://cardamonchai.com/wp-content/uploads/2019/06/radiohead-minidiscs-400x400.jpg)
+<RemoteImage
+  alt="radiohead"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_radiohead-minidiscs__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_radiohead-minidiscs__l.jpg"
+  loadingUrl="undefined" />
 
 Mit dabei sind unter anderem frühe Aufnahmen der Songs "Airbag", "The Tourist",
 "Paranoid Android" "Palo Alto" und "Let Down". Interessant sind die Aufnahmen

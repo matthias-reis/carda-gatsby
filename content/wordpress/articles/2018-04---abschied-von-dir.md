@@ -43,7 +43,13 @@ Tanz noch einmal. Schließe Deine Augen.
 
 Die Sonne färbt den Himmel. In der Stille.
 
-![Abschied](http://cardamonchai.com/wp-content/uploads/2018/04/Wolfgang-400x267.jpg)
+<RemoteImage
+  alt="Abschied"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Wolfgang__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Wolfgang__l.jpg"
+  loadingUrl="undefined" />
 
 Goldenes Sonnenlicht. Schatten und Licht gehören zusammen.
 

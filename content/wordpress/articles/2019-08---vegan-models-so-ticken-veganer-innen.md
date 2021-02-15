@@ -26,7 +26,8 @@ date: 2019-08-27T09:15:13.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (87:14)"
 thumbnailId: "25796"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models-2__l.jpg
@@ -35,6 +36,9 @@ subTitle: Fotograf Tobias Hess im Interview
   
 ---
 
+## unknown: Unexpected token (87:14)
+
+<!--
 **Auf der Suche nach dem tieferen Sinn hängte Tobias Hess seinen Bürojob an den
 Nagel und beschloss, sich auf ein Abenteuer einzulassen: die Fotografie.**
 
@@ -50,7 +54,13 @@ Dazu gehört auch, dass sich die beiden vegan ernähren.
 
 ## Fotosession in der Sternschanze
 
-![tobias-hess-photography-vegan-models](http://cardamonchai.com/wp-content/uploads/2019/08/tobias-hess-photography-vegan-models-400x535.jpg "Tobi in Aktion")
+<RemoteImage
+  alt="tobias-hess-photography-vegan-models"
+  size="medium"
+  title="Tobi in Aktion"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models__l.jpg"
+  loadingUrl="undefined" />
 
 Vor Kurzem hat er mit "Vegan Models" ein neues Projekt aus der Taufe gehoben. In
 dieser Serie stellt er regelmäßig Veganer\*innen in den sozialen Netzwerken und
@@ -80,7 +90,13 @@ ist denn Deine Resonanz bisher?
 
 ## "Vegan Models" findet gute Resonanz
 
-![vegan-models](http://cardamonchai.com/wp-content/uploads/2019/08/vegan-models-3-400x267.jpg "Foto: Tobias Hess Ort: Altes Mädchen, Sternschanze Hamburg")
+<RemoteImage
+  alt="vegan-models"
+  size="medium"
+  title="Foto: Tobias Hess Ort: Altes Mädchen, Sternschanze Hamburg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-3__l.jpg"
+  loadingUrl="undefined" />
 
 **Tobi:** Genau, es war ein toller Auftakt mit Dir. Ich würde diese Bildserie
 gerne auch in eine Zeitschrift oder in ein größeres Online-Magazin bringen,
@@ -126,7 +142,11 @@ die Du Dich immer wieder erinnerst?
 
 ## Sonnenuntergang auf der Hallig Hoge
 
-![vegan-models](http://cardamonchai.com/wp-content/uploads/2019/08/vegan-models-1-400x270.jpg 'Foto: Tobias Hess Ort: "Altes Mädchen", Sternschanze Hamburg')
+<RemoteImage alt="vegan-models" size="medium" title="Foto: Tobias Hess Ort:
+"Altes Mädchen", Sternschanze Hamburg"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-1__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-1__l.jpg"
+loadingUrl="undefined" />
 
 **Tobi:** Es gibt sehr viele schöne Momente, vor allem aus der
 Landschaftsfotografie. Dabei ist man oft ganz allein und mit der Natur
@@ -168,7 +188,13 @@ wertvoll für die Aufklärung.
 **Anne:** Gibt es neben der Tatsache, dass Du vegan lebst, noch etwas, das Du
 bewusst tust, um Dein Leben möglichst nachhaltig zu gestalten?
 
-![vegan-models](http://cardamonchai.com/wp-content/uploads/2019/08/vegan-models-2-400x242.jpg "Foto: Tobias Hess Ort: Altes Mädchen, Sternschanze Hamburg")
+<RemoteImage
+  alt="vegan-models"
+  size="medium"
+  title="Foto: Tobias Hess Ort: Altes Mädchen, Sternschanze Hamburg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Tobi** : Absolut, irgendwie geht das meist Hand in Hand. Ich versuche so weit
 es geht auf Plastik zu verzichten und gemeinsam mit meiner Freundin einiges im
@@ -214,5 +240,7 @@ den sympathischen Fotografen jederzeit
 [auf seiner Homepage besuchen](https://tobiashess-photography.com/).
 
 <iframe src="https://www.youtube.com/embed/ATDEtzAcTg0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+-->
 
   

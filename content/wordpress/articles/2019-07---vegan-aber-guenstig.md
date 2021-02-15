@@ -31,7 +31,8 @@ date: 2019-07-19T10:32:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (25:42)"
 thumbnailId: "25335"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-1__l.jpg
@@ -40,6 +41,9 @@ subTitle: Spartipps und Kochbuch von Patrick Bolk
   
 ---
 
+## unknown: Unexpected token (25:42)
+
+<!--
 _Affiliate Links\*_
 
 **Heute möchte ich Euch zwei ganz besondere Bücher des veganen Autoren Patrick
@@ -62,7 +66,11 @@ auch ohne viel Geld.
 
 ## Patrick Bolk beweist, das vegan auch günstig geht
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-2-400x300.jpg '[ ](https://amzn.to/2YgeOkd)  "Vegan, aber guenstig - spar Dir das Tier"')
+<RemoteImage alt="vegan-aber-guenstig" size="medium"
+title="[ ](https://amzn.to/2YgeOkd) "Vegan, aber guenstig - spar Dir das Tier""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-2__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-2__l.jpg"
+loadingUrl="undefined" />
 
 Ganz ehrlich, seid Ihr auch so genervt von dem Satz "Es schmeckt ja wirklich
 gut, aber auf Dauer wäre mir veganes Essen zu teuer?" - ich schicke in Zukunft
@@ -116,7 +124,11 @@ wirklich war: Reis, Linsen, Bohnen, Couscous und Kichererbsen machen glücklich!
 
 ## "Vegan, aber günstig - das Kochbuch"
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-400x300.jpg '[ ](https://amzn.to/2O0v44W)  "Vegan, aber guenstig - das Kochbuch"')
+<RemoteImage alt="vegan-aber-guenstig" size="medium"
+title="[ ](https://amzn.to/2O0v44W) "Vegan, aber guenstig - das Kochbuch""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk__l.jpg"
+loadingUrl="undefined" />
 
 "Tolle Basisrezepte, die jede\*n glücklich machen und noch mehr" - so könnte die
 Kurzbeschreibung von Patrick Bolks Kochbuch lauten. Von Zaziki über Béchamelsoße
@@ -159,7 +171,13 @@ Patrick von Beruf nicht nur Texter, sondern auch noch Grafiker ist.
 
 ## "Vegan, aber günstig" - tolle Bücher!
 
-![vegan-aber-guenstig](http://cardamonchai.com/wp-content/uploads/2019/07/2019-07-16-vegan-aber-guenstig-patrick-bolk-3-400x300.jpg "[ ](https://amzn.to/2YgeOkd)  Vegane Spartipps für alle!")
+<RemoteImage
+  alt="vegan-aber-guenstig"
+  size="medium"
+  title="[ ](https://amzn.to/2YgeOkd)  Vegane Spartipps für alle!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-3__l.jpg"
+  loadingUrl="undefined" />
 
 Drei Dinge hat Patrick Bolk auch mit dem Kochbuch klar belegt: Veganes Essen
 muss weder fade noch teuer sein und es muss in den seltensten Fällen ein
@@ -179,5 +197,7 @@ hier.
 _\*Hinweis: Dieser Beitrag enthält Affiliate Links. Der Inhalt und meine Meinung
 wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem
 Blog findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+-->
 
   

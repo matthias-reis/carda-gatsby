@@ -28,7 +28,8 @@ date: 2015-07-23T14:38:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (126:49)"
 thumbnailId: "12056"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__l.jpg
@@ -37,7 +38,16 @@ subTitle: '"Es war ein langer Reifungsprozess!"'
   
 ---
 
-![Die vegane Ärztin Dr. Barbara Gorißen](http://cardamonchai.com/wp-content/uploads/2015/07/1506152-640x857.jpg "Die vegane Ärztin Dr. Barbara Gorißen")
+## unknown: Unexpected token (126:49)
+
+<!--
+<RemoteImage
+  alt="Die vegane Ärztin Dr. Barbara Gorißen"
+  size="medium"
+  title="Die vegane Ärztin Dr. Barbara Gorißen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__l.jpg"
+  loadingUrl="undefined" />
 
 > "Die Welt hat genug für jedermanns Bedürfnisse, aber nicht für jedermanns
 > Gier." - Mahatma Gandhi **Vor Kurzem habe ich über ein soziales Netzwerk die
@@ -86,7 +96,13 @@ Neuanfang gemacht.
 
 ## Ich war sicher kein bequemes Kind **Anne:** War Tierschutz schon früh ein Thema bei Ihnen?
 
-![14648550848_6a282363ee_o](http://cardamonchai.com/wp-content/uploads/2015/07/14648550848_6a282363ee_o-640x640.jpg)
+<RemoteImage
+  alt="14648550848_6a282363ee_o"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_14648550848_6a282363ee_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_14648550848_6a282363ee_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Dr. Gorißen:** Ich bin mit Tieren aufgewachsen und habe als Kind die Hühner
 meiner Eltern gezähmt und herumgetragen. Ich kann mich noch gut daran erinnern,
@@ -137,7 +153,13 @@ ein spezielles Vorbild, ihren Veganismus betreffend?
 
 ## Damals gab es das Wort „vegan“ noch gar nicht **Dr. Gorißen:** Ein prägendes Erlebnis, oder einen direkten Auslöser gab es nicht, es war wie gesagt ein jahrelanger Reifungsprozess.
 
-![15078674510_9072b3c5ee_z](http://cardamonchai.com/wp-content/uploads/2015/07/15078674510_9072b3c5ee_z.jpg)
+<RemoteImage
+  alt="15078674510_9072b3c5ee_z"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_15078674510_9072b3c5ee_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_15078674510_9072b3c5ee_z__l.jpg"
+  loadingUrl="undefined" />
 
 Was die Vorbilder betrifft: Den ersten Anstoß gab mir mir allerdings ein Veganer
 in meinem Sportverein Anfang der 90er Jahre. Damals gab es das Wort „vegan“ noch
@@ -165,7 +187,11 @@ ethische Aspekt. Wann wurde der gesundheitliche Gesichtspunkt interessant?
 
 **Anne:** Empfehlen sie ihren Patienten, sich vegan zu ernähren?
 
-![Tabletten? Oder einfach "nur" gesunde Ernährung?](http://cardamonchai.com/wp-content/uploads/2015/07/4746653392_cd0676b04a_z-640x640.jpg 'Tabletten? Oder einfach "nur" gesunde Ernährung?')
+<RemoteImage alt="Tabletten? Oder einfach &quot;nur&quot; gesunde Ernährung?"
+size="medium" title="Tabletten? Oder einfach "nur" gesunde Ernährung?"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_4746653392_cd0676b04a_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_4746653392_cd0676b04a_z__l.jpg"
+loadingUrl="undefined" />
 
 **Dr. Gorißen:** Aber sicher! Nur leider wollen die wenigsten etwas davon hören.
 Leider ist die typische Mentalität der Menschen häufig die Bequemlichkeit. Zum
@@ -235,7 +261,13 @@ Planeten vernünftig umzugehen.
 
 ## Die Menschheit muss umdenken **Anne:** Würden sie sagen, dass eine rein pflanzliche Ernährung die gesündeste für den Menschen ist?
 
-![Veganismus und Medizin](http://cardamonchai.com/wp-content/uploads/2015/07/3846819118_41b624fc0b_z.jpg)
+<RemoteImage
+  alt="Veganismus und Medizin"
+  size="medium"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2015/07/3846819118_41b624fc0b_z.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2015/07/3846819118_41b624fc0b_z.jpg"
+  loadingUrl="undefined" />
 
 **Dr. Gorißen:** Sie ist meiner Meinung nach nicht nur gesund und empfehlenswert
 für den Menschen, sondern vor allem auch für die Menschheit als Ganzes. Mehr
@@ -297,7 +329,13 @@ meine Ernährung der Grund dafür ist, dass ich heute kerngesund bin und keinerl
 Tabletten benötige. Wer schon prophylaktisch Vitamin B12 zu sich nehmen möchte,
 ohne seinen Spiegel zu kennen: Darin sehe ich kein Problem.
 
-![Nahrungsergänzungsmittel ja oder nein?](http://cardamonchai.com/wp-content/uploads/2015/07/Vitamine-640x427.jpg)
+<RemoteImage
+  alt="Nahrungsergänzungsmittel ja oder nein?"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__l.jpg"
+  loadingUrl="undefined" />
 
 ## Ich bin kein Freund von Nahrungsergänzungsmitteln **Anne:** Gibt es (weitere) Vitamine/Nährstoffe, die man dem Körper über Nahrungsergänzungsmittel zuführen sollte? Oder holt er sich bei einer gesunden, ausgewogenen Ernährung immer das, was er braucht?
 
@@ -385,5 +423,7 @@ Kontakt treten möchte, der findet sie auf ihrer
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 Merken
+
+-->
 
   

@@ -54,7 +54,13 @@ seither ganz schön viel erlebt. In jede Richtung. Die Produkttests sind erst in
 den letzten paar Jahren hinzugekommen und das vor allem, weil ich selbst die
 Werbetrommel gerührt habe und den Firmen mitgeteilt habe, dass es mich gibt.
 
-![Bloggen](http://cardamonchai.com/wp-content/uploads/2018/05/41782943651_bf6dabf29e_z-400x288.jpg)
+<RemoteImage
+  alt="Bloggen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41782943651_bf6dabf29e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41782943651_bf6dabf29e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Man bekommt nämlich nicht einfach so irgendwelche Sachen zugeschickt (Was sicher
 auf Dauer auch ganz schön anstrengend wäre, so ganz ohne Vorwarnung?).
@@ -91,7 +97,13 @@ sein…“ fällt?
 
 ## "Dich kennt ja bestimmt jeder!"
 
-![Bloggen](http://cardamonchai.com/wp-content/uploads/2018/05/Matthias-5-von-6-400x600.jpg)
+<RemoteImage
+  alt="Bloggen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-5-von-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-5-von-6__l.jpg"
+  loadingUrl="undefined" />
 
 Auch der zweite von mir erwähnte Satz trifft ziemlich genau daneben. Arbeitet
 man Vollzeit und bloggt nebenbei, bleibt nicht viel Zeit, Leute kennenzulernen,
@@ -120,7 +132,13 @@ nicht wieder abgebrokelt kriegst.
 
 ## Feedback gibt es nicht
 
-![Bloggen](http://cardamonchai.com/wp-content/uploads/2018/05/Matthias-2-von-6-400x600.jpg)
+<RemoteImage
+  alt="Bloggen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-2-von-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-2-von-6__l.jpg"
+  loadingUrl="undefined" />
 
 Feedback bekommst Du in der Regel keins. Darauf kannst Du Dich auch schon mal
 vorbereiten. Vielleicht wird Dir Deine Familie sagen, wie toll sie Deine Seite
@@ -138,7 +156,13 @@ wie vor Ihre Hobbys, Kinder und Bücher. Und sie gehen ins Freibad, wenn Du noch
 schnell den Artikel fertig schreibst, den Du dem Duschgelhersteller für Samstag
 versprochen hattest.
 
-![Blogger | full](http://cardamonchai.com/wp-content/uploads/2018/05/Tweet.png)
+<RemoteImage
+  alt="Blogger"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Tweet.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Tweet.png__l.jpg"
+  loadingUrl="undefined" />
 
 Willst du jetzt immer noch Blogger werden? Falls Dich das alles noch nicht
 abgeschreckt hat, habe ich noch ein paar weitere Ausführungen für Dich. Zum 25.
@@ -150,7 +174,13 @@ denen man sich richten kann.
 
 ## Bloggen und Datenschutz
 
-![Bloggen](http://cardamonchai.com/wp-content/uploads/2018/05/Matthias-4-von-6-400x600.jpg)
+<RemoteImage
+  alt="Bloggen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-4-von-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-4-von-6__l.jpg"
+  loadingUrl="undefined" />
 
 Es gibt eben keinen einfachen Generator, in den man oben seine Daten
 reinschmeißt und unten kommt das perfekte, rechtssichere Datenschutzgebilde für
@@ -177,7 +207,13 @@ Du Dich nicht mit den Einstellungen auskennst.
 
 ## Ein Blog kostet auch
 
-![Bloggen](http://cardamonchai.com/wp-content/uploads/2018/05/Matthias-1-von-6-400x600.jpg)
+<RemoteImage
+  alt="Bloggen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-1-von-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-1-von-6__l.jpg"
+  loadingUrl="undefined" />
 
 Es fallen auch Kosten an. Für das Hosting Deiner Seite zum Beispiel, für https
 und für das Speichern größerer Bildersammlungen. Für einen guten Computer, bei
@@ -204,7 +240,13 @@ Programm, auch wenn das gar nicht Dein Ding ist.
 
 ## Ich liebe das Bloggen
 
-![Bloggen](http://cardamonchai.com/wp-content/uploads/2018/05/Matthias-6-von-6-400x600.jpg)
+<RemoteImage
+  alt="Bloggen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-6-von-6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-6-von-6__l.jpg"
+  loadingUrl="undefined" />
 
 Trotz alledem liebe ich das Bloggen. Ich kann es aus meinem Leben nicht mehr
 wegdenken und möchte es um keinen Preis aufgeben oder missen. Klar habe ich auch

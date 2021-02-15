@@ -47,7 +47,13 @@ Als Vorband kam die feministische Post-Hardcore Band Petrol Girls auf die Bühne
 Die Musiker\*innen aus Graz und Bristol brachten von Anfang an eine Energie mit,
 die man selten erlebt.
 
-![2019-11-05-refused-thrice-petrol-girls](http://cardamonchai.com/wp-content/uploads/2019/11/2019-11-05-refused-thrice-petrol-girls-400x533.jpg)
+<RemoteImage
+  alt="2019-11-05-refused-thrice-petrol-girls"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls__l.jpg"
+  loadingUrl="undefined" />
 
 Sängerin Ren Aldrige hatte bei mir sofort einen Stein im Brett. Ihre Mischung
 aus harten Shouts und klarem Gesang trafen bei mir einen Nerv. Zwischen den sehr

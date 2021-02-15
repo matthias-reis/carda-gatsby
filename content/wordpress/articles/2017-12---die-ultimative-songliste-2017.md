@@ -110,7 +110,13 @@ Die Church of Ra ist eine sehr musikalische. Bewiesen wird das auf diesem Album.
 ### And So I Watch You From Afar - "Three Triangles" vom Album The Endless Shimmering
 Als Fan der ersten Stunde bekam ich glänzende Augen, als ich vom neuen Album erfuhr. Schwelgen konnte ich darin ausgiebig auf dem diesjährigen  [Dunk Festival](/2017/06/dunk-festival-2017-eindruecke-und-bilder/).  Ich genieße es nach wie vor regelmäßig
 
-![songliste-2017](http://cardamonchai.com/wp-content/uploads/2017/12/And-So-I-Watch-You-From-Afar_ENDLESS-300x300.jpg)
+<RemoteImage
+  alt="songliste-2017"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_And-So-I-Watch-You-From-Afar_ENDLESS__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_And-So-I-Watch-You-From-Afar_ENDLESS__l.jpg"
+  loadingUrl="undefined" />
 
 ### Amplifier - "Anubis" vom Album Trippin' With Dr. Faustus
 

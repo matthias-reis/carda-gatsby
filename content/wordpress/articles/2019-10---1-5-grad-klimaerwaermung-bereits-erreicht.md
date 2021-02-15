@@ -128,6 +128,12 @@ bin gespannt auf Eure Kommentare und Nachrichten!
 </li>
 </ul>
 
-![klimawandel-mittelmeer-pin | full](http://cardamonchai.com/wp-content/uploads/2019/10/Wedding-Planner-Blog-2.png)
+<RemoteImage
+  alt="klimawandel-mittelmeer-pin"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_Wedding-Planner-Blog-2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_Wedding-Planner-Blog-2.png__l.jpg"
+  loadingUrl="undefined" />
 
   

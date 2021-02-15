@@ -44,7 +44,13 @@ Meine Mutter bereitet die Linzer Torte mit viel Liebe zu. Vor ein paar Jahren
 hat sie das Familienrezept ein kleines bisschen überarbeitet. Es ist jetzt vegan
 und die Torte noch leckerer als früher.
 
-![linzer-torte-vegan](http://cardamonchai.com/wp-content/uploads/2020/01/2019-12-24-linzer-torte-400x534.jpg)
+<RemoteImage
+  alt="linzer-torte-vegan"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte__l.jpg"
+  loadingUrl="undefined" />
 
 Als ich zwischen den Jahren endlich mal wieder bei meinen Eltern war, habe ich
 nicht nur Fotos von der Linzer Torte gemacht, sondern mir von meiner Mutter auch
@@ -74,7 +80,13 @@ auf einer Reise in diese Gefilde kennen und lieben gelernt.
 
 ## Zubereitung
 
-![linzer-torte-vegan](http://cardamonchai.com/wp-content/uploads/2020/01/2019-12-24-linzer-torte-2-400x534.jpg)
+<RemoteImage
+  alt="linzer-torte-vegan"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-2__l.jpg"
+  loadingUrl="undefined" />
 
 Lasst das Fett in einem Topf langsam zergehen und rührt es, bis es schön
 schaumig ist. Anschließend rührt ihr den Zitronenabrieb und den Zucker unter.

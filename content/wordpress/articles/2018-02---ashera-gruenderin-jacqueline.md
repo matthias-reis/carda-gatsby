@@ -68,7 +68,13 @@ Gelegenheit, mich mit der Gründerin der in Regensburg beheimateten Kosmetikmark
 zu unterhalten. Im Interview mit Jacqueline Heimgärtner habe ich einige sehr
 interessante Details erfahren.**
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/blogbild_foamer-300x169.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_foamer__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_foamer__l.jpg"
+  loadingUrl="undefined" />
 
 Was mich natürlich besonders interessiert hat, waren die Inhaltsstoffe ihrer
 Produkte und wie sie auf die Idee gekommen ist, als Werbefachfrau ein
@@ -100,7 +106,13 @@ wichtig?
 
 ## **Moderne Kosmetik und Traditionelle Chinesische Medizin**
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/inhaltsstoffe_tee_bunter_bg-1-300x169.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_inhaltsstoffe_tee_bunter_bg-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_inhaltsstoffe_tee_bunter_bg-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:**  Mit den Ashéra Produkten verbindest Du moderne Kosmetik mit
 Extrakten, die aus der
@@ -133,7 +145,13 @@ Heilmittel eingesetzt werden **.**
 **Anne:**  Sind alle Produkte von Ashéra vegan? Falls nicht: Kannst Du Dir
 vorstellen, komplett auf vegan zu setzen?
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/blogbild_die_yin_phase-300x169.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_die_yin_phase__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_die_yin_phase__l.jpg"
+  loadingUrl="undefined" />
 
 **Jacqueline:** [YinYangBalance](/2018/01/ashera-yin-yang-balance/) ist komplett
 vegan. Diese ganze Linie, auch wenn weitere Produkte hinzu kommen, wird auch
@@ -164,7 +182,13 @@ und West.
 
 **Anne:**  Was unterscheidet Ashéra von anderen Beauty-Marken?
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/blogbild_die_yang_phase-300x169.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_die_yang_phase__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_die_yang_phase__l.jpg"
+  loadingUrl="undefined" />
 
 **Jacqueline:** Ich war gerade auf einer Beauty Messe und muss leider sagen,
 dass für viele Produkte kein großer Wert auf die Inhaltsstoffe gelegt wird. Bei
@@ -195,7 +219,13 @@ sich dadurch gut trinken.
 
 ## Klangschalen und Zimbeln sind der Sound von Ashéra
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/blogbild_lehre_tcm_02-300x169.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_lehre_tcm_02__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_lehre_tcm_02__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** In meinem Blog geht es unter anderem auch hier und da um
 [Musik](/category/musik/). Das hat damit zu tun, dass Musik ein wichtiger
@@ -228,13 +258,25 @@ gemacht!
 
 **Jacqueline:** Ich danke!
 
-![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
+  loadingUrl="undefined" />
 
 Zum Onlineshop von Ashéra geht es
 [hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
 .
 
-![Ashéra Naturkosmetik](https://www.adcell.de/promotion/image/promoId/172492/slotId/80259)
+<RemoteImage
+  alt="Ashéra Naturkosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/image/promoId/172492/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/image/promoId/172492/slotId/80259"
+  loadingUrl="undefined" />
 
 [](https://www.adcell.de/promotion/click/promoId/172492/slotId/80259)
 

@@ -40,7 +40,13 @@ subTitle: Sonne, Schlamm und gute Laune
   
 ---
 
-![Burg Herzberg Festival 2012](http://cardamonchai.com/wp-content/uploads/2012/08/Herzberg-Flyer-640x897.jpg "Burg Herzberg Festival 2012")
+<RemoteImage
+  alt="Burg Herzberg Festival 2012"
+  size="medium"
+  title="Burg Herzberg Festival 2012"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg"
+  loadingUrl="undefined" />
 
 **Vom 19. - 22. Juli fand in Breitenbach am Herzberg das Burg Herzberg Festival
 statt. Nach vier Stunden Anfahrtszeit und 15 Stunden Anfahrtsstau waren wir auch

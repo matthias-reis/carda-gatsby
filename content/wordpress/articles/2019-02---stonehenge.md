@@ -65,7 +65,13 @@ seht.
 
 ## Erinnerungen an den Frühling in England 2009 - Teil 4/17
 
-![stonehenge](http://cardamonchai.com/wp-content/uploads/2009/05/stonehenge_9495102379_o-400x284.jpg "Stonehenge - Foto: Matze 2012")
+<RemoteImage
+  alt="stonehenge"
+  size="medium"
+  title="Stonehenge - Foto: Matze 2012"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_05_stonehenge_9495102379_o__l.jpg"
+  loadingUrl="undefined" />
 
 Dieser Beitrag wurde ursprünglich am 11. Mai 2009 veröffentlicht. Er ist
 zunächst nur als Bildbeitrag erschienen. Das Titelbild habe ich 2012

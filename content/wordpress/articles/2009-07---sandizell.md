@@ -35,7 +35,13 @@ Mit **Sandizell** verbindet sich der Name eines alten bayerischen
 Adelsgeschlechts, dass sich bis auf das Mittelalter zurückverfolgen lässt und
 dessen Spuren man bis heute nachverfolgen kann.
 
-![Schloss Sandizell](http://cardamonchai.com/wp-content/uploads/2009/07/11531355705_54d0ae0f07_z.jpg)
+<RemoteImage
+  alt="Schloss Sandizell"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531355705_54d0ae0f07_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531355705_54d0ae0f07_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Altbayerischer Uradel in Sandizell \_**\_ Die Herren von Sandizell gehören zum Altbayerischen Uradel. Sie gehören zu den ältesten noch blühenden Ministerialgeschlechtern aus der Zeit der **Grafen von Scheyern\_\_ .
 

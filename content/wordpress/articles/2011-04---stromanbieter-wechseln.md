@@ -110,7 +110,13 @@ meinen Beitrag an RWE oder Vattenfall abzudrücken?
 
 EWS, Lichtblick, naturstrom und **Greenpeace Energy**
 
-![Atomkraft? Nein Danke!](http://cardamonchai.com/wp-content/uploads/2011/04/Atomkraft_Nein_Danke-640x640.png "Atomkraft? Nein Danke!")
+<RemoteImage
+  alt="Atomkraft? Nein Danke!"
+  size="medium"
+  title="Atomkraft? Nein Danke!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_Atomkraft_Nein_Danke.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_Atomkraft_Nein_Danke.png__l.jpg"
+  loadingUrl="undefined" />
 
 Infos dazu sind zu finden unter:
 

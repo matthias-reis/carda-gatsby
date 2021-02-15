@@ -52,7 +52,13 @@ zusammengetragen.
 
 ## Warme Jacken und Mäntel gegen Kälte und Zugluft
 
-![nachhaltige-wintermode](http://cardamonchai.com/wp-content/uploads/2018/11/31415931275_d2404ae657_z-400x499.jpg "In meinem geliebten Wintermantel")
+<RemoteImage
+  alt="nachhaltige-wintermode"
+  size="medium"
+  title="In meinem geliebten Wintermantel"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_31415931275_d2404ae657_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_31415931275_d2404ae657_z__l.jpg"
+  loadingUrl="undefined" />
 
 Friert Ihr auch ständig wie ein Schneider? Dann geht es Euch wie mir. Besonders
 Zugluft kann ich absolut nicht ab. Ich mutiere zu einem echten Frostköttel, wenn
@@ -103,7 +109,13 @@ nicht passieren wird.
 
 ## Schäl' mich, ich bin eine Zwiebel! - Lagenlook
 
-![nachhaltige-wintermode](http://cardamonchai.com/wp-content/uploads/2018/11/33267695745_52dc39f3f7_z-400x533.jpg "Lagenlook für noch nicht ganz so kalte Tage")
+<RemoteImage
+  alt="nachhaltige-wintermode"
+  size="medium"
+  title="Lagenlook für noch nicht ganz so kalte Tage"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_33267695745_52dc39f3f7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_33267695745_52dc39f3f7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Generell neige ich ja zum "Layering". Den Lagen-Look habe ich in den letzten
 Jahren perfektioniert. Gerade in der Zeit, als es noch nicht so leicht war, an
@@ -153,7 +165,13 @@ auch gerade wieder richtig hübsche Winterjacken im Angebot.
 
 ## Darfs noch eine Mütze sein?
 
-![nachhaltige-wintermode](http://cardamonchai.com/wp-content/uploads/2018/11/30462412122_66f5294155_z-400x602.jpg "Nochmal Lagenlook")
+<RemoteImage
+  alt="nachhaltige-wintermode"
+  size="medium"
+  title="Nochmal Lagenlook"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_30462412122_66f5294155_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_30462412122_66f5294155_z__l.jpg"
+  loadingUrl="undefined" />
 
 Für mich ist eine gemütliche Kopfbedeckung mit das Wichtigste überhaupt in der
 kalten Jahreszeit. Eine

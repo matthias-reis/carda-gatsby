@@ -63,7 +63,13 @@ einigen Jahren in einem Abfallrecyclingzentrum in Japan gefunden worden.
 
 ## Das Enzym frisst PET
 
-![Enzym](http://cardamonchai.com/wp-content/uploads/2018/04/31623226645_cf9554d7ea_z-400x600.jpg)
+<RemoteImage
+  alt="Enzym"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_31623226645_cf9554d7ea_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_31623226645_cf9554d7ea_z__l.jpg"
+  loadingUrl="undefined" />
 
 Laut Aussage der Forscher ist das Enzym unter anderem dazu in der Lage, PET
 sowie PEF zu fressen. Dieses Material wurde als biobasierter Ersatz für PET

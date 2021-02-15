@@ -53,9 +53,13 @@ subTitle: Ein Bild ohne Seerosen
   
 ---
 
-![Bild: 'Ronnies Flowers' Anne Reko Frühling in London 2009](http://cardamonchai.files.wordpress.com/2013/04/p5210018.jpg?w=300
-'[ ](//2009/05/21/london-21-05-2009/) Bild: 'Ronnies Flowers' Anne Reko Frühling
-in London 2009')
+<RemoteImage
+  alt="Bild: 'Ronnies Flowers' Anne Reko Frühling in London 2009"
+  size="medium"
+  title="[ ](//2009/05/21/london-21-05-2009/)  Bild: 'Ronnies Flowers' Anne Reko Frühling in London 2009"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/p5210018.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/p5210018.jpg?w=300"
+  loadingUrl="undefined" />
 
 Noch weitere 14 Tage soll dieses dunkelgraue, eis-glänzende Desaster, welches
 nur noch besonders abgebrühte Metereologen als Wetter zu bezeichnen wagen,
@@ -68,9 +72,13 @@ Andere wandern aus oder kauen sich die Nägel ab. Wieder andere legen sich eine
 kostengünstige Grippe zu und verlassen schon seit Wochen das heimische Bett
 nicht mehr.
 
-![Bild: Anne Reko 'Portobello' Frühling in London 2012](http://cardamonchai.files.wordpress.com/2013/04/img_8944.jpg?w=300
-'[ ](//2012/03/07/sonnentranen/) Bild: Anne Reko 'Portobello' Frühling in London
-2012')
+<RemoteImage
+  alt="Bild: Anne Reko 'Portobello' Frühling in London 2012"
+  size="medium"
+  title="[ ](//2012/03/07/sonnentranen/)  Bild: Anne Reko 'Portobello' Frühling in London 2012"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_8944.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_8944.jpg?w=300"
+  loadingUrl="undefined" />
 
 Eins dürfte jedem klar sein: So kann und _DARF_ das nicht weitergehen! Wir
 müssen uns was überlegen! Leider fällt mir das im Moment etwas was schwer. Was

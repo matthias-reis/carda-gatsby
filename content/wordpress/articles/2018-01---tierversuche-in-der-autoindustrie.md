@@ -47,7 +47,13 @@ stark krebserregend. Nachdem im letzten Jahr bekannt wurde, dass Abgasanlagen
 von Dieselfahrzeugen manipuliert worden waren, füllt VW nun erneut die
 Negativ-Schlagzeilen.
 
-![Tierversuche in der Autoindustrie](http://cardamonchai.com/wp-content/uploads/2018/01/16239139556_7880014497_z-300x300.jpg)
+<RemoteImage
+  alt="Tierversuche in der Autoindustrie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_16239139556_7880014497_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_16239139556_7880014497_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wie der inzwischen heiß diskutierte Artikel der New York Times ans Licht
 brachte, waren 10 Makaken dazu gezwungen worden, Dieselabgase zu inhalieren. Was
@@ -71,7 +77,13 @@ Verstößen gegen das geltende Tierschutzgesetz.
 
 ## Affe verstarb geschwächt im Käfig
 
-![Tierversuche in der Autoindustrie](http://cardamonchai.com/wp-content/uploads/2018/01/15642744004_9a850bc9bf_z-300x200.jpg)
+<RemoteImage
+  alt="Tierversuche in der Autoindustrie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_15642744004_9a850bc9bf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_15642744004_9a850bc9bf_z__l.jpg"
+  loadingUrl="undefined" />
 
 Beobachter berichteten, dass, als bei einem der Affen in den VW-Versuchen
 Komplikationen auftraten und dieser die Nahrungsaufnahme einstellte, nicht mal
@@ -86,7 +98,13 @@ vor. Nach und nach sickern immer mehr Einzelheiten durch.
 
 ## Warum musste es zu diesen grausamen Versuchen kommen?
 
-![Tierversuche in der Autoindustrie](http://cardamonchai.com/wp-content/uploads/2018/01/16077204808_22e4900d22_z-300x200.jpg)
+<RemoteImage
+  alt="Tierversuche in der Autoindustrie"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_16077204808_22e4900d22_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_16077204808_22e4900d22_z__l.jpg"
+  loadingUrl="undefined" />
 
 Heute gibt sich VW schuldbewusst. Die Frage ist nur: Warum musste es erst zu
 diesen grausamen und sinnlosen Versuchen kommen?

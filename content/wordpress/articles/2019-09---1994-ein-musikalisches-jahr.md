@@ -120,7 +120,13 @@ den Startlöchern.
 
 ## Kreativität und Dunkelheit
 
-![1994](http://cardamonchai.com/wp-content/uploads/2019/09/songs-für-den-Juni2-400x600.png)
+<RemoteImage
+  alt="1994"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_songs-fu%CC%88r-den-Juni2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_songs-fu%CC%88r-den-Juni2.png__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt war 1994 nicht nur ein glückliches, sondern auch ein sehr düsteres
 Jahr. Das kann man auch aus vielen Songtexten und Kompositionen heraushören, die

@@ -47,7 +47,13 @@ darüber, denn jetzt ist es ein echtes Einzelstück, das nur ich besitze. Eine
 schöne Erinnerung an
 [David Bowie](/2016/01/rip-david-bowie-abschied-von-einer-ikone/).
 
-![David | full](http://cardamonchai.com/wp-content/uploads/2016/05/25817765024_43bf4e933e_b-2.jpg)
+<RemoteImage
+  alt="David"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_25817765024_43bf4e933e_b-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_25817765024_43bf4e933e_b-2__l.jpg"
+  loadingUrl="undefined" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

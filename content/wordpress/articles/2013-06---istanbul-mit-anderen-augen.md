@@ -39,7 +39,13 @@ Wir waren traurig, sie für lange Zeit nicht mehr sehen zu können und wünschte
 Ihr alles Glück der Welt und viel Erfolg. Und natürlich waren wir auch
 neugierig, was sie uns wohl erzählen würde.
 
-![Caro](http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490 "Caro")
+<RemoteImage
+  alt="Caro"
+  size="medium"
+  title="Caro"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/471968_3580270779112_1081736696_o-e1370449490146.jpg?w=490"
+  loadingUrl="undefined" />
 
 Danach habe ich Caro für längere Zeit aus den Augen verloren, wir hatten für
 etwa drei Jahre gar nichts mehr miteinander zu tun. Bis ich sie eines Tages in
@@ -89,7 +95,13 @@ geschichtsträchtigen, lärmenden Stadt am Bosporus.
 
 ## Ein kleines Stück Istanbul
 
-![Filmszene  | large](http://cardamonchai.files.wordpress.com/2013/06/216296_632851216742650_445307902_n.jpg?w=490 "Filmszene")
+<RemoteImage
+  alt="Filmszene "
+  size="large"
+  title="Filmszene"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/216296_632851216742650_445307902_n.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/216296_632851216742650_445307902_n.jpg?w=490"
+  loadingUrl="undefined" />
 
 Als mich Caro letzten Sommer besuchte, brachte sie mir einen kleinen Teil dieser
 Stadt mit. Sie strahlte Istanbul aus. Und gleichzeitig war alles wie immer. Wie
@@ -133,7 +145,13 @@ mit ihnen zu pflegen. Özgür holten sie am Flughafen ab, um die ersten Momente
 auf Istanbuler Boden festzuhalten, Janina trafen sie, nachdem sie sich ca. eine
 Woche lang in Istanbul aufgehalten hatte und Joanna nach ungefähr einem Monat.
 
-![Friedenstaube über dem Bosporus Anne Reko 2010 ](http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490 "[ ](//2010/01/09/mowen-am-bosporus/)  Friedenstaube über dem Bosporus Anne Reko 2010")
+<RemoteImage
+  alt="Friedenstaube über dem Bosporus Anne Reko 2010 "
+  size="medium"
+  title="[ ](//2010/01/09/mowen-am-bosporus/)  Friedenstaube über dem Bosporus Anne Reko 2010"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/img_0232.jpg?w=490"
+  loadingUrl="undefined" />
 
 Danach statteten sie den Dreien in regelmäßigen Abständen Besuche ab und nahmen
 an ihrem täglichen Leben teil. Der gesamte Zeitraum des Films umfasst eine
@@ -173,7 +191,13 @@ derzeit noch im Aufbau, kann aber schon besucht werden.
 
 ## Hinweis zur aktuellen Lage in Istanbul und der Türkei
 
-![Das Bild stammt von einer der größten up to date fb/twitter Organisationen. Die zitrone ist steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden.](http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg "Das Bild stammt von einer der größten up to date Facebook/Twitter Organisationen. Die Zitrone steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden.")
+<RemoteImage
+  alt="Das Bild stammt von einer der größten up to date fb/twitter Organisationen. Die zitrone ist steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden."
+  size="medium"
+  title="Das Bild stammt von einer der größten up to date Facebook/Twitter Organisationen. Die Zitrone steht als Symbol für das Gas, mit dem die Demonstranten vertrieben werden."
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/969752_593296170689248_1481661969_n.jpg"
+  loadingUrl="undefined" />
 
 Ich arbeite schon länger an diesem Artikel zum Filmprojekt von Marie und Caro.
 Erst habe ich überlegt, ob ich ihn, ob der
@@ -201,7 +225,13 @@ Kanäle dermaßen aufgewühlt haben.
 
 ## Hier noch eine kleine Nachricht an Euch, die mir Marie gerade schickte:
 
-![Marie](http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg "Marie")
+<RemoteImage
+  alt="Marie"
+  size="medium"
+  title="Marie"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/31012_496184753733724_1570779907_n.jpg"
+  loadingUrl="undefined" />
 
 "Die Situation in Istanbul ist unglaublich ermüdend und motivierend zugleich. Es
 ist traurig, auf der einen Seite zu sehen, wie gewaltbereit die Polizei ist und
@@ -218,7 +248,13 @@ und das Volk bleibt weiterhin Seite an Seite."
 Für den Moment werde ich es bei diesem kurzen Anhang zu meinem Artikel belassen,
 aber ich könnt Euch sicher sein: Ich werde auf jeden Fall weiter berichten!
 
-![Istanbul mit andern Augen | full](http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg "[ ](http://istanbulchangingperspectives.wordpress.com)  [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com)")
+<RemoteImage
+  alt="Istanbul mit andern Augen"
+  size="full"
+  title="[ ](http://istanbulchangingperspectives.wordpress.com)  [Istanbul mit andern Augen](http://istanbulchangingperspectives.wordpress.com)"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/06/cover_dvd.jpg"
+  loadingUrl="undefined" />
 
 Merken
 

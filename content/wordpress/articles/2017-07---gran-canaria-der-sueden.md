@@ -38,7 +38,13 @@ subTitle: Mit dem Boot von Bucht zu Bucht
   
 ---
 
-![Gran Canaria](http://cardamonchai.com/wp-content/uploads/2017/07/35805721200_5abc119465_z.jpg)
+<RemoteImage
+  alt="Gran Canaria"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35805721200_5abc119465_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35805721200_5abc119465_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Eines ganz besonderen Tages im Mai beschlossen wir, uns aufs Wasser zu begeben
 und den Süden von Gran Canaria zu erkunden. Auf unserem Ausflug entdeckten wir
@@ -66,7 +72,13 @@ freundlichen Wirte des original Irischen Pubs _McCools_ hielten einen eigens fü
 uns aus der Heimat importierten _Magner's_ Cider für uns bereit. Der Tag war
 nicht nur gerettet, er war perfektioniert worden.
 
-![Gran Canaria](http://cardamonchai.com/wp-content/uploads/2017/07/35361600654_6f80d66d2b_z-640x480.jpg)
+<RemoteImage
+  alt="Gran Canaria"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35361600654_6f80d66d2b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35361600654_6f80d66d2b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Nur schweren Herzens packten wir unsere Kameras wieder in den Rucksack, um
 unsere Tour fortzusetzen. Am Kai wartete schon die nächste Fähre auf uns, die

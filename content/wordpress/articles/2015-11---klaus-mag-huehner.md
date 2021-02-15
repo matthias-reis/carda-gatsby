@@ -36,7 +36,13 @@ subTitle: Ein veganes Kinderbuch für Kinder im Fragealter
   
 ---
 
-![klaus-mag-huehner](http://cardamonchai.com/wp-content/uploads/2019/06/klaus-mag-huehner-2-400x267.jpg)
+<RemoteImage
+  alt="klaus-mag-huehner"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_klaus-mag-huehner-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_klaus-mag-huehner-2__l.jpg"
+  loadingUrl="undefined" />
 
 Erst vor Kurzem [](https://amzn.to/2MJP2An) erschien im Compassion Media Verlag
 ein Bilderbuch für junge Tierfreunde. Protagonist ist ein kleiner Außerirdischer
@@ -55,7 +61,13 @@ können.
 Auf spielerische Art wird anhand von einfachen Reimen erklärt, warum alle Tiere
 wunderbar sind und jedes von ihnen ein Recht auf sein Leben hat.
 
-![klaus-mag-huehner](http://cardamonchai.com/wp-content/uploads/2019/06/klaus-mag-huehner-1-400x267.jpg)
+<RemoteImage
+  alt="klaus-mag-huehner"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_klaus-mag-huehner-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_klaus-mag-huehner-1__l.jpg"
+  loadingUrl="undefined" />
 
 ## Bekannte Autoren und Illustratoren [](https://amzn.to/2MJP2An) Geschrieben und illustriert wurde das farbenfrohe Kinderbuch von Carlos Patiño, bereits bekannt durch das Kinderbuch "Lena of Vegatopia", das er 2014 zusammen mit Sybil Severin veröffentlichte. Aus dem Amerikanischen übersetzt haben es Alexander Bulk und Simon Kneip.
 

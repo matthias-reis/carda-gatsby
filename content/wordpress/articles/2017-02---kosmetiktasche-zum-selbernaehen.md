@@ -37,7 +37,13 @@ subTitle: Nähanleitung
   
 ---
 
-![Kosmetiktasche](http://cardamonchai.com/wp-content/uploads/2017/02/32105962403_6f2b2d3d03_z-640x427.jpg)
+<RemoteImage
+  alt="Kosmetiktasche"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__l.jpg"
+  loadingUrl="undefined" />
 
 **_Kosmetiktasche zum Selbernähen_ - Diesen Artikel hatte ich eigentlich schon
 für Oktober 2015 geplant. Warum er sich bis heute nach wie vor im Entwurf-Modus
@@ -76,7 +82,13 @@ beschrieben, daher kam sie mir gerade recht.
 
 ## So entsteht Eure Kosmetiktasche
 
-![Kosmetiktasche](http://cardamonchai.com/wp-content/uploads/2017/02/22309643076_b29604c2e7_z-640x640.jpg)
+<RemoteImage
+  alt="Kosmetiktasche"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_22309643076_b29604c2e7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_22309643076_b29604c2e7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Richtet Euch einfach nach der Anleitung von Dot's Designs, sie ist wirklich
 super, Ihr werdet schon sehen.

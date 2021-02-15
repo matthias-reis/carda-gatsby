@@ -26,7 +26,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   noSubtitle: no h2 heading found - no sub title
-  invalidMdx: "unknown: Unterminated JSX contents (9:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (15:16)"
 thumbnailId: "1798"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_04_img_3668__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_04_img_3668__l.jpg
@@ -34,10 +34,16 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
   
 ---
 
-## unknown: Unterminated JSX contents (9:16)
+## unknown: Unterminated JSX contents (15:16)
 
 <!--
-![Sonntag | full](http://cardamonchai.com/wp-content/uploads/2011/04/img_3668.jpg)
+<RemoteImage
+  alt="Sonntag"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_img_3668__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_04_img_3668__l.jpg"
+  loadingUrl="undefined" />
 
 <h2>Schnappschuss
 

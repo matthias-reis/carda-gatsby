@@ -61,7 +61,13 @@ Test am besten geeignet.
 
 ## Der Dörrautomat in Betrieb
 
-![Dörrautomat](http://cardamonchai.com/wp-content/uploads/2017/08/35775340193_4536a81967_z-300x300.jpg)
+<RemoteImage
+  alt="Dörrautomat"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__l.jpg"
+  loadingUrl="undefined" />
 
 Es klappt tatsächlich! Nach 36 Stunden bei 40 Grad haben wir nun schmackhafte
 Dörrkirschen sowie getrocknete Chilischoten für unser Chilisalz. Ich freue mich

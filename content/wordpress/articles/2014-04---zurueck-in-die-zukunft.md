@@ -34,7 +34,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (34:572)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (40:572)"
 thumbnailId: "7841"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13623142393_0c6905dd4f_z-e1396627768489__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13623142393_0c6905dd4f_z-e1396627768489__l.jpg
@@ -43,7 +43,7 @@ subTitle: Fotos digitalisieren mit Photoshop und Lightroom
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;div> (34:572)
+## unknown: Expected corresponding JSX closing tag for &lt;div> (40:572)
 
 <!--
 **Schon seit Jahren habe ich eine Kiste mit alten Fotos in meinem Kleiderschrank
@@ -52,7 +52,13 @@ die Kiste entdeckt habe, habe ich mir vorgenommen, da irgendwann mal ein Album
 draus zu machen. Zuerst dachte ich daran, die Bilder "ganz normal" in ein Album
 einzukleben und dieses meinen Eltern eines Tages zu überreichen.**
 
-![Damals - Leute auf Fotosafari](http://cardamonchai.files.wordpress.com/2014/04/13623132573_d24a3d271c_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/)  Damals - Leute auf Fotosafari")
+<RemoteImage
+  alt="Damals - Leute auf Fotosafari"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157642207927715/)  Damals - Leute auf Fotosafari"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/04/13623132573_d24a3d271c_z.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/04/13623132573_d24a3d271c_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Zum Glück, wie ich heute finde, gingen noch einige Jahre ins Land und es kamen
 diverse Umzüge und andere Dinge dazwischen, das Projekt "Rita", wie ich es
@@ -120,27 +126,63 @@ Liebe Grüße Eure Anne
 
 <div style="width: 45%; float: left;">
 
-![Damals - Möppi fahrn | full](http://cardamonchai.com/wp-content/uploads/2014/04/13623142393_0c6905dd4f_z-e1396627768489.jpg "Damals - Möppi fahrn")
+<RemoteImage
+  alt="Damals - Möppi fahrn"
+  size="full"
+  title="Damals - Möppi fahrn"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623142393_0c6905dd4f_z-e1396627768489__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623142393_0c6905dd4f_z-e1396627768489__l.jpg"
+  loadingUrl="undefined" />
 
 </div><div style="width: 45%; float: left;">
 
-![Damals - Am Wasser | full](http://cardamonchai.com/wp-content/uploads/2014/04/13623218035_f48a3aeb1f_z-e1396627843452.jpg "Damals - Am Wasser")
+<RemoteImage
+  alt="Damals - Am Wasser"
+  size="full"
+  title="Damals - Am Wasser"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623218035_f48a3aeb1f_z-e1396627843452__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623218035_f48a3aeb1f_z-e1396627843452__l.jpg"
+  loadingUrl="undefined" />
 
 </div><div style="clear: both;"></div><div style="width: 45%; float: left;">
 
-![Damals - Opas Brieftaube | full](http://cardamonchai.com/wp-content/uploads/2014/04/13623653934_81aaeccc0e_z-e1396627876252.jpg "Damals - Opas Brieftaube")
+<RemoteImage
+  alt="Damals - Opas Brieftaube"
+  size="full"
+  title="Damals - Opas Brieftaube"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623653934_81aaeccc0e_z-e1396627876252__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623653934_81aaeccc0e_z-e1396627876252__l.jpg"
+  loadingUrl="undefined" />
 
 </div><div style="width: 45%; float: left;">
 
-![Damals - Osterwiese | full](http://cardamonchai.com/wp-content/uploads/2014/04/13623381353_87ac6157f7_z-e1396627862704.jpg "Damals - Osterwiese")
+<RemoteImage
+  alt="Damals - Osterwiese"
+  size="full"
+  title="Damals - Osterwiese"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623381353_87ac6157f7_z-e1396627862704__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623381353_87ac6157f7_z-e1396627862704__l.jpg"
+  loadingUrl="undefined" />
 
 </div><div style="clear: both;"></div><div style="width: 45%; float: left;">
 
-![Damals - Pusteblume | full](http://cardamonchai.com/wp-content/uploads/2014/04/13623262473_5b7b90c618_z-e1396628587945.jpg "Damals - Pusteblume")
+<RemoteImage
+  alt="Damals - Pusteblume"
+  size="full"
+  title="Damals - Pusteblume"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623262473_5b7b90c618_z-e1396628587945__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623262473_5b7b90c618_z-e1396628587945__l.jpg"
+  loadingUrl="undefined" />
 
 </div><div style="width: 45%; float: left;">
 
-![Damals - Herbstlaub | full](http://cardamonchai.com/wp-content/uploads/2014/04/13623271425_49c8ab5981_z-e1396627896351.jpg "Damals - Herbstlaub")
+<RemoteImage
+  alt="Damals - Herbstlaub"
+  size="full"
+  title="Damals - Herbstlaub"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623271425_49c8ab5981_z-e1396627896351__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_04_13623271425_49c8ab5981_z-e1396627896351__l.jpg"
+  loadingUrl="undefined" />
 
 </div><div style="clear: both;"></div>
 

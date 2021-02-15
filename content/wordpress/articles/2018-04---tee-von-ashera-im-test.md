@@ -45,7 +45,13 @@ _Werbung\*_
 Gelegenheit. Gerne möchte ich Euch an meinem Fazit teilhaben lassen, daher habe
 ich es hier mal zusammengefasst.**
 
-![Tee von Ashéra](http://cardamonchai.com/wp-content/uploads/2018/04/39280301510_058a873b00_z-400x267.jpg)
+<RemoteImage
+  alt="Tee von Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_39280301510_058a873b00_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_39280301510_058a873b00_z__l.jpg"
+  loadingUrl="undefined" />
 
 Vor Kurzem hatte ich die Gelegenheit, die
 [ganzheitliche Kosmetik von Ashéra](/2018/01/ashera-yin-yang-balance/) zu
@@ -72,7 +78,13 @@ im Brief von Ashéra heißt.
 > "Trinkt man ihn regelmäßig, können Gifte ausgespült werden und man regeneriert
 > schneller.",
 
-![Tee von Ashéra](http://cardamonchai.com/wp-content/uploads/2018/04/40194925465_d935cc2e6e_z-400x267.jpg)
+<RemoteImage
+  alt="Tee von Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40194925465_d935cc2e6e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_40194925465_d935cc2e6e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Erzählt mir Olivia von Ashéra, die mir das Päckchen mit dem Tee so liebevoll
 zusammengestellt hat. Mir schmeckt der Tee außerdem noch ziemlich gut und ich
@@ -88,7 +100,13 @@ der unter diesem Beitrag hier direkt im Blog einen Kommentar hinterlässt,
 bekommt von mir einen Gutscheincode für eine Dose Ashéra "Juwel der klaren
 Augenkraft"! Das gilt, wenn der Kommentar vor dem 31.12.2018 hier gepostet wird.
 
-![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
+  loadingUrl="undefined" />
 
 Zum Onlineshop von Ashéra geht es
 [hier entlang](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)
@@ -97,7 +115,13 @@ Zum Onlineshop von Ashéra geht es
 [gallery type="rectangular" size="medium" link="none"
 ids="20562,20561,20560,20559,20557,20554,20553"]
 
-![Ashéra Naturkosmetik](https://www.adcell.de/promotion/image/promoId/172492/slotId/80259)
+<RemoteImage
+  alt="Ashéra Naturkosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/image/promoId/172492/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/image/promoId/172492/slotId/80259"
+  loadingUrl="undefined" />
 
 [](https://www.adcell.de/promotion/click/promoId/172492/slotId/80259)
 

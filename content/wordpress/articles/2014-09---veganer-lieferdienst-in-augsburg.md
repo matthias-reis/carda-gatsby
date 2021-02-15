@@ -44,7 +44,13 @@ Cookies ist alles vegan. Alle Gerichte werden vollständig in der kleinen Küche
 des Rastaround zubereitet, selbst die "Moxarella" auf der Pizza wird
 selbstgemacht.
 
-![veganer-lieferdienst-in-augsburg | full](http://cardamonchai.com/wp-content/uploads/2019/06/ihlanis-rastaround-bild-11-380x250.jpg)
+<RemoteImage
+  alt="veganer-lieferdienst-in-augsburg"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-11-380x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-11-380x250__l.jpg"
+  loadingUrl="undefined" />
 
 ## Interview mit Ihlani, Gründerin von "Ihlanis Rastaround" in Augsburg **Anne:** Hallo Ihlani, schön, dass Du Dir die Zeit für dieses Interview nimmst, ich freue mich wirklich sehr! Ich lebe selbst vegan und als Augsburgerin bin ich auch schon einige Male in den Genuss Eurer Gerichte gekommen, ich muss sagen, dass ich wirklich begeistert bin.
 
@@ -67,7 +73,13 @@ Abends betreibe ich den ersten veganen Lieferdienst in Augsburg.
 **Anne:** Wie seid Ihr auf die Idee gekommen, einen veganen Lieferservice
 aufzubauen?
 
-![veganer-lieferdienst-in-augsburg | full](http://cardamonchai.com/wp-content/uploads/2019/06/ihlanis-rastaround-bild-07-380x250.jpg)
+<RemoteImage
+  alt="veganer-lieferdienst-in-augsburg"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-07-380x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-07-380x250__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Ich dachte mir 'das kannst Du auch!'" **Ihlani:** Ich bin in der Gastronomie aufgewachsen und habe auch nach der Schule/Ausbildung immer in verschiedenen Küchen und im Servicebereich gejobbt. Als ich vor einigen Jahren eine Zeit lang bei einem großen Cateringdienst gearbeitet habe, dachte ich mir: "Das kannst du auch". So kam es, dass ich zusammen mit meinem Mann den Schritt in die Selbständigkeit gewagt habe.
 
@@ -101,7 +113,13 @@ Kinder im Alter von eineinhalb bis zehn Jahren, ernährt sich rein pflanzlich.
 
 **Anne:** Was war für Dich persönlich der Hauptgrund, vegan zu leben?
 
-![veganer-lieferdienst-in-augsburg | full](http://cardamonchai.com/wp-content/uploads/2019/06/ihlanis-rastaround-bild-05-380x250.jpg)
+<RemoteImage
+  alt="veganer-lieferdienst-in-augsburg"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-05-380x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-05-380x250__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Die Ethik steht für mich an erster Stelle" **Ihlani:** Für mich steht an erster Stelle die Ethik, ich möchte einfach nicht, dass mein Überleben durch den Tod anderer Lebewesen gesichert wird. Wir haben doch so viele Möglichkeiten, uns gesund und abwechslungsreich zu ernähren, ohne auf tierische Produkte zurückgreifen zu müssen. Man kann durch vegane Ernährung Unmengen an Wasser und Energie sparen. Es ist unser Planet und das ist meine Art ihm etwas Liebe zurückzugeben.
 
@@ -123,7 +141,13 @@ veganen Zukunft?
 **Ihlani:** Also da bin ich mir absolut sicher! Wir werden aber auch noch
 weitere Medien nutzen, um unseren Bekanntheitsgrad zu steigern.
 
-![veganer-lieferdienst-in-augsburg | full](http://cardamonchai.com/wp-content/uploads/2019/06/ihlanis-rastaround-bild-09-380x250.jpg)
+<RemoteImage
+  alt="veganer-lieferdienst-in-augsburg"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-09-380x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-09-380x250__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Am liebsten esse ich Spaghetti Bolognese" **Anne:** Eure Speisen lassen indische, bayerische und kreolische Einflüsse vermuten. Welche ist Deine Lieblingsküche?
 
@@ -151,7 +175,13 @@ vielleicht verwirkliche ich das noch mit einem Kochbuch.
 **Anne:** Du gehörst dem Rastafari-Glauben an. Veganismus und Glauben, gehört
 das für Dich zusammen?
 
-![veganer-lieferdienst-in-augsburg | full](http://cardamonchai.com/wp-content/uploads/2019/06/ihlanis-rastaround-bild-08-340x250.jpg)
+<RemoteImage
+  alt="veganer-lieferdienst-in-augsburg"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-08-340x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-08-340x250__l.jpg"
+  loadingUrl="undefined" />
 
 > ## "Was du nicht willst, das man dir tu, das füg’ auch keinem andren zu." **Ihlani:** Für mich schon. Es erklärt sich einfach von selbst. "Was du nicht willst, das man dir tu, das füg’ auch keinem andren zu".
 
@@ -176,7 +206,13 @@ Version. Da bin ich offen und variiere gerne.
 **Anne:** Möchtest Du uns eines Deiner Rezept verraten? Ihlani: Gerne! Ein
 Blitzrezept für den süßen Gaumen:
 
-![veganer-lieferdienst-in-augsburg | full](http://cardamonchai.com/wp-content/uploads/2019/06/ihlanis-rastaround-bild-02-380x250.jpg)
+<RemoteImage
+  alt="veganer-lieferdienst-in-augsburg"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-02-380x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-02-380x250__l.jpg"
+  loadingUrl="undefined" />
 
 ### Zutaten- Eine Avocado
 
@@ -207,7 +243,13 @@ Ende Oktober ein Guesthouse in Port Antonio auf Jamaica.
 **Anne:** Habt Ihr schon mal darüber nachgedacht, zu expandieren und Filialen in
 anderen Städten aufzumachen?
 
-![veganer-lieferdienst-in-augsburg | full](http://cardamonchai.com/wp-content/uploads/2019/06/ihlanis-rastaround-bild-04-380x250.jpg)
+<RemoteImage
+  alt="veganer-lieferdienst-in-augsburg"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-04-380x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_ihlanis-rastaround-bild-04-380x250__l.jpg"
+  loadingUrl="undefined" />
 
 ## Ein Guesthouse auf Jamaica... **Ihlani:** Es gab schon einige Angebote, aber das richtige war bisher noch nicht dabei. Wir von "Ihlanis Rastaround" möchten unserem Image treu bleiben und uns nicht verbiegen müssen. Aber wir behalten das auf alle Fälle im Hinterkopf.
 

@@ -28,7 +28,8 @@ date: 2019-09-02T12:57:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (148:45)"
 thumbnailId: "25898"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_tierschutztheater-interview-cardamonchai__l.jpg
@@ -37,6 +38,9 @@ subTitle: Ein Ensemble für den Tierschutz
   
 ---
 
+## unknown: Unexpected token (148:45)
+
+<!--
 <hr />
 
 **Hinweis:** Dieses Interview habe ich bereits am 7. März 2015 veröffentlicht.
@@ -71,7 +75,13 @@ Das Ensemble bietet auch außerhalb des Theaters Auftritte an, gebucht werden
 kann zu jedem Anlass, lediglich die Fahrtkosten, sowie Kost und Logis für die
 Schauspieler<span class="e24Kjd">\*innen</span> müssen übernommen werden.
 
-![kathrin-eva-schmid-privat](http://cardamonchai.com/wp-content/uploads/2019/09/kathrin-eva-schmid-privat-400x400.jpg "Kathrin Eva Schmid vom Tierschutztheater. Foto: Kathrin Eva Schmid privat")
+<RemoteImage
+  alt="kathrin-eva-schmid-privat"
+  size="medium"
+  title="Kathrin Eva Schmid vom Tierschutztheater. Foto: Kathrin Eva Schmid privat"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kathrin-eva-schmid-privat__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kathrin-eva-schmid-privat__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Hallo Kathrin Eva! Vielen Dank, dass Du Dir die Zeit für das Interview
 nimmst! Ich freue mich wirklich sehr, Deine Bekanntschaft zu machen!
@@ -118,7 +128,13 @@ hoffnungslos überbucht. Das Theater bat uns spontan um eine Zusatzvorstellung,
 die genauso voll war. Die Zuschauer\*innen waren restlos begeistert und seither
 bin ich vor Ideen und Tatendrang nicht mehr zu bremsen.
 
-![tierschutztheater-interview-cardamonchai | full](http://cardamonchai.com/wp-content/uploads/2019/09/DSC00391-380x250.jpg "Das Tierschutztheater Ensemble. Foto: Kathrin Eva Schmid privat")
+<RemoteImage
+  alt="tierschutztheater-interview-cardamonchai"
+  size="full"
+  title="Das Tierschutztheater Ensemble. Foto: Kathrin Eva Schmid privat"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_DSC00391-380x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_DSC00391-380x250__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wer sind die Gründungsmitglieder?
 
@@ -202,7 +218,11 @@ als ich alles aus dem eigenen Kühlschrank verbannt hatte, war ich immer noch
 nicht konsequent, wenn ich unterwegs oder irgendwo eingeladen war. Ich schätze
 mal, dass ich jetzt seit vier oder fünf Jahren richtig vegan lebe.
 
-![tierschutztheater-interview-cardamonchai](http://cardamonchai.com/wp-content/uploads/2019/09/manege-der-traenen-tierschutztheater-400x267.jpg 'Szene aus dem Stück "Manege der Tränen". Foto: Tierschutztheater')
+<RemoteImage alt="tierschutztheater-interview-cardamonchai" size="medium"
+title="Szene aus dem Stück "Manege der Tränen". Foto: Tierschutztheater"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_manege-der-traenen-tierschutztheater__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_manege-der-traenen-tierschutztheater__l.jpg"
+loadingUrl="undefined" />
 
 **Anne:** Was war für Dich schließlich der Auslöser, vegan zu leben?
 
@@ -284,7 +304,11 @@ gleichzeitig Vegetarier würden. Gerade die dummen Argumente zu parodiesieren,
 über die ich mich knapp 30 Jahre lang immer wieder geärgert habe, macht
 wahnsinnig Spaß.
 
-![tierschutztheater-interview-cardamonchai](http://cardamonchai.com/wp-content/uploads/2019/09/manche-sind-gleich-tierschutztheater-400x267.jpg 'Szene aus dem Stück "Manche sind gleich". Foto: Tierschutztheater')
+<RemoteImage alt="tierschutztheater-interview-cardamonchai" size="medium"
+title="Szene aus dem Stück "Manche sind gleich". Foto: Tierschutztheater"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_manche-sind-gleich-tierschutztheater__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_manche-sind-gleich-tierschutztheater__l.jpg"
+loadingUrl="undefined" />
 
 **Anne:** Im Tierschutztheater setzt Ihr Euch ja
 [aktiv gegen Pelze](/2014/11/fakepelz-echtpelz/) ein. Wie erklärst Du Dir die
@@ -366,7 +390,11 @@ wir nochmal eine Auffrischungsprobe benötigen, ist es auch möglich, dass Koste
 für die Raummiete des Proberaums anfallen. Aber das lässt sich alles absprechen.
 Wir kommen da sehr entgegen und machen möglich, was uns möglich ist.
 
-![tierschutztheater-interview-cardamonchai](http://cardamonchai.com/wp-content/uploads/2019/09/taeubchen-im-glueck-tierschutztheater-400x267.jpg 'Szene aus dem Stück "Täubchen im Glück". Foto: Tierschutztheater')
+<RemoteImage alt="tierschutztheater-interview-cardamonchai" size="medium"
+title="Szene aus dem Stück "Täubchen im Glück". Foto: Tierschutztheater"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_taeubchen-im-glueck-tierschutztheater__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_taeubchen-im-glueck-tierschutztheater__l.jpg"
+loadingUrl="undefined" />
 
 **Anne:** Euch ist es besonders wichtig, Informationen weiterzugeben, ohne dabei
 als Moralapostel zu erscheinen. Wie schafft Ihr diese Gratwanderung?
@@ -449,7 +477,11 @@ Amateurtheater" bei, wodurch wir diverse Vergünstigungen (beispielsweise bei
 Versicherung und GEMA), sowie ein umfangreiches Fortbildungsangebot, Beratung,
 Rechtsbeistand und vieles mehr erhalten.
 
-![tierschutztheater-interview-cardamonchai](http://cardamonchai.com/wp-content/uploads/2019/09/enrico-und_-zazalena-tierschutztheater-400x267.jpg 'Szene aus dem Stück "Enrico und Zazalena". Foto: Tierschutztheater')
+<RemoteImage alt="tierschutztheater-interview-cardamonchai" size="medium"
+title="Szene aus dem Stück "Enrico und Zazalena". Foto: Tierschutztheater"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_enrico-und_-zazalena-tierschutztheater__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_enrico-und_-zazalena-tierschutztheater__l.jpg"
+loadingUrl="undefined" />
 
 **Anne:** Bist Du ausgebildete Schauspielerin? Oder hast Du vorher was anderes
 gemacht? Erzähl uns ein bisschen was von Deinem Werdegang.
@@ -560,5 +592,7 @@ folgendes Video veröffentlicht:
 
 **Fotos:** Tierschutztheater / Kathrin Eva Schmid privat. Das Bild im Header
 stammt aus dem Bild "Andromeda".
+
+-->
 
   

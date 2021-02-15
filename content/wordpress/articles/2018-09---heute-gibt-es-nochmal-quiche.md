@@ -53,7 +53,13 @@ Doch nun zum Original. Hier kommt Matzes schmackhafte Kartoffel-Quiche
 
 ## Zutaten für die Quiche
 
-![Quiche](http://cardamonchai.com/wp-content/uploads/2018/09/30575754808_786887eceb_z-400x300.jpg)
+<RemoteImage
+  alt="Quiche"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_30575754808_786887eceb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_30575754808_786887eceb_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Teig
 
@@ -90,7 +96,13 @@ aufheben. Matze hat sich für folgende Zutaten entschieden:
 
 ## Zubereitung
 
-![Quiche](http://cardamonchai.com/wp-content/uploads/2018/09/42635661420_5bd88f9fce_z-400x300.jpg)
+<RemoteImage
+  alt="Quiche"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42635661420_5bd88f9fce_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42635661420_5bd88f9fce_z__l.jpg"
+  loadingUrl="undefined" />
 
 ### Der Teig
 

@@ -53,7 +53,13 @@ würde.
 
 ## Unser erster Podcast
 
-![Die Hermetiker - kritisch hinterfragt in Delas Podcast](http://cardamonchai.com/wp-content/uploads/2019/04/2019-03-31-die-hermetiker-11-400x533.jpg)
+<RemoteImage
+  alt="Die Hermetiker - kritisch hinterfragt in Delas Podcast"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-11__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-03-31-die-hermetiker-11__l.jpg"
+  loadingUrl="undefined" />
 
 Und wie es immer so ist im Leben, kam am Ende alles ganz anders, als erwartet.
 Als Dela auf der anderen Seite des Bildschirms erschien waren wir plötzlich
@@ -86,7 +92,13 @@ gezogen. Also:
 
 ### Anhören könnt Ihr Euch den Podcast mit unserem Interview hier:
 
-![podcast-amreis-die-hermetiker | full](http://cardamonchai.com/wp-content/uploads/2019/05/die-hemetiker-amreis-podcast.png)
+<RemoteImage
+  alt="podcast-amreis-die-hermetiker"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_die-hemetiker-amreis-podcast.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_die-hemetiker-amreis-podcast.png__l.jpg"
+  loadingUrl="undefined" />
 
 [PODCAST MIT ANNE &amp; MATZE IM INTERVIEW BEI DELA JETZT ANHÖREN](http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/)  
 [](http://www.delasastercast.de/podcast/dc-074-buchclub-spezial-amreis/)

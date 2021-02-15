@@ -39,7 +39,13 @@ subTitle: 10 Fakten über Veganismus – Teil VIII
   
 ---
 
-![Bitte trage keinen Pelz!](https://cardamonchai.files.wordpress.com/2014/11/15582329425_4ea402f130_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bitte trage keinen Pelz!")
+<RemoteImage
+  alt="Bitte trage keinen Pelz!"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bitte trage keinen Pelz!"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/15582329425_4ea402f130_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/11/15582329425_4ea402f130_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 **
 [_Hier gehts zu Teil 7 des Artikels_](/2014/10/16/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
@@ -60,7 +66,13 @@ hängen Kleidungsstücke, die mit Pelz besetzt sind.
 
 ### **Es fehlt eine Auszeichnungspflicht für Echtpelz**
 
-![Pelztier](https://cardamonchai.files.wordpress.com/2014/11/9587809207_e7cd67eede_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Pelztier")
+<RemoteImage
+  alt="Pelztier"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Pelztier"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/9587809207_e7cd67eede_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/11/9587809207_e7cd67eede_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Das Problem: Die meisten Pelze sind nicht als solche ausgezeichnet. Erst gestern
 führte ich wieder ein Gespräch mit einer jungen Mutter, die ihrem 1-jährigen
@@ -81,7 +93,13 @@ ausgehen, dass das Fell an der Kapuze auch aus Polyacryl ist.
 
 ### **Hunde und Katzenfell wird unter Phantasienamen verkauft**
 
-![Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen? ](https://cardamonchai.files.wordpress.com/2014/11/11511411436_36697d37d0_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen?")
+<RemoteImage
+  alt="Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen? "
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Straßenkatze - Endet sie vielleicht bald schon als Pelzkragen?"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/11511411436_36697d37d0_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/11/11511411436_36697d37d0_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Hinzu kommen Phantasiebezeichnungen, die sich die Pelzindustrie ausgedacht hat,
 um die Verbraucher bewusst zu täuschen. Loup d'Asie, Bio-Wolf, Corsac Fox und
@@ -105,7 +123,13 @@ werden dort als Kunstpelze verkauft.
 
 ### **Grausame Bedingungen auf Pelzfarmen**
 
-![In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten](https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo.jpg?w=199 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten")
+<RemoteImage
+  alt="In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  In diesen Käfigen werden die Tiere auf den Pelzfarmen gehalten"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo.jpg?w=199"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo.jpg?w=199"
+  loadingUrl="undefined" />
 
 Die Pelztiere werden unter unvorstellbaren Bedingungen auf engstem Raum in
 Käfigen gehalten, sie haben keinen Platz sich umzudrehen. Sie werden erschlagen,
@@ -134,7 +158,13 @@ nicht nach Kunststoff, kann man sich sicher sein.
 
 ### **Beim Einkaufen ist Vorsicht geboten**
 
-![Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?](https://cardamonchai.files.wordpress.com/2014/11/9645840511_7953ee07d6_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?")
+<RemoteImage
+  alt="Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/9645840511_7953ee07d6_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/11/9645840511_7953ee07d6_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 Eine weitere Methode ist es, den Fall der Haare zu beobachten. Bewegen sie sich
 beim Dagegenpusten oder im Wind leicht, haben einen „Strich“, wie wenn ein
@@ -167,7 +197,13 @@ und Grundwasser.
 
 ### **Bis zu 200 Chinchillas sterben für einen Pelzmantel**
 
-![Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?](https://cardamonchai.files.wordpress.com/2014/11/9590467002_a47050b74a_z.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Vielleicht schon bald ein Pelzbesatz?")
+<RemoteImage
+  alt="Straßenhund - Endet er vielleicht schon bald als Pelzkapuze?"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Vielleicht schon bald ein Pelzbesatz?"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/9590467002_a47050b74a_z.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/11/9590467002_a47050b74a_z.jpg?w=300"
+  loadingUrl="undefined" />
 
 In Deutschland gibt es auch heute noch 10 Pelztierfarmen, auf denen die Tiere
 bis zur grausamen „Pelzernte“ auf engstem Raum in Drahtkäfigen gehalten werden,
@@ -191,7 +227,13 @@ sind, kann es sich um Echtpelz handeln!
 
 ### **Bitte gebt die Infos weiter!**
 
-![Gemeinsam stark gegen die Pelzindustrie](https://cardamonchai.files.wordpress.com/2014/11/augsburg-pelzfrei_-30.jpg?w=300 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Gemeinsam stark gegen die Pelzindustrie")
+<RemoteImage
+  alt="Gemeinsam stark gegen die Pelzindustrie"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Gemeinsam stark gegen die Pelzindustrie"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/augsburg-pelzfrei_-30.jpg?w=300"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/11/augsburg-pelzfrei_-30.jpg?w=300"
+  loadingUrl="undefined" />
 
 Bitte gebt die Infos weiter, es ist wichtig, dass so viele Menschen wie möglich
 aufgeklärt werden, dass der Gedanke weitergegeben wird und die Händler auf ihrer
@@ -218,6 +260,12 @@ Inhaltsverzeichnis "10 Fakten über Veganismus"1.
     [Gelabelt](http://www.gelabelt.de/fakten.php),
     [Echtpelz erkennen](http://www.gelabelt.de/echtpelz.php)
 
-![Tierrechtsdemo in Augsburg | large](https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo-391.jpg?w=646 "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Tierrechtsdemo in Augsburg")
+<RemoteImage
+  alt="Tierrechtsdemo in Augsburg"
+  size="large"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Tierrechtsdemo in Augsburg"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo-391.jpg?w=646"
+  largeUrl="https://cardamonchai.files.wordpress.com/2014/11/tierrechtsdemo-391.jpg?w=646"
+  loadingUrl="undefined" />
 
   

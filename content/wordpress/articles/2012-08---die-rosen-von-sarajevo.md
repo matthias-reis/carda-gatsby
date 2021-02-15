@@ -74,7 +74,13 @@ oder an die
 [Bosnienhilfe](http://www.muenchen-international.de/akteure/a-z/bosnienhilfe-solln/)
 wenden, die es in vielen deutschen Städten gibt.** _
 
-![](http://cardamonchai.com/wp-content/uploads/2012/08/mg_01961-640x439.jpg "Foto auf Ziegel Anne 6/2012")
+<RemoteImage
+  alt=""
+  size="medium"
+  title="Foto auf Ziegel Anne 6/2012"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mg_01961__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_mg_01961__l.jpg"
+  loadingUrl="undefined" />
 
 Merken
 

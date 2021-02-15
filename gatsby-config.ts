@@ -1,6 +1,6 @@
 export default {
   siteMetadata: {
-    title: "Cardamonchai.com",
+    title: 'Cardamonchai.com',
     description: "Rock'n'Roll vegan.",
     siteUrl: `https://cardamonchai.com`,
   },
@@ -13,67 +13,67 @@ export default {
       },
     },
     {
-      resolve: "gatsby-plugin-sitemap",
+      resolve: 'gatsby-plugin-sitemap',
       options: {
         createLinkInHead: true,
       },
     },
-    "gatsby-plugin-webpack-size",
-    "gatsby-plugin-react-helmet",
+    'gatsby-plugin-webpack-size',
+    'gatsby-plugin-react-helmet',
     `gatsby-transformer-yaml`,
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static/img`,
-        name: "uploads",
+        name: 'uploads',
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/pages`,
-        name: "page",
+        name: 'page',
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/articles`,
-        name: "article",
+        name: 'article',
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/wordpress/articles`,
-        name: "wordpress",
+        name: 'wordpress',
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/config`,
-        name: "config",
+        name: 'config',
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static/img`,
-        name: "uploads",
+        name: 'uploads',
       },
     },
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
-        extensions: [".mdx", ".md"],
+        extensions: ['.mdx', '.md'],
         gatsbyRemarkPlugins: [
-          { resolve: "gatsby-remark-numbered-footnotes" },
+          { resolve: 'gatsby-remark-numbered-footnotes' },
           {
-            resolve: "gatsby-remark-relative-images",
+            resolve: 'gatsby-remark-relative-images',
             options: {
-              name: "uploads",
+              staticFolderName: 'static',
             },
           },
           {
@@ -86,20 +86,20 @@ export default {
         ],
       },
     },
-    "gatsby-plugin-sharp",
+    'gatsby-plugin-sharp',
     {
-      resolve: "gatsby-transformer-sharp",
+      resolve: 'gatsby-transformer-sharp',
       options: {
         checkSupportedExtensions: false,
       },
     },
     {
-      resolve: "gatsby-plugin-netlify-cms",
+      resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms.ts`,
       },
     },
     `gatsby-plugin-emotion`,
-    "gatsby-plugin-netlify", // make sure to keep it last in the array
+    'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 };

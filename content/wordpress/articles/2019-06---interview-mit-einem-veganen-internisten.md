@@ -64,7 +64,13 @@ es hiermit erneut.
 
 ## Dr. Hanno Platz aus Fischach stellte sich meinen Fragen
 
-![dr-hanno-platz | full](http://cardamonchai.com/wp-content/uploads/2019/06/Dr.-Hanno-Platz.jpg)
+<RemoteImage
+  alt="dr-hanno-platz"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Dr.-Hanno-Platz__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Dr.-Hanno-Platz__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Hallo Herr Dr. Hanno Platz, vielen Dank, dass sie sich Zeit für dieses
 Interview nehmen!
@@ -147,7 +153,13 @@ wird, fußend auf Nichtkenntnis. Das stimmt mich jedes Mal sehr traurig.
 
 ## Im Wartezimmer liegen vegane Rezepte statt Boulevardblättern
 
-![dr-hanno-platz](http://cardamonchai.com/wp-content/uploads/2019/06/Vegane-Infos-im-Wartezimmer-400x533.jpg "Vegane Infos im Wartezimmer")
+<RemoteImage
+  alt="dr-hanno-platz"
+  size="medium"
+  title="Vegane Infos im Wartezimmer"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Vegane-Infos-im-Wartezimmer__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Vegane-Infos-im-Wartezimmer__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Sie betreiben eine Praxis in Fischach, einem kleinen Ort nahe
 Augsburg. Sicher kommen zu ihnen nicht nur Veganer\*innen, sondern auch viele,
@@ -209,7 +221,13 @@ Antwort darauf, bitte!
 
 > ## "Ich antworte gerne mit Vergleichen"
 
-![dr-hanno-platz](http://cardamonchai.com/wp-content/uploads/2019/06/Das-Sprechzimmer-400x300.jpg "Das Sprechzimmer")
+<RemoteImage
+  alt="dr-hanno-platz"
+  size="medium"
+  title="Das Sprechzimmer"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Das-Sprechzimmer__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Das-Sprechzimmer__l.jpg"
+  loadingUrl="undefined" />
 
 **Dr. Hanno Platz:** Natürlich bekomme ich diese Phrasen auch in meiner Praxis
 zu hören. Nur wissen, dank konsequenter Aufklärungsarbeit, mittlerweile immer
@@ -297,7 +315,13 @@ zu nahezu jedem Supplement etwas Negatives im Netz findet.
 
 > ## "Alle schreiben einfach ihre Meinung"
 
-![dr-hanno-platz](http://cardamonchai.com/wp-content/uploads/2019/06/Das-Praxisgebäude-400x200.jpg "Das Praxisgebäude")
+<RemoteImage
+  alt="dr-hanno-platz"
+  size="medium"
+  title="Das Praxisgebäude"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Das-Praxisgeba%CC%88ude__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Das-Praxisgeba%CC%88ude__l.jpg"
+  loadingUrl="undefined" />
 
 **Dr. Hanno Platz:** Das ist genau das Problem mit den Antworten auf Fragen im
 Internet. Jede\*r schreibt einfach seine Meinung, ohne dass der Inhalt

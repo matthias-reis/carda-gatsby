@@ -75,7 +75,13 @@ habe und je tiefer ich in mein Leben als Yogi eingetaucht bin, desto klarer
 wurde mir, dass eine vegetarische Ernährung nicht viel besser ist, als Fleisch
 zu essen. Entweder ganz oder gar nicht.
 
-![Planet Backpack | small](http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-51-375x250-200x133.jpg)
+<RemoteImage
+  alt="Planet Backpack"
+  size="small"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-51-375x250-200x133.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-51-375x250-200x133.jpg"
+  loadingUrl="undefined" />
 
 ## "Vegan auf Reisen kann eine Herausforderung sein" **Anne:** Einige von uns haben das ja auch schon erlebt, vegan auf Reisen, das kann zu einer ganz schönen Herausforderung werden, erst vor Kurzem habe ich zum Beispiel [ein Interview mit einem Yakutien- und Sibirienreisenden gemacht](/2015/01/ich-hatte-noch-nie-heimweh/), der ist wirklich an seine Grenzen gekommen. Gab es für Dich auch schon solche Grenzsituationen?
 
@@ -99,7 +105,13 @@ solche Situationen kommen vor und dann ist das eben so. Abhaken und
 weitermachen. Mein Ekel vor tierischen Milchprodukten wird allerdings immer
 größer, sodass ich dann häufig lieber eine Zeitlang hungere.
 
-![Planet Backpack | small](http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-79-375x250-200x133.jpg)
+<RemoteImage
+  alt="Planet Backpack"
+  size="small"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-79-375x250-200x133.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-79-375x250-200x133.jpg"
+  loadingUrl="undefined" />
 
 ## "Es geht nicht um Hundertprozentigkeit" **Anne:** Kannst Du mir einen Tipp geben, wie man solche Situationen umgehen bzw. überstehen kann?
 
@@ -136,7 +148,13 @@ nach Thailand. Da war dann auch der Bann gebrochen, die Welt immer weiter zu
 erkunden und das mache ich seitdem auch. Mein Reiseblock Planet Backpack3 habe
 ich erst nach vielen Jahren Reise gegründet.
 
-![Planet Backpack | small](http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-18-Edit-375x250-200x133.jpg)
+<RemoteImage
+  alt="Planet Backpack"
+  size="small"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-18-Edit-375x250-200x133.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-18-Edit-375x250-200x133.jpg"
+  loadingUrl="undefined" />
 
 ## "Ich bin eine digitale Zen Nomadin" **Anne:** Du bezeichnest Dich selbst als Zen Nomadin. Was muss ich mir darunter vorstellen?
 
@@ -171,7 +189,13 @@ hilft es, sich mit Menschen zu umgeben, die das Selbe schon mal gemacht haben
 oder vorhaben. Außerdem hilft es sehr, viel über das Thema Langzeitreisen zu
 lesen.
 
-![Planet Backpack | small](http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-29-375x250-200x133.jpg)
+<RemoteImage
+  alt="Planet Backpack"
+  size="small"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-29-375x250-200x133.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2020/04/Conni-day-2-29-375x250-200x133.jpg"
+  loadingUrl="undefined" />
 
 ## "Man sollte nicht damit warten, sich seine Träume zu erfüllen"Wichtig ist auch, sich immer wieder vor Augen zu halten, dass man nur ein Leben hat und es wichtig ist, nicht zu lange damit zu warten, sich seine zu Träume zu erfüllen. Das Leben ist so viel mehr als nur ein Job und ein Zuhause.
 

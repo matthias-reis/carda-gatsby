@@ -46,7 +46,13 @@ subTitle: Phantasievolle Heißgetränke
 
 _Werbung\*_
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33611000980_c93e03a3e0_z-640x427.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor Kurzem erreichte mich eine liebe E-Mail aus dem Hause  _Smecket_ . Ob ich
 vielleicht Lust hätte, ein paar Teesorten zu probieren und darüber zu berichten
@@ -64,7 +70,13 @@ Dose.
 
 > Hm, wie das duftet!
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33954994956_a6ce45346c_z.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33954994956_a6ce45346c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33954994956_a6ce45346c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ein wunderbarer Duft strömte mir aus der Dose entgegen und ich konnte mich nicht
 zusammenreißen, ich musste den Tee probieren. So wie er war. Ich griff in die
@@ -86,13 +98,25 @@ Kokos ist Koffein-frei. 9/10 Geschmackspunkten
 
 <div style="font-size: 0;"></div>
 
-![Smecket | full](http://cardamonchai.com/wp-content/uploads/2017/04/33996381365_b76c3867ee_z.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996381365_b76c3867ee_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996381365_b76c3867ee_z__l.jpg"
+  loadingUrl="undefined" />
 
 <hr />
 
 ## Grüner Bio Tee Lemongras &amp; Grüne Minze
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33183703883_d09072102f_z.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33183703883_d09072102f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33183703883_d09072102f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Am Abend saß ich gemütlich vor dem Fernseher und schaut mir einen Krimi an.
 Zeit, die Sorte Lemongras-Grüne Minze zu testen. Normalerweise gebe ich meinem
@@ -110,13 +134,25 @@ Koffein-haltig. 8/10 Geschmackspunkten
 
 <div style="font-size: 0;"></div>
 
-![Smecket | full](http://cardamonchai.com/wp-content/uploads/2017/04/33996377795_f9503693e6_z.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996377795_f9503693e6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996377795_f9503693e6_z__l.jpg"
+  loadingUrl="undefined" />
 
 <hr />
 
 ## Weißer Bio Tee Rosenblüte &amp; Vanille
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33866715251_29eeef134e_z.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33866715251_29eeef134e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33866715251_29eeef134e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Last but not least testete ich den Weißen Tee Rosenblüte-Vanille. Weißer Tee ist
 schon immer einer meiner Favoriten. Er ist leicht bekömmlich und enthält, wenn
@@ -142,13 +178,25 @@ Teelöffel auf einen Liter, die Ziehzeit 2 Minuten. Die Sorte ist Koffein-haltig
 
 <div style="font-size: 0;"></div>
 
-![Smecket | full](http://cardamonchai.com/wp-content/uploads/2017/04/33838803752_d2c862a7c7_z.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33838803752_d2c862a7c7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33838803752_d2c862a7c7_z__l.jpg"
+  loadingUrl="undefined" />
 
 <hr />
 
 ## Smecket ist bio-zertifiziert und vegan
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33996398955_59e7c7dbb5_z.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996398955_59e7c7dbb5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996398955_59e7c7dbb5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Alle Sorten von  _Smecket_ sind vegan und bio-zertifiziert (Öko Kontrollstelle
 DE-ÖKO-021). Auf künstliche Aromen und Geschmacksverstärker wird bei der
@@ -167,7 +215,13 @@ die Geschichte, die hinter der Tee-Manufaktur aus Seelze steckt:
 
 steht auf den Dosen.
 
-![Smecket](http://cardamonchai.com/wp-content/uploads/2017/04/33153020204_5f46094ff4_z-640x427.jpg)
+<RemoteImage
+  alt="Smecket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33153020204_5f46094ff4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33153020204_5f46094ff4_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gegründet wurde  _Smecket_ von Daniel Weiss und seiner Frau. Von sich selbst
 sagt er, dass sein Faible für Tee und gesunde, vegetarische Ernährung ihn 2016

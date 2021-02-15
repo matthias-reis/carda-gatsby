@@ -42,7 +42,13 @@ subTitle: Die Fliege
   
 ---
 
-![Metamorphose](http://cardamonchai.com/wp-content/uploads/2014/08/14895594333_2900fb7150_z-640x480.jpg)
+<RemoteImage
+  alt="Metamorphose"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_14895594333_2900fb7150_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_14895594333_2900fb7150_z__l.jpg"
+  loadingUrl="undefined" />
 
 Du bindest morgens wieder Deine Schuhe zu und gehst in den Tag. Dein Proviant
 vergisst Du genauso wie früher, aber das macht Dir nichts mehr aus, denn Du

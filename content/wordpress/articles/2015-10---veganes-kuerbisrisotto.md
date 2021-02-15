@@ -68,7 +68,13 @@ Abendessen beschlossene Sache.
 - Pfeffer
 - Evtl. etwas Salz## Zubereitung
 
-![Veganes Kürbisrisotto](http://cardamonchai.com/wp-content/uploads/2015/10/21317111274_16c4c7655f_z.jpg "[ ](/wp-content/uploads/2015/10/21317111274_16c4c7655f_z.jpg)  Veganes Kürbisrisotto")
+<RemoteImage
+  alt="Veganes Kürbisrisotto"
+  size="medium"
+  title="[ ](/wp-content/uploads/2015/10/21317111274_16c4c7655f_z.jpg)  Veganes Kürbisrisotto"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21317111274_16c4c7655f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21317111274_16c4c7655f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Den Kürbis, die Paprika und die Schalotte in kleine Würfelchen schneiden. Falls
 der Kürbis viele Kerne hat, könnt Ihr diese mit einem Löffel "herausschneiden"

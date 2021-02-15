@@ -73,6 +73,12 @@ Eurer nicht so stark sein, müsst Ihr gegebenenfalls mit dem Stabmixer
 nachhelfen. :-) Den Kürbis könnt Ihr zum Beispiel toll mit Couscous Granatapfel
 Salat essen. Das sieht dann so aus:
 
-![Butternut | large](http://cardamonchai.com/wp-content/uploads/2016/10/IMG_0061-800x800.jpg)
+<RemoteImage
+  alt="Butternut"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_10_IMG_0061__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_10_IMG_0061__l.jpg"
+  loadingUrl="undefined" />
 
   

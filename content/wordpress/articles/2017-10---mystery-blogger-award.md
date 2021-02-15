@@ -29,7 +29,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:13)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (38:13)"
 thumbnailId: "18216"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__l.jpg
@@ -38,7 +38,7 @@ subTitle: Kohlrabi und Deichkind
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (32:13)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (38:13)
 
 <!--
 **Vor einigen Tagen wurde ich von Björn vom Blog
@@ -60,7 +60,13 @@ in erster Linie dreht, antworten werden.
 
 ## Was unterscheidet den Mystery Blogger Award von anderen Blogger Awards?
 
-![Mystery Blogger Award](http://cardamonchai.com/wp-content/uploads/2017/10/the-mystery-blogger-award-300x302.png)
+<RemoteImage
+  alt="Mystery Blogger Award"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_the-mystery-blogger-award.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_the-mystery-blogger-award.png__l.jpg"
+  loadingUrl="undefined" />
 
 Ausgedacht hat sich den _Mystery Blogger Award_ vor einiger Zeit
 [Okoto Enigma](https://www.okotoenigmasblog.com/). Ihre Motivation dahinter

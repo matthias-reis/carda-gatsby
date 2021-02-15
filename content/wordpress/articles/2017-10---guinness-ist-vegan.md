@@ -35,7 +35,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (56:40)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (68:40)"
 thumbnailId: "18122"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
@@ -44,7 +44,7 @@ subTitle: Besuch der Guinness Brauerei in Dublin
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (56:40)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (68:40)
 
 <!--
 **Traditionell wurde Guiness schon früher ohne den Klärvorgang mit Hausenblase
@@ -62,7 +62,13 @@ Auch in seinem Ursprungsland Irland.
 
 ## Bei Guinness braut man wieder nach der ursprünglichen Brauart
 
-![Guinness](http://cardamonchai.com/wp-content/uploads/2017/10/guinness-2-300x200.jpg)
+<RemoteImage
+  alt="Guinness"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_guinness-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_guinness-2__l.jpg"
+  loadingUrl="undefined" />
 
 Das haben wir auf unserem Roadtrip durch Irland auch getan. Und in Dublin sogar
 die St. James Gate Brewery mit dem angeschlossenen Store House Museum besucht,
@@ -81,7 +87,13 @@ eingelassen.
 
 ## Nicht nur Veganer freuen sich
 
-![Guinness](http://cardamonchai.com/wp-content/uploads/2017/10/guinness-3-300x400.jpg)
+<RemoteImage
+  alt="Guinness"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_guinness-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_guinness-3__l.jpg"
+  loadingUrl="undefined" />
 
 Veganer freut das natürlich und mit Sicherheit ist es somit auch ein neues
 Kaufargument für einen kleinen Teil der Kundschaft. Es stimmt jedoch nicht, dass

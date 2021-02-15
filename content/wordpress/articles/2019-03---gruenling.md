@@ -53,7 +53,13 @@ Spurenelementen und Nährstoffen.
 - 1 Tasse kaltes Wasser
 - 1 EL hochwertiges Leinöl
 
-![smoothie](http://cardamonchai.com/wp-content/uploads/2019/03/2019-03-07-smoothie-gruenling-1-400x533.jpg "Im Grünling stecken viele gesunde Zutaten!")
+<RemoteImage
+  alt="smoothie"
+  size="medium"
+  title="Im Grünling stecken viele gesunde Zutaten!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling-1__l.jpg"
+  loadingUrl="undefined" />
 
 Gib alles in den Mixer und warte, bis sich ein schönes Getränk ergeben hat. Das
 Leinöl gibst Du kurz vor Schluss hinzu. Es löst nicht nur die **Vitamine** - es

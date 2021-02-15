@@ -36,7 +36,13 @@ Jeder kann einen Beitrag zum Tierschutz leisten, indem er tierversuchsfreie
 Kosmetik benutzt. Das ist leider oft nicht so einfach, da auf den Produkten
 keine Vermerke stehen, die auf Tierversuche hinweisen.
 
-![Demonstration gegen Tierversuche Bild: PETA](http://cardamonchai.com/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21-640x480.jpg "[ ](/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21.jpg)  Demonstration gegen Tierversuche Bild: PETA")
+<RemoteImage
+  alt="Demonstration gegen Tierversuche Bild: PETA"
+  size="medium"
+  title="[ ](/wp-content/uploads/2011/02/tierversuche-demo-covance-2006-21.jpg)  Demonstration gegen Tierversuche Bild: PETA"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_tierversuche-demo-covance-2006-21__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_02_tierversuche-demo-covance-2006-21__l.jpg"
+  loadingUrl="undefined" />
 
 Listen mit Kosmetikfirmen, die Ihre Produkte garantiert NICHT an Tieren testen
 sind zu finden unter:

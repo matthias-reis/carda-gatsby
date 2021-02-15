@@ -49,7 +49,13 @@ wieder vergessen werden.
 
 ## Ein völlig spontaner kreativer Prozess
 
-![](http://cardamonchai.com/wp-content/uploads/2019/09/cult-of-luna-anne-reis-400x300.jpg "Cult Of Luna im Münchener Feierwerk am 4. Mai 2014 - so sieht Begeisterung aus.")
+<RemoteImage
+  alt=""
+  size="medium"
+  title="Cult Of Luna im Münchener Feierwerk am 4. Mai 2014 - so sieht Begeisterung aus."
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-anne-reis__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-anne-reis__l.jpg"
+  loadingUrl="undefined" />
 
 Über die sozialen Netzwerke teilte Sänger, Gitarrist und Hauptsongschreiber
 Johannes Persson mit, dass die Band im Vorfeld genau wusste, was für eine Art
@@ -88,7 +94,13 @@ unfassbaren Kreativität und Vielfalt der Schweden.
 
 ## "A Dawn To Fear" ist ein Wechselbad der Gefühle
 
-![cult-of-luna-a-dawn-to-fear](http://cardamonchai.com/wp-content/uploads/2019/09/cult-of-luna-a-dawn-to-fear-400x400.jpg)
+<RemoteImage
+  alt="cult-of-luna-a-dawn-to-fear"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-a-dawn-to-fear__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-a-dawn-to-fear__l.jpg"
+  loadingUrl="undefined" />
 
 Im einen Moment legt die Band mit ihren Riffs noch alles in Schutt und Asche, um
 ein paar Augenblicke später von nachdenklicher Umklammerung in luftige

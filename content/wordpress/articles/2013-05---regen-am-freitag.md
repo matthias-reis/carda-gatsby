@@ -52,9 +52,21 @@ subTitle: Mit musikalischer Untermalung
   
 ---
 
-![Die Nachbarn flüchten schon](http://cardamonchai.files.wordpress.com/2013/05/img_5504.jpg?w=300 "Die Nachbarn flüchten schon")
+<RemoteImage
+  alt="Die Nachbarn flüchten schon"
+  size="medium"
+  title="Die Nachbarn flüchten schon"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5504.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5504.jpg?w=300"
+  loadingUrl="undefined" />
 
-![Der Kater wärmt schon mal das Handtuch](http://cardamonchai.files.wordpress.com/2013/05/img_5505.jpg?w=300 "Der Kater wärmt schon mal das Handtuch")
+<RemoteImage
+  alt="Der Kater wärmt schon mal das Handtuch"
+  size="medium"
+  title="Der Kater wärmt schon mal das Handtuch"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5505.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5505.jpg?w=300"
+  loadingUrl="undefined" />
 
 Außerdem habe ich das Wetter ja auch
 [vorgestern erst offiziell zur Nebensache erklärt](//2013/05/29/neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg/),
@@ -86,7 +98,13 @@ _Viel Spaß damit! Und ein wundertolles Wochenende! Ich tauche jetzt mit der
 Musik von Dave, Trent und Josh in der Badewanne ab und lese ein paar Seiten in
 diesem wundervollen Buch:_
 
-![Stay home read a book | full](http://cardamonchai.files.wordpress.com/2013/05/img_5507.jpg "Stay home read a book")
+<RemoteImage
+  alt="Stay home read a book"
+  size="full"
+  title="Stay home read a book"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5507.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/05/img_5507.jpg"
+  loadingUrl="undefined" />
 
 _Bis bald! Tschüss!_
 [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)

@@ -27,7 +27,13 @@ subTitle: So erlebten wir Hamburger die Krawalle
   
 ---
 
-![G20 Gipfel](http://cardamonchai.com/wp-content/uploads/2017/07/19942836_1912374132335861_9174963676286235512_o-640x640.jpg)
+<RemoteImage
+  alt="G20 Gipfel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Wie ich Euch schon [erzählt habe](/2017/07/nog20/), bat mich der liebe Thomas
 vom _Volksverpetzer_ um einen Beitrag zum Thema G20 Gipfel. In dem ganzen Trubel
@@ -41,7 +47,13 @@ Unter dem Link findet Ihr seine ganze Geschichte zum G20 Gipfel
 
 ## Der G20 Gipfel - Matzes Erlebnisse zusammengefasst
 
-![G20 Gipfel | full](http://cardamonchai.com/wp-content/uploads/2017/07/Bildschirmfoto-2017-07-08-um-21.18.23.png)
+<RemoteImage
+  alt="G20 Gipfel"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](http://www.mimikama.at/volksverpetzer/hamburg/)
 

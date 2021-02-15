@@ -42,7 +42,13 @@ subTitle: Vielleicht das beste Konzert aller Zeiten
   
 ---
 
-![Warten auf die beste Band der Welt](http://cardamonchai.files.wordpress.com/2013/04/img_4521.png?w=300 "Warten auf die beste Band der Welt")
+<RemoteImage
+  alt="Warten auf die beste Band der Welt"
+  size="medium"
+  title="Warten auf die beste Band der Welt"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4521.png?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4521.png?w=300"
+  loadingUrl="undefined" />
 
 **Am Mittwoch war es endlich mal wieder so weit und
 [Amplifier](http://www.amplifiertheband.com) spielten ein Konzert in unserer
@@ -59,7 +65,13 @@ Macbook und eine Loopmachine ausgestattet. Als seine Gitarre bei einer kleinen
 Bodypercussion-Einlage einen Riss bekam, trug er es mit Humor 'Schließlich ist
 es immer noch irgendwie Rock´n`Roll', lachte er.
 
-![Charlie Barnes](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300 "[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg)  Charlie Barnes")
+<RemoteImage
+  alt="Charlie Barnes"
+  size="medium"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg)  Charlie Barnes"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4525.jpg?w=300"
+  loadingUrl="undefined" />
 
 Als Amplifier die Bühne betraten, glühte das Publikum nur so. Man konnte
 regelrecht spüren, wie sich alle freuten, ihr 'alten Bekannten' endlich wieder
@@ -79,7 +91,13 @@ im Publikum wiedererkannten und sich für die Treue bedankten.
 
 ## Entspannte Künstler
 
-![Ampflifier](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300 "[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg)  Ampflifier")
+<RemoteImage
+  alt="Ampflifier"
+  size="medium"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg)  Ampflifier"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4526.jpg?w=300"
+  loadingUrl="undefined" />
 
 Doch nicht genug: Sel legte seine Gitarre ab, lies uns daran zupfen (ich konnte
 ihr sogar einen Kuss aufdrücken!), badetet ein Bisschen in der Menge und gab
@@ -94,7 +112,13 @@ auf ihn zustiefelte, mich für die gelungene Show bedankte und ihm erzählte, da
 ich Amplifier inzwischen 10 Mal auf der Bühne gesehen hätte und mich schon auf
 das nächste Konzert freuen würde.
 
-![Sel Balamir](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300 "[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg)  Sel Balamir")
+<RemoteImage
+  alt="Sel Balamir"
+  size="medium"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg)  Sel Balamir"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4578.jpg?w=300"
+  loadingUrl="undefined" />
 
 Ich drückte ihm meine Eintrittskarte in die Hand und wir begannen beide nach
 einen Kugelschreiber zu wühlen. Schließlich stellte ich enttäuscht fest, dass
@@ -107,7 +131,13 @@ klingt viel romantischer', meinte er und signierte das Ticket: 'To Anne - Thanks
 10 Million Times &lt;3 Sel.' Anschließend drückte er mich noch, bis mir fast die
 Luft weg blieb und ich bedankte mich noch mal.
 
-![Das Autogram](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300 "[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg)  Das Autogram")
+<RemoteImage
+  alt="Das Autogram"
+  size="medium"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg)  Das Autogram"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4580.jpg?w=300"
+  loadingUrl="undefined" />
 
 Das Ganze filmte er mit der Helm-Kamera, die Matt Brobin beim großen Finale an
 den Drums getragen hatte. Wir trafen noch einen jungen Mann, der uns erzählte,
@@ -122,7 +152,13 @@ Entschädigung für den Stau, der verhinderte, dass wir pünktlich zum Steven
 Wilson Konzert kamen und für das abgesagt
 [Amanda Palmer Konzert](//2013/03/11/konzert-abgesagt-ticketshop-uberfordert-neues-aus-der-servicewuste/).
 
-![Die Setlist](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300 "[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg)  Die Setlist")
+<RemoteImage
+  alt="Die Setlist"
+  size="medium"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg)  Die Setlist"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/img_4582.jpg?w=300"
+  loadingUrl="undefined" />
 
 Ich bin schon sehr gespannt auf das nächste Amplifier-Konzert und hoffe, dass
 ich nicht so lange darauf warten muss!

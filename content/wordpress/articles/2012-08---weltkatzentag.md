@@ -57,7 +57,13 @@ Teint.
 
 Weltkatzentag. Den sollte man feiern. Liegend auf dem Sofa.
 
-![Weltkatzentag](http://cardamonchai.com/wp-content/uploads/2012/08/931cda54e0ad11e1b18c12313d051969_7.jpg "Tiefe, innige, ehrliche Liebe. Und dann erst mal den Blumentopf leer schaufeln. So süß. ♥ Anne Reko 8/2012")
+<RemoteImage
+  alt="Weltkatzentag"
+  size="medium"
+  title="Tiefe, innige, ehrliche Liebe. Und dann erst mal den Blumentopf leer schaufeln. So süß. ♥ Anne Reko 8/2012"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_931cda54e0ad11e1b18c12313d051969_7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_931cda54e0ad11e1b18c12313d051969_7__l.jpg"
+  loadingUrl="undefined" />
 
 In der Nacht vom Urlaub geträumt. Wäre schön, wenn das mit der Woche im Süden
 dieses Jahr noch klappt. Ich sehne mich nach der Sonne.

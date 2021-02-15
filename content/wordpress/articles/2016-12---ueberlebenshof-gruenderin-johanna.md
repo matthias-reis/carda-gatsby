@@ -58,7 +58,13 @@ verraten.
 
 ## "Ich genieße das diesige Wetter"
 
-![Johanna](http://cardamonchai.com/wp-content/uploads/2016/12/WhatsApp-Image-2016-11-26-at-14.00.15-640x853.jpeg "Johanna und Britta")
+<RemoteImage
+  alt="Johanna"
+  size="medium"
+  title="Johanna und Britta"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_WhatsApp-Image-2016-11-26-at-14.00.15.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_WhatsApp-Image-2016-11-26-at-14.00.15.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Liebe Josi, erst mal vielen Dank, dass Du Dir erneut die Zeit für ein
 Interview nimmst! Wie geht es Dir heute bei diesem schönen nordischen Wetter?
@@ -85,7 +91,13 @@ im Norden neu anzufangen.
 
 **Johanna:** In der Nähe von Cuxhaven. In dem kleinen, langen Örtchen Bülkau.
 
-![Johanna](http://cardamonchai.com/wp-content/uploads/2016/12/13669215_828410747294065_9109130476546866213_n.jpg "Bommel, Shady und TomTom")
+<RemoteImage
+  alt="Johanna"
+  size="medium"
+  title="Bommel, Shady und TomTom"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__l.jpg"
+  loadingUrl="undefined" />
 
 ## "Eine Freundin hat uns geholfen, die Katzen zu transportieren"
 
@@ -129,7 +141,13 @@ Hilfsbereitschaft der Menschen, die hier leben.
 Norden wirklich groß geschrieben. Besonders mit Freunden kochen hat eine große
 Tradition. Kocht Ihr immer selbst oder geht Ihr auch mal essen?
 
-![Johanna](http://cardamonchai.com/wp-content/uploads/2016/12/13669215_828410747294065_9109130476546866213_n.jpg "Bommel, Shady und TomTom")
+<RemoteImage
+  alt="Johanna"
+  size="medium"
+  title="Bommel, Shady und TomTom"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13669215_828410747294065_9109130476546866213_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Johanna:** Wir gehen auch oft essen. Aber nicht so, wie man sich das
 vorstellt. Dadurch, dass unsere Küche erst im November fertig wurde, haben wir
@@ -164,7 +182,13 @@ wie Schweine oder Schafe in Frage?
 
 ## "Freiheit und Unversehrtheit sind das höchste Gut eines Lebewesens"
 
-![Johanna](http://cardamonchai.com/wp-content/uploads/2016/12/13707652_829833457151794_3889689919982864409_n.jpg "Agata")
+<RemoteImage
+  alt="Johanna"
+  size="medium"
+  title="Agata"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13707652_829833457151794_3889689919982864409_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13707652_829833457151794_3889689919982864409_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Johanna:** Wir haben noch zwei Katzen-Kitten aufgenommen. Weitere Tiere sind
 nicht geplant. Das können wir einfach finanziell nicht mehr stemmen. Sollte
@@ -233,7 +257,13 @@ letzten drei Jahren geändert? Positiv und negativ?
 
 ## "Die Leute müssen aufhören, ihre hausgemachten Probleme auf Menschen abzuwälzen, die nichts dafür können"
 
-![Johanna](http://cardamonchai.com/wp-content/uploads/2016/12/13700008_828410703960736_3876966762070270544_n.jpg "Das erste Mal in Freiheit")
+<RemoteImage
+  alt="Johanna"
+  size="medium"
+  title="Das erste Mal in Freiheit"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13700008_828410703960736_3876966762070270544_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13700008_828410703960736_3876966762070270544_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Johanna:** Insgesamt sehe ich eher negative Veränderungen. Seitdem Parteien
 wie die AfD aufgetaucht sind, muss man sich gesellschaftlich und politisch
@@ -261,7 +291,13 @@ Erkenntnissen zu zeigen, was passiert, wenn wir so weiter machen, wie bisher.
 
 ## Johanna hat nachdenkliche Worte für uns zum Jahresende
 
-![Johanna](http://cardamonchai.com/wp-content/uploads/2016/12/13716202_828410643960742_1395915308144654146_n.jpg "In der neuen Heimat")
+<RemoteImage
+  alt="Johanna"
+  size="medium"
+  title="In der neuen Heimat"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13716202_828410643960742_1395915308144654146_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_13716202_828410643960742_1395915308144654146_n__l.jpg"
+  loadingUrl="undefined" />
 
 **Johanna:** Ich weiss es nicht. Ich kann nicht in die Zukunft blicken. Es steht
 auf alle Fälle fest,  dass wir dringend Paten brauchen, die regelmässig Futter

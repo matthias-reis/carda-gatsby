@@ -112,6 +112,12 @@ Kleinasien. Die dort beheimatete Urform nennt sich Brassica oleracea var.
 silvestris. Varianten sind unter anderem Romanesco sowie die in Frankreich sehr
 beliebten bunten Sorten.
 
-![Blumenkohl](http://cardamonchai.com/wp-content/uploads/2018/04/41169032582_474ff2e2f0_z-400x267.jpg)
+<RemoteImage
+  alt="Blumenkohl"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41169032582_474ff2e2f0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41169032582_474ff2e2f0_z__l.jpg"
+  loadingUrl="undefined" />
 
   

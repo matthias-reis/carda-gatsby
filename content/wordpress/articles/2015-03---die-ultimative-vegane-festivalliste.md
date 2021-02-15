@@ -34,7 +34,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (265:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (283:16)"
 thumbnailId: "10367"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_03_9918184096_a390857d9c_o__l.jpg
@@ -43,7 +43,7 @@ subTitle: Mit Gratis-Download zum Ausdrucken
   
 ---
 
-## unknown: Unterminated JSX contents (265:16)
+## unknown: Unterminated JSX contents (283:16)
 
 <!--
 Nachdem Matze und ich seit einiger Zeit vegan leben und ich auch schon von
@@ -53,7 +53,13 @@ nun an der Zeit für die ultimative vegane Festivalliste! Alles, was man als
 der Liste nicht nur Fressalien, sondern auch viele weitere lebenswichtige Dinge
 zu finden. Es lohnt sich also, sie bei der Planung zur Rate zu ziehen.
 
-![Veganes Frühstück auf dem Festival](http://cardamonchai.com/wp-content/uploads/2015/03/14809262091_be6e2024da_z-640x640.jpg "Veganes Frühstück auf dem Festival")
+<RemoteImage
+  alt="Veganes Frühstück auf dem Festival"
+  size="medium"
+  title="Veganes Frühstück auf dem Festival"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14809262091_be6e2024da_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14809262091_be6e2024da_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Dieses Mal gibt es was ganz Besonderes
 
@@ -70,7 +76,13 @@ danach leer ist) zu sitzen und den Handakku aufzuladen.
 
 ## Vom Timetable zur Festivalapp
 
-![Nicht vergessen: Die Tickets](http://cardamonchai.com/wp-content/uploads/2015/03/14725191205_35f327d6cb_z-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Nicht vergessen: Die Tickets")
+<RemoteImage
+  alt="Nicht vergessen: Die Tickets"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Nicht vergessen: Die Tickets"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14725191205_35f327d6cb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14725191205_35f327d6cb_z__l.jpg"
+  loadingUrl="undefined" />
 
 Deshalb neige ich auch nach wir vor dazu (auch, wenn ich unter normalen
 Umständen nicht unbedingt eine Ausdruckerin bin), mir alle wichtigen Infos
@@ -315,7 +327,13 @@ Liste ja schon gefunden habt. Viel Spaß beim Packen! Gebt Bescheid, sollte auf
 der Liste noch was Wichtiges fehlen, ich füge es gerne hinzu. Weiterrocken!
 &lt;3
 
-![vegane-festival-packliste](http://cardamonchai.com/wp-content/uploads/2015/03/festival-packliste-vegan-1-400x600.png)
+<RemoteImage
+  alt="vegane-festival-packliste"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_festival-packliste-vegan-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_festival-packliste-vegan-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
 <div> [

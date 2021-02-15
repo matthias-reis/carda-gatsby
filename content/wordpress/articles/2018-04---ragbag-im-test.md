@@ -38,6 +38,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
+  invalidMdx: "unknown: Unexpected token (11:58)"
 thumbnailId: "20519"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41472283612_5a6c8b5255_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41472283612_5a6c8b5255_z__l.jpg
@@ -46,13 +47,19 @@ subTitle: Faire Taschen aus Teesäcken
   
 ---
 
+## unknown: Unexpected token (11:58)
+
+<!--
 _Werbung\*_
 
 **Ragbag habe ich vor etwa 10 Jahren kennengelernt. Damals sah ich im Dritten
 einen Bericht über die Taschen und Geldbörsen, die das Label in Indien aus
 gesammelten Plastiktüten herstellen lässt.**
 
-![Ragbag](http://cardamonchai.com/wp-content/uploads/2018/04/41089336391_94e68fe6dd_z-400x267.jpg 'Mein "altes" Portemonnaie')
+<RemoteImage alt="Ragbag" size="medium" title="Mein "altes" Portemonnaie"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41089336391_94e68fe6dd_z__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41089336391_94e68fe6dd_z__l.jpg"
+loadingUrl="undefined" />
 
 Mir war ziemlich schnell klar, dass mein neues Portemonnaie auch aus dem Hause
 Ragbag stammen würde. Nach kurzer Suche fand ich einen in einem kleinen
@@ -73,7 +80,13 @@ werden. Das hält den
 möglichst gering und wirkt dem
 [Müllproblem](/2017/08/kenia-sagt-plastiktueten-nein-danke/) entgegen.
 
-![Ragbag](http://cardamonchai.com/wp-content/uploads/2018/04/26217748167_0021fbbd83_z-400x267.jpg)
+<RemoteImage
+  alt="Ragbag"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217748167_0021fbbd83_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217748167_0021fbbd83_z__l.jpg"
+  loadingUrl="undefined" />
 
 Neben den oben beschriebenen Produkten gibt es von Ragbag noch viele weitere
 tolle, faire Recycling-Artikel. Unter anderem die Serie aus Tamil Nadu, auf die
@@ -102,7 +115,13 @@ ich keine Plastiktüte.
 
 ## Meine Notebook-Tasche von Ragbag
 
-![Ragbag](http://cardamonchai.com/wp-content/uploads/2018/04/41045842032_43cbb93a24_z-400x267.jpg)
+<RemoteImage
+  alt="Ragbag"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41045842032_43cbb93a24_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41045842032_43cbb93a24_z__l.jpg"
+  loadingUrl="undefined" />
 
 Mein 13 " Notebook ist in der Laptoptasche super gepolstert und gesichert. Es
 würde aber auch ein 15 " Notebook problemlos reinpassen. Die Trageriemen sind
@@ -126,5 +145,7 @@ ids="20518,20517,20515,20514,20512,20511,20510,20505,20509,20508,20507"]
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
   findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
+
+-->
 
   

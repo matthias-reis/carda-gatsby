@@ -24,7 +24,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (155:20)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (167:20)"
 thumbnailId: "25538"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Rainer3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Rainer3__l.jpg
@@ -33,7 +33,7 @@ subTitle: Vegane Turnschuhe für alle
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (155:20)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (167:20)
 
 <!--
 Die Gruppe hat inzwischen sensationelle 3.540 Mitglieder. Vorgestellt werden die
@@ -50,7 +50,13 @@ Grundschule, an der ich im Ganztag Sportunterricht gebe und von der Uni. Also
 quasi ein vollgepackter Tag. Ich freue mich, die Füße hochzulegen, um morgen
 dann wieder ins Büro zu fahren.
 
-![Das Team der Vegan Sneaker Connection](http://cardamonchai.com/wp-content/uploads/2015/09/Das-Vegan-Sneaker-Connection-Team-640x493.jpg "Das Team der Vegan Sneaker Connection")
+<RemoteImage
+  alt="Das Team der Vegan Sneaker Connection"
+  size="medium"
+  title="Das Team der Vegan Sneaker Connection"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg"
+  loadingUrl="undefined" />
 
 **Rainer:** Da wären Timek, Jay, Julian, Luke, Peet, Tom, Brian, Flo, Yannic und
 meine Wenigkeit, die als Admins hinter der VSC stecken, den Alltag regeln,
@@ -213,7 +219,13 @@ das Allerwichtigste.
 mich sehr gefreut, deine Bekanntschaft zu machen! Alles Gute für die Zukunft der
 Vegan Sneaker Connection!
 
-![vegan-sneaker-connection-rainer | full](http://cardamonchai.com/wp-content/uploads/2019/07/Das-Logo-der-Vegan-Sneaker-Connection-960x355.jpg)
+<RemoteImage
+  alt="vegan-sneaker-connection-rainer"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__l.jpg"
+  loadingUrl="undefined" />
 
 ## Nachtrag vom 20. Juli 2018
 

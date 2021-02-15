@@ -36,7 +36,13 @@ Jahresrückblick zu veröffentlichen und heute ist es soweit! Die Statistik-Elfe
 haben ihn für mich erstellt und ich finde ihn sehr interessant, daher möchte ich
 ihn Euch natürlich ungern vorenthalten.
 
-![](http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png"
+  largeUrl="http://www.wordpress.com/wp-content/mu-plugins/annual-reports/img/2012-emailteaser.png"
+  loadingUrl="undefined" />
 
 [](//2013/annual-report/)
 

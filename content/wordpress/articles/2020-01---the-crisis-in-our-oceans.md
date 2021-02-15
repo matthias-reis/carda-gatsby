@@ -41,7 +41,13 @@ Habitate sind bedroht: Klimawandel, Plastikflut, Umweltverschmutzung, gnadenlose
 Überfischung und Ölbohrungen sorgen dafür, dass ihre Lebensräume immer weiter
 schrumpfen.**
 
-![the-crisis-in-our-oceans](http://cardamonchai.com/wp-content/uploads/2020/01/oceans-1-400x300.jpg)
+<RemoteImage
+  alt="the-crisis-in-our-oceans"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_oceans-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_oceans-1__l.jpg"
+  loadingUrl="undefined" />
 
 Greenpeace produzierte jetzt gemeinsam mit dem Animationsstudio Aardmann (unter
 anderem bekannt für "Wallace &amp; Gromit" und "Shaun das Schaf") den Kurzfilm
@@ -92,6 +98,12 @@ selbst auf unser Konsumverhalten achten und es jeden Tag hinterfragen. Jeder
 kann etwas tun und viele Menschen, die viele kleine Schritte machen können
 hoffentlich eines Tages große Schritte bewirken.
 
-![the-crisis-in-our-oceans-greenpeace | large](http://cardamonchai.com/wp-content/uploads/2020/01/the-crisis-in-our-oceans-greenpeace-2-520x195.jpg)
+<RemoteImage
+  alt="the-crisis-in-our-oceans-greenpeace"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_the-crisis-in-our-oceans-greenpeace-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_the-crisis-in-our-oceans-greenpeace-2__l.jpg"
+  loadingUrl="undefined" />
 
   

@@ -41,7 +41,13 @@ subTitle: Vegane Limo mit Geschmack
 
 Werbung\*
 
-![MIO MIO ](http://cardamonchai.com/wp-content/uploads/2016/08/28497211950_3672e57073_z-640x427.jpg "MIO MIO - Ich habe getestet")
+<RemoteImage
+  alt="MIO MIO "
+  size="medium"
+  title="MIO MIO - Ich habe getestet"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28497211950_3672e57073_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28497211950_3672e57073_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Schon vor unserem Urlaub haben die Leute von MIO MIO sich bei mir gemeldet und
 gefragt, ob ich Lust hätte, ihre neue Cola zu testen. Natürlich habe ich
@@ -63,7 +69,13 @@ Geschmacksrichtungen zu testen. Hier ist unser Fazit:
 
 ## Drei Produkte von MIO MIO im Test
 
-![MIO MIO](http://cardamonchai.com/wp-content/uploads/2016/08/28781471425_dbd1cfa80c_z-640x427.jpg "MIO MIO COLA")
+<RemoteImage
+  alt="MIO MIO"
+  size="medium"
+  title="MIO MIO COLA"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28781471425_dbd1cfa80c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28781471425_dbd1cfa80c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Als allererstes mal VIELEN DANK für die Mate! Ich habe mich wirklich sehr
 gefreut! Derzeit gibt es hier in Hamburg meine Lieblingsmate (die kennt Ihr
@@ -88,7 +100,13 @@ wach! Das muss wohl an der enthaltenen Colanuss liegen. Perfekt geeignet, wenn
 man nach einer durchtanzten Nacht früh wieder hoch muss und der Kaffee einfach
 nicht schnell genug runter kühlen möchte.
 
-![MIO MIO](http://cardamonchai.com/wp-content/uploads/2016/08/28871665225_5a303f5f2b_z-640x427.jpg "Von der MIO MIO MATE Banane seht Ihr nur noch die leeren Flaschen")
+<RemoteImage
+  alt="MIO MIO"
+  size="medium"
+  title="Von der MIO MIO MATE Banane seht Ihr nur noch die leeren Flaschen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28871665225_5a303f5f2b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28871665225_5a303f5f2b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Cola Light oder in diesem Fall Cola Zero ist normalerweise nicht mein Ding. Ich
 mag einfach den Geschmack der Zuckerausstauschstoffe nicht, aber das ist eine

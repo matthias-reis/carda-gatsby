@@ -42,7 +42,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Unterminated JSX contents (83:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (107:16)"
 thumbnailId: "21456"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Ungeschminkt.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Ungeschminkt.png__l.jpg
@@ -51,7 +51,7 @@ subTitle: Einfach mal auf Schminke verzichten
   
 ---
 
-## unknown: Unterminated JSX contents (83:16)
+## unknown: Unterminated JSX contents (107:16)
 
 <!--
 _Produktplatzierung\*_
@@ -60,7 +60,13 @@ _Produktplatzierung\*_
 Doch ab und zu genieße ich es auch, mal ein paar Tage lang darauf zu verzichten.
 Inzwischen macht mir das richtig Spaß.**
 
-![Make-up](http://cardamonchai.com/wp-content/uploads/2018/07/17-09-08__335-400x600.jpg "Ungeschminkt auf Fototour")
+<RemoteImage
+  alt="Make-up"
+  size="medium"
+  title="Ungeschminkt auf Fototour"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-08__335__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-08__335__l.jpg"
+  loadingUrl="undefined" />
 
 Besonders gut klappt das bei mir im Urlaub, oder wenn ich, wie im Moment, eine
 Weile Homeoffice mache. Bei uns im Büro stiegen die Temperaturen in den letzten
@@ -94,7 +100,13 @@ funktioniert natürlich auch mit Eurem liebsten milden Toner.
 
 ## Make-up-freie Morgenroutine
 
-![Make-up](http://cardamonchai.com/wp-content/uploads/2018/07/28766720927_7a6f2ae10b_z-400x300.jpg "Morgenroutine")
+<RemoteImage
+  alt="Make-up"
+  size="medium"
+  title="Morgenroutine"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_28766720927_7a6f2ae10b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_28766720927_7a6f2ae10b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Doch zurück zur Morgenroutine in der Make-up-Fastenzeit. Im Anschluss an den
 Toner kommt mein Aloe Vera Serum "pure refining" zum Einsatz. Im Gegensatz zur
@@ -114,7 +126,13 @@ Hautalterung.
 
 ## Wasser ins Gesicht und ab ins Bett
 
-![Make-up](http://cardamonchai.com/wp-content/uploads/2018/07/27262648097_415a4fbb14_z-400x500.jpg "Ungeschminkt Katzen kraulen")
+<RemoteImage
+  alt="Make-up"
+  size="medium"
+  title="Ungeschminkt Katzen kraulen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_27262648097_415a4fbb14_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_27262648097_415a4fbb14_z__l.jpg"
+  loadingUrl="undefined" />
 
 Abends wasche ich mein Gesicht mit lauwarmem Wasser, sprühe erneut den Toner auf
 und lege mich ins Bett. Das wars auch schon. Mühsames Abschminken fällt
@@ -135,7 +153,13 @@ seid auch ohne Mascara, Camouflage und Lippenstift schön! Frau lernt sich selbs
 kennen so ganz ohne Tusche im Gesicht. Und lieben! Versprochen! Außerdem gibt es
 noch viele weitere tolle Effekte, die Ihr feststellen werdet:
 
-![Gewohnte Reinigung](http://cardamonchai.com/wp-content/uploads/2018/07/42751807875_847d66c8d1_z-400x533.jpg)
+<RemoteImage
+  alt="Gewohnte Reinigung"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875_847d66c8d1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875_847d66c8d1_z__l.jpg"
+  loadingUrl="undefined" />
 
 <ul>
     <li>

@@ -33,7 +33,13 @@ subTitle: Das war 2015
   
 ---
 
-![Mein Jahresrückblick 2015](http://cardamonchai.com/wp-content/uploads/2015/12/22919389490_7c0fc91f99_z.jpg "Mein Jahresrückblick 2015")
+<RemoteImage
+  alt="Mein Jahresrückblick 2015"
+  size="medium"
+  title="Mein Jahresrückblick 2015"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Weil mir das Thema Weihnachten schon zu ausgelutscht war, habe ich mir was
 Anderes einfallen lassen, das natürlich vor mir noch nie jemand gemacht hat.**

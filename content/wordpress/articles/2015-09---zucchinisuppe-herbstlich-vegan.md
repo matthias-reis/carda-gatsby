@@ -38,7 +38,13 @@ subTitle: Rezept für eine große Zucchini
   
 ---
 
-![Ganz schön groß diese Zucchini](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0788-640x800.jpg "Ganz schön groß diese Zucchini")
+<RemoteImage
+  alt="Ganz schön groß diese Zucchini"
+  size="medium"
+  title="Ganz schön groß diese Zucchini"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0788__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0788__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor drei Tagen brachte Matze die größte Zucchini mit nach Hause, die ich in
 meinem Leben bis jetzt gesehen habe. Ein Kollege brachte sie ihm mit, natürlich
@@ -57,7 +63,13 @@ gemacht habe.
 - Messer
 - Blender oder Stabmixer
 
-![Alles schön anbraten](http://cardamonchai.com/wp-content/uploads/2015/09/null-640x640.jpg "Alles schön anbraten")
+<RemoteImage
+  alt="Alles schön anbraten"
+  size="medium"
+  title="Alles schön anbraten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_null__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_null__l.jpg"
+  loadingUrl="undefined" />
 
 ## Zutaten- 1 große Zucchini
 
@@ -71,7 +83,13 @@ gemacht habe.
 - ca. 1 Liter Wasser (Je nach Größe der Zucchini auch mehr/weniger)##
   Zubereitung
 
-![Der Kater staunt - Die Zucchini ist größer als er!](http://cardamonchai.com/wp-content/uploads/2015/09/IMG_0775-640x800.jpg "Der Kater staunt - Die Zucchini ist größer als er!")
+<RemoteImage
+  alt="Der Kater staunt - Die Zucchini ist größer als er!"
+  size="medium"
+  title="Der Kater staunt - Die Zucchini ist größer als er!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0775__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_IMG_0775__l.jpg"
+  loadingUrl="undefined" />
 
 Die Schalotten anbraten, nebenbei die Zucchini und die Mohrrüben in grobe Stücke
 schneiden und hinzugeben, im Kochtopf so lange anbraten, bis alles schön

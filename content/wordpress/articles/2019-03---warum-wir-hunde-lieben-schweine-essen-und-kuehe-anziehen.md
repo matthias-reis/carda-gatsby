@@ -68,7 +68,13 @@ Schweinen? Und wo ist die Grenze?
 
 ## Warum ekeln wir uns vor den einen und essen die anderen?
 
-![1 kg Rindfleisch erzeugt so viele Treibhausgase, wie über 1.600 km Autobahnfahrt](http://cardamonchai.com/wp-content/uploads/2014/07/regenwaldrinder-640x427.jpg "1 kg Rindfleisch erzeugt so viele Treibhausgase, wie über 1.600 km Autobahnfahrt")
+<RemoteImage
+  alt="1 kg Rindfleisch erzeugt so viele Treibhausgase, wie über 1.600 km Autobahnfahrt"
+  size="medium"
+  title="1 kg Rindfleisch erzeugt so viele Treibhausgase, wie über 1.600 km Autobahnfahrt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldrinder__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_regenwaldrinder__l.jpg"
+  loadingUrl="undefined" />
 
 Joy sagt "Das eigentlich Erstaunliche an unserer Einteilung in "essbare" und
 "nicht essbare" Tiere ist nicht unser _Empfinden von Ekel_ , sondern unser
@@ -146,7 +152,13 @@ Begriffe zum Wort "Hund" zu assoziieren und anschließend zum Wort "Schwein".
 Nachweislich sind die zum Wort "Schwein" bei den meisten Menschen negativ, die
 beim Wort "Hund" hingegen positiv.
 
-![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/Bildschirmfoto-2019-03-04-um-16.43.29-400x193.png "[ ](https://www.instagram.com/p/BuZoJX4AndE/)  Esther The Wonder Pig")
+<RemoteImage
+  alt="warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen"
+  size="medium"
+  title="[ ](https://www.instagram.com/p/BuZoJX4AndE/)  Esther The Wonder Pig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_Bildschirmfoto-2019-03-04-um-16.43.29.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_Bildschirmfoto-2019-03-04-um-16.43.29.png__l.jpg"
+  loadingUrl="undefined" />
 
 Beim Lesen des Werkes lernt man ganz nebenbei, sich mit eingeprägten
 Verhaltensmustern auseinanderzusetzen und sich selbst zu hinterfragen. Warum
@@ -205,7 +217,13 @@ Bolzenschussgeräten, Spaltsägen, Beinscheren, Dampfreinigern, Kettenzügen und
 Entbeinungsmaschinen zur Abtrennung von Gliedmaßen sowie zu Augenverletzungen,
 Verbrennungen, schwerwiegenden Frakturen und Schlimmerem kommen kann.
 
-![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/Bildschirmfoto-2019-03-04-um-16.43.11-400x398.png "[ ](https://www.instagram.com/p/Bt13RgQAdY_/)  So viel besser würde es unserem Planeten ohne die Fleischindustrie gehen")
+<RemoteImage
+  alt="warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen"
+  size="medium"
+  title="[ ](https://www.instagram.com/p/Bt13RgQAdY_/)  So viel besser würde es unserem Planeten ohne die Fleischindustrie gehen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_Bildschirmfoto-2019-03-04-um-16.43.11.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_Bildschirmfoto-2019-03-04-um-16.43.11.png__l.jpg"
+  loadingUrl="undefined" />
 
 Und die Welle der Vernichtung, mit der der Karnismus die Welt überrollt, hört
 bei den Menschen nicht auf. Auch die Folgen für die Umwelt hat Melanie Joy
@@ -297,7 +315,13 @@ vegane Lebensart schon sehr bald selbstverständlich ist. Melanie Joy hat mit
 "Warum wir Hunde lieben, Schweine essen und Kühe anziehen" die Entwicklung in
 diese Richtung ein großes Stück vorangebracht.
 
-![warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen](http://cardamonchai.com/wp-content/uploads/2019/03/2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-1-400x300.jpg "[ ](https://amzn.to/2C1THWu)  Warum wir Hunde lieben, Schweine essen und Kühe-anziehen")
+<RemoteImage
+  alt="warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen"
+  size="medium"
+  title="[ ](https://amzn.to/2C1THWu)  Warum wir Hunde lieben, Schweine essen und Kühe-anziehen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-03-warum-wir-hunde-lieben-schweine-essen-und-kuehe-anziehen-1__l.jpg"
+  loadingUrl="undefined" />
 
 "[**Warum wir Hunde lieben, Schweine essen und Kühe anziehen**](https://amzn.to/2C1THWu)"
 von Melanie Joy ist bei Compession Media erschienen. Es trägt den Untertitel "

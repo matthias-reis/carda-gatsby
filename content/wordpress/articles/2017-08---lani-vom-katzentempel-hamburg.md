@@ -41,7 +41,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <i> (182:95)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <i> (230:95)"
 thumbnailId: "17714"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36363403920_ad9c4bc347_k__l.jpg
@@ -50,7 +50,7 @@ subTitle: Frühstück im Katzencafé
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;i> (182:95)
+## unknown: Expected corresponding JSX closing tag for &lt;i> (230:95)
 
 <!--
 **Im _Katzentempel_ am Kleinen Schäferkamp 24 in Hamburg kann man nicht nur
@@ -71,7 +71,13 @@ jederzeit zurückziehen können.
 
 ## Selbst gemachte vegane Leckereien
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36562366862_49e87b14cc_z-300x450.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36562366862_49e87b14cc_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36562366862_49e87b14cc_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Speisekarte ist umfangreich. Schmackhafte, selbst gemachte Leckereien von
 Seitan-Spezialitäten über Brote mit verschiedenen Aufstrichen bis hin zu Torten
@@ -97,7 +103,13 @@ Ich liebe alle Tiere gleichermaßen.
 
 **Anne:** Wann kam der Gedanke an ein Katzencafé?
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36363406680_19ceb2f6b8_z-300x200.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36363406680_19ceb2f6b8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36363406680_19ceb2f6b8_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Lani:** Witzigerweise kam der Gedanke schon vor mehreren Jahren. Also ich habe
 damals nicht dran gedacht, dass ich eines aufmachen könnte. Aber ich hörte, dass
@@ -124,7 +136,13 @@ dem Veganismus. Bei mir war das eher andersrum. Wie war das bei Dir?
 
 ## Ich bin mit Tierschutz aufgewachsen
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36685428506_dc6a2a6d29_z-300x200.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36685428506_dc6a2a6d29_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36685428506_dc6a2a6d29_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Lani:** Ich bin mit Tierschutz aufgewachsen. Mit einer Mutter, die damals
 schon Beagles aus Versuchslaboren gerettet hat. Meine Schwester wurde mit neun
@@ -141,7 +159,13 @@ stehen für mich an erster Stelle.
 
 **Anne:** Was macht Katzen so besonders?
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36732148005_3ccaf016d0_z-300x200.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36732148005_3ccaf016d0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36732148005_3ccaf016d0_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Lani:** Katzen haben ein ganz tolles Wesen. Sie beruhigen einen. In der
 Gründungsphase habe ich das am eigenen Leib erlebt. Es war richtig schön
@@ -159,7 +183,13 @@ Grinsen raus.
 **Anne:** In Deutschland gibt es ja sehr strenge Hygiene-Vorschriften. War das
 mit den Katzen schwierig? Also in Bezug auf Lebensmittel?
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36712885616_d16dc55522_z-300x200.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36712885616_d16dc55522_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36712885616_d16dc55522_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Lani:** Das hat tatsächlich richtig gut funktioniert. Dadurch, dass ich es mit
 einem Lizenzgeber mache, waren einfach auch schon Erfahrungswerte da. Die Ämter
@@ -185,7 +215,13 @@ wollen es die Menschen gar nicht wissen. Zweitens wird es ihnen vorenthalten.
 
 ## "Wir Veganer halten anderen den Spiegel vor"
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36685419946_e347449a65_z-300x200.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36685419946_e347449a65_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36685419946_e347449a65_z__l.jpg"
+  loadingUrl="undefined" />
 
 Du kennst das ja als Veganerin sicher auch. Man muss den Leuten ja gar keine
 Vorträge halten. Man muss nur sagen „Ich esse das nicht“ und schon steckt man
@@ -211,7 +247,13 @@ dahingehend besser sensibilisieren? Sprich „Adopt – don´t shop“?
 
 ## "Ich konfrontiere die Menschen"
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36732111705_d4410930ec_z-300x200.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36732111705_d4410930ec_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36732111705_d4410930ec_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Lani:** Ich versuche das jeden Tag vorzuleben. Ich konfrontiere die Menschen.
 Ich bin auch jemand, der, wenn jemand auf Facebook seinen neuen Welpen postet,
@@ -232,7 +274,13 @@ auch gerne mal „Mellow hat auch noch zehn Geschwister und hier ist die
 Telefonnummer von meiner Freundin Kara aus dem Tierschutz, sie kann Dich in
 Adoptionsfragen perfekt beraten!“
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36363401550_b3fd001299_z-300x200.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36363401550_b3fd001299_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36363401550_b3fd001299_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Was machst Du, wenn jemand mit einem Pelzkragen in den _Katzentempel_
 will? Und wie gehst Du generell vor, wenn Dir Tierleid begegnet? Wenn Du zum
@@ -281,7 +329,13 @@ Bei allen dreien handelt es sich um jüngere Tierschutzorganisationen, ohne viel
 Bürokratie, die der Sache von Anfang an offen gegenüber gestanden haben und die
 Tieren direkt vor Ort helfen.
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36712892986_b53122f3c5_z-300x450.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36712892986_b53122f3c5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36712892986_b53122f3c5_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Was machen die Katzen, wenn hier abends das Licht ausgeht?
 
@@ -312,7 +366,13 @@ Zutaten und dem selbst gebackenen Brot. Natürlich können wir auch selbst ein
 Bisschen kreativ sein und mal etwas abwandeln. Unsere Karte unterscheidet sich
 auch in ein paar Dingen von der der Münchner.
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36592916661_856cc49e47_z-300x200.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36592916661_856cc49e47_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36592916661_856cc49e47_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Wie groß ist Euer Team insgesamt?
 
@@ -340,7 +400,13 @@ Freund vor dem Fernseher getroffen. Es war total verrückt (lacht).
 
 ## "Der Katzentempel hat in der Schanze gefehlt"
 
-![Katzentempel](http://cardamonchai.com/wp-content/uploads/2017/08/36732160375_5bdd6dcd47_z-300x450.jpg)
+<RemoteImage
+  alt="Katzentempel"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36732160375_5bdd6dcd47_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36732160375_5bdd6dcd47_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Lani:** Der _Katzentempel_ passt extrem gut in die Schanze. Er hat tatsächlich
 gefehlt in Hamburg.

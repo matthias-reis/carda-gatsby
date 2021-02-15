@@ -44,7 +44,13 @@ ist, denn inzwischen gibt es zu #YOLO sogar schon einen Wikipedia-Eintrag.
 2012 wurde #YOLO zum Wort des Jahres gekürt. Gut, dass es gegen "FU" (Ich werde
 das hier nicht näher erläutern) gewonnen hat.
 
-![YOLO - You only live once](http://cardamonchai.com/wp-content/uploads/2015/04/08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef.jpg)
+<RemoteImage
+  alt="YOLO - You only live once"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef__l.jpg"
+  loadingUrl="undefined" />
 
 ## Was bedeutet denn nun #YOLO?Wo genau das Wort seinen Ursprung hat, lässt sich heute nicht mehr ermitteln. Verbreitet hat es sich primär über das Internet. #YOLO ist eine Abkürzung und bedeutet so viel wie "You only live once" - "Man lebt nur einmal".
 
@@ -61,7 +67,13 @@ ist #YOLO also doch ein kleines Bisschen vernünftig. Aber eben auch nur ein
 kleines Bisschen. Vernünftiger zu sein, als "Live fast, die young" ist ja auch
 gar nicht so schlecht. Behaupte ich jetzt einfach mal so.
 
-![YOLO - You only live once](http://cardamonchai.com/wp-content/uploads/2015/04/lolcat_yolo_by_nothguy-d5xpidr.jpg)
+<RemoteImage
+  alt="YOLO - You only live once"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_lolcat_yolo_by_nothguy-d5xpidr__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_lolcat_yolo_by_nothguy-d5xpidr__l.jpg"
+  loadingUrl="undefined" />
 
 ## #YOLO ruft zum Freisein aufEinfach mal frei sein. Das tun und lassen, was in diesem einen Moment Spaß macht, ohne über die Konsequenzen nachzudenken, oder darüber, ob es vielleicht unvernünftig sein könnte.
 
@@ -102,7 +114,13 @@ Und gerade weil #YOLO so unvernünftig klingt,
 ist es so toll. Es muss so sein, denn nur so wie es ist, kann es auch etwas
 bewirken.
 
-![John-Lennon-in-sketch-by-Julianaa27](http://cardamonchai.com/wp-content/uploads/2015/04/John-Lennon-in-sketch-by-Julianaa27-640x641.jpg)
+<RemoteImage
+  alt="John-Lennon-in-sketch-by-Julianaa27"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_John-Lennon-in-sketch-by-Julianaa27__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_John-Lennon-in-sketch-by-Julianaa27__l.jpg"
+  loadingUrl="undefined" />
 
 Das Slangwort soll übrigens laut der freien Enzyklopädie seit Ende 2011 fester
 Bestandteil der Jugendkultur sein. Ich meine, es schon früher gelesen bzw.

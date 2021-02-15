@@ -57,7 +57,13 @@ unterrichteten wiederum ihre Kinder.
 
 ## 90 Prozent der Bürger von Curitiba beteiligen sich aktiv
 
-![Curitiba](http://cardamonchai.com/wp-content/uploads/2018/05/plastic-bottles-388679_960_720-400x267.jpg)
+<RemoteImage
+  alt="Curitiba"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_plastic-bottles-388679_960_720__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_plastic-bottles-388679_960_720__l.jpg"
+  loadingUrl="undefined" />
 
 Heute beteiligen sich 90 Prozent der Bewohner von Curitiba aktiv am Recycling.
 Und das Konzept geht auf: Nicht nur im Bereich Umweltschutz ergeben sich viele

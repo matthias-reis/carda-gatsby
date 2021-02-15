@@ -65,7 +65,13 @@ Frauenrechte.
 
 ## Weltfrauentag - Vergiss mein nicht
 
-![Frauenrechte](http://cardamonchai.com/wp-content/uploads/2013/03/img_4069-640x960.jpg "Unbekannte Frau um 1900, F.B. Jonston Collection, Library of Congress, Foto: Emily Mew")
+<RemoteImage
+  alt="Frauenrechte"
+  size="medium"
+  title="Unbekannte Frau um 1900, F.B. Jonston Collection, Library of Congress, Foto: Emily Mew"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4069__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4069__l.jpg"
+  loadingUrl="undefined" />
 
 Ich möchte versuchen, mit meinem Artikel zumindest einen kleinen Teil dazu
 beizutragen, dass etwas mehr über den _Weltfrauentag_ und die Geschichte der
@@ -100,7 +106,13 @@ beschlossen einen nationalen Kampftag für die Frauenrechte einzuführen.
 
 ## Frauenrechte in Amerika - Der erste Weltfrauentag
 
-![Frauenrechte](http://cardamonchai.com/wp-content/uploads/2013/03/img_4070-640x960.jpg "Unbekannte Frau, 1900-1920, Cairo, E. Matson Collection, Library of Congress")
+<RemoteImage
+  alt="Frauenrechte"
+  size="medium"
+  title="Unbekannte Frau, 1900-1920, Cairo, E. Matson Collection, Library of Congress"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4070__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4070__l.jpg"
+  loadingUrl="undefined" />
 
 Der erste _Frauentag_ , der im Februar 1909 in Amerika stattfand, zog Frauen aus
 allen Schichten an, auch die bürgerlichen Frauenrechtlerinnen schlossen sich den
@@ -129,7 +141,13 @@ verzeichnen.
 
 ## Rege Beteiligung
 
-![Frauenrechte](http://cardamonchai.com/wp-content/uploads/2013/03/img_4073-640x960.jpg "1883 - 1888 - Unbekannte Frau, Ghana, Archiv der Basler Mission")
+<RemoteImage
+  alt="Frauenrechte"
+  size="medium"
+  title="1883 - 1888 - Unbekannte Frau, Ghana, Archiv der Basler Mission"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4073__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4073__l.jpg"
+  loadingUrl="undefined" />
 
 1912 fand der _Frauentag_ am 12. Mai mit einer noch größeren Beteiligung statt.
 1917 wurde nach Protesten in den eigenen Reihen von enttäuschten Sozialisten die
@@ -159,7 +177,13 @@ wurde in Moskau auf der Internationalen Konferenz kommunistischer Frauen 1921
 der 8. März zum internationalen Gedenktag erklärt. Der Vorschlag dazu stammte
 von der bulgarischen Delegation.
 
-![Frauenrechte](http://cardamonchai.com/wp-content/uploads/2013/03/img_4079-640x960.jpg "Um 1906 - Unbekannte Frau, Edward S. Curtis Collection, Library of Congress")
+<RemoteImage
+  alt="Frauenrechte"
+  size="medium"
+  title="Um 1906 - Unbekannte Frau, Edward S. Curtis Collection, Library of Congress"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4079__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4079__l.jpg"
+  loadingUrl="undefined" />
 
 Außerdem gibt es Quellen, die beschreiben, dass Lenin den 8. März zum
 _Frauentag_ erklärte, wozu ihm von einigen Vorkämpferinnen geraten worden war.
@@ -192,7 +216,13 @@ die Regierung der DDR den Frauentag mehr und mehr zum einem sozialistischen
 Muttertag machen wollte, kämpfte der _Internationale Frauentag_ in dieser Zeit
 um seinen Ruf.
 
-![Frauenrechte](http://cardamonchai.com/wp-content/uploads/2013/03/img_4071-640x960.jpg "Unbekannte Frau, 1890-1923, Singapore, F. Carpenter Collection, Library of Congress")
+<RemoteImage
+  alt="Frauenrechte"
+  size="medium"
+  title="Unbekannte Frau, 1890-1923, Singapore, F. Carpenter Collection, Library of Congress"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4071__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_4071__l.jpg"
+  loadingUrl="undefined" />
 
 ## Erstmals Ausrichtung durch die Vereinten Nationen
 
@@ -234,11 +264,29 @@ ids="4975,4982,4981,4980,4979,4978,4977,4976,4951,4952,4956,4955,4954,4953,4957,
 
 ## Hier noch was zur aktuellen Debatte:
 
-![Frauenrechte | full](http://cardamonchai.com/wp-content/uploads/2013/03/aufschrei.png "#aufschrei-Tweets")
+<RemoteImage
+  alt="Frauenrechte"
+  size="full"
+  title="#aufschrei-Tweets"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei.png__l.jpg"
+  loadingUrl="undefined" />
 
-![Frauenrechte | full](http://cardamonchai.com/wp-content/uploads/2013/03/fahrlehrer.png "#Aufschrei-Fahrlehrer")
+<RemoteImage
+  alt="Frauenrechte"
+  size="full"
+  title="#Aufschrei-Fahrlehrer"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_fahrlehrer.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_fahrlehrer.png__l.jpg"
+  loadingUrl="undefined" />
 
-![Frauenrechte | full](http://cardamonchai.com/wp-content/uploads/2013/03/aufschrei2.png "Kommentare zum #aufschrei-Tweet auf Facebook")
+<RemoteImage
+  alt="Frauenrechte"
+  size="full"
+  title="Kommentare zum #aufschrei-Tweet auf Facebook"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei2.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_aufschrei2.png__l.jpg"
+  loadingUrl="undefined" />
 
 ### Quellen [Emma](http://www.emma.de/), [Wikipedia](http://de.wikipedia.org/wiki/Internationaler_Frauentag) ### Lesetipps [Emma](http://www.emma.de/) [Anne Wizorek](http://flavors.me/annewizorek) [Frauenmediaturm](http://www.frauenmediaturm.de/home/)
 

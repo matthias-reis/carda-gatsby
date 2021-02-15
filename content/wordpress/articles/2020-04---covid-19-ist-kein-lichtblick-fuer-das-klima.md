@@ -69,7 +69,13 @@ weitere Vergrößerung der Tierzucht und -Haltung haben bereits drei Viertel der
 Erde massiv verändert. Die Tierwelt wurde dabei immer weiter in die Ecke
 gedrängt.
 
-![COVID-19 ist kein Lichtblick für das Klima](http://cardamonchai.com/wp-content/uploads/2020/04/2019-07-00-instagram-55-400x300.jpg)
+<RemoteImage
+  alt="COVID-19 ist kein Lichtblick für das Klima"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2019-07-00-instagram-55__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2019-07-00-instagram-55__l.jpg"
+  loadingUrl="undefined" />
 
 Die Politikerin weist darauf hin, dass wir die Abholzung der Wälder stoppen und
 den illegalen Handel mit wilden Tieren bekämpfen müssen.
@@ -105,7 +111,13 @@ nachhaltig ändern - in Richtung grün und sauber.
 
 ## Grüne Konjunkturpakete als Chance
 
-![Inger Andersen](http://cardamonchai.com/wp-content/uploads/2020/04/2016-06-finnland-610jpg_29988577906_o-400x299.jpg)
+<RemoteImage
+  alt="Inger Andersen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2016-06-finnland-610jpg_29988577906_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2016-06-finnland-610jpg_29988577906_o__l.jpg"
+  loadingUrl="undefined" />
 
 Nur mit langfristigen und systematischen Veränderungen können wir es schaffen,
 den CO2-Verlauf in der Atmosphäre wirklich zu verändern. Andersen sieht eine

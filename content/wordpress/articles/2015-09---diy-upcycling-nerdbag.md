@@ -40,7 +40,13 @@ subTitle: Aus T-Shirt mach Tasche Teil 1
   
 ---
 
-![Mein DIY Upcycling Nerdbag](http://cardamonchai.com/wp-content/uploads/2015/09/DIY-Nerdbag-26-640x960.jpg "Mein DIY Upcycling Nerdbag")
+<RemoteImage
+  alt="Mein DIY Upcycling Nerdbag"
+  size="medium"
+  title="Mein DIY Upcycling Nerdbag"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-26__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-26__l.jpg"
+  loadingUrl="undefined" />
 
 **Habt Ihr auch so viele T-Shirts zu Hause rumliegen, die Ihr nicht mehr
 anzieht, weil sie nicht mehr so schön aussehen? Ihr wollt Euch aber aufgrund des

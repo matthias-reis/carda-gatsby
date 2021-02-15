@@ -64,7 +64,7 @@ const Image: React.FC<ImageProps> = ({ alt, src, title }) => {
       </Container>
     );
   } else {
-    return null;
+    return <p>IMAGE</p>;
   }
 };
 

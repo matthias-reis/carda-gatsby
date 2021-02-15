@@ -74,7 +74,13 @@ Produkten für unsere Etiketten!"
 
 ## "Möchtest Du vegane Säfte testen?"
 
-![Vegane Säfte](http://cardamonchai.com/wp-content/uploads/2018/03/40140781455_40682275ba_z-1-400x267.jpg)
+<RemoteImage
+  alt="Vegane Säfte"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40140781455_40682275ba_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40140781455_40682275ba_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 Im Anschluss wurde mir die Frage gestellt, ob ich nicht Lust hätte, die neuen
 Säfte und Schorlen aus dem Hause Klindworth zu testen. Weil ich ein großer Fan
@@ -92,7 +98,13 @@ auf den Prüfstand.
 
 ## Pampelmuse, Holunder und Cranberry
 
-![Vegane Säfte](http://cardamonchai.com/wp-content/uploads/2018/03/39225161640_ab3ca6060d_z-400x400.jpg)
+<RemoteImage
+  alt="Vegane Säfte"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Den Pampelmusensaft haben wir als Schorle genossen. Besonders jetzt in der
 Übergangszeit, in der die Südfrüchte nicht mehr wirklich viel Geschmack haben,
@@ -114,7 +126,13 @@ davon pur schmecken.
 
 ## Traube-Maracuja, Apfel und Rhabarber
 
-![Vegane Säfte](http://cardamonchai.com/wp-content/uploads/2018/03/39225194090_cd5c0ee236_z-400x400.jpg)
+<RemoteImage
+  alt="Vegane Säfte"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225194090_cd5c0ee236_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225194090_cd5c0ee236_z__l.jpg"
+  loadingUrl="undefined" />
 
 Bei den Säften konnte ich mich nur schwer für einen Favoriten entscheiden. Sie
 schmecken wirklich alle sehr gut, ich schwanke im Moment noch zwischen

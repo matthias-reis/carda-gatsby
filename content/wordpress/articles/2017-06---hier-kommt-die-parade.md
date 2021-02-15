@@ -39,7 +39,13 @@ subTitle: Fabelwesen im Sonnenlicht
   
 ---
 
-![Stamp Festival](http://cardamonchai.com/wp-content/uploads/2017/06/34620395124_e9c96586e7_z.jpg)
+<RemoteImage
+  alt="Stamp Festival"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34620395124_e9c96586e7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34620395124_e9c96586e7_z__l.jpg"
+  loadingUrl="undefined" />
 
 **_Hamburg Altona_ - Ihr wollt Bilder von bunten Paraden? Die sollt Ihr
 bekommen! Auch am Sonntag habe ich auf dem Stamp Festival Bilder gemacht - und

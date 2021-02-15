@@ -10,18 +10,17 @@ import { ErrorBoundary } from './error-boundary';
 import { Meme } from './meme';
 import { Youtube } from './youtube';
 import { Playlist } from './playlist';
-import Image from './image';
+import { RemoteImage } from './remote-image';
 import { Link } from './link';
 import { Frame } from './frame';
 import { H1, H2, H3, H4, H5, H6, P, Ul, Ol, Li, BlockQuote } from './typo';
 import { HR } from './hr';
 import { toCompactArticle } from '../to-compact-article';
 
-const shortcodes = { Meme, Youtube, Playlist };
+const shortcodes = { Meme, Youtube, Playlist, RemoteImage };
 
 const defaults = {
   a: Link,
-  img: Image,
   h1: H1,
   h2: H2,
   h3: H3,
@@ -40,7 +39,6 @@ const ArticleController: React.FC<{ data: ArticleQuery; pageContext: any }> = ({
   data,
   pageContext,
 }) => {
-  console.log(data);
   const recommendations = data.allMdx.nodes.map(toCompactArticle);
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>

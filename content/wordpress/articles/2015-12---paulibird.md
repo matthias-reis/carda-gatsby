@@ -47,7 +47,13 @@ Die besondere Idee, auch die Decks alter Skateboards zu verarbeiten, kam durch
 einen Freund. Er hatte ihn darum gebeten, aus seinem ausgedienten Board einen
 Anhänger zu kreieren.
 
-![Paulibird](http://cardamonchai.com/wp-content/uploads/2020/04/paulibird2-400x300.jpg)
+<RemoteImage
+  alt="Paulibird"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird2__l.jpg"
+  loadingUrl="undefined" />
 
 ## Anhänger und Eheringe aus ausgedienten SkateboardsSofort nach dem ersten Versuch und einem grandiosen Ergebnis war klar, dass das besondere Material in Zukunft regelmäßig zum Einsatz kommen würde. Besonders gefiel Maurice dabei auch der Upcycling Aspekt. Das siebenschichtige Ahornholz der Bretter eignet sich einfach perfekt zur Schmuckherstellung.
 
@@ -61,7 +67,13 @@ Formen futuristisch, die warmen Holztöne bilden dazu einen angenehmen Kontrast.
 Ein toller Effekt ist das Grifftape, das auf dem Holz belassen wird, das
 Skateboard-Gefühl bleibt also auch im Schmuckstück erhalten.
 
-![Paulibird](http://cardamonchai.com/wp-content/uploads/2020/04/paulibird1-400x300.jpg)
+<RemoteImage
+  alt="Paulibird"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird1__l.jpg"
+  loadingUrl="undefined" />
 
 ## Liebevolle Filigranarbeit in der SchmuckmanufakturIn liebevoller Filigranarbeit arbeitet Maurice die Upcycling Stücke auf. Die Boards werden zugeschnitten und geschliffen. Die einzelnen Schichten kommen zum Vorschein und werden sauber poliert.
 

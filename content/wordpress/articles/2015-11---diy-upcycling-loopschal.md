@@ -34,7 +34,13 @@ subTitle: Kuschelig und angesagt
   
 ---
 
-![Mein neuer Loopschal](http://cardamonchai.com/wp-content/uploads/2015/11/22960728786_182ee19892_z-1-640x427.jpg "Mein neuer Loopschal")
+<RemoteImage
+  alt="Mein neuer Loopschal"
+  size="medium"
+  title="Mein neuer Loopschal"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22960728786_182ee19892_z-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22960728786_182ee19892_z-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Langsam wird es richtig winterlich draußen. Höchste Zeit für einen kuscheligen
 Loopschal. Dazu braucht Ihr nur ein paar Kleinigkeiten aus Eurem

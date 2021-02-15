@@ -43,7 +43,13 @@ Heute Abend dürfte die Zeit auch wieder knapp werden, aber vielleicht wird daf�
 der Beitrag zum Herzberg Festival fertig, der wesentlich kürzer ist. Versprechen
 werde ich das aber auch nicht.
 
-![](http://cardamonchai.com/wp-content/uploads/2012/08/img_20120802_125542-640x640.jpg "Aufregender Mittagspausenschnappschuss")
+<RemoteImage
+  alt=""
+  size="medium"
+  title="Aufregender Mittagspausenschnappschuss"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120802_125542__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_img_20120802_125542__l.jpg"
+  loadingUrl="undefined" />
 
 Heute Nacht hat es geregnet, inzwischen ist auf dem Asphalt allerdings jedes
 kleinste Bisschen Wasser schon wieder verdampft.

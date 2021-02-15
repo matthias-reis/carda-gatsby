@@ -77,7 +77,13 @@ weggeworfene Müll aufgeregt hat.
 nachzudenken in die Umwelt werfen. Das ist schon ziemlich schockierend. Welcher
 Fund war für Dich bis jetzt der schlimmste?
 
-![der-waechter-des-waldes](http://cardamonchai.com/wp-content/uploads/2019/09/der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-3-400x533.png "Florian sammelt in seiner Freizeit auf, was andere achtlos entsorgt haben. Foto: Florian Früchel privat")
+<RemoteImage
+  alt="der-waechter-des-waldes"
+  size="medium"
+  title="Florian sammelt in seiner Freizeit auf, was andere achtlos entsorgt haben. Foto: Florian Früchel privat"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-3.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-3.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Florian:** Einen besonders krassen Fund, der irgendwie hervorsticht, hat es
 zum Glück bis jetzt noch nicht gegeben. Schlimm finde ich vor allem, dass es
@@ -121,7 +127,13 @@ kommt auch mein Spitzname.
 Vorbild für andere Menschen sein. Was tust Du neben dem Müllsammeln noch, um
 Dich für die Umwelt einzusetzen?
 
-![der-waechter-des-waldes](http://cardamonchai.com/wp-content/uploads/2019/09/der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-1-400x533.png "Seinen Fahrradanhänger hat Florian schon unzählbare mit Müll gefüllt. Foto: Florian Früchel privat")
+<RemoteImage
+  alt="der-waechter-des-waldes"
+  size="medium"
+  title="Seinen Fahrradanhänger hat Florian schon unzählbare mit Müll gefüllt. Foto: Florian Früchel privat"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Florian:** Ich lebe vegan, nachhaltig und minimalistisch. Ich kaufe
 Plastik-frei ein, verwende gefundenen Plastikmüll wieder, sammle Wasser in
@@ -170,6 +182,12 @@ Wer Florian gerne unterstützen möchte und sich regelmäßig über seine Aktion
 informieren möchte, kann ihn jederzeit
 [auf seiner Facebook-Seite besuchen](https://www.facebook.com/Der-W%C3%A4chter-des-Waldes-631986140571029/).
 
-![der-waechter-des-waldes | full](http://cardamonchai.com/wp-content/uploads/2019/09/der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-pin.png "Dieses Bild könnt Ihr bei Pinterest teilen. Fotos: Florian Früchel privat")
+<RemoteImage
+  alt="der-waechter-des-waldes"
+  size="full"
+  title="Dieses Bild könnt Ihr bei Pinterest teilen. Fotos: Florian Früchel privat"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-pin.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_der-waechter-des-waldes-florian-fruechel-anne-reis-cardamonchai-rock-n-roll-vegan-pin.png__l.jpg"
+  loadingUrl="undefined" />
 
   

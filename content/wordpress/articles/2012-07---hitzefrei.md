@@ -72,7 +72,13 @@ früher irgendwie anders gewesen sein muss. Und an eine Neonlampe.
 Und wir rennen weiter hinter der Straßenbahn her und lassen unseren Regenschirm
 im Supermarkt an der Kasse liegen.
 
-!['Da saß ein Vogel auf dem Zaun' Anne Reko 6/2012 | full](http://cardamonchai.files.wordpress.com/2012/07/599460_450404824981652_1788614199_n1.jpg)
+<RemoteImage
+  alt="'Da saß ein Vogel auf dem Zaun' Anne Reko 6/2012"
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2012/07/599460_450404824981652_1788614199_n1.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2012/07/599460_450404824981652_1788614199_n1.jpg"
+  loadingUrl="undefined" />
 
 **Song zum Text: Incubus - A Crow Left Of The Murder**
 

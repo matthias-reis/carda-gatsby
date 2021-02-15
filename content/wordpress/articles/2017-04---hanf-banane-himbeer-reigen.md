@@ -40,7 +40,13 @@ subTitle: Kräftigender Smoothie für Naschkatzen
   
 ---
 
-![Hanf](http://cardamonchai.com/wp-content/uploads/2017/04/35362415875_303a38ecae_k-640x960.jpg)
+<RemoteImage
+  alt="Hanf"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__l.jpg"
+  loadingUrl="undefined" />
 
 **Kennt Ihr das? Man kommt einfach nicht dazu, Dinge zu erledigen und plötzlich
 hat sich ein riesiger Berg Arbeit angehäuft, der erledigt werden will. Da bleibt

@@ -43,7 +43,13 @@ werden. Die Produktionseinheiten, die man bestellt, sind bis zum Erzeuger
 zurückverfolgbar. Dieser steht mit dem Endverbraucher in direktem Kontakt steht.
 So wird das auf der Homepage crowdfarming.com grafisch dargestellt:
 
-![crowdfarming | full](http://cardamonchai.com/wp-content/uploads/2018/11/Crowdfarming.png)
+<RemoteImage
+  alt="crowdfarming"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming.png__l.jpg"
+  loadingUrl="undefined" />
 
 Adoptieren kann man zum Beispiel Clementinen, Reis, Oliven, Kaffee und Mandeln.
 Keine schlechte Vorstellung, einen Mandelbaum auf Granada, oder einen Kakaobaum
@@ -55,7 +61,13 @@ Lebensmittel kommen und unter welchen Bedingungen sie produziert werden.
 
 ## CrowdFarming - Alles begann mit einer kleinen Orangenplantage
 
-![](http://cardamonchai.com/wp-content/uploads/2018/11/Gabriel-and-Gonzalo-Urculo-400x267.jpg "Gabriel und Gonzalo Urculo")
+<RemoteImage
+  alt=""
+  size="medium"
+  title="Gabriel und Gonzalo Urculo"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Gabriel-and-Gonzalo-Urculo__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Gabriel-and-Gonzalo-Urculo__l.jpg"
+  loadingUrl="undefined" />
 
 Gabriel und Gonzalo Urculo riefen CrowdFarming ins Leben. 2010 entschieden sich
 die Brüder, sich voll und ganz dem Wiederaufbau der Orangenplantage ihres
@@ -77,7 +89,13 @@ ums blanke Überleben, wenn niemand für den Mehraufwand aufkommt.
 
 ## Ein neues Anbaukonzept
 
-![crowdfarming](http://cardamonchai.com/wp-content/uploads/2018/11/Crowdfarming-of-apricots-apricot-tree-400x225.jpg "Aprikosen")
+<RemoteImage
+  alt="crowdfarming"
+  size="medium"
+  title="Aprikosen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-apricots-apricot-tree__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-apricots-apricot-tree__l.jpg"
+  loadingUrl="undefined" />
 
 Die Gebrüder Urculo haben beschlossen, dass sich das ändern muss. Sie haben
 erkannt, dass die einzige Möglichkeit, wirklich gute Orangen anzubauen, in einer
@@ -99,7 +117,13 @@ sich anschließen. Gonzalo ist begeistert:
 
 ## Das Fenster zur Welt
 
-![crowdfarming](http://cardamonchai.com/wp-content/uploads/2018/11/Crowdfarming-of-olive-oil-olive-trees-400x267.jpg "Oliven")
+<RemoteImage
+  alt="crowdfarming"
+  size="medium"
+  title="Oliven"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-olive-oil-olive-trees__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-olive-oil-olive-trees__l.jpg"
+  loadingUrl="undefined" />
 
 Er stellt sich crowdfarming.com wie ein Fenster vor, durch das kleine Landwirte
 von der Welt gesehen werden. Sie bauen auf Bestellung von Menschen an, die sich

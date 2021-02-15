@@ -60,12 +60,24 @@ fest:"Die Hermetiker" ist unter den ersten zehn.
 Das ist ein kleiner Zwischenerfolg, der uns sehr glücklich macht. In der VLB-TIX
 sieht unsere Roman-Seite jetzt so aus [<sup>1</sup>](#1) :
 
-![deutscher-selfpublishing-preis | full](http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-14.05.22-960x363.png)
+<RemoteImage
+  alt="deutscher-selfpublishing-preis"
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-14.05.22-960x363.png"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-14.05.22-960x363.png"
+  loadingUrl="undefined" />
 
 Auf der BOD (Books on demand) Contest-Seite sind wir als drittes Buch zu sehen,
 schaut mal [<sup>2</sup>](#2) :
 
-![deutscher-selfpublishing-preis | full](http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-13.35.30-960x1093.png)
+<RemoteImage
+  alt="deutscher-selfpublishing-preis"
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-13.35.30-960x1093.png"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2019/07/Bildschirmfoto-2019-07-16-um-13.35.30-960x1093.png"
+  loadingUrl="undefined" />
 
 Toll, oder? Wir freuen uns wirklich sehr darüber und sind mehr als gespannt, wie
 es weitergeht. Bis zum Ende dieses Monats entscheidet sich, wer beim Deutschen

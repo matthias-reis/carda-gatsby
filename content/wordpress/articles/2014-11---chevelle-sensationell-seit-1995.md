@@ -45,7 +45,13 @@ subTitle: Chevelle live @ Backstage Halle München
   
 ---
 
-![Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte](http://cardamonchai.com/wp-content/uploads/2014/11/unbenannt-2-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte")
+<RemoteImage
+  alt="Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Chevelle endlich live in Europa - Fantrophäe und Eintrittskarte"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_unbenannt-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_unbenannt-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Chevelle - Das sind Pete (Gesang und Gitarre) und Sam (Drums) Loeffler und
 Dean Bernadini (Bass).**
@@ -64,7 +70,13 @@ schon. Am Montag, den 3. November war es endlich soweit und wir durften sie live
 sehen. Endlich eine Europatournee (zusätzlich zu den Festivalauftritten dieses
 Jahr) und dann auch noch ein Zwischenhalt in München, wie wunderbar!
 
-![Das Konzert war sensationell](http://cardamonchai.com/wp-content/uploads/2014/11/img_2546-640x853.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Das Konzert war sensationell")
+<RemoteImage
+  alt="Das Konzert war sensationell"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Konzert war sensationell"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_img_2546__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_img_2546__l.jpg"
+  loadingUrl="undefined" />
 
 Das Konzert war sensationell, wir standen in der ersten Reihe und erlebten alles
 hautnah. Das Publikum tobte, alle feierten ausgelassen, endlich "ihre" Chevelle

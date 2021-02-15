@@ -28,7 +28,13 @@ subTitle: Tagebucheintrag
   
 ---
 
-![Sonne, Mond und Wolken](http://cardamonchai.com/wp-content/uploads/2012/06/p1000340-640x480.jpg "[ ](/wp-content/uploads/2012/06/p1000340.jpg)  Sonne, Mond und Wolken")
+<RemoteImage
+  alt="Sonne, Mond und Wolken"
+  size="medium"
+  title="[ ](/wp-content/uploads/2012/06/p1000340.jpg)  Sonne, Mond und Wolken"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_p1000340__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_p1000340__l.jpg"
+  loadingUrl="undefined" />
 
 **Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die Blumen
 blühen, die Meiler schmelzen. Armes Japan. Menschen werden vermisst, haben ihr

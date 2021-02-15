@@ -36,7 +36,13 @@ subTitle: Leseraufruf
   
 ---
 
-![Themen](http://cardamonchai.com/wp-content/uploads/2016/11/29394622754_0160985023_z-640x427.jpg "Hier könnte Euer Themenvorschlag hängen")
+<RemoteImage
+  alt="Themen"
+  size="medium"
+  title="Hier könnte Euer Themenvorschlag hängen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29394622754_0160985023_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29394622754_0160985023_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Kennt Ihr noch meine Ode an die
 [herbstliche Schreibblockade](/2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/)

@@ -50,7 +50,13 @@ an die Hand geben", berichtete mir Vega vom Lonely Planet, als sie mir das neue
 Werk vorstellte. Auf die Frage, ob ich mir das Buch mal anschauen wollte, gab es
 für mich natürlich nur eine Antwort. Wie könnte ich mir das entgehen lassen?
 
-![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-15-400x533.jpg "[ ](http://tidd.ly/b1b6af2a)  Vegan reisen. Bild / picture: Lonely Planet")
+<RemoteImage
+  alt="the-vegan-travel-handbook-lonely-planet"
+  size="medium"
+  title="[ ](http://tidd.ly/b1b6af2a)  Vegan reisen. Bild / picture: Lonely Planet"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-15__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-15__l.jpg"
+  loadingUrl="undefined" />
 
 Unterteilt ist der bisher ausschließlich in englischer Sprache erschienene
 vegane LP in die äußerst praktischen Kapitel "Planning", "Inspiration",
@@ -94,7 +100,13 @@ meinen nächsten Urlaub vermutlich aussehen wird.
 
 ## Vegan reisen - die Top 10 der vegan-freundlichen Städte
 
-![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-22-400x533.png "[ ](http://tidd.ly/b1b6af2a)  Veganer⋆innen auf Abenteuersuche. Bild / picture: Lonely Planet")
+<RemoteImage
+  alt="the-vegan-travel-handbook-lonely-planet"
+  size="medium"
+  title="[ ](http://tidd.ly/b1b6af2a)  Veganer⋆innen auf Abenteuersuche. Bild / picture: Lonely Planet"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-22.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-22.png__l.jpg"
+  loadingUrl="undefined" />
 
 In den Lonely Planet Top 10 der vegan-freundlichen Städte ist übrigens Berlin
 auf Platz 1. Auch das geht aus dem neuen Buch hervor. Auf den Plätzen 2 bis 4
@@ -145,7 +157,13 @@ die lokale Küche, für Restaurants und das möglichst grüne Reisen.
 
 ## Kultur
 
-![the-vegan-travel-handbook-lonely-planet](http://cardamonchai.com/wp-content/uploads/2019/12/Design-ohne-Titel-14-400x533.jpg "[ ](http://tidd.ly/b1b6af2a)  Tipps für veganes Essen auf Reisen. Bild / picture: Lonely Planet")
+<RemoteImage
+  alt="the-vegan-travel-handbook-lonely-planet"
+  size="medium"
+  title="[ ](http://tidd.ly/b1b6af2a)  Tipps für veganes Essen auf Reisen. Bild / picture: Lonely Planet"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-14__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_Design-ohne-Titel-14__l.jpg"
+  loadingUrl="undefined" />
 
 Besondere Erwähnung finden im neuen veganen Reiseführer die Kultur in Osteuropa,
 in Indien (hier wird vor allem auch die herausragende Gastfreudschaft und die
@@ -180,7 +198,13 @@ Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
 
 <!-- START ADVERTISER: Lonely Planet Publications from awin.com -->
 
-![](https://www.awin1.com/cshow.php?s=2459095&v=1238&q=369704&r=632580)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.awin1.com/cshow.php?s=2459095&amp;v=1238&amp;q=369704&amp;r=632580"
+  largeUrl="https://www.awin1.com/cshow.php?s=2459095&amp;v=1238&amp;q=369704&amp;r=632580"
+  loadingUrl="undefined" />
 
 [](https://www.awin1.com/cread.php?s=2459095&v=1238&q=369704&r=632580)
 

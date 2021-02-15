@@ -56,7 +56,13 @@ In der IMDB hat Adam Greens Aladdin von mir übrigens die volle Punktzahl
 bekommen. Ihr solltet ihn also unbedingt anschauen! Es tauchen auch ein paar
 alte Bekannte darin auf. Mehr wird aber noch nicht verraten! ;-)
 
-![Adam Green | full](http://cardamonchai.com/wp-content/uploads/2016/05/26644858502_850a7a7e80_z.jpg)
+<RemoteImage
+  alt="Adam Green"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26644858502_850a7a7e80_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26644858502_850a7a7e80_z__l.jpg"
+  loadingUrl="undefined" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

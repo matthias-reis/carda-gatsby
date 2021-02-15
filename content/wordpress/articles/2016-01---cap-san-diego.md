@@ -31,7 +31,13 @@ subTitle: Museumsschiff mit Geschichte
   
 ---
 
-![Cap San Diego](http://cardamonchai.com/wp-content/uploads/2016/01/24595510421_0b3d33820b_z.jpg "Entdeckungstour auf der Cap San Diego")
+<RemoteImage
+  alt="Cap San Diego"
+  size="medium"
+  title="Entdeckungstour auf der Cap San Diego"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24595510421_0b3d33820b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24595510421_0b3d33820b_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor Kurzem hatten wir Besuch da und weil das Wetter an einem Nachmittag
 verschneit und winterlich war, entschieden wir uns für einen Museumsbesuch der
@@ -51,7 +57,13 @@ Für den Bau der Cap San Diego war die Reederei Hamburg-Südamerikanische
 Dampfschifffahrtsgesellschaft Eggert &amp; Amsinck verantwortlich. Am 15.
 Dezember 1961 lief das Schiff unter dem Namen Hamburg Süd vom Stapel.
 
-![Cap San Diego](http://cardamonchai.com/wp-content/uploads/2016/01/24393517750_8b02aa5876_z.jpg "So groß!")
+<RemoteImage
+  alt="Cap San Diego"
+  size="medium"
+  title="So groß!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24393517750_8b02aa5876_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24393517750_8b02aa5876_z__l.jpg"
+  loadingUrl="undefined" />
 
 Am 30. März 1962 verließ sie das erste Mal auf dem Weg nach Südamerika den
 Hafen. Am 30. Juni kehrte sie nach Hamburg zurück.
@@ -69,7 +81,13 @@ das Schiff seinen heutigen Namen.
 Inc. Monrovia. Sie wurde auf den Namen Sangria getauft und fuhr unter
 karibischer Flagge. Heimathafen war nun Kingstown.
 
-![Cap San Diego](http://cardamonchai.com/wp-content/uploads/2016/01/24060686614_6a2777df81_z.jpg "Schraube")
+<RemoteImage
+  alt="Cap San Diego"
+  size="medium"
+  title="Schraube"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24060686614_6a2777df81_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24060686614_6a2777df81_z__l.jpg"
+  loadingUrl="undefined" />
 
 Kurz vor der Verschrottung kaufte die Stadt Hamburg die Sangria. Das Schiff
 machte in Cuxhafen fest und wurde von einem Team aus Freiwilligen wieder

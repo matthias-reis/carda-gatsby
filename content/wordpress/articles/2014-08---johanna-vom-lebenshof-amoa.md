@@ -50,7 +50,13 @@ subTitle: '"Der Schutz und die Rechte der Tiere stehen an erster Stelle"'
   
 ---
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg "Johanna Schlitzkus")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Johanna Schlitzkus"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/johanna.jpg"
+  loadingUrl="undefined" />
 
 Nach und nach haben sie sich und ihren Tieren mit
 [AMOA](http://www.tierhof-amoa.de) ein großes, gemütliches Zuhause aufgebaut.
@@ -70,7 +76,13 @@ nimmst.
 **Anne:** Wie kam es dazu, dass Ihr [AMOA](http://www.tierhof-amoa.de) gegründet
 habt?
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg "Der Hof 2011")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Der Hof 2011"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-2011.jpg"
+  loadingUrl="undefined" />
 
 **Johanna:** Wir haben es nicht geplant, es ist entstanden. Wir hatten bereits 2
 Katzen, einen gehörlosen Kater und zwei "Problemhunde". Eigentlich suchten wir
@@ -94,7 +106,13 @@ Und so kamen die ersten Katzen zu uns. Blinde Katzen, einäugige Katzen, Katzen
 mit psychischen Auffälligkeiten, halb verhungerte Katzen, schwer misshandelte
 Katzen…
 
-![Lebenshof | full](http://cardamonchai.com/wp-content/uploads/2014/08/die-gackack-gang.jpg "Die Gackack-Gang")
+<RemoteImage
+  alt="Lebenshof"
+  size="full"
+  title="Die Gackack-Gang"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_die-gackack-gang__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_die-gackack-gang__l.jpg"
+  loadingUrl="undefined" />
 
 Zwischendurch kamen Hühner von "[Rettet Das Huhn](http://rettetdashuhn.de)" ,
 Hühner aus der Massentierhaltung. Alles was diese Tiere brauchten, war eine
@@ -108,7 +126,13 @@ kam die Veränderung?
 
 ## Mit dem Bewusstsein, dass vegetarisch nichts ändert, kam die Umstellung **Johanna:** Mit dem Bewusstsein, dass wir mit unserer Vegetarischen Einstellung nichts verändern. Ich sah mir mit meiner Familie ein Video über die konventionelle Kuhhaltung an. In diesem Video wurde ein Kalb der Mutter weggenommen. Es wurde auf einen Anhänger gelegt und dann fuhr der Bauer mit dem Kälbchen davon. Die Kuh lief lange hinter dem Anhänger her und beide schrien fürchterlich. Dieses Video hat für mich den Ausschlag gegeben.
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225 "Asha")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Asha"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/asha.jpg?w=225"
+  loadingUrl="undefined" />
 
 Wir haben alle vor dem Bildschirm gesessen und geweint. Danach haben wir ein
 Datum festgesetzt, so dass wir noch Zeit hatten unsere vegetarischen
@@ -127,7 +151,13 @@ selbst entschieden.
 Arterhaltung beiträgt. War das schon immer Dein Hauptthemengebiet, oder gab es
 schon mal ein anderes?
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300 "Maxi")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Maxi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/mini.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Johanna:** Es gibt immer Themen die mich faszinieren oder so dermaßen wütend
 machen, dass ich darüber schreiben muss. Tierschutz im "Kleinen" war schon immer
@@ -148,7 +178,13 @@ aber ihm war die Arbeit bei uns zu viel. Ich muss dazu sagen, bei uns kann man
 nichts verdienen, man muss also schon sehr individuell und selbstlos sein, um
 mit uns arbeiten zu wollen.
 
-![Lebenshof | full](http://cardamonchai.com/wp-content/uploads/2014/08/agata.jpg "Agata")
+<RemoteImage
+  alt="Lebenshof"
+  size="full"
+  title="Agata"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_agata__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_agata__l.jpg"
+  loadingUrl="undefined" />
 
 Zu den ehrenamtlichen Helfern kommen noch Spender und Sponsoren. Wir konnten
 drei Firmen gewinnen die uns hin und wieder mit Futterspenden unterstützen. Und
@@ -161,7 +197,13 @@ Es ist ein ewiger Kreislauf aus geben und verzehren.
 **Anne:** Bleibt bei der ganzen Arbeit auf dem Hof und als Autorin eigentlich
 auch noch Zeit für Euch? Was macht Ihr, wenn Ihr mal wegfahren wollt?
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225 "Toffi")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Toffi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/toffi.jpg?w=225"
+  loadingUrl="undefined" />
 
 **Johanna:** Wir versuchen alles halbe Jahr mal ins Kino zu gehen. Ansonsten ist
 wegfahren so eine Sache. Über Nacht geht nur im Notfall, da wir unsere Hunde
@@ -182,7 +224,13 @@ mit ihm aufgewachsen und er starb kurz vor meinem 19 Lebensjahr.
 [ein persönliches Blog](http://tierhof-amoa.blogspot.de) zum Thema vegane
 Lebensweise und Tierrecht. Gibt es noch mehr von Dir im Netz zu finden?
 
-![Lebenshof | full](http://cardamonchai.com/wp-content/uploads/2014/08/stefano-emo.jpg "Stefano Emo")
+<RemoteImage
+  alt="Lebenshof"
+  size="full"
+  title="Stefano Emo"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_stefano-emo__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_stefano-emo__l.jpg"
+  loadingUrl="undefined" />
 
 **Johanna:** Ja, einiges, ich habe für das Online-Magazin
 [Tuckenalarm](http://www.tuckenalarm.com) einen Artikel geschrieben. Ich
@@ -210,7 +258,13 @@ abgelegt. Seitdem lebe ich offen als Buddhistin. Ich bin bewusst keiner Schule
 anhängig, ich gebe den Weg des Pacceka Bodhi, ein Weg, den alten Überlieferungen
 zufolge auch Buddha gegangen ist.
 
-![Lebenshof | full](http://cardamonchai.com/wp-content/uploads/2014/08/shadi.jpg "Shadi")
+<RemoteImage
+  alt="Lebenshof"
+  size="full"
+  title="Shadi"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_shadi__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_shadi__l.jpg"
+  loadingUrl="undefined" />
 
 Meine Frau teilt den Weg mit mir. Jedoch geht sie ihn leiser und bedachter als
 ich. Shaya wird buddhistisch erzogen, das bedeutet zunächst einmal, dass sie
@@ -232,7 +286,13 @@ Da ich mich in der Verantwortung sehe, auch dafür zu sorgen, das niemand
 gefährdet oder getötet wird, um mich zu ernähren, gehört das Ablehnen von
 Fleisch und Milchkonsum für mich unbedingt dazu.
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg "Der Tierhof AMOA")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Der Tierhof AMOA"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/hof-jetzt.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Shaya _(Name von Johannas und Brittas Tochter, Anm. Anne)_ ,
 [AMOA](http://www.tierhof-amoa.de), das klingt nach sehr bedeutungsvollen Namen.
@@ -249,7 +309,13 @@ Leben gekommen ist?
 
 ## "Ich habe mir immer ein Kind gewünscht" **Johanna:** Ich selbst kann aus traumatischen Gründen keine Kinder bekommen. Dennoch habe ich mir immer ein Kind gewünscht, so sehr, dass ich dadurch sehr unglücklich wurde. Als ich Britta kennenlernte, wollte sie zunächst keine Kinder.
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222 "Die blinde Bebbles")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Die blinde Bebbles"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/bebbles-ist-blind.jpg?w=222"
+  loadingUrl="undefined" />
 
 Also habe ich es noch einmal versucht. Ich dachte tatsächlich, wenn ich nicht
 versuche, schwanger zu werden, sterbe ich. So hat es sich für mich wirklich
@@ -279,7 +345,13 @@ geschlossen, ich weiß gar nicht, ob da heute überhaupt noch eine Bar drin ist.
 
 ## "Ich war sofort bis über beide Ohren verliebt"
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300 "Maxi Mumm und Mini (v. l. n. r.)")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Maxi Mumm und Mini (v. l. n. r.)"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/maxi-mumm-und-mini-v-l-n-r.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Johanna:** Bei mir ja, ich habe Britta von hinten gesehen und war sofort bis
 über beide Ohren verliebt. Nachdem ich ihr zum Abschied einen Kuss auf die Stirn
@@ -297,7 +369,13 @@ Interessen, gründen eine Familie und retten hilflosen Tieren das Leben...
 Ich war im Grunde meines Herzens schon immer und bin es wohl auch nach wie vor,
 ein Punk mit Leib und Seele, Britta hingegen ist eine Polizistin.
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225 "Natchi wurde in Bulgarien gefunden. Sie hat keine Augen.")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Natchi wurde in Bulgarien gefunden. Sie hat keine Augen."
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/nachti.jpg?w=225"
+  loadingUrl="undefined" />
 
 Als ich erfahren habe, dass sie Bullin ist (das ist liebevoll gemeint), bin ich
 fast in Ohnmacht gefallen. Nachdem ich ihr von meiner Drogenvergangenheit
@@ -317,7 +395,13 @@ ausstellen können. Bis dahin sind alle Spenden selbstlos.
 
 ## "Wir haben eine Spendenliste"
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225 "Flecki")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Flecki"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/flecki.jpg?w=225"
+  loadingUrl="undefined" />
 
 Wir benötigen immer dringend Katzenfutter und Katzenstreu. Aus dem Grund habe
 ich [eine Spendenliste](http://www.amazon.de/registry/wishlist/2P1NRWBUCJD71)
@@ -336,7 +420,13 @@ tierversuchsfreien DM-Hausmarke.
 
 **Anne:** Vermittelt Ihr auch Tiere?
 
-![Lebenshof](http://cardamonchai.com/wp-content/uploads/2014/08/bommel-mit-ihren-babies-640x480.jpg "Katzenmutter Bommel mit ihren Babies")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Katzenmutter Bommel mit ihren Babies"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bommel-mit-ihren-babies__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bommel-mit-ihren-babies__l.jpg"
+  loadingUrl="undefined" />
 
 **Johanna:** Nur in Ausnahmesituationen. Momentan ist so eine Ausnahmesituation.
 Wir haben im Mai eine trächtige Katze aufgenommen, die am 2. Juli 6 Welpen
@@ -353,7 +443,13 @@ vermittelt.
 Die Regenbogenbrücke ist eigentlich die Asenbrücke, eine Verbindung zwischen
 Midgart (Himmel) und Asgart (Erde).
 
-![Lebenshof](http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225 "Bommels verstorbener Sohn Mary")
+<RemoteImage
+  alt="Lebenshof"
+  size="medium"
+  title="Bommels verstorbener Sohn Mary"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/08/mary-verstorben.jpg?w=225"
+  loadingUrl="undefined" />
 
 Ich weiß nicht, wer diese Mythologie mit in die Tierhalterwelt brachte. Auf
 jeden Fall bedeutet sie einen kleinen Hoffnungsschimmer in der Trauer um ein

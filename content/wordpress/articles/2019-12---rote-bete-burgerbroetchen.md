@@ -59,7 +59,13 @@ selbst gebacken - das Rezept ist ganz einfach und gelingt sehr gut!
 
 ## Zubereitung
 
-![burgerbroetchen](http://cardamonchai.com/wp-content/uploads/2019/12/2019-12-07-rote-bete-broetchen-1-400x300.jpg)
+<RemoteImage
+  alt="burgerbroetchen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-07-rote-bete-broetchen-1__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt halten wir uns beim Backen komplett an das Rezept aus der Kurkuma
 Kochschule. Wir haben lediglich etwas Gram hinzugefügt - damit lässt sich der

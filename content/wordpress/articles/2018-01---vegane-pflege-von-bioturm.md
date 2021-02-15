@@ -34,7 +34,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (88:29)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (118:29)"
 thumbnailId: "19169"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__l.jpg
@@ -43,7 +43,7 @@ subTitle: All Time Beauty-Favourites unter der Lupe
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (88:29)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (118:29)
 
 <!--
 Werbung\*
@@ -62,7 +62,13 @@ mal etwas Neues auszuprobieren.
 
 ## Wir wäre es mit Mango?
 
-![Bioturm](http://cardamonchai.com/wp-content/uploads/2018/01/38980894875_f16cf7b620_z-300x200.jpg)
+<RemoteImage
+  alt="Bioturm"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38980894875_f16cf7b620_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_38980894875_f16cf7b620_z__l.jpg"
+  loadingUrl="undefined" />
 
 Warum nicht zum nahenden Frühjahr mal etwas Farbe und frischen Duft reinbringen?
 Wie wäre es mit Mango? Interessanter Gedanke, oder? Finde ich auch. Und ich
@@ -79,7 +85,13 @@ verantwortlich.
 
 ## Mangocreme und Duschgel
 
-![Bioturm](http://cardamonchai.com/wp-content/uploads/2018/01/25008571257_e5f8eb55f1_z-300x200.jpg)
+<RemoteImage
+  alt="Bioturm"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_25008571257_e5f8eb55f1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_25008571257_e5f8eb55f1_z__l.jpg"
+  loadingUrl="undefined" />
 
 Hier die komplette Liste der Inhaltsstoffe in der Body Creme Mango:
 
@@ -94,7 +106,13 @@ Wenn man mit dem Mango-Duschgel unter die Dusche geht, fängt der Tag gleich gut
 Eingehüllt in eine warme Duftwolke kann man vom Urlaub in den Tropen träumen und
 möchte da so schnell gar nicht mehr raus. Bestandteile sind hier:
 
-![Bioturm](http://cardamonchai.com/wp-content/uploads/2018/01/39169395384_3975fe2aa1_z-300x200.jpg)
+<RemoteImage
+  alt="Bioturm"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169395384_3975fe2aa1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169395384_3975fe2aa1_z__l.jpg"
+  loadingUrl="undefined" />
 
 _Wasser, waschaktive Substanz auf pflanzl. Basis, waschaktive Substanz auf
 Cocos/Zucker Basis, Inulin,  (pflanzliche) Milchsäure, Kochsalz, Mischung
@@ -113,7 +131,13 @@ And Vegan_ Label sowie das _International Organic And Natural Cosmetics
 Corporation_ Label. Ersteres steht für geprüft vegane und Tierleid-freie Waren,
 zweiteres für natürliche Biokosmetik.
 
-![Bioturm | full](http://cardamonchai.com/wp-content/uploads/2018/01/Peta-cruelty-free-and-vegan.png)
+<RemoteImage
+  alt="Bioturm"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Peta-cruelty-free-and-vegan.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Peta-cruelty-free-and-vegan.png__l.jpg"
+  loadingUrl="undefined" />
 
 Für Euch möchte ich an dieser Stelle den Hersteller Bioturm noch etwas genauer
 unter die Lupe nehmen. Man möchte ja schließlich wissen, was man sich da so auf
@@ -121,7 +145,13 @@ die Haut schmiert, oder?
 
 ## Bioturm gibt es seit 2001
 
-![Bioturm](http://cardamonchai.com/wp-content/uploads/2018/01/26006986268_5f20628c2a_z-300x200.jpg)
+<RemoteImage
+  alt="Bioturm"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006986268_5f20628c2a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006986268_5f20628c2a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gegründet wurde Bioturm im Jahr 2001 von Martin Evers zusammen mit seiner Frau
 Karin und seiner Tochter, der Apothekerin Jasmin. Ihr erklärtes Ziel war es, das
@@ -156,7 +186,13 @@ Administration (CFDA) zwingend vorgeschrieben sind.
 tolerieren und haben uns daher bewusst gegen eine Lieferung nach China
 entschieden."** </blockquote>
 
-![Bioturm](http://cardamonchai.com/wp-content/uploads/2018/01/39880742461_4e2aa2e630_z-300x200.jpg)
+<RemoteImage
+  alt="Bioturm"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39880742461_4e2aa2e630_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39880742461_4e2aa2e630_z__l.jpg"
+  loadingUrl="undefined" />
 
 Neben der von mir beschriebenen Duftserie, die ich nun schon in der Variante
 Granatapfel und Mango kenne, gibt es außerdem Shampoos und Haarpflegeprodukte

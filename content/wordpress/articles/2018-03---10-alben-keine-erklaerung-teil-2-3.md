@@ -76,43 +76,103 @@ aller Zeiten vorgestellt, heute zeige ich Euch die von Björn.
 
 1.) "This Is Hardcore" - Pulp
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Pulp-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Pulp__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Pulp__l.jpg"
+  loadingUrl="undefined" />
 
 1.) "OK Computer" - Radiohead
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Radiohead-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Radiohead__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Radiohead__l.jpg"
+  loadingUrl="undefined" />
 
 3.) "Seventeen Seconds" - The Cure
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/The-Cure-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_The-Cure__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_The-Cure__l.jpg"
+  loadingUrl="undefined" />
 
 4.) "Neon Golden" - The Notwist
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/The-Notwist-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_The-Notwist__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_The-Notwist__l.jpg"
+  loadingUrl="undefined" />
 
 5.) "Songs For The Deaf" - Queens Of The Stone Age
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Queens-Of-The-Stone-Age-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Queens-Of-The-Stone-Age__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Queens-Of-The-Stone-Age__l.jpg"
+  loadingUrl="undefined" />
 
 6.) "The Shape Of Punk To Come" - Refused
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Refused-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Refused__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Refused__l.jpg"
+  loadingUrl="undefined" />
 
 7.) "The Infinite Circle" - Lucia
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Sophia-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Sophia__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Sophia__l.jpg"
+  loadingUrl="undefined" />
 
 8.) "What I Got" - Sublime
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Sublime-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Sublime__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Sublime__l.jpg"
+  loadingUrl="undefined" />
 
 9.) "High Violet" - The National
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/The-National-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_The-National__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_The-National__l.jpg"
+  loadingUrl="undefined" />
 
 10.) "Bloom" - Beachhouse
 
-![10 Alben](http://cardamonchai.com/wp-content/uploads/2018/03/Beach-House-400x400.jpg)
+<RemoteImage
+  alt="10 Alben"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Beach-House__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_Beach-House__l.jpg"
+  loadingUrl="undefined" />
 
 ## Wegweiser "Alben - Keine Erklärung"
 

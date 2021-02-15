@@ -44,7 +44,13 @@ subTitle: Gregor Gysi zu Innenpolitik und Groko
   
 ---
 
-![Dr. Gregor Gysi](http://cardamonchai.files.wordpress.com/2013/12/img_6737.jpg?w=200 "Dr. Gregor Gysi")
+<RemoteImage
+  alt="Dr. Gregor Gysi"
+  size="medium"
+  title="Dr. Gregor Gysi"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/12/img_6737.jpg?w=200"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/12/img_6737.jpg?w=200"
+  loadingUrl="undefined" />
 
 **Am Montagabend hielt Gregor Gysi im Rahmen der jährlichen Betriebsrats-Tage in
 München einen Vortrag zum Thema "Wie weiter? - Umdenken bei Leiharbeit und

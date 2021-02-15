@@ -65,7 +65,13 @@ Bars bestückt hat, damit man dort bei schöner Musik gepflegte Sommerabende mit
 Strandgefühl verbringen kann. Leider hat mir meine chaotische 'Planung' dabei
 einen Strich durch die Rechnung gemacht.
 
-![Die Geschichte von der Dachterrasse](http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z-640x480.jpg "[ ](http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z.jpg)  Die Geschichte von der Dachterrasse")
+<RemoteImage
+  alt="Die Geschichte von der Dachterrasse"
+  size="medium"
+  title="[ ](http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z.jpg)  Die Geschichte von der Dachterrasse"
+  mediumUrl="http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z-640x480.jpg"
+  largeUrl="http://cardamonchai.aithir.de/wp-content/uploads/2012/08/9918517073_1c699d6bcc_z-640x480.jpg"
+  loadingUrl="undefined" />
 
 Alles fing damit an, dass mein Bruder vor ca. 1/2 Jahr Konzertkarten für Mark
 Lanegan besorgt hatte. Natürlich war ich sofort Feuer und Flamme und habe mich

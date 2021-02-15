@@ -47,7 +47,13 @@ Kalender, habe ich jetzt die Kartenmacherei\*\* getestet. Auf der Homepage der
 Kartenmacherei kann man seine persönlichen Lieblingsfotos hochladen und daraus
 einen Kalender gestalten.**
 
-![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-8-von-16-300x200.jpg)
+<RemoteImage
+  alt="Kartenmacherei"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-8-von-16__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-8-von-16__l.jpg"
+  loadingUrl="undefined" />
 
 Klingt schon mal gut, oder? Das Ganze funktioniert in mehreren Schritten. Als
 erstes sollte man sich am besten alle Fotos in druckbarer Auflösung in einem
@@ -71,7 +77,13 @@ und dabei sogar zwischen den Seiten hin- und herwechseln.
 
 ## Das passende Layout auswählen
 
-![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-6-von-16-300x200.jpg)
+<RemoteImage
+  alt="Kartenmacherei"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-6-von-16__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-6-von-16__l.jpg"
+  loadingUrl="undefined" />
 
 Auf der rechten Seite gibt es ein Layout-Auswahlmenü. Bei dem von mir
 ausgesuchten Modell hat man die Wahl zwischen einem und drei Fotos pro Seite.
@@ -99,7 +111,13 @@ pünktlich an.
 
 ## Das Ergebnis
 
-![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-4-von-16-300x200.jpg)
+<RemoteImage
+  alt="Kartenmacherei"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-4-von-16__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-4-von-16__l.jpg"
+  loadingUrl="undefined" />
 
 Doch jetzt mal ran an den [Speck](/category/vegan-2/) : Ihr wollt bestimmt
 wissen, wie ich mit dem Ergebnis zufrieden bin? Der Kalender war schon mal sehr
@@ -125,7 +143,13 @@ erzielen.
 
 ## Der Preis ist OK
 
-![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-14-von-16-300x200.jpg)
+<RemoteImage
+  alt="Kartenmacherei"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-14-von-16__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-14-von-16__l.jpg"
+  loadingUrl="undefined" />
 
 Der Preis stimmt außerdem auch noch. Ich habe wirklich ein sehr hochwertiges
 Papier gewählt und obendrein wollte ich auch noch die extravagante Aufhängung
@@ -136,7 +160,13 @@ kommt man ja sogar noch wesentlich günstiger weg.
 
 **Mein Fazit:** Kann man auf jeden Fall machen.
 
-![Kartenmacherei](http://cardamonchai.com/wp-content/uploads/2017/11/Kalender-16-von-16-300x300.jpg)
+<RemoteImage
+  alt="Kartenmacherei"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-16-von-16__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-16-von-16__l.jpg"
+  loadingUrl="undefined" />
 
 Einigen der Fotos im Kalender könnt Ihr auch hier im Blog begegnen.
 [Schaut zum Beispiel mal hier vorbei](/2017/11/kilkenny-bunte-insel-irland/)

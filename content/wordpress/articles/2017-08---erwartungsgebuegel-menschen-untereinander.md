@@ -23,7 +23,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Unterminated JSX contents (44:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (56:16)"
 thumbnailId: "17327"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_29394420074_a1e126428e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_29394420074_a1e126428e_z__l.jpg
@@ -32,10 +32,16 @@ subTitle: <span class="s1">Nicht wertend gemeint</span>
   
 ---
 
-## unknown: Unterminated JSX contents (44:16)
+## unknown: Unterminated JSX contents (56:16)
 
 <!--
-![Wetter](http://cardamonchai.com/wp-content/uploads/2017/08/14159340218_160988f645_z.jpg)
+<RemoteImage
+  alt="Wetter"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_14159340218_160988f645_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_14159340218_160988f645_z__l.jpg"
+  loadingUrl="undefined" />
 
 <p class="p1">
 
@@ -82,7 +88,13 @@ Dagegen angehen. Doch lieber morgen.
 <p class="p1">Menschen.
 Heutzutage.</p>
 
-![Wetter | full](http://cardamonchai.com/wp-content/uploads/2017/08/15659774513_dc88123b2d_z.jpg)
+<RemoteImage
+  alt="Wetter"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_15659774513_dc88123b2d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_15659774513_dc88123b2d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Merken
 

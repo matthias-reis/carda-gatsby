@@ -56,7 +56,13 @@ Erfahrungen mit Sauberkunst teilhaben lassen.
 
 ## Das Sauberkunst Paket ist da!
 
-![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/01/39847370992_0ddb8d188c_z-300x200.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847370992_0ddb8d188c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847370992_0ddb8d188c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das liebevollst verpackte Päckchen erreicht mich nur zwei Tage nach meiner
 Bestellung. Schon beim Öffnen des Deckels steigt mir ein sehr angenehmes Aroma
@@ -77,7 +83,13 @@ Körperseife "Lemongras" sowie die Dusch- und Badeseife "Bergamotte".
 
 ## Frei von Plastik und Palmöl!
 
-![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/01/26006497548_1f033b7aaf_z-300x200.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006497548_1f033b7aaf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006497548_1f033b7aaf_z__l.jpg"
+  loadingUrl="undefined" />
 
 Alle Produkte von Sauberkunst sind frei von Palmöl und Mikroplastik. Gefertigt
 werden sie im Brandenburger Land. Gekauft werden kann online oder in den beiden
@@ -97,7 +109,13 @@ Seifenschale in Wohlgefallen auflöst.
 
 ## Gut für Reisen mit leichtem Gepäck
 
-![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/01/25008095327_de7c0c745a_z-300x200.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_25008095327_de7c0c745a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_25008095327_de7c0c745a_z__l.jpg"
+  loadingUrl="undefined" />
 
 Besonders für [Reisen](/category/unterwegs/reisen/) mit leichtem Gepäck finde
 ich ein festes Shampoo klasse. Man kann es einfach in einen Waschlappen oder
@@ -115,7 +133,13 @@ ich keine zusätzliche Pflege.
 
 ## Mein Favorit: Das Sanddorn-Gesichtsöl
 
-![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/01/26006529588_b8d8ba4e32_z-300x200.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006529588_b8d8ba4e32_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006529588_b8d8ba4e32_z__l.jpg"
+  loadingUrl="undefined" />
 
 Nun zu meinem absoluten Highlight im Sauberkunst Päckchen: Das
 Sanddorn-Gesichtsöl für trockene Haut rockt total. Die Sauberkünstler bezeichnen
@@ -136,7 +160,13 @@ sich über die entzündungshemmende Zutat Teebaumöl sicher freuen.
 
 ## Shea Mousse "Hautnah"
 
-![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/01/26006532538_0236c4cf8d_z-300x200.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006532538_0236c4cf8d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26006532538_0236c4cf8d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Shea Mousse "Hautnah" kann man als reichhaltige Pflege direkt nach dem
 Peeling auftragen. Sie eignet sich aber auch zum Beispiel sehr gut für die
@@ -158,7 +188,13 @@ begleitet mich daher täglich in die Muckibude.
 
 ## Ab in die Mucki-Bude!
 
-![Sauberkunst](http://cardamonchai.com/wp-content/uploads/2018/01/39847363092_3c3da7a3a9_z-300x200.jpg)
+<RemoteImage
+  alt="Sauberkunst"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847363092_3c3da7a3a9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39847363092_3c3da7a3a9_z__l.jpg"
+  loadingUrl="undefined" />
 
 Für jedes verkaufte Stück der "Poseidon" Dusch- und Körperseife geht übrigens
 ein Euro direkt an Sea Shepherd. Man tut beim Waschen also automatisch der

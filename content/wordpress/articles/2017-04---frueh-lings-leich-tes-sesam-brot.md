@@ -44,7 +44,13 @@ subTitle: Rezept mit Kichererbsenmehl
   
 ---
 
-![Kichererbsenmehl](http://cardamonchai.com/wp-content/uploads/2017/04/34075362886_82e69c5ff9_k-640x480.jpg)
+<RemoteImage
+  alt="Kichererbsenmehl"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34075362886_82e69c5ff9_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34075362886_82e69c5ff9_k__l.jpg"
+  loadingUrl="undefined" />
 
 Die erste Grillsession des Jahres steht an und Ihr habt Lust auf ein
 schmackhaftes sommerliches Brot? Vegan soll es sein? Lecker soll es sein und

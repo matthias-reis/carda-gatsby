@@ -47,7 +47,13 @@ subTitle: Vegan und sparsam duschen
 
 Werbung\*
 
-![XAXX](http://cardamonchai.com/wp-content/uploads/2017/07/35484495883_26d32b1c0a_z-640x427.jpg)
+<RemoteImage
+  alt="XAXX"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35484495883_26d32b1c0a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35484495883_26d32b1c0a_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Vor einiger Zeit hatte ich schon
 [die veganen Parfums aus dem Hause XAXX](/2016/02/unser-parfum-ist-vegan/)
@@ -70,7 +76,13 @@ begann ich noch am Abend mit meinem Test und hier ist das Ergebnis.
 
 ## Duschgel von XAXX - Mein Produkttest
 
-![XAXX](http://cardamonchai.com/wp-content/uploads/2017/07/36289770145_fa951f8721_z-640x427.jpg)
+<RemoteImage
+  alt="XAXX"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36289770145_fa951f8721_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36289770145_fa951f8721_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Verpackung an sich ist schön schlicht. Gut hätte ich es noch gefunden, wenn
 die Flaschen aus Glas statt aus Plastik wären, aber vielleicht kommt das ja
@@ -93,7 +105,13 @@ Aber ich schweife ab.
 
 ## Das XAXX-Konzept ist cool
 
-![XAXX](http://cardamonchai.com/wp-content/uploads/2017/07/35456241854_abc99291ec_z-640x427.jpg)
+<RemoteImage
+  alt="XAXX"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35456241854_abc99291ec_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35456241854_abc99291ec_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich werde mit Sicherheit auch noch weitere Duftnoten von XAXX testen, denn mir
 gefällt das Konzept ziemlich gut. Der Schaum ist wunderbar soft und eignet sich

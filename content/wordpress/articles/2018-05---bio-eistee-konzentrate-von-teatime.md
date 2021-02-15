@@ -57,7 +57,13 @@ Herstellung bleiben alle wertvollen Inhaltsstoffe aus dem Tee erhalten.
 
 ## Echter Tee samt Ritual
 
-![TeaTime](http://cardamonchai.com/wp-content/uploads/2018/05/41783598091_5ae2aceec0_z-400x300.jpg)
+<RemoteImage
+  alt="TeaTime"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41783598091_5ae2aceec0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41783598091_5ae2aceec0_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gründer Manfred Haider wünschte sich "echten Tee, samt Ritual". Was aber tun,
 wenn dazu mal die Zeit fehlt? TeaTime war geboren. Die Konzentrate gibt es
@@ -78,7 +84,13 @@ Dabei achtet Manfred Haider besonders auf die Fairness.
 > Nachhaltigkeit bezieht sich nach unserer Meinung nicht nur auf das Produkt,
 > sondern auch auf die Menschen, die dahinter stehen."
 
-![TeaTime](http://cardamonchai.com/wp-content/uploads/2018/05/39976621130_45e8fb6186_z-400x300.jpg)
+<RemoteImage
+  alt="TeaTime"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_39976621130_45e8fb6186_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_39976621130_45e8fb6186_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Anbau der Kräuter erfolgt in Österreich durch ausgewählte und zertifizierte
 Landwirte. Sie werden anschließend über deren Genossenschaften bezogen.
@@ -94,7 +106,13 @@ Haider eine Meinung:
 > beinhalten, wenn überhaupt, nur 0 - 0,5 [Gramm Zucker] oder 11 kcal pro 100 ml
 > trinkfertigem Tee."
 
-![TeaTime](http://cardamonchai.com/wp-content/uploads/2018/05/27915548658_f8e56f1322_z-400x533.jpg)
+<RemoteImage
+  alt="TeaTime"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_27915548658_f8e56f1322_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_27915548658_f8e56f1322_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ganz neu im Sortiment sind die von mir getesteten Eistee-Varianten. Es gibt sie
 in den Sorten Rooibos-Pfirsich, Pfefferminz, Fruchtmix und Lemongras. Für den
@@ -125,7 +143,13 @@ Geschmacksnote.
 
 ## Die TeaTime Eistees sind nicht zu süß
 
-![TeaTime](http://cardamonchai.com/wp-content/uploads/2018/05/26915882327_19e99cb81d_z-400x300.jpg)
+<RemoteImage
+  alt="TeaTime"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_26915882327_19e99cb81d_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_26915882327_19e99cb81d_z__l.jpg"
+  loadingUrl="undefined" />
 
 Auch der Fruchtmix-Eistee ist kein bisschen süß, was mir sehr gefällt. Wer es
 doller mag, kann mit dem Sirup sogar ruhig etwas mutiger umgehen.
@@ -165,7 +189,13 @@ ich schweife ab.
 Ich hatte Euch ein spannendes Mixgetränk versprochen. Vorhang auf für meinen
 sommerlichen
 
-![TeaTime](http://cardamonchai.com/wp-content/uploads/2018/05/26916221767_117dfc659c_z-400x300.jpg "Mein sommerlicher Pfirsich Weißwein Spritz")
+<RemoteImage
+  alt="TeaTime"
+  size="medium"
+  title="Mein sommerlicher Pfirsich Weißwein Spritz"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_26916221767_117dfc659c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_26916221767_117dfc659c_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Pfirsich Weißwein Spritz
 

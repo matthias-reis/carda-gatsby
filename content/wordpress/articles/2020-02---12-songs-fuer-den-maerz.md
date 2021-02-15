@@ -232,6 +232,12 @@ Hat Euch unsere Liste gefallen? Ihr findet jeden Monat eine neue hier im Blog.
 Infos über frische Beiträge gibt es einmal pro Woche
 [in meinem Newsletter](#newsletter).
 
-![12-songs-fuer-den-maerz | large](http://cardamonchai.com/wp-content/uploads/2020/02/12-songs-pin-520x780.jpg)
+<RemoteImage
+  alt="12-songs-fuer-den-maerz"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_12-songs-pin__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_12-songs-pin__l.jpg"
+  loadingUrl="undefined" />
 
   

@@ -40,7 +40,13 @@ subTitle: Kleine Fotorunde Altona und Sankt Pauli
   
 ---
 
-![Hood](http://cardamonchai.com/wp-content/uploads/2017/04/34098598645_e48b98a1fd_z.jpg)
+<RemoteImage
+  alt="Hood"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34098598645_e48b98a1fd_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34098598645_e48b98a1fd_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Jetzt an Ostern habe ich meine kleine Kamera, die ich sonst immer auf
 [Konzerten](/tag/konzert/) dabei habe, mal draußen getestet. Wir fahren nämlich

@@ -53,7 +53,13 @@ schenken, zu begeistern und Bewusstsein zu schaffen.
 
 ## Bahatika gibt es seit April 2015
 
-![Bahatika Gründerin Sheila](http://cardamonchai.com/wp-content/uploads/2020/04/ROCHA_Sand_1_1024x1024@2x-400x267.jpg "Modell Rocha. Bild: Bahatika")
+<RemoteImage
+  alt="Bahatika Gründerin Sheila"
+  size="medium"
+  title="Modell Rocha. Bild: Bahatika"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024@2x__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_ROCHA_Sand_1_1024x1024@2x__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Seit wann macht Ihr schon vegane Schuhe?
 
@@ -137,7 +143,13 @@ schwierig und braucht leider immer einen Anstoß von Außen.
 
 ## "Die Grausamkeiten werden erst enden, wenn die Konsument\*innen sich weigern, Tierhäute zu tragen"
 
-![Bahatika Gründerin Sheila](http://cardamonchai.com/wp-content/uploads/2020/04/THIBITI_Black_1_1024x1024@2x-400x267.jpg "Modell Thibiti. Foto: Bahatika")
+<RemoteImage
+  alt="Bahatika Gründerin Sheila"
+  size="medium"
+  title="Modell Thibiti. Foto: Bahatika"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024@2x__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_THIBITI_Black_1_1024x1024@2x__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Viele Leute sind von Pelzen geschockt, würden nie welche tragen und
 empfinden die Herstellung als Tierquälerei, was ja auch richtig ist. Allerdings

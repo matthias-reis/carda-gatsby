@@ -51,7 +51,13 @@ Regisseur Marc Pierschel vergeben.
 
 ## Schaut Euch "Butenland der Film an!
 
-![Kuschen mit Kühen. Foto: Hof Butenland](http://cardamonchai.com/wp-content/uploads/2020/01/Design-ohne-Titel-2-400x300.jpg)
+<RemoteImage
+  alt="Kuschen mit Kühen. Foto: Hof Butenland"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-2__l.jpg"
+  loadingUrl="undefined" />
 
 Nicht nur Marc und das Team vom Hof Butenland würden sich sehr freuen, wenn Ihr
 ins Kino geht, und Euch "Butenland der Film" anschaut. Auch ich wäre sehr
@@ -75,7 +81,13 @@ mit sogenannten "Nutztieren".
 
 ## Begeisterte Stimmen
 
-![Begegnung mit einer Kuh. Foto: Hof Butenland](http://cardamonchai.com/wp-content/uploads/2020/01/Design-ohne-Titel-1-400x300.jpg)
+<RemoteImage
+  alt="Begegnung mit einer Kuh. Foto: Hof Butenland"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-1__l.jpg"
+  loadingUrl="undefined" />
 
 Jede⋆r der⋆die den Film bisher gesehen hat, lobt ihn in den höchsten Tönen. Das
 sagen zum Beispiel die Tierrechtsaktivist⋆innen von PETA:

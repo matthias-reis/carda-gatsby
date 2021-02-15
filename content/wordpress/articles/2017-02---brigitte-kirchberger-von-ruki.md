@@ -60,7 +60,13 @@ Interview nehmen!
 
 ## "Die Resonanz ist überwältigend"
 
-![Vegane Spätzle](http://cardamonchai.com/wp-content/uploads/2017/02/Ruki_Glutenfrei_vegane_Spätzle_LQ.png)
+<RemoteImage
+  alt="Vegane Spätzle"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Ruki_Glutenfrei_vegane_Sp%C3%A4tzle_LQ.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Ruki_Glutenfrei_vegane_Sp%C3%A4tzle_LQ.png__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Sie verkaufen bei _RuKi_ seit Jahren erfolgreich glutenfreie,
 oberbayerische Spezialitäten wie Schupfnudeln und Semmelknödel. Jetzt soll das
@@ -99,7 +105,13 @@ eine ganz besondere Herausforderung darstellen. Warum genau?
 
 ## "Vegane Spätzle sind eine Herausforderung, die wir gerne annehmen"
 
-![Vegane Spätzle](http://cardamonchai.com/wp-content/uploads/2017/02/Ruki_Glutenfrei_Schupfnudeln_Kochen-640x360.jpg)
+<RemoteImage
+  alt="Vegane Spätzle"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Ruki_Glutenfrei_Schupfnudeln_Kochen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_Ruki_Glutenfrei_Schupfnudeln_Kochen__l.jpg"
+  loadingUrl="undefined" />
 
 **Brigitte Kirchberger:** Es ist in dreifacher Hinsicht eine Herausforderung,
 der wir uns gerne stellen. Wir sind ein rein glutenfrei produzierender Betrieb.

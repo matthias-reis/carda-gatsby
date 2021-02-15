@@ -32,7 +32,13 @@ subTitle: Eine Gemeinde im Herzogtum Neuburg-Sulzbach
 Sie besteht aus den Ortsteilen Manching, Oberstimm, Niederstimm, Pichl,
 Forstwiesen im Feilenmoos, Westenhausen, Lindach und Rottmannshart.
 
-![Manching](http://cardamonchai.com/wp-content/uploads/2009/09/14550010205_d11d4fd7a8_z-640x427.jpg)
+<RemoteImage
+  alt="Manching"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_09_14550010205_d11d4fd7a8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_09_14550010205_d11d4fd7a8_z__l.jpg"
+  loadingUrl="undefined" />
 
 [](/wp-content/uploads/2009/09/14550010205_d11d4fd7a8_z.jpg) Vom 3. Jahrhundert
 v. Chr. bis zum 1. Jahrhundert v. Chr. Gab es an der Stelle, an der die

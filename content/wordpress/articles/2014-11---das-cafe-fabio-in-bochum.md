@@ -42,7 +42,13 @@ stammen.
 
 ## Vitaminreiche Smoothies im Café Fabio
 
-![cafe-fabio](http://cardamonchai.com/wp-content/uploads/2019/06/Timo-Franke-im-Café-Fabio-400x566.jpg "Bildmaterial: Café Fabio Bochum")
+<RemoteImage
+  alt="cafe-fabio"
+  size="medium"
+  title="Bildmaterial: Café Fabio Bochum"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2019/06/Timo-Franke-im-Café-Fabio-400x566.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2019/06/Timo-Franke-im-Café-Fabio-400x566.jpg"
+  loadingUrl="undefined" />
 
 Im Café werden u. a. Wraps, belegte Brote, verschiede Kuchen, Pasta und diverse
 weitere Gerichte im Wechsel angeboten. Auf Wunsch werden den Gästen frische

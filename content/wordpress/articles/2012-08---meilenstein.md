@@ -54,7 +54,13 @@ besucht mich auch gerne jederzeit auf
 [Twitter](https://twitter.com/Anne_Reko). Fragen und Musiktipps nehme ich
 natürlich auch gerne jederzeit per E-Mail entgegen.
 
-![Calexico spielen einen Tusch | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/08/166310_177235742298563_3601359_n-150x150.jpg)
+<RemoteImage
+  alt="Calexico spielen einen Tusch"
+  size="thumbnail"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_166310_177235742298563_3601359_n__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_166310_177235742298563_3601359_n__l.jpg"
+  loadingUrl="undefined" />
 
 Ich stoße auf Euch an, es gibt Blumen und ein Freudenfeuer und Calexico spielen
 einen Tusch für Euch.

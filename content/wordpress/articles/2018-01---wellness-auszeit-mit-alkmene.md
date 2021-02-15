@@ -62,7 +62,13 @@ Ich bin ein großer Badefan. Gerade wenn es draußen so richtig schön eklig gra
 ist, sind kleine Wellness-Auszeiten mit Badewanne, reichhaltigen Lotions und
 viel [Tee](/2017/04/smecket-tee/) genau das Richtige.
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2018/01/26007016498_4d6128fe54_z-300x200.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007016498_4d6128fe54_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007016498_4d6128fe54_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gerade bin ich sportlich wieder voll motiviert, daher habe ich auch ab und an
 mit Muskelkater zu tun. Das entspannende Muskel-Vitalbad Bio-Rosskastanie kam
@@ -83,7 +89,13 @@ eingefangen hatte, hatte wirklich etwas nachgelassen.
 
 ## Eine dicke Portion Pflege
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2018/01/39169428944_bf3d749817_z-300x200.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169428944_bf3d749817_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169428944_bf3d749817_z__l.jpg"
+  loadingUrl="undefined" />
 
 Im Anschluss an das augedehnte Bad gönnte ich meiner Haut eine dicke Portion
 Pflege mit der Bio-Olive Intensiv Cremeöl Lotion. Positiv fiel mir dabei auf,
@@ -101,7 +113,13 @@ entschied ich mich für das Erkältungszeit Bad Bio-Fichtennadel.
 
 ## Der Duft erinnert den Sommer im Wald
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2018/01/26007030178_20fe0b50ef_z-300x200.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007030178_20fe0b50ef_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007030178_20fe0b50ef_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Duft erinnerte mich sofort an den Badzusatz, den ich als Kind immer im
 Wasser haben wollte. Er lässt einen so richtig schön an den Wald im Sommer
@@ -119,7 +137,13 @@ wieder Zeit für ein Date mit der Badewanne.
 
 ## Alkmene Bad, Tee und Schokolade
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2018/01/39169427424_7c9c150206_z-300x200.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169427424_7c9c150206_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169427424_7c9c150206_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der Duft breitete sich sofort im ganzen Bad aus. Dazu eine schöne Tasse
 Lavendeltee und ein Stückchen Schokolade. Wellness pur. Der leichte Bio-Malve
@@ -156,11 +180,23 @@ komplette Produktpalette aus dem Hause Alkmene \_\_ gilt:
 - Die für die Alkmene Produkte verwendeten Heilkräuter und Pflanzen stammen aus
   kontrolliert biologischem Anbau.
 
-![Alkmene | full](http://cardamonchai.com/wp-content/uploads/2017/12/Alkmene.png)
+<RemoteImage
+  alt="Alkmene"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Alkmene.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Alkmene.png__l.jpg"
+  loadingUrl="undefined" />
 
 ## Alkmen _e_ gibt es schon bald 50 Jahre
 
-![alkmene](http://cardamonchai.com/wp-content/uploads/2018/01/26007019278_b05524c077_z-300x200.jpg)
+<RemoteImage
+  alt="alkmene"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007019278_b05524c077_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007019278_b05524c077_z__l.jpg"
+  loadingUrl="undefined" />
 
 Das Unternehmen gibt es inzwischen seit fast 50 Jahren. Im Fokus stehen gut
 verträgliche Pflegeprodukte auf der Basis von Blüten und Heilpflanzen. Wer mehr

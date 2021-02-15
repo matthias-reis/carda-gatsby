@@ -34,7 +34,13 @@ subTitle: Eine kreative Stadt im Teutoburger Wald
 Stadt im [Teutoburger Wald](/2019/08/teutoburger-wald/) einen eigenen Artikel
 widmen.**
 
-![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-28-400x300.jpg)
+<RemoteImage
+  alt="bielefeld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-28__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-28__l.jpg"
+  loadingUrl="undefined" />
 
 Als ich noch ein Kind war, sind meine Eltern mit mir nach Bielefeld gezogen.
 Lange Zeit war es mein Zuhause. Irgendwann sind wir dann weggezogen und ich habe
@@ -65,7 +71,13 @@ Stadtzentrum.
 
 ## Essen, Trinken und Shoppen in Bielefeld
 
-![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-30-400x300.jpg)
+<RemoteImage
+  alt="bielefeld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-30__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-30__l.jpg"
+  loadingUrl="undefined" />
 
 \*innen ist das Angebot umfangreich. Besonders tolles Frühstück gibt es im
 "[Moccaklatsch](/2019/08/das-moccaklatsch-in-bielefeld/)" - dort waren wir an
@@ -79,7 +91,13 @@ Anfang des 9. Jahrhunderts, 1214 dann zum ersten Mal offiziell als Stadt.
 
 ## Geschichte und Sehenswürdigkeiten
 
-![bielefeld](http://cardamonchai.com/wp-content/uploads/2019/07/2019-04-21-externsteine-teutoburger-wald-34-400x533.jpg)
+<RemoteImage
+  alt="bielefeld"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-34__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-34__l.jpg"
+  loadingUrl="undefined" />
 
 Der Ort blickt auf eine lange Leinenweber-Traditon zurück und ist noch heute ein
 Zentrum der Bekleidungsindustrie. Außerdem sind Lebensmittelunternehmen und

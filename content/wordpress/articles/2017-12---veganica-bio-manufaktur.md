@@ -34,7 +34,13 @@ vorgestellt. Auf ihrem Profil weisen sie jetzt auf ihre Freunde von der Veganica
 Bio Manufaktur hin. Auch sie haben was Leckeres für Euch und gerade ein
 Crowdfundig\* am laufen!**
 
-![Veganica Biomanufaktur](http://cardamonchai.com/wp-content/uploads/2017/12/Veganica-300x150.jpg)
+<RemoteImage
+  alt="Veganica Biomanufaktur"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Veganica__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Veganica__l.jpg"
+  loadingUrl="undefined" />
 
 Bei Vegablum geht es derzeit richtig ab. Der vegane Honig, von mir hier im Blog
 noch unter dem Namen "Vonig" präsentiert, hat seinen Namen geändert und ist
@@ -53,7 +59,13 @@ Da ich ihre Produkte für sehr interessant halte und tolle vegane Ideen generell
 unterstützenswert finde, möchte ich Euch nun auch auf die Crowdfundig-Kampagne\*
 hinweisen.
 
-![Veganica Biomanufaktur | full](http://cardamonchai.com/wp-content/uploads/2017/12/Andre-und-Nicole-mit-Hunden.jpg "Andre und Nicole von der Veganica Biomanufaktur")
+<RemoteImage
+  alt="Veganica Biomanufaktur"
+  size="full"
+  title="Andre und Nicole von der Veganica Biomanufaktur"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Andre-und-Nicole-mit-Hunden__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Andre-und-Nicole-mit-Hunden__l.jpg"
+  loadingUrl="undefined" />
 
 Hinter dem Namen Veganica Biomanufaktur stecken die beiden engagierten Veganer
 Nicole und Andre. Andre hat die Position des Firmeninhabers inne. Er ist
@@ -97,7 +109,13 @@ Das Crowdfunding\* läuft seit dem 11.10. Bis zum 15.12. könnt Ihr es noch
 unterstützten. Fackelt also nicht lange! Es gibt übrigens viele tolle Goodies
 für die Untstützer. Ich habe mir dieses hier gesichert:
 
-![Veganica Bio Manufaktur | full](http://cardamonchai.com/wp-content/uploads/2017/12/veganica_und_vegablum.jpg)
+<RemoteImage
+  alt="Veganica Bio Manufaktur"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_veganica_und_vegablum__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_veganica_und_vegablum__l.jpg"
+  loadingUrl="undefined" />
 
 Das erste Fundingziel beträgt gerade mal 5.000 Euro, das zweite 10.000. Das
 sollte doch schaffbar sein, oder, was meint Ihr? Mit 5.000 Euro könnten Nicole

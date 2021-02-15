@@ -72,7 +72,13 @@ komplett ausspielt und im Anschluss den perfekten Übergang von Prog- über
 Post-Rock hin zu elektronischer Tanzmusik hinlegt? Ich bin jetzt einfach mal
 ganz forsch und behaupte: Ich kenne die Antwort.
 
-![ | full](http://cardamonchai.com/wp-content/uploads/2018/01/Radio-Paradise1.png)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Radio-Paradise1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_Radio-Paradise1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Die Internet-Radiostation _Radio Paradis_ e kann bequem über eine App
 angesteuert werden, ist aber auch ganz normal über den Browser erreichbar. Die

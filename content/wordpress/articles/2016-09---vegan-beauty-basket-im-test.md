@@ -40,7 +40,13 @@ subTitle: Unboxing Wellness
 
 Werbung\*
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/09/29578673560_1aab418caf_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29578673560_1aab418caf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29578673560_1aab418caf_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Diese Woche habe ich ein ganz besonders tolles Paket bekommen. Es stammt von
 der lieben Ina, der Gründerin von Vegan Beauty Basket.**
@@ -65,7 +71,13 @@ man das bei einer Lippenpflege sowie einem festen Parfum tun.
 
 ## Festes Parfum und Lippenpflege
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/09/29872267105_e98a488415_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29872267105_e98a488415_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29872267105_e98a488415_z__l.jpg"
+  loadingUrl="undefined" />
 
 Beim Lippenstift aus dem Hause "Fairypants" habe ich mich für die Sorte "Rita"
 entschieden, die in einem warmen Braunton gefärbt ist, was wie ich finde, gut
@@ -99,7 +111,13 @@ hergestellt.
 
 ## Conditioner und Shampoo aus dem Hause Human + Kind
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/09/29789349201_ce80d917ee_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29789349201_ce80d917ee_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29789349201_ce80d917ee_z__l.jpg"
+  loadingUrl="undefined" />
 
 Neben dem Parfum zählt eindeutig der Contitioner "Apple &amp; Herbs" vom
 Hersteller Human + Kind zu meinen Favoriten in dem wundervoll duftenden,
@@ -128,7 +146,13 @@ sollen. Das junge Unternehmen hat seinen Sitz in Irland.
 
 ## I + M Berlin sind auch dabei
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/09/29872268515_ef4901273f_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29872268515_ef4901273f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29872268515_ef4901273f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Firma I + M Berlin kenne und schätze ich bereits seit langem. Bekannt
 geworden für vegane und faire Kosmetik überrascht sie immer wieder mit tollen,
@@ -168,7 +192,13 @@ sparsam eingesetzt oder sogar weggelassen werden.
 
 ## Vegan Beauty Basket - Mein Fazit
 
-![Vegan Beauty Basket](http://cardamonchai.com/wp-content/uploads/2016/09/29245761113_3bde0db14f_z-640x427.jpg)
+<RemoteImage
+  alt="Vegan Beauty Basket"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29245761113_3bde0db14f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_09_29245761113_3bde0db14f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Von mir bekommt Ihr eine ganz klare Kaufempfehlung - Der Vegan Beauty Basket ist
 toll zusammengestellt und es gibt jede Menge tolle, vegane Produkte zu

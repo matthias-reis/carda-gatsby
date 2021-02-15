@@ -40,7 +40,13 @@ subTitle: Die Sache mit der Motivation
   
 ---
 
-![rauchen](http://cardamonchai.files.wordpress.com/2013/09/9576025930_4f28f0d3d1_o.jpg?w=300 "Das interessiert mich ab jetzt nicht mehr")
+<RemoteImage
+  alt="rauchen"
+  size="medium"
+  title="Das interessiert mich ab jetzt nicht mehr"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9576025930_4f28f0d3d1_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9576025930_4f28f0d3d1_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 Nachdem eine solche Fülle positiven Feedbacks auf mich einströmt, seitdem ich
 Euch gestern von meinem Vorhaben, meine Sucht nach Stinkezigaretten endgültig ad
@@ -50,7 +56,13 @@ Bisschen. :-)
 
 **Was hat Dich, während der Entwöhnungsphase motiviert, weiter durchzuhalten?**
 
-![rauchen](http://cardamonchai.files.wordpress.com/2013/09/ketten.jpg?w=300 "Die Ketten sprengen")
+<RemoteImage
+  alt="rauchen"
+  size="medium"
+  title="Die Ketten sprengen"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/ketten.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/ketten.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Evelyn:** Mein Freund ist Nichtraucher. Ich habe mir immer gesagt, wie schön
 es für ihn sein muss, keinen Aschenbecher mehr küssen zu müssen.
@@ -73,7 +85,13 @@ Versuche gebraucht. Bei einem davon war ich auch ein Jahr lang rauchfrei.
 
 **Hast Du Tipps für mich?**
 
-![rauchen](http://cardamonchai.files.wordpress.com/2013/09/toaster.jpg?w=300 "I just toasted some money")
+<RemoteImage
+  alt="rauchen"
+  size="medium"
+  title="I just toasted some money"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/toaster.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/toaster.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Evelyn:** Leg das Geld, das Du Dir sparst, auch wirklich auf die Seite. Das
 motiviert ungemein!
@@ -95,7 +113,13 @@ geraucht haben, aber das mein Freund Nichtraucher ist, hat mir sehr geholfen.
 [@twittschicat](https://twitter.com/twittschicat) :** Ich denke, ich habe
 einfach den richtigen Zeitpunkt erwischt.
 
-![rauchen | thumbnail](http://cardamonchai.com/wp-content/uploads/2013/09/255337_448938665128268_1765079901_n-foto-auf-sandstein1-150x150.jpg "Geschafft!")
+<RemoteImage
+  alt="rauchen"
+  size="thumbnail"
+  title="Geschafft!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg"
+  loadingUrl="undefined" />
 
 Das sind wirklich eine ganze Menge gute Tipps und Ratschläge. Vor allem finde
 ich es auch interessant, dass es anderen nicht anders gegangen ist, als sie
@@ -122,7 +146,13 @@ klappt! Erwarte bloß keine Häme, wenn es nicht klappt.
 ** [@Wunderl_ich](https://twitter.com/Wunderl_ich) :** YEA! Meine vollste
 Unterstützung!
 
-![rauchen | full](http://cardamonchai.com/wp-content/uploads/2013/09/gefc3a4llt-das.jpg)
+<RemoteImage
+  alt="rauchen"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_gefc3a4llt-das__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_gefc3a4llt-das__l.jpg"
+  loadingUrl="undefined" />
 
 **Der Herzmann:** Das schaffst du ganz bestimmt!
 
@@ -138,7 +168,13 @@ Deinem Vorhaben! Der Vertrag hat auf jeden Fall was für sich!
 vergessen hast. Klasse [Vorhaben](//2013/09/09/mein-pakt-mit-dem-schweinehund/)
 ! Ich werde dich auf jeden Fall tatkräftig unterstützen! :-)
 
-![rauchen](http://cardamonchai.files.wordpress.com/2013/09/herz.jpg?w=300 "Ihr seid toll, Schnuckis! <3")
+<RemoteImage
+  alt="rauchen"
+  size="medium"
+  title="Ihr seid toll, Schnuckis! &lt;3"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/herz.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/herz.jpg?w=300"
+  loadingUrl="undefined" />
 
 Es ist wirklich toll, wie viele positive Reaktionen ich auf dieses heikle Thema
 bekomme. Damit hätte ich wirklich nie gerechnet. Ich hätte Euch wohl schon viel

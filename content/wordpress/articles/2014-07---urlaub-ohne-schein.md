@@ -40,7 +40,13 @@ subTitle: Eine treulose Tomate meldet sich zurück
   
 ---
 
-![Das Ticket](http://cardamonchai.com/wp-content/uploads/2014/07/soundgarden-black-sabbath-live-kc3b6nigsplatz-mc3bcnchen-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Das Ticket")
+<RemoteImage
+  alt="Das Ticket"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Ticket"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_soundgarden-black-sabbath-live-kc3b6nigsplatz-mc3bcnchen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_soundgarden-black-sabbath-live-kc3b6nigsplatz-mc3bcnchen__l.jpg"
+  loadingUrl="undefined" />
 
 **Jetzt ist es schon ganz schön lange her, seit ich mich das letzte Mal bei Euch
 gemeldet habe. Das mag daran gelegen haben, dass ich mich in der letzten Zeit
@@ -59,7 +65,13 @@ rumprobiert. Einige davon werdet Ihr sicher zu sehen bekommen, wenn meine neue
 Seite endlich online geht. Auch an ihr wird natürlich weiterhin fleißig
 gebastelt.
 
-![Neue Bilder im Flickr](http://cardamonchai.com/wp-content/uploads/2014/07/14207822166_09fc83462f_z-640x480.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644733432642/)  Neue Bilder im Flickr")
+<RemoteImage
+  alt="Neue Bilder im Flickr"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644733432642/)  Neue Bilder im Flickr"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_14207822166_09fc83462f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_14207822166_09fc83462f_z__l.jpg"
+  loadingUrl="undefined" />
 
 In meinem neuen Blog wird es für mich technisch möglich sein, Bildergalerien
 direkt aus meinem Flickr-Konto (Nachtrag 2019: Das ist inzwischen Geschichte) zu
@@ -106,7 +118,13 @@ Dieses Jahr geht es für uns wie es jetzt aussieht wohl "nur" auf das
 [Herzberg Festival](//2012/08/02/burg-herzberg-festival-2012/), dafür haben wir
 uns bereits die Karten gesichert und alles fest geplant und organisiert.
 
-![Festivalbilder im Flickr | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/07/9577556708_1da3106485_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/collections/72157641704076844/)  Festivalbilder im Flickr")
+<RemoteImage
+  alt="Festivalbilder im Flickr"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/collections/72157641704076844/)  Festivalbilder im Flickr"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_9577556708_1da3106485_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_9577556708_1da3106485_z__l.jpg"
+  loadingUrl="undefined" />
 
 Sicherlich habt Ihr Verständnis, dass ich aus diesen Gründen dieses Jahr meine
 [Festivalliste]("/2013/03/die-ultimative-festivalliste/) nicht neu
@@ -132,9 +150,21 @@ bald, Schnuckis.
 
 [youtube https://www.youtube.com/watch?v=sC2GjXMk7i4]
 
-![Soundgarden | large](http://cardamonchai.com/wp-content/uploads/2014/07/img_1577-800x600.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Soundgarden")
+<RemoteImage
+  alt="Soundgarden"
+  size="large"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Soundgarden"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1577__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1577__l.jpg"
+  loadingUrl="undefined" />
 
-![Black Sabbath | large](http://cardamonchai.com/wp-content/uploads/2014/07/img_1605-800x600.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Black Sabbath")
+<RemoteImage
+  alt="Black Sabbath"
+  size="large"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Black Sabbath"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1605__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1605__l.jpg"
+  loadingUrl="undefined" />
 
 **
 [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)

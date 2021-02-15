@@ -52,7 +52,13 @@ sammelnden Insekten.
 
 ## Bienen sind für ein funktionierendes Ökosystem unverzichtbar
 
-![Arbeiterbienen am Magazin](http://cardamonchai.com/wp-content/uploads/2014/10/14357307880_6532fa01ac_z-640x427.jpg "Arbeiterbienen am Magazin")
+<RemoteImage
+  alt="Arbeiterbienen am Magazin"
+  size="medium"
+  title="Arbeiterbienen am Magazin"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357307880_6532fa01ac_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357307880_6532fa01ac_z__l.jpg"
+  loadingUrl="undefined" />
 
 Mehr als 80 Prozent aller Nutz- und Wildpflanzen sind für die Bestäubung auf
 Bienen angewiesen. Zwar können auch ein paar andere Insektenarten Blüten
@@ -108,7 +114,13 @@ den echten Bienenstöcken nachempfunden sind.
 
 ## Das Ausschwärmen der Bienen wird verhindert
 
-![Arbeiterbienen](http://cardamonchai.com/wp-content/uploads/2014/10/14564080433_c18a3b84d1_z-640x427.jpg "Arbeiterbienen")
+<RemoteImage
+  alt="Arbeiterbienen"
+  size="medium"
+  title="Arbeiterbienen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14564080433_c18a3b84d1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14564080433_c18a3b84d1_z__l.jpg"
+  loadingUrl="undefined" />
 
 Um möglichst viel Honig zu produzieren, muss ein Imker sein Bienenvolk an das
 Magazin binden. Einige stutzen zu diesem Zweck auch heute noch die Flügel der
@@ -168,7 +180,13 @@ Einsatz der Chemikalien bedroht.
 
 ## "Es gibt klare Beweise!"
 
-![bienen](http://cardamonchai.com/wp-content/uploads/2019/07/anne-400x300.jpg "Biene bei der Sparrenburg in Bielefeld")
+<RemoteImage
+  alt="bienen"
+  size="medium"
+  title="Biene bei der Sparrenburg in Bielefeld"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_anne__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_anne__l.jpg"
+  loadingUrl="undefined" />
 
 Professor Peter Neumann aus Bern über
 [die Studie des EASAC](https://easac.eu/press-releases/details/neonicotinoids-european-science-academies-call-for-debate-that-expands-beyond-bees/)
@@ -197,7 +215,13 @@ mehr von dem für sie schädlichen Wirkstoff. In einer weiteren Studie haben
 Wissenschaftler aus Schweden herausgefunden, dass die Pflanzenschutzmittel das
 Wachstum der Bienen beeinträchtigen.
 
-![bienen](http://cardamonchai.com/wp-content/uploads/2019/07/anne-1-400x300.jpg "Insekten leiden unter Pflanzenschutzmitteln")
+<RemoteImage
+  alt="bienen"
+  size="medium"
+  title="Insekten leiden unter Pflanzenschutzmitteln"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_anne-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_anne-1__l.jpg"
+  loadingUrl="undefined" />
 
 Auch wenn bereits 2008 ein Verbot für die als besonders kritisch geltende
 Saatgutbehandlung von Mais mit Nicotinoiden in Deutschland ausgesprochen wurde,

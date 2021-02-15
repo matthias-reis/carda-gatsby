@@ -75,7 +75,13 @@ spirituelle Person?
 
 ## "Alles, was ich tue, ist Musik"
 
-![Sphaèros](http://cardamonchai.com/wp-content/uploads/2020/03/sphaeros-2-400x300.jpg)
+<RemoteImage
+  alt="Sphaèros"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Sphaèros:** Also, ich habe nicht drei Jahre lang meditiert, denn alles, was
 ich tue, ist Musik. Dinge wie Bildhauerei und Filmen besitzen die Kraft, einen
@@ -137,7 +143,13 @@ Entwicklung am meisten beeinflusst?
 
 ## "Am meisten beeinflusst mich die Natur"
 
-![Sphaèros](http://cardamonchai.com/wp-content/uploads/2020/03/sphaeros-3-400x300.jpg)
+<RemoteImage
+  alt="Sphaèros"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros-3__l.jpg"
+  loadingUrl="undefined" />
 
 **Sphaèros:** Oh, es gibt einige, die mich wirklich schwer beeindruckt haben: HP
 Lovecraft, Salvador Dali, Hieronymous Bosch, Tod Browning, Aubrey Bearsley,

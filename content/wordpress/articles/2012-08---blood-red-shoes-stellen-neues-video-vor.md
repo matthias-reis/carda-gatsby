@@ -49,7 +49,13 @@ subTitle: Regen am Freitag macht mir nichts aus
   
 ---
 
-![ | thumbnail](http://cardamonchai.com/wp-content/uploads/2012/08/15695_105416536147151_5021614_n-150x150.jpg "Blood Red Schlagzeug Anne Reko 3/2010")
+<RemoteImage
+  alt=""
+  size="thumbnail"
+  title="Blood Red Schlagzeug Anne Reko 3/2010"
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2012/08/15695_105416536147151_5021614_n-150x150.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2012/08/15695_105416536147151_5021614_n-150x150.jpg"
+  loadingUrl="undefined" />
 
 **Heute ist Freitag. Freitag und es regnet. Aber das macht mir nichts aus, weil
 die ♥BLOOD RED SHOES♥ heute ihr neues Video vorgestellt haben. Und es ist toll!

@@ -176,6 +176,12 @@ das im Jahr 2004 erschienen ist."
 
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; background: transparent;" src="https://embed.music.apple.com/de/playlist/2020-01-25-die-drei-von-der-bande/pl.u-jvM9ujekrkB" height="450" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
-![12-songs | large](http://cardamonchai.com/wp-content/uploads/2020/01/12-songs-pinterest-520x780.png)
+<RemoteImage
+  alt="12-songs"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_12-songs-pinterest.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_12-songs-pinterest.png__l.jpg"
+  loadingUrl="undefined" />
 
   

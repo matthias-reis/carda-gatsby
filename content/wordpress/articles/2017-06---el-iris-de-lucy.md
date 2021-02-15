@@ -68,7 +68,13 @@ subTitle: Zeitgenössische Künstlerinnen Afrikas im CAAM in Las Palmas
   
 ---
 
-![El iris de Lucy](http://cardamonchai.com/wp-content/uploads/2017/06/34413328370_62c83da79c_o-640x425.jpg)
+<RemoteImage
+  alt="El iris de Lucy"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Bei unserem Aufenthalt in Las Palmas im Mai stand auch Kunst auf dem Programm.
 Genauer: Die packende Ausstellung _El iris de Lucy_ im Atlántico de Arte Moderno
@@ -95,7 +101,13 @@ Beatles im Radio.
 
 ## El iris de Lucy - Warum keine Afrikanerin als Namenspatin?
 
-![El iris de Lucy](http://cardamonchai.com/wp-content/uploads/2017/06/34991752072_71f7ed661b_k-640x426.jpg)
+<RemoteImage
+  alt="El iris de Lucy"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34991752072_71f7ed661b_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34991752072_71f7ed661b_k__l.jpg"
+  loadingUrl="undefined" />
 
 Die Schöpfer von _El iris de Lucy_ haben sich die berechtigte Frage gestellt,
 warum man sich damals nicht den Namen einer Frau aus der afrikanischen Kultur
@@ -112,7 +124,13 @@ Künstlerinnen.
 
 ## "Du bist wunderbar"
 
-![El iris de Lucy](http://cardamonchai.com/wp-content/uploads/2017/06/35156852665_23f5200400_k-640x426.jpg)
+<RemoteImage
+  alt="El iris de Lucy"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35156852665_23f5200400_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35156852665_23f5200400_k__l.jpg"
+  loadingUrl="undefined" />
 
 "Du bist wunderbar" sagen diese Kunstwerke. Sie regen zum Denken an und zeigen
 Afrika aus dem Blickwinkel von Frauen, die einen großen Beitrag leisten beim

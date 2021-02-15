@@ -63,7 +63,13 @@ wieder gefragt.
 
 ## Künstliche Besamung
 
-![Ich möchte zu meiner Mama!](http://cardamonchai.com/wp-content/uploads/2014/09/ich-mc3b6chte-zu-meiner-mama-640x429.jpg "Ich möchte zu meiner Mama!")
+<RemoteImage
+  alt="Ich möchte zu meiner Mama!"
+  size="medium"
+  title="Ich möchte zu meiner Mama!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ich-mc3b6chte-zu-meiner-mama__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ich-mc3b6chte-zu-meiner-mama__l.jpg"
+  loadingUrl="undefined" />
 
 Dass Kühe, genau wie wir Menschen, zu den Säugetieren zählen und sie somit nur
 Milch geben, wenn sie Kinder kriegen, scheint einem Großteil der Menschen nicht
@@ -81,7 +87,13 @@ vermissen sich gegenseitig. In kleineren Biobetrieben oft nur durch die
 Stallwand voneinander getrennt, hört die Mutter ihr Kalb in seiner Aufzuchtbox
 trauern.
 
-![Trauriges Kälbchen](http://cardamonchai.com/wp-content/uploads/2014/09/trauriges-kc3a4lbchen-bei-augsburg-640x853.jpg "Trauriges Kälbchen")
+<RemoteImage
+  alt="Trauriges Kälbchen"
+  size="medium"
+  title="Trauriges Kälbchen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_trauriges-kc3a4lbchen-bei-augsburg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_trauriges-kc3a4lbchen-bei-augsburg__l.jpg"
+  loadingUrl="undefined" />
 
 Auf der rechten Seite ein aktuelles Foto von einem Biobauernhof, die Fotografin
 möchte hier gerne anonym bleiben.
@@ -108,7 +120,13 @@ Kraftfutter in einem Trog angeboten."
 
 ## Verwehrung der Muttermilch
 
-![Kalb unter extremem Stress](http://cardamonchai.com/wp-content/uploads/2014/09/kalb-unter-extremem-stress-640x853.jpg "Kalb unter extremem Stress")
+<RemoteImage
+  alt="Kalb unter extremem Stress"
+  size="medium"
+  title="Kalb unter extremem Stress"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_kalb-unter-extremem-stress__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_kalb-unter-extremem-stress__l.jpg"
+  loadingUrl="undefined" />
 
 Als ob die Trennung von der Mutter direkt nach der Geburt nicht schon schlimm
 genug wäre, wird den Kälbchen nun auch noch die Muttermilch verwehrt. So steht
@@ -133,7 +151,13 @@ die in der Regel 3 Tage dauert, mit aufgetauter Milch gefüttert, die in den
 seltensten Fällen von der eigenen Mutter stammt. Im Anschluss folgt dann die
 Fütterung mit dem sogenannten "Milchaustauscher"
 
-![Iglus](http://cardamonchai.com/wp-content/uploads/2014/09/iglus-640x853.jpg "Iglus")
+<RemoteImage
+  alt="Iglus"
+  size="medium"
+  title="Iglus"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_iglus__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_iglus__l.jpg"
+  loadingUrl="undefined" />
 
 Handelt es sich um ein weibliches Kalb, blüht ihm das gleiche Schicksal, wie der
 Mutter und es wird im Alter von rund 18 Monaten das erste Mal gedeckt
@@ -151,7 +175,13 @@ Geburt des Kälbchens und dem sogenannten Trockenstellen (ca. 305 Tage) in
 EU-Ländern im Durchschnitt rund 6.700 kg, in den USA bis zu 9.750 kg pro Jahr
 (Wisconsin, Idaho).
 
-![](http://cardamonchai.com/wp-content/uploads/2014/09/5-jc3a4hrige-kuh-natc3bcrliches-euter-640x480.jpg "Natürliches Euter einer 5-Jährigen Kuh (Auf einem Gnadenhof)")
+<RemoteImage
+  alt=""
+  size="medium"
+  title="Natürliches Euter einer 5-Jährigen Kuh (Auf einem Gnadenhof)"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_5-jc3a4hrige-kuh-natc3bcrliches-euter__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_5-jc3a4hrige-kuh-natc3bcrliches-euter__l.jpg"
+  loadingUrl="undefined" />
 
 Für die Ernährung eines Kalbes sind 8 kg Milch pro Tag vollkommen ausreichend,
 die heutigen **Hochleistungskühe** schaffen 50 kg Milch pro Tag.
@@ -174,7 +204,13 @@ Das Kälbchen erstickt währenddessen in einem langandauernden, quälenden Proze
 voller schmerzhafter Abwehrreaktionen im Mutterleib, denn die Betäubung mit dem
 Bolzenschussgerät hat nur auf die Mutter eine Wirkung.
 
-![Was hat sie verbrochen?](http://cardamonchai.com/wp-content/uploads/2014/09/was-hat-sie-verbrochen.jpg "Was hat sie verbrochen?")
+<RemoteImage
+  alt="Was hat sie verbrochen?"
+  size="medium"
+  title="Was hat sie verbrochen?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_was-hat-sie-verbrochen__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_was-hat-sie-verbrochen__l.jpg"
+  loadingUrl="undefined" />
 
 Darüber, dass die Betäubung bei rund vier bis neun Prozent der Rinder mangelhaft
 ist (dies bestätigte eine Umfrage der Grünen), oder sogar gänzlich fehlt,
@@ -197,7 +233,13 @@ nicht anders, er tat es, um nicht zu verhungern und dies ist auch in keinster
 Weise mit der heutigen Milchindustrie vergleichbar und entschuldigt diese auch
 nicht.
 
-![Männliche Kälbchen warten auf den Schlachthof](http://cardamonchai.com/wp-content/uploads/2014/09/mc3a4nnliche-kc3a4lbchen-warten-auf-den-schlachthof-640x428.jpg "Männliche Kälbchen warten auf den Schlachthof")
+<RemoteImage
+  alt="Männliche Kälbchen warten auf den Schlachthof"
+  size="medium"
+  title="Männliche Kälbchen warten auf den Schlachthof"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_mc3a4nnliche-kc3a4lbchen-warten-auf-den-schlachthof__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_mc3a4nnliche-kc3a4lbchen-warten-auf-den-schlachthof__l.jpg"
+  loadingUrl="undefined" />
 
 So schrieb eine junge Landwirtin in einem Forum für Viehzucht, dass sie nicht
 mehr weiter wisse, die Kälbchen würden partout das Futter aus dem Tränkeimer
@@ -213,7 +255,13 @@ werden.
 
 ## Weder "Bio" noch "Öko" steht für glückliche Tiere
 
-![Männliche Jungtiere warten auf den Schlachthof](http://cardamonchai.com/wp-content/uploads/2014/09/mc3a4nnliche-jungtiere-warten-auf-den-schlachthof-640x428.jpg "Männliche Jungtiere warten auf den Schlachthof")
+<RemoteImage
+  alt="Männliche Jungtiere warten auf den Schlachthof"
+  size="medium"
+  title="Männliche Jungtiere warten auf den Schlachthof"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_mc3a4nnliche-jungtiere-warten-auf-den-schlachthof__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_mc3a4nnliche-jungtiere-warten-auf-den-schlachthof__l.jpg"
+  loadingUrl="undefined" />
 
 "Bio" bedeutet übrigens in der Milchindustrie, bis auf die Stallgröße (einige
 Zentimeter mehr) und den nicht stattfindenden Einsatz von Antibiotika, keinen
@@ -228,7 +276,13 @@ Bio-Kuh jedes Jahr ein Kalb austragen, was nach der Geburt passiert, gleicht dem
 oben beschriebenen Prozess, als "Nebenprodukt" der Milchproduktion hat das Kalb
 keinen Anspruch auf die Milch seiner Mutter.
 
-![Weibliche Tierkinder in einem Milchkuhbetrieb](http://cardamonchai.com/wp-content/uploads/2014/09/weibliche-tierkinder-in-einem-milchkuhbetrieb-640x428.jpg "Weibliche Tierkinder in einem Milchkuhbetrieb")
+<RemoteImage
+  alt="Weibliche Tierkinder in einem Milchkuhbetrieb"
+  size="medium"
+  title="Weibliche Tierkinder in einem Milchkuhbetrieb"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_weibliche-tierkinder-in-einem-milchkuhbetrieb__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_weibliche-tierkinder-in-einem-milchkuhbetrieb__l.jpg"
+  loadingUrl="undefined" />
 
 Einem Öko-Kälbchen bis 100 kg steht laut EG-Ökorichtlinien ein Lebensraum von
 insgesamt 2,6 Quadratmetern zu, die Fläche eines durchschnittlichen
@@ -248,7 +302,13 @@ die Tiere in vielen Fällen durch die unnatürliche Haltung im Stall kein
 Sozialverhalten entwickeln können, steigt die Verletzungsgefahr durch ihre
 Hörner, weshalb die Prozedur auch heute noch durchgeführt wird.
 
-![Biokuh im Biostall biowahrheit.de](http://cardamonchai.com/wp-content/uploads/2014/09/biokuh-im-biostall-biowahrheit-de-640x480.jpg "Biokuh im Biostall biowahrheit.de")
+<RemoteImage
+  alt="Biokuh im Biostall biowahrheit.de"
+  size="medium"
+  title="Biokuh im Biostall biowahrheit.de"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_biokuh-im-biostall-biowahrheit-de__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_biokuh-im-biostall-biowahrheit-de__l.jpg"
+  loadingUrl="undefined" />
 
 Massentierhaltung findet auch auch auf Bio- und Ökobetrieben statt. Auch dort
 werden hohe "Bestandszahlen" benötigt, um wirtschaftlich zu "produzieren". Es
@@ -260,7 +320,13 @@ Auch das Schlachten ist nicht weniger grausam, als in "normalen" Betrieben, die
 Rinder werden mit dem **Bolzenschussgerät** betäubt, im Anschluss bekommen sie
 einen Schnitt durch die Kehle und bluten aus.
 
-![Durchgehender Nasenring und Viehsaugentwöhner](http://cardamonchai.com/wp-content/uploads/2014/09/durchgehender-nasenring-und-viehsaugentwc3b6hner-640x429.jpg "Durchgehender Nasenring und Viehsaugentwöhner")
+<RemoteImage
+  alt="Durchgehender Nasenring und Viehsaugentwöhner"
+  size="medium"
+  title="Durchgehender Nasenring und Viehsaugentwöhner"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_durchgehender-nasenring-und-viehsaugentwc3b6hner__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_durchgehender-nasenring-und-viehsaugentwc3b6hner__l.jpg"
+  loadingUrl="undefined" />
 
 In Öko- wie in Regulärbetrieben kommen zudem Nasenringe und Saugstopp-Nasenringe
 zum Einsatz. Die Nase ist eine extrem empfindliche Stelle am Körper eines
@@ -273,7 +339,13 @@ abzuhalten.
 
 ## Vegane Alternativen zur Kuhmilch
 
-![Angusrind Nr. 64135](http://cardamonchai.com/wp-content/uploads/2014/09/angusrind-nr-64135-640x428.jpg "Angusrind Nr. 64135")
+<RemoteImage
+  alt="Angusrind Nr. 64135"
+  size="medium"
+  title="Angusrind Nr. 64135"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_angusrind-nr-64135__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_angusrind-nr-64135__l.jpg"
+  loadingUrl="undefined" />
 
 Übrigens enthält Sojamilch genauso wie Kuhmilch 120 mg Kalzium pro 100g. Um
 einen Liter davon herzustellen, benötigt man 100 Gramm getrocknete Sojabohnen.
@@ -285,7 +357,13 @@ min geköchelt hat und abgekühlt ist, wird es mit einem sauberen Küchentuch un
 einer Schüssel gefiltert. Eine saubere Sache, oder? Ach, und: Nussmilch lässt
 sich auch ganz leicht selber machen.
 
-![Angst](http://cardamonchai.com/wp-content/uploads/2014/09/angst.jpg "Angst")
+<RemoteImage
+  alt="Angst"
+  size="medium"
+  title="Angst"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_angst__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_angst__l.jpg"
+  loadingUrl="undefined" />
 
 80 Prozent der weltweiten Sojaernte werden zu Viehfutter verarbeitet, weitere
 Produkte, die aus Soja hergestellt werden sind zum Beispiel **Biodiesel** ,
@@ -309,7 +387,13 @@ Makadamiamilch, Haselnussmilch, Mandelmilch und Kokosmilch. Ich trinke meinen
 Kaffee am liebsten mit Reismilch oder **Mandelmilch** und liebe Müsli mit
 Kokosmilch.
 
-![EU-Sammelstelle Welden-Reutern kurz vor dem Transport nach Spanien](http://cardamonchai.com/wp-content/uploads/2014/09/eu-sammelstelle-welden-reutern-kurz-vor-dem-transport-nach-spanien.jpg "EU-Sammelstelle Welden-Reutern kurz vor dem Transport nach Spanien")
+<RemoteImage
+  alt="EU-Sammelstelle Welden-Reutern kurz vor dem Transport nach Spanien"
+  size="medium"
+  title="EU-Sammelstelle Welden-Reutern kurz vor dem Transport nach Spanien"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_eu-sammelstelle-welden-reutern-kurz-vor-dem-transport-nach-spanien__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_eu-sammelstelle-welden-reutern-kurz-vor-dem-transport-nach-spanien__l.jpg"
+  loadingUrl="undefined" />
 
 Mandelmilch trinke ich auch gerne mal pur, sie ist übrigens ein ganz
 traditionelles Getränk, das bereits im Mittelalter bekannt war und sich von der
@@ -328,7 +412,13 @@ Unter anderem wurden schon Diabetes, Autismus und Schizophrenie, Multiple
 Sklerose und Krebs mit dem Konsum von Kuhmilch in Verbindung gebracht (Studien
 siehe unten unter dem Punkt "Links").
 
-![Tierkinder auf dem Weg nach Spanien - später landen sie bei uns in der Kühltheke](http://cardamonchai.com/wp-content/uploads/2014/09/tierkinder-auf-dem-weg-nach-spanien.jpg "Tierkinder auf dem Weg nach Spanien - später landen sie bei uns in der Kühltheke")
+<RemoteImage
+  alt="Tierkinder auf dem Weg nach Spanien - später landen sie bei uns in der Kühltheke"
+  size="medium"
+  title="Tierkinder auf dem Weg nach Spanien - später landen sie bei uns in der Kühltheke"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_tierkinder-auf-dem-weg-nach-spanien__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_tierkinder-auf-dem-weg-nach-spanien__l.jpg"
+  loadingUrl="undefined" />
 
 Die Länder mit dem höchsten Milchkonsum weisen die höchsten Osteoporose-Raten
 auf, eine
@@ -344,7 +434,13 @@ das Kalzium, die Anfälligkeit für Osteoporose steigt.
 
 ## Laktoseintoleranz und Prostatakrebs
 
-![Eingewachsener Nasenring](http://cardamonchai.com/wp-content/uploads/2014/09/eingewachsener-nasenring-640x429.jpg "Eingewachsener Nasenring")
+<RemoteImage
+  alt="Eingewachsener Nasenring"
+  size="medium"
+  title="Eingewachsener Nasenring"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_eingewachsener-nasenring__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_eingewachsener-nasenring__l.jpg"
+  loadingUrl="undefined" />
 
 Rund 75 Prozent der Weltbevölkerung leidet unter **Laktoseintoleranz** (Variiert
 von fünf Prozent in nordeuropäischen Ländern, 15 Prozent in Deutschland, bis zu
@@ -358,7 +454,13 @@ Männern, die mindestens zweimal am Tag Milch konsumierten, wurde ein um 34
 Prozent gesteigertes Prostatakrebsrisiko gegenüber denen, die keine Milch zu
 sich nahmen festgestellt.
 
-![Es hat seine Mutter nie gesehen und landet mit fünf Monaten hier- Im Schlachthof der Kälber | full](http://cardamonchai.com/wp-content/uploads/2014/09/es-hat-seine-mutter-nie-gesehen-und-landet-mit-fc3bcnf-monaten-hier-im-schlachthof-der-kc3a4lber.jpg "Es hat seine Mutter nie gesehen und landet mit fünf Monaten hier- Im Schlachthof der Kälber")
+<RemoteImage
+  alt="Es hat seine Mutter nie gesehen und landet mit fünf Monaten hier- Im Schlachthof der Kälber"
+  size="full"
+  title="Es hat seine Mutter nie gesehen und landet mit fünf Monaten hier- Im Schlachthof der Kälber"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_es-hat-seine-mutter-nie-gesehen-und-landet-mit-fc3bcnf-monaten-hier-im-schlachthof-der-kc3a4lber__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_es-hat-seine-mutter-nie-gesehen-und-landet-mit-fc3bcnf-monaten-hier-im-schlachthof-der-kc3a4lber__l.jpg"
+  loadingUrl="undefined" />
 
 Menschen sind die einzigen Lebewesen auf diesem Planeten, die nach der
 Muttermilch weiterhin Milch zu sich nehmen, die einer anderen Spezies.

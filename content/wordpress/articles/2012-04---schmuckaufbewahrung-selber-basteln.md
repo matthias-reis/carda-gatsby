@@ -38,7 +38,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (63:12)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (87:12)"
 thumbnailId: "2978"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__l.jpg
@@ -47,10 +47,16 @@ subTitle: Bastelstunde
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (63:12)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (87:12)
 
 <!--
-![Foto: cardamonchai 3/2012](https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg "Schmuckaufbewahrung selber basteln")
+<RemoteImage
+  alt="Foto: cardamonchai 3/2012"
+  size="medium"
+  title="Schmuckaufbewahrung selber basteln"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg"
+  largeUrl="https://cardamonchai.files.wordpress.com/2012/04/img_8927.jpeg"
+  loadingUrl="undefined" />
 
 **Heute widme ich mich mal einem ganz neuen Thema: Der Bastelei.**
 
@@ -75,13 +81,25 @@ Ohrringen, Haarreifen, Ketten und vielen weiteren herrlichen kleinen
 Unnötigkeiten füllt. Eine sehr edel anmutende Lösung, wie ich finde, die rein
 gar nichts von einem Hasenstall hat:
 
-![Foto: Hoochi 4/2012 | full](https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg "Foto: Hoochi 4/2012")
+<RemoteImage
+  alt="Foto: Hoochi 4/2012"
+  size="full"
+  title="Foto: Hoochi 4/2012"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg"
+  largeUrl="https://cardamonchai.files.wordpress.com/2012/04/sandras-schmuck2.jpg"
+  loadingUrl="undefined" />
 
 Als nächstes folgt ein Bild von Desis Kreativlösung: Sie hat Schwämmholz
 gesammelt und es mit kleinen Bildernägeln versehen, an denen sie ihre Schätze
 aufgehängt hat:
 
-![Foto: Desi 4/2012 | full](https://cardamonchai.files.wordpress.com/2012/04/desis-schmuck1.jpg "Foto: Desi 4/2012")
+<RemoteImage
+  alt="Foto: Desi 4/2012"
+  size="full"
+  title="Foto: Desi 4/2012"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/desis-schmuck1.jpg"
+  largeUrl="https://cardamonchai.files.wordpress.com/2012/04/desis-schmuck1.jpg"
+  loadingUrl="undefined" />
 
 Zuletzt noch zu meiner Variante der Schmuckaufbewahrung: Als ich vor einiger
 Zeit noch gekellnert habe, habe ich Champagnerkorken gesammelt, die ich dann mit
@@ -89,7 +107,13 @@ einer Laubsäge in Scheiben geschnitten und auf einen Bilderrahmen geklebt habe.
 In diese Platte lassen sich nun schön alle Ohrringe und Broschen pieksen, für
 alles andere suche ich allerdings im Moment noch eine perfekte Lösung.
 
-![Foto cardamonchai 4/2012 | full](https://cardamonchai.files.wordpress.com/2012/04/img_9236.jpg "Foto cardamonchai 4/2012")
+<RemoteImage
+  alt="Foto cardamonchai 4/2012"
+  size="full"
+  title="Foto cardamonchai 4/2012"
+  mediumUrl="https://cardamonchai.files.wordpress.com/2012/04/img_9236.jpg"
+  largeUrl="https://cardamonchai.files.wordpress.com/2012/04/img_9236.jpg"
+  loadingUrl="undefined" />
 
 Was gibt es sonst noch für Aufbewahrungsmöglichkeiten? Habt ihr Tipps? Habt ihr
 vielleicht noch was viel tolleres gebaut? Ich freue mich auf jeden Fall auf

@@ -36,7 +36,13 @@ subTitle: Feat. Lyenn &amp; Duke Garwood
   
 ---
 
-![Mark Lanegan](http://cardamonchai.com/wp-content/uploads/2015/03/16454954390_fab402aea4_z.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Mark Lanegan")
+<RemoteImage
+  alt="Mark Lanegan"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Mark Lanegan"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Am 21. Februar besuchte ich mit Matze und meinem lieben Bruder das
 langersehnte Mark Lanegan Konzert. Als Support brachte er den hochmusikalischen

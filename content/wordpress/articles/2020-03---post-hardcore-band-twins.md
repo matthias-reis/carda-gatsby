@@ -19,7 +19,8 @@ date: 2020-03-24T07:00:31.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (27:75)"
 thumbnailId: "28723"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel__l.jpg
@@ -28,6 +29,9 @@ subTitle: '"Mit Faschisten verhandelt man nicht"'
   
 ---
 
+## unknown: Unexpected token (27:75)
+
+<!--
 **Wer Bands wie Fugazi, Touché Amoré und Pianos Become The Teeth mag, wird sich
 mit der Musik der Post-Hardcore Band Twins wohl fühlen.**
 
@@ -54,7 +58,11 @@ Familie und Freunden erhalten und das war mir eigentlich auch am wichtigsten.
 
 ## "Wir kommen aus den unterschiedlichsten Ecken"
 
-![twins-interview-post-hardcore](http://cardamonchai.com/wp-content/uploads/2020/03/twins-400x400.jpg '"Soon" - das neue Album von Twins')
+<RemoteImage alt="twins-interview-post-hardcore" size="medium" title=""Soon" -
+das neue Album von Twins"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_twins__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_twins__l.jpg"
+loadingUrl="undefined" />
 
 **Anne:** Stammt Ihr alle aus Eurem Gründungsort Dresden?
 
@@ -125,7 +133,13 @@ Melodieführung und die sich gegenseitig ergänzenden Gitarrenlinien auf dem Alb
 
 ## "Die Szene wird weiblicher und diverser"
 
-![twins-interview-post-hardcore](http://cardamonchai.com/wp-content/uploads/2020/03/Design-ohne-Titel-1-1-400x300.jpg "Twins im Proberaum")
+<RemoteImage
+  alt="twins-interview-post-hardcore"
+  size="medium"
+  title="Twins im Proberaum"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel-1-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel-1-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Steffen:** Ich beobachte auf jeden Fall eine positive Entwicklung dahingehend,
 dass die "Szene" im Bezug auf die Bands zunehmend weiblicher und diverser wird.
@@ -191,5 +205,7 @@ man sich von einer ordentlichen Post-Hardcore Platte erhofft.
 - ["Soon" bei iTunes](https://music.apple.com/de/album/soon/1494305490)
 - ["Soon" bei Spotify](https://open.spotify.com/album/3xZquE5MK932k873lUVBLB?si=joAOW9PLTOiGUQ0Z1eVWjw)
 - [Twins bei Bandcamp](https://throughloverec.bandcamp.com/album/soon)
+
+-->
 
   

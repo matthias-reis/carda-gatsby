@@ -49,7 +49,13 @@ subTitle: Ich habe aufgehört zu rauchen...
   
 ---
 
-![Schweinehund](http://cardamonchai.com/wp-content/uploads/2013/09/9707307969_f3e68eba49_o-640x640.jpg "Hässlichstes Bild in meinem Blog bisher und in Zukunft")
+<RemoteImage
+  alt="Schweinehund"
+  size="medium"
+  title="Hässlichstes Bild in meinem Blog bisher und in Zukunft"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__l.jpg"
+  loadingUrl="undefined" />
 
 **... und das vor ziemlich genau vier Stunden. Um 13:30 habe ich die letzte
 Kippe in den Sand des Aschenbechers vor dem Bürogebäude gedrückt. Jetzt meint
@@ -97,7 +103,13 @@ sitzen? Fährt in einem stinkenden Klapperauto rum, obwohl man sich schon vor
 Monaten ein neues Spritsparmodell hätte leisten können, hätte man das Geld nicht
 in dreckigen, verklebten Automaten versenkt?
 
-![Schweinehund](http://cardamonchai.com/wp-content/uploads/2013/09/foto-640x640.jpg "Der fiese Schweinehund - Ist er am Ende gar nicht böse?")
+<RemoteImage
+  alt="Schweinehund"
+  size="medium"
+  title="Der fiese Schweinehund - Ist er am Ende gar nicht böse?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__l.jpg"
+  loadingUrl="undefined" />
 
 Ich beginne, Euch zu langweilen. Ich weiß. Ihr kennt die Gründe. Daher komme ich
 besser schnell zum Punkt. Ich habe wochenlang überlegt. Die Stange aus dem
@@ -154,13 +166,25 @@ zwischen Al Pacino und Bruce Willis senden. :-P Hier kommt der Vertrag:
 -  <address>Mit dem Herzmann lecker essen gehen</address>
 -  <address>Die Sucht besiegt haben</address> __Gezeichnet__ <address style="text-align: left;"> __Anne__ (auch i. A. des fürchterlichen Schweinehunds)</address> __Zeugen__  __Evelyn__  _(Meine liebe Arbeitskollegen, die seit 4 Jahren rauchfrei ist, und mich mit ihrer heiteren Art unterstützt, wo sie kann.)_
 
-![Evelyn](http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300 "Evelyn")
+<RemoteImage
+  alt="Evelyn"
+  size="medium"
+  title="Evelyn"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/9680795254_0fc1099280_o.jpg?w=300"
+  loadingUrl="undefined" />
 
 **Der Herzmann** _(Der noch nie einen Glimmstengel angefasst hat und heute
 Abend, beim Stöbern in meinem Blog völlig unvorbereitet von meinem Vorhaben
 erfahren wird.)_
 
-![Der Herzmann](http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300 "Der Herzmann")
+<RemoteImage
+  alt="Der Herzmann"
+  size="medium"
+  title="Der Herzmann"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/09/189270_1914558587933_3844410_n.jpg?w=300"
+  loadingUrl="undefined" />
 
 <address style="text-align: left;"></address></div>
 

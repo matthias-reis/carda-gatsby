@@ -34,7 +34,13 @@ subTitle: Ökolatsche 2.0
   
 ---
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/14928928498_12fe41202f_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Ökolatsche 2.0")
+<RemoteImage
+  alt="Vegan"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Ökolatsche 2.0"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_14928928498_12fe41202f_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_14928928498_12fe41202f_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Ich wollte mal wieder einen Kommentar abgeben und das sei hiermit geschehen:
 Es ist schön, dass sich was tut. Das Umdenken erfolgt Schritt für Schritt.**
@@ -65,7 +71,13 @@ notwendiger, ohne tierische Produkte zu leben, als heute.“
 
 ## Das Leid der Milchrinder
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16567602676_8b5367c531_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Garantiert ohne Rind: Selbstgemachte Seitanburger")
+<RemoteImage
+  alt="Vegan"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Garantiert ohne Rind: Selbstgemachte Seitanburger"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16567602676_8b5367c531_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16567602676_8b5367c531_o__l.jpg"
+  loadingUrl="undefined" />
 
 Ja, so langsam kommt es in unseren Köpfen an, dass die Qualen der Milchrinder
 genauso, wenn nicht sogar größer sind, als die der Mastrinder, dass es sich bei
@@ -96,7 +108,13 @@ zukunftsträchtiges Geschäft und im Moment kann einfach Jede/r noch der/die Ers
 sein. Ein ganz neuer Markt möchte erobert werden, neue Kunden kommen mit einer
 ständig wachsenden Nachfrage ins Geschäft spaziert.
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/16645349015_bca3a88d2d_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Hier gibt es jetzt auch vegane Gerichte")
+<RemoteImage
+  alt="Vegan"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Hier gibt es jetzt auch vegane Gerichte"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16645349015_bca3a88d2d_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_16645349015_bca3a88d2d_o__l.jpg"
+  loadingUrl="undefined" />
 
 Und es gibt einiges zu tun! Ich spreche hier auch die Verpackungsdesigner an.
 Warum lässt sich eine Leberwurstpackung schon seit der Spätbronzezeit ganz
@@ -138,7 +156,13 @@ tierleidfrei sein. Die Ökolatsche 2.0. also.
 
 ## Tierleidfreie Produkte werden nach und nach zum festen Sortimentsbestandteil
 
-![Vegan](http://cardamonchai.com/wp-content/uploads/2015/02/15070698056_05f84410ef_o-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bietet nicht nur Avocados: Die vegane Küche")
+<RemoteImage
+  alt="Vegan"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bietet nicht nur Avocados: Die vegane Küche"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_15070698056_05f84410ef_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_15070698056_05f84410ef_o__l.jpg"
+  loadingUrl="undefined" />
 
 Genau so letzte Woche im Reformhaus: Da im Drogeriemarkt meines Vertrauens mal
 wieder das **Kokosöl** und die Hefeflocken ausverkauft waren (die Nachfrage

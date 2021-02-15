@@ -48,4 +48,6 @@ export const line = {
 
 export const breakpoints = {
   navFold: '900px',
+  layoutFold: width[5],
+  smallFold: width[4],
 };

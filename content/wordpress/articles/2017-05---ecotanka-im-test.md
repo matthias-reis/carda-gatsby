@@ -47,7 +47,13 @@ subTitle: Im Bett mit einer Flasche
 
 _Werbung\*_
 
-![Ecotanka](http://cardamonchai.com/wp-content/uploads/2017/05/34514372262_29e6404b46_k-640x960.jpg)
+<RemoteImage
+  alt="Ecotanka"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34514372262_29e6404b46_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34514372262_29e6404b46_k__l.jpg"
+  loadingUrl="undefined" />
 
 **Mein Test der Ecotanka Trinkflasche ist etwas anders ausgefallen, als geplant.
 Ich hoffe, dass mein Bericht dennoch kurzweilig ist. Alle Infos, die Ihr
@@ -98,7 +104,13 @@ mich in Zukunft trennen.
 
 ## Bye bye, Plastikflasche - Zero Waste Drinking
 
-![Ecotanka](http://cardamonchai.com/wp-content/uploads/2017/05/34291309300_e761ac4aae_k-640x427.jpg)
+<RemoteImage
+  alt="Ecotanka"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34291309300_e761ac4aae_k__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_34291309300_e761ac4aae_k__l.jpg"
+  loadingUrl="undefined" />
 
 Getestet habe ich, fiebrig wie ich bin, unter erschwerten Bedingungen. Ich habe
 die Flasche geschüttelt, auf den Kopf gestellt und auch ein paar mal umfallen

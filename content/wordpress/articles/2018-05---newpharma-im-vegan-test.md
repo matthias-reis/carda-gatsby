@@ -78,7 +78,13 @@ noch nicht alles gekennzeichnet, was vegan und crueltyfree ist. Mitarbeiterin
 Julie hat mir sehr geholfen, trotzdem fündig zu werden. Vielen Dank an dieser
 Stelle!
 
-![Newpharma](http://cardamonchai.com/wp-content/uploads/2018/05/27368596867_f1af7058eb_z-400x300.jpg)
+<RemoteImage
+  alt="Newpharma"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_27368596867_f1af7058eb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_27368596867_f1af7058eb_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die folgenden Produkte sind bei Newpharma vegan und crueltyfree, können also
 bedenkenlos bestellt werden:
@@ -106,7 +112,13 @@ umfangreiche Antwort.
 
 Ich persönlich habe mich für die folgenden Produkte entschieden:
 
-![New Pharma | full](http://cardamonchai.com/wp-content/uploads/2018/04/New-Pharma-960x531.png)
+<RemoteImage
+  alt="New Pharma"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_New-Pharma.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_New-Pharma.png__l.jpg"
+  loadingUrl="undefined" />
 
 Wie Ihr seht, kann kostenfrei an einen Paketshop, nach Hause oder ins Büro
 bestellt werden. Berufstätige haben also nicht das Problem, ihr Paket in einer
@@ -125,7 +137,13 @@ bestätigte, dass die Produkte vegan und crueltyfree sind. Auch auf
 
 ## Das Paket von Newpharma ist da
 
-![Newpharma](http://cardamonchai.com/wp-content/uploads/2018/05/40431650000_4b762b6194_z-400x300.jpg)
+<RemoteImage
+  alt="Newpharma"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431650000_4b762b6194_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_40431650000_4b762b6194_z__l.jpg"
+  loadingUrl="undefined" />
 
 Nach kurzer Lieferzeit kamen die Produkte bei mir an. Besonders gespannt war ich
 selbstverständlich auf das Parfum von Copaïba. Es gibt nicht besonders viel
@@ -147,7 +165,13 @@ Prozent natürlicher Herkunft.
 
 ## Sommerliche Duftnote
 
-![Newpharma](http://cardamonchai.com/wp-content/uploads/2018/05/41338189445_64d3acce0b_z-400x300.jpg)
+<RemoteImage
+  alt="Newpharma"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41338189445_64d3acce0b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41338189445_64d3acce0b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gerade jetzt im Sommer passt die Duftnote sehr gut. Für den Winter würde ich
 mich vielleicht für eine andere entscheiden. Was an den Parfums des Herstellers
@@ -173,7 +197,13 @@ Körper verwendet werden.
 
 ## Pflege für sonnenstrapazierte Haut
 
-![Newpharma](http://cardamonchai.com/wp-content/uploads/2018/05/42239395851_295bcb148c_z-400x300.jpg)
+<RemoteImage
+  alt="Newpharma"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42239395851_295bcb148c_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_42239395851_295bcb148c_z__l.jpg"
+  loadingUrl="undefined" />
 
 Trägt man es auf, kann man auf Parfum fast verzichten. Seinem Namen macht es
 alle Ehre: Es zieht extrem schnell ein und hinterlässt keinen Fettfilm. Ich habe
@@ -191,7 +221,13 @@ Lotion zu 91,2 Prozent und das silikonfreie Trockenöl 98,1 Prozent.
 
 ## Mein Fazit
 
-![Newpharma](http://cardamonchai.com/wp-content/uploads/2018/05/41338180135_d63b588561_z-400x300.jpg)
+<RemoteImage
+  alt="Newpharma"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41338180135_d63b588561_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41338180135_d63b588561_z__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt kann ich nach meiner Bestellung bei Newpharma ein positives Fazit
 ziehen. Die persönliche Beratung hat mir sehr zugesagt und auch die Möglichkeit,

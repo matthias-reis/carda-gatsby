@@ -45,7 +45,13 @@ streiken.**
 Beim letzten weltweiten Streik waren allein in Hamburg 25.000 Menschen auf der
 Straße. Weltweit waren es mehr als 1,6 Millionen.
 
-![klimastreik](http://cardamonchai.com/wp-content/uploads/2019/09/trab-klimastreik-400x208.jpg "Klimastreik am 20. September. Grafik: Tierrechtsaktivistenbündnis Hamburg")
+<RemoteImage
+  alt="klimastreik"
+  size="medium"
+  title="Klimastreik am 20. September. Grafik: Tierrechtsaktivistenbündnis Hamburg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_trab-klimastreik__l.jpg"
+  loadingUrl="undefined" />
 
 Auch wir sind mit dem veganen Block morgen mit dabei und sind laut für das
 Klima, für die Tiere, für die Umwelt und für die Zukunft. Kommt auch Ihr vorbei

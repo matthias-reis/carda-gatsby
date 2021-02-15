@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 import * as React from 'react';
 
 type CardaImageProps = {
-  loading: string;
+  loading?: string;
   src: string;
   alt: string;
 };
@@ -12,15 +12,16 @@ export const CardaImage: React.FC<CardaImageProps> = ({
   src,
   ...props
 }) => {
-  loading = loading.replace(/'/g, '');
-  const [source, setSrc] = React.useState(loading);
-  React.useEffect(() => {
-    const i = new Image();
-    i.src = src;
-    i.onload = () => {
-      setSrc(src);
-    };
-  }, [loading, setSrc]);
+  loading = (loading || '').replace(/'/g, '');
+  const [source, setSrc] = React.useState(loading || src);
+  loading &&
+    React.useEffect(() => {
+      const i = new Image();
+      i.src = src;
+      i.onload = () => {
+        setSrc(src);
+      };
+    }, [loading, setSrc]);
 
   return <Img src={source} {...props} />;
 };

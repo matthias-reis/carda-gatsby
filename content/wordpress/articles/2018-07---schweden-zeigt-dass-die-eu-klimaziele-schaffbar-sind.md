@@ -55,7 +55,13 @@ vielleicht schon in diesem Jahr. Im Vertrag stehen
 - die Erhöhung des Anteils erneuerbarer Energien auf mindestens 27 Prozent
 - sowie die Steigerung der Energieeffizienz um mindestens 27 Prozent.
 
-![Klimaziele](http://cardamonchai.com/wp-content/uploads/2018/07/1-400x224.png "Bild: Swedish Energy Association")
+<RemoteImage
+  alt="Klimaziele"
+  size="medium"
+  title="Bild: Swedish Energy Association"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Der Rahmenplan wurde im Herbst des Jahres 2017 von den Staats- und
 Regierungschefs der EU unterzeichnet. Er fußt auf dem Klima- und Energiepaket
@@ -81,7 +87,13 @@ Im Jahr 2040 soll dann in Schweden bereits der komplette verfügbare Strom aus
 Erneuerbaren Energien stammen. Außerdem sollen die Netto-Treibhausgasemissionen
 bis 2045 auf null heruntergefahren werden.
 
-![Klimaziele](http://cardamonchai.com/wp-content/uploads/2018/07/2-400x243.jpg "Bild: Swedish Energy Association")
+<RemoteImage
+  alt="Klimaziele"
+  size="medium"
+  title="Bild: Swedish Energy Association"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_2__l.jpg"
+  loadingUrl="undefined" />
 
 Da kann man wirklich nur eins sagen: Hut ab, Schweden! Im Land der langen
 Sommernächte und kalten Winter scheint man die Bedrohung durch den

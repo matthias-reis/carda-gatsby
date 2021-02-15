@@ -38,7 +38,13 @@ subTitle: Kings Of The False Foundation Tour
   
 ---
 
-![Archive](http://cardamonchai.com/wp-content/uploads/2016/11/31190150605_143a91eef8_z.jpg "Ein Herzliches Willkommen")
+<RemoteImage
+  alt="Archive"
+  size="medium"
+  title="Ein Herzliches Willkommen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31190150605_143a91eef8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31190150605_143a91eef8_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Gestern Abend war endlich mal wieder ein Konzertbesuch an der Reihe. Die Ehre
 gaben sich keine Geringeren, als Archive aus London.**

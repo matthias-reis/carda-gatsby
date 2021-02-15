@@ -48,7 +48,8 @@ date: 2012-08-30T08:55:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (81:9)"
 thumbnailId: "4116"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__l.jpg
@@ -57,6 +58,9 @@ subTitle: Geschichte zum Thema Katzenliebe
   
 ---
 
+## unknown: Unexpected token (81:9)
+
+<!--
 Du bist für mich da, wenn es mir schlecht geht, und tobst mit mir herum, wenn
 die Laune wieder besser ist. Du bringst mich auf die Palme und holst mich zurück
 auf den Teppich.
@@ -78,7 +82,13 @@ immer mit diesem teils fragenden, teils schlitzohrigen Blick, den Kopf leicht
 schräg, bereit zum Absprung davor, wenn die Tür geöffnet ist. Bis jetzt habe ich
 es noch immer geschafft, ihn rechtzeitig zu schließen.
 
-![](http://cardamonchai.com/wp-content/uploads/2012/08/chili-perfekt-640x640.jpg)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_chili-perfekt__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_chili-perfekt__l.jpg"
+  loadingUrl="undefined" />
 
 Du magst gerne Blumenerde. Und Palmenblätter. Genüsslich zernagst Du sie, bis
 nur noch das Gerippe übrig ist. Dein Bruder bevorzugt Gräser. Und Rosenblätter,
@@ -139,8 +149,14 @@ Taten. Auf leisen Tatzen.
 _Dieser Text ist Oskar und Chili gewidmet. Eigentlich sollte es heißen "Ode an
 DIE Kater", denn ich liebe Euch beide, meine wolligen Mitbewohner._
 
-![ "I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to us. We don't even belong to each other." | full](http://cardamonchai.com/wp-content/uploads/2012/08/cat2-kc3b6rnung-und-aufhellung-horzgerahmt.jpg
-'"I'm like cat here, a no-name slob. We belong to nobody, and nobody belongs to
-us. We don't even belong to each other."')
+<RemoteImage alt=" &quot;I'm like cat here, a no-name slob. We belong to nobody,
+and nobody belongs to us. We don't even belong to each other.&quot;" size="full"
+title=""I'm like cat here, a no-name slob. We belong to nobody, and nobody
+belongs to us. We don't even belong to each other.""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__l.jpg"
+loadingUrl="undefined" />
+
+-->
 
   

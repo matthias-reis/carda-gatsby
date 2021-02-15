@@ -48,7 +48,13 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 
 ## Ich werde nie aufgeben
 
-![Menschen](http://cardamonchai.com/wp-content/uploads/2017/06/2017-06-18-Stamp-Festival-45-640x853.jpg "Why are you wearing that stupid man suit?")
+<RemoteImage
+  alt="Menschen"
+  size="medium"
+  title="Why are you wearing that stupid man suit?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-45__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-45__l.jpg"
+  loadingUrl="undefined" />
 
 **Warum sehen Menschen anderen Menschen beim Scheitern zu? Warum fällt es den
 meisten so schwer, anderen auch mal unter die Arme zu greifen? Wenn wir sehen,
@@ -78,7 +84,13 @@ wollen einfach nur beachtet werden.
 
 ## Gegen Windmühlen schreiben
 
-![Menschen](http://cardamonchai.com/wp-content/uploads/2017/06/2017-06-18-Stamp-Festival-42-640x640.jpg)
+<RemoteImage
+  alt="Menschen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-42__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-42__l.jpg"
+  loadingUrl="undefined" />
 
 Ich selbst habe in meinem Leben schon die ein oder andere Zeit gehabt, in der
 ich das Gefühl hatte, gegen Windmühlen zu schreiben, singen oder einfach nur zu
@@ -111,7 +123,13 @@ Perlenorring? Ihr könnt es nennen, wie Ihr wollt.
 
 ## Menschen - Ich denke nur mal wieder nach
 
-![Menschen](http://cardamonchai.com/wp-content/uploads/2017/06/2017-06-18-Stamp-Festival-37-640x853.jpg)
+<RemoteImage
+  alt="Menschen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-37__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-37__l.jpg"
+  loadingUrl="undefined" />
 
 Das hier soll jetzt auf gar keinen Fall eine Abrechnung mit meinen Freunden
 werden. Kein rotzfreches, lautes, schrilles "Beachte mich, ich bin auch toll".
@@ -132,7 +150,13 @@ kommentiere doch auch alle Bilder von seinen Hunden.
 
 ## Wir lesen nicht, was im digitalen Sozialnetz an uns vorbeischwimmt
 
-![Menschen](http://cardamonchai.com/wp-content/uploads/2017/06/2017-06-18-Stamp-Festival-39-640x480.jpg)
+<RemoteImage
+  alt="Menschen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-39__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-39__l.jpg"
+  loadingUrl="undefined" />
 
 Ich poste jeden einzelnen Artikel, den ich hier im Blog veröffentliche,
 feinsäuberlich in allen sozialen Netzwerken. Derzeit nutze ich sieben. Insgesamt
@@ -151,7 +175,13 @@ Kommentar unter dem Anriss im sozialen Netzwerk. Oder gar nicht.
 
 ## Likst Du mich, dann like ich Dich
 
-![Menschen](http://cardamonchai.com/wp-content/uploads/2017/06/2017-06-18-Stamp-Festival-34-640x480.jpg)
+<RemoteImage
+  alt="Menschen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-34__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-34__l.jpg"
+  loadingUrl="undefined" />
 
 Man möchte doch im Endeffekt auch gar nicht, dass man nur noch auf diese Weise
 interagiert: Likst Du mich, dann like ich Dich. Sprich, wenn Du mein Bild auf

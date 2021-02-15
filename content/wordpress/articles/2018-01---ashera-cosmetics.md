@@ -33,7 +33,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (29:8)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (35:8)"
 thumbnailId: "18799"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg
@@ -42,7 +42,7 @@ subTitle: Luxus ohne Tierversuche
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (29:8)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (35:8)
 
 <!--
 Werbung, Anzeige &amp; Affiliate Link\*
@@ -58,7 +58,13 @@ Wenn das nicht interessant klingt, oder?
 
 ## Die Produktanfrage
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/7-300x200.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__l.jpg"
+  loadingUrl="undefined" />
 
 Da für mich an erster Stelle immer steht, ob ein Produkt vegan und crueltyfree
 ist, startete ich als erstes eine Produktanfrage. Ich teilte Ashera Cosmetics
@@ -79,7 +85,13 @@ nach."</blockquote>
 
 ## Der Produkttest
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/1-300x199.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__l.jpg"
+  loadingUrl="undefined" />
 
 Nach nur zwei Tagen traf ein äußerst liebevoll verpacktes Päckchen aus dem Hause
 Ashéra bei mir ein. Nachdem das Unboxing der kleinen Schatzkiste für Euch
@@ -91,7 +103,13 @@ Zuerst habe ich den Reinigungsschaum genau unter die Lupe genommen. Für mich
 sind Produkte dieser Art immer sehr praktisch. Ich schminke mich seit Jahr und
 Tag mit Waschlappen ab, da ich dadurch viel Watte spare und weniger Müll mache.
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/2-300x199.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__l.jpg"
+  loadingUrl="undefined" />
 
 Mit dem Ashéra Reinigungsschaum geht das gut von der Hand. Auch hartnäckiges
 Augen-Make-up lässt sich leicht lösen, ohne dass die Haut ausgetrocknet wird.
@@ -112,7 +130,13 @@ die Creme eine klare Empfehlung.
 
 ## Ashéra - Das steckt dahinter
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/6-300x225.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg"
+  loadingUrl="undefined" />
 
 Die Rezepturen von Ashéra binden uraltes Wissen aus der
 [Traditionellen Chinesischen Medizin](/2014/11/auf-dem-weg-zur-tiefenentspannung/)
@@ -134,7 +158,13 @@ Nacht, sprich, die Zeit der Regeneration und Entspannung.
 
 ## 24-Stunden-Pflege
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/4-300x300.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__l.jpg"
+  loadingUrl="undefined" />
 
 Tagsüber wirken Ginseng, Rotwurzelsalbei und Tragantwurzel anregend. Die
 Zirkulation soll angeregt werden, die Haut dadurch gestraffter und vitaler
@@ -178,7 +208,13 @@ Hinweis: Die Aktion ist beendet.
 
 <hr />
 
-![Ashéra](http://cardamonchai.com/wp-content/uploads/2018/01/5-300x200.jpg)
+<RemoteImage
+  alt="Ashéra"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_5__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_5__l.jpg"
+  loadingUrl="undefined" />
 
 Unter allen Likes und Kommentaren hier und auf Facebook sowie Instagram verlose
 ich ein hochwertiges Set aus Gesichtspflege und Reinigungsschaum. Ich ziehe
@@ -188,7 +224,13 @@ Der/die Gewinner/in willigt ein, dass seine Daten von Ashéra Cosmetics einmalig
 zur Durchführung des Gewinnspiels verarbeitet werden.
 [Die Teilnahmebedingungen bei Verlosungen findet Ihr im Blog hier](/datenschutz/teilnahmebedingungen/).
 
-![](https://www.adcell.de/promotion/view/promoId/172497/slotId/80259)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/view/promoId/172497/slotId/80259"
+  loadingUrl="undefined" />
 
 Weitere Informationen zu den Produkten findet Ihr auf der
 [Homepage](https://www.adcell.de/promotion/click/promoId/172497/slotId/80259?param0=https%3A%2F%2Fwww.ashera-cosmetics.de%2Fshop%2F)

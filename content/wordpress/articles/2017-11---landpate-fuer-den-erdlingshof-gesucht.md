@@ -55,12 +55,24 @@ immer seinen Besitzer wechseln kann. Es zählt also jeder Cent.
 mithilfe eines Puzzles dargestellt. Jedes Puzzleteil steht für 4.000 gespendete
 Euro.
 
-![Erdlingshof | large](http://cardamonchai.com/wp-content/uploads/2017/11/Puzzle_8Teile-768x768-520x520.jpg)
+<RemoteImage
+  alt="Erdlingshof"
+  size="large"
+  title=""
+  mediumUrl="http://cardamonchai.com/wp-content/uploads/2017/11/Puzzle_8Teile-768x768-520x520.jpg"
+  largeUrl="http://cardamonchai.com/wp-content/uploads/2017/11/Puzzle_8Teile-768x768-520x520.jpg"
+  loadingUrl="undefined" />
 
 Jeder Spender erhält eine individuelle Spender-Urkunde sowie je nach Höhe des
 gespendeten Betrags ein Dankeschön:
 
-![Erdlingshof | large](http://cardamonchai.com/wp-content/uploads/2017/11/Dankeschoenbox_Landpate-520x271.png)
+<RemoteImage
+  alt="Erdlingshof"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Dankeschoenbox_Landpate.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Dankeschoenbox_Landpate.png__l.jpg"
+  loadingUrl="undefined" />
 
 Wer mehr erfahren möchte oder sich soeben spontan entschieden hat, Landpate für
 den Erdlingshof zu werden:

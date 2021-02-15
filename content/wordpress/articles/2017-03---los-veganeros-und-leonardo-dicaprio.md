@@ -46,7 +46,13 @@ subTitle: Das neue Welt Vegan Magazin ist da!
   
 ---
 
-![Los Veganeros](http://cardamonchai.com/wp-content/uploads/2017/03/33072363362_5d21a8c88a_z-640x427.jpg)
+<RemoteImage
+  alt="Los Veganeros"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072363362_5d21a8c88a_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Der Frühling ist endlich da. Und bald auch der zweite Teil von  _Los
 Veganeros._  Wir haben deshalb in der neuen Ausgabe ein exklusives Interview mit
@@ -58,7 +64,13 @@ und wir durften dabei viele tolle Menschen kennenlernen. Ein ganz besonderes
 Highlight ist für mich das umfangreiche Yoga-Special ab Seite 90. Ihr findet
 darin ein paar tolle Übungen, die ihr ganz leicht zu Hause nachmachen könnt.
 
-![Los Veganeros](http://cardamonchai.com/wp-content/uploads/2017/03/33100602271_24708fe69b_z-640x427.jpg)
+<RemoteImage
+  alt="Los Veganeros"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33100602271_24708fe69b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33100602271_24708fe69b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Der zweite Vorsitzende von  _PETA_ , Harald Ullmann hat uns einiges über sein
 Leben als Tierschutzaktivist und die Arbeit des weltweit aktiven
@@ -69,7 +81,13 @@ Tierschutzvereins verraten.
 Ab Seite 118 dreht sich alles um den veganen Hotspot Israel. Das immer beliebter
 werdende Reiseziel hat nicht nur kulinarisch einiges zu bieten. Seid gespannt!
 
-![Los Veganeros](http://cardamonchai.com/wp-content/uploads/2017/03/33072366172_a79af19fff_z-640x427.jpg)
+<RemoteImage
+  alt="Los Veganeros"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072366172_a79af19fff_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33072366172_a79af19fff_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ab Seite 12 verrät die Tennismeisterin und Physiotherapeutin Petra Winzmöller
 ihre Gesundheitstipps und Seite 58 bis Seite 77 haben wir jede Menge traumhafte,
@@ -81,7 +99,13 @@ Und wenn Ihr damit fertig seid, schaut Ihr Euch am besten gleich  _Los Veganero
 
 Eure stolze Textchefin Anne &lt;3
 
-![Los Veganeros | full](http://cardamonchai.com/wp-content/uploads/2017/03/33228877995_c1f0eac3cf_z.jpg)
+<RemoteImage
+  alt="Los Veganeros"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33228877995_c1f0eac3cf_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Wegweiser Welt Vegan Magazin
 

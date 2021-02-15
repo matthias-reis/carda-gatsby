@@ -133,7 +133,13 @@ weich geworden und nicht mehr so staubig, wie damals. Flöhe habe ich auch schon
 lange keine mehr. Und auch keine Bauchschmerzen. Ich bin dankbar für diesen
 Platz. Keiner kann ihn mir mehr wegnehmen.
 
-![Kater | full](http://cardamonchai.com/wp-content/uploads/2017/10/Gran-Canaria-514.jpg)
+<RemoteImage
+  alt="Kater"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_Gran-Canaria-514__l.jpg"
+  loadingUrl="undefined" />
 
 Manchmal gehe ich runter an die Strandpromenade. Wenn ich dort ein paar junge
 Kätzchen sehe, dann lade ich sie zum Mitessen ein. Der Koch scheint nichts

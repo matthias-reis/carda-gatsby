@@ -43,7 +43,13 @@ subTitle: Vegan, nachhaltig und frei von Kunststoff
 Stengel. Der findige Architekt Gianpiero Tessitore entdeckte jetzt, wie man
 daraus qualfreies Leder herstellen kann.**
 
-![Weinleder](http://cardamonchai.com/wp-content/uploads/2018/03/37237414856_f2a4da3fb6_z-400x300.jpg)
+<RemoteImage
+  alt="Weinleder"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_37237414856_f2a4da3fb6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_37237414856_f2a4da3fb6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Gemeinsam mit verschiedenen Forschungszentren in Italien und der Universität
 Florenz arbeitete er seit 2014 an seiner Entwicklung. Im Juni 2016 war es dann
@@ -58,7 +64,13 @@ Jahres werden rund 26 Milliarden Liter Wein produziert. Dabei entstehen ungefäh
 sechs Millionen Tonnen Treber. Gianpiero das Material also vermutlich nie
 ausgehen.
 
-![Weinleder](http://cardamonchai.com/wp-content/uploads/2018/03/14345186264_d5078fb7d6_z-400x600.jpg)
+<RemoteImage
+  alt="Weinleder"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14345186264_d5078fb7d6_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_14345186264_d5078fb7d6_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Umwelt freut sich. Beim Gerben und Weiterverarbeiten herkömmlichen Leders
 kommen Säuren und Schwermetalle zum Einsatz. Bei Weinleder ist das nicht nötig.

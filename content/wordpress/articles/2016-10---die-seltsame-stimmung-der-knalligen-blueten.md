@@ -27,7 +27,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:35)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:35)"
 thumbnailId: "15259"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__l.jpg
@@ -36,10 +36,16 @@ subTitle: Gedicht zum Herbst
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (22:35)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (28:35)
 
 <!--
-![30022683975_57e0e21cf7_z](http://cardamonchai.com/wp-content/uploads/2016/10/30022683975_57e0e21cf7_z-640x427.jpg)
+<RemoteImage
+  alt="30022683975_57e0e21cf7_z"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_10_30022683975_57e0e21cf7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_10_30022683975_57e0e21cf7_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Einige von Euch können sich bestimmt noch an meine
 [Flarf-Gedichte](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/)

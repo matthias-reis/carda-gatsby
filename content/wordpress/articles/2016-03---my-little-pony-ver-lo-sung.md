@@ -26,7 +26,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (43:31)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (55:31)"
 thumbnailId: "13977"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__l.jpg
@@ -35,13 +35,19 @@ subTitle: Die Ge­win­ner stehen fest!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (43:31)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (55:31)
 
 <!--
 **Freitag ist ein schöner Tag! Und weil das so ist, habe ich heute was wirklich
 Schönes für Euch!**
 
-![Little Pony](http://cardamonchai.com/wp-content/uploads/2016/03/24988699312_08b4c7bf9e_z-640x427.jpg "My Little Pony aus meiner Herde")
+<RemoteImage
+  alt="Little Pony"
+  size="medium"
+  title="My Little Pony aus meiner Herde"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_24988699312_08b4c7bf9e_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_24988699312_08b4c7bf9e_z__l.jpg"
+  loadingUrl="undefined" />
 
 Die Gewinner meiner My Little Pony Verlosung stehen fest! Vielen Dank, an alle,
 die teilgenommen haben! Alle Gewinner/innen wurden per E-Mail benachrichtigt,
@@ -56,7 +62,13 @@ sobald ich Eure Post-Adressen habe, gehen die bunten Pferdchen Euch raus.
 - Falko
 - Andrea
 
-![Little Pony](http://cardamonchai.com/wp-content/uploads/2016/03/25106861825_c9218b0139_z-640x427.jpg "Schon bald in einem neuen Zuhause")
+<RemoteImage
+  alt="Little Pony"
+  size="medium"
+  title="Schon bald in einem neuen Zuhause"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25106861825_c9218b0139_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25106861825_c9218b0139_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ein fröhliches Wiehern in die Runde und eine Runde buntes Glitzerkonfetti für
 alle! Habt ein schönes Wochenende und bleibt mir treu, ich würde mich wirklich

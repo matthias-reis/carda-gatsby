@@ -28,6 +28,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
+  invalidMdx: "unknown: Unexpected token (80:51)"
 thumbnailId: "13248"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_Mehr-als-die-Summe-der-Teile-Sissi-Amaurette__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_Mehr-als-die-Summe-der-Teile-Sissi-Amaurette__l.jpg
@@ -36,6 +37,9 @@ subTitle: Die neue Ausstellung von Denise Slapansky
   
 ---
 
+## unknown: Unexpected token (80:51)
+
+<!--
 Vom 8. bis zum 14. November stellte Denise in den Räumlichkeiten der Augsburger
 IT-Firma Harle ihre aktuellsten Werke aus. Unter dem Motto "Tierisch
 hintergründig" zeigte sie insgesamt 26 Exponate, die sich teilweise bereits in
@@ -50,7 +54,13 @@ plant Denise weitere Ausstellungen.
 
 ## Spenden gingen an Lebenshöfe
 
-![Der Gästebuch Eintrag](http://cardamonchai.com/wp-content/uploads/2015/11/Gästebuch-Eintrag-640x480.jpg "Der Gästebuch Eintrag")
+<RemoteImage
+  alt="Der Gästebuch Eintrag"
+  size="medium"
+  title="Der Gästebuch Eintrag"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_G%C3%A4stebuch-Eintrag__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_G%C3%A4stebuch-Eintrag__l.jpg"
+  loadingUrl="undefined" />
 
 Einige ihrer Bilder wurden gespendet, der Erlös ging an verschiedene Lebenshöfe.
 Den schönsten Eintrag ins Gästebuch der Ausstellung ließ mir Denise zukommen und
@@ -71,7 +81,13 @@ Hilflosigkeit besonders zu schaffen machten, habe ich ihnen und mir versprochen,
 meine gesamte Kreativität in den Dienst ihrer Sache zu stellen. Sie in ihrer
 Schönheit und Würde zu zeigen, aber auch in ihrem Leid."
 
-![Foto: Martina Brobst](http://cardamonchai.com/wp-content/uploads/2015/11/Martina-Brobst-36-640x427.jpg "Foto: Martina Brobst")
+<RemoteImage
+  alt="Foto: Martina Brobst"
+  size="medium"
+  title="Foto: Martina Brobst"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Martina-Brobst-36__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Martina-Brobst-36__l.jpg"
+  loadingUrl="undefined" />
 
 Von diesem Zeitpunkt an, widmete sich ihre Malerei ausschließlich den
 "Nutztieren". Sie möchte, dass ihre Bilder als Einladung verstanden werden, sich
@@ -93,7 +109,13 @@ liebkost wird. "Auch wenn er nicht ihr eigener Sohn ist, für sie ist es ihr
 Kleiner, sie darf sich endlich um jemanden kümmern und wird geliebt.", so die
 Künstlerin.
 
-![Milchwaisen im Schüttelglas (Foto: Martina Brobst)](http://cardamonchai.com/wp-content/uploads/2015/11/Martina-Brobst-7-640x427.jpg "Milchwaisen im Schüttelglas (Foto: Martina Brobst)")
+<RemoteImage
+  alt="Milchwaisen im Schüttelglas (Foto: Martina Brobst)"
+  size="medium"
+  title="Milchwaisen im Schüttelglas (Foto: Martina Brobst)"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Martina-Brobst-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Martina-Brobst-7__l.jpg"
+  loadingUrl="undefined" />
 
 Das größte Bild der Ausstellung trägt den Titel "Milchwaisen im Schüttelglas".
 Dargestellt werden die Tiere, die für die Milchindustrie am schlimmsten leiden
@@ -104,7 +126,11 @@ Dunklen."
 
 ## 60 Millionen Schweine werden in Deutschland jedes Jahr geschlachtet
 
-!["Milka" (Foto: Thomas Zinnecker)"Milka" (Foto: Thomas Zinnecker) | full](http://cardamonchai.com/wp-content/uploads/2015/11/Thomas-Zinnecker-15.jpg '"Milka" (Foto: Thomas Zinnecker)')
+<RemoteImage alt="&quot;Milka&quot; (Foto: Thomas Zinnecker)&quot;Milka&quot;
+(Foto: Thomas Zinnecker)" size="full" title=""Milka" (Foto: Thomas Zinnecker)"
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Thomas-Zinnecker-15__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Thomas-Zinnecker-15__l.jpg"
+loadingUrl="undefined" />
 
 Im Werk "Milka" geht es um die Problematik des Leistungszwangs. Der Blick der
 Kuh ist leer. Sie hat viele Kinder geboren, jedes Jahre eines, alle wurden sie
@@ -117,7 +143,13 @@ Schweine werden in Deutschland jedes Jahr geschlachtet. 99% von ihnen leben in
 Massentierhaltung. Sie sehen das erste Mal Licht, wenn sie auf den
 Schlachttransporter verladen werden. Daran möchte Denise damit erinnern.
 
-![Mehr als die Summe der Teile (Foto: Sissi Amaurette)](http://cardamonchai.com/wp-content/uploads/2015/11/Mehr-als-die-Summe-der-Teile-Sissi-Amaurette-640x460.jpg "Mehr als die Summe der Teile (Foto: Sissi Amaurette)")
+<RemoteImage
+  alt="Mehr als die Summe der Teile (Foto: Sissi Amaurette)"
+  size="medium"
+  title="Mehr als die Summe der Teile (Foto: Sissi Amaurette)"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Mehr-als-die-Summe-der-Teile-Sissi-Amaurette__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_Mehr-als-die-Summe-der-Teile-Sissi-Amaurette__l.jpg"
+  loadingUrl="undefined" />
 
 Ein Bild, das Denise besonders am Herzen liegt ist das Werk "Mehr als die Summe
 der Teile". Die Interpretation stammt von ihr selbst:
@@ -160,5 +192,7 @@ ids="13324,13323,13322,13321,13320,13314,13311,13310,13306,13305,13303,13302,132
 
 Alles über Wolle und warum sie nicht vegan ist,
 [erfahrt Ihr hier](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/).
+
+-->
 
   

@@ -57,7 +57,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:11)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (56:11)"
 thumbnailId: "5020"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__l.jpg
@@ -66,7 +66,7 @@ subTitle: Von Warteschleifen und Wutanfällen
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (44:11)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (56:11)
 
 <!--
 Erstmal zu meiner Verteidigung: Ich weiß, ich mache Euch verrückt, aber das tun
@@ -75,7 +75,13 @@ versucht, wieder zu Congstar zu wechseln (Deshalb hatte ich Euch ja vor Kurzem
 auch geschrieben, dass ich wieder unter meiner alten Nummer 01xxxxxxxxx zu
 erreichen bin.), was die allerdings mit aller Macht zu verhindern wussten.
 
-![Sendemast](http://cardamonchai.com/wp-content/uploads/2012/08/einlieferungsbeleg-640x427.jpg "Beweisfoto")
+<RemoteImage
+  alt="Sendemast"
+  size="medium"
+  title="Beweisfoto"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_einlieferungsbeleg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_einlieferungsbeleg__l.jpg"
+  loadingUrl="undefined" />
 
 Leider wurden meine geänderten Kontodaten bei Congstar nicht ins System
 übertragen. Das Guthaben, welches ich auf meine Karte geladen hatte, wurde
@@ -92,7 +98,13 @@ allerdings kamen sie niemals bei mir an, da sich anscheinend weder 1&amp;1 noch
 Congstar für die Übertragung der für mich bestimmten Kurznachrichten
 verantwortlich fühlte.
 
-![](https://s-static.ak.facebook.com/images/blank.gif)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="https://s-static.ak.facebook.com/images/blank.gif"
+  largeUrl="https://s-static.ak.facebook.com/images/blank.gif"
+  loadingUrl="undefined" />
 
 Ich bin also bis auf Weiteres wieder unter der 01xxxxxxxxxx erreichbar, da mich
 1&amp;1 (sicherlich aus Gründen) auch nach 3maliger Kündigung plus

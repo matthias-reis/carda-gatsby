@@ -61,7 +61,13 @@ entstanden, die ich auch nach meinem Umdenken nicht löschen werde.
 
 ## Enge Zoos sind kein Ort für Giraffen
 
-![Zoos sind nicht der richtige Ort für Giraffen](http://cardamonchai.com/wp-content/uploads/2013/03/img_3952-640x510.jpg "Zoos sind nicht der richtige Ort für Giraffen")
+<RemoteImage
+  alt="Zoos sind nicht der richtige Ort für Giraffen"
+  size="medium"
+  title="Zoos sind nicht der richtige Ort für Giraffen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3952__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3952__l.jpg"
+  loadingUrl="undefined" />
 
 Dass enge **Zoos** nicht der richtige Ort für Tiere wie Braunbären, Giraffen und
 Löwen sind? Klar, ein mulmiges Gefühl hatte ich schon immer dabei, wenn ich den
@@ -94,7 +100,13 @@ Leben eingehen. Hierzu gibt es diverse Berichte, ich denke, Beispiele müssen
 keine genannt werden, mir geht es nicht darum, blutige Schlagzeilen
 aufzugreifen, sondern darum, meine Überlegungen zum Ausdruck zu bringen.
 
-![IMG_3909](http://cardamonchai.com/wp-content/uploads/2013/03/img_3909-640x791.jpg)
+<RemoteImage
+  alt="IMG_3909"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3909__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3909__l.jpg"
+  loadingUrl="undefined" />
 
 Klar, vor Ort ist häufig der Lebensraum der aussterbenden Arten bereits stark
 bedroht, weshalb das Beispiel sicher nicht auf jede Art passt. Dennoch denke

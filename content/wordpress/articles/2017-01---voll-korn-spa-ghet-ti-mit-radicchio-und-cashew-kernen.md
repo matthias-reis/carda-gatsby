@@ -84,6 +84,12 @@ alles gut durch. Abschmecken, Spaghetti abgießen und servieren.
 
 _Guten Appetit!_
 
-![Vollkornspaghetti | large](http://cardamonchai.com/wp-content/uploads/2017/01/31663435394_114a796024_b-800x800.jpg)
+<RemoteImage
+  alt="Vollkornspaghetti"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_31663435394_114a796024_b__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_31663435394_114a796024_b__l.jpg"
+  loadingUrl="undefined" />
 
   

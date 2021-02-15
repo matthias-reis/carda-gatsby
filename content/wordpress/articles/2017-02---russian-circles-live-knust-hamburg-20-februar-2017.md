@@ -43,7 +43,13 @@ Punk-Schuppen war sehr gemischt, was den Abend besonders interessant machte.
 
 ## Ein genialer Abend trotz unterirdischer Vorband
 
-![Russian Circles](http://cardamonchai.com/wp-content/uploads/2017/02/33033221775_fbbf17d9c7_z.jpg)
+<RemoteImage
+  alt="Russian Circles"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_33033221775_fbbf17d9c7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_33033221775_fbbf17d9c7_z__l.jpg"
+  loadingUrl="undefined" />
 
 Cloakroom, die als Opener spielten, das muss ich an dieser Stelle leider sagen,
 sind  für mich die schlechteste Band, die ich jemals live gesehen habe. Sorry,
@@ -67,7 +73,13 @@ Fremdschäm-Applaus, war es endlich soweit und Brian Cook (Bass), Dave Turncrant
 
 ## Russian Circles spielten mal wieder alle an die Wand
 
-![Russian Circles](http://cardamonchai.com/wp-content/uploads/2017/02/32877461962_1cd8da421f_z.jpg)
+<RemoteImage
+  alt="Russian Circles"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32877461962_1cd8da421f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32877461962_1cd8da421f_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wie wir es von Ihnen gewohnt sind und nicht anders erwartet hatten, spielten sie
 mal wieder alles vorher dagewesene an die Wand und schossen das Publikum mit

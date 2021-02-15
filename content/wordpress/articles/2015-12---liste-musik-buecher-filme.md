@@ -48,7 +48,13 @@ Wie Einige beim Lesen meines Blogs sicher schon mitbekommen haben, verstehe ich,
 was das betrifft, keinen Spaß. Das ist eben keine Geschmacksache, sondern eine
 ziemlich ernste Angelegenheit.
 
-![Chico - Lieblingsschallplattenladen-Maskottchen](http://cardamonchai.com/wp-content/uploads/2013/11/chico-640x383.jpg "Chico - Lieblingsschallplattenladen-Maskottchen")
+<RemoteImage
+  alt="Chico - Lieblingsschallplattenladen-Maskottchen"
+  size="medium"
+  title="Chico - Lieblingsschallplattenladen-Maskottchen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_chico__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_chico__l.jpg"
+  loadingUrl="undefined" />
 
 Als ich vor ein paar Tagen die "Über mich-Seite" ein bisschen modernisiert und
 aktualisiert habe, flog die Liste raus, weil ich dort einfach keine Verwendung
@@ -62,7 +68,13 @@ vollständig, es fehlt sogar eine ganze Menge, denke ich. Mir dient sie selbst
 auch ein bisschen dazu, mich ab und zu an das ein oder andere geniale Werk zu
 erinnern und es in unregelmäßigen Abständen mal wieder zu genießen.
 
-![Deftones](http://cardamonchai.com/wp-content/uploads/2013/08/p3230071-640x881.jpg "Deftones")
+<RemoteImage
+  alt="Deftones"
+  size="medium"
+  title="Deftones"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_08_p3230071__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_08_p3230071__l.jpg"
+  loadingUrl="undefined" />
 
 ## Zeigt mir Eure Musik!
 
@@ -157,7 +169,13 @@ LUKE TEMPLE, LOST IN THE TREES, LA DISPUTE, THE LIBERTINES, LITTLE MAN TATE,
 LAGWAGON, THE LEISURE SOCIETY, LP2, LONG DISTANCE CALLING, THE LUMINEERS, LEYLA
 MCCALLA, LAMB, THE LAST SHADOW PUPPETS, LOU REED,
 
-![Boysetsfire - While A Nation Sleeps](http://cardamonchai.com/wp-content/uploads/2015/12/9464863952_3ba5243c05_o.jpg "Boysetsfire - While A Nation Sleeps")
+<RemoteImage
+  alt="Boysetsfire - While A Nation Sleeps"
+  size="medium"
+  title="Boysetsfire - While A Nation Sleeps"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464863952_3ba5243c05_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464863952_3ba5243c05_o__l.jpg"
+  loadingUrl="undefined" />
 
 [Muse](/tag/muse/),
 [Mark Lanegan](/2015/03/mark-lanegan-live-freiheiz-muenchen/), Midas Fall,
@@ -201,7 +219,13 @@ Yeas, Zwan, ...
 
 ## Bücher - Einige meiner liebsten Autoren und Romane
 
-![Music From Big Pink von John Niven](http://cardamonchai.com/wp-content/uploads/2015/12/9464850894_e67538f729_o.jpg "Music From Big Pink von John Niven")
+<RemoteImage
+  alt="Music From Big Pink von John Niven"
+  size="medium"
+  title="Music From Big Pink von John Niven"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464850894_e67538f729_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464850894_e67538f729_o__l.jpg"
+  loadingUrl="undefined" />
 
 (in no particular order) Antoine De Saint-Exupery, Truman Capote, John Niven,
 Jean Paul Sartre, Oscar Wilde, Ernest Hemingway, Franz Kafka, Günter Grass,
@@ -227,7 +251,13 @@ DIE PILGERJAHRE DES FARBLOSEN HERNN TAZAKI, ...
 
 ## Filme - Einige meiner liebsten Filmemacher und deren Werke
 
-![Memento](http://cardamonchai.com/wp-content/uploads/2015/12/9464650558_98241c96c7_o.jpg "Memento")
+<RemoteImage
+  alt="Memento"
+  size="medium"
+  title="Memento"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464650558_98241c96c7_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464650558_98241c96c7_o__l.jpg"
+  loadingUrl="undefined" />
 
 (in no particular order) JIM JARMUSCH, COEN BROTHERS, FATIH AKIN, PEDRO
 ALMODOVAR, WOODY ALLEN, TIM BURTON, DAVID LYNCH, ALFRED HITCHCOCK, ...

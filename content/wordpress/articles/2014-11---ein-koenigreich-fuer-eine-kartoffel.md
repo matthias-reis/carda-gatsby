@@ -44,7 +44,13 @@ subTitle: Auflauf mit Pastinaken und Kartoffeln
   
 ---
 
-![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-12-640x800.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Auflauf mit Pastinaken und Kartoffeln")
+<RemoteImage
+  alt="Kartoffel"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Auflauf mit Pastinaken und Kartoffeln"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-12__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-12__l.jpg"
+  loadingUrl="undefined" />
 
 **Wie schon [berichtet](/2014/11/19/and-the-nominees-are/), geht für mich zur
 Zeit nichts über einen leckeren Kartoffelauflauf. Deshalb kommt der auch in den
@@ -80,7 +86,13 @@ gut für 2 Personen, eine Person hat am nächsten Tag noch ein schönes Mittages
 - Meersalz
 - Speiseöl## Zubereitung
 
-![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-3-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Frische Zutaten")
+<RemoteImage
+  alt="Kartoffel"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Frische Zutaten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-3__l.jpg"
+  loadingUrl="undefined" />
 
 Die Kartoffeln und die Pastinaken waschen und mit Schale in dünne Scheiben
 schneiden. Die Scheiben fächerartig immer abwechselnd Pastinaken- und
@@ -91,7 +103,13 @@ Die halbe Zitrone über dem Gemüse ausdrücken und im Anschluss gut drei Esslö
 Speiseöl dazugeben. Die Tomaten in Scheiben schneiden und über der ersten Lage
 verteilen.
 
-![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Das Gemüse fächerförmig schichten")
+<RemoteImage
+  alt="Kartoffel"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Das Gemüse fächerförmig schichten"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf__l.jpg"
+  loadingUrl="undefined" />
 
 Hefeflocken, Nüsse, Hafermilch, 1 Teelöffel Meersalz, 2 Esslöffel Speiseöl,
 Pfeffer und Chili in den Smoothiemaker geben (Ich benutze den immer für Saucen,
@@ -103,7 +121,13 @@ glatte Masse entstanden ist.
 Den selbstgemachten "Gratinierkäse" gleichmäßig über dem Auflauf verteilen und
 diesen für gute 45 Minuten bei 190° C im Ofen garen.
 
-![Kartoffel](http://cardamonchai.com/wp-content/uploads/2014/11/kartoffel-pastinaken-auflauf-14-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/sets)  Fertig ist der Kartoffel-Pastinaken-Auflauf")
+<RemoteImage
+  alt="Kartoffel"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Fertig ist der Kartoffel-Pastinaken-Auflauf"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-14__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_kartoffel-pastinaken-auflauf-14__l.jpg"
+  loadingUrl="undefined" />
 
 Fertig ist ein winterliches Gericht mit vielen leckeren Zutaten, gesunden
 Nährstoffen und vielen Vitaminen. Dazu passt sehr gut ein schönes Glas

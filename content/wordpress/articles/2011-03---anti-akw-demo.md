@@ -100,7 +100,13 @@ verstrahlt. Experten rechnen damit, dass sie schon bald mit dem Stahlentod
 rechnen müssen. Andere wurden mit Verbrennungen in eine Spezialklinik
 eingeliefert.
 
-![OLYMPUS DIGITAL CAMERA](http://cardamonchai.com/wp-content/uploads/2011/03/p7270040-640x480.jpg)
+<RemoteImage
+  alt="OLYMPUS DIGITAL CAMERA"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__l.jpg"
+  loadingUrl="undefined" />
 
 [](/wp-content/uploads/2011/03/p7270040.jpg) ## Es ist mit dem Schlimmsten zu
 rechnen

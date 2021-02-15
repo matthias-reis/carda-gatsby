@@ -58,7 +58,13 @@ Plastik-Schnullis in den 90ern und die Bubble Tea Läden vor ein paar Jahren.
 
 ## Self Made Menschen, Ruhm und Geld
 
-![Jubiläum](http://cardamonchai.com/wp-content/uploads/2018/03/40177327564_3ccc4b1aa8_z-400x600.jpg)
+<RemoteImage
+  alt="Jubiläum"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40177327564_3ccc4b1aa8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40177327564_3ccc4b1aa8_z__l.jpg"
+  loadingUrl="undefined" />
 
 So sehr ich diesen Self Made Menschen und "Entrepreneurs", wie sie sich gerne
 selbst nennen, ihren Ruhm und ihr Geld, gönne: Das war es nicht, worauf es
@@ -115,7 +121,13 @@ und schon kann man auf einer stylischen Page losbloggen.
 
 ## Von der Tagwolke zum modernen Blog
 
-![Jubiläum](http://cardamonchai.com/wp-content/uploads/2018/03/39075612200_8d3ee67247_z-400x600.jpg)
+<RemoteImage
+  alt="Jubiläum"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39075612200_8d3ee67247_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39075612200_8d3ee67247_z__l.jpg"
+  loadingUrl="undefined" />
 
 Früher bedeutete es echte Frickelei, wenn man einen Blog starten wollte. Man
 probierte rum, machte Fehler, probierte sich aus, testete Funktionen aus und

@@ -68,7 +68,13 @@ klarer Trend ab: Während sich die Zahl der vegetarischen Markteinführungen
 konstant hält, hat sich die der veganen innerhalb der letzten fünf Jahre mit 175
 Prozent weltweit mehr als verdoppelt.
 
-![Produkteinführungen | large](http://cardamonchai.com/wp-content/uploads/2018/07/mintel-520x339.jpg)
+<RemoteImage
+  alt="Produkteinführungen"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_mintel__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_mintel__l.jpg"
+  loadingUrl="undefined" />
 
 ## Rasantes Wachstum veganer Produkte
 

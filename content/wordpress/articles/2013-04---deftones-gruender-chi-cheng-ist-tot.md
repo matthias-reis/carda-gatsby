@@ -41,7 +41,13 @@ Autounfall in Santa Clara, bei dem er aus dem Fahrzeug geschleudert wurde. Seit
 diesem schlimmen Tag befand er sich im Wachkoma und erholte sich leider nie
 wieder richtig.
 
-![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg "[ ](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg)  Chi Cheng")
+<RemoteImage
+  alt="Chi Cheng"
+  size="full"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg)  Chi Cheng"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/220px-chi_cheng.jpg"
+  loadingUrl="undefined" />
 
 Vor einem Jahr verbreitete sich die Nachricht, es würde ihm wieder etwas besser
 gehen, was leider nicht für lange Zeit anhielt. Chi Cheng wurde als genialer
@@ -97,7 +103,13 @@ Delusion', Far-Frontman Jonah Matranga schrieb den Titelsong des 2010
 veröffentlichten Albums ‚At Night We live‘ über einen Traum, den er hatte, kurz,
 nachdem er Chi im Krankenhaus besucht hatte.
 
-![Chi Cheng | full](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg "[ ](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg)  Chi Cheng")
+<RemoteImage
+  alt="Chi Cheng"
+  size="full"
+  title="[ ](http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg)  Chi Cheng"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2013/04/chi-cheng.jpg"
+  loadingUrl="undefined" />
 
 #### **Deftones - Minerva**
 

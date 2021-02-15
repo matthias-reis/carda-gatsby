@@ -33,7 +33,13 @@ subTitle: Artikel "Animal Rights Watch" aus meiner Feder
   
 ---
 
-![Welt Vegan Magazin 2/2016](http://cardamonchai.com/wp-content/uploads/2016/08/28591726992_c4a8c4ca23_z.jpg "Liest sich auf dem Balkon besonders gut")
+<RemoteImage
+  alt="Welt Vegan Magazin 2/2016"
+  size="medium"
+  title="Liest sich auf dem Balkon besonders gut"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28591726992_c4a8c4ca23_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28591726992_c4a8c4ca23_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Schon seit EWIGKEITEN steht die zweite Ausgabe dieses Jahres zum Verkauf in
 den Regalen. Vielerorts dürfte sie sogar schon AUSVERKAUFT sein.**
@@ -50,7 +56,13 @@ Chile, Thailand und Costa Rica über einen Artikel zur
 Special "Beachwear und Sonnenschutz" - Es ist einfach für jeden Geschmack etwas
 geboten.
 
-![Welt Vegan Magazin 2/2016](http://cardamonchai.com/wp-content/uploads/2016/08/28620050181_611a171ebd_z-640x427.jpg "Dem Tierleid ein Ende")
+<RemoteImage
+  alt="Welt Vegan Magazin 2/2016"
+  size="medium"
+  title="Dem Tierleid ein Ende"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28620050181_611a171ebd_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28620050181_611a171ebd_z__l.jpg"
+  loadingUrl="undefined" />
 
 Meinen Artikel "Dem Tierleid ein Ende - Animal Rights Watch e. V." findet Ihr
 auf Seite 82. Darin erfahrt Ihr einfach alles über den besonderen Verein, der
@@ -63,7 +75,13 @@ Magazin 2/2016 heute erst holt, müsst Ihr nicht mehr so lange auf die neue
 Ausgabe warten! Die erscheint nämlich schon ganz bald! Ich gebe Euch dann auch
 früher Bescheid, versprochen! :-)
 
-![Welt Vegan Magazin 2/2016 | full](http://cardamonchai.com/wp-content/uploads/2016/08/28081988863_e64e933eab_z.jpg "Mein Artikel dreht sich um ARIWA")
+<RemoteImage
+  alt="Welt Vegan Magazin 2/2016"
+  size="full"
+  title="Mein Artikel dreht sich um ARIWA"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28081988863_e64e933eab_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28081988863_e64e933eab_z__l.jpg"
+  loadingUrl="undefined" />
 
 ## Wegweiser Welt Vegan Magazin
 

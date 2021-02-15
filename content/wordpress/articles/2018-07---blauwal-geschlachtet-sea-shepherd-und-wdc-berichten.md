@@ -44,7 +44,13 @@ Hvalur hv mit ihrem 22. Saisonfang in Hvalfjörður ein Exemplar an Land.
 
 ## Blauwale sind stark bedroht
 
-![Blauwal](http://cardamonchai.com/wp-content/uploads/2018/07/ocean-2051760_640-400x266.jpg)
+<RemoteImage
+  alt="Blauwal"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_ocean-2051760_640__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_ocean-2051760_640__l.jpg"
+  loadingUrl="undefined" />
 
 Experten bestätigten kurze Zeit später, dass es sich bei dem Tier um einen
 Blauwal oder Blauwal/Finnwal-Hybriden handelt. Weibliche Blauwale können bis zu

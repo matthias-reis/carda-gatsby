@@ -117,7 +117,13 @@ ihren in Zirkussen und Zoos.
 
 ## Tiere haben Emotionen
 
-![das-gefuehlsleben-der-tiere](http://cardamonchai.com/wp-content/uploads/2019/02/2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-400x300.jpg)
+<RemoteImage
+  alt="das-gefuehlsleben-der-tiere"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e)
 Er erforscht seit mehr als 30 Jahren das Gefühlsleben der Tiere. Dies tut er aus
@@ -203,7 +209,13 @@ ihre Sympathie und **Empathie** geben uns Kraft.
 
 ## Freundschaften zwischen verschiedenen Spezies
 
-![Marc Bekoff - Foto: Marc Bekoff Autorenseite Amazon | full](http://cardamonchai.com/wp-content/uploads/2019/02/marc-bekoff.jpg)
+<RemoteImage
+  alt="Marc Bekoff - Foto: Marc Bekoff Autorenseite Amazon"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_marc-bekoff__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_marc-bekoff__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e)
 Und Tiere gehen laut seiner Forschungen nicht nur Beziehungen zu Menschen ein.
@@ -267,7 +279,13 @@ man ihm die 10.000-fach tödliche Dosis des HI-Virus. Er erholte sich wie durch
 ein Wunder von Hepatitis und HIP und starb an einer Infektion, die sich durch
 die jahrelange Folter mit Pfeilen, Spritzen und Nadeln gebildet hatte.
 
-![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=DE&ASIN=3936188424&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=cardamonchai-21)
+<RemoteImage
+  alt=""
+  size="medium"
+  title=""
+  mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3936188424&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=cardamonchai-21"
+  largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3936188424&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=cardamonchai-21"
+  loadingUrl="undefined" />
 
 ## Das Gefühlsleben der Tiere - Marc Bekoff sagt seine Meinung [](https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e)
 

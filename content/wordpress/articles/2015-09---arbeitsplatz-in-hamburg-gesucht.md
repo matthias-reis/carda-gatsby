@@ -35,7 +35,13 @@ subTitle: Content Managerin / Online Redakteurin / Texterin - ab sofort
   
 ---
 
-![Arbeit gesucht](http://cardamonchai.com/wp-content/uploads/2015/09/Bewerbung-3-2-640x435.jpg "Arbeit gesucht")
+<RemoteImage
+  alt="Arbeit gesucht"
+  size="medium"
+  title="Arbeit gesucht"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-3-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-3-2__l.jpg"
+  loadingUrl="undefined" />
 
 **Heute wende ich mich mal in eigener Sache an Euch. Bereits seit längerer Zeit
 bin ich auf der Suche nach einem Job. Genauer gesagt: Einer Festanstellung als
@@ -86,7 +92,13 @@ beruflich der Lebensmittelpunkt sein muss. Das Schreiben.
 
 ## Mir war es immer wichtig, einen Arbeitsplatz zu haben
 
-![Bewerbungen](http://cardamonchai.com/wp-content/uploads/2015/09/Bewerbung-2-3-640x427.jpg "Bewerbungen")
+<RemoteImage
+  alt="Bewerbungen"
+  size="medium"
+  title="Bewerbungen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-2-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Bewerbung-2-3__l.jpg"
+  loadingUrl="undefined" />
 
 Einige von Euch kennen meine Texte, manche lesen sie (ich wage es, mich so weit
 aus dem Fenster zu lehnen und das einfach mal zu behaupten) sogar gerne und ich

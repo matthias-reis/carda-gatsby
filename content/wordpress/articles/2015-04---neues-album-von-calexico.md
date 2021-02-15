@@ -40,7 +40,13 @@ subTitle: '"Edge Of The Sun" ist da!'
   
 ---
 
-![Calexico - Edge Of The Sun ist da!](http://cardamonchai.com/wp-content/uploads/2015/04/Calexico-Edge-Of-The-Sun-3-640x480.jpg "Calexico - Edge Of The Sun ist da!")
+<RemoteImage
+  alt="Calexico - Edge Of The Sun ist da!"
+  size="medium"
+  title="Calexico - Edge Of The Sun ist da!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-3__l.jpg"
+  loadingUrl="undefined" />
 
 **Da Calexico für mich zu den absoluten Favoriten zählen, musste es bei der
 neuen Platte etwas ganz besonderes sein: Die Limited Deluxe Edition als
@@ -64,7 +70,13 @@ lauschen.
 
 ## Erster Gedanke: Watteweich
 
-![Calexico - Edge Of The Sun](http://cardamonchai.com/wp-content/uploads/2015/04/Calexico-Edge-Of-The-Sun-4-640x480.jpg "Calexico - Edge Of The Sun")
+<RemoteImage
+  alt="Calexico - Edge Of The Sun"
+  size="medium"
+  title="Calexico - Edge Of The Sun"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-4__l.jpg"
+  loadingUrl="undefined" />
 
 Erster Song: "Falling From The Sky" - Erster Gedanke: Watteweich. Nach
 progressiv, roh, rockig und nostalgisch eine ganz neue Seite, die ich an
@@ -103,7 +115,13 @@ an.
 
 ## Wie ich sie liebe: Calexicos Walzer
 
-![Calexico - Edge Of The Sun T-Shirt](http://cardamonchai.com/wp-content/uploads/2015/04/Calexico-Edge-Of-The-Sun-640x480.jpg "Calexico - Edge Of The Sun T-Shirt")
+<RemoteImage
+  alt="Calexico - Edge Of The Sun T-Shirt"
+  size="medium"
+  title="Calexico - Edge Of The Sun T-Shirt"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun__l.jpg"
+  loadingUrl="undefined" />
 
 "Woodshed Waltz" - Wie ich sie liebe: Calexicos Walzer. Und so auch diesen. Ich
 möchte tanzen. In langen Gewändern. Im Sand. Barfuss. Zu diesem Song.
@@ -122,7 +140,13 @@ Sun".
 
 ## Bonus-Tracks
 
-![Calexico - Edge Of The Sun](http://cardamonchai.com/wp-content/uploads/2015/04/Calexico-Edge-Of-The-Sun-2-640x480.jpg "Calexico - Edge Of The Sun")
+<RemoteImage
+  alt="Calexico - Edge Of The Sun"
+  size="medium"
+  title="Calexico - Edge Of The Sun"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Calexico-Edge-Of-The-Sun-2__l.jpg"
+  loadingUrl="undefined" />
 
 Über die Bonus-Tracks verrate ich nichts, ihr müsst sie Euch selbst anhören. Es
 sei nur so viel gesagt: Es lohnt sich! Es wird funky und es wird eine Geschichte

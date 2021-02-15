@@ -36,7 +36,13 @@ subTitle: Zum Schutz vor Kratzern und aus Stylegründen
   
 ---
 
-![Meine selbstgemachte Handytasche](http://cardamonchai.com/wp-content/uploads/2015/10/DIY-Handytasche-3-640x427.jpg "Meine selbstgemachte Handytasche")
+<RemoteImage
+  alt="Meine selbstgemachte Handytasche"
+  size="medium"
+  title="Meine selbstgemachte Handytasche"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Handytasche-3__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Handytasche-3__l.jpg"
+  loadingUrl="undefined" />
 
 **Ich hatte ja schon angekündigt, dass es ich Euch meine neue Handytasche
 präsentieren würde. Sie ist nun fertig und bereit ins Rampenlicht zu treten.**

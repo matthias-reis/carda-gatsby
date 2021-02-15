@@ -64,7 +64,13 @@ und Mädels vorhaben.
 
 ## Wer ist Mister Mandrill?
 
-![Mister Mandrill](http://cardamonchai.com/wp-content/uploads/2017/10/IMG-20170705-WA00341-300x225.jpg)
+<RemoteImage
+  alt="Mister Mandrill"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA00341__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA00341__l.jpg"
+  loadingUrl="undefined" />
 
 Hinter dem Namen _Mister Mandrill_  verbirgt sich ein Team aus jungen
 Gastronomen, die die gemeinsame Leidenschaft für betreutes Trinken
@@ -102,7 +108,13 @@ für mich schnell klar, dass ich diesen Weg gehen möchte.
 
 ## "Meiner Heimatstadt mit einem kreativen Gastronomiekonzept etwas zurückzugeben, ist ein reizvoller Gedanke"
 
-![Mister Mandrill](http://cardamonchai.com/wp-content/uploads/2017/10/received_2012684135639022-300x450.jpeg)
+<RemoteImage
+  alt="Mister Mandrill"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_received_2012684135639022.jpeg__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_received_2012684135639022.jpeg__l.jpg"
+  loadingUrl="undefined" />
 
 **Kevin:** Auch, wenn Hamburg unsere Homebase bleiben soll, gibt es natürlich
 gerade für die Gastronomie noch viele andere interessante Städte. Gerade Berlin
@@ -124,7 +136,13 @@ das Logo mit dem Mandrill-Äffchen ist genial und prägt sich gut ein.
 
 ## "Wir wollen nicht eingleisig fahren"
 
-![Mister Mandrill](http://cardamonchai.com/wp-content/uploads/2017/10/IMG-20170705-WA0018-300x450.jpg)
+<RemoteImage
+  alt="Mister Mandrill"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA0018__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_IMG-20170705-WA0018__l.jpg"
+  loadingUrl="undefined" />
 
 **Kevin:** Es war schnell klar, dass unser Projekt nicht eingleisig fahren wird.
 Ob Catering, Partyreihe, oder eine Pop-up-Bar. Wir sind offen für alles.  Darum

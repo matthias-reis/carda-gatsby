@@ -31,7 +31,13 @@ subTitle: Ein wundervoller Abend
   
 ---
 
-![Boysetsfire live im Docks](http://cardamonchai.com/wp-content/uploads/2015/10/21161089299_f95f23f9d9_z-640x640.jpg "Boysetsfire live im Docks")
+<RemoteImage
+  alt="Boysetsfire live im Docks"
+  size="medium"
+  title="Boysetsfire live im Docks"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21161089299_f95f23f9d9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21161089299_f95f23f9d9_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Gestern hatte das lange Warten endlich ein Ende und die Familie traf wieder
 aufeinander. Boysetsfire spielten zum Auftakt ihrer Tour im Docks in Hamburg und
@@ -58,7 +64,13 @@ spreading so much love and sharing your music with us! Take care! &lt;3
 Das hier habe ich heute Morgen bei Twitter entdeckt. Ich bin ganz stolz drauf.
 :-)
 
-![Mein Tweet auf dem Profil von Boysetsfire | large](http://cardamonchai.com/wp-content/uploads/2015/10/Bildschirmfoto-2015-10-02-um-08.39.30-800x384.png "Mein Tweet auf dem Profil von Boysetsfire")
+<RemoteImage
+  alt="Mein Tweet auf dem Profil von Boysetsfire"
+  size="large"
+  title="Mein Tweet auf dem Profil von Boysetsfire"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Bildschirmfoto-2015-10-02-um-08.39.30.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Bildschirmfoto-2015-10-02-um-08.39.30.png__l.jpg"
+  loadingUrl="undefined" />
 
 Das Docks war ziemlich überfüllt und so passierte leider das Unvermeidliche:
 Nach einer kurzen Pipipause haben wir es nicht mehr in die Frontrow

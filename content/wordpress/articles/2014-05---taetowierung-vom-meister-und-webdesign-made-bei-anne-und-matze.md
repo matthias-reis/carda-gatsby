@@ -42,7 +42,13 @@ subTitle: "Teil I: Die Idee"
   
 ---
 
-![Taube in Venedig 2014](http://cardamonchai.com/wp-content/uploads/2014/05/12601100464_3e25bd7ee9_z-300x200.jpg "[ ](/wp-content/uploads/2014/05/12601100464_3e25bd7ee9_z.jpg)  Taube in Venedig 2014")
+<RemoteImage
+  alt="Taube in Venedig 2014"
+  size="medium"
+  title="[ ](/wp-content/uploads/2014/05/12601100464_3e25bd7ee9_z.jpg)  Taube in Venedig 2014"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_12601100464_3e25bd7ee9_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_12601100464_3e25bd7ee9_z__l.jpg"
+  loadingUrl="undefined" />
 
 Schon sehr lange plane ich eine neue **Tätowierung** stechen zu lassen,
 Sternchen und Omzeichen fühlen sich schon ganz einsam auf meinem Arm.
@@ -53,7 +59,13 @@ enthalten soll: Eine Taube erinnert an meinen verstorbenen Großvater, der Taube
 
 ### Eine Vorlage für den Tätowierer
 
-![Rhododentron in Glendurgan Garden](http://cardamonchai.com/wp-content/uploads/2014/05/11502534573_52a12269b1_z-300x225.jpg "[ ](/wp-content/uploads/2014/05/11502534573_52a12269b1_z.jpg)  Rhododentron in Glendurgan Garden")
+<RemoteImage
+  alt="Rhododentron in Glendurgan Garden"
+  size="medium"
+  title="[ ](/wp-content/uploads/2014/05/11502534573_52a12269b1_z.jpg)  Rhododentron in Glendurgan Garden"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_11502534573_52a12269b1_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_11502534573_52a12269b1_z__l.jpg"
+  loadingUrl="undefined" />
 
 Sterne stellen meinen Vater, den heimlichen Seefahrer ;-) , dar. Für meine
 **Mutter** steht die Rhododendronblüte, die ich in einem ihrer liebsten
@@ -73,7 +85,13 @@ An der technischen Umsetzung arbeiten wir derzeit schon mit Hochdruck, damit das
 Gerüst schon mal steht, wenn das Design fertig ist und wir der Seite am Ende nur
 noch den fertigen Anzug überstülpen müssen.
 
-![Anne mit Eule in Glastonbury 2012](http://cardamonchai.com/wp-content/uploads/2014/05/11355170514_4a7012511b_z-300x210.jpg "[ ](/wp-content/uploads/2014/05/11355170514_4a7012511b_z.jpg)  Anne mit Eule in Glastonbury 2012")
+<RemoteImage
+  alt="Anne mit Eule in Glastonbury 2012"
+  size="medium"
+  title="[ ](/wp-content/uploads/2014/05/11355170514_4a7012511b_z.jpg)  Anne mit Eule in Glastonbury 2012"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_11355170514_4a7012511b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_05_11355170514_4a7012511b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Mal sehen, eventuell findet die **Eule** , die sich der Herzmann stechen lassen
 möchte, ja auch noch einen Platz auf cardamonchai.
@@ -91,7 +109,13 @@ _ **
 
 [youtube http://www.youtube.com/watch?v=iZQouBxFDcI?list=PL3C307169546CCBA8]
 
-![Wir sagen NEIN zu Taubenfallen! | full](http://cardamonchai.files.wordpress.com/2014/05/logo_quer_700_359.jpg)
+<RemoteImage
+  alt="Wir sagen NEIN zu Taubenfallen!"
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2014/05/logo_quer_700_359.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2014/05/logo_quer_700_359.jpg"
+  loadingUrl="undefined" />
 
 [](http://www.wir-sagen-nein-zu-taubenfallen.de)
 

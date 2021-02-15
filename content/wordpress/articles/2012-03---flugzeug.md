@@ -60,7 +60,13 @@ subTitle: Eine Geschichte aus dem Leben
 
 <hr />
 
-![Bild: Anne 3/2012](http://cardamonchai.com/wp-content/uploads/2012/03/2012-03-02-16-54-47-640x853.jpg "Bild: Anne 3/2012")
+<RemoteImage
+  alt="Bild: Anne 3/2012"
+  size="medium"
+  title="Bild: Anne 3/2012"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-47__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-47__l.jpg"
+  loadingUrl="undefined" />
 
 Vor Dir sitzt ein quengelndes, zappelndes, kaugummimampfendes Kind und spielt
 bei voll aufgedrehter Lautstärke ein Kampfroboterspiel auf seiner blinkenden

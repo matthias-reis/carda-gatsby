@@ -47,7 +47,13 @@ Veganer/in nicht jeden Tag Ungerechtigkeiten auffallen und Dinge, die Leid
 erzeugen? Das sind Fragen, die nicht nur Ihr uns immer wieder stellt. Auch wir
 beschäftigen uns damit jeden Tag.**
 
-![Komplett vegan leben - Ist das möglich?](http://cardamonchai.com/wp-content/uploads/2018/02/15718379925_6d913b0d02_z-300x300.jpg "Komplett vegan leben - Ist das möglich?")
+<RemoteImage
+  alt="Komplett vegan leben - Ist das möglich?"
+  size="medium"
+  title="Komplett vegan leben - Ist das möglich?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_15718379925_6d913b0d02_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_15718379925_6d913b0d02_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ja, Du hast gerade richtig gelesen. Du bist nicht der/die Erste, dem/der diese
 Fragen eingefallen sind. Sie wurde/wird uns sehr oft gestellt und beschäftigt
@@ -99,7 +105,13 @@ Dass ganze Landstriche für unsere Tomaten mit Plastikfolie abgedeckt werden?
 Weißt Du, ob für das Auto, das Du Dir für den Urlaub gemietet hast,
 [Tiere gelitten haben](/2018/01/tierversuche-in-der-autoindustrie/) ?
 
-![Wir versuchen unseren Fußabdruck so klein wie möglich zu halten](http://cardamonchai.com/wp-content/uploads/2018/02/32985444933_1b3843f0d5_z-300x375.jpg)
+<RemoteImage
+  alt="Wir versuchen unseren Fußabdruck so klein wie möglich zu halten"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wir, mein Mann und ich, versuchen, so bewusst zu leben, wie es uns möglich ist.
 Darum sind wir Veganer geworden, haben kein Auto und versuchen unseren
@@ -131,7 +143,13 @@ essen möchte. Ob er damit leben kann, dass
 werden. Dass 
 [Schweine um ihr Leben rennen müssen](/2017/11/das-gluecksschwein-aus-dem-elbtunnel/).
 
-![So trage ich Pelz!](http://cardamonchai.com/wp-content/uploads/2014/07/11501151886_22baaaa304_o-640x963.jpg "So trage ich Pelz!")
+<RemoteImage
+  alt="So trage ich Pelz!"
+  size="medium"
+  title="So trage ich Pelz!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__l.jpg"
+  loadingUrl="undefined" />
 
 Wir halten Dir mit unserer Entscheidung, so leidfrei wie möglich zu leben, ein
 Stück weit den Spiegel vor. Das sorgt dafür, dass Du mit den oben genannten

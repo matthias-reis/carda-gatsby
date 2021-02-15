@@ -47,7 +47,13 @@ subTitle: Album "Koi No Yokan" am 9. November
 Das Stück bündelt pure Energie mit tiefen Emotionen. Die übereinander gelegten
 Gesangsspuren wühlen den Hörer auf, regen zum Nachdenken an.
 
-![ | small](http://cardamonchai.com/wp-content/uploads/2012/10/koi-no-yokan-320x320.jpg)
+<RemoteImage
+  alt=""
+  size="small"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_koi-no-yokan__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_koi-no-yokan__l.jpg"
+  loadingUrl="undefined" />
 
 Insgesamt macht "Tempest" Lust auf mehr, die Zeit bis zum großen Tag der
 Veröffentlichung kann man nun kaum noch abwarten.

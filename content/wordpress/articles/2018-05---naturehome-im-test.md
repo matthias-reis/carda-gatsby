@@ -46,7 +46,13 @@ _Werbung\*_
 erfreuen könnt? Für mich ist die Rosenhandseife aus dem Hause Naturehome so ein
 Fall.**
 
-![Naturehome](http://cardamonchai.com/wp-content/uploads/2018/04/41666614251_043e29b342_z-400x533.jpg)
+<RemoteImage
+  alt="Naturehome"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41666614251_043e29b342_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41666614251_043e29b342_z__l.jpg"
+  loadingUrl="undefined" />
 
 Sie stach mir zufällig beim Stöbern nach Möbeln ins Auge und musste einfach
 probiert werden. Seitdem steht sie bei uns im Bad und ich freue mich jedes Mal

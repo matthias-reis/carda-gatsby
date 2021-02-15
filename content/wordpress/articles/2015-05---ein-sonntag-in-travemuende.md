@@ -37,7 +37,13 @@ subTitle: Bildergalerie aus der Hafenstadt an der Ostsee
   
 ---
 
-![Möwe in Travemünde](http://cardamonchai.com/wp-content/uploads/2015/05/18282606686_1fbc04228f_z-640x427.jpg "Möwe in Travemünde")
+<RemoteImage
+  alt="Möwe in Travemünde"
+  size="medium"
+  title="Möwe in Travemünde"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_18282606686_1fbc04228f_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_18282606686_1fbc04228f_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Letzten Sonntag machten wir einen wunderschönen Ausflug. Unser Ziel:
 Travemünde an der Ostsee. Das Wetter war ein einziger Traum und das Fernweh war

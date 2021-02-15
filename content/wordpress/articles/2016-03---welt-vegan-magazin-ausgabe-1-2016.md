@@ -34,7 +34,13 @@ subTitle: Zwei Artikel sind von mir
   
 ---
 
-![Das Welt Vegan Magazin 1/2016](http://cardamonchai.com/wp-content/uploads/2016/03/25319062412_a3755328fb_z.jpg "Das Welt Vegan Magazin 1/2016")
+<RemoteImage
+  alt="Das Welt Vegan Magazin 1/2016"
+  size="medium"
+  title="Das Welt Vegan Magazin 1/2016"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319062412_a3755328fb_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319062412_a3755328fb_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Die neue Ausgabe vom Welt Vegan Magazin liegt in den Regalen! Höchste Zeit für
 Euch, zum Kiosk zu gehen! Auch dieses Mal sind wieder einige wirklich tolle
@@ -57,7 +63,13 @@ Wenn Ihr was Tolles zum Thema vegan zu erzählen habt: Scheut Euch nicht, mich
 
 ## Auf Wunsch texte ich auch für Euch!
 
-![Welt Vegan Magazin](http://cardamonchai.com/wp-content/uploads/2016/03/25319089342_265805d22b_z-640x427.jpg "Text: Anne Reis")
+<RemoteImage
+  alt="Welt Vegan Magazin"
+  size="medium"
+  title="Text: Anne Reis"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319089342_265805d22b_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25319089342_265805d22b_z__l.jpg"
+  loadingUrl="undefined" />
 
 Wer sonst Interesse an meinen Texten hat: Thematisch bin ich nicht gebunden. Wer
 also jemanden braucht, der für seine Webseite schreibt, ein Thema hat, dass er

@@ -55,7 +55,13 @@ können kostenfrei angefordert werden. Mit dem Froschprint ist der Aufkleber
 sogar hübsch anzusehen, Briefkästen, die er ziert, heben sich auf jedem Fall aus
 dem Einheitsgrau hervor.
 
-![ | full](http://cardamonchai.files.wordpress.com/2011/10/bitte-keine-werbung-umwelt-frosch-aufkleber.png)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/bitte-keine-werbung-umwelt-frosch-aufkleber.png"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/10/bitte-keine-werbung-umwelt-frosch-aufkleber.png"
+  loadingUrl="undefined" />
 
 [](http://www.kaufda.de/umwelt/bitte-keine-werbung-aufkleber/)
 [kaufDA](http://www.kaufda.de) informiert kostenlos online über die aktuellen,
@@ -98,7 +104,13 @@ Hier geht es zu den
 [Spartipps](http://www.kaufda.de/Einkaufstipps/Weltspartag-Spartippsammlung/)
 von [kaufDA](http://www.kaufda.de).
 
-![ | full](http://cardamonchai.files.wordpress.com/2011/10/einkaufsflatrate1.jpg)
+<RemoteImage
+  alt=""
+  size="full"
+  title=""
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/10/einkaufsflatrate1.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/10/einkaufsflatrate1.jpg"
+  loadingUrl="undefined" />
 
 [](http://www.kaufda.de)
 

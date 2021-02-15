@@ -44,7 +44,13 @@ Zehn Blogger\*innen haben ihre Wahl getroffen. Irgendwie wurde mir im Nachgang
 mal wieder bewusst, dass ich halt doch einen echten Nischen-Musikgeschmack habe.
 Wollt Ihr mal die anderen Vorschläge sehen? Ja, wollt Ihr.
 
-![blogger-blind-date | full](http://cardamonchai.com/wp-content/uploads/2018/12/blogger-blinddate-960x115.png)
+<RemoteImage
+  alt="blogger-blind-date"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_blogger-blinddate.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_blogger-blinddate.png__l.jpg"
+  loadingUrl="undefined" />
 
 Neben dem von Regina standen auch Stücke von Death Cab vor Cutie (für die haben
 immerhin drei Blogger\*innen gestimmt), den Black Keys, U2, AC/DC, Laura Mvula,

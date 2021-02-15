@@ -46,7 +46,13 @@ subTitle: Perfekt. Nachdenklich. Unvergesslich.
 **Nachdem es vom letzten Steven Wilson Konzert vor zwei Jahren in München keinen
 Bericht gab, habe ich dieses Mal wenigstens ein paar Erinnerungen mitgebracht.**
 
-![Steven Wilson live in Hamburg](http://cardamonchai.com/wp-content/uploads/2016/01/24410958715_79e2c52047_z-640x640.jpg)
+<RemoteImage
+  alt="Steven Wilson live in Hamburg"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24410958715_79e2c52047_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24410958715_79e2c52047_z__l.jpg"
+  loadingUrl="undefined" />
 
 Genau wie in der alten Kongresshalle in München, war das Konzert am 16. Januar
 im Hamburger CCH Congress Center bestuhlt. Wir hatten das Glück, einen Platz in

@@ -29,7 +29,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (41:20)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (53:20)"
 thumbnailId: "14253"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__l.jpg
@@ -38,10 +38,16 @@ subTitle: Poesie der Vernetzung
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (41:20)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (53:20)
 
 <!--
-![Flarf](http://cardamonchai.com/wp-content/uploads/2016/03/16277877741_01b8d8a4b5_z-640x426.jpg "Flarf regt die Phantasie an")
+<RemoteImage
+  alt="Flarf"
+  size="medium"
+  title="Flarf regt die Phantasie an"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Flarf - Kennt Ihr das? Nein, das ist kein Wort, das ich mir eben ausgedacht
 habe und es stammt auch nicht aus der Villa Kunterbunt.**
@@ -59,7 +65,13 @@ oder ein neues Kapitel verfassen und was lässt leider mal wieder zu wünschen
 
 ## Flarf stimuliert die Kreativität
 
-![Flarf](http://cardamonchai.com/wp-content/uploads/2016/03/11153925974_fe91f672d3_z-640x425.jpg "Ein Gedicht über Wasser und Frühling")
+<RemoteImage
+  alt="Flarf"
+  size="medium"
+  title="Ein Gedicht über Wasser und Frühling"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__l.jpg"
+  loadingUrl="undefined" />
 
 Flarf ist eine tolle Möglichkeit, die Kreativität zu stimulieren, die Phantasie
 anzuregen und die Tastatur wieder in Schwung zu bringen. Und nicht nur als Übung

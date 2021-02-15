@@ -48,7 +48,13 @@ Hinweis: Die Aktion ist beendet.
 
 <hr />
 
-![piqd | full](http://cardamonchai.com/wp-content/uploads/2017/06/5938fe1ecba8e.png)
+<RemoteImage
+  alt="piqd"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_5938fe1ecba8e.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_5938fe1ecba8e.png__l.jpg"
+  loadingUrl="undefined" />
 
 ---
 
@@ -90,7 +96,13 @@ bearbeiten.
 
 ## Fertig sieht das dann zum Beispiel so aus:
 
-![piqd | large](http://cardamonchai.com/wp-content/uploads/2017/06/Bildschirmfoto-2017-06-21-um-14.01.04-800x192.png)
+<RemoteImage
+  alt="piqd"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-14.01.04.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-14.01.04.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://www.piqd.de/?utm_source=blog&utm_medium=beitrag&utm_campaign=trusted-blogshttp://)
 
@@ -140,7 +152,13 @@ Den/die GewinnerIn kontaktiere ich dann per E-Mail.**
 
 Ich wünsche Euch viel Glück!
 
-![piqd | large](http://cardamonchai.com/wp-content/uploads/2017/06/Bildschirmfoto-2017-06-21-um-15.20.51-800x401.png)
+<RemoteImage
+  alt="piqd"
+  size="large"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-15.20.51.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Bildschirmfoto-2017-06-21-um-15.20.51.png__l.jpg"
+  loadingUrl="undefined" />
 
 [](https://www.piqd.de/?utm_source=blog&utm_medium=beitrag&utm_campaign=trusted-blogshttp://)
 

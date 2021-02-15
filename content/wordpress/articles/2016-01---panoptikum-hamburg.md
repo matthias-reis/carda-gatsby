@@ -35,7 +35,13 @@ subTitle: Deutschlands ältestes Wachsfigurenkabinett
   
 ---
 
-![Fotorunde im Panoptikum in Hamburg](http://cardamonchai.com/wp-content/uploads/2016/01/24228465322_9e793a5ea7_z.jpg "Fotorunde im Panoptikum in Hamburg")
+<RemoteImage
+  alt="Fotorunde im Panoptikum in Hamburg"
+  size="medium"
+  title="Fotorunde im Panoptikum in Hamburg"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24228465322_9e793a5ea7_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24228465322_9e793a5ea7_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Seit über 130 Jahren gibt es in St. Pauli etwas ganz Besonderes: Das
 Panoptikum stellt Künstler, Politiker, Wissenschaftler und andere interessante

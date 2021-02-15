@@ -55,7 +55,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <span> (188:120)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <span> (224:120)"
 thumbnailId: "16486"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_34095028326_e784ddd282_z__l.jpg
@@ -64,10 +64,16 @@ subTitle: <span class="s1">„Wir möchten Gutes tun und keinen Benz kaufen“</
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;span> (188:120)
+## unknown: Expected corresponding JSX closing tag for &lt;span> (224:120)
 
 <!--
-![Vegablum](http://cardamonchai.com/wp-content/uploads/2017/04/34095028076_7be27a02bd_z-640x480.jpg)
+<RemoteImage
+  alt="Vegablum"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028076_7be27a02bd_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028076_7be27a02bd_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Was genau [Vonig](/2017/04/veganer-honig-vegablum/) ist und wie der
 [vegane Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
@@ -93,7 +99,13 @@ Woran arbeitest Du gerade?
 
 ## „Derzeit wird der Rhabarber-Likör angesetzt“
 
-![Vegablum](http://cardamonchai.com/wp-content/uploads/2017/04/33978181982_8939f846ae_z-640x480.jpg)
+<RemoteImage
+  alt="Vegablum"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33978181982_8939f846ae_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33978181982_8939f846ae_z__l.jpg"
+  loadingUrl="undefined" />
 
 <p class="p1"> __
 
@@ -119,7 +131,13 @@ gleich an unseren Ständen darüber aufklären und zum Nachdenken anregen.
 
 ## Danny lebt seit vier Jahren vegan
 
-![Vegablum](http://cardamonchai.com/wp-content/uploads/2017/04/33324281293_352b7c52fa_z-640x360.jpg)
+<RemoteImage
+  alt="Vegablum"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33324281293_352b7c52fa_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33324281293_352b7c52fa_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Du lebst seit vier Jahren vegan. Vor Kurzem war Dein Jubiläum.
 Herzlichen Glückwunsch dazu! Wie kam es bei Dir zu der Umstellung? Was war der
@@ -187,7 +205,13 @@ so eine große Faszination auf viele Menschen ausübt?
 
 ## „Am Lagerfeuer herrscht entspannte Stimmung“
 
-![Vegablum](http://cardamonchai.com/wp-content/uploads/2017/04/34095028806_d6a53428d0_z-640x360.jpg)
+<RemoteImage
+  alt="Vegablum"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028806_d6a53428d0_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028806_d6a53428d0_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Danny:** Ich weiß nicht, ob es auf den Märkten wirklich so zugeht, wie zu
 früheren Zeiten. Dort herrscht einfach eine entspannte Atmosphäre. Es gibt viele
@@ -224,7 +248,13 @@ Zeit!
 
 ## Rock und Gothik
 
-![Vegablum](http://cardamonchai.com/wp-content/uploads/2017/04/tierschutz_d8da7c37a49754d9f1c4d3d3711e80db-640x301.jpg "Tierschutz ist Danny besonders wichtig")
+<RemoteImage
+  alt="Vegablum"
+  size="medium"
+  title="Tierschutz ist Danny besonders wichtig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_tierschutz_d8da7c37a49754d9f1c4d3d3711e80db__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_tierschutz_d8da7c37a49754d9f1c4d3d3711e80db__l.jpg"
+  loadingUrl="undefined" />
 
 **Danny:** _Blutengel_ , aber musiktechnisch höre ich von Rock über Gothic sehr
 viel.
@@ -259,7 +289,13 @@ Produkte geben?
 
 ## "Wir wollen ein umfassendes Sortiment anbieten"
 
-![Vegablum](http://cardamonchai.com/wp-content/uploads/2017/04/die-fleissigen-bluemchen_8177f6dec4fedcb72de3a52aad62321d-640x301.jpg "Danny, Stephan und Heino - Die fleißigen Blümchen von Vegablum")
+<RemoteImage
+  alt="Vegablum"
+  size="medium"
+  title="Danny, Stephan und Heino - Die fleißigen Blümchen von Vegablum"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_die-fleissigen-bluemchen_8177f6dec4fedcb72de3a52aad62321d__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_die-fleissigen-bluemchen_8177f6dec4fedcb72de3a52aad62321d__l.jpg"
+  loadingUrl="undefined" />
 
 **Danny:** Es gibt außerdem auch noch Fruchtaufstrich aus unserem Apfelsaft. Wir
 wollen ein umfassendes Sortiment anbieten. Das schließt auch mit ein, dass wir

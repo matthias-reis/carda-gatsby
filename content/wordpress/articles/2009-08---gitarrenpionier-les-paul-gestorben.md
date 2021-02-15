@@ -41,7 +41,13 @@ er bereits als Country-Gitarrist auf. Sein größtes Hobby war allerdings die
 Bastelei an Elektrogeräten. Schon als Kind schraubte er an Mikrophonen und
 Plattenspielern herum.
 
-![Bild: Klicker Pixelio](http://cardamonchai.com/wp-content/uploads/2009/08/81952_r_k_b_by_klicker_pixelio-de-640x480.jpg "Bild: Klicker Pixelio")
+<RemoteImage
+  alt="Bild: Klicker Pixelio"
+  size="medium"
+  title="Bild: Klicker Pixelio"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_81952_r_k_b_by_klicker_pixelio-de__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_81952_r_k_b_by_klicker_pixelio-de__l.jpg"
+  loadingUrl="undefined" />
 
 In den 30er- und 40er-Jahren trat Les Paul zusammen mit Musikgrößen wie Bing
 Crosby, Nat King Cole und Frank Sinatra auf. Diese Auftritte machten ihn

@@ -36,11 +36,23 @@ subTitle: <span class="s1">„Es ist Zeit, dem Leiden der Tiere ein Gesicht zu
   
 ---
 
-![Petra von ethice mit ihrem Vierbeiner](http://cardamonchai.com/wp-content/uploads/2015/07/website-640x480.jpg "Petra von ethice mit ihrem Vierbeiner")
+<RemoteImage
+  alt="Petra von ethice mit ihrem Vierbeiner"
+  size="medium"
+  title="Petra von ethice mit ihrem Vierbeiner"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg"
+  loadingUrl="undefined" />
 
 <p class="p1"> __Über einen netten Interviewpartner wurde mir vor Kurzem Petra Mazur, Gründerin des Labels ethice und kreativer Kopf des ethice Online-Shops vorgestellt.__ </p>"Mit der Frau müssen Sie ein Interview machen, Sie hat Interessantes zu erzählen!“ Gesagt getan, ich schrieb Petra an und hatte schon am nächsten Tag eine sehr nette Antwort mit einer Zusage im Postfach __.__ ethice ist derzeit noch ein gemeinnütziger Verein, in naher Zukunft soll die Marke als Non-Profit-Unternehmen weitergeführt werden. ethice ist das lateinische Wort für Ethik. Dahinter steckt ein Shop für alle, die sich friedlich gegen Unrecht und Leid auflehnen und dem Leiden ein Gesicht geben möchten. Verkauft werden in Petras Shop u. a. Taschen, Rucksäcke und PKW-Folien mit Tierschutzaufdrucken. Unterstützt wird vor allem der Kampf gegen Tiertransporte und Massentierhaltung. Die erzielten Verkaufserlöse werden zu 100% an Tierschutzorganisationen und -Vereine wie z. B. Überlebenshöfe oder Tierauffangstationen gespendet. __Anne:__  Hallo Petra! Vielen Dank, dass du dir die Zeit für unsere Unterhaltung nimmst! Wie geht es dir heute? __Petra:__  Hallo Anne, danke es geht mir gut und ich freue mich über Dein Interesse an ethice.## Die Menschen wieder zum Fühlen bringen __Anne:__  Liebe Petra, wie bist du auf die Idee gekommen, ethice zu gründen?
 
-![Kette aus der ethice-Kollektion](http://cardamonchai.com/wp-content/uploads/2015/07/rsz_kette-640x480.jpg "Kette aus der ethice-Kollektion")
+<RemoteImage
+  alt="Kette aus der ethice-Kollektion"
+  size="medium"
+  title="Kette aus der ethice-Kollektion"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_rsz_kette__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_rsz_kette__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Ich wollte dem Leiden unbedingt ein Gesicht geben. Ich selbst hatte
 viele Jahre Tiere gegessen und dabei alles, was damit zusammenhängt erfolgreich
@@ -77,7 +89,13 @@ verweise ich gerne an all die Lebenshöfe, die oftmals finanzielle Sorgen
 haben.## Die meisten Menschen sind noch fähig Mitgefühl zu empfinden **Anne:**
 Erzähl mir ein Bisschen was über Euer Konzept!
 
-![Schweine auf dem Weg zum Schlachter](http://cardamonchai.com/wp-content/uploads/2015/07/Schweine-640x427.jpg "Schweine auf dem Weg zum Schlachter")
+<RemoteImage
+  alt="Schweine auf dem Weg zum Schlachter"
+  size="medium"
+  title="Schweine auf dem Weg zum Schlachter"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Schweine__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Schweine__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** Nun, wie ich schon angedeutet habe, möchte ich mit den Motiven die
 Menschen daran hindern zu verdrängen. Ich glaube sicher, dass die meisten
@@ -110,7 +128,13 @@ unseren Gedächtnissen bleiben. Es geht mir nicht darum zu provozieren, auch wen
 mir genau das immer nachgesagt wird.## Ich will, dass die Menschen sehen, was
 unser Konsum für grausame Folgen hat
 
-![Rucksack aus der ethice-Kollektion](http://cardamonchai.com/wp-content/uploads/2015/07/Rucksack.jpg "Rucksack aus der ethice-Kollektion")
+<RemoteImage
+  alt="Rucksack aus der ethice-Kollektion"
+  size="medium"
+  title="Rucksack aus der ethice-Kollektion"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Rucksack__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Rucksack__l.jpg"
+  loadingUrl="undefined" />
 
 Ich möchte einfach nur, dass die Menschen sehen, was unser Konsum für grausame
 Folgen hat. Ich glaube, dass ich dauerhaften Frieden nur über die Herzen der
@@ -175,7 +199,13 @@ fehlt mir heute schlicht die Zeit, weil es zu viele Anfragen geworden sind.
 Meine Arbeit für ethice ist nebenberuflich.## Ethice macht sich gegen
 Massentierhaltung stark **Anne:** Wo kann man deine Tierschutzkollektion kaufen?
 
-![Autofolie von ethice | full](http://cardamonchai.com/wp-content/uploads/2015/07/Autofolie.gif "[ ](/wp-content/uploads/2015/07/Autofolie.gif)  Autofolie von ethice")
+<RemoteImage
+  alt="Autofolie von ethice"
+  size="full"
+  title="[ ](/wp-content/uploads/2015/07/Autofolie.gif)  Autofolie von ethice"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Autofolie.gif__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Autofolie.gif__l.jpg"
+  loadingUrl="undefined" />
 
 **Petra:** An den Ständen und im Onlineshop [<sup>1</sup>](#1). Da wir immer
 wieder zu Straßenfesten in ganz Deutschland eingeladen werden, was wir leider
@@ -208,7 +238,13 @@ Bild konnte ich auch endlich wieder weinen. Worte sind oft missverständlich,
 dieses Bild aber zeigt genau, was ich fühle. Und ganz sicher, was viele andere
 Menschen auch empfinden. ## Mit plakativen Motiven Aufmerksamkeit erregen
 
-![Tasche von ethice](http://cardamonchai.com/wp-content/uploads/2015/07/Tasche-640x577.jpg "Tasche von ethice")
+<RemoteImage
+  alt="Tasche von ethice"
+  size="medium"
+  title="Tasche von ethice"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Tasche__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Tasche__l.jpg"
+  loadingUrl="undefined" />
 
 Ja, das Konzept ist, mit plakativen Motiven Aufmerksamkeit zu erregen, um dann -
 so freundlich und verständlich wie möglich - mit den Menschen zu reden. Das

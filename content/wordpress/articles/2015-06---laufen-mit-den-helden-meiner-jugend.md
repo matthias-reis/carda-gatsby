@@ -41,7 +41,13 @@ subTitle: Feuert mich an!
   
 ---
 
-![Laufen mit den Lieblingsschuhen](http://cardamonchai.com/wp-content/uploads/2015/06/IMG_5369-e1434036865202-640x640.jpg "Laufen mit den Lieblingsschuhen")
+<RemoteImage
+  alt="Laufen mit den Lieblingsschuhen"
+  size="medium"
+  title="Laufen mit den Lieblingsschuhen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5369-e1434036865202__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5369-e1434036865202__l.jpg"
+  loadingUrl="undefined" />
 
 **Nachdem sich langsam aber sicher nach und nach das Gefühl eingestellt hat,
 endlich wieder etwas tun zu müssen und ich mich körperlich nach diversen
@@ -85,7 +91,13 @@ schwitzend. Aber soll ich Euch was sagen: Ist mir völlig egal. :-P
 Ich freue mich schon auf den nächsten Lauf am Samstag, dann wird mich Takkyo
 Ishino begleiten. Mal sehen, wie der mich anfeuert.
 
-![Gurkenwasser zum Cool Down](http://cardamonchai.com/wp-content/uploads/2015/06/IMG_5370-640x640.jpg "Gurkenwasser zum Cool Down")
+<RemoteImage
+  alt="Gurkenwasser zum Cool Down"
+  size="medium"
+  title="Gurkenwasser zum Cool Down"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5370__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_IMG_5370__l.jpg"
+  loadingUrl="undefined" />
 
 Personal Trainer raten ja gerne mal dazu, das Vorhaben, wieder zu laufen, mit
 Freunden, oder dem Internet zu teilen, um sich Feedback und Motivation zu holen.

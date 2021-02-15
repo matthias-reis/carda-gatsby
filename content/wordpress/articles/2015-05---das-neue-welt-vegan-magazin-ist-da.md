@@ -35,7 +35,13 @@ subTitle: Mein Artikel auf Seite 112
   
 ---
 
-![Das neue Welt Vegan Magazin ist da!](http://cardamonchai.com/wp-content/uploads/2015/05/Welt-Vegan-Magazin-8-640x427.jpg "Das neue Welt Vegan Magazin ist da!")
+<RemoteImage
+  alt="Das neue Welt Vegan Magazin ist da!"
+  size="medium"
+  title="Das neue Welt Vegan Magazin ist da!"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_Welt-Vegan-Magazin-8__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_05_Welt-Vegan-Magazin-8__l.jpg"
+  loadingUrl="undefined" />
 
 **Die neue Welt Vegan Magazin Ausgabe ist da! Auch ich habe wieder einen Artikel
 dazu beigetragen, dieses Mal dreht sich darin alles um den Internationalen Tag

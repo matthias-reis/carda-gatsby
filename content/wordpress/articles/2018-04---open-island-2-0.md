@@ -55,7 +55,13 @@ Rahmen des Makers for Humanity Lab der Prototyp des Open Island 2.0 zu Wasser
 gelassen werden. Damit soll der Grundstein für eine schwimmende
 Forschungsplattform gelegt werden.
 
-![Open Island](http://cardamonchai.com/wp-content/uploads/2018/04/Open-Island-2016-400x292.jpg)
+<RemoteImage
+  alt="Open Island"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Open-Island-2016__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Open-Island-2016__l.jpg"
+  loadingUrl="undefined" />
 
 Die verschiedenen Teile der Open Islands können durch flexible Verbindungen
 miteinander verknüpft und beliebig erweitert werden. Dadurch entsteht nach und
@@ -83,7 +89,13 @@ Umweltschutz, Energie, nachhaltige Wirtschaft, Kultur, Bildung und Tourismus.
 
 ## Open Island als Forschungsplattform
 
-![Open Island](http://cardamonchai.com/wp-content/uploads/2018/04/Joy-Sehmann-Ferropolis-400x299.jpg "Joy Lehmann auf dem Ferropolis Gelände")
+<RemoteImage
+  alt="Open Island"
+  size="medium"
+  title="Joy Lehmann auf dem Ferropolis Gelände"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Joy-Sehmann-Ferropolis__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Joy-Sehmann-Ferropolis__l.jpg"
+  loadingUrl="undefined" />
 
 Das Open Island, das nun in Mitteldeutschland als Forschungsplattform errichtet
 wird, dient als außerschulischer Lernort und Platz für konkrete empirische
@@ -102,7 +114,13 @@ soll es dann nicht nur vor Ort sondern weltweit eingesetzt werden.
 
 ## Beliebig erweiterbare Räume schaffen
 
-![Open Island](http://cardamonchai.com/wp-content/uploads/2018/04/Future-Island-Aussicht-400x300.jpg)
+<RemoteImage
+  alt="Open Island"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Future-Island-Aussicht__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Future-Island-Aussicht__l.jpg"
+  loadingUrl="undefined" />
 
 Die unterschiedlich großen Inseln haben jeweils ein Fundament aus sechseckigen
 Modulen. Diese werden aus Rechteckrohr hergestellt und Hexafloats genannt. Sie

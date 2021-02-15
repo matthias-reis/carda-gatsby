@@ -47,7 +47,13 @@ wirklich ein Grund ist, komplett aus dem Häuschen zu geraten. Laut wilder,
 andauernder Spekulationen in diversen Foren und Magazinen, ist schon seit
 einiger Zeit eine neue Platte in der Mache.
 
-![Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim Festival](http://cardamonchai.com/wp-content/uploads/2014/11/9557898428_86a39a2997_z.jpg "Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim Festival")
+<RemoteImage
+  alt="Chino Moreno von den Deftones auf dem letztjährigen Rock´n&#96;Heim Festival"
+  size="medium"
+  title="Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim Festival"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__l.jpg"
+  loadingUrl="undefined" />
 
 "Ko No Yokan" nennt sich dieses lang erwartete Stück Musik. Die Platte soll in
 Europa am 9. November auf den Markt kommen. Tourdates wurden bislang erst mal

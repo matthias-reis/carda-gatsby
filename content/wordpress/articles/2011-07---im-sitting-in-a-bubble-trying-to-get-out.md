@@ -49,6 +49,12 @@ hear the mumbling complaints_ _where canons rust_ _swim against the current with
 trust_ _running up hill_ _in the morning when waters are still_ _ropes are cut_
 _unclear patterns when eyes are shut_ _faded to the grain_
 
-![Foto: Cornwall Mai 2009 cardamon82 | full](http://cardamonchai.files.wordpress.com/2011/07/p5130035.jpg "Foto: Cornwall Mai 2009 cardamon82")
+<RemoteImage
+  alt="Foto: Cornwall Mai 2009 cardamon82"
+  size="full"
+  title="Foto: Cornwall Mai 2009 cardamon82"
+  mediumUrl="http://cardamonchai.files.wordpress.com/2011/07/p5130035.jpg"
+  largeUrl="http://cardamonchai.files.wordpress.com/2011/07/p5130035.jpg"
+  loadingUrl="undefined" />
 
   

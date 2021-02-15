@@ -38,7 +38,13 @@ subTitle: Malen als kreative Prokrastination
   
 ---
 
-![Zentangle Katze](http://cardamonchai.com/wp-content/uploads/2016/02/24267467573_b66df77d05_z-640x640.jpg "Zentangle Katze")
+<RemoteImage
+  alt="Zentangle Katze"
+  size="medium"
+  title="Zentangle Katze"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24267467573_b66df77d05_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24267467573_b66df77d05_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Ob wirklich jeder malen kann, wie es ein berühmter Spielehersteller immer
 behauptet hat, weiß ich nicht. Tatsache ist jedoch, dass ich es bis dato nicht

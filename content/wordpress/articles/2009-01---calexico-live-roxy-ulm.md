@@ -41,7 +41,13 @@ mitgesungen.
 
 ## Band in Topform
 
-![Jairo Zavalla](http://cardamonchai.com/wp-content/uploads/2009/01/IMG_1492-640x427.jpg)
+<RemoteImage
+  alt="Jairo Zavalla"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1492__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1492__l.jpg"
+  loadingUrl="undefined" />
 
 Die Band aus Tucson, Arizona zeigte sich in Topform. Faszinierend war auch
 wieder mal, wie die Musiker, allen voran Martin Wenk, und Jacob Valenzuela ihre
@@ -58,7 +64,13 @@ England.
 
 ## Zur Band
 
-![Jacob Valenzuela](http://cardamonchai.com/wp-content/uploads/2009/01/IMG_1484-640x427.jpg "Jacob Valenzuela")
+<RemoteImage
+  alt="Jacob Valenzuela"
+  size="medium"
+  title="Jacob Valenzuela"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1484__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1484__l.jpg"
+  loadingUrl="undefined" />
 
 Joey Burns und John Convertino, die ursprünglich mit Howe Gelb bei GIANT SAND
 gespielt hatten, gründeten 1996 **Calexico** .
@@ -75,7 +87,13 @@ Die Musik-Richtung, die inzwischen einige als "Tucson-Desert-Rock" bezeichnen,
 hat die verschiedensten Einflüsse. Mariachi, Fado, Tango, Jazz, und Folk-Rock
 sind nur einige davon.
 
-![Calexico](http://cardamonchai.com/wp-content/uploads/2009/01/IMG_1680-640x427.jpg)
+<RemoteImage
+  alt="Calexico"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1680__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_01_IMG_1680__l.jpg"
+  loadingUrl="undefined" />
 
 Nicht nur der Name **Calexico** (Setzt sich aus den Wörtern California und
 Mexico zusammen) dreht sich um das Grenzland zwischen den USA und Mexico. Die

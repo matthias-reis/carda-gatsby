@@ -34,7 +34,13 @@ subTitle: Hamburg und mein Blog
   
 ---
 
-![Award](http://cardamonchai.com/wp-content/uploads/2017/01/30866717292_74e1ef9463_o-1-640x853.jpg)
+<RemoteImage
+  alt="Award"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_30866717292_74e1ef9463_o-1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_30866717292_74e1ef9463_o-1__l.jpg"
+  loadingUrl="undefined" />
 
 **Schon zwei Mal wurde ich nominiert. [Einmal](/2014/11/and-the-nominees-are/)
 für den  _Liebster Blog Award_ und
@@ -64,7 +70,13 @@ eigentlich nur nach der E-Mail-Adresse fragt. :-)
 
 ## Vegan seit 2014
 
-![Award](http://cardamonchai.com/wp-content/uploads/2017/01/20929293351_93e91665c2_z-640x427.jpg)
+<RemoteImage
+  alt="Award"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_20929293351_93e91665c2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_20929293351_93e91665c2_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Elbgängerin:** Seit wann und warum lebst Du vegan?
 
@@ -95,7 +107,13 @@ unheimlich Tolles für mich geworden. Früher war es mehr so eine Art
 Notwendigkeit. Ich genieße jeden Bissen, Matze und ich kochen zusammen,
 probieren neue Rezepte und Zutaten aus und kreieren sogar selbst Gerichte.
 
-![Award](http://cardamonchai.com/wp-content/uploads/2017/01/11501151886_22baaaa304_o-640x964.jpg)
+<RemoteImage
+  alt="Award"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_11501151886_22baaaa304_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_11501151886_22baaaa304_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Elbgängerin:** Wie hoch ist Deine Toleranzgrenze für Fleischfresser?
 
@@ -145,7 +163,13 @@ Konzert-Highlights für 2017?
 
 ## Dunk!festival 2017
 
-![Award](http://cardamonchai.com/wp-content/uploads/2017/01/15719943182_30a7bfc137_o-640x964.jpg)
+<RemoteImage
+  alt="Award"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_15719943182_30a7bfc137_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_15719943182_30a7bfc137_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** In Kürze treten hier in Hamburg  _
 [Russian Circles](/2017/02/russian-circles-knust-hamburg-2017/) _ auf. Ich habe
@@ -177,7 +201,13 @@ Stadtteil für Dich inzwischen an?
 
 ## Altona ist mein Stadtteil
 
-![Award](http://cardamonchai.com/wp-content/uploads/2017/01/23848021279_4164b49a56_o-640x964.jpg)
+<RemoteImage
+  alt="Award"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_23848021279_4164b49a56_o__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_23848021279_4164b49a56_o__l.jpg"
+  loadingUrl="undefined" />
 
 **Anne:** Für mich fühlt sich Altona an,  wie die Heimat, die ich schon immer
 gesucht habe. Es wurde für mich gemacht, vermute ich.

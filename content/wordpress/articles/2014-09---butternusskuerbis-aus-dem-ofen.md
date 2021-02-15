@@ -67,7 +67,13 @@ Euch mein
 
 ## Butternusskürbis aus dem Ofen<small>(Rezept für 2 Portionen)</small> **Zutaten** <ul><li>1 mittelgroßer, reifer Butternusskürbis
 
-![Butternusskürbis](http://cardamonchai.com/wp-content/uploads/2014/09/ofenkc3bcrbis-14-640x853.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Herbstlich bunt und saftig")
+<RemoteImage
+  alt="Butternusskürbis"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Herbstlich bunt und saftig"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-14__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_09_ofenkc3bcrbis-14__l.jpg"
+  loadingUrl="undefined" />
 
 <small>(wir hatten einen mittleren und einen kleinen Kübis zu zweit, das war
 eindeutig zu

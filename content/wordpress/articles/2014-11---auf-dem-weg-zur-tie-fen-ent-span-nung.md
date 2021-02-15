@@ -62,7 +62,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (82:31)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (112:31)"
 thumbnailId: "9149"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9587716867_268c9cfda2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9587716867_268c9cfda2_z__l.jpg
@@ -71,10 +71,16 @@ subTitle: Von Thai Massage und traditioneller chinesischer Medizin
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (82:31)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (112:31)
 
 <!--
-![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/14127413780_afc53cd050_z-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Auf dem Weg zur Tiefenentspannung")
+<RemoteImage
+  alt="Tiefenentspannung"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Auf dem Weg zur Tiefenentspannung"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_14127413780_afc53cd050_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_14127413780_afc53cd050_z__l.jpg"
+  loadingUrl="undefined" />
 
 **Schon seit einiger Zeit leide ich unter schlimmen Verspannungen in meinen
 Schultern, die dazu führen, dass mir extrem schwindelig wird und ich Schmerzen
@@ -96,7 +102,13 @@ vor zwei Wochen (Der Höhepunkt meiner "Schwindelphase" war erreicht, mir ging e
 so schlecht, dass ich kaum noch stehen konnte) auf dem Weg zur Post spontan in
 den Massageladen zweier Thailänderinnen direkt bei uns um die Ecke.
 
-![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/9587689099_eecc042a95_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Eine kurze Nackenmassage später")
+<RemoteImage
+  alt="Tiefenentspannung"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Eine kurze Nackenmassage später"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587689099_eecc042a95_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587689099_eecc042a95_z__l.jpg"
+  loadingUrl="undefined" />
 
 Eine ganz neue Erfahrung für mich, ich war von Anfang an begeistert. Beim
 Betreten des Ladens sprach mich "meine Masseurin" direkt mit den Worten "Sie
@@ -123,7 +135,13 @@ Verspannung sei nun schon mal vom Kopf weiter runter in die Schultern gewandert
 und müsste nun immer weiter herausmassiert werden. Schwer zu beschreiben, ich
 denke, dass ich es so am besten in Worte fasse.
 
-![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/keep-calm-and-relax-your-shoulders-1-150x150.png "[ ](https://www.flickr.com/photos/99929697@N07/)  keep calm and relax your shoulders")
+<RemoteImage
+  alt="Tiefenentspannung"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  keep calm and relax your shoulders"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_keep-calm-and-relax-your-shoulders-1.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_keep-calm-and-relax-your-shoulders-1.png__l.jpg"
+  loadingUrl="undefined" />
 
 Es fühlte sich nun eher an, wie ein Zug, nichts, was sich nicht mit ein paar
 Fangobehandlungen beheben lassen würde. Ich war unglaublich erleichtert. Der
@@ -141,7 +159,13 @@ darauf.
 Ein weiteres Experiment habe ich heute gewagt: Ich begab mich in die Hände einer
 traditionellen chinesischen Ärztin.
 
-![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/9587716867_268c9cfda2_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Entspannung und Ausgeglichenheit")
+<RemoteImage
+  alt="Tiefenentspannung"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Entspannung und Ausgeglichenheit"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587716867_268c9cfda2_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587716867_268c9cfda2_z__l.jpg"
+  loadingUrl="undefined" />
 
 Beim Betreten der Praxis wurde mir Tee angeboten, eine sehr nette Geste. Im
 Anschluss wurde ich in den Behandlungsraum geführt, wo ich nur ca. zwei Minuten
@@ -161,7 +185,13 @@ in den Händen?" Ich erzählte ihr, dass ich aus diesem Grund vor ca. einem halb
 Jahr beim Neurologen gewesen war, der die Leitfähigkeit der Nerven in meinen
 Armen getestet hatte, die allerdings nur sehr gering beeinträchtigt ist.
 
-![Tiefenentspannung | thumbnail](http://cardamonchai.com/wp-content/uploads/2014/11/9587684999_5cf97b4faf_z-150x150.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Entspannung")
+<RemoteImage
+  alt="Tiefenentspannung"
+  size="thumbnail"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Entspannung"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587684999_5cf97b4faf_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587684999_5cf97b4faf_z__l.jpg"
+  loadingUrl="undefined" />
 
 Damals hatte ich eine Karpaltunnelsyndrom-Schiene für die Nacht verschrieben
 bekommen, die meine Beschwerden allerdings leider noch verstärkte, weshalb ich
@@ -187,7 +217,13 @@ Frau wohl in mich hineinschauen konnte? Jahrelange Erfahrung und eine
 jahrhundertelange Tradition sind hier wohl des Rätsels Lösung. So fühlt es sich
 also an, wenn man ganzheitlich behandelt wird.
 
-![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/9587758235_97e6d86195_z-640x427.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Haben sie Kopfschmerzen?")
+<RemoteImage
+  alt="Tiefenentspannung"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Haben sie Kopfschmerzen?"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587758235_97e6d86195_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9587758235_97e6d86195_z__l.jpg"
+  loadingUrl="undefined" />
 
 Sie sprach mich außerdem noch von sich aus auf meine Hautprobleme an, ich
 erzählte ihr von meinem erfolglosen Termin beim Hautarzt und sie verschrieb mir
@@ -204,7 +240,13 @@ Ich habe beides als sehr angenehm empfunden. Jetzt, zwei Stunden danach, habe
 ich noch immer ein angenehm warmes Gefühl auf meinen Schultern und ich fühle
 mich rundum entspannt.
 
-![Tiefenentspannung](http://cardamonchai.com/wp-content/uploads/2014/11/14741744948_328eecf9d8_z-640x640.jpg "[ ](https://www.flickr.com/photos/99929697@N07/)  Ab jetzt gibt es im Hause Reis jeden Tag einen Kräutertrunk")
+<RemoteImage
+  alt="Tiefenentspannung"
+  size="medium"
+  title="[ ](https://www.flickr.com/photos/99929697@N07/)  Ab jetzt gibt es im Hause Reis jeden Tag einen Kräutertrunk"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_14741744948_328eecf9d8_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_14741744948_328eecf9d8_z__l.jpg"
+  loadingUrl="undefined" />
 
 Ich werde in der nächsten Zeit zwei Mal in der Woche zur Akupunktur gehen. Die
 Ärztin verspricht sich eine schnelle Linderung meiner Beschwerden, von der ich
@@ -222,7 +264,13 @@ Ich bin gespannt, wie es weitergeht und bin das erste Mal seit Wochen richtig
 guter Dinge. Entschuldigt übrigens, dass ich so lange nicht mehr geschrieben
 habe, ich hoffe, Ihr versteht das.
 
-![Ashéra Naturkosmetik](https://www.adcell.de/promotion/image/promoId/172494/slotId/80259)
+<RemoteImage
+  alt="Ashéra Naturkosmetik"
+  size="medium"
+  title=""
+  mediumUrl="https://www.adcell.de/promotion/image/promoId/172494/slotId/80259"
+  largeUrl="https://www.adcell.de/promotion/image/promoId/172494/slotId/80259"
+  loadingUrl="undefined" />
 
 **Info:** Ich habe mich vor den Behandlungen von meinem Hausarzt gründlich
 untersuchen lassen (Vitalfunktionen, Herz, Kreislauf, Blutbild). Zudem habe ich

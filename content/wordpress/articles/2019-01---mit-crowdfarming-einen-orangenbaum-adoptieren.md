@@ -48,7 +48,13 @@ wird außerdem Lebenmittelabfall vermieden – that's it.
 
 ## Orangen aus Castellón
 
-![Orangen](http://cardamonchai.com/wp-content/uploads/2019/01/llum-und-pablo-400x267.jpg "Llum und Pablo Querol")
+<RemoteImage
+  alt="Orangen"
+  size="medium"
+  title="Llum und Pablo Querol"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_llum-und-pablo__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_llum-und-pablo__l.jpg"
+  loadingUrl="undefined" />
 
 Llum Querol ist ein Neuzugang bei den Farmern. Sie besitzt eine Plantage in
 Castellón an der Grenze zwischen den spanischen Regionen Valencia und
@@ -71,7 +77,13 @@ der Lebensraum der Nützlinge, die für den Anbau der Orangen so wichtig sind.
 
 ## Ein Kindheitstraum geht in Erfüllung
 
-![Orangen](http://cardamonchai.com/wp-content/uploads/2019/01/organenbaum-400x225.jpg)
+<RemoteImage
+  alt="Orangen"
+  size="medium"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_organenbaum__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_organenbaum__l.jpg"
+  loadingUrl="undefined" />
 
 Im Umkreis der Finca wachsen etwa 1.000 Orangenbäume in einer Höhe von etwa 65
 Metern über dem Meeresspiegel. Auf der Carrasca Farm wird die Sorte „ **Navel

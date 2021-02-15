@@ -37,7 +37,13 @@ ganzheitlicher Massagetherapeut.
 
 ## Matteo und der Strand
 
-![vegane-strandhaeuser-auf-sardinien](http://cardamonchai.com/wp-content/uploads/2019/06/vegane-strandhaeuser-auf-sardinien-2-400x533.jpg "Matteo liebt Sardinien")
+<RemoteImage
+  alt="vegane-strandhaeuser-auf-sardinien"
+  size="medium"
+  title="Matteo liebt Sardinien"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-2__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-2__l.jpg"
+  loadingUrl="undefined" />
 
 In seiner Freizeit ist er gerne mit seinem Kanu oder dem Fahrrad unterwegs,
 klettert oder trainiert im Studio. Außerdem reist er für sein Leben gern. Bei
@@ -76,7 +82,13 @@ kommt.
 
 ## Es kann nach Herzenslust gekocht werden
 
-![vegane-strandhaeuser-auf-sardinien](http://cardamonchai.com/wp-content/uploads/2019/06/vegane-strandhaeuser-auf-sardinien-7-400x300.jpg "Jeden Morgen schwimmen")
+<RemoteImage
+  alt="vegane-strandhaeuser-auf-sardinien"
+  size="medium"
+  title="Jeden Morgen schwimmen"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-7__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-7__l.jpg"
+  loadingUrl="undefined" />
 
 Gekocht werden kann dann nach Herzenslust mit den Miturlaubern in der
 vollständig ausgestatteten, gemütlich eingerichteten Ferienhausküche. Perfekt

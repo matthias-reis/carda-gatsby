@@ -115,6 +115,12 @@ Eine ältere Dame sitzt auf einem Plastikstuhl und schmiert sich das letzte
 Stückchen Butter auf ihr Brot. Ein Träne rollt ihr über die Wange. Keine Post
 von ihrem Enkel in Deutschland. Auch heute nicht.
 
-![Straßenmusikant | full](http://cardamonchai.com/wp-content/uploads/2017/02/32061383186_8fc5b8b791_z.jpg)
+<RemoteImage
+  alt="Straßenmusikant"
+  size="full"
+  title=""
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32061383186_8fc5b8b791_z__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32061383186_8fc5b8b791_z__l.jpg"
+  loadingUrl="undefined" />
 
   

@@ -46,7 +46,13 @@ beispielsweise in verschiedenen Ländern Livestreams statt.
 
 ## Es gibt keinen Planet B
 
-![Earth Day](http://cardamonchai.com/wp-content/uploads/2020/04/Apart-But-Connected-CREDIT-FAVIANNA-RODRIGUEZ-400x500.jpg "Apart But Connected. Credit: Favianna Rodriguez")
+<RemoteImage
+  alt="Earth Day"
+  size="medium"
+  title="Apart But Connected. Credit: Favianna Rodriguez"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Apart-But-Connected-CREDIT-FAVIANNA-RODRIGUEZ__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Apart-But-Connected-CREDIT-FAVIANNA-RODRIGUEZ__l.jpg"
+  loadingUrl="undefined" />
 
 Weil es keinen Planet B gibt, auf den wir ausweichen können, wenn unsere Natur
 zerstört ist, gilt es unseren Planeten zu schützen. Darauf wird mit dem Earth
@@ -74,7 +80,13 @@ diese Maßnahmen dienen dem Klimaschutz und dem Erhalt unserer Natur.
 
 ## Grüner Städtebau
 
-![Earth Day](http://cardamonchai.com/wp-content/uploads/2020/04/Our-Planet-Our-Health-CREDIT-JACKIE-FAWN-400x601.png "Our Planet Our Health. Credit: Jackie Fawn")
+<RemoteImage
+  alt="Earth Day"
+  size="medium"
+  title="Our Planet Our Health. Credit: Jackie Fawn"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Our-Planet-Our-Health-CREDIT-JACKIE-FAWN.png__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Our-Planet-Our-Health-CREDIT-JACKIE-FAWN.png__l.jpg"
+  loadingUrl="undefined" />
 
 Hinzu kommt die rasante Veränderung der Baubranche in den letzten Jahren hin zu
 grüneren und ökologisch verträglicheren Bauweisen. Earth Day Präsident Thomas

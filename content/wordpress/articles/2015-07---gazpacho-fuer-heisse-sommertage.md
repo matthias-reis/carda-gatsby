@@ -35,7 +35,13 @@ subTitle: Ice Ice Suppe!
 
 Ein Gastbeitrag von [Tofuwunder](https://tofuwunder.wordpress.com/)
 
-![Leckere sommerliche Gazpacho aus der Küche von Tofuwunder](http://cardamonchai.com/wp-content/uploads/2015/07/image11-640x625.jpg "Leckere sommerliche Gazpacho aus der Küche von Tofuwunder")
+<RemoteImage
+  alt="Leckere sommerliche Gazpacho aus der Küche von Tofuwunder"
+  size="medium"
+  title="Leckere sommerliche Gazpacho aus der Küche von Tofuwunder"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_image11__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_image11__l.jpg"
+  loadingUrl="undefined" />
 
 **Ich freue mich wie ein Tofuschnitzel! Zum einen, weil wir endlich mal einen
 ordentlichen Sommer genießen dürfen und zum anderen, weil ich für meine Besteste
@@ -80,7 +86,13 @@ Und dazu passt ganz hervorragend etwas frisches Brot.
 
 _Guten Appetit wünscht Tofuwunder!_
 
-![Caros Rezept ziert jetzt mein Rezeptbuch](http://cardamonchai.com/wp-content/uploads/2015/07/Enlight11-640x640.jpg "Caros Rezept ziert jetzt mein Rezeptbuch")
+<RemoteImage
+  alt="Caros Rezept ziert jetzt mein Rezeptbuch"
+  size="medium"
+  title="Caros Rezept ziert jetzt mein Rezeptbuch"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Enlight11__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Enlight11__l.jpg"
+  loadingUrl="undefined" />
 
 Wer gerne noch mehr Rezepte aus der Feder von Tofuwunder aka meiner lieben Caro
 kennenlernen möchte, kann dies jederzeit auf ihrer wundertollen
@@ -94,7 +106,13 @@ meldet Euch einfach bei mir! Ich bin [per Mail](mailto:info@cardamonchai.com),
 [via Facebook](http://www.facebook.com/cardamonchai) _ _oder per Kommentar unter
 einem meiner Artikel jederzeit zu erreichen. Ich freue mich auf Euch!_
 
-![Caros Gazpacho | large](http://cardamonchai.com/wp-content/uploads/2015/07/image1-800x569.jpg "Caros Gazpacho")
+<RemoteImage
+  alt="Caros Gazpacho"
+  size="large"
+  title="Caros Gazpacho"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_image1__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_image1__l.jpg"
+  loadingUrl="undefined" />
 
 <pre></pre> [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 
