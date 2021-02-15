@@ -15,23 +15,27 @@ export const HomePagination: React.FC<HomePaginationProps> = ({
   onShouldLoad,
   isLoading = false,
 }) => {
-  const observer = new IntersectionObserver((intersections) => {
-    if (intersections[0].isIntersecting && !isLoading) {
-      onShouldLoad();
-    }
-  });
+  const observer = React.useRef<IntersectionObserver>();
 
   const closingEl = React.useRef<HTMLDivElement>(null);
   React.useEffect(() => {
+    if (!observer.current) {
+      observer.current = new IntersectionObserver((intersections) => {
+        if (intersections[0].isIntersecting && !isLoading) {
+          onShouldLoad();
+        }
+      });
+    }
+
     if (closingEl.current !== null) {
-      observer.observe(closingEl.current);
+      observer.current.observe(closingEl.current);
     }
     return () => {
       if (closingEl.current !== null) {
-        observer.unobserve(closingEl.current);
+        observer.current?.unobserve(closingEl.current);
       }
     };
-  }, [closingEl]);
+  }, [closingEl, onShouldLoad, observer]);
 
   return (
     <div>
