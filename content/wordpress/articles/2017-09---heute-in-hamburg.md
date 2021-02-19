@@ -28,8 +28,7 @@ date: 2017-09-23T14:22:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "17904"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__l.jpg
@@ -55,7 +54,8 @@ Ich mag Deine sonnigen Lachfältchen. Sehr sogar.
 
 Bleib so wie Du bist. Für mich bist Du perfekt.
 
-[gallery type="rectangular" link="none" size="large"
-ids="17904,17903,17902,17901"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21909719_2029459023943917_7115437731911565312_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21879125_1558910927485155_4946220205069041664_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21879125_1558910927485155_4946220205069041664_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21879098_1730322610603699_8877470175587205120_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21879098_1730322610603699_8877470175587205120_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21911166_160247824558241_9221901044915634176_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_21911166_160247824558241_9221901044915634176_n__l.jpg"}]}
+/>
 
   

@@ -37,7 +37,7 @@ subTitle: Artisten der Lüfte
 <!--
 Diese Aufnahmen sind mir im Januar 2010 in Istanbul gelungen.
 
-[myflickr tag="anneseagullsistanbul2009"]
+<Gallery name="flickr/anneseagullsistanbul2009" />
 
 <blockquote>## Die Möwen
 Die Möwen sehen alle aus,

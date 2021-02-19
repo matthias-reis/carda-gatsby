@@ -44,7 +44,8 @@ subTitle: '"Drones" ist endlich da'
 size="medium" title=""Drones" - Das neue Album von Muse ist da!"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-2__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-2__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQcIBv/EAC8QAAIBAwIFAgMJAQAAAAAAAAECAwQFEQAGBxIhMUETURSBsRUiMjNCYXGR8PH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIE/8QAGxEBAAICAwAAAAAAAAAAAAAAAQACAxESITH/2gAMAwEAAhEDEQA/AEVtPbNfuGtamt8akovPJJI3Ikajyx+g7nW22/s2rjtdvu9fbJ/smarjhcMpjdwxxgA4OD4PbRPZO56Wy2i0wWiki+NqqVZaliTgSgspY/IZxreXDcE26rDHQ0oLSyCOU1kiM0TFWyAvnHT/ALrWTJblonXiw1KbTcGT8P8Ab0VO0MdplqZudlaWWVgEUK+SCH6/hUjp+tc99KLeW2o7VuiS30qyinaGKZfVHXqmW/o5H8gjVCTCult8kVVYIKqJ0dWNLXgEhkjTs6AjpGv+7rbiR6l23HRVQtddQMscqzfElXVmeUyYUr4+8e/v7aKlrVXbLkrWwBFw9HcLFPSUl3t1XQyvGJAlSvIXjPt+2c5HyOqx4U11hr7DBFS26jp1UflpCqdemT086T1Vwz3nvmvpqq53Pb9II09OOOCOQIgZizEKq9yxJJz1Oi21+FHEWzSJNbrvY4EywUSPIwIyRnAHTONNdLAr3DLAtTyUHVJakjKj04xyklmPRR76nnipeLcKhlp5AwVx1U4yM+2tbPsDiRXTSy1W7LHEZAByxU0pCgeB9dCangfuKufF03rAYXOJFhomJI845mxotC9snLXk/9k="
+/>
 
 **Gelegentlich mag ich ja poppige Klänge. Aber die sind nicht das Einzige, was
 das neue Musealbum zu bieten hat.**
@@ -78,7 +79,8 @@ frech, roh und verrockt: &quot;Drones&quot;" size="medium" title="Rotzig frech,
 roh und verrockt: "Drones""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-3__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-3__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QAKhAAAgIBAwMDBAIDAAAAAAAAAQIDBBEABSEGEjEiQVETFGFxI6FEkdH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAE/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACAyEEMRITIoH/2gAMAwEAAhEDEQA/AFrtfTW2yyy3Z3ENIu8iDJIEfcQo/PsNE7dLbI6Rrt+6dsrBg8M0n0WVuMeDyD+/fVr0ztduaIWdyqRyQyhY1UrwOAR+MHPtzxq6sbYaBgNILXjkYu6svcgzj0HIPap5xjkHWtlV7nRXEaIHVeg3t3pq243dwobRYi+pFJHKzh1BBLsrNjtDFjg8nBI50rLss1CS/RrbhFajil7PuqwIWVclcqSAcE4+NaG6jglm2K1YhlEMEidrSRSS/wArAnHaMgBRnGTnOM6RHUm0fYXWVSCJ4CwwfwGGfg5XQ47e1n2P5Hya0qBjmg9g+6vRUmkgSCOGJUJDMe84GT6icE4GcfGjmpUjuzzs4IXsVe0+CQPP96D9v6i2mkFVrdXhQSDOgAP7J13wdfbPWLk7ntgLMP8AJj4Hx51Kth0EaWNrIN+qJDHaq2HD1wQVdwAIx4/7/rSF64mSvf7Ywk0cTBmKrjjIHn+vPvpudRdfbI7WStupIJ/UTDMr4I9sZ8aQ3UtgXbTNFMkneSfSQffjxqmEfLZqHK/Ou5//2Q=="
+/>
 
 Aber ich möchte nicht vorgreifen. Beginnen wir mit dem Opener. "Dead Inside"
 kommt wild daher, verspielt, täuscht alte The 2nd Law-Manieren an und bricht
@@ -102,7 +104,8 @@ Rock´n`Roll, aber so richtig!
 "Drones""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-4__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-4__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAABwMFBv/EACwQAAIBAwMDAgQHAAAAAAAAAAECAwQFEQASIQYxQRNhIlFxgQcUIzJjkZL/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAECBP/EAB0RAAIDAAIDAAAAAAAAAAAAAAECAAMRBCESIjH/2gAMAwEAAhEDEQA/AAy5sK2611ZABHFNUO6IONik8AfYDVnY7Pca2R3Spli53N+o+WOPIB1JY6GWWRVSNWLuDhl785xpSioIZoNtRC1JOcAhk2q2PfV3WlRizropVjrQi6ip7hQwsjXaoqYX+GSP15CPoyk4OqKGqnSN4oZnjDfux3P376auuqWCCKCrpKGnLRIVkgIJEinzn5jjHjQu6BK84iZEYkqhOSAeRkj7anHsNi+wmeTUKm1DFfpKkglO6XJbb8OPn7+2k6mWI0YjqU3qqjAbv28HQdYOo4qQASSxj3Lga39B1jSS0wijmWV8cCIGQ/0oOisRti12DPsi61Whio5QJX9ADCxKw3E+RjwNDFxkaSt/MyDG5wePAHgaVr5SXm8c22wXap5yu2glIb65XtrMn8LuvK3HpdLXQD+VUiA/0w0tACjuFyH8uhP/2Q=="
+/>
 
 Im Anschluss das schon beschriebene "The Handler", das mit harten Passagen
 aufwartet, teilweise roh, teilweise verspielt ins Ohr kriecht und endlich mal
@@ -123,7 +126,8 @@ oder?
 title="Elektrisch: "Drones""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-5__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBBQgE/8QALRAAAgECBAUDAwUBAAAAAAAAAQIDBBEABQYhBxIxQVETIkIUI5FhcYGhsdP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACESET/9oADAMBAAIRAxEAPwBB0jS5tF9O8QMqsPujr1Jtbt2/GCePQrzuy0UFRMFRSBIQrudgQqi5O5Ow7C+LbhHp/wCugqKncXmKK67EWA3B83w+tO6dhpuaseMVWYMxk9WVgHJ/Rvj+3Tzje18cJVKCazPjcLszU8tRQSUhMbSq8xPLYdza5G9h07jA22nGSONnUxgtyMbX5Te1j/O18bHqmjFOqOBFJJ7UVyASfAPT8YRvEzTk1Xk7UlDl7pVidHjgiIKulyGKtsCBcXBsRtt3xHovJTQO5LzgxlVVT6Qy1lakjEymb3Ru7HmYkfIDpbDFlFS6TRwO9S6gD06crTSW7lHJIuPB2PS+Fdp3UtRl+VUlDLQ5lTRwQRxXioZZGNlANyFP9YJqTWOVQFCy5spHc5XVf88Ky7CiB1htRVE1PTwpmMs6wyXRXq4442QgXCPysVubGzCwPSwNsDusmaahknyuFqt6I+p9pls7n2CNWO3zJY9AB5xEfEnJY4Qkz1ZHcPltSv8Ase+OLPtY6ez/ACWtyqjzDlqqyB4IklpZlAYjbqgFrjyMLNibdn//2Q=="
+/>
 
 Was ich zu "Aftermath" zu sagen habe? Ich neige ein Wenig dazu, Euch zu sagen:
 Bildet Euch selbst Eure Meinung. Im selben Atemzug bitte ich Euch aber auch

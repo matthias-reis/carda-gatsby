@@ -41,8 +41,7 @@ date: 2017-08-11T10:09:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "17556"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36452318236_658e7562a5_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36452318236_658e7562a5_k__l.jpg
@@ -57,7 +56,7 @@ subTitle: Lieblingscafé mit Herz
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcCBAj/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhEyIxQQcIFKFCUWH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBP/EAB4RAAIBBQADAAAAAAAAAAAAAAECAAMREiExBCJB/9oADAMBAAIRAxEAPwDnyzQ101RHHTCcuwK5Q5IJGOhkZOrh+3bblfS71uZrKSWJZLc3HyjJYiWM4/06c6zYM21KK3o15qZLzWssSU1BTg9kZ6z6mHY7wNbmxrvfLXuerob3cZYIEikhWZIVYsRIoPjKg8jgHoE+xzpKVPbXJpZQVt9jBuSDybirFWJgsskjuQMY9eBj96NS2aBautulfNHNLBAocOIfGxjTJY46wSM9HRoHyVvrci0GMxtO5Zdo7dWGgqoGqImlkN1qOMitS5wjKwZsHtV4fxOdL/TrdVstUiz0yMomgYUcs2ePJm5OxyemYDIJ76x86o21bkW406UFbPTweJvI6SR+iZ1IPJWx0xI7Dde5HZ1Zmxr9ta6UkNs3My225wMfxqyUskFSpOQrsDhXUkgewIx86uy5jHkSpxOXYnT1O5q/dFTFwuVRSzFzU1DwOqiDvkXOOOOGf1jRqU3G60+1aWKFainmRp1eGqMuIkGMllCnIZcH+wwODo0FoqvYw12bgtP/2Q==" />
 
 **Heute möchte ich Euch eines meiner Lieblingscafés hier in Hamburg vorstellen.
 Es befindet sich sehr zentral in der Großen Brunnenstraße 68 in Ottensen.**
@@ -92,7 +91,7 @@ ungerechte Welthandelsstrukturen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36498656565_27d82581fb_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36498656565_27d82581fb_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREAEiEGMUETFCKRFRYjQlFh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAxEEITFhEkFxsf/aAAwDAQACEQMRAD8A0t9Fa06eqLner3FbKenkWMK0XqPJkA5VQQWx/QB45001t6eiQv8AqIgbQ3NrnJ2lQwbABO0g98YyCO4Ok5On57jZ6aqgpTNUW6uwse5QQ7IFyNx527W7Z5IPjTVXaXqPyC1FUhryjye6kRiQMh2fOCFTdvGR951E0+kpsqDMN/vcrWXOrkAyNcrVb5rGLxZ75S3SkFR7ZhFC8bK23dyG57Y8edGs47L7Kjq7k0DQyVTQQyKwxltjPuB7EkNyQTyM+dGgaqhUtKpwMRFbkqCZ0dyopbhaKyjpadaiaO/LKkbj9sFWI3NjwA32RjnGrsU+97hZxeZZrlBb4YKqOWlCJ8ZmwsR243NvGfkQP8xxHvFLeqC+X+ki6dlrrfW1JqEkNK7gDuGRlI2n5fY0lLJf09d1t15ikmRY3cQSbiFHxOSp7c/Zz31SpvWusI2ds+u4V6y7eQiNdbprdZ0apd0ElSsKUoqjNHCIoyML4UAsVAH8UUnknRpXqC+V15loKMWuSmEczuxET5dnxkn4gDtwAMc6NZAC6xnHG35NMlFCmf/Z" />
 
 Solidarität und Gerechtigkeit stehen im Handel mit den ParterInnen immer im
 Vordergrund. Der _El Rojito e. V._ möchte seinen HandelspartnerInnen die Chance
@@ -136,7 +135,7 @@ Damit kann man die Menschen beim Kampf um Ihr Land unterstützen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36452318776_7ac0ea3a57_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMFBgcCBAj/xAAoEAACAQMEAQMEAwAAAAAAAAABAgMEBREABhIhEyIxQQcIFKFCUWH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBP/EAB4RAAIBBQADAAAAAAAAAAAAAAECAAMREiExBCJB/9oADAMBAAIRAxEAPwDnyzQ101RHHTCcuwK5Q5IJGOhkZOrh+3bblfS71uZrKSWJZLc3HyjJYiWM4/06c6zYM21KK3o15qZLzWssSU1BTg9kZ6z6mHY7wNbmxrvfLXuerob3cZYIEikhWZIVYsRIoPjKg8jgHoE+xzpKVPbXJpZQVt9jBuSDybirFWJgsskjuQMY9eBj96NS2aBautulfNHNLBAocOIfGxjTJY46wSM9HRoHyVvrci0GMxtO5Zdo7dWGgqoGqImlkN1qOMitS5wjKwZsHtV4fxOdL/TrdVstUiz0yMomgYUcs2ePJm5OxyemYDIJ76x86o21bkW406UFbPTweJvI6SR+iZ1IPJWx0xI7Dde5HZ1Zmxr9ta6UkNs3My225wMfxqyUskFSpOQrsDhXUkgewIx86uy5jHkSpxOXYnT1O5q/dFTFwuVRSzFzU1DwOqiDvkXOOOOGf1jRqU3G60+1aWKFainmRp1eGqMuIkGMllCnIZcH+wwODo0FoqvYw12bgtP/2Q==" />
 
 Die Kaffeekirschen für den _elrojito_ Kaffee werden handverlesen. Bei allen
 Sorten handelt es sich um Hochlandkaffee. Er wird im Langzeitverfahren schonend
@@ -178,8 +177,9 @@ für "Refill it" [findet Ihr hier](https://www.refillit-elrojito.de/).
 Noch ein Artikel, in dem es um Kaffee geht: 
 [Grüner Kaffee - Gesund und gut für die Figur](/andere-blogs/gruener-kaffee-gesund/)
 
-[gallery type="rectangular" link="none" size="large"
-ids="17549,17547,17546,17548"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36452318526_2be00c3df1_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36452318526_2be00c3df1_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36101689650_bbf8f092e6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36101689650_bbf8f092e6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36101689570_2e951a888f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36101689570_2e951a888f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36452318236_7722bb3aac_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36452318236_7722bb3aac_z__l.jpg"}]}
+/>
 
 **Hinweis:** Bei der Erstellung dieses Artikels wurde ich nicht beeinflusst. Es
 handelt sich nicht um Werbung. Ich wurde nicht dafür bezahlt oder auf andere Art

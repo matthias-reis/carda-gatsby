@@ -128,6 +128,6 @@ was das ist,
 1.  Erster Mai
 1.  [September](/2019/09/september-im-loki-schmidt-garten/)
 
-[myflickr tag="annelokischmidt42018"]
+<Gallery name="flickr/annelokischmidt42018" />
 
   

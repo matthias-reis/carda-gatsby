@@ -19,8 +19,7 @@ date: 2017-12-14T07:59:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "18687"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-1-von-1__l.jpg
@@ -63,6 +62,8 @@ Esst die Maronen so heiß, wie es geht. Dann schmecken sie am besten. Dazu reich
 Ihr Apple Cider, Tee oder Glühwein. Natürlich passt auch ein nettes
 Weihnachtsbierchen.
 
-[gallery type="circle" link="none" size="medium" ids="18679,18680"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-1-von-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-1-von-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-2-von-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_12_Hei%C3%9Fe-Maronen-2-von-3__l.jpg"}]}
+/>
 
   

@@ -123,6 +123,6 @@ einer leckeren Tasse Tee, ein paar Keksen und einem guten Buch. Wir lesen uns!
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
   findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
 
-[glry name="2018-gumbies-slides"]
+<Gallery name="glry2018-gumbies-slides" />
 
   

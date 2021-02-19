@@ -61,7 +61,7 @@ Viel Spaß mit den Bildern. Ich wünsche Euch allen schöne Feiertage! Geht es
 entspannt an und denkt auch
 [in vollen Zügen an die Achtsamkeit](/2017/12/bahnfahren-am-wochenende-es-weihnachtet-sehr/).
 
-[myflickr tag ="anneplantenunblomen20171224"]
+<Gallery name="flickr/anneplantenunblomen20171224" />
 
 ## Wegweiser Planten un Blomen
 

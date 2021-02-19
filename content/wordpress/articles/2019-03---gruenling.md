@@ -59,7 +59,7 @@ Spurenelementen und Nährstoffen.
   title="Im Grünling stecken viele gesunde Zutaten!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-03-07-smoothie-gruenling-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAJhAAAgEDAwQCAwEAAAAAAAAAAQIDBBEhAAUSEzFBUWFxFCIkMv/EABcBAQEBAQAAAAAAAAAAAAAAAAUBAwT/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAwQSIRMxgf/aAAwDAQACEQMRAD8AYSUtWNug3GAQmCQMEVbAoLYVVwABgX1bFBUU/wDVNVyR45lesSHTyDjHwbZ1vnaKba6CGjngo0iDssNVcoWJGQw8C3Y6xrU1FCYUMu39MHjKfyVyOX6gWOQL+vOjW4crUyA3Fm5bhTALHWFa1YLPFWAEtC4Bsb92XNj4F8aNUbjuEVNRzRxoJnbnDlLKJGPDifdrSH6vo0gqBBRJlU2Oq+zbHIzUPGWPqWyCpyD9aRbtGJFMVLTvM7WPERnkD8nURlOQWMsD/piGwRpvUSRddaelnEhiUq78unbiuSCe4+POhPFa8jEX0cZfo1Fb0FQaaGTepUEgl6rQxd3yLlzfv3wPZ96NdzcZKVZHuWIBNzo10Yt3MB2bmzaWH1U//9k=" />
 
 Gib alles in den Mixer und warte, bis sich ein schönes Getränk ergeben hat. Das
 Leinöl gibst Du kurz vor Schluss hinzu. Es löst nicht nur die **Vitamine** - es

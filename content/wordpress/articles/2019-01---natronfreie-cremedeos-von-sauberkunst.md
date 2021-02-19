@@ -33,7 +33,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Unexpected token (15:15)"
 thumbnailId: "23212"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_1__m.jpg
@@ -60,7 +59,8 @@ sich, denke ich.
 Cremedeo "Zeus &amp; Aphrodite""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_6__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_6__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAqEAACAgEDAwQCAQUAAAAAAAABAgMEEQAFBhIhMQcTQWEUUSIycYGRof/EABcBAQADAAAAAAAAAAAAAAAAAAIDBAX/xAAkEQACAQIGAQUAAAAAAAAAAAABAhEAAwQSITFRcSJBYYGhwf/aAAwDAQACEQMRAD8AV4DtFKhy/ctxoqsk0deOvIFI6FsSOSRgElSAoyPjOqXFSqWrCLbr13aVuj3YAUYN57/vP71gvQulFX4DH75WRr07WXkjlDMjZCqG/RAUHGfnxrebhai2jZr26mR7U9OtJPDWEfSzuB2/j5Jzgf21kYjD33uCBKacR7yOu/ilbYIJGlR3eISPXCStXrPuVGo8SsegMsC9Hl+2Fw3fP+tcb1ao/gmF36meWaV0k6F7rgBssMZ74I+j8aofp5tsq8PWfcI+vc7QNiRLEZDtYywYuT5GCoA+AukOf1on4vcW20AQVSzrH4Scd1Yf8H+Tp+KtkUED64jf8omyrK2vlv6d1OfSWqtW5LvfuWFiL/hrDBKIvcdh2JYEYwceRg51WeMcwW1uu67M1ovbqxgxfmRrEOvx/UvY5JABzn6+dGjUoBNwiaIcpbA5pbm3Nd04lttYwrXmt2JVIVnJjaPpPVj5JDED6z96k3Lec7zymFYb7QwVI+6QRZ6SfvPc6NGi0oMkzVdrrPcyHav/2Q=="
+/>
 
 Ich habe mich für meinen Test für die maritime Note "Blaue Lagune" sowie die an 
 eine Babycreme erinnernde "Zeus &amp; Aphrodite" Variante entschieden.
@@ -95,7 +95,8 @@ lange durch. Noch am Abend kann man den feinen Duft wahrnehmen.
 "Blaue Lagune""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_9__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_9__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAKxAAAgEDAgYABQUAAAAAAAAAAQIDBAURACEGEhMiMUEHFGFxkSQyUYGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EACURAAEEAQIFBQAAAAAAAAAAAAECAxEhABJRExQxQfAiYXGBwf/aAAwDAQACEQMRAD8AlXCVqhuF1hpk6vSaQqGZCeVfPfyntXGN/wAao9z4cthtdfTpRQ0i00JkWpXOS6AftLY5gQMb/fzrncJ01NTWaNYCjzdNJUheQKJXOCST5Y77An140zXy1S3uzVVuhiaGCcRQmQHA6hIOB7IwCDj1qby5mJuJNUQewO+EbSgDSUzNTsfj9+8y4Ls9NScH2oSrU/OVUXzLrEd+/u3B22HLrXv1AI7dW1KyJ+mieSRJkKMuAT6yD+NOVVAjsJrbiaExiDkjYcygHbY/4fppD+Ks09PwvUocpLXslOqZy3TXuYn67Af3o/qD2laaHt23nzr0xS1BpujQxSoeIbfwxYaaeShapSnVYVYrzGV1PnPN24/jfVAbioutBNHBkyAzJyxlgpC7nJ3yAfe/20aNJceXwdU3nQISHCmPIxdvXxIS23uWiqqNpqcojpUQsSQGAO+d/J9EDSl8Q+J6e/T0TQNOYIojjqg7Ox3xufQX2fejRrbrhUnTkt1xSiUE1ef/2Q=="
+/>
 
 Einen weiteren Pluspunkt gibt es mal wieder für die plastikfreie Verpackung.
 Hier denkt man bei Sauberkunst wirklich mit. Klasse! Die hübschen Döschen kann
@@ -149,7 +150,9 @@ Seifen sind im Einsatz und bringen unser Bad zum duften. &lt;3
 Wer mehr über die tollen Seifen und festen Shampoos von Sauberkunst erfahren
 möchte, kann gerne [hier klicken](/2018/02/unboxing-sauberkunst/).
 
-[gallery type="rectangular" link="none" size="medium" ids="23216,23213"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-sauberkunst_2__l.jpg"}]}
+/>
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

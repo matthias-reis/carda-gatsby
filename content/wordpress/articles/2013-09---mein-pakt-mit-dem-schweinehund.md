@@ -40,7 +40,8 @@ date: 2013-09-09T15:45:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "7087"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_foto__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_foto__l.jpg
@@ -55,7 +56,7 @@ subTitle: Ich habe aufgehört zu rauchen...
   title="Hässlichstes Bild in meinem Blog bisher und in Zukunft"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_9707307969_f3e68eba49_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBAf/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEBRESAAYhMUFRBxMiYTKBkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4MiMnd9QrVfqc1TJVILjiAjI2WSQAb9B0HHbTPStq0uHtyn7gFPM6NIkqYSmQo3snL5WsE2OB86D7PipjGQw2oqYqMRxxKXQLlbSuxHFj8rHW3Z8Rx+ZGa9xwNl3HEqJAFz26aA3617SEaj0SowIbUcFYjFlptKLBYyRcJFuuQv5OuMupxVbx/uro3bs81HZyng2JElFISWo6fipx5DYW2QfOQHbUR1uOmJU3o6CSlqyLkWJsBfjQNVenopNcoaAVKRDhpS5zdRzyPP3iU6I7QqoiyWFpVgMgbfV+mt/qP6XV6PUpNQhuM1Jhw3HsjFSEgAAY+AAB17aRSJFPeQ1JQuOu34ujE2/egtumVGNUocOFOqMhAdihKVh8MBKvbFuEWJtx1UfvUQb0juRN01Nh9BQ6h9QWk9lX5H901Peoe6320ojzTFQlAbAjIQ1wAB1SMieOpUdI1VekvzXHJrqnX1cqUo3J78nvoP/2Q==" />
 
 **... und das vor ziemlich genau vier Stunden. Um 13:30 habe ich die letzte
 Kippe in den Sand des Aschenbechers vor dem Bürogebäude gedrückt. Jetzt meint
@@ -109,7 +110,7 @@ in dreckigen, verklebten Automaten versenkt?
   title="Der fiese Schweinehund - Ist er am Ende gar nicht böse?"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_foto__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAQP/xAAuEAACAgIBAwIDBwUAAAAAAAABAgMEBREGACExEiIHE1EUFSMyQWKBQ2FxkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAID/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQRREkFh/9oADAMBAAIRAxEAPwDvw14dgrPHcLZsYPEWV+y1lsfNqq8ssksYf278kKQxABLbIHjql1eDcWmaKCDh+IR2/q2MTHGn/V2x/br+R0T+Dk1ZOF0lz0VewKlenkKzTqrLARCiKy7G1IGiW/cdeD09gy+Dy/IsZHOtexcrSSyVXevLG1eZV/EUhh2b0EH6j6dx1A/kWMpamVmNU4NxfIYmvZfiuCiklUllWhFoEMV7e3wdb/nqb/FnguEx/Es1apYbH15IazOskVZUKkEeCB26pGL5VbXGV5lp1/ukNNHHJI5id0WRgjA9wSRrsASd7+uhnxUho8q4byDJeudVo0TJDDIgHf3+7RHb3L5HkDpQsGzqNXjNTy2hPLAm3i+IcYzVWMT1fuepDPEWADsFXXq2DsD+/bsO3Wk/IGt4+OKjSqVZZa6q89GEEwI3zI0UCNQQfUFI/MQH1r3dFeDc+w0PBsZjZc7jqlhKUcLfaAJBGQADtG7HtsaPSOLk/HZnYTcy4/HA6NHIkcVdWlX1Bk9RI/TWu2v99+uhFtibTkCwDC9vfyOKubw9PCvQx8tZZKMRVaWQkWu4AJI9at+UHRPj/PUl5VPffjXJrhj3TsYuVHlFVovnb0Vcu7Ev32B40P0G+tTOZfiV6qtaTmOIFVVUfKgjrr33tiGHuHq7+ob0d9CeW8i43T4TlsThstHZ+dEyxh5zK+iRpQfGhropp1B61MIQoye8z//Z" />
 
 Ich beginne, Euch zu langweilen. Ich weiß. Ihr kennt die Gründe. Daher komme ich
 besser schnell zum Punkt. Ich habe wochenlang überlegt. Die Stange aus dem

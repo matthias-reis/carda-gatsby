@@ -68,7 +68,7 @@ ist nicht nur gut für das Grundwasser.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKhAAAQQCAQMDAgcAAAAAAAAAAQIDBBEFIQAGEkETIjEUYSMzQlGRobH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAxESBCGRIjH/2gAMAwEAAhEDEQA/AGnUfWMeWxHhYhLjrrUoJWXGaUSkWUlKvgg1d61zvIENEtp23obshwOKdxhacaoJpXsIBBuwR99aPF2GcwcbHhxOETPyCvzpclw24P1bvV6PtF6+fPKmBThHIsg+ozKCZS1oS84kBPgJ0bIr+eQL+WqjcHPvUu08YY11x53LfWU1yDFivSkYpxlSCwuQwO5TpNdpUjRQaFivOuVMNKxcRxWNZMsPunu73m0guaukp+Rfi7/rk5GUj4OUt+LFcQJTqwl95xYab0Pw0LOwBRII93i9cTzMhLkNIymWdlpX66W4i/RJbNAlQCjsnyLJ3fGKrvoNAtoBTGIlxuXiTZLbstUlyL2nuSFK9NbhOu/9xXjY46alO5bqeO9j4LL6mkFtJR2pS2TWrPwAP91w4cQdAhIEaFhK7TS57F5mfg5IjycXN7Eha48dxRWgpV3e0EBJOj8VfMxjuqXPonWpNuRHEH1WVE19lAnzw4c0YaqGXowEO5Kt+T//2Q==" />
 
 Mit ihrem Walnussanbau unterstützen die beiden Veganer\*innen soziale Projekt
 und pflegen langfristige Partnerschaften mit verschiedenen Organisationen. Der
@@ -107,7 +107,7 @@ und Schulen übergeben.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKxAAAQMCBAQFBQAAAAAAAAAAAQIDBAURAAYSIRMxQWEHFCIyUUJicYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUAAf/EABwRAAMBAAMBAQAAAAAAAAAAAAECEQADMUESIf/aAAwDAQACEQMRAD8AU5mRSWfDyEukS0slpPFQ2lWrzCSAVLVf2kkfo7Y6FA8OYZoDFJYkgOQoyXpDzstxRS6v1KTZJ0gC59I/PXETVdiKyc0sLadVUWVcZzZRce1WCieiQNgOXba+KGU6xUpdFrU59TD8DzQaQ6Dp1LA9S0n2kkWBAFzpv2xEblQ0EXWhxv8AIIM/ctpuWatTpsOlUyfS+E3LXOTPcWUEhKrpQpCt1HmNuYHS2FecZdZrebFU+bJhRY/AcfZWFE8VAsFBCfpO/fkTi3V5cxUNEGBSaqtx8FoOBor4SeqySb9dr/PbCCrVeORAYlMR3J8UOKcL7Z9oGwFwLbgXA+MAlYUiW5ys962jbIzzINNC4jIcCXVOJ1KEZpAAGkXtc7DSLAnpjVwqfJpVDiUDKbvnEsqUS86UNraJN1KWeSUqURYi5Om1jbBgwqLRL2cDtD10NkPECFXYDDYdqkQhs6nVRws20g3Go2vvzI/mG+bKDlpWVoDNZYVLkGI3IdfU+rU0tYTcpsfuG1t+t8GDHVAUmebMxYC+7//Z" />
 
 Wer Baumpate wird, unterstützt Silvia und David dabei, dass aus einem kleinen
 Walnussbäumchen ein stattlicher Baum werden kann. Dem Baum, den man adoptiert,
@@ -141,7 +141,7 @@ Kilo kerngesunde, leckere Walnüsse!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-19-hof-windkind-walnuesse-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAoEAACAgIDAAEDAwUAAAAAAAABAgMEBREAEiETBiJhFCQxFTJRcYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMF/8QAHxEAAgMAAAcAAAAAAAAAAAAAAAECESEDIlFxgeHw/9oADAMBAAIRAxEAPwDOfTFFqtfHGFkif9QYrKOUlLSNsRj4zoqT56P98rJSD4u5Uy0McctqWOva03xSr3IDxxxjfZSGOjvZJPvGsel2N579+vixFSiNVUU6JOlfvG2iQV881sf52eXKs92hhrr5u7JHclb90bFUMZ5emusIH4Hg9IO/zzAXNbNtuqQldoVylmRLEMVxpPhWCVykkFWP0qzL92j1B/PyAcUOJuFI5bcUVepAHcY1VHdEk/tVXDdgxZf+A637yx/UKy4vFWDjJRC6TQ2chfMZaSEKQZSCdtIQo0NA+EfjnHMUr9brFj8fMzLHHehu5SQfKChUdULD7tAA6Otdjvjhw9wHOlTMhiK9axjqJiw0qjI5FOosWunWFfT4T5vqx16SSv8AHNdcy1mw+Km/d1sFLaM9dY5I2IWMOzsVPoU9Ade/yTrhw5WMU96eiDk/vIVGovjEvPBds22kkt2GkULHFA7Nt442+0SdNlQBsbJ0N8V+qbOJnqSZS9euBGeMJTeZjYii8B2d+dtKxB3scOHBLb7Des//2Q==" />
 
 In regelmäßigen Abständen gibt es Besucherführungen auf Hof Windkind. Die
 Termine werden auf der Windkind Hompage angekündigt. Dort kann man unter anderem

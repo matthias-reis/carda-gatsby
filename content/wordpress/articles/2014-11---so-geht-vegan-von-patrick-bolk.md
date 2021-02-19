@@ -54,7 +54,7 @@ Neuling hätte ich mir ein solches Buch auf jeden Fall gewünscht.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAgX/xAAsEAABAwMDAgQGAwAAAAAAAAABAgMEAAURBhIhBxMUMUFhFiIjUnGRYsHR/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwECBP/EAB8RAAEDBAMBAAAAAAAAAAAAAAEAAhEDEiEjIjFRQf/aAAwDAQACEQMRAD8A6g9SZiLrcIkfT0UoivqaClSHCSB68D3r1pXUK5rZw1ZYJJGcJLxx+8UBZW1bdW6j3lSFGasDtHAAUkE8fqtEi7goCS3MUyEDP1iBgf1/lQ0m0GETnbCLoyfUu0Dqp29TLqm7w4bZZ7Rb7W7kK35zkn7RVRHp+9i53lZCUhSWSAPQZd4qpCEtN8tBKOXa4P8AxjqNDDanD4/dgDjjGPP8VnmXhwlxiS2uOoK2uBZ5A9xjzp9J6P3C5ahuNxi6ojRESni4lvwy1lIPvuHNTvQuYlSnTq6Mt48nfCVyfXPz1nZM8ogDHqWuymW65uJz1EZ6+oRoq7tNT7oG3ApOxkAn8uVUmtXSSVZnpQOoIy+8QeIihjGf5e9VNeVVlIAL/9k=" />
 
 ## Der Autor berichtet von seinen Erfolgserlebnissen [](https://amzn.to/31ngUxz) Im Buch berichtet der Autor von seinen Erfolgserlebnissen, z. B. wie er mal nebenbei 25 Kilo abnahm, stellt sich dabei jedoch nicht in den Mittelpunkt oder arbeitet dies hervor, was sehr angenehm ist.
 
@@ -114,7 +114,7 @@ Rezepte zum Ausprobieren.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITETIkEHFVHBYZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAhExEhNhQf/aAAwDAQACEQMRAD8AnL9THpq2ppLdaKZ1gleJZ55mIfixXkEUDAOM4zpmpN332m4NebdTGCWGR40p09IhljZ193I5HtwQe+86x3Z1FFWyQ85emXm5wfb3g5OMfz50+PJJBuW2UE8ryLnggZs9MjAY/vQrDlpidl8k/SzXbq3YKeGpSvQiRVbgaOMp2OwBx/eq23N6XG53o269QUqFgCkscLRN5wcjOD5X4/OuRUvTSbcs9RJMFE0HEkqOipwe8HSjU3Gmtl1paqCp9ThJxYN44kYPwMef80z8NFUtsV9vGTkrK+PnGNaV93qLpuOz1qhYZKeSnQg+4OQwGfjGjRqVaKRKYmVW5547TT2QwRvHTSu6TFjyGcAjHjHWdU0tjXWFpHnEZ/AQn96NGm+Bwj//2Q==" />
 
 ## "Ich habe das in meiner Küche gemacht, das schaffst du auch! "[](https://amzn.to/31ngUxz) Besonders positiv fielen mir beim Lesen des Buches die Bilder auf. Sie wirken nicht inszeniert oder künstlich, man kann sich gut vorstellen, die Rezepte zu Hause nach zu kochen und im Anschluss ein ähnliches Foto auf Instagram zu posten. Die Aussage "Hallo, ich habe das in meiner kleinen, privaten Küche gemacht, das schaffst du auch!" finde ich toll.
 
@@ -153,7 +153,7 @@ mit den Kids nach kochen lassen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKxAAAQQBAgQFBAMAAAAAAAAAAQIDBAURACEGBxITFBUxQWEyUZGhUnHC/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHhEAAQQCAwEAAAAAAAAAAAAAAgABAwQRIRITgTH/2gAMAwEAAhEDEQA/AONLdQq82DvlNq9DhyFR3JSGUlpKgQPUq+R+R99MpnMSgLHT5fYr2/i2P9ah8rp8k8S39MuQVVrjr0hUdSQUlfcSM7jPsPfGw1os6HCEN0JYZB7agMND1wdAmu9BuBDn1Oq0Csx9jFjxZZTWtZxA7L8GxIjeHWEqD4Tk5GRjBOjVc5YKCXLbqG5LR/StGtT4gjtsphwdbw6u7t7MykpluSX46GlqAQE9wbn3/Hzq7S+J7eL4xu0ixkKaCkpaacwHSMbh1ZSkJwQc7n41krfLi3sLWW8xaVrTL763E9anOrpUrIzgeurFD5WPxXS7cSKq1a6Rhtcp9rBBznKU533H70I68Uhcj26TFalhDgGmUDhORXR728brFumH0sKb7pyrcLyCf70aW0vCUmklzu5NiJDyh0oaC1BIBVtkgZ+rRpWVEWwy/9k=" />
 
 ## Grundrezepte für Sojadrink und Seitan [](https://amzn.to/31ngUxz) Mit Rezepten, die neugierig machen, werden auch Superfoods und das Thema Rohkost kurz gestreift, die "Zweierlei Rabbit Balls mit Feige, Kokos und Limette" werde ich definitiv ausprobieren.
 

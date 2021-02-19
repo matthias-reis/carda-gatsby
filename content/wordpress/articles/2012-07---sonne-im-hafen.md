@@ -42,7 +42,7 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 1/9
 
 Impressionen aus dem Hafen in Calais - Sonne, Möwen und Kräne
 
-[myflickr tag="calais2012"]
+<Gallery name="flickr/calais2012" />
 
 Hier geht's zu [Teil 2/9](/2012/08/der-kater-und-der-leuchtturm/) der Galerie
 "England 2012"

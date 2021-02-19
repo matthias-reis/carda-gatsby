@@ -85,6 +85,6 @@ Langsam mischt sich rot in das Grün des Sommers Die Sonne senkt sich
 
 Wird lautlos vom Wasser verschluckt Doch ihr Licht verschwindet nicht ganz
 
-[myflickr tag="anneloederupskane2018liebesehr"]
+<Gallery name="flickr/anneloederupskane2018liebesehr" />
 
   

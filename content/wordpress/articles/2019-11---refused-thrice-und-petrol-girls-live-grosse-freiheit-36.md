@@ -53,7 +53,7 @@ die man selten erlebt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-05-refused-thrice-petrol-girls__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBQYDBwj/xAAqEAACAQMDAQYHAAAAAAAAAAABAgMEESEABTESBhRBUXHBBxMiMmGBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAeEQEAAgIBBQAAAAAAAAAAAAABAAIDERIEEyFBUf/aAAwDAQACEQMRAD8A5mo6gQTWEKSFHBDHqBsDxg8HUrtQENV3ippneEk2XqZbW8fTGmdFQPJJEiyRRvKVVS7Wtc29cY1ed57D1NDuS7eta0sksMJVllBUO7WdccgAE3H71Lv1x2Nzdh6dyCnqVft5uUFdv9ZLSxfLieQsqK9wAeM86NYN92d6SsqInku0R6Tfk2JHsP7o0aprxM16oxlRVKRVkM1QrME+u3mRkL76vVHtke4fD+s3eo7S08O4U00yRUck0ayTAj7ssGHJAHT441riSUhRYjGc6VAJZ5VjRGLSEKoHifLT1KjtIlmyaq6k3F0blWVtRuNeKWSxZFcX6msLL+Bjn0wdGo7uUkddHDVrLD1gkm2cA8Xwci2jVDgAMPJ+T//Z" />
 
 Sängerin Ren Aldrige hatte bei mir sofort einen Stein im Brett. Ihre Mischung
 aus harten Shouts und klarem Gesang trafen bei mir einen Nerv. Zwischen den sehr
@@ -93,7 +93,7 @@ eine ganz besondere Stadt und es ist uns eine Ehre, hier zu spielen. Es gibt nur
 ganz wenige dieser Orte auf der Erde, an denen man ankommt und weiß: hier haben
 die Leute verstanden, was los ist."
 
-[glry name="refused"]
+<Gallery name="glryrefused" />
 
 ## Mit Thrice im Abend ankommen
 
@@ -121,7 +121,7 @@ glücklich gemacht. Das 2018 erschienene Album "Palms" ist etwas tiefer in der
 Mitte meines Herzens angekommen und ich bin gespannt auf weitere musikalische
 Meisterwerke von Thrice.
 
-[glry name="thrice"]
+<Gallery name="glrythrice" />
 
 Insgesamt war der Abend in der Großen Freiheit sehr gelungen. Die Kombination
 der Bands war einfach perfekt - von mir gibt es 100 Punkte auf der Genuss-Skala.

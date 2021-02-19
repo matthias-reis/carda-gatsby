@@ -46,8 +46,7 @@ date: 2015-09-18T14:57:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "12762"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-47-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-47-2__l.jpg
@@ -62,7 +61,7 @@ subTitle: Nähanleitung
   title="Meine neuen Körnerkissen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgMF/8QAKRAAAgEDAwQBAwUAAAAAAAAAAQIDBBEhAAUSBhMxQQcUI2EyUYGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABwRAAICAwEBAAAAAAAAAAAAAAABAiERMfChwf/aAAwDAQACEQMRAD8AQ+mNjqK+rSmpqcu7EKsa3JbFz/H59arNB8b0dMyNuTiWBVLVXD7UcRti7E3Nz7uNL3xDUCTfKqOAkMaVyJeIvFYg8l9nJzj0NM1FX0PUH1O0S1ElNURS81qGXvRTSJJjFyGW5J8Wz4xoc8PAqOq959ZhvXQu31u2CbYYIllZmVGWrR4r+lPn/bi486j2/wCzujMkkckUqObo4sCvg29WuMauiT7D0x00tQ880s1SAZI0cHuTMLs3HAA8Z8C2ANJXyzV0JSnKTk1yhX7aAMvBwSxYj3+k285vpimtszKTcqVd9JbtVbNAidtipKm5BINjgj+tM2z9R7jtUv1G3VElNMYzGWjIyt72yPwNGjSaRorN2qTOJi797mGEnM8lYsLkfsc64dTUyTPdzflyY3zfAGjRqLCSo//Z" />
 
 Da kann ein angewärmtes Körnerkissen oft Wunder wirken und mein Hausmittelchen
 möchte ich Euch natürlich nicht vorenthalten. Natürlich müsst Ihr das Kissen
@@ -95,7 +94,7 @@ und riechen einfach unglaublich gut.
   title="Das braucht Ihr"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-11__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-11__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREABhIhMQcTFEEikRVhIzJR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFAf/EACQRAAICAQMCBwAAAAAAAAAAAAECAAMRBAUhEsEjMVFhcfDx/9oADAMBAAIRAxEAPwB5zR1apWUKy9RWKNImvRQlCi06httJt/XgnbjjGOP1Ur9XhNyKNlUKLi1DS209ILdjsVFIA335txiMfkqRJkvzJqmn3nnC84pSL35JNyo3+ucNNXSacmHTqZ3A0lhDjzMUulIcWlKlBSWUJFxe25Btb94l+Gi47fTKVNV+ofprXn3P7HybmXqA5T5j0xMej6Q32nH0MobRdwJUVj5rAsebbe8dvpdmRNdpEuDU5pl1iC88FvqZW2h5vX8FpJAuLKA/YAxJKRHnectKIcxCpDDjGtMVYXdSDYgrdubEAjb1xjT0jzVGo9aD0WrVKeKiW4rqJjaR2tCtKnQQd9ina1ud/WAYo6kjnHz3j7dPbpnVLRhjyMeUkvUJfj5qkxaekQYbTCEtx45IQgWN7XJO5ueeTii51c8F+Af5X/IiGQoOPugBan3NVglQABte3+k4MGHMAakJ9Ie3syaluk4nPy+WZ/bfdiRgUKSSnRqCvkOdVz9EYU6jnKuuSZ9NVOX4Ts52OtobApO3r3YD6wYMMpA5mbo7PYpY5M//2Q==" />
 
 Als erstes müsst Ihr Euch überlegen, welche Form Euer Kissen später haben soll.
 Zeichnet die Form auf Euer vorbereitetes Papier. Ich habe einfach mal freihand
@@ -118,7 +117,9 @@ Stoffes, dann müsst Ihr diese Seite schon mal nicht zunähen. Im Anschluss
 schneidet Ihr den Stoff im Abstand von ca. 1 Zentimeter zum Papier aus. Der
 Zentimeter ist Eure Nahtzugabe.
 
-[gallery type="columns" size="large" link="none" ids="12729,12731,12730,12733"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-18__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-18__l.jpg"}]}
+/>
 
 Lasst das Papier ruhig auf dem Stoff festgesteckt, daran könnt Ihr Euch beim
 Nähen orientieren. Näht einfach mit einem mittelgroßen Steppstich entlang der
@@ -134,7 +135,9 @@ der Nähmaschine zurückhalten. Am besten ganz straff feststecken und dann im
 Abstand von ca. 2,5 cm zu den Stecknadeln nähen. Passt gut auf, dass Ihr nicht
 über die Körner näht, nicht, dass Euch die Nadel bricht.
 
-[gallery type="columns" link="none" size="large" ids="12750,12736,12735"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21513428765_5902929bca_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21513428765_5902929bca_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-28__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-28__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-26__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-26__l.jpg"}]}
+/>
 
 Zieht die Nadeln wieder raus und verteilt das Getreide schön über die erste
 Kammer. Nun gebt Ihr wieder 4 - 5 Handvoll Getreide in die Öffnung und setzt
@@ -153,7 +156,9 @@ auch gut Platz im Bezug haben. Zeichnet eine Stelle ein, durch die Ihr das
 Kissen später umdreht. Dort werden später auch die Knöpfe oder der
 Reißverschluss angebracht.
 
-[gallery type="columns" size="large" link="none" ids="12738,12748,12739"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-36__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-36__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_20892395873_13a1e224e2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_20892395873_13a1e224e2_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-38__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-38__l.jpg"}]}
+/>
 
 Steckt die beiden Stoffstücke aufeinander und schneidet mit der Schere 1 cm
 außerhalb Eurer Linie (Nahtzugabe). Wenn Ihr damit fertig seid, näht Ihr den
@@ -162,7 +167,9 @@ dass die Öffnung frei bleiben muss und achtet auf jeden Fall drauf, die Enden
 auch hier wieder gut zu verriegeln. Im Anschluss vernäht Ihr noch mit einem
 mittelgroßen Zick-Zack-Stich die Außenkanten.
 
-[gallery type="columns" size="large" link="none" ids="12740,12737,12744"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-39__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-39__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-31__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-31__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-48__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-48__l.jpg"}]}
+/>
 
 Dreht das Kissen auf rechts und bügelt die Kanten an der Öffnung feinsäuberlich
 nach innen, so dass sich ein schöner Saum ergibt. Den Saum näht Ihr nun im
@@ -174,8 +181,9 @@ noch den Bezug über das Kissen.
 
 Ich wünsche Euch viel Spaß beim Nähen!
 
-[gallery type="columns" link="none" size="large"
-ids="12743,12745,12746,12747,12749,12741,12742"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-47__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-47__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-50__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-50__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-51__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-51__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-52__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-52__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21325438400_091c858e75_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21325438400_091c858e75_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-42__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-42__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-44__l.jpg"}]}
+/>
 
 **Hinweise** - Das Kissen kann in der Mikrowelle bei 600 Watt 2 Minuten lang
 erhitzt werden. Wenn es nicht warm genug ist, könnt Ihr noch mal eine Minute
@@ -198,6 +206,6 @@ drauflegen.
   title="[ ](/wp-content/uploads/2015/09/Körnerkissen-8.jpg)  Die Maße"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_K%C3%B6rnerkissen-8__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAUGBwgBAwT/xAApEAABAwMCBgICAwAAAAAAAAABAgMEBQYRACEHEjFBUWETIhSBMlJx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQDBQb/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDMQQSIRMi/9oADAMBAAIRAxEAPwBocOOHkm6Sl1Thh05r6qkBOVKX/VA747k7DPc6sDQOHtApEFPJTo0iUlGFSJDYcWo+d8gfoDSdYc+lx7YjOw3G0UyPH5wsHIShIySffXPvOt1Euqo3tDmsW861RHo4CgqUgPOPJOcFIGyB5OFEZGs92F9l9csH51MXjZ1jkhubHjQJrqeZswz8SyM4yAPqRnyNQbcNt0qjtVP8tM2chaVNwpLCVMpbdST/ADCh9gfQxtt12niq3lVLREGHU3Wa5IW38jzjbZjuNJ2GNsgk7kZCTtv11zcXK7Sk2M65KAmNVFoCK3nBWojmSvPbl65/XfUg0V67INfoB20yp9vXpU4dHqFLbUDDmN8jiCTtuCSnwTjB04LcrkyNJalQ3XI0hByhxpZSpJ/3Ro0zycVT0IPGyWttiw/V5DgWt1S3HVnnWtThKlKPUk99INdq8uVHZbfeccbjNlplKlbNpyTgesk6NGlcVQfIxlspP//Z" />
 
   

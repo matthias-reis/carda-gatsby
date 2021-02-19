@@ -200,3 +200,25 @@ export function IconExternalLink(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
+
+export function IconClose(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg
+      width={32}
+      height={32}
+      viewBox="0 0 32 32"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <g
+        fill="none"
+        fillRule="evenodd"
+        strokeLinecap="square"
+        stroke="currentColor"
+        strokeWidth={3}
+      >
+        <path d="M6.5 6.5l19 19M25.5 6.5l-19 19" />
+      </g>
+    </svg>
+  );
+}

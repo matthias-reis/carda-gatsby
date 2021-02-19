@@ -47,7 +47,7 @@ eigens mit einem Bus angereist.
   title="Wiley Open Air"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914371534_6e3a029102_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_9914371534_6e3a029102_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBQj/xAArEAABAwMDAwIGAwAAAAAAAAABAgMEBREhAAYSIjFREzIHFCRBQmEjJZH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQECA//EACIRAAIBAwMFAQAAAAAAAAAAAAECAAMRIQQxYRIUQbHB8P/aAAwDAQACEQMRAD8AdK98qzTIG4Z8dMOFT4i/QhA8itxSujH5E2v5z+tZ0Om1So7bdnzJq6hEfiqdih9YSpofkUg4SAB7sZt3GpBXt4V7dMOnO/TxIceH6fp+8OLIKDgg9fEd8Wv30ST8SqrK2IqjtqdcR8olh6S6myzYkFIINrBITc2/LOlFPTMud/kdvUCCzDG45/cyk7T3zLjRoTVcjvrbfTyZfUmzjjYxyvgLzcXHj76pbdJdr8JiVHWlLQJICjbkLY1zevcst1xgzil5MalRo7ZfPJbaVDkkp8DP+aYdufEeu0512IqQiJAS6ppx55slLavAI7HGp7ZCeoiDjVVFxeT+YHFxBHpzSU0h6Qt95Da+VnEnDRXYHpTa4t3voW3KfWnnuEaIwqmuKXwVLeQw0o3uQFKUO4AB/RI0WhKKIlVbSSlAlvkJBsB0AdtLtHUpcqShZKkApskm4HUnRIJyBCNSgKUmPkesTo1iBT9yKNXqRj0ZhimNsqhxWWnWe3H3pX3v0pFsADWNXduVeFTXoQqNORt6fNEiRBDjSHLE9S2y64AVDwFd8ajs+fLiTVtxZUhlCXhZLbhSBnwDpyV/Zb04VH6tAnJQEv8A8gCeYxY/bWILA2vKtSRlvaf/2Q==" />
 
 Im Anschluss spielten dann die MAD CADDIES aus Solvang/Califonien. Ihre perfekte
 Fusion aus Ska-Punk mit Jazz- und Dixie-Elementen und Pop und Hardcore Punk
@@ -92,6 +92,6 @@ organisiert!
 
 ### Wiley Open Air 2010: Wir kommen!
 
-[myflickr tag="annewiley2009"]
+<Gallery name="flickr/annewiley2009" />
 
   

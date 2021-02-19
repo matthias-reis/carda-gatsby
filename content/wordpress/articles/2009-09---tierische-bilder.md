@@ -25,6 +25,6 @@ subTitle: Impressionen aus dem Zoo Augsburg
   
 ---
 
-[myflickr tag="annezooaugsburg92009"]
+<Gallery name="flickr/annezooaugsburg92009" />
 
   

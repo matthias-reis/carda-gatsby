@@ -39,8 +39,7 @@ date: 2018-03-08T13:44:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "20021"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_26744772468_aa874dc92c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_26744772468_aa874dc92c_z__l.jpg
@@ -66,7 +65,7 @@ Der Australien-Auswanderer stellte sich die Frage
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39720943915_f9432d3838_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39720943915_f9432d3838_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwAEBQYI/8QAJxAAAQMDBAICAgMAAAAAAAAAAQIDBAAFEQYSITETQSJhQlGBkbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIxEAAQQCAQMFAAAAAAAAAAAAAQACAxEEIQUSUfAiMUFhsf/aAAwDAQACEQMRAD8AcjbgIKnCB8W1qH8JJoKuOo97cAy48F4sgqPiY8ZJKCMHaR0ee6WXtdWk2+RHYktTJSG9qo8Z1C3EBQ27lc8JBIyaFo2kpMdLjTrjr0htbaVLDSi2lOOcE4zx+vVSS8fHnPaX16b2fvRSJuSGA0/JNaAvwd1l6RvU24ahtsCSA7HceSkLdJUoYBPBJJPXunWXbwGgtI7GaGYbln04wzLkxFtut/NuQ6lKF+RXKcEkgewME8c5pF0zrO23e1Nlm6RpUlKMONoUNwUOyE94+/8AOqczGjxtRigdoIc45hJI9ted/wAXlay3aZZ7giXAd8atwaW3+DiNw+Ch7T9V3Vz17dkXabDhpYbZjuqYQXQXFgDHSsj+qqqT1Fp0qZIWSini1zF5vlwuclJuEhx5SR8TuI2/Q9gfValMlxh+K/HPicQ4Cko4IOR7FVVbdmyia0MHS0UF/9k=" />
 
 In diesem Moment waren Gumbies geboren. Inspiriert von der schroffen und
 bezaubernden Natur Australiens. Getrieben von seiner Leidenschaft und
@@ -101,7 +100,7 @@ neidische Blicke erntete.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574308322_a1729de6c1_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574308322_a1729de6c1_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAUD/8QAKhAAAQQBAwIGAQUAAAAAAAAAAQIDBBEABRIxIUEGBxMiYXEUFVGBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQIRMQMTIUH/2gAMAwEAAhEDEQA/AGomdGhMpe1SdGiNkWC+6lFj+T1zB8SeZUKE2yzoC/zluEpcfbbVtaFDqncmlHr9Ymf13T3n3X9cStepOG1SHG95WntRAND4FfWRc1+CW0usocWGTZLcVV8jk1XNZPY/iJqcrGhowfM59BKZEGTKaULSpclvd88J4rtm9C8WaRq7Z9KQIckVbEtQbWb7p60oX3GJFHiSChaXnpiitAoJW2pPSvr4F38ZX1TW4urhCYcbcEHcXK9iRX7kf5krkpbGZSWEZcd00AQCQee+Xos73rBYbNoolXuJF8f0MMMxZqdVPdFFTaCeTQq8lo8Net65CgLe9FMhQTuCb2j6sYYYyvQZ/9k=" />
 
 wurde ich gefragt und schickte gleich mal Links rum. Von der Umkleide in die
 Turnhalle und wieder zurück ist jetzt kein großer Weg, aber ich fühlte mich gut
@@ -138,7 +137,7 @@ Fall begleiten.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574298002_0dafffba75_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40574298002_0dafffba75_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAqEAACAQMCAwkAAwAAAAAAAAABAgMEBREAEiExUQcTFSIyQWFxgRQjof/EABkBAAEFAAAAAAAAAAAAAAAAAAUBAgMEBv/EACMRAAIBAwMEAwAAAAAAAAAAAAECAAMEESExURJBcYEikeH/2gAMAwEAAhEDEQA/ALqt0tVPK8dRX0yyR+td+Sv3jl+6R1faLbaYhloKw05cxiRo38zbsD0qQAepOOWpffPFbBWTPTFqu1SkkR7FZ4STnK54Ng+zfQI1w25fHaSYSSLWxPIryMkjKwYbuBBIKsM+lhwJ/dPVQyk5145gq5uK1FwGHxPcYOPv88yg3TtYcVcsFtsTssbbDJUlufLO0AEDPU5+BpLZu0G8isLXv+PUUMkoRjHCIu4BPMEcwOhyfnSt6NlhqKtKtzUTAuEqkC7s+x6Z++mksi1dTQVELb4UBC4ljJTcvso3Ak7sYx76vdVsKeFXJ78+oEFzfvWBZ8DcceDpN5dataaiklki70AcVzjP+HWWNkt17RbhBFNQVfECWCXDDHyAMj4PDRo0KJmvxpEN1ivVq2x09+ndHbb/AG08bEcOoAz10wmt81Na2r7rc66vBTcYI2WmQgjBHkGSP3Ro0hdjuZEtCkpyFA9T/9k=" />
 
 Von mir bekommen die Gumbies 10 von 10 Punkten und Ihr meine Empfehlung.
 Besonders mag ich den nachhaltigen Gedanken dahinter. Ich kann mir nach der
@@ -165,8 +164,9 @@ Den Gumbies Onlineshop [findet Ihr hier](https://shop.gumbies.de/).
 Ein Verzeichnis der Einzelhändler, die die Strandschuhe im Sortiment haben
 [hier](https://www.gumbies.de/haendlerverzeichnis).
 
-[gallery type="rectangular" link="none" size="medium"
-ids="20028,20025,20027,20024"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39905665794_523887beb9_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39905665794_523887beb9_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_38806548310_2c50677f08_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_38806548310_2c50677f08_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39905668644_0eb94af3d6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39905668644_0eb94af3d6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_40574304532_c859a192ed_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_40574304532_c859a192ed_z__l.jpg"}]}
+/>
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

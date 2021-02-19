@@ -29,8 +29,7 @@ date: 2017-05-11T14:34:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "16565"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__l.jpg
@@ -103,8 +102,9 @@ schöner selbst gemachter
 
 Viel Spaß beim Backen! :-)
 
-[gallery type="rectangular" columns="2" link="none" size="large"
-ids="16565,16566"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_05_34432722072_f0db07cb1d_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_05_33704529733_80f3ed837c_b__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_05_33704529733_80f3ed837c_b__l.jpg"}]}
+/>
 
 &nbsp;
 

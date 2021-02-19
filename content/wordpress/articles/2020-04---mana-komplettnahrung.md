@@ -57,7 +57,7 @@ das Pulver ist lange haltbar und kann ganz einfach mit Wasser angemischt werden.
 Mana Gründer Jakub Krejcik hatte die Vision, ein All-in-One Produkt für den
 Alltag mit Fokus auf Leistung und zukunftsweisende Technologien zu entwickeln.
 
-[glry name="mana1"]
+<Gallery name="glrymana1" />
 
 ## Mana Pulver Mark 6
 
@@ -132,7 +132,7 @@ und 
 [vegane, Gluten-freie Burgerpatties](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2Fcollections%2Fmanaburger).
 Ich glaube fast, die muss ich auch noch probieren.
 
-[glry name="mana2"]
+<Gallery name="glrymana2" />
 
 [Homepage Mana](https://www.awin1.com/cread.php?awinmid=18231&awinaffid=632580&clickref=&ued=https%3A%2F%2Fdrink-mana.de%2F)
 

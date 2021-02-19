@@ -32,8 +32,7 @@ date: 2014-09-01T15:50:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "8697"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__l.jpg
@@ -62,7 +61,9 @@ ist.
 
 Strohhalm dazu und genießen. &lt;3
 
-[gallery size="medium" type="rectangular" ids="8697,8696,8698"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-3-e1582806044482__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_heidelbeerliebe-4__l.jpg"}]}
+/>
 
 ## Wegweiser Smoothies1. Heidelbeerliebe
 

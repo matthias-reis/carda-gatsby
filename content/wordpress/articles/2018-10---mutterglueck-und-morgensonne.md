@@ -57,7 +57,7 @@ So ist das mit den magischen Momenten. Sie sind häufig von kurzer Dauer. Genau
 aus diesem Grund finde ich es schön, dass es mir gelungen ist, einen von ihnen
 zu konservieren.
 
-[myflickr tag="20180628vaenernekuddenentenkindergarten"]
+<Gallery name="flickr/20180628vaenernekuddenentenkindergarten" />
 
 Ihr wollt gerne mehr Bilder vom wunderschönen Vänern sehen? Dann könnt Ihr Euch
 ja mal [Fotoserie I](/2018/09/der-vaenern-am-abend/) und

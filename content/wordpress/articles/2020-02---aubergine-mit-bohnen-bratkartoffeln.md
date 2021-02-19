@@ -130,6 +130,6 @@ und gehackte Petersilie lose darüber. Backt die Aubergine bei 180 Grad etwa 15
 Minuten. Eventuell stellt Ihr den Herd während der letzten drei Minuten auf
 "grillen" um. Das sorgt für noch mehr Röstaroma. Guten Appetit!
 
-[glry name="auberginen-bohnen-bratkartoffeln"]
+<Gallery name="glryauberginen-bohnen-bratkartoffeln" />
 
   

@@ -39,7 +39,7 @@ subTitle: Finnische Comic-Helden
   title="Muminspaket aus Nippon"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24664587156_867877258d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUH/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITEHE2EiI0FRMnGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAxESEyExIzLRQWFx8PH/2gAMAwEAAhEDEQA/ANPcVXfbHcaGlsKRuXp5Z5UaFX6Qjvv41ZZ99boqUb2LbTVaYX7qUZ4hiBlchgCRnx8jUvVb3WuthkpmdHlhkh+huLE8lJHeB4OoenVymjoZVt9PXvQyV5MhjgLkJwQD+KnLYB6yMZ1Lk+qcu359pcporSVSAXN7C29gd5dUbt3hVVcNMKChR5IzMqTUBiXAOCORc8uyvj9jTJZUnu23KG6VkcUc9VCJHSMEKMk+ASfwBrF3XcKa4XewwSCaljjE7GSuD06spA7B5Fj2COjp02GBP6fWohAFjSSFSDkMqSMoYf2ANJG6hANx+eYa6jSDY2+nxOf7yszbmpITJVtBLTMWQ8eYIIwQRkfof5pfXalwoqemanvhVKhclBC4AbOM9SDvBxo0aopgK+Y5mDuzU9MnaMW29lVKRlpb7UEMeuFPGSmPAUycyB8DT5QRNZ7PBQQTSSQwKVUyYLHJJJOPySSdGjTYXYseTMwxxC+gn//Z" />
 
 **Heute nennt man es Filofaxing oder Scrapbooking und es hat sich zu einem
 echten Trend etabliert. Kennt Ihr das auch? Ich habe ja mein Leben lang schon 
@@ -78,14 +78,14 @@ Dame aus Nippon nicht nur einfache Sticky Notes und Washi-Tapes (So nennt man
 heutzutage die Haftnotizen und bunten Klebebänder, die sich wieder ablösen
 lassen) feilbot, sondern auch eine schier unfassbare Auswahl an Muminsartikeln!
 
-[myflickr tag ="annemuminsgekauft"]
+<Gallery name="flickr/annemuminsgekauft" />
 
 Mein kleines, nostalgisches Herzchen blühte auf, Paypal machte das klar und vier
 Wochen später hatte ich ein zuckersüßes Päckchen (Der Postbote, der es mir
 überreichte, bezeichnete es liebevoll als "Junior-Tüte") in der Hand, dem nicht
 nur meine bestellten Sachen, sondern auch noch einige Überraschungen beilagen.
 
-[myflickr tag ="annemuminskram"]
+<Gallery name="flickr/annemuminskram" />
 
 Besonders angetan war ich auch von den wundervollen Briefmarken (Ja, die sind
 echt!), die man in Nippon auf die Umschläge klebt. Da sind doch tatsächlich auch
@@ -93,7 +93,7 @@ Mumins drauf! So herrlich verrückt! Vom Klebeband, das den Umschlag
 zusammenhielt, bis zum Packpapier, bei dem es sich um die Seite aus einem
 Mumins-Comic handelte, war das Paket perfekt im Mumins-Look durchgestylt.
 
-[myflickr tag ="annemuminsbriefumschlag"]
+<Gallery name="flickr/annemuminsbriefumschlag" />
 
 ## Filofaxing im Urlaub
 
@@ -101,14 +101,14 @@ Natürlich musste ich die Sachen auch gleich ausprobieren, ich hatte nämlich wa
 ganz Besonderes damit im Sinn. Denn wofür würde sich solch tolles
 Tagebuchzubehör besser eignen, als für die Planung einer Finnland-Reise?
 
-[myflickr tag="annemuminsfinnlandplanung"]
+<Gallery name="flickr/annemuminsfinnlandplanung" />
 
 Auf den Fotos habe ich ein paar Details weggestempelt (Ihr müsst ja auch nicht
 alles wissen :-P ), ich denke, Ihr könnt aber trotzdem alles noch ganz gut
 erkennen. Sind die Sachen nicht süß? Kuckt Euch doch mal bitte diese
 unglaublichen Büroklammern an. Das ist doch kaum auszuhalten, oder? :-P
 
-[myflickr tag="annemuminsbueroklammern"]
+<Gallery name="flickr/annemuminsbueroklammern" />
 
 - [1]Die liebe [Nine Onoke](https://www.instagram.com/nine_onoke/) hat immer
   wieder tolle Tipps fürs Scrapbooking parat. Ihr kennt Sie auch aus meinem

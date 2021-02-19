@@ -40,11 +40,11 @@ besser, als beim letzten Mal im benachbarten Feierwerk.
 **Mir fehlen die Worte, daher lasse ich an dieser Stelle einfach Bilder
 sprechen.**
 
-[myflickr tag="rumuc"]
+<Gallery name="flickr/rumuc" />
 
 **Hier noch ein paar Bilder von der Vorband "Waves" aus München.**
 
-[myflickr tag="wamuc"]
+<Gallery name="flickr/wamuc" />
 
 **Hier sind für Euch Russian Circles mit Carpe**
 

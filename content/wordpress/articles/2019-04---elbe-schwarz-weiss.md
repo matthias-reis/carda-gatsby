@@ -44,7 +44,7 @@ Auf den Fotos, die ich Euch mitgebracht habe, sind keine Menschen zu sehen.
 Dafür lassen sich einige Gegensätze darauf erkennen und auch die ganzen
 wunderbaren Farbtöne zwischen dem Schwarz und dem Weiß.
 
-[glry name="2019-03-30-elbe-altona"]
+<Gallery name="glry2019-03-30-elbe-altona" />
 
 &nbsp;
 

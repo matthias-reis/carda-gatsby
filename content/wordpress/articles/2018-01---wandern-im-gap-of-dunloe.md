@@ -79,7 +79,7 @@ Ein beliebtes Ausflugsziel ist Gap Of Dunloe nicht nur für Wanderer und
 Natur-Enthusiasten. Auch Mountain-Biker kommen auf ihre Kosten. Die roten
 Sandstein-Felsen sind ein beliebter Kletter-Spot.
 
-[myflickr tag="annegapofdunloe2017"]
+<Gallery name="flickr/annegapofdunloe2017" />
 
 <blockquote>
 ## Sheep may safely graze

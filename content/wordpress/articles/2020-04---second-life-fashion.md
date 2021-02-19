@@ -73,7 +73,7 @@ und sogar komplette
 Wenn Ihr nach bestimmten Marken auf der Suche seid, könnt Ihr
 [danach filtern](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2Fcollections%2Fartikel-beliebter-marken).
 
-[glry name="secondlifefashion1"]
+<Gallery name="glrysecondlifefashion1" />
 
 ## Mit Second-Hand die Welt besser machen
 
@@ -122,8 +122,9 @@ gibt, dem genau dieses Teil perfekt steht.
 
 Und wenn man gerade mal wieder auf der Suche nach einem Rock oder einem schicken
 schwarzen Pulli ist: Warum nicht erstmal Second-Hand schauen? Wer unsere
-Ressourcen schonen möchte, sollte auf jeden Fall darüber nachdenken. [glry
-name="secondlifefashion2"]
+Ressourcen schonen möchte, sollte auf jeden Fall darüber nachdenken.
+
+<Gallery name="glrysecondlifefashion2" />
 
 [Hier gehts zum Second Life Fashion Onlineshop](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2F).
 

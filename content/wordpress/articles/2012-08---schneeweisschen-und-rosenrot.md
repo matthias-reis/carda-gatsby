@@ -25,8 +25,7 @@ date: 2012-08-05T13:00:22.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "3732"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__l.jpg
@@ -35,8 +34,9 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 9/9
   
 ---
 
-[gallery type="rectangular" link="none" size="large"
-ids="3741,3740,3739,3738,3737,3736,3735,3734,3733,3732"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0196__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0196__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0195__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0195__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0193__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0193__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0192__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0192__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0191__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0191__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0188__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0188__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0187__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0187__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0185__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0185__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0183__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0183__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0181__l.jpg"}]}
+/>
 
 ## England 2012 Wegweiser1. [Sonne im Hafen](http://wp.me/p533wO-Ry)
 

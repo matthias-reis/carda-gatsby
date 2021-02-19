@@ -102,7 +102,7 @@ Von der Sonne müde geworden, verstecke ich mich im Unterholz.
 
 Ich freue mich auf Deinen nächsten Besuch. Bringst Du mir was mit?</blockquote>
 
-[myflickr tag="annebirdsoftivoli2018"]
+<Gallery name="flickr/annebirdsoftivoli2018" />
 
 -->
 

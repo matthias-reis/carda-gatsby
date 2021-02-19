@@ -26,7 +26,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Unexpected token (7:66)"
 thumbnailId: "15345"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__m.jpg
@@ -43,7 +42,8 @@ subTitle: Winterliche Elbe
 Sand und den Blick auf die gewaltigen Tiere...""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31047545891_118f076322_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31047545891_118f076322_z__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAgYHAQME/8QAKhAAAgECBgAFBAMAAAAAAAAAAQIDBBEABQYSITEHFFFhcSIjQZEygYL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AeoISfqcnHQIrcqMb1jtxhE1pntdl+c1ENLUtBHS0S1OwAESsSeCfTgC3zgHZUO0ccdYzLSssJlBsfwD1hX8J5p6+OVqmeSXdTxTOzuW+492IHoOT/VsOs9RTyO0LMpFwiqwsCewPc4AljD223N8RHxAp5M81o9PSVDmORlohc3Ni1mZR0QCTYd4p2rdQDJMjYo+yuqW8vTextdn/AMjn5tie6QjKeJun0Rg0aOXJv1tRmN/1gA8MKh8kzhsvrKkbqxfLSb1sEkUkLzf2K/rFXgy52gZq2FGnBPJO4D0IP44xGq6CGHXWoaRqgPCtbKFeEhrAnd31xut8jFd0tni5vlZjlINbSkRzWP8AMEfTIPkA39wcB//Z"
+/>
 
 **"Was macht Anne in Blankenese? Ist sie jetzt unter die Reichen und Schönen
 gegangen?" - Ihr müsst mich jetzt nicht stalken, ich gehöre nach wie vor zum
@@ -61,8 +61,9 @@ der Elbe bis zurück in unser geliebtes, kleines dänisches Dorf Altona. :-)
 
 Ich wünsche Euch viel Spaß mit den Bildern.
 
-[gallery size="large" type="rectangular" link="none"
-ids="15341,15342,15343,15344,15345,15346,15347,15348,15335,15338,15336,15337,15339"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30346552733_7a03495684_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30346552733_7a03495684_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30786000340_067a0e1d44_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30786000340_067a0e1d44_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31117965846_6b2d5158b4_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31117965846_6b2d5158b4_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30786166500_02455cf32a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30786166500_02455cf32a_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31117999676_031983210c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30332613074_c9206afbc1_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30332613074_c9206afbc1_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30337915024_f2dcbf8ae5_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30337915024_f2dcbf8ae5_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30340440724_c78326c806_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30340440724_c78326c806_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30340451414_f599b01389_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30340451414_f599b01389_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30340594824_3675153f4e_z-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30340594824_3675153f4e_z-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31047545891_118f076322_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31047545891_118f076322_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31161729635_474bfde627_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31161729635_474bfde627_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31125923726_43a83dde29_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31125923726_43a83dde29_z__l.jpg"}]}
+/>
 
 -->
 

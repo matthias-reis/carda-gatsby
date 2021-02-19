@@ -63,7 +63,7 @@ bewegt, die anderen verschlossen.
 In den Sommermonaten blüht das Ufer. Im Winter versinkt es im
 Nebel.</blockquote>
 
-[myflickr tag="annefleetbillegoodbyejahreszeiten"]
+<Gallery name="flickr/annefleetbillegoodbyejahreszeiten" />
 
 ## Flarf-Gedichte Wegweiser
 

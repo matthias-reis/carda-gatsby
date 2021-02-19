@@ -100,7 +100,7 @@ auf einen Rost.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41338279775_721e48f258_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41338279775_721e48f258_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgIDB//EACsQAAEEAQIEBQQDAAAAAAAAAAECAwQRBQAhBhITQQciMVFhFEJxkXOBsf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEScRMjMv/aAAwDAQACEQMRAD8AUyfD3K4ySE4yemWg+YsuAhaPi6IP7Gp2QZ44exKoCcbkel5UB1mkrKd7pSSVGtvWvTT3DcZIgYAy5uOUt1sFShHdHLQ+4k+g/ekmY8T8itpL0ExYa2VEqYUAoOIUByk8+937AbHWZY9I+SR1KrC6J7BsTNnOcWYsJTkMM/MYQaIkxyhZT/LQBPyR+dMOK8Lwzm2unGEVuWsA9ZmgtB7ix5VHtW/xrZw/4sRXOhEzjC2pa+S3GEkNlKvuKTuP6u7Fasedh4jMQfqW247yFjyvsUk/sd/g6fjlSpXly7imsDAMi613OB4uflokVzqQp7x5CORLPMle3pzCx399R46ZhjRY0vByW0NiwG0OIVdk2SAbA7b3Q9zo0aTkUrqX4drFtGSMZBfecKGoGRlJICQlcdSkorZKhfLRH5r/ADV74LTKwODnLy0mPHMhSV/TreQekQDZJG1m/QdgNGjRYtKq5aBltwTxKNAz/9k=" />
 
 Weicht die Bohnen für rund sechs Stunden in der dreifachen Menge Wasser ein.
 Gebt einen guten Schuss Essig dazu. Wenn Ihr größere Bohnen verwendet, als wir

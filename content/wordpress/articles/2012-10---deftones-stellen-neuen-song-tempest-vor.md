@@ -53,7 +53,7 @@ Gesangsspuren wühlen den Hörer auf, regen zum Nachdenken an.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_koi-no-yokan__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_koi-no-yokan__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAtEAABAwMBBAkFAAAAAAAAAAABAgMEAAURMQYSQWETFSEiQ1FxkbEUMjRCkv/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAfEQACAgICAwEAAAAAAAAAAAABAgARAxIhQSIxgfD/2gAMAwEAAhEDEQA/AO3WaEw5bWFFpJJSOFHC3xuLKfasdncm0xQNSkCkSdprJ9UhpuchG+t3od5Dud5oZcB5JGM1IANbMrCO96gmUnV0c+Cn2oC9wozdrkrDSchBOnKg2bza0vocXNYCAEOJCXHASFZwcH1HKmm0nZZZeD4Z+KQMjXqQYCrKfIVBrZNiW+xxnZ0lmO3uDvOrCc+nnTgBtxCVpDa0KBKVAAhQVqQeOePnXKL8qctyFLttri3cNx0tNIfk4baJzvlTWRvcOOPaq7Y1KbTbV9YzIypkhfSuIZG421kfYlIOBjlTK/U3yYFXGHDcnr96+yoDDJ8FrQAdwaDQaaCgdo+2yy+PcPxWvW0ED8lv+qWbQ3aCbPKSJLeSg/tyotVcSYXP/9k=" />
 
 Insgesamt macht "Tempest" Lust auf mehr, die Zeit bis zum großen Tag der
 Veröffentlichung kann man nun kaum noch abwarten.

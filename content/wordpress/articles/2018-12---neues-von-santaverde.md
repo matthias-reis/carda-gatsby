@@ -55,7 +55,7 @@ brasilianischen Regenwald. Den Toner habe ich getestet.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-07__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-07__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAGBP/EACsQAAEEAQQBAgQHAAAAAAAAAAECAwQRAAUSITEGIlETM0GBByRSccHC8P/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBgL/xAAlEQABAwIDCQAAAAAAAAAAAAABAAIDESEEQaEFEiJRYbHR8PH/2gAMAwEAAhEDEQA/ACfDvHWNR1Nph6UtFsqW062EqUaqxftVn9xmqg/h7GYRJhxNefL7Z3q/LoLjW8d3fG4fwexeAeN79I1fT5xUBp0Xh1lpq1JbKSCRzZ76GbKPrbcabI1dwvGHIFkBklWwhIR6e74HfVnrFpWRgguzVLtfDSvn3mVFtelPq5mfAmY7aGVag45E3bnG/ghK3OAAlTgN7R7Crs4Pqfhvw2ShEqEluhYTp6QTRvn1fY++auR5XpwB9ErjigEH+2CzfKdNdJSUy0JA9S1NApQOrNE0LIH3wtZGwWU8wyCgFdVndEkIU2xDVubZI2kpHzEgfqSRsOMKDMqJIMt5MWMr5luhSkddkGr6yyxkxtkLQ726vZowQScvFUdPhs00pmVOkMPqKwthpCkIv6nkf4YVqEdtkTEOSkKad2gAM/RKkkg2T3tGWWF0bW2AWIsHCeKnLsv/2Q==" />
 
 Meinen [Lieblingstoner](/2018/01/santaverde/) gibt es jetzt in einer neuen
 Ausführung! Das war ja klar, dass ich den ausprobieren muss. In der Produktlinie
@@ -105,7 +105,7 @@ Liste
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-08__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-santaverde-xingu-age-perfect-toner-08__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEBREAEiEGEyIxQXGBMmGRFBYjUrH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwEEBQb/xAAlEQABAwIEBwEAAAAAAAAAAAABAAIRAwQUQVHwEhMhIiMxgZH/2gAMAwEAAhEDEQA/AENo6Mrr1ZaeWmrqZE7hDR1G5jhT9DEDkeXuNVP7Ir99Nmst8dLAysQdwYnjw78eQ5AOM8459cnQ19p7VRVFPd2MDvN3YAgaTeu3xYOMcbQdUd5u9FeLYaO2zvIxYO7NTSLtA+kjcoB5wftgaqVGUwTxLYu6Fw64eGzE/APY/EoqOhqqVi9XVU0zh9yxZdI4wDwMAHdxnJPxqe6o6dlttueqqBSuocKzRu+7LHAAUjHzn010Oq6tsyJmtrBBMB/KrQS4VvXnbg8/fUb11e6G62mCntU/6l3mWUhUIBQBsNyPLdxoxAgjNNtMZiGh5dBPWZgrDZ7osarO67ikna27WO1fXaFHi9z+dPpp5JZAoaaWQeLvNtRAP68Hn8fOjRptVgLY1XQBvM7TvcId3WIyVlc0YRj4I5F7ZTjG/cPP20hvl0hWkaSCIVEZOMUwU/5o0aKm0FonJS7xyG6L/9k=" />
 
 <ul>
     <li>Aloe Vera Saft*
@@ -120,7 +120,7 @@ somit ausgeschlossen. Ein Großteil der verwendeten Zutaten trägt außerdem das
 EU-Biosiegel. Wer mehr über Santaverde erfahren möchte, liest am besten mal
 [diesen Artikel](/2018/01/santaverde/).
 
-[glry name="2018-12-santaverde-xingu-toner"]
+<Gallery name="glry2018-12-santaverde-xingu-toner" />
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

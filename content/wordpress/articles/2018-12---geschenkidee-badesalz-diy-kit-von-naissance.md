@@ -62,7 +62,7 @@ braucht die Welt! So sieht es aus.
   title="Selbst gemachtes Badesalz Bergamotte-Lavendel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-013__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-013__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGA//EACcQAAICAQQBBAEFAAAAAAAAAAECAxEEAAUhMRIGEyJBMhQjUYGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAHREAAgICAwEAAAAAAAAAAAAAAQIABAMhERIxQf/aAAwDAQACEQMRAD8ATYL7fhxr7kglYeI8Ih5nnrVdtM+LI0KR40vuSSLGEYAHmrI+jQ5/o6jfTuJGmDI0oj/UkeMaSV+6QCOSAabmqvnnrVIm+5OxPiKuJFPkSfOYvGVGMteIWx0xonokDUM5mBlpq6ldbMbB0b1MjTZIhxo1Za6WQ1QU/Vc3Z1vvO2xvCSFWyLFfelu956PukG3Y0buksYyZUTsEi1S6okg3R/jS70rk5eR7uJleIXFPkihuVUkg2Ox8lPB/zWtbMQepgrFcDGMgk3s+fC2OsPvLFGIlIWTh2Fnpars/l2eNO8LfsWfHES4tGU+cqCgY3JAUkm7auTQ0aNHcASso59m0WfjI+XmY6tJkyynyBZi7sR2p+qCmqrrSzbvUEGI+bm5crCOTFCGR1Ks7h+FAP5GvvRo1pWQFuYeztenwz//Z" />
 
 Bekannt wurde Naissance vor allem mit seinen hochwertigen Ölen.
 [Hier ein Beispiel](/2018/09/mit-naegelkauen-aufhoeren/). Die kommen in
@@ -77,7 +77,7 @@ her.
   title="Die Zutaten für das DIY-Badesalz"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-002__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-002__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRITITFBYXEGIiMyUYGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAQDBQb/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIRAyFBBRITBCIjMVFh/9oADAMBAAIRAxEAPwBbtlGtFFF1JFWR/wBeZADY84Ht/On9XbBaopbryQvXYlQ6nkMg49PcalfrpLtsE9eGXa7kSLFghHV2JHdPnyc+MaqI29D6drvXqxjdVJDQS/jTiHfJxkd+IB0q3aXQSFsm6lz0y5riyL3AnP2RhdbW0SJW6xXlHkLkKfXxrN7pt4Ct9vcdvGtntG6WzQJ32SGleooTJHDIFQrgFMg8uXLIB/vxrLb3eijrkJYilsLKeoVZTyy/fA9BjQ6AbJbodYefHVl53RIEWObY/Vd2AhogRxWJwGSUk8z8qw7HTiDaaEloy2K1WXsQHd2Zzn57D3xo0aD2kwr3ja4XCqm1tMM7U+hKh6nBWi21lw2cZ5kEY99Lt3hrUQzVqItSNnkwdFb/AHAOjRpis0U4jKhoNDpt6X//2Q==" />
 
 Dazu braucht Ihr das DIY Kit für Badezusätze "Soak The Day Away" (dt. "Wasche
 den Tag ab"), einen Löffel und eine Rührschüssel und schon kann es losgehen.
@@ -103,7 +103,7 @@ Nachhaltigkeit, Hamburg und veganen Lifestyle erfahren möchtet, seid Ihr bei mi
 genau richtig. Ich freue mich,
 [wenn Ihr meinen Newsletter abonniert](#newsletter) und auch in Zukunft mitlest.
 
-[glry name="2018-12-naissance-diy-badesalz"]
+<Gallery name="glry2018-12-naissance-diy-badesalz" />
 
 - _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
   meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

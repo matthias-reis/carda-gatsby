@@ -23,7 +23,8 @@ date: 2014-11-15T15:50:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "24478"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_cafe-fabio__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_cafe-fabio__l.jpg

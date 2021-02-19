@@ -53,6 +53,6 @@ Es lohnt sich übrigens, immer mal wieder reinzuschauen, die **Galerie** wird
 ständig erweitert, sobald mir Katzen begegnen, werden sie natürlich auch
 weiterhin abgelichtet.
 
-[myflickr tag="annecats"]
+<Gallery name="flickr/annecats" />
 
   

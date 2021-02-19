@@ -107,7 +107,7 @@ Grinsekatze.
 
 "Dann ist es auch egal, wie du weitergehst", erwiderte die Katze."</blockquote>
 
-[myflickr tag="kilkennycastle2017"]
+<Gallery name="flickr/kilkennycastle2017" />
 
 \*Hier gehts zur [Homepage](http://www.kilkennycastle.ie/VisitorInformation/)
 von Schloss Kilkenny

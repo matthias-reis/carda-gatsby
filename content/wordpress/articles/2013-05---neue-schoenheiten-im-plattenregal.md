@@ -38,8 +38,7 @@ date: 2013-05-08T15:54:10.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "5317"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__l.jpg
@@ -62,8 +61,9 @@ Artikel geben. Welche Platten noch nachgeliefert werden, bleibt natürlich bis
 zum zweiten Teil mein Geheimnis. Kommen wir nun also zu Teil I meiner
 Schallplattenempfehlungen.
 
-[gallery columns="1" type="rectangular" link="none" size="large"
-ids="5314,5315,5316,5317,5318,5319"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4175__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4175__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4176__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4176__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4177__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4177__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4178__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4179__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4179__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4180__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4180__l.jpg"}]}
+/>
 
 _ **Und jetzt wünsche ich Euch und mir viel Spaß beim Anhören!** _
 

@@ -99,7 +99,7 @@ sortiert die Reste aus. So spritzt Ihr Euch nicht mit dem roten Saft ein. Der
 lässt sich bekanntlich nur sehr schlecht aus der Kleidung (und den neuen weißen
 Küchengardinen) entfernen.
 
-[glry name="babaghanoush"]
+<Gallery name="glrybabaghanoush" />
 
 Gefällt Euch das Rezept? Dann wünsche ich Euch viel Spaß beim Kochen! Wenn Ihr
 in Zukunft nichts mehr auf dieser Seite verpassen wollt,

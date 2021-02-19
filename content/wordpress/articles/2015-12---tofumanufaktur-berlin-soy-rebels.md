@@ -73,7 +73,7 @@ Genmalipulation. Wir sorgen da für einen besseren Ruf.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Tofumanufaktur__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABREGEiExQVETImEUI3GRMkKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFxIS2pIQWv7pBHxkVduuMxDKUxG9Yx3/RcQE/xV4/VQX7/aheXUl5SG0bVFS0YBwQTjueB4rPN6hmWzVN3LE1qRZbhcZUibtaO8IU3tZ4UAoEE4O0HpzQb+x3SO2pLseysFStyg6EgnvkZA+KnT77Ou8eRBciMsR0IDitoOSQrABJ/39VUaIRppjQFotWopKQ/DW6tse8FSwpRSsBHVOFd+KZvmrbbL1BOiW9cj6ZppbqX1YCF8JT+TyCRnpk4xzQcjtSro4lt5ptpS07z9zkHcAB89s9alSr1qNdwkuSEgGQ8XiUL9iFE7jgEeeaKKB964Oz7zGckvnCGktZBCVHB6fnGa3Wp50Ndo0vapzgYiLeW9IdSpLbmxMclIKu53Eec0UUH/2Q==" />
 
 ## 100 Prozent regional und unverpackt-neutrale Lieferung mit dem Fahrrad und 100 Prozent regionale Zutaten.
 

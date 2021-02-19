@@ -50,7 +50,7 @@ Spektakel in seinem vollen Umfang genießen konnten.
 
 ## We proudly present: Mogwai
 
-[myflickr tag="annemogwaimuenchen"]
+<Gallery name="flickr/annemogwaimuenchen" />
 
 Laut und toll hier für Euch: Das komplette Album "Rave Tapes"
 

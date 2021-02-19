@@ -38,7 +38,7 @@ der klassischen Musik und Jazz-, Tango- und Mariachi-Liebhabern.
 ["Tucson-Dessert-Rock"](http://www.myheimat.de/gersthofen/beitrag/72127/calexico-live-roxy-ulm-27012009/)
 eben. Alles in allem: Ein gelungener Abend!
 
-[myflickr tag="calexicomuffathalle72009"]
+<Gallery name="flickr/calexicomuffathalle72009" />
 
 ## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 

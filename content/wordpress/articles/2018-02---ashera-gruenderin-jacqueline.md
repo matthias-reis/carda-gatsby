@@ -51,7 +51,8 @@ date: 2018-02-02T07:51:03.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "19343"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_ueber_uns_jacqueline_heimgaertner__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_ueber_uns_jacqueline_heimgaertner__l.jpg
@@ -74,7 +75,7 @@ interessante Details erfahren.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_foamer__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_foamer__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGCP/EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABRESITEGE0EUUWEHFSIyQoGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAgEQACAgEDBQAAAAAAAAAAAAAAAQIDQREhIhMxMnGB/9oADAMBAAIRAxEAPwDpC5zZgmCFb22w8pvWHnUlSE5zgEDfxz81H6maiTo7cC5sNvxH1DuNOboXjBAI8jO+D7U7d+orZa5aIkyWlqU4nUlOhSsD3JAwODzSLq+g25Kw8kJyklYSVjBO3Hj5pNyWj3GKknJNBYnWkpVCipDTLQw2lH8BxgDx4OKehTn2rgq33BP5hOpqQAEodG22M/tv/eDVUxdodsZXOuchTbaQlhGWzlxSjkaUjJ8f4TVbB+oFhldTOsuPMIQ2hLbUtzI1LUNRQByEpSMqWcAEgeDQ+ouKeSro89ibfrfCl3GMqXDjvq9S5u60lR/VPuKm3lRbXhBKQZABA2yOaKKk+7Cx8l8M71RGYk2G6GQy26UxjjuJCsbfNYLoG1289J9OyDBi+o+6MDu9lOrA0DnGaKKxXj2Etwf/2Q==" />
 
 Was mich natürlich besonders interessiert hat, waren die Inhaltsstoffe ihrer
 Produkte und wie sie auf die Idee gekommen ist, als Werbefachfrau ein
@@ -112,7 +113,7 @@ wichtig?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_inhaltsstoffe_tee_bunter_bg-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_inhaltsstoffe_tee_bunter_bg-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACYQAAEDAwQBBAMAAAAAAAAAAAECAwQABREGEiExQQcTFFFicaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQB/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxEhElFhMf/aAAwDAQACEQMRAD8A7Nq/Xy9P3b4adOXqWArCpCWtrRB8oUAc9+cU2abuoutoZmrhzIJeyfYmI2OJwcZIHg+Ksi0d2UKIz3yaV9bv3+PHS3puEp9xeC48laCtP4pSojv7zxU7FqsudjoCVFq7FCKuD3mXV8kymYW62xPmSScJbLgbHXZJ8f2lu0ayVJvsaz3DT96t9wWNyitpLjKQPPuJJyOMZx+6y9PrPdYrcqVqCQ+uZJxtadeDimkj7I4ySehwABTghnBBUeR1jitQvYA515FtxTK/fZtqNP4aBHBz2KKKfEwgEqaUVEk7iMmpNFFEJ//Z" />
 
 **Anne:**  Mit den Ashéra Produkten verbindest Du moderne Kosmetik mit
 Extrakten, die aus der
@@ -151,7 +152,7 @@ vorstellen, komplett auf vegan zu setzen?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_die_yin_phase__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_die_yin_phase__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBQf/xAAoEAABAwMDBAEFAQAAAAAAAAABAgMEAAUREiExBgcTQXEiM1FhgdH/xAAYAQACAwAAAAAAAAAAAAAAAAACBQEDBP/EACIRAAEEAAUFAAAAAAAAAAAAAAEAAgMEERIhMnETMTPB0f/aAAwDAQACEQMRAD8AntMEKAU88lCTv8U0Wqzw3Y7OqUlKOCgglWN9x8+htSzBcbeuEZgjUHHgkqxjn0PzVAWHoDpmZZmblZbu85Okss+QOYLXlUkkoKMa06TgZHHvY1qdPHERm0xQNryytJZrguX9YWmJBipMV9tS9GhKkZGrODnB42zSQrZlxspWMHknb+1Tdy7NxXunHmVzXnuopBW8y6sKTH1Y+zgj6RjhZ9/rapuujTsRx+JIjrjy2lll9l0YW2pO3+1IsRzElh7IejJEAHhNHYbbu90xj086f74XKrO/SpCTGUl90KLgBIWQSM8UUUqu7gmNP6sqRKkR5pbjvutIIJKULKQefQqXu9i1K7l30qUSStlRJPJ8KN6KKGh5Dx7Ctv7Ryv/Z" />
 
 **Jacqueline:** [YinYangBalance](/2018/01/ashera-yin-yang-balance/) ist komplett
 vegan. Diese ganze Linie, auch wenn weitere Produkte hinzu kommen, wird auch
@@ -188,7 +189,7 @@ und West.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_die_yang_phase__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_die_yang_phase__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAQME/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBBESAAUhBhNBIjFRYQcUFjJx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAIDBf/EACARAAIBAwQDAAAAAAAAAAAAAAECAAQhcQMRM0EFE7H/2gAMAwEAAhEDEQA/AG/pKagrY2i3KhRtrRguHY7fbbnFLsT6QfvyeedM2+0+z/t6q2l0pqHbpZTHTI0RZjJbKyAcs10y4HAv7AaS+ja7aNgo3Ee30zTVUeEUUyAsqm+LFecR9cXA08rRw1lNR1s5kSpo6ktEVuoXNcWVhf8Aiy/fga4CaoJt3vvjqClAZgJnZegqTbunoYqiWKanC91VjJTuMxLkFr8jni2lL8gR7XTZmmiCNgr4wKGIswNsfgj7Htp8pK9KjZIKaU8uWX1SEhGBsFW3sCLW+L6kPXtJJR1cmM0qFhkY5rMT7XsfI/3S9SxZxprZTfJzBVp63IIvNf4fVZ5kM6iQtRSykuL3fFfVz5+9VLpV2O31RLEk01OxJPkhrn+9GjTidZPwyU3KJx1ksgpaq0jj0k8E/B1Md2d5+nNwknZpJP0bNk5ubgpY3PkaNGstTlTBl/I8gn//2Q==" />
 
 **Jacqueline:** Ich war gerade auf einer Beauty Messe und muss leider sagen,
 dass für viele Produkte kein großer Wert auf die Inhaltsstoffe gelegt wird. Bei
@@ -225,7 +226,7 @@ sich dadurch gut trinken.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_lehre_tcm_02__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_blogbild_lehre_tcm_02__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgEDCP/EACQQAAIBBAIBBAMAAAAAAAAAAAECEQADBBIhMQUGEyJBFFGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIQMxQUL/2gAMAwEAAhEDEQA/AOnxiWgpESdg2x7kdfwRS7eNts7sx5iEIHI5mT++afrG1A8cXwpWfU3kb+BkYWHhr7cpJue4iyvWo2k/QqYwbQybFjIvL8okgkMC3I2kd9mqr5+17Xm2vL+LeR22JZ4IgQVIg1afD6pihd12PzKz0DRq5NNUXgyCTfIJMT1W5gNTwKKKYxA+pLaHADFFLA9kc1I+LtouFb1RRx9Ciij9lej/2Q==" />
 
 **Anne:** In meinem Blog geht es unter anderem auch hier und da um
 [Musik](/category/musik/). Das hat damit zu tun, dass Musik ein wichtiger

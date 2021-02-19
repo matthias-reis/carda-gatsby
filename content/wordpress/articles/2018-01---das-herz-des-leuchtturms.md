@@ -58,7 +58,7 @@ spektakulär.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39748264511_5d5828c5c6_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39748264511_5d5828c5c6_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUHAgMGCP/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQAGIRIxQRMUUWEicWKRof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAdEQACAQUBAQAAAAAAAAAAAAAAAgEDESExQQQS/9oADAMBAAIRAxEAPwCgxbx2wtXEgrvUjLOpZImbIChgwwOx5XHBz9aa2fflkmpRLC/pSrIytFOPTbpz+JGeD4z8ahDVFzj3DYpKajusNPHXFmmlt8ql4xGRwo5Pc5X9fGuiuN0qlr4Y4pa6oqCeh19hOuOrtwV/sDWpvR9RljOtCFnEHpCpvNuSGHrq4hFMSqSDJTj+XYD70lrrzYoCwnvNuj8nqnGpUu8Qdx3uA1Fwgjjp6SCnDUU56vTjPUzp05BJcdxnGPrSO17qjeu3DNPeaeKKSsUQwSRTZVVjUF8Y/DPHH1nSUmVdzYaoktwlVRBDDKpi9wkj9QBWpcBcfAzn/dNKCjZq2KKCtr43djl/dSHse/DD686NGoTov0xWprYdxTxJdLmjAqrSR1ciu5ZRyTnPgcfr41unqbjS1qGC9XaNp58SMtUwLNjhifJ4899GjRbIRo//2Q==" />
 
 Wir besuchen das Herz. Wandern Sandstrände entlang. Das Wetter ändert sich fast
 minütlich. Nachrichten, Neuigkeiten und schöne Geschichten.
@@ -72,7 +72,7 @@ Das Leben auf Schiffen ist anders. Viele Schiffsliebhaber schwärmen davon. Das
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24832309767_b4e1e0f0e4_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_24832309767_b4e1e0f0e4_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDAAQRBRIhBgcTMTNBUXEjkWGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBQME/8QAHREAAgEEAwAAAAAAAAAAAAAAAAECBAURMQMTIf/aAAwDAQACEQMRAD8An0rpzxACy8fVaODpqJV9MfqsyndbpuzihCO7bpdjb02YQDJbnH0B55qzZd19Ml1W6jKwiGOFnQG4BdiAWAwOPPAz581XddgixtspvWTRP01Ew4jH6pRqHTXhglU4+qX6/wB4dDtYdTW2uIp3WSJLYAEhhtBc8fByP5pH1h3Nhv44p9Omuba3ktL4xqY2VmJh/GWXGDhh8n5pXXPQytvmTl9rfLxvhikb23bT/dMI7q0UuyW9ur4I9NT9+1FFYqbOxwRKNQt8ELbWpDceko/yqOpaiLgKjwQbVVlA5GAwweAPiiij2SaAuOKZ/9k=" />
 
 Langsam gleitet das Schiff übers Wasser. Familie und Freunde an Bord. Ein
 einzigartiges Ambiente. Ankerplatz am Hafenholz.
@@ -84,7 +84,7 @@ Das Herz des Leuchtturms schlägt. Stimmungsvolle Atmosphäre liegt uns am Herze
 Am Abend werden sie bereits im nächsten Hafen erwartet. Und immer bleibt der
 Wunsch, auf einem Schiff zu leben.
 
-[myflickr tag="dasherzdesleuchturmcardamonchai"]
+<Gallery name="flickr/dasherzdesleuchturmcardamonchai" />
 
 Bei diesem Text handelt es sich um ein Flarf-Gedicht. Wer gerne wissen möchte,
 was das ist,

@@ -38,7 +38,7 @@ viel besser! &lt;3
 
 ## Der Winter in Bildern
 
-[myflickr tag="winterspazierganghamburganne2015"]
+<Gallery name="flickr/winterspazierganghamburganne2015" />
 
 _Ach, die bleiche Sonne Wintersonne! Sie ist traurig, wie eine glückliche
 Erinnerung_ .

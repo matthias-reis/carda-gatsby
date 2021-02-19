@@ -52,7 +52,7 @@ subTitle: Der Winter verabschiedet sich
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33267695745_52dc39f3f7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33267695745_52dc39f3f7_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBQT/xAAoEAABAwMDAwMFAAAAAAAAAAABAgMEABEhBRIxBhNBB1FhFCIyofH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgD/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAxJBITFxgaH/2gAMAwEAAhEDEQA/AJrTumNVgRroSFuOYUEE7bfBNVGk9U6xpupQ9DYmxIj/AGCWwWO7J4PG7AFk/sU3SFynmZJTLcdcjsl4pUEjeOLYyDcjNQbutfQ+o4S42HgqWh3cTwXAkpuLXNjtGDbGKDBs5OxrpxLYAKDUqOoNR6mYd786RKkJWSMcnHATYgCitWfOLb8mJKkORXmlBHcQStv8UnKTkc+CaKgPlPP2ZlCmqmAicpgPhLYWlxIbWSgkqQSCRb3xepTUIEVzqWBLQlIYabX3QL5WMIJxk5FseBXWzL7aHG2zcFW4k5Oefj+0xK2DpLjSrB1biXEgeUgEG/tkCrRa7RcbCip8+xGuy1vPSVuL3pWsqBJ9/nnwKKzXHEhNgftHgmxopdVhMSxsz//Z" />
 
 **Die ersten zarten Frühlingsboten zeigen sich. Unermüdlich drängen zarte
 Pflänzchen in Richtung Erdoberfläche. Der Sonne entgegen.**
@@ -73,7 +73,7 @@ Garten hat mich daher sehr glücklich gemacht.
   title="Der Reiher"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33111986962_297b8223c3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33111986962_297b8223c3_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGCAIEB//EACsQAAEDAgUCBAcAAAAAAAAAAAECAwQFEQAGITFBEhMHUXGhFCIkQmGR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABoRAAIDAQEAAAAAAAAAAAAAAAABAhExIUH/2gAMAwEAAhEDEQA/AOu0qlJcbSpdyCNBhwKc0gABGo5xnSmyGEWGmEviVnOHk6lJWQ3Iqr4+miKJsoXsVrtqED3Og5I2sFCfxKzNSsm0jrU2iTV5CT8LEvvx3F8hA/ZOg5IqPXajMlVqbOmuKkzJrR63VC1lBaSCANgALAbAAYk+YKnNrNWekzXHZ1TlXcVYaqCQdbbJQkDbYDQa4h1Zb7sBhUeYXXnUJddITZACkJIQk8WJIPpf8YMmRp+FxswZ1kUTLVVqbMNlZgtFaGiogKNwBc+Wt/5isWZMyVCoyZVVqbplTnljrWo2GpsABwkX0SNsGDCkqwq7prOVBcKnojxQUOyWW3ZUgqu48SOoAH7UjqIsOPeH1CStx/sJ+RISCSN/QeWDBgMp/9k=" />
 
 Dieses Glück möchte ich gerne mit Euch teilen, daher geht heute endlich meine
 Loki Schmidt Garten Reihe hier im Blog weiter. Ich wünsche Euch viel Freude mit
@@ -92,7 +92,7 @@ Baumstumpf sieht aus wie Cthulhu.
 
 Und nun: Diashow ab. :-)
 
-[myflickr tag="annelokischmidtgarten32017"]
+<Gallery name="flickr/annelokischmidtgarten32017" />
 
 ## Wegweiser Loki Schmidt Garten
 

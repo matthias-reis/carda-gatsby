@@ -35,6 +35,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   noSubtitle: no h2 heading found - no sub title
+  outsideImage: article has at least one image from another domain
 thumbnailId: null
 remoteThumbnailImage: null
 remoteImage: null

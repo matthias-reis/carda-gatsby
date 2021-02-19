@@ -25,7 +25,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "7200"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__l.jpg
@@ -164,7 +164,9 @@ Umzug beschäftigt. Zigarettenpausen wären bei dem Schweinewetter sicher ziemli
 eklig gewesen. Dann lieber zwischendurch mit ner ordentlichen Tass Kaff im Bett
 ne Folge Battlestar gekuckt.
 
-[gallery columns="2" ids="7200,7201"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_09_9609956388_0b1b3d5092_o__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_09_foto1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_09_foto1__l.jpg"}]}
+/>
 
 Klar, ich denke noch dran. Sogar ständig. Sonst würde ich auch diesen Artikel
 hier nicht schreiben. Aber ich versuche es jeden Tag, mich weiter zu motivieren.

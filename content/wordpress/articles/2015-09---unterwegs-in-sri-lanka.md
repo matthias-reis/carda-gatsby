@@ -61,7 +61,7 @@ Kochkünstlern, Schönheit und Traurigkeit. Hier sind meine Bilder. Ich denke, e
 paar davon sind durchaus zeigenswert und zeigen, was für eine faszinierende
 Insel Sri Lanka mit all ihrer wilden Schönheit ist.
 
-[myflickr tag="srilanka2015anne"]
+<Gallery name="flickr/srilanka2015anne" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

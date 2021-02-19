@@ -33,8 +33,7 @@ date: 2017-07-07T16:45:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "17062"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-90__l.jpg
@@ -67,7 +66,7 @@ kommt:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-166__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-166__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUHAQb/xAApEAABAwIEBQUBAQAAAAAAAAABAgMEBREABhIhExQxQWEHIiNCcYEk/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAAH/xAAcEQADAQACAwAAAAAAAAAAAAAAAQIDEUIUITH/2gAMAwEAAhEDEQA/AGLGeIcuBw2QdZHUDf8AuE5gRKiVvS3VAn6qBF8d5AyjlWLFSvkn49k6uLxiAR5vthLmrO+QMvrXDdM2TNbUEhDNrnYEnUdgBf8ApGKtazIgpdfDaPkehvREvSHdBUbBJNrnxfrhsnJeW9IulJNut8TTObL1Sq7czK1caqEF5y8ZAXqLVkg2WDsDckAYIqF6qpUU8Iixtb4cC8lBVix3yBq8RMiqzavPjOpB0rkjgOdCPY0oJNhbv3B84VVGgUBgl0QoL2tVlF9QV50gLlAjt0xP8gT5bVSSiLC5j4SkNKnjUEbbgOJWlIBt9e/UDFHk1qU7FSyKfW46m/cpKUBaCLW2cRLbR53QPzElavn2xx58AoM6LQf9NLVR4C1I0eyOp1QtuTdK1dRbucEXUc9OrU43mOjhCzqSOSI2OJ3m2vtc8sw6gxLfWEIRE4HHc1AWsVpWUjftqJwOP6lNtR2m1xDqQkJNnUjcD8xqvTqdmJ7H/9k=" />
 
 ## Mein Tweet folgte:
 
@@ -77,7 +76,7 @@ kommt:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-07-um-18.25.42.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-07-um-18.25.42.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAYAAABp0096AAAACXBIWXMAAAsTAAALEwEAmpwYAAACF0lEQVQoz5VT247aQAzNH7b9ge7HtX1rVakPrbRStwKykC6BLKG5EbKE+yU05ELuwKlngGpX6ktH8tgejz32sUeI0xzVCcho83YR/CjBhrgXRFh4Pha/AxSHE6rjCXl1RHk486w8oKSztKiwz4r/piQvOQk5BQyiGPdSG1FaoG+YEKUOlF8GHro9tLsq3MUay+2OJzhbezzBcJ/BmcwRkg8roLgkxvhV5gkfX55fH46SjJMwW67huiPcvL3Bu/cfoOoWxHsJXVWDrDxClrt4pLOeMcTAnRC3oA0cTJcb6PYTpisPu2iPFaEV7lMu+2HMgzN9QwgGcYLtLsBm63PkWAIh2YM4heBO5xAbDbx+9QYfP32GORyhp+nQTQs1UUJfN9CUZDRbbUjtDgzLRr0h4kejib5mQHqQ0VZUfK/VIbYk3NVEfPl6S3e7qIstfLu9g2Y6kKgQZttnJbXtjAJrn8Bgma82mC5WYEszbaiaCYOqlJU+LHMITbOgqDo6PY0QMmGPJtAokZ8dBc54iuFoDGtI98wB7Kcx+eswbIfa14PluNSmjGYpxJLQ8AmN53MjsI318ECPM8PaD1GSzoitRRHDq1IUxyPXU4LQC2LuzE5K2sIkPw8q+Tynw8XOYGdVn6n6Owd8CONLJuw3ML6iYeN6liPPKsziHeYx9TdJkZJDwPpKSV7vsSBMji7+LE78Qv73D7jKfwCrREKaO6zbqgAAAABJRU5ErkJggg==" />
 
 Gestern Abend und heute Morgen wurde die Straße, in der wir wohnen, zerlegt. Von
 vermummten Gestalten. Mit Rauchbomben, Pyro, Feuerwerk, Wackersteinen, Hämmern
@@ -114,7 +113,7 @@ Internet haben, wird es demnächst sowieso auf einem anderen Weg erreichen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-91__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-91__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcC/8QAJxAAAgEDAgYCAwEAAAAAAAAAAQIDBAURACEGEhMiMUFRYTOCofD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/xAAdEQACAQQDAAAAAAAAAAAAAAAAAQIDERNREjFB/9oADAMBAAIRAxEAPwDGLpPWR3ljTPJiRIpAihNy0an2PenbdUXBpJFVq1oGI5irhB8jYYH907VRKl6t8NRFE5angDSRox7h2+T4GPrOp6g4PmudJLKt0okCxr0uWTl6rDY4U4xvjQuKkZp2K3eZqlFlIeoUgntNUTg9T4H+zo11JbmukNW9I6GeliR1VombmUuFbODvjOc76NM5q4xpto0Kibh5brU1HWmaLESQlUKjkweYY+QcYz61Iwy8MwyQOi7xE8nYcAk77Y1J0Vl4fUbW0nJC99RKcbfR0+tnsagA2mMnBP5JTnH76lkhoo6U32VOU8M08cvQUxM4AZo2cEgEHHj60as7WC0VTDpWXmQDJIMnj2d39aNOSL8YYns//9k=" />
 
 Wie mein Tag heute gelaufen ist? Nun, ich bin nach einer kurzen Nacht aus dem
 Bett gefallen, habe mich fertig gemacht und wurde von meinem Mann in die Arbeit
@@ -158,7 +157,9 @@ Gipfel, der am falschen Ort stattfindet und die Auswirkungen der Politik der
 daran teilnehmenden Staatsoberhäupte demonstrieren. Gegen den Krieg, Gewalt und
 Aggression. Für Frieden und Gerechtigkeit.
 
-[gallery type="rectangular" size="medium" link="none" ids="17064,17065"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-93__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-93__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-94__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-94__l.jpg"}]}
+/>
 
 Hubschrauber kreisen. Die Gedanken auch. In der nachfolgenden Galerie seht Ihr
 ein paar Bilder vom friedlichen Demo-Rave "Lieber tanz' ich, als G20". Ich
@@ -166,7 +167,8 @@ hoffe, dass dieser Artikel genau wie
 [mein letzter zum Thema NoG20](/2017/07/g20/) nur eine Momentaufnahme ist und
 sich doch alles noch zum Guten wendet.
 
-[gallery link="none" size="large" type="rectangular"
-ids="17070,17069,17068,17067,17066,17061,17060,17059,17058,17057,17056,17055,17054"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-129__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-129__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-127__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-127__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-126__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-126__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-125__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-125__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-119__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-119__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-45__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-45__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-44__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-44__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-39__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-39__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-37__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-37__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-31__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-31__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-22__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-22__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-21__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-21__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-20__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_unbenannt-20__l.jpg"}]}
+/>
 
   

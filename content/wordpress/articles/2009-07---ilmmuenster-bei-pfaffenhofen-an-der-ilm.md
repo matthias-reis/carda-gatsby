@@ -82,6 +82,7 @@ Kurfürstentum Bayern von 1802 bis 1803) verkauft.
 
 **Quellen:** [http://wikipedia.de/](http://wikipedia.de/)
 [http://ilmmuenster.pfaffenhofen.de/](http://ilmmuenster.pfaffenhofen.de/)
-[myflickr tag="anneilmmuenster2009"]
+
+<Gallery name="flickr/anneilmmuenster2009" />
 
   

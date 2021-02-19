@@ -57,6 +57,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (56:11)"
 thumbnailId: "5020"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__m.jpg
@@ -81,7 +82,7 @@ erreichen bin.), was die allerdings mit aller Macht zu verhindern wussten.
   title="Beweisfoto"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_einlieferungsbeleg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_einlieferungsbeleg__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUABP/EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQFEQAGEiExBxNBFBVRImFigaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQP/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIRIQMSQf/aAAwDAQACEQMRAD8At7cmrbN6bWd7BaYblUqEjaGVivFD7hLAhWJOcZ6+dJbbdY2p4Ib2tBS3WVQ0lGjq4jzkgAlVJPHBPXRyNRdi1Bj2Vb3YYDIoBLEfLd9a76+uxQytyUkcVHZJyWA+RqOlaKc3UsIFHfLylyrpNxU1qt1ogYhJg36nJfCDscex58ftot601sFfsO5y0ciPTvHBKhixwI95V+NJXurrNKS/BuZUAFtC/UivFVt+5xSHnyXBUnOcFCM/2NO5c9ugc5/C/s3cQaxR2s0zr9LCh91Zscu2+OPXn8nUzdu7/orDJKtJI5WaPOZ/OHH8etbW1hySdWK75J0Abl6je1UOv2tmJOctVHz+ccf80er95yXNZ4JKFF99SnL3CSuT58a2tpybisB+U3p//9k=" />
 
 Leider wurden meine geänderten Kontodaten bei Congstar nicht ins System
 übertragen. Das Guthaben, welches ich auf meine Karte geladen hatte, wurde

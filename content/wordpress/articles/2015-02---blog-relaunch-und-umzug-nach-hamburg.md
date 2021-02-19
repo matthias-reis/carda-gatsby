@@ -28,7 +28,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "9464"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__l.jpg
@@ -121,7 +121,8 @@ _PS: Ein kleines Fototagebuch zum Umzug findet Ihr in meinem
 [Instagram](http://instagram.com/anne_reko/). _
 [_ **Hier gehts zum vierten Teil des Artikels** _](/2015/03/zum-abschied-sag-ich-ganz-laut-tschuess/)
 
-[gallery link="none" size="large" type="rectangular"
-ids="9471,9463,9462,9460,9459,9464"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16153890018_079946d494_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16153890018_079946d494_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16315529296_781afcaff8_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16315529296_781afcaff8_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16315519846_e5959188dc_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16315519846_e5959188dc_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155320399_48821b3c11_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155320399_48821b3c11_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155307199_cf95c988b1_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155307199_cf95c988b1_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16341484335_3cab85705b_z__l.jpg"}]}
+/>
 
   

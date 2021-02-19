@@ -27,8 +27,7 @@ date: 2015-09-09T16:38:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "8429"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_vegan__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_vegan__l.jpg
@@ -43,7 +42,7 @@ subTitle: 10 Fakten über Veganismus - Teil X
   title="Ich bleibe vegan!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14783170858_21a50b64ff_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAqEAACAQIGAQQABwAAAAAAAAABAgMEEQAFBhIhMUETI1FhByIkQnGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABsRAQEAAgMBAAAAAAAAAAAAAAEAITEREiJx/9oADAMBAAIRAxEAPwCZ6OqITqyhnq1RQjSsiwjYA/tMOuhccj7+8UnVcW6COYxH9Zm9ROr35b8042fYuRhC02lCdZZVBLLFDTSpKyc7yfaAAt4YlOuLf5ihZtXUtdn+nckFLXSUc6StE42tI8gdi+zrixY8XJ2kWxnsvkomaOaho5Yq2acbVhSVXayFlDDkcDyTfr4wYpusdCZlIIapWWGjdxL6j+ptVQLRhgqmzW2mx5wYAU1UlDQukqSaA1tc0sscIv6X77jm3HIJ+AefOOs1rqmfU1LnAmzlq6Ahkkmy5y8YBumz3SLrZeBbz/GMqPU0+U0EUdFDDUFms4qLnaPnjo+P7xoUusa+VAZNMZa7HgSiSRBcjru3WLYNTxN+bfiLqEUr5rJmFbewDwvN6Qv0G2gcXHgjjBiXapqqnOrtPRJl6xgjZE5Kub983vxYYMZfk3//2Q==" />
 
 **
 [_Hier gehts zu Teil 9 des Artikels_](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)
@@ -72,7 +71,7 @@ entdeckt, probieren tägliche neue Gerichte aus, experimentieren und testen.
   title="Johanna Schlitzkus vom Tierhof Amoa"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_johanna__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_johanna__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwEFBggCAwT/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREAEiEGMUEicQcTFDJRUmFigZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AK1PaI3XJL/7rlktVS8TSxSFI2ztTHIHjJ/OoxVdYXWp6wisNvEMVBUPFGakKRLGGGW9WcDtgHHnUsuNTd6RY1iq6eWKSVYwZIwSODu2kYBHYcj86Bnt88q3EUdfzGeEnXjB8BvftnTlPbk+YctJn30yGO4S3S4NUiOOjSnw7qNr7y6kADJGPT/eohdutb19dIbZLI9Jn0EUW/Az2zjnQBKl6kubVwq/rpTVxkSQuzZxIpyp5/casJL8TLHVdHx3SZ3p5nQPLSxYOZfKg9xz41VYsVdgp+0c++sZHeQHLYP8AEcnQFOX4n36uucMjV7wWmSoWSSihCKjJu+0nGSccZzrfXV6tUFqBqoxsAzFqkrliOThdC+hXZRqCARkkDSyusjlpXnLH9B40H//Z" />
 
 Wir haben viel über das Thema Tierrechte [<sup>1</sup>](#1) gelernt, haben uns
 mit Umweltschutz und dem ökologischen Fussabdruck [<sup>2</sup>](#2) beschäftigt
@@ -95,7 +94,7 @@ besser als je zuvor.
   title="Sebastian Frost"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAQMF/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQRBSEGEjFxFBZhkSMyQVFywdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAjEDEyFR/9oADAMBAAIRAxEAPwCnDi2f6tAT2P8Aa0ycVXLHaWEdlqbBuRmImZgdsY6VydT1OayvbC2QyzG7mMXMBsu2f37A1fpirIdkmVaXiS8YHFwg7KKX8x3Y+aWN/wAlqXDW5BqD2jxHlTOZ2kULkDJ26054ySUcwQgDOMPnPtRLFHwFzYytwXG3K2PTpSl1bC6uLaaQgNbuXTYY3GKKKeuiKMPp9pIzPLZ2sjnq5QEmldViiMKQmXw8THHwSE6A7Z+3pRRWlxHVZ//Z" />
 
 Ein Zurück kommt für uns beide heute nicht mehr in Frage und das nicht nur, weil
 wir inzwischen die Wahrheit über Milch [<sup>4</sup>](#4) kennen und gegen die
@@ -128,7 +127,7 @@ Taschenkollektion Aufsehen erregt?
   title="Denise in Aktion - Foto: Norbert Zawe"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBAURAAYhEkETFDFRcQcVImEygcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIDEQASEzFxBCFBkdH/2gAMAwEAAhEDEQA/AMXueyL1LuSaJqORBPMViOMiQs2FAx3ORp9fPpPerNSpFcZ6BkjmCVC0s3iPDxnkY9tXTZFzlmvsMtUrzi2xS1HhAFmBX8Fbj15cH5xplv27UwvtPEK2oqH6o0AZEAKSZzwuMgKVHyufXUUXk6SuoXVE9ZVsbiEg1+5lG/rVJU11untdKBSGhiRUBwVxn1+eNGrUNpbnuMdP56yVAEECRK4kChzyScZ/Y0apeVQxCChZrrNRIyoMl6vn2OfrJtp2WusrWbcC1rwivgcmMRArLGzEdHX2/ip4B5xo3NaqJYrheKaOqFyjQPTxx4fxCoxg8ZJA5/rSHem7oaW0bYooF85Db6OOIjrKAyYLtj2AJA9zjTW9114+wUdXT+TWaWOF5qZ43JDOgkXpYHI49+/fSIiSISVo8YjMY2Cg2Mk2/um+2jbluXcNyMkU6Gaj6S0rrG3PSzfrIwMnA47aNd2++qsBG4IEpZ+o9CrCrEjvnsP90aaOJnUM5o94SSojFUFjP//Z" />
 
 Und nicht nur hier in meinem persönlichen Blog sind Interviews mit tollen
 Veganer\*innen erschienen. Auch im Welt Vegan Magazin [<sup>10</sup>](#10) und
@@ -156,7 +155,7 @@ diskutiert, geteilt, getwittert und gepinnt, was das Zeug hält.
   title="Im Interview mit dem Tierrechtsaktivisten Thomas Laschyk"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14962182673_1ce3fc866e_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_14962182673_1ce3fc866e_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACoQAAICAgEDAwEJAAAAAAAAAAECAwQFEQASEyEGMUEiFTJCUXGBkdHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOWV8f0SxM1G2FtnsoZ1V9OJk9tHf3SRs8YZmMo8UdKqCiEKqmRWfTON/sC4Gv8AeGQyFDE269eCsXs9xZrDoAjEA9RQMCfcDZ/jkrJ+t4KeWy1CrUkmrvY6VkKxq4cEFgAARrfgAHyQCeAkotbpX762K7a7nQGB7YJUkNrfvo8OXCH0HHlu5LWy6NXDkgr9X1EDfUCPD+AT8HfDgUzO4nKDMG6KZav1pHGqICQAuj4B3o6+d7B88kzWbouyZlKVZMpEwhUCHtvC8hAjkUHeyPIGz+IH444qW7TtGIKbE7OushSf0355i9hcrdzAtRwlq8ohMhSTQDI2wWHv40NH8/jgW7H+uLC4up9l0alaEr9cIgeQrIPDA6I0dg/3w5vq4qjWsWrMDz0xafraHvMgDedkKT43vhwP/9k=" />
 
 Auf der Suche nach veganen und tierversuchsfreien Pflegeprodukten habe ich die
 Naturkosmetik entdeckt, tolle neue Sachen [<sup>21</sup>](#21) gefunden und zum
@@ -189,7 +188,7 @@ was darüber. :-)
   title="Christiane Bors vom Green Haven Hamburg"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Christiane-Bors__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Christiane-Bors__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHCP/EACoQAAICAQMCBQMFAAAAAAAAAAECAwQRAAUSBiEUIjEyURNBYRUjQoGR/8QAFwEAAwEAAAAAAAAAAAAAAAAABAUGAv/EACQRAAICAQMCBwAAAAAAAAAAAAECAxEABCFBofAFBhQiYXGx/9oADAMBAAIRAxEAPwCLitwJvAinrnbg6MpdIlkCcQcAcgQDkAnGfdqikqvs63G2C6YpJxwCLku6FVZguCQDn7j7Z0hl+pDXqWYK9ePbynsFj1bk4V1cjuAwYfPfBJ1v9YLZ8TtNRbEXipa7t4uOFuRVsjufjkGHb86TCEsQFHff3itFO5rGMvSu93Oh4+sZLwrxwUDy8SeUkkOAOYXGVBUgZJ9uMAajenJK46nqSx2USOMqhUcyhOCvlOQexHp+deg9l3Qx9CX7v6LG5q0wVo+E5Jy+mqlQfRgSB2BORrgW02eoLO629u3CbPB82IjGqAOrjAUKAB3+AdEKp3oVh80SRlCnOXkW1V9w3KoWsQbVaNR0hjgpgI+QWHZSVwWBJ8oPbSIbW9i1JX3v9zcoYTV8kjCNI+RbiqjA9TnP50aNa8u+6dlbcAWPjfJ7xCV10xKmjY/DjelXvVa5pxblZSsKyKI1OP4ofnH3b/dYjXRbJtwvOLdfsvKVmUgnHcfPp3/rRo1Uzxo0LWOL6Yn088nqUa+QOuf/2Q==" />
 
 Den von mir zu Beginn gewählte Titel der Serie "10 Fakten über vegane Ernährung"
 habe ich schnell durch "10 Fakten über Veganismus" ausgetauscht, da sich nach
@@ -218,8 +217,9 @@ Leckeres! Wir lesen uns ganz sicher! Wer im Gegensatz zu mir noch nicht weiß,
 was er/sie heute Abend auf den Tisch bringen könnte:
 [Hier geht's zu meinen Rezepten](/category/vegan-2/rezepte/).
 
-[gallery type="rectangular"
-ids="12572,12576,9431,12574,12577,12573,12139,12575"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Sandra-Umann__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_1016809_626965250655757_993245008_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_IMG-20140828-WA0005__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Kathrin-Eva-Schmid-vom-Tierschutztheater1-e1441814170282__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anhang-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_website__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_website__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_Anja-Umann__l.jpg"}]}
+/>
 
 ## Fußnoten- [1][tierrechte](/2014/08/blutige-zahlen/)
 

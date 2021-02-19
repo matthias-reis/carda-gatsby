@@ -40,6 +40,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (27:42)"
 thumbnailId: "9493"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_img_3672__m.jpg
@@ -58,7 +59,7 @@ subTitle: Gesund und lecker
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets/)  Chiapudding mit Blaubeeren"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3668__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_02_img_3668__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAtEAABAwMDAwMBCQAAAAAAAAABAgMRAAQFEiExBhNhIkFRB2JxgZGhscHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECIUH/2gAMAwEAAhEDEQA/AH21ys3R7igQ0nSmQPEmiZ61xGOaUi9yFjb6Ud1XceSn0zGrnidqgv1DzdwwHrNtSYdUk+oelQ2JB+eOKleSzN0S4pDyUSAktoRpBg7eD90UqzSrNx4Tq3F5J1bVleWtwsSFJZdBIjnb+a6Gsi1i74oYksuJA0EzB9jNYhw79wm7ZcL5aW4CTCIT9pJ/T/CrZ0ZlXRbW6G1F1KVDUZ0wCTG3x/VGsxUyeCP1onvXzTk9wFsShRhKiDH5j5pRuMbZuK1JQsORwDqTPsfJ8Ua6ryaFXDbBiUjmhbTyNlLkxJEftSLTRWUMY+ztFrZWu2c7gIClNrgEjaIM7be1P2CSE3DaWkIQkEqIT4FT+yu0oIIKR+HFNXS2aZGQS24NlJ0zPE0j02owa6f/2Q==" />
 
 **Ihr seid auf der Suche nach einem leckeren Frühstück, das lange vorhält? Ihr
 würdet gerne mal wieder einen Nachtisch zubereiten, bei dem Ihr so richtig

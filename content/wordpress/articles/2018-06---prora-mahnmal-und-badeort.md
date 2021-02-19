@@ -60,7 +60,7 @@ gleichzeitig zum Urlauben untergebracht werden. So der Plan. Oder doch nicht?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42011913974_90feb1c623_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42011913974_90feb1c623_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgIDBf/EACgQAAEDAwMEAgIDAAAAAAAAAAECAwQABREGEiETMUFRFCIHYTJi8f/EABgBAAIDAAAAAAAAAAAAAAAAAAMGAQIF/8QAIhEAAgECBQUAAAAAAAAAAAAAAQIABAUVQVFx0SIxkaHh/9oADAMBAAIRAxEAPwBOMQCrxUtFu4/jTwt+g9KuxUPJi6q6a1bQpPV8Ak8EE9gfFbrh+PLF8N425GrPlADpodYO0nI4JLXGRnn/ACmJLvTjujeuZhPbKlj0svk8RFm3/wBajuwCPFPF3QNobfwZWoQlSdyUGKgKQP3uR9vWQBVZkWSCufMZjzVRorAwJVwfjBKl5GUbWxuSeSftjt2ooulK+RG4+wWH1aZg7HkCWeDr27bEiROxhQJKGwnsrI/frPv1WE2+Q5EiJKfecclRjuYLaPqhWMHIyAeAO+e1FFKZjSoGk507USFTESX+qp5pKmUOIATtSckng+c+qpN0iWeRIdfbtkV2U6suEryFOKJySc8HPeiioBIzlio0n//Z" />
 
 Man wird nicht sofort schlau aus den Aufzeichnungen, die man im Internet findet.
 Klar ist, dass es sich bei dem grauen Ungetüm um einen ehemaligen Propagandabau
@@ -85,7 +85,7 @@ verschiedenen Investoren übernommen und zu Hotel- und Wohnanlagen umgewandelt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41829888405_93d7a8cff2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41829888405_93d7a8cff2_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIEBQYB/8QAKxAAAQQABAYBAwUAAAAAAAAAAQIDBBEABSEiBhITFDFBMhUXIyRRcYGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMxESGBoRITUv/aAAwDAQACEQMRAD8Ah5TwRFeZgPuwuIUomOJa6Xdtlce7Bcc0+Iq9CTqMaFzgPLmRm/6biFXYISttXdNVLJTfK1Y1I+O6tSMX8P6mIGTvtZa31ZC0mU0ZVCImtSFVvr9gBd4WfLmsfVQqClJaQFQVmZulKok2OX8YB0vXTXBe1/ruKKkO3j1M19ucvlPQldLiJKZjJK3VSWQIpAB5HKT5N1tB1BxTZtwJEbhLltI4hRUrtyy9JZSoDmrqfGin2PZHrG0yObPIyZIisLbksKVLd7qlMqBPgVvBO31VHEiRJzlvKMwlIy2Ip5uWUMMiSaeb5k7yeXaaJ20fHnFLfauHI5MlqK2yoPAiw+JY7bDClS09I7XTypAWa0As7f6vHM7mTFRw5GQlL/SWmOp5tPKhXlJNG1Jv+DgwYB9sRq98ylyGdMhQ4rcy+swkh8Jb6ballXNQ5hYHmv8AcNJ4oZRIVBedf7lxBeS2hA/EPN6IN+Pd4MGMW0nGGgn/2Q==" />
 
 Die Gebäude am wunderschönen Sassnitzer Strand sollen attraktiver werden. Ein
 Publikumsmagnet. Bis jetzt sieht man davon noch nicht viel. Anonyme Modernität,
@@ -115,6 +115,6 @@ Militärstandort der DDR. Zwischen 1990 und 1992 war dann die Bundeswehr hier
 ansässig. Die Häuser verfielen nach und nach. Seit 1993 sind sie öffentlich
 zugänglich.
 
-[myflickr tag="prora20180609artikelanne"]
+<Gallery name="flickr/prora20180609artikelanne" />
 
   

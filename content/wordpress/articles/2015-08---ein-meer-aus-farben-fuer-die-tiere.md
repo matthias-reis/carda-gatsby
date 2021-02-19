@@ -27,7 +27,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:9)"
 thumbnailId: "12288"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__m.jpg
@@ -46,7 +45,7 @@ subTitle: Bilder von Denise Slapansky
   title="Denise auf dem Überlebenshof Scottmaring"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11913231_1009917619054983_262499720_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11913231_1009917619054983_262499720_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDBBEABRIGITETUQcVQWFxIkJSocH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAcEQACAQUBAAAAAAAAAAAAAAAAAQIDESExQRL/2gAMAwEAAhEDEQA/AOvY+kKtmxE1ndFCWhGYGRwcq/fBJX9OAMEjwSM9tMfWmz7fJX23bakm7V2MZjkjFozV6sBY5lk5DKk+QBjl4GNY9tG4x3djeK04hkiZVj5BeRB78Wyc8fx4zp33jqmj1X8QqrbELEVcVxFakmATksRPuQCGBwM/nUYxck4rY3Shvhn1qnInWCbRarBtvpbhxjsSMQksKL3OT+3JB7fyxo1Y9ew7bc6w26lElNUNeRplqWRKS5YKA7Dty7Z4gke50aeOhdNPRnq7iBiKCvIue45FSCffzq53K5N07uFevalE9qcRGRa6p6YXOeJYEgnH0XAGftqjhgT1lxhfckf7qUlNTbEoACjLINWtZ4MTGvqKf5leW/CVjFaJa6xJ4VSS3IH7knRpf2+27W1ifIWZSnLP18j+xo1Nqw/R/9k=" />
 
 **Vor Kurzem berichtete ich hier im Blog über eine sehr liebe Dame, die vegane
 Häkelmützen mit Statement [<sup>1</sup>](#1) herstellt und sich für die Rechte
@@ -71,7 +70,7 @@ zum Einsatz.
   title="Denise beim Zaunbau auf dem Überlebenshof"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11910611_1009917545721657_897681080_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11910611_1009917545721657_897681080_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACgQAAEEAQIGAgIDAAAAAAAAAAECAwQRBQASBhMhMTJRQWEHgRQiwf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EACARAAEEAQQDAAAAAAAAAAAAAAEAAhEhBAMTQfBRgaH/2gAMAwEAAhEDEQA/ANOzuJjtgGdLaix+S4S4XNqQSBQJ7fVH9awDGieni9iY9QchLJKEgItTXj0Hl1AJHz+9WjJZOdlIqcXmcoeY1LXEQovLW3vSCaDlWU/1NLPYiiTWum8BAaW6vEM5F6bFlLckvPuG3CDQCE2bQQSrf80KHfUmXnbh8dhbx8SL4WafkbKLzXG86eXi8gvqBdDQQFqH0Onav9vRp1Jhtryynylox07kOIG0HebPcn381o0I1RFrIbKn4rEyWzAbdjSg+xMRJed5YQwtO4bkkdO5JPQV0HvTvhqHkk/zRDLLUpMmQ7AChZaU2VLUgCgdi12NpNDcemk4NGDlPty2ZWRyDsZ1KUyMggoCbJ8UgkffWyPY1P4WVkkcTIM91ECBCkKIaZSd0hzcaKlE9W6Pcd7sA99TO1DbPdqvTq55UbJ4bxeSx7kzFMtmHmElwDnC2XAdymrPiQoVR0atcZ+Hjs7Ow0xO+NJSH2ypPiCaVRPpVG/Sx60aHdcygUhx2uJnvxf/2Q==" />
 
 Licht, nur durch das Licht entstehende Farben, Luft, Freiheit, Liebe. Das fängt
 schon beim Futter an: Der Einheitsfraß, den z. B. Schweine bekommen: Ein grauer
@@ -94,7 +93,7 @@ gehört.</blockquote>
   title="Bild aus dem Atelier von Denise"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11846215_1006376552742423_1526749849_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11846215_1006376552742423_1526749849_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAQID/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDAAQRBRIhBjFhEzJBFCJxQlKhsdH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EACURAAIBBAEBCQAAAAAAAAAAAAECEQADBCExBRIyUWGhwdHh8P/aAAwDAQACEQMRAD8AbtFju9UVrVZbWNhhBloyrY5IwfP8Ur1Bexqyk3DiG32osk77mP7mPnnt4NM9V2smnWaG3nmWJ3SKZ3OTgn3jPCkZ7/5W8GnE6ElzYRx3si7hFC52qSDznOefzTpzFVAFaQ2t/J1+3WXjdPW8TccQV8BIk+VM9KBtQubL1CEWFSGyPayAqQfOR/VU57CG711rP6hVMeSSBnbyOfzSllp223SWGL6DUmA9aK3w8JJHyh/V5GK4dO6k131A3qxEENMrSLEY1BTGPcST2+OAc0jn5DXLbm3pkB9zzxui9PxGw37XKn6HFUIjb9R6c1v7kmUpID9vOcFeec+KltFe6NaC3iaB1wW3SFlLgDBYgDvgUUUJwLWYccd2am3dZUF1TBIn0msWOjz3ciT6l6abl+OGxngZbmrFlpENreSXEca7wrBduR34OB2yfk0UUHqd5wrIDAjiqWnZ4ZzJr//Z" />
 
 Denise geht es um die Stimmung, den Ausdruck und den Kontext. Sie möchte, dass
 ihre Bilder immer wieder gerne angesehen werden.
@@ -116,7 +115,7 @@ beitragen können.
   title="Sissi und Franz"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11872662_1009917649054980_786126211_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11872662_1009917649054980_786126211_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYECAIDB//EACoQAAIBAwQABAYDAAAAAAAAAAECAwQFEQAGEiEiMTJBExRCUWFxYoGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAdEQACAQUBAQAAAAAAAAAAAAAAAQIREyExMkFC/9oADAMBAAIRAxEAPwCx27q+hobFVG5swgljaPCHDNlT6T7HHefxrg+6t33ldoSbTatrK6urYvlhUOq82VmGQcdnwnBPZx56e9+br2tfqKioprpL8KKqE8wiZkYqscmBkAn1cevz9s6rZRXowX2C71d1ro1njlWMLGryekcDITkHkW7A9h596FyKQE1uo0bgqYKu+1VPb6pbjKkSBTACxaONRGGAH04QH9HStWzyQ+BkdZFwODKQwII9j/WsLHXzxXRHhCvNUq0ayMcfDOSAoI/i2evudENwkujiStdhKy4Mgbkz94wc58sf7rmpYqU3F48E8eOmuTv4nBIDHsgcB1nSfUogpKchVBKLk4/Y0aNItEPybLYSt1tvElcVpxjr6dR7ESlVShDxB5kgdZ6GjRpZ8mlwj//Z" />
 
 Während mir Denise von ihren Kunstwerken erzählte, berichtete sie mir auch von
 Sissi und Franz. Sissi wurde von einer Tierärztin entdeckt, die ihn auf einen
@@ -133,7 +132,7 @@ aufgrund eines Hodendurchbruchs für den Bauern "wertlos" geworden war.
   title="Franz"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11882296_1007471632632915_4177767694622563308_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_11882296_1007471632632915_4177767694622563308_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAsEAACAQIFBAEBCQAAAAAAAAABAgMEEQAFBhIhBxMxQVEyFCNhcZGhscHh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMCBf/EAB4RAAICAQUBAAAAAAAAAAAAAAABAgMREhMiI3FR/9oADAMBAAIRAxEAPwDnaAZ59L6hpkC2qKBl2833BWIPxb/MTg1G6GaWIMqiWEbgfBMbe/Po4ofRaR6iHNKcqb9gpcj4JFh+POFuk6X6kzfKYqjI6WPNKOptKJKdl3wyIGVo33Fdv1eOQbAg459LxKUR9yylIQXleSgmUsLfdoOObXZvP5/zgx08601nGnIHTPMtqqFmksoqE2FmA9c8ix8jjBhPhBL6OnT2p+wZ/Rzw1TlKioUlA52bSQDx4v8AJw5aM6jTabyybJlKORNKAQACpuQFJ92A/fEo09alroWglR4O6spVXB2EMPBHgE4xayqKmk1hnYgdigrZO2oH0m594NCPa/BFjW2mbupuoXz/ADeGokl7kqQLG5C7QpBPAFzwBb9MGFalWSorKaOocs7Moa/q5uf7wYo5RqWkws2cj//Z" />
 
 Die beiden waren von Anfang an ein Herz und eine Seele, Sissi kümmert sich ganz
 rührend um den kleinen Mann. Wenn es die Zeit zulässt, besucht Denise die beiden
@@ -145,8 +144,9 @@ WYOB [<sup>1</sup>](#1) sein.
 
 ## Bildergalerie: Tiere von Denise Slapansky
 
-[gallery type="rectangular" link="none"
-ids="12292,12290,12288,12289,12287,12285,12283,12284,12282,12280,12279"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11874121_1006377269409018_1194451326_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11874121_1006377269409018_1194451326_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11872625_1006376692742409_1099315609_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11872625_1006376692742409_1099315609_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11868863_1006376532742425_1659670394_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11868863_1006376532742425_1659670394_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11857540_1006377342742344_1715385548_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11857540_1006377342742344_1715385548_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11854045_1006376389409106_2043316742_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11854045_1006376389409106_2043316742_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11850939_1006377589408986_1144046089_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11850939_1006377589408986_1144046089_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11850989_1006377592742319_1381258280_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11850989_1006377592742319_1381258280_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11850850_1006376542742424_1752954134_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11850850_1006376542742424_1752954134_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11845950_1006377582742320_1616986682_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11845950_1006377582742320_1616986682_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11845934_1006377142742364_700968421_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_11845934_1006377142742364_700968421_n__l.jpg"}]}
+/>
 
 Mit lieben Grüßen von Denise sind hier für Euch Berge mit "Meer aus Farben":
 

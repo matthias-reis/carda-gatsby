@@ -29,8 +29,7 @@ date: 2015-11-30T12:02:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "13234"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n__l.jpg
@@ -45,7 +44,7 @@ subTitle: '"Ich möchte Schmuck für Veganer machen!"'
   title="Brokkoli von Mad Yeti Creations"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAfACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcBBAMGCP/EACUQAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSIQYxQVEHYUJxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEESFBE//aAAwDAQACEQMRAD8A6PZhnmgfUsul2EIv79nhuFGyKW3do5m87QVOWXzg5FGmXn6pQfJaanJfyrqckotlbFvFGyqrIecjv6x258msmVeaE2o7JZFprXYEYfTr6XeRG/09zPOw2STTSNJMvnaS/Kj6GAaM5X3SQ+PrvU7HqMWllLJPDcPG0sWM8HJbefYySD4GPdOxVAOBSxbzcmyOiLGt+q7Mt4we1AuqNO0vVbSSO/ht55o1wgZ8OM4OODnn1Wwv+qrywxu254o2b2UBNVtqFqFD7GyhuGDOnYrSx0+O3thDC8hLvGpAZm7ZI79gKJsuTkCoSGJXDLFEGH5BAD/azgUqqxWgQeRKNT//2Q==" />
 
 **Nina:** Ich lebe jetzt seit rund 10 Jahren vegetarisch und habe immer weiter
 auch tierische Produkte wie Milch und Eier weggelassen. Seit diesem Jahr habe
@@ -74,7 +73,7 @@ andere das auch kennen.
   title="Avocado von Mad Yeti Creations"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQcI/8QALBAAAgIAAwUGBwAAAAAAAAAAAQIDBAAFEQYSIUFRBxMiIzFSFTJCYWJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMRITESQf/aAAwDAQACEQMRAD8A6PvVobVeWC1Ek0EqlHjkGqsD6gjFGFuZX5ci2cyoqPLmTzLMI9rqeMoHJx4vcD8xZZh+8KfaBmM2VbLXJakqw3Z2jp1pGXe3ZJXCBgOZALN/MGgCTyUzedmWEd6xaPd0asqN9Vi3C0caDqFOjOfsNB1OLXLqENd2kLPPZcaPPKdXYdOij8VAGFzZ/MB8PigYyStDIkHeSMWcqVJDE8z4cNVCUSICNdcTRYt1YsXhipyMwsgPTCb2l7P389ySmmU7htVL0VwRswXvFUMpAJ4BtH1GvMYd2GBMDrhZQylTwwZQ4IMzTYHZHN8gyuYZhYlszT3xMRIw3o4wjDTgTzPprjQstVkXip0xLRTgqjGqrFSBB8lsxOS3Z//Z" />
 
 **Nina:** Tatsächlich habe ich erst vor einigen Wochen genau diese Erfahrung
 gemacht. Ich habe als Kind Rosenkohl gehasst! Mir wurde immer schlecht davon und
@@ -114,7 +113,7 @@ war ein Burger
   title="Das erste Schmuckstück war ein Burger"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image2-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image2-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcAAgQD/8QAKRAAAQMDBAAEBwAAAAAAAAAAAQIDBAAFEQYSITEHUWFxFBUyQVOBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EACARAAIDAAIBBQAAAAAAAAAAAAECAAMRBBNhEjFBUfD/2gAMAwEAAhEDEQA/AHKlsVzmyosBkOzZLEds8BTqwnJ9M9/qsd2vkO0RVSJy9jKRkqxmkXqvVNjvOuHZ8mc6mKlDaGS8ytKGkADKdwBCQVEkk47rM7FRoGy3HpW18c4I/wCBMh3BsrgS48lA4JZcCse+K0lFB+kxZI71tRFjSvjZG4odS0oJKccknrb0M9cijjbUuPf3LuRcuhaX9KHR5gq/pya02UQZ7chn8E5sHPpvT/RQNqiMnSrL1yVpOUFukNSPl0paWXW+zuCQpJ5A+pNOIVdJKTlJIPmDil0r8Q18gqdYb+8QV8MJlruWmGZtrtcmAwlam0MyXFLCCMZLfSceoA5FFqjk5wB7VUknsk486n2pqoX2husFjllGD63Z/9k=" />
 
 **Anne:** Was war denn das erste Schmuckstück, dass du gemacht hast? **Nina:**
 Ich glaube, es war ein kleiner Burger. Realistisch aussehendes Essen
@@ -136,7 +135,7 @@ gefällt es total.
   title="Jede Menge Kohlköpfchen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_image3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYFBwIDCP/EACoQAAEDAwQBBAAHAAAAAAAAAAECAxEEBSEABhIxExRBUXEHFSJCYYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIAA//EACURAAIABQQABwAAAAAAAAAAAAECAAMEESESQXHwIjFhgZGx0f/aAAwDAQACEQMRAD8A6SfYn20E7TSetFXK+WyiUtNVVtNlAUSDJnikqIEdmAcd6S93bxuFs22b23bF0tE2sBwvcVrAVgEpkYmOie/vR3rJSjBvxnn4iHqFXe8MfpMnGNZppik5EaTqS/1G4aC2OsUaHysmqeQHuLfiTKf1Egxk4BB6+tMW0VFdpb8a08A86nhykNwsjh/UfXxrSaoTJmgDa/1t7xUufrfSO+X7Fcbm/Dy4IvSahm/pXamH1vIZeBQS5BHBWTyAnsROoZ22eSjoq2434utocDL1O8CUskKKVqJJIVx+fjPsRqy99baut3S7+U3U0ZcIJbUkFE+5B7STiYxgagrVsH0tsbt1aymqa/eVuSlRmTMZ0FaNg7YAXb0giUXiOLDbmIfdNDWWG+MU1juVTQLqqLm4ad+QY49DPEmSBETE6I2Tu15luzUrTATbFnwqRHNSFEmcjJPKT7zOY05Uu0LJSHkxbmm1QAeBIH+a22/bFmoLguupbfTtVSu3Eggn5Pff867LRMtirkWPRCFpbEEEg9xH/9k=" />
 
 **Anne:** Das kann ist nur bestätigen, das ist er definitiv! Wo kann man deine
 Sachen käuflich erwerben? Ich kann mir gut vorstellen, dass das den/die ein oder
@@ -154,7 +153,9 @@ hingeträumt und dort einen Stand mit meinem kleinen Mad Yeti gesehen!
 
 </p> __Anne:__  Du bist Schmuckdesignerin mit Leib und Seele. Was bedeutet Schmuck für dich? __Nina:__  Schmuck ist mir wichtig, weil er Individualität und Farbe in die leider oftmals viel zu graue Welt bringen kann.> ## "Ich möchte gerne im Umweltschutz arbeiten" __Anne:__  Was machst du, wenn du nicht gerade in deinem Atelier sitzt und Schmuck gestaltest? Arbeit? Studium? Hobby? __Nina:__  Ich studiere im Moment Geowissenschaften, da ich gerne im Umweltschutz arbeiten möchten. Ansonsten ist mein größtes Hobby die Kunst, deshalb schreibe, male und bastle ich am liebsten den ganzen Tag, wenn ich Zeit habe. Auch das Filofaxen ist mir ein sehr wichtiges Hobby geworden. Ich weiß nicht, ob du das kennst. Man dekoriert seinen Kalender mit bunten Washi Tapes, Stempeln und Zeichnungen und kann jede Woche individuell gestalten. Das ist ziemlich entspannend, gerade wenn man den Tag über Stress hatte.Außerdem koche ich total gerne und mache etwas mit meinen kleinen Hunden, Bimbi und Vangos. Wir haben sie aus dem Tierschutz geholt und sie sind das Beste, was mir passieren konnte. __Anne:__  Wieviel Zeit investierst du derzeit in die Schmuckgestaltung? Jetzt vor Weihnachten hast du ja sicher eine Menge zu tun, oder? __Nina:__  Ich verbringe wöchentlich bestimmt 10-16 Stunden damit, Fimokreationen zu gestalten. Es kommt immer darauf an, wie viele Projekte und Ideen ich habe! Und ja, gerade an Weihnachten habe ich viiiiiel zu viele Ideen und verbringe nächtelang damit, sie am Fimo auszuleben! __Anne:__  Du wohnst in Gelsenkirchen. Stammst du auch von dort? __Nina:__  Geboren und aufgewachsen! Ist nicht die schönste Stadt, aber ich mag es hier. __Anne:__  Vervollständige diesen Satz: "Das Besondere an Gelsenkirchen ist..." __Nina:__  Das Besondere an Gelsenkirchen ist unser Nordsternpark. Er war ein früheres Zechengelände und wurde dann renaturiert. Jetzt kann man dort auf einer riesigen Fläche mit wunderschönen Halden und Wiesen mit den Hunden spazieren gehen und man ist raus aus dem Stadtleben und mitten in der Natur.## Der Shop ist schon bald fertig __Anne:__  Wie sehen deine Zukunftspläne aus. Wie geht es weiter mit Mad Yeti Creations? __Nina:__  Zuerst einmal möchte ich als nächstes Ziel meinen Onlineshop ins Leben rufen, in dem ich Schmuck in erster Linie für Veganer verkaufe. Ich produziere dafür schon fleißig (oh man, bald kann ich Rosenkohl schon wieder nicht sehen) und fotografiere meinen Schmuck was das Zeug hält! __Anne:__  Was steht bei dir heute noch an? Wie wird der Rest des Tages aussehen? __Nina:__  Ein paar Freunde und ich gehen heute noch eine vegane Currywurst in der Pommeserei [<sup>3</sup>](#3)  essen. Das ist ein kleiner Laden in Duisburg, der richtig leckeres veganes Essen anbietet! Ich kann ihn nur empfehlen, falls du mal in der Nähe bist. __Anne:__  Das werde ich mir auf jeden Fall merken, die Adresse ist notiert! Nina, meine Liebe! Vielen Dank für deine Antworten! Das war wirklich ein tolles Gespräch, ich hoffe, dass wir das irgendwann wiederholen werden! Ich wünsche dir noch einen schönen Tag! __Nina:__  Danke, es hat mir sehr viel Spaß gemacht und ich kann es nur noch einmal sagen: Ich freue mich riesig dich kennengelernt zu haben! Ich hoffe, wir sprechen uns bald wieder. Bis bald und auch dir einen wundervollen Tag noch!
 
-[gallery type="rectangular" size="medium" link="none" ids="13219,13225,13223"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_image1-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_image1-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_image4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_image4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_image3-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_image3-1__l.jpg"}]}
+/>
 
 ### Fußnoten:- [1][mad yeti creations auf facebook](http://www.facebook.com/madyeticreations)
 

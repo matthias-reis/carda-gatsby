@@ -74,7 +74,7 @@ Touristen ist Kalmar besonders attraktiv, da es über einen Flughafen verfügt.
 Wir für unseren Teil erfreuten uns am wunderschönen Campingplatz, dem Strandbad
 und den tollen Fahrradwegen.
 
-[myflickr tag="annekalmarsverge062018liebe"]
+<Gallery name="flickr/annekalmarsverge062018liebe" />
 
 **Quellen:** Wikipedia, kalmarslott.se
 

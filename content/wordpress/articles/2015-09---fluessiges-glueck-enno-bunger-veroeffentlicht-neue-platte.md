@@ -40,7 +40,7 @@ subTitle: So klingt die Vorauskopplung "Renn!"
   title="Enno Bunger mit seiner Band beim Backstage Open Festival in München 2009"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_9825441026_d0361ee00d_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_9825441026_d0361ee00d_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABRIGMWEhIkETFFGBBxWR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGB//EACYRAAEDAwIFBQAAAAAAAAAAAAIAAQMEESESQQUTFDGxImFxgaH/2gAMAwEAAhEDEQA/AGOjq3Tm1GS1PUghmECxckQFSBg5Gc4YlQSRg9/zjUX/ACJ1kOpc0kCxVkKmONfQOfycayjaOpbNmFaUgIiz7QNWOPp23ftPJWeJBXCBzJIFIY9lx3Pz2BxrRYwg09QO35fGFBjw+WOZynJ3fZXfZ9og3FI0p/QQ0aYd5JfB9QPOTrrP9YTRGCdlgjHFeJ/39nSNXaN22nYZt9ijZ6rUvuIJYeS8eTlAW5AD3g+0AlvAyTpdfuNuqoLe403nSvDLJEWIkVnGeHHBPJfnt8aQir4imICfG3h/KcqOFTNThKDerN8/bfHZ1jnSN2tS3WF7zSKoVmGEDISPhwT6j07eRqTTqC8bpYWg9dpWY4jBMqfsHj2A8frRo1OwTycyzvi6qpgFw7JzeOq2uVoasMKRwmmlWbE0jEmMjjIo5YViAqnAwQMY76U/uefuIkjkPcyHv5GjRo9EXLOXR7IVTG0oBrza6//Z" />
 
 **Enno Bunger begegnete mir zum ersten Mal auf dem Backstage Open Festival in
 München 2009. Seither habe ich den Musiker, das muss ich leider zugeben, ein

@@ -60,7 +60,7 @@ Unbeteiligtes.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Chelsea-Handler__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Chelsea-Handler__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBwMGCP/EACsQAAIBAwMDAgUFAAAAAAAAAAECBAMFEQAGIRITUQcxFBVBYXEWIjOBof/EABcBAAMBAAAAAAAAAAAAAAAAAAQFBgP/xAAfEQACAgICAwEAAAAAAAAAAAABAgADBBESIQUxUSP/2gAMAwEAAhEDEQA/AMtxhVrpeqe3rXOECu0f4qZJUZanTJwqL4Zjk5+gH31XXqPs647TlfGW68SZCseo9LMGX886ndgXOvuHe1/uUW6mA9TsVipRW7lMMcrz7Y9uPOdPbxZ623JF1mbjr16FbvBY1NUKuepgoDY4UAAceNSCvbjXrWD11sa9kjfyUaVK9XKIemO5f1FbJEO6VF+YQ+lu4eDWpngHHkHg/kHRqodrzGiXNmFUUuumVLM2B9D7/wBaNH5OB+hKdCLVv0O5K2281Np7lMqjS71JGNOtSzjrTOTg/Q+DqY3BcJU6OIFstUiNDqDu0hVIYlWGRyOMY8af9H9gLumYbheKdR7YgbpDH+Rg2OT499XtN2zb4kVmpRVVaaBUAHCj7eBrDP8AIUUXABeTD38h2NU7JpjoGcgRM0Jv71JC5BHto1s17ssidcpKQYpZO87u/sqjPA/3RpyL63ALHUAsx2DEAbn/2Q==" />
 
 Man starrt in der Bahn vor sich hin und plötzlich kommt jemand auf einen zu und
 sagt "Hey, warum so finster?". An der Bar im Club scheint es seit Jahrzehnten

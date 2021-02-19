@@ -30,8 +30,7 @@ date: 2016-02-24T12:40:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "14052"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_25205156946_95777fe967_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_25205156946_95777fe967_z__l.jpg
@@ -46,7 +45,7 @@ subTitle: '"Aufregung ist etwas ganz Normales"'
   title="Petra - Hochzeitsfotografin aus Leidenschaft"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_Petra__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_Petra__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQGBwgF/8QAKhAAAgEDAgUDBAMAAAAAAAAAAQIDBAURAAYSEyExUQdBYSIycYEIFDP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8As/1p3JW2S2UVJa6hoqmtMrtwn6uXGBnHgZcZ+Bj3Os/XLclcLMaN7hPG/GAC0rB8DoMtntnz01orf9ipdx1VNV0kkLXCghqKdlnZkheCZcSBnA+lhgMrefIOqsj9DDDcCLzuCCaj4A0ihTHM5x3Qk9Ac9R1Hf4wFi/x+3ZWXvZEkd6lL1Ntn/q85z/onCGX9jqD+tGlPSXbsO2HuNsErVFCzc6NgX5xPbqftAAAGB1z199GgnF3loqC0yxwqrQzBuZkcXMB7g57jBOobeVhqY3Skj4a1kUiV4ywTIxxeCcDGmt02+qNquFHSTRtXKHmo0Y/cM5CN+csufbIOlrZKaukp3kDxvw4ML5BU9MqR8aDp7YMsCiKR2hVEwCDlicjOTo0vRVqCuKSUkTARnGAzDGR+QCdGg//Z" />
 
 **Petra Fritzi Hennemann hat sich als Fotografin längst einen Namen gemacht. Das
 Braut &amp; Bräutigam Magazin, Wedding Style, Hochzeitsgezwitscher, Frieda
@@ -77,7 +76,7 @@ gerade vom Libertines-Konzert. Es war genial (lacht)!
   title="Auch Matze und mich hat Petra fotografiert"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604659143_71847c8016_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604659143_71847c8016_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAqEAACAgEDAgUDBQAAAAAAAAABAgMEEQAFIQYSEyIxMkEHFFEVYXGB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAQID/8QAIBEBAAIBBAIDAAAAAAAAAAAAAQACEQMSEyExwUFR4f/aAAwDAQACEQMRAD8AzzapLOz9R74b8HibhOrwTGKVwQzlS2MEdwxng/nVbspjk6pmiiaGvVSSWeG1LCXIVlQ5RGJHtQEgA4HOdJJo/vOsepI0aeYpZaHxO8q5Hd2lj/S4OPTPA1xdLC9vH1d2OGad6lk3pKxmMKuEcKwbCkBeQoH+GkdC2pfC/HqTgbgxrOEqy3JBEbEqWHKNL5lCcqrKeS2V/f8AHHGpeiIK1KktpgVqeLXaJgQCoLsMkAn3BML6fONXXVTUkkvQStUlQTSlREfNARITg4PPuxj1+OMaitzpLbrbglexWb7e3HOIJWKdwVck8jBBwRz8n00NR7av3+e5V6zNE2voXbYme+Le4yzzcyNNKrl8nJye0EnPz686pI+kNmo7zR6i2qs1Czt0rWpYYJCY7LsGGSH7u0+YjI+MfgaNGteSw5GFbAiZ4dsj3i9uUlBrEd6VrL1JpsxLIxPI7QDgdx4z/OdKt3sbbHtE1f8AQNsJjdJpZewmSZjkEEknA5HA440aNKufUbdvmBbmf//Z" />
 
 Bei "Down in Albion" habe ich natürlich an Dich und Matze denken müssen.
 
@@ -107,7 +106,7 @@ für ECHTE Bilder.
   title="Ein Bräutigam bereitet sich auf die Hochzeit vor"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604632903_b3ea0c9f3a_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604632903_b3ea0c9f3a_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QALBAAAQMDAwIGAAcAAAAAAAAAAQIDBAUGEQASISIxBxMUI0FRCDJCYYGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AXdlXrdc0pYchMznc7UuLdSyVH6OAcn+NPDwmuhivUyTCnLhR6206twwW5IeX5ICQHMjgjJPbtxnvpJ/h6aeqF9QG2Y7klDb255KASEIKVAlR/SOe50/bYsmjRqzDl0aM1DXTQto7VpVuBb27CvvwVZOfoDjQW9wVNNv25Jn+gmVBxGA3GiNlS3FYJxnB2jAJKjwANKCn+LFv3XVW6SqDNp8mR0NKfUlSFLI/Iccgk8DI/rXQjsV6FFSpzBQcFexXdPyDxyOe2lNXvCeDWr8tKpUlpiBHjqW477JAdCPcbJIHUrdnJJ7H9saitTU6fCt636TKoEVqmuU2THYZ9KgIy0+6hhxCuOvIc35VnrQlXxqU1KdpbTTElZmSKc83EXJVhK5JUgZcVweSeT9nRo0GtoC/PdnqUVnY9wFKz8f5qtvWRupctp1tLjS2lJUhXIUCDkHRo0H/2Q==" />
 
 **Anne:** Konntest Du das schon immer so gut? Kann mann das lernen, oder muss
 man da einfach der Typ dafür sein?
@@ -137,7 +136,7 @@ Gebiet.
   title="Spaß beim Fotografieren"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863761819_34c2008ac2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863761819_34c2008ac2_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgQH/8QAKhAAAgEDBAECBQUAAAAAAAAAAQIDBAURABIhMQYHURMVMkFhFCIjkaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxExBCISQXH/2gAMAwEAAhEDEQA/ALe3+cWiVYzH8UEnLhiqlUx9Q7ySeAveQdOB5Ysl6pKC2W+propD/NOjBBCNhYEqe+sHkYzqJpvBrTSWyb5Ss6zFQcyVDSkoDkqu4nbkgHI9tVtRQfJaA1UFU6XARoZijErIUXGD0SCSee+fbWbVe7jPqWpUuO2zGVT5NSU8kcVwt1xo5nXISSEHnByuQSPt31yNSd29RaCmXEtBMAw4BkXIPsRjjWn6n19HZIrfefIGiKMP07Q1IZ0DNtYkBRuLYVhnr31jV0Xi0tOktLarVJE6CaJzTq4KkAg857Gl8i+ytt4HyK8CdGNhbEtltFSlTUyvBEwxI4Ifdx+7j7Z/zTWgqTWXOaOVE+FCHbbjOSshVf6250aNHjAL1GpRYoC5E5b650zeUTUVqeY04p1es343hj9AG3j8nOfvqA8gq5bNBHR0bMscUYSM7jkKoAA/OjRpF7F7gjak1ygKCJ//2Q==" />
 
 **Petra:** Das war ein relativ langer Prozess. Als ich mich 2003 selbständig
 machte, fotografierte ich sämtliche Themen aus der Portraitfotografie wie
@@ -162,7 +161,7 @@ Gefühle mitzubekommen, ist genau das, worin ich aufgehe, was mich mitreißt.
   title="Die Sonne kommt raus"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863751099_1214dce52d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863751099_1214dce52d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcE/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDBAAFEQYHEhMhMRUiQVEWMkJxgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0zeDX0zRD1pEODCeYktSHX3XirLaWun2SE4yTzxgnzip9sdwous4URXRw+9KksdRpkpaT0+KkgkqPuLbifGRkKHxSnf2w2qboW4XSSG1TLZCfdhZUVYcUUgq8/Q7D7wfgUu2iTG0vtRpaIpAkXiWPUWWWkKB5OqKkk4HfCSkHP1/FBcZGtS1xQ7BZWovLaDack4S4UhWfHfAP90u3jul5sn4+NOyTGflznmnVcEucm0sLXj3hQGCM9qU7mWaA9e4MV1lwMMJTLbQ3IcQnqlZUVe0jPuGe9N9Xrav72kA0+FOIekrcKxg8hFIP+lVBnu60i8u6QurU69PSW3GCkp6LbYwSAf0gVVIt2uPrOlkpeZRLhwGokd9LagEIHIJPHlgkcvJ8/VFFBZNfT7u1dbeLnep0woaKW+klpgJBIyMJR38fNd67vJgwLS+Sl8MF0tBxIJBWkBRUf3HAwPqiig//9k=" />
 
 So war es dann irgendwann klar, dass ich mich auf Hochzeiten spezialisierte. Das
 war noch lange, bevor der Hype mit den Hochzeitsreportagen losging.
@@ -190,7 +189,7 @@ eben nur noch als Hobby.
   title="Hochzeitsvorbereitungen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604627443_8a91cac279_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604627443_8a91cac279_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITEiMlEHExRBYbHB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxESIRMx/9oADAMBAAIRAxEAPwBufTumpLTs+lpaIZBBk4/BP9eNauGVzkup48ehjSy2HJN95Zo62SZS3JaaPjxwB4JwD2O+/GPOmgZkWJnYgIq8ySegPOiKSfsU6hTiRbpVQwUc9XXPHTU8KF3llcIqIB2WJ6A0vd119KyuFV2UjGQhwT/B1a7z3HJV2Wqgs9LNKjvwWsSWExOq4ZgAH5d+3295Oolwkt1/2hUTW6CQlg4jknQJMskZPTY6Of8AdS+W4JaDUZM512fvpLLu2nhoba7VJZYXqJ6ouSD6SQoUAHBPz510hZ73JdbBUQ3GFJBVxPHKY2ZDwYEEL36ejjI0aNZ3MVfAiKkVq9iOyipLVb7LZ1tdpgkgpEyEDSmRlyfk9nz+9Z+mr6vb1bWq8iVdDLTvJ+OVKEMuDnOSOxkeP3o0aMljeg7N3qXzPJ//2Q==" />
 
 **Anne:** Das ist ganz schön abwechslungsreich! Und Du hast dich auf jeden Fall
 richtig entschieden. Es hat sich gelohnt! Du hast Dir einen Namen gemacht und
@@ -218,7 +217,7 @@ angenommen. Frag mich am Ende der Hochzeitssaison noch mal (grinst).
   title="Hochzeit in der Natur"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863749189_5b8d22bc44_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863749189_5b8d22bc44_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMEBREAEiEGMUFhkQcTFCMyUXGBof/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAQX/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIDEhEi/9oADAMBAAIRAxEAPwCj/HWlpEtVC8UdLlYwiRFQGK5UDbx4/ngZ0u2xmtdNbFqLlBU28hJjEoZzEyn8SuNpwM8HI9dKV+F1uEP1UTmvlKjP1MrDJP6JzgH9ZxrrX60tS1RjocrSNGrxh4tpVtg4YEnzkHnHbGuLbuXbIjKSS4zb1h1BDJLNHQI1X9xQ+1QgZFGBwO52k+M4A76jvXdQa9TLVTKAUKoi8BVHkemqA9puEkkCztTClgZvtKCGwRgMDk89/wCj6aX+qrJDLG6l9hK4IRM4HbuTrat91JhTN3T1+qqqGGOXHypJCpUeMAEY/wB99Mk9azU8k+0b1wO/cDIGffRo1aSDsfhM59ddJYpZWCKRFEHAJPOfGkLqG5zCplBzjenAOPyPOPfRo1VSWmHNvKP/2Q==" />
 
 **Anne:** Was war Deine persönliche Lieblings-Hochzeit?
 
@@ -249,7 +248,7 @@ Bands sind Dir die liebsten?
   title="Brautpaar im Regen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24935840470_aa6df711c2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24935840470_aa6df711c2_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACwQAAEEAQMBBwMFAAAAAAAAAAECAwQRBQATISIGBxIUMUFRCHGhQmGBkdH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAMF/8QAIhEAAgEDAgcAAAAAAAAAAAAAAQIAAwQRErETIUFRYYHw/9oADAMBAAIRAxEAPwBmvwMmuymDKZUB0r8QVR+wOtVnB5WXHSyEv761UhdUECxyqzdfvq6eahJq85FPFdUhnn86wuSIinGQnM46gbUVPNXXHwrS9zDhDtIxPYOYEr8eQYdv9Kmljmuer+/bUY9EZw8dUGXjnVrDxVvH1r2quCB+dLM94mWn94E6Fioc199KdgeX3XkUl2rKQsJT4hfXxXHtq5qzJdVsONpVSioLbeCwR9ydOrRam2ltxBlMBl6zmnKSAJOUQGGPC0+2EjbHwBqMmqQIgSGWb2R1bYv0T/p0aNQidImN36fM8tPa/MOzIsZ9XlENJCUBASC8lHpRFUKr30qJqmI3bHIRYsdLcZuc422gmylKXlAC6+OP40aNX35LVjnxsJLbAKgx9zn/2Q==" />
 
 **Petra:** Ui, diese Frage ist ist natürlich ganz nach meinem Geschmack! Ich bin
 mit Indie, Britpop und Grunge groß geworden, aber auch Dark Wave und Synthie-Pop
@@ -283,7 +282,7 @@ Welchen typischen Hochzeitssong würdest Du am liebsten nie wieder hören?
   title="Gute Musik bedeutet Petra alles"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604443643_a1c51209a3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604443643_a1c51209a3_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcD/8QAJhAAAgEDBAEEAwEAAAAAAAAAAQIDBAURAAYSITEHE1FxIkFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AE2X03e6D3CiUNTy4soBZGPxjyp/h0n792NV7WuUNJXNKsk0C1SM6BR7ZLKMDOc8lPnHWDrXLn6v0O31K2qljrrgchppicAn9k+T9aw/dO4IrzWXCqkaeorapwzVEy8T2xZjjkcfpQOwB/miGmiwby2/ZbFSLDtO21t8WMCepryZk5gn8hHnHYx8DSzvbdlz3fc4a28PTtLBAtNEsMCRJHGpJChVHgZPnS1TsvvceQBIxg9astGQSCCCOjqCDSMxyTqs5y5+9GjSnFgoMg4jtM/XetZ2RJRepl0t237tb4aK8tF7aXmiPBpAi9GeI5WVsY/IFG+SdGjRVH//2Q==" />
 
 **Petra:** Definitiv "Love is in the air"! Dieser Song kommt zu 99% als erstes
 nach dem Brauttanz. Das ist so schrecklich.
@@ -311,7 +310,7 @@ organisiert werden müssen, ist schier endlos. Was ist für Dich das Wichtigste?
   title="Stimmungsvolles Bild vom The Hives Konzert"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25204990636_cc980631b8_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25204990636_cc980631b8_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwj/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMEBREABhIhMQcTMkEUFSIjYVFxgaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMBsWwL5d2bhDFTIp6tUPj+hk6obtta57WtcFbVPSSpLIIYkhZmZnIJ9PHtgHWwbaWIR4QD3/wBOqmyUFNdaQU1RGz5RmTgcNyCEjifYkjH86Dnu1Vy3GghlIKlwehBGSO+M9x+dLLxYpK7ktHTyzzYzxhjLt++ADrpHam3LTt3a9dXbgnpLlaaqQTzR1EGEpg8QYIoySjKSRlcdfyNT9itEdqvc9dtmuWkWpilp46WvhMro+A6pyDLyyU4YYqw5Z66Cb2ndj8ZVQvGEiVImRy+S7Nnl09gMDT+l3I9psVwrYX4ywUkrI5BPA8SOWMjONGjQLZtx2qn8NrW6XFa5KyVEijRvvzTec3mlkJ+khQhOe+QB6s6WzzUEnisUaoBe8VfzMx01R1p1ip2aIMV7OXLMR7BR+ujRoP/Z" />
 
 **Petra:** Diese Dinge gehören alle zu einer guten Hochzeit und wenn das
 Gesamtbild stimmig ist, ist das natürlich auch für mich als Fotografin ein
@@ -334,7 +333,7 @@ Insider-Witz!
   title="Die schönste Pose nimmt das Brautpaar ganz von selbst ein, meint Petra"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604662573_c82bb02e14_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24604662573_c82bb02e14_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAIEBf/EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQAGEgcTITFBCCJRFCMycYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Az+k3bdDubZ12G5rDbK2jp6hUop5qJRKcgmQdzGWUHjj8EkZ9AJvV/pXcqfrhRwx04Fn3Dco1pZl48U5MvNCo9BBnAx6A/rSB0x6qbm6dTOtkqI5LfLIJJ6GoQPHIQMZz/JTj5Uj0M5xqefqI6hiv2JsZqSGipq++QrcckrLUUKlFKmN8AqSzEcwAfsOPnQaHUn6ftu2R7jeYaq9LaYVWQ0tupVqZV5M3LAZh9qgDUCX+3bcanMu2TfXjVGk7lxjiQOoYA4CE/J/OrVdKOoty3xti80t9/Rm7Wwxus+VhSojPIAtyPEEFSD6ByPGo53fs+aKi7s9DRxCalyvaqof2RLUq/bYBzzyDnmMDHjzoK366d9ont9XTRvUNMWpKecMRjiJIlcL7Prlj/PjRo0FkbVQxbE2HJdrUzz1dcaZ3NUFdV4oZAuABlcscj50i7wvtTctz36rqwGqJGYFxgYCVCIAPHjwo0aNB/9k=" />
 
 **Petra:** Die schönste Pose ist die, die das Brautpaar ganz spontan einnimmt,
 wenn es miteinander lacht, herum albert, sich aneinander kuschelt oder innig
@@ -374,7 +373,7 @@ schön, wenn wir miteinander telefonieren, erzählen, uns beschnuppern.
   title="Märchenhafte Aufnahme"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25231429075_c9c67a084d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25231429075_c9c67a084d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBAMFB//EACkQAAIBAgUCBgMBAAAAAAAAAAECAwQRAAUSITETQQYUUWFxkRUiwST/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAMF/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAwQREiExMkFR/9oADAMBAAIRAxEAPwDnUUMX42rramasnaKNjEnWJMkgF7XPA77c+2L+T1+XS5bSUtTN5bNJJUqWaWVtEaowCJGGICsSxuTc8Ad8Z8loWnyqCnm6KIdT/vfUdW449AB9418mQLBVGondWSlhYyrILlj2UdudNj7YoXbVT6MRVcHPcbPF+WQVkcdbJIUmaQxkrxpG4+N2a9ucIeY5QpuYqn+YaK+epq8th6lL0Yo5DpfrB2NxxYD29TheqY3AO52wbm41fAmVGmccmMsUn+tFAsFXSAPTbEvFBWTw3XyspDeWbcHfZSf5gwYrXxIjqfYn5XmtSzZlDLI8kblCA7X06dhb6v8AJOKdfUl30EGyi/PN8GDHJLFqgzKAoHU//9k=" />
 
 Da merkt man dann gleich, wie man sich versteht und ob man den Hochzeitstag
 miteinander verbringen möchte. Ich finde das ist eine wichtige Grundlage, damit
@@ -410,7 +409,7 @@ ohne liebe Freunde und Kollegen nicht zu schaffen gewesen wäre.
   title="Ein Brautkleid reist durch Neuseeland"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25138253481_970007c0fc_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_25138253481_970007c0fc_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKBAAAQIFAwMEAwAAAAAAAAAAAQIDAAQFERIGITFBUYEHIjJhEyPR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMBBQb/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQSEzFR/9oADAMBAAIRAxEAPwDc9Pa8oVWobM5IOOXKLqlyn3tnsrp5F4kp1BMfmT7GlBTZcKVHHAdz2HHO8Y7RdJVeRxu1MSgUPglISL25sTv4hoVSarK0p11ynvvuITlglSUJcPbI8E/fXaHp4yNMSxfcEdXtZy7TaiuVWVDgpeTirvYnfpttFDrD1Kp0lTnBISy5maCMsXSEpb3sMrG5PWwt4ipm6LOJzQZd1CknlZT42vtCDqXS86WnLISpOWZK3m/cT1Iy2EERUIIayTabr9bs1IMGnIK3yUlxb6lWsNtj/YetM6qqVRkVtVFaX/2BIIGNhcn77QQRl6eTaTpb1LtqU+Tnq2fdkqe/NMhNkNKOFuTa4N4WXKyqdoTcy4yApxPxCthxBBE23P3J2ElSdAMn/9k=" />
 
 Von emotionaler Seite war mein größtes Projekt die Reise mit dem Brautkleid
 durch Neuseeland [<sup>1</sup>](#1). Ich hatte mir ein knitterfreies "one size
@@ -453,7 +452,7 @@ Hennemann aus?
   title="Ein Hochzeitskleid vor der Hochzeit"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863765089_e7acb1b6de_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24863765089_e7acb1b6de_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QALRAAAgIBAgUBBgcAAAAAAAAAAQIDBBEABQYHEhMhMRQiI0FRoUJhcXKBkrH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AU+18D7huNWjFXkerNamYI56gAidXURj9uNMvgDhne9u5e7Vco75HJNuVxFFexReYqHnWEsCJR4UZcgD5Hz89X9Dfq9uPbADGq1KtplCjAGRIB/uddzyuHsfLfbpKy96ZKaInQpJXrLMSf4Pg/noE1zg2reqPD3EcFneKtqOjXp2MwUHgMqzSupGe62OntZz5BzjxpEbrtrJHTlUH49dZPsM61zztQTcquIbU0RhtRxxwuzKQ0kZcsg8/Ri/9tZ8t0IzX4ZSyAiNTTLn8Puev30ELg/dr1i6tdJghlrNGGILdPV7ucZH1zrUeyQLsVPbtuq2LgfbRHD3lkUd8KPIZSpGDn09R4wdGjQRuNDDxCtnbt8a9a22wIh7GLPbiToy2R0qGy3jOSfTxjSL45thI6ElKpTqwRKI4USEM8YUYBLtkk+n66NGg/9k=" />
 
 **Petra:** Momentan bin ich recht zufrieden, aber ich muss immer am Ball
 bleiben. Ich möchte zum Beispiel weiter an mir und meiner Bildsprache arbeiten.
@@ -497,7 +496,7 @@ Bisschen die Frau Schokolinse.
   title="Unsere Hochzeitstorte hat Petra auch fotografiert"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24935834550_baf02cf92e_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24935834550_baf02cf92e_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAAoEAACAQMCBgICAwAAAAAAAAABAgMEBREAIQYHEhMxQVGRFCIjYYH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUABP/EACMRAAEEAAQHAAAAAAAAAAAAAAEAAgMREiExsQRBUWFxocH/2gAMAwEAAhEDEQA/AEaujjquYFvhpbulUipErVjKWZGMaggt42A2HoauPAML2rg2npqG0xVjRPU4qZ51iWchmbuADJIxvk+tQDlpSx3XiG3UyJNEY0ed5UQNlxtkgesHH+a6WoTJTQQU9Fa5FhXsiKPB/Vets/Yxv97Y1KgaTI7kAB96rSPwjz2J2U24kgnprvUVt6pYkaW3vmTvr2ywAYAsfe4wPONYuMbSldXcsavEDLVVgpWT8jqYghSVUHwMjY+idMPMyzXHiawCCC0n8oTZicSLuA7ZGCcHbH0MY0h8w3ccOcBXOSppVjgqo07ML/yIc7sSPG6+tc7eGEM5cDd2mxvxAXl63VG4A5cWDhq5R3K2y3UyrG0YSapRl6WGD4jB9/OqzHVDrMoVw5ULnr9A5+P70aNWwwJZ1WSajSSnjjR5FRJBKucHB6ur4+TqU8U8m7dcIpO9d69cy99OhIx2wPCL+uwGjRomFjsyNEGmtF//2Q==" />
 
 **Petra:** Aufregung ist etwas ganz Normales. Sicherheitshalber sollte die Braut
 an ihrem großen Tag noch einmal durchgehen, ob alles soweit vorbereitet und
@@ -521,8 +520,9 @@ spannend, sie alle zu beantworten! Ich hoffe, wir können bald mal zusammen auf
 ein Konzert gehen. Ihr seid auch bei uns in München herzlich willkommen! Alles
 Liebe und Gute auch Dir!
 
-[gallery link="none" type="rectangular" size="medium"
-ids="14058,14041,14060,14055,14057,14054,14038,14045,14039,14051,14047,14052,14023,14050,14053,14049,14048,14040,14037,14027,14021,14056,14034"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231422125_0c99311fa0_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231422125_0c99311fa0_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25138095611_afce13bec2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25138095611_afce13bec2_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231449825_1e2c4eeef0_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231449825_1e2c4eeef0_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231224255_830afa1310_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231224255_830afa1310_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231418885_11cf41f9d2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231418885_11cf41f9d2_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205170586_d21373c6e3_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205170586_d21373c6e3_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25113017952_1ff53a75a6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25113017952_1ff53a75a6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25204926756_7c8c268a9f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25204926756_7c8c268a9f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25113175872_7142cc95c9_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25113175872_7142cc95c9_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205154966_84615f1465_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205154966_84615f1465_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25204997286_342d84ee4b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25204997286_342d84ee4b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205156946_95777fe967_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205156946_95777fe967_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24604472163_80571734c9_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24604472163_80571734c9_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205154106_ec178b575f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205154106_ec178b575f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205168126_341baaba06_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205168126_341baaba06_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205150346_a82d9f0a3e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205150346_a82d9f0a3e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205145816_28ee5ca8c6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25205145816_28ee5ca8c6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25113182672_6415993679_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25113182672_6415993679_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24935843450_2284bfdfb8_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24935843450_2284bfdfb8_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24604641493_55be14d98a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24604641493_55be14d98a_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24600791054_dc52482047_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24600791054_dc52482047_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231278005_62166f0f01_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_25231278005_62166f0f01_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24863769019_3c91ba19e8_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_02_24863769019_3c91ba19e8_z__l.jpg"}]}
+/>
 
 - [1][hier geht’s direkt zum artikel „ein brautkleid reist durch neuseeland“ in petras blog.](http://schokolinse.pixieset.com/mitdembrautkleidimrucksackdurchneuseeland)
 - [2][petras homepage findet ihr hier](http://www.petrafritzihennemann.de/)

@@ -23,8 +23,7 @@ date: 2015-11-18T19:32:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "13111"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__l.jpg
@@ -52,7 +51,9 @@ Schneidet die Ärmel ungefähr in der Mitte ab. Die obere Kante stülpt Ihr zwei
 Mal ca. 1 cm breit um und näht sie mit zwei parallelen Steppnähten rundherum
 fest.
 
-[gallery type="rectangular" link="none" size="medium" ids="13109,13116"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22366879613_009dd9daf6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22366879613_009dd9daf6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22999181331_04cd403487_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22999181331_04cd403487_z__l.jpg"}]}
+/>
 
 Anschließend messt Ihr mit dem Maßband den inneren Umfang der Ärmelbündchen aus.
 Aus der Zahl ergibt sich die Länge Eurer Manschetten. Hinzu kommen noch 2 cm für
@@ -74,11 +75,15 @@ sie mit der Nähmaschine einmal knappkantig und einmal entlang der oberen Kante
 rundherum fest. Dazu könnt Ihr die Stulpen auf links drehen, so tut Ihr Euch
 leichter.
 
-[gallery type="rectangular" link="none" size="medium" ids="13110,13113"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22595905739_78c3099f01_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22595905739_78c3099f01_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22974662532_51b909728a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22974662532_51b909728a_z__l.jpg"}]}
+/>
 
 Fertig sind Eure neuen Armstulpen passend zum
 [winterlichen Loopschal](/2015/11/diy-upcycling-loopschal/). &lt;3
 
-[gallery type="rectangular" link="none" size="medium" ids="13112,13111,13115"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22800084930_be52abda5f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22800073310_64a2c90b4c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22999231331_aff24386dd_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22999231331_aff24386dd_z__l.jpg"}]}
+/>
 
   

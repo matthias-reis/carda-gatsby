@@ -103,7 +103,7 @@ I fell into a burning ring of fire I went down, down, down And the flames went
 higher And it burns, burns, burns The ring of fire The ring of fire And it
 burns, burns, burns The ring of fire The ring of fire</blockquote>
 
-[myflickr tag="anneringofkerry2017"]
+<Gallery name="flickr/anneringofkerry2017" />
 
 ## Wegweiser Irland 2017
 

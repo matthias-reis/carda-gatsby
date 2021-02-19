@@ -51,9 +51,9 @@ activity('wordpress', async (l) => {
         m.lines[i] = await activity('inline', inline)(m.lines[i]);
         m.lines[i] = await activity('blockquote', blockquote)(m.lines[i]);
         m.lines[i] = await activity('links', links)(m.lines[i]);
-        m.lines[i] = await activity('images', images)(m.lines[i]);
+        m.lines[i] = await activity('images', images)(m.lines[i], m);
         m.lines[i] = await activity('lists', lists)(m.lines[i]);
-        m.lines[i] = await activity('gallery', gallery)(m.lines[i], m);
+        m.lines[i] = await activity('gallery', gallery)(m.lines[i]);
         // metadata = await activity('cleanup', cleanup, false)(metadata);
       }
       m = await activity('concat', concat, false)(m);

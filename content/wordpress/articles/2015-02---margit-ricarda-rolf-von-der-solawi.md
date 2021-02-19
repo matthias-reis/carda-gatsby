@@ -35,7 +35,8 @@ date: 2015-02-06T16:31:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "9432"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__l.jpg

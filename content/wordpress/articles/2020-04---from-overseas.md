@@ -80,7 +80,7 @@ verbringst Du Deine Zeit? Machst Du viel Musik?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwIDBP/EACkQAAEEAQMEAQMFAAAAAAAAAAECAwQFEQASIQYTMUEiFCNRMmFikaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AapPQsFqeuSxJq2BMCOyyGl/axnISkK2q8qGcDg/tp9g00thFCg2y0xqv7biGVdtLykq4SAOOMbTn1x+dUtX10tTFVCs7RmI43ITKLqHTltIG1SVdwp/UCE8Z9ezp86h67YiyqeEw+9PnSZy0uMwI3dDgUoj4r3EJUjcFc4SQCONBnX03XLPW8qxtLllVCHVNIiPFYTtwdobyeFcA5J86luiunT0dSmvnXX1hdeLm+S6EJQnaAQ2k5JGTnz5OkGHR3tNIkM3lgxdqkO9hoFnctlIJJXhSVDcRj0QMe/OpmAzWdawbKD1ilCU1rwQF9wMFAHI3lIAb4TnaefAzoKZjxEWtHZurJSYzLG7d8+4O4MA/gDn+9bLx6wkQIcszENOQEhlpLDXbTtP5AV/H/To0aDgjCdY3LL67m1EtrYoOmUpXAPgD0OdQ9xZuKM2C0ntRkvFRSDnuKyfks+zo0aD/2Q==" />
 
 **Kévin:** Ich arbeite von daheim, also hat sich meine Routine nicht wirklich
 verändert. Ich arbeite an Musik, ich höre Musik, ich koche und ich kümmere mich
@@ -131,7 +131,7 @@ Maloya Musik. Gibt es auf der Platte noch weitere Tribute dieser Art?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAIBQf/xAApEAABAwQBAwMEAwAAAAAAAAABAgMEAAUGERIHITEiUWETFDJBcaGx/8QAFwEBAAMAAAAAAAAAAAAAAAAAAQACA//EAB8RAAICAgEFAAAAAAAAAAAAAAABAgMhMRESIjJhgf/aAAwDAQACEQMRAD8A9ow/CIFtYClMIcWQNLU2QRTZuKhDYSEDQ+Kw3jmZ2m3AtW5fUJ8nRcZaujbaVa9wltR80yhdV1ItT0RrH8uWhw/mq9r5bT+thnt/A71nGprSGVq0zTmUz7Xj1imXe9v/AGtvio5vOlJVoEgAaA2SSQAB70GyDGbRlOPMXa2rDkKWwmQw79LiFIUNg6IBHb9GswdRM2mXS1qh6vDCXFgONTLu7KCkaJ4lCkJHnid/HzRdnIMjZssVlqRd243EoaKZTyG+IPYAA8dDxTKjn0wV31HOsmY5BZF87XdpMdXj0kH/AEU9gdfs0hNKbediStkKSpbRSUH39JG6qqs4RlloibWEH896o3jNrW3Bu7McIbdDyFI5bSrRB8k+Qf6FFnr7LeiMxlK000gNpSCdaA1VVTHs8QkurZ//2Q==" />
 
 **Kévin:** Die Hauptinspiration hinter "Home" sind meine Reisen, die ich
 unternommen habe, seit ich Réunion Anfang Zwanzig verlassen habe. Dieses Album
@@ -194,7 +194,7 @@ habe.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIFBAYH/8QAJxAAAQQBAwQBBQEAAAAAAAAAAQIDBBEABRIhBhMxUYEHFCIyQWH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQAhAxExAhL/2gAMAwEAAhEDEQA/APEZ3Q2uwIMmY82z2mKvtu7yoGuQAPAv+14zJqugvsNL09a4/wB0w4o72lEpdHFC/fJPxm+D9T+pIiZAD0R4ug8vR0ko4qk1Q+Oeclu9RPvb5DjDipqiVKkEglRPkkVV2fi8LLsD47GwIqZORpehsx+gkT+6h2UZuw7LpCaIKTfk2L+c5Wjlubr2ru6MnSX3KgJX3Q0WkpJUVFW7dVkkk85G2qABUn8feINQkdspSUpWyq0iwLBrkZlgynos6M/GcLTzLiVtrT+yFAggj/bAwwyFzr12JJccffdcecW44okqWslRJv2cRDW5pS91UoJqveGGZoqTrc//2Q==" />
 
 Davor habe ich in Toulouse für Airbus gearbeitet. Ich bin/war ein
 Luftfahrt-Ingenieur. Inzwischen arbeite ich nur noch an Musik. Ich beteilige
@@ -252,7 +252,7 @@ wieder beruhigt hat.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYHAgMEBQj/xAAqEAACAQMEAAUEAwEAAAAAAAABAgMEBREABhIhExQxUWEHIkFxMkJigf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAZEQEBAQEBAQAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AF76ebGiloRcLlwWFU8R3YjCqOyc+2pLsG2rTcaeerqGC0/hvHEyLlUA6IHXffqfyfjGkKz31bv9LGoRe4rdcZeCcEi4rxUKCZDj/JfIIySB6acI93bV23abZQUz00sRp18zJFI44MSOQHJcdEkkZ6H71nXqqzGXW7HoXpkkSOJjnwnVR2B/UkfGcfo/Go33vsFLRRzXCON1pYxmaMLkqCcclH/exp52lvy0G7SQ2qn8KmrLigqJZIFRp2kIUSKC+fux2cYHH51Vc7xLYKHclBumlcU4q6zwX80iiRD3HFn+aqw5HoZA9D2NJeofHONlvFRZ6mOopgpaPkeJZgGypBB4kHHfv6gaZdx7lnuENPDDTw01KIY28LiHywx2SRknHR9/zo0arjhraO/XOnnhFJLBStmNOcMIDcQ2VGSTjBPWMav3vccs92vKvEZvNq9NI9TM0rn7xh8kgBhjrAAHto0aYP/Z" />
 
 **Kévin:** Ich würde das auch so gerne tun. Ein Festival klingt im Moment
 wirklich gut. Kannst Du Dich noch an die erinnern (lacht)? Aber im Ernst, diese
@@ -339,7 +339,7 @@ do you spend it? Do you make a lot of music?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgEDB//EACoQAAEDAwIFAgcAAAAAAAAAAAECAxEABCEFEgYTMUFhFJEiMjNRcdHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFBP/EACIRAAIBAwQCAwAAAAAAAAAAAAECEQADIQQxQWFRoZHw8f/aAAwDAQACEQMRAD8A4/wzpWl3PBqnNRtLRD7ry22LkhW/xOY6gxjtVdsrCx5bir1B+kFAoSQlBJgKJBiP7NS7e4Zb4GcYe1C1eXcPDlWpnfakKJKj4I/IzSy3dQXwotpu1Al1YElCk7ekRiCZzjFa7TW1dQy7bz3z9+Km6dLpa4xcwWMYOI8T+TkYqC5p6mNqnJ2pI3K7Vl1LSj8GE+DNWDV7tFzZoUG0cl5YKJTJGRMecUr4gdtVONel+ZIKVnzNJGpQI1k2xJMg8r1PqqpSBIO3ukyMz9wK2SVFMmelFFKoKaoQHNKt0GY5q1de4x+vaobzDYcShW4gpnBjPtRRSgc0Vf/Z" />
 
 **Kévin:** I am working from home so this situation doesn't really change my
 routine. I work on music, I listen to music, I cook and I take care of my dog.
@@ -383,7 +383,7 @@ tributes of this kind on the record?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcI/8QAKBAAAQMDAwMDBQAAAAAAAAAAAQIDEQAEBQYSIQcTMSJBYQgUcXLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN5babqcNIjzWJWtxbrgI17qZ1REgJ2f2rCMjZtqheuNSJj2WtqaB76i5x7A43HIxqmk5HJX7NiwtxrupbCj61lEiYHz71T6c5HOZVrLHUgtwbZ8W7Pbt+1u2lYUowog7gEGB4mufdfasvntQGyOQfyeNsLpDjBu1SpaoHqMGB5jimyy6hXuttXJtre4yWFtnEKUBbXm4gNoJJgjbztmePPvQMGJ6V71NoYy6Gdh4i0JBB8gjueKZWOkxSIbytqhMwduNTJ4/f5oooME61YlOn9XXFglxLygtQU6Gw2VQls+B+TTB9PuGYz2cy7L0MvM49f2z6EyphSlpSVAHgmCRzxFFFB//9k=" />
 
 ### "'Home' reflects my travelling experiences"
 
@@ -444,7 +444,7 @@ plan about it until I moved to the US four years ago and started this project.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-8__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwj/xAApEAABAwMDAwQCAwAAAAAAAAABAgMEBQYRABIhBzFREyJBYRSBkaLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AH217Wl1S3IFTuO7qyRIjokuMwVtwGGwpIVjchO/Az3Khpc6m0mmU6n0qHYVIj1C4qlNDKZj7pmuMoR7lLJdUobSRtKjgYKtUy3IjMqxqVClNJdYXT47bjaxkKHppyD9caiPVWlosO55FZpk5TL7ziHIbLMcYZ9Qrykk+0JSEkgYIOcaC2UK4mmaSmJPix4NejQ0PSqewgBCVlJOEbe4yPjJ51tbFyPVwjZDAbAT6i923YSMjKT5A+P51DemdUYl3XRFzZzRnTGZciVIfWo4bzjlR4BODyrAGOPGrXbleoTM5ihUlbsl5QKy8zHIbIAyFFQAGMYAI47edBpbDxFCpoA7Rmh/QaUb7pkO6rsj0qqtKVCimO6ttKsCRjcva5xkpyscAjt96NGgl1gyYkvqNQYSqez+TLlrclPqwpCkoUvDbbeMISSnOPd4GPnptbhK0rPdIKf1x/mjRoP/2Q==" />
 
 ---
 
@@ -485,7 +485,7 @@ inspired and enthusiastic about what this community brings to the world.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-9__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_from-overseas-9__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBAgQFB//EACgQAAEDBAEDAwUBAAAAAAAAAAECAxEABAUSIQYxQRNRYQcjMkORsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDhXUq28Nll2i7P04t0HhOq07AGDJPEfPmthm/p1fWNq0Wri0euU267l1LbuwKQlCoHESNtYHcpVSrlrpq7zZdbK2bfZtKfUIUUJEewj38U59VZHFMPY6xs8uL9mzU6lssNqUGm1OlzTYwlZHHIkGSD2oFE9OZHRpQaErRuoE6Fs7EQraOYAPEiCOZkVKsM7aXdsxdhgLd3/ZsBABEx2pye6utEpCW7/NOpV+cBtsckdgPgf5SRk7xD18txtby/urVs9BWQZjaPMRNAWNu242C5sSSeQYqcOv0c20tI5QpUfw0UUFMq8V5B5YGpgEx7jzWI8sPIL0KCyuFEmdjHftRRQf/Z" />
 
 **Anne:** Oh, I love Sigur Rós and Sonic Youth and... I know what you're talking
 about. There is so much great music out there. I'm also fascinated about

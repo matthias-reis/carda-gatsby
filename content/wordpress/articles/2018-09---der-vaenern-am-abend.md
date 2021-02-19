@@ -66,7 +66,7 @@ Campingplätze und Bootsanleger ziehen während der warmen Jahreszeit jede Menge
 Gäste an. Badestellen sorgen für Freude unter Schwimmern und anderen
 Wasserratten.
 
-[myflickr tag="annevaenern2018seeliebesoschoen"]
+<Gallery name="flickr/annevaenern2018seeliebesoschoen" />
 
 Übrigens ist vor kurzem meine bisher größte Reisereportage hier im Blog
 erschienen. Sie beschäftigt sich ausgiebig mit Irland.

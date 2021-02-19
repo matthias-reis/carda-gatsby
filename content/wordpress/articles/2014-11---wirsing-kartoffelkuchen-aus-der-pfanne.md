@@ -33,8 +33,7 @@ date: 2014-11-12T12:29:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "9180"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen__l.jpg
@@ -49,7 +48,7 @@ subTitle: Nach einem traditionellen Rezept aus Andorra
   title="[ ](https://www.flickr.com/photos/99929697@N07/)  Wirsing-Kartoffelkuchen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-16__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-16__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUHAwYI/8QAKhAAAQMDAgQGAwEAAAAAAAAAAQIDBAUREgAhBgcxQRMUIjJRYSNCcYH/xAAZAQABBQAAAAAAAAAAAAAAAAAEAgMFBgf/xAAjEQACAQMDBAMAAAAAAAAAAAABAwIABBESITEFE0FhcaHh/9oADAMBAAIRAxEAPwDNy64GYqMRNSlhssq9iFqw2BHqVcdwdhqjyIlOpi2mR4DIKAs5AE4ggG3zuQB/dIUyJdQ4EiwaNEUuYXWm1qbcwVgFXUcrjHoR366R82BU6BRWJ0mJAyeeS2gpZLq0AXOK3CAkJ6BKAN7HWedm7unZBwM1bGtKZGHAH37qi1ulx3IK3IiG20lKcFrRe99j/o321z3x7SW6fSpEqPSlx5rUn8jifS06gJJVZAsBYdwO19anP4vrrr6HhVpwcTZQJeJCcb/r0Ft7D71T501D/Kx2v1xpYqT0Bxol5VycgUpxT+uRI22OpIWdxaNiwkESPHnfx8U2psbiBhInbJzS3lbxTNQx4J9Xl8W8ir3DEkH6Nhb4O1we9UrQj8YUUUutMqXHWptaVNuFKm1+iykn5HiHrfp9nRo0u6PacdG1GIhF1vEsGT+1MHOVVJYUiXKly5cdIz8ushIVZIVZShvbe21v7qd8yOKZVcqjlO8NManQHcG2GzspQHvPQXt0Fvvc6NGi+nTk9hk0508eqF6kuNumIUMajv7r/9k=" />
 
 **Vor Kurzem sah ich im Fernsehen eine Sendung über die Bewohner von Andorra, in
 der unter Anderem auch gekocht wurde. Ein Rezept für Kartoffelkuchen hat mich
@@ -80,7 +79,7 @@ zeigen, das ich hiermit liebevoll auf den Namen Wirsing-Kartoffelkuchen taufe.
   title="[ ](https://www.flickr.com/photos/99929697@N07/)  Die Zutaten"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEDAgYBAgUFAAAAAAAAAAECAwQFEQAGEiExQRNRcQcUFSIjMmFigbH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQEDBv/EAB8RAAIDAAEFAQAAAAAAAAAAAAECAAMRBBIhIkFxUf/aAAwDAQACEQMRAD8AU8stx6svxrqaBBQCHXWxx/EEdn3AH77YseVWaUiGiNHQhuKwhSkqf3IHZ44Fubn3xH6NmNxTVktpihAF9ICUge/Q9v7OKhkN2nSKTKqNXUlWpTkbxBz7jbZWvg73O3X+YvlOaj1t2AjvjI3V4iJmbPidSWJniotMbnM3suS8S02bdJ2J39TYe+M1yVAzA0p2C8kSEp8iozjYQtsHr0UB6jDU7kbJcLKrkqp0qXFYluq+WnqkqOhKjdH2g2AsQBqFztfnErylAl07MDi6ghYghtxLbyk6QoKsBzxcC+4wbx76rlJq0Ff33DCHBxxoMo+WsjZW1hxVKU6rY/lkLIuONhbDpJyrQZzyVuwFtpXs40xIW2292dYH6ieze57wYMIL+RaW7sYwalEGqM+TMnU2oLq4o/1ZTdIaAdbZbZGtCRwkLJI2sN9J4wtSsmeOspqNSq82qJZH42pSUdG41KSBqt6HbBgxbVc9ZCqc35JrrWwa3qf/2Q==" />
 
 Den Topf ca. bis zur Hälfte mit Wasser füllen und etwas Salz hinzugeben. Den
 Wirsing und die Kartoffeln waschen, in mittelgroße Stücke schneiden und diese
@@ -107,7 +106,7 @@ anbraten, dabei alles schön flach andrücken und nicht umrühren!
   title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Gemüse auf mittlerer Stufe kochen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-5__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAgb/xAApEAABAwMEAAYCAwAAAAAAAAABAgMEBREhAAYSMRMUMkFRYQcWIiPw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQYCAwQF/8QAIxEAAQQBAgcBAAAAAAAAAAAAAQACAwQRITEFEhMzQVHh8P/aAAwDAQACEQMRAD8Am+x9oP1lLDVNiyJDbrnF6SGyG0W75KNhi/WTq1HYDEChKLVPp819looShSDyKb3weiq4vkd++sUmuwNv0ynsssuCAy0EqcYQXAyQBlX0c3Pd9PahuHzUNmZS50XyfrUR65WPQg9J+So3+PvSdauPlcQNMft0zR1enjTOVyqdvNv7cksBTVLYltFtpD7IWviUkquLi31e/vqdz9qQk0WoeReL82CPEZdQjglYQLuICckKtcjJBx86rMZ+PX/ISXbqS5Z9KQ5YBOR/L5tnv30i/IleiMTWmG1JbbS044o9XHCxwP8AZGhw2WUZB9qy8GkglS7YO6J7EaHE5qdjyXPDKXVFRSlV7gHu1saeV3dM+lSHURA14TSShtCwVcABfGfrRo10pa8RtEFu6zNsSMrcwOownUavPfrTIpzLcTwWC+8r1qeW4So5xxF7m2e9T3dUlXkqjUEjkuP4bX9p5qUXb5v7AcerZvo0alQY0SEYQu9sO8/F/9k=" />
 
 Wenn alles schön kross gebraten ist, den Kartoffelkuchen mit Wirsing zusammen
 mit der Beilage auf den Tellern anrichten.
@@ -120,8 +119,9 @@ Guten Appetit!
 
 Kussi Anne &lt;3
 
-[gallery type="rectangular" link="none" size="medium"
-ids="9178,9177,9176,9175,9173,9172"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_11_wirsing-kartoffelkuchen-3__l.jpg"}]}
+/>
 
 &nbsp;
 

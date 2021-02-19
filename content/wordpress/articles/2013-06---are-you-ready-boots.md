@@ -34,7 +34,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "5980"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_5951__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_5951__l.jpg
@@ -58,7 +58,9 @@ Festival. Die Vorfreude ist groß!
 
 ## Das sind unsere "Wir freuen uns wie verrückt-Gesichter": \_\_
 
-[gallery columns="2" size="medium" type="square" ids="5976,5951,5965,5950"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5914__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5914__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_c__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_c__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_dfgsfg__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_dfgsfg__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_b__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_b__l.jpg"}]}
+/>
 
 Heute Abend muss ich erst mal meine Gummistiefel dekontaminieren, da klebt noch
 der Schlamm vom
@@ -96,8 +98,9 @@ Was sind Eure?
 Diesen tollen Countdown schickte mir [Hoochi](http://hoochi1107.wordpress.com/)
 per Post. Wie ich sie halt liebe, meine Kleene:
 
-[gallery type="rectangular"
-ids="5970,5935,5936,5937,5938,5939,5940,5971,5972,5973,5974,5975"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5932__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5932__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5934__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5934__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5937__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5937__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5939__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5939__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5941__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5941__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5943__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_5943__l.jpg"}]}
+/>
 
 **Was ich auch ziemlich cool finde: Das diesjährige Festival-Maskottchen ist
 eine Eule:**

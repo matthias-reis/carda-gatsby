@@ -34,8 +34,7 @@ date: 2013-05-08T16:11:15.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "5326"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__l.jpg
@@ -44,8 +43,9 @@ subTitle: Gesehen und fotografiert in München
   
 ---
 
-[gallery columns="1" type="square" link="none" size="medium"
-ids="5325,5326,5327,5328,5329,5330"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4763__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4763__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4766__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4769__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4769__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4771__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4771__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4774__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4774__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4780__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4780__l.jpg"}]}
+/>
 
 **Noch mehr bunte Momentaufnahmen von mir findet Ihr
 [hier](http://instagram.com/anne_reko/) !**

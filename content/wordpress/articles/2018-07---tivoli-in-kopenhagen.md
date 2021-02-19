@@ -84,6 +84,6 @@ außerdem hervorragend mit öffentlichen Verkehrsmitteln erreichbar.
 
 **Quellen:** Tivoli, Wikipedia
 
-[myflickr tag="annetivoli20180619buntewelt "]
+<Gallery name="flickr/annetivoli20180619buntewelt " />
 
   

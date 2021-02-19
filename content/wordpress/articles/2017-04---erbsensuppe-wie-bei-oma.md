@@ -41,8 +41,7 @@ date: 2017-04-21T13:24:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "16520"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__l.jpg
@@ -108,6 +107,8 @@ schöner Apfelwein oder Cider.
 
 Guten Appetit! &lt;3
 
-[gallery link="none" size="medium" type="rectangular" ids="16520,16522,16521"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33985853262_4637f5bfe8_b__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_34116109675_52a2bda588_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_34116109675_52a2bda588_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_34177901995_1ca6301d48_b__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_34177901995_1ca6301d48_b__l.jpg"}]}
+/>
 
   

@@ -48,8 +48,7 @@ date: 2018-06-01T06:23:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "21114"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_40431714030_49aab07994_k__l.jpg
@@ -78,7 +77,7 @@ Dem Paket lagen die Sorten "Lindenblüte", "Poseidon" und "Hautnah" bei.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42192710602_352fcc4517_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42192710602_352fcc4517_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBgcECP/EACcQAAEEAQQBBAIDAAAAAAAAAAECAwQRAAUSITFBExQiUTKRYXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgUD/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIRAAMhBTFxMkGRUWGh4fD/2gAMAwEAAhEDEQA/AOTS9PsJBbVya/E+esfCF6Yp1tTYV1uSU3X1eXWAoQm0OSnmGYzbzKdyT+FrCQR5BF4xiy9O1FUeMxKYlPI9V3a42obQAgEpsdm+8R1a4u9vOcTnHoInPFSTpIbZ/j7rOFw0qbWRyEiyQngDrFOu6K/FiJffZLLTi9iC4K3KqyAO82WB7GDL1se8hsSH0MJS2mht2t8kJ/lSj48XkJ7Md/Qpnvw1LbLbjlgbtqUp5+Xd9/vNm1By6hUwRJnt7c/uAmmAKSz5rz3peo+shLbzq1psKpSz2Dd5YIT0dlXDi0eQd5uj/eGGULdm2BAUeKlX7jz1HzUJzEZ9z1lK3OVy4k/L9jnEk+S9H3panyS2RSm1OGlD6+6/3DDGyrAxQsu071//2Q==" />
 
 "Hautnah" ist ohne Duftstoffe und daher besonders für die Pflege frischer
 Tattoos und empfindlicher Gesichtshaut geeignet (Finde ich! :-) ). "Poseidon"
@@ -107,7 +106,7 @@ anderem Hanf- und Klettenwurzelöl, Brennnesselextrakt, Aloe Vera Gel und Sole.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366185638_9ea2ad9df3_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366185638_9ea2ad9df3_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACgQAAIBAwMCBgMBAAAAAAAAAAECAwAEEQUSITFhBhMiQVFxFCOBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQEE/8QAJBEAAgEEAQIHAAAAAAAAAAAAAQIAAwQRMRIhQQUigaGxwdH/2gAMAwEAAhEDEQA/AL3TLcPbm3WOXcmUGYmHP3irAWapJt2c85HwTSHcnN+06bWgSYZY7o/SDgcfNaDxFp0ESP8Ai3csU8yiRQiebIBj1EA8YyV6jr90y0uqwZluNDRx+SRdWalQ1H16ytuNGaOGN5I32yqDGfQA2R3aszq0Jt2mDIf1kg57Vrri6tBHHb3usWxaKIRbzsBaMgHJUNgHJI9x/lNzXGiyWljciCC7mkErmRmygBduuDzwB1FZRvK4qOGGV7a+h8w38PR1Up5T32c+851a+IXW32SDzExtA68c4GCex4qZea3JqERXUbuWa28kIwDKMICD1xux3z0I+aKKohQZwOxHQHccsrvSrRIoooYoig2ZbBIwBwWPPGcVC1XUtPkUvMsDHBOHQMRwx+/Yj+UUUQwBgRXAchP/2Q==" />
 
 Und was soll ich sagen: Meiner vom Sport und Schwitzen gereizten Kopfhaut geht
 es wieder gut und meine Haare glänzen! Beim Duschen kann man es einfach über die
@@ -127,8 +126,9 @@ lest mal [hier rein](/2018/02/unboxing-sauberkunst/). Wer auch mal schnuppern
 möchte, kann direkt bei Sauberkunst auf [Homepage](http://www.sauberkunst.de)
 stöbern gehen. Viel Spaß!
 
-[gallery type="rectangular" link="none" size="large"
-ids="21118,21119,21117,21116"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_27368621857_37f64e764b_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_27368621857_37f64e764b_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_42192707582_fda655f0ad_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_42192707582_fda655f0ad_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41517681594_9a3a06c22e_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41517681594_9a3a06c22e_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41338235775_b67523d4b4_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41338235775_b67523d4b4_k__l.jpg"}]}
+/>
 
 <RemoteImage
   alt="Sauberkunst"
@@ -136,7 +136,7 @@ ids="21118,21119,21117,21116"]
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366179488_bd2a44ad8a_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28366179488_bd2a44ad8a_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYE/8QAKRAAAgECBQIFBQAAAAAAAAAAAQIDBBEABQYSIRNRFTEyQWEiI0KR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACMRAAECBQMFAAAAAAAAAAAAAAIAAQQREiFBAxPxIlFhceH/2gAMAwEAAhEDEQA/AILLcsRiHceZHHfFFDl8ccQ3xfT7EjzwTlWbUZp9ta0qp0w32hYiSwFvkerD9DqGNoYhNQiZVQIoqJASbAAEhRa+LhiNS0gvnlYBwwz6jtjhaMr09HXu5mhljgEZdXCeo/iB3vzifzDTreGGrAAbcV6QU3JBt/f1h+q1TNAsUdBtiiiQRxs0jb0T328EDsL4DzDUkk1DHDMXbpFumwcmw5sDccn5wO7EETvTJsffPpOOlDiNNU37r//Z" />
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

@@ -25,8 +25,7 @@ date: 2014-10-05T12:58:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "24427"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__l.jpg
@@ -48,7 +47,7 @@ man wunderbar aufheben und kleine Sachen darin sammeln!"
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-8__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBwYI/8QAJxAAAgEDBAEEAgMAAAAAAAAAAQIDAAQRBQYSITEiUWGhFHEHMpH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAQID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAIBAxESIf/aAAwDAQACEQMRAD8A9HWlmgUFgBSura7pmkRzvdPiO3TnK48IPb3J+BVFGVzErHCdsTnGT4x91wP8r7bg3Fam1XUorKWRldTKeKniCMZyOu/Ao17uq6gilVZscu7W3jou6Y5TZC4t5I24vFdRhHU/oE9fNVb/AE6Nlb0g+4xWG7M2XrOk7utptQ/FsrCJiHmtpYwLhRkKq+rkckjIxjz3W42cxEcv5EqGdj/QPnio6AA/QrFFzP450vqVJjiRWzlw/PB5EYOScf5VLmsiYkjRh7MAR90UUiA8ij2linaWFoh85WFVP0KnSRwwOXihQSd+s9t38miipkaXZP/Z" />
 
 ## Ein Paket von LovechockIm Paket enthalten waren zwei Päckchen "Lovechock Rocks Raw Chocolate" in der Sorte "Maulbeere und Hanfsaat", sowie ein kleines Beutelchen mit rohen Schokoladenbohnen.
 
@@ -70,7 +69,7 @@ Bisschen erinnert.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAID/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDBAURAAYhMRITFEFRgQcVIjJhcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH/xAAdEQACAwACAwAAAAAAAAAAAAABAwACERIxEyEi/9oADAMBAAIRAxEAPwCv1t0htsiQGnkmmdQyAEKp+OzrBBuB66aroqgCmWaB4o5YQcwuwIVvL65I++su6YveLExAZ4iCnwR/Gf8AdeVrsjzwxTtOqDJ9NKcB2ypJ8cngc/HPei3s3ycaxyVpK9t3IPDtWS7W0VNbdquW6BMSvVsZYwwHP6v3JxxnkcHPWql+DV5lrtsflNYxaotwCRSFg3qwZwpBHeOv6I0k73p4rXfDEbfcpqK5L72CNhgoGJLQSgHClGZu88MNdbVvTwbtt01PkGSUwzxB1ZfF1AK8dePip+2kgk5kgeR3epVL5OywHHzpCv8AvessMHtaSMskuG8GlIjBx34jv7nRo0do2wmpPyYqU9RW7oqPRrat4qamkIjihUKq544HWnPb+0rbR1sNYqvJURco0jFsH66NGrLGVwSbLEn3P//Z" />
 
 ## "Der Pilz der Unsterblichkeit"Der Reishi-Pilz soll das Immunsystem stärken, gut für die Leber sein und den Stoffwechsel anregen, in China wird er "Pilz der Unsterblichkeit" genannt und steht auf einer Stufe mit dem Ginseng.
 
@@ -89,7 +88,7 @@ aufbrühen, sicher geben sie ein interessantes Aroma ab.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBgECB//EACoQAAEDAwMEAQMFAAAAAAAAAAECAwQABRESITEGBxNBFCJRcSMyYZGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAjEQABAwMCBwAAAAAAAAAAAAABAAIDERIhBEEiIzFRYdHw/9oADAMBAAIRAxEAPwDo99PisEkqKcKKEALGxytI3xUS4xax12xbIMGBKtByiYpLJW6HMuDAX+4bgEadgM77VFdwr+pxyNBjDyspWS8nxhYJTvn8Akb/AHpntx1JJmy5a7lMQ/8AHbDIQFhZHONKuEjBI0871M/UNuPjdXwwPEVw+r6SXVjSIPmgtsyJrTbuG3GwVKKACQSTyfWfdJ2ljwz322wsHxqSCoc4IP8AVadwG7q/enp7MGV8RTSf1Eo1oQRyRoOQAPviqR22vsi49Yuh11wocDhaCicEaMAfzsM1PFmS4d0pRy+LdYusn515krAW1CS3j42vIOdz9XOMnj8U3b7i/GjJajBtKWQlSgpAUHAcDSf9zzn3RRQkGSlG42hSd86olS+kZXiDjDi0GOlXlKtGspQojg8KPJNUSI0q0y250Zwh1hxBb9YA9UUUGYIok7PVf//Z" />
 
 ## Nur fairer Kakao für LovechockGegründet wurde "Lovechock" von Laura de Nooijer. Die Niederländerin will mit ihrer Schokolade die Herzen der Menschen öffnen. Ihr selbst hat die Zubereitung und das Erfinden neuer Sorten lange Zeit Trost gespendet.
 
@@ -113,7 +112,7 @@ bio-zertifiziert.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYD/8QAJxAAAgEDBAICAQUAAAAAAAAAAQIDAAQRBQYSIRMxB0FRFRZhoeH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwAC/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMSMQRB/9oADAMBAAIRAxEAPwCZsn44ubpEm1O0dYj2AcUxv2npWi2D3Bs1wgGFCjLMTgLk/kmpewNxtqOnReVEHQHIN/Rq03zHezbcvP0uCKe9RPJBHNngzqcgHH1Qp24troyFbJPhlJbG0nkRbmwszGwy8aR4ZRk+mz76/FVG6fjSEQG70XjhhyAb0RWPtJPkuW+XyW9xzWRSPGiwxle8qcjB7x2c9Z+6ddtcXdhs20j1iaF7+KDjM6JwUt36H0Knghkhe7st6XjdaISmzteubN0QAOp6wTinRoutPPAgaMgEeueaKKR9DdR3vtUEEbMtupI/n/KXG7dwXN0pUgKvrANFFY5P/9k=" />
 
 Gesüßt werden die "Lovechock Rocks" mit **Kokosblütennektar** , sie sind
 glutenfrei und enthalten weder Milch noch Soja. Was meinem Mann und mir auch
@@ -134,7 +133,7 @@ Außerdem gibt es auch noch Riegel in den Sorten
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-5__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcBBP/EACoQAAEDAgUEAQQDAAAAAAAAAAECAwQFEQAGEiExBxMiQTIUQlGRYXGB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAkEQACAgEBCAMAAAAAAAAAAAABAgADIREEBRITIiNR0TFBYf/aAAwDAQACEQMRAD8A7lbJk6szo0l1uS3HcaBSvSpWtFgnVa5SsauOOdyAL4b54oeWluQkUgz50cEOl7UoEj7ljgJub2AA3+R5xb9Kaw7IakQlPobfDCRFaDQQdCNlDSbeXxufdv4x5eqMmjF4wnHXnMwtoSpKo6QUaSqym3FXHxHmQbWFrc4hroFVQK/M6rXd3lscfktqfQcqZroiJMCkNNuup7bqWNtB9gg3BHPI/wBxmudMls5emoEptLrfbKWpGiwX+L23udwRcWtza2GPKtPCUR6hSwZUdl9KpTslwNMNuNngEHcgk7C/r+hP1SnSpOXIrcwhLy3nFNOhvQXG9O90DccD9e7Y2ypbk6sHzADFbeFTqD5iFSX51IZFTM1bkgyCtGhAb7d0oJAtf2s4fsqZ0aNdkS36JENVeaDL01lXaW6m5PkLEE3HNh6/GDBhe7nLUsT9epU1a2YYSPNvUFFLdDjNHbdUsqW0249ZptZPkvQhKdSid7k3xlmbq7VK1MR9bLKnZaUhSwmwQjfxQB8eNiPX7wYMN2piEbSFXSiVBlGT7n//2Q==" />
 
 - "Pur/Kakaosplitter"
 - "Mandel/Feige"
@@ -163,7 +162,9 @@ als Chocoholic bezeichnen würde.
 
 [Online findet Ihr Lovechock Rocks hier](https://www.lovechock.com).
 
-[gallery type="rectangular" link="none" size="medium" ids="24426,24429,24428"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-3__l.jpg"}]}
+/>
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

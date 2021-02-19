@@ -43,7 +43,7 @@ besucht war. Ziel der Veranstaltung war es ein Zeichen zu setzen, daß Neonazis
 keine Chance haben in der Friedensstadt Augsburg. Das Motto lautete: Frieden ist
 bunt, nicht braun!
 
-[myflickr tag="friedenauxanne"]
+<Gallery name="flickr/friedenauxanne" />
 
 &nbsp;
 

@@ -27,7 +27,8 @@ date: 2018-09-18T11:48:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "22104"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29822477627_8f4edaecf6_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29822477627_8f4edaecf6_z__l.jpg
@@ -63,7 +64,7 @@ Dabei können sie auch noch sehr viel Geld sparen."
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_unnamed-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_unnamed-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwAFAQIEBv/EACsQAAEDAwMCBgEFAAAAAAAAAAECAwQABREGEiETIgcxQVJhkVEUMnGBof/EABkBAAEFAAAAAAAAAAAAAAAAAAABAgMFBv/EACQRAAICAQMCBwAAAAAAAAAAAAECAAQDBRHwEjETIUFRcYGR/9oADAMBAAIRAxEAPwDyxcXk96vP8msdRfvX9mr/AEDa4t71lbbbPStUWQtaVhCik8IURgj5Apfl+H1isbLUZmA/LakpdD8xccy3k427W2wBtQTlXfjjb+SCK9cZYbiYKrp+WyhyKdgPLn7AHqL96/s1Oov3q+zTyrRmmL0gWB20ydPXRgdWOtSkKdfa9VbgVJX8jJKTiijxDsMbTWqpFrhOPOsNIbUFvEFRKkgnyAH+UNjKjeFrT8tdPEJBHb7+JRwpkm3zESoL7keS2SUONqKVJyCDgj4JH902aP1lbWbYLpBUxBbaLbVztq17UZPal5nJPPAyPUZzyASGH9x/mtcCkRynaR1Lr1SSvOevuIw+KOvokpP6K3LD89lzciS0cJiqBPKFg5K/TI7VJUM88UT3CdKuMtcqfJekyF43OurKlHAwOa56lDOWO5jbVzJabqef/9k=" />
 
 Am 18. Oktober 2009 wurde von Martine Postma in [Amsterdam](/2018/03/amsterdam/)
 das erste Repair Café gegründet. Gedacht war es nicht als Café im klassischen

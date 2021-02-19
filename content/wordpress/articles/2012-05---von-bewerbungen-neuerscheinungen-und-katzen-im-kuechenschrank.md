@@ -60,7 +60,7 @@ subTitle: Tagebucheintrag
   title="[ ](/wp-content/uploads/2012/05/img_20120518_095143.jpg)  Das Corpus Delicti"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_095143__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQFBgcI/8QALRAAAQMDAwMCBAcAAAAAAAAAAQIEBQMGEQASIRMUMSJRBzRx0kFCc4GCkcL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBDESMoH/2gAMAwEAAhEDEQA/AMRuW4J5Vzy4EzKAd7XGA8qADFRXA9WlEzlw44nJfGM8Pav3afkUtRcksp1VSgF+4znzjqq/DSblywRVX0l7s5ACQePr7aIrsb1UweSjsw1KauCoOZ+Y3ePn6v3am7Kmp9N6W6mpNy6kKk2qVBTyqpKgayAQQVYIPtoFhx6bjuuNiKCPU8cIpHaSSlGcqUePASFfTXRV+2natoV4FzCQjCk5dTDNok1wuotO6qn1UypR2qASTpjQ6HD6mbXKOtzlO6N6LomFJOD31fCh+qrSCEnBKlD+Q1Y7shZZM/KpXDyOS9cKwWlQ+aqsc7eeNRbaDf8AVSakPI7c8ntKp/zqurnCsbXP2BqsnuGtadcQFzRkqwFVFRnWTUJoK9RT4UOeOUkj251ochfkzfHxDtJcinto1tLNS3bBWVEmqgb1kcFWP6ycaooZvKYPSi3+fHLSp+/5dT1ox0o4vS3TTjZAhMk1JPaVAE4qoySduAPOp7eU9p3GFKjc/9k=" />
 
 **Das Wochenende werde ich heute mal wieder mit etwas einläuten, was ich schon
 viel zu lange nicht mehr getan habe. Einem Blogeintrag.**
@@ -88,7 +88,7 @@ Hört auf jeden Fall mal rein.
   title="[ ](/wp-content/uploads/2012/05/img_20120518_100356.jpg)  cardasport"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_100356__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_05_img_20120518_100356__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQcCBQYE/8QALhAAAQQBAwIEAwkAAAAAAAAAAQIDBAURAAYSIUETFDFRIjJxByNSYWKBotHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAP/EAB8RAAEFAAEFAAAAAAAAAAAAAAEAAgMRIRIxMlGhsf/aAAwDAQACEQMRAD8AU1/bWoubN1+3ulFU14ANzXAAPFXjpn8u2jHsZjhQlNzdgqUAB518ZPYfN9Bqzm14elWCwfEJmPHgU5x96se+ex1GEG41pGKITa3Eup4halD3x/f7alfLRoKuODk3kb9LaSdt20KnZlxty2i5I4p4PS3HW3lk/IByz3wMddZalG9GftFrBIl20dqJaRUymfNulKAp1GAUk4KSknB79dWTL1lOtat9qxSh7zI8uhYw216Hlj29/r66ZdgoJ3XFfv0MCfJSxGjLiOcmni28hzKkqGUlPI8SfxEDOhET3E6lS4eHhJGwLyrO0bjLc5iY/wASF4HR5WRnt30G12zcyOeJCUuoOTjHqP8AdUm4q2/h7ouPBrbZoqmvn4Y7mCC4r9OD9dAP7hLSUmpslEDqry73X+OmuYSVmyACqTmr4TNzt55rm1GuoalOJUMEIUkkBQz6oVjrrnpbxe49wVzyUxga1xhlQdyfEdcebDpSUnoUoT8JPQlR0nZE7c62lNtV05OcgqMd5SsEDIyR09Na/Yku5sdxUwlbclMyBMismRGZcaCkh1Hzp44IAHXqNKbEY8HT4i5wfpOr/9k=" />
 
 Kater No. 1 kann jetzt von hinten in die Küchenschublade klettern. Kater No. 2,
 nicht ganz so schlau, versucht nun schmollend, selbige von außen zu öffnen. Nach

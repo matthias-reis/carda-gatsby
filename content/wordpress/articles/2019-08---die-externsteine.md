@@ -46,7 +46,7 @@ Horn-Bad Meinberg in Lippe am Rand eines Teichs empor.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-21-bielefeld-matze-11__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-21-bielefeld-matze-11__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAApEAABBAECBQMFAQAAAAAAAAABAgMEEQUAIQYSEzFBFDJRByJSYZFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOK4xsqDI2SAom+29V305gRYzkV1PUdbkLbJQQfca7GtvnvrXDnDmWypknEYybLTHdKVLZQVBO5+0+Ce370wxfD+UUhK1QHVuM8xfi+x5CEqo2lVHelbCzt20EPJYeJSQkAH8dv7o09kRWlyHfTPsttBRCQohVp8Ha/FaNBc/T2VlGZ7KcY47KekqUn0pf6LLookkJFctFPusE1+9MeIc/DyMb0kDFyIEzHSuSU++3aW3Tf3BQUSo2Nr8b/OkX0+jrmSos2TGXMjMuhfSbeU2q0qKgOYA1v/AJtfzqp4ixMZGCzvoMY+yZ0pE5SXXQ6llSU0ooPKCLBVfitBzLPMDGKYU3NYCJAUtIeZ5zQUU3fL5o9tGtSco1jSGJUaPLasqZ6ir5Qdzv5sk/zRoP/Z" />
 
 In den Stein sind Treppen eingelassen. Für einen Betrag von sechs Euro pro
 Person kann man sie erklimmen. Jährlich tun das rund eine halbe Million
@@ -74,7 +74,7 @@ Wandert Ihr wie wir gerne? Rund um die Externsteine findet Ihr zahlreiche
 interessante Routen. Höhenwege wechseln sich dort mit Heideland und
 Buchenwäldern ab. Die Fauna des Teutoburger Waldes hält so einiges bereit.
 
-[glry name="externsteine2019anne"]
+<Gallery name="glryexternsteine2019anne" />
 
 Quelle: [externsteine-info.de](https://www.externsteine-info.de/)
 

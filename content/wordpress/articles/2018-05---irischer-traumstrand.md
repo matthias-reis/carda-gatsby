@@ -43,7 +43,7 @@ trotzdem die Aussicht mit mir genießen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38452580050_15f56bbc2d_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38452580050_15f56bbc2d_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAKxAAAQMDAQMNAAAAAAAAAAAAAQIDBAAFERIGM3EHExQVITFEYXKBgpKy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAwQRMVL/2gAMAwEAAhEDEQA/ADsrlNkz3dF1gslAGlAQ8UhP1SBWJy/WqQ4pZs7KlKIOrpByeJxQRze1ZO5HqpEyLEGlMJqEY7Ijnr+GhpxLdrgl09idaucx7YrDJ2gfYVqFviuEJyUNkNkeeEgUaid6uIqviJnx/IrGyrvRkKKxxZ//2Q==" />
 
 <RemoteImage
   alt="Traumstrand"
@@ -51,7 +51,7 @@ trotzdem die Aussicht mit mir genießen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26390516718_9a860e911a_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26390516718_9a860e911a_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIEBQb/xAAnEAABBAECAwkAAAAAAAAAAAABAgMEEQAGEgUHIRMkMUFRYXGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMREiIEE//aAAwDAQACEQMRAD8A5lPMjiqozKZCYj7AvdtQsKJvzJVZr5OVVapiSllxfCIBUaO8hwn9vGMpL7EHJmbVI56EmnUCHwhuNCgIUDaldhdj0s9R9ZnSNRyWmE91gutOGkKO9J8elgH2xjB/VcDnYw+FeMaz/9k=" />
 
 ## Wegweiser Irland 2017
 

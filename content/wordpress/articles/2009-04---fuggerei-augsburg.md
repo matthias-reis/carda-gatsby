@@ -26,8 +26,7 @@ date: 2009-04-24T14:22:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11197"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-11__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-11__l.jpg
@@ -51,8 +50,9 @@ Stiftung.
 
 Die Fuggerei in Augsburg ist die älteste Sozialsiedlung der Welt.
 
-[gallery type="rectangular" link="none" size="medium"
-ids="11198,11197,11196,11195,11193,11192,11191,11190,11189,11188"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Fuggerei-2__l.jpg"}]}
+/>
 
 Die Fugger bei [Wikipedia](http://www.fugger.de/) Die Fuggerei bei
 [Wikipedia](http://de.wikipedia.org/wiki/Fuggerei)

@@ -49,6 +49,6 @@ also.
 So geschehen vor ein paar Tagen in unserem Wohnzimmer. Die Quality Time hat das
 Katerchen sichtlich genossen.
 
-[myflickr tag="oskaranneolympusapril2018"]
+<Gallery name="flickr/oskaranneolympusapril2018" />
 
   

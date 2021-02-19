@@ -69,7 +69,7 @@ können. Von uns gibt es fünf von fünf Sternchen.
 Die Adresse des Lighthouse Tea Room lautet 8 Abbeygate Street Upper, Galway, H91
 V9D3, Irland
 
-[myflickr tag="lighthousetearoomgalwayannelove2017"]
+<Gallery name="flickr/lighthousetearoomgalwayannelove2017" />
 
 ## Wegweiser Irland 2017
 

@@ -58,6 +58,6 @@ den Beeten und Blumentöpfen wachsen etwa 1.000 verschiedene Pflanzenarten. Ein
 paar davon standen bei unserem heutigen Besuch noch in voller Blüte. Ein Meer
 aus bunten Herbstfarben säumte unseren Weg.
 
-[glry name="2019-10-20-wandsbek-botanischer-sondergarten"]
+<Gallery name="glry2019-10-20-wandsbek-botanischer-sondergarten" />
 
   

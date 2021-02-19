@@ -28,7 +28,7 @@ subTitle: Bildergalerie
 
 Gezeigt werden die Fotos vom Calexico-Auftritt auf dem Southside Festival 2008
 
-[myflickr tag="calexicosouthside2008"]
+<Gallery name="flickr/calexicosouthside2008" />
 
 ## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 

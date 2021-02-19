@@ -40,7 +40,7 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 11/17
   
 ---
 
-[myflickr tag="annemoushole2009"]
+<Gallery name="flickr/annemoushole2009" />
 
 _Hier geht's zu Teil [12/17](/2009/05/st-ives-cornwall-16-05-2009/) _ ## England
 2009 Wegweiser1. 10. Mai 2009

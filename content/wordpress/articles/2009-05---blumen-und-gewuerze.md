@@ -36,6 +36,6 @@ subTitle: Gärtnern macht glücklich
 Blumen und vieles mehr - Gesehen auf der Ausstellung "Lebensraum Garten" auf Gut
 Mergenthau
 
-[myflickr tag="AnneLebensraumgarten2009"]
+<Gallery name="flickr/AnneLebensraumgarten2009" />
 
   

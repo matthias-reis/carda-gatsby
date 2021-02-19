@@ -71,7 +71,8 @@ digitalen Audio-Downloads.
 Liveaufzeichnung statt!""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgIEB//EACsQAAIBAwMACgIDAAAAAAAAAAECAwAEEQUSIQYTFBUxMkFRYXEioZHR8P/EABoBAAEFAQAAAAAAAAAAAAAAAAMAAQIEBQb/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIhAxESEzGB4f/aAAwDAQACEQMRAD8A7dBb74TGGaLKlQ0eAVyPEfPrSTT7rX7vVe57pUgSxKyXN/GpHaVzlVQEYBPG77OMVPc6oLbUHVAzFADjc+3yj0BwazPSRyvEaBSByY24/fPrXLJ6Xg2pJt/Rjf8AkfAHgaKXG/e5td0iFGPupXcOcHB/s0UGT2WYRor2o30yak4juJY1ATAEhC+Ue1Rd5SYPXXd2AuD+MhP3nJHFKNJ1K31uxtNUgiJiuIg8fWuUcDkYIH1W8sscJI7DbyqGyrNKMj55z/FE5apqyLxcrQzt70NYFpJpHUMTumAUgBeSTk/4UVUulOu2tpo95LqLxWccqNACBvBd1IXO1c/qinhg7LFky9Woq/Z//9k="
+/>
 
 Das Konzert in der Kulturkirche fand am 6. April 2019 statt. Es wurde komplett
 aufgezeichnet. Eine sensationelle Leistung der Band, wenn man bedenkt, wie

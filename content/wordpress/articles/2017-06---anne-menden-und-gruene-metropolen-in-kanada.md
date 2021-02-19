@@ -23,8 +23,7 @@ date: 2017-06-21T14:23:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "16874"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35317507741_16f7736dd3_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35317507741_16f7736dd3_k__l.jpg
@@ -39,7 +38,7 @@ subTitle: Das aktuelle Welt Vegan Magazin
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34605728674_f80099782f_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34605728674_f80099782f_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAwj/xAArEAACAQMDAwIGAwEAAAAAAAABAgMEBREABhIHITETYSJBUXGBkRQkQqH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEAv/EABwRAAIDAQADAAAAAAAAAAAAAAECAAMRIUHh8P/aAAwDAQACEQMRAD8AWrbs7a6UyotkgbHblJI7MfznUpddv2ttzSUNrZqWSmgE4p2y6kHK5DE5GMHz+9I1BL/VRV5gDJ7sWP8A3RF1YnWKK5tHcHirKn0aaCnipw7E/FmR38qiqzH7gY76i+lWXMyXVcytpMzqDbFJfYRNRXijgZyFhiqI2DPzj9VCCpI+JQ2B5yrDyNTFwsU1JtdLz6sJpnqWoVi+ISCRASxIxjHn5679EqW/VV+lVrZOLatDHTTt/HwHUSF0c8iBzHIkN9O2rLqTbBa9m0lMYKeENdalgkOOHHieJwPYn37e2iPUqqYhLi7DDEy3zxJRq7yJx+obHy+2hnclStV1Q3DSpKxpqi30dNKEk/y8uGOe3fDYz76UrFUc7eGhqonjIzyjcMp/I7a8+b83NWW7qjfntkVJVCoipqdaqaTMULR8XyeOc4IIxp1p5CIoPMjd0+phblroyvExqiPJyJVn78iM+AMd/c6lur1VystrDqB6lRJKpDZJUqQM/o6haSpo9xyR0e794FYGMsk1RRB4YJWKpxj4lAWUDODjyG1r9VLzY6qjtcVhuVDXcJHaZqeLgRhFVS31OB59tBYAVn7zFV1qjgIOep//2Q==" />
 
 **Nicht nur der Vollständigkeit halber, poste ich nun endlich meinen Beitrag zum
 aktuellen Welt Vegan Magazin. Auch, wenn es schon eine Weile in den Ladenregalen
@@ -63,7 +62,9 @@ Er befasst sich mit dem Thema CETA und ist auf Seite 112 zu finden.
 Ich wünsche Euch viel Spaß beim Lesen und viel Vorfreude auf die neue Ausgabe.
 Ich glaube, sie wird wieder richtig spannend. ;-)
 
-[gallery type="rectangular" link="none" size="large" ids="16872,16875"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_34637715763_5734b8ca5d_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_34637715763_5734b8ca5d_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_35317507771_bffe33bcf5_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_35317507771_bffe33bcf5_k__l.jpg"}]}
+/>
 
 1.  [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
 1.  [3/2015 "Internationaler Tag zur Abschaffung von Tierversuchen"](/2015/05/das-neue-welt-vegan-magazin-ist-da/)

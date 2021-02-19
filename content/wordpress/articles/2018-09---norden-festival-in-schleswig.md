@@ -126,7 +126,7 @@ für rund 21 Euro zu haben.
 
 [Wer mehr über das NORDEN Festival erfahren möchte, kann gerne mal hier klicken.](/2018/07/norden-festival/)
 
-[myflickr tag="annenordenfestival2018schleswigbilder"]
+<Gallery name="flickr/annenordenfestival2018schleswigbilder" />
 
 &nbsp;
 

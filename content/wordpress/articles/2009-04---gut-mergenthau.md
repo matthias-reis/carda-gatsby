@@ -17,8 +17,7 @@ date: 2009-04-26T14:29:06.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11175"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-2__l.jpg
@@ -44,7 +43,8 @@ _ [Homepage](http://www.gut-mergenthau.de/) Gut Mergenthau_
 
 &nbsp;
 
-[gallery type="rectangular" link="none" size="medium"
-ids="11184,11183,11182,11181,11177,11176,11175"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-61__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-61__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-51__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-51__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_04_Gut-Mergenthau-2__l.jpg"}]}
+/>
 
   

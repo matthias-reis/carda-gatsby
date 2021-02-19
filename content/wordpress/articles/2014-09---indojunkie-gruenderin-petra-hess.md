@@ -36,7 +36,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "8886"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_img_6860__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_img_6860__l.jpg
@@ -433,7 +433,9 @@ Petra und Melissa gerne bei ihrem Projekt unterstützen möchte, kann
 [hier](http://www.startnext.de/sulawesi) erfahren, wie es geht. Das Crowdfunding
 läuft noch die nächsten 8 Tage.</small>**
 
-[gallery type="rectangular" ids="8887,8891,8879,8885,8892"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_6914__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_6914__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_7706__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_7706__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_4698__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_4698__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_6820__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_6820__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_7853__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_img_7853__l.jpg"}]}
+/>
 
 Nachtrag am 16. September 2014:
 

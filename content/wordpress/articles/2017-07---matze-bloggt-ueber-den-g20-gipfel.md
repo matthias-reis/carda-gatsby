@@ -33,7 +33,7 @@ subTitle: So erlebten wir Hamburger die Krawalle
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_19942836_1912374132335861_9174963676286235512_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQEDBAYIAv/EADAQAAICAQIDBQUJAAAAAAAAAAECAxEEABIFITEGBxNBgURhkZPSFCIyM0NRUnGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMEEyH/2gAMAwEAAhEDEQA/AKvw/EhmhLSpuIcjlu6V05Eadfh2OWIGOGUiwwMnWr/lpeGqz4km2J5BuNbVujQ5/gb3eepTxuSS8JIWm3iE105/o3VWfXWzNemegXk8LhbcsUbQvYqw7UPU1z/zQXOxWxshom3cqILLtJB6GvLVnkiIDEwtvosD4RFqPP8AJ6C+ugfGECZLK0Ekcl3ubkHXoCF2rXT9tSaGCOPPFDjOjRlpNxKtsjIHIdSReo7Zbbr8PGvrXgrXw1ok9yHZk+18Y+en0aZye6Ds5hQlBxDjq2CVAkVlv0j0XrqDwmZ4+3OSPuYrV5GBTeo2VkNMm1kgUXdpEqn4j+9aOg7nezWdEivn8dYqLIMiqAfcTHrs9xHZY+2cZ+en0am9NbG4zP/Z" />
 
 **Wie ich Euch schon [erzählt habe](/2017/07/nog20/), bat mich der liebe Thomas
 vom _Volksverpetzer_ um einen Beitrag zum Thema G20 Gipfel. In dem ganzen Trubel
@@ -53,7 +53,7 @@ Unter dem Link findet Ihr seine ganze Geschichte zum G20 Gipfel
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_Bildschirmfoto-2017-07-08-um-21.18.23.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAGCAYAAACij5zfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB60lEQVQoz72S2XLaUAyGef+X6JLM9KZpCBgDAceA47AGMFtYHHaoIQUbMPQKvgr3pk9QzXgk//qPjvTrhD7WK7rdHqPRkFqtRqfTxapbVF/LbLw9DatOt9fn3bZpNluBHwxsFssl/V6Pfn8QnG+3O6zXjvg249GYdqtJS+LuW4f5fM5sNsO2B5TLr+z2e652uVwI2YM+6bSGaZro2SxGziCmKBTyL5j5EjnB6pYlnDQ545nUYxJVValUa5SLRfL5Apqmo+sZKV6kUCiQiKskkwnhGzxpacErVKuvEmvEEyl+bbZBA+fzmZDz0+EhEsU0sgzHU+l2QrvTkY4XRMNhRuMxmSctuGA8mQYKPD8baLrw3/uSn5CT3GQyI5PJiIIthkNbarzRqNcoVapYVpPRdEo2m8FZOfxrocV8RkKNB0lTpnlMqNzefhMF8oJluQ/fE1FUDJnealj8uH8gFlPkMp1k4pEvnz6jRMLkzBdRKydTpoiLAlo6hSFYMh4XTJczMe6+3xGNKNx8vRGVo3i7PaGl7EeXaVIi2VB2t1zMWa0/+H064Xk7+Tz2+wOu6+L7PhuRb7fzOBwOnI5HHGfF8ejLvx9gnvAC7/3luNstJ6nlem6AXesMZO3XOHgDvn+QvZVoNRpsti7/2/4ATLeqnp3JSE0AAAAASUVORK5CYII=" />
 
 [](http://www.mimikama.at/volksverpetzer/hamburg/)
 

@@ -46,8 +46,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (34:68)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (35:68)"
 thumbnailId: "3508"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__l.jpg
@@ -56,11 +55,12 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 6/9
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (34:68)
+## unknown: Expected corresponding JSX closing tag for &lt;p> (35:68)
 
 <!--
-[gallery link="none" type="rectangular"
-ids="3510,3509,3508,3507,3506,3505,3504,3503,3502,3501,3497,3496,3495,3494,3493,3492,3491,3490,3489"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9982__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9982__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9981__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9981__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9978__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9975__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9975__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9974__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9974__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9973__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9973__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9972__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9972__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9962__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9962__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9961__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9961__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9960__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9960__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9956__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9956__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9955__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9955__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9954__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9954__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9953__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9953__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9952__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9952__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9948__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9948__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9947__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9947__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9943__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9943__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9942__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9942__l.jpg"}]}
+/>
 
 Hier geht's zu _ [Teil 7/9](/2012/08/eden-project-2/) _ der Galerie "England
 2012"

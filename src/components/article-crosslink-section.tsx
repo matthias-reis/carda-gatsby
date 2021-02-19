@@ -2,7 +2,7 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 
 import { color, space } from '../style';
-import { Article, RawArticle, CompactArticle } from '../types';
+import { Article, CompactArticle } from '../types';
 
 import { Container } from './container';
 import { ArticleList } from './article-list';
@@ -21,9 +21,11 @@ export const ArticleCrossLinkSection: React.FC<{
       <Container large>
         <h2>Interessante Beiträge</h2>
         <ArticleList maxArticles={4} articles={recommendations} />
-        <h2>Themen</h2>
-        {meta.frontmatter.labels && (
-          <LabelList labels={meta.frontmatter.labels} />
+        {meta.fields.labels && (
+          <>
+            <h2>Kategorien & Stichworte</h2>
+            <LabelList labels={meta.fields.labels} />
+          </>
         )}
       </Container>
     </Section>

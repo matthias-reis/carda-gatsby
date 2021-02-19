@@ -56,6 +56,6 @@ und dann geht es wieder richtig los!
 
 Schöne Grüße aus Altona! &lt;3
 
-[myflickr tag="anneirlandinsta2017"]
+<Gallery name="flickr/anneirlandinsta2017" />
 
   

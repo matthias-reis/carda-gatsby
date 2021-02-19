@@ -33,8 +33,7 @@ date: 2019-07-31T16:20:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "25622"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Design-ohne-Titel-2.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_Design-ohne-Titel-2.png__l.jpg
@@ -61,7 +60,7 @@ steckt Herzblut in seine Arbeit und das sieht man auch.**
   title="Custom Light von Herzblut Instruments"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Custom-Light__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Custom-Light__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBBAgF/8QAKBAAAgEDAwQBBQEBAAAAAAAAAQIDBAURAAYhEhMxUUEUIjJhoSPw/8QAFgEBAQEAAAAAAAAAAAAAAAAABQMC/8QAIhEAAQQCAQQDAAAAAAAAAAAAAgABAwQRIRIFQWHwMqGx/9oADAMBAAIRAxEAPwBnU+/NyNEWjO0q8hcqIq9oOs48Dqz5OrT7/wB0Usz0dbsylF0wnYpUvtOGqMtj7erkDHIzydZkW0URUqvcUngkHCjVqLb1LM7jqkch42Lk/fwD8+QOR/NWapIPydGh1SMuy0jV763NTsRLt23UrD8kqrvEvQfRI9a424N5bhq7VF3pdtwQ1Uv06R0s31csrkgdKYJGcE5OOONJcbeo3rFUtPI7E5Msp5bGc+efPnRLZLQlmraqSO2TtURQd5AoKF1YhFZXKnJ6jkcHJ1M4CBuRlr3wtx3WmPgAoP7L4IYEYPI96s26SolldJUijiQt0ydJD4J/EnwVHB9+OdFOy7gm47pDRV1BRpG8iqWhDqefPliP5pnXnYFlt9ruc0azyGjP+ayMMHqVSc4A/wCGkGsBMwk2db92h2qSxchfG2x9t4S3ks0kFLBUIZpI5G7+eSillC5U+iAP1qdqiXbxpaiveoeCoqEp6aLukorNIMsQ3AUELkj0B86Bbdfqy1mken7b4nlgiSZe4kKGQjCqTjHzg550d3iKDcMUtwuFPEKugnaGF4gU4DMMkA4zx8AD9aLt3wAXyPdK1aJCbE5Z1+L/2Q==" />
 
 Alle Instrumente werden in sorgfältiger Handarbeit hergestellt und sind
 obendrein auch noch tierleidfrei. Gefertigt wird auf Bestellung, nach der
@@ -94,7 +93,7 @@ Herzblut Instruments.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Gernot-als-Kind.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Gernot-als-Kind.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,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" />
 
 Gernot hat sein Hobby zum Beruf gemacht und dabei seine Berufung gefunden. In
 diversen Fachzeitschriften bekommen seine Instrumente immer wieder positive
@@ -118,7 +117,8 @@ gleich mal auf
 [Gernots liebevoll gepflegtem Instagram Account](https://www.instagram.com/herzblut_instruments/?hl=de)
 vorbeischauen. Ich wünsche Euch viel Spaß beim Stöbern!
 
-[gallery type="rectangular" link="none" size="medium"
-ids="25619,25618,25617,25616,25614"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_Tineo-Snare.jpeg__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_Tineo-Snare.jpeg__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_SB-Single-Cut-Bass.jpeg__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_SB-Single-Cut-Bass.jpeg__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_Purity-Snare__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_Purity-Snare__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_Punkrock-Drums__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_Punkrock-Drums__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_Electronix.jpeg__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_Electronix.jpeg__l.jpg"}]}
+/>
 
   

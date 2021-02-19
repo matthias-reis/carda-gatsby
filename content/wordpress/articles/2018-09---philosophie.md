@@ -36,7 +36,8 @@ date: 2018-09-17T13:54:51.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "22067"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_12834745223_1a642a3bbc_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_12834745223_1a642a3bbc_z__l.jpg
@@ -63,7 +64,7 @@ des 19. Jahrhunderts.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835184404_98f71faab6_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835184404_98f71faab6_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAL/xAAoEAACAQMDAwMFAQAAAAAAAAABAgMEBREAEiEGE2EHMVEUIkGBsWL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AfOpr3WUdIqvDDLFIWQMrMjZ4O0ZBznjxqNRVi2u43WOOEClqoizRuuBgMsijzgrj96sXqN09fa+4QxUrQvEJkSKKM5YEjAc/C8Afjk6nnXvSVVbrY9yrgGlSVoZ1Y7dpkXcgwPKuMf6Gr01t9aZPq7najAigpSvJkY5EjDbnx/Mn51k6SVVt1nsyF4ZLoy1FZPyHjiHKqoB92wQG8k6SbvfI70lrMsPakpaBKV2c57jqxO4fAwQMeNV70vs1uezxSACpnrTF3D23JVkDHtqSCFHsBngnHwQFl1Zk9Wx+n6OWpFTMZHqFBG8sR7nI49uD/NcydO2qWreerpFq5n27mqT3QcZwdp+0EZPIH50aNNZKtd6R9FTwmNLS1O7sW70M7hwf2SMc+2Maa7NblsNooLNSyvJFTQCNZJQMkD5AwNGjRdf/2Q==" />
 
 Warum das so ist? Das Denken und uns selbst Ergründen, lässt uns Zusammenhänge
 besser erkennen und kann uns langfristig vor Fehlentscheidungen mit großer
@@ -104,7 +105,7 @@ wichtig, in Bewegung zu bleiben.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834842573_b2be547655_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834842573_b2be547655_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggD/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURAAYhBxJBEzEUUWGBIiQzNFJxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFBv/EACIRAAEEAQIHAAAAAAAAAAAAAAIAAQMhEQQxEhMUQVGhsf/aAAwDAQACEQMRAD8AgN23muj27tZ7TdZpkjtFN6U1PMwKPlvVQsuMMrYGCcgAa57L6l7m2jXqHrqq607ATzU1axk70P8AFiSykZzkfcHVI29J8ZY6sZYmORVI58KMYHge+nDZ+nkdy6a0u4be00dyZJlljK8SQpIf08e2Md2fOCMe2oZSGJk0fa/TLQCMZRi8mz19Th2z1S2xfQIoZ3p6s5/KyoTIx+SquS/k8Z+uNXGF4aiL1oCrxvyrr7MNYg3Ba7ttTcNHAxqaOtEUdXGwJVl7ge0gj+vscg8jWgdub4pbXa6Pc1TGz0d2ZKW7CnT9tXKnEoXjIdeGx5AIzk6fDqeKiqlOn0bBYPlQOzugtgq7VQXZ7ndFNVTxVAhRkUIzKDjIXJH006dvWGhsVvgpLVGaemhd5AisSCznLe+Tyf8ANGjSRFmvFohE+2aVd6w7Ztt72nWXOrp0+PtcD1ME4H48KO5oyfKsMjHg8+NLbpUlPuWybv23WwYgCLMsqtysig9rgfPhfPOPro0aLKA88Hx5S4TLpybOzsv/2Q==" />
 
 Seine Wege führten ihn ans Meer und in die Berge. Seinen Gedanken ging er am
 liebsten in der freien Natur nach. Das von mir erwähnte Buch ist eine Art
@@ -131,7 +132,7 @@ dürfte einigen zumindest vom Titel her ein Begriff sein.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835036544_0c88897a95_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835036544_0c88897a95_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAgIBAwQABQUBAAAAAAAAAQIDBBEABQYSITFBBxMUIlEyYXGBsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAZEQEBAAMBAAAAAAAAAAAAAAAAAREhMUH/2gAMAwEAAhEDEQA/AF7Zt9vScMobUlhpK1SKKX5bkoVYKOw75wB/vjTntfKdwrblLEtcPTmCN0gE4lCjCqT4GcZ/bOmTj/w1rWNtpV4mIb6OrJ3RlXpLOSTkdzgYx7850z7lxGKokt2eD5atYjjK/NBHSzqgYYH8HGiW4PpOn5VLdvSpaMoZ67onTnC+G7nyR/3WVuPJqwgrvWtWTIoWKQtH9qgAfcM9gCc+ven/AHHidKY9EO4KZq4Mzp1BSFEZA9A/qA/r86o7t8M68WyTp9c7NMirDiLqzK3gEgHCZ9nt376qUNDi2x7ZyDkPKmv1ps1twWMrHcnSOVguet0D4JPV77fgDXRr1GvdpmtYRjDlThXKEFSCpBBBGCAdGjUyaa9WGAYEMMgjBB8HUUwCQOVAHShAHoaNGkP/2Q==" />
 
 Er wuchs in einer siebenköpfigen Familie auf. Zwei seiner Geschwister sind
 Adoptivkinder aus Vietnam, die seine Eltern als Zeichen des Protest gegen den
@@ -159,7 +160,7 @@ des Menschen", "Eine neue Tierethik" und "Was tun?".
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835050734_41e45a91fb_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12835050734_41e45a91fb_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwQH/8QAJhAAAgIBBAICAgMBAAAAAAAAAQIDBBEABRIhBjETQSJRBxQVcf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIRIQMSUeHw/9oADAMBAAIRAxEAPwDnt/yPYvz2UomK9PZ5SSi1EsqRKpJVkBT8W4AKQD3gNpH4ra8xsLuLbIb8osORJHSQcEbl+K/J+8EkAfXYBxkTtCjWuUH/ANTcAGjRXuyfOBwjwB8PEHAPYA9tgehrBPKNw8U3ixZ8O3SukbhozVksxyK0YJUF0JKsfZAIJGQfs6E8FwbMKclBAjfabsEe/wA8HmV2+9cxlIZJLAmjilLAFpBjlxwRxOOjjv0dMrqyy+Rx7BuVhr0EFWRYJc5kaNsOhdiOyAcdEZ6/WovZ23LynyhL6jbduRKyGSdjxgijzxyQvokj1gD9AAac7lQvS3o6aTtbuxxSKH5KMpCoCBcEhsgtkez0RoF6dnC+psc7JP7F/SuJFesxGSFlmeOGSNX4mNQWck9FmPfY66H0NU1aKQVol3SChJJC7uXjrqRxxkKFIA6BX9d50aNVquB+8SfbbNvDPFrHlu6w0tpSlRG7H52Usyogj5H0Acn3j/uvSvHPHX23Z7ezbhOFgWy8jJTAVpVV1x8kuAxKqRgKFB+9GjSNAvntvOY4rSx11P/Z" />
 
 Fehlende Empathie reibt ihn genauso auf, wie die Fehlentscheidungen von
 Machtträgern in Bezug auf
@@ -197,7 +198,7 @@ gewordenen echten Mischwaldes niederstrecken zu lassen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834775203_3cb667892b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834775203_3cb667892b_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAKxAAAgEDAgUDAwUAAAAAAAAAAQIDABEhBBIFBjFBURMiMkJhgXGRkqHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOorzCyQgjekWd5BvfrjNUtXzPNBGwjZZCwFyzFdotix6gisEeJPOjBGLRrbdnAJvj9utR1GuKIXRV3jbi/2/wBoGXMXMkuq1CTsJAyjaXV87fHtxg3I/OKXLzTLEU00vpybTtAUe0qR8f0s1iKz/EZ3E+5dqq+dpJz16HzSPUzW4jEqJ6cwF0YfFibC32sQaDZcCQvoZfcQGjDuABm69B4+IqXHcaTiL/XHJdT37jP4FFFAi5oUaXRQzrdi4Qm5Nzfdj+vHekOslMmnjnBYFCLXck3v1v8AxtjFu9FFB//Z" />
 
 Durchgesetzt von 15.000 Polizisten, von denen sich einige sicher in diesem
 Moment auf die andere Seite wünschen. Da auch sie den Unsinn klar erkennen und
@@ -224,7 +225,7 @@ der finstere Abgrund.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834641775_e09bf427d6_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_12834641775_e09bf427d6_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAgj/xAAsEAACAgEEAQEGBwEAAAAAAAABAgMEEQAFBhIhMQcTFCJRgRVBQlJhkeHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABsRAAICAwEAAAAAAAAAAAAAAAACAREDIVES/9oADAMBAAIRAxEAPwB3Ju/Ra6xzAr3EjLnyeofGPuuNd/j01SCnEJCqwL7whW9G6BRkfc6PQ8Y5bErpY49PJPBIqIY5YkikXDDPYvnHzZ8L51gfaeULI9jdePWqW3v2jLvKknU48OehZyhJUZ6+MfzpffQqaHlrkNiukojYdyhkZsfRT/ms3G76SzhJY4yqRRQh/JOAvkf2x/4aIW79GCGXbnnWG6kSxvLK4giwBhhh8MfXA+XJwTrfwzYt8tyJdFmgNusMxjMdhScZx2/LIGMeufoDplyRISshPavbryH4G1Xs06MluKw6y2kDRmZW6gHqDhWAJwR48Dx65M3PaLya1yKK9TvRUQJpYoY4oEPu0duxUkj5/wBPr+3PqdWrWRnbppVYqxB7NLdPku4HbORVZ7FuXpH8ZWsCvgOwwegUjIwPQjPnxg416I3bZI9vrNPs7JVmYisC6GRV951BYKCAME5wMDOrVq2LaksmpP/Z" />
 
 Um ihm zu entkommen, brauchen wir Denker und Aktivisten, Menschen mit
 Zivilcourage, Macher und Schreiber. Entschlossene, die sich dem Mainstream

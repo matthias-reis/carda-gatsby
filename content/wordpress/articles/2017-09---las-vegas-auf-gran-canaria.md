@@ -51,7 +51,7 @@ angepflanzt. Neben den netten Bewohnern begegneten uns dort auch noch ein Esel
 sowie die beiden vierbeinigen Begleiter des Hofherren, die uns auf Schritt und
 Tritt begleiteten.
 
-[myflickr tag="annelasvegasgrancanaria"]
+<Gallery name="flickr/annelasvegasgrancanaria" />
 
 ## Wegweiser Gran Canaria
 

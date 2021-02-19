@@ -59,7 +59,7 @@ Geschehens, der gleich hier bei uns um die Ecke liegt, betraten.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBwgF/8QAKxAAAQIFAgQGAwEAAAAAAAAAAQIDAAQFERIhMQYiQWEHExQyUYEkQnFS/8QAFwEBAAMAAAAAAAAAAAAAAAAABAMFBv/EACMRAAICAgECBwAAAAAAAAAAAAECAAMEIRET0QUSMVFhgcH/2gAMAwEAAhEDEQA/AHzhtc2W25WqFtlxagJZF1KWtFt1EjcddBaElPiW5LeITmLLSqWPxACLqCPd5wO+R+NsbCLCr8y5SaBNTqVNF4IDTQy1yXyg27XJ+oz+7LSqawoFS8xMYEanS+BN/wCRFfkCshRGYuIblLH0547/AJNAVvhxuqO+pqSBJOlScnsv0A9vwTpv37QRBw7VFVThmVfmVpEyzeXWSbnNGmQHS4sfuCEpYzKCp1A2VBGKsNiL3GlRacelKRJoKltOB6YWonEKA5UfO1yfqKlW6XZB+eCjurQK0uVZXtbYbb7kR12XZqSpbKEBDcw/mtx2ZWSolWt02vew/wBEawuvcQz0qpr01MZXRW2/J8tQObiLEZHoCRcjrrFA1rXWMwmnSkY9Kp9nXv2lucDVRtmeekZuwYqGL7biDyocKb2P9HXsIIQJN9c7TjLpLbrKmMWVA4uBP6Ek8umx6wQjGzOknkYjULm+Hm+zqoDv45n/2Q==" />
 
 Was uns gleich als Erstes auffiel, war die grandiose Akustik - wie gemacht für
 ein **Long Distance Calling** Konzert. Die Band hatte sich die Location nicht
@@ -85,7 +85,7 @@ Ludwigsburg und in der Kölner Kulturkirche statt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-06-long-distance-calling-kulturkirche-altona-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBgIEB//EACsQAAIBAwMACgIDAAAAAAAAAAECAwAEEQUSIQYTFBUxMkFRYXEioZHR8P/EABoBAAEFAQAAAAAAAAAAAAAAAAMAAQIEBQb/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIhAxESEzGB4f/aAAwDAQACEQMRAD8A7dBb74TGGaLKlQ0eAVyPEfPrSTT7rX7vVe57pUgSxKyXN/GpHaVzlVQEYBPG77OMVPc6oLbUHVAzFADjc+3yj0BwazPSRyvEaBSByY24/fPrXLJ6Xg2pJt/Rjf8AkfAHgaKXG/e5td0iFGPupXcOcHB/s0UGT2WYRor2o30yak4juJY1ATAEhC+Ue1Rd5SYPXXd2AuD+MhP3nJHFKNJ1K31uxtNUgiJiuIg8fWuUcDkYIH1W8sscJI7DbyqGyrNKMj55z/FE5apqyLxcrQzt70NYFpJpHUMTumAUgBeSTk/4UVUulOu2tpo95LqLxWccqNACBvBd1IXO1c/qinhg7LFky9Woq/Z//9k=" />
 
 Neben dem sagenhaften Klang im Bauch des Gotteshauses und der offenen Sicht über
 die Köpfe der sitzenden Zuschauer, wurde uns an diesem Abend eine beeindruckende
@@ -140,6 +140,6 @@ Setlist habe ich Euch auch mitgebracht.
 
 Metulsky Curse Revisited
 
-[glry name="2019-04-06-long-distance-calling"]
+<Gallery name="glry2019-04-06-long-distance-calling" />
 
   

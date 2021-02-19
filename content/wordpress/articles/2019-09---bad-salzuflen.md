@@ -84,6 +84,6 @@ Stadtgebiet den Namen "Heilgarten Deutschlands" zu verdanken.
 
 [Die Sterne live in Hamburg](/2018/08/die-sterne-live-sommer-in-altona-11-august-2018/)
 
-[glry name="badsalzuflenanne2019"]
+<Gallery name="glrybadsalzuflenanne2019" />
 
   

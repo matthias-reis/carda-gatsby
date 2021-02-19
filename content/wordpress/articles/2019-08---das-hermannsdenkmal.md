@@ -47,7 +47,7 @@ kleine Wanderung rund um das Hermannsdenkmal mit ein. Jährlich kommen mehr als
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-34__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-34__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EAC0QAAICAQIEAwcFAAAAAAAAAAECAwQRAAUGEhMhBzFxFBUiQVFhsUJigZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ALLh3ZhNstCc9KQmJQzxnmUtjv3yfzppPsy9M/AMemkHhNYDbq9avM7V2hEbVlIKh0/UF8lznJPngAa0OKZLHGV/ZhNXJr7ZXsLACOpzPLIGY/YKsfpzffQZFxvSG2bRJbSuk0nOqhCcZGe5/jRpJ44b9HuN+ba646VamSuWBQsxHdj9R27DRoHvgPxzt9ev7p3X2elG+DWuTkgu7E5jJxj5E5J+XpqYi4ks1/H69xBQNu/R9rk5polaRRXkjKRlwoJ6Ybl7EeS6zzaoBTUMLklkqF5D1SseT+1gD/h1RniSzTeWKetSnnmTpMroTIwBBAOOxwfL00C3iG+bfEUiXppkNlyrySRmMh8dwObH0H96NLN74j4g2yQV7cYFd/jSKdOUAH1/OjQf/9k=" />
 
 Im Vorfeld hatten wir natürlich gelesen, wie groß das Denkmal ist und waren
 schon mehr als gespannt, wann wir es wohl das erste Mal zu Gesicht bekommen
@@ -74,7 +74,7 @@ Umgebung.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-36__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-20-bielefeld-hermannsdenkmal-bad-salzufflen-36__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAjEAABAwQCAwEBAQAAAAAAAAABAgMEAAURIRITBiIxQRRR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMqsNqC0J9apRaEhAHHeP8p7xmCFNowmrCMmGliTAkT20KcHaGEJ7VBQ1zKRsY2M5/Tn7QY/frSEoV60VX3ZuLOguPwnm5DSVFBU2cgEflFB1PGFFMJ1TWO4MrKMgn24nGh93TEfxZdyiz7Y5cyy9Nt8KSyWuS+LjWQoLyCr2Vg6OORJNRHjvm0SPa2HXYyluOnqKGlg8VHI2Dv5g4qutN6lxZcCQ5GIbiR0pbJw2Q5lGsHGR6nf3dAjceoO/wBaVqUuaynsLySXO0NgLHPQxyT8Aoqa8jmTWmGkh1kht9b4S0rXEqKgn6TrOKKD/9k=" />
 
 Sein Anblick ließ uns dann schließlich staunen. Er sah tatsächlich noch viel
 größer aus, als wir ihn uns vorgestellt hatten. Die Kolossalstatue ist komplett

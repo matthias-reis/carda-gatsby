@@ -25,8 +25,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Unterminated JSX contents (101:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (103:16)"
 thumbnailId: "17846"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg
@@ -35,7 +34,7 @@ subTitle: Ich melde mich mal kurz ab...
   
 ---
 
-## unknown: Unterminated JSX contents (101:16)
+## unknown: Unterminated JSX contents (103:16)
 
 <!--
 **... bin aber bald wieder da. Versprochen! Wir werden die nächsten beiden
@@ -60,7 +59,7 @@ richtige Rubrik dabei, versprochen!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36831266332_6858ed43aa_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_36831266332_6858ed43aa_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBQMG/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhBjETIlFhkQcUQRUyQnHB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMBAv/EAB4RAAIBAwUAAAAAAAAAAAAAAAABAgMEERITITEy/9oADAMBAAIRAxEAPwDP6R0KDUoUnhlieAkL4m8BVPofQ/3XuLPSo7bW7LTPAUzTwSTqSwIIUqOPY5PxU66F6h0/RdNvvvknaS8RPBhiwBKQect2BBbjPHBpu56yZ9btdQtbeOJ7eAwIs8m8YJJJyox+ac79zishI2Sg2kW4WX2yXJEUERTCHanbkftz35rhqfUZnjWONoIxnbJcy4YI38jtUd/b5qYQ/Ui6e7VZINPlE/lVF3gIcHBJ7kdsj2pKXr64togLqCymtAcFIU8NlGSSQckHv2NS105eiu3UXRIbUT/osTG5l3kDYwJBjyc+XnA+KbuNQuFv5RLPcSs4GXZxu4UfnFFFCF55FrjVJpZEVixX0LZxk1l6leb7WV3j3MvkGWOMEgf7RRXSMbP/2Q==" />
 
 ### Rock 'n' Roll
 
@@ -83,7 +82,7 @@ richtige Rubrik dabei, versprochen!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBhMxIkFRgRQyQlJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwUC/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxESEzFR8P/aAAwDAQACEQMRAD8AQ9RPN1VWpW11L+G6jNRPSbGmk2gdvg8HBAJAHONQ2qnmTiy1EEMIiVGdTsWQlV3HGPcrn71U6fvk1e0XducqzUbrO0clGMl12hQpi9hz5HIJ1YVo7lViolmeN5wx7qFgnczk5P34IHt40vWN1AWtmThhn77GvZro0LVdTSTIo4BQlvgeoYPkj3+dXD1LdLPSiRLhI8arlo5QJ08A8bjuHn+2lDWdZKBp7dcKWvb9SKar3OzHjHbbBJ8j0k86yt7lkSF6ekd3lmk2ypIcbSFxjJJ/lxrDYx9RUXlRhnWLT0zaaCBiKKKV1JQswwWHwSPP3rOdS2W209RTzpRQlArN2myQx+Tk86NGp9bHyZKNqjiLZKS3Cl7cNqt0T1DoWkWmXcDkDzj/ADOtTeuj6SjsfdpZXinSHJYD0twSfTnHOjRprnZWXDApUMhJn//Z" />
 
 ### Gesellschaft
 
@@ -102,7 +101,7 @@ richtige Rubrik dabei, versprochen!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBQYHBP/EACcQAAICAQIFBAMBAAAAAAAAAAECAwQRAAUGEhMhMSJBYXEHFFEj/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMBBAX/xAAdEQEBAQEAAQUAAAAAAAAAAAABAgARMQNBUWGh/9oADAMBAAIRAxEAPwCSo1OJYb0FHdtoBEriNb1VueEEnAZ18qNXzbY4eGd7o1Og73rUM0zWZ07nplB9KPWcL7fJ76kuErn6vC22WbjH9m3WA6ruq5UdiSWIH88f0e+qLxRvsFf8g7Zds2oZKdSv0xyKrBedXJGFJGclc/WmSRD0POC2rOL42lbvvVSO+Kor17FRsYEMXVYkd8Fcf06qezbVuB4psXaFOTaUUEeuIOoBIyvqxjPx40lT8hbHUhrpXsojzMnUaOIkxj3ZvYYOB2OO/jUTxHxTtzXarvvE9+JQJSI4yycuGGMjHv27EH6GnzZHZn3+cll9TlP5sop7lPuUlmHdma5ToQdSvC7H/MFFOAfth8ekdhrgiul/VFDDGgI5YyvMqkquT8+dGjVEXaNxICfeR9zvQI9jnrlUJJRYQuQMDGc9s6f2beXOxU5TCvMTM5wceJCMeNGjUmDf/9k=" />
 
 <ul>
     <li> [Hamburg](/category/unterwegs/hamburg/) </li>
@@ -145,7 +144,9 @@ _Bis bald dann!_
 [Facebook](https://www.facebook.com/cardamonchai/) poste ich auch im Urlaub ab
 und zu etwas.**
 
-[gallery type="rectangular" size="large" link="none" ids="17845,17846"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_09_Fu%CC%88r-Blog-1-von-1__l.jpg"}]}
+/>
 
 -->
 

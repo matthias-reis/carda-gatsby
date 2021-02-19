@@ -41,8 +41,9 @@ subTitle: Perle an der Nordsee
 
 <!--
 Vielen Dank an Kurt Gerhard für die Inspiration und an den Herzmann für das
-freundlich zur Verfügung gestellte Titelbild. [myflickr
-tag="stpeterordinganne2014"]
+freundlich zur Verfügung gestellte Titelbild.
+
+<Gallery name="flickr/stpeterordinganne2014" />
 
 <blockquote>Die Perle
 

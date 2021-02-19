@@ -25,8 +25,7 @@ date: 2010-04-03T16:37:31.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11520"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1602__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1602__l.jpg
@@ -57,7 +56,8 @@ professioneller geworden. Wir freuen uns auf den nächsten Live-Auftritt von
 PEPES PENTHOUSE, der bereits am 15. April im Cinemaxx in Augsburg stattfinden
 wird!
 
-[gallery link="none" size="medium" type="rectangular"
-ids="11514,11515,11516,11517,11518,11519,11520,11521,11522,11523,11524,11525"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1558__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1558__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1559__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1559__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1570__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1570__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1578__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1578__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1591__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1591__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1595__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1595__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1602__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1602__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1603__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1603__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1605__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1605__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1616__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1616__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1617__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1617__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1631__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1631__l.jpg"}]}
+/>
 
   

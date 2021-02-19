@@ -32,7 +32,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "5442"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__l.jpg
@@ -90,7 +90,7 @@ Das Original Fan-Towel
   title="Das original Fan-Towel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_towel_day-e1425405110473__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDEQQABSESEzEGQVEiYYEycXKx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAQGB//EACMRAAEEAQQBBQAAAAAAAAAAAAEAAgMRMQQFIUESUXGBsdH/2gAMAwEAAhEDEQA/AEWFj5eTK0OBgrlCHHGRJ0qSwWhbHn5I8DTAYOenQJdmylJCsKVyaIsHwfbVXYt3Ozbg2QMZMh3xowgZygR1dXVuAbAZBxxfzrQT+sMjJ2vOwMfC7QzFZnZJWZlkZ+tnWhwLJoewJFnVA+PNldI0u2slgiIgaQWt5weQLPBv9SyaGWBpFysDNgeMhXVozakiwCCBVgWPkDUDduX6R3A1Hh468Amr092/1Jm4WTlTR4FrkyJM6P1VSxFALq656vwPbUW/eo232bG6sbsGJX4WXqVrVuSK/V9/3+dSh6pWs2WARvcIappNh2CBeCT2seixTdpjMyssYQqsdmwT9xq9CkUZtZ5gfH0qAT+erRo0CBdrPQ79roo2xMfQArA69wrAWA+87fykH+a5YwxcpGAaIssSRY5/vRo0BlJn3jWzNLXyGj8fVL//2Q==" />
 
 ## Handtuch No. 2
 
@@ -192,7 +192,9 @@ Für alle, die meinen Text nicht verstanden haben (gibt es solche Leute
 Euch! Ich habe Euch hier mal ein paar Ausgaben fotografiert, die bei mir zu
 Hause gerade so rumlagen:
 
-[gallery type="circle" size="tall" link="file" ids="5440,5437,5439"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4207__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4207__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4204__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4204__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4206__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4206__l.jpg"}]}
+/>
 
 ### Hier noch ein paar nützliche Links: [The Hitchhikers Guide through the Galaxy](http://www.douglasadams.com/creations/hhgg.html) [Die vierteilige Trilogie in fünf Bänden](http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis) ### Ich werde Euch dann morgen darüber berichten, für welches Handtuch ich mich entschieden habe! [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

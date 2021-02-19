@@ -29,8 +29,7 @@ date: 2016-07-26T11:41:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "14942"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27942594343_72af97f2c6_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_07_27942594343_72af97f2c6_z__l.jpg
@@ -47,7 +46,7 @@ Werbung\*
   title="Lovely Day Botanicals im Test"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28558089645_51e988deef_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28558089645_51e988deef_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBQb/xAAqEAACAQMEAAUEAwEAAAAAAAABAgMEESEABQYSEyIxQVEHYXGRM0Jysf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDISIxBP/aAAwDAQACEQMRAD8AnLa41jeORlDdD2s2R6elrjN/vqj/AKXfT6np6KHcOQ0ZfxowIKOoaNURbZZw1vMbk2HzkemkVwusgot+pKyakjq46eXuYWbrcW9R7XBFxfGM6sjjW70e57LDXUVWxidugN2Vu/ujAAsCM/r1tokVWfcbIzKuosuU/TIUUQ3PZFd6CNGaOnQ+K1MSwBby/wAiBe2MsMYOlLWbbS1c7NRO0DOxdFBI6qbAdVPsADcn5+19VZy7lVDx7ZIqqV5ZJ5j4dNCQxklkv8GzdR6km2PyNTNyqSSaumrdwUDxHdkpiwjaOViQ0hUXH9jjriy39zoPoVUfk7MbAzOvQ1FRRzFUBtlVLf8AbjTX4Ty7ceJbnHLRu0sbvIaiNnI8ZfKFU/5BxjGfm2jRrcxogiWIWCDNDk3L67e6mv3CqVfGWmQoly0axMofoFNwDkeYZNvvrkd03R3pGURqojl64JzclgfyD+9GjRAWbPsQmhQ8n//Z" />
 
 **Kennt Ihr schon Lovely Day Botanicals? Die Gründerin Josy und ich folgen uns
 schon länger auf Instagram. Sie macht Furore mit ihren selbst hergestellten
@@ -77,7 +76,7 @@ Botanicals** und die Philosophie hinter der jungen Beauty Marke.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_27941065674_7e955c3c0f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_27941065674_7e955c3c0f_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHCP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAxEEBSEAEjEGIhMUQVFx8AcyIySR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EACURAAIBAgMJAQAAAAAAAAAAAAECAAMhERIxBAUTIjJBUYGR8P/aAAwDAQACEQMRAD8AgFsYSt3uST2iFbZgzzHqPudWHpXoSiqE2qvqPMCkcpyXAyvctTpEggxgD2nJ+DqaWMsJcp2qg/0CsKf2KAUscRJ+k6090PcLa7ZKdy11LSqbYEteCQOMbAPQjiDxqakMzXldYlEtaS/8n2lV/udTeLK2la29zNWlDZS7vSAZCT7gzA99I9tonW2PNJbDoZXC21KyQqMFJyIg/Y1onqWoctVsTdaqjQ4/46nnUFSdy9qTsbMg9piCRkD/AEZ+culddKpd0rSsVNaoqcSzA7gT+oAkAADt+OZOjbEVcMusz3fUqODxNO3n3++xLs7h/jaRg7tu7nBPHx6xq3KvRobBb101M2lylbBngLxntEATo0aZLMSI9QBkAMTeoOs7nW1imGHn6dhZKCC8XFqwDKlqyf2OBA0p29TtxqNm5LakhaA5BKgJzBBGjRoPMcTG6FAWf//Z" />
 
 Alle Produkte aus dem Hause Lovely Day sind vollständig vegan und werden nicht
 an Tieren getestet. Das trifft auch auf alle Inhaltsstoffe zu. Josy verzichtet
@@ -108,7 +107,7 @@ werden.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28525902296_9008fc1ca3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28525902296_9008fc1ca3_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAtEAACAQIEAwcEAwAAAAAAAAABAgMEEQAFEiEGMUEHEyJRYXGRFBUjMoGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgMREiL/2gAMAwEAAhEDEQA/AIVllFrC7DXYW3sB6/1fFy7P+y3Kcy4WpM7znOSBVAyQ01LENYAYgFv28VweS/ycRfJWh091N+QK+5Vm5Xv05bg/OLv2W8bZRw/wzW5dnFU1FFqD00kSs5l3JKALvcA9TjHRG+rTbYeN1mJ42oaHKJwIoJZiJiVE4Ks2kbbEDp82wpgD19DLrQi4dlfQbqCAdjztsfD64f8AHue5VnoaXLPrHMbllaaPQWItqFufL4vvjNq8dOryOsiRRVAcuhIsouAW5nzBsLXtgsgFvMWm+TqYOiq2hiidRu+pT7WU/wCm+H0NRKYpX1WVwUZBsrKNrHzwYMJkCHjWcZq2Tv5YAB3cyq5B3sSATbyuTjp9yqDVU5V9DTDSSvQi2/vYD4wYMQCVWf/Z" />
 
 Ich selbst hatte mich für meinen Produkttest für ein Überraschungspaket
 entschieden und war dementsprechend gespannt, als ich den Karton öffnete. Heraus
@@ -132,7 +131,7 @@ Gloss", ein Haarserum mit Kokos.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28480259571_251ae912a9_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28480259571_251ae912a9_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgEDBf/EACoQAAEDBAEBCAIDAAAAAAAAAAECAwQABRESIQYHExQiMUFRYSNxQoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMxEiFBUf/aAAwDAQACEQMRAD8ASNht4l3NhgFAUG1uAqA41HtnjP7ppw710+zARGfYt06eGlIiyVSG0IhqOvnI+Mg8DJOvpzSktrSZd7iNuOpaSpxDe6j5U5IyT9cin10Dam+h+0tiI6+0YsuM9H3kpbAbcA3QpO3A21Iz81GNvRaSXpvl3uyIuc1ZkF5uTb47ZkQ2dy260pY8ucAEhSTgcHFR+rGdOoXLbMIVNcgNS3Px6ZJGM6+xxrkfOax1JaE9a9p9ptnjguMrvn31xy2e7ShOf4cckAf3Vb6gkPRO05/xdwcuT6WUMuSHCdkgg4TgknGAM/f7rMnKnf0eJRtVuhHMyFeIJIzskj19KtSZMq6vrly5C3HihsLU4SsrB45JP1RRRyqkbj2SWX5FnfU5DeU2pWyElslBQVJIKgQc5rmy7s89dvEuDaSMul1RJUvAAwSfX3/2iihB30Umf//Z" />
 
 Ich habe mir Zeit genommen, alles zu testen und auszuprobieren. Vorab schon mal:
 Einige haben ja mitbekommen, dass ich eine echte
@@ -166,7 +165,7 @@ wieder meint, sie muss für ein paar Tage "Vulkanausbruch" spielen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28480265131_f46f45d540_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_07_28480265131_f46f45d540_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBQcE/8QAKxAAAQQBBAEDAQkAAAAAAAAAAQIDBBEhAAUSMQYHQXEiExQyM2GBkdHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHREBAAICAgMAAAAAAAAAAAAAAQACAxEhIhJhgf/aAAwDAQACEQMRAD8Ayf002NrevMtmgvt8mXpADiUmvtEZUejftru8u2RraPIZ8BKUMqKxkqPIIIv6cWTgi/nUeGx5QlMOQFBqVzHEsKOSqgaVWD++bOmveIrJ47qzMbcmCQBx/MWhBvF92CBjrP66w2ydde5urTt8mfOQYRDTcdJPFAJW8nlysnoDro/z8aNNG7NR4LMSO407IeSk8il8tUMUcEXee84N6NQXZbSWfoozEe8v2yHNSl9BaX+IFJ5BJUnFjlkWDemP1UgxdrYaj7NGbjsGW2FoQkAEZ7Nn3A99Yzsu9uwZrMqI+7HlMElKmVAEms8T7GicdHV1J8lk7j94G8zX5jqFEpbdWeChj6qwLs4T831lthjapzB8VyFh4l3vi4qXWkS40qSSC5xj8QhClZVXyf69tGkifuKHVsLkSFpUGEJC7NqAHRrsi/8AVo0ZjdRW5uf/2Q==" />
 
 Meine persönlichen Favoriten sind das Haarserum und das After Sun. Das Serum
 gibt man auf das gewaschene Haar, am besten über Nacht. Am nächsten Morgen kämmt
@@ -189,8 +188,9 @@ möchte, finden die Homepage  [hier](https://lovelydaybotanicals.com/) und Josy
 Instagram [hier](https://www.instagram.com/lovelydaybotanicals/). Zum Shop geht
 es [hier entlang](https://lovelydaybotanicals.com/collections/all).
 
-[gallery link="none" size="medium" type="rectangular"
-ids="14949,14956,14955,14954,14953,14951,14941,14948,14947,14946,14945,14942,14952,14950,14943"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28525902296_9008fc1ca3_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28525902296_9008fc1ca3_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28525925666_05c06ab1fe_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28525925666_05c06ab1fe_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942613863_e7d2f762fe_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942613863_e7d2f762fe_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27941065674_7e955c3c0f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27941065674_7e955c3c0f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27941063634_61ea02a26b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27941063634_61ea02a26b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28480265131_f46f45d540_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28480265131_f46f45d540_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942593503_b17d697901_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942593503_b17d697901_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28480259571_251ae912a9_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28480259571_251ae912a9_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28558099995_5b71aaea76_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28558099995_5b71aaea76_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942597113_68f64c7a37_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942597113_68f64c7a37_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28451617922_faff859c48_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28451617922_faff859c48_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942594343_72af97f2c6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942594343_72af97f2c6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27941061734_f61e92a17b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27941061734_f61e92a17b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942605863_e70b8a0f2c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_27942605863_e70b8a0f2c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28451608392_27bedd8cf5_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_07_28451608392_27bedd8cf5_z__l.jpg"}]}
+/>
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf

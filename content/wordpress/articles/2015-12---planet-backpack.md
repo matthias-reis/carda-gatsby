@@ -24,7 +24,8 @@ date: 2015-12-08T15:43:37.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "29032"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Conni-best-day-1-20-375x250-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Conni-best-day-1-20-375x250-1__l.jpg

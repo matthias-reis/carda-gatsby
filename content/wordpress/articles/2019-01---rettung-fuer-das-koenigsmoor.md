@@ -61,7 +61,7 @@ Lebensraum zurückzuerobern, klingt nach einer Heldentat? Das ist es auch.
   title="Bekassine im Köngismoor"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Bekassine__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Bekassine__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBEFIUESE1EGIjEVMnGBYZGh/8QAFwEBAAMAAAAAAAAAAAAAAAAAAgADBf/EACERAAEEAQMFAAAAAAAAAAAAAAEAAhEhAwQSIjGhweHw/9oADAMBAAIRAxEAPwCtpVlHPE0jgQguCrMm78f1VQta2qIs00UfVKEjDkYkc/aufO23mp2mXb9mNWkyozjqPyOSOef8NK1qNr3R9RRo+3NJjtyEAGP3DAXwRnIIxuKxmwX7SlN0n21kLDUb2NJ5p45SLhDK5fpLkhlXwAQMbc80vU7dbe3eVlkcRAsyxEDH4J/NJ0+WW3j09dRmjlvngeJypwZHQqWPP8k8Uy6vBNfyWxjICoT7j0ggkBXycDfP6zUeXNdYn70juIUU3DyFnjzGkbMFXJOwGRv+q4n1LE976vvY+60ccMgUjJPV0oBtvgA+Mc80UVbpiRLh1jyhlPGVW9DmC7kGmSQu0NyxedpJCzSYVZMbYwMqPitF7c/UJNThljQmBCVlf3Octk5O3yQDtj4oooaoluNzwbruQjNL/9k=" />
 
 Helfen könnt Ihr, indem Ihr "MoorFutures®" kauft. Eins der
 **Klimaschutz-Zertifikate** entspricht einer Tonne CO<sub>2</sub>. Sie können
@@ -100,7 +100,7 @@ Klimaschutz-Projekten wie den "MoorFutures®" einen Ausgleich schaffen.
   title="Wollgras"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Wollgras__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Wollgras__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgL/xAAqEAABBAEDBAAFBQAAAAAAAAABAgMEEQUAEiEGEzFBFiIjUWEUFTJCof/EABgBAAIDAAAAAAAAAAAAAAAAAAECAwQF/8QAJBEAAQMCBAcAAAAAAAAAAAAAAQACEQMhEjFh8CJBQlGBobH/2gAMAwEAAhEDEQA/ANHCTjxinlyG5sltDaC+5GfW62NwsglQ4I9+tKDOwcrkI0NBntscNMux5YCyDX9QDZ4/zSnQOS6hwMWXDCXWooZL61L2LWN44PB21XNWfHjUv4egZCBDlmAzFdYcQolppLTi076CwEqpYP8AIX5r8azKj6sYhaM7D72SllSLFaXD/C4zDKv3GVkmw4VBD6gkBX33pCT698c6764Zw+UfDmFyuOiRwfmakfW3LF3tNKoUa8Hm/Wl4owbuRbj4zGR+1jEd2X2Htzym920hZPmypJIFEEkCxzo6hVjZmMkOyJbkNpT3cZiBlumUhNpQpSfmBNkBXIPg/giq8zLWk6SJ9jfJBrapWSMNeYyjkVEl2GUyO2ksn5U1uJNeea8XWp+Oy8lU6JDkKEhltQZSHUpP0xYKSAACDuHB+35vRo1KAMIV45kaJzp6dLy0f9El4RlhUUmShA7x3rS2obhRqvRseLsi9S+oXF4uVJxrSip1t1LRkWQVjuVynxo0aV44fKHXG8l//9k=" />
 
 Ich habe hier mal ein paar Beispiele für Euch, die mir die Ausgleichsagentur
 Schleswig-Holstein zur Verfügung gestellt hat: Durch den Flug einer Person von
@@ -130,7 +130,7 @@ arbeiten, den Treibhausgas-Ausstoß zu verringern – also zum Beispiel in
   title="Der Moorpegel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Moorpegel__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Moorpegel__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQME/8QAKRAAAQMEAQIFBQEAAAAAAAAAAQIDEQAEBRIhE0EGFDGBkQciI1Gh8P/EABcBAQADAAAAAAAAAAAAAAAAAAEDBAX/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIDETESEyJC/9oADAMBAAIRAxEAPwCT4kofEpRuYmJpnxDPmL62YUwptLqgndSYA/0V3wOMtXmlA36mlca6tkgn29I/dN1lhWGvKXFtmXHtD1FNFKwCOQAD357f0eoy16ltbDkycXF3+Mq8o9ESZQRWNfuOdbRFs+FFOwGp5/lWS3+nuTCyGfEkLCARupUFPevbk/AVy0ypT+aKmykSCkkAzzHzUkabNpZHLF/G4q0KFLLZ6pSleyVEQSATx7mmFy3tmMC2tpgbJadJJUoyZMd+Iiiir3TW/lBg33ci+zjbpu21ZVsrVaZlP2pPHzU0y1xkm7J24OVvFamOmXDqZPcTzRRRZBMD/9k=" />
 
 Insgesamt erstreckt sich das Königsmoor heute noch über eine Fläche von 1.200
 Hektar. Das "MoorFutures®" Gebiet nimmt eine 68 Hektar große Teilfläche des
@@ -158,7 +158,7 @@ des Projekts inzwischen um 660 Tonnen pro Jahr reduziert.
   title="Rohrkolben im winterlichen Königsmoor"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Koenigsmoor_Winter_1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Koenigsmoor_Winter_1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAUBBv/EACoQAAEEAAUDAwQDAAAAAAAAAAECAwQRAAUSITEGE2EiMkEUFXGRUYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHxEBAAEEAQUAAAAAAAAAAAAAAQACBBGhAyEiQVJi/9oADAMBAAIRAxEAPwBkRn1vp2jMOoTd6T8/J8YvsIQo6/t+laT7kOHb80MKmPkjzUF9R6mWwl0agG5KVhaaoaqaBIN/AojziIxc6gRitOcynMuZKwhtpbiS4ng16BQ5IUbHnC26+dsIWr76I35akAsKejuW86llBCQrdV1v/WK6IbKbUyEKN7gqUaP8VwMJJXUT3oey+P1EmSiwlSZpIB3oAdu73PG/7xt5fnUsQJBy2TnMMrcDvakL7ZBIFkk+74/XHOJpuvFJKqtU61Op5hrq6OicsOLHbSlawVDTe5r8UANsSRero78wMaNSkrvb2KSTxY42FeL2GDBgQuYxDGZx/PZEjOS7l8eO7GTpcQx3FEAAkbqJugDuf8xt5uJ+W5ZHn/StmDKRTitRfDazwQKBHgm+cGDGnE5qZPIdpP/Z" />
 
 Nach 20 Jahren wird sich daraus eine Zahl von 1.037 Tonnen pro Jahr ergeben
 haben. Bis dahin sollte sich laut Experten wieder eine mit **Torfmoos**
@@ -180,7 +180,7 @@ Treibhausgas ablagert – es wird dauerhaft darin gespeichert.
   title="So schön ist das Köngismoor"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Koenigsmoor_1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Koenigsmoor_1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgEDBf/EACkQAAEDAwIEBgMAAAAAAAAAAAECAwQABRESIQYTQVEUIjEyYXEHM4H/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EABsRAAICAwEAAAAAAAAAAAAAAAECAAMREiEE/9oADAMBAAIRAxEAPwBumFHEyMGLkt5hQOt5TgTpOM7gGpikxURXF+K5hbUUlBdAJ+RvjFLC3cQ3WU44YtkjIS2gJ50h1Pm3yo6PUnY1h6/vyo8GSt5MGK866hK24hBCkpHtCSNYOd8nA6daVT3sc9hG86xux7naYXJ/W6pw+4Ogad8b5Nb2uJYWvlyVMsDKhrDyVJwOuSeudqW0C6WtCUty7jeIqHCNS1lACwR8g6QPj+11Itptb7sh9viC4SHoznKdSFJwg4yAU6SBsc+npVxe9h5gyDUEHZTrLxNCsMWHGc8K/JdGttxCepyAEqIyfvvUVj8juXS03IRw0haWzyivGQRtp+6KKwVUFdjGtsnEqbXEDvEajAfbQZCM7rBwCEnJ796Yce42x3h2AIAejvT2yNUZfmcdQ0cOKzvk6DjtiiinkJqY6wDOX60//9k=" />
 
 Fast ein Fünftel (!) der Treibhausgas-Emissionen, die wir Menschen verursachen,
 entweicht aus trockengelegten **Moorgebieten** . Sollte es uns gelingen, diese
@@ -205,7 +205,7 @@ erklärt das so
   title="Wiesenschaumkraut im Königsmoor"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Wiesenschaumkraut__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_Wiesenschaumkraut__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQDBQIGB//EACkQAAICAQMDAwMFAAAAAAAAAAECAxEEAAUhEjFBBhNxIiNhMmKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAABAECAwb/xAAaEQACAwEBAAAAAAAAAAAAAAABAgARITED/9oADAMBAAIRAxEAPwC2xNiml+00isZFCQNCnVO7fuY1Q+OSfPGp41TAAk2vG3PcMYBkdMxygVwhsigCQOKuzZF6i9P+oIsSSMPNHj5CqVSWMiybHf8ABDAfB1ZxbqMDcpbjllZzx9wfS4FElQbNnp4vt451x6LgNbHQQdAlTuc0W5ellEKZEGSCJnkHWyOxAKqa5WwaNfJ1o7NJkTwZauYYMpixMvLEnpsDi6BVufGug7buME2SuLJk+1FJK4aRYCVyG8BQLIFd/wA1pX1Ds+M65kubPJC4hFGVQQhs9uTxyO3BLDQvmVPMkPuRXad1xljeDHhCTu7BJuCTxyAaIFfwf70/tO47cNzibqZJ5lSKdv0gs6EBiDxR6f8AdGjTCb2YBzVxL09ke3mS5MZjVUk9tQy9ay9iBfgEeRVmu+s33gSyY7vGkc2QI4yHo8ow8Mauwtdg16NGg8l2Y1c//9k=" />
 
 Anfang des 19. Jahrhunderts war noch rund ein Zehntel der Fläche von
 Schleswig-Holstein von Mooren bedeckt. Die wertvolle Substanz der Böden
@@ -248,7 +248,7 @@ Rückhaltung an Treibhausgasen und unser erstes Ziel erreicht."
   title="Winter im Königsmoor"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_K%C3%B6nigsmoor_Winter__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_K%C3%B6nigsmoor_Winter__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwL/xAAmEAACAgICAQMEAwAAAAAAAAABAgMEBREAIRIxQVEGExQiMmGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMSIUH/2gAMAwEAAhEDEQA/ANPweQljhC3axcH21o/5ylqTYu5PEm5K7ePjqRNAn+23zGMQIbdBa+QyFqg76f8AGuufuaVtBgAR6lujsH5HKKvXFCR5Ht/UhropLGEI+lA30pclt9H03wkou2kUb9LbLVoI5SkZSWL02raB5N5GpWP7CLzb431xTezOKSNyv1JlGOgSI1LMm9dFRGdH217HrinNy3YPvpDPn5o1RX/K8TIqggk/ohB9NDv33sdc1jfLCS6JsE1qDKyT1rl66V/h6SDxIG1byUEDYPodb744gyeUsV5Y5LVqsy6QsixowB6+Dv1HDhx0Rq2cXLGVbJGepatpFEiwFTGpVmVt7cb8dkd9d9niOS4+QhsRz2b0gjUDxqQBhG29BvLfxvrhw5apBbZ//9k=" />
 
 Jeder Bürger der EU verursacht im Durchschnitt CO<sub>2</sub>-Emissionen von
 rund 11 Tonnen pro Jahr. Studien zur Folge liegt der klimaverträgliche Wert bei

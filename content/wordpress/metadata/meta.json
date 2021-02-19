@@ -1222,840 +1222,6 @@
     "/2020/04/50-jahre-earth-day/"
   ],
   "errors": {
-    "oldGallery": [
-      {
-        "path": "https://cardamonchai.com/2008/12/blackmail-live-kantine-augsburg/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2008/12/sisi-schloss-unterwittelsbach/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/01/pepes-penthouse-live-25-jahre-gen-n-kantine-augsburg/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/01/pepes-penthouse-live-band-des-jahres-2009-kantine-augsburg/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/01/calexico-live-roxy-ulm/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/03/fruehling-in-friedberg/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/03/muenchen-im-regen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/04/fuggerei-augsburg-eine-sozialbausiedlung-mit-geschichte/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/04/gut-mergenthau/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/06/wertach/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2009/05/olympiapark-munchen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2010/04/interview-mit-der-schrobenhausener-spargelkonigin-johanna-schuster/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2010/04/pepes-penthouse-genial-akustiksession-im-cinemaxx/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2010/04/stimmungsvolles-unplugged-set-pepes-penthouse-live-schwarzes-schaf-1-april-2010/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/03/anti-akw-demo-26-03-2011-munchen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/05/supergau-in-japan-und-opium-furs-volk/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/06/ingolstadt-stadt-der-autos/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/08/lieder-am-ufer/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/08/der-mixtape-tausch/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2011/08/der-mixtape-tausch-2/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/02/technik-pinakothek-der-moderne/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/02/perspektiven-pinakothek-der-moderne/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/03/kammgarnspinnerei-augsburg/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/07/glastonbury/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/07/isle-of-wight-festival-2012/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/07/st-ives-aloha-cornwall/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/08/burg-herzberg-festival-2012/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/08/produkte-mit-tierischen-inhalten-kennzeichnen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/08/eden-project-2/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/08/fabelwesen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/08/schneeweis-und-rosenrot/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/07/der-kater-und-der-leuchtturm/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/08/verlosung-exklusive-vinyl-cd-und-t-shirt-zu-gewinnen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/10/t-shirt-verlosung-ziehung-der-gewinner/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/11/blind-pilot-live-muffathalle-munchen-29-11-2012/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/12/calexico-live-muffathalle-munchen-29-11-2012/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2012/12/blood-red-shoes-stellen-neue-ep-vor/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/01/zoologischer-garten/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/01/tiere-auf-glas/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/03/sonne-im-zoo/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/03/die-geschichte-der-frauenrechte/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/04/hoch-die-tassen-jubilaum/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/04/amplifier-live-hansa-39-munchen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/05/neue-schonheiten-im-plattenregal/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/05/farbe-auf-beton/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/05/cult-of-luna-the-ocean-lo-live-feierwerk-munchen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/05/beatsteaks-live-kantine-augsburg-13-08-2005/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/05/towel-day/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/06/die-post-ist-da-neue-schallplatten-in-meiner-sammlung/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/06/von-ghana-uber-irland-nach-neuseeland/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/06/are-you-ready-boots/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/07/southside-festival-2013/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/07/dubai/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/07/traditioneller-barongtanz-auf-bali/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/08/handwerk-und-kunst-auf-bali/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/08/bali-aus-dem-autofenster/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/08/flora-und-fauna-auf-bali/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/08/tempel-und-religion-auf-bali/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/08/dubai-und-bali-in-polaroids/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/08/rocknheim-2013/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/09/von-wut-und-stolz/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/09/von-guten-freunden-und-fotos/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/10/wer-hat-die-kokosnuss-gegessen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/10/karnivool-muenchen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/11/7599/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2013/12/armut-ist-immer-noch-weiblich/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/02/augsburg-aus-der-vogelperspektive/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/05/fast-ein-bisschen-nostalgie/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/08/wie-picasso-nur-mit-strom/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/08/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/smoothie-fuer-den-sommer-heidelbeerliebe/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/gemuseauflauf-mit-basilikum-tofu-und-gelber-bete/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/pflanzenmilch-wieso-denn-blos/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/sulawesi-on-the-road-and-inside-indonesia/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/09/butternusskurbis-aus-dem-ofen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/10/indische-bratkartoffeln/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/10/bananengugelhupf-marmorstyle-vegan/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/10/lovechock-rocks/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/11/wirsing-kartoffelkuchen-aus-der-pfanne/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/11/chevelle-sensationell-seit-1995/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/11/ein-koenigreich-fur-eine-kartoffel/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2014/12/diy-sojamilch/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/01/ich-hatte-noch-nie-heimweh/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/02/blog-relaunch-und-umzug-nach-hamburg/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/04/vegane-strandhaeuser-auf-sardinien/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/05/das-neue-welt-vegan-magazin-ist-da/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/08/interview-mit-desi-von-daisy-kindermoden/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/08/ein-meer-aus-farben-fuer-die-tiere/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/08/rocknheim-festival-2015/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/09/ich-bleib-dabei-vegan-macht-spass/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/09/meine-neue-handtasche/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/09/diy-koernerkissen-naehanleitung/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/09/diy-jutebeutel-rucksack/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/09/diy-upcycling-nerdbag/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/09/diy-upcycling-umhaengetasche/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/11/diy-upcycling-loopschal/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/11/diy-upcycling-armstulpen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/11/schmuck-fuer-veganer-von-mad-yeti-creations/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/12/die-sechste-ausgabe-vom-welt-vegan-magazin-ist-da/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2015/12/jahresrueckblick/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/01/rip-david-bowie-abschied-von-einer-ikone/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/01/seitan-a-la-herzmann/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/02/unboxing-fooodz-de/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/03/welt-vegan-magazin-die-ausgabe-12016-ist-da/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/03/sonne-und-frieden/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/04/manieren-der-boshaftigkeit/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/05/long-distance-calling-uebel-und-gefaehrlich/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/05/das-uebersetzte-wetter-im-spiegel/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/05/turnbeutel-diy/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/05/gladskin-vegane-pflege-bei-rosacea/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/07/lovely-day-botanicals-kosmetiktest/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/08/mio-mio-mate-und-cola-ich-habe-probiert/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/09/vegan-beauty-basket-im-test/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/10/die-seltsame-stimmung-der-knalligen-blueten/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/11/archive-live-docks-hamburg/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/11/von-blankenese-nach-altona/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/11/welt-vegan-magazin-42016-textchefin/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/12/all-glamour-no-guts-schmuck-fuer-veganer/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2016/12/gruenkohlchips-selbst-gemacht/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/02/kosmetiktasche-zum-selbernaehen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/03/diy-waermelampe/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/04/hanf-banane-himbeer-smoothie/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/04/veganer-honig-vegablum/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/04/smecket-tee/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/04/erbsensuppe-wie-bei-oma/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/05/vollkornbrot-aus-dem-roemertopf/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/05/march-against-monsanto-2017/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/07/diy-brautstrauss-fuer-immer-und-ewig/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/06/welt-vegan-magazin-2-2017-anne-menden/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/06/diy-putzmittel-fuer-die-kueche/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/07/g20/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/07/nog20/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/07/interview-mit-bettina-eichblatt-koenekoop-gruenderin-der-kuenstlergruppe-oakleaf-stelzenkunst/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/07/wildkraeutersalate-mit-dressingrezepten/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/cookies-veggies-interview/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/elrojito/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/doerrautomat/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/oekologischer-handabdruck/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/10/ruehrtofu-vegan-herzhaft-und-lecker/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/08/fritzi-aus-preussen-mein-interview/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/09/ahoi-urlaub-in-sicht/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/09/heute-in-hamburg/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/10/mister-mandrill-interview/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/10/die-tiertafel-hamburg-stellt-sich-vor/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/11/puss-in-boots-animal-rescue-and-adoption/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/11/kartenmacherei/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2017/12/heisse-maronen-selbstgemacht/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/01/elblicht-flarfgedicht-zum-jahresanfang/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/02/unboxing-sauberkunst/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/02/neue-deocremes-von-pony-huetchen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/02/samova/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/02/vegan-junk-food-bar-amsterdam/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/03/raw-food-cafe-amsterdam-zest-for-life/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/03/curraghchase-caravan-camp-site/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/03/gumbies-vegane-strandsandalen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/04/vegane-saefte-und-schorlen-im-test/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/04/fitzpatricks-pub-doolin/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/04/saeuglinge/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/04/wijld-woodshirt-mode-aus-holz/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/04/abschied-von-dir/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/04/faire-taschen-aus-teesaecken-ragbag-im-test/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/04/tee-von-ashera-gut-fuer-die-augen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/05/naturehome-rosenseife/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/05/dunkfestival-2018-postrock-liebe-fuer-immer/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/05/nette-menschen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/06/liebe-post-von-sauberkunst/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/06/sloe-dancer/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/06/inaska-sportbikinis/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/06/roadtrip-in-progress/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/06/nachhaltiger-versand-mit-repack/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/06/jug-berry/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/06/tom-yum-mule/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/07/norden-festival/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/07/make-up-fasten/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/veganer-bio-glitter-naissance/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/die-sterne-live-sommer-in-altona-11-august-2018/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/10/ich-glaub-mich-knutscht-ein-elch/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/10/kushel-im-test/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/12/geschenkidee-leckeres-von-keimling/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2018/12/huelsenfruechte-satt-in-hamburg-ottensen/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/01/natronfreie-cremedeos-von-sauberkunst/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/02/vegan-fashion-week-in-l-a/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/04/santaverde-aloe-vera-reinigungsemulsion/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/die-gruselserie-ist-wieder-da/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/sommer-mit-santaverde/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/bielefeld/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/08/das-moccaklatsch-in-bielefeld/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/herzblut-instruments-vegane-musikinstrumente/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/01/natronfreie-cremedeos-von-sauberkunst/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/02/vegan-fashion-week-in-l-a/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/04/santaverde-aloe-vera-reinigungsemulsion/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/die-gruselserie-ist-wieder-da/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/sommer-mit-santaverde/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/bielefeld/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/08/das-moccaklatsch-in-bielefeld/",
-        "message": "article has an old wordpress gallery"
-      },
-      {
-        "path": "https://cardamonchai.com/2019/07/herzblut-instruments-vegane-musikinstrumente/",
-        "message": "article has an old wordpress gallery"
-      }
-    ],
     "invalidMdx": [
       {
         "path": "https://cardamonchai.com/2010/01/moewen-am-bosporus/",
@@ -2095,11 +1261,11 @@
       },
       {
         "path": "https://cardamonchai.com/2012/07/glastonbury/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (44:23)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (45:23)"
       },
       {
         "path": "https://cardamonchai.com/2012/07/st-ives-aloha-cornwall/",
-        "message": "unknown: Expected corresponding JSX closing tag for <p> (34:68)"
+        "message": "unknown: Expected corresponding JSX closing tag for <p> (35:68)"
       },
       {
         "path": "https://cardamonchai.com/2012/08/immer-aerger-mit-dem-sendemast/",
@@ -2195,7 +1361,7 @@
       },
       {
         "path": "https://cardamonchai.com/2015/10/diy-laessig-fliessendes-minikleid-mit-u-boot-ausschnitt/",
-        "message": "unknown: Unexpected token (117:13)"
+        "message": "unknown: Unexpected token (119:13)"
       },
       {
         "path": "https://cardamonchai.com/2015/12/tierisch-hintergruendig-bilder-von-denise-slapansky/",
@@ -2291,7 +1457,7 @@
       },
       {
         "path": "https://cardamonchai.com/2017/09/ahoi-urlaub-in-sicht/",
-        "message": "unknown: Unterminated JSX contents (101:16)"
+        "message": "unknown: Unterminated JSX contents (103:16)"
       },
       {
         "path": "https://cardamonchai.com/2017/10/moewen-in-dublin/",
@@ -2383,7 +1549,7 @@
       },
       {
         "path": "https://cardamonchai.com/2018/07/make-up-fasten/",
-        "message": "unknown: Unterminated JSX contents (107:16)"
+        "message": "unknown: Unterminated JSX contents (109:16)"
       },
       {
         "path": "https://cardamonchai.com/2018/07/earth-overshoot-day-2018/",
@@ -2447,7 +1613,7 @@
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/",
-        "message": "unknown: Unterminated JSX contents (38:16)"
+        "message": "unknown: Unterminated JSX contents (40:16)"
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-songs-fuer-den-februar/",
@@ -2516,6 +1682,10 @@
       {
         "path": "https://cardamonchai.com/2019/10/tierversuche-in-deutschland/",
         "message": "unknown: Unexpected token, expected \"}\" (15:21)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/10/archive-live-grosse-freiheit-36/",
+        "message": "unknown: Unexpected token (19:29)"
       },
       {
         "path": "https://cardamonchai.com/2019/12/roberts-teehaus-im-test/",
@@ -2539,7 +1709,7 @@
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-gruende-warum-es-ok-ist-an-sich-zu-arbeiten/",
-        "message": "unknown: Unterminated JSX contents (38:16)"
+        "message": "unknown: Unterminated JSX contents (40:16)"
       },
       {
         "path": "https://cardamonchai.com/2019/01/10-songs-fuer-den-februar/",
@@ -2608,6 +1778,10 @@
       {
         "path": "https://cardamonchai.com/2019/10/tierversuche-in-deutschland/",
         "message": "unknown: Unexpected token, expected \"}\" (15:21)"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/10/archive-live-grosse-freiheit-36/",
+        "message": "unknown: Unexpected token (19:29)"
       },
       {
         "path": "https://cardamonchai.com/2019/12/roberts-teehaus-im-test/",
@@ -2666,6 +1840,508 @@
       {
         "path": "https://cardamonchai.com/2018/11/spielt-keine-rolle/",
         "message": "no h2 heading found - no sub title"
+      }
+    ],
+    "outsideImage": [
+      {
+        "path": "https://cardamonchai.com/2011/04/vorstellungsgesprach-mit-hindernissen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/04/auf-der-startseite/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/05/zensus-2011/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/05/die-ultimative-festivalliste-2011/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/06/menschliche-abgrunde/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/07/im-sitting-in-a-bubble-trying-to-get-out/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/07/nach-dem-regen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/08/klarnamen-internet/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/10/umweltschutz-und-preisbewusstsein-zum-weltspartag/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/10/statusnachrichten-und-neugierige-nachbarn-oder-ist-der-schachtelsatz-vom-aussterben-bedroht/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2011/10/herbstgedanken/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/02/wenn-die-holle-zufriert/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/04/schmuckaufbewahrung-selber-basteln/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/04/die-ultimative-festivalliste-2012/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/06/alte-tagebucheintrage-und-urlaub-auf-inseln/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/07/seo/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/07/die-sache-mit-den-bleistiften/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/07/hitzefrei/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/07/schnappschuss/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/08/mark-lenegan-live-freiheiz-munchen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/08/sonnenbad-am-sonnentag/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/08/kernzeitverkuerzung-das-leben-im-sommer/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/08/muse-stellen-neue-single-madness-vor/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/08/immer-aerger-mit-dem-sendemast/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/08/blood-red-shoes-stellen-neues-video-vor/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/08/achtung-verlosungs-update/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/09/konzerte-und-alben/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/09/verlosung-exklusive-cd-t-shirts-und-vinyl-zu-gewinnen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/10/immer-arger-mit-dem-sendemast-2/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/10/videotipps-am-donnerstag/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/12/mosaik/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2012/12/abschied-kurzgeschichte/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/01/melancholie-meets-gerechtes-brett-biffy-clyro-bringen-neues-album-auf-den-markt/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/02/stephane-frederic-hessel-nachruf/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/03/die-ultimative-festivalliste/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/04/der-herbst-im-april-ein-bild-ohne-seerosen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/04/nachruf-deftones-grunder-chi-cheng-ist-tot/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/04/hoch-die-tassen-jubilaum/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/04/amplifier-live-hansa-39-munchen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/05/towel-day/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/05/keine-panik-today-is-international-towel-day/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/05/neues-nine-inch-nails-album-in-kurze-und-queens-of-the-stone-age-schon-auf-dem-weg/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/05/regen-am-freitag/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/06/istanbul-mit-anderen-augen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/06/alles-andere-wirkt-unwichtig-und-banal/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/06/von-ghana-uber-irland-nach-neuseeland/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/06/are-you-ready-boots/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/07/traditioneller-barongtanz-auf-bali/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/08/einmal-im-leben-einen-baum-pflanzen-2-0/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/08/rocknheim-2013/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/musikmagazin-abo-kuendigung/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/mein-pakt-mit-dem-schweinehund/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/der-trick-ist-dich-zu-freuen-dass-du-nicht-mehr-rauchen-musst/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/von-wut-und-stolz/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/die-traurige-geschichte-eines-tapferen-katers/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/die-rehabilitation-eines-tapferen-katers/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/09/der-fall-des-chili-r/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/11/wo-bleibt-eigentlich-der-versprochene-artikel/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/11/7599/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2013/12/armut-ist-immer-noch-weiblich/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/01/mein-jahresruckblick-2013/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/03/valentinstag-in-venedig/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/04/zurueck-in-die-zukunft-fotos-digitalisieren-so-funktionierts/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/04/st-patricks-day-in-london/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/04/jack-white-stellt-neuen-song-vor/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/04/sondermeldung-schnellste-platte-der-welt-veroffentlicht/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/05/fast-ein-bisschen-nostalgie/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/05/tatowierung-vom-meister-und-webdesign-made-by-herzmann-anne/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/05/nine-inch-nails-live-zitadelle-berlin/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/07/my-vegan-diary-mein-veganes-tagebuch/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/07/soja-klimaschutz-oekologischer-fussabdruck/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/08/wiesenhof-hahnchen-mit-tierschutzlogo/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/08/amoa-lebenshof-und-zuhause/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/08/wie-picasso-nur-mit-strom/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/08/blutige-zahlen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/08/der-wichtigste-grund-fur-meine-vegane-ernahrungsweise/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/09/flucht-in-die-flucht/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/09/gemuseauflauf-mit-basilikum-tofu-und-gelber-bete/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/09/sulawesi-on-the-road-and-inside-indonesia/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/11/auf-dem-weg-zur-tiefenentspannung/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/11/liebster-blog-award/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/11/fakepelz-echtpelz/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/02/veganer-sind-unglaublich-kreativ/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/02/blog-relaunch-und-umzug-nach-hamburg/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/02/chiapudding/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2014/11/das-cafe-fabio-in-bochum/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/07/die-vegane-aerztin-dr-barbara-gorissen-im-interview/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/08/green-haven-hamburg-gruenderin-christiane/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/09/bloggerfuerfluechtlinge/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/12/tierpatenschaft-verschenken-und-kochbuch-bekommen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2015/12/planet-backpack-interview/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2016/09/interview-lovely-day-botanicals/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2017/02/klimaschutz-und-vegane-ernaehrung/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2017/08/happybrush-der-ultimative-produkttest/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2017/11/landpatenschaft-erdlingshof/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/01/ashera-yin-yang-balance/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/02/ashera-interview/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/02/es-gibt-eine-gewinnerin/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/02/faire-klamotten/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/03/meine-ultimative-lieblingsplatten-liste/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/03/zahnpasta-von-happybrush/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/04/tee-von-ashera-gut-fuer-die-augen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/08/veganer-bio-glitter-naissance/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/08/batterien-aus-papier/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/08/boldking-im-test-minimalistisch-rasieren-mit-recycling-programm/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/08/rohveganes-herbstmenue/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/09/philosophie/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/09/repair-cafes-reparieren-statt-wegwerfen/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/09/mit-naegelkauen-aufhoeren/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2018/09/neue-kokosmilch-coco-milk-dr-martins/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/07/deutscher-selfpublishing-preis-2019-wir-sind-dabei/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/11/vegane-schoko-walnuss-cookies/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/12/vegan-travel-handbook-der-vegane-lonely-planet/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/02/das-gefuehlsleben-der-tiere-marc-bekoff/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/03/die-hermetiker-unser-roman-ist-jetzt-bestellbar/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/07/deutscher-selfpublishing-preis-2019-wir-sind-dabei/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/11/vegane-schoko-walnuss-cookies/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2019/12/vegan-travel-handbook-der-vegane-lonely-planet/",
+        "message": "article has at least one image from another domain"
+      },
+      {
+        "path": "https://cardamonchai.com/2020/02/das-kraeuterkontor-im-test/",
+        "message": "article has at least one image from another domain"
       }
     ]
   }

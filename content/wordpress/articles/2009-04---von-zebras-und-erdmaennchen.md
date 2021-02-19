@@ -34,6 +34,6 @@ Frühling, Zeit, den Erdmännchen einen Besuch abzustatten.
 
 [Wie ich zu Zoos stehe](/2015/04/wie-ich-zu-zoos-stehe/)
 
-[myflickr tag="zooanne42009"]
+<Gallery name="flickr/zooanne42009" />
 
   

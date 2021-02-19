@@ -24,8 +24,7 @@ date: 2016-05-12T09:17:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "14720"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26936181195_c900928012_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26936181195_c900928012_z__l.jpg
@@ -40,7 +39,7 @@ subTitle: Aus alt mach neu
   title="Mein neuer Turnbeutel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26332007734_abb994932c_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26332007734_abb994932c_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAgH/8QALxAAAgECBQIEAwkAAAAAAAAAAQIDBBEABSExQQYSBxMUYRUjYjJCUVJxgZHB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDBAUG/8QAIREAAQQCAAcAAAAAAAAAAAAAAQACAwQREgUTMUFxkbH/2gAMAwEAAhEDEQA/ADDZlFRUvnzEkKCe0bm3GE3M8zfOeoY/iJAK1jUwMa2OsZEY0+pQtzpried5lFDXRI6vJHCO4hdu6+gP8YBU6vJmr1ESmWPzFlB2DNe/PIOK4laWjXaGbHqfibfDrqirpquheaqm9OpEFVDI5Jhcm2oPG3+vjRSqHiV15F8ZZrE8/MmraWleOocdsy9ylZRtrrofwONBeGueJm2QQU8rMuYUsYSeJ/taGwb3BtuOdMNid2UPidXTEg8LgwyKGeiilq5Kj1VQDMwjksB+UAW4Gn63wZyrpiFYmL1lbyCgcAg/suCdJlrzzwNG10VAnax59v7wc+GTIhmeSMA3GhsTgeWSjittjaBslyLpmET0vklmjV71HnyuxZLbKFIAN7anDp0nBTUOYIlDHHTOAZIyg0B+8p+lhoR7A7gYpw0cnefmINe3e+LlDS+kqTUSThyi2UBbasyjfBCMg5wlWbTJWFu2fa//2Q==" />
 
 **Wie einige unter Euch schon wissen, bin ich ein Fan von Turnbeuteln. Die
 Dinger sehen nicht nur toll aus, sie sind auch noch super praktisch.**
@@ -93,8 +92,9 @@ Wie gefällt Euch mein neuer Turnbeutel? Schön sommerlich, oder? Habt Ihr auch
 schon mal was Tolles auf dem Flohmarkt gefunden? Und wenn ja, was! Erzählt mal,
 ich bin so neugierig!
 
-[gallery columns="2" link="none" size="medium" type="rectangular"
-ids="14721,14723"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26843400652_1256ed5a03_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26843400652_1256ed5a03_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26332008424_4ea0935b6f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26332008424_4ea0935b6f_z__l.jpg"}]}
+/>
 
 <iframe src="https://www.youtube.com/embed/fvIMFC3esDM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

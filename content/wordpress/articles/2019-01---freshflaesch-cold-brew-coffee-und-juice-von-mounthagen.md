@@ -75,7 +75,8 @@ aber was ist das eigentlich **Cold Brew Kaffee** ? Das hört man ja im Moment
 Mounthagen aus der "Frehfläsch""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-mounthagen-cold-brew-kaffee-2__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_2019-01-15-mounthagen-cold-brew-kaffee-2__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACcQAAICAQMDBAIDAAAAAAAAAAECAwQRAAUhBhJBEyIxQhShM1Fh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAQL/xAAnEQABAwMCBAcAAAAAAAAAAAACAQMEABEhE1EFEhWBMWFxkdHh8P/aAAwDAQACEQMRAD8AvbbsMxoVbEIgk9d/TWNmIJPPHx5xxrLtliLcp7NWWjNTswKD2TffnDY4+A3GtsO/SUdwtU50rzV0QWazxz+mVYNgiU88DggDU/o+7ulnb7MlpJZL9SWZ1YLkFSwdWQE47WUr4x7NPzJUZgMZXyz9UUYrbqcraZ3Wpu+bcex8J+tGp3V92zaLrMXQZbuXvGCSe7nHH20ai9XAsiNdrwswWxFV7apodss1Lc5eKrh68zgkBVkHtJA8BlHPjOdL6b3VbXUW8mijmhZiGJ3cKjzDPcsbN8kgk5yf7ODpm22I0hDSHJPyM8adPNUO4JdZrCzpH6ajuV1RfParD25886iRZgEGi+tk3z7W8O9PvRlRzWaS67VG6qMG2bdVWUoss1iSCJP5GDAJwSo5POjWPfZSbn5slx7BjVlihMIjCFgAzj3HLED/AD9aNaaRWrC3cu/ylFFZDlyOyfvWv//Z"
+/>
 
 Es gibt etwas, das sich in unserer heutigen Zeit großer Beliebtheit erfreut:
 Alte Sachen ausgraben, abstauben und einen Trend daraus zaubern. Wir besinnen
@@ -133,7 +134,7 @@ ein Naturprodukt handelt. Der enthaltene Kaffee stammt aus Papua Neuguinea.
 Willst Du die einzige Kaffeeplantage kennenlernen?
 [Dann geht es hier entlang](/2017/09/die-einzige-kaffeeplantage-europas/).
 
-[glry name="20190131mounthagencoldbrewkaffee"]
+<Gallery name="glry20190131mounthagencoldbrewkaffee" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
 Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht

@@ -42,7 +42,7 @@ besten gleich an, damit Ihr in Zukunft nichts mehr verpasst!**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_newsletter-cut-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_newsletter-cut-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAA0DASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQYDBwj/xAArEAACAQMDAgQGAwAAAAAAAAABAgMEBREABhIhMQcTFCIyM0FRUpFicaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAwDAQACEQMRAD8A0j5Bp6iQtPVZcKOMcbMq4z29p6nPX+tSQ0zSqXWV2BJ+YpU/ogarW7eLsVsvt6oamKKMUM7wx5nw0xGfaBx6HHX66ZfDHfqb2NyVKT05ohESfO58ufP+K4+D/dGkGrvCO21l5vVcayuVrpUNNMvKPjk5GACh6dT30xbB2Hbdly3CS1tJmtESyKVRVHl88YCgfmf0NCam7bxguF2QWeOaNah/RSIZMNFyGAwDd8dcj76M7Ir9y1lyvK7goaemoYzF6F0Dh5AQ3PmGY9iFxjGhV0L/2Q==" />
 
 [](https://cardamonchai.us17.list-manage.com/subscribe/post?u=56cabb4dfeee2ca03948f964f&id=3f01062ef5)
 Ihr findet den Anmelde-Button direkt auf der Startseite (rechts unter meinem

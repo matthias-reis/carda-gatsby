@@ -47,7 +47,7 @@ Plattenspielern herum.
   title="Bild: Klicker Pixelio"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_81952_r_k_b_by_klicker_pixelio-de__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_08_81952_r_k_b_by_klicker_pixelio-de__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACkQAAIBAwMDAwQDAAAAAAAAAAECAwQFEQASIQYTMRRBYSMzQpFRYpL/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAIBEAAgEEAwADAAAAAAAAAAAAAQIDAAQRMRIhkWGh4f/aAAwDAQACEQMRAD8AoHTvQdqvCtUWKelmSQr9KvJbs85IBUZIPv4OBj31XJrBbbZcZTNSpPWxM5mpp5e3DGAcEknGBzxycnHBzqWutjunT96qqvphkSknVZfTrMsZUYIbAbjaDj/QGqT1JdoOpLqsw9QZWVYw8m0Hao4zg84/ePnUKz53DclfKn0fBrW38kNvEEaMBlOsb72Dj6ov6x198qhaGeekOOx3QMquAT7DgHPOPGmtJSxQSlYe3UVSjLyN9qH5+dcJpJEp1R02Rw7gD+R3eQPjz+9RjynYY4ywiJztz5P8nVoIUQKtZxLiMymRhnPf4N+91oNL1HV3S3V9NQLI0iU71MisMEgEFiWySR/XxxrP0DoRJGxVhyCPOjRoEEKQlggot5ey3vEynVKqKiSVsMzFAeAx5xpvo0aaFIV//9k=" />
 
 In den 30er- und 40er-Jahren trat Les Paul zusammen mit Musikgrößen wie Bing
 Crosby, Nat King Cole und Frank Sinatra auf. Diese Auftritte machten ihn

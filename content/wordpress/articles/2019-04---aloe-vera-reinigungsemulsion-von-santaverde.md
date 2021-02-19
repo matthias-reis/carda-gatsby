@@ -30,8 +30,7 @@ date: 2019-04-05T09:41:40.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "23901"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde__l.jpg
@@ -63,7 +62,7 @@ anschließende Pflege vorbereitet.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIFCP/EACsQAAIBAwMDAgUFAAAAAAAAAAECAwQFEQASIQYTQTFRIjJCYZEUI0Nicf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQACAxEhEjH/2gAMAwEAAhEDEQA/AK3o6VUFI0qDsVD9tWLADOcY+2TxqyJel5n6bNPPtFXSq1SYlPcMiopIVscDIyfPppcsVDFPbZ2pa6uSESKrRERckjOQuxuMDk5/OnroK7ClrKe23DMkayftt8zFDwysQB4PsODolUXstpkO0wSy0lPFTVsFug2bDOyK80zHPEaNwBzjcQc84GOdT7R0xUTGtqGu94jWM9pXEkXxH1P8eMemo9AYrdcbrYpKWnE0FR2A5QEogPzk+dw2kH7nTfbJorPFJAGZrWZXgIPL0xzlSD6lD7fT/npXA+iTsTm7p+8rTTvVUbO61EZildWxtH90+hvZl+E58a3nTVpp6Hu1UdXN33nzC8nOeAXBH4GdGjQ6mlIp5UI5dTSdu40N32VCXGdC8rR/LLEiqpj2n6sDeMjnGPOsF6jU/qkrqtB3pBKZwhw4I4wBnafPto0aZh5bcNf5P//Z" />
 
 Genauso toll klappt das übrigens auch mit dem
 [Pure Puryfying Cleanser](/2019/02/santaverde-pure/) für unreine Haut. Doch
@@ -119,7 +118,7 @@ Inhaltsstoffe sowie den Verzicht auf Tierversuche Sicherheit.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHAv/EACsQAAICAQMDAgUFAQAAAAAAAAECAwQRAAUhBhJBMVEHIiMygRMzQlJhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAgEQACAQQBBQAAAAAAAAAAAAABAgADERIhBCIyUWHw/9oADAMBAAIRAxEAPwDMaNmGnSapYdpsdk0aRKS8ZHcCH4wv3A5zq3fDzYa3Ve/SDdY2kpxKzrXj4XvBC/OfP/ceBqryUn6V3YCtI6xX4CXRmLKYBKmRn19PUH+o1tPwer1Ktzfb7P2fVMjKuO1VIyO4+PJ/GuRVycBpIL1WMX4iUdpgCV3ioR2IkDiWWONZF9lQ4zjycf5rKerr1a/HDV2uGaWVFZTKq/ug4+VQOSMjPPtqQs7zX37qHc93lTNq3IDEh5kMH2xdo8KwGfznTCLcJYHc7FDaFqGMLIiRMw72yzryvAUYU+meSM6PVyJEM5bQE5sbhT3LrLp+leMclVZHRkZR9pQg8/62PyB7anbslrbZL/1EFSxV/RmMWAJSvKMF8NwQeMZJ99GjRu0n3KVAL/eJXdm3J592NzcQxnaY2ZY2AVn7cLEmMAKC2AAMABfGnG2W+ohRevWu06sAlkexOAJmmlc5Z+7+RGQOMAADRo0463cmYUbM/9k=" />
 
 ## Die Wirkungsweise der Aloe Vera Reinigungsemulsion
 
@@ -146,8 +145,9 @@ Wer gerne auch mal ein paar Produkte aus dem Hause Santaverde ausprobieren
 möchte,
 [findet hier eine Liste der Bezugsquellen](http://www.santaverde.de/bezugsquellen).
 
-[gallery type="rectangular" link="none" size="large" ids="23899,23897"
-orderby="rand"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_04_2019-04-05-santaverde-3__l.jpg"}]}
+/>
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

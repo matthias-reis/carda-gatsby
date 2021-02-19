@@ -33,6 +33,6 @@ subTitle: Hach Hamburg ♥
   
 ---
 
-[myflickr tag="annelandungsbruecken122015"]
+<Gallery name="flickr/annelandungsbruecken122015" />
 
   

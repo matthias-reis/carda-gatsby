@@ -53,7 +53,7 @@ Aussichtsplatz mit atemberaubendem Blick über die Clifden Bay und die Inseln
 Inishturk und Turbot. Mir sind dort ein paar Wolkenfotos gelungen, die ich Euch
 gerne zeigen möchte.
 
-[myflickr tag="anneskylooproadlove2017"]
+<Gallery name="flickr/anneskylooproadlove2017" />
 
 ## Wegweiser Irland 2017
 

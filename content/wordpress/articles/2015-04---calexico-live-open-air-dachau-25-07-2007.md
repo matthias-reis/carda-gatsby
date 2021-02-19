@@ -32,7 +32,7 @@ Dachau. Das Konzert wird mir immer in Erinnerung bleiben. Damals war es mit
 meinem digitalen Fotoequipment noch nicht so weit her, als verzeiht mir bitte
 die Bildqualität.
 
-[myflickr tag="calexicodachau2008"]
+<Gallery name="flickr/calexicodachau2008" />
 
 ## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 

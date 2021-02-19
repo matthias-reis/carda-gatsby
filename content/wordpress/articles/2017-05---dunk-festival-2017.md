@@ -98,7 +98,7 @@ Inzwischen steht natürlich auch das komplett Lineup fest, beeindruckend, oder?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_17966573_10154140072511887_6065221029203399504_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_17966573_10154140072511887_6065221029203399504_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwEDBP/EAC0QAAIBAwMCBQEJAAAAAAAAAAECAwAEEQUSIQYxExQiQVFhBxUyM0JicYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARAv/aAAwDAQACEQMRAD8An/UN3Dptk19cXdxbwxrjw7dVJY988j4/wUk0nqW11KaAW17fR+KR+eUU+3OCO1NuorSCdbZr5Vks0WVpI95DsdowEXsxIz+I4/kkVT3SuoQWX3nZnTIrhtQZfLyEbpIxkFVAJAA/VwCfasoyZX3YrLCh8a4ecthg0hGcfTAxRS77PNQbUtKjh1Bit1HBHIYmjKlFYfJ+vGP2minl02kxtvU9jFqmhXVo4YeMBGGXb6Cc+r1cEcdqgTdABNTt7xL6TNvIrJFsAJdVAyx3cAnnjkYqz4+LedVZVLbcFj8ZrAlBKqHy3YjcSf7Oamrg6Z0zyCXDFhiYIQcnPG7PBJ9z80U3l9RTDLwijv2wKKYv/9k=" />
 
 Drei Tage Post-Rock pur stehen uns bevor und ich bin gespannt wie zwei
 Regenschirme.
@@ -119,7 +119,7 @@ Viel Spaß, rock on und bis bald! &lt;3
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_18556485_10154236337136887_6452039886214141882_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgT/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAEiEGMUETFCJRB2FxsdH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAgMF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAEQMSMbEEIUFRcf/aAAwDAQACEQMRAD8AqV3rVihMiemyq6OGd9qEZxy3jg6mkHUNZbaoUdPdqyaOmcpF7mjEyEKCOGUk4x/HGtHc+qrNR18VrmpGlpc+3d1jHpxMI0cR4J+R+a5xwM9/Gk9qvnT9zvUMVp6fnmhMU0izJABvOBgKM4LNtYLkjJ47c6IuDKGJsVFJnVRVcTIfkHqGulr1hhmKS+kjOY0aMbmyzDDDIHI7/WnH4muDSUVZ7t9wVWMIfcXkfOSRxjAGe/2POlt7aK7UVorq2hhFZIJ45JguwVARwobBJwR2OCRlTgkaXW+xXNqQRQVWyk4J2blBxnvj9nUX04x3q94VyNRI+yi3+O21FBHdJI3kZqWKKVYookeXgAZlZS2B9D/NLbx1nc1hoo7e9BTxypIskaAzOoGMb9wAyeTnHnRo0Veryud/fEYuJaBieuqqmWOJamQOsEYWAfFQi+QqqAFH6Guu13SdMLj1adjypGQT/Y0aNVFiRq8zMclchqf/2Q==" />
 
 Das DUNK!festival findet Ihr [hier](https://www.dunkfestival.be/).
 

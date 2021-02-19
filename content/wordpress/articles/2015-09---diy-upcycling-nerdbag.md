@@ -30,8 +30,7 @@ date: 2015-09-24T12:55:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "12840"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-24-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-24-2__l.jpg
@@ -46,7 +45,7 @@ subTitle: Aus T-Shirt mach Tasche Teil 1
   title="Mein DIY Upcycling Nerdbag"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-26__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-26__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALBAAAQMCBAUDBAMAAAAAAAAAAQIDBAURAAYSIRMiMUFRBzJhIyRC4XGBof/EABcBAAMBAAAAAAAAAAAAAAAAAAECBQP/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADMVHxEUH/2gAMAwEAAhEDEQA/AKBnRlcx+bwQ+qLxrghPKp2wSpNxvt1/vD30nahTn5LbpDS9OiWpxIsSlCtyfxPLf5sfGJeZMroeo0dqRMEhp59Utb0cEn2AWGod1Dx3xE9IFU+kZvrEJc5jStSGI6SoK4iuY2vbTcA2/nYYnVkMpGpVtUoQR9lxkZcoz5bU1UnUtFAUj7a+pJ79emxwYd5jjNy3mtbQukEXQVJv066SPGDBBaZECYbnLMZW4zTYsh5ptLTTLyUqsDYFdvO+q21sc8mT2ZM2jokSm0vmahsREx+UptcLJ9uxtYW6jFOqLRdr1WdS4OHG+sokHe5SAkfN1f5h1kulPOSYlWddabgxntYOrncKOwA6C/c4dkRac+chV3a3fZvzdZTUEblIlNHQ+gdleR8HqP1gxnVPqDSnZUx4cQvL0AnfZP7UcGErQlQTmGxgHIXE/9k=" />
 
 **Habt Ihr auch so viele T-Shirts zu Hause rumliegen, die Ihr nicht mehr
 anzieht, weil sie nicht mehr so schön aussehen? Ihr wollt Euch aber aufgrund des
@@ -79,7 +78,9 @@ einfach nach der verlängerten Linie, die sich aus der Weiterführung der
 Ärmelöffnungen ergibt. Schneidet unterhalb der Achseln und knapp unter dem
 Kragen entlang. Den Saum müsst Ihr nicht abschneiden.
 
-[gallery type="columns" link="none" size="large" ids="12811,12812,12813"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-5__l.jpg"}]}
+/>
 
 Lasst die beiden Stofflagen am besten einfach zusammengesteckt und kommt zum
 nächsten Schritt: Mit der Nähmaschine umsäumt Ihr im mittleren Zickzack-Stich
@@ -88,7 +89,9 @@ zusammennäht. Dann näht Ihr in einem feinen Steppstich die Vorder- und die
 Rückseite Eures Upcycling Nerdbags zusammen. Die Oberkante lasst Ihr natürlich
 offen.
 
-[gallery type="columns" link="none" size="large" ids="12814,12816"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-9__l.jpg"}]}
+/>
 
 Bügelt jetzt die offene Seite ca. 1 cm nach innen um, ca. 14 cm vom Rand
 entfernt (Je nach Größe des T-Shirts) steckt Ihr die Taschenträger gleich mit
@@ -96,13 +99,16 @@ fest. Dabei verfahrt Ihr folgendermaßen: Legt die Träger nach dem Umbügeln
 direkt unter den Rand, so dass sie nach unten zeigen. Dann faltet Ihr sie nach
 oben und steckt sie zusammen mit dem Rand fest.
 
-[gallery type="columns" link="none" size="large"
-ids="12815,12818,12819,12817,12820,12821"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-12__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-12__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-14__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-14__l.jpg"}]}
+/>
 
 Mit der Nähmaschine näht Ihr jetzt zweimal um die Taschenöffnung, nehmt wieder
 den kleinen Steppstich. Im Anschluss sollte das Ganze dann so aussehen:
 
-[gallery type="columns" link="none" ids="12822"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-15__l.jpg"}]}
+/>
 
 Jetzt habt Ihr es geschafft. Dreht die Tasche auf rechts und ab damit zum
 Shoppen auf den Flohmarkt, in den Comicbuchladen, zum Elektrohändler Eures
@@ -110,7 +116,9 @@ Vertrauens, oder wo Ihr Euren Nerdstuff sonst noch so herbekommt.
 
 Viel Spaß beim Nähen und Shoppen!
 
-[gallery type="columns" link="none" size="large" ids="12825,12824"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-24__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-24__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Nerdbag-17__l.jpg"}]}
+/>
 
 Wie Ihr aus Eurem alten Jeansrock ein echtes Unikat macht, könnt Ihr
 [hier nachlesen](/2015/08/diy-upcycling-jeansrock/).

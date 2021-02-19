@@ -47,6 +47,6 @@ Wetter, welches uns die ganze Zeit begleitet hatte, überwogen jedoch.
 
 ### Wenn in Ängelholm die Sonne in der Ostsee versinkt...
 
-[myflickr tag="20180629anneaengelholm"]
+<Gallery name="flickr/20180629anneaengelholm" />
 
   

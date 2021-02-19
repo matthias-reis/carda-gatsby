@@ -42,7 +42,7 @@ Hafengeburtstag eröffnet und wir waren natürlich dabei.
 Das wunderschönste Sommerwetter beglückte uns den ganzen Tag, am Abend hatten
 wir sogar ein Bisschen Sonnenfarbe bekommen. :-)
 
-[myflickr tag="anne827hafengeburtstag"]
+<Gallery name="flickr/anne827hafengeburtstag" />
 
 <blockquote>
 ## Ein Hotdog unten am Hafen (Element of Crime)

@@ -57,7 +57,7 @@ uneingeschränkte Verzehrempfehlungen für verschiedene Fischarten gegeben.
   title="Fischmarkt in Sri Lanka"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_sri-lanka_16076408329_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_sri-lanka_16076408329_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKxAAAgECBQMCBgMAAAAAAAAAAQIDBBEABRIhMQYTUSJBFBUjMjRxUpGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB0RAQACAQUBAAAAAAAAAAAAAAEAAhMRITEyoVH/2gAMAwEAAhEDEQA/AFGQUEXYHfRnK/U7rncg+1uD/WK+OmhkeGOOmT0giOeJkdSf4kW/zCvp2l6cZFSorUjq0BawqnBBtYk72x3ybJ8ryf8AM6iy7MaNToRamiBkW52PdRr3F+bYhy6/ZoYkmyry4zJIElQxSRi96eM7cEDxtwR5xG5t05FE0umoYOLkqBYhb2G5+43222xeV2X5ZLLKwzqJWAuUjANgbFgVLEHUABuPfC7N63Jws5p8spZdKDaFQVI41WBAHPPP7wQrwPsFA5TyeT9O1cxkmVZGRUKMAptYlrX/AHip+fVUshHbgSOK9MpRTrGi51BiTzvyDzgwYpp1kt+011mYyxxssUcMfcZdTKlmuSyjfx6b2Pk8XwozqOplo6hvjHYU6t6JVDq5bS1yNrWvtbBgw+obxFl2n//Z" />
 
 Die Liste ist inzwischen eingeteilt in "Wenn Fisch, dann diesen" und "Finger
 weg, nicht nachhaltig". Noch vor ein paar Jahren waren es die Kategorien "Noch
@@ -106,7 +106,7 @@ Fische auf der roten Liste.
   title="Fisch im Aquarium"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_botanischer-garten-augsburg_16652571941_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_botanischer-garten-augsburg_16652571941_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAP/xAAqEAACAAQFAwQCAwAAAAAAAAABAgMEBREABhIhMQcTQVFSYYEUIjKRov/EABUBAQEAAAAAAAAAAAAAAAAAAAUE/8QAJhEAAgIBAgMJAAAAAAAAAAAAAQIDEQAhQQRR8BITIjFxgaGx8f/aAAwDAQACEQMRAD8Aj0CSUAuzgEDbjFr6A5kjSkUUKSp0AvMzQiTE13NLmHptx5C2/wBYkcBAV24HPnBvJNTekZvpEyoGhZlCbckE2N/73xNw0gL03XL5ymqIrHHrv0uTL0CNWKTc014oYrEe7QnYkEfIJsRiATcMq+/Axt/N05LZmyLNwCVmILwtbLyX0tc2+djbGPsyUuLSpmZl4xDdpymryRfY/YGE53klIdx4gNefqfr2wmMokjRqd7/Ot8LyEeG6sbHR7htc4LZcqFOkZ3RVpZYkBzeFGVSXl39w9QfI+NsIdMn9EZUOygb3wRiTqa1DOpBBIAPBwKvbie18xibEMNc0HkytSMhlIJGjpMsWYJGD2DINl/W/I3H1iD9SJ9ZuvRzCCrBsDZfLeb+uOtLzN+JAeW7kNJd9zqS4+R94VK/UlmpthCt2B/BAeL7k/eLXdpJO+vUiiMJj4do5jY02PW+f/9k=" />
 
 In Zusammenarbeit mit Wissenschaftler⋆innen hat Greenpeace eine Methode
 entwickelt, bei der unter bestimmten Kriterien Wildfischerei und Fischzucht in
@@ -162,7 +162,7 @@ WWF sogar Fischrezepte zu finden sind.
   title="Fisch im Aquarium"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-2014-07-05-1728jpg_14605512845_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_sealife-munchen-aquarium-2014-07-05-1728jpg_14605512845_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYE/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURACExBhJBBxMiURQkMkJisf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EAB0RAAIDAAIDAAAAAAAAAAAAAAECAAMRBBIhIzH/2gAMAwEAAhEDEQA/AKXpuCa919tgM0p+CQySyqe2NvPA/aNt9aG/3GDpT26eq/UVSrhIIN8jjuJ/iufPJ8DWit3UnRHRvQtZJbK6kqrtAHjhjkCtI8xYqhzgAjhic8Z0gp75UXG4TVlbKTVVJLzVLfN3Od+0Y+I2A/zA1FeEYfkDTwWtsNtpl1dOo62tkRZKgwLTOyrFTuVUEg5wdiWHljnHGqGs6ju1PcQUu0rIMKTMxKso+8Dfjkb8c6nVt7lKjyyRQh5wkbuFWEE437j53BJ+uQdN6D0ek6buNLVX6upbvbhE35UE6nEzlDkK4yyAHdTjORvzpat2PrHmOsrRRjCLf0/slN1a60VQ8tKGhBLRdpDfeQwP1tgjGmRYvTfp6nrTHWJWV3ssylZZQqNufCqD4+9GjRMBfDLLFQAJvJZo6Gge2UNHR01vhUusEUQCnA3yDnc4551y1V9qoYqn3u2ZA7QEMTlsAb5z/b60aNP4xw5MXE//2Q==" />
 
 Was die Zucht bringt, kann man am Beispiel Shrimpszucht sehr plastisch belegen.
 Ganze Landstriche sind durch sogenannte Shrimpsfarmen unbewohnbar geworden. Den
@@ -211,7 +211,7 @@ Kulke rät jedoch zu veganen Alternativen.
   title="Barsche im Roten Meer"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2018-11-00-aegypten-unterwasserwelt-106__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_2018-11-00-aegypten-unterwasserwelt-106__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAP/xAAnEAACAQMCBgEFAAAAAAAAAAABAhEAAwUEIRITMUFRYTIiobHB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMGAAIE/8QAHhEAAgMAAgMBAAAAAAAAAAAAAQMAAhEEMSEiUfD/2gAMAwEAAhEDEQA/AI7H6IBUVEcliAACGk/mqFsZeRLL3bfKVlMcxOHigkSAfcis+ORFVCpAIMgkd6ZX3TIa662ovhtW6lrj92k/Jv5HamwJOA5EpjajQSf33Zj1GkHKAYWzt1QRI87VPZLTtZsXEtMWU9FIAg1ZhLFvT8CGd5J3E+T63pBlrCuDwm2Cd/q71GLGdTGm/t34ijF5Mi0nGwZ43J2ptbyk7h4kRsY28UUUdBIqBD8qosSZzvZOB8vvSfJ5MNbjpAjr7J/dFFDfYynGXXZ//9k=" />
 
 > "Im Fisch stecken zahlreiche Schadstoffe. Sie sind deshalb so gefährlich, weil
 > sie nicht oder nur sehr langsam abgebaut werden können. Sie reichern sich im
@@ -244,7 +244,7 @@ Milieu der Fischhändler, ist sehr gut recherchiert und öffnet einem die Augen.
   title="Bild: Roth Cartoons"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_fischratgeber-roth-cartoons__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_fischratgeber-roth-cartoons__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYCBAUI/8QALBAAAgEDAwEHAwUAAAAAAAAAAQIDBAURABIhMQYTFCJBYXFRcrIVMjQ2sf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6Vr/ANXlqjFQeEp6cKCaiYGRifoEGOn1J1nSw3yllkQVddXKYDh44qePa+eMZxk/Ix099Mj7tp2Y3ememl269pIbPc46evhkjWZFKydULZI2g4wDgZwcZ9M4OIJ7O0dKO+WejuCYBNM8XcSD64cMy5+Rj31egqZrlZnk8JUUk0iMvczgK6t09Dj4OpwXainieWOdO4Rd7yk4RR7k8DVG2317pcnp6SmZYYxueWTKlVONvlxkFuSFPO3DeoGqB3BqikuCQQdooYampLvDS10aOG5HlQKUYgfJPPtoL3dwMy3mwBAQ5YAsTHzzjf1yBznHB0wT/uj+4f7pEsv9qpvsP5vqC1Wrba8QSV3atJREVcgGNRu6AovTPDEZDEE8EEDTC58BR0qWulCNUzqDlMhc+Z3fkc4B5z1I0Ds1/FpfiT8hrdProP/Z" />
 
 Der Roman von Tom Hillenbrand ist nicht nur die Geschichte eines Luxemburger
 Kochs mit einer Ader für Detektivarbeit, er zeigt auch die dunkle Seite des

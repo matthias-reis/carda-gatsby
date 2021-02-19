@@ -28,7 +28,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (53:20)"
 thumbnailId: "14253"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__m.jpg
@@ -47,7 +46,7 @@ subTitle: Poesie der Vernetzung
   title="Flarf regt die Phantasie an"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_16277877741_01b8d8a4b5_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAEBQb/xAAoEAABBAECBAYDAAAAAAAAAAABAgMEEQUAIQYSEzEHMkFRUmEicYH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEBf/EABgRAQEBAQEAAAAAAAAAAAAAAAECABEx/9oADAMBAAIRAxEAPwAfjOrdUpTigEK2cUd7v30t8C4mG9gnltw3sqplT3RbHIhDQDIWoJ591kg3W9UPfRBFYktECqqlJT9aUfDOY1FyzrraktrLDgWX3OVsD8VLofMpSQK7mgbGuXHZrjgB3m9pm8A3k8JGiTok1bjTKZTcpxgq6nMLS300HzJuhVAmrq60SeIWFf4adbpRchyE2y4FCyQLUmib2tJuq3ruDpuyOUxsuDOcfnmZgoJjuRxGfBJbCAUqdsEmgkjY3fpe4O/EiJFjYDEORCl9t1an3VBlQa6q0gq5Fq72KJH6/uipHNg9xTj2XsjN5FSCjptKcBKb8ouu41pzGRei44Fve6RR7WfU++rVqpiVFxk3Q4Wzc7GJWuM4jnCVAqKAfMmiRewNE0e4vbWHIZWTlpKFSV7FBCU/FIJofdXsT6UOw1atGF5ob//Z" />
 
 **Flarf - Kennt Ihr das? Nein, das ist kein Wort, das ich mir eben ausgedacht
 habe und es stammt auch nicht aus der Villa Kunterbunt.**
@@ -71,7 +70,7 @@ oder ein neues Kapitel verfassen und was lässt leider mal wieder zu wünschen
   title="Ein Gedicht über Wasser und Frühling"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11153925974_fe91f672d3_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQcG/8QAJxAAAQMEAQMDBQAAAAAAAAAAAQIDBAAFBhEhEjFhExRRFSJBgbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwCgzvDUzZZj22I20pa9ApHB5rTLBiVttmJQIk5lL64jaUtqWN9JH51+zVUcqjR1JQFQklKtqSiMHFE+VrPAozK+PT8Surjqm48dcN37m1aU0Cg8jQ5NHTkPqtMBt919tvpLp2oDtvxSsmDFbbUUgEfB71zcXK/bQGEfTPU00jRMpA2Okc7qtumeoQyS5aCB4mNn+c0ytjL8iyaXLfeHQ22nZ4QPNLsZbdG4KYPq7YVsHffWjxRRVJRNxfdSSVqGgOxpORIWvlZUrfyaKKkv/9k=" />
 
 Flarf ist eine tolle Möglichkeit, die Kreativität zu stimulieren, die Phantasie
 anzuregen und die Tastatur wieder in Schwung zu bringen. Und nicht nur als Übung
@@ -105,7 +104,9 @@ Mit den Altlasten des Winters aufräumen
 
 Mountain Mist</blockquote>
 
-[gallery type="rectangular" size="large" ids="14252,14251,14250"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__l.jpg"}]}
+/>
 
 Ein weiteres Gedicht aus meiner Feder
 [findet Ihr hier](/2011/09/heimweggedanken/). Es ist kein Flarf-Gedicht, aber

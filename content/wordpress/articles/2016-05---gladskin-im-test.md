@@ -34,7 +34,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (104:32)"
 thumbnailId: "14915"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_27361046801_01f643209d_z__m.jpg
@@ -53,7 +52,7 @@ subTitle: Vegane Pflege bei Rosacea
   title="Gladskin im Test"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398831986_8557c0a6c2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398831986_8557c0a6c2_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYABf/EACkQAAIBAgQEBgMAAAAAAAAAAAECAwARBAUSITEyQVEGExRhkaEHIoH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABAv/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEDcf/aAAwDAQACEQMRAD8AGsvgw+lXxE0cBJKrr2HzVEuUyqhCxo9lH7BG27H7qXkVJMMoZbssgYBeC9e/e1Lng4Lj8phVWmd9Ii3bTc6e+1rW2NLMTWjzp0cNJEU+WyBSDGWBvcMjAW3O32a4uY4Ykamdb24CxHGmZ8vXy1OicgBioEljpB3HPzC5+akM5yKONHIUWAB4rYX5d9XKeF+hqTKTB13phXLO9kG1gQNutxTF+JZTJlHksAUxDksDuNK9AOhJsb+1q1ai0skFayl4I02Xu2L8kyQBixGsYdedL2e383FRviiL08WFkURH1ELThTEtkJFiPcHjatWrBSP/2Q==" />
 
 _Werbung\*_
 
@@ -109,7 +108,7 @@ und das kann ziemlich nervig sein.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-23-um-18.20.36.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_Bildschirmfoto-2016-05-23-um-18.20.36.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEQUlEQVRIx7VVWW7jVhDUlQIMcoh85CM3yAHym98cIDeaYDCA41gLxV3cN4mUSFmSrdXaxUq9Jy+DGQNBgITAk7h2V1VX92vs9kegBvb7LRarJeRRX3A+n3G5XNfxdMLx+LKOz+v5ms9Op/O/XtfvTmjMFwv8/tuv+OXnn/DnzQ26zgwtLYXmlPh4G2J/wv9yXAle0DiQ+XcfvsePP3zAZT3A/cMTsv4A/X6OMM4wHFUYFCMsFktU4wnipI9BPsSjuL6fYrlay4Ai2Muq61quL+99vcRzcTQWizn++HyL1cLjZfUu2vqLcyHbpf7vlGiIn4fJDFHYJ+sKXUWF2dVhaTqmZOz2HKRZH2kYQVd0xGGC4aAPvaMgilLkec57EQIvROz7CIIIJVULvQCGZiJwA7h2D1pXlbGaN7dwrB5U1bgCOOz36Jk2QhHED+SyDFMC8BmkGhZI00x+ZPG9nu0gS1L4rgONCaIgQD+Oed+F03OZyEBIEI5pQVU02KqJTx8/oSzHzwoeIdQ/ny9XAPvdDq2/mrB1Ez0mCf0QmqrBd1yZ0Hc9yWJEVq5lQac6uqozSSgZCbBxFEPXDIKwJdCUADWlA8OwELo+OncdjKsSj7MHLOZrTO8rTKezK4Dj4QCdyU0mjcjY5EdaV0OW9uGRUbul4O7mDvf3E5R5wYABlI5GoAGmkwkSJk/jBD6Bx4EPzw3RzwreDzEqhiyNR5UilsSBSVVDPyV4H1V59VvjTEnCMJYAMro+EkGklKZUYTIes0SUX7eRkLVgL8AZBBlHCcuRIHB6aLU6GA0rmaTTakNtK1Qil+C8ng+VnnGomNbpsqNWbybcPm1oLk3K6zo0kR8TfcS6pyyBhSHbMRVJaLKEpiure/luEmVkmqHJ8pXDkmDJqqqk2ULPpaEJUoBmLMeyeW7BJhG92yUZA0q7K1uxcToeoNDdeZZgwB53HE8yNkVZNI2SRgzuEKRCY2r0CYOzK3QyjYTsNK/JgJ5DMxJ0JA1Io7IMOa/DMGVSDWqzI2fLN224223pAUPK7jH5fL7EAw0S0A+2YUhFxPBJ+yllVyl5Jk0XkZlN42lKVxoqZhkDGs6mKX3+x/G1PAkBuixlzPIJRUWHGCT3CkB0Qfu2iW5bkwxyShd4vmw3l65WOypnRMKeVqXj3Z6HFt+PGFjU1CZ4ncBE++WDnKbtyBY2CC6hQjbbs9VsYzZ9wGa9wWbzhBm74U2B7VbKNubQ2axXmNHtBd1esp6r5RLj0QhL/pecB4vHufy44KgW5wVHdMGkCdmKLjlzxIp7Iw4n4fLlfM44Ewz4vti4vpmwwgNvY7XG4XB8ndEvx573xLP6+YOaO+Wlrt/ZXK475T9tQC/rZT9obHd7FGyfLIlhmCbZxMiL4jq1+GKUDDAsco7YAInoBrapTb/MyU4cy+UaE3rAsS16JX1l9vWmVNfvbyB/A7Q/X1W+yu2pAAAAAElFTkSuQmCC" />
 
 ## Beim Hautarzt werden keine Tests gemacht
 
@@ -119,7 +118,7 @@ und das kann ziemlich nervig sein.
   title="Post von Gladskin"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398828946_0dbf772469_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398828946_0dbf772469_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAUI/8QAKxAAAgEDAwEFCQAAAAAAAAAAAQIDAAQRBRIhBhMxUZGhFBUiI2FiccHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMFAQL/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDESExEv/aAAwDAQACEQMRAD8Ahek6WszKNjNzjA5pmg0eKPhoHUkZG5CKxaDIXuLRYfhk7ZNu3gglgOPOrbpmlpYIzXV7YAsQd8jh8DB4yanS2XpZ+lXiSJPe9JyjT1uxCohc4QqwJPl+/A0marpLxMw7JTjggcEV6G6hu7OW22Q38TAZDdghYMPAkfWo31QUhvp4tyMQM4DDvPiP7XUdQtzU3jF7SdQmt5UkiCblI2hs4BPGeCD600e+r9WT5kMWcY9nt0Q8/cQzetFFbN48QyqKljZjv7uSdiZ2knbOSZpGkyfwTiuBfTEAKgCLjOFAHfRRRX30LnnEf//Z" />
 
 Rosacea scheint auch unter Ärzten wenig interessant zu sein oder einfach noch
 nicht wirklich erforscht. Es werden keine Tests gemacht (Es ist zwar ein
@@ -292,7 +291,7 @@ Steffi O.
   title="Hautgel von Gladskin"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398849606_28a591e01c_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27398849606_28a591e01c_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUHBAYI/8QAKxAAAgECBQMDAwUAAAAAAAAAAQIDBBEABQYSIQcTMUFRYRQiMnGRobHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMGAf/EACMRAAICAQIGAwAAAAAAAAAAAAECAAMxESEEEiNBUWFxodH/2gAMAwEAAhEDEQA/AJVQZeGuzKRGBcAqSfPON11Xp3LKely6LLkqYJZUtKaiPYrkC+8Hm36fzjG0jSNVZzlkbtJHFNPDArFQw2mQcevz7HFd6xwy1On6OdZ6aRoatkKwrcFXU28ng/Z5xNM7NqQcSx6dbLWRn3j52nNlRlZcq0dwp8XucGHWdxQU0yLEvdVuQSlmA44Pzgw1LmI1gtwrEkpiM9J1c65pl01PAJWpqiKVIg9tz9wWG4+L8fucU3qBXZ1LpiRK/TdJldKKqJ+6tYJDvuQBtX33HnEX0XWiHUGUqHF/rIC9jcEiRT5va+L51JrRL01zaXvr3FmiK8WttlQk8enOMasqSvmJssBZGHb9kKlqqXeZKnujf+JLcsB6n/f3gwhqqx945CqBtUICLgG1z5wYYKNodl3MxOv3P//Z" />
 
 Zwei Tage später finde ich einen Umschlag mit dem Gladskin Logo im Briefkasten.
 Neugierig öffne ich ihn sofort. Wie versprochen, liegen zwei Produkte von
@@ -328,7 +327,7 @@ und abends.
   title="Creme von Gladskin"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27156272160_92737b61ef_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27156272160_92737b61ef_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAGCAX/xAAoEAABAwMDAgYDAAAAAAAAAAABAgMRAAQFBhIxIWEHExQiUaFBUrH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBgABAgP/xAAgEQACAgICAgMAAAAAAAAAAAABAgADEfAhMRITQWGB/9oADAMBAAIRAxEAPwAnxWM3oC1kQDHX+TSb4Y6Rtc3qQt3loLi1Yt1OvpXEFR9qE/YPz0o/xCmyEJG0gCTuiZ+O9dLeGCHLPR2FTbt27YeSXnwokK9y+hAHJgDntS6xLPzGywrVTlRyd38g1rjDYtjUN1aYa3DFpaKLalrWV+Y4AN8TMAcDuDRrlbFITKkFSDJgj7pB1Y40M3llNFsH1j6QkRCYdVEisfmnkqDpSUKbgAKSOnQRz3qUs3nOtta+oE94+9+Z5OPvXWiANp2A8jmRNdP6VvSnF4pvYIQwykcfqntVVRFygHiAsc1rmBOp8i8nKXnUkqu7hfU8HzVVjMhercJSUgAgDn8RNVVbpRe5bOzIM73P/9k=" />
 
 Am Morgen spannt meine Haut etwas. In der Nacht habe ich kein unangenehmes
 Brennen gespürt, wie sonst bei einem Schub mit anderen Pflegeprodukten. Die
@@ -368,7 +367,7 @@ Gel ohne die Creme auf. Jetzt wieder drei Mal täglich.
   title="Hilft bei Rosacea"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27432883125_04f4ae759f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27432883125_04f4ae759f_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACsQAAIBAgUCBQQDAAAAAAAAAAECAwQRAAUSITEGQQcTFFFhFiNxobHB4f/EABkBAAIDAQAAAAAAAAAAAAAAAAADAQQFBv/EAB0RAAIDAAIDAAAAAAAAAAAAAAECAAMREvATMUH/2gAMAwEAAhEDEQA/AIvl1DrkUBTpFgCO1/f94fuhukGzvMfTvRSNAm0zxqLIDcjnt7YWcu+3JFGjkO6b6QLbjtzh86JyuvrEqWpaYzUetVJkqvLjLAc8jex+cYbOdnW1UowwsBo99yY3XHScmRVr08kEqQuxMUrqAHTuR+L74QsxysQAlo31c2I5vbce3P8AGKn1rRV9DU0SVkfp6dld44/OMsTkWvp3PxfjCFnNSDVPM45A1KF0n/Tv+8CO3KF1CBSoIbPo6Zh0VTIsivGdLkixH4OLl4RZg/0+zSIju073Yj2sP6wYMNsA2VHJ45MvxnzSZJsq8pUQsJb2HwBxiSVrPJTGcud7C3e3A3+LDtgwYlBmRlajxgz/2Q==" />
 
 Die letzten fünf Tage habe ich das Gel ohne die Creme aufgetragen. Es sind
 einige Pickel dazu gekommen, allerdings vermute ich, dass die definitiv dem
@@ -402,7 +401,7 @@ steht
   title="Bei mir hat es geholfen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27156283280_004ef42a46_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_27156283280_004ef42a46_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcI/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDAAQRBSFBBhIxBxNRgSJhcaHw/8QAGgEAAQUBAAAAAAAAAAAAAAAAAwABAgQFBv/EAB8RAAICAgEFAAAAAAAAAAAAAAECABEDMfEEEhNhkf/aAAwDAQACEQMRAD8Azqy0nvKm4yE+W2AyDx9CmHqLpCXRkga8Mckcye4GRgSy5G2wGCM/3UemZGsNUtJIvbkaNwVjnAkAbnbkeDinzrXWb650EpdszqZI2VpbERMmGByjDnbxzWEXu52GPpcjAMtV74mG30UaXUpKKELHtA+Pqir7WtL7ZkVHEi4z5CsCQM5Bz/s0UVXBFyq6IGI7h9jP6Zs46r0kuQGEuQRnuH4MME54x8E75rV+u9Qtbjo3Vltp2mdIwWTuY+HGfO1c89L65LpV/b39vCs0sDFkidyqsxXHn7J+qYtS9Rb2+028sZtGsbdLiEq0kblWUZBzjJz/ABSCbEhmJfKDvnUotUuZDMq26ukajYPKDjcnmiqW7vSX75VQ95JClsdvPB/dFOEIEP5kE//Z" />
 
 Bei mir haben die Symptome schon nach kurzer Zeit nachgelassen und mein Hautbild
 hat sich verbessert. Für mich ein Zeichen dafür, dass bei mir das
@@ -455,8 +454,9 @@ Tierversuchen getestet.
 Wer jetzt neugierig geworden ist: Weitere Infos über die Gladskin
 Produktpalette  [sind hier zu finden](https://www.gladskin.com/de/).
 
-[gallery type="rectangular" link="none" size="medium"
-ids="14921,14920,14918,14916,14924"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_27432895225_f69419139a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_27432895225_f69419139a_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_27398846766_36429f1877_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_27398846766_36429f1877_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26825540833_18d29b43df_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26825540833_18d29b43df_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_27156270670_08debabf72_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_27156270670_08debabf72_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_27398851816_62144c12e9_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_27398851816_62144c12e9_z__l.jpg"}]}
+/>
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf

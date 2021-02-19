@@ -80,8 +80,7 @@ date: 2012-08-16T16:35:12.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "3997"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__l.jpg
@@ -114,8 +113,9 @@ Stelle, Ihr wart maßgeblich an meiner 'musikalischen Früherziehung' beteiligt!
 Im Anschluss seht Ihr einige meiner Lieblings-T-Shirts. Ich bin gespannt auf
 Eure Bilder. Natürlich sind auch Bilder von Sweatshirts erlaubt! :-)
 
-[gallery type="rectangular" link="none" size="medium"
-ids="4003,4002,4001,4000,3999,3998,3997,3996,3995"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9936gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9936gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9935gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9935gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9933gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9933gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9930gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9930gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9928gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9928gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9925gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9925gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9924gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9923gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9923gerahmt_hf__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9920gerahmt_hf__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_9920gerahmt_hf__l.jpg"}]}
+/>
 
 **Der Song des Tages kommt heute von Weezer. Hier sind die Jungs aus L.A. für
 Euch mit 'Sweater':**

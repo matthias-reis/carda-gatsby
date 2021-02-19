@@ -39,7 +39,7 @@ subTitle: Instagram-Galerie
 Im Anschluss findet Ihr dann noch ein paar Informationen über den norddeutschen
 Künstler.
 
-[myflickr tag="anneemilnolde2015"]
+<Gallery name="flickr/anneemilnolde2015" />
 
 Emil Nolde wurde am 7. August 1867 als Hans Emil Hansen in Nolde bei Buhrkall in
 Schleswig Holstein geboren. Er war einer der bekanntesten Maler des

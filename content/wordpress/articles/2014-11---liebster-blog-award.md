@@ -34,6 +34,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (37:29)"
 thumbnailId: "9236"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9694670444_068ec34ffa_o-e1582810742342__m.jpg
@@ -56,7 +57,7 @@ nominiert. Lieben Dank noch mal an dieser Stelle, Dela!
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Als Award muss diese Tiki-Figur, die ich im British Museum entdeckt habe, herhalten"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_13545735034_fbbc8c72df_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_13545735034_fbbc8c72df_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACQQAAIBBAICAgMBAAAAAAAAAAECAwQFESEABhJRMZETQWEk/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMGAP/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEhMhUf/aAAwDAQACEQMRAD8AROi9Zhu9xSGtlkgpljaR3jjDNrGAAdfJ4z1HSbAJXiasuQDBQp8Uyu9k62PQ1zesFDTWu21MtdLPS0/4QHlp5PFwAQfnGhxemuvXqurSMdhvyYJCM0yuH3rRUfr0fvk9F7dlDkuLpE4vFkNJcamnDZWKRkDEY8gDgHhyi9ltQqLg0g83B0GYjJwAMn+64cyzP0Pisfo5aSOzVElWoaAQnyCYJ3r95B371xCNzeSu/wBrU89CzKcLRqshAOhnJAP9A+uULsdXUXHqlypKaONquVAUBCqGIYEjOPQPJC1svTzIDQFMsASXUAD388GCpA5Lk7odb7LDHVaACtkgE74c0rre1lqMpHEVGhmFfj64cXoPUz//2Q==" />
 
 **Die Regeln für den Lieblingsblog-Award:** - Verlinke die Person, die Dich
 nominiert hat,
@@ -76,7 +77,7 @@ Mein Lieblingsplüschtier in meiner Kindheit war ein kleiner von meiner Mama sel
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Vegan sollte es sein"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15404266657_07b64b83e6_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15404266657_07b64b83e6_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMEBgj/xAAtEAACAgEDAwQABAcAAAAAAAABAgMEBRESIQAGMQcTQVEIFDJhFTNSYnGR4f/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAgMFBv/EACgRAAECBAUCBwAAAAAAAAAAAAECAwAEEcEFEkFx8BPhISIyYaHR8f/aAAwDAQACEQMRAD8Az3pl2O0eOOQ7iu08NipJzsltyBHkUAamNT+oH4Ovwem3E2O1aqLWweDt5qUlmWT8oWDMOP5sm1P9cdDvohkWa3kLdq5SW5Dvr1q16F5wdh4WNuSpCn489Kgfu3K1le5msdjIpBuWJC0Uu3+kroXBH1r1z09NOtuFCvgXjZlmG1ozXt3it3bZzSVpTcqdvduY5gV3T2gZpCR4BCgDj6+vPQB3L29ct5Ca/SrxS1bCh1mhkDRnTjUE8/HTxH6W1r073MrNZuysDpLbRlQE/KRsdzf5baB9HrEypRoT3sBWuxWUrhpYj7qsUXXlTpx5P/OpYe9lcyqFCfa/BBNNJKPIa05r+xL+HbBvTymTnmkS3ZMYliaCTZ7DOdrMSw51HHAPk/fTMsndFVppK8KvuJ21/ZhSI+OQ4cNzp9E6no79MuzYY4ZWisM2aSHUFpXhgjYjgEKQ0nPnUgceOkGnSix+MZ8tmrhmZFSzKbjbAQdDtC/pOp0GnRiDTgV1sxFdAe0Vy7iPQADuK3ihl85Plar1wJKuQbWCXFWGQneAddXB1ZCPOnn9uQQbu/8AjVDIW09vH4tiu1DUrBQUHkLxwPs6DroWG9jqLM0NfG40OC3uS6NPIvgM3AC6/TMT+3QR6x38ccstwdw03ZVIKxSb5B/au3QBddeOelJFLxmA4RW21fqGnlIDRQPDnNd4/9k=" />
 
 **Welche Küche ist Dir die liebste? Mediteran? Asiatisch? Hausmannskost?
 Alles?** Grundsätzlich esse ich alles sehr gerne, besonders Indisch und
@@ -104,7 +105,7 @@ Jahren in meiner vorletzten Wohnung. Den Putzlappen habe ich selbst geschwungen.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Auf Festivals lernt man improvisieren"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_11351937553_a519932b85_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_11351937553_a519932b85_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEBgf/xAAsEAACAQMDAwMBCQAAAAAAAAABAgMEBREAEiEGImExQVETBxQkM0KB0fDx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUBAgQG/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEBSESYZETMUFRof/aAAwDAQACEQMRAD8A4qz0M3UXTlVHQbkltyxzo8kbL9Yg42xnHcxHt5GlbDVVNRFTUFPGqt2gSMCpjAOc59z/ADro7V1dbr3dPuNI0krt3KTwDj1GM5Gn6ihtlvo69II3VqhV2soBMbAnDKfYZPI0o2+yy+os6dODjHbwJ0Gt2lrD6lLBiffH3+zzvq2eK1256NIy1RuYs0jfmEkHgDk+i88AfJ9NWsnVdjqKCaO4NUGsp5zsklZe5HHGD4+P81aNYzK2IuOhNJ6LRzCrPBJY6+CqpZAJojleAVJIIOfHOlb99olXRpGrWyF2KYL/AFiAMevGPjzrJU7GcFVZFBwfOOMaEv1tnno5RCmZFkBUt+gYxnnVqnKnHxNKau6lCKmx4itV1DUVkUxer/B1KK2xRhT+39zq0RRtDarUaasZaiXZtQFOwgnkEn49iNWoKgnkwD3PYctye8//2Q==" />
 
 **Welches Deiner Talente wäre in einer Zombieapokalypse fürs Überleben am
 hilfreichsten? Wärst Du eher dafür, sich in Banden zusammenzuschließen, oder
@@ -134,7 +135,7 @@ und [Nine Inch Nails](/?s=Nine+inch+nails).
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Chino Moreno von den Deftones auf dem letztjährigen Rock´n`Heim Festival"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_9557898428_86a39a2997_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQMGCP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQFERIABiETQQcUFSIxYTKBUVKh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADEQQFEkGBExRR8PH/2gAMAwEAAhEDEQA/AIPhZAV5WCog4+eXiAnv0135/f8Av3ptIp6iL4KsPrSR29uiJtgMrfeaDofStppcZSlEXUlwBQI5xULX4vrFuap17e+848zbNbnU9h1bbdNhNukHEEBLjiQrG5Vkog3sBbnS+lWREGowros5OkR7CJbto1eMxHhGZEstqkBCQ6W/xK7e4j6vfRo/SZhOOd8xl+tJkJ60mlm7UdzA43SbrA4/sFc25BB7au/Ax6PD3pFnyHYnkI7gTJWuQ2lwpCFuICUqUFKupI5At/NtbBAhtsbk3CxJkGOxTlCpRQgXslQOabE8gi4+OP3qPR6RtuoQKa/Ho7MOlopjDT63yOrIk+4rcJSfixA+7kEaQpiVWmS+1ud41OHJcBN7x40TxN23Pg9SXPQ3IyWQ22y6bozOHBFwvDFRT2v30aQ3qCKhTqnIgUrNyRUW1sTG0qQ+EoZKFHIEHFVxYDjg350ascwrLYAjn7I7SkfPvE//2Q==" />
 
 Es gibt viele viele Bands, die aus meinem Plattenschrank nicht wegzudenken sind,
 Trail Of Dead z. B., Boysetsfire, Death Cab, ach, ich kann sie nicht alle
@@ -216,7 +217,7 @@ Folgende Fragen hat Andi mir gestellt:
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Zuletzt gelesen: Tiere essen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15276340291_3b9a42efea_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15276340291_3b9a42efea_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAFAgb/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMABBEFEiEGUQcUMUETFiJCYVJxkaHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEAP/EAB0RAAICAgMBAAAAAAAAAAAAAAECABEDIQQxMnH/2gAMAwEAAhEDEQA/AG22ACAnhu4o8648Uvl7WbjS7HToLieAIXmnnKqCw3YCgZ4GD6+9e5hmKREOePY0ewWUN081+bJZJ7qZZXbysfxPrcAYkfkDYUxikyEgakfNyOqAIaM78LOt9a6n6qvE1N0NkLMtFHBBsiSQOv3HkkjPqfY0mTtLg7Sqj8Zo00DqeyHWcOiot+b1ZJUZp5FCrsV8gKvB/fuPzSHPPlMk4/qhiNiHhMWx7Nm5l3Sb7GVAxG5CM9uKKxNHYxGINqEiBuVN/KAx4GSAR+lf4qqouAe5Scav6FzU6Tn0s67G0GiW0d44ZvNtLJJKDjkgsTyf9pDlnUKQUJPfdiqqsgA6jBFTSivk/9k=" />
 
 **Welches Buch hast Du zuletzt gelesen?** "Tiere essen" von Jonathan Safran
 Foer.</li><li> **Von wem ist der Song, den Du für immer mit Deiner Kindheit
@@ -235,7 +236,7 @@ Scissor" von At The Drive In und "The Mentalist" von Blackmail.</li><li>
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Akupunkturtermin"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15787786672_8ff1203c42_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_11_15787786672_8ff1203c42_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCAwYH/8QALxAAAgECBQEGBAcAAAAAAAAAAQIDBBEABRIhMQYHExRBYXFRUoGxFiIkMkKh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAAH/xAAeEQACAwACAwEAAAAAAAAAAAABAgADERIhEzFBUf/aAAwDAQACEQMRAD8AjFTqU1ahYcm+LBRhrFSCp8xvhbl0dFT5XUxSykUzhnlZn4HJ3+mH9C9FDTJDFUw6Eso1SC+4uPfY+WCSgbsRLnnuZrKZKuuWqNZl70RilKIGfV3i/N6e2C5aH1bDDKGE7Vh8FWUoEt/1MQTXcndbcj+8MDEkgbQytYlTY3sR5Y3iGmc59Q5OzzJ7SJU0cwcfu1SkMpF7j05JI4xbnnR2V5dlDT0kLrLEURCz3sC+/wBdzvh52zdcZL0pAIolNV1FJHZYY5DaMEflaUDk/KvJ9sYit66qp+h0p66nduoCqGQmJUgLB7/xcnZfQXPwwldWtdHI4NBySIWd/wBhWXXUrE4uBwcOvBIiWQWW5b47k3P3xzCDqvNI3DPSZeSN7an/ANxo/wAfKEXvMse9uUqFP3GDKHGEMZVYjfJ//9k=" />
 
 **Bei welcher Gelegenheit fiel Dir zuletzt auf, dass Du älter geworden bist?**
 Als ich einen [Akupunkturtermin](/2014/11/11/auf-dem-weg-zur-tiefenentspannung/)

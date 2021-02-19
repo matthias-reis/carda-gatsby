@@ -32,8 +32,7 @@ date: 2018-08-12T18:18:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "21701"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30116228288_f1d3042e77_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_30116228288_f1d3042e77_z__l.jpg
@@ -58,7 +57,7 @@ beim Smalltalk mit Kollegen sehen.
   title="Frank Spilker"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30115547608_2941d0316b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_30115547608_2941d0316b_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAgMI/8QALRAAAgECBAUCBQUAAAAAAAAAAQIDBBEABRIhEzFBYXEGURQVJDJCgZGh0dL/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgIEB//EACURAAEEAQMCBwAAAAAAAAAAAAEAAgMRBBIhQYHRBRMxcaGxwf/aAAwDAQACEQMRAD8A5rSmdjZRg/L8vRq2OOpmWGOxd3YkWUe23Pztiy9OjKRXRS1tFT1NIh1SKpeB2A/HY2BPjGpYKKuz2GCOnmpRVNp0yVKcMod/ucKLW79saDleEsihLg7fg8d76INDnF82jQaHqpGizOpjlVJJ5EiUH7FV7m23PYi9v0v4w9j9QTBFDPFe2/00X+cLqr09V0svAqY3p3DFY3msqPbmAwJB6WIvz74CXRpF2F7Yr4mbLBbS7V1tTngjfu5vwqyCLgUMgJUjxvgaekqJ4cvMMiXzAfDgt+BUi58WHTvjKuM4TTwpVHeMi+CgrSDI45EMcWX00lS7qSGLsdgfbp/OC2boyQ2IDbb77Wh0UkmOS8c3ftR/aUvm9IY6iWkViZ6VzHLpDlC4JuRflcAbe4PTCsuwO7qf3/rFZxI6nPM5mmWYQkPFNIgIbVpAXa/MsMJvlyjZctqmUci0bAnyNeEeSZ3mFrASAmFsdtBfVr//2Q==" />
 
 Auch den Soundcheck konnten wir durch die Zeltwand hören. So konnte ich schon
 mitsingen, bevor das Konzert überhaupt losging. Als wir dann auch noch einen
@@ -103,7 +102,7 @@ Stück, auf das alle gehofft hatten.
   title="Thomas Wenzel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43936324242_a3a89ae139_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43936324242_a3a89ae139_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGAP/EACwQAAICAQMDAQcFAQAAAAAAAAECAwQRAAUSBiExEyIjQUJRYXEyUmKxwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwb/xAAnEQABBAAEBAcAAAAAAAAAAAABAAIDEQQSIXExgZGxBRMiQaHB8P/aAAwDAQACEQMRAD8AC1Rk8EfkHVbp4g7mtieuLMNZWldXjLx5A9n1MfLnGu6X2pN23MRzoyVYVM07Ds3AfAHt3JP96Z+kJ4N42K3RjrQJAyssaKgVHh7hWwPIB/7rQxvplgUOqJI0u9I1+EPS35It3FqqsEJE5YLCnFAfT9peI+U5wV8HJGpFqeCxZmmj2+Cukjl1hillCRgnPFRy7AeBpG3/AKOhp1Jo68JWelXSwOOQGXmVfOSc4XBB0drVk4j3b+P2nR4MP59ubZI09/3VXechorR9Fb9fq3XpRRNcryB/UiIXLEKfmI+gIx4P51sq/VuyptyV6W02qhp+xFHFP6TwD+ZIJGSftnOizp3cptsvJPCRxU+8QkgSL3OD/n0Oq1vqjc5o2mryGBmw074V3mOexckYIB8DGBoUuLnkcL4b91eFkLASRrt2TJsKP1Lcs3uCTmttixuhCkWA7zHl2PkhfBPw++NT3r9GK7K+wxIwOCpgtgqfpjl21iuguuLm3bs8lt1cTqsLkoqjjwkUDAAA/Xppp9VbPNTgkkkHN41ZvdjyR3+OlR+InDuOcENNVlJG98+CNJhHT6xvI5A/S//Z" />
 
 Stimmungsmäßig war das Konzert eines der besten, die ich je besucht habe.
 Eingefleischte Fans, die zusammen feierten und sich freuten, dass die anderen
@@ -132,7 +131,8 @@ treten in einem Zirkuszelt im Kiez zwischen Altona und St. Pauli verschiedene
 Künstler auf. Neben den Sternen gibt es unter anderem La Dispute, Nathan Gray
 und Yo La Tengo live zu bewundern.
 
-[gallery type="rectangular" size="medium" link="none"
-ids="21701,21700,21699,21698,21697"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_30116228288_f1d3042e77_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_30116228288_f1d3042e77_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43932686612_a4e9dca1f1_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43932686612_a4e9dca1f1_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_30115547608_2941d0316b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_30115547608_2941d0316b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_30116226498_eb2c02e0e0_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_30116226498_eb2c02e0e0_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43936324242_a3a89ae139_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43936324242_a3a89ae139_z__l.jpg"}]}
+/>
 
   

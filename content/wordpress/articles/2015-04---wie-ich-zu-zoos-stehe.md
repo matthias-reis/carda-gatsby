@@ -67,7 +67,7 @@ entstanden, die ich auch nach meinem Umdenken nicht löschen werde.
   title="Zoos sind nicht der richtige Ort für Giraffen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3952__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3952__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgIDBQcE/8QAMBAAAQQBAwIDBAsAAAAAAAAAAQIDBBEFABIhBjE1QbITIlFyFTZSYXFzgYKRorP/xAAYAQADAQEAAAAAAAAAAAAAAAACBAUAA//EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMREiExQfAE/9oADAMBAAIRAxEAPwAdNwTIkTRcbaGNiU7t1KttN8A+ZP8AOmPT609NQMZilR48lbi1OS0qbUtKUrcopBCaJAAsntxryT8Y4JORBebYUQAhwOC0kujaf6jSadESl3HRWyhUVvaHV7iC64HABXHPIUT95GpsGiSqX1OtoCLdXuYqR0pDjY5tMWA2+j2YbbKgbS5Z5I5JN970dKIX0kQXXCpyL5JQAQY/za3G3DAh5PG5R7FxkmQ2W3FQjOaQn3gnchVEK4uwTXw1VmE9JB3GM40z5GV2tpVNEdDLTrZQU8Ngg8jtYFa0jA+nEjpHDI5gxo97XVHsCFZNS0NsrUyGnQku1dLJ5v4d/wBNGuo5CY8rE74a2pAXsoPtlabVaSobgPteRNHjSjP+Iv8A5TXpVrk+Z+uf7onpOiMgGqXAx2MiVl42JMf6ffcnlpMhxxokqfR2tdc2fKtSTAAy+EUp+Ik7Y6eHbJ98jigdXwfBnvnY9K9SV4jgvxj/AOp0mH2br1p9vGPuF//Z" />
 
 Dass enge **Zoos** nicht der richtige Ort für Tiere wie Braunbären, Giraffen und
 Löwen sind? Klar, ein mulmiges Gefühl hatte ich schon immer dabei, wenn ich den
@@ -106,7 +106,7 @@ aufzugreifen, sondern darum, meine Überlegungen zum Ausdruck zu bringen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3909__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_img_3909__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAzEAACAQMDAQQFDQAAAAAAAAABAgMEBREABiESMUFRYQcTFCOBFSIyQlJicYKRk7HR4f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAECBf/EAB8RAAIBBAIDAAAAAAAAAAAAAAECAAMRIUEToSIxUf/aAAwDAQACEQMRAD8AYaHeVNuJko7zVPQSzKixVMBClH7+TkFT4NjHjpb3lQ7o27UYrVlqaKQ+5rYap2hlH4gDpPkfhnQsUpAUewzkP2AzJg489Aa7eNynvUVhtFXdEtdJMI5KYN64ZB94OnjrUYOB28EaWahVK2LdwqVRodTVJX3GT6SR/md2/ltcfXVx7qf9v/dVa67FhuNI9w2o61HTkz2/skjI7THnkj7p58M9mkZ6co7I6MjqcFWQgg+BGkGpEe4XmcYvG8W6MXCRpHBCoB0njoIJ7/PUe9Hlvgus25aha+qobtDSy18VVEcMkoZiAAOeWH6HVqrbla47FVbgpKuKR4po09gK/NkJYAKXzxwSeARxoxti57ep6VKTbq2+zsygrCsSxsTnJyfrHzyfjroX8c7mSwY41EPYdTXxWG0Xm3SsJaikV5kL8OwyGbPPIK/3qlR70uJjUyWWKWQgdTiZMMe89vfrRXW6CppJAyotT0uqKiqiMXIJLBcZJ558+ToX8mp3yxKfstnI8jx26hAGfspWxYz/2Q==" />
 
 Klar, vor Ort ist häufig der Lebensraum der aussterbenden Arten bereits stark
 bedroht, weshalb das Beispiel sicher nicht auf jede Art passt. Dennoch denke

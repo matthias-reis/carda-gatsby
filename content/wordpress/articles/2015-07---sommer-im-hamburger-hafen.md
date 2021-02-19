@@ -53,7 +53,7 @@ Der Traum von der Ferne.
 
 ### Hier sind meine Eindrücke aus dem Hamburger Hafen von Samstag für Euch.
 
-[myflickr tag="annehafenrundfahrt072015"]
+<Gallery name="flickr/annehafenrundfahrt072015" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

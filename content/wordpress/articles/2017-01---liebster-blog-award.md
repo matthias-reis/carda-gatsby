@@ -40,7 +40,7 @@ subTitle: Hamburg und mein Blog
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_30866717292_74e1ef9463_o-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_30866717292_74e1ef9463_o-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgD/8QAKxAAAQMDAwEHBQEAAAAAAAAAAQIDBAAFEQYhMRIHEyJBUYGRFDIzcaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIFAQb/xAAkEQABBAAEBwEAAAAAAAAAAAACAAEDIQQREuEiMUFhcZHB8P/aAAwDAQACEQMRAD8A0LHv1uWhGJjO5CR4huT5fupUC826YsJjzY7ijnASsEnHNZm1hZbBpHT6Li8i6ynHHUstMicUBSyCck9OwAB/lWHZVa9PaugvvSlXG3SmUlLjTU1xWSd0FJxnpIB9xXKhCUfGxZt3bdVSgB65fvC0DI1DamRILs5htLH5SpWAnnn4opFv2SwSYsjMeT3m6VEyXjg8ZwVf7RWDBrsif0h4AGvuyW3aRq2NLkNWVhlEliI+l12QV9R7zBSUp9cBRBz58cVb9kWu4Vhvkm2yY6WUXMhKJqj04WE4SlQPCeQD6mkuiRg5zvnOakSbgvKFIUnqaUlaFAdPiGCD81XPDMQ6OiQZ3a0/g859W+lpwlCln7cHnyO9FcYuqNP3MJWqWw3IcSFqQ+gtbnfYnbHvRQOGya0pT3S//9k=" />
 
 **Schon zwei Mal wurde ich nominiert. [Einmal](/2014/11/and-the-nominees-are/)
 für den  _Liebster Blog Award_ und
@@ -76,7 +76,7 @@ eigentlich nur nach der E-Mail-Adresse fragt. :-)
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_20929293351_93e91665c2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_20929293351_93e91665c2_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAAvEAACAQIEAwYFBQAAAAAAAAABAgMABAUGERIhMVEHFCJBgZETIzJhYnHB0eHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwCL4dNHKpMgGo5fj09v2p+yR33Fkls7edhb253rOfqiboP1HMVIY7lo0ZVJ6irzlZrmwyvg1rY2DtLcxpJLIYyF3NxZmbXy/qgq/ZpiNzbTDBsUuluUdDJazHgQVI3Rn3DD16U1ZumRpookYHYu4jXr/lQPNc15gN9YXdtM0t3PMI4UUlURNjB9ep126H+aZoc1riMMcbPLbXg4uGAI4EAjU/erxvl7UbzbORyqV2XBDszeEHXkatGQMyTYrl750RTu42ELIdG9PKiioWW+0LGL+e4w8SXBEZaRxGvBQPCNOta8qRPf4pK8szM62btIX8fxOWmoNFFB/9k=" />
 
 **Elbgängerin:** Seit wann und warum lebst Du vegan?
 
@@ -113,7 +113,7 @@ probieren neue Rezepte und Zutaten aus und kreieren sogar selbst Gerichte.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_11501151886_22baaaa304_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_11501151886_22baaaa304_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKRAAAQMDAgYCAgMAAAAAAAAAAQIDBAAFERIhBhMUIjFBB1FxgZHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRITHx/9oADAMBAAIRAxEAPwCNegmKrlMJDbJTgJbGlIH1gbUnxroxwndzJbYDjM6EAW0r0nmIdPefO2MipXENvvr/ABI6i2wpUiU1H5jjMZOrUlAGdWNsgkY/ik7iY3GF1TF+ZkdVCUEpLuoLY3wUD1jJ9bfVTaU5el3N+Q5VzfUuI3LS4knmN85KEIGe0JwN9huTRShbIMeXzHVuLitEDQoJJ5nnJx6xRRuMU/RYt14dqq4qtDV3dt7ceS26hRDxXFKEKGkKyFEdyTkbisq+d7fGv9tjSLPIhtOS3emfQEAu6EAkKPjAB2/YpsfmJkshxxBQT26FDKhg0uRbBcb5cnUx2g3DBKXH3E4bbT/asehv+PNKu2BwxSTa52tKI/WuBtIbV0cYLSFDY7Z2H+0VqXGV7bslxEKxBKwgZffX5dXsPX0B+BRWOJ2pn//Z" />
 
 **Elbgängerin:** Wie hoch ist Deine Toleranzgrenze für Fleischfresser?
 
@@ -169,7 +169,7 @@ Konzert-Highlights für 2017?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_15719943182_30a7bfc137_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_15719943182_30a7bfc137_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgMEB//EACgQAAIBAwMCBQUAAAAAAAAAAAECAwQFEQASIQYxFCJBUdEHE2Fygf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC22mWWRA0lunT9pE+dT1HeYLNaZ66soqn7MeB5NjFmJACgZ7knWa1zlaNGftjnJzqs/VTfX9Jv4KWkElLOlQwl9VUMOAO5ywODxxoF136ip4qgYoa5kYbldUBVh6EEdxo0xoKSO32C0UUk0TvBSojFD5c4BOOe2Txo0Dmz3CN6OMRzseOd+740v63ukUPS1wWR4pS8YVYjyWO4dhjn31T7F1AI0EcjDZ7HWt1rc4prcnhQRJvBJiYI2Me5zx+NA8uF4ptlNGGjZo41VijEjOBo1zOorFdwVkgHAB4bP9wQM6NB/9k=" />
 
 **Anne:** In Kürze treten hier in Hamburg  _
 [Russian Circles](/2017/02/russian-circles-knust-hamburg-2017/) _ auf. Ich habe
@@ -207,7 +207,7 @@ Stadtteil für Dich inzwischen an?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_23848021279_4164b49a56_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_01_23848021279_4164b49a56_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQECBAb/xAArEAACAQMDAQYHAQAAAAAAAAABAgMABBEFEiExBhNBUXGRBxUiQmFyofD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECMf/aAAwDAQACEQMRAD8AWkNuzKMAMxxnHrXVcWZcDf0bn9hWYWMdq8kjmJFALyMOEHjz6VrpurnVIGSZoQ8DNEqRAkqufoyfM8/41LqcKQpNSs5LYRYETq2ducZAGKKtrrDlS8bqAPvjbn+UUFGGjSvLKx+V6hK8cF5KkEhEXDqDsOFC9Pfmlf8ACCOG6sdRhMLCV1Qm5aPAG0cIW8M5BA8xmmQmoqdKnaOSR5XibaeWy2046DrnFeV7NSJofZue3YKlwbgP3LKQ2BFGM4PXJDe9aIUVpHcasYZ3t7mVt0RwCQTke/4oqDUIbbUJ++YICR4vjP8AaKDwm6M//9k=" />
 
 **Anne:** Für mich fühlt sich Altona an,  wie die Heimat, die ich schon immer
 gesucht habe. Es wurde für mich gemacht, vermute ich.

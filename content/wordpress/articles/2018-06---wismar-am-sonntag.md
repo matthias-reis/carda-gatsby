@@ -86,6 +86,6 @@ Weg nach Hause machen.
 Die Fotos zu diesem Artikel sind letzten Sonntag in der schönen Hansestadt
 Wismar entstanden.
 
-[myflickr tag="annewismartatarata201806"]
+<Gallery name="flickr/annewismartatarata201806" />
 
   

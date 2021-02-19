@@ -38,7 +38,8 @@ date: 2012-10-09T14:24:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "5020"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__l.jpg

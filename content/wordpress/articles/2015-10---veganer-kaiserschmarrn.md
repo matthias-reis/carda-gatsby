@@ -41,7 +41,7 @@ subTitle: Vollwertig, lecker und eiweißreich
   title="Kaiserschmarrn mit frischem Obst"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21835534795_27006697f2_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21835534795_27006697f2_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAmEAACAQMDBAMAAwAAAAAAAAABAgMEESEABRITMUFRImFxMnLB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMF/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIAEQQDEiFhUfAigcH/2gAMAwEAAhEDEQA/AIKheOVIKuGohqoDyIfpBhDYXsSTkZuO2R40tX09TWRVVTR1lSrKSFjiAlilwLBV8efvWbsu+7XR7mWi2OgZiSFmmc8mzbPdb+TZca7e9FQ1mz04NPtixScS5KqVa+LRvGuTe3e3fNtY+qwxWBdqv33ib2mrZKUE3V3OKbpQiOVAli3H5BcAHt28fmjVrvmzbfT1jQQ9KFYyV4RyBLH+r5H+99GluDfJSKPYhVgoAYGx0fyT1BtXKOB4NvQMq9KJTEpRfgfm3tSRe/gjW7tO9rWbdHQQPGk1K3OZEj4KpYWupGCcHNxcX7ano5o6CmV6WtdYpQYxzbqxsH8r6Nh4/NJRzrHFHTUpmMhbqHkQw74c4zj6xa2jrY5Y031K42Wu2xx5js0fCeWqqerSvUNhGlubKLDF8fn2LaNZNNXT1sYaWsV5LBmf+Aa/r2PH1o1UF1FWZNhpudxUG/NT/9k=" />
 
 **Heute habe ich mal wieder ein leckeres Frühstücksrezept für's Wochenende für
 Euch vorbereitet. Auf den Tisch kommt ein echter Klassiker mal ein Bisschen
@@ -71,7 +71,7 @@ für Eure Wochenendaktivitäten.
   title="Gebt alle Zutaten in die Schüssel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21823673392_e1a185d261_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_21823673392_e1a185d261_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwAFBgj/xAAqEAACAQMCAwkAAwAAAAAAAAABAgMABBEFBhIhMQcTFCJBUWGBkTKx4f/EABgBAAIDAAAAAAAAAAAAAAAAAAIGAAED/8QAIREAAgICAQQDAAAAAAAAAAAAAQIEEQADEgUhQVETwfD/2gAMAwEAAhEDEQA/ACLZG2LvcGoJBahUwOJ5X/jEvufn2HWmzTOzLbdhAvj1ur2THmZnKKPpen2TWD7FWhj0FmXhEsk7d59cgPz+6UJYobpAJolkGOR9f3rSxNmbBtKKaAxhiRU+MOwsnDzcGxdnSWzmDUV0yXkF7yfKZJwMq3PqfQ0S6pta4iluVhmsZI4GCtKLlFRwRkFeIgn6rou60W1e7juraa5tLiM5DowYN8EMDy/KKu2O8vnjtPGW0LyRzMsNyjZ4kK8wQeYORmtYUt2YITd+/wB94EqMiqXqq9ZpmwtcudJuo0h80NxJwlCcAEDORTbp2vzyRDKAEDqG61VUU/WpPKu+SE548fGWqa7NFasQmSvu3+UFb01y51jVZFn8scBKqoP6aqqLp2tQS1d8qe5oL4z/2Q==" />
 
 Gebt alle Zutaten in die Schüssel, rührt sie mit dem Schneebesen gut durch und
 lasst den Teig im Anschluss ca. 20 min ruhen. Dann lasst Ihr eine Pfanne mit Öl

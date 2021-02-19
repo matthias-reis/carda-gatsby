@@ -68,7 +68,7 @@ bei denen jeder Artikel nochmal mit dem Wort "vegan" in der Produktaufschrift
 gekennzeichnet ist, erleichtert beim Shoppen die Suche. Vegan wird nicht mehr
 versteckt.
 
-[glry name="vegan-leben-1-1"]
+<Gallery name="glryvegan-leben-1-1" />
 
 ## "vegan leben" – Produkte im Test
 
@@ -119,7 +119,7 @@ Das ist ein toller Schritt in Richtung pflanzenbasierte Zukunft und ein gutes
 Bespiel für andere Hersteller. Wenn jetzt noch das [Palmöl](/2015/05/palmoel/)
 weggelassen wird, ist alles perfekt.
 
-[glry name="vegan-leben-2"]
+<Gallery name="glryvegan-leben-2" />
 
 Infos:  [vegan-leben.de](https://www.veganleben.de/)
 

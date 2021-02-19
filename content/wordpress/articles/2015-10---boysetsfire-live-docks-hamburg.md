@@ -37,7 +37,7 @@ subTitle: Ein wundervoller Abend
   title="Boysetsfire live im Docks"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21161089299_f95f23f9d9_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21161089299_f95f23f9d9_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAAMH/8QALRAAAgEDBAEBBgcBAAAAAAAAAQIDBAURAAYSIUEiBxMjMXGBFUNRYaGxsvD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAT/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAxIhIv/aAAwDAQACEQMRAD8A6ZLb0uE8cj0NPV00SOjSPAJkGeICZI6PqJ6++i6HZdtZjNNt21sOQVI2tigDA7OCp8+frqJtlgtE8dRDVUdHcFX3bPMruod8v5VgMDiAMDx505pNnWSflNVWWOQFiqKKmVsD9vWPprPi84kmNq3wrY9r2JxKI9vWkFDxcfhcagH7oMjUx7WbYrez++NS0kUlTT04MIWIFkPNBhfK9ZHWNbW2HtWRGElhpWVhghnlI/3oL2i2qgk2pXVMlFG01DCZKdzktEfSuV7+fHrTTQlHtCyxTXeWy0Udoi29FDEUx78VBcpxyofgo9XFhnsjs96Z0tTuypwlNUbTpoo8hQtDUyd+cfFxpPtWkeHblrMyxO9RDEwyoYJ8FOiWQ47/AOOqmE08VNGkr0S5JLgOvHOfGOI/jVKVIox6Lhbt1hJhBf7DSGTJZqaxtnP6+qf56zdNvulxsU1Kt7ERaErOTRoyzjgcjH5eT3lex8tHNeqOmaRaq42tR2UCVSg9eDk4B0orNz2ydPdpVwETKUHxUOCRjHR/rR2Ekf/Z" />
 
 **Gestern hatte das lange Warten endlich ein Ende und die Familie traf wieder
 aufeinander. Boysetsfire spielten zum Auftakt ihrer Tour im Docks in Hamburg und
@@ -70,7 +70,7 @@ Das hier habe ich heute Morgen bei Twitter entdeckt. Ich bin ganz stolz drauf.
   title="Mein Tweet auf dem Profil von Boysetsfire"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Bildschirmfoto-2015-10-02-um-08.39.30.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Bildschirmfoto-2015-10-02-um-08.39.30.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAPCAYAAACFgM0XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE+UlEQVQ4y61VS0xUZxSeDRu7siYsFBpe9RmNBCUIC0CNYgK4sRoWJlQhsKBgDNBGlAIqkGigttigEhujIiFpGtygKDUiQgnFAsPwDI9hmOed9+vO3GH4ev5DoE1jky56k5P/zv//55zvfOc7d1RGkxFutxtj42N49fo1Hj9+jIsXL2J2dhZv3rxBXl4eFhcXodFocPXqVTx//hx2ux06nQ5arRYNDQ1ob2+HeO7du4e2tjY8evQIpaWlcDqd6OjoQPW31SgpKcHIyAjm5+c5trCZmRmozGYzvF4vRkdH0dfXhxcvXiApKQmNjY1obW1FyVclkGWZz9PT0zE4OAiDwcAALBYLqqurcfnyZTQ1N+PhTw/R+2svurq68KzjGccdGBhgkNeuXUPfuz6Mj49jbGyMC5qamvoLwIcPH9DT04MrV64gKioKOTk5uHXrFs58cYaRirPU1FQUFBSgv7+fnQsLC3H27FnEx8Xh0KFDePLkCTNYVVWF/Px8BltTU4Pi4mIkJiairKwMS0tLmNBMQK1WMwiV2bIOYHJykinOPHoURUVFyMjMxLlz53D48GF2PnnyJLKzs7F//36cOnUKd+7cQWRkJA4cOMB3du/ejb179+LBgwcoLy/n3wLUvn37kJWVhT179nBh4ky0dBOARbLA7/czLadPn2Y7duwYtm7dygmio6Oxa9cuTrIBSAQ+f/48Azty5AjviQQ5uTkYHh5GRkYGgxH7J06c4DsHDx5ksPHx8czm9PQ0t0Ml+hgKhZiu5ORkVFRUELoJFuDEhBrd3d1chQiWSawkUXIRMCUlBWlpadwW8S4CP336FJcuXWLAQi/Hjx9Hbm4uAxL+wi82NhYtLS3Q6/XrIhSCCofDrNZPt23DhQtfsqJ9Ph+vQiNbtnyCHdu3IyEhnmmMoyBRO3bgM2InOjqKmdpGvq9pigSghIQEvhcTE8Pgd+78nJncTjEiIiJ4yubm5lh3KpfLRWnWMDQ0hMrKSh4jSZKgXdbDYTNg+H0XautuoLa2FnV1dbh+4wZu3qyn0apBTW0d23Xav337NqxWCU1NTVxhfX097zXTdFyn+0JfjY0NqCKRd3Z2wkUjajQaocJHHo/HDclqh8W4AO3sW95bJfPj/39UXjkIr6zA7ZPhInN4fBjTTOEPtQbqqTks6VbgC4bhlwOwOSQ6l6G3uWB2eKEoIfaxuHwIhlY3gwbofcVkhdvrg83t59iizU6Pn+MLHw/lFabyB0NYNwWysgqZ1qWlZUjUe6ytkYU5qGjRL10/w2A0YZlAma022L0y3ATeR2MsNCO+fKuUSLusQ803X8PhckOrN8Hq9iG0SrEJsG8z37qpfAGFX8QaEBcCIfROatE9voi308t4N7eCWUcAFrMFC/MLCAQC1GsrTARQZzRj2UDrip76aaKv4wpPlIcqf/XyJSdzEoiNZyPPxipskwEv/VCIOps/hDaNhPujOvz4uxbf/baA+yM6OlOIQiv0Rgusdgc5B4mgtY/21el04fsf7kKyO2GWbJDpbpju/hMAM7ABgBkIhRGkCocGBqGTFIRoH1hvgc2sw9yMmsZSgoUAGJx+GG1u+mNywGYjwUpWEq6VP2oGgxEtd1u51yabk9sUDv8HAKQ1Fs7d1vt4P0NVKmGu1ENtCRK1dhclIOHIBFJRlH9VtuDF7ad4oTWS0HoBgq0N2v8O4E+rT+WWy34/dgAAAABJRU5ErkJggg==" />
 
 Das Docks war ziemlich überfüllt und so passierte leider das Unvermeidliche:
 Nach einer kurzen Pipipause haben wir es nicht mehr in die Frontrow
@@ -81,7 +81,7 @@ Als Support waren übrigens Great Collapse und Silverstein dabei, Great Collapse
 könnt Ihr auch auf einem der Bilder sehen. Nur, falls sich jemand fragt, wer der
 junge Mann mit den Dreadlocks ist. ;-)
 
-[myflickr tag="anneboysetsfire2015"]
+<Gallery name="flickr/anneboysetsfire2015" />
 
 Dieser Artikel ist für Hoochi, Chris, Lui, Caro und all die anderen lieben
 Leute, die leider nicht dabei sein konnten! &lt;3

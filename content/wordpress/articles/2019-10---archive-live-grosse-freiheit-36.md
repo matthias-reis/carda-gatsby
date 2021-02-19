@@ -24,7 +24,8 @@ date: 2019-10-22T17:06:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  invalidMdx: "unknown: Unexpected token (19:29)"
 thumbnailId: "26608"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-7__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-7__l.jpg
@@ -33,6 +34,9 @@ subTitle: Zarte Töne auf dem Kiez
   
 ---
 
+## unknown: Unexpected token (19:29)
+
+<!--
 **Gestern waren Archive bei uns in Hamburg zu Gast - das wollten wir uns
 natürlich nicht entgehen lassen und hatten uns schon vor ein paar Monaten die
 Tickets gesichert.**
@@ -46,13 +50,15 @@ Dabei war doch noch so viel Zeit!
 
 ## Warm-up in der Menge
 
-<RemoteImage
-  alt="[glry name=&quot;2019-10-21-archive-grosse-freiheit&quot;]"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__l.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt="
+
+undefined
+
+" size="medium" title=""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-3__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAECBQcEBgj/xAAmEAACAQMEAAYDAAAAAAAAAAABAgMABBEFEiExBhMiUWFxQcHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAHBEBAQACAgMAAAAAAAAAAAAAAQACEQNBYYHw/9oADAMBAAIRAxEAPwDl2OKRyADjPeazEsXkCbGAPyxP6qW0/S2tr+1ivoJGjuofNiMZGWDISrDPfP4+DW42Oh2siLYkxxarH6CN+Ulb1NnPyCgHvWmOSCHfg+PUzDdXiaZdGNXVskkAqOx90t1p8tt24JcbWBX+9u6t/VbXw5o14sMyvBOs+6VTcK6LEI9+BxzzhM7uzUD4sNk2n66LCyDT20qO7hsraoWI2ZOMtkqOM9Gik3j0VTFieyTgYGTTkkZGDI7KwwQQcEYooo2MPIznLMzfZzS+dLtdRI+1+WG44b796KKqv//Z"
+/>
 
 Um 20 Uhr sollte es losgehen. Als wir etwa zwanzig Minuten vorher im Club
 eintrafen, war schon gut was los. Das Publikum keilte sich um die besten Plätze.
@@ -81,13 +87,15 @@ gelungenes Konzert voller guter alter bekannter Melodiespiele und frischer
 
 ## Eine Band, die mich schon lange begleitet
 
-<RemoteImage
-  alt="[glry name=&quot;2019-10-21-archive-grosse-freiheit&quot;]"
-  size="medium"
-  title=""
-  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__m.jpg"
-  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__l.jpg"
-  loadingUrl="undefined" />
+<RemoteImage alt="
+
+undefined
+
+" size="medium" title=""
+mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__m.jpg"
+largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-21-archive-grosse-freiheit-36-6__l.jpg"
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMGBwQFCP/EACsQAAEDAgUCBAcAAAAAAAAAAAECAwQAEQUSITFBUXETIpGhBgcUMkJhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABESExAgMSQf/aAAwDAQACEQMRAD8A5YbPmGntetmYi0QGpCXmHCrdlOYrT30tx1peEvoakAuIQpBP5DbtVxYQv4bew9a4kR95LHhurWEHKklFzcH93HvSuxcLi0Ur9hTi23XUtJ+nUCv7SE786VjuxnG1lLjakKHBFXNg8DCvDkuTJkeFKYAWA+ghFl5rZSBvcW/oqF/MRECJiC04e8HgryFQ4sOux51FR6rgtYqILmO1zT2JkqOCGJLzYO4Q4Rf0ooqiQdmyngkPSXnAkWGdZNhr17n1pFz1oorG1o//2Q=="
+/>
 
 20 Jahre und viele Konzerte ist es her, seit ich die Band das erste Mal erlebt
 habe und sie scheinen keine Sekunde gealtert zu sein. Genau wie damals scheint
@@ -130,8 +138,10 @@ Ein wundervolles Konzert von einer wunderbaren Band, die uns hoffentlich auch in
 den kommenden 25 Jahren noch viele Überraschungen, schöne Momente und wunderbare
 Melodien schenkt.
 
-[glry name="2019-10-21-archive-grosse-freiheit"]
+<Gallery name="glry2019-10-21-archive-grosse-freiheit" />
 
 <iframe src="https://www.youtube.com/embed/A4gBzUwo6Iw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+-->
 
   

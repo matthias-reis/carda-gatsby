@@ -50,7 +50,7 @@ Wollt Ihr mal die anderen Vorschläge sehen? Ja, wollt Ihr.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_blogger-blinddate.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_blogger-blinddate.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAECAYAAADvRz3UAAAACXBIWXMAABJ0AAASdAHeZh94AAAA70lEQVQoz31Q2W6EMBDj//9yuwvhbgmB3HHjQbtCfaglFDPj8ThpNq3Rqh7zsiLEiH6coPoBOWf8bBqntTDHgcezFQ3Bej+M8D5UvknfOYdXp7Cs36KZ5gXPtkNKCVrvUFU/TrP48ezqzn03aJzzOM4TxhwopWCoAR5fL+TKGYaGMSbsxoiOYDhrnXCG4iXeixiG4CLW6RlCFP93L4Qg//RpcAPFpWQ5Ce89rHN3iQzd9ZCZ8r/mz447aoCCyQT4yKECl+ormHg9ta238peZ0v6jOUPGWGeI9YzY7KWnj/toEobdC+dHbmuNnD5XD/gFgnnzAWZcz3gAAAAASUVORK5CYII=" />
 
 Neben dem von Regina standen auch Stücke von Death Cab vor Cutie (für die haben
 immerhin drei Blogger\*innen gestimmt), den Black Keys, U2, AC/DC, Laura Mvula,

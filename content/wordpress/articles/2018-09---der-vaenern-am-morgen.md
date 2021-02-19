@@ -60,6 +60,6 @@ Nachmittag und Abend dazwischen geschummelt. Es ist zu schön am Vänern! Da kan
 man nicht einfach um 7 Uhr morgens aufhören, zu fotografieren. Alle Aufnahmen in
 diesem Artikel habe ich am 27. Juni 2018 gemacht.
 
-[myflickr tag="20180627annevaenernmorgen"]
+<Gallery name="flickr/20180627annevaenernmorgen" />
 
   

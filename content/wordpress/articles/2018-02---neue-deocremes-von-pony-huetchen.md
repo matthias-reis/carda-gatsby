@@ -32,8 +32,7 @@ date: 2018-02-09T07:28:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "19473"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__l.jpg
@@ -63,7 +62,7 @@ sogar nachgefüllt werden. Low Waste bei vollem Vernügen also.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26290453788_faf376db9f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26290453788_faf376db9f_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAApEAACAQMDAwIHAQAAAAAAAAABAgMABAUREiEGQWFRcQcTFBUjMaEy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARAwRxkRITFDFB/9oADAMBAAIRAxEAPwCOWEakDe2vgU34PCX2Tcx4zHXd6yabhBEX2+5/QpPxMc8V5bW9xYXExklEDtGdCrtwADqAD35q0/CnM3+Eusnift8P1YkE5hY67kKgKVYMA3njv6VF8qoT1fI2DTtmcKCOYvydD5zZKb6wOMiRVYyX/wCJTqdABoCSSfFJXU2PvcHOsV9CYzIC0cgYPHIvqjjhh/R3ro+46gtMhLPiuqrdcaL1UW3k12qXHbcTw2vI9eam/XvTy47GX9vczRT2DayCQyhGgcA6OVJ099OTS91iQyi1PImzwkCFWanG1EbyKW1xJuG9mciT5oLEk7uOf4K3LXIszGR40dz+yeTRRViBdznrC+mSddZYUJ8CsbK5Ge5ijt5pJZIY/wDCySM4X21PFFFEQn3P/9k=" />
 
 Was mich natürlich besonders gefreut hat, ist, dass es auch meine
 Lieblings-Duftnote "Rock-a-Hula" nach wie vor gibt. Sie duftet wie gewohnt
@@ -88,7 +87,7 @@ ist unterwegs auf Festivals und Co. sicher sehr praktisch.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40130850192_3ea14a607a_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40130850192_3ea14a607a_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAvEAABAwMCAgYLAAAAAAAAAAABAgMEAAUREiEGMRQiMmFxgQcTFkFDUZGhorHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABwRAQEAAgIDAAAAAAAAAAAAAAEAAgMSQSExcf/aAAwDAQACEQMRAD8AjFuja0AkeVUP0ZWyBLkXNEuNHkaG2ikOthenJVyz4UkcLSYs25Roa1FId1bJ7StKSrSO84wPGqXwIiCxdLqYLDkUFpnW246XN9S98kDGflSZZA8e6hqydbsPRbvszaWyB0KMsDA6zCPrsBUR4jaS1PlpaSkJD7gAAwAAo4q/OvDUNxzFc8X25MKuNwSTuJDg/M0+JSJZjOBt4KIJ04UNJ0kH3HPlW9ZrtPh+uVAluxnZJSpxxKusVDcnvBKjseX3ooo7lHynybpHHd6I63RDjHwf7U2uKi9KfdV23HFLOOWSST+6KK2C/9k=" />
 
 Mit Gründerin
 [Hendrike](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)  hatte
@@ -118,8 +117,9 @@ Katalog" kann Frau sich direkt bei Pony Hütchen bewerben.
 \*Zur Pony Hütchen Homepage geht es
 [hier entlang](https://www.ponyhuetchen.com/).
 
-[gallery type="rectangular" link="none" size="large"
-ids="19478,19477,19476,19475,19474,19473,19472,19471,19470" orderby="rand"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40130825402_12e394976f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40130825402_12e394976f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39452293034_4af3001f61_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39452293034_4af3001f61_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_26290453788_faf376db9f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_26290453788_faf376db9f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39264512595_35677a8077_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39264512595_35677a8077_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40130842542_b890797461_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40130842542_b890797461_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40130844772_857dfe5479_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_25291592537_b47ff63d30_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_25291592537_b47ff63d30_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40130850192_3ea14a607a_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40130850192_3ea14a607a_z-1__l.jpg"}]}
+/>
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

@@ -31,7 +31,8 @@ date: 2014-05-21T11:40:35.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "8024"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1291__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_05_nine-inch-nails-citadel-music-festival-berlin-1291__l.jpg

@@ -50,7 +50,7 @@ Hummeln.
 
 Hier sind meine Eindrücke aus dem Loki Schmidt Garten
 
-[myflickr tag="annelokischmidtgarten2015"]
+<Gallery name="flickr/annelokischmidtgarten2015" />
 
 ## Wegweiser Loki Schmidt Garten1. Indian Summer
 

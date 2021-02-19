@@ -23,8 +23,7 @@ date: 2015-12-23T17:27:47.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "13583"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23219662686_1a7f4a8ede_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23219662686_1a7f4a8ede_z__l.jpg
@@ -39,7 +38,7 @@ subTitle: Das war 2015
   title="Mein Jahresrückblick 2015"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_22919389490_7c0fc91f99_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABjESIQcTQVGhFBUyQmGRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCLZnDTMdPchzUdKmXC2Cpny+pIJAUAoA0asX761bMw7GU3fimHQpLQjh1VJFqIvnVu8eY0ZeNayOQbaXmpIaDbqUFsobTYWkp6jdkiifbU1wW3fuWBkPMwHH5KYn1RkFSUttNtn8DZHNmyO/HbQVHevgojdrWLXhzHhpjNFLinFlKnCqiO4SbqvnRpW2ouZt1iQiBuTMQmnlJJYj9SkJUB37L459OdGg7XjspczPsRggqS1GBBbULBJujY7cam0bMy2WIOBKkRi55aVtpHWXADZ66PAs/1pm3fPkN56WpMQPpKySUOXVH+dR9zPof3M5lRbISaZASOB3tXvz/mgd91S5iXm04iIhy1uLcMUEgdRBSFE/t00a9ARo0j46c67FT5ryiU38mz86NB/9k=" />
 
 **Weil mir das Thema Weihnachten schon zu ausgelutscht war, habe ich mir was
 Anderes einfallen lassen, das natürlich vor mir noch nie jemand gemacht hat.**
@@ -85,13 +84,17 @@ unserer [Sri Lanka-Reise](/2015/09/unterwegs-in-sri-lanka/) haben wir zahlreiche
 Erfahrungen gemacht, tolle Menschen kennengelernt, interessante Orte für uns
 entdeckt und auch einige Überraschungen erlebt.
 
-[gallery size="medium" type="rectangular" link="none" ids="13558,13559,12114"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_16229193206_1d544761a0_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_16229193206_1d544761a0_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_16253246951_f51d446a33_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_16253246951_f51d446a33_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_16082601308_d57d61bb84_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_16082601308_d57d61bb84_z__l.jpg"}]}
+/>
 
 Wieder zu Hause angekommen, führte ich ein tolles
 [Interview](/2015/01/ich-hatte-noch-nie-heimweh/) mit einem Yakutsk- und
 Russland-Reisenden
 
-[gallery size="medium" type="rectangular" link="none" ids="9401,9397,9396"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-23__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-19__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-19__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-18__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_01_unbenannt-18__l.jpg"}]}
+/>
 
 ### Februar
 
@@ -100,7 +103,9 @@ nach Hamburg ein Bisschen los. Und wir planten nicht nur den
 [Relaunch](/2015/02/blog-relaunch-und-umzug-nach-hamburg/) für unsere Wohnung,
 sondern auch den für mein Blog.
 
-[gallery size="medium" type="rectangular" ids="9465,9460"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16427078811_31c1a4b20c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16427078811_31c1a4b20c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155320399_48821b3c11_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_02_16155320399_48821b3c11_z__l.jpg"}]}
+/>
 
 ### März
 
@@ -111,7 +116,9 @@ Politiker Matthias Omen aus Berlin. Wir besuchten außerdem ein legendäres
 [ultimative vegane Festivalliste](/2015/03/die-ultimative-vegane-festivalliste/)
 erblickte das Licht der Welt.
 
-[gallery size="medium" type="rectangular" ids="10844,10357,10323"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_03_11012011557__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_03_11012011557__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_03_14809262091_be6e2024da_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_03_14809262091_be6e2024da_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_03_16454954390_fab402aea4_z__l.jpg"}]}
+/>
 
 ### April
 
@@ -129,7 +136,9 @@ abgedruckt und ich führte ein
 [Interview](/2015/04/vegane-haekelmuetzen-mit-statement/) mit einer ganz
 besonderen Mützenerfinderin.
 
-[gallery size="medium" type="rectangular" ids="11848,10983,11345"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_04_Welt-Vegan-Magazin-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_04_Welt-Vegan-Magazin-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_04_WYOB-38__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_04_WYOB-38__l.jpg"}]}
+/>
 
 &nbsp;
 
@@ -142,7 +151,9 @@ haben einen tollen
 [zweiter Artikel](/2015/05/das-neue-welt-vegan-magazin-ist-da/) erschien im Welt
 Vegan Magazin.
 
-[gallery type="rectangular" size="medium" ids="11955,11967,11944"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_05_Welt-Vegan-Magazin-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_05_Welt-Vegan-Magazin-8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_05_18051831415_eacb0b396d_o__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_05_18051831415_eacb0b396d_o__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_05_17130880761_0e31d84d6b_z1__l.jpg"}]}
+/>
 
 ### Juni
 
@@ -152,7 +163,9 @@ Botanischen Garten namens [Planten un Blomen](/2015/06/planten-un-blomen/) in
 Hamburg und ein prächtiges
 [Blütenmeer im Alten Land](/2015/06/bluetenmeer-im-alten-land/) für mich bereit.
 
-[gallery size="medium" type="rectangular" ids="12022,12006,11982"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_06_18868417676_d995e43098_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_06_18868417676_d995e43098_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_06_vscocam-photo-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_06_17243939809_1505ac899d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_06_17243939809_1505ac899d_z__l.jpg"}]}
+/>
 
 ### Juli
 
@@ -164,7 +177,9 @@ und wir durften das unglaubliche
 [Faith No More Konzert](/2015/07/faith-no-more-live-sporthalle-hamburg-23-06-2015/)
 in der Hamburger Sporthalle miterleben.
 
-[gallery type="rectangular" size="medium" ids="12081,12356,12048"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_St.-Peter-Ording__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_St.-Peter-Ording__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__l.jpg"}]}
+/>
 
 ### August
 
@@ -179,7 +194,9 @@ von Ethice, Petra Mazur gemacht, eines mit
 und außerdem meine erste DIY-Anleitung für einen
 [rockigen Festivalrock](/2015/08/diy-upcycling-jeansrock/) veröffentlicht.
 
-[gallery type="rectangular" size="medium" ids="12397,12372,12311"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_20922701385_03b978826e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_20922701385_03b978826e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_20521813401_8f1989d2bb_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_08_20521813401_8f1989d2bb_z__l.jpg"}]}
+/>
 
 ### September
 
@@ -189,7 +206,9 @@ beliebter [#iseefaces-Artikel](/2015/09/iseefaces-gesichter-ueberall/) ist
 entstanden und ich habe eine
 [wunderschöne Handtasche](/2015/09/kleine-handtasche-zum-selbermachen/) genäht.
 
-[gallery type="rectangular" size="medium" ids="12690,12893,12865"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21028244308_562302f763_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21028244308_562302f763_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21646623190_c22bf62f88_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21646623190_c22bf62f88_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21002492109_2a16841f44_o__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_21002492109_2a16841f44_o__l.jpg"}]}
+/>
 
 ### Oktober
 
@@ -199,7 +218,9 @@ gesehen und im
 [Welt Vegan Magazin](/2015/10/die-fuenfte-ausgabe-vom-welt-vegan-magazin-ist-da/)
 sind gleich zwei Artikel aus meiner Feder erschienen.
 
-[gallery type="rectangular" size="medium" ids="12938,13392,13014"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_10_21871938825_8e2b1aa291_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_10_21871938825_8e2b1aa291_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23561677036_12d9f94bf1_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23561677036_12d9f94bf1_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__l.jpg"}]}
+/>
 
 ### November
 
@@ -214,8 +235,9 @@ bezaubernden Schmuckdesignerin Nina Jadzinski von Mad Yeti Creations gemacht und
 wir durften [Caspian](/2015/11/caspian-live-hafenklang-hamburg/) im Hafenklang
 in Hamburg live erleben.
 
-[gallery type="rectangular" size="medium"
-ids="13141,13127,13063,13074,13234,13049"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22554168824_3ddf60e4db_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22554168824_3ddf60e4db_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22692278410_58f37aa356_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22692278410_58f37aa356_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22717821986_0bfb81b7e0_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22717821986_0bfb81b7e0_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22547749049_b55cb368b4_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22547749049_b55cb368b4_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_12309244_1007811409286063_1031105298_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22696830462_70cedc18cc_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22696830462_70cedc18cc_z-1__l.jpg"}]}
+/>
 
 ### Dezember
 
@@ -225,7 +247,9 @@ Magazin für mich mit und ich berichtete über die
 des Deutschen Tierschutzbüros. Den krönenden Abschluss darf nun dieser
 farbenfrohe Jahresrückblick machen. Auf gehts nach 2016!
 
-[gallery size="medium" type="rectangular" ids="13337,13372,3337"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_jan_mit_kuerbis-366x366__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_jan_mit_kuerbis-366x366__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1028__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_nikon-1028__l.jpg"}]}
+/>
 
 PS: Ich habe nicht alle Artikel, die ich dieses Jahr in meinem Blog gepostet
 habe, hier im Jahresrückblick noch einmal verewigt, das hätte einfach den Rahmen

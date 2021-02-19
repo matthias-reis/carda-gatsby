@@ -41,7 +41,8 @@ date: 2014-08-12T13:46:59.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "8386"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_maxi-mumm-und-mini-v-l-n-r__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_maxi-mumm-und-mini-v-l-n-r__l.jpg
@@ -112,7 +113,7 @@ Katzen…
   title="Die Gackack-Gang"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_die-gackack-gang__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_die-gackack-gang__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAQMEBf/EACkQAAEDAwQBAwQDAAAAAAAAAAECAwQFBhEAEiExEwciQTJRYXEjkcH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACESEDE//aAAwDAQACEQMRAD8AWbMseZddpvVBmOhuazILaAtW3ygJBI+wxng/3rop3pyw1TaxVbrnopcCPHC4zocbWlxRySQQTkcAY7JI0tWRfdWtqoPeEl6DJc3yo6wSAcbdwx0vrj54B1VLSripdnT6nIt6LApcd7zx9xCmpCSCF4QrOME8HonrrWE7FblhkaoNvS7vuGHDgpUlUo5CtvsbTt3KUfwB8fnHzpour0+k0S1qNW6UG5cxLK1VFLCcoS2ojarYc7k7c5x9+uM6xW6/FiTZjdMLKFzGkqT4mAlRyCDtI6H6x8Y616Fo+qD1FpDERMYPuIQr2qwUAJGEgA/PQ7+ND5+newiwcYsWFEosy4oMWqP/AEqDwaaGEOrTk4WTnOccjA4GqF6q3p/HEpdOcCHCVqdcCcqKB9KQAOM6NGk3KOSWz5iSLqeV5UNtkhSF8IKfdgZUnA+2TrV5WsIaUpW9aiQspwSf85Iz+tGjVK1GAGs//9k=" />
 
 Zwischendurch kamen Hühner von "[Rettet Das Huhn](http://rettetdashuhn.de)" ,
 Hühner aus der Massentierhaltung. Alles was diese Tiere brauchten, war eine
@@ -184,7 +185,7 @@ mit uns arbeiten zu wollen.
   title="Agata"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_agata__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_agata__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhQVFhBgcTMRQiYnGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEBQb/xAAdEQACAwACAwAAAAAAAAAAAAABAgADEQQSBSIx/9oADAMBAAIRAxEAPwDYHqVVFliVVmj4KzKM5IYAB88ndxn61ltd7m0dRWzW+nt1xn+BgskzwqpiOSrbiCSeozkDzpjuXqiwyisIuNBIzKdwD4DgKAMjgZ/rGsgna3fg1FdaKho5qhgoXa37Drk/TYbn/NQEma5RkwkR6tHuvaaGnFJPT3ALBJt3mEfqqFcZAbuvTTdR+o7beKP57dURyoWZlK/xDbQR05WLjXMlejxOxfbndli3jqe41H9NXC4w3dY7fPJHvddyg8NyCc9uB96caRuwrZ7AZ9jcoX4iqkAKdxJ+x586iyq0UUNOkStBHlwUGHAJzjOeRnRo0xAnXX8avkL1cSir6SqkqXVY3VRzywPB8501e39PaLZNK90dfnlXAMkZITnkAjv30aNBl7LkgXxtNZ7Ddn//2Q==" />
 
 Zu den ehrenamtlichen Helfern kommen noch Spender und Sponsoren. Wir konnten
 drei Firmen gewinnen die uns hin und wieder mit Futterspenden unterstützen. Und
@@ -230,7 +231,7 @@ Lebensweise und Tierrecht. Gibt es noch mehr von Dir im Netz zu finden?
   title="Stefano Emo"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_stefano-emo__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_stefano-emo__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBgcF/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBBEhAAUSMUFhE1GBBjJCwXGR8f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECITFB/9oADAMBAAIRAxEAPwDSaWGKKKeV6dkYxkRsyD7hkfHv46aVt9RHLWGCfmoSQI8jKCGut7gDpntqRTVwppw9TLTEhbJzRYxzLDAHtjpfWfV+5STVW6QUFDNG1VKruZH5FAjXZFtm1za5z+54ybLPFto0uWMBZCwYRgcRg4/nOdQlkLSIomUSAEnkOSt8H921ShvtalPNHTTTh+d0laTkQoPa+P8AdWv6d3mbcKbjOEEq55gBVfGTbtpGoNF4MrYxX00cVVEbLIHV0JVhb8hnJGuK+1V1RWRz1FFIzrfm/qqhIuT57BfPXRo0WbnCVWUs0jPURxtG7m4p44FfibZZT/dvF76dsdHuNIwSGA+mxBdnQISl72t7+NGjRBD/2Q==" />
 
 **Johanna:** Ja, einiges, ich habe für das Online-Magazin
 [Tuckenalarm](http://www.tuckenalarm.com) einen Artikel geschrieben. Ich
@@ -264,7 +265,7 @@ zufolge auch Buddha gegangen ist.
   title="Shadi"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_shadi__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_shadi__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAHAAAAQMFAAAAAAAAAAAAAAAAAAEGCAIDBAUH/8QAKhAAAgIBAwMCBgMBAAAAAAAAAQIDBBEABSEGEjETUQcUIkFhcRYykbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAEQMEEiEiMf/aAAwDAQACEQMRAD8Axdk62Nh7B3RkhiUqAq57snnBx5GP+6clH5u/t9+hsyPa3e3CDSZVCgHPcCSeAuODqPXTm8RSSLXmQhyFXJI+rB1Jn4cb3a/jwijtwVLvzCmSOZOSmMAL91JB8/vGlC8oXU19jqH5GpWtb56ezSJIKsiWSMtMv9uF8gD3/Gl3aWjuFmU7XLE8cky8o+MePuPA4Jz+dXer6FSP4gbfvfUe3TWNjjrii00TBY0klOA3bnuZee0k5Pg+Bpp2OmaS3bc0W9Sh0f068daTtd1X3bzjwP1qbY6lAbkeNml9K1HIM96MGVwOQQeDrq20dVWK1OR6lplM8haSV8GTIADZzznGOP8ANGjTH7NGqqs3oXHBQ6mg3FozZtMYg31IYu1gvv5wR7/cap3cQPfdFaOWszEoyyEPGAMgZ86NGhe6uaNnGMYLKaqf/9k=" />
 
 Meine Frau teilt den Weg mit mir. Jedoch geht sie ihn leiser und bedachter als
 ich. Shaya wird buddhistisch erzogen, das bedeutet zunächst einmal, dass sie
@@ -426,7 +427,7 @@ tierversuchsfreien DM-Hausmarke.
   title="Katzenmutter Bommel mit ihren Babies"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bommel-mit-ihren-babies__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_bommel-mit-ihren-babies__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAuEAACAQMCBAMHBQAAAAAAAAABAgMEBREABgcSITETFEEVIjI0UWFxQlKBgpH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHREAAgIDAAMAAAAAAAAAAAAAAQIAEQMSIRNBkf/aAAwDAQACEQMRAD8AyWmxROFe/XqlsqP8McyF5SPqVyAo/Jz9tdO68Poae1PcFv61wHvKtNByKU/fzMewHU6je/dv3Db17b27fIJb1yePJR07tI8DHOAz9RkevUka0WxN374tdcsNRJSbaooQtZUSSkU4wB1Yt3JIGcfD3xpYxgDojXazyVE8LNyVNriuFpgp5w6c4gqpgkg/qOhPrgkaiNdS3G07gqaO80s9HXRseaKZCjfkA9x9x01Srxu/deyK2l2rQKtdVU8CMlVT80geJwCjArksB25iPtgY1UPa9v4icOaqHcFn83dKOFnSOTCTwsRjnR/04IJ+hA6jQlVPIYzPQvoEUKThhYxWpcLq9RcLiW8SWSR8JK5OSxX6Z9M412Wst0hr6hrbd4YKCpBjlpHgLp4ZwSoQELkkDqR2GNGjVTKJv+DHWuvIwbdWko7Bu26RU/mJigt6tK3O8pRMKGJ9Azf4NIfD6iqKW33jzssskNfST0bzOvy7sp98dsrnvjt/OjRpQUEiSpgRxkse6+VP/9k=" />
 
 **Johanna:** Nur in Ausnahmesituationen. Momentan ist so eine Ausnahmesituation.
 Wir haben im Mai eine trächtige Katze aufgenommen, die am 2. Juli 6 Welpen

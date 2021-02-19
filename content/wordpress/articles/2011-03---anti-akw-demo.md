@@ -82,8 +82,7 @@ date: 2011-03-27T08:52:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "853"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__l.jpg
@@ -106,7 +105,7 @@ eingeliefert.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMEEQAFIRIiMRNBYQZRFCZScaHB4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAIE/8QAIhEAAQMDBAMBAAAAAAAAAAAAAQACEQMSITFBYfAEE7HB/9oADAMBAAIRAxEAPwBF2iYXrliN4a8qxFlbMHQVKnHB9+dOVSHaa9SvItGA2OgGwFkmLK2e5QF44GNJX0/QlpbrdtCSCX8V1BUWcZGX6v8ANVWH1W2iqpYxMY8dIbPPn29xoNFrbyI2V3lxaI1lZMFuvWaMxUEMbN0yLFtshJwOSS/gdwwfg6RfWDbZK6tbESsVIV43BP7448DOqcNwq0ooYrd1OuxKyRs7E9Xxn+/GpFum/VqkctZJIVjZjyzdzH45+NGqM9hAByNe/FKTHCZGF01rf5gqQVIKdKaN/WdoE6cDhApLH9RJ7f5002N+vxzwRQXakaEs6CVA5lIBYoWJ7T9jo0aS3Gl5EMxt+rTAtzssn6m3eve2unWumGWtLKRKka5KA92cqMr7ZweQdS+5ttf1cV60jN564mcqcj5Gfvo0ad0Wwy85M97wEAklxHC//9k=" />
 
 [](/wp-content/uploads/2011/03/p7270040.jpg) ## Es ist mit dem Schlimmsten zu
 rechnen
@@ -127,7 +126,8 @@ unvorstellbar ist.
 Mehr über die Demos gibt's bei
 [Campact](http://blog.campact.de/2011/03/250-000-fordern-abschalten/).
 
-[gallery type="rectangular"
-ids="859,858,857,856,855,854,853,852,851,850,849,848,847,846,845,844"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270065__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270065__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270064__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270064__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270062__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270062__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270049__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270049__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270045__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270045__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270043__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270043__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270040__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270036__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270036__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270035__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270035__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270033__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270033__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270029__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270029__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270023__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270023__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270016__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270016__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270010__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270010__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270008__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270008__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270005__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_03_p7270005__l.jpg"}]}
+/>
 
   

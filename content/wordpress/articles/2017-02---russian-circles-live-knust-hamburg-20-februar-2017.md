@@ -49,7 +49,7 @@ Punk-Schuppen war sehr gemischt, was den Abend besonders interessant machte.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_33033221775_fbbf17d9c7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_33033221775_fbbf17d9c7_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHBAgJ/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAAGEQUSIRNBUSIxYQcUI0KBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwCnfWC6dHtq22pFxaG8/Jfd+2ZjMuoIUrbuJ3/qAB4z8VrzZmhSLi1LVNWdYDENxeG2upuAJIISB4SnvjvS/d92z9Whw2prpkobfLqFLJPsMY58g03fTae6000iA024lxfrK3CAMfsrg4HPt5ziqTiBKlXsawUyHkqcbAQME5FVxFtaShCUfZtnaMZI96EWHMSzBaZecDrm31upTtSonngHnFN3Vb7LT/dStNi1lXpzhcjqkaIuYnJENxPVA7JWcAnxzgfzTlpiJVrGI+8tvqPsoeejIVyhC0hSN3bJSQfjNI6YEtaokRokiY6GkgKxvxg8jxnFPWoW4/E0CdKlSUh+O0HOkMryAQOVfApWcpqk/YWrSLwMWGgZCUlI7jj/AGiwvsAAdRNRFqMw9o0WdCkrdbcQN/qH41geoEfFYDE5LjDbgLwCkhWMeRSZL6f/2Q==" />
 
 Cloakroom, die als Opener spielten, das muss ich an dieser Stelle leider sagen,
 sind  für mich die schlechteste Band, die ich jemals live gesehen habe. Sorry,
@@ -79,7 +79,7 @@ Fremdschäm-Applaus, war es endlich soweit und Brian Cook (Bass), Dave Turncrant
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32877461962_1cd8da421f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32877461962_1cd8da421f_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QAKxAAAgEDBAEBCQADAAAAAAAAAQIDBAURAAYSITFxBxMUIjJBUYHBYdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQBAgUG/8QAIhEAAQIGAgMBAAAAAAAAAAAAAQACAwQREiExgZEFQWFx/9oADAMBAAIRAxEAPwDFbHaairaKKkgeWonZY4o0XLO5OAo9TjR6fZrv7Un2bLXRiRaxaMVarleTLkdZ8cjj/saZEt81q2GldDypKueIx+8lUo8MTkI8oHn6GJB/BJ0gU9F8HeEhgrIoXppiEqkPFVKsCsgPkeM66ozjITGNDa7P7sDgb+qpYVCloalurUdzjmp3glMVSqjLoVbDjB6JGD199agnsS3LMiy0DWippHHKGcVJX3qHtWwVyMjBx/nVHcvK/wB3N8kihp5q0qZUQ/W4ABfx0Djz5Oh8tXLTyvDFWVSRxsUVRO4AA6AAzoM0+HfhtK5yD767Qy2IQKGh7VrdsojscNDt+NqUfDQSSxKeTBPdKWyfyR8zY/ONCrbtSvn2fV3qGICCnZQWA7xnHP0DYB9dBLZWsq5JOWh4k5+rriT/AD9a6c2JdtpW72f0Vtrp45I57Wy1cRXtnZiWX1PI49BrL8lEdcxoOqJgFIU15gjs1lqqWZKcVlKplTIUd5DozY6HIEZOkyTdsVTI052rYsykv2DnvvSzcZzTzyUTPI8ETtxwcHBPn+/vS+1VFyPyS+fuy/605aJpgiRTnlRdRf/Z" />
 
 Wie wir es von Ihnen gewohnt sind und nicht anders erwartet hatten, spielten sie
 mal wieder alles vorher dagewesene an die Wand und schossen das Publikum mit
@@ -101,7 +101,7 @@ als sie nach einer grandiosen Zugabe das Gebäude in Richtung Aarhus verließen.
 Ich freue mich schon sehr drauf, Russian Circles baldmöglichst wieder zu sehen.
 Ein Bisschen hoffe ich ja noch darauf, dass sie sich beim Dunk Festival blicken
 
-[myflickr tag="russiancircles2017knustanne"]
+<Gallery name="flickr/russiancircles2017knustanne" />
 
 Russian Circles live @ Kranhalle München November 2013
 [findet Ihr hier](/2013/11/russian-circles-live-kranhalle-munchen/).

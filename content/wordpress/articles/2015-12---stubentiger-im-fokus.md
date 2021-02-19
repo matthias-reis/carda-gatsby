@@ -45,7 +45,7 @@ Weil die beiden Stubentiger so toll posiert haben, habe ich [<sup>2</sup>](#2)
 auch gleich ein paar Bilder gemacht, auch wenn das Licht nicht ganz so toll war,
 ist dabei doch eine kleine Galerie entstanden, die ich hier mit Euch teile.
 
-[myflickr tag="anneoskarchili20151209"]
+<Gallery name="flickr/anneoskarchili20151209" />
 
 > Das Leben und dazu ein Stubentiger, das gibt eine unglaubliche Summe (Frei
 > nach Rainer-Maria Rilke)-

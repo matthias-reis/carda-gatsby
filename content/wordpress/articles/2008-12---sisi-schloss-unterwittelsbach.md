@@ -26,8 +26,7 @@ date: 2008-12-26T14:49:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11013"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC260044__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC260044__l.jpg
@@ -42,7 +41,8 @@ Ungarn. Sie verbrachte dort etliche Sommertage ihrer Kindheit. Ihr Vater nannte
 das Schlösschen liebevoll seine "Burg". Bekannt ist uns Sisi durch die berühmte
 Filmtrilogie "Sissi", die in den 50er-Jahren mit Romi Schneider verfilmt wurde.
 
-[gallery type="rectangular" size="medium"
-ids="11007,11008,11009,11010,11011,11012,11013"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260038__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260038__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260039__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260039__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260040__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260040__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260041__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260041__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260042__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260042__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260043__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260043__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260044__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC260044__l.jpg"}]}
+/>
 
   

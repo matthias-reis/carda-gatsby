@@ -63,7 +63,8 @@ der B-Seite von 'I´m Shakin''" size="full" title=""Blues On Two Trees" von Jack
 White erscheint auf der B-Seite von 'I´m Shakin''"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_10_51gysednnl-_sl500_aa240___l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBBAYD/8QALBAAAgEDBAAFAgcBAAAAAAAAAQIDBAURAAYSIQcTFDFBUYEIFRYkMmFxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAgT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQSITFBwfD/2gAMAwEAAhEDEQA/AAn4b7HBJTXa+TwQVEvJaOAOf4Y4uzHo+4wBj+9W/F+Xa1ZUPT/la1d+iCNFHC7sVTmpdW4jADKGGWOVyMax3hLcLlF6OkskVweb1fKcCb9t5bYHJk6yQARnv7aPJY5r/urdlDR3F6adqiTBI5YRWAxn+v8AvxpIMBHKCfKWSX97WLqdx7FWSZIPD+WIqjqnm3WRyr5TBYdAgcW66/lqN5/p2ms1FJQ2GKlmuduimgaKVz6eUS5diWJDAphcAdHvOg2+9rT7WvHpZZlqI5FykyjGT8gj6657pQLbduniQ7UIJJiCchkAHp2LDo9kL7e2O9R0q7SDZdwCOk4/AdaOu8OrvS1B8stLJDPKG4ssZTo5+McmP31RtE9kot0JWbesNxRiCiTs2IzkcWk4s2SCMdn/AHS48M94naF6kkqEaW21aeVVRjsgfDgfJH0+QTp07s3btu2iULTNV18iBirIy5GOvoBq8ZBReS1zHGvKV/ihKamvaKYgyxuG6ORg6W+BzYj2JzrTXutq7zcJZzEDI+W8uFekQDPX+D50DraSWlEJmjZOcayDI91YZB++sy8m104g0ZqSv//Z"
+/>
 
 Das Lied nennt sich "Blues On Two Trees" und entstammt der B-Seite der Single
 "I´m Shakin''. Ein schönes Stück Musik, das es zu ähnlichem Ruhm bringen könnte

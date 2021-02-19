@@ -56,6 +56,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Unexpected token (17:65)"
 thumbnailId: "3118"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__m.jpg
@@ -85,7 +86,8 @@ vielleicht kann ich dann dieses Jahr auch etwas mehr an Text mitbringen.
 1992"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9291__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9291__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMFAgQH/8QAJxAAAgEEAgEDBAMAAAAAAAAAAQMCAAQRIQUSMRNBkRQiQnFSYbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAYEQEBAQEBAAAAAAAAAAAAAAABABFBAv/aAAwDAQACEQMRAD8A6BbJNu5vdq5LIiIRK9xwNknO8ndKu2DvgfcD7a1v90pN1dM5K6VK0aq3Vjq6RGHZ/jvwPmtC4vVG/nZB0vqYJDzDGR0MjEHPjyDqgmWorXHsVFsVjAkckAAbqdy7Jr4m+aiEIuWosgZREskb38U511AGRlOIEfJz43UhHInkbznOPK4wjbEIjOMifU7q7H20QTgj9VLr2eQHbPh5Pa/kb175M9S5YlS8YClqkYiOvJJyScZ2B7VLZYBPN8lyEWzJfapR6Z8RETM5B/uiilU53H2txZTtpqJTPr3BkT26yEv9FNs7VNs1s7ZYXNzJNYR+cz5J+B8UUUCjmX//2Q=="
+/>
 
 Sehr interessant, mit was man sich noch vor ein paar Jahren beschäftigt hat. "In
 Textverarbeitung wäre ich heute beinahe verzweifelt." Ein Eintrag von 1996, ein
@@ -121,7 +123,8 @@ in der Olympiahalle, die Eintrittskarte besitze ich heute noch.
 1997"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_img_9296__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EACoQAAIBAwMCBQQDAAAAAAAAAAECAwAEEQUSMSFBEyJRYXEUIzJSgZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAgAEBwAAAAAAAAAAAAABAgARAwQFEiEiMUFhwfD/2gAMAwEAAhEDEQA/AOo6zqrQ3Rjht5H2sUJHGcj0+f8AKrrvVjCgM0PhE46ODz8+1Leu7ahcG2lZB477/tFgWGOme3p703JKrxeI9vJL5sYYMgHTnBJpcxsmFcw7yM2pxygSRh2Gdp2ocZ7jOKcjMYkeRZJCXHDMSB8DgVT3rzRQMEs59xbduRhkjsD0/im7S8lZwk0LQjkbjnvUYblDUvvsTRGTnp3BrNalLFLe3VwySh4CuQsgAbgfrkf3RRQmlKDuvx7hOcYrVfdJRavDb6nLc3sn1KFyMoswx+J48vtU7TNFhtWaSKWUtIBnec4GQfaiimDoAeEwR2n/2Q=="
+/>
 
 Morgen geht es nach England, eine Station wird unter anderen auch Tintagel sein.
 Dort war ich auch zu dieser Zeit schon mit meinen Eltern. Ich bin gespannt, ob

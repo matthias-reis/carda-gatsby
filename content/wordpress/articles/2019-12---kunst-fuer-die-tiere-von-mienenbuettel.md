@@ -64,7 +64,7 @@ Kreativität in den Dienst der Tiere zu stellen. Sie wollte den Lebewesen, die
 sich im Dunkeln von Schlachthöfen, Versuchslaboren und Farmen befinden ein
 Gesicht geben.
 
-[glry name="1-denise"]
+<Gallery name="glry1-denise" />
 
 Die Schönheit und das Leid dieser Tiere stehen im Mittelpunkt Ihrer Bilder.
 Farben sind ihr beim Malen besonders wichtig.
@@ -104,7 +104,7 @@ Die Menschen, die auf den Bildern zu sehen sind, sind auf der Seite der Tiere.
 Sie sind entsetzt und befreien ihre Mitlebewesen. Auf einigen Bildern richtet
 sich auch die Empathie der Tiere auf die Menschen.
 
-[glry name="2-denise"]
+<Gallery name="glry2-denise" />
 
 Denise [<sup>1</sup>](#1) vor hat noch zahlreiche weitere Projekte. So erstellte
 sie im Oktober 2018 das Buch "Paul, ein Botschafter der Rinder" über Paul, der

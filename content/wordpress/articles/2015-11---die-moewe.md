@@ -44,7 +44,7 @@ jungen, neugierigen Möwe begegnete. Als ausgesprochener Fan dieser Gattung,
 musste ich sie natürlich eine Zeitlang beobachten. Dabei sind diese Bilder
 entstanden.
 
-[myflickr tag="annemoewekiel2015"]
+<Gallery name="flickr/annemoewekiel2015" />
 
 _Eine neugierkranke Möwe,_ _kreiste ich zu häupten eines_ _Wesens, das in einen
 weiten_ _dunklen Mantel eingewickelt,_ _von dem Kopfe einer Bune_ _auf die grüne

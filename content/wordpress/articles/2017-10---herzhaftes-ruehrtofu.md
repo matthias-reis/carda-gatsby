@@ -30,8 +30,7 @@ date: 2017-10-15T03:00:42.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "8950"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-109__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-109__l.jpg
@@ -83,7 +82,8 @@ Guten Appetit!
 
 Kussi Anne &lt;3
 
-[gallery type="rectangular" link="none"
-ids="8944,8945,8946,8947,8948,8949,8953,8951,8952"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-103__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-103__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-104__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-104__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-105__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-105__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-106__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-106__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-107__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-107__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-108__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-108__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-112__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-112__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-110__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-110__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-111__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_rc3bchrtofu-111__l.jpg"}]}
+/>
 
   

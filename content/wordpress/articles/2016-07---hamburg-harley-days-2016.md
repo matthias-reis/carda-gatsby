@@ -49,7 +49,7 @@ Nun gibts erstmal ein paar Bilder von den Hamburg Harley Days. Die fanden
 übrigens vom 24. bis zum 26. Juni statt, die große Parade wurde am 26.
 zelebriert.
 
-[myflickr tag="anneharleydays2016"]
+<Gallery name="flickr/anneharleydays2016" />
 
 ## Wegweiser Harley Days
 

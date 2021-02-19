@@ -64,7 +64,7 @@ Plastik-Schnullis in den 90ern und die Bubble Tea Läden vor ein paar Jahren.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40177327564_3ccc4b1aa8_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40177327564_3ccc4b1aa8_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QALBAAAQMDAwEHBAMAAAAAAAAAAQIDBAAFEQYSITEHExQVIkFRI2FxkVKh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EAB0RAAICAwADAAAAAAAAAAAAAAECAAMREiExUWH/2gAMAwEAAhEDEQA/AMBhNqCXkNJJfVJIQAPirkNE3GTo/wA8ku5jQnW2AHF4I3qHQe4PH6+Ke0Ho1N4luvqucaBIbCn20vDKVjlWAf5Z4wakL1qM3q0QojUJUGHAShjuXT9RbxwFKXjggFStoPQfnFAb3a5VXxkS1a+ZM49o8EQJEf047x148H7p/wBopvtzfDMy2IG3OXyf2iit67AcxLcBzIrTc5UNduLZ2iQyrqcDjg/jqKlYduVqq4xiyfDxVSFpedxuXlrkcDqT0z74+1Z5YrrFHcs3JlMtLYLbTagcJ5BJznjOAKtuq78WdJMt2Y+WMKlrakR4jhSlaQVABR6qHvzxzWDqdhjh9w1fnyNdqjlhTd2U3KRcJMsbtxCtiQPTjaACMUVnGu53ibkyoHOGgP6FFX2NqxGSYFpOx7P/2Q==" />
 
 So sehr ich diesen Self Made Menschen und "Entrepreneurs", wie sie sich gerne
 selbst nennen, ihren Ruhm und ihr Geld, gönne: Das war es nicht, worauf es
@@ -127,7 +127,7 @@ und schon kann man auf einer stylischen Page losbloggen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39075612200_8d3ee67247_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39075612200_8d3ee67247_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QALxAAAgEDAwICCAcAAAAAAAAAAQIDBAURAAYhEjFBYQcTFCIjUXGBcpGhorHB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxEEEhMhImFx/9oADAMBAAIRAxEAPwDFBP7BbJViHxqiJIFwORlTk/u06bJs1JSzWpbjbjKZ+JXIHUrNnA5IIPbtpQqrVJcmgp4AR265D2QYA589btSbcqrHBZ7xOi1SRzRxQ4bPrCFILsfAePzzxpGs3vcEX4I6tBnuc576pjBuO4QjOUqpV578Hp/rRq6utGLluK5lSSFkZs/id/8ANGl20lnJh3XyMnWOUvcaaJ36YnkXKj+T+Wtk2rd5r7toJJLh5i7xAH3VdWKK2PoB9Rrnq3XBYIKuobl1ULF5OTwft3+2m/0c3qSiq0VpmMAwApY4HB7fLsdE5Dyb/eYhHkPa56rldzUDEgZEYHwYdRP6nRqptlyWO43eUnAlq3I58zo1QW0EZhi3c//Z" />
 
 Früher bedeutete es echte Frickelei, wenn man einen Blog starten wollte. Man
 probierte rum, machte Fehler, probierte sich aus, testete Funktionen aus und

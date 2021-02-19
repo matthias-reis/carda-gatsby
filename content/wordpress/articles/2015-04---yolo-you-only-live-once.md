@@ -50,7 +50,7 @@ das hier nicht näher erläutern) gewonnen hat.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_08b3db396a497d4d96d412a89fb128dc15d3c64c082de4c8759c4ac84161b4ef__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABsDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFBAj/xAAoEAACAQMDAgcBAQEAAAAAAAABAgMEBREGEiEAMQcTFCJBUWFxkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIRYf/aAAwDAQACEQMRAD8AKPCigkrbBeo2pDPTSzRIQwBjZgrHDfzg/nxg9LNDpbRYtK0k2mqGnlQKDIwMjbgzM3uYk45C8nsPwdU1s0xRx6Wsdltc6U+yghVaiBSV814w5kYAjcWJJzn/AJx1w3m3E2+R6CUXipij2PDTDc+VzuOVPHIPf3ZPbqaoqR3sIeIXhxVrerrdLA1qktU9U8tPSwVCxSRRs2QojfGQuce3Pbo9q7PcqSoeCooKlZFxkCMsORkcjj56eam3V81wT0lP5U44PmrtGDwefr9/nQ14iF6PW13pIppttNN6clsglkAUn/QetZ0sns66Pnuk+itM316yaiqJofSFlbh1iJjRyGBxlVHOO6560FvlfboJaQI1TCGaZ5MLHJKWYkh9hO7v3zz9dRPhvqBr7oWW03WrttLHa4ykM09UImkTBYIEI5YZIBHfsfs6FPY2TzTDqbT8qpS+qVfUhyw27vLHB9/xjjnqes670kTnGsLRVJWRrVzoYY4XLyMwONuORz98dTeqKLS93vtTcLtb45q2o2PI+8jd7BjsfrHWlV0M9NRSSXO/2taaBmUET4B2lhuQAYYHbkEd9w68/anv9Rdb7V1lKjw07kCJCuSEVQq5/SACf704yxf/2Q==" />
 
 ## Was bedeutet denn nun #YOLO?Wo genau das Wort seinen Ursprung hat, lässt sich heute nicht mehr ermitteln. Verbreitet hat es sich primär über das Internet. #YOLO ist eine Abkürzung und bedeutet so viel wie "You only live once" - "Man lebt nur einmal".
 
@@ -73,7 +73,7 @@ gar nicht so schlecht. Behaupte ich jetzt einfach mal so.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_lolcat_yolo_by_nothguy-d5xpidr__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_lolcat_yolo_by_nothguy-d5xpidr__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBwEDCP/EACgQAAEDBAICAQMFAAAAAAAAAAECAwQABRESBiETMUEUUWEiNFJxgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAP/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAyExQf/aAAwDAQACEQMRAD8A0WxMRt5K537cA7HYJ7x12evdNYLDdqYjz7rLj/QTWHSESIbakoUhRSdXNyTqCcnA7IpFeLZcXbW8iGnEpOHGjjI2SQRnPRHX9VZXBLjxnkPHyOSeKKpCQy5bZEdLKY60DCy2QMkK7OQe/wDKz5G27Vlt7CdSsl8/4tJY8Lk59tKSAC3ZlAqCdtewc95Hv7/ilieU26aXG7exPlPBOwSmKpAI/lsrACfyagzLXGlKdksSLbFEiQ6Wm330t4R5CE4B79Y+Kg221y7g0qBMmykxoyQ0pltQT5kbE6FXvXOeqKcyuRVWv3qdLosLAOH0hw59bGlfMeLQpTDTTimWfLlLQDJUWhj9Wpz7IGMn4OOqKKaD7J9TyLbNx+3JDbceLGcc0Ul1bjAUVpTkEHb4xrgfY1hvikCPJffbSWQpsICEjKUAHIHZ+PVFFDU2Isz/2Q==" />
 
 ## #YOLO ruft zum Freisein aufEinfach mal frei sein. Das tun und lassen, was in diesem einen Moment Spaß macht, ohne über die Konsequenzen nachzudenken, oder darüber, ob es vielleicht unvernünftig sein könnte.
 
@@ -120,7 +120,7 @@ bewirken.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_John-Lennon-in-sketch-by-Julianaa27__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_John-Lennon-in-sketch-by-Julianaa27__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcABAUD/8QALBAAAgEDBAECBQQDAAAAAAAAAQIDBAURAAYSITEHYRMiMkFRFBVScXKBkf/EABcBAQADAAAAAAAAAAAAAAAAAAABAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AfF/uc1tjpko7dVXKqnk4pBTFVIUfU5LEAKOs/wBjQ9tn1Ett93BUWRqWqpbhByzzw0Z4+QW6Kn2I7+xOiS72Cgu4mS5Uz1dLURrFNC0jccA5BABGPwcecDOcaqWXZthsdRAbFa6eh+ExdnjU5YcWHFixJP1E/wCtWZg7dXqX+g3DU2OzWiS4V0DorSvJwhPJQ2AwBJbB8AHwdXtkbsk3MldBXW5rfcaIr8WISc0YN4KkgH+wQNZNz2zYav1J3Ml0paetpquCOSpgbJMRdEHxPlPJc8F7x/zWhsjYll2xXVlfZEaNKjI4pMxTHQC8c4wveP8AI6Bnoeu9cq81SwB6JYWZWy6zcgGTByAR4bx2QR7aiOAPOs662miuLO85qRIyquYqyeHxnHSOv50SWewr7V3P1Rvxulq/aquSIkROcu64QL83XJcJ1gfc6ZE/ELxUAD8AY0G0fpzbqfd8W4aqpqJKmnJaGJaqodS385DLI5Y+wwPY6LJn7OkH/9k=" />
 
 Das Slangwort soll übrigens laut der freien Enzyklopädie seit Ende 2011 fester
 Bestandteil der Jugendkultur sein. Ich meine, es schon früher gelesen bzw.

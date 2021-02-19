@@ -42,7 +42,7 @@ subTitle: Wanderung am Pfingstmontag
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26506130043_84ea04dd6d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_26506130043_84ea04dd6d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAQQFCP/EACkQAAIBAwMCBgIDAAAAAAAAAAECAwQFEQASIQYxExQiQVFhI3EyUoH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAQMEBf/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMREiEEMf/aAAwDAQACEQMRAD8A1ehKSmSe2w3Gog2SHbTHeHRnPbH9TwT9f7qmXOC2Wm1Pca6dmo0XLPTRhyDnGMEjPJGvN97qK+zvZJ3R5BC7uIpGzucAHnHfgn96fbpb2qOlTJFUslCsiTvDHNlmXI9QUHB7juRwD8aNXsetdUHDmZLPOjHLfZnr/q2lWppqGyyyqrIJZHcGJ1JGQvB4I/fvo1Ib8txluEzmJVTcNp3gen20arey2w7M0a1qowBG27ym/wBqeOmkZ6ymqYIUfcOC7qpcY/kO6nI4OdMtRX01JV+AIIknWTwXQjaykcbTjH0NS/pa8tYbolYGZvDBjCA7dw5OPfHIGqyt1tfV1seTzHl6lOI6qYDcMYwsmM+k5A3A8Z+Nc+2jgAMnXI5Oddnpig/HR09SvpEgYMQfbOfo/OdGki7UdTBUhpaqJnpX2yqsYIY59iODjRoirnewgGf/2Q==" />
 
 **Am Pfingstmontag haben wir ein paar wunderschöne Stunden im Naturschutzgebiet
 Boberger Niederung verbracht. Unsere Wanderung führte uns durch das komplette
@@ -67,7 +67,7 @@ Die haben sich aber schnell wieder verzogen.
 Mehr über die Boberger Niederung und ihre Besonderheiten erfahrt Ihr im
 Anschluss an meine Fotos.
 
-[myflickr tag="annebobergerniederung52016"]
+<Gallery name="flickr/annebobergerniederung52016" />
 
 Zwischen den Hamburger Stadtteilen Billwerder und Lohbrügge liegt das
 Naherholungsgebiet Boberger Niederung. 1991 wurde die Landschaft unter

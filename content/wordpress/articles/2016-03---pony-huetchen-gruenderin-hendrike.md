@@ -29,8 +29,7 @@ date: 2016-03-14T12:13:59.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "14284"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Header-Ponyhu%CC%88tchen__l.jpg
@@ -45,7 +44,7 @@ subTitle: „Für eine nachhaltige Zukunft müssen wir tun, was uns möglich ist
   title="Hendrike von Pony Hütchen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11781613_662141737220093_5706785569758475977_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_11781613_662141737220093_5706785569758475977_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcBBgMECP/EACsQAAEDAgUEAQMFAAAAAAAAAAECAwQFEQAGEiExEyJBUSMHYXEUMkKBof/EABgBAQADAQAAAAAAAAAAAAAAAAMABAUG/8QAHhEBAAEEAgMAAAAAAAAAAAAAAQIAERIhAzEEE1H/2gAMAwEAAhEDEQA/AGZLkaFBRGwP+YrVKezBR6o5HgwYc+GXSpb7jnTKUEdtudwkAWIt684LQWpGYHUNwNHcjWpSjZKBwbn87WxkrtNk5XaamuSEyy/8TraUFKdIHIPPn14xzqNsrVr8aZYfa0cxUioVapLlyqwBAjXvEaaSQUab76gdz7HjziKPS20UygBt91lmnuqfDKFdq9SFABXu2q+A1UrTyKW8VdOz6QhJMrrvPHgJSBYAW52GLazQaiqiw5MBTUhDrKHOmDpUm44F9jbEhk0nNHCINLLLmbJtErjP6aSltoFa3EOK7HUW3SoH7gWPIJw3a5UTXskoqUOOpT0ZTUl2Ok6ldMjv07XPaSobX7eMcxtr6tXjmS4AHFWSm9t7XG5Iw+/pFWI6JD8FuYhYDS0oClpB+JexG9yCld74s8ha0XpoDcWZ2VXunDcVHeolNbkVOoXTHSk73NgSq37QPJ+2G1WarDyzRGgbq6aEsMJH81AWH9efxgTmPOmX8tNOrdkRA/Y/FGCVOrPrSn7+7DCszDmk5hVHq0hJjxENkttuLHaCd9Xi+w4wQes1tpo38uYS1E3X/9k=" />
 
 **Pony Hütchen steht für vegane, handgemachte Kosmetikprodukte ohne schädliche
 Inhaltsstoffe. Unter Veganern hat sich die Marke längst einen Namen gemacht.
@@ -75,7 +74,7 @@ natürlich dazu.
   title="Hendrike bei der Kosmetikherstellung"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_480447_10151472274868907_1763719173_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_480447_10151472274868907_1763719173_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYE/8QAKhAAAQMCBQQCAQUAAAAAAAAAAQIDBAURAAYSEyEHFDFBUWEicYGRofH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBgECAwX/xAAlEQABAwIFBAMAAAAAAAAAAAABAAIDBBEFEiExURNBYZHB0eH/2gAMAwEAAhEDEQA/AEs73MxLUlLAQmK2hncYb0pSQTpJI4Cj/dsaTJS5DOYk1h8oVIbJc3HUE2WogA8Dg/H3imnTGme5jUt+WKW6pCy2+oJKyBwVAcXBJt9YZfTRhubRJqn2VLjuzGGLJRq3EDhYt74Vf/MctkZecqdMTkZS0rpA3gAd7Ej99Je51iyJNWS8iEpLe2GwttkhC9PFwfZ+T84MbTNinqXmGTGp0iW6yUpcSFI2ghJuAE2sFcJ84MbiDkpdGPmEdMRggeT9K56DRlpo5zBHy5JeWxrhvTEvJLL2pYOvaUDbbsNRHrwDjaRo1Li1uo0ilyIQmMtBQiM2QpCnBqJSjyT+Vxa4/Txien8iBQsrvU6h0vtoslS30x5U5Sm1k6Rysi4JCRe2Op/KOVq0iLnDNEGYzVA47Z6NJebcaCVq0BKW7HgX5H8kWwSW5HlvCF6r6poeLkutbe/jQ6pT9S80sKdpkWr1SJIcjMltvZPCEiw0nQfNwfNvVsGGHAyV0mYY7oU1hyJLJWy47KlKWu3CrkE+/wB/N8GJJcTcFXjw6otpETv2dz8bL//Z" />
 
 **Anne:** Pony Hütchen. Was für ein toller Name. Wie bist Du darauf gekommen?
 
@@ -110,7 +109,7 @@ etwas an ihren Produktionsgewohnheiten zu ändern?
   title="Hendrike am Pony Hütchen Messestand"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_12249690_10153255169378907_3522408955063816251_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_12249690_10153255169378907_3522408955063816251_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQcI/8QALRAAAgEDAwIDBwUAAAAAAAAAAQIDBAURABIhEzEGIkEHFBUyUWGBIyQzQnH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAGhEBAQEBAAMAAAAAAAAAAAAAAREAAhIhMf/aAAwDAQACEQMRAD8A3iG2W9bpTvLQ07SjOGMYJHGmHaqSxKoCjDcAY+mueLl7R6rwcLNUVXWucU1Z0pfd0RY9pHKqcAtIOO+ByOeeNpudxWooG2SCESUxljkdgmAdh5J7EZ51kiFcuuEmsZLlDKkghfLK+3ynOR6Hj01R+IIJ28PyU1IssLTNtDJkEliSef8AdL1ypWntqR2+6zdZpEad4a4YHHPnBA5/HbQ5rNLT0FW8dVUt1NqOwrHlwM9z5jjU+XqZnEfuVb3SmitFvqXss1de6OWG5rbWgHlhRiJCrsD587Tn7ADvqXYL+8xEFbRVLxR07ncjDJUsTtIYfNlj6/17adLfSwQbJ7T13eP+OOWTcgyMg5bnuSQR66JVwVtc/wC6hkVp3MccohVwCF4ZsN2+/OrVGJrUTLl1qaSKCQ10i09NI8aU8UtN1HjbB+faCDjI47DHrnQb7UUlXQNSo9vRWkRm/UPOM8sABxjnH41O8T2C8fCYnhpYq6rilSRjD3IB8xCHu2O2eNZ94hp701RS3f4bNSz4ZJFSMoIxuOA4XOzgA/Tk6JCuOZ0w3//Z" />
 
 **Hendrike:** Ich gehe davon aus, dass mittelfristig auch große Hersteller ihre
 Rezepturen ändern werden. „Vegan“ ist als Thema mitten in der Gesellschaft
@@ -155,7 +154,7 @@ entscheidenden Einfluss gehabt.
   title="Cupcakes aus der Pony Hütchen Manufaktur"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Seifentorte__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Seifentorte__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QALhAAAgIBAwMCBAUFAAAAAAAAAQIDBBEABSEGEjEHURNBYXEUFSIyQoGRobHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAQACAgMBAAAAAAAAAAAAAAEAAgMxERMhEv/aAAwDAQACEQMRAD8AePqtv+/9N9Lpe6W2yPcbn4hUkjeNpOyIqxLBVOScgY++kdc9XOpltSQ1N0sQXK0YksxW66dqSEHvRl7MqFOMe/vroGe2b8V6KUlHhmMYjx+0A8E/cYOfroK636Yo9RbVboWo4oDK8Tx2IoVEkcqtkuT/ADyMLz4A40Lvw+yuC9TZzM2v63FOmatifbVt7iQRMaj5jUjwcHB55z4A45Otfpr1m2rc568N2ncrrJMYnsGBljhwpJMmc9o4Azkjn5c6XVX0TrV91klsb7ak28nvEKVkR8DnBk7/AL+FHn31aoemcUU8rUt2vflywydlG0XkRbBwY3JU5KqcHGPkffhW4HEo1xL5qPTdaC2mWeF/g241Khx4YH5N7/8ANDltrtYBLlGSQLy00OGUj3x5/pjRYGGOPHudV55QuMDJJwPrrW4yxwzAWT0gg+9beC6yzND3KcGWNlBH0JHOoUtx2tEkxaQqTjBJY5/3okv1o3jCyFRJ3AgKgPb/AHGqC141m+KYkdyP1P2gN/gcjS9FdQ9ltz//2Q==" />
 
 **Hendrike:** Für mich steht eigentlich die Nachhaltigkeit und
 Ressourcenschonung im Vordergrund. Das ist die Hauptmotivation.
@@ -202,7 +201,7 @@ hast?
   title="Schönes aus dem Hause Pony Hütchen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_7058_10151472274898907_1573139495_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_7058_10151472274898907_1573139495_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBAv/EACkQAAICAQQBAgUFAAAAAAAAAAECAwQRAAUSITEGQRMVIjJRFCNxscH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQEE/8QAJBEAAgECBQQDAAAAAAAAAAAAAQIRAAMEEiExYRNBUcEiobH/2gAMAwEAAhEDEQA/ANV+bXrdizTqTwVrKyKsYV1RmKntfyT5ONePVu73G3exQZ7JetHHNC0ZKgkgHDdeScjSXv5rbZ64nl3KrK8lgLLChaMJjwCD9wOR3jvPvq2371LW3SRqMtaP9WGcPbzlf21zx5ZxyByp9s4A71Ne4VDQSW5q3aw8lWygKRv3ExrzHipvqyaxParT83jWWBW4nvi2PqXz7H+9Gp0u1uNrpQI8MUkZcsxbAcHiQR3+NGgbqscxnXgH2K1BYUZdDHeSPqDXL+0pc3aO1KiSGNei6KxXvP058aorG2bf80kNhK8ksUgyzRo3Eo2R5yB334896f7RjWBuKorFeQZiQMf7pQmiijuzzuYCqEn4gT7vwBkZ770OOsQAVMEnzQYS6W+J2im56onrVszkAIGyDkHIB6OjWTwevLMJkglWvJxYsPiKcrk+P40a7leyVE+6E2rwMAflf//Z" />
 
 **Hendrike:** Das war ein Lidschatten. Und die Lidschatten werden dieses Jahr
 auch wiederkommen. Von vielen Kundinnen werden sie schon sehnsüchtig erwartet.
@@ -258,7 +257,7 @@ versendet. Wie kommt das?
   title="Die Produkte können auch bei verschiedenen Händlern erworben werden"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Seifencupcakes__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Seifencupcakes__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYCBP/EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQFEQAGEiExE0FRByJhFBViguH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAE/8QAIBEAAgIBAwUAAAAAAAAAAAAAAAECETEDEiEiQWFxof/aAAwDAQACEQMRAD8At9wXrbNjqaipoaKmq7/FPwpoVYrJJUOAOIZs9kMR10PfGmrxVXCjpfWjpKWWrQZMZPIK5PjkfPkjI6/ONbuVHDLCZZLfLPLEyyRcV5FZPZ19ww7OfPQ1I/Tzf1Ru65TUbUXpV1MpadIzkxAHj5ZsseRxjrAye9ceecjlqXO3zgbsKVNNZKanvEzVF0ZeNRIWVQGPtEoPQHjrs/Oiqu7WfalJSWspxHGSoYwQvIqHP3ciBhes+T0Aca1vLbsQuct6gmustUQkcqRVYQJGvl+PHJPHIKjsg9d6QmvEH7ekMs/6KnWNYo2JEceCFYMFycNjwCARnvWXwCbSW4bq3qDWJwjEXpyFzKeJC4AAGesjA/3UpdXg2dbZrvAkAdVZ3lliDSzJkMQxU8iMtyznr85xo1d/ol3kscksFXdDMYJGjHFP4iOIKeRI9z0PjXduvZlduOz1MNVcGo2qAkTLBCJgkQIIiXJHROGZvJx8DGmqjSeAznfQu/sxa972++XCCC3Uq1lcQxTiyrnrLBQSW/swGNQm8Nob+qdxVV5pfQp2qWVSlLcOMrcR39vQJxkgZ6AGnPpLtFtkbhur1twpq6CpRKemq4lJA4ueaN54HPDsEg4Her3dhgmjjSWGR/WkxHHTqZGYYwWOPA7A/A1XUH4Lpx3Sabs//9k=" />
 
 **Hendrike:** 95 Prozent meiner Kunden kommen aus Deutschland. Da ist es
 sinnvoller, den Versand direkt in Deutschland abzuwickeln statt die Pakete aus
@@ -289,7 +288,7 @@ Was ist geplant für Pony Hütchen? Wird es Filialen geben? Eine neue Linie?
   title="Bald gibt es auch Pflegeprodukte für Babys"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_12809760_10153447142048907_3043917774165851389_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_12809760_10153447142048907_3043917774165851389_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREAEiEGMWEiQVEHoRMyQoKRwfD/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAb/xAAgEQACAgICAgMAAAAAAAAAAAABAgADBBEhMQUSQUJh/9oADAMBAAIRAxEAPwCmmBoIpJADKqqcjPfT1FZUbpGK2gRmYRB1/Ew2Jfzc/u0v2qmMtfBDOQEhfdNkeyH+zjTpHsiJkeVMAs2R51PUm97ktCb2TJbVVUFpQvXQiVmR5GkjT0xlASVwOc+MHOs8t2uKC3zGhrhRXBQIi1OyhGK7xv4ynHu23Rz6oV4s9ipquloo5qyeqVRxtG8jO48eD8amtz63vtRbquioLDTUCzuauomVzh2JyzkADknBJ5Oi8oKjFWY7+JovHVMKl9FH6ZcDQyU9ZcJWT0y7PV7d+fvrs7Sqg5IJbHBHbxxotVoZKd0VS5OOMj586x1FM7Im2BzhgcZXj76cUAQbWuBAvVdTKel7m7ozBIWfa4JHBBH+GprSWavvlympYDEKRRsaWNsDBAyOfBJ/jVeuFriuVuqaGqjnFPUxmGTaxQhSMHDA5B8jQ629IUlsctQVdwiB42mZZB2x+pT8DUGXiG+xSDwO4jh5YorYfY9T/9k=" />
 
 **Hendrike:** Oh, 2016 wird definitiv ein spannendes und aufregendes Jahr für
 mein kleines Unternehmen. Wir sind jetzt gerade in unser Loft umgezogen, wo wir
@@ -313,8 +312,9 @@ Wer jetzt neugierig geworden ist, findet alles über Pony Hütchen auf
 
 [Hier gehts zum Unboxing und Produkttest der Pony Hütchen Produkte](/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/).
 
-[gallery type="thumbnails" link="none" size="small"
-ids="14272,14273,14270,14268,14266,14264"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10565102_10152267593773907_1129548737186434971_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10565102_10152267593773907_1129548737186434971_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10996477_10152718343498907_4819804717029210427_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10996477_10152718343498907_4819804717029210427_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10547648_10152267593968907_862504575296928214_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10547648_10152267593968907_862504575296928214_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10470859_10152267594103907_6316343596630437315_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10470859_10152267594103907_6316343596630437315_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10447610_10152267593818907_6762300508878608570_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_10447610_10152267593818907_6762300508878608570_n__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_1551598_10152267593453907_5547233939872455344_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_1551598_10152267593453907_5547233939872455344_n__l.jpg"}]}
+/>
 
 Mein Interview mit der Hochzeitsfotografin Petra Hennemann
 [findet Ihr hier](/2016/02/hochzeitsfotografin-petra-fritzi-hennemann-im-interview/).

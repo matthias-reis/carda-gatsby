@@ -20,8 +20,7 @@ date: 2009-03-28T18:32:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11164"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-8__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-8__l.jpg
@@ -33,7 +32,8 @@ subTitle: Eine Bildergalerie aus der Bayerischen Hauptstadt
 Besonders der Viktualienmarkt mit seinen geschlossenen Ständen und die nassen
 Straßen drumherum hatten es mir angetan.
 
-[gallery type="rectangular" link="none" size="medium"
-ids="11164,11165,11166,11167,11168,11160,11159,11158,11157,11155,11156"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_M%C3%BCnchen-im-Regen-3__l.jpg"}]}
+/>
 
   

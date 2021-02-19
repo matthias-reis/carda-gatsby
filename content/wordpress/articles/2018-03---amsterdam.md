@@ -56,7 +56,7 @@ Türkisblau schimmert die Liebe. Ein Gewirr aus Wasserwegen.
 Es hat irgendetwas mit dem Wasser zu tun. Purer Optimismus und offene
 Freundlichkeit. Wo ein Wasser, da ein Weg.
 
-[myflickr tag="anneamsterdam2017grachtenundgassen"]
+<Gallery name="flickr/anneamsterdam2017grachtenundgassen" />
 
 In [Venedig](/2014/03/valentinstag-in-venedig/) war es wärmer.
 

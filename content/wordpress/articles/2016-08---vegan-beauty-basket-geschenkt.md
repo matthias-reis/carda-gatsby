@@ -45,7 +45,7 @@ Werbung\*
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vegan_beauty_basket_kosmetik_box-angebot-instagram__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vegan_beauty_basket_kosmetik_box-angebot-instagram__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcFCAABAv/EAC8QAAEDAgUCBAQHAAAAAAAAAAECAwQFEQAGEiExIkEHFGFxCBNRgRUjMkJScrH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBf/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDITGhsf/aAAwDAQACEQMRAD8AswAoEW2HriGzZmyh5PpvnsxVJiEwq4QFnU46R+1CB1KO44HviTkyG2FpGrUVA2AUL7YX/i3lilZ5y+1BqrwhOR3vmxZYsVNqKSCnflKhyPQdxiXGrhdhYES/iH8RdXqTyouSmBSIoNxKkJS5Jdsf47pQD3HUfUYsfkLNEfOOT6bW4elKZbd3Wgd2XRs4j7KB+1j3xSKsvuZXpNZyZV6NTfxRucl1dR1XdbACSAg2/SRYjcbKNxfDz+EqJmeG1U0TKbIayvMSJDEh/o/PFgS2k7qSpPKgLXQMExALWQwqo0KsoO1TQZKo4abKS706UqcBsDve/Tq27c84ya0zVZLTLNQAdbWFDSi9xpBFuxO5N/X3wQ1Ogtyqkw+lhktIQSUEcubAKJP0SLD3OOG6Ay06hTEWOk2UNSE2Avz/ALis1VzIRswSjUvLtRqfnp1PgvzUKSBJlR2lLdUTpSSSm9wQLf2HsCuoVWVHaj+WjpeWttaip10NBAQLkqvvbccDvjaaTCix1lLDVrAdKbDptYewsLfS2FT4ouVVykNzosJ5iS0+vU80/wDJJac6Uo1De99HFr7DB4LiXdG32vfk/9k=" />
 
 **Vielleicht haben es einige ja schon mitbekommen – es gibt Neuigkeiten rund um
 den Vegan Beauty Basket! Die vegane Kosmetik-Box erscheint ab sofort alle zwei
@@ -96,7 +96,7 @@ _\*Das Angebot gilt solange der Vorrat reicht._
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_vbb__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAQBBf/EACcQAAIBAwQBAwUBAAAAAAAAAAECAwQFEQAGITESBxMWIzJBQlKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECISL/2gAMAwEAAhEDEQA/AFJ0OftHHJ4xqS7vXRWqsktMUc9wSFzTxTMUR5AD4qxHQJ4zqxOUU9cdDrWDlFJ/bBP+a0INI/WDcfyS07hvF3MksNXJDPYYY3iSOLgMPHpmOWAyWYMo50gK/wBSNnR1EtF8jt6PG3tM1RSye0kmPLwabiNXH8kgggjsa7tr2Ptq37ouN+pbPSrdqqQVD1LL5MHIGSuc+OTycYySdHnfdDHZPU7dNBRs5prbSrdIEkwQS31PZcYw8QZjgMCR+GGjXWFKT0//2Q==" />
 
 Zum Vegan Beauty Basket geht es
 [hier entlang.](https://www.veganbeautybasket.com/)

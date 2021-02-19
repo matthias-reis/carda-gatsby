@@ -56,6 +56,6 @@ Schuhsohlen rauchen schon. Macht nichts. Es geht weiter! Man soll den Tag doch
 niemals vor dem Abend loben. Wir stürzen uns die die Dunkelheit der Nacht und
 lassen uns von den Bässen massieren.
 
-[myflickr tag="anneberlinduwildeschoenheit20180703"]
+<Gallery name="flickr/anneberlinduwildeschoenheit20180703" />
 
   

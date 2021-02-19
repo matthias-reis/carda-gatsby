@@ -113,7 +113,7 @@ Innen- und Außenwände verwendeten gespaltenen Balken bezeichnete man früher a
 logisch klingt. Schließlich wurde die kreisförmige Wallanlage damit in der für
 ihre Zeit typischen Stabbautechnik errichtet.
 
-[myflickr tag="annetrelleborgburg201806"]
+<Gallery name="flickr/annetrelleborgburg201806" />
 
 -->
 

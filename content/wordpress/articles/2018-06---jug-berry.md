@@ -26,8 +26,7 @@ date: 2018-06-08T16:00:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "21217"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_26916062727_217e4673d1_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_26916062727_217e4673d1_z-1__l.jpg
@@ -46,7 +45,7 @@ für Geschmack.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_39977156640_a9b17b3d87_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_39977156640_a9b17b3d87_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAcG/8QAKRAAAQQBAwMEAQUAAAAAAAAAAQIDBBEFABIhBgcxEyJBcaFRYXKBkf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAIF/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIAAwQREkEFITETFDJhgf/aAAwDAQACEQMRAD8A1nHsRo0dL0x5phqwne4oJFk0B986bYeZjclDQ/DkMrSR7k7xuQfkKHweDrJu9DUuZ0vjZkP1g1DeV6yUjgbkgJURdVYI/sa5Ts/Pmryy0FJd9VgtXQ9g3AhXj4o1/LStWsyOAB2mnR6ctS1a43wRxj7x5m/5OZjYkMSJzzcdpRASpz22CfNHmv1NcfOuOmzIc9t5cYFTKVLAcBBSpIUU7r/cj8jSDvDKeY6RxTjUZpRlnd66hy0Qndt+1An/ABWlnaSHJkdNZGat0pbekhFLFgpCeaFV5P41BVcvrBGy1t/cFufH7iX4fWEWTjX4smRDKH2i2tt69pBFGwOefvVTptOF6eQs4+YlcldWokqATXIs1VnRo0J2JOTHqSAKUHYGRZvuJ07ksOrD5NTDrCAGyADaVI4sEHyOeRqfo/qSCrAvsYttQhMLDbabPHts+fNnm9GjRE+WZSug9PTif//Z" />
 
 Heute verrate ich Euch eines meiner allerliebsten Cocktail-Rezepte. Es geht in
 Richtung Limes, hat aber etwas mehr Rock ´n` Roll im Blut. Meine Damen und
@@ -73,6 +72,8 @@ auf und genießt.
 
 Cheers!
 
-[gallery type="rectangular" size="medium" link="none" ids="21219,21218,21216"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41741718172_ecee6641f7_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41741718172_ecee6641f7_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41742745602_502a429dc1_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41742745602_502a429dc1_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_39977129390_a58d8f0f86_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_39977129390_a58d8f0f86_z-1__l.jpg"}]}
+/>
 
   

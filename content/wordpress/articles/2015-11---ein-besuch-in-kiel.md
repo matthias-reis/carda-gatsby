@@ -43,7 +43,7 @@ gelegentlichen starken Schauern.
 Für den nächsten Artikel habe ich dazu noch was ganz Besonderes vorbereitet,
 also stay tuned! &lt;3
 
-[myflickr tag="annekiel2015"]
+<Gallery name="flickr/annekiel2015" />
 
 "Wind ist erst, wenn die Schafe keine Locken mehr haben" - Unbekannt
 

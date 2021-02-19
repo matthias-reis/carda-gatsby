@@ -37,7 +37,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Unexpected token (11:58)"
 thumbnailId: "20519"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_41472283612_5a6c8b5255_z__m.jpg
@@ -59,7 +58,8 @@ gesammelten Plastiktüten herstellen lässt.**
 <RemoteImage alt="Ragbag" size="medium" title="Mein "altes" Portemonnaie"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41089336391_94e68fe6dd_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41089336391_94e68fe6dd_z__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAABAwMDAgQHAAAAAAAAAAABAgMEAAURBhIxEyEHQVFxFSIjJDJhY//EABYBAQEBAAAAAAAAAAAAAAAAAAADAv/EAB8RAAICAQQDAAAAAAAAAAAAAAERAAIhAwQS0XGhsf/aAAwDAQACEQMRAD8AkGk9MvX6eIrKg2tTS3EFQ7LKRnaCSBk8ZJxTvM8NYdteCJt5TsDYWtxtpO1BIztyV8/vilHRmoZ0W0luPAXIbLpJcD4Qn2Ixk4pqv6dQPW1zMS3MRloAc+4JcCCRnakHGcUsyMWA+9SY3GlS3GwZ8jt+pzNV6E+HRosizvquzLuQrohJWj0+VJPbnv7etI9ztMmKnc9HeZH9EEVatG3FiJY4LUhGFBkA+Xnwc0j+LM1RYecbcHQeLSUhKs/iVc1kXs0ZEbrldCqzJnElvNNdJt1aW8k7QcCtxlOOJ+oVKPqpRNFFbl0HAvqCQQVAjghZGKz3CdJksIZffccaSdwSs5waKKQsz//Z"
+/>
 
 Mir war ziemlich schnell klar, dass mein neues Portemonnaie auch aus dem Hause
 Ragbag stammen würde. Nach kurzer Suche fand ich einen in einem kleinen
@@ -86,7 +86,7 @@ möglichst gering und wirkt dem
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217748167_0021fbbd83_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_26217748167_0021fbbd83_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQf/xAAqEAACAgIBAwIEBwAAAAAAAAABAgMEBREAEiExBkETIlFhFTJCgpGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIDESESMf/aAAwDAQACEQMRAD8Al9J4uzkPTtGYzmrI7s7mPv1/pP8AYJ5TcVMcWe1cyQhifcjGt8h0QNdW/B+314emspbqSPRq1IZa6urr1OysqurEk+2gykfu5XmGrRQ3Ll+uEiJ+JMqyyOD48LsfXwORE32P5dckFV696GRalzJShWPV0V+8fYnTHfvv6+3FZDGSLHHMDkHdXRSh+U6J0dgefvxGJ9R1L2Rhx9Cn0SRklB0uAO+yTp/t78tzWTiw9GZpb1SvAoLlFUB3OvyjqY9z45q90EPLrs5/mPSRgklyFfL3xN1GPcj9R6db1sa5lJJcSKk8tyWZBZaARyElABGH8E+/jXDhyuOy8ZLJUOzWGA/F5o79idIV0dQ1ovhgbPfXf/OWYrD4uis9mtT3YQHUkzfEYdvbY0P44cOF7O2salRCz9n/2Q==" />
 
 Neben den oben beschriebenen Produkten gibt es von Ragbag noch viele weitere
 tolle, faire Recycling-Artikel. Unter anderem die Serie aus Tamil Nadu, auf die
@@ -121,7 +121,7 @@ ich keine Plastiktüte.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41045842032_43cbb93a24_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41045842032_43cbb93a24_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAIBAwIFAgUFAAAAAAAAAAECAwQFEQAhBhITMUFhoQcUFSKBFjJRcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAcEQACAwADAQAAAAAAAAAAAAAAAgERIQMTIkH/2gAMAwEAAhEDEQA/AJrw9wPa5oqQ1bBnmjLp1G5eYAZJJOwGCNz6aa/0Jalp2FNLZ4JgGKiUq4JwcAnxv7Z1rcDUlHcrFaI61DKVp1G7FR+0bnB7jAxpwFkoulE/06lHRcBR128BQuc+ir/mjn0Ddl+aol9r4VhyyXFbLCzEdKKNuoWLHbBXO3gDufxpb424foIrY81MsTMsErqAfuQrynsQCPyNW97TCHWpW2Us24bJnfKsNx7gHU4+J/ydHapxHB0JBHIkh+4g86EAAnucj31uXhIvIuNMUI/Ad2q6mKApNLCaULDhHIDAHY+hxt57aoVSZaqkWO4VNRU9Mjpsz4KnfJ/gkg47aNGnAzJrbubXTBoTVmOE8yIKnAGDnwvbUt4n4mqLsiUxV0iXBPPKZC2M43P9nRo1pH//2Q==" />
 
 Mein 13 " Notebook ist in der Laptoptasche super gepolstert und gesichert. Es
 würde aber auch ein 15 " Notebook problemlos reinpassen. Die Trageriemen sind
@@ -139,8 +139,9 @@ wollte ich Euch das nachhaltige Upcycling-Label gerne mal ganz persönlich
 vorstellen. Ich bin schon sehr gespannt auf Euer Feedback und wie Euch die
 Taschen gefallen. Eine gute Idee, oder?
 
-[gallery type="rectangular" size="medium" link="none"
-ids="20518,20517,20515,20514,20512,20511,20510,20505,20509,20508,20507"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216553078_676bae702e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216553078_676bae702e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41045805672_50dcbfb43d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41045805672_50dcbfb43d_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379655774_033f0a3477_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379655774_033f0a3477_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26217759167_6c9c4c3a2c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26217759167_6c9c4c3a2c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_39280284340_44bd86c8c7_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_39280284340_44bd86c8c7_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379677674_58d89bf572_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379677674_58d89bf572_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41045868752_24c9b01118_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41045868752_24c9b01118_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216618598_ed1a830a14_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216618598_ed1a830a14_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379691584_e0568928eb_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379691584_e0568928eb_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379694384_5e07a14f54_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40379694384_5e07a14f54_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216611428_811c4eaf86_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27216611428_811c4eaf86_z__l.jpg"}]}
+/>
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

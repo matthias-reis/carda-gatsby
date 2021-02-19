@@ -38,7 +38,8 @@ date: 2014-08-22T12:54:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "25255"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__l.jpg

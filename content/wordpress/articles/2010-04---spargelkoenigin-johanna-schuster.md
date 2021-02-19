@@ -23,8 +23,7 @@ date: 2010-04-27T15:31:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "10957"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__l.jpg
@@ -148,8 +147,9 @@ Lieblingsrezept: Mit Butter und Kartoffeln als Beilage.
 
 ### Hier einige Impressionen vom Dreh des Beitrages:
 
-[gallery type="rectangular" link="none" size="medium"
-ids="10959,10958,10957,10956,10955,10954,10953,10952,10951"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2557__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2557__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2544__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2544__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2542__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2533__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2533__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2520__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-2520__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-14__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-14__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-12__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-12__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_Johanna-Spargelk%C3%B6nigin-Schrobenhausen-2010-04-26-10__l.jpg"}]}
+/>
 
 _Bild oben im Text: Johanna privat; Bildergalerie und Beitragsbild: Anne_
 

@@ -78,7 +78,8 @@ date: 2013-03-28T14:46:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "5040"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__l.jpg
@@ -133,7 +134,7 @@ eingeladen werde. ;-)
   title="[ ](/2012/06/05/rock-im-park-2012/)  Metallica (Rock im Park 2012)"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000313__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1000313__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBQQHCP/EACgQAAIBAwMEAQQDAAAAAAAAAAECAwQFEQASIQYTMUEiB1FhcSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAD/8QAHxEAAgEEAgMAAAAAAAAAAAAAAQIAAxEhMQTwEoHB/9oADAMBAAIRAxEAPwDnm00ymyTzS0as3dXsVQfBVgDujIz7BBz/AJ496drr0tBdrZdrqahoKO1wRKGJEhnqpfkw9EZyx94A1rO3yduoVjnb/bGryqNRKqYmJjlxIwyB8toHI4HgaUqBg17y9xHRqeVvrvfkefprarFeunLtabnNJC1RsaEjB7dQivyPeGDLxnGQfsCEXqya2rLNDb6Vu48+8zyMS23Ynxx4B3FyT+tMfTHT1WKGetp6wdvb/IsahnideUY+eM4z+CdVv1fs9JZOua6it9VFU06iORZImDD5IGxkexnGhSN3OcTpy0elxxcWPrUS45ShGAOPwDqRqyWRlLlTt8Dbxo0ab8RuQxUYYBk6XarjgeFJiInO5gvG7941jPO8hBdgScDx9tGjWCgaELV6j4Ykz//Z" />
 
 Auch auf **Konservendosen** habe ich verzichtet, diese kleinen, billigen
 asiatischen Tütensuppen haben sich in den letzten Jahren wirklich bewährt. Und
@@ -371,7 +372,7 @@ wieder jeden Fressstand, an dem man vorbeikommt, ausprobieren möchte.
   title="[ ](http://cardamonchai.files.wordpress.com/2013/03/p8150037.jpg)  Whiley Open Air 2009"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p8150037__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYC/8QAKRAAAQQCAgAFAwUAAAAAAAAAAQIDBBESIQAFBhMxQVEUMmEiI5HR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAIBEBAAEDAwUAAAAAAAAAAAAAAQACAwUEITEREiJBUf/aAAwDAQACEQMRAD8A7LDDE2HFeJS7KzDQxOykWR+NcYr65LTSnFYhCAVLKvZIFk8xHUT5fmKkrclF+Oh0NFdLDQNZEX6jHE60d80kvxN38uG9CfPXIT9OrJ1mK2op2bCsdK0K+Ks+vKjJHMncdV9l9uEy/DakskKZcbDgV7YkXfIF9ZklSgKSBdmgCPkfjiKP4zks9WiBGb6mVEU0lhDSYgsIIrAEHK9gE+vEyfGfYxG48Zn6VpqMUoUl5BSUAD7FWdfyCR8cIyHXZguhR2YqZWuc5JZdfIU3nSqIaLibtH6PtUbNarftvknXtyWoT7MyQ6grUQlaH1L1rG0k1WqKSCPT88OHOduVNpQmhSePdIoq/J8/z3EpdcpRLKEgXqgNaA3/AGeUewTGdzU+21+4rJRcoZm7sjV/5w4cUXKqnmK9z//Z" />
 
 Ich habe die Lebensmittel auch mit Absicht auf die Cliquenliste gesetzt. Es
 empfiehlt sich auf jeden Fall, ein Vortreffen mit allen Mitreisenden zu
@@ -399,7 +400,7 @@ Eure Zuschriften!**
   title="Impression vom Isle Of Wight Festival 2013 - Dieses Jahr wird das Wetter definitiv besser!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_03_p1260039__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAAnEAACAQMDBAIDAQEAAAAAAAABAgMEBREABiESEzFBIlEHYXEVMv/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhEDEiExMnH/2gAMAwEAAhEDEQA/AG9z3zNR1UFTef8AQEvZCpUUTIcqCf8ApQE554xrut35qpY2RO7U1EIUfOphWOQnJz8Sf5yDqAum4oqXbV1KLOt1gdOw6SlV7RJLkjGMjkYznOCOM5jkqYKuvMM6LDEwQctlihbL+fYGfX3phtK/oax9VRqfb/5KtV6PRAV7gxkdxUPJ9Bj8j+lJOqCrvUSMFp4airYqSRDGx6cfeRwT6zrIJq7fb6qd6Ut1RxNLEYSWJckAEH198cjVztLee4KyRYbpVVYoY4pOnAbGfiVCt78t51Z3HhmNU+hILAbxW1EcrVKUrqnc6WCxtx9nyf5qntuxbNGQy0jVDucMmessRz7P7+tGjUcj5bL4+kOqrbVVDQTJZ7PJBP09UbrGuAc+CMHzz4GdRce192W28y1cFBTxrJLK56onk+L44PA8YGMD70aNZUhZ/9k=" />
 
 Weitere Bilder von der Isle Of Wight findet Ihr
 [hier](//2012/07/29/isle-of-wight-festival-2012/) in meinem Blog. Natürlich

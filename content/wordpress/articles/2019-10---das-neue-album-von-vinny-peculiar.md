@@ -48,7 +48,7 @@ Heute habe ich eine kleine Review für Euch - inklusive Kaufempfehlung.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-5__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYD/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDAAQRBQYSIRMxMkEiUZHRQmGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgX/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIRIQMx/9oADAMBAAIRAxEAPwBSS2lzb67Dbaa1pbwz2ltdRqbaI4WSFXJyRn15VbTbbhkkN5dvHeTOQGbxrxYnoZVT+qlFbLq2n7dmWUKZdDhjII93imljPfxjitX+mWF1YrFySCW1VWAVQGfJHWRjr8msutT4M0zl5t9Io2NtYaTKV94NpnH3/kTWC3TY+C5jHhghJQnjCgQevyKcs1i1jHLjLiRgxZmXkoAPQ9Ou6T27QbbUHQsrKSwXvJwDjumeF06+keYWmna2Idv7d8MimWzFzC6chniZA4BH982/FbDTd1mSPlFITxH1KcZH7ooplwnpQ4azukeJvQyfAx/tLLctwbi5i5EllUg5++cmiij4QpfAt8P/2Q==" />
 
 "While You Still Can" kommt wütend daher. Der Singer-Songwriter aus
 Worcestershire ist geladen. Seine Stimme ist lauter als sonst, direkter. Er
@@ -83,7 +83,7 @@ läuft.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-9__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-9__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKxAAAQMDAwIEBwEAAAAAAAAAAQIDBAARIQUGEjFBB1FhgRMUFSIzQnHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQX/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBCEiMUJx/9oADAMBAAIRAxEAPwDnDT4Zczaq/szwX1fXWWZM11nT4bgCkn8ri0nIISMDHmfalbaEfS5jA5OBEhAstBc4+4v2qtQNwTdO2ZL0yDqIbjQkhbhby8lokgpv1Avbpn1rLyrbeq9fY+tV9RT8T9j7U27Aa0/SJD8jWml8n1c+dk2yHOyTjCRkXN6ik9tpJPDNOm5daEtl5EJspjgBQCv2ve/P3ti/9pMdbIYRzP3WzT8VGReZJMCwgnQmTpExMaQlxSEuDoUq7j+9qcvr0AuFyJ8xHVwUhIcPMEEW4qtgj/DRRT3QEwAYpLlH4YSsBIGQgdAfM+tayU9yvmiirQCSf//Z" />
 
 Er singt über die Menschheit, die Armut, den Kummer und die Drogen, die Politik,
 das Volk, die Vergangenheit und die Zukunft - dabei gelingt es ihm, stets in der
@@ -111,7 +111,7 @@ und die harmonischen Dire Straights Gitarrensounds.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_10_2019-10-07-vinny-peculiar-while-you-still-can-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QAJhAAAgEEAQMDBQAAAAAAAAAAAQIDAAQFESEGEkETIlEUMTJhof/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDESGh/9oADAMBAAIRAxEAPwDzjYWUUU8bzx/URqfdGWKBx8bHIqt6etsTlOoMTjmwUMMd3dw27uLydmCu4U65A3zUauTZdr6Y2vG96p90NkHbrrplSVQHKWpJA8eqvk1JeO6636aKkloYXGEtLu0Dx29vaOp7mEUsjuV/YckCkeRwkEKMQ1wdA+4FGAI+eBXSUix8sEcyA2866DdvGmHHI/tSHVSwwWk0cLkL2kqB48mki6T1sHGQYILkk8Hnit1rJHEQyooYcgnk0UVZSEGC5i5iYvFcyoxGjpvuKxX+UluYXSX02Zh+fbpqKKVQgn//2Q==" />
 
 "Scarecrows" ist ein schönes Stück Britpop. Es klingt funky und schmiegt sich
 elegant an "Man Out Of Time", die Country-Nummer auf der Scheibe. "Let Them Take

@@ -28,7 +28,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "7976"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1093__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1093__l.jpg
@@ -116,8 +116,9 @@ findet Ihr wie immer in meinem
 
 &nbsp;
 
-[gallery type="rectangular" size="large"
-ids="7987,7984,7983,9877,7981,9876,7979,7978,7977,7976,7975"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1146__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1146__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1120__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1120__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1139__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1139__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1096__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1096__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1102__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1102__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1105__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1105__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1111__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1111__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1128__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1128__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1088__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1088__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1093__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1093__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1085__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_05_dredg-1085__l.jpg"}]}
+/>
 
 </div><div style="clear: both;"></div> _Hier sind für Euch Dredg mit Jamais Vu_
 

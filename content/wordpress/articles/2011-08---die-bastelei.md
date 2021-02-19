@@ -58,8 +58,7 @@ date: 2011-08-28T07:42:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "2520"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__l.jpg
@@ -81,8 +80,9 @@ Beitrag handelt von seinem Tape.
 
 ## Die Fotostory:
 
-[gallery type="rectangular" link="none" size="medium"
-ids="2535,2534,2533,2532,2530,2529,2528,2527,2526,2525,2524,2523,2522,2521,2520,2519"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8222__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8222__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8221__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8221__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8219__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8219__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8212__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8212__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8208__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8208__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8207__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8207__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8204__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8204__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8203__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8203__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8202__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8202__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8200__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8200__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8199__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8199__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8198__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8198__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8196__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8196__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8194__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8194__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8192__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8191__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_img_8191__l.jpg"}]}
+/>
 
 ## Die Musik### Seite A **1.) Sigur Ròs - Með Blóðnasir**
 

@@ -26,7 +26,8 @@ date: 2019-11-28T06:55:37.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "26787"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-10-walnuss-schoko-cookies-post-baking-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-10-walnuss-schoko-cookies-post-baking-2__l.jpg
@@ -60,7 +61,7 @@ einen Backofen - schon kann es losgehen.
 - 1/2 TL Salz
 - 1 Tasse Rohrohrzucker
 
-[glry name="cookiesvorher"]
+<Gallery name="glrycookiesvorher" />
 
 Als Erstes heizt Ihr Euren Ofen auf 180 Grad vor. Dann gebt Ihr alle Zutaten bis
 auf die Schokotropfen in eine Rührschüssel. Mischt alles schön, bis sich eine
@@ -81,7 +82,7 @@ kalten Zustand sind die Kekse fertig ausgehärtet.
 Die Cookies passen hervorragend zu einem schönen Glas Kakao oder heißem
 Früchtetee. Viel Spaß beim Backen und Essen!
 
-[glry name="cookiesnachher"]
+<Gallery name="glrycookiesnachher" />
 
 ## Infos zu den Zutaten
 

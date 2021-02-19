@@ -37,7 +37,8 @@ date: 2012-08-27T14:33:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "11800"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg
@@ -101,6 +102,6 @@ Das komplette Gewinnspiel findet Ihr [HIER UNTER DIESEM LINK](//?s=verlosung)
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACYQAAIBAwMFAAIDAAAAAAAAAAECAwAEERIhMQUTQVFhBiKBobH/xAAXAQADAQAAAAAAAAAAAAAAAAACBgcF/8QAKREAAQMEAQIEBwAAAAAAAAAAAQIDEQAEITFBBhIFEyKhFDJRgbHw8f/aAAwDAQACEQMRAD8Aqj6fJdNcPDd9lQ/bRNagM2hmOAfq/PPqpI+jRCRpXvMEsGDGVtIAzwM53xTrm6t4UmtWiLmXGSDwMk/wQNXHIwKykvLJZ3iW07UL7NJjUWHps8jfOKwAhoIQFHgbnOB9PzMcULnxbz7vkzhShg4+bQmPbNbj2jx3CNLKZUKtyf1OCMEfN6Km6Y9qCY7RNBMZ7zYK68tkDBPAwKKXvGUpQ8kCR6dcbOv3dN/TClvWZUrPqOTvQ3v+RWF1i4aLqTBhKBkZCuQsnIzs23mmxXXTmdpntikmy7YPPJG4pzxyXEk8dxbzgGUtFJHFk4zk5Y7AfCfPypl6fP3HQrJ2sk6tILH1vnj3/VUO1etXmGyspJAG4wY9qnl01eMvuBAWnuJOO7IJka3un/jrM9zIvcmeQABWkbUP95xRTrCV7e9gjW0nSJQTI7RHLMR7PjIopG6nf8+97moUAkCRnk81QOlGjbWMPApJUTBkcAa+1f/Z" />
 
   

@@ -36,8 +36,7 @@ date: 2017-10-21T11:29:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "18178"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_image3-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_image3-1__l.jpg
@@ -70,7 +69,7 @@ werden können, damit alles reibungslos abläuft.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFBAj/xAAsEAACAQMEAQMDAwUAAAAAAAABAgMEBREABhIhURMxQQdhcRQjQjJSkaHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQCA//EACARAAEEAgEFAAAAAAAAAAAAAAEAAgQRAxJRIUFhcZH/2gAMAwEAAhEDEQA/AEy+7i25crPIlsnpnaccY4opHh5ycCB/BcdA+39up3Y9ppGus98ic88Q2xULhgq03DPuR2TH46++sb6eVlj3S1FS3wzx10E8bIscoiR27Uk9ZxhicA+/XjSQLLbaaae1bft9BTBXkeR3kkDeqxJdlIJYH370Pe5HKZkRXRMhxu++OURbn2LPvG33atp66AVFPNJVFHqQRxhTHFlwSCS7FT0OtBm0rTeL5WVMVlnWN4wrsHm4A8mCr8H5P+NejKKzVOy93ypXI1VTX+b0DVqxJgbg4Ebn+SuGU5ODldEn0doKig3tfaadCGokZJYnU9srnGcY8f70g11NIR7hbwuzbVt3fJNT1VDZKkIjho5EHJOSkfOO8HHWk62Vm5Zb/HLebDNUQyRO1UYucbmUYeMqq4wC/HkM+z+OtZW190Ulutqq9RdvVBY5o3jCDP8ASWU99EAkjx8aq4d2WiSJGhrb2iB/U4/qVIx0R2uBk4Pf41yaxoO1KyTNzyABkN16UpfJLpenJr7XVW2lmp/UkhFZxkirMlhxJPag48eAMd6h6Wy3ilkraiKm/eqJS8klWuQAD0FHqHIPv3k+dKN2vtpnmkmFVcSXiYZPBiX5jiT9uAYfnHv3qWv1xoIqudqComMLDCrOR6g/JUgf99tbBoEDupD1IJX/2Q==" />
 
 Als das Teammitglied, das am längsten bei der Tiertafel Hamburg dabei ist,
 fungiert sie zudem auch als Hauptansprechpartnerin für die Sorgen und Nöte der
@@ -106,7 +105,7 @@ auch anbieten können.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image9__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image9__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAABAwMDBAECBwEAAAAAAAABAgMEBQYRABIhByIxQRMUUQgVI0JSYXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACARAAIBAwQDAAAAAAAAAAAAAAECABESIRMxQWFxscH/2gAMAwEAAhEDEQA/AG9IuqNZt21RbzkVl2ahAa+pSQlascpSR77U8Z96r6z1REd38tpqWJdccUFNR3GQht9CsYSg7+VEKHnAOD9tYLbnUl2zLqojklAl0V1hxuSwnDygha1HsBPBSf8ACRkHXVb9yVSx4Nfh12nSoVXqAR9CZMXZ3Z/UQT/BLS0q2g/YcazrXJxtKyVJzvL+TdlfpV2OzKxSvhoDctbsZxlvc5LW3lKG0jJAys+f6Om0qZIpFGi1K9Wn4bchClzIqGkktkjcQkkZXjyQFbuOM86hejsiNX79oapsdsS0vubVspQ204WkheQ2MBI5JwnyrkAY1pH4kHERems8tL2uuONIQN3klwAgZ9kE/wDdKeoZVI3MajW1sPEzO7Ki4ZcYStsp5pTG9x5hglz5Gu8HDYIBKgcA/t4wedNesdVlROoVmxGEQvhlsJjPJeiIfSWy4hJSkOBW3tGMjB0aNAuRXo+o04oO/okXY8B+n2au6jMUqc+HAyGUfCWFFK1FYKT59cAADjSajVKuXc/CodWuGrP010tuusvyC6FlHd759fc48840aNWMx0y3IrJQBcB4n//Z" />
 
 Die Basis bleibt natürlich die Ernährung, im Speziellen die artgerechte
 Ernährung der Tiere. Es kommen zum Beispiel viele Diabetes-Katzen und Hunde mit
@@ -140,7 +139,7 @@ Katzenbetten sowie Spielzeug.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image10__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image10__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcGCAIDBAX/xAAnEAACAQMDAwQDAQAAAAAAAAABAgMEBREAEiEGIjEHExRBI1FhQv/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAHREBAQADAAIDAAAAAAAAAAAAAQIAAxEEURIxYf/aAAwDAQACEQMRAD8AZfSfVND0VajZb5VNLXRgSpGAFZ2YHdgcBVZlZh/WI867qn1MsslBUNU1VuanSQU1aVbeIWcHtYc+PvPHnVcVllvNpq7tIp+BZqWGjU7Gmd2llLDG5jsVAZG4PjAJOdRqz1k0V6lFMPeaT8cTe2RFl+Ru5A2jJYEg40FtQ87i6vjsO/uM/rO6fJorlZaGVJa9qgU9PHG4LyoZQkZGMkhMBM5J2Ff1jWdpoqu39a0Fv2R3GG3XBrG6wTd3uyJE8srAqCykjaTkbdpPI15ND01NbOvY7tQNspLFBLXSTrIdsgCACFRkHvlLJ2nIDKfsaYvSV9oR1RUyw06pW1kkNyuNLCd7pJIo5Bx9kggZ8DGli1jvvIqQvnrKxW3ritorPJbo0ZUqZUMoilMaOqeAUUcnnySR/NNA22nopFrkXLvDDOoAUFWdWJ5xyOw4yP8AWjRo/JBjrk6FjcE/SOSj1yjjoPTKy2rYJXjmRRUFiCSYRM5IzzuZ1OCcfjX9a3ej1DSLbLVTQU0USzW8yysASZJBIBvJznPaMc8eBo0aagJMmVbe5//Z" />
 
 **Kara:** Um 15 Uhr geht die Ausgabe los. Meistens kommen ziemlich viele Leute
 gleich am Anfang. Man stellt sich an, für Neukunden wird dann eine Karteikarte
@@ -181,7 +180,7 @@ viele Tiere satt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcFBggJ/8QAKxAAAQMDAwIGAQUAAAAAAAAAAQIDBAUGEQASIRNhBwgUIjFBFRYycpHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECBP/EABwRAQEAAgMBAQAAAAAAAAAAAAECAAMREiExQf/aAAwDAQACEQMRAD8AcHjnKpbPhxUodWqqKYZ21iO4Tyt0ELCMfYITznjHzpF2dc1I8M6wisqRMkRjHMB6OhSS44tSkq6gyQONnx31ZPMxSqhfMyx49ulqQh9hx5CC5t3dbZsPI+wk/wCazNLnSZceKw+sqDX7Sv5ycDk9tH07UI/M6JesIn3OgtkXXSb2oSKtQHXHI5WW1ocRtcaWMZSofRwQeMg540aVHlRoVTt2HcgqKo2JC46kJbd3kYDgOcDH2NGrzL6OFU1Lw5U7XvSuvKbgU56RInlLQjspCQghCNiWyog7EjAOAMn+9LW7X7aot6V6LVrclTai3Od6qfXnoBZVnaAkJJAzjUl4dXHAtuop/ItOOL3svtvlWEDav3IUrvgjtqJv+ptzL2qU1UmBVHX3C76qO2hacqAIGQcEpHtz21J1DaPmbNqSfuPDy6XlKqv6gIp6adDbEbotgEgk9UHBI5wEpGjS5tC9pFNozLSnHCRlA2sDgBRIHt/lo0hqJOJcG9jdNUe5/9k=" />
 
 **Kara:** Wenn es uns möglich ist, versorgen wir auch Obdachloseneinrichtungen
 mit Futter. Auch den Obdachlosenbus, der zweimal im Monat hier bei Karstadt in
@@ -235,7 +234,7 @@ wenig?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image5__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYI/8QAKhAAAQMDAwQABgMAAAAAAAAAAQIDBAUGEQASIQcTMVEUFSIyQXEjYYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACETESAyEiQUJRcfD/2gAMAwEAAhEDEQA/AJ6as2M5ZsKZctIEqpO9wL3NOuJKA4do2hWD49aZdCuyzqZEV8nhQ4LBBJEWB2iQM5yByfB86RvT5j4m1IYkNpXhJXhYGU7iSAP3qguSHKYq8gbJJceS4uMnsbspSAFYIyo4z68HWZ5cO5XbpS3IiB56LouuXjZdYh7aqzAmxgMgS6epzbnHjPI8/jS1vyjWAi2psulQJUGoqaKoYZZkIDqgRnDbhIIxn0NLO0KbVIdxQLgjU15LdOlR1bBHKXA7gq+zbkpODzzjjONOjqPWYVcuGNKpskqZkhgfU0pChglKgreAU49Y/vTAECZUncaWU6OVNhu1H2qhUobMghlSFvvNtqShAcTtSFjkfaT+hrRUi5aJJvC6HKhUaWENqiBh510OIV/BhztnjGSkbsfnjRo1aNkc6bFfeloGK5bKFlTdctxKlABWSOccjyrn/dUV1qtlNMlyYE+guSSUNNtQ3EqcKisKUockgYznHvRo0CBCbMutf//Z" />
 
 **Kara:** Man muss ganz klar sagen: Man darf sich auf nichts verlassen. Man muss
 immer bei der Sache bleiben und die Menschen daran erinnern, dass man noch da
@@ -280,7 +279,7 @@ etwas geringer.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAL/xAApEAACAQMDAwIHAQAAAAAAAAABAgMEBREAEiEGEzEHFBUiMkFhcYGS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMSIVFB/9oADAMBAAIRAxEAPwBRe65K+qp73W11JEslwjhaWCUuAIomZsDIKjdIRzwfyBrF6oX+trLXYKX3MzW14pqpZJGC95mkKANtGCRt4zjhv7qeR3CRYpKlZVWZ6qKY7VHDAPk4xjnI0z6YqZ6rqm1R1MiNHU1kSyitJSnYFuN5IIx984OoWLWV+DtaotNBT09JcD1rau9SU8FOsMsCDArWUbXIVSQcA7VyQC4B/OjWWo6jtt79PuoaK22uoioaGhqEYpGqwl1UsNpU5GCQfpGc86NEMfKYOTbshVPDTJZ5pJI3kqlqVVl7hUCPYcEDHncT9/GNcXDKU1qXuOze1Epyfp3SOQP8gH+6qM3Rls9jsDdmJTvO3IJI8Hnz+tLV9L6mpkjkmuwBZVDgwHcABgAc44HGhZo/Tas09NdaUMXR9xt3wOqf3NN2Z2gC9tnKBSznII3Y5wM86NN7D6dUtpnkmeoatUqNscw27SDnPy+f0dGoeaKfClH0/9k=" />
 
 **Kara:** Vorrangig natürlich durch Futterspenden\*. Dazu kann man sich zum
 Beispiel im Vorfeld über den Wunschzettel auf unserer Homepage schlau machen,
@@ -320,7 +319,7 @@ die sozialen Medien nutzen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_image8__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUIBgf/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREABiESMUETIlEHFBVhMoHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMSITFBEWH/2gAMAwEAAhEDEQA/AJsqkAeFCvS4boPORwecapz6fbx25RWuupaCSoEcU/qvK1MwyGVVUt05IGVwCR51O9uT7rc1sjZI2RquNmD5wVGM5/XBzqmtgx7ftm30pLskX5e5OCY1UBYEb2oXHYhQ3VhsjAzjOoMzyS4qH08jobuFFt+5Xq7W2ahS3Fi8MsquZCApGCvyWA+dTFuLedx3BdKisuk7ySSkkDq9qDwqjwo8DW6+t27LEbZRbY2nzBTAfkKxCQtU68DAJ5GcnJ/Xga5FcrZcKKgpquppmghqeYvU4ZhjPVjvg+NFiFqb9xGRNnTqMtm3JU3Vb53pY5GjZljBJwGIOCR5x8edaSS+Vs4Pr+jJK7GV5Cp95Ge/P+aNGjaG6/kzktavL7MxQ1ooLyJzTU1QyMTGsydSqQc56ex/saZ7ivtRebbItaoLfyyvHuHY40aNKvU2LextOkn/2Q==" />
 
 Viele Tiertafler möchten im Grunde ihres Herzens einfach nur für die bedürftigen
 Menschen und Tiere da sein. Wir haben für uns entschieden, dass wir auf die
@@ -373,7 +372,8 @@ verfahrt und wie Ihr sonst noch helfen könnt,
 
 Fotos: Mit freundlicher Genehmigung von Kara Schott
 
-[gallery type="rectangular" link="none" size="large"
-ids="18174,18166,18165,18164"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_10_image11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_10_image11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_10_image3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_10_image3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_10_image2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_10_image2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_10_image1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_10_image1__l.jpg"}]}
+/>
 
   

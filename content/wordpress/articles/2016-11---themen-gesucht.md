@@ -42,7 +42,7 @@ subTitle: Leseraufruf
   title="Hier könnte Euer Themenvorschlag hängen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29394622754_0160985023_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_29394622754_0160985023_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQEDB//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwAEEQUSIQYiMRNBUYFhoVJikf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EABsRAAMBAQADAAAAAAAAAAAAAAABAhESAyEx/9oADAMBAAIRAxEAPwDnvQdlc3E2pXN9bPY6dMglS5n7EWUHAPPyNv2PzTBYafay3N5YQ3IvpTAHAhG4SSdw2jPnO791nUOpxeabLbLZSyrN2FgNijjGSACx+8eKkdCWyr1BFGnpRPMCGdwTyCG+f64+6mqG5dNYL41PSdFXpGjWSqBHZWxGMqTGCTxVbqs8kCBoIoFjZdwAiHvTp1BG+k6nLMuyWIMrq6cqwYkE5HnuVgfg8GknUbyEo6AJ2AqAnjGTz+6LnXv1AVLl4QbDXr24M7TON4UFTGAgXn2Aqwn1Gcqt3EfSkU7xt/kpBB/0eKKK2qiVPpBzT01T6ndzJ6bSna8boBgYXdySAPyAfqkibUpmbcScN5XPFFFSKUKf/9k=" />
 
 **Kennt Ihr noch meine Ode an die
 [herbstliche Schreibblockade](/2013/10/dieser-song-ist-fur-dich-herbstliche-schreibblockade/)

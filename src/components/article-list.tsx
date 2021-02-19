@@ -105,7 +105,7 @@ export const ArticleList: React.FC<{
 const ImageContainer = styled.div`
   width: 100%;
   height: 0;
-  padding-bottom: 62.5%;
+  padding-bottom: 75%;
   overflow: hidden;
   position: relative;
 `;

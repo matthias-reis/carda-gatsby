@@ -34,8 +34,7 @@ date: 2014-12-10T08:47:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "9363"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-12__l.jpg
@@ -84,7 +83,9 @@ einfach zu Hause herstellen kann und das ohne teuren Nussmilchbereiter.
 
 Prost!
 
-[gallery type="rectangular" link="none" size="large" ids="9364,9365,9362"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-18__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-18__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_12_sojamilch-11__l.jpg"}]}
+/>
 
 &nbsp;
 

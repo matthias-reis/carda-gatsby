@@ -27,8 +27,7 @@ date: 2017-02-15T20:32:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "15868"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_21416200943_1a882db08d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_21416200943_1a882db08d_z__l.jpg
@@ -43,7 +42,7 @@ subTitle: Nähanleitung
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_32105962403_6f2b2d3d03_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAmEAACAgEDBAEFAQAAAAAAAAABAgMEEQAFIQYSMUEiExVhcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhESIRNB/9oADAMBAAIRAxEAPwDOu1bVuExWWGralkUgr2RM5B9Hgau/S+wb5bWOaXpSSjWWB2msXrARcdhz8CM+SOP1pX6OurWerHFOewBSxOSwAwOP3nH91p3a70f2+OKzZMwmKo8UoBXHacL+Bn+8ajnYWWWblbfOpMrbt0bue5Ob7XNrETZmBFwM7BifkQB5Jz40vT9KCCVDenVFbJyE849ZPvVh64hq3d2S7XNqpfRRGzRzcKMfIFcEY4x26Rt02q1NtwnvWFxMCyjGSwzgMefiPOOP80XK+sbrzCT9dxsUNwikryOrBQVw2ACGyDj3yBxqm2utbv2HarTxK0v1xImGICsFYg/nnRo0oGEOq4xR3TrK9ZggWyvePirsjlGcA+CR58+/GuGnUF1oZIkKKpxyy9xGPQOjRo4J7N05n5P/2Q==" />
 
 **_Kosmetiktasche zum Selbernähen_ - Diesen Artikel hatte ich eigentlich schon
 für Oktober 2015 geplant. Warum er sich bis heute nach wie vor im Entwurf-Modus
@@ -88,7 +87,7 @@ beschrieben, daher kam sie mir gerade recht.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_22309643076_b29604c2e7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_02_22309643076_b29604c2e7_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBwgF/8QAKxAAAgIBBAECBQQDAAAAAAAAAQIDBBEABRIhBlFxBxMUMWEVIkGBUrHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAQFA//EACkRAAEDAwEFCQAAAAAAAAAAAAEAAhEDBBJBBQYzcZEVIVGBobHB0eH/2gAMAwEAAhEDEQA/AEO98Udzkcrt1KnDCowDYL2HA/PEhR7am274pbtGIk3KnUnqcuXGBngP9cuS599Vgs3GR0WPHE/uXh2D6H+dEpcUMvIYA+54j/eP+6W7Hs8ccB1PvK2O07knLL0H0tJ+M+c7LfcxVL7VJ5BxNa2RFIfwDni3upOnWxFHVkR6svPADBuOMH01kKCCbcnWChXMnM4z2FJ9gOz7DVoeL7Z5V43eXaU327E4QyWK/BbEcCqoZkCHOHAZTx/IHR1Eu93gOC+PCdORB+JVK32u48RvTXy/YRflHitHyOKrBUlf62iGjkEzlnwvRBdl5fkZOMnoa4O5eJbT4zRp/qkFiTc7BkP0x4xiJVOAxYqQxJ64jvQt7yWzNIf1KubYV/mJJHJwdGwASMjrOO8Ed5xjOjtt8vrw2p7K1JEaQZBkgWZuec8yzOeyfQD7D01Zp3UNEmQlH2RJMCDyCsjbtip1fG4bO10Z61qeBZFgbMc45MCwmfr9gC5woBIxjUaXbMkE+77d4/XoS7k5V53Vw9zBUthRlowxJwM98eyOjpI2jeNsO43NyFLfU3KwJFQVGDxQhhjA+YSW6/y/rTT4/uc0LSJXotBWclme4wksMSAGBZW+xwOsYA69ToqXlINJeRA0lDbGqXDEd51X/9k=" />
 
 Richtet Euch einfach nach der Anleitung von Dot's Designs, sie ist wirklich
 super, Ihr werdet schon sehen.
@@ -126,7 +125,8 @@ Viel Spaß beim Nähen!
 Wie Ihr aus einem alten T-Shirt eine geniale Umhängetasche nähen könnt,
 [erfahrt Ihr hier](/2015/09/diy-upcycling-nerdbag/).
 
-[gallery type="rectangular" link="none" size="large"
-ids="15867,15865,15861,15859"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_02_32540493540_90f2a0e4cd_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_02_32540493540_90f2a0e4cd_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_02_32540496850_17fc045cca_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_02_32540496850_17fc045cca_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_02_32105974183_f2fbaed626_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_02_32105974183_f2fbaed626_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_02_32105952673_19a2b8c858_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_02_32105952673_19a2b8c858_z__l.jpg"}]}
+/>
 
   

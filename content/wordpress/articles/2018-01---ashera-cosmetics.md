@@ -33,6 +33,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (35:8)"
 thumbnailId: "18799"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg
@@ -64,7 +65,7 @@ Wenn das nicht interessant klingt, oder?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAACAQQABQQCAwAAAAAAAAABAgMABAUREhMhMTIGQVFhBxVxkdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUABP/EAB8RAQACAQQDAQAAAAAAAAAAAAEAAhESEyExBBRxkf/aAAwDAQACEQMRAD8A5ni8Y8jRpFbySsx0qIpJY/A13qlt/T99zxb/AKbIC5KlxE0EgYga2QCNnX1U5Y5O4u4FhtFkkluIxoqxMgBG979te/8AFOj+SMtjYGimOPuISY+QJINiGRT0aEA+XyRXFuZeZfPMTqp+xpd4K4g5a3WJnti0YdA6spZd+X3v5pJf4WVwxS3k18BSdVRwXWI9R2k9+kMEXqbiXmxTruGUa0qqGJKDSjWug4j096i8tNjsixJx6WssZYTRSdFQjy2BrXai3Am94TDXn7IC/wAi9pBbRQovG8Wy7dRo/X+0tgyE8V6l3IedIvbjooptaVx1I+p5m23ztyl/BcRAIVAQqD5DfT+t9KrMkj5u0uJGlkt7lQUkkjY6lUDsy+/aiil3CqBC1KZZ/9k=" />
 
 Da für mich an erster Stelle immer steht, ob ein Produkt vegan und crueltyfree
 ist, startete ich als erstes eine Produktanfrage. Ich teilte Ashera Cosmetics
@@ -91,7 +92,7 @@ nach."</blockquote>
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwcF/8QAKhAAAgEDAQYFBQAAAAAAAAAAAQIDAAQRBQYSEyExQRQiUWGBYnGRodH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQECBAb/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIEEQMTITFBYXGB/9oADAMBAAIRAxEAPwDHdOliKrw4SwPQk4pjsPESsqxBELEAYHT5NKmiSBHaBuqc1z3U9Px0p+2autNGo20OtXiWliyPl3kESsQOS7/bJOc+gNL3AdBdZHjx24dYjr2oNaXaEPI5bBxuswIPwKpvtPju4GaJSHA8yMeY+3qKZdfutlrOeaDZ/W01W7EUbxxMQiMScFeLjB9sA+9LUsO0EGoCbW7RbO0CMYoYkzvtnGWY8yBz6YGaih9QJj4uTHbefApZfc3EsMKzxNuSr5QQOxrlT3U91KviJXlP1sTRRWpgFJOcjtMC9lCGeYShlkKvne3h6/z2rTIIbuxtV4l880bKMRLGsaDIHYc/3RRVX8hCs0v/2Q==" />
 
 Nach nur zwei Tagen traf ein äußerst liebevoll verpacktes Päckchen aus dem Hause
 Ashéra bei mir ein. Nachdem das Unboxing der kleinen Schatzkiste für Euch
@@ -109,7 +110,7 @@ Tag mit Waschlappen ab, da ich dadurch viel Watte spare und weniger Müll mache.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAJxAAAgEEAQQBBAMAAAAAAAAAAQIDAAQFESEGEjFhIgcTMkGBweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAIEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMRNBUf/aAAwDAQACEQMRAD8AxLdni8hCGtkvFmiDcOFI5A5JBpnFlrGeaGSK0jtlVg7LGAxI1rROxse9CkGSnDZElF2I0RPiASN8twfPmrr1Lk+np8RZW/T8EivHcaU3ECxuYvtjfcQSdmQn9kdvusdmQ7ADXRnaxcGkcSQSf2R9UG06fyxivsdM8pjilCxuoCDXHIHy3wfW6nycNhNCssVyiCRQ4WUFPI35I0atP1waLMYPCZaJHVFZ7RnZezY7A6615APeNfrms+xOSE2CiXv5jBjO/X+VLbnU79gDGqakOOj9yiZC4kivC6HRdQx4B9f1XMOSuHcKX/Lg7A8UUUqqCggfPYh0rRtPns3lmNteZa7liQKQkkhZRrgaBOhoUyhC4u0O1E7sSzMw1v8AjxRRRWe6lubFezP/2Q==" />
 
 Mit dem Ashéra Reinigungsschaum geht das gut von der Hand. Auch hartnäckiges
 Augen-Make-up lässt sich leicht lösen, ohne dass die Haut ausgetrocknet wird.
@@ -136,7 +137,7 @@ die Creme eine klare Empfehlung.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcA/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBjFBBxNhUXGBFCIyocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQABBP/EAB4RAAICAwADAQAAAAAAAAAAAAECAAQDESESIjFR/9oADAMBAAIRAxEAPwCX25dtJTs3faAfxx/mqP6eUEF3uSwtCJIVQ+8SoOzIO08/I0E6bnoLvEtGsrQSMskwmZcqqrywI8eedVf0vpn6cuNyp5BLUmpip5I3VdqkEOec9uCD+RpHWTysBXHOxtZKribR9oJvyz0/UVTQRUpDLlhGq9lwSPj+Izol1pGauKhSM4VQzsfngY+/B1dbjJTydSXORigkaKJdpIDKMNgn6jzz2GftqIepE/6e/wAsK+/ErBJHV1wHOM7wMnx/emCUQMhbfNmEqqlhQr85C9luk1sXbSCNjIhjIYYYDzz85xqhdM+oJhV47y5hysZp5I0LYKEYBC4IG1SMjJz+dbW1QUK3mPs1NXTMvsIeuvVlVH1DPVWyumMbRQwv7q594IoGXHOSef25+vOjF8vMtfLvkWEEcDYmML48nsDjvra2ih2/ZGVcK6Qan//Z" />
 
 Die Rezepturen von Ashéra binden uraltes Wissen aus der
 [Traditionellen Chinesischen Medizin](/2014/11/auf-dem-weg-zur-tiefenentspannung/)
@@ -164,7 +165,7 @@ Nacht, sprich, die Zeit der Regeneration und Entspannung.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAITEHEhMGQVEUImEjMkKhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQSIREiMf/aAAwDAQACEQMRAD8AEaGIAjSf0too667Rwy09PMjsykTRBxtGxHP5wdHVHCwztp66AqYfT1znSJTK9YE79+4KIxtkcDfUfG8e8AytkrpSWkd1No4KG8SwQQQQpHKFURRhNvEpPH5JOoadSQcaauvsYls1lqTEgn+qkjZxyV8eRn540OtEyxMzjAAzrOX8XECGOu9IaSYvNxjUkSuAN8BRkj5G2mLorVzV1nkWvlkNFNXtFGhC+NpvDkBzyDjJH8crvuBkWp67yRmM4jiDBiVbLYH9gb6Q/QF8orZaHoZqyCkqUuCVkH1gYwSDwtGysyDY4YkEe407XWqt6B5Gcpd6vnstuuVzCel7JPTVkcyz1z4aOXuXIiA549xoXqfUVU8UiSTu4C/t7uRxqo6g3K1t6esdiorhJczQO9RNPTn9HuYAFVOMjAGTyff30f1EzdvakZGBg7/fj4/3RbStj7EdnPHUrV+87P/Z" />
 
 Tagsüber wirken Ginseng, Rotwurzelsalbei und Tragantwurzel anregend. Die
 Zirkulation soll angeregt werden, die Haut dadurch gestraffter und vitaler
@@ -214,7 +215,7 @@ Hinweis: Die Aktion ist beendet.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_5__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBgcD/8QAKxAAAgECBAUDBAMAAAAAAAAAAQIDBBEABRIhBhMxQWEHFCIjUVKRcYGh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQIF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAEQMEEiET/9oADAMBAAIRAxEAPwDA6OoSIKRGn8ljv/mLrkMk6080j00MguAC6t9MW6izC/8Ad8U2mhinVFpgSQuq7SaQGN+h2FthfbD+DiKGT2sEkLQ1EKlXeM6WYdtV+4++EGTg3VzuZNZuRyZtHEWSZdlOTZFmOV1vMjqoD7gO+vTKADt0sDuLeMUbiXiKjTLqmnnmUB42QmOH5C4se+O/qJ6rS8QenmX8M01NO9WGX6gOp30g2sAOwxlOZStM/NqJE5jIFYrvbsQR0JvvtjfzDG18gseuWU9n0RRR1jJyzp+Jb5IDYG3TDGSt93HpMQsoJBdix287Ht+sGDDBhcGRitEyI9IEsqLpNmuAevi/4+MKaqYRqojQix0j5Ejz+/tgwYsSbR5SxP/Z" />
 
 Unter allen Likes und Kommentaren hier und auf Facebook sowie Instagram verlose
 ich ein hochwertiges Set aus Gesichtspflege und Reinigungsschaum. Ich ziehe

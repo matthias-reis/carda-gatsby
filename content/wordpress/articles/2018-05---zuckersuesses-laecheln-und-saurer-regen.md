@@ -34,8 +34,7 @@ date: 2018-05-17T15:04:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "20918"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5435-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5435-2__l.jpg
@@ -59,7 +58,9 @@ Natürlichkeit und Rücksicht Unser unverdrossener Eifer beeindruckt Dich Hält 
 den Spiegel vor Intelligenz bedeutet auch loslassen Würde, Respekt, Güte und
 Aufgeschlossenheit Liebe ist etwas Gutes - Das sagt nicht nur die Enzyklopädie
 
-[gallery type="thumbnails" size="medium" link="none" ids="20915,20921,20914"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5434__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5434__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_11512636314_0401533838_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_11512636314_0401533838_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5432__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5432__l.jpg"}]}
+/>
 
 [Sonne und Frieden](/2016/03/sonne-und-frieden/)
 

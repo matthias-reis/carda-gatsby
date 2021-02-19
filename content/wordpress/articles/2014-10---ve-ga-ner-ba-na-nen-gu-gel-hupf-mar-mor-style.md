@@ -46,8 +46,7 @@ date: 2014-10-20T16:50:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "9119"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-1__l.jpg
@@ -89,8 +88,9 @@ noch in die Form, ich habe nur einen kleinen Teil davon genutzt.
 - 1/4 Tasse heißes Wasser
 - Kokosöl
 
-[gallery link="none" size="medium" columns="2" type="rectangular"
-ids="9091,9096,9095,9094,9092,9099,9097,9093,9090,9098"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-9-e1413821941612__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-9-e1413821941612__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-7__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_kokosc3b6l-1-e1413821922748__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_kokosc3b6l-1-e1413821922748__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_titelbild-8__l.jpg"}]}
+/>
 
 ## Zubereitung1. Cookiehose anziehen
 
@@ -101,8 +101,12 @@ ids="9091,9096,9095,9094,9092,9099,9097,9093,9090,9098"]
 1.  Die Vanilleschote aufschneiden, das Mark mit dem Messer herauskratzen und
     zur Bananenmasse geben.
 1.  Haferdrink, Zucker und Distelöl mit dem Quirl unterrühren, bis eine glatte
-    Masse entstanden ist.[gallery size="medium" link="none" type="rectangular"
-    ids="9107,9108,9109"]
+    Masse entstanden ist.
+
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_zubereitung-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_zubereitung-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_zubereitung-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_zubereitung-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_zubereitung-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_zubereitung-3__l.jpg"}]}
+/>
+
 1.  Mehl, Salz und Backpulver beimengen und gut verquirlen.
 1.  Das Wasser erhitzen und die Hälfte davon in der kleinen Schüssel zum
     Anrühren des Kakaos nutzen.
@@ -141,7 +145,7 @@ Ingwerwasser.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_veganer-bananengugelhupf-7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQIEB//EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQASMQYTIUFRFCJhMnGBwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQYH/8QAIhEAAgIBBAEFAAAAAAAAAAAAAQIAAxESITHwBBNBUXGx/9oADAMBAAIRAxEAPwA6Y6caqIKq24LuKoMkD86u/poYlw8GVBwHx5z8EcjWHSt1giDQpTx1NQ+PuWdogFPAxxgePOfemGshd62EzBoIyO4NzhtuCAD4JPPH7HXP7FJfQ3Pe7zXCzG44nIb5fTHWT2y0W+mvVXBUNBJM85WOHg7WAwWIJKlgwGV96rrrQV9NTiW9WqOggYhfrKCczxRMeO4hZiB+QQfgHjW90Va6ahd7dd6cCtpKgvICxBMoY/dkHyCMH4II+dOl5npnh2OAyygxuvO9WGCuPf8Aurpsqof0lTPyfc9+sQAR7V1lsfkWaBnEm4sHVht2OoZcH+9O9FVsr96Leh3IuS2W9gHPrGPAAwNGjUwkuQWjSoXiVNkehvrCG9W6OoKHME8UjQzQoxJ7Ydf1KPQYHGfGBqXNHbOpaCkt9HgyzdozVEpncAg8Z8D+AD+dGjT/ABXLDDQ1yhTtP//Z" />
 
 Lasst es Euch schmecken!
 

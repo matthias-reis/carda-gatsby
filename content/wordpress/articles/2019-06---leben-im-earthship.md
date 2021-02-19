@@ -55,7 +55,7 @@ er heute frisch überarbeitet in meinem Blog.
   title="Auf fließendes Wasser muss im Earthship nicht verzichtet werden. Foto: Earthship Berlin Tempelhof"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Toilet_2-200x300__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Toilet_2-200x300__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwEDBP/EAC8QAAEDAwMDAQUJAAAAAAAAAAECAwQABREGEiEHEzEUFUFhgdEiIyQyQlFxocH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAX/xAAkEQACAgEDAgcAAAAAAAAAAAABAgADERJBUSExYXGBkaGx4f/aAAwDAQACEQMRAD8AiumWkrZN0FNmOZM9UpbZ+74ShAASAfmSfiaQLdCEp1MtqM0mO44oMkqPcKd23eR4xnFXd0tmR2Omae8pptx2dJ2p8ZwUfUVW17YFqZVCgq/DgqUkqOe1knAR78ckjJOOKOkoFVnHHPbfGN+Npdap1sq+P56fMW/SMTLVFcVtUsOOAnzn8o+tFYfc9Na4SEjHLnj+RRQ1glc+f3FKgRm0vqS3xdP+z7hAhy5DSnZcFbzO5TTm4BXnI5ASeB7qmLa5AvWoI0W7RmkxnmXHFLYHbUjanOeDgj4YqutKXu0R2JrV0sMW6rU0rtuPEgtjH6ccg55yCK26cuEhiWzIc3YRHeb3+cbmynz86zrq2UAhj7mVo6uzdJ19Q40W2agXBhKUqM0lJQVeftJCv9opY1hdPU3t9zeCTtBP7kISD/YNFaFCkVrniRW2LrM//9k=" />
 
 "Tiny House" war gestern. Wisst Ihr, was wirklich cool ist? Ein Haus, das
 vollständig aus Recyclingmaterial besteht und von Freunden gemeinsam bewohnt
@@ -89,7 +89,7 @@ oder eine Stereoanlage verzichten
   title="Hier wird Obst und Gemüse angebaut. Foto: Eartship Berlin Tempelhof"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_global_greenhouse5-300x200__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_global_greenhouse5-300x200__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EAC0QAAICAQMDAQYHAQAAAAAAAAECAwQRAAUhEjFBBgcTIlFxkRQVJDJSYaHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMABAX/xAAfEQEAAgEDBQAAAAAAAAAAAAABAAIDESExMkFhgfD/2gAMAwEAAhEDEQA/AIlDtkhlY11aaPBlIIJJHfDAf4dNNWu1iCGnUAaIqHCMuRIccgtwFH/dZux+obde5ZlldgLCNE6uhUGMgcADsMj+9M9gVNv23IsSKzyK0iwgHJb4gM44GTjg9zqllRtoQULO8vns49NNtGxyNLDPVtT9IdZUIjk6c9LKO4ODz5Bz4xpd3Wje3Gp6t3u0FsI2z3qkFhXBCxfhy6gZ5yer5dvOo7+sfbq8+xrvO37nXMivaF11awGLHC5POCO47jjnxWNhv25vZrdp15kcttcyyFz1E4rKpx5/l9tMx3HxC04KyG+z2tHudrc/edQkjro3W568kyH5+OO2mL0WR+WXhMiytBOIgzD92G7n76NGs/Py+oytBqv3abPpkxWbO2SxQpFPLZUqT8aIw6vi6TwScY+hOlETWre5bnQhn9xDHHYlRACUHRz04z2P14PPk5NGn4thkr0E/9k=" />
 
 Im Haus können das ganze Jahr über Lebensmittel angebaut werden. Zu diesem Zweck
 wird die Wärme der Sonne genutzt. Eine große Glasfront an der Südseite jedes

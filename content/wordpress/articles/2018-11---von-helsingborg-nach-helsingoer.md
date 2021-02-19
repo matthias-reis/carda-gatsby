@@ -51,7 +51,7 @@ Hamburg wollte uns wiederhaben. Aber wie wir bei unserem Besuch dort entschieden
 haben: Wir werden wiederkommen. Das gilt noch für einige weitere Ziele unserer
 wunderschönen [Schwedenreise](/tag/schweden2018/).
 
-[glry name="helsingborg"]
+<Gallery name="glryhelsingborg" />
 
 <small>\*Trad. schwedische Kaffeepause</small>
 

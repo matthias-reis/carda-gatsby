@@ -49,7 +49,7 @@ scheint - nicht nur räumlich.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-5__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAQMCBQQCAwAAAAAAAAABAgMEBREAIQYSEyIxB0FRYRSBMnGh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMhBRMEIhJxgf/aAAwDAQACEQMRAD8A12ix04ljheSFZ3GVjZwGI/rVZHw5IUAaHYeO3SChWgNMzx00VTKOXYQddzuRsPBO3ztrbw5TwXq2SVMM1RBNIXEbguhQKeXJQNkdwIIJ9jjA1oNyhAsLqZ448XVzmPq9w/PZuJEqYvyGSsg6vUde1H5iCox8AA/saxem9klq2vdSYZZUiVI0fGV5iSSM48jH6z96uPU65UNFwvV20X1amtlCRvTJlzjnDMx5iSO0Hx/ulc9XY7pb5JLdeKc1JDSw0ywdPO/8VA5PJx7g5z50JPJrJ3BdRjYLx9V7jGwXCZYY4YpIlQ4McjDPTA3GExy4znTe21kNht1LA0xNMGfvLMCHZ2Y+NyCWOMD2x8aNGhNlY+l6/ItcSD3rf2ZOcWJDxN+dJb7dDyQxIyTtS9OQuq9wDtgsD9j2Oo2isryIklRSNH1YOYQzs0ccwIzs64KbYIzn70aNWxsVX4iRdQxuf//Z" />
 
 Die Welt ist aus den Fugen geraten. Im Moment ist an Reisen nicht zu denken. Die
 Corona-Krise hat uns fest im Griff. Alles ist anders. Matze und ich gehen nur
@@ -96,7 +96,7 @@ zu verpassen. Für andere Themen bleibt da kaum noch Zeit.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2019-06-24-gibraltar-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBv/EACgQAAIBBAAEBQUAAAAAAAAAAAECAwAEBRESISJBUWFxgaETIyUxMv/EABgBAQADAQAAAAAAAAAAAAAAAAYAAQID/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECBAMRQRP/2gAMAwEAAhEDEQA/AEMXhS6r9MB/imo8MyAccfD6isYu/wASVX8hZn0lU10VtfY0p03tuR5SCkzz6DnlsBkxAI/kChr/ABiorEqCPAcq7TK5S1tbdTbQSX8z70sP6XXdjrx96Du8xjLiFjMlzZSKOpbiFgoPfTAaPxWHaj1nSNafEF4zKcKr9zXvTkGRLDnIdeZqqos2IUbkyCKpLS7PYb5mib/LMEbhkKkjQANVVUiH/9k=" />
 
 Für den Fall, dass Ihr Euch trotzdem auf meine Seite verirrt, möchte ich in den
 nächsten Tagen und Wochen gerne viel Positives mit Euch teilen. Fotos,

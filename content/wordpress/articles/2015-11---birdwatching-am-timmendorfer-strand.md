@@ -51,7 +51,7 @@ Timmendorfer Strand erholsam und entspannt.
 Natürlich haben sich auch einige Wasservögel gezeigt, ein paar davon sind mir
 sogar vor die Linse gelaufen.
 
-[myflickr tag="annetimmendorferstrand2015"]
+<Gallery name="flickr/annetimmendorferstrand2015" />
 
 Ihr interessiert Euch auch für Fotos von der Nordsee?
 [Hier geht's nach St. Peter-Ording](/2015/08/st-peter-ording/).

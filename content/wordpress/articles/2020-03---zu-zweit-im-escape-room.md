@@ -57,7 +57,7 @@ Prenzlauer Berg.
   title="Wie es im Inneren des Raums aussieht, verrate ich Euch natürlich nicht."
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-07-escape-berlin-8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-07-escape-berlin-8__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGAgf/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABiESMUETFHEHUSIyYoGRscH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAIREAAgICAQQDAAAAAAAAAAAAAQIAAwQREiEigeFBYZH/2gAMAwEAAhEDEQA/APXNyWhLfaN8ATTzGpoYXaWd+pyQGUZPHgDWFqd112xNtGitNHDI1W71MsnqASRx+mijoXHLHDHk9h/Bu/vqHbd1bfuEMkE8VVKkQibmNVZGJ8OerIJGCMeeMaP3TXx3m1QXJVELLTsBG8QJEY4RhxySS2M/caNezKnNPk6jcTHDXcbeg0Z1fK2xUG3IrpZ6Ctu1bWlPVqbgyiWVsHle4VEPBCgAeM99Ws3c0pqjZtkqLMVqljLRzorlZI2PLdSt2weMLwQQRq1hsq5TxVR0+/YnZMShl2zn89GFXTb13ttoirLhSrSoyerGlVPGryeBhCc4P9fOhrlcqmjt0lurZJJKmVo5nPXlVGOF+ACeBxknWEa4TVkr1FbUSzzv3llcux+SedJbq3DLfLpNXzKqSSKgIH6VA/zP76WqhO0QjWM/c0XsVXV+/mWhqFjbo6ykgykhBxg/b5GrQW3p39+8sT9Mqr+Dq/K57lT8gatTcxC1u1A8ythMoqHLfif/2Q==" />
 
 Ich hatte bei Escape Berlin die Wahl zwischen verschiedenen Escape Rooms und
 habe mich natürlich voller Überzeugung für "Sherlock Holmes" entschieden. Rätsel
@@ -116,7 +116,7 @@ der Fürchtefaktor im Nachhinein betrachtet tatsächlich in Grenzen.
   title="Liebevolle Details"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-07-escape-berlin-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_2020-03-07-escape-berlin-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAKhAAAQMEAQIFBAMAAAAAAAAAAQIDBAAFBhESISIHEzFBgRQVMnFUscH/xAAZAQABBQAAAAAAAAAAAAAAAAADAAEEBQb/xAAmEQABAwMDAgcAAAAAAAAAAAABAAIEAxEhBSJxQbESYYGhwdHw/9oADAMBAAIRAxEAPwDPmOY993uUaAwh1yW+exttCiT/AJ80wZTgQxq7KtlyblszUgHiWlFJ2N9FpJSfg1O+GVqtyrkyLhHvUpC/4xPYkn8e1af3VrZfhcWfI+hx235HKmBCiy9OdccSV8djksudAfx2QKzcnUyyt4bm2B0639f3mrynHYGgOAzz3WZ5FmDbnHUnXtxZVqo+Xb/JSo6dSR7LbKa0ji+EW2ZOvFtzaPKdcjbW25GkKSoLBPapCnDsb9Dob16+9LsTw8s17xG7XVT/ANA/DUENtSnufnpCR3J0s62d9KO3VmNO49vu/shuhh2B8qprXcmmCCu4SWta0G3lp/qrJwLxCi49co8tN0nuuNkkNuPvrQroeik70R+6KKmSINOsMkjhApSnN22BC4fELLrRk15k3GWFmU8E8ihtxIIA0OnpSHJuEZBUlh2Rw9AklzWvk0UU8eGym0NBJ5KVWW4mwAC//9k=" />
 
 Dafür war es super spannend, die einzelnen Rätsel waren sehr durchdacht und der
 Escape Room an sich sehr liebevoll und detailreich eingerichtet.
@@ -150,7 +150,7 @@ noch so alles erleben kann, schaut am besten
 Game bei sich in der Nähe hat,
 [findet hier eine Übersicht](http://escape-game.org/).
 
-[glry name="sherlock"]
+<Gallery name="glrysherlock" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

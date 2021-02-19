@@ -83,7 +83,7 @@ ab und trage wieder das Serum auf. Das klappt super mit einem weichen
 Waschlappen. Das Mizellenwasser nimmt sogar wasserfestes Augen-Make-up ganz
 leicht ab. Im Anschluss spüle ich nochmal mit lauwarmem Wasser nach.
 
-[glry name="naturkind"]
+<Gallery name="glrynaturkind" />
 
 Meine Haut sieht schon viel besser aus. Was mich besonders glücklich macht:
 Trotz der reichhaltigen 

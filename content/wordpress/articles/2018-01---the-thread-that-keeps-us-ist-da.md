@@ -60,7 +60,7 @@ sensationelles Album der
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_The-Thread__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_The-Thread__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAwYH/8QAKxAAAgEDAwMDAgcAAAAAAAAAAQIDBAURABIhBhMxMkFRIkIUFmFxgZHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQP/xAAfEQACAQQCAwAAAAAAAAAAAAABAgADESExEoEEcfD/2gAMAwEAAhEDEQA/AOtyVsVO1xqbhdbgsS1Tp24XldwTIVRUCn3JAAxolrpZaaeVTdbrUywyLC8UUk0hDtIIwmB924gEe3nQVbbKW7pXU1woWkgkmfdjY4cByeRnPx7Z41TS9H9LnINut7PkntvAiknIPORxyB/Wln3uVSYaYfdy78z9PTEul4vKAbpiAk+FjQMGY5HCgqQT88e+tBaamCrtEdZRz1c6M5CtN3EkRlk2srKxyCCCCD8aSTdP2KiRTP0nSPCpD5ijjYA4IyAR5wSP2J0+tTUENBFR2yjgo6NNqxwxFVCfUDgKOB51iTrMYXhfAihizVDoJHx3H42hgfqPyv8AupqWmigc+oNx6NJJ6GrFZVFqG4spmkOGimZfW3Ixxgj40rp6SukujSmzXOAJ4P4WYLIfBY8c8cDS9SrxJJU29SAXxNF35ZFCSU8BK8g9sZ0wt9ZUd5YpFj292MZSML9486z8tluEsq1C114hk52JEKgIM48gx/p/Gg4bDd2v9tqJpr1IkdTCWClyjASAkvuUcYzn20C+SjECxHUMUyubz//Z" />
 
 Doch was heute aus der Zellophan-Hülle hüpfte, stellte alle Wünsche in den
 Schatten. Erst ein Rascheln, dann ein Seufzen. Die Platte wird aus der Hülle
@@ -92,7 +92,7 @@ The World With You". Ein Zitat aus meiner
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_19944984023_35d6de4f85_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_19944984023_35d6de4f85_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQGBf/EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQASIQYTQRQiMUJxByMyM1Fhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAQMFBv/EACIRAAICAQQBBQAAAAAAAAAAAAECAAMRBEGhwRITMTIzUf/aAAwDAQACEQMRAD8AgOmbNdOo4vV2i3GprKaESsqMFJjzyMnyfpHJJ+AdR/VrSSXOeMQtTzx/u00qlJFYfPtIHPnVj0N1Xa7bWU/dqvTpGElZaiByhdM7CwX3AAkncCcfJU44xfxMudnm6ka4UtLJXVNSiT1ArJH7SyfUqD2s65BwzY48a6u3XGhjpNP9agAY33PJ4iKq1qi635E56HEl6OskpqoSrlMna2DjB8fbS9zq0qt75jilb9ShQFkx/Q4Da2bFeaejuK3WtSoDKrbPS7faRjHDg8AMR50p1LV08VTVx0dO0cMknc7EsKoVXGATt+Dz4x9tJ6itbnzjGBknqW02GtfH927jEXUlogj/AC1uwmljQVDpMqh2BOcgqc+P40rX3OgFgtb0s8U1zGRPHLS4aLDZXa5yGGOMaNGsv1mY5MMVKPaLWS+RUhX1UEEhVuNy8bS2SBjgZ/zRd4lFDTVVRLT1E1XHu3JVLK8eCAAwByhx4PJHOjRonvdwAZArVWLCf//Z" />
 
 Weiter geht es mit "Voices In The Field". Für mich klingt das Stück noch etwas
 knackiger, als "End Of The World With You". Mit dem zweiten Song beginnt das
@@ -135,7 +135,7 @@ und tanzen mit. Lasst uns in einer anderen Zeit wieder zurückkehren!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgUI/8QAKhAAAQMCBQQBBAMAAAAAAAAAAQIDBAURABITITEGByJBFBVCUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ao0SqUJjqCh9OIgfOdqesS60tK9ANixK97gX22tbC/cjpxhtuGELdGVR0/IlIBHtJNjv75/eIR2YrctnrumvOtTtNLmi4uInWLylZgEki2y1W9hPjc8Y9FdxHpZRTtenyI7aypOZbiCRYE2IST/pwCXblxpXT8Vh9lSGoS3WlulSQ2vMsqGXe49ixHI2vjMd7JkRrp2TR23lfLcQmSxlQSh1tJ3sseN90m1/zhuKpmP2/6tbeMdxqNDekWcAUltYS5plX7CspHsHEV+s01ily4NJfZk6zIakORxkaUtCSQ7lPGfkgW3BNtsBN6bUIbE6QbER1gBIcKkkDNcjxv6JxrY3VFFRB+R8qfqtG4p7j6yhw888WuBz/AEcGDAI0TuDVI1ZmvSJa2YU5stvx2NmrXKk+PuxJ3O++OrQFU2YipxqTJpkcSkpJTMdS3mUPt1FDMEG97A7qA/kGDAf/2Q==" />
 
 Wenn man die ersten Töne von "Unconditional Waltz" auf sich wirken lässt, fühlt
 man sich an Westerfilme längst vergangener Zeiten erinnert. Oder sind diese

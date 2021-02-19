@@ -36,8 +36,7 @@ date: 2017-08-15T14:44:30.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "17597"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__l.jpg
@@ -67,7 +66,7 @@ Test am besten geeignet.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYABAECB//EACwQAAEEAQIFAgUFAAAAAAAAAAECAwQRBQAhBhITMUEiUQcjMmFxFBZCgcH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAyExEv/aAAwDAQACEQMRAD8ALTPiBjcU6tx515bbaeYoPkfZI9R/OgeQ+JbcnJtQ42FcK5KAWHUqCrJTfrRVora7Ngb6TuJOFDPxsfN4yXDnIkp+QtRKC0RupBPhQPnfz22OgUpEyHj3HHo77uUlWkyGl9MgWDSQdyNjuavUWp1jLqnpOhHjDKOYpp79uOtykyOjI66w202mha0nuR+a8d9VofHWLlSX25YOPQh4sNuSFAh0jf08t7VW9VuN9JOdTHxvDTTa5a/1chsOPuqcUepf8FVQrtXbt39xUxiW/iIbMKMX2VpLpcaaCFhRJsgE/TXne970NeKqRWyHsjWVl4syHcY8+xBedPKSPlqNDZQNi6oWe9avucbTFxiiVDjPAgjmaUpsm/wSNJOQy5lxUx+RTICrWArZR8Ej3GsuyYKYDYZW91+n6kEbFe3b2H9eO+ma72w/oDCNeV4ybecRzY2QhTZT6S4kgAePp/zWj3G7zDamEwGFFI5ed10qB+9CtISnQSSCa++otxTqgVqU4vYbmzrSoGSF12f/2Q==" />
 
 Es klappt tatsächlich! Nach 36 Stunden bei 40 Grad haben wir nun schmackhafte
 Dörrkirschen sowie getrocknete Chilischoten für unser Chilisalz. Ich freue mich
@@ -105,8 +104,9 @@ Beeren, Kräuter, Körner, Kerne, Nüsse und Blumen trocknen. Der Phantasie sind
 keine Grenzen gesetzt. Übrigens: Wenn Ihr ein tolles Rezept für Rohkost aus dem
 Dörrautomaten habt: Immer her damit! Ich probiere es gerne aus.
 
-[gallery size="medium" columns="4" link="none" type="rectangular"
-ids="17594,17599,17595,17597,17596,17598,17593"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517604_e699cacfaa_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517604_e699cacfaa_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36584820425_35b5566d77_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36584820425_35b5566d77_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517794_d386d78da6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517794_d386d78da6_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35775340193_4536a81967_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35775339863_2a880f0240_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35775339863_2a880f0240_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36416262712_3081cd5697_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_36416262712_3081cd5697_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517534_e8723faf69_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_35749517534_e8723faf69_z__l.jpg"}]}
+/>
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Das Produkt habe ich in diesem Fall sogar selbst

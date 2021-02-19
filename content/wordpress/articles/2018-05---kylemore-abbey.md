@@ -57,7 +57,7 @@ und 40er Jahren hatte er erneut eine Hochphase, nach der er erneut überwuchert
 wurde. Erst im Jahr 2000 wurde er rekonstruiert.  Heute kann man ihn besuchen
 und die prachtvollen Beete, Obstwiesen und Gartenhäuser bewundern.
 
-[myflickr tag="annekylemoreabbeylove2017"]
+<Gallery name="flickr/annekylemoreabbeylove2017" />
 
 ## Wegweiser Irland 2017
 

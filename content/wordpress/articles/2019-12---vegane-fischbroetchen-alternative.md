@@ -65,7 +65,7 @@ Intelligenz und dem Lernvermögen von Fischen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_12_2019-12-03-so-fine-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURAAYhBxIxE0FRFSJCgSOx4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAJBEAAgIBAgUFAAAAAAAAAAAAAQIDEQAFUQQSMUHhExQhIoH/2gAMAwEAAhEDEQA/AET0qsVJfd40dFdFL0ZWSaSNX7S4RC3bn2BONdER9KNmusVQ9iQUjSrEzCtk7gPyIAfBxxxpS9HaGWxbmivQt1Ywpaef7ZWVO9mTAGPI858Hj206qoXrcf028U8c1KabvVaN5FRhnH8iFwPIyMMAcc++l+IZ/bmSFbo9dvy7OFjjBmCO1Dbzig39ta37d6kW21WRpPpU8K1yxSYb03w4IDkdxH28An31i+oFOIVp0QAsfYeeT/mm9u6G1QbzpXrUiuN2SmjIiWX1ZRnvyMg+Bn4/eq6/RN6LOYoaTC4CqBpZdSKxhXSmPXt5w76fcvOrfWspdvVEFXG8NVMTC6lXwwUHjgZ+NWM+47Rc0pqIWZ4fSiEMccKtH6r8AdzY8Y5J0aNJemCSds0IZjH2BvfJdPU0toVjTNElS6hZZIl+PxUnOB/esle7osgZjKXfnJPJ/ZOjRqI0BazlJZCfnP/Z" />
 
 SoFine [<sup>2</sup>](#2) gehört zu den Pionieren im Tofugeschäft. Das
 Unternehmen wurde 1963 in den Niederlanden gegründet. Die Mission lautete:
@@ -113,7 +113,7 @@ nicht oder nur sehr langsam abgebaut werden. Sie reichern sich in hohem Maße an
 und sind toxisch", berichtete sie uns. "Die Anreicherung ist besonders bei
 räuberischen Arten wie Lachs, Hai und Thunfisch sehr stark."
 
-[glry name="sofine1"]
+<Gallery name="glrysofine1" />
 
 ## Gift im Fisch
 
@@ -172,7 +172,7 @@ In Wirklichkeit wurde jedoch längst das Gegenteil bewiesen, meinte sie. "Lynne
 Sneddon von der Universität Liverpool und ihr Team haben inzwischen bei der
 Regenbogenforelle vergleichbare Strukturen wie beim Menschen nachgewiesen."
 
-[glry name="sofine2"]
+<Gallery name="glrysofine2" />
 
 ## Die vegane Alternative von SoFine
 

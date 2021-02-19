@@ -66,6 +66,6 @@ Dir hat mein Gedicht gefallen? Dann freue ich mich auf Deine Reaktion! Wenn Du
 gerne mehr Texte dieser Art lesen möchtest, dann
 [klick doch mal hier drauf](/category/bleistift-2-0/lyrik/).
 
-[myflickr tag="annelandpartiehui20180610"]
+<Gallery name="flickr/annelandpartiehui20180610" />
 
   

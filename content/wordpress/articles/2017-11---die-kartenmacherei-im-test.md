@@ -30,8 +30,7 @@ date: 2017-11-25T10:25:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "18588"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__l.jpg
@@ -53,7 +52,7 @@ einen Kalender gestalten.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-8-von-16__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-8-von-16__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEFBgcCAwT/xAApEAACAgIBAQcEAwAAAAAAAAABAgMEBREAEgcTFSExQWEGFFFSIoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/AGezWEGEvWeoo0VeR1ZfVSFOiPnkUi8Shwlm34lcuLHAZNifp2RvqHT6aA0Tv55O6VZM/RmxffmAWoWjMiqGKDXrr35rg7LlrxyomftlJFKsn26abY1+eL9ijjshORfLDEwySW71V3QN1dbKF8gdD2/075Y0NVZMXUnU9XeV43J/O0B3xY+zaJkVWz+QUBQvlGnsNf3zoySx4SumPWZ5lrQpEJJNBnAUeZ15b5S2sNcAJWlLP28NHNdqiNpYonIEgJX04+0+0HOT1opejHDvEV9GBjrY3+/DhzCazdXDkzs/X2fjrSyDw7+CM+vtm89An9/jjPcz1zKwxW7ZQSzRIzCMFV9PYbPDhwVKvJWzY7P/2Q==" />
 
 Klingt schon mal gut, oder? Das Ganze funktioniert in mehreren Schritten. Als
 erstes sollte man sich am besten alle Fotos in druckbarer Auflösung in einem
@@ -83,7 +82,7 @@ und dabei sogar zwischen den Seiten hin- und herwechseln.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-6-von-16__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-6-von-16__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBgcCAwX/xAAsEAABAwMCAwYHAAAAAAAAAAABAgMEAAUREiEGEzEHFEFRgbEiNFJhgpHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AGnL7tAekpMZK20FSTIVpaz4aj5ZqLTGr9brc/OducUxStOtwTOYhIKgAkDSQAckH+VMIUVu/wAJ63F8sh1vdxKQogAg9D54x60jPZ4IyyYV9nRklKUlDTaUjIGCRvtnrjp9qMSQ2TZuJiwVsuznNaCU8m7EjBG2kaB6VZDURSYEcupIcLKCsKOSFaRnJ8809hcPSW29Ei9yJAxjLjCAr9jHtWm7PJgqXHLhXykpTqOAVfCN6LC0VW1xFMsUSVNhBpTrbRwHBqGMgn2rsNcd39SAom3bjPyyvH86KKzS01NYuGMzj/iBiK86DbTy0KXjuyhnAz9dN5N8mXJtuTKKOa62lStAKU50joN6KKkzjLVOl0//2Q==" />
 
 Auf der rechten Seite gibt es ein Layout-Auswahlmenü. Bei dem von mir
 ausgesuchten Modell hat man die Wahl zwischen einem und drei Fotos pro Seite.
@@ -117,7 +116,7 @@ pünktlich an.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-4-von-16__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-4-von-16__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcB/8QALhAAAgEDAwIDBgcAAAAAAAAAAQIDAAQRBQYSITEHE0EWIlFxsdEkJTJhYoGC/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAAL/xAAdEQACAgMAAwAAAAAAAAAAAAABAgADBBFBMVHx/9oADAMBAAIRAxEAPwBVZ6fmxnkDKjLExViQAp4nBJPbrSiHT7xU/E7miiXjliboHA+Q75/arLt/Gqo1ikioZomXkV5AdPUetOF2dxUg3dsx6ZxZIMn55pqZBpBAQGIfGFxBLldepmUgeZJVtdfuFWKdrcB5+APHsQQSMEH6irtpVn5m3bCVpPOdoBykLcuRGQTn17U79jPMUfmbxH+EIH0ao2qouhW0di9y1yY48iVxxLZJPbP9UGymuAVkA12dLiiliyuTvn2ZZp25rnb6S6hBEkzxxsAjkgdcfCmMXjHqRUE6XZnPX9b/AHooqawmV1AanX8ZNUx7umWQ/wBP96iTbru9x2sN/cRJC7IV4RkkYBPxoorVw2eJ/9k=" />
 
 Doch jetzt mal ran an den [Speck](/category/vegan-2/) : Ihr wollt bestimmt
 wissen, wie ich mit dem Ergebnis zufrieden bin? Der Kalender war schon mal sehr
@@ -149,7 +148,7 @@ erzielen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-14-von-16__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-14-von-16__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYD/8QALRAAAQMDAwMCBAcAAAAAAAAAAQIDBAAFEQYTIRIxQQdhFBYiUSQyU3FygaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAbEQACAwEBAQAAAAAAAAAAAAABAgARIQMTEv/aAAwDAQACEQMRAD8AspTSo1knymgkutR1rbCjgdXScZPjnFYSLqW8Tbap6S0G1LVtfh1qxgAA4A8+/wC9MVu3s6ltUqzuSHI7ctlTanWgCpA4PAPHjH91CB6YJt8VxiDqi8sIcc3VhoIbCjgDnHsKXl182sixDfl6IaajkTtyv860R4oZvAf6pC0rCZLhyEj8hyDgfUOR2p2WKO45pq2OvqC31Rk7iurqyocE588jvVbO9E7BckRRIuVzQpgFP0FBCgVFSsgjuc9xWgVCZ05bo9qakOyG4rQSl17AWoHJ5xx5/wAoz0ZzbTfwqCliyXqSdYbdLnwdovssqUkOp6kn7jFXDOutSqbSrftnIB5hnyP50UUbKCdioxUZCTr3UzUd1wPWs9CFLx8GoZwCf1PauHzDOvECJNm7e+9HQtW0kpTyM8DJ++KKKiqFOSsxYbP/2Q==" />
 
 Der Preis stimmt außerdem auch noch. Ich habe wirklich ein sehr hochwertiges
 Papier gewählt und obendrein wollte ich auch noch die extravagante Aufhängung
@@ -166,7 +165,7 @@ kommt man ja sogar noch wesentlich günstiger weg.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-16-von-16__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-16-von-16__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEB//EACsQAAEDAwMCBAcBAAAAAAAAAAECAwQABREGEiExcRNRYaEUIiMkQbHR8f/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECERIhMf/aAAwDAQACEQMRAD8A36LgRJNuhF2JHcUWkklbSSTx6imDuhLFdZIkPtSoq9iUFEJ1LKDjOCQEnnnr6Ch2h3NtvjAKIPgDkfjpTuLMW2hP1nFEY6BPPtVZNLGiJdeo02jQWn7VJVIQzImKLZR4c51L7YzjnaU4zx170X1/brVHtc8s2uA0sR3SlSIyEkHYcEYFKnLitTZAdWg9hkUD19LUu2zASpX27nPn8ppSmViQU6fbZB0dKAhRvLwQKrXXWNptEr4SfIeafKAsbGioYPQ5Hauc2W+RozLCHJSEKSgA8kY9qtDU8LJzNZPqRnPtUJ4LVZkiu262tVzlJhwZDzj+wqO5opGAOeTUjVs8LjPpznLSv0ajSNUxdhCZrfZP+UduV6RJSsB8KJSQOv8AKHQzyzKP/9k=" />
 
 Einigen der Fotos im Kalender könnt Ihr auch hier im Blog begegnen.
 [Schaut zum Beispiel mal hier vorbei](/2017/11/kilkenny-bunte-insel-irland/)
@@ -176,8 +175,9 @@ Hinweis: Ich habe die einzelnen Kalenderseiten auf unserer Staffelei
 fotografiert. Die komplette Galerie findet Ihr unten. Wenn man den Kalender mit
 erwähnter Holzhalterung aufhängt, sieht das so aus:
 
-[gallery type="thumbnails" link="none" size="medium"
-ids="18578,18579,18580,18581,18582,18583,18588,18584,18585,18586,18587,18589"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-3-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-3-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-4-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-4-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-5-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-5-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-6-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-6-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-7-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-7-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-8-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-8-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-13-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-9-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-9-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-10-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-10-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-11-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-11-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-12-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-12-von-16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-14-von-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_11_Kalender-14-von-16__l.jpg"}]}
+/>
 
 <div>** [Hier entlang geht es zur Kalenderseite der Kartenmacherei](https://www.kartenmacherei.de/fotokalender.html) </div>
 

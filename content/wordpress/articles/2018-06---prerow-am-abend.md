@@ -48,7 +48,7 @@ Sonnenuntergang erleben.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42679607012_5bf03463f1_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42679607012_5bf03463f1_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYI/8QALhAAAQMCBAQCCwAAAAAAAAAAAQIDBAARBQYSIQcxQVETFDNCQ2FxgZGSwdHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/8QAGxEAAwACAwAAAAAAAAAAAAAAAAERIVECAxL/2gAMAwEAAhEDEQA/AOhxINT5hXekKXJh9o39tCpElIup1ofFP9p1ByPvMK70VnlzHkj07PuvYfmiqosmclZjhQ2tUtrw0chqsCT2A61jsd4owGksqgMStImtIfWW0C7QuV259Bb58xVnFcFh4sUOSlPa0DSChdut/wB0tZynhsVp5CEvKQ4pTi0qXquSd9rbdOVJ9egLnsVZg4gOzHHGocWPCjJSCHlJBUoknYfT1d6KsScmYRIkmQ4wFvquLu7nbsCbCirykbaf/9k=" />
 
 Spuren im weißen Sand. Impressionen aus Prerow an der Ostsee.
 
@@ -62,7 +62,7 @@ Ein schlafender Schwan. Träumt von Mollusken.
 
 Morgen wird es sonnig. Die schöne Küste lädt uns ein.
 
-[myflickr tag="anneprerow20180608"]
+<Gallery name="flickr/anneprerow20180608" />
 
 Die Bilder in diesem Beitrag sind am Abend des 8. Juni 2018 im Ostseebad Prerow
 entstanden. Wer jetzt Lust auf einen kleinen Sundowner bekommen hat, ist

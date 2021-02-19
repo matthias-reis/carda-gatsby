@@ -72,7 +72,7 @@ Buntes Treiben Lotsenschoner im Nebel
 
 Gegen Mittag
 
-[myflickr tag="anneelbe24122016"]
+<Gallery name="flickr/anneelbe24122016" />
 
 ## Flarf-Gedichte Wegweiser
 

@@ -62,7 +62,7 @@ könnt.
   title="Insektenhotel mit Bienentränke"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAgEEAQMEAwAAAAAAAAABAgMEEQAFEiEGEzFBMlFhcYGRsf/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQED/8QAIREAAQQCAgIDAAAAAAAAAAAAAQACESEDBBIiMZFB8PH/2gAMAwEAAhEDEQA/AIYbF2lNDUSRkNaRowqEq7YY++CRpx2q0rCWDdHkgjtPxjHohQT0WySM5yT7ffWviW4XNts7YY9usT7nPJLYZnZURuijFWGSSAc/B/vTT4nY3SxvsM0eyXrVJZJXcxxeowZwPg94BA6+NBtZsoMCq8+l1bia5sij+pTrXdm227bFaSOau864J6DHIB4k++eP+6qFSzFusVh3gtBovUkaaKRez0SSAuFJIIH4wNTDyV3qeVLf3ujdgtLalM6BQrxrwCRcc9dDvH5P313vHbUfkm6Vae0w3pVijM3pRxxAyjjhlYAjiCQMnJxn9aFjTjdzaZkWVjx14loKU9o8melPTbbZ5EsCR5FsSuHMOWw3HkDgnjkkfBH71avDd1v+WRXblyeu1aB0jikv2HABAPIMiACRSOJGexn6vjRo05sho1pgTX2Ujh5HaA5GL+a9eF1ot22l5Hp84Xsjo1dm22OTlj34yEOCOx8qR841k9Q2CVTY69aLtjJutr1T+T6UeQP5I0aNSHdSFWbYK//Z" />
 
 Ein Insektenhotel besteht in der Regel aus Holz und ist mit verschiedenen
 Naturmaterialien gefüllt. Das können zum Beispiel Bambusröhren, Schilf,
@@ -89,7 +89,7 @@ schützen, nicht nur das Hotel aufstellt - doch dazu später.
   title="Bienen lieben Löwenzahn"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-05-05-bees__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_04_2019-05-05-bees__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACcQAAICAQQBBAEFAAAAAAAAAAECAwQRAAUSITEGEyJBURRhcZHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAoEQABAgQEBQUAAAAAAAAAAAABAgMABAUREiExkQYHE6GxMlFhcfD/2gAMAwEAAhEDEQA/AF70tytsywmuIlVlCiR1LS94bOBgdE95BwM995h5IPbcdkupzyBx3+daenp8SDcJa0tcTzwuYGZcvG7KcH6+OT5xjWd7dPJBVMd/b7Ni4k/sMYcFo3HRXj9999fXetyNWl6ZcTIJxHK2nc/A2hCqUt+oFJYIFtf2+8MBUMh4xxszfgDXK5tM8SEvH14OCDj+tXT08w3CxuDWrlZkrtHH7VZXyoIJ7Y/H68DPjTm96VrRxySU7kiyMfiZcFVz+wxn/fjS7nMVhtwNqaKfe+e1reIAzwklSSrq4voW83iTq0NsirkTw1gioOQllYEAH4gnI6/nVf8AW+60YrdJadJxPfZIov06cmm4sAvEAdn5ec+MZ0aNTpttLyemrTI94vhRQnGIiKhm9utJtdplhisvKffYmORuRVlkYEB2wT2OjgDvzp5b3Xdqm5xpJXRqdh2EQ5cZI0UA8SGAz2c5xnvAGBo0a5xqVbmFLDovbIbwdtwp9OWkf//Z" />
 
 Aus den Pollen und dem Nektar stellen die Bienenweibchen einen sogenannte
 "Pollenkuchen" her. Auf ihm wird dann das Ei abgelegt. Die Speisekammer für die
@@ -117,7 +117,7 @@ sehr gut selbst hin und sie kennen im Gegensatz zu Euch den idealen Zeitpunkt.
   title="Auch Lavendel kommt bei Bienen gut an."
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBAf/xAAqEAACAgEEAQEIAwEAAAAAAAABAgMRBAAFEiExExQVIkFRYXGBBlKR0f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAQL/xAAiEQABBAECBwAAAAAAAAAAAAABAAIDESEEEgUTIlFxgfD/2gAMAwEAAhEDEQA/AOdQSbTH7uV429cwF2TgLk+EkKDdWBX+6Jtvi9qnIEkeOH5M/Dlw5vVUPp/3Ttpl26MxZL+iqc4WyuaklaFWF+X9SR30DqljVTuKStFIns3NySBbLdqqHvzYN/QaLLxIRybCMBaHsaaIUrj7GuNPNnRAyx3JHJxNnj6aOrkfKxY/Wm7UmMcVlmkCTvEqRKT218h4PQ78/nVJ/JUTEwNuOZJBkuwogLwa2Pmh31YW/t5N6lcvMxY8CfbyJJVyDHNOylRxcEsQxZeqLUT0LPfjUH6oagDaKP3hIi5ctgYU7uGXMNxR8qJ15o0UrAjp7sh6sdgD9a27JvU+VJ8M6R84kWWXiwACmrbs118/x99GjVNVCwuPpDfkWU3ds7cN43Jfdu1sKNNLP1FQ68sAAbF2CdSeXm+hJkCLJeVonJDCwEN0R35HnvRo0qKBjG4C6Z0mh2X/2Q==" />
 
 Im Frühjahr arbeiten sich die inzwischen vollständig entwickelten Bienen dann
 durch die Lehmschichten hindurch ins Freie. Die Männchen begatten die Weibchen
@@ -138,7 +138,7 @@ Vogel zum Opfer fallen.
   title="Eine Biene kurz vor dem Abflug"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-28__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-28__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwf/xAAmEAACAgEEAQQDAQEAAAAAAAABAgMEEQAFEiEiBhMUMUFRYXFy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQUAAgP/xAAeEQABAwQDAAAAAAAAAAAAAAAAAQIRBBMhMQNB0f/aAAwDAQACEQMRAD8Az9TUdvoSvu9ivt9eeGGR/kOWM0nXFGRhnoe7xx95Azjx1CWALtqL4OLO3LF77mSBWE6lhGI+GfHDAkscEE9f2/8AWG5NU9Oxz2NrvbmJpWr3IXse6D0SDI3Hl99qejnHYxjUPuMLbRukFitXT40AkiaRZiiRqJPKLj5EyAkMxJ+2GBgaRtnob4jIl3erBWvVqFiCRKN+UQ146vEGtMjYI7JDqfc7OQeh+tFzb4avvvWeaULHHGEIUHCeI8s4yeWe/wB/zVTAZrW0xSVTHKwkZMmtzUtyJ/R4nOD0R950jnuVL6XoysFqMWTEIh48VVVZjkdsSxOP+dGV9Idls796TWOzbp3NkNniZJ5IJUDsCeyxU5PZH3nsjXG7W67RbmsqyVYYZyzOsRCfZ/n56HejRo8dM3cqVvLoyh3jbaFVa9QVQiqF5MVZmx+WP5Olku9UkaSWNKokY+TLxH+DrRo1slMzeQX3IkIf/9k=" />
 
 Wer sicher gehen möchte, dass die Bienen in seiner Umgebung einen reich
 gedeckten Tisch vorfinden, Sollte sie so gut es geht versorgen. Neben
@@ -200,7 +200,7 @@ keine großen Bienenmagneten.
   title="Biene im Nestbaubetrieb"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-17__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-17__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQIE/8QAKxAAAgICAQMDAwMFAAAAAAAAAQIDBAURAAYSIRMiQRUxURQygSNCUmFi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIDBQb/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIDEQQSISL/2gAMAwEAAhEDEQA/AJpjcfUTFPf+nqK4OrQeA+rIFITtQbAQEt5bfjX8GjYbB1spFRtd5ity1ZhVhlKqp7gyq7RA+8J/kD5AH++YXSs9yu/61X78fBV2x/da7iAO35YMXIAB9vz8c1er8rXq5NbECT/UmjQlpv6UawMCFUFWYNIhGvGh+Qdcz9rNn2XZXRojNbwM1fpqjjoVhaVY4azt296nSnu0p/dvRAB/PniTjOna2O6RyU7wWsLRvxFXRpQZIpk/uU6Gg42Nfba+OPfT9W/Z6cVUylgXbd5ZRaclmgQ68+7/AJ2ft88n/XGQmyeXEktfJ4+GtI8Rq3bLSRyBdmOfsPtVt7B140Rw8bzYMiy7dM8mFy7JiJL2Oeo2RrEKjOhYxuWCN4BBPtJOzsADfjnL2Ja/U9qzl4aEhZlZ0iX0Y68R7iWEeiC4Oz/IPzw4ca4CkON8I99SdU1VjqUzIHsz2ERWLmMh+w9rbUjR35+/nWuSmxasXZ5fWrtDOJHEnqShwwAJ2SfA3r864cOHiB0Imd+kn//Z" />
 
 Für Bienen oder andere Insekten unbrauchbare Nisthilfen sind ein No-Go und
 können ihnen unter Umständen ihr Leben kosten. Achtet darauf, bei Eurem
@@ -226,7 +226,7 @@ Insektenhotel auf folgende Bauteile zu verzichten:
   title="Biene auf dem Weg ins Insektenhotel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-13__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-13__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAQQBBAECBgMAAAAAAAAAAQIDBBEFAAYSITETQQcUIlFhgRUjMv/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAgUG/8QAHREAAwACAgMAAAAAAAAAAAAAAAECERIDITFBYf/aAAwDAQACEQMRAD8ApYXdG2cniJaNwxYLbK3HHPSkudskp4pUg12ao2PzqWPNkZjcmGXs+HWMxYUGkqKkpeCgAoeeQFDo+ff21d2Wz8ltWL/GbZhZmNNTc1yURxCf88Ox0bJ76rkP0oy81H28jN4zbrinkw21MMOqI5qQSFFNjzQ6v349eTrPVmktfZdyplv4O6MFj489jKCLLQJM1oraZCH2/Vv6adSa4XyJsCuxXg6181ig+SkJH1uV+tLfwbTFiMSVNJ9BiY6oR2wz6YkFKUlThvvimiB7WT99PWVlsxllSyP62yqvzR0LnlRWuSMVns4tu/cXKJHg4x5CfmkJU49HWOSvqKSigAAAUnWbinWMYeQjNOniFNqcClocWfIFG7o3ffg6NGnriU8IBPJWvkdcDmoMjIjMshDDzcVcZ1pKipIUlVWm/tyPt2CPtrMze43crJkJZVTZJBV+NGjSdwt2MTTco//Z" />
 
 Für die eben genannten nicht geeigneten Materialien gibt es zum Glück zahlreiche
 tolle Alternativen, die von Bienen und anderen Insekten gut angenommen werden.
@@ -251,7 +251,7 @@ Heim für Nützlinge geschaffen.
   title="Nahrungsquelle für Wildbienen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAHBf/EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQASIQYTMUFRFCIyIyRCcYH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EACQRAAEDAgQHAAAAAAAAAAAAAAEAAhEDITFRcfAEEhQiQWHR/9oADAMBAAIRAxEAPwDHLMaqomskMU9S1SzdydpAQkUZG1csAQFxu5PzpFbKRor07rfaAxTRLM0qkosqn064ADhgffOfnRDpeQ2ynqJ5Kh0nQxmEREhu9lsRlhhh8nHHjOdIbTH3qutpErmWAU5knTtMNrDON278vGNwznPjSNR4pjCSj9S5lQVSJjXe7pvFb6yS5276anE09XIIElRzH3wD+puXGFIy33e+Tzp5WdNQNDSxpfYlYyYEM1OmUJViAeQccY9Z0Nt1YLetDdLNMBDAC0xfbErSFCCBub3znnydcZeoamoooDLUbq5YyzlpQzHJO4oQfsAA3cexn0NHojnaJaJtH22XlVU4l9aIAEZa+1nVzrKq5Udst1JNG8tsb9qIlXMu47234/IrjGecj/dL0oF6lpIbjcLlJQUKBIqmeSNTIN7NkKi+V3cjP9catWl3u7CUHGZXSqa7pmd7XV26vggo6eKeKQvGIlJRwiSBGyN7q5PIBx4wdZ5Jead7/XVNFTwQQyVbyxLLiUqGzyW/lgE4OPedWrUDbOWSbL//2Q==" />
 
 Wusstet Ihr, dass allein bei uns in Deutschland über 70 verschiedene
 Marienkäferarten heimisch sind? Sie ernähren sich von Blattläusen, Spinnmilben
@@ -292,7 +292,7 @@ nicht.
   title="Das Insektenhotel stellt man am besten in einer windgeschützen Ecke auf."
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-11__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-11__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQI/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABSEGMUEHElEUYXGxIjKh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAEA/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxESIQQiIzFh/9oADAMBAAIRAxEAPwDz9VF2zHHSryTSwFwywMSRIxGM4/WmfUccm3fTbTYULEHUyiMA5755HcjnVT0x0dv1irNa22kjqsphMpmVHcADIjz2UgjLd+cDHOuuX083igDfv04TArATRGwmQxPAwDwT+taScNvJUR5DqLWfX9vrR7Dt8y2S9m1IfZEqj2xxj/c5OD9/xo1Tv03etXhJJXZVqzRV3My4KO2CoKHBCnxj50aJ566C1Gtj9uNLWPTe3to2ja1a3HRSLcRI0Nh8PIqqFYHHfLHPxxp36jVTbjsS/UVjt7WTOPc/uMhLHBXjHkr7e+BnxqA2Hp/fKKbTW3PbriyvakAYyCZpFGGJBXuQoJx9vOm27bjeu23XdqUiJVSUwwOphLZYlP7kDnOT5/jxo/KdJM7Et0CU7jhkQyDtmki2ONbM3UVa5FLGs0qWAjuS+BkA57g+R8caNQm239x6as3XNbEc/OcknOSc8/nRp97JCEfq/9k=" />
 
 Ihr könnt Euer Insektenhotel auf dem Balkon im Garten oder auf der Terasse
 platzieren. Auf der Wiese empfiehlt es sich, es auf einem Pfeiler oder an einem
@@ -323,7 +323,7 @@ optimalerweise in greifbarer Nähe.
   title="Guten Flug!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-20__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_05_2019-05-05-bees-20__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBgEDBP/EACgQAAICAQQBAwMFAAAAAAAAAAECAwQRAAUSIRMxMlEUYXEGFkFCgf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwUG/8QAGxEBAAMBAAMAAAAAAAAAAAAAAQACERIhYaH/2gAMAwEAAhEDEQA/AEm2bQl/b69iWJq0hDzxxQygl8HjybIAbrIx9z6a27rW3JKr1NvrVrrzcHWs/KPnGC5cupYcirdAA9ZJ761Noa+37fBNGpi2uskpkgPKSaJg4PGJsg4JOCCcD51nctw8Gw29826QPZm8HhWaBDJWhPJWAHa+9SeXec/bXP1NQJtLhrHaLGLeywNPWq2bYisXKteoGMuPdE1nOeypGMHsYJ1Ut1vwvPt9UbrSsyzzqr+JCXsHvBOQCpAPec+mrB+5bEFP9PPvkMFG1NakrSSPWETlOIKyddLnkyk4IycjB0msxySXoRfqRQJBbX6djHwJfkMBD/YFQ+fwDnvTc2po/IGxbGTgs7c9yvZPkFmFDHHItlkIU+owCBg/jTCNtrFtLslZPqY4+CyLKwbiPQH57P8AOjRqHPuWnPuG4VLjYs1IZyBxDTgSHB79TpLbmpRBTHFCpj7QKPZ+Pj/NGjT0oQNvE//Z" />
 
 Das Wort " **Saatbombe** " habe ich weiter oben bereits erwähnt. Nutzt sie auch
 in freier Natur und auf Grünflächen, um die für Bienen so wichtigen

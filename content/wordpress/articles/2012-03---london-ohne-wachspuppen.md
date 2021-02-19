@@ -50,6 +50,6 @@ subTitle: Tube Trip
   
 ---
 
-[myflickr tag="annelondon2012"]
+<Gallery name="flickr/annelondon2012" />
 
   

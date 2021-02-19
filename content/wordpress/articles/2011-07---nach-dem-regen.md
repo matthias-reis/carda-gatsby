@@ -53,7 +53,8 @@ date: 2011-07-20T15:16:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "11578"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_07_papastrand__l.jpg

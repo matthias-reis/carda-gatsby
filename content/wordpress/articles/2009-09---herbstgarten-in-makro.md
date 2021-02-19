@@ -32,6 +32,6 @@ subTitle: Herbstbilder aus dem Garten
   
 ---
 
-[myflickr tag="herbstgarteninmakro2009"]
+<Gallery name="flickr/herbstgarteninmakro2009" />
 
   

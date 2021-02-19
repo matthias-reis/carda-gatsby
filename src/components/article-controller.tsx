@@ -13,11 +13,12 @@ import { Playlist } from './playlist';
 import { RemoteImage } from './remote-image';
 import { Link } from './link';
 import { Frame } from './frame';
+import { Gallery } from './gallery';
 import { H1, H2, H3, H4, H5, H6, P, Ul, Ol, Li, BlockQuote } from './typo';
 import { HR } from './hr';
 import { toCompactArticle } from '../to-compact-article';
 
-const shortcodes = { Meme, Youtube, Playlist, RemoteImage };
+const shortcodes = { Meme, Youtube, Playlist, RemoteImage, Gallery };
 
 const defaults = {
   a: Link,

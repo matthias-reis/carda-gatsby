@@ -52,7 +52,8 @@ date: 2018-02-16T08:09:58.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "19580"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_11354942696_e0f3122d35_z__l.jpg
@@ -77,7 +78,7 @@ Selbstverständlich besteht dabei kein Anspruch auf Vollständigkeit.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_11354894815_7b7d26bb30_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_11354894815_7b7d26bb30_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAcGAgMEBQj/xAArEAABAwMCBAQHAAAAAAAAAAABAgMEAAUREiEGBwgxEyIkYUFRUoGCkeH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAYEQEBAQEBAAAAAAAAAAAAAAAAEQEhEv/aAAwDAQACEQMRAD8Af4XtkkAAZJJxgVTFlMSmg7FfaeaPZbSwoH7ikhzL474jj2OZaL3wmbVFura4Tcx58qQkqTv5kEjOM/2tt0+x5caJfETHC36hJbihSSkI0gBwY3IJBGe21PXY2ZDiSrairSVUVUYU3UAyuTwVAS2EaRdGdRUBkZQ4BjPvUS5Zw7lPuEqdZ5aY1+tjWltD2fAlNlYKmHRjIBykhQ7HB3qec5IUO6csuIG57gaQxHMttz6XWzqR+z5fypcdLkEurv17eW8VILcNtJdVpyU6l5TnBIAQB8qjc7R0Ow6tbLanW/CcUkFTesL0HG6c/HHbNFY4e96Ksf/Z" />
 
 ## Zu meinen Lieblingen gehören die folgenden Labels:
 
@@ -118,7 +119,7 @@ Hamburger Store vorbei, aber auch der große Onlineshop hat es in sich: 
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21771326770_2a5cf983af_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21771326770_2a5cf983af_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgIBAgQEBwAAAAAAAAAAAQIDEQQAEgUxQVEGEyEiFBUjMmGB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMFAf/EAB8RAAICAgEFAAAAAAAAAAAAAAABAhIDETJBUWFx4f/aAAwDAQACEQMRAD8A5TJjPD9LHMrqzBRHtsk16V10lzVyUyCszTKYlNxtakH8A9ddN8CZKYniOGWUuLieMOrUwYqQCD0PblpP41eLivHlz1V1keJEcymyWotZFnoR11q47JsOF2/Bm0V5lJVqokHc4X96NSAIs8mzH3p03C69SP5o1lUw7tGlyOMzS4sSQy+RhYmaVRd/UIgYFeRDe6776XcXdvmskqSpLG0a2VohStgV2Nems3hSJ8CQ5QyT5TzC2O4gHaa78tTHKLZLKXsS7aI5fcdWskoySSXRoGGJrHL2vpamKXu9os1XLto1Rnk8yT2ozEc676NR96Fr3P/Z" />
 
 Auch diese Brand kommt, Ihr ahnt es schon, aus Hamburg. Ich habe sie bei einem
 Pop-up-Verkauf in St. Pauli kennengelernt. Schaut Euch mal den Shop an: 
@@ -165,7 +166,7 @@ Ihr bei
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21316798924_cdc4bc83e7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_21316798924_cdc4bc83e7_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAqEAACAQMEAQIFBQAAAAAAAAABAgMEBREABhIxIRNBBxQVImFRUmKBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCaud7uUdupfkbhPbqyCOSSWaJikhUDiVZDhhyLcvOPHek91vm5IauzvcL5W1qVWVjDgklUI5+X6B/HeNWVx2DcdybXh3T9Ro0rpafi9GgMkhj9XwPUBy2eKgEDo59tPb7t2j3NvSks9LRy0tPQYSCaWpDxcViUAoqnkOfIEY74nI850Ebad/DaqzJX0rXCepbmG9IEogGAM5Hvy0ai9x/WItw19NbqWCspKaQwLPJShldkJVipb+QP+DRoNmvtwFgp3qjCrtHPJFDGJTEoWJAznKjLN9yADrvUdd70Usm1BJdVq71GyJUxU7eoxiRWTDBfP7T+uTn207Es1RcWo5iZkSx1c/N8FQ8kwwXY+ckRn36Gsx2LVpBuenqJZEEYJ9RjHjiS5GCffoaDXrBsnbt8tUdy+TlSSod2k9OREBYMQ32ysBnIOSngnOQD2a5fBfclJDtWaG4QytxqpGVoFQkljk8g2fxgj++ho0H/2Q==" />
 
 Vegane Fair- und Ecomode, gibt es seit 2005 bei 
 [https://www.zuendstoff-clothing.de](https://www.zuendstoff-clothing.de)
@@ -218,7 +219,7 @@ Onlineshop mit ökologischer Mode mit Sitz in Bremen
   title="So trage ich Pelz!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EACoQAAIBAwMDAgYDAAAAAAAAAAECAwQFEQASIQYxQRMjBxQigZGxUXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABEQISIRMiMUFR/9oADAMBAAIRAxEAPwBFqBYNoiQJCRgKg2j/ADUEslN0vdFqEgV4a6i2mNXCn1ElP1nIPGOPtp24269vfdtto6qeqipvUkgphneEX6t2OMgkY/Gq31O9woYqyPqGGoaooSpjaTcslPluUXnGNx8cakc9FdKTeRK59ZTXKrdqVKsOpO+MSqioM4UDA57ck6NQsNvgrGaZWalhYDY+0+73yceMaNDtQxSe06Xqq0rcmt8cFTHMp94vSlEYbQ2Q+MMpyOR51nfxxooL9aIpLRU0kMlXJ8rOAgaT01BbdjjAB4+413t98WenVpgU42hG5IwTpCO3198uEy0sYSjBKSTyDEcan9nHgc/130xCeMmLXigrPWjhp5K1xAgjf5OmDIGAweM8Dj96NXbrnqCO1XUUljKyBB7878GR+B4/gDt2H50aywLU9P/Z" />
 
 Ich liebe diesen Onlineshop. Hier findet man einfach alles, von Trinkflaschen
 über T-Shirts und Schuhe bis hin zu Tierfutter, Kondomen und Zahnbürsten aus

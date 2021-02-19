@@ -18,8 +18,7 @@ date: 2009-03-01T17:18:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11001"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_03_P3010060__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_03_P3010060__l.jpg
@@ -28,7 +27,8 @@ subTitle: Ein kleiner Frühlingsspaziergang durch Friedberg
   
 ---
 
-[gallery type="rectangular" size="medium"
-ids="11003,11002,11001,11000,10999,10998,10997,10996"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_PC060033__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_PC060033__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010084__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010084__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010060__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010060__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010052__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010052__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010050__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010050__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010044__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010044__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010039__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010039__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010036__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_03_P3010036__l.jpg"}]}
+/>
 
   

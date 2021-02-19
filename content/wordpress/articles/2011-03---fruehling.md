@@ -34,7 +34,7 @@ subTitle: Tagebucheintrag
   title="[ ](/wp-content/uploads/2012/06/p1000340.jpg)  Sonne, Mond und Wolken"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_p1000340__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_06_p1000340__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJRAAAgEEAgEEAwEAAAAAAAAAAQIDAAQFERIhEzFBUXEGFCJh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhETYRL/2gAMAwEAAhEDEQA/AKeHOJzdvHNHL4Iw/Ag8Qzn4A3W3kI8Jj4txzQxyDalfIdfez7iuL/jlxCmStzc7EauCTy4imLLS2WVjaaO8KujsrKWUI6nXEj35Dve+vShl03Tg2z+O5RZYJ4ZYWJKso6NLt/cqkzKTsL2fuq6eeKzRbR2WED+t+p7qG0glk5SMhA2eyKDj5EnYkcW5a7rexON5JFLOGZZD1Gvrr5P+UUVWTpASHuEw/qR72eI0uxoioJWJB2oUUUVzssj/2Q==" />
 
 **Der Frühling ist da: Die Sonne scheint, die Vögel zwitschern, die Blumen
 blühen, die Meiler schmelzen. Armes Japan. Menschen werden vermisst, haben ihr

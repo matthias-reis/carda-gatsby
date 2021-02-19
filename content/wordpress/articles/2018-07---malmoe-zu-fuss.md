@@ -49,6 +49,6 @@ gewisse Etwas. Man sollte sie unbedingt mal zu Fuß erkundet haben.
 
 Ich habe Euch ein paar Schwarzweiß-Bilder mitgebracht.
 
-[myflickr tag="annemalmoeskane2018liebesehr"]
+<Gallery name="flickr/annemalmoeskane2018liebesehr" />
 
   

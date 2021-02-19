@@ -62,7 +62,8 @@ Familie und Freunden erhalten und das war mir eigentlich auch am wichtigsten.
 das neue Album von Twins"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_twins__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_twins__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgBBQYC/8QALBAAAQMDAgQFBAMAAAAAAAAAAQIDBAAFEQYhBxITIggjMUFhFBUkUUKBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAIBMf/aAAwDAQACEQMRAD8ANIiKI2xXBiOD+NXLLYKRUTVBplxtpYEstlTbYQXFemxKR7UGNvOoLLZbhFgXe6wYcyVjosvuhKlAnAPwCdgTgGrdbCkkhSCCNsYpdeIbdk1I1f8AUNzluNXAvhhTTHTXygDkQB7kdh2zR44P3Yaj4ZafnOL6klEcRZBPr1Wuw5+SAk/3VVOz1M3lcae7SpsCySpFoty7nckoP00YKSkKX7FRJGwpX+KF04p2KLb29Qz5FsYnqcX+C6hpTzqSCouLbJVnCk4BVjCRgbU18UgpFBPxcKCNJ6cOBzfclgH46Jz/AJUqK/l1DqjzeZ6kkAk75zn95o2eGLW1yZ1WzpOXLLlolMPqjsLSnynx5mUqxncBeQSaCkntfWB7Gix4V2Yj3E1ZksNuvN299yOtaclpYKO5P6PKVDPyaD//2Q=="
+/>
 
 **Anne:** Stammt Ihr alle aus Eurem Gründungsort Dresden?
 
@@ -139,7 +140,7 @@ Melodieführung und die sich gegenseitig ergänzenden Gitarrenlinien auf dem Alb
   title="Twins im Proberaum"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel-1-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_Design-ohne-Titel-1-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQFBwEGCP/EACcQAAEEAgAFBQADAAAAAAAAAAECAwQRAAUGEiExQRMUIlFhcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAQGBf/EACIRAAIBAwQCAwAAAAAAAAAAAAECEQADBBIhMfAFFVFx8f/aAAwDAQACEQMRAD8ANWsFpP8AGSLMplsIbdcCVrNJBvrlTS+IGgRsYrQedhyEti7HyN0EnuQoBVj8/clWuMXgI77rQYPp+qEFJpwHt/V3/hyPueNukyKrlz7JME1aEKbGZ2kXndRzNPIWtAUCoC+5HjNz4n4n151zdJkcpksrsoASQlwKPW/oZzJtuIxr9nJCte0ZPuVOKaeSoUHEAm/266ePrF9dxkUPn3MJlTbqxaEiktCqtPm/u+mHpXcBxSl7MxnuDWYI7vWXN/E1jUZpqI27PiKLgLfxZS9VBavLigD36C8QZn6+dDQ9uPXXJhM+mlptzlEscxULNEpoqVddwfGGGUq4yRI5+e/fTWM+ZcLFTBAkRG3dh+bVH7bZJ2sudNlMqEyS6HAW10hAqinl89h1vpWIjlTRHyBHnpWGGMKgUQOKUdy51NzX/9k=" />
 
 **Steffen:** Ich beobachte auf jeden Fall eine positive Entwicklung dahingehend,
 dass die "Szene" im Bezug auf die Bands zunehmend weiblicher und diverser wird.

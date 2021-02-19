@@ -62,7 +62,7 @@ Die Abrissbirne droht Ich bleibe hier
 Ein architektonisches Zeichen wider die ranzigen Neubaukästen Wie sieht der
 Stadtteil aus, in dem Du leben möchtest?
 
-[myflickr tag="anneflarfsternschanze"]
+<Gallery name="flickr/anneflarfsternschanze" />
 
 ## Flarf-Gedichte Wegweiser
 

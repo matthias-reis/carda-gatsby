@@ -73,7 +73,7 @@ aufgebracht wurden.
 Wir haben wundervolle Eindrücke mit nach Hause genommen und freuen uns schon auf
 nächstes Jahr.
 
-[myflickr tag="annemillerntorgallery2017"]
+<Gallery name="flickr/annemillerntorgallery2017" />
 
 [Meine Bilderserie von der Ausstellung "El iris de lucy" mit Werken zeitgenössischer Künstlerinnen aus Afrika im CAAM auf Gran Canaria, findet Ihr hier](/2017/06/el-iris-de-lucy-las-palmas/).
 

@@ -46,7 +46,7 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 10/17
   
 ---
 
-[myflickr tag="annepenzance2009"]
+<Gallery name="flickr/annepenzance2009" />
 
 _Hier geht's zu [Teil 11/17](/2009/05/mousehole-cornwall-16-05-2009/) _ ##
 England 2009 Wegweiser1. 10. Mai 2009

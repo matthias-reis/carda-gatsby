@@ -54,7 +54,7 @@ werden zwar nicht veröffentlicht, sondern landen in der Sammlung des Kurators,
 aber eine schöne Erinnerung bleibt für uns, auch wenn wir sie nicht sehen
 können.
 
-[myflickr tag="tattoomkg"]
+<Gallery name="flickr/tattoomkg" />
 
 [Homepage](http://www.mkg-hamburg.de/de/home.html) Museum für Kunst und Gewerbe
 Hamburg

@@ -93,7 +93,7 @@ allerdings lieber weiterhin meiner Mutter.
   title="Sojawachskerze, GOTS-Baumwolle und Bambusnadeln von Vegarn. Bild: Vegarn"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Vegarn_Sojawachskerze-GOTS-Baumwolle-Bambusnadeln-Vegarn__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Vegarn_Sojawachskerze-GOTS-Baumwolle-Bambusnadeln-Vegarn__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBgH/xAAmEAACAQMDBQEAAwEAAAAAAAABAgMABBEFBiEHEhMiQTEWYZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACARAAEEAgEFAAAAAAAAAAAAAAEAAgMEETIxBSFCcaH/2gAMAwEAAhEDEQA/AGx1Y2ZZ7s2heQCyhm1SJRJZSEqkgcEeoc/gYZGCcZwflSDc7c1b+Ypt+bTzYapcXKwJbTHsClzhfY/q8j25z+81eEbRqQGYY/CSaQfUqbb971u23M+oXUF/p81rAIxat45W8xdR3HHHtjIyKTKwEgrSo23xAsHccrD3nQjdsGlm6RtPllj8jyxLPgKiqCCGIAJPtkcYwOeeFKG/7V6anIsO3NYkuTLHBHZ3DFg3cQvjbkA/cfDUvbQ6dbc3LbeSw3Dcu6Ad8PZGJF4+qeR/mP7NA6PHCsrdSLsmX4qtt2IgUgkEISDS51extNS3na3Wo2sF3cwxjxzTxiR0w5I7WPIweRiiijn1WRV2PpbTS7aCVHWWGN1PBDKDmuamiLAiqqhQ4wAOPtFFRN3Cb4r/2Q==" />
 
 **Marlin:** Anfang 2014 entstand die Idee durch ein Strickprojekt meiner Mutter
 und im September 2015 ging dann der Shop online.
@@ -150,7 +150,7 @@ die Garne?
   title="Vegane Wolle mit Lavendelsäckchen. Bild: Vegarn"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Vegarn_Bestellung-mit-Lavendelsackchen__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_Vegarn_Bestellung-mit-Lavendelsackchen__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKhAAAgEDAwQBAgcAAAAAAAAAAQIDBAURAAYhBxITMUEjMhQiUWFxgsH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EACARAAEEAgEFAAAAAAAAAAAAAAEAAxEhAgQSE0FxkfD/2gAMAwEAAhEDEQA/AM33zeTbLd2Quq1E57FJ+B8nXHbnUSCKgprbfrLDWW+F0ZlgC4kC8qGV+DzgnnnGtO6YWW03+0T3Kbw1FVVswOVDmKNXKqmPj0CfXvVR1L6Y2ynQS254KCrdWf6Y+mcEfeMY9d3oD1yTnUm2xiIItVdcORkGlFprPS70utLe+m1jhp5rcGkqJlK05jmOCgCH8pcAEgrkDIyfWpdPNvbe9f8AhAsUVytkzILrWKYSpUZencqMOxyDjB4GffOnq77Btm1rdDadiOWupk8yJJWGRpXPapdgOUAXByOONP8AHSx0VDFD3eYx8+Z1GXkPPd/LHPA/bJ0ulJtMbPFvhA8xftIXSjadqbYO3aqmgWlqp6SOaSaEYZnJOST7PI/zWYWy91G7OqMWz7oO61rcp42cMRLJCjN9NmGM92OW986NGqAWVFuyPuyfeofSKy0lvq7tt2prLVVU0ZlwJDICRzwchwf7aounHUG7teqGxXYrcYJKfzpPISsqlULAMR9wyP0+fnRo0tl3M4ySjrtYTEL/2Q==" />
 
 **Marlin:** Der Bambus und die Sojaproteine stammen aus China, die Baumwolle aus
 Ägypten, Hanf und Nessel aus Nepal und das Tencel aus Österreich.

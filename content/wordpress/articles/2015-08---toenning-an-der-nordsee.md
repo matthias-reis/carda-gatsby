@@ -34,7 +34,7 @@ subTitle: Ein verdammt guter Kaffee in Nordfriesland
 
 Hier sind meine Bilder:
 
-[myflickr tag="annetönning72015"]
+<Gallery name="flickr/annetönning72015" />
 
 Weitere Bilder findet Ihr wie immer in meinem
 [Flickr](https://www.flickr.com/photos/99929697@N07/). Hier geht es zur

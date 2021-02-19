@@ -62,8 +62,7 @@ date: 2017-07-20T16:11:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "17178"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35429761996_16d1c76d73_b__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_07_35429761996_16d1c76d73_b__l.jpg
@@ -118,7 +117,9 @@ Das fertige Pesto über den angerichteten Wildkräutersalat geben und genießen.
 
 Guten Appetit! &lt;3
 
-[gallery type="rectangular" link="none" size="large" ids="17179,17178"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_35616941250_a6974fd88d_b__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_35616941250_a6974fd88d_b__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_35429761996_16d1c76d73_b__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_07_35429761996_16d1c76d73_b__l.jpg"}]}
+/>
 
 &nbsp;
 

@@ -76,7 +76,7 @@ mittels 25 Brücken immer wieder überquert werden. Einige der heutigen Straßen
 darunter auch die beliebte Einkaufsmeile St. Patrick's Street, waren früher
 Wasserwege.
 
-[myflickr tag="annecork2017"]
+<Gallery name="flickr/annecork2017" />
 
 ## Wegweiser Irland 2017
 

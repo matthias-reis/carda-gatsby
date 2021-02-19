@@ -55,7 +55,7 @@ Santaverde ja schon ziemlich lange und wenn man schon mal in der Nähe ist...
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAQMDAgUDBQEAAAAAAAAAAQIDEQQFIQASBhMxQVEUI4EVIiRhcTL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQABv/EACARAAEFAAEFAQAAAAAAAAAAAAEAAgMRIfAxMlFxgaH/2gAMAwEAAhEDEQA/AIrXalJucPVC2qYtbeeun5aUBIVDZTJndAG4HudW7HRpqWLJTsp959tttG4gCXG4UDOB00/WRFqqWVAOJWtLZKuYyAvCVEA4jB7wMxpCoq9j01ieodxdp6Zh18f5hxBIP9ERn+652OVzxvNC3a0i7ulv8TWFqzNvOPUzLbhCuQEJBLknYkGOvc/A0r3Sy2YUexADhp0Nte2iVOr6hMfJz0088S3RjiXi9SGHm2rfaaZbrtQtZCNyZlUwcblCMZ2/vVK18KsfTEv1tOFtuNfjNlZFQygZ3ntvVgnwIHnVAma2VxvBg9Dn4ij6kkWuXWDiyroOVy/vZIKnEhxKioFJ3dT4xjt+9Z9pvRoluIfIVTqb2iTEJyY+ZGjRpjImgkgIGNAH1NtkurdM260v05JcbqXKfmby8Rlpox2BO8gT0AOm93jVs0cXS3VCX2kElTcqUsE/ECc5jofOjRqcRtw+U6KwSv/Z" />
 
 [](/wp-content/uploads/2019/07/2018-06-24-santaverde-finca-1.jpg) Die liebe Caro
 von Santaverde war sofort begeistert von meinem Vorschlag und knüpfte den
@@ -91,7 +91,7 @@ stellte sich uns als Carmen vor.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAnEAABBAEDBAEFAQAAAAAAAAABAgMEEQUAEiEGEzFBURQWIjJhQv/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEG/8QAIxEAAQQCAQMFAAAAAAAAAAAAAQACAxEEIRMSMWGBkaHh8P/aAAwDAQACEQMRAD8ATiSZkbLZB/Gpdajo2td7apY3UqrSq/d80B5961umIqM+0qU/IWh+iWEOuICXySKHJFciwTxd/wAOoT7rmZMuSZC2HQ6va68hJZUo2VftYF88VVE6YwbzuTy7ePalNQmwEJS4+SlCE8JBJ+LrXPZmTLkudzDV69fi1RgwwxAtGzQv6VT1DKyeG6gyM+ZEdRJdfbWW1ngqZA/AWCCNprg+yRRrXNs1IMfqQPw4y1JUfqiVgqtS1btyyTyAb4JN6vMtns/msC9iktvynmnmILm9IKUupdKUvoUoURsJQo34KL1E9bxnsHlX8YwEJcEYFbKlpcc59WCQPmhVcUNPjzXEcL3W42d1fk+58KWXFDCXNGtBRMTJLUz+ZpHG1IB3JCfd1/fGqHG5OPJiKae7RS6ktoBFjySDRP8Amxx7J0aNOmiaQULSQbCYkdWzoohx5E15aGVlMgNDY2dwoHb7UEgGz8DWRlsqULkxpcaG4oKT25TKe2tXNkgj9gpPPPzejRrIsePpBr93RF7nbJX/2Q==" />
 
 Gleich zuerst bekamen wir von Carmen eine Führung durch die Pre-Production, die
 sich direkt vor Ort auf der Finca befindet. Die frisch geernteten Aloe Pflanzen
@@ -123,7 +123,7 @@ und mit Handgepäck unterwegs waren, mussten wir leider ablehnen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAgIBAwMDBAMBAAAAAAAAAQIDEQQAITEFBhITIlFBYZGxFBYycf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAQMF/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxEhMRIi/9oADAMBAAIRAxEAPwBE6P2k2TjIokq5Iy6b1RBFG9wQaNb863/6lGMaSFVgSSNlYTqh9Unc1uaqqFbcacoIVfouNlQIpeQ+DsdmZlANN+rPxqTBxhkSCdph6bIjiNkZHuyL8uPpRH2PzrKN+W2eSUoCtoanMu5O1Tl4mRm5ubkTOFuN2Nhq/wAgD43Pt0afOqZUDoiCJ5ZTGpQItkHdRY+v720atptYgwErUjJlPsnrMmT0+SASn+OZAzxEUVej+R8H/o00x5KPhQNLYWOTzuwoanPt+/J/GlLpj4wEvoY0MJ8SI5pJD5SEkGy3Cjnkb86z+tdyMkZWURS+LJknysO6huDY8bJ+ORe2l7K82fAjgUHp3LXc8Oas7ZOLm48Tg+pz71sAWd+BwDtVaNEfcUPUunRjO8scbFvBArsdyKYb7G/b9edGmQQo8lYXgHans//Z" />
 
 Nach einer Fototour über die Felder, bei der wir unter anderem noch Hibiskus,
 Granatäpfel, Feigen und Orangen entdeckten, war es Zeit für eine kleine
@@ -151,7 +151,7 @@ Entwicklung von natürlichen Pflegeprodukten für empfindliche Haut.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2018-06-24-santaverde-finca-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYB/8QAKhAAAQQBAwIFBAMAAAAAAAAAAQIDBBEABRIxBiEiQVFhgRMUJHEysdH/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUC/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxEEEjFBMjPx/9oADAMBAAIRAxEAPwCid0BStK+5joDMltFocQdqgfL9/wCZyVrgYbcMdAL7rSCnc3u+iSmz2/r4zfS9JVI6aDEZdLCUgLX2BNjKuT0ywNSeQhxLC3w0+bUTaQfEkD2IA/RGTAtivlo+HrZcTNdJ6rOeQymeGnYiyRucV+RR4VQFVzzlvrEeOhJ/iRXPlkrqeTos7SJbSZMcGI6llSY1JDa7BSqwOKSeOLIyA/Oj6hFTIilKmFg0SK4NEVlbTWNuKsDjr7J2pqXAdcR0bXjM0dJE9TK26VYKRuHpx2+MbsYkU6p0uKIO1e8ki+aPvhhmaPYU6hb4BpmVdOMjUJBD6m23UncpIBvxehsA4xMaPpcdbMbs1e4kkkqPqfgeXbDDHgoXiKlyeZ//2Q==" />
 
 Wer auch in Spanien unterwegs ist und gerne mal einen Abstecher zur Santaverde
 Finca machen möchte, kann das (aus in den besonders heißen Monaten Juli und im
@@ -166,7 +166,7 @@ Society und dem Biosiegel ausgezeichnet.
 
 [Wenn Ihr gerne mehr über die Unterschiede zwischen veganer Kosmetik, Biokosmetik und Naturkosmetik erfahren wollt, habe ich hier einen Beitrag für Euch](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
-[glry name="santaverdefincaanne2019"]
+<Gallery name="glrysantaverdefincaanne2019" />
 
 Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen

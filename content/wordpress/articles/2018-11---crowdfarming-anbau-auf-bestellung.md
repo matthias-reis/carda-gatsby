@@ -49,7 +49,7 @@ So wird das auf der Homepage crowdfarming.com grafisch dargestellt:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAAACXBIWXMAABJ0AAASdAHeZh94AAADIklEQVQ4y3VUSU8UURB+M8gqCCLKIrhchMRgjKKRBOIBgweJxANGjZ5MvHgiRj2ZeDDx4IYg68AwQ8/Sy3TPxtYzArKJENc/oMY/8lmvu2emZxgOlfdefVX1vqpX9RgLusDESVNy96mzsZ+Aw67PJ/n8UvFyJYXtUvA1MJGto3OZMo0HO+voXJrF/e013N36hL7NJUN3Z2sFN9aTePh1E0ejATD/eIZsvsTse/PCcRTKbsOxQJpCRcibIWER4BjzDqOI23HdzAiYb8ySUTD3e7DpQTBhxLTPrYjfsuWYHeeHak3AeT2CfXR5pTqDC4mIETSVBV8Pkv54TMQ5PYzWBTU7Gwr++Oc2rq8l0PExjiqyzVRhwkiolyrUnoyha2UedRF/JkFueDjsw7XVRZJZdK/M4lIySqAr/RzV2gz6NpK4tanj8lIUR8ieV83eE1dW5nB2Qcbtz0kcooQ4KadFYD89X7eFX0xoaJ5TjEqbT0AXlIc8OBaPoEjTUaLGUBMW4ZQ8dAkv/xQ9jwcOSURpWEervopSRTCx4JSBmyuR8qmoic6jWOEV4MTcpp3oxunFBJgcJ/9lnCIC5jMQ5uCZ+ikAMVK+taMn0U+ggBJpGMXSGErkUSMLpzgM7XsHepOPyF5AmTyCIsJLDdxFSYxg6VcbrupPCPdm4wEXKkODWPzRhs75p2AegeKNmwR4cCa4UaIMAf8YBr70GOzq1Veo096hQXuLqtAHNMdeAr8ZBnd6jIybwq/TeJk0hJb4C+Avw7ONmwbhRu0N4QOop7WY8Nb4c+APQ//qPSIgokAcNQkUWI3HJAlVEQEOWYZTFqkheRl5CafN1S+iNhY07JjPa+otrFCm8ksqysM0gpJCzxXI+AU9qFDJT1RQrJKdKOKA6qfKus0e4GPVRIH5/NaGJTRGgzhB59qwYJXelW6kk/EQNaDf+pRcaaxK9RIWJCyIJvKvj/jSWKE0STEDaJmT0bWs48yChgY6G6POq2/O+Jglo5l55XNvdLjtL+DzbtdnYWO2OOPZ/0AK4xfS9KT/g9RP6NhDcn+vXfo8WJaNDdvr/B+d/4TJcimWCAAAAABJRU5ErkJggg==" />
 
 Adoptieren kann man zum Beispiel Clementinen, Reis, Oliven, Kaffee und Mandeln.
 Keine schlechte Vorstellung, einen Mandelbaum auf Granada, oder einen Kakaobaum
@@ -67,7 +67,7 @@ Lebensmittel kommen und unter welchen Bedingungen sie produziert werden.
   title="Gabriel und Gonzalo Urculo"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Gabriel-and-Gonzalo-Urculo__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Gabriel-and-Gonzalo-Urculo__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAwX/xAAsEAACAQMDAwIEBwAAAAAAAAABAgQDBREAEiEGEyIxQQcVUYEUYXGRoaLB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQCAwX/xAAlEQACAQMDAgcAAAAAAAAAAAABAgMAESEEBTEi8BMUcYGxwdH/2gAMAwEAAhEDEQA/AN8/qCTaokdoMtEhvXNMqiADxwSoGcgYI++vFjdQTK3Uky4dRzZWyZbpPyyj3G2bQmMkBgvH0YZyDkZI0T60v8Rba6QI790soEggpsx6jBPq2GJ/TW74cXyDI6fnhKZStXovTlB38DlT5jPAB4z9/wAtYm0baViL3NzjPffvS+o1nlnuVuP2jcybVnypO6mqU6g7aM1XcSQeDj3PJH86138Sa1O+R45j/LoFNGp1nYLUjuWCndtA3A5IO7jn3I11tsGR+OpV6tMxosDzryXQBKf0XOOWZsAf5zo/Lailyq1Y1enTlVUL7yTtJ9P7EkfvpjSwkrfiiZDF0EZNLr1VN/gUzcssaeO2yYVlZcgE8YPHsRoh0ndoVORMhzrWK9Qsrd6jIaPleMKVXxPoTnGedWrU4GKKVU2FNeGjyqXAPrTi73adEj3G4UZBWuUV+QCrcjG9TkMeRyR7aD2ebM6knPbZFSNGodtqpaPFRHdkGBub1bVq1epKRMV5N/qjP1Sqp4x8mv/Z" />
 
 Gabriel und Gonzalo Urculo riefen CrowdFarming ins Leben. 2010 entschieden sich
 die Brüder, sich voll und ganz dem Wiederaufbau der Orangenplantage ihres
@@ -95,7 +95,7 @@ ums blanke Überleben, wenn niemand für den Mehraufwand aufkommt.
   title="Aprikosen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-apricots-apricot-tree__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-apricots-apricot-tree__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACsQAAIBAwMEAAQHAAAAAAAAAAECAwQRIQAFEgYTMUEUFTKBIlFhcXKRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAUDBP/EACURAAEDAwMDBQAAAAAAAAAAAAEAAgMRMUEEBSEzUXGRscHR8P/aAAwDAQACEQMRAD8A41dft26dSmJQ0lBLJ3HBW80rfSVLNy44NrAeTrRafq/ano6dogwYFFeN0bkARgKPJawGTg51jVBQGldUqENTJUOJLU4IQITYA39kftY+s6f1k9VHJ2paaeKnRAYVmT8UlrA2bmQRY4Nh4zosblLESWU5VBo4ZGVlrxhW/et+oV6oXcYDKqQlSyTAj1+lwARY5sc6kNy6sf5RDWBECygkLEb8GUhuLe/Bte1j61l+z7vVQhYKumUCaRYAUAJZChyxyVtxIuPGPQ1F7y0sMbz0UiOCnbeMkYIJtyN8/YWH31SHcZg4tcb+6i/SxUBbjBuL+qXtMjmvgu7Hn2nbP1Na9z+Zv71eus5ZFr691dgxjsSDkgRtbRo0RNjx9JSDpt8j5VBaR/jqAc2s0MpbPmwXz/Z02mAXbFKixMkxJH8gP8xo0a0MuP3dH5X/2Q==" />
 
 Die Gebrüder Urculo haben beschlossen, dass sich das ändern muss. Sie haben
 erkannt, dass die einzige Möglichkeit, wirklich gute Orangen anzubauen, in einer
@@ -123,7 +123,7 @@ sich anschließen. Gonzalo ist begeistert:
   title="Oliven"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-olive-oil-olive-trees__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_Crowdfarming-of-olive-oil-olive-trees__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgIBBAECBQUAAAAAAAAAAQIDBBEABRIhMRMiBhRRcaEjMkFigf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAIREAAgIBAgcAAAAAAAAAAAAAAQIAEQMhcQQSMUFCUWH/2gAMAwEAAhEDEQA/AOT1AvzUcD1qdyWQpGzO/oxliCWQNnrCn7DTq3CMD0EsNbhWRxEwJYImCz8RnHjHqDohWz3qptdWCtuVNGvSyQSSfL3jJwQRuxyuDnKnte/BJPY6Bv3q+4QzNNYgsxSUJisRdT6pZ+wzOo8Mq4Huwcdd6z34h3IBOg3+9oKhdkRDUsxwSW6tV5F9YskfKRG5uW5YyQBxzg8utOtmsVrNddvs7Jt6wWJxI1yeYhg4f2+4DKDiRy8/tJHnpLYpqY1+X4oZYweKK54szKwQ4BIKjye8478nUFe+9CO4MxQW55ffyQllC4I93keW6/GNM4s5VrWSVDCM6+8Ntu6UEp0qUU36Vdp1jw8gdmYlxnDHlg5Iz0BnoaatvkwosoDtDCIsRPISuHBfA+mCxx9h/PejRpFgDy36lMnUCY34j3Sy9g1QIUjnSCeQqp5Fyuc8iSc9kEnOf8GJ6FeOLeDT9zIqiUEn+o+mO/d5/GjRpjxG0KuoE//Z" />
 
 Er stellt sich crowdfarming.com wie ein Fenster vor, durch das kleine Landwirte
 von der Welt gesehen werden. Sie bauen auf Bestellung von Menschen an, die sich

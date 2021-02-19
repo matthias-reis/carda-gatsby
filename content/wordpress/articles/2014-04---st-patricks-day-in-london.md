@@ -76,6 +76,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <div> (97:83)"
 thumbnailId: "7906"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_04_13543507523_7cf0cfa41d__m.jpg

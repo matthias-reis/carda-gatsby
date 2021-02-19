@@ -32,6 +32,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Unexpected token (9:21)"
 thumbnailId: "8725"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_auf-meinem-plattenteller-1__m.jpg

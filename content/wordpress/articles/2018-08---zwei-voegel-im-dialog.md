@@ -58,7 +58,7 @@ Nachhaltigkeit, Konsequenz Es gibt Apfelkuchen und Kaffee</blockquote>
 Die beiden Gesellen auf dem Schild sind mir im Schwedischen Kalmar (Stensö)
 begegnet.
 
-[myflickr tag="annestensoekalmarliebebirdsschild"]
+<Gallery name="flickr/annestensoekalmarliebebirdsschild" />
 
 -->
 

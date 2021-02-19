@@ -49,7 +49,8 @@ date: 2014-10-16T13:02:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "9057"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__l.jpg
@@ -64,7 +65,7 @@ subTitle: 10 Fakten über Veganismus - Teil VII
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Biene sammelt Nektar"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357441908_09b3d46f87_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAF/8QAKRAAAgEDAwQCAAcAAAAAAAAAAQIDBAURABIhBhMxUSJBFDJhYnGB8P/EABcBAAMBAAAAAAAAAAAAAAAAAAACBQP/xAAmEQABAwIFBQADAAAAAAAAAAABAgMRACEEBTFRgRITMmFxQcHw/9oADAMBAAIRAxEAPwDCo+naVliMkxCSj45OOfWqkIsb0iTPuaHKGOOMCMjPx3E851jWa4yCeCnlXt0kEqpDLM4wyhs5b1xxra6pS/32GGIVatQpjCqd6yc55Hvj/Z0ZLg0Yh1fcT1wPGY5n1pG5rXIcCh9xfdT3IHjMcyNtPppFDUvdKCpdo6fYxxkxlu0wHHB+tGb0EkqK610M6m6xRBxAI/zAD6fxnn609obI9q6dMsEzGoji2tGXHyOBlgTjJP8AePfoNvNxrBV10Qaoyu2WdNrRgZPBBGPPjQ7lQfLuNw6gltBMCbwIv8voTPND2VJcQ/jcGQG0EwJvAi4PNhM/TWL3D+HqZVCgwllwRndx961rXcJ7J1L0/Q0kkhWvIkLM2REec7V/XGdWrUpryjcfqpbJKASn+tS64Xk9uGdonZ3lAQtLuKEZbOSP24/g6PJVrVx1skkbBYWZmCycvwTjJ8eNWrSKUpC+lJMEXvr+b73pUOKCSgGx193m/Nf/2Q==" />
 
 _ **
 [Hier gehts zu Teil 6 des Artikels](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/)
@@ -88,7 +89,7 @@ ausbeuten, auch indem wir ihnen _ihren_ **Honig** wegnehmen.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbiene in Aktion"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14805231703_25f28379f0_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14805231703_25f28379f0_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKBAAAgEDBAEEAgMBAAAAAAAAAQIDBAURAAYSITEHIkFRExQjMlJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAJBEAAQQBAwMFAAAAAAAAAAAAAQIDBBEABSExE8HxFEFRYXH/2gAMAwEAAhEDEQA/AMe6+iV7u4pJqKSyx0sUQdudS8jSt0eDMq4XIwMk6d92QbXp9x2SR6VXitsElE9vp4cRohBZARkZKN1wB7ByD1g66wWq1UFnqa+yRXuirI42lllpa5UiDqnjJwW+Pbg4GkS/3Co/FE9KWkhY+7hnJbHk/OPP/dY8+WqMhtLIBKt7PArzm2xCa6JfdBPGwyiCx7U3JG01P+nG0WDAQVikSTgCCVOce9iB5A4gfGue927Zu9FNHTXB5GghlnhWSRDlmjY81EmOJwesBj5GO9WL0/ti1+67NNUQB5Yw7tHL2COPXtVgWIPeO9UP1fttpm2TK1YlxgkpFZ6QUURSKOUhumUe3BJOSe/o58tHfVLa9QQARY/fvJdTiJaIWj3F+cTBv6lp4aWmrWjoLW8bCYRj+WVuPUKY/qp/18j6HlC2xZ6y/wBuqKumuVqhiUNI1O785qccmCDGPsAZ8d6NGqGEiYgdcXz2yiHJcJq/ntlRodr7fs8MLvczLVfhEq1DVCI0YYAgkZwpBwVYjHZB6Opz6l7w3HAK7Z9wrI6yhkCVH7c78ZY1Vuag49yNkfZGPBwdGjSvtpbbpAqhhag4pxNqO+f/2Q==" />
 
 Zunächst ein paar Grundlagen. _Natürliche_ Vorgänge, wie sie von Mutter Natur
 vorgesehen sind.
@@ -136,7 +137,7 @@ wird von der Biene auf die empfänglichen, weiblichen Blütenteile getragen.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bienen saugen den Nektar über den Rüssel auf"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11532124213_650108a210_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_11532124213_650108a210_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBBgIDBP/EACYQAAIBAwQBBAMBAAAAAAAAAAECAwAEEQUSITFBBhNRYRQiofD/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBBf/EACQRAAICAgAEBwAAAAAAAAAAAAECAAMRIQQSMYETIjJBUXGx/9oADAMBAAIRAxEAPwBFrOsxS+pGu9P9wlsCSKR8KSBwwHjvFL9QuGtoYVuw11cRETDgkh175zj4IqvQahNf3e51jeOMlmVlAx1wT5H1V51Jra70xZrKLe8kTuscbHHAyR9EePv55rvVNy1sa8nHQH6ldZAEQw6qb6zuIEf8dnIfHJwQCo/XO3J3HnHFdc/qyO3guVks1Orsi2k2qTNvuNgwCg4wi4BH64rB7GOK5EyBVRUyxY8KwALAnxwc/eapnqDULe6eZ70vCjYZfbXcTjrHXOPmkXVIwW11wep37/HeZYieqM4Ytt1drCfbDybhgZ28YxWqN7m1dfwrl4GgjMoYDO7rg5/3JoopV7FeFDg71vvAJ8kme6lv44HvJHdZUDSIDtDEDvApNdW6MqhiSseCAfIz1/KKKr8JbEy28gfkMDmXc//Z" />
 
 Die Bienen saugen den Nektar über den Rüssel auf und transportieren ihn in ihrer
 **Honigblase** in den Bienenstock, wo sie ihn an die Stockbienen übergeben, die
@@ -181,7 +182,7 @@ wird nur ca. 1/5 durch deutschen Honig gedeckt. [<sup>4</sup>](#4)
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Honig weltweit - Schaubild: Projektarchiv Ökotrophologie Honigmarkt, siehe Quellen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_bildschirmfoto-2014-10-16-um-09-26-02.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_bildschirmfoto-2014-10-16-um-09-26-02.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAESUlEQVQ4y51V/U8adxg3+x+WJVu2dMvMtKup3bqh3Va0yp1Y42jq9gO12k5XTToFealsttbUTmuzWjuHrTRYtwocSPGlajoXrbA6BXzj0OAL7XA6CyIIEqscd7CDU7QatPNJ7nJvz32+z+fzeb5PmC90eL1e346BYhgaiB2+Cdv+yINibtTrxRA8fxVBPR7/jW+v8RIAimKIZ205ev2Y1eZYL8UXfL45DNNWPTyqh2HE49kdIEiIG/NJjI6+lmrxfTm/Y3LCNB/8AMNeKsX4j21q0jhhMCAeZBcA4u94fmkvHM648lqh8Pa1zOyzrNdPiQ+k13xV3AQb5/dOERageNm5UpTxS3RRXXR5TWSFvEpw5YcLZSR2G5Xd8FFWXQS9VqEaD6xlI3lWqx4bM8Cw3mAYD2WIsGDRl3Jqzxy5yMvgg/c6Dv7Ww+NXFLKvfsxoTWKJqFwoLr/hffqdJ/oZQioixWl6Ojs79/SZyfS3KWQFhMk65YPxERm0hG8LaRW5ufyo+s5vBAIc4BNmMw6QWCBJ4kKknPpkrpRI2yLG7i66eP5mduKNvNSa/JM1vNTrtMsimuj+d9zKWIYC8AOIKSwoiSvdf1rQC88Gi5h+PtLX169SqqwLtlCofgDn8lxJ3dGy2+nFxWxudhmLVpUH1KZdl359SXg0XwqwxDgAwJHFppe+Sc6rEPcTvYKf7c45i2X+35kZp3OJ6LvNsQFgej7C5R8uEwOVzcBPjWB5fVpJZQ6vuCT5e4jMlPkBWIEKONDBM4K8W39sluGVKJo2w5kXIs8Xka810K42fVneklzNBzvohxgZJaTCVoApSmRJ8CJwAaKz6pg/bwDAGgPODwzDuhGdRq3u7OxS9/81oNUMDw2pVMqVVWQNYHnVcbmBXNaWWtF4oubHFPFJQBZLaSfFVp+gx/DagQIRJQCA6xyVebdKrg0CLNpdCwtWRyDsdrvNZrdZrYs2O35rsVg8AfusicyXZt5kfy5LBZtIcfIv4iEwQU4hP6DEgQUiMruRwAA50Aen7oxMWf4fRVhgGzE9+r3ujXceHKPgv5aCx2RAAkRJfEQ+fC67PKbwIc4SlQNFZwnTS1s221Q5aVIqlT2PH2vUGmVP94hOR7zaKjIR3VyWIOI9xfEkBRWQgwkQmNgW/+mNtLMkXnsKByLl1h/KEprMTsIta422ijgdi4v2RZfL5XQ4nEtLIfpgPaG7gMHf93beu/tufXak+ThVAcY3UgEyUxJ+WhiTWz88afbvFJh3T9v1+lYy1doiSaHe/TDiXtR+4YHIxvC36PRi9q/aJdfy9hHkGleNjvo9NDA0PDqq1+mGV1bdWzpugyJ8OAVhHEbjs/a2iSaFpe9P5MWL4LTYsjrEZevq6taqtb1PenExBgcGUdS708DBvF7U7d5OAT7bQtnGarUu4Me8xWw24zZ9pZGJjxUUQVDEjYP5L3YYud7d9fgP1kGKkaluecMAAAAASUVORK5CYII=" />
 
 Hauptimportländer sind hierzulande Mexico und Argentinien. 2012 wurden u. a.
 15.000 Tonnen aus Mexico und 13.000 Tonnen aus Argentinien nach Deutschland
@@ -239,7 +240,7 @@ zu Quetschungen.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Arbeiterbienen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14564080433_c18a3b84d1_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14564080433_c18a3b84d1_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHAf/EACsQAAIBBAIBAgMJAAAAAAAAAAECAwAEBRESIUETMQZRYQcIFCIycZGSof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABkRAQEBAQEBAAAAAAAAAAAAAAECABEhMf/aAAwDAQACEQMRAD8ApFhBbS48QNaMbz1eZuDIdenx/Rx/fvdLtbpBOulVguiN+aQxcskt1DDbjTvocmDcV+rEA6H11UfmMflBlFEmWnClWVEsIZHXlvrk7IAB2N9HWjUSKr3NZPNK3cMk9wwlVWRgA2uirHetE+NeBUNeWqoweMb0QSo6+dcxmHzCSuLnJ/iGY8eTpOyoOvAiOz37/wCU+ykU1jwS4/MrHisqxsiudeAwB/kClUUHdJo7w24fd4wdrd/AVxd3MaSyXt46uHX2WNQijYIPlj7+aueS+y7EX0btaSS2Vw3vIjvIP6u5FFFOVDhnQOzOP4StvXuxc3V05hZ1BjKqDxYjemDUxzmGxEdoLWePITmbfF2uUAjbXRAEfj5boorcSM+7LX3f/9k=" />
 
 Dabei benutzt der Imker einen Smoker (oder auch eine Pfeife), mit dessen Hilfe
 Rauch in den Bienenstock geblasen wird. [<sup>5</sup>](#5) Dadurch werden die
@@ -264,7 +265,7 @@ ertragsreichen Zeit entgehen zu lassen.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Biene im Flug"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357107300_1a0c8fb2a7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357107300_1a0c8fb2a7_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcB/8QAJhAAAgEEAQQCAgMAAAAAAAAAAQIDBAURIQAGEhMxQVEVIgdCYv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQADAAICAwAAAAAAAAAAAAAAAQIEEQMhEkFR/9oADAMBAAIRAxEAPwB1n6gp4aypkrJqc1tPGWnVRkiEtnarsYJyp+AWzrlJa1hpY6CO60bLD3tKveyhahHcsV+xgaIP3yZ1s34vpC73Gz0ojMpWod8DyApIAU3poyI2U/K4bIOeKlPcLPcrvTTSGSGqEnkDIS8eD24Gzs/Ovs59DixFLUsFU2toarT/ABVFVvPLQKkWe3yIGPYrYzhdH1nB4ccLZd6a1+YzpUVs87eQxU6SzJTJ/VP1B2Rsk7JP0Bw5Rul1oO19EG/WeZbvUBqeM00TsZKuWUrDNnHc2v2IyxB9+/fKWTpu3/nMvUKY1cFVRMKxAz+oPwdAHOdYB52W9VFysUlvrohRM8pihLgyNLCj+pWP+s5OACwAxgciUnVEMLQl45XbASSKaPt8aAYBC5+9b9a1nfM05HpkYtJmr0PUdxp4PFa6u3LTA5HnR0bfwcN74czabqZadVK01JJFISQZMBgfnLAgt8e+HDWTxp9jeaR//9k=" />
 
 Um das Ausschwärmen zu unterbinden, werden verschiedene Praktiken angewendet.
 Einige Imker trennen das Bienenvolk und stellen einen Teil davon mit der Brut
@@ -292,7 +293,7 @@ Imkereibetrieb wird sie nach einem Jahr getötet.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Bienen beim Verlassen des Bienenstocks"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357358519_ded7209989_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357358519_ded7209989_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwf/xAAqEAACAQMCBAUFAQAAAAAAAAABAgMABBEFMQYSEyEiYXGBsRRBQlHBkf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAED/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECESEDQf/aAAwDAQACEQMRAD8A5HpNo8nR+qJDMoLM3fsRuavJZRJMwTxoNm9qUtHjJtgMZMKg+3Mv8pl76C2gcvIPD2Yfys0+BtdN3s7UWskzsqkHsMeWc+gqDeacUJYYKkdsbEH7isoOLba6ZorW1uJZGBAJ5U28yf1mnhdtNbdRrWWCLAY5iIVSe+Cds0WMF4SBcSRXMMascR9SMegc4+a6Twhwib/hKLWF1F4muJJVeHoI6nlcqM53I5cg7jNFFTy+F2t0l8RaMLONIridrlZ988yj/Ob4xTOicMnUI4ybtVU/i0RfGPVqKKciU66LW8k//9k=" />
 
 Seit Jahrzehnten warnen Wissenschaftler vor dem Bienensterben. Sterben die
 Bienen, findet keine Bestäubung mehr statt, was verheerende Folgen für die Natur
@@ -316,7 +317,7 @@ so oft der Mensch.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Fleißige Sammlerin"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357302757_1a1bb3e83b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14357302757_1a1bb3e83b_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcC/8QAKRAAAgEDAgUEAgMAAAAAAAAAAQIDBAURACEGEhMxQRQiUWEHcTKRof/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIRITESIv/aAAwDAQACEQMRAD8AlKugq47pWmKZpnZusyTxDJ59ww8Z9udtc22qKy1HqqQRSFCHC7JjuDjx8Y+f3qWNoqbrVC5LLLQ1hCqQBsyjOFZM+4bn730tW2utvlpqoBCpb+KsFwzYOfJ27bA50PdTO1sioyzHeLUkrrpUTHDyu5Z2IBx/ucD7x9avX4u4EpZuGK2/3tMU5YJTryhslN+YA7H3YAz8b51Wo6Nuu8dwVZJUcKxVGGwOQACdiCP7zpivgq69zEtS8lODlYIEZeQHxgnA/epws8E/kWjvtdDc+pDVVYpZ4XqOjJOzlVQE9PmPgnyADrdOFp/S2CjTlDsadZHbtzEqD28d9GjSjhyQ4deiqrlO726AvIzBmf3dmZe2MZ9vfUZdOH7Ld1usUltigkppng60JKuwwN8+O/bcaNGstrY8H//Z" />
 
 Nur wenn wir die Bienen in Ruhe lassen und ihnen ihre natürliche Lebensart
 zurückgeben, können wir ihnen auf Dauer helfen. An dieser Stelle ein berühmtes
@@ -337,7 +338,7 @@ möchte, verzichtet man daher am besten auf Honig.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Für Euch getestet: Tolle Alternativen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_honigalternativen-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_honigalternativen-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECB//EACcQAAIBBAEDAwUBAAAAAAAAAAECAwAEBRESMVFhBiFBEyJCcaHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMRBCEiEiP/2gAMAwEAAhEDEQA/AOg4WwjkjUuoIddEeajQ4y/sMjdX8+VlmsH5LFZNEvGNjrjpup1o677qTjcgk2P+zZcLsa60l9TTccbd3bytxjtCBEk5AViOIbjr3P7PtrdDkWFR5j0LpyMLtFku7eJhtJlkJ5KeqqCNbA7nvVL9TYpY+RQean4rPDKZKw4SBmt7aT6gHy54A67/ADW/qW4VoG+GHQ1k4jWGr9Tp2VuVQ/kZ1K5Z3zvaNbyBmikHFgHKnXgj3FJc5AceUia4uZ7aWNnSN5NlNdQdgg+Doa80UVd1DDuV4lz1OPg5MYTDxXFqmRLtEfxWEcGA7F/8Aphl76WXfI/2iiiqhehEvte1vZ2f/9k=" />
 
 Tolle Alternativen sind übrigens u. a. Ahornsirup oder für alle, die es etwas
 weniger würzig mögen, **Agavendicksaft** . Etwas fruchtiger und sehr lecker ist
@@ -365,7 +366,7 @@ kleine Marmeladengläser abfüllen und fertig ist der Gänseblümchenhonig. &lt;
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Sie fliegt von Blüte zu Blüte"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14258998664_220bda64c4_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_10_14258998664_220bda64c4_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAFAwf/xAAoEAACAQMDAwMFAQAAAAAAAAABAgMEBREAEiEGIjETFEEHFVFhcSP/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EACMRAAEEAQQBBQAAAAAAAAAAAAEAAgMRBBMhMXESUWGBofD/2gAMAwEAAhEDEQA/AO72OCOxwWqtnpoLj6jSQPGxb05UbOTuxlCMEY5x+xnTCvrayhutsgi9nFTVHY55AyOXZeMccYHkkn8aG9TVt1qKqlrhSLSUlA5zVtIrs6MRjK57vA8cf3SCu6yrLT7imqrS3s3hT2dflfTkBAP8DZJwPj51gRzF7RqkX2mo8nUoOO1/KJ9cXa6dOXaqNesrWtIP8UZ1KVTPtbJB5UqM54xx86GW3q2AF/t9rpqirLd8TlEzH87XXu/fOdM+pYku3Rks1VQpdLkrLsqmLqQGwG7hgMw7cAjGCDzrNXpGpholppbnLRB2iMUbMJkkhYHcBtTcMMVAJ486nIhxYy0tbVj3Hd16cdJXMjbG4Bg2P764R36dXepFNHTdR3ErYaJwWpG7p5kKsFjXHcRuxkfweNemdNdOW2Y11RRVMs1BTE+pbiRMpYZKSIxPDFSqkfkMP3q1aonbbieEqDusa4JRW5KCS6W26QxrE8cJdwgklbaU3ANgBQmASDjj40fvP1AudwuEE9FTxURgL7BTQ7gUJy2c554Hjjzq1aOONsjfJ4tFI8vJJX//2Q==" />
 
 ## Inhaltsverzeichnis "10 Fakten über Veganismus"1. [Soja, Klimaschutz und ökologischer Fußabdruck](/2014/07/soja-klimaschutz-oekologischer-fussabdruck/)
 

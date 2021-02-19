@@ -63,7 +63,7 @@ ersetzt werden.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_bienentraenke-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_bienentraenke-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAmEAACAQMEAgICAwAAAAAAAAABAgQDBREABhIhEzEiQVGRFVJh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAP/EACQRAAEDAwEJAAAAAAAAAAAAAAEAAgMEERIhIjFBUWFxgaHR/9oADAMBAAIRAxEAPwBLZLRbNqXJrnVkfCirCpzHLyDg1NzxH2yt39eutb7TaptKyzbnZHqLYptMqZeAVp1UcBDyJLdcSOh7Y51VWCx7Gva1KM2nKnVVDYq0/KtAhGAb8BsMcN+/Wlm+rVc4bRLMqtDsasasd4jAUmGDllx0Md5z+c6QcC8d+fpaJpi2pDuSltr3yWg4XmnUDnAyx++v66xztiQbxFr3L+XVGk1qz0VLpTwVbiVOT3gjGui7b2FdZkdTTvt0jOex5oOB16Ktjif3pPddpLY9t2+NKmR5MamK3iqccBx5C7kcuictn6z9etDpWSAlwAPi3xOzYPAF0jsW7TV2zm6140UwyxGG8irVYluIC9EleILd4AOfY1RbNnUN92iJZapZAZPN5Pk5cqjeV2GAAAQiMcDoBl9aNGiCQvlwPAqXSHUnor3Y0mFX2nmypUMSLJ8VKtcq5p+dywVn5Akgn5Kq9D17zqdgVoMMxpd2oMkqPcqkEvOlCk8GkinFZByYMD8fiff+Y7NGrVMLkNRxqv/Z" />
 
 In der Natur trinken Bienen am Ufer von Bächen oder Teichen. In der Stadt finden
 sie diese nur selten. Darum ist es gut, wenn sie hier und da Wassertränken
@@ -110,6 +110,6 @@ drauf.
 
 [Kampf gegen das Bienensterben](/2019/07/kampf-gegen-das-bienensterben/)
 
-[glry name="bienentraenke"]
+<Gallery name="glrybienentraenke" />
 
   

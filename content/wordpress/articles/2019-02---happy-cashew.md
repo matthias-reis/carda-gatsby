@@ -80,7 +80,7 @@ für einen neuen Namen entschied: "Happy Cashew" war geboren.
   title="So sehen die Joghurt-Alternativen aus"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEBRESAAYhEzFBByJRgRQyYXH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EACIRAAEEAQIHAAAAAAAAAAAAAAEAAgMRIRMxMlFhgZHB8P/aAAwDAQACEQMRAD8Awr042zE3PuePTqjUBT4ikKcW7YZKxt7E34yN/Pax79tbNN9CKPUGqerb86Y3m+A8VOofzYsrJxAsn3XAAtcXP81AT9wwotDiLoKw3NZCFMJYQQttQHHYeO/Pkn51sUX1i2o5SIMqqOyWXUBHXjoZDnTOIKgB7cgbY9uL/eqiDpTjFI3ANaDShNw+ku1kxlNUyviDNQ800lU2Y06l7NeNsEgFKhye9r2Hm45txei1Lh0iW9Cq0kPsNLdD0kthpQSCbFIF03tb9j96Tb2qJrO+a9JQ1KiRHJJkoiqbSlTQOJBNieeQSBflXHnU/u3drtbpbMOUyhM9pHTefQkDqi/BUPkD473udRrhs7daSQ3GJozjb7mp2PIPSU3chCrZWJF9Vn59MmbUUzUG+k5H4ZDSTYmxSkn/AEk35/ujRoga7paVmq23HhqvIHtJJlRU8VuPqKnji2o4j3WA8/Q0hku3WtRVmon9rWv9aNGgApOTSlza6r//2Q==" />
 
 In der "Käsealternativerei" (ich glaube, "vegane Käserei" darf man nicht mehr
 sagen, danke lieber Gesetzgeber) werden ausschließlich Rohstoffe in Bio-Qualität
@@ -106,7 +106,8 @@ hat:
 Gereifte""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-5__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-5__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAwUG/8QAKBAAAQIFAwQCAwEAAAAAAAAAAQIDAAQFERIGITEHEyJBFFEVMmFS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EACQRAAICAQMCBwAAAAAAAAAAAAECAxEABCExEhMiUWFxgaGx/9oADAMBAAIRAxEAPwCZmmfEk2Fhe/1FK6O6czk9o+lioqcpxcYbX2WZTuPBJ3GRVilKjfKxJsDuIT1Oq9Nk5FmYdocrgh1CiopvmEqCiAo7gmx93B2MWAvVdIdS3OMzHy0vJ7jQAIKgRcAH3ckb+/XEBoy9ACzk3nSIdUhoZNfVHowdJ0d6tU2q/kKe0tImGXGQ28wFGwV4kpUnI2J25EJt9kZeIt/Cd4pfrTrpkaUqNFbWhNRqB7T8uiywhOeRJNv3Jx23xAtsTE6TLOEunMqCwcSFJsNvr745jHwmicvCGmi7gWh67GvY8fuZlzr0wMnVF1eJskpGNvZMMiQ1chqmMUOgTsyz8qYQygBK1JZ4BcSLXAtcYjkkn1ckEMu5N5PUKQisrEdNnbj5880mqabLycoy+xM994rcQ+qYISonc9xCf8ePN/2UBvHEzryXAlZWpbhABJ+gOf5vBBAKhW2xtLqpZ9KDKbJv6IrjP//Z"
+/>
 
 Auch beim Einkauf der Zutaten wird Wert auf Qualität gelegt. Jedes Jahr im März
 werden die Cashews für die nächsten 365 Tage ausgesucht. Gearbeitet wird mit
@@ -164,7 +165,8 @@ dem herzhaften Seelenfutter? Machen wir es wie beim Frühstück: Erst das Süße
 Buttermilch-Alternativen von "Happy Cashew""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-7__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-7__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAoEAABAwMEAQQCAwAAAAAAAAABAgMRBAUhAAYSMQcTFCJBIzJRcYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxESMSFhIkFx/9oADAMBAAIRAxEAPwCD2xsW3Ve0LfenF1DrlQF/hbp1LEtr4qBKZicR13qi2748s9e7ei8t9AtxYCm/SU4ZdbkQE5IBx/mjw66ir8b1CH6hfGiqn0FoAKACwlQVH9kidO/EtyTWb93rSMVCiAKV0JBT+QNyggz3+04zgak2YmRzK13tOWDAOtSLWwqCu3JbLYULpPde548krPMMoCuRBIUJzAjSbyBtGzWtutqKJpxTKUFTa0tONJzAHxX9yZwTq2rbkHPN22aOmqC27wqG+TRClIU6l0CJxOB3/Op3zZUGloFMGsW6XVITxVyAmZP7fYiDGNUyJoJmxCib0ueWfcFTbGlNUSobWoKcQWwtBzkxiTGMHTah3TV01KtTdW+h4FKQS0kpSmO4GSfqCSB3o0aXADyHBWuORrpMXMBHYscA+tX2sKbohNzZuHBlNe180PlBgQccoMdGcCfrS/ct4cvbnq3Fa3XQs8XJVyKZMEg9aNGg1vNq005EZaAAPi//2Q=="
+/>
 
 Was soll ich sagen: Matze und ich waren beide keine **Buttermilch** -Fans, bevor
 wir uns auf vegan umgestellt haben. Inzwischen ist daraus schon fast eine
@@ -210,7 +212,8 @@ Cocktail-Sause!
 <RemoteImage alt="happy-cashew" size="medium" title="Happy mit "Cashewsan""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-6__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-08-happy-cashew-6__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFCAIEBv/EACoQAAICAQMCBgEFAQAAAAAAAAECAwQRAAUhBhIHFCIxQVETMkJhYnGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAjEQABBAIBAwUAAAAAAAAAAAABAAIDEQQhMQUSIhRRgZHR/9oADAMBAAIRAxEAPwBUbh07ttdorNEsyxsHmpyTA96g5ZQw5HAI/wCasGu1bRQigNTwzqGOVQ8ZWSrISCAQB3N3H3Gq7+ZkasYbKd9SXuiCd4SVW9RGePgk88jI+dPrZPEbp/c9jow22rpLXrRIRY4IZUCuvP8AZc50r6gsb5FUHdKl0aUXut8zKUo+H+1RKeA1qGtj69wTqunUCfm3O7KleKsjysRDD+iPn2X+NPnqnrGG3XeLaxBEgyPM/mULgN6gqjOT7jOk3udaSSyzTWxJmVy0YiOFQse3tb5yM84GtRZHcTZ0iv6PMGAtbv4/VO7RJ09RrCK1fkVpSeGIDZ7f3BQSACM/RyBz8buyLtW5zbpuEe4Q0aNeUiJ5uLDxBeSrHkc/HJ/3GjRpwRMdQIXPy52ZjGR7ZnE3QuiB5VYFVdD2WG7zbLHJUbZbd0rGvmrd2UsYowR6AVVQWJwRnA51x+97qbQlNRZUhZwwDhQSAuARjBGcnjP19aNGgGJpkOuFcizsiPEjaXlxdZJPPJH0v//Z"
+/>
 
 Wisst Ihr, was mich happy macht? Ein guter Teller leckere Pasta. Gerne mit ein
 paar geriebenen Cashew-Kernen und einer Prise Hefeflocken obendrauf. "Cashewsan"

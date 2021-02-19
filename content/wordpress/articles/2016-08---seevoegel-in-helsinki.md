@@ -54,7 +54,7 @@ Markt fühlen sie sich wohl. Dort kreisen auch diverse weitere Vögel auf der Ja
 nach Essbarem. Und lange müssen sie nicht warten - Der Fressnapf scheint immer
 gefüllt zu sein.
 
-[myflickr tag ="annemoewenhelsinki2016"]
+<Gallery name="flickr/annemoewenhelsinki2016" />
 
 ## Wegweiser Möwen
 

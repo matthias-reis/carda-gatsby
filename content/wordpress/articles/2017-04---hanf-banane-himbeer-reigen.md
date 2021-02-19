@@ -30,8 +30,7 @@ date: 2017-04-03T14:23:27.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "16818"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_35362413535_6f31420067_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_35362413535_6f31420067_k__l.jpg
@@ -46,7 +45,7 @@ subTitle: Kräftigender Smoothie für Naschkatzen
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_35362415875_303a38ecae_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYH/8QAKxAAAgEDAgMHBQEAAAAAAAAAAQIDAAQRBRIGITETIkFRcYGRFDJhgqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIDEQQSEyExQf/aAAwDAQACEQMRAD8As6xdNfS/RafINjnvMp+7xIH4H9p0uiLJpySuJXVYwoZm648Caxtg0OiXk9kzSzbChWRsZ6D4pjPxnGoMItZM4296UgD2FBOyLeGV06G3apR8Lk+joHxhh+xoqb6dpeyMe9G2987Op+TRSN0fgvtdMyOrXAbXZmVg2Y0OQc+ApbIQ7lRgAmq3EEwsb2OUg9nswSkRwD6D250ri1ZbmUpaCSWQHmEjbl6+VFOLyzRo1NfCsvxHfZru2a3tWSEOGiU74F3BuQ5nyPKisxBxQscEFveWjqsMKLGRKQD1zjAx1/2iqkc5K1ZP/9k=" />
 
 **Kennt Ihr das? Man kommt einfach nicht dazu, Dinge zu erledigen und plötzlich
 hat sich ein riesiger Berg Arbeit angehäuft, der erledigt werden will. Da bleibt
@@ -93,6 +92,8 @@ Viel Spaß beim Ausprobieren! Ich wünsche Euch eine stressfreie Woche!
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken](/2015/03/die-ultimative-vegane-festivalliste)
 
-[gallery type="rectangular" size="large" link="none" ids="16821,16820"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_35362418545_c87105858c_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_35362418545_c87105858c_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_35362417555_a553dbbfb8_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_35362417555_a553dbbfb8_k__l.jpg"}]}
+/>
 
   

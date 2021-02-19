@@ -31,8 +31,7 @@ date: 2017-04-05T14:20:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "16276"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33012977454_189f4d92a2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_04_33012977454_189f4d92a2_z__l.jpg
@@ -49,7 +48,7 @@ Werbung\*
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815275706_00eb7e2b15_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815275706_00eb7e2b15_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAj/xAAqEAACAQMDBAAGAwEAAAAAAAABAgQDBREABiESEzFBBxUiMkJxI1Fhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAIhEAAgEDAwUBAAAAAAAAAAAAAQIDAAQRITFBBRIiYXHw/9oADAMBAAIRAxEAPwDbv+uIOyrhKFNWKUyq5bp6T9QyM+cYPHvUu2FNnWa93GtOsV3rRZUQ0HorEY9TVPHlOByT/uRqnUrP8P7fWovcp1OZLGCr3K6tJfnIzhX6R7zxpJJu4rVGpx1ppTkP2wSGY9tRwATzj+jwRol5dxQMHZfI80yy6dJdAhcaVGrzXi/Nq7wlodo4H3k8j9jzo10O3wx2g8WPIkWmmj1aauzGq6AsRk/lo0hWDAGjGIg4rLfrnsmhcJ8ObYpFS8OT3K9FlCI7DyoAzwfRHOnQnbQ2xFeSNxyVudGmetYydtqoKo5ILLkDHSc5940nvm25Mm+/OrPKitXJV2jzVbtsygcgr+hwQRqXXmy3WDKq1b3aJqI2euTHoirTPB8MDgDx5xgetBdn7yzxghdQRvzVe3SAxhVkILbg7fPlPd4bv23f5iXKzteKN0ZVSpIucgENTA+36gRnOCCPWeBo1FmD0T/JTGPA/H/mjTMZoRkA0UjH71X/2Q==" />
 
 **Ein paar von Euch können sich vielleicht noch an meinen
 [Honigartikel](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
@@ -83,7 +82,7 @@ Blitzversand sowie den vielen tollen Variationen. Doch mehr dazu später
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042970013_c6c5d3a2fc_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042970013_c6c5d3a2fc_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACgQAAIBAwQCAQMFAAAAAAAAAAECAwQFEQAGITESIlFBcZEUJDJhof/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAeEQACAgICAwAAAAAAAAAAAAABEQACAyEScTFRYf/aAAwDAQACEQMRAD8AqLQ9tlQF6uFCR/F8of8AcaYjZ3uUSJaq63QFXDu0xDeY6Cjn6tjPPWpsl021S0dvpXrkaumZTIHYEKvywI9R0Mk9nU9p9qU+5qW20tbRwz1MLCUEp7jK+mQuAWOOD0AWByBqK3oytXkPFHc5vc54ImnrLrTQ5HoyJ4lEVG58g2G8iHzxyR48ca0ils9ygaW0zM0YJBMUrr4n+1+n40yNtPam6bvff39TVQx1KgR/rSpg9RlssCWHYA6wBydLtJZNu2LZlTebfeiZVLI1QsyOjAOAqmPnk+MjDGDwBzkZVapqbM9bWWgEOn399xcXcK1arBcrbS1cY4AkHX5zq3gtFjrVEjWoI+MArO/r9vjRo0ETMCZhPtyyiAoKKUBh7EVDgvz0fkao5trWcScU0viV4UzHC/bRo0CIl+Z//9k=" />
 
 Zusammen mit den süß gefüllten Fläschchen und Gläschen sendete mir Danny eine
 Liste ihrer Kostbarkeiten zu. Derzeit gibt es insgesamt 60 verschiedene Liköre,
@@ -103,7 +102,7 @@ Mal daneben gelegen habe.
   title="Apfel-Vonig"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33700142882_5e3a3439f3_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33700142882_5e3a3439f3_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABgcDBAX/xAAqEAACAgECBQMDBQAAAAAAAAABAgMEEQAFBhITIUExUXEzRJFhocHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAdEQEAAgMBAAMAAAAAAAAAAAABABECAxJBISJh/9oADAMBAAIRAxEAPwAapVuoBlfHjWpHt8PJ3Ucx7AEeuptlqtPLDDGjFpGAwoyceT+AfxpicMbJVt7Wbb7ksNOyxrpYqdhOqnCyxM3eJs5BbzjxqA9WLZs4QC2LCbZKkseDFGxP6aHL/DtRVYqhU+6nTc4y2tKHVmlkgDRBT1fpwWIskBV9c2cglu+CO/nQDuMiCAj57fGhKla9nZLe0XujLBLGQWjZXHf28f730YUeLKUe3zwWlimr15+tPCiqjpI2DitCRhox6kHGDkg40j6sW4U5MRSscex9dSbjzXQpvwkzqMCVQA2P50xr4S4s9faN0w34+4pinq29tq2oJ71lCrBZerUgjPcOjH7jwcdhnAxpMvv25QZjW7MVUkYLcw/fVy1tqq7ulp+YjAEiYx8cv9axrVGRWIXDjwVOoLv88Jvjjrw184n29Z//2Q==" />
 
 ### Apfel - Sorte 410
 
@@ -119,7 +118,7 @@ Geschmackspunkten** .
   title="Apfel-Vonig"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042975453_0d7ca33bf5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042975453_0d7ca33bf5_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAAL/xAApEAACAgAFAwQBBQAAAAAAAAABAgMEAAURITEGEhMHUWFxIxQiMkGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAIREAAgIDAAAHAAAAAAAAAAAAAQIAEQMxQVFhgZGxwfD/2gAMAwEAAhEDEQA/AJVRzOAn8kcqD5XB2ndoPt5gD8rgrl9CBolBjR2bgac4P0ek8uvSeeraywUaLdmaWLSt2I5GvjTT2HLHQa78bYFXqbY8Ze+Ad/ePIqaVpAe2WJtfZtMCrUCrqV7SPjFJ6z9PctQT3cvWtTqpX8yrHKWWYbalCTzvrpwRp74l+YZEUDNBacD+t8VlKmjBy42ZdaWKONlUF0cMPvkDFO6azzKnvSUOnlUSXGF6bs0/ZIQA2xGh9iORt94iNe2qrji7BK8jWMuuTVLDr2v45SnkA41IxUcobjUrRVtH5+48+p/UOXx1beQ2qM9dUjaWBa7AJJMf5doGwXUcDUA68HEXl6tzCH8M6QOVAXdCp/w42ZUs6/WCXslcKdm83lc/Zwv34LRlaSxFMrEnUspG+CWZms6m+R8ZxhV2PbzPrP/Z" />
 
 ### Chili - Sorte 414
 
@@ -139,7 +138,7 @@ Geschmackspunkten** .
   title="Ringelblumen-Vonig"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042985173_846b4fc58a_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042985173_846b4fc58a_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGA//EAC0QAAEEAQMDAgMJAAAAAAAAAAECAwQRBQAGIRIxQQcTUWFxFCMygYKRocHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAxEhMRJBUWHBgf/aAAwDAQACEQMRAD8AOsfF9wiv45vWrTtfINY1yaqC8WUn8KAFOHt2TdnvqVttyC3iMo7mfdT1oRGYDQ5C1k2o1zwE1+rTJPhtbI2VBi4SAjKXSbkK4KibJPjyrUWdUUs2hNiULqp7Y48EDeYPyIBQEl1h5kqSFhLzRbVXxojUTJRw3dA1pb9ZX8krD4uS1DZ+zMwlSXFC+qPXcA3ykihyP60AZHcwdSaUs/UaW8iTqU+AB8+79kfIsbGnwoMpJycRuXCdAS8ypAUeDaVJvyCL/ca22D3jhJj+SjuZaOjFRl9TbU9HLZHA6So/AKNX50PY2Z7ZSSTXVRHy11ykTFZFZcfQQ7d9aasj8wdNXK6hDjiVbPyTfUTfcmdJmxEZdc2FNCWyltPQlDQNhCU9gOEix3rRbIH3iiiwnwNI8/bGMDy3FPyXHbqypPH047ajycHCo9Knz8+of5o7N5SrXNQWIH4AOrdT/9k=" />
 
 ### Ringelblume - Sorte 420
 
@@ -154,7 +153,7 @@ besonders die etwas herbere Note, daher gebe ich **10/10 Geschmackspunkten** .
   title="Minze-Vonig"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042982713_7f81590086_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042982713_7f81590086_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAwQI/8QAJRAAAgICAgEEAwEBAAAAAAAAAQIDBAURABIhBjFBURNhgXGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EACERAAIBBAICAwAAAAAAAAAAAAECEQADEvAhQTGxUaHB/9oADAMBAAIRAxEAPwAypxoxB34/zk7SoNZkWOtDLPIT1CxoWJPMvp7DRWblaF+yiRwGKrsgfOv5xTxz4bEYKd8nLBu3uu1CnKxgliVivcfIJ0fOxv55F3CCSauqqqG5cMDfQ/B3IJ7tEwsyWIJYXX3WRCp/4fflevMkewA2uOt2rVz+DTvjrUVeNGgJm6NNiFjQM7R/Low9u3nx9HgVlsljA8iGwrMrFfCEb8+/99+FWyE0z2hiLiGVO879QTd/SmTbH5Srbj2DEdNobPVgVbQ++pPEXFmCGrBVpYuO7UWcz42jDKFniTse8qufBQnZ662D48cEqVz8ZA+mDDzzckszdjLjslax87L1Z68hXsP3rjUbV1VUo4kHd78wRJlQ9WeoMPQx75EskWGrMRBNTbpPYtAaKSqdFx40T7a5yvnb82Tv2b8zqZ7UrzSdBpezHZ0Prlsz2KvZObvcyP5mA8vIzMx/X0OQcuDKaH5k0P0eYmad7yY4IOB435Pfqv/Z" />
 
 ### Minze - Sorte 416
 
@@ -169,7 +168,7 @@ Geschmackspunkten** .
   title="Apfelkuchen-Vonig"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33700146122_913f0e20b4_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33700146122_913f0e20b4_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGA//EACwQAAICAQQBAQUJAAAAAAAAAAEDAgQRAAUSIQZBBxMiMVEUM0JhcoGRkrH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/xAAbEQADAQEBAQEAAAAAAAAAAAABAhEAEiExA//aAAwDAQACEQMRAD8AJajG/jrnGq6GrjHM0zjrR+PbfC3YSuUpRhKQ5MiuTOAJ7JiNIvjnjFK7RRuFhdGvTk1lhHAs5sVxMVlnP+xGNAC+6t+kPI9OGptrEkYkM/UamW5IhPpkf30m+R+Mo29UWJrvZWXBC2WJGLITZMSIlGQwcHr5j11hN126rISx8P5DU+ZKehdqPEbia75FwmeaGRXwsFOGGJ4/F6DPXfXekJNj3FFVbdKG+CzXrVqDGcRZW0zj1gwkMYz2fXQpStGCwO+uwNdjKwATt+5WqciwM92t8owMwMAgjsdaoIkYXEo3XSGHW/bJ5JTnt9ipT+wGxO6FqipbVtrpRHhAd4Hzz6ep+mhqe+XcGIsuA+hmT/uq+57JfbYY59hb5kk/eEn+Zdk6i2dqtQySkn9JB1iabmqBFg+7/9k=" />
 
 ### Apfelkuchen - Sorte 413
 
@@ -202,7 +201,7 @@ sich sicher mit einem guten Tonic-Water. **7/10 Geschmackpunkten**
   title="Verschiedene Vet-Sorten"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815278446_c84aa4a956_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33815278446_c84aa4a956_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAoEAACAgECBQQCAwAAAAAAAAABAgMEEQAFBhITITEUIkFhB0JRkeH/xAAZAQACAwEAAAAAAAAAAAAAAAABBAIDBQb/xAAfEQACAQMFAQAAAAAAAAAAAAABAgADBBESIlFxsUH/2gAMAwEAAhEDEQA/AFvEIunf7FBbt5qSqp7WAI2Vg2YwEHuVPHuPxjS3ZOAot6feLMm8RImRBcC1GzCxVWUqCQuRhTn7+NX1XgXaa3D9ijtsjLuTwdD18jsXj93NgkYwMk9h39x1ODYrvCyzvcsM806M3Vh5milx+rc3zkKD/Awe+rXudCEiQpW5dwvMW3+Ctl2dG3Ckk0l16g5W9SsjORlXWJI1ChioJzk5LEYGc6ZQ/jnYLw9eqPOrJGvMY8MxEak82fDZOD9g6lt5Vq91oK8r16zQ87dN+ZsnBUIfKkYIJ+9Pav5Sq7bs1OhDQmtSxx4LxSADyfOB50rRuBVTKxqvZmgw1TSaTSQqqoK4UeAIf91x8XVBf25p55ZA9WNjGqHlT3EZyvgn70aNBzsPUFMb17EyDfEC7ZXvJlZQwhbue/MCc/WMH+9TFXbz0umtiREQ4Cr2Hfvo0axbRjjGfp9nSXKgqSRx5P/Z" />
 
 ### Rosen - Sorte 217
 
@@ -225,7 +224,7 @@ Geschmackspunkten**
   title="Auch Chili wollte probieren"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042991233_e027a953b4_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33042991233_e027a953b4_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIFBgcIA//EACgQAAIBBAAGAQQDAAAAAAAAAAECAwAEBREGEhMhMUFRBxQjoTJxdP/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAABABECIf/aAAwDAQACEQMRAD8Aq3gLhy5t8RBlEjIW9leCOfn0RKNaXXx38mk537g2zRZUytMx51eJgV0DosDU14YtMgeArQThpbyG7ZY7WBE5ishUqxGxtg3vzoionxXgMzZRXMeWsGRY3MRMm+nGFI7sQw0O3xo6NZcnyeVd3dlC88jtKw2xAJ0N696op5nRmnYfjeNQFU6HqikMEtLYbhfGT5O2yF2t2wSYTFJTH0Vb2xTffXnz6pi+qSLY3UrT8UpLYttmWGKOPnU70GIJ5gN9h5pzxGQjhUie/u+UDZ5rjlH6ArjcHhPqGcY7HTznuXW3Er7+dgHvUU3xrcry6Nnm4tLIsEt2lMK/xLlhv+vdFXXf31n1z0MOQv8AniT9HvRXdjl//9k=" />
 
 ### Pur - Sorte 250
 
@@ -254,7 +253,7 @@ eingesetzten Gewürze und Pflanzen sind unbehandelt und fair produziert.
   title="Vielen Dank! &lt;3"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33856458255_a5da406727_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33856458255_a5da406727_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAgFBgMEB//EACsQAAEDBAEDAwIHAAAAAAAAAAECAwQABQYRIQcSMRNRcRQiFyNBYYGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECESExQQMT/9oADAMBAAIRAxEAPwCCxvBsmejNSJEBhcJSQtL4dG+0jYUUDZ5FaPUDD2Y8iGqNdG230NJdLaN9jiuRtPdo7G9EHx7aNMXhshpGM2hICDuCwCG2ypZ+wed8e9GR43bMjYLFwtS3grwXkoQAffWqi8+j+jWhG7m+qE8Iq57zqWthIQrQTs7NFXvqd02NizKdBtyUGNtLrY8aStII/wB2P4oo1Hpbkxo8FmRl4PY5Lkpplj6FkF5aghI+wcFR+KmIOQY++/G9C4NzS8tLbZYSpxJUT7hOh8k0rFvzq/WiBFjWpFu+ljobSGnWi6SUDQUQTrdZ/wAT8guKQ3Iv78JY49OLHZYA8+D2k8b4543xVc8YQadlw64m4LuFvnoZCpXdJt7/AKW1D8lzaDv90Op/o0Vy66XWbMkd8m8Xd5XJ7nJzn6/BAoo4exps/9k=" />
 
 Neben dem Standard-Sortiment, das man ganzjährig beziehen kann, gibt es noch
 eine große Palette saisonaler Produkte und Sonder-Editionen. So gibt es zum
@@ -276,8 +275,9 @@ Online-Shop. [Bitte einfach hier klicken](http://vegablum.de/).
 
 [Mehr über die Honigproduktion und warum Veganer keinen echten Honig essen, erfahrt Ihr hier.](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
 
-[gallery link="none" size="full" type="rectangular"
-ids="16278,16273,16271,16270,16262,16264"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33043138583_c5ec078abc_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33043138583_c5ec078abc_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33012789134_3bd94abf44_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33012789134_3bd94abf44_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33012787004_88596b8206_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33012787004_88596b8206_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33012785874_7c2c5e3155_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33012785874_7c2c5e3155_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33012775984_3c276a7014_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33012775984_3c276a7014_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33815287236_bda8a8f5e3_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_04_33815287236_bda8a8f5e3_z__l.jpg"}]}
+/>
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf

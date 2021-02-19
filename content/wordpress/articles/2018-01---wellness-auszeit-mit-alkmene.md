@@ -68,7 +68,7 @@ viel [Tee](/2017/04/smecket-tee/) genau das Richtige.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007016498_4d6128fe54_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007016498_4d6128fe54_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcAAv/EACwQAAIBAwMBBwMFAAAAAAAAAAECAwQFEQAGIQcSFSIxQWGRFDJRUoGDsbL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/xAAYEQEBAQEBAAAAAAAAAAAAAAABABECMf/aAAwDAQACEQMRAD8AgNBbmqJYk4BkdUBPkMkDn5063R01qttWeouNRcrXVRQSrC6U7OXyTjOCo40Ntl0jWppvIYlj/wBDVx6nUnfu3jZrPUQ941NREvY+0L4iTlh5eIH51Pvp5QIXKebU6c126LOtyoKy2xQNI0YWd3VsrjJwFPHI0Qu9pkt9bU0zFHeCV4mZDlSVJBI9uNXDpVQTbc2hLRX2dIzT1RkLIS69l0jbGf3HpqM7mvGb1dAQCfq5sn+RtVJiMJ7LK3PBDfHOn156l3W/W80OHpsypMJFlJIKkkeg/OtraMH2G5sHUa77dpJKdHkqGeYztI8pBJIUe/6RoRWztU1M08mS8rtI2TnliSf71tbTmWL/2Q==" />
 
 Gerade bin ich sportlich wieder voll motiviert, daher habe ich auch ab und an
 mit Muskelkater zu tun. Das entspannende Muskel-Vitalbad Bio-Rosskastanie kam
@@ -95,7 +95,7 @@ eingefangen hatte, hatte wirklich etwas nachgelassen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169428944_bf3d749817_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169428944_bf3d749817_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAoEAACAQQBAwMEAwAAAAAAAAABAgMABAURBhIhMQciURQjMkFhYpH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECAxExISL/2gAMAwEAAhEDEQA/AIIsMIHdhTp6W4jD5TO3lvl7Br+IWbSRxJJ0EOHQA7+NE780kQvjJ7bV49zbXXVoPAgaMr/YE7B/kf4arPAeJtw3mFjd5XM2wtrqylCOkZ7S/bYIS3t8HfV3B6SKneWZWn4GcV5F8oRfVO2w+J55JY4i1mtrVViIhLhgjMvuH738+a4R+nqr8r5xYY2/yWOKSXNwY5ZEuVRSeuRDpdDsujrvv8T81FlVkRQT4AFUh7WxXLluX1GYANN9xzzIT8OtuNpDFCkQRGuYyQzIm9ADwpO/cw86HiiitUquhmnPBYDdC6UaArNmJoopgM//2Q==" />
 
 Im Anschluss an das augedehnte Bad gönnte ich meiner Haut eine dicke Portion
 Pflege mit der Bio-Olive Intensiv Cremeöl Lotion. Positiv fiel mir dabei auf,
@@ -119,7 +119,7 @@ entschied ich mich für das Erkältungszeit Bad Bio-Fichtennadel.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007030178_20fe0b50ef_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007030178_20fe0b50ef_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCAwYE/8QAKRAAAQQABQMEAgMAAAAAAAAAAQIDBBEABQYhMQcSQRMUIlEVFjJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABoRAAMBAAMAAAAAAAAAAAAAAAABAiEREkH/2gAMAwEAAhEDEQA/AF7o3QH7AiY+/mUTLoUVBUuQ+bBVVhIFg8bk+B98YzBjMfko0AJX7l9aG0/H42pQSN/O5w3uiDkOb0t1ZBW7Ut10mQh/tDRb9MBu1GqB+WxPI2rGM05oaJqDMHs8Y1HEgR8umgyUMt0GwEhzubINVyL4sbXjNVfdrwqpxcFnUjpzJ0JCiyJ7ole5W422hplSFEoq+SbFG/8AMZBUGP4WKw3Op7umNYZLCVmOoExHIERctCWJSHC6tZAXt97DbncnjCTzrT+eaZnrazuKY5WAGV9wUHUC6KVD+Qoc/wBYuG2tM50523l+kpFnsVRKb2NcWMSSUk2UAnBgxQknlBaO1SElJ8EXihwk1alKoUO5RVQ+hfAwYMIH/9k=" />
 
 Der Duft erinnerte mich sofort an den Badzusatz, den ich als Kind immer im
 Wasser haben wollte. Er lässt einen so richtig schön an den Wald im Sommer
@@ -143,7 +143,7 @@ wieder Zeit für ein Date mit der Badewanne.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169427424_7c9c150206_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_39169427424_7c9c150206_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAUGBwgCAwT/xAAkEAACAQQCAgIDAQAAAAAAAAABAgMABAURBiESMSJBB1FxFP/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIDIQQREjH/2gAMAwEAAhEDEQA/AK8WGNWQBnI1W7J2YgihMMEkm5BspGWHXet/s04eEYGz5TepaW2RlsZUgaabzhEinX0nyBJPXX976qWPxfjsfx2PkNjkco094l+ESGMeKyoigh1BGyW2VIHrWu6K3IpXT9i4+PkuFg1OLhnBuL5DhuMu8jiBLeTI7SStNIh6d/YBAGgAPVQdfY6NQXjI0ewP1U+wczx9rhsliluoVurT/YzEp5rMGMjgRsp6O2Tph9Gq/XEjrCFb6UDv+U4idwGrWyMy4ZlpcRyC2uYUVnIaME+18hryB+iKXeU80yGcy8soJtIo2UBIm+TOutuX9kkgGiii8Vbek3GLJXoY3nuyq6VFFJ9xO8hPlRRSQp//2Q==" />
 
 Der Duft breitete sich sofort im ganzen Bad aus. Dazu eine schöne Tasse
 Lavendeltee und ein Stückchen Schokolade. Wellness pur. Der leichte Bio-Malve
@@ -186,7 +186,7 @@ komplette Produktpalette aus dem Hause Alkmene \_\_ gilt:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Alkmene.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Alkmene.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAMCAYAAAADFL+5AAAACXBIWXMAABYlAAAWJQFJUiTwAAADYklEQVQ4y11UyXbiSBDU///CHObQb57d4/E62GDArAYjGoQBC4FYJLEYCZpFBuO1OyazJAGeQ7ysKqmysiIiS3qatLGadrCetuE6OhZ2k9ASWDoEMfew5DV/3Z3oIvL+AKufHbwuTWwWBl4ovrqmmD/PuuJ/ATqDc7iOl0eajzUMrHv0zQol0fG5HuCD8L4a4O3JwvtTX8w/n4d4mfd2RVBBnHD22IBplPHT1mAbVXQe8rDNKka9CrqNO+gNGY5Vo3/b4lDG7jJNSMP+PTL311C0NKxuGYnIMeTMJW4TF6jIMeQyIci3V7g8+YbWwx02VIRIQInWxJyq55FSIlC7BZhaEdF/D3D6/U/Ewn8jdnWI20wYxdwVZnbAmr5lTzAwfdSQq0ahNNKYj5toq3cwmrJAT5Oh06G9lgytmsXYqmNNNAf08diyKlQE7RlU0K7nEQ9/RyFLReciSMaPkY4eQyneYLM0vkgbFCG9zAw4jyqmROXr3MDvzSN+Ed2f66HQ8c21PClWFmnZ22rJN2HdN7Rmj1SxxnLx/6w7j99XfZGDY+CHlwV7pLfNIfFmWU3BoJuwJno9B7NVRL+tCE8s/NsKTPzK/SJYAtNSkKpco2OWhfYt2m8b94I9xpBk7VE+26rCapfQ7yoYEFwy/RNBmoxVhORz5Oo3YEPGLw9x9NcfyGfDRHHX7wKvgIXjUSgMRQXw7ZtdGaHCGbRekSTIIUweKJFnEtcnSMZOUSP6o1dHNP8HmcQ50uStyMUBmbeJ9awD6ZkOGY8eiMY60WMAH1PCBHiziU6vhViCj7UnC9P5PPfaituXI/tgOm7gjSj+oO55FdGTQEjB0nCO1dD7Tnm5ZXmvxI5mJ4+GNUzMGgrpEGrlJJRCFIZewphaq5SPQi2nUCslkI1fEI0VURjvZRpZihVFbi1mcUFm5sim5vH/GRTzwIQDasNkJQy1fYfFqIHbmzOk4ieIhQ4pnqJJ7k9EjpCKnuJBSVFhcTgDVdC3Tep4b4IbONzZtdmXB2jrJ114gD0lGNDocK0jUwEq8slzVOmmDSWJTOwIOdIsmzjDD2orpo/pDOgLXsr9B8b1Xznv0F1BYmwH452RpRUZSrQUgf0g2s5HoDuD/RAkWe51hrs/t3eHufv/+KbdZ2TpM/Ift21n4nuPWH4AAAAASUVORK5CYII=" />
 
 ## Alkmen _e_ gibt es schon bald 50 Jahre
 
@@ -196,7 +196,7 @@ komplette Produktpalette aus dem Hause Alkmene \_\_ gilt:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007019278_b05524c077_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_26007019278_b05524c077_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQIEBgj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREABhIHITETQXEUIjKBUmKR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAIQIR/9oADAMBAAIRAxEAPwBfdOtu2W8X56e+TSrSrSyTARNguy4wM/BJ/Wt7rHtzbe1LTa6mwiWSSeR1lM0rY7BcLxPg9ydch0uuclNv2zc2PCWU07A+GDqRg/Jxpp9Xdupu2S1U5qntSoZ2jkrOPGZgIyQPu/iT3/rrJU7NylfGy2L002rfNqWi43GorUqapOcnpS4XBkZRgfAGlDPRUsdRMscvKNJHVWPkgMQD/g0/9l08dk2DQRwvNWx0izIlRAmVZVeQhzg9lGD37+Rry4tTIyKcnLDJ/ffWxUU1NM8M0csTFZI2Dqw8qQcgjVnc7vXXWKOO41U1SkbFkEjfiSMEjGjRolTU+47pSWz6CnrJEoxG0XpYUjic5HcZ9zqgbwMDAHto0acX/9k=" />
 
 Das Unternehmen gibt es inzwischen seit fast 50 Jahren. Im Fokus stehen gut
 verträgliche Pflegeprodukte auf der Basis von Blüten und Heilpflanzen. Wer mehr

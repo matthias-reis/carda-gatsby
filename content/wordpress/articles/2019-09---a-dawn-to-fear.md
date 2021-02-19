@@ -55,7 +55,7 @@ wieder vergessen werden.
   title="Cult Of Luna im Münchener Feierwerk am 4. Mai 2014 - so sieht Begeisterung aus."
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-anne-reis__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-anne-reis__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYDBAIFCP/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUhEhMxQVEGIjIUJLFCYWJxof/EABgBAQADAQAAAAAAAAAAAAAAAAQCAwUG/8QAIxEAAQMEAgEFAAAAAAAAAAAAAQACAxESIUEEIjEFUXGR8P/aAAwDAQACEQMRAD8A5gghLsoUEsdgPNMkvp9LF3gnlMrBuFlGMA9Dgddj3zVSy5EUEacn7rmqySg7r5Ur33pw9dxNqWt3GqzTQ2FzdhZJLeIAKjEDcjcIWIZiAepoM0xvDAaVXVel8SG11zA53zTG/OClWw1W50SGeK2hvbeGVGilKv7JlzsWUjhOM/jGKhn4b2PjCxXC/wASQwz23Gx/zY1T1SS8Scw3crcarwkA/p64OOtZaWGlje3tY1jmbJmuWb4xbbft+T0qxzMX7RoJS2Q8WnWpwRmvtsfeANpk022GjWf1bwxz6tIyrBG+/LLDPx7nHc7CoNTdn0G0lZrZ7hJOZMc++Ykt5+WMDpt4oooMbi5wcfJP4KDZHMoG7qtJrerJqLqUg5RzlvJNVIbwwW7Rx+0v1OdiP680UVqhgAt0gyc6aWUzuPY7X//Z" />
 
 Über die sozialen Netzwerke teilte Sänger, Gitarrist und Hauptsongschreiber
 Johannes Persson mit, dass die Band im Vorfeld genau wusste, was für eine Art
@@ -100,7 +100,7 @@ unfassbaren Kreativität und Vielfalt der Schweden.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-a-dawn-to-fear__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_cult-of-luna-a-dawn-to-fear__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgFBv/EACsQAAIBAwMDAgUFAAAAAAAAAAECAwQFEQAGIRIxQQdREzJhcYEVInKRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhED/9oADAMBAAIRAxEAPwDv/UjfNPs2kgjjhFVc6nmKLOFjTODI/wBPAHk+wB0Sbl3Gaq5Q1ldeJKtMsFjLEKBgHAUcDByOPprR9VZaK411wrHqKSWaNuhMSLlAvAA578HOgeunT4nV1nAPC+321hjByVmmq3VHZ4/1G0101KUiEjCmkz1FuwK9m8dxxnSZ6Wb8qt1wGK9UCUVWy9dO6txUIO56fDDvxwRkjGNS3ti3Vt/uaCgpBWSxAExsyRoi9snqYapDa1DNQXCiqrjX2qlaN1zEauJ5MAYxnqAGfsdW8nJFi31J2atBu27KkcIjmmeZeB1gOS+R798aJqqneCrkTpLMvOF5A/HnVr722hTbnihlLCKthUorn5XQnJVv8PjUxb227drVepKWvtNXSRyzsIGMZ6H/AIMP2n8HT576QnI7MJlndPnYHzyT/eur2NYprxua1WmKBQ09UkbMo56AwLMePCgn8a0rTsyru91aKy2+qqpGJwUThRyOpm7Dt76on0p9OY9oRvcLi6T3ydOglTladDjKqfJPlvbgfV3sCg7f/9k=" />
 
 Im einen Moment legt die Band mit ihren Riffs noch alles in Schutt und Asche, um
 ein paar Augenblicke später von nachdenklicher Umklammerung in luftige

@@ -51,7 +51,7 @@ Bäumen hängen. :-)
 Meine Eindrücke aus dem Alten Land habe ich natürlich fotografisch festgehalten.
 Im Beitragsbild ganz oben ist übrigens eine Apfelblüte zu sehen.
 
-[myflickr tag="annealtesland052015"]
+<Gallery name="flickr/annealtesland052015" />
 
 Weitere Bilder findet Ihr wie immer in meinem
 [Flickr](https://www.flickr.com/photos/99929697@N07/)

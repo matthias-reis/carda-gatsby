@@ -33,7 +33,8 @@ date: 2013-09-26T11:29:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: null
 remoteThumbnailImage: null
 remoteImage: null

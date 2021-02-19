@@ -74,7 +74,7 @@ Abendessen beschlossene Sache.
   title="[ ](/wp-content/uploads/2015/10/21317111274_16c4c7655f_z.jpg)  Veganes Kürbisrisotto"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21317111274_16c4c7655f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21317111274_16c4c7655f_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBQMEB//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQRIQAFEgYxQRMiMmFRcRSBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAAjEQABAwQBBAMAAAAAAAAAAAACAAEDBBETIRIFIjFRgaHh/9oADAMBAAIRAxEAPwBN6NG7U7SpF07U1VKSWWcFIxkXJPMi9gDn60wbV07XbY9TVybdWNWTBfUCiN2FiQQPccWHbzbTPXblR7BQQTTRz1E03tSOIH3cRe1r37YF7/4NVNJ1D1F/NiNbs9LV01WgdUiQKI1LGw5DIYZ+WT9aiTYj0Tv8fv2q0GRu4WbftIXVsi1Fe4G1VVAFPzqoPTaQEYt4I83ue+jXXapIt32MS+inGVQrwTMCAxv+7d+5B/WBY1pG4zDyAtIO7xPwIdrA0bSy01bRJG8yQhLyR81GSL/kY8j6GpDbBzNVL6J5sCgVmThnNgDjzi/51o7dVNEs8cgSRIlYl1JYpgEKTflzIzcasJK+nWneOaGSVEgSR0k5uODk8SRxuT3v5A1MqunzSyOQP5TNNWhGDCTKVaixR1NWlRIYnvaMIAh8AXtcm97/ANaNU+91dXNJKtRJxWHkCqjkwXFmRfIzbPbRp+koMQWulqiqyFey/9k=" />
 
 Den Kürbis, die Paprika und die Schalotte in kleine Würfelchen schneiden. Falls
 der Kürbis viele Kerne hat, könnt Ihr diese mit einem Löffel "herausschneiden"
@@ -107,7 +107,7 @@ Dazu bietet Ihr (Na, ahnt Ihr's schon?) am besten Weißwein an.
 
 Guten Appetit!
 
-[myflickr tag="annekuerbisrisotto"]
+<Gallery name="flickr/annekuerbisrisotto" />
 
 Salomes Rezept für die tollste und zugleich schnellste Torte der Welt
 [findet Ihr hier](/2014/09/die-wunderbarste-torte-der-welt/).

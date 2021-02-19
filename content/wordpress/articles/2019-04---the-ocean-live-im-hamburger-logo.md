@@ -56,7 +56,7 @@ Vibrierende Bässe, nachdenkliche Texte und verzauberte Melodien trugen uns aus
 dem Alltag davon. Vielen Dank für dieses tolle Konzert. Wir freuen uns schon auf
 die nächste Begegnung mit The Ocean!
 
-[glry name="the-ocean-logo-03-2019"]
+<Gallery name="glrythe-ocean-logo-03-2019" />
 
 <h4>Hier ein Stück vom 2018 erschienenen Album "Phanerozoic I: Palaezoic"
 <iframe src="https://www.youtube.com/embed/XWwEZnRBWCM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h4>

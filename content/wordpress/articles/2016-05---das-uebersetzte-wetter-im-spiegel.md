@@ -17,8 +17,7 @@ date: 2016-05-17T08:00:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "14708"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_13544000085_a21768659d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_13544000085_a21768659d_z__l.jpg
@@ -33,7 +32,7 @@ subTitle: Ode an die Wetterlage
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_05_22555934110_718c3aecdf_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBwb/xAAnEAACAgECBgEFAQAAAAAAAAABAgMEEQAFBhITITFBIhQjUXGBYv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAjEQACAgEDAwUAAAAAAAAAAAABAgARAwQhMRJB8BNRcbHR/9oADAMBAAIRAxEAPwCZtvFFqytOqkMM1mU/anFcDEKr3aQIxGSwIznIPnPgdv1J5bNtLU1iOuX+iQSoChdUbDxEDJDYwQOwPvWW8Bl7PG+x144wlaITAKgIRSUYsAp/1k60bbd226Th2waMlmeQVwhjnLH8rzryfJDkLkjt7Ps6nwkZGDMeLmqdKBp2yY1s7Cq88EQtWYmviG1ttadNvcPDOx+UwwuEMeO+SSCM+s9tQr3F+87htdaaWok1zklnszRosbxQrIIw2OVgR8WOPWe2kOOeJLVDb7dVOmk9dFtSFpBM7ShhgFsZKhlJwT5/us+i4tvJXhe/0hFYqfSyCNOT7DMzBRjsMknJ0zLjdGBvYyQqvpk1vV18RrhmtNReO09yzNKVIA6jKACMHwc+D+dKw7rdi3mepXkjResUVmjDEKCe36wSCPY86NGgcCuI3Q5X6jv2j26i1vqSG5ZXrWp2rSOsQA5YyoXCggD9DtqLxNtcaXdt29HbprV5SxGSeQsc/wB0aNEHLCj2/TC1IACN7g/Qn//Z" />
 
 **Was hat das Wetter mit einem Spiegel und einem Übersetzer gemeinsam? Es wird
 gesucht.**
@@ -83,7 +82,9 @@ thematisch nicht festgelegt ist. Vorschläge also gerne immer an mich! Gerne
 mache ich z. B. auch ein [Interview](/category/bleistift-2-0/interview/) mit
 Euch, wenn Ihr was Interessantes oder Lustiges oder beides zu berichten habt!
 
-[gallery type="square" columns="2" size="medium" link="none" ids="14709,14707"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14258074263_684bbef3fd_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14258074263_684bbef3fd_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14418919860_161d8d7737_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_14418919860_161d8d7737_z__l.jpg"}]}
+/>
 
 ## Flarf-Gedichte Wegweiser
 

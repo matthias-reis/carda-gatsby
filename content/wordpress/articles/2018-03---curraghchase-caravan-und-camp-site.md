@@ -29,8 +29,7 @@ date: 2018-03-21T08:15:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "19756"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40224572761_7419453fd0_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_40224572761_7419453fd0_z__l.jpg
@@ -49,7 +48,7 @@ abholen: Der Curraghchase Caravan &amp; Camp Site liegt eingebettet inmitten des
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40191781452_80849a6968_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40191781452_80849a6968_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAKxAAAQMDAgQEBwAAAAAAAAAAAQIDBAAFEQYTEiExQVFSYaEUIjKisbLB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB4RAAIDAAEFAAAAAAAAAAAAAAECAAMRIQQTIjHR/9oADAMBAAIRAxEAPwCiWGBvLJI5fIferJpizQJujoSJLKXFoXISoFGeW84P5S2k0hXFjyIP3VD6fvF5YeXFjXNmFHamSWmj8IHFDC1LOVE+p7VmtW9q4nsH7KC4rbTBFlYahS2ysO20TpLLTfVyLt8+Ns9x4pPXsRUppDSYjWS5uTGkOJLm22oAkK4RzVkdvxTjdpWtmc9crvkiW6Up2OEvqWgKJAABGSQk9hmrpZ9LvTdJNMx7tDZec3lux3FKGStxRwccsYI5EVQ3dGKRpiQ+DQJmWjZgDygTy20ftStguUSEJjqWQ/cTc5GykKPEgE8OfBIOcZ6ntRRRdOOYVp5nC43GZJ3FtSkJkJlqBUpJVxrz5c/SAkZ9cda0LT9xUlrCEtJyclJIPvRRVlZ89i1HBn//2Q==" />
 
 Nachts hört man dort nichts außer ein paar Wildtieren und dem Wind, der durch
 die Bäume streicht. Fährt man den Campingplatz an, passiert man nach langer
@@ -76,7 +75,9 @@ sollte dort unbedingt übernachten.
 Eine genaue Anfahrtsbeschreibung findet Ihr übrigens auf der
 [Homepage des Campingplatzes](http://www.curraghchase.info/).
 
-[gallery type="rectangular" link="none" size="large" ids="19753,19752,19750"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40224569331_acb220cc0c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40224569331_acb220cc0c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39326788225_c674ff284f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39326788225_c674ff284f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_25353554657_fd81058bdc_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_25353554657_fd81058bdc_z__l.jpg"}]}
+/>
 
 ## Wegweiser Irland 2017
 

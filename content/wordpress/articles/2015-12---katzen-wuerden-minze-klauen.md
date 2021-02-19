@@ -36,7 +36,7 @@ Euch hier, was bei Ihrer Fotosession mit den Katzen herausgekommen ist.
 
 Ich finde die Bilder können sich wirklich sehen lassen, oder?
 
-[myflickr tag="katzensanni2015"]
+<Gallery name="flickr/katzensanni2015" />
 
 > Eine schlafende Katze im Zimmer oder im Haus ist ein besserer Genosse, als ein
 > nervöser, ruheloser Mensch, der sich nur um der Bewegung willen unaufhörlich

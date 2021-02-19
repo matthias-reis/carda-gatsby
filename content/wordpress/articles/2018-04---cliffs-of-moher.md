@@ -55,7 +55,7 @@ beherbergen insgesamt mehr als 30 Vogelarten, darunter Papageientaucher, Falken,
 Trottellummen und natürlich Möwen. Das Besucherzentrum am O'Brians Tower zieht
 ganzjährig tausende von Touristen an.
 
-[myflickr tag="annecliffsofmoherliebe2017"]
+<Gallery name="flickr/annecliffsofmoherliebe2017" />
 
 ## Wegweiser Irland 2017
 

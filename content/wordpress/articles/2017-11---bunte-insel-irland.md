@@ -56,7 +56,7 @@ You'll see the sun come shining through for you
 
 "Smile" - Nat King Cole</blockquote>
 
-[myflickr tag="kilkenny2017"]
+<Gallery name="flickr/kilkenny2017" />
 
 ## Wegweiser Irland 2017
 

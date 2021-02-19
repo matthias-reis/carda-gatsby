@@ -53,7 +53,7 @@ In der Mitte des Parks befindet sich der 400 Meter hohe Diamond Hill, von dessen
 Gipfel aus wir einen tollen Blick über den Park und die Bergkette Twelve Pins
 hatten.
 
-[myflickr tag="anneconnemaralove2017"]
+<Gallery name="flickr/anneconnemaralove2017" />
 
 ## Wegweiser Irland 2017
 

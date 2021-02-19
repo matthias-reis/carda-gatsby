@@ -70,7 +70,7 @@ Museum befindet sich übrigens direkt am Museumplein, ganz in der Nähe des
 Rijksmuseums, in dem die Klassiker ausgestellt sind. Ich werde Euch in Kürze
 davon berichten.
 
-[myflickr tag="annestedelijkmuseum2018 "]
+<Gallery name="flickr/annestedelijkmuseum2018 " />
 
 ## Wegweiser Amsterdam
 

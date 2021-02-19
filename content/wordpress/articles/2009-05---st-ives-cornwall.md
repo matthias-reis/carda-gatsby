@@ -46,7 +46,7 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 12/17
   
 ---
 
-[myflickr tag="annestives2009"]
+<Gallery name="flickr/annestives2009" />
 
 _Hier geht's zu Teil [13/17](/2009/05/eden-project/) _ ## England 2009
 Wegweiser1. 10. Mai 2009

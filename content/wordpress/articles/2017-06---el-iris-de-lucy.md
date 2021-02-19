@@ -74,7 +74,7 @@ subTitle: Zeitgenössische Künstlerinnen Afrikas im CAAM in Las Palmas
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34413328370_62c83da79c_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAQMEAQMDBAMAAAAAAAAAAQIDBAAFBhESITFRIjJBBxMUFXGRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFA//EACYRAAIBAgQFBQAAAAAAAAAAAAECAAQhAxExcRITIjJRYcHh8PH/2gAMAwEAAhEDEQA/AOK4XibmQMvONzI8YNLS3p1JJUSkq2NeAK1snwh7HokaQ5NjSkPuFsBpCklPp5bO6nwNq2xsaM24x3pEj8kPRuK+IaWjaAdb9W+o661TNmFyt9ys0SNFU6ZLMhS3kqaKEpPHRA8nex0/mi80lyoFhKT0a4dOuK7dTaDW3n0+2lbBPpTKynHzeG7vaoEYPrY4yyoKKk63rXfvVLLcHbxtyKn9pBuIkBZC4gVxSU8djah19w7U54PnVqx/CHLPNUUPGQ86SiKXF6UEgBKyCEbA92iR8CkvOszTfEWxtv7KGYKHGWWmkuANtnhxBK+pPQ9RWpIIyAguEi5I2+f2K2JqDVhSQNl15RVs+NAD/f7q1GeU2t5vuELUBs/G6KKwXuaVqsZU2Dt7CZ1xeUSTWK86rzRRSFkdp//Z" />
 
 **Bei unserem Aufenthalt in Las Palmas im Mai stand auch Kunst auf dem Programm.
 Genauer: Die packende Ausstellung _El iris de Lucy_ im Atlántico de Arte Moderno
@@ -107,7 +107,7 @@ Beatles im Radio.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34991752072_71f7ed661b_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34991752072_71f7ed661b_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBAMGCP/EACgQAAICAQMCBgIDAAAAAAAAAAEDAgQRAAUhEjEGEyIyQVFhkXGh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EAB0RAAIBBAMAAAAAAAAAAAAAAAABEQMSIUECIjH/2gAMAwEAAhEDEQA/AOckMUJAS68nsBHOmVefWJFVO23pGSYwPA/OBxqhtNuzS3BNqmRFy+YH6P8AhrZavibe0suiHSDZEg6Pq7HGR/QOhjY5eislG42KzHU9ltMWoCU2xXIiPOBk4+wRqO0Nsw3DcV2lFblqEPLnnK5BkDyD8jGmNLxdvdHbG0khZrt9+TL1AEkDOe3J/elW2Wm2d33Kxax51iJZLHzIzjnVVss6mU3zvz4Iq7ZpdCa5ETj6gfo6bK3e0tlhkjBk3xkJmcc+7uf50aNGRwZqm+sq1XJNdTAwcGXeJGeR+9UWXJMuOYAY5l1CIPA+caNGpuVDMShyf//Z" />
 
 Die Schöpfer von _El iris de Lucy_ haben sich die berechtigte Frage gestellt,
 warum man sich damals nicht den Namen einer Frau aus der afrikanischen Kultur
@@ -130,7 +130,7 @@ Künstlerinnen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35156852665_23f5200400_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35156852665_23f5200400_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QALBAAAgECBQMDAgcAAAAAAAAAAQIDBBEABQYSIRMxQRRRYSIyBxVxkaGiwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAeEQACAQQDAQAAAAAAAAAAAAAAAQMCERIxITJCcf/aAAwDAQACEQMRAD8AYNPZB1qWn6jXjC7t3dTxwL9/jDXQZdTU608EkaQqgBf6Lg39r9r378jjxfGDprOqf0FOULvGxClIxcgHzh0jzJKijlAjYkoxVXUcEXFiPfscdbhs3sqU2V0y9WSJUlidy0e0g3uLHx8fOEL8Q9M00lFLU9GmmdONsYAsQRfnGvHVVVFqaIU9fWvS+qq0mjcK0UUYRDEVXwb3587mv4xLW+bt+WzrOEgncFVYkAH2a3PGBRXnccseDTOYaYzKamssQAVJLgfz/uHqfVdTRZYJ0iBZZVX7rfcwX2+cGDGrqB81FbMdQvT5vF0qWIGd0EpufqLKTf8AqP2HtjD1PmM1UzGY7l3bNv6g4MGKLbKfz8P/2Q==" />
 
 "Du bist wunderbar" sagen diese Kunstwerke. Sie regen zum Denken an und zeigen
 Afrika aus dem Blickwinkel von Frauen, die einen großen Beitrag leisten beim
@@ -165,7 +165,7 @@ Ausstellung hat uns beide in ihren Bann gezogen und schwer beeindruckt. Leider
 komme ich erst jetzt dazu, meine Bilder zu veröffentlichen, ich hoffe, dass man
 dadurch einen kleinen Eindruck von _El iris de Lucy_ bekommt.
 
-[myflickr tag="anneelirisdelucy"]
+<Gallery name="flickr/anneelirisdelucy" />
 
 ## Wegweiser Gran Canaria
 

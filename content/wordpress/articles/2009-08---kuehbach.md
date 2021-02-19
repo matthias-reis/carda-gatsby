@@ -105,7 +105,7 @@ lohnt sich auf jeden Fall!
 _Wer gerne mehr über die Marktgemeinde Kühbach erfahren möchte, kann einfach
 [hier](http://schiltberg.vg-kuehbach.de/?id=0,2) klicken._
 
-[myflickr tag="kuehbachanne"]
+<Gallery name="flickr/kuehbachanne" />
 
 &nbsp;
 

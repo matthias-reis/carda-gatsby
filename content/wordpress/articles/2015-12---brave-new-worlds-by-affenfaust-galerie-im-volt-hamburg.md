@@ -58,7 +58,7 @@ Sellmann, Szum, WIUR, Zipper – Die Rakete_
 
 Hier sind meine Eindrücke für Euch:
 
-[myflickr tag="annebravenewworlds2015"]
+<Gallery name="flickr/annebravenewworlds2015" />
 
 Die Homepage der Affenfaust Galerie mit allen Infos und Veranstaltungsterminen
 [findet Ihr hier](http://www.affenfaust.org/de).

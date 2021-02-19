@@ -51,7 +51,7 @@ Meh(e)r zeige ich Euch in Kürze.
 
 ## Büsum im Frühling
 
-[myflickr tag="annebüsum032016"]
+<Gallery name="flickr/annebüsum032016" />
 
 <blockquote>Es gibt nichts zu verbessern.
 

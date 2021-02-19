@@ -45,7 +45,7 @@ Tagsüber barfuß, abends dick vermummt. Mit Sonnenbrillen in Richtung Polarluft
 Der warmen Jahreszeit entgegen. Mit hochgezogenen Schultern - die Hände tief in
 den Manteltaschen.
 
-[glry name="planten-un-blomen-2019-03-31"]
+<Gallery name="glryplanten-un-blomen-2019-03-31" />
 
 Die Bilder sind am 31. März bei Planten un Blomen in Hamburg entstanden.
 

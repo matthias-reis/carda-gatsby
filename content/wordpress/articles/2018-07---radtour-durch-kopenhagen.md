@@ -59,6 +59,6 @@ Weil ich so viel Spaß am Radfahren hatte, habe ich nicht so viele Fotos gemacht
 wie ich es sonst bei Stadtbesichtigungen gewohnt bin. Einen kleinen Eindruck
 solltet Ihr dennoch erhalten.
 
-[myflickr tag="annekopenhagen20180619"]
+<Gallery name="flickr/annekopenhagen20180619" />
 
   

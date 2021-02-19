@@ -25,8 +25,7 @@ date: 2018-03-29T06:27:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "19540"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38471444290_fbf892a60d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_38471444290_fbf892a60d_z__l.jpg
@@ -55,7 +54,7 @@ gefüllten Wrap.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwECBf/EACoQAAEDAwMDAwQDAAAAAAAAAAECAxEABBIFBiExQVETImEVMlLBcYHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQQCA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAITECUf/aAAwDAQACEQMRAD8ARNt7ZVc2qbu9QUtFOTbXQqHknsPgc1PTufTNKtQDpbLAlSc1YnkH7eJOR7A0z7htRd7feTYulNyFICChR4WCMRweBxz2qqNTeQHCxcNMsutGC2kYpmOmJkcdMo/RqMCs7OVhuux1VPo3tg221GLjgazHbgp6+RImDFQte2m02yu901tfpBKiu3UrKE/kk+PilrQEpYdi0SyVKUMShRKcsoBkiUmYB8g1Z2iKbeXexZOWK2lhK2sRhOMcKTwoRH8UPkVCHLC79r6QpbfeFhTQBk9Qfmf3Str9qxqDal6gCBll6iEJEDskmJPPmiiuhll+2u2NCYsx6q0tvYKlsr98SPBH9x06RXfVcNWLb771wUD3KPv9sd1H5/yiinuxzL//2Q==" />
 
 Wir waren zum Frühstück dort und haben uns für Raw Banana Pancakes mit Bananen,
 Cashews, Kokos, frischen Früchten und Schokoladensauce für neun Euro enschieden.
@@ -82,8 +81,9 @@ Wer sicher gehen möchte, einen Sitzplatz zu ergattern, reserviert am besten
 vorher unter reserveringen@zestforlife.nl oder telefonisch unter +31 (0)20 778
 74 65.
 
-[gallery type="rectangular" link="none" size="large"
-ids="19538,19537,19544,19542,19541,19540,19539,19536"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39570330224_42078f2ebe_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39570330224_42078f2ebe_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_26409285418_27af2e09cc_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_26409285418_27af2e09cc_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40236713182_bba388f13a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40236713182_bba388f13a_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39570323124_42860f422b_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_39570323124_42860f422b_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40281238511_18cf5b192e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40281238511_18cf5b192e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_38471444290_fbf892a60d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_38471444290_fbf892a60d_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40281240871_9ddd2ef911_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40281240871_9ddd2ef911_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_38471452810_af6d2e26c5_z__l.jpg"}]}
+/>
 
 ## Wegweiser Amsterdam
 

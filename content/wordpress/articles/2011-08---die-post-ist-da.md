@@ -63,7 +63,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:41)"
 thumbnailId: "2556"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg
@@ -157,8 +156,9 @@ Klippe fehlen. Ach ja: Über den Klassiker von den BEASTIE BOYS habe ich mich
 gefreut! Lange nicht mehr gehört, erinnert mich an die wunderschöne alte
 Mixtape-Zeit!
 
-[gallery type="rectangular" link="none" size="medium"
-ids="2562,2561,2560,2559,2558,2557,2556,2555,2554,2553,2551,2549,2548,2547"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_16__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_15__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_14__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_14__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_12__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_12__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_1__l.jpg"}]}
+/>
 
 ## Die Musik:### Seite A: _ \_\_\_\_ _ **1.) Yo La Tengo - The Story Of Yo La Tengo**
 

@@ -39,7 +39,7 @@ subTitle: Bildergalerie
   title="Joey"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_16959318267_fe6f1b6bd0_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACcQAAIBAwQBBAIDAAAAAAAAAAECAwAEEQUSITEGBxNBYSIyQnGB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADERIhQfD/2gAMAwEAAhEDEQA/AJf476dyX9hcXUjmFI0Zt32FJ66pltPFbBNPjDyLNNJAk+0xgbVI4yQMVSbSey0zxO5kkKm3AuTIxXgKHkGD/gxUD8W8juraKO1uJJntUhW3h/PaYMsDwf7PRzT2bODDRQMgw1/QkgaUBdsbHO34zikDULYQyEr191StYu0nlSTUElFqGPuTxKW2A8DjIGc44qf6tICX2hdv8WK4JqWa+SteZj9q/qKt9YwWcTXCI0ss0pkAH7O7BeD0N1YNv5DJeKbOTbM4jQptYBcqOWO7tsZ6oorO9a2WBmHwjVudU0B5M/Wr2QIsN17qqyboyHDD5++sml+WdpF5JCkj8c/FFFGw7FEz/9k=" />
 
 **Hier sind meine Eindrücke vom gestrigen Calexico-Konzert in der Großen
 Freiheit in Hamburg.**
@@ -70,7 +70,7 @@ schon Angst, dass es nichts mehr werden könnte.
 - All Systems Red
 - Guero Canelo## Zweite Zugabe- Follow The River
 
-[myflickr tag="calexicofreiheit2015"]
+<Gallery name="flickr/calexicofreiheit2015" />
 
 ## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 

@@ -32,6 +32,6 @@ subTitle: Vögel, Säugetiere und Reptilien vor der Linse
   
 ---
 
-[myflickr tag="zoo20111210"]
+<Gallery name="flickr/zoo20111210" />
 
   

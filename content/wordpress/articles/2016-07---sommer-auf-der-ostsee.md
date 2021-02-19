@@ -70,7 +70,7 @@ für eine ganz besondere, eigenwillige Stimmung. Was meint Ihr?
 Wie Ihr Euch vielleicht schon denken könnt, wird das hier wieder eine kleine
 Serie aus Foto-Artikeln. Also bleibt dran! Und jetzt: Diashow ab!
 
-[myflickr tag="annetravemuendehelsinki2016"]
+<Gallery name="flickr/annetravemuendehelsinki2016" />
 
 ## Wegweiser Möwen
 

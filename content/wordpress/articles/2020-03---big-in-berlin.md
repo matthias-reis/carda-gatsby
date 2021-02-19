@@ -47,7 +47,7 @@ Vermutlich sitzt Ihr wie wir zu Hause und wartet auf Besserung. Ein bisschen
 Ablenkung kann da ja vielleicht nicht schaden. Leonardo Da Vinci hat schließlich
 irgendwann mal gesagt "Der Mensch, das Augenwesen, braucht ein Bild".
 
-[glry name="biginberlinannematze032020"]
+<Gallery name="glrybiginberlinannematze032020" />
 
 Für alle, die sich bei der Überschrift gefragt haben, was das denn soll hier ein
 Video. Für alle, die sich bei der Überschrift gedacht haben "Das kenn ich doch"

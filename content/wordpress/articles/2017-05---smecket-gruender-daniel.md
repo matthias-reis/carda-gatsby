@@ -55,7 +55,7 @@ subTitle: '"Der Geschmack steht im Vordergrund"'
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_daniel-weiss_800x800-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_daniel-weiss_800x800-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYEBQcC/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhIjFBBhNhFBWxJFGRoeH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQAC/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAMQMSESFhgcH/2gAMAwEAAhEDEQA/ANs9SXM2e3XS5iEzmippaj2gcF9iltufnGs+tN79d0VTarpcrxaqy1VlTEtRbo4trQrIwBCHvldy9z41pNyijmmqYZlDxSKyMpGQQRgjS3Yo43vFLS3CnxsJZs7SqmMZU574JA/rRnDbdCJx6FDtGW91NRSVIjgUSd851AjqKw1tKs0W0OwJHOQM+dMP6Y3fNUUMZhyCTxnjQ7qaVqikNGy5MnXt864cHm/UynqoMFUlIfGJXbafnJOP4/Gu0gjV3YIoYnO7HOq2SaluFKqGq9maKQklG5V1JUgj9s50X6sJCEkhnbC9ckfKn5z/AJqvdSfVyfRFRUNIjIq4ZSxwAB5/Gj3kZNA5Knqzlex7aW6qota2qoigZWWdTGcSbt2e/VnGedUvrdrjDb/QMFljq46b7rRCcxP0/ThSGDHOSvbjzoGdgXK+PsViUhQ0/9k=" />
 
 **Mein Testbericht zu den tollen Bio-Tees von _Smecket_ fand hier regen Anklang.
 Somit bin nicht nur ich neugierig, wer genau die Manufaktur in Seelze betreibt
@@ -85,7 +85,7 @@ geantwortet. Wie ist es bei Dir? Überraschst Du mich auch?
   title="Bild: Smecket"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_biotee-mischungen_800x800__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_05_biotee-mischungen_800x800__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYEBf/EACoQAAEDAgQFAwUAAAAAAAAAAAECAwQFEQAGEiEHEyIxMkFRYRRigZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRQVH/2gAMAwEAAhEDEQA/AFepyH646WaiEsxCgctbgAQlwk+Vz2sP7iCZnM0PMVJNJjUxlTnMW2kQ2Q6EoB6VqHUkq2I0nte5xqpDWb2HLFcN5NgFsSZSnG1e506Dv7H1HffHdfiVaXClMLTSWua0WwWWlahf1uQPnfBISfAm4x5wzG5P586kR0tst2IWysJ8Tvq1Xt+bYTJdQkIymw445Zv6RkL0gEpBQkXHyL4POInDCp1BwohyWHUhPmkPHVt20qsB+8XTiqicpPRJbTaXo8MalJTuotpBGwP24k9osMs//9k=" />
 
 **Daniel:** Nein (lacht). Ich trinke morgens gerne schwarzen Tee mit etwas
 Milch. Das habe ich so von meiner Frau übernommen. Auf die Milch würde ich gerne
@@ -126,7 +126,7 @@ Teesorten?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996398955_59e7c7dbb5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996398955_59e7c7dbb5_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAKRAAAgEDAgUDBQEAAAAAAAAAAQIDAAQREiEFBjFBYQciURMVIzKx8f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAP/EABsRAAICAwEAAAAAAAAAAAAAAAABAgMiMTJB/9oADAMBAAIRAxEAPwBC5VS2juke/Zvoll9uHIY/BxVi47ecuXHIlxb2NtcRXTOWVoIXhUDG3eo7wOcSCzVWIBnGytgdNz8U13M7rwaHGtQFC/t48VOlYFLpZHa9Oo+C8JlmXmT7nbPJBqibTIdSsNmzg5B7HpUw9UZ7McIiWwvZrid7zBD7aE0nHUDqacbZkiiQRrKxNojHEhYAknO2RgeKlfPsv4Mr2mU/2m0TUvTYsZGhFvMpySSulhkbf7Tra36XNmM20QCEDHXNFFarlCs6ZlbSRRK5a2hc6gvuUHG3mpjzdOXWaLACi5yMdsEjFFFJ7CtH/9k=" />
 
 **Daniel:** Ich beziehe alle Zutaten von bio-zertifizierten Händlern aus
 Deutschland. Direkt vom Produzenten beziehe ich keine Waren, dazu sind die
@@ -156,7 +156,7 @@ gekennzeichnet. War es schwierig, an diese Siegel ranzukommen?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996381365_b76c3867ee_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996381365_b76c3867ee_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQGAgMF/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURABIhEzFBUQYUInH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUA/8QAHBEBAAMAAgMAAAAAAAAAAAAAAQACERIiITEy/9oADAMBAAIRAxEAPwChWlho6F55+p0oxnCjcT6AHknsBqLrvmclSxprfBWU9USBFTwRJMzZzy20M3jtx/dVFA6Xu1CD7C0ZkZQspG5VfPGQffbnzjStytdLb6iWyN9BKWFVmQxnpzM4A5ZGUkk5I9fpv1qWvA1lEG9sJKWb5hdqhaiX6Mk8MLrHL1chQTnH6KgjODjuNV8cqXGhWqiV4SDseGQfqN/Rxx/D60zZrV96z9S0UFspzCehJI8eahkAP5B5VVwRjI8eO+krbbDZaaqKVslRJVsk5WVy7RApwrE8557HkADOirbd8TXAfc4NnubJRCIQxkOuCWGdZ1NyepEXWRJRgoOsok2gAkY3A9j29aNGnUMraJs9iLS3erhEjRSmNnyGaMLGTk5OdoHknWimuMz2+Ngdu4FvfJPn3o0aE+YS9p//2Q==" />
 
 **Daniel:** Ein spezielles vegan-Siegel verwende ich nicht. Die
 Biozertifizierung ist schon etwas aufwändiger, dauert und kostet Geld, aber das
@@ -179,7 +179,7 @@ tätig. Ein klassischer Bürojob, den ganzen Tag vorm Rechner.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611025270_3983f85033_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611025270_3983f85033_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAQT/xAArEAACAQMDAgUDBQAAAAAAAAABAgMABBEFEiEHQQYTFFFxIjGRM2GBofD/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIRITEi/9oADAMBAAIRAxEAPwCD7J4IUto4Z45iFd1Lby57EcfSOfenrwE5udTjLLI7pH5ZOAxY4/YdqnMwe3WZGMsEbgMY0zhsfBHt8fNPHSyRjfSB+ORnBzj6TQSs0maLflofdehRtTjJt5HYgAHyx344/mlbxZZtaXk8dzAbd3VWVJI9rcZGRThr1xEZkfeMgKBz9zkc/wBVydRoYnvF80KT6QkNICAuJD9vz+TSUtMGHvJFLjfG8ZRx+q+zcudhAzkf7tTp0XsYdU8TGzvGmMUi72ZHwxIB7nNFFRHUNS0yg9SIINH1HRrWx9SLeeKNpUkm3bs88ccVnWT0yy2clrHcRv6VcmScyA55PBHviiirrjCjqP/Z" />
 
 **Daniel:** Aktuell gibt es noch kein Team. Also trinkt mehr Tee (lacht
 fröhlich).
@@ -210,7 +210,7 @@ dem Mittagstief raus?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996377795_f9503693e6_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33996377795_f9503693e6_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAoEAACAQMDBAICAwEAAAAAAAABAgMEBREAEiEGEzFBImFRUjJikaH/xAAXAQEAAwAAAAAAAAAAAAAAAAACAwQF/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACAxEhQQQS8PH/2gAMAwEAAhEDEQA/AGtwqKGy2l66cJORhYolwrSOfCgnx9n0BrMOpOoeopJZYaiF6eRuYoqdmVQvOMKo+WceWOtA6mhme0UVcvbWKimL1AIOFjZQN3+jGTwCwzxqQjie3XdGeggYKssXZnchZwc7CB7CZHPOSffrMxhUJby3WydEnOmrr1DDBU180lUKWFd0kh/iig4LFSefQ8fn8a0Sw3eC+0wSUdmvEYl2hdqSp+y58Y9jnzkfSK7Wxai4RRu9uV+3CM94x43R8K7E5LDHk5PI85xrp6ZsMVNfDUmac1FvgLzM/wAh848Abv7FxwcH4k+jhcX5e/v2GtmqBG9FfKmcCIhNjAqVYblYEEFSDwVIOCDwdTN6oY7hWLVRSS0xC9rtKQ0YXkYAIyBgkYyRo0aeENleo8xs3OYUUcsO+qAaZSrmSLMZO08Y5ODgAZH3+dPJb/VVYmqXSFFlcuY402qW/ZvbN9n/AJo0akz1KOqwePyezP/Z" />
 
 **Daniel:** Die Grünen und Weißen Tees enthalten Koffein und machen
 dementsprechend munter. Allerdings sind sie in ihrer Wirkung etwas milder als
@@ -248,7 +248,7 @@ kleine Plastiktüten. Das ließ sich leider nicht anders lösen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354713785_68c5b41684_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_11354713785_68c5b41684_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAoEAACAgEDAwMEAwAAAAAAAAABAgMRBAAFIRIxQQZRcRMiI5EHMmH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIRITEDEkFR/9oADAMBAAIRAxEAPwDmbL6AixcaWPcsnMRD0sXd7tFksr0obPJXt4se2tE/jmTA9PbUuPPNk4eU1u2LBmSyUpY9LGiVF9PzR1F+s95wIpFlzMaKLMgICMCvUwsMFsUaJA4Pn40ltu6RQyQMkhneQs4cC/ysLKk1wAfI8DWGXemk9gKTawbbu/qiSWMwQ5GXHBf0pBNChBDKQOs8MoLUAQO5HjWPZ2ar5uNkMQ30WihCni2a2N/HnXNXdJ8uBsXcHxInVWZo4L5I/rIP0aPcVfnUrl5pnfHx5JWyTJMxlK2aBVgauwT93HtoY8UnK5MqtyV+DE0rNBBKeRI9FWpgebN3376pMjYMRNvGUlrk8DqAHSpNdTKD2ahQN8e2jRpV9A0JtteOctpoQUWcqCrfcQHAJ59/9r4rSG6Y6bhtnW34pPpGcOgFrdWP1579tGjSXlCJ5s//2Q==" />
 
 Umwelt- und Klimaschutz beeinflussen mein Denken und Handeln. Früher bin ich zum
 Beispiel oft die 20 Kilometer mit dem Rad zur Arbeit gefahren.
@@ -276,7 +276,7 @@ soweit es geht, Fleisch ganz. Das reicht mir aktuell.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33611000980_c93e03a3e0_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EACgQAAEEAQMDBAIDAAAAAAAAAAECAwQRBQASIQYTQRQiMVEVYSMykf/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwQF/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxEhQWEx/9oADAMBAAIRAxEAPwDMZSe1hYSsQ5GkJtTT6UBwbQrkc83Z1cwevm1Z3Lxno8j0yoSUJRabCqsm787h/mnjHiZgpkvZd9p1TYZa7G3tLAJKVAqFr/sR4PjxpiD0F1IepZGVQ0+IbkUbpXcHztAKSCOTwOK/V6pVKnhEyKshs9ax8fL6aT6ZxDaZBS8FBKipJBB2k/Vg1+tJh9URfzOS2iUUSHHD2lL/AIyFWDdHj22ePOrjKdHx46IS8y/kF5dmQfSqYkNoGywLCFD3K5JoHxX3qnyPR2eUQuUWi0dy1KC0GjXBpAJ5vRW4m6vsNO+ZtzAx2BiuTIcFsSW20NoVwAmyLUE1W77NXXnWnEaGzTKYjKkvLX3N43biB8nRo1z5skHKZBcXKY6Ey016daHSpBQCCQE0f1VnXPszlpLvTzk6QrcgOra7KDsBKSACSPke74rxo0aph7r1FyfRn//Z" />
 
 **Daniel:** In der Anfangsphase von _Smecket_ haben meine Frau und ich viele
 Tees getestet. Die Verpackung vieler Tees ist sehr gelungen, der Geschmack

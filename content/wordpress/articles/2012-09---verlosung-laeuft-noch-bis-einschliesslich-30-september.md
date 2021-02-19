@@ -42,7 +42,8 @@ date: 2012-09-06T16:21:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "11800"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Herzberg-Flyer__l.jpg

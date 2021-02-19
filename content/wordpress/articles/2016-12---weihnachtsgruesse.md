@@ -60,6 +60,6 @@ steht, hier ein Zitat von keinem Geringeren, als Charles Dickens.
 
 > Wünsche sind nie klug. Das ist sogar das beste an ihnen.
 
-[myflickr tag="anneweihnachten2016"]
+<Gallery name="flickr/anneweihnachten2016" />
 
   

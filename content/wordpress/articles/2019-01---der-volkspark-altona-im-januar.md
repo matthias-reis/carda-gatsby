@@ -55,6 +55,6 @@ Wald. Zum Abschluss erklommen wir dann noch die paar Stufen des Tutenbergs von
 wo aus wir die Aussicht genossen. Mit diesen Bildern im Kopf lässt es sich doch
 schön in die neue Woche starten.
 
-[glry name="2019-01-06-volkspark"]
+<Gallery name="glry2019-01-06-volkspark" />
 
   

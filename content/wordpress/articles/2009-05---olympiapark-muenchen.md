@@ -20,8 +20,7 @@ date: 2009-05-26T19:13:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11214"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__l.jpg
@@ -32,7 +31,8 @@ subTitle: Impressionen aus dem Olympiapark München
 
 Immer wieder schön: Ein ausgedehnter Spaziergang durch den Olympiapark München.
 
-[gallery type="rectangular" link="none" size="medium"
-ids="11214,11215,11216,11213"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_05_Olympiapark-M%C3%BCnchen-2__l.jpg"}]}
+/>
 
   

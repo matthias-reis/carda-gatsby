@@ -54,7 +54,7 @@ ziemlich ernste Angelegenheit.
   title="Chico - Lieblingsschallplattenladen-Maskottchen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_chico__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_chico__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKRAAAQQBAwMEAQUAAAAAAAAAAQIDBBEFAAYhEhMxFCIyQQcjUXGBwf/EABYBAQEBAAAAAAAAAAAAAAAAAAUEAf/EACURAAEEAAMJAQAAAAAAAAAAAAEAAgMRIVGBEhMxMjNBcZHwof/aAAwDAQACEQMRAD8AvsvMK6WglxPQlBUpDba1UP8ATZF1elbryyER8JCzePlysfLlhUb0TyCKT7rcQpHxAJujdHVRbXg8pt5iRLyMvFrD6W30Oh0uNKCj0rtKRYJAUQOPGkbmzWQ21uSJPjSWdzNyYKS0/DkU6ypJSXHuyQAFLAAsE8fRqtDCDHbHHEZfqsjdZ3OqlM2dsFuVj4zk/EK623yW8W482lpQtKVAWQTRP8HjWdZLaO18nk1Px8rhslIceSpd5D0SlixdtOURwKocknS8Lu7JZiVm8s8+69PkSWU9RUEEhtsJABFfQ/uz96Tl81HmTUqy8BspTFUz2loT+ou+FKNceKvzz51TCyRshAd9Q8E+1s0YAAA7aLPctuTMN4hiG3kH0MAuMe0gLLYCaQV/Ip5Iomq1ZfyPJe7EGnCKQkCuPLYvRo0s9rQRQzUDXGwb+pcm0B2luobsJ7gNX+7adS8slc9sKogqogjjzo0aKl6hTbORf//Z" />
 
 Als ich vor ein paar Tagen die "Über mich-Seite" ein bisschen modernisiert und
 aktualisiert habe, flog die Liste raus, weil ich dort einfach keine Verwendung
@@ -74,7 +74,7 @@ erinnern und es in unregelmäßigen Abständen mal wieder zu genießen.
   title="Deftones"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_08_p3230071__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_08_p3230071__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQQGCP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQFESEABhITFAcVIjEyQVJhcYHw/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUBAgP/xAAiEQACAgAFBQEAAAAAAAAAAAABAgADBBESQYEFFDFR8PH/2gAMAwEAAhEDEQA/AMTwsgK7anqKTx7xziAnHwVfP9/6+mwiAoi4QbfxpJ7c3TD2x265DzIdS+lSGlR1KWUkqS4AoEZ4kEXxfUG4qluHeu9Y83bVcm09l5xtFNhIdOEggJccSDxupXJSgb2GM6AquREGowoUs5OkeI9hEt9aNXrUV3oNdzwL/BPUKPiVWyR+r30aO0mYTjbfMdYrfcHqyKYq7cZzgePpPqAx+QVn7FjrYPAl1iDvKNUJLkby6OvjJcU+2HLJbW4gJQVBSrqSMgWxnV3AiIZrm42JUgsM0tfmEYIF/QtKuSbE+xFx+vrUNKou2p0KnyI9HbhUxFMjtvLfNnZEkAlbhIOBYgYte5xpCuJVayX2y53jU4clwE3zjyoviXtudTw9Lnttv3Uem006q6eR4e4uFcOKin6vo0hfMG59OqMmDSip6RU0uMTWgpDwShkoUSoH4qumwGMG+dGrN1C9cgCOf2R2tR9/cT//2Q==" />
 
 ## Zeigt mir Eure Musik!
 
@@ -175,7 +175,7 @@ MCCALLA, LAMB, THE LAST SHADOW PUPPETS, LOU REED,
   title="Boysetsfire - While A Nation Sleeps"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464863952_3ba5243c05_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464863952_3ba5243c05_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQEDAgQH/8QALRAAAgIBAwMCBQMFAAAAAAAAAQIDBBEABRIGITETQQcUIjJRFiOhQnGRscL/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAgP/xAAeEQACAwADAAMAAAAAAAAAAAABAgADERIhQRRxgf/aAAwDAQACEQMRAD8AL+FlTpej8L61rfOmds3WzZaVkn9GJnI4ceLlxlcMM5XPnOuZWaFOrInzNCs6KpVlhjQcvHuR5899YdNdQyVtgrbf6nGNT25eFDEZP8nTjWa7XlEcNOSOFmJV67SSRlSRlzy75bHY9jnsO2kpW0uQx60xl8el61PuSeuupejd1FIbJ0TFtghR45CDGDKCF4k8R9wIPf3zo/pvdul0p7zX3PpmrLas1J0q3JJAq0yIHIIQLhnLhcE+O2MaOtVYTVnFhaUEwmkijhhQh4wqM3MuWyy5UAhgfPkHQe1XjUnacKjfsTLhxkfVE6/9f50YtY3l7+wV60UkiHpMVjQEk/Qvn+2nqO4C5VKlVaeOMRyqTzadB3XIyDnJIznthfbVPT/Tv6ghmkTd9m21a0KZF6yEaQ4OeKgEn7f5X86JiksIixrPWZR4DOvbt+T411xT9ylswDYjvE6VxNUDLNZdl9ayr5LKo48e4zg45EE+w1p0VDGfkodVrytgnH9BwdU2PXdFDmpx8/Q8YP8AvOr6QWAW/mmiUGrIFy6tliMADB86hzj1Mu4IM//Z" />
 
 [Muse](/tag/muse/),
 [Mark Lanegan](/2015/03/mark-lanegan-live-freiheiz-muenchen/), Midas Fall,
@@ -225,7 +225,7 @@ Yeas, Zwan, ...
   title="Music From Big Pink von John Niven"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464850894_e67538f729_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464850894_e67538f729_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEA//EAC8QAAICAgEDAgMGBwAAAAAAAAECAwQFEQYAEiETMSJRgQcUI0FhkRUWM0JxocH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACERAAICAgIBBQAAAAAAAAAAAAERAAIDIUFRBBIiMYHw/9oADAMBAAIRAxEAPwDHn83yq1zjkfpZrMRwQ5KaCKFLjxxpGjlVCop9u0D/AL562/ZbzG9muW2qc3IclMlSrPI6yzlY20yqG7mY+3cNE6/31ozmOgTmuWstSRxFcmkR/W0QSzMTr/J8dX+L4nHSZCkhoV1gmqWIpI1A7WTcZI8aOiRvXUKvmPMKEaJ1LeXDWuLXyopv2YngDWc+9eOJ/wCpDlACX2QFbX18fp0I+75nFcmxEtDmWdycS2YjNE9+OSPsMqKyum9kEOR+3WX7QszgOM5ZcfjcBjpEZFM5eM6LK2wAd/l5+p6bVcVx1qFbLYbF1a3qtD8QTsYD1oyVbz4O1H1HTzwXJ4Hp4gXPX2/m/PwlnMa23Uoqg/DvZ34/X36v8Yu1qTVrNyxHDBFDP3zP8KjbIN/UkdAeTVOUVeeZ0x4rNNA+QneN460skTRs+1ZSikEaPz/PqlgKfJLl64rwZGJpKJijNmjIsSuJ4m/uXWyqt0I4ffVVARb70uuYslg2N2wl+6nXnXGqef5IbkOXrPWlQtK6yKSijz7HXtvWxv8Afp3g7OLo4mtjMfkqtiZXSTshkDtoyJsgfLyOof8AAOQLXn/CCSl+5JI6isTH6Tgx6K+xcx/QE/oZPGMRyKty2sLOKYodL6sVExBfxkYkv2Aa7B8/cb6X9w1iCJ//2Q==" />
 
 (in no particular order) Antoine De Saint-Exupery, Truman Capote, John Niven,
 Jean Paul Sartre, Oscar Wilde, Ernest Hemingway, Franz Kafka, Günter Grass,
@@ -257,7 +257,7 @@ DIE PILGERJAHRE DES FARBLOSEN HERNN TAZAKI, ...
   title="Memento"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464650558_98241c96c7_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_9464650558_98241c96c7_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EAC0QAAEDAwMDAgQHAAAAAAAAAAECAwQFBhEAEiEHMUEiUQgTFDIWcoGCkbLC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIRAQACAgECBwAAAAAAAAAAAAECAwARIQSxEyIxQVFh4f/aAAwDAQACEQMRAD8AS+nNj0ubTIEx2kCc+qL80oIzuJHHBOPPnTnKh2fT7sfpD9m0VmLCXskTn05AAQCVbADn15BAznRro3S01G06MlbjqECHHKiyrYTyk4JA7HHOi14AU2XU9kWMZjiH0/OP3BJJXgjsfUc4PsPbWPXepIlt2oc5sXQjKcSJ6BvFq07Vty+/q1KtFmiIb+x1mK2WnAAOwUgKBJPbwNSTqPaMKg3BdlPZYbKYDhLCkthJCFNhY7e2dbJtRhqNQKYkhPzExkgq88jJ/k6zb8Qrf0t+XJjaEy6W0/nI5IbKP86orsZKnB+mSUsfEY/T2x26E1NX4Lht09tD8xMdlKW3FhCTtTlXP7hxoneVrz65UpEyc7V4pcyoJjracaGOwAxnnAzz2OoXYl/Uqh23FgzpGVghZSGysD0gDOB34On2D1htZDJDLyGHVJKSpEVYVz7EAY0I0zrdwj84bpkpbH2O2XA12PS4DSZUSSpDW5tTiUkAJQMlX5eONZw+JepMSrmiTI+UtyKStn1kZylxYxnz38aLzOrFCNOVGi3dW2fRsGC4v+6Dx+uo11FrtMrD0Y0s5DYXvVsKd2ccnPJOQedP6ahHk1iCRHzDzn//2Q==" />
 
 (in no particular order) JIM JARMUSCH, COEN BROTHERS, FATIH AKIN, PEDRO
 ALMODOVAR, WOODY ALLEN, TIM BURTON, DAVID LYNCH, ALFRED HITCHCOCK, ...
@@ -298,7 +298,7 @@ Film ich Eurer Meinung nach vergessen habe oder gebt mir auf diesem Weg einen
 Hinweis, über welchen Künstler Ihr in meinem Blog gerne mal einen Artikel lesen
 würdet. Einiges lässt sich da sicher umsetzen! Ich freue mich schon!
 
-[myflickr tag="annelieblingsliste"]
+<Gallery name="flickr/annelieblingsliste" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

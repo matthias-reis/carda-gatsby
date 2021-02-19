@@ -65,7 +65,7 @@ Herzen des Parks.
 
 ## Infos zum National Trust: [Homepage](http://www.nationaltrust.org.uk/main/) National Trust
 
-[myflickr tag="anneglendurgan2009"]
+<Gallery name="flickr/anneglendurgan2009" />
 
 _Hier geht's zu_ [_Teil 10/17_](/2009/05/penzance-cornwall-15-05-2009/) ##
 England 2009 Wegweiser1. 10. Mai 2009

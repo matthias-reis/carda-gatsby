@@ -31,7 +31,8 @@ date: 2019-07-16T12:45:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "24693"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-06-die-hermetiker__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-06-die-hermetiker__l.jpg

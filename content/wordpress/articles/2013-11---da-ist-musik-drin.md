@@ -21,7 +21,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "7597"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_11_chico__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_11_chico__l.jpg
@@ -40,7 +40,7 @@ nicht enttäuscht! So viele großartige Dinge. Vielen Dank!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_the-verve__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_11_the-verve__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYEBwgCA//EACkQAAIBAwMEAQMFAAAAAAAAAAECAwQFEQASIQYTMUEiBxRhUXGBkcH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERIhMUFRocHw/9oADAMBAAIRAxEAPwDO1xomtwgUVlPJUSqD21gHxU+CSRor1BbrhYYaMvXuTKgJWM7Ap84wPWlmWokkqjUvgvuDYPjjGB+3AGj/AFbdZLtXCQSFqfapjz6yM/7qSDqA6RFZGljIdXWS1VLL3J5SH2YjY7xhc85PPkn+9DHjkkYxorMcZAHOeOTpv6ds6V106Zt7SiB7i0sbSMm9djH48ZGeQffvVmWv6I0ADvUXirqJFRtkX2iBWbacA5JwPGoa1K5TVtYQfu/uZ/hmeKRJEOHQ5BxnnXSyHAGTjGNR/eB58a90eJRtkhJYe9xHvW0MCY4DqR4aCwVVLDGtZbHDRsy/EMp8YzyDxnTPZvq11ZU3OGONaGUsSxijpgu5QMnknI4B1W8UsM8EkMNEe8xGxlZjj9fxovYJRbKOaREZ6uqiKdxRntofKr+T4J/jR3VVHGTGKxsZd8DbxP/Z" />
 
 ## Musik ist zum Hören da!
 
@@ -53,10 +53,13 @@ Bitte habt Verständnis dafür, dass sie etwas verwackelt sind, aber es ging nic
 anders. :-P Vielen Dank lieber Martin, für die vielen tollen Scheiben, das
 Einzugsgeschenk und die tollen Plakate!
 
-[gallery link="none" size="medium" ids="7578,7579,7580"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6220__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6220__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6221__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6221__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6233__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6233__l.jpg"}]}
+/>
 
-[gallery columns="2" size="medium" link="none"
-ids="7583,7584,7585,7586,7587,7589,7590,7591,7592,7594,7595,7596"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6237__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6237__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6239__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6239__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6240__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6240__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6241__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6241__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6243__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6243__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6244__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6244__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6245__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6245__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6246__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6246__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6248__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6248__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6254__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6254__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6255__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6255__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6258__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_11_img_6258__l.jpg"}]}
+/>
 
 Dieser junge Mann hat meine Schallplatten übrigens bei Marleen eingepackt:
 

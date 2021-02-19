@@ -12,10 +12,11 @@ const imagesBySource = R.indexBy(
   Object.values(images.images)
 );
 
-const createImageTag = (e, src, alt, size, title = '') => {
+const createImageTag = (article, src, alt, size, title = '') => {
   const remoteImage = imagesBySource[urlToId(src)];
   if (!remoteImage) {
-    e(`image not found <${src}>`);
+    article.meta.errors.outsideImage =
+      'article has at least one image from another domain';
   }
   return `
 <RemoteImage
@@ -24,10 +25,10 @@ const createImageTag = (e, src, alt, size, title = '') => {
   title="${title}"
   mediumUrl="${remoteImage?.mediumUrl ?? src}"
   largeUrl="${remoteImage?.largeUrl ?? src}"
-  loadingUrl="${remoteImage?.base64Url}" />`;
+  loadingUrl="${remoteImage?.base64String}" />`;
 };
 
-module.exports = async (l, e, line) => {
+module.exports = async (l, e, line, article) => {
   // split the content into paragraphs first
   const captionRegex = /\[caption(.*)\](.*)<img(.*)\/>(.*)\[\/caption\]/gms;
   const captionMatch = captionRegex.exec(line);
@@ -44,7 +45,7 @@ module.exports = async (l, e, line) => {
     const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(captionMatch[3]);
     const size = (sizeMatch && sizeMatch[1]) || 'medium';
 
-    const imgMd = createImageTag(e, src, alt, size, title);
+    const imgMd = createImageTag(article, src, alt, size, title);
     const md = line.replace(/\[caption.*\[\/caption\]/gms, '').trim();
     return md ? [imgMd, md].join('\n\n') : imgMd;
   } else if (imgMatch) {
@@ -55,7 +56,7 @@ module.exports = async (l, e, line) => {
     const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(imgMatch[1]);
     const size = (sizeMatch && sizeMatch[1]) || 'medium';
 
-    const imgMd = createImageTag(e, src, alt, size);
+    const imgMd = createImageTag(article, src, alt, size);
     const md = line.replace(/\<img.*>/gms, '').trim();
     return md ? [imgMd, md].join('\n\n') : imgMd;
   } else {

@@ -40,7 +40,7 @@ Crowdfundig\* am laufen!**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Veganica__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Veganica__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EACgQAAEDAgQGAgMAAAAAAAAAAAECAwQFEQAGEiEHEyIxMlEUQRVhof/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBP/EAB0RAAIBBAMAAAAAAAAAAAAAAAECAAMRUaEhMfD/2gAMAwEAAhEDEQA/AJNG4Vz63Q0VYZokxWpKFPpaAsGxc3GoqGwthp4axjkYVw5sn838d88NmSgAq5XM0+V7X6feCRlynvvNuKjoSE+aB4OH2oG/8thbtAY+MGUuHQCshJQFJ6rG2ntYEbD6vibLUJ4G5oDpYXxgTa5wjl0zLUmrnOMx1uPGErQRp1jSDYEOfu3vFXMvDKBQKHJqLVXqL7sSywhcwqS5ZQHjfe9+3rEFGW4LSVpbjRBqCh1RwpJub7pO231hrtBiOpIKLpX5t6RoG9xpHcfWApUv1uBZPCf/2Q==" />
 
 Bei Vegablum geht es derzeit richtig ab. Der vegane Honig, von mir hier im Blog
 noch unter dem Namen "Vonig" präsentiert, hat seinen Namen geändert und ist
@@ -65,7 +65,7 @@ hinweisen.
   title="Andre und Nicole von der Veganica Biomanufaktur"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Andre-und-Nicole-mit-Hunden__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_Andre-und-Nicole-mit-Hunden__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYC/8QAJxAAAQQBBAICAQUAAAAAAAAAAQIDBBEFAAYSITFBEyIyFFFhcYH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAf/EACMRAAIBAgYCAwAAAAAAAAAAAAECAwAhBAUREiJBUXGhsdH/2gAMAwEAAhEDEQA/AL/C5WLlISZMJzm2elAiihVfiR6OpMvnMfhmmXMk+WQ8v42gG1LUtVXQABJ0gZmdy+By7uGYadZyLakoeSbNKBHmvH1Is/5phQMkpjNhESWzMyWPWoBxRUEtPBJB4+R79+tPx5k8igBeWnm1JJggGBc8fmmIjKxVSxFS9bxTzA4kAir6NVdd15rUy301d9aUWX3PuCE1kV46EWcSZIZ/WONl0CQgKC+HI39vx68cf71o9v5fHTWWok+U4/mo0dIkgtqRa+Nqr0aB7Pj9tAlzowqWaMn0fuiNlraAqbGsDL2ct/djr7UoKAeXOSHCrkUrWKtVklQryb77/jV9vjFtScRuDPOyJKJJyESPDSzwRbrqOSlvkJtVJSQCKPgn3o0ai4eV96X6/KtYiNVS1UeD2lIG4shiMg62/wDPDflxeDq0oakJSShRHtIHIV7vXO08cZu3W8uVFrIY/KFmQ+lxZ+dtQACQmwBxs932DRB0aNdaZypv4rJGu7Tq9f/Z" />
 
 Hinter dem Namen Veganica Biomanufaktur stecken die beiden engagierten Veganer
 Nicole und Andre. Andre hat die Position des Firmeninhabers inne. Er ist
@@ -115,7 +115,7 @@ für die Untstützer. Ich habe mir dieses hier gesichert:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_veganica_und_vegablum__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_12_veganica_und_vegablum__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgQHAAECA//EACsQAAICAQMDAgYCAwAAAAAAAAECAwQRAAUhBhIxB0ETFCIjUWEycUKBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACURAQABAwIEBwAAAAAAAAAAAAECAAMRBHESEzHwISJBUVJh8f/aAAwDAQACEQMRAD8AH71bk2FS+7ULsUYJBdY+4AgA4Pj84/0ddybtVhux1ZBKsskphGVGO4Ak55yPH49xqyOuPVLom7VptJPFZWG/WlkjUiUlFlDN9J88Z15bv110b6gW6PTdOaatau2QPm3rLiNQC5bk8E9gGf3o4X5PWl4I4UoX3xn/ADH/AHW2X7CThkMUgkKkOOfhgF/fjAIP9asy/wCkG1bemB1BaeyRhUMUfJIJHv8ArxrOm979M6FVa9+PpmG1DlZDK0PeWx2knJ4JA5/vGknd+GH378aMAPMP1Rvq3pDoehTrSiSrK63qytCk4kZ0MyBwETlvp7s4GklCv0LW6t2E7TDSG5fOqkYSBgSSr5GccDGfOj9bbKEjK1aUpcjdYVskFAoAJRv48AA4Ygc9o1D6XG4xz2Z9ypR1p0l+xLEFAZcnBGDkH98efGs6xGU0SIG35V+olglxSV73q2mp3pabW95prDNXckNlCHZchWQDJChTgE4PJ40c2za993Cutmt1nFCGJIr2tmgldMEqCG4JGeQfcahWd63OzXMM+4W2iPkGQ6NLtE8Lk7fvu/7eh5+FWu/QD+lZWxqu3p+VHEH1yr1akuXmblDav//Z" />
 
 Das erste Fundingziel beträgt gerade mal 5.000 Euro, das zweite 10.000. Das
 sollte doch schaffbar sein, oder, was meint Ihr? Mit 5.000 Euro könnten Nicole

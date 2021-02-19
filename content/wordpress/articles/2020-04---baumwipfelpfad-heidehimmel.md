@@ -59,7 +59,7 @@ auf dem Gelände ein Waldlehrpfad eingerichtet. Insgesamt hat der Wipfelpfad ein
 Gesamtlänge von 700 Metern. Die Planungszeit für die Naturattraktion betrug zwei
 Jahre. Anschließend wurde er in sechs Monaten gebaut.
 
-[glry name="heidehimmel"]
+<Gallery name="glryheidehimmel" />
 
 Der Heidehimmel liegt im Herzen der Heide bei Hanstedt-Nindorf. Er ist
 ganzjährig geöffnet. Vom 1. März bis zum 31. Oktober zwischen 8 Uhr und 19 Uhr

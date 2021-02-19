@@ -93,7 +93,7 @@ Ich wünsche Euch viel Spaß mit der Galerie! Und drückt uns die Daumen für da
 nächste Spiel! &lt;3 Auf den Bildern seht Ihr übrigens auch den berühmten
 Hochbunker, in dem sich das Übel &amp; Gefährlich befindet.
 
-[myflickr tag="annemillerntorstadion052016"]
+<Gallery name="flickr/annemillerntorstadion052016" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

@@ -69,7 +69,9 @@ geboten. Beim Erkunden des Stadtkerns entdeckt man jede Menge kleine
 Ausstellungen und Ateliers. Ein besonderes Highlight ist das Dingle Film
 Festival, welches jährlich stattfindet.
 
-[myflickr tag="annedingle2017"]+
+<Gallery name="flickr/annedingle2017" />
+
++
 
 ## Wegweiser Irland 2017
 

@@ -41,6 +41,6 @@ subTitle: Fotogalerie vom Balkon
 habe ich zum Beispiel ein paar schöne Stunden mit Kater Chili auf dem Balkon
 verbracht.**
 
-[myflickr tag="20180602AnneChiliBalkon"]
+<Gallery name="flickr/20180602AnneChiliBalkon" />
 
   

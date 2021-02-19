@@ -31,7 +31,8 @@ date: 2013-09-10T15:45:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "7168"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg
@@ -119,7 +120,7 @@ einfach den richtigen Zeitpunkt erwischt.
   title="Geschafft!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_255337_448938665128268_1765079901_n-foto-auf-sandstein1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QALhAAAgEDAgEKBwEAAAAAAAAAAQIRAAMEBSESBhMUIjFBcZGSoRUWQlKxwdHS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEwQhMf/aAAwDAQACEQMRAD8A3l1/VAN0xmjaSjD90fMWqHsTFmYjhb+1ute05QDzGTcknqgLt47ilLo066pnptszBmypAHqk+VVbqJNDZz+Dywz8/pQxxjTjZFzFcFGHXQwY37KtblBqx7sX0n/VOaFoXJzS8bIs4WVeWy+RcvMb1guwZiJEju2/NNfDtOurxW87T2P2txKfcUI5rXoZcd30J2siAGKcQH08RAPvNTzrCSGfwJmiikFRRhu7B4dhLnzmrbyNDMX3FFFLUmkbaVn/2Q==" />
 
 Das sind wirklich eine ganze Menge gute Tipps und Ratschläge. Vor allem finde
 ich es auch interessant, dass es anderen nicht anders gegangen ist, als sie
@@ -152,7 +153,7 @@ Unterstützung!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_gefc3a4llt-das__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_09_gefc3a4llt-das__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB4DASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBAIFB//EACsQAAEDAgQEBQUAAAAAAAAAAAECAwQAEQUGEiETMVFhFBUyQZEigqGxwv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFB/9oADAMBAAIRAxEAPwDt+UsWlY1Kxtqfgs+GYcpbLdy82HUBaglaS5pSQQm/0k7Edaao0RpTmtTMhpSDdPEfKgb9goj5pIyJ4bzvMyk5kn4k6ZiipotaExbuOANoG+w5fbf3p3iFDsjU3JkqtuULBCfykUhVvgo6n5rByK05bUVbdFEfqrG9G9NCXlbEkzMxZmZj4nhi3I0lKFR2TrVHTY7LACbKJCjzPv0ptj8Y3LrrTiT6eGgp/o1Rg5ewqDMmSosNCX5igt9RJVrUL2NiSB6jy61s2mkNI0tIShPOyRYUm9LnE27UW7VNFB//2Q==" />
 
 **Der Herzmann:** Das schaffst du ganz bestimmt!
 

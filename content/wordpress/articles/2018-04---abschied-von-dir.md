@@ -31,7 +31,6 @@ isWerbung: false
 isAffiliate: false
 errors:
   noSubtitle: no h2 heading found - no sub title
-  oldGallery: article has an old wordpress gallery
 thumbnailId: "20479"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Abschied-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_Abschied-1-von-1__l.jpg
@@ -49,7 +48,7 @@ Die Sonne färbt den Himmel. In der Stille.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Wolfgang__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_Wolfgang__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwMECP/EACoQAAEDAwMCBgIDAAAAAAAAAAECAwQABhEFEiExQRMWInGBkQdSkrHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQABf/EAB0RAAIBBQEBAAAAAAAAAAAAAAABAgMFETFRIUH/2gAMAwEAAhEDEQA/AH0u+4Fr26rU50CO+pJCUR21etaiCQOvA45Panlu3FN1K29CmOtRGpb7bTrrhjhKSVYOAkr4xkDI6n3qnZ2jxVWTLhrU0vUJqA3HW6RvLuQQEj4wSO1TaDmANOgworQTG8FpCwgEr2gJJz17d/imdfIaoL6bflyMt55QcZILizncP2NY37ZZKMpU1/IVbD9p24wHHHorSUb1EqW5gck0v8uW5NgNy24aPBcA2lKuFZOB9nFUO8S4ErdnTOZbBDst1WtT3lyZQKmW9+MNjHJH32xip7AeUoN7eHC4gb1erjxAT/VFFcyXsiyOhrrN3aw9Jfaly1vsAvyA0QEgKbVlOMDp/ozVE3R+QbqZnvRmtZkIjFA2tJwEpSfUR7ZyeaKKaMVw2Wj/2Q==" />
 
 Goldenes Sonnenlicht. Schatten und Licht gehören zusammen.
 
@@ -67,8 +66,9 @@ Die Bilder entstanden letztes Wochenende an der Ostsee. Am Meer kann man am
 besten Abschied nehmen. Es ist unendlich. Es weiß alles und hat schon alles
 erlebt. Es war schon überall und wird überall sein.
 
-[gallery type="rectangular" size="medium" link="none"
-ids="20500,20499,20498,20497,20496,20495"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26619268697_94e2968637_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_26619268697_94e2968637_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619103848_f63422b81f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619103848_f63422b81f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490421311_e84869a438_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490421311_e84869a438_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619104988_ff91694074_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_27619104988_ff91694074_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490426461_e5fb4ff87f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41490426461_e5fb4ff87f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40597019075_fed07928a2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_40597019075_fed07928a2_z__l.jpg"}]}
+/>
 
 <iframe src="https://www.youtube.com/embed/k_uHkAngzHw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

@@ -62,7 +62,7 @@ schon gespannt, wie es mit der Altonale weitergeht. So viel sei schon mal
 verraten: Am Sonntag gab es eine weitere Parade, von der ich auch ein paar Fotos
 gemacht habe.
 
-[myflickr tag="annelightparadestamp2017"]
+<Gallery name="flickr/annelightparadestamp2017" />
 
 [Zeitgenössische afrikanische Künstlerinnen im CAAM in Las Palmas](/2017/06/el-iris-de-lucy-las-palmas/)
 

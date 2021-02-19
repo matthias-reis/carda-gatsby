@@ -53,7 +53,7 @@ beschäftigen uns damit jeden Tag.**
   title="Komplett vegan leben - Ist das möglich?"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_15718379925_6d913b0d02_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_15718379925_6d913b0d02_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QAKxAAAgEDAwIEBgMAAAAAAAAAAQIDBAURABIhBjETIkFRBxQjYXGRgaGz/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBAgT/xAAdEQEAAgEFAQAAAAAAAAAAAAABAAIDERITITFB/9oADAMBAAIRAxEAPwBnT25XZleQIpPdCQf0dZrVVutzMstXTDZ3zMoP8jOr9zC02HSmEoJziQFSfv31zJer5caT5h5unLTHQzTsEnSipskBtwAfaTuxgH75zrRe7U1CBqCx1V3VlBA4WKSl78ASr3/fOsW4dSicMsQdiecLnQB0lfaWGS61d36XSaiLGCPw4oXWmkaZn5Jx23oBjOAuBgaY15rreGMlHX2vgYCJGA+PxxomK+72sHkNvjAif409QzKrVVPbpEHI+hIB/ppe3LqN6q3GmqYKb6jh2eQksmMnykn1/GmSskb7PLTkKcjEK8H9asIyK2UgpkIXAIhUk+/ppQZb/WMeEgF01eWa23GjoLNR1dRLUR1HiK67owCvlAJ7YDc+7HR4nxU6skrKylobFZUnhZTJHT0wBG4Z4w3OOBx76mpnhpqh5/DiMhABIQAMPT0HbP8AeqEFwo4L/c56enWKeZYjI2xsbgCCATxyApONX5LJ0yOKo9z/2Q==" />
 
 Ja, Du hast gerade richtig gelesen. Du bist nicht der/die Erste, dem/der diese
 Fragen eingefallen sind. Sie wurde/wird uns sehr oft gestellt und beschäftigt
@@ -111,7 +111,7 @@ Weißt Du, ob für das Auto, das Du Dir für den Urlaub gemietet hast,
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_32985444933_1b3843f0d5_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAAEF/8QALBAAAgEDAwIEBgMBAAAAAAAAAQIDBAURABIhBkEiMVGBBxMUFWGRCCRCof/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB8RAAICAgEFAAAAAAAAAAAAAAECAAMREgQTIzEyQv/aAAwDAQACEQMRAD8AEelaWegqIKgwvLEG3H5LcyADJDZ4I9R7ad1gvW+3GWmpnCHD75FEeMjODn0/7pWWaoqaKlWeugp6UKzIUlpyEDZHDFZc5HJHhx38udN2z0syRvV/TxVccSkD5FTlFCj/AArKBv8AXxc+WRrTy3DEZkwSYC/Efq3pmMimuF0hnnVuVp1Mjo3lgkDwqDjzOT6aFll6cZQwvtuwRkZmwf1rOoPhL9xv1XVTV9VBHWVLzEPTAtEWJYElWK7ecdvIY76Ul3t89sutbQNVW2VqWd4C4qMBtrFc++NKi5q11Qyxprf6hr1jdlr71c6QRvJRwFP6zHCmTaNzt+lHtxoy/jt837jd5aoGlhYiKGJG2JLIRubaCeWVQCSOxGe2kr1ffUvV1eroYfpI2VA658UrLk7mxx3wPwBnnXS6E6zrenL29cGllpnieKWBGHOeeN3A5AOfxo2IWJxK47OgErrqG2XKXp67xWiVY6+SkdKOSQ42uykKcjvzwfXGoQbwMVcBWU4IYcg/nVK0Px9tbqKartlzpqZnyZFljl2+hKjBx78DWpugOlrxNJc3gSRq1jUl4mGxi53ZXxeXPGiisvmZ0fpewn//2Q==" />
 
 Wir, mein Mann und ich, versuchen, so bewusst zu leben, wie es uns möglich ist.
 Darum sind wir Veganer geworden, haben kein Auto und versuchen unseren
@@ -149,7 +149,7 @@ werden. Dass 
   title="So trage ich Pelz!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_11501151886_22baaaa304_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EACoQAAIBAwMDAgYDAAAAAAAAAAECAwQFEQASIQYxQRMjBxQigZGxUXGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB4RAAIBAwUAAAAAAAAAAAAAAAABEQISIRMiMUFR/9oADAMBAAIRAxEAPwBFqBYNoiQJCRgKg2j/ADUEslN0vdFqEgV4a6i2mNXCn1ElP1nIPGOPtp24269vfdtto6qeqipvUkgphneEX6t2OMgkY/Gq31O9woYqyPqGGoaooSpjaTcslPluUXnGNx8cakc9FdKTeRK59ZTXKrdqVKsOpO+MSqioM4UDA57ck6NQsNvgrGaZWalhYDY+0+73yceMaNDtQxSe06Xqq0rcmt8cFTHMp94vSlEYbQ2Q+MMpyOR51nfxxooL9aIpLRU0kMlXJ8rOAgaT01BbdjjAB4+413t98WenVpgU42hG5IwTpCO3198uEy0sYSjBKSTyDEcan9nHgc/130xCeMmLXigrPWjhp5K1xAgjf5OmDIGAweM8Dj96NXbrnqCO1XUUljKyBB7878GR+B4/gDt2H50aywLU9P/Z" />
 
 Wir halten Dir mit unserer Entscheidung, so leidfrei wie möglich zu leben, ein
 Stück weit den Spiegel vor. Das sorgt dafür, dass Du mit den oben genannten

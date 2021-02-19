@@ -70,7 +70,8 @@ auch ohne viel Geld.
 title="[ ](https://amzn.to/2YgeOkd) "Vegan, aber guenstig - spar Dir das Tier""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-2__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-2__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAAHBf/EACgQAAEDAwMDAwUAAAAAAAAAAAECAwQABREGEiEHMXETQVEiMmGBof/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAbEQEBAQEAAwEAAAAAAAAAAAABAgARAzFhEv/aAAwDAQACEQMRAD8ALSR9JP4NImD010cbbbnpdrury5ERl8qZkK25UjJ/ueKOgPB8U09H6ntFk0VppVxmOsPSLZHVhCN+R6aecDsBU2vTmz8tEw0vPrs5V0w0TITLESJdGnGGFun13SAcAnI+ewPg0cR2p06sukSRp26vtvLUtu3vqbwBgpLSlZ8EEYPv+qC2aJpVNcyknfeq2CF1J0+7YLLAuttnrct8VuPvbSk7toAPO9JwcdqqqdSV7xUzR+aOn3da79WbJMsNwiRmpbLr0N2O2DFCfuQUhJIcPA4x8ZOO5rCfaqqlME+tS93/2Q=="
+/>
 
 Ganz ehrlich, seid Ihr auch so genervt von dem Satz "Es schmeckt ja wirklich
 gut, aber auf Dauer wäre mir veganes Essen zu teuer?" - ich schicke in Zukunft
@@ -128,7 +129,8 @@ wirklich war: Reis, Linsen, Bohnen, Couscous und Kichererbsen machen glücklich!
 title="[ ](https://amzn.to/2O0v44W) "Vegan, aber guenstig - das Kochbuch""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIAQT/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITEGQQcSE1GRFCJCcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAcEQEBAQEAAgMAAAAAAAAAAAABEQIAAyExccH/2gAMAwEAAhEDEQA/AJj02BLi+topMhJJURsbHBYA/wBp5v4Q6Ms8scVnrVyqEAvHKGHB22TnY0i9Nl9O9tmP4yofhhVm2XWGk2FxcWkrTRypK0ch8xUFuQ36xsCeeO4oeTaaI/vHRSD7XlLH4RaJLOIpbbWLJ9sCdx9wJwcbdqRF5EkN1PHGSY0kZVJ5IBIFWbqWuaRf3iAxz/XRIZIWmQqpjGSfLnnvUWly27bknJq8fkdrX19dYAzLUU+eyNvK6t7EGnNqXXnTGs3JuJ2v7O4IC+qkOCw9mwxB+KKKTmpoY86SJTunTesOlrG2vZINUmmvHtpY0a59UkZQgBQVwMnG+aR3aiisMoqt6ZIE7//Z"
+/>
 
 "Tolle Basisrezepte, die jede\*n glücklich machen und noch mehr" - so könnte die
 Kurzbeschreibung von Patrick Bolks Kochbuch lauten. Von Zaziki über Béchamelsoße
@@ -177,7 +179,7 @@ Patrick von Beruf nicht nur Texter, sondern auch noch Grafiker ist.
   title="[ ](https://amzn.to/2YgeOkd)  Vegane Spartipps für alle!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-16-vegan-aber-guenstig-patrick-bolk-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgFBgcE/8QAKxAAAQMDAwEGBwAAAAAAAAAAAgEDBAAFERIhMQYHExRBYbEkUVJTcZGy/8QAGAEBAAMBAAAAAAAAAAAAAAAABQABAgP/xAAiEQEAAQMEAQUAAAAAAAAAAAABAgADEQQSIUExYYGRwfD/2gAMAwEAAhEDEQA/AFltiJ4yMq/dD+kpzZcuLFukmK80yBi4QipvoKluu+MUlcZzQ62qYTBiu/5SnYlzLA9PdkTJdseCYZFHNzBi4KquFAk5Rc88Vx1F6doNjjNVti5ZdVV71FA4SSJ6nLPv2mxdYfFUb1mgoggOyrkk549ahL508xG+FjwIjc2SmR71CcOOzjczVdsquMev6q83S2xcR2LUbcLxExreMulRIUJdSZ2yqjzj2qPcss6MJPSp0iQ+6iG8It7EePMuVRN8JtRmm00pXSUTJ4XJ88uV5/YMJz1W2ztnIHo59vBgOPrtynaVrVq7QOnjs1lhXe3Tu8t8YI+trSQnjnOCRcenNFFKXbUbobuqNQRjIE9ea6u1HryzdQ9HHDtsgikuy23XGybMSwiFkt0xyvkvywnNZCzLksYRmQ83j6XFT2WiipatFqO0rc5s3LX/2Q==" />
 
 Drei Dinge hat Patrick Bolk auch mit dem Kochbuch klar belegt: Veganes Essen
 muss weder fade noch teuer sein und es muss in den seltensten Fällen ein

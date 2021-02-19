@@ -46,7 +46,7 @@ Ihr T-Shirt ziert ein Schaf, versehen mit den Worten "Friends? Not food, OK?"
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EAC4QAAEEAQMDAwEIAwAAAAAAAAECAwQRBQASIQYTMQciQVEIFBUWJFJhcYGR8f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAAL/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIDERIxBFFhITJxsfDh/9oADAMBAAIRAxEAPwCuQPUI5XpFvOs49yIyttxZ7jqV7dqin4/kD/ep9guop0htXUS8lMXO76Uo3PqSgoDiQpBbPtKSDwP6rRb1Ty0roTB4jovGOfetwWqRkHWChtQKypLYFmlfJ58VxzoFMy2SaxDUCNBQJpk98vMyFOB80UJQE+Ks+TZuqrQNVFJJJWLtGEvTyRRtIkyVtP8AM2HHUYwQntjLFIWI1KuikqHNVdC6u612grj66A+nmNj5DFYvqDJQA3nO1sU48inWSPYW7PNDbX/dOgrSmknKO+zpaDzXdZe9RmVT8L1G7PO79S200gr7ZS4XK3A/uATSfr4+dBusGMVMGHkdHBuLJcDCVJpQKFUEpVzQBDgN8fAsm+Vn2g5uPZS5EcsPzG0PtNJUpPuCtpJ2kcHbdmwFAcc6hUGVIW/tXIIkOtkd1ThUo0eBfnyL1CCGQNoN/vajMHl1135x95W4+i5WVxOKxeOy8XZOluKVsUDaLUBatthN+41fyNKsXOkSoTb77TDZc9yUoWpVJ+LJA0KwL34jgcDlMa+0hD8Jly3WC4oLAO5QUTYJP+PbpVgwY+ObZUvvbLSDsCAAPACR4GumMLDbXC1znuuccr//2Q==" />
 
 [](https://amzn.to/2MLIK3k) Mir stellte sich gleich als Erstes die Frage: Was
 bedeutet vegetarisch vegan? Kocht sie nun vegetarisch? Oder vegan? Oder beides?

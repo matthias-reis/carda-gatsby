@@ -65,7 +65,7 @@ ziehen lassen muss, würde sich der ganze Prozess bis nach Weihnachten hinziehen
   title="Die Grundlage für den Likör"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_8__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUH/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDBBEABSEGEjETImEUQVFxMlJi/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACARAQACAgIBBQAAAAAAAAAAAAECEQADBBLBITFRcYH/2gAMAwEAAhEDEQA/AOX7luNTeLK2dwMm3XYJSpirdzyovcS0nPAGMDtH7+dWalC5WvXGryx3bbQrZr12ySA3PqecZIUgr/rTBTmnW/u9sUxPC0APPb29xUskcpHhsMGKLnP38aWNvgrwUbNWClbTqiNVSB60zYZmbHu93aFIOAo58fJ0KHUCKU/GbLWxxz6Zn3Z9niLglSWYfURGMgknIHjIHzo1LbOqDt0Rg3zfxXtcMYrEZsFOOQFVWKePBPJ8eNGpG/jylNQPy/BjUNoFPjF6zEemtg3zby0DfWkmNe8BoyCpc/2JIGBq1fntTw7Pe2ei+ztTVYJ77RLCMNzjPuC+QASM86j1BsVqs25zegkosVya8j4JSXKljk8ggZx9tY1nc1tU9t22tu1mxV9RpbKdoYJz7WLdi9+Dk/gZ+2qnHn31j2v2xXYVL0KxjrdH7bvtqzb2jqCWBsqk5niY+owH81JxkHJ/Pj50acOmKe3xUlMiMXdFJaxKSSec4B8DPP6I86NSd/PnHZIgtfRhowKLz//Z" />
 
 Findet man keine Schlehen, bieten sich  als Alternative alle möglichen anderen
 Früchte an - von Brombeeren und Kirschen bis hin zu Blaubeeren. Wir haben uns an
@@ -103,7 +103,7 @@ kann.
   title="Der Ansatz"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_12__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_12__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QALRAAAgEDAwEHAgcAAAAAAAAAAQIDBAURAAYSIRMUIjFBUXEHQiMyYWKBkcH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQACA//EAB0RAAICAwADAAAAAAAAAAAAAAECABEDEiExUaH/2gAMAwEAAhEDEQA/AKuw7SsNXQtPLYZ6xhKePGqkQE8c55CHqAc+p0jb5tcFhu9BHZ2UUsxKmnkl7VI2Dhcg9PDgg5IBGPL1092Lf1nt9NAlJBWNXJI0ig0rDBEZx7g5/wA10bWuW357kJ5O+XC50LOiM4QII5WVhggYbqGH6dffWFq3LhD4nUeIuW6Ls2qBbKNKlOeHYdoTkdMkKjYJ+R8e5q6fd+00mq5pbpJ3uepkknMtNITyyBgYGMDGB8aNXCj3ILArX5Mssbq9KgVkLqS6qTxLAKVC5B9Cw6Y66c/pxWUdq3NXG4SM8WU4uiAg+IkkjzHUeQ1DY9pWcTiSSavjz9scoA+M8c6aa3b23FphHArU0569tDIeZP7ifzfzpWzrfI1O5WpiElY8dRUcS5Uyuc5x9x0aZbtsaq77I1HcKeWNyW/FQhh/WdGirxntwbfIOdn/2Q==" />
 
 Für den Ansatz füllt man die Früchte zusammen mit dem Gin und der Vanille in
 Einweckgläser oder vergleichbare Gefäße ab. Die Behälter müssen dicht sein und
@@ -154,7 +154,7 @@ verbliebenen Schwebstoffe am Boden absetzen.
   title="Das große Finale"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_5__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_5__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMFBgcE/8QAKxAAAQMDAgMHBQAAAAAAAAAAAQIDBAAFERIhBhMxBxQVQVFhkUJxgaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFA//EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDITFBBGGR/9oADAMBAAIRAxEAPwC0WqKnnhShtqFc/BbMnuUnv0dLCitPLwnGpGCc/fJPzSDcTFsAeVqLqY4cyTgq2yeo9KInEDbkhqOyghOVAho6tS0p2Bx0yf5U2hd3xHNnqQlrVL8SuffIehnmksK0HK0la98/HzRSJ3EM5mQFw7bKbaW2n6j1Gc+XvRRU65H2CvUqbPaJcVRYzLUVAcRstRJIXtjoafeeMLi7EZXBZRA0pSh7kjWCd8EkjbJ6D2NRsTgie9KcFvbnckqyhKoqycehPStG4a7On27Q4m7vIYdWoHlhoL1AdNQzsfSkmwux0JYXPiQA9zIZ94vD8tx/xRSluHKiDpz+KK1eV2aWpbxU7KUCfJtgAftRorUYGrYEXbyVJ1P/2Q==" />
 
 Dann ging es endlich ans Probieren. Ein paar Minuten Arbeit und zwei Monate
 Wartezeit später stand ein “Plum-Gin and Tonic” vor uns. Wir haben in ein halbes
@@ -178,7 +178,7 @@ Hier nochmal im Überblick, was man alles benötigt:
 - 2 Halb-Liter-Flaschen mit Ploppverschluss
 - Kaffeefilter
 
-[glry name="2018-matze-likoerchen"]
+<Gallery name="glry2018-matze-likoerchen" />
 
 [Unser exotisches "Minty Fizz" Cocktail Rezept findet Ihr hier](/2018/05/minty-fizz/).
 

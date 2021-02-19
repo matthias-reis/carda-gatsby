@@ -45,7 +45,7 @@ subTitle: Konzertbericht
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4321__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4321__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAP/xAArEAACAQIFAgUEAwAAAAAAAAABAgMEEQAFBhIhEzEHFCJBYSMzUXFCUoH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgME/8QAJxEAAQIEBQQDAQAAAAAAAAAAAQIRAAMEIQUSMUFRE3GRsWGBofD/2gAMAwEAAhEDEQA/AMtRoCBew4xQPC7QtPq7UkeV1NZFD1Y7o21jZ7AkEW9ge/a/F8DtI5SilqjMY42jNOHEUn8lY2DC36P44OHfSeSS5C1Fn06U1YKyGaKiUbj5eWNowzSKRY+hyQObnkjjGi5gVKWJZYgaxSYfhCx0psxL5ywBu3yRvy0T/WelqjTGf1uV1ce2SnkKXKkbre4uBcXvz2NsLzwDYxHsL9saI8XMxGpPDyeWWJZ6vJcyWM1LH6qxShu5tyGcE9+CBxzjPkxtG/yDhalnU9VJz5bgMe4Gv3rAuJUU2jnlC2d3twdPyG3JsziSlgneo6MqU6L1F9TuUG0LbnaALckYa59XT5fDl9RBXTJURBt8kI28E7fV/bsoPHx2xI6ScRI/K3ZStjgvW1kc2XLGXjUx3ZbSBizM1z+vjBSaNKwXNt+3Hloo6THyiQUkBwmwbd7+Q787uS8O2pNZvXaJfLBVzv1atJGSwjh2AMSCgF2Jbadx7bbe+J3UQOad5ek3Rt9xRcX+eeMcROhgZHI7ixvg/mmaU3kpqWmaLa5lT6ZteMC6X/PP+8Y6JHTpEGUBYvx/eoNqljFCupUoJIAte5JOnveP/9k=" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4321.jpg) Wir hatten
 Glück und fanden ziemlich schnell einen Parkplatz in der Nähe, was am Freitag
@@ -61,7 +61,7 @@ T-Shirt-Stand und warteten vorne an der Bande auf die Band.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4322__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4322__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYABwMFCP/EACgQAAICAQMEAQQDAQAAAAAAAAECAwQRBRIhAAYTMSIHFFFhI0GBUv/EABcBAQEBAQAAAAAAAAAAAAAAAAQBBQf/xAAmEQABAgUDAwUAAAAAAAAAAAABAhEAAwQhQRIxUQUy8BMicYHx/9oADAMBAAIRAxEAPwDnLSaVSeCVrU0UBWAum+Nm8j8YUY9E5PJ446Ls6KkGhUrzRsrWZplVm27GVNg4wd2csc5AHrGecTtWGWxJIsRl3rVchIovIz5wu3H73e+i4dEtw9xLpNseGyJkhZRhjvbGEGOCef8AOulSZdKuTLdIdhgcecwQBTmMtLsu5Y0a/fMcMbVFEjV5GVZGjwMuFJztGV5xznj0eg9d7U1HSaUM1/T3rLYr/cwmRdu9P+h1eHeTVb/Y01y7rAi1OsJaphihDeVU/jEZZcDb8cZGQOfz1VX1BmsyU6EpmlenNULV1dywRASCFyeOQeP6PUQhE6nX7EjuHbwnBs/Lwyv6ZVUcx9adIbJcu9w7Ai2MMeWWNOuRw6UEjV0tM/MyvjEe0grj9k+/wP30X27ftw9yaVZpMqWoLMcsDFc4cOGBP55A6XoHChfko/PPR1adYbEUySojxsGUgj2DnPQaSd60lKAoOw3I4EHTpTMClhwD+xe31IXRHm1SpDrNGGuT94qRnds8knkMRCg8gswwccL0marruiN9LJu27cy2r9WwbWm2kqmMoHB8iMx5Kn444HPvgDpHuarJbsWJZLKp5wDIkTbUYj1kf3/vWvuzRSJ8HzhcY6gIRSKlzZl03FxuzHzLxpdRrzVTEkCyRpFmsNs/fzH/2Q==" />
 
 Von einer Vorband hatten wir nichts gehört, so waren wir einigermaßen
 überrascht, als eine Mädchenpunkband aus England als Support die Bühne betrat.
@@ -80,7 +80,7 @@ mir. Genau das möchte ich auch machen!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4336__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4336__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwQFBgIHCP/EACUQAAIBAwQCAgMBAAAAAAAAAAECAwQRIQAFEkETMSJhMlFxBv/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAQH/8QAKREAAQMCAgkFAAAAAAAAAAAAAQIDEQAEBSITISMxQVFhcdESMpGh8P/aAAwDAQACEQMRAD8A50goImo4XMaksgJNtK1FMi+kUD+altpAq46em80cI8WXkOMD1o1VtSRPJ5quGRBEzr4y12bibdW921oD6bUW6EhIn0jh0odrYXT40qRlmJkeZqtmFf0NZVSwLRRqkYE4Ziz5yMWHv+9d96epttqJ1R0UcWQyfkLhQ3G+fsaBNRGSkqJoZFZYvyBNiQewO9JXQ0hpcATu7UUWb5hRSY3jqImeoimdg3EUM8cwDFkjIUKbZ9attP8A6Bdy2vcomV1njp5GBI9jiexi41r2GVRHbmVa3Y01FUPAHCSxFXUqfkOx+tQlL7KTMkRy800wrG7jD5aSdmZkdxHzU3LC+0GkknWJ43iBVxYlvlcgA26YX0tvtdBVULeOgo6dkcLzgQDmCCc2JF8D1oG9by25LF5I4FZRllJ+WB94GNL7rPAaKCOHx+THMo5a9hYH67xqk89kz+4/udHuXWTpEWytmkCJ3mRGrVz+uJ4//9k=" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4336.jpg) Im Anschluss
 entpuppten sich die Roadies als norwegische Pseudohardcoreband, die auch noch
@@ -94,7 +94,7 @@ sich sichtlich lieb und prosteten sich permanent zu.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4314__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4314__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAKBAAAgEEAQQABgMAAAAAAAAAAQIDAAQFERIGEyExByMyQVFhM3Gx/8QAFwEAAwEAAAAAAAAAAAAAAAAABAUGB//EACURAAECBQMEAwAAAAAAAAAAAAECAwAEESExBUFRInGR8IGhwf/aAAwDAQACEQMRAD8A5tmg478Vj9rZrfainsrpnVhL3IzyDKFVTy3tdcid8fXrR37FMGE6Ut89m8hJYSAYezkDyGM/MMROtorkEnQ359Df4rUNQ0lgOVSRSAmStfSBeEiOD9UVQo+ksYkS3E2cgFs961uvFGLdoH+XWtEf0aKYN6fJNJANT2ST+QtXqTaTQ18GFnFy2lnjJHvYluBc7ZY1kClOGwC3gnW2B0Nb46qjfBp+xib3I2CLJPZXSxyrJDyBjkidVY/by4879eKj6I/0MpI96/FMOIzGSw+GurK1eSGO4lSV2DsvIKd8WA+obA8bpU63NONFSEWAv5v9e7RQaZMty0yl1ZsNubY+cQ7S4O+6gwPUDzxGyyOOuRdxwSQ9pJoXYrIqHQUFCVPH7gnXqip/fvLcbM0sksglYszcm9/s7/2iqCWcmkp6cG+MWFs8+0gGadS64VKrxnYWG2wj/9k=" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4314.jpg) Schließlich
 betraten Trail Of Dead die Bühne und eins muss ich ihnen lassen: Die Jungs
@@ -108,7 +108,7 @@ Facette ihrer schillernd bunten Lebensart.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4306__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4306__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgIDCP/EACgQAAICAQMCBgIDAAAAAAAAAAECAwQRAAUhBhMSIjFBYYEVUSMyof/EABYBAQEBAAAAAAAAAAAAAAAAAAUGA//EACkRAAECBQIDCQAAAAAAAAAAAAECEQADBCGhBWEGMVESFCIjQXGRsdH/2gAMAwEAAhEDEQA/AOY0hJ41IUaYc+Fx96zgrN3DhTgMVz8jV+6Q6Vs7pJX7UJYTOI4yfKGY+2Tgf7qvVoypay4t19IT0ikFYoB/mKalDhB4eAcemjTri6Qz0rLvAeoK0UwhMZk/lLH3C/ejWo0YrfsEFrH3i3kcOylOErBYsbcj0hY9BUKu87mNrhWRXtR9pJGI/szoAT+hnPp6D70zbw2yvW2qhUF2K8bLV5VkKpCvLjhMZzkDk/Okv0zMYLaqHaPuJ28r68sMj44zph9TdQ/n+orFWrWpk2LcSLIxYgs/lZyQRgk8kfJ013pXlJW7Nls88RL6LVyaOQqYkeJ9nJBs+zPiNj354b1ijbiMVivI0UuQT4GBIIOPkaNQ+9773LMkzQuGnkMjnHLOQHUtnPsf2dGkky54AZs/hhNPFTi7q3FvsiP/2Q==" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4306.jpg) Bereits bei den
 ersten Akkorden konnte man ihnen ein Wenig anmerken, dass sie bereits eine ganze
@@ -123,7 +123,7 @@ oder aus, oder gar sich selbst und das Publikum.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4269__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4269__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgQHAgUI/8QALRAAAQQABAQFAwUAAAAAAAAAAQIDBBEABRIhBhQxQRMiUWFxQoHBFTKRsdH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAJhEAAQMCBgICAwAAAAAAAAAAAQIDEQAEBRIhMUFRE2EUgZHh8P/aAAwDAQACEQMRAD8A5mytvVMaHXUrT/O2GfDeXJDMguNOtENi1JqtQ37b2fTB7IYyC6668vwxHR4gPqoEUP7w94TS7lbbR5TLZCyQVsyWlLSSOl7jcfgYuMBIVVuwtblLXlabzkZjGnWXkTvO3RiaSxZ+eSGI0OW87JecCELdKUa9P0osAE113vfG1zzNuUictDmBchgU66sFwOOH6QaoAevesWXwtP4FzTKHULhQMpzYM61oCe4H7knc17XdYobP86jzI8qQ0pmGSUqQy1E8iwARY0kAD5FnqcNBwPEo8cFPoRr+ZrG2uEYc5efIvAoM66QSoqmDMJBERBHHexqto0ZtuMXSsBYAIBVXfCiJmEY05zC1vLBIQAbs9L7A/c/bABDhNaiVfjEqPKUysKQdxgAdQrbSK0WH3rtkveUkif77n9SCvGbyEy2nVqU2FKUSVb9LH+jGZzCEnh6f4rBXOumng4fIk1YKel3e/wA4HuTVrQhJVsm9PtZvEn9Vi8mppyM4t5ahuHAlAT8VZPveDB5PJpLEHlPgJTJGYK3gzpPXIn3zX//Z" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4269.jpg) Besonders bunt
 trieb es Jason Reece, der es ca. ab der Mitte von 'Aged Dolls' nicht mehr
@@ -147,7 +147,7 @@ wieder Jason Reece) und dröhnendem Applaus der Audience gipfelte.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4296__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4296__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBQQH/8QAJxAAAgIBBAIBAwUAAAAAAAAAAQIDBBEABRIhIjEGUYGRExQjQfH/xAAXAQEAAwAAAAAAAAAAAAAAAAAGBAUH/8QAKBEAAQIEBAUFAAAAAAAAAAAAAQIRAAMEEgUhMUEGYYGRoRMUFVGx/9oADAMBAAIRAxEAPwDyjbtjllNbhDIZZiBEEQlnOcYAHv7a2Y9mtTbXYvpVmelC6xyzhfFGPoE/1/mk0t8kENfFyZTXctX4yEfpEnJK9+JyAetae2bjI1KSkLkiUppFeWAvhHYeiQeutV68GqFzghwx32AjcqSZIEoei2zv56tpziI+QbaYLsi2xIsidcXQ5X7Y0atPnf7Ta6fGxaqW7thSxavOJ+PkRhiPR6z7PR0aR/FU1OhKVTg7PAPEpqF1KlJGT9/MRNto2mqrRUeTEN5cgDnA712yWa1eMR/yOHHLsBsnGQB11kEaamzVYYgIIzzHYcucg6TZ2mSQcjKfpxRQANEkVoCBKuNu/PN+cLF4fVIumhAvLaaDJj9a9Ynt9vtYjUyxyiXA82brH0C46/OjWzPtC2DxkNpFXrKsOP4OjUj38stcYNVXDuIT5pWnPsP1o//Z" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4296.jpg) Auch wenn von
 der unten abgebildeten Playlist, die sich die Band offensichtlich irgendwann mal
@@ -160,7 +160,7 @@ Ich bereue nichts. Toll, Trail Of Dead mal wieder ganz neu entdeckt zu haben.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4290__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4290__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwIFCP/EACUQAAIBBAEEAQUAAAAAAAAAAAECEQADBCEFBhIiMRMjQVFxkf/EABgBAAIDAAAAAAAAAAAAAAAAAAQGAgMF/8QAKBEAAQIEBQIHAAAAAAAAAAAAAQIDAAQFERITIUFxIjEyUZGxwdHh/9oADAMBAAIRAxEAPwDmi5jFQNVFZIPqrL696My+leZucbmr5hQ6NryU+jqlvj8bjlts+VbN9lcBkW4VZhs+Gveo3TpV6W2wkPMHEhQuInKSy5heWSE8+sLVq2CwB1RWfyFCCoE0UPJOyLSML4JPH6IEWFE9MWDy+TlcoM3JvXxk5Kdpb4yW8DMxqdGKWnx8hFe4bV1UuEBCUI7zIJj+U0cVzapxbX79/wCoWIPyXBKqI7QAdxHoCfvWo5Tl8fLv4wGS9+3Pc1soUKmYmf0asrdUW+7lpFkDQQ5IpsoiUQ8XesjtpuT5m+gOw25hRZHvXGhT3E+oMz+KKnJlC5lscsBlZu6diD6jRGqKXvFvaMVuUbXc4vj794//2Q==" />
 
 I [](http://cardamonchai.files.wordpress.com/2013/04/img_4290.jpg) ch muss auch
 zugeben, dass ich bereits einen flüchtigen Gedanken mit der Idee verschwendet
@@ -182,7 +182,7 @@ neues Bandmitglied begrüßen kann.'
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4288__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_img_4288__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHCAP/xAAoEAABAwMDAgYDAAAAAAAAAAABAgMRAAQSBQYhEzEHIjJRYXEUQaH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgED/8QAJxEAAQIFAgUFAAAAAAAAAAAAAQIDAAQRITESUQUiYXHwkaHB0eH/2gAMAwEAAhEDEQA/AMzKZk8iaBbkJ4HFULbu2Ruh5LlmWGrdsM2wFyrBTrikkHDH1QZJ/fafmk6hsjS9yeEui3Fpb22k63ZsPR1DIvg0kk8yIJhUGDJBmqqb4ehnnUajFu1YyUAfJQLKArTpf6MZzSwSeBRTzSF27V60blAU0CCR7iik5PgbTrQWVZ83guam1sr06Ce0U7bu5LVjW9OQ/wDjIsXLhh5oJWWRbqSlI6iEpHKPIn1SVYyRJp7ZeJGki2ug5bBFyyy9gt65LgU4ppxBxbSgHEhZ4UqBPc9qkWhaJqK7ltbNqqWc3CFIJjp4TITPEkf3mlFylxnUn0FKsZEj7FFzQdKAVigrT5xFjLTSGmaBFzY+nTfbEcy0pYBGQGIhRHlJ9pHAP3RTrqIY0IsgJZOICwsgLyxkcdzKsSPiaK5B84BoRnysHzUohkpLnNqFbfo94//Z" />
 
 [](http://cardamonchai.files.wordpress.com/2013/04/img_4288.jpg) Klar ist das
 ein Hirngespinst, aber eine schöne Vorstellung. Denn genau so konnte ich mir
@@ -208,6 +208,6 @@ tut mir nicht leid. Skøl!_
   title="[ ](http://cardamonchai.files.wordpress.com/2013/04/playlist.jpg)  Die ursprünglich geplante Playlist"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_playlist__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_04_playlist__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcGAwX/xAAuEAACAQMCBAMHBQAAAAAAAAABAgMEBREAIQYHEkEiMWEIExRRgZGxFXKhssH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABAv/EABoRAQADAQEBAAAAAAAAAAAAAAEAAgMSEQT/2gAMAwEAAhEDEQA/ADEI84yu/qwGu0aqmS4yO4HcepO/41WORdptHEdZcrFf6NKunKJXwRs7Jh0JRt1IJ8Mg2zjbVap+XnCFLMsS2G29AKhpCrMc9Xn4mJA7Y0pf6Crykdy+a1zoYa7Xw3ebnZ6u8W621M9tpQ5qKiNR7uMIAWyc9gQcD568kBCSXRCSfMDP+aal0tdBDwDf6O201PDE1BU5WCmECsxibfpAAzsBn00MaVGNLDg48AOy51nPXv1hbZcIezXcnrr+k8yLFM5xDNN8JJ+2UFP7FT9NKy5xq1XGrFlZlx1Mds9gN9j37b99CinlkgkjlhyssbB0b5MCCD9wNW6/+0BN8eslmsFEYlQEPcZG6w53bCowGM+W+dD2zb2GsvPUzqjEA1Mk9mqqVBMTLTupaVW3LIQdz5/TQWo8RU0cczFWUAYxqnrz14zdWW30lmpw/mYqE4+7ufxrApT1ki9RMKZ7Bc4/jUzo0EtB33LPpP/Z" />
 
   

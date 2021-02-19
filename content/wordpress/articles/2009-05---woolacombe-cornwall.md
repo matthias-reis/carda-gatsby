@@ -44,7 +44,7 @@ subTitle: Erinnerungen an den Frühling in England 2009- Teil 6/17
   
 ---
 
-[myflickr tag="annewoolacombe2009"]
+<Gallery name="flickr/annewoolacombe2009" />
 
 _Hier geht's zu [Teil 7/17](/2009/05/appledore-cornwall-14-05-2009/) _ ##
 England 2009 Wegweiser1. 10. Mai 2009

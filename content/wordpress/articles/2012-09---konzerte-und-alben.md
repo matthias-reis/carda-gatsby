@@ -51,7 +51,8 @@ date: 2012-09-04T12:59:58.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "4137"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_09_p7090053-e1587460346204__l.jpg
@@ -66,7 +67,7 @@ subTitle: Konzertplanung &amp; Plattenkauf
   title="Die MS Musikindustrie"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_c01007fcf69211e1ab6722000a1d0369_7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_09_c01007fcf69211e1ab6722000a1d0369_7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcI/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBhMxIkFRB2GBJjJCYnH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIDEQAEITFRBRMicZH/2gAMAwEAAhEDEQA/AOm5pmV5BuUYI99QedtxBdf3D30LU1KieYb14/r8HSZ9W7vU2/oS6T2+pmgqS8EaSQkoy7pFBww8cZH50ryBFLdZVBpmmkWIcsQP2hjvPUlEyZFHJ1mFB1NWX3riup6e7VdNS2eeKmeGLhJZDJkhic7gQvtjAbHznMLp1uUpal7RfeuI6gbOwtVVxSpu/mXIPjHjAPj78NH06qJIJ7tU1crtLLeF7sjIASVSMsW4xkszHU8epEpoZqzeKk0i3KCL4sEcV39481VZWS9VXKinjnalpg7PMtcyMCxzHiNcenGRnPlToPqWjo7lRdipeHt70dhXTyOhAz7dxefvnjVJ1TRfqi6k2A1KGol3SywSSbgTngbSMZJxzjnVO9EYVM1NYjGVCkLHbVX35GSn586ladQSp3wpCQAwNHbCLtYukIndDW2KljMjbUdoywBBwuTLyB/nOl/p1KWPq+nVLpDUwtVRD0OI+9K7BXYhSQ4AwB8nPwNNayVWzZBREEs3qam2kceR6TnQljsdVNf7ZLPHVZFRAdwVlUYkB4HAxxnxpkZSfgMaX2MLka67JOf/2Q==" />
 
 Aber ich freue mich trotzdem. Dann muss ich eben kurzzeitig mit diesem
 neumodischen grüngefärbten Player, den sich inzwischen jeder runtergeladen haben

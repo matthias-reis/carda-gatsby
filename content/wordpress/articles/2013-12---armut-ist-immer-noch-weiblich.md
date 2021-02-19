@@ -35,7 +35,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "7723"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__l.jpg
@@ -161,7 +161,8 @@ Im Anschluss findet Ihr eine kleine Galerie des Abends. Weitere Bilder von den
 Betriebsratstagen sind in meinem
 [Flickr](http://www.flickr.com/photos/99929697@N07/sets/72157638324029183/).
 
-[gallery type="rectangular" size="medium" link="none"
-ids="7728,7727,7726,7725,7724,7723,7720,7719,7718,7717"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6795__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6795__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6786__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6786__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6780__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6780__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6775__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6775__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6771__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6771__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6770__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6748__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6748__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6747__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6747__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6746__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6746__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6737__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_12_img_6737__l.jpg"}]}
+/>
 
   

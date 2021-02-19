@@ -49,7 +49,7 @@ It". Hier meine Eindrücke vom Konzert und im Anschluss noch ein schönes Video
 für Euch. Wer Hundreds noch nicht kennt: Anschaubefehl. Wer sie wie ich liebt:
 Einfach genießen.
 
-[myflickr tag="annehundredsasummerstale2015"]
+<Gallery name="flickr/annehundredsasummerstale2015" />
 
 <iframe src="https://www.youtube.com/embed/U_QrYmw2wjQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>## A Summer's Tale 2015 Wegweiser1.  [Get Well soon live @ A Summer's Tale Festival 2015](/2015/08/get-well-soon-live-a-summers-tale-festival-2015/)
 1.  [Hundreds live @ A Summer's Tale Festival 2015](/2015/08/hundreds-live-a-summers-tale-festival-2015/)

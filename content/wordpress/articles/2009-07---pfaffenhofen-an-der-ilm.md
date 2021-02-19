@@ -77,7 +77,7 @@ Thomas Herker_ _
 [Wikipedia](http://de.wikipedia.org/wiki/Pfaffenhofen_an_der_I...) Pfaffenhofen
 an der Ilm_
 
-[myflickr tag="annepfaffenhofen2009"]
+<Gallery name="flickr/annepfaffenhofen2009" />
 
 &nbsp;
 

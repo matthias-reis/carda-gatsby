@@ -25,8 +25,7 @@ date: 2018-06-17T10:14:35.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "21183"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_Anne-on-tour__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_Anne-on-tour__l.jpg
@@ -45,7 +44,7 @@ Geschichten von unserem Roadtrip, der morgen losgeht.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_15647786664_de0906f5ab_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_15647786664_de0906f5ab_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAApEAABBAEEAQMDBQAAAAAAAAABAgMEEQUABhIhExQxQQdRcRUiI0Jh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAJxEAAgIABAMJAAAAAAAAAAAAAQIAEQMUMfASIdEkQVFhYnKBkbH/2gAMAwEAAhEDEQA/AKLipeTxmVgY7IZKXmJLzJdiLeLSfBfSlFVCrAoDv3P31pN5tMh1CVz8Y06qx4H5jTbwPzaSjkD17VpMHpzhHs3isrJyEdsJbgyJJDYVy5DgQrscVm/t+0H8pe2MlB/VjPgImeHCRVzXJD1HzPceKVChddqIvs3eovgowLGbGM6sF359JSJP1CxEV5+MvcWJYcaUWyFykjiU2CDTZuq0nb9ZxO58cxNdy+JffCFLjK9WUF2h2E/xi/x86lu8p8nIs4ONCiqQltplDqi4Fh+Spa7UCAOlKdWSD37aoe65CXMlGjSlF95KHlhzxhQJHqC4eVdWSj5/qNRyeHxjx1+q6ymaYKee9iamBaVksSiBLfeLAcCxxVRDgUaV9vY1Va092xITGzcjjYzC0R/AJUlZcPlkcOwgqFcU9fA0aNJFgFAeV3V98MaLh6F6XQ0iI0y3txxh6O2iQ3JfabS0+OQQRakq/wBIP41xLyQb2qvJPx0vTlB+KFlakpAUtQKuINFXZo6NGnMoygPqI+KuFB7YfaP0z//Z" />
 
 Wo genau es hingeht, erfahrt Ihr schon bald. Vielleicht klickt Ihr ja mal auf
 Instagram oder Facebook rein, dort werde ich mit Sicherheit den ein oder anderen
@@ -64,6 +63,8 @@ mal rausgehen und das Wetter genießen. :-)
 
 Bis bald!
 
-[gallery type="rectangular" link="none" size="large" ids="21187,21185,21184"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_16268398111_0de90672a2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_16268398111_0de90672a2_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_28428303502_6f5f407bbc_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_28428303502_6f5f407bbc_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_39449801602_0f849e55e5_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_39449801602_0f849e55e5_z__l.jpg"}]}
+/>
 
   

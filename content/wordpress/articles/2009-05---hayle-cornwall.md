@@ -60,7 +60,7 @@ _ [Homepage](http://www.beachside.co.uk/) Campingplatz_ _
 [Homepage](http://www.staustellbrewery.co.uk/pubs/a-z-of-pubs/80-bucket-of-blood-hayle-.html)
 Pub_
 
-[myflickr tag="annehayle2009"]
+<Gallery name="flickr/annehayle2009" />
 
 _Hier geht's zu_ [_Teil 9/17_](/2009/05/glendurgan-garden-15-05-2009-2/) ##
 England 2009 Wegweiser1. 10. Mai 2009

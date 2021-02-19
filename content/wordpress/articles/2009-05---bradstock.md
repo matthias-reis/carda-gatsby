@@ -33,7 +33,7 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 15/17
   
 ---
 
-[myflickr tag="annebradstock2009"]
+<Gallery name="flickr/annebradstock2009" />
 
 _Hier geht's zu [Teil 16/17](/2009/05/dorchester/) _ ## England 2009
 Wegweiser1. 10. Mai 2009

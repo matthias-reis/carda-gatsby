@@ -44,7 +44,7 @@ subTitle: Mit dem Boot von Bucht zu Bucht
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35805721200_5abc119465_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35805721200_5abc119465_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALBAAAgIBAwIFAgcBAAAAAAAAAQIDBBEABSESMQYTIkFhB1EVIyRxcoGi4f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EACQRAAIBAgUEAwAAAAAAAAAAAAECAwBxBAUREvAhIkHBMYGR/9oADAMBAAIRAxEAPwDmsddhXG3yfr6/rNSQYMi+4KnvkdiPtpItXEenCEb8sF0KE8qrYJH+e/zqteJPDDXqRZqDmWFcw2oHHmRH+OMkfAz+2odvU4htnzSvWZD1sp9JPv8A3/3SsxkkV+h5bgNBwQVk+OXrWqkT1WLRsxY5kVVyW44UfAHJPbnRrL2qtf3irMEZoKEKsbE+DgLnPSPufjRqUmbYO1TfT3zWqaNdx7j9a+qslL6nWrCYqo1gDAJjpcd8e51O/qjuv4hBPuFjaxUvJPGrOkKo7Ahj6wCQW9JI9/vpqobs9eMLGY0B7eWAuNL3jelNvlXJsWbDdXV0KIk5AwCXOOACdHfGtINrAaUqPL0jO4Ek3p42l512itDWfb6u3NChWMVw7FWUHDAe5B5zo159k3DcqhnxdlYN0wv0SnkIMKMj2A440a0OJmPkfgqUwsKeCbk1/9k=" />
 
 **Eines ganz besonderen Tages im Mai beschlossen wir, uns aufs Wasser zu begeben
 und den Süden von Gran Canaria zu erkunden. Auf unserem Ausflug entdeckten wir
@@ -78,7 +78,7 @@ nicht nur gerettet, er war perfektioniert worden.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35361600654_6f80d66d2b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_35361600654_6f80d66d2b_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBgcF/8QALBAAAgEDAgQCCwAAAAAAAAAAAQIDAAQFESEGEjFBQlEHFDJEYXFzkZKhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAUDAAL/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADETH/2gAMAwEAAhEDEQA/AMxhwztvyGpzhWA9ip7viDJYp1iu7bH8535VIJHzAY6UQcW3s80UMNnZvJIwVFCHVifLVhTy2pm5A2rcHNicmGJ8H6pObDuvgNWS9yebgRS+PjXm19ykIGnxDEHrXEvuJMhCCJ0sI28nhkQj8tNK5NqHkwrcdizQveX9xf5aZo0cmRwCGcjzLdACew6/y2eirD43IcT299f3ttY2trq9vb3Emkt2+4VlVtgi9tySQNqKKLQlgTvIlZisqgdm13eEtGGq+qSfUgUH7gVXsjgoow8gtmjVVJZ4J2AAG52B6de1FFT0iXAGz//Z" />
 
 Nur schweren Herzens packten wir unsere Kameras wieder in den Rucksack, um
 unsere Tour fortzusetzen. Am Kai wartete schon die nächste Fähre auf uns, die
@@ -100,7 +100,7 @@ die Fähre. Vom Fenster aus konnten wir die wunderbar geschwungene Küstenstraß
 beobachten, die uns unserem Übernachtungsort näherbrachte. Dabei ist mir noch
 der ein oder andere Schnappschuss gelungen.
 
-[myflickr tag="annepuertorico2017"]
+<Gallery name="flickr/annepuertorico2017" />
 
 ## Wegweiser Gran Canaria
 

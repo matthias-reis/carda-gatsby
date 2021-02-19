@@ -56,8 +56,7 @@ date: 2018-05-16T15:40:07.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "20872"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg
@@ -117,38 +116,51 @@ diesem wunderbaren Kurzurlaub mit Freunden auf dem Land.
 
 ## La Bestia De Gevaudan
 
-[gallery type="rectangular" size="medium" link="none" ids="20867,20866"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival__l.jpg"}]}
+/>
 
 ## Ef
 
-[gallery type="rectangular" link="none" size="medium"
-ids="20868,20869,20870,20871,20872,20873"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-18__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-18__l.jpg"}]}
+/>
 
 ## Besides
 
-[gallery type="rectangular" link="none" size="medium" ids="20875,20874"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-22__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-22__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-20__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-20__l.jpg"}]}
+/>
 
 ## Jo Quail
 
-[gallery type="rectangular" link="none" size="medium"
-ids="20880,20879,20878,20877,20876"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-28__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-28__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-27__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-27__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-26__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-26__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-25__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-25__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-23__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-23__l.jpg"}]}
+/>
 
 ## The Ills
 
-[gallery type="rectangular" link="none" size="medium" ids="20883,20882,20881"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-31__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-31__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-30__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-30__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-29__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-29__l.jpg"}]}
+/>
 
 ## As We Keep Searching
 
-[gallery type="rectangular" link="none" size="medium" ids="20886,20885,20884"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-42__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-42__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-33__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-33__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-32__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-32__l.jpg"}]}
+/>
 
 ## Russian Circles
 
-[gallery type="rectangular" link="none" size="medium"
-ids="20897,20896,20895,20894,20893,20891,20892,20890,20889,20888,20887"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-56__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-56__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-55__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-55__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-54__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-54__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-53__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-53__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-52__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-52__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-50__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-50__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-51__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-51__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-49__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-49__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-47__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-47__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-46__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-46__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-44__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_2018-05-Dunk-Festival-44__l.jpg"}]}
+/>
 
 ## Vegane Leckereien
 
-[gallery type="rectangular" link="none" size="medium" ids="20905,20906"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5353.jpeg__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5353.jpeg__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5415__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_05_IMG_5415__l.jpg"}]}
+/>
 
 ## Wegweiser DUNK!festival
 

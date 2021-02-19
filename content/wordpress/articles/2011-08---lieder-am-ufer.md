@@ -42,8 +42,7 @@ date: 2011-08-15T19:59:58.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "2334"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__l.jpg
@@ -66,8 +65,9 @@ Der Text verändert sich Grübelt, ist nachdenklich Splittert, bricht auf
 Bruchstücke der Vergangenheit verbinden sich Werden eins mit der Gegenwart
 Ergeben plötzlich einen Sinn
 
-[gallery link="none" size="medium" type="rectangular"
-ids="2339,2336,2335,2334,2325"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc1500241__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc1500241__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150027__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150027__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150024__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150024__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_pc150015__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_08_268275_238761572812646_100000364159291_838681_1743551_n__l.jpg"}]}
+/>
 
 **Musik zum Text:**
 

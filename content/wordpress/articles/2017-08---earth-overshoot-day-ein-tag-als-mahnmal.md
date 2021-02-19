@@ -26,7 +26,8 @@ date: 2017-08-02T14:50:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "17278"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_7356eaa87c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_7356eaa87c_z__l.jpg
@@ -41,7 +42,7 @@ subTitle: Wir beuten unsere Erde aus
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_EOD_GRADIENT_LOGO.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_EOD_GRADIENT_LOGO.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAYAAABp0096AAAACXBIWXMAAC4jAAAuIwF4pT92AAACq0lEQVQoz1VT30tTYRh+dSpdhCYaiGG/LT1nzWy15ib98EzS7TZKMrqIboJIObMEKwv0qNuc07Qz3JobztnWztyZ2xkEEhUk5E2R5VUE0R+yns+toIuH9/ve75zneb73e1/q9ahk96jXe2aV393ziYLgX9kQguFmIRChs4lJ6oj5as2xGb9RmTjUrkgbhvSzLX3mUcCYmiA+94B4zVnH5cUUYODzznuIg3xelDhNHMC+D5CQq+c1kbCuBMo5jUHU4d8Kcrgyt2EgBAPztoX4mCDHvF3BpcyllyHThaUACfJqlTnmLZgSrs+G1PhBQ3qU9Osjd/nc8BafHabW3FA5iOwQaQKpFQLNwAGOCWrOPRA+jz3ERcI3xVg8Y4aIHFPZH73T6RUY2IGBKZsc2+kKhFMXQ8FCW1LSWaLPCQY+nEu4Pp1WpCvtyUnc/CG7/SKvDd0CGNkJkNcwYtyuEbGJyzuPQqAOZw2I1ciz9TGsG3B+BOctWAvkmMxler1rYz0+RbO9iHfa/CvbwmLkDgz8skbkd0UDMwQDu4BQFbsFhG+AcPRUdoQZ+Ib8HAhTQBCI4Ju3iGHENcRlQIWwgvgaSAKLgAsVWP9pn067UYEv7Als8urm5eBSGvB1RGcF6/L8R0t0lkxxN131KHTmlY9Y6VGBEEz0lyrQWippGVABHAcakauHqH53nXfuA1gF9iPXjIrUsJ5gPXDT7lY9MCB1L8Tj6IFB9EAMPdDSGZHJEp1zoQLvTcr4XmNSIn3mMfHrIwMwscmM6N/cZwZ6UIFaEBtBygQP/31jrth8/8D91w/ogdIUXIOB76UpUDEBJ9kU4DnKMAVkXvU6TAn3FqbgK6ZgG1Pgb1OfElecgmqQhYF+kD8BeR9EzcwAblmJqMNZOQObgCJ296xaZX8AZV13emaL3JYAAAAASUVORK5CYII=" />
 
 **Die Menschheit lebt, als hätte sie 1,7 Erden zur Verfügung. Am heutigen Earth
 Overshoot Day überschreitet die globale Nachfrage nach Ressourcen die
@@ -82,7 +83,7 @@ Mit Großbritannien wären es 3,0.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_How_many_earths_2017_german__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_How_many_earths_2017_german__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABMDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQEDCP/EACkQAAECBQMDAwUAAAAAAAAAAAECAwAEERIhBRMxQVFhBhRxIiMkQmL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAZEQEBAQEBAQAAAAAAAAAAAAABABECEkH/2gAMAwEAAhEDEQA/AOktp5+cd+8+2kOGgSvFBTzFQ/q4Zm3WA3PqsWUXB/mhUK8fzF01cZxZJ+rcUElSOnbn5hakUA+sBgD8lw1CU14e61rD1suzHCb9Lf8Ac6dLPWLRegG1ZqofJgiVBAtSgSrgM0+EgAXKBoByKZMLmkM73qyYWlVdh1xZokdS4nJp579IYGNxM28pxhTab1WqK7qjGQAMV7GNelS+zNzjhl1NLccNHC5duJuJBt/XmL8h0eka2gjGfEESd//Z" />
 
 Es ist also besonders wichtig, dass die großen Industrienationen anfangen, sich
 mit der Thematik auseinanderzusetzen und drastische Veränderungen einleiten.
@@ -159,7 +160,7 @@ Veränderungen sind dringend notwendig und das am besten gestern.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Food-Infographic-EN-medium__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Food-Infographic-EN-medium__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYD/8QAKRAAAQMDBAECBwEAAAAAAAAAAgEDBAUGEQASITETUWEHFCMyQUORof/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EACIRAAECBgEFAAAAAAAAAAAAAAEAAgMEERIUIRUxcYGhsf/aAAwDAQACEQMRAD8AqxpsCErjp0i4m2CNGQVY6CS57ElIlTPXXvrZy3qQWEct29kUePox21TP91TVmJU6pSHILlBbjs+byZCobiU85XCE1ynfKa2pci44cJqNFo8R9toUEVkTwZJB/H6l3f51qYMuerB6WjkJkbDyi7guKTb9Mal16dSokb5smmyQpmSdQVJRHYOVT7u/TRdDvV+qSJSUqpUJ0mRBDGQdRAhRVLbwQ4yuC69NUV/WY/clDbiMpAJW5yyEF8iRERRNFxwu0sqvOirL+HEmkS6mpsUwfN48CCk4Q4U+CLb78JpcmGDaWOr4oiEsS28RG9t1+L//2Q==" />
 
 ## Kann ich meinen persönlichen Overshoot berechnen?
 

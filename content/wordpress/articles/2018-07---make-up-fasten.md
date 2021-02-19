@@ -41,8 +41,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Unterminated JSX contents (107:16)"
+  invalidMdx: "unknown: Unterminated JSX contents (109:16)"
 thumbnailId: "21456"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Ungeschminkt.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Ungeschminkt.png__l.jpg
@@ -51,7 +50,7 @@ subTitle: Einfach mal auf Schminke verzichten
   
 ---
 
-## unknown: Unterminated JSX contents (107:16)
+## unknown: Unterminated JSX contents (109:16)
 
 <!--
 _Produktplatzierung\*_
@@ -66,7 +65,7 @@ Inzwischen macht mir das richtig Spaß.**
   title="Ungeschminkt auf Fototour"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-08__335__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-08__335__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgID/8QALBAAAQMCBQQBAgcAAAAAAAAAAQIDBAURAAYSITEHEyJRQRRxMmGBkaGxwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBjpXTqzQ3UZeromPtl2zSGJLjbrLduEm34dW+ni/rHln7pBlaHCRV6dEqMaYmSG1R5DvcL61L2WpSjsLnf3fDlD6rPpo8WTC+hdcdWsrZQ1ocQoEXB7jmk3uLEEfvjiH1Bn5oNSZao8+odmQFixaCG7C6UAagTYoJHPP2wEYrhIrk0obQ+nWEJ8whKQBYBPsfb/cGNTnCDSotRSiFMS0ogqdjISpwNLKjtcfPFxc8YMBq+ltTyHCjFDhjxJKdBUt5sFbhAt4A33uTbxv8AJwhkV2iUGVm5ivVFsiROH06JClI8ELd8yUg+R4ttt+RxGqbNYZ7esak/O3z8H37/AIw+qpuTIyXpUp5+Q2eykaQQGhtckck/3ycBSs/52Q3OjN5ZkR30Bsl5wRwU7qOlIBHIHPu+DE7plVVTVvojy1NlZSpRAsTtx+lzgwH/2Q==" />
 
 Besonders gut klappt das bei mir im Urlaub, oder wenn ich, wie im Moment, eine
 Weile Homeoffice mache. Bei uns im Büro stiegen die Temperaturen in den letzten
@@ -106,7 +105,7 @@ funktioniert natürlich auch mit Eurem liebsten milden Toner.
   title="Morgenroutine"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_28766720927_7a6f2ae10b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_28766720927_7a6f2ae10b_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAwUG/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURAAYhEhMxB1EUQWGBFSIjJFJz8P/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAIREAAQQBBAMBAAAAAAAAAAAAAQACBBESAyFRsSIxofD/2gAMAwEAAhEDEQA/AElRW7uU8cncCfmLKvScoP49WeB9NUBs7adlod6bgtQt8DYp4alDURrUdOGKMAXyRkkHHjgaUPpnQw1O/bbDcY6aeGaRy6sCULdtjypODjVEUdBSWfcdL+G0MKPUJKjiJQhIChv8NNSH4+ICzYWlnbyb3/d/FxPq/tKKOy0cG37DG80tQzzNQ25C/SqHAPSvGS2efbSAulvltc86VdMYpqc9hknjKPG2M8/Pq59tWlO8clekciSKxHAJwCPsdSDvqoFVui81YmjX97PIMf2MADznwNRovsYlWksxfkD72WT0/ulJbt1Wysr5hHSxSMXZgf01KMMdXJxyPlp8LvWyT11vuNJcKdqejMncw/TkOvTwWx48+Ppo0aDKcaBCYhNFkVz0to27KBty19PUXSjhiipIZVb4lUBYtJlSSeTgKfuPfUsXKeWpqKieSGSNp5TI+WYZBJOjRoui2gl5DySL5K//2Q==" />
 
 Doch zurück zur Morgenroutine in der Make-up-Fastenzeit. Im Anschluss an den
 Toner kommt mein Aloe Vera Serum "pure refining" zum Einsatz. Im Gegensatz zur
@@ -132,7 +131,7 @@ Hautalterung.
   title="Ungeschminkt Katzen kraulen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_27262648097_415a4fbb14_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_27262648097_415a4fbb14_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgIDBAUHCP/EACsQAAEEAQQBAwIHAQAAAAAAAAECAwQRBQAGEiExBxNBIlEUIzJhscHR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRIRIi/9oADAMBAAIRAxEAPwBmfvqE68/jX4slmM8370d11hQW2r3FcSpKSaSR4I8dg61/amVZym08bOYZS0l9hKuCAeKT4IAP7g65I29uZpE1b24kysi41BMWIsvUEkLBSHT+pSUi6o2PHjWg7d9TSYzEUKjsvMMkNpfWpqMkJ5KUshBtbirFD5P2GpXrIPJUrgjCZfeteZn4uZAkwJy222XbU2lkflOAHguyOyQpXX20MR/XLc7TDbYiYhYQkJ5KiC1UPJ70D7y3bOzXJl5+O9HQrklxiOWAuhQPEknoGu++u9Nx5bH4dqoqK4ir8+NKiYOwrGUn5kJO25T2SYx8N6O/OcSCW+YQlJ+fqVQNf7V6KXvSjNR8q/DlT8Q2y0psCSJXTyVkdtpIskAk0auutL2vOwmRyD83LR2ETm6AbF8FKAoOEf1oqyefhuR1RXHA5dITxQKQAPAv+dE9rg4IiVoRpgPu5OFk7hZbw2KRCgx0loKNhb5R9NrF1y6sn5OqhWKPI8HFhN9AfA1ZZWVCd95bBDa0H3ALu7V/h1E94/8AHSV7kzZnrZ//2Q==" />
 
 Abends wasche ich mein Gesicht mit lauwarmem Wasser, sprühe erneut den Toner auf
 und lege mich ins Bett. Das wars auch schon. Mühsames Abschminken fällt
@@ -159,7 +158,7 @@ noch viele weitere tolle Effekte, die Ihr feststellen werdet:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875_847d66c8d1_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_42751807875_847d66c8d1_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBQYH/8QAKBAAAgEDAwMDBQEAAAAAAAAAAQIDBAURABIhBhMxB0GBIiNRYXGx/8QAFwEBAAMAAAAAAAAAAAAAAAAABAIDBf/EACURAAECBAQHAAAAAAAAAAAAAAEAAgMEERIxQXHwBRMUITJR8f/aAAwDAQACEQMRAD8Ax/o8qydaWZrpDT1VrrC1IVnjDIZHJVCyvnkNtAI/mmMrekrFQxy1U1hsAMQMj7bbHk45PJH60rfTl8NJW0FxNCmaerE0EaOSY1T8KfHgn201HqVeI4emLvNTli4ppGVWVlJJQkfHI502bHiQcVkcMe62IHNw03kkwvK1LXasn7SyTyOZkMeMoGyQFUjO0c8DjRqYmKjrRHtmNZI577qd/GM8A5b/ADRpFgOdELnEAVaDqPqkqLbEYZzDCu3YCwmmBZnJxxgccfs67p1v1/arp6TU8cFeZLjPQw0z03ZZWWT6VYtkYC8HnPPtpeJK2FZY2DOcTIzxCQMSB74J84Gf7re9RXGyV9via23GmBaPaUb7eBnwVPn2+c6JMxBUABPkoL7XAmpO/axEUcizt24XWnQkSSjjY3jIIyfjxo1XVkryCWOnPcXG19khUfKnz40amItBgq+nuPd1F//Z" />
 
 <ul>
     <li>
@@ -169,7 +168,9 @@ möchte: Versucht es! Es lohnt sich! Vielleicht steht in Kürze eine längere
 Autofahrt an? Ein Urlaub? Oder sitzt Ihr auch im Heat Office und wünscht Euch
 eine Abkühlung: Worauf wartet Ihr noch?
 
-[gallery link="none" size="medium" columns="2" ids="21453,21467,21454,21468"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_42751805685_6a21934b1b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_42751805685_6a21934b1b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__364__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__364__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_29785098038_64b8f03ef5_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_29785098038_64b8f03ef5_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__376__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_07_17-09-10__376__l.jpg"}]}
+/>
 
 - _Hinweis: Dieser Beitrag enthält Produktplatzierungen/Werbung. Der Inhalt und
   meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

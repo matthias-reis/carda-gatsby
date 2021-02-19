@@ -27,7 +27,8 @@ date: 2013-05-25T05:52:36.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "5467"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_5387-e1590413497594__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_5387-e1590413497594__l.jpg
@@ -66,7 +67,7 @@ Mit intergalaktischen Grüßen
   title="Das Handtuch ist gehisst! Seht, wie schön es von der Sonne beleuchtet wird!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYIB//EAC4QAAEDAwMCBAQHAAAAAAAAAAECAxEABBIFITEGEwciMlEUFRYzQVNxcoGRof/EABgBAAIDAAAAAAAAAAAAAAAAAAIGAQMF/8QAHxEAAQQDAQADAAAAAAAAAAAAAQACAxEEBSESMVFS/9oADAMBAAIRAxEAPwC8aj4hP/WqUWl2oWq8NirBO6BPqgATPNTWoeI7tlcNBC2nWlpJzEFKoMbGTNcMu9Snqy1ubu5UlIQ2tTikBwiAYkEGeAODHttTnUGs/G3jTrd23cJCcQtKFJIE7BQUAJ53SBP41DcmxZT7Bp4p2xkt557xaR6T63t9auFMu9tpQRlllAO4FFZ10TWXWtRvSh2IHqEfmCigdkNv4S/sdY2KctZwKrWmoLPUdo4ACop7eIGfIUIiDPPEUrqB160cZRcO26zgSOyyGwnfgwkAn9JqssOn51bfaUmUnzbJMTv/AJ/dP9RXGZtsSpXkUMnI7p3HqjaPb+aqDKbSYsPP8BlfmlI2GpgXl6sKKguIJ9swZoqA00qycKthiDv+4UUBjJ6sfZTeprP0v//Z" />
 
 [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)
 

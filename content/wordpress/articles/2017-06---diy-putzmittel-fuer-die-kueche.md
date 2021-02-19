@@ -34,8 +34,7 @@ date: 2017-06-22T08:17:58.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "16905"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35281714012_dd226cbdf4_k1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_35281714012_dd226cbdf4_k1__l.jpg
@@ -52,7 +51,7 @@ _Produktplatzierung / selbst gekauft\*_
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35061369660_961475a666_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35061369660_961475a666_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgH/xAAsEAABBAAFAwMCBwAAAAAAAAABAgMEEQAFEiExBiJBE1FxFEIVMmGCkaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIDBf/EACgRAAEDAgQEBwAAAAAAAAAAAAIAAREDBBIhMVEFIiPwYXGBkaHB8f/aAAwDAQACEQMRAD8AQ646kn5TlUiRljC2pTag0X32lFLQNjt5BJ2JJrng4zfR7ecIzrMWOo35kfM5zWuOZTult4ghS0j7b00ffnGyzPJh1DlEphx9RYYIccKV2XVlKdrqubA+DjjwjRumiJERC2YTTfa+S5oUCgBwd3PG40nEuHTxKby4Bqz0y1ifDvvdUYoiwHIH1Ko5zFLabW02VDTqIuxtwR/eJwjLj/ipkzPq16FH0ULJuiDZsV/vOE057GeWxKGWuyVxwUlTYKQAN7rV7XdnDWV5/KzhcnMGyGYSi4m3mEhKaGwJ81t5Pn4xi/Lm/wBbt5/CO1UDiM3TeUPuFsNF0pZWlBQ24QSBp0g0DQvu/nE/rRKo3TE/0UoWp5sNL0iuFJINftxPekgR0vhp5ptqkC06UoTvpAvcnc2f1wHPpj2YdPy2IDS3Ja0akpTR1bj4rHQpg50vdD4oYhduLvrGnolF51MdywSYkRDDLLa/TLhsAoCbFrNfl8DfYYn9A5hFmRH2kxyAUuKkTSb9MKoUE1zXsTz4wAzM/dbjKnZO0oMgMBtUXtS2e0qsfdRvVfjfABClsolQOnSlED1dlB6zd2e5I3B288YKQGzSm07cZxT+L//Z" />
 
 **Seit ungefähr zwei Jahren stelle ich jetzt das Putzmittel für unsere Küche
 selbst her. Und ich möchte mal behaupten: In unseren Fliesen kann man sich
@@ -87,8 +86,9 @@ Keine Angst vor Putzstreifen: Sollte das Natron mal leichte, weiße Schlieren au
 den Flächen hinterlassen, ist das kein Grund zur Panik: Einfach noch mal mit
 einem feuchten Lappen drüberwischen, dann ist alles blitzeblank.
 
-[gallery type="rectangular" size="large" link="none"
-ids="16899,16897,16895,16894,16905"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_35281716922_ff3eab9f48_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_35281716922_ff3eab9f48_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_35061369660_961475a666_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_35061369660_961475a666_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_34638604673_34d822fbab_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_34638604673_34d822fbab_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_34638603073_f20c615602_k__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_34638603073_f20c615602_k__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_35281714012_dd226cbdf4_k1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_35281714012_dd226cbdf4_k1__l.jpg"}]}
+/>
 
 Merken
 

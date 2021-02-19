@@ -63,7 +63,7 @@ Weltkatzentag. Den sollte man feiern. Liegend auf dem Sofa.
   title="Tiefe, innige, ehrliche Liebe. Und dann erst mal den Blumentopf leer schaufeln. So süß. ♥ Anne Reko 8/2012"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_931cda54e0ad11e1b18c12313d051969_7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_931cda54e0ad11e1b18c12313d051969_7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBwT/xAAtEAABBAEDAgQFBQEAAAAAAAABAgMEBREABhIHIRMiMUEUMlFhcRUWI1KRwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDZJm3GZVhYynNx7niNl5S1JRbFtlsq7YSMeVI9hnAOl3dFQirrlMRd8bxdmlooZbbsW3CCSSFKPAHsT/bOABpqv7iPR1G4JkxgPttMrX4JGQ4e/l9D65A1D1xuSxluLcdeLTq1koQk+VAz2SPsP+aCg2N5WT6l16r21YsmHEBbyZaVpWtCR6JHbCsHKfqo6I7Z6mNTt3QK1M+6S47MCfAdcDiDzVx4n3KRyGDntx/Op76fX9rW2jKYrT0w8yr4dCeQVn5jjHb86bNouxZfV+nkVsB5sOWEZbqHSClg+KkqCTn19O350Fd2NTGnsSY8lpLjL4UlxBHzA+oOp3n7GoY/UWypYu36pnbUBUd6VZ2ch1KW3vDUVNJXnzghQ/jBGCnORqm1rCOaiCcZOAMk6xXqpTfu/acaJCi3zVgXlyUNphLQ2XFEgrd5Adh3xg5+xzoA1HsbpVMYkwqK3MmShtSnlsWTiDxP2BA4j6ZPtnOlvaG1tu0W/aiJT2z1o4LCO5zUUrSkhXsR2znPp311UfTCRVRcLr7KbIKeKnHI6gMfQJAwB/uitLtS1j7rpH/0ee00zOYWpfw60pSkLBJPbsMaD//Z" />
 
 In der Nacht vom Urlaub geträumt. Wäre schön, wenn das mit der Woche im Süden
 dieses Jahr noch klappt. Ich sehne mich nach der Sonne.

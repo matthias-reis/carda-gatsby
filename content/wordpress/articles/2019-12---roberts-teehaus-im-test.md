@@ -84,7 +84,7 @@ meinem Paket purzelten
   title="Meine Lieblingssorte von Roberts Teehaus"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-17-roberts-teehaus-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAcIAQUG/8QAKRAAAgEDAgYCAQUAAAAAAAAAAQIDAAQRBSEGBxIxQWETIggyUVJxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAERIhQQMTUf/aAAwDAQACEQMRAD8Am9UMEdrLLG3Q3SC3jp7NVEWfAellI5U0vQ0jdsIHLsT6wFqf5Y4xpsTSSCQzZRV6sAHq3wPQ8n9xVRcutWt5uCNKvZYy85WMiQAFgwRcjf2DWYr7GAJqN2fGhYC4pucugx6a2kx2VrYI+ZGcWkXxdagIwwfOzHc70sJYsBjGjCRAcZ+yyJ3OSPIBp1/kbdRSHSZ7R36C7plcbEKMYx3H1FJQyK5O7/zHSSN8DI/rxVhCtj5BZtUx7qZYRLADGFLn6jI/T79Ux+A+YcfDmhW1jeykJ87HC2yyhUPY77jBYjAooqVfFwgc9XNNzK40t+KHtbaBp5Y4Zi4mlQIvSVxhV79ye9cVPIiooyAykg4AOR6/yiimIueIDNoz/9k=" />
 
 "Silbernadeltee" ("Bai Hao Yinzhen"), "Gyokuro Asahi", "Rooibos Super Grande
 Long Cut", "Ti Kuan Yin", "Java Red Tea", "Cui Lu" und "Jasmin Pearls".
@@ -144,7 +144,8 @@ er rötlich-braun.
 Red Tea""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-4__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_11_Design-ohne-Titel-4__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwT/xAAqEAABBAEDBAAFBQAAAAAAAAABAgMEEQUAEiEGBxMxFSIjMlFhcYKRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAhEQACAQQCAgMAAAAAAAAAAAABAgADBBEhEvExYVGRsf/aAAwDAQACEQMRAD8AieOxeT6pp3FwEFhg7T9RKaUeeSSLNAehp2wXbiWyuPJmPsRXRYUlH1b4PHFVx+usOxwbc+Iw33VbFOoUDdEApUAa/jqtZOOxiE4uRGSVnzjy2q9wraR79fMdIvQc0yF0g199xlHQMAcliM+tdRFndFRImNmS25K3JJoBZaCUkUQEcnnmv71Nm8CthLzk1sOLRaUNpIAJq/8AfROr33LSzJ6GOxxcFDbgPk4QEi0gWfxz70hYTBM4jFOxS8l2asrcStSiop3JH2q1OuibNyit5x8/sIrCuobESO2GQi456VKfeUSWwgt7SBYVYFgGyef2079R9x8c3C8TEV1yRQUhs7gLsWFKPoVZsD3o0ao8maqaROuoFSFUOBsRdPcaVkIisfPhtIiOtBpbq3lOq+4EklXAHH4OuvJdSMS9tgIlLWpTJBIAoAp4qyNGjS15bJzB9GatVs5zP//Z"
+/>
 
 "Göttin der Barmherzigkeit" lautet die Übersetzung für "Ti Kuan Yin". Der
 geröstete und handgerollte Oolong-Tee stammt aus der chinesischen Küstenprovinz
@@ -190,7 +191,7 @@ Mit dem Gutscheincode WEIHNACHTEN erhalten meine Leser\*innen bis zum 26
 Dezember 19 **20 Prozent Rabatt**
 [auf alle Produkte im Roberts Teehaus Onlineshop](https://www.adcell.de/promotion/click/promoId/207071/slotId/80259).
 
-[glry name="robertsteehaus"]
+<Gallery name="glryrobertsteehaus" />
 
 Hat Euch mein Testbericht gefallen? Wenn Ihr in Zukunft nichts auf meinem Blog
 verpassen möchtet, [abonniert gerne meinen Newsletter](#newsletter), dann halte

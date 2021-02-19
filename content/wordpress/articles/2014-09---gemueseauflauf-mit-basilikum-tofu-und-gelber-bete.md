@@ -36,7 +36,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "8780"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__l.jpg
@@ -82,7 +82,9 @@ auf den Tisch bringen. Dabei heraus kam ein schmackhafter
 Die gelbe Bete, die Kartoffeln, die Zucchini, die Tomaten und das Tofu in ca.
 1/2 cm dicke Scheiben schneiden und alles schön in einer Backform aufschichten.
 
-[gallery link="none" type="square" ids="8761,8765,8762,8763,8768,8767"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-21__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-21__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-31__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-31__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-41__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-41__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-8__l.jpg"}]}
+/>
 
 Das Ganze ordentlich mit Meersalz, Pfeffer, Chili und was der Gewürzschrank
 sonst noch so bietet, würzen und mit Jamie Oliver Gewürz (Olivenöl) und
@@ -90,15 +92,18 @@ reichlich Limettensaft übergießen. Die Limetten drücke ich immer einfach dire
 mit den Händen aus. Ich habe noch etwas Vit B12 Bierhefe, einen Rest veganen
 Pizzaschmelz und ein paar zerstampfte Mandeln darüber gegeben.
 
-[gallery type="square" ids="8770,8772,8769,8773,8774,8775"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-111__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-111__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-14-e1409742159362__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-14-e1409742159362__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-15__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-16__l.jpg"}]}
+/>
 
 &nbsp;
 
 Bei 180 Grad ca. 35 Minuten im Ofen garen und im Anschluss auf die Teller
 dekorieren.
 
-[gallery columns="4" size="tall" link="none" type="rectangular"
-ids="8776,8777,8778,8780"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-18__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-18__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-19__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-19__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_09_gemc3bcseauflauf-211__l.jpg"}]}
+/>
 
 Dazu passt hervorragend ein saftiger Gurkensalat.
 

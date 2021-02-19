@@ -73,7 +73,7 @@ subTitle: <span class="s1">„Wir möchten Gutes tun und keinen Benz kaufen“</
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028076_7be27a02bd_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028076_7be27a02bd_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURAAYhMRITQQcUIlEjYaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAIhEAAgEDAgcAAAAAAAAAAAAAAQIAAxEhBBITIjEyQXGR/9oADAMBAAIRAxEAPwCFRb2oYvohedu11fUyX6oqC8JZXYsnsjYZkPA4VhjOsLMktVMyRRySsvPHPiM4zx8atV02/uinrJaaayTxyo7KyAGQDB55XIxx30dIorbUUlNNNJ9zC8tP+DoCq59nIz0QMZ770b3GIqoD1nCK0VshIWkyf20gX/M6lUlnlqauOkYQxO04hkUP+SjxDE4+eP7708q4rhb0M8UXrESozfcwMp5Rcurdckk47xzp3abPcbXvL3323RylY5GloSHHs/jKjH75HkOSDg6zLfY/C5rTQtwbxsF1nkqrxaJaeWskVXq6WbzkjCqAqKhCr4YU8HPeedPbPu/acNLQUguXqo7armhgqqJ1VGfIPkR5Bh4s/fyQdGjRKeRiQUtZUNt2fcd1V22/e7UttqrtZai3fcwTnxrV8iEVEA8GIOMKOD3z8aqf1Aq7jdt0S1FiutukpYp1CpcFjhWP8iQI2PaAR5J4wZMfOjRpAgbulNTUsrLtxP/Z" />
 
 **Was genau [Vonig](/2017/04/veganer-honig-vegablum/) ist und wie der
 [vegane Honig](/2014/10/honig-das-ist-jetzt-aber-wirklich-ubertrieben-oder/)
@@ -105,7 +105,7 @@ Woran arbeitest Du gerade?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33978181982_8939f846ae_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33978181982_8939f846ae_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAApEAACAgEDAwMDBQAAAAAAAAABAgMEEQAFBhIhQQcTMSJRYRSBkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACMQMRIUH/2gAMAwEAAhEDEQA/AE3LuC0NxiTc6tqP3HQqaz2QwjPUcdPjBHg57+dTUfHIq1yWzcaK1I0fS6yygKQMfOAPCj+NdN5lwKpzrccmGCDcDR/TUpTVeKMRhlYP7YY/ViUDOSPn7ahKcti1xzeKrQVtm3MVYhVsQQ4MgZ2RmLE56CsbDqXPfI1KwdbHVRyQm/LX2uFpYGV5lbqiKscAFwe4P+YH50ph3zpsxO5kMIJMiLM49zsfue37apIOG16bNJuVmlcmYfUJpTHhsdhnPde4OcA/jWeH0t5FdWnLtNVtyrXIzNBJSjeZSgcqcsFADKexBxjI8HWqmRWPvUcbf6zb/tj3W26htMUluX3nkkSWVgcfCgv0gZ74AxnS236scovTNNuNra7LnIVp9qruUXKnpTKfSuRnA7ZyfOjRqhx1FQ2Tb2fVmKz6k8hmKZ3MRBO6CvRgiC5+cdKDS+Tlu/W3maTfd2KSjDqLboG8HKqQP60aNIAyF9n/2Q==" />
 
 <p class="p1"> __
 
@@ -137,7 +137,7 @@ gleich an unseren Ständen darüber aufklären und zum Nachdenken anregen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33324281293_352b7c52fa_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_33324281293_352b7c52fa_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAIBAwQBBAEEAwAAAAAAAAECAwQFEQAGEiExEyJBYSMHCBVRUmLC/8QAFgEBAQEAAAAAAAAAAAAAAAAABQQG/8QAJBEAAQIEBQUAAAAAAAAAAAAAAQACAwQRIRIiMjPwQVFhgaH/2gAMAwEAAhEDEQA/AJzWbbssCicWyihhdUnBkqD1HInpofc3gTZJPXXnrTHtGQbTiqb1tmFKaWb8UpX88LJ6imMcSMBuWOw3yBjvOsy32y71BNKlRQU8auzcqajj7WoXLJ6hD8SiEkDOVH+x00R7R/i6KK77sucMcchykt1qiHUlioeOEeWCrG+AOWQBjB0eXOpQG6SLBiBpb1b6kSbadLerwZIp4IJ6iUoy0/tp0bi7Fmbvj2Av2Tot227esTSVVbPROKNqsRzBSWIGVUL02G6w33/Wmiq3/ZLPGKHZ1BJUcQEFwuqK5GBgFIAOOfnLg9/GlSe8VW4DSo8hkr7zXcWcKAWXljOB9KBgfGkoEF7m5jRHRo7GPyBVr9Do0rdhc6xVqHgt8XpNKOZj/I49ufHSqOv8R/WoHvC411y3ld5LjWVNXJHUMiPPK0hVc+ASeh9aNGjpLcPOpV85tt52WVkhhgnz/wA6s37dKSmqZUeop4ZXjjXg0iBivuPjPjRo1oJbVzwgZjSv/9k=" />
 
 **Anne:** Du lebst seit vier Jahren vegan. Vor Kurzem war Dein Jubiläum.
 Herzlichen Glückwunsch dazu! Wie kam es bei Dir zu der Umstellung? Was war der
@@ -211,7 +211,7 @@ so eine große Faszination auf viele Menschen ausübt?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028806_d6a53428d0_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34095028806_d6a53428d0_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAAAAYHAQMEBQj/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREABiESEzEHFCJRQTJhcYHB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQIF/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACIQMRMQQSIjJBYZHw/9oADAMBAAIRAxEAPwCKxsZzb6B7le6unrJ1nlqIugMsASN2Vchvk7MgH18h+dWNsen9xuG+FtK9kyREs08k5EGAmSA+OSSekfvnVLJvy5vIkV0io69Q3SXkj7UoH4+aYz/YOn/bm7No0l/t10r6Gv8AcwSAtE4QxFgDhg2ODk+OAeM/esjd3ao51C3B1j5j72o03Rs68wbnlpore8UQJL1KuWgwpwzlhwFzgZOMn+daCxyRpX06XKCsEZBJKu/ODnOAQcAA8g8eddKVNlsm5vTi1ESxLuG9TpEauKqaT2zs8kpWWNZAD0RIRgrgYz50iUO1LbZX3bLetwRPU2J+3Ty08YkilYI7OrKw6j8nCEBhhs+dVZwEohDTLZUO0ZPv/J/UP90xNz5550aNMswuLqOoLEBMDiSE9uRCGVk4IIPBB0w0MslTsiv9xI8vTchjuMWx1ctjP2eT9nRo0OrgJihkr//Z" />
 
 **Danny:** Ich weiß nicht, ob es auf den Märkten wirklich so zugeht, wie zu
 früheren Zeiten. Dort herrscht einfach eine entspannte Atmosphäre. Es gibt viele
@@ -254,7 +254,7 @@ Zeit!
   title="Tierschutz ist Danny besonders wichtig"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_tierschutz_d8da7c37a49754d9f1c4d3d3711e80db__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_tierschutz_d8da7c37a49754d9f1c4d3d3711e80db__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAYFB//EACcQAAIBAwQBBAIDAAAAAAAAAAECAwQFEQASITEGExRBUQcjJGFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABoRAAIDAQEAAAAAAAAAAAAAAAACAREhEnH/2gAMAwEAAhEDEQA/AA1Xldu9vJaKZoFukytFAsZBaKRlIUnrBzg41G2GO/1VukuVyppagUsLPUTyQ5ESp8uQNueOz3/us2+W2tuXkVDVyS0s6RP6n66cRPjsbyMbjq0tnkNztdnrLZTt/DrY1MtMQMI/2v8ARHBU8EaxdqtRYPRdD5Ze/HJ6mhpUoGEYDo0cMUm19uQNxU5bnvOB1qyT8w3R/E5zP7WjuZ2oiwRAzoCeZVU5RgvGQflj9a5YspQH3HqypnIDPnnHzznoaFcJUnRJy0gmiXGWRW2gcBkAwMgEcHv71JJ3BVnT/9k=" />
 
 **Danny:** _Blutengel_ , aber musiktechnisch höre ich von Rock über Gothic sehr
 viel.
@@ -295,7 +295,7 @@ Produkte geben?
   title="Danny, Stephan und Heino - Die fleißigen Blümchen von Vegablum"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_die-fleissigen-bluemchen_8177f6dec4fedcb72de3a52aad62321d__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_die-fleissigen-bluemchen_8177f6dec4fedcb72de3a52aad62321d__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQFB//EACgQAAEDAgYBAwUAAAAAAAAAAAECAxEEBQAGBxIhMRQTFUEiI2Fxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAECBf/EABsRAAICAwEAAAAAAAAAAAAAAAECABEDBCEx/9oADAMBAAIRAxEAPwBFnS835rURPiX+qt1amuTQsUFQ0vxnGyz6gcAQCSkqGwrggE9iDh/q3V3tvK1s9qU/R+U82itfpgPUYQQJInBCt1Iq2bhUsOhpaGd7aFpSdwjoz3HUj9xim56k+jb7W5bqjzVPMEvN1LZHIX2Y4Pz/AAfnGYN1aIowbYRq55E2i9RdHsvPt3K4ru7TSz49U8n7hEkbVGBuPEyOIIxz7Kd1zVR5rofenLo/errWOrUhalmmaYbcUhTaGwdqBG2CobjKSDziw6oVSQwqkShtSZCmwkhJkQYjqPg40rTqaPrSKZL9bU1AbZciNgJSCFKieOepmexhTfQimBEgZkvk/9k=" />
 
 **Danny:** Es gibt außerdem auch noch Fruchtaufstrich aus unserem Apfelsaft. Wir
 wollen ein umfassendes Sortiment anbieten. Das schließt auch mit ein, dass wir

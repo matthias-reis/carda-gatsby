@@ -28,8 +28,7 @@ date: 2017-08-18T15:00:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "17659"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Handabdruck3.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Handabdruck3.png__l.jpg
@@ -91,7 +90,8 @@ dieses Projekt werde ich demnächst berichten.
 
 Artwork und Logo: [Annette Jakobs](http://www.annettejacobs.com)
 
-[gallery columns="2" link="none" size="large" type="rectangular"
-ids="17657,17658"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_Handabdruck-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_Handabdruck-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_Handabdruck.png__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_Handabdruck.png__l.jpg"}]}
+/>
 
   

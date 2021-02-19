@@ -59,7 +59,7 @@ ein möglichst vollständiges Bild der Lage zu zeichnen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_soap-dispenser-2337697_640__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_soap-dispenser-2337697_640__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQADBwb/xAAoEAABAwMDAwMFAAAAAAAAAAABAgMEAAURBhIhBzFRExRhFUFxgZH/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQME/8QAHREAAgIBBQAAAAAAAAAAAAAAAAECAxESITFBYf/aAAwDAQACEQMRAD8Af0b0q01ZWy623OkOucqU/KOOfhASKdjdO9KMMekzaS0NgSjbLeAOO2TuOPzg0lbZnqNIweMdqZipU84hOeMgZ8Vkai3wXq6xLCk9vTk2pek8GTq61WtqDJbYlMOS3H2roHAlppSAvCVMhRJ3pwM55Pim+nOiW7e9piRbw19NgOTpLyyrK1uutpSg/pAIOef7XrbzpOLO1xA1E88tYjxPbmMUZBUlWUOBQPBGfB80ML4nR0nUzbseXKhlTBipCUt9mcuY7BXJPIHPb7U4pJhnbOeNTyG6VkOOMtBR7gV0W1pACT81VUawyMFuLE5DaVkILgBFb3mOzKt8xEhltxIjubdyAdvGOM9qqqdXZEj/2Q==" />
 
 Laut Online-Enzyklopädie bezeichnet man als Mikroplastik kleine
 Kunststoffteilchen mit einer Größe von unter fünf Millimetern Durchmesser. Das
@@ -114,7 +114,7 @@ Sandra Schötter, Meeresbiologin bei Greenpeace berichtete gegenüber ARD:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_safety-net-3289548_640__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_safety-net-3289548_640__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcC/8QAKhAAAgEDAgYBAwUAAAAAAAAAAQIDBAURACEGEhMxQWEiFCOhMkJRwfD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAE/8QAIREAAgIABQUAAAAAAAAAAAAAAREAAgMEITHwEhNBkaH/2gAMAwEAAhEDEQA/AGoVEMluauhqI5aZf1EHDJtn5DxqkruJoKOSISrlZCezYIAOxwR522/OkytuQoXlo/qqkdRgsE0tOVBz4ceNvH9a5d3knqLbc6WOOq7q0cqMJVO+QTkD8fxnQ71yGZ1Uy2CCk36+azZuHIILmsUa3aJknQO9KkakqpYD5PjZ/IGdvedRL9Si13moo0fnVCCjN3ZSMj/etZBS18VguHVhrK1JyqrCUj+LLnJyDsSCCO/vTnYOMLjBQE1P01xpySSamIM+CckD9o77aOHmEST5mx8kCemh25vJHENlppJDC4BiESVEYxkxB8AqpJ9Nv7xjbWUXeoks9TU0sfLLFAGA5x3KrnPrudGjRNQW+axVvaqI5oZYcOu1Rw8TOzTQrN0enKxbHUbIIPgj1ps6X2UkHIlOZPnBGvKMHAwp8YO++e57aNGpWClWSA5//9k=" />
 
 Die festen Kunststoffe werden also zwar inzwischen nach und nach durch Stoffe
 ersetzt, die sich schneller auflösen (z. B. Carnaubawachs, Reiswachs,

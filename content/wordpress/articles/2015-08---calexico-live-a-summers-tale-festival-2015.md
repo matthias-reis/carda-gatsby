@@ -48,7 +48,7 @@ es ist kein Traum.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_20539667646_20c509de4d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgUI/8QAKhAAAQMCBQQBBAMAAAAAAAAAAQIDBAURABITITEGByJBFBVCUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ao0SqUJjqCh9OIgfOdqesS60tK9ANixK97gX22tbC/cjpxhtuGELdGVR0/IlIBHtJNjv75/eIR2YrctnrumvOtTtNLmi4uInWLylZgEki2y1W9hPjc8Y9FdxHpZRTtenyI7aypOZbiCRYE2IST/pwCXblxpXT8Vh9lSGoS3WlulSQ2vMsqGXe49ixHI2vjMd7JkRrp2TR23lfLcQmSxlQSh1tJ3sseN90m1/zhuKpmP2/6tbeMdxqNDekWcAUltYS5plX7CspHsHEV+s01ily4NJfZk6zIakORxkaUtCSQ7lPGfkgW3BNtsBN6bUIbE6QbER1gBIcKkkDNcjxv6JxrY3VFFRB+R8qfqtG4p7j6yhw888WuBz/AEcGDAI0TuDVI1ZmvSJa2YU5stvx2NmrXKk+PuxJ3O++OrQFU2YipxqTJpkcSkpJTMdS3mUPt1FDMEG97A7qA/kGDAf/2Q==" />
 
 ## Calexico mit Unterwasserwelt-EffektenDas Konzert war wirklich mal wieder richtig klasse, alte Hasen kamen voll auf ihre Kosten und auch ein paar neue Fans dürften Calexico an diesem Abend gewonnen haben. Die Band sorgte für den krönenden Abschluss des A Summer's Tale Festivals und brachten noch mal richtig Schwung in die gemütliche Bude.
 
@@ -57,7 +57,7 @@ Unterwasserwelt-Effekte durch den Lightroom gejagt, damit Ihr auch mal sehen
 könnt, was dabei rauskommt, wenn man nachts mit Blende 8 fotografiert. Vorhang
 auf für "Finding John".
 
-[myflickr tag="annecalexicoasummerstale2015"]
+<Gallery name="flickr/annecalexicoasummerstale2015" />
 
 Die wundervolle Anne de Wolff unterstützte Calexico beim Auftritt als Geigerin.
 Ein paar meiner Bilder sind nun auf Ihrer [Homepage](http://www.annedewolff.de)

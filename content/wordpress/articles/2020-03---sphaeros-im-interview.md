@@ -81,7 +81,7 @@ spirituelle Person?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGCAT/xAAoEAACAgEDBAEDBQAAAAAAAAABAgMEEQAFIQYSE0ExFSJRByQ0YXH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAgMF/8QAIxEAAQIFAwUAAAAAAAAAAAAAAQACAxESITEEUaETQWFx8P/aAAwDAQACEQMRAD8AzPBAZilOvErW3LgyNIoR14IxnGD9p5zznGrTcemKkOwW7FOCdo48fuAGMYlIXEBJ4DFcyAAnIOPxldvsbvPBtez1YZ5b0IkneGAKHkBL9sTH4UDsJxgk5GdNOl99tWLXTPS16eU7NXurdsL4ldgWH35HyQE9E8YPxrEmoeUtoDIkm4xNcvS3RpkMUu8WK+3x2a001WW2QiSBAS2M/PxjSldiSxXtXIW8Wx1nKPbdseZvQQEZPOOP75x60X1ZY6Z+gXI+o6dF91uTfwIwqYRApSJHUkrGvYO7tyWbI/JGZOprsm47pYlaWFoIm8USQp441jXhQq+uP9Psk5zo8NkUvLnOzx8Obpuo1MPothQ2CQye53vt6yBKypIki3Csiw0p7VrC1qsrTpXgikbhnAADyY4wc4/II4L7ZoKf6fRJf+rRSbrbGFsJAz+FAD3hPT9xKqc4GCRo0aRh9K5+WVFcdnrqQRB6tWtRDP2eKuwTxxkYbBC/a5OST8ZOdR+97ik9wwGKqlWMBYhXQ9owMBiCckn2Tz70aNUWiamsgL//2Q==" />
 
 **Sphaèros:** Also, ich habe nicht drei Jahre lang meditiert, denn alles, was
 ich tue, ist Musik. Dinge wie Bildhauerei und Filmen besitzen die Kraft, einen
@@ -149,7 +149,7 @@ Entwicklung am meisten beeinflusst?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_03_sphaeros-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBwIDBP/EACcQAAIBAwMDBQADAAAAAAAAAAECAwQFEQASIQYTMQciQXGBFFFS/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAJBEAAgAFAwQDAAAAAAAAAAAAAQIAAwQRIRJBURMiI5ExsfD/2gAMAwEAAhEDEQA/AKFtljZLJDdJaeUwSSlA6RswQ7SVyR/psKPs6zvXTENHTNPI1UaicSyxrGiui7Sfa2DkHAzz8asr0M6pjoJFsNdSwLTvICe4cbXjJc5zkZzjHHwNKHUXUHa6lutbCFENx7omiUKh2TblITI488n4GlMubMadpOLH2I6SrpUWn6gXt0jPDWN77/PoZ3hdsaw01nT+RTyM8tThnJG2OPaDnA5PB8+Bpip+iluVvmeOQmdI3kCYAJC/1nzxz+6XamvpILdVU0feFT2hHIoKkbwiKxBXjbkvx4wBpw6E9RhRUFVb7jQytCQSJaVslQRj3L5PPOQfzWlQZqeSWLwqpjLe6PgZtFb2qqdKqGZJCs8cocE87jnxz+51puOySd5NpjdvcUC4C8+PzRo0YAA8SxLUoJO/4xHckp6ZTC+0SAq2AM+MEfRB13w3Sngi2mljkmdEV5Hwu3aMDbtAxx9k/JOjRq2kMLGBmcqwI4H1H//Z" />
 
 **Sphaèros:** Oh, es gibt einige, die mich wirklich schwer beeindruckt haben: HP
 Lovecraft, Salvador Dali, Hieronymous Bosch, Tod Browning, Aubrey Bearsley,

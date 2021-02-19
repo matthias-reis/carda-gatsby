@@ -117,6 +117,6 @@ Hinweis: Ich habe die Affen aus großer Entfernung mit dem Teleobjektiv
 fotografiert, um sie nicht zu stören. Das Neugeborene ist auf meinen Bildern
 nicht zu sehen.
 
-[glry name="gibraltarapes"]
+<Gallery name="glrygibraltarapes" />
 
   

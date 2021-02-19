@@ -30,8 +30,7 @@ date: 2016-05-09T14:17:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "14645"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26631920542_99724a3238_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26631920542_99724a3238_z__l.jpg
@@ -55,8 +54,9 @@ Und im Anschluss ging der Spaß noch weiter: Kein Geringerer, als
 ließ an Ort und Stelle die Plattenspieler qualmen! Was ein Abend! Hier ein paar
 Eindrücke.
 
-[gallery link="none" size="medium" columns="2" type="square"
-ids="14650,14649,14647,14648"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26725203955_6ca3fca965_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26725203955_6ca3fca965_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26699227326_e5df407752_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26699227326_e5df407752_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26659072981_d70e810e31_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26659072981_d70e810e31_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26684653676_d6d950ce14_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_05_26684653676_d6d950ce14_z__l.jpg"}]}
+/>
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

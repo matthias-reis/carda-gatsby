@@ -56,8 +56,9 @@ auch die große Forschungs-Bibiliothek im Inneren des Gebäudes. Was ich
 persönlich Euch empfehlen kann: Geht nicht nur in die Räume mit den Klassikern,
 sondern schaut Euch auf dem Gebäudeplan um. Es gibt einiges zu Entdecken. Wir
 waren zum Beispiel besonderst begeistert von der De Stijl Sonderausstellung, die
-wir im obersten Stockwerk vorfanden. [myflickr
-tag="annerijksmuseumamsterdam201801"]
+wir im obersten Stockwerk vorfanden.
+
+<Gallery name="flickr/annerijksmuseumamsterdam201801" />
 
 ## Wegweiser Amsterdam
 

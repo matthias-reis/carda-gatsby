@@ -54,7 +54,7 @@ wird außerdem Lebenmittelabfall vermieden – that's it.
   title="Llum und Pablo Querol"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_llum-und-pablo__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_llum-und-pablo__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYFBwgBBP/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQAGIRITMSJBURRhcTKCkaHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEAf/EAB8RAAEEAQUBAAAAAAAAAAAAAAEAAgMRBQQSFCFBIv/aAAwDAQACEQMRAD8AupJLXNJIkVxoXeP9arOpK/nnjSzu3eVg2vKkdWZqo9wxSmkCydl+kMFbkckEeM+c6oqyRjCNea00fcIYNJN0FsjL5UnwM+3xpIvd3SWqio4WZxBWVLegh8JIwwqsPKgqW+AG4Oc6I8nLIDQqlMdAwUVsTbd5se4o3a1ViSdEaSyK/oaMMSAGB8H0nI+4+dMkVsyAyr1A+CoyNYftl5Snp69HikUpGY+2elhIrMqjqOfbhv2gal62q3Nc7dHS26q3HUU8WVkp6eUmJDwQh9QweTn/AHnWnIyMoP8AQl4TPEqPDRyxSSzQzSzk4LyTZ8/gA/3rtXtkQUv1C1RIYE9Pb8YGfOdGjUZcWkAKpoBXp2/boaW8QdzM6Sggq3H3H8EA6nrtu5LdPk21JBzgLMYwGyepsKMZOPjRo0oaJZPvuk17R0v/2Q==" />
 
 Llum Querol ist ein Neuzugang bei den Farmern. Sie besitzt eine Plantage in
 Castellón an der Grenze zwischen den spanischen Regionen Valencia und
@@ -83,7 +83,7 @@ der Lebensraum der Nützlinge, die für den Anbau der Orangen so wichtig sind.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_organenbaum__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_01_organenbaum__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAASACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAFBAj/xAAoEAACAQQCAQQABwAAAAAAAAABAgQDBREhABIxBgcTQRciQmFxoeH/xAAZAQABBQAAAAAAAAAAAAAAAAAEAAECAwX/xAAeEQABBAMAAwAAAAAAAAAAAAACAAEDEQQhMQUyQf/aAAwDAQACEQMRAD8AeFg06tNnpNTqKuclGDAftkHhzV9yLDUmVodvoTJMlOyqfhIQsPonyP58b3jhD6RsXqW1Wq+wZUmnQizBRAoqzdXZGPXLY0MHxnZO/HMeyG/VnlIjN8RdlcsBhFC6+M52c6wDvlE/lJisY3qkKOEA+202/ilaaURGr2+rTmdS1SM1ZM0x+nJGfP2AMg63xQsyRrrbIs+E6VY0imKiOpyCD/uueIZNavGo3GnNc1JlUIjFGH5T2ycH7GB/fGL259aTLTDtcON6pt8eDHoIhikI/Ynbr1wAG7EnIOt5znko8+YdyPbJFhxvzS37eqitKwo1SX65n31FFQEKMlkzrznPLlzDDrI/4y6vTVptzTqXaBEOKRO6K+d78cRICrHtgWOBSX4kOEHXZO/HLlwkup4+uv/Z" />
 
 Im Umkreis der Finca wachsen etwa 1.000 Orangenbäume in einer Höhe von etwa 65
 Metern über dem Meeresspiegel. Auf der Carrasca Farm wird die Sorte „ **Navel

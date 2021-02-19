@@ -46,7 +46,7 @@ subTitle: Kleine Fotorunde Altona und Sankt Pauli
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34098598645_e48b98a1fd_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_04_34098598645_e48b98a1fd_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYBBf/EACoQAAEDAwMDAgcBAAAAAAAAAAECAwQABREGITESE0EUURUyQmFigpHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRMiQf/aAAwDAQACEQMRAD8AWutpDN41fIuwWAi7NMTSlKDuXGk9WP2Cq4xH7qVIYUlalIJAbBUrxghJyBjpJPHJFQybf8Lj6aF5Ydbjoyy6DspTId6sjH4qWNvam0i2WfSlzn6k0/LdMVmOXZEYk9LTSjkNDznYbHcHHNaOE9TZO1u3JgNJPtQbVrZ9hYwbX2kqVhIBUVffiivTAsurmZ7VkjybXIuCUiclaUdoKGV5QAcb754HBwNxRU3jbWUh5CoCzL6s1TJ1OzGEyOw36Y5SWhjbyKZWlZ9uVp263GQYztvkPXFUtC/rSkAoCAfcLGxHIGKVLS2Uo+VGMcYzn/CpI8lIZ6fTs5JycNgH+09fkCsp2Z+fHidqJsHAFKJbCiSBjkiiry5WEFIJKed/J96KOo8Z/9k=" />
 
 **Jetzt an Ostern habe ich meine kleine Kamera, die ich sonst immer auf
 [Konzerten](/tag/konzert/) dabei habe, mal draußen getestet. Wir fahren nämlich
@@ -73,7 +73,7 @@ nun bestimmt häufiger frische Bilder "aus der Hood" geben. Jetzt, wo ich mich
 versichert habe, dass es gar nicht immer nötig ist, die fette Ausrüstung
 mitzuschleppen. "Die kleine Schmale" geht nämlich locker in die Hosentasche.
 
-[myflickr tag="annehood20170416"]
+<Gallery name="flickr/annehood20170416" />
 
 Weitere Bilder aus der Hood
 [findet Ihr zum Beispiel schon hier](/2017/01/hamburger-streetart/).

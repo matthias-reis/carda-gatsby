@@ -114,7 +114,7 @@ größten Umweltsünder die ersten Plätze.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Schaubild1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_Schaubild1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwII/8QAKRAAAgECBAUDBQAAAAAAAAAAAQIDABEEBRIhBiIxQVEjQmE1UnOxsv/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABoRAQEAAgMAAAAAAAAAAAAAAAABAgMiMUH/2gAMAwEAAhEDEQA/APSmiNcdLZdRea7bkc2lR+gKnOL2IzYgMR6C+4j3S+GFUYhZ8XidMaMDKSwtpvyJ1Nt6nOLVIzWyjYQINr/dL8UvGe014Zyt4mjx5xAdJYSBHZttRU9S5G1vFFN8m+kYH8Ef8iiiWMkjKMu2YyHQ9kkIBKkC2ld76d+vnt17VOcUQvNnscaxzsXjjS6jl3eQbnSbdfNPEuMymLYMIBKSJHaOzjSnOLAt5G9jse1qyxGHhlz6KaXArOoRLYktHaJlZ2HfUTuO1tx81Z0OfI5w8SwYeKJBZEUKBe9gBaiulJIBFrfBoqNH/9k=" />
 
 **So viele Erden wären nötig, wenn wir weltweit so leben würden, wie in den
 jeweiligen Nationen:**
@@ -125,7 +125,7 @@ jeweiligen Nationen:**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_schaubild2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_schaubild2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwUAAQIECP/EAC0QAAICAAQFAgQHAAAAAAAAAAECAxEABBIhBRMiMUFRYQZxgZEUIzJCksHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAIBEAAQQBBAMAAAAAAAAAAAAAAAECESExEiJBscHR8P/aAAwDAQACEQMRAD8A6TzAWTPSBlnAVwGqKWmtR2YGvrWJxiNTobSWZSWHQz1S32BHoPrt5wNGiHGs0ZI4+mRKciIEHQN71avuAfTajjD4idEMfM5IU675qxkUIySeph4Bv2O9DcU1Vg9Em6x0Ai4eJXMKLGKBXqicCh01er2I+WG0fCsqEGuMM/7msiz5NXtjQ4Q0onMn4TWHYLzEWJdF2zWVY3uaO36r8G8PcCO1cAjGpixMzSNxTMqOT0yJpXWAW6Bsfy9v5H5jsB8a4gMnCGzbxQs6y0DLttGT30HwL/3ti5GzLcSziGDkxCQcuZs6xEg0Ak6ARoo2K81fnF8almSGEZLLnNkF1YLnjBpHLajd722lfYnV4wq3bH3nopSZ9jTJOsuXEkbalclgfUWfYYPgUbhqCyKTXbv/AHggDeSPtiNH/9k=" />
 
 **Diese zweite Darstellung von der Global Footprint Organisation wiederum zeigt,
 wie oft es die jeweiligen Länder geben müsste, damit sie den dortigen

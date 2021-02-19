@@ -67,7 +67,7 @@ das einzige verbliebene Schiff aus dieser Zeit zu bewundern.
   title="Hier wird restauriert"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_30661713628_7509263380_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_30661713628_7509263380_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAURIQAGEhMxUQcUYSIyQXFCgbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHREBAAMAAQUAAAAAAAAAAAAAAQACETEDEkGB8P/aAAwDAQACEQMRAD8AwKgUuaW3ZSKKJjY48Ouyogm+QBi+P81RmU91l0svMKaWhShYggkE3B/VrW+Naivdu2ZcTpro8xaSPq9xUHloR4NkgHz+RqKRsKS5ym0mpKd4IQkxZ7iEEJTxBIKFEEgDJNjnUJ1bFtR+9yvsGuDEyi0yXIqcRyNT5oRwQQ40wqxUDYkEDt86aYcd9S2426orrLiGllKVISQ4MJTzHe4xcg3zfTTtzdu14LPsIUGQlEZ5wIU7PBKUD7RyKckqvYiwyLaYXYNKq9Wh9RMwvPUpLsdtkIe4qWpSiLqA/hw+cnSWXljG+JQij05eaQmbRaeDjKoK2s/PG2mmlselNkgU3bQ4jHUYBJ/fLv8A3o0aDXDmEdeJ0pEP06nOBXsttSLJCGgWUEo85vkeB+NJkup0mVFr4otQTDSypK4y4zZIbitpEdfA9sJK/pvfF/B0aNZ0ru6x7OT/2Q==" />
 
 Das Museum wurde zu Ehren des restaurierten Wracks errichtet. Dabei wurde der
 sperrige Betonkomplex kurzerhand um die Galeone herumgebaut. Durchläuft man die
@@ -95,7 +95,7 @@ Erwachsene 13 Euro.
   title="U-Bahnhof in Stockholm"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29594119257_9300cbf032_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_29594119257_9300cbf032_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgP/xAAlEAACAQIFBQEBAQAAAAAAAAABAgMEEQAFEhMhBiIxQVEUkWH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAHxEAAgICAwADAAAAAAAAAAAAAQIAEQMEITFBUZHw/9oADAMBAAIRAxEAPwCGZbUPWNTQQCU7sp3DbhdR8/y+GdXQhY3WZAV3GPYbm3gKB/lxfCrpmV4aqGMEoqspIHv3/MUbJYacLmFRLTl1hCsiqRaxe73BIvcE/POKlJrYCwiZLZcgBk9hyuGCaOJHEUjKS+6wTWb8KoJ8Ycr0XUZ1+ZYIw1gC+069wPP25t9xouq+k6jPJkvB+eTdanj3NAjjmBGpTYk2N1PPtjb1jpkHQ88MTpRQZStTTsqVFRIxlNyedsEae3m/aeAecI4t5clrXI5PPnzGn1ylG5PckqIlXcZVaQISH93ONJ0xnatnIljnnKQg2iSVkSYn0wBF1wYMHsuThKnqZIKYsOxNjV59QU8cKNLVzHXKweorJHDCwN2GoXI8D5jtQZtRMsktNG0cZRJUZT2nVdeSeSfPnBgxFC1de2Pu5WyUFU1+oT//2Q==" />
 
 Genau, wie in vielen anderen Europäischen Städten, wie beispielsweise Amsterdam
 oder Kopenhagen, gibt es auch in Stockholm die Möglichkeit, die Stadt vom Boot
@@ -122,7 +122,7 @@ wurden von Künstler\*innen liebevoll gestaltet.
   title="Wir kommen wieder!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42722750290_f0aa8a91ea_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42722750290_f0aa8a91ea_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwECCP/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUSBhQhMUETIlEyUoFTYXGRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAMB/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQACEQMSITEigeH/2gAMAwEAAhEDEQA/AOcrJZIiC8TkEZHUDI/Jp74O1ZtJ1SK5udCkubbY8c0T7dskbqVYfscHIPg4rPEml2GnKLWyvS6wFFgeKVnj9F03+oEYMuCS3Y/6K0t9CkvxGdNMku/3EGKRWXOcAgHb4z0+RQ4ENWvXv5Jjy2vci9Y0zltVltZ4WinRMbXGD06jP8jB/NR2tWPKOyTLjCbxu8Z8U9S6LLBNYwatAsZaIwMq7t0mMlWGex+kHr4z5pd41l9a7uZmL7mbaFYYxjscUdbZtxEKteGWNAulRXMkT21sze1G3GSboBgAAgKAAOgxTFd6vaWdtGU3PL+mFCgDHxk/PaiiiytTLJdxdibxhcGz4g5SS95hwXuGYKIjlVj2ofuKqzDOAf6qreIbwXF5csrAxmQgDv2NFFLpgRLrZ3M//9k=" />
 
 Besonders berühmt für ihre schönen Haltestellen ist die sogenannte "Blaue Linie"
 (Blå linjen). Es lohnt sich, entlang der 25,51 Kilometer langen Strecke immer
@@ -150,7 +150,7 @@ ich es Euch an dieser Stelle wärmstens empfehlen.
   title="Boot im Hafen von Stockholm"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44481859082_634bf4c8de_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44481859082_634bf4c8de_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQHAgMFBv/EACsQAAEEAQIEBQQDAAAAAAAAAAECAwQRBQAhEiIxUQYTFDJSFSRBoWJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAAMBAQEAAAAAAAAAAAAAAAABEQIxIf/aAAwDAQACEQMRAD8Ai7MJp4lw5FTRJAI8pQH7Xp6PjmEtuIVlFErqilomvz89UfHxMXiMtBgMJaU5J8pAd9Gw4Co1xe5BA67dtemxjGMM0RIj8lLay4iO9KgRXmpBSecpJQbIrqa2sDa9EnhSw3wiLmMZUCRlnSQOGxHJIN3YpW2uZPgNRHyo5GSWgjhT9sQT/dq33vVsQHXnoiXGcSgvNqeSRiIoJHDt7R8qG9EddYZ/FupESMpvBSGmUEpW5iWwQQUpSDSua97/AN0kw0sNeGW5DpbdntSmeAc8crCFAWncV3B01joOMDzXpfEbqkQXHPLbejrSErWm1HlQaviOx6Xo0aKZaa4IHDxYs0LiZyJTK2ypJdV1G/NaB/Dr20lkPqMjISEt5CA4sJRSfUIBKU2okDi7n9aNGqrCn//Z" />
 
 Das "Hermans" wird unter dem Motto "Give Peas A Chance" betrieben. Zwischen 11
 und 15 Uhr gibt es hier veganes Buffet satt für rund 14 Euro. Wer noch einen
@@ -174,7 +174,7 @@ in die Schwedische Hauptstadt bekommt man beim Stöbern in meiner am 25. Juni
 2018 entstandenen Bildergalerie aber dennoch, finde ich. In diesem Sinne: "Walk
 in peas!"
 
-[myflickr tag="annestockholmjuni2018liebeundergroundvasa"]
+<Gallery name="flickr/annestockholmjuni2018liebeundergroundvasa" />
 
 Ihr seid neugierig geworden und wollte mehr über Schweden erfahren?
 [Meine Reisereportage](/tag/schweden2018/) geht weiter.

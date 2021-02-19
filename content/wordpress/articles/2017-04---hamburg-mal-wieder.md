@@ -46,7 +46,7 @@ schweifen lassen.**
 Meine [kleine Kamera](/2017/04/vergaenglichkeit-des-augenblicks/) war auch
 dabei. Das hier hat sie festgehalten.
 
-[myflickr tag="hamburgmalwieder"]
+<Gallery name="flickr/hamburgmalwieder" />
 
 ## Auf unserem Rundgang ist auch dieses Zeitraffervideo entstanden
 

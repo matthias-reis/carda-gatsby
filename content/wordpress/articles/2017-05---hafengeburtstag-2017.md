@@ -74,7 +74,7 @@ Lieds, welches Ihr unter den Fotos findet ist übrigens ein Hinweis darauf, wo
 wir unseren Urlaub verbracht haben. Bilder und Texte dazu werdet Ihr hier in den
 nächsten Tagen und Wochen finden.
 
-[myflickr tag="annehafengeburtstag2017"]
+<Gallery name="flickr/annehafengeburtstag2017" />
 
 <blockquote>
 ## La Paloma

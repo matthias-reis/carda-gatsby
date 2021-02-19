@@ -46,7 +46,7 @@ subTitle: '"Obdachlose wie Menschen behandeln!"'
   title="Matthias Oomen - Politiker aus Berlin"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_11012011557__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_11012011557__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQj/xAAqEAACAQIFAwQBBQAAAAAAAAABAgMEEQAFEiExBgcTFCJRYZEVMkFxcv/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECMQMRIXH/2gAMAwEAAhEDEQA/AKqeuqLS7B5dQ4BXnGXT9y1d18lHPHGbapBICF++MINK7QSL6hnMaElAUJBuLG/5wU81FTyjwaVVjYoXsDb5B4wlPhGh5zvuLNT5llH6dVUq0TyD1QnQ6ypYDa5Gna5vvvthlHXuXoBadnc30oFN2xxd483zLOq1DSyyVlQWMkZtsrNtuTawOwPGKX2blmq8tp6Z4dPjqXbynlo1sSP6DbYMvSukLtF1V1H5Y43qPUqSB7ogXP8Ak/P3xhsy+mzKry2StzqsgpaKBbzzeIAAfBPDN9AW3wYMFPoMj0SHrKrpqvPGky+nkpqYRJGgdjrcC/vb7N72/jbFY7AOqZBmEkgJdJjAu/7VKhrflr4MGFKhKj//2Q==" />
 
 **Matthias Oomen lebt in Berlin-Wilmersdorf zwischen der Pariser Straße und dem
 Kurfürstendamm. Der aus Ettenheim in Baden-Württemberg stammende Nichtschwabe
@@ -93,7 +93,7 @@ gleich mal vor. (lacht)
   title="Berlin - Heimat von Matthias Oomen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14214740646_0f53e5d1fd_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14214740646_0f53e5d1fd_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAQMDAwMCBwEAAAAAAAAAAQIDBAAFEQYSIRNBUQcjFBUWIjFxgeH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB0RAAMBAAIDAQAAAAAAAAAAAAECAwARMQQSEyH/2gAMAwEAAhEDEQA/ANO1aRmTlBxKNrY/JUrAI8itWTY7XHvUS0OulU15nrHakbUJ3FI3c8EkHHnFXIGsokKzSH1I6zEVlTy+mMq2pGTSJ88mXj1IdudokGPHfbjpS26QhYb2tEgc84JVgeSaqVq0+9OSa0H5nRz086qipCmtvYHNRfSibZlRS2cdkpOD+6d49/gubiXghJkrjBCE8ZSopJye/wBpOKkuD0T4craWXQRnBxmtCjHvD5qOtxbXF1tMbRl3fd6SVrYLLQaykrWvgDAOPJ/hpO9LNbx7bMmOXiI6IymE++0SoNLG0IBTg8HH+HmiiuDyyTUKeuM6J4X2Gdo+tdBQ4q2npF2nAS3ZTTq4pSQFLK08cYIJPbPNbkTXWm5y0RY0yUnqBSj7JyABnuQKKKbOzEhcXkoBbf/Z" />
 
 **Anne:** Du fühlst dich ja in Berlin sehr wohl, bist dort angekommen, es ist
 deine Heimat. Hat das lange gedauert, bis es dir so ging? Wie lange lebst du
@@ -162,7 +162,7 @@ unbedingt einen Notruf absetzen.
   title="Obdachlosigkeit ist heute allgegenwärtig"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_30032011791__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_30032011791__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYD/8QAKhAAAQMDAwIEBwAAAAAAAAAAAQIDBAAFERIiMVFxBgcTQRQVITJhYoH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAHBEBAQEAAQUAAAAAAAAAAAAAAQADEQISE0FR/9oADAMBAAIRAxEAPwDL+FIxZv1rXjGiU0Rk/sKdN28JxZ8R1TsH4lYJdQgq0kq6A8DuaU9rcRFnx5ARrLK0uBJ4ODmmvH8x4xjO6U+nIU5sStvKUo6ZB5/J61TfPyI/KPT28I2KX5ZWG7Pmdd7MW5jrii42JhWAc9UHH8HFZSfHbuF6ukpTZU2X1fXG1O7CRnsnimJBu0dlt4OXZmOp1wHDYBOSPuIKcADoKXURPy6fIdt6wlTxIdI3NujPuk7SD2ozzc14ZqPqrsukpyDpFdkyNPByD7iiiqtgpulSmtpyTzmqwyhOCME0UUiTf//Z" />
 
 In jeder Stadt gibt es diverse Obdachlosenhilfen, wie etwa die Stadtmissionen
 oder die Bahnhofsmissionen. Diese freuen sich nicht nur über Sachspenden – wie
@@ -233,7 +233,7 @@ herausgreifen?
   title="Das Brandenburger Tor in Berlin"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_14235215002_e11b7d247f_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAYF/8QAJBAAAgICAgICAwEBAAAAAAAAAQIDBAURACEGEkFRExQxB1L/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AbYg8dr1zavSokSMAzsSvZOhv1XlLM+Y4PHYt1wT057TnSLGz9fPsxKb11r+/PFzm/OshkcRLjs1jY2aNRaaT9ZoA6xhmIVixGzrR66B650/CYfGPI72PqymWvalDTTwPNr0jkQNCFcrpvkfex/OAwKfl3i8sP7c1qGvYKlikweQofrtdE8vX7EjwkJJYWF0B9oVRAdga64qM/D41jKddfeWe1O81QxwzruGYylYmca6HoGOj/euTj/0bK2KzHGVaSV6EQgmhap7aKoOw3sN/H8631wFdg5Dcv38NJGgaGt+1CxYyGRGQD8RYD52QT1vY+uahKGcfFLcx0NmpIjhBjotJ7LpV2GA6Gvr/AJHXDhwKWax+fisfgq1xNWjhS0LNiBnnax/Sux9EkD75nLtnPx0rDS454wwKSB2ddx7C9AdEneyD8Dhw4H//2Q==" />
 
 **Matthias:** Eine Fachzeitung zur ökosozialen Stadtentwicklung. Eine solche
 Zeitschrift, die sich streng am Machbaren orientiert und gleichzeitig eben nicht

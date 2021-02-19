@@ -61,7 +61,7 @@ Nachfolger.
 <sub>\*Spanischer römisch-katholischer Geistlicher, Universalgelehrter und ein
 bedeutender Dichter der spanischen Aufklärung</sub>
 
-[myflickr tag="annejardincanario2017"]
+<Gallery name="flickr/annejardincanario2017" />
 
 ## Wegweiser Gran Canaria
 

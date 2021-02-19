@@ -35,8 +35,7 @@ date: 2014-10-09T10:49:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "8999"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-24-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-24-2__l.jpg
@@ -69,13 +68,17 @@ Den Spinat aus dem Gefrierfach nehmen, damit er schon mal leicht antauen kann.
 Die Auberginen würfeln, salzen und mit dem Saft der Limette übergießen, in einer
 Schüssel "ziehen lassen".
 
-[gallery type="rectangular" link="none" size="medium" ids="8964,8977,8963"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-9__l.jpg"}]}
+/>
 
 Die Kartoffeln waschen und vierteln, sehr große Exemplare achteln. Den Topf mit
 den Kartoffeln aufsetzen und diese so lange kochen, bis sie "al dente" sind. Das
 Wasser für den Reis aufsetzen. Chilischoten in Scheiben schneiden.
 
-[gallery type="rectangular" link="none" size="medium" ids="8961,8962"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-7__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-7__l.jpg"}]}
+/>
 
 In einer großen Pfanne Kokosöl erhitzen und die Auberginen zusammen mit den
 Chilis anbraten, bis sie schön gebräunt sind. Im Anschluss die Kartoffeln
@@ -86,8 +89,9 @@ Wasser ablöschen und großzügig mit Currypulver, Pfeffer und Meersalz würzen.
 Eine kleine Variation wäre, an dieser Stelle noch etwas Kokosmilch hinzuzugeben.
 So lange auf keiner Flamme garen, bis der Spinat ganz aufgetaut ist.
 
-[gallery link="none" columns="4" size="medium" type="rectangular"
-ids="8966,8967,8968,8969"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-12-e1412850681168__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-12-e1412850681168__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-15__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-16__l.jpg"}]}
+/>
 
 Parallel auf den Reis achten. Wenn das Wasser eingekocht ist, die Bissfestigkeit
 prüfen und sollte diese noch zu stark sein, ruhig noch mal ein Tässchen Wasser
@@ -97,7 +101,9 @@ Hat der Reis die gewünschte Konsistenz erreicht und ist kein Wasser mehr
 vorhanden (Falls zu viel im Topf, bitte Rest abgießen), den Herd auf Stufe 1
 drehen und den Topfdeckel mit einem sauberen Handtuch umwickeln.
 
-[gallery type="rectangular" link="none" size="medium" ids="8965,8971,8972"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-11__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-18__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-18__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-20__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-20__l.jpg"}]}
+/>
 
 Dem Reis auf diese Art noch ca. 10 Minuten "ziehen lassen". Zuvor kann dem Topf
 noch etwas Kokosöl hinzugefügt werden. Selbstverständlich kann auch ein
@@ -108,7 +114,9 @@ Den Reis zusammen mit den Kartoffeln auf den vorgewärmten Tellern anrichten.
 
 Guten Appetit, oder wie man in Indien sagt: _Rasawath aharak! &lt;3_
 
-[gallery type="rectangular" link="none" size="medium" ids="8999,8960,8998"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-24-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-24-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-23-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_10_indische-bratkartoffeln-23-2__l.jpg"}]}
+/>
 
 &nbsp;
 

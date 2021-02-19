@@ -36,8 +36,7 @@ date: 2017-08-31T06:37:27.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "17806"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Danny-Portrait__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_Danny-Portrait__l.jpg
@@ -60,7 +59,7 @@ aus Preußen_ .**
   title="Die Calida Gecco in Vintage Black"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Calida-GeccoVintage-Black-frontal__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_Calida-GeccoVintage-Black-frontal__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABgcIBQAE/8QAKxAAAgECBQMEAAcAAAAAAAAAAQIDBBEABQYSIQcTMQgiQXEUIyVRYYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCqceGtzWmo2cS9xhGA0rJGWEQPyxHgfP1z45xnat1dkmkoqSXUFatHHVSGGJmUkM9r24HH2eMZXTXUNNnWjqLNauopUqsw31MyCQexmYjZYm/tUBf6wBopDAFSCDyCMdgF0brbKKienyKXMaNs0/EVVLTwQMXLxQOwDEi4UlFB5Iv8YOsBNvqgppZ89oJWqZ1gpYYpVj3kqGbvA7V8XOwc/wAYQ0a08ZLKl9nbPvAuSXsf8GLP6qaAXWmW7aaqWjrgUAkkTejKpYgEAgi29uR+/N8KF/TvnjM363lfJUg9mX4a/i+IoD6WlYNYadal3laXMEn3FiLRswRksPJ/M+jYYtS9uMJTp70UqdP6gp8xzbOIKqOAh1hp6cpuYMGW7MTxcA2tzbDtsMVH/9k=" />
 
 **Anne:** Hallo Daniela, vielen Dank, dass Du Dir die Zeit für das Interview
 nimmst! Ich fühle mich sehr geehrt, dass ich die Möglichkeit habe, Euch näher
@@ -113,7 +112,7 @@ anzubieten, waren beide sofort überzeugt.
   title="Anne Menden trägt Fritzi aus Preußen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_sundown3_HW17__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_sundown3_HW17__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBAYI/8QALBAAAgEEAQIFAQkAAAAAAAAAAQIDAAQFESEGEgcTFDFBoQgWIiQyUWFxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADERIiMf/aAAwDAQACEQMRAD8A9HR2JI2xpX1dkPu5hJMgln6xldUERmEI5+S7Agftz7kgVlj8QcJJdKiTflz+qZjrXHGl9zzxU0+0J1Xi8lh8JjbC8SYzXLTyqGIAVV0Ay+x2W+houWAlKKw7hT8lkmtXRyAtFJcN1bhbPp/FRz5AySC0hBYIW7j2DZop1ZiNyI1fJwyeWGRvJEUvfQqT7iOzj/0VxvjVbyPj8RlFuZLq2tJvLni9OgWJXI3KSoHwO3R2Oaxw5khAFYf3vmkfW2cuJ8FcWNvCsvqV8ti0gUKuwT/JJA0Kga8PmaE5UbLlkOpwsji1YRQK2lGgePj6UVAsLmLiPDQQ3tx3yptV0xJCb/CpJA2QON/OqKZdAyFihOgT/9k=" />
 
 **Daniela:** Die Taschen und auch die Mode sind alltagstauglich, aber immer mit
 dem gewissen Etwas. In Hinblick auf die Optik gibt es eine große Auswahl.
@@ -166,7 +165,7 @@ geben wird?
   title="Anne Menden trägt Fritzi aus Preußen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_bridge_HW17__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_bridge_HW17__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQgH/8QAKBAAAQMDAwQCAgMAAAAAAAAAAQIDBAAFEQYSQRMhIjFRcRWRMoGS/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMAAf/EAB4RAAIDAAEFAAAAAAAAAAAAAAABAgMRURITITFx/9oADAMBAAIRAxEAPwDRCYwHFLN+1bZ7ReY1rdlMKmLUS8guBPRRjknCdxUpACc58gfVMibrGJA6cg842D1+6zzBg6g1DqJxqZFTJim9Py3C8MJaSptQWUZxuHTUBge8DjNU63JNpgVcU8aNAQyzOhsyo/k06kKSSMH6I4I9EfIoqgi3zTekLaLbCgSoMOMjqpYQkL2pUrHbKzzRSVjA64nJW9SXSyX03O7MOPuHLak7gArcMADGR27YFNemr2Lu1+WagmI61GTCbW84HR5PYVgYGFJCiM85/ql+VGkXJssynWHUg52PsDseDz+xUS7NdLfYnodplLiqU82+Nrm5vx37vHHbcSj5/hWtUXxo69W8EUmWm8C7EqBQ4w0ra4dxJC05Ofvd9ZoqjhR7rEuDj0oWyUl0YWnrKaH+QMe+KKlK2UXkV4+ne3vs/9k=" />
 
 **Daniela:** _Fritzi aus Preußen Apparel_ steht für hohe Qualitätsstandards und
 Liebe zu unseren Produkten bis ins Detail zu mittellagigen Preisen. Wir arbeiten
@@ -210,7 +209,7 @@ immer spannend und man trifft die Kollegen aus der Branche.
   title="Glamouröse Sneakers aus dem Hause Fritzi"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FJ17FAP10-Sneak02-Silver-01__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_FJ17FAP10-Sneak02-Silver-01__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcI/8QAJhAAAQMDAwMFAQAAAAAAAAAAAQIDBAAFERIhMQaBsRMUIkFhof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDqmiioJstiFHU/KcDbSeSQT/BQT0UngdTWecoJjz2tajhKXAWyo5xsFAZ3pxQLbpd2oAWFNuOLQkK0pHINZxfLtcOsVOQYrD0K3tnD8x1OhKEnnSDupRHn6rTZ1uizfk/HaW6EkJWpO471XnOn58zCbh7QoRsgodXx+pwPNSrFIkvR4l+s5iZCGJTPox07ktZ0kkdyc/lbHnH1SW3dNQYagso1uZyTwCfJ7k07pJhbr//Z" />
 
 **Daniela:** Nein, ich lebe nicht vegan, achte aber sehr auf gesunde,
 ausgewogene Ernährung. Interne Healthy Food Challenges unter uns Kollegen finden
@@ -249,9 +248,11 @@ mein absolutes Lieblings-Stück.
 
 **Daniela:** Ich danke Dir für das charmante Gespräch.
 
-[gallery type="rectangular" link="none" size="medium"
-ids="17798,17795,17797,17796,17804,17802,17800"][hier entlang](https://www.fritziauspreussen.de/)
-geht es zu Fritzi aus Preußen!
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_urban_winter_HW17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_urban_winter_HW17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_sundown2_HW17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_sundown2_HW17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_bridge_HW17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_bridge_HW17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_park_bench_HW17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_AnneMenden_park_bench_HW17__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_Downey_Sequins_Black_02__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_Downey_Sequins_Black_02__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_Downey_Sequins_Black_01__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_Downey_Sequins_Black_01__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_Logo_Apparel_Bags_Shoes_black__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_08_FaP_Logo_Apparel_Bags_Shoes_black__l.jpg"}]}
+/>
+
+[Hier entlang](https://www.fritziauspreussen.de/) geht es zu Fritzi aus Preußen!
 
 Merken
 

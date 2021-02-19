@@ -88,7 +88,7 @@ es noch immer geschafft, ihn rechtzeitig zu schließen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_chili-perfekt__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_chili-perfekt__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBwP/xAAtEAABAwMDBAIBAgcAAAAAAAABAgMEBREhAAYSBxMiMRRBURUjJDIzYXGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAAL/xAAaEQADAAMBAAAAAAAAAAAAAAAAARECEiFB/9oADAMBAAIRAxEAPwDbtwCpt1l1cfc0+HHPbKYzcOO4hFkZAUpsq8iQSSTa2MaXa/J3LHhzX4W8JgX5dhApDDnFSiShJNhcDAvb0LnOdN1eqEemOVSVMTzZai9wpF7kpSDbGon3lv8ArVdqC33JL0ZPI/Hj8xZlOPEWAvn796O0rcNJOlCsdSK444lpVVW1LjOgyWlw2eKwkJ5oT95yRm4J/Ato30+6kjcO6GKX+rLkqW29dpyGlskhJUFck+iOKh+D/nOpj6d7lq0KW1H+PIqcdsur+KE8wkL/AKihjxJxc/eNPnQcxl9aYzlNYe+KsSFc3lfyDsL8QQfLJt/zSSKd3O20GH1L7X7iUpUlSeRUkgAjjcXxrAq7smhU3e8hn9EoMHZ7AjuSqhPDiv4rgpRbasq6rpcHgfHx/I1SrgSpzke2rA9lN/XrOsi6jbOqu8qGiE7S30PGQ48lZlsISwpRsV+K/M29Aj/Y0enVUgnU3b3R6pUubEpE3j2mip19Up9kkE4UOVgbH0LEDGDor04epDm/NsU6kPuyWKPCfjMPOoSOae0u6griCfoevrXKj9IZdJjdqNTkrcsLvPSWlrUR/flj79aPbI2JWKRven1OZGZRGZDwWsPoJHJpSRgKv7I1gTaTP//Z" />
 
 Du magst gerne Blumenerde. Und Palmenblätter. Genüsslich zernagst Du sie, bis
 nur noch das Gerippe übrig ist. Dein Bruder bevorzugt Gräser. Und Rosenblätter,
@@ -155,7 +155,8 @@ title=""I'm like cat here, a no-name slob. We belong to nobody, and nobody
 belongs to us. We don't even belong to each other.""
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_08_cat2-kc3b6rnung-und-aufhellung-horzgerahmt__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBAcI/8QAJxAAAgICAQQCAQUBAAAAAAAAAQIDBQQRBgAHEiETMSIUFRYyYUH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRAyH/2gAMAwEAAhEDEQA/AE67uecZ3dK2q6a9vmklucmDExksZlQ6mcAa8tKgGvf0AOqnPbLmnGJf0r8vvZB8QkSRbGZS2yVYEFyRpkYD39aPreuuhuOdva7A7hX17FnWLWDHIeJneMjHMknkxQeH+ke9+j0D7qdp6O9u47HIy7OCeeACRYJIwh8T6IBQ6+/+aHU9PcCJzyurEWjz7zlONY4ldzPNNhAiyp8drMjS+UeyiKzL+QbQZSQRrY8upxaXmVDacVzbLn1lM89riQ5NbLnZPkoeVdD2xVgy72rBTo/RHWl1HEv2atxqqru7XFw3HyajXHDKwJ/IH4thvX9vv/ehKds6v+Q1WXJYWs08NhDk+UrxMXdXUjZMe/sDetdZ+Zbd2PdoKBP/2Q=="
+/>
 
 -->
 

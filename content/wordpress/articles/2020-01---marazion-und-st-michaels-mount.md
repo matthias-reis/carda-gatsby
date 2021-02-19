@@ -65,7 +65,7 @@ subtropischen Garten. An Tagen mit niedrigen Besucherzahlen lohnt sich der
 Besuch dort dringend. Den Weg dorthin legt man am besten zu Fuß bei Ebbe zurück.
 Die kurze Wanderung durch das Watt ist ein ganz besonderes Erlebnis.
 
-[glry name="stmichaelsmount"]
+<Gallery name="glrystmichaelsmount" />
 
 Haben Euch meine Bilder gefallen?
 [Abonniert gerne meine Newsletter](#newsletter), um in Zukunft nichts mehr auf

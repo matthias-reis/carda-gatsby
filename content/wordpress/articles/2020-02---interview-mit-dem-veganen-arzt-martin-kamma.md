@@ -90,7 +90,7 @@ die gesündeste Ernährungsweise herausgestellt.
   title="Das Praxisteam"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Praxisteam__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Praxisteam__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBgcCAwX/xAAqEAABBAEDAwIGAwAAAAAAAAABAgMEEQUAEjEGEyEHQRQiIzJRcVJhof/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAiEQACAQMEAgMAAAAAAAAAAAABAgMAERIhMUFRBIGRofD/2gAMAwEAAhEDEQA/AJVgkx1sqZpXxCFG0lHykWeD78axRnsajKZCJIUw23CQ8tayrcqmgkuEpA8D56HN7Tp5g8dGbnLlqcllxEhf0++e2KtNhHF0T/mq56KxEfPZqZFekPsxHI7oc7ZCVuNrVto8/wAgT+tTpmWIZNtVrxoFlhllZrYC/wA/vunx6riToyo0LIMiataVNvyo1JSk/wBUkeD5IJ8C/wAak3TuUi5vHwpbBYMR2GnuOtpcoSAdriPIqgQa88V+dVNmcAqYzmVMR47Hwrf02WlqIUsOoSPu43BRVV6s70fdlw/TF+CzujZCNOeXShvCgrascWBY8efca3eEcGklkdhmBp2L2rV1dOyXTmabYjzwGZKDJpLCRtUVUU2bJNEH251HvR8uP5bOTFyGFIZUIzKO4hBrcVKNEi+EgH96NGl5oxKrI21EWYR4qSA29ubd0nVDjeOZ6nx7shhM0NNSYpHlDyge4W1qF0oosD2sAfvtemGViudKtKZkhvJS0pkSWVA0kgkJ2jwa2hJNE886NGmZDoPVBCzYFL6dV//Z" />
 
 **Martin:** Das wird in der akademischen Medizin in Deutschland, Österreich und
 der Schweiz bisher anders kommuniziert. Ernährung kommt als Fach im Studium gar
@@ -253,7 +253,7 @@ führte, dass Sie gesagt haben "Jetzt höre ich auf!"?
   title="Ein Sprechzimmer in Martin Kammas Praxis"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Sprchzimmer-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Sprchzimmer-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcDBQQGCP/EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQASMQYTIQciURVBIzJCYXGBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EABoRAQEBAQADAAAAAAAAAAAAAAEAAhIRITH/2gAMAwEAAhEDEQA/AE11bJDTle2i/iQgDaQRyRz/AFpn+g1zjm6zoZJGWONFVdzNgfoH+6UPWE89bWtkmZ0klQlADgBvGcDHB0w/TS+2np6z0lRTxTwdRxRyNLLjuq2cGL25AVfABIyfBP30Pnu11pQLpy5VpSONVgZ1jvW8Ha3uPcb2jxzxqyjr4Iq27yboVbERVZfzeId3kftnS6tnXcV3s9sgmimqL5n6i1PCF2STKdw2jGQOOccnnWs1vqHcqaatStpKOe5iMo9TLEN6MyBGAAAwcAZAwONLshyyCdppkIEiorHJCDAJ+T8nVnbLgnbeCcUjrDGfcUAYEfOOT/OjRqUfK1WgAorhcpWqaZYkeWFYQpQDac45yftrMMFyNvWsG6GOQYCONwwPg6NGg6ZGC//Z" />
 
 **Martin:** Ich war schon seit einiger Zeit dabei, mich intensiver mit veganer
 Ernährung zu beschäftigen. Ich hatte die China-Study gelesen und den Film "Gabel
@@ -399,7 +399,7 @@ heraus empfehlen können?
   title="Hier sind Veganer⋆innen herzlich willkommen."
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Anmeldung__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_02_Anmeldung__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYDBQf/xAAnEAACAQMEAQMFAQAAAAAAAAABAgMEBREABiExEhMiUTJBUmFxcv/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EAB8RAAIBBAIDAAAAAAAAAAAAAAECAAMREjEhUQQTsf/aAAwDAQACEQMRAD8AqaGMqAATj96Y7VXT2+VJ4GUOisoJUMMMCDwf6dLHqyi3B6QI1T6QKrIcAnA71KLu1t2fUV11qKaOuLrFAixs3kWYZ9nB9q+R+Pb3zoTG0WgLG0b7ddq6e52qgoxRMzOYYxJCrcOcZP5YJ4z1xpj3TtRbZt2kq5kjeoUrA0vPm3uPub7EnrrrGsr2vuT0r9brzDRzOiMjdkRuy8EBcZXkE9k4P601713JLu6eyzw2eWKW2Sv5t66AMSFYAc84ODz860a2HZkHNX6tMtkhqRcp5aSsdSzh8MA2Dj7H456/mr+37XqNzwMlbNEEp3DgBWGSQfxI0aNYLz5GB1Diu6twfkYqLaElsFOKGpSlWDyKCKNz9Wc8s57ydT1sbWq2Vc89SZZpGL+bIF58QMYH+Ro0ad61XUo1Gbc//9k=" />
 
 **Martin:** Die weltweit effektivste Arbeit leistet für mich PETA. Die können
 aber auch nicht immer und überall sein, deshalb finde ich jede noch so kleine

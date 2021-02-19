@@ -54,7 +54,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
   title="Why are you wearing that stupid man suit?"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-45__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-45__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwT/xAAsEAACAgEDAgQEBwAAAAAAAAABAgMEEQAFEhMhFCIxUQYHQXEVIzIzUmGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANdqnB2XdErxPPv22S4aZmMuVGQwEYBI4g9iM9z99Jklvcq21xwGjTavXm60UbUZYQHVuWQMBeQYknJ99dl+3uu3bem69eatJK7tZsiPJJjQt7dySfT1OD7aStvO4/kWoJDYrx/uB248HJP6QSTk59B3wf6J0DDH8W2Ityv2ZNs8P43ps88JZ+mVXiG4k4IwPTI0aWLdswpLFOsvirFdJFUrzCkMQpz7EY+310aC6WbH4/8ABG9V7G41GitSWTWQxrmGeKRvI/bGWVCMj+WdQTeI7Mb9Kap0owA4m4eWRgMgBlJwO59zn21Vvl/LWpq1XcZ4FpzvMsnXyUlLszA5+hDN2P8AvYnStuOzGWxSCpRFeKcNY4xrGw4+oyOzDI0CJu22W6UbmPqiIlFKJyxgdzkkYHm79tGqZuduq0JVrAUtnJDBho0H/9k=" />
 
 **Warum sehen Menschen anderen Menschen beim Scheitern zu? Warum fällt es den
 meisten so schwer, anderen auch mal unter die Arme zu greifen? Wenn wir sehen,
@@ -90,7 +90,7 @@ wollen einfach nur beachtet werden.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-42__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-42__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcEBQgC/8QAKRAAAgIBAwQCAQQDAAAAAAAAAQIDBBEFEiEABhMxQVEiBzJhgRVicf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBc0u8dGlsmN9NmWY5yU2E8e+eD1Z3Z6OrQU0Q6lFFYMrxmabCgxqc4ByeT+OfWT0HaVBVsTeHT66SLIU8jeYhgpQngkjaTgjHPz/HTm/TrtHSINDp2tVptbnaQW0Yvt2DICoQPnG0n+fjoFlfqalWNaEf5aq4jfAsHxquBkhTxnJ/r76ivr/cMV2GwbEkzIg2qyhwV4xwPg7R69460RcrV6+hapW8VSKnXSeWOcxGSbyWA+905AVhu24I5xnIwOs4mBa1WnZtW68jSmaDwjmRDGjKFbI/FicHg+s8/HQTafa8tdga7RhHUCQxk7gQSQw4+Prjphdk67Bo1Ken3RY1Cc+4ZxCSzYYEgnI+BwPf/AHjoXV7AUeAwBv8AdT6/o9dxC9NIzWZqkHijZosKzq8mR+4exxnnPvoDup3JBN2p3RZmRJHZbKwFdyMysCibg2dv7lP3kn66WffvYOr6do1buFtW0+7pzqUU0mkYRyYOd+8A8nP5fefWR1exWbtfTLkPnqGadlfcylkYgk4I9gevv10H6/Vv3JtLiNnfVqwLHy42xuTl+M/kDzzjnPQf/9k=" />
 
 Ich selbst habe in meinem Leben schon die ein oder andere Zeit gehabt, in der
 ich das Gefühl hatte, gegen Windmühlen zu schreiben, singen oder einfach nur zu
@@ -129,7 +129,7 @@ Perlenorring? Ihr könnt es nennen, wie Ihr wollt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-37__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-37__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKBAAAgIBAwMCBwEAAAAAAAAAAQIDBBEABQYSITFBURMVMmFxgZEi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFTZ2KC1uK2Y1skDodyXDhe2T0nPp4x9vOpXI9jjkjpWaPxZqO43Sk1kxuRApCBMlRgeGODgnsO+mjx3hmy2FWO5Z36AjsfibegjP4fJB1t4+P0uG29uTjhuSR37AjtxtIpWT/LEfQAQchft3/J0HM+4cchXbLEti9HXs1lMUW3yQuJWU9yxbOA2CSMjxo06OVcd2fb+P7vvO6pcl3jcSGisTthRISM4XJx2GO+dGgXVDbZJYR0XpC+O3WM4P91c7TX3anVWL5uzMkiygqi/UpJHp4GT499Z2nNYjCiKyygehUPn9nWhrTLJXBlsM7ezDpA/mNBN5Tvly/1S7xcklUY6I1jUKreCwAycnRqgvyoGIRFT3Ydgf2NGg//Z" />
 
 Das hier soll jetzt auf gar keinen Fall eine Abrechnung mit meinen Freunden
 werden. Kein rotzfreches, lautes, schrilles "Beachte mich, ich bin auch toll".
@@ -156,7 +156,7 @@ kommentiere doch auch alle Bilder von seinen Hunden.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-39__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-39__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKBAAAgIBBAIABQUAAAAAAAAAAQIDBBEABRIhBjEHE0FRYRQicZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMo823Ha7dnazTtXLdNImysrhcMjgOEPEdFVGM+j+NOW2bNU27x5Ny3l4blDETwqsz1xEgHZdgTksW4/br840jXNksWdppfJhszzLckKcISMVyTjJx0c94Iz61pPj900ZGSGO7+khEMUZmjPGZSxDpwYDIIOCOvX50Co/jO2TXZNjK2YXeaS/LXksKzrArARqpAIHLkD+4Z4jOqTy+rT2fyextm1R3KNeqYUkZpC/bJyY5GM+wR9vWnXxjaINh+I+4z1xFBSihuVEjd2JJ5N8tewcdAAAE+us65vJKU24zNPHXntwXEpTh4gzRh1rLExfIzkEfT7HrQaDt7wGNUnBAz7GVP8ZHerOKPbhMsoqgTKCofLk4I7+v10aNBNbuopyePM95c5b/Tn+9Um57qpUg8AM4yCpJOjRoP/2Q==" />
 
 Ich poste jeden einzelnen Artikel, den ich hier im Blog veröffentliche,
 feinsäuberlich in allen sozialen Netzwerken. Derzeit nutze ich sieben. Insgesamt
@@ -181,7 +181,7 @@ Kommentar unter dem Anriss im sozialen Netzwerk. Oder gar nicht.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-34__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-34__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAApEAACAQMDAwMEAwAAAAAAAAABAgQDBREAEiEGMUETIlFhcYGhFDLw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AITYFnOI4gijKkXJxGSmzEspJwQcAAZBB+2dVC0Wbpjo66KkyNLvF1ohjTkSKQSIjlt3sDA5HON7Z+cDvp1YunrPaa8aQipSZXJTNXJLlT9O+M/4a09U3mPCjuYyUJ0k03Yhixp0UVd23PBOceMbiPAGgj/VtCtK6xk3C32adEi1MsKNJAypkEAq6gqVzk5HjA8a129DboVda0SnXpqtaU7JU3ekNoARuMBjgN38c6pVghWLqePIugt8ev67ruXDoocIu4bT/XPH5J5Om06xWWhT9WjGCLVAUtuwTgbQr55PxoOftdxq1bzUhB3ET+OWrDI9xLbQAcZA4PYj9aXrTpQ+qJdvR9kOXtcUaiJUpt7R3Dqfg85GjRoGlsgQhC9JGajTqAF1oSGpkn7r2/GmNOrHiZiU12x3GAHcv7seScnkfsfXRo0H/9k=" />
 
 Man möchte doch im Endeffekt auch gar nicht, dass man nur noch auf diese Weise
 interagiert: Likst Du mich, dann like ich Dich. Sprich, wenn Du mein Bild auf

@@ -41,7 +41,7 @@ subTitle: Deutschlands ältestes Wachsfigurenkabinett
   title="Fotorunde im Panoptikum in Hamburg"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24228465322_9e793a5ea7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24228465322_9e793a5ea7_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABEDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAEBgf/xAAxEAABAwIEAQgLAAAAAAAAAAABAgMRAAQFEhMh0QYUIlORkqHwFTFBQlFUVWFxgZP/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB8RAAIBAwUBAAAAAAAAAAAAAAABAwIREhMiUqHRMf/aAAwDAQACEQMRAD8A8Dwk3VqUlAUpBg5FDxFNco8UTeYbhjTaFNXLCHWn1RGdKlSg/eASP1TuA4GsW9kpbQUl8SCBGUCBv53msy38ITidkpzVYSdNxLlw1qtTnIUSJkIKQIgGCJqXJJudX2xRojbWJzcJ6tfdXVTvprB/pQ/ujhVTdeTg+vQaFHNd+CWBcrtJFs2848WoTs8mQVCPVA27Irkrg6uPLby5QLggQmYGbojb8iiLW4UFsDL0kFM/D2ee2mry7cfuXFLfeyLdJyBxWXefdJgHYVlw4VOwVImk2aea33yNz3HeFVH673WeI41V0Cro/9k=" />
 
 **Seit über 130 Jahren gibt es in St. Pauli etwas ganz Besonderes: Das
 Panoptikum stellt Künstler, Politiker, Wissenschaftler und andere interessante
@@ -63,7 +63,7 @@ groß vor.
 Willkommen, willkommen! Tretet ein in das glitzernde und funkelnde Museum der
 Originale, das Wunderland der Berühmtheiten!
 
-[myflickr tag="annepanotikum2016"]
+<Gallery name="flickr/annepanotikum2016" />
 
 &nbsp;
 

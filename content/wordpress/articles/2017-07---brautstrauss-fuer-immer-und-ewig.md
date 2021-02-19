@@ -26,8 +26,7 @@ date: 2017-07-05T08:00:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "16802"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-1-von-1__l.jpg
@@ -42,7 +41,7 @@ subTitle: Schöne Erinnerungen in Asche konserviert
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBBgcDBP/EAC8QAAEDAwIDAw0AAAAAAAAAAAECAwQABREGIRITQQdRoRQWIjEyUmFxkaKxsvD/xAAZAQACAwEAAAAAAAAAAAAAAAABBQACAwT/xAAhEQACAwAABgMAAAAAAAAAAAABAgADEQQFEiExQaGxwf/aAAwDAQACEQMRAD8Ax63xw04A8AjHeat8FllSR7JzVh7M0sQtbXR9bDbjTUJS0tuoCwCdtvpSK63VAkNNLGGXJbjj7yGRzEowPhsBjxorYCwUeYTW2dXqTrKzlmyWS4ApVGlILZSBulXMCj9v6mvH2lxmvNu3yG0YV5UklWffYbUfE5qbxc5E7QLRWXREj3xhmOF7EI5C+MED1Di33765aukIf7PIiiQVpejde9kA/hNL+aArbTnpvsZN+FO/P5NI05pxi1Tpcl+W1IMiMY5ScgDJyDtg7b9etLJGi4XLTx3JKV8SitbaQCsEY4TnIx8sUUU3WtVOgTiNjZmxfqLS0eTpyJabbcUMJRPM2Q6tO7p4cAejj+xSC46SW401DcvbjjCUpKmk5KQEjCc5JGdzjrRRVLK1YgGRHI7z/9k=" />
 
 **Vor genau vier Jahren, am 5. Juli 2013, gaben Matze und ich uns
 [das Ja-Wort](http://hochzeit.smartr.de/). Wundervoll romantisch in einem großen
@@ -80,8 +79,9 @@ Zuerst schneidet Ihr mit der Schere ein Stück von der Schleife ab, das genau um
 Euer Glas passt. Legt sie beiseite und bindet sie erst zum Schluss um das Glas,
 nicht, dass sie beim Einfüllen etwas von der Asche abbekommt.
 
-[gallery type="rectangular" link="none" size="medium"
-ids="16799,16801,16800,16798"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-1-von-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-1-von-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-3-von-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-3-von-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-2-von-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-2-von-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-6-von-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-6-von-9__l.jpg"}]}
+/>
 
 Entfernt alle Dekosachen wie Perlen etc. vom Strauß. Manche Brautsträuße sind
 mit Draht gebunden, auch der sollte nach Möglichkeit vorher abgenommen werden.
@@ -90,7 +90,9 @@ Dann kommt der magische Moment der Zeremonie. Ihr legt den Brautstrauß in den
 Topf und zündet ihn an. Sorgt für eine gute Luftzufuhr, damit auch alles schön
 verbrennt.
 
-[gallery type="rectangular" link="none" size="medium" ids="16797,16796"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-5-von-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-5-von-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-4-von-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-4-von-9__l.jpg"}]}
+/>
 
 Lasst die Asche an einem trockenen, windgeschützten Ort abkühlen. Im Anschluss
 drückt ihr die Asche mit dem Löffel zusammen. Ihr werdet sehen, sie zerfällt
@@ -101,7 +103,9 @@ an einen Ort, den Ihr immer im Blick habt. Mein Brautstrauß ziert ab heute die
 Ablage über meinem Schreibtisch und immer, wenn ich kurz den Blick vom
 Bildschirm löse, erfreue ich mich an seinem Anblick.
 
-[gallery type="rectangular" size="medium" link="none" ids="16795,16794"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-9-von-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-8-von-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_06_Brautstrau%C3%9F-8-von-9__l.jpg"}]}
+/>
 
 Ich wünsche Euch viel Spaß beim Nachbasteln! Genießt Euren nächsten
 Hochzeitstag! &lt;3

@@ -29,6 +29,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Unexpected token (126:49)"
 thumbnailId: "12056"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_3846819118_41b624fc0b_z-e1586968869255__m.jpg
@@ -47,7 +48,7 @@ subTitle: '"Es war ein langer Reifungsprozess!"'
   title="Die vegane Ärztin Dr. Barbara Gorißen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_1506152__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYIBwT/xAAqEAACAQMDAgUEAwAAAAAAAAABAgMEBREAEiEGQQcTMTKRIlFhgRRxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAUCBP/EAB8RAAIDAAICAwAAAAAAAAAAAAECAAMRBBIxQRTB8P/aAAwDAQACEQMRAD8AputkjpqWeZlTCIT6DUmeMd3N0vMMlNIFZCSJM/UMH1z2PfW9eJnUUdN0XXTRsytlkORj2rk/6NYtcfD+KpkpKU3NFq5VDKskLANkbtu70zzoz5KPZ29D8fqKcXjlqSR5MzSnu4e/hY9ximHtJyN55JH2zznRrr6hs1Nb7rR/w5dyeaIWkEZC7/qyQSMcEfvGjVuytjCI8OuxVKEbhlLeM9PLcqB6WJCIDF5GccFmPb40rdBdQtdrZb46lM3W0xmCaJWwZduQrftcaZOuOpbfV1725mZVhi8xJc8K6uV5+B86nG5+fTVl1iWoZRMhkDRsQdwweCOdH1jszDfeyaD0rXR42dHW96hk6gggigEdPSVrzzdyST7c99oJH9n8aNJjRkwbV5ZvX8ffOjSa1LgBmNudejE1nNn/2Q==" />
 
 > "Die Welt hat genug für jedermanns Bedürfnisse, aber nicht für jedermanns
 > Gier." - Mahatma Gandhi **Vor Kurzem habe ich über ein soziales Netzwerk die
@@ -102,7 +103,7 @@ Neuanfang gemacht.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_14648550848_6a282363ee_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_14648550848_6a282363ee_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYFBwgC/8QAKxAAAQMDAwMCBgMAAAAAAAAAAQIDEQQFIQAGEhMxQQdhFBYiUXGBIzJS/8QAFgEBAQEAAAAAAAAAAAAAAAAABQAE/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQACAwQRIQUSMRNBUWHwIv/aAAwDAQACEQMRAD8AmN3evm3HLBcLYqzXW4LhbbiSlDDU+FBWVDORKZEZ1U239w1tKjk1WrarXD1lNu8CoIBnGMkx4PbOlqtYU1d7hT3Dr0a5WXVOolzqq75JjyCfzjQvl682/bguqaUItrx4pdBPPEZHcpHcSfeNETATCxwUxqmmdJjXw5Gcg34+8K9No+odvtSXXtxpeV1SgkcuRblIAJxHEDHfHnViP1NFcqRNXbltKp1iUuIHGD/laZIE+FAx41lxuyV162TXX6ndC7VbahtuvpkucqhLahAcMCOH9RP2BPg6efRm7FNmuNArr1FEhzpNCCtfFQlIx3ggjH2GhtRpp4YWzxu4IuPV1loZnH8uPCXd309xoN53Jm60iam5EJW/UNswHVLTy4uNQpCgO2OPbBEa5tVxrbq8zalsmloHhAQeQUEmOoImSMQAew/GnAWkXVZqq/8AnqISjqugFRSOwn9nQ0U71gq/ircxRKWocVBbAJ4+yu6T7jSMldG9wZI3A7pyGJ8TDsOSECwOt7FvTT1E51rPcedHcLe61MIXgAyfqMCRP3jzqR3HtA7W+BdtbSbhbXahx2kqG3B9TaihSApIIMiD3ESPfUC+pNwr2GKht7pvVLUsuw4mC4kqHIR4kDE51oZi9U9Y2pAt9K4+qUONqSEq6YMZJH6E6pKlu67BcHj0jDSGFw22I7+L/Ff/2Q==" />
 
 **Dr. Gorißen:** Ich bin mit Tieren aufgewachsen und habe als Kind die Hühner
 meiner Eltern gezähmt und herumgetragen. Ich kann mich noch gut daran erinnern,
@@ -159,7 +160,7 @@ ein spezielles Vorbild, ihren Veganismus betreffend?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_15078674510_9072b3c5ee_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_15078674510_9072b3c5ee_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QALRAAAQMDAgUCBQUAAAAAAAAAAQIDEQAEBQYSEyEiMUEUUQcjQlKhYXGBkcH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAQIEBf/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMRITEEEkGR/9oADAMBAAIRAxEAPwDPtQXeQt8yWXbh5nirKkqLhRuSJBEDpPSAO3keasua3yDBQEXjjnpnNikFM8VJg7SRzMbYnvzNXtcYhSbpD11vUlAKQ2oEpB+7lz9z+pApcscPa3DN6tbbrm0cJDjkJgkiAQJiN0/jxRe29zmXsaXI0zQNJZ+zfYUrJvvovC4Ot5ChxWwklKtoEJgcj7kTRVLQ+IVd5RNtcXHC9CtN0WVjil0J5EGe3c/wR3op6WBHMemy61AeI3fEDDO5Cwt7i2cbAZXudSsTxEe39waV9IaYXksrZ2Tqm/Sv731rQfmBuIgT2jbB/etTQGby2dYe2qaWCkyJ5VxNEYC5wWsblbywqzfYIZW0OgeSlQ+nxVHqxpPkVpcoLfM/NjS5aIaG0AHYgICtomIA/wAoqbIvhLLjgE7TP4opETBNQJPU/9k=" />
 
 Was die Vorbilder betrifft: Den ersten Anstoß gab mir mir allerdings ein Veganer
 in meinem Sportverein Anfang der 90er Jahre. Damals gab es das Wort „vegan“ noch
@@ -191,7 +192,8 @@ ethische Aspekt. Wann wurde der gesundheitliche Gesichtspunkt interessant?
 size="medium" title="Tabletten? Oder einfach "nur" gesunde Ernährung?"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_4746653392_cd0676b04a_z__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_4746653392_cd0676b04a_z__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBAACB//EACkQAAEEAQQBAwMFAAAAAAAAAAECAwQRBQASITETBhRBIlFhJDJxobH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAIBEAAQMEAgMAAAAAAAAAAAAAAQACEQMSIVExYUGR8P/aAAwDAQACEQMRAD8A7o7k2UzvaNx5Tr5RuBaZJANgVfx3d9CtCmcvJjZHJw1w5iHGlrWt14Ld39eMNWNqgrkFIIrvQ3HRpXjlzMnn4andzTKZEXyJShdg/RuVR3dUOPjsab2fJJgzRHeK0rdJWhxRSWzd7aHI/wB1zy444WpAUuQnJgR0qcZLq0NJcfZatS+TQCeh3Ys0ONVsu8/AxUubgWGn56m1LZaW4VlzbRIAFn8caEZlap8RCseIEzK49Zb870koQy6DdLSk2aB5Se9ZGxuKlzY0iFIJnY3jchRSgKJs0BQIJFEjg1/OiXybW+1bYElLPpuF6QkxmcThJzEssvrLTKpJePkBKidhPPKSeua41Mt7Lwc9Gaj5V79S74gDjhsRdni1AEkkcWDzqxi/R+FxUr3WDhR8bJJvyR2U7r+/PzyedbLTi8UH4MuZLkzH1e/WCsF07BXkCQBQA+QNGsHkTgdzCbNBEfT2aSGY701gvJlpdXPc2ABC02CQNo3EkABPJ+16LrCsfjkNwohU1RcTuVtP1ckmx/VaUvRfp7BZSM4mPkMtJDq/MUPy/I2g3f7aHz30fzpjjQpyMnlZOSybkpEsoDUZFhuOEivovnn50KQe2PI3rf3ajhzccr//2Q=="
+/>
 
 **Dr. Gorißen:** Aber sicher! Nur leider wollen die wenigsten etwas davon hören.
 Leider ist die typische Mentalität der Menschen häufig die Bequemlichkeit. Zum
@@ -335,7 +337,7 @@ ohne seinen Spiegel zu kennen: Darin sehe ich kein Problem.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_Vitamine__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQI/8QAKRAAAgIBAgUDBAMAAAAAAAAAAQIDBBEABQYSEyExIkFhByNRsVJxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQH/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAMCIRESMUH/2gAMAwEAAhEDEQA/AJ7sux1d5lWjfttSrzDvOqFiuO/sR+POdPw+nXD+2bS89ffrVwO8Q5uiz9sgYUljg4b9aT9naxWetYSJcrKg+6uVIY4OR/R1Wt4WfYdijnjVjHHZiUo8QJ5ebHbyfAGNScrE18lLRtmvxRT4Si25Y5KttHWPpqq21RsAfxK+e3nGdQvc4a7u8lMSisSemJSC2PkjAOqrxpvm2zRDlk6lm5zdOAE9QEHBUjsQR+D7eNTKx64yqKOcZyngr8Y05x6sWWGZOiqfB+03qUdeeEj1BldDyspGmscM1eiq25p7EYZXC5C+oHIOR3yDo0aDCvFNkO1eZlu3Dr3EYtcXB92gUt/uR+tS3d+BtmoyTyxRO9liS88rczE/A7AD4A0aNZcAckZS9vZ//9k=" />
 
 ## Ich bin kein Freund von Nahrungsergänzungsmitteln **Anne:** Gibt es (weitere) Vitamine/Nährstoffe, die man dem Körper über Nahrungsergänzungsmittel zuführen sollte? Oder holt er sich bei einer gesunden, ausgewogenen Ernährung immer das, was er braucht?
 

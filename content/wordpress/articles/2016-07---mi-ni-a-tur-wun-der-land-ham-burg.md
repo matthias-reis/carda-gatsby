@@ -56,6 +56,6 @@ verschiedensten Verschwörungstheorien, darunter auch die Bielefeld-Verschwörun
 und die Verfilmung der Mond-Landung. Und selbstverständlich alles aus Hamburg,
 ich habe sogar Altona entdeckt! &lt;3
 
-[myflickr tag="anneminiaturwunderland2016"]
+<Gallery name="flickr/anneminiaturwunderland2016" />
 
   

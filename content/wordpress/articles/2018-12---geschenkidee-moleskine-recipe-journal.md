@@ -113,6 +113,6 @@ hier im Blog noch ein paar weitere Tipps.
   Werbekennzeichnung in meinem Blog findet Ihr auf meiner 
   [Transparenz-Seite](/werbung/). _
 
-[glry name="2018-12-moleskine"]
+<Gallery name="glry2018-12-moleskine" />
 
   

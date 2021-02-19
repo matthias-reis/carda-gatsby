@@ -66,7 +66,7 @@ findet Ihr nicht?
 
 Ich wünsche Euch noch eine schöne Vorweihnachtszeit!
 
-[myflickr tag="anneelbeinaltona"]
+<Gallery name="flickr/anneelbeinaltona" />
 
 &nbsp;
 

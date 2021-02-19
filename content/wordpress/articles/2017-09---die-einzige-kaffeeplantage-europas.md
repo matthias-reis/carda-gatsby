@@ -58,7 +58,7 @@ Wer Interesse hat, die einzige Kaffeeplantage Europas zu besichtigen, informiert
 sich am besten vorab auf der Homepage\* der Bodega. Eine Voranmeldung ist immer
 sinnvoll.
 
-[myflickr tag="annelosberrazales"]
+<Gallery name="flickr/annelosberrazales" />
 
 \*Zur [Homepage](http://www.bodegalosberrazales.com/) der _Bodega Los
 Berrazales_ geht es hier entlang.

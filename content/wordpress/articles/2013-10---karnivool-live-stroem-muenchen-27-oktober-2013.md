@@ -31,8 +31,7 @@ date: 2013-10-30T17:04:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "7547"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__l.jpg
@@ -52,7 +51,9 @@ live gesehen, waren schwer beeindruckt gewesen uns sehnten das Wiedersehen
 herbei. Nachdem wir einige Blocks entfernt einen Parkplatz ergattert hatten,
 begaben wir uns zum Club. Dabei sind mir diese beiden Aufnahmen gelungen:
 
-[gallery columns="1" size="medium" type="square" ids="7555,7556"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_6185__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_6185__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_6187__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_6187__l.jpg"}]}
+/>
 
 Beim Einlass hielt mich der junge Türsteher am Ärmel fest und bat mich, ihm den
 Inhalt meiner Tasche zu zeigen. "Das ist eine Profikamera! Damit können Sie
@@ -146,7 +147,9 @@ habe, bitte nicht auf die Qualität achten. ;-)
 
 ### _PS_ _Ähnlichkeiten mit lebenden Personen sind rein zufällig und nicht beabsichtigt. ;-)_ ### _PPS_ _Natürlich werde ich Euch auch nicht verraten, was "unser Lied" is_ t.
 
-[gallery columns="2" size="medium" ids="7547,7548,7549,7550"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7968__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7973__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7973__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7976__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7976__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7980__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_10_img_7980__l.jpg"}]}
+/>
 
 **Und hier sind für Euch Karnivool mit "All I Know"**
 

@@ -60,7 +60,7 @@ Werbetrommel gerührt habe und den Firmen mitgeteilt habe, dass es mich gibt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41782943651_bf6dabf29e_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_41782943651_bf6dabf29e_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACwQAAEDAwMDAwIHAAAAAAAAAAECAwQFESEABjESE0EHMmEUURUjJVJigbH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAgMF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxExIVEEcfD/2gAMAwEAAhEDEQA/ANv0Z3Iur0GlRayQZL4U1DmXJTMKOUKJ9r4TZRSfck9Sb5Gnuou09MDvlSZDDhKB2rKCzwU/7fUO9E5VJ/UNrV2M2/Sn5CUoU4soU31E9p1KuQpJCk9QNwQk+NPbFToGw6hLo0iW1NnBaXmHGG0SC+c27iSQll8WPV4X7kgElIJZ5LtUWrIBHf3XM2FGHAOjI76g7Ol0jcD0SNUWZ6GFh8MNKSp5poWP5jfKSAoZ4ODqVV9pyPUpMdRQpDThSFItZQ8G/m4067orMSo1iqPtxJLDjUxbjjyVE9KzdPVg44HHydKbMGXWJH08GK844gdTi1OXSAByokY/s6qksxzKtVQMTaodUkGoRFxlBq7a23XTkqQVA2A+9xj7X06O1lluC5TosVntuZdK+pQv+4+VKvkG+LeNGjQr6lLa1EVOce5PYNWZg7nf/EC6/TZDw+qTey3EXzkcE3zb51rVzeYEEQKTFbgwxw02iwV/K/JPyc6NGupWAo4gXJJwZ//Z" />
 
 Man bekommt nämlich nicht einfach so irgendwelche Sachen zugeschickt (Was sicher
 auf Dauer auch ganz schön anstrengend wäre, so ganz ohne Vorwarnung?).
@@ -103,7 +103,7 @@ sein…“ fällt?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-5-von-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-5-von-6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAIF/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhBhMxFCJhB0FRFjJScXL/xAAYAQACAwAAAAAAAAAAAAAAAAACBQADBP/EACQRAAEDAwEJAAAAAAAAAAAAAAEAAgMSMfARBCEiQVFxobHh/9oADAMBAAIRAxEAPwCXdEU9RV9Wu88frZpX7rpHGZC784Tb4HJPngHVNrqt4asWu9xPBLFJjsYKqUODtctk5AIx4Hnk68r6KyLBcrrVpSxrJ3ykZkGF2Es5IP5ztP3wOMc6ZZKqHqS73G5uryHcIqdZIcdtY0GB7Tn3DcR8YOkktquytkj4agt0VHaTTxiSCvlnHDvTOdrAcKcDjkDOR+fjRri1y1NDTtSUlFXOIWwxpZC7eBjeCpwcYx40aFlNI1HgLMd6nvRl5m/S0NitscbzTAM0obdIo9zN/kHcAPkaaqu6xXSzpDTR0q1dqqVgzWIp7kX7Tubge1uATj4xxpC6Q6jstHa6SCu9RFUQKrxMtKGKkg7x3AcsjbgQhHBHnW63XaC1zyeiaqrfWqzzrUxqxfcSSduOP65xxpyWRjZHVXPvlpnVFO95kAzPib4bvBMga4RwzOuVCySNIYjkkqHRwWXnI3cjOMnRqcy3ajGzuyZG0FUUCN4x/Fh9z8/fJ4GjSQxuUFl//9k=" />
 
 Auch der zweite von mir erwähnte Satz trifft ziemlich genau daneben. Arbeitet
 man Vollzeit und bloggt nebenbei, bleibt nicht viel Zeit, Leute kennenzulernen,
@@ -138,7 +138,7 @@ nicht wieder abgebrokelt kriegst.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-2-von-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-2-von-6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAArEAACAQMDAgUDBQAAAAAAAAABAgMEERIABSETMQYiQVFhBxRxI0KBkcH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwEE/8QAJREAAgEDAgUFAAAAAAAAAAAAAQIRAAMSMUEEIVFx8AWhscHh/9oADAMBAAIRAxEAPwDFeHPC0+7xzS0lJKY4AVlxW8KkXyLkA/njtpmKkjp6OfowStTxkOXggzWNLAedgoNzc8Ekntqv9O9xbZqHcWrBLEsfWq3LSSKJUY4qTawuz4KPTkj11PFUNlp/u5jFFuREis9O7MzW7ki2N+3uSRe4tbRFzJTy1pC2pIV0MmdfYydttv2dV0MG3VEsG7UMNUVfGIqjLwALk/JJtzz5fTRpOtqDukxkMklCwuWHSCZEkmwHsP8AdGtDsBtUWzk4LI86ia1dBVy+K+hBFIlPLFji9QuSkfuFvYlUP5F+41HqVG5JdkFK0KsmKRAhiARIrNcW7d7W5GpPgbdlpN+j6xJhaIwMAwBGShgf4IH96V3itd9wqFgeYwzsc1BxRrjze1yRb5uNO8cgZO0VD0psbjW2EhtR2iPBvXTcDFDMqVNXXUylQ0Shkf8ATPI84Jyt2+LaNZ3fJIYqvKNpAj8lZXZrN68cWvxxzo0QExEV0ubdlikDl1mfr4r/2Q==" />
 
 Feedback bekommst Du in der Regel keins. Darauf kannst Du Dich auch schon mal
 vorbereiten. Vielleicht wird Dir Deine Familie sagen, wie toll sie Deine Seite
@@ -162,7 +162,7 @@ versprochen hattest.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Tweet.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Tweet.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAHCAYAAABp0096AAAACXBIWXMAABYlAAAWJQFJUiTwAAABsUlEQVQoz5VT227bMAz1f63YX6z93bxsbosOW4fm5sJXSbaT+BKn9d3OGanURQp06EqAFi2KPIekZICkqipsNls2kaYZ8nyPsiyRZjkOT8/o+h59P2AYBpR1rc8N44i6abXvM3I8Hl/jWY0syzCfz3H57Qq3N9f4/ecBpnmDu7uf+P7DxK/7B4gwgiTNiwJuIJHvCxSHJ8TbHeJdgpESdV2nV5amaYhwr/97Tb5H27Z4wT4RoGK4AMN1XcxmM1x8+Ypr06TNDvt9jjjeYLMlpVUICcta40CgYRjCoxgvEAiCAKEKIaXEYrHEYrWCkALL1Rq2Q2c8DyvrEQ6dX5KPi2XpCXwcB20b/LFtG47j6A2fkgoh9EjWloXAD5AkqQaybYcAFETgU7ICSikoIhRRdwT52c5obLskgaQcivZcz6eR5jo3E/aJOJNzXQdlVZ8ITMJtSjiYQHwCDqMIURxTBZ5OzsRsqkYSMN+Rj+b8P2Lw4UG3ZNSBTdu9OcDzezu70+U53+OWvgt+fJ8U25Ma504GUy+vYRJFHXium9f/iuyUXgmvU5yiezJdwPPk5/ov319oPlgpiJUS8AAAAABJRU5ErkJggg==" />
 
 Willst du jetzt immer noch Blogger werden? Falls Dich das alles noch nicht
 abgeschreckt hat, habe ich noch ein paar weitere Ausführungen für Dich. Zum 25.
@@ -180,7 +180,7 @@ denen man sich richten kann.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-4-von-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-4-von-6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwECBP/EACsQAAEDAwMDAwMFAAAAAAAAAAECAwQABRESEyEGMUEiUWEHJJEUMlKB8f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADEQQSISMxUpHw/9oADAMBAAIRAxEAPwBf9Prc3cIa13J6O2WidTriAAEgfuUSQAM+fFZtEJKI89bRYSyErP261LbUUg4UjV4+ex71pHgOM2OVHU024HY6hsrTnVkgY78/1zTZiKmB05NSsbm3HLY2jqzn08fms1FQPkQAVJJBlURfsFOGE+A27jJeAUcjvgjxnP5oqcudJ3u3MIDtgXhxSinWQ4ccfxJwck8HmildXx+9RZQ57Trs2490y8JKVOlptSm1KXyTjsfP+VIrLcYkdDn64PtNqGN1hOoA/JJz7ZxzVfQJ7cK2REzBcnHJUnaTsBBDaQPVkYOrGB6e5znxTaSiRbpUee3cJsu1SYy1IYeSgBohaRzpSnUeSORnv71StZA3DiU0oQQcSazeq0xlk28R3VOqLjqkPBGpRx6iCe5+PaiqW6kftnUdxL0g5DCQ0httWdA+QPJOaK1E0NzKG3DmBZralYqVPE//2Q==" />
 
 Es gibt eben keinen einfachen Generator, in den man oben seine Daten
 reinschmeißt und unten kommt das perfekte, rechtssichere Datenschutzgebilde für
@@ -213,7 +213,7 @@ Du Dich nicht mit den Einstellungen auskennst.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-1-von-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-1-von-6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAgME/8QAJxAAAgIBAwIGAwEAAAAAAAAAAQIDEQQABSESExQiMUFRcQZhgZH/xAAXAQADAQAAAAAAAAAAAAAAAAABBAUD/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQIDEQAhQRIiYQQxcZHh8PH/2gAMAwEAAhEDEQA/AIbbdq8RAQEKOCoIYNbmq6gTQPFe+nW37SIvER5LL3ZAVEax12uRb1yR8EgfPxrL8NGWHjyIp0j8CUyntmQsfMCige4ska6N43vJfOyJcVQVzZWnlfkiiTXpfmqgTwTfOpLja9IdixzimgELUq9x34GD5/DmpPftgefdZZcHIxo4GVVsBSGYCmPm59fofGjT7DllmjZzHO0oYowE3RQHoSOg8kfWjRDiAN0zwK1DLEb9U8AEe5pRswmxMbG3CV3CyRxzL3bACB6BF3d0edOt3yhuW+7iMDJTw+QzTR0UJZyK9D9/o82NRkn5M2Ps8+NucTd2HDTGwTC3T2nWQOCfnj1/vvrZBusEssWTk40aDtgCJyzqwANfv4A1T6h9JZS2gWEfNK9CktulxZuZHfBNpPAplm5OSscJzpNwCt1GOpxZ55uz9f7o1LZGQclgFXoRLpLNCzfF/wA/zRqfpJzTK31E7VH75r//2Q==" />
 
 Es fallen auch Kosten an. Für das Hosting Deiner Seite zum Beispiel, für https
 und für das Speichern größerer Bildersammlungen. Für einen guten Computer, bei
@@ -246,7 +246,7 @@ Programm, auch wenn das gar nicht Dein Ding ist.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-6-von-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_05_Matthias-6-von-6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQGBQcI/8QAKRAAAgEDAwMDBQEBAAAAAAAAAQIDBAURABIhBhQxImFxBxMVQVGRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAX/xAAfEQACAQMFAQAAAAAAAAAAAAABAgADESEEEhMxQdH/2gAMAwEAAhEDEQA/AJW1Td1e46q73KraeNllV5VYlmA4Us3G3H/AMavfp11JYunLndZLlIB3EUYiZXDuCCcpsGAB6sj2GomjqIZ6ZWaoqKnYwB+wfHOM4Pj/AD4J07Vra5unJFprcvf07kO6ws0hwfUrnwf5x+x7azVqMMg9SdAzXI8zNuS/ULprZE/eNlwW2Km4pyRhv4ePGjXNcletQ280AqH/AGYtxUDPA8/OjTRqGI7hymWP4q30loqezp6k3F4y0Us9YAA5HGVC488+caw015u9JT1VMZqqOKjfu44Z05LEn1FgAcZycAkZJ0reqif8JWq1ww0cYdQWYhiCM54A8Z51M265113utFFPVVMsVOA215S0caqfOCeRz4GqdGwpJdh7f5GFDnabXlfP0/b5iCWuKgjfgSRuMtyccrx7HRpe51jmYfZrKM44O5ivxwedGodrw4xP/9k=" />
 
 Trotz alledem liebe ich das Bloggen. Ich kann es aus meinem Leben nicht mehr
 wegdenken und möchte es um keinen Preis aufgeben oder missen. Klar habe ich auch

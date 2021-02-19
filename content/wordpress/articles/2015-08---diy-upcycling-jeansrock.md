@@ -41,7 +41,7 @@ subTitle: Kreiere Dein romantisches Einzelstück
   title="Mein neuer Upcycling Jeansrock"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-12__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-12__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQL/xAAvEAABAwIEAwUJAQAAAAAAAAABAgMRAAQFBhIhExQiMUFRYXEHMjOCkaGiwdHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABQMBAv/EAB0RAQACAgIDAAAAAAAAAAAAAAEAAgMRBCEjMVH/2gAMAwEAAhEDEQA/AMHJOEuXLj7otuYhPw5iZMf0VUbfI4VbuOBpNlKNKA0EyBHvEmd586wPZfwWrS4ccVohaUapgbJn91SzjWGptJ5ltSojoIUT9KD46uMde43yXyIPyKWFZVbvbd03Ljjd0OjjAq1CAAYnYSQe7YUqZ2ySUNl1pXEdRJJMlSx4E/7f1qh299dNvPFi0vC2pWpJ4I0gHuMmO3wrDzJmB9xtTb7WHWrihtxLkFR+VIJq+S1U0vUljLDup3JLhOMos3lMixZfcUoaFvqUpKNt+iQDPnTZZ5ixJ1RTzHBRt026Q0PxE/eiihM9kroYziqLtJzjt68mzLilrWsxJWsmZ9T50pqfVzbRG24MDbtoorOKDXc6yqOp/9k=" />
 
 **Am Wochenende geht es für uns wieder auf's Festival, denn ich habe Karten für
 das Rock'n'Heim gewonnen. Natürlich freue ich mich wie verrückt auf das Event
@@ -73,7 +73,7 @@ Leicht bis mittel
   title="Sieht gut aus mit schwarzen Leggings"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-14__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_08_Upcycling-Jeansrock-14__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACgQAAIBAwIGAgIDAAAAAAAAAAECAwQFEQAhBgcSEyIxFVEyQSNhgf/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAQL/xAAfEQABAwUAAwAAAAAAAAAAAAAAAQMxAgQTIUERgdH/2gAMAwEAAhEDEQA/AOWljydbVJSS1LlKaGWd1GSsSFyB/YGdNnl5y9tVJSx3vj6pooKaSNpKa3TVGHcAAl5EU9eApBCL5HI9aZ0F6udNNEnLazWD4eRVkSogElPDH6H834lpfE+O/SPsnU9Tu/FOypG+roWPLGvWiti2niO3z0NvmkLUtwlp2ji6yd0dyMe8Yb/D+tW+/cOtBG6Y2H4kaskkHFcNUan56FY5UU1NIwaqEjAkMncfDdO+wHr9ai7pc62HuRXJaeel6j25IonjeMZ2VgSQ2PvbP1oG8s3MmZnsp8GLS7pSjE76UgeGq+XjFLhLfo6aaioagTRUscIQEt3PFn3ZkBUtgk5Y5ztjTLpK1ngp+4ile2oCKOlFG2AFGw0aNLxAXMmC5VMnYyp6QDkAHVAvspkLlhkkZ96NGuumcP/Z" />
 
 Trennt die Spitze von dem Kleidungsstück, das sie bis jetzt geziert hat, ab.
 Achtet dabei darauf, dass die Naht, mit der sie an dem Teil befestigt ist, nicht

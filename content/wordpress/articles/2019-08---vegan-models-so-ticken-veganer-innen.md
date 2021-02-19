@@ -60,7 +60,7 @@ Dazu gehört auch, dass sich die beiden vegan ernähren.
   title="Tobi in Aktion"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_tobias-hess-photography-vegan-models__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAtEAABAwMDAgQFBQAAAAAAAAABAgMEAAURBhIhMZEHEyNBFBYiUbEkgZKh8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAcEQADAAIDAQAAAAAAAAAAAAAAARECAxIiQSH/2gAMAwEAAhEDEQA/AL/MvMRKUbWnHFLWEJHTk9PxSzK1VavU3TbezsJCt5J244Of77VBYfiLqdTMVUmRJKXkuzmXglJ2IQSM4OBgKxz7c9TSNfdSOS7rtccK0JSrz1sL3pkHkknPX36/sBU/ZuG/VKmpfmixAepeLYVH2CwB+KKzDaY17/RNtNPpVPQt6Gy7zlCBknB+/bFFBpL0KV8H64XNMTwzWwmMuPKhWJy3uNKbyQVHLh3Z+kknJBHX3qHTmlwJz0aSErdCAhRSeBuQD3G4dq0Rqu3Qb3Zr1DbYY+PfZX5bpRhRUQDxg5J4xjnPeonr+E4NY3khhW5LLUpeVH00ltvcf5KxS6M78G3YRUvOk7jJu8PTOoG0QPQtqo6h9QUeAjaSQcbVJJ465orieHUtyPomyxnC00TG81CE8qWkuK5x9zwf9mipc7yaKMZEf//Z" />
 
 Vor Kurzem hat er mit "Vegan Models" ein neues Projekt aus der Taufe gehoben. In
 dieser Serie stellt er regelmäßig Veganer\*innen in den sozialen Netzwerken und
@@ -96,7 +96,7 @@ ist denn Deine Resonanz bisher?
   title="Foto: Tobias Hess Ort: Altes Mädchen, Sternschanze Hamburg"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-3__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-3__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgAFB//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQAGEiExQQcTIlEUYRUycf/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAAH/xAAfEQABBAEFAQAAAAAAAAAAAAABAAIDETESEyFBofD/2gAMAwEAAhEDEQA/AH3qBvKxxenFy/hrjS1bSIIZAEyUjY4LcWA7dCfoddcruFhsQ2fJ7dFDJU+0Aa1aidpWkyPJBRlxkjr1OMY0Rqk3NDR1VPeDNTQ3KJ4khdMhg5CZzyJVQSvf9DW7uKxSWa70dqnq68UkdMr1gppeCAgFY2YHpklM9vrQndleL4z4nhMcUbrGK9S/Yt8tuyINuncVfcIXmtvJR+P7kZUJkCNmyQwbC8egyT41i+qvrVdKmneDbdDFaaaQHFRMiyVLjJH1xTt4yf3onf8A34dq1tvWuq6ynoqWCrp6idDw4B4/h3xnkcdM/wBNc0vd6muWHqZ0llYuTxUKBl2PgfvOq9Tgo2taTfSSQ7ikgit9Zc4nuEUM6O0LTFOahlJXlg4z08eNLKx13Bar1uauQGtq45pyo7JkBVUHvhRjH+atWmAF2g1Gq+6WPtmsa47LvkFcZpBTQJVwlZOOJFIQchj5LiQ/Hp1A+tDbhTwlWZYkU/YGrVrkmVouQv/Z" />
 
 **Tobi:** Genau, es war ein toller Auftakt mit Dir. Ich würde diese Bildserie
 gerne auch in eine Zeitschrift oder in ein größeres Online-Magazin bringen,
@@ -146,7 +146,8 @@ die Du Dich immer wieder erinnerst?
 "Altes Mädchen", Sternschanze Hamburg"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-1__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-1__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcB/8QAJxAAAgIBAwQBBAMAAAAAAAAAAQIDBBEABSEGEjFRFBMiQWGRobH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAzEEERIhMlHw/9oADAMBAAIRAxEAPwDE+uFeLd2tR9jSKqqVZAQwwOCNO9MbWm5T0VVkr2rSNJJK6GYJ24AUhjwPJPPP607e2e9upS7QpSTo/McIdD3jAALL3Zxxxg51IUI+oI+qHaTZrEsc0SpZgeoZewKn5A5K5Y5x+tYCMle5zLtYll/WCcx7rDp2rPVjr3F29rQHfBc2+P4odADlHX7h59Z88etZO01ct9GssaqWDFlQsePx3tz/AAANap1XUn2+zVEmywVIIYXHya8DBQgzhcDwST4x696otzYLQkl3KenPWgnw8IMPYC3rH4yATpUhnXfMNSErs4jr73JKjFuVaP48N1BHkntMZIyfOOf68attC/WrNCXo/MsonYZrdmRuSOcKhUAceMaNGrWKGzIVOyeM5W3ncdv3G1coyVYDY7F+nHWCrGEBx24Oec8++NRPUMm572x+VeRIQ3eIo4iFLezzz/g0aNJFCncR2WM44sep/9k="
+/>
 
 **Tobi:** Es gibt sehr viele schöne Momente, vor allem aus der
 Landschaftsfotografie. Dabei ist man oft ganz allein und mit der Natur
@@ -194,7 +195,7 @@ bewusst tust, um Dein Leben möglichst nachhaltig zu gestalten?
   title="Foto: Tobias Hess Ort: Altes Mädchen, Sternschanze Hamburg"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_vegan-models-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACYQAAIBAwQBBAMBAAAAAAAAAAECAwAEEQUGEiExEyJBkRRhYoH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIABAMSITEyERMigf/aAAwDAQACEQMRAD8A8tBqf7I0Rdx7jtrCVpVgILymEAvwHniCezVKGS3v544fwVSaRgoaOYqo/ZBBra7YsrLbetLM944SSzljeaSIGNZGGQMD3eB185xTaXZCVHECtjXIqueZPvHbW37K1lh0qVjexyKsUoVlE6gnmChJwcEHryQceazVxb29nCi6k7IoIJsIWAncYzl3wVjHjo5b+auajqN/cWsdxKzInrgs0g8jj7cZzxwBjqkOqm2a7Mlq64ccnVQQFb5xROA6AzHeK1hfYQg2i2wJW6RlJBAPf+Guh6zaW9ttvSpIIlR5wryMPLHiOz9miirqo+TIbh8MJDr59TYqFwCVKEYGMHOM/VYOiis7feGp0/Z//9k=" />
 
 **Tobi** : Absolut, irgendwie geht das meist Hand in Hand. Ich versuche so weit
 es geht auf Plastik zu verzichten und gemeinsam mit meiner Freundin einiges im

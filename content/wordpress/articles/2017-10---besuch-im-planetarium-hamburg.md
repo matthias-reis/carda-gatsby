@@ -51,7 +51,7 @@ es jetzt endlich mal geschafft.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37124998024_91afdcef60_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_10_37124998024_91afdcef60_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAtEAACAgEDAgQDCQAAAAAAAAABAgMEEQAFIRNRBhIxQQcyYRUiI0JicaGxwf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAwUG/8QAIREAAgICAgEFAAAAAAAAAAAAAQIAEQMhMUEEElFhcZH/2gAMAwEAAhEDEQA/AM08T7rMhiqQRyPBHIFcqCVDYySfqM4B9uT66Rm2y7vFCs9MIIqheJSXZiy+YnGe+SdTP2naswRymxI8yN5pA3Of1Ee/+a0n4U3nn2+xG8pDIzMctjLezDtx/I1r2xE4A7C8dAjdC+Duubu4qu2ocw2LeTaZaFZgKPQ6VeNmOWkQEhm7sQTz24HoNGpHw1astuzW2UIldnmAI5XPHOc5OP60apfPwDAyJ3W/01fzVQgxbcm/DqwS2+nZtCurJgHHznIwmT8ue+qTetvbbrk8VaVk6NwwqAxK+5z9fQamNiiV5/vcqATggeg510923WGxtqVkeyltJ+oXxgfmyQQexGl18nMuMoGPpPXV/UnCjnuUsLvWlEd8Sr+G3RESqFGWJIbPOP20acnKb/SptXHTsRwhGZiMMQBk+ujSRzMxLObJhlPaf//Z" />
 
 Die Aussichtsplattform ist zwar nach wie vor im Status "Wegen Umbau
 geschlossen", aber das Sternen-Theater an sich kann jederzeit besucht werden. Es
@@ -76,6 +76,6 @@ Sternentheater gilt als Wahrzeichen des Hamburger Stadtteils Winterhude und
 zählt durch seine technischen Finessen in der Filmvorführtechnik rund 30.000
 Besucher im Jahr.
 
-[myflickr tag="anneplanetarium102017"]
+<Gallery name="flickr/anneplanetarium102017" />
 
   

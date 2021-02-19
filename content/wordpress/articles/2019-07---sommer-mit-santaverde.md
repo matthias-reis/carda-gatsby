@@ -27,8 +27,7 @@ date: 2019-07-18T13:49:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "25307"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-5__l.jpg
@@ -71,7 +70,7 @@ zwischen 45 und 48 Grad) ein echter Härtetest.
   title="Die Ampullenkur"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAsEAACAQIFAgUDBQAAAAAAAAABAgMEEQAFBhIhMXEHIkFRgRMUFVJikbHB/8QAGQEAAQUAAAAAAAAAAAAAAAAABAABAgMG/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAwQREjFBEyFR/9oADAMBAAIRAxEAPwBCNIaampquJd0K7d37T1Hwf74xQNDaToNRZxmcFY84SCFJY/ouEvucjng+lsKunrRxyUlXZ4ip2uvIZD1+QbGx98P/AIOq9LqjNqCcgP8AjLRtfh0DjawPzb+MZ3EQPeu8agykzh19pOl0ulMtAJmiq1kDtO+4q6lNtuBbgtid1VFuiRdttx2jtiueJMU9JoXKVrFYTQ1zKWeTeQrKxBJufbEsglElWgvdLgL3vgjLIryNgGg9RdzHy/NpKOeOaxYLw6frXoR3tii6Z1IuS18NUixVUBQqu/qY3sSAfS9ge4wYMDVk1MHXnWSA6ml4lawyjN9Ny5bTfcLUNLFNGGg2oVBO7zX9icSzKKlE80j2WElyevCgn/MGDBdzeZg7cxh8n//Z" />
 
 Zur Ampullenkur riet mir die liebe Caro von Santaverde im Vorfeld
 
@@ -108,7 +107,7 @@ Natriumlevulinat, Glucose, pflanzl. Emulgator, Natriumhydroxid, Zitronensäure,
   title="Die Age Protect Creme"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-9__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-9__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAQX/xAAqEAACAgEDAgUDBQAAAAAAAAABAgMEEQAFEgYhEyIxQWEHFXEkUVKRof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAhEQACAgECBwAAAAAAAAAAAAABAgARAxIhBBMxMlFh8P/aAAwDAQACEQMRAD8Am3S9uxT257LTw+FXmYsrcleUOvEjsPQd/wAcdV/pvb6Njdaq2IRZjSpMymzHkgiSM5GR8kemkup0PXZT+sjMcndjJCwOSPMR5iO+PjGqT0Vt3gb2ZJZxcjWnJGsYj4nDNH3zy9gn+6IqzuljYSEqFsiKXXMNbbOqOdOvXiC7cERI4wqs7ytg4GP4jP40r/UEGjcgjpmLycqqhl5ZJTiBj37Bvxqi/UXZZ7nWe3T11hgqR1oufJssCHc5x7/3pQ6h2jeLdySd4KzotkSoVl7ABSM4+SfT1xrN4jDl52oDYWR97lCdohQ3OOaMxrNKQvlbkwzn5yoOmXYN6hr7ujWWWCuYnTxATkE4wMjOB2/bRo1uJ1Bin8TeqeozZ3pPtUkUwMCwhmDMC2SSc9idczcZppQeM8SuilSGUgHHYYIJ0aNLQByS0JzooCf/2Q==" />
 
 Nach der Gesichtsreinigung trug ich abends die reichhaltige Age Protect Cream
 auf das Gesicht auf. Und was soll ich sagen? Ich bin begeistert von dieser
@@ -141,7 +140,7 @@ Anbau</small>
   title="Die Bodylotion Sensitive"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgT/xAAnEAACAQMEAQQCAwAAAAAAAAABAgMEBREABhIhMRMiQVEUgSNiwf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAIF/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAEQMSITEEIiP/2gAMAwEAAhEDEQA/AJw2+3Ld3jqr5NSW/j/AzxLKYD1xZ2+MZALeehp1b7NLQ1bWSSpMsNZUJL+TGRICQMsF+MfoePjUHSXGa33BZKRoZ50LIYpl5pKeRGF+vbjv71cbDu1dV7mtpuNSUjoJZXmpMKRlVARsgch2SDnonB1geOWd0RjfMEQKuN9z7YnstDbqGoramoaqrPUgSV2hfgc5DBWJwOQ8ED26nrZJAYWieWVEo5WePgCBKRy7CkeTkHA+D+9c+8t2G4b5kr5mqJKNSpRVk7PFPdwXvvsgZB/etU8zmjWnDlpJ3xCgiXmqL2ZGzgAgEr39HGfOr5yuxCj1kIqpE18kVNcxMI0npJh6kTsWCsAPGRg/73qx2neaC3XGpraZFp0kpTHDGXL+84Zu/JzgfXjRo0QfIq69xvMtgCJtvvQy3arnuVVXQvGPUhlpoUkw3LJDBmBxjOMd9aY7iMttvk9TToFIZI3kxxDBvYGUd+T2T/YHOjRpduWKnqCYDcT/2Q==" />
 
 Abends nach dem Duschen habe ich die Bodylotion Sensitive aufgetragen. Meine
 sonnenverwöhnte Haut nahm sie dankbar an. Sie zieht schnell ein, reizt die Haut
@@ -168,7 +167,7 @@ Natriumhydroxid, ätherische Öle. ⋆Aus kontrolliert biologischem Anbau</small
   title="Das Aloe Vera Gel Pur und die Bodylotion Sensitive"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-6__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-6__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcD/8QAKBAAAgEDAwQBBAMAAAAAAAAAAQIDAAQRBQYxEhMhgQcUQVGhUpHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMABAX/xAAdEQABBAMBAQAAAAAAAAAAAAABAAIDERIhMQRB/9oADAMBAAIRAxEAPwDKBAYWRypVxyGGM/nnmmHQdDl1OOzgso5Aly7R/UOjsiyEk4ZgDj7D+qgWIuhEyOqMjDHblkUfomtD+Mr1tN2fuBriJo/o7kSCNifAKqfYrF8kQnkDX86qriUpbp2vdaFdWNnNcwSytEZWZFZVjUsQM55OVbilu8hLDsQA9GRlzyx49c1pnypIZd52tuRlDYK7HgIA75NImqyraJiEI8reEB8gD7sR+h/lMmjZFI7Ec4g3YC46ZPCSAz+iMGrvS7uK327uWK9mVUcxdpO70u6+AwUZ8miijhOLw4doplXpRdzbiudWuonErXJjx1EngDPSp/ljJJ9VSTMjAyTNKJH5JAOPX4oooZW24E/VBpf/2Q==" />
 
 Für Sonnenbrand-Notfälle hatte ich das Aloe Vera Gel Pur eingepackt. Tatsächlich
 hat es uns nicht erwischt, weil wir rundum auf starken Sonnenschutz gesetzt
@@ -201,7 +200,7 @@ biologischem Anbau</small>
   title="Diese Produkte haben mich begleitet"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-10__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-10__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAQFBgcIA//EAC0QAAIBAwMCBQEJAAAAAAAAAAECBAMFEQAGEiExBxMiUWEUCBYlQUJicYGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EACARAAICAgAHAAAAAAAAAAAAAAECABEDIQQiMUFxkeH/2gAMAwEAAhEDEQA/AKqi2i4Sp34Vb60wKwJRaJwcgdsD5Bxjt/Gnyy7Yu11v0SxSSlC4muRUWRzbBVCQhHblhSO/fvqefZluaVLZeRLqoSGpVqYfPRvWHABGB+nOPjS+naoUC97I3LEi0krS7o1KbUV2POp57qzN179OntnWcOGtA1+fcF7jnYvD6w7bttU7koQp9Z5dMI30zP5a1AFp08HOBkN8ddULexUj703DZfLXnCn1kjMXwyqlQkIMDPE9B8DtrUl3m2/7x3e33aTEi0lpRJASWwXJV6oGPUOoIH+az1vi8WyL4kbsmW6rGr05clXSfHAr4500JVCDjPLIP9+2qZ0C46UDXT7G1UUeFO8YlhukzzfrKFvrwmj+ckc1AWBBU9CCeWD16d8nTou9mTbMi0SYNbmbuZsWuKqhKSc1LBsnPIlW9P7u+jRqDZmTlEUmc/EzdcPcniBTmWkSUgLHAqCUgQ8lZjgKSSSVOPf8+uocJ01Y8dkr0AEUtyjU8Iy5xlQMAjvkkAg5zo0aiwGQlyNw9p//2Q==" />
 
 Insgesamt waren alle Produkte wirklich toll und haben sich im Test bewährt.
 Nichtmal die wirklich hohen Temperaturen konnten ihnen etwas anhaben und das
@@ -229,7 +228,7 @@ eigentlich in der Spülwanne mit mir herumtrage. ;-)
   title="Das Aloe Vera Gel Pur und die Ampulenkur"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-8__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-8__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcABP/EACsQAAEDAwIFBAEFAAAAAAAAAAECAwQABRESIQYHEzFBFDJRcSJSgZGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBf/EAB8RAQACAQMFAAAAAAAAAAAAAAEAAiEDERIEMUFh8P/aAAwDAQACEQMRAD8AP8F8PG83sW914Q3ump1B6fUCikZI7juM07tPKnpwUW+6XFTjLQ1tGKnpq95P5awdsHG1FeXi3Y3GVj6zhdUlbjYcJyXW1Nq0n7GwP7Vbro+6m3TnYgeRIEFamtKMrCs7EJ33qelUrVUg4l7BJBzM4UYsYtIjyXltvqdU4FpSAlKEjtgeSoUNvljch3X0MF6PcNW3UQ0UgEI1qzn43Gc+Ko3Md56VC4PRcS4XXIq3JKnBpV7k5yNsHb+qm9wmCSWpEZ4NJDpDRSAoEDvgA5z47YNZnV6dNuVTPj71KI8tu87+D40m2XW0KTKcXBjzUOEFrSUDfJJBOwz/ALVkXd7WuQB60lCGgNaHVN4Oo91beMVq1aVbpE1F3gvmnLkXiRANiZRPcRFcaUsuHQ3qUNz+o4H1QC4JkQ0H1NnltzAnSp2M8ChY+Qd1N5HcJ/kCtWo3zlioBif/2Q==" />
 
 Für alle, die das Aloe Vera Gel Pur auch mal testen möchten, habe ich eine
 kleine Verlosung vorbereitet. Zu gewinnen gibt es ein Aloe Vera Gel Pur. Sendet
@@ -252,7 +251,9 @@ Produkte angebaut werden. Ich war direkt vor Ort auf der **Finka Santaverde**
 und habe mich dort mit der lieben Carmen unterhalten und so einige Fotos
 gemacht. Bleibt also dran. Es bleibt auf alle Fälle spannend.
 
-[gallery type="rectangular" ids="25305,25303,25304,25314,25313"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-2__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-11__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-11__l.jpg"}]}
+/>
 
 Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen

@@ -46,7 +46,7 @@ subTitle: Eine treulose Tomate meldet sich zurück
   title="[ ](https://www.flickr.com/photos/99929697@N07/)  Das Ticket"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_soundgarden-black-sabbath-live-kc3b6nigsplatz-mc3bcnchen__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_soundgarden-black-sabbath-live-kc3b6nigsplatz-mc3bcnchen__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYHBP/EACwQAAEDAwQABAUFAAAAAAAAAAECAwQABREGEiExEyJBUQcUFTKBI0JxobH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAfEQACAgIDAAMAAAAAAAAAAAABAgADBBESIUExwfH/2gAMAwEAAhEDEQA/AJGPHeahqedkPBCBnCCSo8gAADkkkgAe5p/U0fWUV55tLca0W1TW9i4pYXKCDk8Okct5H7tpSP7qQ026JkyIyqGiUkEqCHE7k7kjIJHf5HXBrK9XXRyHdpjDbiWm48h1tIUElON6hzn29PxQYNFbKXfuJmXMrcV6l1t2pFR4MRpc5i9zGlBEkoKGy/uPlLIHAIyAAr7ueQcVaLlCQWSsAjI+1Q2qSfUEHkEdEHo1ijkiVcWXPphcfZZX+r8shCfIelEgZ96vumLi1B0yiM+y8Sy46geK4SpQB75Tnk5NRkYi1DkhJ7919AS6L2c8W10PP2QFs1HcII3xZS47yQQh5oJ3tkjGRkEZ/kUuRq+1xrdbfHscqbeI6N0qehLJD7h7ISVZTzycceY0UUFVhUFPDFtrVxsxuP8AEe7N3Za4sCE1HDySUymGzvQMdBs5BPqSsgYHdcj97PhkJbbRklRCUjGSST/tFFXZYznR+BMrrVBsez//2Q==" />
 
 **Jetzt ist es schon ganz schön lange her, seit ich mich das letzte Mal bei Euch
 gemeldet habe. Das mag daran gelegen haben, dass ich mich in der letzten Zeit
@@ -71,7 +71,7 @@ gebastelt.
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets/72157644733432642/)  Neue Bilder im Flickr"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_14207822166_09fc83462f_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_14207822166_09fc83462f_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKRAAAQMDBAIBAwUAAAAAAAAAAQIDBAAFEQYSEyExQSIVMmEjQnGBof/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMEITH/2gAMAwEAAhEDEQA/AH+P9Ikp3yrhEDyMfpPSEslaT+4AkGqGpLnp63tMpkyI8h5akDjacS6rYVYKjg4wAD7pX1iw5qC9XKZp2XHlxYMJpySneAlACFE7PgrccDJBxgmqbOnb5ElymkybdGKYbU0OKkBCFsqJCcni+7OPj+ejSLI58CqFS6aE3ZrZNhbLbdIS4gcKgWpDfSh0e8591G5o1k7pAkNSSU4QecKUnHtPf+Vj0hM59EZ5xLC1SY7z6CtSNwLWcpUOPo9dHvNaDo/UiLToNrmdgyZxcWEx3paWiyg9j4gD4+8DznzWnsU0ZWGV0QLPqZm2qvTFvtbzbU+OY/GlBSlk8RRhXRyewevPjNW7jfbpdH25z1tU82wllhlCAApTTRBSVZI7OVH+/VFFCOc2U68uBFcMN1B4XGth2BSEuHx9357pcusaRJbQ+lplBDTrSmS8gHwQnHf8YooqI//Z" />
 
 In meinem neuen Blog wird es für mich technisch möglich sein, Bildergalerien
 direkt aus meinem Flickr-Konto (Nachtrag 2019: Das ist inzwischen Geschichte) zu
@@ -124,7 +124,7 @@ uns bereits die Karten gesichert und alles fest geplant und organisiert.
   title="[ ](https://www.flickr.com/photos/99929697@N07/collections/72157641704076844/)  Festivalbilder im Flickr"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_9577556708_1da3106485_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_9577556708_1da3106485_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYH/8QAKRAAAgEDAwMEAQUAAAAAAAAAAQIDBAURABIhMUFRBhMiYYEUUpGh8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAAUG/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACEQMEEgUhMRMiQXHx/9oADAMBAAIRAxEAPwBRQU71UC0lPb0aZtrFgCW4znnsOR9cacW60VVJK0mYopUBwHb5L98dPzqmwXGhivBpZpEZo7eKqaZYzGiNucMOWJAwuR1/salQepIqv1/V0Udxo2tMdAlQhRlKyZBDEv5B7HsNOV7qo7anEeZWds9FAh9we4cR8WntT1ufbmQbEGDkdD5z9/xo1l7r68sNPJFT0Nas9eu5Kcskhj3sOjBcFsdPIyMaNKTlur6lT6TcSZ9rk1mp7ejglKiJvZWNv0XvAswPOfI/3bTSjsMdRdKyZ5KxaWdBHtkUiQbcY+ZJBU89fOmb1c2MvKCv7doP41bBOzt0jIHONuhyKIABIrl6eNO0Ulva5PVwsrRbzG6jkZPb5ADgnRpvUXNEqHDquFOOMjRoS0O5CmRC/9k=" />
 
 Sicherlich habt Ihr Verständnis, dass ich aus diesen Gründen dieses Jahr meine
 [Festivalliste]("/2013/03/die-ultimative-festivalliste/) nicht neu
@@ -156,7 +156,7 @@ bald, Schnuckis.
   title="[ ](https://www.flickr.com/photos/99929697@N07/)  Soundgarden"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1577__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1577__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGBP/EACkQAAIBAwQBAwMFAAAAAAAAAAECAwQRIQAFEjFBBhMyFGGhInGBwfD/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUAAf/EACMRAAIBAgYCAwAAAAAAAAAAAAECAwAEERIhcZHwEyOhseH/2gAMAwEAAhEDEQA/AEm4bxX7xQbhXVEsqrC0QSNZ2CA+Wt9/x1qXM6Ih5RE93PLVBs3tjYa2FpopS5WS8ZuLAqB+b637j6ap6fYI9wbjd1XiHT5d3x30wyQBjBNxqjZwRMhdz3g9+WxiMglz3iouOsYSExGVBfpWOD9v95039KtG1TV7ruP1NTRbcYneNJuDszSqsebXOc2wCAcjSatCoLJGvyHxSxFznr+9OvQW3S7pWttzVEFHBJV00tT9S/DlFGxYhb/JuyB5tp15FDGvr+/wVy4ijUjxnHuwpLss1ZJTVYhEDxwx8WEc17HmLiwGTjoa201egPuz1kD8UPOOSofiVW36Bx/dceP40aNT47uZFyqxArYsowUkDeta11TTwtTUhpEeV0ilQPcyuLlQVseJwTbUrvElXLPIs0sPulxe78CSoIxxUXwTnza+jRoXneRsz6mgIL6sSa//2Q==" />
 
 <RemoteImage
   alt="Black Sabbath"
@@ -164,7 +164,7 @@ bald, Schnuckis.
   title="[ ](https://www.flickr.com/photos/99929697@N07/)  Black Sabbath"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1605__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_07_img_1605__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAKxAAAgECBQMDBAMBAAAAAAAAAQIDBBEABRIhMQYTURQiQQcjgZEyYaHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQQD/8QAIxEAAgICAQIHAAAAAAAAAAAAAQIDEQAhgUGxBCMxYXGhwf/aAAwDAQACEQMRAD8A52yan9XH2b21k7244thhH6YZhTVdLCk8PYrY+6rsNKqvySTvxvsMVv0bo0k6wy6aV1FFTyMz6uTZDIfx7cNHq3PajLqaeuqZXlWqp1hpYEkB+7/IkeEA2IPJHgYuhjuOQsl0ARySPy8kkl8xVutntif606RPS85gmqYJ0dmKywAkWDBdwbH5uPIxmqumkpZxSyqA6mx0nUG8EEbEHzhjdUV+c1AyTNKyP1KLRSyyMSGPaDKAzbfF0t/eMXl8NVUzRK+lCXbQ9QwRU9tyNR+fA/XODxUUKNSNvRr5AI373xzhDM7CyNb7kfVZCy+prYNcNKswMkZ9i2vbgt+tvzibNmNeVLF5SUUMfugqNgFNr/8AXwYMYLKyAheuUNErGz0yUnV+felFOlQopWZGKACzds6gCTfYHe3FwDitkOY1TI7pJIe4ZgDyW3uf9vgwYz0zliBZ9TWIUAaz/9k=" />
 
 **
 [Die ultimative FestivallisteJetzt runterladen und ausdrucken](/wp-content/uploads/2015/03/ultimative-vegane-festivalliste1.pdf)

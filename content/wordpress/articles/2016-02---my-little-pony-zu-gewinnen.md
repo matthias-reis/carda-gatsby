@@ -56,7 +56,7 @@ ist Magie"? Was haben wir sie geliebt!
   title="My Little Pony Gewinnspiel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAnEAACAQQBAwQCAwAAAAAAAAABAgMABAURIQYSEzEyQVEHYXGhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EAB8RAQEAAgEEAwAAAAAAAAAAAAECABEDBBIxUSFBgf/aAAwDAQACEQMRAD8Axu1mLQqsmyQNbNPRYe+vxarj7C6uWlcqnihZgz7AA3rW/wCa4QyNsoXtkABGxv6raul8zkOlfx9jIQH1nZXnUIQB4VKb2d8bB+OdE0XJVTog2v1+ZLuYO6vGcXO9AWljh4FyWSt7G6gLCWVrXUXd7fEGViZCShYNz7j6VnstubVpI0dZFViA6b0wB4I3Vn1V1Ha5jJyNcPFZxW9lJHEzQlgZGYP2KAeGO9d31s1HTXUbLwwNLVGgPOjeF0zdS1fv4yMIChEA49T+6p7nrDPzYK2xD5OVrC2QpDGwU9g+gdb/ALoorCCj6xkE04lmsk13ZWMHjCBVVnbey7BQN/7StqxO1Px6Giit0q7cnFBM6M//2Q==" />
 
 Habe ich ein Gefühl von Nostalgie in Dir geweckt? Eines der kleinen,
 farbenfrohen Wesen macht sich vielleicht schon bald auf den Weg zu Dir. Alles,
@@ -117,6 +117,6 @@ Fotos), meine Facebook Seite findest Du 
 freue ich mich auch, wenn Dir meine Facebook-Seite nach der Verlosung auch
 weiterhin gefällt
 
-[myflickr tag="annemylittlepony"]
+<Gallery name="flickr/annemylittlepony" />
 
   

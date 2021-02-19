@@ -54,7 +54,7 @@ sie die achtgrößte Stadt Finnlands. Neben dem Museum gibt es dort unter andere
 die berühmte Skisprungschanze (Puijo-Schanze) und einen Aussichtsturm, von dem
 aus man die malerische finnische Seenplatte bewundern kann, zu sehen.
 
-[myflickr tag="kuopionkortellimuseo"]
+<Gallery name="flickr/kuopionkortellimuseo" />
 
 ## Wegweiser Finnland 2016
 

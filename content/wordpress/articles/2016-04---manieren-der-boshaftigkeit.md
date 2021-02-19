@@ -28,7 +28,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:25)"
 thumbnailId: "14411"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26288299651_396f57d6c2_z__m.jpg
@@ -50,7 +49,7 @@ Niemand redet gerne über Risiken.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_11631221176_b1b054c800_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_04_11631221176_b1b054c800_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRBQAGIRITMQdBFCJRgaFCQ1Jhkv/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAwX/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwC8temmy8M2l/IxGVj2XPeLgP2Jr8ak42S2nAATjmWfZAEOHVn6WAPzpL1eWI6Ma4tuSttCHlkRklS+ACoBI8kgUNU5U6n2mjtadGh/BpmpmyFFISojq7az+lfPI51ysbNegttTYbMlgAtOp6k3o012EqS5s7GLf6O8pCirihytRFV7UdGmSJX/AFekvRBAkRnFpeDbgR0mhdizftQNk341iW35Gaejrx2bkRFyH3y50xJQfUWx/KlKHk15v5jfjXTudwcLOsIYn98tJu0tuFHUD5BryONRmC2LtvAurdxmIitOH9xYLi/9Kuvtp5uVJTbMdUXAQGVN9hSWgS2atN80f750afkn6aNOF//Z" />
 
 Wo sind meine Manieren? Aber meine Augen können Deine Schönheit nicht erkennen.
 
@@ -88,7 +87,9 @@ Daher auch der von mir gewählte Titel. Ich dachte, er passt ganz gut. Genau, wi
 die Bilder, die ich dazu aus meiner Sammlung ausgesucht habe. Ich bin gespannt,
 was Ihr dazu sagt.
 
-[gallery type="rectangular" size="large" link="none" ids="14409,14407"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_04_16034123553_1fbe9e707e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_04_16034123553_1fbe9e707e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_04_13542419453_ea42d21831_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_04_13542419453_ea42d21831_z__l.jpg"}]}
+/>
 
 Mehr über Flarf-Gedicht und wie sie entstehen,
 [erfahrt Ihr hier](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).

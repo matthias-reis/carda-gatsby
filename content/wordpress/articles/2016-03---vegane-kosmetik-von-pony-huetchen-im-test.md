@@ -25,8 +25,7 @@ date: 2016-03-16T10:00:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "14210"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_25645287896_5b9cf0dc94_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_25645287896_5b9cf0dc94_z__l.jpg
@@ -43,7 +42,7 @@ Werbung\*
   title="Pony Hütchen im Test"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25370638110_0639602f6a_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_25370638110_0639602f6a_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAQFBgcCAwj/xAAoEAABAwMDBAICAwAAAAAAAAABAgMRBAUhABIxBhMiQVFhFHEHMvD/xAAYAQADAQEAAAAAAAAAAAAAAAABBAUCA//EACERAAEDAwQDAAAAAAAAAAAAAAEAAgQDITEFERIiUWFx/9oADAMBAAIRAxEAPwBX/IFrqmrRRMWm3vPgr3KLKFS2EiZJSf3O7HOQdUBXvrL+5x1xXHiVlUpjg84wPcfqNdH3yvcq6DtVYSpow4ptIgKCTPlnKfo88QdV+30gw7V19atlDin3pSrCVJCgdw48ckcYg8jXRg2GypRZTW0uGCllio/yaBDrYwcdpSEI7Z9jangT8kn70aklvpFIt7VU2gIXUKUVFL6Wt0Ykj2ZnOJjOjR4pB7mFxKyvN0tyOl2X2XnhdkNAuJ2y0mACQT9fPrTbdbEo0DVa91BSJT2yuU+IJIyM5P8AsaYnWEVFO8y888ad0+bQVCSDyMCYMcTpxsln6brXnDf6xTSGGgGWnXy2kyYUd3yBHjPv3pyrDdRBqsOFFjaiyQRQqDI+XAWxF1IsNnKVqVuYKv6E8qPvRqOVrNK7UOC31NR+C2tSWJVt8AcEAjjRrYhl3bbPtAz2M63tbHhf/9k=" />
 
 **Vor Kurzem habe ich die liebe Hendrike von Pony Hütchen kennengelernt. Im
 [Interview](/2016/03/pony-huetchen-interview-mit-der-gruenderin-hendrike/)
@@ -79,7 +78,9 @@ pflegende Wirkung. Beanspruchte Haut atmet auf, besonders nach einem langen Tag
 am Schreibtisch kann man sich damit wieder ein Wenig Frische zurückholen. Ein
 leichte Pflegelotion, die man gut in der Handtasche mitnehmen kann.
 
-[gallery size="medium" link="none" ids="14215,14211,14202"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671479225_3a7f7c3433_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671479225_3a7f7c3433_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645290676_5504c2c179_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645290676_5504c2c179_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25040941574_1295e94678_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25040941574_1295e94678_z__l.jpg"}]}
+/>
 
 Die feste Handcreme brachte für mich ein ganz neues Eincreme-Erlebnis. Das
 Cremestück kommt in einer stylischen Metalldose und kann zum Eincremen komplett
@@ -95,14 +96,18 @@ Hände sind schön gepflegt und man hat nicht nach ein paar Stunden schon wieder
 das Gefühl "Nachschmieren" zu müssen. Optimal für raue Hände und sehr ergiebig.
 Ich kann sie auf jeden Fall sehr empfehlen!
 
-[gallery columns="2" link="none" size="medium" ids="14203,14216"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25040943954_b1923a3100_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25040943954_b1923a3100_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671486235_4b4417b510_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671486235_4b4417b510_z__l.jpg"}]}
+/>
 
 Auch die "Organic Lip Butter" mit dem klangvollen Namen "Kiss Me Quick" duftet
 toll. Die Lippen werden wunderbar zart und kussweich. Ein Hauch von grünem Tee
 hat eine pflegende Wirkung auf Haut, die leichte rosa Färbung sorgt für einen
 natürlich gepflegten Look auch mit wenig oder ganz ohne Make-up.
 
-[gallery link="file" size="medium" ids="14214,14217,14218"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645311806_b4f6741603_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645311806_b4f6741603_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671497365_66df6d46fe_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671497365_66df6d46fe_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671499505_2827f998a2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671499505_2827f998a2_z__l.jpg"}]}
+/>
 
 ## Vegane Deos ohne Aluminiumsalze
 
@@ -115,7 +120,9 @@ Charakter. Weitere Inhaltsstoffe sind Bio-Kokosöl und Bio-Sheabutter. Im
 Extremtest mit einem Ganztages-Shoppingbummel inklusive anschließendem Barbesuch
 hielt es gut durch und auch am Abend war kein Schweißgeruch zu erkennen.
 
-[gallery link="none" size="medium" ids="14212,14213,14205"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645305526_d326da721b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645305526_d326da721b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645309756_fe8bbc66e8_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645309756_fe8bbc66e8_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25370624350_ff4a6d22ca_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25370624350_ff4a6d22ca_z__l.jpg"}]}
+/>
 
 Von mir gibt es für die getesteten Produkte insgesamt 10 von 10 Punkten auf der
 Wohlfühlskala. Jedem/r, der/die an guter, handgemachter Kosmetik interessiert
@@ -134,8 +141,9 @@ mich auf Eure Zuschriften.
 Wenn Ihr jetzt gerne mal im Pony Hütchen Shop stöbern möchtet:
 [Hier entlang](http://www.ponyhuetchen.com/) !
 
-[gallery link="none" size="medium" type="rectangular"
-ids="14209,14207,14201,14215,14218,14208"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645282856_7bc75e770d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25645282856_7bc75e770d_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25552732822_4de438b174_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25552732822_4de438b174_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25040943954_b1923a3100_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25040943954_b1923a3100_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671479225_3a7f7c3433_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671479225_3a7f7c3433_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671499505_2827f998a2_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25671499505_2827f998a2_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25578828271_66c9ba8141_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_25578828271_66c9ba8141_z__l.jpg"}]}
+/>
 
 Auch den Produkten von Wolkenseifen haben ich schon auf den Zahl gefühlt. Meine
 Unboxing-Story

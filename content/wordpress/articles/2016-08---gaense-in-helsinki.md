@@ -41,7 +41,7 @@ subTitle: Weißwangengänse - Gefiederte Finnland-Einwanderer
   title="Im Gänsemarsch geht es durch den Park"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28294041574_4f64075959_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_08_28294041574_4f64075959_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAsEAACAQIEBQIGAwAAAAAAAAABAgMEEQAFEiEGBxMiMRRBFSMzUaGxYYGi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM+p+TfE3QlnqMvpo4YkaViKxCQqqSbbXOwO2HFHyV4gmpolVVSmmVJ+n62K2ki6sVuPvjZ6qD4tkc9BTyuBKtnCSaS0du5bnbcf1+sIOA83k9ZPTuyGgosvFJHJK6yPI0b9oBUm69zbW/QwGWT8sFpc6iyeXMKQzzRux1VC2iYAMq3TVdiNZsL7A45VPKRo5UiV2qnk1MoRukpC2v3SIPv7A+Di85WGrzbi7N82zWiE3onKwSU0I+rIgDG19hoHjx3Yo+JMuiPGWV5xOZoKWBWYxdKRiz9NlAIUkC11ttY7++Ajci4llzBamjngugVlPzCQw03sRb+cNpKaWOJJ4oMo1dzkyUJLXc6juJB7n8YMGAkszq50qKuN3VV1GTTBDGij3A3VjYeACTicq82epqemZKwJGSAA8QH+YgfzgwYD/9k=" />
 
 **Heute geht es weiter mit meiner Fotoserie aus Finnland. Gestern habe ich Euch
 meine Möwenbilder gezeigt, heute stelle ich Euch ein paar
@@ -88,7 +88,9 @@ um zwei Gänse drehte. Ach und auch die Serie "Tagebuch einer Gänsemutter", in
 der eine Frau ein paar junge Gänse großzieht, trieb mir regelmäßig die
 Rührungstränen in die Augen. Ja, da werden Erinnerungen wach. Aber genug
 erzählt, meine Bilder von den Weißwangengänsen aus Helsinki möchte ich Euch
-nicht vorenthalten. [myflickr tag ="annegaensehelsinki2016"]
+nicht vorenthalten.
+
+<Gallery name="flickr/annegaensehelsinki2016" />
 
 ## Wegweiser Finnland 2016
 

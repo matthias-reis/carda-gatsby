@@ -55,7 +55,7 @@ Und weiter? Das ist ganz schön wenig, oder?
   title="Geniales veganes Frühstück im Marien-Café"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_fruehstu%CC%88ck-flensburg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_fruehstu%CC%88ck-flensburg__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAsEAACAgEDBAAEBgMAAAAAAAABAgMEEQAFIQYSMUETFDJRFRYiM0NhcYGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACgRAAEDAwIDCQAAAAAAAAAAAAECAxEAITEEElGBoQUUIjJBYXGR4f/aAAwDAQACEQMRAD8Aiflths1gyzzxWqhdnptDzKoPDL2nwfZI9f71LmpT0NrgtpfUd8rB4/gupwuPA8kEtgezjW96imNeY3KFcWARyA2RHnnu4+3/AHUW7uG47vBFHWletLB/PNIRKS3PaJHJCrwMIuMY/rUjUOISvwEQLmqaU6ZxBBTKp4wIiw++cdHuodq2jb4UmvRgVWAV4uTnIyPYJP8An0dGuWxTT7XVgXd5oLEtmSUIGxPkDOUJfKnJ8nAIAHOjRFdopPkuPYSKVXpnCYAiLU91Nv8A+EVhB8sXi+aVX7of0ZbLMePLBcYXBweDzrHbk8wHyzIblf48sUZL9gLd2A5OPC5wT99aDcKM/UPTs1VJLkylgjOi8RYI4jXJAA+/J5Oubx1Nv280L1NpIFBjZChVkIP7ndyctk+Rg+9Ry+2Rac4vj0prvLTqUtvApTnHXgedJzULlLp+iu3M1u8lk2lRH7SVYBWLH39IBPnGdGrTbjsnS8dZaW2vNbWDBlmk4dDgknA+og+cetGhJcUkbQ2FZuR+1ovJbO1DhAHzX//Z" />
 
 Wir hatten uns vorgenommen, die Stadt ein bisschen genauer unter die Lupe zu
 nehmen. Also packten wir die Kamera ein, nahmen uns ein Wochenende Zeit und
@@ -92,7 +92,7 @@ einen wunderbar aromatischen Kaffee.
   title="Tolle Teekannen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_tekannen-flensburg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_tekannen-flensburg__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAAnEAABAwMEAQQDAQAAAAAAAAABAgMEAAUREiExUWEGEyJBcZGhwf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDBAUG/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAEQMEISIx/9oADAMBAAIRAxEAPwCGt1kIgsuAlYzuMYxmmcO2sy3H2EAKdbbK/b4KsdfjmmAbcs8RlEoj3pCgpDCjvo4JI/f8rraZhtS25LQf99vIwPiCez5rOvmpvUt1x2PMXIi2dizzQpSW5y9aiyVBSwgJykjwf9orS8tpjsuylR2YzalAlahxnrPAzvgdUVMTb8gKIhtaySTL6B6Wivy2bjMdCnkfaiXMjBwN+MHFTt1Em121Ty4AEl535KWCShJ42GQBkHfauqD6nbEFADgySPusb1PFyiuNty3Izq0FoutHBKDylXaT1SNtb4B2Owc+yZuDtwbhKfkPBBcQUoVp1FGRvsfBoqcui5cOEY78hD+hatKwrdSdgCfJxRR4lIXkF3F9n//Z" />
 
 Ein kleiner Tipp am Rande: Wer im Garten speist, sollte auch auf jeden Fall mal
 einen Blick ins Innere des Cafés riskieren. Das komplette Lokal ist von oben bis
@@ -125,7 +125,7 @@ baumelten Dutzende Schuhe über unseren Köpfen.
   title="Luftige Schuhe"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_schuhe-flensburg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_schuhe-flensburg__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwADBQYI/8QAJxAAAgEDAgYCAwEAAAAAAAAAAQIDBAURACEGBxITMUEiURQyYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AGWxUhaVlkphBGuBErLjIz510z00Yi6ERS/vA0BTc6rxLDC9BZ6eCPtAsXy7I33ucY3G+PX92yXu6cxpe1QVtRXQPNLHEWjhEQDEHCFoxkMRvjGfB0UhUU+KxboIGjuFVSwOYy/RK4DdI2Jx5wMjVo2peVFzulXPV8Q1SwRSwfBTI0ksbH3jIwfP7E+fGfFrIjazo7NeKKzVbvLbYJqJnnMlQsaySowPbYgee2xBzvgY9DSdWTw1ECdxIZ1VlljbpDqCN1ZfX9BGvOVHxDDXtRtVv+NVtSQsXjXpVDIHfG3vbJz7x9631j5qVU9eZK1I4bLRxdUkdPTgs0Y6hkHO+MA421LG5ExPNukKNzuBSml3wfs6tHlz4ttl7eWCgrCs4AYQ1J7JIIz8Qf2/zOrVk8v2kn0nIf/Z" />
 
 "Shoefiti" ist echte Straßenkunst. Auch bei uns in Hamburg findet man hin und
 wieder kleinere Schuhinstallationen im öffentlichen Raum. In verschiedenen
@@ -158,7 +158,7 @@ sichere Bank.
   title="Armdickes Tau im Schifffahrtsmuseum"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_tau-flensburg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_tau-flensburg__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGBf/EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQFESEABhITMUFCYQcUIlGBMjNxorH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQQG/8QAHBEAAgMBAQEBAAAAAAAAAAAAAQIAAxESBCEj/9oADAMBAAIRAxEAPwDKbPpT1BkSYcsNdCWhCo8i3NPBSygqSk+rFgCL50s16EhmfQ2ptAbdgSluMqEqUVuPnhgKbHY+oHuCOw0O/D2VMfqkAgtpkRxZLzxPBoXuD7WuTYZucaQ9+yorMzbM6iynpVQjS/qmvkhparpHBKewAzcDNjknUyty1nMqlBXjMNh7vui0+h7ufgKXzjtlK0hX60trTcJJ9Shf/O+rW1+IWynFb7dr3GU6iptpeQGVoR0nAkBYCnSLdgRYHB8atPd+TlYFbC1exDyjrp4qJU7IdFLQRzCE9N51Xcp7/wBh+BrV703M78xGgSWWIDSKahyFB4fsWd5C/wBlED+c50c0CcwzVvmYzKOfUSptonCXPv8Ai2PA1pa1VGEIdW+h5c6S0UpqDCyFKVkLQsHCkG49x31mC8uI7EuIvyYadw7ZlUCdHQmS00JDUpAJUhZGLBXjji58nVrlbH3A3Vtutuqsh2K2GxnIsLY8Y99WuhfzLfjbJK3r5yUIOb8yf//Z" />
 
 Am Sonntag gab es dann noch ein tolles Frühstück im Café Central (Große Straße
 83). Kredenzt wurde uns hier unter anderem veganes Smørrebrød (dänisches
@@ -191,6 +191,6 @@ unterm Regenschirm. Und anschließend jubeln alle lautstark und freuen sich übe
 die Sonne. Oder, wie man in Flensburg sagt: Wat so kamen is, geiht ok so wedder
 weg!
 
-[glry name="anneflensburg072019"]
+<Gallery name="glryanneflensburg072019" />
 
   

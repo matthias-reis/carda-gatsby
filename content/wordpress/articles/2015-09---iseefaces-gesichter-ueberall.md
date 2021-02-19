@@ -49,7 +49,7 @@ ein neues Gesicht zur Sammlung hinzukommt, wird es natürlich auch hier
 angezeigt. Es lohnt sich also durchaus, meine Galerie von Zeit zu Zeit immer mal
 wieder zu besuchen.
 
-[myflickr tag="anneiseefaces"]
+<Gallery name="flickr/anneiseefaces" />
 
 Habt Ihr auch schon #iseefaces-Bilder gemacht? Ich würde mich sehr freuen, wenn
 Ihr sie mit mir teilt! Ich bin schon sehr gespannt, wo Ihr überall Gesichter

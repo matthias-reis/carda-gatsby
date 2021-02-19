@@ -30,7 +30,8 @@ date: 2014-11-28T10:22:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "9303"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_tierrechtsdemo-391__l.jpg

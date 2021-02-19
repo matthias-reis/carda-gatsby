@@ -69,7 +69,7 @@ klettern und von dort aus wild in der Gegend herum zu knipsen.
 In dieser tollen Stadt ist man eben immer ein Bisschen im Urlaub. Auch, wenn man
 hier wohnt. Danke, Hamburg! &lt;3
 
-[myflickr tag="annehafenrundfahrt012016"]
+<Gallery name="flickr/annehafenrundfahrt012016" />
 
 <blockquote>
 ## Haubentaucherwelpen - Turbostaat

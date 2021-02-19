@@ -47,7 +47,7 @@ schließlich versprochen. Ich hoffe, sie gefallen Euch!
 
 _Schiff ahoi!_
 
-[myflickr tag="annegruenerguertel1"]
+<Gallery name="flickr/annegruenerguertel1" />
 
 <blockquote>Am Flusse
 

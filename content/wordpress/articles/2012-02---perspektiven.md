@@ -29,8 +29,7 @@ date: 2012-02-13T14:54:15.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "2851"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0178__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0178__l.jpg
@@ -39,7 +38,8 @@ subTitle: Bildergalerie aus der Pinakothek der Moderne
   
 ---
 
-[gallery type="rectangular" link="none"
-ids="2858,2857,2856,2855,2854,2853,2852,2851,2850,2849,2848,2847,2846,2845,2844"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0203__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0203__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0193__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0193__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0190__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0190__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0184__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0184__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0181__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0181__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0180__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0180__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0179__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0179__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0178__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0178__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0159__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0159__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0157__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0157__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0153__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0153__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0151__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0151__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0149__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0149__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0147__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0147__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0145__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_02_pinakothek_0145__l.jpg"}]}
+/>
 
   

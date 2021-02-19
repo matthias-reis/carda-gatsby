@@ -23,7 +23,8 @@ date: 2015-08-12T16:20:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "28967"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Christiane-Bors__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_Christiane-Bors__l.jpg
@@ -76,7 +77,7 @@ Soja-Latte mit Espresso vom Hamburger Kaffee Kollektiv Aroma Zapatista.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Blumenpalette__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Blumenpalette__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABYDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAJxAAAgEDAwQBBQEAAAAAAAAAAQIDAAQRBRIhBjFBUQcTFSJhwbH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIBEBAAIBAgcAAAAAAAAAAAAAAQARAhMhAxIiQVGRof/aAAwDAQACEQMRAD8AqOlJCsIaVARlRkd+SB/aa7eC0gZBJEST6Gak2sdVW2m6TBNA7zs80caLbMhP5cxswfA25Ucg8VtXfylBa9Riee3n+w2saM7QlHdiwzkjPG0kDA78+qyW6uW5oRu6c1FY4bzeL7VhLcNMrR6fJGse7uoL4yPWP3RU760+TLXVrCK16dlaW4Sb6zrexfSCoy5ADbiDyf8AaKIZO7FvE36cLJJl1q6W1jFpLI8FmWiX8yWdCWwuF7YBHmuvN1raXmnWEccEMF1FHumeIMjuw4KlixzxzkAUqLDHoyzyO0ZGVGFJG8Z75/XqsLrU7KSF3mUMrEIQec58+DiqeWJcqaGNum9SWtlZ51iGS/eVyYpGJiwo8HaCD45opVs723IKafcthOCiydhn038oo6d9/rHay+PRP//Z" />
 
 ## Veganes Full English Breakfast **Anne:** Was gehört im Green Haven zu einem Standard-Frühstück dazu?
 
@@ -127,7 +128,7 @@ der Woche unterstützt. Alles andere schaffe ich derzeit noch alleine.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Koje__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_Koje__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBgcF/8QAJhAAAQMEAgIBBQEAAAAAAAAAAQIDBAAFBhESITFBEwcUMlFxYv/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAeEQEBAQABBAMAAAAAAAAAAAABAgAhAxESQTEy8P/aAAwDAQACEQMRAD8AgwLFr9j9/CZKp6bStte2VyUvNJVx6O9kk7rSozadDoUPPckH4krcV/kbrhSL85bSozIL7TKey44gpAH734qazVPBjFAc67Yq+1Ey91TmwldvQCQN+Fk1Y7LcokRE75lrSXJTjgAaWdg676FZnjeWJevbdxtbkZ9pcQNoUhfJJHI73r2P1TNxzB2Pf4sl1E1stFxHFtlamHVuFOuSknrRA9exuh/V2sr8ZDPMpTheMOXRMBM1aSEhtbnAbPs9GsmsWQX/AOqlzmwbvdnYFmQx8zsCAgNodRv8CfP9J5fyiiqsyT0Ww5yqrZPrWHGJ0W3fT6Zc7Xa4sZcZb5bQNn8HeI5K6JOvfmnb7kb86TbG2osaO39wPm4pJU4QNjR30N+eiTrzRRUyl8nPzJ49/wB63//Z" />
 
 ## Bio, regional und fair soll es sein **Christiane:** Haltbare Lebensmittel kommen von einem Naturkosthändler aus dem Hamburger Umland. Frische Lebensmittel vom Biosupermarkt um die Ecke oder vom Markt. Die Lebensmittel sollen nach Möglichkeit regional, bio und fair gehandelt beziehungsweise hergestellt sein.
 

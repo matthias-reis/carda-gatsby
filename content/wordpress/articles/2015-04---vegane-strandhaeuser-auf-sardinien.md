@@ -20,8 +20,7 @@ date: 2015-04-07T08:02:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "24358"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-3__l.jpg
@@ -43,7 +42,7 @@ ganzheitlicher Massagetherapeut.
   title="Matteo liebt Sardinien"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQgG/8QAKRAAAQMDAwQCAQUAAAAAAAAAAQIDBAAFEQYhMRITIkEHMhQkUWFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACQRAAIBAwMDBQAAAAAAAAAAAAECAwARIRITcZGh8QRBYcHR/9oADAMBAAIRAxEAPwDU5IAJJwByTVKdTQFWOTdI/ffZYOFtoaKXc5AA6VY3ORjOKg1DeDFsU15ooDgbKUFX1CleIJ/gE5NJLQvyI1qpFys0WOUJfjoffWpJHbWFAFKTncHkH+6km9Q6SaEF8XP11saeKNWTUx97fvS9aEgT2ZsCPLZ6g282HEhYwoAjgj0aK4OzX4hkwXVjMZtKUqSMdQG3+8cUVZHZ1DVFLIUYrSetfyDLkWt6Bdpcua082lKHXmG21t7/AGUUnyPHqlPo7Udw0Tqa4SpUH8hzK4z6XSWx3ArOeoDGdicfsatIsC5Jz+mSvyCT0KHnt4jf16Jqu1W5LlWRTyG3XIrJStxeCUoVsCSePeMc8VkiR92zZ1Y4t5PatbbXaJGNOeb+B3pmWHXrd0ixbhcCmA8FvMBpoqUhZJSQATvxvRSksUpxEGZFUhzo7qusoBPaUAME44HrNFJuyoSFYAfIoRBFIAWUng1//9k=" />
 
 In seiner Freizeit ist er gerne mit seinem Kanu oder dem Fahrrad unterwegs,
 klettert oder trainiert im Studio. Außerdem reist er für sein Leben gern. Bei
@@ -88,7 +87,7 @@ kommt.
   title="Jeden Morgen schwimmen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-7__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-7__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIEBQYBAwf/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEAAUREiExBmETFEFxoSIyQlFSYpH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBgIF/8QAJBEAAQMDBAEFAAAAAAAAAAAAAQACAwQRIQUSMZFBIlGBsfD/2gAMAwEAAhEDEQA/AJhNsP8AH4rci1HP21XW+s+oLgInkLDGgpf0lSppVrb3wrKTpBwM++37qxWSX1Y66S7bLfPZA38srQoE5x6nsfiqEau1xwD0uAdKc0eogfKdtWr+vxTtFqx+NSqJPl1soujYguOJJ0up3PsM770t5T0yIpdslseoz4Qzxz9ShgDnv2odqgHg9Ibp98XHa5tbuqLNdXEx5Mdll1YJxDWlt0n9kJ1Nnb0wOOak3lW2F4a2760tDp0IaMMiTnnACTpPHOQKKKnxWTQna12D75VG6ggnG5zc8YwlM3JoAFpLy3cbLlKC9B7IThP+k1ibPnaMLhTpLSBhK46EuJzjdWlPvvtRRWqeV1TLaU3H7xwieBlLHeEW+++V/9k=" />
 
 Gekocht werden kann dann nach Herzenslust mit den Miturlaubern in der
 vollständig ausgestatteten, gemütlich eingerichteten Ferienhausküche. Perfekt
@@ -119,7 +118,8 @@ besuchen. Dort findet sich auch der Kontakt für die Buchung.
 Lieben Dank an Matteo für die interessante, nette Unterhaltung! Thank you Matteo
 for the nice and interesting conversation!
 
-[gallery type="rectangular" link="none" size="medium"
-ids="24367,24365,24364,24363,24361,24360,24359,24356"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-10__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-10__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-9__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-9__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-8__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-8__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-5__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-5__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_06_vegane-strandhaeuser-auf-sardinien-1__l.jpg"}]}
+/>
 
   

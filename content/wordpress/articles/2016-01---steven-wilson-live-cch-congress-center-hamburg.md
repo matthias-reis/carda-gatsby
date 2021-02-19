@@ -52,7 +52,7 @@ Bericht gab, habe ich dieses Mal wenigstens ein paar Erinnerungen mitgebracht.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24410958715_79e2c52047_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_24410958715_79e2c52047_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMEBQcC/8QALRAAAQMDAwIEBQUAAAAAAAAAAQIDBAURIQASEwYxIiNBYQcUQlFxFTJywdH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIAEQMSIUFRBBMxceH/2gAMAwEAAhEDEQA/ADfxJpkWB1pW2mI9MfbMtYQ2yweVkD6Tb2tmx+2ufSfnYyluh0XQjkU2lUhley9rgK8JyRpz1z1L01X+o6tPiyp8dUp4q4ZMFfhuAFA7SrNwe2h1Xp9Kmw0KgVuMJe/Md8qbuk9wFKSATcA51OATtU0lxKE16hfUqxqrPWzzIff2C58x5KgAP5I/vWrHMqa41EaSy5II8yS1JafatYqJ2oNwbD/Rqfpim0mRQ1R6jXIlKmJ3K81QcDhzbaU4zYdye/trQiMNP1BNVfnLliPdCnlKaKdpbULqIA/aSL+o0nLiUKaXf6lKo4AYZNtj89yLqVKYtbqbMWUlSRLkbmVONpDQDivCLtqNrdhi1tEqjwxkrS6/IQ7xqUhaJq1grBA2lOxOc5/Guo9S0KpvTqi9tlKYXMeRxuOPWtyrvYeFFvXN/bRSvdNQHKShf6lBiTQsL4H5zWEnBTYrJH3uPxbTFfiCPErH7LAPVwtSgp+G6+885ZKsnmUn0x9WNX0CE6/TkNNxZQUptt8RzMSQSpIO8qXYnJGLDv7aV/D92iUqGpmvqhVFsKUUtxw86O+MhASe57k+mNeZ0+jJUvY7VHAWykIaQlsIzcFJUu4tYYtoGzKDVxo8XGUDajdDjn8n/9k=" />
 
 Genau wie in der alten Kongresshalle in München, war das Konzert am 16. Januar
 im Hamburger CCH Congress Center bestuhlt. Wir hatten das Glück, einen Platz in
@@ -94,7 +94,7 @@ Insgesamt 32 Songs wurden dargeboten, darunter sechs Porcupine Tree Songs, was
 uns als Fans natürlich sehr erfreute. Besonders die beiden Zugaben "The Sound Of
 Muzak" und "Dark Matter" gingen unglaublich unter die Haut.
 
-[myflickr tag="annestevenwilson2016"]
+<Gallery name="flickr/annestevenwilson2016" />
 
 ## Hier die komplette Setlist
 

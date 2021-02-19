@@ -50,7 +50,7 @@ subTitle: Vegane Festivalküche
   title="[ ](https://www.flickr.com/photos/99929697@N07/sets)  Frühstück à la Wilder Westen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4095__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUABgcI/8QAKhAAAgEDAwQBAwUBAAAAAAAAAQIDBAURABIhBjFBYRMHFFEVIiNxgTL/xAAXAQEBAQEAAAAAAAAAAAAAAAAGBQQH/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQRElFhITLwQf/aAAwDAQACEQMRAD8Al065kNQgoalrXSLtaH4+ZHLcDc3YggZxxjP+6Ng6yukkEtMt2qnn+QTNHGxd15xjIGV8cdtUX4pp5oCyosUYKyBG7Rr/ANHcc+MeMcaZGsjmpy0c8sMNSnyRRU6j+Y52qm0dmznufB9aLMWJzk5+4nUBb0FUDQYHUY3H66X20TPQw09LKacmBpqiFnaQ5JBYZGDjgj/eNNrF9XbLcxBT9Rw/p1Q4VfuhzE7k45UDKDnzkDHfWJdY1dM3UNWoSZEiZYyHUBgwHLHgHv8AnnVVnkaYnglVOQwPAHv3qxSTdATxBN1qlVgvJmh0lRFLWxmnlp4vkYRviJmGw8kFR7yMDR8dPLBAtdDNTw1Jnj+2iDBI2b9zbpe5GF7AefGrTD0J1JRNUOlvhngiztkpZl3VPYBQhYYQqMNkceATojoz6YVXUkzz9TE0tuhIVYYQAkzKfA4IAHGfOPWsGrFtcYEUPfUlp+3nr4zEr5bLg6vdftKh7fUzbIqoqxjdtudoJ9A4H4GkU4KMwYgMDgnbwMf1rvioslmksAss9DTz23GDBKu5T7/v2NJ4Omum6C5GvpbJboawKVEyQgHaRtI/GMcYxqglbVQGEJ3Ch3LD9M//2Q==" />
 
 **Gestern habe ich an dieser Stelle meine
 [ultimative vegane Festivalliste](http://wp.me/p533wO-2GU) veröffentlicht. Darin
@@ -88,7 +88,7 @@ leckeres warmes **Frühstück** daraus zubereiten.
   title="[ ](/wp-content/uploads/2015/03/IMG_4094.jpg)  Die Zubereitung"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4094__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_03_IMG_4094__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUEBwP/xAAuEAACAQIEBQIEBwAAAAAAAAABAgMEEQAFITEGEhMiQSNRFWFxkQcyM0JSwfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxEFEiExEyJB/9oADAMBAAIRAxEAPwD34cymWkkLl5ELXX0zy83uCdzhBPldBFUwTsjoTo7xEB9De+uh2truDhZRxigaheZqGGBWvW1NQxACgdpUbcxOnudLecROJOMOEMyq3o6KaVawcyqadS/qH8psTciw1FgdziKtT5yTLaJY1mNpMA8ZyU1HDWzQII4Vv01tbf5a28m1zjms+XfD6B5qiyyyd8hP7fZf95OOhZgozzMBDTJJNT0nJOxQdstx276nXX6KcC84g+I1rtW81PTRMenHMCjSt/Kx8YKOBibc+3PfUqfjjxtPmvEVRk1HIEyyhl6YKMbl0JVn0O5YMNdgBbc4y5a0lDktMKW7KBGs/MoBgZXLBhtre47reMAuMA9NxRmEc4a8dTIDqAT6jk/cEG/zxajz6lmy6Vp5X5jBYoWPeeftHNYagb3GGjwJR025ADuMTVGZrkbVEymcV8qM3TYn9QHUMNgFBt51v4Ixj4g4/lqaGWlnoo5kkj9GVZLLYi12UjQg+x+2BeZZnJUO01TUvI7KAzO3Nvp9f7xLzSfppTwXF44gptgfiDsCRFdTtQgBfk//2Q==" />
 
 Die Sojaschnetzel mit dem **Suppenwürfel** in den Becher geben und mit dem
 Wasser (vorher im Kochtopf heiß machen) übergießen. Umrühren und auf die Seite

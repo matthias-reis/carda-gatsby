@@ -70,7 +70,7 @@ es hiermit erneut.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Dr.-Hanno-Platz__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Dr.-Hanno-Platz__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAdACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAAoEAACAgEDAwMEAwAAAAAAAAABAgMEEQAFEgYhMRNBURQyYYFScbH/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYD/8QAIhEAAQQCAQQDAAAAAAAAAAAAAQACAwQSMSERQaHwE1Fx/9oADAMBAAIRAxEAPwCo9Kw1J9zrVbtKe5dMZswzNJgxoqKCCMgE8m7Zz5/GkDfuratOC3sNHpk3tylkKtDOFYQxqQMNhgM5Hz5zrDozcd1oStf3Pd2rwrt8tSOSeyFHrmJXUDPvjB1LekOo56hsWZYrFqcycnIcZY4+4k+ff96Gma9rMhyUXU+OWTBxIarftOzJJsFy5V2eztMld45JYnlWWKVCoUvEQTjiVAIJ/PxropKv1w7j299Fui94vy7bvNG3DUEKUzdrMuS80LoAWYE47gnx/H30o1bgW5F3yCoOlMw6kO7nadxDDKPsNfikHVNyKBq+2y2Y7v05Zy1WaN0RnSMYLDsccRnGhFTdowYqtTlxjRxLOv3MC2V7e+O/6OlljyOPC/A8a325hXvwyFeYDqGXxkE4I1RvqjDhTUVpweCeFdOkNzh2voDeN1jlNq9t8JgjDuVURSlQyjPfl8DQOh1Xt9uxAsVn0pWwvCZSgDfHLx+9A+oZzt2znba/L0bbiSXLeeA7DH9nOkHmUsswPhyf91jWowzRB8g2T79eEdduS15sGHQHX3flf//Z" />
 
 **Anne:** Hallo Herr Dr. Hanno Platz, vielen Dank, dass sie sich Zeit für dieses
 Interview nehmen!
@@ -159,7 +159,7 @@ wird, fußend auf Nichtkenntnis. Das stimmt mich jedes Mal sehr traurig.
   title="Vegane Infos im Wartezimmer"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Vegane-Infos-im-Wartezimmer__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Vegane-Infos-im-Wartezimmer__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYI/8QAKRAAAQMCBQIHAQEAAAAAAAAAAQIDEQQFAAYSITETQQcUIiNRcaFCgf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADESESMUGh/9oADAMBAAIRAxEAPwDA3OmNtYKysLCpJgRvjHXWyM11Km463qd0tpL8sw2ozGqZ9O0SYgkT3w3FZPLNxqLBXtOirDiULbpfcLaonWCeZCp3gYsMxeH9XSNuW9dP1KB5vopWh5AcUmPncBX+YmhmTY87jmAbA8iubfYpqVDVOsltJCWyHNQAjj8nBiN98NMxW5wqtNO3VMqkQhY6wBH9JUqD9p/MGOhSjb5TDcw1iP3IeerDn1ypupV5G/nSXaNShpCQACQdtSZGx7cGOTprvdOh5lp9jZtCXGggGVp4Vt3IO/0Qcch5bfap7Op1p1bFzpahXTebMKRxEfI5BB2IwzMqZ5TfXaUVrnTvNHu2krIQ6AIOieJHKe31h1oNC8sZB+QyYtOM7EZin6a70XWBRtKCkiFNqHKVb4MUNTcbfStRa7frJ9WlftNpPxAGpWDE+y6onZilpcjqf//Z" />
 
 **Anne:** Sie betreiben eine Praxis in Fischach, einem kleinen Ort nahe
 Augsburg. Sicher kommen zu ihnen nicht nur Veganer\*innen, sondern auch viele,
@@ -227,7 +227,7 @@ Antwort darauf, bitte!
   title="Das Sprechzimmer"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Das-Sprechzimmer__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Das-Sprechzimmer__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAUG/8QAKRAAAQQBBAIBAgcAAAAAAAAAAQIDBBEFAAYSIRMxUQdBFBUiMlJhcf/EABgBAAIDAAAAAAAAAAAAAAAAAAACAQME/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMSISL/2gAMAwEAAhEDEQA/AH/jMUzJx0N4obUQopotBX8hZ+R61TkQG28+zG58R4HFg+qpSvVEVpFZ7cqd4wZTEfLZDCu4911tYXPEdpIvo1ySVE9H7nvWo+jeE7bsd3bbEV5hlKQ5Kdt8Pnl2WySRVEqJ77OoQHIHpscj0Fo5XxsuJWkoNKux+5X30s85smevOiYqQvwpkeXxl9Y6s/pr1Xfr+tYuL3rvTa8SM1KwePnT3TwbDslDRJ7tRIrikmgEq+Pg9R4f605LcWSVjp+HgJdSlZUuKtYKONA2FE32a96Cr7kVYn9yy0I3M1k/JxxmQjhvzoPTqkCj3RpQFd161mZ/LtO/hPyV+YwWEBIW28a+3ogJ+NGjWqgW+Elbo9hljF7uzhjympOQefJbSA48ApSbWlJo1Z6J9+tc1AlKjuLdLXJ0pptfkWktm75DiRf+HrRo09OKlbPUyFr2sHZn/9k=" />
 
 **Dr. Hanno Platz:** Natürlich bekomme ich diese Phrasen auch in meiner Praxis
 zu hören. Nur wissen, dank konsequenter Aufklärungsarbeit, mittlerweile immer
@@ -321,7 +321,7 @@ zu nahezu jedem Supplement etwas Negatives im Netz findet.
   title="Das Praxisgebäude"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Das-Praxisgeba%CC%88ude__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_Das-Praxisgeba%CC%88ude__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcB/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQIDBAURABIhBhMxQVFhFBUicSPR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/EAB4RAAICAQUBAAAAAAAAAAAAAAEDABECBBIUITFB/9oADAMBAAIRAxEAPwDJKuClqKiCqhnglppGinWRdrRsoycj9c8eRyM6VWvpmpuFNJPDsCAfx7mx3T7L/fvxqadK3WmrLBV1N5mNVcPpgjyzOuWfuAKoY8HKsQuT8Y8ad9Ldd19rstPRpZ62UwAhHFbC3GzcAV85U4QjPkHSr1TB1mYeaVmtoqBep+rJLNfVpIqRHpoZVWck/lg5Bx8g44xkE4OmNrqKa5QSz0iytDER3HZNoXJwM/7xzqTfaZ7XejcLx3DTTVjq9FTVKmRgyszYz4G4gZ/fxqs2XrJaXouOopLWkMUFO71cKS9lXYAhgoKncWXaOSPX0xrPKaDfyWKV1R9n/9k=" />
 
 **Dr. Hanno Platz:** Das ist genau das Problem mit den Antworten auf Fragen im
 Internet. Jede\*r schreibt einfach seine Meinung, ohne dass der Inhalt

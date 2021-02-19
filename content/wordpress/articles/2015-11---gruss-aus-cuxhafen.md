@@ -32,6 +32,6 @@ subTitle: Bildergalerie
   
 ---
 
-[myflickr tag="annecuxhafen2015"]
+<Gallery name="flickr/annecuxhafen2015" />
 
   

@@ -38,7 +38,7 @@ noch jede Menge Stoff übrig war, machte ich mich gleich ans Werk. Die Anleitung
 ist wirklich super gemacht, jeder Schritt ist ausführlich erklärt und bebildert.
 Als Material habe ich ganz normale Baumwolle genommen.
 
-[myflickr tag="annekleinetasche2015"]
+<Gallery name="flickr/annekleinetasche2015" />
 
 Ich habe mir noch eine passende Handytasche geschneidert und ein Kosmetikbeutel
 ist in Arbeit. In Kürze werde ich Euch beides zeigen.

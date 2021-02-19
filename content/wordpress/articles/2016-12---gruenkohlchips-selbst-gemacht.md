@@ -26,8 +26,7 @@ date: 2016-12-06T12:42:18.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "15466"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31341828001_78597e8f3d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_12_31341828001_78597e8f3d_z__l.jpg
@@ -67,7 +66,8 @@ welche übrig bleiben, könnt Ihr die Grünkohlchips in einer Plätzchendose
 aufheben. Beim Snacken könnt Ihr in meinem Blog noch
 [weitere Rezepte](/category/vegan-2/rezepte/) entdecken.
 
-[gallery type="rectangular" size="large" link="none"
-ids="15464,15465,15467,15466"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31420519786_4290f44aee_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31420519786_4290f44aee_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341825941_ce5d4f03e3_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341825941_ce5d4f03e3_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341829711_3caf488641_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341829711_3caf488641_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341828001_78597e8f3d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_12_31341828001_78597e8f3d_z__l.jpg"}]}
+/>
 
   

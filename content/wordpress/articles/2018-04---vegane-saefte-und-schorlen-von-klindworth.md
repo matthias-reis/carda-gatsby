@@ -47,8 +47,7 @@ date: 2018-04-01T15:17:15.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "20360"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_03_41034073871_275df277a4_z__l.jpg
@@ -80,7 +79,7 @@ Produkten für unsere Etiketten!"
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40140781455_40682275ba_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_40140781455_40682275ba_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBQYH/8QAKhAAAgEDAwQBAgcAAAAAAAAAAQIDBAURACExEhMiUQYHFCNBYXGBscH/xAAYAQACAwAAAAAAAAAAAAAAAAAABAIDBf/EAB8RAAICAgEFAAAAAAAAAAAAAAECABEDIUEEEjGh8P/aAAwDAQACEQMRAD8A5BaLKa2tpIX2EsyR59AsB/utP85oLRYfkTSzQv8AbdmVe2gQkP5hNsY4xn9c6X8NlqGudmrEhAgarjCSORhiGGdjzjUfqW9TdL2qP0LG0MxwrKCelyMknbjG3OkM2aupRAeD96jOHC1WV3qpn0msb1NREwmAq5Wan/DXxUpIFz68sDbbVdJbekBgNLt8SQ3hjNK6pBVEZ7qjpAA24/r3q4q6pYAEmjaN8A9LqQcH99aCmxKciFTREzkNxrI6SCniqZI4Yn7iBMAq2c5BxnnTrtdKyuqUqKmqnMqgqrRv0YBOTx70aNQKKT3EbgXY1vxE2u6NbErmVO88mJGaVurOM85HvB/jVxdrzWXSyNJWytKuEKoceD4z1A/kNyMcb6NGihcMjllUHif/2Q==" />
 
 Im Anschluss wurde mir die Frage gestellt, ob ich nicht Lust hätte, die neuen
 Säfte und Schorlen aus dem Hause Klindworth zu testen. Weil ich ein großer Fan
@@ -104,7 +103,7 @@ auf den Prüfstand.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQQI/8QAJxAAAgEDAwQCAgMAAAAAAAAAAQIDAAQRBQYhEiIxQRNRccEyYaH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAAMF/8QAIREAAQQCAAcAAAAAAAAAAAAAAQACAxEEIQUSMUGBseH/2gAMAwEAAhEDEQA/AOd7a36yOOKIpaoq4YDLdo/smsWagKKI6fG1xrOnQx4yZ1Pd4wDk/wCA1ONAlQFpt3tty2t9GjCXrzz2fayt5OSM5/FTK8tvjzxxV03EjXmlXaI6NLJG3LNnJxn9VHb4BoyfsZoWA4lhBPf2tJG0Vt6Fouo6jbCa3hX4j/Eu/T1fijKbV1a1vrC6mSEQpMrOyyE9Az748euKFba3iLJrGKUtEsSdJJHbnAA/dOOqbssY9PknaSL5XiEWFbq6h6wufPPmudlZea2TkDRR6a+pkMMDm2TtHN0xT3WjXUYa3RXiIUgeOPscmoveXYZTg+eadL3elm2ltCskbN0FQEhfPjHvipfJLIwAPoUzhsc0bXCbwhyEE6X/2Q==" />
 
 Den Pampelmusensaft haben wir als Schorle genossen. Besonders jetzt in der
 Übergangszeit, in der die Südfrüchte nicht mehr wirklich viel Geschmack haben,
@@ -132,7 +131,7 @@ davon pur schmecken.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225194090_cd5c0ee236_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_03_39225194090_cd5c0ee236_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUEBv/EACwQAAEDAgQEBgIDAAAAAAAAAAECAwQFEQAGEiEHEyIxFEFRYXGRI4EyQqH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EACARAAICAgICAwAAAAAAAAAAAAECAwQAEQUxEiFBkbH/2gAMAwEAAhEDEQA/ACtxk2CtJ0qNgq2xI7i/7H3ihFy1UZEiGW2khL0cT0r5gGlkOBJV8gkbdzcWxqp+qfRKtTkAreaSKhFSPNaOlxA91IN/lsYQYrSIqXwVoS41Bp1Oj33ClJHPd/3QL+uAszCGNnPwMuGLzIGH3FOhromYm4zk52cVMBwOulRIutXT1Emw+ccI+33wncVnJFQdh1GStkltPhiGwRtuQdyfQ4NniMLcXYazVWRzs+9/eFYQRyFR1l/Kc95OY4nhiOaVJSAeyupIIPsQSP3hmr0Z01GltU4R1OPuTJX5iUpupISNwDYpSEgbeWBHJqG4WbKXMmcwxGXw45y06lWG/bz3thPrecKSjMdGmMLlmPGRIbcDrSm/5JTpUVH3SfvE5NGau4QbOj+ZpXKgaY9nIfE+FJhZYgO1JqGJ4k8tTkcqVqToVbcgenb1wUuPe+EXitmyFW6TGjQPyLTIDhs6HNtJHl274Llc1X9FfWF+EDrVAkGjs4FgKH0nWf/Z" />
 
 Bei den Säften konnte ich mich nur schwer für einen Favoriten entscheiden. Sie
 schmecken wirklich alle sehr gut, ich schwanke im Moment noch zwischen
@@ -161,8 +160,9 @@ Von mir bekommt Ihr also eine klare Empfehlung. Und in
 auf. Ich finde es toll, dass immer mehr Firmen die Zeichen der Zeit erkennen und
 auf vegan setzen.
 
-[gallery type="columns" size="medium" link="none" columns="2"
-ids="20359,20357,20363,20362,20358,20355,20364,20361"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_26163414447_4817f23e20_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_26163414447_4817f23e20_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_40140856495_7d049a60c9_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_40140856495_7d049a60c9_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39225141190_3c7e157f93_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39225141190_3c7e157f93_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_40325596544_1cd27f2073_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_40325596544_1cd27f2073_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_40992410772_e1e80d2b00_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_40992410772_e1e80d2b00_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_41034120631_88f0a00f8b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_41034120631_88f0a00f8b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39225130890_1bdd25d73a_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39225130890_1bdd25d73a_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_03_39225161640_ab3ca6060d_z__l.jpg"}]}
+/>
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

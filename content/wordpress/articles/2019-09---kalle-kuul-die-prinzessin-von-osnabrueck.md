@@ -66,7 +66,7 @@ Anschließend wird gemeinsam geübt, bis alles sitzt.
   title="Lukas von Kalle Kuul mit seiner Hündin Otti. Foto: Kalle Kuul"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_kalle-kuul-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBgMF/8QAJxAAAgEDBAIBBAMAAAAAAAAAAQIDBAURABIhMQZBEwcVIoEjUZH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAeEQACAQQDAQAAAAAAAAAAAAAAAQMCESFBEiIxUv/aAAwDAQACEQMRAD8At0SMxCou9j0oPLH0P3qdVnmlI3jUvkMN4jt99ipyIbZNO0kExDY2GHGckqw3g8EZzjOk795Bc5bZc2N1wka/I8NK3xbFX8ioYDd1gd515H07pv4LxfWiWWjpZB9vNSpcfIn5Zz7C5x1wc40LnVWUNFF15PZbrdUS1dBSVE9LJRzTRJI9NKwLwswyUJHsaXorlDVvXGmLkQytT4ZShMiHDYB54LDn331qd+RfUGtkqZ6e3mKhRGP5hhJK376A765I1lqWa7XOoaZpjUDeWBDYZnPvPWTx/g1Kp/lA2to20lnlj2yyV8kyJmOOOSJCqgjB4xz2e/71yS0UVYtsFdTRsYaVqdEh3RwoNrEsseSAx4556GjRoVg0ttrIrD4fZqeMHFc4yqkNUDn1nhdM0tio5DPDE9VBDEVKiKUBge85xo0anpKkj//Z" />
 
 Das Quintett geht ganz unterschiedlichen Berufen nach. David ist studierter
 Bild- und Toningenieur, Martin Inhaber eines nachhaltigen Modelabels, Marcel

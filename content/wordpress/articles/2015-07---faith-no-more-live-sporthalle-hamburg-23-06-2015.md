@@ -42,7 +42,7 @@ subTitle: Eine schöne Erinnerung
   title="Unsere Faith No More Karten"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_07_17295536976_02149f84df_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDBv/EACwQAAEDAwMDAgUFAAAAAAAAAAECAwQFESEABhITMUEUUQciMmGBI0JSkcH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAMF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxEhkTH/2gAMAwEAAhEDEQA/AOspqNwJVCUip7eLEhsq6iYDptxVxUcuA2Hta+r61Tt5NK5M1Kluw+nzLzMBtsJ73FnHCTi3jzpSnrgU5ukxl1OISlK1OEPJ4nksnORYZHf76E+J+51sUJtraVRgsTzK4vBLjCklopXyJBWcEhOfuNS0EkKB7L6RhksPb+45SkGp1AtxhcOqQWEuNkdxxDXvj6tab7hwnoTTEboRlpWlZcaf6TqgPGb3BPcAZ99RbS3k5zkt7iq1Fjx2ICWgpM5ni68FqUXEoBsLpUAbn9vm+ktxVKE1AYnSJjLEBSQfUKKOFlfSL3zfxa4zrKuqYP8API9W5NKZFpcpikvpotFbkuNKTb0SAlSkrIAtjGOxNtU7lgbchx/X1VmDSlJHSRxcTHaUuxULhPc4P4GhY1VbaMQMrjtMx0cS10wb5Jxk27n31LvCC3u+jIpkmc22wmQiSEpZQogJ5WT4/l/WnXXguATghqa+bGaVAoKg05DeW9L6C5LBExSrtBRbCyASi4Vg9xfR8+Z0mUguTFkKKSr17YsoW+U3Av8Aj/dAbd2+1tieuQxUX32PSqiNxnTZDSVEEgDkQRcE2IsCo6krcz9NtJTHPTupQDYSFmwtgdu3jQ7XUtxtiQpyf//Z" />
 
 **Ich habe Mike Patton getroffen! Natürlich nicht persönlich, aber ich habe es
 in meinem hohen Alter endlich geschafft, ein Faith No More Konzert zu besuchen!
@@ -70,7 +70,7 @@ reifen Bühnenauftritt von Faith No More. Es war wirklich einiges geboten, die
 Show war großartig, die neuen Songs fanden genug Beachtung und auch Fans der
 ersten Stunde wurden nicht enttäuscht an diesem Abend.
 
-[myflickr tag="annefaithnomore062015"]
+<Gallery name="flickr/annefaithnomore062015" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

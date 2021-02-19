@@ -37,8 +37,7 @@ date: 2014-02-23T18:38:44.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "7751"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9803__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9803__l.jpg
@@ -54,8 +53,9 @@ hier ein paar Beispiele. Die komplette Fotoserie findet Ihr in meinem
 
 ## Augsburg von oben
 
-[gallery type="rectangular" size="large"
-ids="7755,7754,7753,7752,7751,7750,7749,7748"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9908__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9908__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9906__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9906__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9899__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9899__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9828__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9828__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9803__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9803__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9795__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9795__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9788__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9788__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9780__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2014_02_hotelturm-augsburg-9780__l.jpg"}]}
+/>
 
 &nbsp;
 

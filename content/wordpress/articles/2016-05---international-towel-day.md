@@ -40,7 +40,7 @@ subTitle: Es ist wieder soweit
   title="Das Handtuch ist gehisst!"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_5386__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYIB//EAC4QAAEDAwMCBAQHAAAAAAAAAAECAxEABBIFITEGEwciMlEUFRYzQVNxcoGRof/EABgBAAIDAAAAAAAAAAAAAAAAAAIGAQMF/8QAHxEAAQQDAQADAAAAAAAAAAAAAQACAxEEBSESMVFS/9oADAMBAAIRAxEAPwC8aj4hP/WqUWl2oWq8NirBO6BPqgATPNTWoeI7tlcNBC2nWlpJzEFKoMbGTNcMu9Snqy1ubu5UlIQ2tTikBwiAYkEGeAODHttTnUGs/G3jTrd23cJCcQtKFJIE7BQUAJ53SBP41DcmxZT7Bp4p2xkt557xaR6T63t9auFMu9tpQRlllAO4FFZ10TWXWtRvSh2IHqEfmCigdkNv4S/sdY2KctZwKrWmoLPUdo4ACop7eIGfIUIiDPPEUrqB160cZRcO26zgSOyyGwnfgwkAn9JqssOn51bfaUmUnzbJMTv/AJ/dP9RXGZtsSpXkUMnI7p3HqjaPb+aqDKbSYsPP8BlfmlI2GpgXl6sKKguIJ9swZoqA00qycKthiDv+4UUBjJ6sfZTeprP0v//Z" />
 
 **Viele haben schon mal davon gehört: Der International Towel Day. Jedes Jahr
 am 25. Mai wird er gefeiert. Doch was steckt eigentlich dahinter?**
@@ -63,7 +63,7 @@ jedes Jahr am 25. Mai wird es dann feierlich gehisst.
   title="Douglas Adams - der Mann mit der Antwort"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_douglas-adams__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_douglas-adams__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAECBP/EAC0QAAEEAQQBAwEIAwAAAAAAAAECAwQRBQAGEiEHIjFBExQVMkJRYXGBgpGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGnB8G7QwuIYRhIC28pFClInOOkuvKKOKg4fYpULBSAALNAak+B3Hhtwuz8E/Nhu5RjkzMx/1QVgVSrT/fdWAer1DPNnnHG+OpK8RFhuZHPrYDqUcgllnlYT9Q3yvq+IHY+RYOgm34m2M/tONuwyIcjeM3gpmQOLDqJSuCRxCT6eSkgnv8yhdEggyjubam0HW8AmQxEUw2FiJHaW6ppKlABbgQDwBUr8SiLu70Wd2/jMvjpaMtBiS/vFI+0gjklfVCiT1Q6BFfqO9Rje22sAqLnMo5AjJyq461PuMp4vPoQQoesd2kBJFdghPdVqq+x/PG5dvZHGw5E9yZt6PJHNLw5PrZ5/K/cnj/zQLDcuXn7m3DNyk51+XKfUCpxZK1cRSE2f2ASP9aP7OlR33cXh90ZF/DYJx1azMEYuACu+gLV6kpA9wmyaHegO2piYs1tlcdLqX32bVyUkgJXddfBNH/Ea7s3CbiYoNpfWpYUJDlt0CtYA4j1dAA+9WT/A0Di8peTsJi9hM7U2TlVZeXIaLUzKpYMdKGSqy2hND1K6s99XZJPVeR8a24FSgLFnWCkg6D//2Q==" />
 
 Das Datum ist ein Kompromiss. Sehr bald nach dem Tod Douglas Adams sollte ein
 regelmäßiger Gedenktag zu seinen Ehren festgelegt werden. Es sollte aber auch
@@ -85,7 +85,7 @@ Handtücher.
   title="Festival-Handtuch"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4203__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2013_05_img_4203__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAJxAAAgIBAgYCAgMAAAAAAAAAAQIDEQQAEgUTISIxQVHwcaEGkdH/xAAZAQACAwEAAAAAAAAAAAAAAAACBQABAwT/xAAbEQEBAAMAAwAAAAAAAAAAAAABAAIDERIhMf/aAAwDAQACEQMRAD8Aak4hPygi5uSdqmyZiqJXom/tarrnSMY+ZmCYMWHZNLuPxX61HjSxSdCImIKkjaO0+rP96tTyTNDUNCQC1Y+D+TpenGZHusfxnimRjNlHEBZZdrkTPurzVX+/xo1lYlTZE4LlSu2wFFWbvRozAftXky/i8cxI5JAN7FHVdoWgWF31v7WtmHP5+ySGKUbid3b48e/Y1zBcvGbOyNzmJudSrVg0DZPzZ008JyGfGVd8RVVdFJ7gAR0B++NHljc+vZkvGZeHzK+dnLIsdKy7aHqv9B0awMTiYXKmVTHSogCoQQB1+NGoFv2//9k=" />
 
 Wer jetzt vor dem großen Rätsel des Lebens steht, sollte auf jeden Fall "Per
 Anhalter durch die Galaxis lesen, Ihr werdet es nicht bereuen. Vor allem werdet

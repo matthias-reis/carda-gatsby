@@ -37,8 +37,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
-  invalidMdx: "unknown: Unexpected token (117:13)"
+  invalidMdx: "unknown: Unexpected token (119:13)"
 thumbnailId: "13030"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_10_22358342235_3db7bc9f0f_z__l.jpg
@@ -47,7 +46,7 @@ subTitle: Nähanleitung One Size (34 - 42)
   
 ---
 
-## unknown: Unexpected token (117:13)
+## unknown: Unexpected token (119:13)
 
 <!--
 <RemoteImage
@@ -56,7 +55,7 @@ subTitle: Nähanleitung One Size (34 - 42)
   title="Minikleid Nähanleitung"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-19-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUHAgQI/8QAKhAAAQMCBAUDBQAAAAAAAAAAAQIDBAAFBhESIQcTMVFhMnHBFSKRo9L/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAH/xAAcEQACAgIDAAAAAAAAAAAAAAABAgARAyETQVH/2gAMAwEAAhEDEQA/AFPCqHzcdxiRsIL5/K2x81PuJkFmUmbdILDZQJ7pdebOrmalKGZ7ZEb59xVW4Xp5eLHnQN2bW4r9qP5rnW23yfbJbkiM8QXiVvNr3Q5mczmPnrRKCTYjAqBTTctFjvciLzLelzlE5kIUdiQDv5yIoq7cP3AcJwZAZZW7KSX3eVuEqJ2HuEhNFbzTCg6jfh2yzDtr1wcWVzZTUhtAByAZQpGlIHfUT93nxUAbwk/ecb3O1W1xIixZLgdkn0to1nt1V1AA6kdt6udmmtxcHRVr0ApZWvUrb1vnbPscqnmBJ5i/WZxVHUZ05bhQlROkBSgMvG5qd8jJZXyNjRXoNMro0m2TFQ4zrkdplIbCW1KAIAyB9yAKKa3BEO6viRISQ5p07HqBRUyvrcoIF6n/2Q==" />
 
 **Ich hatte ein Bisschen Zeit und so kam ich dazu, mir meinen ersten Schnitt für
 ein Kleid auszudenken. Ich mag es sehr und möchte Euch daher gerne zeigen, wie
@@ -80,7 +79,7 @@ Andere etwas "hemdsärmlig" vorkommt.
   title="Stecknadeln und Schneiderkreide"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22170621608_7ef814e580_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22170621608_7ef814e580_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAcI/8QAJxAAAgEDAwIGAwAAAAAAAAAAAQIDAAQRBRIhBgciMVFSYaIyQpH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAAH/xAAdEQACAwACAwAAAAAAAAAAAAAAAQIDBTFRkaHh/9oADAMBAAIRAxEAPwCnpnczp/J3adqkaqMr4IvH9+KeQ91+nkEYOm6tyOdqxHb9+a51sZ4mGRgeg9KarcLsOOUPmoPFDxy6IcL2MPQunyzc7/ur05naunas65ILCKPy9fzpNqfX/TEu4G8vbdva9o+P6uax2S7hHLq6H3Bs0tvp1ZWMTI6n9TWTyaLO/Pwo6V0OhTBMykYq/FeSDPzRRSrQamQnunYEEUruDkkjg/FFFSRSZ//Z" />
 
 ## Das braucht Ihr für Euer Minikleid- Stoff - Ich habe Viskose verwendet, die fühlt sich wunderbar kühl auf der Haut an und sorgt bei fertigen Kleid für eine tolle, fließende Optik. Ihr könnt aber genauso auch Baumwollpiqué oder Euren Lieblings-T-Shirt-Stoff verwenden. Der Stoff, den ich gekauft habe, war 1,50 m breit, ich habe einen Meter bei der Buttinette [<sup>2</sup>](#2) bestellt.
 
@@ -111,7 +110,9 @@ das Kleid vorsichtig im Abstand von ca. 1,5 cm dazu (Nahtzugabe) durch beide
 Stofflagen zu. Die Vorderseite entspricht genau der Rückseite, so entsteht der
 elegante U-Boot-Ausschnitt.
 
-[gallery type="rectangular" columns="2" size="medium" ids="13021,13022"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_10_21735567414_4355a176ac_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_10_22170306960_c1091df515_z__l.jpg"}]}
+/>
 
 Stellt nun Eure Nähmaschine auf einen größeren Zickzackstich, Profinähmaschinen
 auf den Saumstich. Umsäumt alle Ränder feinsäuberlich und verriegelt dabei Eure
@@ -123,7 +124,7 @@ Nähte (An den Anfängen und Enden jeweils ein paar Stiche vor und zurück nähe
   title="[ ](/wp-content/uploads/2015/10/21735559864_4129d12356_z.jpg)  Hier kommen die Säume hin"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_21735559864_4129d12356_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAME/8QALhAAAgECBQEGBQUAAAAAAAAAAQIDBBEABQYSIQcTIjEyUYEUcZGhsSMlQWGS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBf/EAB4RAAICAgIDAAAAAAAAAAAAAAEDAAIREiJBMVGR/9oADAMBAAIRAxEAPwAr0P06qdfZvmFV2hipKeQRAFWs9l55ANgNv38eMMWmNFaMptNGmzzJkml3742jpldlXaBbcTfk3PsMQXR2pqcv0jSFKmaL4gNM6xuVDBmYgfQ2xZ3r5Hm8oEY4AA8BjKY2wOo6mnRYI2Pc5VGkdM1n7flOUU0VDIiKVlpwt5LnvE+45wa9Quk1VoiWjzuiQGhFR2M6RyM4RSPNyLgAE+v2OGqlf9JHjdRb1Xm/1xBdRJy2nczerlkdfhJWLO7G3cPqTh0YfsLUHn1C3pVnJn01DTlu/Tu0DcX7vmXj5Ej2xe46yGORd0wBPFgwF/mMZ00dnpyPMy7lvhZl2ShfEejAeo/BONJaX1xpeXKKILUrJPDTLHIRRGVd22xJswPjzyMUcnlmTS3NcT0yZzAibVqxc+I3f3+MHnVzPli0tLTw745aqTsCu5uF4ZiL+INh/rCVmXUTR9Pl88JrKRXaJkUvl6qfJbltxJN+b/nGZNb5+ud1dMkDM1PTR7QzE95z5m5/jgD2w0p5AmDmgVIn/9k=" />
 
 Im nächsten Schritt werden die Säume umgenäht. Dazu faltet Ihr den
 Halsausschnitt und die Armlöcher sowie den unteren Saum (siehe Markierungen in
@@ -148,7 +149,7 @@ Schneiderkreide auf den Stoff.
   title="Das Stoffstück mit der Kreidezeichnung sollte obenauf liegen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22369023911_661039e377_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_22369023911_661039e377_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QALBAAAQMDAgMHBQEAAAAAAAAAAQIDBAAFERIxBhMhBxQiI1OBkUFDUVLBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAyEEERJB/9oADAMBAAIRAxEAPwDKuIL1NtkkWS0FyCiKlLbjyca3fCMYP0TgjbqaTpYU4Q48++6/6i3FKV8k1Hn3dy6XmZOfRy3XnCdH6AeEJ9gAK6NPkq6mjVIEUZv2LtsLsdz5Htv4iv1uTy4l1khv03TzUfC84rRezXipEyVOkz4TK5sZvS4iOCnU0sjzEAkgEEYI26jbNZI5ITjJUBird2dQpUaVKvU9sRrWY6oza3laO8KWU40jcgY3/OKjyVUJ6GGV4zMWCnRE7PC8O+SlvpceiSFnKighSCcb6SP7ShFlcTe3rd3pOW/u8rf21f2iioJc4Yr3gETZQhAbrSZfbZwRAgx2ptycduChhaWujbe+yh1JHvU/iW6P3IISSGXGsKZW2B5f+YIwR0HQjBxRRREsaxvTnsiMapK18qOhP//Z" />
 
 Wenn Eure Säume fertig sind, legt Ihr die beiden Teile wieder rechts auf rechts
 übereinander und steckt sie feinsäuberlich zusammen. Achtet dabei darauf, dass
@@ -180,7 +181,8 @@ title="[ ](/wp-content/uploads/2015/10/Minikleid-Nähanleitung-17.jpg) Mein
 "Schnittbogen" - zum Vergrößern bitte anklicken!"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_Minikleid-N%C3%A4hanleitung-17__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QALRAAAgECBAIJBQEAAAAAAAAAAQIDBBEABQYSITEHEyJBYXGRocEjUWKB4bH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwYB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQREhMhIjH/2gAMAwEAAhEDEQA/ACOi8mbqoaOliG1QFZrcv7i1ab0mtFTG5YykXO03I+MG+jGljFPG116x3Kg29PjFKgrhTwSybiYmjALbtu29+/8AXtiXsc22cT+SiA6k2IbqcoZZfqJNtJ7LOSP57YK6myYRg32Mjg27NvMenziq18yTUUKgMBEwUEsrXG3wPhglqRUamF24BxzH6+cZrrbww1bsXZkt0TnSxyRgSMDdWPaPEg2PtbFTp61rErNKL8ypPHGaspzKKnZWNSFZTw44e5XrTL4UXewd7c2cEDDsjFYtySKpvXWmljNZeIiSZmF+9hzwZ1LmkaRbQSxQ7mA4nlw97+mCU3SBQiNhC8G783A2+d/8GB+c6qjqTJerjkDm5A+45YGrFsY/Qhveijyf/9k="
+/>
 
 - [2] Die [Buttinette](https://basteln-de.buttinette.com/shop/start)
 

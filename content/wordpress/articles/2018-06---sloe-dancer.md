@@ -29,8 +29,7 @@ date: 2018-06-02T12:59:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "21137"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27915691638_32121b3747_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_27915691638_32121b3747_z__l.jpg
@@ -53,7 +52,7 @@ Dancer? Ihr tanzt damit nämlich ziemlich gediegen in den Abend.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41782985481_7d3681cbd1_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_41782985481_7d3681cbd1_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEABRIGITFhE0EHFBUycZH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQIE/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAwQREhMxIWHwcYGxwfH/2gAMAwEAAhEDEQA/ANk6X3yluFm3TWCVLULyBT8DfGqKSFLsewJx41ZPvW2xbO1zdilUI5ikbB4BgCcgn6IH+9s6Qujtm6ot9SoN42FaO3OrLPM14SsgxkcU85JAGTqZ+UTV6cSp+6T232+0WQfArEDjgnmM/wBePepoa7VdZ5GffjB58zOkWQZttXBJ4l9fgqTLDPBJC0Ug5K3MEEdvBB76NIHTNXaesUnbptJpFqcVnJDRrybOCMnBOF749aNIK9yeuiZazVDpdwDNQi6x2uK7+hmt1Y73YGAyEkHOMePOfrVnanktVx8lWCSHOQ6sGx7HvzrmLcKM1yNt0o3rXzxtGFW3CEhdGbsC2Q2cjsBk/WRnWpfiXfbW79BJZ3GNEupK6cY0MSuoIwQp8fY9kE6oVFXGUOfz0H3EqUDRI1DB87x9m3GKs5SGqY1yf4YHL2cfejSzfvcWQswQEdg7AHRosmHtoepHzP/Z" />
 
 ## Zutaten für 2 Gläser Sloe Dancer
 
@@ -78,7 +77,8 @@ zugleich!
 
 Prost! Auf einen schönen Abend!
 
-[gallery type="rectangular" link="none" size="large"
-ids="21139,21140,21141,21142"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41742653532_147b40eb13_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41742653532_147b40eb13_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_39976972580_fc8128d911_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_39976972580_fc8128d911_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_40884864505_f667877bd9_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_40884864505_f667877bd9_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41783972671_d5e7d0c5ef_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41783972671_d5e7d0c5ef_z__l.jpg"}]}
+/>
 
   

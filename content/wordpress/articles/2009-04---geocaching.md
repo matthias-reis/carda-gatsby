@@ -27,7 +27,7 @@ subTitle: Wanderimpressionen
   
 ---
 
-[myflickr tag="geocatchinganne2009"]
+<Gallery name="flickr/geocatchinganne2009" />
 
 &nbsp;
 

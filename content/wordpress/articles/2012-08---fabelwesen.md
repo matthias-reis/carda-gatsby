@@ -27,8 +27,7 @@ date: 2012-08-04T13:35:18.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "3724"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0159__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0159__l.jpg
@@ -37,8 +36,9 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 8/9
   
 ---
 
-[gallery type="rectangular" link="none" size="medium"
-ids="3724,3723,3722,3721,3720"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0159__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0159__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0158__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0158__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0153__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0153__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0152__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0152__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0150__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_mg_0150__l.jpg"}]}
+/>
 
 &nbsp;
 

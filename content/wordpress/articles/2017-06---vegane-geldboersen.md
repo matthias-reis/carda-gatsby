@@ -54,7 +54,7 @@ belastbar.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35322426656_3991a4bd77_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_35322426656_3991a4bd77_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAgDBgQFB//EACsQAAIBAwQABQIHAAAAAAAAAAECAwQFEQAGEiEHExQiMUFhFiMyUXGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxEhMRKx/9oADAMBAAIRAxEAPwBcEpw5kdhkKpJ/oZ0z+1vDC1VGybV6nb1pnuEtFG71Msk3mc2XlllXrrOMZ+muFbXs0V0lp6al/MmqfLV5TKOOXbiY+A7BweiR2QfgabS/3O52u3UH4ctS3QtIYnTkVEajAHQIx19T0MffRDDZi8kkCLp4k7OotqLOnoIaOTzohFNHM7ZVicZDfTr51VbdQ08KxzNURuRyllidgmA/INx79zDHwe8YIyNNV41Wm3XHZsMNbAsyNWwgtjLKArk+4d9d/wAkaXCkopKC3mlqBKq08stIxfKo0mGKgOASBwP6sqQO8kDGjejKgcSaWI7tUegfZWtp1UqU0M9O70/o8yN5DcHlYHIJce4DrGM6yk8RN32+WSGl3Ld1TOe6lmI6B65ZwOzo0aNZIsbEs4BUZmtvW7twXtQLve7pWqDkLUVbuoP2XOP81LsS5SLf6G3zKJqSqrIuUbscBj7Cf2OVJUg5BGjRq3dGAaOZ/9k=" />
 
 Den Näherinnen und Nähern unter Euch ist das hochrobuste
 [Snap-Pap](http://snap-pap.de/) bestimmt bereits ein Begriff. Es kann genäht,
@@ -81,7 +81,7 @@ der Jeanstasche auch nicht ab.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34518811064_01eabb3e03_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34518811064_01eabb3e03_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAQX/xAApEAACAQMEAQIGAwAAAAAAAAABAgMEBREABhIhMSJRBxMjQWGRcXKB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMAAf/EACMRAAIBAgQHAAAAAAAAAAAAAAECAAMRBCExcRIiQlFhsdH/2gAMAwEAAhEDEQA/AE3cVkoLPckNN8uYJN9SFgknAB/HLGDkA4yM4wT51V9py7Jv1PGbbbHa8wopmSdlToZDMPUAwAJP4++NT/4wQUtBeaihs9LBAtJSI7rTxcQW4lyxA/so/WkqnZZAvIjse2fI1Om61VD21ERuLgSsbok2nV3WiodpUkplp0m+ezsOHlccWJwe8g46w3WtfYlhCTS1FJQrEZU+o0/FnVlwcoQcsD6icr4II1O9vzrT7mt5ldUg9SyOU5hQwxnH48/5q7WfalqFvlvV6aqneOaSkSjgqTHFzRirFuGCSSD0TgY8d6LoeK4yEL0zVsBme2/ySK6yw3P4n3mC404nWereAHkQUC4HX8hcEex6x51yKnbtPTRU7LPOXFdFTMcjBUmQHAx0fQP3o0a2HHKg8D1EdDGv4ibUtG3tqy1VAtW1asiYllmDADmUIChR7+/207bf3NVVtxitFaGlpbsIZlw+DBI9OkhI6ORlT115znRo1Z+necUkZz//2Q==" />
 
 Ich nehme sie von jetzt ab immer auf Konzerte mit. Vom Format her passt genau
 eine Eintrittskarte rein. Viel mehr als das, mein T-Shirt- und Getränke-Geld
@@ -102,7 +102,7 @@ Online-Shop. Dort gibt es derzeit sogar 15 Prozent Rabatt. Boris hat mir
 verraten, dass in Zukunft auch größere Modelle geplant sind. Es bleibt also
 spannend!
 
-[myflickr tag="Borderdog"]
+<Gallery name="flickr/Borderdog" />
 
 Kennt Ihr schon meine neue
 [vegane Handtasche](/2016/12/meine-neue-vegane-handtasche-von-mattnat/) ?

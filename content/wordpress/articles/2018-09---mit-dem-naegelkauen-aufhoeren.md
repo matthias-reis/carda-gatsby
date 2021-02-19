@@ -43,7 +43,8 @@ date: 2018-09-27T04:59:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "22164"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_43118769590_4b43635502_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_43118769590_4b43635502_z__l.jpg
@@ -83,7 +84,7 @@ oder allgemein an ihren Fingern.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44881587502_e09684ba60_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44881587502_e09684ba60_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAQME/8QAJhAAAgEDAwMEAwAAAAAAAAAAAQIDAAQRBRIhMUFRFCJxoWGR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAjEQABAwMCBwAAAAAAAAAAAAABAAIDBCExBbEREiMzgaHB/9oADAMBAAIRAxEAPwDtpdrZSkKt1FuABBVg5/PA5p2jaZB7WuoYyTwGfGR8Ui0nTrOW0hieeCSUAnaEG8ck4896q1dfTxuIbNdvs4th++vFAaaRx6e/zKlFZE3unxwO+F4Jm08nAljJxwACc/VJNQtIJYpDHhlHYHGPkdaqbvDLJbzmDayY4jQ5HkeKldTVYZo0VJzEqDM+/noeDgAfRpjKOQi4S36hEDY29rLM2FzqEd47HdGFO1X2qzY7r/ZqigltiSMbs8ncxOKKKnEjm4KpdEx2Qtea2hBKRxIwGMhRnHzSPWLtCjFSmaKK3ncclEI2jAX/2Q==" />
 
 [](https://amzn.to/2Oep9Ij) Mein wunderschöner Verlobungsring hat mich das
 letzte Mal motiviert, aufzuhören. Jahrelang ging das gut. Bis ich vor Kurzem in
@@ -117,7 +118,7 @@ zum allgemeinen Wohlbefinden beiträgt?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_31058090388_cb73ae0320_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_31058090388_cb73ae0320_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAL/xAAoEAACAgEEAQMDBQAAAAAAAAABAgMRBAAFEiExE0FhBhQWIkJRgcH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHhEAAQUAAgMAAAAAAAAAAAAAAQACAwQRIXFBkfD/2gAMAwEAAhEDEQA/AN7YCjZs0KhpInskdk0Tqimw5BltxE3C/Kix4+etLXcxbHmNYYjFlb0z4J4Ho+NbtjxNyxMdZM7MheSVb4lQoAoEd9/OoSSTwEWgYdK4ztmXcpMcM80JQlb4KbBq/fo9edTcOMobOjRi6LK6hvP7r/zVsk5eES408RZhcZZQUJ9u1J6sal40MeRuUMsRjnLmRo1bkovvo+4snTYQszgPax5O5LL9P5sEVNK+NKKryxUgV/emn5XtjQxkT5HFovSLDFk/QSoBrrvRo1VWhbICSo7dp8JAal2z7zteybVDh/d5mcY743iSotE34JIu77+fjS19zSbdpciJ8yVAnD1cpArPRuyBX80PfrRo00sDYmY3pCK3JZk1/nn72v/Z" />
 
 [](https://amzn.to/2Oep9Ij) Klar, wenn man etwas mit einer negativen Erfahrung
 verbindet, macht man es vielleicht irgendwann nicht mehr. Aber dieses System war
@@ -150,7 +151,7 @@ Wochen nicht unbedingt beherzigt habe. Das gebe ich offen zu.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44210869634_c0bdd45a8b_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44210869634_c0bdd45a8b_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQIE/8QAKBAAAgEEAgEDAwUAAAAAAAAAAQIDAAQRIQUSExQxQSJhoTJRUnHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACQRAAEDAwMEAwAAAAAAAAAAAAIBAxEAQVEEEmEhMXHwIoGR/9oADAMBAAIRAxEAPwDa1jiheBDbvL5VZgVbrjBA3o/yFOrTi5blQV9OuCWYyMQMfAOtUs5exW99Jb+doJ+kjRTRHr1YFMZxjI+1Obfi+Q5zglN0bfj3mc46SswdRrOl1kgnGc4xUzrgNspAyS8rnFTstOOvqm6AThMZ9j8rnveKktvpkktGJHYBAxBH2NTssK3Au0aJVMKqcg6PYsPn2/T+asOXsZeL4y3lnmEsUTLCTF2DdnIwdgZGvb33UzyUptLydISCZYkz+xAL/wC0bBI7piMwgki/Pmkv72tYLYnuBZsmPFYiLzPBKLqEeJSoUqfq7Y3+Kf2fJzwcVBaQTQnxFgjyxE9QTk6DbxnVFFKJey4qoR2zF/fqi/ur66iWJL2GK3jkWUrHFkuR7ZOcgfOhUvykqmVpZJD5NjCaXZJx/QyaKKweiqqXoi+UTbtX/9k=" />
 
 [](https://amzn.to/2Oep9Ij) Und was soll ich sagen? Das Öl aus dem Testpaket
 nutze ich im Moment ausschließlich für meine Nagelhaut. Mit der praktischen
@@ -212,7 +213,7 @@ Naissance findet Ihr auf der [Homepage](https://www.enaissance.de/good-on-you).
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44931534301_73b36ab3fb_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44931534301_73b36ab3fb_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQL/xAAnEAACAQMDAwUAAwAAAAAAAAABAgMABBEFEiEGMUETIlFhcRSRof/EABkBAAIDAQAAAAAAAAAAAAAAAAIFAAEDBP/EACARAAIBBAIDAQAAAAAAAAAAAAECAwAREyExgRIi0UH/2gAMAwEAAhEDEQA/AFpGuk1a9gsLe2JQwNJ6jlWYsgHA8Hj/ACrvSoJ7eOVLyKEMO6jc3u8+OeKS6Ydh1HfRybSz2cLqdvPtdl7/AFnFVls7TXKGORvQWIn1FbKli2Pw4AP91xJApbIOd1q0reOM8apBrIum5YoiD8GpTqyO3t7GeG9jKRTxMokRSwDeBnsDnHetjT9Z/la7fadcWrKU3qksca7nePkhFGD7gCRkmmdRkcQSTNHMtq8W4pNy6jGTkD64I+R5o4mSTaG9jvqhmieL1cWuNd8VBQ9QHTdYjvo4HmUWxtSGyqtlgwOQO+c1tx9V31yVlh0TarDG7B24/cA+fmiimiKmMMV3SKWWXKUDEDr5XB6gSTU47mLpyzfUTIHFwUfcGxjeWJ4481k6n1TqRyF0xIwR7THvxj9DUUVHVI2sqCqilmmW7yHWvz5X/9k=" />
 
 [](https://amzn.to/2Oep9Ij) Meine Hände kann ich übrigens im Moment auch wieder
 besser leiden. Ich bin zwar noch nicht so weit, Euch ein Bild davon zu zeigen
@@ -234,7 +235,7 @@ tragen nicht zu unserem Wohlbefinden bei. Vielen Dank für Euer Verständnis.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44881590282_daff22e130_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44881590282_daff22e130_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQME/8QAKBAAAgEEAQEHBQAAAAAAAAAAAQIDAAQREiEFExQxQVFxgQYiQpHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAJBEAAQQCAAUFAAAAAAAAAAAAAQACAxEEMRMUISKBQVFxkdH/2gAMAwEAAhEDEQA/ANtlaWkIVXkhWQ4OrtqcH+GnawdPt05k422PaKQAPelXTrPvtxcyyratGyxR6OobGobPGPD7qedItYbRJIFt7SRnOe0dDkceHnn2ocBzgOGLNe46eNrPzMbXESGhdaPXzpcjTdKlB7G4icjgiMbGkHUTZtEzRB29dY81Zh3Cs0cFphDgiKDn9ip36jVbm3ieUxR6HKtFAAxB8RknkfFKPDmvvH0UJM/HrsdXyD+JdKsV5a2zW0iQzNxsQWVh8YIPpVHAwjSDN3s6KBI5QZY+ePIUUUWyOabCo+Bj9hZmaFcnvE2WBB1bXOfakPU5LdIii7MAPycsaKKoZ5D6oNxYRpoX/9k=" />
 
 [](https://amzn.to/2Oep9Ij)
 

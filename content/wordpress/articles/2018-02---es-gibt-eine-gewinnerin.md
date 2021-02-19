@@ -26,7 +26,8 @@ date: 2018-02-11T16:10:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "18800"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_7__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_7__l.jpg
@@ -54,7 +55,7 @@ Teilnehmer/innen. Danke, dass Ihr dabei wart!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_01_2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAJxAAAgEEAQQBBAMAAAAAAAAAAQIDAAQFESEGEjFhIgcTMkGBweH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAIEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMRNBUf/aAAwDAQACEQMRAD8AxLdni8hCGtkvFmiDcOFI5A5JBpnFlrGeaGSK0jtlVg7LGAxI1rROxse9CkGSnDZElF2I0RPiASN8twfPmrr1Lk+np8RZW/T8EivHcaU3ECxuYvtjfcQSdmQn9kdvusdmQ7ADXRnaxcGkcSQSf2R9UG06fyxivsdM8pjilCxuoCDXHIHy3wfW6nycNhNCssVyiCRQ4WUFPI35I0atP1waLMYPCZaJHVFZ7RnZezY7A6615APeNfrms+xOSE2CiXv5jBjO/X+VLbnU79gDGqakOOj9yiZC4kivC6HRdQx4B9f1XMOSuHcKX/Lg7A8UUUqqCggfPYh0rRtPns3lmNteZa7liQKQkkhZRrgaBOhoUyhC4u0O1E7sSzMw1v8AjxRRRWe6lubFezP/2Q==" />
 
 Ein wertvolles Duo aus 24-Stunden Gesichtscreme und Reinigungsschaum von Ashéra
 mit TCM-Wirkstoffen.

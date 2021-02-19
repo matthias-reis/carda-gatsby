@@ -57,7 +57,7 @@ an und erzähle Euch, was mir dabei durch den Kopf geht.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_11354436373_f3f2ca7133_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_11354436373_f3f2ca7133_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBAID/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBBEFAAYhBxITIjFBURSBFTNhYnGRof/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAwX/xAAdEQEAAgMBAAMAAAAAAAAAAAABAAIDESESIjFR/9oADAMBAAIRAxEAPwBXznTB/IZt/JrjAuPKC1tQ3I7LRVQBIQQALq+PcnXjHxjW1s7CTmcS5NiuELVFcdbQhtoHlXc0bJJsUSf4rWhib1AZmIU2zLmMmlLS+wltJF8gGyQf70ybgg5nP7YIXBYZntedKUvqNirKASgGz+la5hbKWPaJGtFekzb66YzsXub8S24ZWSwOTYU420otFTCymuw9ygFJogg+tcG6sqJ6eZ7x233IOTK2ijsS21F7AE/t8Uc/JFaomwuokWQpnFz31tRUxy2/CyCCvwnUj8xl0eYDg2lVnnj4NCm7byzYErE+HkYah3ILTo7wPiuAft6/A1Z7ZafLGbIXp56SC7P3/mM9JisBnHx0rfSgnw1uGgPMOV+9fbVOQMg44EPyYpZKSabjFCgSBXm7z6X8c6NGnKeb6JtjV+4sSWouf6hO4STFbQ3Gxv1y3kgFTqrCQKIoet3665wGeyO2sy/hMdNljHS0suBBdNsuqodyD7JoV2/7o0ar8NH5ENvZ/9k=" />
 
 Jede/r Blogger/in, der/die teilnimmt, hat ein Blind Date. Nicht mit einem
 Menschen, sondern mit einem Song. Alle Teilnehmer hören am selben Tag zur selben
@@ -109,7 +109,7 @@ und lauscht dem Puls der Stadt.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_17160873227_6048e2ba21_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_17160873227_6048e2ba21_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEBQf/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABiESMVEHE0FhgZEUFUL/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhBBMiQlH/2gAMAwEAAhEDEQA/AF1Stm2tQ/2dynlQACISSyPNIxPZVBJ74PbHbR25esu3aaAikp6uebHCuntjPknnTKvoLbeqaOiuiCalEqyGNh0hmUHAbHxznjHI/Ghe4fR+x3KZ5rPVPb5Tz7ZX3YQfoZ6h+zoqNQGHEGDk6Oor2TvhaqzLcLw9DQQynEWHCOx8cZY6w729RaCTa94ipHkm6oJAqywGVCcd2D/54x+c6D0uzLjtanEVUaGpPU3S9PJlyo5JKsAQAPvXNlSK92+WM1H8S2GRYqmdhh2B56AmQcN2LfAzpxr+ONpMFptI8ou2TumorY7tE8ZC0MqohMpJZSo4Ofsa2XvcNxhtNZWrOI4Il9v2YkUFu3JYg+fGrVqIpPelXqRHW0rGeMXncdfcZZnqHBVukqgHC/P7z4xrkUtVM8c0ZdhHKCHUEjqGc4/BwR4xq1atJUgGAIiXb7P/2Q==" />
 
 **Materielle Dinge bedeuten ihm nichts mehr. Wenn andere sich über einen Kratzer
 auf ihrem glänzenden Smartphone beschweren, kann er nur müde lächeln.
@@ -147,7 +147,7 @@ Glücklich.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_18121182520_4a4479afb9_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_09_18121182520_4a4479afb9_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAQMDBAICAwAAAAAAAAABAgMEBREAEiEGEzFBB4EiUVJhof/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDIRIiQv/aAAwDAQACEQMRAD8AnY6Che3b3rIREmDiKE90t+lyBn3xu9aY7D8XRVNtSYVU0UUzd2PfShW8YzgFvI9Hj+tNlX0PcKizxR2i4QOysMwVcfbg7ZyHPGWBwTgj70vvR32uo2VBUkRxqu7vBEJUYXHs4/0ec6IpRNXqbau5ncyuHxrBcrfUM16qqlqICJZEpIWgQbgvbIRN6+fIBX1xpWufxtFb4Vroq1dg4aUKVCk8YP4atHSvTMkXSk9ouGUWfBZ4HKSOA27aWBzwR5AHGtZek6FIlV3rqllBwtVXTSr9gtg/YOpfxH0lpV+pKbXV9RXK01Am6ouXZYCQoQje8YyVzjXXsdhnRC9Te7rURsRJ2HlHbYn+S4weefWjRouSziReMNGOFdJE9IIqymiqO2V/I5Q58ZXbjb9aXaGrukdyqUe5zy06kqI5BnAG3jP3o0azwu7sW4dT/9k=" />
 
 Wer Eels nicht kennt und gerne mehr über die Band erfahren möchte, für den habe
 ich hier eine Kurzbeschreibung: Mark Oliver Everett, auch E genannt, gründete

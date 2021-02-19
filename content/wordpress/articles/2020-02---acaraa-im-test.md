@@ -103,7 +103,9 @@ Octyldodecanol, Octyldodecyl Oleate, Octyldodecyl Stearoyl Stearate, Alcohol,
 Tocopherol, Caprylic/Capric Triglyceride, Citrus Limon (Lemon) Peel Oil, Citrus
 Aurantium Dulcis (Orange) Peel Oil, Citrus Junos (Yuzu) Peel Oil, Bursera
 Fagaroides Wood Oil, Citral, Limonene, Linalool ⋆aus kontrolliert biologischem
-Anbau</small> [glry name="acaraa1"]
+Anbau</small>
+
+<Gallery name="glryacaraa1" />
 
 ## Intensive Pflege für die Haut
 
@@ -197,7 +199,7 @@ Wer neugierig geworden ist,
 Dort könnt Ihr die Acaraa Produkte auch käuflich erwerben. Mit dem Rabattcode "
 **cardamonchai10** " erhaltet Ihr sogar 10 Prozent Rabatt auf alles!
 
-[glry name="acaraa2"]
+<Gallery name="glryacaraa2" />
 
 Hat Euch mein Acaraa Testbericht gefallen? Das ist schön. Wenn Ihr in Zukunft
 nichts mehr auf meiner Seite verpassen wollt,

@@ -34,7 +34,7 @@ subTitle: "Januar 2010: 4 Tage Istanbul"
 
 Die Stadt am Bosporus hat die Bezeichnung "Lieblingsstadt" eindeutig verdient
 
-[myflickr tag="istanbul2010anne"]
+<Gallery name="flickr/istanbul2010anne" />
 
 Fotos: Anne Reko Istanbul, Türkei 2010
 

@@ -31,8 +31,7 @@ date: 2012-08-03T12:04:19.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11703"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mccartney__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_mccartney__l.jpg
@@ -69,6 +68,8 @@ Herzlichen Dank für die Aufmerksamkeit und ein schönes Wochenende.
 
 ## So wird das Ganze übrigens in good old England gekennzeichnet, hübsch, oder? \_\_
 
-[gallery type="rectangular" link="none" size="medium" ids="3646,3644"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_549049_450425521646249_1627434412_n4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_549049_450425521646249_1627434412_n4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_309407_450425734979561_624370107_n4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_08_309407_450425734979561_624370107_n4__l.jpg"}]}
+/>
 
   

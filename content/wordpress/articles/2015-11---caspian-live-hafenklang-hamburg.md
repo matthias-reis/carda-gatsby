@@ -48,7 +48,7 @@ Da ich gestern bewusst auf die Kameraschlepperei verzichtet habe, um einen
 möglichst entspannten Abend zu genießen, habe ich heute "nur" eine kleine
 Instagram-Gallerie für Euch. Viel Spaß damit!
 
-[myflickr tag="annecaspian2015"]
+<Gallery name="flickr/annecaspian2015" />
 
 Hier sind für Euch Caspian mit "Gone In Bloom And Bough"
 

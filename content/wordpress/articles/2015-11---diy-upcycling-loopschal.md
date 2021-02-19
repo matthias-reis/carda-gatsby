@@ -24,8 +24,7 @@ date: 2015-11-13T17:00:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "13096"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__l.jpg
@@ -40,7 +39,7 @@ subTitle: Kuschelig und angesagt
   title="Mein neuer Loopschal"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22960728786_182ee19892_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_11_22960728786_182ee19892_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAArEAACAQMDAQgBBQAAAAAAAAABAgMABBEFBiESByIxQWFxgaETFFFScpH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAYCBf/EACQRAAEEAQMDBQAAAAAAAAAAAAEAAgMRBBIhYRMxkUKhscHx/9oADAMBAAIRAxEAPwCf37YQWO40vLm4WKG6tkctIwCllypAz6Bax20YmgWSwhstSUeP4ZAHHxyKn+0vekTbjWOxiilmsoRAXmTrRGySwVTxnnk+npUPNuXUZWmeOVoi3LCMiNcf1UAH5zSWEHDHZqG9LoZTWuyH0aF/q6nP3BmXSL634w2LdZFIPswpNe9SonXbSfpwcK0sQUAc5x3iam9O3XuLT7YSslx+DxD9LIre4I6T/g96aDf5u7do72zSJxwGjVRn44plpvugSwOYRW98EH3+rHK0T7PXUNcv7qa8XreQytiAcEkeHOPqn9rsPToulri5vJAgBAiMcXn+6rn5zRRUpLmTghodsq+LGiDbr5VVpnZ7tu6njElg03IBNzcSyk93P8gPqmup9m+1NPjVm0iCXzAA6R7eZ+6KKB15T6j5Kw+NmsDSPAX/2Q==" />
 
 **Langsam wird es richtig winterlich draußen. Höchste Zeit für einen kuscheligen
 Loopschal. Dazu braucht Ihr nur ein paar Kleinigkeiten aus Eurem
@@ -71,8 +70,9 @@ Anschließend wird das nun rechteckige Teil an einer Seite aufgeschnitten. Legt
 die so entstandene lange Bahn rechts auf rechts auf Euren Stoff und schneidet
 ihn rundherum ab, sodass beide Stoffschichten exakt gleich groß sind.
 
-[gallery type="rectangular" columns="2" link="none" size="medium"
-ids="13090,13091"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22594470659_debdcbd1b5_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22594470659_debdcbd1b5_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22798634590_536946104b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22798634590_536946104b_z__l.jpg"}]}
+/>
 
 Klammert oder steckt sie gut aneinander fest, damit nichts verrutscht und näht
 die beiden langen Seiten jeweils mit zwei Zickzack-Nähten zusammen. Eine Naht
@@ -80,8 +80,9 @@ sollte direkt am Rand verlaufen, sie dient als Saumnaht, die zweite ca. 0,7 cm
 davon entfernt. Anschließend näht Ihr mit feinen Stichen mit der Hand die
 Knopfleiste von innen zu.
 
-[gallery type="rectangular" columns="2" link="none" size="medium"
-ids="13095,13087,13088"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22986686295_4535f4de7f_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22986686295_4535f4de7f_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22365510353_be6bed8929_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22365510353_be6bed8929_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22568401408_49c5bb64ce_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22568401408_49c5bb64ce_z__l.jpg"}]}
+/>
 
 Wenn Ihr damit fertig seid, entfernt ihr alle Stecknadeln oder Klammern und
 zieht das eine Ende des Schals innen bis zum anderen Ende durch. Breitet ihn
@@ -92,14 +93,17 @@ Stoffseite. Ihr könnt wieder zwei Zickzack-Nähte machen. ACHTUNG! Lasst dabei
 unbedingt eine Öffnung, durch die Eure Hand durch passt, durch sie wird der
 Schal gleich gewendet!
 
-[gallery type="rectangular" link="none" size="medium" ids="13094,13098"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22973299422_b102c65be1_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22973299422_b102c65be1_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22997844081_3bd297c20d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22997844081_3bd297c20d_z__l.jpg"}]}
+/>
 
 Wenn Ihr mit dem Nähen fertig seid, zieht Ihr durch die Öffnung die schöne Seite
 nach Außen, verschließt sie mit der Hand oder knappkantig mit der Nähmaschine
 und näht auch von außen die Knopfleiste zu.
 
-[gallery type="rectangular" link="none" size="medium"
-ids="13089,13093,13096,13100"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22568433538_274208dfbc_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22568433538_274208dfbc_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22960728786_182ee19892_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22960728786_182ee19892_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22986784925_d9b31d0645_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22365586813_065477b6c6_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_11_22365586813_065477b6c6_z__l.jpg"}]}
+/>
 
 Fertig ist Euer neuer Loopschal! &lt;3
 

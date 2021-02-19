@@ -53,7 +53,7 @@ errichten.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531862523_0c2c9a5e87_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531862523_0c2c9a5e87_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgC/8QAKxAAAgEDBAAEBQUAAAAAAAAAAQIDBAURAAYhMQcSFCITFUFRYSMycZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwUCBP/EABsRAAIDAQEBAAAAAAAAAAAAAAECABEhAxIx/9oADAMBAAIRAxEAPwBlsl7t1mmqai8XM0FPUziSKKNBK7AIWy/lBKjH0wO+9dp4vULwSSi2XFojVTxRvTw+wqn7Cz5PLHsY40t+Im0qOi2iDRSVclWgWn+LLLkupzy4xg9AcD6aQLhVbgo6KntpWpFNSwCVJZIyv6TLwCoPf51I5dX5L5SXGVXa3llbY8TXvN6m+YTRw2+CBpo4UwzMyg8ZbBJOcD78cDU7aN92693ehoKW23YeqcKJKiFERRgnLe4nHGs9fLLq+36KqNFJJSVsrx07oF98gbOCveTzjvIzga0B4ZU7x7W2/NWlGnECyM3BIBz5f8I0vok2xgsCKCiTlYqVFIUmRXjkGGVhkEaTNwbRttzjMbIYWJIV4+CCQOfzj7aNGuTrhyONGyuofXWdbSIKxXjgqFq0SSLIDDzADvoZJH86erZvCsmaNKqCB8kLmMFCM/3o0a19q4RJUZP/2Q==" />
 
 ## Erneut vollständige Zerstörung 1388 [](/wp-content/uploads/2009/07/11531862523_0c2c9a5e87_z.jpg) 1388 wurde Schrobenhausen erneut vollständig zerstört, als Augsburgs Truppen im Bayerischen Städtekrieg in die Gemeinde einfielen. Schrobenhausen wurde von Herzog Ludwig im Bart beim Wiederaufbau durch Steuerfreiheit und Bauholz unterstützt. Damals wurde auch die Stadterweiterung Richtung Nordosten und Nordwesten vorgenommen, der bis heute erhaltene Stadtgrundriss wurde geschaffen. Die neue Wehranlage ist teilweise heute noch erhalten. Sie wurde aus gebrannten Ziegeln erreichtet. Im wiederaufgebauten Rathaus befinden sich die Schranne und Verkaufsräume für Brot und Fleisch.
 
@@ -99,7 +99,7 @@ in den Paarauen an. Heute umfasst das Spargelanbaugebiet rund 600 Hektar.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531810823_7eab6c42d7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_07_11531810823_7eab6c42d7_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAJhAAAQMDBAICAwEAAAAAAAAAAQIDBAUGEQASITEiQRMyB1Fhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFAv/EACURAAEDAgQHAQAAAAAAAAAAAAIAAQMEMREhUbESMkGBkcHh8P/aAAwDAQACEQMRAD8AmC1BS+6zXrriUZTTKGV/FGKw822kjO5RBSO8gjUvBo9hyAlhF7TKh8TSFKaalNrw1wrnwKijjok4Gs5Vqvtz1UdNEiSI4bghie7y6HnPqVhJyEDbgeuByONMtgmhwrUr1Uu2tPJnSGXGKXGZedC1FAOT4+KgoqCdqjjAP7GCzUZADkD56YY/vNlmnJnIWmfvbfFaIiybKjTWpDNSc3NRREAU4tQ+ML3jI2ZOCeCetJl43nHmyqpBteeh+O00XpA2OlW5Q5z4jHacj1pLpbExv5pTCojD6sllS5KilWQc7toyAfXfPek1yHPi3zUHKfOgTag9FcW8p55ENvcoAEHeoJPPrPrOP0OmpiOQnme1vt90+eWGMGaB+Lo/rRX9bn4It6iZW3U6y5KdaAWoSA20okcZbA5APOCT1qn67YUy32FtmvGSiky0obSYgSCV9keRx/c5z/NGjTYZjIs3U6UWEclwRZFRitlLU7Kft5soV/nXWlStRUsS3Za8OuOula8pABUrs8aNGqEPMiL/2Q==" />
 
 ## Geburtsort von Franz Seraph LenbachDer berühmt Maler Franz Seraph Lenbach wurde 1836 in Schrobenhausen geboren. Bekannt wurde er vor allem durch seine Potraits, er stellte unter anderem Otto von Bismarck und die beiden deutschen Kaiser Wilhelm I. und Wilhelm II dar.
 
@@ -135,6 +135,6 @@ zum Maler Lenbach:**
 **Zum Thema Spargel:** [http://www.spargel.de](http://www.spargel.de/)
 [/](http://www.spargel.de/)
 
-[myflickr tag="anneschrobenhausen2009"]
+<Gallery name="flickr/anneschrobenhausen2009" />
 
   

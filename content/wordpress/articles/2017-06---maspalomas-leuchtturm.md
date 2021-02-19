@@ -92,7 +92,7 @@ Möwen auf den Köpfen berühmter Persönlichkeiten findet Ihr in
 
 Doch nun erstmal zu meiner Bildergalerie. Viel Spaß beim Anschauen! :-)
 
-[myflickr tag="annefarodemaspalomas2017"]
+<Gallery name="flickr/annefarodemaspalomas2017" />
 
 ## Wegweiser Gran Canaria
 

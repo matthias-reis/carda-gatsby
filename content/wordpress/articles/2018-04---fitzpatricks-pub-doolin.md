@@ -31,8 +31,7 @@ date: 2018-04-13T05:57:34.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "19785"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39327848435_90495ed5dd_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_39327848435_90495ed5dd_z__l.jpg
@@ -53,7 +52,7 @@ hätten.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26373194158_ab65204817_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_26373194158_ab65204817_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcE/8QAKRAAAgEDAwIGAgMAAAAAAAAAAQIDBAURAAYSIUETFCIxMoFRkQcWYf/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAAID/8QAJBEAAQIEBQUAAAAAAAAAAAAAAQACAwQRISKBkeHwEiMxYXH/2gAMAwEAAhEDEQA/AFrZEENXtaSoikklvIDNFP4I4tjCBDj09u/Y51Psett9JvGOsqZFipxJPl+DMAXhTHxB9yCNW1t30beKenlu1FC8qK6K0KZKkdD8en3qwvG6Lj5+mSouE7K8TMhiZUHuvUcQB30tfPs6BRpp8TGFKuD3VIv72TpuDeu3odvVnk6p5Z/KyCOGOjn9TlCAufDwMnRrPKzd9xWF0gvExiEEjuwqhyVlIAXA7nJ/WjUEy2IAaHmaqZcsJFtdlmtggulVbrdcbRS+YM0a09ViXDB4vQCQemCuOo6j9adGovDrrLSVKqeFJMhKfFWHBsD/AD3H1pK/ji+xWunqaSt58HkWaNkHIKSMEH8Zwp113vdZ/sdBW0iMopeacZV6OHHq5DsMaDisiuLodLXocraeEZCAFH84UXqnpKGOvMKzq0IkwrljhiSAxP4JIIHt19+h0ar94brN5jNLBBHFShhluWWYj6GBntjRoyXDgzuC6xiNxYV//9k=" />
 
 Ein paar Minuten Fußweg von unserem Campingplatz entfernt, entdeckten
 wir Fitzpatrick's Pub. Kaum dort, wurden wir sofort freundlich begrüßt. Zuerst
@@ -75,7 +74,9 @@ sein und an den Klippen einen Zwischenstopp einlegen, vergesst nicht, diesem
 legendären Pub einen Besuch abzustatten. Und falls Ihr keinen Hunger habt, dann
 zumindest auf ein frisches Dooliner oder ein Irish Whiskey Tasting Board.
 
-[gallery type="rectangular" link="none" size="large" ids="19786,19784"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_28446173849_43836b9c54_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_28446173849_43836b9c54_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40192638242_8594c14c8d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40192638242_8594c14c8d_z__l.jpg"}]}
+/>
 
 ## Wegweiser Irland 2017
 

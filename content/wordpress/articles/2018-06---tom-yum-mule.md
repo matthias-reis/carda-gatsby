@@ -25,8 +25,7 @@ date: 2018-06-16T18:10:01.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "21307"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41067001974_39439e59f0_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_06_41067001974_39439e59f0_z-1__l.jpg
@@ -60,7 +59,8 @@ gießt mit der Limonade auf.
 
 Cheers!
 
-[gallery type="rectangular" size="large" link="none"
-ids="21309,21306,21305,21304,21303"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_27916035998_24fd0f6a59_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_27916035998_24fd0f6a59_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_26916171567_07232eebca_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_26916171567_07232eebca_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_39977202840_ffc4222e63_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_39977202840_ffc4222e63_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_27915930378_129fa3f7b7_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_27915930378_129fa3f7b7_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41742888282_ed26a8c637_z-2__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_06_41742888282_ed26a8c637_z-2__l.jpg"}]}
+/>
 
   

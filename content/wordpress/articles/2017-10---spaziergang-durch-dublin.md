@@ -132,7 +132,7 @@ Alive, alive, oh Alive, alive, oh Crying "cockles and mussels, alive, alive, oh"
 Alive, alive, oh Alive, alive, oh Crying "cockles and mussels, alive, alive,
 oh"</blockquote>
 
-[myflickr tag="annedublin2017"]
+<Gallery name="flickr/annedublin2017" />
 
 ## Wegweiser Irland 2017
 

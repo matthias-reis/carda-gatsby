@@ -53,7 +53,7 @@ Anhänger zu kreieren.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EAC0QAAIBAwMCBQEJAAAAAAAAAAECAwQFEQAGEiExEyJBUXEUFSQyUmFigZGh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAHBEAAwACAwEAAAAAAAAAAAAAAAERAhIDITEi/9oADAMBAAIRAxEAPwBpuDbmya8VC3iyC3SwKzT11OppkDYU4UnCvnl7eh9tUi/bBjtMFNNYqua50ssfih8KJFUny4VerDHdh06r76l/sevWZpxa7FVVKoUinqaueoMbdfNiXkD6f1+ul3NequxpQVtzaDxkbgwpmYpy9OJ7/hA+OJ1zfqpJ1G5xKyGeurrHkyOuOhDjJHzpk07o2OSE5IPEka0S5bi25uqan+vWtinZSrV1NCoVST3mXGXGe7DzAfm7agd07Lrtq3KOkukcOHTxImjfkjLk9vX2PX31YkrGFqqLRbt4Wqoh+71kEs/LAhkcU545/d0yP91z3fbRuG3Ughl4V0AZ44VYMJAQOSg4wSD1H86NGlnjo+g43t6UaClalXwZVkDKc8ZF44PxjWkbB369JJDZtyLHXWSYGHxJ4FmkpAQQCrEHygkHic49NGjUn4Jdn//Z" />
 
 ## Anhänger und Eheringe aus ausgedienten SkateboardsSofort nach dem ersten Versuch und einem grandiosen Ergebnis war klar, dass das besondere Material in Zukunft regelmäßig zum Einsatz kommen würde. Besonders gefiel Maurice dabei auch der Upcycling Aspekt. Das siebenschichtige Ahornholz der Bretter eignet sich einfach perfekt zur Schmuckherstellung.
 
@@ -73,7 +73,7 @@ Skateboard-Gefühl bleibt also auch im Schmuckstück erhalten.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_04_paulibird1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAQIFCP/EACgQAAIBAwMDBAIDAAAAAAAAAAECAwQFEQAGIRITMQcUImEVUSNxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxESYSExQf/aAAwDAQACEQMRAD8AbrPuEXahEljlpGjdjFHKyNngeTHnPA5I/WuJS2OO8b6jrdwxXFrLAyMkNLbfa00hVQSclj1KX58liPOtPRrv1dE9FUinhtMK/wAaRL0SyuXPUS6nqbpGPr+9UOTbdOsntfdzSgKJGhWfLhQfiSMhjyPvWRVWKW5AEiOWPow+DFX1jrYXskFDSNRRwVkxM9OyrFLNF1dQQHkLH1AEg+T9a8x7pgSCoWaNTHE0hVVLA5+xjwM5H+avvqJtu6bj3A9JZWrDQs0CVyd+KJVCDPXGHOTJ0kDJwB950q769PLrR10FJYLJUXOxRU8ZTuVCGcSgnuZOR1E5zwMc6b5ISX3OtkKSqhc7kwtt9uVulhekrJIXhZ1HkhlbHBHgjIHGstvC70F0attV1r6aoZeHicIQcc8KACM54/WjRq6DfcAwG7HKn35HuWvo6e1bcpaPcMyx9yumr5QKmZBwzfJQM8n5EjwNUptn7gkuk1bRD8WJHz36mvaRiP2I0L/HjOMjRo0tcio2gQiMT9n/2Q==" />
 
 ## Liebevolle Filigranarbeit in der SchmuckmanufakturIn liebevoller Filigranarbeit arbeitet Maurice die Upcycling Stücke auf. Die Boards werden zugeschnitten und geschliffen. Die einzelnen Schichten kommen zum Vorschein und werden sauber poliert.
 

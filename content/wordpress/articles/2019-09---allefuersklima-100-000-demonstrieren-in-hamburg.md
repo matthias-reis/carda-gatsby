@@ -50,7 +50,7 @@ kann von der Politik definitiv nicht mehr überhört werden.
   title="Mit dem Tierrechtsaktivistenbündnis in Hamburg fürs Klima auf der Straße"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-13__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_09_2019-09-20-allefuersklima-13__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgf/xAApEAACAgEEAQIGAwEAAAAAAAABAgMEEQAFEiETBjEUIkFRYZEVQqGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAiEQACAgIBAwUAAAAAAAAAAAABAgARAxIxBBTwFSEycdH/2gAMAwEAAhEDEQA/AMDsFQmaRnp2Wjr/ACyvXQuVflyzhAfpkZPXR+2qM23tFc2opcevNagM7hiMxqW5KhHWWIx0MnTPSO62N0js23czyzWCoBAz3jCnH1BJ/eddRXZ60zVfiNtrrNFCosHxoGZ+gCCCSxHE9/8ANN25IDbSD1EDM+AJYU82fycqrxT3au817cks58RghSvFyaWXKsxwP6hMsWPXWnG9Xh257RpXYrfzLIpVZOaBiUCJkFuhkkd9+2BpvqTet29N+tqnwtZFp1JWmRcMoBclWXIxkBMfjr7ayt3fp494exu0jLYqJLXjCQntAwCc8H5ft0Pr1rMjfEmV4XR1GULXn1KcG9rsdSZKtCvYPETIzgsVPMLxAH47P4OtPue77zuI838o0NVjx8lNOKSH3AzjIxk9e+jRoHI1AXAOkxbFtfc+ccSdRjWvUEErmfvkzSdljk+/7OoHrU1l2938TlZpY/PwbBcAMF/0jRo0oJ2ud6AFCf/Z" />
 
 In Hamburg mit dabei waren neben dem
 [Tierrechtsaktivistenbündnis](/2019/08/animal-rights-march-2019/), dem PETA zwei
@@ -77,6 +77,6 @@ sie ins Rollen gebracht hat.
 Wir feiern jetzt noch ein bisschen und freuen uns schon auf die Nachrichten
 heute Abend.
 
-[glry name="allefuersklimaanne20190920"]
+<Gallery name="glryallefuersklimaanne20190920" />
 
   

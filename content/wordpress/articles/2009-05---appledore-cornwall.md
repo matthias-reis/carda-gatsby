@@ -45,7 +45,7 @@ subTitle: Erinnerungen an den Frühling in England 2009 - Teil 7/17
   
 ---
 
-[myflickr tag="anneappledore2009"]
+<Gallery name="flickr/anneappledore2009" />
 
 _Hier geht's zu [Teil 8/17](/2009/05/hayle-cornwall-14-15-05-2009/) _ ## England
 2009 Wegweiser1. 10. Mai 2009

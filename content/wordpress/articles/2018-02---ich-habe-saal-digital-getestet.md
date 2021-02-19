@@ -53,7 +53,7 @@ professionell ausdrucken lassen und aufhängen.**
   title="Das Originalbild"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_16261603421_1b513bf868_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_16261603421_1b513bf868_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABAAFBgcBAgP/xAApEAACAgIBAwMDBQEAAAAAAAABAgMEBRESAAYhEzFBFCJRBxUyYYFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHhEAAgEFAAMAAAAAAAAAAAAAAQIAAxESIUExMvD/2gAMAwEAAhEDEQA/AHvsG7jsXTzEeHyEklGeGSrCTsc7Rij4lQfnZk8+PA6WJx2IzHc+eu5azK9iYJHtVBKqNLwUHZLHR3r/ADoC5gFp2zJRMkMFmdb1R9L6WtcSjx+CsiksDoke3tsdTrDYiljIoLONhrxVpI/TtNyIMo4A6CnZLgsfII8b+eqJQAYncyoDlJj2xcx0+DhjoSP9IxMcRk2WUr9vDz5BBB8HrGSqQmCnGjn0pHMDLHx0SfHz/Y1r++q5yOYp9kYqpJYkuJUWwkI9KNTxQh2AYuw8+P5b2Trp0yNybL42n9BYgfaQ3BO5MaEhlkaUnXgBNHZ9v+noGo5CxiM1xe0AwMOVw9aft3K5OrY5AzQ1II2syRIu+akkcQWG/t3vf46fO55FwXaGPk+/hDEFlViVL6CqkZ18l+P+A9Kv21mYo1+iyFOnikIY08XXdJmHPly5sQ7chsMpOvx1VmJ76tW60n7n3Av7nTtyfQ052WNgoBVWAUAliGb3J0fjfR0x0y0ol/Wa/qRZs5bsOzHajeJ4JopnrzeZDByPFyvwASPJ9x0B+mPfEYwGSw2RZbEh9NIApLSyQKBuJh8IPHnydbB9h1ysZ2xdvz+pQYy166BrQdHJRl5kNyXZ/wBJ6hIryDPVbVROMpXlIefPkjApxU6Ghsb15H46YtwHz92KKJCFWG5//9k=" />
 
 Das Bild war schnell gefunden: Ein Beo, den ich bei unserer
 [Sri Lanka Reise](/2015/09/unterwegs-in-sri-lanka/) fotografiert hatte. Es
@@ -82,7 +82,7 @@ Ergebnis an!
   title="Das Bild auf unserer Staffelei"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38611109260_8df9577056_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_38611109260_8df9577056_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBggH/8QAJxAAAgIBAwQCAQUAAAAAAAAAAQIDBBEABSEGEjFBE4EUBxUiUWH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIRITEDEv/aAAwDAQACEQMRAD8AoG3D8PaqgXcdxFyxVE8cECKSQMZwxUgAeeTnA410aHbm3ewlyeruMlGnD3RRxOIRLYjI7jjGS2Axx6DH6p3QG/Cw237dTdVuRRKO2eBnjbtH8kIXk9wyPvyNd1iv1KfTJWgkD2JLGErCZMovaDjlj2gYOST6P+an9HEkPRSwkh7l0701PtF21+214ZFiZTKkCh1ypBIOPPOfrWU95hing+YRxLYsRxmRkdj4CHGDx6AyP61oqPrKrsPUl421b8DcsBcZHxzBOz34IbOcjHg6zfYVaqSx/J3+skYPGgqDqVpnrIfT2+ybLuBtitXtjtZDDYUsjAj2AedOW/USeSezbbboYlsrGjw12CIqx8KEJUsvk+9GjW2ozddOSLLfUkm4JDGI5REI8n5bDSsxDH2cceOMetJ7F15nYkY+9GjQRXM//9k=" />
 
 Beim Bearbeiten in der Software sind mir ein kleiner Punkt aufgefallen: Hat man
 mal ein Projekt fertig angelegt, kann man im Nachgang das Format nicht mehr
@@ -116,7 +116,7 @@ Versandkosten in Höhe von 5,95 Euro.
   title="Das Bild auf unserer Staffelei"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525980575_f9cf637476_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39525980575_f9cf637476_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQIDB//EACsQAAIBAwMBBwQDAAAAAAAAAAECAwQREgAFIQYHExQxMkFhFSIjcVFi8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAiEDETES/9oADAMBAAIRAxEAPwBG7I8KjeII6wq0M790MAcSQMgxPpa+B4PPN/2x9pncbX1mRTmpihkoYmTu3ZEu9wDiDwQbH501dnvTe009JQVa1VRR1caJ+FuVZ2TDAA/1ta3Pzql7VUWTq14FtOnhIzA4a0isMrjAA3Uge9hcDRcvMbC1QmUCOndSVX1BZpGkRmkqW+0H7gCL+R4/w1tooJE6j2mOKuqTDNU+lpmZScTa4vz/ABqfus3h6tYGVrGNS8vpAJHmzfvjVD0buSfV9shr3fxEFQAGPJxs1zz7g2F9CNvYiZ2Z7jLtsrd2AQI4mxubX872JOr7qgS73u3i5pcCYlTAZWJGRuQCAfP3GjRqiW4WY+nOnmq1pFVaghkWzNYnP5NyfbjWVFRTJvlHVPVZlXDWwte4PvfRo0MT30rOj//Z" />
 
 Auf die professionelle Aufhängung für 17,95 Euro habe ich verzichtet, da wir
 unsere eigenen Aufhängungen haben. Dafür war dann ein größeres Bild im Budget.
@@ -145,7 +145,7 @@ kommt und muss jedes Mal lächeln, wenn ich an dem Bild vorbeikomme.
   title="Das Bild auf unserer Staffelei"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40377890952_21955bf9cf_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40377890952_21955bf9cf_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMEBREhAAYSMVEHEyJBYYEUkTJCcf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAdEQACAgIDAQAAAAAAAAAAAAAAEQECAyESIjEy/9oADAMBAAIRAxEAPwDI8KpCKy862uylBhTrYUnm4EhRBBUBftjIGfvArG7KvDqFXiRajKS83LcS0hLKOSAk2wLZ/rY9gdUHZVFj0llTsZEh4vQjFQ6roh3nyU4ggYSQQOI7DU8qDf5G7pp8stvJnOhRCwu6CpQBIA9KvY/4NG1uNdhR3jVqYUvsLqcxJJ58nOFrrF/Tjpjppp2pOlVSBuFE+W7LdZMctqdyUJIULYHxb61Mq3JcMWSiOlbLjShwIwDY5Ce9hk/enLwuqrMiPWW0tnz3ozSnDf8AgpLpuPkWI/ejRtsQwbMqcmNtaCw2oBtJUpIAACQbDiB7DHt31PNzQ3FirTEyXEOB9TgAKgE3dzYAixz10aNV46RJV+kYDAfmPtpS+WkuKCeNuQTfGLn5P705bKorlKnTHzL80PR+JQG+HQpUD1OjRrMMvcnTJrw//9k=" />
 
 Für Euch habe ich ein paar Fotos auf unserer Staffelei gemacht, so kommt es
 schöner raus, als platt an der Wand. Nicht schlecht, oder? Ich muss sagen, dass

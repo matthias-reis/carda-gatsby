@@ -50,7 +50,7 @@ Bei unserer Überfahrt von Duncerque nach Dover hatten wir schönstes
 Frühlingswetter. Natürlich konnte ich es mir nicht nehmen lassen, einige Fotos
 zu machen.
 
-[myflickr tag="dunquerquedoveranne2009"]
+<Gallery name="flickr/dunquerquedoveranne2009" />
 
 _Hier geht's zu [Teil 2/17](/2009/05/sissinghurst-castle/) _ ## England 2009
 Wegweiser1. 10. Mai 2009

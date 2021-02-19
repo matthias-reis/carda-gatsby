@@ -26,8 +26,7 @@ date: 2011-06-03T09:09:13.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "2009"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_06_img_8746__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_06_img_8746__l.jpg
@@ -36,7 +35,8 @@ subTitle: Impressionen aus Ingolstadt
   
 ---
 
-[gallery type="rectangular" link="none" size="medium"
-ids="2017,2016,2015,2014,2013,2012,2009,2008,2007,2006,2005,2004,2003,2002"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8760__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8760__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8757__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8757__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8756__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8756__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8750__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8750__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8749__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8749__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8748__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8748__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8746__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8746__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8735__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8735__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8733__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8733__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8732__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8732__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8709__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8709__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8707__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8707__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8706__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8706__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8705__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2011_06_img_8705__l.jpg"}]}
+/>
 
   

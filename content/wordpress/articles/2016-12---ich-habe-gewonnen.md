@@ -45,7 +45,7 @@ dieser wunderschönen Stücke!**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31273625532_7fc9722131_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31273625532_7fc9722131_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcE/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITETIkEUYYGRB3Gx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABsRAAMAAgMAAAAAAAAAAAAAAAABAgMxMlFh/9oADAMBAAIRAxEAPwCVDvKOukNNtOy1t6qB16ojMcKn7nz/AJq3bTst0Stium9b1NSyvzWOz0YRYSvXeRnkw7OPP31ne3f5bnjkjgobTRQUCsqrTjI9Nccc8wAoHLBOR86sNbv6kvdPNBb74Iq8pI1KWp1jc4Untu16xnkB1jx8aqYd6IvLEcn6XqUXQRVE1uio71bopGjEvupZGwewOXsYjwSCAT40pp6+2XSnd6aRYJVJWSnnZUdCPjGe/wCxrF9y7uuu4LhBKJKARekFSKV2lVD4MoHSMxxnkf1pdWxTNB6tZcek7yZOTfgDoahS+zVmfU0YEsELe6OUAkMT334P603tMQaopSGZGV24sjMCo4nod4x+NGjTQE7qEq/pfq0WViApbAU+7Bz14864Rb4qd3aNpPYxUqWyp0aNMD//2Q==" />
 
 Ich konnte mein Glück kaum fassen, als ich letzten Montag auf Instagram klickte
 und auf dem Profil von [@zauberisch](https://zauberisch.wordpress.com/)  aka
@@ -85,7 +85,7 @@ Promo-Aktion verlost, sondern alles auf eigene Kosten eingekauft und verlost.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31382193756_825e798671_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_12_31382193756_825e798671_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAABAwMDBAEDBQAAAAAAAAABAgMEBQYRACExEhNBURQHQmEiYnGBof/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABoRAQEAAwEBAAAAAAAAAAAAAAEAAhESIUH/2gAMAwEAAhEDEQA/AKjdVcmW4IxZpTLrD36fmSZIQ0hWM46BlatvWl6detHnumFMqEutLKetUOEn4MZSfKTy4v8AIUdx40yX3Rna9Gp7cRTaZDbyVBbh2Q39+B7Ix/njSF9QrOZt2nqk05xElcyQhLaXVJbeSsJOycDBTyTgbDOxznWfYZcr7MxU61dLv1Lk01xunxGoMCGRhj5Zcf7X7AoJ3A8A8fxjT5Z1wMXLSnFhxv58VXakpQkpBPhaU8hJ3/sHUT7lZffbeokWQ+jBaktNwVOu5A3AKh0BOduCc6ZrOp12s3DCnLpMqI2D0vuyltNDtfckoQgFf4yecHxrTXyLMt8d6Razkhh9yNKj9LzLraiChST1DjHrGseyaS7fKI9bu6YZvSkNNRGUdllIHOQCSSojJ3APrGjRooOW6imNXmFNw4jcaKy2zHbSEobbSEpSPQA2GsipzV4JwPejRplL/9k=" />
 
 Wundervoll, sie freut sich total, dass ich mich so freue. Sie hatte sich die
 Tasche für eine Hochzeit gekauft und sie nie getragen, weil sie für ihren
@@ -107,7 +107,7 @@ beiden beim Erkunden der neuen Sachen zu knipsen und Ihr wolltet ja sowieso mal
 wieder Fotos von [Chili und Oskar](/2015/12/katzen-wuerden-minze-klauen/) sehen.
 :-P
 
-[myflickr tag="annemattandnat"]
+<Gallery name="flickr/annemattandnat" />
 
 - _Hinweis_ : _Dieser Beitrag enthält Produktplatzierungen. Der Inhalt und meine
   Meinung wurden dadurch nicht beeinflusst. In diesem Fall habe ich das Produkt

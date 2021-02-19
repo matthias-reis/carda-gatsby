@@ -90,6 +90,6 @@ Halten Sie das zunächst von der Presse fern. Es könnte uns in Gefahr bringen.
 
 Der Aktenberg. Die Angehörigen. Der Abend am Steg. Am Strand ist es still.
 
-[myflickr tag="annewallanderystadkrimi2018rosenschoen"]
+<Gallery name="flickr/annewallanderystadkrimi2018rosenschoen" />
 
   

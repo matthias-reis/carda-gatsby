@@ -81,7 +81,7 @@ sollen Feuchtigkeit spenden und freie Radikale abwehren. Ich fühle mich sehr
 wohl mit der Creme und vertrage sie sehr gut. Darum möchte ich sie auch nicht
 mehr hergeben.
 
-[glry name="ageprotectxingu1"]
+<Gallery name="glryageprotectxingu1" />
 
 Ich bin schon sehr lange auf der Suche nach einer getönten Tagespflege die ich
 statt Foundation benutzen kann oder mit der ich auf Make-up vielleicht sogar
@@ -118,7 +118,7 @@ Label. Dabei handelt es sich um das Tierschutzsiegel gegen Tierversuche.
 Vorletztes Jahr habe ich mit Santaverde Make-up Fasten gemacht.
 [Meinen Erfahrungsbericht findet Ihr hier](/2018/07/make-up-fasten/).
 
-[glry name="ageprotectxingu2"]
+<Gallery name="glryageprotectxingu2" />
 
 ## Inhaltsstoffe - das steckt in meinen Homeoffice Produkten von Santaverde
 

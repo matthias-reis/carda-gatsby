@@ -43,7 +43,7 @@ Für morgen habe ich noch etwas Besonderes für Euch vorbereitet, ich verrate nu
 so viel: Derzeit gibt es eine tolle Sonderausstellung in der Hamburger
 Kunsthalle.
 
-[myflickr tag="annekunsthallehamburg2015"]
+<Gallery name="flickr/annekunsthallehamburg2015" />
 
 In der Hamburger Kunsthalle gibt es zahlreiche bedeutende Kunstsammlungen vom
 Mittelalter bis zur modernen und zeitgenössischen Kunst zu entdecken. Derzeit

@@ -95,7 +95,8 @@ Inmitten des riesigen Geländes um das Schloss am Fuße des Torc Mountain befind
 sich der Torc Waterfall. Rund um den Wasserfall und den Torc Mountain befinden
 sich unterschiedlich anspruchsvolle Wanderwege, die angeschlossen sind an die
 200 Kilometer lange [Ring Of Kerry](/2018/01/ring-of-kerry/) Wanderroute.
-[myflickr tag="muckrosstorcanne2017"]
+
+<Gallery name="flickr/muckrosstorcanne2017" />
 
 ## Wegweiser Irland 2017
 

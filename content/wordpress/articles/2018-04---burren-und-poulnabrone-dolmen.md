@@ -104,6 +104,6 @@ in Süd-Wales, sowie auf der Schwedischen Insel Öland und im Kanadischen Ontari
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
 
-[myflickr tag="anneburrenpoulnabronedolmen2017"]
+<Gallery name="flickr/anneburrenpoulnabronedolmen2017" />
 
   

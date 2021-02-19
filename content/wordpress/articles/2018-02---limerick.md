@@ -64,7 +64,7 @@ Bilder habe ich bei unserem Besuch dort am 12.11.2017 aufgenommen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39326731695_cbf529dc1e_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_39326731695_cbf529dc1e_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcD/8QALBAAAQMDAwMDAgcAAAAAAAAAAQIDEQAEBQYSIQcTUSIxQTJCFGFxkaGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDETEhIkH/2gAMAwEAAhEDEQA/AMob6xauRbC3tXMXbAHkNY5gJI8bdlX8P1N1pkn3RdamsLNtlsuJ7uPYAWR9ghEyfAM+KzRv65ERH+U+4XUWIx2IYtkW956Wy+vcEnc7AmDP5ceBQ+vCHes4ZnqbrDMoXbXmSdRYupCHbFuQ24JkhQMn+fimbok+Mjrhd3ddtp22sXQ0lCiNxUUpIjkkwo8Uh6kv7S9yhvccl9pS0hTqlGJcPynnjiB+oNNvRjI4zH6ptr7J3KUutOKTKnFghC29qlbQhW7355BATxM0ywJZJLNjb47Vr9JmzLyEWFyhbCFuOLb2PGZbAncB8cyP2q9b5W9DSGkJYVtAEfh0rMRxPB80UUyUZC6usg8l1Kmilp3Z3ALePpnbBjj3Mx7/ADVvRr9qxnmH8gh1y0G5LiGne2pXpJAmD923+uJmiisp4j22NM//2Q==" />
 
 <blockquote>
 ## Des Burschen Trick
@@ -101,7 +101,7 @@ behaltet beim Texten immer den Rhythmus im Kopf:
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224475451_68f0dffe8d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224475451_68f0dffe8d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBBQYH/8QAJxAAAgIBAwIGAwEAAAAAAAAAAQIDBBEABSESMQYTIkFRYUJygbH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMhMRL/2gAMAwEAAhEDEQA/AGNprXdtviRywrMSAWGOfsaf3WWKWPOOMkN0NkE/OoTxTswou7+Kdjn8qFpRCLEbzMFBPSASvqx+Pf203DsMm7UYb1aztgitRLKMWkQgMARleo4PPb21dLPF8ZJDG11GSafblhdXikZ2HT8knSlXYHuqHhcFB6nAXBUf3Wgm8PJTeVrF2hXmHPW16HC/eC2kL1qtXq+fLvO2tCAYjMbkSgtnsSGOTkHSfdj0kjmmz269faGkRjK7hgS7BsAMccHjsNRY3CocdUFU8DkxLnRo0F6NWytku0T1KatZh+g50lMdsmXmpCDnuFx/mjRoQkf/2Q==" />
 
 Dann müsst Ihr nur noch kreativ sein und das Gerüst mit Eurem Text füllen. Am
 Ende der ersten Zeile setzt Ihr einfach einen Ort Eurer Wahl (z. B. Ham/burg,

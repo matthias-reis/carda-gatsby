@@ -69,8 +69,9 @@ abzureiben und regelmäßig zu imprägnieren.
 
 Als wir die Fotos gemacht haben, wehte ein eisiger Wind durch Hamburg. Durch
 meine '66 Pine Green schaffte er es nicht durch, meine Füße blieben schön war,
-obwohl ich nur eine Strumpfhose anhatte ohne dicke Socken oben drüber. [glry
-name="sorbas1"]
+obwohl ich nur eine Strumpfhose anhatte ohne dicke Socken oben drüber.
+
+<Gallery name="glrysorbas1" />
 
 ## Schuhe in meiner Lieblingsfarbe
 
@@ -120,7 +121,8 @@ Schuhen. Eins ist jetzt schon sicher: Ich möchte sie nie wieder hergeben.
 
 Wer neugierig ist und gerne mal bei Sorbas Shoes stöbern möchte,
 [kann das jederzeit im Onlineshop tun](https://sorbasshoes.com/?affiliates=8).
-[glry name="sorbas2"]
+
+<Gallery name="glrysorbas2" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

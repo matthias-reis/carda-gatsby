@@ -42,7 +42,7 @@ verregneten Nachmittags in Westport im Irischen County Mayo begegneten.**
 Ich habe sie fotografisch festgehalten, um Euch an diesem magischen Moment
 zwischen zwei Schauern teilhaben zu lassen.
 
-[myflickr tag="annewestportlove2017"]
+<Gallery name="flickr/annewestportlove2017" />
 
 ## Wegweiser Möwen
 

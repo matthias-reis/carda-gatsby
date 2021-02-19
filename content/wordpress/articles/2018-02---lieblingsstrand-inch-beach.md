@@ -51,7 +51,7 @@ und Ort der Herzen aufgenommen. Besonders schön: Bei unserem Besuch am Strand
 Mitte September war nicht mehr wirklich viel los, weshalb wir schön für uns
 waren.
 
-[myflickr tag="anneinchbeach2017"]
+<Gallery name="flickr/anneinchbeach2017" />
 
 ## Wegweiser Irland 2017
 

@@ -36,7 +36,8 @@ date: 2020-02-16T15:21:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "27495"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_2020-02-09-kraeuterkontor-4__l.jpg
@@ -109,7 +110,7 @@ den Minztee zuzubereiten, nehme ich zwei gehäufte Teelöffel Minze auf 250
 Milliliter kochendes Wasser. Der Tee zieht dann abgedeckt etwa sechs bis acht
 Minuten.
 
-[glry name="kraeuterkontor"]
+<Gallery name="glrykraeuterkontor" />
 
 ## Berberitzenbeeren
 

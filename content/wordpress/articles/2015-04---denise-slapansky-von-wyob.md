@@ -57,7 +57,7 @@ subTitle: Vegane Häkelmützen mit Statement
   title="Denise in Aktion - Foto: Norbert Zawe"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_Denise-action__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBgcC/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBAURAAYhEkETFDFRcQcVImEygcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAIREAAgIBBAIDAAAAAAAAAAAAAQIDEQASEzFxBCFBkdH/2gAMAwEAAhEDEQA/AMXueyL1LuSaJqORBPMViOMiQs2FAx3ORp9fPpPerNSpFcZ6BkjmCVC0s3iPDxnkY9tXTZFzlmvsMtUrzi2xS1HhAFmBX8Fbj15cH5xplv27UwvtPEK2oqH6o0AZEAKSZzwuMgKVHyufXUUXk6SuoXVE9ZVsbiEg1+5lG/rVJU11untdKBSGhiRUBwVxn1+eNGrUNpbnuMdP56yVAEECRK4kChzyScZ/Y0apeVQxCChZrrNRIyoMl6vn2OfrJtp2WusrWbcC1rwivgcmMRArLGzEdHX2/ip4B5xo3NaqJYrheKaOqFyjQPTxx4fxCoxg8ZJA5/rSHem7oaW0bYooF85Db6OOIjrKAyYLtj2AJA9zjTW9114+wUdXT+TWaWOF5qZ43JDOgkXpYHI49+/fSIiSISVo8YjMY2Cg2Mk2/um+2jbluXcNyMkU6Gaj6S0rrG3PSzfrIwMnA47aNd2++qsBG4IEpZ+o9CrCrEjvnsP90aaOJnUM5o94SSojFUFjP//Z" />
 
 **Denise lernte ich vor ziemlich genau einem Jahr über eine vegane
 Facebook-Gruppe kennen. Damals unterhielt ich mich mit ihr über ihre Arbeit als
@@ -86,7 +86,7 @@ gerade her?
   title="WYOB - Häkelmütze mit Kuhaufnäher"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11088258_924554010924678_1871320469_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABwABBAUGCP/EACcQAAIBAwMEAgIDAAAAAAAAAAECAwQFEQASIQYTIjFBUQdhI3Gx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEE/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxESIRMxYf/aAAwDAQACEQMRAD8AEKD8fdVXG1JcaHpy61FDIMxzJTkhx9qPbD9ga4659IdQW5Q1fYbtTKfRlpHUf5r2XfKy/wA9VI1upZuyU3xtle0i7SNpH34kD+xgjQJ1NPMKqV6tZopAxLxEnMbZ5GAT6zj3jRV2F4xqAgiyhWKnhh7B4OrTcYKy5WGGsqFoqyFtyRxT4JiVAVATdyclfr496tU2YcyTx/Y4V15t1RA/bliqECEphUfJRu4h5B2jB4Lso9nGhn8jVVfH1C9TbFlipDsnSBASWBUMwGwMGU58uf16Gj7ph7rdIIaGw0Bkron7vfifaWxnBkLHbgAkc/HGu+01VW2WOC2dRy0BDrFE709SzAKGLNvAZRkjAyM+tCp4HJqNbMuj1NC0XGCnscSPBUU9TCgE0jZDBTKWWGI+sN5k58vgZwNWs3K50MtvNTJSxyR/yXCSIFVjkYuBFuRmO7PHOM4GPnVpeKt3MxZh1P/Z" />
 
 **Denise:** Es geht mir gut, ich bin voller Tatendrang! Ich komme aus meinem
 WYOB-Zimmer, wo ich neue Mützen mit dem Label versehen habe
@@ -109,7 +109,7 @@ unsäglichen Echtpelzbommeln ein Zeichen entgegensetzen wollte.
   title="WYOB - Foto: Norbert Zawe"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130325_980268688672783_3126736224858087273_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDBBEABRIGITFRYQcTFCJBIzNxgdH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUG/8QAKBEAAgAEBAQHAAAAAAAAAAAAAQIAAwQRIUFR8AUxocESEzNCYZGx/9oADAMBAAIRAxEAPwBJBtH19SelUsV60ky/vpXHNBkZIGf5x7nTmls1GpR/TtjcXrSqHLrGJBkYAJXAPcemffWd9P3a8N6jXE1kWLUi0i7vjnkqGAH47ADP+6v/AFxvuy7NQoUphYqNYlaSJabBygXAORjKj+/OfOpEyXMM8HxkDIADHW+HQW1vGhp1kNTMWF3/ADT7MTKFurG5MG3yNXC82l+kDKoA+48wPHqdOaz17HIcVjwFIKQgkDPrqh7F8RYY+kLEcVCeXc4g8UaYlYNnPFmYdgApOQfOBjP4i7HveYI7RJVJWIljSwxKg+cIQQo9CNMhW9y269hvSDrJcsqGkKQBzxvv5jI6nKTcKDI3y5TaVQ4Hglxg49u3b2076v3abe+rHs2FVQldFijXOEBUE+fOSSdGjT7KCQSOUSOHsfOVcrjvHKlNGiIk8bSsePFg/Hj279sHOrT8Omkn3C5EXwr8xjGR9pwNGjQPiCI1FT6DjeUf/9k=" />
 
 **Anne:** Das Fell des Marderhundes, der das Logotier von WYOB ist, wird ja sehr
 gerne für die Herstellung von Pelzbommeln und Pelzbesätzen verwendet. Anstelle
@@ -138,7 +138,7 @@ geprüft werden. Manche Mützen häkeln wir vier-, fünf Mal, bis alles passt.
   title="WYOB - Foto: Norbert Zawe"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2508__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAqEAABAwQBBAECBwAAAAAAAAABAgMEAAURIRIGMUFREwcUJCVCYbHB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIhEAAgIBAwQDAAAAAAAAAAAAAQIAAxESIjEEIUGBUaHB/9oADAMBAAIRAxEAPwBEXGDLYPxEodAOSoq8+h/FY19kXKAtj5GPtoj4KmHBhXyJSeJOfBB8aNNcRuO+lpTgkMxgpaghtOeOs6JPj+qbL/07b+o7ClIfkJlrVzZVMVgqPEAAgDGdaUMnsNgVPXZWp3zqU0LcCpbSfB8e/ruOPgxJ+m/UsBm8txr/ABUSGZSg2mSVELaUe2ANYz67VRJDsBoqQ1OHBBKE/q147GpFH6KuVuvX5uDFbjLQ4CWyS4c6APbGu41VAaWw64n8W+txOVI5tBAKvX+Uq9FL5WYVbKspZyPf7MqXGQ1LcZYQ0gBPHnxys5Ayc50a53bq/wBN28X1ARKXDwG2XRrKgQN+h6oooKNT4MLba9Q5xJpE6guaL8brKluypDxPzB1RIcCiMj9vGMdsDFW+VASpHBpxTYQUnOAScgHdFFO6gAEYk9BJBn//2Q==" />
 
 **Denise:** Momentan zu zweit, ich hoffe natürlich auf steigende Tendenz.
 
@@ -165,7 +165,7 @@ vegan und was waren deine Gründe? Hattest du bei deiner Umstellung Vorbilder?
   title="Polarfuchs - Foto: Norbert Zawe"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11130489_980262822006703_5414786716132520222_o__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACoQAAIBAwIGAgEFAQAAAAAAAAECBAMFEQAGBxITITFBUWEyCBQVgqHC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACAxESIVFB/9oADAMBAAIRAxEAPwBfZbVInNRipQbnqDNSuzKxGD3YgHPf1qgn7GprSpi1SAZf5M1asFVlIPc59kgYAI8/GNZlwn4nXBbtNoXlaE1ZAV15sU+QDIIXAxjuDj3jTX9Q1ymQd22eLQeq1s/ZiV0VbBaoXIcsw7kkKo+hrM2aeA4sNera6KCZhc4bqr4tF2xtiO8JluLsskMGchuwbJx2zj6yc/1PlNu21VIdxrIa3QmPmoidMlai58q2fHgeO2pXgnvGnM3tWs5Y04MlTWpI5IZaoAzyt5/Ed/nHfUzx9ukmffILV2YdJ5IpEMQFXqBQAPWOX1qS6Wd1yONq8YoGAxgGtX2kr4F2eNdt3gS+YpTCkAfeT/z/AKdOt5ym3Fx6p22eCIUeR/HKiHB6eDzHPySzHP2PjRo0oFzb4huoNdWV2e5SLRcotwhMFkR3FRSR2PyD9EZGqXfm7zu6alUwKcKnSBC01qGpgk5Y5I9k6NGlxF5eoA9wbjel/9k=" />
 
 **Denise:** Ich bin – muss ich leider sagen – erst seit drei Jahren vegan.
 Direkte Vorbilder hatte ich keine, ich bin ja von jetzt auf nachher vegan
@@ -195,7 +195,7 @@ Hunde bei dir. Bleibt da ab und an auch noch Zeit zum Durchatmen?
   title="Gut be(hütet)mützt"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_10156985_924554094258003_1421355744_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBgX/xAAnEAACAQIFAwUBAQAAAAAAAAABAgMEEQAFBhIhEzFBFBUiUWEykf/EABcBAQADAAAAAAAAAAAAAAAAAAUCAwT/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERIiUQQFEyGB/9oADAMBAAIRAxEAPwCwZnH7PWrTrV18cMi9RGWrdURSxG2wB7HsB4P5hfNfVey1NdBnc7xQ7Ruaax3E/wA2ZN374viR5zqJ8y1JLUNVVMtVUE7YRJ8Y1vxYDwMdKqzthpWq9JLU9aKWNpWeJtoUXDBj228+Rwbc4OW97G0hdsYv7elNBYtv4m6y3ULpR75mrtr2YkRQupt2vdPrzgxNKDWDZiIqUK5k6DOsjOBtRW22Fl++1vvBifkWvaRn7B8tzJHlGZ9TXFfLTUpghaVtkKFrxIrcDkk37E89ycULWmp5I9N1Hps0QZm8cVLFSyOVlZWkBY7SbFbA3JFsIZBpJKLUbVkcjAsh3IRcEkcm5/RfDmpNNLmNUlXAAuYxqZI5SbH42KqT+2P+4vOGcYETV2Wogmauq017blcUz0FF6lTttHAgkivZrEJ2ve37cYMafRrJV5dT9amqvcJEhgm6c5GyM8M1r7RYAc2PA8cnBjJ1Cvr9nMPA4n//2Q==" />
 
 **Denise:** Ja, da kommt wieder mal der Satz zum Tragen: Die werden ja sowieso
 geschlachtet. Nach dem Motto: Wenn sie schon ihr Leben geben, ist das in
@@ -231,7 +231,7 @@ tragen, da das von der Pelzindustrie
   title="WYOB - Foto: Norbert Zawe"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2555__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAApEAACAQIFAwQCAwAAAAAAAAABAgMEEQAFEiExBhRBB1FhcROBQpHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAgEQACAQMEAwAAAAAAAAAAAAABAgADESEEMUFRE6Hh/9oADAMBAAIRAxEAPwBf6QyWCbMJK/NBFUxwqkdPTi4i1Wuzsv8AI8ABvY/GKPnGSUOcdOzSwUH4ayFGZJqeERKLeGIIDA+dtsT6kzGCiBRRPJOxVjqsA19lIUcW3v8AWHbLZqGallkNPVS0xUSytNUERpp4sV4Uex3384lVq1Ut41NgB1ufnu/EtafTUnQu2TfvYSf0uWTTVSQxVCpJJtdtTgX+Qbf3h0yvpTtoD3gp6hyDpMbFSu/3hYly3Q5NPmEThW06RNcAeCL72+8bGWd0lK8YlQhSRraq0lifOn2wrXOxgLYcSX+oc01J0xT1EMzrLWVhRmWykKiBrbW5Zgf1jd6d6srqr08fMGSFaunzSCiqZAtjVpKp3a3DA2JI5t8nBgwzIrICRm8Gm7K5AOLR1yBmrlkE5BjV1UjSLnzz/mONRQQQdw6LddTaVIG37884MGBEZ8HE/9k=" />
 
 **Anne:** Vor Kurzem berichtete ich für Vegan News über eine Jungdesignerin, die
 Pelzmode aus "Roadkill", also aus überfahrenen Tieren herstellt, die sie selbst
@@ -253,7 +253,7 @@ einiges mitbekommen. Möchtest du uns erzählen, wie es dazu kam und wie sich da
   title="Huhn - Wear Your Own Bommel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_11121140_924554274257985_544938426_n__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEEBQYHA//EACsQAAIBAwMCBQMFAAAAAAAAAAECEQMEIQASMQUGEyIyQWFxgZEjM4Khsf/EABgBAAIDAAAAAAAAAAAAAAAAAAIEAQYH/8QAIxEAAgECBQUBAAAAAAAAAAAAAQIAAxEEBRIhQSIjMXGRof/aAAwDAQACEQMRAD8AhlpsBD0wquQzM6+o4GJxHxAaCCNKGt9oRLt3LHy+IJVz6sEj3AnHzrSLHtXo97YWdWhNGoKSg1KDh1cczHHPuM6fL2d0lH3VTcV1gg0qrgo8+zADPJ/J1ThgapM0I5xhwD5v6mNdToT+m6EuFmAYxjIn6/0dGpTuChard3tPp9saFC3rHwyqsA8SDtWBAAkYEHmSZOjQ7oSqm9o4vcUORa/EsfZnWatncVba4/YZWrLtBJXBYz8Yb8fOpfqndAubIL0ZjVvnUsaL+R9ojzLgg8ieYkHVRSrUpVkNMU2IXa0+b1ciP4g4PMfXTQrT3U2pBqgAlSSzFTtidzfEjUJjXVNEWfLKdSqavP58jQNRtqVctQA3naUaA4ILe5YhpLYz78aNcr9dmfVtBBgH/OfsftGjQqNW8ePTtP/Z" />
 
 **Denise:** Die oben erwähnte Tierrechtlerin Elke Skiba und ich haben vor allem
 diesen Schweigemarsch mit mehreren Kundgebungen ins Leben gerufen. Jedes Jahr
@@ -285,7 +285,7 @@ werden?
   title="Paul - Foto: Thomas Zinnecker"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_15423985063_8be34150d1_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcCBgQFCP/EACkQAAEDAwQABQUBAAAAAAAAAAECAwQABREGEiExBxMiQVEUI2FxoVL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIRIQMSMUHwcf/aAAwDAQACEQMRAD8AeEnUkKzzEN3IyPu8Bwpykf3nHviqdrDxbgRru3b7VHM5sOYW+hexIx333VpZTar2IMx9tt1IHmNocUAcE5IWjP6yCOKQl3tNvdv9+aiNzFSrat95YS0PJKQs8AjoYKQPnmjwi2sXPEvyIFbV1OiLZqy2zITD/wBXHy4E5bQ4FqTuGU5x8jkVgXvWcSFPisuvNsMKILi1ZJwo4T+hnv4peKDNoimGzbYrk1tqO4++pat6l7PUOz6U8JH4BFLu43m6XmUIl32PPMLI3pSSVerO3Pe3oVSlUu9jWNQN+1QPPv778mgsniPqmGuOWL1OP07ZabDrgcCQdoxhQP8An3yeTUZGsb2Uwpjs91TySVApwncrn1LAGFHn3FFFWTDqDAxx+Hl6l60tkh++POOSoKtiXE7EhaVJ3YUAnv8AOasWn9BQbQidNdeVLlPtfbWtAHlZHx7/AM6oorMCbgbNXU//2Q==" />
 
 **Denise:** Ich habe eine Freundin, vegan und **Tierärztin** , die Abläufe im
 Schlachthof überwacht. Sie rettet regelmässig Tiere. Am 15.Dezember 2014 rief
@@ -316,7 +316,7 @@ ist für jedes gerettete Tier ein absoluter Hauptgewinn.
   title="WYOB - Foto: Norbert Zawe"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_04_ZAWE2579__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwcI/8QALRAAAgEDAgQEBQUAAAAAAAAAAQIDBAURABIGEyExIjJBUQcWQlKBcZGhsfD/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACURAAEDAgUEAwAAAAAAAAAAAAECBBEAAwUSITFBE1FhoRQykf/aAAwDAQACEQMRAD8ATW8VENWKd4HptgIMoDI6Efac9DnVLLUR3UKlfK8rKPBI7ZdT/R99T8dPIuEWKOWcMMSRS7hsYHO448OMe3pqmt9sVJk2JFUBYjMXWRQuQfKVbJ/Pb+daWbpg3tH5AlR8SY8e6kYth2LvXCSyUUoAGyoEydxOvHcftIaa1XGprpYWiq2Xed84BIZh9WST31U/L8MUTBXMrAjA5e0n8k6V0dyvFPXSZhaGJ5m3RQxg9T2AH7afU1XcZJgKkzpCcLgquS3cjAz6euo93VRy7cV01gHpp6n2gT2nn3XMdm4+vtsvS3JahZsbg9M6DksjeZdo7fqOo99bR4juzS/DK1cT2dDbppbgIZYCRMJFwx2lioIXKjoO+jRp7i0iUKjWaBtdXlWmdIqmtyR3jhShu3LWmlnSFuXGSVG5ckd+o1np5kt1dHDy+bE65dS2A3+zo0aTGsUQUYr/2Q==" />
 
 **Denise:** In erster Linie: Nachdenken im Sinne von Lebenserhaltung für ALLE
 

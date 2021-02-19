@@ -51,7 +51,7 @@ Zeit, um Ausflüge zu machen, draußen zu frühstücken, drinnen zu schnacken un
 auch mal die ein oder andere Radtour zu wagen. Von unserer letzen erzähle ich
 Euch im nächsten Beitrag.
 
-[myflickr tag="annelokischmid082016"]
+<Gallery name="flickr/annelokischmid082016" />
 
 Auch letztes Jahr haben wir um diese Zeit einen
 [Ausflug in den Loki Schmidt Garten](/2015/09/indian-summer-im-loki-schmidt-garten/)

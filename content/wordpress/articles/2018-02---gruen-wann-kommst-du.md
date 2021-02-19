@@ -72,7 +72,7 @@ Lass uns am Wasser Erholung suchen Grün, wann kommst Du?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_Wasserfall-1-von-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwAFBgj/xAAqEAABBAEDAgYBBQAAAAAAAAABAgMEEQUAEiEGUQcTFDFBYXEiMoGhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAAF/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECAxEhBDH/2gAMAwEAAhEDEQA/AADBqcSF7FbABa75Ne1UeDpd6A6ibxw2+mK3FJCGykKOwK7DkAnvodisuSmG22I5W+k0l1IUoqHbaP50hdEdGdU5BtuVCwsuQm6bVu8pIUFDn9Q9h2PyPrUPowvKtISp2KPXuSiSsYyztEfam1L2kOr5Firrtz+NFGWjoUhSxvU1VFSlUVH472ef81tviF01nOn4XrJwmvkNbXFtxnKbAI4UaqvsHmvjRjmso9FcZZMtTxS3SkBO2iR+0cHnnU8Yck8o0prg2dMoZkuxMNmGhJ3xUPOPxUohqcUq7JLab+O/N6X8PAx0PH+TCiGMyTtKGnVC+bv86tWuxSHRlcpBg5nErhTovmshJRTjiiSD9gg/3rnPxW8N8YJTL+MWITJQGEsBG8Dn3smzq1aH19Do/9k=" />
 
 Das Foto habe ich letztes Jahr während einer Wanderung in Irland aufgenommen.
 

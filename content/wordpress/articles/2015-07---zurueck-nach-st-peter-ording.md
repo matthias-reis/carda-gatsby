@@ -41,7 +41,7 @@ noch eine weitere Bildergalerie mit Fotos von unserem Besuch dort im Oktober
 letzten Jahres geben. Dann könnt Ihr genau vergleichen, welche Euch besser
 gefallen. :-)
 
-[myflickr tag="annestpeterording72015"]
+<Gallery name="flickr/annestpeterording72015" />
 
 Meine versprochenen Bilder von unserem Besuch im Oktober 2014 sind
 [hier](/2015/08/st-peter-ording/) zu finden - Die Perle an der Nordsee zeigt

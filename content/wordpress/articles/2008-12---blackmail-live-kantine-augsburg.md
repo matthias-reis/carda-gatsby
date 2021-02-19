@@ -25,8 +25,7 @@ date: 2008-12-17T14:43:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11024"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__l.jpg
@@ -49,7 +48,8 @@ Science Fiction (1999) Blackmail (1997)
 
 _ [Band-Website](http://www.blackmail-music.com/) Blackmail_
 
-[gallery type="rectangular" size="medium"
-ids="11019,11020,11021,11022,11023,11024,11025"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100001__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100001__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100003__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100003__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100005__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100005__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100007__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100007__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100010__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100010__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100012__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100022__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2008_12_PC100022__l.jpg"}]}
+/>
 
   

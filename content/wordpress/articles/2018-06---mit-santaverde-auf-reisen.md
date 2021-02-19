@@ -66,7 +66,7 @@ Gesicht schmieren.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40999488340_4064a5bbdb_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_40999488340_4064a5bbdb_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBgEDBf/EACcQAAIBAwMEAgIDAAAAAAAAAAECEQADBAUSISIxQVEGgQdxE5Hx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAIhEAAgIBAgcBAAAAAAAAAAAAAQIAAxEEEhMjUWGBocHw/9oADAMBAAIRAxEAPwDu6l8jy8PURkNZx9t9LY/kBKBig4IgiDBjz2qbZ/IWpKnScRSFKl9o3EH2ZmqhfQZOIRdYXlS4GW4GMmZ4/Q91Hs49lJOwHiOrms/T3tZWGiqURlyRGRoev5Wq4eZdutiomOES2UMO3llHV6AJ+6sd9Wv6dN26t5WCkrzIkAnz2mkvi4uddzsd9Pthbe+WuwIQKw3fokSOO4+qYo1ZMnEu7bGOmwKHdSFLJMOOT6j+6W9ldRQb9xYHI6Y/epGxVDHES+Jr+Q2Fcss7A20jrcEqVInjwDPc88VvwtUDsxbJR5WQkjcOe5iiig6MDheYjTjlmXP4tqWFZ0pWy+oO7DcIOxi8Dg95E/7WNGysS/f1TDuruxzbKvuUO2zyJ9e/qiigocXk9z9hWOSZ/9k=" />
 
 Besonders wenn man im Urlaub jeden Tag an der frischen Luft ist und viel Sonne
 abbekommt, ist gute Hautpflege essentiell. Für mich ist in diesen Phasen neben
@@ -93,7 +93,7 @@ nicht schön.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42092634124_1b6520cefa_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_42092634124_1b6520cefa_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QALRAAAgEDAwIEBAcAAAAAAAAAAQIDBAURABIhBjEHFFFxExUiQTJCYYGhseH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACBf/EACERAAEDBAIDAQAAAAAAAAAAAAEAAhEDBCExEkFRYYGx/9oADAMBAAIRAxEAPwCH8Nb9XdMXantFdUyta5Iw9OQ30OnA4z2I4z760PZZ4fMR/AwI5RjIPrrOdi8l1XY6emWRYLhE2+F15CSYPB9xkEeh/TT14bdTsSttrWK1kLFCh5IK9x/GlKNyHuNOddItaHCRtXG80TXGIxk7nRo32kYBVsc+n+aW+v7k9jq6KpjjmdKs+WZI84bH1YOP3x7nShc7pLR+JZFNWTVLSQTz1Mc8paJIcoacQLjaGDbgwGSRvLHJ13eI92+ZWqnNHUsFpXSWQfEALMTj8GMkBsfVwO/rpe8ri2ljiC6A4D9x8n2CD3CgxnaoLpjbTSU9XapdhUZkijlBD8n8rEEdv61MdRVyyXymu1Edq1IC1EbAriReDu9x3wfse+jRrPoEi6mfIQpgE8Top96kvkFR0xabnSNGGoC9OyJwq7wGGD9jlCOOeRpCvnUkz0Uccj7sIU2hMhsdux7D7nRo1W9osNzyPaDgA6Av/9k=" />
 
 Bei den rein natürlichen Produkten von Santaverde passiert mir so etwas nicht.
 Sie kommen ohne beschwerende Inhaltsstoffe aus und die schützende Aloe Vera
@@ -116,7 +116,7 @@ vorbeugen. Enthalten sind reiner Aloe Vera Saft sowie pflanzliches Hyaluron.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_27941347907_752bb99248_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_27941347907_752bb99248_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgEC/8QALBAAAgEDAwIFAgcAAAAAAAAAAQMCBAURABIhBjEHEyJBYRRRcYGCkaGx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAMFBv/EACERAAEEAQMFAAAAAAAAAAAAAAIAAQMRBAUhMRITQZHw/9oADAMBAAIRAxEAPwBHbVTZGGyAhUsnlsuRB0PTiOMcEc+off7aoNLaSWLfGoTBTVRGfMBJHGM988cH8BqQUPUv09M0Go2yCp8CJ7CWSAP3+Tqq+GN7Tc7PBacMKHsUXbcZG7cBx8SA7+2uQxtOHIldp2evSIA18Ju9ZMpvRTSe6IKSYESzjg5Hz/G0ayNdXZn5dC5EWpfL0mJmOB2HIBIwRk++NeLJ1DG39JdWXRpMpUtU+KyQT6gdoA/VIanKHV7oLoYFKmbJTz5kZHIGcyIPGck49saXPSu0Il1bvd3wqj3S7qqnphcUS6fpKiit74kb2zITKUj3EeTDjPf8sa0fgte6Pp59yoLvdqVKpyi+ALTGO6JMJc9jkbTjv8aNGt3FkIh+8KRE7su1la2p6QFpt5ep77s6te2cSlYV5spQlnuckQ4xk6WVClIqFvkQytigRk5StkQZDMhn+h/ujRpGSUpTp0ZN3X//2Q==" />
 
 Da ich in der Sommerzeit besonders rund um die Kinnpartie gerne mal zu Ansätzen
 unreiner Haut neige, kommt es für mich gerade richtig. Das enthaltene
@@ -139,7 +139,7 @@ eine verständliche Volldeklaration aller Inhaltsstoffe gibt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936664758_578e18efd5_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_06_28936664758_578e18efd5_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACgQAAEEAAYBBAIDAAAAAAAAAAECAwQRAAUGEhMhMRRBUXEiYQcjMv/EABcBAQEBAQAAAAAAAAAAAAAAAAMGAgX/xAAmEQABAwMDAgcAAAAAAAAAAAABAAIRAwQxBRIhQVETcZGhsdHh/9oADAMBAAIRAxEAPwByH40/0x4yhW88QSv38q22aqiKP3hlqVeoGWsuRpQxlji/uS681YJ7Hawfk+MQjebtR4qI0aUgojr5AlQIsUTXigATdfvGhfx9mLk/T7Tz9pd5FIok3QCcRelWu+5mqJAB4PoPvzW6bRPKWaRe1THnzHtVKy8tKSlMcNqaUdxV2khI+MUU9aDHS0w6htKUglR7NhV0D7E9Yj9dy5WXQ/WOSy9HdkNJZY2XwnabN/fX7vCmNqFRkkOErQU7QlKv8irBNX79nB6xaGndF1EANIwMdJ7It85ELHn8xmNPpVMWr03gpUsKO7YB+IHn2PXycXWjdWPZLlLETLncuckl1w7JPIV2aPW2hVA+cGDFGyGgOA7+yVhOU61VmwnQVxGl8CeTcvcN25IpVH4JoV8YiZeZjL2hGZCUs7/ydS6Std9VfXV/QwYMc6kPGJc/rHx+IV//2Q==" />
 
 Alle Produkt sind vegan und werden in Deutschland hergestellt. Sie tragen das
 Siegel der Vegan Society, das Leaping Bunny Siegel sowie das NATRUE Siegel für

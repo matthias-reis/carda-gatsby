@@ -89,7 +89,7 @@ werden. Sie ist angenehm leicht und kühlt schön. Ich habe sie auf eine kleine
 Verbrennung aufgetragen und sie hat sofort geholfen. Schon am nächsten Tag sah
 meine Haut viel besser aus.
 
-[glry name="santaverdeglry1"]
+<Gallery name="glrysantaverdeglry1" />
 
 ## Inhaltsstoffe - Das steckt in der After Sun Recovery Lotion von Santaverde
 
@@ -141,7 +141,7 @@ Wenn Ihr mehr darüber erfahren möchtet,
 [lest gerne meinen Bericht](/2019/07/santaverde-finca-aloe-vera/), ich habe sie
 letzten Sommer besucht.
 
-[glry name="santaverdesunglry2"]
+<Gallery name="glrysantaverdesunglry2" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

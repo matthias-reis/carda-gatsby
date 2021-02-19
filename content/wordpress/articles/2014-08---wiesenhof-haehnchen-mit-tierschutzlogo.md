@@ -61,6 +61,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
+  outsideImage: article has at least one image from another domain
   invalidMdx: "unknown: Unexpected token (11:14)"
 thumbnailId: "8140"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_hahn__m.jpg
@@ -81,7 +82,8 @@ Werbeblättchen gepostet:
 dem "Privathof" - Ob das die Verbraucher glauben?"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wiesenhof__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_wiesenhof__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAApEAACAgEDAgUEAwAAAAAAAAABAgMEEQAFEiExBhMUIkEVYYGRQlNx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAIF/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIRJBE8HR/9oADAMBAAIRAxEAPwDTbqlbaqMUagpXroI1eRuyL0BY9u2uiTb6tyOWR9trOAMgvWVi3fqDjU7tVXdN8X6jJsdeRLDRmA80OEXiQCCc5OevT41YVQJNxiiXiKriXlEi4MZUHoCMg/gfBGitxbkBJHX7FryaHIAYEn67iw+H9thFeeenTqNOoMflV0DYPT3NjC6Y8TVgvTwbjIreQ4DGwck8SRgjqDkY/PfW2+SQxWY4rk0qFSCpC+4KFXC4C9hp/wCFbTWnjimkZIrMfllXdSw5dM4P2PbHzqVr1s2U9qis4O4k8L1oE2HbCsMYPpYf4j+tdJt+tzUt+KVSsaD3BQi4yy4PTH3P70aNP5lj/Fmn1BcGmsXb4jcPqTVjeb72zznzxPEZReg/WnXh7dbnrqMfnZjMwJUqMZB/zRo1kqx2azqANAn/2Q=="
+/>
 
 ## Wiesenhof wirbt mit dem Tierschutzbund
 
@@ -102,7 +104,7 @@ Seite des Deutschen Tierschutzbundes und fand folgendes vor:
   title="Hühnermast Wiesenhof Bild: PETA"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_peta-hc3bchnermast-wiesenhof__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_peta-hc3bchnermast-wiesenhof__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QAKhAAAgEDBAEDAgcAAAAAAAAAAQIDAAQRBRIhMRMGImEUQUJRcYGhscH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBQH/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRITH/2gAMAwEAAhEDEQA/AM702CUxM8WxCpCsOEOPgdn9q6FhAskskl4Fa2CkrufYxIBJBIHxUFrKkkg2AgKgIHQNONrE8GmeS9SRoLthsjOMYB5fB45Ptye8HFRb0q1grXemCEgvbvHFJErRqGJAH4hlhnIznuqWtem7uy06G9lhieCZiEKSq+38s7Scf78VoV7q1nq7W9pFptzbyxp4DLIFwS3tGME5xgEnjukjU0ntbaa1llaIbyJIlfAUjOeP14pJ0F6U9KvPHAWMYKhc7dxGfbnk0yCV/pbeV2LnaqDJ6XHQ/uiihLo08JdxWG5dSQYzs775xn+KX/UV1JIJ7iU+RyoJyfuQOaKK2PQs/9k=" />
 
 _"Mit dem Tierschutzlabel 'Für Mehr Tierschutz' des Deutschen Tierschutzbundes
 werden Produkte tierischen Ursprungs gekennzeichnet, denen Tierschutzstandards
@@ -130,7 +132,7 @@ zählt unter anderem Wiesenhof) gehört, gibt es zwei Stufen:
   title="Fragwürdiger Tierschutz in zwei Abstufungen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tierschutzlabel_mit_internetadresse_01__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_tierschutzlabel_mit_internetadresse_01__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QAKxAAAQMEAgECBAcAAAAAAAAAAQIDBAUREiEABjFBURMUInEjQlJTVJHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMF/8QAJxEAAQMDAgQHAAAAAAAAAAAAAQIDEQAEIaHwElFh0QUxQXGBscH/2gAMAwEAAhEDEQA/ANWpcpw9lqaXH1YZveZKiNPEC4v9OtW4f+OjK5fBFv5CtG53y0/QYLsmSUqAU44VLwU2kk3vvV/PvzgdZiG11uDf7qTrmkFtxknZn1Px9QMVhN27zYgAHftvWg9fqK4NJefjuqU6iwGLql7OvHAnVOwVluRSpb8tciJUHVoDKtnFJCcj9RtskD3xPHRPW4gC05OFKxZQLiSCP65PROp0ynyky20KU+k3GRSQk++hvlRcsJbKSJJ7aZoGzuXHkrSYA69dcYikmlqZR2aqrWI4AW8FKDRuCXjbI+p/zh/5mFlllHOrbbPud8YpNDYfccUtsLClFRycV9/HIh1qH+aO359Fq8cmbhCsqJ03vOabVk60OFMa0oV+WlukPrgBtb6LWLaLEX1ffAHTpk2PNpMlmY449LeWl6L8S5bQFADMWvcnIgegA5pyeuRUk4x2wFCyvxFbHLNMoNPgPB9mMkP/AKioqt9r+OUF42hsoiZ7UD4c848lziAjlPPz/K//2Q==" />
 
 Immer noch ganz baff, ging ich zurück auf die Facebook-Seite, wo
 [die Diskussion unter dem Bild](https://www.facebook.com/groups/663824773653889/permalink/711147608921605/)
@@ -207,7 +209,7 @@ aufgefallen:
   title="Grillfleisch von zweifelhafter Herkunft"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grillfleisch__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_grillfleisch__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABIDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQHBQb/xAApEAACAQMDBAIABwAAAAAAAAABAgMEBREABiESEzFBFCIyQlFhgaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUAAQIE/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACESEDEzGhQVFxsfD/2gAMAwEAAhEDEQA/AM5bjtizWsUS1oWuKK4NRKxkUOUJ9BSuB+/vWnT3ywXOuhpBcaWRZ5BCVDHJ6vy+POuG3BJBQ7iPQ5RPhxZbBKjAKsDgZ1kWTt0lyh+eZozRO1SJogvcKojMHDMekllxy3+6Wue4uMjblOG4cUCzsJvavCqXZ2o32hW3vGeVbEh6h6P4dGpJDcqVYY1XckyKFACgx4Ufpo0e/gVwgY+vsKlUO36a+0FRUVkU3fMnbVgxVREACAyqRzydIbrsNDbNuVlZFG0tzpoo0pTEHMiYdPGcg8H3nzppa+7fHqW27Wy0NvMatJN9WjjcnGSzglnOOFHHH8h600+8bmIairkqpqDqcgxsgIKkjPaPDjKjPSSc+jqi2LUDzEE2ptNcKeaZ5ZbDeDI7FmPxfJPn3o1RDa+okzW68iQ8t0mMDPvAJB/rRrGse3KHplf/2Q==" />
 
 Hier hatten wir noch gerätselt und daran gedacht, dass das evtl. ein böser
 Fauxpas des Filialleiters sein könnte. Dass es sich dabei um das nächste Große
@@ -293,7 +295,7 @@ es möglich wäre, hier eine Petition etc zu starten? Beste Grüße Anne Reis"_
   title="Biohühnerfarm Edeka Twistringen Bild: PETA"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_biohc3bchnerfar-edeka-twistringen-peta__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_biohc3bchnerfar-edeka-twistringen-peta__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACYQAAICAQQBBAIDAAAAAAAAAAECAwQRAAUSITEGExRRIkEVYYH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHhEBAAICAgMBAAAAAAAAAAAAAQACBBExURITFCH/2gAMAwEAAhEDEQA/AKW2+rtqrQ1aUxs1puChYTEQS2O1A/ZznrSN03ura26SaluopQ4y5QIrrgkEuCCVXIIwSvLwCfGkvBcrWasTJUnjhbiomlIV3wG4vhS3WSC2PJP9adb9PQbduFmjDDUngrz/ADGGBKwLhlUfftj7wcZ/3U1cjsllsTpknaZjDatO2+W3iVik8k+YzG464k/kIlKlWXKkdsM51Z/l4btMSC3EY4gSzrKrYH2zLgZ1C+K0m3WbN/Z6kqrCJXIkMptBSwbk2OwoGewcAZ8azr6b245WaPbqlanUjs3o5wUSN2yVb8D0xResgn99aIyBfwgfI62stQzwVUnljrk/JwXVmVgGUFeYJUnlj7JHQ660ncbNaSmrTQ2ZRFyYBrRHLIIKnAGVwSOPjx9aNGkgbmt7a5m+3s1ewErukfx41ULDhwmCFcgqGGR2Qc+RnWGXZY60jTQeynuFSy8GIfhkLzy/54BwM/rH1o0ab4BF+yzyz//Z" />
 
 Ich habe natürlich alle wichtigen Links uns Fotos mit angehängt, obwohl ich mir
 ziemlich sicher bin, dass das Problem dort schon längst auf dem Tisch liegt.
@@ -337,7 +339,7 @@ aufgetaucht sind:
   title="Abgründe tun sich auf"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_vier-pfoten1-49__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAwIGCP/EAC0QAAICAQMCBQALAAAAAAAAAAECAxEABBIhBTETFEFRcSIkMkNSYWKBobHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/AOgtT0vbq38I6aPSud5V5XDGRiSx717V++W6aAEVJBvofdgXXwb/ALwV531TtN5bqenQlojDIoUmmI3cE8GrH5EZYdDDx9W6rR/Uvv8AOaiGcUEZWxoWscW6KCcL+e+J1iTcB5LW8n1SKscURwLAHpkVrHU0h0euaLTp4SSjcam2KSbLXfvhWk6FD9B5SjIygkI5N+veucz6iSvUw5mmjj2KB4ce6zzwL4xjFHvjVhLqkFfZYhSPkVxgDjo2hDWsTA+hEh4w1YkVQoXgCu5/3JHGUu5JXv8AG11/GWYH/9k=" />
 
 Für mich tun sich gerade ganz neue Abgründe auf. Sicher haben das einige außer
 mir auch noch nicht gewusst, oder? ODER?!

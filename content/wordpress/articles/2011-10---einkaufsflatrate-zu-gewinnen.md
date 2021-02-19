@@ -33,7 +33,8 @@ date: 2011-10-05T11:02:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "11624"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_10_bitte-keine-werbung-umwelt-frosch-aufkleber1.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_10_bitte-keine-werbung-umwelt-frosch-aufkleber1.png__l.jpg

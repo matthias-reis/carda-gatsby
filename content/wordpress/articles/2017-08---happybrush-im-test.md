@@ -34,7 +34,8 @@ date: 2017-08-07T16:00:23.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "17484"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36290591961_98e0cdac7c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_36290591961_98e0cdac7c_z__l.jpg
@@ -56,7 +57,7 @@ samt Zahncreme aus dem Hause Happybrush.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36258950832_fce116d5ce_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_36258950832_fce116d5ce_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwMFCP/EACYQAAICAQQABwEBAQAAAAAAAAECAwQFABESIQYHEzFBUWGhMoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAH/xAAhEQACAAQHAQAAAAAAAAAAAAAAAQISEzEDIjJBUZHwYf/aAAwDAQACEQMRAD8Ap7O4wz4+nHWBZpriRRmUCPfdT2dz1qNiMXFYy+OqWZ46fNWRpZVYqjew34gnbfYb/urTyXl3m72IpW8SlVmjtJbENpjExABDAhh87/Y0nYbB3LVhMlfo2hTuVZHSdUIjJZ9uiNwPc9H60FYmW46KBz2FS1SkqWJIJ42jljYo6MNirA7EH/ujTpkPDEdTJWcddldbNRuDPLuplU9q/wBHcfI+QdGtqIqbOh4KxrisI783psSFSywkVR8gE9/3Sn5d5GOr5f0/TdRBA80JsEbFOMr9FQSdu/3rWwsZRJRVhADqjkyHnx4gqex9n81F8JW6ISGGhEvDkzspO+3WxJ/mh7C3qIGehGQmrzR0cdkNohH66Tcgdievnb3PR+9Gs/iLw1hbl31pIXikb/RhfgGP6NGtTXPuyl+e6P/Z" />
 
 Die Leute von Happybrush versprechen auf ihrer Homepage effektive Reinigung
 durch moderne Schall-Technologie und effektive Vibrationen. Einen fairen Preis
@@ -109,7 +110,7 @@ wird.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_vegan.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_08_vegan.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAZCAYAAABQDyyRAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAFYklEQVRIx51WWWxbRRR9fFI+4KOAoB/AD4jlByH4BYlF/IEAIYGEBHwgoEKItdACAoRYxCKEAInlg7IIBEhshaZ0S5PGWZ3NxInj2HGczXGceN/i5XLOfTPuI6Ktm5FGb+w3M/fOOeeeeU61WpWNjQ3hk13qDclVKtKXScvfaykZz2VlOp+XqXxOQuhB9KPra3IEfa5YwPy6NLG+Yvaxe9nx6bpjF9Tx5GYDCLwvtSrxYlGkVnM7/pdGA70p2ppNXexLr0vH2qoG57ytJOG0gtfqcgAnHsxk3IDY0CZFVFZKJXlvIS5fLi/qnD1zUVkrl6WE9T8lVySN8VaScFzY63IQwf8B3DylPRHfRQp5+RkBnoiG5ePFBblzakK+QBJvzc/Ja/GYLAKpBjb6MZmQsmdd2xQw+BgCE04GLxktZKEDbv707IzsikXlMDinNkhFtFCQHxDw1mBAtUFKEkDoT1DH/aye2kFBNfB7KqmZc1wj7GgU4Js45d7Eknsy0GC1QIHy9KSBvxUxPH3ptAqV8yrtaiCA0wc9i5jIp0sL8gYC/LaadBOi+PA+DwQmMfdzULATlBwDKg2zEZ9FrN8PUVJPXhROmcAhnLRshFg3CDwYDslnCMIA3CxTKctELqeokI6nQIuKzpQgA1mUWJ6r5VLbWnCOk3uj3rqpZ56QimdyfP8uxq8DET53A3YiYQPYIGUjZlYIhcvE26HB6QWf5I/iqxkERrNZeTQyLS/NzcqLOPHzsYh8Alp+ASVdTBituMnALH0Uru6JZMpnmoDlkhuF4X7z2Iwa4Tu2DiBCGjifVVKsVlrU2QRSoKaT1G01gQ1jSio844LkmaXGkmRSHIsxRQYhJTWTeBz2PHAmCHQZDVSrJ04xnM24Po8gyjfERVp2gw62JGp+H0qXWqE2uMaKsB/BY/CJk2lgszCdw+spPX3DAyNt9+5QUP6isaj3i4qSpkOOL/T3y40TY+IcO6T3BpubaF24n7XltqqAHsAbj9mXbTkZR9wxPKCVwPbcbEShfxnCpDU/i99OT6cslYq6lgfg3dChPlCTAhI6VQIVI1yHC2k49vLhIi5m6wE92wZ9+o7eT1iXgc4D4SmIp6vlhEWDHJNN0gPYjENSqDxUScduL5n5REzvghAUTwPhIltSVvmk4vFIWD5cnFdkvl1Zlq9gz61Gi+ZVrWPXAfneZ8q1NafZFG9jddHonIoxEPp4j15IjRaEHFP1l48OKfR+iPMR+APvB96KD8+EVB+k4R4kehf6zcFxeQVzdyLpD6CbXfAQUsNg9BYaGffg1c8KdCxP9mPkgLFmzZowGRSuGvMrEvdPT8qlI4Oa3JWjfg10Nd6RFqLm9HWrY96Cm5LauhdreWu+j/+czoPyNqg8q/+4JsnmeEuDSfDEf6DEeOMtsObRvk4sw7OPqvIfwqm3DfjUIa9B4BsCo6qH/aYazoFmLkGCDEQHvQxjJs2r/GysY7sD6D0GFDQB773tlqH7NUQ/p+sRFVLj9HbLfdiIHyMXozpaDXNvwwlfjc/KOqDePtSnwfkf0SQ1z6BimMB5Q7265KaJcb3qWwl4y6XiQcN1QddkiAD5JfQXwQeejM7I7ZMBvRtiMC16w7Xjw3J9YES+g1CJyjsIcgH+vwIaegGIOd1H9Fbd7u/TJChM5/8cyqLBwE2TDL+IRiBCNvo9RalfQEDgOgRl4I9QKd+vJPSkFBjR4tcWv55YPd+ASpb8r+h7MWZJOqdzqtZHK+8GU6aKjmm07R0eSugN5w72nqBoU/n9pyF552RBN3/XWQOxdz/LVKsF+1OYFCNL83zAO2Y+bnljlsxc22lMdsx9/wVVaZaly6PSWQAAAABJRU5ErkJggg==" />
 
 Die Zahnpasta gefällt mir vom Geschmack her sehr gut. Sie schmeckt nicht
 künstlich oder süß, aber auch nicht salzig, wie viele natürliche Zahncremes. Der
@@ -164,7 +165,7 @@ Zur Homepage von Happybrush geht es
 [hier entlang](https://www.adcell.de/promotion/click/promoId/169537/slotId/80259?param0=https%3A%2F%2Fwww.happybrush.de%2F)
 .
 
-[myflickr tag="annehappybrush"]
+<Gallery name="flickr/annehappybrush" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

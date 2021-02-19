@@ -97,7 +97,7 @@ Am 25. Mai haben der Herzmann und ich eine schöne Fototour durch den Park
 unternommen. Selbstverständlich habe ich auch eine kleine Bilderserie aus meiner
 Klickse für Euch vorbereitet. Ich hoffe, sie gefällt Euch!
 
-[myflickr tag="anneplantenunblomen52015"]
+<Gallery name="flickr/anneplantenunblomen52015" />
 
 Weitere Bilder findet Ihr wie immer in meinem
 [Flickr](https://www.flickr.com/photos/99929697@N07/) ## Weite Infos

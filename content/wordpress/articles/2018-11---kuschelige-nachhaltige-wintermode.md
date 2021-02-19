@@ -58,7 +58,7 @@ zusammengetragen.
   title="In meinem geliebten Wintermantel"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_31415931275_d2404ae657_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_31415931275_d2404ae657_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFA//EAC0QAAIBAwIDBwMFAAAAAAAAAAECAwQFEQAhBhIxBxMUIkFRYSRSkTIzQnHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABsRAAICAwEAAAAAAAAAAAAAAAABAhEDEiEi/9oADAMBAAIRAxEAPwBFgrOd1X3ONQnA9DdeK3r75xPW3ONFqZKeio6RgIomjPmJU7EAgKPuIOTrn2kV1ZbLPUeDlmgdatEMkTFWVck9R0zsNSHCvElzttSq+OPgqiVFnjmwxGTguuf0n3Pr11c068jxJS6xxvdWYrHcJDnIgfp7kY2/OtimkENPFH9iBfwNTl9QtbjBj92aKLHwZF/wa2Xl87em+kyLDi7V9PS0bJcJpUWsDxF1HM267nr8jQvyTUf09YikMAOYMGBHwQTppuNgTiSWGmlSVpqfmKxUzLiPmAGZXIKjoPKMnRVx1bH4fvtVZZERzTyCVKgEgyo6AjI6e4yMdDob6aY1SHjs5WS98F2iorpuYwju25T5y8bFRzH02xqu8HQDY00O3uuTob7B7/MyXCztE5hVfFpIFOFbIVlJ6b+UgfB0q96T/BR/Z1Em7Hqf/9k=" />
 
 Friert Ihr auch ständig wie ein Schneider? Dann geht es Euch wie mir. Besonders
 Zugluft kann ich absolut nicht ab. Ich mutiere zu einem echten Frostköttel, wenn
@@ -115,7 +115,7 @@ nicht passieren wird.
   title="Lagenlook für noch nicht ganz so kalte Tage"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_33267695745_52dc39f3f7_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_33267695745_52dc39f3f7_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMGBQT/xAAoEAABAwMDAwMFAAAAAAAAAAABAgMEABEhBRIxBhNBB1FhFCIyofH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgD/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAxJBITFxgaH/2gAMAwEAAhEDEQA/AJrTumNVgRroSFuOYUEE7bfBNVGk9U6xpupQ9DYmxIj/AGCWwWO7J4PG7AFk/sU3SFynmZJTLcdcjsl4pUEjeOLYyDcjNQbutfQ+o4S42HgqWh3cTwXAkpuLXNjtGDbGKDBs5OxrpxLYAKDUqOoNR6mYd786RKkJWSMcnHATYgCitWfOLb8mJKkORXmlBHcQStv8UnKTkc+CaKgPlPP2ZlCmqmAicpgPhLYWlxIbWSgkqQSCRb3xepTUIEVzqWBLQlIYabX3QL5WMIJxk5FseBXWzL7aHG2zcFW4k5Oefj+0xK2DpLjSrB1biXEgeUgEG/tkCrRa7RcbCip8+xGuy1vPSVuL3pWsqBJ9/nnwKKzXHEhNgftHgmxopdVhMSxsz//Z" />
 
 Generell neige ich ja zum "Layering". Den Lagen-Look habe ich in den letzten
 Jahren perfektioniert. Gerade in der Zeit, als es noch nicht so leicht war, an
@@ -171,7 +171,7 @@ auch gerade wieder richtig hübsche Winterjacken im Angebot.
   title="Nochmal Lagenlook"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_30462412122_66f5294155_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_11_30462412122_66f5294155_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAsEAABAwMDAgMJAQAAAAAAAAABAgMEAAUREiFBBjEHE1EiIyQyUoGh0eHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/AIlojqanQHI8VlRTJbUEhATnccjJH2q/InXSNbo1vYRHS0yzobUyhpxGDvgHJ5x/t6gmei1w5SXEumS9EcQwltOCVqGgfMkds8Z7GmEX129NtOvIW0hllthtspVjASSSPp3ONPAAoqTWsLl6TL3PnSXmUSWo+lhpLSE6RgAem1FI31z4oacgY4H9orUM06bxK8MrpbzDlWgPXVs7eU02lh5opG6tKdlJyrgZHNJPOeWbOmfaLvByFMynZitQUrCdSm0qAyQcK7j2dtjvXE9WTbrZDBl243K0j3janE3DWSTg4ynGNk/is4XU18ubzsTqC6zpxaCi2zJeLmhfZWBwcDimW4kVqUrdQslh9ChMty2Fag28l4IQ6AcEpyB+x2NFZwr/AHLpyBGjwHYb0Z5tL/lvMIkobWQNWkLB0qOBqx3wPSiowf/Z" />
 
 Für mich ist eine gemütliche Kopfbedeckung mit das Wichtigste überhaupt in der
 kalten Jahreszeit. Eine

@@ -26,8 +26,7 @@ date: 2016-03-24T13:31:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "14352"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-3-von-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-3-von-4__l.jpg
@@ -42,7 +41,7 @@ subTitle: Flarf-Gedicht zum Frühling
   title="Sonne und Frieden"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-1-von-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EACkQAAIBAwIEBQUAAAAAAAAAAAECAwQFEQASBhMhMSJBUZGxBxQjYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AgaL6l2iaOO11xkdgCgCu6ENnIG9Bhsk5ycdjkHUTPebRNQOBFWNTmdYqq5VDyNDEclljGCQpYA4PxqpcGcILcuIad6+Xl0LwvWbVxmWMKS20jtg9O3fVVVJpJjRSNLCJZlVo5CVAJOAWX1AOg6foIFknmYAYEcLAlumdin4xql3iqitthq6yXlgCtYePdtJwQAcAnz9NOuF5Lnb6aCmrubzIaBEcyKQDKrBdoY9/CB28gNI3ekV7MlKzuzyVLT/jxndkYAyOvfQO7aKW3RqtDRxQpHkqqk4GT1x76xnitAvGFyKhVX7/AAFUYABKnp/NGjQbVxDJJdacwlzBypDIrRjqCD+9QNvmqHv9uR5t0YlIYbR4sg+3l7aNGg//2Q==" />
 
 **Sonne und Frieden. Das sind die beiden Wörter, die ich dieses Mal als Gerüst
 für mein Gedicht verwendet habe. Dabei ist ein sehr nachdenklicher Text
@@ -72,7 +71,9 @@ Umwelthinweis. Unser Platz an der Sonne.
 
 Sag nein zu Gewalt. Sonne, Du sinkst.
 
-[gallery type="rectangular" size="medium" ids="14353,14351"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-4-von-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-4-von-4__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-2-von-4__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_Sonne-und-Frieden-2-von-4__l.jpg"}]}
+/>
 
 Was genau ein Flarf-Gedicht ist und wie es entsteht,
 [erfahrt Ihr hier](/2016/03/flarf-inspiration-aus-dem-internet-die-poesie-der-vernetzung/).

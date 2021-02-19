@@ -66,7 +66,7 @@ subTitle: Eine Geschichte aus dem Leben
   title="Bild: Anne 3/2012"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-47__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_03_2012-03-02-16-54-47__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAIH/8QAKRAAAQMCBQMDBQAAAAAAAAAAAQIDBAARBQYSIXETMYEiM0FRYaGxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AHyXrjvXDj4A3NIpEmWyzqajuSLW2a3uPm3H8rDIxoN31sS0kG3rZKf3ao4onJH0oqJlZkUk+mOsj7rFFGwH+AykycLhuXsVspVf5vbf81vek9Nol/dsd1AduRXl2S83R4kcQsR1pbT7byUlQSO+lQG/mrAZkwvSSiZ1dzYNsuLJ8BNGtGEyLBkp1LjMOAi4VpG/kUVMzccZjpUvC4eIOLO/TW10mlc6yCOQL80UXqDK/9k=" />
 
 Vor Dir sitzt ein quengelndes, zappelndes, kaugummimampfendes Kind und spielt
 bei voll aufgedrehter Lautstärke ein Kampfroboterspiel auf seiner blinkenden

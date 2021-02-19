@@ -25,8 +25,7 @@ date: 2013-05-08T16:48:11.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "5354"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4864__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_05_img_4864__l.jpg
@@ -38,11 +37,13 @@ subTitle: Treffen der Giganten am 5. Mai 2013 in München
 Hier sind meine Aufnahmen vom Treffen der Giganten am 5. Mai in der
 Kranhalle/Feierwerk München:
 
-[gallery size="medium" type="square" link="none"
-ids="5336,5337,5356,5357,5355,5358,5359,5361,5360"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_47711__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_47711__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4778__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4778__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4866__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4866__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4867__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4867__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4865__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4865__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4868__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4868__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4869__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4869__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4871__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4871__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4870__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4870__l.jpg"}]}
+/>
 
-[gallery columns="1" type="rectangular" link="none" size="medium"
-ids="5353,5352,5351,5350,5347,5348,5349,5345,5344,5343,5342,5338,5339,5340,5341"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4863__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4863__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4861__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4861__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4858__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4858__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4854__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4854__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4842__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4842__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4849__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4849__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4851__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4851__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4840__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4840__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4837__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4837__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4835__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4835__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4834__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4834__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4824__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4824__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4825__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4825__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4828__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4828__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4831__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_05_img_4831__l.jpg"}]}
+/>
 
 ### Entschuldigt bitte die Qualität meiner Bilder, ich war mal wieder mit leichtem Gepäck unterwegs letzten Sonntag! Ich gelobe hiermit Besserung.
 

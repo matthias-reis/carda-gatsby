@@ -26,8 +26,7 @@ date: 2010-04-16T16:22:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11509"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1731-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1731-2__l.jpg
@@ -52,8 +51,9 @@ in das Augsburger Kulturproramm aufzunehmen.
 _ [Filmtrailer](http://www.youtube.com/watch?v=sNZie7PqxVc) Speer des
 Schicksals_
 
-[gallery type="rectangular" link="none" size="medium"
-ids="11501,11502,11503,11504,11505,11506,11507,11508"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1731__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1731__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1732__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1732__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1734__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1734__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1738__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1738__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1739__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1739__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1749__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1749__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1801__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1801__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1803__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2010_04_IMG_1803__l.jpg"}]}
+/>
 
 &nbsp;
 

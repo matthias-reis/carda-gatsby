@@ -43,7 +43,7 @@ auf der die Memes erscheinen, findet Ihr
 
 Doch jetzt erst mal viel Spaß beim Lesen.
 
-[myflickr tag="cardameme"]
+<Gallery name="flickr/cardameme" />
 
 Wollt Ihr mal einen interessanten Text zum Thema YOLO lesen?
 [Ihr findet Ihn hier](/2015/04/yolo-you-only-live-once/). **Foto im Header:**

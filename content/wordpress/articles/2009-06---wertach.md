@@ -18,8 +18,7 @@ date: 2009-06-28T19:05:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "11370"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__l.jpg
@@ -28,7 +27,8 @@ subTitle: Spaziergang in Augsburg
   
 ---
 
-[gallery link="none" size="medium" type="rectangular"
-ids="11369,11373,11368,11371,11372,11374,11375,11376,11377,11370"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280005__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280005__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280011__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280011__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280002__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280002__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280007__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280007__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280010__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280010__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280012__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280012__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280014__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280014__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280015__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280018__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280018__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2009_06_P6280006__l.jpg"}]}
+/>
 
   

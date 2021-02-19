@@ -49,6 +49,6 @@ im bayerischen Raum auf Tour ist.
 _ [Homepage](http://www.tom-und-flo.de/) Tom &amp; Flo_ _
 [Homepage](http://www.tonair.de/frontend/front_content.php) Tonair_
 
-[myflickr tag="annetomundflo"]
+<Gallery name="flickr/annetomundflo" />
 
   

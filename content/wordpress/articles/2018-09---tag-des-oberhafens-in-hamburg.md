@@ -78,6 +78,6 @@ schlendern.
 
 Eintrittspreis: "Zahlt, was Ihr geben wollt"
 
-[myflickr tag="annetagdesoberhafenshamburg20180909"]
+<Gallery name="flickr/annetagdesoberhafenshamburg20180909" />
 
   

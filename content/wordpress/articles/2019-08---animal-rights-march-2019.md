@@ -77,7 +77,7 @@ Animal Rights March erhofft hatten, ist in vollem Gange.
   title="Andreas, Caro, Markus, Inga (v.l.n.r) vom Tierrechtsaktivistenbündnis Hamburg"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_08_animal-rights-march-2019-tobias-hess-photography__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAWACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAHBAb/xAApEAACAQMDBAEDBQAAAAAAAAABAgMEBREAEiEGEzFBIgcUFUJRUpHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQQFAAP/xAAjEQEAAQQABQUAAAAAAAAAAAABAgADESEEEhNBcRQiMWGh/9oADAMBAAIRAxEAPwC/LJV3yuoJaWWS30rwBNhbfMZUzgjHAGG5HnAGuWhv0LdWLFaUaW209VCzr8m7ZBUBeRnggr49axCx3KWjuQleaWKoilCuC3LqG5VgfPvz71qPSlyYWXqya1d2saLvY4EWAnyQkA5GD+o8nbpG/bbQ9xMU9YkcQRj8Iq0jdqPp6OyXK5xy1NLcot80bwTKiu3qPYTnOSMjg/E8Y40R1l0hDbeklvFDcGnMbJ9yZAVDB8YYZA/0cHnI14W2dTVdTZa+nuFyj7lZJuaeq3yMpYq2RjP8WBOCRkY86ct3WbwfTe4RVs8FbPLI1JDHLAuSOCr5IydvkZ8HGuHpJQA+wovRu8zjHtz4TNZ/HLtLuS3eILF85z7Oc6Ua4i3Xe8bIO7HVloTG0jKDuKsd2OSPP96tWrFwHBU+xqMpd9fo0ZKlF+MqiFnWsSoIUDHbCZxj986TtqXS1dIxX2hrI4o2qjTYCguDsJ9gjGF1atCesJWhtkea/9k=" />
 
 Der March wurde in Berlin [<sup>2</sup>](#2) vom Hamburger
 Tierrechtsaktivistenbündnis [<sup>3</sup>](#3) veranstaltet. Im Nachklang

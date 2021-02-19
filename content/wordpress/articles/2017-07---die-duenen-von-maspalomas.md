@@ -37,7 +37,7 @@ subTitle: Ein Meer aus Sand und über uns die Sonne
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36128628935_5c3c57ed39_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_07_36128628935_5c3c57ed39_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDBAAFEQYhMQcSQRQiUWFxExUjgaH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESMQT/2gAMAwEAAhEDEQA/AGm2MhawFDYV1Zz8S1256dOdS1GZT3rUo42+B8k8AeSa17V7WUdwGOaQuuk6P+222F+u76guKeDKcdhTjHev8HIA+yfFQVr2wWaTvypMz0DqCde518ZuD0d2My4VxlEpDgClE9mBjKUpxvjY+d6KWek2nnpE5N+S8gR4xejqRwsqKE4x8j3HPHAoo7gA+CDSSy6ZVID/AHIAKsZ3/upZ1HiuX7qJDt8MqW4GGGn1Ae1juUo5JP0rNM83UkKztj1rqi6oZSw3usj5I2AH2an2odRNTLrcJNvckMR5TyHsHCXCUtpQAfGxSTsfNN+apy2iBey84ZabZboditaIVsaKIzeSCo5UtR5Uo+SaKWdO6lVfLE2pbgMpv+J/PJUOFH8j/c0VM6lWIb2PQgqCvk//2Q==" />
 
 **Verlässt man die Strandpromenade von Playa del Inglés in Richtung Süden und
 folgt dem Strand ein Stück, sieht man schon bald die beeindruckenden Dünen von
@@ -74,7 +74,7 @@ Wanderer. Ein kleiner Bereich wird von FKK-Anhängern genutzt. Die meisten
 Touristen halten sich jedoch lieber am Strand auf, um das kühle Nass immer in
 Reichweite zu haben.
 
-[myflickr tag="anneduenen"]
+<Gallery name="flickr/anneduenen" />
 
 ## Wegweiser Gran Canaria
 

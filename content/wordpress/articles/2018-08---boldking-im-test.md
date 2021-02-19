@@ -28,7 +28,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
+  outsideImage: article has at least one image from another domain
 thumbnailId: "21838"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44220183921_6291186304_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44220183921_6291186304_z__l.jpg
@@ -54,7 +54,7 @@ werden, ist unklar, also heißt es weiter die Klinge zücken.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44172030492_21724b3653_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_44172030492_21724b3653_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALRAAAgIBAwIDBgcAAAAAAAAAAQIDBBEABQYSIRNBUSIxMmFxkQcUYpOhsbL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAIBEAAQQCAQUAAAAAAAAAAAAAAQACAxEEYTEFEiFB4f/aAAwDAQACEQMRAD8AiHP+HTbDfFmKMx7dYbCuRlYpCMlCf5Hy+mnf8Cd/n/NWNqsyxskEYlqnOGz1YKDPxDzA8tVaoJNx4lcda8Fp46sjRxWYeuOWbpPR1Dzycdv676itTbtstRR7lahoJLYAcs0MUIBx5K1kKv0CdvTTNb3hTZGU3Gou9r1PttmGWoXlRWlbGSoxj5Z1ib/JAieL0gIvZR66jNaW3LGqVbFyZAMBYGLAftwN/vWlxyO1X3kUpIrLw34zIok8RsyoM59tyx9nt2VVGFydF0VCwVPD1ASSCMtq9/E18cnmqitHFG5hQh3cD3+gPfP3H20o8n4VyGjGknBZ5oI+t3nrSpEjI7OWxGyrnpAIGCfL3nRo0gJHCufGyQU8Ajfld3CeLNRY3ue27u7XyPYpTSSeDA2ezHvhz3+EgAfPT5b36rXqR1qkaRQQr0LEihYx+lVGAAPTGjRoEk8rMjZGKYKGl//Z" />
 
 Dabei kann man eine ganz schöne Menge Müll produzieren. Das würde ich gerne in
 Zukunft vermeiden. Aber wie? Einige würden sicher jetzt zum  **Rasierhobel**
@@ -81,7 +81,7 @@ zerbröselt. Irgendwie scheinen die immer eine fiese Sollbruchstelle zu haben.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42412405780_2a81ba5a51_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42412405780_2a81ba5a51_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYCBwMEBf/EACgQAAEEAQQBAwQDAAAAAAAAAAECAwQRBQASITEGEyJBFDJRkWFigf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AqrEgvyENyfqG0pbUpLT6lFwmwdwIJJT/AFH2nsHvT34h44zPgwmmoza3Hir3OMiwN6uVcXwO9KuJhCPkkJlCUlxDG9Lku/XbG7bQFHakgHmiVfNdFg8b80wOJxUOOuU809H3JtmOoJFLNUfxVa1YnT8o8Qax/rx3ozB3NFSHEsgBQo8jj4OqweeQ7h5MmS+lauAt6vc1wNoINKC+P9PN91ZOU8/wE713Xsk+pa0EBTrK66rsCtJSUNsYWS1bbL7aSSd5IAKQQpy+7He5PPAA60YmqmVLVFeKpDK1uuJbK1vOKDdg8gVYH5B/eo43GPQZUeVCy0JqQwoONLpVpI6NFJB/R0aNJQy2OyOSmSJk+VDefeVucc3FO81V0lAA4/jWSKuW0whUp2M5SEMpKnFL+2k7jSbAHwSeutGjQn//2Q==" />
 
 Neben der robusten Bauart sind beim Boldking auch die Klingen anders, als bei
 Rasierern von anderen Herstellern. Durch ihre geschwungene Form sollen sie
@@ -149,8 +149,9 @@ die Qualität überzeugt mich und das Rasurergebnis kann sich echt sehen lassen.
 Auch das Recycling-Konzept ist ein guter Ansatz. Von mir bekommt Ihr eine
 Empfehlung.
 
-[gallery type="rectangular" size="medium" link="none"
-ids="21842,21841,21840,21837,21836"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43314814235_209ca25a3d_z-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43314814235_209ca25a3d_z-1__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43314811995_e5d4714fc3_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_43314811995_e5d4714fc3_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44220187901_60b0091a9e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44220187901_60b0091a9e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44220181351_df82d3cdb4_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44220181351_df82d3cdb4_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44172022012_79d5fb94a4_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_08_44172022012_79d5fb94a4_z__l.jpg"}]}
+/>
 
 <RemoteImage
   alt=""

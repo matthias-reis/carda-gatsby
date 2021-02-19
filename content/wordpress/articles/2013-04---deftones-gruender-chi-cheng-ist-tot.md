@@ -27,7 +27,8 @@ date: 2013-04-15T10:01:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "18327"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_04_Chi_Cheng__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_04_Chi_Cheng__l.jpg

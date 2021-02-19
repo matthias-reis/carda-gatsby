@@ -29,7 +29,6 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  oldGallery: article has an old wordpress gallery
   invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:24)"
 thumbnailId: "18844"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__m.jpg
@@ -72,8 +71,9 @@ aus Teilchen besteht, oder sich als Welle ausbreitet?
 Ein einmaliges Spektrum Die Elbe im Licht der untergehenden Sonne Der
 historische Eisbrecher</blockquote>
 
-[gallery type="rectangular" link="none" size="large"
-ids="18844,18847,18848,18845,18843"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-5-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-5-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-6-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-6-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-3-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-3-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-1-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-1-von-6__l.jpg"}]}
+/>
 
 ## Flarf-Gedichte Wegweiser
 

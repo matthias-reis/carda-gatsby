@@ -41,7 +41,7 @@ Auch die Ruinen des Glastonbury Abbey, und nicht zuletzt das Glastonbury
 Festival, das hier jährlich stattfindet und Musikliebhaber aus ganz Europa
 anzieht, sind weltweit bekannt.
 
-[myflickr tag="anneglastonbury2009"]
+<Gallery name="flickr/anneglastonbury2009" />
 
 _Hier geht's zu [Teil 4/17](/2009/05/stonehenge-11-05-2009/) _ ## England 2009
 Wegweiser1. 10. Mai 2009

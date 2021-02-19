@@ -29,7 +29,7 @@ subTitle: Bildergalerie
 Gezeigt werden die Fotos von dem wundervollen Calexico-Auftritt in der
 Muffathalle 2008.
 
-[myflickr tag="calexicomuffat2008"]
+<Gallery name="flickr/calexicomuffat2008" />
 
 ## Calexico Wegweiser1. [live @ Open Air Dachau 25.07.2007](/2015/04/calexico-live-open-air-dachau-25-07-2007/)
 

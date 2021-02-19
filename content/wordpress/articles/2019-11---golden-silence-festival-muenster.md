@@ -71,7 +71,7 @@ an mitreißen. Ihr Zusammenspiel aus knackigen Samples, düsteren Bässen und
 präziser Percussion haben Persönlichkeit. Kuf verdienen es eindeutig, gehört zu
 werden!
 
-[glry name="2019-11-02-kuf"]
+<Gallery name="glry2019-11-02-kuf" />
 
 ## Mathrock von Mutiny On The Bounty
 
@@ -88,7 +88,7 @@ ihrem Gesamtwerk. Es umfasst bis jetzt vier Alben. Auf verschiedenen Seiten im
 Internet werden Mutiny On The Bounty unter anderem mit And So I Watch You From
 Afar und Battles verglichen - das würde ich definitiv so stehen lassen.
 
-[glry name="2019-11-02-motb"]
+<Gallery name="glry2019-11-02-motb" />
 
 Einziger Wermutstropfen für mich: Leider hatten Ef aus Schweden, wegen denen ich
 ursprünglich die Karten organisiert hatte, ausgefallen. Als Ersatz hatten sich
@@ -105,7 +105,7 @@ Distance Calling auf der Hauptbühne war das Publikum überraschend ruhig.
 Sichtlich beeindruckt von so viel guter Musik - ohne Gesang aber weiß Gott nicht
 ohne Klang.
 
-[glry name="2019-11-02-long-distance"]
+<Gallery name="glry2019-11-02-long-distance" />
 
 Zu Essen gab es übrigens neben Pommes auch Pommes. Hier hätte ich mir etwas mehr
 Auswahl erhofft. Aber was nicht ist, kann ja noch werden. Es ist geplant, dass

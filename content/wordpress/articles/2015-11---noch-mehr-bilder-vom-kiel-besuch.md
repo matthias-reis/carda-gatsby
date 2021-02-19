@@ -37,7 +37,7 @@ zweitzuverwerten? Inzwischen sind ja schon ein paar Instagram-Galerien
 erschienen. Wir haben unter anderem das Schifffahrtsmuseum besucht, auch dort
 habe ich ein Bisschen geknipst.
 
-[myflickr tag="annekielinstagram2015"]
+<Gallery name="flickr/annekielinstagram2015" />
 
 > Es gibt kein Wissen vor der Erfahrung. - Kommissar Klaus Borowski, Tatort Kiel
 

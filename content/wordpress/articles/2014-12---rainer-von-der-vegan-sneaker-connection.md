@@ -56,7 +56,7 @@ dann wieder ins Büro zu fahren.
   title="Das Team der Vegan Sneaker Connection"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_Das-Vegan-Sneaker-Connection-Team__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABgcBAgMEBf/EACwQAAICAQMDAgYBBQAAAAAAAAECAwQRBRIhAAYxBxMUIjIzQWFxFXKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgADBP/EACERAQACAgEDBQAAAAAAAAAAAAECEQADIRIxQXGBscHR/9oADAMBAAIRAxEAPwDp652UYe35qAu1HswPIJUam4jD7S+7erFl43eBg8DA6GP6eWrPcL6dVeO5DWoGe1LDMhfKg52K2OScYB528np/Nq2qa36i6hoNSKKIzh5hMXKqCmCylsY2458f6PWjqPcNz0/g+I1Wp/UL2swvRWzBLGjVsKWImRQy7l4PnlT+sdZHXEBSir9st1QNiRhyvFfWU7c7e0ulpUdTVpq0NmEDDeykDv8AIDlWkYlgVyOcAEk4PnpLq/ZVOb0/W3SlZ5K8fuCRK8WwyxgptYeW3Z4ZTwUBPUW1L2vjW6KQatVN6J4o2ktL7gVXh3SFyi5xlQBg7jnB6RaD3DBcu3qK3rcMdt4vcljWN5bcasw3ShwEQFuc8cZHI8wISFj2+MffolqWG0SRT63T+YOqd33dOufHPpc9lsCJtwMe6QqVkJbPAPAz+R0Y7n1LWtSj0q5VpWKMsOXjjgfA9xuDICOQMKPl/bc9SsPoX+R1mqfcl/n/AJ0kAgVE4w8pV5EPbMndWn3Ed5oRGI3p+58ikRjlueG/Jw2CTjjpHoGr61cRIVrQwyyQk3IiIUiueQzMoGWchh9TeVZgM9NZ/pb/AB1bT+0/9w6Kj4w9UvLn/9k=" />
 
 **Rainer:** Da wären Timek, Jay, Julian, Luke, Peet, Tom, Brian, Flo, Yannic und
 meine Wenigkeit, die als Admins hinter der VSC stecken, den Alltag regeln,
@@ -225,7 +225,7 @@ Vegan Sneaker Connection!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_Das-Logo-der-Vegan-Sneaker-Connection__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGAv/EACAQAAICAwACAwEAAAAAAAAAAAECAwQAESEiMQUGFHH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBgf/xAAaEQACAwEBAAAAAAAAAAAAAAABAwACEQRB/9oADAMBAAIRAxEAPwCgD+W94g+4y2nb42tFY/NSsSSJYmDMpHh4AFe7332BzvMbByGVhrY7hqWBL4SwV3RvatGCD/Rmf8jKqdVlhueSk6FlizQHNk/9KsTP8daSae1YghnaKvPaULJIoA3zZ4G2Ad46eXQ5m5LJjIRIYFReACMaAwKVz31h6rhrbMAzfIkUNKCpO5P/2Q==" />
 
 ## Nachtrag vom 20. Juli 2018
 

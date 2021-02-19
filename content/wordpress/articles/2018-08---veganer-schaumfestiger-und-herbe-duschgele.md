@@ -69,7 +69,7 @@ Wandmosaik aus Thailand.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43104110834_95d690bd02_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43104110834_95d690bd02_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcGCAIDBP/EACoQAAIBAwIGAgAHAAAAAAAAAAECAwQFEQAGBxITITFBIlEyYXGRobHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQDBv/EACQRAAEEAQMDBQAAAAAAAAAAAAEAAgMRBBIhMQVBsQYiNHGB/9oADAMBAAIRAxEAPwBMU1P3Gf21Z/hRPJW7CsxiAZoonpmHRQ4ZCQpBI+sZ0itp7XqL9HNKJVo6aMhRNLGzLI5OORceT7P12+9PHg9TSWrb9fb2qo52pqtmUqnKOV0U+G7+QdBesJSzCDonUWuBNXxRB4+wk7Y46L3WG8prstTPGK9I6HxElIoSTnBGA5/EVzkEjse36arhu+oluF8rJpZnm5XMSs7ZPKpx/edNi8XYxbpvVxjmlaWKump4nYkJ8FXuvKPILZ84zg6U9xDVFRNM2OpK7SN+ZJJJ/nT/AE34cN86G+Aj8VpM7ye1+VMrLuuXb23pKVaZZYuozqxzkEkHAwPsZzrRQ8TbzRR1goKOgDzIimTotlSpznOfln3nxk40aNT52NFI4te0EHkHcH8K6HGgjIst3K7rHxAs4pLgm4Nrx3Catr5K9m5vgnUC8yBW8DKjGfXn1qNz08QplKL3I9f7to0atxB7a7BYzQRxuJYKtf/Z" />
 
 Ich habe mich für den Festiger mit leichtem Halt entschieden, es gibt auch noch
 die Stufe "starker Halt". Außerdem ist auch ein veganes Haarspray neu im
@@ -100,7 +100,7 @@ viel von dem Produkt verwendet, damit die Haare nicht beschwert werden.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43104109554_4d5ea7caf6_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43104109554_4d5ea7caf6_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwcF/8QAJxAAAgEDBAEDBQEAAAAAAAAAAQIDBAURABIhMQYHQVETFCIycWH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQEC/8QAJREAAgIBAgQHAAAAAAAAAAAAAQIDEQAhUQQiMfASEzJBYXGx/9oADAMBAAIRAxEAPwDOIqcrR/XKHZnbv9iQMkDTR6ZWCHyi8fYT7oXPCl1OBwzZI4J/XXGnj+0oaRI6+NJGAn2PIRGinrIxy3Ge/wDOdad6H3620l/va3eVDUSrGkc6xlldVBJBwMLgY/udNbjnDMtcovX6rf5798tTllQ+HrmYeo1mpLT5BUUVvMphjZlBlI3ZBIPXyR1o0zes1db7p5fJLbSzRCCNWYxFAx5ORnsEEc++jTo2DoG3zI7KAt1yVr8AhqbLR1d6q66jqpW2mCKNWwmfxVgw4bOT30QMarpbbH4fdKoQyGvir9ihK2I4AD5YkpwTuAIwMgH+67lh80oI7fRx1tFJNOkSRyqASjbV2kg59xg+3Wo+TXGx3W1U1Kr1TSLU/XeeKPsbWyuGI4yR1jrUtY5JJalXlvXarBP5hojN5wL+nEC+VNRc7vJVTR7GmijkK7twUkfqOfjGAeQMaNU3iiVKtGoHd40jKb5sb2yACTjjvnv4+NGlxh41CKKA73zppJgxAGmf/9k=" />
 
 Mein Fazit ist also auf jeden Fall positiv. Für mich ist der Schaum eine
 willkommene Abwechslung zu meinem Salzwasserspray, das die Haare ja auf Dauer
@@ -140,7 +140,7 @@ Zitrusaromen überfordern die Nase nicht und wirken auf keinen Fall zu fruchtig.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28884414977_24929262e6_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_28884414977_24929262e6_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYD/8QAKRAAAQMDBAAEBwAAAAAAAAAAAQIDBAAREgUHITEGE0FxUWFygZGhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAAECBP/EACQRAAEEAAUEAwAAAAAAAAAAAAEAAgMRBAUGITESImGRcaGx/9oADAMBAAIRAxEAPwBUQ4eWBxHfdO/ZVTiNJ1OG0SFpdRISAgEEKGKgSfp4pb6ayhTSOMRbu1b/AGcKoviSXHUshL0UlFj2UqBAP2JoOpGSHLJTEacAD6IJ48WmxYC3ddd9chF0mE4Ei7jr1rAKsAEi9uPU0jZ0Ek3CePanJvPNaf8AFEVl14DyYoUq/Fslnr8VhJ0doRzgcjbsVnTW+WREmybPtxI+lBHTVDRpam4wyAIt0f5VqphUaCuYnV0uTnMkJiNtLUgDIcrc6HHw/dFFNpm9dNtFDQ+NzXcEKk1aJN1DVbynw80GrKeXxZKSrFHryOwPnQ8tDEfyQSU2vkvs+9FFXFCyIdoXJg8RJPg43SGzXx+L/9k=" />
 
 <small> \_\_<sub>
 
@@ -157,7 +157,7 @@ die Zitronenvariante morgens vor dem Frühstück.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43772542812_72f23f49ef_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_43772542812_72f23f49ef_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACgQAAEDAwIFBAMAAAAAAAAAAAECAwQAESEFEhMiMUFRBzJhcQYVgf/EABgBAAMBAQAAAAAAAAAAAAAAAAACBAMF/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAwQREiEUMUFR8P/aAAwDAQACEQMRAD8Ax+NE3Jv0/laz6SJcELVmmI+mqCFsurdlR0OOoQbpPD3gp8Y82+apGmxmVspAAz5OKmdBjOJmSEO8QsIaU+eGq3tIsT5sT2q/UEczqXakW7ERfqA8XpbEJSwtDCN+7hIQVFRIBO1I7Cs/mw7LJSOX6q5/kGofudbUtx5u7aEtA3sEpHROScZxmmU2IhuMSCCbdqUdoWlM9OuZx0GQpthIdttIyFGn7zmpMykLhP7o7wLb3EB28MkbgfgY6C+KKKHTdcGWJyhUjIIMi9T0iVJ1p1T0oOMhtF3jy228qUAAnKQOl+9PJC0NRQzcnaPcrqr7oopaVNUGR5mFtUZrWnt6H3E//9k=" />
 
 ## Newcomer aus der Tube
 
@@ -182,7 +182,7 @@ Haarspray und -Festiger in Glasflaschen zu verpacken.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42917272255_56ab253d51_z-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_42917272255_56ab253d51_z-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgIH/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAAFEQYSIRMxUQciQRQWMmJhceH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFA//EACURAAIBAwIFBQAAAAAAAAAAAAEDAgAEESFBBTFRYZESExShsf/aAAwDAQACEQMRAD8A8ctkMLCeMjxVkREtpzt/2ndO6fuk+Ml6HDcXHyQHSpKEkjGRlRHkVoYmiNQz3iyxb1qVk8l1GDj5BzyP5FJzuEJGWTAx1IFMxlDlnWs/pJXQ1XbHGXEMLTJSA6tIUEZ9uSD3HNW9fyboi3vfUXB+QglMZbrZww4olX44AGNiTx5BNU4/pVeW97k2XbYwSoBaeqpa08/qOPPeufVK3Jt2mreI80PxnpbqNob2pJQhJ3AkknvjJ8UcrjVhdOCEsEp9s7d8Y+6PvFSm5chy380zbrlZodujIjvIDjbe2NHKgQQvk9yfdk5/sUre9USLdJQxpQCehyKpL0hZCUsuKWo4SeCojznHaiipfAVdZW7UVe1WA3171F+69cRreGeupxpQ2lLgQ6oA/tjdxjA5pG9amvuoIrMO8oAjod642kZ3bSnnPu7Y+T2ooqyeDWlu33VQAI6YH5SLpCY1A8V//9k=" />
 
 Was ich außerdem auf jeden Fall kaufen würde, sind feste Duschgele oder Seifen
 in den beiden tollen Duftrichtungen. Mal sehen, was die Zukunft noch so bringt!

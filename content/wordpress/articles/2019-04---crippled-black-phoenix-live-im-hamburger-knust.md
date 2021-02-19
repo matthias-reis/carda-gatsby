@@ -75,6 +75,6 @@ Mobiltelefon aufs Knöpfchen gedrückt. Dem entsprechend sind meine Bilder keine
 fotografischen Meisterwerke. Aber ich denke, man bekommt zumindest einen kleinen
 Eindruck.
 
-[glry name="2019-03-24-crippled-black-phoenix-knust"]
+<Gallery name="glry2019-03-24-crippled-black-phoenix-knust" />
 
   

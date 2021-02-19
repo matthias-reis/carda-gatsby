@@ -50,7 +50,7 @@ und die Torte noch leckerer als früher.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYH/8QAKhAAAQMDAwMEAQUAAAAAAAAAAQIDBAUGEQASIRMxQQcUImFRFRYyQnH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQB/8QAIREAAgIABQUAAAAAAAAAAAAAAAECERITITFBMlFxkfD/2gAMAwEAAhEDEQA/AK22PeSvdC34xnMMbvcPB3pxlBKM9PfjJOAeBk8+NTYv7gWaJUaUKI8xVHWWorTFSUVEqBUUEHn44O7PbHnT6XTHK3eqokigxHIlvtiO41CqqmnXm1HDasDbkpAwd2M5Izq1iRLdrlbnw7ct+REuKHKS9GeQ4mKIg2ABZKicDOcpSlWSBnUxWoRWlfexSa825P8A0evwnKRWckBuQAG3OSMoWOCDjg9jo1nqhAXOo1WoUmn1Sr3dFXuXVOkXkLczuCErJHTSeUlPHfPfRrbfYbLi+aHS6NVYlXk0/wBMKYplc5tKp09TuGUJxlICyf5Z3KJT5OMaSu8KUzYtLfoVMqLUynp+FYQ0lHQlL7pUonKkkZJzwv8A3GszYfqdNtmEYMuGHVxmunF6YKSPGFpPGO3I+/zra2hddrW16awqVNHvHKg041MZQ0V7VKHyCx9dh57H70Ogi3yrJ0ti47OYq1wTarAqzExrrvRlpUztzt+TfcDjx5H3o1zmSq577iQ2JCd9LpiC2284NqEoBO3ev+69u0cfjRpfA+KEevc//9k=" />
 
 Als ich zwischen den Jahren endlich mal wieder bei meinen Eltern war, habe ich
 nicht nur Fotos von der Linzer Torte gemacht, sondern mir von meiner Mutter auch
@@ -86,7 +86,7 @@ auf einer Reise in diese Gefilde kennen und lieben gelernt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_2019-12-24-linzer-torte-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcD/8QALBAAAQQBAwIEBQUAAAAAAAAAAQIDBBEFAAYhEjEHExRhFSJBgaEjQlFxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDETESIf/aAAwDAQACEQMRAD8AqUyFvDO5z4XHdkrClqbLpeQGkoSo2uwaHYdxzrnK29uzDbj9CGHZDznUw2+090UKuyR24r/Na5ttliBLypaZaVNjyQttsItbiHR1H8hQv21kma3nNVvSblsCp2P5L5cDayFIcUflUlftV1786y6Ohjp1xDDDx93Qd44uFmTJYaceHTIU+stJA5UFc0bSKogaNaNtjML3LHfyeUShEBMQH9Pm1OfLwodlABX9Xo0k0iGTdPhXPExU+FkcbOw76Yy30mM+6WvMtFhVV3P1P21GN4X4ibthDsVa4aiT0zZJUFk2ekraNhV2P4FaYbglIcwwfeHV6V1uRXslQv8ABOmjG5pWN2ZGQtxkv+Y9HSl4lxTyUKIHJ/dZB7VzWjwUXSWpFnhpg0YrabDsiO0iYtxy1JNjpBKePp0mifvo09ddREgMRWqCGG0tiu3ArRpr4SuvTbP/2Q==" />
 
 Lasst das Fett in einem Topf langsam zergehen und rührt es, bis es schön
 schaumig ist. Anschließend rührt ihr den Zitronenabrieb und den Zucker unter.

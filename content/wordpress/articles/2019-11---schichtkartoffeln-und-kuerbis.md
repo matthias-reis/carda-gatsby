@@ -69,7 +69,7 @@ Halbiert den Kürbis, entnehmt die Kerne mit einem Löffel und legt ihn auf eine
 Ofenrost. In die Mitte zwischen die zwei Hälften stellt Ihr die Backform mit den
 Kartoffelnscheiben.
 
-[glry name="2019-11-04-schichtkartoffeln"]
+<Gallery name="glry2019-11-04-schichtkartoffeln" />
 
 Schneidet das Tofu in Würfel und gebt es in die das ausgehöhlte Kerngehäuse.
 Träufelt auch hier etwas Öl darüber und würzt den Kürbis mir Meersalz und
@@ -91,7 +91,7 @@ säuerlich.
 
 Guten Appetit!
 
-[glry name="kartoffeln-gar"]
+<Gallery name="glrykartoffeln-gar" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und einen Affiliate Link. Der Inhalt
 und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

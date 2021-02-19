@@ -47,7 +47,7 @@ gebannt der Musik.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_IMG_9136__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_IMG_9136__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYFBwMECP/EACgQAAICAQMDBAEFAAAAAAAAAAECAwQRAAUhBhIxEyJBYQcUUVKBof/EABkBAAEFAAAAAAAAAAAAAAAAAAQAAQIDBf/EACYRAAIBAwEHBQAAAAAAAAAAAAECEQADIQQSMUFhgZHwBRRRsdH/2gAMAwEAAhEDEQA/AOcqF6epC8UYGHBBJGdSJ2OUdLpu7WanZJOYY63cfWcDguB/EHjTNukVaTZ7duDpeFP09cSST15crASwCsUI5Unj6zrSq7xC23bUl92mSvOe2m6AxrG3LFG8qc4OPB86WjRris+zBHAnf2JoDVW9hg2nIacmJzE4yBxpMTa7lgkw1pXA89qE6NWktzfbFyzL0bXurQJClYYw6AgfGfB8+NGh5vNlRjrUVT1W4odLIAPySD1wawVt1qQdUv0/viSbdQ3KA07NiXCrGjjKuB89rqvOccHOp7pX8V7hT2S31Lfl2eZK479tXcrhqQTyI/Eg8BoyuGBLLk/XOqx6k3WDdlr9o9Z4xn1JiA2AgJUIPC92fnnOcDS9JF3e6NQzshZgF+/IHx/Wm07MqiTHm+ti4FQQAMZ5Z4Z8zTvNJY3C5MvUMs0xiCmGOtaSONA/uJUBSCrE8H9h86NJ0tw3IYnn7EkQemCi4yoAxn/dGqjYdskx3/aK95s4USOcT9V//9k=" />
 
 [](/wp-content/uploads/2009/10/IMG_9136.jpg) Im Laufe des Abends wurde noch ein
 neuer Song vorgestellt: "Du bist es mir wert", beide neuen Songs wurden vom
@@ -71,7 +71,7 @@ uns auf den nächsten Auftritt am 19. November in der legendären Mahagoni Bar!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9178__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2009_10_MG_9178__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQFAwYI/8QAKBAAAgIBAgQFBQAAAAAAAAAAAQIDEQQABRIhMUEGExRRYSIjQlKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAhEQEBAAEDAwUAAAAAAAAAAAABAgADERIhIjFBUWFxwf/aAAwDAQACEQMRAD8A5V03t+35e4ySJhQtM6IZGC9lHXWKbHliFyRsoNdvfnq/4Uz8Db8fOyM2af1ESBsXFiT6ZZhZR3b9UamrvQHS9PSJuwfGDVNSZeB1+c1xlKsVYFWBog9Rpxo8KVPsTGEpjh2GRZ45AeapwjvdjirpV9Ld3aDEy90mm2/ILwSxCe5AQfMKBnj6cyGLC+9alGHhpWNSn8T2Hz86ne3JkcpsyFV65cXdfU5GXJl4sWSZrkJnZ3YWvM8RNk8upP8ANQiR5j8IIWzQJvRo1LTkldspbv3Pu/mUfDuSYMo0XDKGkUqwFFUb3B99TpX82QuQeJiWJJuydGjSJOa4aVgPvP/Z" />
 
 **Setlist des Abends:** 1. Eigentlich
 

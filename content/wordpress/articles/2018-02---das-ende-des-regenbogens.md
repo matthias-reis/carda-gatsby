@@ -56,7 +56,7 @@ Wahrzeichen von Irland.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224300371_ce2a1edc82_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_02_40224300371_ce2a1edc82_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAApEAACAgEDAgUEAwAAAAAAAAABAgMEEQAFBhMxEiEiQXEjQlFhgbHR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQAEBQb/xAAfEQABBAEFAQAAAAAAAAAAAAABAAIDEQUEEiEiMUH/2gAMAwEAAhEDEQA/AHu3SyQOpaM4Az6s/wBa6Wpu2QCPGhPskZ1HNj5/uHTWv1K8sJZQJ2hAcD3J9Q/38a3ch55uNyrPU2qCuEkHh6iwNHIAD5sCXOO38aHZFruDYKrCA/FWHvmTLStIPlTrBasTlWKElO2QdSzjnK7ux17M1mCK7NInomsMzFcA4A9QAGf1pRZ5jvN+VbFi7ICCGQoMiIkjsuO2dQZCh1FpMO30pdxZaNLxT7rE8txnVYIFlAjVPdnOe+P1rrbdulMfp0KwkcE9NXeQjPbz+0D50aNc9Py61oNNdQlNja59zpMFr9Xq5Ak8IQowPz5jywff50gvcfsQU2jgLYV1RwiEuQQSTj8ZHbOcE6NGiDVPZLtHgKXxhzbK/9k=" />
 
 Ein Leprechaun übergibt seinen Topf mit Gold dem Menschen, der es schafft, ihm
 das Geheimnis des Ortes zu entlocken, an dem sich der Schatz genau befindet. Die
@@ -74,8 +74,9 @@ Die Irischen Kobolde sind die Schuhmacher der Feen und werden zumeist als
 kleine, grün gekleidete Männchen mit roten Haaren und Hut dargestellt.
 
 Wir haben in Irland sogar einen doppelten Regenbogen gesehen. Das war sicher ein
-guter Tag für die Leprechauns. &lt;3 [myflickr
-tag="regenbogenleprechaunsanne2017"]
+guter Tag für die Leprechauns. &lt;3
+
+<Gallery name="flickr/regenbogenleprechaunsanne2017" />
 
 ## Wegweiser Irland 2017
 

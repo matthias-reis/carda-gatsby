@@ -52,7 +52,8 @@ date: 2012-08-15T18:15:14.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors: {}
+errors:
+  outsideImage: article has at least one image from another domain
 thumbnailId: "18195"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Eis__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_08_Eis__l.jpg

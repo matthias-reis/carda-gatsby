@@ -39,7 +39,7 @@ subTitle: Planten un Blomen im Winterlicht
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23568568724_f673694ce4_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_23568568724_f673694ce4_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAArEAACAQMDAwIFBQAAAAAAAAABAgMEBREAEiEGEzFBYRUiI1FxBxQyobH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACETEDITLB/9oADAMBAAIRAxEAPwDP0bZKS8K06RtLBFGYl3hkCHcWwCo5zkfMMYOB+e5rf0+6NitCVM9MUDKD3GqGUucjIBP8hn21EulevL9Z6OpkpHdKWdSG+mNj+mV3eo45XnxrFV9a3ZqhpFmqX3xdkoQXUDGAQMkBvfWevJfz9lrVpuVO7dC9ORr3SsNFSRRmaR46ve8ijgk8YCA/bOkZpekEpFqLbbblco2Xckn70RRN6cs2COfbUv8Aj9Wapt8LTTODH9ZNz/bHzePx7aXXaoqHcZpSrHztiXP9a0VOs2ZC1jOCMSxtdukvFwJukqhUWOfgDJAznk8AcDxpTXdYrVtE/wAO7E8S4SSmqWhwp8jCgZ0aNAAuIzoixboUqTPEkis/BzKW/wB03SonkpWmjlIVVZtrqpzgZ8gDRo0NR2REHc//2Q==" />
 
 **Am 24. Dezember machten wir einen kleinen Spaziergang durch
 [Planten un Blomen](/2015/06/planten-un-blomen/). **
@@ -56,7 +56,7 @@ ich sogar ins Monochrome gedreht, sie bilden einen willkommenen Kontrast zu den
 kräftigen, manchmal fast schon übersteuert wirkenden Farben des warmen
 Wintertages, finde ich. Seht Ihr das ähnlich?
 
-[myflickr tag="anneweihnachtenplantenunblomen2015"]
+<Gallery name="flickr/anneweihnachtenplantenunblomen2015" />
 
 ## Wegweiser Planten un Blomen
 

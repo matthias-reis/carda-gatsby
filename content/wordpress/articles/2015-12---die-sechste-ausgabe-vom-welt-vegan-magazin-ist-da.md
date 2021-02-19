@@ -25,8 +25,7 @@ date: 2015-12-05T18:43:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "13372"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__l.jpg
@@ -41,7 +40,7 @@ subTitle: Zwei Artikel aus meiner Feder
   title="Der Wohlfühl-Guide aus meiner Feder"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23541526255_c611b222df_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23541526255_c611b222df_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBgcF/8QALBAAAgEDAgMHBAMAAAAAAAAAAQIDBAURACEGEiIHEzEyUXGBFBZBYSOh0v/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAIFBv/EABoRAQADAAMAAAAAAAAAAAAAAAEAAhESIbH/2gAMAwEAAhEDEQA/AMatFq51V35cllQZOOpj0j3ODtrtSUNJTHFTMqsvm5Y3YD5A3+M6tnZ9a45+GKm5l2Ssiqg9PhQ46EIJIPoXyP2PfUXiqOlvcLPbpRLWLF/JBP4qceZSOnB9hjWC2bW9nQ1CtY3huhvl74futq4fjrXhDI00DyGn6GJwe7Y4P5Gx/O41Q+ILBU2qtqKOuhMNVA3K6Eg4OAfEbHYjWmdnDVDcRR2marglmntUc61KluaZVPgWxkEKcEHcY8SMaO2q2/T1lvqmkZ2nphDJIwwWeM/5IHxpuoDFGKkz6y3qpgoKRaeWaERRlW5HHWS5Yk5U+uPbTvuJEkdFo2YSAq3PMT5s7gYwDvo0aKAslVQj7Lfqm03ujusMNPJUUsTQx94ZN0KkENh8Hb9DUvjbjWp4jpo6apo6eHun7xXjLZzjBG5Pr/WjRobqbLcSp1P/2Q==" />
 
 **Die neue Ausgabe vom Welt Vegan Magazin ist da! Das Cover ziert dieses Mal
 Nova Meierhenrich, die derzeit PETA bei der Anti-Pelzkampagne unterstützt. Und
@@ -60,7 +59,7 @@ erwarten Euch.
   title="Die Klimakonferenz in Paris"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23515469656_e92f3c09fc_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_12_23515469656_e92f3c09fc_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIQYTFDFBkQdRcSJSgaLh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIFAwT/xAAfEQEAAgEEAwEAAAAAAAAAAAABAAIRAxIhQRMjceH/2gAMAwEAAhEDEQA/AItRUUEEcZnkCtIMqAjMSAcew++tuOmpoxH26WrnlZgqJ47xq5JxjcRx8HTB0xbbgvi1NUYls6LHGEkp45S8jDOAQ4YZZiMnGMaoN9q2pujam7WyEmjpQDLMjKO3sfDDly4Kn3UE8aivjUHK/fyXCzUccHyKj9DXGaypRzGOkZnB7bIZW55C7lI4yf25GPU6lVwtrQmRWQqykqQfYjgj51fujlpL+lX49Z3DQTpl+7MxZJBvHMn6lOQ3zkaQvqzb4qHqq5iMbYahvJTP2k5P9tw0LLRGGuLiYi90jcr9S9+K3XOmhp3kkmMUlCko3Fs5O71I4x+NafUNRdq+0VE9/u89wSGIypCkaQIpHPCgEfzg6NGtrOLzmqZrzEa2dQvLXzT2419sebaJPErnTdtGBnA5/wBOta7XGpqaaJKmpqqp48gTVUxlchuduT7A5x+To0abX4vt6jaB693c/9k=" />
 
 Aus meiner Feder stammt ein Wellness-Sonderteil mit dem Titel "Kleine Auszeit
 für die Seele - Ein Wohlfühl-Guide für die Kalte Jahreszeit" (Ab Seite 80) sowie
@@ -79,8 +78,9 @@ noch jemanden sucht, der das übernimmt: Ich freue mich immer über
 Und jetzt viel Spaß mit der neuen Ausgabe vom Welt Vegan Magazin! Habt eine
 gemütliche Vorweihnachtszeit!
 
-[gallery type="rectangular" link="none" size="medium"
-ids="13372,13371,13373,13369,13370,13368"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23541563825_1145b80465_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23541526255_c611b222df_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23541526255_c611b222df_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23541534065_0654b4c275_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23541534065_0654b4c275_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23173575869_88f9251a6e_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23173575869_88f9251a6e_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23515469656_e92f3c09fc_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_23515469656_e92f3c09fc_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_22914468173_b6bc2aff08_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_12_22914468173_b6bc2aff08_z__l.jpg"}]}
+/>
 
 ## Wegweiser Welt Vegan Magazin1. [1/2015 "Superfood Lexikon"](/2015/04/mein-erster-artikel-im-welt-vegan-magazin/)
 

@@ -31,8 +31,7 @@ date: 2015-09-21T15:40:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "12781"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-19__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-19__l.jpg
@@ -47,7 +46,7 @@ subTitle: Schritt-für-Schritt-Anleitung
   title="Da war es noch ein Jutesack"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAsEAACAQMCBgAEBwAAAAAAAAABAgMEBREABgcSExQhMRUiQWIWUWGSocPT/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAH/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIhEQMx/9oADAMBAAIRAxEAPwCE4QWNK/c8PWjjkhgp5p5FlUMuAmPIPj22tAtd0m+J9oJLX2PbGaPnpIunM4AyI08kSfaQMgfrqb4ZydltveFyRSWjt3bx4+rOT4/hdKtvbkr7HXKzKsY6UihWCssj4BXmHMDy86pnJ9Z1HiXfWWPSlLSNWu1XHVSUNvoaGlilq3ZKmOWKBOgqKDzsrDlOSfGMk+ceAdZrxk24lvvNHVwxLFFWU4BVAAA6eCPHj0V9a5L3vrcO5UhavhhhqEnWVVpVUKQqMC5+Y/MCcDxnGn1xuEm5eF1RLWoRcLTWdTlOMiJgD9PtY/t0dQ5XQY9FT4KeGd7SksVXDPRpUxzznqI7DlYBVwCCDq6g3ZbaVRy7aovf05B/Xo0aVS48HTq057hxLpY8n8N0xb3nqJ/nqNvvEzuaeaAWWFIpEZGUTYGCCD6Ufno0a7O/TUklh//Z" />
 
 **Was haben Nerds, Hipster, Rocker, Hip Hopper, Althippies, Models,
 Kaffeetanten, Banker, Sportler und Schulkinder gemeinsam? Ganz genau, sie alle
@@ -76,7 +75,9 @@ Tunnelzug links und rechts zusammenhalten, auf und vernäht die nun
 offenliegenden Nahtzugaben mit einer sauberen Steppnaht ringsherum mit Nadel und
 Faden. Jetzt habt Ihr einen zwei saubere Tunnelzüge, die braucht Ihr nachher.
 
-[gallery type="columns" link="none" ids="12782,12783,12784,12785"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-61__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-61__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-71__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-71__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-81__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-81__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-91__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-91__l.jpg"}]}
+/>
 
 Mit der Nähmaschine näht Ihr nun die Hauptnaht rund um den Tunnelzug noch mal
 nach, beim Abtrennen der Träger habt Ihr sie sehr wahrscheinlich beschädigt, sie
@@ -86,7 +87,9 @@ Verseht beide Kordeln vorne und hinten mit einem festen Knoten und zieht sie mit
 der Sicherheitsnadel durch beide Tunnelzüge. Eine von links und eine von rechts.
 Jetzt sollten an beiden Seiten zwei Kordelenden heraushängen.
 
-[gallery type="columns" link="none" ids="12787,12786"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-111__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-111__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-101__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-101__l.jpg"}]}
+/>
 
 Schnappt Euch das Geodreieck und zeichnet an den beiden unteren Ecken des
 Beutels je ein sauberes Dreieck ein. Messt dazu von der Spitze aus an jeder
@@ -100,7 +103,9 @@ Knopfloch, sodass die Knoten auf der Vorderseite des Turnbeutels liegen.
 Verknotet die Enden, auf beiden Seiten sollte jetzt je ein größer Knoten über
 zwei kleineren Knoten sitzen.
 
-[gallery type="columns" link="none" ids="12788,12789,12790,12791"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-13__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-13__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-14__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-14__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-15__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-15__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-16__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-16__l.jpg"}]}
+/>
 
 Voilá: Fertig ist der Jutebeutel-Rucksack. Überziehen und losrocken!
 
@@ -110,7 +115,7 @@ Voilá: Fertig ist der Jutebeutel-Rucksack. Überziehen und losrocken!
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-21__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_09_DIY-Turnbeutel-21__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcEBQIDBv/EACgQAAIBBAEEAAYDAAAAAAAAAAECAwAEBREhBhITMQcUIkFRcTJCYf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgUG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMSISL/2gAMAwEAAhEDEQA/AO66VxSMkZYfiq7LZ2TFWuGsMNZx3GQMTXTF0BVAASQzbHZ9JY7/AMq36ZyUSwRszqqrrZY6A/dJpuqbSPqW8vspbte4uGWUx+P+bIGKr27OvR5APonjms9jUtcvsjVVx14i8myePuhexFXiv4lV/ljErFZUVipJPeN/243U7M23h26capUdKfEy2XP26xRuMTNLGQkjdxjR+CSNnWmAbnn2aaOfyURt2ZXDKQdEfeh1K8MEOxsRUYbJTKgUHg/attzg8beyeY2kUc55LINb/YHuiih/JsSa+h2SMbgrGzk85iEjqdgHhQfzqss5lJ3Uj0B6ANFFJDs3YyKHJ//Z" />
 
 Und weil ich lustige Dinge liebe, an dieser Stelle noch ein tolles Video für
 Euch. Kuckt Euch das unbedingt an! Selbstironie und so. :-P

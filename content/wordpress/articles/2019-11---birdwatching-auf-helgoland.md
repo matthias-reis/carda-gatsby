@@ -64,7 +64,7 @@ Herbstwetter.
 Was an Helgoland besonders toll ist: man begegnet dort nicht nur Tieren, sondern
 trifft auch nicht selten auf naturbegeisterte Exemplare der Gattung Mensch.
 
-[glry name="1helgoland"]
+<Gallery name="glry1helgoland" />
 
 Bei meinem letzten Besuch dort war es eine Meeresbiologin gewesen, die mich in
 die faszinierende Welt der Quallen einführte und mir einige Seehunde
@@ -102,7 +102,7 @@ bereits ein Jahr später wieder zur Brutstätte zurück. Die größte Bedrohung 
 Basstölpel ist der Mensch. Anfang des 20. Jahrhunderts stand die Gattung kurz
 vor der Ausrottung.
 
-[glry name="2helgoland"]
+<Gallery name="glry2helgoland" />
 
 ## Bedrohung durch den Menschen
 
@@ -130,6 +130,6 @@ liegt bei zwei Grad, was für unsere Breitengrade sehr mild ist. Im Sommer ist e
 meistens um die zwanzig Grad. Das macht die Nordseeinsel für Besucher besonders
 attraktiv.
 
-[glry name="3helgoland"]
+<Gallery name="glry3helgoland" />
 
   

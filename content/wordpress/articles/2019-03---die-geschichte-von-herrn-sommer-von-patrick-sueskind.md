@@ -82,7 +82,8 @@ title="[ ](https://amzn.to/2HvCs4m) "Die Geschichte von Herrn Sommer" - eine
 Novelle von Patrick Süskind"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAArEAACAQIFAQYHAAAAAAAAAAABAgMEEQAFEiExBhMUMkFRYQcVcYGRwfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUB/8QAIhEAAgICAgAHAAAAAAAAAAAAAQIAAxESBCETIkFxgZHB/9oADAMBAAIRAxEAPwB3qJq6DMY4RPUI2koiRSkarM1uNhx54Wp/nccaqaqsVLjWBMBf1Ozf1sVOoUqaLq2vRis7RyTLHoisY1eRmUehIBAxqhq61qZVjdJKuIBZHKBbtbkrvbE+zKkjqOVgMJz6aheenzLvMlRI8iiNZHla8QPiYAm17Wtf7YMZy+OpkimMk8qSSzxRalUDfV2ljfax7Mg+18GNWuxvMr4H3BMVBwwlP4ghT1bmAhBvKEks2xBKA2/IxIo7zQRzCZ1ZGGtdTbem1+DxiAnUb5xMmYZhHGglVQHVdBYDa9uABsPrixRVNAbhGcNfyHPvzx+8Q7uZZljr1kx6pV1HtKcdTX0jrPlmXTVc7CRdSLdVFgd7kYMP5TW9O9wqKfMaSiripJHbyqh48K3O/nxgw5w+fR4QFrYYemD+QNqvudR18T//2Q=="
+/>
 
 Der Junge kommt dem Rästel um den aktiven Herrn nach und nach auf die Spur,
 erkennt dessen Einsamkeit und ist gebannt von der Tragik seines Daseins. Ganz
@@ -139,7 +140,8 @@ title="[ ](https://amzn.to/2HvCs4m) "Die Geschichte von Herrn Sommer" - meine
 Empfehlung"
 mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-1__m.jpg"
 largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-1__l.jpg"
-loadingUrl="undefined" />
+loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwACBAUG/8QAKBAAAgECBAUFAQEAAAAAAAAAAQIDBBEABRJBEyEiMTIGBxRRkULB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQL/xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAwQSISLB/9oADAMBAAIRAxEAPwDzGQ5q5qstpmqJ2o5ZIoWEc7aTGWAHicJBy+onll4EcKwIeGxkQG5UkdrHt94DMvd/lUckfyoq6Mu0ZkWyvHqDWsfHTbuLg4cMwQ8dWeQnSzvT6gbjXzIJFhzvvfCOmgbl9lEAAX3OL6ypWfI6pDUxLPTxiaMg6R0+VxzsNJP4eWDr5UVFClLNPHO7DqJXUl9I0kHc2I+u2FunejmIEkDqzx2kY+LA9LD8O+AT1DTZhHnUmWJG8ho7wowAUSqDYFm5bAc77Ym1hBcMIJ0vuOdV7VZXXzGmosweFTFxIHbUAUa4JBU2HcX6dzjGslDKKeoZllgAiO5DILf5ixYcyquM2oqHT0KM0RNLHGzEhNV/IgEgbmxJwWe5tG+bZ1xsuVamOenRpWiFxHMvTfn/ACwC3t9A7YsWAcy1XNlBU//Z"
+/>
 
 _\*Hinweis: Dieser Beitrag enthält einen Affiliate Link. Der Inhalt und meine
 Meinung wurden dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in

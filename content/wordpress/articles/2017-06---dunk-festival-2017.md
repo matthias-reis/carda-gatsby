@@ -71,7 +71,7 @@ subTitle: Liebe auf den ersten Blick
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984055891_3adae7c598_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984055891_3adae7c598_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EAC0QAAIBAwMCBAQHAAAAAAAAAAECAwQFEQASIQYTIjFBUQcUMqEVIzNSYYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEGm6mtVqobvb6wVqNW1LtG8aA7Y97Ar9XHix9+dUT4eXSzXSuhi6fnneWlpsVE1VRrEdxkARjs4OFOB68DUKqGiqbXQ1c6y1jIZCxTwhwHBLN6jk+QH+a3+iViqrVUhJKhK+aIQvAjj84GUMJVz+3bgjPv78BY+qIkNnku6UcyXBWkRt8aq06lmRyQucjkfyBnI1MuorfS0dntlZTOTcIpfGN5OEBPhweACMH0zk6w7zQ3S3VApUgrHSOQrNtjLIxDAgg4yAVb7a1K+6CGslgkAho5cMC8ZKTSgEhVbHmBgYzzk6CdUtbWRNsTvqwyFAjPGSDwMe4B/rTt0wnyLS3SClqIq8yx9qnT9Pt8GTOfI5JI9gMaNGgYurblWzN+IW6VqVnHbqDJtjPbxwBwcnz0pM0tzRe44aihOIVIBZCfrxkcZ499GjQf/2Q==" />
 
 **Schon ewig liege ich Euch mit dem
 [Dunk!festival](/2017/02/dunkfestival-2016-wir-sind-auch-dabei/) in den Ohren.
@@ -111,7 +111,7 @@ Bisschen befangen bin.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_06_34984028381_15860917b1_k__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHAwT/xAApEAABAwQBAwIHAQAAAAAAAAABAgMRAAQFIRIGMUFRgRMUFSIycZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMRMSH/2gAMAwEAAhEDEQA/AN8bjLZ1RL7FsSAPvKNRPrTv6VjWTBt7T4k8YSiSSdwADPassZfDhzbTyIHY6mPE13NOG3QZStStltYHIEKVM67HcH9V1NA0R5rHYti1St5plDU9kGNkToTvRmpD1f08lpxxfy6m1bCk85g/yrldJYs0rUlKlDjtZgkACe/gT4qU9e5MOKcQ2QUndGTUV6HHLg5tsi7bqCvzQVRxJ9/9pqc/cW8tgFQLYUDI1312ooqiMYty2duFtrTuOAmTIM+1S/qC6cccWvQHgem6KKheuDqP/9k=" />
 
 Dicht auf den Fersen sind der russischen Band, die sich nach einem chinesischen
 Gebäck benannt hat, AND SO I WATCH YOU FROM AFAR, ARMS AND SLEEPERS, PG.LOST,
@@ -138,7 +138,7 @@ Ohren verschossen? Uns ging es mit dem Dunk!festival so. Und genau aus diesem
 Grund denken wir auch jetzt schon darüber nach, nächstes Jahr wieder
 hinzufahren.
 
-[myflickr tag="annednk17"]
+<Gallery name="flickr/annednk17" />
 
 ## Wegweiser DUNK!festival
 

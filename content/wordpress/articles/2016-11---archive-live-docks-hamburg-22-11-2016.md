@@ -28,8 +28,7 @@ date: 2016-11-23T16:22:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "15314"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__l.jpg
@@ -44,7 +43,7 @@ subTitle: Kings Of The False Foundation Tour
   title="Ein Herzliches Willkommen"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31190150605_143a91eef8_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_11_31190150605_143a91eef8_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwACAwQFBgj/xAAuEAACAQIEAwYGAwAAAAAAAAABAgMEEQAFEiEGEyIHFDFBUXEVMlJisdGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAb/xAAjEQACAQIEBwAAAAAAAAAAAAABAgADBAUREiExMjPB0eHw/9oADAMBAAIRAxEAPwAe09KiRVDSXERqp2Yr46Qtv3ga18ZaZNKn5fL3ODBVxxwZbKrMC1pHNvvu34GIMg7NaXOcty/Mq/N+RHVmUQ0sKhWbljfrY21E2UAKSSwxRRqqgLtNxjyKVp01479vEDwg336reS7n9YquqajaRfH0OOkuDMv7PoeIfhlDQUeYxVFFUT09RXMZXlQK5RrEhQRy2DDSCCRgXx5Bw00atIahHIBZRLsp9N8NTuwxIIImWuLUqoK7/epXm41qFkZooYjNe9zcqOgKLC/uf5xiuIM1zCo4cyCnqu7d3ppKl6Z45VaXrZC2tQxKgFem4F97Xxq+o+p/vEj1Mz06QM5MSMXC2GxNrn/BilaKryiFdYhWuuqc4+sq5KpYBISeTHy12AsNTN5AfUfG5/AclbUIiqsgCgWAsMVcLC6RItRzzn//2Q==" />
 
 **Gestern Abend war endlich mal wieder ein Konzertbesuch an der Reihe. Die Ehre
 gaben sich keine Geringeren, als Archive aus London.**
@@ -66,8 +65,9 @@ Da ich mir das Mitbringen von Kamera-Equipment
 Instagram-Bilder für Euch. Im Anschluss gibt es dann das von mir vermisste Lied
 für Euch.
 
-[gallery type="rectangular" size="large" link="none"
-ids="15312,15313,15316,15315,15314"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30369009174_a48545ee4c_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30369009174_a48545ee4c_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30822969060_0f6b91a4ce_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30822969060_0f6b91a4ce_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30823143490_000af8dfcf_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30823143490_000af8dfcf_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31190150605_143a91eef8_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_31190150605_143a91eef8_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_11_30823080470_b3a0fdc169_z__l.jpg"}]}
+/>
 
 <iframe src="https://www.youtube.com/embed/A4gBzUwo6Iw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

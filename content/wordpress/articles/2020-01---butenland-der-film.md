@@ -57,7 +57,7 @@ Regisseur Marc Pierschel vergeben.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAwQH/8QAKBAAAQMEAgAGAgMAAAAAAAAAAQIDBAAFESEGEhMUIjFBUTJhcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAEF/8QAHxEAAgICAwADAAAAAAAAAAAAAQIAAxExExQhEkFR/9oADAMBAAIRAxEAPwCV5pEtF5kHkaYs7yqltw3W4aEl1p4DKXvbqoqBAwa1ZarVYW48W2MSZKletXnlIUpOT86wBonqNbpnw7nbttsaxLhT5DodUCpl1SA6pWCSoAY9IwM/WqlZCG5Sn5CHGmlHuGW3HO+ANJwRs6H1rVHtbkJ+X7F1LxgBT9TDy2Zx9jkjkliBIBKW1FDjycIUCFEp6/BwPfON1T26dGlQ7e48jy7z6C4EFSerYJ9PzklXuMDQI+6gIt4sLSG2brAdefC1+JLYUhZxn3KSkhQxj5GBmlTsp9BaUtRcdICgk7391eutow41qTsNUcod7ndX+SRGmwl8THQn0rPVLR/eAT1Cf6NKor1kk2ea5an3LBh1XiPRld1uFQ0CNaHUqAGAN0UVnoSvoiGAbcjRZrQq7vXCw3R1coha0sPsZ7AjYyTgnOc/zU0iyy5DsiReWZcRhOsoZB/wA/iP1RRTa7WBwfYZq1IzP//Z" />
 
 Nicht nur Marc und das Team vom Hof Butenland würden sich sehr freuen, wenn Ihr
 ins Kino geht, und Euch "Butenland der Film" anschaut. Auch ich wäre sehr
@@ -87,7 +87,7 @@ mit sogenannten "Nutztieren".
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-1__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2020_01_Design-ohne-Titel-1__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQH/8QAKRAAAgEDAQYGAwAAAAAAAAAAAQIDAAQRIQUSEyIxQQZhcaGxwTIzgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGhEBAQACAwAAAAAAAAAAAAAAAQACEiExQf/aAAwDAQACEQMRAD8A5p4Tutl2sDDalhDcz7rFuKp5lwAAjKdCDjoc5rFGZLeC3jBYNKSzBe5019etYdiFrgtbby/raZSw/EjGceopu9sZihL8MLp0BPz51HEGi8V7GF551jTmlZiBg5LHPvTa2gcwvCqsZVbO6FycjrShzFaRiNbjMpJw2RoOhNXW/lmRVEz6KEVQxACgY+KcdRJBsB0MXEl5WQGEHuQRkfftTOOVGGNxAuc9j9UUUSWRaoZgqvgLggDH99Km5An3OGV4oOF1xny1oop+QO7/2Q==" />
 
 Jede⋆r der⋆die den Film bisher gesehen hat, lobt ihn in den höchsten Tönen. Das
 sagen zum Beispiel die Tierrechtsaktivist⋆innen von PETA:

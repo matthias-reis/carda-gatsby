@@ -61,7 +61,7 @@ vielleicht schon in diesem Jahr. Im Vertrag stehen
   title="Bild: Swedish Energy Association"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_1.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_1.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAIAAAC1qksFAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADQUlEQVQ4y51V34/cNBC+fxTxDO8VEvwFgIQAVSAEOrUqHO0DqlSJB9C1vCAhjmOv+yNpskmcbHb3enebxEmc9cZ2HDO278gV2qPlkxU5k/F8M5/Hzl6eZ1VVK6UYEwDO//fgjPOuk7Lr+179jb0s22BcwUx/7eSbDqGHkJ1UJijrWNOWqu8GApxnRYENATCI1xwQlBsoqSA0MJU0R8WzADubMmnOEkLpxcUGaoIKMoxfiwCCWoAeoINOuVcNa1Y1mufTBQ6atrZZr5FT1o3j+nlRQAV5VVmJ3kAK0bHzZh3ms6hwMM21HSB1PdXPD/uWDxLlWVbYCgS/QY3epAxMmG6i3A2K2VmzbFmr+Tqwd7DHUBxozydvSaEzhu22m5xdVfASAo1OQJQdo2kVQr5GisZKD6y849bn0h/M6bu9pMpWdFXBSyQCTYDQJv68Tr1sXNNC2QaUOmUT9F9KQpXxO1JurxHkuW1Txlp+Db3OBsTeoezktIy0c6dbmel2fyV6cENvq64aCPQ5KEsj2SV60M7s2U9n57fDyTcp0fWZQyJvhJB62UfOuBbDSdurcYVLTdiaAjrBYL6i/Yeue+t4dGeOHwQbsND2psQtIAB4fnC0KvhV/kBA6roixHaRtR1eFI+cH8vjL9R4X03vqtk97S2Y/G8YVZ/cUqwcJCryoiytZIr26gc08v/4TE7uqvG3YvSlmHzHp/dhneC74aS9Ehwakz1+v+fNQCB4S4h+j3F4EjyiRx+r2UHvPuCTAzH6Wsy+F9P7eoM5g56CJM119s/msXa9TaDELy8SsJayTm2iw/j3T8Wvn8jpAT3+io3vsD/36W+ftyf77Ok9qICznblr+QsJi8tXYzcDZDh8r6N4INjttpT3a3+09BwUeAmaB74bR37owdNDgT93xnG6ig3CGMVxEiMUIhQv4iCIUJIEQZCulvCELyFK/PFRvaVDF9nLe5GuwzhN12fr03MUp0m6Qmjx/HQDkwgtFkkahVHk+foZRIsoCYMwQaE3c4DIddxluvRdD4jnrvd0/KzlYiCQpnkJqXCBm5oQPQxIXRVwidQNgdEASAnQsy3Rjg0hBJfNlhLtAOsgbwprIc71P85fnn9mpn9t5KcAAAAASUVORK5CYII=" />
 
 Der Rahmenplan wurde im Herbst des Jahres 2017 von den Staats- und
 Regierungschefs der EU unterzeichnet. Er fußt auf dem Klima- und Energiepaket
@@ -93,7 +93,7 @@ bis 2045 auf null heruntergefahren werden.
   title="Bild: Swedish Energy Association"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_07_2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQFAwYHCP/EACkQAAIBAwIEBQUAAAAAAAAAAAECAwAEEQUGByFBURITMWGBIiORobH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAwQBAv/EABkRAAMAAwAAAAAAAAAAAAAAAAABAhETMf/aAAwDAQACEQMRAD8A9PNEtwoMwJKlgMFl6+2KyxIIowkeQo7kn+1EN5Bbs8TlzIGP0rGW9+nL91EfUnnBHlPGnoQBksO2ccvjNAFLxQ3bfbS0q2urCC3meRyhE4bA9OxFTOH+5LrcW1NL1O/tVSe8MoIt1JjQLIyjJJyOS1pPGe0nvtEs1sNPup5FlbPkxyTMB+OVXPCzTrheH+3oLm3eGaJ5iyXMUiSR/dcjAGMdDz7061OqWuk81W5p8wdHpSlJKBVNcTSrr0UayOI2C5XxcuvT4pStSyc0f//Z" />
 
 Da kann man wirklich nur eins sagen: Hut ab, Schweden! Im Land der langen
 Sommernächte und kalten Winter scheint man die Bedrohung durch den

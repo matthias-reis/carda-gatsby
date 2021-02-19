@@ -23,8 +23,7 @@ date: 2016-01-11T10:35:06.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "13687"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_01_23683931393_361a6ec755_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_01_23683931393_361a6ec755_z__l.jpg
@@ -45,7 +44,9 @@ Sein Sohn Duncan Jones bestätigte die traurige Nachricht via Twitter.
 
 Auf dem Foto ist Duncan als Kleinkind zusammen mit seinem Vater zu sehen.
 
-[gallery type="rectangular" size="medium" ids="13690,13691"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-09.50.40.png__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-09.50.40.png__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-09.52.01.png__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-09.52.01.png__l.jpg"}]}
+/>
 
 David Robert Jones, so sein bürgerlicher Name, hat Musikgeschichte geschrieben.
 Seine Songs verkörpern eine eigene Kultur. Er beeinflusste zahlreiche Künstler
@@ -66,7 +67,7 @@ From Mars“ bei den Verkaufszahlen die Schallmauer.
   title="RIP David Bowie"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_David-Bowie.png__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2016_01_David-Bowie.png__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEeklEQVRIx62W61ZaVxDH+aYmGhFEBQQFUbwAh4scvEagSxvRYFRsEhVQAfGGoklbu1Yb6yVtEtt38UHSF/BJ/GZ/sFnU1aTxQLrWcNacOZs9e/7zn5mtslq7hFgs1i9IeVmlorr70tVlQ+4qQq9695IDDtjZaeno6DSZzGZzBwrP9nYTCsInpBRKdQ7YxW7v7e7ukZyu/v4Bg8HoktyS2+NwODHizGwym9r5mQVWFSGmAgEO6/MNRqNz29s752fnqY3Uztb2wvxCfDV+fnqWTqX3c/uXHy6DE0G93sD6yhyICHp67B6Ply0ikZnx8cduj9fpkvxyYGpyamhomOf0dESS3EZje6UpKeXA1NH5qFHNAZs02vr6Bo1Gq9O1AHlzs06tbkIaGh61tek7LNbW1jZAIysKsSo44A8DA4615Fo+t398/NNmZnM7u7UaTwBaMpE8OjyaeDyRyaR393LpjdTqavy72BJuFGJVcCB4AvTRp9HlFy8XF2Mz0xGwGnC6wqEwyZiLzh3mD5PxxJNvnxQytLOr1TZX4IB15BlMauoe1NbW1dTWARHggFVjo7q27kFvb9/goF/TrGNf9OHhEdYrhYiDQP8Bh/Mof7i4sDg7M7u2th4KhUEsFluKzj5dii1B3EJ6i0UHnujKiVTKAXWw/HIZ6He2dwqgTwTX19bfXrx9/vzF4UGejFIQSPWVjA+trqWpSaNu0kCkZl2LWqNtLPKnscgugtAbjBC60r5ULDSTmRqOTEco31AwNDI8IssB/6B/dHTM6/VBoXD4m4LFL9ts3WWCKvRUqmSXS9rb3Xv32+/ZzSz4ZDZSP7z+HuZQ2xfnF7m93KtXr9/8/IvT4STWu61QKUSimGGIvbcPf5zX6XRRWYICHJqvtCk+kWEsiEK4Sq2CBAZDYbZDt3JAi9Xn9QUCQzCS4DCOjoxCBFt3z9jYOJTDyF+U1HOJppz3ILc/MzP75+UfoHT84zHgQNn1RJJ+t7y8cnCQ//XNyWY6k8sdwLSz03PcENC95VaqZNYBCw1juJhhngAiOiBHBjraLYrP46XlORyOfD7PMtH77ncgaAriFCrS0tIKO6lkqFlgp95AiAZjO/2Hp9FoKuTmzii93wG7M1tAZjG2FI8nMulMfGV1YyMFcQkOrAVtyoo4tUKmliDiOeiXaTieIgiyXx4KDKH8MyyrvQaoylUDoABC3hBgQVC+5j7xmVvFf8nX3GJUCteJHMCrcgL+NwdiO+CCXVALRokS+2xMn1pUX966PO/6+vqp3mAwiIOHD+sFo1jwaV/6l+UeB2LCgMzV1dXNzc3t7e319fXJyQmlh1E0JYITiri3QRZxaRNx3B8BT9gly/LWVvb9+3cfP/6FJ7dbshSnULHyZW46FDa9CyPTEKPIFm6UsogyZvLU1NSC1enpGXOCxrWwMM8N4dmzea4aKysrtC9eE4lkNrs1OTnF/KA/KmWRoBADx27vESOaV7ZAJEliNBEBdYoEAsQii/5fTR0ULTYxQkT+hYibctkoFJb9DffhA1/9Yi4tAAAAAElFTkSuQmCC" />
 
 Im Jahr 1976 startete David seine Schauspielkarriere, indem er die Hauptrolle im
 Film „Der Mann, der vom Himmel fiel“ spielte.
@@ -87,7 +88,9 @@ never let me down.
 Musiker weltweit nehmen Abschied von David Bowie, der Legende, die ihre Heimat
 schon vor Jahren in Berlin gefunden hatte. Hier einige Bilder aus dem Netz.
 
-[gallery size="medium" type="rectangular" ids="13692,13693,13694"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-10.17.17.png__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-10.17.17.png__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-10.17.41.png__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-10.17.41.png__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-10.18.05.png__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_01_Bildschirmfoto-2016-01-11-um-10.18.05.png__l.jpg"}]}
+/>
 
 > I, I wish you could swim like the dolphins like the dolphins can swim.
 

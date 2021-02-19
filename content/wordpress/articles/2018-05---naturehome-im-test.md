@@ -30,8 +30,7 @@ date: 2018-05-02T05:25:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "20585"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40776722755_001dac257f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40776722755_001dac257f_z__l.jpg
@@ -52,7 +51,7 @@ Fall.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41666614251_043e29b342_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_04_41666614251_043e29b342_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgEDBAEEAAcAAAAAAAAAAQIDBBESAAUGMSETIkFRFEJhgYKh4f/EABcBAAMBAAAAAAAAAAAAAAAAAAQFBgP/xAAnEQABAgUDAgcAAAAAAAAAAAABAgMABBEhQRIxYQUTIjJCUaHR4f/aAAwDAQACEQMRAD8Ajo6BZJJSsLwQlXkj9d2lSIBReQ3BLZG5sBaxHkat7fx6XcKiGGCB6eR3dEb1GxWRQWb3Y/rb2n46OmPHaejaVZNyphNt6wv+Igp0u0YGJyyUWsWuRYjwLH6044olO9aktbMRiSI3wEWTkuW/KfcCFBYC4660QrwJJGIkka330IV6jtnHwcUza1oT834hDsvHNqENHRTzOqrPNGhzJCksQLdGwFz19aNbzmT078brhOXFqeQxk1IkGYU4+3AX820awbOveGk62qWUAEmhHtHNV4zyvZt4pmkUVVRVKVVoZPUUpe7BvA6BAxsB50+hpqmGnlp6qjrIow7iKSc4rfMgj0+x4NwbkfGm/HuTRbpSQ1czUlNRtExkhrJcJYje1iPv/POs/wAi5IdwdUSlenelqFljM18pUCMtyATYm9++hfQCHn3E6CL5+ha45iz6hNsTC2piaAqiwPFa7cUFM8xb5DDTUWw1kkqqSYj4jvl/Fj0bfP8AejWR5LyFdxo1o1GLTrgcibC/76NEISR5rQhn5ht8p7RBpx+R/9k=" />
 
 Sie stach mir zufällig beim Stöbern nach Möbeln ins Auge und musste einfach
 probiert werden. Seitdem steht sie bei uns im Bad und ich freue mich jedes Mal
@@ -95,7 +94,9 @@ Desinfektionsmittel. Wer jetzt neugierig ist, informiert sich am besten auf der
 [Homepage](https://www.naturehome.com/de/advancedsearch/result/?q=seife) von
 Naturehome.
 
-[gallery type="rectangular" link="none" size="medium" ids="20584,20582"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41666612421_b658e97869_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41666612421_b658e97869_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41666616111_e546accd2d_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_04_41666616111_e546accd2d_z__l.jpg"}]}
+/>
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

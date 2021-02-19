@@ -35,8 +35,7 @@ date: 2019-07-15T14:44:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "24675"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie__l.jpg
@@ -70,7 +69,7 @@ Kindertagen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-4__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-4__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAArEAACAQMBBgUFAQAAAAAAAAABAgMABBEFBhIhMUFRFCIjYXEHEyQygZH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAlEQABAwEHBQEAAAAAAAAAAAABAAIRAwQSITGBkbETIkFhcfH/2gAMAwEAAhEDEQA/APLMMbzTJHEpZ3YKqjmSTgCrnpn061e6crcTWNoQMlZJd9vjCA8fk1WLCNo/ysMDERInuQc0602u2Yi1R/CWpv2kwkb3MRRYzgH1JW4Ab2eUZ6VltNo6QwDj6aByTA1BTUpV+24AJ8meBnuEr5tlFS5ukGp2ghtTiaWUlOecFRxLD3HU1Catp02nzIJV8ki78bjO7IvRlJHEHvTK2t1Ma01xceGtnn0xkaNIwXEtuwABDEDJWTgSAB6hrftdNpB2LsYr24tmZrKzW1jSQPLA3mMmB+wChsYbngD3odbboptuGXGDjJGwjIydUNpOlxc7D5+pWJeEpIjxhlZCoyxGD0PDt2ruTVytoke4TII/tls44ZB/0FQR/aKK2AAKnvc8y4ysJtZvXmklFw0ckiGNmjOCVPME88GotyCSevfvRRSpX//Z" />
 
 Spannung von der ersten bis zur letzten Minute - mit den Kopfhörern auf den
 Ohren war man live dabei, wenn es wieder eine neue Gruselgeschichte gab. Die
@@ -107,7 +106,7 @@ Geschichten auf Lager, als die Entscheidung für die neue Auflage fiel.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-2__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAj/xAApEAABBAIBAwMDBQAAAAAAAAABAgMEEQAFIRIxQQYTIgcUIzJRUmGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIxEAAgEDAwQDAAAAAAAAAAAAAQIDABEhBBJBMUKBkWFxwf/aAAwDAQACEQMRAD8A5ijt3XGawxx2xp+m+v009qSNvFXIeS+2hoAuUbSokUgj+N2f28Y5r02oW3GYY9Mj72RIabaCm1NAg9VilOG7CTR7WO+YDVqJhDtNyQPjPmtGidYjN2gE+qjTzVXhlN9S6fVhx9t/WvwBHYW8EME2EAWFKrqSb7Xx2/rDHNFt5Hugx6oSdpHip9pdpsICnI+qUoOyaT+NJKyaI+Ncg0T2zU0diJsRzZOyUBCw6EyHSFUk1YBN+CMoWgharUARoftMTggkSZI+aFmgCoA/qNkpQaArmyec+/1ep9x+XtCl2K51vOPB9anU811CyfmVCqPk8ihkddWrykbbA9Dyfr8zVaOJkAkcXA4yKWdt6u2qYkrXpmNux5THsudbSFrSi7CQuuof75wxNWpKSfbBCbNXya8XhlIXtk0aQqzlkUKDwK//2Q==" />
 
 Insgesamt sind bisher drei neue Folgen erschienen "Polterabend - Nacht des
 Entsetzens", "Moskitos - Anflug der Killer-Insekten" und "Yeti - Kreatur aus dem
@@ -158,6 +157,8 @@ ab 14 Jahren mit einem Wohnsitz innerhalb Deutschlands.**
 
 <hr />
 
-[gallery type="rectangular" size="medium" link="none" ids="24673,24671"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-3__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-3__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-1__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-07-15-gruselserie-1__l.jpg"}]}
+/>
 
   

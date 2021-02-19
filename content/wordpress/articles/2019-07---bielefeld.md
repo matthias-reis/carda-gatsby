@@ -20,8 +20,7 @@ date: 2019-07-24T10:33:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "25420"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-10__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-19-bielefeld-10__l.jpg
@@ -40,7 +39,7 @@ widmen.**
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-28__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-28__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIDBAURABIhMQYUQVEHEyIjMmFxgf/EABcBAQADAAAAAAAAAAAAAAAAAAMBAgT/xAAeEQACAQQDAQAAAAAAAAAAAAABAgADBBESIUFhUf/aAAwDAQACEQMRAD8Au2byK3JcZYrhF9m3tKY4KsKcKQOpB7Z7yOs4PWdRfVOvkiraK22iUKsBSoknibuRhmPaR3hefjn+NLNnq6Z4ZaOokM3rWSMsyk7CX2hl5AyCc/5rQt1sgNGXEf3toYjk/kykLyB7a0PcNjUQktaYO/yOHjfk9pu9M8V1aKiuUCMXDkLHNtHJRugeP29/GdcV8huUt5uLVVWN74KhY8hY1znaAO+9OPk1OKbYzRLFGJZB+H45TC4x8++litLJJxTE7v1N0jlu/kDHPGNBVunqKFMana06TFl7ml4/eKqmrKZEoaWKMyoGcUwYhN5yQxz7e461p0FyqbhUR0qVYiaffErbuFyRsPHwAdGjQueMx8anAlDya4LDWJSyMCY39Tw2F27OAODjvOOuNQeTUa0tB6hZTIQwjLMT7HOcD+9GjUHgr7KdHyf/2Q==" />
 
 Als ich noch ein Kind war, sind meine Eltern mit mir nach Bielefeld gezogen.
 Lange Zeit war es mein Zuhause. Irgendwann sind wir dann weggezogen und ich habe
@@ -77,7 +76,7 @@ Stadtzentrum.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-30__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-30__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAqEAACAQMDBAECBwAAAAAAAAABAgMEBREAEkEGITFRIhMUIzIzYYGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAQCAQP/xAAgEQEAAQQCAgMAAAAAAAAAAAABAgADERIhQRQxInHw/9oADAMBAAIRAxEAPwCBpb+0YVYmhhBT8RsNJ5BDL34Kkj+9VHT17gqJpab7UiRBujljfOVAwCecjHHvxqDFE8k8kkRiALscF0A7nPb5f5p5YHW31lPJLIzCPd+n8zjB7ej50G4KMafah8svqqKuu9GbjMN5irEJJZ6fany53LljgNnJA49a20sC11XWVBozWVGwU0gAwjFztLFye+VGQceu3nS+p6cuF2qq26wxBIIpYoHBDsdzA8AdwApz6A51W9I1Fssk6rUXIS/UARJYEfYrZOd+4Z8D1gZ8jU2yQxccHHr0fsVt2JtrbOhfuudUNipDPGfp07HblgmQT35JA8eedPKSy0jT3CqemmhWNkKt9wFAK4JIUdsYx/J0aNJnbIORqfIlcjqhW/qgXy+QU6xTVzNv3kNPjeCoGQowOw8njP76LRZaKlhSmrqsb3kRpIDMRuYD5Ltz+bJ440aNDkqDnuu+wx1wcd91/9k=" />
 
 \*innen ist das Angebot umfangreich. Besonders tolles Frühstück gibt es im
 "[Moccaklatsch](/2019/08/das-moccaklatsch-in-bielefeld/)" - dort waren wir an
@@ -97,7 +96,7 @@ Anfang des 9. Jahrhunderts, 1214 dann zum ersten Mal offiziell als Stadt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-34__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-34__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwACBAYF/8QAKhAAAgEDAgQGAgMAAAAAAAAAAQIDBBEhAAUSEyIxBgcyQUJRFSNhgaH/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAwQRBSEiMrH/2gAMAwEAAhEDEQA/ACmGDjiuoGBZbYIP1/mm87VMKaAVRElRy15jKtuJrC5tocp1ZP1spIF+tj6wDcf330xbBUbluHguikZF5kRenLOGYzKmAxIOMd7+631W41lG1MnZhPRENvMeGqo544FZkicGTgLXzfBB7jVrDzMgraGVI55hkmSwcXBN/ja6gdsk6tKZy7uMKT4zyNuquazRzIFZW+Qup75BOus2zxtvewbfFSxTxfjjJxW5SloyxBbJHY5P8Z1wsU6rUuydIsOkHHp9x21tVFSj00aPjqUEg3xY4sdKJe1R3HHqV+jGTzH23aZoNzq6qnaaamQoVUnLlLpj3txAj61aItx3RWoqWmp5gzGACZY3CsrDFj93UjOrRfyTM/qPsxTGCjW5/9k=" />
 
 Der Ort blickt auf eine lange Leinenweber-Traditon zurück und ist noch heute ein
 Zentrum der Bekleidungsindustrie. Außerdem sind Lebensmittelunternehmen und
@@ -123,7 +122,8 @@ warten, bis ich wieder nach Bielefeld fahre! Leider habe ich dieses Mal viel zu
 wenig Bilder gemacht. Ich war ein fach viel zu sehr damit beschäftigt, alles
 wiederzuentdecken. Trotzdem habe ich ein paar Impressionen für Euch.
 
-[gallery type="rectangular" link="none" size="medium"
-ids="25434,25431,25429,25427,25426,25424"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-35__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-35__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-29__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-29__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-27__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-27__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-20__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-20__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-19__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-19__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-17__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2019_07_2019-04-21-externsteine-teutoburger-wald-17__l.jpg"}]}
+/>
 
   

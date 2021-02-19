@@ -41,6 +41,6 @@ subTitle: Impressionen aus dem Roten Moor
   
 ---
 
-[myflickr tag="fabelwesenimhochmoor"]
+<Gallery name="flickr/fabelwesenimhochmoor" />
 
   

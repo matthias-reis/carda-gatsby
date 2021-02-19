@@ -52,7 +52,7 @@ subTitle: Peeling aus Kokosöl und Rohrzucker
   title="DIY Lippenpflege - Die Zutaten"
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2015_10_DIY-Lippenpflege__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFCP/EAC0QAAIBAwMCBAUFAQAAAAAAAAECAwQFEQASITFBBgcTMhQjUVKBIkJhcZGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABQMCBP/EACIRAAIBBAEEAwAAAAAAAAAAAAECAAMEESExEhQicUFhkf/aAAwDAQACEQMRAD8ADJRCoV6eB4y5jOSGBwAM9v6GrX5dizC1Qw5hgvDjfVxTlVlLdypPuT7SOMY6a53s081ouNJcBvCxvuw+cMOjA/gnVjsl1tt3pVS3VNqqYFbaKG7D05ITn2pIOGX6dfxou58+eIlUtu3IGc5mz5l2+zQ05njSF7iwwsMG0vI3bdt6DHO44xj/AETS2CU2SB3UmSLdDJhe6nGdOJpaG3UMpuLWmngi+YaK3tvMhH3ueg41HL9ca6qnqaiSdo2qHaV1iO0Ak5x9QBwNZosU1LULFrkEjWI18J0VpqqeVykFRU/LL+oo2IGHXHtUZzjPYc9c605/LmmqK6kYyNRnkM0cCsC2CcbDxjA7cg9yNSGhu8VAywpClXBtCurzNGWA9u4Y5xxg51UfAfjGlt6wz193iSWnz8PAPUl9MnqzHbyccYAAA10AMNN+6hi02J6sHM0Gs1B4YvlOa+iW4WmVF3VEoIaN92GO1SMEZBwRyM450nvtpsfwpK0VM6MuVZXZgw7EHdyNZVb40ss7VDSV271kw6+g5z19vHH/AHQq9+KKWmmBsswFFIxMtG0bhQT+6Mkfp/kdO+NU03xEGqMyKqgqR7wff3P/2Q==" />
 
 **Ihr kennt das: Kaum wird es draußen kalt und man dreht die Heizung wieder auf,
 bekommt man spröde Lippen.**
@@ -100,7 +100,7 @@ Kosmetiktuch abnehmen oder einfach ablecken.
 
 Küssen nicht vergessen! :-)
 
-[myflickr tag="annelippenpflege"]
+<Gallery name="flickr/annelippenpflege" />
 
 Warum vegan richtig großen Spaß macht,
 [erfahrt Ihr hier](/2015/09/ich-bleib-dabei-vegan-macht-spass/).

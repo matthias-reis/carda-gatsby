@@ -35,8 +35,7 @@ date: 2017-03-13T18:44:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "16163"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_03_32607263133_d36879fb88_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_03_32607263133_d36879fb88_z__l.jpg
@@ -51,7 +50,7 @@ subTitle: Wellness für zu Hause
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265715562_3bc6282887_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265715562_3bc6282887_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcI/8QAKhAAAgEDAwIEBwEAAAAAAAAAAQIDBAURAAYhEjEHE0FhFSIjMlFxsaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhAyIy/9oADAMBAAIRAxEAPwDnRYyJro3boiGP30603avg9Ub2sMdy25cVinan8yFZmJEsgHzRlh9jZz7f3SG17Tuc16qqK1y01VVNTx1Ur1H01AY4AAAPOmm3t27m8Op6gSrTzWyVwJoInPD8DrRscNyP2O/tO538PShQpelhl9bTVlsulTR3SFoKyB2imiqEyyODyDn1zqagZJAABVWwOBkqM/7qxb4use49xNd6eWpaecKZnmUKxYHA9TnAwM+2kpQgkuzOx7ljpU21YbVYXK47oO39x1ZalaoFTQwRHpl8sqBhs56TpXubetPfqF6X4U0M80isahqgORhgTwEXvj86NGihyg6nWiz7TVwvCvOxRBj8j+jQznRo0wDP/9k=" />
 
 **Heute möchte ich Euch gerne zeigen, wie Ihr Euch ganz leicht mit ein paar
 Handgriffen eine tolle Wärmelampe für zu Hause bauen könnt.**
@@ -75,7 +74,7 @@ auf der Brust, oder sie waren schlichtweg einfach zu teuer.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33293076691_4c267e843d_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33293076691_4c267e843d_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAQMDAwIGAwEAAAAAAAAAAQIDBAAFERIhMQZBExQVIjNRMmGB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EACERAAICAQMFAQAAAAAAAAAAAAECAAMhBBExEkFhcZHh/9oADAMBAAIRAxEAPwCezQW24an3QCltBX2HAz327d9qWSOpBDLbUyYhlwpS5oWmGhRSeD8nB+60sKFK9HkAvxPgcyAok/ga5tYmWEwIcz1W0tyVxw94a2EEpI4Tuv8AyjX66uvbPPj8MdpNH1hi3b3n4ZuIl6g3SUiK2yCXCcHzDC+ATwkknik/UkBDYUpKdvqrtpvzc24wExZLWZaCpephKAfYVYznO2P1UfVHjpZVlTB27Zqi3quGMjdSzNuF2jPpx4hOoIbCdJGkIGOK51eOqmoUlTCLFaVBBxqMdOTj+UUUCtiCYoxLI6hdlCejysZtMwNbJRgNaONI7Z71es9xlORjGeUhxsD2kp3TRRVDkZmODP/Z" />
 
 "Du baust doch sonst auch immer alles selbst", meinte mein Mann. Bastel Dir doch
 selbst eine. Dass just in diesem Moment auch noch eine Anfrage von RS Components
@@ -98,7 +97,7 @@ und mein neues Projekt war geboren.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265712062_77d9e31a90_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265712062_77d9e31a90_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcI/8QAKBAAAgEDAwMDBQEAAAAAAAAAAQIDAAQRBQYhEjFBBxNhFBVRUnGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EABwRAAICAgMAAAAAAAAAAAAAAAABAgMEERIhMf/aAAwDAQACEQMRAD8A5jsLeS5uY4lXljTvtD0z1rd19JaaT7KSInW31L+2mM4Azg85pItLiS3mSWJ+iRCGByO4rp/0s3nod1pAubCSK11eCPpuLdzz8sP2Q/kduM48y5FsqlySKseuNj032YLvfZGrbP1P7frUCw3YQP0ZDAqexBHBHf8AylSSIrnNa/62bxn3neW7XEMStYRssbx5JYE5OSfHHasknct3pK5OS2w7YpPRAU6VJyOPipIpXjZXjJV15DKcEfw0UUgfhYudRu7iLomnd185xz/T5qmxzRRXUjNn/9k=" />
 
 Ich habe eine meiner Studiolampen genommen, die ich immer zu Fotografieren
 verwende. Ihr könnt natürlich auch jede andere Stehlampe nehmen, die eine hohe
@@ -122,7 +121,7 @@ Wärmelampe. Super, oder?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265705792_1898125e4c_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265705792_1898125e4c_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBAwUE/8QAKxAAAQQCAQMCBAcAAAAAAAAAAQIDBBEABRIGEyExQRQiYYEkMlJxkcHR/8QAFwEBAAMAAAAAAAAAAAAAAAAABAIDBf/EACIRAAIBAwMFAQAAAAAAAAAAAAECAAMEESExgQUSUXGx0f/aAAwDAQACEQMRAD8A3tTEprmlAWtKSpKSPzECwMhOy6lUEBepcQPlKi2ptVXV0OPtZ/jICJT2jmJMLuJVHcBbU4AFfIfBINi/TxiqmyNY1qorkDp8SZjpHcjuuPtBCeN2D3Dfnx6+fpkHuKY3wefyJtbZ327h6UH6RGcw/wBRPyUJnIdix1BXJSHW7TQFWOPubH+ZxbmSqO0r4jbDjVHvyG/7rF3qY0mbJCU9J6hk8b/FSHVAj0ugq82HNVLWrtt63QRiPVbWr7gH3Wo5UXVtQo4iSgXRqh5GPhMYMHbOuIU1wSEkFJ+4xM9Lx5mx1i3/AI4N9q0gFhCrAA9z++GGYV07JSLLvkR1q5QMVmstOz1iWZadxJLbiglTLaUtg2av3AP1rKup5bpioDsic9aQSHZKik+f0ihhhiul1nq0SXOcEiDuQDUz5n//2Q==" />
 
 Die Wärmetherapie gehört zu den ersten bekannten medizinischen Behandlungen. Sie
 kommt sowohl in der modernen westlichen Schulmedizin, wie auch in der
@@ -144,7 +143,7 @@ in Kontakt kommt.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265709822_e3079e1107_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2017_03_33265709822_e3079e1107_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcBAv/EACUQAAIBAwMDBQEAAAAAAAAAAAECAwAEEQUSISIxYQZBUXGBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBf/EABsRAQADAQEBAQAAAAAAAAAAAAEAAgMRIRNR/9oADAMBAAIRAxEAPwBE1+UR6SjopLLPH0GPcGySMYNQel9BnunlurxsiMnENxBGoJ+tuSB90963ZnV/TcsUjNw8cim35fKtngEYrvpC+03TrJYNXW5cOxLGSLLHnuy8fHbtQ8dHW/vhHaBlnw9ZSrbww2Uyra2kb5GWSARt+FcAjwQfFUmoBYnZX6WBwyngg1od/c6YyTx2oD2sZ3ieQBWdBgknyM4pJd3mjd5Idm5mZd7clSSQf4RV97fEH9h8j6rGmAqQilcg/Jrze6Qk9lc3dvM8Mqrlg3WrY47dwcD2P5RRWPWzV6TRsCcZm2rXM8oMbSdGcYHvU2gXssu61kJZFXKknlfH1RRSWzY7aSAq8J//2Q==" />
 
 Übrigens: Auch Katzen finden Wärmelampen toll. Ist es nicht schön, wie
 [Chili](/2012/08/ode-an-den-kater/) sich sonnt? So entspannt hat er schon lange
@@ -162,8 +161,9 @@ verbraucht sie auch eine Menge Strom und sie sollte auf keinen Fall permanent
 eingeschaltet sein. Kleine Sitzungen von 10 - 15 Minuten Dauer reichen für eine
 Behandlung mit Wärme allerdings ohnehin aus._
 
-[gallery type="rectangular" size="large" link="none"
-ids="16164,16163,16162,16160,16159,16152"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_33293119251_abcc43e806_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_33293119251_abcc43e806_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_32607263133_d36879fb88_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_32607263133_d36879fb88_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_33265722582_8fa7ddfcea_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_33265722582_8fa7ddfcea_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_33038306460_705c53b68b_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_33038306460_705c53b68b_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_33380955016_0da3cba6be_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_33380955016_0da3cba6be_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_32578742804_8334817565_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2017_03_32578742804_8334817565_z__l.jpg"}]}
+/>
 
 Vielen Dank an RS Components für die Infrarot-Birne! Die Lieferung ging sehr
 schnell und ich finde es klasse, dass man im Shop auch so etwas Spezielles

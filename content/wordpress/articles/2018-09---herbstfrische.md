@@ -71,7 +71,7 @@ Findet Ihr nicht auch?
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42844533840_b4183875ce_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_42844533840_b4183875ce_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAAqEAACAQIFAwQBBQAAAAAAAAABAgMEEQAFEiExBhRREyJBYQcjcYGRsf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQQG/8QAKREAAQIFAgQHAQAAAAAAAAAAAQIDAAQFESESUUGRofAxYYGxwcLh8f/aAAwDAQACEQMRAD8AsvUmXkZZFGsxjd19CKOJvbLZiVD+LFj+3jCROHpKjK+4qqSoq61GQwFRO0TGy6gbcEcE8WPjFJr5aPtNaRsSk7BXFgwa+pyP44N/nCrQjL6vPKDMEpJFU0siySylgzP6ltJvz8nn5xzlSaQ64XCdrHOOG/PHhAGWW7lA4gc+zDFTx17ZCVzWmpmQxLOywyazIyKtudydKj+sGM1ZUUiyMsgRUhgeUtL7kaPZdPkEcgjjBhMxU5lCyhlzSB6/W/lnaAdSEKKVWuIn/SHVBr0KVVelR6ahhDKQioxNhc8HYfXGO71HmTmrpRGwssQkIZguzHY7n6OIf+JszqKaesBingRFVjJJGwN97qbgDjfbDgOoJanrCp7gM1QsKCNkRimm5uBceLX+8NmKcFq0XNj37xYpmhlSXCMj9hk6lzhURoamQRQy0uozGS4A1Abgc7/4cGE+pWvzvqLMpKiMQQCDtacNf9ZhcgW+Lm9jtuNsGMq6RrUSL9OsT59svPqc3/nxH//Z" />
 
 Im Anschluss an das kleine Shooting nahm ich mir Zeit für den Test. Als alte
 Limonaden-Tante schicke ich eins gleich mal vorneweg: Erfrischend sind sie alle.
@@ -107,7 +107,7 @@ kredenzte. Ganz im Gegenteil: Sie schmecken sogar ziemlich interessant.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44604719792_8dfc509fa6_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44604719792_8dfc509fa6_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBQcD/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDBAURABIhBjFBExQiUQcVcYGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQIF/8QAIxEAAgAFBAIDAAAAAAAAAAAAAQIAAwQRIRMxQVESYaGx4f/aAAwDAQACEQMRAD8Affx1d6a4xSQSrVJMpDPJM5f1SVHyLMeMngAcDV3eK2tgvdCbRUUM1uRX91TmJmkcgnG1tuBwB5HOs4o+paehu0L0lQK26mL0ppzCM7FCqrqvbOAGGRwWPfXFOpa+C6VEFNOJYllK4mmQysPOTjAJ8DH1rlSKqcW0wPLfPri2/v8AYlMusSvQjS4OoXe7ypcqSlpLX6CtFIJC07ynHx9Mc8nOOPr71UXPqe0SXCstc61MSbGQyBgjDgZBGdynJwD/ABpRq+oqqez+0pK4NIqiTfMAZAo5/sgDAx9aTurqtrZPSqHp5o56gVXuwFCzEH4B8nPxySeeRg+NW9RPDKoxjkbkDPXx9QKYXS1xCNS3WqctVLPClUImVowWQSYztxtye2Bzplt1/hitYeR0jlkhWTc6g7WA7HPOc/7o0aaplVGIUQWnYoxtEQX6H9E0gmjWWSnExdlVju24IJ7k9+dZ3WXtJ1p5FgG1V2kOdy58EA9jjRo0w6g2jc3Nrx//2Q==" />
 
 Mein Favorit ist ganz klar "Himbeer-Minze", aber auch "Original" ist lecker.
 Beide Sorten sind leicht scharf und schmecken gekühlt am besten. Zu Beginn
@@ -135,7 +135,7 @@ sicher noch häufiger in unserem Getränkefach landen.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43745365935_449f64cbf2_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43745365935_449f64cbf2_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcD/8QAKxAAAQMDBAECBQUAAAAAAAAAAQIDEQAEBQYSITETByJBUWGBoRQVMnGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//EACMRAAIBAwQBBQAAAAAAAAAAAAECAAMREgQTIUHhBTFhkbH/2gAMAwEAAhEDEQA/ALNhLBL+Nb8qe0yn70lNvb2eo2Wwh0LKCpJQhZSkfxIURwJnie6baLyYvsFaO+ZG0tAD3dfP8zVd9Rkotcnp2/Sd7dvf++VbQtJSevn0akauqmoxDHkG/wBQaGnbIEDi4/ZYcm22sRAIkE/7WOL0/aOYLYC2y/8Aubwdddc27GyDskdhPt7+JP0rSbq9hrzyltuApSHXFeRI7ggCJ7+NZ3Y5/NKtXHUi+fQtZS2HLcrQRJJUlZEGBwBNL7ddCW4sfnwZS9UKlUCj28SXp3qB/HLum2W3l4tKy4i4ebgAEckGI75A57pzrvPWt5hkvMklO9DhdWrc4SJCT9pmBAFFFOLRXJoolVimHU4YXLWWUtXL7MKmztz43WkTNy7HCEDiZHJ/JpHrnV97mV/omLUY+0CeEh0FREe1JIG1P9D6SYoooS53MOrTOq5qG7dT/9k=" />
 
 Getestet habe ich alle drei Sorten: "Pink Grapefruit &amp; Rosmarin", "Gurke
 &amp; Zitrone" und "Orange &amp; Ingwer". Alle Varianten löschen wunderbar den
@@ -165,7 +165,7 @@ Ingwersaft und Orangenmark. Eine Flasche kostet circa 1,50 Euro.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44654665171_ac7c605639_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_44654665171_ac7c605639_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQHAgUG/8QAKhAAAgEDAwIGAQUAAAAAAAAAAQIDBAURABIhBjEHEyJBUYEIFBVCcbH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQECBv/EACYRAAIBAgUCBwAAAAAAAAAAAAECAwAEBRETITEGURJBYXGR4fD/2gAMAwEAAhEDEQA/AKT4I0UtdYprhcI8TTSgAtjeQqgYOPjjH3rTfkjboILXbqlEUM8hRiB3xyP9OsPCbqua32yso54YWeKdQq8RhlZAQwZcgggd/fGmfEK8UPVQp7VcYQxIaREhdsoysv8AIYzkH49u2g8PRtFFA7e1GYbKlvPHO/CnP1+KnfgvcIU6lK1LRxb6Nolzxu2nIJP2RzqkdVOsFlubhkYfppfSeQfQdcRBaLNZLlbIrcji4SztHKZZS+2Mxk4wcAA4zjucfGmuq7hFbbVd4adXMxpmceRCMAYGWIxycE9/jSzFenYrq8Ny8hDADbvlx903vb1Zy0kS7H9nUx6XvVd0/eZaSWqJhx5W2STmPByCASNwI4yp7EcDT1b1TOl/pJrNb62ZFjkaommhZRuPqyuQe20f3n70aNaVoVDeIeVIUuHRCi8Uncb9df3KkqqK1SxGPMhEjbNmVwE9eEUAMx4J5OnabqKvuoZJKmnKIpkMcHKDHYSSD2zxtQnPyNGjV9BWYO25qHuJJFKsdq//2Q==" />
 
 Wie schon erwähnt, bin ich eine alte Limonaden-Tante. Die Juiced Water kommen
 wohl meinem Suchtstoff am nächsten. Laut Voelkel sind sie besonders gut für
@@ -197,7 +197,7 @@ pro Flasche liegt bei rund 1,50 Euro, der Wasseranteil bei 80 bis 85 Prozent.
   title=""
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43745359195_e518cfcd46_z__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_09_43745359195_e518cfcd46_z__l.jpg"
-  loadingUrl="undefined" />
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAwT/xAAqEAACAQIFAwMEAwAAAAAAAAABAgMEEQAFEiExBhNBB1FhFCIycRVi8f/EABcBAQEBAQAAAAAAAAAAAAAAAAUAAQP/xAAmEQACAQMCBAcAAAAAAAAAAAABAgADBBEhMQUSUWEVQUJikaHw/9oADAMBAAIRAxEAPwBf0Uj0C0tFK9WJWl7cTysbh9gwAubrp9vjFj6rUC03SdRPDZLKIpAotqUkc/ojELR9Sxmlop6LS/00ivGZWGqw/JL7XIttxcDFV1n1JBmWVtl1VCO1VMFsjnURfn48YFtEqBmWoNyD206dtJ0s15Kod/SQfg5iL0nrEmocwp0dvtEbqhPBOzED9qMLPVeCZ8wy+Smvq7Wl7Db8ja5BFvPO2M8qpcty7NUpqPuB2iczNI+vgrpA9uTjTqMfyFLMlUrCJII444xNu0hkJ3A/qL4hwceJG659/LHt6xLiVxTdWcLoTn8PuS2Ux5dNkc1NVaPqHOtZiNwfAJ5t/uOCtzhp6eKjqKyWnjjZSzoqtI2k3H33FvHA8YMGHWRcDSFqxGcTmmqYp3FQK2tnljUgDWEDfBtfnYbW4G+KGuakTLKWJkjaWMmQm2ysfHufknBgxqgb4kWJ3M//2Q==" />
 
 Ihr seid auf der Suche nach leckeren veganen Getränke?
 [In meinem Artikel zum Thema "Versteckte tierische Inhaltsstoffe in Lebensmitteln"](/2014/12/versteckte-tierische-inhaltsstoffe-in-lebensmitteln/)

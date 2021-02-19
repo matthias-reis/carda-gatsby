@@ -50,8 +50,7 @@ date: 2013-06-03T15:50:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  oldGallery: article has an old wordpress gallery
+errors: {}
 thumbnailId: "5560"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__l.jpg
@@ -72,7 +71,8 @@ redaktionell verarbeiten und mit Euch teilen kann, habe ich für den Moment
 erstmal eine kleine Bildergalerie für Euch zusammengestellt. Viel Spaß damit und
 stay tuned!
 
-[gallery columns="1" type="rectangular"
-ids="5555,5556,5558,5560,5561,5562,5564,5565,5566,5567,5568"]
+<Gallery
+images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4209__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4209__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4210__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4210__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4212__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4212__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4216__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4218__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4218__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4220__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4220__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4222__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4222__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4223__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4223__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4224__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4224__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4225__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4225__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4226__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2013_06_img_4226__l.jpg"}]}
+/>
 
   

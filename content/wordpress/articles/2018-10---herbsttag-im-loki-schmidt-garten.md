@@ -81,7 +81,7 @@ Die Borke hinauf. Wandert in das Blattwerk.
 Fällt mit ihm vereint sanft wieder zu Boden. Und nährt die kommenden
 Generationen.</blockquote>
 
-[glry name="herbstloki18"]
+<Gallery name="glryherbstloki18" />
 
 ## Wegweiser Loki Schmidt Garten
 
