@@ -198,7 +198,7 @@ der 30. März 2019. Hier geht es zu den
 **Hinweis:** Diese Verlosung beendet. Die/der Gewinner\*in wurde über Ihren
 Gewinn benachrichtigt.
 
-<Gallery name="glryfeuerwear201902" />
+<Gallery name="feuerwear201902" />
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
 

@@ -132,6 +132,6 @@ frische Luft. Und: Wir haben sogar die ersten Krokusse gesehen! Von mir aus kann
 der Frühling bald kommen. Das war auf jeden Fall schon mal ein schöner
 Vorgeschmack.
 
-<Gallery name="glry20190217cuxhaven" />
+<Gallery name="20190217cuxhaven" />
 
   

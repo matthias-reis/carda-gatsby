@@ -178,7 +178,7 @@ Hier nochmal im Überblick, was man alles benötigt:
 - 2 Halb-Liter-Flaschen mit Ploppverschluss
 - Kaffeefilter
 
-<Gallery name="glry2018-matze-likoerchen" />
+<Gallery name="2018-matze-likoerchen" />
 
 [Unser exotisches "Minty Fizz" Cocktail Rezept findet Ihr hier](/2018/05/minty-fizz/).
 

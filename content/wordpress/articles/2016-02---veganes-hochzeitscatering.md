@@ -63,7 +63,7 @@ Alohachérie heute schon als Restaurant etabliert. Die wechselnden
 Mittagsgerichte und die gemütliche Atmosphäre, die auch für ein Candlelight
 Dinner die richtige Stimmung bietet, ziehen täglich zahlreiche Gäste an.
 
-<Gallery name="glryalohacheriehochzeit1" />
+<Gallery name="alohacheriehochzeit1" />
 
 ## Veganes Hochzeitscatering und mehr
 
@@ -108,7 +108,7 @@ Region und entsprechend der Saison anbieten. Ich bin aber überzeugt, dass das
 Thema "Vegane Ernährung" zukünftig immer mehr eine Rolle spielen wird. Natürlich
 auch bei Hochzeiten.
 
-<Gallery name="glryalohacheriehochzeit2" />
+<Gallery name="alohacheriehochzeit2" />
 
 **Anne:** Und darum seid Ihr auch auf die Idee gekommen, veganes
 Hochzeitscatering anzubieten?
@@ -149,7 +149,7 @@ Als kleines Geschenk hat mir Fabian eines seiner Rezept verraten.
 
 ## Alohachérie Manufaktur – Hochzeitsdessert
 
-<Gallery name="glryalohacherierezept" />
+<Gallery name="alohacherierezept" />
 
 ### Rote Bete Mousse mit Wildorangenragout und Kiwi-Minz-Pesto á la Alohachérie Manufaktur
 

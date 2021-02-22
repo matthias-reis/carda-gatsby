@@ -68,6 +68,6 @@ Tarifa gehört zur andalusischen Provinz Cádiz. Die Stadt liegt am südlichsten
 Punkt von Europa an der engsten Stelle der Straße von Gibraltar. Für Surfer,
 Kitsurfer, Wellenreiter und Wanderer ist Tarifa ein echter Hotspot.
 
-<Gallery name="glrytarifa2019" />
+<Gallery name="tarifa2019" />
 
   

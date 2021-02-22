@@ -74,6 +74,6 @@ Patient\*innen  zwischen Bäumen abhalten. Ich für meinen Teil kann auf jeden
 Fall sagen, dass ich mich trotz der fiesen Erkältung, die mich im Moment im
 Griff hat, schon ein kleines bisschen besser fühle
 
-<Gallery name="glrywaldpark-marienhoehe-suelldorf-2019-10-06" />
+<Gallery name="waldpark-marienhoehe-suelldorf-2019-10-06" />
 
   

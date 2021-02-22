@@ -20,7 +20,11 @@ export const ArticleCrossLinkSection: React.FC<{
     <Section>
       <Container large>
         <h2>Interessante Beiträge</h2>
-        <ArticleList maxArticles={4} articles={recommendations} />
+        <ArticleList
+          maxArticles={4}
+          articles={recommendations}
+          content="recommendations"
+        />
         {meta.fields.labels && (
           <>
             <h2>Kategorien & Stichworte</h2>

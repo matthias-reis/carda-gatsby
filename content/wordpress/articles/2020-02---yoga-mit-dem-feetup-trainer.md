@@ -80,7 +80,7 @@ gebraucht. Die Handgriffe funktionierten dabei mit dem beiliegenden
 Inbusschlüssel fast intuitiv. Wer trotzdem lieber mit Anleitung schraubt: Sie
 ist ausführlich erklärt und klar bebildert.
 
-<Gallery name="glryfeetupgrey" />
+<Gallery name="feetupgrey" />
 
 ## Vom ersten zaghaften Versuch zum Yoga Flow
 
@@ -178,7 +178,7 @@ nach Modell, zwischen 129 und 229 Euro. Im ersten Moment klingt das vielleicht
 teuer. Ich finde aber, dass das für ein derart vielseitiges und hochwertiges
 Yogatool vollkommen fair ist.
 
-<Gallery name="glryfeetupcolor" />
+<Gallery name="feetupcolor" />
 
 ## Weitere Infos
 

@@ -19,7 +19,7 @@ module.exports = async (l, e, line) => {
   const newGalleryRegex = /\[(glry|myflickr) .*"(.*)"\]/;
   const newGalleryResult = newGalleryRegex.exec(line);
   if (newGalleryResult) {
-    const prefix = newGalleryResult[1] === 'myflickr' ? 'flickr/' : 'glry';
+    const prefix = newGalleryResult[1] === 'myflickr' ? 'flickr/' : '';
     const name = newGalleryResult[2];
     output = `<Gallery name="${prefix}${name}" />`;
   }

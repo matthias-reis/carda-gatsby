@@ -140,6 +140,6 @@ Setlist habe ich Euch auch mitgebracht.
 
 Metulsky Curse Revisited
 
-<Gallery name="glry2019-04-06-long-distance-calling" />
+<Gallery name="2019-04-06-long-distance-calling" />
 
   

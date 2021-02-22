@@ -54,6 +54,6 @@ X-Blockx, Alphaville und I Am The Architect. Als wir dort waren, fand im
 berühmten Skater's Palace gerade das erste
 [Golden Silence Festival](/2019/11/golden-silence-festival-muenster/) statt.
 
-<Gallery name="glry2019-11-02-muenster" />
+<Gallery name="2019-11-02-muenster" />
 
   

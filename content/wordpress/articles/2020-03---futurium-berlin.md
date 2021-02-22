@@ -68,6 +68,6 @@ und sonntags von 10:00 Uhr bis 18:00 Uhr sowie donnerstags von 10:00 Uhr bis
 **Hinweis:** Durch die derzeitige Corona-Krise ist das Futurium bis auf Weiteres
 geschlossen.
 
-<Gallery name="glryfuturium" />
+<Gallery name="futurium" />
 
   

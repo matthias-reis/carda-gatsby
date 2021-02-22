@@ -85,7 +85,7 @@ enthält allerdings lediglich 40 Prozent der Kalorien. Wenn Ihr mehr über Xucke
 und die Gewinnung des veganen Süßstoffs erfahren möchte,
 [findet hier weitere Infos](https://wp.me/p533wO-6WI).
 
-<Gallery name="glryadventskalender" />
+<Gallery name="adventskalender" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

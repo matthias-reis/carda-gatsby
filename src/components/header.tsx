@@ -1,13 +1,26 @@
-import * as React from "react";
-import styled from "@emotion/styled";
+import * as React from 'react';
+import styled from '@emotion/styled';
 
-import Link from "gatsby-link";
-import { Logo } from "./logo";
-import { MainNav } from "./nav-main";
-import { Search } from "./search";
-import { SearchIcon } from "./search-icon";
+import Link from 'gatsby-link';
+import { Logo } from './logo';
+import { MainNav } from './nav-main';
+import { Search } from './search';
+import { event } from './analytics';
 
-import { color, space, font, fontSize } from "../style";
+import { space } from '../style';
+
+export const Header: React.FC = () => (
+  <Wrapper>
+    <HomeLink to="/" onClick={() => event('link/click', 'link', 'header/home')}>
+      <Logo />
+      <h1>cardamonchai.com</h1>
+    </HomeLink>
+    <RightSide>
+      <MainNav />
+      <Search />
+    </RightSide>
+  </Wrapper>
+);
 
 const Wrapper = styled.header`
   box-shadow: 0 13px 30px -25px #0004;
@@ -30,16 +43,3 @@ const RightSide = styled.div`
   display: flex;
   align-items: center;
 `;
-
-export const Header: React.FC = () => (
-  <Wrapper>
-    <HomeLink to="/">
-      <Logo />
-      <h1>cardamonchai.com</h1>
-    </HomeLink>
-    <RightSide>
-      <MainNav />
-      <Search />
-    </RightSide>
-  </Wrapper>
-);

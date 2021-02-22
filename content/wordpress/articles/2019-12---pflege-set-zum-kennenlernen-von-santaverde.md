@@ -109,7 +109,7 @@ wird. Besonders gut finde ich, dass es sich super verteilen lässt und sehr
 schnell einzieht - daher kann man es auch ziemlich gut als Basis für weitere
 Pflegeprodukte verwenden.
 
-<Gallery name="glryweihnachtensantaverde" />
+<Gallery name="weihnachtensantaverde" />
 
 Wer jetzt neugierig geworden ist: Alles über Santaverde könnt Ihr
 [hier im Blog erfahren](/tag/santaverde/). Die Santaverde Produkte findet Ihr in

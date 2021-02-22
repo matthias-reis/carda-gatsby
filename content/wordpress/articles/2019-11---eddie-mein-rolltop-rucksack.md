@@ -66,7 +66,7 @@ Handyfach mit Klettverschluss vorne sowie eins Steckfach für eine große
 Wertsachen, ein großes Hauptfach und ein praktischer Schlüsselfinder im
 Front-Fach.
 
-<Gallery name="glryfeuerwear1" />
+<Gallery name="feuerwear1" />
 
 Das Rolltop kann ich mit einem praktischen Haken in drei Positionen
 verschließen, je nachdem wie voll ich "Eddie" gepackt habe. Auch, wenn ich mal
@@ -96,7 +96,7 @@ Regen kommt, macht das auch nichts aus - mein "Eddie" hat den letzten Hamburger
 Wolkenbruch gut überstanden. Meine Objektive sind nicht angelaufen und auch
 sonst ist innen alles schön trocken geblieben.
 
-<Gallery name="glryfeuerwear2" />
+<Gallery name="feuerwear2" />
 
 Wer neugierig geworden ist und selbst einen "Eddie" adoptieren möchte, kann das
 [auf der Homepage](https://www.feuerwear.de/rucksaecke-aus-feuerwehrschlauch/rolltop-rucksack-eddie)

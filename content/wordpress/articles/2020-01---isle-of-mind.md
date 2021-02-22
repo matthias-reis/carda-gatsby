@@ -63,7 +63,7 @@ Surfrider Foundation Europe. Die Organisation setzt sich europaweit für den
 Gewässerschutz ein. Für die Verpackung der Yoga-Handtücher werden zu 100 Prozent
 recycelte Materialien verwendet. Der Versand erfolgt CO<sub>2</sub>-neutral.
 
-<Gallery name="glryisleofmindcardamonchaisw" />
+<Gallery name="isleofmindcardamonchaisw" />
 
 Ich habe mich für
 [das Modell "Joyful Jana"](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Ftop-four-products%2Fproducts%2Fjoyful-jana)
@@ -134,7 +134,7 @@ tollen Tücher auf jeden Fall empfehlen. Wer neugierig geworden ist, kann
 jederzeit
 [im Isle Of Mind Onlineshop vorbeischauen](https://www.adcell.de/promotion/click/promoId/196769/slotId/80259?param0=https%3A%2F%2Fisleofmind.com%2Fcollections%2Fall-products).
 
-<Gallery name="glryisleofmindcardamonchaibunt" />
+<Gallery name="isleofmindcardamonchaibunt" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

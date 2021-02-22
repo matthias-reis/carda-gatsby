@@ -77,6 +77,6 @@ sie ins Rollen gebracht hat.
 Wir feiern jetzt noch ein bisschen und freuen uns schon auf die Nachrichten
 heute Abend.
 
-<Gallery name="glryallefuersklimaanne20190920" />
+<Gallery name="allefuersklimaanne20190920" />
 
   

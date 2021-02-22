@@ -10,6 +10,7 @@ import {
   IconFacebook,
   IconBloglovin,
 } from './icons';
+import { event } from './analytics';
 
 export const FooterContent: React.FC = () => (
   <Section>
@@ -34,6 +35,7 @@ export const FooterContent: React.FC = () => (
         <CTA
           href="https://mailchi.mp/94bdbb6fded3/cardamonchai"
           target="_blank"
+          onClick={() => event('link/click', 'link', 'footer/newsletter')}
         >
           Jetzt zur Anmeldung
         </CTA>
@@ -42,31 +44,51 @@ export const FooterContent: React.FC = () => (
         <H3Deco>Netzwerk</H3Deco>
         <NetworkList>
           <li>
-            <NetworkItem href="http://pinterest.com/annereko/boards/">
+            <NetworkItem
+              href="http://pinterest.com/annereko/boards/"
+              target="_blank"
+              onClick={() => event('link/click', 'link', 'footer/pinterest')}
+            >
               <IconPinterest />
               Pinterest
             </NetworkItem>
           </li>
           <li>
-            <NetworkItem href="https://twitter.com/Anne_Reko">
+            <NetworkItem
+              href="https://twitter.com/Anne_Reko"
+              target="_blank"
+              onClick={() => event('link/click', 'link', 'footer/twitter')}
+            >
               <IconTwitter />
               Twitter
             </NetworkItem>
           </li>
           <li>
-            <NetworkItem href="https://www.instagram.com/anne_reko/">
+            <NetworkItem
+              href="https://www.instagram.com/anne_reko/"
+              target="_blank"
+              onClick={() => event('link/click', 'link', 'footer/instagram')}
+            >
               <IconInstagram />
               Instagram
             </NetworkItem>
           </li>
           <li>
-            <NetworkItem href="https://www.facebook.com/cardamonchai">
+            <NetworkItem
+              href="https://www.facebook.com/cardamonchai"
+              target="_blank"
+              onClick={() => event('link/click', 'link', 'footer/facebook')}
+            >
               <IconFacebook />
               Facebook
             </NetworkItem>
           </li>
           <li>
-            <NetworkItem href="http://www.bloglovin.com/blog/2889954/cardamonchai">
+            <NetworkItem
+              href="http://www.bloglovin.com/blog/2889954/cardamonchai"
+              target="_blank"
+              onClick={() => event('link/click', 'link', 'footer/bloglovin')}
+            >
               <IconBloglovin />
               Bloglovin
             </NetworkItem>

@@ -3,6 +3,7 @@ import { Link as GatsbyLink } from 'gatsby';
 import styled from '@emotion/styled';
 import { color, space } from '../style';
 import { IconExternalLink } from './icons';
+import { event } from './analytics';
 
 const link = `
   position: relative;
@@ -25,7 +26,12 @@ const StyledExternalLink = styled.a`
   }
 `;
 
-const ExternalLink: React.FC = ({ children, ...props }) => (
+const ExternalLink: React.FC<{
+  href: string;
+  target?: string;
+  onClick?: React.MouseEventHandler;
+  rel?: string;
+}> = ({ children, href, ...props }) => (
   <StyledExternalLink {...props}>
     {children}
     <IconExternalLink />
@@ -38,12 +44,20 @@ export const Link: React.FC<{ href: string }> = ({ href, children }) => {
       <ExternalLink
         href={href}
         target="_blank"
+        onClick={() => event('link/click/external', 'link', href)}
         rel="noreferrer, noopener, nofollow"
       >
         {children}
       </ExternalLink>
     );
   } else {
-    return <InternalLink to={href}>{children}</InternalLink>;
+    return (
+      <InternalLink
+        to={href}
+        onClick={() => event('link/click/internal', 'link', href)}
+      >
+        {children}
+      </InternalLink>
+    );
   }
 };

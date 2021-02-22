@@ -166,7 +166,7 @@ Society und dem Biosiegel ausgezeichnet.
 
 [Wenn Ihr gerne mehr über die Unterschiede zwischen veganer Kosmetik, Biokosmetik und Naturkosmetik erfahren wollt, habe ich hier einen Beitrag für Euch](/2018/03/vegane-kosmetik-und-naturkosmetik/).
 
-<Gallery name="glrysantaverdefincaanne2019" />
+<Gallery name="santaverdefincaanne2019" />
 
 Auf der Seite von Santaverde findet Ihr unter anderem ein umfangreiches
 Inhaltsstofflexikon, das besonderes für Allergiker und empfindliche Hauttypen

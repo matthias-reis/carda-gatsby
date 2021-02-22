@@ -61,7 +61,7 @@ einen Backofen - schon kann es losgehen.
 - 1/2 TL Salz
 - 1 Tasse Rohrohrzucker
 
-<Gallery name="glrycookiesvorher" />
+<Gallery name="cookiesvorher" />
 
 Als Erstes heizt Ihr Euren Ofen auf 180 Grad vor. Dann gebt Ihr alle Zutaten bis
 auf die Schokotropfen in eine Rührschüssel. Mischt alles schön, bis sich eine
@@ -82,7 +82,7 @@ kalten Zustand sind die Kekse fertig ausgehärtet.
 Die Cookies passen hervorragend zu einem schönen Glas Kakao oder heißem
 Früchtetee. Viel Spaß beim Backen und Essen!
 
-<Gallery name="glrycookiesnachher" />
+<Gallery name="cookiesnachher" />
 
 ## Infos zu den Zutaten
 

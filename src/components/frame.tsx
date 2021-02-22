@@ -3,22 +3,17 @@ import styled from '@emotion/styled';
 import { Global, css } from '@emotion/core';
 
 import { Header } from './header';
+import { Analytics } from './analytics';
 
 import { space, width, font, line, color } from '../style';
 
 const FONT_IMPORT =
   'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Raleway:ital,wght@0,300;0,700;1,300;1,700&display=swap';
 
-const PageContainer = styled.div`
-  margin: 0;
-`;
-const ContentContainer = styled.div`
-  margin: ${space[3]} 0 0 0;
-`;
-
 export const Frame: React.FC = ({ children }) => {
   return (
     <PageContainer>
+      <Analytics />
       <Global
         styles={css`
           @import url('${FONT_IMPORT}');
@@ -47,3 +42,10 @@ export const Frame: React.FC = ({ children }) => {
     </PageContainer>
   );
 };
+
+const PageContainer = styled.div`
+  margin: 0;
+`;
+const ContentContainer = styled.div`
+  margin: ${space[3]} 0 0 0;
+`;

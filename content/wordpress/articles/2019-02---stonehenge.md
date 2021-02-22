@@ -156,7 +156,7 @@ sie erklärt sich auch, woher der Name Mönchsferse stammt.
 > warf. Einer traf den Mann Gottes an der Ferse. Dieser Stein blieb im Boden
 > stecken. Er ist heute der Fersenstein von Stonehenge."
 
-<Gallery name="glry2012stonehenge" />
+<Gallery name="2012stonehenge" />
 
 _Hier geht's zu [Teil 5/17](/2009/05/mortehoe-cornwall-12-05-2009/) _
 

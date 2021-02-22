@@ -74,7 +74,7 @@ Wandert Ihr wie wir gerne? Rund um die Externsteine findet Ihr zahlreiche
 interessante Routen. Höhenwege wechseln sich dort mit Heideland und
 Buchenwäldern ab. Die Fauna des Teutoburger Waldes hält so einiges bereit.
 
-<Gallery name="glryexternsteine2019anne" />
+<Gallery name="externsteine2019anne" />
 
 Quelle: [externsteine-info.de](https://www.externsteine-info.de/)
 

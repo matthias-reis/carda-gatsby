@@ -134,7 +134,7 @@ ein Naturprodukt handelt. Der enthaltene Kaffee stammt aus Papua Neuguinea.
 Willst Du die einzige Kaffeeplantage kennenlernen?
 [Dann geht es hier entlang](/2017/09/die-einzige-kaffeeplantage-europas/).
 
-<Gallery name="glry20190131mounthagencoldbrewkaffee" />
+<Gallery name="20190131mounthagencoldbrewkaffee" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
 Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht

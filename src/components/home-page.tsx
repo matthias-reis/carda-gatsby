@@ -9,6 +9,8 @@ import { ArticleList } from './article-list';
 import { HomePagination } from './home-pagination';
 import { FooterNavigation } from './footer-navigation';
 import { FooterContent } from './footer-content';
+import { PageMeta } from './page-meta';
+import { event } from './analytics';
 
 type NextContent = {
   articles: CompactArticle[];
@@ -50,19 +52,32 @@ export const HomePage: React.FC<{
 
   return (
     <div>
+      <PageMeta
+        title="Rock 'n' Roll vegan – Anne bloggt cardamonchai"
+        path="/"
+      />
       <ContentSection>
         <Hd>
           <HomeLogo />
         </Hd>
-        <ArticleList articles={availableArticles.slice(0, 3)} />
+        <ArticleList
+          articles={availableArticles.slice(0, 3)}
+          content="home/top3"
+        />
       </ContentSection>
       <FooterContent />
       <FooterNavigation />
       <ContentSection>
-        <ArticleList articles={availableArticles.slice(3)} />
+        <ArticleList
+          articles={availableArticles.slice(3)}
+          content="home/next"
+        />
         <HomePagination
           isLoading={isLoading}
-          onShouldLoad={() => setNextPage((nextPage) => nextPage + 1)}
+          onShouldLoad={() => {
+            event('pagination/next-chunk', 'pagination');
+            setNextPage((nextPage) => nextPage + 1);
+          }}
         />
       </ContentSection>
     </div>

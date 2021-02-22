@@ -110,6 +110,6 @@ drauf.
 
 [Kampf gegen das Bienensterben](/2019/07/kampf-gegen-das-bienensterben/)
 
-<Gallery name="glrybienentraenke" />
+<Gallery name="bienentraenke" />
 
   

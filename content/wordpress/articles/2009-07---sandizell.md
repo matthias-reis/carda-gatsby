@@ -88,6 +88,6 @@ Besitzungen erhielten._ **Quellen:**
 [http://www.wikipedia.de](http://www.wikipedia.de/)
 [http://www.sandizell-com.de/](http://www.sandizell-com.de/)
 
-<Gallery name="glryannesandizell2009" />
+<Gallery name="annesandizell2009" />
 
   

@@ -72,7 +72,7 @@ mal zum Tränen neigen. Die Mascara enthält keine Duftstoffe oder
 genmanipulierten Inhaltsstoffe, sie ist frei von Erdölderivaten,
 tierversuchsfrei und Halal zertifiziert.
 
-<Gallery name="glryveganbeautybasket201501" />
+<Gallery name="veganbeautybasket201501" />
 
 Natürlich musste ich sie sofort ausprobieren. Mein Fazit: Die Mascara lässt sich
 mit dem puscheligen Bürstchen wunderbar auftragen, dabei klumpt sie nicht mal
@@ -145,7 +145,7 @@ weiterverwenden und kann mir sehr gut vorstellen, die Box früher oder später m
 zu abonnieren oder als Geschenk zu versenden. Von mir gibt es auf jeden Fall
 eine Ausprobier-Empfehlung.
 
-<Gallery name="glryveganbeautybasket201502" />
+<Gallery name="veganbeautybasket201502" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf

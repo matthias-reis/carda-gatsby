@@ -150,7 +150,7 @@ noch so alles erleben kann, schaut am besten
 Game bei sich in der Nähe hat,
 [findet hier eine Übersicht](http://escape-game.org/).
 
-<Gallery name="glrysherlock" />
+<Gallery name="sherlock" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

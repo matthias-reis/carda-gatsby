@@ -93,7 +93,7 @@ eine ganz besondere Stadt und es ist uns eine Ehre, hier zu spielen. Es gibt nur
 ganz wenige dieser Orte auf der Erde, an denen man ankommt und weiß: hier haben
 die Leute verstanden, was los ist."
 
-<Gallery name="glryrefused" />
+<Gallery name="refused" />
 
 ## Mit Thrice im Abend ankommen
 
@@ -121,7 +121,7 @@ glücklich gemacht. Das 2018 erschienene Album "Palms" ist etwas tiefer in der
 Mitte meines Herzens angekommen und ich bin gespannt auf weitere musikalische
 Meisterwerke von Thrice.
 
-<Gallery name="glrythrice" />
+<Gallery name="thrice" />
 
 Insgesamt war der Abend in der Großen Freiheit sehr gelungen. Die Kombination
 der Bands war einfach perfekt - von mir gibt es 100 Punkte auf der Genuss-Skala.

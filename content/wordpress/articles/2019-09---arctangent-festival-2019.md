@@ -110,6 +110,6 @@ Witterungsverhältnisse meine Kamera draußen gelassen und mit dem Mobiltelefon
 fotografiert. Ich denke, einen kleinen Eindruck bekommt Ihr auf jeden Fall
 trotzdem.
 
-<Gallery name="glryannearctangent2019" />
+<Gallery name="annearctangent2019" />
 
   

@@ -120,7 +120,7 @@ somit ausgeschlossen. Ein Großteil der verwendeten Zutaten trägt außerdem das
 EU-Biosiegel. Wer mehr über Santaverde erfahren möchte, liest am besten mal
 [diesen Artikel](/2018/01/santaverde/).
 
-<Gallery name="glry2018-12-santaverde-xingu-toner" />
+<Gallery name="2018-12-santaverde-xingu-toner" />
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

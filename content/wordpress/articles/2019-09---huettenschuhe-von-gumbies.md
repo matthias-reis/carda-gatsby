@@ -150,7 +150,7 @@ Wenn Ihr mehr über Gumbies erfahren wollt, schaut doch mal bei meinem ersten
 Testbericht vorbei. Darin habe ich die Gründungsgeschichte des Bielefelder
 Upcycling Unternehmens genau festgehalten.
 
-<Gallery name="glryannegumbies20190930" />
+<Gallery name="annegumbies20190930" />
 
 Erstehen könnt Ihr Eure Gumbies übrigens ganz bequem über den Onlineshop.
 Außerdem gibt es deutschlandweit zahlreiche Verkaufsstellen, falls Ihr sie

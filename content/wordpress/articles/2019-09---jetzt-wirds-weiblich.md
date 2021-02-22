@@ -178,7 +178,7 @@ Ausgabe der gewohnten robusten Teile. Jede\*r trägt, was er\*sie möchte, wer
 sich schon immer Metall-Accessoires und elegante Formen gewünscht hat, kommt ab
 jetzt auch auf seine Kosten.
 
-<Gallery name="glryfeuerwearanne092019" />
+<Gallery name="feuerwearanne092019" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Das Produkt wurde mir kostenlos zur
 Verfügung gestellt. Der Inhalt und meine Meinung wurden dadurch nicht

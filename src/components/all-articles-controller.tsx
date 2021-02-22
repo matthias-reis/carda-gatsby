@@ -21,6 +21,7 @@ const AllArticlesController: React.FC<{
           articles={articles}
           topic="Archiv"
           title={`Alle Artikel - Seite ${pageNumber}/${maxPageNumber}`}
+          path={`/all-articles/${pageNumber}`}
         />
         <AllArticlesPagination
           pageNumber={pageNumber}

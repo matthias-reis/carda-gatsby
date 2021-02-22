@@ -103,7 +103,7 @@ Nachhaltigkeit, Hamburg und veganen Lifestyle erfahren möchtet, seid Ihr bei mi
 genau richtig. Ich freue mich,
 [wenn Ihr meinen Newsletter abonniert](#newsletter) und auch in Zukunft mitlest.
 
-<Gallery name="glry2018-12-naissance-diy-badesalz" />
+<Gallery name="2018-12-naissance-diy-badesalz" />
 
 - _Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
   meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

@@ -1,11 +1,6 @@
 import * as React from 'react';
 import styled from '@emotion/styled';
 
-const LodingTrigger = styled.div`
-  position: relative;
-  top: -80vh;
-`;
-
 type HomePaginationProps = {
   onShouldLoad: () => void;
   isLoading: boolean;
@@ -44,3 +39,8 @@ export const HomePagination: React.FC<HomePaginationProps> = ({
     </div>
   );
 };
+
+const LodingTrigger = styled.div`
+  position: relative;
+  top: -80vh;
+`;

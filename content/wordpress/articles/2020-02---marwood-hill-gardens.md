@@ -49,7 +49,7 @@ Seerosenteichen kann man die Seele baumeln lassen. Im Anschluss an den Rundgang
 gibt es dann im gemütlichen und liebevoll geführten Café einen schönen
 Nachmittagstee.
 
-<Gallery name="glrymarwoodhillgardens" />
+<Gallery name="marwoodhillgardens" />
 
 ## Hier die Adresse des Gartens:
 

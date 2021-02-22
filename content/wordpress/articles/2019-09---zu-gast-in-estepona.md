@@ -58,7 +58,7 @@ Unsere nächste Station auf dem Roadtrip durch Andalusien war die
 werde ich hier im Blog noch weitere Bilder und Geschichten von unserer Reise
 teilen.
 
-<Gallery name="glryanneestepona20190623" />
+<Gallery name="anneestepona20190623" />
 
 ## Quellen
 

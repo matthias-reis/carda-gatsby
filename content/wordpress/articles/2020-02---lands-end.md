@@ -55,7 +55,7 @@ mystisches an sich. Ganz in der Nähe befindet sich ein Schiffsfriedhof, um den
 sich zahlreiche Geschichten ranken und schon allein der Name "Land's End" regt
 die Phantasie an.
 
-<Gallery name="glrylandsend" />
+<Gallery name="landsend" />
 
 ## Aufbruch ins Abenteuer
 

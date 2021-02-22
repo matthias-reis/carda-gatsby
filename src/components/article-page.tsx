@@ -14,6 +14,7 @@ import { InteractionDetails } from './interaction-details';
 import { space, color } from '../style';
 import { Article as ArticleMeta, CompactArticle } from '../types';
 import { CardaImage } from './carda-image';
+import { PageMeta } from './page-meta';
 
 const ArticleFooter = styled.div`
   margin-top: ${space[4]};
@@ -68,6 +69,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
   children,
   meta,
   recommendations,
+  path,
 }) => {
   const date = new Date(meta.frontmatter.date);
   const formattedDate = `${zeroPad(date.getDate(), 2)}.${zeroPad(
@@ -77,6 +79,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
   return (
     <div>
       <ArticleContainer>
+        <PageMeta title={meta.frontmatter.title} path={path} />
         <Interactions meta={meta} />
         <Meta>
           {getType(meta)} vom {formattedDate} ·{' '}
@@ -118,4 +121,5 @@ export const ArticlePage: React.FC<ArticleProps> = ({
 type ArticleProps = {
   meta: ArticleMeta;
   recommendations: CompactArticle[];
+  path: string;
 };

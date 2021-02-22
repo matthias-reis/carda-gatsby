@@ -191,7 +191,7 @@ Mit dem Gutscheincode WEIHNACHTEN erhalten meine Leser\*innen bis zum 26
 Dezember 19 **20 Prozent Rabatt**
 [auf alle Produkte im Roberts Teehaus Onlineshop](https://www.adcell.de/promotion/click/promoId/207071/slotId/80259).
 
-<Gallery name="glryrobertsteehaus" />
+<Gallery name="robertsteehaus" />
 
 Hat Euch mein Testbericht gefallen? Wenn Ihr in Zukunft nichts auf meinem Blog
 verpassen möchtet, [abonniert gerne meinen Newsletter](#newsletter), dann halte

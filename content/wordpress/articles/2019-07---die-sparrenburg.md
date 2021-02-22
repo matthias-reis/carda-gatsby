@@ -69,7 +69,7 @@ lediglich das Besteigen des Turms kostet zwei Euro. Für sechs Euro kann man ein
 Kombiticket erstehen, in dem der Turmaufstieg sowie eine Kasematten-Führung
 inbegriffen sind.
 
-<Gallery name="glrysparrenburg2019anne" />
+<Gallery name="sparrenburg2019anne" />
 
 Quellen:
 [bielefeld.de](https://www.bielefeld.de/de/ti/sehenswuerdigkeiten/sparrenburg/),

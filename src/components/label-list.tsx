@@ -1,9 +1,25 @@
-import * as React from "react";
-import styled from "@emotion/styled";
-import { Link } from "gatsby";
+import * as React from 'react';
+import styled from '@emotion/styled';
+import { Link } from 'gatsby';
 
-import { color, space, fontSize, font } from "../style";
-import { getPath } from "../gatsby/slugify";
+import { color, space, fontSize, font } from '../style';
+import { getPath } from '../gatsby/slugify';
+
+export const LabelList: React.FC<{ labels: string[] }> = ({ labels }) => {
+  const normalisedLabels = Array.from(new Set(labels));
+  return (
+    <StyledList>
+      {normalisedLabels.map((label: string) => {
+        const destination = getPath(label);
+        return (
+          <StyledLabel key={label} to={destination}>
+            {label}
+          </StyledLabel>
+        );
+      })}
+    </StyledList>
+  );
+};
 
 const StyledList = styled.nav`
   margin-bottom: ${space[3]};
@@ -26,19 +42,3 @@ const StyledLabel = styled(Link)`
     color: ${color.neutral[1]};
   }
 `;
-
-export const LabelList: React.FC<{ labels: string[] }> = ({ labels }) => {
-  const normalisedLabels = Array.from(new Set(labels));
-  return (
-    <StyledList>
-      {normalisedLabels.map((label: string) => {
-        const destination = getPath(label);
-        return (
-          <StyledLabel key={label} to={destination}>
-            {label}
-          </StyledLabel>
-        );
-      })}
-    </StyledList>
-  );
-};

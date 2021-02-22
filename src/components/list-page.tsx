@@ -6,6 +6,8 @@ import { space } from '../style';
 
 import { Title, Subtitle } from './typo';
 import { ArticleList } from './article-list';
+import { PageMeta } from './page-meta';
+import { slugify } from '../gatsby/slugify';
 
 const ContentSection = styled.div`
   margin: 0 ${space[4]};
@@ -22,9 +24,11 @@ const ListPage: React.FC<{
   articles: CompactArticle[];
   topic: string;
   title: string;
-}> = ({ articles, topic, title }) => {
+  path: string;
+}> = ({ articles, topic, title, path }) => {
   return (
     <div>
+      <PageMeta title={`${topic}${title}`} path={path} />
       <ContentSection>
         <Hd>
           <Title>
@@ -32,7 +36,7 @@ const ListPage: React.FC<{
           </Title>
           <Subtitle>{articles.length} Artikel</Subtitle>
         </Hd>
-        <ArticleList articles={articles} />
+        <ArticleList articles={articles} content={`list/${topic}`} />
       </ContentSection>
     </div>
   );

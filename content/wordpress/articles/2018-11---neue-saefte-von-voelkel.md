@@ -137,7 +137,7 @@ Ich kann Euch auf jeden Fall empfehlen, die neuen Voelkel-Getränke mal zu
 testen. Und jetzt drückt mir die Daumen, dass wir morgen fit sind, wenn unsere
 Reise losgeht!
 
-<Gallery name="glryvoelkel-muttersaefte" />
+<Gallery name="voelkel-muttersaefte" />
 
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

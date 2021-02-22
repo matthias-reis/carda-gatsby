@@ -3,8 +3,6 @@ import { MDXProvider } from '@mdx-js/react';
 import { MDXRenderer } from 'gatsby-plugin-mdx';
 import { graphql } from 'gatsby';
 
-import { RawArticle } from '../types';
-
 import { ArticlePage } from './article-page';
 import { ErrorBoundary } from './error-boundary';
 import { Meme } from './meme';
@@ -17,6 +15,7 @@ import { Gallery } from './gallery';
 import { H1, H2, H3, H4, H5, H6, P, Ul, Ol, Li, BlockQuote } from './typo';
 import { HR } from './hr';
 import { toCompactArticle } from '../to-compact-article';
+import { Article } from '../types';
 
 const shortcodes = { Meme, Youtube, Playlist, RemoteImage, Gallery };
 
@@ -36,16 +35,20 @@ const defaults = {
   blockquote: BlockQuote,
 };
 
-const ArticleController: React.FC<{ data: ArticleQuery; pageContext: any }> = ({
+const ArticleController: React.FC<{ data: ArticleQuery; path: string }> = ({
   data,
-  pageContext,
+  path,
 }) => {
   const recommendations = data.allMdx.nodes.map(toCompactArticle);
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
       <Frame>
         <ErrorBoundary>
-          <ArticlePage meta={data.mdx} recommendations={recommendations}>
+          <ArticlePage
+            path={path}
+            meta={data.mdx}
+            recommendations={recommendations}
+          >
             <MDXRenderer>{data.mdx.body}</MDXRenderer>
           </ArticlePage>
         </ErrorBoundary>
@@ -109,8 +112,8 @@ export const query = graphql`
 `;
 
 type ArticleQuery = {
-  mdx: RawArticle;
+  mdx: Article;
   allMdx: {
-    nodes: RawArticle[];
+    nodes: Article[];
   };
 };

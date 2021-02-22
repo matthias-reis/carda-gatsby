@@ -113,7 +113,7 @@ nicht oder nur sehr langsam abgebaut werden. Sie reichern sich in hohem Maße an
 und sind toxisch", berichtete sie uns. "Die Anreicherung ist besonders bei
 räuberischen Arten wie Lachs, Hai und Thunfisch sehr stark."
 
-<Gallery name="glrysofine1" />
+<Gallery name="sofine1" />
 
 ## Gift im Fisch
 
@@ -172,7 +172,7 @@ In Wirklichkeit wurde jedoch längst das Gegenteil bewiesen, meinte sie. "Lynne
 Sneddon von der Universität Liverpool und ihr Team haben inzwischen bei der
 Regenbogenforelle vergleichbare Strukturen wie beim Menschen nachgewiesen."
 
-<Gallery name="glrysofine2" />
+<Gallery name="sofine2" />
 
 ## Die vegane Alternative von SoFine
 

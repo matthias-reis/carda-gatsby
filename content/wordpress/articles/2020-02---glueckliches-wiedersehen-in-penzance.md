@@ -40,7 +40,7 @@ Auch im letzten Jahr haben wir auf unserer Fahrt durch Englands Süden wieder
 einen Ausflug dorthin gemacht. Genauer gesagt am 19. August. Ich habe mir es
 natürlich auch nicht nehmen lassen, zwei Erinnerungsfotos zu machen.
 
-<Gallery name="glryannepenzance" />
+<Gallery name="annepenzance" />
 
 [Penzance](/2009/05/penzance-cornwall-15-05-2009/) liegt am Eingang des
 Ärmelkanals. Von der Uferlinie aus hat man auch einen Blick auf das berühmte

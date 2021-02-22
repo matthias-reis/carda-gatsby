@@ -6,6 +6,7 @@ import { ErrorBoundary } from './error-boundary';
 import ListPage from './list-page';
 import { FooterNavigation } from './footer-navigation';
 import { toCompactArticle } from '../to-compact-article';
+import { slugify } from '../gatsby/slugify';
 
 const ListController: React.FC<{
   data: ListQuery;
@@ -31,6 +32,7 @@ const ListController: React.FC<{
           topic="Stichwort"
           articles={articles}
           title={pageContext.label}
+          path={`/tag/${slugify(pageContext.label)}`}
         />
         <FooterNavigation />
       </ErrorBoundary>

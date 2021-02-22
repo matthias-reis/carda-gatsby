@@ -138,7 +138,7 @@ Ein wundervolles Konzert von einer wunderbaren Band, die uns hoffentlich auch in
 den kommenden 25 Jahren noch viele Überraschungen, schöne Momente und wunderbare
 Melodien schenkt.
 
-<Gallery name="glry2019-10-21-archive-grosse-freiheit" />
+<Gallery name="2019-10-21-archive-grosse-freiheit" />
 
 <iframe src="https://www.youtube.com/embed/A4gBzUwo6Iw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

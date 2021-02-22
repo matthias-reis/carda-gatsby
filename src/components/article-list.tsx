@@ -10,8 +10,67 @@ import { color, space, fontSize } from '../style';
 
 import { CompactTitle, CompactSubtitle, P, S } from './typo';
 import { CardaImage } from './carda-image';
+import { event } from './analytics';
 
 moment.locale('de');
+
+export const ArticleList: React.FC<{
+  articles: CompactArticle[];
+  maxArticles?: number;
+  content: string;
+}> = ({ articles, maxArticles, content }) => {
+  if (maxArticles) {
+    articles = articles.slice(0, maxArticles);
+  }
+
+  return (
+    <List>
+      {articles.map((article, i) => {
+        return (
+          <Item key={article.path}>
+            <ItemLink
+              to={article.path}
+              onClick={() =>
+                event(`list/${content}/clicked`, 'list', content, `$(i + 1)`)
+              }
+            >
+              <Date>{moment(article.date).fromNow()}</Date>
+              <ImageContainer>
+                {article.image?.childImageSharp && (
+                  <Image
+                    Tag="div"
+                    alt={article.title}
+                    fluid={article.image!.childImageSharp.fluid}
+                  />
+                )}
+                {(article.remoteLoadingImage ?? null) && (
+                  <CardaImage
+                    alt={article.title}
+                    src={article.remoteThumbnailImage || ''}
+                    loading={article.remoteLoadingImage || ''}
+                  />
+                )}
+              </ImageContainer>
+              <Text>
+                <CompactTitle>{article.title}</CompactTitle>
+                <CompactSubtitle>{article.subTitle}</CompactSubtitle>
+                <S>{article.description}</S>
+              </Text>
+            </ItemLink>
+          </Item>
+        );
+      })}
+    </List>
+  );
+};
+
+const ImageContainer = styled.div`
+  width: 100%;
+  height: 0;
+  padding-bottom: 75%;
+  overflow: hidden;
+  position: relative;
+`;
 
 const List = styled.ul`
   display: grid;
@@ -56,56 +115,4 @@ const Date = styled.div`
 
 const Image = styled(UnstyledImage)`
   border-radius: 4px 4px 0 0;
-`;
-
-export const ArticleList: React.FC<{
-  articles: CompactArticle[];
-  maxArticles?: number;
-}> = ({ articles, maxArticles }) => {
-  if (maxArticles) {
-    articles = articles.slice(0, maxArticles);
-  }
-
-  return (
-    <List>
-      {articles.map((article) => {
-        return (
-          <Item key={article.path}>
-            <ItemLink to={article.path}>
-              <Date>{moment(article.date).fromNow()}</Date>
-              <ImageContainer>
-                {article.image?.childImageSharp && (
-                  <Image
-                    Tag="div"
-                    alt={article.title}
-                    fluid={article.image!.childImageSharp.fluid}
-                  />
-                )}
-                {(article.remoteLoadingImage ?? null) && (
-                  <CardaImage
-                    alt={article.title}
-                    src={article.remoteThumbnailImage || ''}
-                    loading={article.remoteLoadingImage || ''}
-                  />
-                )}
-              </ImageContainer>
-              <Text>
-                <CompactTitle>{article.title}</CompactTitle>
-                <CompactSubtitle>{article.subTitle}</CompactSubtitle>
-                <S>{article.description}</S>
-              </Text>
-            </ItemLink>
-          </Item>
-        );
-      })}
-    </List>
-  );
-};
-
-const ImageContainer = styled.div`
-  width: 100%;
-  height: 0;
-  padding-bottom: 75%;
-  overflow: hidden;
-  position: relative;
 `;

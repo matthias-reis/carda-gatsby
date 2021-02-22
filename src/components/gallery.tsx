@@ -3,6 +3,7 @@ import styled from '@emotion/styled';
 import { space, width } from '../style';
 import { useKeyboard } from './useKeyboard';
 import { IconChevronLeft, IconChevronRight, IconClose } from './icons';
+import { event } from './analytics';
 
 type GalleryImage = {
   mediumUrl: string;
@@ -47,6 +48,7 @@ const InternalGallery: React.FC<GalleryProps> = ({ images = [] }) => {
   const [currentId, setCurrentId] = React.useState<number>(0);
 
   const handleClick = (id: number) => {
+    event('gallery/open', 'gallery');
     setIsOpened(true);
     setCurrentId(id);
   };
@@ -55,7 +57,7 @@ const InternalGallery: React.FC<GalleryProps> = ({ images = [] }) => {
     <>
       <Container>
         {images.map((imageProps, id) => (
-          <Image {...imageProps} onClick={() => handleClick(id)} />
+          <Image key={id} {...imageProps} onClick={() => handleClick(id)} />
         ))}
       </Container>
       {isOpened && (
@@ -88,46 +90,59 @@ const Overlay: React.FC<OverlayProps> = ({
   setIsOpened,
   setCurrentId,
 }) => {
-  const handleBack = () => {
+  React.useEffect(() => {
+    event('gallery/view-image', 'gallery', images[currentId].largeUrl);
+  }, [currentId]);
+
+  const handleBack = (trigger: 'keyboard' | 'button') => {
+    event('gallery/back', 'gallery', trigger);
     if (currentId === 0) {
       setCurrentId(images.length - 1);
     } else {
       setCurrentId(currentId - 1);
     }
   };
-  const handleNext = () => {
+
+  const handleNext = (trigger: 'keyboard' | 'button') => {
+    event('gallery/next', 'gallery', trigger);
     if (currentId === images.length - 1) {
       setCurrentId(0);
     } else {
       setCurrentId(currentId + 1);
     }
   };
+
+  const handleClose = (trigger: 'keyboard' | 'button' | 'backdrop') => {
+    event('gallery/close', 'gallery', trigger);
+    setIsOpened(false);
+  };
+
   const handleKey = (ev: KeyboardEvent) => {
     ev.stopPropagation();
     ev.preventDefault();
     switch (ev.key) {
       case 'ArrowRight':
       case 'ArrowDown':
-        handleNext();
+        handleNext('keyboard');
         return;
       case 'ArrowLeft':
       case 'ArrowUp':
-        handleBack();
+        handleBack('keyboard');
         return;
       case 'x':
       case 'Escape':
-        setIsOpened(false);
+        handleClose('keyboard');
         return;
     }
   };
   useKeyboard(handleKey);
 
   return (
-    <Backdrop onClick={() => setIsOpened(false)}>
+    <Backdrop onClick={() => handleClose('backdrop')}>
       <Back
         onClick={(ev) => {
           ev.stopPropagation();
-          handleBack();
+          handleBack('button');
         }}
       >
         <IconChevronLeft />
@@ -135,7 +150,7 @@ const Overlay: React.FC<OverlayProps> = ({
       <Next
         onClick={(ev) => {
           ev.stopPropagation();
-          handleNext();
+          handleNext('button');
         }}
       >
         <IconChevronRight />
@@ -143,6 +158,7 @@ const Overlay: React.FC<OverlayProps> = ({
       <Close
         onClick={(ev) => {
           ev.stopPropagation();
+          handleClose('button');
           setIsOpened(false);
         }}
       >

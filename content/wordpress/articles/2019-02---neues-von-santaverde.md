@@ -183,7 +183,7 @@ gestellt hat und immer ein offenes Ohr für mich hat, wenn ich Fragen zum Thema
 Hautpflege habe.
 [Hier geht es zur Homepage von Santaverde](https://www.santaverde.de/).
 
-<Gallery name="glry20190227santaverde" />
+<Gallery name="20190227santaverde" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog

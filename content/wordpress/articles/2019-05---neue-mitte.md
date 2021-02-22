@@ -64,6 +64,6 @@ Die Wahrheit liegt vielleicht irgendwo in der Mitte. Tante Emma und die alten
 Spelunken Geschichte. Über allem ein Dunst aus geröstetem Kaffee, Maische und
 Beton.
 
-<Gallery name="glryneuemittealtonaanne" />
+<Gallery name="neuemittealtonaanne" />
 
   

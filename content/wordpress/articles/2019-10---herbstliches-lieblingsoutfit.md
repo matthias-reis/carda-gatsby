@@ -152,7 +152,7 @@ Spaß - sie sind zu meinem herbstlichen Lieblingsoutfit geworden. Ich denke, das
 sich in Zukunft sicher noch das ein oder andere Living Crafts Stück dazugesellen
 wird.
 
-<Gallery name="glryliving-crafts-2019-10-06" />
+<Gallery name="living-crafts-2019-10-06" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

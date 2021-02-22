@@ -157,7 +157,7 @@ Weitem (Nuss-Nougat-Creme!).
 Wer neugierig geworden ist und Xucker auch mal ausprobieren möchte, findet alle
 verfügbaren Produkte im Onlineshop.
 
-<Gallery name="glry2019-11-04-xucker" />
+<Gallery name="2019-11-04-xucker" />
 
 _\*Hinweis: Dieser Beitrag enthält Werbung und Affiliate Links. Der Inhalt und
 meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema

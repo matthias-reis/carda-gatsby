@@ -70,7 +70,7 @@ Vásquez &amp; Ibisch, das Balsaminengewächs Impatiens loki-schmidtiae Eb. Fisc
 &amp; Raheliv. sowie ein Rosengewächs, eine Schwertlilie, eine Orchidee und ein
 Skorpion wurden nach ihr benannt.
 
-<Gallery name="glryannelokischmidtgarten20190918" />
+<Gallery name="annelokischmidtgarten20190918" />
 
 <h3> __Wegweiser Loki Schmidt Garten__ </h3>
 

@@ -110,7 +110,7 @@ den Minztee zuzubereiten, nehme ich zwei gehäufte Teelöffel Minze auf 250
 Milliliter kochendes Wasser. Der Tee zieht dann abgedeckt etwa sechs bis acht
 Minuten.
 
-<Gallery name="glrykraeuterkontor" />
+<Gallery name="kraeuterkontor" />
 
 ## Berberitzenbeeren
 

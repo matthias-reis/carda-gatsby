@@ -64,6 +64,6 @@ Gärten sind torffrei. Kokosnussfasern und unserer Kompost werden verwendet, um
 nicht die Zerstörung der Torfmoore in Nordeuropa zu unterstützen, die wichtige
 Lebensräume für Wildtiere bieten.
 
-<Gallery name="glryalameda" />
+<Gallery name="alameda" />
 
   
