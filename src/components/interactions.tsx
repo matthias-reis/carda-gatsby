@@ -6,6 +6,18 @@ import { InteractionNewsletter } from './interaction-newsletter';
 import { space } from '../style';
 import { Article } from '../types';
 
+type InteractionsProps = {
+  meta: Article;
+};
+
+export const Interactions: React.FC<InteractionsProps> = ({ meta }) => (
+  <InteractionsContainer>
+    <InteractionNewsletter />
+    <InteractionComment />
+    <InteractionApplause meta={meta} />
+  </InteractionsContainer>
+);
+
 const InteractionsContainer = styled.nav`
   position: fixed;
   display: flex;
@@ -15,15 +27,3 @@ const InteractionsContainer = styled.nav`
   left: calc(50% - 23rem);
   text-align: center;
 `;
-
-export const Interactions: React.FC<InteractionsProps> = ({ meta }) => (
-  <InteractionsContainer>
-    <InteractionNewsletter />
-    <InteractionComment />
-    <InteractionApplause />
-  </InteractionsContainer>
-);
-
-type InteractionsProps = {
-  meta: Article;
-};

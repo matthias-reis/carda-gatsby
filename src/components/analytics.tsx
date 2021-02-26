@@ -20,7 +20,6 @@ export const event = (
   label?: string,
   value?: string
 ) => {
-  console.log('event', name, label);
   gtag(`carda/${name}`, {
     event_category: category,
     event_label: label,
@@ -29,6 +28,7 @@ export const event = (
 };
 
 export const gtag = (event: string, payload: any) => {
+  g.dataLayer = g.dataLayer || [];
   g.dataLayer.push({ event, ...payload });
 };
 

@@ -16,35 +16,6 @@ import { Article as ArticleMeta, CompactArticle } from '../types';
 import { CardaImage } from './carda-image';
 import { PageMeta } from './page-meta';
 
-const ArticleFooter = styled.div`
-  margin-top: ${space[4]};
-`;
-
-const ImageContainer = styled.div`
-  margin-top: ${space[2]};
-  margin-bottom: ${space[3]};
-`;
-
-const Label = styled(Link)`
-  display: inline-block;
-  border: 1px solid blue;
-  border-radius: 3px;
-  padding: 0 4px;
-  margin: 0 4px 4px 0;
-  color: black;
-  text-decoration: none;
-`;
-
-const Meta = styled.p`
-  margin: 0 0 ${space[2]} 0;
-  color: ${color.neutral[3]};
-  text-align: center;
-`;
-
-const CurrentLink = styled.a`
-  color: ${color.cold[0]};
-`;
-
 const ArticleContainer = Container.withComponent('article');
 
 const zeroPad = (val: string | number, digits: number) =>
@@ -123,3 +94,32 @@ type ArticleProps = {
   recommendations: CompactArticle[];
   path: string;
 };
+
+const ArticleFooter = styled.div`
+  margin-top: ${space[4]};
+`;
+
+const ImageContainer = styled.div`
+  margin-top: ${space[2]};
+  margin-bottom: ${space[3]};
+`;
+
+const Label = styled(Link)`
+  display: inline-block;
+  border: 1px solid blue;
+  border-radius: 3px;
+  padding: 0 4px;
+  margin: 0 4px 4px 0;
+  color: black;
+  text-decoration: none;
+`;
+
+const Meta = styled.p`
+  margin: 0 0 ${space[2]} 0;
+  color: ${color.neutral[3]};
+  text-align: center;
+`;
+
+const CurrentLink = styled.a`
+  color: ${color.cold[0]};
+`;
