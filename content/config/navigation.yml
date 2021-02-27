@@ -2,40 +2,40 @@ mainNavigation:
   - label: Buch kaufen
     url: https://amreis.de/ha118
   - label: Rock'n'Roll
-    url: /tags/musik
+    url: /tag/musik
     children:
-      - { url: /tags/interview, label: Interview }
-      - { url: /tags/bands-reviews, label: Bands & Reviews }
-      - { url: /tags/konzerte, label: Konzerte }
-      - { url: /tags/festivals, label: Festivals }
-      - { url: /tags/buecher-und-filme, label: Bücher & Filme }
+      - { url: /tag/interview, label: Interview }
+      - { url: /tag/bands-und-reviews, label: Bands & Reviews }
+      - { url: /tag/konzerte, label: Konzerte }
+      - { url: /tag/festivals, label: Festivals }
+      - { url: /tag/buecher-und-filme, label: Bücher & Filme }
   - label: Vegan
-    url: /tags/vegan
+    url: /tag/vegan
     children:
-      - { url: /tags/rezepte, label: Vegane Rezepte }
-      - { url: /tags/go-vegan, label: Darum vegan }
-      - { url: /tags/vegane-lokale, label: Vegane Lokale }
-      - { url: /tags/vegan-beauty, label: Mode & Beauty vegan }
-      - { url: /tags/produkte, label: Vegane Produkte }
+      - { url: /tag/rezepte, label: Vegane Rezepte }
+      - { url: /tag/go-vegan, label: Darum vegan }
+      - { url: /tag/vegane-lokale, label: Vegane Lokale }
+      - { url: /tag/vegan-beauty, label: Mode & Beauty vegan }
+      - { url: /tag/produkte, label: Vegane Produkte }
   - label: Gesellschaft
-    url: /tags/gesellschaft
+    url: /tag/gesellschaft
     children:
-      - { url: /tags/tierrechte, label: Tierrechte }
-      - { url: /tags/klima-umweltschutz, label: Klima & Umweltschutz }
-      - { url: /tags/politik-soziales, label: Politik & Soziales }
-      - { url: /tags/kunst, label: Kunst }
+      - { url: /tag/tierrechte, label: Tierrechte }
+      - { url: /tag/klima-umweltschutz, label: Klima & Umweltschutz }
+      - { url: /tag/politik-soziales, label: Politik & Soziales }
+      - { url: /tag/kunst, label: Kunst }
   - label: Unterwegs
-    url: /tags/unterwegs
+    url: /tag/unterwegs
     children:
-      - { url: /tags/reisen, label: Reisen }
-      - { url: /tags/hamburg, label: Hamburg }
-      - { url: /tags/ausflug, label: Ausflug }
-      - { url: /tags/skandinavien, label: Skandinavien }
-      - { url: /tags/england, label: Britische Inseln }
+      - { url: /tag/reisen, label: Reisen }
+      - { url: /tag/hamburg, label: Hamburg }
+      - { url: /tag/ausflug, label: Ausflug }
+      - { url: /tag/skandinavien, label: Skandinavien }
+      - { url: /tag/england, label: Britische Inseln }
   - label: Kreatives
-    url: /tags/kreatives
+    url: /tag/kreatives
     children:
-      - { url: /tags/diy, label: DIY }
-      - { url: /tags/prosa, label: Prosa }
-      - { url: /tags/lyrik, label: Lyrik }
-      - { url: /tags/tagebuch, label: Tagebuch }
+      - { url: /tag/diy, label: DIY }
+      - { url: /tag/prosa, label: Prosa }
+      - { url: /tag/lyrik, label: Lyrik }
+      - { url: /tag/tagebuch, label: Tagebuch }

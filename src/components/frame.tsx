@@ -4,18 +4,20 @@ import { Global, css } from '@emotion/core';
 
 import { Header } from './header';
 import { Analytics } from './analytics';
+import { SearchProvider } from './search-provider';
 
-import { space, width, font, line, color } from '../style';
+import { space, font, line, color } from '../style';
 
 const FONT_IMPORT =
   'https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Raleway:ital,wght@0,300;0,700;1,300;1,700&display=swap';
 
 export const Frame: React.FC = ({ children }) => {
   return (
-    <PageContainer>
-      <Analytics />
-      <Global
-        styles={css`
+    <SearchProvider>
+      <PageContainer>
+        <Analytics />
+        <Global
+          styles={css`
           @import url('${FONT_IMPORT}');
           html {
             font-size: 20px;
@@ -36,10 +38,11 @@ export const Frame: React.FC = ({ children }) => {
             font-style: italic;
           }
         `}
-      />
-      <Header />
-      <ContentContainer>{children}</ContentContainer>
-    </PageContainer>
+        />
+        <Header />
+        <ContentContainer>{children}</ContentContainer>
+      </PageContainer>
+    </SearchProvider>
   );
 };
 

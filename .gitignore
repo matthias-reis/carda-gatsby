@@ -9,4 +9,5 @@ static/admin/*.bundle.*
 yarn-error.log
 *.js
 !/src/wordpress/*.js
+.env
 
