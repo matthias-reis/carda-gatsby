@@ -23,9 +23,9 @@ const createImageTag = (article, src, alt, size, title = '') => {
   alt="${alt}"
   size="${size}"
   title="${title}"
-  mediumUrl="${remoteImage?.mediumUrl ?? src}"
-  largeUrl="${remoteImage?.largeUrl ?? src}"
-  loadingUrl="${remoteImage?.base64String}" />`;
+  mediumUrl="${(remoteImage && remoteImage.mediumUrl) || src}"
+  largeUrl="${(remoteImage && remoteImage.largeUrl) || src}"
+  loadingUrl="${remoteImage && remoteImage.base64String}" />`;
 };
 
 module.exports = async (l, e, line, article) => {

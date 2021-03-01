@@ -24,8 +24,8 @@ const verify = require('./verify');
 const write = require('./write');
 
 const BASE_FOLDER = resolve(__dirname, '../..', 'content/wordpress');
-const INPUT_FOLDER = resolve(BASE_FOLDER, 'source');
-const OUTPUT_FOLDER = resolve(BASE_FOLDER, 'articles');
+const INPUT_FOLDER = resolve(BASE_FOLDER, 'source-pages');
+const OUTPUT_FOLDER = resolve(BASE_FOLDER, '../pages');
 
 activity('wordpress', async (l) => {
   const files = await activity('findXml', findXml)(INPUT_FOLDER, 'wp*.xml');

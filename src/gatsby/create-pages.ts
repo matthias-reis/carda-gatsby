@@ -98,13 +98,20 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
       '../components',
       `article-controller.tsx`
     );
-
+    const singleStaticPageComponent = resolve(
+      __dirname,
+      '../components',
+      `page-controller.tsx`
+    );
     // ONE PAGE FOR EACH ARTICLE
     // create a gatsby page for each article / static page
     // including their recommendations
     createPage({
       path: edge.node.fields.path,
-      component: singleArticlePageComponent,
+      component:
+        edge.node.fields.type === 'page'
+          ? singleStaticPageComponent
+          : singleArticlePageComponent,
       context: {
         id: edge.node.id,
         recommendations: recommendations.map((r) => r.articleId), // recos are now in context and can be used in the query
@@ -140,6 +147,7 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
     '../components',
     `all-articles-controller.tsx`
   );
+
   packs.forEach((pack, i) => {
     // RAW PAGINATION DATA
     writePackToJson(pack, i + 1, packs.length);

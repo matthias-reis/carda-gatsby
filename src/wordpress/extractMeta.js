@@ -20,7 +20,7 @@ Domain: ${redBright(cat.domain[0])}
   }
 };
 
-const getType = (categories) => {
+const getType = (categories = []) => {
   const found = categories.find((cat) => cat.domain[0] === 'type');
   return (found && found.node) || 'Artikel';
 };
@@ -69,10 +69,12 @@ module.exports = async (l, e, article) => {
       pickedWpPostMeta['_yoast_wpseo_metadesc'] ||
       '',
     focusKeyword: pickedWpPostMeta['_yoast_wpseo_focuskw'] || '',
-    labels: article.category
-      .map((cat) => getLabels(e, cat, fileName))
-      .filter(Boolean),
-    type: getType(article.category),
+    labels:
+      article.category &&
+      article.category
+        .map((cat) => getLabels(e, cat, fileName))
+        .filter(Boolean),
+    type: article.category && getType(article.category),
     typeName:
       (pickedWpPostMeta.articletype || '').replace(/\n/g, '').trim() ||
       getType(article.category),
@@ -82,9 +84,11 @@ module.exports = async (l, e, article) => {
     isAffiliate: false,
     errors: {},
     thumbnailId: pickedWpPostMeta['_thumbnail_id'],
-    remoteThumbnailImage: images[pickedWpPostMeta['_thumbnail_id']]?.mediumUrl,
-    remoteImage: images[pickedWpPostMeta['_thumbnail_id']]?.largeUrl,
-    remoteLoadingImage: images[pickedWpPostMeta['_thumbnail_id']]?.base64String,
+    remoteThumbnailImage: (images[pickedWpPostMeta['_thumbnail_id']] || {})
+      .mediumUrl,
+    remoteImage: (images[pickedWpPostMeta['_thumbnail_id']] || {}).largeUrl,
+    remoteLoadingImage: (images[pickedWpPostMeta['_thumbnail_id']] || {})
+      .base64String,
   };
 
   // description is usually empty. seoDescription is important

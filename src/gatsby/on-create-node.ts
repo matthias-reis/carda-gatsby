@@ -43,7 +43,7 @@ export const onCreateNode = ({
         value: month,
       });
     } else if (type === 'page') {
-      path = `/pages/${slug}`;
+      path = `/${slug}`;
     }
 
     createNodeField({
