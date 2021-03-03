@@ -1,12 +1,21 @@
 import * as React from 'react';
 import { graphql } from 'gatsby';
-import { Article, CompactArticle, ListQuery } from '../types';
+import { indexBy, prop, pick } from 'ramda';
+import {
+  Article,
+  Category,
+  CategoryNode,
+  CompactArticle,
+  ListQuery,
+} from '../types';
 import { Frame } from './frame';
 import { ErrorBoundary } from './error-boundary';
 import ListPage from './list-page';
 import { FooterNavigation } from './footer-navigation';
 import { toCompactArticle } from '../to-compact-article';
 import { slugify } from '../gatsby/slugify';
+
+const getExtract = pick(['title', 'slug']);
 
 const ListController: React.FC<{
   data: ListQuery;
@@ -25,13 +34,44 @@ const ListController: React.FC<{
     date: new Date(node.frontmatter.date),
   }));
 
+  const rawCategories: Category[] = data.allCategoriesYaml.edges.map(
+    (e) => e.node
+  );
+
+  const categories: Record<string, Category> = indexBy(
+    prop('slug'),
+    rawCategories
+  );
+
+  for (const category of Object.values(categories)) {
+    if (category.parentId && categories[category.parentId]) {
+      category.parent = getExtract(categories[category.parentId]);
+      categories[category.parentId].children = {
+        ...categories[category.parentId].children,
+        [category.slug]: category,
+      };
+    }
+  }
+
+  const currentCategory = categories[pageContext.label];
+
+  let topic = 'Stichwort';
+
+  if (currentCategory) {
+    topic = 'Thema';
+  }
   return (
     <Frame>
       <ErrorBoundary>
         <ListPage
-          topic="Stichwort"
+          topic={topic}
+          description={
+            currentCategory ? currentCategory.description : undefined
+          }
+          childItems={currentCategory?.children ?? undefined}
+          parentItem={currentCategory?.parent ?? undefined}
           articles={articles}
-          title={pageContext.label}
+          title={currentCategory?.title ?? pageContext.label}
           path={`/tag/${slugify(pageContext.label)}`}
         />
         <FooterNavigation />
@@ -44,7 +84,10 @@ export default ListController;
 
 export const query = graphql`
   query ListQuery($label: String!) {
-    allMdx(filter: { fields: { labels: { eq: $label } } }) {
+    allMdx(
+      sort: { fields: frontmatter___date, order: DESC }
+      filter: { fields: { labels: { eq: $label } } }
+    ) {
       edges {
         node {
           fields {
@@ -65,6 +108,17 @@ export const query = graphql`
               }
             }
           }
+        }
+      }
+    }
+    allCategoriesYaml {
+      edges {
+        node {
+          slug
+          title
+          description
+          parentId
+          id
         }
       }
     }

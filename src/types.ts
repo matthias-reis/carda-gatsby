@@ -51,10 +51,26 @@ export type ListQuery = {
   allMdx: {
     edges: ListQueryNode[];
   };
+  allCategoriesYaml: {
+    edges: CategoryNode[];
+  };
 };
 
 export type ListQueryNode = {
   node: Article;
+};
+
+export type CategoryNode = {
+  node: Category;
+};
+export type Category = {
+  slug?: string;
+  title?: string;
+  description?: string;
+  parentId?: string;
+  id?: string;
+  children?: Record<string, Category>;
+  parent?: Category;
 };
 
 export type Labels = { [label: string]: Article[] };
