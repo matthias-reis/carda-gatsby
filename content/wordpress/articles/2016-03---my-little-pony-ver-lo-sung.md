@@ -25,8 +25,7 @@ date: 2016-03-04T13:17:28.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (55:31)"
+errors: {}
 thumbnailId: "13977"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_24476198774_eee27d7c6e_z__l.jpg
@@ -35,9 +34,6 @@ subTitle: Die Ge­win­ner stehen fest!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (55:31)
-
-<!--
 **Freitag ist ein schöner Tag! Und weil das so ist, habe ich heute was wirklich
 Schönes für Euch!**
 
@@ -80,9 +76,11 @@ hier noch einen schönen Text von DER HUND MARIE für die Gewinner. Er geht mir
 einfach nie aus dem Kopf, heute ist der richtige Tag, um ihn mit Euch zu teilen.
 
 <blockquote>
+
 ## Am vermaledeiten Pool
-Könnte sein du siehst mich nie mehr schlafen
-Bleib alleine ich werd heut nicht mehr wachen, nein
+
+Könnte sein du siehst mich nie mehr schlafen Bleib alleine ich werd heut nicht
+mehr wachen, nein
 
 Keine Felsen ich suche Kakteen Pausen sind nicht vorgesehen
 
@@ -100,8 +98,8 @@ Und ich hör mich noch sagen Ich hör mich noch sagen
 besten an morgen, an morgen?
 
 Denkt man in Momenten wie diesen am besten an morgen? In Momenten wie diesen am
-besten an morgen, an morgen?</blockquote>
+besten an morgen, an morgen?
 
--->
+</blockquote>
 
   

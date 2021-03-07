@@ -62,8 +62,7 @@ date: 2011-08-28T10:51:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:41)"
+errors: {}
 thumbnailId: "2556"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_08_10__l.jpg
@@ -72,9 +71,6 @@ subTitle: Der Mixtape-Tausch Teil 2
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (57:41)
-
-<!--
 Zusätzlich zu den 15 Songs, auf der Kassette, sowie auf 2 CDs (jeweils eine CD
 für jede Seite der Kassette), habe ich noch eine dritte CD mit dem Titel "Die
 Gescheiterten" erhalten, auf der sich neun Songs befinden, die bereits in der
@@ -84,7 +80,9 @@ wenn man nach der Qualität urteilt. Zusätzlich zur Musik enthielt das Päckche
 einen wundervollen Brief, aus dem ich hier einen kleinen Auszug (mit
 freundlicher Genehmigung von Ginsberg) zeigen möchte:
 
-<blockquote>"... Aber nun zum Eingemachten.
+<blockquote>
+
+"... Aber nun zum Eingemachten.
 
 Die Kassette darf sich zu Recht damit rühmen, meine bisher Beste zu sein. Ich
 habe ja schon so einige erstellt und oftmals war es das heimliche Ziel, die EINE
@@ -131,7 +129,11 @@ Ton.
 
 Einige Lieder konnten es leider nicht auf die Kassette schaffen, da Du aber
 genau wie ich ein Fan von Bonuseditionen bist, dachte ich mir, dass ich Dir
-einfach noch eine dritte CD mitgebe..."</blockquote>## Eine gelungene Mischung
+einfach noch eine dritte CD mitgebe..."
+
+</blockquote>
+
+## Eine gelungene Mischung
 
 Insgesamt ist das Mixtape wirklich eine gelungene Mischung, die wie schon
 erwähnt, sehr gut meinen Geschmack trifft, die CDs laufen in meinem Auto hoch
@@ -261,7 +263,5 @@ ist auf dem Album "The Coast Is Never Clean" zu finden)
 **26.) Prefab Sprout - Bonny**
 
 [youtube=http://www.youtube.com/watch?v=zefR13phCKM]
-
--->
 
   

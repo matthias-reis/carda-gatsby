@@ -36,8 +36,7 @@ date: 2017-10-18T07:03:05.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (99:7)"
+errors: {}
 thumbnailId: "18143"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_The-Thread-That-Keeps-Us3__l.jpg
@@ -46,9 +45,6 @@ subTitle: Auskopplung "End Of The World With You"
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (99:7)
-
-<!--
 **_Calexico_ habe ich als produktive Band kennengelernt. Kaum hatte man sich an
 den Gedanken gewöhnt, dass es wieder ein neues, geniales Album gibt, wurde auch
 schon wieder ein neues vorgestellt. Das ist auch jetzt wieder der Fall. In Kürze
@@ -146,9 +142,10 @@ es erst mal was auf die Ohren. Vorhang auf für
 
 <iframe src="https://www.youtube.com/embed/TU1lFU__2fI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<blockquote>I thought you were the one who said cold wars are a bust
-She doesn't want a Romeo, just someone she can trust
-With an ear to the ground
+<blockquote>
+
+I thought you were the one who said cold wars are a bust She doesn't want a
+Romeo, just someone she can trust With an ear to the ground
 
 Love in the age of the extremes There's nothing better that I'd rather do Then
 to scatter all the myths And walk to the start of the end of the world with you
@@ -167,7 +164,9 @@ a star going by Can't see too well out here in the dark
 Time in the age of the extremes There's nothing better that I'd rather feel Then
 to scatter all the myths Bring back a little piece of mind for you You gotta
 vantage point so we'll sit and watch the view At the edge of the end of the
-world</blockquote>
+world
+
+</blockquote>
 
 _Die Fotos habe ich aufgenommen, das Album-Cover stammt aus iTunes._
 
@@ -191,7 +190,5 @@ _Die Fotos habe ich aufgenommen, das Album-Cover stammt aus iTunes._
 [WaveLab Recording Studio](https://www.facebook.com/WaveLab-Recording-Studio-157816907583478/)
 
 Hier findet Ihr die [Homepage](http://www.casadecalexico.com) von Calexico.
-
--->
 
   

@@ -33,8 +33,7 @@ date: 2016-05-25T12:41:21.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (104:32)"
+errors: {}
 thumbnailId: "14915"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_27361046801_01f643209d_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_27361046801_01f643209d_z__l.jpg
@@ -43,9 +42,6 @@ subTitle: Vegane Pflege bei Rosacea
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (104:32)
-
-<!--
 <RemoteImage
   alt="Gladskin"
   size="medium"
@@ -156,7 +152,9 @@ später schon eine freundliche Antwort:
 
 ## Meine Anfrage
 
-<blockquote>Guten Tag!
+<blockquote>
+
+Guten Tag!
 
 Da ich vegan lebe, habe ich eine Produktanfrage. Sicher wäre die Antwort auch
 für Ihre FAQ bzw. für andere Veganer/Allegiker etc. interessant. Sind in den
@@ -164,27 +162,37 @@ Gladskin Produkten Inhaltsstoffe tierischen Ursprungs verarbeitet? Werden oder
 wurden die Inhaltsstoffe bzw. werden oder wurden die Produkte in Tierversuchen
 getestet? Vielen Dank im Voraus für Ihre Antwort!
 
-Herzliche Grüße Anne Reis</blockquote>
+Herzliche Grüße Anne Reis
+
+</blockquote>
 
 ## Antwort von Gladskin
 
-<blockquote>Sehr geehrte Frau Reis,
+<blockquote>
+
+Sehr geehrte Frau Reis,
 
 vielen Dank für Ihr Interesse an Gladskin und Ihre Frage.
 
 Für Gladskin-Produkte werden keine Tierversuche durchgeführt. Die von uns
 verwendeten Zusatzstoffe sind pflanzlich oder synthetisch, es gibt keine
-Inhaltsstoffe mit einem tierischen Ursprung. </blockquote>
+Inhaltsstoffe mit einem tierischen Ursprung.
+
+</blockquote>
 
 > Ich hoffe, Ihnen mit diesen Informationen weitergeholfen zu haben. Andernfalls
 > oder bei weiteren Fragen können Sie sich jederzeit gern mit uns in Verbindung
 > setzen.
 
-<blockquote>Mit freundlichen Grüßen
+<blockquote>
+
+Mit freundlichen Grüßen
 
 im Namen des Gladskin-Teams
 
-Steffi O.</blockquote>
+Steffi O.
+
+</blockquote>
 
 Das klingt doch schon mal ganz gut, oder? Und es kam noch besser. Ich bekam noch
 eine persönliche Hauttypberatung und das Versprechen, dass man mir die Produkte
@@ -193,7 +201,9 @@ erstatte.
 
 ## Meine zweite Mail
 
-<blockquote>Hallo Frau O,
+<blockquote>
+
+Hallo Frau O,
 
 das sind hervorragende Neuigkeiten für mich! Herzlichen Dank! Geben Sie das
 ruhig mal weiter, ob das evtl. in ihre FAQ aufgenommen wird, ich denke, dass das
@@ -208,11 +218,15 @@ http://cardamonchai.com/2016/03/vegane-kosmetik-von-pony-huetchen-im-test/
 
 http://cardamonchai.com/2014/08/wolkenseifen-himmlische-duefte-ganz-ohne-plastik/
 
-Herzliche Grüße Anne Reis</blockquote>
+Herzliche Grüße Anne Reis
+
+</blockquote>
 
 ## Antwort von Gladskin
 
-<blockquote>Hallo Frau Reis,
+<blockquote>
+
+Hallo Frau Reis,
 
 vielen Dank für Ihre Reaktion. Es freut uns zu hören dass Sie Gladskin testen
 möchten und darüber in Ihrem Blog schreiben möchten! Zuerst möchte ich Gladskin
@@ -242,11 +256,15 @@ Ich hoffe bald von Ihnen zu hören!
 
 Mit freundlichen Grüßen
 
-Steffi O.</blockquote>
+Steffi O.
+
+</blockquote>
 
 ## Meine dritte Mail
 
-<blockquote>Hallo Frau O.,
+<blockquote>
+
+Hallo Frau O.,
 
 das ist schön, ich freue mich drauf, die Produkte zu testen!
 
@@ -260,7 +278,9 @@ einen LSF?
 
 Ich freue mich auf Ihre Nachricht!
 
-Herzliche Grüße Anne Reis</blockquote>
+Herzliche Grüße Anne Reis
+
+</blockquote>
 
 ## Antwort von Gladskin
 
@@ -461,7 +481,5 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_0
 _\*Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
 dadurch nicht beeinflusst. Infos zum Thema Werbung in meinem Blog findet Ihr auf
 meiner [Transparenz-Seite](/werbung/). _
-
--->
 
   

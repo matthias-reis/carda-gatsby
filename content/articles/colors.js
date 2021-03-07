@@ -14,8 +14,10 @@ export const Colors = ({ palette }) => {
   const colors = color[palette];
   return (
     <Line>
-      {colors.map((color) => (
-        <div style={{ background: color }}>&nbsp;</div>
+      {colors.map((color, i) => (
+        <div key={i} style={{ background: color }}>
+          &nbsp;
+        </div>
       ))}
     </Line>
   );

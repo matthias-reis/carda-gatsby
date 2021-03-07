@@ -26,8 +26,7 @@ date: 2017-10-05T05:10:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (36:28)"
+errors: {}
 thumbnailId: "18003"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_37239585240_9e5d04507e_k__l.jpg
@@ -36,9 +35,6 @@ subTitle: Bunte Bilderserie mit original Irischen Seevögeln
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (36:28)
-
-<!--
 **In Dublin konnte ich mich kaum sattsehen. Möwen! Überall Möwen! Ein paar Mal
 musste ich sogar aufpassen, dass ich vor lauter Möwenfotografie nicht die tollen
 Sehenswürdigkeiten übersehe. Aus lieber Tradition und weil die Dubliner Möwen
@@ -65,9 +61,9 @@ und möchte sie Euch heute präsentieren. Ein weiterer Beitrag aus meiner bunten
 Möwenserie. Ich wünsche Euch ganz viel Spaß beim Anschauen! Das nächste Mal gibt
 es dann mehr Geschichten aus Irland.
 
-<blockquote>"Die Möwen sehen alle aus,
-als ob sie Emma hießen.
-Sie tragen einen weißen Flaus
+<blockquote>
+
+"Die Möwen sehen alle aus, als ob sie Emma hießen. Sie tragen einen weißen Flaus
 und sind mit Schrot zu schießen.
 
 Ich schieße keine Möwe tot, ich laß sie lieber leben – und füttre sie mit
@@ -76,7 +72,9 @@ Roggenbrot und rötlichen Zibeben.
 O Mensch, du wirst nie nebenbei der Möwe Flug erreichen Wofern du Emma heißest,
 sei zufrieden, ihr zu gleiche"
 
-Christian Morgenstern</blockquote>
+Christian Morgenstern
+
+</blockquote>
 
 <Gallery name="flickr/annemoewendublin2017" />
 
@@ -124,7 +122,5 @@ Christian Morgenstern</blockquote>
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
--->
 
   

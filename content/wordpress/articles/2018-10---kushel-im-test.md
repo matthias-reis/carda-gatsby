@@ -26,7 +26,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (79:65)"
+  invalidMdx: "unknown: Unterminated JSX contents (104:16)"
 thumbnailId: "22467"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-28-kushell-003__l.jpg
@@ -35,7 +35,7 @@ subTitle: Nachhaltige Handtücher als Holz
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (79:65)
+## unknown: Unterminated JSX contents (104:16)
 
 <!--
 _Werbung\*_
@@ -125,13 +125,18 @@ informiert. Auf Kickstarter\*** geht es heute los, die Preisliste ist schon
 online. Das haben Mattias und seine Mitgründer John und Jim am Freitag
 geschrieben:
 
-<blockquote class="wp-block-quote">Kickstarter hat uns heute gesagt, dass sich unser Verifikations-Prozess durch das hohe Aufkommen an Vorbestellungen etwas verschiebt.
+<blockquote>
+
+Kickstarter hat uns heute gesagt, dass sich unser Verifikations-Prozess durch
+das hohe Aufkommen an Vorbestellungen etwas verschiebt.
 
 Wir müssen unseren Launch darum leider auf Sonntag, den 28 Oktober um 18 Uhr
 verschieben.
 
 Aber: Wir haben auch eine gute Nachricht! Als kleinen Bonus wegen der
-ungewollten Verzögerung, packen wir 100 Early Birds mit on top!</blockquote>
+ungewollten Verzögerung, packen wir 100 Early Birds mit on top!
+
+</blockquote>
 
 Der Erfolg des Projekts geht also schon vor dem offiziellen Start los. Nicht
 schlecht, oder? Ich bin auf jeden Fall schon sehr gespannt, wie die Erfolgsstory

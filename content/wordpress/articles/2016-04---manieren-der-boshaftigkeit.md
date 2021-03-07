@@ -27,8 +27,7 @@ date: 2016-04-11T14:53:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:25)"
+errors: {}
 thumbnailId: "14411"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26288299651_396f57d6c2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26288299651_396f57d6c2_z__l.jpg
@@ -37,11 +36,10 @@ subTitle: Ein Flarf-Gedicht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (28:25)
+<blockquote>
 
-<!--
-<blockquote>Je länger eine Operation dauert, umso risikoreicher ist sie.
-Niemand redet gerne über Risiken.
+Je länger eine Operation dauert, umso risikoreicher ist sie. Niemand redet gerne
+über Risiken.
 
 <RemoteImage
   alt="Manieren"
@@ -70,7 +68,9 @@ geschliffenen Manieren.
 Die Jugend von heute lebt den Luxus und hat schlechte Manieren. Nur die
 Wenigsten gehen das Risiko ein, sich unter die Oberfläche zu begeben.
 
-Ideale Körpermaße.</blockquote>
+Ideale Körpermaße.
+
+</blockquote>
 
 Geschrieben habe ich dieses Flarf-Gedicht mit Hilfe der Suchergebnisse unter den
 Begriffen "Risiko", "Schönheit" und "Manieren". Mal wieder kam ein Text heraus,
@@ -116,7 +116,5 @@ Mehr über Flarf-Gedicht und wie sie entstehen,
 1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
 
 &nbsp;
-
--->
 
   

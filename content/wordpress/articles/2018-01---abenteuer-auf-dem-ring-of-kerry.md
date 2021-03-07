@@ -23,8 +23,7 @@ date: 2018-01-03T22:42:42.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (53:55)"
+errors: {}
 thumbnailId: "18770"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_25610419388_ac95a11884_z__l.jpg
@@ -33,9 +32,6 @@ subTitle: Irlands windigste Straße
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (53:55)
-
-<!--
 **Irland ist nicht nur grün und gemütlich. Die Insel ist auch windig. Die volle
 Breitseite bekamen wir auf unserer Fahrt über den Skellig Ring und den Ring of
 Kerry in Richtung Dingle Halbinsel ab.**
@@ -76,12 +72,13 @@ noch ein schöner Song. Man kann ihn ganz besonders gut auf Roadtrips hören und
 mitsingen. Oder beim Stöbern in Reiseerinnerungen. Oder einfach so.
 
 <blockquote>
+
 ## Ring Of Fire
+
 ### Johnny Cash
-Love is a burning thing
-And it makes a fiery ring
-Bound by wild desire
-I fell in to a ring of fire
+
+Love is a burning thing And it makes a fiery ring Bound by wild desire I fell in
+to a ring of fire
 
 I fell in to a burning ring of fire I went down, down, down And the flames went
 higher
@@ -101,7 +98,9 @@ And it burns, burns, burns The ring of fire The ring of fire
 
 I fell into a burning ring of fire I went down, down, down And the flames went
 higher And it burns, burns, burns The ring of fire The ring of fire And it
-burns, burns, burns The ring of fire The ring of fire</blockquote>
+burns, burns, burns The ring of fire The ring of fire
+
+</blockquote>
 
 <Gallery name="flickr/anneringofkerry2017" />
 
@@ -134,7 +133,5 @@ burns, burns, burns The ring of fire The ring of fire</blockquote>
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
--->
 
   

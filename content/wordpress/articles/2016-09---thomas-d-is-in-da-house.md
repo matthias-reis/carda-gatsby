@@ -25,8 +25,7 @@ date: 2016-09-15T10:35:49.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (58:15)"
+errors: {}
 thumbnailId: "15156"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29611318381_0d404d3b27_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_09_29611318381_0d404d3b27_z__l.jpg
@@ -35,9 +34,6 @@ subTitle: Das neue Welt Vegan Magazin ist da!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (58:15)
-
-<!--
 <RemoteImage
   alt="Thomas D"
   size="medium"
@@ -101,9 +97,16 @@ Sven und Markus zusammen mit ihm gemacht haben. Ihr findet es auf den Seiten
 
 Ich wünsche Euch viel Spaß beim Lesen!
 
-<blockquote>Es geht nicht darum, mich hinzustellen und zu sagen: "Hey, ich bin's und ich tue Gutes." Nein, es geht darum, Gutes zu tun, weil das geht, weil man muss, weil wir hier leben, für das, was wir alles erhalten haben. Das zwingt einen, finde ich, etwas zurückzugeben - wo man kann.
+<blockquote>
 
-Thomas D</blockquote>
+Es geht nicht darum, mich hinzustellen und zu sagen: "Hey, ich bin's und ich tue
+Gutes." Nein, es geht darum, Gutes zu tun, weil das geht, weil man muss, weil
+wir hier leben, für das, was wir alles erhalten haben. Das zwingt einen, finde
+ich, etwas zurückzugeben - wo man kann.
+
+Thomas D
+
+</blockquote>
 
 ## Wegweiser Welt Vegan Magazin
 
@@ -120,7 +123,5 @@ Thomas D</blockquote>
 &nbsp;
 
 Merken
-
--->
 
   

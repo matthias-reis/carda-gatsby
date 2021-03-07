@@ -25,8 +25,7 @@ date: 2019-09-16T10:42:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (118:15)"
+errors: {}
 thumbnailId: "26192"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_kueken-timo-stammberger-albert-schweitzer-stiftung-4__l.jpg
@@ -35,9 +34,6 @@ subTitle: Grausame Hühnerzucht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (118:15)
-
-<!--
 **45 Millionen männliche Hühnerküken werden pro Jahr alleine in Deutschland
 getötet. Weltweit sind es mehr als 100.000 pro Tag.**
 
@@ -157,8 +153,11 @@ bewirken möchte, unterstützt ihre Petitionen, geht für die Rechte der Tiere a
 die Straße und spendet für den Tierschutz.
 
 <blockquote>
+
 ## Der Begriff "Eintagsküken"
-Küken, die nicht älter als einen Tag alt sind (werden), werden "Eintagsküken" genannt.
+
+Küken, die nicht älter als einen Tag alt sind (werden), werden "Eintagsküken"
+genannt.
 
 Hühnerküken benötigen nicht sofort nach dem Schlüpfen Nahrung. Der Dottersack
 versorgt sie für diese Zeit mit der notwendigen Energie. Die Züchter machen sich
@@ -173,8 +172,9 @@ die schwächeren und kränklichen aussortiert, im Anschluss erfolgt das sogenann
 
 Die Arbeiter greifen sich die Küken nach und nach vom Band und nehmen sie in
 Augenschein. Sind sie weiblich, kommen sie zum Transport in eine weitere Kiste,
-die verschlossen wird, sind sie männlich, werden sie vergast oder
-geschreddert.</blockquote>
+die verschlossen wird, sind sie männlich, werden sie vergast oder geschreddert.
+
+</blockquote>
 
 <iframe src="https://www.youtube.com/embed/NZHJr6-vRKY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -192,7 +192,5 @@ geschreddert.</blockquote>
 
 **Fotos:** [Timo Stammberger](https://www.timostammberger.com/) /
 [Albert Schweitzer Stiftung für unsere Mitwelt](https://albert-schweitzer-stiftung.de/)
-
--->
 
   

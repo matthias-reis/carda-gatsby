@@ -35,8 +35,7 @@ date: 2019-08-06T11:40:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (137:65)"
+errors: {}
 thumbnailId: "25673"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_vegarn__l.jpg
@@ -45,9 +44,6 @@ subTitle: Interview mit Marlin von Vegarn
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (137:65)
-
-<!--
 <hr />
 
 Hinweis: Dieses Interview habe ich bereits am 26. April 2016 veröffentlicht. Ich
@@ -219,11 +215,21 @@ Gerade erreichte mich die traurige Nachricht, dass Vegarn leider schließen wird
 Marlin möchte sich voll und ganz ihrer Arbeit als Lehrerin widmen. Hier ein
 Statement von ihr
 
-<blockquote>" __Ich halte nachhaltig produzierte, pflanzliche Garne immer noch für eine wichtige, wertvolle und lukrative Marktlücke__  - nur fehlt mir die Begeisterung diese weiter zu bedienen. Als Lehrerin habe ich das Gefühl mehr zu bewegen. Mein Ziel: mithilfe von digitalen Mitteln die Prinzipien der Mathematik, allen voran Kindern, zu vermitteln. Das ist meine berufliche Mission! Persönlich liegt mir nichts mehr am Herzen als Mutter zu werden und meine Kinder in einem liebevollen Haushalt groß zu ziehen.
+<blockquote>
+
+" **Ich halte nachhaltig produzierte, pflanzliche Garne immer noch für eine
+wichtige, wertvolle und lukrative Marktlücke**  - nur fehlt mir die Begeisterung
+diese weiter zu bedienen. Als Lehrerin habe ich das Gefühl mehr zu bewegen. Mein
+Ziel: mithilfe von digitalen Mitteln die Prinzipien der Mathematik, allen voran
+Kindern, zu vermitteln. Das ist meine berufliche Mission! Persönlich liegt mir
+nichts mehr am Herzen als Mutter zu werden und meine Kinder in einem liebevollen
+Haushalt groß zu ziehen.
 
 So sieht es aus. (Übrigens: ich überlege lehrreiche Erkenntnisse aus der
 Gründung für zukünftige Unternehmerinnen niederzuschreiben. Falls es dazu kommt,
-wird es auf der Website von Vegarn als neuer Link auftauchen.)"</blockquote>
+wird es auf der Website von Vegarn als neuer Link auftauchen.)"
+
+</blockquote>
 
 ### Räumungsverkauf vom 1. September bis zum 24. Dezember 2019
 
@@ -244,7 +250,5 @@ Bei über drei Kilogramm zwei Knäuel und so weiter.
 \*Hier könnt Ihr [Vegarn online besuchen](https://www.vegarn.eu/). Hier findet
 Ihr
 [weitere Informationen zum Thema Wolle](/2014/10/wolle-das-kann-doch-gar-nicht-so-schlimm-sein/).
-
--->
 
   

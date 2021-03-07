@@ -107,14 +107,17 @@ Dass sie ganz alleine mit ihren Plakaten losgezogen ist, um sich vor dem
 Regierungsgebäude in Guilin zu postieren, das 21 Kilometer von ihrem Zuhause
 entfernt ist, zeigt mehr als nur Mut.
 
-<blockquote class="twitter-tweet">
-The Day 3 of School Strike for Climate.If you don’t trust me ,look at the Chinese flag.
-Thank you for all your support and the strikers who are panic.I have seen all your reviews carefully,though some of them I didn’t reply.
+<blockquote>
+
+The Day 3 of School Strike for Climate.If you don’t trust me ,look at the
+Chinese flag. Thank you for all your support and the strikers who are panic.I
+have seen all your reviews carefully,though some of them I didn’t reply.
 
 Sorry! [pic.twitter.com/L0VU8uO6WY](https://t.co/L0VU8uO6WY)
 
 — Howey Ou (@howey_ou)
 [May 28, 2019](https://twitter.com/howey_ou/status/1133366733505421313?ref_src=twsrc%5Etfw)
+
 </blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

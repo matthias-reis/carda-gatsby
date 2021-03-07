@@ -33,7 +33,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:58)"
+  invalidMdx: "unknown: Unexpected token (44:48)"
 thumbnailId: "22233"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__l.jpg
@@ -42,7 +42,7 @@ subTitle: Science-Fiction aus dem Hause Reis
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (32:58)
+## unknown: Unexpected token (44:48)
 
 <!--
 _Werbung in eigener Sache / Affiliate Links\*_
@@ -70,7 +70,11 @@ uns wirklich das Allergrößte!
 
 ## Darum geht es in unserer Science-Fiction Kurzgeschichte
 
-<blockquote>Mijkl ist Architekt. Er gehört zur vierten Generation innerhalb des größten Experiments der Menschheit. Gemeinsam mit seiner Crew macht er sich vom Procyon-Sternensystem auf den Weg zu Luytens Stern.
+<blockquote>
+
+Mijkl ist Architekt. Er gehört zur vierten Generation innerhalb des größten
+Experiments der Menschheit. Gemeinsam mit seiner Crew macht er sich vom
+Procyon-Sternensystem auf den Weg zu Luytens Stern.
 
 Die Pioniere, zu denen er gehört, wurden seit ihrer Kindheit für ihre Reise und
 ihre Arbeit als Wegbereiter trainiert. Dafür wurden sie nicht nur hoher
@@ -78,7 +82,9 @@ Beschleunigung und wechselnder Schwerkraft ausgesetzt, sondern auch als Experten
 bis ins Detail ausgebildet und auf das Leben auf engstem Raum vorbereitet.
 
 Mit ihrer Ankunft in dem fremden Universum können sie endlich mit dem
-Terraforming und der anschließenden Besiedlung beginnen.</blockquote>
+Terraforming und der anschließenden Besiedlung beginnen.
+
+</blockquote>
 
 [Die Geschichte um Mijkl und seine Gefährt\*innen](https://amzn.to/2RjhgjP) ist,
 wie schon kurz angedeutet, nicht unser einziges Projekt, in dem wir uns als

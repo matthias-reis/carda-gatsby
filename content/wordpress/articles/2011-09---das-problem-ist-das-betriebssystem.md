@@ -51,8 +51,7 @@ date: 2011-09-02T10:46:34.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (57:59)"
+errors: {}
 thumbnailId: "11609"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_09_sissi1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_09_sissi1__l.jpg
@@ -61,9 +60,6 @@ subTitle: Zurück in die Zukunft
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (57:59)
-
-<!--
 **Sissi:** „Alles prima, Franzl. Ich habe mir gerade einen Kaffee geholt. Denke
 nur noch ein ganz wenig über den Verlust der Bilder nach... Traurig. Aber ein
 Grund, neue zu machen... Und deshalb auch ein Bisschen schön… irgendwie.“
@@ -117,13 +113,18 @@ Wenn er länger als zwei Stunden läuft, kannst Du damit einen kompletten Kühlr
 abtauen. Was ja einerseits auch praktisch ist. Ich spare mir den Herd, ich kann
 auch auf meinem Laptop kochen.“
 
-<blockquote>"War´s wieder a rechte Sternstunde, Herr Dr. Schönfärber, ha?"
-"Ein rechter Scheißdreck war´s!"
+<blockquote>
+
+"War´s wieder a rechte Sternstunde, Herr Dr. Schönfärber, ha?" "Ein rechter
+Scheißdreck war´s!"
 
 „Es ist sehr wahrscheinlich, dass das Montagsmodell irgendwo ein schwarzes Loch
-hat, in dem früher oder später alle Bilder verschwinden.“</blockquote> _Wir
-dürfen gespannt sein, ob es die geplante Fotostory irgendwann vielleicht doch
-noch geben wird._
+hat, in dem früher oder später alle Bilder verschwinden.“
+
+</blockquote>
+
+_Wir dürfen gespannt sein, ob es die geplante Fotostory irgendwann vielleicht
+doch noch geben wird._
 
 &nbsp;
 
@@ -151,7 +152,5 @@ noch geben wird._
 
 _Was das gezeigte Video mit der Geschichte zu tun hat, wissen nur die Sissi und
 der Franzl._
-
--->
 
   

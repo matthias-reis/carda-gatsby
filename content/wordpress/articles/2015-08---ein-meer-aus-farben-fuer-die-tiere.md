@@ -26,8 +26,7 @@ date: 2015-08-17T09:39:09.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:9)"
+errors: {}
 thumbnailId: "12288"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_11868764_1006379319408813_651879278_n__l.jpg
@@ -36,9 +35,6 @@ subTitle: Bilder von Denise Slapansky
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (44:9)
-
-<!--
 <RemoteImage
   alt="Denise auf dem Überlebenshof Scottmaring"
   size="medium"
@@ -62,7 +58,12 @@ Während ihrer Ausbildung zur Kunsttherapeutin entdeckte Denise die Farben für
 sich, lernte sie kennen und lieben und bringt sie seitdem in ihren Kunstwerken
 zum Einsatz.
 
-<blockquote>Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr inspiriert und könnte auch von einigen der Tiere gesungen werden. [<sup>2</sup>](#2)  So muss das für sie sein, wenn sie befreit werden.
+<blockquote>
+
+Mit meinen Bildern setze ich sogenannte "Nutztiere" in ein "Meer aus Farben". So
+heißt auch ein Song des Berliner Singer/Songwriter-Duos Berge. Er hat mich sehr
+inspiriert und könnte auch von einigen der Tiere gesungen werden.
+[<sup>2</sup>](#2) So muss das für sie sein, wenn sie befreit werden.
 
 <RemoteImage
   alt="Denise beim Zaunbau auf dem Überlebenshof"
@@ -85,7 +86,9 @@ Ich bin keine Tiermalerin. Es geht mir nicht um das "Genauso wie", dafür gibt e
 Fotografen oder andere, die sich darauf spezialisiert haben. Meine Bilder setzen
 die Tiere in einen Kontext, in dem sie sein sollten: Mitten im Leben, das bunt
 und schön ist, das man genießen muss, es ist das Einzige, das uns allen wirklich
-gehört.</blockquote>
+gehört.
+
+</blockquote>
 
 <RemoteImage
   alt="Bild aus dem Atelier von Denise"
@@ -153,7 +156,5 @@ Mit lieben Grüßen von Denise sind hier für Euch Berge mit "Meer aus Farben":
 <iframe src="https://www.youtube.com/embed/7rHWnRHd3lg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>-  [1]  [WYOB - Vegane Mützen mit Statement](/2015/04/vegane-haekelmuetzen-mit-statement/)
 -  [2]  [Berge - "Meer aus Farben"](https://www.youtube.com/watch?v=7rHWnRHd3lg)
 -  [3]  [Überlebenshof Scottmaring](http://www.tiere-leben.de/Scottmaring.html)
-
--->
 
   

@@ -1,6 +1,11 @@
 const indexName = `Pages`;
 const pageQuery = `{
-  pages: allMdx {
+  pages: allMdx(
+    filter: {
+        frontmatter: { language: { ne: "en" } }
+        fields: { type: { in: ["article", "wordpress"] } }
+      }
+    ) {
     edges {
       node {
         id
@@ -11,6 +16,9 @@ const pageQuery = `{
           focusKeyword
           labels
           remoteThumbnailImage
+          links {
+            en
+          }
           image {
             childrenImageSharp {
               resize(width: 600) {

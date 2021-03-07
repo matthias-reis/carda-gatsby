@@ -27,8 +27,7 @@ date: 2018-08-28T06:15:22.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (14:64)"
+errors: {}
 thumbnailId: "21857"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44295697011_497991bb42_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44295697011_497991bb42_z__l.jpg
@@ -37,11 +36,9 @@ subTitle: Unterhaltung auf einem Straßenschild
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (14:64)
+<blockquote>
 
-<!--
-<blockquote>Evolution, Freiheit
-Der Himmel ist blau
+Evolution, Freiheit Der Himmel ist blau
 
 Intelligenz, Aufklärung Zwei Vögel sitzen auf einem Schild
 
@@ -53,13 +50,13 @@ Mitgefühl, Verständnis Das Wasser des Sees glitzert einladend
 
 Respekt, Rückhalt Die Bienen summen in den Blumen
 
-Nachhaltigkeit, Konsequenz Es gibt Apfelkuchen und Kaffee</blockquote>
+Nachhaltigkeit, Konsequenz Es gibt Apfelkuchen und Kaffee
+
+</blockquote>
 
 Die beiden Gesellen auf dem Schild sind mir im Schwedischen Kalmar (Stensö)
 begegnet.
 
 <Gallery name="flickr/annestensoekalmarliebebirdsschild" />
-
--->
 
   

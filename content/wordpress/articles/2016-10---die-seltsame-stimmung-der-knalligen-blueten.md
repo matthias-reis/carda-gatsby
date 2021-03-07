@@ -25,8 +25,7 @@ date: 2016-10-02T12:59:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:35)"
+errors: {}
 thumbnailId: "15259"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_10_29907307082_afb71b1829_z__l.jpg
@@ -35,9 +34,6 @@ subTitle: Gedicht zum Herbst
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (28:35)
-
-<!--
 <RemoteImage
   alt="30022683975_57e0e21cf7_z"
   size="medium"
@@ -55,7 +51,9 @@ Dieses Mal habe ich nach "Herbst" und "Arbeit" gesucht. Macht Euch das Gedicht
 nachdenklich? Dann habe ich das Ziel ja erreicht. Habt einen schönen Herbst.
 
 <blockquote>
+
 ## Die seltsame Stimmung der knalligen Blüten
+
 In unserem Gartenkalender sagen wir Ihnen, welche Arbeiten im Herbst anstehen.
 Knallige Blüten und bunte Blätter.
 
@@ -67,7 +65,9 @@ Die Arbeitslosenquote liegt bei 5,9 Prozent. Dieses Angebot ist buchbar.
 
 Es nähert sich der Herbst. Eine etwas seltsame Stimmung herrscht.
 
-Husten, niesen, Nase putzen.</blockquote>
+Husten, niesen, Nase putzen.
+
+</blockquote>
 
 &nbsp;
 
@@ -99,7 +99,5 @@ immer in meinem [Flickr](https://www.flickr.com/photos/99929697@N07/albums). _
 1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
 1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
 1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-
--->
 
   

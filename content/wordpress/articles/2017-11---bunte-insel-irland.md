@@ -24,8 +24,7 @@ date: 2017-11-04T17:58:47.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (20:30)"
+errors: {}
 thumbnailId: "18304"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313512948_2071e5c5c4_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313512948_2071e5c5c4_k__l.jpg
@@ -34,9 +33,6 @@ subTitle: Farbenfrohe Details in Kilkenny
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (20:30)
-
-<!--
 **Heute habe ich mal wieder ein paar Bilder von unserer Irlandreise für Euch
 vorbereitet. Die bunten Schnappschüsse sind mir in der schönen Stadt Kilkenny
 gelungen.**
@@ -47,14 +43,15 @@ Kilkenny. Was mir dort sofort aufgefallen ist? Die wunderbaren, bunten Details!
 Ihr findet, die Bilder machen Lust auf mehr? Gebt mir einen Daumen hoch und
 bleibt dran! In Kürze erzähle ich noch mehr von unserer Tour durch Irland!
 
-<blockquote>Smile though your heart is aching
-Smile even though it's breaking
-When there are clouds in the sky, you'll get by
-If you smile through your fear and sorrow
-Smile and maybe tomorrow
-You'll see the sun come shining through for you
+<blockquote>
 
-"Smile" - Nat King Cole</blockquote>
+Smile though your heart is aching Smile even though it's breaking When there are
+clouds in the sky, you'll get by If you smile through your fear and sorrow Smile
+and maybe tomorrow You'll see the sun come shining through for you
+
+"Smile" - Nat King Cole
+
+</blockquote>
 
 <Gallery name="flickr/kilkenny2017" />
 
@@ -87,7 +84,5 @@ You'll see the sun come shining through for you
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
--->
 
   

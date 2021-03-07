@@ -1,56 +1,52 @@
 ---
-slug: markdown
-title: Markdown und seine Möglichkeiten
-subTitle: Welche Formatierungen wird es geben und wie sehen sie aus?
+slug: en-markdown
+title: Markdown And Its Possibilities
+subTitle: Which Formatting Options Are There And How Do They Look Like?
 description: >-
-  Dies ist eine laengere Beschreibung. Sie muss am Ende als Meta Description im
-  Blog erscheinen.
+  This is a longer description. It acts as an intor and as a meta description on
+  the rendered page.
 date: 2020-05-03
 image: /img/madrid-042.jpg
 labels:
   - demo
   - experiment
 type: Standard
-links: 
-  en: /2020/05/en-markdown/ 
+language: en
+links:
+  de: /2020/05/markdown/
 ---
 
 import {Colors} from './colors';
 
-## Headline 2 - es sollte keine H1 geben.
+## English Version: Headline 2 - there shouldn't be an H1.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
 doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
 veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-## Headlines (Erste Ebene)
+## Headlines (First Level)
 
-### Zweite Ebene
-
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
-quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-
-#### Dritte Ebene
+### Second Level
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
 quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
-##### Vierte Ebene
+#### Third Level
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
 quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
-###### Fünfte Ebene
+##### Fourth Level
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
 quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
-# Voll Drauf! Einschieber
+###### Fifth Level
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
 quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
-## Paragraphen
+## Paragraphs
 
 Damit Ihr indess erkennt, woher dieser ganze Irrthum gekommen ist, und weshalb
 man die Lust anklagt und den Schmerz lobet, so will ich Euch Alles eröffnen und
@@ -69,13 +65,13 @@ Um hier gleich bei dem Einfachsten stehen zu bleiben, so würde Niemand von uns
 anstrengende körperliche Uebungen vornehmen, wenn er nicht einen Vortheil davon
 erwartete.
 
-## Listen
+## Lists
 
 Wer dürfte aber wohl Den tadeln, der nach einer Lust verlangt, welcher keine
 Unannehmlichkeit folgt, oder der einem Schmerze ausweicht, aus dem keine Lust
 hervorgeht?
 
-### Ungeordnete Liste
+### Unordered List
 
 Wer dürfte aber wohl Den tadeln, der nach einer Lust verlangt, welcher keine
 Unannehmlichkeit folgt, oder der einem Schmerze ausweicht.
@@ -98,7 +94,7 @@ Wer dürfte aber wohl Den tadeln, der nach einer Lust verlangt, welcher keine
 Unannehmlichkeit folgt, oder der einem Schmerze ausweicht, aus dem keine Lust
 hervorgeht?
 
-### Geordnete Liste
+### Ordered List
 
 Wer dürfte aber wohl Den tadeln, der nach einer Lust verlangt, welcher keine
 Unannehmlichkeit folgt, oder der einem Schmerze ausweicht, aus dem keine Lust
@@ -119,13 +115,13 @@ Wer dürfte aber wohl Den tadeln, der nach einer Lust verlangt, welcher keine
 Unannehmlichkeit folgt, oder der einem Schmerze ausweicht, aus dem keine Lust
 hervorgeht?
 
-## Kursiv und fett
+## Italic and Bold
 
 Wer dürfte aber **wohl Den tadeln**, der nach _einer Lust verlangt_, welcher
 keine Unannehmlichkeit folgt, oder der **_einem Schmerze ausweicht_**, aus dem
 keine Lust hervorgeht? Wie sieht's denn dann mit ~~durchgestrichenem Text~~ aus?
 
-## Thematischer Trenner
+## Horizontal Rule / Thematic Separator
 
 Ebenso werde der Schmerz als solcher von Niemand geliebt, gesucht und verlangt,
 sondern weil mitunter solche Zeiten eintreten, dass man mittelst Arbeiten und
@@ -137,7 +133,7 @@ Um hier gleich bei dem Einfachsten stehen zu bleiben, so würde Niemand von uns
 anstrengende körperliche Uebungen vornehmen, wenn er nicht einen Vortheil davon
 erwartete.
 
-## Zitate
+## Citation
 
 Ebenso werde der Schmerz als solcher von Niemand geliebt, gesucht und verlangt,
 sondern weil mitunter solche Zeiten eintreten, dass man mittelst Arbeiten und
@@ -157,7 +153,7 @@ Wir unterscheiden zwischen [internen Links](/2020/04/feuer-im-regenwald/) und
 sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui
 ratione voluptatem sequi nesciunt.
 
-## Farben
+## Colors
 
 ### neutral
 

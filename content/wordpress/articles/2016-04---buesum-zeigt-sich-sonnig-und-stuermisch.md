@@ -22,8 +22,7 @@ date: 2016-04-06T14:05:41.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (24:12)"
+errors: {}
 thumbnailId: "14366"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26245592326_95d83b2957_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_04_26245592326_95d83b2957_z__l.jpg
@@ -32,9 +31,6 @@ subTitle: Frühlingsausflug an die Nordsee
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (24:12)
-
-<!--
 **Büsum heißt auf Plattdeutsch "Büsen". 1140 wurde es unter dem Namen "Bivse"
 das erste Mal urkundlich erwähnt. Später entwickelte er sich über "Biusne",
 "Büsen", "Busen" und "Butzen" bis zum heutigen Ortsnamen. Die Gemeinde ist heute
@@ -53,7 +49,9 @@ Meh(e)r zeige ich Euch in Kürze.
 
 <Gallery name="flickr/annebüsum032016" />
 
-<blockquote>Es gibt nichts zu verbessern.
+<blockquote>
+
+Es gibt nichts zu verbessern.
 
 Nichts, was noch besser wär',
 
@@ -61,11 +59,11 @@ außer Dir im Jetzt und Hier
 
 und dem Tag am Meer.
 
-(F 4)</blockquote>
+(F 4)
+
+</blockquote>
 
 Interessiert Ihr Euch auch für meine Bilder aus St. Peter Ording?
 [Dann klickt doch mal hier](/2015/07/zurueck-nach-st-peter-ording/).
-
--->
 
   

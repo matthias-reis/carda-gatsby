@@ -28,8 +28,7 @@ date: 2018-01-06T11:51:30.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:24)"
+errors: {}
 thumbnailId: "18844"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__l.jpg
@@ -38,9 +37,6 @@ subTitle: Flarfgedicht zum Jahresanfang
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (28:24)
-
-<!--
 **Könnt Ihr Euch noch an meine Flarfgedichte erinnern? Das letzte ist im letzten
 Februar [hier im Blog erschienen](/2017/02/dauerregen-stpauli/). Höchste Zeit,
 Euch endlich mal wieder eins zu präsentieren.**
@@ -58,10 +54,10 @@ zu finden. In diesem Fall habe ich mich für die Suchwörter "Elbe" und "Licht"
 entschieden.
 
 <blockquote>
+
 ## Jahresanfang an der Elbe
-Elbenlichter sind Steine
-Schirm für Lampen
-Lichtblick
+
+Elbenlichter sind Steine Schirm für Lampen Lichtblick
 
 Abendhimmel mit drei Lichtsäulen Hamburger Hafenlichter Südlich der Elbe
 
@@ -69,7 +65,9 @@ Erleben Sie das jährliche Licht- und Wasserschauspiel Dramatisch Ob das Licht
 aus Teilchen besteht, oder sich als Welle ausbreitet?
 
 Ein einmaliges Spektrum Die Elbe im Licht der untergehenden Sonne Der
-historische Eisbrecher</blockquote>
+historische Eisbrecher
+
+</blockquote>
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-2-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-5-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-5-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-6-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-6-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-3-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-3-von-6__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-1-von-6__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_01_Elblichter-1-von-6__l.jpg"}]}
@@ -97,7 +95,5 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_0
 1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
 
 &nbsp;
-
--->
 
   

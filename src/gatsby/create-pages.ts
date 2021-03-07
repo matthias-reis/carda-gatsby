@@ -63,10 +63,14 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
 
   const edges = data!.allMdx.edges;
   const labels: Labels = {};
+  const series: Labels = {};
 
   for (const edge of edges) {
     const { fields } = edge.node;
     for (const label of fields.labels || []) {
+      if (label.startsWith('serie:')) {
+      }
+
       if (!labels[label]) {
         labels[label] = [];
       }
@@ -74,9 +78,10 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
     }
   }
 
-  // ONE PAGE FOR EACH LABEL
   for (const label in labels) {
     const path = getPath(label);
+
+    // ONE PAGE FOR EACH LABEL
     if (path) {
       const component = resolve(
         __dirname,

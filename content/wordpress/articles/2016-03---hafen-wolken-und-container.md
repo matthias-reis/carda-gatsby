@@ -33,8 +33,7 @@ date: 2016-03-09T16:22:24.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (48:45)"
+errors: {}
 thumbnailId: "14192"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Hafenrundfahrt-Januar-2016-Anne-1-von-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_Hafenrundfahrt-Januar-2016-Anne-1-von-1__l.jpg
@@ -43,9 +42,6 @@ subTitle: Stürmischer Januar in Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (48:45)
-
-<!--
 **Eines stürmischen Januartages waren meine Eltern bei uns in Hamburg zu Besuch
 und wie es sich gehört, haben wir natürlich eine Hafenrundfahrt in einer
 Barkasse gemacht.**
@@ -72,15 +68,12 @@ hier wohnt. Danke, Hamburg! &lt;3
 <Gallery name="flickr/annehafenrundfahrt012016" />
 
 <blockquote>
+
 ## Haubentaucherwelpen - Turbostaat
-Zusammen mit der Hoffnung
-Fällt Sonne in die Stadt
-Es geht noch immer weiter
-Zumindestens bergab
-Sie verlassen ihre Gräben
-Die sie zurzeit bewohnen
-Sind wir nicht weit gekommen?
-Frag der erste schon
+
+Zusammen mit der Hoffnung Fällt Sonne in die Stadt Es geht noch immer weiter
+Zumindestens bergab Sie verlassen ihre Gräben Die sie zurzeit bewohnen Sind wir
+nicht weit gekommen? Frag der erste schon
 
 Und sie beladen ihre Autos Mit Kindern und Gepäck Wohin soll bloß die Reise
 gehen? Am besten ganz weit weg Sie begraben ihre Toten Und schauen dich groß an
@@ -99,8 +92,8 @@ Augen starren weiter Auf Fischer Auf den Hafen Und den Wind
 Und sie bleiben Ohne Fragen Weil alles andere scheinbar besser ist Und deine
 Augen starren weiter Auf Fischer Auf den Hafen Und den Wind
 
-Auf Fischer Auf den Hafen Und den Wind</blockquote>
+Auf Fischer Auf den Hafen Und den Wind
 
--->
+</blockquote>
 
   

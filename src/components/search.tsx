@@ -10,6 +10,7 @@ import { event } from './analytics';
 import { color, space, width, fontSize, font } from '../style';
 
 const Hit = ({ hit }) => {
+  const hasEnglishVersion = !!(hit.links?.en ?? false);
   return (
     <HitBox to={hit.path}>
       <HitImageContainer>
@@ -18,6 +19,9 @@ const Hit = ({ hit }) => {
       <HitContent>
         <HitTitle>{hit.title}</HitTitle>
         <HitSubTitle>{hit.subTitle}</HitSubTitle>
+        {hasEnglishVersion && (
+          <HitLanguageHint>🇬🇧 English version available</HitLanguageHint>
+        )}
       </HitContent>
     </HitBox>
   );
@@ -41,6 +45,11 @@ export const Search: React.FC = () => {
     </React.Fragment>
   );
 };
+
+const HitLanguageHint = styled.div`
+  font-size: ${fontSize[1]};
+  margin-top: ${space[1]};
+`;
 
 const StyledHits = styled(Hits)`
   ul {

@@ -21,8 +21,7 @@ date: 2016-05-08T08:41:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (38:46)"
+errors: {}
 thumbnailId: "14693"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26578927390_1abbf55bf4_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_26578927390_1abbf55bf4_z__l.jpg
@@ -31,9 +30,6 @@ subTitle: Eröffnung
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (38:46)
-
-<!--
 Am 5. Mai war es wieder soweit! Pünktlich zum Vatertag wurde in Hamburg der 827.
 Hafengeburtstag eröffnet und wir waren natürlich dabei.
 
@@ -45,14 +41,13 @@ wir sogar ein Bisschen Sonnenfarbe bekommen. :-)
 <Gallery name="flickr/anne827hafengeburtstag" />
 
 <blockquote>
+
 ## Ein Hotdog unten am Hafen (Element of Crime)
-Ein Hotdog unten am Hafen
-Und vor'm Einschlafen schnell noch ein Bier
-Dem Feind einen Tritt in die Rippen
-Und ein paar Kippen für hinterher
-Ein Date mit dem Dalai Lama
-Und ein Apfelsaft morgens um zwei
-Und eine halbautomatische Waffe ist immer dabei
+
+Ein Hotdog unten am Hafen Und vor'm Einschlafen schnell noch ein Bier Dem Feind
+einen Tritt in die Rippen Und ein paar Kippen für hinterher Ein Date mit dem
+Dalai Lama Und ein Apfelsaft morgens um zwei Und eine halbautomatische Waffe ist
+immer dabei
 
 Schön, wenn man liebt, Was Mutter Natur einem gibt. Was kann ich dafür, dass du
 mich nicht vergisst? Ein geselliges Tier ist das Schwein Und das Stachelschwein
@@ -74,14 +69,14 @@ der Tür
 Schön, wenn man liebt, was Mutter Natur einem gibt Was kann ich dafür, dass du
 mich nicht vergisst? Ein geselliges Tier ist das Schwein Und das Stachelschwein
 lieber allein Ohne dich will ich nicht, mit dir kann ich nicht sein. Ohne dich
-will ich nicht, mit dir kann ich nicht sein.</blockquote>
+will ich nicht, mit dir kann ich nicht sein.
+
+</blockquote>
 
 2016
 
 [2017](/2017/05/hafengeburtstag)
 
 [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
--->
 
   

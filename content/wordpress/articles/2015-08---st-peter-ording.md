@@ -27,8 +27,7 @@ date: 2015-08-31T17:15:22.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (28:21)"
+errors: {}
 thumbnailId: "12455"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_08_15719924402_0c94b9600f_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_08_15719924402_0c94b9600f_z__l.jpg
@@ -37,15 +36,14 @@ subTitle: Perle an der Nordsee
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (28:21)
-
-<!--
 Vielen Dank an Kurt Gerhard für die Inspiration und an den Herzmann für das
 freundlich zur Verfügung gestellte Titelbild.
 
 <Gallery name="flickr/stpeterordinganne2014" />
 
-<blockquote>Die Perle
+<blockquote>
+
+Die Perle
 
 Ich ging spazieren am Meeresstrand wo spielende Wellen versickern im Sand.
 
@@ -74,10 +72,13 @@ rein, edel und ganz.
 
 Nie darf zerbrechen der edle Fund, die Perle soll leuchten vom Meeresgrund.
 
-Otto Reinhards</blockquote>-
-[1][st. peter-ording im juli 2015](/2015/07/zurueck-nach-st-peter-ording/) Mehr
-Bilder findet Ihr wie immer in meinem
-[Flickr](https://www.flickr.com/photos/99929697@N07/albums/72157648231468656).
+Otto Reinhards
+
+</blockquote>
+
+- [1][st. peter-ording im juli 2015](/2015/07/zurueck-nach-st-peter-ording/)
+  Mehr Bilder findet Ihr wie immer in meinem
+  [Flickr](https://www.flickr.com/photos/99929697@N07/albums/72157648231468656).
 
 ## Wegweiser Möwen1. [Möwen am Bosporus (Januar 2010)](/2010/01/moewen-am-bosporus/)
 
@@ -92,7 +93,5 @@ Bilder findet Ihr wie immer in meinem
 1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
 1.  [Birds of Westport](/2018/05/birds-of-westport/)
     [Hier gehts zur ULTIMATIVEN VEGANEN FESTIVALLISTEMit Gratis-Download zum ausdrucken!](/2015/03/die-ultimative-vegane-festivalliste)
-
--->
 
   

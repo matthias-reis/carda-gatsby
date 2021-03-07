@@ -26,7 +26,6 @@ isWerbung: false
 isAffiliate: false
 errors:
   outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (34:13)"
 thumbnailId: "6837"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_08_foto__l.jpg
@@ -35,9 +34,6 @@ subTitle: Wir werden Baumpaten!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (34:13)
-
-<!--
 Doch leider stellte sich nach mehrfachen verzweifelten, gescheiterten
 Buddelversuchen im Gleiskörper der Tram und im Asphalt der vor unserem Haus
 befindlichen Straße heraus, dass das mitten in der Stadt leider nicht
@@ -67,11 +63,20 @@ Ich halte das für eine sehr sinnvolle und zugleich schöne Sache. Ihr solltet d
 wirklich auch tun! Denn nicht nur, wenn man gerade frisch vermählt ist, macht
 eine Baumpatenschaft absolut Sinn:
 
-<blockquote>Deutschland hat beim Schutz von alten Wäldern ohne forstliche Nutzung großen Nachholbedarf: Nur etwa ein Prozent der deutschen Waldfläche ist den natürlichen Prozessen, den dort heimischen Tieren und Pflanzen und der Erholung von uns Menschen überlassen. Die gute Nachricht: durch einen Beschluss der Bundesregierung sollen bis zum Jahr 2020 zehn Prozent der öffentlichen Wälder aus der forstlichen Nutzung genommen werden. Dieser Plan muss jetzt umgesetzt werden!
+<blockquote>
+
+Deutschland hat beim Schutz von alten Wäldern ohne forstliche Nutzung großen
+Nachholbedarf: Nur etwa ein Prozent der deutschen Waldfläche ist den natürlichen
+Prozessen, den dort heimischen Tieren und Pflanzen und der Erholung von uns
+Menschen überlassen. Die gute Nachricht: durch einen Beschluss der
+Bundesregierung sollen bis zum Jahr 2020 zehn Prozent der öffentlichen Wälder
+aus der forstlichen Nutzung genommen werden. Dieser Plan muss jetzt umgesetzt
+werden!
 
 Jede Baumpatin und jeder Baumpate trägt dazu bei, einem Baum symbolisch Schutz
-zu geben – und die Forderung nach mehr Schutzgebieten zu
-verbreiten.</blockquote>
+zu geben – und die Forderung nach mehr Schutzgebieten zu verbreiten.
+
+</blockquote>
 
 Das steht auf der Greenpeace-Seite. Außerdem wird man auch noch namentlich auf
 der Baumkarte von Greenpeace erwähnt. Noch stehen unsere Namen nicht drauf, da
@@ -79,7 +84,5 @@ ich die Patenschaft heute erst beantragt habe, aber ich werde Euch auf dem
 Laufenden halten. Ich bin schon sehr gespannt und freue mich!
 
 _Lieber Herzmann, die Überraschung ist mir gelungen, oder? &lt;3_
-
--->
 
   

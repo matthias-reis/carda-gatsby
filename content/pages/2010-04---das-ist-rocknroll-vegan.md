@@ -3,22 +3,28 @@ title: Das ist Rock'n'Roll vegan
 seoTitle: Über Anne bloggt cardamonchai - Rock'n'Roll vegan
 slug: das-ist-rocknroll-vegan
 path: /cardamonchai-blick-hinter-die-kulissen/
-description:
-  Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt
+fileName: 2010-04---das-ist-rocknroll-vegan.md
+description: Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt
   cardamonchai werfen wollte, hat hier die Chance, mehr über meine Arbeit zu
   erfahren.
-excerpt:
-  Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt
+excerpt: Wer schon immer mal einen Blick hinter die Kulissen von Anne bloggt
   cardamonchai werfen wollte, hat hier die Chance, mehr über meine Arbeit zu
   erfahren.
 focusKeyword: cardamonchai
-type: page
+labels: null
+type: null
+typeName: Artikel
 date: 2010-04-16T05:41:39.000Z
-thumbnailId: '26234'
+status: publish
+isWerbung: false
+isAffiliate: false
+errors: {}
+thumbnailId: "26234"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-13__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_09_2019-08-01-anne-reis-tobias-hess-photography-13__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAbACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcCBggD/8QALBAAAgEDAgUCBgMBAAAAAAAAAQIDBAURACEGEhMxQVFxBxQiQmHBFSMyM//EABcBAAMBAAAAAAAAAAAAAAAAAAIFBgH/xAAiEQACAQIFBQAAAAAAAAAAAAABAgADBBETIWHwEiMxUbH/2gAMAwEAAhEDEQA/AM+XdFFktDcoyQ2T5Oy6HsdNFWVnSlk5FVGk5PMnKCeQHwTqwPblruHqMLK4khIVEVAWk5vwfbxrvw9/H2K4iaZJaypjP1RYVVGxI2+7fI9NEgJXTeDUID4nb5LrwPwhZ79T1EdVTVlNVpG88UlvlMW6RswibLHmVsbHAYEd8HTVt9dT2z4X2W4W+KskmEIpVgh/syykgk53A2ySM9+2+lVYuKZbLZjcII4kascFekgkCI/MCUzuCvb2yNQYU01HFG1ROWYMsRDsiorFGP0nYPnvg+NbQLBSTCuVTqAT1BRwlHN8tKkktNyZUdJsd/wfbR9ztNNbIDFd0knp6iMSUtdMAzQVCBsjPflxykqdiCfTVutn/KIeO+juNaGmq+BL6tTCsgjpTOme6uv+WB9RpJRvXzgh8R1WtEFIsBrM/QXWSb5e11CxfKQExr0vuw3fPY+ffTR4Cjs9VV3q33WOh6dFUO8bT00sgjQqDnMZHKuRuT+tI+3swracg4PN+tNr4bRLcuJeMUq2kIe2GVum7Rkt9HlSPU7dtUJHbPN5OqxzBjrzCf/Z
 subTitle: Mein Portfolio
+  
 ---
 
 **In meinem Blog dreht sich alles um** **veganen Lifestyle, Musik, Reisen und
@@ -172,3 +178,5 @@ Wer mir gerne einen Kaffee spendieren möchte, kann das über meinen
 Paypal-Me-Link tun:
 
 [paypal.me/cardamonchai](https://www.paypal.com/paypalme/my/profile)
+
+  

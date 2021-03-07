@@ -35,8 +35,7 @@ date: 2018-01-10T18:41:04.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (58:23)"
+errors: {}
 thumbnailId: "18857"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39609319371_64e8bf7954_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39609319371_64e8bf7954_z__l.jpg
@@ -45,9 +44,6 @@ subTitle: Schafe vor Filmkulisse
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (58:23)
-
-<!--
 **Bei mystisch verhangenem Himmel hatten wir am 11. Oktober letzten Jahres
 einige wunderschöne Stunden im Gap Of Dunloe. Während unserer Wanderung dort
 waren die Schafe immer präsent. Damit haben sie sich zum einem festen
@@ -82,14 +78,14 @@ Sandstein-Felsen sind ein beliebter Kletter-Spot.
 <Gallery name="flickr/annegapofdunloe2017" />
 
 <blockquote>
+
 ## Sheep may safely graze
+
 ### Nick Cave
-Sheep may safely graze
-All the wolves have been rounded up and put to bed
-Sheep may safely graze
-There are only days of happiness up ahead
-Sheep may safely graze, my boy
-All the crocodiles have been hunted from your dreams
+
+Sheep may safely graze All the wolves have been rounded up and put to bed Sheep
+may safely graze There are only days of happiness up ahead Sheep may safely
+graze, my boy All the crocodiles have been hunted from your dreams
 
 Sheep may savely graze Wooly lambs are gamboling by the streams Sheep may safely
 graze All the lost children will be found in time Sheep may safely graze, my boy
@@ -116,7 +112,9 @@ And everything seems foreign To your little ways That's just the gods above
 Making it save to graze
 
 The fox has its hole The bird has its nest But the son of man has no place To
-lay his head and rest</blockquote>
+lay his head and rest
+
+</blockquote>
 
 ## Wegweiser Irland
 
@@ -133,7 +131,5 @@ lay his head and rest</blockquote>
 _To be continued..._
 
 [Wer mehr über Pferde in Irland erfahren und Ihnen vielleicht sogar was Gutes tun möchte, sollte mal hier klicken.](/2017/11/herrenlose-pferde-heuspenden-puss-in-boots/)
-
--->
 
   

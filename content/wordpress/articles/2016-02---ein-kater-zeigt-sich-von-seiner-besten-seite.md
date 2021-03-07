@@ -22,8 +22,7 @@ date: 2016-02-11T12:50:48.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (43:48)"
+errors: {}
 thumbnailId: "13902"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_02_23973872064_ed7f212e62_z__l.jpg
@@ -32,9 +31,6 @@ subTitle: Chili posiert im Lampenlicht
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (43:48)
-
-<!--
 <RemoteImage
   alt="Kater Chili im Licht"
   size="medium"
@@ -61,7 +57,9 @@ seiner besten Seite.
 
 <Gallery name="flickr/annekaterchili012016" />
 
-<blockquote>Guck, die Katze tanzt allein, tanzt und tanzt auf einem Bein.
+<blockquote>
+
+Guck, die Katze tanzt allein, tanzt und tanzt auf einem Bein.
 
 Kam der Igel zu der Katze: "Bitte, reich mir deine Tatze!" "Mit dem Igel tanz
 ich nicht, ist mir viel zu stachelig."
@@ -89,12 +87,12 @@ küsst sie sacht, und schon hat sie mitgemacht.
 Und dann tanzen sie zu zwein über Stock und über Stein. Jede Maus im Mauseloch
 ruft: "Ein Glück, sie tanzen noch!"
 
-(Frederik Vahle - "Der Katzentatzentanz")</blockquote>
+(Frederik Vahle - "Der Katzentatzentanz")
+
+</blockquote>
 
 Das nächste Mal zeigt sich dann auch Kater Oskar wieder...
 
 [Hier gehts zur "ODE AN DEN KATER" Ein Text, wie er ehrlicher nicht sein könnte, gewidmet Chili und Oskar, den beiden tollsten Katern auf der Welt](/2012/08/ode-an-den-kater/)
-
--->
 
   

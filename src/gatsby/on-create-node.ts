@@ -15,7 +15,8 @@ export const onCreateNode = ({
     const parent = getNode(node.parent!);
     const type = parent.sourceInstanceName;
     const value = createFilePath({ node, getNode }).replace(/\//g, '');
-    const slug = slugify(node?.frontmatter?.title ?? '');
+    const rawSlug = node?.frontmatter?.slug || node?.frontmatter?.title || '';
+    const slug = slugify(rawSlug);
 
     let path = '';
     if (type === 'article' || type === 'wordpress') {
@@ -67,7 +68,8 @@ export const onCreateNode = ({
 type Node = {
   frontmatter?: {
     title: string;
-    path: string;
+    path?: string;
+    slug?: string;
     labels: string[];
   };
 };

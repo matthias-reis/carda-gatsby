@@ -33,8 +33,7 @@ date: 2018-01-28T18:09:52.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (118:29)"
+errors: {}
 thumbnailId: "19169"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_39880748521_fb07c3e1e3_z__l.jpg
@@ -43,9 +42,6 @@ subTitle: All Time Beauty-Favourites unter der Lupe
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (118:29)
-
-<!--
 Werbung\*
 
 **In der letzten Zeit habe ich viele für mich neue Produkte getestet und hier im
@@ -172,7 +168,10 @@ persönlich natürlich ganz besonders freut.
 
 ## Hier ein Zitat der Firma Bioturm zum Thema Tierversuche:
 
-<blockquote> __"Wir haben eine klare Haltung zu Tierversuchen und dem Export unserer Produkte nach China:__
+<blockquote>
+
+**"Wir haben eine klare Haltung zu Tierversuchen und dem Export unserer Produkte
+nach China:**
 
 Die Firma Bioturm hat sich seit der Gründung neben der Erhöhung des
 Wohlbefindens des Menschen und der verantwortungsvollen Behandlung der Natur
@@ -184,7 +183,9 @@ Administration (CFDA) zwingend vorgeschrieben sind.
 
 **Wir können Tierversuche im Rahmen von kosmetischen Anwendungen nicht
 tolerieren und haben uns daher bewusst gegen eine Lieferung nach China
-entschieden."** </blockquote>
+entschieden."**
+
+</blockquote>
 
 <RemoteImage
   alt="Bioturm"
@@ -221,7 +222,5 @@ Wohnort in die Suchmaske eingeben und es kann losgehen.
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
   findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
--->
 
   

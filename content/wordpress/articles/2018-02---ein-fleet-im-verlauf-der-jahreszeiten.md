@@ -27,8 +27,7 @@ date: 2018-02-26T17:07:42.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (23:8)"
+errors: {}
 thumbnailId: "19896"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Bille__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Bille__l.jpg
@@ -37,9 +36,6 @@ subTitle: Die Bille in Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (23:8)
-
-<!--
 **Als wir ganz frisch in Hamburg angekommen sind, haben wir eine Zeitlang in
 Hamm an der Bille gewohnt. Ich bin dort regelmäßig in der Schrebergartensiedung
 joggen gegangen und dabei sind diese Bilder entstanden.**
@@ -49,10 +45,11 @@ würde eine schöne Galerie ergeben. Dazu gibt es mal wieder ein Flarf-Gedicht a
 meiner Feder.
 
 <blockquote>
+
 ## Jahreszeiten an der Brücke
-Wasser- und Bootsvergnügen erfreuen sich großer Beliebtheit.
-Lebendiger Wasserweg.
-Die vielen Facetten der Jahreszeiten.
+
+Wasser- und Bootsvergnügen erfreuen sich großer Beliebtheit. Lebendiger
+Wasserweg. Die vielen Facetten der Jahreszeiten.
 
 Schleusen, Brücken, Boote und das ganze Drumherum. Brücke der vier Jahreszeiten.
 Die Brücke ändert ihre Farben.
@@ -60,8 +57,9 @@ Die Brücke ändert ihre Farben.
 Darunter liegt das Sonnendeck. Boote ranken sich um Ankerpfähle. Die einen
 bewegt, die anderen verschlossen.
 
-In den Sommermonaten blüht das Ufer. Im Winter versinkt es im
-Nebel.</blockquote>
+In den Sommermonaten blüht das Ufer. Im Winter versinkt es im Nebel.
+
+</blockquote>
 
 <Gallery name="flickr/annefleetbillegoodbyejahreszeiten" />
 
@@ -85,7 +83,5 @@ Nebel.</blockquote>
 1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
 1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
 1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-
--->
 
   

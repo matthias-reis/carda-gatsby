@@ -214,9 +214,22 @@ Wissensschatz in das inzwischen 15-jährige Familienunternehmen mit ein.
 Gestern habe ich von Bioturm eine E-Mail erhalten, über die mich sehr gefreut
 habe. Lest sie am besten selbst:
 
-<blockquote>Liebe Anne,
-Du sprichst in Deinem Artikel auch das Thema Nachhaltigkeit an. Das liegt natürlich auch uns sehr am Herzen und so richten wir auch in Bezug auf unsere Rohstoffe immer unseren Fokus darauf. Es ist nur sehr schwierig, eine andere Verpackung als Plastik einzusetzen. Kunststoff stellt die hauptsächliche Verpackungsart für Kosmetikprodukte dar. In den meisten Fällen in Form von PE, PP oder einer Mischung aus beidem. Kunststoff hat den Vorteil, dass er leicht ist, flexibel und bruchsicher und sich somit für Tiegel, Tuben und Flaschenprodukte eignet. Über den Grünen Punkt kann er gut recycelt werden.
-Glas ist keine gute Alternative, da hier Bruchgefahr im Bad besteht und es sehr viel schwerer beim Transport ist (der Treibstoffverbrauch bei der Fracht steigt). Auch müsste das Produkt zusätzlich vor Sonneneinstrahlung geschützt werden - Jede Flasche bräuchte also eine Faltschachtel oder müsste dunkel eingefärbt werden. Beim Transport müsste das Glas auch gut geschützt werden, was zusätzlichen Verpackungsmüll bedeuten würde.
+<blockquote>
+
+Liebe Anne, Du sprichst in Deinem Artikel auch das Thema Nachhaltigkeit an. Das
+liegt natürlich auch uns sehr am Herzen und so richten wir auch in Bezug auf
+unsere Rohstoffe immer unseren Fokus darauf. Es ist nur sehr schwierig, eine
+andere Verpackung als Plastik einzusetzen. Kunststoff stellt die hauptsächliche
+Verpackungsart für Kosmetikprodukte dar. In den meisten Fällen in Form von PE,
+PP oder einer Mischung aus beidem. Kunststoff hat den Vorteil, dass er leicht
+ist, flexibel und bruchsicher und sich somit für Tiegel, Tuben und
+Flaschenprodukte eignet. Über den Grünen Punkt kann er gut recycelt werden. Glas
+ist keine gute Alternative, da hier Bruchgefahr im Bad besteht und es sehr viel
+schwerer beim Transport ist (der Treibstoffverbrauch bei der Fracht steigt).
+Auch müsste das Produkt zusätzlich vor Sonneneinstrahlung geschützt werden -
+Jede Flasche bräuchte also eine Faltschachtel oder müsste dunkel eingefärbt
+werden. Beim Transport müsste das Glas auch gut geschützt werden, was
+zusätzlichen Verpackungsmüll bedeuten würde.
 
 ### Eine Metallverpackung müsste auch mit Kunststoff beschichtet werden, damit man sie für Kosmetik verwenden kann. Es bestünde sonst Korrosionsgefahr. Eine solche Verpackung würde auch über den Grünen Punkt recycelt.
 

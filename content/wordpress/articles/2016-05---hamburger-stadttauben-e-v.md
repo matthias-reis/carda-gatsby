@@ -27,8 +27,7 @@ date: 2016-05-26T07:00:34.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (115:50)"
+errors: {}
 thumbnailId: "14901"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_05_20058512143_51595b7228_z__l.jpg
@@ -37,9 +36,6 @@ subTitle: Ein Verein mit Herz für Tauben
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (115:50)
-
-<!--
 <RemoteImage
   alt="Stadttauben"
   size="medium"
@@ -170,13 +166,14 @@ Nachricht, am besten unter info@hamburgerstadttauben.de
 Wer den Verein gerne mit Spenden unterstützen möchte, kann das unter der
 folgenden Kontonummer tun:
 
-<blockquote>Hamburger Stadttauben e.V.
-Stichwort: Tierhilfefond Tauben
-Kontonr. 1244131619
-BLZ 200 505 50
-Hamburger Sparkasse
+<blockquote>
 
-IBAN DE44200505501244131619 BIC HASPDEHHXXX</blockquote>
+Hamburger Stadttauben e.V. Stichwort: Tierhilfefond Tauben Kontonr. 1244131619
+BLZ 200 505 50 Hamburger Sparkasse
+
+IBAN DE44200505501244131619 BIC HASPDEHHXXX
+
+</blockquote>
 
 ## Weitere Infos für den Hamburger Stadttauben e. V.
 
@@ -202,7 +199,5 @@ Stadtverwaltung oder im Internet.
 **Banner:** Hamburger Stadttauben
 
 &nbsp;
-
--->
 
   

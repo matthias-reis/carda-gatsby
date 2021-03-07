@@ -4,12 +4,23 @@ seoTitle: Datenschutz
 slug: datenschutz
 path: /datenschutz/
 fileName: 2016-12---datenschutz.md
-description: ''
-excerpt: ''
-focusKeyword: ''
-type: page
+description: ""
+excerpt: ""
+focusKeyword: ""
+labels: null
+type: null
+typeName: Artikel
 date: 2016-12-07T22:12:28.000Z
+status: publish
+isWerbung: false
+isAffiliate: false
+errors: {}
+thumbnailId: null
+remoteThumbnailImage: null
+remoteImage: null
+remoteLoadingImage: null
 subTitle: Datenschutzerklärung
+  
 ---
 
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der
@@ -759,3 +770,5 @@ Nutzer zuordnen. Datenschutzerklärung von Pinterest:
 [https://about.pinterest.com/de/privacy-policy](https://about.pinterest.com/de/privacy-policy).
 
 [Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de)
+
+  

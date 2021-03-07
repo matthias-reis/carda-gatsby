@@ -23,6 +23,11 @@ export type Frontmatter = {
   remoteLoadingImage?: string;
   remoteThumbnailImage?: string;
   labels: string[] | null;
+  language?: 'en' | 'de';
+  links?: {
+    en?: string;
+    de?: string;
+  };
 };
 
 export type Article = {

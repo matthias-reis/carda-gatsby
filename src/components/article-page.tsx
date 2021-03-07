@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import Image from 'gatsby-image';
+import { Link as GatsbyLink } from 'gatsby';
 
 import { Link } from './link';
 import { Interactions } from './interactions';
@@ -11,7 +12,7 @@ import { ArticleCrossLinkSection } from './article-crosslink-section';
 import { FooterNavigation } from './footer-navigation';
 import { InteractionDetails } from './interaction-details';
 
-import { space, color } from '../style';
+import { space, color, fontSize } from '../style';
 import { Article as ArticleMeta, CompactArticle } from '../types';
 import { CardaImage } from './carda-image';
 import { PageMeta } from './page-meta';
@@ -53,12 +54,27 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         <PageMeta title={meta.frontmatter.title} path={path} />
         <Interactions meta={meta} />
         <Meta>
-          {getType(meta)} vom {formattedDate} ·{' '}
-          <CurrentLink href={`https://cardamonchai.com${meta.fields.path}`}>
+          {getType(meta)} vom {formattedDate}
+          {/* &nbsp;·{' '}
+          <Link href={`https://cardamonchai.com${meta.fields.path}`}>
             im alten Blog
-          </CurrentLink>
+          </Link> */}
         </Meta>
         <HR />
+        {meta.frontmatter.links?.de && (
+          <LanguageArea>
+            <Language to={meta.frontmatter.links?.de}>
+              Deutsche Version lesen
+            </Language>
+          </LanguageArea>
+        )}
+        {meta.frontmatter.links?.en && (
+          <LanguageArea>
+            <Language to={meta.frontmatter.links?.en}>
+              🇬🇧 Read English Version
+            </Language>
+          </LanguageArea>
+        )}
         <Title>{meta.frontmatter.title}</Title>
         {meta.frontmatter.subTitle && (
           <Subtitle>{meta.frontmatter.subTitle}</Subtitle>
@@ -95,6 +111,22 @@ type ArticleProps = {
   path: string;
 };
 
+const LanguageArea = styled.div`
+  display: flex;
+  justify-content: center;
+`;
+
+const Language = styled(GatsbyLink)`
+  text-decoration: none;
+  border: 1px solid ${color.neutral[1]};
+  height: 24px;
+  font-size: ${fontSize[2]};
+  padding: 0 ${space[2]};
+  margin-top: ${space[2]};
+  border-radius: 16px;
+  color: ${color.neutral[1]};
+`;
+
 const ArticleFooter = styled.div`
   margin-top: ${space[4]};
 `;
@@ -102,16 +134,6 @@ const ArticleFooter = styled.div`
 const ImageContainer = styled.div`
   margin-top: ${space[2]};
   margin-bottom: ${space[3]};
-`;
-
-const Label = styled(Link)`
-  display: inline-block;
-  border: 1px solid blue;
-  border-radius: 3px;
-  padding: 0 4px;
-  margin: 0 4px 4px 0;
-  color: black;
-  text-decoration: none;
 `;
 
 const Meta = styled.p`

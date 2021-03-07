@@ -45,8 +45,7 @@ date: 2017-05-09T16:07:00.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (44:50)"
+errors: {}
 thumbnailId: "16549"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34171350760_8d27df5e08_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_05_34171350760_8d27df5e08_k__l.jpg
@@ -55,9 +54,6 @@ subTitle: Ein Fest in Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (44:50)
-
-<!--
 **Was für ein schöner "Zufall": Wir kommen aus dem Urlaub nach Hause und der
 Hamburger Hafen feiert Geburtstag. Da muss ich Euch natürlich gleich mit einer
 Bildergalerie verzücken. Hach.**
@@ -77,11 +73,12 @@ nächsten Tagen und Wochen finden.
 <Gallery name="flickr/annehafengeburtstag2017" />
 
 <blockquote>
+
 ## La Paloma
-Ein Wind weht von Süd und zieht mich hinaus auf See,
-Mein Kind, sei nicht traurig tut auch der Abschied weh.
-Mein Herz geht an Bord, und fort muß die Reise gehn.
-Dein Schmerz wird vergehn, und schön wird das Wiedersehn.
+
+Ein Wind weht von Süd und zieht mich hinaus auf See, Mein Kind, sei nicht
+traurig tut auch der Abschied weh. Mein Herz geht an Bord, und fort muß die
+Reise gehn. Dein Schmerz wird vergehn, und schön wird das Wiedersehn.
 
 Mich trägt die Sehnsucht fort in die blaue Ferne. Unter mir Meer, und über mir
 Nacht und Sterne. Vor mir die Welt, so treibt mich der Wind des Lebens. Wein
@@ -105,14 +102,14 @@ Meer gibt keinen von uns zurück. Seemannsbraut ist die See und nur ihr kann er
 treu sein. Wenn der Sturmwind sein Lied singt dann winkt mir. Der großen
 Freiheit Glück.
 
-La Paloma ade. Auf Matrosen, ohe! Ohe! Ade.</blockquote>
+La Paloma ade. Auf Matrosen, ohe! Ohe! Ade.
+
+</blockquote>
 
 ## Wegweiser Hamburger Hafengeburtstag
 
 [2016](/2016/05/hafengeburtstag-in-hamburg/)
 
 2017
-
--->
 
   

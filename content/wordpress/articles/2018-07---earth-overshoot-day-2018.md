@@ -37,8 +37,7 @@ date: 2018-07-31T16:30:45.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (96:49)"
+errors: {}
 thumbnailId: "21509"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_forest-fire-432870_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_forest-fire-432870_640__l.jpg
@@ -47,9 +46,6 @@ subTitle: Der Menschheit ist die Sicherung durchgebrannt
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (96:49)
-
-<!--
 **Ich erinnere mich noch sehr gut an den
 [Earth Overshoot Day 2017](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/).
 Letztes Jahr fiel der Tag noch auf den 2. August. 2018 ist es bereits einen Tag
@@ -160,10 +156,17 @@ diesen belegten Tatsachen, ist sofortiger, umfassender Klimaschutz.
 
 Philosoph und Publizist Richard David Precht sieht das ähnlich:
 
-<blockquote>"Wenn wir weiter wirtschaften, wie bisher, werden unsere Urenkel keine bewohnbare Erde mehr vorfinden. Die größte Bedrohung besteht darin, dass wir immer mehr Energie verbrauchen und diese nach wie vor global durch fossile Energieträger gewonnen wird, sprich: Öl und Kohle.
+<blockquote>
+
+"Wenn wir weiter wirtschaften, wie bisher, werden unsere Urenkel keine
+bewohnbare Erde mehr vorfinden. Die größte Bedrohung besteht darin, dass wir
+immer mehr Energie verbrauchen und diese nach wie vor global durch fossile
+Energieträger gewonnen wird, sprich: Öl und Kohle.
 
 Die Folge davon ist, dass die Erderwärmung immer weiter gehen wird. Mit diesen
-Dingen müssen wir uns jetzt auseinandersetzen."</blockquote>
+Dingen müssen wir uns jetzt auseinandersetzen."
+
+</blockquote>
 
 Das sagte er in der titel thesen temperamente Sendung am 8. Juli.
 
@@ -191,7 +194,5 @@ die Menschheit vielleicht noch zu retten.
 **Quellen:** ZDF, overshootday.org, titel thesen temperamente, WWF, Wikipedia
 **Schaubilder:** Global Footprint Organisation **Titelbild:**
 [Ylvers](https://pixabay.com/de/users/Ylvers-337353/), pixabay
-
--->
 
   

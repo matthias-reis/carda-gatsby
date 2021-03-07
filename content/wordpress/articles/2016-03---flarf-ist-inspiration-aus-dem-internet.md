@@ -27,8 +27,7 @@ date: 2016-03-11T11:18:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (53:20)"
+errors: {}
 thumbnailId: "14253"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_16075705018_6c22852970_z__l.jpg
@@ -37,9 +36,6 @@ subTitle: Poesie der Vernetzung
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (53:20)
-
-<!--
 <RemoteImage
   alt="Flarf"
   size="medium"
@@ -87,7 +83,9 @@ lassen, findet Ihr in den nächsten Wochen möglicherweise immer wieder mal ein
 kleines Flarf-Gedicht aus meiner Feder an dieser Stelle.
 
 <blockquote>
+
 ## Durch den Wind
+
 Erkältet? Ein Dampfbad befreit die Atemwege
 
 Stummer Frühling unter Wasser
@@ -102,7 +100,9 @@ Die Kuhfluchtwasserfälle bei Farchant
 
 Mit den Altlasten des Winters aufräumen
 
-Mountain Mist</blockquote>
+Mountain Mist
+
+</blockquote>
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15659809233_3fa9f37cff_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_15642744004_9a850bc9bf_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2016_03_11627444026_23859e830a_z__l.jpg"}]}
@@ -140,7 +140,5 @@ jederzeit.
 1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
 1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
 1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-
--->
 
   

@@ -34,8 +34,7 @@ date: 2018-02-19T17:24:15.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (78:13)"
+errors: {}
 thumbnailId: "19674"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25408637847_9cf3279cee_z__l.jpg
@@ -44,9 +43,6 @@ subTitle: Nachhaltiger Tee aus Hamburg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (78:13)
-
-<!--
 _Werbung\*_
 
 **Vor Kurzem erreichte mich ein tolles Testpaket mit unzähligen Teesorten von
@@ -121,19 +117,22 @@ Eines von vielen Cocktail-Rezepten, die sich Samova in Zusammenarbeit mit Gin
 Sul überlegt hat, möchte ich Euch hiermit verraten:
 
 <blockquote>
+
 ## Gin Super Soul
--  4 Achtel Bio Limette
--  1 halbe Scheibe Bio-Salatgurke
--  2 Blätter Basilikum
--  1 - 2 cl Agavendicksaft
--  4 cl Bio-Apfeldirektsaft
--  4 cl Gin Sul
--  5 - 6 Eiswürfel
-Mit kaltem Gin Soul Tee aufgießen
+
+- 4 Achtel Bio Limette
+- 1 halbe Scheibe Bio-Salatgurke
+- 2 Blätter Basilikum
+- 1 - 2 cl Agavendicksaft
+- 4 cl Bio-Apfeldirektsaft
+- 4 cl Gin Sul
+- 5 - 6 Eiswürfel Mit kaltem Gin Soul Tee aufgießen
 
 Deko: Ein Rosmarinzweig oder frische Minze
 
-Prost!</blockquote>
+Prost!
+
+</blockquote>
 
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40279458961_6a33dcfec5_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40279458961_6a33dcfec5_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40279457471_e9fcfb15a7_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_40279457471_e9fcfb15a7_z__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_26407447918_58f93bfe64_z__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2018_02_26407447918_58f93bfe64_z__l.jpg"}]}
@@ -267,7 +266,5 @@ images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2018_0
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
   findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
--->
 
   

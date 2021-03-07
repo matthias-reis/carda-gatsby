@@ -31,8 +31,7 @@ date: 2017-11-05T19:48:02.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (51:73)"
+errors: {}
 thumbnailId: "18345"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_24313563518_96f22f71cc_k__l.jpg
@@ -41,9 +40,6 @@ subTitle: Ein Schloss mit vielen Gesichtern
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (51:73)
-
-<!--
 **Das weltberühmte Kilkenny Castle steht auf einer leichten Anhöhe oberhalb der
 Stadt. Wir haben es bei unserer Irlandreise besucht und dabei einiges gelernt.**
 
@@ -98,14 +94,18 @@ Was ich außerdem jedem an Herz legen möchte ist ein Spaziergang im ans Schloss
 angrenzenden Park. Der Rasen ist hier so grün, dass man das Gefühl hat, schon in
 Kürze dem Märzhasen, dem Hutmacher oder der Herzkönigin zu begegnen.
 
-<blockquote>"Würdest du mir bitte sagen, wie ich von hier aus weitergehen soll?"
+<blockquote>
+
+"Würdest du mir bitte sagen, wie ich von hier aus weitergehen soll?"
 
 "Das hängt zum größten Teil davon ab, wohin du möchtest", anwortete die
 Grinsekatze.
 
 "Ach wohin ist mir eigentlich gleich.", sagte Alice.
 
-"Dann ist es auch egal, wie du weitergehst", erwiderte die Katze."</blockquote>
+"Dann ist es auch egal, wie du weitergehst", erwiderte die Katze."
+
+</blockquote>
 
 <Gallery name="flickr/kilkennycastle2017" />
 
@@ -141,7 +141,5 @@ von Schloss Kilkenny
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
--->
 
   

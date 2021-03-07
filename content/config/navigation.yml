@@ -1,41 +1,35 @@
 mainNavigation:
-  - label: Buch kaufen
-    url: https://amreis.de/ha118
   - label: Rock'n'Roll
     url: /tag/musik
     children:
-      - { url: /tag/interview, label: Interview }
-      - { url: /tag/bands-und-reviews, label: Bands & Reviews }
+      - { url: /tag/interviews, label: Interviews }
+      - { url: /tag/bands, label: Bands }
       - { url: /tag/konzerte, label: Konzerte }
       - { url: /tag/festivals, label: Festivals }
-      - { url: /tag/buecher-und-filme, label: Bücher & Filme }
   - label: Vegan
     url: /tag/vegan
     children:
-      - { url: /tag/rezepte, label: Vegane Rezepte }
-      - { url: /tag/go-vegan, label: Darum vegan }
-      - { url: /tag/vegane-lokale, label: Vegane Lokale }
-      - { url: /tag/vegan-beauty, label: Mode & Beauty vegan }
-      - { url: /tag/produkte, label: Vegane Produkte }
-  - label: Gesellschaft
-    url: /tag/gesellschaft
-    children:
       - { url: /tag/tierrechte, label: Tierrechte }
-      - { url: /tag/klima-umweltschutz, label: Klima & Umweltschutz }
-      - { url: /tag/politik-soziales, label: Politik & Soziales }
-      - { url: /tag/kunst, label: Kunst }
-  - label: Unterwegs
-    url: /tag/unterwegs
+      - { url: /tag/klima-und-umweltschutz, label: Klima- & Umweltschutz }
+      - { url: /tag/ernaehrung-und-gesundheit, label: Ernährung & Gesundheit }
+      - { url: /tag/vegane-lokale, label: Vegane Lokale }
+      - { url: /tag/rezepte, label: Vegane Rezepte }
+  - label: Lifestyle
+    url: /tag/lifestyle
     children:
-      - { url: /tag/reisen, label: Reisen }
+      - { url: /tag/buecher-und-filme, label: Bücher & Filme }
+      - { url: /tag/antifaschismus-und-feminismus, label: Antifaschismus und Feminismus }
+      - { url: /tag/achtsamkeit, label: Achtsamkeit }
+      - { url: /tag/fair-fashion-und-beauty, label: Fair Fashion & Beauty }
+      - { url: /tag/geschichten-und-erlebtes, label: Geschichten & Erlebtes}
+  - label: Slow Travel
+    url: /tag/slow-travel
+    children:
       - { url: /tag/hamburg, label: Hamburg }
       - { url: /tag/ausflug, label: Ausflug }
       - { url: /tag/skandinavien, label: Skandinavien }
-      - { url: /tag/england, label: Britische Inseln }
-  - label: Kreatives
-    url: /tag/kreatives
-    children:
-      - { url: /tag/diy, label: DIY }
-      - { url: /tag/prosa, label: Prosa }
-      - { url: /tag/lyrik, label: Lyrik }
-      - { url: /tag/tagebuch, label: Tagebuch }
+      - { url: /tag/britische-inseln, label: Britische Inseln}
+      - { url: /tag/fernweh, label: Fernweh }
+  - label: Buch kaufen
+    external: true
+    url: https://amreis.de/ha118

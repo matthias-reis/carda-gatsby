@@ -32,8 +32,7 @@ date: 2018-09-26T06:14:17.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (31:21)"
+errors: {}
 thumbnailId: "22127"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_animal-1554745_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_animal-1554745_640__l.jpg
@@ -42,9 +41,6 @@ subTitle: Unterstützt jetzt PETA!
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (31:21)
-
-<!--
 _Werbung da Verlinkung (ohne Auftrag)\*_
 
 **"Nur aufgrund von bürokratischer Gleichgültigkeit und unternehmerischer Gier
@@ -69,13 +65,22 @@ Lidkrämpfe mit Botulinumtoxin.
 
 ## PETA erklärt die Problematik anhand eines traurigen Schicksals:
 
-<blockquote>"Dies ist die Geschichte von einer unter tausenden Mäusen, die in den Botoxversuchen missbraucht werden. Wir geben ihr den Namen Madeline. Wie alle anderen Mäuse, ist auch Madeline ein hochsoziales Tier. Mäuse kommunizieren mithilfe von Hochfrequenzlauten miteinander. Als Madeline im Anschluss an ihren Transport im Versuchslabor ankommt, hört sie, dass viele ihrer Artgenoss*innen anwesend sind. Sie alle haben Angst. Sie fragt sich, was los ist.
+<blockquote>
+
+"Dies ist die Geschichte von einer unter tausenden Mäusen, die in den
+Botoxversuchen missbraucht werden. Wir geben ihr den Namen Madeline. Wie alle
+anderen Mäuse, ist auch Madeline ein hochsoziales Tier. Mäuse kommunizieren
+mithilfe von Hochfrequenzlauten miteinander. Als Madeline im Anschluss an ihren
+Transport im Versuchslabor ankommt, hört sie, dass viele ihrer Artgenoss\*innen
+anwesend sind. Sie alle haben Angst. Sie fragt sich, was los ist.
 
 Auch Madeline packt die nackte Angst. Sie wird von einem Menschen hochgehoben,
 der ihr **Botox** in die Muskeln spritzt. Die anderen Mäuse haben das selbe
 Schicksal. Sie bekommt kaum noch Luft und stellt fest, dass sie nicht mehr
 laufen kann. Nach drei Tagen ist ihre Atemmuskulatur komplett gelähmt und
-Madeline erstickt."</blockquote>
+Madeline erstickt."
+
+</blockquote>
 
 ## Tierfreie Testmethoden
 
@@ -116,7 +121,5 @@ _\*Dieser Artikel ist als "Werbung" gekennzeichnet, da ich auf eine Kampagne von
 PETA verlinkt habe. Meine Meinung wurde nicht beeinflusst. Alles zum Thema
 Werbekennzeichnung in meinem Blog findet Ihr auf meiner
 [Tranzparenzseite](/werbung/). _
-
--->
 
   

@@ -63,7 +63,6 @@ isWerbung: false
 isAffiliate: false
 errors:
   outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (112:31)"
 thumbnailId: "9149"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9587716867_268c9cfda2_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_11_9587716867_268c9cfda2_z__l.jpg
@@ -72,9 +71,6 @@ subTitle: Von Thai Massage und traditioneller chinesischer Medizin
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (112:31)
-
-<!--
 <RemoteImage
   alt="Tiefenentspannung"
   size="medium"
@@ -207,11 +203,15 @@ Doch zurück zu meinem Besuch bei der chinesischen Medizinerin. Sie meinte
 sogleich, dass die Wahrscheinlichkeit, dass auch dieses Problem auf meinen
 Rücken zurückzuführen ist, sehr hoch ist.
 
-<blockquote>Haben sie Probleme mit Müdigkeit oder fühlen sie sich abgeschlagen?
+<blockquote>
+
+Haben sie Probleme mit Müdigkeit oder fühlen sie sich abgeschlagen?
 
 Leiden sie unter Schlafstörungen und innerer Unruhe?
 
-Haben sie Kopfschmerzen?</blockquote>
+Haben sie Kopfschmerzen?
+
+</blockquote>
 
 All das bejahte ich und staunte dabei nicht schlecht. Ich fragte mich, ob diese
 Frau wohl in mich hineinschauen konnte? Jahrelange Erfahrung und eine
@@ -287,7 +287,5 @@ auf Nummer sicher zu gehen.
   Inhalt und meine Meinung wurden dadurch nicht beeinflusst. Infos zum Thema
   Werbekennzeichnung in meinem Blog findet Ihr auf meiner
   [Transparenz-Seite](/werbung/). _
-
--->
 
   

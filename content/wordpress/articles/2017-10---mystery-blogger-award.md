@@ -29,7 +29,7 @@ status: publish
 isWerbung: false
 isAffiliate: false
 errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (38:13)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <li> (135:0)"
 thumbnailId: "18216"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_mystery-blogger-award-badge-02.png__l.jpg
@@ -38,7 +38,7 @@ subTitle: Kohlrabi und Deichkind
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (38:13)
+## unknown: Expected corresponding JSX closing tag for &lt;li> (135:0)
 
 <!--
 **Vor einigen Tagen wurde ich von Björn vom Blog
@@ -72,14 +72,21 @@ Ausgedacht hat sich den _Mystery Blogger Award_ vor einiger Zeit
 [Okoto Enigma](https://www.okotoenigmasblog.com/). Ihre Motivation dahinter
 formuliert sie folgendermaßen:
 
-<blockquote>„This is an award for amazing bloggers with ingenious posts. Their blog not only captivates, it inspires and motivates. They are one of the best out there, and they deserve every recognition they get. This award is also for bloggers who find fun and inspiration in blogging and they do it with so much love and passion.“
+<blockquote>
+
+„This is an award for amazing bloggers with ingenious posts. Their blog not only
+captivates, it inspires and motivates. They are one of the best out there, and
+they deserve every recognition they get. This award is also for bloggers who
+find fun and inspiration in blogging and they do it with so much love and
+passion.“
 
 "Der _Mystery Blogger Award_ ist ein Award für tolle Blogger mit einfallsreichen
 Artikeln, deren Blogs nicht nur faszinieren, sondern auch inspirieren und
 motivieren. Sie gehören zu den besten da draußen und verdienen jede einzelne
 Erwähnung. Dieser Award ist außerdem für Blogger, die Spaß und Inspiration aus
-anderen Blogs ziehen und das Bloggen mit viel Liebe und Leidenschaft
-betreiben."</blockquote>
+anderen Blogs ziehen und das Bloggen mit viel Liebe und Leidenschaft betreiben."
+
+</blockquote>
 
 Ich finde das einen schönen Beweggrund. Es geht also nicht (oder zumindest nicht
 nur) ums Linkbuilding, Vernetzen und Profitieren, sondern auch darum,

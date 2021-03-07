@@ -39,7 +39,6 @@ isWerbung: false
 isAffiliate: false
 errors:
   outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (87:12)"
 thumbnailId: "2978"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_04_img_8927.jpeg__l.jpg
@@ -48,9 +47,6 @@ subTitle: Bastelstunde
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (87:12)
-
-<!--
 <RemoteImage
   alt="Foto: cardamonchai 3/2012"
   size="medium"
@@ -130,7 +126,10 @@ _ **Song des Tages** _ **Zaz - Ton Rêve**
 Hier ist, sie, die heiß ersehnte **Bastelanleitung** für Hoochis
 "Schmuckhängedings". Viel Spaß beim Lesen und beim Nachbasteln!
 
-<blockquote>"Und nun meine Damen, die Bastelanleitung. Ich gehe von den Materialangaben meines Dingens aus.
+<blockquote>
+
+"Und nun meine Damen, die Bastelanleitung. Ich gehe von den Materialangaben
+meines Dingens aus.
 
 Hasendraht 2 Dübel 2 Haken Zange Bohrmaschine Bohrer
 
@@ -152,8 +151,8 @@ hängen zu können). Dasselbe habe ich am unteren Rand des Drahtes auch gemacht,
 um dann Armreifen, Uhren etc. hin hängen zu können. Allerdings muss man beim
 Hochbiegen der Drähte aufpassen, denn sie brechen leicht ab. Löcher in die Decke
 bohren, Dübel rein, Haken rein und Schmuckhängedings in die Haken einhängen.
-FERTIG!!!"</blockquote>
+FERTIG!!!"
 
--->
+</blockquote>
 
   

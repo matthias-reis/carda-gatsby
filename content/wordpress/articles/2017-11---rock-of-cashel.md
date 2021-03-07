@@ -33,8 +33,7 @@ date: 2017-11-16T08:01:25.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (84:83)"
+errors: {}
 thumbnailId: "18483"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_Rock-Of-Cashel-Duo__l.jpg
@@ -43,9 +42,6 @@ subTitle: Ein geschichtsträchtiger Ort
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (84:83)
-
-<!--
 **Raben kreisen um die Zinnen der alten Gemäuer. Ein kühles Lüftchen zieht durch
 die Nischen und Ecken. Der Rock Of Cashel ist ein mystischer Ort, von dem eine
 gewaltige Kraft auszugehen scheint. Längst vergangene Zeiten, Macht und Ohnmacht
@@ -138,7 +134,12 @@ Ireland gehen. Besucht werden kann die Sehenswürdigkeit das ganze Jahr über. I
 empfehle Euch, gleich in den Morgenstunden dort aufzuschlagen, wenn noch nicht
 so viel los ist. Die Kasse öffnet jeden Tag um 9 Uhr.
 
-<blockquote> _"Chaos isn't a pit. Chaos is a ladder. Many who try to climb it fail, and never get to try again. The fall breaks them. And some are given a chance to climb; they cling to the real or the gods or love. Only the ladder is real. The climb is all there is."_
+<blockquote>
+
+_"Chaos isn't a pit. Chaos is a ladder. Many who try to climb it fail, and never
+get to try again. The fall breaks them. And some are given a chance to climb;
+they cling to the real or the gods or love. Only the ladder is real. The climb
+is all there is."_
 
 _-_
 
@@ -148,7 +149,9 @@ Sturz bricht sie für immer. Nur sehr wenige bekommen die Chance zu klettern. Si
 klammern sich fest an die Wirklichkeit oder an die Götter oder an die Liebe. Nur
 die Leiter ist real. Der Aufstieg ist alles, was wir haben."_
 
-_Petyr "Littlefinger" Baelish, "Game Of Thrones"_ </blockquote>
+_Petyr "Littlefinger" Baelish, "Game Of Thrones"_
+
+</blockquote>
 
 ## Wegweiser Irland
 
@@ -181,7 +184,5 @@ _Petyr "Littlefinger" Baelish, "Game Of Thrones"_ </blockquote>
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
 
 <Gallery name="flickr/annerockofcashel2017" />
-
--->
 
   

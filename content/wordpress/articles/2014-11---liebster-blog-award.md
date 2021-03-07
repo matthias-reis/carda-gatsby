@@ -193,13 +193,19 @@ weiß, ziehe ich es jedoch vor, Tante Google zu befragen. Oder ich gebe die Frag
 an jemanden weiter, der sie besser beantworten kann. :-P</li><li> **Wenn Du drei
 Wahrheiten/Regeln für das Leben benennen müsstest, welche wären das?** Hier
 möchte ich mich gerne dreier Zitate bedienen, die ich für sehr wahr
-halte:</li></ol><blockquote>"Life is what happens to you while you are busy
-making other plans" - John Lennon
+halte:</li></ol>
+
+<blockquote>
+
+"Life is what happens to you while you are busy making other plans" - John
+Lennon
 
 "Verrückt zu sein ist gar nicht so einfach" - Rafik Schami
 
 "Sei du selbst die Veränderung, die du dir wünschst für diese Welt" - Mahatma
-Gandhi</blockquote>
+Gandhi
+
+</blockquote>
 
 Ich hatte mich gerade an den Gedanken mit der Nominierung gewöhnt und im Kopf
 damit angefangen, das Interview zu beantworten, da flatterte eine weitere

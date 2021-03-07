@@ -4,19 +4,27 @@ seoTitle: Transparenz - Werbung und Kennzeichnung in meinem Blog
 slug: transparenz
 path: /werbung/
 fileName: 2018-01---transparenz.md
-description:
-  Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim Bloggen.
-  Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch als solche.
-excerpt:
-  Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim Bloggen.
-  Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch als solche.
+description: Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim
+  Bloggen. Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch
+  als solche.
+excerpt: Tranzparenz ist heutzutage das A und O im Internet. Vor allem beim
+  Bloggen. Auch mir ist Offenheit wichtig. Darum kennzeichne ich Werbung auch
+  als solche.
 focusKeyword: Werbung
-type: page
+labels: null
+type: null
+typeName: Artikel
 date: 2018-01-12T07:33:21.000Z
+status: publish
+isWerbung: false
+isAffiliate: false
+errors: {}
+thumbnailId: "18868"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_20784156796_c187f8f7f9_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_20784156796_c187f8f7f9_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QALxAAAQMCBAUCBAcAAAAAAAAAAQIDBAURAAYSUQchIjFBE2EIUrHBFBUjM2Lh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABoRAQEAAgMAAAAAAAAAAAAAAAEAAhEhMUH/2gAMAwEAAhEDEQA/AC2Kg9KrdJuL+47/AGxrHhfK9LKMBkNFQC1G4O6jjJ0LpeuElQIIIHe1u49/rheqM6DmPgpIiUqpsCq014Tvw5keg6kNqJV0kgnpJI9wPNsR3zX0JPYlqCbLb52SNvODmZWp7HEZNPpS44blPvSZ4cRqUmOjSlJHvrvbcjnyxOZF4goy5w9gNV96RV69JcvT6e0760l9pR/T1HnpGrUBq6reMUWWKU7GhVKs1dKDXKjIcfkaTdLASkhLKD8qdRF/JucGTBos3wf3Sf4n6YsM+UynKyHS6yhhpqopkqjuOJFi8k3IuPJGnkdicR1MOpZJ2+4GLDiDdWQ6AyhJ6pTzhNuR0i1r79WNR5U/wysU5E6q1F9LSprTaUtLKRdsFR1EbE8hfbCMZKfyE2UNSkLVa/zL/rArwPU5FqdTA1AORF9udiCCL/7bCYHSmnIbcQSotoAUDucCnTF//9k=
 subTitle: Werbung und Kennzeichnung
+  
 ---
 
 **Tranzparenz ist heutzutage das A und O im Internet und vor allem beim Bloggen.
@@ -110,3 +118,5 @@ unverkäufliche Muster fotografisch nicht in Szene setzen lassen. Fotos sind
 jedoch ein wichtiger Bestandteil meiner Blogartikel. Der Erkennungswert der
 Originalverpackung ist für Eure potentiellen Kund\*innen zudem deutlich höher.
 Vielen Dank für das Verständnis.
+
+  

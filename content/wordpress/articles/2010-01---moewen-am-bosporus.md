@@ -22,8 +22,7 @@ date: 2010-01-09T18:23:12.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (17:42)"
+errors: {}
 thumbnailId: "5630"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_0232__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_06_img_0232__l.jpg
@@ -32,25 +31,26 @@ subTitle: Artisten der Lüfte
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (17:42)
-
-<!--
 Diese Aufnahmen sind mir im Januar 2010 in Istanbul gelungen.
 
 <Gallery name="flickr/anneseagullsistanbul2009" />
 
-<blockquote>## Die Möwen
-Die Möwen sehen alle aus,
-als ob sie Emma hießen.
-Sie tragen einen weißen Flaus
+<blockquote>
+
+## Die Möwen
+
+Die Möwen sehen alle aus, als ob sie Emma hießen. Sie tragen einen weißen Flaus
 und sind mit Schrot zu schießen.
 
 Ich schieße keine Möwe tot, ich laß sie lieber leben - und füttre sie mit
 Roggenbrot und rötlichen Zibeben.
 
 Oh Mensch, du wirst nie nebenbei der Möwe Flug erreichen. Wofern du Emma
-heißest, sei zufrieden, ihr zu gleichen.</blockquote>## Wegweiser Möwen1. Möwen
-am Bosporus (Januar 2010)
+heißest, sei zufrieden, ihr zu gleichen.
+
+</blockquote>
+
+## Wegweiser Möwen1. Möwen am Bosporus (Januar 2010)
 
 1.  [Zurück nach St. Peter Ording (Juli 2015)](/2015/07/zurueck-nach-st-peter-ording/)
 1.  [St. Peter Ording - Perle an der Nordsee (August 2015)](/2015/08/st-peter-ording/)
@@ -62,7 +62,5 @@ am Bosporus (Januar 2010)
 1.  [Möwen in Dublin - Bunte Bilderserie mit original Irischen Seevögeln (September 2017)](/2017/10/moewen-in-dublin/)
 1.  [Möwe am Wasser](/2018/01/moewe-am-wasser/)
 1.  [Birds Of Westport](/2018/05/birds-of-westport/)
-
--->
 
   

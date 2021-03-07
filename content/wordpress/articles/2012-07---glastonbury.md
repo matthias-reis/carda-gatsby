@@ -42,8 +42,7 @@ date: 2012-07-29T13:00:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (45:23)"
+errors: {}
 thumbnailId: "3375"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9652__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_img_9652__l.jpg
@@ -52,9 +51,6 @@ subTitle: Erinnerungen an den Sommer in England 2012 - Teil 3/12
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (45:23)
-
-<!--
 <Gallery
 images={[{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9646__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9646__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9651__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9651__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9652__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9652__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9656__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9656__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9661__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9661__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9662__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9662__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9663__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9663__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9668__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9668__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9676__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9676__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9677__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9677__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9681__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9681__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9686__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9686__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9694__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9694__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9711__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9711__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9738__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9738__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9749__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9749__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9754__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9754__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9758__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9758__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9767__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9767__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9769__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9769__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9763__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9763__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9777__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9777__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9794__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9794__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9796__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9796__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9802__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9802__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9807__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9807__l.jpg"},{"mediumUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9813__m.jpg","largeUrl":"https://storage.googleapis.com/cardamonchai-images/2012_07_img_9813__l.jpg"}]}
 />
@@ -76,16 +72,13 @@ Hier geht's zu [_Teil 4/9_](/2012/07/isle-of-wight-festival-2012/) der Galerie
 
 [youtube=http://www.youtube.com/watch?v=7QcxcGz1kKo]
 
-<blockquote>Paranoia is in bloom,
-The PR transmissions will resume,
-They'll try to push drugs that keep us all dumbed down,
-And hope that we will never see the truth around
-(So come on)
-Another promise, another scene,
-Another packaged lie to keep us trapped in greed,
-And all the green belts wrapped around our minds,
-And endless red tape to keep the truth confined
-(So come on)
+<blockquote>
+
+Paranoia is in bloom, The PR transmissions will resume, They'll try to push
+drugs that keep us all dumbed down, And hope that we will never see the truth
+around (So come on) Another promise, another scene, Another packaged lie to keep
+us trapped in greed, And all the green belts wrapped around our minds, And
+endless red tape to keep the truth confined (So come on)
 
 They will not force us, They will stop degrading us, They will not control us,
 We will be victorious (So come on) Interchanging mind control, Come let the
@@ -100,8 +93,8 @@ They will not force us, They will stop degrading us, They will not control us,
 We will be victorious So come on
 
 They will not force us, They will stop degrading us, They will not control us,
-We will be victorious</blockquote>
+We will be victorious
 
--->
+</blockquote>
 
   

@@ -29,8 +29,7 @@ date: 2018-08-20T15:27:38.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (59:47)"
+errors: {}
 thumbnailId: "21805"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__l.jpg
@@ -39,9 +38,6 @@ subTitle: '"I Build This Garden For Us" von Lenny Kravitz'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (59:47)
-
-<!--
 **Was kommt dabei heraus, wenn 15 Garten-affine Blogger\*innen verabreden, einen
 Text über ein Lied zu verfassen und ihn gleichzeitig zu veröffentlichen? Das hat
 sich Björn vom Blog Gartenbaukunst\* auch gefragt und das Gartenblogger Blind
@@ -84,8 +80,10 @@ Liedtextes, sondern um meine persönliche Interpretation des Songs.</small>
 
 ## Baby, komm in meinen Garten!
 
-<blockquote>Sieh Dir das an, ich habe einen Garten für Dich gebaut.
-Genieß dort den Moment mit mir.
+<blockquote>
+
+Sieh Dir das an, ich habe einen Garten für Dich gebaut. Genieß dort den Moment
+mit mir.
 
 Bette Deinen Kopf in das Blütenmeer, das ich für Dich geschaffen habe. Vertrau
 mir.
@@ -113,7 +111,9 @@ Unter der Trauerweide Am kühlen Bach, über dem die Sonne untergeht.
 
 Hörst Du die Musik? Spürst Du den Abendhauch?
 
-Komm jetzt mit! Ich muss Dir was zeigen.</blockquote>
+Komm jetzt mit! Ich muss Dir was zeigen.
+
+</blockquote>
 
 Entschuldigt meinen Sarkasmus. Aber dieser Song ist eine Steilvorlage. Ein
 Schmachtfetzen, wie er im Buche steht. Schmalz. Honig. Zuckerwatte. Rosa
@@ -146,7 +146,5 @@ Badeschaum. Geigen. Show. Was für ein Macho. Sorry, Lenny.
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_08_HANG-IN__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDCAQGB//EACwQAAIBAgUDAwIHAAAAAAAAAAECAwQRAAUGEyESFDEHQVEiYRUyQoGx8PH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAxEhEiJBUTFCgf/aAAwDAQACEQMRAD8AyfT/AEtQRadoquqpY6yrnj3WmkQN0sTwAPAt8+b4S6h0+8WtMty/LY446atjZhC8qoN8tZRdvY+3PyMLdH6mzGhhaiSNJqSMsyb4IK8EkCx8X/nDrQ2pqWDXi5hqiekFPPQtDLvws0KCwZQUAN+R4+/ycR2rUKqikBuxx4+yaiMXzGS+jOowJ6vcp+4hqGmlje57h+ogBT4K9Njc2H1EG1uOZZ9TR96sUU6i7CNljKushFwwAFx/eMW4WR6SSfNu8SbL9ndG2rFjGykj6PJAAJsDew4F+MVf9R5KbM9V5xU5XWiSklk34ayxkUh0AIUn6m59zgzK1tTpoIJAub3HDY76i61JEIKtfEbaZo9Lw0VKs09X3b0/U4W7L4IPkfb/AHDWXLdJkRsz1dim2LoD1KfY3GDBjszqCu0ZHUKQQ2DJvxPIZImpTneeSRzpGGVpGsyr+Qftfj4xrubUmjRltTLSy1G+YGaMvFxcKej9J4vgwYVtHqJpkze5n//Z" />
-
--->
 
   

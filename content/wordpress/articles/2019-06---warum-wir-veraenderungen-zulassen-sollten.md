@@ -31,8 +31,7 @@ date: 2019-06-03T08:03:26.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (89:12)"
+errors: {}
 thumbnailId: "24293"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veraenderungen-4__l.jpg
@@ -41,9 +40,6 @@ subTitle: Neu ist gut
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (89:12)
-
-<!--
 **Progressivität ist ein Gewinn für uns alle. Würde sich die Welt nicht
 permanent verändern, würden wir uns immer noch in der Steinzeit befinden. Darauf
 hoffen, dass wir am nächsten Tag etwas zu essen finden, nicht von den
@@ -132,13 +128,20 @@ verlangt, wenn wir die Erde noch retten wollen. Punkt, aus.
 Aus Mais Video möchte ich auch Eckard von Hirschhausen, Mediziner und Comedian
 zitieren.
 
-<blockquote>Warum fällt es uns Menschen so schwer, nach unserer Vernunft zu handeln? Weil wir emotional wie Kleinkinder an dem festhalten, was wir im Moment haben und nicht sehen, was wir in Zukunft gewinnen oder verlieren können. Kurioserweise verhalten sich gerade Jugendliche, wenn sie für Fridays For Future auf die Straße gehen, viel erwachsener, als viele Erwachsene."
+<blockquote>
+
+Warum fällt es uns Menschen so schwer, nach unserer Vernunft zu handeln? Weil
+wir emotional wie Kleinkinder an dem festhalten, was wir im Moment haben und
+nicht sehen, was wir in Zukunft gewinnen oder verlieren können. Kurioserweise
+verhalten sich gerade Jugendliche, wenn sie für Fridays For Future auf die
+Straße gehen, viel erwachsener, als viele Erwachsene."
 
 Mich persönlich stimmt dieser Satz sehr nachdenklich. Warum sollten wir nicht
 einfach mal auf eine neue Generation hören? Ihre Ideen und Wünsche ernst zu
 nehmen könnte uns buchstäblich den Kragen retten. Es geht hier nicht um Musik
-aus der Konserve oder Handys an Halsketten. Es geht um unser
-Überleben.</blockquote>
+aus der Konserve oder Handys an Halsketten. Es geht um unser Überleben.
+
+</blockquote>
 
 Nico Semsrott (Die Partei) hat recht, wenn er sagt
 
@@ -266,7 +269,5 @@ glücklicher werden.
 - [2][mai von mailab - "rezo wissenschaftlich geprüft"](https://www.youtube.com/watch?v=4Y1lZQsyuSQ&amp;t=1089s)
 - [3][die nachbarschaftsapp "nebenan.de"](https://nebenan.de/)
 - [4][missy magazine](https://missy-magazine.de/)
-
--->
 
   

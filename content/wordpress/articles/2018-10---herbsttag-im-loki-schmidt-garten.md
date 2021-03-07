@@ -27,8 +27,7 @@ date: 2018-10-08T07:15:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (31:15)"
+errors: {}
 thumbnailId: "22345"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-07-Loki-Schmidt-Garten-115__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_2018-10-07-Loki-Schmidt-Garten-115__l.jpg
@@ -37,9 +36,6 @@ subTitle: Astern, Bienen und Sonnenschein
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (31:15)
-
-<!--
 _Bildergalerie_
 
 **Hamburg zeigte sich am Wochenende mal wieder von der sonnigen Seite. Da
@@ -54,9 +50,11 @@ schlendern. Der Garten ist im Herbst wirklich immer wieder ein Genuss. Einfach
 wunderbar, was um diese Jahreszeit noch alles blüht.
 
 <blockquote>
+
 ## Ein sonniger Herbsttag
-Die Waschmaschine in der Wohnung macht jede Menge Lärm.
-Draußen auf der Straße schreien sich die Leute an.
+
+Die Waschmaschine in der Wohnung macht jede Menge Lärm. Draußen auf der Straße
+schreien sich die Leute an.
 
 In der Küche riecht es nach Pflaumenkuchen. Die Sonne scheint durchs Fenster.
 
@@ -79,7 +77,9 @@ Der Winter scheint noch so weit. Unbemerkt kriecht er durch das Moos.
 Die Borke hinauf. Wandert in das Blattwerk.
 
 Fällt mit ihm vereint sanft wieder zu Boden. Und nährt die kommenden
-Generationen.</blockquote>
+Generationen.
+
+</blockquote>
 
 <Gallery name="herbstloki18" />
 
@@ -90,7 +90,5 @@ Generationen.</blockquote>
 1.  [Frühlingsboten im Loki Schmidt Garten](/2017/03/fruehlingsboten-im-hamburger-loki-schmidt-garten/)
 1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
 1.  Herbsttag im Loki Schmidt Garten
-
--->
 
   

@@ -47,8 +47,7 @@ date: 2018-04-24T10:03:29.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (48:47)"
+errors: {}
 thumbnailId: "20586"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40957055114_f035127450_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_04_40957055114_f035127450_z__l.jpg
@@ -57,9 +56,6 @@ subTitle: Sensitivpflege mit Manuka und Borretsch
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (48:47)
-
-<!--
 _Werbung\*_
 
 **Heute möchte ich Euch meine neuen Beauty Lieblinge vorstellen. Ich nutze sie
@@ -101,7 +97,10 @@ jederzeit Fragen stellen.
 Nachhaltigkeit steht im Zentrum des Firmeninteresses. So heißt es auf der
 Homepage
 
-<blockquote>"Im Kern unseres nachhaltigen Handelns steht für uns der Erhalt einer intakten Umwelt für zukünftige Generationen.
+<blockquote>
+
+"Im Kern unseres nachhaltigen Handelns steht für uns der Erhalt einer intakten
+Umwelt für zukünftige Generationen.
 
 Aus diesem Grund und aus der Überzeugung, dass nur pure und unverfälschte
 Pflanzen ihre Kraft entfalten, naturrein wirken und Wohlbefinden schenken
@@ -112,7 +111,9 @@ Produkte zu erhalten.
 Das gemeinsame Ziel, im Einklang mit der Natur zu säen und zu ernten, verbindet
 uns seither und führte oftmals zu engen und freundschaftlichen Beziehungen zu
 unseren Anbaupartnern. Fairness, Offenheit und Vertrauen sind dabei fester
-Bestandteil unserer Unternehmensphilosophie."</blockquote>
+Bestandteil unserer Unternehmensphilosophie."
+
+</blockquote>
 
 ## Green Brand Siegel für Primavera
 
@@ -231,7 +232,5 @@ Primavera weiter informieren.
 - _Hinweis: Dieser Beitrag enthält Werbung. Der Inhalt und meine Meinung wurden
   dadurch nicht beeinflusst. Infos zum Thema Werbekennzeichnung in meinem Blog
   findet Ihr auf meiner [Transparenz-Seite](/werbung/). _
-
--->
 
   

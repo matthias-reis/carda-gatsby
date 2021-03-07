@@ -34,8 +34,7 @@ date: 2017-10-17T15:42:56.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (68:40)"
+errors: {}
 thumbnailId: "18122"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_IMG_3560__l.jpg
@@ -44,9 +43,6 @@ subTitle: Besuch der Guinness Brauerei in Dublin
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (68:40)
-
-<!--
 **Traditionell wurde Guiness schon früher ohne den Klärvorgang mit Hausenblase
 hergestellt. Das war leider viele Jahre nicht mehr der Fall, was den Genuss des
 Bieres für Veganer und Vegetarier unmöglich machte. Erst vor Kurzem kam man
@@ -112,7 +108,12 @@ am besten, oder?
 
 ### Das meldet Guinness:
 
-<blockquote><span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="UFICommentBody _1n4g">"Die Abfüllung mit dem veganen Filtersystem für <span class="highlightNode">Guinness Draught (Dose und Fass) hat im August 2016 gestartet und wird in mehreren Prozessen an unsere Händler und Pubs distributiert.</span></span></span>
+<blockquote>
+
+<span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="UFICommentBody _1n4g">"Die
+Abfüllung mit dem veganen Filtersystem für <span class="highlightNode">Guinness
+Draught (Dose und Fass) hat im August 2016 gestartet und wird in mehreren
+Prozessen an unsere Händler und Pubs distributiert.</span></span></span>
 
 Da die Distribution noch läuft, könnte es sein, dass Restbestände die noch mit
 dem bisherigen Filtersystem abgefüllt worden sind, im Markt vorhanden sein
@@ -123,7 +124,9 @@ Veganen Filtersystem abgefüllt wurde, so prüfen Sie bitte das MHD. Wenn das MH
 mindestens September 2017 ist, können Sie sicher sein, dass das GUINNESS durch
 das neue Vegane Filtersystem gelaufen ist.
 
-Liebe Grüße Ihr Guinness WebTeam"</blockquote>
+Liebe Grüße Ihr Guinness WebTeam"
+
+</blockquote>
 
 <sub>Vielen Dank an Robin Rader für den Hinweis.</sub>
 
@@ -158,7 +161,5 @@ Liebe Grüße Ihr Guinness WebTeam"</blockquote>
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
--->
 
   

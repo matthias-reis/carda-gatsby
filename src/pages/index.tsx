@@ -29,7 +29,10 @@ export const query = graphql`
     allMdx(
       limit: 23
       sort: { fields: frontmatter___date, order: DESC }
-      filter: { fields: { type: { in: ["article", "wordpress"] } } }
+      filter: {
+        frontmatter: { language: { ne: "en" } }
+        fields: { type: { in: ["article", "wordpress"] } }
+      }
     ) {
       edges {
         node {

@@ -34,8 +34,7 @@ date: 2019-08-26T12:38:32.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (143:20)"
+errors: {}
 thumbnailId: "25779"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_fire-2197606_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_fire-2197606_1280__l.jpg
@@ -44,9 +43,6 @@ subTitle: Umweltkatastrophe durch Konsum
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (143:20)
-
-<!--
 **Brasilien, Paraguay und Bolivien befinden sich im Moment unter einer
 Rauchglocke. Der Regenwald brennt. Es ist eine Naturkatastrophe von bisher
 unbekanntem Ausmaß.**
@@ -192,7 +188,16 @@ Schmiedinger. Ich gebe es hier frei wieder.
 
 ## Das sagt Geophysiker und Lebensmittelwissenschaftler Kurt Schmiedinger
 
-<blockquote>"Die 'Produktion' von 65 Milliarden 'Nutztieren' pro Jahr zieht massive ökologische Konsequenzen nach sich. Wir sprechen hier zum Beispiel vom mit Abstand größten Flächenverbrauch auf der Erde. Zwei Drittel aller vom Menschen genutzten Flächen fallen an die Tierhaltung. Sie werden also als Weideflächen und für den Futtermittelanbau genutzt. Wir benötigen viel mehr Pflanzen, wenn wir aus ihnen Futtermittel herstellen, als wenn wir sie einfach direkt verzehren würden. Wenn wir Pflanzen essen, ist das weitaus effizienter, als wenn wir die Pflanzen erst an Tiere verfüttern.
+<blockquote>
+
+"Die 'Produktion' von 65 Milliarden 'Nutztieren' pro Jahr zieht massive
+ökologische Konsequenzen nach sich. Wir sprechen hier zum Beispiel vom mit
+Abstand größten Flächenverbrauch auf der Erde. Zwei Drittel aller vom Menschen
+genutzten Flächen fallen an die Tierhaltung. Sie werden also als Weideflächen
+und für den Futtermittelanbau genutzt. Wir benötigen viel mehr Pflanzen, wenn
+wir aus ihnen Futtermittel herstellen, als wenn wir sie einfach direkt verzehren
+würden. Wenn wir Pflanzen essen, ist das weitaus effizienter, als wenn wir die
+Pflanzen erst an Tiere verfüttern.
 
 Aus der Livestock's Long Shadow Studie der FAO [<sup>6</sup>](#6) geht hervor,
 dass die Nutztierhaltung mit 18 Prozent zum Weltklimawandel beiträgt. Das ist
@@ -219,7 +224,9 @@ und unsere Kunststoffe auf Agrarflächen anbauen. Wir müssen lernen, effiziente
 mit den uns zur Verfügung stehenden Flächen umzugehen. Das alles hängt mit der
 Nutztierhaltung zusammen: Wasserverschwendung, Wasserverschmutzung, Klimawandel,
 Verlust der Artenvielfalt, Regenwaldzerstörung. Wir dürfen dieses System nicht
-aufrechterhalten."</blockquote>
+aufrechterhalten."
+
+</blockquote>
 
 ## Wir müssen jetzt umdenken
 
@@ -249,7 +256,5 @@ rein.
 
 Foto im Header:
 [suhasrawool](https://pixabay.com/de/users/suhasrawool-4832239/), pixabay
-
--->
 
   

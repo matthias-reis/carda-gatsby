@@ -38,8 +38,7 @@ date: 2017-10-06T15:03:46.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (68:5)"
+errors: {}
 thumbnailId: "18032"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_36828633353_d7e6a62388_k__l.jpg
@@ -48,9 +47,6 @@ subTitle: Fröhliche Menschen und altehrwürdige Bauten
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (68:5)
-
-<!--
 **Wie schon im letzten Beitrag erwähnt, starteten wir unseren diesjährigen
 Roadtrip durch Irland in Dublin. Die zwei Tage, die wir dort hatten, nutzten wir
 vor allem für ausgedehnte Spaziergänge.**
@@ -108,11 +104,10 @@ Selbstverständlichkeit, mit der die Menschen mit dem Thema umgehen. Im
 vegan/vegetarischen Lokal _Cornuconia_ labten wir uns gegen Abend an der
 leckeren veganen Lasagne.
 
-<blockquote>In Dublin's fair city
-Where the girls are so pretty
-I first set my eyes on sweet Molly Malone
-As she wheeled her wheelbarrow
-Through the streets broad and narrow
+<blockquote>
+
+In Dublin's fair city Where the girls are so pretty I first set my eyes on sweet
+Molly Malone As she wheeled her wheelbarrow Through the streets broad and narrow
 Crying "cockles and mussels, alive, alive, oh"
 
 Alive, alive, oh Alive, alive, oh Crying "cockles and mussels, alive, alive, oh"
@@ -129,8 +124,9 @@ narrow Crying "cockles and mussels, alive, alive, oh"
 
 Alive, alive, oh Alive, alive, oh Crying "cockles and mussels, alive, alive, oh"
 
-Alive, alive, oh Alive, alive, oh Crying "cockles and mussels, alive, alive,
-oh"</blockquote>
+Alive, alive, oh Alive, alive, oh Crying "cockles and mussels, alive, alive, oh"
+
+</blockquote>
 
 <Gallery name="flickr/annedublin2017" />
 
@@ -163,7 +159,5 @@ oh"</blockquote>
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
--->
 
   

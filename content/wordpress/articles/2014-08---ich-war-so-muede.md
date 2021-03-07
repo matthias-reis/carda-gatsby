@@ -145,7 +145,21 @@ unser Vitamin B12, unseren Sex und wir müssen auch nicht barfuß rumlaufen.
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2014_08_salat-mit-spitzkohl-pastinaken-sprossen-netzmelone-und-falafeln__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAAwEAABAwMCBAQDCQAAAAAAAAABAgMEBQYRACEHEjFhEyJBURQycQgWFyMkUmLB0f/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAQIE/8QAKhEAAgECBAILAQAAAAAAAAAAAQIDABEEEiExQXETMlFhYoGRodHh8PH/2gAMAwEAAhEDEQA/AA7h1Z793VZMKKqMwyhsOyZb48jCP7UT0H+HTU5atjWrGdjU+l0e5alGbD0t6Q+t4pSTgEhP5aTk9Njj30bQ4wZsi1oUFpx1csvVCa224Bz+YoRnslKOnc40wooFN/DQR6BAYkPtAy6q8hCk/EOcwAbTjBUncqzjGE56nSuaWRJmyvpbQafevptTnBwRuUkmF1va2o876UZ1tm1357DP3XZbekIUfGYUYyEjOMoSCoY5tgSN8b6o70tCLRqay+0wFxJsIzI0goShe2QUqA2yk4zjYggj1GnKn0Cm1O34U6dSqe+GG2wlTaCFq25eXcYSnzZ+uT31Q/aFiuG3ae8YiIzcdpSGQlYKVtqaOcJGwAKMD3GTpbgcVLLOEBPiuee3toLcqtOkMYyqvE/yo3CijUq5eHEN5CQ1WKYFMYaUkF1BUFJ5gc9SrY9jpZqsSmW9ZlPW69KaYgNqeeUlsKdcbIKHDv8AuJAAz0A1yPRa4iCY0qm1T4CU22gHw3CkkjGRg7em4Ox0xP8AG23q5AQi54zrjhj+A9HjOgsujc825BSc+gz6bnG0zYSWF3ZAWDcBuLm/zQVmZcq5rqO+tfYVYp9wh5CI8pGGv1MTYuOrUAkFKxk8oCcn6++iG8qFUqNSp8WtPSn5S2luoU48pwFAChz4PynqNwPUDV7RuKtKt3x2bTYispfCCXqjKCiggfKQjGRud+2s1c9yRLhjVWoVauxFyVxV5AUCpZ5SG2220/yI7AZJOjYfCSifpGXKNz2k/t60SYoFnK9UjjvX/9k=" />
 
-<blockquote>"Unter Insulinresistenz versteht man ein vermindertes Ansprechen der Körperzellen auf das Hormon Insulin. Den Daten einer vor Kurzem in der Fachzeitschrift 'Diabetes Care' veröffentlichte Studie mit 518 gesunden Probanden im Alter von 15 bis 20 Jahren zufolge, kann eine fettarme, ballaststoffreiche Ernährung die Insulinempfindlichkeit erhöhen. Die Teilnehmer waren seit ihrer frühen Kindheit an dieser Studie beteiligt und wurden im Hinblick auf ihre Herzgesundheit kontinuierlich über erforderliche Veränderungen ihrer Ernährungsgewohnheiten informiert. Die Wissenschaftler ermunterten sie dazu, mehr Obst, Gemüse und Vollkornprodukte zu sich zu nehmen. Sie bewerteten die Insulinresistenz der Teilnehmer und überwachten ihren allgemeinen Gesundheitszustand. Probanden, deren Ernährung einen höheren Ballaststoffgehalt und weniger gesättigte Fettsäuren aufwies, zeigten eine bessere Insulinempfindlichkeit.
+<blockquote>
+
+"Unter Insulinresistenz versteht man ein vermindertes Ansprechen der
+Körperzellen auf das Hormon Insulin. Den Daten einer vor Kurzem in der
+Fachzeitschrift 'Diabetes Care' veröffentlichte Studie mit 518 gesunden
+Probanden im Alter von 15 bis 20 Jahren zufolge, kann eine fettarme,
+ballaststoffreiche Ernährung die Insulinempfindlichkeit erhöhen. Die Teilnehmer
+waren seit ihrer frühen Kindheit an dieser Studie beteiligt und wurden im
+Hinblick auf ihre Herzgesundheit kontinuierlich über erforderliche Veränderungen
+ihrer Ernährungsgewohnheiten informiert. Die Wissenschaftler ermunterten sie
+dazu, mehr Obst, Gemüse und Vollkornprodukte zu sich zu nehmen. Sie bewerteten
+die Insulinresistenz der Teilnehmer und überwachten ihren allgemeinen
+Gesundheitszustand. Probanden, deren Ernährung einen höheren Ballaststoffgehalt
+und weniger gesättigte Fettsäuren aufwies, zeigten eine bessere
+Insulinempfindlichkeit.
 
 <RemoteImage
   alt="müde"
@@ -164,7 +178,10 @@ schlanker, als Fleischesser. Zudem wurde nachgewiesen, dass die
 Wahrscheinlichkeit einer Erkrankung an Diabetes und anderen lebensbedrohlichen
 Krankheiten bei Veganern geringer ist, als bei Fleischessern.
 "[<small>Neal Barnand, Arzt und Autor des Buches "Power Foods For The Brain" im PETA-Magazin "animaltimes" 2014</small>](http://www.peta.de)"
-</blockquote>### Die Oxford Vegetarian Study
+
+</blockquote>
+
+### Die Oxford Vegetarian Study
 
 An einer von 1980 bis 2000 durchgeführten Studie nahmen rund 11.000 Probanden
 teil, davon etwa 4.700 Vegetarier\*innen (inklusive zehn Prozent

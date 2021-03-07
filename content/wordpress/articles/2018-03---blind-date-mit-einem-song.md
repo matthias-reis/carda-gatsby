@@ -34,8 +34,7 @@ date: 2018-03-10T09:00:16.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (21:61)"
+errors: {}
 thumbnailId: "19617"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Peaches__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_Peaches__l.jpg
@@ -44,17 +43,21 @@ subTitle: '"Peaches" von Presidents Of The United States'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (21:61)
-
-<!--
 Zum Jahresanfang gab es eine kleine Überraschung für mich: Björn vom Blog
 Gartenbaukunst kündigte das nächste Blind Date mit einem Song an. Das Tolle
 daran: Der Song! Ich darf über "Peaches" von den Presidents Of The United States
 schreiben! Ich meine: Wie genial ist das denn?
 
 <blockquote>
+
 ## Für alle, die die Bloggeraktion „Blind Date mit einem Song“ noch nicht kennen, hier noch eine kurze Erklärung:
-Jede/r Blogger/in, der/die teilnimmt, hat ein Blind Date. Nicht mit einem Menschen, sondern mit einem Song. Alle Teilnehmer hören sich das selbe Lied an und schreiben ihre Assoziationen dazu auf. Dabei sind sie ganz frei und können ihrem Schreibstil und ihrer Fantasie freien Lauf lassen. Alle Blogger veröffentlichen Ihre Artikel am selben Tag zu selben Uhrzeit und verlinken sich untereinander.
+
+Jede/r Blogger/in, der/die teilnimmt, hat ein Blind Date. Nicht mit einem
+Menschen, sondern mit einem Song. Alle Teilnehmer hören sich das selbe Lied an
+und schreiben ihre Assoziationen dazu auf. Dabei sind sie ganz frei und können
+ihrem Schreibstil und ihrer Fantasie freien Lauf lassen. Alle Blogger
+veröffentlichen Ihre Artikel am selben Tag zu selben Uhrzeit und verlinken sich
+untereinander.
 
 Ausgedacht haben sich das „Blind Date mit einem Song“ Caro von 
 _Hauptstadtgarten\*_ und Björn von  _Gartenbaukunst_ \*. Heute findet es zum
@@ -64,7 +67,9 @@ Für mich liegt der Reiz der Aktion in der Neugierde darauf, was die anderen
 schreiben. Die letzen Male fiel mir auf, dass wirklich jede/r der 11
 Teilnehmer/innen etwas komplett Anderes über den Song geschrieben hatte, es sich
 aber dennoch alles sehr gut ineinanderfügte. Die Texte passten, obwohl sie
-unterschiedlich waren, sehr gut zusammen. Sie harmonierten.</blockquote>
+unterschiedlich waren, sehr gut zusammen. Sie harmonierten.
+
+</blockquote>
 
 ## Mein Blind Date mit "Peaches" von den Presidents Of The United States
 
@@ -173,7 +178,5 @@ _To be continued..._
 Text: [Coulour](https://pixabay.com/de/users/Couleur-1195798/), Pixabay; zweites
 Bild im Text; [Free Photos](https://pixabay.com/de/users/Free-Photos-242387/),
 Pixabay
-
--->
 
   

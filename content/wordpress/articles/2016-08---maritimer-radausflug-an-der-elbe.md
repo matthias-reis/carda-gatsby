@@ -19,8 +19,7 @@ date: 2016-08-24T14:09:57.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (23:19)"
+errors: {}
 thumbnailId: "15140"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29126552756_b221c36c73_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_08_29126552756_b221c36c73_z-1__l.jpg
@@ -29,9 +28,6 @@ subTitle: Hamburg mit dem Fahrrad
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (23:19)
-
-<!--
 **Einige von Euch kennen bereits meine Bilder vom Meer und von der Elbe. Hin und
 wieder bekomme ich auch mal eine Nachricht "Mal wieder so ein maritimer Moment
 in Deinem Blog, das wäre toll!".**
@@ -49,7 +45,9 @@ _Schiff ahoi!_
 
 <Gallery name="flickr/annegruenerguertel1" />
 
-<blockquote>Am Flusse
+<blockquote>
+
+Am Flusse
 
 Verfließet, vielgeliebte Lieder, Zum Meere der Vergessenheit! Kein Knabe sing
 entzückt euch wieder, Kein Mädchen in der Blütenzeit.
@@ -57,8 +55,8 @@ entzückt euch wieder, Kein Mädchen in der Blütenzeit.
 Ihr sänget nur von meiner Lieben; Nun spricht sie meiner Treue Hohn. Ihr wart
 ins Wasser eingeschrieben; So fließt denn auch mit ihm davon.
 
-J. W. Goethe</blockquote>
+J. W. Goethe
 
--->
+</blockquote>
 
   

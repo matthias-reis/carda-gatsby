@@ -4,19 +4,27 @@ seoTitle: Mediakit - Meine Seitendaten für Kooperationen und Projekte
 slug: mein-mediakit
 path: /mediakit/
 fileName: 2017-02---mein-mediakit.md
-description:
-  Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde, habe
-  ich mir jetzt mal die Zeit genommen und alle wichtigen Daten zusammengefasst.
-excerpt:
-  Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde, habe
-  ich mir jetzt mal die Zeit genommen und alle wichtigen Daten zusammengefasst.
+description: Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt
+  werde, habe ich mir jetzt mal die Zeit genommen und alle wichtigen Daten
+  zusammengefasst.
+excerpt: Da ich in letzter Zeit immer wieder nach meinem Mediakit gefragt werde,
+  habe ich mir jetzt mal die Zeit genommen und alle wichtigen Daten
+  zusammengefasst.
 focusKeyword: Rock 'n' Roll vegan – Mein Mediakit
-type: page
+labels: null
+type: null
+typeName: Artikel
 date: 2017-02-15T17:01:30.000Z
+status: publish
+isWerbung: false
+isAffiliate: false
+errors: {}
+thumbnailId: "15824"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_02_15634572327_788353cba5_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_02_15634572327_788353cba5_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAQGAgUH/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAAFEQYSIQcxQRMiYYEVMlFxkf/EABcBAAMBAAAAAAAAAAAAAAAAAAEFBgT/xAAiEQABBAAFBQAAAAAAAAAAAAACAAEDEQQSITFBIiNRcbH/2gAMAwEAAhEDEQA/AI2waQuimkOPRHAhQyCoYB/2qJzRs1TCw7bnC0RlW5vI247nxj5qM6h6kZu95YQ9JM2NEQltjdLZkenkJUsApThSM9j5xzg5Far86lc1mQ36zrrewe53aNqeAnjsMcYx2qsDHiLUzNSjJsBKZXme/Wn1YR9HTRe4OIziGn0qWhwDIUkbh3+cDn5pXUGkp7AKmoyikeBzTEHVL8Vcl1c2Y4+rchCfXIKEHg+4Y8cGq3QurrdLt822X9wMRI7ReafUt5xZWpQGDjjGOcYH91gGSF+gm358JiY4oe4GtcVuufyepV8uDja7s1ZJ62/1XIs8YqH2EAn7of13KkMoactmndiCVJCbQynk/wAkDn7oopSMpNynrwg+7JljqbfYTTjcIWZltxIStKLRGIWkZwDlByOT3paR1S1Y4hTbdxjR21ZymNb47IOe/wCqBRRQKUru0WiBhy1ov//Z
 subTitle: Seitendaten für Kooperationen und Projekte
+  
 ---
 
 **Für meine Kooperationspartner habe ich ein
@@ -43,3 +51,5 @@ mit Euch!
 Stand 12/2019 Anne bloggt cardamonchai - Rock 'n' Roll vegan
 
 Jetzt per [E-Mail](mailto:info@cardamonchai.com)  kontaktieren.
+
+  

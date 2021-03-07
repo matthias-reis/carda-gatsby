@@ -86,7 +86,10 @@ export const query = graphql`
   query ListQuery($label: String!) {
     allMdx(
       sort: { fields: frontmatter___date, order: DESC }
-      filter: { fields: { labels: { eq: $label } } }
+      filter: {
+        frontmatter: { language: { ne: "en" } }
+        fields: { labels: { eq: $label } }
+      }
     ) {
       edges {
         node {

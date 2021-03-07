@@ -30,8 +30,7 @@ date: 2016-03-15T11:22:20.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (35:43)"
+errors: {}
 thumbnailId: "14311"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2016_03_12598574003_1238eab471_z-1__l.jpg
@@ -40,9 +39,6 @@ subTitle: Gedicht und Bilder
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (35:43)
-
-<!--
 <RemoteImage
   alt="Straßenlaternen"
   size="medium"
@@ -67,9 +63,10 @@ automatisch aktualisiert. Ihr findet die Bilder im Anschluss an das nun folgende
 -Gedicht.
 
 <blockquote>
+
 ## Straßenlaternen
-Wie wäre es mit einem kleinen Abendspaziergang?
-Laternen Romantik
+
+Wie wäre es mit einem kleinen Abendspaziergang? Laternen Romantik
 
 Alteisenhändler zeigen für entwurzelte Romantik kein Interesse Eine romantische
 Nachtszene
@@ -81,7 +78,9 @@ Exklusive Laterne Twilight aus Holland
 Ihre Lippen waren halb geöffnet Bitte schalten Sie ein
 
 Im Schein der Straßenlaternen werden überfüllte Plätze plötzlich zu romantischen
-Orten Die Stadt investiert in Beleuchtung</blockquote>
+Orten Die Stadt investiert in Beleuchtung
+
+</blockquote>
 
 Das Gedicht habe ich aus verschiedenen Suchergebnissen der Suchmaschine zur
 Wortkombination "Straßenlaterne Romantik" (Seite 1 - 9) gedichtet.
@@ -111,7 +110,5 @@ Eine laufend aktualisierte Fotosammlung mit verschiedenen Gesichtern dieser Wel
 1.  [Amsterdam - Grachten und Gassen](/2018/03/amsterdam/)
 1.  [Abschied von Dir - Tschüss, mach es gut](/2018/04/abschied-von-dir/)
 1.  [Erster Mai - Gegensätze](/2018/05/erster-mai-gegensaetze/)
-
--->
 
   

@@ -33,8 +33,7 @@ date: 2018-08-07T14:32:33.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (22:57)"
+errors: {}
 thumbnailId: "21584"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43182891864_bf05c0427a_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_43182891864_bf05c0427a_z__l.jpg
@@ -43,17 +42,15 @@ subTitle: Blumen und Schwerter an der Trelleborg
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (22:57)
-
-<!--
 **Bei unserem Besuch der Schwedischen Trelleborg im Juni war das komplette
 Gelände von blühenden Wildblumen übersät. Zeit für ein paar Bilder, ein Gedicht
 und einen kleinen Ausflug in die Geschichte.**
 
 <blockquote>
+
 ## Die Wikinger
-Drachenblut auf Stahl
-Sie schließen Brüderschaft im hohen Gras
+
+Drachenblut auf Stahl Sie schließen Brüderschaft im hohen Gras
 
 Ein Beil hängt hoch über der Tafel Erinnert sie an ihre letzte Schlacht
 
@@ -71,7 +68,9 @@ Es ist kühl in der Burg Draußen senkt sich die Sommersonne
 
 Der Wein wärmt das Herz und lässt die rastlosen Beine zur Ruhe kommen
 
-Ihre Wunden pochen wie der Herzschlag ihrer Kinder</blockquote>
+Ihre Wunden pochen wie der Herzschlag ihrer Kinder
+
+</blockquote>
 
 ## Die Trelleborg - Kleiner geschichtlicher Exkurs
 
@@ -114,7 +113,5 @@ logisch klingt. Schließlich wurde die kreisförmige Wallanlage damit in der fü
 ihre Zeit typischen Stabbautechnik errichtet.
 
 <Gallery name="flickr/annetrelleborgburg201806" />
-
--->
 
   

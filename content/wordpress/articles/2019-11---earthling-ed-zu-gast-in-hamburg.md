@@ -35,8 +35,7 @@ date: 2019-11-25T07:08:39.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (32:39)"
+errors: {}
 thumbnailId: "26968"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_2019-11-23-earthling-ed-2__l.jpg
@@ -45,9 +44,6 @@ subTitle: '"Es ist OK, ein*e wütende Veganer*in zu sein!"'
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (32:39)
-
-<!--
 **Am Samstag hatten wir das große Glück bei einer ganz besonderen Veranstaltung
 dabei zu sein: Anonymous For the Voiceless hatten den veganen Aktivisten
 Earthling Ed in einen Hamburger Coworking Space eingeladen.**
@@ -72,14 +68,22 @@ Milchschokolade anbieten?"
 Ich habe Eds Antwort mitgeschrieben und werde versuchen, seinen Rat in Zukunft
 zu beherzigen:
 
-<blockquote>"Das ist wirklich eine schwierige Frage. Was tut man in so einem Fall? Ich glaube, am besten versuchst Du, es nochmal ins Gedächtnis zu rufen, warum Du Dich dafür entschieden hast, so zu leben. Es ist ja nicht wie bei einem Glauben. Du glaubst nicht an irgendwas. Es ist einfach die Wahrheit. Es ist so, wie es ist. Wie schaffen sie es, zu leugnen, was erwiesen und wahr ist?
+<blockquote>
+
+"Das ist wirklich eine schwierige Frage. Was tut man in so einem Fall? Ich
+glaube, am besten versuchst Du, es nochmal ins Gedächtnis zu rufen, warum Du
+Dich dafür entschieden hast, so zu leben. Es ist ja nicht wie bei einem Glauben.
+Du glaubst nicht an irgendwas. Es ist einfach die Wahrheit. Es ist so, wie es
+ist. Wie schaffen sie es, zu leugnen, was erwiesen und wahr ist?
 
 Wie gelingt es einem, da durchzudringen? Mit Verständnis? Empathie? Es ist nicht
 einfach. Ich meine, sie haben immer noch ihr Kotelett auf dem Teller liegen. Das
 hat dann für mich umgekehrt auch wieder was mit Respekt zu tun. Ich bin kein
 Verfechter davon, dass Veganer\*innen keine nicht-veganen Freunde mehr haben
 sollten. Man sollte wirklich sehr vorsichtig mit so etwas umgehen und sich mit
-viel gegenseitigem Respekt begegnen."</blockquote>
+viel gegenseitigem Respekt begegnen."
+
+</blockquote>
 
 ## Veganer\*innen dürfen wütend sein
 
@@ -173,7 +177,5 @@ Hat Euch mein Beitrag neugierig gemacht? Das freut mich sehr! Hier ein Video zum
 Thema "wütende Veganer\*innen", das Ed vor einiger Zeit aufgenommen hat.
 
 <iframe src="https://www.youtube.com/embed/OMIsFajOCYk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
--->
 
   

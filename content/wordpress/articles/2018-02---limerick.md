@@ -28,8 +28,7 @@ date: 2018-02-22T17:07:53.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (39:66)"
+errors: {}
 thumbnailId: "19730"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25353494967_37e19b2ae5_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_02_25353494967_37e19b2ae5_z__l.jpg
@@ -38,9 +37,6 @@ subTitle: Fünf Zeilen Spaß und eine Stadt in Irland
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (39:66)
-
-<!--
 **Zum Anlass meines Rückblicks auf unseren Besuch in Limerick im Rahmen unserer
 Irlandreise im letzten Herbst, habe ich mir mal was ganz Neues einfallen lassen.
 Ich habe mich an einem Limerick versucht. Was sich als gar nicht so einfach
@@ -67,15 +63,16 @@ Bilder habe ich bei unserem Besuch dort am 12.11.2017 aufgenommen.
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcD/8QALBAAAQMDAwMDAgcAAAAAAAAAAQIDEQAEBQYSIQcTUSIxQTJCFGFxkaGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQEAAgMAAwAAAAAAAAAAAAABAAIDETEhIkH/2gAMAwEAAhEDEQA/AMob6xauRbC3tXMXbAHkNY5gJI8bdlX8P1N1pkn3RdamsLNtlsuJ7uPYAWR9ghEyfAM+KzRv65ERH+U+4XUWIx2IYtkW956Wy+vcEnc7AmDP5ceBQ+vCHes4ZnqbrDMoXbXmSdRYupCHbFuQ24JkhQMn+fimbok+Mjrhd3ddtp22sXQ0lCiNxUUpIjkkwo8Uh6kv7S9yhvccl9pS0hTqlGJcPynnjiB+oNNvRjI4zH6ptr7J3KUutOKTKnFghC29qlbQhW7355BATxM0ywJZJLNjb47Vr9JmzLyEWFyhbCFuOLb2PGZbAncB8cyP2q9b5W9DSGkJYVtAEfh0rMRxPB80UUyUZC6usg8l1Kmilp3Z3ALePpnbBjj3Mx7/ADVvRr9qxnmH8gh1y0G5LiGne2pXpJAmD923+uJmiisp4j22NM//2Q==" />
 
 <blockquote>
+
 ## Des Burschen Trick
-Es war einst ein Bursch in Limerick
-Der fand Gefallen an einem Trick
-Trank er viel des Nachts
-Sprach er gern aus den Satz
-Schreib es auf den Deckel von Nick
+
+Es war einst ein Bursch in Limerick Der fand Gefallen an einem Trick Trank er
+viel des Nachts Sprach er gern aus den Satz Schreib es auf den Deckel von Nick
 
 Doch Nick war kein dummer Gesell Und so fand er es raus sehr schnell Er band
-einen Strick Um des Burschen Genick Und hängte ihn ans Karussell</blockquote>
+einen Strick Um des Burschen Genick Und hängte ihn ans Karussell
+
+</blockquote>
 
 Na ja, ich übe noch. Ist echt ganz schön schwierig, wenn man es das erste Mal
 ausprobiert, aber es macht auch großen Spaß!
@@ -144,7 +141,5 @@ Jahr 1765.
 1.  [Irischer Traumstrand](/2018/05/irischer-traumstrand/)
 1.  [Connemara National Park](/2018/05/connemara-national-park/)
 1.  [Kylemore Abbey](/2018/05/kylemore-abbey/)
-
--->
 
   

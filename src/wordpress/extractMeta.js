@@ -5,9 +5,14 @@ const { slugify } = require('../gatsby/slugify');
 
 const { images } = require('../../content/wordpress/media/images.json');
 
+const sanitize = (s) => s.replace('&amp;', '&');
+
 const getLabels = (e, cat, link) => {
-  if (cat.domain[0] === 'post_tag' || cat.domain[0] === 'category') {
-    return cat.node.replace('&amp;', '&');
+  if (cat.domain[0] === 'post_tag') {
+    return sanitize(cat.node);
+  } else if (cat.domain[0] === 'category') {
+    // currently doing the same. Maybe must be changed
+    return sanitize(cat.node);
   } else if (cat.domain[0] !== 'type') {
     e(
       meta.fileName,

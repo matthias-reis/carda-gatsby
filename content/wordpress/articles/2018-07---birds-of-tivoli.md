@@ -31,8 +31,7 @@ date: 2018-07-17T05:58:06.000Z
 status: publish
 isWerbung: false
 isAffiliate: false
-errors:
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (47:73)"
+errors: {}
 thumbnailId: "21377"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Birds-Of-Tivoli__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_Birds-Of-Tivoli__l.jpg
@@ -41,9 +40,6 @@ subTitle: Gefiederte Besucher im Vergnügungspark
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (47:73)
-
-<!--
 **_"Birds, Birds, Birds"_ - Im Tivoli sind uns nicht nur jede Menge Menschen mit
 strahlenden Augen begegnet, die dabei waren, den Park zu genießen, sondern auch
 ein paar gefiederte Persönlichkeiten.**
@@ -88,9 +84,10 @@ Vielleicht werde ich mich Richtung Herbst diesem Thema noch einmal gesondert
 widmen. Nun erstmal zu den Birds Of Tivoli.
 
 <blockquote>
+
 ## Birds Of Tivoli
-Lebensraum am Wasser.
-Im Schatten der Renaissance-Villa.
+
+Lebensraum am Wasser. Im Schatten der Renaissance-Villa.
 
 Fütter mich. Ich zeige Dir mein buntes Gefieder.
 
@@ -100,10 +97,10 @@ Ich spiele im Brunnen. Die Tropfen perlen von mir ab.
 
 Von der Sonne müde geworden, verstecke ich mich im Unterholz.
 
-Ich freue mich auf Deinen nächsten Besuch. Bringst Du mir was mit?</blockquote>
+Ich freue mich auf Deinen nächsten Besuch. Bringst Du mir was mit?
+
+</blockquote>
 
 <Gallery name="flickr/annebirdsoftivoli2018" />
-
--->
 
   

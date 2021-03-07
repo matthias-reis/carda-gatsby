@@ -34,7 +34,6 @@ isWerbung: false
 isAffiliate: false
 errors:
   outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (35:8)"
 thumbnailId: "18799"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_01_6__l.jpg
@@ -43,9 +42,6 @@ subTitle: Luxus ohne Tierversuche
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (35:8)
-
-<!--
 Werbung, Anzeige &amp; Affiliate Link\*
 
 **Ich habe jetzt zwei Produkte von Ashéra Cosmetics getestet. Wie sie bei mir
@@ -74,7 +70,11 @@ Produkt selbst sowie natürlich die Inhaltsstoffe frei von Inhaltsstoffen
 tierischer Herkunft sind und nicht an Tieren getestet wurden. Die Antwort kam
 prompt und fiel direkt aus:
 
-<blockquote>"Wir haben uns sehr über Deine Anfrage gefreut und finden, Dein Blog rockt! Die Yin Yang Balance 24-Stunden-Pflege und der Reinigungsschaum sind tatsächlich komplett vegan und natürlich Tierversuchsfrei!
+<blockquote>
+
+"Wir haben uns sehr über Deine Anfrage gefreut und finden, Dein Blog rockt! Die
+Yin Yang Balance 24-Stunden-Pflege und der Reinigungsschaum sind tatsächlich
+komplett vegan und natürlich Tierversuchsfrei!
 
 Da uns hochwertige, rein pflanzliche Inhaltsstoffe sehr wichtig sind, freuen wir
 uns besonders, dass Du unsere Produkte testen möchtest
@@ -82,7 +82,9 @@ uns besonders, dass Du unsere Produkte testen möchtest
 Mehr zu den Inhaltsstoffen und unserem Qualitätsanspruch erfährst du auch in
 unserem Magazin. Schau zum Beispiel mal
 [hier](http://www.ashera-cosmetics.de/die-beste-qualitaet-ist-unser-anspruch)
-nach."</blockquote>
+nach."
+
+</blockquote>
 
 ## Der Produkttest
 
@@ -242,7 +244,5 @@ mit Trusted Blogs. Der Inhalt und meine Meinung wurden dadurch nicht
 beeinflusst.
 [Für Infos dazu bitte hier klicken](https://www.trusted-blogs.com/tipps/werbekennzeichnung).
 _
-
--->
 
   

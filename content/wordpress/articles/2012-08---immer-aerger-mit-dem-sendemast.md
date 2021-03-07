@@ -58,7 +58,7 @@ isWerbung: false
 isAffiliate: false
 errors:
   outsideImage: article has at least one image from another domain
-  invalidMdx: "unknown: Expected corresponding JSX closing tag for <p> (56:11)"
+  invalidMdx: "unknown: Expected corresponding JSX closing tag for <MDXLayout> (57:0)"
 thumbnailId: "5020"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_03_gemaltes-phone__l.jpg
@@ -67,7 +67,7 @@ subTitle: Von Warteschleifen und Wutanfällen
   
 ---
 
-## unknown: Expected corresponding JSX closing tag for &lt;p> (56:11)
+## unknown: Expected corresponding JSX closing tag for &lt;MDXLayout> (57:0)
 
 <!--
 Erstmal zu meiner Verteidigung: Ich weiß, ich mache Euch verrückt, aber das tun
@@ -125,7 +125,11 @@ erreichen. Ich hoffe auf Euer Verständnis. Drückt mir die Daumen und stay tune
 
 Küsse an alle
 
-Anne</blockquote> **Nachtrag vom 9.10.2012:**
+Anne
+
+</blockquote>
+
+**Nachtrag vom 9.10.2012:**
 
 Die Twitterin [@](https://twitter.com/taytomFFM) **
 [taytomFFM](https://twitter.com/taytomFFM) ** hat mich soeben dazu inspiriert,
