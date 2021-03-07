@@ -2,14 +2,12 @@
 title: Menschen beachtet Euch gegenseitig!
 seoTitle: Menschen beachtet Euch gegenseitig! Ich werde nie aufgeben
 slug: menschen-beachtet-euch-gegenseitig
-path:
+path: /2017/06/menschen-beachtet-euch-gegenseitig/
 fileName: 2017-06---menschen-beachtet-euch-gegenseitig.md
-description:
-  Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu und drehen
-  sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
-excerpt:
-  Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu und drehen
-  sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
+description: Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu
+  und drehen sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
+excerpt: Warum sehen Menschen anderen Menschen so gerne beim Scheitern zu und
+  drehen sich weg, wenn es darum geht zu helfen? Was stimmt mit uns nicht?
 focusKeyword: Menschen
 labels:
   - 9 Jahre bloggen
@@ -41,10 +39,11 @@ isWerbung: false
 isAffiliate: false
 errors:
   noSubtitle: no h2 heading found - no sub title
-thumbnailId: '16924'
+thumbnailId: "16924"
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-35__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_06_2017-06-18-Stamp-Festival-35__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGEzEiQVEHFLEjMjNhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCa+nfRN0u8M1wobyy0vphjldmRpRwSTgluCBkeD+E7fZagVVzhZ1LUcUUkyJVkOwb0fu3E7gx9vbVD0PcKOLou8VdvVqWcGYblO3mKBSpGMcbmJ/s86w/pMFqaySqq3Weont/8kpLDCsvLHPnkDPydBqT2rqC4xT22GnZmpi1LVSiSOWKMIiMSGfyxJxj/AHUNEa2aCluslvb7V5VEc01OhWTt8sucHBBUDPke2edUtwugtvUtwltS1dPBU12REE3NNIgXu4PPoO0vz4xqNnpLtd+k5YbQ9PNQUkCV1QiykEFGYMm08MQX3Y+PGg6hb6CGktzW+ExrRsCDHjJOQBySDxgY07S2+jp6Gqp4KSD9dVUkHGAGz4A+caNGgQulqp5LitfLHMahecI4ZcnGSFI9yAdZv3dRNNSd+lggaAvHJItN2zMpyAzBfT45P40aNB//2Q==
+  
 ---
 
 ## Ich werde nie aufgeben
@@ -208,3 +207,5 @@ Vielleicht sollten wir uns einfach ein Bisschen zurückbesinnen. Zu Büchern. Od
 uns einfach mal wieder in der Weinstube treffen und uns gegenseitig die Dinge
 vorlesen oder vorsingen, die uns wichtig sind. Damit die anderen sie mit uns
 fühlen können. Oder vielleicht bin ich auch einfach zu alt für diesen Scheiß.
+
+  

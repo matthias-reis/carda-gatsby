@@ -48,6 +48,8 @@ export type CompactArticle = Pick<
   | 'image'
   | 'remoteLoadingImage'
   | 'remoteThumbnailImage'
+  | 'language'
+  | 'links'
   | 'path'
   | 'date'
 >;

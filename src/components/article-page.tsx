@@ -8,9 +8,11 @@ import { Interactions } from './interactions';
 import { Title, Subtitle } from './typo';
 import { HR } from './hr';
 import { Container } from './container';
-import { ArticleCrossLinkSection } from './article-crosslink-section';
+import { ArticleSeries } from './article-series';
+import { ArticleLabels } from './article-labels';
+import { ArticleComments } from './article-comments';
+import { ArticleRecommendations } from './article-recommendations';
 import { FooterNavigation } from './footer-navigation';
-import { InteractionDetails } from './interaction-details';
 
 import { space, color, fontSize } from '../style';
 import { Article as ArticleMeta, CompactArticle } from '../types';
@@ -41,6 +43,7 @@ export const ArticlePage: React.FC<ArticleProps> = ({
   children,
   meta,
   recommendations,
+  series,
   path,
 }) => {
   const date = new Date(meta.frontmatter.date);
@@ -94,11 +97,10 @@ export const ArticlePage: React.FC<ArticleProps> = ({
         <div>{children}</div>
       </ArticleContainer>
       <ArticleFooter>
-        <InteractionDetails meta={meta} />
-        <ArticleCrossLinkSection
-          meta={meta}
-          recommendations={recommendations}
-        />
+        <ArticleSeries series={series} />
+        <ArticleComments meta={meta} />
+        <ArticleLabels labels={meta.fields.labels} />
+        <ArticleRecommendations recommendations={recommendations} />
         <FooterNavigation />
       </ArticleFooter>
     </div>
@@ -109,6 +111,7 @@ type ArticleProps = {
   meta: ArticleMeta;
   recommendations: CompactArticle[];
   path: string;
+  series: Record<string, CompactArticle[]>;
 };
 
 const LanguageArea = styled.div`

@@ -1,6 +1,6 @@
 const R = require('ramda');
 const images = require('../../content/wordpress/media/images.json');
-
+const { bold } = require('chalk');
 const urlToId = (s) =>
   s
     .replace('http://', '')
@@ -12,9 +12,10 @@ const imagesBySource = R.indexBy(
   Object.values(images.images)
 );
 
-const createImageTag = (article, src, alt, size, title = '') => {
+const createImageTag = (e, article, src, alt, size, title = '') => {
   const remoteImage = imagesBySource[urlToId(src)];
   if (!remoteImage) {
+    e('[img]', bold(article.meta.fileName), 'img from another domain');
     article.meta.errors.outsideImage =
       'article has at least one image from another domain';
   }
@@ -45,7 +46,7 @@ module.exports = async (l, e, line, article) => {
     const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(captionMatch[3]);
     const size = (sizeMatch && sizeMatch[1]) || 'medium';
 
-    const imgMd = createImageTag(article, src, alt, size, title);
+    const imgMd = createImageTag(e, article, src, alt, size, title);
     const md = line.replace(/\[caption.*\[\/caption\]/gms, '').trim();
     return md ? [imgMd, md].join('\n\n') : imgMd;
   } else if (imgMatch) {
@@ -56,7 +57,7 @@ module.exports = async (l, e, line, article) => {
     const sizeMatch = /class="[^"]*size-([^ "]*)[^"]*"/.exec(imgMatch[1]);
     const size = (sizeMatch && sizeMatch[1]) || 'medium';
 
-    const imgMd = createImageTag(article, src, alt, size);
+    const imgMd = createImageTag(e, article, src, alt, size);
     const md = line.replace(/\<img.*>/gms, '').trim();
     return md ? [imgMd, md].join('\n\n') : imgMd;
   } else {

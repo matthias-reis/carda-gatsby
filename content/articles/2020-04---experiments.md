@@ -12,6 +12,7 @@ labels:
   - Das ist ein längeres Label.
   - demo
   - experiment
+  - 'serie: Beispiele'
 type: Standard
 ---
 

@@ -12,6 +12,7 @@ labels:
   - foo
   - bar
   - experiment
+  - 'serie: Beispiele'
 type: Standard
 ---
 

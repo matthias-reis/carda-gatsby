@@ -22,7 +22,7 @@ const Comments: React.FC<{ meta: Article }> = ({ meta }) => (
 );
 const Loading: React.FC = () => <h1>...</h1>;
 
-export const InteractionDetails: React.FC<{ meta: Article }> = ({ meta }) => {
+export const ArticleComments: React.FC<{ meta: Article }> = ({ meta }) => {
   const [isComponentMounted, setIsComponentMounted] = React.useState(false);
   React.useEffect(() => setIsComponentMounted(true), []);
   return (

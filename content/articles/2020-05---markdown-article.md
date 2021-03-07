@@ -10,6 +10,7 @@ image: /img/madrid-042.jpg
 labels:
   - demo
   - experiment
+  - 'serie: Beispiele'
 type: Standard
 links: 
   en: /2020/05/en-markdown/ 

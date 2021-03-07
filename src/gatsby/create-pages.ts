@@ -3,6 +3,7 @@ import { getPath } from './slugify';
 import { CreatePagesArgs } from 'gatsby';
 
 import { recommend } from './recommend';
+import { getSeries } from './get-series';
 import { existsSync, mkdirSync, writeFileSync } from 'fs';
 import { Article, CompactArticle, Labels } from '../types';
 import { toCompactArticle } from '../to-compact-article';
@@ -31,6 +32,11 @@ query MyQuery {
           description
           remoteLoadingImage
           remoteThumbnailImage
+          language
+          links {
+            de
+            en
+          }
           image { 
             childImageSharp {
               fluid(maxWidth: 400, quality: 70) {
@@ -63,7 +69,6 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
 
   const edges = data!.allMdx.edges;
   const labels: Labels = {};
-  const series: Labels = {};
 
   for (const edge of edges) {
     const { fields } = edge.node;
@@ -98,6 +103,8 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
     // fire the recommender engine`
     const recommendations = recommend(article, labels);
 
+    const series = getSeries(article, labels);
+
     const singleArticlePageComponent = resolve(
       __dirname,
       '../components',
@@ -120,6 +127,7 @@ export const createPages = async ({ actions, graphql }: CreatePagesArgs) => {
       context: {
         id: edge.node.id,
         recommendations: recommendations.map((r) => r.articleId), // recos are now in context and can be used in the query
+        series: series,
       },
     });
   }

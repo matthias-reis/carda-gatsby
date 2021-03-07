@@ -10,6 +10,7 @@ image: /img/madrid-042.jpg
 labels:
   - demo
   - experiment
+  - 'serie: Beispiele'
 type: Standard
 language: en
 links:

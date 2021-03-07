@@ -15,7 +15,7 @@ import { Gallery } from './gallery';
 import { H1, H2, H3, H4, H5, H6, P, Ul, Ol, Li, BlockQuote } from './typo';
 import { HR } from './hr';
 import { toCompactArticle } from '../to-compact-article';
-import { Article } from '../types';
+import { Article, CompactArticle } from '../types';
 
 const shortcodes = { Meme, Youtube, Playlist, RemoteImage, Gallery };
 
@@ -35,10 +35,11 @@ const defaults = {
   blockquote: BlockQuote,
 };
 
-const ArticleController: React.FC<{ data: ArticleQuery; path: string }> = ({
-  data,
-  path,
-}) => {
+const ArticleController: React.FC<{
+  data: ArticleQuery;
+  path: string;
+  pageContext: { series: Record<string, CompactArticle[]> };
+}> = ({ data, path, pageContext }) => {
   const recommendations = data.allMdx.nodes.map(toCompactArticle);
   return (
     <MDXProvider components={{ ...defaults, ...shortcodes }}>
@@ -48,6 +49,7 @@ const ArticleController: React.FC<{ data: ArticleQuery; path: string }> = ({
             path={path}
             meta={data.mdx}
             recommendations={recommendations}
+            series={pageContext.series}
           >
             <MDXRenderer>{data.mdx.body}</MDXRenderer>
           </ArticlePage>
